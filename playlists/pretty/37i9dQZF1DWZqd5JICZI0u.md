@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,012,612 likes - 254 songs - 12 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,013,401 likes - 254 songs - 12 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 | 36 | [Sumargola](https://open.spotify.com/track/5zQm7n2ahnvGa3ntYy569W) | [Afturkalla](https://open.spotify.com/artist/5oPcLgpF7oNZ7eiuTZsohZ) | [Sumargola](https://open.spotify.com/album/1FhinixtO382WgvThtedas) | 3:31 |
 | 37 | [Cwsg](https://open.spotify.com/track/7kabmQdunJ6Jk5PAeTSwtL) | [Ymlacio](https://open.spotify.com/artist/3Tye8bBNb5g7QNBcpoFQRo) | [Cwsg](https://open.spotify.com/album/5Xxs41FovLilC30h61mOcS) | 2:48 |
 | 38 | [Vista](https://open.spotify.com/track/14sRXDn38uhpfk65uVeJsW) | [Mirova](https://open.spotify.com/artist/3sD5yaSCD2OZCQGFvIGPDL) | [Vista](https://open.spotify.com/album/1ACHAOwX1u1vLhQI7LFK7q) | 2:32 |
-| 39 | [After Momentum](https://open.spotify.com/track/5tMn4xcTABTh3jLR3l29Ok) | [Alleviation](https://open.spotify.com/artist/35tzlkReXUs4XX5hXtaPpw), [Anarekli](https://open.spotify.com/artist/0owGYDx2xWGY0t6Nelyf4N), [Buneba](https://open.spotify.com/artist/4kckQx25UOWOjUMposE6ek) | [After Momentum](https://open.spotify.com/album/64V0wTmkNLiFl318Lv8E96) | 2:09 |
+| 39 | [After Momentum](https://open.spotify.com/track/5tMn4xcTABTh3jLR3l29Ok) | [Alleviation](https://open.spotify.com/artist/35tzlkReXUs4XX5hXtaPpw), [Anarekli](https://open.spotify.com/artist/0owGYDx2xWGY0t6Nelyf4N), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [After Momentum](https://open.spotify.com/album/64V0wTmkNLiFl318Lv8E96) | 2:09 |
 | 40 | [Quiet Conscience](https://open.spotify.com/track/1NuVo3UQnj0O6ocHH3UjDT) | [Sleepy Sine](https://open.spotify.com/artist/0JIVfIfdmw45EoZuIWSZqa) | [Quiet Conscience](https://open.spotify.com/album/13sGYYGwXaUr4MWRP4rTeE) | 2:48 |
 | 41 | [Planet Calm](https://open.spotify.com/track/1DiSzonwA6obAjQSbz1vAx) | [Rebootist](https://open.spotify.com/artist/6kwfEowXeDA4ixlHvGmZpb) | [Talking Souls](https://open.spotify.com/album/5P7CUCHWkRwhFQT2iJ4e2B) | 3:10 |
 | 42 | [Portabella](https://open.spotify.com/track/4kJwyqg9KpXjLy904X9eVo) | [Hatchlings Calm](https://open.spotify.com/artist/2ADOcw9Ra8kN4CVAMhOqgw) | [Portabella](https://open.spotify.com/album/1Ff7Pq617mo18tgdnTBfbi) | 3:11 |

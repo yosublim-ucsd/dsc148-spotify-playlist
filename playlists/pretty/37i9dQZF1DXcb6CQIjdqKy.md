@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover:  <a href="spotify:artist:75JvBeqW4BJ4xgnbMAq6MN">Anne Wilson</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,582,370 likes - 101 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,582,472 likes - 101 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

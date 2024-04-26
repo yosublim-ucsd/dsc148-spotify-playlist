@@ -1,6 +1,6 @@
 {
   "description": "Is \"indie sleaze\" in the room with us now? ft. M.I.A",
-  "num_followers": 144199,
+  "num_followers": 144363,
   "original_name": "Indie Sleaze",
   "owner": {
     "name": "Spotify",
@@ -621,20 +621,20 @@
       "url": "https://open.spotify.com/track/11jVnpAewcZnIdLsq0BKJF"
     },
     {
-      "added_at": "2023-09-05 20:03:48",
+      "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "(III)",
-        "url": "https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc"
+        "name": "Turn On The Bright Lights",
+        "url": "https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG"
       },
       "artists": [
         {
-          "name": "Crystal Castles",
-          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+          "name": "Interpol",
+          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/6E1YebXpPPtujMUljDNlOo"
+      "duration_ms": 251293,
+      "name": "Obstacle 1",
+      "url": "https://open.spotify.com/track/1ZBqJilDGBVYktvlCEo9jC"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -653,20 +653,20 @@
       "url": "https://open.spotify.com/track/2akjLHnHjDGsgqxuf48VYs"
     },
     {
-      "added_at": "2023-09-05 19:58:53",
+      "added_at": "2023-09-05 20:03:48",
       "album": {
-        "name": "Turn On The Bright Lights",
-        "url": "https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG"
+        "name": "(III)",
+        "url": "https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc"
       },
       "artists": [
         {
-          "name": "Interpol",
-          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
+          "name": "Crystal Castles",
+          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
         }
       ],
-      "duration_ms": 251293,
-      "name": "Obstacle 1",
-      "url": "https://open.spotify.com/track/1ZBqJilDGBVYktvlCEo9jC"
+      "duration_ms": 192000,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/6E1YebXpPPtujMUljDNlOo"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "The Drums",
-        "url": "https://open.spotify.com/album/7EbEJzUEiXGbyrifEm2IN4"
-      },
-      "artists": [
-        {
-          "name": "The Drums",
-          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
-        }
-      ],
-      "duration_ms": 174306,
-      "name": "Lets Go Surfing",
-      "url": "https://open.spotify.com/track/49skdn8Truaufvcz8BXmtT"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
         "name": "Torches",
         "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
       },
@@ -719,18 +703,18 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "Life of Leisure",
-        "url": "https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC"
+        "name": "The Drums",
+        "url": "https://open.spotify.com/album/7EbEJzUEiXGbyrifEm2IN4"
       },
       "artists": [
         {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
         }
       ],
-      "duration_ms": 192080,
-      "name": "Feel It All Around",
-      "url": "https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK"
+      "duration_ms": 174306,
+      "name": "Lets Go Surfing",
+      "url": "https://open.spotify.com/track/49skdn8Truaufvcz8BXmtT"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -747,6 +731,22 @@
       "duration_ms": 285533,
       "name": "Where's Your Head At",
       "url": "https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
+        "name": "Life of Leisure",
+        "url": "https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "duration_ms": 192080,
+      "name": "Feel It All Around",
+      "url": "https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "Paparazzi Lightning",
-        "url": "https://open.spotify.com/album/2ZNqGfW6cwMGAX5Bu0A92s"
-      },
-      "artists": [
-        {
-          "name": "Ghostland Observatory",
-          "url": "https://open.spotify.com/artist/2waNUwuthEgcBTFvYo26vo"
-        }
-      ],
-      "duration_ms": 185360,
-      "name": "Sad Sad City",
-      "url": "https://open.spotify.com/track/26T7C1NMXKE7hCWhKH2l0o"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
         "name": "Down In Albion",
         "url": "https://open.spotify.com/album/2f35NQiqbGoDuNBG1hyaDA"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 277000,
       "name": "Fuck Forever",
       "url": "https://open.spotify.com/track/41Z2joQXOwZRBB8V6zk0A8"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
+        "name": "Paparazzi Lightning",
+        "url": "https://open.spotify.com/album/2ZNqGfW6cwMGAX5Bu0A92s"
+      },
+      "artists": [
+        {
+          "name": "Ghostland Observatory",
+          "url": "https://open.spotify.com/artist/2waNUwuthEgcBTFvYo26vo"
+        }
+      ],
+      "duration_ms": 185360,
+      "name": "Sad Sad City",
+      "url": "https://open.spotify.com/track/26T7C1NMXKE7hCWhKH2l0o"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "I Can Change",
-        "url": "https://open.spotify.com/album/6tXJDrWCenq1PUDLi6eeQT"
-      },
-      "artists": [
-        {
-          "name": "Mindchatter",
-          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
-        }
-      ],
-      "duration_ms": 331525,
-      "name": "I Can Change",
-      "url": "https://open.spotify.com/track/4yhslVvynysGhexambPGcy"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
         "name": "We Are Pilots",
         "url": "https://open.spotify.com/album/7EJf2RoD8f2Tm7hzpwK4bQ"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 203306,
       "name": "Le Disko",
       "url": "https://open.spotify.com/track/4jjtFbO4dYu4JO0CIph6Ak"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
+        "name": "I Can Change",
+        "url": "https://open.spotify.com/album/6tXJDrWCenq1PUDLi6eeQT"
+      },
+      "artists": [
+        {
+          "name": "Mindchatter",
+          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
+        }
+      ],
+      "duration_ms": 331525,
+      "name": "I Can Change",
+      "url": "https://open.spotify.com/track/4yhslVvynysGhexambPGcy"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -1619,8 +1619,8 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "Odd Blood",
-        "url": "https://open.spotify.com/album/3yfOxXDy6AbOduHoo1653D"
+        "name": "All Hour Cymbals",
+        "url": "https://open.spotify.com/album/6mVyKlhq3v2IHeksO38syx"
       },
       "artists": [
         {
@@ -1628,9 +1628,9 @@
           "url": "https://open.spotify.com/artist/04HvbIwBccFmRie5ATX4ft"
         }
       ],
-      "duration_ms": 321013,
-      "name": "O.N.E.",
-      "url": "https://open.spotify.com/track/7pDsJ09zkRr6A2KdLW6m9A"
+      "duration_ms": 323453,
+      "name": "2080",
+      "url": "https://open.spotify.com/track/20IFx1mqMdM6DrkQnOuiew"
     },
     {
       "added_at": "2023-09-05 19:58:53",

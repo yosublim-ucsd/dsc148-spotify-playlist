@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Platform",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Rayvanny, Iyanya, Ziibeats, Zaba",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -1653,6 +1653,24 @@
     },
     {
       "album": {
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/0E7ArB2FlQPLLdyynSOvUp"
+      },
+      "artists": [
+        {
+          "name": "Jay Melody",
+          "url": "https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217421,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/1T64n0T17I3deCh0Uk9hct"
+    },
+    {
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/1LRJODu1aDERRG75QiCpwH"
       },
@@ -1902,7 +1920,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 187636,
       "name": "Hello",
       "url": "https://open.spotify.com/track/5KZI9ar5x9t0uxsUupnYFz"
@@ -2650,6 +2668,28 @@
       "duration_ms": 275487,
       "name": "Katerina",
       "url": "https://open.spotify.com/track/0TPkhwb04r1IwigUlmnN8K"
+    },
+    {
+      "album": {
+        "name": "Kibango (feat. Diamond Platnumz)",
+        "url": "https://open.spotify.com/album/4KE7cYz611eP9Sip1kg1f7"
+      },
+      "artists": [
+        {
+          "name": "Lava Lava",
+          "url": "https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd"
+        },
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196327,
+      "name": "Kibango (feat. Diamond Platnumz)",
+      "url": "https://open.spotify.com/track/6DVmXhTHQ5WKp1Fu5UlPfq"
     },
     {
       "album": {
@@ -4166,7 +4206,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 227297,
       "name": "My Lady",
       "url": "https://open.spotify.com/track/35AoIIs76dRUQnVcn2ydSn"
@@ -5594,7 +5634,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 200685,
       "name": "Promise",
       "url": "https://open.spotify.com/track/5osKVS3oNDJnSalftBBkut"
@@ -6272,7 +6312,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 179733,
       "name": "Sishindwi",
       "url": "https://open.spotify.com/track/3jujyWaOi0iZX61QIDpOq3"
@@ -7331,6 +7371,32 @@
     },
     {
       "album": {
+        "name": "Wahala",
+        "url": "https://open.spotify.com/album/1IgUAbZAi862jLTZkiSUHE"
+      },
+      "artists": [
+        {
+          "name": "Nandy",
+          "url": "https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3"
+        },
+        {
+          "name": "Khanyisa",
+          "url": "https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc"
+        },
+        {
+          "name": "ZiiBeats",
+          "url": "https://open.spotify.com/artist/1u5KBiGGlipkOJL7DQPLM4"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181621,
+      "name": "Wahala",
+      "url": "https://open.spotify.com/track/06g8lXQlt3ISolRMIn81a9"
+    },
+    {
+      "album": {
         "name": "Wali Nazi",
         "url": "https://open.spotify.com/album/3mGrGJh0EJGk0B3USlL8lR"
       },
@@ -7916,6 +7982,36 @@
       "duration_ms": 210750,
       "name": "Zawadi (feat. Dadiposlim)",
       "url": "https://open.spotify.com/track/7vkI4zFAPUBmWHuUAfXDdU"
+    },
+    {
+      "album": {
+        "name": "Zazazela (feat. Zaba)",
+        "url": "https://open.spotify.com/album/0UxwlvuqBwgNt39ojHhvgU"
+      },
+      "artists": [
+        {
+          "name": "Rayvanny",
+          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+        },
+        {
+          "name": "Iyanya",
+          "url": "https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h"
+        },
+        {
+          "name": "ZiiBeats",
+          "url": "https://open.spotify.com/artist/1u5KBiGGlipkOJL7DQPLM4"
+        },
+        {
+          "name": "Zaba",
+          "url": "https://open.spotify.com/artist/0ZxyWnlmVBuHYzYgyDT24H"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279971,
+      "name": "Zazazela (feat. Zaba)",
+      "url": "https://open.spotify.com/track/0o6JLvQdoPDPC2MKVO0ZTk"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3EbcelyrZPd"

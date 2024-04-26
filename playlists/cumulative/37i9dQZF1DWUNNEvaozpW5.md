@@ -2,9 +2,9 @@
 
 ### [Rock Español](https://open.spotify.com/playlist/37i9dQZF1DWUNNEvaozpW5)
 
-> Lo mejor del rock de aquí, como Celtas Cortos.
+> Lo mejor del rock de aquí, como Arde Bogotá con Bunbury.
 
-391 songs - 1 day 1 hr 20 min
+393 songs - 1 day 1 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Corazon de Tango](https://open.spotify.com/track/5Hep3JI0YhpNNpbcurrvSS) | [Doctor Deseo](https://open.spotify.com/artist/41h0P2FVHr6YTMfhjkrnhA) | [Fugitivos De Paraiso](https://open.spotify.com/album/07hX6jcfLjbSP2NtkpKRCk) | 3:51 | 2022-05-19 |  |
 | [Cosas de la edad \- Aniversario](https://open.spotify.com/track/7DGblEJrq5Lkd7Ml5YOQMq) | [Modestia Aparte](https://open.spotify.com/artist/6yPTzaskdKAAlLMdnw9IkM), [Sofia Ellar](https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR), [Conchita](https://open.spotify.com/artist/0TPv1jIhKn4d0boGDxy4LI) | [Cosas de la edad \(Aniversario\)](https://open.spotify.com/album/1K4fZ8pX7hvMj2FOQx1KsS) | 2:27 | 2024-03-28 | 2024-04-05 |
 | [Costumbres Argentinas](https://open.spotify.com/track/4ux5icXP18e2stlh7nlEqQ) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Costumbres Argentinas](https://open.spotify.com/album/3HCeEi8EpRkgDRRw6wm62w) | 3:05 | 2023-04-27 | 2023-05-19 |
+| [Cowboys de la A3](https://open.spotify.com/track/5LZRHZxqnrM5mSeiysd9XF) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [Cowboys de la A3](https://open.spotify.com/album/772yDxRPJaH0QnrwkZgpNH) | 4:36 | 2024-04-25 |  |
 | [Creo que me he perdido algo](https://open.spotify.com/track/75DOPnTP5GWEw2Xn9QaCe9) | [Jose Ignacio Lapido](https://open.spotify.com/artist/1iWumLWq8eGULX2Pvw7gC8) | [Creo que me he perdido algo](https://open.spotify.com/album/0NeBPZBBV8okNyKrn6O8ic) | 4:39 | 2023-02-16 | 2023-03-03 |
 | [Cruzando el paraíso](https://open.spotify.com/track/1i4IlPSIE1hDiAwVHyH2yp) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Balmoral](https://open.spotify.com/album/2KytedMiEQc7JbWZa2wTt7) | 4:58 | 2022-05-19 | 2023-09-22 |
 | [Cuando Brille el Sol](https://open.spotify.com/track/307jZeOmkkd7mKc7wgFglj) | [La Guardia](https://open.spotify.com/artist/5UYbCAN2H4Yr4f46tN5AeD) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 3:43 | 2022-05-26 | 2022-11-25 |
@@ -218,6 +219,7 @@
 | [Lady Madrid](https://open.spotify.com/track/4J0JjBwayFSctQ5piomNyy) | [Revolver](https://open.spotify.com/artist/0U5P1naxYkkOsbHIGkVU9c) | [Lady Madrid](https://open.spotify.com/album/04jt1g9GU0JIGaIP9hJyTP) | 3:04 | 2024-03-01 | 2024-04-05 |
 | [Las Flores](https://open.spotify.com/track/2pgdMqyq3byWFb2BGHUq4c) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [Las Flores](https://open.spotify.com/album/7ErRhhztsuwfajD1Ad15a2) | 4:07 | 2022-05-19 | 2022-06-10 |
 | [Las vidas que olvidé](https://open.spotify.com/track/65sXwuOvRgovXFe5m3oKvS) | [Arco](https://open.spotify.com/artist/3HdW1zs4IHQSFa3gebmlGY) | [Las vidas que olvidé](https://open.spotify.com/album/7xonHz50UMJAlKJAE1qHKH) | 3:01 | 2023-09-28 | 2023-10-13 |
+| [Lavar la Ropa](https://open.spotify.com/track/3IZ9WpjvXdVXyLR6RRHPiB) | [Alberto & García](https://open.spotify.com/artist/5BKyujkSrDiZtHyRGtVJx6) | [Lavar la Ropa](https://open.spotify.com/album/397Ty5qxOf86ZxpNRWoFNt) | 4:00 | 2024-04-25 |  |
 | [Lejos de las leyes de los hombres \- Versión 2023](https://open.spotify.com/track/2bAUvzIsgE66UmGqADyGQg) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Lejos de las leyes de los hombres \(Versión 2023\)](https://open.spotify.com/album/7u6hWylxNJin7RPnuTsxrI) | 3:21 | 2023-09-21 | 2023-10-20 |
 | [Letras Absurdas](https://open.spotify.com/track/5wOxmAdbz3ihLAiHxxX7ts) | [Tocando Techo](https://open.spotify.com/artist/4ZoykgIxJOeaS1uoADIHqo) | [Letras Absurdas](https://open.spotify.com/album/1fIyFZF0h2chYBrqXg7cIe) | 4:04 | 2023-05-11 | 2023-06-09 |
 | [Lo difícil](https://open.spotify.com/track/78Tr4OatbnIyx9cwGp5vp1) | [Arco](https://open.spotify.com/artist/3HdW1zs4IHQSFa3gebmlGY) | [Uno](https://open.spotify.com/album/2Qjd3FONI5uY8A8BW5XcDl) | 3:08 | 2022-05-19 |  |
@@ -257,7 +259,7 @@
 | [Miedo](https://open.spotify.com/track/47oZRFceogtlw8Kcu5UGaj) | [M\-Clan](https://open.spotify.com/artist/4oVqMVHC03xnYJ7fyb1dh6) | [Sopa fria](https://open.spotify.com/album/0Q2szvW8oeHdReOGcdYrBj) | 4:57 | 2022-05-26 |  |
 | [Mirando Al Precipicio](https://open.spotify.com/track/26mXqEPGzrltvJfBn9vycx) | [Pablo Martin](https://open.spotify.com/artist/4yzQBq6z3Nm8xmiMjPswXt) | [Mirando Al Precipicio](https://open.spotify.com/album/2mz9HKDT1KvwqTA0dN921q) | 3:49 | 2022-11-24 | 2022-12-09 |
 | [Mis Amigos Donde Estarán](https://open.spotify.com/track/4FOyMbEiJGOl4dcaoqRkqE) | [Topo](https://open.spotify.com/artist/6XC3SG7i2Eogjgm9uKPd8a), [Rosendo](https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N), [Ñu](https://open.spotify.com/artist/15ZPKVTqD5FD3P7n3m04KX), [Obus](https://open.spotify.com/artist/5OImtJcOmtdm3MkR1yLHkp), [Saratoga](https://open.spotify.com/artist/0pFExKST1wGbE6DBSNK6ox), [Muro](https://open.spotify.com/artist/6gv7K55o2qyiGD9u84TIsW), [Stafas](https://open.spotify.com/artist/5xHAV1UViByZr5kVkXxKfW), [Boikot](https://open.spotify.com/artist/0wppCmJl3glHZZScLcs4gn), [Caskärrabias](https://open.spotify.com/artist/5fIAW5q9gVlnpmZji5h8ub) | [Mis Amigos Donde Estarán](https://open.spotify.com/album/3SRMIpwq9xoIuSqwLUbw2X) | 4:54 | 2023-08-03 | 2023-09-07 |
-| [Motorizados](https://open.spotify.com/track/0lo6NCs5ncQaWZhARAEFQ6) | [Pablo Senator](https://open.spotify.com/artist/4JsKSQfvfwor3kiOV7RCHG) | [Motorizados](https://open.spotify.com/album/535eaupc1JTraAOQkmzCvo) | 4:22 | 2024-03-01 |  |
+| [Motorizados](https://open.spotify.com/track/0lo6NCs5ncQaWZhARAEFQ6) | [Pablo Senator](https://open.spotify.com/artist/4JsKSQfvfwor3kiOV7RCHG) | [Motorizados](https://open.spotify.com/album/535eaupc1JTraAOQkmzCvo) | 4:22 | 2024-03-01 | 2024-04-26 |
 | [Mucho mejor \(feat\. Coque Malla\)](https://open.spotify.com/track/06xLo8Oa53wmBMdWcIsqPL) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K), [Coque Malla](https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV) | [Palabras más, palabras menos](https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t) | 3:54 | 2022-05-19 |  |
 | [Mundo imperfecto](https://open.spotify.com/track/7hlytak131AgmPYe8JsYws) | [Sidecars](https://open.spotify.com/artist/1OxGzd3ks0V8CVWtXT1VMj) | [Mundo imperfecto](https://open.spotify.com/album/3TLiYmIWEXBfGyLBRd9cud) | 3:08 | 2022-06-09 | 2022-07-29 |
 | [Más que el tiempo](https://open.spotify.com/track/5z6ojHd8iKBuNtHovjHuMU) | [Sulivan? Nunca he estado ahí](https://open.spotify.com/artist/0qjulMsP59DrQJN1qLSuVw) | [Más que el tiempo](https://open.spotify.com/album/09q6zqJBmmeiM62ODkwpWB) | 4:36 | 2023-07-13 | 2023-07-28 |
@@ -343,7 +345,7 @@
 | [Siroco](https://open.spotify.com/track/7AiLXp1khPg2nsdKFcgjBs) | [Reincidentes](https://open.spotify.com/artist/6AZ89uxvjtR2Cpe1hE3kpX) | [Siroco](https://open.spotify.com/album/7gg2sZU5veubapZJqPdfes) | 3:12 | 2022-12-22 | 2023-01-06 |
 | [So payaso](https://open.spotify.com/track/5HSpMRUC4m3L3q48to2Kmu) | [Extremoduro](https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK) | [Agila](https://open.spotify.com/album/3msSCqpQLoY0nl4RTSf1Is) | 4:41 | 2022-05-19 |  |
 | [Soldadito marinero](https://open.spotify.com/track/0eVborSuxUeSg0meWYd9dZ) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Lo mas lejos a tu lado](https://open.spotify.com/album/5ARI6MI0J9CnAqT9vfhd4n) | 4:14 | 2022-05-26 | 2023-01-27 |
-| [Solo ante el peligro](https://open.spotify.com/track/6ZqIZLqSBlNmY7H4J14ikj) | [Celtas Cortos](https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP) | [El mundo del revés](https://open.spotify.com/album/4Q0YkTaNHufFcXxNHVrEun) | 3:45 | 2024-04-18 |  |
+| [Solo ante el peligro](https://open.spotify.com/track/6ZqIZLqSBlNmY7H4J14ikj) | [Celtas Cortos](https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP) | [El mundo del revés](https://open.spotify.com/album/4Q0YkTaNHufFcXxNHVrEun) | 3:45 | 2024-04-18 | 2024-04-26 |
 | [Solo Soy Un Jugador](https://open.spotify.com/track/7GOaB0DZcmbJo3HQkgpIQB) | [Kike Jambalaya](https://open.spotify.com/artist/5TknYICOG7yd700QbBGVfq) | [Solo Soy Un Jugador](https://open.spotify.com/album/3N3rMpk3qN2NtxHIL0f7hT) | 2:18 | 2023-05-04 | 2023-05-12 |
 | [Sorprendente](https://open.spotify.com/track/6Xueg8DmwhkU4xf0Q3xlWN) | [Leño](https://open.spotify.com/artist/5CA8MVh6ESzTlJcsB8wcFJ) | [Corre Corre](https://open.spotify.com/album/7ymYtcn91u3FY8P07QKO53) | 4:05 | 2023-08-21 |  |
 | [Soy Famoso \(Pero No Lo Sabes\)](https://open.spotify.com/track/3JKnqNNLqyw3dRybIY9Odl) | [Staytons](https://open.spotify.com/artist/2RyidmUlHaj7sauQGkZTmc) | [Soy Famoso \(Pero No Lo Sabes\)](https://open.spotify.com/album/7q39uKSJfuUfIMC4cj43q1) | 2:56 | 2023-06-29 | 2023-07-07 |

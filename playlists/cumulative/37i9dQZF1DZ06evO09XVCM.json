@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-02",
-  "description": "This Is Ziggy Marley. Los temas esenciales, todos en una lista.",
+  "description": "This is Ziggy Marley. The essential tracks, all in one playlist.",
   "name": "This Is Ziggy Marley",
   "tracks": [
     {
@@ -100,7 +100,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-25",
+      "date_removed": null,
       "duration_ms": 161693,
       "name": "Black Cat",
       "url": "https://open.spotify.com/track/5Ysvj4iTmZpcwtTdFHzuBq"
@@ -426,7 +426,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 299827,
       "name": "High Tide or Low Tide (feat. Ziggy Marley)",
       "url": "https://open.spotify.com/track/56iGwUFIn9SuKZIYl8RiAO"
@@ -452,7 +452,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-24",
+      "date_removed": null,
       "duration_ms": 213480,
       "name": "I Love You Too (feat. Rita Marley; Cedella Marley)",
       "url": "https://open.spotify.com/track/7hLLbfEkx1UeXkD91oII0I"
@@ -924,7 +924,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 201800,
       "name": "Start It Up",
       "url": "https://open.spotify.com/track/176n64b4I4o5VJY2eGJneI"

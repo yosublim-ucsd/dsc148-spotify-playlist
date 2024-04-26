@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09gKWI.md) - [plain]
 
 > This is Bivolt\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335 likes - 40 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 335 likes - 40 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09gKWI.md) - [plain]
 | 35 | [SET DO ECOLOGYK 1.0](https://open.spotify.com/track/3IcsmbNAb1ez7a7hUc7XZG) | [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Mc Lipi](https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Duzz](https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [SET DO ECOLOGYK 1.0](https://open.spotify.com/album/67Zzg6YfQIULJrpt91LXUI) | 5:38 |
 | 36 | [Ela Joga](https://open.spotify.com/track/4jCo34kC8FqJrpmgpNAJIY) | [Carolzinha](https://open.spotify.com/artist/2WzEl95SxpS2aXye4njjwN), [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Nith](https://open.spotify.com/artist/3OZbEO1ofELMzNrleV5Umb) | [Ela Joga](https://open.spotify.com/album/5AvbEHe8F554m3drljPLrK) | 2:44 |
 | 37 | [Essa Onda](https://open.spotify.com/track/5JHDM8gvSfHRxVlGXTN8gJ) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Nitro](https://open.spotify.com/album/4yDw1NdadwEr9WRHp3f41y) | 3:08 |
-| 38 | [Dose Dupla](https://open.spotify.com/track/6Fc0wumF5xRJ3OZDavWk1d) | [Fanieh](https://open.spotify.com/artist/2ervTUezJd1gGsYHZaNXfN), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Dose Dupla](https://open.spotify.com/album/1Y8ohMLIYUy5Vr0SlxFX5N) | 3:14 |
-| 39 | [Música Vai Transmitir](https://open.spotify.com/track/5WNR6tGxA59UanPZ7Yc2ZD) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Música Vai Transmitir](https://open.spotify.com/album/5oWUfKXlevDcAfmHADplCA) | 2:33 |
-| 40 | [Imaginei](https://open.spotify.com/track/2JKAtEvUOHmtfEjgSbVRAL) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Glória](https://open.spotify.com/album/5CzkyEDf1muZQdpv3Lvc5q) | 3:05 |
+| 38 | [Imaginei](https://open.spotify.com/track/2JKAtEvUOHmtfEjgSbVRAL) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Glória](https://open.spotify.com/album/5CzkyEDf1muZQdpv3Lvc5q) | 3:05 |
+| 39 | [Dose Dupla](https://open.spotify.com/track/6Fc0wumF5xRJ3OZDavWk1d) | [Fanieh](https://open.spotify.com/artist/2ervTUezJd1gGsYHZaNXfN), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Dose Dupla](https://open.spotify.com/album/1Y8ohMLIYUy5Vr0SlxFX5N) | 3:14 |
+| 40 | [Vista Loka](https://open.spotify.com/track/1AU9m2wkxMbaZpzIqd6Gr8) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Vista Loka](https://open.spotify.com/album/3lPDSgCpGJNJrQLKQ5VkFs) | 3:28 |
 
-Snapshot ID: `MTcxMzgzMDQwMCwwMDAwMDAwMDU3ZGE3ZTZlYzU5MTQwMGRiMTY0YWI0MDVhMjZmMTgy`
+Snapshot ID: `MTcxMzkxNjgwMCwwMDAwMDAwMDIxZmU4NDBkNjZhZWE1OGJjZmUxYTI3ZWUxOTMwMjhl`

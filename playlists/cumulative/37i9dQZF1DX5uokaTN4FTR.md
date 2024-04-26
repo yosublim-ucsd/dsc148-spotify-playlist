@@ -2,7 +2,7 @@
 
 ### [Massive Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX5uokaTN4FTR)
 
-> The UK's biggest dance playlist! Cover: Sonny Fodera
+> The UK's biggest dance playlist! Cover: One Republic & David Guetta
 
 582 songs - 1 day 6 hr 32 min
 

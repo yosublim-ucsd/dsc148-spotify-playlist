@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Cantoras y compositoras de nuestra tierra, con Soledad en portada.",
+  "description": "Cantoras y compositoras de nuestra tierra, con la Bruja Salguero en portada.",
   "name": "Mujeres del Folklore",
   "tracks": [
     {
@@ -238,6 +238,28 @@
       "duration_ms": 238746,
       "name": "Baguala para las dos",
       "url": "https://open.spotify.com/track/6wSRHnHUBnDKJsa2n4QkDx"
+    },
+    {
+      "album": {
+        "name": "Balderrama",
+        "url": "https://open.spotify.com/album/4SYoVh3GuXBVkvxkcYuinz"
+      },
+      "artists": [
+        {
+          "name": "Amanda Miguel",
+          "url": "https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN"
+        },
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250801,
+      "name": "Balderrama",
+      "url": "https://open.spotify.com/track/6OrNV36QIdZJDOSbV21fYC"
     },
     {
       "album": {
@@ -984,7 +1006,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 327522,
       "name": "El Cami\u00f3n de Germ\u00e1n",
       "url": "https://open.spotify.com/track/1IfqQiw3sz9GgsoTrDDblL"
@@ -1849,6 +1871,28 @@
     },
     {
       "album": {
+        "name": "Mujer de Albahaca",
+        "url": "https://open.spotify.com/album/3EhTjOrp4JDpBECSe0B8OA"
+      },
+      "artists": [
+        {
+          "name": "La Bruja Salguero",
+          "url": "https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda"
+        },
+        {
+          "name": "Lula Bertoldi",
+          "url": "https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151482,
+      "name": "Los Amanecidos",
+      "url": "https://open.spotify.com/track/7Kwy13s6V3R3Z258OvDBjH"
+    },
+    {
+      "album": {
         "name": "Natural",
         "url": "https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx"
       },
@@ -2048,7 +2092,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 190438,
       "name": "Ojitos Lindos",
       "url": "https://open.spotify.com/track/6amvGlc634QuohaW2vNeIv"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9E9E4SRMd1x.md) - [plain]
 
 > Los temas inmortales de Selena en voces de nuevos intérpretes
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,519 likes - 27 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,531 likes - 27 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9E9E4SRMd1x.md) - [plain]
 | 20 | [Tu Solo Tu](https://open.spotify.com/track/3WgOg68UhvywFPvIFwUlL2) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Lo Grande De Los Grandes](https://open.spotify.com/album/2c2tZEevgwbTf5mbusnrsY) | 3:29 |
 | 21 | [Si una vez](https://open.spotify.com/track/6WejPik6DmwR2uQku88m34) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [VIVA Angela](https://open.spotify.com/album/5rovAr4dQNf5xGQ5ZisbCS) | 2:35 |
 | 22 | [Buenos Amigos](https://open.spotify.com/track/2gTlal0EmSkFAdmJkhLGIw) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch), [Alvaro Torres](https://open.spotify.com/artist/7p5DVejD1eXP8GO6clYQlE) | [La Leyenda \(Version Deluxe\)](https://open.spotify.com/album/2UbcZhoI1lrKnmRsfk2KGF) | 4:44 |
-| 23 | [Donde Quiera Que Estés](https://open.spotify.com/track/7qUmi5fQAZ2FWvVb91tAvU) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch), [Barrio Boyzz](https://open.spotify.com/artist/2pEJhUF93gQGPdWJnusnZp) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 4:33 |
+| 23 | [Enamorada De Ti \- Merengue Mix](https://open.spotify.com/track/5gCNPCHNnK9DGjlwSb9R7z) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Enamorada De Ti](https://open.spotify.com/album/0foXhJIAVKcMJybslend7Q) | 2:59 |
 | 24 | [Como la Flor](https://open.spotify.com/track/7bZ50bzuhzhOoNomJPq5xr) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Baila Esta Cumbia](https://open.spotify.com/album/6MpiAS4mk0S7WRTX0l98z3) | 2:56 |
-| 25 | [Enamorada De Ti \- Merengue Mix](https://open.spotify.com/track/5gCNPCHNnK9DGjlwSb9R7z) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Enamorada De Ti](https://open.spotify.com/album/0foXhJIAVKcMJybslend7Q) | 2:59 |
+| 25 | [Donde Quiera Que Estés](https://open.spotify.com/track/7qUmi5fQAZ2FWvVb91tAvU) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch), [Barrio Boyzz](https://open.spotify.com/artist/2pEJhUF93gQGPdWJnusnZp) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 4:33 |
 | 26 | [Baila Esta Cumbia](https://open.spotify.com/track/7AGYMb1fvYZig4AYTOOUSl) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Baila Esta Cumbia](https://open.spotify.com/album/6MpiAS4mk0S7WRTX0l98z3) | 2:55 |
 | 27 | [Dreaming Of You / I Could Fall In Love](https://open.spotify.com/track/11SqalG7qkWiJwalL18oEM) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Baila Esta Cumbia](https://open.spotify.com/album/6MpiAS4mk0S7WRTX0l98z3) | 3:32 |
 

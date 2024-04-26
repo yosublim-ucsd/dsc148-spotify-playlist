@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-581 songs - 1 day 10 hr 20 min
+582 songs - 1 day 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -443,6 +443,7 @@
 | [Polvo](https://open.spotify.com/track/4p9iPAQ5q3twlJJ0x8HInz) | [Simón Campusano](https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU) | [Sobre habitar la depresión intermedia](https://open.spotify.com/album/3jF9U4Zd7HdiRyvYrpJvaC) | 3:42 | 2023-09-08 | 2023-10-06 |
 | [Polvo de Estrellas](https://open.spotify.com/track/2xTHSHwrRzDEkzeYuZpGPu) | [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Canciones Sobre una Casa, Cuatro Amigos y un Perro](https://open.spotify.com/album/4WmNsvvJMQC0Dnhnpu5Zzv) | 2:15 | 2023-10-26 | 2023-12-16 |
 | [Polvo de Estrellas](https://open.spotify.com/track/4LDHQIpRkjQkmmmgMd1lsy) | [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Polvo de Estrellas](https://open.spotify.com/album/29wM86WH6LmH3F7AtQN3Eh) | 2:15 | 2022-06-03 | 2022-07-29 |
+| [Político o Rolling Stone](https://open.spotify.com/track/4c30sAt9qwApsKflh7aKcO) | [Galean](https://open.spotify.com/artist/3usCwS0jcb6SFJe3ZPiFA8), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Político o Rolling Stone](https://open.spotify.com/album/1tVa6RRL4alQsyRpw21gR1) | 4:06 | 2024-04-25 |  |
 | [Posiblemente](https://open.spotify.com/track/0unDoM0K23Us89jR1BITXT) | [Patio Solar](https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax) | [Piruetas y Viñetas](https://open.spotify.com/album/5M5RJ8XtpMKDhyqDKVaSIB) | 3:17 | 2022-06-03 | 2022-07-25 |
 | [Promesa](https://open.spotify.com/track/2wzCZ1ol8EPdtSDZ0Zoa48) | [Maria Durante](https://open.spotify.com/artist/6B4Tjeum0gQN48UJWgtnRx) | [Promesa](https://open.spotify.com/album/3lDnDC0ArBlmTpSzJHPNDO) | 3:28 | 2024-03-14 |  |
 | [Promesas](https://open.spotify.com/track/3asMi5LP1FVnb8D2hs0b8D) | [Atrás Hay Truenos](https://open.spotify.com/artist/6KDozt8X774pjyp1oVMsmz) | [Promesas](https://open.spotify.com/album/5DmptR4gEoK8MeXCSv9OUB) | 4:31 | 2023-10-26 |  |
@@ -583,7 +584,7 @@
 | [Yod](https://open.spotify.com/track/40TKm4cF9jKYsfcxvjCIzI) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF) | [Yod](https://open.spotify.com/album/2fvvSqI6g6L5rW8uwncGVj) | 3:41 | 2022-07-01 | 2022-07-24 |
 | [Yod](https://open.spotify.com/track/6XTZFGXabuOw71RMOgtao3) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF) | [Yod](https://open.spotify.com/album/2HhVFAfXWf6eZeOU8R75jg) | 3:41 | 2023-10-26 | 2024-03-01 |
 | [Zona de Fumadores](https://open.spotify.com/track/3cHpV6qi0i8ql2gSivsv6f) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [Zona de Fumadores](https://open.spotify.com/album/46cYcC9YUPIEe1CpuSi5CM) | 1:31 | 2023-04-21 | 2023-10-27 |
-| [¿Para Qué?](https://open.spotify.com/track/6sLMcDjjJYW1r78cxQT2hg) | [Alem](https://open.spotify.com/artist/4Y4iQxPJ1BV03LEkW3vrTS) | [¿Para Qué?](https://open.spotify.com/album/6KaDzlbouoNjT5ukVF7MRA) | 2:58 | 2024-02-09 |  |
+| [¿Para Qué?](https://open.spotify.com/track/6sLMcDjjJYW1r78cxQT2hg) | [Alem](https://open.spotify.com/artist/4Y4iQxPJ1BV03LEkW3vrTS) | [¿Para Qué?](https://open.spotify.com/album/6KaDzlbouoNjT5ukVF7MRA) | 2:58 | 2024-02-09 | 2024-04-26 |
 | [¿Qué Clase de Ciudad Es Esta?](https://open.spotify.com/track/4ONVAUcV7CaxzNjaW0oq5m) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp), [Mora Sánchez Viamonte](https://open.spotify.com/artist/1l9x6IMkgfguzM1fFP9IXt), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Gracias Por Nada](https://open.spotify.com/album/3nPaS8oCr3C0ttEL1vdAte) | 3:45 | 2022-06-03 | 2024-03-01 |
 | [¿Todas las Guitarras?](https://open.spotify.com/track/1eJAPC8sQFugPucAA91zeq) | [Formica](https://open.spotify.com/artist/2DMEr3Upo24FzFIk3dVk17) | [¿Todas las Guitarras?](https://open.spotify.com/album/1qpK9ltZ9aFhPfgwjwV64l) | 3:27 | 2022-07-15 | 2022-07-24 |
 | [Árboles y Pasarelas](https://open.spotify.com/track/6WpZRLPsYPddfQ2trrdyOD) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Árboles y Pasarelas](https://open.spotify.com/album/42v671Ws24mgeGvj298gQB) | 5:35 | 2023-03-03 | 2023-03-16 |

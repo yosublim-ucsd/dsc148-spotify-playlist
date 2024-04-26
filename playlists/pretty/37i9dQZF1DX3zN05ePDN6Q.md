@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: NOG, Mano Fler, Choice, Mauricio DTS, Jhony Mc
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,707 likes - 73 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,730 likes - 73 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 69 | [Bom dia Vietnã 2](https://open.spotify.com/track/7f0PIXLhMDaLx0OtFXdW7d) | [Puro Suco](https://open.spotify.com/artist/3UD5S1SrDQo3KPTfWxL7Ms), [BEATDOMK](https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC) | [Bom dia Vietnã 2](https://open.spotify.com/album/3kZostoLBabq6nJRNoo1MV) | 2:45 |
 | 70 | [Zona Sul](https://open.spotify.com/track/2ZcZ4qYoqAeYgynTdfhWue) | [pumapjl](https://open.spotify.com/artist/1iVZ4G8loVE1bb5EWuOvMM), [SonoTWS](https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE) | [Autodomínio](https://open.spotify.com/album/3kPsjo393B9b4BQ8HDEaTc) | 2:01 |
 | 71 | [Vovó](https://open.spotify.com/track/18Wjx8QjHXpqPbW07kiMgZ) | [Stanley Castro](https://open.spotify.com/artist/7LLv5yYIB0JNOIiYBeOGah), [Alta Hits](https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv), [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI) | [Vovó](https://open.spotify.com/album/6nRXGu4oUxsQSzGBFoRLP8) | 2:56 |
-| 72 | [Primeira Tentativa](https://open.spotify.com/track/1ZzictMbJwxOr2SJbq1Rl4) | [Thiago Ticana](https://open.spotify.com/artist/6uSOJ1HLY5IS55ZHeArSIs), [DJ Cia](https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL), [Victor Xamã](https://open.spotify.com/artist/6sLPSvN2Z4R1ndAS068ibP), [Mano Fler](https://open.spotify.com/artist/0bjKeFBcvURoPaJiGd0Kfx), [NP Vocal](https://open.spotify.com/artist/2mCaOwbPetRnHmVUwnCTMU), [Mortão VMG](https://open.spotify.com/artist/1Ijcsm5HVSUeUu14C5mzKy) | [Primeira Tentativa](https://open.spotify.com/album/4wN6Hek8jchNWCpMivno7B) | 3:08 |
+| 72 | [Primeira Tentativa](https://open.spotify.com/track/1ZzictMbJwxOr2SJbq1Rl4) | [Thiago Ticana](https://open.spotify.com/artist/6uSOJ1HLY5IS55ZHeArSIs), [DJ Cia](https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL), [Mano Fler](https://open.spotify.com/artist/0bjKeFBcvURoPaJiGd0Kfx), [NP Vocal](https://open.spotify.com/artist/2mCaOwbPetRnHmVUwnCTMU), [Mortão VMG](https://open.spotify.com/artist/1Ijcsm5HVSUeUu14C5mzKy), [Victor Xamã](https://open.spotify.com/artist/6sLPSvN2Z4R1ndAS068ibP) | [Primeira Tentativa](https://open.spotify.com/album/4wN6Hek8jchNWCpMivno7B) | 3:08 |
 | 73 | [Exagerado \(Bônus\)](https://open.spotify.com/track/1z1tnfN2YICyM9Exmh6IKy) | [LPT Zlatan](https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX), [GDM](https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [O Retrato Falado da Minha Face](https://open.spotify.com/album/6OZiT5xv7XoRc5wHE3XI44) | 1:59 |
 
 Snapshot ID: `MTcxMzQ5NTY2MCwwMDAwMDAwMDEzN2Q1Y2ZlNWMwYmZkOGE1ZWFhNjM1ODUyMGNkYzFi`

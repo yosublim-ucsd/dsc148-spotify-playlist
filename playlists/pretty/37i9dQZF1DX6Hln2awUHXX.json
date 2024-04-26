@@ -1,6 +1,6 @@
 {
   "description": "An introduction to the thoroughly dramatic world of Richard Wagner, brimming with ancient legends and timeless love stories.",
-  "num_followers": 98500,
+  "num_followers": 98535,
   "original_name": "This Is Wagner",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,34 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
+        "name": "Wagner, R.: Opera Choruses",
+        "url": "https://open.spotify.com/album/1wVF8Dk5edlkztLyNs39Oh"
+      },
+      "artists": [
+        {
+          "name": "Goran Eliasson",
+          "url": "https://open.spotify.com/artist/6zsgabJFQrLtY2jEWy2fC4"
+        },
+        {
+          "name": "Royal Swedish Opera Chorus",
+          "url": "https://open.spotify.com/artist/3bqjTvyPZcMSuXkdzBghDU"
+        },
+        {
+          "name": "Royal Swedish Orchestra",
+          "url": "https://open.spotify.com/artist/7ksb5dj1dy1o8DuZiNB9ZI"
+        },
+        {
+          "name": "Leif Segerstam",
+          "url": "https://open.spotify.com/artist/1AZTVGOm7t5zkOcweZBivz"
+        }
+      ],
+      "duration_ms": 1022960,
+      "name": "Die Meistersinger von N\u00fcrnberg (the Mastersingers of Nuremberg), the Mastersingers of Nuremberg, Act III: Finale [excerpts]",
+      "url": "https://open.spotify.com/track/0QDND4ABikAWZFfiepCYrP"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
         "name": "Wagner, R.: Scenes From Lohengrin and Siegfried",
         "url": "https://open.spotify.com/album/2htClWD3UiaNgEtDUx9Cj4"
       },
@@ -295,34 +323,6 @@
       "duration_ms": 321120,
       "name": "Lohengrin: Treulich gefuhrt ziehet dahin",
       "url": "https://open.spotify.com/track/77Vw9pWmr1T9V9cs1RuU6l"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Wagner, R.: Opera Choruses",
-        "url": "https://open.spotify.com/album/1wVF8Dk5edlkztLyNs39Oh"
-      },
-      "artists": [
-        {
-          "name": "Goran Eliasson",
-          "url": "https://open.spotify.com/artist/6zsgabJFQrLtY2jEWy2fC4"
-        },
-        {
-          "name": "Royal Swedish Opera Chorus",
-          "url": "https://open.spotify.com/artist/3bqjTvyPZcMSuXkdzBghDU"
-        },
-        {
-          "name": "Royal Swedish Orchestra",
-          "url": "https://open.spotify.com/artist/7ksb5dj1dy1o8DuZiNB9ZI"
-        },
-        {
-          "name": "Leif Segerstam",
-          "url": "https://open.spotify.com/artist/1AZTVGOm7t5zkOcweZBivz"
-        }
-      ],
-      "duration_ms": 1022960,
-      "name": "Die Meistersinger von N\u00fcrnberg (the Mastersingers of Nuremberg), the Mastersingers of Nuremberg, Act III: Finale [excerpts]",
-      "url": "https://open.spotify.com/track/0QDND4ABikAWZFfiepCYrP"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -377,7 +377,7 @@
         }
       ],
       "duration_ms": 446133,
-      "name": "Tristan und Isolde / Act 3: \"Mild und leise wie er l\u00e4chelt\"",
+      "name": "Tristan und Isolde, Act III: Mild und leise wie er l\u00e4chelt",
       "url": "https://open.spotify.com/track/4SkJKfnGhQCikozqxyNXjP"
     },
     {
@@ -843,6 +843,30 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
+        "name": "Wagner: Die Meistersinger",
+        "url": "https://open.spotify.com/album/1UmHT2OLs2m32eU6Fg8o2V"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Bavarian State Orchestra",
+          "url": "https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf"
+        },
+        {
+          "name": "Wolfgang Sawallisch",
+          "url": "https://open.spotify.com/artist/4VFBTPFWvhecBc2BWYOQkF"
+        }
+      ],
+      "duration_ms": 345840,
+      "name": "Wagner: Die Meistersinger von N\u00fcrnberg, Act 3: Prelude",
+      "url": "https://open.spotify.com/track/2pQdZKD3zuOfQKRYjMFjf3"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
         "name": "Wagner: Lohengrin (Highlights)",
         "url": "https://open.spotify.com/album/6ig3L4HlpMqCs30fwhRYyJ"
       },
@@ -875,30 +899,6 @@
       "duration_ms": 394093,
       "name": "Lohengrin, WWV 75 / Act 3: \"In fernem Land, unnahbar euren Schritten\"",
       "url": "https://open.spotify.com/track/1HERfJC2zM3qCBvFZ7WwGw"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Wagner: Die Meistersinger",
-        "url": "https://open.spotify.com/album/1UmHT2OLs2m32eU6Fg8o2V"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Bavarian State Orchestra",
-          "url": "https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf"
-        },
-        {
-          "name": "Wolfgang Sawallisch",
-          "url": "https://open.spotify.com/artist/4VFBTPFWvhecBc2BWYOQkF"
-        }
-      ],
-      "duration_ms": 345840,
-      "name": "Wagner: Die Meistersinger von N\u00fcrnberg, Act 3: Prelude",
-      "url": "https://open.spotify.com/track/2pQdZKD3zuOfQKRYjMFjf3"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -1212,30 +1212,6 @@
       "added_at": "2022-06-28 08:58:25",
       "album": {
         "name": "Wagner: Die Walk\u00fcre",
-        "url": "https://open.spotify.com/album/77X2cJ3JcAAcJi1HKlUwuL"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Hall\u00e9",
-          "url": "https://open.spotify.com/artist/0VzwesVsEMjYDaMrrdukam"
-        },
-        {
-          "name": "Sir Mark Elder",
-          "url": "https://open.spotify.com/artist/5jKPZpM5NojkLVEXxxWZwG"
-        }
-      ],
-      "duration_ms": 200120,
-      "name": "Die Walk\u00fcre: Act II, Scene I, \"Deiner ew\u2019gen Gattin\" (Fricka)",
-      "url": "https://open.spotify.com/track/74BUb8MznOM8EvmdA4GjVM"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Wagner: Die Walk\u00fcre",
         "url": "https://open.spotify.com/album/6sBYzKzbrGncOysgiiL3v1"
       },
       "artists": [
@@ -1263,6 +1239,30 @@
       "duration_ms": 249265,
       "name": "Die Walk\u00fcre, WWV 86B / Act 3: \"Hier bin ich, Vater\" - Remastered 2012",
       "url": "https://open.spotify.com/track/2MmgNZf4BX1iTA7zIoGOCI"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner: Die Walk\u00fcre",
+        "url": "https://open.spotify.com/album/77X2cJ3JcAAcJi1HKlUwuL"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Hall\u00e9",
+          "url": "https://open.spotify.com/artist/0VzwesVsEMjYDaMrrdukam"
+        },
+        {
+          "name": "Sir Mark Elder",
+          "url": "https://open.spotify.com/artist/5jKPZpM5NojkLVEXxxWZwG"
+        }
+      ],
+      "duration_ms": 200120,
+      "name": "Die Walk\u00fcre: Act II, Scene I, \"Deiner ew\u2019gen Gattin\" (Fricka)",
+      "url": "https://open.spotify.com/track/74BUb8MznOM8EvmdA4GjVM"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -1800,9 +1800,9 @@
           "url": "https://open.spotify.com/artist/3QEztQUVjL5FGxXuP70mJQ"
         }
       ],
-      "duration_ms": 624653,
-      "name": "Parsifal, Prelude to Act I",
-      "url": "https://open.spotify.com/track/3M7eO8yERmLBSnTpg3p3RV"
+      "duration_ms": 583786,
+      "name": "Die Meistersinger von N\u00fcrnberg, WWV 96: Overture",
+      "url": "https://open.spotify.com/track/41bZLobGbA6vSSrVFLAEui"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -1824,9 +1824,9 @@
           "url": "https://open.spotify.com/artist/3QEztQUVjL5FGxXuP70mJQ"
         }
       ],
-      "duration_ms": 583786,
-      "name": "Die Meistersinger von N\u00fcrnberg, WWV 96: Overture",
-      "url": "https://open.spotify.com/track/41bZLobGbA6vSSrVFLAEui"
+      "duration_ms": 624653,
+      "name": "Parsifal, Prelude to Act I",
+      "url": "https://open.spotify.com/track/3M7eO8yERmLBSnTpg3p3RV"
     },
     {
       "added_at": "2022-06-28 08:58:25",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMp10y0r6l2.md) - [plain]
 
 > El infierno hecho ruido\. Bienvenido al culto de La Bestia\. Takeover: Bruce Dickinson
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,350 likes - 59 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,361 likes - 59 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

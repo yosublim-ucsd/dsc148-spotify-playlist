@@ -532,7 +532,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-24",
+      "date_removed": null,
       "duration_ms": 157500,
       "name": "330",
       "url": "https://open.spotify.com/track/7xQQX21Grfpf7xm9ETea2y"
@@ -2894,7 +2894,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 171782,
       "name": "Austin",
       "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
@@ -11138,7 +11138,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 256488,
       "name": "Everything's Okay (Marcele)",
       "url": "https://open.spotify.com/track/7q4vdiHaGPmyysslzbvKqQ"
@@ -15621,6 +15621,28 @@
     },
     {
       "album": {
+        "name": "I Made Her",
+        "url": "https://open.spotify.com/album/50oV2Wu0SKSOBeCFRHxeHD"
+      },
+      "artists": [
+        {
+          "name": "Mr. Flamboyant",
+          "url": "https://open.spotify.com/artist/6nBueMjRsZPGamzn5Zyoqx"
+        },
+        {
+          "name": "Benny Jones",
+          "url": "https://open.spotify.com/artist/4vpK9VppE7lOU8jk52zQ7W"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230975,
+      "name": "I Made Her",
+      "url": "https://open.spotify.com/track/0fkHZfRZbyt30z5RG50dot"
+    },
+    {
+      "album": {
         "name": "i n t e r l u d e",
         "url": "https://open.spotify.com/album/0WvwihMfA5E29MrLyNpJYF"
       },
@@ -16140,7 +16162,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 188143,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX"
@@ -19888,6 +19910,24 @@
       "duration_ms": 170880,
       "name": "Ma R\u00e9alit\u00e9",
       "url": "https://open.spotify.com/track/1IMgLV6uQ1mzc1XzfhLRQt"
+    },
+    {
+      "album": {
+        "name": "Mach 9",
+        "url": "https://open.spotify.com/album/6IXwjHMC5o7voVZ0RKDEsU"
+      },
+      "artists": [
+        {
+          "name": "Adil C",
+          "url": "https://open.spotify.com/artist/7x3MbA2lRnl8xXFc9A9uUq"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "Mach 9",
+      "url": "https://open.spotify.com/track/2RxR7CBKOB5tkAi5wvRHkE"
     },
     {
       "album": {
@@ -26058,7 +26098,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 232774,
       "name": "Push Ups",
       "url": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
@@ -31443,6 +31483,24 @@
     },
     {
       "album": {
+        "name": "Sweetwater",
+        "url": "https://open.spotify.com/album/7cCto3toKBIIbTdvRiJL1D"
+      },
+      "artists": [
+        {
+          "name": "Robert Rene",
+          "url": "https://open.spotify.com/artist/4MVYHcgto80vVx7XO8M1sW"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219500,
+      "name": "Sweetwater",
+      "url": "https://open.spotify.com/track/6UViHJsDlK3t50k3RmXuBb"
+    },
+    {
+      "album": {
         "name": "Swimming",
         "url": "https://open.spotify.com/album/33YpWNZAe6sQJEToC0VZdi"
       },
@@ -31847,6 +31905,24 @@
     },
     {
       "album": {
+        "name": "Tears Come Fallin' Down",
+        "url": "https://open.spotify.com/album/2TpadAgCfKbrGU08LC8D97"
+      },
+      "artists": [
+        {
+          "name": "Alexis Marrero",
+          "url": "https://open.spotify.com/artist/0mUJHSgFsZZf1zRUH4X3Ez"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239252,
+      "name": "Tears Come Fallin' Down",
+      "url": "https://open.spotify.com/track/3BE1aHP0afLXAqT3xW7YMB"
+    },
+    {
+      "album": {
         "name": "Favourite Worst Nightmare (Standard Version)",
         "url": "https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw"
       },
@@ -32234,7 +32310,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 140000,
       "name": "Thank You (Not So Bad)",
       "url": "https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt"
@@ -34446,7 +34522,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
@@ -35008,7 +35084,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 200255,
       "name": "Water",
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"

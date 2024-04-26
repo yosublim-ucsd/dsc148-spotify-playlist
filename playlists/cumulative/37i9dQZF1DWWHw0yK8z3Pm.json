@@ -2949,6 +2949,24 @@
     },
     {
       "album": {
+        "name": "Goodbye Trouble",
+        "url": "https://open.spotify.com/album/1BxhcoV21AWpz404R7odYt"
+      },
+      "artists": [
+        {
+          "name": "Emmett Jerome",
+          "url": "https://open.spotify.com/artist/5uvOvO0vk9HpLTWHS5reLN"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180783,
+      "name": "Goodbye Trouble",
+      "url": "https://open.spotify.com/track/5jcMIkw7HBD02Z3oI3Fbjo"
+    },
+    {
+      "album": {
         "name": "Grandfather",
         "url": "https://open.spotify.com/album/4FcEruvFCCjxQ4GyikOUFX"
       },
@@ -3270,7 +3288,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 290733,
       "name": "Hey Moon (A Campfire Song)",
       "url": "https://open.spotify.com/track/1wytswzvE3maUMf7GPisWd"

@@ -920,7 +920,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 373839,
       "name": "Bliss - Original Mix",
       "url": "https://open.spotify.com/track/4Jj9wXI1FRoMRa2RqzgY20"
@@ -4542,7 +4542,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 250497,
       "name": "Iridescence",
       "url": "https://open.spotify.com/track/4BEXZPaK0706p5tPy1UR3l"
@@ -4564,6 +4564,24 @@
       "duration_ms": 218026,
       "name": "Irisoft Livemixx",
       "url": "https://open.spotify.com/track/40AHKeEeYL67CrEXy05IRz"
+    },
+    {
+      "album": {
+        "name": "Jahh",
+        "url": "https://open.spotify.com/album/6qMSr5NjQjtnORisC64Iz5"
+      },
+      "artists": [
+        {
+          "name": "Rusha & Blizza",
+          "url": "https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125502,
+      "name": "Jahh",
+      "url": "https://open.spotify.com/track/59Dlm2urLresvu5p9Vjcvf"
     },
     {
       "album": {
@@ -6102,7 +6120,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 144857,
       "name": "Monomyth",
       "url": "https://open.spotify.com/track/3eohbDWubHzKPcrXs4bHOE"

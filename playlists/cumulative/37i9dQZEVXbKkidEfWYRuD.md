@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,457 songs - 2 day 19 hr 25 min
+1,458 songs - 2 day 19 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -663,6 +663,7 @@
 | [Sold Out](https://open.spotify.com/track/1bpxWHaT6N8gD2k1TvhJYt) | [FRIENDLY THUG 52 NGG](https://open.spotify.com/artist/5xtbUYHaOycg6HIi10EZdV), [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [Cristoforo Colombo](https://open.spotify.com/album/4PmKko0sUQl7I1cyeBD5Zg) | 2:33 | 2023-11-04 | 2023-11-09 |
 | [Solo](https://open.spotify.com/track/3xxjYOFR1y7By2wNDS51XV) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [Solo](https://open.spotify.com/album/4zX2oy6k4NLIThxb2Qp6LZ) | 2:34 | 2023-04-08 | 2023-04-20 |
 | [Someday](https://open.spotify.com/track/6aDsgHPZsMztSbZernzlF8) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 3:07 | 2021-08-29 | 2021-08-30 |
+| [Song 404](https://open.spotify.com/track/3xaNTJk9G0yoKkkjlkOYv5) | [7hvrdx](https://open.spotify.com/artist/7DI03nY9DwvZ49pLTiQh9o) | [Song 404](https://open.spotify.com/album/1GPbNVvuhI1JSinBRNIUS9) | 2:45 | 2024-04-25 |  |
 | [Sonne](https://open.spotify.com/track/3gVhsZtseYtY1fMuyYq06F) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Mutter](https://open.spotify.com/album/1CtTTpKbHU8KbHRB4LmBbv) | 4:32 | 2022-10-04 | 2023-03-13 |
 | [SPIT IN MY FACE!](https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA) | 2:27 | 2022-12-23 | 2024-02-21 |
 | [SPIT IN MY FACE!](https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K) | 2:27 | 2022-11-11 | 2022-12-10 |
@@ -950,7 +951,7 @@
 | [Додому](https://open.spotify.com/track/6gtK39SLszESqJFu2SkId3) | [Wellboy](https://open.spotify.com/artist/6l5IEx62Nsc2k1QyfaWvEz) | [8 марабу](https://open.spotify.com/album/2Q0kX7go1YkwNVix8e1Chw) | 2:49 | 2023-03-02 |  |
 | [Додому \(feat\. Skofka\)](https://open.spotify.com/track/0pqPu0m8qE45yJWqXEmpWe) | [KALUSH](https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842), [Skofka](https://open.spotify.com/artist/0Aj4ZvDgwd9DSs7E2nrox0) | [Додому \(feat\. Skofka\)](https://open.spotify.com/album/3ISIsSUP4H51ic7RbZFECH) | 3:36 | 2021-06-20 | 2021-07-25 |
 | [Додому \(feat\. Skofka\)](https://open.spotify.com/track/7kKTYTHULdERuHGCkVyLVD) | [KALUSH](https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842), [SKOFKA](https://open.spotify.com/artist/0Aj4ZvDgwd9DSs7E2nrox0) | [ЙО\-ЙО \(feat\. Skofka\)](https://open.spotify.com/album/75JDz9NzMLWYsw3K9aYXXc) | 3:36 | 2021-07-25 | 2023-07-12 |
-| [Долоні](https://open.spotify.com/track/28nCv762IfyLVB2OGGQcMb) | [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Долоні](https://open.spotify.com/album/3NmrYQxt3SIQg22hmZvxOq) | 2:44 | 2023-06-24 |  |
+| [Долоні](https://open.spotify.com/track/28nCv762IfyLVB2OGGQcMb) | [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Долоні](https://open.spotify.com/album/3NmrYQxt3SIQg22hmZvxOq) | 2:44 | 2023-06-24 | 2024-04-26 |
 | [Дом Периньон](https://open.spotify.com/track/0i8YObgqnjZYoYJOQbwLHq) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2), [Eldzhey](https://open.spotify.com/artist/0Cm90jv892OeEegB3ELmvN) | [Дом Периньон](https://open.spotify.com/album/2BzlnRShyxnyPh5Dp9uEeT) | 2:54 | 2021-09-19 | 2021-12-08 |
 | [Домино](https://open.spotify.com/track/6GyZQ9o0dBU9V0NIjGPz2r) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3) | [Искренний](https://open.spotify.com/album/4LWHMwwy0m51ZfIFwJziYJ) | 3:18 | 2021-04-10 | 2022-05-08 |
 | [Домой](https://open.spotify.com/track/5bA2HBafCfregvLZV4idXb) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [Домой](https://open.spotify.com/album/57NDWrCgxTDXI0RNYN9uQs) | 2:52 | 2021-12-12 | 2022-01-25 |
@@ -1206,7 +1207,7 @@
 | [плачь](https://open.spotify.com/track/3yCKABoZU3FVFuyVBc5VlM) | [rizza](https://open.spotify.com/artist/3zgn9mSaWsqdpcKo94Z5oi), [Sqwore](https://open.spotify.com/artist/2IGZnq5Ot1NquCpks3zO4o) | [плачь](https://open.spotify.com/album/5mmGfb74RHeHg2042MXq5A) | 1:56 | 2021-10-19 | 2022-07-17 |
 | [Плохая Сука](https://open.spotify.com/track/37H0CwLD3FGeHoEjlY4LAO) | [GONE.Fludd](https://open.spotify.com/artist/0ohUvVskERzK18bvWXFEqi) | [Плохая Сука](https://open.spotify.com/album/7Fej6nFF9KSCC6cJybCnsX) | 2:08 | 2021-06-06 | 2021-06-13 |
 | [По Глазам](https://open.spotify.com/track/53bbEINuw0ez3ntLcqYCu2) | [SLAVA MARLOW](https://open.spotify.com/artist/55jryyk7RhvMbrvoF0ndBh) | [АРТЁМ](https://open.spotify.com/album/41uurV69BIoO6FwaRdXkWo) | 2:00 | 2021-03-27\* | 2021-05-05 |
-| [Повільно](https://open.spotify.com/track/0NYvacFqoJdJggiOynzbur) | [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Повільно](https://open.spotify.com/album/6vfaWDp5UB2a6zxs7ZwBDv) | 2:46 | 2023-12-01 | 2024-04-23 |
+| [Повільно](https://open.spotify.com/track/0NYvacFqoJdJggiOynzbur) | [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Повільно](https://open.spotify.com/album/6vfaWDp5UB2a6zxs7ZwBDv) | 2:46 | 2023-12-01 |  |
 | [Погані сусіди](https://open.spotify.com/track/16buytNF31fLKzDP9q7ZEg) | [SKOFKA](https://open.spotify.com/artist/0Aj4ZvDgwd9DSs7E2nrox0) | [Погані сусіди](https://open.spotify.com/album/4cag70AzB98J6JePUV9pqv) | 2:53 | 2023-05-07 | 2023-06-27 |
 | [Погляд](https://open.spotify.com/track/66Xj2OpnDALdW0G509b9yY) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog), [SOBOL'](https://open.spotify.com/artist/2tzrAdVhSe0qIQBpedBCHh) | [Погляд](https://open.spotify.com/album/2U3ecGQPqMwXz4vSOps8Td) | 2:56 | 2023-03-08 | 2024-04-17 |
 | [Погоди](https://open.spotify.com/track/5sJt5rmSaKTQyAymKx6e1W) | [DSPRITE](https://open.spotify.com/artist/69PhufCTrndjECAUsBPFtw) | [Погоди](https://open.spotify.com/album/4yNMRTBvOZvRDLGSNLMOtQ) | 1:52 | 2021-11-26 | 2021-12-19 |
@@ -1426,7 +1427,7 @@
 | [Шум](https://open.spotify.com/track/3bghEsjRvDLVt6PE3Loc4G) | [Go\_A](https://open.spotify.com/artist/4kvCU3MzggM2piZCqvxj0x) | [Шум](https://open.spotify.com/album/1xV2NAiAcc4WMO0jekaJHS) | 3:58 | 2021-05-25 | 2021-05-30 |
 | [Шёлковая простынь](https://open.spotify.com/track/2cRE1GZn09vQPtdxxiZF3X) | [O.G EzzY](https://open.spotify.com/artist/6Z8cDRcxWP1dtB7NardbEv) | [Шёлковая простынь](https://open.spotify.com/album/30evRwE110O8MXnxDoQYSF) | 3:03 | 2022-07-14 | 2022-07-23 |
 | [Щедра ніч](https://open.spotify.com/track/5MrUX20W8fhEslSpxM1mbR) | [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8), [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh), [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Щедра ніч](https://open.spotify.com/album/6FVaH8Xt87g6V1Uy3dQgaX) | 2:55 | 2023-12-25 | 2023-12-27 |
-| [Щоб не було](https://open.spotify.com/track/63hgMQantc0DLZM8BN180N) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Щоб не було](https://open.spotify.com/album/1DU1pDRECcDA475YVGkC8b) | 1:50 | 2024-02-02 |  |
+| [Щоб не було](https://open.spotify.com/track/63hgMQantc0DLZM8BN180N) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Щоб не було](https://open.spotify.com/album/1DU1pDRECcDA475YVGkC8b) | 1:50 | 2024-02-02 | 2024-04-26 |
 | [Щоб не було](https://open.spotify.com/track/7krNeHssTmY3ijTox4OBbD) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Щоб не було](https://open.spotify.com/album/00hex8Oa9MjhX3IVjj81sb) | 1:50 | 2022-12-10 | 2024-02-03 |
 | [Эй](https://open.spotify.com/track/2oUSzRUIE4GvMw29rLKlWw) | [Кишлак](https://open.spotify.com/artist/44L2bdEufrpXM5S7yn30JJ) | [Сборник хуйни и картинки](https://open.spotify.com/album/6bNQ6UFOF8C70iz7IajffH) | 2:15 | 2023-09-07 | 2024-03-20 |
 | [Эйя](https://open.spotify.com/track/1JIvXMC0aCeLnOCs1EHpNW) | [Канги](https://open.spotify.com/artist/0R4IeWuUpTkmca5hnS0j6b) | [Том I\. «Жить не запретишь»](https://open.spotify.com/album/3WFJkKCQugxNAQ0Jyfmf86) | 2:51 | 2021-04-18 | 2021-04-29 |

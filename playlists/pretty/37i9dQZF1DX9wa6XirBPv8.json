@@ -1,6 +1,6 @@
 {
   "description": "feel it all. Cover: Taking Back Sunday",
-  "num_followers": 1690490,
+  "num_followers": 1690925,
   "original_name": "Emo Forever",
   "owner": {
     "name": "Spotify",
@@ -559,18 +559,18 @@
     {
       "added_at": "2024-01-26 17:11:01",
       "album": {
-        "name": "A Lesson In Romantics",
-        "url": "https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9"
+        "name": "Bleed American",
+        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
       },
       "artists": [
         {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Jamie All Over",
-      "url": "https://open.spotify.com/track/05qCCJQJiOwvPQBb7akf1R"
+      "duration_ms": 181493,
+      "name": "Bleed American",
+      "url": "https://open.spotify.com/track/61XspFITuKmAlYdQacNCbF"
     },
     {
       "added_at": "2024-01-26 17:11:01",
@@ -591,18 +591,18 @@
     {
       "added_at": "2024-01-26 17:11:01",
       "album": {
-        "name": "Bleed American",
-        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
+        "name": "A Lesson In Romantics",
+        "url": "https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9"
       },
       "artists": [
         {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
         }
       ],
-      "duration_ms": 181493,
-      "name": "Bleed American",
-      "url": "https://open.spotify.com/track/61XspFITuKmAlYdQacNCbF"
+      "duration_ms": 216000,
+      "name": "Jamie All Over",
+      "url": "https://open.spotify.com/track/05qCCJQJiOwvPQBb7akf1R"
     },
     {
       "added_at": "2024-01-26 17:11:01",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-01-26 17:11:01",
       "album": {
-        "name": "Where You Want To Be",
-        "url": "https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 247760,
-      "name": "A Decade Under The Influence",
-      "url": "https://open.spotify.com/track/6um5ccNzX7k3SRsVnLupvI"
-    },
-    {
-      "added_at": "2024-01-26 17:11:01",
-      "album": {
         "name": "Discovering The Waterfront",
         "url": "https://open.spotify.com/album/6j7O6N9Tp2Tac9hkEpt0zZ"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 193920,
       "name": "Smile In Your Sleep",
       "url": "https://open.spotify.com/track/29dljceloiAgAeARUwZ3QC"
+    },
+    {
+      "added_at": "2024-01-26 17:11:01",
+      "album": {
+        "name": "Where You Want To Be",
+        "url": "https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 247760,
+      "name": "A Decade Under The Influence",
+      "url": "https://open.spotify.com/track/6um5ccNzX7k3SRsVnLupvI"
     },
     {
       "added_at": "2024-01-26 17:11:01",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-01-26 17:11:01",
       "album": {
-        "name": "Full Collapse",
-        "url": "https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 264546,
-      "name": "Understanding In A Car Crash",
-      "url": "https://open.spotify.com/track/3U5TzKrZP6sqiR43LQArV7"
-    },
-    {
-      "added_at": "2024-01-26 17:11:01",
-      "album": {
         "name": "Never Hungover Again",
         "url": "https://open.spotify.com/album/6cPoZUF1MLvQvXkfDGHwsf"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 148120,
       "name": "Falling in Love Again",
       "url": "https://open.spotify.com/track/2M0IWOmIi079R1MaPVlOW3"
+    },
+    {
+      "added_at": "2024-01-26 17:11:01",
+      "album": {
+        "name": "Full Collapse",
+        "url": "https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 264546,
+      "name": "Understanding In A Car Crash",
+      "url": "https://open.spotify.com/track/3U5TzKrZP6sqiR43LQArV7"
     },
     {
       "added_at": "2024-01-26 17:11:01",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-01-26 17:11:01",
       "album": {
-        "name": "Hold On Tight",
-        "url": "https://open.spotify.com/album/5BNmZXVJX3h8WbtXyRTRln"
-      },
-      "artists": [
-        {
-          "name": "Hey Monday",
-          "url": "https://open.spotify.com/artist/6we2CCxymhh4v30lZRhhpa"
-        }
-      ],
-      "duration_ms": 197760,
-      "name": "How You Love Me Now",
-      "url": "https://open.spotify.com/track/4hIY051enSBBJ5fzZUzTSU"
-    },
-    {
-      "added_at": "2024-01-26 17:11:01",
-      "album": {
         "name": "The Lonesome Crowded West",
         "url": "https://open.spotify.com/album/5mvHTVy1iUIkAflIufoOpj"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 209960,
       "name": "Polar Opposites",
       "url": "https://open.spotify.com/track/5EsM3rVaMDRsOXJq7oe3tY"
+    },
+    {
+      "added_at": "2024-01-26 17:11:01",
+      "album": {
+        "name": "Hold On Tight",
+        "url": "https://open.spotify.com/album/5BNmZXVJX3h8WbtXyRTRln"
+      },
+      "artists": [
+        {
+          "name": "Hey Monday",
+          "url": "https://open.spotify.com/artist/6we2CCxymhh4v30lZRhhpa"
+        }
+      ],
+      "duration_ms": 197760,
+      "name": "How You Love Me Now",
+      "url": "https://open.spotify.com/track/4hIY051enSBBJ5fzZUzTSU"
     },
     {
       "added_at": "2024-01-26 17:11:01",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2024-01-26 17:11:01",
       "album": {
-        "name": "War All The Time",
-        "url": "https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t"
+        "name": "Anywhere but Here",
+        "url": "https://open.spotify.com/album/0JK09CS7SdFERmAiBNjawF"
       },
       "artists": [
         {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
         }
       ],
-      "duration_ms": 272400,
-      "name": "War All The Time",
-      "url": "https://open.spotify.com/track/43CG5O08Tj6ODmSWQ9pfvF"
+      "duration_ms": 203293,
+      "name": "Bruised and Scarred",
+      "url": "https://open.spotify.com/track/7EbUzSDb2R7EgyO3uGN1Oz"
     },
     {
       "added_at": "2024-01-26 17:11:01",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2024-01-26 17:11:01",
       "album": {
-        "name": "Anywhere but Here",
-        "url": "https://open.spotify.com/album/0JK09CS7SdFERmAiBNjawF"
+        "name": "War All The Time",
+        "url": "https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t"
       },
       "artists": [
         {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 203293,
-      "name": "Bruised and Scarred",
-      "url": "https://open.spotify.com/track/7EbUzSDb2R7EgyO3uGN1Oz"
+      "duration_ms": 272400,
+      "name": "War All The Time",
+      "url": "https://open.spotify.com/track/43CG5O08Tj6ODmSWQ9pfvF"
     },
     {
       "added_at": "2024-01-26 17:11:01",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2024-01-26 17:11:01",
       "album": {
-        "name": "Clarity (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 229706,
-      "name": "Lucky Denver Mint",
-      "url": "https://open.spotify.com/track/2GtMBnQshzpr6kIInqTJVd"
-    },
-    {
-      "added_at": "2024-01-26 17:11:01",
-      "album": {
         "name": "One Fell Swoop",
         "url": "https://open.spotify.com/album/0zpPut1LDImgvq2ihslxOL"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 183960,
       "name": "Polygraph, Right Now!",
       "url": "https://open.spotify.com/track/0eF0hwXeVzUimc5YA5IT6J"
+    },
+    {
+      "added_at": "2024-01-26 17:11:01",
+      "album": {
+        "name": "Analphabetapolothology",
+        "url": "https://open.spotify.com/album/4VgTw2LLWNMz1FIHkZuv5D"
+      },
+      "artists": [
+        {
+          "name": "Cap'n Jazz",
+          "url": "https://open.spotify.com/artist/3JhEcBWSCPXkRMt1VK14i4"
+        }
+      ],
+      "duration_ms": 122880,
+      "name": "Oh Messy Life",
+      "url": "https://open.spotify.com/track/5UGOuPyoMT5XHNA75LJlQE"
     },
     {
       "added_at": "2024-01-26 17:11:01",
@@ -1775,18 +1775,18 @@
     {
       "added_at": "2024-01-26 17:11:01",
       "album": {
-        "name": "Analphabetapolothology",
-        "url": "https://open.spotify.com/album/4VgTw2LLWNMz1FIHkZuv5D"
+        "name": "Clarity (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
       },
       "artists": [
         {
-          "name": "Cap'n Jazz",
-          "url": "https://open.spotify.com/artist/3JhEcBWSCPXkRMt1VK14i4"
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 122880,
-      "name": "Oh Messy Life",
-      "url": "https://open.spotify.com/track/5UGOuPyoMT5XHNA75LJlQE"
+      "duration_ms": 229706,
+      "name": "Lucky Denver Mint",
+      "url": "https://open.spotify.com/track/2GtMBnQshzpr6kIInqTJVd"
     },
     {
       "added_at": "2024-01-26 17:11:01",

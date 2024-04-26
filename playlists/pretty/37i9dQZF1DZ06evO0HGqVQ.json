@@ -1,12 +1,12 @@
 {
   "description": "This Is Los inquietos del vallenato. Los temas esenciales, todos en una lista.",
-  "num_followers": 26378,
+  "num_followers": 26384,
   "original_name": "This Is Los inquietos del vallenato",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzgzMDQwMCwwMDAwMDAwMDQyY2ZlNDdjNTNmNjNlMTQ1YmE0OGM1MjYzOTEwNzQw",
+  "snapshot_id": "MTcxMzkxNjgwMCwwMDAwMDAwMDIwNGU3NWQ5N2I0MGJhZTQzMGEyZTdmOTg4MWRmMTQz",
   "tracks": [
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Quiero M\u00e1s",
-        "url": "https://open.spotify.com/album/7c7ze2wBynBwHbKEzPVvlk"
+        "name": "Por Siempre",
+        "url": "https://open.spotify.com/album/7d4AUGntqzeyRONGCnKNwH"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 233896,
-      "name": "Te Quiero M\u00e1s",
-      "url": "https://open.spotify.com/track/2U6HQg4wZGcrhijlcmFOcP"
+      "duration_ms": 309426,
+      "name": "Toma T\u00fa Recuerdo",
+      "url": "https://open.spotify.com/track/6Ow8ycrYyPdeV5YJK5hOwH"
     },
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Siempre",
-        "url": "https://open.spotify.com/album/7d4AUGntqzeyRONGCnKNwH"
+        "name": "Te Quiero M\u00e1s",
+        "url": "https://open.spotify.com/album/7c7ze2wBynBwHbKEzPVvlk"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 309426,
-      "name": "Toma T\u00fa Recuerdo",
-      "url": "https://open.spotify.com/track/6Ow8ycrYyPdeV5YJK5hOwH"
+      "duration_ms": 233896,
+      "name": "Te Quiero M\u00e1s",
+      "url": "https://open.spotify.com/track/2U6HQg4wZGcrhijlcmFOcP"
     },
     {
       "added_at": null,

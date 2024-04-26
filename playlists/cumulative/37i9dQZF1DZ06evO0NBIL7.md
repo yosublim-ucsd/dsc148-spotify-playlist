@@ -2,7 +2,7 @@
 
 ### [This Is Fangclub](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0NBIL7)
 
-> This is Fangclub\. The essential tracks, all in one playlist.
+> This Is Fangclub\. Los temas esenciales, todos en una lista.
 
 32 songs - 1 hr 47 min
 

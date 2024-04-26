@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 41,309 likes - 108 songs - 5 hr 32 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 41,330 likes - 108 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 75 | [Love Of Our Lives](https://open.spotify.com/track/7BSPpvHoymTt25QXcAZfPV) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [Love Of Our Lives](https://open.spotify.com/album/4Q6WNOy4kfwwYIZwIY5CZt) | 3:01 |
 | 76 | [Something Good](https://open.spotify.com/track/3Dx6gcbWxjGq3KOX5JUCEt) | [Work In TV](https://open.spotify.com/artist/3NCtRh3bRwOd0LQjHRcMNo) | [Something Good](https://open.spotify.com/album/4Dr7ADrnsmtJZ8F9d1Gcby) | 3:33 |
 | 77 | [My Soul](https://open.spotify.com/track/7FMK2OK6870RvNmCFrna4L) | [4K](https://open.spotify.com/artist/4B5o3KYgu0h7jpphQsrDRP) | [My Soul](https://open.spotify.com/album/0aHWoOX9q9f8r1m2ACEQpT) | 2:58 |
-| 78 | [Real Rap](https://open.spotify.com/track/60imHRZdX6h0aDOZKDUzCq) | [Dimzy](https://open.spotify.com/artist/2G3moO7hc1jXWYKkW5ZYw4), [67](https://open.spotify.com/artist/211p9eSLzwF6iuXzzP5xTl) | [Real Rap](https://open.spotify.com/album/7j2wJrb5K66O4zaGGxubpK) | 2:50 |
+| 78 | [Real Rap 1](https://open.spotify.com/track/60imHRZdX6h0aDOZKDUzCq) | [Dimzy](https://open.spotify.com/artist/2G3moO7hc1jXWYKkW5ZYw4), [67](https://open.spotify.com/artist/211p9eSLzwF6iuXzzP5xTl) | [Real Rap](https://open.spotify.com/album/7j2wJrb5K66O4zaGGxubpK) | 2:50 |
 | 79 | [1 By 1](https://open.spotify.com/track/11dwsCiqzuDQCYEbt6X0D8) | [Michael Hamilton](https://open.spotify.com/artist/3PSjlSCkbwLhifpxDnFfnd) | [1 By 1](https://open.spotify.com/album/0aVQo4ednSdeP68pLWHC8z) | 3:15 |
 | 80 | [Bad Route](https://open.spotify.com/track/6G086qeJGei171U3SnOHnh) | [36](https://open.spotify.com/artist/7DGmBOT6629EbsQOqINEqJ) | [Bad Route](https://open.spotify.com/album/489yU6I5Dh7skZbXnrrz4M) | 2:38 |
 | 81 | [No More](https://open.spotify.com/track/64nwY8JYxIE3nFb64SDsaU) | [Jaymie Silk](https://open.spotify.com/artist/3OvgRSozWRb0Tu1yqblOfr) | [The Groove Master](https://open.spotify.com/album/30TIAD9cAWK7G47HNcNyTr) | 4:13 |

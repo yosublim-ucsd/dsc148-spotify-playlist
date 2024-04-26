@@ -1477,6 +1477,28 @@
     },
     {
       "album": {
+        "name": "God & Rap",
+        "url": "https://open.spotify.com/album/4B5VsLWUc6vNFhS5OoPbcV"
+      },
+      "artists": [
+        {
+          "name": "Strongman",
+          "url": "https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9"
+        },
+        {
+          "name": "Kweku Darlington",
+          "url": "https://open.spotify.com/artist/3ZR23AVEcvrtRqPXpIcjSW"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189359,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/4iUOXOLxqeimvWAXUg4vGt"
+    },
+    {
+      "album": {
         "name": "Focus On Me",
         "url": "https://open.spotify.com/album/6PMxU7xULJ3fhQegSvfhsX"
       },
@@ -3664,7 +3686,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 176322,
       "name": "The One that Got Away",
       "url": "https://open.spotify.com/track/6fClsr0nie6TaR58GcMGov"

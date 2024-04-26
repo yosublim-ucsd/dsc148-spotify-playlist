@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf43Md5h6cE.md) - [plain]
 
 > Fill your mind with music for dreaming, thinking and longing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,242 likes - 159 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,512 likes - 159 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf43Md5h6cE.md) - [plain]
 | 60 | [Tender Heartbeat](https://open.spotify.com/track/5cp7kcxfvz6mfJlcepXI1x) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Tender Heartbeat](https://open.spotify.com/album/11M1tPTkpIEawmsTtRygak) | 2:09 |
 | 61 | [Mind Gardening](https://open.spotify.com/track/3QJEB3c8DP5BdVRoxnjH3w) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Mind Gardening](https://open.spotify.com/album/6WSiW6ysGr4mc3p9pCqG1V) | 2:27 |
 | 62 | [Restore Balance](https://open.spotify.com/track/0poXJM588xacjbjvZpgDpi) | [Beyond Time](https://open.spotify.com/artist/5jcdsaKY2dOyiAVuePI4a2) | [Restore Balance](https://open.spotify.com/album/1XGxRh9q1jpQsVN3SgRRVY) | 2:14 |
-| 63 | [Ethereal Nocturne](https://open.spotify.com/track/1bFtBuRwJXKiDfZ7ZYbtrg) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX), [Alleviation](https://open.spotify.com/artist/35tzlkReXUs4XX5hXtaPpw), [Soothing Buzz](https://open.spotify.com/artist/7c6K2xsxh9HtmnzpNb4NIx) | [Ethereal Nocturne](https://open.spotify.com/album/1hdW4BXsPwsK21WjY95sB9) | 2:07 |
+| 63 | [Ethereal Nocturne](https://open.spotify.com/track/1bFtBuRwJXKiDfZ7ZYbtrg) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX), [Alleviation](https://open.spotify.com/artist/35tzlkReXUs4XX5hXtaPpw), [Buneba](https://open.spotify.com/artist/4kckQx25UOWOjUMposE6ek) | [Ethereal Nocturne](https://open.spotify.com/album/1hdW4BXsPwsK21WjY95sB9) | 2:07 |
 | 64 | [Immersed In Dreams](https://open.spotify.com/track/1zv82sM9K7nEGh2aJ71r7b) | [Heart 2 Heart Relaxing Music](https://open.spotify.com/artist/5z0DWZhG5UimahCQNsszXe) | [Immersed In Dreams](https://open.spotify.com/album/3PrhDThftipDfJZO203rmH) | 2:25 |
 | 65 | [illusions](https://open.spotify.com/track/698R7hMTRpd8ZfxJN6PkyM) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [illusions](https://open.spotify.com/album/0Y7P4AdRAfhZXGDJOD6Gl5) | 3:43 |
 | 66 | [Tender Love](https://open.spotify.com/track/6pniqT6V5tqFo5tukYskZ9) | [Relax Yourself](https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY) | [Tender Love](https://open.spotify.com/album/23oAQoOmAC5xuhtuM97bxi) | 2:09 |

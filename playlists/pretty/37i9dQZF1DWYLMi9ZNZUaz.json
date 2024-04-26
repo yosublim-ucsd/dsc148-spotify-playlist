@@ -1,6 +1,6 @@
 {
   "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: RPT MCK",
-  "num_followers": 91127,
+  "num_followers": 91184,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,22 @@
     {
       "added_at": "2024-03-22 02:15:13",
       "album": {
+        "name": "10 Ng\u00e0n N\u0103m",
+        "url": "https://open.spotify.com/album/1LkA7FjIQpuZBgxdd3nNvF"
+      },
+      "artists": [
+        {
+          "name": "PC",
+          "url": "https://open.spotify.com/artist/3HD3V1nGFPwepBO7064Ij0"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "10 Ng\u00e0n N\u0103m",
+      "url": "https://open.spotify.com/track/76KYaCx7UjHwlnrqzcovLZ"
+    },
+    {
+      "added_at": "2024-03-22 02:15:13",
+      "album": {
         "name": "\u0110i V\u1ec1 Nh\u00e0",
         "url": "https://open.spotify.com/album/7C3WHnNZ5zcUutPtsB7KjD"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 200000,
       "name": "\u0110i V\u1ec1 Nh\u00e0",
       "url": "https://open.spotify.com/track/7LVrrX8pkzI9fMF88nGabt"
-    },
-    {
-      "added_at": "2024-03-22 02:15:13",
-      "album": {
-        "name": "10 Ng\u00e0n N\u0103m",
-        "url": "https://open.spotify.com/album/1LkA7FjIQpuZBgxdd3nNvF"
-      },
-      "artists": [
-        {
-          "name": "PC",
-          "url": "https://open.spotify.com/artist/3HD3V1nGFPwepBO7064Ij0"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "10 Ng\u00e0n N\u0103m",
-      "url": "https://open.spotify.com/track/76KYaCx7UjHwlnrqzcovLZ"
     },
     {
       "added_at": "2024-03-22 02:15:13",
@@ -451,26 +451,18 @@
     {
       "added_at": "2024-03-22 02:15:13",
       "album": {
-        "name": "pho real",
-        "url": "https://open.spotify.com/album/2vCSyr1hNfzQqOcuHXD8uD"
+        "name": "Th\u1ee9c Gi\u1ea5c",
+        "url": "https://open.spotify.com/album/5g1CmwPBfBGvODvhQdi9oi"
       },
       "artists": [
         {
-          "name": "Low G",
-          "url": "https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe"
-        },
-        {
-          "name": "Anh Phan",
-          "url": "https://open.spotify.com/artist/6Zx90B1VRgR4TB01S87duQ"
-        },
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+          "name": "Da LAB",
+          "url": "https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f"
         }
       ],
-      "duration_ms": 166800,
-      "name": "pho real",
-      "url": "https://open.spotify.com/track/0OIed6UFpfT2nW4BffD7Js"
+      "duration_ms": 269021,
+      "name": "Th\u1ee9c Gi\u1ea5c",
+      "url": "https://open.spotify.com/track/1MiJk3dXC5jzhvLFP0dUM7"
     },
     {
       "added_at": "2024-03-22 02:15:13",
@@ -491,18 +483,26 @@
     {
       "added_at": "2024-03-22 02:15:13",
       "album": {
-        "name": "Th\u1ee9c Gi\u1ea5c",
-        "url": "https://open.spotify.com/album/5g1CmwPBfBGvODvhQdi9oi"
+        "name": "pho real",
+        "url": "https://open.spotify.com/album/2vCSyr1hNfzQqOcuHXD8uD"
       },
       "artists": [
         {
-          "name": "Da LAB",
-          "url": "https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f"
+          "name": "Low G",
+          "url": "https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe"
+        },
+        {
+          "name": "Anh Phan",
+          "url": "https://open.spotify.com/artist/6Zx90B1VRgR4TB01S87duQ"
+        },
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
         }
       ],
-      "duration_ms": 269021,
-      "name": "Th\u1ee9c Gi\u1ea5c",
-      "url": "https://open.spotify.com/track/1MiJk3dXC5jzhvLFP0dUM7"
+      "duration_ms": 166800,
+      "name": "pho real",
+      "url": "https://open.spotify.com/track/0OIed6UFpfT2nW4BffD7Js"
     },
     {
       "added_at": "2024-03-22 02:15:13",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-03-22 02:15:13",
       "album": {
-        "name": "\u00e1i",
-        "url": "https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6"
-      },
-      "artists": [
-        {
-          "name": "tlinh",
-          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
-        }
-      ],
-      "duration_ms": 170500,
-      "name": "th\u1ebf gi\u1edbi th\u1ea7n ti\u00ean",
-      "url": "https://open.spotify.com/track/2cJyuhqcXvd6ccvAn8NXsL"
-    },
-    {
-      "added_at": "2024-03-22 02:15:13",
-      "album": {
         "name": "dreAMEE",
         "url": "https://open.spotify.com/album/4tHnhcKAaAaD83UfrTvUPt"
       },
@@ -639,6 +623,38 @@
       "duration_ms": 216500,
       "name": "ex's hate me, Pt. 2",
       "url": "https://open.spotify.com/track/0Rx4GFPy8ISxPhRwkjl64b"
+    },
+    {
+      "added_at": "2024-03-22 02:15:13",
+      "album": {
+        "name": "\u00e1i",
+        "url": "https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6"
+      },
+      "artists": [
+        {
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
+        }
+      ],
+      "duration_ms": 170500,
+      "name": "th\u1ebf gi\u1edbi th\u1ea7n ti\u00ean",
+      "url": "https://open.spotify.com/track/2cJyuhqcXvd6ccvAn8NXsL"
+    },
+    {
+      "added_at": "2024-03-22 02:15:13",
+      "album": {
+        "name": "Thanh Xu\u00e2n",
+        "url": "https://open.spotify.com/album/2S83wtOFg3NgQbyo3Lswkw"
+      },
+      "artists": [
+        {
+          "name": "Da LAB",
+          "url": "https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f"
+        }
+      ],
+      "duration_ms": 220509,
+      "name": "Thanh Xu\u00e2n",
+      "url": "https://open.spotify.com/track/3b34161QoxLwsqhWSPy9i5"
     },
     {
       "added_at": "2024-03-22 02:15:13",
@@ -667,26 +683,6 @@
     {
       "added_at": "2024-03-22 02:15:13",
       "album": {
-        "name": "TO LOVE AND BE LOVED",
-        "url": "https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ"
-      },
-      "artists": [
-        {
-          "name": "Winno",
-          "url": "https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB"
-        },
-        {
-          "name": "Hustlang Robber",
-          "url": "https://open.spotify.com/artist/3JWIaDWHJq11w1xPqJStEv"
-        }
-      ],
-      "duration_ms": 340724,
-      "name": "Mu\u1ed1n anh \u0111au",
-      "url": "https://open.spotify.com/track/7CoOFEoC3xg3iJ2srBsizf"
-    },
-    {
-      "added_at": "2024-03-22 02:15:13",
-      "album": {
         "name": "Ai C\u0169ng Ph\u1ea3i B\u1eaft \u0110\u1ea7u T\u1eeb \u0110\u00e2u \u0110\u00f3",
         "url": "https://open.spotify.com/album/3Im5W6U3uL6A5fzahEG05u"
       },
@@ -711,22 +707,6 @@
     {
       "added_at": "2024-03-22 02:15:13",
       "album": {
-        "name": "Thanh Xu\u00e2n",
-        "url": "https://open.spotify.com/album/2S83wtOFg3NgQbyo3Lswkw"
-      },
-      "artists": [
-        {
-          "name": "Da LAB",
-          "url": "https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f"
-        }
-      ],
-      "duration_ms": 220509,
-      "name": "Thanh Xu\u00e2n",
-      "url": "https://open.spotify.com/track/3b34161QoxLwsqhWSPy9i5"
-    },
-    {
-      "added_at": "2024-03-22 02:15:13",
-      "album": {
         "name": "\u0110\u00e1nh \u0110\u1ed5i",
         "url": "https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 184615,
       "name": "\u0110\u1ea7u \u0110\u01b0\u1eddng X\u00f3 Ch\u1ee3 (ft. L\u0103ng LD)",
       "url": "https://open.spotify.com/track/2nFXaYb2fWOoUJXMPb6y4C"
+    },
+    {
+      "added_at": "2024-03-22 02:15:13",
+      "album": {
+        "name": "TO LOVE AND BE LOVED",
+        "url": "https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ"
+      },
+      "artists": [
+        {
+          "name": "Winno",
+          "url": "https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB"
+        },
+        {
+          "name": "Hustlang Robber",
+          "url": "https://open.spotify.com/artist/3JWIaDWHJq11w1xPqJStEv"
+        }
+      ],
+      "duration_ms": 340724,
+      "name": "Mu\u1ed1n anh \u0111au",
+      "url": "https://open.spotify.com/track/7CoOFEoC3xg3iJ2srBsizf"
     },
     {
       "added_at": "2024-03-22 02:15:13",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-03-22 02:15:13",
       "album": {
-        "name": "y\u00eau anh \u0111i m\u1eb9 anh b\u00e1n b\u00e1nh m\u00ec",
-        "url": "https://open.spotify.com/album/5SJdYLmgXEYDTRWxambaQU"
-      },
-      "artists": [
-        {
-          "name": "Phuc Du",
-          "url": "https://open.spotify.com/artist/0qkGQFUrj8ERPAZcdpa79j"
-        }
-      ],
-      "duration_ms": 252892,
-      "name": "y\u00eau anh \u0111i m\u1eb9 anh b\u00e1n b\u00e1nh m\u00ec",
-      "url": "https://open.spotify.com/track/70hEVaGwwat644nPWkhKNW"
-    },
-    {
-      "added_at": "2024-03-22 02:15:13",
-      "album": {
         "name": "Gi\u00e0 C\u00f9ng Nhau L\u00e0 \u0110\u01b0\u1ee3c",
         "url": "https://open.spotify.com/album/6uLKMVAfgwW68y7GuKYyXK"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 231360,
       "name": "Gi\u00e0 C\u00f9ng Nhau L\u00e0 \u0110\u01b0\u1ee3c",
       "url": "https://open.spotify.com/track/3y6kYOBeVg8jtUiBdTR0pD"
+    },
+    {
+      "added_at": "2024-03-22 02:15:13",
+      "album": {
+        "name": "y\u00eau anh \u0111i m\u1eb9 anh b\u00e1n b\u00e1nh m\u00ec",
+        "url": "https://open.spotify.com/album/5SJdYLmgXEYDTRWxambaQU"
+      },
+      "artists": [
+        {
+          "name": "Phuc Du",
+          "url": "https://open.spotify.com/artist/0qkGQFUrj8ERPAZcdpa79j"
+        }
+      ],
+      "duration_ms": 252892,
+      "name": "y\u00eau anh \u0111i m\u1eb9 anh b\u00e1n b\u00e1nh m\u00ec",
+      "url": "https://open.spotify.com/track/70hEVaGwwat644nPWkhKNW"
     },
     {
       "added_at": "2024-03-22 02:15:13",

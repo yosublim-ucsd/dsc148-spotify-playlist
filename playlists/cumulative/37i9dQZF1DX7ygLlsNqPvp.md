@@ -4,7 +4,7 @@
 
 > The most intense local drill music firing up the continent\. Cover:  Beeztrap KOTM
 
-168 songs - 8 hr 30 min
+169 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Fire \- Remix](https://open.spotify.com/track/27413RLXJwf8qnCuJynC66) | [Kwame Vybz](https://open.spotify.com/artist/16MxvE6X1uGG7ddY3XLgdY), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Fire \(Remix\)](https://open.spotify.com/album/3rex4m0MhEg1FzcUPcyT0K) | 3:28 | 2022-08-12 | 2022-10-31 |
 | [Floor Shake](https://open.spotify.com/track/75CW2Y65bqjxTQx3z3V53X) | [DJ Semtex](https://open.spotify.com/artist/3xhX0nrkThoOaGZZoFnCAt), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Floor Shake](https://open.spotify.com/album/29SzNH7V2r3h1oZG3MHemE) | 2:32 | 2023-02-23 | 2023-03-11 |
 | [Fly Girl](https://open.spotify.com/track/2iKAPCfb9kDYx82DA10D5z) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN) | [Fly Girl](https://open.spotify.com/album/0iW7kpeYCRmE9ctuvz9Oli) | 3:14 | 2024-03-15 |  |
+| [Focus](https://open.spotify.com/track/4iUOXOLxqeimvWAXUg4vGt) | [Strongman](https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9), [Kweku Darlington](https://open.spotify.com/artist/3ZR23AVEcvrtRqPXpIcjSW) | [God & Rap](https://open.spotify.com/album/4B5VsLWUc6vNFhS5OoPbcV) | 3:09 | 2024-04-26 |  |
 | [Focus On Me](https://open.spotify.com/track/3gQxTu5e5K9btGajeTy5iv) | [Freda Rhymz](https://open.spotify.com/artist/3e8jas2EOwWf2Pp3laUajH) | [Focus On Me](https://open.spotify.com/album/6PMxU7xULJ3fhQegSvfhsX) | 2:53 | 2023-11-17 | 2024-01-05 |
 | [Frass](https://open.spotify.com/track/4YesAXkrlESdn1Vk2f65pa) | [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052), [Larruso](https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS) | [Nothing Matters](https://open.spotify.com/album/6nhytxiQ5m9fgRIMKoqgbi) | 2:43 | 2022-12-08 | 2023-02-11 |
 | [Fre Me](https://open.spotify.com/track/5jOjRAFGcCLd0gMUyviyM4) | [Thomas the Great](https://open.spotify.com/artist/4DaWXLEMSsQWHrkshW0IDc), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Fre Me](https://open.spotify.com/album/5vpZvekXCaEXVDqSuN7vMW) | 2:51 | 2022-10-30 | 2022-11-19 |
@@ -158,7 +159,7 @@
 | [Tell 'Em To Shut Up](https://open.spotify.com/track/1M65D5LXMUNiMXka5Hf2oB) | [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052), [Reggie](https://open.spotify.com/artist/65ZsNUD4VR9tanQXJeMxt1), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG) | [Ka Na Wu](https://open.spotify.com/album/4KCA3hHpLmH1Rm2uCGVURz) | 2:48 | 2023-11-24 | 2024-03-15 |
 | [Tell 'Em To Shut Up \(feat\. Reggie & Skyface Sdw\)](https://open.spotify.com/track/0yVzC9Bvpi9BhgpP5Nb9dK) | [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052), [Reggie](https://open.spotify.com/artist/65ZsNUD4VR9tanQXJeMxt1), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG) | [Ka Na Wu](https://open.spotify.com/album/4WjFmcus19qITkG4kvNWj4) | 2:48 | 2023-11-24 | 2023-11-29 |
 | [Temptation](https://open.spotify.com/track/1wZfdwMq8dgacs2CF1mT7x) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [PITJ](https://open.spotify.com/album/2YLTD3ctvprBZqF3nBspik) | 2:15 | 2023-08-10 | 2023-09-15 |
-| [The One that Got Away](https://open.spotify.com/track/6fClsr0nie6TaR58GcMGov) | [Ari Rei](https://open.spotify.com/artist/1UjKYaSaIIABUpkOVxvcPo) | [The One that Got Away](https://open.spotify.com/album/5keaD9M9G1AOoQgGn2FgYe) | 2:56 | 2024-04-19 |  |
+| [The One that Got Away](https://open.spotify.com/track/6fClsr0nie6TaR58GcMGov) | [Ari Rei](https://open.spotify.com/artist/1UjKYaSaIIABUpkOVxvcPo) | [The One that Got Away](https://open.spotify.com/album/5keaD9M9G1AOoQgGn2FgYe) | 2:56 | 2024-04-19 | 2024-04-26 |
 | [Time](https://open.spotify.com/track/5KwDovDFkhSaBuRlcVke0x) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Time](https://open.spotify.com/album/5cJW97FT5Uo34WKxkkuOJk) | 2:45 | 2022-11-04 | 2023-02-11 |
 | [Tonight](https://open.spotify.com/track/4AwLs3NpQFSy5bhIdeXWll) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd) | [Tonight](https://open.spotify.com/album/5rikpwZ6bc9dweoWLojsyz) | 2:19 | 2023-11-17 | 2024-01-19 |
 | [Touché](https://open.spotify.com/track/7icSngvRJmY5FpcsXg67yv) | [Nasa Nassa](https://open.spotify.com/artist/1LKGSEPso33OnJ1fZxsQVP) | [Touché](https://open.spotify.com/album/1YuEqdkNN7wFiT3LfSKcdn) | 2:02 | 2023-03-10 | 2023-03-18 |

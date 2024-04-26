@@ -4,7 +4,7 @@
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-167 songs - 8 hr 49 min
+168 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Mi pueblo, mi casa, la soledad](https://open.spotify.com/track/3M1TkSTS4amqgMhRK70mu3) | [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY), [Jaques Morelenbaum](https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d) | [Mi pueblo, mi casa, la soledad](https://open.spotify.com/album/1jZPXH4WVGKacnfL7Si41p) | 5:02 | 2023-04-21 | 2023-08-24 |
 | [Mi Triste Fantasia](https://open.spotify.com/track/3zak0TGVmH7wrFuwPXBfjC) | [Duo Cejas Solis](https://open.spotify.com/artist/4jVtTtMgp00oqszMFhv0Q1) | [Dúo Cejas Solís](https://open.spotify.com/album/6ykh0xH1kYW80selPX5WUS) | 2:06 | 2021-11-19 | 2022-07-28 |
 | [Mi Zaino Colorado / Al Pago de Federal / Tirador Sin Flecos \- En Vivo](https://open.spotify.com/track/0HeZU11H9gPbOipWUD81E5) | [Los Majestuosos Del Chamamé](https://open.spotify.com/artist/6P7mWyfrVRNgrd5DWjgkAp) | [Enganchados en Vivo Desde San José Feliciano / Nacional, Vol\. 2](https://open.spotify.com/album/3WT6s7UYfNlfID6p6N5BWZ) | 7:35 | 2021-11-19 |  |
+| [Mi Última Carta](https://open.spotify.com/track/2dCGUIz3By4HKxOEww1YRu) | [Efrain Colombo](https://open.spotify.com/artist/32778N5Y2svyyJGp8HwxBY), [Francisco Cuestas](https://open.spotify.com/artist/3zFh5WcBQaDuCDkksWWsjx) | [Mi Última Carta](https://open.spotify.com/album/7wWn0cVIoRQXYvUy8J6sf4) | 2:51 | 2024-04-25 |  |
 | [Mi Última Flor](https://open.spotify.com/track/61g2rmBeHabOCDl72RVFXs) | [Los Hermanos Cardozo](https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR) | [Nuestras Mejores 30 Canciones](https://open.spotify.com/album/1xeeiW2aNJnj9Vweycehex) | 2:26 | 2021-11-19 |  |
 | [Mis Harapos](https://open.spotify.com/track/3gjICraXtcv9m4eFhKHYVC) | [Los Tatas del Chamamé](https://open.spotify.com/artist/5ivkhJSBl2creWgSBXy4rw) | [No Le Mezquine la Marca](https://open.spotify.com/album/0wjDpVzsLDJhQJFxh3tDv1) | 2:33 | 2021-11-19 | 2022-07-29 |
 | [Nazareno](https://open.spotify.com/track/2FbrtqmmC0Y6iOyxU9KmMF) | [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Otras Músicas](https://open.spotify.com/album/0JJuFYrBjBOrE9WlmVHgIY) | 4:35 | 2022-07-05 | 2023-10-22 |
@@ -151,7 +152,7 @@
 | [Rumbeando Pal Litoral](https://open.spotify.com/track/5Vb3AxrP4DXsqfpc072wrf) | [Carlos Talavera con el Cuarteto Santa Ana](https://open.spotify.com/artist/6KmWYyLeQgz4DIQvxLZm9I), [Ernesto Montiel](https://open.spotify.com/artist/0kps7D5aSOND65MD33m9Pd) | [Los 55 Anos del Cuarteto Santa Ana](https://open.spotify.com/album/07WYgRf0q9zz4TuFPXaBhr) | 3:07 | 2021-11-19 |  |
 | [Sargento Sapo](https://open.spotify.com/track/62Jo56vQRQz0z6kydGxzxO) | [Los Criollos del Chamamé](https://open.spotify.com/artist/36f2CIEqFhCCBwCe68juJu) | [Festejando los 30 Años](https://open.spotify.com/album/55PYfEVMpfUekIwxTfFGQY) | 2:22 | 2021-11-19 |  |
 | [Seleccion de temas enganchados](https://open.spotify.com/track/1aAee98bRu8jazbnklPoKJ) | [Pancho Escalada](https://open.spotify.com/artist/69CBMfMKg8jPd6LR3LOR6f) | [Chamame \- Los 100 mejores temas \- Vol 4](https://open.spotify.com/album/508BWmmIii80gEwzMMckYa) | 3:30 | 2021-11-19 |  |
-| [Sembrador de Esperanza](https://open.spotify.com/track/3sova4l2K0UmdbfbGeJxO3) | [Efrain Colombo](https://open.spotify.com/artist/32778N5Y2svyyJGp8HwxBY) | [Sembrador de Esperanza](https://open.spotify.com/album/2GtsBdivtsUEDKILnnT91c) | 3:21 | 2021-11-19 |  |
+| [Sembrador de Esperanza](https://open.spotify.com/track/3sova4l2K0UmdbfbGeJxO3) | [Efrain Colombo](https://open.spotify.com/artist/32778N5Y2svyyJGp8HwxBY) | [Sembrador de Esperanza](https://open.spotify.com/album/2GtsBdivtsUEDKILnnT91c) | 3:21 | 2021-11-19 | 2024-04-26 |
 | [Sentimiento Correntino](https://open.spotify.com/track/2mE721bufkCtgsJl2vlxy1) | [Coquimarola](https://open.spotify.com/artist/51yXBBLIlRMDgnXVuDNHmy), [Óscar Fernández](https://open.spotify.com/artist/6vQUH7khnVVfYzJUoCiLBm) | [Muchachita Sos Mi Sueño](https://open.spotify.com/album/0QYObb1RYFFEdKtxxAQK4A) | 2:19 | 2021-11-19 | 2022-10-21 |
 | [Si Pudiera](https://open.spotify.com/track/2S9oyHCvXTaaIFm2dkpwge) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Si Pudiera](https://open.spotify.com/album/1wMLkuAbaKSaqZr11xG32C) | 2:53 | 2023-05-05 |  |
 | [Siento haberte perdido](https://open.spotify.com/track/2CvVaPngxQLpn8UQqiXl7Y) | [Monchito Merlo](https://open.spotify.com/artist/35C2ZfgMovQotan3rNrYT3) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 3:15 | 2021-11-19 |  |

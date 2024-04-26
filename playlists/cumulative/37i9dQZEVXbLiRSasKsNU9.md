@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-2,536 songs - 5 day 14 hr 28 min
+2,537 songs - 5 day 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1246,6 +1246,7 @@
 | [Leonora](https://open.spotify.com/track/1K0rybxoxW5svDYwXezXyN) | [Sugarcane](https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT) | [Leonora](https://open.spotify.com/album/3jJ8JEOq8xL9DWum9cMpIq) | 3:54 | 2023-05-29 | 2023-06-06 |
 | [LET GO](https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [LET GO](https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL) | 2:54 | 2023-01-10 | 2023-01-17 |
 | [Let Me Down Easy](https://open.spotify.com/track/6Mhgvrv4zd82FrCeuASW44) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [AURORA](https://open.spotify.com/album/4ouqACcnzsOvtUlnj5abyo) | 3:24 | 2023-03-28 | 2023-04-15 |
+| [LET THE WORLD BURN](https://open.spotify.com/track/1De425SCFJULIHbcmeebUw) | [Chris Grey](https://open.spotify.com/artist/0F3maSKfGGVtfATaAyeyPG) | [LET THE WORLD BURN](https://open.spotify.com/album/5QytORVSwlSBhDtikzvcV5) | 2:43 | 2024-04-25 |  |
 | [LET U GO](https://open.spotify.com/track/6VjCGXfgBACSWnH2MOdFGC) | [lifeinparis](https://open.spotify.com/artist/3WeyGyZ44HbSPiwbnhly7g) | [LET U GO](https://open.spotify.com/album/5X5I42zOl6WfT5sead5z9b) | 2:08 | 2023-02-01 | 2023-02-04 |
 | [Let U Go](https://open.spotify.com/track/29pUhY4WylF02TuUiPUYYV) | [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou) | [Let U Go](https://open.spotify.com/album/4WzPhDgw6vO5Jq0m9VmN72) | 2:08 | 2023-02-17 | 2023-03-05 |
 | [Let U Go](https://open.spotify.com/track/3196FTomYwgmYSSwqsm0d1) | [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou) | [Let U Go](https://open.spotify.com/album/79qWGbIjfQuzBPCMjUEsDl) | 2:08 | 2023-01-31 | 2023-02-16 |
@@ -2332,7 +2333,7 @@
 | [ur the moon](https://open.spotify.com/track/20WKIcsFqP3fpWvnfKEqv2) | [wzzywrld](https://open.spotify.com/artist/4tMG97uFOBETyazRgjEFac) | [ur the moon](https://open.spotify.com/album/3UMvk3TDzkVQ4cT4xN2lEG) | 2:46 | 2024-01-06 | 2024-01-11 |
 | [Ur the Moon Catier](https://open.spotify.com/track/543jVJIoCGTUCcCWNheFqp) | [Negoheror](https://open.spotify.com/artist/1avlVy2ZiWrk03xFi4MYTD) | [Ur the Moon Catier](https://open.spotify.com/album/66mK9UIYkdF8tqPj1YvNqi) | 2:46 | 2024-01-05 | 2024-01-07 |
 | [Urugi Urugi \- From "Joe"](https://open.spotify.com/track/1pTkmFDgxz09fg6Mu1mBpH) | [Siddhu Kumar](https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9), [Vignesh Ramakrishna](https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu), [Anand Aravindakshan](https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g) | [Urugi Urugi \(From "Joe"\)](https://open.spotify.com/album/4gKYKbIsDeQSlWIiukYV3P) | 3:42 | 2024-01-31 | 2024-02-09 |
-| [Us Vs\. Them](https://open.spotify.com/track/3cmdqMDc0Fj4TgPeyDOYTM) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Us Vs\. Them](https://open.spotify.com/album/6G7r3vu2Snjn8Ese1uwNZp) | 3:04 | 2024-04-22 |  |
+| [Us Vs\. Them](https://open.spotify.com/track/3cmdqMDc0Fj4TgPeyDOYTM) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Us Vs\. Them](https://open.spotify.com/album/6G7r3vu2Snjn8Ese1uwNZp) | 3:04 | 2024-04-22 | 2024-04-26 |
 | [Uyire \- From "Minnal Murali"](https://open.spotify.com/track/0vmxxVMfJN21J3xX2uqzkg) | [Shaan Rahman](https://open.spotify.com/artist/42k1aOQmLqy5YQmqJ2zq8s), [Narayani Gopan](https://open.spotify.com/artist/77CpK8W1pBsAITFE3zVeOI), [Mithun Jayaraj](https://open.spotify.com/artist/3mVQkEy8bTczhoTmCWTRbh) | [Uyire \(From "Minnal Murali"\)](https://open.spotify.com/album/5FzV5fBNAsL0WtfIFkw3Mt) | 5:27 | 2022-01-01 | 2022-01-10 |
 | [V16](https://open.spotify.com/track/1FwZHWFat13A1XookoEtI3) | [Martinwhite](https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T) | [V16](https://open.spotify.com/album/1NYH6nfQS1yuB2PHEHIgtz) | 1:59 | 2022-08-08 | 2022-09-12 |
 | [Vai Novinha Ah Ah Ah](https://open.spotify.com/track/3Nvzs0cJbLwhXPPlI8xzpC) | [Dyamante DJ](https://open.spotify.com/artist/3i7Bn2SoEkRVEGkdz9o6Yu) | [Ritmo dos Crias](https://open.spotify.com/album/1rpZ5lbh30fimLCZvcyh0f) | 2:03 | 2023-06-24 | 2023-07-19 |

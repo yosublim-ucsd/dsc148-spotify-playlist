@@ -2,9 +2,9 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. Ayleen Valentine
+> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. lozeak
 
-796 songs - 1 day 13 hr 56 min
+798 songs - 1 day 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [Cutthroat](https://open.spotify.com/track/2hMWi3NNNyQbXo0MtrC1ST) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Cutthroat](https://open.spotify.com/album/6uT91eG7CuITJzWUtoX6eN) | 3:13 | 2022-12-02 | 2023-02-24 |
 | [cyber meat](https://open.spotify.com/track/1TebdBxUoNUicUQZesNuEM) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [softscars](https://open.spotify.com/album/7t01lwQRDjtEvwiAm88ACH) | 3:06 | 2023-09-21 | 2024-02-16 |
 | [D.R.I.L.D.O](https://open.spotify.com/track/6cdhJo25biY2KWKlBpdmN1) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [D.R.I.L.D.O](https://open.spotify.com/album/1dEPGiTbS4ELfGhhpocoyY) | 3:12 | 2022-05-26 | 2022-08-05 |
-| [daisy chains](https://open.spotify.com/track/5coXwSihPzuc42bOUvYRMf) | [SPIDER](https://open.spotify.com/artist/4SKFiKjEPLdlpXSOQZhlsi) | [daisy chains](https://open.spotify.com/album/1NT8wYazcYMt7ejaU3mrhh) | 2:45 | 2024-01-19 |  |
+| [daisy chains](https://open.spotify.com/track/5coXwSihPzuc42bOUvYRMf) | [SPIDER](https://open.spotify.com/artist/4SKFiKjEPLdlpXSOQZhlsi) | [daisy chains](https://open.spotify.com/album/1NT8wYazcYMt7ejaU3mrhh) | 2:45 | 2024-01-19 | 2024-04-26 |
 | [dance baby dance](https://open.spotify.com/track/3OBZmOr9ykJFUQAChoFeFQ) | [hackedface](https://open.spotify.com/artist/4GIyZ8aBc3t04EYYp2zb4v), [Sick Solution](https://open.spotify.com/artist/5I8Ea6B50cE6NR6HL6BHa6), [0%Mercury](https://open.spotify.com/artist/4DxusQrhwkEDAg0iznFfEB) | [dance baby dance](https://open.spotify.com/album/7MX1LRDVjxjJC64gU77paP) | 2:28 | 2024-01-12 |  |
 | [DArkSide](https://open.spotify.com/track/19vHgVS1aukRiQWhTqfKnE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [DArkSide](https://open.spotify.com/album/3E21iYJYv6lSkBkHBv3SKq) | 2:44 | 2023-10-13 | 2024-04-05 |
 | [Day I Die](https://open.spotify.com/track/4Qt6fOWtoMdjQYtV5jztL2) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [Songs For My Funeral](https://open.spotify.com/album/4SmLiMThmp5f4dCTOsIguj) | 2:57 | 2022-02-12 | 2022-08-05 |
@@ -218,6 +218,7 @@
 | [Dutch Courage](https://open.spotify.com/track/5OCDCNYb7xT1HwgJ9SS1Oh) | [XO LU](https://open.spotify.com/artist/1QuS8XFGkFeFQdAQwSR1Uf) | [Dutch Courage](https://open.spotify.com/album/30kaWVTwGdetGhUqlbv04p) | 2:27 | 2021-12-27 | 2022-01-19 |
 | [DWYSSWM \(Don't Worry Your Secret's Safe With Me\)](https://open.spotify.com/track/5riZjtRWIYdFiXaoRogNHq) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [DWYSSWM \(Don't Worry Your Secret's Safe With Me\)](https://open.spotify.com/album/76K6RboS9bSVXarOZY4HPn) | 3:09 | 2022-02-18 | 2022-04-01 |
 | [East End Boys \(feat\. lozeak\)](https://open.spotify.com/track/6kxK7LtWxZwM8BJnudYmZm) | [Boy Bleach](https://open.spotify.com/artist/0QdhKd1bYPAy48bofL7c0V), [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [East End Boys \(feat\. lozeak\)](https://open.spotify.com/album/0tE5DajPVPW0H2ijr44xXc) | 2:41 | 2023-06-29 | 2023-09-22 |
+| [EAT](https://open.spotify.com/track/3CRDDASiC4gwTYUOOdnMxt) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [EAT / DIRT](https://open.spotify.com/album/5sSHtc1O80DaV60NDKPnYu) | 2:17 | 2024-04-25 |  |
 | [Egregore](https://open.spotify.com/track/2l7yet2WjW2JbQi9mVvuOG) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Egregore](https://open.spotify.com/album/06p7KNMP9DaSOQgJKtbItt) | 3:03 | 2023-04-20 | 2023-08-11 |
 | [elegy](https://open.spotify.com/track/33yVBJ4wdUkItubqKA5UvY) | [demxntia](https://open.spotify.com/artist/6trEYfLSuAd9CS8bCy4sOH), [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [elegy](https://open.spotify.com/album/1rQvm59V13d70jUeHgVTBl) | 2:20 | 2021-12-27 | 2022-01-19 |
 | [Empathy](https://open.spotify.com/track/36w3BSCTwl5H3suCT2lHBO) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [Empathy](https://open.spotify.com/album/6UOcTo49JqjkUmQcYe0bm3) | 3:26 | 2022-10-27 | 2022-11-18 |
@@ -284,7 +285,7 @@
 | [GBS, XOXO](https://open.spotify.com/track/3nn5LMCjVIxGC1KwSsgCoC) | [Izzy Spears](https://open.spotify.com/artist/1CtOGEEFiGo6e2s6ySsY9P) | [MONSTAR](https://open.spotify.com/album/2F8FdkVzAfetGVuBRn8zyJ) | 2:11 | 2022-11-11 | 2023-01-13 |
 | [GET LOOSE](https://open.spotify.com/track/4MjnnyZZqtpjKM5MSbVvkY) | [Sadzilla](https://open.spotify.com/artist/6B6IodMdAjoGX2fZuYyGpc), [ONI INC.](https://open.spotify.com/artist/1dW38AxhFH7xZjV7o3p3l4) | [RESPECT THE THRONE](https://open.spotify.com/album/3WHurOAvX7XoE5WiRCdKkd) | 2:35 | 2022-07-14 | 2022-09-23 |
 | [GET MINE](https://open.spotify.com/track/01pkZKRRRGCcW0EoHxbnDl) | [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4) | [GET MINE](https://open.spotify.com/album/36KVNZ2nT8UTyqU43WMEty) | 2:50 | 2021-12-27 | 2022-03-11 |
-| [GET MONEY](https://open.spotify.com/track/5uXJvaSOdz8wp6dGEdjBUj) | [BVDLVD](https://open.spotify.com/artist/1BhfikyrtSTch1r9upYGlS) | [GET MONEY](https://open.spotify.com/album/7kUYdpXOoegsJvgdseRXVZ) | 1:49 | 2024-02-02 |  |
+| [GET MONEY](https://open.spotify.com/track/5uXJvaSOdz8wp6dGEdjBUj) | [BVDLVD](https://open.spotify.com/artist/1BhfikyrtSTch1r9upYGlS) | [GET MONEY](https://open.spotify.com/album/7kUYdpXOoegsJvgdseRXVZ) | 1:49 | 2024-02-02 | 2024-04-26 |
 | [GHOST\*](https://open.spotify.com/track/7mfGLdrBIlR7o6s6YFpjwi) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [GHOST\*](https://open.spotify.com/album/4UmCXtYrA5Bodd4HGKCQzM) | 2:20 | 2023-02-17 | 2023-04-14 |
 | [Ghosted My Dentist](https://open.spotify.com/track/1jFds6Ar4c981CQWNTMHKd) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [Ghosted My Dentist](https://open.spotify.com/album/1JSCa8l9PLyTrDwUpBEYdU) | 2:04 | 2022-11-18 | 2023-05-19 |
 | [ghosts](https://open.spotify.com/track/0PQ4VI53cK9ZeKluejZmoC) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [ghosts](https://open.spotify.com/album/4q37Z0rAJjMmxHf3ORQHb8) | 3:40 | 2023-08-10 | 2023-10-24 |
@@ -497,6 +498,7 @@
 | [Miss YOU!](https://open.spotify.com/track/3pXVmZh293nWtqxildz9jf) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW) | [Miss YOU!](https://open.spotify.com/album/1N4sOPjYya80HsT6idMO0f) | 1:32 | 2022-04-19 | 2022-04-29 |
 | [Mitsuko](https://open.spotify.com/track/1oIEBoljXDbbaEciwMVzfx) | [Lake Malice](https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO) | [Mitsuko](https://open.spotify.com/album/4FRKJAQ4jL39BOV1ju8GKO) | 2:09 | 2023-09-28 | 2024-03-01 |
 | [Modern Love](https://open.spotify.com/track/0c1TvU8YThmexkEfFUt9wV) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Modern Love](https://open.spotify.com/album/2EuA14LzLXFRWWFkSvBnU6) | 3:28 | 2023-10-13 | 2024-02-23 |
+| [Moist](https://open.spotify.com/track/0zF0Qrico9hPxd4dqmvsEL) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Moist](https://open.spotify.com/album/03mXhmUKLGxyIWyDAIxxtV) | 2:07 | 2024-04-25 |  |
 | [mOmS bAsEmeNt](https://open.spotify.com/track/1UMSXPU4noFMHwvqxXJO8O) | [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [mOmS bAsEmeNt](https://open.spotify.com/album/7b6lTy2GbIbXLpouHj9aGk) | 2:41 | 2023-07-06 | 2023-12-16 |
 | [Moonlight](https://open.spotify.com/track/4nmXdcB02E6yKdWso4XCQZ) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Moonlight](https://open.spotify.com/album/0QH0SPSXwLl3PPNdAD1Zuk) | 2:23 | 2022-03-18 | 2022-10-14 |
 | [Moonlight Bop](https://open.spotify.com/track/1nB9wuOJGl3h1M4hdtZeI1) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Moonlight Bop](https://open.spotify.com/album/3TPxD0aPYlGe9F9yJMj5OV) | 1:56 | 2023-06-29 | 2023-09-15 |

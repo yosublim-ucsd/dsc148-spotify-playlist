@@ -1,12 +1,12 @@
 {
   "description": "This is EST Gee. The essential tracks, all in one playlist.",
-  "num_followers": 10860,
+  "num_followers": 10867,
   "original_name": "This Is EST Gee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzgzMDQwMCwwMDAwMDAwMDJjODBjNWQ1ODY4MjRjODUzMTc3OGE0YjliODhlYTI3",
+  "snapshot_id": "MTcxMzkxNjgwMCwwMDAwMDAwMDg1MGM0MzgzNmNhMjZlN2Q2ZjkwZGE0ZWIzYjlhNjU5",
   "tracks": [
     {
       "added_at": null,
@@ -871,6 +871,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Breezy",
+        "url": "https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 204533,
+      "name": "Hmhmm (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/0Tnw0FXl9CYNec5VsPN0y8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bigger Than Life Or Death",
         "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
       },
@@ -1011,26 +1031,6 @@
       "duration_ms": 127105,
       "name": "Off White Mikes (feat. EST Gee)",
       "url": "https://open.spotify.com/track/1sJE6dY3LYW3L0BMcMH8Ym"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "At Will (feat. EST Gee)",
-        "url": "https://open.spotify.com/album/1efkAIrYwFqFvHUFzWBq3d"
-      },
-      "artists": [
-        {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 170840,
-      "name": "At Will (feat. EST Gee)",
-      "url": "https://open.spotify.com/track/1inQjfrPjWSM8DehYMfIxi"
     }
   ],
   "unique_name": "This Is EST Gee",

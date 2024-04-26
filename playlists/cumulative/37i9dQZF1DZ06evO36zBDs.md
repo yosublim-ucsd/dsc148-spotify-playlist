@@ -2,7 +2,7 @@
 
 ### [This Is ClariS](https://open.spotify.com/playlist/37i9dQZF1DZ06evO36zBDs)
 
-> This is ClariS\. The essential tracks, all in one playlist.
+> This Is ClariS\. Los temas esenciales, todos en una lista.
 
 90 songs - 6 hr 17 min
 

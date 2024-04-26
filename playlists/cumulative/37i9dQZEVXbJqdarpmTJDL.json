@@ -18628,7 +18628,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 112636,
       "name": "MATRIX",
       "url": "https://open.spotify.com/track/1MEpt7zKYMlpZazBfTsS36"
@@ -24830,6 +24830,10 @@
         {
           "name": "RACK",
           "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
         }
       ],
       "date_added": "2024-02-24",
@@ -25544,6 +25548,32 @@
       "duration_ms": 107755,
       "name": "RARI",
       "url": "https://open.spotify.com/track/7lh7uKY6G44jQYPojBQENI"
+    },
+    {
+      "album": {
+        "name": "RATATA",
+        "url": "https://open.spotify.com/album/2IvNAPQGN0QWjMObrttNlW"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Venom",
+          "url": "https://open.spotify.com/artist/6CdAVuqNOSOZ9KsZXMZwFr"
+        },
+        {
+          "name": "Oge",
+          "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "RATATA",
+      "url": "https://open.spotify.com/track/576AjdnQCA91t0sfMRcBq3"
     },
     {
       "album": {
@@ -32932,6 +32962,10 @@
         {
           "name": "SIDARTA",
           "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
         }
       ],
       "date_added": "2024-02-24",

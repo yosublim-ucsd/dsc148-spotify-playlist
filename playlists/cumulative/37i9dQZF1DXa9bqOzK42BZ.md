@@ -4,7 +4,7 @@
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY?si=QJbuh\-RjQmmrNwSQBrFQhA">Kanji Mbugua</a>
 
-160 songs - 14 hr 41 min
+161 songs - 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Ni Wikite Magegania](https://open.spotify.com/track/1nH4e2ojyPS1HV4EjA29TJ) | [Sammy Irungu](https://open.spotify.com/artist/5KFrUh2BIqMXei5GdFsSjh) | [Ni Wikite Magegania](https://open.spotify.com/album/1SgqAfQ5KUhXPetBXLzpBN) | 5:46 | 2022-06-24 |  |
 | [Nifundishe Kunyamaza](https://open.spotify.com/track/5ZbqY3dSaJu5WepPqGkxbS) | [Martha Mwaipaja](https://open.spotify.com/artist/6sucU5GTxpXKQs1hNTrLDF) | [Naiona Kesho](https://open.spotify.com/album/4On0HtZu8oqfzXWki3Vz6f) | 9:14 | 2022-06-24 |  |
 | [Niguse Tena \(Live\)](https://open.spotify.com/track/0NiEmNgV7TmOHjbZ3DdK75) | [Krystaal Music](https://open.spotify.com/artist/3Xkc3xqeLJZWgVDDIbvhNo), [Next Level Choir](https://open.spotify.com/artist/5j7HOenL3dSS981E1ARENs) | [Krystaal Live in Dar Es Salaam \(Deluxe Album\)](https://open.spotify.com/album/2pFOj4BuABj7x4y4PapIgs) | 6:39 | 2022-06-24 |  |
+| [Niko Tu](https://open.spotify.com/track/34LeuUlDfQXvJn8Ui27nAC) | [Mista Champagne](https://open.spotify.com/artist/0wLYJK9oKV7BMNpCV4d5EW) | [Niko Tu](https://open.spotify.com/album/64Zs0PLCoLANPDPAO8aBjK) | 3:58 | 2024-04-26 |  |
 | [Nikumbushe Yehova](https://open.spotify.com/track/2YTmZTaHazQYsOfC7UqWtO) | [Kurasini SDA Choir](https://open.spotify.com/artist/6iEYr3D5bI9cIgJWSYN0tM) | [Mtanitafuta Pande Zote](https://open.spotify.com/album/70wLfW5cfXi1h1JfIITRUp) | 2:45 | 2022-06-24 |  |
 | [Nimefichwa](https://open.spotify.com/track/1itH2yw2j8YpoqyVodTC2s) | [Enock Jonas](https://open.spotify.com/artist/2VrXyS2yRQrqOcZPGEfYa9) | [Nimefichwa](https://open.spotify.com/album/6y2am1XRqcxkvDi9RCogrr) | 3:32 | 2024-03-28 |  |
 | [Nimekubali](https://open.spotify.com/track/7w8ERAOQosktc8bJkVOeql) | [Eunice Njeri](https://open.spotify.com/artist/1n8hmSTaHZs3Pz2VuVfda4) | [Bwana Yesu](https://open.spotify.com/album/1PYHRwXBXzZ4Kz60MUB6OS) | 4:29 | 2022-06-24 | 2023-11-03 |

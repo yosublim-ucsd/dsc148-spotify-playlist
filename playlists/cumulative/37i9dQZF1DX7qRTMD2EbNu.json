@@ -134,7 +134,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 188737,
       "name": "360",
       "url": "https://open.spotify.com/track/1cc0t6E1dXtbiCG36dORhP"
@@ -3407,6 +3407,28 @@
     },
     {
       "album": {
+        "name": "God & Rap",
+        "url": "https://open.spotify.com/album/4B5VsLWUc6vNFhS5OoPbcV"
+      },
+      "artists": [
+        {
+          "name": "Strongman",
+          "url": "https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9"
+        },
+        {
+          "name": "Kweku Darlington",
+          "url": "https://open.spotify.com/artist/3ZR23AVEcvrtRqPXpIcjSW"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189359,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/4iUOXOLxqeimvWAXUg4vGt"
+    },
+    {
+      "album": {
         "name": "Focus On Me",
         "url": "https://open.spotify.com/album/6PMxU7xULJ3fhQegSvfhsX"
       },
@@ -4234,6 +4256,28 @@
       "duration_ms": 210368,
       "name": "Gun Dem",
       "url": "https://open.spotify.com/track/71K8MvfOgXNXZNsiRrPsKS"
+    },
+    {
+      "album": {
+        "name": "One Man Thousand",
+        "url": "https://open.spotify.com/album/1xMSghpdpaQgBTA7o2Ys1T"
+      },
+      "artists": [
+        {
+          "name": "Oseikrom Sikanii",
+          "url": "https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN"
+        },
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202840,
+      "name": "Guy Guy",
+      "url": "https://open.spotify.com/track/6N2fhZAgWnIV8lcwgoTlMD"
     },
     {
       "album": {
@@ -5852,6 +5896,24 @@
       "duration_ms": 180112,
       "name": "Misbehavior",
       "url": "https://open.spotify.com/track/0n3tva9XBW73ijgXuUHOgB"
+    },
+    {
+      "album": {
+        "name": "Miss Isabella",
+        "url": "https://open.spotify.com/album/7dFAdveQliFtjUZu0WUADQ"
+      },
+      "artists": [
+        {
+          "name": "Safo Newman",
+          "url": "https://open.spotify.com/artist/1XygOZOkRxWKr0vEKgZxFl"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159274,
+      "name": "Miss Isabella",
+      "url": "https://open.spotify.com/track/14UvZEYx9kl2CHK07IDTrX"
     },
     {
       "album": {
@@ -7502,7 +7564,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 123037,
       "name": "Questions",
       "url": "https://open.spotify.com/track/6YCqG3wexGz1TxlUNFdG4G"
@@ -8202,7 +8264,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 190816,
       "name": "Sexual Healing",
       "url": "https://open.spotify.com/track/5xj7eOgkSCTkgqqujOOghJ"
@@ -9690,7 +9752,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 215849,
       "name": "Waiting So Long",
       "url": "https://open.spotify.com/track/2JcLfZCOrAmU1b87gBdv5I"
@@ -10148,6 +10210,28 @@
       "duration_ms": 230000,
       "name": "Wossop",
       "url": "https://open.spotify.com/track/6QvgQtIQzYy48w68M4iFhL"
+    },
+    {
+      "album": {
+        "name": "Wotowei",
+        "url": "https://open.spotify.com/album/07CaU9TdU8Yl3mRkwLH1w4"
+      },
+      "artists": [
+        {
+          "name": "Quamina Mp",
+          "url": "https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw"
+        },
+        {
+          "name": "Kofi Mole",
+          "url": "https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207400,
+      "name": "Wotowei",
+      "url": "https://open.spotify.com/track/5WogbNJtB9CgpD4T0zGpmj"
     },
     {
       "album": {

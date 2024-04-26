@@ -4,7 +4,7 @@
 
 > Go hard or go home
 
-195 songs - 10 hr 48 min
+196 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Futurepower](https://open.spotify.com/track/5BEeBEAsRWIhAw18rkun9F) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg) | [Futurepower](https://open.spotify.com/album/2MG0xLJezHQAAlmpCVf7h6) | 4:06 | 2022-12-08 |  |
 | [FYAH](https://open.spotify.com/track/1t43yOydn1O4uOusALEUFl) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [FYAH](https://open.spotify.com/album/3uhqc4NKHlfFXjC0SvrI39) | 3:15 | 2024-03-27 |  |
 | [Get Psycho](https://open.spotify.com/track/2qSbdjBKV4Ooa0yxZtA0px) | [Frontliner](https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA), [Alter Ego](https://open.spotify.com/artist/455mf4vICIi2dYQrH59xh8) | [Get Psycho](https://open.spotify.com/album/4eqnUJrLMljVfSbomWiVgG) | 2:15 | 2022-12-08 | 2023-02-28 |
+| [Get Stompin](https://open.spotify.com/track/7xss5lFXrXr1lD4oqvfFUo) | [MANDY](https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE) | [Get Stompin](https://open.spotify.com/album/5PFPqNAQ7TPziUoWiINBbK) | 3:06 | 2024-04-25 |  |
 | [Ghost Town](https://open.spotify.com/track/7IsoFYGFt3Ac4snG5iSJnT) | [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Dr Phunk](https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk), [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym) | [Ghost Town](https://open.spotify.com/album/41JfN5cDxWW7iua9p3jDoO) | 3:24 | 2022-12-08 |  |
 | [Go Down Low](https://open.spotify.com/track/6QCs2VEwYeSrhutMPGw5Vs) | [Crude Intentions](https://open.spotify.com/artist/5zXPv1332E2IWXvjotBr09), [NLCK](https://open.spotify.com/artist/5vG7sNDSCANSuZ71jkHxCL) | [Go Down Low](https://open.spotify.com/album/7tWUHSKe7LYJGSNT1NFLTb) | 3:32 | 2023-02-09 | 2023-03-25 |
 | [Go Mental](https://open.spotify.com/track/3RFdqTUaDhCb6sZiLJ2b6j) | [Audiotricz](https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP) | [Go Mental](https://open.spotify.com/album/15A99aAZGYFpTuwvzQsjsu) | 2:45 | 2022-12-08 | 2023-10-01 |
@@ -119,7 +120,7 @@
 | [Mind Of A Psycho](https://open.spotify.com/track/6fef7XefOl9P2GFbqk4ql2) | [Devin Wild](https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21) | [Mind Of A Psycho](https://open.spotify.com/album/3D6wjgCQ16Vttcpoyjgq5l) | 2:17 | 2023-06-01 |  |
 | [My Time](https://open.spotify.com/track/2QG8mQwRQk3VRZFeEbx5rh) | [Sub Sonik](https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l) | [My Time](https://open.spotify.com/album/6twbJ6MrK36i8nTNpEuzPU) | 3:18 | 2023-01-26 | 2023-05-11 |
 | [Never Be Alone](https://open.spotify.com/track/621OKN7F7dicuOKewxxeq1) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ), [NIKSTER](https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai), [Øien](https://open.spotify.com/artist/5qNp5UbIhNLdYVIAg4Sxic), [Slenderino](https://open.spotify.com/artist/1rX0UQ4xdtxlSP2MlP7wQb) | [Never Be Alone](https://open.spotify.com/album/4R4iMy5aLahQicWIoaf1QZ) | 2:45 | 2023-04-07 |  |
-| [Never Give Up](https://open.spotify.com/track/36WTxqLe4DgddYkPklj3ta) | [Firelite](https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2), [Imperatorz](https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1) | [Never Give Up](https://open.spotify.com/album/4Vv28kVvSUjrAZ1pGTHzc5) | 2:44 | 2024-04-08 |  |
+| [Never Give Up](https://open.spotify.com/track/36WTxqLe4DgddYkPklj3ta) | [Firelite](https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2), [Imperatorz](https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1) | [Never Give Up](https://open.spotify.com/album/4Vv28kVvSUjrAZ1pGTHzc5) | 2:44 | 2024-04-08 | 2024-04-26 |
 | [Never Give Up](https://open.spotify.com/track/3MtarDmRYs4hJPWo15mok6) | [Maxtreme](https://open.spotify.com/artist/3skGwvTX8jbm2EKf0Whe1j) | [Never Give Up](https://open.spotify.com/album/6Q23JLlRz1dJuhTFf78WSs) | 3:30 | 2023-02-28 | 2023-03-27 |
 | [Next Level](https://open.spotify.com/track/3rYbbTaZpgTkgTVM0TgaSo) | [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr), [Sub Sonik](https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l) | [Next Level](https://open.spotify.com/album/4V5Unm0OwUFn32saWfnqgU) | 3:28 | 2023-04-07 |  |
 | [Nightmare Nirvana](https://open.spotify.com/track/0X89hVtXc6V04eRMCjB1Vj) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [Nightmare Nirvana](https://open.spotify.com/album/7jPDK7qtsjA010J5fXR9w1) | 4:30 | 2022-12-08 |  |

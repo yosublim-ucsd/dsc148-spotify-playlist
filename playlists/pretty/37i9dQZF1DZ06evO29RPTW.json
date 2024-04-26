@@ -1,12 +1,12 @@
 {
   "description": "This is Rob Zombie. The essential tracks, all in one playlist.",
-  "num_followers": 117981,
+  "num_followers": 118006,
   "original_name": "This Is Rob Zombie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzgzMDQwMCwwMDAwMDAwMDNjMDFjMjEwMjRhNDc2YmM3NWFjYzRlMTc0MGNjY2Ey",
+  "snapshot_id": "MTcxMzkxNjgwMCwwMDAwMDAwMDRlZTU4NjlmNTkwZmU4MTFlMDJlN2ZkYmIyMmY0N2Vk",
   "tracks": [
     {
       "added_at": null,
@@ -387,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Sinister Urge",
+        "url": "https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 148133,
+      "name": "Dead Girl Superstar",
+      "url": "https://open.spotify.com/track/2Duh1mieKmTk4HZeuj0Qzz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Burn MF (feat. Rob Zombie)",
         "url": "https://open.spotify.com/album/1ZVbge0YzDj1T3769sm7Ey"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 217847,
       "name": "Burn MF (feat Rob Zombie)",
       "url": "https://open.spotify.com/track/0Pzeu20wyR194P9A9Ihmol"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Sinister Urge",
-        "url": "https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 148133,
-      "name": "Dead Girl Superstar",
-      "url": "https://open.spotify.com/track/2Duh1mieKmTk4HZeuj0Qzz"
     },
     {
       "added_at": null,

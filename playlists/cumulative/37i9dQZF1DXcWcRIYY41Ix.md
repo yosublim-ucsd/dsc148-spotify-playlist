@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Sebastián Romero.
 
-576 songs - 1 day 10 hr 34 min
+577 songs - 1 day 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -459,6 +459,7 @@
 | [Rie Chinito](https://open.spotify.com/track/4UZdPR7auDwEnpPc5vHU7n) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Perotá Chingó](https://open.spotify.com/album/5B7ar7OxiJy7gZtfSvWhPd) | 5:09 | 2021-12-24 | 2022-07-29 |
 | [ROMPER EL HIELO](https://open.spotify.com/track/4I6NMcBVLosTv9etcsq3No) | [TRIA](https://open.spotify.com/artist/1GCZZAo2jKhMG78ladGxgZ) | [ROMPER EL HIELO](https://open.spotify.com/album/3fsx63RxMkXBZJQSQyoH1m) | 4:03 | 2024-04-12 | 2024-04-21 |
 | [Ronca \(Carta para una mija\)](https://open.spotify.com/track/4mrMJOIEADfaiKA4JGOxGI) | [Las Mijas](https://open.spotify.com/artist/5wCV48XtdJnhSEiu9bj8NP), [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Ronca \(Carta para una mija\)](https://open.spotify.com/album/0ZMTvuqQsratPmmf2v4hva) | 3:42 | 2022-07-22 | 2022-09-03 |
+| [Ronda al canto \(A cielo abierto\)](https://open.spotify.com/track/0oSYjXfxfCcVbNoWZclRL6) | [el nido](https://open.spotify.com/artist/6o6UaIWvzYLItWbkQtUbka), [El Naan](https://open.spotify.com/artist/6cZpo2gbRxfH8bkYPpRIDk) | [Todo aire](https://open.spotify.com/album/1WQup3Fjz90NUT2EOsgFUF) | 3:21 | 2024-04-19 |  |
 | [Ruegos y Demás](https://open.spotify.com/track/7fWlwO4QBU6TEg3sadKJCS) | [Raquel Lúa](https://open.spotify.com/artist/1QV6dJc7p6LRvDGtPqXsjU) | [Ruegos y Demás](https://open.spotify.com/album/7If6XahI9AqBcHY7MiBvNf) | 5:54 | 2021-12-24 | 2022-07-29 |
 | [Rumba en Cahuita](https://open.spotify.com/track/0weanLGPZzqdbznu0iklgW) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Rumba en Cahuita](https://open.spotify.com/album/6jXK3xOmatH5Eb6fysEwDf) | 2:47 | 2022-07-22 | 2024-04-19 |
 | [Rumba en Cahuita](https://open.spotify.com/track/2cpVlayykQr0o0orPVt9ZZ) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Rumba en Cahuita](https://open.spotify.com/album/0SHpnCl4SJhdpdOSCMjZdm) | 2:47 | 2021-12-24 | 2022-07-29 |
@@ -580,7 +581,7 @@
 | [Yo no Necesito de Mucho](https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Laura Itandehui](https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot) | 2:51 | 2022-03-04 |  |
 | [Yo Soy](https://open.spotify.com/track/530CUFzf8pqO9cbSM0C5SB) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Yo Soy](https://open.spotify.com/album/6CO6GE3u3JTuxdcE10nE0e) | 3:36 | 2021-12-24 |  |
 | [Ámbar y el Mar](https://open.spotify.com/track/2htIgCfBPCV3dktlvtSSa9) | [Íñigo Merino](https://open.spotify.com/artist/4RcxB8P0t3Pz6gaOHTFgWm), [Luis Fercán](https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS) | [Lo de Dentro](https://open.spotify.com/album/02brbroQgEfCvcefeXoFBe) | 3:52 | 2022-02-04 | 2022-05-26 |
-| [Ángeles](https://open.spotify.com/track/1rLKzfFAUwUXlWK5ocaD7m) | [Solomon Zu](https://open.spotify.com/artist/5fhdwAxeYvUbQqNww6kRqw) | [Ángeles](https://open.spotify.com/album/7FeTKiOKGu7URr1mxjLMzs) | 3:44 | 2024-04-19 |  |
+| [Ángeles](https://open.spotify.com/track/1rLKzfFAUwUXlWK5ocaD7m) | [Solomon Zu](https://open.spotify.com/artist/5fhdwAxeYvUbQqNww6kRqw) | [Ángeles](https://open.spotify.com/album/7FeTKiOKGu7URr1mxjLMzs) | 3:44 | 2024-04-19 | 2024-04-26 |
 | [Ícaro \- Versión Acústica](https://open.spotify.com/track/4M0NSb0yhgjdLnUIBnMlhE) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Ícaro \(Versión Acústica\)](https://open.spotify.com/album/75vWmeMVI6mIJZSMAGxKSs) | 3:33 | 2023-09-29 | 2023-11-11 |
 | [Íñigo](https://open.spotify.com/track/0Pscsul02roXTyhTEbQO6K) | [Andrea Buenavista](https://open.spotify.com/artist/2V9QbUdBxfYCfkjvDePoRU) | [Íñigo](https://open.spotify.com/album/1j3vaKt2UO7QLAHDJGCK6K) | 1:02 | 2023-06-30 | 2023-07-29 |
 | [Último Aliento](https://open.spotify.com/track/3osCap9ViWOWhYk8FOWZdZ) | [Mateo Kingman](https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Último Aliento](https://open.spotify.com/album/7KrLy9OeOkkP4dEnsRjh7t) | 4:10 | 2021-12-24 | 2022-05-08 |

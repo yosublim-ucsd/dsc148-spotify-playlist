@@ -1299,6 +1299,24 @@
     },
     {
       "album": {
+        "name": "Letters from a Black Widow",
+        "url": "https://open.spotify.com/album/4YJpoX2zeOy7maGeN2Sa14"
+      },
+      "artists": [
+        {
+          "name": "Judith Hill",
+          "url": "https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236161,
+      "name": "Downtown Boogie",
+      "url": "https://open.spotify.com/track/1axZoN44fNeN8RkmuybpVo"
+    },
+    {
+      "album": {
         "name": "Dreaming Out Loud",
         "url": "https://open.spotify.com/album/3kjYjBpTV0C2gPHpUgAm35"
       },

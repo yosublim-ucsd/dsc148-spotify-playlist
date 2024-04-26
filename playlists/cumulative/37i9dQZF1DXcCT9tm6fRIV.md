@@ -4,7 +4,7 @@
 
 > Disfruta esta fina selección de los mejores Tangos argentinos.
 
-151 songs - 8 hr 31 min
+152 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [La casita de mis viejos \- Remastered](https://open.spotify.com/track/780oI6gpWrr8ds9gzx98B0) | [Edmundo Rivero](https://open.spotify.com/artist/6ULt24uY5oov72S2fY1qoi), [Horacio Salgán](https://open.spotify.com/artist/2Bh9iQTtKB9vzl6iLtwZ9W) | [Sur \(Remastered\)](https://open.spotify.com/album/4tNFXEyh7O6YxUVDB1ULz6) | 5:10 | 2022-03-18 | 2024-03-21 |
 | [La cumparsita](https://open.spotify.com/track/2joB3G4b527szRVC6L5VYL) | [Juan D'Arienzo](https://open.spotify.com/artist/46beGPwcX2QEZcmuvrMqp4) | [Orquesta Juan D' Arienzo \- La cumparsita](https://open.spotify.com/album/0ZmzauQgjoSoVd9QGzPfW9) | 3:42 | 2022-03-18 |  |
 | [La Luz de un Fósforo \- En Vivo](https://open.spotify.com/track/293xyTq2gy7G5PFaMeBbmd) | [Ariel Ardit](https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6), [Orquesta Tipica](https://open.spotify.com/artist/04eoPYzcEUkOi9dyDYYUIk) | [A los Cantores \(En Vivo\)](https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx) | 2:54 | 2022-03-18 |  |
+| [La noche ha caído](https://open.spotify.com/track/6pDFqwzICSf2mUxhgPFNNa) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [La noche ha caído](https://open.spotify.com/album/0miT8Ozcj2HXC5QSTDuoVP) | 4:10 | 2024-04-25 |  |
 | [La Ultima Grela](https://open.spotify.com/track/3vshGrAPmdkL0bwAznsmEu) | [Guillermo Fernández](https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J) | [Conexion Piazzolla Ferrer](https://open.spotify.com/album/6oEMkRwv8leVRbPCP7zWtc) | 3:51 | 2022-03-18 | 2022-06-26 |
 | [La Yumba \- Instrumental](https://open.spotify.com/track/6B11DcP8lV8vq720QEfC9B) | [Osvaldo Pugliese](https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41) | [Ausencia](https://open.spotify.com/album/5FgdIk8Td9O66U74UF7slF) | 2:46 | 2022-03-18 |  |
 | [La Última Curda](https://open.spotify.com/track/0sGwLqFBrk2PvQsOaRTRm2) | [Victoria Freijo](https://open.spotify.com/artist/3zT6U50nQPGOQaLfdL7Q8F), [Gastón de la Cruz](https://open.spotify.com/artist/31GIlrz5pD5rfSoDUWaTtn) | [Arenales](https://open.spotify.com/album/0gOOGGQ9XuDgluqileOc3M) | 3:36 | 2022-03-18 | 2022-07-26 |
@@ -86,7 +87,7 @@
 | [Los Cosos De Al Lao](https://open.spotify.com/track/1PiqZsBwsN50pZ7NCRmCd9) | [Rubén Juárez](https://open.spotify.com/artist/4idyrAA6wZyU9umXHFoM9p) | [El Album Blanco](https://open.spotify.com/album/5yQ4bqbHYzGZfYqg9ZiaAa) | 3:28 | 2023-06-09 | 2024-04-19 |
 | [Los Cosos De Al Lao](https://open.spotify.com/track/5qGKjmoKrvmHo4yf1U7bto) | [Rubén Juárez](https://open.spotify.com/artist/4idyrAA6wZyU9umXHFoM9p) | [El Album Blanco](https://open.spotify.com/album/05KSJ0XmnH3PqdVKGm6LZM) | 3:28 | 2022-03-18 | 2023-07-03 |
 | [Los Mareados](https://open.spotify.com/track/03bPLvobYz452ePAEksJgY) | [Raúl Lavié](https://open.spotify.com/artist/2GFIX098sqpvCSY9ZQHI4D) | [Raul Lavié\-Los Elegidos](https://open.spotify.com/album/1AztB8HKYIcxdDSgPte8SV) | 2:38 | 2022-03-18 |  |
-| [Luna de Abril](https://open.spotify.com/track/4WCTuomZXV97hsRqSkjPeF) | [Tute](https://open.spotify.com/artist/0dqZd1F2k9ZRZYakdUT3bn), [Hernán Lucero](https://open.spotify.com/artist/001b4VR8r9cFgS3vKTkTXs), [Lidia Borda](https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt) | [Luna de Abril](https://open.spotify.com/album/58HgWHuOnicbuY8txcgTtT) | 3:47 | 2022-03-18 |  |
+| [Luna de Abril](https://open.spotify.com/track/4WCTuomZXV97hsRqSkjPeF) | [Tute](https://open.spotify.com/artist/0dqZd1F2k9ZRZYakdUT3bn), [Hernán Lucero](https://open.spotify.com/artist/001b4VR8r9cFgS3vKTkTXs), [Lidia Borda](https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt) | [Luna de Abril](https://open.spotify.com/album/58HgWHuOnicbuY8txcgTtT) | 3:47 | 2022-03-18 | 2024-04-26 |
 | [Malena](https://open.spotify.com/track/2DBs2vJlotXT1MvuipNVXc) | [Rubén Juárez](https://open.spotify.com/artist/4idyrAA6wZyU9umXHFoM9p) | [El Album Blanco](https://open.spotify.com/album/05KSJ0XmnH3PqdVKGm6LZM) | 2:55 | 2022-03-18 | 2023-07-02 |
 | [Malena](https://open.spotify.com/track/6ZyGdMuvQp8BHuMv70bPyj) | [Rubén Juárez](https://open.spotify.com/artist/4idyrAA6wZyU9umXHFoM9p) | [El Album Blanco](https://open.spotify.com/album/5yQ4bqbHYzGZfYqg9ZiaAa) | 2:55 | 2023-06-09 | 2024-04-19 |
 | [Malevaje](https://open.spotify.com/track/4LVQ2CuYGgKgQA3vsI0NyG) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [La Tana Con Todo](https://open.spotify.com/album/3oGlLY8Hy4jFS8jAzos8X1) | 3:57 | 2022-03-18 |  |

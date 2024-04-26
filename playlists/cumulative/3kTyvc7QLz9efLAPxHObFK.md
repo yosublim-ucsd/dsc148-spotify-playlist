@@ -4,7 +4,7 @@
 
 > 
 
-1,291 songs - 2 day 23 hr 19 min
+1,292 songs - 2 day 23 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -403,7 +403,7 @@
 | [Fight Them All](https://open.spotify.com/track/0rZBe91kLd0h85B9e7T3vR) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE), [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6) | [Fight Them All](https://open.spotify.com/album/7wY8Z4jVcMXECcIQ83docS) | 2:51 | 2023-03-02 |  |
 | [FIGHTING DEMONS](https://open.spotify.com/track/0SHI54cOrosSZySfTGvN3n) | [Riot Shift](https://open.spotify.com/artist/5J3RIw3YwgyXeosItjR9GY) | [FIGHTING DEMONS](https://open.spotify.com/album/62MK9SQIv59nSjfOiksNfi) | 3:10 | 2023-02-20 |  |
 | [Fighting For](https://open.spotify.com/track/22JELf6p8cyWBDwa91e7pL) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs), [Cryex](https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b) | [Fighting For](https://open.spotify.com/album/14Iltp0WL3VLdyxWz6FQAB) | 3:37 | 2022-09-21 |  |
-| [Final Veredict](https://open.spotify.com/track/18sjucWRIr9rXIBEPrSB2z) | [K1\-Recordz](https://open.spotify.com/artist/6t5jQxttM2xqraCbRoZALp), [JEEX](https://open.spotify.com/artist/2yyaQ5rBXKUgEo8unwNQIS) | [DediKted The Judgment Day](https://open.spotify.com/album/5He0m9CLf6DqJWkPQpg2OD) | 2:09 | 2024-04-01 |  |
+| [Final Veredict \(DediKted Tool\)](https://open.spotify.com/track/18sjucWRIr9rXIBEPrSB2z) | [K1\-Recordz](https://open.spotify.com/artist/6t5jQxttM2xqraCbRoZALp), [JEEX](https://open.spotify.com/artist/2yyaQ5rBXKUgEo8unwNQIS) | [DediKted The Judgment Day](https://open.spotify.com/album/5He0m9CLf6DqJWkPQpg2OD) | 2:09 | 2024-04-01 |  |
 | [Find The Feeling](https://open.spotify.com/track/2D9ywzpWS9CxmDwP9AmtUX) | [Candy Kid](https://open.spotify.com/artist/6F3zmVi9MNIbt1oZcl2ebw) | [Find The Feeling](https://open.spotify.com/album/0S0nu0m27HInk7S0J4iZx2) | 4:10 | 2023-09-06 |  |
 | [Find You \-VIP\-](https://open.spotify.com/track/7Mc6DzEcpTg2fx7sOM1RLM) | [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP), [Relect](https://open.spotify.com/artist/4Zyibxrgy9RPKmlgWmqtp6) | [Find You \-VIP\-](https://open.spotify.com/album/1NtUOjejzCPn0bDIEkWxSO) | 3:52 | 2022-03-15 |  |
 | [Fire \- Extended Mix](https://open.spotify.com/track/5DFYYneSS1pJwPhYiMZlCl) | [Riko](https://open.spotify.com/artist/6VZ658qB3goLJXy084ROQs), [Rewcore](https://open.spotify.com/artist/60757zANSWqTu7lUGh2TiO) | [Fire](https://open.spotify.com/album/0S7a0x4wPGeicAy9jENWli) | 4:14 | 2023-04-14 |  |
@@ -656,6 +656,7 @@
 | [Like A King \- Nightcore](https://open.spotify.com/track/2s8DqUYs4PMOucYWpI7jGb) | [Nightcore To The Moon](https://open.spotify.com/artist/5m51A18keKHP2AQDg33D3v), [Resurgenze](https://open.spotify.com/artist/2UE3Slkxz9Gf6nhVQZW9QZ), [Voicians](https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW), [DigitalTek](https://open.spotify.com/artist/38WbKG4vfPMrrnHUhfm7Ry) | [Like A King \(Nightcore\)](https://open.spotify.com/album/1jJsouzPnhD2HFqWj2Yryy) | 2:37 | 2023-07-29 |  |
 | [Like An Animal \- Jur Terreur Remix](https://open.spotify.com/track/2Ja6dTeqsDx8YFAR1ojmpx) | [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73), [Jur Terreur](https://open.spotify.com/artist/1NNaj24msWMhbVRbLxga0u) | [We Roar Special](https://open.spotify.com/album/0K9Jpxbt3Er6NMwMkEFR0r) | 2:44 | 2023-10-20 |  |
 | [Like It Burn](https://open.spotify.com/track/39ZhXtccwAqGkfG4hnqa1T) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY) | [Like It Burn](https://open.spotify.com/album/2GpPxQnEb1Zw09dtkCVJVY) | 2:41 | 2023-09-29 |  |
+| [Like It Loud](https://open.spotify.com/track/10fIxlGTeil1znmhBEkCr0) | [Killshot](https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM), [Boray](https://open.spotify.com/artist/1tC69g1QLo1PvMg0vki9bY) | [Like It Loud](https://open.spotify.com/album/2YebFw4Tp0WxmJFiYDMHhh) | 2:30 | 2024-04-25 |  |
 | [Like Old Days](https://open.spotify.com/track/2Wxhxy0paTZx1rZbKgdwpM) | [Charly Lownoise](https://open.spotify.com/artist/29NIIAIq5CRkVuzkggpS0W), [Re\-Style](https://open.spotify.com/artist/2kK1cYRoYo24RzsHADtD0E) | [Like Old Days](https://open.spotify.com/album/3WgsB8j0k2nKoC0rSQT79b) | 3:25 | 2023-06-17 |  |
 | [Like This](https://open.spotify.com/track/6vYEAjYaE7E0HbLQOjMniR) | [No Hero](https://open.spotify.com/artist/2UgbdflH882huQw44mxzLY) | [Like This](https://open.spotify.com/album/5V4k7HcPq9tiCiaLg8xcLh) | 2:43 | 2022-04-06 |  |
 | [Like You \(The Braindrillerz Remix\)](https://open.spotify.com/track/5cSMLUxXoztLQ4QCHGBl0P) | [Uneven](https://open.spotify.com/artist/3rDNaQKm8vmmIqDMWNmFdM), [Norah B.](https://open.spotify.com/artist/2oc7HOF4je0QOUpYZ3Drio), [The Braindrillerz](https://open.spotify.com/artist/6j9yYMSUzcSI8KGbhgmSKG) | [Like You \(The Remixes\)](https://open.spotify.com/album/29SifS19C8oSV2gL8qs2E5) | 4:02 | 2022-11-29 |  |

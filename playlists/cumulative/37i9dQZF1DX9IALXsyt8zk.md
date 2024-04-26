@@ -4,7 +4,7 @@
 
 > Unearthing up\-and\-coming Korean acts\. \(Cover: RIIZE\)
 
-384 songs - 20 hr 37 min
+386 songs - 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,6 +317,7 @@
 | [Stranger](https://open.spotify.com/track/3lWNov4VlzcBZPLRgYFcHZ) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [Stranger](https://open.spotify.com/album/1XOdt7of67I6i0m3UNHaEF) | 2:49 | 2024-01-26 |  |
 | [Sunshower](https://open.spotify.com/track/3fcDHjyxOQoGV4UuMdagu0) | [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) | [EPEX 5th EP Album Prelude of Love Chapter 2\. 'Growing Pains'](https://open.spotify.com/album/7c4HuyVRABrlh7eOdhozwd) | 3:13 | 2023-05-01 | 2023-09-15 |
 | [SUPERWOMAN](https://open.spotify.com/track/4NZZdFybgGq1Xwx4wq2BdB) | [UNIS](https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ) | [The 1st Mini Album 'WE UNIS'](https://open.spotify.com/album/3pix2U5QbFUSwOeF1M9Eim) | 3:08 | 2024-03-28 |  |
+| [SWEAT](https://open.spotify.com/track/3BzjdhbQH8VlQ81RbvRoV8) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [SWEAT](https://open.spotify.com/album/0s6DjhEFFZOUSfnFmPMVIG) | 3:11 | 2024-04-25 |  |
 | [Sweater](https://open.spotify.com/track/1SnR1IiRx2dUJcRwGYNvg5) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [Sweater](https://open.spotify.com/album/1tB4AOQQy6NWdHqGAXbkVD) | 3:03 | 2021-12-30 | 2022-02-11 |
 | [Swing Slam](https://open.spotify.com/track/5SVbrvelaTW646cg5SvceW) | [Samuel Seo](https://open.spotify.com/artist/4ZPInhlYlpaCsk1vnHmKBP) | [Swing Slam](https://open.spotify.com/album/3q6KvvIzC0r1k8bT4DGErv) | 3:48 | 2023-01-31 | 2023-05-02 |
 | [SYNCHRONIZE](https://open.spotify.com/track/6pEoKEKqmGukOxEaovE6Cy) | [X:IN](https://open.spotify.com/artist/2nr8bylnNeelcA9SJvwmuu) | [SYNCHRONICITY](https://open.spotify.com/album/4S4QLGaG6zebnuMJKk6lui) | 3:15 | 2023-09-14 | 2023-11-16 |
@@ -388,6 +389,7 @@
 | [Zombie](https://open.spotify.com/track/5zTp64MsWOTdAWWXK7zEPK) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [HIDE & SEEK](https://open.spotify.com/album/1Oh6STLhW6dxRAkvOUBHl8) | 3:20 | 2021-12-30 | 2023-01-12 |
 | [담아](https://open.spotify.com/track/5OH5VvM5qIZDiJC1JVWLfe) | [M1NU](https://open.spotify.com/artist/2JDfkwLPoHoH1EKw6Og6uH), [Wiz World](https://open.spotify.com/artist/64uYVs5XasE9xxAItdyPCn), [래원](https://open.spotify.com/artist/5wrj3tbmQ8cvjcA80MtZP9), [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr) | [M1NUWORLD](https://open.spotify.com/album/6TxDYynoC6vnuC3vKlBb9h) | 3:31 | 2023-01-11 | 2023-05-02 |
 | [말도 안 돼 Nonsense](https://open.spotify.com/track/0mrrVsJ5EGGY84ugYzTWbz) | [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [EDDY](https://open.spotify.com/artist/2I5WCuHrCLEemr7N04T9KN) | [애브륄레어드바이져리 LovebrûléeADVISORY](https://open.spotify.com/album/4EqrHsknZhGp75bi2lbjkk) | 2:40 | 2023-11-29 | 2024-01-03 |
+| [밤새](https://open.spotify.com/track/6ounBpJVh2WXum1HEiMWan) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [Affection](https://open.spotify.com/album/7CH227zOs9JlxNtQ8Z6EK4) | 3:20 | 2024-04-25 |  |
 | [여름 안에서](https://open.spotify.com/track/7A7Ve2J88JgZwv3eR3JGoH) | [woo!ah!](https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa) | [아바드림 트리뷰트 Memorial EP.1](https://open.spotify.com/album/6akg8eFWMwvCMbxaSuv6ME) | 3:43 | 2022-10-14 | 2023-02-01 |
 | [이별노래 \(Feat.Hash Swan\)](https://open.spotify.com/track/4aAHrwccFXUpTqg9jQnyL6) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA), [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg) | [farewell \(Feat.Hash Swan\)](https://open.spotify.com/album/2LZ23V8gN0xkdtoGfAGqDb) | 2:59 | 2023-02-15 | 2024-01-03 |
 | [칫챗 chit\-chat](https://open.spotify.com/track/1utBMrImtsgShJ6HpkUl5E) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [칫챗 chit\-chat](https://open.spotify.com/album/6oYxwXE8cigILBPADV34G3) | 2:47 | 2023-10-29 | 2024-03-22 |

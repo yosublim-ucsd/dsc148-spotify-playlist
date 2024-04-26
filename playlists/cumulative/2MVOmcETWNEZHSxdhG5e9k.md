@@ -4,7 +4,7 @@
 
 > Melodic Progressive, Progressive House and Vocal Trance\. Selections from Chris Lyons DJ&\#x27;s &quot;Riding The Soundwave&quot; webradio show.
 
-71 songs - 8 hr 13 min
+72 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Calm Before the Storm](https://open.spotify.com/track/7dy1TqXaZhgjFLewy49Rh9) | [Katrin Souza](https://open.spotify.com/artist/6MIjBHPbfQsN2BP72arjSf) | [A Dark Forest](https://open.spotify.com/album/7HTA0qF60vVwgP2Zd29dpm) | 6:40 | 2021-03-23 |  |
 | [Cast Away \- Club Mix](https://open.spotify.com/track/7skYxp5gHTNeuDYYkllFaQ) | [Sundriver](https://open.spotify.com/artist/3OKbvWLskv2IPnpFiL1BRr) | [Silk Royal pres\. Sundriver 01](https://open.spotify.com/album/0iCV7dsyASuWlRaRykYTLs) | 8:28 | 2021-03-23 |  |
 | [City Lights \- Daniel Kandi Remix](https://open.spotify.com/track/0fKgmgDgmv6GqQ9ySj3SrW) | [Sundriver](https://open.spotify.com/artist/3OKbvWLskv2IPnpFiL1BRr) | [City Lights](https://open.spotify.com/album/0PvQHqQgjeRbMeIldyqtpy) | 7:07 | 2021-03-23 |  |
+| [City Lights \- Original Mix](https://open.spotify.com/track/3Dce37lwGGXcg9EeYj80rQ) | [Sundriver](https://open.spotify.com/artist/3OKbvWLskv2IPnpFiL1BRr) | [Anjunabeats Volume 6](https://open.spotify.com/album/7uMIeJwmYHWB5UmQCJxtzr) | 5:15 | 2024-04-25 |  |
 | [Coral Glasses](https://open.spotify.com/track/7uG3JmCYrlnoVjQoa5PYzS) | [Gregory Esayan](https://open.spotify.com/artist/1EOqDTixfAxQjvX2uAuvMy) | [My Guiding Star](https://open.spotify.com/album/2e2IZdNI18RJh4pFwnjdNc) | 3:52 | 2023-02-23 |  |
 | [Deep Dive \- Katrin Souza Remix](https://open.spotify.com/track/26zyTvsQjmTZBtjzima4rE) | [Chris Lyons](https://open.spotify.com/artist/5yMaYx36CdBsH58F0wVyWB), [Katrin Souza](https://open.spotify.com/artist/6MIjBHPbfQsN2BP72arjSf) | [Deep Dive](https://open.spotify.com/album/1zuCSIITYKCja05xCcJIlO) | 5:33 | 2021-03-23 |  |
 | [Dreamer \- Original Mix](https://open.spotify.com/track/3Di2byKcf7L3fw8zsYRlKG) | [Sundriver](https://open.spotify.com/artist/3OKbvWLskv2IPnpFiL1BRr) | [Poolside Trance 2011](https://open.spotify.com/album/1u5MCVVkoqzZ3uk6PTVFR7) | 7:51 | 2023-02-23 |  |

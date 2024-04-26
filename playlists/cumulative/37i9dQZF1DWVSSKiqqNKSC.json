@@ -1717,6 +1717,24 @@
     },
     {
       "album": {
+        "name": "Sin Escala",
+        "url": "https://open.spotify.com/album/0e12UMKQIn5tbSD08D3ma9"
+      },
+      "artists": [
+        {
+          "name": "El Noro y Primera Clase",
+          "url": "https://open.spotify.com/artist/5wfvAqF5O8wjiLdwIpfwyf"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295200,
+      "name": "La Bomba (Yo Lo S\u00e9)",
+      "url": "https://open.spotify.com/track/6Mq0PPDjAI9yaXZNZlwrOM"
+    },
+    {
+      "album": {
         "name": "Pupy y Los que Son Son Best Of",
         "url": "https://open.spotify.com/album/0l0CJFqNupdBgwV8m9xLwi"
       },
@@ -2046,7 +2064,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 358520,
       "name": "La Preferencia",
       "url": "https://open.spotify.com/track/2qzE1R69r7RatHTEj5zRR9"

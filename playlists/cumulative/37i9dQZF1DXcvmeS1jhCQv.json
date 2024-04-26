@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-03",
-  "description": "New tunes from Ireland for your discovery. Cover: Oscar Blue",
+  "description": "New tunes from Ireland for your discovery. Cover: CARSTEN2X, Joe Butler",
   "name": "A Breath of Fresh \u00c9ire",
   "tracks": [
     {
@@ -200,7 +200,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 180495,
       "name": "Before Sunrise",
       "url": "https://open.spotify.com/track/3ZuljegwK9qaCU6YsOT4r3"
@@ -395,6 +395,28 @@
     },
     {
       "album": {
+        "name": "RACECARDEAD",
+        "url": "https://open.spotify.com/album/2I1d8RpInkvnIvwnaNeNRm"
+      },
+      "artists": [
+        {
+          "name": "racecarbed",
+          "url": "https://open.spotify.com/artist/5u7mnQsIPpSlEKMUCkR465"
+        },
+        {
+          "name": "Tadhg Kelly",
+          "url": "https://open.spotify.com/artist/1ttQl0EtMIDLhZFz5C6oNf"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217354,
+      "name": "bus (how i found joy in working with such kind eyes)",
+      "url": "https://open.spotify.com/track/1j3BXo6lxVOnljN5P5JgSK"
+    },
+    {
+      "album": {
         "name": "Chelsea Bakery",
         "url": "https://open.spotify.com/album/02DHWSoYSF7Q0oyuBO18Pc"
       },
@@ -446,7 +468,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 191997,
       "name": "Chess",
       "url": "https://open.spotify.com/track/3KMoXqNDbTFMXcZUs6MWUp"
@@ -698,7 +720,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 243606,
       "name": "fall",
       "url": "https://open.spotify.com/track/3uXd797WQGCiuEFPz9TVtM"
@@ -932,7 +954,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 280154,
       "name": "In The End",
       "url": "https://open.spotify.com/track/0EzrpH6IwHdPbZKHqtIS4Q"
@@ -1531,6 +1553,24 @@
     },
     {
       "album": {
+        "name": "Out of Style",
+        "url": "https://open.spotify.com/album/4GWriL3zDCxyzpD2ZIpBjC"
+      },
+      "artists": [
+        {
+          "name": "Holly Munro",
+          "url": "https://open.spotify.com/artist/2n9jieS7R5I7zRVKoYTziq"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Out of Style",
+      "url": "https://open.spotify.com/track/1yYHHDEniESPk9iNFr5nyR"
+    },
+    {
+      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/5DU1INumD6DSbYL4odHEkG"
       },
@@ -1568,6 +1608,24 @@
       "duration_ms": 226796,
       "name": "Paris",
       "url": "https://open.spotify.com/track/4KxQWXimKCGVTatrSwmrYw"
+    },
+    {
+      "album": {
+        "name": "Passenger Seat",
+        "url": "https://open.spotify.com/album/3NFGSk4DZw8ne96ApAJyqY"
+      },
+      "artists": [
+        {
+          "name": "Aim\u00e9e",
+          "url": "https://open.spotify.com/artist/6kiGJNxa3SvcQWfCrqL1sb"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224132,
+      "name": "Passenger Seat",
+      "url": "https://open.spotify.com/track/1d0fuygCq7natWK8kelMoY"
     },
     {
       "album": {
@@ -1820,6 +1878,24 @@
       "duration_ms": 337133,
       "name": "Shattered Glass",
       "url": "https://open.spotify.com/track/47MS05AWVBYVGEkJ3MJQOW"
+    },
+    {
+      "album": {
+        "name": "She Stays West",
+        "url": "https://open.spotify.com/album/7jLhYP19n2Otr0jALno1t1"
+      },
+      "artists": [
+        {
+          "name": "Chris Wong",
+          "url": "https://open.spotify.com/artist/2D8z8s14OCbvuskrCEhSif"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232568,
+      "name": "She Stays West",
+      "url": "https://open.spotify.com/track/4iTlYXo5hFlZHfLfUvBne9"
     },
     {
       "album": {

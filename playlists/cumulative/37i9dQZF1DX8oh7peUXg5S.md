@@ -4,7 +4,7 @@
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Silvio Rodríguez.
 
-281 songs - 17 hr 53 min
+283 songs - 18 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Isla Mujeres](https://open.spotify.com/track/18uARsQnALp0MbkEXbR99v) | [Javier Ruibal](https://open.spotify.com/artist/2BGKgfF1cNY6KyfTfS3sVE) | [Las Damas Primero](https://open.spotify.com/album/4kg5YpAPT65X9ci6QVQl5t) | 4:46 | 2022-06-09 | 2022-07-28 |
 | [Jugar a Vivir](https://open.spotify.com/track/1QlZUoChINBN5BMRmZF0sS) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Camino al Sol](https://open.spotify.com/album/1XuG26LABHJVOLlf8VqkSN) | 3:45 | 2022-06-30 | 2022-09-15 |
 | [La Belleza](https://open.spotify.com/track/5oMnRH2HJ3N3leLRh3AWCw) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Auterretratos](https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv) | 3:53 | 2022-06-09 | 2022-07-29 |
+| [La Cara Amable del Mundo](https://open.spotify.com/track/5Ay3mcEIMGxYIIerQtO3Sh) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [El Abrazo](https://open.spotify.com/album/2dSkUbpQomxuCshAMKSt18) | 3:58 | 2024-04-25 |  |
 | [la corriente](https://open.spotify.com/track/3wFJRE20CNfzL0CqRj45Vn) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [chiquita](https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK) | 2:55 | 2022-06-09 | 2022-07-29 |
 | [La Cultura del Miedo](https://open.spotify.com/track/2nSqBmRIDOlsBeiM2jdsup) | [Rupatrupa](https://open.spotify.com/artist/4NMzrymQlZzpXs0LT3Arei) | [La Utopía en que Vivimos](https://open.spotify.com/album/1QCfbXagWcqyxSbOoszNQT) | 5:03 | 2023-09-14 |  |
 | [La flor \- Mov.1: La Flor](https://open.spotify.com/track/4GJGDhm3mINXAghS4mkpjK) | [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [La flor \(Mov.1: La Flor\)](https://open.spotify.com/album/2Ngrngggmplmt5fVkqI1XT) | 3:20 | 2023-03-23 | 2023-04-14 |
@@ -173,6 +174,7 @@
 | [nana triste](https://open.spotify.com/track/7zH4rnKKGm5vACoSEXBEDe) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP), [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [nana triste](https://open.spotify.com/album/6piXewR2Si4LT96r9mUXl2) | 3:07 | 2022-06-30 | 2022-09-23 |
 | [Nana Urgente para Palestina](https://open.spotify.com/track/21VWBL9S3ZJwE98loBLasD) | [Marwán](https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO) | [Nana Urgente para Palestina](https://open.spotify.com/album/3yeCi1o4oN0Imm9A3kdFUW) | 2:17 | 2024-02-15 | 2024-03-01 |
 | [Niebla](https://open.spotify.com/track/2SiRtWv3PnbKA9XFglFMv7) | [Depedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb) | [Un lugar perfecto](https://open.spotify.com/album/4xlJYN385bxZiw4QpF14P9) | 2:46 | 2024-04-19 |  |
+| [Niebla](https://open.spotify.com/track/3dpi4ZGA27elKx01mbWSb7) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Niebla](https://open.spotify.com/album/7K0rkFuaN2l85ZMNdnV9UB) | 3:42 | 2024-04-25 |  |
 | [Nieve \- En Directo](https://open.spotify.com/track/1n4Jabejgr5Zz6ZLnR99ul) | [Ismael Serrano](https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34) | [20 Años Hoy Es Siempre \(En Directo\)](https://open.spotify.com/album/2T9e4XyR8IyRxmXVmeNiYj) | 4:28 | 2023-06-29 | 2023-07-10 |
 | [Nieve \- En Directo](https://open.spotify.com/track/4KRNPEyIFRp7MH7ZSxP9k6) | [Ismael Serrano](https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34) | [Nieve \(En Directo\)](https://open.spotify.com/album/2Xx03JK3g0ZqRnvHkJokjs) | 4:28 | 2022-06-09 | 2022-07-28 |
 | [No Dudaria](https://open.spotify.com/track/1aiq7W0uUtQB70lyNjBpWa) | [Antonio Flores](https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6) | [Esencial Antonio Flores](https://open.spotify.com/album/2tJ9CY3BGUdY8J3J52huZG) | 3:32 | 2022-06-09 | 2022-07-29 |
@@ -206,7 +208,7 @@
 | [Por qué te vas](https://open.spotify.com/track/3Gj5CDzCdq01ftkxGxhdeH) | [javier álvarez](https://open.spotify.com/artist/7npPHFVavArmlInnza5R5n) | [Las 100 mejores canciones del Pop Español](https://open.spotify.com/album/4T1zaLt2uHXf8qAscsSP60) | 2:54 | 2022-06-09 | 2022-07-27 |
 | [Prefiero amar](https://open.spotify.com/track/3Ig5t3esx6oEXPzFfn837w) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Aire](https://open.spotify.com/album/3eiUKyEarSxAvjZLqIJ1M6) | 3:32 | 2022-06-09 | 2022-07-29 |
 | [Princesa](https://open.spotify.com/track/0C1OcBOsuFmFFGkh3FWIGG) | [Joaquin Sabina y Viceversa](https://open.spotify.com/artist/77JFXiVvftzgV1WRx2mNve) | [Juez Y Parte](https://open.spotify.com/album/1hRchXbVPTu1YgyzdkR7XS) | 4:04 | 2022-06-09 |  |
-| [Puede Ser Que la Conozcas](https://open.spotify.com/track/3C0uVZhpunilhtO5JHvxX7) | [Marwán](https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Apuntes Sobre Mi Paso por el Invierno](https://open.spotify.com/album/1bRyXcN5qtq5aGf0GBss1b) | 4:16 | 2024-02-01 |  |
+| [Puede Ser Que la Conozcas](https://open.spotify.com/track/3C0uVZhpunilhtO5JHvxX7) | [Marwán](https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Apuntes Sobre Mi Paso por el Invierno](https://open.spotify.com/album/1bRyXcN5qtq5aGf0GBss1b) | 4:16 | 2024-02-01 | 2024-04-26 |
 | [Que pasen cosas](https://open.spotify.com/track/2mAtcBJOmHHg0QCsB4S797) | [Lau Noah](https://open.spotify.com/artist/42XHWcm6PBEAgK6JvMqGlH), [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [A Dos](https://open.spotify.com/album/1XDsaz0ieG13j47HGrLTIM) | 3:33 | 2024-02-15 | 2024-03-01 |
 | [Que yo no lo sabía \(feat\. Antonio Vega\)](https://open.spotify.com/track/0XlybA6F3v5XcHl6rqmNRw) | [Elefantes](https://open.spotify.com/artist/5ykyeZYA8wEGQ0WhhH8AKn), [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [Gracias](https://open.spotify.com/album/0rU0glgG267Tm44RkfJawd) | 3:51 | 2022-06-09 |  |
 | [Querría](https://open.spotify.com/track/5Yf4Dxfo4cQK2WJtMrblr7) | [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [De Pana y Rubí](https://open.spotify.com/album/4Au1uBJOkLcsLf9WLWVif9) | 4:09 | 2022-06-09 |  |

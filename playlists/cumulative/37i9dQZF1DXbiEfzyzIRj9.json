@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u56fd\u5185\u5916\u306e\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af/ Alternative dance music from Japan and abroad. Cover: Jamie xx",
+  "description": "\u56fd\u5185\u5916\u306e\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af/ Alternative dance music from Japan and abroad. Cover: salute",
   "name": "Altar JP",
   "tracks": [
     {
@@ -364,7 +364,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 298400,
       "name": "AINOSEIDE2024",
       "url": "https://open.spotify.com/track/2NDW9c3MOiNsAyyJeyVgGn"
@@ -506,7 +506,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 484795,
       "name": "Allright (Just A Tribute)",
       "url": "https://open.spotify.com/track/335FKrShvaqwh2oVphhLHn"
@@ -546,7 +546,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 203130,
       "name": "Always Get Through To You",
       "url": "https://open.spotify.com/track/7AzXnrWEKbHxjOX1NRuKtn"
@@ -1366,6 +1366,24 @@
       "duration_ms": 258346,
       "name": "Bonfire - Junya Kishino Remix",
       "url": "https://open.spotify.com/track/2Y5YkeA3F5FQJiDOBGVCWH"
+    },
+    {
+      "album": {
+        "name": "RainboWarriors, Vol. 1",
+        "url": "https://open.spotify.com/album/5z0cpCSHz236cGJVxxNKXH"
+      },
+      "artists": [
+        {
+          "name": "ZOMBIE-CHANG",
+          "url": "https://open.spotify.com/artist/3Wsg07elLUSq6AdkUw1W9U"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260325,
+      "name": "Bouquet de cigarettes",
+      "url": "https://open.spotify.com/track/71XYXBXD5eueu4byVd7gMI"
     },
     {
       "album": {
@@ -3421,6 +3439,28 @@
     },
     {
       "album": {
+        "name": "Everyday in the Club / Bounce on the Water",
+        "url": "https://open.spotify.com/album/2soIapszzexztJpOvxtfCk"
+      },
+      "artists": [
+        {
+          "name": "Hodge",
+          "url": "https://open.spotify.com/artist/2oLMqtx0PbqCXJDXs5lRvA"
+        },
+        {
+          "name": "\u306a\u304b\u3080\u3089\u307f\u306a\u307f",
+          "url": "https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199148,
+      "name": "Everyday in the Club",
+      "url": "https://open.spotify.com/track/1oytoXydkfB0tgqQoeeMd4"
+    },
+    {
+      "album": {
         "name": "Rascal",
         "url": "https://open.spotify.com/album/0vVjA9jq1NQF76dtyy7S6y"
       },
@@ -4484,7 +4524,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 174666,
       "name": "Fussy",
       "url": "https://open.spotify.com/track/5Z7SapaZCnLexMPTR3OFbS"
@@ -4742,7 +4782,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 301764,
       "name": "Ghungroo",
       "url": "https://open.spotify.com/track/33e63lyL8pUxFUv730DTqY"
@@ -4972,7 +5012,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 310776,
       "name": "Guidance to the Sennou",
       "url": "https://open.spotify.com/track/01SwRZAyvvT9SkLUaBKxlL"
@@ -7295,6 +7335,28 @@
     },
     {
       "album": {
+        "name": "Loopholes",
+        "url": "https://open.spotify.com/album/2Jgn6LyHLZxLQa1MCXfbFo"
+      },
+      "artists": [
+        {
+          "name": "Bruk Rogers",
+          "url": "https://open.spotify.com/artist/507wqYn6OuDCIxKMMNMXcv"
+        },
+        {
+          "name": "Onj",
+          "url": "https://open.spotify.com/artist/6jAVS3p3Z4R0qdUR09qfMK"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276655,
+      "name": "Mais Um",
+      "url": "https://open.spotify.com/track/5z3Trnfv8KpZv4kvYuyF1I"
+    },
+    {
+      "album": {
         "name": "Make Me",
         "url": "https://open.spotify.com/album/3T7bNNnQ5b8BgsaF43jGku"
       },
@@ -9152,7 +9214,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 287819,
       "name": "Poppin - VIP",
       "url": "https://open.spotify.com/track/4nUKWxUmfRJgacAkkw4Gay"
@@ -9254,7 +9316,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 180964,
       "name": "Proto Spoon",
       "url": "https://open.spotify.com/track/4x0lRbV2ahj4mDD1shqKRk"
@@ -10030,6 +10092,28 @@
       "duration_ms": 303272,
       "name": "Saturday Love - Cover",
       "url": "https://open.spotify.com/track/40oFFVcxIOvRJxDAEbdhdm"
+    },
+    {
+      "album": {
+        "name": "saving flowers",
+        "url": "https://open.spotify.com/album/2zPC36yrmSWqm2cgKb35yd"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        },
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210785,
+      "name": "saving flowers",
+      "url": "https://open.spotify.com/track/4ZZO8buYpKMS7gR9koYhD9"
     },
     {
       "album": {
@@ -12255,6 +12339,28 @@
     },
     {
       "album": {
+        "name": "Turn The Page",
+        "url": "https://open.spotify.com/album/3v8EL9UazZlDhvn6mERMoq"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        },
+        {
+          "name": "The Streets",
+          "url": "https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262454,
+      "name": "Turn The Page",
+      "url": "https://open.spotify.com/track/038YxoOvHJKyFiXhqlVkil"
+    },
+    {
+      "album": {
         "name": "Turquois",
         "url": "https://open.spotify.com/album/0VdMnpln0AdrBfkBPCI2bO"
       },
@@ -12540,7 +12646,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 331540,
       "name": "UTHANDO",
       "url": "https://open.spotify.com/track/0jKtJJYzgAsfBrAEb02lPh"
@@ -12942,7 +13048,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 379006,
       "name": "Wendorlan",
       "url": "https://open.spotify.com/track/5riAIZl7bL5PEgpIxaNNrH"
@@ -13222,7 +13328,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 237461,
       "name": "Won't U Take Me - Dam Swindle Remix - Edit",
       "url": "https://open.spotify.com/track/2ig0ifvKlprwBMu3AYTOn5"

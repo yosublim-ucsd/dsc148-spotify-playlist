@@ -2,7 +2,7 @@
 
 ### [This Is Ladysmith Black Mambazo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO28fcwD)
 
-> This is Ladysmith Black Mambazo\. The essential tracks, all in one playlist.
+> This Is Ladysmith Black Mambazo\. Los temas esenciales, todos en una lista.
 
 139 songs - 9 hr 14 min
 

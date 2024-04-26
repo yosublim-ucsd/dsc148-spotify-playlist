@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 
 > Meet the lineup & LIVE EXPERIENCE of Busan International Rock Festival, the longest\-running rock festival in Korea! \(한국 최장수 국제 록 페스티벌인 부산 록 페스티벌의 라인업과 현장 경험을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,847 likes - 225 songs - 12 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,853 likes - 225 songs - 12 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -219,8 +219,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 | 209 | [4ever](https://open.spotify.com/track/4RruzeifOuoFvZwziK2EuR) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [4ever](https://open.spotify.com/album/2fU7ZbfCCwb77CVsGwhECU) | 3:32 |
 | 210 | [Oh Yeah!](https://open.spotify.com/track/4BfmJnaP3Ghu4W7JmMHamO) | [Galaxy Express](https://open.spotify.com/artist/3HbmUr6CJxkk0YGkxeNpMp) | [개구쟁이 Naughty Boy](https://open.spotify.com/album/0xWooj0tF8YM8CEGIuq0J2) | 3:35 |
 | 211 | [9](https://open.spotify.com/track/2giPJrNbuvd5aJkLnMrcrv) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Silica Gel](https://open.spotify.com/album/4BzGxha8bh9u2I2nEyUeE9) | 4:05 |
-| 212 | [Malibu](https://open.spotify.com/track/1xXV2P8QUyRo84zevha4HJ) | [Hila Ruach](https://open.spotify.com/artist/24Rzfui4UwLMlhZcWYYk7P) | [BAT YAM](https://open.spotify.com/album/35wu0lTtX9QrtBoYcl88mZ) | 4:15 |
-| 213 | [Lifestyle](https://open.spotify.com/track/2Od2vma6qhjUTpWdfa701R) | [Hila Ruach](https://open.spotify.com/artist/24Rzfui4UwLMlhZcWYYk7P) | [BAT YAM](https://open.spotify.com/album/35wu0lTtX9QrtBoYcl88mZ) | 3:40 |
+| 212 | [מאליבו](https://open.spotify.com/track/1xXV2P8QUyRo84zevha4HJ) | [Hila Ruach](https://open.spotify.com/artist/24Rzfui4UwLMlhZcWYYk7P) | [BAT YAM](https://open.spotify.com/album/35wu0lTtX9QrtBoYcl88mZ) | 4:15 |
+| 213 | [לייפסטייל](https://open.spotify.com/track/2Od2vma6qhjUTpWdfa701R) | [Hila Ruach](https://open.spotify.com/artist/24Rzfui4UwLMlhZcWYYk7P) | [BAT YAM](https://open.spotify.com/album/35wu0lTtX9QrtBoYcl88mZ) | 3:40 |
 | 214 | [Ice Cream](https://open.spotify.com/track/5ltjohuiVnUZragBIIkWGV) | [Hila Ruach](https://open.spotify.com/artist/24Rzfui4UwLMlhZcWYYk7P) | [Ice Cream](https://open.spotify.com/album/1ENCa2OXJkr562zKFWWO4A) | 5:37 |
 | 215 | [普通人類](https://open.spotify.com/track/5rn3NO1vtp9Ph96caHuVHl) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78) | [普通人類](https://open.spotify.com/album/67oS4pQ31kmSwAFCMGiM2b) | 4:35 |
 | 216 | [Nightfall](https://open.spotify.com/track/6y0m2ZqxryJvRtjSlW2Uw0) | [SKIPJACK](https://open.spotify.com/artist/3eqel93sPqKCJfZsgi1uHp) | [Nightfall](https://open.spotify.com/album/4XKHSscld4s0dTFovtcb0l) | 4:12 |

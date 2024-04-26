@@ -2,7 +2,7 @@
 
 ### [Hot Hits Maghreb](https://open.spotify.com/playlist/37i9dQZF1DWYHO8PTSQ9fM)
 
-> Les hits du moment sont ici\. Cover : Morad, GIMS
+> Les hits du moment sont ici\. Cover : Lbenj
 
 262 songs - 14 hr 12 min
 

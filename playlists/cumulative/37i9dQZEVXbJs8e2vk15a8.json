@@ -9403,6 +9403,28 @@
     },
     {
       "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/1bBox3a6smu3GUT5ldNDST"
+      },
+      "artists": [
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204450,
+      "name": "Dime que",
+      "url": "https://open.spotify.com/track/7IEGjVo0RtZwO0B1wJ5TBA"
+    },
+    {
+      "album": {
         "name": "Dime Si Pa La Uni",
         "url": "https://open.spotify.com/album/6bkknKa6rmgLT5EToW9bKy"
       },
@@ -9432,7 +9454,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-24",
+      "date_removed": null,
       "duration_ms": 156694,
       "name": "Dime si t\u00fa me quieres ver? - Part 2",
       "url": "https://open.spotify.com/track/5Uz5WvNiUyAsAr0grkasfE"
@@ -25544,7 +25566,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 190649,
       "name": "pa",
       "url": "https://open.spotify.com/track/490e7PHsxkzMot8qCO36Bt"
@@ -36726,7 +36748,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 182047,
       "name": "Vea Pues",
       "url": "https://open.spotify.com/track/3lk2gB6wZfFCTiKL1CMbyK"

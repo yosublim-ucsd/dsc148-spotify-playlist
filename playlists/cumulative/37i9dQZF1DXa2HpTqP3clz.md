@@ -4,7 +4,7 @@
 
 > Today's Bluegrass and old time favorites\. Cover: Missy Raines
 
-555 songs - 1 day 9 hr 6 min
+556 songs - 1 day 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Dillsboro Blues](https://open.spotify.com/track/0CPcEVBK0mN7o7cvxLrCrZ) | [Darren Nicholson](https://open.spotify.com/artist/70O2FAS1z732CogF3N6W8f) | [Dillsboro Blues](https://open.spotify.com/album/16OAkIBQZ3vmGFMk1bBlJD) | 4:05 | 2023-04-07 |  |
 | [Don't Cry](https://open.spotify.com/track/2irMeKkUB59LWCU7i9XDnj) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Arms of a Lover](https://open.spotify.com/album/2KELaV63XzaF0MJ2FeIjVK) | 3:21 | 2022-07-22 | 2022-11-16 |
 | [Don't Cry](https://open.spotify.com/track/6nnDEzYTDH9kYDVvndebqN) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Don't Cry](https://open.spotify.com/album/2nWaFbthQGIJAfHg3zhCJg) | 3:21 | 2022-04-15 | 2022-07-29 |
-| [Don't Let Your Deal Go Down](https://open.spotify.com/track/3PYlZPKBHqnEw9VOoK0glB) | [Tony Trischka](https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK) | [Banjoland](https://open.spotify.com/album/5YvH4W9anJuW0ADQExvUkR) | 4:49 | 2024-01-26 |  |
+| [Don't Let Your Deal Go Down](https://open.spotify.com/track/3PYlZPKBHqnEw9VOoK0glB) | [Tony Trischka](https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK) | [Banjoland](https://open.spotify.com/album/5YvH4W9anJuW0ADQExvUkR) | 4:49 | 2024-01-26 | 2024-04-26 |
 | [Don't Make Me Get Up and Go](https://open.spotify.com/track/2OlPUfcZze6pH99CzKbCLh) | [The Brothers Comatose](https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD) | [Ink, Dust & Luck](https://open.spotify.com/album/3PXlhFmgMiY4qXiQbBI5PJ) | 3:10 | 2022-07-22 | 2022-09-30 |
 | [Don't Make Me Get up and Go](https://open.spotify.com/track/7dPMI5iIdwonksEYLSdsZY) | [The Brothers Comatose](https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD) | [Ink, Dust & Luck](https://open.spotify.com/album/40hyJ3WFVt22d9w4DPM3aA) | 3:10 | 2022-10-14 | 2024-01-27 |
 | [Don't Make Me Get up and Go](https://open.spotify.com/track/4jaalJMyXvPcvYVI3VoKtu) | [The Brothers Comatose](https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD) | [Don't Make Me Get up and Go](https://open.spotify.com/album/7o4ZRAw9dSwk3jsFBaDLRH) | 3:11 | 2021-12-17 | 2022-07-29 |
@@ -204,6 +204,7 @@
 | [Heartbreak Train](https://open.spotify.com/track/205hhygYfVJ4gUXu54lUyQ) | [Caroline Owens](https://open.spotify.com/artist/5cz6yza4UO8jUweDYxKakE) | [Heartbreak Train](https://open.spotify.com/album/3eUKVLMOhOOLvyvffz7vY0) | 2:40 | 2023-03-03 |  |
 | [Hell's Comin' with Me](https://open.spotify.com/track/5N0lmKQfQpXNQNjUGlPKIT) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Hell's Comin' with Me](https://open.spotify.com/album/7sXEDXktkY9cFOcgvIR6CI) | 3:32 | 2023-03-31 | 2023-05-16 |
 | [Hell's Comin' with Me](https://open.spotify.com/track/0cPvRrV9PBBHVfHoGBlFdO) | [Poor Mans Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Hell's Comin' with Me](https://open.spotify.com/album/459ww0Q7WATvZO0tLzpqvg) | 3:32 | 2022-08-26 | 2023-04-06 |
+| [Hey Blue Eyed Girl](https://open.spotify.com/track/17Nj11TnEg5iOs7hOWvQ8k) | [Cody Sherman](https://open.spotify.com/artist/5BCBTcz3o3Uv5KRTHSSCsa) | [Hey Blue Eyed Girl](https://open.spotify.com/album/0iejH3OR2VXe7lsYrxH8AP) | 2:34 | 2024-04-06 |  |
 | [Hey Brother](https://open.spotify.com/track/0HmmGtJzwfqvpKW0ixeapq) | [Dan Tyminski](https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8) | [God Fearing Heathen](https://open.spotify.com/album/6sQipYOa0SqDbcvnahcYpu) | 4:22 | 2023-07-14 | 2024-01-27 |
 | [Hey Brother](https://open.spotify.com/track/1PJyFJkbpzost4QjRaa01J) | [Dan Tyminski](https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8) | [Hey Brother](https://open.spotify.com/album/6rtyoioVowLfAh1PvoKtdU) | 4:22 | 2023-04-21 | 2023-07-16 |
 | [Heyday](https://open.spotify.com/track/1VjEPwSwv5sfnnXQYEmb8d) | [Lonesome River Band](https://open.spotify.com/artist/0wcvmmlzeqzW318K6lsynU) | [Heyday](https://open.spotify.com/album/1Eu92OK3vZNOGIqyTS1Xl2) | 3:08 | 2022-07-22 | 2022-07-29 |

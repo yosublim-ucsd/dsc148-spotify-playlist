@@ -1,6 +1,6 @@
 {
   "description": "Roll the windows down and take a few risks out on the open, country roads.",
-  "num_followers": 31970,
+  "num_followers": 31980,
   "original_name": "The Road Less Traveled",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Lamentations",
-        "url": "https://open.spotify.com/album/16cNE8Er5s7OeJAe0Ki3vC"
-      },
-      "artists": [
-        {
-          "name": "American Aquarium",
-          "url": "https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT"
-        }
-      ],
-      "duration_ms": 175391,
-      "name": "Before The Dogwood Blooms",
-      "url": "https://open.spotify.com/track/6OkVaVrNaWT54KQMBCCmyN"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
         "name": "Desperate Man",
         "url": "https://open.spotify.com/album/5TjDN2hfsgNWVtP8Ew56Xx"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 174240,
       "name": "Hippie Radio",
       "url": "https://open.spotify.com/track/5cspm8JbU1gr3URl9EOzBM"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "Wolves",
+        "url": "https://open.spotify.com/album/37qnyTNIEoahRSVaNzcKMK"
+      },
+      "artists": [
+        {
+          "name": "American Aquarium",
+          "url": "https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT"
+        }
+      ],
+      "duration_ms": 214570,
+      "name": "Losing Side of Twenty Five",
+      "url": "https://open.spotify.com/track/2PXumYrwMjU2lF5yxFVYhs"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
+        "name": "Lamentations",
+        "url": "https://open.spotify.com/album/16cNE8Er5s7OeJAe0Ki3vC"
+      },
+      "artists": [
+        {
+          "name": "American Aquarium",
+          "url": "https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT"
+        }
+      ],
+      "duration_ms": 175391,
+      "name": "Before The Dogwood Blooms",
+      "url": "https://open.spotify.com/track/6OkVaVrNaWT54KQMBCCmyN"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
         "name": "Providence Canyon",
         "url": "https://open.spotify.com/album/5PRI3Le2iKuhNdJ8yebeVj"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 242440,
       "name": "American Scandal",
       "url": "https://open.spotify.com/track/5ktple5iUVzyQ6SJ8Z8xTK"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
-        "name": "Wolves",
-        "url": "https://open.spotify.com/album/37qnyTNIEoahRSVaNzcKMK"
-      },
-      "artists": [
-        {
-          "name": "American Aquarium",
-          "url": "https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT"
-        }
-      ],
-      "duration_ms": 214570,
-      "name": "Losing Side of Twenty Five",
-      "url": "https://open.spotify.com/track/2PXumYrwMjU2lF5yxFVYhs"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Neon Cross",
-        "url": "https://open.spotify.com/album/2ENwnvyAD2AzUP2Z46l8bQ"
-      },
-      "artists": [
-        {
-          "name": "Jaime Wyatt",
-          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
-        }
-      ],
-      "duration_ms": 264181,
-      "name": "Neon Cross",
-      "url": "https://open.spotify.com/track/5ayliDKP3otgKuYCfSiySg"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
         "name": "While I'm Livin'",
         "url": "https://open.spotify.com/album/4tydPSka2twxxoBiS2HTkU"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 202360,
       "name": "Hard Luck",
       "url": "https://open.spotify.com/track/6d9k2qiL2MNiOkTflqQyvi"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "Neon Cross",
+        "url": "https://open.spotify.com/album/2ENwnvyAD2AzUP2Z46l8bQ"
+      },
+      "artists": [
+        {
+          "name": "Jaime Wyatt",
+          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
+        }
+      ],
+      "duration_ms": 264181,
+      "name": "Neon Cross",
+      "url": "https://open.spotify.com/track/5ayliDKP3otgKuYCfSiySg"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "J.T.",
-        "url": "https://open.spotify.com/album/02DqMqXTuEauf2EQsHZtmB"
-      },
-      "artists": [
-        {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
-        }
-      ],
-      "duration_ms": 215669,
-      "name": "Champagne Corolla",
-      "url": "https://open.spotify.com/track/6zFZuHLAUd1JNDWtBQRDaQ"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
         "name": "Honky Tonk Hell",
         "url": "https://open.spotify.com/album/7A07KizyQlXTvwFY0Nj0XF"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 233600,
       "name": "Honky Tonk Hell",
       "url": "https://open.spotify.com/track/6zBCsjkZd6SLDX32I8ZzrF"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "J.T.",
+        "url": "https://open.spotify.com/album/02DqMqXTuEauf2EQsHZtmB"
+      },
+      "artists": [
+        {
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+        }
+      ],
+      "duration_ms": 215669,
+      "name": "Champagne Corolla",
+      "url": "https://open.spotify.com/track/6zFZuHLAUd1JNDWtBQRDaQ"
     },
     {
       "added_at": "2024-03-25 16:53:27",

@@ -4,7 +4,7 @@
 
 > Lo nuevo y lo más destacado de la electrónica nacional\. Portada: Mariano Mellino
 
-158 songs - 16 hr 27 min
+160 songs - 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [7 Years](https://open.spotify.com/track/5wD7qHFe5PEk7H5SFoTf88) | [Harper Quinn](https://open.spotify.com/artist/2lVKwJVZ4tda1UcfXqIpQN), [Fini](https://open.spotify.com/artist/6ar3PBCFiFgb4aBlFqUZyx) | [7 Years](https://open.spotify.com/album/6HjtgjAzwlQMhnKHs8xyYB) | 2:32 | 2024-03-01 | 2024-04-19 |
 | [7 Years](https://open.spotify.com/track/75erprL1Lw7amMLGmtcdgw) | [Harper Quinn](https://open.spotify.com/artist/2KCFfLc955WPt59FGHaitm), [Fini](https://open.spotify.com/artist/6ar3PBCFiFgb4aBlFqUZyx) | [7 Years](https://open.spotify.com/album/4N4swhnGOK3DE6DPBM2dLy) | 2:32 | 2024-04-12 |  |
 | [A Bit More \- Edit](https://open.spotify.com/track/0xYmdP9DGSWP6Db4H6jLH0) | [Valdovinos](https://open.spotify.com/artist/1VkZyYSFTT0p8xNyyaUV0L), [Transformation](https://open.spotify.com/artist/59rSMOnBRk7rxcdysC38Fb) | [A Bit More](https://open.spotify.com/album/3xKAj9oBSoozdJbizqf2tm) | 4:58 | 2023-12-07 |  |
+| [A La Mañanita \- Angata Remix](https://open.spotify.com/track/2XOie6489fbf0STQBaEbj5) | [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp), [Angata](https://open.spotify.com/artist/5aJassdHJMA4TgXDsMWaP0) | [A La Mañanita \(Angata Remix\)](https://open.spotify.com/album/10uuG37zMMEbwrwADoj02g) | 5:42 | 2024-04-26 |  |
 | [A380](https://open.spotify.com/track/2f7oUjeoSNw64PRWEdGi5S) | [Hernan Cattaneo](https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB), [Mercurio](https://open.spotify.com/artist/4J8apBMaUX5Ofyn2dbbpxG) | [A380](https://open.spotify.com/album/24SZgEw38GafDdGtQUdy1f) | 4:46 | 2024-03-01 |  |
 | [AMANECER \(Remix\)](https://open.spotify.com/track/6DLGzwHsqxC341n63unuRy) | [planta](https://open.spotify.com/artist/5RdWxvvyhOcNMva8aeqb9E), [Franzizca](https://open.spotify.com/artist/0Mgj6yf5sMHjzpFBfPHe2m) | [LOGO](https://open.spotify.com/album/4PLtXjl2T5JqMUkGGdZ17K) | 3:45 | 2024-04-12 |  |
 | [Amor \- Remix](https://open.spotify.com/track/7aexh1SaZkQDwXoo0v1paF) | [Kush Mama](https://open.spotify.com/artist/7IaPQKeWAra6PB5Vjx5uvJ) | [Amor \(Remix\)](https://open.spotify.com/album/0gWxvPH2Ff45ZHyLPW14pd) | 5:06 | 2024-02-16 |  |
@@ -68,6 +69,7 @@
 | [Have a Name](https://open.spotify.com/track/53tCE5hNbLxBlWFCyvlKUz) | [Cruz Vittor](https://open.spotify.com/artist/4y56vMJhfSq2h8zydFq4U3), [Nacho Varela](https://open.spotify.com/artist/2WzYsYG7sMgHwVBFl4Ygbk), [Geri Terella](https://open.spotify.com/artist/531tcRjfpYktr60afxz7fR) | [Summer Sampler 2019](https://open.spotify.com/album/24tndY3JguGFXXiEgmtjWs) | 8:11 | 2020-09-04 | 2023-11-18 |
 | [Have a Name](https://open.spotify.com/track/0yAwmFCrHVUgJt9OBZz7nk) | [Nacho Varela](https://open.spotify.com/artist/2WzYsYG7sMgHwVBFl4Ygbk), [Cruz Vittor](https://open.spotify.com/artist/4y56vMJhfSq2h8zydFq4U3), [Geri Terella](https://open.spotify.com/artist/531tcRjfpYktr60afxz7fR) | [Summer Sampler 2019](https://open.spotify.com/album/3euhzUoPnyiNLlpaw3IV1i) | 8:11 | 2020-09-04 | 2023-11-11 |
 | [Headspace \(feat\. Paula Os\) \[Mixed\]](https://open.spotify.com/track/03H3L3c6gM8IGUYX3b5eCF) | [Mike Griego](https://open.spotify.com/artist/1qRPzNqWxaXA0kLCvK34oM), [Paula OS](https://open.spotify.com/artist/117lqPm8EvEeZq1B33I6Nl) | [Balance presents Sunsetstrip \(Mixed Version\)](https://open.spotify.com/album/3NntuAMKnUhdtciw8mYw9n) | 7:05 | 2020-09-04 | 2023-11-18 |
+| [Hechizao \- Pyura Remix](https://open.spotify.com/track/1CFQUCHVBjIBGBsPB0Ngg5) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi), [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Hechizao \(Pyura Remix\)](https://open.spotify.com/album/3uEpl1UF9dQCItTO8eoVrl) | 3:26 | 2024-04-26 |  |
 | [Hemofilia \- Remix](https://open.spotify.com/track/5OK0uhqJ6OZYonsxGK17lQ) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G), [Ferla](https://open.spotify.com/artist/3mnC4xKYX84yK9yRGC6AZW) | [Hemofilia \(Remix\)](https://open.spotify.com/album/4FlmyozlciTYc9RURkfTIV) | 6:47 | 2024-03-01 |  |
 | [Hiding Sun](https://open.spotify.com/track/2L1WnYPOSux57PuGoeaXk3) | [Juan Hansen](https://open.spotify.com/artist/1ZFLYus27fzqEV3d6RBrxo) | [Balance presents Sunsetstrip \(Unmixed Version\)](https://open.spotify.com/album/5SnS5ApOhE4fxXugAy0OiV) | 8:39 | 2020-09-04 | 2023-11-18 |
 | [Hy Macrophylla \- Original Mix](https://open.spotify.com/track/4Bsg82R9JpPZcaA1OtdTsF) | [Artfaq](https://open.spotify.com/artist/4xsjxIpPpmPiqV9gxdN9TZ), [Berni Turletti](https://open.spotify.com/artist/1lhA46N6VsjJDN8wQccLtW) | [Sudbeat Showcrates 8](https://open.spotify.com/album/2AWXxk7erzxX685F664TzT) | 8:28 | 2020-09-04 | 2023-11-18 |

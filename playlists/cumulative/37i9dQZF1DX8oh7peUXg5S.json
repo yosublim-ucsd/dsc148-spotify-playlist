@@ -2275,6 +2275,24 @@
     },
     {
       "album": {
+        "name": "El Abrazo",
+        "url": "https://open.spotify.com/album/2dSkUbpQomxuCshAMKSt18"
+      },
+      "artists": [
+        {
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238430,
+      "name": "La Cara Amable del Mundo",
+      "url": "https://open.spotify.com/track/5Ay3mcEIMGxYIIerQtO3Sh"
+    },
+    {
+      "album": {
         "name": "chiquita",
         "url": "https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK"
       },
@@ -3255,6 +3273,28 @@
     },
     {
       "album": {
+        "name": "Niebla",
+        "url": "https://open.spotify.com/album/7K0rkFuaN2l85ZMNdnV9UB"
+      },
+      "artists": [
+        {
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222965,
+      "name": "Niebla",
+      "url": "https://open.spotify.com/track/3dpi4ZGA27elKx01mbWSb7"
+    },
+    {
+      "album": {
         "name": "20 A\u00f1os Hoy Es Siempre (En Directo)",
         "url": "https://open.spotify.com/album/2T9e4XyR8IyRxmXVmeNiYj"
       },
@@ -3940,7 +3980,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 256894,
       "name": "Puede Ser Que la Conozcas",
       "url": "https://open.spotify.com/track/3C0uVZhpunilhtO5JHvxX7"

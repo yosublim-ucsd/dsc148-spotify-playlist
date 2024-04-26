@@ -4,7 +4,7 @@
 
 > Vous aimez la chaleur..\. Voici le mix idéal.
 
-152 songs - 14 hr 14 min
+154 songs - 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Hiriza](https://open.spotify.com/track/39RCxlfSmKmGCJ5XzrfMGB) | [Parallelle](https://open.spotify.com/artist/4j2NOrZwtpyVrtrCXsKsag), [Omar Hayat](https://open.spotify.com/artist/6CNB6WbUT0xyr4SsORJYUh) | [A Day In Essaouira](https://open.spotify.com/album/2i8W94b7HDbxCc4dD9isYA) | 6:38 | 2023-05-04 |  |
 | [Hope](https://open.spotify.com/track/1BTFbMjnu87NPOmjNjDT4f) | [Guti](https://open.spotify.com/artist/2r5GDEgYazyOCSj5xi67MM) | [Hope EP](https://open.spotify.com/album/6y8QCJsupQ5TN3gjGaA0LQ) | 6:16 | 2022-12-20 | 2024-04-19 |
 | [Hope](https://open.spotify.com/track/6yssr3eJL0BWH0CJDcyx1Q) | [Guti](https://open.spotify.com/artist/2r5GDEgYazyOCSj5xi67MM) | [Ocean Beach Ibiza: The Debut \(Compiled & Mixed by Kenny Dope & Tom Crane\)](https://open.spotify.com/album/2ioeUqchcvje1Nzc0dWnwe) | 6:16 | 2024-03-22 |  |
+| [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Erik Bandt](https://open.spotify.com/artist/4vhZgo4uiuMnCgnSJEb7yb), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9) | 3:16 | 2024-04-25 |  |
 | [I Go](https://open.spotify.com/track/1S3wM42IWR5DDukmZo8GwV) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Go](https://open.spotify.com/album/6BaEmgJe4ryoOHQa3BI9dz) | 5:58 | 2022-12-20 |  |
 | [I Go](https://open.spotify.com/track/2Vkn1pUamUEfJ9GHul3RJr) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Go](https://open.spotify.com/album/1221WGmWD1oF62vZtMScdk) | 5:58 | 2023-10-06 | 2024-04-19 |
 | [I'm Easy \- Crackazat Mana's Dub](https://open.spotify.com/track/0hvxsHq9qn5f3FgWT07Ouv) | [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As) | [Everybody Talks About It EP](https://open.spotify.com/album/5hS5SlMOWSD3kFx6AN4tvN) | 5:22 | 2022-12-20 |  |
@@ -91,6 +92,7 @@
 | [Labyrinth \- Extended Mix](https://open.spotify.com/track/6wlKmivkywKW0E0eVG50mS) | [Joakim](https://open.spotify.com/artist/5af6HkEomDP7dKLugVmMmk) | [Labyrinth](https://open.spotify.com/album/6UoyUTZR9qfPCHcVlOGu6v) | 6:16 | 2024-03-22 |  |
 | [Le Flute](https://open.spotify.com/track/1WnZTp8oX83UoUlCJ2M2Rk) | [Sirhan](https://open.spotify.com/artist/5sMckZzTxJ15aUpf8j4Xsy) | [BONFIDO 001](https://open.spotify.com/album/4itOijRXiDntdXEMaTdNfa) | 4:49 | 2022-12-20 | 2023-06-21 |
 | [Like It Is](https://open.spotify.com/track/2hFjxLPeeBZrvLb302MKLj) | [Coeo](https://open.spotify.com/artist/3OoNpyvA82LedOZWG3WE8Z) | [Disco Volante EP](https://open.spotify.com/album/3F98dsHSClqD3929v1B6S2) | 5:55 | 2022-12-20 |  |
+| [Lose Your Love](https://open.spotify.com/track/0YOpUrtSw5r22f67vIw7JS) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Rony Seikaly](https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB) | [Love Therapy \(Deluxe\)](https://open.spotify.com/album/4ZGDnQrN4T6TU4KT03tnF4) | 3:12 | 2024-04-25 |  |
 | [Love Ain't Over \- Club Edit](https://open.spotify.com/track/1QYkx8JV0E6eEXoD1q49dD) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a) | [Love Ain't Over](https://open.spotify.com/album/51oTex9Ozpd3DfpUhymt9w) | 5:38 | 2022-12-20 |  |
 | [Love Love Love \- Soft rocks remix](https://open.spotify.com/track/7LAbTarTvsS21Q0aKNchuq) | [Low Motion Disco](https://open.spotify.com/artist/0jSIcdNjvPBgxYy7r9LCOw), [Soft Rocks](https://open.spotify.com/artist/29Ord7DT8GltikFWvOytTa) | [Love Love Love](https://open.spotify.com/album/18Na0ZWzx7nIErz2rhjOwO) | 6:50 | 2023-05-02 | 2023-06-09 |
 | [Lovefool](https://open.spotify.com/track/1UjbMmN5yti1uyZQCuhaBI) | [Juan Yarin](https://open.spotify.com/artist/0cPgP2pYS8lmkzxiJc0hO7) | [Lovefool](https://open.spotify.com/album/0DeLusvmxOjBZqBjSU15yN) | 6:57 | 2023-03-15 |  |

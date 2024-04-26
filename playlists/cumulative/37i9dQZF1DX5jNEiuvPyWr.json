@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Green Montana",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Wit.",
   "name": "Cloud Rap",
   "tracks": [
     {
@@ -575,6 +575,24 @@
     },
     {
       "album": {
+        "name": "LE JOUR D\u2019APR\u00c8S",
+        "url": "https://open.spotify.com/album/3lYW2habDehCxiXJPMBFrG"
+      },
+      "artists": [
+        {
+          "name": "Wit.",
+          "url": "https://open.spotify.com/artist/4ME56PlDfT9QKf6sGcRgPm"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188680,
+      "name": "APOLLO",
+      "url": "https://open.spotify.com/track/4iLRPw77AoFagvRVYpW3BP"
+    },
+    {
+      "album": {
         "name": "Temps d'avant",
         "url": "https://open.spotify.com/album/17SmK3zouR37VS6JLDZWL3"
       },
@@ -990,6 +1008,24 @@
       "duration_ms": 169746,
       "name": "Boboalam",
       "url": "https://open.spotify.com/track/0CxkghH2XufHbbuNk5y7SX"
+    },
+    {
+      "album": {
+        "name": "Arkoydaki",
+        "url": "https://open.spotify.com/album/7F15V1PMXT4QPt5euw9HOf"
+      },
+      "artists": [
+        {
+          "name": "Idrane",
+          "url": "https://open.spotify.com/artist/7lnlpCPA31jrYPAVNVR3JV"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176193,
+      "name": "boh\u00e8me.",
+      "url": "https://open.spotify.com/track/4qgxoRgaWlHeFTKISGes2f"
     },
     {
       "album": {
@@ -1834,6 +1870,24 @@
       "duration_ms": 210000,
       "name": "Dernier Etage",
       "url": "https://open.spotify.com/track/4cEmTY9s8re8z5Lg9u3uXH"
+    },
+    {
+      "album": {
+        "name": "NUEVE SEAZON",
+        "url": "https://open.spotify.com/album/7iCHeixFKFguzMJSeoKFLl"
+      },
+      "artists": [
+        {
+          "name": "J9ueve",
+          "url": "https://open.spotify.com/artist/4fj5OWrMmlCbrc3PocAcl1"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160253,
+      "name": "DERNIERE DANSE",
+      "url": "https://open.spotify.com/track/2pZpMH4DwjrDmE46HPVOVv"
     },
     {
       "album": {
@@ -2712,7 +2766,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 180901,
       "name": "HABITU\u00c9",
       "url": "https://open.spotify.com/track/7csw8z3PQlXWpmoX29wSLX"
@@ -2835,6 +2889,24 @@
     },
     {
       "album": {
+        "name": "Home Run",
+        "url": "https://open.spotify.com/album/0OzMhpTTgsYYwaKH2VJJCy"
+      },
+      "artists": [
+        {
+          "name": "Linton",
+          "url": "https://open.spotify.com/artist/2E2fqJpbXphODsOLkdI8U7"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170013,
+      "name": "High",
+      "url": "https://open.spotify.com/track/66FsSZO3keDNPVbBK7SfCE"
+    },
+    {
+      "album": {
         "name": "HORS LIGNE CE SOIR",
         "url": "https://open.spotify.com/album/5L9V0HxSW1DWCl6ElveExY"
       },
@@ -2846,7 +2918,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 143125,
       "name": "Hors ligne",
       "url": "https://open.spotify.com/track/2mmaaAzG2Mq496poYvKTbm"
@@ -3020,7 +3092,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 113160,
       "name": "ILY",
       "url": "https://open.spotify.com/track/2lIYPLyflIuOaES0DPb8QC"
@@ -3840,7 +3912,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 193206,
       "name": "Loin",
       "url": "https://open.spotify.com/track/2QjuqvJRPxx4Bs6CNFi2Zz"
@@ -4814,7 +4886,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 159642,
       "name": "Para",
       "url": "https://open.spotify.com/track/32wwxrB9l4hEj2KeW6fR4l"
@@ -5314,6 +5386,24 @@
       "duration_ms": 195692,
       "name": "pr\u00e8s de moi",
       "url": "https://open.spotify.com/track/5gu8ULeLakv6BwgrKyvCOc"
+    },
+    {
+      "album": {
+        "name": "PSY",
+        "url": "https://open.spotify.com/album/4plsd1xE7EKsSL8MvLrnrV"
+      },
+      "artists": [
+        {
+          "name": "Skreezy",
+          "url": "https://open.spotify.com/artist/7cPcptnEuUiKgcfjPVTswv"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112920,
+      "name": "PSY",
+      "url": "https://open.spotify.com/track/7yIJ9esLCqzew5mQX6ZmgC"
     },
     {
       "album": {

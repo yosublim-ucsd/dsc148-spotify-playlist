@@ -3531,6 +3531,24 @@
     },
     {
       "album": {
+        "name": "Bryson Tiller",
+        "url": "https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141827,
+      "name": "Rich Boy",
+      "url": "https://open.spotify.com/track/6TJcnosIlDjN5RBdkCphXJ"
+    },
+    {
+      "album": {
         "name": "Right Hand",
         "url": "https://open.spotify.com/album/6qIBaopvx9STCAa7ud8PRZ"
       },

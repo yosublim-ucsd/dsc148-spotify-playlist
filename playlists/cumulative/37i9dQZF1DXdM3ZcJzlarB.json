@@ -89,6 +89,28 @@
     },
     {
       "album": {
+        "name": "A La Ma\u00f1anita (Angata Remix)",
+        "url": "https://open.spotify.com/album/10uuG37zMMEbwrwADoj02g"
+      },
+      "artists": [
+        {
+          "name": "Paloma del Cerro",
+          "url": "https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp"
+        },
+        {
+          "name": "Angata",
+          "url": "https://open.spotify.com/artist/5aJassdHJMA4TgXDsMWaP0"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342000,
+      "name": "A La Ma\u00f1anita - Angata Remix",
+      "url": "https://open.spotify.com/track/2XOie6489fbf0STQBaEbj5"
+    },
+    {
+      "album": {
         "name": "A380",
         "url": "https://open.spotify.com/album/24SZgEw38GafDdGtQUdy1f"
       },
@@ -1234,6 +1256,28 @@
       "duration_ms": 425333,
       "name": "Headspace (feat. Paula Os) [Mixed]",
       "url": "https://open.spotify.com/track/03H3L3c6gM8IGUYX3b5eCF"
+    },
+    {
+      "album": {
+        "name": "Hechizao (Pyura Remix)",
+        "url": "https://open.spotify.com/album/3uEpl1UF9dQCItTO8eoVrl"
+      },
+      "artists": [
+        {
+          "name": "Pyura",
+          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
+        },
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206620,
+      "name": "Hechizao - Pyura Remix",
+      "url": "https://open.spotify.com/track/1CFQUCHVBjIBGBsPB0Ngg5"
     },
     {
       "album": {

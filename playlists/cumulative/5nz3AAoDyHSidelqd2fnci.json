@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "Lest We Forget (The Best Of) [International Version (Explicit)]",
+        "url": "https://open.spotify.com/album/6R5TqxpmUg1KhHORpsp9Ho"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Manson",
+          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225626,
+      "name": "(s)AINT",
+      "url": "https://open.spotify.com/track/7AN4FrzfmnJSFGq1a28L1E"
+    },
+    {
+      "album": {
         "name": "Secret Society Sessions",
         "url": "https://open.spotify.com/album/0uQSit3u2OSie7fZfplKRT"
       },
@@ -1138,7 +1156,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 264720,
       "name": "Bendita Tu Luz",
       "url": "https://open.spotify.com/track/5TCYUngmqOOtLFbqUTPMMB"
@@ -2228,6 +2246,24 @@
       "duration_ms": 129506,
       "name": "Como Caramelo De Lim\u00f3n",
       "url": "https://open.spotify.com/track/0DHmFQwguPKszh1Mt4mfv9"
+    },
+    {
+      "album": {
+        "name": "Corte en Tr\u00e1mite",
+        "url": "https://open.spotify.com/album/2MVBXkYLJQrkRAjYHMTmfc"
+      },
+      "artists": [
+        {
+          "name": "Javiera & Los Imposibles",
+          "url": "https://open.spotify.com/artist/6IEAyaXCPxZoPtCAYZXOxz"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Compromiso",
+      "url": "https://open.spotify.com/track/2gzyjld8IfmojwVxyRWOib"
     },
     {
       "album": {
@@ -4207,6 +4243,24 @@
     },
     {
       "album": {
+        "name": "For We Are Many",
+        "url": "https://open.spotify.com/album/7GT6W7zeCbv4uTqQELaWr8"
+      },
+      "artists": [
+        {
+          "name": "All That Remains",
+          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214346,
+      "name": "From The Outside",
+      "url": "https://open.spotify.com/track/6gRXLcEgg4TIgq6pL5ut1y"
+    },
+    {
+      "album": {
         "name": "FUBAR",
         "url": "https://open.spotify.com/album/6eZo6l9EtVb5hM3MtdFnjx"
       },
@@ -4301,6 +4355,24 @@
     },
     {
       "album": {
+        "name": "Get Along (Los Justicieros Opening)",
+        "url": "https://open.spotify.com/album/5iITSXGBMm3d2StlIgKx0M"
+      },
+      "artists": [
+        {
+          "name": "Salom\u00e9 Anjar\u00ed",
+          "url": "https://open.spotify.com/artist/6hf0imMo1zl8mVd8TZQbsZ"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247174,
+      "name": "Get Along (Los Justicieros Opening)",
+      "url": "https://open.spotify.com/track/4MWmx1o8yd9glNZ2HfbarR"
+    },
+    {
+      "album": {
         "name": "Get You Down",
         "url": "https://open.spotify.com/album/7yssE08RBSbr9mEXoP9kpf"
       },
@@ -4366,7 +4438,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 243695,
       "name": "Gimme Hope Jo'anna",
       "url": "https://open.spotify.com/track/6295Cr4SGdjJgnJ6DLtZFn"
@@ -6522,7 +6594,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 237426,
       "name": "Live For Today (Mozaix Remix)",
       "url": "https://open.spotify.com/track/40Ip77nqyAolluHilW9tFH"
@@ -7289,6 +7361,28 @@
     },
     {
       "album": {
+        "name": "Mosca Original",
+        "url": "https://open.spotify.com/album/0RfBioJdIHTdP5wMzaj459"
+      },
+      "artists": [
+        {
+          "name": "Milan didier oficial",
+          "url": "https://open.spotify.com/artist/3SL0MLkrNx4DRWGcRLiIDc"
+        },
+        {
+          "name": "Talents eMe",
+          "url": "https://open.spotify.com/artist/7vMiPr0vEsX1J6BRdvRPPr"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149288,
+      "name": "Mosca Original",
+      "url": "https://open.spotify.com/track/1zAhx3lPRsktbVtEj8bXkZ"
+    },
+    {
+      "album": {
         "name": "MOTHER ATE",
         "url": "https://open.spotify.com/album/17SKda70MgNi3mViFcweHp"
       },
@@ -7300,7 +7394,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 201904,
       "name": "MOTHER ATE",
       "url": "https://open.spotify.com/track/6S2LusrzKx5Khn4FxfzhYw"
@@ -7686,6 +7780,24 @@
       "duration_ms": 122133,
       "name": "Need You Like",
       "url": "https://open.spotify.com/track/0K28plOjXm5jrSUzl0rXSf"
+    },
+    {
+      "album": {
+        "name": "Need You Now",
+        "url": "https://open.spotify.com/album/5ZbC2gZrQ6WAC1AroTczip"
+      },
+      "artists": [
+        {
+          "name": "tanvi",
+          "url": "https://open.spotify.com/artist/2oq1PXgnTtflp9kw08ddB3"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174338,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/5X21uANL3TPmskQEphYNgR"
     },
     {
       "album": {
@@ -8090,7 +8202,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 260000,
       "name": "NZT48 - Instrumental Version",
       "url": "https://open.spotify.com/track/4DtVb1jjKKjLbzQOIRSPHK"
@@ -8234,7 +8346,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 240298,
       "name": "Open Letter",
       "url": "https://open.spotify.com/track/4F6rElm8VLH8gUdNbxTw9A"
@@ -8668,7 +8780,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 441466,
       "name": "Phantom of the Opera - 2015 Remaster",
       "url": "https://open.spotify.com/track/14H2fE4WEdkEem0kjVeODT"
@@ -8798,6 +8910,24 @@
       "duration_ms": 121040,
       "name": "Porno Creep",
       "url": "https://open.spotify.com/track/7yzdwoNnahiLwx421Kvgjs"
+    },
+    {
+      "album": {
+        "name": "Potong kontol",
+        "url": "https://open.spotify.com/album/1LwxKQpo3wnfY3jObeJNr3"
+      },
+      "artists": [
+        {
+          "name": "Jorokindo Musik",
+          "url": "https://open.spotify.com/artist/7qL9kcrhcCmj8R57HGfuHy"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227649,
+      "name": "Potong kontol",
+      "url": "https://open.spotify.com/track/6YUuawlLvYvdpU1kRrSXBF"
     },
     {
       "album": {
@@ -9742,7 +9872,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 294626,
       "name": "Sensorium - Orchestral Version",
       "url": "https://open.spotify.com/track/3Dgb6JMds2sOz3xssrW0ul"
@@ -9987,6 +10117,24 @@
     },
     {
       "album": {
+        "name": "Petals For Armor",
+        "url": "https://open.spotify.com/album/4HXpQ5KQBVWN25ltjnX7xa"
+      },
+      "artists": [
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266115,
+      "name": "Simmer",
+      "url": "https://open.spotify.com/track/2moHnkHTSXBe9KjvPSQJvg"
+    },
+    {
+      "album": {
         "name": "For Those Who Have Heart Re-Issue",
         "url": "https://open.spotify.com/album/1tVzHnNzqvnpUgeThbHJF7"
       },
@@ -10146,7 +10294,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 231320,
       "name": "Snaggletooth",
       "url": "https://open.spotify.com/track/5M1Y7W5PAxcI2FixtOmTCt"
@@ -10218,7 +10366,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 229853,
       "name": "Somebody Someone",
       "url": "https://open.spotify.com/track/64JDlPi7vPusXR7vsXuKBt"
@@ -10778,7 +10926,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 275186,
       "name": "Taking Back My Soul",
       "url": "https://open.spotify.com/track/7rk5lB4drqcl2O7fcZoTj9"
@@ -10844,6 +10992,24 @@
       "duration_ms": 166866,
       "name": "Tchaikovsky: Swan Lake, Op. 20, Act 2: No. 10, Scene. Moderato",
       "url": "https://open.spotify.com/track/2xizRhme7pYeITbH1NLLGt"
+    },
+    {
+      "album": {
+        "name": "Te conoc\u00ed",
+        "url": "https://open.spotify.com/album/2KkOssmITRyGi5FWAUTsx6"
+      },
+      "artists": [
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209587,
+      "name": "Te conoc\u00ed",
+      "url": "https://open.spotify.com/track/2unxfFBxztipMMnZFFm02a"
     },
     {
       "album": {
@@ -11189,6 +11355,24 @@
     },
     {
       "album": {
+        "name": "The Flood (Deluxe Reissue)",
+        "url": "https://open.spotify.com/album/5PLgKITLdSYuh7OWpIC8nC"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190506,
+      "name": "The Flood",
+      "url": "https://open.spotify.com/track/2w5ArUQG01dfvSxL1DsGqV"
+    },
+    {
+      "album": {
         "name": "The Flow",
         "url": "https://open.spotify.com/album/4v4EJ3JDlrGSVZDeq51Btd"
       },
@@ -11258,6 +11442,24 @@
       "duration_ms": 271529,
       "name": "The Gates of Hell",
       "url": "https://open.spotify.com/track/17VRPD0OJpGyjtNGLnVL0F"
+    },
+    {
+      "album": {
+        "name": "The Fallout (Deluxe Reissue)",
+        "url": "https://open.spotify.com/album/0RNvY7pXqrFB6zZXUS79tM"
+      },
+      "artists": [
+        {
+          "name": "Crown The Empire",
+          "url": "https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179600,
+      "name": "The Glass Elevator (Walls)",
+      "url": "https://open.spotify.com/track/0MkBEm3cie10yxu77m0SQI"
     },
     {
       "album": {
@@ -11661,6 +11863,24 @@
     },
     {
       "album": {
+        "name": "Hail to the King",
+        "url": "https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369293,
+      "name": "This Means War",
+      "url": "https://open.spotify.com/track/2NImo2MajNai4CLk35wMut"
+    },
+    {
+      "album": {
         "name": "Countdown To Extinction (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
       },
@@ -11726,7 +11946,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 439120,
       "name": "Through The Fire And Flames",
       "url": "https://open.spotify.com/track/1UMdbkqX19OiwfExH7gzYA"

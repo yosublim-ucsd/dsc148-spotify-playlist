@@ -2,7 +2,7 @@
 
 ### [This Is Murda Beatz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO26qb6H)
 
-> This is Murda Beatz\. The essential tracks, all in one playlist.
+> This Is Murda Beatz\. Los temas esenciales, todos en una lista.
 
 37 songs - 1 hr 46 min
 

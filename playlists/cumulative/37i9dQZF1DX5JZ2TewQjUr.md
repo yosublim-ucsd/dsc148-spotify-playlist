@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  5gjm999
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  BONBON
 
-980 songs - 2 day 7 hr 32 min
+985 songs - 2 day 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Award Shows](https://open.spotify.com/track/5OUvyy5qQQDoOTKK8rpbWm) | [TXMIYAMA](https://open.spotify.com/artist/725OKiwmqplFRll4H7WHkw), [BENNY HÀN](https://open.spotify.com/artist/7CIF5uo4zR9UBwKS7lfQHb) | [Award Shows](https://open.spotify.com/album/21ur6W5JzSLC8Rc4yicXqc) | 3:00 | 2022-08-04 | 2022-11-04 |
 | [Baby If I Were An Android](https://open.spotify.com/track/6T4M2QS50qXTwxCKucI9F5) | [risy](https://open.spotify.com/artist/4MA9eWK70D4JdQmLpRDw2r) | [Baby If I Were An Android](https://open.spotify.com/album/6cDptgXegkhuujPJ003bsf) | 4:24 | 2023-07-27 | 2023-11-03 |
 | [Baby Toof \(Demo\)](https://open.spotify.com/track/3glZWaY1rWHXUmC43ZaCmZ) | [Velvet Elvis](https://open.spotify.com/artist/2M9MLexyTDC0WWMZFelLuE) | [Baby Toof \(Demo\)](https://open.spotify.com/album/4njotXVY7z8G894rzXP0TJ) | 3:52 | 2024-02-08 |  |
+| [BACK](https://open.spotify.com/track/5xSO1TWCn3uqiLXPw1O7iS) | [COPAK](https://open.spotify.com/artist/1sHepQ4XjdF9ReWrHFAQTo) | [BACK](https://open.spotify.com/album/59MAZgl1mUdrk5gOzXNA5O) | 4:09 | 2024-04-25 |  |
 | [Bad Coffee & Liquor Club](https://open.spotify.com/track/4JA1QRKFcsDZiV1p8vySQf) | [rosemances](https://open.spotify.com/artist/7lq5r4rEXkxtYt3bGK4fAK) | [Bad Coffee & Liquor Club](https://open.spotify.com/album/1dHJm91fNNgxinlcwSH0gi) | 2:48 | 2024-02-15 |  |
 | [bad weather](https://open.spotify.com/track/1B7dvUWXL8tJFtsFgbj5mm) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [bad weather](https://open.spotify.com/album/7GcqB2QpeFKDg4gDcaN52q) | 2:53 | 2022-12-15 | 2023-03-18 |
 | [Balenciaga Store Girl](https://open.spotify.com/track/2IU51LT4SmBPJIi7oBVZKz) | [Young Hysan](https://open.spotify.com/artist/6nZKe3xkbU2IBrVuJGkzCr), [TIAB](https://open.spotify.com/artist/2JbEBRuLXBuU1Cm4SLYQJ0) | [Balenciaga Store Girl](https://open.spotify.com/album/0bqoYF1b2TFurEuhzG5oCh) | 2:56 | 2023-11-02 | 2024-01-05 |
@@ -63,6 +64,7 @@
 | [Be You](https://open.spotify.com/track/4YA05pFBqNtqYe9NasRpEm) | [Zuk1](https://open.spotify.com/artist/3dFXqnNcQHliJjmTwI4Rr9) | [Be You](https://open.spotify.com/album/7xwOuaf0bp3EBG9tXpz32a) | 3:32 | 2022-08-11 | 2022-11-04 |
 | [Better Days](https://open.spotify.com/track/1eBAncEA6SXHGwD5kL248j) | [Slimjongun](https://open.spotify.com/artist/1LsJXW9nCYGMqUdYhrttyI) | [Better Days](https://open.spotify.com/album/6mtrX5Ak54H6syJhGl6ZlV) | 2:59 | 2023-02-09 | 2023-07-14 |
 | [Black Horse](https://open.spotify.com/track/1i9pEMeun3QyzPivGCfm0l) | [Delf](https://open.spotify.com/artist/3ZVZi0IyNLH18rZsmA8SfO), [YEHAIYAHAN](https://open.spotify.com/artist/2rGUDp8wG9hqDm5BHbyy88), [JNYBeatz](https://open.spotify.com/artist/7AIrMj0FrW9ouOsSfTjhd9) | [Black Horse](https://open.spotify.com/album/0pT7jmsLoupuUukTdq35Ln) | 3:14 | 2024-02-22 |  |
+| [Bleeding](https://open.spotify.com/track/0Enh7qIEYeMbYYgzFZmkDH) | [Sage Vapid](https://open.spotify.com/artist/7d598fEPZUr7rcu9HFkVof) | [Bleeding](https://open.spotify.com/album/53Cfu2Jd018OvINymaVMBD) | 3:41 | 2024-04-25 |  |
 | [BLOOD SWEAT TEARS AND GEARS](https://open.spotify.com/track/4yjv9GfqLd7ybSdceMCp4T) | [Matt Force](https://open.spotify.com/artist/4ymVglyzE9C7StALg2Sx9N), [YoungQueenz](https://open.spotify.com/artist/4L55QUybdNNklpqnecZ5Bl) | [LAND](https://open.spotify.com/album/5wBBnOfybmA2VtWqJETICV) | 3:09 | 2023-12-15 |  |
 | [BLUE](https://open.spotify.com/track/0TDMywlUF6cpKiDEkXF1fZ) | [薛晉寧](https://open.spotify.com/artist/51gtz3TwZi8vKNM74TVYdP) | [BLUE](https://open.spotify.com/album/0RQr6m1fkEtZUgkSFdiZT2) | 2:44 | 2024-03-14 |  |
 | [Blue feather.](https://open.spotify.com/track/6q0MNv4aPZXih35MfDyJ3R) | [Katana](https://open.spotify.com/artist/4F2bVX4e5WsiK9Xa30blEh) | [Blue feather.](https://open.spotify.com/album/1J5NdOvkXvYoiwrxM6iuwv) | 4:04 | 2023-01-12 | 2023-02-03 |
@@ -193,6 +195,7 @@
 | [Freighter](https://open.spotify.com/track/1O5iLaml9rErV9yx4ssIwb) | [Clave](https://open.spotify.com/artist/5m5BbvIBUCGtqMSYTqvlxN) | [Freighter](https://open.spotify.com/album/1vF7E2jU58DWjytLgY0u4F) | 4:52 | 2023-02-02 | 2023-07-14 |
 | [Fuccboi 2.0](https://open.spotify.com/track/7b60XiOYeu5ZVC2xfzgZe4) | [Takeem](https://open.spotify.com/artist/7xfeo24u8goKQRhKRj6MP1), [柒羊](https://open.spotify.com/artist/7w0DcVVbW8WKwc5xx0wlgW) | [Live Twice](https://open.spotify.com/album/2ZFnWV0PjomKo5TAGr0HW8) | 2:30 | 2022-07-07 | 2022-11-04 |
 | [FUCK LOVE](https://open.spotify.com/track/4fMFRAAr1U1oRv4iTksTiv) | [SID22](https://open.spotify.com/artist/687Afh5UMC1dbKeH8WwD51), [ProdiG](https://open.spotify.com/artist/08CriCUDwsWSTvFDWsfpk1), [YINJ](https://open.spotify.com/artist/1lo7i3t2LzfZ4GED38acoK) | [FUCK LOVE](https://open.spotify.com/album/1fE1GTTfiytL3AqHttyeVW) | 2:22 | 2023-11-16 | 2024-01-05 |
+| [FULL THROTTLE \- jøno Remix](https://open.spotify.com/track/5uFtpR3HEFhLrKdFakjdL8) | [WLDHRT](https://open.spotify.com/artist/5dNGi8WqaZJtfyVT8dI0Lz), [jøno](https://open.spotify.com/artist/3oWQ3rSeKMRuEmbud3qBI4) | [FULL THROTTLE \(jøno Remix\)](https://open.spotify.com/album/1fDOqFUl0wLShjSDKBHuVk) | 2:27 | 2024-04-25 |  |
 | [Gate \(E\-Version\)](https://open.spotify.com/track/2YIgIbKeaKoVyANoshdwDy) | [Noisy Charlie](https://open.spotify.com/artist/64O9yp0OG3PUKs11YjcAWN) | [EL NUDO](https://open.spotify.com/album/3WH5GacDRCTMZbj7wEJ1S8) | 2:22 | 2023-01-12 | 2023-05-26 |
 | [GET TO IT](https://open.spotify.com/track/4CJw0fbqYhDEl5aIGx7oU0) | [bright](https://open.spotify.com/artist/74Ul6MwHluMULyDRZMxcUu), [Yung Raise](https://open.spotify.com/artist/03yNfXIvu6tsRxHqC5RV7k) | [<0>](https://open.spotify.com/album/0TLVt9mhdNlvikfqZnjUEe) | 3:09 | 2022-05-26 | 2022-07-29 |
 | [GET WILD \(feat\. AKIKO\)](https://open.spotify.com/track/12NPhma0x5yqWaak5KDfly) | [ANSONBEAN](https://open.spotify.com/artist/1SwnEZ4IUZF2CEsWOM0E2L), [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt), [AKIKO](https://open.spotify.com/artist/2Opwzcyz0gW62Gz9sbYTRZ) | [GET WILD \(feat\. AKIKO\)](https://open.spotify.com/album/2xPIIW6H5UcWKaplgKp0wT) | 2:51 | 2023-04-20 | 2023-07-14 |
@@ -364,6 +367,7 @@
 | [miss dopamine](https://open.spotify.com/track/2GIB0eGthGtxu95QhupMHh) | [Jayj](https://open.spotify.com/artist/3kH3cdvEQ8E33l3eOQC2N9) | [miss dopamine](https://open.spotify.com/album/1YtUDfH57JBQwaA2dyhojZ) | 4:10 | 2023-09-07 | 2023-11-03 |
 | [MISTRESS](https://open.spotify.com/track/4iDwZYGMHF30Nh12OUHtcD) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy), [Daniel Toh](https://open.spotify.com/artist/2j04ll9T2gPPbI5mxl867U) | [MISTRESS](https://open.spotify.com/album/5Z11m001u3WTHH5sDxLXFC) | 3:01 | 2022-11-03 | 2023-02-03 |
 | [MK Nose](https://open.spotify.com/track/7dlznx1fY6ylydSB4aZp5t) | [Kelvin T](https://open.spotify.com/artist/5eKocRaHaAoxtdSAL1zDyT), [Takeem](https://open.spotify.com/artist/7xfeo24u8goKQRhKRj6MP1), [Qqbbg](https://open.spotify.com/artist/6ZmrXLpXLuqQRvZNvgHg1O) | [MK Nose](https://open.spotify.com/album/7aprLIUrc6j6iq3jtaveA4) | 2:29 | 2022-09-08 | 2023-03-18 |
+| [Moment](https://open.spotify.com/track/1JrKRCKVrTpLHYnTwlqeaO) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy), [PLAYGROUND](https://open.spotify.com/artist/6jcd1FALUEzaGDl7Syikem) | [heaven sent](https://open.spotify.com/album/34YNeXrm7G7S8Ikr8lIrv6) | 3:28 | 2024-04-25 |  |
 | [money play](https://open.spotify.com/track/6YDCFck24JvnnO1PNKV1Q4) | [SeeYouTmr](https://open.spotify.com/artist/2p1CsJyPqchYSy2wJO0JQX), [6moods](https://open.spotify.com/artist/7DdB9J02AwhmvbFG9qD5eI) | [money play](https://open.spotify.com/album/1Ckoc6qsvzkeCroh5FDAHK) | 2:07 | 2024-02-01 |  |
 | [Monsoon](https://open.spotify.com/track/4fKsTs4EEVirWN9NNswks8) | [J1M3](https://open.spotify.com/artist/4MKAuJc5O5O9en6ZZO5R5v), [黃浩琳](https://open.spotify.com/artist/4gEBX9EZfO1axr12JUzJwH) | [Monsoon](https://open.spotify.com/album/0ctCyFo8GsF9mXbc9EehCg) | 3:24 | 2022-10-13 | 2023-03-18 |
 | [More I Know](https://open.spotify.com/track/5ybNApdieMirwLYQG6r7zW) | [Gwyn](https://open.spotify.com/artist/1vqrJaMnLPeWiRp1oabfxR) | [More I Know](https://open.spotify.com/album/43iq31cloLsshhWfZWE7Oy) | 2:46 | 2023-02-23 | 2023-07-14 |
@@ -924,6 +928,7 @@
 | [臭西西女人](https://open.spotify.com/track/6YaK7a44wwHBmoiRbgpW3e) | [李三鳩](https://open.spotify.com/artist/10AU7r92ACndtTFKsDJTVm) | [臭西西女人](https://open.spotify.com/album/7ozJodyUY4f36OLGKMRSzG) | 2:34 | 2022-08-12 | 2022-11-04 |
 | [至關重要事情](https://open.spotify.com/track/1euRrLj1IkzAqBJBUk7bQE) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [至關重要事情](https://open.spotify.com/album/0ZjBvvLaQZnIspBPjVxp3Z) | 3:42 | 2023-05-11 | 2023-09-01 |
 | [航行者一號](https://open.spotify.com/track/6CZWYdD5QJOLl748QblWBD) | [Hedgehog](https://open.spotify.com/artist/1rDjU7YKKDhieHkjaJNbEO) | [航行者一號](https://open.spotify.com/album/5lsOqwsCxRSOKmPyIRuCxg) | 3:20 | 2023-03-30 | 2023-07-14 |
+| [花開有毒](https://open.spotify.com/track/0bZU5NSgkGKnQyHrC86WJa) | [BONBON](https://open.spotify.com/artist/20nbtZQKG25u7aYv9dgviq) | [花開有毒](https://open.spotify.com/album/0rQ10oGPwQJXoqp5ChDpnr) | 3:23 | 2024-04-25 |  |
 | [荒謬](https://open.spotify.com/track/2ffz1KYTxcH0szaFI7FPyv) | [Lester Chong](https://open.spotify.com/artist/1r19EpaTIboSLEJFgJ4Y4p) | [ZiNG!](https://open.spotify.com/album/238I1dAZg6aMYIazEk4eiv) | 3:48 | 2022-05-26 | 2022-07-29 |
 | [落](https://open.spotify.com/track/6y7fatGRm0Z8aPA4lg137f) | [Zelos Wong 黃凱逸](https://open.spotify.com/artist/7q8BUwEEDO6iayv3AUq9bv) | [落](https://open.spotify.com/album/6a4yDv2n8sz3xFBOETb6BF) | 3:54 | 2023-10-26 | 2024-01-05 |
 | [落雨一齊留係屋企](https://open.spotify.com/track/79bMWIVziDRCDF85zta9Zb) | [NatS](https://open.spotify.com/artist/367T9M6uiP4jr6u5DtMD1l), [5gjm999](https://open.spotify.com/artist/06M2LuWYlrYVjg0guNWZJb) | [落雨一齊留係屋企](https://open.spotify.com/album/00ckJrDa0KH5gDjZjDAIkE) | 3:19 | 2023-10-19 | 2024-01-05 |

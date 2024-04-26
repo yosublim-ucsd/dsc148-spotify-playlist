@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: <a href="spotify:artist:4VMYDCV2IEDYJArk749S6m">Daddy Yankee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 598,106 likes - 108 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 598,227 likes - 108 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 56 | [Emanuel](https://open.spotify.com/track/5n8Hp42nZLXEK29gjCm1J1) | [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h), [Yvonne Muñoz](https://open.spotify.com/artist/5eF9oy3uIgTMRIX3xkAfGi) | [LA MESA](https://open.spotify.com/album/6YQ7BHSUUW6g7XqvPLHBBu) | 13:49 |
 | 57 | [Siempre que me mires](https://open.spotify.com/track/11Pt5mS9HuvdDBTjWNg9k9) | [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I) | [Siempre que me mires](https://open.spotify.com/album/3knmq4NaWuetopY1eSsLH3) | 9:20 |
 | 58 | [Ven Manifiéstate](https://open.spotify.com/track/3szLV66DcjeMUepvDLnSt3) | [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [Ven Manifiéstate](https://open.spotify.com/album/27ytu5xJsNG05fpEgryJOS) | 10:18 |
-| 59 | [En Tu Luz](https://open.spotify.com/track/07T6LB4Og4VcO2ldZ19rcv) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/3pCe7Gj6z1I1g8bi9lYVpD), [Enrique Bremer](https://open.spotify.com/artist/7qsRGFbPpZ353KE58HrLnP), [Anabel Zubillaga](https://open.spotify.com/artist/4RxaKrP7A7sA8ueEtJQst7) | [En Tu Luz](https://open.spotify.com/album/1bWAUo2uYM6X9jDhjn6x5q) | 5:43 |
+| 59 | [En Tu Luz](https://open.spotify.com/track/07T6LB4Og4VcO2ldZ19rcv) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb), [Enrique Bremer](https://open.spotify.com/artist/7qsRGFbPpZ353KE58HrLnP), [Anabel Zubillaga](https://open.spotify.com/artist/4RxaKrP7A7sA8ueEtJQst7) | [En Tu Luz](https://open.spotify.com/album/1bWAUo2uYM6X9jDhjn6x5q) | 5:43 |
 | 60 | [Superpoderes](https://open.spotify.com/track/2iYbQogIZK1KkeF1gdAH6o) | [Gocho](https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5) | [Superpoderes](https://open.spotify.com/album/2ws1rydosDqGsoz93MFu9t) | 3:53 |
 | 61 | [Vida Entera](https://open.spotify.com/track/6XPBzkZhTkExDvmAoNNIfg) | [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR), [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM), [MR\. Yeison](https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6) | [Vida Entera](https://open.spotify.com/album/3GR6VDh5t9VOJRUUZ54V95) | 3:42 |
 | 62 | [Viaje perfecto](https://open.spotify.com/track/5JNFL9oSbuiRQXsr3mSZNm) | [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [El Primogénito](https://open.spotify.com/album/0uYvYHqWWh0Vo0f6xzuPUV) | 3:22 |

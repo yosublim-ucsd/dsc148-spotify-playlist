@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Gary Clark Jr.
 
-285 songs - 16 hr 42 min
+286 songs - 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Desperate Man](https://open.spotify.com/track/4ywVTebmjELCH05LeBdDZ2) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Love In The Wildwood](https://open.spotify.com/album/53OqnaD6nNUuddnhpGV7lF) | 3:32 | 2023-05-12 | 2024-04-19 |
 | [Don't Tell Me No Lies](https://open.spotify.com/track/7dpiJiCnguTuTjcKORxfpt) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Don't Tell Me No Lies](https://open.spotify.com/album/1rQb95a3OAbZ0fNlm0nFn5) | 2:27 | 2021-05-14 | 2022-05-07 |
 | [Double Life](https://open.spotify.com/track/4rrunCmiAMZvC9hAZ9EEr9) | [SPELLES](https://open.spotify.com/artist/76UfJrb52tTTiDQNWEeCBY) | [Diving Into the Arms of the Divine](https://open.spotify.com/album/6zQOhCl7CaatexcxuncqxK) | 4:16 | 2023-11-17 |  |
+| [Downtown Boogie](https://open.spotify.com/track/1axZoN44fNeN8RkmuybpVo) | [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Letters from a Black Widow](https://open.spotify.com/album/4YJpoX2zeOy7maGeN2Sa14) | 3:56 | 2024-04-12 |  |
 | [Dreaming Out Loud \[Feat\. Ivan Neville, Ruthie Foster\]](https://open.spotify.com/track/0t4WzuwZWExGugFY2WM4dK) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708), [Ivan Neville](https://open.spotify.com/artist/0xHoBLKrp48wAlwpy54lRv), [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [Dreaming Out Loud](https://open.spotify.com/album/3kjYjBpTV0C2gPHpUgAm35) | 4:38 | 2023-04-07 |  |
 | [Everything You Need](https://open.spotify.com/track/2IJ7JF3Sva50EgrbCVcWW1) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Everything You Need](https://open.spotify.com/album/3yM6APa7fwLuGC4RLDmnGB) | 3:38 | 2021-06-11 | 2022-05-07 |
 | [Evil on the Inside](https://open.spotify.com/track/7wo0vrDt5C7xS0J4UHyHIP) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [Evil on the Inside](https://open.spotify.com/album/7wMcL7V8JOdOeMQFTDg9yX) | 3:31 | 2023-10-13 |  |

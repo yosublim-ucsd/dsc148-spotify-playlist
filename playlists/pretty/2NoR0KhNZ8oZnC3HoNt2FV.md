@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2NoR0KhNZ8oZnC3HoNt2FV.md) - [plain]
 
 > We Don't Trust You + We Still Don't Trust You
 
-[PlayStation®️](https://open.spotify.com/user/playstation_music) - 227,826 likes - 701 songs - 1 day 15 hr 43 min
+[PlayStation®️](https://open.spotify.com/user/playstation_music) - 227,843 likes - 701 songs - 1 day 15 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/2NoR0KhNZ8oZnC3HoNt2FV.md) - [plain]
 | 38 | [Bad Bitch](https://open.spotify.com/track/73xrEvZAv5p4AalSpYSYgP) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Bad Bitch](https://open.spotify.com/album/47sdHvCWzCbtMZtRMirlfb) | 1:54 |
 | 39 | [Finesse](https://open.spotify.com/track/7FCBaE2gGhlWUzUaROPqoV) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [2 Slippery](https://open.spotify.com/album/4C0ygkaQ743p2qKoJSfkmk) | 2:09 |
 | 40 | [Secrets](https://open.spotify.com/track/0Bn39rVvLKs1sVV5bHyhqJ) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [Secrets](https://open.spotify.com/album/7IloJMuP7iZoBHCmN0IVSR) | 2:28 |
-| 41 | [UP, LIT\. FREESTYLE](https://open.spotify.com/track/5otwYoHr4ML9vOLfpoDPaU) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [UP, LIT\. FREESTYLE](https://open.spotify.com/album/0yfQ1iNGmgIaQqJlqcO1HZ) | 1:56 |
+| 41 | [UP, LIT.](https://open.spotify.com/track/5otwYoHr4ML9vOLfpoDPaU) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [UP, LIT.](https://open.spotify.com/album/0yfQ1iNGmgIaQqJlqcO1HZ) | 1:57 |
 | 42 | [Green Carpet](https://open.spotify.com/track/4OYy7dfHbLKi4lvpzpzeRv) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Green Carpet](https://open.spotify.com/album/7MZCu883H2Y7Br2K9Wd3Ef) | 2:13 |
 | 43 | [Gin & Juice \(feat\. BigXthaPlug\)](https://open.spotify.com/track/2EA5h6XD8KB070waaoclje) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Gin & Juice \(feat\. BigXthaPlug\)](https://open.spotify.com/album/1fOnjWaTMtIgKfFxNq78e2) | 3:11 |
 | 44 | [I Will](https://open.spotify.com/track/27sKtH0PZpASkN8H3ZJOQf) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [I Will](https://open.spotify.com/album/17YWNPXw7xDsLqC6ES3Ysj) | 2:29 |

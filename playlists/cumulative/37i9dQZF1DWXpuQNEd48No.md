@@ -4,7 +4,7 @@
 
 > Yo Hai Haryanvi Hip\-Hop! Cover: Dhanda Nyoliwala
 
-225 songs - 11 hr 56 min
+226 songs - 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Badmash](https://open.spotify.com/track/59NeNxSve36qM7JRHVdD6G) | [KD](https://open.spotify.com/artist/0RPNJNnaW9YEmWCHtL5Yo2) | [Badmash](https://open.spotify.com/album/1Aa0LC60RZzl1qGSjyTbvI) | 5:56 | 2023-09-27 |  |
 | [Badmos Chora](https://open.spotify.com/track/1aN0nqXAM5fgrsmltCMUgq) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [Mtv Hustle 2.0](https://open.spotify.com/album/2WbTyQKy64ReQPkxN4pR8R) | 2:21 | 2023-07-11 | 2023-12-15 |
 | [Badmos Chora](https://open.spotify.com/track/1J8WBxWTvYlmFSoQyQWoN9) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [Hustle 2.0](https://open.spotify.com/album/1IaOxCVpa6TckpUwp6LdXS) | 2:24 | 2023-03-28 | 2023-07-16 |
+| [Badnam Rahn De](https://open.spotify.com/track/3UbPkYdJ6JYyMhIrMOmOmX) | [Amit Saini Rohtakiya](https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b), [Twinkle Arora](https://open.spotify.com/artist/3mZZ6FLNA4AX7nOVzJtyWk) | [Badnam Rahn De](https://open.spotify.com/album/6vclzmlemEYAQEh5yujukN) | 2:58 | 2024-04-24 |  |
 | [Bagdadi](https://open.spotify.com/track/56kDXRd6Yy2w7034LaOwJN) | [Semicolon](https://open.spotify.com/artist/1MWKy0Hucv9MInRiOf0Duh), [Amanraj Gill](https://open.spotify.com/artist/07hzX8SH6CEg7B2yl4hoKs) | [Bagdadi](https://open.spotify.com/album/54VGUtzXIowOk9m3NPOCpW) | 2:50 | 2023-09-27 |  |
 | [Balak Gaama Ke](https://open.spotify.com/track/1ze9e3pkjdU9z6R7jPKuvN) | [Hallu Mandiaala](https://open.spotify.com/artist/5hXwj2AU0GkQlBvj6rLPLE), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [Micky Arora](https://open.spotify.com/artist/3pNyr50xc7VeBWTyhM14Sy) | [Balak Gaama Ke](https://open.spotify.com/album/4fPKkFkpNkPo7752kqqfbk) | 2:36 | 2023-09-08 | 2024-02-24 |
 | [BANDEKHANI](https://open.spotify.com/track/0Yly2vTZ58vOK2pbRbTAhx) | [Ricky Singh](https://open.spotify.com/artist/7dC0vBjsZRfnAbl5MDjWjm), [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf) | [BANDEKHANI](https://open.spotify.com/album/7jfDVnMgbgUXhiqa9PvU64) | 3:09 | 2023-12-14 | 2024-02-08 |
@@ -198,7 +199,7 @@
 | [Saat Samunder](https://open.spotify.com/track/40PqdL77XGJjupj7ZP5YQ4) | [Khatri](https://open.spotify.com/artist/4FQHBinqrB0cMp6SaS06rB), [Upasna Gahlot](https://open.spotify.com/artist/74TLOJfpTu8VtgXi9df557), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me) | [Saat Samunder](https://open.spotify.com/album/4mdHqn673uePpSOYKA8423) | 2:46 | 2023-04-03 | 2023-06-06 |
 | [Sajan Ji](https://open.spotify.com/track/5JmDKw06xkMXfS2HNqTFLg) | [Manish Rawal](https://open.spotify.com/artist/5BMrVOkeM7YwsNjhanu1Zb), [Subtrax](https://open.spotify.com/artist/7M3N0IjvgrSOqFa3Byfgks) | [Sajan Ji](https://open.spotify.com/album/3iaBNIPxe33bVQq4lSdNk8) | 3:05 | 2023-04-28 | 2023-06-23 |
 | [Sarpanchi](https://open.spotify.com/track/1pOc0yVstj8V2BvK5UYgqw) | [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM), [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Sarpanchi](https://open.spotify.com/album/6wRtFnB9JX7iH2NHgPiCNS) | 3:30 | 2023-03-28 |  |
-| [Scorpio](https://open.spotify.com/track/3rXYmSlhnrbQRq6DmH63Zz) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Khyati Sharma](https://open.spotify.com/artist/5FFNybwjWfaPZZ8SXDR2a7) | [Scorpio](https://open.spotify.com/album/5roOwIcUakxTCqdy756NEU) | 2:41 | 2024-04-18 |  |
+| [Scorpio](https://open.spotify.com/track/3rXYmSlhnrbQRq6DmH63Zz) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Khyati Sharma](https://open.spotify.com/artist/5FFNybwjWfaPZZ8SXDR2a7) | [Scorpio](https://open.spotify.com/album/5roOwIcUakxTCqdy756NEU) | 2:41 | 2024-04-18 | 2024-04-26 |
 | [Send Em All](https://open.spotify.com/track/5e4QV2H6WivjVNtgwlRST2) | [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY), [Prodbysoundscape](https://open.spotify.com/artist/43ttS6rFRzusm2okv9LDqX) | [Send Em All](https://open.spotify.com/album/6Tqae1pOFsveb3sHQRrKO1) | 3:38 | 2024-02-23 | 2024-03-16 |
 | [Shareef Bande](https://open.spotify.com/track/5NvY1yfoncIR6i1uhiUa02) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0), [Namayoho Studio](https://open.spotify.com/artist/56wgaEDkjpz1i3Sr9AlJh8) | [Shareef Bande](https://open.spotify.com/album/3ZEUGpvxsAKyzikdO3TC3I) | 3:11 | 2023-05-15 | 2023-09-28 |
 | [Sheesha](https://open.spotify.com/track/0aFLaSo21GazAKoZDooDuc) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Sheesha](https://open.spotify.com/album/3H2mp5opnTBnWbFYQlxEaT) | 3:37 | 2023-03-28 |  |

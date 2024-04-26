@@ -1,5 +1,5 @@
 {
-  "2024-04-25": 26250,
+  "2024-04-26": 26266,
   "date_first_scraped": "2022-08-06",
   "description": "This is Howlin' Wolf. The essential tracks, all in one playlist.",
   "name": "This Is Howlin' Wolf",
@@ -89,7 +89,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 173533,
       "name": "Back Door Man",
       "url": "https://open.spotify.com/track/10HdfEE0sausAJu8HJD3Dp"
@@ -143,7 +143,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 154800,
       "name": "Can't Stay Here",
       "url": "https://open.spotify.com/track/4jc0aen6yCOI0EEvyqDANp"
@@ -197,7 +197,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 210626,
       "name": "Change My Way - Single Version",
       "url": "https://open.spotify.com/track/2gpHx8H04p8Va4ar8VJojx"
@@ -501,7 +501,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 155226,
       "name": "Dorothy Mae",
       "url": "https://open.spotify.com/track/3qpXAvpugJc1V96bs06blC"
@@ -591,7 +591,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-22",
+      "date_removed": null,
       "duration_ms": 170000,
       "name": "Forty Four",
       "url": "https://open.spotify.com/track/02Ub2Xv4Vs3UEthDciGPvq"
@@ -1143,7 +1143,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-24",
+      "date_removed": null,
       "duration_ms": 174093,
       "name": "I'm The Wolf",
       "url": "https://open.spotify.com/track/1q16Hi8bxSD1DGbMH01lUT"
@@ -1323,7 +1323,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 149400,
       "name": "Little Red Rooster",
       "url": "https://open.spotify.com/track/22o1qy3iZ7CyXUdK6BIf2n"
@@ -1403,7 +1403,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 176573,
       "name": "Moanin' At Midnight",
       "url": "https://open.spotify.com/track/0nWFmSvTZmgxGKFxodXgIq"
@@ -1511,7 +1511,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 155133,
       "name": "My Country Sugar Mama",
       "url": "https://open.spotify.com/track/04gLynZwUgqOsir1nK35Fz"
@@ -1901,7 +1901,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 155360,
       "name": "Sitting On Top Of The World",
       "url": "https://open.spotify.com/track/1HJvxhYzcw6c5cwRsRCYA5"
@@ -1953,7 +1953,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-23",
+      "date_removed": null,
       "duration_ms": 188400,
       "name": "Smokestack Lightnin'",
       "url": "https://open.spotify.com/track/2HUZVffVPXvqnrml0gXggp"
@@ -2221,7 +2221,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-24",
+      "date_removed": null,
       "duration_ms": 177000,
       "name": "Well That's All Right",
       "url": "https://open.spotify.com/track/36bsXDDm8bOpAH9ESVxcN5"
@@ -2333,7 +2333,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-24",
+      "date_removed": null,
       "duration_ms": 146173,
       "name": "Who's Been Talking?",
       "url": "https://open.spotify.com/track/7aHS9MdIBgmkedKRFhjFEK"
@@ -2493,7 +2493,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 191640,
       "name": "You Can't Be Beat - Single Version",
       "url": "https://open.spotify.com/track/0ZkCiuzIOa8g63BbesjHNM"

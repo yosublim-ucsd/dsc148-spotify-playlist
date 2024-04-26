@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/67KPAwywwB3tMXvmNJXPeL?si=3ukoZ-_qTRKJGhVfoYqfSA\">Ney</a>",
+  "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL?si=wxM6QMhfR7OE-g-Mu1aYbA\">Blxckie</a>, <a href=\"https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP?si=giaLAxxFTfedS8SFxP4CKg\">A-Reece</a>",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -72,7 +72,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 195492,
       "name": "018",
       "url": "https://open.spotify.com/track/7vaW4NJiToSP1iretmDZq4"
@@ -498,7 +498,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 202750,
       "name": "Adawise",
       "url": "https://open.spotify.com/track/2u9E7r2kQCQxCU0x7SqJXt"
@@ -753,6 +753,24 @@
     },
     {
       "album": {
+        "name": "Amakhulu\u2018amawaka",
+        "url": "https://open.spotify.com/album/08S6yKc2xxkzU7X5Y8EPCb"
+      },
+      "artists": [
+        {
+          "name": "Flash Ikumkani",
+          "url": "https://open.spotify.com/artist/2XK36sugVIN5x79ytKdd6X"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208052,
+      "name": "Amakhulu\u2018amawaka",
+      "url": "https://open.spotify.com/track/21DS8gXuiF9Uob6RRQUKEM"
+    },
+    {
+      "album": {
         "name": "Amaqwa",
         "url": "https://open.spotify.com/album/3fXyDjTPFjjA8lKkyh6qgt"
       },
@@ -908,6 +926,24 @@
       "duration_ms": 164571,
       "name": "Another",
       "url": "https://open.spotify.com/track/0SB82LlvRKEbwHOcnYA7lu"
+    },
+    {
+      "album": {
+        "name": "Another Day Another Dollar (Tholi Mali)",
+        "url": "https://open.spotify.com/album/02nZwLlvvn6RvuSlvbcW5W"
+      },
+      "artists": [
+        {
+          "name": "scumie",
+          "url": "https://open.spotify.com/artist/1MS9NVxu3xtH95mRsi7g36"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181020,
+      "name": "Another Day Another Dollar (Tholi Mali)",
+      "url": "https://open.spotify.com/track/3gfSLbTXJENmq8uRlr64Fu"
     },
     {
       "album": {
@@ -1212,6 +1248,28 @@
       "duration_ms": 160000,
       "name": "BABY BLUE 4\u2019s",
       "url": "https://open.spotify.com/track/1gFRWEKDNZAtrb1P4g7QHq"
+    },
+    {
+      "album": {
+        "name": "BABY JACKSON",
+        "url": "https://open.spotify.com/album/4Hc4dP1qHW62OMcekMkPAp"
+      },
+      "artists": [
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        },
+        {
+          "name": "A-Reece",
+          "url": "https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126942,
+      "name": "BABY JACKSON",
+      "url": "https://open.spotify.com/track/6Y7t0IzxHdPAIbEVssTW6V"
     },
     {
       "album": {
@@ -2910,7 +2968,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 214796,
       "name": "Coffee Shop In Rosebank",
       "url": "https://open.spotify.com/track/6Pu3lyI7V6Npt8wNshCYnO"
@@ -3110,6 +3168,32 @@
       "duration_ms": 168750,
       "name": "Couldn't Have Said It Better, Pt. 3",
       "url": "https://open.spotify.com/track/2707FUsKLBJHDznDXAM1ea"
+    },
+    {
+      "album": {
+        "name": "Fresh Prince of Rustenburg 2",
+        "url": "https://open.spotify.com/album/2CC9cHv0sDGX9aRpCWHLjd"
+      },
+      "artists": [
+        {
+          "name": "Luna Florentino",
+          "url": "https://open.spotify.com/artist/3qgDJXJmuGCfHwWB8cR1oS"
+        },
+        {
+          "name": "Emtee",
+          "url": "https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr"
+        },
+        {
+          "name": "Manu WorldStar",
+          "url": "https://open.spotify.com/artist/4P9liSYQDYgABacn43YzV4"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240015,
+      "name": "COUNT iT UP",
+      "url": "https://open.spotify.com/track/3Vr7tXmO2Ql8tejMyONEkf"
     },
     {
       "album": {
@@ -4571,6 +4655,28 @@
     },
     {
       "album": {
+        "name": "Free Dem Boys",
+        "url": "https://open.spotify.com/album/4u4EGydfWFihX5X8ZMHC43"
+      },
+      "artists": [
+        {
+          "name": "Divine Wayne",
+          "url": "https://open.spotify.com/artist/581afE9VFyhaaSu3ruuMIA"
+        },
+        {
+          "name": "Kashcpt",
+          "url": "https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205927,
+      "name": "Free Dem Boys",
+      "url": "https://open.spotify.com/track/1NpGrYKNszWuKDmRrRSye7"
+    },
+    {
+      "album": {
         "name": "Friday the 13th",
         "url": "https://open.spotify.com/album/2SjmDiTavUrTHnIeeuZOz0"
       },
@@ -5581,6 +5687,24 @@
     },
     {
       "album": {
+        "name": "HERMOSA",
+        "url": "https://open.spotify.com/album/0CXl1YrSnutN5vGvBf6Vrw"
+      },
+      "artists": [
+        {
+          "name": "Ason",
+          "url": "https://open.spotify.com/artist/3I1qHxOUgI1EeWBKhU6pCa"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108225,
+      "name": "HERMOSA",
+      "url": "https://open.spotify.com/track/2rngTjD3TltOi0Yoz9ZcEI"
+    },
+    {
+      "album": {
         "name": "INDICA",
         "url": "https://open.spotify.com/album/7BncNIyyruIRxRCtwz5zjY"
       },
@@ -5702,7 +5826,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 182117,
       "name": "HOLD MY HAND",
       "url": "https://open.spotify.com/track/45DJyRDn1vaK12izAzbIxL"
@@ -6252,7 +6376,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 220041,
       "name": "Inkumbulo",
       "url": "https://open.spotify.com/track/1xL5DE9xNucOz9K2t7Q7IH"
@@ -6434,7 +6558,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 245294,
       "name": "iStylie Galore",
       "url": "https://open.spotify.com/track/3010VEKhRjgeAFJWOlNDSR"
@@ -7026,7 +7150,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 253946,
       "name": "Kutsa",
       "url": "https://open.spotify.com/track/6agL67tYcLo0pBkowC0i9q"
@@ -7636,7 +7760,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 247960,
       "name": "LIKE THIS",
       "url": "https://open.spotify.com/track/2DDHFzK8hrJnyBICEft8sT"
@@ -8076,6 +8200,24 @@
       "duration_ms": 270422,
       "name": "Mali Eningi",
       "url": "https://open.spotify.com/track/0JZp4oaeyRMmCC5QTx1N7R"
+    },
+    {
+      "album": {
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/4nB1Ykb7qPrZNZUXlSWQwg"
+      },
+      "artists": [
+        {
+          "name": "Given Da Chief",
+          "url": "https://open.spotify.com/artist/4LhhZtFrNLid7dqnqIy0QV"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169520,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/6QjHkQQv7JJlskkFVKDfbT"
     },
     {
       "album": {
@@ -10500,7 +10642,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 212682,
       "name": "Prosper In Peace (with Benny The Butcher)",
       "url": "https://open.spotify.com/track/70CWmghvBEJteWKBc8ZWPd"
@@ -11058,7 +11200,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 177999,
       "name": "Runnin' Back (feat. Sauwcy)",
       "url": "https://open.spotify.com/track/5aUEEg5t2pewsDNnbKdOir"
@@ -11084,7 +11226,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 239680,
       "name": "Rutle",
       "url": "https://open.spotify.com/track/56nWC7rXvOiELS4dN9jMJ2"
@@ -11852,7 +11994,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 157674,
       "name": "Shisha",
       "url": "https://open.spotify.com/track/1pARdNL0rnflCKtrTtCmD0"
@@ -11948,6 +12090,32 @@
       "duration_ms": 215040,
       "name": "Sijimile",
       "url": "https://open.spotify.com/track/1PY5vSBLfpIh79JFywPTlt"
+    },
+    {
+      "album": {
+        "name": "SIKE",
+        "url": "https://open.spotify.com/album/2WzSAfkDKxsrwd57ywBtj4"
+      },
+      "artists": [
+        {
+          "name": "BhutTLegend",
+          "url": "https://open.spotify.com/artist/1NbjqyykOhk1LKQKWmxCW8"
+        },
+        {
+          "name": "BhutLegend",
+          "url": "https://open.spotify.com/artist/25BCKfqdyR3hrL0uaQyhAp"
+        },
+        {
+          "name": "Tony Dayimane",
+          "url": "https://open.spotify.com/artist/61JGKpmRAgud7VaFpgesxi"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201540,
+      "name": "SIKE",
+      "url": "https://open.spotify.com/track/1MaUv4mvshAe1euJs31TFh"
     },
     {
       "album": {
@@ -13928,7 +14096,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 157241,
       "name": "Tip of the Spear (Main Title)",
       "url": "https://open.spotify.com/track/5hlgScQ9xyt2YmMME9G1TP"

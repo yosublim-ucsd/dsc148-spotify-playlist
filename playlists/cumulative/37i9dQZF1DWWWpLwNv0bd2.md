@@ -2,7 +2,7 @@
 
 ### [Latest Love Tamil](https://open.spotify.com/playlist/37i9dQZF1DWWWpLwNv0bd2)
 
-> Check out the Latest Romance Tracks.<br/>Cover : Captain Miller
+> Check out the Latest Romance Tracks.<br/>Cover : STAR
 
 226 songs - 14 hr 54 min
 

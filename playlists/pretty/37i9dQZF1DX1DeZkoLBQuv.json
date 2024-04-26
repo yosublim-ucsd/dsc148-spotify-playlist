@@ -1,6 +1,6 @@
 {
   "description": "Celebre o nascimento de Jesus com louvores natalinos!",
-  "num_followers": 8188,
+  "num_followers": 8189,
   "original_name": "Louvores de Natal",
   "owner": {
     "name": "Spotify",
@@ -555,26 +555,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "\u00d3, Vinde, Adoremos",
-        "url": "https://open.spotify.com/album/18SwXFPhxjgOzEnJERhcBd"
-      },
-      "artists": [
-        {
-          "name": "Altomonte",
-          "url": "https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu"
-        },
-        {
-          "name": "Zoe Lilly",
-          "url": "https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "\u00d3, Vinde, Adoremos",
-      "url": "https://open.spotify.com/track/5DVZUWNEIsKUq12krk7On2"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Gl\u00f3ria a Deus nas Alturas",
         "url": "https://open.spotify.com/album/3oNhHQUS1PmE0LM5Pyf3Pk"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 242192,
       "name": "Gl\u00f3ria a Deus nas Alturas",
       "url": "https://open.spotify.com/track/7AblmQzKpVtPTvbMznVBvA"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "\u00d3, Vinde, Adoremos",
+        "url": "https://open.spotify.com/album/18SwXFPhxjgOzEnJERhcBd"
+      },
+      "artists": [
+        {
+          "name": "Altomonte",
+          "url": "https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu"
+        },
+        {
+          "name": "Zoe Lilly",
+          "url": "https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "\u00d3, Vinde, Adoremos",
+      "url": "https://open.spotify.com/track/5DVZUWNEIsKUq12krk7On2"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -787,18 +787,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Folk Christmas",
-        "url": "https://open.spotify.com/album/0FzqPCxiw93GwXTou4IvZX"
+        "name": "#TBT",
+        "url": "https://open.spotify.com/album/53aePMus3r7215h43aChgx"
       },
       "artists": [
         {
-          "name": "Os Meireles",
-          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
+          "name": "7MUS",
+          "url": "https://open.spotify.com/artist/33yLLoQo58B1Sq7eTfXIU8"
+        },
+        {
+          "name": "Vitrine UNASP",
+          "url": "https://open.spotify.com/artist/0PLADEHVEWTRR5fuaK2FFK"
         }
       ],
-      "duration_ms": 171571,
-      "name": "Surgem Anjos Proclamando",
-      "url": "https://open.spotify.com/track/5pNlqLCLOabYZ4loPeomBL"
+      "duration_ms": 212175,
+      "name": "A Hist\u00f3ria de Cristo",
+      "url": "https://open.spotify.com/track/4sZZlZEn7UPPnhx9eymssz"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -823,22 +827,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "#TBT",
-        "url": "https://open.spotify.com/album/53aePMus3r7215h43aChgx"
+        "name": "Folk Christmas",
+        "url": "https://open.spotify.com/album/0FzqPCxiw93GwXTou4IvZX"
       },
       "artists": [
         {
-          "name": "7MUS",
-          "url": "https://open.spotify.com/artist/33yLLoQo58B1Sq7eTfXIU8"
-        },
-        {
-          "name": "Vitrine UNASP",
-          "url": "https://open.spotify.com/artist/0PLADEHVEWTRR5fuaK2FFK"
+          "name": "Os Meireles",
+          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
         }
       ],
-      "duration_ms": 212175,
-      "name": "A Hist\u00f3ria de Cristo",
-      "url": "https://open.spotify.com/track/4sZZlZEn7UPPnhx9eymssz"
+      "duration_ms": 171571,
+      "name": "Surgem Anjos Proclamando",
+      "url": "https://open.spotify.com/track/5pNlqLCLOabYZ4loPeomBL"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -915,18 +915,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "O Natal de Todos N\u00f3s",
-        "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
+        "name": "Bossa Christmas",
+        "url": "https://open.spotify.com/album/16g8Bf8U4YJg9tUlt7ACPq"
       },
       "artists": [
         {
-          "name": "Trio Nascimento",
-          "url": "https://open.spotify.com/artist/0nmfUUkYqGngUmVhJfGAFw"
+          "name": "Lagoinha Music",
+          "url": "https://open.spotify.com/artist/2zU9KvRIyqKppyGRam4lhG"
+        },
+        {
+          "name": "Crystal Pereira",
+          "url": "https://open.spotify.com/artist/5n232U3bmYM1Azax5Kz7zb"
         }
       ],
-      "duration_ms": 211440,
-      "name": "No Humilde Pres\u00e9pio (Away In a Manger)",
-      "url": "https://open.spotify.com/track/6FW7SRtspdfCTaTv4GM5j3"
+      "duration_ms": 243349,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/65d8Zuzcuvghb9YNdSSAoQ"
     }
   ],
   "unique_name": "Louvores de Natal",

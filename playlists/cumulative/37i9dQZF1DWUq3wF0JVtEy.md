@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-456 songs - 22 hr 21 min
+457 songs - 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 | 2021-10-29 | 2022-08-06 |
 | [Don't Be Shy](https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Don't Be Shy](https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA) | 2:20 | 2022-04-01 | 2022-08-06 |
 | [Don't Leave Me High \- SubSoda Remix](https://open.spotify.com/track/5X502Qx0RZ8qdvE0U2vojn) | [Ku De Ta](https://open.spotify.com/artist/39oQK5CtIHrU6EuaWtJpnU), [Nikki Ambers](https://open.spotify.com/artist/01PAM2LxCLL6tflnv7mbV7), [SubSoda](https://open.spotify.com/artist/5QQGUGslrAKpWDsBBixjar) | [Don't Leave Me High](https://open.spotify.com/album/1GKmqNTj64TYTgJJ2nWSsN) | 2:07 | 2024-01-12 | 2024-03-02 |
-| [Don't Say You Love Me](https://open.spotify.com/track/0UaV0TmHdXvihhsbZeeIG4) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [OBS](https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko) | [Don't Say You Love Me](https://open.spotify.com/album/5hGvwPfeqjW2wgOnPRcWn7) | 3:04 | 2022-08-12 |  |
+| [Don't Say You Love Me](https://open.spotify.com/track/0UaV0TmHdXvihhsbZeeIG4) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [OBS](https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko) | [Don't Say You Love Me](https://open.spotify.com/album/5hGvwPfeqjW2wgOnPRcWn7) | 3:04 | 2022-08-12 | 2024-04-26 |
 | [Don't Step On My Nikes](https://open.spotify.com/track/60rwDygmXmbkD5OVc508y9) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Carta](https://open.spotify.com/artist/3MTk6MUbUmV5X0N04N56JF) | [Don't Step On My Nikes](https://open.spotify.com/album/3IOrmd5uhcEwnLyWXEmM1d) | 2:36 | 2023-10-06 | 2023-11-13 |
 | [Don't Wanna](https://open.spotify.com/track/1pCriEGIU8StrJreMlk23u) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Kenneth G](https://open.spotify.com/artist/3qqvCq7mFIy9UfaXoj5w1w), [BRØHEIM](https://open.spotify.com/artist/7ufk7gxzogk76lK03i2ecd) | [Don't Wanna](https://open.spotify.com/album/3Wo0zmeNXZbJW6krYyyjJI) | 3:35 | 2023-11-10 | 2023-12-21 |
 | [Down Low](https://open.spotify.com/track/5jbz9ONajDOe1AW5c3ob5U) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [Ricky Ducati](https://open.spotify.com/artist/66OCo8OcuPNrW6QLfmn7PE), [Donnie Sloan](https://open.spotify.com/artist/4t95822Jv53tQJK2iS4dKt) | [Down Low](https://open.spotify.com/album/38O7LZ16jFp9RJ5BdCpFt0) | 2:41 | 2021-10-29 | 2022-11-12 |
@@ -457,6 +457,7 @@
 | [Wicked](https://open.spotify.com/track/0YOE11WL98noVE5ifw12KC) | [The Galaxy](https://open.spotify.com/artist/1a7aOqigZ5aWIaagMLlHC4) | [Wicked](https://open.spotify.com/album/0az7WFTJmmJdrdQvnGFl1d) | 2:37 | 2022-04-01 | 2022-07-14 |
 | [Wish He Knew](https://open.spotify.com/track/17QC7vLpqQBJ5dcT9kRrHO) | [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Wish He Knew](https://open.spotify.com/album/6irYxa4daxMivsPXfyp0Pl) | 2:37 | 2023-02-10 | 2023-11-10 |
 | [Wish You Were Here \(feat\. Brandyn Burnette\)](https://open.spotify.com/track/0GevQZGBPYjfPzK8e3jxzl) | [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [Brandyn Burnette](https://open.spotify.com/artist/14mErTJ0ubFVjx2zBAwjkE) | [Wish You Were Here \(feat\. Brandyn Burnette\)](https://open.spotify.com/album/56jh1XYw5wQcXmcnR46LRA) | 2:53 | 2021-10-29 | 2022-06-11 |
+| [Wolf](https://open.spotify.com/track/0MHVWtDog7jgL4zinfLohH) | [AKA AKA](https://open.spotify.com/artist/64fjAjykuM8Oc3Bqup4g72), [Shelley Segal](https://open.spotify.com/artist/3Is6CJbBt3YB6gDxnoNfiE) | [Wolf](https://open.spotify.com/album/5ApWVuuK9DZDBXVMbl0jUV) | 2:34 | 2024-04-19 |  |
 | [You Are My Life](https://open.spotify.com/track/51ecx8vfBmfo9maBzKDBfa) | [Chocolate Puma](https://open.spotify.com/artist/5Aw0IGM5JS3FuTgtRsDWGA), [Mike Cervello](https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3) | [You Are My Life](https://open.spotify.com/album/4XdIx8D65ziUGCnmV4jl1W) | 3:04 | 2021-10-29 | 2022-06-07 |
 | [You Ate That](https://open.spotify.com/track/7yzQDORKaih65753uwmR89) | [SQWAD](https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI), [The Melody Men](https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG) | [You Ate That](https://open.spotify.com/album/56zqI47aElXbKYSaJ6Ebzq) | 3:16 | 2024-04-12 |  |
 | [You Make Me](https://open.spotify.com/track/2NU8emSU0a5ZaSUU8onM3v) | [Holy Goof](https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU) | [You Make Me](https://open.spotify.com/album/6SYIKM4zSCnliHlKzyfsuy) | 3:22 | 2023-12-08 | 2024-03-02 |

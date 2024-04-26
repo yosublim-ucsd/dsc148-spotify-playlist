@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\. Cover: <a href="spotify:artist:6ygDlIilHZqielxxkvmIVH">J.P.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,438 likes - 80 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,572 likes - 80 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 68 | [Bleed about it](https://open.spotify.com/track/0bXXaPEsRIHpzvxw6JPo6u) | [Rot Ken](https://open.spotify.com/artist/64WnGi9H0Xc2RCGbjYAFd5) | [Kenny World Deluxe](https://open.spotify.com/album/186G03iM52cPFJdKvgDjRd) | 2:44 |
 | 69 | [Running Late](https://open.spotify.com/track/1CwnEKPRLebumbHmZ3yZly) | [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP) | [Running Late](https://open.spotify.com/album/1zNusgtKW9KGyCBsd2NMpq) | 2:07 |
 | 70 | [stephanie](https://open.spotify.com/track/3ngowGyxG1ZKzOAfPYqfL1) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [stephanie](https://open.spotify.com/album/1VBFEXrp29WLCxPCbtRj7b) | 2:23 |
-| 71 | [UP, LIT\. FREESTYLE](https://open.spotify.com/track/5otwYoHr4ML9vOLfpoDPaU) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [UP, LIT\. FREESTYLE](https://open.spotify.com/album/0yfQ1iNGmgIaQqJlqcO1HZ) | 1:56 |
+| 71 | [UP, LIT.](https://open.spotify.com/track/5otwYoHr4ML9vOLfpoDPaU) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [UP, LIT.](https://open.spotify.com/album/0yfQ1iNGmgIaQqJlqcO1HZ) | 1:57 |
 | 72 | [Snitch K](https://open.spotify.com/track/2f1G0cLnVkm6lwpOI6wAF1) | [Mello Buckzz](https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw) | [Snitch K](https://open.spotify.com/album/6hzXBPuCKjZJY5pzdwPjOH) | 2:48 |
 | 73 | [Lost Without U](https://open.spotify.com/track/3j9PrQ2tvVzkLhQcPPBFrf) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [Lost Without U](https://open.spotify.com/album/68BKLPF3wZi6NeV9qT7Ob2) | 3:38 |
 | 74 | [In Love](https://open.spotify.com/track/5Fivs2sPYb9iBQuk2s0my7) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn) | [In Love](https://open.spotify.com/album/4EK6xVgNdeawBeZ6vMTTbL) | 2:45 |

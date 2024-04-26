@@ -4,7 +4,7 @@
 
 > 
 
-309 songs - 14 hr 31 min
+311 songs - 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Den Här Är Till Er](https://open.spotify.com/track/4QihvZNdzxHc9Upqk7HFmC) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [Historien Dömer Oss Alla](https://open.spotify.com/album/4ZaG6S0IIZaUrsKk3U7vC2) | 4:18 | 2021-12-14 | 2022-07-29 |
 | [Den Här Är Till Er](https://open.spotify.com/track/4FU7skLnl1FpRIbFezJ0j1) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [Den Här Är Till Er](https://open.spotify.com/album/3l1A9HHdfzlRg6O4hdQ8OE) | 4:23 | 2021-12-14 | 2023-05-14 |
 | [Det borde fan var't jag](https://open.spotify.com/track/6nMC8j2DhFEUQmrYFtrHJ8) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Automatiskt](https://open.spotify.com/album/5Z7SWe9qj63UOVQu6cJCqU) | 2:19 | 2021-12-14 | 2022-05-14 |
-| [Det spelar ingen roll](https://open.spotify.com/track/0dUrBmCva4ajCAslQMYiyr) | [Norra Hospitalet](https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM) | [Bakom ljuset](https://open.spotify.com/album/0oD3URB9nBxNSI6p79HE5m) | 1:36 | 2021-12-14 |  |
+| [Det spelar ingen roll](https://open.spotify.com/track/0dUrBmCva4ajCAslQMYiyr) | [Norra Hospitalet](https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM) | [Bakom ljuset](https://open.spotify.com/album/0oD3URB9nBxNSI6p79HE5m) | 1:36 | 2021-12-14 | 2024-04-26 |
 | [Die Mauer](https://open.spotify.com/track/524avnOQAmyULv2CjQAmrn) | [Ebba Grön](https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9) | [Ebba Grön](https://open.spotify.com/album/3fZyzR2Qeu8d5h8FsejF1I) | 4:04 | 2021-12-14 |  |
 | [Dina ögon](https://open.spotify.com/track/0t5IihDPop70K6cdiaWiu4) | [Fabriken](https://open.spotify.com/artist/4NSYVBtc6AfoIpUgvXnWvT) | [Mot botten av ett hål](https://open.spotify.com/album/1DMtd1QajX2PwaL8Ac2F4u) | 3:11 | 2021-12-14 | 2022-07-25 |
 | [Dina ögon](https://open.spotify.com/track/1kwic7QBnCm9ybxq1MU5N2) | [Fabriken](https://open.spotify.com/artist/4NSYVBtc6AfoIpUgvXnWvT) | [Mot botten av ett hål](https://open.spotify.com/album/3VkXVn56aBAjhslETKDWx7) | 3:11 | 2023-12-14 | 2024-04-19 |
@@ -96,12 +96,13 @@
 | [Fattigdom suger!](https://open.spotify.com/track/3N95fYz6Eca4qx70rhudiq) | [Jönzzonligan](https://open.spotify.com/artist/24sBUpWpLgfDzwJq03Ph8S) | [Rösta på idioter](https://open.spotify.com/album/19L94PymfQ5cxCXUze5wS6) | 2:21 | 2021-12-14 |  |
 | [Feta Gubbar](https://open.spotify.com/track/0XwpJFzmXViS6TImtpv9lM) | [Sten & Stalin](https://open.spotify.com/artist/7xS4Uw7T0pNePx7S238bM9) | [Värdelös](https://open.spotify.com/album/4j1KS0IccBP03iFKJpj0qp) | 2:03 | 2021-12-14 | 2024-04-19 |
 | [Feta gubbar](https://open.spotify.com/track/1jDhCPlyVmJ68UJ85fYHLk) | [Sten & Stalin](https://open.spotify.com/artist/7xS4Uw7T0pNePx7S238bM9) | [Värdelös](https://open.spotify.com/album/3hyMLQZD8Obgjo5KTalhyb) | 2:03 | 2021-12-14 | 2022-07-28 |
-| [Fina flickor](https://open.spotify.com/track/7rvRQwCdQ6qoHRl5RHrkny) | [Räserbajs](https://open.spotify.com/artist/1mYHNZqRjNIlWwMgvIVq7X) | [Fina Flickor](https://open.spotify.com/album/19uXwtRZrDLAWIsmhgarLo) | 2:22 | 2021-12-14 |  |
+| [Fina flickor](https://open.spotify.com/track/7rvRQwCdQ6qoHRl5RHrkny) | [Räserbajs](https://open.spotify.com/artist/1mYHNZqRjNIlWwMgvIVq7X) | [Fina Flickor](https://open.spotify.com/album/19uXwtRZrDLAWIsmhgarLo) | 2:22 | 2021-12-14 | 2024-04-26 |
 | [Fina Flickor](https://open.spotify.com/track/7H69MJpL8m8QrpcBVMbEfr) | [Räserbajs](https://open.spotify.com/artist/1mYHNZqRjNIlWwMgvIVq7X) | [Noppriga Tights Och Moonboots](https://open.spotify.com/album/7Ej9w61IrbodhAxrNRXYTn) | 2:24 | 2021-12-14 | 2024-04-19 |
 | [Från Slagfältet](https://open.spotify.com/track/4DoEfa6vW0LQggJ4Xo10Bc) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Från Slagfältet](https://open.spotify.com/album/6FlbQWdSlqZbTQDBUHAGj4) | 2:48 | 2021-12-14 | 2022-07-28 |
 | [Färgblind](https://open.spotify.com/track/2P5RmWQ1D4U05M0GsAlBVA) | [MENUDÅ](https://open.spotify.com/artist/5D7o4OprxujXxLMdw5vYv8) | [Färgblind](https://open.spotify.com/album/44xX7pJ4mlnZ3V87CULPtO) | 2:37 | 2024-03-28 |  |
 | [Född Att Förlora](https://open.spotify.com/track/1xiTumVDynpu34QrVPUtV0) | [Stilett](https://open.spotify.com/artist/0XUnVZH89w9TtfZmaxnt6t) | [S/T](https://open.spotify.com/album/1EGIb8eUisTz0LJB7R6B5m) | 2:44 | 2021-12-14 |  |
 | [För Martyrernas Skull](https://open.spotify.com/track/3Cy5U9md9XXAqz99podfmp) | [Dia Psalma](https://open.spotify.com/artist/3CP5sRSk2ExHj3td5pXLrN) | [Re Voltere](https://open.spotify.com/album/3hRcLHBxqEakC2k7FuFwWG) | 3:32 | 2021-12-14 | 2022-06-28 |
+| [Förlorarna](https://open.spotify.com/track/6XVXlChzCSbdpMbkPIKFMx) | [Hata Som Lejon](https://open.spotify.com/artist/0Tdayxonpn7TNV0fNq1EMw) | [Förlorarna](https://open.spotify.com/album/3KeQBgt24FXOqtzEfpRJxT) | 3:11 | 2024-04-25 |  |
 | [Gamla ideal](https://open.spotify.com/track/2xDX2oOUlUJcNhJh7kqKhX) | [KSMB](https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71) | [Bland tomtar och troll](https://open.spotify.com/album/5qpQHc2lLSL8klOE7Yiyx0) | 3:22 | 2021-12-14 |  |
 | [Gehenna](https://open.spotify.com/track/3Am12OspqE3E2jvhtWYWLT) | [Råttorna](https://open.spotify.com/artist/2zpHM549kWRtsmmssXfhdV) | [Utan Titel](https://open.spotify.com/album/1zmw12ziUTvLvZ4mlmMeF4) | 1:50 | 2024-03-28 | 2024-04-19 |
 | [Gehenna](https://open.spotify.com/track/4oXCZ5OSTS8W4hAguOt6t6) | [Råttorna](https://open.spotify.com/artist/2zpHM549kWRtsmmssXfhdV) | [Utan Titel](https://open.spotify.com/album/03sEIVrDvh6QIwgvRk3lJe) | 1:50 | 2021-12-14 |  |
@@ -279,6 +280,7 @@
 | [Troll Och Häxor](https://open.spotify.com/track/6ly3rSnZYQqHP6qCVbMuuZ) | [De Lyckliga Kompisarna](https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd) | [Le Som En Fotomodell](https://open.spotify.com/album/1uL0v8dyKzZGeg1gT5QbjV) | 2:10 | 2021-12-14 | 2024-04-19 |
 | [Tuffa tjejer](https://open.spotify.com/track/54t6OXb9ULThYhHoluZd1s) | [Norra Hospitalet](https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM) | [Bara skiten avtar](https://open.spotify.com/album/3iBrrZEan24fG7L8gEp6mv) | 2:08 | 2023-12-14 | 2024-04-19 |
 | [Tuffa tjejer](https://open.spotify.com/track/68piTUx7iztTcalFvaXovc) | [Norra Hospitalet](https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM) | [Bara skiten avtar](https://open.spotify.com/album/7oJHyi9KpoJRKH5Ypxarcm) | 2:08 | 2021-12-14 |  |
+| [Tunneln](https://open.spotify.com/track/3IE3ejZvxHNZ1U02OqzWrD) | [Fruktansvärld](https://open.spotify.com/artist/3PMulePujdYBmQK4oVYxDO) | [Sisyfos](https://open.spotify.com/album/0lrUafceSqRFy8BLlsl8zk) | 3:04 | 2024-04-25 |  |
 | [Tyst för fan](https://open.spotify.com/track/6NJNjEVI1AU7UYIrUZTd1Y) | [Ebba Grön](https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9) | [Ebba Grön 1978 \- 1982](https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R) | 2:29 | 2021-12-14 |  |
 | [Tänk negativt](https://open.spotify.com/track/0C8VuNSqfWxkwKmVx8Spl9) | [Attentat](https://open.spotify.com/artist/78GFaTPk9W1HfaWvmoRO8n) | [Det blir som det blir](https://open.spotify.com/album/6ejXSnBxHRi9g5HuT1lMfj) | 2:31 | 2023-10-26 |  |
 | [Tänk negativt](https://open.spotify.com/track/49gKIBAd8nsGWGs8Aimouy) | [Attentat](https://open.spotify.com/artist/78GFaTPk9W1HfaWvmoRO8n) | [Tänk negativt](https://open.spotify.com/album/0f5LTeksAWDDcPSMzyNZE7) | 2:31 | 2023-09-28 | 2024-03-14 |

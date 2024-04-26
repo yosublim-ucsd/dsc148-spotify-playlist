@@ -16352,24 +16352,6 @@
     {
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1wbnnz5PKjCVkUZBBDHetm"
-      },
-      "artists": [
-        {
-          "name": "Trixie Mattel",
-          "url": "https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc"
-        }
-      ],
-      "date_added": "2024-04-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 177770,
-      "name": "See My Man - Spotify Singles",
-      "url": "https://open.spotify.com/track/5XjQzyzAbhVGeE4fQCFTaB"
-    },
-    {
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/221ORmKMPS8LdMDs3xcSFk"
       },
       "artists": [
@@ -16384,6 +16366,24 @@
       "duration_ms": 186272,
       "name": "See-Line Woman - Spotify Singles",
       "url": "https://open.spotify.com/track/5QTZD7iE8OARObb9egyphr"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1wbnnz5PKjCVkUZBBDHetm"
+      },
+      "artists": [
+        {
+          "name": "Trixie Mattel",
+          "url": "https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177770,
+      "name": "Seen My Man - Spotify Singles",
+      "url": "https://open.spotify.com/track/5XjQzyzAbhVGeE4fQCFTaB"
     },
     {
       "album": {

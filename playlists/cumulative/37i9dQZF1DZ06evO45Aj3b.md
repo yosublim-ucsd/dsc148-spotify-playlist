@@ -2,7 +2,7 @@
 
 ### [This Is Dominic Fike](https://open.spotify.com/playlist/37i9dQZF1DZ06evO45Aj3b)
 
-> This is Dominic Fike\. The essential tracks, all in one playlist.
+> This Is Dominic Fike\. Los temas esenciales, todos en una lista.
 
 32 songs - 1 hr 17 min
 

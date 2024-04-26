@@ -1,6 +1,6 @@
 {
   "description": "A place for hyphenated Americans, creating our own identity & connecting to our roots. Cover: Ivan Cornejo",
-  "num_followers": 7070,
+  "num_followers": 7068,
   "original_name": "Hyphenated",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-01-29 17:19:17",
       "album": {
+        "name": "Siempre Tendr\u00e9 Mi Voz",
+        "url": "https://open.spotify.com/album/2c8dGA6npi8KtLB8fJqFr4"
+      },
+      "artists": [
+        {
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+        }
+      ],
+      "duration_ms": 165300,
+      "name": "Siempre Tendr\u00e9 Mi Voz",
+      "url": "https://open.spotify.com/track/54wJFzt61TudRFI8y49xWu"
+    },
+    {
+      "added_at": "2024-01-29 17:19:17",
+      "album": {
         "name": "\u00bfQu\u00e9 Nos Pas\u00f3?",
         "url": "https://open.spotify.com/album/1DWrE8Xky9itsV13fWyPEJ"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 239780,
       "name": "\u00bfQu\u00e9 Nos Pas\u00f3?",
       "url": "https://open.spotify.com/track/3HFoiMqUstpjKGuCnAYQ2U"
-    },
-    {
-      "added_at": "2024-01-29 17:19:17",
-      "album": {
-        "name": "Siempre Tendr\u00e9 Mi Voz",
-        "url": "https://open.spotify.com/album/2c8dGA6npi8KtLB8fJqFr4"
-      },
-      "artists": [
-        {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
-        }
-      ],
-      "duration_ms": 165300,
-      "name": "Siempre Tendr\u00e9 Mi Voz",
-      "url": "https://open.spotify.com/track/54wJFzt61TudRFI8y49xWu"
     },
     {
       "added_at": "2024-01-29 17:19:17",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-01-29 17:19:17",
       "album": {
+        "name": "HOLY WATER",
+        "url": "https://open.spotify.com/album/7ibXmW6H7m9ypNAlJXCO8y"
+      },
+      "artists": [
+        {
+          "name": "Yoandri",
+          "url": "https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d"
+        }
+      ],
+      "duration_ms": 207665,
+      "name": "HOLY WATER",
+      "url": "https://open.spotify.com/track/5Vu2AUQgliS6r2GxIplfUG"
+    },
+    {
+      "added_at": "2024-01-29 17:19:17",
+      "album": {
         "name": "guestlist",
         "url": "https://open.spotify.com/album/2of4vbeGS8Fp7ylj6H5tJ9"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 184615,
       "name": "Coraz\u00f3n Da\u00f1ado",
       "url": "https://open.spotify.com/track/0ft4G7aJUXgPQ0i3UFKu29"
-    },
-    {
-      "added_at": "2024-01-29 17:19:17",
-      "album": {
-        "name": "HOLY WATER",
-        "url": "https://open.spotify.com/album/7ibXmW6H7m9ypNAlJXCO8y"
-      },
-      "artists": [
-        {
-          "name": "Yoandri",
-          "url": "https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d"
-        }
-      ],
-      "duration_ms": 207665,
-      "name": "HOLY WATER",
-      "url": "https://open.spotify.com/track/5Vu2AUQgliS6r2GxIplfUG"
     },
     {
       "added_at": "2024-01-29 17:19:17",

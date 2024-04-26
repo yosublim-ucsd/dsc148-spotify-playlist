@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-05",
-  "description": "The future of African Indie and Alternative. Cover: Sio",
+  "description": "The future of African Indie and Alternative. Cover: Spoek Mathambo",
   "name": "ALTER-native",
   "tracks": [
     {
@@ -24,6 +24,24 @@
       "duration_ms": 161828,
       "name": "'00 Nostalgia",
       "url": "https://open.spotify.com/track/5lF0OJHp09PfZofnC9ZrBH"
+    },
+    {
+      "album": {
+        "name": "STAIN",
+        "url": "https://open.spotify.com/album/0adY7o9S6oZpjo0U950aPG"
+      },
+      "artists": [
+        {
+          "name": "Angel-Ho",
+          "url": "https://open.spotify.com/artist/39TepozBC9n9EZrCL6jYpS"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236185,
+      "name": "Absolutley Flawless",
+      "url": "https://open.spotify.com/track/6bCQemKOoLGAs34kasSQke"
     },
     {
       "album": {
@@ -144,6 +162,24 @@
       "duration_ms": 140204,
       "name": "BAD 4 ME",
       "url": "https://open.spotify.com/track/0TWD1o0jWsTJmJuieyoucS"
+    },
+    {
+      "album": {
+        "name": "Be The One",
+        "url": "https://open.spotify.com/album/1iw0ZK3YudlgGU6k8xi2Tm"
+      },
+      "artists": [
+        {
+          "name": "Nu Fvnk",
+          "url": "https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159708,
+      "name": "Be The One",
+      "url": "https://open.spotify.com/track/1UUuxm4IdF4eKrKnWz1A8E"
     },
     {
       "album": {
@@ -734,10 +770,28 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 185000,
       "name": "Find You There",
       "url": "https://open.spotify.com/track/3Xbjkj3z2xth7EdP3RdMTi"
+    },
+    {
+      "album": {
+        "name": "Finqa",
+        "url": "https://open.spotify.com/album/6DvRET0k6YUhU0R5pJ9Him"
+      },
+      "artists": [
+        {
+          "name": "Spoek Mathambo",
+          "url": "https://open.spotify.com/artist/3qw0OXlLhqI78xEWw9Ys8O"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221904,
+      "name": "Finqa",
+      "url": "https://open.spotify.com/track/25qL6yx7z9MkPnlcVBxZmM"
     },
     {
       "album": {
@@ -1961,6 +2015,24 @@
     },
     {
       "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/5Tbcs6HsUn0H6Mu7s5MIws"
+      },
+      "artists": [
+        {
+          "name": "Darkie Fiction",
+          "url": "https://open.spotify.com/artist/4cdFNn4RtIOX2pIS3Ye3Vg"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174010,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/6XujlgvLwmkET7OiA5qWNX"
+    },
+    {
+      "album": {
         "name": "what's different. // radio silence.",
         "url": "https://open.spotify.com/album/5XBSkHZDG6Jo1D8ylFZdad"
       },
@@ -1990,7 +2062,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 130034,
       "name": "radio silence.",
       "url": "https://open.spotify.com/track/71v4C5FtIcJqs2soLAJ6dO"
@@ -2082,6 +2154,24 @@
       "duration_ms": 350400,
       "name": "Sekunjalo",
       "url": "https://open.spotify.com/track/3TFnmlvfoM2szN5AfIVyvt"
+    },
+    {
+      "album": {
+        "name": "Show Me",
+        "url": "https://open.spotify.com/album/40bEi3XNEzNJe7oiLoHM4R"
+      },
+      "artists": [
+        {
+          "name": "Nu Fvnk",
+          "url": "https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149012,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/7MQaJreOuHNGsMFcvvCEey"
     },
     {
       "album": {

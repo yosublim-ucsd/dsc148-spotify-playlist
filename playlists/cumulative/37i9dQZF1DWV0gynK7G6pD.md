@@ -4,7 +4,7 @@
 
 > Updated every Friday with the very best classical new releases\. Cover: Joe Hisaishi
 
-8,051 songs - 25 day 11 hr 37 min
+8,052 songs - 25 day 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5834,6 +5834,7 @@
 | [Some Other Place](https://open.spotify.com/track/4ljlSkzCR3RMwxv8Xx7m27) | [Meredi](https://open.spotify.com/artist/3JIwUwScCrI3OUwj50CT1H) | [Some Other Place](https://open.spotify.com/album/5ju2VqLgzwjJo4N2Oygp0E) | 4:13 | 2022-04-01 | 2022-04-09 |
 | [Someday My Prince Will Come \- Cello\-Piano Version](https://open.spotify.com/track/2RZybX9znYUfpJ2lvlRYmU) | [Raphaela Gromes](https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50), [Julian Riem](https://open.spotify.com/artist/7xblEPvRNj5mqQ1vzV0g2D) | [Someday My Prince Will Come \(Cello\-Piano Version\)](https://open.spotify.com/album/55MQrkpkPQ1ezyxprGy3fa) | 1:14 | 2023-09-22 | 2023-09-30 |
 | [Someone else's story \(Arr\. for Violin & Orchestra by Anders Berglund\)](https://open.spotify.com/track/6tII2dcG0L8yXHJOMECKJa) | [Benny Andersson](https://open.spotify.com/artist/7na02phFwcKRE7MMa2u1mA), [Tim Rice](https://open.spotify.com/artist/3KDpcZPHxvsaVk5PReoGqh), [Björn Ulvaeus](https://open.spotify.com/artist/2lVPicgpjjlbROFIzwGm8V), [Christian Svarfvar](https://open.spotify.com/artist/0jcR7ThUTzrELU3Ho4ko9U), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA), [Anders Berglund](https://open.spotify.com/artist/1BrnoJ2vqnrglD97OiTjIu) | [The Symphonic Touch of Benny Andersson](https://open.spotify.com/album/369unsZ6siAZFdNrqLMK1I) | 3:57 | 2023-04-14 | 2023-04-22 |
+| [Someone Got Shot](https://open.spotify.com/track/3QqiKFgIXOvFbQG6933tmE) | [Jay Wadley](https://open.spotify.com/artist/2PeCz2k4MORlxOMjTXFp6o) | [We Grown Now \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3iEEVzwHF0aYnKkdBFihMJ) | 2:10 | 2024-04-19 |  |
 | [Somersault](https://open.spotify.com/track/4Tjsng3a8esls6YG4F5stt) | [Suntapes](https://open.spotify.com/artist/2KyzezGvw1FSzXXjsWOji6), [Tomas Johan Kristian](https://open.spotify.com/artist/2Qo92IgDhEwpCnPL07d2TZ) | [Somersault](https://open.spotify.com/album/63LVsprZWfyUhv7rUQE5Rw) | 2:36 | 2022-03-25 | 2022-04-02 |
 | [Something Good \- From "The Sound Of Music"](https://open.spotify.com/track/0KiUE3zdD3M8IRLcNDbjfv) | [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP), [Van\-Anh Nguyen](https://open.spotify.com/artist/4yWz7f8lbTWD2qgsqk6dsF) | [Something Good \(From "The Sound Of Music"\)](https://open.spotify.com/album/57EQzSK2OELXEBeNNyWHj6) | 3:30 | 2022-03-11 | 2022-03-18 |
 | [Something like this](https://open.spotify.com/track/2qdST6YrRolTWzm05iaJVR) | [Elena Kats\-Chernin](https://open.spotify.com/artist/0OnynZ2smlYDjDmdRQVkmk), [Emily Granger](https://open.spotify.com/artist/1GjrrFzWjSTaUoMEp0uXjy), [Sally Walker](https://open.spotify.com/artist/1JQLxrBQpSWJsteQ2qO3yB) | [Elena Kats\-Chernin: Something like this](https://open.spotify.com/album/27XMJfGjaWKXiNXaMacAoD) | 3:10 | 2023-09-22 | 2023-09-30 |

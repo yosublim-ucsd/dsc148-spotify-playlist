@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Motion & good vibes! Cover: Architrackz",
+  "description": "Motion & good vibes! Cover: Yssi SB",
   "name": "La Vida Loca",
   "tracks": [
     {
@@ -780,7 +780,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 196211,
       "name": "Amaria",
       "url": "https://open.spotify.com/track/14E6VXR7nqhhdybb57asuu"
@@ -1132,7 +1132,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 186071,
       "name": "Avec classe (feat. Aya Nakamura & Trinix)",
       "url": "https://open.spotify.com/track/2RqZ8JUBXP4C0nzttGnTL1"
@@ -2168,7 +2168,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 110638,
       "name": "Bend Ova",
       "url": "https://open.spotify.com/track/7vxzJ7LY47UoeE5PhSVAyb"
@@ -4836,7 +4836,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 137575,
       "name": "Demon Time",
       "url": "https://open.spotify.com/track/23IuFgCndsodlvirH5HEfJ"
@@ -4862,7 +4862,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 197383,
       "name": "DESATAAA",
       "url": "https://open.spotify.com/track/2vh03XeMmNRwxiAztk01Pe"
@@ -6181,6 +6181,36 @@
     },
     {
       "album": {
+        "name": "Festival",
+        "url": "https://open.spotify.com/album/4oxdUH6eGKuQWF2H4vcHF5"
+      },
+      "artists": [
+        {
+          "name": "Yssi SB",
+          "url": "https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8"
+        },
+        {
+          "name": "Diquenza",
+          "url": "https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV"
+        },
+        {
+          "name": "Henkie T",
+          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
+        },
+        {
+          "name": "Dopebwoy",
+          "url": "https://open.spotify.com/artist/3kw9wqwYyvRCI6Q2rqsfNS"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146778,
+      "name": "Festival",
+      "url": "https://open.spotify.com/track/7Jvfgj6mmATe6hq7dSdseM"
+    },
+    {
+      "album": {
         "name": "Fiets",
         "url": "https://open.spotify.com/album/7hqt1WB6yK6aqET4FW0yEg"
       },
@@ -7267,6 +7297,28 @@
     },
     {
       "album": {
+        "name": "GuGu",
+        "url": "https://open.spotify.com/album/1skMUlyCkVrvaAmkhBGb1T"
+      },
+      "artists": [
+        {
+          "name": "Mensa",
+          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
+        },
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90115,
+      "name": "GuGu",
+      "url": "https://open.spotify.com/track/4EIup0G510mGZl4ZQKzAdl"
+    },
+    {
+      "album": {
         "name": "GYAL DEM",
         "url": "https://open.spotify.com/album/4UGnR78CQUxQpNzBjFsjdK"
       },
@@ -8124,7 +8176,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 237866,
       "name": "I love you",
       "url": "https://open.spotify.com/track/2QcTf5lLMrrWTiElDInpTb"
@@ -8208,7 +8260,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 154722,
       "name": "IDGAF",
       "url": "https://open.spotify.com/track/498vwBN11kmG729pNaRS8j"
@@ -8380,7 +8432,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 160885,
       "name": "Ilashe",
       "url": "https://open.spotify.com/track/1kW728xFsRBvunN1yiTsNf"
@@ -9433,6 +9485,24 @@
     },
     {
       "album": {
+        "name": "Komkommer",
+        "url": "https://open.spotify.com/album/7m5uWRcBbiK5UIP3pePAYJ"
+      },
+      "artists": [
+        {
+          "name": "Boer Harm",
+          "url": "https://open.spotify.com/artist/5IHZu2yYPqXd8JNzDP91Os"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163018,
+      "name": "Komkommer",
+      "url": "https://open.spotify.com/track/29ULZaSlDqboEirmrbaoKn"
+    },
+    {
+      "album": {
         "name": "KOMNAARMETOE",
         "url": "https://open.spotify.com/album/3LGJyIxQR0RHcFpjYjfWHl"
       },
@@ -10252,7 +10322,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 163444,
       "name": "Liever Mezelf Niet",
       "url": "https://open.spotify.com/track/3j2mDTK0ypXPa24xLPHyS6"
@@ -10840,6 +10910,28 @@
       "duration_ms": 142103,
       "name": "Love Is Free",
       "url": "https://open.spotify.com/track/4qetc6GDgmlWtGXCclFiD7"
+    },
+    {
+      "album": {
+        "name": "Love Machine",
+        "url": "https://open.spotify.com/album/4TcbHiR038rYuygwMyqTL8"
+      },
+      "artists": [
+        {
+          "name": "Zefanio",
+          "url": "https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM"
+        },
+        {
+          "name": "Scridge",
+          "url": "https://open.spotify.com/artist/6fYEeLBc96CguiLq9FPBQU"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179905,
+      "name": "Love Machine",
+      "url": "https://open.spotify.com/track/7iSFBBqexT1qQPcPxnH1Wj"
     },
     {
       "album": {
@@ -12697,6 +12789,28 @@
     },
     {
       "album": {
+        "name": "Niks (feat. Indigo)",
+        "url": "https://open.spotify.com/album/5wQH7tLUYujblhqv9fbCBQ"
+      },
+      "artists": [
+        {
+          "name": "Bizzey",
+          "url": "https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8"
+        },
+        {
+          "name": "Indigo",
+          "url": "https://open.spotify.com/artist/4NLCCWACqy8QsUucxLepnk"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135652,
+      "name": "Niks (feat. Indigo)",
+      "url": "https://open.spotify.com/track/1vhF5mp5QowyPS2Zkhf2uj"
+    },
+    {
+      "album": {
         "name": "Niks Persoonlijks",
         "url": "https://open.spotify.com/album/4Eyx66Hc6RfGpCw59BhbqH"
       },
@@ -13116,7 +13230,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 156000,
       "name": "NUMBA 1",
       "url": "https://open.spotify.com/track/37cfWnwQVm7vES4DrQOz9n"
@@ -14257,6 +14371,24 @@
     },
     {
       "album": {
+        "name": "Perfume",
+        "url": "https://open.spotify.com/album/3x0wnNZdv2ZFOXo86zSKSM"
+      },
+      "artists": [
+        {
+          "name": "Dior",
+          "url": "https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146373,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/3qa5bRi5xuEQgR8LYWZ2zb"
+    },
+    {
+      "album": {
         "name": "nadie sabe lo que va a pasar ma\u00f1ana",
         "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
       },
@@ -14888,10 +15020,36 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 145571,
       "name": "Pretty Girls",
       "url": "https://open.spotify.com/track/4skvJoTBLEYUfS3Z1xvGjs"
+    },
+    {
+      "album": {
+        "name": "Pretty Girls Remix Pack",
+        "url": "https://open.spotify.com/album/4Wmt3X6XnB7UF2JxYXcJSk"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        },
+        {
+          "name": "Emms",
+          "url": "https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178216,
+      "name": "Pretty Girls - Remix",
+      "url": "https://open.spotify.com/track/0BQhQL9MIIOvkufAPkqq1q"
     },
     {
       "album": {
@@ -15645,6 +15803,24 @@
     },
     {
       "album": {
+        "name": "Salam",
+        "url": "https://open.spotify.com/album/0T0nzA4p3Ma3CK8WUBCPWM"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147435,
+      "name": "Salam",
+      "url": "https://open.spotify.com/track/0gR65ex17IbBdAvVMg74LS"
+    },
+    {
+      "album": {
         "name": "Salsa Merengue",
         "url": "https://open.spotify.com/album/7tWngPRSzDA5ber9eQkHp3"
       },
@@ -16002,7 +16178,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 188484,
       "name": "Seya",
       "url": "https://open.spotify.com/track/5EVY9jwZDhgyLDyNGCGWYh"
@@ -16798,6 +16974,40 @@
       "duration_ms": 145001,
       "name": "Stout, Bad & Vies",
       "url": "https://open.spotify.com/track/15jJDcp0hJnpuYQz0eTf5l"
+    },
+    {
+      "album": {
+        "name": "Studie Uit",
+        "url": "https://open.spotify.com/album/4SwDKB3YuJ1qJyqYLsYiBe"
+      },
+      "artists": [
+        {
+          "name": "Trobi",
+          "url": "https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR"
+        },
+        {
+          "name": "Chivv",
+          "url": "https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg"
+        },
+        {
+          "name": "Mula B",
+          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
+        },
+        {
+          "name": "ADF Samski",
+          "url": "https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8"
+        },
+        {
+          "name": "Emms",
+          "url": "https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161559,
+      "name": "Studie Uit",
+      "url": "https://open.spotify.com/track/5sHjRyfeGNwu5f2GV0960x"
     },
     {
       "album": {
@@ -17784,6 +17994,32 @@
       "duration_ms": 129600,
       "name": "TicTac",
       "url": "https://open.spotify.com/track/7dYiNZ6Ga0LzfGcFc6AQkl"
+    },
+    {
+      "album": {
+        "name": "Love Doesn't Exist",
+        "url": "https://open.spotify.com/album/0DHt2wzzyU2VHGLDjlAuVs"
+      },
+      "artists": [
+        {
+          "name": "Cristian D",
+          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
+        },
+        {
+          "name": "Lusho",
+          "url": "https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs"
+        },
+        {
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170269,
+      "name": "Tiffany",
+      "url": "https://open.spotify.com/track/5alGFMfqBYoo1ifkYblVDb"
     },
     {
       "album": {
@@ -19091,6 +19327,28 @@
     },
     {
       "album": {
+        "name": "TOXSHIKSS 1",
+        "url": "https://open.spotify.com/album/1rbU85AzpFergeTMI8fhMV"
+      },
+      "artists": [
+        {
+          "name": "Shikss",
+          "url": "https://open.spotify.com/artist/1SzciTtL2bewCNpbRTk6z7"
+        },
+        {
+          "name": "T4L",
+          "url": "https://open.spotify.com/artist/3XHQ9kWAPHHBE8DPCF6DQZ"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134193,
+      "name": "VERGEET MIJ, VANDAAG",
+      "url": "https://open.spotify.com/track/0Svju69yyyHyOapvrK7uwN"
+    },
+    {
+      "album": {
         "name": "Verleden Tijd",
         "url": "https://open.spotify.com/album/6HMsEq2NjCOlEQiFdSSNXL"
       },
@@ -19382,6 +19640,24 @@
       "duration_ms": 178000,
       "name": "Vliegtuigmodus (feat. Bartofso)",
       "url": "https://open.spotify.com/track/5X9N2rNF5D2WW7mzBVAweh"
+    },
+    {
+      "album": {
+        "name": "Vlinder Bom",
+        "url": "https://open.spotify.com/album/5cnIYp738nD2CJwmN2hxvs"
+      },
+      "artists": [
+        {
+          "name": "Kevcody",
+          "url": "https://open.spotify.com/artist/3heGIV1KV0B4c4MW7H2mey"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186407,
+      "name": "Vlinder Bom",
+      "url": "https://open.spotify.com/track/0qzsuJKlmCYsTZPOmRUxiP"
     },
     {
       "album": {

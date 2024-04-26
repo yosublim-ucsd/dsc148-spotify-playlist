@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Ana\u00efs MVA",
+  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Satine",
   "name": "Couleur Pop",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 196000,
       "name": "7VIE",
       "url": "https://open.spotify.com/track/3ThmJRFdnCwvrlzvZqvxx3"
@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Ange",
+        "url": "https://open.spotify.com/album/7E1zfjwFcZOTW31kS5jgYE"
+      },
+      "artists": [
+        {
+          "name": "Geoffrey",
+          "url": "https://open.spotify.com/artist/3kB7ObACEFRh7mKeB1RstK"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169582,
+      "name": "Ange",
+      "url": "https://open.spotify.com/track/1axbD73aCHMmio2zbQOaRN"
+    },
+    {
+      "album": {
         "name": "Aseptis\u00e9",
         "url": "https://open.spotify.com/album/2qn28PdWCLjFQfydpVoNEP"
       },
@@ -322,7 +340,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 145208,
       "name": "Bates Motel",
       "url": "https://open.spotify.com/track/6qW69hFqGopaoI2TQGxE1z"
@@ -448,7 +466,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 179428,
       "name": "BOY",
       "url": "https://open.spotify.com/track/3uGqac4MPTi2gV5LyNQOMz"
@@ -887,6 +905,24 @@
     },
     {
       "album": {
+        "name": "Diff\u00e9rent",
+        "url": "https://open.spotify.com/album/2PE9Pv9u514of30rXW3s4I"
+      },
+      "artists": [
+        {
+          "name": "Lord Esperanza",
+          "url": "https://open.spotify.com/artist/7CPznx8a1emLVLeCHGuJeN"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150996,
+      "name": "Diff\u00e9rent",
+      "url": "https://open.spotify.com/track/0rsQzwBrn9RrjEyjfNVvbb"
+    },
+    {
+      "album": {
         "name": "D\u00e9sert",
         "url": "https://open.spotify.com/album/6VkEAixeoVxvFT2otZ2JFb"
       },
@@ -1121,6 +1157,28 @@
     },
     {
       "album": {
+        "name": "Game Boy",
+        "url": "https://open.spotify.com/album/367br2eaC1tEaViboGWIcf"
+      },
+      "artists": [
+        {
+          "name": "Solal Roubine",
+          "url": "https://open.spotify.com/artist/6QkOiXleQySLXeqp36LxHQ"
+        },
+        {
+          "name": "Minette",
+          "url": "https://open.spotify.com/artist/2W7lHCMm7IWKz1aX2TkynR"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173998,
+      "name": "Game Boy",
+      "url": "https://open.spotify.com/track/7LUl8ERnmPnu31QktDyQlQ"
+    },
+    {
+      "album": {
         "name": "Nuits bleues",
         "url": "https://open.spotify.com/album/6qh5Kq92rJISNj2DpKpOpU"
       },
@@ -1132,7 +1190,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 170721,
       "name": "Heureux",
       "url": "https://open.spotify.com/track/6g5rAr2XNdeTHz7XtSCb8l"
@@ -1302,7 +1360,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 132495,
       "name": "J'suis pas d\u00e9sol\u00e9e",
       "url": "https://open.spotify.com/track/0lXOvhcpVYjLvxUhVY3MuY"
@@ -1671,6 +1729,24 @@
     },
     {
       "album": {
+        "name": "Les Armes",
+        "url": "https://open.spotify.com/album/7lWeyEno9C9MCDlOEFeGq1"
+      },
+      "artists": [
+        {
+          "name": "Emma Peters",
+          "url": "https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Les Armes",
+      "url": "https://open.spotify.com/track/2WEexWKjumCknzB41qU2UV"
+    },
+    {
+      "album": {
         "name": "Les Royaumes Minuscules",
         "url": "https://open.spotify.com/album/3VGubAeKi1fg002fAta5rz"
       },
@@ -1844,7 +1920,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 176973,
       "name": "Mes inconnus",
       "url": "https://open.spotify.com/track/0yiF9SR69R8ceBDjIet6NM"
@@ -2004,6 +2080,28 @@
       "duration_ms": 165839,
       "name": "M\u00eame en enfer",
       "url": "https://open.spotify.com/track/0mxEFN9yHT8HLgEp1NtcDE"
+    },
+    {
+      "album": {
+        "name": "Tout ce que l'on ne devient pas",
+        "url": "https://open.spotify.com/album/0HJxteAp9XRvMFbWp7MXwe"
+      },
+      "artists": [
+        {
+          "name": "Venus VNR",
+          "url": "https://open.spotify.com/artist/1VNVb5UAADT5TLDjQ1oGZW"
+        },
+        {
+          "name": "Thomas Gauthier",
+          "url": "https://open.spotify.com/artist/1o1lGge9gBLbaWPQ6QncqQ"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145658,
+      "name": "Normandie",
+      "url": "https://open.spotify.com/track/304a160jxpVs2JYVWtoR4N"
     },
     {
       "album": {
@@ -2585,6 +2683,24 @@
     },
     {
       "album": {
+        "name": "Rester Pur.e",
+        "url": "https://open.spotify.com/album/2b2JfK1MXqXW95DB7kexYp"
+      },
+      "artists": [
+        {
+          "name": "KALIKA",
+          "url": "https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187160,
+      "name": "Rester Pur.e",
+      "url": "https://open.spotify.com/track/553SFuQ2AzrnvsXI2f5VtH"
+    },
+    {
+      "album": {
         "name": "Pilote",
         "url": "https://open.spotify.com/album/1b5vs9vwsQMveVLedlKhZ4"
       },
@@ -2780,7 +2896,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 188993,
       "name": "Solo",
       "url": "https://open.spotify.com/track/3RPyV4RQ1Z0SJ4YTLcZzOY"
@@ -2878,6 +2994,24 @@
       "duration_ms": 145412,
       "name": "Stigmate - Radio Edit",
       "url": "https://open.spotify.com/track/1CCglTzgQP2UCQtRwkpHOc"
+    },
+    {
+      "album": {
+        "name": "Stop",
+        "url": "https://open.spotify.com/album/41B9LhfvPuQ9a1u9n7DIhs"
+      },
+      "artists": [
+        {
+          "name": "Eug\u00e9nie",
+          "url": "https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188451,
+      "name": "Stop",
+      "url": "https://open.spotify.com/track/1FHYc87SB04yU4D07Ar9eD"
     },
     {
       "album": {

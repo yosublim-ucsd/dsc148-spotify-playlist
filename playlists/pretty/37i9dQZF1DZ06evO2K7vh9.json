@@ -1,12 +1,12 @@
 {
-  "description": "This is Lil Tecca. The essential tracks, all in one playlist.",
-  "num_followers": 75404,
+  "description": "This Is Lil Tecca. Los temas esenciales, todos en una lista.",
+  "num_followers": 75434,
   "original_name": "This Is Lil Tecca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzgzMDQwMCwwMDAwMDAwMDNlMjRhZDEwMjU1NzM2MWYxNzA5YTcxMTA1ZTc1YmYz",
+  "snapshot_id": "MTcxMzkxNjgwMCwwMDAwMDAwMGNiZWIwMzUzNDYwZGYyMDRhY2RiOTNmYjYyNzg4NTg5",
   "tracks": [
     {
       "added_at": null,
@@ -835,26 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ascension (Deluxe) \u2013 Virtual World 2",
-        "url": "https://open.spotify.com/album/1s79D8PDeLsbpj7EYDzMBI"
-      },
-      "artists": [
-        {
-          "name": "TyFontaine",
-          "url": "https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4"
-        },
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 136903,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/4dQRw7ylWmjumuK5LQycqJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "She Want Some More (feat. Ken Carson)",
         "url": "https://open.spotify.com/album/2MNgdTVRIyedTK7n3Ej46C"
       },
@@ -875,6 +855,46 @@
       "duration_ms": 184614,
       "name": "She Want Some More (feat. Ken Carson)",
       "url": "https://open.spotify.com/track/6MXlAZuSUsbKAN68ErtWj5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ascension (Deluxe) \u2013 Virtual World 2",
+        "url": "https://open.spotify.com/album/1s79D8PDeLsbpj7EYDzMBI"
+      },
+      "artists": [
+        {
+          "name": "TyFontaine",
+          "url": "https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4"
+        },
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 136903,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/4dQRw7ylWmjumuK5LQycqJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We All We Got",
+        "url": "https://open.spotify.com/album/31hrkRJ8ynJJOeZ0ao8FdJ"
+      },
+      "artists": [
+        {
+          "name": "Internet Money",
+          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+        },
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 135572,
+      "name": "Falsetto",
+      "url": "https://open.spotify.com/track/6OFeW7smNQqrIMfYlMSUdD"
     }
   ],
   "unique_name": "This Is Lil Tecca",

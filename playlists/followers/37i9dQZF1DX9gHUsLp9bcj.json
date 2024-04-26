@@ -1,8 +1,8 @@
 {
-  "2024-04-25": 30420,
+  "2024-04-26": 30444,
   "date_first_scraped": "2022-04-20",
-  "description": "This is the Latin soundtrack of the 50s! Cover:  P\u00e9rez Prado",
-  "name": "50s Latino",
+  "description": "The Latin soundtrack of the 50s! Cover: Pedro Infante",
+  "name": "Los 50s",
   "tracks": [
     {
       "album": {
@@ -51,6 +51,24 @@
       "duration_ms": 174773,
       "name": "Agua Limpia Todo",
       "url": "https://open.spotify.com/track/5JnJ9IRO4lO4uCZvIT4CoN"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor De...",
+        "url": "https://open.spotify.com/album/11SbgUOwExKHYdsApzHSuP"
+      },
+      "artists": [
+        {
+          "name": "Agust\u00edn Lara",
+          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178200,
+      "name": "Amor de Mis Amores",
+      "url": "https://open.spotify.com/track/5LI6baS6dpvHBDlQUzn1S7"
     },
     {
       "album": {
@@ -289,7 +307,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 149360,
       "name": "Cherry Pink And Apple Blossom White",
       "url": "https://open.spotify.com/track/783XPWZlaGrFcgH3EMoGwB"
@@ -329,6 +347,24 @@
       "duration_ms": 116400,
       "name": "Como Antes",
       "url": "https://open.spotify.com/track/3ND2X5ewlEMOnuzvsvi71w"
+    },
+    {
+      "album": {
+        "name": "Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk"
+      },
+      "artists": [
+        {
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176733,
+      "name": "Como Fue",
+      "url": "https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42"
     },
     {
       "album": {
@@ -379,7 +415,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 199600,
       "name": "Cu\u00e1l Es La Idea (What's the Idea)",
       "url": "https://open.spotify.com/track/4CNCGwxNp9rnVqo2fzmDYK"
@@ -541,7 +577,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 141626,
       "name": "Espinita",
       "url": "https://open.spotify.com/track/1rkaB2VH8rNrOTvXSeDW9x"
@@ -804,6 +840,24 @@
     },
     {
       "album": {
+        "name": "Plays Mucho Mambo... and Other Fantastic Compositions",
+        "url": "https://open.spotify.com/album/2vBCLoEAjZqU4CGWfcMqIk"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156975,
+      "name": "Mambo No 5",
+      "url": "https://open.spotify.com/track/3fQLXoRwKQTnThncdMCqwG"
+    },
+    {
+      "album": {
         "name": "Jos\u00e9 Luis Y Su Guitarra. Todos Sus Primeros EP's En Discos Philips (1958-1960)",
         "url": "https://open.spotify.com/album/6NI3n5j27E7qiU66tTbfRw"
       },
@@ -959,7 +1013,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 183733,
       "name": "Popotitos",
       "url": "https://open.spotify.com/track/4ppAuelKoG9GU7DfLirTLB"
@@ -1038,6 +1092,24 @@
     },
     {
       "album": {
+        "name": "Por siempre los 5 latinos, Vol. 1 (Remastered)",
+        "url": "https://open.spotify.com/album/19eaIeTw3q3pWrN5q5R1R6"
+      },
+      "artists": [
+        {
+          "name": "Los 5 Latinos",
+          "url": "https://open.spotify.com/artist/7aZR9nyaShysVN1JyGoPsA"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136650,
+      "name": "Quiereme siempre - Remastered",
+      "url": "https://open.spotify.com/track/29fdJkJSmD4PoSJamszJQF"
+    },
+    {
+      "album": {
         "name": "RCA 100 A\u00f1os De Musica",
         "url": "https://open.spotify.com/album/0hyUBRhHBjB52XcYczQeGV"
       },
@@ -1103,7 +1175,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 117080,
       "name": "Record\u00e1ndote",
       "url": "https://open.spotify.com/track/2tTpd7PJ38f1TbwCVcWY0H"
@@ -1125,6 +1197,24 @@
       "duration_ms": 212160,
       "name": "Ruega por Nosotros",
       "url": "https://open.spotify.com/track/7HeuflCAk9ygJnbUXCxskh"
+    },
+    {
+      "album": {
+        "name": "Los Tres Ases",
+        "url": "https://open.spotify.com/album/0Qsqqs8HWEjVSXfoHhlIkp"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Ases",
+          "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182532,
+      "name": "Si Nos Dejan",
+      "url": "https://open.spotify.com/track/4pZEUFPChCHLkJJ78hkwvh"
     },
     {
       "album": {

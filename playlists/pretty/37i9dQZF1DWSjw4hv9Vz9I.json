@@ -1,6 +1,6 @@
 {
   "description": "A neo-classic sound for the road. Cover: Thee Sacred Souls",
-  "num_followers": 133646,
+  "num_followers": 133699,
   "original_name": "Retro Road Trip",
   "owner": {
     "name": "Spotify",
@@ -349,22 +349,6 @@
       "url": "https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA"
     },
     {
-      "added_at": "2022-12-13 18:45:33",
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/1aM7FK3fr3L00Y3q79TXns"
-      },
-      "artists": [
-        {
-          "name": "Otis Kane",
-          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
-        }
-      ],
-      "duration_ms": 166440,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/0yyTUTW3QCekpMvFJi3f2f"
-    },
-    {
       "added_at": "2021-07-13 21:11:09",
       "album": {
         "name": "Undergrad Romance and the Moses in Me",
@@ -379,6 +363,22 @@
       "duration_ms": 220588,
       "name": "If You Were the Rain",
       "url": "https://open.spotify.com/track/5EXD5rXJ4IVb8g4xSwT0fc"
+    },
+    {
+      "added_at": "2022-12-13 18:45:33",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/1aM7FK3fr3L00Y3q79TXns"
+      },
+      "artists": [
+        {
+          "name": "Otis Kane",
+          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
+        }
+      ],
+      "duration_ms": 166440,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/0yyTUTW3QCekpMvFJi3f2f"
     },
     {
       "added_at": "2022-12-13 18:45:33",
@@ -451,22 +451,6 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "Wolf Den",
-        "url": "https://open.spotify.com/album/72iUWLyrZgp7WUAIaqX0Np"
-      },
-      "artists": [
-        {
-          "name": "Danielle Nicole",
-          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
-        }
-      ],
-      "duration_ms": 177906,
-      "name": "Take It All",
-      "url": "https://open.spotify.com/track/2H0s28N3rendfnepsj48C6"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
         "name": "Good To You",
         "url": "https://open.spotify.com/album/7FEsIzWGhL3x83QHxIHC15"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 158855,
       "name": "Good To You",
       "url": "https://open.spotify.com/track/7t7VTdIZS01AfR2w2SHb17"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "Wolf Den",
+        "url": "https://open.spotify.com/album/72iUWLyrZgp7WUAIaqX0Np"
+      },
+      "artists": [
+        {
+          "name": "Danielle Nicole",
+          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
+        }
+      ],
+      "duration_ms": 177906,
+      "name": "Take It All",
+      "url": "https://open.spotify.com/track/2H0s28N3rendfnepsj48C6"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -529,22 +529,6 @@
       "url": "https://open.spotify.com/track/6GXbpne1EKdVlYhFazWFs4"
     },
     {
-      "added_at": "2023-12-13 17:43:50",
-      "album": {
-        "name": "Love Lines",
-        "url": "https://open.spotify.com/album/6E7FmOKkt2McJF0I411HzL"
-      },
-      "artists": [
-        {
-          "name": "LP",
-          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
-        }
-      ],
-      "duration_ms": 263297,
-      "name": "Long Goodbye",
-      "url": "https://open.spotify.com/track/2UwkYWLgKM9IWlAwDZGR4K"
-    },
-    {
       "added_at": "2023-07-11 18:58:28",
       "album": {
         "name": "American Love Call",
@@ -565,20 +549,20 @@
       "url": "https://open.spotify.com/track/1m6FCJ4TWoqCz2ubKdep0Z"
     },
     {
-      "added_at": "2023-07-11 18:58:28",
+      "added_at": "2023-12-13 17:43:50",
       "album": {
-        "name": "Look Closer",
-        "url": "https://open.spotify.com/album/1WaH3Jqbs7gcTpVFmPmHX9"
+        "name": "Love Lines",
+        "url": "https://open.spotify.com/album/6E7FmOKkt2McJF0I411HzL"
       },
       "artists": [
         {
-          "name": "Saun & Starr",
-          "url": "https://open.spotify.com/artist/6m4tJuf67jwVSvMP34hrck"
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
         }
       ],
-      "duration_ms": 211413,
-      "name": "Hot Shot",
-      "url": "https://open.spotify.com/track/39DKVXSa1NaJXo9Ud4G4Io"
+      "duration_ms": 263297,
+      "name": "Long Goodbye",
+      "url": "https://open.spotify.com/track/2UwkYWLgKM9IWlAwDZGR4K"
     },
     {
       "added_at": "2021-08-20 04:02:00",
@@ -595,6 +579,22 @@
       "duration_ms": 146897,
       "name": "All This Space",
       "url": "https://open.spotify.com/track/0Y36El0k8fS2myogTVGXKP"
+    },
+    {
+      "added_at": "2023-07-11 18:58:28",
+      "album": {
+        "name": "Look Closer",
+        "url": "https://open.spotify.com/album/1WaH3Jqbs7gcTpVFmPmHX9"
+      },
+      "artists": [
+        {
+          "name": "Saun & Starr",
+          "url": "https://open.spotify.com/artist/6m4tJuf67jwVSvMP34hrck"
+        }
+      ],
+      "duration_ms": 211413,
+      "name": "Hot Shot",
+      "url": "https://open.spotify.com/track/39DKVXSa1NaJXo9Ud4G4Io"
     },
     {
       "added_at": "2021-10-29 04:01:00",
@@ -853,22 +853,6 @@
       "url": "https://open.spotify.com/track/3fPBXNuHlH4N3hmiEzK5y0"
     },
     {
-      "added_at": "2022-12-13 18:45:33",
-      "album": {
-        "name": "Fighting for Peace",
-        "url": "https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos"
-      },
-      "artists": [
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 202058,
-      "name": "Fighting for Peace",
-      "url": "https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g"
-    },
-    {
       "added_at": "2021-07-13 21:11:09",
       "album": {
         "name": "Underneath the Surface",
@@ -883,6 +867,22 @@
       "duration_ms": 254680,
       "name": "Cards",
       "url": "https://open.spotify.com/track/5QZdS4lYhW27Y8RJGSdPfV"
+    },
+    {
+      "added_at": "2022-12-13 18:45:33",
+      "album": {
+        "name": "Fighting for Peace",
+        "url": "https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos"
+      },
+      "artists": [
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 202058,
+      "name": "Fighting for Peace",
+      "url": "https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g"
     },
     {
       "added_at": "2022-12-13 18:45:33",
@@ -1033,22 +1033,6 @@
       "url": "https://open.spotify.com/track/1THXgalXpkfvIPlxp6U05K"
     },
     {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "Aviary: Act 1",
-        "url": "https://open.spotify.com/album/7sVyk1fdhhiBcguh15NN3N"
-      },
-      "artists": [
-        {
-          "name": "Eryn Allen Kane",
-          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
-        }
-      ],
-      "duration_ms": 222937,
-      "name": "Slipping",
-      "url": "https://open.spotify.com/track/5qVgjRn125fERbF5bY7Zvb"
-    },
-    {
       "added_at": "2023-12-13 17:43:50",
       "album": {
         "name": "Takin' All My Lovin'",
@@ -1067,6 +1051,22 @@
       "duration_ms": 207920,
       "name": "Takin' All My Lovin'",
       "url": "https://open.spotify.com/track/5L4FLTgwJtV8teoPKIrzc7"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "Aviary: Act 1",
+        "url": "https://open.spotify.com/album/7sVyk1fdhhiBcguh15NN3N"
+      },
+      "artists": [
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+        }
+      ],
+      "duration_ms": 222937,
+      "name": "Slipping",
+      "url": "https://open.spotify.com/track/5qVgjRn125fERbF5bY7Zvb"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1137,22 +1137,6 @@
       "url": "https://open.spotify.com/track/1eRvvnfpeisIH2JY07equa"
     },
     {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "a tree planted by water",
-        "url": "https://open.spotify.com/album/5bl22ODAmnzfJ35n52vAQB"
-      },
-      "artists": [
-        {
-          "name": "Eryn Allen Kane",
-          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
-        }
-      ],
-      "duration_ms": 228926,
-      "name": "Feel The Need",
-      "url": "https://open.spotify.com/track/6Wxm950nfluMnIt3YsF2RT"
-    },
-    {
       "added_at": "2023-07-14 04:01:00",
       "album": {
         "name": "Wait Til I Get Over",
@@ -1167,6 +1151,22 @@
       "duration_ms": 204024,
       "name": "See It Through",
       "url": "https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "Side by Side",
+        "url": "https://open.spotify.com/album/3b9cLrv8J3sDdh6sckaZOF"
+      },
+      "artists": [
+        {
+          "name": "Collin Miller & the Brother Nature",
+          "url": "https://open.spotify.com/artist/5zbwJxPIe7maUt0t8LTUB6"
+        }
+      ],
+      "duration_ms": 334477,
+      "name": "Side by Side",
+      "url": "https://open.spotify.com/track/5RABWGh9kQl6I3WFaGOKje"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1187,18 +1187,34 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "Side by Side",
-        "url": "https://open.spotify.com/album/3b9cLrv8J3sDdh6sckaZOF"
+        "name": "a tree planted by water",
+        "url": "https://open.spotify.com/album/5bl22ODAmnzfJ35n52vAQB"
       },
       "artists": [
         {
-          "name": "Collin Miller & the Brother Nature",
-          "url": "https://open.spotify.com/artist/5zbwJxPIe7maUt0t8LTUB6"
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
         }
       ],
-      "duration_ms": 334477,
-      "name": "Side by Side",
-      "url": "https://open.spotify.com/track/5RABWGh9kQl6I3WFaGOKje"
+      "duration_ms": 228926,
+      "name": "Feel The Need",
+      "url": "https://open.spotify.com/track/6Wxm950nfluMnIt3YsF2RT"
+    },
+    {
+      "added_at": "2023-12-13 17:43:50",
+      "album": {
+        "name": "La Voz De Oro",
+        "url": "https://open.spotify.com/album/1mJlf5Y2RMw7B67MAz4Crw"
+      },
+      "artists": [
+        {
+          "name": "Jason Joshua",
+          "url": "https://open.spotify.com/artist/47RTTEHKmO94V6qGq5xhbn"
+        }
+      ],
+      "duration_ms": 175949,
+      "name": "Lover Boy",
+      "url": "https://open.spotify.com/track/0jUr0WvsfRuBO1FruKIo9O"
     },
     {
       "added_at": "2021-10-29 04:01:00",
@@ -1223,22 +1239,6 @@
       "duration_ms": 223815,
       "name": "ADULTHOOD",
       "url": "https://open.spotify.com/track/0jqWdGvgLX2oOG70eIcwko"
-    },
-    {
-      "added_at": "2023-12-13 17:43:50",
-      "album": {
-        "name": "La Voz De Oro",
-        "url": "https://open.spotify.com/album/1mJlf5Y2RMw7B67MAz4Crw"
-      },
-      "artists": [
-        {
-          "name": "Jason Joshua",
-          "url": "https://open.spotify.com/artist/47RTTEHKmO94V6qGq5xhbn"
-        }
-      ],
-      "duration_ms": 175949,
-      "name": "Lover Boy",
-      "url": "https://open.spotify.com/track/0jUr0WvsfRuBO1FruKIo9O"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1477,6 +1477,22 @@
       "url": "https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV"
     },
     {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "Motenko",
+        "url": "https://open.spotify.com/album/5ELfBcQ6SDwwH7HuPi8evQ"
+      },
+      "artists": [
+        {
+          "name": "Motenko",
+          "url": "https://open.spotify.com/artist/6GiZj3j9eJreWT3gDJXZWP"
+        }
+      ],
+      "duration_ms": 276546,
+      "name": "The Thief",
+      "url": "https://open.spotify.com/track/0ROXERrNsGt3O3mXFgjOK2"
+    },
+    {
       "added_at": "2021-10-08 04:01:00",
       "album": {
         "name": "Keep It",
@@ -1507,22 +1523,6 @@
       "duration_ms": 184907,
       "name": "Tell Me Something",
       "url": "https://open.spotify.com/track/5KxO8FockGFq9A9qJqGboV"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "Motenko",
-        "url": "https://open.spotify.com/album/5ELfBcQ6SDwwH7HuPi8evQ"
-      },
-      "artists": [
-        {
-          "name": "Motenko",
-          "url": "https://open.spotify.com/artist/6GiZj3j9eJreWT3gDJXZWP"
-        }
-      ],
-      "duration_ms": 276546,
-      "name": "The Thief",
-      "url": "https://open.spotify.com/track/0ROXERrNsGt3O3mXFgjOK2"
     },
     {
       "added_at": "2021-10-15 04:01:00",
@@ -1589,6 +1589,22 @@
       "url": "https://open.spotify.com/track/6OpAPX8HowQw4E7DMwOyjR"
     },
     {
+      "added_at": "2022-12-13 18:45:33",
+      "album": {
+        "name": "Brand New",
+        "url": "https://open.spotify.com/album/2WEJUbzOB4lcnPmbC5JvzZ"
+      },
+      "artists": [
+        {
+          "name": "Liam Bailey",
+          "url": "https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO"
+        }
+      ],
+      "duration_ms": 231654,
+      "name": "Hold Tight",
+      "url": "https://open.spotify.com/track/3tI6A09R5PtvFpKxQUJSCS"
+    },
+    {
       "added_at": "2021-07-13 21:11:09",
       "album": {
         "name": "Grace Love and the True Loves",
@@ -1605,20 +1621,20 @@
       "url": "https://open.spotify.com/track/2f6gJU89sk9FT1ESUpxPG4"
     },
     {
-      "added_at": "2022-12-13 18:45:33",
+      "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "Brand New",
-        "url": "https://open.spotify.com/album/2WEJUbzOB4lcnPmbC5JvzZ"
+        "name": "The Bomb Shelter Sessions",
+        "url": "https://open.spotify.com/album/3OfyDcQy6XHkxMMGLrSJHT"
       },
       "artists": [
         {
-          "name": "Liam Bailey",
-          "url": "https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO"
+          "name": "Vintage Trouble",
+          "url": "https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0"
         }
       ],
-      "duration_ms": 231654,
-      "name": "Hold Tight",
-      "url": "https://open.spotify.com/track/3tI6A09R5PtvFpKxQUJSCS"
+      "duration_ms": 250226,
+      "name": "You Better Believe It",
+      "url": "https://open.spotify.com/track/7BoIAhe5LAH6gn173aDkX1"
     },
     {
       "added_at": "2023-07-11 18:58:28",
@@ -1641,22 +1657,6 @@
       "url": "https://open.spotify.com/track/22bUiLt8O6xEDOHhAlGdHx"
     },
     {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "The Bomb Shelter Sessions",
-        "url": "https://open.spotify.com/album/3OfyDcQy6XHkxMMGLrSJHT"
-      },
-      "artists": [
-        {
-          "name": "Vintage Trouble",
-          "url": "https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0"
-        }
-      ],
-      "duration_ms": 250226,
-      "name": "You Better Believe It",
-      "url": "https://open.spotify.com/track/7BoIAhe5LAH6gn173aDkX1"
-    },
-    {
       "added_at": "2023-07-14 04:01:00",
       "album": {
         "name": "Stay Right Here",
@@ -1671,6 +1671,22 @@
       "duration_ms": 249560,
       "name": "Stay Right Here",
       "url": "https://open.spotify.com/track/0jQTagUb62PG7IcaFdR4s7"
+    },
+    {
+      "added_at": "2023-07-11 18:58:28",
+      "album": {
+        "name": "Definitely NOW",
+        "url": "https://open.spotify.com/album/2R40qpfi2fRj8eBFuPi6mu"
+      },
+      "artists": [
+        {
+          "name": "Liam Bailey",
+          "url": "https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO"
+        }
+      ],
+      "duration_ms": 186880,
+      "name": "Summer Rain",
+      "url": "https://open.spotify.com/track/7eUDlOuxZtPJkEhySb3RUv"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1741,22 +1757,6 @@
       "url": "https://open.spotify.com/track/74TtehL8KqCN6dvTX6uiRi"
     },
     {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "Aviary: Act II",
-        "url": "https://open.spotify.com/album/5SuwWlGLxGExAXMq4yamrP"
-      },
-      "artists": [
-        {
-          "name": "Eryn Allen Kane",
-          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
-        }
-      ],
-      "duration_ms": 262491,
-      "name": "Sunday",
-      "url": "https://open.spotify.com/track/44RQIKmcpCf3YTW9XZ2SGQ"
-    },
-    {
       "added_at": "2023-07-14 04:01:00",
       "album": {
         "name": "Wait Til I Get Over",
@@ -1773,36 +1773,20 @@
       "url": "https://open.spotify.com/track/0joFqmedFJMz4M59qeZyLo"
     },
     {
-      "added_at": "2023-07-11 18:58:28",
-      "album": {
-        "name": "Definitely NOW",
-        "url": "https://open.spotify.com/album/2R40qpfi2fRj8eBFuPi6mu"
-      },
-      "artists": [
-        {
-          "name": "Liam Bailey",
-          "url": "https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO"
-        }
-      ],
-      "duration_ms": 186880,
-      "name": "Summer Rain",
-      "url": "https://open.spotify.com/track/7eUDlOuxZtPJkEhySb3RUv"
-    },
-    {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "Introducing...",
-        "url": "https://open.spotify.com/album/30sSmMeFPyjrMoSwtz6df4"
+        "name": "Aviary: Act II",
+        "url": "https://open.spotify.com/album/5SuwWlGLxGExAXMq4yamrP"
       },
       "artists": [
         {
-          "name": "Kat Wright",
-          "url": "https://open.spotify.com/artist/3FX6ZjUpCoJOwsxleWx2ci"
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
         }
       ],
-      "duration_ms": 314746,
-      "name": "All About You",
-      "url": "https://open.spotify.com/track/6a4ztaI5jl6qCVqeijctwj"
+      "duration_ms": 262491,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/44RQIKmcpCf3YTW9XZ2SGQ"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1823,6 +1807,22 @@
       "duration_ms": 208853,
       "name": "If This Ain't Love (Don't Know What Is)",
       "url": "https://open.spotify.com/track/6rNR0H7NFjTmYyarLLToIp"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "Introducing...",
+        "url": "https://open.spotify.com/album/30sSmMeFPyjrMoSwtz6df4"
+      },
+      "artists": [
+        {
+          "name": "Kat Wright",
+          "url": "https://open.spotify.com/artist/3FX6ZjUpCoJOwsxleWx2ci"
+        }
+      ],
+      "duration_ms": 314746,
+      "name": "All About You",
+      "url": "https://open.spotify.com/track/6a4ztaI5jl6qCVqeijctwj"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1857,22 +1857,6 @@
       "url": "https://open.spotify.com/track/5gNi31Lt7AxHYCMefgS2Xv"
     },
     {
-      "added_at": "2021-11-05 04:01:00",
-      "album": {
-        "name": "Still Rising - The Collection",
-        "url": "https://open.spotify.com/album/3a36uEHK11iZOzaVXTYh50"
-      },
-      "artists": [
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 333126,
-      "name": "No Love Dying - 2021 \"Still Rising\" Version",
-      "url": "https://open.spotify.com/track/0WDFRoUoXqI8DngC41eqF9"
-    },
-    {
       "added_at": "2021-07-13 21:11:09",
       "album": {
         "name": "Ready EP",
@@ -1887,6 +1871,22 @@
       "duration_ms": 269283,
       "name": "Oh, Loretta!",
       "url": "https://open.spotify.com/track/2vOENBztmIbPxh80Ndr02P"
+    },
+    {
+      "added_at": "2021-11-05 04:01:00",
+      "album": {
+        "name": "Still Rising - The Collection",
+        "url": "https://open.spotify.com/album/3a36uEHK11iZOzaVXTYh50"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 333126,
+      "name": "No Love Dying - 2021 \"Still Rising\" Version",
+      "url": "https://open.spotify.com/track/0WDFRoUoXqI8DngC41eqF9"
     },
     {
       "added_at": "2021-10-22 04:02:00",
@@ -1919,22 +1919,6 @@
       "duration_ms": 199698,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/3SVMfyNJqhdZuMnw8T1wNG"
-    },
-    {
-      "added_at": "2022-12-13 18:45:33",
-      "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/5G0S0RDVw7yKKzW3krfKlV"
-      },
-      "artists": [
-        {
-          "name": "WILSN",
-          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
-        }
-      ],
-      "duration_ms": 222496,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1975,6 +1959,22 @@
       "duration_ms": 219546,
       "name": "Rolling Through California (feat. Miko Marks)",
       "url": "https://open.spotify.com/track/6IjR1Pab1JWRm4T8gHfoef"
+    },
+    {
+      "added_at": "2022-12-13 18:45:33",
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/5G0S0RDVw7yKKzW3krfKlV"
+      },
+      "artists": [
+        {
+          "name": "WILSN",
+          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
+        }
+      ],
+      "duration_ms": 222496,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT"
     },
     {
       "added_at": "2022-01-14 05:01:00",

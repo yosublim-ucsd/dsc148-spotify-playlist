@@ -2,7 +2,7 @@
 
 ### [Zouk Station](https://open.spotify.com/playlist/37i9dQZF1DWZjVBCh3y4ph)
 
-> Les hits zouk du moment\. Photo :  LÉA CHURROS
+> Les hits zouk du moment\. Photo : Senyss x Lucas Seb
 
 111 songs - 5 hr 57 min
 

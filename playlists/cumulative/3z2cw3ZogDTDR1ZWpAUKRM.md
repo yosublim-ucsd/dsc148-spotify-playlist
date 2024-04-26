@@ -4,7 +4,7 @@
 
 > 
 
-15 songs - 1 hr 14 min
+16 songs - 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,8 +13,9 @@
 | [Cate’s Brother](https://open.spotify.com/track/7uHJpostAYqNJ8nZM1tp78) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Cate’s Brother](https://open.spotify.com/album/1dj4gSIuS1Zn0dX4TUJp9F) | 3:00 | 2024-04-08 |  |
 | [Chasing Ghosts](https://open.spotify.com/track/5NsejBqTH83xlbKFdjScSw) | [Swoope](https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [We Go On](https://open.spotify.com/album/6R41RzrVQb0K3VCkz6JVWe) | 3:24 | 2024-04-08 |  |
 | [Dear Me](https://open.spotify.com/track/1mBqbGYfsVJH1z2DHPNSbT) | [Nichole Nordeman](https://open.spotify.com/artist/0KSjxPoT71Dq8qcgfWTdHh) | [Every Mile Mattered](https://open.spotify.com/album/51HWO4nZXpw3nRosU2Nwsz) | 5:27 | 2024-04-08 |  |
-| [Deep Magic](https://open.spotify.com/track/3dNOUOwnIKlPnlDrQLX5Ut) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [DEEP MAGIC](https://open.spotify.com/album/6azWJbjlgtEJWpPgdi2H6g) | 3:51 | 2024-04-08 |  |
+| [Deep Magic](https://open.spotify.com/track/3dNOUOwnIKlPnlDrQLX5Ut) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [DEEP MAGIC](https://open.spotify.com/album/6azWJbjlgtEJWpPgdi2H6g) | 3:51 | 2024-04-08 | 2024-04-26 |
 | [Dinner with Friends](https://open.spotify.com/track/1wLN48gT4YmUWs4WMgnw2n) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:57 | 2024-04-08 | 2024-04-24 |
+| [Enemy, love.](https://open.spotify.com/track/1FJuSxwLugTKphYmrLDuhn) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Mercury & Lightning](https://open.spotify.com/album/7IFEn26t34FyQpcSHNdF7P) | 4:18 | 2024-04-25 |  |
 | [Go On](https://open.spotify.com/track/6RD1Xy5c5xEhFeqat974kK) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Sleep Through The Static](https://open.spotify.com/album/3fa8r86AofGDNs1S2d3xgz) | 4:34 | 2024-04-15 |  |
 | [Hannah Hunt \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Spotify Singles](https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a) | 4:38 | 2024-04-08 | 2024-04-16 |
 | [Learn How to Lose: Act 1](https://open.spotify.com/track/56rSvFCJSGDvHvbiJ7EKGg) | [Geographer](https://open.spotify.com/artist/5vvvgOwPjA4R5t07ZXLLwZ) | [A Mirror Brightly](https://open.spotify.com/album/1o4rcU1X9X31s6bdVPhuMJ) | 4:20 | 2024-04-08 |  |

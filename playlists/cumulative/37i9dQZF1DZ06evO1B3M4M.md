@@ -2,7 +2,7 @@
 
 ### [This Is James Newton Howard](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1B3M4M)
 
-> This Is James Newton Howard\. Los temas esenciales, todos en una lista.
+> This is James Newton Howard\. The essential tracks, all in one playlist.
 
 79 songs - 4 hr 21 min
 
@@ -61,8 +61,8 @@
 | [Prince Phillip](https://open.spotify.com/track/6pGHTRfuXLZjta0Kdc9wNG) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Maleficent \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4NCaxImo95pQKUonZwKtRA) | 2:29 | 2023-11-10 |  |
 | [Race To Resting Rock \- Score](https://open.spotify.com/track/1mHH9Fl8Bt3VJHp0ELcp91) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Village](https://open.spotify.com/album/1nbaQ8V8yECyjxej3rPF7G) | 1:16 | 2024-03-10 | 2024-04-12 |
 | [Reason to Hope](https://open.spotify.com/track/4C9FFV0E0BSyNZRwNEzdCz) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [All the Light We Cannot See \(Soundtrack from the Netflix Limited Series\)](https://open.spotify.com/album/3PK26tH7l16bgUQ3KDgciR) | 0:51 | 2023-12-13 | 2024-01-20 |
-| [Rue's Farewell](https://open.spotify.com/track/2kAwInoNljoVi4SsYCnFeo) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Hunger Games: Original Motion Picture Score](https://open.spotify.com/album/6PH1qpo8wXTJnhZHnQi8YT) | 4:59 | 2023-11-10 |  |
-| [Rue's Farewell](https://open.spotify.com/track/4nrwfhN2Wq68HsxkBdRrqR) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Hunger Games: Original Motion Picture Score](https://open.spotify.com/album/5tF7RSw6Zke0WY4fPf6LR9) | 4:59 | 2024-04-21 | 2024-04-23 |
+| [Rue's Farewell](https://open.spotify.com/track/2kAwInoNljoVi4SsYCnFeo) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Hunger Games: Original Motion Picture Score](https://open.spotify.com/album/6PH1qpo8wXTJnhZHnQi8YT) | 4:59 | 2023-11-10 | 2024-04-26 |
+| [Rue's Farewell](https://open.spotify.com/track/4nrwfhN2Wq68HsxkBdRrqR) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Hunger Games: Original Motion Picture Score](https://open.spotify.com/album/5tF7RSw6Zke0WY4fPf6LR9) | 4:59 | 2024-04-21 |  |
 | [Running on Raindrops](https://open.spotify.com/track/39Ji2TlTj6OWZBHKIyN6yp) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Raya and the Last Dragon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3JqX5g07TbeiF0NEK7eYl0) | 2:11 | 2023-11-10 |  |
 | [Salamander Eyes](https://open.spotify.com/track/4w0sBSIgy945h7TZE0FUbc) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Fantastic Beasts: The Crimes Of Grindelwald \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0x0bcLcDHfb8j93LslpznF) | 2:38 | 2023-11-10 |  |
 | [Saving Snow](https://open.spotify.com/track/21bFbd4xXyPqC82S9ufS1Z) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Hunger Games: The Ballad of Songbirds and Snakes \(Original Motion Picture Score\)](https://open.spotify.com/album/6L0YVSVuw4BD3UX3fhl8et) | 1:23 | 2023-12-13 | 2024-01-19 |

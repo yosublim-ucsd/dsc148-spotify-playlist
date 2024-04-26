@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "KIDZ BOP 2024",
+        "url": "https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110928,
+      "name": "Barbie World",
+      "url": "https://open.spotify.com/track/72bMredJdYI2iFjQUPGNOX"
+    },
+    {
+      "album": {
         "name": "Beggin'",
         "url": "https://open.spotify.com/album/2EClhJEKmxxPX9cMOfMXnq"
       },
@@ -132,7 +150,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 153310,
       "name": "Best Thing Ever - Dance Remix",
       "url": "https://open.spotify.com/track/07Z7wck6ixwgA8WWQw9qAN"

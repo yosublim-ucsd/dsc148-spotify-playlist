@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Vacra
 
-2,461 songs - 5 day 11 hr 32 min
+2,462 songs - 5 day 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [40%](https://open.spotify.com/track/2ODWJrjnppYhNysiUWmich) | [Princek](https://open.spotify.com/artist/2epyQQhjCfNZQUox9eedwi), [Greezy](https://open.spotify.com/artist/1zZ9nySaVJp9srjS4Cd1hr), [Dreysoul](https://open.spotify.com/artist/1HhkoWNKswbm3wvU5d3eaL) | [40%](https://open.spotify.com/album/4oMsihI6TK5xkYOjaIFjRF) | 3:45 | 2022-09-23 | 2022-10-01 |
 | [40h semaine](https://open.spotify.com/track/45CNy4u2YDVrIAssuOHowr) | [Matiu](https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE) | [Tipatshimushtunan](https://open.spotify.com/album/2s2VMACiBYgAJGC5DGEvTy) | 4:05 | 2022-08-26 | 2022-09-10 |
 | [440](https://open.spotify.com/track/6VeMApCAe4bx2Z79IClTjs) | [Sly Cooper](https://open.spotify.com/artist/2chxHFLwg84ucaOUKKQ1Bk), [Staccway](https://open.spotify.com/artist/49kOX9GLJqL1gMQNFLqeNJ), [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C) | [Kurrency](https://open.spotify.com/album/35j7uGCXwPDwoislpwGLga) | 3:18 | 2022-09-02 | 2022-09-17 |
+| [45](https://open.spotify.com/track/2FJychFhFkGOxKDGg8vBh8) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI) | [SUR LE CHEMIN \(Phase 3\)](https://open.spotify.com/album/6yV4ZCSKZNoOJan78YLKan) | 2:54 | 2024-04-19 |  |
 | [48H](https://open.spotify.com/track/3cYZm8Opme14PnSlJe7Fvw) | [Rick Pagano](https://open.spotify.com/artist/7kvfne8CQPhLpfCrxDPJlQ) | [Libre](https://open.spotify.com/album/57YHJnI0jgOmfoCMnJtkoy) | 2:59 | 2023-12-15 | 2024-01-13 |
 | [4h30](https://open.spotify.com/track/3diDGmZXIAUdigweJUS3aA) | [Neimo](https://open.spotify.com/artist/7kVt9OkrP0ow91rfCznrTm), [A$tro Boi](https://open.spotify.com/artist/3z3ZlPSstN29UKnGUTbgVJ) | [Rien n'a changé](https://open.spotify.com/album/27CuGXzwlWOTrLdy9GzGBD) | 2:13 | 2022-04-22 | 2022-04-29 |
 | [4MOTION](https://open.spotify.com/track/6ieP0aiCmwen9DShYLJO5r) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [4MOTION](https://open.spotify.com/album/1S5teq1mi2YJxAH1tcB44E) | 3:19 | 2024-03-01 |  |
@@ -1267,7 +1268,7 @@
 | [Le pont Viau](https://open.spotify.com/track/5doTFVVd9oN8PVqaDZ1PX5) | [Luc De Larochellière](https://open.spotify.com/artist/4ghdLjdXY6AMFSQhik0XDX) | [Rhapsodie lavalloise](https://open.spotify.com/album/4fWuYgoTPFQa0IAGx10tgq) | 4:37 | 2021-12-31 | 2022-01-15 |
 | [Le pouvoir des mots](https://open.spotify.com/track/4b72Y053R3rvjw4NIMzZHE) | [Ruffneck](https://open.spotify.com/artist/5EqZfRDXWH1w0m6Djo5UKO), [Boutot](https://open.spotify.com/artist/7HFhi8w52p30roEfUmV7Mh), [Fou Furieux](https://open.spotify.com/artist/01NG6262CegQvqj7GgOWHY) | [Le pouvoir des mots](https://open.spotify.com/album/2rXDNzHfKVJ71uT9EXfa8O) | 5:09 | 2022-12-16 | 2023-01-14 |
 | [Le projecteur](https://open.spotify.com/track/2sK7fTYJrPcLpXY1LznTyy) | [Sylvie Paquette](https://open.spotify.com/artist/7lf5jug92e3K5mWcAzxlrB) | [Le projecteur](https://open.spotify.com/album/45ic3VAhPl9P5AuErZazK9) | 4:09 | 2022-04-29 | 2022-05-14 |
-| [Le Rang des Étoiles](https://open.spotify.com/track/0UoklKqjOkt8q0lqB0ACZd) | [Biga\*Ranx](https://open.spotify.com/artist/5rgdw8NVhnxWL8Poo6HsiX) | [Le Rang des Étoiles](https://open.spotify.com/album/3iQda7g4gHv1ynJHXrHFph) | 1:51 | 2024-03-08 |  |
+| [Le Rang des Étoiles](https://open.spotify.com/track/0UoklKqjOkt8q0lqB0ACZd) | [Biga\*Ranx](https://open.spotify.com/artist/5rgdw8NVhnxWL8Poo6HsiX) | [Le Rang des Étoiles](https://open.spotify.com/album/3iQda7g4gHv1ynJHXrHFph) | 1:51 | 2024-03-08 | 2024-04-26 |
 | [Le reste du temps](https://open.spotify.com/track/3W5N7Yzq14iQ3Zxy1gJPM7) | [Andréanne A\. Malette](https://open.spotify.com/artist/7Cm84tcv4znPwVFtFyIdBB) | [Le reste du temps](https://open.spotify.com/album/6mQG6GKJVdB70oYwl60Yzw) | 3:28 | 2023-10-20 | 2023-10-30 |
 | [Le retour](https://open.spotify.com/track/4181FQbCs5M4QUtCeyBDyS) | [Bermuda](https://open.spotify.com/artist/7jIZ4xeHqq7ZJzhsHlorTe) | [Le retour](https://open.spotify.com/album/3ownVoBchx3CqJCeB2P58M) | 3:50 | 2022-06-17 | 2022-06-25 |
 | [Le retour en bateau](https://open.spotify.com/track/5W5yReDkiROArWbkqNHJWC) | [Kid Francescoli](https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD) | [Azuro \(Bande originale du film\)](https://open.spotify.com/album/0Ufx4w2gLYbb4HtDR9Mxg1) | 2:44 | 2022-03-11 | 2022-03-18 |

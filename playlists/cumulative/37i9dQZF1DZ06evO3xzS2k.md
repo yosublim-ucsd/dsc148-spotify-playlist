@@ -2,7 +2,7 @@
 
 ### [This Is Nothing](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3xzS2k)
 
-> This is Nothing\. The essential tracks, all in one playlist.
+> This is Nothing\. Todos os maiores hits em uma só playlist.
 
 58 songs - 4 hr 20 min
 

@@ -4,7 +4,7 @@
 
 > Breathe in deep with arms wide open in worship\. This is going to be epic!
 
-189 songs - 18 hr 25 min
+190 songs - 18 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Already Done](https://open.spotify.com/track/2bcjiEmggC5r06kuLuwGIm) | [Free Worship](https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9) | [Already Done](https://open.spotify.com/album/0RBO5fep7UmvtUBd0102HW) | 5:24 | 2020-06-26 | 2022-07-29 |
 | [Already Done](https://open.spotify.com/track/59anQv3Oeypyj7vVRZ7S9g) | [Free Worship](https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9) | [Already Done](https://open.spotify.com/album/5fFrCKg2XIKXQNlAmZ8q0z) | 5:24 | 2020-06-26 | 2024-04-19 |
 | [Always Loved Me](https://open.spotify.com/track/2fepfnn0tCwSSAVReXQpPh) | [Iron Bell Music](https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK) | [Glory to Glory](https://open.spotify.com/album/4QCMs9jcAhEa5zQXjL54YB) | 5:16 | 2020-06-26 | 2023-07-17 |
+| [As It Is in Heaven \- Live](https://open.spotify.com/track/1nnjG2b7LtQ0DZhPwdQPc0) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa), [Michael Farren](https://open.spotify.com/artist/0KL1tXshbivm72a4PAWUjF), [Alisa Turner](https://open.spotify.com/artist/02ysP9OjODcaMSXe6SHAre) | [Songs of Heaven and Earth \(Live\)](https://open.spotify.com/album/3RVHOJT2e2bxHDm1iJtLH6) | 5:20 | 2020-06-26 |  |
 | [As the Deer](https://open.spotify.com/track/5XlTnOh6vZQxZY4BHrIp5e) | [Matt Gilman](https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P) | [Awaken Love](https://open.spotify.com/album/5uSSpMIa05OUxsuYat8LvG) | 4:43 | 2020-06-26 |  |
 | [At Your Whisper \- Live](https://open.spotify.com/track/3P0ffgyiJKBpWL03gYL8mt) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Awe + Wonder \(Live\)](https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g) | 9:47 | 2020-06-26 | 2022-07-28 |
 | [Awake My Soul \(With Tasha Cobbs Leonard\)](https://open.spotify.com/track/31hmy3Djo43cIjZptFN5xs) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Awake My Soul \(With Tasha Cobbs Leonard\)](https://open.spotify.com/album/2HC0cgHArt7LwYi31BygLX) | 3:45 | 2020-06-26 |  |
@@ -76,7 +77,7 @@
 | [Grace Came Down \- Live](https://open.spotify.com/track/3NovliZu8UfjMmUhp81lsg) | [Grace City](https://open.spotify.com/artist/0nthudnBUjSpYoUnNawp6J), [Chase Wagner](https://open.spotify.com/artist/05pJ61Jqg42zcdFsCMdUDi) | [Grace Came Down \(Live\)](https://open.spotify.com/album/6fF87ec4WfT9dw9xugThn7) | 5:02 | 2020-06-26 | 2022-06-07 |
 | [Graves Into Gardens \(Live\)](https://open.spotify.com/track/0pNizrRmvu5S16fH6ccm0v) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3AYUzOtIQoLrxDZNwaPErh) | 7:32 | 2020-06-26 |  |
 | [Great Are You Lord](https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY) | [one sonic society](https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW) | [Great Are You Lord EP](https://open.spotify.com/album/6tjfwXYxnJoPABI2V2PPbf) | 3:52 | 2020-06-26 |  |
-| [Great Redeemer](https://open.spotify.com/track/2JoojhYT5czjfxQF9YLyuJ) | [Lucy Grimble](https://open.spotify.com/artist/0d0ICZg8jE6D2RkDHCTIVq) | [Great Redeemer](https://open.spotify.com/album/0nX0WKiG9z8YqiKFqZaYiq) | 5:05 | 2020-06-26 |  |
+| [Great Redeemer](https://open.spotify.com/track/2JoojhYT5czjfxQF9YLyuJ) | [Lucy Grimble](https://open.spotify.com/artist/0d0ICZg8jE6D2RkDHCTIVq) | [Great Redeemer](https://open.spotify.com/album/0nX0WKiG9z8YqiKFqZaYiq) | 5:05 | 2020-06-26 | 2024-04-26 |
 | [Hallelujah For The Cross \- Live](https://open.spotify.com/track/5F8BAvMlGfsmSEIHEJb5BT) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Hallelujah For The Cross \(Live\)](https://open.spotify.com/album/7gl4xo51W88Hp6PaYuEVOL) | 5:31 | 2020-06-26 |  |
 | [Hallelujah Lives in Me](https://open.spotify.com/track/6j6opS2iByXTthkq2rKEz0) | [Iron Bell Music](https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK) | [Glory to Glory](https://open.spotify.com/album/4QCMs9jcAhEa5zQXjL54YB) | 5:28 | 2020-06-26 | 2022-07-29 |
 | [Healer](https://open.spotify.com/track/1XnfyPsvKZq7r2h2YHnHp3) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Healer \(Audio Performance Trax\)](https://open.spotify.com/album/54WL5362PxxVIa6GZEiOaN) | 5:07 | 2020-06-26 | 2024-02-28 |

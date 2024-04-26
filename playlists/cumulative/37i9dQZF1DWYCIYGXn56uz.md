@@ -2,9 +2,9 @@
 
 ### [GENERAZIONE Z](https://open.spotify.com/playlist/37i9dQZF1DWYCIYGXn56uz)
 
-> ✨giovane✨pop✨z✨ Cover: Will
+> ✨giovane✨pop✨z✨ Cover: bnkr44
 
-378 songs - 17 hr 28 min
+379 songs - 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,8 @@
 | [Grazie](https://open.spotify.com/track/0oqHbECCWrerfCCzxBWIIU) | [wax](https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS) | [Grazie](https://open.spotify.com/album/74sxU8T75KZXpiXz48acJo) | 2:30 | 2023-03-23 | 2023-05-20 |
 | [Grazie](https://open.spotify.com/track/2AySyotmmvkN6mUH5aitwm) | [wax](https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS) | [Grazie](https://open.spotify.com/album/0d6lU09aksGooHDTSfvWB2) | 2:30 | 2023-05-18 | 2023-05-26 |
 | [GRETA](https://open.spotify.com/track/5UmOOuF0uHZ7qMmSgAwMuE) | [Greta](https://open.spotify.com/artist/13GjdjA8k3fmCHSfcAxTH0) | [GRETA](https://open.spotify.com/album/5bpW91E9krBVNx7enxPriy) | 2:56 | 2023-12-15 | 2024-01-05 |
-| [Guagliò](https://open.spotify.com/track/3XUBw8wZ3lyokCTYjVa6pH) | [Petit](https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde) | [Guagliò](https://open.spotify.com/album/3dAu3bFbyABqhGonrsIJcS) | 2:42 | 2023-12-15 |  |
+| [GUAGLIÒ](https://open.spotify.com/track/3XUBw8wZ3lyokCTYjVa6pH) | [Petit](https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde) | [GUAGLIÒ](https://open.spotify.com/album/3dAu3bFbyABqhGonrsIJcS) | 2:42 | 2023-12-15 |  |
+| [Ho Fatto Un Sogno](https://open.spotify.com/track/5OiSAWiUSwWQJdmQ5dtFEb) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [Ho Fatto Un Sogno](https://open.spotify.com/album/2aLaFLGNQdGkiUicivMLQ1) | 2:40 | 2024-04-25 |  |
 | [IENA](https://open.spotify.com/track/0jC7hX8ygrDtNAXYq2sinP) | [KIA](https://open.spotify.com/artist/0NMIwaObVtRr1LIwZylGKG) | [IENA](https://open.spotify.com/album/1RY6BuajfKHnxwGj9azBRL) | 2:36 | 2024-03-07 | 2024-03-21 |
 | [IL BENE NEL MALE](https://open.spotify.com/track/2j8E9m3kDHfxFnGhN4fXaC) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [IL BENE NEL MALE](https://open.spotify.com/album/2rr30y9ialqckQrhkbb9DQ) | 3:33 | 2023-03-23 | 2023-09-29 |
 | [IL CORAGGIO DELLA PAURA](https://open.spotify.com/track/2XUsIKnMYTjGNRsloL1DHk) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [INVISIBILI](https://open.spotify.com/album/6iT3GIpurtTE3MiMB0VxQL) | 2:54 | 2023-09-14 | 2023-11-10 |
@@ -228,7 +229,7 @@
 | [Niente da perdere](https://open.spotify.com/track/60UzJigT6149nbKWCzo3WK) | [Mido](https://open.spotify.com/artist/4IDQpLt670azHbRBQkwZQP) | [Niente da perdere](https://open.spotify.com/album/71hP7WroPbAvUHWkNPSz6D) | 2:24 | 2023-10-05 | 2023-10-27 |
 | [Niente da perdere](https://open.spotify.com/track/3HiQ6Tn1mWVgYDLgeaxjS5) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Niente da perdere](https://open.spotify.com/album/73llI6vpyKmE5Na0tlGMca) | 2:46 | 2023-03-23 |  |
 | [Non Andare](https://open.spotify.com/track/73E25dgSkFaePbLHzJHrXF) | [Diego Lazzari](https://open.spotify.com/artist/64ni8l4f1uyxljOKU0EugH) | [Non Andare](https://open.spotify.com/album/33iF7SSaTmz5LdB7ImNxhd) | 2:34 | 2023-03-23 | 2023-04-14 |
-| [Non dimenticare](https://open.spotify.com/track/1cxwdeMHwOJx1L6U9UVEwx) | [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc) | [Non dimenticare](https://open.spotify.com/album/3vTRhTcI2ieRik3jcxw4er) | 2:55 | 2024-01-11 |  |
+| [Non dimenticare](https://open.spotify.com/track/1cxwdeMHwOJx1L6U9UVEwx) | [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc) | [Non dimenticare](https://open.spotify.com/album/3vTRhTcI2ieRik3jcxw4er) | 2:55 | 2024-01-11 | 2024-04-26 |
 | [Non me ne frega un cazzo](https://open.spotify.com/track/3pKo8ufvNGhDSJWxMn8Gpa) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [La mia stanza \(Deluxe\)](https://open.spotify.com/album/11N2afr57Zc4Zz9ntU3w7Q) | 2:37 | 2023-10-19 | 2023-11-17 |
 | [Non Mi Mancherai](https://open.spotify.com/track/272acVPVqwmcNyHi0J2pmv) | [trigNO](https://open.spotify.com/artist/0SBg7WdbOCGPBJesT19A4R), [Joe Viegas](https://open.spotify.com/artist/0Yrfr8QlFUtMfIEM94VLPJ) | [Non Mi Mancherai](https://open.spotify.com/album/4PB54tmz9c5AhdIl1LxX10) | 2:30 | 2023-05-04 | 2023-05-19 |
 | [Non Mi Va](https://open.spotify.com/track/3ljUzyyjKC1TWQdbIo2mib) | [NIVEO](https://open.spotify.com/artist/1DbAJ7OMqizWZIRnccdmSS) | [Non Mi Va](https://open.spotify.com/album/11UvXQ70qJ3ct1kxgzHRRc) | 2:59 | 2023-06-01 | 2023-06-09 |
@@ -244,7 +245,7 @@
 | [Nostalgia](https://open.spotify.com/track/22gH5Qg5j5ZzF7LaR7Nrkj) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Nostalgia](https://open.spotify.com/album/3WKUnE0tlqfep4jO5gyF3P) | 3:02 | 2023-03-23 | 2023-07-07 |
 | [Notte a Roma](https://open.spotify.com/track/6tBJ8wWOkxEcYFT3selR9r) | [Charlotte M](https://open.spotify.com/artist/6v839swiOjpjUxeXJ3l78M) | [Crush](https://open.spotify.com/album/2ddHdXVTTwAgvjhgyLg79T) | 2:24 | 2023-09-14 | 2023-10-06 |
 | [Notte Fonda](https://open.spotify.com/track/6cGrb2jhfQnrsVl1gRDG87) | [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc) | [Notte Fonda](https://open.spotify.com/album/5yaW6sXoUdLpL9VBOdvjs2) | 2:50 | 2024-04-11 |  |
-| [notte vodka](https://open.spotify.com/track/7w6K5uvRrZHdHNgQt5lSXN) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [notte vodka](https://open.spotify.com/album/13jKhdRkvOzf7yzfRkuReL) | 2:25 | 2024-03-14 | 2024-04-19 |
+| [notte vodka](https://open.spotify.com/track/7w6K5uvRrZHdHNgQt5lSXN) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [notte vodka](https://open.spotify.com/album/13jKhdRkvOzf7yzfRkuReL) | 2:25 | 2024-03-14 |  |
 | [NULLA \(feat\. chiello\)](https://open.spotify.com/track/2cUgStjffnjioamiHZV96J) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8), [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [LA NOTTE](https://open.spotify.com/album/0ffV9Lc7faWdmmvEKHHpiA) | 3:00 | 2023-09-21 | 2023-10-20 |
 | [NUVOLA](https://open.spotify.com/track/305DlkOzRc0TYoKQr00Kud) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP) | [NUVOLA](https://open.spotify.com/album/1ONjw8s42tymCBK8FGmiAk) | 2:49 | 2023-12-12 |  |
 | [O Mi Uccidi](https://open.spotify.com/track/0jkBVkeS6L5NtvPn29NeIK) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [REBEL \(Deluxe\)](https://open.spotify.com/album/0BSVUwV411OWhUlAIK9epW) | 2:59 | 2023-03-23 | 2023-05-05 |

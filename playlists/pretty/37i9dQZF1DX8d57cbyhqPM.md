@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 
 > Du Congo, au monde\. 🌍 Photo: Naza
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,140 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,196 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 | 57 | [Dendisa](https://open.spotify.com/track/4pCgqcgvfx0VQwzgzY63Vw) | [Gaz Mawete](https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Dendisa](https://open.spotify.com/album/1uSSXiCyplT46MTqfia54L) | 4:06 |
 | 58 | [Afro Mbokalisation](https://open.spotify.com/track/3P5wVufq5aP1hDMl1W1qvO) | [Afara Tsena](https://open.spotify.com/artist/6DBlaKCGO6sSnjDopf2bwP) | [Afro Mbokalisation](https://open.spotify.com/album/5lv3btQPZawglTewcn1Y1h) | 4:07 |
 | 59 | [Linga Nga](https://open.spotify.com/track/7IK4uieP9QrhMvlWF2drR4) | [Singuila](https://open.spotify.com/artist/7uN1aqKCrD6Ju1sn74MPgf), [Gaz Mawete](https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay) | [Linga Nga](https://open.spotify.com/album/7bpFRNNu19pJM5WKarDQjD) | 3:50 |
-| 60 | [Bad](https://open.spotify.com/track/3bmHBHh990jX1pTANKDPoe) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 3:46 |
+| 60 | [Bad](https://open.spotify.com/track/3bmHBHh990jX1pTANKDPoe) | [Ninho](https://open.spotify.com/artist/2qkrqa9cENicGRgrFo83Ox), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 3:46 |
 | 61 | [Diamant](https://open.spotify.com/track/6KUZmPHPg2SGrINq8SVLI7) | [MASIDI](https://open.spotify.com/artist/2ZfpJTfi4q60zRUFWhll73), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Diamant](https://open.spotify.com/album/6Tseko2czwOTsBe4A3ST5W) | 2:48 |
 | 62 | [Maziwa](https://open.spotify.com/track/09IfxlKqPL33hhPTfO6wfO) | [Dj Matoss](https://open.spotify.com/artist/5V7OH7SY4AhOaJ0zywxqls), [Dj Seven](https://open.spotify.com/artist/06XWI4mzXrPtvdLmzfIAtN), [Agressivo Nyandoro](https://open.spotify.com/artist/0k7lo30w58OXmYZGVbjCyx), [The Tozobar](https://open.spotify.com/artist/1agHGqi4DsPAGzDHQUOvKg) | [Maziwa](https://open.spotify.com/album/7wqLvH7cLXKw0YnVUoNyfz) | 3:13 |
 | 63 | [Carré \(feat\. Fally Ipupa\)](https://open.spotify.com/track/558wwMmRlaCXruzBg7s1QG) | [Mokobé](https://open.spotify.com/artist/6B535quc1yWnDhnBMCvosY), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Carré \(feat\. Fally Ipupa\)](https://open.spotify.com/album/4oG5nKIyQXVKVozGUbOlnA) | 4:03 |

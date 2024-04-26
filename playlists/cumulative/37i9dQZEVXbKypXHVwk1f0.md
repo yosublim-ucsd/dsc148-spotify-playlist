@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Panama.
 
-1,140 songs - 2 day 16 hr 35 min
+1,141 songs - 2 day 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,7 +202,7 @@
 | [Confusión](https://open.spotify.com/track/3aCCiazm1YrVwYFBuGSp9H) | [Hache Theraccoon](https://open.spotify.com/artist/2lorQ3rB2JBFAsJ8OwKBDw) | [Noche Bahía](https://open.spotify.com/album/0VYjaU634QW8kddznBR0p1) | 2:35 | 2023-05-27 | 2023-05-30 |
 | [CONSENTIRTE](https://open.spotify.com/track/5SRi5RHKLeq2KUhcLpRpZc) | [Jennifer Rojo](https://open.spotify.com/artist/0SMyQijONSkk6q5UseJXEN) | [CONSENTIRTE](https://open.spotify.com/album/7sKakAxh41JGIJCeXhVlG9) | 3:06 | 2022-08-15 | 2022-08-30 |
 | [Contigo](https://open.spotify.com/track/6Y5aTqQNbr0LLtxcIXMCH4) | [BM Legacy](https://open.spotify.com/artist/1ux3jQBNhz3EQwG8qgbb1q), [Ale Mix](https://open.spotify.com/artist/2uxoElzOZDIX9L5Dc7Oa2F), [Legado ARM](https://open.spotify.com/artist/5GpMQrgxNjUa38cPXLtwbe), [Alberto Stylee](https://open.spotify.com/artist/5mgqYTU6dhKlEdi7DOy4uU) | [Contigo](https://open.spotify.com/album/6pbVsKe69AMnOYIT8cZpmG) | 3:02 | 2022-09-23 | 2022-10-09 |
-| [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 | 2024-02-16 |  |
+| [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 | 2024-02-16 | 2024-04-26 |
 | [Controlla \- Remix](https://open.spotify.com/track/3FhGRaF1qZYI56jhdq5Ppq) | [Carriee](https://open.spotify.com/artist/1heYNxgVSVkQoilJIh18dz), [Athzy](https://open.spotify.com/artist/0O0itpNfasVDKjX5O3Pmp3) | [Controlla \(Remix\)](https://open.spotify.com/album/1lgtVG6PaCMalcQMSpYYRV) | 3:26 | 2022-10-24 | 2022-11-12 |
 | [Cool](https://open.spotify.com/track/2Hm8cQ4wTfNfjoBj2lqBdX) | [Juanfran](https://open.spotify.com/artist/7zY0DMisq1oYXvNNgGwHBY) | [Cool](https://open.spotify.com/album/4U2t9iHOomCLPkn4c9tYi9) | 3:11 | 2022-10-30 | 2022-12-15 |
 | [Copa Vacía](https://open.spotify.com/track/2iVgM5C7m1G4CJGbms301G) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Copa Vacía](https://open.spotify.com/album/4qtiO9UGqajxnKC0z0Mxn7) | 2:53 | 2023-07-01 | 2023-07-07 |
@@ -333,6 +333,7 @@
 | [ESCALOFRÍOS](https://open.spotify.com/track/5CVMsPYtSJ3l7UxYiI2lt7) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:18 | 2022-04-02 | 2022-04-10 |
 | [Espectacular](https://open.spotify.com/track/2Y10sRGf6A3jsyeFatihJG) | [Sou El Flotador](https://open.spotify.com/artist/4zhRp8eBXDLLmToDwAsLgK) | [Espectacular](https://open.spotify.com/album/0k3eYrs2SWcAfk2LPnoYg9) | 3:27 | 2022-09-15 | 2022-09-19 |
 | [Espinas](https://open.spotify.com/track/4KSRjzODSOcssCxzvtuSGn) | [Mary Angels](https://open.spotify.com/artist/446z04mP9CHOpsvpZilTYH) | [Espinas](https://open.spotify.com/album/4PCpSl9iWhfWKIfI8bKCrY) | 2:22 | 2023-09-17 | 2023-09-27 |
+| [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-04-25 |  |
 | [Estrella](https://open.spotify.com/track/2NxWFEYOxwBCYtp5lEPbs6) | [Emilio Romero](https://open.spotify.com/artist/1EhEcfLBOBTPLBuQbINxF9) | [Estrella](https://open.spotify.com/album/2hlVRUUVAg7mJVtWyTBx9v) | 3:38 | 2023-08-07 | 2023-08-20 |
 | [Exit](https://open.spotify.com/track/66jvPrhrBjUeaz7hvg20vE) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Las Leyendas Nunca Mueren](https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA) | 3:55 | 2021-11-28 | 2021-11-30 |
 | [Explícito](https://open.spotify.com/track/6qraVL4IJaIj0IuEexYJNa) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Para Mi Ex](https://open.spotify.com/album/4ht3ZwHsmWhrrR8LcKd62u) | 3:15 | 2021-03-27\* | 2021-07-04 |

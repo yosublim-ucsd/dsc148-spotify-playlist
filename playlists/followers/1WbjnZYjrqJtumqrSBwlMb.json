@@ -1,5 +1,5 @@
 {
-  "2024-04-25": 14,
+  "2024-04-26": 14,
   "date_first_scraped": "2024-04-06",
   "description": "Objectively good music",
   "name": "The True Benny Mix",
@@ -16185,6 +16185,24 @@
       "duration_ms": 300213,
       "name": "When We Die (Can We Still Get High?) (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/08uWHOhYijA1DXxhHSDBDH"
+    },
+    {
+      "album": {
+        "name": "loveless",
+        "url": "https://open.spotify.com/album/3USQKOw0se5pBNEndu82Rb"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251946,
+      "name": "when you sleep",
+      "url": "https://open.spotify.com/track/2KylN9C0wNbzLgZNTG9oiU"
     },
     {
       "album": {

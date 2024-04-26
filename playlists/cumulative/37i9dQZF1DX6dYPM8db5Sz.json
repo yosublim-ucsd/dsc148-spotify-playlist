@@ -3482,7 +3482,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-23",
+      "date_removed": null,
       "duration_ms": 211195,
       "name": "Everything Slow",
       "url": "https://open.spotify.com/track/5OwSmeumvnHstbaBpaEAnZ"
@@ -4802,7 +4802,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 154793,
       "name": "Holding On To You",
       "url": "https://open.spotify.com/track/7eUpf4w7JE323DhRnjIysS"
@@ -8664,7 +8664,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 208551,
       "name": "Postcards",
       "url": "https://open.spotify.com/track/3oyNkeV7QnQ68biEQhkPLH"
@@ -9522,6 +9522,24 @@
       "duration_ms": 190228,
       "name": "Screen Saviour",
       "url": "https://open.spotify.com/track/2VDhCwjfmixbmnL6h63I2m"
+    },
+    {
+      "album": {
+        "name": "Seasons Change",
+        "url": "https://open.spotify.com/album/1CZkeYwmfdyAJthwVKkUac"
+      },
+      "artists": [
+        {
+          "name": "Fever Fields",
+          "url": "https://open.spotify.com/artist/4Moi2zWtZnsR94AwwLHECC"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188307,
+      "name": "Seasons Change",
+      "url": "https://open.spotify.com/track/0K0f1yZYSHiC8B08qYTmiJ"
     },
     {
       "album": {

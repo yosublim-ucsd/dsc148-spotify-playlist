@@ -1,5 +1,5 @@
 {
-  "2024-04-25": 860850,
+  "2024-04-26": 860954,
   "date_first_scraped": "2023-07-29",
   "description": "This is Britney Spears. The essential tracks, all in one playlist.",
   "name": "This Is Britney Spears",
@@ -381,7 +381,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-24",
+      "date_removed": null,
       "duration_ms": 251240,
       "name": "Gimme More",
       "url": "https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH"
@@ -1203,7 +1203,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 201933,
       "name": "Toy Soldier",
       "url": "https://open.spotify.com/track/4uSLxMqGSIuWeMSoLdoKq3"

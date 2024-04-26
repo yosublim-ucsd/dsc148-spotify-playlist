@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Coolie
 
-1,269 songs - 3 day 5 hr 45 min
+1,270 songs - 3 day 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1260,6 +1260,7 @@
 | [Yedho Yedho Nenjam \(From "Yaamaa"\)](https://open.spotify.com/track/3sQyz0Rw6ja0FAATfWcsu5) | [Harish Raghavendra](https://open.spotify.com/artist/4Kw0NhqitzjxLy1jH5FlTg) | [Yedho Yedho Nenjam \(From "Yaamaa"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/5XsTVp4BuVIyWlG0jzCWE0) | 3:32 | 2022-08-24 | 2022-09-09 |
 | [Yedhu Naan Inge \(From "Anel Meley Pani Thuli"\)](https://open.spotify.com/track/1wvhqJb8Vq4yz7kzvFzWiC) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Andrea Jeremiah](https://open.spotify.com/artist/5yoqPvofOHrBc3Z6VZyTsj) | [Yedhu Naan Inge \(From "Anel Meley Pani Thuli"\)](https://open.spotify.com/album/4ZthqGoIz0Xs2aFaSG1CkV) | 4:00 | 2022-11-09 | 2022-11-22 |
 | [Yedhudhaan Inga Sandhosam \- From "Lucky Man"](https://open.spotify.com/track/5Ev3pHxskZ2qAInAass461) | [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU), [Sanjay Subrahmanyan](https://open.spotify.com/artist/3Q215HSlFN5mIwiwgAiLu8) | [Lucky Man \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7009toCxzwwQuicgXAvvzR) | 3:08 | 2023-08-24 | 2023-09-05 |
+| [Yeduvaraiyo](https://open.spotify.com/track/1SlvfSKD2y5kfr1qz5pRcv) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Viveka](https://open.spotify.com/artist/5r80gH9ibGjUVSQrXD8W7Z) | [Rathnam \(Tamil\)](https://open.spotify.com/album/5FG2EhO0GS0HQQCihpAE7F) | 4:19 | 2024-04-25 |  |
 | [Yei Aadi Padi](https://open.spotify.com/track/30ePMdbjpmeoNmb9oaiaiO) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Priya Mali](https://open.spotify.com/artist/5PMrnGmlpH0l7Uc9DnnatM), [Sarath Santosh](https://open.spotify.com/artist/4Qv21cLGHUxyffRHV7vaUp) | [Music School \(Tamil\)](https://open.spotify.com/album/65fetqFC70q2tDDE2gupHm) | 3:37 | 2023-04-20 | 2023-04-26 |
 | [Yelammaa Yela](https://open.spotify.com/track/3bNB3CUoRjxcmxKKOGHtuh) | [Arya Dhayal](https://open.spotify.com/artist/7BA8GrV4hUWohyMyGGs4So), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Yaanai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WoFolreevuNzoNhjeu9MS) | 4:08 | 2022-07-04 | 2022-07-16 |
 | [Yele Ilanchingamey](https://open.spotify.com/track/6r9x5kACUag7BUjE7VjOq8) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Rakshita Suresh](https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ) | [Cobra \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5QlbnAP1xU0GMwpjchHLA3) | 3:28 | 2022-07-12 | 2022-08-03 |

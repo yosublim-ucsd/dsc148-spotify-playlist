@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > What Will the 2024 Song of the Summer Be!? Find out with the perfect soundtrack for the sweatiest season! Includes Summer 2023, 2022 editions &amp; bonus tracks.
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 107,636 likes - 137 songs - 8 hr 16 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 107,635 likes - 137 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,13 +28,13 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 18 | [Ring Ring](https://open.spotify.com/track/4jVI4bfpGUG8F7zdWI9onQ) | [Marelle](https://open.spotify.com/artist/6s3BBh2IX6IGopBTA8fwGq) | [One Day at a Time](https://open.spotify.com/album/0HRIQLGIr1zNrngGQzY3MH) | 2:39 |
 | 19 | [Jan 18](https://open.spotify.com/track/1HyTBT6nTDCQ7DOVvEBG9K) | [Gee Litt](https://open.spotify.com/artist/62YcuNZvRkWXrXvmOU1bWc) | [Good Grief](https://open.spotify.com/album/35JTFVhzuOaoWA9ceoPp5T) | 2:37 |
 | 20 | [Multiply \- Feat\. Luedji Luna](https://open.spotify.com/track/5PaQRXicaR5efjg0Pl8Ev9) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Multiply \(Feat\. Luedji Luna\)](https://open.spotify.com/album/77uUexIkyFfbFNRqFNNpHG) | 4:00 |
-| 21 | [Stop \(you can let it go\)](https://open.spotify.com/track/4W4ecDBEwpKKNFvHPhUExQ) | [Jennarie](https://open.spotify.com/artist/3vvIH5V5MjAhLrQgfQvlhX) | [Stop \(you can let it go\)](https://open.spotify.com/album/241CvdL5vl09jsuayDHxnc) | 3:15 |
-| 22 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 |
-| 23 | [Steal My Sunshine](https://open.spotify.com/track/4agp6oHofabdUedr0B1krj) | [LEN](https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ) | [You Can't Stop The Bum Rush](https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k) | 4:25 |
-| 24 | [Talk To Me](https://open.spotify.com/track/2tseEPCbD2xdVl86U4ZYgX) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Talk To Me](https://open.spotify.com/album/5WNJDdCcm16oW2VBKCXBt3) | 3:18 |
-| 25 | [Volverme de Sal](https://open.spotify.com/track/2A38kPld5RSajTl3At8D5w) | [Isa Navarro](https://open.spotify.com/artist/36UWMmw48VBENoexcFMlMO) | [Volverme de Sal](https://open.spotify.com/album/4o5fGacUaL8BCoyk09VqXX) | 2:18 |
-| 26 | [Aphid \(feat\. Dijon\)](https://open.spotify.com/track/5BLRxUeMQFa4cK61ljrNiF) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm) | [Aphid \(feat\. Dijon\)](https://open.spotify.com/album/4vtOzM8bPSkU9ctAJMcVlc) | 2:45 |
-| 27 | [Tears](https://open.spotify.com/track/2pp6R1OYJ4aOrlPSW3nwf5) | [SK & the Kings](https://open.spotify.com/artist/0GrMwJY2CHZ8tMrM0QCW7N) | [Tears](https://open.spotify.com/album/4co1LG0NwT4GxMeFJWkmBC) | 3:34 |
+| 21 | [Ojos](https://open.spotify.com/track/1GlislujDk7CZm9gG970hR) | [Nia Padilla](https://open.spotify.com/artist/072YYOyNb2t1yNqrnrCJYy) | [Ojos](https://open.spotify.com/album/0ensfJNSOFjtXpep6z01tZ) | 3:19 |
+| 22 | [Stop \(you can let it go\)](https://open.spotify.com/track/4W4ecDBEwpKKNFvHPhUExQ) | [Jennarie](https://open.spotify.com/artist/3vvIH5V5MjAhLrQgfQvlhX) | [Stop \(you can let it go\)](https://open.spotify.com/album/241CvdL5vl09jsuayDHxnc) | 3:15 |
+| 23 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 |
+| 24 | [Steal My Sunshine](https://open.spotify.com/track/4agp6oHofabdUedr0B1krj) | [LEN](https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ) | [You Can't Stop The Bum Rush](https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k) | 4:25 |
+| 25 | [Talk To Me](https://open.spotify.com/track/2tseEPCbD2xdVl86U4ZYgX) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Talk To Me](https://open.spotify.com/album/5WNJDdCcm16oW2VBKCXBt3) | 3:18 |
+| 26 | [Volverme de Sal](https://open.spotify.com/track/2A38kPld5RSajTl3At8D5w) | [Isa Navarro](https://open.spotify.com/artist/36UWMmw48VBENoexcFMlMO) | [Volverme de Sal](https://open.spotify.com/album/4o5fGacUaL8BCoyk09VqXX) | 2:18 |
+| 27 | [Aphid \(feat\. Dijon\)](https://open.spotify.com/track/5BLRxUeMQFa4cK61ljrNiF) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm) | [Aphid \(feat\. Dijon\)](https://open.spotify.com/album/4vtOzM8bPSkU9ctAJMcVlc) | 2:45 |
 | 28 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 |
 | 29 | [P.S.](https://open.spotify.com/track/7DPhPb2XcbpcVrvypn9DjT) | [Leo Lovechild](https://open.spotify.com/artist/2PWREFLQkRaPlrHyp8Pe9V) | [love is only as great as the sum of its parts](https://open.spotify.com/album/5sJGMzmDAz8DCQykwGcJTy) | 3:43 |
 | 30 | [bury a friend](https://open.spotify.com/track/4SSnFejRGlZikf02HLewEF) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:13 |
@@ -146,4 +146,4 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 136 | [roots](https://open.spotify.com/track/3IjuJt2trFhg3bFtYfeWGF) | [Izzy Pingrey](https://open.spotify.com/artist/2ej9RVTfj7mRKsjo4dwB5a) | [roots](https://open.spotify.com/album/5xRdzoZIP8e2k4HGdBM4Se) | 3:46 |
 | 137 | [Babylon](https://open.spotify.com/track/6zlwcDw4sY6FOIfUhQ1alu) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Babylon](https://open.spotify.com/album/6nDSrdXMDzutmKsDPCif4h) | 3:40 |
 
-Snapshot ID: `ODM3OCw0ZjIxMGFhZjU1OWU1ZDE4NmQyODk2NTY0YTk4NzkyNDE2ZTQzMmNj`
+Snapshot ID: `ODM4NCw4NjdhMGNiNmVkZWY4MDE3N2NkYmFiMTFmZTE2YzU4YmJmMDcyOTg3`

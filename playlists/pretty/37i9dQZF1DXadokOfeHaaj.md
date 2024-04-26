@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 
 > The best new indie dance music\. Cover: Porij
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,583 likes - 69 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,594 likes - 69 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

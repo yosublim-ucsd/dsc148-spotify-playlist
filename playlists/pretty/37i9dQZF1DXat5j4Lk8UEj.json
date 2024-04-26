@@ -1,6 +1,6 @@
 {
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & the Night Sweats",
-  "num_followers": 488350,
+  "num_followers": 488346,
   "original_name": "Folk Rock Favorites",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "reason to live",
+        "url": "https://open.spotify.com/album/1uep2c3fsOsD6mcxFijBZP"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "duration_ms": 150577,
+      "name": "reason to live",
+      "url": "https://open.spotify.com/track/2s8bnU55x1cRJPijY9mRC9"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Sad Hunk",
         "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 285613,
       "name": "Peaches",
       "url": "https://open.spotify.com/track/0JsRZWdSquAQtgyJO8mhLA"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "reason to live",
-        "url": "https://open.spotify.com/album/1uep2c3fsOsD6mcxFijBZP"
-      },
-      "artists": [
-        {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
-        }
-      ],
-      "duration_ms": 150577,
-      "name": "reason to live",
-      "url": "https://open.spotify.com/track/2s8bnU55x1cRJPijY9mRC9"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Waste of Time",
-        "url": "https://open.spotify.com/album/7f39VmqaoMuEi30pYKFlh6"
-      },
-      "artists": [
-        {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
-        }
-      ],
-      "duration_ms": 183139,
-      "name": "Waste of Time",
-      "url": "https://open.spotify.com/track/1iMzZNgkgw5xITKIgBKh9O"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "The Fray",
         "url": "https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 291826,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/4FxBG9VPpxPXMDgqLgW5ZD"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Waste of Time",
+        "url": "https://open.spotify.com/album/7f39VmqaoMuEi30pYKFlh6"
+      },
+      "artists": [
+        {
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+        }
+      ],
+      "duration_ms": 183139,
+      "name": "Waste of Time",
+      "url": "https://open.spotify.com/track/1iMzZNgkgw5xITKIgBKh9O"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -607,38 +607,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "What Is There",
-        "url": "https://open.spotify.com/album/6uzcCtt4iRnlTG8HGRqXHz"
-      },
-      "artists": [
-        {
-          "name": "Delta Spirit",
-          "url": "https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V"
-        }
-      ],
-      "duration_ms": 200946,
-      "name": "It Ain\u2019t Easy",
-      "url": "https://open.spotify.com/track/2Gq6IrusLyXNxtLojM62l7"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "People Are My Drug",
-        "url": "https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl"
-      },
-      "artists": [
-        {
-          "name": "Phil Cook",
-          "url": "https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E"
-        }
-      ],
-      "duration_ms": 241746,
-      "name": "Miles Away",
-      "url": "https://open.spotify.com/track/6wRH2lAr8v0n1prHEwZe85"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Hold On For Dear Life",
         "url": "https://open.spotify.com/album/444WoeLyPkIMYr92NHEcz4"
       },
@@ -659,18 +627,34 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Suffering",
-        "url": "https://open.spotify.com/album/14eVN7m47S442flao2wtFa"
+        "name": "People Are My Drug",
+        "url": "https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl"
       },
       "artists": [
         {
-          "name": "Drew Holcomb & The Neighbors",
-          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+          "name": "Phil Cook",
+          "url": "https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E"
         }
       ],
-      "duration_ms": 200133,
-      "name": "Suffering",
-      "url": "https://open.spotify.com/track/5rWxb6qPOhz2qpYDLL7D0H"
+      "duration_ms": 241746,
+      "name": "Miles Away",
+      "url": "https://open.spotify.com/track/6wRH2lAr8v0n1prHEwZe85"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "What Is There",
+        "url": "https://open.spotify.com/album/6uzcCtt4iRnlTG8HGRqXHz"
+      },
+      "artists": [
+        {
+          "name": "Delta Spirit",
+          "url": "https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V"
+        }
+      ],
+      "duration_ms": 200946,
+      "name": "It Ain\u2019t Easy",
+      "url": "https://open.spotify.com/track/2Gq6IrusLyXNxtLojM62l7"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -687,6 +671,22 @@
       "duration_ms": 201240,
       "name": "Black Myself",
       "url": "https://open.spotify.com/track/2BbFd78ykW1pnR5vZreQkr"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Suffering",
+        "url": "https://open.spotify.com/album/14eVN7m47S442flao2wtFa"
+      },
+      "artists": [
+        {
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+        }
+      ],
+      "duration_ms": 200133,
+      "name": "Suffering",
+      "url": "https://open.spotify.com/track/5rWxb6qPOhz2qpYDLL7D0H"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Officer of Love",
-        "url": "https://open.spotify.com/album/7JQPBE6v0PxayunYaJ0CiT"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 239805,
-      "name": "Officer of Love",
-      "url": "https://open.spotify.com/track/4KhBvLbRr58rHPF24bdL9Q"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Set the World on Fire",
         "url": "https://open.spotify.com/album/7C6GRyldUPFVCh4QfoqNiP"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 214944,
       "name": "Down in the Country",
       "url": "https://open.spotify.com/track/53XNcCqYctEXLvT8XvumCC"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Officer of Love",
+        "url": "https://open.spotify.com/album/7JQPBE6v0PxayunYaJ0CiT"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 239805,
+      "name": "Officer of Love",
+      "url": "https://open.spotify.com/track/4KhBvLbRr58rHPF24bdL9Q"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -999,18 +999,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Heroes",
-        "url": "https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks"
+        "name": "My Morning Jacket",
+        "url": "https://open.spotify.com/album/22cyxRwzn0PuQifvqZVIYl"
       },
       "artists": [
         {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+          "name": "My Morning Jacket",
+          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
         }
       ],
-      "duration_ms": 193897,
-      "name": "Heroes",
-      "url": "https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT"
+      "duration_ms": 222093,
+      "name": "Love Love Love",
+      "url": "https://open.spotify.com/track/4d2IWdIT5Xw8crEWGKWUU6"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "My Morning Jacket",
-        "url": "https://open.spotify.com/album/22cyxRwzn0PuQifvqZVIYl"
+        "name": "Heroes",
+        "url": "https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks"
       },
       "artists": [
         {
-          "name": "My Morning Jacket",
-          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
         }
       ],
-      "duration_ms": 222093,
-      "name": "Love Love Love",
-      "url": "https://open.spotify.com/track/4d2IWdIT5Xw8crEWGKWUU6"
+      "duration_ms": 193897,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Ain\u2019t Lookin\u2019",
-        "url": "https://open.spotify.com/album/2zQpWa9zKMqAPLYHwcskJL"
-      },
-      "artists": [
-        {
-          "name": "The Wild Feathers",
-          "url": "https://open.spotify.com/artist/5YENCIQVzziCFdoVWc26Bn"
-        }
-      ],
-      "duration_ms": 202146,
-      "name": "Ain\u2019t Lookin\u2019",
-      "url": "https://open.spotify.com/track/3RKHWmV9e2sagLCOyaZ2OB"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Oh Dear Brother",
         "url": "https://open.spotify.com/album/3Pue2ojjST8Vq2m8y2EppZ"
       },
@@ -1247,6 +1231,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Ain\u2019t Lookin\u2019",
+        "url": "https://open.spotify.com/album/2zQpWa9zKMqAPLYHwcskJL"
+      },
+      "artists": [
+        {
+          "name": "The Wild Feathers",
+          "url": "https://open.spotify.com/artist/5YENCIQVzziCFdoVWc26Bn"
+        }
+      ],
+      "duration_ms": 202146,
+      "name": "Ain\u2019t Lookin\u2019",
+      "url": "https://open.spotify.com/track/3RKHWmV9e2sagLCOyaZ2OB"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Good Time",
         "url": "https://open.spotify.com/album/7ewBMKLhrJ21P2nlAgUuPW"
       },
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Evergreen",
-        "url": "https://open.spotify.com/album/00MHXpbaXylI2b4eQ5b5SB"
-      },
-      "artists": [
-        {
-          "name": "Bendigo Fletcher",
-          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
-        }
-      ],
-      "duration_ms": 280826,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/0rDOZAwa5hpOIFvej2yBIU"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "The World We Built",
         "url": "https://open.spotify.com/album/3Z7jF3AHU6lNKkqDFYCern"
       },
@@ -1327,18 +1311,34 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Roots And Wings",
-        "url": "https://open.spotify.com/album/2TyE0FB5qnlf4aPmgHBE7A"
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/00MHXpbaXylI2b4eQ5b5SB"
       },
       "artists": [
         {
-          "name": "The Wallflowers",
-          "url": "https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB"
+          "name": "Bendigo Fletcher",
+          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
         }
       ],
-      "duration_ms": 234694,
-      "name": "Roots And Wings",
-      "url": "https://open.spotify.com/track/5MmUghS4gZ3H7RdZf2KE3g"
+      "duration_ms": 280826,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/0rDOZAwa5hpOIFvej2yBIU"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Losing You",
+        "url": "https://open.spotify.com/album/3ZJHDe4rj9pnsAMMKiYMug"
+      },
+      "artists": [
+        {
+          "name": "Flyte",
+          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+        }
+      ],
+      "duration_ms": 206720,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/6KQEt8QOhdwp5QPtofFQAC"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Losing You",
-        "url": "https://open.spotify.com/album/3ZJHDe4rj9pnsAMMKiYMug"
+        "name": "Roots And Wings",
+        "url": "https://open.spotify.com/album/2TyE0FB5qnlf4aPmgHBE7A"
       },
       "artists": [
         {
-          "name": "Flyte",
-          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+          "name": "The Wallflowers",
+          "url": "https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB"
         }
       ],
-      "duration_ms": 206720,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/6KQEt8QOhdwp5QPtofFQAC"
+      "duration_ms": 234694,
+      "name": "Roots And Wings",
+      "url": "https://open.spotify.com/track/5MmUghS4gZ3H7RdZf2KE3g"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1507,6 +1507,54 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Cyclades",
+        "url": "https://open.spotify.com/album/09wmCpL3FF2lkOGo3JvFga"
+      },
+      "artists": [
+        {
+          "name": "Buck Meek",
+          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
+        }
+      ],
+      "duration_ms": 284538,
+      "name": "Cyclades",
+      "url": "https://open.spotify.com/track/5bm4mWrTL3LAewRDiTMQel"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "In Unison",
+        "url": "https://open.spotify.com/album/35YFuoRW7wt1QDMqLzxL4w"
+      },
+      "artists": [
+        {
+          "name": "Blank Range",
+          "url": "https://open.spotify.com/artist/4TKZQfojfl4wUDO3Mql65t"
+        }
+      ],
+      "duration_ms": 197400,
+      "name": "Proximity",
+      "url": "https://open.spotify.com/track/4BrcmD7xqfdwLbso6xZI3P"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Lifted",
+        "url": "https://open.spotify.com/album/4bKSp2BMGakhm0wEEZ3Ovq"
+      },
+      "artists": [
+        {
+          "name": "Israel Nash",
+          "url": "https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7"
+        }
+      ],
+      "duration_ms": 235263,
+      "name": "Lucky Ones",
+      "url": "https://open.spotify.com/track/4Bggim4UBtfueGEfGeSequ"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Blood Hunters",
         "url": "https://open.spotify.com/album/4fwcICz8hVOSxjJoXbjXIH"
       },
@@ -1523,18 +1571,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Cyclades",
-        "url": "https://open.spotify.com/album/09wmCpL3FF2lkOGo3JvFga"
+        "name": "The Wire",
+        "url": "https://open.spotify.com/album/7fZmMsAMHliG6Jx0fDohiK"
       },
       "artists": [
         {
-          "name": "Buck Meek",
-          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
+          "name": "Shovels & Rope",
+          "url": "https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K"
         }
       ],
-      "duration_ms": 284538,
-      "name": "Cyclades",
-      "url": "https://open.spotify.com/track/5bm4mWrTL3LAewRDiTMQel"
+      "duration_ms": 176890,
+      "name": "The Wire",
+      "url": "https://open.spotify.com/track/1yvcIA5Gv4079BWuaZfDvA"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1567,54 +1615,6 @@
       "duration_ms": 244773,
       "name": "Burial Ground",
       "url": "https://open.spotify.com/track/0LUC4LJ7DYLK4uSsoROVd0"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Lifted",
-        "url": "https://open.spotify.com/album/4bKSp2BMGakhm0wEEZ3Ovq"
-      },
-      "artists": [
-        {
-          "name": "Israel Nash",
-          "url": "https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7"
-        }
-      ],
-      "duration_ms": 235263,
-      "name": "Lucky Ones",
-      "url": "https://open.spotify.com/track/4Bggim4UBtfueGEfGeSequ"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "In Unison",
-        "url": "https://open.spotify.com/album/35YFuoRW7wt1QDMqLzxL4w"
-      },
-      "artists": [
-        {
-          "name": "Blank Range",
-          "url": "https://open.spotify.com/artist/4TKZQfojfl4wUDO3Mql65t"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "Proximity",
-      "url": "https://open.spotify.com/track/4BrcmD7xqfdwLbso6xZI3P"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "The Wire",
-        "url": "https://open.spotify.com/album/7fZmMsAMHliG6Jx0fDohiK"
-      },
-      "artists": [
-        {
-          "name": "Shovels & Rope",
-          "url": "https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K"
-        }
-      ],
-      "duration_ms": 176890,
-      "name": "The Wire",
-      "url": "https://open.spotify.com/track/1yvcIA5Gv4079BWuaZfDvA"
     },
     {
       "added_at": "2024-03-22 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > madi diaz x lennon stella collab & so much more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,782 likes - 104 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,804 likes - 104 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

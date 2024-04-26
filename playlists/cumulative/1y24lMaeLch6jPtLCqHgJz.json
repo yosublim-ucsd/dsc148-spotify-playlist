@@ -657,6 +657,24 @@
     },
     {
       "album": {
+        "name": "BANG",
+        "url": "https://open.spotify.com/album/0sRcMkSd7JWk2LpiOkvQvT"
+      },
+      "artists": [
+        {
+          "name": "AVAO",
+          "url": "https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173507,
+      "name": "BANG",
+      "url": "https://open.spotify.com/track/53iIxmE1OJAAyZYBLaqvRX"
+    },
+    {
+      "album": {
         "name": "Battlefield",
         "url": "https://open.spotify.com/album/1mtzE0SF8NyrV0CT4NV8tj"
       },

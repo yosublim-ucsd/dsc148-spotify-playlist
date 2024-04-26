@@ -2,9 +2,9 @@
 
 ### [Fresh Arabic Pop](https://open.spotify.com/playlist/37i9dQZF1DXaL8gtxi9eun)
 
-> Stay up to date with the freshest Arabic Pop Songs\. Cover: Ramy Gamal
+> Stay up to date with the freshest Arabic Pop Songs\. Cover: Ragheb Alama
 
-309 songs - 18 hr 36 min
+310 songs - 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Enty Bethazary](https://open.spotify.com/track/1N1EOvCCFMW01fGu54ZNly) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Enty Bethazary](https://open.spotify.com/album/4EjpRELKKwRDMu1a4V2Ljn) | 3:24 | 2022-05-04 | 2022-07-15 |
 | [Enty Genan](https://open.spotify.com/track/7i5Ud8atK2QZdxgdVLtExX) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Enty Genan](https://open.spotify.com/album/0V4l3eqaozw81VyPXhav01) | 3:05 | 2022-07-10 | 2022-12-30 |
 | [Esheq El Rooh](https://open.spotify.com/track/0qwdAX3DeYDfu8MvjtWAux) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Lehqt Nafsy \- Part 2](https://open.spotify.com/album/2wiOuShzVOsXIihxOWZb1Y) | 4:50 | 2024-02-06 |  |
+| [ETTIEEL](https://open.spotify.com/track/2V7cMt98OdLnsVzPslqD8M) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [ETTIEEL](https://open.spotify.com/album/1jYqFQeUCu7rPvhyp1jLbn) | 2:47 | 2024-04-25 |  |
 | [Fady Shewaya](https://open.spotify.com/track/3qRGs7H1bPfshHh19syRKQ) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Mawloud Sanat 80](https://open.spotify.com/album/3l4HXkpmAhcVi6moAigDT7) | 3:51 | 2022-05-04 | 2022-07-15 |
 | [Fan El Taghafol](https://open.spotify.com/track/21rhidrYUh7H2SCkdP3tIG) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [Fan El Taghafol](https://open.spotify.com/album/76w25Qac3kUww8vSSPME8k) | 2:30 | 2024-02-17 |  |
 | [Farek al kol](https://open.spotify.com/track/5bgDj52qYTHFhxjL3iHDdD) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Farek al kol](https://open.spotify.com/album/0s9K6CLSaoCzMPrJp9vyZK) | 2:55 | 2023-08-18 | 2023-08-28 |

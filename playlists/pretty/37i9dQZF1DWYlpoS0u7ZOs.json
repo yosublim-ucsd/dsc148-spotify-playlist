@@ -1,12 +1,12 @@
 {
-  "description": "A new wave of rock music. Cover: Imogen and the Knife",
+  "description": "A new wave of rock music. Cover: Jools",
   "num_followers": 8822,
   "original_name": "shockwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjk1NjIzOCwwMDAwMDAwMDZmNWZmNTQ2ZDFiYmQzZTYyNjNmYmFjYjBjMmVjMzdh",
+  "snapshot_id": "MTcxNDA4ODE2NSwwMDAwMDAwMDdmMmZlY2IzMzEyMzgwODBlNDFiNzMxODhhNmJmM2Nk",
   "tracks": [
     {
       "added_at": "2024-04-12 21:10:38",
@@ -39,6 +39,22 @@
       "duration_ms": 188721,
       "name": "BLACK DOG / WHITE HORSE",
       "url": "https://open.spotify.com/track/2C0fTD8sK5gNETLEg5PqUj"
+    },
+    {
+      "added_at": "2024-04-12 21:10:38",
+      "album": {
+        "name": "97%",
+        "url": "https://open.spotify.com/album/0a5e5u6XnpXSn51XCgKgM4"
+      },
+      "artists": [
+        {
+          "name": "Jools",
+          "url": "https://open.spotify.com/artist/7J6YlxY8MiF5ZwfVBzMpPc"
+        }
+      ],
+      "duration_ms": 217677,
+      "name": "97%",
+      "url": "https://open.spotify.com/track/3jKEUkS4Gq3PFejGrbMlhK"
     },
     {
       "added_at": "2024-04-12 21:10:38",
@@ -87,22 +103,6 @@
       "duration_ms": 238493,
       "name": "Passing Judgment",
       "url": "https://open.spotify.com/track/1R2dM4T5lrnAk2Ajp0s1PA"
-    },
-    {
-      "added_at": "2024-04-12 21:10:38",
-      "album": {
-        "name": "97%",
-        "url": "https://open.spotify.com/album/0a5e5u6XnpXSn51XCgKgM4"
-      },
-      "artists": [
-        {
-          "name": "Jools",
-          "url": "https://open.spotify.com/artist/7J6YlxY8MiF5ZwfVBzMpPc"
-        }
-      ],
-      "duration_ms": 217677,
-      "name": "97%",
-      "url": "https://open.spotify.com/track/3jKEUkS4Gq3PFejGrbMlhK"
     },
     {
       "added_at": "2024-04-12 21:10:38",
@@ -549,10 +549,10 @@
       "url": "https://open.spotify.com/track/3dFZkn6TmBxv1AyuMdKZ3Y"
     },
     {
-      "added_at": "2024-04-12 21:10:38",
+      "added_at": "2024-04-25 23:36:05",
       "album": {
-        "name": "Fascist Bob",
-        "url": "https://open.spotify.com/album/4itKJqCFMtCrwI4N1veVYL"
+        "name": "HAWD THAT",
+        "url": "https://open.spotify.com/album/7IBKsN43AlunQwU7scSCuA"
       },
       "artists": [
         {
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO"
         }
       ],
-      "duration_ms": 116240,
-      "name": "Fascist Bob",
-      "url": "https://open.spotify.com/track/4sXLPgHzJ742DRqms3CSrI"
+      "duration_ms": 154920,
+      "name": "Stiff Upper Lip",
+      "url": "https://open.spotify.com/track/4vOs2zpYvQIaLp1zfU5xJz"
     },
     {
       "added_at": "2024-04-12 21:10:38",
@@ -629,6 +629,22 @@
       "url": "https://open.spotify.com/track/6N2yszPeZBE2SAhZEgKIjH"
     },
     {
+      "added_at": "2024-04-25 23:36:05",
+      "album": {
+        "name": "unpeople",
+        "url": "https://open.spotify.com/album/2yV0odoEXSE36SQUDWPdwI"
+      },
+      "artists": [
+        {
+          "name": "unpeople",
+          "url": "https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2"
+        }
+      ],
+      "duration_ms": 205590,
+      "name": "going numb",
+      "url": "https://open.spotify.com/track/4PBJo0f4fyAHektLZXxhOL"
+    },
+    {
       "added_at": "2024-04-12 21:10:38",
       "album": {
         "name": "Title Track",
@@ -645,6 +661,22 @@
       "url": "https://open.spotify.com/track/6LiQkNtD7oh6xdUVb01D0H"
     },
     {
+      "added_at": "2024-04-25 23:36:05",
+      "album": {
+        "name": "Iconic",
+        "url": "https://open.spotify.com/album/4XCUSQq5jRc6B8E6tR7SaZ"
+      },
+      "artists": [
+        {
+          "name": "Hana Lili",
+          "url": "https://open.spotify.com/artist/6irpcuKNgvg9Zyy62yXC7p"
+        }
+      ],
+      "duration_ms": 145826,
+      "name": "Iconic",
+      "url": "https://open.spotify.com/track/21WBLBnlfaelcFQz0Qvegw"
+    },
+    {
       "added_at": "2024-04-12 21:10:38",
       "album": {
         "name": "Business As Usual",
@@ -659,6 +691,22 @@
       "duration_ms": 203381,
       "name": "Business As Usual",
       "url": "https://open.spotify.com/track/0wlM6ob7PFbUQSamDGT5No"
+    },
+    {
+      "added_at": "2024-04-25 23:36:05",
+      "album": {
+        "name": "Dig Me",
+        "url": "https://open.spotify.com/album/6TGLip0Qyuwpzsl5LOk0hL"
+      },
+      "artists": [
+        {
+          "name": "gabby rivers",
+          "url": "https://open.spotify.com/artist/3z6ntAyylo4TSDV4l27fvq"
+        }
+      ],
+      "duration_ms": 149497,
+      "name": "Dig Me",
+      "url": "https://open.spotify.com/track/6nOHuPq8uLpkZVkkX7Y0wy"
     },
     {
       "added_at": "2024-04-12 21:10:38",
@@ -691,6 +739,38 @@
       "duration_ms": 279249,
       "name": "Headspace",
       "url": "https://open.spotify.com/track/6Ciqo08MA2NF2lgWiNi8u4"
+    },
+    {
+      "added_at": "2024-04-25 23:36:05",
+      "album": {
+        "name": "Modern Heartache",
+        "url": "https://open.spotify.com/album/5K9ft5Jgbq3ntOKjBPmnLN"
+      },
+      "artists": [
+        {
+          "name": "SOAP",
+          "url": "https://open.spotify.com/artist/5o5dFyK0UODK3sYQp5ao8V"
+        }
+      ],
+      "duration_ms": 193714,
+      "name": "Modern Heartache",
+      "url": "https://open.spotify.com/track/6TLetcb6bwbPLmBI7LPLl5"
+    },
+    {
+      "added_at": "2024-04-25 23:36:05",
+      "album": {
+        "name": "Jayne",
+        "url": "https://open.spotify.com/album/0vwds1IJmwx3iWRwlKqaMJ"
+      },
+      "artists": [
+        {
+          "name": "JAXN",
+          "url": "https://open.spotify.com/artist/7DwbU77epeOXvBO9xfOmh7"
+        }
+      ],
+      "duration_ms": 147019,
+      "name": "Jayne",
+      "url": "https://open.spotify.com/track/5l8OTYkuZnPim46fTv1cwD"
     },
     {
       "added_at": "2024-04-12 21:10:38",
@@ -739,86 +819,6 @@
       "duration_ms": 256543,
       "name": "Des Goblin",
       "url": "https://open.spotify.com/track/1k9Z2Jqlac9H71IBW67Xeg"
-    },
-    {
-      "added_at": "2024-04-12 21:10:38",
-      "album": {
-        "name": "How To Disappear",
-        "url": "https://open.spotify.com/album/1EuVYwdFz5QnhJVzUEu81A"
-      },
-      "artists": [
-        {
-          "name": "Casey",
-          "url": "https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck"
-        }
-      ],
-      "duration_ms": 311698,
-      "name": "How To Disappear",
-      "url": "https://open.spotify.com/track/2q1uTb4UGj9T7nPiFR2Kwo"
-    },
-    {
-      "added_at": "2024-04-12 21:10:38",
-      "album": {
-        "name": "Today's My Day",
-        "url": "https://open.spotify.com/album/3sMegfJ3u6Uj9ZhYs01aNV"
-      },
-      "artists": [
-        {
-          "name": "BLACKGOLD",
-          "url": "https://open.spotify.com/artist/3IWxZuMgQKWrNn1S20D1qa"
-        }
-      ],
-      "duration_ms": 215833,
-      "name": "Today's My Day",
-      "url": "https://open.spotify.com/track/4nAMZBsMJNxRT9SKs3bOOr"
-    },
-    {
-      "added_at": "2024-04-12 21:10:38",
-      "album": {
-        "name": "D.I.A.D.",
-        "url": "https://open.spotify.com/album/0jWYNExqrkXCTjSe3zfyFy"
-      },
-      "artists": [
-        {
-          "name": "Shell",
-          "url": "https://open.spotify.com/artist/6E4a8L0b9CkRW5B1Zf70wm"
-        }
-      ],
-      "duration_ms": 177636,
-      "name": "D.I.A.D.",
-      "url": "https://open.spotify.com/track/4V3dIL2F7vbyrRko2yMkF4"
-    },
-    {
-      "added_at": "2024-04-12 21:10:38",
-      "album": {
-        "name": "Sleeping with Ghosts",
-        "url": "https://open.spotify.com/album/1Ta8PhMDJSAaslDscjexWg"
-      },
-      "artists": [
-        {
-          "name": "The Cliffords",
-          "url": "https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja"
-        }
-      ],
-      "duration_ms": 262240,
-      "name": "Sleeping with Ghosts",
-      "url": "https://open.spotify.com/track/4hWhhqRAQ8R4sEEefmh0Qc"
-    },
-    {
-      "added_at": "2024-04-12 21:10:38",
-      "album": {
-        "name": "Sad Boys",
-        "url": "https://open.spotify.com/album/3uI556NUIIikU57t1dbhP2"
-      },
-      "artists": [
-        {
-          "name": "Bandit",
-          "url": "https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop"
-        }
-      ],
-      "duration_ms": 223812,
-      "name": "Dead Poets Society",
-      "url": "https://open.spotify.com/track/0tZOLoCGFPHuR2NPbuqHfE"
     }
   ],
   "unique_name": "shockwave",

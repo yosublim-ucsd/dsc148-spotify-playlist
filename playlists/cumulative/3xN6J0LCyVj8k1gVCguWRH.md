@@ -4,7 +4,7 @@
 
 > What Will the 2024 Song of the Summer Be!? Find out with the perfect soundtrack for the sweatiest season! Includes Summer 2023, 2022 editions &amp; bonus tracks.
 
-3,272 songs - 7 day 17 hr 47 min
+3,273 songs - 7 day 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2073,6 +2073,7 @@
 | [Oh Yeah](https://open.spotify.com/track/0c9BzPnLbGRnKANrxCkxzs) | [Jordana Talsky](https://open.spotify.com/artist/2wTLyQmAsnN2DsWDgwAQqC) | [Zahava](https://open.spotify.com/album/5Z4776irHlvg0n8aLGhTYU) | 2:42 | 2021-10-16 | 2021-10-31 |
 | [Ojay](https://open.spotify.com/track/6l7T5UuzKpu4gh097Fbrod) | [Ari Morgan](https://open.spotify.com/artist/1EeyV1OJruocrWkphr12mX) | [Ojay](https://open.spotify.com/album/3OvXXEWQsoszMOPKVgdZUi) | 3:19 | 2023-06-25 | 2023-07-15 |
 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 | 2022-07-26 |  |
+| [Ojos](https://open.spotify.com/track/1GlislujDk7CZm9gG970hR) | [Nia Padilla](https://open.spotify.com/artist/072YYOyNb2t1yNqrnrCJYy) | [Ojos](https://open.spotify.com/album/0ensfJNSOFjtXpep6z01tZ) | 3:19 | 2024-04-25 |  |
 | [Ojos Marrones \- Cover](https://open.spotify.com/track/3rs2Drz2d3s328jwFGhZUW) | [Valeria Ferro](https://open.spotify.com/artist/06lo8GULrKlMZbRIHa0n83) | [Ojos Marrones \(Cover\)](https://open.spotify.com/album/7ymbeUggzWsyFzb0zWSSY0) | 3:22 | 2024-02-02 | 2024-02-15 |
 | [Old John Blues](https://open.spotify.com/track/7zqfrCaUqVmHBcTbS8X7Tl) | [Marty Thompson](https://open.spotify.com/artist/3e2PdcbAflyA9g25SVcQiS) | [Unwind](https://open.spotify.com/album/2vquozInAKYvk5GLVkPFHs) | 6:57 | 2022-11-11 | 2022-12-03 |
 | [Old School Heart](https://open.spotify.com/track/5z2vuWBeJHd2VrocKhPqkg) | [Arjuna Oakes](https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF) | [The Watcher \- EP](https://open.spotify.com/album/64ZY4OiQIIWKdpgg5Q3dZa) | 4:49 | 2019-12-01 | 2019-12-11 |
@@ -2764,7 +2765,7 @@
 | [Tattooed](https://open.spotify.com/track/0tJa7lLgDHXxCJik8RoroX) | [dezabel](https://open.spotify.com/artist/02qYPfeUvEdhSqLG8ercxJ) | [Tattooed](https://open.spotify.com/album/5KnuTfXK9myOebnuyhaoYW) | 3:30 | 2020-05-02 | 2020-05-24 |
 | [Te Quiero Ver](https://open.spotify.com/track/4OPZnwJzfm6GGljxtRPV1m) | [Stefany](https://open.spotify.com/artist/6bfhI8OUv54wrI4BgmjPAU) | [Te Quiero Ver](https://open.spotify.com/album/4Et3YYuo74V6oX87hXDahb) | 2:30 | 2024-02-26 | 2024-03-05 |
 | [Team](https://open.spotify.com/track/1ooO1j7bseZCHaCFxVpoMq) | [Xavier Weeks](https://open.spotify.com/artist/1I87BJvTcv6gia06HaBl9e) | [Team](https://open.spotify.com/album/7mEPIfbgOmhFv2ogiJjUA5) | 2:30 | 2020-03-11 | 2020-04-09 |
-| [Tears](https://open.spotify.com/track/2pp6R1OYJ4aOrlPSW3nwf5) | [SK & the Kings](https://open.spotify.com/artist/0GrMwJY2CHZ8tMrM0QCW7N) | [Tears](https://open.spotify.com/album/4co1LG0NwT4GxMeFJWkmBC) | 3:34 | 2024-04-13 |  |
+| [Tears](https://open.spotify.com/track/2pp6R1OYJ4aOrlPSW3nwf5) | [SK & the Kings](https://open.spotify.com/artist/0GrMwJY2CHZ8tMrM0QCW7N) | [Tears](https://open.spotify.com/album/4co1LG0NwT4GxMeFJWkmBC) | 3:34 | 2024-04-13 | 2024-04-26 |
 | [Teeth](https://open.spotify.com/track/3RHOJj7elCCF1ZDSb2Wql9) | [Clear Mortifee](https://open.spotify.com/artist/2YQJdQtHgTYz4u9vvf3DgJ), [Teddy Roxpin](https://open.spotify.com/artist/0MZ2kdIMm8GrHOzPm1QK1A), [Ricky Bakken](https://open.spotify.com/artist/2KaPiBST3SmBLVOFiXAHt7), [Smile High](https://open.spotify.com/artist/2TD6omXIh4gf6AJZlVV7oG) | [Teeth](https://open.spotify.com/album/4vQQ7QLspJRHFxmLcaqxa8) | 3:53 | 2021-09-25 | 2021-10-11 |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2021-05-05 | 2021-07-12 |
 | [Teleport](https://open.spotify.com/track/0Sl0DTpE41cXFwblnBt1UN) | [BAELY](https://open.spotify.com/artist/62ZRjfeyo7sLeth6Twkq6h) | [Teleport](https://open.spotify.com/album/7H4nESb8FK8bqb7g1e5x0I) | 3:45 | 2022-09-06 | 2022-09-23 |

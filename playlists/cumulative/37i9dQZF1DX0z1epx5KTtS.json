@@ -605,6 +605,24 @@
     },
     {
       "album": {
+        "name": "Calculatrice",
+        "url": "https://open.spotify.com/album/1pQi43kOfpPTlgZRiRMvN8"
+      },
+      "artists": [
+        {
+          "name": "Ovie Kan",
+          "url": "https://open.spotify.com/artist/3nKWXc2kFHNOhjr37rkvqd"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225628,
+      "name": "Calculatrice",
+      "url": "https://open.spotify.com/track/1CbMMoHWbATGljOR58qEQX"
+    },
+    {
+      "album": {
         "name": "Cal\u00e9\u00e7on",
         "url": "https://open.spotify.com/album/7krsg8jshA79Nbd3dnT7In"
       },

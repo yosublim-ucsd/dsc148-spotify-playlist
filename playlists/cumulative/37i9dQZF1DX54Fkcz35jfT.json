@@ -4408,7 +4408,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 250366,
       "name": "VOX",
       "url": "https://open.spotify.com/track/7tonWzUNa7qiuBfTloPu3N"
@@ -5302,6 +5302,24 @@
       "duration_ms": 226253,
       "name": "\u6771\u4eac\u30df\u30c3\u30c9\u30ca\u30a4\u30c8",
       "url": "https://open.spotify.com/track/6yOsud5tOWwu4Hj43cW7Vc"
+    },
+    {
+      "album": {
+        "name": "\u685c\u3002\u8f5f\u97f3\u306b\u306e\u305b",
+        "url": "https://open.spotify.com/album/6Xckz0KKhvREZ7k7tMF9xb"
+      },
+      "artists": [
+        {
+          "name": "\u30d0\u30c3\u30af\u30c9\u30ed\u30c3\u30d7\u30b7\u30f3\u30c7\u30ec\u30e9",
+          "url": "https://open.spotify.com/artist/4v0uOC5uuIzkyGqYEdwTLI"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195738,
+      "name": "\u685c\u3002\u8f5f\u97f3\u306b\u306e\u305b",
+      "url": "https://open.spotify.com/track/3Pr2CIbeti4HWJ4RESKjVM"
     },
     {
       "album": {

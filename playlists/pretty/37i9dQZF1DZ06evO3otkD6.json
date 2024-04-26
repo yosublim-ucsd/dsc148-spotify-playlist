@@ -1,12 +1,12 @@
 {
-  "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 65294,
+  "description": "This Is Belinda. Los temas esenciales, todos en una lista.",
+  "num_followers": 65334,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzgzMDQwMCwwMDAwMDAwMDAxZDQyNzIzYTAwM2NjM2NhMmM4OGM0MWI5MTljYWVh",
+  "snapshot_id": "MTcxMzkxNjgwMCwwMDAwMDAwMGRhMDQyZjlkMWQzM2YwZjRhMDgwNGY0YjA4OGRiMDVm",
   "tracks": [
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Catarsis",
-        "url": "https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 239440,
-      "name": "En El Amor Hay Que Perdonar",
-      "url": "https://open.spotify.com/track/6UmXPaLkNGp0NvMaKeJ0oi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si T\u00fa Me Llamas (BSO Tadeo Jones 3)",
         "url": "https://open.spotify.com/album/3AHJ6G8vSL0X1EyNBK7L4p"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 162243,
       "name": "Si T\u00fa Me Llamas - BSO Tadeo Jones 3",
       "url": "https://open.spotify.com/track/5kQdGnRPrA95CAEW7lNJiu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Catarsis",
+        "url": "https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 239440,
+      "name": "En El Amor Hay Que Perdonar",
+      "url": "https://open.spotify.com/track/6UmXPaLkNGp0NvMaKeJ0oi"
     },
     {
       "added_at": null,

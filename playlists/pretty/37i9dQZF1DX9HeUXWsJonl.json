@@ -1,15 +1,31 @@
 {
   "description": "Les hits tunisiens du moment. Cover: Samara",
-  "num_followers": 87383,
+  "num_followers": 87451,
   "original_name": "Hit Tounsi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjIyOTQzNCwwMDAwMDAwMGYzNDRlYTQwNTE0ZTNkN2JkNDQ1NWU2YTMyNjNmZGU0",
+  "snapshot_id": "MTcxNDA4ODY1NywwMDAwMDAwMDQzOTcxYTVkNzQxODRiMDYxNTgxNTk1MGQwMzk3NGNm",
   "tracks": [
     {
-      "added_at": "2024-04-04 11:17:14",
+      "added_at": "2024-04-25 23:44:17",
+      "album": {
+        "name": "Ghaba",
+        "url": "https://open.spotify.com/album/3cjuodS53dH13S46iQavuk"
+      },
+      "artists": [
+        {
+          "name": "A.L.A",
+          "url": "https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX"
+        }
+      ],
+      "duration_ms": 185449,
+      "name": "Ghaba",
+      "url": "https://open.spotify.com/track/5fJzqNudt8ZdoFGi1LsQbT"
+    },
+    {
+      "added_at": "2024-04-25 23:44:17",
       "album": {
         "name": "Layam",
         "url": "https://open.spotify.com/album/3dAcWL49dX4oxXcxkKUBW6"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/6qM1V0fvAHohEXuCKvaYfz"
     },
     {
-      "added_at": "2024-04-04 11:17:14",
+      "added_at": "2024-04-25 23:44:17",
       "album": {
         "name": "Sada9tha",
         "url": "https://open.spotify.com/album/19tu9RtMJ5uH4VJ4GZIrMq"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/7DM7AOqoEAouQ6ChSTAxaD"
     },
     {
-      "added_at": "2024-04-04 11:17:14",
+      "added_at": "2024-04-25 23:44:17",
       "album": {
         "name": "Ma Tebki Ya Ain",
         "url": "https://open.spotify.com/album/2v0YFXim7Ucs85m5lokaHE"
@@ -61,7 +77,7 @@
       "url": "https://open.spotify.com/track/6Fv6mqIai6eGsGAvJ4M2s6"
     },
     {
-      "added_at": "2024-04-04 11:17:14",
+      "added_at": "2024-04-25 23:44:17",
       "album": {
         "name": "Sensazione ultra",
         "url": "https://open.spotify.com/album/7x0QV22Ci2ZOm9HweqBLhn"
@@ -77,7 +93,7 @@
       "url": "https://open.spotify.com/track/1tZDQqGmN6A6wOWPHkJoC1"
     },
     {
-      "added_at": "2024-04-04 11:17:14",
+      "added_at": "2024-04-25 23:44:17",
       "album": {
         "name": "Streams",
         "url": "https://open.spotify.com/album/5S6j2JUXKM6XD3bltc5Mqu"
@@ -101,7 +117,7 @@
       "url": "https://open.spotify.com/track/6Vtl6NEo5P7SIz1FI4jfv3"
     },
     {
-      "added_at": "2024-04-04 11:17:14",
+      "added_at": "2024-04-25 23:44:17",
       "album": {
         "name": "Ena Wayek",
         "url": "https://open.spotify.com/album/1C9AHey6Z6L3YFW6eM9tiO"
@@ -117,7 +133,7 @@
       "url": "https://open.spotify.com/track/6CD97XQ4oLX0Z4RFqscm3k"
     },
     {
-      "added_at": "2024-04-04 11:17:14",
+      "added_at": "2024-04-25 23:44:17",
       "album": {
         "name": "Raby Yostor",
         "url": "https://open.spotify.com/album/6MWT9JJ0rjhtLdSLNaPhcs"
@@ -133,7 +149,7 @@
       "url": "https://open.spotify.com/track/7vXf6XzqsUYqQ9Ky3Z0adb"
     },
     {
-      "added_at": "2024-04-04 11:17:14",
+      "added_at": "2024-04-25 23:44:17",
       "album": {
         "name": "Ya Aazem Douar",
         "url": "https://open.spotify.com/album/2YiBjxEbczGqHWmwlm2oV6"
@@ -153,7 +169,7 @@
       "url": "https://open.spotify.com/track/0X1QSVSsI8QPZyODS8271v"
     },
     {
-      "added_at": "2024-04-04 11:17:14",
+      "added_at": "2024-04-25 23:44:17",
       "album": {
         "name": "Saber",
         "url": "https://open.spotify.com/album/3JyxgFtlWiGnjcrD2c53wG"
@@ -169,7 +185,7 @@
       "url": "https://open.spotify.com/track/471yCuh5et463zfP1ZlipM"
     },
     {
-      "added_at": "2024-04-04 11:17:14",
+      "added_at": "2024-04-25 23:44:17",
       "album": {
         "name": "9adech Men Mara",
         "url": "https://open.spotify.com/album/14LPhzMvyamhLXzaGjltuR"
@@ -185,7 +201,7 @@
       "url": "https://open.spotify.com/track/0DuaftqTbS98lnbfiEJj5V"
     },
     {
-      "added_at": "2024-04-04 11:17:14",
+      "added_at": "2024-04-25 23:44:17",
       "album": {
         "name": "Trafiquant",
         "url": "https://open.spotify.com/album/6GMy1L0OFXE5UXY5scYimM"
@@ -201,7 +217,7 @@
       "url": "https://open.spotify.com/track/0oVCJc8jyrrhFvighWUAP2"
     },
     {
-      "added_at": "2024-04-04 11:17:14",
+      "added_at": "2024-04-25 23:44:17",
       "album": {
         "name": "Ya Ghayeb",
         "url": "https://open.spotify.com/album/2f3kngWBR5wP05M5hdUZXH"
@@ -217,7 +233,7 @@
       "url": "https://open.spotify.com/track/5RYSSnBAmeYKCCb8bEOG6u"
     },
     {
-      "added_at": "2024-04-04 11:17:14",
+      "added_at": "2024-04-25 23:44:17",
       "album": {
         "name": "Noss Ellil",
         "url": "https://open.spotify.com/album/24wRSBBUiTv9EGUuhQnwYp"
@@ -233,7 +249,7 @@
       "url": "https://open.spotify.com/track/5fF004YYfSgDOwIqxWsSKz"
     },
     {
-      "added_at": "2024-04-04 11:17:14",
+      "added_at": "2024-04-25 23:44:17",
       "album": {
         "name": "Msamhin",
         "url": "https://open.spotify.com/album/4NkimMrINW8489T3ug2ZpG"
@@ -249,7 +265,7 @@
       "url": "https://open.spotify.com/track/4vWQUabxtxQvoSpkNNQVnT"
     },
     {
-      "added_at": "2024-04-04 11:17:14",
+      "added_at": "2024-04-25 23:44:17",
       "album": {
         "name": "Keema Ena",
         "url": "https://open.spotify.com/album/1bHxBuCsEYnrYS9kOv21MO"
@@ -265,7 +281,7 @@
       "url": "https://open.spotify.com/track/5WsYnPl5q3qNh3LuyGTuhR"
     },
     {
-      "added_at": "2024-04-04 11:17:14",
+      "added_at": "2024-04-25 23:44:17",
       "album": {
         "name": "Manetfergou",
         "url": "https://open.spotify.com/album/0eKyvzuJJpTtAYBEflLox8"
@@ -281,7 +297,7 @@
       "url": "https://open.spotify.com/track/36DuVeAj8R4TFkKD1sFbEN"
     },
     {
-      "added_at": "2024-04-04 11:17:14",
+      "added_at": "2024-04-25 23:44:17",
       "album": {
         "name": "Dima Mechi (\u062f\u064a\u0645\u0627 \u0645\u0627\u0634\u064a)",
         "url": "https://open.spotify.com/album/7dcTaS0a7Sp7XafbHbLYf5"
@@ -297,7 +313,7 @@
       "url": "https://open.spotify.com/track/4FqzaLISWmn42eDkTenweI"
     },
     {
-      "added_at": "2024-04-04 11:17:14",
+      "added_at": "2024-04-25 23:44:17",
       "album": {
         "name": "22",
         "url": "https://open.spotify.com/album/2oc2RuCw3M5Q1278SEBncH"
@@ -313,7 +329,7 @@
       "url": "https://open.spotify.com/track/3A9NZWQXiNufaUBbApEXpC"
     },
     {
-      "added_at": "2024-04-04 11:17:14",
+      "added_at": "2024-04-25 23:44:17",
       "album": {
         "name": "Omri T3ada",
         "url": "https://open.spotify.com/album/5R4xtMp7Tu4tNwn9CvdkpB"
@@ -329,7 +345,7 @@
       "url": "https://open.spotify.com/track/7rMmuMmb37vB0f4oq9INiq"
     },
     {
-      "added_at": "2024-04-04 11:17:14",
+      "added_at": "2024-04-25 23:44:17",
       "album": {
         "name": "Makhsernech (\u0645\u062e\u0633\u0631\u0646\u0627\u0634)",
         "url": "https://open.spotify.com/album/0a70t5S4aQWZvZaw5WwdKQ"
@@ -345,7 +361,7 @@
       "url": "https://open.spotify.com/track/2uz35vUhSIZXhfrwYwTKaI"
     },
     {
-      "added_at": "2024-04-04 11:17:14",
+      "added_at": "2024-04-25 23:44:17",
       "album": {
         "name": "Ghariba (\u063a\u0631\u064a\u0628\u0629)",
         "url": "https://open.spotify.com/album/58g0RtDsBvyaPYFm8rNjP9"
@@ -361,7 +377,7 @@
       "url": "https://open.spotify.com/track/2YZVac5l4SD169JDjkxssD"
     },
     {
-      "added_at": "2024-04-04 11:17:14",
+      "added_at": "2024-04-25 23:44:17",
       "album": {
         "name": "A7lemi Tayra",
         "url": "https://open.spotify.com/album/22UMmR7pSEIvA38jtq9JGl"
@@ -377,7 +393,7 @@
       "url": "https://open.spotify.com/track/4P5izN8cO2xwwqRlTNiJ6F"
     },
     {
-      "added_at": "2024-04-04 11:17:14",
+      "added_at": "2024-04-25 23:44:17",
       "album": {
         "name": "Khousara",
         "url": "https://open.spotify.com/album/3e9XSqi3iGtvBPCxEQPm0N"
@@ -393,7 +409,7 @@
       "url": "https://open.spotify.com/track/1a3fUDZpgUYRatLdKAnCh0"
     },
     {
-      "added_at": "2024-04-04 11:17:14",
+      "added_at": "2024-04-25 23:44:17",
       "album": {
         "name": "Sahara (\u0633\u0647\u0651\u0627\u0631\u0629)",
         "url": "https://open.spotify.com/album/6ZFP3CKGbHnXK9Cuzhdyus"
@@ -409,7 +425,7 @@
       "url": "https://open.spotify.com/track/0zDdQ9LQW6Fu6EAIQ34l92"
     },
     {
-      "added_at": "2024-04-04 11:17:14",
+      "added_at": "2024-04-25 23:44:17",
       "album": {
         "name": "Baba",
         "url": "https://open.spotify.com/album/0GvXMvJ9iEKSmvFYN7rCLQ"
@@ -425,7 +441,7 @@
       "url": "https://open.spotify.com/track/36h8chyy24HG3382bLeKbz"
     },
     {
-      "added_at": "2024-04-04 11:17:14",
+      "added_at": "2024-04-25 23:44:17",
       "album": {
         "name": "Rmit Wraya",
         "url": "https://open.spotify.com/album/21owqa83UEhxqO6apgOZsc"
@@ -441,7 +457,7 @@
       "url": "https://open.spotify.com/track/7I44yj3TRUGHQzkGtwzrXy"
     },
     {
-      "added_at": "2024-04-04 11:17:14",
+      "added_at": "2024-04-25 23:44:17",
       "album": {
         "name": "MESTWI",
         "url": "https://open.spotify.com/album/0XGaToEjWwqHU9O2xDdDKt"
@@ -461,7 +477,7 @@
       "url": "https://open.spotify.com/track/0mMcpkFCjggJilJZOZUkAj"
     },
     {
-      "added_at": "2024-04-04 11:17:14",
+      "added_at": "2024-04-25 23:44:17",
       "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/2d3ukGlwC5Ey777xjYEEXD"
@@ -481,7 +497,7 @@
       "url": "https://open.spotify.com/track/7bGpaDRAfA8dDuH2aykPLq"
     },
     {
-      "added_at": "2024-04-04 11:17:14",
+      "added_at": "2024-04-25 23:44:17",
       "album": {
         "name": "Va Bene",
         "url": "https://open.spotify.com/album/45pTrdiBG1DmQ5YfZPmsgt"
@@ -497,7 +513,7 @@
       "url": "https://open.spotify.com/track/6NYQhiBDgiliWFSQzHqpmZ"
     },
     {
-      "added_at": "2024-04-04 11:17:14",
+      "added_at": "2024-04-25 23:44:17",
       "album": {
         "name": "S3ib",
         "url": "https://open.spotify.com/album/3AyOnjxyeUuCwoqrkrsVyI"
@@ -513,7 +529,7 @@
       "url": "https://open.spotify.com/track/3Y6NRw8kCkZxMfWDXA4auF"
     },
     {
-      "added_at": "2024-04-04 11:17:14",
+      "added_at": "2024-04-25 23:44:17",
       "album": {
         "name": "Tutto Passa",
         "url": "https://open.spotify.com/album/0LlHGHtOHk3wYzDxKNvMww"
@@ -529,7 +545,7 @@
       "url": "https://open.spotify.com/track/1QqnWKAws9X39acDYOokl9"
     },
     {
-      "added_at": "2024-04-04 11:17:14",
+      "added_at": "2024-04-25 23:44:17",
       "album": {
         "name": "Yamma",
         "url": "https://open.spotify.com/album/3a5o2trBcQBLmPWOfmPTTf"
@@ -545,7 +561,7 @@
       "url": "https://open.spotify.com/track/2rPfXfRD6eAVSiJBY2x1Ne"
     },
     {
-      "added_at": "2024-04-04 11:17:14",
+      "added_at": "2024-04-25 23:44:17",
       "album": {
         "name": "2000 Ktab",
         "url": "https://open.spotify.com/album/28S3HWqbXgop9MG2XcC5Ur"
@@ -561,7 +577,7 @@
       "url": "https://open.spotify.com/track/7nFKjqixWVbTMk1qR9OfD6"
     },
     {
-      "added_at": "2024-04-04 11:17:14",
+      "added_at": "2024-04-25 23:44:17",
       "album": {
         "name": "\u0641\u064a \u0638\u0644\u0627\u0645 \u0627\u0644\u0644\u064a\u0644",
         "url": "https://open.spotify.com/album/4keFmtZOlKjDkIPEib966A"
@@ -581,7 +597,7 @@
       "url": "https://open.spotify.com/track/5FWwSKktYjKZgoRmWDs9X6"
     },
     {
-      "added_at": "2024-04-04 11:17:14",
+      "added_at": "2024-04-25 23:44:17",
       "album": {
         "name": "Netmanelk Kol El Khiir",
         "url": "https://open.spotify.com/album/0GqpIWbuB1eiOL068TgMxc"
@@ -597,7 +613,7 @@
       "url": "https://open.spotify.com/track/1gDdQjwwE1oN5MdjQ40lRw"
     },
     {
-      "added_at": "2024-04-04 11:17:14",
+      "added_at": "2024-04-25 23:44:17",
       "album": {
         "name": "Binetna Layem",
         "url": "https://open.spotify.com/album/6Ut6jmti17RQK7YJLyzdGs"
@@ -613,7 +629,7 @@
       "url": "https://open.spotify.com/track/1jAQdXTEXfuVHALTavUjM4"
     },
     {
-      "added_at": "2024-04-04 11:17:14",
+      "added_at": "2024-04-25 23:44:17",
       "album": {
         "name": "Warda (\u0648\u0631\u062f\u0629)",
         "url": "https://open.spotify.com/album/3IulcYLJcCYEQyE0Ufthtl"
@@ -629,7 +645,7 @@
       "url": "https://open.spotify.com/track/5iv5BmdSI63MOkRaV95agi"
     },
     {
-      "added_at": "2024-04-04 11:17:14",
+      "added_at": "2024-04-25 23:44:17",
       "album": {
         "name": "Ya Lil",
         "url": "https://open.spotify.com/album/4jcoGlVZZi1hu3PhxxIeqB"
@@ -645,7 +661,7 @@
       "url": "https://open.spotify.com/track/3hvJHXAuKeSRSShUEl9v0c"
     },
     {
-      "added_at": "2024-04-04 11:17:14",
+      "added_at": "2024-04-25 23:44:17",
       "album": {
         "name": "\u0633\u062f\u0648 \u0639\u0644\u064a\u0627 \u0627\u0644\u0628\u0627\u0628",
         "url": "https://open.spotify.com/album/5kvYzjQ1CFUppMgRisQ1bm"
@@ -665,7 +681,7 @@
       "url": "https://open.spotify.com/track/1ySaBFF1Tyv5K25IzgBh3K"
     },
     {
-      "added_at": "2024-04-04 11:17:14",
+      "added_at": "2024-04-25 23:44:17",
       "album": {
         "name": "9ased Rabbi (\u0642\u0627\u0635\u062f \u0631\u0628\u064a)",
         "url": "https://open.spotify.com/album/6NU1cd9ixX7q50aeM0AhWl"
@@ -681,7 +697,7 @@
       "url": "https://open.spotify.com/track/4OiyOUXW7IzOT8rHrSIzUh"
     },
     {
-      "added_at": "2024-04-04 11:17:14",
+      "added_at": "2024-04-25 23:44:17",
       "album": {
         "name": "Hbibty Wini (\u062d\u0628\u064a\u0628\u062a\u064a \u0648\u064a\u0646\u064a)",
         "url": "https://open.spotify.com/album/7jwGkqkRlEcpFIy0kcYH20"
@@ -697,7 +713,7 @@
       "url": "https://open.spotify.com/track/2Gru4OBnrGbfM7mIpts6Fk"
     },
     {
-      "added_at": "2024-04-04 11:17:14",
+      "added_at": "2024-04-25 23:44:17",
       "album": {
         "name": "\u0635\u0646\u0639 \u0628\u0633\u062d\u0631",
         "url": "https://open.spotify.com/album/1nVZ0Q37nv6whKbONk0Gxu"
@@ -717,7 +733,7 @@
       "url": "https://open.spotify.com/track/19IVlD9YCOcPNaonf2YNNT"
     },
     {
-      "added_at": "2024-04-04 11:17:14",
+      "added_at": "2024-04-25 23:44:17",
       "album": {
         "name": "MCHEW !",
         "url": "https://open.spotify.com/album/4eVpsLlYCq0Aeh0u6RhdTK"
@@ -733,23 +749,7 @@
       "url": "https://open.spotify.com/track/5wXQE0LVpsiIELgQqCPwfe"
     },
     {
-      "added_at": "2024-04-04 11:17:14",
-      "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/4CqnL9u5Vb1mtRTrk9C02x"
-      },
-      "artists": [
-        {
-          "name": "A.L.A",
-          "url": "https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX"
-        }
-      ],
-      "duration_ms": 199480,
-      "name": "Bario",
-      "url": "https://open.spotify.com/track/1lpg6YHzAsWn2dyAYhHxv2"
-    },
-    {
-      "added_at": "2024-04-04 11:17:14",
+      "added_at": "2024-04-25 23:44:17",
       "album": {
         "name": "\u0635\u0646\u0639 \u0628\u0633\u062d\u0631",
         "url": "https://open.spotify.com/album/1nVZ0Q37nv6whKbONk0Gxu"
@@ -769,7 +769,7 @@
       "url": "https://open.spotify.com/track/7zmjWzVeM3boUMAXvIeHgS"
     },
     {
-      "added_at": "2024-04-04 11:17:14",
+      "added_at": "2024-04-25 23:44:17",
       "album": {
         "name": "Ma3lich",
         "url": "https://open.spotify.com/album/6Mgz9dw5CWYFHK936bMH07"
@@ -785,7 +785,7 @@
       "url": "https://open.spotify.com/track/5alqglkGs6BMV7WGUvjyVv"
     },
     {
-      "added_at": "2024-04-04 11:17:14",
+      "added_at": "2024-04-25 23:44:17",
       "album": {
         "name": "Lil",
         "url": "https://open.spotify.com/album/7JFYWTodPY8Eb2UsKFEYlB"
@@ -801,7 +801,7 @@
       "url": "https://open.spotify.com/track/58ZDRk8fyRvesaCYGro0Di"
     },
     {
-      "added_at": "2024-04-04 11:17:14",
+      "added_at": "2024-04-25 23:44:17",
       "album": {
         "name": "Denya Bkhout (\u062f\u0646\u064a\u0627 \u0628\u062e\u0648\u062a)",
         "url": "https://open.spotify.com/album/5TA7rpDHWi2M9RWYOScgNn"
@@ -821,7 +821,7 @@
       "url": "https://open.spotify.com/track/7vA7XKOXZcVVAwYw9d1ZYc"
     },
     {
-      "added_at": "2024-04-04 11:17:14",
+      "added_at": "2024-04-25 23:44:17",
       "album": {
         "name": "Hasta la muerte",
         "url": "https://open.spotify.com/album/72MdvUI4rPAcOTW0ty9zuw"
@@ -841,7 +841,7 @@
       "url": "https://open.spotify.com/track/4U5h7GaXXXNOLpuo5vr3dU"
     },
     {
-      "added_at": "2024-04-04 11:17:14",
+      "added_at": "2024-04-25 23:44:17",
       "album": {
         "name": "Tomorrow",
         "url": "https://open.spotify.com/album/1BNLeUBIAYE6dPAKjKV21M"

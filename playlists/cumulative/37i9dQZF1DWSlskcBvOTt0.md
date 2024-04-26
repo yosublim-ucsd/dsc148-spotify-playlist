@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-644 songs - 2 day 11 hr 57 min
+645 songs - 2 day 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,7 @@
 | [Eunoia \- Original Mix](https://open.spotify.com/track/26btt4R7IRda2CHmuidTLM) | [Matan Caspi](https://open.spotify.com/artist/0vgVqK5WmUVzi4lozaSKWd) | [Eunoia](https://open.spotify.com/album/10kcNu8TI8d966msyHYnS9) | 7:26 | 2021-10-01 | 2022-04-21 |
 | [Evening Fog](https://open.spotify.com/track/4P2z1eqevx8wCes6dBjstL) | [Modd](https://open.spotify.com/artist/57aX19q7mKEOq5Y6FrHoh2) | [A Winter Sampler](https://open.spotify.com/album/2MbQoYh4qL93LVjOYLOwt7) | 9:11 | 2021-04-21 | 2022-07-28 |
 | [Everyday \- Shimza Remix](https://open.spotify.com/track/2GDWZWVlEWK9CMs2ZkMEOd) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX) | [Everyday \(Shimza Remix\)](https://open.spotify.com/album/4hPSNAFdFZutofFFVRMoMT) | 7:32 | 2022-10-28 | 2023-01-17 |
-| [Exito](https://open.spotify.com/track/2nqh8IbTzBbuf8aCwhElzX) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3), [Sil Romero](https://open.spotify.com/artist/0ZuVGmLXDBzT1XQaUdUoBG) | [Exito](https://open.spotify.com/album/3jhWi7kPjPhEcw8hUUIQrO) | 3:16 | 2024-01-12 |  |
+| [Exito](https://open.spotify.com/track/2nqh8IbTzBbuf8aCwhElzX) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3), [Sil Romero](https://open.spotify.com/artist/0ZuVGmLXDBzT1XQaUdUoBG) | [Exito](https://open.spotify.com/album/3jhWi7kPjPhEcw8hUUIQrO) | 3:16 | 2024-01-12 | 2024-04-26 |
 | [Extassy](https://open.spotify.com/track/2uK3ghC7nVXanDzeTL22Zw) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Extassy / In A Distorted Galaxy](https://open.spotify.com/album/7ik3JfNXlgGFLqeEtgzWS0) | 9:43 | 2022-10-24 | 2022-12-17 |
 | [Falling Again](https://open.spotify.com/track/3W6N0y9cMCKnpcX1RCYGXb) | [Ali Bakgor](https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs), [onebit.](https://open.spotify.com/artist/0rJ1sIMo2XYGEgzvSbY5DE) | [Falling Again](https://open.spotify.com/album/5xAcd94u5LYDLA8RfNu9TA) | 3:16 | 2023-06-16 | 2023-08-16 |
 | [Falling Through the Ceiling](https://open.spotify.com/track/7ifPwC6SBd3NSr4ozhIOz2) | [El Mundo](https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej), [Zazou](https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1) | [Falling Through the Ceiling](https://open.spotify.com/album/6sTVDZ00EmXpnafUkCXZ4y) | 7:52 | 2023-01-06 | 2023-08-05 |
@@ -407,6 +407,7 @@
 | [Never Too Late](https://open.spotify.com/track/5FxRRLJT4jthUgAjUNNgVd) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Never Too Late](https://open.spotify.com/album/55zrSnNkvIjCYzwryPY9LN) | 4:47 | 2023-04-28 | 2023-08-20 |
 | [Nice to Meet You](https://open.spotify.com/track/1AuaqlZieND0Ydk2xTZRqe) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Nice to Meet You](https://open.spotify.com/album/3s82Nf6qJ4CmQCvMXkJ2Y6) | 6:13 | 2022-08-19 | 2023-02-25 |
 | [Nice to Meet You](https://open.spotify.com/track/43wAEql15k2lLyDC568uTE) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Nice to Meet You](https://open.spotify.com/album/2Kv7OqpLhnBEEuYVXGZb4Y) | 6:13 | 2022-08-19 | 2022-12-15 |
+| [Nidze \- Radio Edit](https://open.spotify.com/track/7CkiV0U3DCAOhja5JqSjJj) | [Lucille](https://open.spotify.com/artist/7lsluaEWksJHKhckcic64l), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Nidze](https://open.spotify.com/album/5sVuSKtt0hclQEJK1mY2xe) | 3:36 | 2024-04-19 |  |
 | [Night Bell \- Arizona](https://open.spotify.com/track/7f1eD0myp4ntwnVLA5jmIU) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Night Bell \(Arizona\)](https://open.spotify.com/album/5eFPnkzLRO1EGogagnJyx7) | 7:28 | 2021-04-21 | 2022-11-07 |
 | [Night Bell \- Arizona](https://open.spotify.com/track/2SN41T7WJfoKkAsGUV11PA) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Light, West](https://open.spotify.com/album/2942biAKKQFqcATNWMzsFT) | 7:28 | 2022-07-01 | 2023-04-29 |
 | [Nightrider](https://open.spotify.com/track/5p2QAe34bA2pXVD875jfBu) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [\#WhatWeDoAtNight 4 EP 2](https://open.spotify.com/album/2SZVCA4Thr4q78S1zMj0zM) | 5:43 | 2024-01-26 | 2024-02-11 |

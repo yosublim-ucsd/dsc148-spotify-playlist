@@ -175,6 +175,24 @@
     },
     {
       "album": {
+        "name": "Blurred",
+        "url": "https://open.spotify.com/album/6eOqQXD4n0FEEhTEQ91gUH"
+      },
+      "artists": [
+        {
+          "name": "mabanua",
+          "url": "https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317258,
+      "name": "Heartbreak at Dawn",
+      "url": "https://open.spotify.com/track/6kRpYg4wxkNmT0bUdIjXc9"
+    },
+    {
+      "album": {
         "name": "Holden",
         "url": "https://open.spotify.com/album/0AGLZTnnYVMAOHFl7XMXkw"
       },

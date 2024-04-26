@@ -2,7 +2,7 @@
 
 ### [This Is Mike Bahía](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0M2nrG)
 
-> This is Mike Bahía\. Todos os maiores hits em uma só playlist.
+> This is Mike Bahía\. The essential tracks, all in one playlist.
 
 67 songs - 3 hr 30 min
 

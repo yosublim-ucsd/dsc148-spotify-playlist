@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume Cover: Mia Wray",
-  "num_followers": 45024,
+  "num_followers": 45027,
   "original_name": "EQUAL AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzUyNjQwOCwwMDAwMDAwMGYyODY0ZDE2MzJkMDMyNjA3MGI3ZGNhODUxYzUyMmM4",
+  "snapshot_id": "MTcxNDA1MzYwMCwwMDAwMDAwMGZkYTlhZjNlNjY4MzkxZDk5NjUyMjNjNjU3ZmUzOTRl",
   "tracks": [
     {
       "added_at": "2024-04-19 11:33:28",
@@ -107,18 +107,50 @@
     {
       "added_at": "2024-04-19 11:33:28",
       "album": {
-        "name": "Little Sadness",
-        "url": "https://open.spotify.com/album/4pD4Kemo4z4bwpdzEFg9F0"
+        "name": "Background",
+        "url": "https://open.spotify.com/album/1yyinRpv3FjqDsz4vEIMxf"
       },
       "artists": [
         {
-          "name": "Mel Parsons",
-          "url": "https://open.spotify.com/artist/2mKPHz3RD0bMrQqKFnrwrC"
+          "name": "Wafia",
+          "url": "https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U"
         }
       ],
-      "duration_ms": 220266,
-      "name": "Little Sadness",
-      "url": "https://open.spotify.com/track/2XbvBSOmMyCwOcVcJK7UcL"
+      "duration_ms": 131327,
+      "name": "Background",
+      "url": "https://open.spotify.com/track/6oaZSlgWzas2E8d3L067fa"
+    },
+    {
+      "added_at": "2024-04-25 14:00:00",
+      "album": {
+        "name": "Loving Me Lover",
+        "url": "https://open.spotify.com/album/0AleWkO3Bq3IfF5WxtCyKZ"
+      },
+      "artists": [
+        {
+          "name": "Amy Shark",
+          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
+        }
+      ],
+      "duration_ms": 202261,
+      "name": "Loving Me Lover",
+      "url": "https://open.spotify.com/track/1ssaRxZU0QoRFIgrHEVDqr"
+    },
+    {
+      "added_at": "2024-04-25 14:00:00",
+      "album": {
+        "name": "chemtrails",
+        "url": "https://open.spotify.com/album/1EOn46uCdPizSOJanZhKIC"
+      },
+      "artists": [
+        {
+          "name": "tiffi",
+          "url": "https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4"
+        }
+      ],
+      "duration_ms": 133639,
+      "name": "chemtrails",
+      "url": "https://open.spotify.com/track/7F91nVUQpECxcknIPAhWPM"
     },
     {
       "added_at": "2024-04-19 11:33:28",
@@ -187,6 +219,26 @@
       "duration_ms": 174626,
       "name": "YOUR PART IN MY STORY IS OVER",
       "url": "https://open.spotify.com/track/0DYuwkXIJice7DEQ1jmaNx"
+    },
+    {
+      "added_at": "2024-04-25 14:00:00",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/7g3xnmsBsf9AVjrOBPB6fP"
+      },
+      "artists": [
+        {
+          "name": "Phebe Starr",
+          "url": "https://open.spotify.com/artist/5buTKeJ19EBEcckqTe0XqP"
+        },
+        {
+          "name": "Froyo",
+          "url": "https://open.spotify.com/artist/7bu1W48UCjVSIyy3qxZ0gW"
+        }
+      ],
+      "duration_ms": 218607,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/6Dmud4bneyzv1COwS7ANRk"
     },
     {
       "added_at": "2024-04-19 11:33:28",
@@ -267,6 +319,22 @@
       "duration_ms": 264066,
       "name": "Take Me to the River",
       "url": "https://open.spotify.com/track/5vmYMS6FR2b7J57OG0Cscl"
+    },
+    {
+      "added_at": "2024-04-25 14:00:00",
+      "album": {
+        "name": "One Last Drag",
+        "url": "https://open.spotify.com/album/11i8xYfkd4zdBkKcSBKqSe"
+      },
+      "artists": [
+        {
+          "name": "Hayley Mary",
+          "url": "https://open.spotify.com/artist/0jVHJ8I9hODEGcXruenrdH"
+        }
+      ],
+      "duration_ms": 251045,
+      "name": "One Last Drag",
+      "url": "https://open.spotify.com/track/72EdNYAMrxZKcnxvP1mpu4"
     },
     {
       "added_at": "2024-04-19 11:33:28",
@@ -355,18 +423,18 @@
     {
       "added_at": "2024-04-19 11:33:28",
       "album": {
-        "name": "Background",
-        "url": "https://open.spotify.com/album/1yyinRpv3FjqDsz4vEIMxf"
+        "name": "Little Sadness",
+        "url": "https://open.spotify.com/album/4pD4Kemo4z4bwpdzEFg9F0"
       },
       "artists": [
         {
-          "name": "Wafia",
-          "url": "https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U"
+          "name": "Mel Parsons",
+          "url": "https://open.spotify.com/artist/2mKPHz3RD0bMrQqKFnrwrC"
         }
       ],
-      "duration_ms": 131327,
-      "name": "Background",
-      "url": "https://open.spotify.com/track/6oaZSlgWzas2E8d3L067fa"
+      "duration_ms": 220266,
+      "name": "Little Sadness",
+      "url": "https://open.spotify.com/track/2XbvBSOmMyCwOcVcJK7UcL"
     },
     {
       "added_at": "2024-04-19 11:33:28",
@@ -463,6 +531,22 @@
       "duration_ms": 176033,
       "name": "Life of the Party",
       "url": "https://open.spotify.com/track/3xMrX3EA2e6fcdarak6Vnf"
+    },
+    {
+      "added_at": "2024-04-25 14:00:00",
+      "album": {
+        "name": "Lilith",
+        "url": "https://open.spotify.com/album/0RoQZTdybBKt9fVy8qBxiB"
+      },
+      "artists": [
+        {
+          "name": "Jess Day",
+          "url": "https://open.spotify.com/artist/5NQljfPqllxB64U0rpCnsk"
+        }
+      ],
+      "duration_ms": 186330,
+      "name": "Lilith",
+      "url": "https://open.spotify.com/track/7cfbWSJsvnxVTDvGlcjQOf"
     },
     {
       "added_at": "2024-04-19 11:33:28",
@@ -1487,22 +1571,6 @@
     {
       "added_at": "2024-04-19 11:33:28",
       "album": {
-        "name": "Love A Little Harder",
-        "url": "https://open.spotify.com/album/5v2QbRsOlELlQiIorUJY0L"
-      },
-      "artists": [
-        {
-          "name": "NOURI",
-          "url": "https://open.spotify.com/artist/4b5Sw1n9FPtq0RQetJSzEW"
-        }
-      ],
-      "duration_ms": 196623,
-      "name": "Love A Little Harder",
-      "url": "https://open.spotify.com/track/3kOZgGwiAb7grQ26s4vXzG"
-    },
-    {
-      "added_at": "2024-04-19 11:33:28",
-      "album": {
         "name": "Hush",
         "url": "https://open.spotify.com/album/3beyQvCg0R1KkVXtK72irx"
       },
@@ -1567,38 +1635,6 @@
     {
       "added_at": "2024-04-19 11:33:28",
       "album": {
-        "name": "High School Drama",
-        "url": "https://open.spotify.com/album/1ts95O4EudVSHUfOnaVxeL"
-      },
-      "artists": [
-        {
-          "name": "Lola Scott",
-          "url": "https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m"
-        }
-      ],
-      "duration_ms": 172870,
-      "name": "High School Drama",
-      "url": "https://open.spotify.com/track/4d9fZ4YEJnK3W9zEsPmyL0"
-    },
-    {
-      "added_at": "2024-04-19 11:33:28",
-      "album": {
-        "name": "Done With Boys",
-        "url": "https://open.spotify.com/album/3Mr8cmTBHjJq2clgCVweZc"
-      },
-      "artists": [
-        {
-          "name": "Matilda Pearl",
-          "url": "https://open.spotify.com/artist/4UwWCi0aYGKsyVgCKf20tw"
-        }
-      ],
-      "duration_ms": 196369,
-      "name": "Done With Boys",
-      "url": "https://open.spotify.com/track/5WoigqvPCSXuzFlvSQAYFK"
-    },
-    {
-      "added_at": "2024-04-19 11:33:28",
-      "album": {
         "name": "Apricot Sun",
         "url": "https://open.spotify.com/album/073b961mweb1pbVWyB5DJQ"
       },
@@ -1611,38 +1647,6 @@
       "duration_ms": 194933,
       "name": "Apricot Sun",
       "url": "https://open.spotify.com/track/1gkpGmHT0hkduqi8bosUSl"
-    },
-    {
-      "added_at": "2024-04-19 11:33:28",
-      "album": {
-        "name": "just calling to tell you i'm ok",
-        "url": "https://open.spotify.com/album/0t29L89Q41eyqo1UOCJM2A"
-      },
-      "artists": [
-        {
-          "name": "Eliott",
-          "url": "https://open.spotify.com/artist/2oYcBXVaDoRJZiIwydeDzB"
-        }
-      ],
-      "duration_ms": 223453,
-      "name": "Only 25",
-      "url": "https://open.spotify.com/track/4v1vSTBTzpX6vl0i1Nginj"
-    },
-    {
-      "added_at": "2024-04-19 11:33:28",
-      "album": {
-        "name": "Off By Heart",
-        "url": "https://open.spotify.com/album/5JpDR4H0reeTZTS453Xbc1"
-      },
-      "artists": [
-        {
-          "name": "Dulcie",
-          "url": "https://open.spotify.com/artist/5mizYbdTNtmQlU97XqxJOe"
-        }
-      ],
-      "duration_ms": 183694,
-      "name": "Off By Heart",
-      "url": "https://open.spotify.com/track/2SYPolHtiL3IdKPkTDKNIY"
     }
   ],
   "unique_name": "EQUAL AU & NZ",

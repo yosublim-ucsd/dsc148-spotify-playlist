@@ -874,10 +874,28 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 194186,
       "name": "Nugriz",
       "url": "https://open.spotify.com/track/6ggBOrhVLihp57cTr8L4yX"
+    },
+    {
+      "album": {
+        "name": "Oud (The Legend of Arabic Music)",
+        "url": "https://open.spotify.com/album/6ccsUgs16DGDaZ77UNKYOg"
+      },
+      "artists": [
+        {
+          "name": "Aarif Jaman",
+          "url": "https://open.spotify.com/artist/1zkvifjurjnlKQmRLlXpeh"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194586,
+      "name": "Nuo Ather",
+      "url": "https://open.spotify.com/track/3wviuDbyvbG0Vr3sO4IfUs"
     },
     {
       "album": {

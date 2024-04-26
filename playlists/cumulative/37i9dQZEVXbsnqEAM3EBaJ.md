@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-1,366 songs - 3 day 23 hr 44 min
+1,367 songs - 3 day 23 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,6 +412,7 @@
 | [Foxglove Through The Clearcut \- Acoustic](https://open.spotify.com/track/4EfROdTKT8NTmJg8gxgXQi) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Foxglove Through The Clearcut \(Acoustic\)](https://open.spotify.com/album/1TUrfRrI0YybA6OKkZo6lB) | 5:05 | 2023-03-03 | 2023-03-11 |
 | [Frances Farmer Will Have Her Revenge On Seattle \- Live In Los Angeles, Great Western Forum \- December 30, 1993](https://open.spotify.com/track/1KxYekYpnaLDTMtqOv1xqx) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \(30th Anniversary Super Deluxe\)](https://open.spotify.com/album/68uIz7DtgDoPUFTKxdzL9t) | 4:07 | 2023-10-27 | 2023-11-26 |
 | [Frances Farmer Will Have Her Revenge On Seattle \- Live In Seattle, Seattle Center Arena \- January 7, 1994](https://open.spotify.com/track/3N8SPI3gLlikVYJL1d7Xpn) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero 30th Live](https://open.spotify.com/album/59l8Nwhl8l7mmxiVv9Bzbk) | 3:53 | 2023-10-20 | 2023-10-29 |
+| [Frecuencias Estelares para Elevar Tu Vibración](https://open.spotify.com/track/10AF4BfNSKT1nV6imaxlEC) | [Iván Donalson](https://open.spotify.com/artist/13AiWNMLpKYo0wSPSAiBUg) | [Vibraciones Superiores](https://open.spotify.com/album/42Ed8WBO3fkq08LkjqHnI5) | 9:57 | 2024-04-19 |  |
 | [Free To Decide \- Paris Demo](https://open.spotify.com/track/3Z4lCM5i4f6yJVwoqgSlIa) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed \(Deluxe Edition\)](https://open.spotify.com/album/0cg6OTD0VxMSAzQghLeecH) | 5:09 | 2023-09-15 | 2023-10-07 |
 | [Freefall \- M\-Project Remix \(Remodel\)](https://open.spotify.com/track/0ztkf2w6bmtzzpSs9luuOs) | [UFO](https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s) | [Freefall](https://open.spotify.com/album/1KvZxJl5SCOf7Yqc2qo7c7) | 4:15 | 2024-03-22 | 2024-04-19 |
 | [Friendly Fire](https://open.spotify.com/track/1rAzOr3zpUDRtN2zsqGHiG) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Friendly Fire](https://open.spotify.com/album/601IEigQO3enlyrbn4SpNM) | 2:56 | 2024-02-23 | 2024-03-24 |

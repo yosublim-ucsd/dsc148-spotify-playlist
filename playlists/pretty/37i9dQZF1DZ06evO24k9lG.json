@@ -1,12 +1,12 @@
 {
   "description": "This Is Binomio de Oro de Am\u00e9rica. Los temas esenciales, todos en una lista.",
-  "num_followers": 55672,
+  "num_followers": 55698,
   "original_name": "This Is Binomio de Oro de Am\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzgzMDQwMCwwMDAwMDAwMDI3Nzc4Mjk2NjIzNGQ5YmE2NjUzMDQ2ODEyNWJiY2Jj",
+  "snapshot_id": "MTcxMzkxNjgwMCwwMDAwMDAwMDQ3ZmY5N2Q4MmI1YzBhM2U5NjQxODg1OWI5NWUyYmNj",
   "tracks": [
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
         }
       ],
-      "duration_ms": 261616,
-      "name": "Manantial De Amor",
-      "url": "https://open.spotify.com/track/7Jj7xLUrsvHCiwOsNxzPPC"
+      "duration_ms": 221093,
+      "name": "Distintos Destinos",
+      "url": "https://open.spotify.com/track/3klDMS8I5WdQMD82aAhbha"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
         }
       ],
-      "duration_ms": 221093,
-      "name": "Distintos Destinos",
-      "url": "https://open.spotify.com/track/3klDMS8I5WdQMD82aAhbha"
+      "duration_ms": 261616,
+      "name": "Manantial De Amor",
+      "url": "https://open.spotify.com/track/7Jj7xLUrsvHCiwOsNxzPPC"
     },
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Su Gusto",
-        "url": "https://open.spotify.com/album/2vAJSOQt8Fa6yOSYqQcXQS"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 276413,
-      "name": "Volvio El Dolor",
-      "url": "https://open.spotify.com/track/2SV9OTkT0LZGCrGFY7cr1f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dif\u00edcil De Igualar",
         "url": "https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 303413,
       "name": "Dificil de igualar",
       "url": "https://open.spotify.com/track/3vhej4TjgOt4d6OS4uMIVO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Su Gusto",
+        "url": "https://open.spotify.com/album/2vAJSOQt8Fa6yOSYqQcXQS"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 276413,
+      "name": "Volvio El Dolor",
+      "url": "https://open.spotify.com/track/2SV9OTkT0LZGCrGFY7cr1f"
     },
     {
       "added_at": null,

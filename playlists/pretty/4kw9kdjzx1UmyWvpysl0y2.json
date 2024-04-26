@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 126108,
+  "num_followers": 126109,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDY3NyxkNDM0MTNkMWY2OGRlMmMzZjBiYzA0MTMyMGIwY2M4MzY1MGMxY2M0",
+  "snapshot_id": "NDY3OSw3MzI5ZTQ0NjViZjBiYjMyZTg0NjFmNWU4YmUxZjdhZWY3MjVmNDdi",
   "tracks": [
+    {
+      "added_at": "2024-04-25 14:11:35",
+      "album": {
+        "name": "Know Me Better",
+        "url": "https://open.spotify.com/album/2iR9KdDE9yT2u5WVXehm1u"
+      },
+      "artists": [
+        {
+          "name": "Vikkstar",
+          "url": "https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC"
+        },
+        {
+          "name": "Masked Wolf",
+          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
+        },
+        {
+          "name": "Jme",
+          "url": "https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5"
+        }
+      ],
+      "duration_ms": 176148,
+      "name": "Know Me Better",
+      "url": "https://open.spotify.com/track/41AVceKYPXTFQNm8Sm9GP2"
+    },
     {
       "added_at": "2024-04-24 13:50:33",
       "album": {
@@ -1167,26 +1191,6 @@
       "duration_ms": 251162,
       "name": "Choir of the Banshees",
       "url": "https://open.spotify.com/track/72ijk2ClDkcZ5FgD4IM1n8"
-    },
-    {
-      "added_at": "2024-02-06 17:53:50",
-      "album": {
-        "name": "k-means clustering (Tor Remix)",
-        "url": "https://open.spotify.com/album/4Zoy8jTVWTrEiZiGEf3HRX"
-      },
-      "artists": [
-        {
-          "name": "BT",
-          "url": "https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL"
-        },
-        {
-          "name": "Tor",
-          "url": "https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "k-means clustering - Tor Remix",
-      "url": "https://open.spotify.com/track/5nTiUbO1yTk5AbJ9McXD0M"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

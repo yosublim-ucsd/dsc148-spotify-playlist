@@ -2,7 +2,7 @@
 
 ### [This Is Natalia Lafourcade](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0HaZQk)
 
-> This is Natalia Lafourcade\. Todos os maiores hits em uma só playlist.
+> This is Natalia Lafourcade\. The essential tracks, all in one playlist.
 
 60 songs - 3 hr 55 min
 

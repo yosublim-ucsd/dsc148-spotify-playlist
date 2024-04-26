@@ -1,15 +1,31 @@
 {
-  "description": "De nieuwste Nederlandse pop! Cover: Tino Martin & Anouk",
-  "num_followers": 161876,
+  "description": "De nieuwste Nederlandse pop! Cover: Maan",
+  "num_followers": 161886,
   "original_name": "Je Moerstaal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ3NzY2MCwwMDAwMDAwMDE4NzE3MjQ1OTAwODE5ZGI1MGFlZjZlMWYzNjMzZmRk",
+  "snapshot_id": "MTcxNDA4MjQwMCwwMDAwMDAwMDY2M2M2MGZmMGQ3YzJhNjdkNWEwNWFjYWFmMzUwNzYy",
   "tracks": [
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Paranoia",
+        "url": "https://open.spotify.com/album/1R3bFpMH3ySvkMArLrwFox"
+      },
+      "artists": [
+        {
+          "name": "Maan",
+          "url": "https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU"
+        }
+      ],
+      "duration_ms": 194520,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/4h272DTgerbGSLboHdYefP"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "Voor Je \u2018t Weet",
         "url": "https://open.spotify.com/album/3azvOPrY1wCSaESVjQVAmc"
@@ -29,10 +45,10 @@
       "url": "https://open.spotify.com/track/0kQW438RAa27ixstP4bIhD"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Gezichten EP",
-        "url": "https://open.spotify.com/album/3jBDb7CmEwRl7TLE54Tfct"
+        "name": "Doe Maar",
+        "url": "https://open.spotify.com/album/0jw6ieOuuks0vMYStBr1yY"
       },
       "artists": [
         {
@@ -40,12 +56,12 @@
           "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
         }
       ],
-      "duration_ms": 156386,
-      "name": "Fata Morgana",
-      "url": "https://open.spotify.com/track/0ChKnEMUsi8rZts7tGzUi8"
+      "duration_ms": 150674,
+      "name": "Doe Maar",
+      "url": "https://open.spotify.com/track/2oCFzEd9T5Tz9PWsINhaQ5"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "Un Chance",
         "url": "https://open.spotify.com/album/7D6eElKu2eb6Tf73bnYESd"
@@ -61,7 +77,7 @@
       "url": "https://open.spotify.com/track/2r1MMDskd8NazaS6EgIhy8"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "Juice Voor Je Ziel",
         "url": "https://open.spotify.com/album/58om4xOUZjb2DfY04YTjuc"
@@ -77,7 +93,23 @@
       "url": "https://open.spotify.com/track/7vLUqQuhAyNsXgwYRZsBLy"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Op Het Balkon",
+        "url": "https://open.spotify.com/album/1fyXAy7SAkLfQCW8n6Pwjf"
+      },
+      "artists": [
+        {
+          "name": "Sterre Koning",
+          "url": "https://open.spotify.com/artist/3vE2dQ30qWbC54d4K93zlB"
+        }
+      ],
+      "duration_ms": 156747,
+      "name": "Op Het Balkon",
+      "url": "https://open.spotify.com/track/1RsP5AgQ5xQsA4SEuiGfHf"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "in vertrouwen",
         "url": "https://open.spotify.com/album/3ro70qeSO0Liu4kZ3Vldsy"
@@ -93,7 +125,7 @@
       "url": "https://open.spotify.com/track/2qodcGSBmMVTUhEnbyZ8my"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "Life After Daddy",
         "url": "https://open.spotify.com/album/4FabIeNicgzy4CJhVzIMzC"
@@ -109,55 +141,7 @@
       "url": "https://open.spotify.com/track/7E7Qhgkd8iGXj4o8l87SGN"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
-      "album": {
-        "name": "Consensual",
-        "url": "https://open.spotify.com/album/5XQ3CGBa4p7Irp64jyrJc9"
-      },
-      "artists": [
-        {
-          "name": "Sleeq",
-          "url": "https://open.spotify.com/artist/2qvTXvob9J4bX63ZrZyliD"
-        }
-      ],
-      "duration_ms": 141483,
-      "name": "Consensual",
-      "url": "https://open.spotify.com/track/3WzfdbLODInkYLnPDZ18x7"
-    },
-    {
-      "added_at": "2024-04-18 22:01:00",
-      "album": {
-        "name": "Verder Gaan",
-        "url": "https://open.spotify.com/album/0r77Nr0uGa2s6LjUhUn8nu"
-      },
-      "artists": [
-        {
-          "name": "FLEUR",
-          "url": "https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0"
-        }
-      ],
-      "duration_ms": 179482,
-      "name": "Verder Gaan",
-      "url": "https://open.spotify.com/track/6UmHcP85c9ithN6491OqGB"
-    },
-    {
-      "added_at": "2024-04-18 22:01:00",
-      "album": {
-        "name": "Sugardaddy",
-        "url": "https://open.spotify.com/album/5YHwXc1VQepi38h0kutggf"
-      },
-      "artists": [
-        {
-          "name": "Roxy Dekker",
-          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
-        }
-      ],
-      "duration_ms": 131796,
-      "name": "Sugardaddy",
-      "url": "https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4"
-    },
-    {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "Ralphie",
         "url": "https://open.spotify.com/album/5FY4guwMoh3L8DDy8dxCmf"
@@ -177,119 +161,39 @@
       "url": "https://open.spotify.com/track/0f2GSOCvtLTWJZNmVSCE1v"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Geen Afscheid",
-        "url": "https://open.spotify.com/album/4dOsneFTsRlUXPWVWrr7Ne"
+        "name": "Probleem",
+        "url": "https://open.spotify.com/album/5onfPcb7IULRfHeVoEWnyH"
       },
       "artists": [
         {
-          "name": "Sarita Lorena",
-          "url": "https://open.spotify.com/artist/5V9JsrZb5RjuvbzvJsA5gp"
+          "name": "Younes",
+          "url": "https://open.spotify.com/artist/2ftVjcrQgFBQ7JMkVX6wVw"
         }
       ],
-      "duration_ms": 182500,
-      "name": "Geen Afscheid",
-      "url": "https://open.spotify.com/track/2BwUN986gM7c7IidyCP9Dr"
+      "duration_ms": 155428,
+      "name": "Probleem",
+      "url": "https://open.spotify.com/track/4xVtXdNuhtfhL4leTekn4b"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Liever Dan Lief",
-        "url": "https://open.spotify.com/album/2xBlCsxpTu5BjIToy8GeWI"
+        "name": "Verder Gaan",
+        "url": "https://open.spotify.com/album/0r77Nr0uGa2s6LjUhUn8nu"
       },
       "artists": [
         {
-          "name": "KRISTAN",
-          "url": "https://open.spotify.com/artist/23406Pq96EgLcng2suxLhT"
+          "name": "FLEUR",
+          "url": "https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0"
         }
       ],
-      "duration_ms": 206287,
-      "name": "Liever Dan Lief",
-      "url": "https://open.spotify.com/track/45tt651zCvMR0Lq2xABBBo"
+      "duration_ms": 179482,
+      "name": "Verder Gaan",
+      "url": "https://open.spotify.com/track/6UmHcP85c9ithN6491OqGB"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
-      "album": {
-        "name": "Is Dit Geluk?",
-        "url": "https://open.spotify.com/album/51dFIOwEKQqryRgGz1As6z"
-      },
-      "artists": [
-        {
-          "name": "Amina",
-          "url": "https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc"
-        }
-      ],
-      "duration_ms": 137444,
-      "name": "Is Dit Geluk?",
-      "url": "https://open.spotify.com/track/7dYSfLscOlKorZ8w0CufbM"
-    },
-    {
-      "added_at": "2024-04-18 22:01:00",
-      "album": {
-        "name": "Doe Maar",
-        "url": "https://open.spotify.com/album/0jw6ieOuuks0vMYStBr1yY"
-      },
-      "artists": [
-        {
-          "name": "Antoon",
-          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
-        }
-      ],
-      "duration_ms": 150674,
-      "name": "Doe Maar",
-      "url": "https://open.spotify.com/track/2oCFzEd9T5Tz9PWsINhaQ5"
-    },
-    {
-      "added_at": "2024-04-18 22:01:00",
-      "album": {
-        "name": "Blik Op Jou",
-        "url": "https://open.spotify.com/album/2eszVV2AEnzsQX5cPnKA15"
-      },
-      "artists": [
-        {
-          "name": "Jada Borsato",
-          "url": "https://open.spotify.com/artist/6EdpDU1kcKCtErNVnIpUbE"
-        }
-      ],
-      "duration_ms": 191935,
-      "name": "Blik Op Jou",
-      "url": "https://open.spotify.com/track/6n7MvjxLnE0EYNVDn5kh6c"
-    },
-    {
-      "added_at": "2024-04-18 22:01:00",
-      "album": {
-        "name": "Adem In, Adem Uit",
-        "url": "https://open.spotify.com/album/5Nufsh4togaizijSgMIW7X"
-      },
-      "artists": [
-        {
-          "name": "jet van der steen",
-          "url": "https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "Adem In, Adem Uit",
-      "url": "https://open.spotify.com/track/0b4WkyO0shczSa82GQAnvG"
-    },
-    {
-      "added_at": "2024-04-18 22:01:00",
-      "album": {
-        "name": "Je Hebt Me",
-        "url": "https://open.spotify.com/album/2yi7y3OKpF8ckliYQJjbDG"
-      },
-      "artists": [
-        {
-          "name": "Delany",
-          "url": "https://open.spotify.com/artist/1XTd9ZCFzkRPUoO9yHQAYP"
-        }
-      ],
-      "duration_ms": 172689,
-      "name": "Je Hebt Me",
-      "url": "https://open.spotify.com/track/5SBIUbG9ksjffWW23BlxN2"
-    },
-    {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "Wat Ik Ook Ga Doen",
         "url": "https://open.spotify.com/album/4SQiHWRdAA9WfUF3tae3XY"
@@ -305,7 +209,199 @@
       "url": "https://open.spotify.com/track/35BBNYg2fEtgYjkgJrGcg1"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Blik Op Jou",
+        "url": "https://open.spotify.com/album/2eszVV2AEnzsQX5cPnKA15"
+      },
+      "artists": [
+        {
+          "name": "Jada Borsato",
+          "url": "https://open.spotify.com/artist/6EdpDU1kcKCtErNVnIpUbE"
+        }
+      ],
+      "duration_ms": 191935,
+      "name": "Blik Op Jou",
+      "url": "https://open.spotify.com/track/6n7MvjxLnE0EYNVDn5kh6c"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Gezichten EP",
+        "url": "https://open.spotify.com/album/3jBDb7CmEwRl7TLE54Tfct"
+      },
+      "artists": [
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        }
+      ],
+      "duration_ms": 156386,
+      "name": "Fata Morgana",
+      "url": "https://open.spotify.com/track/0ChKnEMUsi8rZts7tGzUi8"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Ruwe Diamant",
+        "url": "https://open.spotify.com/album/7n1ZlbM9wq9eI0t6NcZ8FY"
+      },
+      "artists": [
+        {
+          "name": "Cheyenne Toney",
+          "url": "https://open.spotify.com/artist/1sTs8GU5lgBiANf1OypPp8"
+        }
+      ],
+      "duration_ms": 136291,
+      "name": "Ruwe Diamant",
+      "url": "https://open.spotify.com/track/3Q0XoPBcs6NxI15FQBwtyI"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Sugardaddy",
+        "url": "https://open.spotify.com/album/5YHwXc1VQepi38h0kutggf"
+      },
+      "artists": [
+        {
+          "name": "Roxy Dekker",
+          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
+        }
+      ],
+      "duration_ms": 131796,
+      "name": "Sugardaddy",
+      "url": "https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Wat ze wil",
+        "url": "https://open.spotify.com/album/7su7YOJjgeVPkz90YJIyBD"
+      },
+      "artists": [
+        {
+          "name": "Theun met een h",
+          "url": "https://open.spotify.com/artist/0gPKa3T9bOhyyUkGeYcf2I"
+        }
+      ],
+      "duration_ms": 209555,
+      "name": "Wat ze wil",
+      "url": "https://open.spotify.com/track/5YmsjL8WdTiObmZxfzdy6a"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Geen Afscheid",
+        "url": "https://open.spotify.com/album/4dOsneFTsRlUXPWVWrr7Ne"
+      },
+      "artists": [
+        {
+          "name": "Sarita Lorena",
+          "url": "https://open.spotify.com/artist/5V9JsrZb5RjuvbzvJsA5gp"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Geen Afscheid",
+      "url": "https://open.spotify.com/track/2BwUN986gM7c7IidyCP9Dr"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Liever Dan Lief",
+        "url": "https://open.spotify.com/album/2xBlCsxpTu5BjIToy8GeWI"
+      },
+      "artists": [
+        {
+          "name": "KRISTAN",
+          "url": "https://open.spotify.com/artist/23406Pq96EgLcng2suxLhT"
+        }
+      ],
+      "duration_ms": 206287,
+      "name": "Liever Dan Lief",
+      "url": "https://open.spotify.com/track/45tt651zCvMR0Lq2xABBBo"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Is Dit Geluk?",
+        "url": "https://open.spotify.com/album/51dFIOwEKQqryRgGz1As6z"
+      },
+      "artists": [
+        {
+          "name": "Amina",
+          "url": "https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc"
+        }
+      ],
+      "duration_ms": 137444,
+      "name": "Is Dit Geluk?",
+      "url": "https://open.spotify.com/track/7dYSfLscOlKorZ8w0CufbM"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Misschien Is Ooit Wel Nu",
+        "url": "https://open.spotify.com/album/2i7QZ4WZ7FQe6Uqbz8D643"
+      },
+      "artists": [
+        {
+          "name": "Krystl",
+          "url": "https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi"
+        }
+      ],
+      "duration_ms": 206925,
+      "name": "Misschien Is Ooit Wel Nu",
+      "url": "https://open.spotify.com/track/3rGpDPBdkLEmjFj9JwqvpH"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Adem In, Adem Uit",
+        "url": "https://open.spotify.com/album/5Nufsh4togaizijSgMIW7X"
+      },
+      "artists": [
+        {
+          "name": "jet van der steen",
+          "url": "https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "Adem In, Adem Uit",
+      "url": "https://open.spotify.com/track/0b4WkyO0shczSa82GQAnvG"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Je Hebt Me",
+        "url": "https://open.spotify.com/album/2yi7y3OKpF8ckliYQJjbDG"
+      },
+      "artists": [
+        {
+          "name": "Delany",
+          "url": "https://open.spotify.com/artist/1XTd9ZCFzkRPUoO9yHQAYP"
+        }
+      ],
+      "duration_ms": 172689,
+      "name": "Je Hebt Me",
+      "url": "https://open.spotify.com/track/5SBIUbG9ksjffWW23BlxN2"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Consensual",
+        "url": "https://open.spotify.com/album/5XQ3CGBa4p7Irp64jyrJc9"
+      },
+      "artists": [
+        {
+          "name": "Sleeq",
+          "url": "https://open.spotify.com/artist/2qvTXvob9J4bX63ZrZyliD"
+        }
+      ],
+      "duration_ms": 141483,
+      "name": "Consensual",
+      "url": "https://open.spotify.com/track/3WzfdbLODInkYLnPDZ18x7"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "You & Me",
         "url": "https://open.spotify.com/album/49Qtp4b1FhN4DNcjCW9qnJ"
@@ -321,7 +417,7 @@
       "url": "https://open.spotify.com/track/6sX8CkFopBSOHX7PFS4VpI"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "Dromers Slapen Niet",
         "url": "https://open.spotify.com/album/7hD0o6qizBV3vivCFNHvqD"
@@ -337,7 +433,7 @@
       "url": "https://open.spotify.com/track/3YU5kaYun2AdIII0AqFJRN"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "Huilen In De Bioscoop",
         "url": "https://open.spotify.com/album/0oHj3DnR0rpVXptWzN9V6o"
@@ -353,7 +449,7 @@
       "url": "https://open.spotify.com/track/0dYQzM1CKG4OVZmdm08rv8"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "Gek Doen (Annemijn)",
         "url": "https://open.spotify.com/album/4beFwZAnElEtwVYVZEe9rX"
@@ -369,7 +465,7 @@
       "url": "https://open.spotify.com/track/2dUuayEzxpegdZx2zdrJTF"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "Soms gaat de tijd zo snel",
         "url": "https://open.spotify.com/album/2anvye5Ul8HSsufVusk8zQ"
@@ -385,7 +481,7 @@
       "url": "https://open.spotify.com/track/3o20NBEBiwh7xB5ByLHzNh"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "Eloise",
         "url": "https://open.spotify.com/album/6wCab0sEdCH02C5LgY9c4q"
@@ -401,7 +497,7 @@
       "url": "https://open.spotify.com/track/3QGIkkjhRIhRwanFXkenW9"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "Entourage",
         "url": "https://open.spotify.com/album/3QuhArgaKaAgzXoh6Iggue"
@@ -417,7 +513,7 @@
       "url": "https://open.spotify.com/track/48kxfGK5XbO1eW8Cf4Vil7"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "Wees Niet Bang",
         "url": "https://open.spotify.com/album/3wT5djJDPFupycW30g3lob"
@@ -433,7 +529,7 @@
       "url": "https://open.spotify.com/track/7jkWQ2e92jOyjjhj2ZwVem"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "Laat Me Nooit Meer Los (Never Let Me Go)",
         "url": "https://open.spotify.com/album/5HJ2BolbLuIdB6fnpmQ5jc"
@@ -453,7 +549,7 @@
       "url": "https://open.spotify.com/track/1prhH9cmEkXHnAprZ92Ake"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "Spuug van God",
         "url": "https://open.spotify.com/album/1aAim07lpl5ARWVls0wKqM"
@@ -469,7 +565,7 @@
       "url": "https://open.spotify.com/track/5xX8QMZ3jjaW15xq46LPqz"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "Vrouw Van De Wereld",
         "url": "https://open.spotify.com/album/5kOYsrWUtHR6QL0MzuyJFh"
@@ -485,7 +581,7 @@
       "url": "https://open.spotify.com/track/1df6j97W2WPuIprZJQ9TxV"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "Hoe Zou Het Zijn",
         "url": "https://open.spotify.com/album/2ALYBOS62AwjwUTxPuQZtN"
@@ -501,7 +597,7 @@
       "url": "https://open.spotify.com/track/1Ozx074E5K8p5QNoIgKnrt"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "Achtentwintig (Deluxe)",
         "url": "https://open.spotify.com/album/1PbjgkZJbYSo6x9XrSQ6kq"
@@ -517,7 +613,7 @@
       "url": "https://open.spotify.com/track/2oe1IjjNltSGysJfyC6hAu"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "Waar Ben Je Bang Voor",
         "url": "https://open.spotify.com/album/5HAfiOik2KpgQDhp8vzjWl"
@@ -537,7 +633,7 @@
       "url": "https://open.spotify.com/track/1N2qmVOdqt66SP0CT968G7"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "Spijt",
         "url": "https://open.spotify.com/album/3cJU4l6JLEJrjESpcMkgUQ"
@@ -553,7 +649,7 @@
       "url": "https://open.spotify.com/track/7d3nTgaCcWmvFVt8AhGAJO"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "Laatste Trein",
         "url": "https://open.spotify.com/album/3jeLXcKNuJuYeKKb43TnEG"
@@ -573,7 +669,7 @@
       "url": "https://open.spotify.com/track/0unjn7rOpEnCvpaviiXYxc"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "Ga En Groei",
         "url": "https://open.spotify.com/album/1hKX2VOb6eNcKk9jNAhuqA"
@@ -589,7 +685,7 @@
       "url": "https://open.spotify.com/track/1sPY1rVNG2eMZRmFBDgHGr"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "Sereen",
         "url": "https://open.spotify.com/album/3wITyTdZonDkClhqDpzx2s"
@@ -605,7 +701,7 @@
       "url": "https://open.spotify.com/track/1dwbLPTQKBtIQH2jpfurVv"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "Stukje Van Mij",
         "url": "https://open.spotify.com/album/0WuTTSyph8iJopqrYySkOL"
@@ -621,7 +717,7 @@
       "url": "https://open.spotify.com/track/3k9LdosLHcyy4kE5J6pV2p"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/5U0JwQjxRaJQU4eAqLV1qx"
@@ -637,7 +733,7 @@
       "url": "https://open.spotify.com/track/1zIUkRxrVNmxn4f9358j36"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "Jongen Uit De Stad",
         "url": "https://open.spotify.com/album/1Z8FFVmqvUf3YpqsQf8ztr"
@@ -653,7 +749,7 @@
       "url": "https://open.spotify.com/track/4H4O3fDyHXgTWXqSbvBFyV"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "Mama Dankjewel",
         "url": "https://open.spotify.com/album/4ggIWKdq8bfW2cO8T9SduC"
@@ -669,7 +765,7 @@
       "url": "https://open.spotify.com/track/59YKXDKbiCKeFE34dP2AFK"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "Wasted",
         "url": "https://open.spotify.com/album/26ALDsugBcToHqcDvA0Bu4"
@@ -689,7 +785,7 @@
       "url": "https://open.spotify.com/track/5A8S6jJRIeFjMHFQ66Opr7"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "Zeg Niks",
         "url": "https://open.spotify.com/album/7tI2nI10T5KYcE11Nt76n3"
@@ -705,7 +801,7 @@
       "url": "https://open.spotify.com/track/5dBGZaXPyxlAZoGqbshZLb"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "Incognito",
         "url": "https://open.spotify.com/album/3c7BaxiV0tzo4VfYaiZXYP"
@@ -721,7 +817,7 @@
       "url": "https://open.spotify.com/track/2ec9C3JxRSpZDk8vnBM6VX"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "Jij voelt als de lente",
         "url": "https://open.spotify.com/album/3BWAzWfk9iyY7Rc5jj88kK"
@@ -737,7 +833,7 @@
       "url": "https://open.spotify.com/track/6DrNj4dZsCEFflHIovlGyk"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "Verrader",
         "url": "https://open.spotify.com/album/3LxnX0bz2R5b5CWsUE3PN6"
@@ -753,7 +849,7 @@
       "url": "https://open.spotify.com/track/41ftob2dyXVwsrC3Q5oNIq"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "Tweeling",
         "url": "https://open.spotify.com/album/2SoOLLKqw2N5JUXn0UGsaX"
@@ -769,7 +865,7 @@
       "url": "https://open.spotify.com/track/0K6NoPuA8DDFTduY5301rV"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "Voelt Net Als Thuis",
         "url": "https://open.spotify.com/album/5jsDE3G9Fapuc4LwKxOwnb"
@@ -785,7 +881,7 @@
       "url": "https://open.spotify.com/track/6FqgSBX2kjJWWa5j1jrKKN"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "1 Minuut",
         "url": "https://open.spotify.com/album/19pkLb6FIBcy1b9pjtiRXH"
@@ -801,7 +897,7 @@
       "url": "https://open.spotify.com/track/1p1BuKbmgTCQ87dB7Jcqfi"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "Keuzestress",
         "url": "https://open.spotify.com/album/2SbhLqAR0NcZr8mHZNfVfI"
@@ -817,7 +913,7 @@
       "url": "https://open.spotify.com/track/6MQOcrAfVujJ4EzHCrkbZk"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "Stiekem Hoop Ik",
         "url": "https://open.spotify.com/album/4VmYndInfCepDtEvkISvcn"
@@ -833,7 +929,7 @@
       "url": "https://open.spotify.com/track/0b4Tsr050Wl9OSv7CFFpY3"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "Amsterdamse Student",
         "url": "https://open.spotify.com/album/38uYDpZWoTs3vigKM0iyuK"
@@ -849,7 +945,7 @@
       "url": "https://open.spotify.com/track/5ErWEoGybmRwHPyB6IMsi2"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "Verpest",
         "url": "https://open.spotify.com/album/2YBv3ZyINo3Qev4ArgZEZf"
@@ -869,7 +965,7 @@
       "url": "https://open.spotify.com/track/4OXQsETHvL01dQfx3mpCpo"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "Nightshift",
         "url": "https://open.spotify.com/album/5cKOcVEswbnGAfSDQaopDi"
@@ -885,7 +981,7 @@
       "url": "https://open.spotify.com/track/5pTn0A7SfH8byvT6WzgEsz"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "Zuinig",
         "url": "https://open.spotify.com/album/0ocZWxeSCHRdeh5ogUbrdA"
@@ -905,7 +1001,7 @@
       "url": "https://open.spotify.com/track/1443g2sOZtwR7NjDXlSsBv"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "Astronaut",
         "url": "https://open.spotify.com/album/25MGuw8tGf580C2kI1g28C"
@@ -921,7 +1017,7 @@
       "url": "https://open.spotify.com/track/3b5o2I34qbat7ky0PMnhvt"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "Gereserveerd Voor 1",
         "url": "https://open.spotify.com/album/7JLLnJGZR2DVdj9tibkU27"
@@ -937,7 +1033,7 @@
       "url": "https://open.spotify.com/track/7hGlPXc69sbNlRlKM19m8z"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "Warme Herinneringen",
         "url": "https://open.spotify.com/album/5hLlVXaIizLyalqdzTkOF5"
@@ -953,7 +1049,7 @@
       "url": "https://open.spotify.com/track/2zzI148jQvqo4zm2m3h2X7"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "Alleen Aan Haar",
         "url": "https://open.spotify.com/album/5IoLPq5JBHEVoZjckG0sSP"
@@ -969,7 +1065,7 @@
       "url": "https://open.spotify.com/track/1zsf8jW6awRZXmLYx9DyQC"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "Wat Blijft Er Over",
         "url": "https://open.spotify.com/album/4Vm0qRP5yCDn8DdKF1Mf2j"
@@ -985,7 +1081,7 @@
       "url": "https://open.spotify.com/track/6PdJ3PohDI313zycwdczFX"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "Dans Alleen",
         "url": "https://open.spotify.com/album/5ItDnWqkTGUzyyGHFvpsnm"
@@ -1005,7 +1101,7 @@
       "url": "https://open.spotify.com/track/4CKTU5XTIZkte54otjUUHl"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "DOPAMINE",
         "url": "https://open.spotify.com/album/4kA2V4fDHI0krhrwkb5XDn"
@@ -1021,7 +1117,7 @@
       "url": "https://open.spotify.com/track/6Z0ydsxwmkKL8yPX0RFjT0"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "Anti-Social",
         "url": "https://open.spotify.com/album/3VTg32BOXuGHU3MHX6qfcX"
@@ -1037,7 +1133,7 @@
       "url": "https://open.spotify.com/track/67R9SI604DJIWTF6UuEBJY"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "Tankstation",
         "url": "https://open.spotify.com/album/4eu8csS8j5wIwZuTVIRes3"
@@ -1053,7 +1149,7 @@
       "url": "https://open.spotify.com/track/3N8l96fR93JyiKJhc8qxFY"
     },
     {
-      "added_at": "2024-04-18 22:01:00",
+      "added_at": "2024-04-25 22:00:00",
       "album": {
         "name": "Duizend Lichtjes (Radio Edit)",
         "url": "https://open.spotify.com/album/3ltI4E6dNJNlfM2gF1EUdl"
@@ -1071,22 +1167,6 @@
       "duration_ms": 151733,
       "name": "Duizend Lichtjes - Radio Edit",
       "url": "https://open.spotify.com/track/36Vn9lLTJKD8gly99Fg3w9"
-    },
-    {
-      "added_at": "2024-04-18 22:01:00",
-      "album": {
-        "name": "Dezelfde Maan",
-        "url": "https://open.spotify.com/album/1900kIZlwAIYxmGSosvfnR"
-      },
-      "artists": [
-        {
-          "name": "Sterre Koning",
-          "url": "https://open.spotify.com/artist/3vE2dQ30qWbC54d4K93zlB"
-        }
-      ],
-      "duration_ms": 185943,
-      "name": "Dezelfde Maan",
-      "url": "https://open.spotify.com/track/2whP8MoeFeJE7olMwdv1rL"
     }
   ],
   "unique_name": "Je Moerstaal",

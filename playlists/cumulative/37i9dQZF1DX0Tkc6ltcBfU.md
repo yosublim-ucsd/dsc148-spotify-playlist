@@ -4,7 +4,7 @@
 
 > The hottest out the south\. Cover: Future & Metro Boomin
 
-1,223 songs - 2 day 10 hr 14 min
+1,224 songs - 2 day 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [Dance Now \(with Kenny Mason\)](https://open.spotify.com/track/6EqF11d0EPJwVynLXu3gvY) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Dance Now \(with Kenny Mason\)](https://open.spotify.com/album/5eROy9EU4485zbdxulTQ8U) | 3:47 | 2022-08-12 | 2022-08-27 |
 | [Danger \(Spider\) \(Offset & JID\)](https://open.spotify.com/track/3X6qK1LdMkSOhklwRa2ZfG) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [METRO BOOMIN PRESENTS SPIDER\-MAN: ACROSS THE SPIDER\-VERSE \(SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE\)](https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ) | 3:25 | 2023-06-02 | 2023-07-29 |
 | [Dark Days](https://open.spotify.com/track/7qh52GiOH91zmNjUUglsee) | [GMK](https://open.spotify.com/artist/45n8IV3vVbqD8xm8aVtfUj), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Born To Be Free](https://open.spotify.com/album/6PRDIYibnBMXOI5JOJfe4s) | 3:22 | 2022-11-11 | 2023-01-14 |
+| [Dark Soul](https://open.spotify.com/track/2S11KqKQpdhFdPaIfsKUKn) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [Yes, I’m Sad \(More Therapy\) \[Deluxe\]](https://open.spotify.com/album/4cojwTIPEfSxiqcGrhcLrK) | 2:18 | 2024-04-19 |  |
 | [DARKSIDE](https://open.spotify.com/track/2Gpra5OwSBeTQ8vZcTs1Pw) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [6](https://open.spotify.com/album/5Tj31Y3qUvAFFamwQS6ZeO) | 3:25 | 2023-06-09 | 2023-07-22 |
 | [Date Night](https://open.spotify.com/track/1UzEMXvcbY5vT5NTAEyO7T) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Boys Don't Cry](https://open.spotify.com/album/4LAeqF9RdXg4a21kuEvfc4) | 2:12 | 2022-10-07 | 2022-11-05 |
 | [Day Day N Craig \(with Tay Keith\)](https://open.spotify.com/track/5hgDSQNG4R8NsC4KqsAVxq) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Day Day N Craig \(with Tay Keith\)](https://open.spotify.com/album/4q2CfQMtCCeTZFSmYW5rLO) | 2:17 | 2021-11-05 | 2022-01-22 |

@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\ude08 turn anywhere into a sexy club \ud83d\ude08",
-  "num_followers": 3018,
+  "num_followers": 3081,
   "original_name": "Sweat.",
   "owner": {
     "name": "Spotify",
@@ -359,6 +359,30 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Joyful Death",
+        "url": "https://open.spotify.com/album/37RBUO05YPPvrIHcEst8Kg"
+      },
+      "artists": [
+        {
+          "name": "SONIKKU",
+          "url": "https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9"
+        },
+        {
+          "name": "LIZ",
+          "url": "https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6"
+        },
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 258340,
+      "name": "Sweat - SOPHIE Remix",
+      "url": "https://open.spotify.com/track/1CUCnTJVZy68TS34DX6kCx"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Dawn Of Chromatica",
         "url": "https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y"
       },
@@ -383,30 +407,6 @@
       "duration_ms": 225325,
       "name": "Sour Candy (with BLACKPINK) - Shygirl & Mura Masa Remix",
       "url": "https://open.spotify.com/track/56kudbKiRjWCwiAS3FRHCL"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Joyful Death",
-        "url": "https://open.spotify.com/album/37RBUO05YPPvrIHcEst8Kg"
-      },
-      "artists": [
-        {
-          "name": "SONIKKU",
-          "url": "https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9"
-        },
-        {
-          "name": "LIZ",
-          "url": "https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6"
-        },
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 258340,
-      "name": "Sweat - SOPHIE Remix",
-      "url": "https://open.spotify.com/track/1CUCnTJVZy68TS34DX6kCx"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -779,26 +779,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "MOLLY",
-        "url": "https://open.spotify.com/album/2RjhHJoNeRTYm3LTWvR8Xb"
-      },
-      "artists": [
-        {
-          "name": "River Moon",
-          "url": "https://open.spotify.com/artist/5RD4Hod68h5cQzoz965po2"
-        },
-        {
-          "name": "umru",
-          "url": "https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx"
-        }
-      ],
-      "duration_ms": 162461,
-      "name": "MOLLY",
-      "url": "https://open.spotify.com/track/3rupdmlpYVeQ2l2qn7V2ja"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Taste My Body",
         "url": "https://open.spotify.com/album/34yCNBM4QzFbr6tIF4hZDO"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 134068,
       "name": "Taste My Body",
       "url": "https://open.spotify.com/track/4mbkDcR6qnklqWPtd4X3q6"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "MOLLY",
+        "url": "https://open.spotify.com/album/2RjhHJoNeRTYm3LTWvR8Xb"
+      },
+      "artists": [
+        {
+          "name": "River Moon",
+          "url": "https://open.spotify.com/artist/5RD4Hod68h5cQzoz965po2"
+        },
+        {
+          "name": "umru",
+          "url": "https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx"
+        }
+      ],
+      "duration_ms": 162461,
+      "name": "MOLLY",
+      "url": "https://open.spotify.com/track/3rupdmlpYVeQ2l2qn7V2ja"
     },
     {
       "added_at": "2024-04-19 04:00:00",

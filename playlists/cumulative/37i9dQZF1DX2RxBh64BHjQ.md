@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:23xFbA9rYgRX8mreqysWPc">Bossman Dlow</a>
 
-1,687 songs - 3 day 3 hr 28 min
+1,688 songs - 3 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,6 +342,7 @@
 | [Dancing Queen](https://open.spotify.com/track/65HXJWOYBX2pFpdtusWRiV) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Dancing Queen / Yasss Queen](https://open.spotify.com/album/47QCUgKloZqFa0ldcUZiff) | 3:13 | 2022-04-29 | 2022-06-04 |
 | [Dancing With The Devil](https://open.spotify.com/track/1siBeqPJIFu48T8ZihxeuN) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Landstrip Chip](https://open.spotify.com/artist/30bCJGAVNB4s6UkQy8a87a), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Dancing With The Devil](https://open.spotify.com/album/3GQZZxIdXi7ZLr63tdhDxM) | 2:49 | 2022-01-28 | 2022-04-02 |
 | [Dark Days](https://open.spotify.com/track/7qh52GiOH91zmNjUUglsee) | [GMK](https://open.spotify.com/artist/45n8IV3vVbqD8xm8aVtfUj), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Born To Be Free](https://open.spotify.com/album/6PRDIYibnBMXOI5JOJfe4s) | 3:22 | 2022-11-11 | 2023-01-21 |
+| [Dark Soul](https://open.spotify.com/track/2S11KqKQpdhFdPaIfsKUKn) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [Yes, I’m Sad \(More Therapy\) \[Deluxe\]](https://open.spotify.com/album/4cojwTIPEfSxiqcGrhcLrK) | 2:18 | 2024-04-19 |  |
 | [DARKSIDE](https://open.spotify.com/track/2Gpra5OwSBeTQ8vZcTs1Pw) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [6](https://open.spotify.com/album/5Tj31Y3qUvAFFamwQS6ZeO) | 3:25 | 2023-06-09 | 2023-09-16 |
 | [Dat Business](https://open.spotify.com/track/3OcGYX2gjvVTcU3OVCE9iZ) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [Yes, I'm Sad](https://open.spotify.com/album/1sNFQJdjahycBFQrPVW2RN) | 2:00 | 2024-01-19 | 2024-04-19 |
 | [Date Night](https://open.spotify.com/track/1UzEMXvcbY5vT5NTAEyO7T) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Boys Don't Cry](https://open.spotify.com/album/4LAeqF9RdXg4a21kuEvfc4) | 2:12 | 2022-10-07 | 2022-11-12 |

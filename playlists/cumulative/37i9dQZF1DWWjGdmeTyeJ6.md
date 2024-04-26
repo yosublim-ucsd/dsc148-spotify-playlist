@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover: Ley Soul\. Artwork: Isu Kim
 
-6,170 songs - 13 day 23 hr 27 min
+6,171 songs - 13 day 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1964,6 +1964,7 @@
 | [Forgotten](https://open.spotify.com/track/38Rl28axGYoLgOhCOoSYU1) | [Martin HERRS](https://open.spotify.com/artist/6co92uBAF8UvpJ09OE0xsx) | [Forgotten](https://open.spotify.com/album/4FOV9VcF9xTDytPcqOONMQ) | 5:40 | 2023-08-16 | 2023-08-24 |
 | [Forgotten Sentiment](https://open.spotify.com/track/0aDeph3nbtNMNvtxyQAJoD) | [HIGHLITE](https://open.spotify.com/artist/5JLz9lhEIydGByUE1BZ5Bl) | [Controlled Demolition EP](https://open.spotify.com/album/56oz7if7WaYBGZcJtV8Hh4) | 6:14 | 2023-01-11 | 2023-01-19 |
 | [Fortunately \- Nightcore](https://open.spotify.com/track/6jVQMaf3f6EJTVL2aDOlw9) | [Cherry 葵 Nightcore](https://open.spotify.com/artist/4H502w3aY9YWNIPWTx8adz), [Bellabeth](https://open.spotify.com/artist/4JuIzbrZ72zgljd81MCG1l) | [Fortunately \(Nightcore\)](https://open.spotify.com/album/4iZ0UsMO2lAidA0DFf74Nl) | 2:35 | 2022-02-16 | 2022-02-24 |
+| [Fortune Eyes](https://open.spotify.com/track/283RgDyFjmpN7vVKOEVoqC) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Fortune Eyes](https://open.spotify.com/album/1dJrWZOEKfcObcWLSpMTzr) | 2:22 | 2024-04-25 |  |
 | [Found!](https://open.spotify.com/track/1FgY491AT8WYmMgZgWLfkz) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [Drive Home](https://open.spotify.com/album/6Dj3kYhkZnX3gleTXi1a8r) | 5:05 | 2023-06-14 | 2023-06-29 |
 | [FOX BOP](https://open.spotify.com/track/43EnBUvXXG4F9ozI7TVdeH) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [SPIRAL](https://open.spotify.com/album/50PYsEBukDLj2pc4OFeCPq) | 2:30 | 2022-04-13 | 2022-04-28 |
 | [Fractals](https://open.spotify.com/track/0rbXHcbTKhShffi45mSehI) | [Jacob Daley](https://open.spotify.com/artist/1CglRdvM7squ8V8kjwpvy6), [Nicknames](https://open.spotify.com/artist/1y2mXaGQXFVnHm5QuEz5xO) | [Fractals](https://open.spotify.com/album/6xWUsnCby7KDIpncgA9OYX) | 2:36 | 2022-03-16 | 2022-03-24 |
@@ -2793,7 +2794,7 @@
 | [Insurrection \- Mixed](https://open.spotify.com/track/2bLbC9cUYN1RA3QdWnED8G) | [Fauzia](https://open.spotify.com/artist/0v7oSTHllMfu7dwJmiGpMI) | [Mixmag Presents Logic1000](https://open.spotify.com/album/5RtXdNzE9CUqaAvzgDhi1X) | 2:54 | 2022-07-20 | 2022-07-28 |
 | [int4rmission!](https://open.spotify.com/track/34ny3BgOaSjeatdzabpOm9) | [Alexa Cirri](https://open.spotify.com/artist/0jitaHotzcSiJNkm4amOOr) | [int4rmission!](https://open.spotify.com/album/2WgKouC6NVfyZQLsgnp83l) | 3:12 | 2022-08-10 | 2022-08-25 |
 | [Intergalactic Janet](https://open.spotify.com/track/21wYclGDiieKf42kEWxqV9) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Intergalactic Janet](https://open.spotify.com/album/3vS1oa8XAK2I4BLsMPEsK2) | 2:40 | 2024-01-24 | 2024-02-22 |
-| [Intergalactic Janet](https://open.spotify.com/track/7zgEoBci3rKmEkLdsZ8ZKJ) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Intergalactic Janet](https://open.spotify.com/album/7zu5604lPvQjVBERSdwrTe) | 2:40 | 2024-04-24 |  |
+| [Intergalactic Janet](https://open.spotify.com/track/7zgEoBci3rKmEkLdsZ8ZKJ) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Intergalactic Janet](https://open.spotify.com/album/7zu5604lPvQjVBERSdwrTe) | 2:40 | 2024-04-24 | 2024-04-26 |
 | [Internet Friends](https://open.spotify.com/track/79ySwa88xSWTcUGu6Nncvl) | [iamkyami](https://open.spotify.com/artist/65m2oSongX6P3iLDeI57U0) | [Internet Friends](https://open.spotify.com/album/3teRGF9ITfZinAcEe87jqb) | 3:17 | 2022-02-09 | 2022-02-17 |
 | [internet girl](https://open.spotify.com/track/63DGV1mELaumtRGzV9Y5sI) | [Justend](https://open.spotify.com/artist/2UsrZRPk97l70i7PlXQ8hp), [Souly Had](https://open.spotify.com/artist/20WmX0l9JgOpehDOAXY6iO) | [internet girl](https://open.spotify.com/album/68Rs6kp20R9n61RlAH7TAj) | 2:39 | 2024-01-17 | 2024-02-08 |
 | [Internet Shooter](https://open.spotify.com/track/5AC6Q3bRtfUCzvlsBbdeVw) | [Lil Seeto](https://open.spotify.com/artist/6Tcv81NwhshAZnSsoJT0WI) | [Internet Shooter](https://open.spotify.com/album/0lQKfhqKTBEiCllzPa7b6M) | 1:57 | 2022-08-03 | 2022-08-11 |

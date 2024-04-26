@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: Lil Moshpit, Paul Blanco, Okaisian\) Listen Top 5 tracks from the HAN Project artists!
 
-1,186 songs - 2 day 16 hr 40 min
+1,188 songs - 2 day 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -400,6 +400,7 @@
 | [Goodbyes & Hellos \(Feat\. NO:EL\)](https://open.spotify.com/track/68uYaZ15mIRQqA0nUAEoKq) | [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX), [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [Goodbyes & Hellos](https://open.spotify.com/album/0PJsm0H4fjt2gwVTA7JUdd) | 3:08 | 2023-09-13 | 2024-03-09 |
 | [Goodnight Goodnight \(ft\. Nochang, Nucksal, Khundi Panda\)](https://open.spotify.com/track/3famPhKrbyf9n3y8rjtAJN) | [hyeminsong](https://open.spotify.com/artist/4gwWGwahyZnvnSp75bWg82), [그냥노창](https://open.spotify.com/artist/7hRgLHQarkYdhYexNcnsRy), [넉살](https://open.spotify.com/artist/3YA0myiDNVqejcqCKsifqB), [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU) | [REBORN](https://open.spotify.com/album/3VhweYBjsf9InPl29h78qf) | 3:25 | 2023-12-06 | 2024-03-21 |
 | [GOOK \(Feat\. ODEE\)](https://open.spotify.com/track/1R3fgq0jxXvxlX3LYmIDbQ) | [BOO HYUNSEOK](https://open.spotify.com/artist/6OU7aK8iNRtzcuipq3jpsQ), [ODEE](https://open.spotify.com/artist/6cZC6RjRzOVsizwM7UhbXt) | [CAMOFLAUGE](https://open.spotify.com/album/1C1D2Ntr9bm6sYfb232SNR) | 2:43 | 2022-03-03 | 2022-06-30 |
+| [Got yourself a gun \(feat\. ZICO\)](https://open.spotify.com/track/5CbclM71moaB0zPy8zRDsG) | [QM](https://open.spotify.com/artist/0wMU0ruU41VLCAdBaWBo1j), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [ANT](https://open.spotify.com/album/7oUfLoY5S2RvT7oo30s3LB) | 2:48 | 2024-04-25 |  |
 | [Grand Master Theory](https://open.spotify.com/track/7d6L80CgzCaciOi43dN7dH) | [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [Young Soul](https://open.spotify.com/artist/5OKE8d1u5c1FTXullbKT9z) | [Palo Got Young Soul](https://open.spotify.com/album/49Ch1p4RBGOMiVsA7xpuDZ) | 3:00 | 2022-01-15 | 2022-04-16 |
 | [Grand Prix \(Feat\. Beenzino\)](https://open.spotify.com/track/0iZnSbdHxlNTnfXGno29l9) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [ISLAND](https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO) | 2:35 | 2022-03-26 | 2022-04-20 |
 | [GRANDMA](https://open.spotify.com/track/0IwJ9xtBhscrjhPKBQ35Ij) | [Street Baby](https://open.spotify.com/artist/0tGMuT9HxXQzAEZK9Prlim) | [Street Baby](https://open.spotify.com/album/0iW10NuNsrVSzTcRCrlQPG) | 2:20 | 2022-12-20 | 2022-12-28 |
@@ -1183,6 +1184,7 @@
 | [몽환의 숲 \(feat\. Yiruma\)](https://open.spotify.com/track/3rQRx89A7kGuyXMbE72WCa) | [Kinetic Flow](https://open.spotify.com/artist/3tZO2DzJzKXhH9gx7GDCWv), [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz) | [Challenge 4Da Change](https://open.spotify.com/album/6oNrmkWeMZZeRuMxjK4PMT) | 4:04 | 2024-04-05 | 2024-04-12 |
 | [무투](https://open.spotify.com/track/05ofWSJ9EJxM9TqbIK9sM0) | [Garion](https://open.spotify.com/artist/36SV3bDEXPh4BdEAkXIlFp) | [무투](https://open.spotify.com/album/0ZU9Kci0rojuL570psUv1c) | 3:52 | 2023-01-03 | 2023-01-11 |
 | [미쳐버리겠다 \(MAD\)](https://open.spotify.com/track/7n1yuwnzs5jTEitJ7eecS8) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [미쳐버리겠다 \(MAD\)](https://open.spotify.com/album/1CdiLd2ENEFje7ux0G23KT) | 3:17 | 2023-11-28 |  |
+| [밤새](https://open.spotify.com/track/6ounBpJVh2WXum1HEiMWan) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [Affection](https://open.spotify.com/album/7CH227zOs9JlxNtQ8Z6EK4) | 3:20 | 2024-04-25 |  |
 | [밴 The Banned](https://open.spotify.com/track/773egXyOzWeLTyz9eSbO4H) | [30](https://open.spotify.com/artist/3klG579pH6Pm20yugj7KQ3) | [THE FROST ON YOUR EDGE](https://open.spotify.com/album/3611OvwL52Wwj32NMzVc8e) | 3:13 | 2023-02-19 | 2023-09-08 |
 | [벌렁벌렁](https://open.spotify.com/track/67V66xKzTvAl5zfMnBmvRI) | [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn), [northfacegawd](https://open.spotify.com/artist/620Vx5hEMowoa71wXk4bu1) | [벌렁벌렁](https://open.spotify.com/album/0VP4drhEKVcWenyTEhPIjG) | 3:13 | 2021-12-21 | 2022-04-19 |
 | [빈민가 소년](https://open.spotify.com/track/6fc4GV8aWWoL52nr46mrer) | [Men's Tear](https://open.spotify.com/artist/3Kf9OnmHudWe9wrpPOtEtc), [뷰티풀너드](https://open.spotify.com/artist/7pA8ZjAUu7fzSOd8uQgQJY) | [빈민가 소년](https://open.spotify.com/album/7edj8hpKMnTmiyfaNbFHRA) | 3:37 | 2024-03-19 |  |

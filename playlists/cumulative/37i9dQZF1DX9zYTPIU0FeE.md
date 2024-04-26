@@ -2,9 +2,9 @@
 
 ### [Jazz NXT](https://open.spotify.com/playlist/37i9dQZF1DX9zYTPIU0FeE)
 
-> Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N?si=X8HRCEU8TmakIvRd6vXg1g">Thandiswa</a>
+> Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB?si=CD\-0PtcBRSKfmvNyKerzaA">Zoë Modiga</a>
 
-212 songs - 22 hr 45 min
+214 songs - 22 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Imithandazo Yeengelosi](https://open.spotify.com/track/3KFbmQRHOH3YufXvnJ4set) | [Ayanda Sikade](https://open.spotify.com/artist/6F9LoTvwNSxtAVFj5i6Hnh) | [Umakhulu](https://open.spotify.com/album/4OKxDZS6s45zQdFCeO2y7e) | 5:30 | 2022-04-28 | 2024-03-22 |
 | [In\-Between I'll Eat Dark Chocolate](https://open.spotify.com/track/3kpM17oVfkzhE9UjKCHzOn) | [Carlo Mombelli](https://open.spotify.com/artist/5SGxbLgESsfPMmbA2C1NDF), [Adrian Mears](https://open.spotify.com/artist/0ajBfmY4vclVtH9jZBULsd), [Daniel Pezzotti](https://open.spotify.com/artist/6hiqvlaEKu5AZV76IwaPFj), [Dejan Terzic](https://open.spotify.com/artist/3zyhW5AUV1XEJvmq4fV065) | [Stories](https://open.spotify.com/album/5gaSkf3zFJkE6wh7mAndWl) | 6:16 | 2023-11-01 | 2023-11-17 |
 | [Indawu](https://open.spotify.com/track/1nKWE1I0RRz5RgykyKPEDB) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft) | [Modes Of Communication: Letters From The Underworlds](https://open.spotify.com/album/6D5gR5dxP0iUeueQlwRQDe) | 8:34 | 2022-04-28 | 2023-03-18 |
+| [indlela](https://open.spotify.com/track/4eajZbdg8VneL3FBe1BoHO) | [Zoë Modiga](https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB) | [nomthandazo](https://open.spotify.com/album/0yaSKg83zo7r7TfTRBORs1) | 3:52 | 2024-04-25 |  |
 | [Inkhatazo](https://open.spotify.com/track/3coK5yd6TJncroyAWMk3Qt) | [Thandeka Dladla](https://open.spotify.com/artist/7ntMlnq9iQvy3ZPehbenHc) | [Umnikelo](https://open.spotify.com/album/7AFHOhItwamZalv57itrhZ) | 5:09 | 2023-11-23 |  |
 | [Inkululeko](https://open.spotify.com/track/4qptyeqFHhN0TUUjFQO6c9) | [Thandi Ntuli](https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy) | [Inkululeko](https://open.spotify.com/album/2jaXRcmklOiLxffL337Ish) | 7:40 | 2022-06-23 | 2023-03-18 |
 | [Inkululeko](https://open.spotify.com/track/6W80T3vT7EEDJP8sjMgnoj) | [Thandi Ntuli](https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy) | [Blk Elijah & The Children of Meroë](https://open.spotify.com/album/2HUrxmQV5x6i6FQTr6950S) | 7:40 | 2023-11-01 | 2023-11-17 |
@@ -96,7 +97,7 @@
 | [Ke Nako](https://open.spotify.com/track/1gDDfrCOFm30vpG3zuDX97) | [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy) | [Ke Nako](https://open.spotify.com/album/5GUTl5jAJTcGaV7Sn54KPx) | 6:49 | 2022-04-28 | 2023-04-12 |
 | [Ke Nako](https://open.spotify.com/track/5CErXmkaO61u6tBZnCho2k) | [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy) | [Indaba Is](https://open.spotify.com/album/3qcN5kODsixA5VcaY37X7T) | 6:49 | 2022-04-28 | 2022-11-14 |
 | [Klops Jol](https://open.spotify.com/track/7E0Rle0rkoHmTRuAUT39lA) | [Robin Fassie](https://open.spotify.com/artist/5Z5yBH3PAZ2Qpp5DFHZn2d), [Changui Jaca](https://open.spotify.com/artist/2viYlUVzbeOfWdBsGFguUn) | [Klops Jol](https://open.spotify.com/album/4N9ZtSXfJ6aL786oNnbMwG) | 9:20 | 2023-01-13 |  |
-| [Komani](https://open.spotify.com/track/20493T1klNTt4VFVIQFosr) | [Keenan Meyer](https://open.spotify.com/artist/0JZcAWFy9viaXUHqu08nFG), [Tshepo Tsotetsi](https://open.spotify.com/artist/1WePh4qMbrAyRrkTm8Pn7q) | [The Alchemy of Living](https://open.spotify.com/album/6rC96afb0mApTsgQeA7GZb) | 6:43 | 2022-04-28 |  |
+| [Komani](https://open.spotify.com/track/20493T1klNTt4VFVIQFosr) | [Keenan Meyer](https://open.spotify.com/artist/0JZcAWFy9viaXUHqu08nFG), [Tshepo Tsotetsi](https://open.spotify.com/artist/1WePh4qMbrAyRrkTm8Pn7q) | [The Alchemy of Living](https://open.spotify.com/album/6rC96afb0mApTsgQeA7GZb) | 6:43 | 2022-04-28 | 2024-04-26 |
 | [Konakele](https://open.spotify.com/track/3qKG9yS1kM7BbvKtJghsE9) | [Xhanti Nokwali](https://open.spotify.com/artist/7deeTVfFQNS9ShFtnNgQ8M) | [Umthombo](https://open.spotify.com/album/5Qg2kXcTYZWUVFAC7UYMMV) | 6:29 | 2022-10-20 | 2024-01-26 |
 | [Kucheza](https://open.spotify.com/track/6xSE8mjOiwe0qrIpd8YTvc) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [MABUTA](https://open.spotify.com/artist/4Z6IP9yKpOBbitoDKeMIFI) | [Finish The Sun](https://open.spotify.com/album/2aDnrY3VewxtdyuMCuDAAD) | 4:32 | 2022-04-28 | 2023-11-25 |
 | [kulungile](https://open.spotify.com/track/5IMyRcJrykW4EQKUEwOIrC) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N), [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft) | [kulungile](https://open.spotify.com/album/2Z7VkHwAezY18EJ9wHPeR9) | 5:46 | 2024-04-11 |  |
@@ -167,6 +168,7 @@
 | [Sometimes I Feel Like a Motherless Child](https://open.spotify.com/track/5tRccXu5fL0PVqkNu1rkEN) | [Tumi Mogorosi](https://open.spotify.com/artist/4GOLjcxxywS6GSCI24fsf6), [Gabi Motuba](https://open.spotify.com/artist/0weIOOeTGcBXsHufTBahtC) | [Sometimes I Feel LIke A Motherless Child](https://open.spotify.com/album/10oX5DOz6uo0AyKewTzGvd) | 5:49 | 2022-06-23 | 2022-12-25 |
 | [Sometimes I Feel Like a Motherless Child](https://open.spotify.com/track/7wq5H9Ax3WTvQU6uWTthLe) | [Tumi Mogorosi](https://open.spotify.com/artist/4GOLjcxxywS6GSCI24fsf6), [Gabi Motuba](https://open.spotify.com/artist/0weIOOeTGcBXsHufTBahtC) | [Group Theory: Black Music](https://open.spotify.com/album/27dEFff0ZxZ4EI6Fatqap1) | 5:49 | 2022-06-23 | 2023-03-18 |
 | [Song for Biko](https://open.spotify.com/track/1TvjF3vMdUOnthHd0pQDga) | [Johnny Dyani](https://open.spotify.com/artist/5aAplFNZE4KHKvdmo7xbNw) | [Song for Biko](https://open.spotify.com/album/6hIsyjQ9EMkjP6x45AaGfF) | 4:52 | 2023-11-01 | 2023-11-17 |
+| [South African Jam](https://open.spotify.com/track/54WxmHt1Y5bUJDpsLUQAHa) | [Malcolm Jiyane Tree\-O](https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH) | [South African Jam](https://open.spotify.com/album/2eTZ0JG4f7EtDCGQPICRHC) | 6:04 | 2024-04-25 |  |
 | [Space Ship](https://open.spotify.com/track/5ZQiY5rlJaBvhyVMZJV8AS) | [Ayanda Sikade](https://open.spotify.com/artist/6F9LoTvwNSxtAVFj5i6Hnh) | [Umakhulu](https://open.spotify.com/album/4OKxDZS6s45zQdFCeO2y7e) | 6:15 | 2022-04-28 | 2023-04-12 |
 | [Sunset \(in California\)](https://open.spotify.com/track/0y95rXE4TENI9ib8tSpCG3) | [Thandi Ntuli](https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy), [Carlos Niño](https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu) | [Sunset \(in California\)](https://open.spotify.com/album/1rAdOOiYLU1OX01OsPnmpy) | 5:51 | 2023-10-27 | 2023-11-20 |
 | [Sunset \(in California\)](https://open.spotify.com/track/18imU79HqM0KmVm7bc1Z9H) | [Thandi Ntuli](https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy), [Carlos Niño](https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu) | [Sunset \(in California\)](https://open.spotify.com/album/1fwsX07wjOpKqx3yWpjIMN) | 5:51 | 2024-04-11 |  |

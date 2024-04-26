@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Sube la temperatura con las nuevas rolitas de DJ Snake con Peso Pluma, Ángela Aguilar, y Edén Muñoz! 🥵 Tay\-Tay en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 833,168 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 833,270 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

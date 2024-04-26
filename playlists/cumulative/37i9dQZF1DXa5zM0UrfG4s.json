@@ -936,7 +936,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 164127,
       "name": "B\u00f8gda",
       "url": "https://open.spotify.com/track/1MpCvOlkM8VbH50AL7mAUm"
@@ -1140,7 +1140,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 144000,
       "name": "Danse p\u00e5 panseret",
       "url": "https://open.spotify.com/track/4docWah77XQ5t9jexaJKBG"
@@ -2448,7 +2448,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 208615,
       "name": "Gamle helter",
       "url": "https://open.spotify.com/track/5UStrdTMXC3qwEQSEv1HWo"
@@ -2753,6 +2753,24 @@
     },
     {
       "album": {
+        "name": "Harry stil",
+        "url": "https://open.spotify.com/album/5bIJ1KAErZImMGcUEz3GVy"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161299,
+      "name": "Harry stil",
+      "url": "https://open.spotify.com/track/6L7T73Brx5RTlkOnY32Ysn"
+    },
+    {
+      "album": {
         "name": "Harryhandel Halleluja",
         "url": "https://open.spotify.com/album/7CX0XAiJpBFkFr2sA376fo"
       },
@@ -2909,6 +2927,24 @@
     },
     {
       "album": {
+        "name": "Her er det liv",
+        "url": "https://open.spotify.com/album/2YVX4cPRpeL4YhSY6KxElv"
+      },
+      "artists": [
+        {
+          "name": "Br\u00e5tabrann",
+          "url": "https://open.spotify.com/artist/1bD5LkNlc55CxV32PopG71"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183104,
+      "name": "Her er det liv",
+      "url": "https://open.spotify.com/track/4ffdNW62Z6XaS8XQrrvQcp"
+    },
+    {
+      "album": {
         "name": "Jenta Fra Landet",
         "url": "https://open.spotify.com/album/4cbJTnB9KIXPuyjRwUiqKw"
       },
@@ -3022,7 +3058,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 137942,
       "name": "Hjertel\u00f8s",
       "url": "https://open.spotify.com/track/5PzratDTUf07VyMKrGGxz3"
@@ -5424,7 +5460,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-03",
+      "date_removed": null,
       "duration_ms": 147934,
       "name": "Rull\u00e6r",
       "url": "https://open.spotify.com/track/5VgttQMiU6fOHxUwmJZ5QQ"
@@ -6502,6 +6538,28 @@
       "duration_ms": 140711,
       "name": "Ung full och dum",
       "url": "https://open.spotify.com/track/6kh3aDbjz2VzP0hPYXw9Ty"
+    },
+    {
+      "album": {
+        "name": "UNGA & FRIA REMIX",
+        "url": "https://open.spotify.com/album/2qy2vrpRkn1AAFHSEguCaX"
+      },
+      "artists": [
+        {
+          "name": "FR\u00d6KEN SNUSK",
+          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
+        },
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184551,
+      "name": "UNGA & FRIA REMIX",
+      "url": "https://open.spotify.com/track/1ahb93Op9pGIoAmtjMvPdT"
     },
     {
       "album": {

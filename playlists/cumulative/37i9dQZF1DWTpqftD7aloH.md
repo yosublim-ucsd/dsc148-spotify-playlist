@@ -4,7 +4,7 @@
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-287 songs - 1 day 3 hr 22 min
+288 songs - 1 day 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Inexplicável Amor \- Ao Vivo](https://open.spotify.com/track/2NcbRhEgsbbUYENds2ngGm) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Inexplicável Amor \(Ao Vivo\)](https://open.spotify.com/album/5omeFeze6ByNZC4A7xWYpu) | 5:37 | 2023-02-17 |  |
 | [Into the Sea \(It's Gonna Be Ok\)](https://open.spotify.com/track/5FaPm68gcR4gI7RyqE4O6g) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [How Far](https://open.spotify.com/album/3gLjb9742smlCKDF42g7yy) | 3:02 | 2022-12-09 | 2023-02-04 |
 | [Jeová \- Live](https://open.spotify.com/track/65vz0dGp7fzWp9nXN1COS5) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Único \(Live\)](https://open.spotify.com/album/1lOiNzzfdghtwLHhr2Jikh) | 6:19 | 2023-08-18 | 2023-10-21 |
+| [Jesus Em Tua Presença \- Ao Vivo](https://open.spotify.com/track/195P7EewiDBpU3oeWqFA8n) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Leandro Rodrigues](https://open.spotify.com/artist/3sPrLEud945nswy3EMr7YK), [PVAP](https://open.spotify.com/artist/7L6zOJDqVGy8lf7nesvo1a) | [Jesus Em Tua Presença \(Ao Vivo\)](https://open.spotify.com/album/4khpvbIk3o6QoT387sOmG8) | 4:07 | 2024-04-19 |  |
 | [Jesus Sempre Tem Mais \- Ao Vivo](https://open.spotify.com/track/5eEZJ0EzlxamBnmUJMO0aD) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm) | [Jesus Sempre Tem Mais \(Ao Vivo\)](https://open.spotify.com/album/4IQFlCvRYoT5z85w6Yrk2E) | 5:59 | 2023-08-18 |  |
 | [Jireh \(feat\. Chandler Moore & Naomi Raine\)](https://open.spotify.com/track/7yu4816uyIqXiPvALxL44y) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Jireh \(feat\. Chandler Moore & Naomi Raine\)](https://open.spotify.com/album/4l5yZalv0TVl70Xe13dFjl) | 9:58 | 2022-09-09 | 2023-01-14 |
 | [João \- Ao Vivo](https://open.spotify.com/track/280qovSfG0KrkUt45pfnkV) | [Salvaon](https://open.spotify.com/artist/1YbTEvDgGkTuBpMFtHDbgG), [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Te Esperamos \(Ao Vivo\)](https://open.spotify.com/album/6NmhKn0mgP7UGM64S3LcsU) | 6:44 | 2023-09-25 |  |
@@ -240,7 +241,7 @@
 | [See A Victory](https://open.spotify.com/track/3gtqd9P8kZblHf4I7Ybub2) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [See A Victory](https://open.spotify.com/album/3YKyqEwSPz9mjNb4NucFpq) | 6:03 | 2022-09-09 | 2023-01-14 |
 | [Seja Forte](https://open.spotify.com/track/6ULtPMzIdsayMraZMs2KBV) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Seja Forte](https://open.spotify.com/album/3gaCeWpexrCoT31O4IijbD) | 4:13 | 2023-09-01 | 2024-04-20 |
 | [Seu Amor](https://open.spotify.com/track/6lX2E81hZoy8a0bteNZeBc) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Seu Amor](https://open.spotify.com/album/0vOUCZ4UM87YUtgNMHTcvu) | 5:36 | 2022-09-09 | 2023-09-02 |
-| [Sião \- Ao Vivo](https://open.spotify.com/track/720HLKAq33SFgESt6Cdl7O) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Sião \(Ao Vivo\)](https://open.spotify.com/album/3aDbz8cjv0T6wQhtDBDfaA) | 4:56 | 2024-04-19 |  |
+| [Sião \- Ao Vivo](https://open.spotify.com/track/720HLKAq33SFgESt6Cdl7O) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Sião \(Ao Vivo\)](https://open.spotify.com/album/3aDbz8cjv0T6wQhtDBDfaA) | 4:56 | 2024-04-19 | 2024-04-26 |
 | [So Will I \(100 Billion X\)](https://open.spotify.com/track/1ed3wNCecRIp6SugyR0w2J) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Wonder](https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2) | 6:51 | 2022-09-09 | 2023-02-25 |
 | [Sobre As Águas](https://open.spotify.com/track/0IHZgDHnehLfWTzMcR3szE) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx), [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5) | [O Encontro](https://open.spotify.com/album/0lCGxilNnKFzm2zytbwx6q) | 9:12 | 2022-09-09 |  |
 | [Sobre As Águas](https://open.spotify.com/track/6ZZNZQYx2W5zvHoy6F4PCa) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5), [Toque no Altar](https://open.spotify.com/artist/3dJ2TE4tV9zYiw1lSkqdG5) | [20 Anos de Adoração](https://open.spotify.com/album/79MbPZxQDWw1Tn6zvBhIG5) | 5:48 | 2023-09-01 |  |

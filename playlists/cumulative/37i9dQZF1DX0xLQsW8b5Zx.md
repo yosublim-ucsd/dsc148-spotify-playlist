@@ -4,7 +4,7 @@
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-200 songs - 8 hr 53 min
+201 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Backseat Education](https://open.spotify.com/track/426grzmxP94D7gBldxqv1A) | [Hellbilly Boys](https://open.spotify.com/artist/5bCy5EywKFmYnkKrYnOnL5) | [Hellbilly Boys](https://open.spotify.com/album/6Q3q5EJ7u0WBBNzcJMAtHI) | 3:01 | 2022-05-06 | 2022-07-23 |
 | [Bad News From Pretty Red Lips](https://open.spotify.com/track/1jy0EJerJqjpwdGHkUrZQd) | [Fatboy](https://open.spotify.com/artist/5vK6yZH3E1wOYY93NHZwJT) | [Overdrive](https://open.spotify.com/album/1PfyEOST0PpaP4c258vF0E) | 2:46 | 2022-05-06 |  |
 | [Barfly](https://open.spotify.com/track/5Dp4Yl7iKlsjN6Ee9T0BVI) | [Cigar Store Indians](https://open.spotify.com/artist/5jCmmbfKumx9Tcd8JTor9J) | [Cigar Store Indians](https://open.spotify.com/album/2I8wgvFBzVtXXYfNeB5FHR) | 3:25 | 2022-05-06 | 2022-07-19 |
+| [Betty Lou](https://open.spotify.com/track/3hKBG0SPXtftwnOR9MBLcs) | [Jimmy Larsson](https://open.spotify.com/artist/0SOSLvvpn87mIFOFzkwYlC), [Jonas Davik](https://open.spotify.com/artist/6LjE4XKKTrapfBk8uFeNFL) | [JimJones Country Duo](https://open.spotify.com/album/4oPItKBnAJoEt6uVnCeW8L) | 2:33 | 2023-10-27 |  |
 | [Big Boys](https://open.spotify.com/track/44ljyjfLTjjS3XuzoFh3Z5) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Big Boys](https://open.spotify.com/album/3uQldXx6zh6T0DV6ztOW0J) | 3:05 | 2022-05-06 | 2022-07-27 |
 | [Bip Bop Boom](https://open.spotify.com/track/55jx8TvooUxHC1vqdJ3tVw) | [Mickey Hawks](https://open.spotify.com/artist/6k2tNdzkOgCOJSW7Xh87KM) | [100 Best Rock and Roll Music Hits from 50s & 60s \(Remastered\)](https://open.spotify.com/album/3j7UMUhAQ0OuCEKAf63BWw) | 1:36 | 2022-05-06 | 2022-07-28 |
 | [Black Slacks](https://open.spotify.com/track/0nRR6eQMDYkIFmn8c9Rwga) | [Joe Bennett & The Sparkletones](https://open.spotify.com/artist/7jXrEnMAd3ExygGvV3ZGhP) | [1957\-1959](https://open.spotify.com/album/5jRYbndM2M3Z5tzDJDLzNp) | 2:09 | 2022-05-06 |  |
@@ -73,7 +74,7 @@
 | [Get Rhythm](https://open.spotify.com/track/3KB1Z1mQulL4SdJTmrbTyO) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Get Rhythm](https://open.spotify.com/album/0cQCTZVaKrSV8tHh6FECLN) | 2:12 | 2022-05-06 | 2022-07-27 |
 | [Get Rhythm](https://open.spotify.com/track/2aq1oBnP7Q176mZw5P6eUk) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [The Tennessee Two](https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt) | [Greatest](https://open.spotify.com/album/1tfvwgjJHU9zYWy4qIHZsV) | 2:12 | 2022-07-05 | 2024-04-19 |
 | [Glad All Over](https://open.spotify.com/track/6Xs8va9c9ZgR2cLKSlo466) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [Blue Suede Shoes](https://open.spotify.com/album/120QlqCRbDq0MQdDBZa3c7) | 1:39 | 2023-10-27 | 2024-04-15 |
-| [Go Go Go](https://open.spotify.com/track/6ZKzfBr8vejFODLh8w2wTV) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS), [The Teen Kings](https://open.spotify.com/artist/6eZeDQei4hJnzUlGt4QATQ) | [Ooby Dooby / Go Go Go](https://open.spotify.com/album/0XoMFggtttMeiJtnBjoijY) | 2:06 | 2022-05-06 |  |
+| [Go Go Go](https://open.spotify.com/track/6ZKzfBr8vejFODLh8w2wTV) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS), [The Teen Kings](https://open.spotify.com/artist/6eZeDQei4hJnzUlGt4QATQ) | [Ooby Dooby / Go Go Go](https://open.spotify.com/album/0XoMFggtttMeiJtnBjoijY) | 2:06 | 2022-05-06 | 2024-04-26 |
 | [Good Golly Miss Molly](https://open.spotify.com/track/1fMMRoalpb7E8m5FsAta2y) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [The Very Best Of Little Richard](https://open.spotify.com/album/3LXNSUpx48PQxUn2StRqfu) | 2:07 | 2022-05-06 | 2022-07-29 |
 | [Good Golly, Miss Molly](https://open.spotify.com/track/0ZvgXNstN4o2ZXPomtBYVp) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Good Golly!](https://open.spotify.com/album/18VnWTsdEcofimkOHcWBAu) | 2:09 | 2022-07-05 | 2024-04-19 |
 | [Good Rockin' Boogie](https://open.spotify.com/track/7yV2BSU9Nmnw1xv1ldozhJ) | [Sleepy LaBeef](https://open.spotify.com/artist/4TWlhLMKfoIXqJOYxwKhdf) | [Rockabilly 1977](https://open.spotify.com/album/6wCq4bDPpN1sr9KtXq3vYf) | 1:52 | 2023-10-27 |  |

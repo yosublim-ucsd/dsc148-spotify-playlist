@@ -2,7 +2,7 @@
 
 ### [This Is Patoranking](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1iOLV6)
 
-> This is Patoranking\. The essential tracks, all in one playlist.
+> This Is Patoranking\. Los temas esenciales, todos en una lista.
 
 129 songs - 7 hr 32 min
 

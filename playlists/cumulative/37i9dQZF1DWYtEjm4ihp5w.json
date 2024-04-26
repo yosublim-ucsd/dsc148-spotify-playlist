@@ -3273,6 +3273,24 @@
     },
     {
       "album": {
+        "name": "San Siro",
+        "url": "https://open.spotify.com/album/5QOytCFrVEvxxeR3zGsjfP"
+      },
+      "artists": [
+        {
+          "name": "LFERDA",
+          "url": "https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204350,
+      "name": "San Siro",
+      "url": "https://open.spotify.com/track/0WuTPXry9d1aV446dafoO1"
+    },
+    {
+      "album": {
         "name": "Sentiment",
         "url": "https://open.spotify.com/album/4qS1zPIIKk9rzThe4qtcFd"
       },
@@ -4040,6 +4058,24 @@
       "duration_ms": 224628,
       "name": "Vvs",
       "url": "https://open.spotify.com/track/0SUlLkixUcXSZeYaCatnZP"
+    },
+    {
+      "album": {
+        "name": "Wa3ra",
+        "url": "https://open.spotify.com/album/1K2UJSMp9GcnyESsOk9Zmg"
+      },
+      "artists": [
+        {
+          "name": "Hassa1",
+          "url": "https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136932,
+      "name": "Wa3ra",
+      "url": "https://open.spotify.com/track/4ZhL9IgqKHsVa7goaJ6MVD"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Mitski. The essential tracks, all in one playlist.",
-  "num_followers": 250022,
+  "num_followers": 250224,
   "original_name": "This Is Mitski",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzgzMDQwMCwwMDAwMDAwMGU3YWM0MGJlNWE5MTJlNzBjNTBmZWQ5YjcyZjU0NDRk",
+  "snapshot_id": "MTcxMzkxNjgwMCwwMDAwMDAwMGIyNjRlMzJkNDU2NTEwZWQ4M2RmNmVmNWRiMzA1YjA0",
   "tracks": [
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 201088,
-      "name": "Humpty",
-      "url": "https://open.spotify.com/track/1F0BkspIdyq3N7EyZ94Bfa"
+      "duration_ms": 185070,
+      "name": "Because Dreaming Costs Money, My Dear",
+      "url": "https://open.spotify.com/track/4Ghr5ZxYQ9ti06fRTltVop"
     },
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 185070,
-      "name": "Because Dreaming Costs Money, My Dear",
-      "url": "https://open.spotify.com/track/4Ghr5ZxYQ9ti06fRTltVop"
+      "duration_ms": 201088,
+      "name": "Humpty",
+      "url": "https://open.spotify.com/track/1F0BkspIdyq3N7EyZ94Bfa"
     },
     {
       "added_at": null,

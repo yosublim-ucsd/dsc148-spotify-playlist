@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,613 songs - 4 day 14 hr 56 min
+1,614 songs - 4 day 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -454,6 +454,7 @@
 | [Feel It Still \- Medasin Remix](https://open.spotify.com/track/4m6ObZmZ7wnyrKtmLvlyVE) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Feel It Still \(Medasin Remix\)](https://open.spotify.com/album/4zeRHgIHK8iRQ7vs3t1BJF) | 3:14 | 2020-05-18 | 2020-07-03 |
 | [Feel It Too](https://open.spotify.com/track/2orNXSkyIRgWWAVHRjjchs) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6) | [Closure](https://open.spotify.com/album/2tQMlxXnIuH9bdnytpKZCz) | 4:53 | 2022-07-01 | 2022-12-29 |
 | [Feel Like I Do](https://open.spotify.com/track/663E41fUIDEnzN7xTnFLT0) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Moog For Love](https://open.spotify.com/album/1ryg2ELCFZ0y1ngN3EiKlT) | 3:15 | 2020-05-22 | 2020-07-03 |
+| [Feel You In Love](https://open.spotify.com/track/1HSlSne8NSLQIqZMIs97AI) | [Bjarne Hendrik](https://open.spotify.com/artist/5FIR37Eznpe8S0fondwPd2) | [Feel You In Love](https://open.spotify.com/album/0FO0x3qrzxMlsZqRNFYooN) | 3:13 | 2024-04-19 |  |
 | [Feel Your Weight \- Poolside Remix](https://open.spotify.com/track/1hgX0ZmmP7IRRjUFCIBrnQ) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Blood Remixed](https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1) | 5:10 | 2022-07-01 | 2024-04-19 |
 | [Feel Your Weight \- Poolside Remix](https://open.spotify.com/track/5heenx8v6qCOumRI9jpRBS) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Blood Remixed](https://open.spotify.com/album/1NAMSrLzMJw5BlVeHn8Nqy) | 5:10 | 2020-05-18 | 2022-04-21 |
 | [Feels \- Jai Wolf Remix](https://open.spotify.com/track/57rOXabUKgkrwHPSqzo4s5) | [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Feels \(Jai Wolf Remix\)](https://open.spotify.com/album/5TS42SVHSUrRj89XXmT3Ku) | 4:30 | 2020-05-18 | 2020-07-03 |
@@ -624,7 +625,7 @@
 | [Hold Me Tonight](https://open.spotify.com/track/6qaMFbqEYYZWl7GAQPqyaS) | [BYNON](https://open.spotify.com/artist/033DxVOVQqNlUy6yEI03ar) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 3:32 | 2020-03-16 | 2022-04-19 |
 | [Hold Tight \(feat\. Darla Jade\)](https://open.spotify.com/track/053bbGyTwKCwmSzE78G2Us) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Hold Tight \(feat\. Darla Jade\)](https://open.spotify.com/album/53J5G6P1Xdj6ZsgsHSlg1a) | 3:05 | 2022-04-29 | 2022-12-29 |
 | [HOLD YOU](https://open.spotify.com/track/5YOcEEKHgs1IgqudZ5vx8Q) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr) | [HOLD YOU](https://open.spotify.com/album/5KgTqGLDlJo6kL67PMbRdi) | 2:54 | 2023-03-10 | 2024-03-23 |
-| [Holding Me Back](https://open.spotify.com/track/7DtNdmtp4c12Wt0sdHVg3g) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Holding Me Back](https://open.spotify.com/album/0WxPw5ordrZJNMHhtzjAJ7) | 4:25 | 2024-01-05 |  |
+| [Holding Me Back](https://open.spotify.com/track/7DtNdmtp4c12Wt0sdHVg3g) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Holding Me Back](https://open.spotify.com/album/0WxPw5ordrZJNMHhtzjAJ7) | 4:25 | 2024-01-05 | 2024-04-26 |
 | [Hollow](https://open.spotify.com/track/2F6F3bQ0CWUnv5xje1RTLK) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [MØØNE](https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6) | [Hollow](https://open.spotify.com/album/64N1sXGEZNQZI7nefF1fwi) | 4:05 | 2022-09-30 | 2022-10-13 |
 | [Hologram](https://open.spotify.com/track/3QUiaFjKkp3EkCuJ7pa1PX) | [KIDSØ](https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr) | [Hologram](https://open.spotify.com/album/6etgircCabewA3pqdJCZnH) | 3:55 | 2021-08-20 | 2022-02-14 |
 | [Hologram](https://open.spotify.com/track/210bt3QeLgxfbcSKikEeNT) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [LeyeT](https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb) | [Hologram](https://open.spotify.com/album/278Wc6KOqM1juXvUi6fwpt) | 4:26 | 2023-03-10 | 2023-03-23 |

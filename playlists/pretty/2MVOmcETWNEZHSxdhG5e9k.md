@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2MVOmcETWNEZHSxdhG5e9k.md) - [plain]
 
 > Melodic Progressive, Progressive House and Vocal Trance\. Selections from Chris Lyons DJ&\#x27;s &quot;Riding The Soundwave&quot; webradio show.
 
-[Chris Lyons DJ](https://open.spotify.com/user/dr1qyhdgceut17a2728ig8g1a) - 7 likes - 70 songs - 8 hr 5 min
+[Chris Lyons DJ](https://open.spotify.com/user/dr1qyhdgceut17a2728ig8g1a) - 7 likes - 71 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,5 +78,6 @@ pretty - [cumulative](/playlists/cumulative/2MVOmcETWNEZHSxdhG5e9k.md) - [plain]
 | 68 | [Stormwatch \- Chris Reece & Dinka Old Fashion Mix](https://open.spotify.com/track/77ijcYrPkK8OYaVuK0gDRu) | [Helvetic Nerds](https://open.spotify.com/artist/5vKOPKIOlbrbysX7KrsCXS) | [Stormwatch](https://open.spotify.com/album/6tQyMZ4E1tO0cTROcWUtRC) | 8:22 |
 | 69 | [Lonely Shore](https://open.spotify.com/track/033TGcyIjbXIMF6ZgHrYq3) | [Vintage & Morelli](https://open.spotify.com/artist/58dfpnXBkKgFNH2JFtEAv0), [Arielle Maren](https://open.spotify.com/artist/7MbnTNfDyXb2vTM1GYXsLV), [RNX](https://open.spotify.com/artist/6MvuP20356EIRrCDMI92jc) | [Lonely Shore \(Incl\. Blood Groove & Kikis Remix\)](https://open.spotify.com/album/2NAMJBTzrWINdSVj8oibsr) | 4:00 |
 | 70 | [Malaga \- Original Mix](https://open.spotify.com/track/0o3xdNut7NLMwHibznJQdF) | [Talamanca](https://open.spotify.com/artist/6T10DjLBN7wT5gtnPnhmEk), [Vitodito](https://open.spotify.com/artist/16mF4YXC1sZZWNjZoJoxd2) | [Encanta's Winter Picks \- 2015](https://open.spotify.com/album/5bOV5hnnvNNKDugKf0wHOS) | 7:20 |
+| 71 | [City Lights \- Original Mix](https://open.spotify.com/track/3Dce37lwGGXcg9EeYj80rQ) | [Sundriver](https://open.spotify.com/artist/3OKbvWLskv2IPnpFiL1BRr) | [Anjunabeats Volume 6](https://open.spotify.com/album/7uMIeJwmYHWB5UmQCJxtzr) | 5:15 |
 
-Snapshot ID: `ODEsYmI0NWE5ODIyMGE2Mjk4NDkwNTEwNjdiNTE2YjAwZmVlMWY4Mjg0NQ==`
+Snapshot ID: `ODIsMjU4ZmYzZTlmYmM0OTBhODdiZGE5MGJiYTM0YzA1N2UyYWU4NmFiYw==`

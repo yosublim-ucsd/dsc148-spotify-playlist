@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > Shotgun Willy, born and raised on the internet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,396,992 likes - 105 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,396,960 likes - 105 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 58 | [HATE ME](https://open.spotify.com/track/4VGqcmT6DYi4kFFWmzFvRp) | [CLIP](https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl) | [HATE ME](https://open.spotify.com/album/2COd1Ghgd8JN4q69fpf6OO) | 2:02 |
 | 59 | [backstab](https://open.spotify.com/track/64teDenGW4qlIoe6Iiv9Pk) | [Mitaya](https://open.spotify.com/artist/04payxLjRndgbmR2lv97S1) | [backstab](https://open.spotify.com/album/5LLknxRQqsKN1NDvT5RXfx) | 2:19 |
 | 60 | [af1 2.0](https://open.spotify.com/track/4tBAAUWP6gpdF3sMxGVvET) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT), [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [af1 2.0](https://open.spotify.com/album/22HwMRzge4xsM8Fv5ZPTOj) | 3:00 |
-| 61 | [40](https://open.spotify.com/track/6sZE18zA8OJpr3h5VDboWH) | [evilgiane](https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV), [xaviersobased](https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd), [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [40](https://open.spotify.com/album/2I05gcZaTo8nNuUC6PSwnt) | 1:04 |
+| 61 | [40](https://open.spotify.com/track/6sZE18zA8OJpr3h5VDboWH) | [evilgiane](https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV), [xaviersobased](https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd), [Nettspend](https://open.spotify.com/artist/5ipDL3wHWMz5RK3t1bQFLW) | [40](https://open.spotify.com/album/2I05gcZaTo8nNuUC6PSwnt) | 1:04 |
 | 62 | [ONE IN A MILLION](https://open.spotify.com/track/0we7yhOp1144AJcgZb16H9) | [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4) | [ONE IN A MILLION](https://open.spotify.com/album/64yxYFtETKnCagb6pnFdS9) | 1:59 |
 | 63 | [Babytron Flow](https://open.spotify.com/track/5D105Zm9e2zdIMDjn3loFf) | [Certified Trapper](https://open.spotify.com/artist/7gABnNCiNJBaT8KkaHGK13) | [Babytron Flow](https://open.spotify.com/album/09DIJUnZe9kDEysqy20leY) | 2:12 |
 | 64 | [H1M WONDER](https://open.spotify.com/track/5h6ltqklsMyCO13Yl86Lgf) | [h1mward](https://open.spotify.com/artist/2nQJ3BJ6fuF2eFHWEaKE2H) | [H1M WONDER](https://open.spotify.com/album/1koHUerstUM6yntvj5oVZH) | 1:53 |

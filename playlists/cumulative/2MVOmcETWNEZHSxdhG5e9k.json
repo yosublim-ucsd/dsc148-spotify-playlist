@@ -223,6 +223,24 @@
     },
     {
       "album": {
+        "name": "Anjunabeats Volume 6",
+        "url": "https://open.spotify.com/album/7uMIeJwmYHWB5UmQCJxtzr"
+      },
+      "artists": [
+        {
+          "name": "Sundriver",
+          "url": "https://open.spotify.com/artist/3OKbvWLskv2IPnpFiL1BRr"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315813,
+      "name": "City Lights - Original Mix",
+      "url": "https://open.spotify.com/track/3Dce37lwGGXcg9EeYj80rQ"
+    },
+    {
+      "album": {
         "name": "My Guiding Star",
         "url": "https://open.spotify.com/album/2e2IZdNI18RJh4pFwnjdNc"
       },

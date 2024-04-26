@@ -2,7 +2,7 @@
 
 ### [This Is Grupo Frontera](https://open.spotify.com/playlist/37i9dQZF1DZ06evO473sfm)
 
-> This Is Grupo Frontera\. Los temas esenciales, todos en una lista.
+> This is Grupo Frontera\. Todos os maiores hits em uma só playlist.
 
 55 songs - 2 hr 49 min
 

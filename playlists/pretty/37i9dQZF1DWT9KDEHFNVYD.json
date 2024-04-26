@@ -1,6 +1,6 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations. CAN on cover.",
-  "num_followers": 12046,
+  "num_followers": 12050,
   "original_name": "Krautrock",
   "owner": {
     "name": "Spotify",
@@ -121,22 +121,6 @@
       "url": "https://open.spotify.com/track/4fBzcidYDAiZ6Dh6pKbkiK"
     },
     {
-      "added_at": "2024-02-23 00:15:43",
-      "album": {
-        "name": "PHASOR",
-        "url": "https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S"
-      },
-      "artists": [
-        {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
-        }
-      ],
-      "duration_ms": 294666,
-      "name": "Out There",
-      "url": "https://open.spotify.com/track/2289HHKbvNgNPobou0Dexl"
-    },
-    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "Zitilites",
@@ -151,6 +135,22 @@
       "duration_ms": 266546,
       "name": "Surfing The Warm Industry",
       "url": "https://open.spotify.com/track/10JEpI1y7PMD9r3ZxF6CFZ"
+    },
+    {
+      "added_at": "2024-02-23 00:15:43",
+      "album": {
+        "name": "PHASOR",
+        "url": "https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S"
+      },
+      "artists": [
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        }
+      ],
+      "duration_ms": 294666,
+      "name": "Out There",
+      "url": "https://open.spotify.com/track/2289HHKbvNgNPobou0Dexl"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -171,18 +171,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Inform - Educate - Entertain",
-        "url": "https://open.spotify.com/album/1aSU7tVnGuKquY8yKCw1jm"
+        "name": "Chase the Tear",
+        "url": "https://open.spotify.com/album/7ofIuqyYYYTu1MbgDJgef4"
       },
       "artists": [
         {
-          "name": "Public Service Broadcasting",
-          "url": "https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h"
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
         }
       ],
-      "duration_ms": 237532,
-      "name": "Spitfire",
-      "url": "https://open.spotify.com/track/2vRI17zbIpXatNS3IS1ktx"
+      "duration_ms": 315120,
+      "name": "Chase the Tear",
+      "url": "https://open.spotify.com/track/00CjPU9Nv69kf6YofOIazK"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -203,34 +203,34 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Chase the Tear",
-        "url": "https://open.spotify.com/album/7ofIuqyYYYTu1MbgDJgef4"
+        "name": "Inform - Educate - Entertain",
+        "url": "https://open.spotify.com/album/1aSU7tVnGuKquY8yKCw1jm"
       },
       "artists": [
         {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+          "name": "Public Service Broadcasting",
+          "url": "https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h"
         }
       ],
-      "duration_ms": 315120,
-      "name": "Chase the Tear",
-      "url": "https://open.spotify.com/track/00CjPU9Nv69kf6YofOIazK"
+      "duration_ms": 237532,
+      "name": "Spitfire",
+      "url": "https://open.spotify.com/track/2vRI17zbIpXatNS3IS1ktx"
     },
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Sound of Silver",
-        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
+        "name": "Lightbulbs",
+        "url": "https://open.spotify.com/album/53PUB7dV3fHgek78i7oldH"
       },
       "artists": [
         {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+          "name": "Fujiya & Miyagi",
+          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
         }
       ],
-      "duration_ms": 235226,
-      "name": "Watch the Tapes",
-      "url": "https://open.spotify.com/track/4tzg6aQGUBL6YMOASdLkjN"
+      "duration_ms": 200133,
+      "name": "Knickerbocker",
+      "url": "https://open.spotify.com/track/2LaxQIT4heN80xHBuKOhHY"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -251,18 +251,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Lightbulbs",
-        "url": "https://open.spotify.com/album/53PUB7dV3fHgek78i7oldH"
+        "name": "Sound of Silver",
+        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
       },
       "artists": [
         {
-          "name": "Fujiya & Miyagi",
-          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
         }
       ],
-      "duration_ms": 200133,
-      "name": "Knickerbocker",
-      "url": "https://open.spotify.com/track/2LaxQIT4heN80xHBuKOhHY"
+      "duration_ms": 235226,
+      "name": "Watch the Tapes",
+      "url": "https://open.spotify.com/track/4tzg6aQGUBL6YMOASdLkjN"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -639,18 +639,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Not The Time / Callous",
-        "url": "https://open.spotify.com/album/1uXHnCnyJxEXUc8znM3gLU"
+        "name": "BGM",
+        "url": "https://open.spotify.com/album/5ouO0cdsV0laOO5u6jWHk4"
       },
       "artists": [
         {
-          "name": "SASAMI",
-          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
+          "name": "YELLOW MAGIC ORCHESTRA",
+          "url": "https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE"
         }
       ],
-      "duration_ms": 170760,
-      "name": "Not The Time",
-      "url": "https://open.spotify.com/track/2kz4JUPAQLcaViOVgYxzfF"
+      "duration_ms": 272840,
+      "name": "\u30ad\u30e5\u30fc",
+      "url": "https://open.spotify.com/track/15beQw4bH4fePS8oAE2Yef"
     },
     {
       "added_at": "2024-04-09 16:27:14",
@@ -671,18 +671,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "BGM",
-        "url": "https://open.spotify.com/album/5ouO0cdsV0laOO5u6jWHk4"
+        "name": "Not The Time / Callous",
+        "url": "https://open.spotify.com/album/1uXHnCnyJxEXUc8znM3gLU"
       },
       "artists": [
         {
-          "name": "YELLOW MAGIC ORCHESTRA",
-          "url": "https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE"
+          "name": "SASAMI",
+          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
         }
       ],
-      "duration_ms": 272840,
-      "name": "\u30ad\u30e5\u30fc",
-      "url": "https://open.spotify.com/track/15beQw4bH4fePS8oAE2Yef"
+      "duration_ms": 170760,
+      "name": "Not The Time",
+      "url": "https://open.spotify.com/track/2kz4JUPAQLcaViOVgYxzfF"
     },
     {
       "added_at": "2024-04-09 16:27:14",
@@ -1189,6 +1189,22 @@
       "url": "https://open.spotify.com/track/1AtSdzyt3vsGUVSk5wb44Z"
     },
     {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Transparent Things",
+        "url": "https://open.spotify.com/album/3Fj7WFcMMbCgcvzBA75UvI"
+      },
+      "artists": [
+        {
+          "name": "Fujiya & Miyagi",
+          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
+        }
+      ],
+      "duration_ms": 391002,
+      "name": "Cassettesingle",
+      "url": "https://open.spotify.com/track/66vwhVWctdciNG21GcOC3G"
+    },
+    {
       "added_at": "2022-03-29 02:06:14",
       "album": {
         "name": "QUAKENBR\u00dcCK [Version]",
@@ -1207,18 +1223,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Transparent Things",
-        "url": "https://open.spotify.com/album/3Fj7WFcMMbCgcvzBA75UvI"
+        "name": "The Secret Cosmic Music of the East German Olympic Program 1972-83, Vol. 1",
+        "url": "https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ"
       },
       "artists": [
         {
-          "name": "Fujiya & Miyagi",
-          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
+          "name": "Kosmischer L\u00e4ufer",
+          "url": "https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B"
         }
       ],
-      "duration_ms": 391002,
-      "name": "Cassettesingle",
-      "url": "https://open.spotify.com/track/66vwhVWctdciNG21GcOC3G"
+      "duration_ms": 386173,
+      "name": "Sandtrommel",
+      "url": "https://open.spotify.com/track/4IkU7Se7vWYxQPqPMday4O"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1235,22 +1251,6 @@
       "duration_ms": 217133,
       "name": "Like Foxes Through Fences",
       "url": "https://open.spotify.com/track/05e1tN9mBd1qky5SdIGGTI"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "The Secret Cosmic Music of the East German Olympic Program 1972-83, Vol. 1",
-        "url": "https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ"
-      },
-      "artists": [
-        {
-          "name": "Kosmischer L\u00e4ufer",
-          "url": "https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B"
-        }
-      ],
-      "duration_ms": 386173,
-      "name": "Sandtrommel",
-      "url": "https://open.spotify.com/track/4IkU7Se7vWYxQPqPMday4O"
     },
     {
       "added_at": "2023-09-04 19:37:16",
@@ -1485,22 +1485,6 @@
       "url": "https://open.spotify.com/track/71aOELCUIi0KInYTVphzkK"
     },
     {
-      "added_at": "2024-02-02 05:39:17",
-      "album": {
-        "name": "Future Sounds Of Kraut, Vol. 2 - Teaser 1",
-        "url": "https://open.spotify.com/album/7vOtMSWn1d4iKjIGcNG8E1"
-      },
-      "artists": [
-        {
-          "name": "Lucas Croon",
-          "url": "https://open.spotify.com/artist/0KB64He7gdUpIIfg3DzH5Z"
-        }
-      ],
-      "duration_ms": 439529,
-      "name": "Krautwickel",
-      "url": "https://open.spotify.com/track/5lM4npHv57txmyWH9wUnkh"
-    },
-    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "Blood-Drums",
@@ -1531,6 +1515,22 @@
       "duration_ms": 352360,
       "name": "Ausland",
       "url": "https://open.spotify.com/track/6T42JJsew8dVP9s87D8mA1"
+    },
+    {
+      "added_at": "2024-02-02 05:39:17",
+      "album": {
+        "name": "Future Sounds Of Kraut, Vol. 2 - Teaser 1",
+        "url": "https://open.spotify.com/album/7vOtMSWn1d4iKjIGcNG8E1"
+      },
+      "artists": [
+        {
+          "name": "Lucas Croon",
+          "url": "https://open.spotify.com/artist/0KB64He7gdUpIIfg3DzH5Z"
+        }
+      ],
+      "duration_ms": 439529,
+      "name": "Krautwickel",
+      "url": "https://open.spotify.com/track/5lM4npHv57txmyWH9wUnkh"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Plank!",
-        "url": "https://open.spotify.com/album/0vuMyGU4fIjdjvzP3oMGnZ"
+        "name": "Contact B/W I Hear Vibrations",
+        "url": "https://open.spotify.com/album/33K7gFbVp1ZFYkO0GTFhwX"
       },
       "artists": [
         {
-          "name": "Plank!",
-          "url": "https://open.spotify.com/artist/1PID5KNetvOkK0GicJyyAH"
+          "name": "Wooden Shjips",
+          "url": "https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0"
         }
       ],
-      "duration_ms": 276026,
-      "name": "La Luna",
-      "url": "https://open.spotify.com/track/6h6Zt6iZbtyThlMCUmQs51"
+      "duration_ms": 501373,
+      "name": "I Hear the Vibrations",
+      "url": "https://open.spotify.com/track/2JFuf7873vzHiJqpmwFTVL"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1599,34 +1599,34 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Contact B/W I Hear Vibrations",
-        "url": "https://open.spotify.com/album/33K7gFbVp1ZFYkO0GTFhwX"
+        "name": "Plank!",
+        "url": "https://open.spotify.com/album/0vuMyGU4fIjdjvzP3oMGnZ"
       },
       "artists": [
         {
-          "name": "Wooden Shjips",
-          "url": "https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0"
+          "name": "Plank!",
+          "url": "https://open.spotify.com/artist/1PID5KNetvOkK0GicJyyAH"
         }
       ],
-      "duration_ms": 501373,
-      "name": "I Hear the Vibrations",
-      "url": "https://open.spotify.com/track/2JFuf7873vzHiJqpmwFTVL"
+      "duration_ms": 276026,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/6h6Zt6iZbtyThlMCUmQs51"
     },
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Feather Float",
-        "url": "https://open.spotify.com/album/0y7rybwqnKnL1VJMlf1sFi"
+        "name": "Remember I Was Carbon Dioxide",
+        "url": "https://open.spotify.com/album/3qhe1rCL3GcwCebco99KWX"
       },
       "artists": [
         {
-          "name": "OOIOO",
-          "url": "https://open.spotify.com/artist/1XuQeR4sDsrX9gO2gtRQwe"
+          "name": "Camera",
+          "url": "https://open.spotify.com/artist/09HZcXk3Gqd4JPm4YJKGgs"
         }
       ],
-      "duration_ms": 465066,
-      "name": "Be Sure To Loop",
-      "url": "https://open.spotify.com/track/32ymOnGRWBhyK3AftNiyTD"
+      "duration_ms": 264653,
+      "name": "Synchron",
+      "url": "https://open.spotify.com/track/3io1rzJhFB9rfWBV0v2txa"
     }
   ],
   "unique_name": "Krautrock",

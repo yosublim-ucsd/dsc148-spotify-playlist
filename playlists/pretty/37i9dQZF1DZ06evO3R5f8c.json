@@ -1,12 +1,12 @@
 {
-  "description": "This is Black Coffee. The essential tracks, all in one playlist.",
-  "num_followers": 131033,
+  "description": "This is Black Coffee. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 131121,
   "original_name": "This Is Black Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzgzMDQwMCwwMDAwMDAwMDFhZGYzZjhhNzM2YjA2ZjhjZTlkNDIzOTYzZDdmODZj",
+  "snapshot_id": "MTcxMzkxNjgwMCwwMDAwMDAwMDRjNDEzZDM4OGZjNTllOWI1ZmUwZjBkOTYxN2FkYjli",
   "tracks": [
     {
       "added_at": null,
@@ -583,22 +583,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/08sFjhTbcwCDDCiU9KdnKH"
+        "name": "Have Another One",
+        "url": "https://open.spotify.com/album/5sMK7vkPd3CZF0fTny80gj"
       },
       "artists": [
         {
           "name": "Black Coffee",
           "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
-        },
-        {
-          "name": "Thiwe",
-          "url": "https://open.spotify.com/artist/0iUfURNTBS7ScaEajv9Uve"
         }
       ],
-      "duration_ms": 466375,
-      "name": "Crazy - Quentin Harris Remix",
-      "url": "https://open.spotify.com/track/3Rfki9RUi1LpONeXvH1o5v"
+      "duration_ms": 404640,
+      "name": "100 Zulu Warriors",
+      "url": "https://open.spotify.com/track/5xYU4QIQqxhGaWgpwKLkri"
     },
     {
       "added_at": null,
@@ -623,18 +619,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Have Another One",
-        "url": "https://open.spotify.com/album/5sMK7vkPd3CZF0fTny80gj"
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/08sFjhTbcwCDDCiU9KdnKH"
       },
       "artists": [
         {
           "name": "Black Coffee",
           "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Thiwe",
+          "url": "https://open.spotify.com/artist/0iUfURNTBS7ScaEajv9Uve"
         }
       ],
-      "duration_ms": 404640,
-      "name": "100 Zulu Warriors",
-      "url": "https://open.spotify.com/track/5xYU4QIQqxhGaWgpwKLkri"
+      "duration_ms": 466375,
+      "name": "Crazy - Quentin Harris Remix",
+      "url": "https://open.spotify.com/track/3Rfki9RUi1LpONeXvH1o5v"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Reality",
+  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Recycled J",
   "name": "Rap Espa\u00f1ol",
   "tracks": [
     {
@@ -113,6 +113,32 @@
     },
     {
       "album": {
+        "name": "3 d\u00edas m\u00e1s tarde",
+        "url": "https://open.spotify.com/album/0MJP3bcVgzI2OjSkDtcbA1"
+      },
+      "artists": [
+        {
+          "name": "Cres One",
+          "url": "https://open.spotify.com/artist/6HhywotTG5z1hwxFMl73fG"
+        },
+        {
+          "name": "Dano",
+          "url": "https://open.spotify.com/artist/3lIsPQW0jN6sMpiWuiShF0"
+        },
+        {
+          "name": "Porcel",
+          "url": "https://open.spotify.com/artist/5Hk0Mny2WBqXDCWicNmD2G"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184704,
+      "name": "3 d\u00edas m\u00e1s tarde",
+      "url": "https://open.spotify.com/track/53AAYLHi5LRWMVl63a5PDy"
+    },
+    {
+      "album": {
         "name": "3 SEGUNDOS",
         "url": "https://open.spotify.com/album/6mfmE7voG9pFByNi7QhDmI"
       },
@@ -124,7 +150,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 149742,
       "name": "3 SEGUNDOS",
       "url": "https://open.spotify.com/track/6eO0d02BmxuAwQx2gshtFk"
@@ -396,7 +422,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 285333,
       "name": "Ahora",
       "url": "https://open.spotify.com/track/5JVkOvgb7pvRyIn6bwMxfH"
@@ -466,7 +492,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 201355,
       "name": "Ahora Ya Es Tarde",
       "url": "https://open.spotify.com/track/2HwuWVclzTepvw1wbupRu7"
@@ -1075,6 +1101,24 @@
     },
     {
       "album": {
+        "name": "CABEZA DE RAT\u00d3N",
+        "url": "https://open.spotify.com/album/5y4s741tbdVWNVsmNQRX8L"
+      },
+      "artists": [
+        {
+          "name": "Recycled J",
+          "url": "https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170596,
+      "name": "CABEZA DE RAT\u00d3N",
+      "url": "https://open.spotify.com/track/3S6srfAx6L5Cf3k2EzFaCO"
+    },
+    {
+      "album": {
         "name": "Cada Loco Con Su Tema",
         "url": "https://open.spotify.com/album/2r9aNtDgRgSrMYmjiDjbRU"
       },
@@ -1150,6 +1194,24 @@
       "duration_ms": 302104,
       "name": "CALIENTE",
       "url": "https://open.spotify.com/track/3mh6bL6SJVg7T57IhKNZXA"
+    },
+    {
+      "album": {
+        "name": "Caro",
+        "url": "https://open.spotify.com/album/7HeHYUW5xgsVSk5bvUaW6n"
+      },
+      "artists": [
+        {
+          "name": "Babi",
+          "url": "https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206399,
+      "name": "Caro",
+      "url": "https://open.spotify.com/track/361r8vLK0bgSoiKHXPERyR"
     },
     {
       "album": {
@@ -2110,6 +2172,28 @@
       "duration_ms": 194042,
       "name": "El Tema",
       "url": "https://open.spotify.com/track/4jeszGuwfPAtqO7UnRMK56"
+    },
+    {
+      "album": {
+        "name": "En la lucha",
+        "url": "https://open.spotify.com/album/36gWlzteJX9ZGwvjHnodD8"
+      },
+      "artists": [
+        {
+          "name": "Dj Conjurer",
+          "url": "https://open.spotify.com/artist/3KxD9wWOXs40FpVl0jrEas"
+        },
+        {
+          "name": "Wos LasPalmas",
+          "url": "https://open.spotify.com/artist/2Z3hX6FBCtTfjx8chQ6Mer"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213061,
+      "name": "En la lucha",
+      "url": "https://open.spotify.com/track/1yHvldEOEogIwvqsskbiiy"
     },
     {
       "album": {
@@ -3080,7 +3164,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 173414,
       "name": "Konbini Wars",
       "url": "https://open.spotify.com/track/4G6fhntNzO01jPr2jV8TAk"
@@ -3386,7 +3470,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 207850,
       "name": "La \u00daltima Ronda",
       "url": "https://open.spotify.com/track/2l6W5JKXwqx1ZuARazOWJC"
@@ -3588,7 +3672,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 181621,
       "name": "Loca",
       "url": "https://open.spotify.com/track/3MrWbBl9WB14QDb62hYIe3"
@@ -4407,6 +4491,32 @@
     },
     {
       "album": {
+        "name": "MUCHO BEEF",
+        "url": "https://open.spotify.com/album/15Bz1GVBXBtAyq5TPItHUj"
+      },
+      "artists": [
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        },
+        {
+          "name": "Cookin Soul",
+          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
+        },
+        {
+          "name": "Mucho Muchacho",
+          "url": "https://open.spotify.com/artist/0PajLDK4vA1VnOVyYYO7Ae"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170224,
+      "name": "MUCHO BEEF",
+      "url": "https://open.spotify.com/track/4XxztIaWIn45r7UetzU5yG"
+    },
+    {
+      "album": {
         "name": "M\u00e1s Alcohol",
         "url": "https://open.spotify.com/album/73aizn6KMyjpQM59JjpiBo"
       },
@@ -4842,7 +4952,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 232363,
       "name": "Nosotros",
       "url": "https://open.spotify.com/track/2I5As1ONepb3YPXIK74ctj"
@@ -6040,7 +6150,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 235862,
       "name": "Sin-Ceros",
       "url": "https://open.spotify.com/track/512VEdEqHzzXDKgJELN0Ue"
@@ -6290,6 +6400,28 @@
       "duration_ms": 158863,
       "name": "Sue\u00f1os",
       "url": "https://open.spotify.com/track/1tP1RLd5jdBAIaeWpiJm1P"
+    },
+    {
+      "album": {
+        "name": "TASMANIA",
+        "url": "https://open.spotify.com/album/7DgPVNfr6xKejQTGSXYyu8"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Gabanna",
+          "url": "https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm"
+        },
+        {
+          "name": "Lupita's Friends",
+          "url": "https://open.spotify.com/artist/7gGKjAXKRyDUhSUhFDIaAW"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189486,
+      "name": "TASMANIA",
+      "url": "https://open.spotify.com/track/55dOfbCMfALGDSI8e8HWhN"
     },
     {
       "album": {
@@ -6657,6 +6789,28 @@
     },
     {
       "album": {
+        "name": "Una Vida Entera",
+        "url": "https://open.spotify.com/album/6sOKtT4alwPbICQeyNmCjX"
+      },
+      "artists": [
+        {
+          "name": "Luani",
+          "url": "https://open.spotify.com/artist/5y7twJ6XIWnxkh9sArNf5M"
+        },
+        {
+          "name": "EZVIT 810",
+          "url": "https://open.spotify.com/artist/20taoPw3DvVajnkUySMckx"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141692,
+      "name": "Una Vida Entera",
+      "url": "https://open.spotify.com/track/37CDuz7vj93neaVGTYLXAl"
+    },
+    {
+      "album": {
         "name": "H\u00e9ctor y Willie",
         "url": "https://open.spotify.com/album/4MQfODmSfhbgYFnEKCcYRM"
       },
@@ -6746,6 +6900,24 @@
       "duration_ms": 162858,
       "name": "Venom",
       "url": "https://open.spotify.com/track/27J91XekBNLcwVzH9n89qi"
+    },
+    {
+      "album": {
+        "name": "Vine Ma Hut",
+        "url": "https://open.spotify.com/album/74xlNX3hXTzZGXXre0vJFZ"
+      },
+      "artists": [
+        {
+          "name": "Elio Toffana",
+          "url": "https://open.spotify.com/artist/3iaWOU36p7W4oqHLDoBQmr"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165351,
+      "name": "Vine Ma Hut",
+      "url": "https://open.spotify.com/track/5VxXSgTPqj8zeK5ViMDd61"
     },
     {
       "album": {

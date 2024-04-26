@@ -2,9 +2,9 @@
 
 ### [A Breath of Fresh Éire](https://open.spotify.com/playlist/37i9dQZF1DXcvmeS1jhCQv)
 
-> New tunes from Ireland for your discovery\. Cover: Oscar Blue
+> New tunes from Ireland for your discovery\. Cover: CARSTEN2X, Joe Butler
 
-133 songs - 7 hr 27 min
+137 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [America](https://open.spotify.com/track/3jXQiJOwDtg9fn0ld0t05H) | [LYRA](https://open.spotify.com/artist/0yZG22ntdDqVCFIulOTc8x) | [LYRA](https://open.spotify.com/album/1GTcikeMzr2ZfDASRv7cz4) | 2:33 | 2024-04-11 |  |
 | [Antidote](https://open.spotify.com/track/207bcqHODbUfxAsyhi1fkR) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Antidote](https://open.spotify.com/album/5BtsIlGeClmz7o8B4aq6MK) | 2:45 | 2024-02-02 | 2024-03-29 |
 | [Attention](https://open.spotify.com/track/7a97WHddocTnhagUJEfTFb) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Attention](https://open.spotify.com/album/7hE5oYhRUricYUex3QE5NH) | 4:11 | 2024-03-01 |  |
-| [Before Sunrise](https://open.spotify.com/track/3ZuljegwK9qaCU6YsOT4r3) | [Nagam](https://open.spotify.com/artist/6RfUxJHuVIllzy1KE8rLiu), [mac gray](https://open.spotify.com/artist/1MQuOJzZbSj6u5cevemdGd) | [Before Sunrise](https://open.spotify.com/album/2Q31TgtwPhJBtfqwugotBC) | 3:00 | 2024-02-02 |  |
+| [Before Sunrise](https://open.spotify.com/track/3ZuljegwK9qaCU6YsOT4r3) | [Nagam](https://open.spotify.com/artist/6RfUxJHuVIllzy1KE8rLiu), [mac gray](https://open.spotify.com/artist/1MQuOJzZbSj6u5cevemdGd) | [Before Sunrise](https://open.spotify.com/album/2Q31TgtwPhJBtfqwugotBC) | 3:00 | 2024-02-02 | 2024-04-26 |
 | [Better Way To Live](https://open.spotify.com/track/1ifVrAQPH2DZ3FBFu48rFw) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU), [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE) | [Better Way To Live](https://open.spotify.com/album/5gXiWUFAEycihknbHFFRUM) | 3:01 | 2024-02-02 |  |
 | [Big Pharma \(Withdrawal\)](https://open.spotify.com/track/2PrAI62XtqYSaubDYT7vNP) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Big Pharma \(Withdrawal\)](https://open.spotify.com/album/49oxEaMua1ht601M4JTuos) | 2:53 | 2024-02-02 | 2024-04-19 |
 | [Bite The Bridle](https://open.spotify.com/track/0JXpD5lU9n90gDarg4cmfO) | [Niamh Bury](https://open.spotify.com/artist/44VP4ZxUIYVngSNENOGRme) | [Yellow Roses](https://open.spotify.com/album/1lfS72EEXZ2Pz1OIMXdRi0) | 4:16 | 2024-03-29 |  |
@@ -29,9 +29,10 @@
 | [board games](https://open.spotify.com/track/4443fSuLl236FMsPXf9Zvt) | [katie phelan](https://open.spotify.com/artist/7g4ZlfLhJhCxpaMPUH2PY4) | [board games](https://open.spotify.com/album/3oaGwQVhXpIqZiZJUFtCtv) | 2:55 | 2024-02-02 | 2024-03-02 |
 | [Body Issues](https://open.spotify.com/track/3tcZIF1c2vKv7eTMDuS8aD) | [Ellen O'Meara](https://open.spotify.com/artist/1DdpdoDBbLsNfyDQTvdXST) | [Body Issues](https://open.spotify.com/album/7t3648j4XIiHuZeLTvI26R) | 3:08 | 2024-04-11 |  |
 | [Boyfriend](https://open.spotify.com/track/7HQ1uP9ljzPXe6qgaOlFgc) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [Boyfriend](https://open.spotify.com/album/5AwxyJ0KmVm17VWaH1Hybu) | 2:54 | 2024-04-05 |  |
+| [bus \(how i found joy in working with such kind eyes\)](https://open.spotify.com/track/1j3BXo6lxVOnljN5P5JgSK) | [racecarbed](https://open.spotify.com/artist/5u7mnQsIPpSlEKMUCkR465), [Tadhg Kelly](https://open.spotify.com/artist/1ttQl0EtMIDLhZFz5C6oNf) | [RACECARDEAD](https://open.spotify.com/album/2I1d8RpInkvnIvwnaNeNRm) | 3:37 | 2024-04-25 |  |
 | [Chelsea Bakery](https://open.spotify.com/track/4nFnrQgocP9fvcF5lOO87t) | [Fizzy Orange](https://open.spotify.com/artist/1hSt79a7e2OZzSD3pJgtCZ) | [Chelsea Bakery](https://open.spotify.com/album/02DHWSoYSF7Q0oyuBO18Pc) | 2:57 | 2024-02-16 |  |
 | [Cherry Delight](https://open.spotify.com/track/4w2rs45lbR16nWa7UclbzN) | [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9), [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [Cherry Delight](https://open.spotify.com/album/5J3jmFBDseDbLmrtto1bcy) | 2:57 | 2024-02-02 | 2024-03-02 |
-| [Chess](https://open.spotify.com/track/3KMoXqNDbTFMXcZUs6MWUp) | [LYRA](https://open.spotify.com/artist/0yZG22ntdDqVCFIulOTc8x) | [Chess](https://open.spotify.com/album/3dALI1Y4N2D5D0oV09aWrO) | 3:11 | 2024-02-02 |  |
+| [Chess](https://open.spotify.com/track/3KMoXqNDbTFMXcZUs6MWUp) | [LYRA](https://open.spotify.com/artist/0yZG22ntdDqVCFIulOTc8x) | [Chess](https://open.spotify.com/album/3dALI1Y4N2D5D0oV09aWrO) | 3:11 | 2024-02-02 | 2024-04-26 |
 | [Chris Pratt](https://open.spotify.com/track/6JOGJuVv7MKNbubKUwhU45) | [Róisín O](https://open.spotify.com/artist/7nsv8ov54a8qlNXwhEkgkr) | [Chris Pratt](https://open.spotify.com/album/1Bkd5tNY4W4Oo78U4vDply) | 3:51 | 2024-02-02 | 2024-03-15 |
 | [daisy chains](https://open.spotify.com/track/5coXwSihPzuc42bOUvYRMf) | [SPIDER](https://open.spotify.com/artist/4SKFiKjEPLdlpXSOQZhlsi) | [daisy chains](https://open.spotify.com/album/1NT8wYazcYMt7ejaU3mrhh) | 2:45 | 2024-02-02 |  |
 | [Day By Day](https://open.spotify.com/track/7qnmJKc7wqNrKP8Rkxcdyw) | [Alex Konchar](https://open.spotify.com/artist/0j7yukxKXLsF3DZZhwpyW0) | [Day By Day](https://open.spotify.com/album/74MQXYjrUQbJ7W818qOUw7) | 2:08 | 2024-03-01 |  |
@@ -45,7 +46,7 @@
 | [Double Cherry](https://open.spotify.com/track/2pWRAZ9e1np1iN6IbfX7tI) | [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [Double Cherry](https://open.spotify.com/album/2q6dNc37YCB2ebo0pGGlhW) | 2:57 | 2024-03-29 |  |
 | [elegy](https://open.spotify.com/track/6mD8j5V2vq7B7Ut50RcPVM) | [glasseyed](https://open.spotify.com/artist/3Y38CJx9If6ZXXTWhKUjDG) | [elegy](https://open.spotify.com/album/5Xy2nSptvYN8FODDFXiJFZ) | 3:15 | 2024-02-02 |  |
 | [Endless Nights](https://open.spotify.com/track/4V50U0qH1s72n2J8Kxavdu) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Victory](https://open.spotify.com/album/4T0KHJNt0mCuAyXSXfhQc3) | 3:11 | 2024-02-02 | 2024-02-16 |
-| [fall](https://open.spotify.com/track/3uXd797WQGCiuEFPz9TVtM) | [new teeth](https://open.spotify.com/artist/4QUzOO8ZbUor3180J86hMa) | [fall](https://open.spotify.com/album/5lRPg4vIBciZ0EEqRJQ4Nu) | 4:03 | 2024-02-02 |  |
+| [fall](https://open.spotify.com/track/3uXd797WQGCiuEFPz9TVtM) | [new teeth](https://open.spotify.com/artist/4QUzOO8ZbUor3180J86hMa) | [fall](https://open.spotify.com/album/5lRPg4vIBciZ0EEqRJQ4Nu) | 4:03 | 2024-02-02 | 2024-04-26 |
 | [Falling From Hell](https://open.spotify.com/track/4BZEczZvBsPhiQN17m8y4M) | [SOPHIE DOYLE RYDER](https://open.spotify.com/artist/5QCok3NH6vAlK12mUElHeZ) | [Falling From Hell](https://open.spotify.com/album/412fwKuOh9cJJ6bLKz8rkW) | 3:08 | 2024-02-02 | 2024-03-22 |
 | [Follow Me](https://open.spotify.com/track/5g5lGBblSV6M0XMveLlGRn) | [Lucy McWilliams](https://open.spotify.com/artist/41AscmNq0sWTYo4gRCp21k) | [Follow Me](https://open.spotify.com/album/4Vn7Y2GexjvoLqp8Mwf8pH) | 3:59 | 2024-02-02 |  |
 | [FourFour](https://open.spotify.com/track/6UESDM5sT8nzLNwzBSpapT) | [Pat Lagoon](https://open.spotify.com/artist/4WaDfJax1AahnapPlsWsDs) | [FourFour](https://open.spotify.com/album/4e8yfABATTvhRx35Vq6nmX) | 2:00 | 2024-02-02 | 2024-04-19 |
@@ -58,7 +59,7 @@
 | [i shouldn’t be here](https://open.spotify.com/track/20GibSptxBlsWlJRwWOsrB) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [i shouldn’t be here](https://open.spotify.com/album/2LywM7oEuEHwX5wofh6Gg7) | 3:06 | 2024-02-02 | 2024-03-29 |
 | [If The Shoe Fits](https://open.spotify.com/track/4IkaBc35ZYwa1CKUwyUhum) | [The Cliffords](https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja) | [If The Shoe Fits](https://open.spotify.com/album/2pDiTlS5ujC2LDsWOefnNS) | 3:31 | 2024-02-23 |  |
 | [If You Were Mine](https://open.spotify.com/track/2PhaGDLA9sgHUZV5oidTFQ) | [Robert John Ardiff](https://open.spotify.com/artist/6EGnIjpNcG5bArBuOxcgJ7) | [Once I Was](https://open.spotify.com/album/5MsCcv0akW9QgcJSoKSySx) | 4:53 | 2024-02-02 | 2024-04-12 |
-| [In The End](https://open.spotify.com/track/0EzrpH6IwHdPbZKHqtIS4Q) | [Fiona O' Connell](https://open.spotify.com/artist/0EycwYy6PGKtlZntaQThjr) | [In The End](https://open.spotify.com/album/2YhJJxFJUEh7yuRqOKHbAU) | 4:40 | 2024-02-02 |  |
+| [In The End](https://open.spotify.com/track/0EzrpH6IwHdPbZKHqtIS4Q) | [Fiona O' Connell](https://open.spotify.com/artist/0EycwYy6PGKtlZntaQThjr) | [In The End](https://open.spotify.com/album/2YhJJxFJUEh7yuRqOKHbAU) | 4:40 | 2024-02-02 | 2024-04-26 |
 | [INFINITY](https://open.spotify.com/track/2cBpwQbzk3MdkoaPNKpUN9) | [Rachel Mae Hannon](https://open.spotify.com/artist/4rwzqtDRqtNiXyoUuNl8Fc) | [INFINITY](https://open.spotify.com/album/078rjfb2B2LNh1FwQdngoT) | 3:05 | 2024-02-02 | 2024-03-29 |
 | [intertwined](https://open.spotify.com/track/4M4DHOpufNAUyZEQItTM5A) | [Layen\_](https://open.spotify.com/artist/2G4ZOA56VInkCSJ4q3D9ZY) | [intertwined](https://open.spotify.com/album/15gKDc6hSPIZ9Yx0AyzdeY) | 3:11 | 2024-02-02 |  |
 | [Kerosene](https://open.spotify.com/track/3TFPiUHCrjOFflFVtC4qJs) | [SAL](https://open.spotify.com/artist/7Bvp3oED3xilWSLnFBW369) | [Kerosene](https://open.spotify.com/album/4kwLx8Nn42e8XsrFN2Hdi3) | 4:29 | 2024-02-02 | 2024-04-05 |
@@ -91,8 +92,10 @@
 | [Only Human](https://open.spotify.com/track/7KRaAp2EwSxCLYAASWbbNV) | [Nealo](https://open.spotify.com/artist/0HR90wEU7v0pQRVsltcQKO) | [Only Human](https://open.spotify.com/album/0qvFjAc5SvaBExJ65LeWMr) | 2:34 | 2024-02-02 | 2024-03-15 |
 | [Open Ended](https://open.spotify.com/track/5SlEyBuGTGWvCCY7igLmny) | [Holly Munro](https://open.spotify.com/artist/2n9jieS7R5I7zRVKoYTziq) | [Open Ended](https://open.spotify.com/album/0ofMe7xxj2EZiFR9YVmBrw) | 3:24 | 2024-02-02 | 2024-02-23 |
 | [Our Time](https://open.spotify.com/track/0m3rJzSC3u0DAgRp8V5y0b) | [Luke Dunleavy](https://open.spotify.com/artist/2hrlyfscnm84Inpkn8hpga) | [Our Time](https://open.spotify.com/album/7uNkcvXJxHH3roLYAjBixB) | 2:30 | 2024-02-23 |  |
+| [Out of Style](https://open.spotify.com/track/1yYHHDEniESPk9iNFr5nyR) | [Holly Munro](https://open.spotify.com/artist/2n9jieS7R5I7zRVKoYTziq) | [Out of Style](https://open.spotify.com/album/4GWriL3zDCxyzpD2ZIpBjC) | 2:44 | 2024-04-25 |  |
 | [Outside](https://open.spotify.com/track/0I2xts4kga2ulOC3yM0roB) | [Syano](https://open.spotify.com/artist/58OyCAJb1NYuQMhCeuq8Rt), [SYGH](https://open.spotify.com/artist/5uVm4NbxKsMNTQF3KXGzPN) | [Outside](https://open.spotify.com/album/5DU1INumD6DSbYL4odHEkG) | 2:54 | 2024-02-02 |  |
 | [Paris](https://open.spotify.com/track/4KxQWXimKCGVTatrSwmrYw) | [Evie](https://open.spotify.com/artist/1kOS484jvPsfcdWNpKEGG9) | [Paris](https://open.spotify.com/album/6IxEWhtC68ce07yxKnwydM) | 3:46 | 2024-04-05 |  |
+| [Passenger Seat](https://open.spotify.com/track/1d0fuygCq7natWK8kelMoY) | [Aimée](https://open.spotify.com/artist/6kiGJNxa3SvcQWfCrqL1sb) | [Passenger Seat](https://open.spotify.com/album/3NFGSk4DZw8ne96ApAJyqY) | 3:44 | 2024-04-25 |  |
 | [People](https://open.spotify.com/track/0xi7qZJw7b1colPIEGG8bB) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [People](https://open.spotify.com/album/3FFC8lDz8RhvpHtO89NLix) | 3:44 | 2024-02-02 | 2024-03-08 |
 | [Plans](https://open.spotify.com/track/73wrWfbOAms1ZouKuBuh0D) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [Plans](https://open.spotify.com/album/3fGvMYRJ29zRyoHfsPU9z6) | 2:55 | 2024-02-02 | 2024-03-29 |
 | [Pretty Happy Alone](https://open.spotify.com/track/1qwG5MyG0BnBDzAWOfLusM) | [The Love Buzz](https://open.spotify.com/artist/103TWTu6vxVZ9g6eqA1ntP) | [Pretty Happy Alone](https://open.spotify.com/album/4CflMNEveOX5PvgU1MHUXq) | 3:02 | 2024-03-22 |  |
@@ -107,6 +110,7 @@
 | [Sentences](https://open.spotify.com/track/2MI97Z7aN6BsMUpKjGs6MJ) | [Annika Kilkenny](https://open.spotify.com/artist/6BPf3YvvXG87cFZPT9WQgx) | [Sentences](https://open.spotify.com/album/4vduPHyboJB0uaGjft8I8b) | 2:13 | 2024-02-23 | 2024-04-05 |
 | [Shadow](https://open.spotify.com/track/3hgmSLTBSBVBlxOF0xV01r) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Shadow EP](https://open.spotify.com/album/1UTIEbg5uN419e3TVEAfOV) | 2:47 | 2024-03-08 |  |
 | [Shattered Glass](https://open.spotify.com/track/47MS05AWVBYVGEkJ3MJQOW) | [The Cliffords](https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja) | [Strawberry Scented](https://open.spotify.com/album/25McKcaobPvzgOGdgrxbxX) | 5:37 | 2024-04-11 |  |
+| [She Stays West](https://open.spotify.com/track/4iTlYXo5hFlZHfLfUvBne9) | [Chris Wong](https://open.spotify.com/artist/2D8z8s14OCbvuskrCEhSif) | [She Stays West](https://open.spotify.com/album/7jLhYP19n2Otr0jALno1t1) | 3:52 | 2024-04-25 |  |
 | [Shot In The Dark](https://open.spotify.com/track/0pK7Np2Rx6dYaNioN1i6np) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Shot In The Dark](https://open.spotify.com/album/67tb6jF9KTKzLlhc0HDk32) | 2:59 | 2024-02-02 | 2024-03-29 |
 | [situation blues](https://open.spotify.com/track/0M8fNSuSDNC9m0opdAs1xW) | [Jehnova](https://open.spotify.com/artist/1R8b9K6QEpHdV5c88fuH1n) | [IOU 5](https://open.spotify.com/album/3Y9QcveOO76ttyWBogog8D) | 3:07 | 2024-02-02 |  |
 | [Sleeping with Ghosts](https://open.spotify.com/track/4hWhhqRAQ8R4sEEefmh0Qc) | [The Cliffords](https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja) | [Sleeping with Ghosts](https://open.spotify.com/album/1Ta8PhMDJSAaslDscjexWg) | 4:22 | 2024-02-02 |  |

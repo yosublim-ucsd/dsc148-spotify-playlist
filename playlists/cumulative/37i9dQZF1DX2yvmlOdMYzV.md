@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-701 songs - 1 day 14 hr 22 min
+702 songs - 1 day 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Be My Summer](https://open.spotify.com/track/18QC5FsQ9FThInUrC6BScS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Be My Summer](https://open.spotify.com/album/1WStqZEbgRsqUNazxV7u9C) | 3:06 | 2023-07-21 | 2023-08-26 |
 | [Believe It](https://open.spotify.com/track/34Q2IJkAq6QbRHhEeDWOrl) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [nowhere, fast](https://open.spotify.com/album/1oEDfMIpHpl9pVZsqhFo2L) | 3:21 | 2024-04-12 |  |
 | [bend yr ear](https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Like Neptune](https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB) | 3:53 | 2023-03-10 |  |
-| [Best Feature](https://open.spotify.com/track/0ZrdBusEajQaIKl7jdJ8u4) | [CUBE](https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r), [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [Best Feature \(feat\. Devin Morrison\)](https://open.spotify.com/album/1GcA64V8B5DPt5QxVj7aF3) | 3:23 | 2023-02-07 |  |
+| [Best Feature](https://open.spotify.com/track/0ZrdBusEajQaIKl7jdJ8u4) | [CUBE](https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r), [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [Best Feature \(feat\. Devin Morrison\)](https://open.spotify.com/album/1GcA64V8B5DPt5QxVj7aF3) | 3:23 | 2023-02-07 | 2024-04-26 |
 | [Better Care](https://open.spotify.com/track/0ObifqYUwrZOSDSkgJMGLf) | [UNA MIA](https://open.spotify.com/artist/0wWj7u5D7ksVZp8qVuCuz0) | [Better Care](https://open.spotify.com/album/7ESHyi4MorUD8bQ9qKcs6Y) | 3:26 | 2024-02-09 |  |
 | [Better Care \- Remix](https://open.spotify.com/track/0vxQhrAQYLElaXMh2EFB4l) | [UNA MIA](https://open.spotify.com/artist/0wWj7u5D7ksVZp8qVuCuz0), [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Better Care \(Remix\)](https://open.spotify.com/album/45CNxXO0n5ZWhp1RtquSLR) | 3:39 | 2024-03-22 |  |
 | [better than me](https://open.spotify.com/track/4xSV6XMbiEN5ZlJeKBGSTk) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [with love\. x](https://open.spotify.com/album/4YHQJ6xn5SmN5N8esu03ve) | 3:01 | 2024-04-12 |  |
@@ -562,6 +562,7 @@
 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 | 2023-02-07 | 2023-03-11 |
 | [So Bad](https://open.spotify.com/track/4kmlQ6MDn6ZyUhUx8pgMb2) | [Eric Ryan](https://open.spotify.com/artist/7zFbJFKex3lnJNDj8cWeKp), [Maria\-Therese](https://open.spotify.com/artist/5G7CkGWwTk7l36L6vw0ftK) | [So Bad](https://open.spotify.com/album/5zBeEusP8lQzVO1rrkmdZf) | 2:50 | 2023-11-10 | 2023-12-09 |
 | [So Deep](https://open.spotify.com/track/1f0uvcwDkoPsA8Eu20yZSt) | [Brianna Knight](https://open.spotify.com/artist/5CnW6JHWxmeApnMuuYxw6O) | [So Deep](https://open.spotify.com/album/0mUyXlMStOGpm78GkZfAqf) | 2:58 | 2021-12-15 | 2022-07-29 |
+| [So Familiar](https://open.spotify.com/track/2RjDCbFsTDqdVe3wbWVFx7) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [So Familiar](https://open.spotify.com/album/5uhr4pmLpjl3iFgjerrnEb) | 3:58 | 2024-04-19 |  |
 | [So Good At Being in Trouble](https://open.spotify.com/track/5VarZFY00sO54HErJ3TPCI) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [II](https://open.spotify.com/album/41C5iULlHU9sMYiekI75Pn) | 3:50 | 2021-12-15 | 2022-04-21 |
 | [So High](https://open.spotify.com/track/1yvSMyZn27M4wEslpSvB0D) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Purrr!](https://open.spotify.com/album/6qLRpElUtErtN1VJa8tS5Y) | 3:19 | 2022-06-30 | 2022-09-03 |
 | [so into you](https://open.spotify.com/track/46FCQmvdSmTnYiPpLz1GA8) | [Flowervillain](https://open.spotify.com/artist/4wvOIqxZnMlkGJnpdhwLkx) | [so into you](https://open.spotify.com/album/5PwrwplonQuWvXzBJogCs3) | 3:43 | 2021-12-15 | 2022-02-12 |

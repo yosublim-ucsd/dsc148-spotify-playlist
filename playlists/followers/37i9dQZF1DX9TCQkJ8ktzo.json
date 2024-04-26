@@ -1,8 +1,8 @@
 {
-  "2024-04-25": 36613,
+  "2024-04-26": 36628,
   "date_first_scraped": "2022-04-20",
-  "description": "This is the Latin soundtrack of the 60s! Cover: Roc\u00edo D\u00farcal",
-  "name": "60s Latino",
+  "description": "The Latin soundtrack of the 60s! Cover: Armando Manzanero",
+  "name": "Los 60s",
   "tracks": [
     {
       "album": {
@@ -17,7 +17,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 216426,
       "name": "Acomp\u00e1\u00f1ame",
       "url": "https://open.spotify.com/track/0dPBq1rs38TRpp2aQEioPe"
@@ -71,7 +71,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 141666,
       "name": "Adoro",
       "url": "https://open.spotify.com/track/00qP28OLPa3PQ7EmWBsaMK"
@@ -89,7 +89,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-18",
+      "date_removed": null,
       "duration_ms": 144666,
       "name": "Adoro",
       "url": "https://open.spotify.com/track/0hE2ejWHfg5OpdoOnMjePG"
@@ -629,7 +629,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 123520,
       "name": "Eres Diferente",
       "url": "https://open.spotify.com/track/5kdj2yC3I0uqohVuTAvrkf"
@@ -1109,7 +1109,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 185093,
       "name": "Maria Elena",
       "url": "https://open.spotify.com/track/1vve0rYomwnvFct5ptRQrf"
@@ -1145,7 +1145,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 192506,
       "name": "Me Siento Loco",
       "url": "https://open.spotify.com/track/2brVDUF6cn2b8451RSEbVz"
@@ -1386,6 +1386,24 @@
     },
     {
       "album": {
+        "name": "Personalidad",
+        "url": "https://open.spotify.com/album/4fVeZv12kCMzF72ve0HwWZ"
+      },
+      "artists": [
+        {
+          "name": "Los Teen Tops",
+          "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202840,
+      "name": "Pensaba en Ti",
+      "url": "https://open.spotify.com/track/5NM7BTvP4yr58JqwN3BYGm"
+    },
+    {
+      "album": {
         "name": "Mambo n. 5",
         "url": "https://open.spotify.com/album/2adit01KSpqheHndAbFhZx"
       },
@@ -1545,6 +1563,28 @@
       "duration_ms": 184613,
       "name": "Revolucionando",
       "url": "https://open.spotify.com/track/1U8ZiOh5FGOliIEUnQ0rjn"
+    },
+    {
+      "album": {
+        "name": "Canta En Espa\u00f1ol Con Los Panchos",
+        "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
+      },
+      "artists": [
+        {
+          "name": "Eydie Gorm\u00e9",
+          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
+        },
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168400,
+      "name": "Sabor a M\u00ed",
+      "url": "https://open.spotify.com/track/0Hja9zlVQHC768PsPjWscW"
     },
     {
       "album": {
@@ -1754,6 +1794,42 @@
     },
     {
       "album": {
+        "name": "Los \u00c9xitos en Espa\u00f1ol y Franc\u00e9s",
+        "url": "https://open.spotify.com/album/6wjhvF4EuYuZFcs5PpKzRn"
+      },
+      "artists": [
+        {
+          "name": "Les Surfs",
+          "url": "https://open.spotify.com/artist/5ZKI9KiIkT1VRgDOfawSjx"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146440,
+      "name": "Tu Seras Mi Baby",
+      "url": "https://open.spotify.com/track/4tko6GvGRI2Ege56DN9QNa"
+    },
+    {
+      "album": {
+        "name": "Rock - Lo Mejor De Los Locos Del Ritmo - Pioneros Del Rock En M\u00e9xico",
+        "url": "https://open.spotify.com/album/6hjdFdFkgLdMucS7yAghxK"
+      },
+      "artists": [
+        {
+          "name": "Los Locos Del Ritmo",
+          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205546,
+      "name": "Tus Ojos",
+      "url": "https://open.spotify.com/track/2ikdhRtBUIS1sBpN0j0ozp"
+    },
+    {
+      "album": {
         "name": "Palabra De Rey",
         "url": "https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW"
       },
@@ -1790,6 +1866,24 @@
     },
     {
       "album": {
+        "name": "Los \u00c9xitos de Mayte Gaos",
+        "url": "https://open.spotify.com/album/1wTS67I6XW53fxL2TvJiC3"
+      },
+      "artists": [
+        {
+          "name": "Mayte Gaos",
+          "url": "https://open.spotify.com/artist/2nWZrWrYWk8Y9gBtprx8Hb"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173560,
+      "name": "Vete Con Ella (Chappel of Love)",
+      "url": "https://open.spotify.com/track/3YjwaunKJ7iXhXj98eRRsM"
+    },
+    {
+      "album": {
         "name": "22 Superexitos (Idolos Norte\u00f1os y Texanos)",
         "url": "https://open.spotify.com/album/4F9UMuKXMXOd6Ypw0yCiRi"
       },
@@ -1819,7 +1913,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 125176,
       "name": "Ya no llores",
       "url": "https://open.spotify.com/track/3KNxku9f4YfcWHbTHnH5rG"

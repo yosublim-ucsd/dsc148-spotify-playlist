@@ -2,7 +2,7 @@
 
 ### [Tamil Romance](https://open.spotify.com/playlist/37i9dQZF1DWYfvJNWU1bKi)
 
-> The best in romantic tunes from Tamil cinema.<br/>Cover : Leo
+> The best in romantic tunes from Tamil cinema.<br/>Cover : Blue Star
 
 158 songs - 11 hr 37 min
 

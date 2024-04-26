@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: Pozer
+> Discover your new favourite artists from UK&IE\. Cover: SOAPBOX
 
-258 songs - 13 hr 55 min
+259 songs - 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [Steamroller](https://open.spotify.com/track/7f6Uk2JePkvU9J4LZPuDvr) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Postcards](https://open.spotify.com/album/510guXSY0ICHxh4vvblO3O) | 2:55 | 2022-11-11 | 2024-04-19 |
 | [Sternenhimmel](https://open.spotify.com/track/3g4JgXeSpv5wXGzdsDxCRi) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Sternenhimmel](https://open.spotify.com/album/2f0AGOZB1C803GlPxAEdXe) | 5:34 | 2022-07-28 |  |
 | [Stick Around](https://open.spotify.com/track/5uM8bC7dVn5v59zwQybe9d) | [ABISHA](https://open.spotify.com/artist/5NxlgxZ0yYlmCdy1jhUcDQ) | [Everything Falls Into Place](https://open.spotify.com/album/2R9HgibWqmnLNBlKSxxtiJ) | 2:19 | 2022-07-14 |  |
+| [Stiff Upper Lip](https://open.spotify.com/track/4vOs2zpYvQIaLp1zfU5xJz) | [SOAPBOX](https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO) | [HAWD THAT](https://open.spotify.com/album/7IBKsN43AlunQwU7scSCuA) | 2:34 | 2024-04-25 |  |
 | [Streetlights](https://open.spotify.com/track/1xvXkw437Ob7JE2L09KIjH) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Streetlights](https://open.spotify.com/album/6lEyQ7UXtPv3oipyWkDHzn) | 3:18 | 2022-04-07 |  |
 | [Strong for Me](https://open.spotify.com/track/2WMnEAUFH4TKjcPZDneOei) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Strong for Me](https://open.spotify.com/album/2TbAxmG8BQRmpmfzRZfEXl) | 3:31 | 2022-10-06 | 2024-04-19 |
 | [Strong for Me](https://open.spotify.com/track/5FKSyJV2e5Uqi5PQ9301O3) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Strong for Me](https://open.spotify.com/album/5ZOkyHXSDZo7OKQoJ2mu9x) | 3:31 | 2022-02-18 |  |

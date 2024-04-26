@@ -1,12 +1,12 @@
 {
   "description": "This Is Mumford & Sons. Los temas esenciales, todos en una lista.",
-  "num_followers": 470196,
+  "num_followers": 470252,
   "original_name": "This Is Mumford & Sons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzgzMDQwMCwwMDAwMDAwMDAwZWMxYjg2YzIxZTNmNWE0MWUzZjU2M2UyZjNjOTA3",
+  "snapshot_id": "MTcxMzkxNjgwMCwwMDAwMDAwMGZkZmQ3Yjg3MzkzZGE5NDMzNmM2ZDMyYzYyM2FkYmU0",
   "tracks": [
     {
       "added_at": null,
@@ -88,9 +88,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 218626,
-      "name": "Ditmas",
-      "url": "https://open.spotify.com/track/0XWfxQBDCKR7FTxBAENYXV"
+      "duration_ms": 220866,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/3OgZdIAHaDMOtYq8Z5iCQ5"
     },
     {
       "added_at": null,
@@ -160,9 +160,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 220866,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/3OgZdIAHaDMOtYq8Z5iCQ5"
+      "duration_ms": 218626,
+      "name": "Ditmas",
+      "url": "https://open.spotify.com/track/0XWfxQBDCKR7FTxBAENYXV"
     },
     {
       "added_at": null,

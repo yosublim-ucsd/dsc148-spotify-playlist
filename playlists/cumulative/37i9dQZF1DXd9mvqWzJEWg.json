@@ -629,6 +629,24 @@
     },
     {
       "album": {
+        "name": "Birthday Package",
+        "url": "https://open.spotify.com/album/6eoukCRil3Sxaa3sKjp6VX"
+      },
+      "artists": [
+        {
+          "name": "Afro Tech Boyz",
+          "url": "https://open.spotify.com/artist/79FvZ8T3TzuN1bDoEZuSlB"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309968,
+      "name": "Darkness",
+      "url": "https://open.spotify.com/track/0GITUMU9UcizPmOMPcshAp"
+    },
+    {
+      "album": {
         "name": "Malume Way",
         "url": "https://open.spotify.com/album/0wgxGNWdc7T1H7zmYRSkJD"
       },
@@ -714,6 +732,24 @@
       "duration_ms": 396640,
       "name": "Dirty Scooter",
       "url": "https://open.spotify.com/track/4al36LCHp4eEYc5op7O76p"
+    },
+    {
+      "album": {
+        "name": "The Art of 3, Vol. 2",
+        "url": "https://open.spotify.com/album/3MuUXRaKq2iB4zfkXraHUH"
+      },
+      "artists": [
+        {
+          "name": "Gqom Kids",
+          "url": "https://open.spotify.com/artist/0RV1WS9M92YN0qEACphYec"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216216,
+      "name": "Donderweer",
+      "url": "https://open.spotify.com/track/1EQSZd81gflUdDJmlMdXiY"
     },
     {
       "album": {
@@ -3014,6 +3050,36 @@
       "duration_ms": 382928,
       "name": "Silwa Ney Peaker",
       "url": "https://open.spotify.com/track/4NySnQ8ZKrsY9LCLRj0Y82"
+    },
+    {
+      "album": {
+        "name": "Singenzenjani",
+        "url": "https://open.spotify.com/album/0FJN7RrAgG7VrMSKKLj8FI"
+      },
+      "artists": [
+        {
+          "name": "DJ Tira",
+          "url": "https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn"
+        },
+        {
+          "name": "Amatycooler",
+          "url": "https://open.spotify.com/artist/4aT1nL2qkk47Kb6yvXV1Aw"
+        },
+        {
+          "name": "Big Nuz",
+          "url": "https://open.spotify.com/artist/0YeWW8LhLaoI9dM6YTFXKp"
+        },
+        {
+          "name": "Focus Magazi",
+          "url": "https://open.spotify.com/artist/0QFAqYVAB0nGOS8suGjP3W"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306744,
+      "name": "Singenzenjani",
+      "url": "https://open.spotify.com/track/21sqHPFTQjBPuLneQPm8FM"
     },
     {
       "album": {

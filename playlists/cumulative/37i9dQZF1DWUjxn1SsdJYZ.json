@@ -700,7 +700,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 173898,
       "name": "AUSSIE OI OI",
       "url": "https://open.spotify.com/track/5mm9T67XsFPLzQuPQOh34f"
@@ -2536,7 +2536,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 135813,
       "name": "Cleopatra",
       "url": "https://open.spotify.com/track/3Y11Cdb3yQqTlz6FyVmxQN"
@@ -2690,7 +2690,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 198518,
       "name": "COMMA'S",
       "url": "https://open.spotify.com/track/74yRaIwxJyrrb6gl2KyF5H"
@@ -3284,7 +3284,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 210989,
       "name": "Do it up",
       "url": "https://open.spotify.com/track/4py6nUdXXfh4yLUKOE4Kq9"
@@ -3360,7 +3360,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 131180,
       "name": "Don't Blink",
       "url": "https://open.spotify.com/track/35KRLrWjVyWcm8wJgxZ2Ci"
@@ -3596,7 +3596,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 204785,
       "name": "Drip (feat. SISO)",
       "url": "https://open.spotify.com/track/2eSQB2VwcZ7yDeeesgOVOr"
@@ -4450,7 +4450,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 148747,
       "name": "FORD FALCON",
       "url": "https://open.spotify.com/track/2CdzYtcHKqsjbq2deo3hfJ"
@@ -5424,7 +5424,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 233354,
       "name": "Gutta",
       "url": "https://open.spotify.com/track/125SOhYMAdBGsLdjHBRgTF"
@@ -8013,6 +8013,24 @@
     },
     {
       "album": {
+        "name": "Matter of Time",
+        "url": "https://open.spotify.com/album/29w9GVkRQRY33GIoJsMnz6"
+      },
+      "artists": [
+        {
+          "name": "DOBBY",
+          "url": "https://open.spotify.com/artist/1RW4O0kc1TxXivUceZyPad"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199623,
+      "name": "Matter of Time",
+      "url": "https://open.spotify.com/track/4yuuVDwE6hful5xQIuM5uW"
+    },
+    {
+      "album": {
         "name": "MBAPP\u00c9 (feat. KAHUKX)",
         "url": "https://open.spotify.com/album/0kQpqZ5BSPyA2JF6payfYS"
       },
@@ -8336,6 +8354,28 @@
       "duration_ms": 188108,
       "name": "More Life",
       "url": "https://open.spotify.com/track/2seoURSCaa0mVLqodKvnTF"
+    },
+    {
+      "album": {
+        "name": "MORE SENSE",
+        "url": "https://open.spotify.com/album/5D5qvdZZHcqjVvcs5sOlDO"
+      },
+      "artists": [
+        {
+          "name": "Speed Blacer",
+          "url": "https://open.spotify.com/artist/33yC9vwbeOzcjwcBShfH9k"
+        },
+        {
+          "name": "Ondre Reese",
+          "url": "https://open.spotify.com/artist/31JMbhm5flJSdOC9ix83rn"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268923,
+      "name": "MORE SENSE",
+      "url": "https://open.spotify.com/track/1I7vpzTz9YSfzIkGDT3eTL"
     },
     {
       "album": {
@@ -9059,6 +9099,28 @@
     },
     {
       "album": {
+        "name": "No Days Off",
+        "url": "https://open.spotify.com/album/1eped84p95mvcJwZ8RPDRO"
+      },
+      "artists": [
+        {
+          "name": "J Nui",
+          "url": "https://open.spotify.com/artist/7xmP7tgego8Sl1C0K5yWmU"
+        },
+        {
+          "name": "Emanuel Brown",
+          "url": "https://open.spotify.com/artist/1Kywxpr8keQxuQq1wGBYRu"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165470,
+      "name": "No Days Off",
+      "url": "https://open.spotify.com/track/6nYRoHLcYiOgbfUjxysetd"
+    },
+    {
+      "album": {
         "name": "No Fuss",
         "url": "https://open.spotify.com/album/4q3K09hKG3obFpgXFq3KAi"
       },
@@ -9110,7 +9172,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 124800,
       "name": "No Reason",
       "url": "https://open.spotify.com/track/02zVMezpAua7ZMmbzSyejO"
@@ -9376,7 +9438,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 142908,
       "name": "NYASH",
       "url": "https://open.spotify.com/track/0vf5Fs3wArIdzWCZ4RlLIw"
@@ -11544,7 +11606,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 150093,
       "name": "Seen It All",
       "url": "https://open.spotify.com/track/26RrUQL98FDB1MnNFYxLx7"
@@ -11962,7 +12024,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 204507,
       "name": "Solid & Real",
       "url": "https://open.spotify.com/track/7K9hmxpLhsyppfdlVL7PXN"
@@ -12312,7 +12374,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 131134,
       "name": "Street Life",
       "url": "https://open.spotify.com/track/7uoFdtzsyyPCKlNcaHqI6E"
@@ -12845,6 +12907,24 @@
     },
     {
       "album": {
+        "name": "Third Eye Freestyle",
+        "url": "https://open.spotify.com/album/4gR63oI4bg1dTUoAmMiJVm"
+      },
+      "artists": [
+        {
+          "name": "Eliezer",
+          "url": "https://open.spotify.com/artist/0IgKE9e29rcE4iFvjXog0Y"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74627,
+      "name": "Third Eye Freestyle",
+      "url": "https://open.spotify.com/track/4EclqeDyCPCECAYRTXc5JS"
+    },
+    {
+      "album": {
         "name": "THREATS",
         "url": "https://open.spotify.com/album/4edJaJjzKXWUcLtWbv5Hf0"
       },
@@ -13010,6 +13090,24 @@
       "duration_ms": 146676,
       "name": "TN's",
       "url": "https://open.spotify.com/track/3tmlUmwDwHgDgKxwCRHdqE"
+    },
+    {
+      "album": {
+        "name": "Tomato Sauce",
+        "url": "https://open.spotify.com/album/1M80xdHYFjyq4Cb6BZ4v7f"
+      },
+      "artists": [
+        {
+          "name": "Sexton",
+          "url": "https://open.spotify.com/artist/0k4gmF1Uhpyb8uCHz2fGU2"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134946,
+      "name": "Tomato Sauce",
+      "url": "https://open.spotify.com/track/2GGEb7wUC47KliWam2S7uB"
     },
     {
       "album": {
@@ -13658,7 +13756,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 146086,
       "name": "Un Besito",
       "url": "https://open.spotify.com/track/3YpmW8NtS7jZvOc4eJR914"
@@ -14084,7 +14182,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 187038,
       "name": "We Ride",
       "url": "https://open.spotify.com/track/0ZndP0d6W6ICRmSlKgMiS4"
@@ -14477,6 +14575,24 @@
     },
     {
       "album": {
+        "name": "WINTER 98",
+        "url": "https://open.spotify.com/album/6a3XeFhNjjbJ8HLnFGvqmP"
+      },
+      "artists": [
+        {
+          "name": "Nauti",
+          "url": "https://open.spotify.com/artist/092KdpZjWD8zs3asgQSwqQ"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126640,
+      "name": "WINTER 98",
+      "url": "https://open.spotify.com/track/4WaBMZdq5JEeZc0RRRfdyK"
+    },
+    {
+      "album": {
         "name": "Wish List",
         "url": "https://open.spotify.com/album/1qrPUHS3J1Una1PUuZfyRW"
       },
@@ -14590,7 +14706,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 119183,
       "name": "XMAS TRAP",
       "url": "https://open.spotify.com/track/3HQJsvOpRLEFHZzxJHUlYg"

@@ -1458,7 +1458,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 370862,
       "name": "Amandla",
       "url": "https://open.spotify.com/track/16nstjbrIeh0HA4MkiOvqY"
@@ -2074,7 +2074,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 332328,
       "name": "Ayihlale Phansi",
       "url": "https://open.spotify.com/track/29qYMwqS5NZ4hOUuEq2N0O"
@@ -4435,6 +4435,32 @@
     },
     {
       "album": {
+        "name": "Criminal (feat. Kah-Lo & BJ The Chicago Kid)",
+        "url": "https://open.spotify.com/album/05X0dZXNDwLdNP0sP3l0zJ"
+      },
+      "artists": [
+        {
+          "name": "Alice Ivy",
+          "url": "https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        },
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217243,
+      "name": "Criminal (feat. Kah-Lo & BJ The Chicago Kid)",
+      "url": "https://open.spotify.com/track/1etj360XIk6CFlAxuyYKBy"
+    },
+    {
+      "album": {
         "name": "Crying On The Dancefloor",
         "url": "https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7"
       },
@@ -5605,6 +5631,32 @@
     },
     {
       "album": {
+        "name": "Emotion",
+        "url": "https://open.spotify.com/album/2OhUilvZnuG4pJpKseLkAo"
+      },
+      "artists": [
+        {
+          "name": "Mhammed El Alami",
+          "url": "https://open.spotify.com/artist/10VgXLUtnERqoxZBwEabyI"
+        },
+        {
+          "name": "Ericsson",
+          "url": "https://open.spotify.com/artist/2YWH9rS0WkMBlvtGjgW4X1"
+        },
+        {
+          "name": "EGGSTA",
+          "url": "https://open.spotify.com/artist/6DtlUeAwcib4uc0CfcgYBz"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219052,
+      "name": "Emotion",
+      "url": "https://open.spotify.com/track/4mtRixukURYPTXJFTg1Cm5"
+    },
+    {
+      "album": {
         "name": "uMUZI",
         "url": "https://open.spotify.com/album/5xZs8qFEeWO56dl3AdF6nn"
       },
@@ -5890,6 +5942,36 @@
       "duration_ms": 450019,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/44lLQ17ZeYu8sPfibMv9cm"
+    },
+    {
+      "album": {
+        "name": "Ezizweni (Nitefreak Remix)",
+        "url": "https://open.spotify.com/album/0UvsgCBwKsYpkOBt0xdPaj"
+      },
+      "artists": [
+        {
+          "name": "Hyenah",
+          "url": "https://open.spotify.com/artist/1YUlJfwsUoerJd3mCK6Ccu"
+        },
+        {
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        },
+        {
+          "name": "DJ Tira",
+          "url": "https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn"
+        },
+        {
+          "name": "Luke Ntombela",
+          "url": "https://open.spotify.com/artist/0gxKZ0KGwSMOuZ1A0PtVmD"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209508,
+      "name": "Ezizweni (Nitefreak Remix)",
+      "url": "https://open.spotify.com/track/7HewQPen9NTYZdWdCbE6j3"
     },
     {
       "album": {
@@ -6466,7 +6548,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 226750,
       "name": "For You",
       "url": "https://open.spotify.com/track/3pFYhtejMNAjTkzVIkUkuQ"
@@ -6866,6 +6948,32 @@
       "duration_ms": 214942,
       "name": "Good Feeling (feat. Rhys Lewis)",
       "url": "https://open.spotify.com/track/7hmdTvWQgw2p8aG26MIdCO"
+    },
+    {
+      "album": {
+        "name": "Good Morning",
+        "url": "https://open.spotify.com/album/31P59gRrOBDO8zRbhEmRRk"
+      },
+      "artists": [
+        {
+          "name": "Floyd Lavine",
+          "url": "https://open.spotify.com/artist/5VjxZ6Ik0cmnVlXZ3in6nw"
+        },
+        {
+          "name": "Coflo",
+          "url": "https://open.spotify.com/artist/5cyFgv39M8BX9gjW2czyMk"
+        },
+        {
+          "name": "Rawb Boss",
+          "url": "https://open.spotify.com/artist/1CGgLRMyrQ5POtzYjeLKcC"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445440,
+      "name": "Good Morning",
+      "url": "https://open.spotify.com/track/2qZxw6wK5e4AiKDwRVpuVX"
     },
     {
       "album": {
@@ -8668,7 +8776,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 363585,
       "name": "Impendulo",
       "url": "https://open.spotify.com/track/530FzlkQy4SbifQE4lng9o"
@@ -9492,6 +9600,28 @@
       "duration_ms": 430301,
       "name": "It Is Well",
       "url": "https://open.spotify.com/track/3SajhWMnXhX2RaLeEdqXHq"
+    },
+    {
+      "album": {
+        "name": "Sekusile",
+        "url": "https://open.spotify.com/album/17EktvwMYBNNcXL4rXVai7"
+      },
+      "artists": [
+        {
+          "name": "Maline Aura",
+          "url": "https://open.spotify.com/artist/1LcX3ZFNBeGKxkpfCIr4cP"
+        },
+        {
+          "name": "Mpho.Wav",
+          "url": "https://open.spotify.com/artist/4l8MDydHy2RGwcGscG0uCB"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378500,
+      "name": "iThemba",
+      "url": "https://open.spotify.com/track/4Zb3pc30RA1QtXezj5heEr"
     },
     {
       "album": {
@@ -10676,7 +10806,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 310344,
       "name": "Lamo",
       "url": "https://open.spotify.com/track/1iOIcF7VllhkZ1AQP3rhJy"
@@ -12496,7 +12626,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 214146,
       "name": "Mina Nawe (Francis Mercier Rework)",
       "url": "https://open.spotify.com/track/6EuOHdrMhZb6KIGjxAp5Uu"
@@ -13452,6 +13582,32 @@
       "duration_ms": 282568,
       "name": "Neptune",
       "url": "https://open.spotify.com/track/7efopgAVYTRnhnCyJFxOAv"
+    },
+    {
+      "album": {
+        "name": "Never",
+        "url": "https://open.spotify.com/album/2bKaMNe7DDjXRHlmdho0gv"
+      },
+      "artists": [
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        },
+        {
+          "name": "Camer\u00f8n",
+          "url": "https://open.spotify.com/artist/6DF72UNKeFlipp9UZ2vRXH"
+        },
+        {
+          "name": "Lazarusman",
+          "url": "https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239375,
+      "name": "Never",
+      "url": "https://open.spotify.com/track/0OO9FgFioNaXMAJb6k4AqF"
     },
     {
       "album": {
@@ -16314,6 +16470,24 @@
       "duration_ms": 399678,
       "name": "Sebete",
       "url": "https://open.spotify.com/track/2ooGMDRwH5tqUpMAxuvmui"
+    },
+    {
+      "album": {
+        "name": "See The Light",
+        "url": "https://open.spotify.com/album/2MgKWEdCIRt4ofpJIgABvD"
+      },
+      "artists": [
+        {
+          "name": "Mr. Blas\u00e9",
+          "url": "https://open.spotify.com/artist/4E2V6Hm9zyOXmBtklwXSKd"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408758,
+      "name": "See The Light",
+      "url": "https://open.spotify.com/track/4dY2SIZQRp2LLZNXd4itE3"
     },
     {
       "album": {
@@ -20524,7 +20698,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 143253,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/7eUalfb6XYFlpM8LvHmsJD"
@@ -21762,6 +21936,28 @@
       "duration_ms": 229525,
       "name": "Yafaso (feat. Villa)",
       "url": "https://open.spotify.com/track/7dZD5roci3Ue5lRt0mSsKA"
+    },
+    {
+      "album": {
+        "name": "Kronan & Kaleta",
+        "url": "https://open.spotify.com/album/6PpT7RwurGi2WmIJo8FJDi"
+      },
+      "artists": [
+        {
+          "name": "Kronan",
+          "url": "https://open.spotify.com/artist/6AC7fqQQgNwXXpBa5bqyBr"
+        },
+        {
+          "name": "Kaleta",
+          "url": "https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170861,
+      "name": "Yamba Jump",
+      "url": "https://open.spotify.com/track/52TAucBl21tbNx6cV3m6T5"
     },
     {
       "album": {

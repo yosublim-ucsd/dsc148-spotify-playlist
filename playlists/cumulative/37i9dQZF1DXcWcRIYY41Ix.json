@@ -8863,6 +8863,28 @@
     },
     {
       "album": {
+        "name": "Todo aire",
+        "url": "https://open.spotify.com/album/1WQup3Fjz90NUT2EOsgFUF"
+      },
+      "artists": [
+        {
+          "name": "el nido",
+          "url": "https://open.spotify.com/artist/6o6UaIWvzYLItWbkQtUbka"
+        },
+        {
+          "name": "El Naan",
+          "url": "https://open.spotify.com/artist/6cZpo2gbRxfH8bkYPpRIDk"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201500,
+      "name": "Ronda al canto (A cielo abierto)",
+      "url": "https://open.spotify.com/track/0oSYjXfxfCcVbNoWZclRL6"
+    },
+    {
+      "album": {
         "name": "Ruegos y Dem\u00e1s",
         "url": "https://open.spotify.com/album/7If6XahI9AqBcHY7MiBvNf"
       },
@@ -11280,7 +11302,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 224375,
       "name": "\u00c1ngeles",
       "url": "https://open.spotify.com/track/1rLKzfFAUwUXlWK5ocaD7m"

@@ -1,33 +1,13 @@
 {
   "description": "The biggest house bangers popping off in the UK, let's go! Maur",
-  "num_followers": 744312,
+  "num_followers": 744350,
   "original_name": "UK House Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzc4ODQ3OCwwMDAwMDAwMGMwMDQ5MTA4M2Q3ZjBhY2VmNjFmNDZmNWVhZWVmYjQz",
+  "snapshot_id": "MTcxNDA4OTY2MCwwMDAwMDAwMDA2MmYzYWI3N2UyY2VmNzdmMDU5ZTg4MjMwZTA4MjNk",
   "tracks": [
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Mind Still (feat. blythe)",
-        "url": "https://open.spotify.com/album/5vQgixmnyYGp53WtWEfBtQ"
-      },
-      "artists": [
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        },
-        {
-          "name": "blythe",
-          "url": "https://open.spotify.com/artist/3a6XMXgL5f92tw3wX42kOC"
-        }
-      ],
-      "duration_ms": 156498,
-      "name": "Mind Still (feat. blythe)",
-      "url": "https://open.spotify.com/track/5698qx5K7VmYzeJ6O4WR7v"
-    },
     {
       "added_at": "2024-03-15 00:01:00",
       "album": {
@@ -53,22 +33,6 @@
       "url": "https://open.spotify.com/track/3nAYEZFHbgbWyR9ztORqlm"
     },
     {
-      "added_at": "2024-04-12 00:01:00",
-      "album": {
-        "name": "Ghetto EP",
-        "url": "https://open.spotify.com/album/0Yk2UyQvhV8Jx2AvvFYtev"
-      },
-      "artists": [
-        {
-          "name": "Hannah Wants",
-          "url": "https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI"
-        }
-      ],
-      "duration_ms": 214389,
-      "name": "Ghetto",
-      "url": "https://open.spotify.com/track/0NVG5DoB69ylg6MWbsNUH1"
-    },
-    {
       "added_at": "2024-03-29 00:01:00",
       "album": {
         "name": "All For You (feat. Joanna Cooke)",
@@ -89,20 +53,24 @@
       "url": "https://open.spotify.com/track/1lsDLxEZdtd2EgpN3j7kGZ"
     },
     {
-      "added_at": "2024-03-15 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "Sippin' Yak",
-        "url": "https://open.spotify.com/album/4BUST0vfVrEIgGszjVd9JD"
+        "name": "All That You Need (feat. Caroline Byrne)",
+        "url": "https://open.spotify.com/album/7jrTX2qU8wtMghbkLSpezV"
       },
       "artists": [
         {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "Caroline Byrne",
+          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
         }
       ],
-      "duration_ms": 146230,
-      "name": "Sippin' Yak",
-      "url": "https://open.spotify.com/track/1LldihpfcYdxAnCigKijW2"
+      "duration_ms": 178132,
+      "name": "All That You Need (feat. Caroline Byrne)",
+      "url": "https://open.spotify.com/track/5Bux5dq6CHM7pJLlrx8R3f"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -123,22 +91,74 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "All That You Need (feat. Caroline Byrne)",
-        "url": "https://open.spotify.com/album/7jrTX2qU8wtMghbkLSpezV"
+        "name": "Mind Still (feat. blythe)",
+        "url": "https://open.spotify.com/album/5vQgixmnyYGp53WtWEfBtQ"
       },
       "artists": [
         {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
         },
         {
-          "name": "Caroline Byrne",
-          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
+          "name": "blythe",
+          "url": "https://open.spotify.com/artist/3a6XMXgL5f92tw3wX42kOC"
         }
       ],
-      "duration_ms": 178132,
-      "name": "All That You Need (feat. Caroline Byrne)",
-      "url": "https://open.spotify.com/track/5Bux5dq6CHM7pJLlrx8R3f"
+      "duration_ms": 156498,
+      "name": "Mind Still (feat. blythe)",
+      "url": "https://open.spotify.com/track/5698qx5K7VmYzeJ6O4WR7v"
+    },
+    {
+      "added_at": "2024-04-12 00:01:00",
+      "album": {
+        "name": "Ghetto EP",
+        "url": "https://open.spotify.com/album/0Yk2UyQvhV8Jx2AvvFYtev"
+      },
+      "artists": [
+        {
+          "name": "Hannah Wants",
+          "url": "https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI"
+        }
+      ],
+      "duration_ms": 214389,
+      "name": "Ghetto",
+      "url": "https://open.spotify.com/track/0NVG5DoB69ylg6MWbsNUH1"
+    },
+    {
+      "added_at": "2024-03-15 00:01:00",
+      "album": {
+        "name": "Sippin' Yak",
+        "url": "https://open.spotify.com/album/4BUST0vfVrEIgGszjVd9JD"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "duration_ms": 146230,
+      "name": "Sippin' Yak",
+      "url": "https://open.spotify.com/track/1LldihpfcYdxAnCigKijW2"
+    },
+    {
+      "added_at": "2024-04-26 00:01:00",
+      "album": {
+        "name": "Saved By The Record (feat. Josh Barry)",
+        "url": "https://open.spotify.com/album/01IqI0cGvFILDNbSWeVuPC"
+      },
+      "artists": [
+        {
+          "name": "Sam Divine",
+          "url": "https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ"
+        },
+        {
+          "name": "Josh Barry",
+          "url": "https://open.spotify.com/artist/6oruQTIjrgFYzOSKhp7Kt6"
+        }
+      ],
+      "duration_ms": 202303,
+      "name": "Saved By The Record (feat. Josh Barry)",
+      "url": "https://open.spotify.com/track/0KQhwMvQHO17faalnd3Mjv"
     },
     {
       "added_at": "2024-02-23 10:50:36",
@@ -329,6 +349,22 @@
       "url": "https://open.spotify.com/track/6f1Zxmu7RduHlYmRjjVMAo"
     },
     {
+      "added_at": "2024-04-26 00:01:00",
+      "album": {
+        "name": "Never Be the Same",
+        "url": "https://open.spotify.com/album/2AA6qEJcwHJ7ioPKA9bE4L"
+      },
+      "artists": [
+        {
+          "name": "Coldabank",
+          "url": "https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA"
+        }
+      ],
+      "duration_ms": 142130,
+      "name": "Never Be the Same",
+      "url": "https://open.spotify.com/track/7iD8etSkjeKTr6EenwyDl9"
+    },
+    {
       "added_at": "2024-03-15 00:01:00",
       "album": {
         "name": "When I Close My Eyes",
@@ -477,6 +513,22 @@
       "url": "https://open.spotify.com/track/5iiYDUrzuEe4wO6nOGrD4y"
     },
     {
+      "added_at": "2024-04-26 00:01:00",
+      "album": {
+        "name": "Wait For Me",
+        "url": "https://open.spotify.com/album/2oEwrQXxQxrJTsmXRx00d0"
+      },
+      "artists": [
+        {
+          "name": "DJ S.K.T",
+          "url": "https://open.spotify.com/artist/05z4P0nQO00HG5WeErugd0"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Wait For Me",
+      "url": "https://open.spotify.com/track/1bHQCaCHzfqOLFQtIuNdXK"
+    },
+    {
       "added_at": "2024-03-22 00:01:00",
       "album": {
         "name": "Last Minute Dreamer",
@@ -504,7 +556,7 @@
           "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
         }
       ],
-      "duration_ms": 129843,
+      "duration_ms": 127500,
       "name": "In The Streets",
       "url": "https://open.spotify.com/track/7iACUyBFiz6Opfy0hZKIH5"
     },
@@ -531,26 +583,6 @@
     {
       "added_at": "2024-02-23 10:50:36",
       "album": {
-        "name": "Happier (feat. Clementine Douglas)",
-        "url": "https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o"
-      },
-      "artists": [
-        {
-          "name": "The Blessed Madonna",
-          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        }
-      ],
-      "duration_ms": 170358,
-      "name": "Happier (feat. Clementine Douglas)",
-      "url": "https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv"
-    },
-    {
-      "added_at": "2024-02-23 10:50:36",
-      "album": {
         "name": "That Sound (feat. Dope Earth Alien)",
         "url": "https://open.spotify.com/album/0DcVggpeCNz0CpQnK4vJgj"
       },
@@ -571,6 +603,42 @@
       "duration_ms": 166472,
       "name": "That Sound (feat. Dope Earth Alien)",
       "url": "https://open.spotify.com/track/2B3NVNUU84aAIq9lAlGIZn"
+    },
+    {
+      "added_at": "2024-02-23 10:50:36",
+      "album": {
+        "name": "Happier (feat. Clementine Douglas)",
+        "url": "https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "duration_ms": 170358,
+      "name": "Happier (feat. Clementine Douglas)",
+      "url": "https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv"
+    },
+    {
+      "added_at": "2024-04-26 00:01:00",
+      "album": {
+        "name": "Every Day, All Day",
+        "url": "https://open.spotify.com/album/5HJBTrqXERDJd1oxFDjWCh"
+      },
+      "artists": [
+        {
+          "name": "Murphy's Law (UK)",
+          "url": "https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "Every Day, All Day",
+      "url": "https://open.spotify.com/track/2wsVy2erS1Ty2VLmmmf00E"
     },
     {
       "added_at": "2024-04-12 00:01:00",
@@ -629,6 +697,22 @@
       "url": "https://open.spotify.com/track/0vLM3ziYI7BnG5xiYngV0a"
     },
     {
+      "added_at": "2024-04-26 00:01:00",
+      "album": {
+        "name": "Rhythm Section",
+        "url": "https://open.spotify.com/album/2Mrl3pd1XUL5tyeTeiZw5y"
+      },
+      "artists": [
+        {
+          "name": "JAKKOB",
+          "url": "https://open.spotify.com/artist/1eZYmDz6m5XXpZ1dzo70v0"
+        }
+      ],
+      "duration_ms": 391384,
+      "name": "Rhythm Section",
+      "url": "https://open.spotify.com/track/3ict1fFxr6foVkHpieqoFy"
+    },
+    {
       "added_at": "2024-03-22 00:01:00",
       "album": {
         "name": "In Your Soul EP",
@@ -669,6 +753,26 @@
       "url": "https://open.spotify.com/track/7mnB4psy9kv8FQDstlMYYZ"
     },
     {
+      "added_at": "2024-04-26 00:01:00",
+      "album": {
+        "name": "To L.A",
+        "url": "https://open.spotify.com/album/1phPikH4Q1gZpfAV3Tz2K4"
+      },
+      "artists": [
+        {
+          "name": "Tita Lau",
+          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
+        },
+        {
+          "name": "Bessey",
+          "url": "https://open.spotify.com/artist/2Y8520emzk5wmRe9zFSVzA"
+        }
+      ],
+      "duration_ms": 105503,
+      "name": "To L.A",
+      "url": "https://open.spotify.com/track/3tmNdhTHWSsSPFKjsNWuvU"
+    },
+    {
       "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "The Weekend / Control the Media",
@@ -683,6 +787,30 @@
       "duration_ms": 178921,
       "name": "The Weekend",
       "url": "https://open.spotify.com/track/1KEs5gnaNl40iM9Ytmq1DD"
+    },
+    {
+      "added_at": "2024-04-26 00:01:00",
+      "album": {
+        "name": "The Don",
+        "url": "https://open.spotify.com/album/0qGQYh3hi5EiIXaobMB3yV"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "Jay Robinson",
+          "url": "https://open.spotify.com/artist/1Jputnig8fuCuihen6n28Z"
+        },
+        {
+          "name": "Gabi'el",
+          "url": "https://open.spotify.com/artist/6fhN6RXbIZ26S3gfebpNYN"
+        }
+      ],
+      "duration_ms": 166237,
+      "name": "The Don",
+      "url": "https://open.spotify.com/track/6amFTa4qtw7wHiSKNZsBUw"
     },
     {
       "added_at": "2024-02-23 10:50:36",
@@ -1069,30 +1197,6 @@
       "url": "https://open.spotify.com/track/3zULmVC0d9EUr3pofDgZGJ"
     },
     {
-      "added_at": "2024-02-23 10:50:36",
-      "album": {
-        "name": "Cruel Intentions",
-        "url": "https://open.spotify.com/album/6jNQGxYOPEJTUaL3BA8Vro"
-      },
-      "artists": [
-        {
-          "name": "Hannah Wants",
-          "url": "https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI"
-        },
-        {
-          "name": "Sam Divine",
-          "url": "https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ"
-        },
-        {
-          "name": "Jem Cooke",
-          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
-        }
-      ],
-      "duration_ms": 222273,
-      "name": "Cruel Intentions",
-      "url": "https://open.spotify.com/track/6UF4Bj3prR1bNu8IW8zpzh"
-    },
-    {
       "added_at": "2024-03-08 00:01:00",
       "album": {
         "name": "La Trumpeta",
@@ -1283,22 +1387,6 @@
       "duration_ms": 154687,
       "name": "House Revelation",
       "url": "https://open.spotify.com/track/3gGgVL3gtnzr7j1jWLS8s3"
-    },
-    {
-      "added_at": "2024-02-23 10:50:36",
-      "album": {
-        "name": "BEATS FOR THE UNDERGROUND",
-        "url": "https://open.spotify.com/album/79kzvy6zqbSZsSIxVK3flH"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 214527,
-      "name": "BEATS FOR THE UNDERGROUND",
-      "url": "https://open.spotify.com/track/62bjfb5YMLvZU44vfjJVxp"
     },
     {
       "added_at": "2024-03-15 00:01:00",
@@ -1803,26 +1891,6 @@
     {
       "added_at": "2024-02-23 10:50:36",
       "album": {
-        "name": "Dance To The Music",
-        "url": "https://open.spotify.com/album/6zcnuO88B7AClFIH7kB9Vq"
-      },
-      "artists": [
-        {
-          "name": "Low Steppa",
-          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
-        },
-        {
-          "name": "Tony Romera",
-          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
-        }
-      ],
-      "duration_ms": 158095,
-      "name": "Dance To The Music",
-      "url": "https://open.spotify.com/track/0izF9lgQMFggcKXaia48Xa"
-    },
-    {
-      "added_at": "2024-02-23 10:50:36",
-      "album": {
         "name": "Make Me Feel (Like Dancing)",
         "url": "https://open.spotify.com/album/5dZNSi4ZP8vry4Lodq3BtQ"
       },
@@ -1859,26 +1927,6 @@
       "duration_ms": 241153,
       "name": "Slingshot",
       "url": "https://open.spotify.com/track/6F5XAqtXZ09t626dA6Ap4u"
-    },
-    {
-      "added_at": "2024-02-23 10:50:36",
-      "album": {
-        "name": "Body Music",
-        "url": "https://open.spotify.com/album/3N0R6pwcb92mzIpo0b8Ri3"
-      },
-      "artists": [
-        {
-          "name": "DLMT",
-          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
-        },
-        {
-          "name": "Kamino",
-          "url": "https://open.spotify.com/artist/6XYhu7HPIJ47SY98bY1Hnx"
-        }
-      ],
-      "duration_ms": 178646,
-      "name": "Body Music",
-      "url": "https://open.spotify.com/track/4CZMw21KNrUidU6S3L5GqU"
     },
     {
       "added_at": "2024-02-23 10:50:36",
@@ -1951,26 +1999,6 @@
     {
       "added_at": "2024-02-23 10:50:36",
       "album": {
-        "name": "All For You",
-        "url": "https://open.spotify.com/album/1IvCA1tB8GNQ5KzAJ9pm60"
-      },
-      "artists": [
-        {
-          "name": "Dombresky",
-          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
-        },
-        {
-          "name": "JADED",
-          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
-        }
-      ],
-      "duration_ms": 213095,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/0HMCP4nAPkUan3NQr6hSuT"
-    },
-    {
-      "added_at": "2024-02-23 10:50:36",
-      "album": {
         "name": "Downlow",
         "url": "https://open.spotify.com/album/569TqiABI8Uk1i8CmBbb4p"
       },
@@ -1983,26 +2011,6 @@
       "duration_ms": 158785,
       "name": "Downlow",
       "url": "https://open.spotify.com/track/6Ece791uQ8o15ZniaWmmvd"
-    },
-    {
-      "added_at": "2024-02-23 10:50:36",
-      "album": {
-        "name": "Won't U Take Me (Dam Swindle Remix - Edit)",
-        "url": "https://open.spotify.com/album/4XrzOBq9cjLmGlyYrOYuAV"
-      },
-      "artists": [
-        {
-          "name": "CINTHIE",
-          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
-        },
-        {
-          "name": "Dam Swindle",
-          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
-        }
-      ],
-      "duration_ms": 237461,
-      "name": "Won't U Take Me - Dam Swindle Remix - Edit",
-      "url": "https://open.spotify.com/track/2ig0ifvKlprwBMu3AYTOn5"
     },
     {
       "added_at": "2024-02-23 10:50:36",

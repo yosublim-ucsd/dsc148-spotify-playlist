@@ -1,6 +1,6 @@
 {
   "description": "Chill tunes to soundtrack your gaming session.",
-  "num_followers": 259133,
+  "num_followers": 259167,
   "original_name": "Chill Gaming",
   "owner": {
     "name": "Spotify",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-09-08 14:39:34",
       "album": {
-        "name": "Exo One (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/22rQYIwZ0eL57N6FQ3ixme"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lindsay",
-          "url": "https://open.spotify.com/artist/1LD84W4loy082VZ4Mw7Td8"
-        }
-      ],
-      "duration_ms": 65000,
-      "name": "Dead Metal",
-      "url": "https://open.spotify.com/track/7CCPRhIy6VHd4ZmquuIggW"
-    },
-    {
-      "added_at": "2023-09-08 14:39:34",
-      "album": {
         "name": "dark snowy night",
         "url": "https://open.spotify.com/album/0WnATwrpuFPvyTpqxo1R5O"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 211091,
       "name": "dark snowy night - Slowed & Reverb Version",
       "url": "https://open.spotify.com/track/05GNWCE3kGfTRIh2Zld3NH"
+    },
+    {
+      "added_at": "2023-09-08 14:39:34",
+      "album": {
+        "name": "Exo One (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/22rQYIwZ0eL57N6FQ3ixme"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lindsay",
+          "url": "https://open.spotify.com/artist/1LD84W4loy082VZ4Mw7Td8"
+        }
+      ],
+      "duration_ms": 65000,
+      "name": "Dead Metal",
+      "url": "https://open.spotify.com/track/7CCPRhIy6VHd4ZmquuIggW"
     },
     {
       "added_at": "2023-11-29 20:21:28",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-09-08 14:39:34",
       "album": {
-        "name": "one wish",
-        "url": "https://open.spotify.com/album/7dMV1akU13qe0zDVhOfWJn"
-      },
-      "artists": [
-        {
-          "name": "Unnholy",
-          "url": "https://open.spotify.com/artist/5um0tGaoeKhLVjLjPFG0UX"
-        }
-      ],
-      "duration_ms": 131946,
-      "name": "one wish",
-      "url": "https://open.spotify.com/track/4DgNUcwtWoessi8WgVqfKh"
-    },
-    {
-      "added_at": "2023-09-08 14:39:34",
-      "album": {
         "name": "Nirvana",
         "url": "https://open.spotify.com/album/4YakhJKIpxIx7HGD8WI4oz"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 105000,
       "name": "No Time Left",
       "url": "https://open.spotify.com/track/1ZHRQbm7S54eSKEhKiw1rl"
+    },
+    {
+      "added_at": "2023-09-08 14:39:34",
+      "album": {
+        "name": "one wish",
+        "url": "https://open.spotify.com/album/7dMV1akU13qe0zDVhOfWJn"
+      },
+      "artists": [
+        {
+          "name": "Unnholy",
+          "url": "https://open.spotify.com/artist/5um0tGaoeKhLVjLjPFG0UX"
+        }
+      ],
+      "duration_ms": 131946,
+      "name": "one wish",
+      "url": "https://open.spotify.com/track/4DgNUcwtWoessi8WgVqfKh"
     }
   ],
   "unique_name": "Chill Gaming",

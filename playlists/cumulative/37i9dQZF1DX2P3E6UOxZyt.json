@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "2024 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8a3c\u672a\u4f86\u5de8\u661f\uff01Cover: PIZZALI",
+  "description": "2024 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8a3c\u672a\u4f86\u5de8\u661f\uff01Cover: \u9112\u5e8f (Hogan)",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 136614,
       "name": "Alexis",
       "url": "https://open.spotify.com/track/5P5Xe5Mgv9jCSKE8ZBWoBi"
@@ -1261,6 +1261,28 @@
     },
     {
       "album": {
+        "name": "Galaxy official",
+        "url": "https://open.spotify.com/album/2ZF7aDkfknXIqRiaOMY14g"
+      },
+      "artists": [
+        {
+          "name": "Majin",
+          "url": "https://open.spotify.com/artist/6iQuZJoGAkn0UZcayx5fTl"
+        },
+        {
+          "name": "God \u00d8ne",
+          "url": "https://open.spotify.com/artist/0WoCJqLme8Jz2NrGXXdwNL"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196535,
+      "name": "Galaxy official",
+      "url": "https://open.spotify.com/track/5Jwxp0LAi6SueBzoFZzFL5"
+    },
+    {
+      "album": {
         "name": "Get Out Of My Life",
         "url": "https://open.spotify.com/album/1DzjVFvnV2ubg8rfGYrcPZ"
       },
@@ -1334,6 +1356,24 @@
       "duration_ms": 203424,
       "name": "Hate Myself",
       "url": "https://open.spotify.com/track/49CaHLWJB8Ot1vB2vAUcca"
+    },
+    {
+      "album": {
+        "name": "\u7d19\u98db\u6a5f",
+        "url": "https://open.spotify.com/album/6ihVhJds67m09BksN2MGKW"
+      },
+      "artists": [
+        {
+          "name": "\u6797\u6f54\u5fc3",
+          "url": "https://open.spotify.com/artist/3wVMSx6wqCYFZ6Q6vqIFCx"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "hate myself",
+      "url": "https://open.spotify.com/track/66WcY2zIeDXpToEfZCgoAj"
     },
     {
       "album": {
@@ -2294,8 +2334,8 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
-      "duration_ms": 221755,
+      "date_removed": null,
+      "duration_ms": 221758,
       "name": "Natural Smoke (feat.Andr)",
       "url": "https://open.spotify.com/track/3fZ836Q4EVbV0cToLqtKqd"
     },
@@ -4182,7 +4222,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 235436,
       "name": "\u4e5f\u8a31\u554a",
       "url": "https://open.spotify.com/track/2O8kejsRzK5WoygELquZzq"
@@ -4982,7 +5022,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 217124,
       "name": "\u53cd\u793e\u4ea4",
       "url": "https://open.spotify.com/track/1NN7kusqeGJq4n8MDGmDM8"
@@ -6159,6 +6199,24 @@
     },
     {
       "album": {
+        "name": "\u628a\u6c34\u958b\u8457",
+        "url": "https://open.spotify.com/album/37vIh6I03bNlWKlVMjGRK3"
+      },
+      "artists": [
+        {
+          "name": "\u9112\u5e8f",
+          "url": "https://open.spotify.com/artist/7lk9vXaiJOXeKd2ms7Ohh0"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216187,
+      "name": "\u5fd8\u8a18\u4e86",
+      "url": "https://open.spotify.com/track/7lfWPICAk6NkyZCtFeS7LO"
+    },
+    {
+      "album": {
         "name": "\u60b2\u50b7\u7684\u4e94\u500b\u6b65\u9a5f (Live Session)",
         "url": "https://open.spotify.com/album/2ABskKleNsgFb5qk7IXioh"
       },
@@ -6936,7 +6994,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 134794,
       "name": "\u6307\u91dd",
       "url": "https://open.spotify.com/track/4M8lN6T68TfZHSKlkddFY1"
@@ -8223,6 +8281,24 @@
     },
     {
       "album": {
+        "name": "\u74f6\u4e2d\u4fe1",
+        "url": "https://open.spotify.com/album/5CdEIaE3PzgSdSrobvasQ9"
+      },
+      "artists": [
+        {
+          "name": "PIZZALI",
+          "url": "https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "\u74f6\u4e2d\u4fe1",
+      "url": "https://open.spotify.com/track/3DnBzKHNsVSUH49on6xHBN"
+    },
+    {
+      "album": {
         "name": "\u7b49\u5f85\u88ab\u7406\u89e3\u7684\u4eba",
         "url": "https://open.spotify.com/album/21kTRBroWNrpXyp2IiYkrF"
       },
@@ -8790,7 +8866,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 139178,
       "name": "\u81ea\u7531\u7684\u98a8",
       "url": "https://open.spotify.com/track/1uONk3vGhr6wyxSOSPxSRb"
@@ -9945,7 +10021,7 @@
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 223846,
+      "duration_ms": 222500,
       "name": "\u9ad8\u6795\u7121\u6182",
       "url": "https://open.spotify.com/track/4FAPERZU7w7HoBmO4NDbmo"
     },

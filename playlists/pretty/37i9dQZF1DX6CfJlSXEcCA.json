@@ -1,6 +1,6 @@
 {
   "description": "Enjoy game soundtracks from Capcom! \u6700\u65b0\u4f5c\u304b\u3089\u904e\u53bb\u307e\u3067\u3001\u591a\u6570\u306e\u4eba\u6c17\u4f5c\u54c1\u3092\u751f\u307f\u51fa\u3057\u305f\u30ab\u30d7\u30b3\u30f3\u306e\u30b2\u30fc\u30e0\u30b5\u30f3\u30c8\u30e9\u3092\u304a\u5c4a\u3051\uff01\u00a9CAPCOM CO., LTD. ALL RIGHTS RESERVED.",
-  "num_followers": 34584,
+  "num_followers": 34590,
   "original_name": "This Is Capcom Sound Team",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,22 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
+        "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30cf\u30f3\u30bf\u30fc:\u30ef\u30fc\u30eb\u30c9 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0hU2xjMRQWN7zsawye1wfh"
+      },
+      "artists": [
+        {
+          "name": "TADAYOSHI MAKINO",
+          "url": "https://open.spotify.com/artist/58RrZSfiTZiUgjNvWO7vCt"
+        }
+      ],
+      "duration_ms": 271520,
+      "name": "\u661f\u306b\u99c6\u3089\u308c\u3066",
+      "url": "https://open.spotify.com/track/18wSghW2luxajMP9LfeGtx"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
         "name": "\u5927\u9006\u8ee2\u88c1\u52242 -\u6210\u6b69\u5802\u9f8d\u30ce\u4ecb\u306e\u89ba\u609f- \u5287\u4f34\u97f3\u6a02\u5927\u5168\u96c6",
         "url": "https://open.spotify.com/album/6eOTzkW3xOLBwG8zRfA2V4"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 167093,
       "name": "\u8ffd\u7a76 \u301c\u3064\u304d\u3068\u3081\u305f\u304f\u3066",
       "url": "https://open.spotify.com/track/4FkebXPfFd7uAm919xwFCC"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
-        "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30cf\u30f3\u30bf\u30fc:\u30ef\u30fc\u30eb\u30c9 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/0hU2xjMRQWN7zsawye1wfh"
-      },
-      "artists": [
-        {
-          "name": "TADAYOSHI MAKINO",
-          "url": "https://open.spotify.com/artist/58RrZSfiTZiUgjNvWO7vCt"
-        }
-      ],
-      "duration_ms": 271520,
-      "name": "\u661f\u306b\u99c6\u3089\u308c\u3066",
-      "url": "https://open.spotify.com/track/18wSghW2luxajMP9LfeGtx"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -343,22 +343,18 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "E.X.TROOPERS - END OF CONVERSATION",
-        "url": "https://open.spotify.com/album/5hHmRqbgktyVUM4OdUVG1F"
+        "name": "Devil May Cry 5 Special Edition Vergil`s Rebirth Sound Selection",
+        "url": "https://open.spotify.com/album/3Kfd2xPzl0IMidlxLbR2vk"
       },
       "artists": [
         {
-          "name": "Yasumasa Kitagawa",
-          "url": "https://open.spotify.com/artist/02rAgib3SCbMTFZuHSii3d"
-        },
-        {
-          "name": "Saori Hayami",
-          "url": "https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN"
+          "name": "Casey Edwards",
+          "url": "https://open.spotify.com/artist/1hGdQOfaZ5saQ6JWVuxVDZ"
         }
       ],
-      "duration_ms": 298874,
-      "name": "\u89e3\u653e\u30ec\u30be\u30ca\u30f3\u30b9 The Soar",
-      "url": "https://open.spotify.com/track/60o03jgMfwbnjqLItcPcTa"
+      "duration_ms": 580292,
+      "name": "Bury the Light",
+      "url": "https://open.spotify.com/track/0AnThwGdCVKyRT5sNRClgw"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -379,18 +375,22 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "Devil May Cry 5 Special Edition Vergil`s Rebirth Sound Selection",
-        "url": "https://open.spotify.com/album/3Kfd2xPzl0IMidlxLbR2vk"
+        "name": "E.X.TROOPERS - END OF CONVERSATION",
+        "url": "https://open.spotify.com/album/5hHmRqbgktyVUM4OdUVG1F"
       },
       "artists": [
         {
-          "name": "Casey Edwards",
-          "url": "https://open.spotify.com/artist/1hGdQOfaZ5saQ6JWVuxVDZ"
+          "name": "Yasumasa Kitagawa",
+          "url": "https://open.spotify.com/artist/02rAgib3SCbMTFZuHSii3d"
+        },
+        {
+          "name": "Saori Hayami",
+          "url": "https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN"
         }
       ],
-      "duration_ms": 580292,
-      "name": "Bury the Light",
-      "url": "https://open.spotify.com/track/0AnThwGdCVKyRT5sNRClgw"
+      "duration_ms": 298874,
+      "name": "\u89e3\u653e\u30ec\u30be\u30ca\u30f3\u30b9 The Soar",
+      "url": "https://open.spotify.com/track/60o03jgMfwbnjqLItcPcTa"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -447,18 +447,18 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "BIOHAZARD VILLAGE ORIGINAL SOUNDTRACK",
-        "url": "https://open.spotify.com/album/50PXqGjTFAWNNTghrzcviI"
+        "name": "\u30ed\u30c3\u30af\u30de\u30f3X3 \u30b5\u30a6\u30f3\u30c9 \u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/4RijHi8wFnQSdYt1TvQIpw"
       },
       "artists": [
         {
-          "name": "Brian D'Oliveira",
-          "url": "https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz"
+          "name": "Kinuyo Yamashita",
+          "url": "https://open.spotify.com/artist/1aQZ53vh1tmTROhWsBrJIx"
         }
       ],
-      "duration_ms": 362733,
-      "name": "Yearning for Dark Shadows",
-      "url": "https://open.spotify.com/track/6hlTkQb3dcL3ZXTnUGh1n3"
+      "duration_ms": 95040,
+      "name": "OPENING STAGE",
+      "url": "https://open.spotify.com/track/5TOzHUzLfUvLppskdhyCxZ"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -479,18 +479,18 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "\u30ed\u30c3\u30af\u30de\u30f3X3 \u30b5\u30a6\u30f3\u30c9 \u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
-        "url": "https://open.spotify.com/album/4RijHi8wFnQSdYt1TvQIpw"
+        "name": "BIOHAZARD VILLAGE ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/50PXqGjTFAWNNTghrzcviI"
       },
       "artists": [
         {
-          "name": "Kinuyo Yamashita",
-          "url": "https://open.spotify.com/artist/1aQZ53vh1tmTROhWsBrJIx"
+          "name": "Brian D'Oliveira",
+          "url": "https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz"
         }
       ],
-      "duration_ms": 95040,
-      "name": "OPENING STAGE",
-      "url": "https://open.spotify.com/track/5TOzHUzLfUvLppskdhyCxZ"
+      "duration_ms": 362733,
+      "name": "Yearning for Dark Shadows",
+      "url": "https://open.spotify.com/track/6hlTkQb3dcL3ZXTnUGh1n3"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -527,6 +527,22 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
+        "name": "\u30ed\u30c3\u30af\u30de\u30f3 \u30bc\u30ed4 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/5llJtMDrs4Kmtq8iEFZs9s"
+      },
+      "artists": [
+        {
+          "name": "Umegaki Runa",
+          "url": "https://open.spotify.com/artist/1EttdjOOkUtmSht8NjZ1ax"
+        }
+      ],
+      "duration_ms": 139266,
+      "name": "Esperanto",
+      "url": "https://open.spotify.com/track/70CUZtpLl7JYn5UJ99HkS4"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
         "name": "\u30ed\u30c3\u30af\u30de\u30f3 \u30e6\u30fc\u30c8\u30d4\u30a2",
         "url": "https://open.spotify.com/album/1tEipaGsZZ16UsutVOsFLx"
       },
@@ -543,18 +559,18 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "\u30ed\u30c3\u30af\u30de\u30f3 \u30bc\u30ed4 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/5llJtMDrs4Kmtq8iEFZs9s"
+        "name": "\u30ed\u30c3\u30af\u30de\u30f3X3 \u30b5\u30a6\u30f3\u30c9 \u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/4RijHi8wFnQSdYt1TvQIpw"
       },
       "artists": [
         {
-          "name": "Umegaki Runa",
-          "url": "https://open.spotify.com/artist/1EttdjOOkUtmSht8NjZ1ax"
+          "name": "Kinuyo Yamashita",
+          "url": "https://open.spotify.com/artist/1aQZ53vh1tmTROhWsBrJIx"
         }
       ],
-      "duration_ms": 139266,
-      "name": "Esperanto",
-      "url": "https://open.spotify.com/track/70CUZtpLl7JYn5UJ99HkS4"
+      "duration_ms": 114160,
+      "name": "GRAVITY BEETBOOD STAGE",
+      "url": "https://open.spotify.com/track/4WTdDF76GR9BZtLwawzNpv"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -623,22 +639,6 @@
       "duration_ms": 345666,
       "name": "Staff & Credits",
       "url": "https://open.spotify.com/track/1lmLc4iLgLIZ4MwQBTwXJq"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
-        "name": "\u30ed\u30c3\u30af\u30de\u30f3X3 \u30b5\u30a6\u30f3\u30c9 \u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
-        "url": "https://open.spotify.com/album/4RijHi8wFnQSdYt1TvQIpw"
-      },
-      "artists": [
-        {
-          "name": "Kinuyo Yamashita",
-          "url": "https://open.spotify.com/artist/1aQZ53vh1tmTROhWsBrJIx"
-        }
-      ],
-      "duration_ms": 114160,
-      "name": "GRAVITY BEETBOOD STAGE",
-      "url": "https://open.spotify.com/track/4WTdDF76GR9BZtLwawzNpv"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -755,6 +755,22 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
+        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9 RE:3 \u30b9\u30da\u30b7\u30e3\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7n9RHbGS7yppozv4MCa0qZ"
+      },
+      "artists": [
+        {
+          "name": "Masami Ueda",
+          "url": "https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU"
+        }
+      ],
+      "duration_ms": 338026,
+      "name": "Metamorphosis",
+      "url": "https://open.spotify.com/track/29QKto9Azhp4txmsaboUJo"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
         "name": "\u5e30\u3063\u3066\u304d\u305f \u9b54\u754c\u6751 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/4EPXj1UsxZa0R66wcZJ0nv"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 102588,
       "name": "\u30d7\u30ed\u30ed\u30fc\u30b0",
       "url": "https://open.spotify.com/track/5gvSlUXAeLekdqvUv1Zw7x"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
-        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9 RE:3 \u30b9\u30da\u30b7\u30e3\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/7n9RHbGS7yppozv4MCa0qZ"
-      },
-      "artists": [
-        {
-          "name": "Masami Ueda",
-          "url": "https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU"
-        }
-      ],
-      "duration_ms": 338026,
-      "name": "Metamorphosis",
-      "url": "https://open.spotify.com/track/29QKto9Azhp4txmsaboUJo"
     },
     {
       "added_at": "2021-06-30 15:18:23",

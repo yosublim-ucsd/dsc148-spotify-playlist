@@ -1,15 +1,51 @@
 {
-  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: Karun",
-  "num_followers": 29409,
+  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: Caleb Awiti",
+  "num_followers": 29450,
   "original_name": "NairoBae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ4NDc0MCwwMDAwMDAwMGY4NjVjOThlMmNkODZlMTE3M2VkZmJlMWEwMjlkYWJh",
+  "snapshot_id": "MTcxNDA4OTU0MCwwMDAwMDAwMGY3MmYzMGQ5YTk0M2Q4NTJmNzBkMzE5ZTk4ZjNjNTFl",
   "tracks": [
     {
-      "added_at": "2024-04-18 23:59:00",
+      "added_at": "2024-04-25 23:59:00",
+      "album": {
+        "name": "Kesho Kutwa",
+        "url": "https://open.spotify.com/album/0XnAxxYCazLOOpkV9GRrTt"
+      },
+      "artists": [
+        {
+          "name": "Ethan",
+          "url": "https://open.spotify.com/artist/16VZMbA7y5gwrxNG0q3wC1"
+        }
+      ],
+      "duration_ms": 252623,
+      "name": "Kesho Kutwa",
+      "url": "https://open.spotify.com/track/2imfnSWBgaAccQZvUISwly"
+    },
+    {
+      "added_at": "2024-04-25 23:59:00",
+      "album": {
+        "name": "Mombasa's Lover Boy",
+        "url": "https://open.spotify.com/album/3dCGhikw2kksr8OMi9HPft"
+      },
+      "artists": [
+        {
+          "name": "Caleb Awiti",
+          "url": "https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN"
+        },
+        {
+          "name": "Zowie Kengocha",
+          "url": "https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci"
+        }
+      ],
+      "duration_ms": 160610,
+      "name": "Failing Together",
+      "url": "https://open.spotify.com/track/73zD4vLARiNHzTB7EHqptA"
+    },
+    {
+      "added_at": "2024-04-25 23:59:00",
       "album": {
         "name": "REASON",
         "url": "https://open.spotify.com/album/3HsFIS5mJMqpisQXuwL0BN"
@@ -33,23 +69,7 @@
       "url": "https://open.spotify.com/track/1481IQC8BjqGLTer67cWbC"
     },
     {
-      "added_at": "2024-04-18 23:59:00",
-      "album": {
-        "name": "Kesho Kutwa",
-        "url": "https://open.spotify.com/album/0XnAxxYCazLOOpkV9GRrTt"
-      },
-      "artists": [
-        {
-          "name": "Ethan",
-          "url": "https://open.spotify.com/artist/16VZMbA7y5gwrxNG0q3wC1"
-        }
-      ],
-      "duration_ms": 252623,
-      "name": "Kesho Kutwa",
-      "url": "https://open.spotify.com/track/2imfnSWBgaAccQZvUISwly"
-    },
-    {
-      "added_at": "2024-04-18 23:59:00",
+      "added_at": "2024-04-25 23:59:00",
       "album": {
         "name": "Nitangoja",
         "url": "https://open.spotify.com/album/1gKLgM7RsLrCf3rx3Vh2ex"
@@ -65,7 +85,7 @@
       "url": "https://open.spotify.com/track/21eRcBcsRtuHjL2jSeMu7A"
     },
     {
-      "added_at": "2024-04-18 23:59:00",
+      "added_at": "2024-04-25 23:59:00",
       "album": {
         "name": "For Keeps - A COLORS SHOW",
         "url": "https://open.spotify.com/album/3KwVjyCfMY0FgYLZIJiGL3"
@@ -81,7 +101,7 @@
       "url": "https://open.spotify.com/track/0sdE23tPOZsVF6QLMCNIZl"
     },
     {
-      "added_at": "2024-04-18 23:59:00",
+      "added_at": "2024-04-25 23:59:00",
       "album": {
         "name": "Last Name",
         "url": "https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR"
@@ -97,7 +117,35 @@
       "url": "https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN"
     },
     {
-      "added_at": "2024-04-18 23:59:00",
+      "added_at": "2024-04-25 23:59:00",
+      "album": {
+        "name": "CLOSER",
+        "url": "https://open.spotify.com/album/4cSCZXFa68eNFY1pEeIzcW"
+      },
+      "artists": [
+        {
+          "name": "NNAVY",
+          "url": "https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu"
+        },
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
+        },
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        },
+        {
+          "name": "Hendrick Sam",
+          "url": "https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9"
+        }
+      ],
+      "duration_ms": 181861,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/5J1xo1NeFeSNgxtXajRBZL"
+    },
+    {
+      "added_at": "2024-04-25 23:59:00",
       "album": {
         "name": "Time Allows",
         "url": "https://open.spotify.com/album/5OaWBtvTwoJk01EuaIabeV"
@@ -113,7 +161,7 @@
       "url": "https://open.spotify.com/track/6Ge3IsYVNrekRzc9fiLtlb"
     },
     {
-      "added_at": "2024-04-18 23:59:00",
+      "added_at": "2024-04-25 23:59:00",
       "album": {
         "name": "I'm Here",
         "url": "https://open.spotify.com/album/2Rj3tI88QYmUcSiC1Mqsp6"
@@ -129,55 +177,7 @@
       "url": "https://open.spotify.com/track/7joutRkcXCkujSPf9x5WB3"
     },
     {
-      "added_at": "2024-04-18 23:59:00",
-      "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/1hKcd4AYQQDRlR9GpLxgaQ"
-      },
-      "artists": [
-        {
-          "name": "Nviiri The Storyteller",
-          "url": "https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p"
-        }
-      ],
-      "duration_ms": 232173,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/4gKQ9XVPxtUx2sGuwSMPso"
-    },
-    {
-      "added_at": "2024-04-18 23:59:00",
-      "album": {
-        "name": "Three",
-        "url": "https://open.spotify.com/album/6mZk2E17q8qAkITD4bB6IS"
-      },
-      "artists": [
-        {
-          "name": "Ntinyari",
-          "url": "https://open.spotify.com/artist/6mxky4PjUkwpCDOTdOeksC"
-        }
-      ],
-      "duration_ms": 188936,
-      "name": "Slowly (The Haux Stories)",
-      "url": "https://open.spotify.com/track/6h491wk8T2zQ8KqBc98wCu"
-    },
-    {
-      "added_at": "2024-04-18 23:59:00",
-      "album": {
-        "name": "Feelings Station",
-        "url": "https://open.spotify.com/album/6JQB8PzILyZHsYEMLejthu"
-      },
-      "artists": [
-        {
-          "name": "Moraa",
-          "url": "https://open.spotify.com/artist/3KXgIveLaCqHIvZPex0HE8"
-        }
-      ],
-      "duration_ms": 153253,
-      "name": "Fire on Fire",
-      "url": "https://open.spotify.com/track/4Tpa5kZ5rxalVF04xvThOo"
-    },
-    {
-      "added_at": "2024-04-18 23:59:00",
+      "added_at": "2024-04-25 23:59:00",
       "album": {
         "name": "What I See",
         "url": "https://open.spotify.com/album/1GeUTD1xqgMWH0qzOffTMX"
@@ -201,79 +201,23 @@
       "url": "https://open.spotify.com/track/7jDkmNjxPQ0F2b7D4agmTG"
     },
     {
-      "added_at": "2024-04-18 23:59:00",
+      "added_at": "2024-04-25 23:59:00",
       "album": {
-        "name": "Jioni",
-        "url": "https://open.spotify.com/album/2KLjotalInooY3FMPxYnFD"
+        "name": "Feelings Station",
+        "url": "https://open.spotify.com/album/6JQB8PzILyZHsYEMLejthu"
       },
       "artists": [
         {
-          "name": "Kinoti",
-          "url": "https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm"
-        },
-        {
-          "name": "Ethan",
-          "url": "https://open.spotify.com/artist/16VZMbA7y5gwrxNG0q3wC1"
+          "name": "Moraa",
+          "url": "https://open.spotify.com/artist/3KXgIveLaCqHIvZPex0HE8"
         }
       ],
-      "duration_ms": 234545,
-      "name": "Jioni",
-      "url": "https://open.spotify.com/track/5QSs2eM32gab8J9yjp2O8w"
+      "duration_ms": 153253,
+      "name": "Fire on Fire",
+      "url": "https://open.spotify.com/track/4Tpa5kZ5rxalVF04xvThOo"
     },
     {
-      "added_at": "2024-04-18 23:59:00",
-      "album": {
-        "name": "Jane",
-        "url": "https://open.spotify.com/album/04nFAFPbSLiJQRGPUIyi9i"
-      },
-      "artists": [
-        {
-          "name": "M. Rumbi",
-          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
-        },
-        {
-          "name": "Muthoni Njoroge",
-          "url": "https://open.spotify.com/artist/3UmkRFAyY476ELymys1RUP"
-        }
-      ],
-      "duration_ms": 177370,
-      "name": "Jane",
-      "url": "https://open.spotify.com/track/3zFJ8238lGHVMA8oJoCyHf"
-    },
-    {
-      "added_at": "2024-04-18 23:59:00",
-      "album": {
-        "name": "project - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/5tHWyhdLYInrDivcSPWpnC"
-      },
-      "artists": [
-        {
-          "name": "Zowie Kengocha",
-          "url": "https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci"
-        }
-      ],
-      "duration_ms": 208163,
-      "name": "project - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/0ZgroOYQAUzfcQYS6wibf9"
-    },
-    {
-      "added_at": "2024-04-18 23:59:00",
-      "album": {
-        "name": "Aki Wewe",
-        "url": "https://open.spotify.com/album/3zW32TzDG8V20HM7A8NdOO"
-      },
-      "artists": [
-        {
-          "name": "Kwame R\u00edg\u00edi",
-          "url": "https://open.spotify.com/artist/2YBmXbjqDbsGjTB9vMbuNf"
-        }
-      ],
-      "duration_ms": 267692,
-      "name": "Aki Wewe",
-      "url": "https://open.spotify.com/track/2ee6ViIobYyu2rLwiVmNIA"
-    },
-    {
-      "added_at": "2024-04-18 23:59:00",
+      "added_at": "2024-04-25 23:59:00",
       "album": {
         "name": "NIRVANA LOVE",
         "url": "https://open.spotify.com/album/7ijkHEy1BOqjt7i0jBFjiG"
@@ -297,7 +241,111 @@
       "url": "https://open.spotify.com/track/5pppSeKzMPgA7EvdmK50XA"
     },
     {
-      "added_at": "2024-04-18 23:59:00",
+      "added_at": "2024-04-25 23:59:00",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/1hKcd4AYQQDRlR9GpLxgaQ"
+      },
+      "artists": [
+        {
+          "name": "Nviiri The Storyteller",
+          "url": "https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p"
+        }
+      ],
+      "duration_ms": 232173,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/4gKQ9XVPxtUx2sGuwSMPso"
+    },
+    {
+      "added_at": "2024-04-25 23:59:00",
+      "album": {
+        "name": "Three",
+        "url": "https://open.spotify.com/album/6mZk2E17q8qAkITD4bB6IS"
+      },
+      "artists": [
+        {
+          "name": "Ntinyari",
+          "url": "https://open.spotify.com/artist/6mxky4PjUkwpCDOTdOeksC"
+        }
+      ],
+      "duration_ms": 188936,
+      "name": "Slowly (The Haux Stories)",
+      "url": "https://open.spotify.com/track/6h491wk8T2zQ8KqBc98wCu"
+    },
+    {
+      "added_at": "2024-04-25 23:59:00",
+      "album": {
+        "name": "Jioni",
+        "url": "https://open.spotify.com/album/2KLjotalInooY3FMPxYnFD"
+      },
+      "artists": [
+        {
+          "name": "Kinoti",
+          "url": "https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm"
+        },
+        {
+          "name": "Ethan",
+          "url": "https://open.spotify.com/artist/16VZMbA7y5gwrxNG0q3wC1"
+        }
+      ],
+      "duration_ms": 234545,
+      "name": "Jioni",
+      "url": "https://open.spotify.com/track/5QSs2eM32gab8J9yjp2O8w"
+    },
+    {
+      "added_at": "2024-04-25 23:59:00",
+      "album": {
+        "name": "Jane",
+        "url": "https://open.spotify.com/album/04nFAFPbSLiJQRGPUIyi9i"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Muthoni Njoroge",
+          "url": "https://open.spotify.com/artist/3UmkRFAyY476ELymys1RUP"
+        }
+      ],
+      "duration_ms": 177370,
+      "name": "Jane",
+      "url": "https://open.spotify.com/track/3zFJ8238lGHVMA8oJoCyHf"
+    },
+    {
+      "added_at": "2024-04-25 23:59:00",
+      "album": {
+        "name": "project - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5tHWyhdLYInrDivcSPWpnC"
+      },
+      "artists": [
+        {
+          "name": "Zowie Kengocha",
+          "url": "https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci"
+        }
+      ],
+      "duration_ms": 208163,
+      "name": "project - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/0ZgroOYQAUzfcQYS6wibf9"
+    },
+    {
+      "added_at": "2024-04-25 23:59:00",
+      "album": {
+        "name": "Aki Wewe",
+        "url": "https://open.spotify.com/album/3zW32TzDG8V20HM7A8NdOO"
+      },
+      "artists": [
+        {
+          "name": "Kwame R\u00edg\u00edi",
+          "url": "https://open.spotify.com/artist/2YBmXbjqDbsGjTB9vMbuNf"
+        }
+      ],
+      "duration_ms": 267692,
+      "name": "Aki Wewe",
+      "url": "https://open.spotify.com/track/2ee6ViIobYyu2rLwiVmNIA"
+    },
+    {
+      "added_at": "2024-04-25 23:59:00",
       "album": {
         "name": "Shelter",
         "url": "https://open.spotify.com/album/0VMCN0GaByNplAXw9lOLFW"
@@ -313,59 +361,7 @@
       "url": "https://open.spotify.com/track/4dLW9YgtBGCquFb0gs6HdR"
     },
     {
-      "added_at": "2024-04-18 23:59:00",
-      "album": {
-        "name": "SBLTLA",
-        "url": "https://open.spotify.com/album/6ZmoFJLKAUoNKzuxyQa8Xb"
-      },
-      "artists": [
-        {
-          "name": "Caleb Awiti",
-          "url": "https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN"
-        }
-      ],
-      "duration_ms": 119961,
-      "name": "SBLTLA",
-      "url": "https://open.spotify.com/track/4U4XZWxsMKtcd6lOVSZT1z"
-    },
-    {
-      "added_at": "2024-04-18 23:59:00",
-      "album": {
-        "name": "the one",
-        "url": "https://open.spotify.com/album/1r6ei26yZTJDOMktiyOAzE"
-      },
-      "artists": [
-        {
-          "name": "NGE-THE-PRODUCER",
-          "url": "https://open.spotify.com/artist/5oV5Wd6ZbxfzzlHqlOchXS"
-        },
-        {
-          "name": "Iyanah",
-          "url": "https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO"
-        }
-      ],
-      "duration_ms": 179047,
-      "name": "the one",
-      "url": "https://open.spotify.com/track/3N1kTwDdzYW0R6oHwkgENB"
-    },
-    {
-      "added_at": "2024-04-18 23:59:00",
-      "album": {
-        "name": "Wild Ride - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/4amcd3oEcwScFQDtGjSaQR"
-      },
-      "artists": [
-        {
-          "name": "Xenia Manasseh",
-          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
-        }
-      ],
-      "duration_ms": 162313,
-      "name": "Wild Ride - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/4Ypa7u8GYWX0u0wP5wntsU"
-    },
-    {
-      "added_at": "2024-04-18 23:59:00",
+      "added_at": "2024-04-25 23:59:00",
       "album": {
         "name": "Secret Lover",
         "url": "https://open.spotify.com/album/0aZpLxujAEhkWnYT9yeZe1"
@@ -385,7 +381,59 @@
       "url": "https://open.spotify.com/track/5wTCpN911fjwZYhnCYzX7k"
     },
     {
-      "added_at": "2024-04-18 23:59:00",
+      "added_at": "2024-04-25 23:59:00",
+      "album": {
+        "name": "SBLTLA",
+        "url": "https://open.spotify.com/album/6ZmoFJLKAUoNKzuxyQa8Xb"
+      },
+      "artists": [
+        {
+          "name": "Caleb Awiti",
+          "url": "https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN"
+        }
+      ],
+      "duration_ms": 119961,
+      "name": "SBLTLA",
+      "url": "https://open.spotify.com/track/4U4XZWxsMKtcd6lOVSZT1z"
+    },
+    {
+      "added_at": "2024-04-25 23:59:00",
+      "album": {
+        "name": "the one",
+        "url": "https://open.spotify.com/album/1r6ei26yZTJDOMktiyOAzE"
+      },
+      "artists": [
+        {
+          "name": "NGE-THE-PRODUCER",
+          "url": "https://open.spotify.com/artist/5oV5Wd6ZbxfzzlHqlOchXS"
+        },
+        {
+          "name": "Iyanah",
+          "url": "https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO"
+        }
+      ],
+      "duration_ms": 179047,
+      "name": "the one",
+      "url": "https://open.spotify.com/track/3N1kTwDdzYW0R6oHwkgENB"
+    },
+    {
+      "added_at": "2024-04-25 23:59:00",
+      "album": {
+        "name": "Wild Ride - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4amcd3oEcwScFQDtGjSaQR"
+      },
+      "artists": [
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "duration_ms": 162313,
+      "name": "Wild Ride - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/4Ypa7u8GYWX0u0wP5wntsU"
+    },
+    {
+      "added_at": "2024-04-25 23:59:00",
       "album": {
         "name": "Kesho",
         "url": "https://open.spotify.com/album/5Fpjo8qf72pfBNEy80XpNK"
@@ -401,7 +449,7 @@
       "url": "https://open.spotify.com/track/3DnDhuYVRRGWTT9rYvCKNW"
     },
     {
-      "added_at": "2024-04-18 23:59:00",
+      "added_at": "2024-04-25 23:59:00",
       "album": {
         "name": "Closer To Me",
         "url": "https://open.spotify.com/album/3CRiDFu1JxHKZ9bij10BoA"
@@ -417,7 +465,7 @@
       "url": "https://open.spotify.com/track/7mWYPdQS1MBEtWMHqAHjUa"
     },
     {
-      "added_at": "2024-04-18 23:59:00",
+      "added_at": "2024-04-25 23:59:00",
       "album": {
         "name": "Where Ya Been? - A COLORS SHOW",
         "url": "https://open.spotify.com/album/0oqzFS1ec6worWKBAzgolc"
@@ -433,7 +481,27 @@
       "url": "https://open.spotify.com/track/6am2YNS3MTz3SbWkBUY234"
     },
     {
-      "added_at": "2024-04-18 23:59:00",
+      "added_at": "2024-04-25 23:59:00",
+      "album": {
+        "name": "Let You Down",
+        "url": "https://open.spotify.com/album/6Up0QUA4FZV8K4xXvtzDom"
+      },
+      "artists": [
+        {
+          "name": "Nikita Kering'",
+          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
+        },
+        {
+          "name": "Kemena",
+          "url": "https://open.spotify.com/artist/0SGTAjot9GShYwCQ69DfG2"
+        }
+      ],
+      "duration_ms": 205575,
+      "name": "Let You Down",
+      "url": "https://open.spotify.com/track/3apziXJWNWQPmpTceYJSZZ"
+    },
+    {
+      "added_at": "2024-04-25 23:59:00",
       "album": {
         "name": "Wendo Mwaki - From Un-Adult-Erated",
         "url": "https://open.spotify.com/album/2mkFVIgMDrSG6BaHVQdFiM"
@@ -449,23 +517,7 @@
       "url": "https://open.spotify.com/track/4FQ7pGtcUpFVMGLxDHij79"
     },
     {
-      "added_at": "2024-04-18 23:59:00",
-      "album": {
-        "name": "Only You - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/1Aye02nOiEjJ5LMtvjaHRk"
-      },
-      "artists": [
-        {
-          "name": "Karun",
-          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
-        }
-      ],
-      "duration_ms": 166670,
-      "name": "Only You - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/7gRHJqy0dH0Xq0UY7YyNHg"
-    },
-    {
-      "added_at": "2024-04-18 23:59:00",
+      "added_at": "2024-04-25 23:59:00",
       "album": {
         "name": "Under Cover Lover",
         "url": "https://open.spotify.com/album/2RDau5A3LLdLD0QkoUHHfH"
@@ -481,7 +533,23 @@
       "url": "https://open.spotify.com/track/1XLd6OwzEwbnGJQAUdZDZW"
     },
     {
-      "added_at": "2024-04-18 23:59:00",
+      "added_at": "2024-04-25 23:59:00",
+      "album": {
+        "name": "Only You - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1Aye02nOiEjJ5LMtvjaHRk"
+      },
+      "artists": [
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
+        }
+      ],
+      "duration_ms": 166670,
+      "name": "Only You - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/7gRHJqy0dH0Xq0UY7YyNHg"
+    },
+    {
+      "added_at": "2024-04-25 23:59:00",
       "album": {
         "name": "Presha",
         "url": "https://open.spotify.com/album/5QlAwtL0kaP0JPEe93PN4A"
@@ -501,7 +569,7 @@
       "url": "https://open.spotify.com/track/1OelLLNoOJNYnukzOPYSct"
     },
     {
-      "added_at": "2024-04-18 23:59:00",
+      "added_at": "2024-04-25 23:59:00",
       "album": {
         "name": "Something Is You",
         "url": "https://open.spotify.com/album/6zNhbmvLEE12cGS1c53VL0"
@@ -517,7 +585,7 @@
       "url": "https://open.spotify.com/track/1KQfpF8EmbF8oP1YwpwJ0O"
     },
     {
-      "added_at": "2024-04-18 23:59:00",
+      "added_at": "2024-04-25 23:59:00",
       "album": {
         "name": "Diani",
         "url": "https://open.spotify.com/album/40CC1N5WnbICW35CqdTEuu"
@@ -541,7 +609,7 @@
       "url": "https://open.spotify.com/track/18toFZCoROJwVUj9MJ1xnd"
     },
     {
-      "added_at": "2024-04-18 23:59:00",
+      "added_at": "2024-04-25 23:59:00",
       "album": {
         "name": "Storm",
         "url": "https://open.spotify.com/album/6dx0pqvhjxik4vrl9v65RD"
@@ -557,27 +625,7 @@
       "url": "https://open.spotify.com/track/5ivSF8Xb7SaOnXYM1IvVcv"
     },
     {
-      "added_at": "2024-04-18 23:59:00",
-      "album": {
-        "name": "Let You Down",
-        "url": "https://open.spotify.com/album/6Up0QUA4FZV8K4xXvtzDom"
-      },
-      "artists": [
-        {
-          "name": "Nikita Kering'",
-          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
-        },
-        {
-          "name": "Kemena",
-          "url": "https://open.spotify.com/artist/0SGTAjot9GShYwCQ69DfG2"
-        }
-      ],
-      "duration_ms": 205575,
-      "name": "Let You Down",
-      "url": "https://open.spotify.com/track/3apziXJWNWQPmpTceYJSZZ"
-    },
-    {
-      "added_at": "2024-04-18 23:59:00",
+      "added_at": "2024-04-25 23:59:00",
       "album": {
         "name": "Go",
         "url": "https://open.spotify.com/album/0YT2PJ2AbXqRbz4Oj3ew0Z"
@@ -597,7 +645,7 @@
       "url": "https://open.spotify.com/track/1bHbElmOOzqRNui7Ocq4Vp"
     },
     {
-      "added_at": "2024-04-18 23:59:00",
+      "added_at": "2024-04-25 23:59:00",
       "album": {
         "name": "little messages",
         "url": "https://open.spotify.com/album/7hDzyjqHrig751Igo5ebvN"
@@ -613,7 +661,7 @@
       "url": "https://open.spotify.com/track/2ZVOWgbP2Nj76kctTF1jjX"
     },
     {
-      "added_at": "2024-04-18 23:59:00",
+      "added_at": "2024-04-25 23:59:00",
       "album": {
         "name": "Barua ya Dunia",
         "url": "https://open.spotify.com/album/7fLPbISe7JY8c0O0huAL0Z"
@@ -629,7 +677,7 @@
       "url": "https://open.spotify.com/track/4j46yRxfE9nGMwL1JSKNNc"
     },
     {
-      "added_at": "2024-04-18 23:59:00",
+      "added_at": "2024-04-25 23:59:00",
       "album": {
         "name": "Loverman (Acoustic)",
         "url": "https://open.spotify.com/album/5Ajbk0U4jDQRtqLDg9OZoB"
@@ -649,7 +697,7 @@
       "url": "https://open.spotify.com/track/6vxwG8RWDOOlyCyxU4l0qP"
     },
     {
-      "added_at": "2024-04-18 23:59:00",
+      "added_at": "2024-04-25 23:59:00",
       "album": {
         "name": "Pen & Paper",
         "url": "https://open.spotify.com/album/185DPVsnR1b6ooK4VDqJPl"
@@ -669,7 +717,7 @@
       "url": "https://open.spotify.com/track/08MoSv9F2ZzT3B1GJR3OD6"
     },
     {
-      "added_at": "2024-04-18 23:59:00",
+      "added_at": "2024-04-25 23:59:00",
       "album": {
         "name": "Love Letters II",
         "url": "https://open.spotify.com/album/4YPEUtBlXYKlVpxAezEElY"
@@ -685,7 +733,7 @@
       "url": "https://open.spotify.com/track/2G5EyrYbvXoUIpwqzGLgK1"
     },
     {
-      "added_at": "2024-04-18 23:59:00",
+      "added_at": "2024-04-25 23:59:00",
       "album": {
         "name": "The Other Side",
         "url": "https://open.spotify.com/album/7M0ZgZyJUYIG6RCHud7Xa6"
@@ -701,7 +749,7 @@
       "url": "https://open.spotify.com/track/0lZxPIkeXHFYsMousts9TZ"
     },
     {
-      "added_at": "2024-04-18 23:59:00",
+      "added_at": "2024-04-25 23:59:00",
       "album": {
         "name": "Wimbo Wetu",
         "url": "https://open.spotify.com/album/3XbVKuy8YmoHYwqXoVRvBr"
@@ -717,7 +765,7 @@
       "url": "https://open.spotify.com/track/0zOV2YLP3cSpknApGiIo4H"
     },
     {
-      "added_at": "2024-04-18 23:59:00",
+      "added_at": "2024-04-25 23:59:00",
       "album": {
         "name": "NIGHTS WITHOUT YOU",
         "url": "https://open.spotify.com/album/6uqyYLRgrlKjlIIfz3Hoid"
@@ -745,7 +793,7 @@
       "url": "https://open.spotify.com/track/0NCrt951A09LYmxbGdqW8N"
     },
     {
-      "added_at": "2024-04-18 23:59:00",
+      "added_at": "2024-04-25 23:59:00",
       "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/4Hu3aPRRM4bVU3kujeUT8H"
@@ -765,7 +813,7 @@
       "url": "https://open.spotify.com/track/3w0UpkLT8xMKX0HqBkLUQV"
     },
     {
-      "added_at": "2024-04-18 23:59:00",
+      "added_at": "2024-04-25 23:59:00",
       "album": {
         "name": "Aibu",
         "url": "https://open.spotify.com/album/0Y0he9QG0p0jFWcM9ZahzC"
@@ -785,7 +833,7 @@
       "url": "https://open.spotify.com/track/0Jq1RbXxclz844TLHUUi0E"
     },
     {
-      "added_at": "2024-04-18 23:59:00",
+      "added_at": "2024-04-25 23:59:00",
       "album": {
         "name": "Ambia",
         "url": "https://open.spotify.com/album/6Wg6JpSlFn2VdeFFQj5xzn"
@@ -801,7 +849,7 @@
       "url": "https://open.spotify.com/track/5DTLXU7HQ9PhNm6w7l8eZa"
     },
     {
-      "added_at": "2024-04-18 23:59:00",
+      "added_at": "2024-04-25 23:59:00",
       "album": {
         "name": "LOVE / HATE Pt. 1",
         "url": "https://open.spotify.com/album/1Fv4ReFcbmh4P1tGe96lvC"
@@ -817,127 +865,7 @@
       "url": "https://open.spotify.com/track/2ehiR88HYzb7QuO2bh3rKL"
     },
     {
-      "added_at": "2024-04-18 23:59:00",
-      "album": {
-        "name": "Anticipate",
-        "url": "https://open.spotify.com/album/1gjvuirxy43mXAc6O7UNLD"
-      },
-      "artists": [
-        {
-          "name": "Xenia Manasseh",
-          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
-        },
-        {
-          "name": "Karun",
-          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
-        }
-      ],
-      "duration_ms": 167355,
-      "name": "Anticipate",
-      "url": "https://open.spotify.com/track/1riqbH7Qd4VEXaWBd0L9YA"
-    },
-    {
-      "added_at": "2024-04-18 23:59:00",
-      "album": {
-        "name": "Niko Majuu",
-        "url": "https://open.spotify.com/album/33YGxj8PKaXbKMsESxHiFn"
-      },
-      "artists": [
-        {
-          "name": "PHY",
-          "url": "https://open.spotify.com/artist/2HfzgQaDmUfGQSU3joAG3c"
-        }
-      ],
-      "duration_ms": 193277,
-      "name": "Niko Majuu",
-      "url": "https://open.spotify.com/track/07QYwSudjP24RbXeuug0Gk"
-    },
-    {
-      "added_at": "2024-04-18 23:59:00",
-      "album": {
-        "name": "M\u00far\u00edo Wa Wendo",
-        "url": "https://open.spotify.com/album/7jvjDcIvXw9OKlkpBNCL7n"
-      },
-      "artists": [
-        {
-          "name": "Wanjine",
-          "url": "https://open.spotify.com/artist/73iU9QFpEWlHM2Op6wAQqe"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "M\u00far\u00edo Wa Wendo",
-      "url": "https://open.spotify.com/track/5x8jnFUwTWTcB6uNwp3ZVo"
-    },
-    {
-      "added_at": "2024-04-18 23:59:00",
-      "album": {
-        "name": "Cotton Candy",
-        "url": "https://open.spotify.com/album/0CKwnv5z8fLTM3trd704Gr"
-      },
-      "artists": [
-        {
-          "name": "Maya Amolo",
-          "url": "https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H"
-        }
-      ],
-      "duration_ms": 171379,
-      "name": "Cotton Candy",
-      "url": "https://open.spotify.com/track/1StTldm9Adge3KhJf1hjOh"
-    },
-    {
-      "added_at": "2024-04-18 23:59:00",
-      "album": {
-        "name": "Songa",
-        "url": "https://open.spotify.com/album/2W1aQvUtiMpWTkqV48dcIl"
-      },
-      "artists": [
-        {
-          "name": "WAMUYU",
-          "url": "https://open.spotify.com/artist/5bzxOcTF1zHbuPm0hhgq03"
-        }
-      ],
-      "duration_ms": 213604,
-      "name": "Hardest Thing",
-      "url": "https://open.spotify.com/track/3VhO6BOBUVXj7kf7dFJEkA"
-    },
-    {
-      "added_at": "2024-04-18 23:59:00",
-      "album": {
-        "name": "The Footprint",
-        "url": "https://open.spotify.com/album/04ZdDUDZ05hdtUawvudVL4"
-      },
-      "artists": [
-        {
-          "name": "Ochiko",
-          "url": "https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi"
-        }
-      ],
-      "duration_ms": 217213,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/2fSLRfuJr2utyjHrbohiWu"
-    },
-    {
-      "added_at": "2024-04-18 23:59:00",
-      "album": {
-        "name": "Colours",
-        "url": "https://open.spotify.com/album/3clJXsKbeadJqCZoURhp5R"
-      },
-      "artists": [
-        {
-          "name": "Colossal Music",
-          "url": "https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520"
-        },
-        {
-          "name": "Effji",
-          "url": "https://open.spotify.com/artist/7Ct2oQCP2BEMpMBqk2lRJK"
-        }
-      ],
-      "duration_ms": 179154,
-      "name": "Haba Na Haba",
-      "url": "https://open.spotify.com/track/7iB7aG563XdqyqGLpb1BYj"
-    },
-    {
-      "added_at": "2024-04-18 23:59:00",
+      "added_at": "2024-04-25 23:59:00",
       "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/3abCYOOplfgQSvt5vrOF29"
@@ -953,7 +881,7 @@
       "url": "https://open.spotify.com/track/47jeYgNLyaN1pBLQrVE6x0"
     },
     {
-      "added_at": "2024-04-18 23:59:00",
+      "added_at": "2024-04-25 23:59:00",
       "album": {
         "name": "MY WAY:VOLUME II",
         "url": "https://open.spotify.com/album/2UX55Fw5fkscU7xWo5wvvK"
@@ -973,7 +901,7 @@
       "url": "https://open.spotify.com/track/12QXwJTH3XlsNXG7nKbxil"
     },
     {
-      "added_at": "2024-04-18 23:59:00",
+      "added_at": "2024-04-25 23:59:00",
       "album": {
         "name": "Asali (Sweeter)",
         "url": "https://open.spotify.com/album/0aReDNKvPUMsV5OchEnX4R"
@@ -989,27 +917,7 @@
       "url": "https://open.spotify.com/track/5laEZ8aZUdmjqw41FwvNHa"
     },
     {
-      "added_at": "2024-04-18 23:59:00",
-      "album": {
-        "name": "NDIWE",
-        "url": "https://open.spotify.com/album/4pcyFiJmHvc7cU18toF49w"
-      },
-      "artists": [
-        {
-          "name": "Colossal Music",
-          "url": "https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520"
-        },
-        {
-          "name": "Trina South",
-          "url": "https://open.spotify.com/artist/5vCuU06trZlFxE0JK0C1Am"
-        }
-      ],
-      "duration_ms": 275789,
-      "name": "NDIWE",
-      "url": "https://open.spotify.com/track/1Tn2bby1wMZ7jkmEQod5dL"
-    },
-    {
-      "added_at": "2024-04-18 23:59:00",
+      "added_at": "2024-04-25 23:59:00",
       "album": {
         "name": "Coka Mucie",
         "url": "https://open.spotify.com/album/77IgdQQfnJkNuRtjSN3DtP"
@@ -1025,7 +933,7 @@
       "url": "https://open.spotify.com/track/4WUB5yrRvObEzUIld8zRm8"
     },
     {
-      "added_at": "2024-04-18 23:59:00",
+      "added_at": "2024-04-25 23:59:00",
       "album": {
         "name": "A Side Of Me",
         "url": "https://open.spotify.com/album/6A66i8kXtfeQqrFpRyW7Em"
@@ -1041,7 +949,7 @@
       "url": "https://open.spotify.com/track/352jbBYOtwkzJEMC2KkuiG"
     },
     {
-      "added_at": "2024-04-18 23:59:00",
+      "added_at": "2024-04-25 23:59:00",
       "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/6nii6T6T0MseXxmH0NjCCW"
@@ -1057,20 +965,124 @@
       "url": "https://open.spotify.com/track/74JVJp8ChK3rHbtY5dity4"
     },
     {
-      "added_at": "2024-04-18 23:59:00",
+      "added_at": "2024-04-25 23:59:00",
       "album": {
-        "name": "Nipende",
-        "url": "https://open.spotify.com/album/06DbgiBmUM7eSQiAk2cx55"
+        "name": "Anticipate",
+        "url": "https://open.spotify.com/album/1gjvuirxy43mXAc6O7UNLD"
       },
       "artists": [
         {
-          "name": "Zaituni Wambui",
-          "url": "https://open.spotify.com/artist/5SFfPUY3JPgaOzSiqdm4Me"
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        },
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
         }
       ],
-      "duration_ms": 315051,
-      "name": "Nipende",
-      "url": "https://open.spotify.com/track/6DgMQzle107AN4oBX5Uhcz"
+      "duration_ms": 167355,
+      "name": "Anticipate",
+      "url": "https://open.spotify.com/track/1riqbH7Qd4VEXaWBd0L9YA"
+    },
+    {
+      "added_at": "2024-04-25 23:59:00",
+      "album": {
+        "name": "Niko Majuu",
+        "url": "https://open.spotify.com/album/33YGxj8PKaXbKMsESxHiFn"
+      },
+      "artists": [
+        {
+          "name": "PHY",
+          "url": "https://open.spotify.com/artist/2HfzgQaDmUfGQSU3joAG3c"
+        }
+      ],
+      "duration_ms": 193277,
+      "name": "Niko Majuu",
+      "url": "https://open.spotify.com/track/07QYwSudjP24RbXeuug0Gk"
+    },
+    {
+      "added_at": "2024-04-25 23:59:00",
+      "album": {
+        "name": "M\u00far\u00edo Wa Wendo",
+        "url": "https://open.spotify.com/album/7jvjDcIvXw9OKlkpBNCL7n"
+      },
+      "artists": [
+        {
+          "name": "Wanjine",
+          "url": "https://open.spotify.com/artist/73iU9QFpEWlHM2Op6wAQqe"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "M\u00far\u00edo Wa Wendo",
+      "url": "https://open.spotify.com/track/5x8jnFUwTWTcB6uNwp3ZVo"
+    },
+    {
+      "added_at": "2024-04-25 23:59:00",
+      "album": {
+        "name": "Cotton Candy",
+        "url": "https://open.spotify.com/album/0CKwnv5z8fLTM3trd704Gr"
+      },
+      "artists": [
+        {
+          "name": "Maya Amolo",
+          "url": "https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H"
+        }
+      ],
+      "duration_ms": 171379,
+      "name": "Cotton Candy",
+      "url": "https://open.spotify.com/track/1StTldm9Adge3KhJf1hjOh"
+    },
+    {
+      "added_at": "2024-04-25 23:59:00",
+      "album": {
+        "name": "Songa",
+        "url": "https://open.spotify.com/album/2W1aQvUtiMpWTkqV48dcIl"
+      },
+      "artists": [
+        {
+          "name": "WAMUYU",
+          "url": "https://open.spotify.com/artist/5bzxOcTF1zHbuPm0hhgq03"
+        }
+      ],
+      "duration_ms": 213604,
+      "name": "Hardest Thing",
+      "url": "https://open.spotify.com/track/3VhO6BOBUVXj7kf7dFJEkA"
+    },
+    {
+      "added_at": "2024-04-25 23:59:00",
+      "album": {
+        "name": "The Footprint",
+        "url": "https://open.spotify.com/album/04ZdDUDZ05hdtUawvudVL4"
+      },
+      "artists": [
+        {
+          "name": "Ochiko",
+          "url": "https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi"
+        }
+      ],
+      "duration_ms": 217213,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/2fSLRfuJr2utyjHrbohiWu"
+    },
+    {
+      "added_at": "2024-04-25 23:59:00",
+      "album": {
+        "name": "Colours",
+        "url": "https://open.spotify.com/album/3clJXsKbeadJqCZoURhp5R"
+      },
+      "artists": [
+        {
+          "name": "Colossal Music",
+          "url": "https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520"
+        },
+        {
+          "name": "Effji",
+          "url": "https://open.spotify.com/artist/7Ct2oQCP2BEMpMBqk2lRJK"
+        }
+      ],
+      "duration_ms": 179154,
+      "name": "Haba Na Haba",
+      "url": "https://open.spotify.com/track/7iB7aG563XdqyqGLpb1BYj"
     }
   ],
   "unique_name": "NairoBae",

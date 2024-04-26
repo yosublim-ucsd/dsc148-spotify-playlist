@@ -4,7 +4,7 @@
 
 > Fresh Gospel tracks to make you move and bop your head in Praise
 
-74 songs - 4 hr 26 min
+75 songs - 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Kingdom Choir](https://open.spotify.com/track/1sFfVH2LOKkI0f2s6pV4dh) | [Jfam](https://open.spotify.com/artist/7IzrPz6N96D0Hu8QsnfAya), [Moodkai](https://open.spotify.com/artist/5fDrroPhERu1w9tkKVbG2d), [Davy Noty](https://open.spotify.com/artist/0Evb0Rducxsch65j5KJ1Iv), [Dj Ruff](https://open.spotify.com/artist/3dqEUMduRYEmtMa8IoOStr) | [Kingdom Choir](https://open.spotify.com/album/5lKTag6OC0bAxAqPIHOMnt) | 3:32 | 2022-04-13 |  |
 | [Lenga](https://open.spotify.com/track/7pRb8X9cHy14Om1Y14DUfW) | [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL), [Size 8](https://open.spotify.com/artist/4ZnnTnbEvzqmp1r52XTbBe) | [Lenga](https://open.spotify.com/album/3dBYgjC44flylPLTfBFX2y) | 3:16 | 2023-10-12 |  |
 | [Lenga](https://open.spotify.com/track/3bEDq23F2zS6kG8SMhvA2C) | [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL), [Size 8](https://open.spotify.com/artist/4ZnnTnbEvzqmp1r52XTbBe) | [Lenga](https://open.spotify.com/album/5hanZO8J0Uv5LQy9c9c4am) | 3:16 | 2022-04-13 | 2024-04-19 |
+| [Let it Go](https://open.spotify.com/track/4UyG93fzwlhSfFamzpFcNd) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [ZiiBeats](https://open.spotify.com/artist/1u5KBiGGlipkOJL7DQPLM4) | [Let it Go](https://open.spotify.com/album/43kWJ1PlyR7uXyy3JlkqGJ) | 3:14 | 2024-04-26 |  |
 | [Macho, Pt\. 2 \- Remix](https://open.spotify.com/track/3JEUWoHFELLQD5YFHHuJFg) | [Kris Erroh](https://open.spotify.com/artist/3KD0mT6UkGVUdNLFYwrYw2), [Juliani](https://open.spotify.com/artist/6DeHceVetXHpLmvmqDpTD7), [Ngashville](https://open.spotify.com/artist/6qHpqIoM0dqh30aDg10SCe), [MR.T](https://open.spotify.com/artist/1sUyZcWKUqXMhdqQOwLaTp), [SkBlue](https://open.spotify.com/artist/380ykbGsnwdSS0m69fz8sM), [Mc L.C](https://open.spotify.com/artist/5UJ1BoR7GIgf5u5TtoMOhb), [Dunco](https://open.spotify.com/artist/5fBnSAypAHI1lSCizDRhyH), [Mutua](https://open.spotify.com/artist/3hWuR6uWx3avBgadzqVjwj) | [Macho, Pt\. 2 \(Remix\)](https://open.spotify.com/album/34Ww4qGyCdUohbJdq1kMkK) | 4:40 | 2022-04-13 | 2022-10-29 |
 | [Manweri](https://open.spotify.com/track/0Sv9WTeghj3jZZDdYmrEzQ) | [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [Manweri](https://open.spotify.com/album/1dKIFmNNW3k1MSnya4E9Jb) | 4:17 | 2022-04-13 |  |
 | [Mema](https://open.spotify.com/track/0oOQmt04tGucSnvij5jfbW) | [Muhanjii](https://open.spotify.com/artist/4GTn2aRghVmPtv57P5Opaq) | [Mema](https://open.spotify.com/album/3Hqy9SSDsYpFNHOG5EOuyD) | 2:48 | 2023-09-22 |  |

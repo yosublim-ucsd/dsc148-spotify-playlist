@@ -1,12 +1,12 @@
 {
   "description": "This Is Vilma Palma e Vampiros. Los temas esenciales, todos en una lista.",
-  "num_followers": 66231,
+  "num_followers": 66251,
   "original_name": "This Is Vilma Palma e Vampiros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzgzMDQwMCwwMDAwMDAwMDRkNGFhYzBlZmZlNWIwMWQ3ZTc2YjMyMDBiZTc2MDYw",
+  "snapshot_id": "MTcxMzkxNjgwMCwwMDAwMDAwMDU3Y2Q4ZDU4NzczYmQwM2Q3MjIwMjE5OTAxNWFmY2Uz",
   "tracks": [
     {
       "added_at": null,
@@ -559,22 +559,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psic\u00f3tico",
-        "url": "https://open.spotify.com/album/5Nb3kbLr4Y6I7SX25Xwzkc"
+        "name": "Hecatombe Disco",
+        "url": "https://open.spotify.com/album/2ZGCpjlSEH00JNwAPjY1o0"
       },
       "artists": [
-        {
-          "name": "EL\u00cdAS",
-          "url": "https://open.spotify.com/artist/1OO4dbmG9Fvz897JRIWiys"
-        },
         {
           "name": "Vilma Palma e Vampiros",
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 201596,
-      "name": "Psic\u00f3tico",
-      "url": "https://open.spotify.com/track/6PuU2HHnLqiaUf1bKUMuHT"
+      "duration_ms": 211666,
+      "name": "Est\u00fapida",
+      "url": "https://open.spotify.com/track/6IiCJye3u6X8C83pR1WWLy"
     },
     {
       "added_at": null,
@@ -611,6 +607,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Psic\u00f3tico",
+        "url": "https://open.spotify.com/album/5Nb3kbLr4Y6I7SX25Xwzkc"
+      },
+      "artists": [
+        {
+          "name": "EL\u00cdAS",
+          "url": "https://open.spotify.com/artist/1OO4dbmG9Fvz897JRIWiys"
+        },
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 201596,
+      "name": "Psic\u00f3tico",
+      "url": "https://open.spotify.com/track/6PuU2HHnLqiaUf1bKUMuHT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Carm\u00edn",
         "url": "https://open.spotify.com/album/3prrhABxqvWUQ0WG80Fqyh"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 178036,
       "name": "Carm\u00edn",
       "url": "https://open.spotify.com/track/1SOSprxl8Nzilxm4hJwyi3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hecatombe Disco",
-        "url": "https://open.spotify.com/album/2ZGCpjlSEH00JNwAPjY1o0"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Est\u00fapida",
-      "url": "https://open.spotify.com/track/6IiCJye3u6X8C83pR1WWLy"
     },
     {
       "added_at": null,
@@ -695,22 +695,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Besos en el Ascensor",
-        "url": "https://open.spotify.com/album/1YEs3YvLSfcVPXAaf7oo03"
+        "name": "La Pachanga",
+        "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
       },
       "artists": [
-        {
-          "name": "Manu Pir\u00f3",
-          "url": "https://open.spotify.com/artist/1RfOn1jpPuM4THF3zHKrJA"
-        },
         {
           "name": "Vilma Palma e Vampiros",
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 190500,
-      "name": "Besos en el Ascensor",
-      "url": "https://open.spotify.com/track/6VKNpxs7kYpDuynDozMj2a"
+      "duration_ms": 350712,
+      "name": "Demasiado Tarde",
+      "url": "https://open.spotify.com/track/5Oa1k1gOxhP018PPRw1Sys"
     },
     {
       "added_at": null,
@@ -731,34 +727,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Pachanga",
-        "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
+        "name": "Besos en el Ascensor",
+        "url": "https://open.spotify.com/album/1YEs3YvLSfcVPXAaf7oo03"
       },
       "artists": [
+        {
+          "name": "Manu Pir\u00f3",
+          "url": "https://open.spotify.com/artist/1RfOn1jpPuM4THF3zHKrJA"
+        },
         {
           "name": "Vilma Palma e Vampiros",
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 350712,
-      "name": "Demasiado Tarde",
-      "url": "https://open.spotify.com/track/5Oa1k1gOxhP018PPRw1Sys"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fondo Profundo",
-        "url": "https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 257438,
-      "name": "Si Eso Te Pone Mejor",
-      "url": "https://open.spotify.com/track/1qVTpnGqccuRquqfGyvvBo"
+      "duration_ms": 190500,
+      "name": "Besos en el Ascensor",
+      "url": "https://open.spotify.com/track/6VKNpxs7kYpDuynDozMj2a"
     },
     {
       "added_at": null,
@@ -775,6 +759,22 @@
       "duration_ms": 256906,
       "name": "La Carta",
       "url": "https://open.spotify.com/track/7fWsCyuE2j5qAcBqcqaeZp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fondo Profundo",
+        "url": "https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 257438,
+      "name": "Si Eso Te Pone Mejor",
+      "url": "https://open.spotify.com/track/1qVTpnGqccuRquqfGyvvBo"
     },
     {
       "added_at": null,

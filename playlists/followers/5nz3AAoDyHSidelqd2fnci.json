@@ -1,5 +1,5 @@
 {
-  "2024-04-25": 0,
+  "2024-04-26": 0,
   "date_first_scraped": "2023-03-07",
   "description": "",
   "name": "import of The daily dozen (@pipemanuel10)",
@@ -483,7 +483,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 139456,
       "name": "All The Way Gone",
       "url": "https://open.spotify.com/track/54Ej8xRXYprENDF7drtEQN"
@@ -1117,10 +1117,32 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 246933,
       "name": "Belong",
       "url": "https://open.spotify.com/track/2wOyPDZOKhzebwrxKyGVZk"
+    },
+    {
+      "album": {
+        "name": "Amar es Combatir",
+        "url": "https://open.spotify.com/album/6EuWSWRMKjUNJCKOXnbGga"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        },
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264720,
+      "name": "Bendita Tu Luz",
+      "url": "https://open.spotify.com/track/5TCYUngmqOOtLFbqUTPMMB"
     },
     {
       "album": {
@@ -1333,7 +1355,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 251453,
       "name": "Blow",
       "url": "https://open.spotify.com/track/1QQPdR1BYLoZyYe8C8XW9C"
@@ -1965,7 +1987,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 460486,
       "name": "Chasing The Dragon",
       "url": "https://open.spotify.com/track/6z9M1vrUzaG81HFTceSrh0"
@@ -2293,7 +2315,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 208960,
       "name": "Crawling",
       "url": "https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr"
@@ -3389,7 +3411,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 257626,
       "name": "En Direcci\u00f3n Contraria",
       "url": "https://open.spotify.com/track/6M5dKD84KOitpWLKmIqXjt"
@@ -3775,7 +3797,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 268450,
       "name": "Falso Augurio",
       "url": "https://open.spotify.com/track/13NCxy1StYFZ8nuUrVCfGx"
@@ -4331,6 +4353,24 @@
       "duration_ms": 224360,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/5bWcHqWcvffvkjD6fKDKzY"
+    },
+    {
+      "album": {
+        "name": "The Biggest Reggae Hits",
+        "url": "https://open.spotify.com/album/1GDBjjWoOsRzvmK4PRo92a"
+      },
+      "artists": [
+        {
+          "name": "Eddy Grant",
+          "url": "https://open.spotify.com/artist/6j2HWcd7z61iTLbi8eD0hA"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243695,
+      "name": "Gimme Hope Jo'anna",
+      "url": "https://open.spotify.com/track/6295Cr4SGdjJgnJ6DLtZFn"
     },
     {
       "album": {
@@ -5127,7 +5167,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 266840,
       "name": "Hush - 1998 Remaster",
       "url": "https://open.spotify.com/track/1dX0NML9pxDIJxrGWzIoJW"
@@ -6465,10 +6505,28 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 203026,
       "name": "Little Things",
       "url": "https://open.spotify.com/track/6vFD3c1WI1zuKoyk22dMw3"
+    },
+    {
+      "album": {
+        "name": "Hate Me (Deluxe)",
+        "url": "https://open.spotify.com/album/5799SJcxpgYqEXu3bS1qYL"
+      },
+      "artists": [
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237426,
+      "name": "Live For Today (Mozaix Remix)",
+      "url": "https://open.spotify.com/track/40Ip77nqyAolluHilW9tFH"
     },
     {
       "album": {
@@ -6883,7 +6941,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 313533,
       "name": "Man On The Moon",
       "url": "https://open.spotify.com/track/74q8a3WdCCSHbRLU2aoP8a"
@@ -7232,6 +7290,24 @@
     },
     {
       "album": {
+        "name": "MOTHER ATE",
+        "url": "https://open.spotify.com/album/17SKda70MgNi3mViFcweHp"
+      },
+      "artists": [
+        {
+          "name": "Jane Bell",
+          "url": "https://open.spotify.com/artist/77bNmKoq4fuzSlRB8KDCKk"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201904,
+      "name": "MOTHER ATE",
+      "url": "https://open.spotify.com/track/6S2LusrzKx5Khn4FxfzhYw"
+    },
+    {
+      "album": {
         "name": "Deep Cuts (Vol. 3 / 1984-1995)",
         "url": "https://open.spotify.com/album/6WB2BiVWk33OHI7WXjQuSB"
       },
@@ -7387,7 +7463,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 289000,
       "name": "My Last Words - Remastered",
       "url": "https://open.spotify.com/track/2x90KgJooOCuHD8Llz2WS9"
@@ -8004,6 +8080,24 @@
     },
     {
       "album": {
+        "name": "Digital Renegade [Instrumental Version]",
+        "url": "https://open.spotify.com/album/2EGx88OVWH7a0BQXpfvP6M"
+      },
+      "artists": [
+        {
+          "name": "I See Stars",
+          "url": "https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "NZT48 - Instrumental Version",
+      "url": "https://open.spotify.com/track/4DtVb1jjKKjLbzQOIRSPHK"
+    },
+    {
+      "album": {
         "name": "Renegades Forever",
         "url": "https://open.spotify.com/album/4umO9auiv91JhDUQfzQfKz"
       },
@@ -8127,6 +8221,24 @@
       "duration_ms": 245066,
       "name": "One Vision - Remastered 2011",
       "url": "https://open.spotify.com/track/3eRwrwFOamx1TxrMkXlHFb"
+    },
+    {
+      "album": {
+        "name": "A Blue Room",
+        "url": "https://open.spotify.com/album/6SZRwMuyFyb6EG6uK7GguW"
+      },
+      "artists": [
+        {
+          "name": "CVMILLE",
+          "url": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240298,
+      "name": "Open Letter",
+      "url": "https://open.spotify.com/track/4F6rElm8VLH8gUdNbxTw9A"
     },
     {
       "album": {
@@ -8546,6 +8658,24 @@
     },
     {
       "album": {
+        "name": "Iron Maiden (2015 Remaster)",
+        "url": "https://open.spotify.com/album/3DNeMApEMCo4IDXNMYnlFi"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441466,
+      "name": "Phantom of the Opera - 2015 Remaster",
+      "url": "https://open.spotify.com/track/14H2fE4WEdkEem0kjVeODT"
+    },
+    {
+      "album": {
         "name": "Obras Cumbres (Parte 2)",
         "url": "https://open.spotify.com/album/1I2nAQWVXtI9xJ0xuRBLYV"
       },
@@ -8593,7 +8723,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 168409,
       "name": "Plan 2",
       "url": "https://open.spotify.com/track/1sbvKy0ftZGqFr8pcbWNq5"
@@ -9602,6 +9732,24 @@
     },
     {
       "album": {
+        "name": "The Phantom Agony (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5qBmY4zyWEYP8bNJsq9Xjf"
+      },
+      "artists": [
+        {
+          "name": "Epica",
+          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294626,
+      "name": "Sensorium - Orchestral Version",
+      "url": "https://open.spotify.com/track/3Dgb6JMds2sOz3xssrW0ul"
+    },
+    {
+      "album": {
         "name": "The Poison (Deluxe Version)",
         "url": "https://open.spotify.com/album/4uNzDULQ9RAy0nxGaPbCDn"
       },
@@ -9988,6 +10136,24 @@
     },
     {
       "album": {
+        "name": "No Remorse (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6NnCvI782a1lKvMAIbzzAG"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231320,
+      "name": "Snaggletooth",
+      "url": "https://open.spotify.com/track/5M1Y7W5PAxcI2FixtOmTCt"
+    },
+    {
+      "album": {
         "name": "Consign To Oblivion (Expanded Edition)",
         "url": "https://open.spotify.com/album/050Dza66lBFneTLseVdFP8"
       },
@@ -10039,6 +10205,24 @@
       "duration_ms": 121573,
       "name": "Some Kinda Hate",
       "url": "https://open.spotify.com/track/0RlC8gQmtupGoklgc97LVa"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/3NSivK5tIM5k4IiH5wobRr"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229853,
+      "name": "Somebody Someone",
+      "url": "https://open.spotify.com/track/64JDlPi7vPusXR7vsXuKBt"
     },
     {
       "album": {
@@ -10581,6 +10765,24 @@
       "duration_ms": 165880,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/2fPlA2m2B0yecH8bVhUb1U"
+    },
+    {
+      "album": {
+        "name": "Doomsday Machine",
+        "url": "https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275186,
+      "name": "Taking Back My Soul",
+      "url": "https://open.spotify.com/track/7rk5lB4drqcl2O7fcZoTj9"
     },
     {
       "album": {
@@ -11511,6 +11713,24 @@
       "duration_ms": 357840,
       "name": "Thriller - Instrumental",
       "url": "https://open.spotify.com/track/3yYt5HIf99u6lsinB95Ku8"
+    },
+    {
+      "album": {
+        "name": "Inhuman Rampage",
+        "url": "https://open.spotify.com/album/0v2dlZrkVAjKdkwpjoKzPG"
+      },
+      "artists": [
+        {
+          "name": "DragonForce",
+          "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439120,
+      "name": "Through The Fire And Flames",
+      "url": "https://open.spotify.com/track/1UMdbkqX19OiwfExH7gzYA"
     },
     {
       "album": {

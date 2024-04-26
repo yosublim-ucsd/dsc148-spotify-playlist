@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1n9whBbBKoL.md) - [plain]
 
 > Ambient drone to make you feel weightless.
 
-[Spotify](https://open.spotify.com/user/spotify) - 769,335 likes - 164 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 769,508 likes - 164 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1n9whBbBKoL.md) - [plain]
 | 13 | [528 Hz Concentration](https://open.spotify.com/track/5V9e3c5xa0oFHWccONeuqJ) | [Nova Hz](https://open.spotify.com/artist/64u2kTvOnLTB0pLf9Lc45Y) | [528 Hz Concentration](https://open.spotify.com/album/4VwIN2C6nTBepf0Cr8p9so) | 3:28 |
 | 14 | [Moonlit Night](https://open.spotify.com/track/5OFNOt8wVNgcKDqdbOQP1T) | [El Ambiente](https://open.spotify.com/artist/65DwviFYxUr0wAh3Du1y2J) | [Moonlit Night](https://open.spotify.com/album/7lEQSa3yalht80kwXmpXz3) | 2:57 |
 | 15 | [963 Hz Conscious Care](https://open.spotify.com/track/5E57Zw3EzEqgXH3nfbXkBL) | [Akriva](https://open.spotify.com/artist/4IlIaqWBSmATuP4rFYA6jR) | [963 Hz Conscious Care](https://open.spotify.com/album/14kkMme3UE3XXbBsvdmzAp) | 2:44 |
-| 16 | [Protect Your Soul](https://open.spotify.com/track/6R4Gy59aFE9fg8NOTJ5Ndg) | [Natural Space](https://open.spotify.com/artist/6kBh9KP21Uw1fbnq1oY9Nz), [Nazibrola](https://open.spotify.com/artist/6IIKAH6Oj6znfZZC0JsnUj), [Relax Yourself](https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY) | [Protect Your Soul](https://open.spotify.com/album/4ee4vOZ7YFEWfRYLPCtwSS) | 2:25 |
+| 16 | [Protect Your Soul](https://open.spotify.com/track/6R4Gy59aFE9fg8NOTJ5Ndg) | [Natural Space](https://open.spotify.com/artist/6kBh9KP21Uw1fbnq1oY9Nz), [Nazibrola](https://open.spotify.com/artist/6IIKAH6Oj6znfZZC0JsnUj), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Protect Your Soul](https://open.spotify.com/album/4ee4vOZ7YFEWfRYLPCtwSS) | 2:25 |
 | 17 | [Cloud Whispers](https://open.spotify.com/track/3EH4iguIiQ0YaFMxvd7VFn) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Cloud Whispers](https://open.spotify.com/album/77Bqt3owWoeUNaKI9li5no) | 2:37 |
 | 18 | [Arctic](https://open.spotify.com/track/0GU48wNylLzxHde7OXHpAj) | [Eural](https://open.spotify.com/artist/50x43BjaV7dRtBZkdrRNJo) | [Arctic](https://open.spotify.com/album/0Zq6Iv1Mzxjj2TJ5qHldja) | 2:36 |
 | 19 | [Would You Close Your Eyes?](https://open.spotify.com/track/7b6SaxaCKmwg5RS71vOEQZ) | [Impedance Lost](https://open.spotify.com/artist/0lqtp08TCVVNVpbwx1Yp8W) | [Would You Close Your Eyes?](https://open.spotify.com/album/6pjq6UoI3Y3OxvA2yjWV5R) | 3:21 |

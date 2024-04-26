@@ -1,12 +1,12 @@
 {
-  "description": "This is The Beach Boys. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 310044,
+  "description": "This is The Beach Boys. The essential tracks, all in one playlist.",
+  "num_followers": 310068,
   "original_name": "This Is The Beach Boys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzgzMDQwMCwwMDAwMDAwMGNhNDE4OGJjMmRhNzg2NzI5N2YwOTk2Mjg4YTg3YzE3",
+  "snapshot_id": "MTcxMzkxNjgwMCwwMDAwMDAwMDY1ZTlkYmY3NjNjNGQwMTQ4ZWMzMDNiZjEwYmI2NTVk",
   "tracks": [
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
         }
       ],
-      "duration_ms": 148533,
-      "name": "Surfer Girl - Remastered 2001",
-      "url": "https://open.spotify.com/track/1AJ5F0FMTC3yFU3ocjy1gE"
+      "duration_ms": 100933,
+      "name": "Little Deuce Coupe - Remastered 2001",
+      "url": "https://open.spotify.com/track/75WMOzv7195ziyx0qEw1yE"
     },
     {
       "added_at": null,
@@ -247,6 +247,22 @@
       "duration_ms": 204373,
       "name": "California Dreamin' - 2007 Digital Remaster",
       "url": "https://open.spotify.com/track/4MHzXgBy7hexDe2Bto11hP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Surfer Girl (Remastered)",
+        "url": "https://open.spotify.com/album/1AhsZr98dNCfhO1XC4Ht7C"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 148533,
+      "name": "Surfer Girl - Remastered 2001",
+      "url": "https://open.spotify.com/track/1AJ5F0FMTC3yFU3ocjy1gE"
     },
     {
       "added_at": null,
@@ -507,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "50 Big Ones: Greatest Hits",
-        "url": "https://open.spotify.com/album/6cSZPNsr3tMEHo5QrMjk1F"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 142533,
-      "name": "Do You Wanna Dance?",
-      "url": "https://open.spotify.com/track/4MFU8kCLOQD9nV03Gfvrkn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Beach Boys Today! (Remastered)",
         "url": "https://open.spotify.com/album/1xPtXzS5yCbDAqC7pxRCaF"
       },
@@ -535,6 +535,22 @@
       "duration_ms": 121466,
       "name": "Dance, Dance, Dance - Remastered",
       "url": "https://open.spotify.com/track/2qtFkMvkD5R7kKYCNIh5MR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "50 Big Ones: Greatest Hits",
+        "url": "https://open.spotify.com/album/6cSZPNsr3tMEHo5QrMjk1F"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 142533,
+      "name": "Do You Wanna Dance?",
+      "url": "https://open.spotify.com/track/4MFU8kCLOQD9nV03Gfvrkn"
     },
     {
       "added_at": null,
@@ -819,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pet Sounds (Original Mono & Stereo Mix)",
-        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2ninxvLuYGCb6H92qTaSFZ"
       },
       "artists": [
         {
@@ -828,25 +844,9 @@
           "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
         }
       ],
-      "duration_ms": 141226,
-      "name": "Let's Go Away For A While - Mono",
-      "url": "https://open.spotify.com/track/3GsgJI1aBrvUtqX8f3MhKT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Beach Boys Today! (Remastered)",
-        "url": "https://open.spotify.com/album/1xPtXzS5yCbDAqC7pxRCaF"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 167266,
-      "name": "Please Let Me Wonder - Remastered",
-      "url": "https://open.spotify.com/track/0rttThNJX5cZLtQUASghA7"
+      "duration_ms": 149013,
+      "name": "Rock And Roll Music - Remastered 2012",
+      "url": "https://open.spotify.com/track/0nmfRjxDxOhs2CggxvGPHS"
     }
   ],
   "unique_name": "This Is The Beach Boys",

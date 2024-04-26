@@ -1,6 +1,6 @@
 {
   "description": "Canciones deliciosas para relajarse y pasarla chill junto a la piscina. \ud83c\udfd6\ufe0f\ud83c\udfca\ud83c\udf79",
-  "num_followers": 135643,
+  "num_followers": 135684,
   "original_name": "\u00a1A la Alberca!",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Burning Bright",
-        "url": "https://open.spotify.com/album/7lPgCHEkAS2taPAqotcvih"
-      },
-      "artists": [
-        {
-          "name": "Cameo Culture",
-          "url": "https://open.spotify.com/artist/3jLyvqWaddIP7L5H9dT8Gh"
-        }
-      ],
-      "duration_ms": 304654,
-      "name": "Told You So",
-      "url": "https://open.spotify.com/track/2SCHvVxxf591F0EsSNCsRK"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Profite (Remixes)",
         "url": "https://open.spotify.com/album/0r4TXEu7Lhl09VNfxThdC6"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 198688,
       "name": "Profite - Kazy Lambist Remix",
       "url": "https://open.spotify.com/track/7fbdTbr12vcmJhWgp58dvO"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Burning Bright",
+        "url": "https://open.spotify.com/album/7lPgCHEkAS2taPAqotcvih"
+      },
+      "artists": [
+        {
+          "name": "Cameo Culture",
+          "url": "https://open.spotify.com/artist/3jLyvqWaddIP7L5H9dT8Gh"
+        }
+      ],
+      "duration_ms": 304654,
+      "name": "Told You So",
+      "url": "https://open.spotify.com/track/2SCHvVxxf591F0EsSNCsRK"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Way to Go (Club Soda Mix)",
-        "url": "https://open.spotify.com/album/7F8R0maiBdTe0Ey5qkqZet"
-      },
-      "artists": [
-        {
-          "name": "Soda State",
-          "url": "https://open.spotify.com/artist/7kGtb0FtMVu0YfEFwLjTBH"
-        }
-      ],
-      "duration_ms": 224390,
-      "name": "Way to Go - Club Soda Mix",
-      "url": "https://open.spotify.com/track/2kXcKyonAMXWjW0iWTnm2P"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/2MxDGKoBMLeiwyLMGxGmlK"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 216104,
       "name": "Voyages",
       "url": "https://open.spotify.com/track/1QwwJPHlJ26QBkpugTwqqG"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Way to Go (Club Soda Mix)",
+        "url": "https://open.spotify.com/album/7F8R0maiBdTe0Ey5qkqZet"
+      },
+      "artists": [
+        {
+          "name": "Soda State",
+          "url": "https://open.spotify.com/artist/7kGtb0FtMVu0YfEFwLjTBH"
+        }
+      ],
+      "duration_ms": 224390,
+      "name": "Way to Go - Club Soda Mix",
+      "url": "https://open.spotify.com/track/2kXcKyonAMXWjW0iWTnm2P"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Luminous",
+        "url": "https://open.spotify.com/album/2nTexLdtmJEpfFSftYb7C0"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Aguado",
+          "url": "https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Through The Night",
+      "url": "https://open.spotify.com/track/6cC17xWrGqAFqJ3DNBOrqp"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Mopedbart",
         "url": "https://open.spotify.com/album/1fFDgy6E12ZwqgIa8tgtQh"
       },
@@ -1135,18 +1151,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Luminous",
-        "url": "https://open.spotify.com/album/2nTexLdtmJEpfFSftYb7C0"
+        "name": "Lost in Music",
+        "url": "https://open.spotify.com/album/4Q3jOD21FwVdIHrKHQQJIG"
       },
       "artists": [
         {
-          "name": "Andr\u00e9 Aguado",
-          "url": "https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC"
+          "name": "Maulis\u00e9",
+          "url": "https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Through The Night",
-      "url": "https://open.spotify.com/track/6cC17xWrGqAFqJ3DNBOrqp"
+      "duration_ms": 208150,
+      "name": "Lost in Music",
+      "url": "https://open.spotify.com/track/5HTIpHpGL1GJDxEpyaipK9"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1167,22 +1183,6 @@
       "duration_ms": 386443,
       "name": "Voodoo? - Lazywax Remix",
       "url": "https://open.spotify.com/track/2wHeYDrniYngp3did3McYD"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Lost in Music",
-        "url": "https://open.spotify.com/album/4Q3jOD21FwVdIHrKHQQJIG"
-      },
-      "artists": [
-        {
-          "name": "Maulis\u00e9",
-          "url": "https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1"
-        }
-      ],
-      "duration_ms": 208150,
-      "name": "Lost in Music",
-      "url": "https://open.spotify.com/track/5HTIpHpGL1GJDxEpyaipK9"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Rester",
-        "url": "https://open.spotify.com/album/58DM6YnsR26DX7PG8GA04M"
-      },
-      "artists": [
-        {
-          "name": "Petite Amie",
-          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
-        }
-      ],
-      "duration_ms": 297530,
-      "name": "Rester",
-      "url": "https://open.spotify.com/track/0vRnV2qupCciz74lZSHSos"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "La piscine - EP",
         "url": "https://open.spotify.com/album/43WnwIfcdtzgnPQB6qlfJE"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 302893,
       "name": "La piscine (Voilaaa Remix)",
       "url": "https://open.spotify.com/track/76uRL1BKCWYqfYeQLuG8Vk"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Rester",
+        "url": "https://open.spotify.com/album/58DM6YnsR26DX7PG8GA04M"
+      },
+      "artists": [
+        {
+          "name": "Petite Amie",
+          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
+        }
+      ],
+      "duration_ms": 297530,
+      "name": "Rester",
+      "url": "https://open.spotify.com/track/0vRnV2qupCciz74lZSHSos"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Backdrops",
-        "url": "https://open.spotify.com/album/7uabdAZxN8OvV4ZO3yRoJC"
-      },
-      "artists": [
-        {
-          "name": "Walientinho",
-          "url": "https://open.spotify.com/artist/4qVK77FWzEGLmP1Vw1I9or"
-        }
-      ],
-      "duration_ms": 186123,
-      "name": "Backdrops",
-      "url": "https://open.spotify.com/track/1L6yd85lGhfCGbNwKKvcAp"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Lupino",
         "url": "https://open.spotify.com/album/6LNyTa0FtB9YYohiEACjhW"
       },
@@ -1679,18 +1663,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Zaim",
-        "url": "https://open.spotify.com/album/0Mv3pPeTjhUFZhipQBFbSU"
+        "name": "Backdrops",
+        "url": "https://open.spotify.com/album/7uabdAZxN8OvV4ZO3yRoJC"
       },
       "artists": [
         {
-          "name": "Butia",
-          "url": "https://open.spotify.com/artist/6xSMvc8GFkP4ElMTOeNH0h"
+          "name": "Walientinho",
+          "url": "https://open.spotify.com/artist/4qVK77FWzEGLmP1Vw1I9or"
         }
       ],
-      "duration_ms": 236136,
-      "name": "Zaim",
-      "url": "https://open.spotify.com/track/3O5qrnMGBUgyqHKwvj2UL4"
+      "duration_ms": 186123,
+      "name": "Backdrops",
+      "url": "https://open.spotify.com/track/1L6yd85lGhfCGbNwKKvcAp"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1711,18 +1695,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Give Me Your Summer",
-        "url": "https://open.spotify.com/album/6L3drsVQw2PE1ZPNvAO2MS"
+        "name": "Zaim",
+        "url": "https://open.spotify.com/album/0Mv3pPeTjhUFZhipQBFbSU"
       },
       "artists": [
         {
-          "name": "Color Codes",
-          "url": "https://open.spotify.com/artist/0L4swFqe6aAXjmTN3TmO2L"
+          "name": "Butia",
+          "url": "https://open.spotify.com/artist/6xSMvc8GFkP4ElMTOeNH0h"
         }
       ],
-      "duration_ms": 170161,
-      "name": "Give Me Your Summer",
-      "url": "https://open.spotify.com/track/1Q2ca16lCXmdJb2hMiCIiP"
+      "duration_ms": 236136,
+      "name": "Zaim",
+      "url": "https://open.spotify.com/track/3O5qrnMGBUgyqHKwvj2UL4"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1739,6 +1723,22 @@
       "duration_ms": 111272,
       "name": "On The Cloud",
       "url": "https://open.spotify.com/track/1U6LYBh6HZXaaQu3QJlDLm"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Give Me Your Summer",
+        "url": "https://open.spotify.com/album/6L3drsVQw2PE1ZPNvAO2MS"
+      },
+      "artists": [
+        {
+          "name": "Color Codes",
+          "url": "https://open.spotify.com/artist/0L4swFqe6aAXjmTN3TmO2L"
+        }
+      ],
+      "duration_ms": 170161,
+      "name": "Give Me Your Summer",
+      "url": "https://open.spotify.com/track/1Q2ca16lCXmdJb2hMiCIiP"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1779,30 +1779,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Sauvage",
-        "url": "https://open.spotify.com/album/4MJxVWiDg1K9hs7QLeORHt"
-      },
-      "artists": [
-        {
-          "name": "Los Eclipses",
-          "url": "https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        },
-        {
-          "name": "Dan Solo",
-          "url": "https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7"
-        }
-      ],
-      "duration_ms": 331746,
-      "name": "Sauvage",
-      "url": "https://open.spotify.com/track/3ZUyQN89uCsjlLKIOvfYxb"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "KB's Mixtape No. 2",
         "url": "https://open.spotify.com/album/4Kf6c23vulrmowV1rj3iHP"
       },
@@ -1815,6 +1791,22 @@
       "duration_ms": 304333,
       "name": "Juicy Fruit",
       "url": "https://open.spotify.com/track/2K7h1g3vxQZEFPisYq0Qlv"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Luminous",
+        "url": "https://open.spotify.com/album/2nTexLdtmJEpfFSftYb7C0"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Aguado",
+          "url": "https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC"
+        }
+      ],
+      "duration_ms": 211428,
+      "name": "Luminous",
+      "url": "https://open.spotify.com/track/5Nysjljr2cotY9HeW74GHh"
     }
   ],
   "unique_name": "\u00a1A la Alberca!",

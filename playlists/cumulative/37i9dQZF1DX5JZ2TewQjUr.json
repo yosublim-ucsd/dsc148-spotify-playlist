@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover:  5gjm999",
+  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover:  BONBON",
   "name": "+852 Rising",
   "tracks": [
     {
@@ -849,6 +849,24 @@
     },
     {
       "album": {
+        "name": "BACK",
+        "url": "https://open.spotify.com/album/59MAZgl1mUdrk5gOzXNA5O"
+      },
+      "artists": [
+        {
+          "name": "COPAK",
+          "url": "https://open.spotify.com/artist/1sHepQ4XjdF9ReWrHFAQTo"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249839,
+      "name": "BACK",
+      "url": "https://open.spotify.com/track/5xSO1TWCn3uqiLXPw1O7iS"
+    },
+    {
+      "album": {
         "name": "Bad Coffee & Liquor Club",
         "url": "https://open.spotify.com/album/1dHJm91fNNgxinlcwSH0gi"
       },
@@ -1064,6 +1082,24 @@
       "duration_ms": 194040,
       "name": "Black Horse",
       "url": "https://open.spotify.com/track/1i9pEMeun3QyzPivGCfm0l"
+    },
+    {
+      "album": {
+        "name": "Bleeding",
+        "url": "https://open.spotify.com/album/53Cfu2Jd018OvINymaVMBD"
+      },
+      "artists": [
+        {
+          "name": "Sage Vapid",
+          "url": "https://open.spotify.com/artist/7d598fEPZUr7rcu9HFkVof"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221106,
+      "name": "Bleeding",
+      "url": "https://open.spotify.com/track/0Enh7qIEYeMbYYgzFZmkDH"
     },
     {
       "album": {
@@ -3544,6 +3580,28 @@
       "duration_ms": 142014,
       "name": "FUCK LOVE",
       "url": "https://open.spotify.com/track/4fMFRAAr1U1oRv4iTksTiv"
+    },
+    {
+      "album": {
+        "name": "FULL THROTTLE (j\u00f8no Remix)",
+        "url": "https://open.spotify.com/album/1fDOqFUl0wLShjSDKBHuVk"
+      },
+      "artists": [
+        {
+          "name": "WLDHRT",
+          "url": "https://open.spotify.com/artist/5dNGi8WqaZJtfyVT8dI0Lz"
+        },
+        {
+          "name": "j\u00f8no",
+          "url": "https://open.spotify.com/artist/3oWQ3rSeKMRuEmbud3qBI4"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "FULL THROTTLE - j\u00f8no Remix",
+      "url": "https://open.spotify.com/track/5uFtpR3HEFhLrKdFakjdL8"
     },
     {
       "album": {
@@ -6826,6 +6884,28 @@
       "duration_ms": 149019,
       "name": "MK Nose",
       "url": "https://open.spotify.com/track/7dlznx1fY6ylydSB4aZp5t"
+    },
+    {
+      "album": {
+        "name": "heaven sent",
+        "url": "https://open.spotify.com/album/34YNeXrm7G7S8Ikr8lIrv6"
+      },
+      "artists": [
+        {
+          "name": "Dessy",
+          "url": "https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy"
+        },
+        {
+          "name": "PLAYGROUND",
+          "url": "https://open.spotify.com/artist/6jcd1FALUEzaGDl7Syikem"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208888,
+      "name": "Moment",
+      "url": "https://open.spotify.com/track/1JrKRCKVrTpLHYnTwlqeaO"
     },
     {
       "album": {
@@ -17494,6 +17574,24 @@
       "duration_ms": 200021,
       "name": "\u822a\u884c\u8005\u4e00\u865f",
       "url": "https://open.spotify.com/track/6CZWYdD5QJOLl748QblWBD"
+    },
+    {
+      "album": {
+        "name": "\u82b1\u958b\u6709\u6bd2",
+        "url": "https://open.spotify.com/album/0rQ10oGPwQJXoqp5ChDpnr"
+      },
+      "artists": [
+        {
+          "name": "BONBON",
+          "url": "https://open.spotify.com/artist/20nbtZQKG25u7aYv9dgviq"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203418,
+      "name": "\u82b1\u958b\u6709\u6bd2",
+      "url": "https://open.spotify.com/track/0bZU5NSgkGKnQyHrC86WJa"
     },
     {
       "album": {

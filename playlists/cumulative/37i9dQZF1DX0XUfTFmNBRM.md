@@ -2,7 +2,7 @@
 
 ### [Hot Hits Hindi](https://open.spotify.com/playlist/37i9dQZF1DX0XUfTFmNBRM)
 
-> Hottest Hindi music served here\. Cover \- Chamkila
+> Hottest Hindi music served here\. Cover \- Animal
 
 336 songs - 22 hr 7 min
 

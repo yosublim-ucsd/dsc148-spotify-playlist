@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "This Is Intocable. Los temas esenciales, todos en una lista.",
+  "description": "This is Intocable. The essential tracks, all in one playlist.",
   "name": "This Is Intocable",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-24",
+      "date_removed": null,
       "duration_ms": 200520,
       "name": "Arrepi\u00e9ntete",
       "url": "https://open.spotify.com/track/7fgDFGjD68J5EjoqOwdiMg"
@@ -748,7 +748,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 206400,
       "name": "No Te Vayas",
       "url": "https://open.spotify.com/track/7AM7gEehnVqElO1BD9h8dC"

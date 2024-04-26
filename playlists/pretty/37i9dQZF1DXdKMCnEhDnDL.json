@@ -1,12 +1,12 @@
 {
   "description": "De beste Nederlandse liedjes. Cover: FLEMMING, Zo\u00eb Tauran & Ronnie Flex",
-  "num_followers": 482856,
+  "num_followers": 482942,
   "original_name": "Beste van NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzI2NzI0NSwwMDAwMDAwMDFjMjA1NTg4OTNmNWYzZjVhZGEwNWY2NzU5YWIwNzM3",
+  "snapshot_id": "MTcxNDA0Njc3OSwwMDAwMDAwMDRiNTk2MzI2YmIxMjUwNTk3OTQyMzI0NTNlNWI5MTlm",
   "tracks": [
     {
       "added_at": "2024-04-16 11:34:05",
@@ -923,26 +923,6 @@
     {
       "added_at": "2024-04-16 11:34:05",
       "album": {
-        "name": "Venus (ft. Noor)",
-        "url": "https://open.spotify.com/album/0iB2ctTWAoM76KbMy4RJh1"
-      },
-      "artists": [
-        {
-          "name": "WIES",
-          "url": "https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n"
-        },
-        {
-          "name": "Norah Hendriks",
-          "url": "https://open.spotify.com/artist/6hxi3TzUBLGeBT1GCGA3sT"
-        }
-      ],
-      "duration_ms": 170048,
-      "name": "Venus (ft. Noor)",
-      "url": "https://open.spotify.com/track/5ImaYkWsroSsnfa0mD7vpD"
-    },
-    {
-      "added_at": "2024-04-16 11:34:05",
-      "album": {
         "name": "Altijd Onderweg",
         "url": "https://open.spotify.com/album/7K7CynIwvLxVkzLCmjxDbJ"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 164757,
       "name": "Oceaan",
       "url": "https://open.spotify.com/track/7GWU6dQFjYF5YpsAUwZfGq"
+    },
+    {
+      "added_at": "2024-04-16 11:34:05",
+      "album": {
+        "name": "Venus (ft. Noor)",
+        "url": "https://open.spotify.com/album/0iB2ctTWAoM76KbMy4RJh1"
+      },
+      "artists": [
+        {
+          "name": "WIES",
+          "url": "https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n"
+        },
+        {
+          "name": "Norah Hendriks",
+          "url": "https://open.spotify.com/artist/6hxi3TzUBLGeBT1GCGA3sT"
+        }
+      ],
+      "duration_ms": 170048,
+      "name": "Venus (ft. Noor)",
+      "url": "https://open.spotify.com/track/5ImaYkWsroSsnfa0mD7vpD"
     },
     {
       "added_at": "2024-04-16 11:34:05",

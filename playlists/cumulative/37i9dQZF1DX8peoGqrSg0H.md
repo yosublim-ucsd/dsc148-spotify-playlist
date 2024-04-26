@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> เพลง T\-Pop โดนใจ อัปเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: Ink Waruntorn
+> เพลง T\-Pop โดนใจ อัปเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: TIGGER
 
-479 songs - 1 day 4 hr 30 min
+481 songs - 1 day 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [HI YA YA \(แค่มีเธอ\)](https://open.spotify.com/track/45Byir0bemNjJFxHLx8Lir) | [4MIX](https://open.spotify.com/artist/7KLf6fRWodKmnPducVKvbX) | [HI YA YA \(แค่มีเธอ\)](https://open.spotify.com/album/5839gv3g8G9jrqgtG6E3hE) | 3:09 | 2023-04-27 | 2023-05-12 |
 | [HOT & COLD \(ร้อนๆ หนาวๆ\)](https://open.spotify.com/track/32VqVoLwv5FASA9Ih00IY9) | [4MIX](https://open.spotify.com/artist/7KLf6fRWodKmnPducVKvbX) | [HOT & COLD \(ร้อนๆ หนาวๆ\)](https://open.spotify.com/album/5w0HUap5EkEsRvE00XwUvB) | 3:31 | 2022-11-11 | 2022-11-18 |
 | [hot2hot](https://open.spotify.com/track/3eUgJRHtoCxg9T0wV49gKo) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [hot2hot](https://open.spotify.com/album/6qjuFWN9s0z4gho6PWQXQH) | 4:13 | 2024-02-22 |  |
-| [HYPEWAY](https://open.spotify.com/track/6JbdpwZ9B2IpOHn5CWmmwj) | [RedSpin](https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7) | [HYPEWAY](https://open.spotify.com/album/4YQ1Hfz8vpWMRJxdEU1pS0) | 3:06 | 2024-04-11 |  |
+| [HYPEWAY](https://open.spotify.com/track/6JbdpwZ9B2IpOHn5CWmmwj) | [RedSpin](https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7) | [HYPEWAY](https://open.spotify.com/album/4YQ1Hfz8vpWMRJxdEU1pS0) | 3:06 | 2024-04-11 | 2024-04-26 |
 | [I DON'T KNOW](https://open.spotify.com/track/2phiE1WK9XCqgumBH4AKuo) | [GRACE](https://open.spotify.com/artist/07QhtaY2Bl5FNhrWTVycwr) | [I DON'T KNOW](https://open.spotify.com/album/4iL1Ec3VImGfbjOWih4IRd) | 3:00 | 2022-09-29 | 2022-10-08 |
 | [I DON'T MISS YOU](https://open.spotify.com/track/0Xv1iMu2DaRL7R7g7dhQIa) | [TRINITY](https://open.spotify.com/artist/70iyLnJ4uH2zMmLLdGM9oM) | [I DON'T MISS YOU](https://open.spotify.com/album/58Yq6ydlcwCNCmoHmyHxuC) | 3:27 | 2022-05-26 | 2022-06-17 |
 | [I Got That Magic](https://open.spotify.com/track/1bSjf9p0HSAeZmrT2vF41w) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [I Got That Magic](https://open.spotify.com/album/6diTZb076jdj8JTtumIoT4) | 3:25 | 2024-02-28 | 2024-03-15 |
@@ -73,7 +73,7 @@
 | [Last Train](https://open.spotify.com/track/3QnxZYQmOOvIRtVj3i9Ipa) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF), [THREE1989](https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn) | [Last Train](https://open.spotify.com/album/4XVsm1ov9k7FLTotdBG82G) | 3:37 | 2022-07-01 | 2022-07-15 |
 | [Lavender](https://open.spotify.com/track/3BV2YcwoVRxK4dXxyaHpZU) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [Lavender](https://open.spotify.com/album/2rtLGvRaYgmrI3zbcIq5LM) | 4:13 | 2022-05-26 | 2022-08-26 |
 | [Life Boy \(พูดไปก็ไลฟ์บอย\)](https://open.spotify.com/track/6PBIcQaSWsv3EBExPSk9H3) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Life Boy \(พูดไปก็ไลฟ์บอย\)](https://open.spotify.com/album/5jteqptiESbFUa4kEPwiqK) | 3:20 | 2023-05-04 |  |
-| [Light it up](https://open.spotify.com/track/5a3ahIUsesEbEpgglAG3Rz) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [Light it up](https://open.spotify.com/album/2QwevYKKWJkQVqJ024I7or) | 2:50 | 2024-04-11 |  |
+| [Light it up](https://open.spotify.com/track/5a3ahIUsesEbEpgglAG3Rz) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [Light it up](https://open.spotify.com/album/2QwevYKKWJkQVqJ024I7or) | 2:50 | 2024-04-11 | 2024-04-26 |
 | [Long Run](https://open.spotify.com/track/07FoWeMGtWfL80KWEVFtqx) | [BRIGHT](https://open.spotify.com/artist/00AG9ycUdGUSIWuekBMp5H) | [Long Run](https://open.spotify.com/album/55vik9rFq6FwoSIgqM8179) | 3:37 | 2024-04-18 |  |
 | [LUCKY YOU](https://open.spotify.com/track/2mkwWrCvmj1rjG0VbbtjON) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF), [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [LUCKY YOU](https://open.spotify.com/album/3m7gfDBTZxjE6dh3Trt02B) | 3:14 | 2024-02-15 | 2024-03-08 |
 | [Melbourne](https://open.spotify.com/track/0nYZ6GR0fCPmxqjPOaPGjJ) | [Morvasu](https://open.spotify.com/artist/4S7sdsjS2srUTDPXAuOYw8), [TangBadVoice](https://open.spotify.com/artist/2feGNLrcUrcsQNA1QJBaIe) | [Melbourne](https://open.spotify.com/album/24u4TYFCGbRZA6t19j4B8w) | 3:02 | 2022-05-26 | 2022-08-26 |
@@ -102,6 +102,7 @@
 | [Shoot \(Choose\) เลย](https://open.spotify.com/track/6tFi6XNeINiaexPT6UEsr7) | [BOSS.CKM](https://open.spotify.com/artist/2ydSOTHypXPznsmVExy296) | [Shoot \(Choose\) เลย](https://open.spotify.com/album/6x16iACbWCOQ6f5NmMO1Is) | 3:30 | 2024-04-11 | 2024-04-19 |
 | [sit down \(please\)](https://open.spotify.com/track/6rdvnD6z1xJbTidt3Q9FJP) | [minekuk](https://open.spotify.com/artist/7g2BV00EBpwqYizj9gXbYK) | [sit down \(please\)](https://open.spotify.com/album/5At3PVA5w5fTxoyd4USrkP) | 3:45 | 2022-05-26 | 2022-06-01 |
 | [So Big](https://open.spotify.com/track/6QB644JBem2AXeb3q4OLtT) | [Wonderframe](https://open.spotify.com/artist/5bzFXP4FjQKAwuiHJTsNp9) | [Yours <3](https://open.spotify.com/album/3VUPo0U0ZShcYi1wmTipRr) | 3:04 | 2022-06-09 | 2022-06-17 |
+| [Someone Someday](https://open.spotify.com/track/6AkBrA64ZQjNMBiqMmH9xb) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [Someone Someday](https://open.spotify.com/album/2IYfkj2Azk9MzpipFlagkF) | 3:57 | 2024-04-25 |  |
 | [SPARE เมื่อไหร่ก็มานะ](https://open.spotify.com/track/5jVORmIjCd1TtTKARCDmKC) | [Kacha Nontanun](https://open.spotify.com/artist/0F2sO0QaLK1iakw7sR80xB) | [SPARE เมื่อไหร่ก็มานะ](https://open.spotify.com/album/2HaGQLrPaPdJMBdvnXFjLu) | 4:17 | 2022-06-09 | 2022-06-17 |
 | [SPARK!](https://open.spotify.com/track/4O2jdf604G0LxUb1HNLO8y) | [NANON](https://open.spotify.com/artist/15A3eJ05XZObM0QEh1zfTo) | [THE SECRETS OF THE UNIVERSE](https://open.spotify.com/album/1fkYltp0XYhWyE2FpYmbin) | 3:19 | 2023-11-16 | 2023-12-16 |
 | [SPIDERMAN](https://open.spotify.com/track/36ZiiKPdshTuQ1tj6eO92J) | [Timethai](https://open.spotify.com/artist/2VV4AGhL9jU2GuW9CIOpj2), [Maiyarap](https://open.spotify.com/artist/4QLlbZcntdcWpm40NooC2M) | [SPIDERMAN](https://open.spotify.com/album/2YzrYq11rFiivZ7jKck6Pk) | 2:48 | 2023-02-23 | 2023-03-10 |
@@ -363,6 +364,7 @@
 | [ห้ามใจไม่อยู่](https://open.spotify.com/track/2hteglfTJmJmqac9pXz7rb) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV) | [ห้ามใจไม่อยู่](https://open.spotify.com/album/0WoTqqnZsmcudqviK2jBcN) | 3:40 | 2022-05-26 | 2022-07-29 |
 | [ห้ามใจไม่อยู่](https://open.spotify.com/track/3xVsS8m92jEGMh3DXGe1PW) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV) | [ห้ามใจไม่อยู่](https://open.spotify.com/album/2oBrpIpHLArLyXiMLx4Knq) | 3:40 | 2022-07-28 | 2022-11-16 |
 | [อกหักแต่บอกแฟนไม่ได้ \(Shhhh!\)](https://open.spotify.com/track/1BhiR1qlAMzWhi0AgEPilB) | [SLAPKISS](https://open.spotify.com/artist/6GBIcdZ5aBhhsd7Y6c3O3g) | [อกหักแต่บอกแฟนไม่ได้ \(Shhhh!\)](https://open.spotify.com/album/3VnwBDrzS0Ly8e3Q7nmOzy) | 3:42 | 2022-07-22 | 2022-07-29 |
+| [อยากชวนเธอมาสนิท \(PASSERBY\)](https://open.spotify.com/track/0Owt9EMT0meybf6Nb5PgLl) | [TIGGER \(ทิกเกอร์\)](https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF) | [อยากชวนเธอมาสนิท \(PASSERBY\) \- Single](https://open.spotify.com/album/4NEDDZd9neIQfphG2fxA61) | 3:02 | 2024-04-25 |  |
 | [อยากยืมเธอมาเล่นที่บ้าน \(borrow u\)](https://open.spotify.com/track/3JrE6JKjvU3inkC2gNkWfo) | [Bella Raiwin](https://open.spotify.com/artist/5xOxlinswAywOSzvMV96gL) | [อยากยืมเธอมาเล่นที่บ้าน \(borrow u\)](https://open.spotify.com/album/3qTQSnFoiJU1nGw8InVPot) | 3:42 | 2022-07-28 | 2022-08-06 |
 | [อยากรวยโว้ย \(orz\)](https://open.spotify.com/track/0x59oJGgBi2vocTwb2AtxB) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1), [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy) | [อยากรวยโว้ย \(orz\)](https://open.spotify.com/album/4VotgOA8Ca3AL4RVFv66X4) | 3:19 | 2023-06-15 | 2023-06-23 |
 | [อยากเริ่มต้นใหม่กับคนเดิม \(repeat\)](https://open.spotify.com/track/0g6sPkauqoHKPtLzYGc1z6) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [อยากเริ่มต้นใหม่กับคนเดิม \(repeat\)](https://open.spotify.com/album/5VLyuQugRFa4tBxfppcmTn) | 3:58 | 2022-07-28 | 2022-08-26 |

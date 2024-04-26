@@ -3269,6 +3269,24 @@
     },
     {
       "album": {
+        "name": "Never Never",
+        "url": "https://open.spotify.com/album/0NhVvH6l27Xyeo7PrToHKR"
+      },
+      "artists": [
+        {
+          "name": "Leoniden",
+          "url": "https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171313,
+      "name": "Never Never",
+      "url": "https://open.spotify.com/track/2P1pnhmmFON3lW4rzkjCm5"
+    },
+    {
+      "album": {
         "name": "New 68",
         "url": "https://open.spotify.com/album/0R1JPqXUR7sXSq67zGMRqO"
       },
@@ -3606,7 +3624,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 196001,
       "name": "Paranoid",
       "url": "https://open.spotify.com/track/0HMqKvy71TIbFMZP573ggQ"

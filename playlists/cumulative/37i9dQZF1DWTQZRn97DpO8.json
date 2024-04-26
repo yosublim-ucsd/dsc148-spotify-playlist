@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : Charlotte Cardin",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : Arma Jackson",
   "name": "le miel",
   "tracks": [
     {
@@ -146,7 +146,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 180000,
       "name": "Avec Toi",
       "url": "https://open.spotify.com/track/0X2jgXzlIaYfEvBze5h2vC"
@@ -593,6 +593,24 @@
     },
     {
       "album": {
+        "name": "dettes & doutes",
+        "url": "https://open.spotify.com/album/4EzjfpAy0krq50I8HZOH9g"
+      },
+      "artists": [
+        {
+          "name": "HASNA",
+          "url": "https://open.spotify.com/artist/30ZYb42MwDzkubaZm2GEoq"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174494,
+      "name": "dettes & doutes",
+      "url": "https://open.spotify.com/track/1bm4RjFSsHIQ4z8WxFrIFF"
+    },
+    {
+      "album": {
         "name": "Dimanche Soir",
         "url": "https://open.spotify.com/album/4lSVxSUbj5WchWl67HBwqX"
       },
@@ -879,6 +897,24 @@
     },
     {
       "album": {
+        "name": "HIVER SOLEIL",
+        "url": "https://open.spotify.com/album/3fU28aRCX93j1EWFU7qPwq"
+      },
+      "artists": [
+        {
+          "name": "Willem",
+          "url": "https://open.spotify.com/artist/5C2rvqVmZ93SCkWpSKBVnb"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188630,
+      "name": "HIVER SOLEIL",
+      "url": "https://open.spotify.com/track/4NsoWOlbqgiV6D32n4vzvR"
+    },
+    {
+      "album": {
         "name": "HOLD-UP",
         "url": "https://open.spotify.com/album/7LW1aet43rMDNm9E96Jotx"
       },
@@ -999,6 +1035,24 @@
     },
     {
       "album": {
+        "name": "IL NE RESTE RIEN",
+        "url": "https://open.spotify.com/album/0m8FFcTojtd08CI6Ui2e2V"
+      },
+      "artists": [
+        {
+          "name": "Clo\u00e9 Mailly",
+          "url": "https://open.spotify.com/artist/2Ekb814CvFDXc3uls3S8EG"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128741,
+      "name": "IL NE RESTE RIEN",
+      "url": "https://open.spotify.com/track/7cVEIuWVPczsqgzLUHqrxX"
+    },
+    {
+      "album": {
         "name": "\u00c9t\u00e9 sans fin",
         "url": "https://open.spotify.com/album/5ya3DUeWCWz2gtftAC3tLH"
       },
@@ -1090,6 +1144,24 @@
       "duration_ms": 211408,
       "name": "Je t'ai cherch\u00e9",
       "url": "https://open.spotify.com/track/0oncxtG7oIZK34SWHZNe60"
+    },
+    {
+      "album": {
+        "name": "Miel Box",
+        "url": "https://open.spotify.com/album/5hIoGiT48gQ5BpA4ENFBBq"
+      },
+      "artists": [
+        {
+          "name": "Mhike Xtensen",
+          "url": "https://open.spotify.com/artist/4g3RRp0XNIsMZK7lyoCIG8"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200012,
+      "name": "Je Te Laisse",
+      "url": "https://open.spotify.com/track/5ZqdSv8fa1KQrplwlEjh2V"
     },
     {
       "album": {
@@ -1478,7 +1550,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 180352,
       "name": "Mienne",
       "url": "https://open.spotify.com/track/5GFYyEJYUQrG4q3URRtT4B"
@@ -1518,7 +1590,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 104727,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/1odA378yBmB168qEXdrxka"
@@ -1594,7 +1666,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 164985,
       "name": "M\u00eame si",
       "url": "https://open.spotify.com/track/2qKaQs2leFuprBfviIewts"
@@ -1871,6 +1943,24 @@
     },
     {
       "album": {
+        "name": "Pour Nous.",
+        "url": "https://open.spotify.com/album/5OU3V3eM4vg62qEB8YoNF9"
+      },
+      "artists": [
+        {
+          "name": "Ceddy",
+          "url": "https://open.spotify.com/artist/4JtnoUcq4vX7FfPxrFNlqk"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Pour Nous.",
+      "url": "https://open.spotify.com/track/4vibVoo7jaZob9yzWXoS5U"
+    },
+    {
+      "album": {
         "name": "PRADA\u2019S BIRTHDAY - A COLORS SHOW",
         "url": "https://open.spotify.com/album/1sTBYpKRWhZCIAcX5RjztP"
       },
@@ -2056,7 +2146,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 198386,
       "name": "Reste en Vie",
       "url": "https://open.spotify.com/track/1qkwBaQUYh3HeUlUlGu8YM"
@@ -2515,6 +2605,28 @@
     },
     {
       "album": {
+        "name": "Trop Mimi",
+        "url": "https://open.spotify.com/album/68RNLV2N3LZPgWJVk2CF6c"
+      },
+      "artists": [
+        {
+          "name": "Myra",
+          "url": "https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE"
+        },
+        {
+          "name": "Chilla",
+          "url": "https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147400,
+      "name": "Trop Mimi",
+      "url": "https://open.spotify.com/track/4TFzHSY1EQ7pbc1cqFndW0"
+    },
+    {
+      "album": {
         "name": "Trop parfait",
         "url": "https://open.spotify.com/album/2urrKhxLyCvLgCcw2n8qta"
       },
@@ -2660,7 +2772,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 202813,
       "name": "Une semaine pour oublier...",
       "url": "https://open.spotify.com/track/1x6x2YSqFPqQtTkHFBnfdJ"

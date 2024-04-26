@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS">Max Martin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-518 songs - 1 day 6 hr 59 min
+519 songs - 1 day 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -438,6 +438,7 @@
 | [SUPERMODEL](https://open.spotify.com/track/1cIZX3xElHQeuF4qrpvliW) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL \(Official Video\)](https://open.spotify.com/album/37gjR27dyE4vr1YSHx0vFf) | 3:05 | 2024-01-30 | 2024-02-02 |
 | [supernatural](https://open.spotify.com/track/142PiXzA84lmEw2RstFHFa) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:43 | 2024-03-15 |  |
 | [Supernatural](https://open.spotify.com/track/1UKDcxiR4VNad3toIHpJZ6) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Warrior \(Expanded Edition\)](https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu) | 4:10 | 2024-01-29 |  |
+| [supernatural \(with Troye Sivan\)](https://open.spotify.com/track/3iJOkxYP59kFJ5OLgHo4Tp) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [eternal sunshine \(slightly deluxe\)](https://open.spotify.com/album/5Csjy4XeA7KnizkhIvI7y2) | 2:43 | 2024-04-25 |  |
 | [Take Me Back to London \(feat\. Stormzy\)](https://open.spotify.com/track/1AI7UPw3fgwAFkvAlZWhE0) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:09 | 2024-01-29 |  |
 | [Take Me Back To London \(Remix\) \[feat\. Stormzy, Jaykae & Aitch\]](https://open.spotify.com/track/2nyTaLu3TTrSS6CAxR3z0b) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Jaykae](https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Take Me Back To London \(Remix\) \[feat\. Stormzy, Jaykae & Aitch\]](https://open.spotify.com/album/71znMnnyOF4NIe4UpTYbw7) | 3:52 | 2024-01-29 |  |
 | [Take Me Back To London \(Sir Spyro Remix\) \[feat\. Stormzy, Jaykae & Aitch\]](https://open.spotify.com/track/4iYxrnTvYsTtyphOTqTvkh) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Jaykae](https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Sir Spyro](https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT) | [Take Me Back To London \(Remix\) \[feat\. Stormzy, Jaykae & Aitch\]](https://open.spotify.com/album/71znMnnyOF4NIe4UpTYbw7) | 3:51 | 2024-01-29 |  |

@@ -2,7 +2,7 @@
 
 ### [Jazz Anak Negeri](https://open.spotify.com/playlist/37i9dQZF1DWZrhFFq3bnGV)
 
-> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Adikara
+> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: dillasarah
 
 179 songs - 13 hr 1 min
 

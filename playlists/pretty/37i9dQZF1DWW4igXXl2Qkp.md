@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop music by independent artists and labels\. Cover: Chow Lee
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,403 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,565 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 68 | [Door Dash](https://open.spotify.com/track/14NjvajwODFtcJXpkylDlK) | [GMF Fatboy](https://open.spotify.com/artist/7B8T3S0UZQCAwqqFOQYOrM), [Big Yavo](https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF) | [Door Dash](https://open.spotify.com/album/0BYj8oqEiJqKoYneDJmUbh) | 2:26 |
 | 69 | [Need It All](https://open.spotify.com/track/5lwNJAHTpfz4P2egmayzRF) | [Kiraly Payne](https://open.spotify.com/artist/0vWdKxJyCD8VKzBRXtW0cv) | [Need It All](https://open.spotify.com/album/01nMG6opY5Y3TfyYxW8jlW) | 2:55 |
 | 70 | [Cru](https://open.spotify.com/track/1TLAsyzgnb7la3SkWOMmiG) | [Namani](https://open.spotify.com/artist/6AVWyEvyKJJwQjDHU8Eqaj) | [Cru/Orda](https://open.spotify.com/album/2A8GfdnvC4FmECcGIfwZ64) | 3:14 |
-| 71 | [UP, LIT\. FREESTYLE](https://open.spotify.com/track/5otwYoHr4ML9vOLfpoDPaU) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [UP, LIT\. FREESTYLE](https://open.spotify.com/album/0yfQ1iNGmgIaQqJlqcO1HZ) | 1:56 |
+| 71 | [UP, LIT.](https://open.spotify.com/track/5otwYoHr4ML9vOLfpoDPaU) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [UP, LIT.](https://open.spotify.com/album/0yfQ1iNGmgIaQqJlqcO1HZ) | 1:57 |
 | 72 | [BEADY BEED](https://open.spotify.com/track/7KRS5ZwB8w1Y0pbQPcoH0V) | [YGTUT](https://open.spotify.com/artist/5rOkxO8Va1CnXhF7nrHMrU), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [BEADY BEED](https://open.spotify.com/album/2LqYpmfdHJDsrsh2zVKYsN) | 3:41 |
 | 73 | [Probably Cursed](https://open.spotify.com/track/7oxvFIDtNVZwekhYPqqVnw) | [EBK Jaaybo](https://open.spotify.com/artist/7iKgSlIINjat3bsCYiNMYX) | [Probably Cursed](https://open.spotify.com/album/4swbbKCogvSKzIpH2ftorO) | 2:47 |
 | 74 | [Damn\. \(mandem pleaded\)](https://open.spotify.com/track/6sn9fDRvaNOHgjgGi6uxfv) | [Namani](https://open.spotify.com/artist/6AVWyEvyKJJwQjDHU8Eqaj) | [Damn\. \(mandem pleaded\)](https://open.spotify.com/album/6H9m32fNl4LSPhjiT1OyJ9) | 1:48 |

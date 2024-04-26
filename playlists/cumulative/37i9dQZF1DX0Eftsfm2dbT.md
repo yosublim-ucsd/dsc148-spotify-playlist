@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: Kaneee
 
-673 songs - 1 day 10 hr 46 min
+675 songs - 1 day 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -472,6 +472,7 @@
 | [Reach \(feat\. C.O.S.A.\)](https://open.spotify.com/track/2esBmM9PGpDIjydVegNLy9) | [ANARCHY](https://open.spotify.com/artist/1zHcoqaTvlZdEd7CUjk2eI), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p) | [My Mind](https://open.spotify.com/album/6bbPfBJXoz1ISxx4T48krs) | 2:57 | 2023-10-19 | 2023-12-27 |
 | [Ready To Fight](https://open.spotify.com/track/0unSFECh7Y97Kt61ZGHSly) | [DJ RYOW](https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn), [guca owl](https://open.spotify.com/artist/4itoeqQ3NcIgbtec5B4GGf), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [DRIVE MY DREAMS](https://open.spotify.com/album/1QOxEYdOCWw8OELJ7Lr3PV) | 2:52 | 2024-03-27 | 2024-04-19 |
 | [Ready To Fight](https://open.spotify.com/track/2k1JY21H2w4RbrvbJ3iHFC) | [DJ RYOW](https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn), [guca owl](https://open.spotify.com/artist/4itoeqQ3NcIgbtec5B4GGf), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [DRIVE MY DREAMS](https://open.spotify.com/album/5FWp05PHX3UMevTppACZJ5) | 2:52 | 2024-03-26 |  |
+| [Red Bull 64 Bars](https://open.spotify.com/track/1b4QVnDFYi3vUSmHyr5vTQ) | [MuKuRo](https://open.spotify.com/artist/7tTAJHjW4myAy5ivdgwhJc), [NARISK](https://open.spotify.com/artist/4maQ6S6tTUotbPZHaxvmxV) | [Red Bull 64 Bars](https://open.spotify.com/album/01FzHeJrDS29aMG6lJLvAB) | 3:52 | 2024-04-25 |  |
 | [Red Bull 64 Bars](https://open.spotify.com/track/18nTSkuJ1QqmGWje7Vg0kN) | [STACK THE PINK](https://open.spotify.com/artist/3NoSLTyqIc9Zonh4V7JtXt), [J1rock](https://open.spotify.com/artist/0nuCtZ6ZHTKzQAI21HNh74) | [Red Bull 64 Bars](https://open.spotify.com/album/2buaIfo9ZtnKuK0K8QuRKF) | 2:10 | 2024-04-24 |  |
 | [REMEMBER](https://open.spotify.com/track/3gafWlZ2JkzxjFMWekqcQk) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA) | [REMEMBER](https://open.spotify.com/album/6tEEc0Afxp3keGmu7fItcy) | 2:22 | 2023-09-26 | 2023-09-28 |
 | [REMEMBER](https://open.spotify.com/track/6BENxiVRwDYnr8KlX5w1bB) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA) | [REMEMBER](https://open.spotify.com/album/55eCIsQ6HPgugMaEmQbBbV) | 2:22 | 2023-09-26 | 2023-10-04 |
@@ -681,5 +682,6 @@
 | [蜜蜂 \- MITSUBACHI](https://open.spotify.com/track/0OzEj2fkH8Ax9dI7bjHP4l) | [Shurkn Pap](https://open.spotify.com/artist/1LFHjuuofxqkQL8vrJtpFB), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [蜜蜂 \- MITSUBACHI](https://open.spotify.com/album/3W0gGosRWSorZPPgKRd292) | 3:24 | 2023-09-21 | 2023-10-04 |
 | [超Fresh](https://open.spotify.com/track/6Tsdxi0HkSImYREelPrBc8) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Noodle](https://open.spotify.com/album/0Ch7fs2VDUUfOUdy7PXBBS) | 2:52 | 2023-12-06 | 2023-12-07 |
 | [返答](https://open.spotify.com/track/0w7IwkrMz5wPDK8qSzD2ZK) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA), [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY) | [REVENGE](https://open.spotify.com/album/4w98BIOWdMhWPGT2SnHiXQ) | 4:18 | 2023-11-28 | 2023-11-30 |
+| [黄色](https://open.spotify.com/track/7Lew3PsdlHJTsiYxIfkIL7) | [Kay\-on](https://open.spotify.com/artist/2F81r2H2weMXa83CD2VD9H), [R\-指定](https://open.spotify.com/artist/3pxWbsggB2iSNlowHTdkT6) | [黄色](https://open.spotify.com/album/0TfaHWQ8E8hmEuVitvXE43) | 3:12 | 2024-04-25 |  |
 
 \*This playlist was first scraped on 2023-09-23. Prior content cannot be recovered.

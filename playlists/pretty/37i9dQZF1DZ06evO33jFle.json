@@ -1,12 +1,12 @@
 {
-  "description": "This is Jenni Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 461413,
+  "description": "This Is Jenni Rivera. Los temas esenciales, todos en una lista.",
+  "num_followers": 461505,
   "original_name": "This Is Jenni Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzgzMDQwMCwwMDAwMDAwMDNkNjIyY2QzOTg4MWVlMjVkOTg0MDc1YzMxMzJiZTc2",
+  "snapshot_id": "MTcxMzkxNjgwMCwwMDAwMDAwMDZjZGEyODczZDRkN2Q0YWRlZTNjNzQ1Mzg3NDhiZDlh",
   "tracks": [
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Chacalosa",
-        "url": "https://open.spotify.com/album/29TlqFabnT9Rk8VIVWXypc"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 216880,
-      "name": "La Chacalosa",
-      "url": "https://open.spotify.com/track/150USNQZ2CCfh4KxRxG0CP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aparentemente Bien",
         "url": "https://open.spotify.com/album/1932flu69zKoy3j2Qgz0P2"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 257721,
       "name": "Aparentemente Bien - Versi\u00f3n Sencillo",
       "url": "https://open.spotify.com/track/2nHekPOutiUg9MiCp74NjH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Chacalosa",
+        "url": "https://open.spotify.com/album/29TlqFabnT9Rk8VIVWXypc"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 216880,
+      "name": "La Chacalosa",
+      "url": "https://open.spotify.com/track/150USNQZ2CCfh4KxRxG0CP"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joyas Prestadas - Pop",
-        "url": "https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 277333,
-      "name": "As\u00ed Fue - Pop",
-      "url": "https://open.spotify.com/track/7G9UBSP0u8EEDWNaadXnZU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jenni",
         "url": "https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh"
       },
@@ -735,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paloma Negra Desde Monterrey (En Vivo)",
-        "url": "https://open.spotify.com/album/1OQyE64iZHLb0gmDSTP0zN"
+        "name": "Joyas Prestadas - Pop",
+        "url": "https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6"
       },
       "artists": [
         {
@@ -744,9 +728,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 200081,
-      "name": "Sufriendo a Solas - En Vivo",
-      "url": "https://open.spotify.com/track/2MhTfp7RJMUi7eGgltSyLW"
+      "duration_ms": 277333,
+      "name": "As\u00ed Fue - Pop",
+      "url": "https://open.spotify.com/track/7G9UBSP0u8EEDWNaadXnZU"
     },
     {
       "added_at": null,
@@ -791,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joyas Prestadas - Pop",
-        "url": "https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 309506,
-      "name": "Porque Me Gusta a Morir - Pop",
-      "url": "https://open.spotify.com/track/1o1T0dmi0pPcJxYROpgBVy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Simplemente la Mejor",
         "url": "https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu"
       },
@@ -819,6 +787,22 @@
       "duration_ms": 224533,
       "name": "Cuando Abras los Ojos",
       "url": "https://open.spotify.com/track/7DgqG1GwFqEN5tsNpCbTEr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joyas Prestadas - Pop",
+        "url": "https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 309506,
+      "name": "Porque Me Gusta a Morir - Pop",
+      "url": "https://open.spotify.com/track/1o1T0dmi0pPcJxYROpgBVy"
     },
     {
       "added_at": null,

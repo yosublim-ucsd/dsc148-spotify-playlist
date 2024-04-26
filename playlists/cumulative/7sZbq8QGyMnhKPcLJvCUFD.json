@@ -10289,6 +10289,24 @@
     },
     {
       "album": {
+        "name": "Vida Nova",
+        "url": "https://open.spotify.com/album/1HwnKFaOeS5dEpkmzrMc1Y"
+      },
+      "artists": [
+        {
+          "name": "Emin Nilsen",
+          "url": "https://open.spotify.com/artist/59TVoD6bvD2JFs9xLZH9bX"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116842,
+      "name": "Vida Nova",
+      "url": "https://open.spotify.com/track/23E61Q0ABWtFFvLnjLmdqO"
+    },
+    {
+      "album": {
         "name": "Vienna",
         "url": "https://open.spotify.com/album/1mP6fGKWD1xGXHA3kUR43N"
       },

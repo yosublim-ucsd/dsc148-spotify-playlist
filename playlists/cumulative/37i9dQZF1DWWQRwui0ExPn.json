@@ -34708,7 +34708,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 163468,
       "name": "Envision",
       "url": "https://open.spotify.com/track/1uXF503ovswvRMxJ3sMdBJ"
@@ -37594,7 +37594,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 123428,
       "name": "Fender Bender",
       "url": "https://open.spotify.com/track/3pjPkqTACSQHtQIgPJWSPN"
@@ -54459,6 +54459,24 @@
     },
     {
       "album": {
+        "name": "Infatuation",
+        "url": "https://open.spotify.com/album/7jyFahk8jreROQWytKKOjV"
+      },
+      "artists": [
+        {
+          "name": "Carlile G.",
+          "url": "https://open.spotify.com/artist/1sFHTftk8Uv66yflP78Wi7"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131052,
+      "name": "Infatuation",
+      "url": "https://open.spotify.com/track/0NyWQXKhL4LFhoRgAKg9DF"
+    },
+    {
+      "album": {
         "name": "Infinite Rooms",
         "url": "https://open.spotify.com/album/1uZldXvBJHSlsqNYzQxUOn"
       },
@@ -66980,6 +66998,28 @@
       "duration_ms": 127058,
       "name": "Low Light",
       "url": "https://open.spotify.com/track/50GgGFke22W9dVw6AgGHJu"
+    },
+    {
+      "album": {
+        "name": "Low Tide",
+        "url": "https://open.spotify.com/album/4NKElIDmOSXyChrfwC5DW2"
+      },
+      "artists": [
+        {
+          "name": "S\u00e1tyr",
+          "url": "https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf"
+        },
+        {
+          "name": "Mosalla",
+          "url": "https://open.spotify.com/artist/2MlmctFTcQ5Qhjq5ataD5C"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136846,
+      "name": "Low Tide",
+      "url": "https://open.spotify.com/track/7DvFefh4tcbBPuqlLZkYlY"
     },
     {
       "album": {

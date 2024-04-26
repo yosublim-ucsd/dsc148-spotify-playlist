@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Madeleine Peyroux",
+  "description": "The best jazz new releases. Cover: Stephane Wrembel",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -522,6 +522,24 @@
       "duration_ms": 146186,
       "name": "Ain't Misbehavin'",
       "url": "https://open.spotify.com/track/1d0P00e6Esi37XOWiDlvG9"
+    },
+    {
+      "album": {
+        "name": "Ajala",
+        "url": "https://open.spotify.com/album/1kAexOnDyQcgwvMM3mFkjX"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261733,
+      "name": "Ajala",
+      "url": "https://open.spotify.com/track/7vRQeQcvAuf35fgKMou99k"
     },
     {
       "album": {
@@ -1337,6 +1355,24 @@
     },
     {
       "album": {
+        "name": "Bewitched: The Goddess Edition",
+        "url": "https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213213,
+      "name": "Bored",
+      "url": "https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5"
+    },
+    {
+      "album": {
         "name": "Brand New Life",
         "url": "https://open.spotify.com/album/6Vwe5sledpijPPJGg8HyGE"
       },
@@ -1924,7 +1960,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 219707,
       "name": "Coldwater Canyon",
       "url": "https://open.spotify.com/track/4BlyDxNj9bJIgle61DLymF"
@@ -4858,7 +4894,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 215480,
       "name": "Is Anything Wrong",
       "url": "https://open.spotify.com/track/0sHdyXmF9Q3Mh5ojcRoFDB"
@@ -5018,6 +5054,24 @@
       "duration_ms": 365288,
       "name": "It's Okay",
       "url": "https://open.spotify.com/track/1ao6KfsCQsl2zn55hTMtpd"
+    },
+    {
+      "album": {
+        "name": "I'm on a Roll",
+        "url": "https://open.spotify.com/album/58yG3zRmsrOWHKUVp6bCR6"
+      },
+      "artists": [
+        {
+          "name": "Kimberose",
+          "url": "https://open.spotify.com/artist/6CpNuq0rsIj6Il313E6lKL"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189863,
+      "name": "I\u2019m on a Roll",
+      "url": "https://open.spotify.com/track/1y2OtZELxfZRSPXOwkhjHv"
     },
     {
       "album": {
@@ -7340,7 +7394,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 205265,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/3pBncKks8ZvP64uXIPms7Q"
@@ -8576,6 +8630,24 @@
       "duration_ms": 298096,
       "name": "Soulful",
       "url": "https://open.spotify.com/track/4uuF07XqmSTTrpmHEfkYSc"
+    },
+    {
+      "album": {
+        "name": "Speed It Up",
+        "url": "https://open.spotify.com/album/7fvLATLPXXEcW36G42MeJa"
+      },
+      "artists": [
+        {
+          "name": "LORD$",
+          "url": "https://open.spotify.com/artist/1gR7fpk8xW1VGtSww5b4Vs"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185626,
+      "name": "Speed It Up",
+      "url": "https://open.spotify.com/track/7LYWuhrY9Wxf80NQiqrwdu"
     },
     {
       "album": {
@@ -10910,7 +10982,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 246946,
       "name": "Years Ago",
       "url": "https://open.spotify.com/track/1UDVHg7pt5G5KWJTvlkjJx"

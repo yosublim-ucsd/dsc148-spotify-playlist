@@ -1286,7 +1286,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 160977,
       "name": "Esa Noche",
       "url": "https://open.spotify.com/track/7nWqU2IJs9i0hcVIR90mnv"
@@ -2235,6 +2235,28 @@
     },
     {
       "album": {
+        "name": "La Salida",
+        "url": "https://open.spotify.com/album/4PMRXMSuAISejyz6LJ8At5"
+      },
+      "artists": [
+        {
+          "name": "Matt Hunter",
+          "url": "https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU"
+        },
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "La Salida",
+      "url": "https://open.spotify.com/track/0FqUHxjBLH7pkcTMgIwkN1"
+    },
+    {
+      "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/1KH6SoonDjQIqiI2naQwm9"
       },
@@ -2268,7 +2290,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 180247,
       "name": "Ley de Atracci\u00f3n",
       "url": "https://open.spotify.com/track/52PVGjg5sUhfs9PHiSl02c"
@@ -4794,6 +4816,24 @@
       "duration_ms": 199772,
       "name": "Wow Wow (feat. Becky G)",
       "url": "https://open.spotify.com/track/20ChN6ZWJ2yhuXcE6SKHDM"
+    },
+    {
+      "album": {
+        "name": "Ya No Quiero Verte",
+        "url": "https://open.spotify.com/album/4NUK8hZadlXlRMBwhsn5X9"
+      },
+      "artists": [
+        {
+          "name": "John C",
+          "url": "https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174947,
+      "name": "Ya No Quiero Verte",
+      "url": "https://open.spotify.com/track/1uoQJiOAWJ5S3IsrHFXlds"
     },
     {
       "album": {

@@ -299,6 +299,24 @@
     },
     {
       "album": {
+        "name": "De Lo Que Nada Fue",
+        "url": "https://open.spotify.com/album/36jJyeH1H4X8kYCQXJkE0b"
+      },
+      "artists": [
+        {
+          "name": "Flor de Jamaica",
+          "url": "https://open.spotify.com/artist/4jS676NJhUIjqAjmDzKG5f"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249606,
+      "name": "Canto",
+      "url": "https://open.spotify.com/track/5MQDQ5RAkpJrFaQfFdjvt6"
+    },
+    {
+      "album": {
         "name": "Hagalo usted mismo",
         "url": "https://open.spotify.com/album/7g7GPNhJJwqzVZ8tLWBUiU"
       },
@@ -2284,7 +2302,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 284120,
       "name": "Si T\u00fa No Vuelves",
       "url": "https://open.spotify.com/track/3PzmaAZJgzM9HgbsFHv33w"
