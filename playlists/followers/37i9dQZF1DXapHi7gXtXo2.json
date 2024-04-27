@@ -1,5 +1,5 @@
 {
-  "2024-04-26": 85223,
+  "2024-04-27": 85230,
   "date_first_scraped": "2023-12-05",
   "description": "Dale play y d\u00e9jate llevar por estas finas melod\u00edas Indie.",
   "name": "Radio Indie",
@@ -253,6 +253,28 @@
       "duration_ms": 201441,
       "name": "As\u00ed",
       "url": "https://open.spotify.com/track/7bNtNcHMc4VMmiWO9gQBXy"
+    },
+    {
+      "album": {
+        "name": "100PRE YORO",
+        "url": "https://open.spotify.com/album/6xOaHqhD9jaJtR3xmFHrzP"
+      },
+      "artists": [
+        {
+          "name": "Lara91k",
+          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
+        },
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172120,
+      "name": "atame",
+      "url": "https://open.spotify.com/track/496CwTqTiS1STcigZhzUJE"
     },
     {
       "album": {
@@ -1835,7 +1857,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 178005,
       "name": "Quiero Que Seas T\u00fa",
       "url": "https://open.spotify.com/track/0qBn4QfRGYx8KKbpYTzbcm"

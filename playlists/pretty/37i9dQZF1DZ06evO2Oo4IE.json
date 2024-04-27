@@ -1,12 +1,12 @@
 {
-  "description": "This Is Janis Joplin. Todas as faixas essenciais numa \u00fanica playlist.",
-  "num_followers": 177956,
+  "description": "This is Janis Joplin. The essential tracks, all in one playlist.",
+  "num_followers": 177964,
   "original_name": "This Is Janis Joplin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzkxNjgwMCwwMDAwMDAwMGFhOGY4MTdlZDg5YTQ3ZmFhMzJlZjljODBiY2QyMzM3",
+  "snapshot_id": "MTcxNDAwMzIwMCwwMDAwMDAwMGQwY2QyNGU5ZDE2NjAyNDU0OGE5ZGM4NGQxYTVkYjVl",
   "tracks": [
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Television Broadcast Sessions 1968 -1970",
-        "url": "https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 196507,
-      "name": "To Love Someboy (Live The Dick Cavett TV Show 8th July 1969]",
-      "url": "https://open.spotify.com/track/5oZKxXSTGwt769hWxadMLo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Janis Joplin's Greatest Hits",
         "url": "https://open.spotify.com/album/4qHWXbp5TbUWqH35c6m8kN"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 479600,
       "name": "Ball and Chain - Live at McMahon Stadium, Calgary, Canada - July 1970",
       "url": "https://open.spotify.com/track/50jPBJZNdoepXCb2j1Rzmp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Television Broadcast Sessions 1968 -1970",
+        "url": "https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 196507,
+      "name": "To Love Someboy (Live The Dick Cavett TV Show 8th July 1969]",
+      "url": "https://open.spotify.com/track/5oZKxXSTGwt769hWxadMLo"
     },
     {
       "added_at": null,

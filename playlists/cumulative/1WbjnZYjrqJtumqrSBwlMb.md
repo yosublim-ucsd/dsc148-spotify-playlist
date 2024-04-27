@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-879 songs - 2 day 6 hr 5 min
+880 songs - 2 day 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -508,6 +508,7 @@
 | [Never Enough](https://open.spotify.com/track/2d1VRB0OXkwtMu0OKsxXDW) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Apricot Princess](https://open.spotify.com/album/2NBVxjZcbH5H1N1Ab2ExDH) | 4:58 | 2021-12-08 |  |
 | [Never Get Tired of Dancing](https://open.spotify.com/track/65p52RT9sM8Pyee7wQ3abt) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Change the Show](https://open.spotify.com/album/0dI32Mcr4eYerUWYWEuB28) | 3:38 | 2022-02-14 |  |
 | [Never Get Tired of Dancing \- Acoustic Version](https://open.spotify.com/track/4dB3CpeNDYyWFJcUBZc38m) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Never Get Tired of Dancing \(Acoustic Version\)](https://open.spotify.com/album/5giMGSJ9gamkLu9SgaAK5R) | 2:51 | 2022-03-25 |  |
+| [Neverender](https://open.spotify.com/track/0ccoGCaOFCxI6pHixrQpKj) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Neverender](https://open.spotify.com/album/6UGnOHEJZT6AkVXrtgcP0u) | 4:26 | 2024-04-26 |  |
 | [New Again](https://open.spotify.com/track/75QktuEju5vz9lyXiLaUao) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 3:03 | 2021-10-01 |  |
 | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Bootie Brown](https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d) | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/album/4V9YFKLqZ5h8nQFTvDQscC) | 3:35 | 2022-08-31 |  |
 | [New House](https://open.spotify.com/track/79yScU3wNnv2yPF3awYqnU) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [New House](https://open.spotify.com/album/5Upjd2sQh4iJnWyJgi3TsA) | 3:19 | 2022-07-03 |  |

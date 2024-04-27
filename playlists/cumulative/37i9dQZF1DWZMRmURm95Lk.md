@@ -4,7 +4,7 @@
 
 > Beat e rime, oggi come una volta\. Jack The Smoker e Big Joe in cover.
 
-416 songs - 1 day 0 hr 9 min
+417 songs - 1 day 0 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [La volta buona](https://open.spotify.com/track/0IUrIEBecV2QRR66eriMmO) | [Stokka & Madbuddy](https://open.spotify.com/artist/6U8aUHDeArzovgvZazAK0z), [Roc Beats](https://open.spotify.com/artist/4MK15feSVP4y02vfe2SA8d), [Frank Siciliano](https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3) | [La volta buona](https://open.spotify.com/album/5BvBw5pf2YOfXd0BFgu7HP) | 3:54 | 2022-05-05 |  |
 | [LACRIME DI COCCODRILLO :'=8\)](https://open.spotify.com/track/00S5r1e6pZOOxMBc2hjsVz) | [Mattak](https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK) | [LACRIME DI COCCODRILLO :'=8\)](https://open.spotify.com/album/3jFPcHd0xk4wFCeyeWfRXQ) | 4:13 | 2023-02-17 | 2023-07-20 |
 | [Lagga Brutto \(feat\. Ensi, Dj Uncino & Bella Espo\)](https://open.spotify.com/track/5fTKv13ds3OUjRF8XoNJKR) | [Walino](https://open.spotify.com/artist/0T03BugJoLKeUGAJpV1sJa), [Ensi](https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP), [Dj Uncino](https://open.spotify.com/artist/7vjdVxJ8I2gY6dNHJKl3ko), [Bella Espo](https://open.spotify.com/artist/7wJFRjIiHMLUrXwfVRG8cb) | [Lagga Brutto \(feat\. Ensi, Dj Uncino & Bella Espo\)](https://open.spotify.com/album/6RtZlYSZXADBsJ6Ji5hC5e) | 2:38 | 2022-10-27 | 2022-11-08 |
+| [Laid Back](https://open.spotify.com/track/4mH5rfbzVyo1zjMazlOlCl) | [Armani Doc](https://open.spotify.com/artist/7djBWDVQvjaDbC8rSilpLC), [ThinkFast](https://open.spotify.com/artist/0zY3rKlVW1d0tMW7gZyX3T) | [Laid Back](https://open.spotify.com/album/3J8xm3EGgGjzCpkjUQ7Aui) | 2:30 | 2024-04-25 |  |
 | [Lampi nel blu](https://open.spotify.com/track/2pcOxAhZlZAw6XDcbe9NQ3) | [Claver Gold](https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz) | [Lampi nel blu](https://open.spotify.com/album/0tzNaCr31xwZs6iwTCTGyK) | 3:34 | 2022-05-12 | 2022-07-28 |
 | [Lasciami Andare \(feat\. Mecna\)](https://open.spotify.com/track/5q2ROdciJBjBtJdOT0cM8O) | [Soulcè & Teddy Nuvolari](https://open.spotify.com/artist/78vVHoiEm0NSOkWDZG9FD3), [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [Sinfobie](https://open.spotify.com/album/2ijq0u4JwULxvkv1TLf6tR) | 3:32 | 2022-05-12 | 2022-06-03 |
 | [Lasciami solo](https://open.spotify.com/track/4neRbVUtymiGGS8rhhofvB) | [Nerone](https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn), [Biggie Paul](https://open.spotify.com/artist/1OyAhAPFH8Z4bIJewzy3mE), [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP) | [Numero zero ep](https://open.spotify.com/album/3XDfQm5UcWmaxSvax7r5ha) | 2:40 | 2022-05-05 |  |

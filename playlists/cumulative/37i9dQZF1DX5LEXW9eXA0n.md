@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover:PARK WON\(박원\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover:Colde\(콜드\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,197 songs - 3 day 5 hr 34 min
+1,200 songs - 3 day 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -537,6 +537,7 @@
 | [Knock](https://open.spotify.com/track/0xhykBkGxhVf2trGATsAfA) | [KLANG](https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF) | [Track 01](https://open.spotify.com/album/30bYSVfQCQ8sozUnbEsFrh) | 4:05 | 2023-01-20 | 2023-02-15 |
 | [KNOCK \(With PARKMOONCHI\)](https://open.spotify.com/track/5tsFpHn90YwfYdfKGb0UnJ) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [KNOCK \(With PARKMOONCHI\)](https://open.spotify.com/album/3SHirl0IeccHW7cpPZXuLU) | 3:25 | 2022-03-24 | 2022-04-21 |
 | [Korean Ballad](https://open.spotify.com/track/6dXt2gwVdumUj1pFEyGg6w) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Hopeless Romantic](https://open.spotify.com/album/1EVvzyt33kcS37UOcQIhYS) | 3:43 | 2023-02-28 | 2023-06-23 |
+| [La Vie Rosée](https://open.spotify.com/track/77EJqUi8w6kstvE53TFxnw) | [Kim Yuna](https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea) | [Tales of Sensuality](https://open.spotify.com/album/59wYUBRXUJBC5NxFXqFYLh) | 5:14 | 2024-04-26 |  |
 | [Last Love](https://open.spotify.com/track/3IIpNE0OGmMThMQO4uK3Fd) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [Last Love](https://open.spotify.com/album/5YqWy3QakMPwKDt5ntfDN6) | 4:04 | 2023-01-20 | 2023-02-25 |
 | [Last Scene](https://open.spotify.com/track/72b8XXM0GEo1TtJ2aPe79R) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Last Scene \- The 3rd Mini Album](https://open.spotify.com/album/1qEyXADkIHSmaCZuHnQPb7) | 4:22 | 2022-11-16 | 2023-01-21 |
 | [Lasting Scent](https://open.spotify.com/track/2AvcRjTfg4ZrwdDj0xoUtf) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [LEESEOKHOON 4th EP Album 'Untitled'](https://open.spotify.com/album/3dt51zaMmRSBrH5Wky5HrC) | 4:24 | 2023-10-16 | 2024-03-09 |
@@ -952,6 +953,7 @@
 | [The first love \[From "Anonymous, I Know You!" \(Original Soundtrack\) Pt\. 3\]](https://open.spotify.com/track/6DRQvyJXF7st78fCAn9bT7) | [YODAYOUNG](https://open.spotify.com/artist/3TE3mzbf7EouO9qVs7ja6w) | [The first love \[From "Anonymous, I Know You!" \(Original Soundtrack\) Pt\. 3\]](https://open.spotify.com/album/0JzL8yKGTU8CxBmZRFFOmR) | 3:56 | 2021-12-23 | 2022-06-06 |
 | [The first moment](https://open.spotify.com/track/05qHfI61F95lluddfpyxk9) | [Jueun](https://open.spotify.com/artist/7n9JiWW3jLlSm7WGaIrD8U) | [Kokdu: Season of Deity \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/17YJmjOShQ9NtxffEX70U8) | 3:27 | 2023-03-15 | 2023-07-08 |
 | [The fool](https://open.spotify.com/track/0zj7btS9fZMqZFZWO6fYI9) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [His voice](https://open.spotify.com/album/1HmeEj59HYaGy8tKR636j6) | 3:58 | 2023-05-05 | 2023-05-16 |
+| [The garden of adverbs \(feat\. Lee Hi\)](https://open.spotify.com/track/6wP9dxp1ZYIe9qrcpJhzko) | [Kim Yuna](https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Tales of Sensuality](https://open.spotify.com/album/59wYUBRXUJBC5NxFXqFYLh) | 3:52 | 2024-04-26 |  |
 | [The Island](https://open.spotify.com/track/6EvQreH8DrIwGkk50xIwir) | [88\-Keys](https://open.spotify.com/artist/1GnO4Ck1wmhQ7KRiHcTpvE) | [YUMI's Cells 2, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/0FmT4QGX0aEIZpZ6RU7AvE) | 4:00 | 2022-08-01 | 2022-11-02 |
 | [The Man](https://open.spotify.com/track/6lDWYtXTFgHUjMybqYc88U) | [SEO EUNKWANG](https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2) | [The Man](https://open.spotify.com/album/4i2vNNCgU467jng2k7EGi2) | 5:04 | 2023-09-18 | 2023-11-14 |
 | [The Memory of Star](https://open.spotify.com/track/29XPPKL4f4X9BqyiKyKyvY) | [You Chae Hoon](https://open.spotify.com/artist/5wkkqpuCF4BTuTJ3TKQl1n) | [Podium](https://open.spotify.com/album/5rS51gsMjupGnMSe4mYSOv) | 4:12 | 2022-07-07 | 2022-10-15 |
@@ -1123,6 +1125,7 @@
 | [words that are different from the heart](https://open.spotify.com/track/1S52pWa40LCmavUzsMHSlw) | [Letter flow](https://open.spotify.com/artist/19jNQxmNBaXJlXdvLHtrHY) | [Mail Box Episode\. 3](https://open.spotify.com/album/0rhzwSRSwHyxixWoclmMp0) | 4:58 | 2023-03-27 | 2023-07-18 |
 | [Worse than friends](https://open.spotify.com/track/4OfeoCwjK4xFGn5XQ0dbfu) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [친구보다 더 못한 사이](https://open.spotify.com/album/2JsY4V9OqKbQRXezTHhj76) | 3:59 | 2022-10-04 | 2023-01-11 |
 | [Y Si Fuera Ella](https://open.spotify.com/track/17vGPoIBXnSEd31N4B3gSR) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [The SHINee World \- The First Album](https://open.spotify.com/album/2aiM53N5DGm5VXnfjswpI7) | 5:14 | 2023-05-05 | 2023-05-16 |
+| [Yoonseul](https://open.spotify.com/track/6nB4wOUWBnvAMJvHb8BNc5) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Yoonseul](https://open.spotify.com/album/2Ur4NrDdVubOUCBR4pfhOM) | 2:34 | 2024-04-26 |  |
 | [You](https://open.spotify.com/track/14ot1TdT8rMcFkkRQ0jMre) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [You](https://open.spotify.com/album/71EEzdBF1w1m3ZrzLGGjRh) | 4:16 | 2023-10-20 | 2024-01-05 |
 | [You](https://open.spotify.com/track/4P31D4cdzUl3Afg64Jznri) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Agency \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/2SBWXosNjKbNpsg3naiIqu) | 3:51 | 2023-02-14 | 2023-03-28 |
 | [YOU](https://open.spotify.com/track/3EbIEcLVkzpBEt2wKty6Iu) | [이준호 Lee Junho](https://open.spotify.com/artist/0gZSJwPrA4KC8S9bVOwE9m) | [YOU](https://open.spotify.com/album/2U9rzSHkcPOnq3q55U6RV0) | 3:40 | 2022-07-07 | 2022-10-08 |

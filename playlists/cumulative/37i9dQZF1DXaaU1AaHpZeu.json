@@ -45765,6 +45765,24 @@
     },
     {
       "album": {
+        "name": "Muchachito",
+        "url": "https://open.spotify.com/album/6Vg1TZdBKGhMNOHKBENyQf"
+      },
+      "artists": [
+        {
+          "name": "Abril Chiro",
+          "url": "https://open.spotify.com/artist/2ohJ1APj2H5vPiD3EJrent"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175714,
+      "name": "Muchachito",
+      "url": "https://open.spotify.com/track/2Ijnyar6wrIL7trlkETlCi"
+    },
+    {
+      "album": {
         "name": "Muchacho",
         "url": "https://open.spotify.com/album/7zg57PuVjEycWbC4h2kclc"
       },

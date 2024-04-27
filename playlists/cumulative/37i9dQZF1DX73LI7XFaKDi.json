@@ -1691,6 +1691,32 @@
     },
     {
       "album": {
+        "name": "What's My Name (Red Version) [From \"Descendants: The Rise of Red\"/Soundtrack Version]",
+        "url": "https://open.spotify.com/album/2UGytdqtYVoyPeBa5UTP7u"
+      },
+      "artists": [
+        {
+          "name": "China Anne McClain",
+          "url": "https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV"
+        },
+        {
+          "name": "Kylie Cantrall",
+          "url": "https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146642,
+      "name": "What's My Name (Red Version) - From \"Descendants: The Rise of Red\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/1duJTDSFuK3sB0NwNr0QRg"
+    },
+    {
+      "album": {
         "name": "Descendants Remix Dance Party",
         "url": "https://open.spotify.com/album/5FW26J4KeTl9pA37F6ya1R"
       },

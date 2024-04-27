@@ -1,5 +1,5 @@
 {
-  "2024-04-26": 154958,
+  "2024-04-27": 155004,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Finland.",
   "name": "Top 50 - Finland",
@@ -3075,7 +3075,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 180042,
       "name": "BLONDINA",
       "url": "https://open.spotify.com/track/3Fq0id1BFWX3GoCeWdNh53"
@@ -22178,6 +22178,24 @@
     },
     {
       "album": {
+        "name": "Mun vuoro safkaa",
+        "url": "https://open.spotify.com/album/4KBCSMJLiQ9ludgYLnM3c8"
+      },
+      "artists": [
+        {
+          "name": "Blacflaco",
+          "url": "https://open.spotify.com/artist/7pRRxojl7QoW1M7s4Zhxo4"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166187,
+      "name": "Mun vuoro safkaa",
+      "url": "https://open.spotify.com/track/2uc376dOBgeCLynv8CHGCz"
+    },
+    {
+      "album": {
         "name": "Munatoti",
         "url": "https://open.spotify.com/album/0va9fk9nlRddKX2IcoyLhI"
       },
@@ -34331,7 +34349,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 168360,
       "name": "T\u00e4ss\u00e4 on kaikki",
       "url": "https://open.spotify.com/track/1C3tE6tQRqImcZzWp9u3OQ"
@@ -35159,7 +35177,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 151560,
       "name": "Valmiit",
       "url": "https://open.spotify.com/track/00cxnSnMeTQS0gVbq3snhE"

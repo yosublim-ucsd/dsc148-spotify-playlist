@@ -2,9 +2,9 @@
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> La scène musicale montréalaise au premier plan\. Photo: Peter Peter
+> La scène musicale montréalaise au premier plan\. Photo: Alicia Creti
 
-453 songs - 1 day 2 hr 18 min
+456 songs - 1 day 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Animal \(feat\. Geoffroy\)](https://open.spotify.com/track/19DnkdlcmVu9IKotPQ7KIz) | [Hologramme](https://open.spotify.com/artist/6nDNh0saNzpeQBjYxAliwN), [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Animal](https://open.spotify.com/album/4ueHmbivLZuyx2aHmRy8kz) | 4:36 | 2022-03-25 | 2022-08-06 |
 | [Anyway, Mommy Love](https://open.spotify.com/track/3rKIdoC3bgM6UoiRQvvDdi) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Anyway, Mommy Love](https://open.spotify.com/album/6y6NiIQExhEXbvWo4LIe0k) | 3:11 | 2023-10-27 |  |
 | [Artificial Genuine](https://open.spotify.com/track/2dT9WvXLGizL5Oz4CsJLT9) | [Jane Penny](https://open.spotify.com/artist/3LgeMxdrjCnZIHB8VoFhcd) | [Surfacing](https://open.spotify.com/album/2ER1TDjFLnhzAk0zKqVl5p) | 3:36 | 2024-04-05 |  |
+| [Arène](https://open.spotify.com/track/2XM74PW22MJ6vEGruNXHjD) | [Reno McCarthy](https://open.spotify.com/artist/1JdFzT3HVVdNNvpdIyfOPS) | [Arène](https://open.spotify.com/album/3isZboZjEieVd3j5DqYNQp) | 3:05 | 2024-04-26 |  |
 | [Astray](https://open.spotify.com/track/0dDuTVzcx3YK9m9035G1rF) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Miracles](https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy) | 3:53 | 2023-09-22 |  |
 | [Astray](https://open.spotify.com/track/6mN1BAzH2eM6Plt40q4BYf) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Astray](https://open.spotify.com/album/5T1KTLXebGps2jgsr7opyz) | 3:53 | 2023-08-18 | 2023-09-23 |
 | [Avant de redescendre](https://open.spotify.com/track/4UNQK6kvnSFYakfM66LBTI) | [Lucill](https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x), [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Avant de redescendre](https://open.spotify.com/album/7aZwJYADPJHtGypapaMn63) | 4:00 | 2024-03-08 |  |
@@ -159,7 +160,7 @@
 | [Fuel](https://open.spotify.com/track/4QeienZEwF2dZ09pIvDllc) | [Ev Bird](https://open.spotify.com/artist/5ZLnYZBRZimCRU1vJzzGsI) | [Fuel](https://open.spotify.com/album/5qSAmaMFLK5Cu8TliExrhe) | 2:12 | 2022-09-16 | 2022-11-26 |
 | [Funambule \(tout restera pareil\)](https://open.spotify.com/track/2U8q4Oydvvbc9OIfqVUW4i) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ), [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Funambule \(tout restera pareil\)](https://open.spotify.com/album/70NVJKvlYKqS8Tsmh2LYIk) | 3:56 | 2022-06-10 | 2023-03-18 |
 | [Gallows](https://open.spotify.com/track/3HsH8EwEfvhu151P1erqDX) | [Reno McCarthy](https://open.spotify.com/artist/1JdFzT3HVVdNNvpdIyfOPS) | [Gallows](https://open.spotify.com/album/4rWlTRMZieWj6MJV7KsCJh) | 3:06 | 2022-11-25 | 2023-01-21 |
-| [Gants blancs](https://open.spotify.com/track/2LvkbJtiU8zBRZnBWqra43) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Gants blancs](https://open.spotify.com/album/4ll73k9KZOaVPVWh54VlIL) | 3:34 | 2023-02-10 |  |
+| [Gants blancs](https://open.spotify.com/track/2LvkbJtiU8zBRZnBWqra43) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Gants blancs](https://open.spotify.com/album/4ll73k9KZOaVPVWh54VlIL) | 3:34 | 2023-02-10 | 2024-04-27 |
 | [Give Me Time](https://open.spotify.com/track/1yr0y9if1dqK9MHHNrRTBi) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Eastend Confessions](https://open.spotify.com/album/0JgRxOdiWpJKfP1uiVzKvJ) | 2:34 | 2024-04-19 |  |
 | [Give Me Time](https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Give Me Time](https://open.spotify.com/album/0ZRwY48ZOyL2xFE5lRWT3J) | 2:34 | 2022-07-08 | 2022-09-24 |
 | [Go Write It In The Stars](https://open.spotify.com/track/4I7ly7eSt1raF0ZSOAlWKP) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Go Write It In The Stars](https://open.spotify.com/album/6SAJNqTw4P8uVV8qeApNbJ) | 3:35 | 2022-10-07 | 2022-12-10 |
@@ -209,13 +210,14 @@
 | [Je n'habite pas chez moi](https://open.spotify.com/track/7q9auzxcNfbzqRwILxqNVF) | [San James](https://open.spotify.com/artist/0hIJpbVV7O5vBBhTQ4tXiH) | [Je n'habite pas chez moi](https://open.spotify.com/album/20iT6YJYJD0d7ushv8mQHv) | 3:24 | 2023-03-17 | 2024-03-30 |
 | [JE RESPIRE](https://open.spotify.com/track/204PfCzQ6FbveeJH7RoxgU) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv), [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [JE RESPIRE](https://open.spotify.com/album/7MyrxRdDBg56H8TXlgUjRs) | 3:11 | 2022-06-03 | 2023-05-20 |
 | [Juillet](https://open.spotify.com/track/0rAmw31b9kQLSbOAF7ElaP) | [Frais Dispo](https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9) | [Juillet](https://open.spotify.com/album/78WQi9nKw7KivHbgVwF61a) | 3:04 | 2023-01-06 | 2023-04-15 |
+| [Jump Cut](https://open.spotify.com/track/0jRBEROpKjbjhqqLol11NF) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Jump Cut](https://open.spotify.com/album/5T25MocYOo34A7pzzduOLS) | 3:53 | 2024-04-26 |  |
 | [Just Like](https://open.spotify.com/track/1deniAR9BR8JhNG1679O63) | [Yuki Dreams Again](https://open.spotify.com/artist/4IYRXwfKzdo76LVTCG3r2t) | [Just Like](https://open.spotify.com/album/0NoGvhRvcF0GaTwSHCm25Z) | 2:52 | 2024-03-29 |  |
 | [karoshi](https://open.spotify.com/track/3yqGndHj0cRlzX0neZ7dE7) | [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA), [Sarahmée](https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX) | [karoshi](https://open.spotify.com/album/0kvlVr56tiWquP16l0rEAY) | 2:42 | 2023-11-10 |  |
 | [Keep Hiding \(way back\)](https://open.spotify.com/track/24jKuK0iTLqc6Fbywv1pYu) | [Laroie](https://open.spotify.com/artist/3vm1wp0nCMQSIaPVT6f0IY) | [Keep Hiding \(way back\)](https://open.spotify.com/album/68ra6iNQK40XmAW9TGh5XF) | 2:57 | 2022-10-14 | 2023-03-25 |
 | [Kiss Me on the Floor](https://open.spotify.com/track/5wIBA1lYaBIrycozAWCqyI) | [Laraw](https://open.spotify.com/artist/7vxKZcJkulVyFjO6Bb1Pq1) | [Kiss Me on the Floor](https://open.spotify.com/album/4X7CbXtYH209XThPd3sdSr) | 2:54 | 2023-11-10 |  |
 | [L'Ami idéal](https://open.spotify.com/track/0QMtHqmvPe1URDTdsa3tGt) | [Radiant Baby](https://open.spotify.com/artist/70NNRWCobCZaQUHWEsQtaM) | [L'Ami idéal](https://open.spotify.com/album/5aGfT3NgFxOwGxumgvrapE) | 3:14 | 2023-11-17 | 2024-01-20 |
 | [L'Habitude](https://open.spotify.com/track/3bNgr5gy1gY3yoGRuVo5Wk) | [Rau\_Ze](https://open.spotify.com/artist/2UV0xpXyJukSl1LErTk4Fo) | [L'Habitude](https://open.spotify.com/album/1EIrvNHQ1MM1nI5N1zMicz) | 2:58 | 2023-09-15 | 2024-03-30 |
-| [L'énorme chien très gentil](https://open.spotify.com/track/6svpIJIzxKMSpb7oieyN6p) | [Velours Velours](https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg) | [L'énorme chien très gentil](https://open.spotify.com/album/0H7KQjMqQ9IBJg6Wdupr3C) | 2:59 | 2023-02-03 |  |
+| [L'énorme chien très gentil](https://open.spotify.com/track/6svpIJIzxKMSpb7oieyN6p) | [Velours Velours](https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg) | [L'énorme chien très gentil](https://open.spotify.com/album/0H7KQjMqQ9IBJg6Wdupr3C) | 2:59 | 2023-02-03 | 2024-04-27 |
 | [L'évadé](https://open.spotify.com/track/54IB5XhD35uEsApRWc7Rq4) | [En Stéréo](https://open.spotify.com/artist/3dqLqFUBy9bxdLwDncL0pm) | [L'évadé](https://open.spotify.com/album/2CFik6eV2jcB6H9LEP4y3U) | 4:03 | 2023-10-27 | 2024-02-10 |
 | [L'île aux bleuets](https://open.spotify.com/track/4QkVqjrBrvoGemP2vnQbNV) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [L'île aux bleuets](https://open.spotify.com/album/2qGx04164PdegOfarPyxvP) | 3:25 | 2024-03-01 | 2024-04-06 |
 | [La faute](https://open.spotify.com/track/6UKQBUkXOe2ifFhJgOVpto) | [Bronswick](https://open.spotify.com/artist/4mPApT3WY8A04ZnQOS30BL) | [Entre mes insomnies](https://open.spotify.com/album/1Uj24O9gW9E8Sm5qGlTiC4) | 3:29 | 2022-04-29 | 2022-11-12 |
@@ -266,7 +268,7 @@
 | [Mieux que rien](https://open.spotify.com/track/2ThckaIohgGpUHiG87yObp) | [Thomas Gauthier](https://open.spotify.com/artist/1o1lGge9gBLbaWPQ6QncqQ) | [Mieux que rien](https://open.spotify.com/album/4t1WcLs8gT4RlqptceZk6L) | 4:49 | 2022-09-30 | 2023-11-11 |
 | [Mirage](https://open.spotify.com/track/3AmYQR8cv6hyKT0fXNW9FW) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Mirage](https://open.spotify.com/album/59vyoMjXigxYFyldmtgHzm) | 2:54 | 2022-04-29 | 2022-08-27 |
 | [Moment Feed](https://open.spotify.com/track/2hDnhl2MV9zsAdCzw6hCjL) | [Land of Talk](https://open.spotify.com/artist/0mEF6nwliNqJuMldWFPuvo) | [Moment Feed](https://open.spotify.com/album/5boINdoDwX7uxL0izaDxrX) | 4:27 | 2022-03-25 | 2022-04-16 |
-| [Mon Argent](https://open.spotify.com/track/2S2MHKQYRA6LdBWsTb6fcK) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Mon Argent](https://open.spotify.com/album/3DO7QiZvBdCRAxHt8AmVR4) | 3:37 | 2024-03-08 |  |
+| [Mon Argent](https://open.spotify.com/track/2S2MHKQYRA6LdBWsTb6fcK) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Mon Argent](https://open.spotify.com/album/3DO7QiZvBdCRAxHt8AmVR4) | 3:37 | 2024-03-08 | 2024-04-27 |
 | [Moneytree](https://open.spotify.com/track/0BjPVKGaC2j99Xfn9xbqBU) | [Clay and Friends](https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm), [Naâman](https://open.spotify.com/artist/2Gkz5N7rWiCE3jlCgsw1yp) | [Moneytree](https://open.spotify.com/album/2RSdk3HLEhbQIvRSadqxaS) | 2:36 | 2023-03-10 | 2024-03-23 |
 | [Mont Royal](https://open.spotify.com/track/1DfZo2KOWMWjipIajW9Xww) | [Mont Duamel](https://open.spotify.com/artist/2yVpWiIBNJb0U8lPhE86cB) | [Mont Royal](https://open.spotify.com/album/7famLQ1yFrcmlF94xdbN3s) | 3:40 | 2024-04-05 |  |
 | [Moonlight](https://open.spotify.com/track/5dxEhB44z5XTb0joVixdiT) | [Laroie](https://open.spotify.com/artist/3vm1wp0nCMQSIaPVT6f0IY) | [Speed of Life](https://open.spotify.com/album/3S53ToWucIjjYRfJoIEKaO) | 3:14 | 2022-03-25 | 2022-05-14 |
@@ -327,6 +329,7 @@
 | [Pissed Black Girl](https://open.spotify.com/track/5SbFDvlgHmNcG8QkaZKG5I) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [Gone Girl](https://open.spotify.com/album/0TaL8kqF5xhhA6XYcpqLOM) | 3:25 | 2022-07-22 | 2022-10-16 |
 | [Plaster :\)](https://open.spotify.com/track/0yoV4bZvQiVf2jB3Ajuumu) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [Plaster :\)](https://open.spotify.com/album/0BTgXsbapVnS8o5PP2wac1) | 2:17 | 2022-03-25 | 2022-04-19 |
 | [Plaster :\)](https://open.spotify.com/track/0zlXuLCs2QJTqF0UQGn6us) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [Digital Damage](https://open.spotify.com/album/3q3BT8V9uaWYxgwNcsSOfb) | 2:17 | 2022-04-18 | 2022-08-27 |
+| [Plateau Botticelli](https://open.spotify.com/track/6eyc6Gz5rZBOL7n2UoKD9m) | [Aistis](https://open.spotify.com/artist/1NIVmyi3ACEHxwmBRAlipR) | [Plateau Botticelli](https://open.spotify.com/album/68op5OjftkJxIYNcscWEbK) | 3:46 | 2024-04-26 |  |
 | [please don't sugarcoat it](https://open.spotify.com/track/5nDjaNSWWxMDzgDTpEiCM1) | [Ivytide](https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp) | [please don't sugarcoat it](https://open.spotify.com/album/1UCcTE8i06JrjJjKYbIsWb) | 2:25 | 2023-04-21 | 2023-10-07 |
 | [Plonge](https://open.spotify.com/track/2KOK8PdSiabVHHCyihsFOJ) | [William Papillon](https://open.spotify.com/artist/3Hrbbg19aEK3UpbzpPcfys), [Bazzart](https://open.spotify.com/artist/2MbDF1l08wsQOWjwg54YYa) | [Plonge](https://open.spotify.com/album/5YicDJyhPlaWwoNzVouDR9) | 2:48 | 2022-08-26 | 2023-08-19 |
 | [PLS \- sunset version](https://open.spotify.com/track/7Icpr4emncvQ7AbZ7RXlg3) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [PLS](https://open.spotify.com/album/2cfg8Kin7uYBJEsQBdyjdS) | 3:28 | 2022-03-25 | 2022-04-09 |

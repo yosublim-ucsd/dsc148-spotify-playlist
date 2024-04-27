@@ -1,12 +1,12 @@
 {
-  "description": "This Is Black Alien. Todas as faixas essenciais numa \u00fanica playlist.",
-  "num_followers": 32569,
+  "description": "This is Black Alien. The essential tracks, all in one playlist.",
+  "num_followers": 32611,
   "original_name": "This Is Black Alien",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzkxNjgwMCwwMDAwMDAwMGNiYTU3OThlMTJmOTkyYTI3ZjIyY2I3NWI3OTllN2Rm",
+  "snapshot_id": "MTcxNDAwMzIwMCwwMDAwMDAwMGM2MGEyMWU4MmUxMGQ4MTM5MzFhNzI2ZGNkOGM5M2Nk",
   "tracks": [
     {
       "added_at": null,
@@ -775,38 +775,6 @@
       "duration_ms": 238353,
       "name": "U-Informe (Ao Vivo)",
       "url": "https://open.spotify.com/track/7hEuT00TQjRqhalX1uIOav"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bendito",
-        "url": "https://open.spotify.com/album/7K34wocIiDx0k9ptLTwCaC"
-      },
-      "artists": [
-        {
-          "name": "M\u00e3olee",
-          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
-        },
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Ogi",
-          "url": "https://open.spotify.com/artist/5tQCsrqxW41tECpfMWbm4j"
-        }
-      ],
-      "duration_ms": 260117,
-      "name": "Mic Masters",
-      "url": "https://open.spotify.com/track/5mVvDreTJ956BQHYBQ0b3E"
     }
   ],
   "unique_name": "This Is Black Alien",

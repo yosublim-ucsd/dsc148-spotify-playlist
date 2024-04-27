@@ -1,5 +1,5 @@
 {
-  "2024-04-26": 0,
+  "2024-04-27": 0,
   "date_first_scraped": "2024-04-11",
   "description": "",
   "name": "twelve",
@@ -111,7 +111,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 231613,
       "name": "Deep Magic",
       "url": "https://open.spotify.com/track/3dNOUOwnIKlPnlDrQLX5Ut"
@@ -133,6 +133,24 @@
       "duration_ms": 177733,
       "name": "Dinner with Friends",
       "url": "https://open.spotify.com/track/1wLN48gT4YmUWs4WMgnw2n"
+    },
+    {
+      "album": {
+        "name": "Mercury & Lightning",
+        "url": "https://open.spotify.com/album/7IFEn26t34FyQpcSHNdF7P"
+      },
+      "artists": [
+        {
+          "name": "John Mark McMillan",
+          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258937,
+      "name": "Enemy, love.",
+      "url": "https://open.spotify.com/track/1FJuSxwLugTKphYmrLDuhn"
     },
     {
       "album": {

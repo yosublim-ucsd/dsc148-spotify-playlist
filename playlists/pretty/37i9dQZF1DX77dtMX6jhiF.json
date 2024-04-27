@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/damsonidris/\">Damson Idris</a>",
-  "num_followers": 13037,
+  "num_followers": 13054,
   "original_name": "Damson Idris' Taste",
   "owner": {
     "name": "Spotify",
@@ -647,6 +647,22 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
+        "name": "Revenge Is Sweet",
+        "url": "https://open.spotify.com/album/352aXyfcekSqY1ZvC0jrBe"
+      },
+      "artists": [
+        {
+          "name": "Krept & Konan",
+          "url": "https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE"
+        }
+      ],
+      "duration_ms": 268643,
+      "name": "Goat Level",
+      "url": "https://open.spotify.com/track/7eNr4C0NWjNdA8K31s7QAc"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
         "name": "Life Is Good (Deluxe)",
         "url": "https://open.spotify.com/album/5fwYiohuGFqJx34Z4s26jI"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 225040,
       "name": "Stay",
       "url": "https://open.spotify.com/track/3xY4TcsCUR8q0J1NgL8QK3"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
-        "name": "Revenge Is Sweet",
-        "url": "https://open.spotify.com/album/352aXyfcekSqY1ZvC0jrBe"
-      },
-      "artists": [
-        {
-          "name": "Krept & Konan",
-          "url": "https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE"
-        }
-      ],
-      "duration_ms": 268643,
-      "name": "Goat Level",
-      "url": "https://open.spotify.com/track/7eNr4C0NWjNdA8K31s7QAc"
     },
     {
       "added_at": "2022-10-01 16:57:49",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest crossover songs from the islands all in one place. Cover: Shaggy",
+  "description": "The biggest crossover songs from the islands and the diaspora. Cover: Shenseea",
   "name": "Island Pop",
   "tracks": [
     {
@@ -38,6 +38,28 @@
       "duration_ms": 226977,
       "name": "25/8",
       "url": "https://open.spotify.com/track/7zf3p3U5Vong4dUzVwjsYz"
+    },
+    {
+      "album": {
+        "name": "All We Have",
+        "url": "https://open.spotify.com/album/1LUanQLREJVyLmfLEmwZy7"
+      },
+      "artists": [
+        {
+          "name": "V'ghn",
+          "url": "https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG"
+        },
+        {
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236816,
+      "name": "All We Have",
+      "url": "https://open.spotify.com/track/3or0IsulDuhWQR9pjU4CF2"
     },
     {
       "album": {
@@ -561,6 +583,24 @@
     },
     {
       "album": {
+        "name": "Cyah Hear Yuh",
+        "url": "https://open.spotify.com/album/5XIUT3SrYNoPr3tunp3nz2"
+      },
+      "artists": [
+        {
+          "name": "Patrice Roberts",
+          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217954,
+      "name": "Cyah Hear Yuh",
+      "url": "https://open.spotify.com/track/76Ff4Q7r70uxipHnRQXPuw"
+    },
+    {
+      "album": {
         "name": "Dark Room",
         "url": "https://open.spotify.com/album/5YIVlPFxJJq4xZhDUzd8Eb"
       },
@@ -710,7 +750,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 157974,
       "name": "Energy",
       "url": "https://open.spotify.com/track/60NWySy9UQUs0uhkW8KG3L"
@@ -732,6 +772,24 @@
       "duration_ms": 157974,
       "name": "Energy",
       "url": "https://open.spotify.com/track/6iH3aLFWxvjl4XfoDPfpNP"
+    },
+    {
+      "album": {
+        "name": "PARTYNEXTDOOR 4 (P4)",
+        "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219949,
+      "name": "F o r C e r t a i n",
+      "url": "https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi"
     },
     {
       "album": {
@@ -797,6 +855,24 @@
     },
     {
       "album": {
+        "name": "Flava",
+        "url": "https://open.spotify.com/album/06hReu6yFLgRUbugobxapt"
+      },
+      "artists": [
+        {
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153818,
+      "name": "Flava",
+      "url": "https://open.spotify.com/track/6WIQ5I5BssinqHkuxYWHSw"
+    },
+    {
+      "album": {
         "name": "Foot",
         "url": "https://open.spotify.com/album/0Eti6sYztHFTrS2p1hDRTV"
       },
@@ -826,7 +902,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 188925,
       "name": "For Granted",
       "url": "https://open.spotify.com/track/5KpmMIkyXmcXdAnuMWOcmm"
@@ -1039,6 +1115,24 @@
     },
     {
       "album": {
+        "name": "Happy Birthday",
+        "url": "https://open.spotify.com/album/18kwUyynFKyNEJYZe2d4xg"
+      },
+      "artists": [
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Happy Birthday",
+      "url": "https://open.spotify.com/track/0nlERwr8m4Ks1RYYuTVm0C"
+    },
+    {
+      "album": {
         "name": "Happy Papi",
         "url": "https://open.spotify.com/album/2toHXbny2GgQQtVcj7kEud"
       },
@@ -1080,6 +1174,32 @@
       "duration_ms": 185000,
       "name": "History",
       "url": "https://open.spotify.com/track/1nCHgECzuu3szJeVJQRnNq"
+    },
+    {
+      "album": {
+        "name": "Hit & Run (feat. Masicka & Di Genius)",
+        "url": "https://open.spotify.com/album/3vbNkltSdpHgFNwC9QB2dl"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        },
+        {
+          "name": "Di Genius",
+          "url": "https://open.spotify.com/artist/08erObvNX7rs7d4pbuaRCQ"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169581,
+      "name": "Hit & Run (feat. Masicka & Di Genius)",
+      "url": "https://open.spotify.com/track/7hgY5a1FNiChuxoSZDyaMs"
     },
     {
       "album": {
@@ -1168,6 +1288,32 @@
       "duration_ms": 195320,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/6B1si3DuUOmVaWQ53GijZh"
+    },
+    {
+      "album": {
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147071,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/6XpEm7VJ7TZxZTawH8BCSW"
     },
     {
       "album": {
@@ -1390,10 +1536,28 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 152760,
       "name": "Love Life",
       "url": "https://open.spotify.com/track/6Vb70ayh0jlzbHQ0vwvgxJ"
+    },
+    {
+      "album": {
+        "name": "Mad Out",
+        "url": "https://open.spotify.com/album/6nR7RCfNBtfEHNW7wRVP67"
+      },
+      "artists": [
+        {
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153040,
+      "name": "Mad Out",
+      "url": "https://open.spotify.com/track/0bTlhD1l36iHX1SUiNa3nL"
     },
     {
       "album": {
@@ -1500,10 +1664,28 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 149333,
       "name": "Mona Lisa",
       "url": "https://open.spotify.com/track/4FOLsEGYFzPy1CyO0vkLwH"
+    },
+    {
+      "album": {
+        "name": "Neva Neva",
+        "url": "https://open.spotify.com/album/4POtqjeMTeIMq5SM4LN18B"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198593,
+      "name": "Neva Neva",
+      "url": "https://open.spotify.com/track/2mI9snG6nJeQ9cJVahpaDv"
     },
     {
       "album": {
@@ -1688,7 +1870,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 116842,
       "name": "Over You",
       "url": "https://open.spotify.com/track/4zqSYxKE9K6B4eghImq7pz"
@@ -1983,6 +2165,28 @@
     },
     {
       "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/4vsGasHdKun0F9K3Ui7oRo"
+      },
+      "artists": [
+        {
+          "name": "Lil Kevcy",
+          "url": "https://open.spotify.com/artist/4uXb0AChXvGdOJwKpxwUne"
+        },
+        {
+          "name": "R ChanT",
+          "url": "https://open.spotify.com/artist/7uUNf5E8A8h4SAIBqPu1G5"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145200,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/370pI1sZZbpsx4AYQuhBbO"
+    },
+    {
+      "album": {
         "name": "Rain (with Skillibeng)",
         "url": "https://open.spotify.com/album/5qSPrxazqXme2S1u8HsOv4"
       },
@@ -1998,7 +2202,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 110304,
       "name": "Rain (with Skillibeng)",
       "url": "https://open.spotify.com/track/4gaYeHM8MrcqHU2Niw6JQc"
@@ -2024,7 +2228,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 157500,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/6Tn3GPYPptRK1UurB0TYyu"
@@ -2042,7 +2246,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 166641,
       "name": "Rice & Peas",
       "url": "https://open.spotify.com/track/2w2xF8kjWOJX0J1HTxPtGe"
@@ -2319,6 +2523,28 @@
     },
     {
       "album": {
+        "name": "Tack Back",
+        "url": "https://open.spotify.com/album/3TdjoUXXNZvcclAJxU0Wmq"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        },
+        {
+          "name": "Tano",
+          "url": "https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198671,
+      "name": "Tack Back",
+      "url": "https://open.spotify.com/track/3GwcL1cfFEnTCYTIL8VN1W"
+    },
+    {
+      "album": {
         "name": "No Love",
         "url": "https://open.spotify.com/album/6Ds8n0PlFxomLOtEHFwBeo"
       },
@@ -2348,7 +2574,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 188737,
       "name": "Talibans",
       "url": "https://open.spotify.com/track/0in4JBEFmQVtyNJCN9UeXU"
@@ -2370,10 +2596,28 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 183673,
       "name": "Talibhan",
       "url": "https://open.spotify.com/track/2fZIqtkyJAEvrrriiCGXNc"
+    },
+    {
+      "album": {
+        "name": "Vibes Don't Lie",
+        "url": "https://open.spotify.com/album/6Dl92Rb1qVMsN0cBzTVwMU"
+      },
+      "artists": [
+        {
+          "name": "Skeete",
+          "url": "https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148333,
+      "name": "Tek Buddy",
+      "url": "https://open.spotify.com/track/10OmeI0uRJArozB5QpnQke"
     },
     {
       "album": {
@@ -2410,7 +2654,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 168704,
       "name": "The Harder They Fall",
       "url": "https://open.spotify.com/track/6AxSYAHq0U6fKykB7uScPl"
@@ -2800,7 +3044,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 149496,
       "name": "Whine & Jumping (feat. Patrice Roberts)",
       "url": "https://open.spotify.com/track/2KLixHA4oymoMdz41ZkSSd"

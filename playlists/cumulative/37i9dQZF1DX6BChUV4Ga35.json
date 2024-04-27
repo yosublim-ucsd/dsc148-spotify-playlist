@@ -251,6 +251,24 @@
     },
     {
       "album": {
+        "name": "Sooo Wiggly Vol. 2",
+        "url": "https://open.spotify.com/album/2YSBAA5ij7uuezojPkpWYc"
+      },
+      "artists": [
+        {
+          "name": "Fisher-Price",
+          "url": "https://open.spotify.com/artist/6TjbqpZF5EKmSYlcUZULk1"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63230,
+      "name": "Animal Count",
+      "url": "https://open.spotify.com/track/1RtnalL9YfEjOVtI9YMAHl"
+    },
+    {
+      "album": {
         "name": "Cocomelon Kids Hits, Vol. 5",
         "url": "https://open.spotify.com/album/0YPFWkQvhIj14v2LDs0wS1"
       },

@@ -4,7 +4,7 @@
 
 > El lado electrónico del indie latino, featuring Peces Raros.
 
-247 songs - 15 hr 1 min
+248 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Días](https://open.spotify.com/track/033LUswuPS3Hg1QYYd0lJm) | [Ino Guridi](https://open.spotify.com/artist/2VZdNAReEB4AWkJ5MPj3g7) | [Pasará](https://open.spotify.com/album/4dLe34FABKIx05p6u5ajHC) | 3:34 | 2023-04-07 |  |
 | [Eco](https://open.spotify.com/track/7w4yG9ADQ6yUFR1RwX3hwi) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF), [Martín Berríos](https://open.spotify.com/artist/3EQz0AUS2CMV6lOu3Zplm2) | [Eco](https://open.spotify.com/album/4oCOfG3dcH3CmyA2Qd4XkU) | 4:37 | 2023-07-07 | 2023-09-17 |
 | [El After](https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Lo Que Siento](https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM) | 3:19 | 2023-03-17 | 2024-03-16 |
+| [EL APAGÓN](https://open.spotify.com/track/1xLIUx6fhZxWllAnu6vYM1) | [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy) | [EL APAGÓN](https://open.spotify.com/album/5btAcC6nuoUTeBlkpLDFhn) | 3:48 | 2024-04-26 |  |
 | [El Estado de las Cosas Como Son](https://open.spotify.com/track/3p8GZ3T1dmgJWk294B6Vli) | [Inés Mauri](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [Desaria](https://open.spotify.com/artist/7foAh38jbvCS0d9AiOW1V8) | [El Estado de las Cosas Como Son](https://open.spotify.com/album/5LBsNRXKNO8498xYBB0ANE) | 3:02 | 2023-06-09 |  |
 | [El Imán \- Remix](https://open.spotify.com/track/2eIGZkPBrCJ4VhqdgaXXV3) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G), [Santiago Martínez](https://open.spotify.com/artist/29AdYwEQmOfNyjhYJQWcHu) | [El Imán \(Remix\)](https://open.spotify.com/album/57eGpWYvr1Oknqn2wExxZe) | 3:48 | 2023-12-15 |  |
 | [El Último Romance](https://open.spotify.com/track/3lHNEKAlUf8Jh3UTkMQCr6) | [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy) | [El Último Romance](https://open.spotify.com/album/0amUkicRgz6q05yEzqDB4S) | 5:02 | 2023-12-22 |  |
@@ -212,7 +213,7 @@
 | [Secretos \- Remix](https://open.spotify.com/track/3L3C9TZyHJVnr4IOQcZ9hZ) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G), [Las Flores Daltónicas](https://open.spotify.com/artist/5NyKl6KWpDwoWHAxJPfJ70) | [Secretos \(Remix\)](https://open.spotify.com/album/4xtu6EYTviWDoVkS2CutVZ) | 4:08 | 2024-01-18 |  |
 | [Sed](https://open.spotify.com/track/0tv5fCvV6pLcwstfO2zxLP) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Mosaicos](https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC) | 2:26 | 2023-03-17 | 2024-03-16 |
 | [Sentir](https://open.spotify.com/track/4fQLD78x6Sp5JQXII9hcXR) | [Carolina Zac](https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4) | [Sentir](https://open.spotify.com/album/00JPUCphJMySF6oEz7IxlH) | 4:51 | 2023-03-17 | 2023-06-04 |
-| [Ser Anti](https://open.spotify.com/track/3LVjzOOubm6PAxYFvrv8Bq) | [Amanda Pujó](https://open.spotify.com/artist/54vFZr8ppOc3Gq2LrcboZC) | [Ser Anti](https://open.spotify.com/album/2yBuVuh9FdIe1JbG1K1G6v) | 3:44 | 2023-04-07 |  |
+| [Ser Anti](https://open.spotify.com/track/3LVjzOOubm6PAxYFvrv8Bq) | [Amanda Pujó](https://open.spotify.com/artist/54vFZr8ppOc3Gq2LrcboZC) | [Ser Anti](https://open.spotify.com/album/2yBuVuh9FdIe1JbG1K1G6v) | 3:44 | 2023-04-07 | 2024-04-27 |
 | [SHEESH](https://open.spotify.com/track/6kAMgHOOsuCoHemVEeeRFn) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [BAÑO MARÍA](https://open.spotify.com/album/1XX2taUAddEZQX4QinYxX2) | 2:16 | 2024-04-19 |  |
 | [Si Sólo](https://open.spotify.com/track/0t1gN6EvLyXtTOk5dJKLhG) | [Caro Conzonno](https://open.spotify.com/artist/2PXTOT1phiDNp3yQJcPaeC) | [Si Sólo](https://open.spotify.com/album/6cwhL0djF5vWChWPEsJzNY) | 3:42 | 2024-03-15 | 2024-04-19 |
 | [Si Sólo](https://open.spotify.com/track/1LXJPTOrPyOukkgiAj6U4K) | [Caro Conzonno](https://open.spotify.com/artist/2PXTOT1phiDNp3yQJcPaeC) | [Si sólo](https://open.spotify.com/album/7IJgiR4o8PFOW8udQhD4fV) | 3:42 | 2023-05-26 | 2024-01-31 |

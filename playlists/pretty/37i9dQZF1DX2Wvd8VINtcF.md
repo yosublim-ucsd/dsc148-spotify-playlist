@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearls of an oyster\. Cover: ANOTR
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,834 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,920 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 12 | [Die For You](https://open.spotify.com/track/3H2PFJYTxPH03IwYygXnlW) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [Die For You](https://open.spotify.com/album/1DdU3xbZUfE7KaGjpfWAgx) | 4:05 |
 | 13 | [In The End](https://open.spotify.com/track/2uTqPpiBfdI4LatYsbKfY8) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [In The End](https://open.spotify.com/album/4zaM38yi3WIcmbGMRtI1G1) | 3:42 |
 | 14 | [Wake Up](https://open.spotify.com/track/1m8jhrWGlDXOWI2l8JG9Lk) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Wake Up](https://open.spotify.com/album/4h5y3RQfceyaCLCjDAYZuo) | 2:04 |
-| 15 | [MILLION DOLLAR BABY](https://open.spotify.com/track/63M6908XmMHzhu4QMocHH0) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/4EYpKEHXWiFaZw6Jo9t74Y) | 2:35 |
-| 16 | [spiderman](https://open.spotify.com/track/4egsNbOOKxuyfXgmMzhOJ0) | [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [spiderman](https://open.spotify.com/album/4SaeXlHe7uTbg6wPxOq79v) | 2:55 |
+| 15 | [spiderman](https://open.spotify.com/track/4egsNbOOKxuyfXgmMzhOJ0) | [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [spiderman](https://open.spotify.com/album/4SaeXlHe7uTbg6wPxOq79v) | 2:55 |
+| 16 | [New Beginnings](https://open.spotify.com/track/2p63i5ntlS4BvoL0ijU9bG) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [New Beginnings](https://open.spotify.com/album/0dOkdpavoIyGjpcihlQfQL) | 3:04 |
 | 17 | [OUT OF MY HANDS](https://open.spotify.com/track/7i4ltqLigNXp5IkcUCcYEC) | [REX WARREN](https://open.spotify.com/artist/4Iahk5PjiGCjwxg7kSNWjU) | [OUT OF MY HANDS](https://open.spotify.com/album/4QNyKdjigJCaFXmg9ay8sV) | 2:46 |
 | 18 | [Better](https://open.spotify.com/track/3nsLmjrN9hwht5VszHwU23) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Better](https://open.spotify.com/album/2Gp1UiAMEAPkLoh9aBUBCs) | 3:18 |
 | 19 | [too fast](https://open.spotify.com/track/6GZ4qfWtm0xjKPw5EKSdze) | [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [too fast](https://open.spotify.com/album/6UV79NnkVMC2doyJeC4twp) | 3:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 99 | [Orion](https://open.spotify.com/track/6IMZz2RhWJCzWKo2he1SLB) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Orion](https://open.spotify.com/album/5JvejhNPdxVVPTP9P8bxXf) | 3:59 |
 | 100 | [All My Life](https://open.spotify.com/track/4NdL16ojaYmQzy5AQB9ti5) | [boerd](https://open.spotify.com/artist/5E5cEevLYdQHU04gIkA3ff), [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [All My Life](https://open.spotify.com/album/61pQMn4q37JvogvItkByrT) | 3:23 |
 
-Snapshot ID: `MTcxNDA4MjQwMCwwMDAwMDAwMDQ5YjYwYzg0ZWEyZTU0MTFhOWIzODA0ZGYxZDFiZjc0`
+Snapshot ID: `MTcxNDEyMzI4NSwwMDAwMDAwMDJkNjgzMjRiNjViZTc2NTYxZWVjNjBkZDk2MWU0Y2Fm`

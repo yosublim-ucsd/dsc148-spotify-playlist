@@ -4311,6 +4311,24 @@
     },
     {
       "album": {
+        "name": "Feral",
+        "url": "https://open.spotify.com/album/5hfXeWane0cxOaaiCzADrK"
+      },
+      "artists": [
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200275,
+      "name": "Feral",
+      "url": "https://open.spotify.com/track/0DTGff67dAfbXMU14CWgnP"
+    },
+    {
+      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/2HD81FIC7edc7NBQ8B5yVr"
       },

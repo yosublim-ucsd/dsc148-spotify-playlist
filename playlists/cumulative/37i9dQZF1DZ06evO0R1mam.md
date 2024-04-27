@@ -2,7 +2,7 @@
 
 ### [This Is Tye Tribbett](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0R1mam)
 
-> This Is Tye Tribbett\. Los temas esenciales, todos en una lista.
+> This is Tye Tribbett\. The essential tracks, all in one playlist.
 
 63 songs - 5 hr 37 min
 

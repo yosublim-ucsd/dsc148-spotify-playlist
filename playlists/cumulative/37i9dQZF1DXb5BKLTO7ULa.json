@@ -3349,6 +3349,28 @@
     },
     {
       "album": {
+        "name": "Funk Generation",
+        "url": "https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157838,
+      "name": "Ahi",
+      "url": "https://open.spotify.com/track/5rVy4OrfXilu9iQE423JO0"
+    },
+    {
+      "album": {
         "name": "Ahora Me Dice",
         "url": "https://open.spotify.com/album/1ps1Jf65nJUnzmokz4uiMo"
       },
@@ -32073,6 +32095,32 @@
     },
     {
       "album": {
+        "name": "EXIT 9 (with Blxst and Offset)",
+        "url": "https://open.spotify.com/album/3DAkWjDTQOieiModXxLIUl"
+      },
+      "artists": [
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210229,
+      "name": "EXIT 9 - with Blxst and Offset",
+      "url": "https://open.spotify.com/track/542Yp18797lywr3zZTG2sC"
+    },
+    {
+      "album": {
         "name": "Exoskeleton",
         "url": "https://open.spotify.com/album/4ezvlpkT4osT356BjXhchg"
       },
@@ -44500,7 +44548,7 @@
           "url": "https://open.spotify.com/artist/3IUUGmmR8STIAtcg7qfDkZ"
         },
         {
-          "name": "Sun Sun Sun Orchestra",
+          "name": "SunSunSunOrchestra",
           "url": "https://open.spotify.com/artist/3hthcItgH8bgHoAwlD7exZ"
         }
       ],
@@ -45015,7 +45063,7 @@
     },
     {
       "album": {
-        "name": "Home (With Stick Figure)",
+        "name": "Home (with Stick Figure)",
         "url": "https://open.spotify.com/album/6wXNgsH6qyh4Ujqq7laPOG"
       },
       "artists": [
@@ -45032,7 +45080,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 210182,
-      "name": "Home (With Stick Figure)",
+      "name": "Home (with Stick Figure)",
       "url": "https://open.spotify.com/track/1GwcqCWWQwzt6r09rQjqQQ"
     },
     {

@@ -1,7 +1,7 @@
 {
-  "2024-04-26": 158044,
+  "2024-04-27": 157983,
   "date_first_scraped": "2022-05-30",
-  "description": "\u0e40\u0e1e\u0e25\u0e07 T-Pop \u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Ink Waruntorn",
+  "description": "\u0e40\u0e1e\u0e25\u0e07 T-Pop \u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: TIGGER",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -887,7 +887,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 186506,
       "name": "HYPEWAY",
       "url": "https://open.spotify.com/track/6JbdpwZ9B2IpOHn5CWmmwj"
@@ -1251,7 +1251,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 170293,
       "name": "Light it up",
       "url": "https://open.spotify.com/track/5a3ahIUsesEbEpgglAG3Rz"
@@ -1783,6 +1783,24 @@
       "duration_ms": 184495,
       "name": "So Big",
       "url": "https://open.spotify.com/track/6QB644JBem2AXeb3q4OLtT"
+    },
+    {
+      "album": {
+        "name": "Someone Someday",
+        "url": "https://open.spotify.com/album/2IYfkj2Azk9MzpipFlagkF"
+      },
+      "artists": [
+        {
+          "name": "PROXIE",
+          "url": "https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237527,
+      "name": "Someone Someday",
+      "url": "https://open.spotify.com/track/6AkBrA64ZQjNMBiqMmH9xb"
     },
     {
       "album": {
@@ -6705,6 +6723,24 @@
       "duration_ms": 222272,
       "name": "\u0e2d\u0e01\u0e2b\u0e31\u0e01\u0e41\u0e15\u0e48\u0e1a\u0e2d\u0e01\u0e41\u0e1f\u0e19\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49 (Shhhh!)",
       "url": "https://open.spotify.com/track/1BhiR1qlAMzWhi0AgEPilB"
+    },
+    {
+      "album": {
+        "name": "\u0e2d\u0e22\u0e32\u0e01\u0e0a\u0e27\u0e19\u0e40\u0e18\u0e2d\u0e21\u0e32\u0e2a\u0e19\u0e34\u0e17 (PASSERBY) - Single",
+        "url": "https://open.spotify.com/album/4NEDDZd9neIQfphG2fxA61"
+      },
+      "artists": [
+        {
+          "name": "TIGGER (\u0e17\u0e34\u0e01\u0e40\u0e01\u0e2d\u0e23\u0e4c)",
+          "url": "https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182912,
+      "name": "\u0e2d\u0e22\u0e32\u0e01\u0e0a\u0e27\u0e19\u0e40\u0e18\u0e2d\u0e21\u0e32\u0e2a\u0e19\u0e34\u0e17 (PASSERBY)",
+      "url": "https://open.spotify.com/track/0Owt9EMT0meybf6Nb5PgLl"
     },
     {
       "album": {

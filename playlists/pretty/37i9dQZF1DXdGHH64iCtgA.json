@@ -1,6 +1,6 @@
 {
   "description": "Strut to electronic tracks that grace runways in Paris, New York City and Milan.",
-  "num_followers": 76082,
+  "num_followers": 76108,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "ANIMA",
+        "url": "https://open.spotify.com/album/1sKj6LEXiEfCmsiKwPy5uG"
+      },
+      "artists": [
+        {
+          "name": "Thom Yorke",
+          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
+        }
+      ],
+      "duration_ms": 317986,
+      "name": "Traffic",
+      "url": "https://open.spotify.com/track/7IUckluwamoou1fey8fVFj"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "PFW (Paris Fashion Week)",
         "url": "https://open.spotify.com/album/3WxKZSS3o5PK9p87ILCbbJ"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 210461,
       "name": "PFW (Paris Fashion Week)",
       "url": "https://open.spotify.com/track/46N9KCJKR8cu1CatN5UKPi"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "ANIMA",
-        "url": "https://open.spotify.com/album/1sKj6LEXiEfCmsiKwPy5uG"
-      },
-      "artists": [
-        {
-          "name": "Thom Yorke",
-          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
-        }
-      ],
-      "duration_ms": 317986,
-      "name": "Traffic",
-      "url": "https://open.spotify.com/track/7IUckluwamoou1fey8fVFj"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Eat The Runway",
-        "url": "https://open.spotify.com/album/6htixeOtoUYLx6uzAoitA0"
-      },
-      "artists": [
-        {
-          "name": "KLP",
-          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
-        },
-        {
-          "name": "LaLa Ri",
-          "url": "https://open.spotify.com/artist/5sOIZhuDe7GzTTdJMVLmNz"
-        }
-      ],
-      "duration_ms": 188600,
-      "name": "Eat The Runway",
-      "url": "https://open.spotify.com/track/14Ni5erIxyY8Y7nWbuDtpf"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Orvnge",
         "url": "https://open.spotify.com/album/2gC6Mski1UzwVTwdbUAQPU"
       },
@@ -1579,6 +1559,26 @@
       "duration_ms": 262327,
       "name": "Orvnge",
       "url": "https://open.spotify.com/track/0rG5nqOJMU8uEqq4RGC7oN"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Eat The Runway",
+        "url": "https://open.spotify.com/album/6htixeOtoUYLx6uzAoitA0"
+      },
+      "artists": [
+        {
+          "name": "KLP",
+          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
+        },
+        {
+          "name": "LaLa Ri",
+          "url": "https://open.spotify.com/artist/5sOIZhuDe7GzTTdJMVLmNz"
+        }
+      ],
+      "duration_ms": 188600,
+      "name": "Eat The Runway",
+      "url": "https://open.spotify.com/track/14Ni5erIxyY8Y7nWbuDtpf"
     },
     {
       "added_at": "2024-03-08 05:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "This is Black Eyed Peas. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 478947,
+  "num_followers": 479018,
   "original_name": "This Is Black Eyed Peas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzkxNjgwMCwwMDAwMDAwMGFkYzI4OWE5ZjE2ZTQ0ZmM3ZDczMzU5MDE3NTgxMDk1",
+  "snapshot_id": "MTcxNDAwMzIwMCwwMDAwMDAwMDI3N2Y0OGNiZDM2OTYyMjczZTg5NTMwMjkxZTMwYzg5",
   "tracks": [
     {
       "added_at": null,
@@ -603,6 +603,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "TRANSLATION",
+        "url": "https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 237714,
+      "name": "FEEL THE BEAT",
+      "url": "https://open.spotify.com/track/0pGC7cwCOakpvCFYiawNhM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Teke Teke",
         "url": "https://open.spotify.com/album/2E4AdaVSSNpAcyV8jb9oao"
       },
@@ -623,26 +643,6 @@
       "duration_ms": 177636,
       "name": "El Teke Teke",
       "url": "https://open.spotify.com/track/13N3Nd6nQMe5yDgo9wzUuV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TRANSLATION",
-        "url": "https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 237714,
-      "name": "FEEL THE BEAT",
-      "url": "https://open.spotify.com/track/0pGC7cwCOakpvCFYiawNhM"
     },
     {
       "added_at": null,

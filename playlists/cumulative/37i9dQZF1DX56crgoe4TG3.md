@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Wyatt Flores
 
-269 songs - 17 hr 19 min
+270 songs - 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,7 @@
 | [Stairway to Heaven](https://open.spotify.com/track/6y9VXK7MuqlCzu7OvVGHTs) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Rodrigo y Gabriela](https://open.spotify.com/album/3iqyQHFVWrmx4rjWRJXCNg) | 4:44 | 2022-05-27 | 2023-07-15 |
 | [Steady as She Goes](https://open.spotify.com/track/6yP7UyRK6TVncJSvgaDJnF) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw), [The Sidekicks](https://open.spotify.com/artist/0cuataW2AnHzeTbA2ERBYI) | [The Bluegrass Tribute to Jack White](https://open.spotify.com/album/53pPSe9BoDJN8G2SPrOget) | 3:35 | 2021-08-20 | 2024-01-20 |
 | [Stop Draggin' My Heart Around](https://open.spotify.com/track/4dVdOYwqfTceuuiUdUWhsx) | [Dale Ann Bradley](https://open.spotify.com/artist/5GbwZNguC7FpXnQlIrTiXm), [Dave Adkins](https://open.spotify.com/artist/3RyXAPEFlMjXqy8dFADBaz) | [Kentucky for Me](https://open.spotify.com/album/1LGzbxuKK6FgvnAGDbSnjv) | 3:08 | 2023-06-26 |  |
-| [Strawberries](https://open.spotify.com/track/3qAne5aXwnsa7P0uEZjlWz) | [Bark Point.](https://open.spotify.com/artist/3k1op8tCQiKBZYYW1QecNg) | [Strawberries](https://open.spotify.com/album/7iBMQhkySSkMR80Mv5miFA) | 3:50 | 2023-05-26 |  |
+| [Strawberries](https://open.spotify.com/track/3qAne5aXwnsa7P0uEZjlWz) | [Bark Point.](https://open.spotify.com/artist/3k1op8tCQiKBZYYW1QecNg) | [Strawberries](https://open.spotify.com/album/7iBMQhkySSkMR80Mv5miFA) | 3:50 | 2023-05-26 | 2024-04-27 |
 | [Stronger](https://open.spotify.com/track/5mf78CsTPJUOY2lWWbd8KB) | [Rebecca Loebe](https://open.spotify.com/artist/6FmVqyaRJUiBBLYroaonM4) | [Bees & Zombies](https://open.spotify.com/album/0JK8nmaCQqMXupnfo5ohfp) | 3:28 | 2021-08-20 | 2022-01-08 |
 | [Stuck in the Middle With You](https://open.spotify.com/track/1GygrGGa5Hnuljz88R7z7x) | [Jaelee Roberts](https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM) | [Stuck in the Middle With You](https://open.spotify.com/album/5lS3mzx7dLrsbjVBwG2YTH) | 3:56 | 2024-04-06 |  |
 | [Such Great Heights](https://open.spotify.com/track/4HUENSfoQAJiome9fSSjOK) | [Joy Kills Sorrow](https://open.spotify.com/artist/6ZRMYLLAQlmSluihxBYw0C) | [Wide Awake](https://open.spotify.com/album/7H7mBG6mk62oWCGL7L1uNI) | 4:13 | 2023-11-24 | 2024-04-19 |
@@ -262,6 +262,7 @@
 | [Wild Horses](https://open.spotify.com/track/0oLZz6CXQ698XSO3J9DddL) | [Old & In The Way](https://open.spotify.com/artist/45vs9Drn5QbWAQ4Kff6ofh) | [Breakdown](https://open.spotify.com/album/3OWpFF6JfLHr728JT5PDAn) | 4:38 | 2023-11-24 | 2024-01-20 |
 | [Wild Horses](https://open.spotify.com/track/4xMmjrefx4NlEOHfGu3EQf) | [Old & In The Way](https://open.spotify.com/artist/45vs9Drn5QbWAQ4Kff6ofh) | [Breakdown](https://open.spotify.com/album/1gWmSLQFKaP2CkxxZZXMg7) | 4:38 | 2021-08-20 | 2022-07-29 |
 | [Wild Horses](https://open.spotify.com/track/64gFlVpyORaPTWizf9nAdZ) | [Old & In The Way](https://open.spotify.com/artist/45vs9Drn5QbWAQ4Kff6ofh) | [Breakdown](https://open.spotify.com/album/1Loo5VCZwcTyNmnHfMuTf8) | 4:38 | 2022-05-27 | 2023-12-24 |
+| [Wildflowers](https://open.spotify.com/track/1B2qeZynbSvMxTzGjorlrs) | [Mark O'Connor](https://open.spotify.com/artist/5zfaMrd5q4szVTxVYWuoDV), [Maggie O'Connor](https://open.spotify.com/artist/4Q8UgP0qdFTSIKJLfwmqCH) | [Wildflowers](https://open.spotify.com/album/1nq5kIiewuJN5Z5oAOPWAQ) | 4:23 | 2024-04-26 |  |
 | [Wildflowers](https://open.spotify.com/track/1VJ4tttfxHq0Eu5x2nTCvx) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Wildflowers](https://open.spotify.com/album/0hJydfH36mKREO2dkuuLGs) | 2:48 | 2021-08-20 |  |
 | [Wildwood Flower](https://open.spotify.com/track/1Wzp8u0k19FJEFk8Al6ntI) | [Keith Whitley](https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW), [Ricky Skaggs](https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks) | [Second Generation](https://open.spotify.com/album/0cWKR22WUG8SH7CL2FP8hf) | 3:04 | 2023-11-24 | 2024-04-19 |
 | [Wildwood Flower](https://open.spotify.com/track/3xckzvp58eFYnM7HEHSjMi) | [Keith Whitley](https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW), [Ricky Skaggs](https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks) | [True Bluegrass Instrumentals](https://open.spotify.com/album/6cwdLgLSa2CgKtRwvKZzDd) | 3:04 | 2022-05-27 |  |

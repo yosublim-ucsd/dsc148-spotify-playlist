@@ -1,7 +1,7 @@
 {
-  "2024-04-26": 81368,
+  "2024-04-27": 81397,
   "date_first_scraped": "2022-10-01",
-  "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: Baaba J",
+  "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: Zoe Modinga",
   "name": "Afro Indie",
   "tracks": [
     {
@@ -17,7 +17,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 253250,
       "name": "227",
       "url": "https://open.spotify.com/track/7uaRn34hfMmwzDTNdTNvsY"
@@ -739,7 +739,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 165957,
       "name": "Dunia",
       "url": "https://open.spotify.com/track/7ojNfKBmSyIAEIwZWPltL2"
@@ -873,6 +873,24 @@
       "duration_ms": 248369,
       "name": "Foya",
       "url": "https://open.spotify.com/track/2zAaSEZzHHEVqvD18wgoXN"
+    },
+    {
+      "album": {
+        "name": "nomthandazo",
+        "url": "https://open.spotify.com/album/0yaSKg83zo7r7TfTRBORs1"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Modiga",
+          "url": "https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181619,
+      "name": "get lifted",
+      "url": "https://open.spotify.com/track/5m5DkPYIRY7nPMTrM0sDIK"
     },
     {
       "album": {
@@ -1061,7 +1079,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 222253,
       "name": "hlala",
       "url": "https://open.spotify.com/track/2N52t4ou4Of2eCGxHpPXqq"
@@ -1381,7 +1399,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 290053,
       "name": "Japa Japa",
       "url": "https://open.spotify.com/track/3LohrjLiSAKdLxta3Y7sp5"
@@ -2110,6 +2128,24 @@
     },
     {
       "album": {
+        "name": "Ngibongiseni",
+        "url": "https://open.spotify.com/album/1ilhz6oSQGPBZjepOGvr72"
+      },
+      "artists": [
+        {
+          "name": "Sjava",
+          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Ngibongiseni",
+      "url": "https://open.spotify.com/track/1uJ9tdJnrJcTf6ormmHvPU"
+    },
+    {
+      "album": {
         "name": "Ningojee",
         "url": "https://open.spotify.com/album/01JrImEAig5NQyExNrCQig"
       },
@@ -2723,6 +2759,24 @@
       "duration_ms": 170033,
       "name": "See Me - Remix",
       "url": "https://open.spotify.com/track/7nYcbjV7zOrwHaXU1Qzqio"
+    },
+    {
+      "album": {
+        "name": "See You Soon",
+        "url": "https://open.spotify.com/album/6WTXiaDaUq2i5AYxwiZiTM"
+      },
+      "artists": [
+        {
+          "name": "Adam Srae",
+          "url": "https://open.spotify.com/artist/3QxhXJxbonsOqLObAIuKAE"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161593,
+      "name": "See You Soon",
+      "url": "https://open.spotify.com/track/4LiKVSHo3x0Lmv50UOR0iv"
     },
     {
       "album": {
@@ -3803,6 +3857,28 @@
       "duration_ms": 258081,
       "name": "Yeni Abre",
       "url": "https://open.spotify.com/track/5PR0Mk6xqpMoKh8D9GXbeQ"
+    },
+    {
+      "album": {
+        "name": "Echoes of Farewell",
+        "url": "https://open.spotify.com/album/744YhwL1S9OvtUY6QkAPPc"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Elani Boshoff",
+          "url": "https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169375,
+      "name": "You're Gone",
+      "url": "https://open.spotify.com/track/7AU8HVGvd3Jua9oLVSUgE1"
     },
     {
       "album": {

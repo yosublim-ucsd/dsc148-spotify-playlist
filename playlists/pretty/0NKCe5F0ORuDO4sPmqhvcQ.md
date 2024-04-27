@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,768 likes - 126 songs - 7 hr 6 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,767 likes - 129 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,5 +134,8 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 124 | [Tear Me Down](https://open.spotify.com/track/290iL1wFwGAWJC6IREJgXQ) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf) | [Tear Me Down](https://open.spotify.com/album/6EWDO4bXbu0d42rmm4ohGW) | 3:05 |
 | 125 | [FALLEN ANGEL](https://open.spotify.com/track/7hnmOd4ZD2iJJiyxS30XsY) | [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR), [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN) | [Fallen Angel \(feat\. Nu\-La\)](https://open.spotify.com/album/6A9JUPCcsIlQtBBX0meVjs) | 3:14 |
 | 126 | [Best Regret](https://open.spotify.com/track/1UE3eJorfhsy2j3QBKraAp) | [moistbreezy](https://open.spotify.com/artist/2MsEwFDbnOeYHEaIkJBBCi), [Briana Wolf](https://open.spotify.com/artist/0KI9ED3fgA77tif1YSGvkL), [Kit Major](https://open.spotify.com/artist/71oyyC5F9hCLXF1Gfni0ap), [girl\_irl](https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D) | [Best Regret](https://open.spotify.com/album/7BloG8a18YU5QF4fyYjgF1) | 2:45 |
+| 127 | [Everything's Gonna Be Fine](https://open.spotify.com/track/0w2InymNC1tOdBOOYfGd63) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu) | [Everything's Gonna Be Fine](https://open.spotify.com/album/7C6emRYpSMajc4kds3tLxJ) | 3:39 |
+| 128 | [Heaven \(feat\. Marlene\)](https://open.spotify.com/track/0JpPjzoVsd8Zi4yiowKQK6) | [CHROMEBODIES](https://open.spotify.com/artist/5SY7jZZAfGLD3R9FYwoYGI), [Marlene](https://open.spotify.com/artist/0pAV5GaO9ak8wk1NnF37Cl) | [Heaven \(feat\. Marlene\)](https://open.spotify.com/album/2nHfdDZe6Kt8ovaDij2i4K) | 2:35 |
+| 129 | [Okay Fine](https://open.spotify.com/track/67lB1vjJCFRmf9vNGWXSeg) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [The Unexplained](https://open.spotify.com/album/6jSRRKhBd0hMSzoSwqihRl) | 3:40 |
 
-Snapshot ID: `MTA2ODgsZDllZTVlZDBkODFjOGY4N2JkMWIzNWY0YWYzNWY1NGU2M2U2NDI2NQ==`
+Snapshot ID: `MTA2OTEsMTE5NjVjOTM2MmFjYTg5ZmJjMmEyMzA5M2IzMDBlYTAwYTYwMWVkNA==`

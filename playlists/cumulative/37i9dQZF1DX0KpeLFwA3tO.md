@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Lambrini Girls
 
-1,755 songs - 3 day 15 hr 39 min
+1,756 songs - 3 day 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Bobby Sox](https://open.spotify.com/track/7DXBItTPwL8OpsbXdj58Fl) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 3:44 | 2024-01-19 | 2024-03-08 |
 | [Body](https://open.spotify.com/track/0QO95tKfPVqs8mQo1W5NBV) | [Grandmas House](https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv) | [Body](https://open.spotify.com/album/1DnDutO6JLbg2DLZrRGuzb) | 2:31 | 2022-09-01 | 2022-10-21 |
 | [BODY BAG \(ft\. Point North\)](https://open.spotify.com/track/33b6fmGeYvskkyh54ySRfZ) | [Fran Roz](https://open.spotify.com/artist/5CEBgPIQYvgECBicrmdsSY), [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [BODY BAG \(ft\. Point North\)](https://open.spotify.com/album/5deg9sMgqohHPRrxIvQYCe) | 2:46 | 2022-12-02 | 2023-03-10 |
+| [Body of Mine](https://open.spotify.com/track/18DJZuLkgGwKtSDeOMrUsB) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [God's Country / Body of Mine](https://open.spotify.com/album/630TvkzIGIJtmfd04Li7Ql) | 2:11 | 2024-04-26 |  |
 | [Body Politics](https://open.spotify.com/track/5R9ZQbKLN4gOPx5xCoPMc8) | [The Menstrual Cramps](https://open.spotify.com/artist/5ZV8lDOPUCh9tzkSQBVarI) | [Body Politics](https://open.spotify.com/album/5nzEAtROpZ10pGBwtp7V5y) | 2:47 | 2023-11-24 | 2024-02-02 |
 | [Bois Lie \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/2lHktSigIAZqf7BkA7NRS7) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Love Sux](https://open.spotify.com/album/7hH7rqTATIJ9DaYwWEdNLb) | 2:43 | 2022-02-25 | 2022-04-22 |
 | [Bones](https://open.spotify.com/track/0mjdhNsbHL8ZkY9ZlYKqjI) | [The Dead Love](https://open.spotify.com/artist/0G2ShWwCGT5aGubowNDk2N) | [Bones](https://open.spotify.com/album/6PHUR1v2nc0nH5IVfgtZyb) | 2:41 | 2022-02-18 | 2022-04-01 |
@@ -611,7 +612,7 @@
 | [Glowing](https://open.spotify.com/track/3cR8gXA4OWhgeOgwQkSZGD) | [Locket](https://open.spotify.com/artist/6h0cRpTv4GFq0zYbCbsDXy) | [Glowing](https://open.spotify.com/album/1qUS9bV1vl9fZL9AyDiLad) | 3:37 | 2023-09-28 | 2023-11-17 |
 | [GLUE2](https://open.spotify.com/track/5LGHsa3tFfcM6qc1gUkrhy) | [LUzA CULT](https://open.spotify.com/artist/3PNeM7iJ589do6dmOP26IT), [Death Tour](https://open.spotify.com/artist/08ET100WDKcE5HzPSWBJYg) | [GLUE2](https://open.spotify.com/album/0usqoonogsd5ZvTfS7myJM) | 2:55 | 2022-02-25 | 2022-03-25 |
 | [Go To Hell \(feat\. Yours Truly\)](https://open.spotify.com/track/4Qcu1voWmc5vXrpNZI6PGf) | [Between You & Me](https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu), [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo) | [Go To Hell \(feat\. Yours Truly\)](https://open.spotify.com/album/1uAHVkRPGVP52UhGs5cSES) | 3:07 | 2021-12-17 | 2022-02-25 |
-| [God's Country](https://open.spotify.com/track/4UccUaOQ6lU7kAffOVgz1d) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [God's Country](https://open.spotify.com/album/4ymxAnpNkFo2spUPzjouAR) | 2:15 | 2024-02-16 |  |
+| [God's Country](https://open.spotify.com/track/4UccUaOQ6lU7kAffOVgz1d) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [God's Country](https://open.spotify.com/album/4ymxAnpNkFo2spUPzjouAR) | 2:15 | 2024-02-16 | 2024-04-27 |
 | [GODDAMNITALL](https://open.spotify.com/track/1zXT1kn3JooDmW88EpqVVr) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [GODDAMNITALL](https://open.spotify.com/album/70YBG1iQdOixvsqS2UVRPP) | 3:16 | 2023-05-18 | 2023-09-02 |
 | [Gold](https://open.spotify.com/track/7veYmsEPEEtNCsxmpTfXLI) | [Destroy Rebuild Until God Shows](https://open.spotify.com/artist/6XjXff8FNS5CqpF8dVAtoo) | [Gold](https://open.spotify.com/album/0G5bZ8mzMYZpuP74utweOP) | 3:08 | 2022-06-16 | 2022-07-29 |
 | [Gold Chain Punk \(whogonbeatmyass?\)](https://open.spotify.com/track/3tkftcdXeI7mSLY2hO19aR) | [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan) | [Diaspora Problems](https://open.spotify.com/album/2ZYhM0LXHZ38te98EizcQW) | 3:47 | 2022-03-25 | 2022-04-29 |

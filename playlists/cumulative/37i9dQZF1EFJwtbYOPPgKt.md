@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4faXS5M3wmHrYeRCoMXyUg">Katharina Emendoerfer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-51 songs - 2 hr 10 min
+52 songs - 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [OHNE DICH](https://open.spotify.com/track/71hdTxlg3hYTBomSwAG0mM) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [OHNE DICH](https://open.spotify.com/album/1NzY7UOkZ6uP6oz9sP8AtZ) | 2:54 | 2024-01-29 |  |
 | [One More Night to Go](https://open.spotify.com/track/4xylMnIhy4TEpsKwFW1jFd) | [Swasion](https://open.spotify.com/artist/2laSdQ3VWlxoqY1HOV6KFm) | [One More Night to Go](https://open.spotify.com/album/4MGkPbRnNQKX3aPgB6slEO) | 2:38 | 2024-03-26 |  |
 | [PARIS](https://open.spotify.com/track/0NfeAyYr0WWnV33gYfKOFY) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [PARIS](https://open.spotify.com/album/7mFz9BHV1E6VDp9DLMll1q) | 2:25 | 2024-01-29 |  |
-| [Talk To My Body](https://open.spotify.com/track/1gE7in0fMOo1IENW4A5aa8) | [J\-MOX](https://open.spotify.com/artist/0cFSCEnmtvNCdKNxPLSwP2), [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [Talk To My Body](https://open.spotify.com/album/7195Cy2KrFsFpizBGCTaKO) | 2:46 | 2024-01-29 |  |
+| [Talk To My Body](https://open.spotify.com/track/1gE7in0fMOo1IENW4A5aa8) | [J\-MOX](https://open.spotify.com/artist/0cFSCEnmtvNCdKNxPLSwP2), [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [Talk To My Body](https://open.spotify.com/album/7195Cy2KrFsFpizBGCTaKO) | 2:46 | 2024-01-29 | 2024-04-27 |
+| [Talk To My Body](https://open.spotify.com/track/5NIRs5yzSHnD4lDiZhTyt1) | [J\-MOX](https://open.spotify.com/artist/0cFSCEnmtvNCdKNxPLSwP2), [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [Talk To My Body](https://open.spotify.com/album/0lhCnHBthlbwEaQuvvhPWB) | 2:46 | 2024-04-26 |  |
 | [This Melody](https://open.spotify.com/track/5S5fBN39X06z6dCrfyc1QO) | [Rudeejay](https://open.spotify.com/artist/2zC8RU0p5FvJeCPPLVBR8K), [Da Brozz](https://open.spotify.com/artist/2jrH2DRrZ0NU395R27gal6), [BELLA X](https://open.spotify.com/artist/4jjfOnLNOdOKlHScCytZzV) | [This Melody](https://open.spotify.com/album/43Cy3S3bdMlgFYbYXjaYk5) | 2:46 | 2024-01-29 |  |
 | [Thorns on Your Roses](https://open.spotify.com/track/3eq9fKXYTEPRsuoNc0V3QQ) | [NOISETIME](https://open.spotify.com/artist/0oW7WNHDC1tqLU3urqLKbC), [Maria Gold](https://open.spotify.com/artist/46OImEZJuGQA9ZtICez75K) | [Thorns on Your Roses](https://open.spotify.com/album/2edXdBqwBRipyn5wYPeYvt) | 2:23 | 2024-01-29 |  |
 | [Thunder](https://open.spotify.com/track/6Hht0SIzJwQYBkDD07Dnoj) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Brendan Mills](https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE), [BELLA X](https://open.spotify.com/artist/4jjfOnLNOdOKlHScCytZzV), [LRMEO](https://open.spotify.com/artist/5gTqc3p5WdszJ2AtGElosu) | [Thunder](https://open.spotify.com/album/0lnPUG1O0J3zTNgLa6B5Nj) | 2:36 | 2024-01-29 |  |

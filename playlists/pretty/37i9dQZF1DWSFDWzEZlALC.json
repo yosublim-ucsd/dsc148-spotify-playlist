@@ -1,15 +1,15 @@
 {
   "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Zartmann, antonius, Aaron, Kasi",
-  "num_followers": 421921,
+  "num_followers": 422135,
   "original_name": "Wilde Herzen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDA4MjQ2MCwwMDAwMDAwMDIyNDI0YjRkMGMyMzg5MWNjZGE3OTZmYzA4NmFhYTI4",
+  "snapshot_id": "MTcxNDEyNTAyMywwMDAwMDAwMDAyYTc0NTM2Yjk2YjY0OGU4MjIzNTYzZjBjOWQzNzg4",
   "tracks": [
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "meinen die uns",
         "url": "https://open.spotify.com/album/0tJ2DBgAhFaeE3AgTLYNaU"
@@ -37,7 +37,7 @@
       "url": "https://open.spotify.com/track/3AB4Fi1stxmdaO3XWlMLbp"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "Nur f\u00fcr eine Nacht",
         "url": "https://open.spotify.com/album/6chavHP5vWkUejVtTkXQPF"
@@ -53,7 +53,7 @@
       "url": "https://open.spotify.com/track/6KJZ2dTHNUzm4rAdcR41tD"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "dominik hartz",
         "url": "https://open.spotify.com/album/56FCch1qFLeR6exygAi9vr"
@@ -69,7 +69,7 @@
       "url": "https://open.spotify.com/track/17nconovPtL9P1y5jOV2zE"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "ich mach mich (regardless)",
         "url": "https://open.spotify.com/album/477Bp1mHoQ4XhTY2LWm8UG"
@@ -89,39 +89,27 @@
       "url": "https://open.spotify.com/track/5LY20b84kLnv5CxFlbadxf"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
-        "name": "Banger",
-        "url": "https://open.spotify.com/album/3zg6tepif8shhKlhHysOjd"
+        "name": "M\u00e4nner (#40Bochum)",
+        "url": "https://open.spotify.com/album/1bSbXLilFqg361DkvoYdVJ"
       },
       "artists": [
         {
-          "name": "Carla Ahad",
-          "url": "https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln"
-        }
-      ],
-      "duration_ms": 147202,
-      "name": "Banger",
-      "url": "https://open.spotify.com/track/1HqWJ5O1q9IG4OtYiaQbuT"
-    },
-    {
-      "added_at": "2024-04-25 22:01:00",
-      "album": {
-        "name": "Kreislauf",
-        "url": "https://open.spotify.com/album/16ep6MA5PAcoJYeA6TFq07"
-      },
-      "artists": [
+          "name": "Dilla",
+          "url": "https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ"
+        },
         {
-          "name": "Sandra Isabel",
-          "url": "https://open.spotify.com/artist/1GuE4swTdDZSwFfED65JFW"
+          "name": "Herbert Gr\u00f6nemeyer",
+          "url": "https://open.spotify.com/artist/5tG5dl5mS2wB5w72YBpsyg"
         }
       ],
-      "duration_ms": 207706,
-      "name": "Kreislauf",
-      "url": "https://open.spotify.com/track/7lswBD5MqA6skQ8GqF5NIE"
+      "duration_ms": 195346,
+      "name": "M\u00e4nner - #40Bochum",
+      "url": "https://open.spotify.com/track/5hq6chya9UwpWWJA4zQF8v"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "monogame liebe",
         "url": "https://open.spotify.com/album/70pAG7npnWIwOD6COFkcxk"
@@ -137,7 +125,39 @@
       "url": "https://open.spotify.com/track/4ZVhSSeY27owXp3cpZCm7r"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
+      "album": {
+        "name": "Banger",
+        "url": "https://open.spotify.com/album/3zg6tepif8shhKlhHysOjd"
+      },
+      "artists": [
+        {
+          "name": "Carla Ahad",
+          "url": "https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln"
+        }
+      ],
+      "duration_ms": 147202,
+      "name": "Banger",
+      "url": "https://open.spotify.com/track/1HqWJ5O1q9IG4OtYiaQbuT"
+    },
+    {
+      "added_at": "2024-04-26 09:50:23",
+      "album": {
+        "name": "Kreislauf",
+        "url": "https://open.spotify.com/album/16ep6MA5PAcoJYeA6TFq07"
+      },
+      "artists": [
+        {
+          "name": "Sandra Isabel",
+          "url": "https://open.spotify.com/artist/1GuE4swTdDZSwFfED65JFW"
+        }
+      ],
+      "duration_ms": 207706,
+      "name": "Kreislauf",
+      "url": "https://open.spotify.com/track/7lswBD5MqA6skQ8GqF5NIE"
+    },
+    {
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "lila/gr\u00fcn",
         "url": "https://open.spotify.com/album/3M6KH91qxesWQ4ndxj8HXa"
@@ -153,7 +173,27 @@
       "url": "https://open.spotify.com/track/6xzx3smCNpW592TlEPxdBn"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
+      "album": {
+        "name": "gitarren album",
+        "url": "https://open.spotify.com/album/24eDWxbwrP1crZWHeRqTBa"
+      },
+      "artists": [
+        {
+          "name": "Maeckes",
+          "url": "https://open.spotify.com/artist/5nVbdvU60t7C0JBruxsS26"
+        },
+        {
+          "name": "Oehl",
+          "url": "https://open.spotify.com/artist/0LLCimRswRk6Ks5oBJ4Abp"
+        }
+      ],
+      "duration_ms": 218612,
+      "name": "oh sch\u00f6nheit, du biest",
+      "url": "https://open.spotify.com/track/5iMhjrSlhSFhbG8v4bqSuA"
+    },
+    {
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "ich brenn f\u00fcr dich",
         "url": "https://open.spotify.com/album/5PDHCtutPfFupwRrAW4bjW"
@@ -169,7 +209,7 @@
       "url": "https://open.spotify.com/track/5UvAg513TL86E8JWdJrGeV"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "In Der Zeit Verlieren",
         "url": "https://open.spotify.com/album/131JPd43brI7u4ad651rj8"
@@ -189,7 +229,7 @@
       "url": "https://open.spotify.com/track/3uF7HxZy1DTZOeMLhZSPbH"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "NINA",
         "url": "https://open.spotify.com/album/3AcyNtY9jjJYscS49sdntl"
@@ -205,7 +245,7 @@
       "url": "https://open.spotify.com/track/0j4WzFni16kp0YquOHOwL8"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "L\u00e4rm",
         "url": "https://open.spotify.com/album/4PESfTl0glEhMTtEYFRAHy"
@@ -221,7 +261,7 @@
       "url": "https://open.spotify.com/track/1oBy3oAxgmTcWLKS8AAWKK"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "lippenblau",
         "url": "https://open.spotify.com/album/4Bizq80zTpmpwNmkkcyaO6"
@@ -237,7 +277,7 @@
       "url": "https://open.spotify.com/track/2mDJNAEekeLiMoHHtaRP7Y"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "Fu\u00df baumeln",
         "url": "https://open.spotify.com/album/2BukPk8h55bGp9vildXq57"
@@ -257,7 +297,7 @@
       "url": "https://open.spotify.com/track/7dIi6DS9RA6PDTU90CcNoV"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "such mit mir",
         "url": "https://open.spotify.com/album/5ZexdlWkafVGjSwGunsUpo"
@@ -273,7 +313,7 @@
       "url": "https://open.spotify.com/track/54fISEDtMKFkuSA2hx0mlE"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "Willst du",
         "url": "https://open.spotify.com/album/3v6PmEA3aZhxeG1Y62nmS3"
@@ -293,7 +333,7 @@
       "url": "https://open.spotify.com/track/0XeyWcuJsrJo28jZGda4IQ"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "Wei\u00dft du",
         "url": "https://open.spotify.com/album/1GNaAjx5ns0ptcKNYs0wAH"
@@ -309,7 +349,7 @@
       "url": "https://open.spotify.com/track/6xTQUjMO5hZVrEpSNNo4eu"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "Zeit x RIN",
         "url": "https://open.spotify.com/album/5PsxjZFVj5c1xODJDrS1pV"
@@ -329,7 +369,7 @@
       "url": "https://open.spotify.com/track/0jGC4X9hEVr7MihAhm9ViS"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "kleine Feuer",
         "url": "https://open.spotify.com/album/672lt6au46TYlrsYLLvTTa"
@@ -349,7 +389,7 @@
       "url": "https://open.spotify.com/track/7HF2ixqp47pB4FcCSXkHP4"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "Dummheit",
         "url": "https://open.spotify.com/album/1WgeVtnDGDMeAuZKUuPI1l"
@@ -365,7 +405,7 @@
       "url": "https://open.spotify.com/track/6JHa31wREv5KpbbjLjMcFI"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "hello sunshine",
         "url": "https://open.spotify.com/album/0RqvyJLJdIgR3OsSCPO8NJ"
@@ -381,7 +421,7 @@
       "url": "https://open.spotify.com/track/0AbX5Xi6d6kGmdpZFovSrY"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "no hook pt.2",
         "url": "https://open.spotify.com/album/35YzCA785qR1zgmzOgrP9y"
@@ -401,7 +441,7 @@
       "url": "https://open.spotify.com/track/4SEMA2hhBUi7PNCDrQGJ51"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "bittebitte",
         "url": "https://open.spotify.com/album/19wMMm9dBInd4tgVFAlfRv"
@@ -421,7 +461,7 @@
       "url": "https://open.spotify.com/track/4BPWmTxuWLsvOwN4ej6S7u"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "F\u00fcr immer Fr\u00fchling",
         "url": "https://open.spotify.com/album/5CiWnH7Pwp3re6czR6FLCN"
@@ -437,7 +477,7 @@
       "url": "https://open.spotify.com/track/3pn5z4CvMz95uEysWBUYCc"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "Otto Normal",
         "url": "https://open.spotify.com/album/7q9qdj3phwZm7rpuccOSC9"
@@ -453,7 +493,7 @@
       "url": "https://open.spotify.com/track/2XuDucWOZOUjneQXyRVyay"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "DISTANZ / SEH NICHT KLAR",
         "url": "https://open.spotify.com/album/2OkuVZbkTxxSFQfyyMi1hP"
@@ -469,7 +509,7 @@
       "url": "https://open.spotify.com/track/3CWeKBO9IATLoUJpOU0AdN"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "Tr\u00e4ume vom Alleinsein",
         "url": "https://open.spotify.com/album/1l3gJ8VDQtL3mBL93z0GZu"
@@ -489,7 +529,7 @@
       "url": "https://open.spotify.com/track/41NaCg5GNqct6CpSAefJ72"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "Drachenfrucht",
         "url": "https://open.spotify.com/album/38x0C388O3eX76t2kmfZeD"
@@ -509,7 +549,7 @@
       "url": "https://open.spotify.com/track/5mDZnH5AtLhmmz45i4Ru8X"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "Fang",
         "url": "https://open.spotify.com/album/4DErDX71xvkmCr2QJdk33d"
@@ -525,7 +565,7 @@
       "url": "https://open.spotify.com/track/4AiBmrYrcxTB5rFM7doAiv"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "Wie weit",
         "url": "https://open.spotify.com/album/08QSXJITlWxHI6zdxitpZA"
@@ -541,7 +581,7 @@
       "url": "https://open.spotify.com/track/1Rax9jcKsPwQjnRLmZTC9F"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "Cool",
         "url": "https://open.spotify.com/album/0WXofhhWkaD6NmI5Dwj9pw"
@@ -561,7 +601,7 @@
       "url": "https://open.spotify.com/track/6lUbb9wnaz2lo9sczbfpss"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "immatrikuliert",
         "url": "https://open.spotify.com/album/5YW9rJ154VueLdV3n7v0rW"
@@ -581,7 +621,7 @@
       "url": "https://open.spotify.com/track/0IQN1UjYkpP8I36Z7HrNfC"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "ALIEN",
         "url": "https://open.spotify.com/album/5BqIRh4Q4PQX7cz6NqgrAf"
@@ -597,7 +637,7 @@
       "url": "https://open.spotify.com/track/0nvWJynJUxMmaQHoiv1XLI"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "Mitte 20",
         "url": "https://open.spotify.com/album/2yEnMwdfZrhKs4WtUuxY5e"
@@ -613,7 +653,7 @@
       "url": "https://open.spotify.com/track/6bpdsIBLD8UcP9mZl9FAdM"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "Liebe f\u00fcr lau",
         "url": "https://open.spotify.com/album/68khQe9GoKmoc1w3mJf4qJ"
@@ -629,7 +669,7 @@
       "url": "https://open.spotify.com/track/6FBKpJzECXb30DLLWiGsB5"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "Zuhause",
         "url": "https://open.spotify.com/album/04Ev035HpFnYFL0ydiKZqI"
@@ -653,7 +693,7 @@
       "url": "https://open.spotify.com/track/6Ckz6CmLcNhifQaK8wA3Qz"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "Paris Paris",
         "url": "https://open.spotify.com/album/69rUtSl9ZypyPH225w0TfD"
@@ -669,7 +709,7 @@
       "url": "https://open.spotify.com/track/5DCsBJ761OKZT9QAYljRB7"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "Ode an den Bass",
         "url": "https://open.spotify.com/album/1gAnk5qZJAA3T01vufMMDD"
@@ -685,7 +725,7 @@
       "url": "https://open.spotify.com/track/5BfQq5cdMr5f5PVSz6yRpq"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "bucketlist",
         "url": "https://open.spotify.com/album/0zpi8GC3UgZORrpqi6D9Ni"
@@ -701,7 +741,7 @@
       "url": "https://open.spotify.com/track/7HjJK7TngZk3Ervm9JCVdd"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "Nur 3 Sekunden",
         "url": "https://open.spotify.com/album/5nTPR9hQ3bjBtNeF3utJfP"
@@ -717,7 +757,7 @@
       "url": "https://open.spotify.com/track/4xsNzTOHuiE211c4pSVoVw"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "Nichts f\u00fcr immer",
         "url": "https://open.spotify.com/album/1ikXu7Cq3SEFP34uqSNCRS"
@@ -733,7 +773,7 @@
       "url": "https://open.spotify.com/track/7DzpWWBAuKpaNfzavoTjLI"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "Keine Ahnung",
         "url": "https://open.spotify.com/album/6JjNfhRXOgqbeIByk4TU22"
@@ -749,7 +789,7 @@
       "url": "https://open.spotify.com/track/35riGdFOw3iO4FcRKnL42W"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "halb 4",
         "url": "https://open.spotify.com/album/4MoIBEE5Es7PYZLf3Fj536"
@@ -765,7 +805,7 @@
       "url": "https://open.spotify.com/track/1u3bSLbmo4cnqyGZp2jP31"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "lila/gr\u00fcn",
         "url": "https://open.spotify.com/album/5vyhM5AO8tuDk3RaNrB9me"
@@ -781,7 +821,7 @@
       "url": "https://open.spotify.com/track/4R7Ztk3IK5vKaLpNsffhlk"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "Party mit mir selbst",
         "url": "https://open.spotify.com/album/7FYIEyAdivc1sNE7j6cqkW"
@@ -801,7 +841,7 @@
       "url": "https://open.spotify.com/track/2kNpg9AiImLPLhDDbgWgZs"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "sch\u00f6nheit die in schmerzen liegt",
         "url": "https://open.spotify.com/album/0VHB5d6cpwtQi6KZ2UZfUB"
@@ -817,7 +857,7 @@
       "url": "https://open.spotify.com/track/4BahctFbZ15m6Yw1ZsSOuq"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "ich hass dich noch'n bisschen",
         "url": "https://open.spotify.com/album/6nQFyDVSdK7Wzr50bPnFcN"
@@ -833,7 +873,7 @@
       "url": "https://open.spotify.com/track/2N5TDaTcnsEXP9vtCaTiDb"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "Stra\u00dfengraben",
         "url": "https://open.spotify.com/album/35Scbv0q8sPn61uC0jMvAF"
@@ -849,7 +889,7 @@
       "url": "https://open.spotify.com/track/6ikfrlq9YwHIafE7ZgS085"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "N\u00fcchtern",
         "url": "https://open.spotify.com/album/4dtdOI3bLWV2DX4dfJrUmS"
@@ -865,7 +905,7 @@
       "url": "https://open.spotify.com/track/4Ih8l5VnYovzqBhdjPSdPH"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "Positive Vibes",
         "url": "https://open.spotify.com/album/01gVO3S6Sker3QBtUvwQMs"
@@ -881,7 +921,7 @@
       "url": "https://open.spotify.com/track/2RNaKhaYCeYJSqtLpxndeg"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "Andere Stadt",
         "url": "https://open.spotify.com/album/0ZnscXjJpv6ADS5D23sTPB"
@@ -897,7 +937,7 @@
       "url": "https://open.spotify.com/track/132NdYQcNLGGoPhPNUdQcW"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "kontrollverlust",
         "url": "https://open.spotify.com/album/1XyT1LjPfmbbi6GGM9feNM"
@@ -913,7 +953,7 @@
       "url": "https://open.spotify.com/track/3RxfGOuTflKZcnjgMvRQGs"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "Halt dein Maul",
         "url": "https://open.spotify.com/album/2eCMZYkjny7NdILf2G3LwU"
@@ -929,7 +969,7 @@
       "url": "https://open.spotify.com/track/2tzUC0Y1lFXDrVBtBPw1Dt"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "Egal",
         "url": "https://open.spotify.com/album/1O3aDjWnICWkla1AzdWQBt"
@@ -945,7 +985,7 @@
       "url": "https://open.spotify.com/track/08XKxLjXwHtgD9cQjpkQI5"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "atlantik",
         "url": "https://open.spotify.com/album/0Z68a7uPj7L15g2xEUPV4f"
@@ -961,7 +1001,7 @@
       "url": "https://open.spotify.com/track/4xEcgqxZ1H1LwkXHLJ362C"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "Bella und die K\u00f6nigskinder",
         "url": "https://open.spotify.com/album/3WMtox7bDUrBfdYjxfzN14"
@@ -977,7 +1017,7 @@
       "url": "https://open.spotify.com/track/2eixdIRxCvefh51fEzYnzZ"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "Cruisen",
         "url": "https://open.spotify.com/album/456CPopRAisSeK6XfI4fy0"
@@ -993,7 +1033,7 @@
       "url": "https://open.spotify.com/track/75wcLZXc1mHsGcDABxuIFv"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "Endlich wieder da wo es beginnt",
         "url": "https://open.spotify.com/album/7F10LDR3f6k5ggbCVj9XmW"
@@ -1013,7 +1053,7 @@
       "url": "https://open.spotify.com/track/4oqNqiixUAC99sQsZ6MLcl"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "5 neue sorgen",
         "url": "https://open.spotify.com/album/0HIHYFw3F6Swht6XLpJGwf"
@@ -1029,7 +1069,7 @@
       "url": "https://open.spotify.com/track/4hZKwJ0XKPKAsfdEXOrPik"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "Scheissegal",
         "url": "https://open.spotify.com/album/6WVk6xki2yw6Rm5lkRt9al"
@@ -1045,7 +1085,7 @@
       "url": "https://open.spotify.com/track/4nyRfJ4OtNlLWCtp3l9SAz"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "24h",
         "url": "https://open.spotify.com/album/5poPeICg6lCMrNwwQqOYEH"
@@ -1065,7 +1105,7 @@
       "url": "https://open.spotify.com/track/1htrJ3pGSz1Wemhu04rmj4"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "Sie sagt",
         "url": "https://open.spotify.com/album/7Ljv1ueJapDDF22Qx7JEJB"
@@ -1081,7 +1121,7 @@
       "url": "https://open.spotify.com/track/2fDx4w2rGgr73T0cwt3GMl"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "Also was jetzt?",
         "url": "https://open.spotify.com/album/0HV0znOFszVIR664Z6vc3k"
@@ -1097,7 +1137,7 @@
       "url": "https://open.spotify.com/track/53czFJt0Cz9DGgpyDrO6l1"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "luft holen",
         "url": "https://open.spotify.com/album/4CIKBFFca7KrnGo1bNmETg"
@@ -1113,7 +1153,7 @@
       "url": "https://open.spotify.com/track/4IvZk9sjOkN8cG8kL710GI"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "bunte farben",
         "url": "https://open.spotify.com/album/0NLlCBbWgYUu1FqacMpMLs"
@@ -1129,7 +1169,7 @@
       "url": "https://open.spotify.com/track/57ufrqhwjOnHIahY1S2CjM"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "Schere Stein Papier",
         "url": "https://open.spotify.com/album/2wp0GmMLB4NOjQRLySIDR2"
@@ -1145,7 +1185,7 @@
       "url": "https://open.spotify.com/track/35rLzOjaDt0k9L0JwndPYh"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "Entt\u00e4uscht",
         "url": "https://open.spotify.com/album/3RMAGCdlzl1zEnnSpJYLmQ"
@@ -1161,7 +1201,7 @@
       "url": "https://open.spotify.com/track/0yDzE2lP8xFMpu7Pqp5196"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "Liebe ist Krieg",
         "url": "https://open.spotify.com/album/5QymcHspy5h5NLKsmLsBCY"
@@ -1177,7 +1217,7 @@
       "url": "https://open.spotify.com/track/2NgAtQbDrlBvrgnqylUwQa"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "Helium",
         "url": "https://open.spotify.com/album/5tSFG6YkSHuxZCYQBc8pzG"
@@ -1197,7 +1237,7 @@
       "url": "https://open.spotify.com/track/4Os5yLFtTCv9CYc7xPtcpH"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "\u00c4ndert nichts",
         "url": "https://open.spotify.com/album/3ZxBCLQhUzfjwpgpyNFOqU"
@@ -1213,7 +1253,7 @@
       "url": "https://open.spotify.com/track/7n3hfyNw12pdVoWAYHcEuO"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "Richtung Mars",
         "url": "https://open.spotify.com/album/3tpBhoJe0XBSwDE5mNjskj"
@@ -1229,23 +1269,7 @@
       "url": "https://open.spotify.com/track/5eC2s3KFhxnsM7JYnea6EN"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
-      "album": {
-        "name": "Zeit",
-        "url": "https://open.spotify.com/album/4aL2wj06bRu9M93gzQJbpI"
-      },
-      "artists": [
-        {
-          "name": "ENNIO",
-          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
-        }
-      ],
-      "duration_ms": 135233,
-      "name": "Zeit",
-      "url": "https://open.spotify.com/track/6WoyIbtL9Ex5jxiGF7a5jE"
-    },
-    {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "Schlaf gut",
         "url": "https://open.spotify.com/album/1Swdd6ktgwOrIYVCk3v4m7"
@@ -1265,23 +1289,7 @@
       "url": "https://open.spotify.com/track/1gUDyPpx99jRTVgSvrWEjl"
     },
     {
-      "added_at": "2024-04-25 22:01:00",
-      "album": {
-        "name": "Bei dir",
-        "url": "https://open.spotify.com/album/3V9JIUKGUb5yghblRgYFXQ"
-      },
-      "artists": [
-        {
-          "name": "BRUCKNER",
-          "url": "https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq"
-        }
-      ],
-      "duration_ms": 148313,
-      "name": "Bei dir",
-      "url": "https://open.spotify.com/track/4lNN7M9Xr4cC7X0p6I4QhQ"
-    },
-    {
-      "added_at": "2024-04-25 22:01:00",
+      "added_at": "2024-04-26 09:50:23",
       "album": {
         "name": "DLIT (die Liebe ist tot)",
         "url": "https://open.spotify.com/album/3ZwrJdU2gxr7pZTYgm00Ce"

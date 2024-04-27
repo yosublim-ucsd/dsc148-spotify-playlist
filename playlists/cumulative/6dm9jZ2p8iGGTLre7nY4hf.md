@@ -4,7 +4,7 @@
 
 > Break up songs, the best cure for a broken heart!
 
-337 songs - 18 hr 32 min
+338 songs - 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Clearly Confused](https://open.spotify.com/track/2eSLbjFHZ7dR6ZyL74V1nx) | [Bernhoft](https://open.spotify.com/artist/7hJnLLfzUy0oDOtNZF8wUm) | [Clearly Confused](https://open.spotify.com/album/5fjH4GThgTjuuEkP3Iv29s) | 2:58 | 2023-09-15 |  |
 | [Cloudy](https://open.spotify.com/track/5E382bXE9IMoomWdvvbLde) | [Tessa Odden](https://open.spotify.com/artist/5fWn9g8ERHtGKWdkAuomBx) | [Cloudy](https://open.spotify.com/album/0FkrQlfcUdolygkblDBnD1) | 2:53 | 2023-09-15 |  |
 | [Cold](https://open.spotify.com/track/1VDUt9m7KJ7lpDfXxJBaNL) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Home](https://open.spotify.com/album/6H6uDM9YdkVdXDUzDpO0wZ) | 2:08 | 2023-09-15 |  |
+| [Cold](https://open.spotify.com/track/3yTxDUuueSjhtsK1ea3Lbp) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Cold](https://open.spotify.com/album/6dSayYt3E6jPTp66PcXsrI) | 2:50 | 2024-04-26 |  |
 | [complex](https://open.spotify.com/track/4cM7wj6FKij1OHs3q61u0s) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex](https://open.spotify.com/album/6EJrbQYRD2FEjj7mpc3ASn) | 3:59 | 2023-09-15 |  |
 | [Connexion](https://open.spotify.com/track/5euRP53moGQyGCsq8aNjvo) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Nobody Is Listening](https://open.spotify.com/album/2yuQqhSklmfWgn8lmJNk5t) | 3:16 | 2023-09-15 |  |
 | [Consequences \- orchestra](https://open.spotify.com/track/1ArLnG0bHaHPXqf08sEKM0) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Consequences \(orchestra\)](https://open.spotify.com/album/4jveOoArP3ZSVOpKkqylLX) | 3:01 | 2023-09-15 |  |

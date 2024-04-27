@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Zartmann, antonius, Aaron, Kasi
 
-603 songs - 1 day 5 hr 2 min
+605 songs - 1 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Balladen](https://open.spotify.com/track/2Sww227sDMO4volJHpOval) | [Magdalena Wawra](https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG), [Marlo Grosshardt](https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo) | [Balladen](https://open.spotify.com/album/3M9OiEvddu4EiNxVDdrDJ6) | 3:26 | 2023-09-28 | 2024-02-14 |
 | [Banger](https://open.spotify.com/track/1HqWJ5O1q9IG4OtYiaQbuT) | [Carla Ahad](https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln) | [Banger](https://open.spotify.com/album/3zg6tepif8shhKlhHysOjd) | 2:27 | 2024-04-04 |  |
 | [Bar Royal](https://open.spotify.com/track/38zR4B1VcFqtSKOZWeQ5Mk) | [Resi Reiner](https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD) | [Weisst du was ich mein?!](https://open.spotify.com/album/6HKoFdtu6y5risy2dxEdTY) | 3:43 | 2023-08-24 | 2023-10-06 |
-| [Bei dir](https://open.spotify.com/track/4lNN7M9Xr4cC7X0p6I4QhQ) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Bei dir](https://open.spotify.com/album/3V9JIUKGUb5yghblRgYFXQ) | 2:28 | 2024-03-14 |  |
+| [Bei dir](https://open.spotify.com/track/4lNN7M9Xr4cC7X0p6I4QhQ) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Bei dir](https://open.spotify.com/album/3V9JIUKGUb5yghblRgYFXQ) | 2:28 | 2024-03-14 | 2024-04-27 |
 | [Bei Dir](https://open.spotify.com/track/3XpEKPj7KZt0yYWd7PQf5d) | [KUMMER](https://open.spotify.com/artist/2TiXt00aPsggbxZxL1RaG7) | [KIOX](https://open.spotify.com/album/4E7HxVevq5O1XmvWhCEKXS) | 3:42 | 2023-02-13 | 2024-02-16 |
 | [Bei Dir](https://open.spotify.com/track/743PkCiFGV53H6B9B6EMt9) | [Paul Weber](https://open.spotify.com/artist/5Awy5kGk6lVTb5XSSNPRcB) | [Bei Dir](https://open.spotify.com/album/3U3eyh2E6CgvAisyhjFmnP) | 3:44 | 2024-02-15 | 2024-03-08 |
 | [Bei dir melden](https://open.spotify.com/track/2ELLvcm0ygosQHVQwfBTKa) | [Pablu](https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3) | [Bei dir melden](https://open.spotify.com/album/3MfYFTs9X8ct3eKlroTnuY) | 2:53 | 2023-07-20 | 2023-08-18 |
@@ -374,6 +374,7 @@
 | [Moshpit](https://open.spotify.com/track/6QFyquVHheJrzJbuv8tWFY) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Moshpit](https://open.spotify.com/album/5WyiLUBm2DaTasNN24WTfY) | 2:01 | 2023-09-14 | 2024-03-15 |
 | [Mut](https://open.spotify.com/track/51oVxCfHSOp8oZc0HhBwf8) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [Mut](https://open.spotify.com/album/4aYZfCtzXSvMFAVRApKo4R) | 2:43 | 2023-05-25 | 2023-10-06 |
 | [Männer](https://open.spotify.com/track/6dQPQikamiuTl8WoUWJ7vi) | [Blond](https://open.spotify.com/artist/4WnfD0e5J91W7zyHBK6svA), [addeN](https://open.spotify.com/artist/37SgaZuWj0yxWXetbYOe7C) | [Männer](https://open.spotify.com/album/0MOVco79zILYTrD4cDaU8f) | 3:18 | 2023-02-02 | 2023-02-17 |
+| [Männer \- \#40Bochum](https://open.spotify.com/track/5hq6chya9UwpWWJA4zQF8v) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ), [Herbert Grönemeyer](https://open.spotify.com/artist/5tG5dl5mS2wB5w72YBpsyg) | [Männer \(\#40Bochum\)](https://open.spotify.com/album/1bSbXLilFqg361DkvoYdVJ) | 3:15 | 2024-04-26 |  |
 | [Nach Hause](https://open.spotify.com/track/0CFOyN2HD6gqCo7RY2YK6n) | [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Euphorie und Panik!](https://open.spotify.com/album/1nwCWEMNJs3XYhC8XS3KBO) | 3:00 | 2023-04-06 | 2023-07-14 |
 | [Namen in Beton](https://open.spotify.com/track/7blDCXJRdcj2fxICbqFcgj) | [Paul Weber](https://open.spotify.com/artist/5Awy5kGk6lVTb5XSSNPRcB) | [Namen in Beton](https://open.spotify.com/album/2niO8XaCFBD3hirpgDWSiC) | 3:01 | 2023-05-18 | 2023-06-02 |
 | [Nero](https://open.spotify.com/track/1ySWFxPIPHpjA5EsRx39Q7) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Nero](https://open.spotify.com/album/3cBbmX6ACg8NdpVyr2QACS) | 3:02 | 2023-02-23 | 2023-03-31 |
@@ -403,6 +404,7 @@
 | [Offiziell Glücklich](https://open.spotify.com/track/4zD9KFD8awuhpSuzygS4Pf) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Offiziell Glücklich](https://open.spotify.com/album/5nI1xih2hIWj0zf056x31C) | 2:48 | 2023-09-14 | 2023-11-17 |
 | [Offline](https://open.spotify.com/track/7Jpjui3BOS3fYqKYzddHm4) | [MOA](https://open.spotify.com/artist/1E7MNGR2FctfNRyFwWLcCY), [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Offline](https://open.spotify.com/album/2tZZnHcwcJsJ7NbSLKLaAd) | 3:30 | 2023-11-24 | 2024-01-26 |
 | [oftgefragt\_cover](https://open.spotify.com/track/4B6WImKT5ovI8fJHS5AQLr) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ) | [oftgefragt\_cover](https://open.spotify.com/album/7KxBfTvOv8iThCQuYyloMC) | 3:08 | 2023-12-21 | 2024-03-22 |
+| [oh schönheit, du biest](https://open.spotify.com/track/5iMhjrSlhSFhbG8v4bqSuA) | [Maeckes](https://open.spotify.com/artist/5nVbdvU60t7C0JBruxsS26), [Oehl](https://open.spotify.com/artist/0LLCimRswRk6Ks5oBJ4Abp) | [gitarren album](https://open.spotify.com/album/24eDWxbwrP1crZWHeRqTBa) | 3:38 | 2024-04-26 |  |
 | [Ohne uns](https://open.spotify.com/track/7APp1SPNTDUWUPBl4CjqcK) | [Yassin](https://open.spotify.com/artist/04D2woeEnCEpk3Y01gTHy3), [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb) | [FÜR IMMER](https://open.spotify.com/album/058sfd5ZUogzHNpujalOXa) | 2:30 | 2023-05-18 | 2023-10-27 |
 | [One Call away <3](https://open.spotify.com/track/0c1NsAvtTncDw7TlPB7Nkh) | [Verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [adhs](https://open.spotify.com/album/4AG9l8sVfZ4OhBRjuOFnze) | 2:18 | 2023-03-02 | 2023-05-12 |
 | [One Way](https://open.spotify.com/track/0uLs9eBvzMfs6pjPM251TB) | [KLAN](https://open.spotify.com/artist/3PWVGBibvYW9YfZX6ayYq8) | [One Way](https://open.spotify.com/album/3H10cUuEaI4jIxNiZfQAGz) | 2:57 | 2023-11-24 | 2024-04-12 |
@@ -595,7 +597,7 @@
 | [Während du zusiehst](https://open.spotify.com/track/132ibBDrvNLZf9gxNnyPWf) | [Sira](https://open.spotify.com/artist/57IaP5fMkqnu3M3ib1Vgvs), [KazOnDaBeat](https://open.spotify.com/artist/7mnmr8BPHhEEYFwIHlclFt) | [Noema](https://open.spotify.com/album/1tYbdbaAvuoNszkC5FnDY8) | 2:17 | 2023-02-13 | 2023-02-15 |
 | [Wärs ok?](https://open.spotify.com/track/0MnoWZ4toEV0ScWX3r1fFy) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Wärs ok?](https://open.spotify.com/album/1kG0FCy4fJfbCDROZD0vsg) | 3:13 | 2023-03-16 | 2023-09-01 |
 | [Yipi](https://open.spotify.com/track/5zQxyCW84HkepYTAihUyEM) | [Bosse](https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR) | [Wartesaal \(Deluxe Version\)](https://open.spotify.com/album/1E9STCQ94KIpH714S9z8DD) | 2:55 | 2023-02-13 | 2023-02-15 |
-| [Zeit](https://open.spotify.com/track/6WoyIbtL9Ex5jxiGF7a5jE) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Zeit](https://open.spotify.com/album/4aL2wj06bRu9M93gzQJbpI) | 2:15 | 2024-01-18 |  |
+| [Zeit](https://open.spotify.com/track/6WoyIbtL9Ex5jxiGF7a5jE) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Zeit](https://open.spotify.com/album/4aL2wj06bRu9M93gzQJbpI) | 2:15 | 2024-01-18 | 2024-04-27 |
 | [Zeit x RIN](https://open.spotify.com/track/0jGC4X9hEVr7MihAhm9ViS) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt), [RIN](https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz) | [Zeit x RIN](https://open.spotify.com/album/5PsxjZFVj5c1xODJDrS1pV) | 2:15 | 2024-03-28 |  |
 | [Zerrissen](https://open.spotify.com/track/3X0nFQWGJw0FQp6A3uVhgl) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Zerrissen](https://open.spotify.com/album/3wWEzUcLrvF0ONRDJh3dur) | 3:24 | 2023-04-20 | 2023-10-06 |
 | [Zittern](https://open.spotify.com/track/5dUdIExBgfgxWoqJ77Xi4W) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Zittern](https://open.spotify.com/album/1N1Pe9J71EgxGBCcWnrRWY) | 4:06 | 2024-01-12 | 2024-04-19 |

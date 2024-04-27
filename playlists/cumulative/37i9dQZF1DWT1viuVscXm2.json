@@ -262,7 +262,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 224285,
       "name": "ALV",
       "url": "https://open.spotify.com/track/32hCeeK3ayPux4UauNPsgA"
@@ -2242,6 +2242,24 @@
       "duration_ms": 197216,
       "name": "Jurabas T\u00fa",
       "url": "https://open.spotify.com/track/4jmFwwo60CzJajnFESpFRj"
+    },
+    {
+      "album": {
+        "name": "En Vivo Movistar Arena, Sesi\u00f3n 3",
+        "url": "https://open.spotify.com/album/2YgoxjXa13Du7Rh86R0J8r"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174852,
+      "name": "La Banda Azul - En Vivo",
+      "url": "https://open.spotify.com/track/0OaYWPlfyUXDF0ExF8oRtP"
     },
     {
       "album": {

@@ -1,13 +1,29 @@
 {
   "description": "The jam scene is alive and well. Cover: SunSquabi",
-  "num_followers": 30311,
+  "num_followers": 30338,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ5OTI2MCwwMDAwMDAwMDE3YmQ1MWUxODk1MjljZTBjYTlmYTZkNzlhZDAwMjhl",
+  "snapshot_id": "MTcxNDEwNDA2MCwwMDAwMDAwMGVmOWIyYWIxMjBhMmY5N2FlYjQ4NTgwODRjMDYwZDBj",
   "tracks": [
+    {
+      "added_at": "2024-04-26 04:01:00",
+      "album": {
+        "name": "Mister Funky Daddy",
+        "url": "https://open.spotify.com/album/1n3DXIyRmvuv5RQ7G4EhdF"
+      },
+      "artists": [
+        {
+          "name": "Kendall Street Company",
+          "url": "https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9"
+        }
+      ],
+      "duration_ms": 149581,
+      "name": "Mister Funky Daddy",
+      "url": "https://open.spotify.com/track/0ZShF0uFfkoQThIySmDd5l"
+    },
     {
       "added_at": "2024-04-19 04:01:00",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 259851,
       "name": "Make That Booty Clap (Must Be Jelly)",
       "url": "https://open.spotify.com/track/0uzRJgu1yEtDgzffzo4PyN"
+    },
+    {
+      "added_at": "2024-04-26 04:01:00",
+      "album": {
+        "name": "Keep Dreaming",
+        "url": "https://open.spotify.com/album/1RnnEOalfBnLlOXVmBP6aQ"
+      },
+      "artists": [
+        {
+          "name": "The Moon City Masters",
+          "url": "https://open.spotify.com/artist/5ds1ng1NKpr4Bv0VbgHyAr"
+        }
+      ],
+      "duration_ms": 261643,
+      "name": "Keep Dreaming",
+      "url": "https://open.spotify.com/track/4XQWGTjlBLQvfqfjRAgXnA"
     },
     {
       "added_at": "2024-04-12 04:01:00",
@@ -55,22 +87,6 @@
       "duration_ms": 529500,
       "name": "The Funk",
       "url": "https://open.spotify.com/track/0WeCFdC599NfSLEYF4DhIK"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
-        "name": "Checkin' Out",
-        "url": "https://open.spotify.com/album/7iwG1bDdGhmbiD5GHqDGCx"
-      },
-      "artists": [
-        {
-          "name": "Kendall Street Company",
-          "url": "https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9"
-        }
-      ],
-      "duration_ms": 232221,
-      "name": "Checkin' Out",
-      "url": "https://open.spotify.com/track/7nMaNXGmnMW4Xr9MokbWAS"
     },
     {
       "added_at": "2024-03-15 04:01:00",
@@ -223,22 +239,6 @@
       "duration_ms": 259811,
       "name": "Love Time",
       "url": "https://open.spotify.com/track/0zhxUyymPXhibLS5KSBIHa"
-    },
-    {
-      "added_at": "2024-02-02 05:01:00",
-      "album": {
-        "name": "Stuck On You",
-        "url": "https://open.spotify.com/album/5piDzyf0KFonTHK3vrl8k5"
-      },
-      "artists": [
-        {
-          "name": "The Moon City Masters",
-          "url": "https://open.spotify.com/artist/5ds1ng1NKpr4Bv0VbgHyAr"
-        }
-      ],
-      "duration_ms": 213786,
-      "name": "Stuck On You",
-      "url": "https://open.spotify.com/track/2eqVjqpmCjB904Cw2cUPLe"
     },
     {
       "added_at": "2024-02-02 05:01:00",

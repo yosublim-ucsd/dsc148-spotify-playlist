@@ -1,6 +1,6 @@
 {
   "description": "The very best songs that soundtracked Youth Groups of the 90s & early 00s! Cover: DC Talk",
-  "num_followers": 107206,
+  "num_followers": 107256,
   "original_name": "Youth Group Throwback",
   "owner": {
     "name": "Spotify",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
-        "name": "King of Fools",
-        "url": "https://open.spotify.com/album/4FrXWYXrratJp2KfiFl32j"
-      },
-      "artists": [
-        {
-          "name": "Delirious?",
-          "url": "https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF"
-        }
-      ],
-      "duration_ms": 260388,
-      "name": "Deeper - Live",
-      "url": "https://open.spotify.com/track/0hDWOLFu71QCiI8MblsMks"
-    },
-    {
-      "added_at": "2023-02-01 04:53:20",
-      "album": {
         "name": "The Ultimate Collection",
         "url": "https://open.spotify.com/album/1DPCpHWC875p3L4xAVSIoX"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 202333,
       "name": "Why Do I Do",
       "url": "https://open.spotify.com/track/37KnIgKETYyOOXe56FLquT"
+    },
+    {
+      "added_at": "2023-02-01 04:53:20",
+      "album": {
+        "name": "King of Fools",
+        "url": "https://open.spotify.com/album/4FrXWYXrratJp2KfiFl32j"
+      },
+      "artists": [
+        {
+          "name": "Delirious?",
+          "url": "https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF"
+        }
+      ],
+      "duration_ms": 260388,
+      "name": "Deeper - Live",
+      "url": "https://open.spotify.com/track/0hDWOLFu71QCiI8MblsMks"
     },
     {
       "added_at": "2023-02-01 04:53:20",

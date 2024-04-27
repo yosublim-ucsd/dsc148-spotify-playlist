@@ -1,12 +1,12 @@
 {
   "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: BARBEL",
-  "num_followers": 112973,
+  "num_followers": 112985,
   "original_name": "Flow Panam\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ5OTI2MCwwMDAwMDAwMDNiZWFkZDY5MTQ3NDRkYTBjMjFjOThhYWQ3MDdmZThh",
+  "snapshot_id": "MTcxNDEwNDAwMCwwMDAwMDAwMDYyZTgxZGNjYTdlODY2ZDQ2ZTdkYjkzNzNjNzhmN2Rl",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -45,52 +45,24 @@
       "url": "https://open.spotify.com/track/5itg5kaqEcsjzZYzbFs8X5"
     },
     {
-      "added_at": "2024-04-12 04:00:00",
+      "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Besito",
-        "url": "https://open.spotify.com/album/6QSU6WWBY5m3hqfMaCwFWF"
+        "name": "NO SON PA' SIEMPRE",
+        "url": "https://open.spotify.com/album/2B6Rx0Y4vMf6PiDlvJD0uC"
       },
       "artists": [
         {
-          "name": "El Zeta",
-          "url": "https://open.spotify.com/artist/24iSgjiesQ2bhUsHsav2uk"
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
         },
         {
-          "name": "JEYSON",
-          "url": "https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb"
-        },
-        {
-          "name": "Kako Prod",
-          "url": "https://open.spotify.com/artist/2o25Rg1Zi8uvXRFLZCBOnX"
+          "name": "KEVIN ROLDAN",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
         }
       ],
-      "duration_ms": 235334,
-      "name": "Besito",
-      "url": "https://open.spotify.com/track/4NP3784UR7t43YihSg6EjE"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "SAT\u00c9LITE",
-        "url": "https://open.spotify.com/album/6yKhPCfkNb7khRQklEhQaZ"
-      },
-      "artists": [
-        {
-          "name": "T.O.T",
-          "url": "https://open.spotify.com/artist/0KEa1ChgXvRCPL9Jju7cbw"
-        },
-        {
-          "name": "Valentino GRM",
-          "url": "https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr"
-        },
-        {
-          "name": "Ladele OTM",
-          "url": "https://open.spotify.com/artist/0ryLYxj89KsjwIZEwS0k8J"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "SAT\u00c9LITE",
-      "url": "https://open.spotify.com/track/6kb23hMyGpTQRApxZDpykX"
+      "duration_ms": 178064,
+      "name": "NO SON PA' SIEMPRE",
+      "url": "https://open.spotify.com/track/5KKVP1q1EoI7qJ8FSgvVUH"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -141,6 +113,30 @@
       "url": "https://open.spotify.com/track/2H5lq3Gn1t7FBX5l4as2im"
     },
     {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Iluso (Remix)",
+        "url": "https://open.spotify.com/album/3Af8exgSAdtNoxxKRBxfBd"
+      },
+      "artists": [
+        {
+          "name": "At' Fat",
+          "url": "https://open.spotify.com/artist/455JBMYIT1lWf1Djj4rDc7"
+        },
+        {
+          "name": "Yemil",
+          "url": "https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4"
+        },
+        {
+          "name": "Akim",
+          "url": "https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3"
+        }
+      ],
+      "duration_ms": 181682,
+      "name": "Iluso - Remix",
+      "url": "https://open.spotify.com/track/1rNptUcqZ4gc6UCZsV8yjg"
+    },
+    {
       "added_at": "2024-04-19 04:01:00",
       "album": {
         "name": "Desbloquear",
@@ -177,24 +173,24 @@
       "url": "https://open.spotify.com/track/7yS5ru5Zte13ujlQZqVbtC"
     },
     {
-      "added_at": "2024-04-12 04:00:00",
+      "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "No Stop",
-        "url": "https://open.spotify.com/album/6cfd7u01OYTJEUc8L2wHEi"
+        "name": "Tu Mam\u00e1",
+        "url": "https://open.spotify.com/album/1cLj4b8lGAHT0lV5mnFL4L"
       },
       "artists": [
         {
-          "name": "Rik",
-          "url": "https://open.spotify.com/artist/3fx9NeQCytxm0fzefBOqlh"
+          "name": "Valentino GRM",
+          "url": "https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr"
         },
         {
-          "name": "Doris",
-          "url": "https://open.spotify.com/artist/4H0ICfwyopdGJyBZkegvDU"
+          "name": "LH",
+          "url": "https://open.spotify.com/artist/4ebruhG8pei8qFQOfNxxLs"
         }
       ],
-      "duration_ms": 152267,
-      "name": "Culpable",
-      "url": "https://open.spotify.com/track/0e2o9c76QyoqeQ1mEaVN4p"
+      "duration_ms": 170721,
+      "name": "Tu Mam\u00e1",
+      "url": "https://open.spotify.com/track/7z5u77KCHfrTQNcoCENDSY"
     },
     {
       "added_at": "2024-02-15 17:30:32",
@@ -255,6 +251,26 @@
       "duration_ms": 157050,
       "name": "Plastic Memories",
       "url": "https://open.spotify.com/track/1USXUU4YBdtc5SmmKhRbtq"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "TEQUILA",
+        "url": "https://open.spotify.com/album/1DFLCBwI8Ernjt7Bavda1G"
+      },
+      "artists": [
+        {
+          "name": "Farah",
+          "url": "https://open.spotify.com/artist/499MeLMskp0GHYO1587gZK"
+        },
+        {
+          "name": "Eiby",
+          "url": "https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn"
+        }
+      ],
+      "duration_ms": 238124,
+      "name": "TEQUILA",
+      "url": "https://open.spotify.com/track/3roLGTF3IEPSTjjhin0TxI"
     },
     {
       "added_at": "2024-04-19 04:01:00",
@@ -321,6 +337,22 @@
       "url": "https://open.spotify.com/track/4qGgvcNoSLt3Q0ap5wWIuu"
     },
     {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "AQUI Y ALLA",
+        "url": "https://open.spotify.com/album/05mI8xml5sXWN3fy7s0Zd1"
+      },
+      "artists": [
+        {
+          "name": "Nino Augustine",
+          "url": "https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "AQUI Y ALLA",
+      "url": "https://open.spotify.com/track/40G3xbxVu6qlJdCFIeEMgR"
+    },
+    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "La Ruta",
@@ -383,6 +415,22 @@
       "duration_ms": 176251,
       "name": "Carta a mi toxica",
       "url": "https://open.spotify.com/track/4WWFXMZhVHyzBEX5cqxrxb"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "CUPIDO TE FALL\u00d3",
+        "url": "https://open.spotify.com/album/66Z5K5wP441nduC79Ouqol"
+      },
+      "artists": [
+        {
+          "name": "Chicocurlyhead",
+          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
+        }
+      ],
+      "duration_ms": 139324,
+      "name": "CUPIDO TE FALL\u00d3",
+      "url": "https://open.spotify.com/track/3ZxeZpz8wMN3yUMDCLHtl5"
     },
     {
       "added_at": "2024-04-19 04:01:00",
@@ -495,46 +543,6 @@
       "duration_ms": 188040,
       "name": "TOP MODEL",
       "url": "https://open.spotify.com/track/3N7ylprsYVhBncJIZhKy1G"
-    },
-    {
-      "added_at": "2024-02-15 17:30:32",
-      "album": {
-        "name": "SIEMPRE SOY",
-        "url": "https://open.spotify.com/album/5CIOeHkXwUvIrdwFnlNtbl"
-      },
-      "artists": [
-        {
-          "name": "BCA",
-          "url": "https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf"
-        },
-        {
-          "name": "Valentino GRM",
-          "url": "https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr"
-        }
-      ],
-      "duration_ms": 162061,
-      "name": "SIEMPRE SOY",
-      "url": "https://open.spotify.com/track/6MHLXu4PLNqtEnJtYqpL81"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "SANANDO HERIDAS",
-        "url": "https://open.spotify.com/album/3qXcyGNzcG0orK6xDg3k4j"
-      },
-      "artists": [
-        {
-          "name": "T.O.T",
-          "url": "https://open.spotify.com/artist/0KEa1ChgXvRCPL9Jju7cbw"
-        },
-        {
-          "name": "JEYSON",
-          "url": "https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "SANANDO HERIDAS",
-      "url": "https://open.spotify.com/track/5UzF4eX6nHxBoMq7M1KHzx"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1115,30 +1123,6 @@
       "duration_ms": 342726,
       "name": "0 Amigos Falsos",
       "url": "https://open.spotify.com/track/6nkqEujDSjOMT53nuapSyA"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Redondo (Remix)",
-        "url": "https://open.spotify.com/album/3VAJx6mcgQT4oVX6Lcue1f"
-      },
-      "artists": [
-        {
-          "name": "Yemil",
-          "url": "https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4"
-        },
-        {
-          "name": "Joey Montana",
-          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
-        },
-        {
-          "name": "VLA Music Entertainment",
-          "url": "https://open.spotify.com/artist/2EghqGAqc6ZSjkgqzUOeKC"
-        }
-      ],
-      "duration_ms": 198181,
-      "name": "Redondo - Remix",
-      "url": "https://open.spotify.com/track/1fOJvtIEXsEXkqTuCFSeGz"
     },
     {
       "added_at": "2024-02-02 05:00:00",

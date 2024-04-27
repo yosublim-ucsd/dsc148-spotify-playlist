@@ -1,5 +1,5 @@
 {
-  "2024-04-26": 185407,
+  "2024-04-27": 185393,
   "date_first_scraped": "2022-01-02",
   "description": "Cl\u00e1sicos del folklore argentino de la mano de sus m\u00e1s grandes int\u00e9rpretes. Foto: Chaque\u00f1o Palavecino.",
   "name": "Folklore de Siempre",
@@ -522,6 +522,28 @@
     },
     {
       "album": {
+        "name": "Balderrama",
+        "url": "https://open.spotify.com/album/4SYoVh3GuXBVkvxkcYuinz"
+      },
+      "artists": [
+        {
+          "name": "Amanda Miguel",
+          "url": "https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN"
+        },
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250801,
+      "name": "Balderrama",
+      "url": "https://open.spotify.com/track/6OrNV36QIdZJDOSbV21fYC"
+    },
+    {
+      "album": {
         "name": "La Historia",
         "url": "https://open.spotify.com/album/00xeIIfZaedwrbPK61SuyI"
       },
@@ -813,7 +835,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 196413,
       "name": "Cantas T\u00fa, Canto Yo",
       "url": "https://open.spotify.com/track/5IJ9BpJg40GItALp4XY3HK"

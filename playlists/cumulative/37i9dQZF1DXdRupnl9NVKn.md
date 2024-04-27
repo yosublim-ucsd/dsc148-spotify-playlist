@@ -4,7 +4,7 @@
 
 > Neverland, your queens are here!
 
-128 songs - 6 hr 48 min
+129 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Fire \(With BRAND NEW CHILD, K L W C\)](https://open.spotify.com/track/5dv9gqcgEs1Yj36AJQ5NID) | [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [Street Dance Girls Fighter\(SGF\) Special](https://open.spotify.com/album/4azL8fNPVZ8tmKqPyK1583) | 3:12 | 2022-05-22 |  |
 | [Flip It](https://open.spotify.com/track/0W3ekPhkpDFjAym6E5RdPM) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [HEAT](https://open.spotify.com/album/20iyYKtw1KjMRsMZWMPpVY) | 2:56 | 2023-10-06 |  |
 | [For You](https://open.spotify.com/track/6bfmUjaeIiTjpOqHtFIiVf) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [LATATA](https://open.spotify.com/album/3DOoKGlWO9lNsKQAxa0DJ1) | 3:44 | 2022-05-22 |  |
+| [FREAK](https://open.spotify.com/track/6ERs9uORCo1MfV0m9ixCuv) | [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [YUQ1](https://open.spotify.com/album/7LYc8ngbhwha4aGJ5kVauc) | 2:51 | 2024-04-26 |  |
 | [Getaway](https://open.spotify.com/track/172SQ12T5WAyUPa4153LsX) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [My Dangerous Wife, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/7x1R29OcIJcyBbn1adBioq) | 3:48 | 2022-07-04 | 2023-12-17 |
 | [Getaway](https://open.spotify.com/track/41nBWFdECOtxYnygCpL6AH) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [My Dangerous Wife, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/7nwFxexvXGarWydafSsUrC) | 3:48 | 2023-10-06 | 2024-04-19 |
 | [Getaway](https://open.spotify.com/track/5pWd8NRoi9yY1K2Fz9nIVh) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [My Dangerous Wife Pt.2 \(Original Television Soundtrack\)](https://open.spotify.com/album/1165v6khbvLivXLeu5JaMT) | 3:48 | 2022-05-22 |  |

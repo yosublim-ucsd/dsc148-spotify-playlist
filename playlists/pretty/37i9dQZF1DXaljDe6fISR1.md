@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 
 > Ouça grandes MCs do hip hop nacional\. Foto: Racionais MC's
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,628 likes - 76 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,546 likes - 76 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 | 47 | [Invicto](https://open.spotify.com/track/4LMEQblquC72wJXvuQsX9F) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Revel](https://open.spotify.com/album/5hFdInpTsPMTbRwxXuB2j8) | 4:16 |
 | 48 | [Rap du Bom Parte II \- Mús\. Incid.: Odara](https://open.spotify.com/track/0EVhSaqb9Ig1XOvvkp48F1) | [Rappin' Hood](https://open.spotify.com/artist/7cLvBjizqjjdC350aOQ2KW), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Sujeito Homem 2](https://open.spotify.com/album/2fEyaMZVUrQqlEHtvV8SJD) | 7:15 |
 | 49 | [O Soldado Que Fica](https://open.spotify.com/track/0pn6i2lgX9snct72QlcUuB) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ), [Kmila Cdd](https://open.spotify.com/artist/5pTtdzoyljdOQnTLVULZvv), [Maira Freitas](https://open.spotify.com/artist/4de0UvPPD98qUiXstPUGzF) | [Essencial](https://open.spotify.com/album/1uNvA7eJynl56pneh1xryl) | 6:02 |
-| 50 | [O Trem](https://open.spotify.com/track/4FpVLn9ne4NDGo83yRTAIi) | [RZO](https://open.spotify.com/artist/1CQJtHMGhqvrSZiRTjSeOU) | [RZO](https://open.spotify.com/album/0z0tSJkDzOzb7ljZPHsDgn) | 5:12 |
+| 50 | [O Trem](https://open.spotify.com/track/4FpVLn9ne4NDGo83yRTAIi) | [RZO](https://open.spotify.com/artist/1CQJtHMGhqvrSZiRTjSeOU), [Sandrão RZO](https://open.spotify.com/artist/0amwdzsF8JXZjz31pZjH0w) | [RZO](https://open.spotify.com/album/0z0tSJkDzOzb7ljZPHsDgn) | 5:12 |
 | 51 | [Preta de Quebrada](https://open.spotify.com/track/41Cei0m4xfEJ9r6RAn8VoG) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [Preta de Quebrada](https://open.spotify.com/album/78wPZArMRQz1tOHy7qgs5H) | 3:26 |
 | 52 | [Enxugando Gelo](https://open.spotify.com/track/6ZG8oZnnsfc8CCOmSjimoG) | [BNegão & Seletores de Frequencia](https://open.spotify.com/artist/1cpyFBSbDQgC05pKUhzNyt) | [Enxugando Gelo](https://open.spotify.com/album/18BvZYGljOGmWEZonuGLvI) | 3:11 |
 | 53 | [Raplord](https://open.spotify.com/track/3YSagrvQP9x32rAjEI48PL) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Jonas Bento](https://open.spotify.com/artist/48Oxa6B9euthfl9VTQsArN) | [Teto Baixo](https://open.spotify.com/album/2sYBOWYCJlcYoFpbpXnr5Q) | 4:23 |

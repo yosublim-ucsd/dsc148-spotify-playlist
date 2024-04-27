@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-1,347 songs - 3 day 12 hr 24 min
+1,348 songs - 3 day 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,7 +392,7 @@
 | [Let me battle](https://open.spotify.com/track/0DQuB9Yygeh2yvQ03B8hUX) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ), [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [TeddyLoid](https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I) | [Let me battle](https://open.spotify.com/album/29UcJWKi5DuqL4bxBfhpCz) | 3:00 | 2024-04-18 |  |
 | [Let you know!](https://open.spotify.com/track/2w0mPCDZU5jeJlabMQt0ib) | [i☆Ris](https://open.spotify.com/artist/5AT0jKTq4D7IVlXsDscmQ1) | [Let you know!](https://open.spotify.com/album/2sb3UXzY4MzoFYeRX42b86) | 2:36 | 2023-08-15 | 2023-10-04 |
 | [Let's Duel!](https://open.spotify.com/track/00MUH3qFCQIFNQJUFYu7Ob) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Let's Duel!](https://open.spotify.com/album/6txzMT38qY2LA7d4rnKQgk) | 3:21 | 2024-04-04 | 2024-04-17 |
-| [LEveL](https://open.spotify.com/track/0Zp9WOkXX8xZS8QOhtdQ5k) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [LEveL](https://open.spotify.com/album/5ZEZ8rAsHVUoPqA5a5ZZcL) | 3:00 | 2024-01-06 |  |
+| [LEveL](https://open.spotify.com/track/0Zp9WOkXX8xZS8QOhtdQ5k) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [LEveL](https://open.spotify.com/album/5ZEZ8rAsHVUoPqA5a5ZZcL) | 3:00 | 2024-01-06 | 2024-04-27 |
 | [LIES GOES ON \- TVsize](https://open.spotify.com/track/5UB5NtHsXFA4DK7gqOsIra) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6) | [LIES GOES ON \(TVsize\)](https://open.spotify.com/album/3hwjiYR55oCUeQZRmw0OG7) | 1:29 | 2023-07-11 | 2023-10-04 |
 | [Lilac Melody](https://open.spotify.com/track/527mtmddRtbAguiGUhOgrh) | [鈴木愛奈](https://open.spotify.com/artist/5h7WdhT6aUg1SMMklKJHHV) | [Lilac Melody](https://open.spotify.com/album/1q1pLsLvofX0HDjn21HWbm) | 4:23 | 2023-10-10 | 2023-10-18 |
 | [Limitless](https://open.spotify.com/track/3nOhOCmYzbMtLENk6nlCfk) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Limitless](https://open.spotify.com/album/5alpwrzbhKCLaRLX49B6pT) | 3:24 | 2023-03-21 | 2023-04-12 |
@@ -801,6 +801,7 @@
 | [あいむいんらぶ](https://open.spotify.com/track/2i3ihydtP73D243Blgkrm8) | [Hack'nBerry](https://open.spotify.com/artist/1wiMSmZSzfDSdnMY60exZZ), [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [あいむいんらぶ](https://open.spotify.com/album/0JU9Yrn0S7YSuu4q3AxFQs) | 4:27 | 2022-07-05 | 2022-08-05 |
 | [あかね組活動日誌 \~戌班\~](https://open.spotify.com/track/3Qa8YxZnfvB5fOAXeMxRsH) | [ツバキ\(CV.夏吉ゆうこ\)](https://open.spotify.com/artist/7tOxPicOurwzotqSOOyJ3e), [サザンカ\(CV.根本京里\)](https://open.spotify.com/artist/05ofTrdMQI3YIRgSMRTcYR), [アサガオ\(CV.鈴代紗弓\)](https://open.spotify.com/artist/4fs0KnSXQVtyQI9Wk8CNLp) | [くノ一ツバキの胸の内 あかね組音楽集](https://open.spotify.com/album/5CqMoquYlIMeLagF72UxLW) | 1:31 | 2023-01-19 | 2023-01-25 |
 | [あてもなく](https://open.spotify.com/track/0xO5jkEJFwOJubHFVPJZCQ) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [あてもなく](https://open.spotify.com/album/4bCJ9NCd5jxC0udzWCQCAG) | 3:54 | 2023-04-20 | 2023-07-12 |
+| [ある呪文](https://open.spotify.com/track/2V7O1PRmvosh5diyVXeYBY) | [織重 夕](https://open.spotify.com/artist/0KvyTAf3LiFMWOxA4FctDD), [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [ある呪文](https://open.spotify.com/album/4r9Z5Eo8bSezHxSDFzfJhJ) | 3:09 | 2024-04-26 |  |
 | [あれこれドラスティック](https://open.spotify.com/track/3U25NvHuSKwNATFwDbkR4R) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2), [鈴木愛奈](https://open.spotify.com/artist/5h7WdhT6aUg1SMMklKJHHV) | [あれこれドラスティック](https://open.spotify.com/album/0ZNKgst0nutjnhEBAwnYvk) | 3:45 | 2022-07-05 | 2022-08-17 |
 | [あーーっす！](https://open.spotify.com/track/3rki2mgXaUSL8av1syOWTB) | [Hiroshi Kitadani](https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop) | [あーーっす！](https://open.spotify.com/album/1Sv4GsJ3FXqyCXKgPXaVM1) | 3:17 | 2024-01-07 | 2024-04-11 |
 | [あーーっす！](https://open.spotify.com/track/2SoYeeAnVkdVMiz4ejCoS3) | [Hiroshi Kitadani](https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop) | [あーーっす！](https://open.spotify.com/album/1gb0w4HxHKY9iHQ4JmuiUg) | 3:18 | 2024-04-10 |  |

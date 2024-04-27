@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Slovakia.",
-  "num_followers": 4593,
+  "num_followers": 4595,
   "original_name": "Viral 50 - Slovakia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzY3NDA5NjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzY3NDk2MDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2024-04-25 15:55:49",
+      "added_at": "2024-04-26 16:15:52",
       "album": {
         "name": "Pedro",
         "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
     },
     {
-      "added_at": "2024-04-25 15:55:49",
+      "added_at": "2024-04-26 16:15:52",
       "album": {
         "name": "Gata Only",
         "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
@@ -53,7 +53,7 @@
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
     },
     {
-      "added_at": "2024-04-25 15:55:49",
+      "added_at": "2024-04-26 16:15:52",
       "album": {
         "name": "Fall Back / Selfish Game",
         "url": "https://open.spotify.com/album/2GHbc54y99znaPCsyzvLjR"
@@ -69,7 +69,7 @@
       "url": "https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi"
     },
     {
-      "added_at": "2024-04-25 15:55:49",
+      "added_at": "2024-04-26 16:15:52",
       "album": {
         "name": "i like the way you kiss me",
         "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
@@ -85,39 +85,7 @@
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
     },
     {
-      "added_at": "2024-04-25 15:55:49",
-      "album": {
-        "name": "Good Luck, Babe!",
-        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 218423,
-      "name": "Good Luck, Babe!",
-      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
-    },
-    {
-      "added_at": "2024-04-25 15:55:49",
-      "album": {
-        "name": "Karma",
-        "url": "https://open.spotify.com/album/0XSC4BVMGrT5ewWnpIcwak"
-      },
-      "artists": [
-        {
-          "name": "JoJo Siwa",
-          "url": "https://open.spotify.com/artist/2ai8yQyHp5UEjSS5v9g5fP"
-        }
-      ],
-      "duration_ms": 187711,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/2uqxsofWmgRT0ekghgy3ln"
-    },
-    {
-      "added_at": "2024-04-25 15:55:49",
+      "added_at": "2024-04-26 16:15:52",
       "album": {
         "name": "Zungenbrecher 4.0 - Staffel 4",
         "url": "https://open.spotify.com/album/2AKVV2Rx3cmIZuUkND2NkC"
@@ -137,7 +105,7 @@
       "url": "https://open.spotify.com/track/7ki0Q2nYTBhVxZvqLLDp5W"
     },
     {
-      "added_at": "2024-04-25 15:55:49",
+      "added_at": "2024-04-26 16:15:52",
       "album": {
         "name": "Mi spendo tutto",
         "url": "https://open.spotify.com/album/07YwhHKHa6yKzAGPajfes5"
@@ -153,39 +121,39 @@
       "url": "https://open.spotify.com/track/7AEfPUY8gHoEzQja4OOO49"
     },
     {
-      "added_at": "2024-04-25 15:55:49",
+      "added_at": "2024-04-26 16:15:52",
       "album": {
-        "name": "Tell Ur Girlfriend",
-        "url": "https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT"
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
       },
       "artists": [
         {
-          "name": "Lay Bankz",
-          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 124444,
-      "name": "Tell Ur Girlfriend",
-      "url": "https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B"
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
-      "added_at": "2024-04-25 15:55:49",
+      "added_at": "2024-04-26 16:15:52",
       "album": {
-        "name": "never was much of a poet",
-        "url": "https://open.spotify.com/album/2EjHr19a9VGJpaG66qubvX"
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/0XSC4BVMGrT5ewWnpIcwak"
       },
       "artists": [
         {
-          "name": "marek",
-          "url": "https://open.spotify.com/artist/64ZDr2Bv08SKkLMkImHNIu"
+          "name": "JoJo Siwa",
+          "url": "https://open.spotify.com/artist/2ai8yQyHp5UEjSS5v9g5fP"
         }
       ],
-      "duration_ms": 153833,
-      "name": "vietor",
-      "url": "https://open.spotify.com/track/6fYhVvZTKt35QHSKUadh1H"
+      "duration_ms": 187711,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/2uqxsofWmgRT0ekghgy3ln"
     },
     {
-      "added_at": "2024-04-25 15:55:49",
+      "added_at": "2024-04-26 16:15:52",
       "album": {
         "name": "BENIHANA",
         "url": "https://open.spotify.com/album/6FdSt0d8iox3MJ8LZR875u"
@@ -209,39 +177,39 @@
       "url": "https://open.spotify.com/track/18ilJfI0M9nkz2O3EnT9cS"
     },
     {
-      "added_at": "2024-04-25 15:55:49",
+      "added_at": "2024-04-26 16:15:52",
       "album": {
-        "name": "Us Vs. Them",
-        "url": "https://open.spotify.com/album/6G7r3vu2Snjn8Ese1uwNZp"
+        "name": "Tell Ur Girlfriend",
+        "url": "https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT"
       },
       "artists": [
         {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
         }
       ],
-      "duration_ms": 184633,
-      "name": "Us Vs. Them",
-      "url": "https://open.spotify.com/track/3cmdqMDc0Fj4TgPeyDOYTM"
+      "duration_ms": 124444,
+      "name": "Tell Ur Girlfriend",
+      "url": "https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B"
     },
     {
-      "added_at": "2024-04-25 15:55:49",
+      "added_at": "2024-04-26 16:15:52",
       "album": {
-        "name": "SUPER REAL ME",
-        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
+        "name": "never was much of a poet",
+        "url": "https://open.spotify.com/album/2EjHr19a9VGJpaG66qubvX"
       },
       "artists": [
         {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+          "name": "marek",
+          "url": "https://open.spotify.com/artist/64ZDr2Bv08SKkLMkImHNIu"
         }
       ],
-      "duration_ms": 160688,
-      "name": "Magnetic",
-      "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
+      "duration_ms": 153833,
+      "name": "vietor",
+      "url": "https://open.spotify.com/track/6fYhVvZTKt35QHSKUadh1H"
     },
     {
-      "added_at": "2024-04-25 15:55:49",
+      "added_at": "2024-04-26 16:15:52",
       "album": {
         "name": "WE DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
@@ -269,7 +237,39 @@
       "url": "https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C"
     },
     {
-      "added_at": "2024-04-25 15:55:49",
+      "added_at": "2024-04-26 16:15:52",
+      "album": {
+        "name": "SUPER REAL ME",
+        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 160688,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
+    },
+    {
+      "added_at": "2024-04-26 16:15:52",
+      "album": {
+        "name": "Us Vs. Them",
+        "url": "https://open.spotify.com/album/6G7r3vu2Snjn8Ese1uwNZp"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 184633,
+      "name": "Us Vs. Them",
+      "url": "https://open.spotify.com/track/3cmdqMDc0Fj4TgPeyDOYTM"
+    },
+    {
+      "added_at": "2024-04-26 16:15:52",
       "album": {
         "name": "Unreal Unearth: Unheard",
         "url": "https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk"
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
     },
     {
-      "added_at": "2024-04-25 15:55:49",
+      "added_at": "2024-04-26 16:15:52",
       "album": {
         "name": "Sm\u011bj se te\u010f",
         "url": "https://open.spotify.com/album/6bdzA456CycgXZowM9rIhC"
@@ -301,7 +301,7 @@
       "url": "https://open.spotify.com/track/6jRFRjOhfwoZTfnEo6gr6g"
     },
     {
-      "added_at": "2024-04-25 15:55:49",
+      "added_at": "2024-04-26 16:15:52",
       "album": {
         "name": "Belong Together",
         "url": "https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o"
@@ -317,39 +317,7 @@
       "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
     },
     {
-      "added_at": "2024-04-25 15:55:49",
-      "album": {
-        "name": "Keby bola Boy",
-        "url": "https://open.spotify.com/album/4P4fHmud4VL3KfAQqgczS8"
-      },
-      "artists": [
-        {
-          "name": "TERA",
-          "url": "https://open.spotify.com/artist/6i81Cb6goDI8I6xo2VCYIP"
-        }
-      ],
-      "duration_ms": 146264,
-      "name": "Keby bola Boy",
-      "url": "https://open.spotify.com/track/4q1gR3zxKeVOMtSyYpXaug"
-    },
-    {
-      "added_at": "2024-04-25 15:55:49",
-      "album": {
-        "name": "Belong Together (Sped Up)",
-        "url": "https://open.spotify.com/album/63lyyB4lBh74i32hvTSwWr"
-      },
-      "artists": [
-        {
-          "name": "Lucky Socks",
-          "url": "https://open.spotify.com/artist/6xzw5aUZjoW4siq4PDB1QC"
-        }
-      ],
-      "duration_ms": 128431,
-      "name": "Belong Together (Sped Up)",
-      "url": "https://open.spotify.com/track/0XguQR7pMvTG1C6UlMPYN4"
-    },
-    {
-      "added_at": "2024-04-25 15:55:49",
+      "added_at": "2024-04-26 16:15:52",
       "album": {
         "name": "Ghettoven",
         "url": "https://open.spotify.com/album/76p8jbvBw9eCWjMV7J8gcQ"
@@ -369,7 +337,39 @@
       "url": "https://open.spotify.com/track/2drhdWGgjhRNhW7mBzjHOt"
     },
     {
-      "added_at": "2024-04-25 15:55:49",
+      "added_at": "2024-04-26 16:15:52",
+      "album": {
+        "name": "Keby bola Boy",
+        "url": "https://open.spotify.com/album/4P4fHmud4VL3KfAQqgczS8"
+      },
+      "artists": [
+        {
+          "name": "TERA",
+          "url": "https://open.spotify.com/artist/6i81Cb6goDI8I6xo2VCYIP"
+        }
+      ],
+      "duration_ms": 146264,
+      "name": "Keby bola Boy",
+      "url": "https://open.spotify.com/track/4q1gR3zxKeVOMtSyYpXaug"
+    },
+    {
+      "added_at": "2024-04-26 16:15:52",
+      "album": {
+        "name": "2093",
+        "url": "https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "If We Being R\u00ebal",
+      "url": "https://open.spotify.com/track/0YThXX1dqUpYBLyJNAsF9N"
+    },
+    {
+      "added_at": "2024-04-26 16:15:52",
       "album": {
         "name": "These Words",
         "url": "https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq"
@@ -389,23 +389,23 @@
       "url": "https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz"
     },
     {
-      "added_at": "2024-04-25 15:55:49",
+      "added_at": "2024-04-26 16:15:52",
       "album": {
-        "name": "2093",
-        "url": "https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L"
+        "name": "Belong Together (Sped Up)",
+        "url": "https://open.spotify.com/album/63lyyB4lBh74i32hvTSwWr"
       },
       "artists": [
         {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+          "name": "Lucky Socks",
+          "url": "https://open.spotify.com/artist/6xzw5aUZjoW4siq4PDB1QC"
         }
       ],
-      "duration_ms": 172500,
-      "name": "If We Being R\u00ebal",
-      "url": "https://open.spotify.com/track/0YThXX1dqUpYBLyJNAsF9N"
+      "duration_ms": 128431,
+      "name": "Belong Together (Sped Up)",
+      "url": "https://open.spotify.com/track/0XguQR7pMvTG1C6UlMPYN4"
     },
     {
-      "added_at": "2024-04-25 15:55:49",
+      "added_at": "2024-04-26 16:15:52",
       "album": {
         "name": "The Sound of Silence (CYRIL Remix)",
         "url": "https://open.spotify.com/album/4AaJMesGEVwF7QpWMSG29p"
@@ -425,7 +425,7 @@
       "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"
     },
     {
-      "added_at": "2024-04-25 15:55:49",
+      "added_at": "2024-04-26 16:15:52",
       "album": {
         "name": "Dokola",
         "url": "https://open.spotify.com/album/4eEm7Kmh5UvYBydvZrlXUW"
@@ -441,7 +441,7 @@
       "url": "https://open.spotify.com/track/5Up5SvpQRma9AbVBYiW2PI"
     },
     {
-      "added_at": "2024-04-25 15:55:49",
+      "added_at": "2024-04-26 16:15:52",
       "album": {
         "name": "\u041f\u0435\u0440\u0432\u044b\u0439 \u043c\u0430\u0433\u043d\u0438\u0442\u043e\u0430\u043b\u044c\u0431\u043e\u043c (\u0417\u043e\u043b\u043e\u0442\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435)",
         "url": "https://open.spotify.com/album/5TOce09CCAufG4PVDnp0p2"
@@ -457,7 +457,7 @@
       "url": "https://open.spotify.com/track/0AGIa65CY8isE8PilL3H4T"
     },
     {
-      "added_at": "2024-04-25 15:55:49",
+      "added_at": "2024-04-26 16:15:52",
       "album": {
         "name": "Bread",
         "url": "https://open.spotify.com/album/6eJJ1rjVZ3o6HoMBCMxkZV"
@@ -473,7 +473,7 @@
       "url": "https://open.spotify.com/track/4Qq66rN8HWHk7NGPYfNvun"
     },
     {
-      "added_at": "2024-04-25 15:55:49",
+      "added_at": "2024-04-26 16:15:52",
       "album": {
         "name": "DOVIDENIA",
         "url": "https://open.spotify.com/album/0sK3pRfVuBewYVuOqKwiYP"
@@ -493,23 +493,7 @@
       "url": "https://open.spotify.com/track/3BQqSkF8Raj9lEzJdscmmu"
     },
     {
-      "added_at": "2024-04-25 15:55:49",
-      "album": {
-        "name": "Vent",
-        "url": "https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU"
-      },
-      "artists": [
-        {
-          "name": "NOIT",
-          "url": "https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC"
-        }
-      ],
-      "duration_ms": 176898,
-      "name": "Vent",
-      "url": "https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds"
-    },
-    {
-      "added_at": "2024-04-25 15:55:49",
+      "added_at": "2024-04-26 16:15:52",
       "album": {
         "name": "LET THE WORLD BURN",
         "url": "https://open.spotify.com/album/5QytORVSwlSBhDtikzvcV5"
@@ -525,23 +509,23 @@
       "url": "https://open.spotify.com/track/1De425SCFJULIHbcmeebUw"
     },
     {
-      "added_at": "2024-04-25 15:55:49",
+      "added_at": "2024-04-26 16:15:52",
       "album": {
-        "name": "favorite",
-        "url": "https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7"
+        "name": "Vent",
+        "url": "https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU"
       },
       "artists": [
         {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+          "name": "NOIT",
+          "url": "https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC"
         }
       ],
-      "duration_ms": 133608,
-      "name": "favorite",
-      "url": "https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be"
+      "duration_ms": 176898,
+      "name": "Vent",
+      "url": "https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds"
     },
     {
-      "added_at": "2024-04-25 15:55:49",
+      "added_at": "2024-04-26 16:15:52",
       "album": {
         "name": "SLAY!",
         "url": "https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx"
@@ -557,23 +541,23 @@
       "url": "https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO"
     },
     {
-      "added_at": "2024-04-25 15:55:49",
+      "added_at": "2024-04-26 16:15:52",
       "album": {
-        "name": "Hodin\u00e1r",
-        "url": "https://open.spotify.com/album/1EPgyoLIgPrb19GOVBT6gg"
+        "name": "favorite",
+        "url": "https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7"
       },
       "artists": [
         {
-          "name": "Unknown Consciousness",
-          "url": "https://open.spotify.com/artist/2ddMQoCwebaYynvO9a3GDd"
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
         }
       ],
-      "duration_ms": 113777,
-      "name": "Hodin\u00e1r",
-      "url": "https://open.spotify.com/track/0rGQD0V0a7594LkOn0X0WD"
+      "duration_ms": 133608,
+      "name": "favorite",
+      "url": "https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be"
     },
     {
-      "added_at": "2024-04-25 15:55:49",
+      "added_at": "2024-04-26 16:15:52",
       "album": {
         "name": "MASHA ULTRAFUNK",
         "url": "https://open.spotify.com/album/43DSGSYCywacjEkdeSv4DC"
@@ -593,7 +577,87 @@
       "url": "https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW"
     },
     {
-      "added_at": "2024-04-25 15:55:49",
+      "added_at": "2024-04-26 16:15:52",
+      "album": {
+        "name": "Zfetovanej Superman",
+        "url": "https://open.spotify.com/album/4fORL98XngTce19k4sCHBK"
+      },
+      "artists": [
+        {
+          "name": "Gragys Jungle",
+          "url": "https://open.spotify.com/artist/0g4uzvVP0P4vo00CXAmV2r"
+        }
+      ],
+      "duration_ms": 173074,
+      "name": "Zfetovanej Superman",
+      "url": "https://open.spotify.com/track/7HO1xEjzg2b1bGZ4MfiuOh"
+    },
+    {
+      "added_at": "2024-04-26 16:15:52",
+      "album": {
+        "name": "MMA (Gipsy Remix)",
+        "url": "https://open.spotify.com/album/1pug5LHH9DvnMMAqEchZgm"
+      },
+      "artists": [
+        {
+          "name": "Radek Mal\u00e1r",
+          "url": "https://open.spotify.com/artist/07UPRJF1LzmNwCtEx9wrh6"
+        }
+      ],
+      "duration_ms": 172041,
+      "name": "MMA - Gipsy Remix",
+      "url": "https://open.spotify.com/track/3uIxUV37NSTY8sWyBQyjuz"
+    },
+    {
+      "added_at": "2024-04-26 16:15:52",
+      "album": {
+        "name": "EYES ON ME",
+        "url": "https://open.spotify.com/album/4wnuFlOfdXNSEsHt7V65wq"
+      },
+      "artists": [
+        {
+          "name": "asteria",
+          "url": "https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9"
+        }
+      ],
+      "duration_ms": 116643,
+      "name": "EYES ON ME",
+      "url": "https://open.spotify.com/track/4keoRXcdwFkP8OzuJQ3ScK"
+    },
+    {
+      "added_at": "2024-04-26 16:15:52",
+      "album": {
+        "name": "Hodin\u00e1r",
+        "url": "https://open.spotify.com/album/1EPgyoLIgPrb19GOVBT6gg"
+      },
+      "artists": [
+        {
+          "name": "Unknown Consciousness",
+          "url": "https://open.spotify.com/artist/2ddMQoCwebaYynvO9a3GDd"
+        }
+      ],
+      "duration_ms": 113777,
+      "name": "Hodin\u00e1r",
+      "url": "https://open.spotify.com/track/0rGQD0V0a7594LkOn0X0WD"
+    },
+    {
+      "added_at": "2024-04-26 16:15:52",
+      "album": {
+        "name": "SKEETER",
+        "url": "https://open.spotify.com/album/67cert3BRIaXt0PgGV9VmC"
+      },
+      "artists": [
+        {
+          "name": "Marko Damian",
+          "url": "https://open.spotify.com/artist/7AqU9NR1gQwKApJyxxTC0z"
+        }
+      ],
+      "duration_ms": 160546,
+      "name": "Badass!",
+      "url": "https://open.spotify.com/track/6L1yx4dM2VrAMWJaUm9R7Q"
+    },
+    {
+      "added_at": "2024-04-26 16:15:52",
       "album": {
         "name": "TRAPOHORY",
         "url": "https://open.spotify.com/album/7oIqMuuJFVGu4jilHgPMFE"
@@ -613,39 +677,7 @@
       "url": "https://open.spotify.com/track/3CeJNoEsQZHkDHQe2ZiIct"
     },
     {
-      "added_at": "2024-04-25 15:55:49",
-      "album": {
-        "name": "EYES ON ME",
-        "url": "https://open.spotify.com/album/4wnuFlOfdXNSEsHt7V65wq"
-      },
-      "artists": [
-        {
-          "name": "asteria",
-          "url": "https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9"
-        }
-      ],
-      "duration_ms": 116643,
-      "name": "EYES ON ME",
-      "url": "https://open.spotify.com/track/4keoRXcdwFkP8OzuJQ3ScK"
-    },
-    {
-      "added_at": "2024-04-25 15:55:49",
-      "album": {
-        "name": "MMA (Gipsy Remix)",
-        "url": "https://open.spotify.com/album/1pug5LHH9DvnMMAqEchZgm"
-      },
-      "artists": [
-        {
-          "name": "Radek Mal\u00e1r",
-          "url": "https://open.spotify.com/artist/07UPRJF1LzmNwCtEx9wrh6"
-        }
-      ],
-      "duration_ms": 172041,
-      "name": "MMA - Gipsy Remix",
-      "url": "https://open.spotify.com/track/3uIxUV37NSTY8sWyBQyjuz"
-    },
-    {
-      "added_at": "2024-04-25 15:55:49",
+      "added_at": "2024-04-26 16:15:52",
       "album": {
         "name": "BABYMONS7ER",
         "url": "https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4"
@@ -661,79 +693,43 @@
       "url": "https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR"
     },
     {
-      "added_at": "2024-04-25 15:55:49",
+      "added_at": "2024-04-26 16:15:52",
       "album": {
-        "name": "Zfetovanej Superman",
-        "url": "https://open.spotify.com/album/4fORL98XngTce19k4sCHBK"
+        "name": "Tvoje ru\u017ee",
+        "url": "https://open.spotify.com/album/6HVBYrSbqoxqqdKa6mJ3HD"
       },
       "artists": [
         {
-          "name": "Gragys Jungle",
-          "url": "https://open.spotify.com/artist/0g4uzvVP0P4vo00CXAmV2r"
+          "name": "Sima",
+          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
         }
       ],
-      "duration_ms": 173074,
-      "name": "Zfetovanej Superman",
-      "url": "https://open.spotify.com/track/7HO1xEjzg2b1bGZ4MfiuOh"
+      "duration_ms": 167154,
+      "name": "Tvoje ru\u017ee",
+      "url": "https://open.spotify.com/track/5H11d1uZ08z5gEb7xMPnUq"
     },
     {
-      "added_at": "2024-04-25 15:55:49",
+      "added_at": "2024-04-26 16:15:52",
       "album": {
-        "name": "SKEETER",
-        "url": "https://open.spotify.com/album/67cert3BRIaXt0PgGV9VmC"
+        "name": "We Fell Apart",
+        "url": "https://open.spotify.com/album/3JyuOXGEoGuRSgJDDxwOCO"
       },
       "artists": [
         {
-          "name": "Marko Damian",
-          "url": "https://open.spotify.com/artist/7AqU9NR1gQwKApJyxxTC0z"
-        }
-      ],
-      "duration_ms": 160546,
-      "name": "Badass!",
-      "url": "https://open.spotify.com/track/6L1yx4dM2VrAMWJaUm9R7Q"
-    },
-    {
-      "added_at": "2024-04-25 15:55:49",
-      "album": {
-        "name": "MY PROBLEM$ ARE OVERLOOKED",
-        "url": "https://open.spotify.com/album/1dNY01CcbMguW16m0lSfi7"
-      },
-      "artists": [
-        {
-          "name": "Atheo",
-          "url": "https://open.spotify.com/artist/4JKX7cp3FU1qrpPCpjQMeD"
+          "name": "overrated",
+          "url": "https://open.spotify.com/artist/5eZ9mxslGvxjRBTWbRfMfV"
         },
         {
-          "name": "LUJA",
-          "url": "https://open.spotify.com/artist/4uVJQ3ehmUtJvjixgCZB3l"
+          "name": "Akucum",
+          "url": "https://open.spotify.com/artist/4iNoUF5jEZLr28VHuxHN9y"
         }
       ],
-      "duration_ms": 181090,
-      "name": "MY PROBLEM$ ARE OVERLOOKED",
-      "url": "https://open.spotify.com/track/5gPfu9yGjK4fdw22aJaNSr"
+      "duration_ms": 155480,
+      "name": "We Fell Apart - Slowed",
+      "url": "https://open.spotify.com/track/4oExAGoqR0JWK628dYaQ2f"
     },
     {
-      "added_at": "2024-04-25 15:55:49",
-      "album": {
-        "name": "TEETH (feat. Diggy Graves)",
-        "url": "https://open.spotify.com/album/3kyhds57Cj6kSPZhqJ1w4I"
-      },
-      "artists": [
-        {
-          "name": "WesGhost",
-          "url": "https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ"
-        },
-        {
-          "name": "Diggy Graves",
-          "url": "https://open.spotify.com/artist/1TpOqFPZPxxeuLHL3oSl2t"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "TEETH (feat. Diggy Graves)",
-      "url": "https://open.spotify.com/track/1IsOdvUcz8eoN1qgoNP1sC"
-    },
-    {
-      "added_at": "2024-04-25 15:55:49",
+      "added_at": "2024-04-26 16:15:52",
       "album": {
         "name": "TRAPOHORY",
         "url": "https://open.spotify.com/album/7oIqMuuJFVGu4jilHgPMFE"
@@ -757,7 +753,23 @@
       "url": "https://open.spotify.com/track/1hgJSjONYG7dRb4yDrTBZe"
     },
     {
-      "added_at": "2024-04-25 15:55:49",
+      "added_at": "2024-04-26 16:15:52",
+      "album": {
+        "name": "FUNK ESTRANHO (SUPER SLOWED)",
+        "url": "https://open.spotify.com/album/1YA8chKVwhMDLrCkDkJYq6"
+      },
+      "artists": [
+        {
+          "name": "ALXIKE",
+          "url": "https://open.spotify.com/artist/4SbtvEgtu7QsmFjjBzyV8F"
+        }
+      ],
+      "duration_ms": 150009,
+      "name": "FUNK ESTRANHO - SUPER SLOWED",
+      "url": "https://open.spotify.com/track/3pYW5o6hnnlKILYMpi3tx8"
+    },
+    {
+      "added_at": "2024-04-26 16:15:52",
       "album": {
         "name": "DECIDE",
         "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
@@ -773,59 +785,39 @@
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
-      "added_at": "2024-04-25 15:55:49",
+      "added_at": "2024-04-26 16:15:52",
       "album": {
-        "name": "We Fell Apart",
-        "url": "https://open.spotify.com/album/3JyuOXGEoGuRSgJDDxwOCO"
+        "name": "Get It Sexyy",
+        "url": "https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw"
       },
       "artists": [
         {
-          "name": "overrated",
-          "url": "https://open.spotify.com/artist/5eZ9mxslGvxjRBTWbRfMfV"
-        },
-        {
-          "name": "Akucum",
-          "url": "https://open.spotify.com/artist/4iNoUF5jEZLr28VHuxHN9y"
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 155480,
-      "name": "We Fell Apart - Slowed",
-      "url": "https://open.spotify.com/track/4oExAGoqR0JWK628dYaQ2f"
+      "duration_ms": 148551,
+      "name": "Get It Sexyy",
+      "url": "https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS"
     },
     {
-      "added_at": "2024-04-25 15:55:49",
+      "added_at": "2024-04-26 16:15:52",
       "album": {
-        "name": "Tvoje ru\u017ee",
-        "url": "https://open.spotify.com/album/6HVBYrSbqoxqqdKa6mJ3HD"
+        "name": "Internet Famous",
+        "url": "https://open.spotify.com/album/2yEBsWRowuo5FRa0Q4b5D6"
       },
       "artists": [
         {
-          "name": "Sima",
-          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
         }
       ],
-      "duration_ms": 167154,
-      "name": "Tvoje ru\u017ee",
-      "url": "https://open.spotify.com/track/5H11d1uZ08z5gEb7xMPnUq"
+      "duration_ms": 123428,
+      "name": "Faster n Harder",
+      "url": "https://open.spotify.com/track/499mGaGmtP9U1MPGVeUOIV"
     },
     {
-      "added_at": "2024-04-25 15:55:49",
-      "album": {
-        "name": "FUNK ESTRANHO (SUPER SLOWED)",
-        "url": "https://open.spotify.com/album/4HGgwnwMRjk8UWhZzArLWI"
-      },
-      "artists": [
-        {
-          "name": "ALXIKE",
-          "url": "https://open.spotify.com/artist/4SbtvEgtu7QsmFjjBzyV8F"
-        }
-      ],
-      "duration_ms": 150048,
-      "name": "FUNK ESTRANHO - SUPER SLOWED",
-      "url": "https://open.spotify.com/track/5GavF2uzSlLYj7zYMnBvpm"
-    },
-    {
-      "added_at": "2024-04-25 15:55:49",
+      "added_at": "2024-04-26 16:15:52",
       "album": {
         "name": "WE DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
@@ -849,56 +841,60 @@
       "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
     },
     {
-      "added_at": "2024-04-25 15:55:49",
+      "added_at": "2024-04-26 16:15:52",
       "album": {
-        "name": "Internet Famous",
-        "url": "https://open.spotify.com/album/2yEBsWRowuo5FRa0Q4b5D6"
+        "name": "D\u016fv\u011brn\u011b Zn\u00e1m\u00fd",
+        "url": "https://open.spotify.com/album/5q89XBmmA7KBjIxxaWkCV4"
       },
       "artists": [
         {
-          "name": "6arelyhuman",
-          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
-        }
-      ],
-      "duration_ms": 123428,
-      "name": "Faster n Harder",
-      "url": "https://open.spotify.com/track/499mGaGmtP9U1MPGVeUOIV"
-    },
-    {
-      "added_at": "2024-04-25 15:55:49",
-      "album": {
-        "name": "Pachamama",
-        "url": "https://open.spotify.com/album/4pyp9BJdIT2rqRiavNpiWL"
-      },
-      "artists": [
-        {
-          "name": "Luude",
-          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+          "name": "Josef Laufer",
+          "url": "https://open.spotify.com/artist/1ycbXRESTBNZhT1SCYuajT"
         },
         {
-          "name": "Elliphant",
-          "url": "https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY"
+          "name": "Golem Jana V\u00e1clav\u00edka",
+          "url": "https://open.spotify.com/artist/7faltsxsEVtck1wffiASQB"
         }
       ],
-      "duration_ms": 145116,
-      "name": "Pachamama",
-      "url": "https://open.spotify.com/track/3lFNDaob5QhwE9oo7J0uNT"
+      "duration_ms": 212240,
+      "name": "Sbohem, L\u00e1sko, J\u00e1 Jedu D\u00e1l",
+      "url": "https://open.spotify.com/track/58PorOrqvuU0Td5TgtpRlf"
     },
     {
-      "added_at": "2024-04-25 15:55:49",
+      "added_at": "2024-04-26 16:15:52",
       "album": {
-        "name": "juice",
-        "url": "https://open.spotify.com/album/704AHdqt76FvWV8EFSPtDV"
+        "name": "ITALODISCO",
+        "url": "https://open.spotify.com/album/38cYOdPjt5btA4AMYmbZjn"
       },
       "artists": [
         {
-          "name": "daryana",
-          "url": "https://open.spotify.com/artist/5GVO9K6Iaebk8oQnXGTzqL"
+          "name": "The Kolors",
+          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
         }
       ],
-      "duration_ms": 107538,
-      "name": "juice",
-      "url": "https://open.spotify.com/track/2PXxdh7WHZAlONZW8P3H2h"
+      "duration_ms": 199512,
+      "name": "ITALODISCO",
+      "url": "https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV"
+    },
+    {
+      "added_at": "2024-04-26 16:15:52",
+      "album": {
+        "name": "Ehhthang Ehhthang",
+        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 156444,
+      "name": "Wanna Be (with Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/7mOC6phfrfz3jfigg1aGsE"
     }
   ],
   "unique_name": "Viral 50 - Slovakia",

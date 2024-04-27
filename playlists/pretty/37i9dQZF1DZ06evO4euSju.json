@@ -1,12 +1,12 @@
 {
   "description": "This is Teenage Wrist. The essential tracks, all in one playlist.",
-  "num_followers": 1185,
+  "num_followers": 1186,
   "original_name": "This Is Teenage Wrist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzkxNjgwMCwwMDAwMDAwMDQ3NDkwYTU0YjBlNDNlYWM5ZDQ5M2RkZTM5MzVhM2Vk",
+  "snapshot_id": "MTcxNDAwMzIwMCwwMDAwMDAwMGNiNGRlZGZkODhhZTkxZjhiNzZjNWM4NWE3MDY1ZGU5",
   "tracks": [
     {
       "added_at": null,
@@ -172,9 +172,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 206156,
-      "name": "High Again",
-      "url": "https://open.spotify.com/track/6xIRGEHZJxNobiq6Frf8BB"
+      "duration_ms": 166943,
+      "name": "Taste Of Gasoline",
+      "url": "https://open.spotify.com/track/67kHOo0IxF8dcfN5SEvBRb"
     },
     {
       "added_at": null,
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 166943,
-      "name": "Taste Of Gasoline",
-      "url": "https://open.spotify.com/track/67kHOo0IxF8dcfN5SEvBRb"
+      "duration_ms": 206156,
+      "name": "High Again",
+      "url": "https://open.spotify.com/track/6xIRGEHZJxNobiq6Frf8BB"
     },
     {
       "added_at": null,
@@ -378,11 +378,15 @@
         {
           "name": "Teenage Wrist",
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        },
+        {
+          "name": "S.A. Martinez",
+          "url": "https://open.spotify.com/artist/5dOE9cNjwaLO7AiaXJqnAy"
         }
       ],
-      "duration_ms": 234686,
-      "name": "Diorama",
-      "url": "https://open.spotify.com/track/2P4WDJAjCHHUULO7wnzzvC"
+      "duration_ms": 191323,
+      "name": "Dark Sky",
+      "url": "https://open.spotify.com/track/5cNGzuptAf9M47qvH4F4zx"
     },
     {
       "added_at": null,

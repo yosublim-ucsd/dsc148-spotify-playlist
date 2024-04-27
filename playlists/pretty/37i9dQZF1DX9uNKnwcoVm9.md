@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 
 > Un playlist que te llena de esperanza\.  ¡Con fe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,784 likes - 100 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,748 likes - 100 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,18 +76,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 66 | [Eres Fiel](https://open.spotify.com/track/6vTBRcJDcPEqwmtpi3qoI6) | [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [Cosas Poderosas](https://open.spotify.com/album/3KoD8Uxnyl7yU5kwix9Hk5) | 5:05 |
 | 67 | [Jehová Es Mi Guerrero/Le Llaman \(Reprise\)](https://open.spotify.com/track/38rRpy2CTsHScLk9IRo0PC) | [Juan Carlos Alvarado](https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U) | [Fuego](https://open.spotify.com/album/3Aejvhfr04XlnrEAoHDytu) | 2:16 |
 | 68 | [Vengo a Adorate](https://open.spotify.com/track/7CGvRA47dm5evqdGbaZhc1) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy) | 5:19 |
-| 69 | [Mi Universo](https://open.spotify.com/track/4tZccDFqoZp8IN7VUnsJ9K) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [El Aire De Tu Casa](https://open.spotify.com/album/0lkkoUlHus6JVtt5RUlPqX) | 4:13 |
+| 69 | [Ayer Te Vi..\. Fue Mas Claro Que La Luna](https://open.spotify.com/track/57ifvUopbuDoMNpgSD6PzV) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Ayer Te Vi...Fue Más Claro Que La Luna](https://open.spotify.com/album/2byRtlvsOEAYvl22FaUR0m) | 3:52 |
 | 70 | [Yo Quiero Mas de Cristo](https://open.spotify.com/track/0H79dPuHeHPkfR51XfwBUD) | [Tony Pérez](https://open.spotify.com/artist/1guiKPfkZCVKA8GoFQS4oJ) | [He Visto Su Gloria](https://open.spotify.com/album/2KNED3ap9Rs4ytPjEdusv6) | 5:56 |
 | 71 | [Por el poder de tu amor \(The power of your Love\)](https://open.spotify.com/track/0AQPDMIJmAEiXe182jLAIp) | [Ruth Mixter](https://open.spotify.com/artist/6Y3LN0FCFH8p38tlH7ctJA) | [Inquebrantable](https://open.spotify.com/album/5gdyDRdeJCzV6gozjFMwq1) | 5:29 |
 | 72 | [El Nombre De Jesús \(feat\. Christine D'clario\)](https://open.spotify.com/track/1cMTzjQOTt3wVAbFgTGPYN) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Operación Mundial](https://open.spotify.com/album/13cS6xvlMND2HFSphWWINT) | 4:30 |
 | 73 | [Roca eterna](https://open.spotify.com/track/09YG9ee8meFr9ba4pxynbi) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1) | [Me Has Hecho Libre](https://open.spotify.com/album/1flyahsdmJyAmkKr6q45ZI) | 4:55 |
-| 74 | [Me Dice Que Me Ama](https://open.spotify.com/track/4asTccqkv3G7KSKdy7QGED) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [El Aire De Tu Casa](https://open.spotify.com/album/0lkkoUlHus6JVtt5RUlPqX) | 4:01 |
+| 74 | [Mi Universo](https://open.spotify.com/track/4tZccDFqoZp8IN7VUnsJ9K) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [El Aire De Tu Casa](https://open.spotify.com/album/0lkkoUlHus6JVtt5RUlPqX) | 4:13 |
 | 75 | [No Basta](https://open.spotify.com/track/2jP3Vq1WzlOTwCejhokGuN) | [Juan Carlos Alvarado](https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U) | [Hoy Más Que Ayer](https://open.spotify.com/album/623gBThpduIjV7x1vxfCPo) | 3:50 |
 | 76 | [Donde Tú Estás \(feat\. Rebeca Zamorano\)](https://open.spotify.com/track/0ghEDN5LzOFJW7xkCKVWoZ) | [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b), [Rebeca Zamorano](https://open.spotify.com/artist/0VYpDFB2cAlvfacFCFvADL) | [Donde Tú Estás](https://open.spotify.com/album/66jgmPscSa5lrA8yBm90ar) | 8:54 |
 | 77 | [Ancla](https://open.spotify.com/track/1RMYwS5tm4QG8L7CVQX7wi) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Ancla](https://open.spotify.com/album/1egAMYquAVYlQAjQW3TmMh) | 8:19 |
 | 78 | [Creo En Ti](https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy) | 7:03 |
 | 79 | [He Visto Su Gloria](https://open.spotify.com/track/6mBTNoOs9cqcuqEmZZopVz) | [Tony Pérez](https://open.spotify.com/artist/1guiKPfkZCVKA8GoFQS4oJ) | [He Visto Su Gloria](https://open.spotify.com/album/2KNED3ap9Rs4ytPjEdusv6) | 6:41 |
-| 80 | [Ayer Te Vi..\. Fue Mas Claro Que La Luna](https://open.spotify.com/track/57ifvUopbuDoMNpgSD6PzV) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Ayer Te Vi...Fue Más Claro Que La Luna](https://open.spotify.com/album/2byRtlvsOEAYvl22FaUR0m) | 3:52 |
+| 80 | [Me Dice Que Me Ama](https://open.spotify.com/track/4asTccqkv3G7KSKdy7QGED) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [El Aire De Tu Casa](https://open.spotify.com/album/0lkkoUlHus6JVtt5RUlPqX) | 4:01 |
 | 81 | [Toda la Gloria](https://open.spotify.com/track/108rn8fBtcwYFd7kQzdvRA) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1) | [Fuego](https://open.spotify.com/album/5nKR0GJScbq5pcb7PGdBW9) | 6:00 |
 | 82 | [Al Final](https://open.spotify.com/track/0ReYpAHy0po3ZBzo4dIkgx) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Yo Sin Ti](https://open.spotify.com/album/09bmbHv2pYw2pd4OFKzjCT) | 4:02 |
 | 83 | [La Ultima Palabra](https://open.spotify.com/track/2FpFT8olvwhsGoeiEKpT36) | [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [Vivo para Ti](https://open.spotify.com/album/5wRPQ3vuSsJOd4qCcbszFy) | 4:23 |

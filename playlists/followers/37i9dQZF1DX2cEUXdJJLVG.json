@@ -1,5 +1,5 @@
 {
-  "2024-04-26": 74783,
+  "2024-04-27": 74814,
   "date_first_scraped": "2022-09-15",
   "description": "Funky & groovy tunes for poolside chilling.",
   "name": "Poolside Grooves",
@@ -5052,6 +5052,36 @@
     },
     {
       "album": {
+        "name": "Right Time",
+        "url": "https://open.spotify.com/album/0ZIfKpuY8zoxappzp1GRHd"
+      },
+      "artists": [
+        {
+          "name": "Carbonara Collective",
+          "url": "https://open.spotify.com/artist/0xQtEAccpoBnlgXdSf75f6"
+        },
+        {
+          "name": "J.A.D.E",
+          "url": "https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH"
+        },
+        {
+          "name": "Jermaine Campbell",
+          "url": "https://open.spotify.com/artist/6d4ekMxl5Kqs4dNrgnEdPu"
+        },
+        {
+          "name": "Martika",
+          "url": "https://open.spotify.com/artist/3u82dz5paRDRcZgz1W2FpG"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188423,
+      "name": "Right Time",
+      "url": "https://open.spotify.com/track/5u0bKPkCCMq29MKIqiytcE"
+    },
+    {
+      "album": {
         "name": "RISE (Darius Remix)",
         "url": "https://open.spotify.com/album/11H0eAX1PYOz4XENIBHmRL"
       },
@@ -6546,6 +6576,24 @@
     },
     {
       "album": {
+        "name": "TIRED",
+        "url": "https://open.spotify.com/album/4dQLC2L4bzoTUafGssjJEX"
+      },
+      "artists": [
+        {
+          "name": "Rya",
+          "url": "https://open.spotify.com/artist/5o0oa7D3vG5hisRVA4M3Vp"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130750,
+      "name": "TIRED",
+      "url": "https://open.spotify.com/track/6N8VWaHtkUzJ4uF1gj5wIU"
+    },
+    {
+      "album": {
         "name": "Reason to Smile",
         "url": "https://open.spotify.com/album/0RkFiGprYwfyALDs4tQLMC"
       },
@@ -6605,6 +6653,32 @@
       "duration_ms": 248334,
       "name": "Too Big - Atjazz Remix",
       "url": "https://open.spotify.com/track/2PsqQ6h3BoK1nLoTsUqTUv"
+    },
+    {
+      "album": {
+        "name": "too fast",
+        "url": "https://open.spotify.com/album/6UV79NnkVMC2doyJeC4twp"
+      },
+      "artists": [
+        {
+          "name": "ESTA.",
+          "url": "https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO"
+        },
+        {
+          "name": "Joyce Wrice",
+          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
+        },
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194028,
+      "name": "too fast",
+      "url": "https://open.spotify.com/track/6GZ4qfWtm0xjKPw5EKSdze"
     },
     {
       "album": {

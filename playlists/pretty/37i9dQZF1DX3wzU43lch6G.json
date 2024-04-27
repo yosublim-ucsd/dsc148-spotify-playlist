@@ -1,12 +1,12 @@
 {
   "description": "Melodik T\u00fcrk\u00e7e \u015fark\u0131larla yaz boyu sahildesin \ud83c\udfd6\ufe0f",
-  "num_followers": 102852,
+  "num_followers": 102830,
   "original_name": "K\u0131y\u0131 Boyu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcwODYzNTYwMCwwMDAwMDAwMGI2MTBjYjBkZWQ5NTM0NDllZDk3MjhlMzk5NzUwMDk5",
+  "snapshot_id": "MTcxNDEzODkwMSwwMDAwMDAwMDgxMDI5OTdiZmIxZTYwNzNkOWE2NjQzNTYyNGM3ZjJk",
   "tracks": [
     {
       "added_at": "2024-02-22 21:00:00",
@@ -813,6 +813,22 @@
       "url": "https://open.spotify.com/track/2lfIKSkxC1z8Q7JzTufWFo"
     },
     {
+      "added_at": "2024-04-26 13:41:41",
+      "album": {
+        "name": "Ar\u015fipel",
+        "url": "https://open.spotify.com/album/0w3YMnW0iQ5VpKgxLsWQsL"
+      },
+      "artists": [
+        {
+          "name": "Palmiyeler",
+          "url": "https://open.spotify.com/artist/441Mk7JKv8WtAsaR9REPGX"
+        }
+      ],
+      "duration_ms": 151066,
+      "name": "Ar\u015fipel",
+      "url": "https://open.spotify.com/track/6QvhGN8zxlXhPDskvLtTaJ"
+    },
+    {
       "added_at": "2024-02-22 21:00:00",
       "album": {
         "name": "Bir Anda",
@@ -831,22 +847,6 @@
       "duration_ms": 158644,
       "name": "Bir Anda",
       "url": "https://open.spotify.com/track/4tYUzluvpdFTKhGfT1HTcK"
-    },
-    {
-      "added_at": "2024-02-22 21:00:00",
-      "album": {
-        "name": "Onno Tun\u00e7 \u015eark\u0131lar\u0131",
-        "url": "https://open.spotify.com/album/05AuqXIInjEOYuuoSxlAKP"
-      },
-      "artists": [
-        {
-          "name": "Sezen Aksu",
-          "url": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
-        }
-      ],
-      "duration_ms": 335586,
-      "name": "Yeniden Sev",
-      "url": "https://open.spotify.com/track/3A2711bGNF7y0rTVy2XZNH"
     }
   ],
   "unique_name": "K\u0131y\u0131 Boyu",

@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-512 songs - 1 day 19 hr 52 min
+514 songs - 1 day 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Feedback](https://open.spotify.com/track/4Io7rS6x4YWYK99UdnBFkc) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Feedback](https://open.spotify.com/album/4HBmxwMuOrLBuyQjrS9FxB) | 5:58 | 2024-01-26 |  |
 | [FEEL](https://open.spotify.com/track/3xVmdUM5hgmLYzndh8FMz7) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [FEEL](https://open.spotify.com/album/0EaHTIUCFrPWr1AahAo86D) | 3:28 | 2024-04-12 |  |
 | [Feel My Love](https://open.spotify.com/track/4ba2rqxxNcXQ5rfWZMo1Q1) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf) | [SkyReacher](https://open.spotify.com/album/4fKaOHXcPHsqbL7UZYJKHK) | 6:44 | 2024-04-12 |  |
+| [Felt \(feat\. Henry Green\)](https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [A Life](https://open.spotify.com/album/4NFeATnC0BhLtvXInTdO9R) | 3:19 | 2024-04-26 |  |
 | [Fibonacci](https://open.spotify.com/track/0Jb3Kq7oDqRznHPIcrQpiX) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Fibonacci](https://open.spotify.com/album/0HQyQc8KYSgmt5iVieQWNY) | 3:08 | 2021-12-08 | 2024-04-13 |
 | [Fig Spread](https://open.spotify.com/track/7aqk3yBoqxB4nIl4UuMyxB) | [Aspetuck](https://open.spotify.com/artist/0GkeJJhTM5XDaT8iuRl0gd) | [Aspetuck 002](https://open.spotify.com/album/0ayZp8Cy4rwDLteIOWTUT1) | 5:51 | 2021-12-08 | 2022-07-21 |
 | [Flek](https://open.spotify.com/track/37MvOmyPdgyeWOymDgor3O) | [pølaroit](https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm) | [Flek](https://open.spotify.com/album/32vcNeIRAUWxN8Yq0ROfEa) | 3:59 | 2023-11-10 |  |
@@ -204,7 +205,7 @@
 | [It'll All Be Over \- DJ Koze Remix \- Radio Edit](https://open.spotify.com/track/48dojgnBKfp3drKOFdwycc) | [Gerry Read](https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [It'll All Be Over \(DJ Koze Remix \- Radio Edit\)](https://open.spotify.com/album/0T4xFSNi3vOmlC4GUXPfIE) | 3:08 | 2021-12-08 | 2022-02-18 |
 | [It's All Love](https://open.spotify.com/track/4KD5P3vY1rZUziFdw2qrKp) | [Ashibah](https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP) | [It's All Love](https://open.spotify.com/album/0bSjpqslnkqZHImdwBIRL0) | 5:15 | 2023-10-13 |  |
 | [It's Me](https://open.spotify.com/track/7ruGyAPvRrNFqT2XroqzjP) | [P.O.S](https://open.spotify.com/artist/6PqtTOqDDdBJQzgCW2TbwU), [Spencer Brown](https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK), [Marieme](https://open.spotify.com/artist/4M9MGz93wIiFmEKhrw2yDD) | [It's Me](https://open.spotify.com/album/2wGMjnwb9iVAGO1hKpe0p9) | 4:13 | 2023-05-26 |  |
-| [it's sky time](https://open.spotify.com/track/1oraMgXwEWgGPrcn2FCKD4) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [separation anxiety](https://open.spotify.com/album/7o9t3adexgpcxrEeEp8Dut) | 5:17 | 2024-04-12 |  |
+| [it's sky time](https://open.spotify.com/track/1oraMgXwEWgGPrcn2FCKD4) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [separation anxiety](https://open.spotify.com/album/7o9t3adexgpcxrEeEp8Dut) | 5:17 | 2024-04-12 | 2024-04-27 |
 | [Jakarta](https://open.spotify.com/track/05rQuHa8lWk9PTpQUqcO31) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Jakarta](https://open.spotify.com/album/6om4LDfQtmfEp76GPQluOT) | 3:56 | 2021-12-08 | 2023-07-15 |
 | [Jazz Me \- Fast Version](https://open.spotify.com/track/22GoAG7vI5pPJo5QN04Dmj) | [River](https://open.spotify.com/artist/4ZPuIkrRASY1YVvrQp5Ten) | [Chillsun \(Everyday Wake Up\)](https://open.spotify.com/album/2EeWxIfSYbI2kjdkIn9WOo) | 3:06 | 2022-05-03 | 2023-12-04 |
 | [Juli](https://open.spotify.com/track/5Fps0MTzLWDEdkrEzjefWt) | [ELI DAVID](https://open.spotify.com/artist/5xTJdCV1EdMFAYoruO1gxf) | [Juli](https://open.spotify.com/album/4aSt3MQM30fiQuDhPH4X2i) | 7:05 | 2021-12-08 | 2022-07-24 |
@@ -275,7 +276,7 @@
 | [Moment In Time](https://open.spotify.com/track/0mqObq0LCWmM0P0zLQd1eh) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3), [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [Moment In Time](https://open.spotify.com/album/29wquy11Iersljz5usyVA2) | 3:57 | 2021-12-08 |  |
 | [Moment Scale \- Dubmaster X Remix](https://open.spotify.com/track/3RsWr97TnDsUA4AMd2aiXB) | [Silent Poets](https://open.spotify.com/artist/0v8kJy6pfyJsO20V77miAI) | [Café del Mar Essentials \(Vol\. 1\)](https://open.spotify.com/album/4CCmKV79PAwiRRfD5IAfYn) | 6:05 | 2021-12-08 | 2023-01-06 |
 | [Moments](https://open.spotify.com/track/1FFKcFY3kDm75lxlQpwn4h) | [Sound Nomaden](https://open.spotify.com/artist/1R4DbF6CAroRPIDBAkPIi0) | [Moments](https://open.spotify.com/album/5KGOVm9wBnxB54cfaDhwOM) | 4:02 | 2024-04-12 |  |
-| [Money](https://open.spotify.com/track/34KMYJ2e5ouT1qfOEJgfIe) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx) | [Lucas](https://open.spotify.com/album/0JJjdrxiGhdo2JHVNCKC2N) | 3:18 | 2022-10-28 |  |
+| [Money](https://open.spotify.com/track/34KMYJ2e5ouT1qfOEJgfIe) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx) | [Lucas](https://open.spotify.com/album/0JJjdrxiGhdo2JHVNCKC2N) | 3:18 | 2022-10-28 | 2024-04-27 |
 | [Moonlight](https://open.spotify.com/track/5VIMpwICCfIUv4noTcES9d) | [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Moonlight](https://open.spotify.com/album/4GVzzVyaPe7UJBHGO7Ee1f) | 6:56 | 2023-05-26 |  |
 | [More Than You Thought](https://open.spotify.com/track/6qoGexJZGrmeeNxFpk9RJ6) | [LEGATO](https://open.spotify.com/artist/5jpu8iB4nbX9H3bkV8LYz2) | [More Than You Thought EP](https://open.spotify.com/album/45cqR8LQeUBz9kzkHp0aNt) | 8:34 | 2021-12-08 |  |
 | [Moss](https://open.spotify.com/track/2OVo7I9IuGruvsOj83jvtQ) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Moss](https://open.spotify.com/album/0OTOcLpCVrU0eP90v8Zocc) | 2:51 | 2023-10-24 |  |
@@ -303,6 +304,7 @@
 | [Nocturnal Drift](https://open.spotify.com/track/3Km4MTuqNsEsSOBNEjEZxe) | [Trippin Jaguar](https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0) | [Nocturnal Drift](https://open.spotify.com/album/2tGhGMNl6xfSp5bsPmlMnV) | 6:42 | 2024-04-12 |  |
 | [Nostalgia](https://open.spotify.com/track/4iS30UyxLu8IwZBIpMOsnw) | [XIXI](https://open.spotify.com/artist/6hkvnjLeIb4gSHy3GImvqw), [Julie Trouvé](https://open.spotify.com/artist/7roPpKRzos25nBru44u73U) | [Silhouettes](https://open.spotify.com/album/12ltZJAZrIczGXrbmwFwqg) | 3:17 | 2023-12-15 |  |
 | [Nostalgic](https://open.spotify.com/track/10LSigkAHxT3yBe1rQJpBv) | [Col Lawton](https://open.spotify.com/artist/1KoBr4hgTMG3lPR353sNqm) | [Nostalgic](https://open.spotify.com/album/2ZErGALHzhUPyxR9nOiZU4) | 6:29 | 2022-05-03 |  |
+| [Not Giving You Up](https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Not Giving You Up](https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM) | 2:52 | 2024-04-26 |  |
 | [Notte senza fine \- Kiasmos Remix](https://open.spotify.com/track/6HUnAzGo1zYfdX4ZW1yiZh) | [Tale Of Us](https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc), [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD) | [Endless \(Remixes\)](https://open.spotify.com/album/2obZe0VX40C3BL9FNmDjP7) | 6:28 | 2022-02-21 | 2023-03-04 |
 | [Novo Dia](https://open.spotify.com/track/3rYiDPHMFnUseosoKq6YCC) | [Mezomo](https://open.spotify.com/artist/0U791oo0NOxRO3OlSiYXnX), [Dri Reigado](https://open.spotify.com/artist/4aaXdniBUwpXzZJ8OdyLUg) | [Novo Dia](https://open.spotify.com/album/1PInwb9Znwu00pCKUVtb2C) | 7:05 | 2021-12-08 | 2022-07-22 |
 | [Oasis](https://open.spotify.com/track/3jlFMDKI3hjKvqzXry1Yq1) | [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [Oasis](https://open.spotify.com/album/7BCdGiEPeZ3ysc0rF8PSsj) | 3:22 | 2021-12-08 |  |

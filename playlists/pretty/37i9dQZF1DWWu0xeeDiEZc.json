@@ -1,6 +1,6 @@
 {
   "description": "Get your kids singing along with this fun playlist! They're sure to know these kid-friendly classics.",
-  "num_followers": 382830,
+  "num_followers": 382821,
   "original_name": "Sing Along",
   "owner": {
     "name": "Spotify",
@@ -479,26 +479,18 @@
     {
       "added_at": "2022-07-25 13:31:43",
       "album": {
-        "name": "Aladdin: Special Edition Soundtrack",
-        "url": "https://open.spotify.com/album/1Eq5qk8DnHWGOZT2cAASP2"
+        "name": "Toddler Party",
+        "url": "https://open.spotify.com/album/3hbh5avYBFVOQ3y3gCHL21"
       },
       "artists": [
         {
-          "name": "Lea Salonga",
-          "url": "https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv"
-        },
-        {
-          "name": "Brad Kane",
-          "url": "https://open.spotify.com/artist/3dAzSJ9lQnJSq5Z0OgDBep"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
         }
       ],
-      "duration_ms": 160800,
-      "name": "A Whole New World",
-      "url": "https://open.spotify.com/track/506nvAQgHmkGd13ipZuBwo"
+      "duration_ms": 123475,
+      "name": "Looby Loo - Toddler Version",
+      "url": "https://open.spotify.com/track/17ae6ayN7KxVK78VXXRwAT"
     },
     {
       "added_at": "2022-07-25 13:31:43",
@@ -519,18 +511,26 @@
     {
       "added_at": "2022-07-25 13:31:43",
       "album": {
-        "name": "Toddler Party",
-        "url": "https://open.spotify.com/album/3hbh5avYBFVOQ3y3gCHL21"
+        "name": "Aladdin: Special Edition Soundtrack",
+        "url": "https://open.spotify.com/album/1Eq5qk8DnHWGOZT2cAASP2"
       },
       "artists": [
         {
-          "name": "Little Baby Bum Nursery Rhyme Friends",
-          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+          "name": "Lea Salonga",
+          "url": "https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv"
+        },
+        {
+          "name": "Brad Kane",
+          "url": "https://open.spotify.com/artist/3dAzSJ9lQnJSq5Z0OgDBep"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
-      "duration_ms": 123475,
-      "name": "Looby Loo - Toddler Version",
-      "url": "https://open.spotify.com/track/17ae6ayN7KxVK78VXXRwAT"
+      "duration_ms": 160800,
+      "name": "A Whole New World",
+      "url": "https://open.spotify.com/track/506nvAQgHmkGd13ipZuBwo"
     },
     {
       "added_at": "2022-07-25 13:31:43",

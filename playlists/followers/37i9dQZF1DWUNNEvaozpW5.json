@@ -1,7 +1,7 @@
 {
-  "2024-04-26": 571314,
+  "2024-04-27": 571107,
   "date_first_scraped": "2022-05-26",
-  "description": "Lo mejor del rock de aqu\u00ed, como Celtas Cortos.",
+  "description": "Lo mejor del rock de aqu\u00ed, como Arde Bogot\u00e1 con Bunbury. ",
   "name": "Rock Espa\u00f1ol",
   "tracks": [
     {
@@ -1447,6 +1447,24 @@
       "duration_ms": 185486,
       "name": "Costumbres Argentinas",
       "url": "https://open.spotify.com/track/4ux5icXP18e2stlh7nlEqQ"
+    },
+    {
+      "album": {
+        "name": "Cowboys de la A3",
+        "url": "https://open.spotify.com/album/772yDxRPJaH0QnrwkZgpNH"
+      },
+      "artists": [
+        {
+          "name": "Arde Bogot\u00e1",
+          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276005,
+      "name": "Cowboys de la A3",
+      "url": "https://open.spotify.com/track/5LZRHZxqnrM5mSeiysd9XF"
     },
     {
       "album": {
@@ -4114,6 +4132,24 @@
     },
     {
       "album": {
+        "name": "Lavar la Ropa",
+        "url": "https://open.spotify.com/album/397Ty5qxOf86ZxpNRWoFNt"
+      },
+      "artists": [
+        {
+          "name": "Alberto & Garc\u00eda",
+          "url": "https://open.spotify.com/artist/5BKyujkSrDiZtHyRGtVJx6"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240456,
+      "name": "Lavar la Ropa",
+      "url": "https://open.spotify.com/track/3IZ9WpjvXdVXyLR6RRHPiB"
+    },
+    {
+      "album": {
         "name": "Lejos de las leyes de los hombres (Versi\u00f3n 2023)",
         "url": "https://open.spotify.com/album/7u6hWylxNJin7RPnuTsxrI"
       },
@@ -4895,7 +4931,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 262440,
       "name": "Motorizados",
       "url": "https://open.spotify.com/track/0lo6NCs5ncQaWZhARAEFQ6"
@@ -6563,7 +6599,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 225429,
       "name": "Solo ante el peligro",
       "url": "https://open.spotify.com/track/6ZqIZLqSBlNmY7H4J14ikj"

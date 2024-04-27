@@ -1,5 +1,5 @@
 {
-  "2024-04-26": 373841,
+  "2024-04-27": 373973,
   "date_first_scraped": "2023-09-07",
   "description": "All the stuff that will blow your speakers!",
   "name": "Bass Explosion",
@@ -191,6 +191,24 @@
       "duration_ms": 130700,
       "name": "All I Ever Wanted",
       "url": "https://open.spotify.com/track/21deaXqPzYtLunigUjpZuB"
+    },
+    {
+      "album": {
+        "name": "All My Friends Are Hot",
+        "url": "https://open.spotify.com/album/2VW6ViKFOupsp5AMewIjbm"
+      },
+      "artists": [
+        {
+          "name": "Faustix",
+          "url": "https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143636,
+      "name": "All My Friends Are Hot",
+      "url": "https://open.spotify.com/track/2zsDKb9ioHL4xYiMZb8hcp"
     },
     {
       "album": {
@@ -1212,6 +1230,28 @@
     },
     {
       "album": {
+        "name": "Convivium",
+        "url": "https://open.spotify.com/album/0zZaUF6x1OKbeEY1QbJ4Sv"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "T78",
+          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133200,
+      "name": "Convivium",
+      "url": "https://open.spotify.com/track/16koq0SV3LIAXl5V2FfGKM"
+    },
+    {
+      "album": {
         "name": "Crave",
         "url": "https://open.spotify.com/album/3jX2LlPJdLJo9l4q6OUEe1"
       },
@@ -1701,7 +1741,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 126673,
       "name": "Endless Rave",
       "url": "https://open.spotify.com/track/2FAnmFqf2OdwdPudN53ngI"
@@ -1869,7 +1909,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 185600,
       "name": "Everywhere, Nowhere",
       "url": "https://open.spotify.com/track/6aVGa81S7Q1S24yuPbakEL"
@@ -1965,7 +2005,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 105639,
       "name": "FAKE ID - Techno",
       "url": "https://open.spotify.com/track/7AcHMpUcnpJCsEsRQyvenv"
@@ -2123,6 +2163,28 @@
       "duration_ms": 171904,
       "name": "For You",
       "url": "https://open.spotify.com/track/1K3yNNl8YK3XPYGfl0cU3b"
+    },
+    {
+      "album": {
+        "name": "Freude sch\u00f6ner G\u00f6tterfunken",
+        "url": "https://open.spotify.com/album/50OUfb1eauSuzlq5UPDXVn"
+      },
+      "artists": [
+        {
+          "name": "H\u00e4nsel",
+          "url": "https://open.spotify.com/artist/00Cen9aAFxIUh0h685dp5w"
+        },
+        {
+          "name": "Liebling",
+          "url": "https://open.spotify.com/artist/2rDgiXjtPa0hGvovvxUvSV"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164896,
+      "name": "Freude sch\u00f6ner G\u00f6tterfunken",
+      "url": "https://open.spotify.com/track/41j6STYoP5XoJqqdZJWUxv"
     },
     {
       "album": {
@@ -2719,7 +2781,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 230400,
       "name": "In The City - Yves V Remix",
       "url": "https://open.spotify.com/track/4tB7IiWex4iuPhdmOSDpo3"
@@ -3097,7 +3159,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 166909,
       "name": "Kayra",
       "url": "https://open.spotify.com/track/5Rob2FY3ndcG9F2GpK8ZaQ"
@@ -3228,6 +3290,28 @@
     },
     {
       "album": {
+        "name": "LA DI DA",
+        "url": "https://open.spotify.com/album/2WquxpybBSGTu5fqYIYIrR"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "DJane HouseKat",
+          "url": "https://open.spotify.com/artist/64tnAMgE8bc2zTMBcBsLdx"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179824,
+      "name": "LA DI DA",
+      "url": "https://open.spotify.com/track/6l07fK093JBCIh6enC4cof"
+    },
+    {
+      "album": {
         "name": "Lambada (Your Love)",
         "url": "https://open.spotify.com/album/0WgTsrXmzSihOCRoRS5Bn6"
       },
@@ -3273,7 +3357,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 216152,
       "name": "Legends",
       "url": "https://open.spotify.com/track/54cwQJs1IBsp7uFAJB0aGK"
@@ -3631,6 +3715,24 @@
     {
       "album": {
         "name": "Lullaby",
+        "url": "https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187394,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU"
+    },
+    {
+      "album": {
+        "name": "Lullaby",
         "url": "https://open.spotify.com/album/2aRFXAUffmR3oMkQv3hMyG"
       },
       "artists": [
@@ -3943,6 +4045,28 @@
       "duration_ms": 236999,
       "name": "My Gasoline",
       "url": "https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE"
+    },
+    {
+      "album": {
+        "name": "New Generation (Space 92 Remix)",
+        "url": "https://open.spotify.com/album/77RCWyzeOsqkIH0QFNdrjH"
+      },
+      "artists": [
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        },
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235111,
+      "name": "New Generation - Space 92 Remix",
+      "url": "https://open.spotify.com/track/5R83UKYem3OpSmWCvE3Yax"
     },
     {
       "album": {
@@ -4495,6 +4619,24 @@
       "duration_ms": 200086,
       "name": "Perfect (Exceeder) - 1991 Remix",
       "url": "https://open.spotify.com/track/1VKWQgq0g2uKtgNfL0ceNM"
+    },
+    {
+      "album": {
+        "name": "Phoenix In The Night",
+        "url": "https://open.spotify.com/album/38wGwK2nOvKT0k3oO4hNlE"
+      },
+      "artists": [
+        {
+          "name": "State One",
+          "url": "https://open.spotify.com/artist/4iyYRwaoQkNpsLT421qfWa"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120750,
+      "name": "Phoenix In The Night",
+      "url": "https://open.spotify.com/track/3e8xebkRTnUiqZw5TaxcZT"
     },
     {
       "album": {
@@ -6074,6 +6216,24 @@
     },
     {
       "album": {
+        "name": "T.N.T. (Techno Remix)",
+        "url": "https://open.spotify.com/album/4NydermwrtbQyYQfsawidt"
+      },
+      "artists": [
+        {
+          "name": "Nic Johnston",
+          "url": "https://open.spotify.com/artist/573SWshgzKIZpBwaiDZdat"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137473,
+      "name": "T.N.T. - Techno Remix",
+      "url": "https://open.spotify.com/track/6l514NhnJZJgHgYFeimsWs"
+    },
+    {
+      "album": {
         "name": "TABU.",
         "url": "https://open.spotify.com/album/6RfzTgu36z9KsBvxPKoMom"
       },
@@ -6195,7 +6355,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 183243,
       "name": "TECHNO CARNIVAL",
       "url": "https://open.spotify.com/track/6ZXvkOSCEqoEVuEhZRBRco"
@@ -6695,7 +6855,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 607552,
       "name": "Universo",
       "url": "https://open.spotify.com/track/5DRGuHS0xJ3X3OZjCrglTI"

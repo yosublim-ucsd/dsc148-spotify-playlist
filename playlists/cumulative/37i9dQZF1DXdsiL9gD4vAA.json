@@ -2787,6 +2787,28 @@
     },
     {
       "album": {
+        "name": "Tujhe Paake",
+        "url": "https://open.spotify.com/album/6peEDpmpRFAuu3u9noH7XR"
+      },
+      "artists": [
+        {
+          "name": "Suresh Wadkar",
+          "url": "https://open.spotify.com/artist/0w4e7HVbqAHFPN6VkIlvhe"
+        },
+        {
+          "name": "Sadhana Sargam",
+          "url": "https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401342,
+      "name": "Tujhe Paake",
+      "url": "https://open.spotify.com/track/7qzr9JjGm2jlTZbEeBv8D7"
+    },
+    {
+      "album": {
         "name": "Tujhse Mohabbat (From - Izhaar-E-Ishq)",
         "url": "https://open.spotify.com/album/1KhfQKzO0BjpwDupugvOkr"
       },

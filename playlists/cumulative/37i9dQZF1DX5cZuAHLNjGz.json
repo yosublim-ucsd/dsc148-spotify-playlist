@@ -4947,6 +4947,24 @@
     },
     {
       "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/1z0uaYP1v7ZSRCh6trtrc3"
+      },
+      "artists": [
+        {
+          "name": "Lopon Sidhu",
+          "url": "https://open.spotify.com/artist/6xLk6uOnCRbbyQuS7Qb0uC"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127178,
+      "name": "Playboy",
+      "url": "https://open.spotify.com/track/4mPemcGM6cFL5ZNajHqvZ9"
+    },
+    {
+      "album": {
         "name": "Players",
         "url": "https://open.spotify.com/album/2ap6wepv8WNqHCxJiclPIL"
       },

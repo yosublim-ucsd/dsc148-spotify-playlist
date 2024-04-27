@@ -1243,6 +1243,24 @@
     },
     {
       "album": {
+        "name": "All Abouts",
+        "url": "https://open.spotify.com/album/5StPL9vJF0eW71ukM4aXlF"
+      },
+      "artists": [
+        {
+          "name": "Hayde Kole",
+          "url": "https://open.spotify.com/artist/7mSzxAVpwd2cUa2llhsdwd"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126857,
+      "name": "All Abouts",
+      "url": "https://open.spotify.com/track/22QQwfrVzEGZGLVAZLX7g7"
+    },
+    {
+      "album": {
         "name": "lo-fi bloom",
         "url": "https://open.spotify.com/album/2sZbTPl0U0XmSlmw9bxkiW"
       },
@@ -5364,7 +5382,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 121690,
       "name": "Changing Lanes",
       "url": "https://open.spotify.com/track/3j6aJ31Ri6y6Oywx7tM38W"
@@ -6440,7 +6458,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 120490,
       "name": "collogue",
       "url": "https://open.spotify.com/track/5sw8eqqQPKLkXydIyoLg2K"
@@ -8942,7 +8960,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 166165,
       "name": "Droplets",
       "url": "https://open.spotify.com/track/15yitQITrGAxCToHNw4zKF"
@@ -9944,7 +9962,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 145421,
       "name": "Eye\u00b4s on the Price",
       "url": "https://open.spotify.com/track/4BEk85p0hvQtzGzJbHxBHP"
@@ -11228,6 +11246,24 @@
       "duration_ms": 138836,
       "name": "Fluorescent Nights",
       "url": "https://open.spotify.com/track/74KBmmkchWEsbq1dJBPIat"
+    },
+    {
+      "album": {
+        "name": "Fly Kicks",
+        "url": "https://open.spotify.com/album/1bEdkbYVRED0gltqXF61Ry"
+      },
+      "artists": [
+        {
+          "name": "Guzimi",
+          "url": "https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76800,
+      "name": "Fly Kicks",
+      "url": "https://open.spotify.com/track/0B3IJUr998eB7ILxvZbv7d"
     },
     {
       "album": {
@@ -19447,6 +19483,24 @@
     },
     {
       "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/2g1ev5m7Q4BlpMxwtx6irX"
+      },
+      "artists": [
+        {
+          "name": "Dan Bay",
+          "url": "https://open.spotify.com/artist/1E9ev9hZVmtmeFkS3ZAyyw"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169903,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/3pivtCoFbIjlMklLAmeuiT"
+    },
+    {
+      "album": {
         "name": "Memories & Notes",
         "url": "https://open.spotify.com/album/3EeK9doDTJjMcpLw7gDQbt"
       },
@@ -19904,7 +19958,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 171880,
       "name": "Mir\u00f3",
       "url": "https://open.spotify.com/track/5HbtorjBQ9pgeKI88WS6k1"
@@ -26639,6 +26693,24 @@
     },
     {
       "album": {
+        "name": "Safety",
+        "url": "https://open.spotify.com/album/6KFiLNXIzRmIF8qOwkAyqa"
+      },
+      "artists": [
+        {
+          "name": "Sorai",
+          "url": "https://open.spotify.com/artist/6ATrPrg8qbSNEyCSEwLgDW"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114580,
+      "name": "Safety",
+      "url": "https://open.spotify.com/track/2sH1SgochD5ojGRiKeXVR1"
+    },
+    {
+      "album": {
         "name": "Sail",
         "url": "https://open.spotify.com/album/39oKw9IrGpEpBmDT0HOZDE"
       },
@@ -27046,6 +27118,24 @@
       "duration_ms": 170666,
       "name": "Scratch and Sniff",
       "url": "https://open.spotify.com/track/0fnBFV0cLqTXwueVyNxCfV"
+    },
+    {
+      "album": {
+        "name": "Sea Breeze",
+        "url": "https://open.spotify.com/album/3FZwrMcRz470p60fFiG6sW"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156626,
+      "name": "Sea Breeze",
+      "url": "https://open.spotify.com/track/0hGuU4p9M9mUNjWmoD83CP"
     },
     {
       "album": {
@@ -30325,6 +30415,28 @@
     },
     {
       "album": {
+        "name": "Sunday Snooze",
+        "url": "https://open.spotify.com/album/5IDe10d379nDWUhkN4zvlG"
+      },
+      "artists": [
+        {
+          "name": "lukayo",
+          "url": "https://open.spotify.com/artist/3AhFxqxCwraIIUrUiVx4d1"
+        },
+        {
+          "name": "baker dalton",
+          "url": "https://open.spotify.com/artist/0LbEUtI30VRNEZMbbD2rFe"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Sunday Snooze",
+      "url": "https://open.spotify.com/track/6OZ1Y9Azf4smFPtHcMcqPo"
+    },
+    {
+      "album": {
         "name": "Sunday Vibe",
         "url": "https://open.spotify.com/album/7u2zSSqdcVSt7jW0IYSF8x"
       },
@@ -30644,6 +30756,28 @@
       "duration_ms": 145822,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/5cm5OwzLP6SAjPYYeMb4BC"
+    },
+    {
+      "album": {
+        "name": "Sunset",
+        "url": "https://open.spotify.com/album/3TWhBNWnXwJ8wJpH0vOyTM"
+      },
+      "artists": [
+        {
+          "name": "Lotus Beats",
+          "url": "https://open.spotify.com/artist/667RkTKDzJP6Hi3viSrkWI"
+        },
+        {
+          "name": "Notation",
+          "url": "https://open.spotify.com/artist/6Ez42bOoRelk95xv7GBMhx"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/1aswhgX6xYksPefv9z1phm"
     },
     {
       "album": {
@@ -31074,6 +31208,24 @@
       "duration_ms": 175066,
       "name": "Synthetic Forest",
       "url": "https://open.spotify.com/track/5Lplx3jpmE2GjvCZxxjBVA"
+    },
+    {
+      "album": {
+        "name": "Taco",
+        "url": "https://open.spotify.com/album/1DoI0oEoQHG1nA9pRblt0I"
+      },
+      "artists": [
+        {
+          "name": "Beat Oven",
+          "url": "https://open.spotify.com/artist/57nxKbKZ4Uc9jzTkcCfRRq"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122062,
+      "name": "Taco",
+      "url": "https://open.spotify.com/track/6A8sQwjpOhxpJ0CTRSkJ1Z"
     },
     {
       "album": {
@@ -31774,7 +31926,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 123162,
       "name": "The French Express",
       "url": "https://open.spotify.com/track/4vyEcpMJ7d4kYW0NsTTalA"
@@ -33206,7 +33358,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 112142,
       "name": "troppo cotti",
       "url": "https://open.spotify.com/track/0kGXVhsOfsRaLd7pInaHWL"
@@ -34282,7 +34434,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 170109,
       "name": "waiting",
       "url": "https://open.spotify.com/track/3gF4gVrbTHmkOYv5pi3YMU"

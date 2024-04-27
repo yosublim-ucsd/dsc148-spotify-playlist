@@ -4,7 +4,7 @@
 
 > Crush on Crush's K\-R&B and musics.
 
-207 songs - 12 hr 19 min
+209 songs - 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Blue](https://open.spotify.com/track/1stebKrxPzXNCNUhhVWdrb) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [OFF DUTY](https://open.spotify.com/album/7qbL1d3qCCzRIBJUTYjNLI) | 4:23 | 2020-12-27 |  |
 | [Blue \(Feat\. Crush, SOLE\)](https://open.spotify.com/track/54p0ofXg6V75CJcYiVVdre) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [OFF DUTY](https://open.spotify.com/album/5bC4Moqxle03k5N2RbhVun) | 4:23 | 2020-12-27 | 2024-04-19 |
 | [Blue Hawaii \(feat\. Crush, PENOMECO\) \(Prod\. by 0channel\)](https://open.spotify.com/track/1UHBO2hljyZzjaGeGGJrKF) | [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [ordinary.](https://open.spotify.com/album/5KxykJIMpVCFZ7zow2Td0k) | 4:01 | 2020-12-27 |  |
+| [By Your Side](https://open.spotify.com/track/33D9IBi6eTFEPldy7jQ8og) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [By Your Side](https://open.spotify.com/album/4oqcaxJLVmr0mMdYkPxIf2) | 3:50 | 2024-04-26 |  |
 | [Castaway](https://open.spotify.com/track/0asJ8jxqqNFT5Fxr5vNSPt) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Miso](https://open.spotify.com/artist/04xEkodoWyFji8icX911jM) | [Interlude](https://open.spotify.com/album/1QykwYyjBCnV0mgzWweTiK) | 3:14 | 2020-12-27 | 2024-04-19 |
 | [Castaway](https://open.spotify.com/track/4mPlvNApEXUR6UbNcQj0AY) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Miso](https://open.spotify.com/artist/04xEkodoWyFji8icX911jM) | [Interlude](https://open.spotify.com/album/4kkHdqWkWD4yhHOnmaLCrS) | 3:14 | 2020-12-27 |  |
 | [Cereal](https://open.spotify.com/track/3AjWddhlSnA3PO8DQYXgSD) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [wonderlost](https://open.spotify.com/album/25MhXP1nRONHaLpfrfTOLr) | 3:38 | 2020-12-27 | 2024-04-19 |
@@ -113,6 +114,7 @@
 | [Love Encore \(with Lee Sora\)](https://open.spotify.com/track/25oNK6Qd3Sw9dy521cTFFA) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [with HER](https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW) | 3:30 | 2020-12-27 | 2024-04-19 |
 | [Love Encore \(with Lee Sora\)](https://open.spotify.com/track/3aOfUJ7IUbVDa3X5pAshOv) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [with HER](https://open.spotify.com/album/4sHKlMflBj4kKQUmu2HPhv) | 3:30 | 2020-12-27 |  |
 | [Love Story \(Feat\. CRUSH\)](https://open.spotify.com/track/5rUZeNNC4R65U6UeElMoss) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Love Story](https://open.spotify.com/album/0H9qbHCWJRmKAhERqM5X9G) | 3:40 | 2020-12-27 |  |
+| [Love You With All My Heart](https://open.spotify.com/track/0UaaFmF3xUwMjnuAHBq7qL) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Queen of Tears \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/0B0JmGO8lQYuqxn02gcFvx) | 4:04 | 2024-04-26 |  |
 | [Lovedrunk](https://open.spotify.com/track/2nRm7BbBcpVaInDBCag61K) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [sleepless in \_\_\_\_\_\_\_\_\_\_](https://open.spotify.com/album/0ku3S11VuwERVu81G7m0jv) | 4:10 | 2020-12-27 |  |
 | [Lovedrunk \(Feat\. Crush\)](https://open.spotify.com/track/5b2suopDXFPLXl3NKOTJjY) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [sleepless in \_\_\_\_\_\_\_\_\_\_](https://open.spotify.com/album/7o6XSnYarIzPrpzvVivrcl) | 4:10 | 2020-12-27 | 2024-04-19 |
 | [make her dance](https://open.spotify.com/track/0Z5c1dNvB3pJclMafFOz2N) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [No Open Flames](https://open.spotify.com/album/1426VraRvdBSqtGRfkcKze) | 2:50 | 2020-12-27 |  |

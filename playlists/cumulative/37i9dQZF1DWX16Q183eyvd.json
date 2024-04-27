@@ -389,6 +389,32 @@
     },
     {
       "album": {
+        "name": "Nick Jr. Mix It Up! Vol. 10: Hip Hop Playground (The Remixes)",
+        "url": "https://open.spotify.com/album/1o8i8X0PNEAXU3PkGKWTKx"
+      },
+      "artists": [
+        {
+          "name": "Nick Jr.",
+          "url": "https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC"
+        },
+        {
+          "name": "Noggin",
+          "url": "https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn"
+        },
+        {
+          "name": "Darryl \"DMC\" McDaniels",
+          "url": "https://open.spotify.com/artist/6a8v4haj3oDEJiDMVrAJAn"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123870,
+      "name": "Contradict - Hip Hop Remix",
+      "url": "https://open.spotify.com/track/0EgmP7D9aaMjUbzc7fHHli"
+    },
+    {
+      "album": {
         "name": "Cookie Jar",
         "url": "https://open.spotify.com/album/65HIKw74shHz5R6zAQqqIL"
       },
@@ -1799,6 +1825,24 @@
     },
     {
       "album": {
+        "name": "PARTY AT THE YMCA",
+        "url": "https://open.spotify.com/album/7JGoJoyYVYXFbYCgcmjpIx"
+      },
+      "artists": [
+        {
+          "name": "Coach Kody",
+          "url": "https://open.spotify.com/artist/6Vgl5qX4ArZ9lLzegNnzt9"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100253,
+      "name": "PARTY AT THE YMCA",
+      "url": "https://open.spotify.com/track/27CuBGHjU658LDz3aXQxt5"
+    },
+    {
+      "album": {
         "name": "Family Tree",
         "url": "https://open.spotify.com/album/2ipWREGW50eHJTjXVVWiCj"
       },
@@ -2266,7 +2310,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 152340,
       "name": "The Muffin Man",
       "url": "https://open.spotify.com/track/1Vbvmps24U9pmD4Mf5fEtC"

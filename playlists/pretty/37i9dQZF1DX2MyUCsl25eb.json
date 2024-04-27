@@ -1,13 +1,61 @@
 {
   "description": "Easy feels on your way to work, or wherever you're commuting to this morning.",
-  "num_followers": 969654,
+  "num_followers": 969413,
   "original_name": "Morning Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg5NDQwMCwwMDAwMDAwMGE5YmJhMGI0OTEwZTA3MzdhMjllMjNmNmI5NTc0M2Nh",
+  "snapshot_id": "MTcxNDEwNDA2MCwwMDAwMDAwMGZjMjEwMGVjMDk4MTgyNTJlNjc4NGRhYzJhNjVmZDBj",
   "tracks": [
+    {
+      "added_at": "2024-04-26 04:01:00",
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 1.5)",
+        "url": "https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 192317,
+      "name": "Hammer to the Heart",
+      "url": "https://open.spotify.com/track/0IdwfnHFfyb7zc7GFs75QQ"
+    },
+    {
+      "added_at": "2024-04-26 04:01:00",
+      "album": {
+        "name": "Boundaries",
+        "url": "https://open.spotify.com/album/2UmzFdvxHsHnO7ZhIdvSzp"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+        }
+      ],
+      "duration_ms": 161773,
+      "name": "Unfamiliar",
+      "url": "https://open.spotify.com/track/2du9UaU0EwtkVr7zfpq5QK"
+    },
+    {
+      "added_at": "2024-04-26 04:01:00",
+      "album": {
+        "name": "Eventually",
+        "url": "https://open.spotify.com/album/217C8pxwn8vx8wbOwZpR7v"
+      },
+      "artists": [
+        {
+          "name": "Devin Kennedy",
+          "url": "https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z"
+        }
+      ],
+      "duration_ms": 179068,
+      "name": "Eventually",
+      "url": "https://open.spotify.com/track/5nyxvBwlaBpXYLFD8rUQ9n"
+    },
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
@@ -75,6 +123,22 @@
       "duration_ms": 131949,
       "name": "BLACKBIIRD",
       "url": "https://open.spotify.com/track/7eEr7lgWYudwEKEaWCPiPI"
+    },
+    {
+      "added_at": "2024-04-26 04:01:00",
+      "album": {
+        "name": "Something You Can Hold",
+        "url": "https://open.spotify.com/album/4pcO6I05CFVRHzNtLx9Gvs"
+      },
+      "artists": [
+        {
+          "name": "Mason Ramsey",
+          "url": "https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz"
+        }
+      ],
+      "duration_ms": 179217,
+      "name": "Something You Can Hold",
+      "url": "https://open.spotify.com/track/3qqlyGEO02ZoW8OwYhuMq8"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -337,22 +401,6 @@
       "url": "https://open.spotify.com/track/5vCSjHa6tOvfr02DoBFwx9"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "So Sick Of Dreaming",
-        "url": "https://open.spotify.com/album/3WI6jJQhOD82xGYDLTjk0v"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 232080,
-      "name": "So Sick Of Dreaming",
-      "url": "https://open.spotify.com/track/4pUWfW7nhtlmqww70u0nkh"
-    },
-    {
       "added_at": "2024-03-29 04:01:00",
       "album": {
         "name": "Live Forever",
@@ -387,22 +435,6 @@
       "duration_ms": 242317,
       "name": "Some Things I'll Never Know (feat. Maren Morris)",
       "url": "https://open.spotify.com/track/3oSGigVd5RezNkTV9PRGmL"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -517,22 +549,6 @@
       "url": "https://open.spotify.com/track/2q3WnVVXT4xh4GA4O7cHF3"
     },
     {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Don't Forget Me",
-        "url": "https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 265360,
-      "name": "Don't Forget Me",
-      "url": "https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f"
-    },
-    {
       "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "Shape of Your Heart",
@@ -547,22 +563,6 @@
       "duration_ms": 206534,
       "name": "Shape of Your Heart",
       "url": "https://open.spotify.com/track/0f1E6odUPkerrBdVUFMnTw"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Falling for You",
-        "url": "https://open.spotify.com/album/2kTz24IgJaveP4je8XjYv7"
-      },
-      "artists": [
-        {
-          "name": "Devin Kennedy",
-          "url": "https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z"
-        }
-      ],
-      "duration_ms": 188953,
-      "name": "Falling for You",
-      "url": "https://open.spotify.com/track/0BeqFdVAkpVJHkFSl4EEf7"
     },
     {
       "added_at": "2024-03-01 05:00:00",

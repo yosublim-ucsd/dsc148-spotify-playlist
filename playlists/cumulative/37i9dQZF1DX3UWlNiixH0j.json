@@ -12391,6 +12391,36 @@
     },
     {
       "album": {
+        "name": "Playground feat. (sic)boy, HIYADAM",
+        "url": "https://open.spotify.com/album/4EUdDcEs1klHCudQrikdYx"
+      },
+      "artists": [
+        {
+          "name": "JUBEE",
+          "url": "https://open.spotify.com/artist/3NyJkvXLy5dg73SrT0ykba"
+        },
+        {
+          "name": "(sic)boy",
+          "url": "https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk"
+        },
+        {
+          "name": "Hiyadam",
+          "url": "https://open.spotify.com/artist/5akLOzzp3zMfvne1K2tv7e"
+        },
+        {
+          "name": "TSUBAME",
+          "url": "https://open.spotify.com/artist/5fBPKr4eFuZBnB8OCzo5QF"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224706,
+      "name": "Playground feat. (sic)boy, HIYADAM",
+      "url": "https://open.spotify.com/track/2sdFvhkpMzHCj2CyvhvGOh"
+    },
+    {
+      "album": {
         "name": "please me",
         "url": "https://open.spotify.com/album/38ecJqSh6YwmoUf6MavE0z"
       },
@@ -24962,7 +24992,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 183709,
       "name": "\u5dee\u3057\u8272",
       "url": "https://open.spotify.com/track/2AE8eW32N5jimZ9wVO39Br"

@@ -4,7 +4,7 @@
 
 > Os monstros e as novas caras do Metal nacional e internacional! Foto: ANGRA
 
-122 songs - 9 hr 13 min
+123 songs - 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Days Of Future Past](https://open.spotify.com/track/2L42uB1e5wuanTTPEWVe64) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Senjutsu](https://open.spotify.com/album/3TymcPWXqsCRA5oSL0TkPU) | 4:03 | 2024-04-05 |  |
 | [Days Of Future Past](https://open.spotify.com/track/5grapy5yRWQo4MjOb9nNjY) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Senjutsu](https://open.spotify.com/album/4bBIsMKf6EmHRlhBwtC33N) | 4:03 | 2023-07-14 | 2023-11-04 |
 | [Days of Future Past](https://open.spotify.com/track/7abedqPfYaZj2K89xdoipX) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Senjutsu](https://open.spotify.com/album/2eS8TWeAeQcWNffxpOiabt) | 4:03 | 2023-11-03 | 2024-04-19 |
+| [Dogs Of War](https://open.spotify.com/track/1AuwWGznBvI76jOF8cZ4E4) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dogs Of War](https://open.spotify.com/album/5vjqRLo7DxbwVwfiO0DpCz) | 4:04 | 2024-04-26 |  |
 | [Draining Me](https://open.spotify.com/track/3I47pT8Tyg5AyOjxZHEfvP) | [Worst](https://open.spotify.com/artist/50Gz8NDlBXc8bKNUqlQlQp) | [Deserto](https://open.spotify.com/album/267sNJGcmma5Zk4chbP3jl) | 2:39 | 2023-07-14 | 2024-02-24 |
 | [Earth & Sky](https://open.spotify.com/track/2qDLrNb2xpbiNx7kjJVSFl) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [EARTHANDSKY](https://open.spotify.com/album/0EHmXB33t1PfUvZ8dqXg6W) | 4:09 | 2023-11-03 | 2024-04-19 |
 | [Earth & Sky](https://open.spotify.com/track/5ZvbwDbhiFMbaywLJo6SmN) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Earth & Sky](https://open.spotify.com/album/6NxMsVkNmPY0bUfyQFhCDm) | 4:09 | 2023-07-14 |  |
@@ -35,7 +36,7 @@
 | [Face of the Storm](https://open.spotify.com/track/4X8OFcU0z00WUHVV3n87u2) | [Edu Falaschi](https://open.spotify.com/artist/5BrPgtYnoVfEoDYzw0AHGz), [Max Cavalera](https://open.spotify.com/artist/6p9q2PEuRNRMIXy0mxtDaf) | [Vera Cruz](https://open.spotify.com/album/0gdT0litKVAVcypvujGegm) | 7:30 | 2023-07-14 | 2024-04-19 |
 | [False \- 2021 \- Remaster](https://open.spotify.com/track/75rdMM7Tqq1P4mFrJGD5fc) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Dante XXI \(2021 \- Remaster\)](https://open.spotify.com/album/7ERVgqxIIkmy5CfPRlWrWi) | 3:34 | 2024-04-05 |  |
 | [False \- 2021 Remaster](https://open.spotify.com/track/3YTHpaZDCCd8NXwQoRaZob) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Dante XXI \(2021 Remaster\)](https://open.spotify.com/album/7rX8txeF5YyFsCbDvUxU3R) | 3:34 | 2023-11-03 | 2024-04-19 |
-| [Faster](https://open.spotify.com/track/3Q8fUwTH6tRIUfwLcZq3U8) | [Soulspell](https://open.spotify.com/artist/4YmdAxENgEABrxFj8zRSsA), [Talita Quintano](https://open.spotify.com/artist/6GaYWEd64lYBWbemxq0sP7), [Fábio Caldeira](https://open.spotify.com/artist/6p28jKesBQisadiTLVwCiS), [Victor Emeka](https://open.spotify.com/artist/7DICtuyHfL4tNDtM9AneG7) | [Faster](https://open.spotify.com/album/6iFeDARJar04FmDL4fz1aB) | 4:10 | 2023-07-14 |  |
+| [Faster](https://open.spotify.com/track/3Q8fUwTH6tRIUfwLcZq3U8) | [Soulspell](https://open.spotify.com/artist/4YmdAxENgEABrxFj8zRSsA), [Talita Quintano](https://open.spotify.com/artist/6GaYWEd64lYBWbemxq0sP7), [Fábio Caldeira](https://open.spotify.com/artist/6p28jKesBQisadiTLVwCiS), [Victor Emeka](https://open.spotify.com/artist/7DICtuyHfL4tNDtM9AneG7) | [Faster](https://open.spotify.com/album/6iFeDARJar04FmDL4fz1aB) | 4:10 | 2023-07-14 | 2024-04-27 |
 | [Fighting Gravity](https://open.spotify.com/track/0bLslvYS3YLWjzNarlieUn) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Echo](https://open.spotify.com/album/5pCBuV5mhXIUonyuWL5EZd) | 4:56 | 2023-07-14 | 2024-04-19 |
 | [Fighting Gravity](https://open.spotify.com/track/4g0mCLGfAuDATAfmTggACN) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Fighting Gravity](https://open.spotify.com/album/0lPt244kh0WjCRgkSLBicz) | 4:56 | 2024-04-05 |  |
 | [Flanger Halen](https://open.spotify.com/track/6RF75LPULQRDy0jDq3TLIH) | [Vns Vinicius the Guitar Ripping](https://open.spotify.com/artist/6QAFhpCpL85jFpLSBeAJLj) | [Flanger Halen](https://open.spotify.com/album/7Mb5i8A5V3jdUDJIv9f2Ux) | 4:02 | 2023-07-14 |  |

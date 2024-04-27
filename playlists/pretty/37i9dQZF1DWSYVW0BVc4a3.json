@@ -1,12 +1,12 @@
 {
   "description": "that's how we do it",
-  "num_followers": 134494,
+  "num_followers": 134617,
   "original_name": "Open Air",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDA4MjQwMCwwMDAwMDAwMGEwZGJjNTFjOTcyNGU0NjQzZmIzMzQ5ODJkYTcyMGFj",
+  "snapshot_id": "MTcxNDE0OTU5NywwMDAwMDAwMDk5NmU1YjUzYzQ2Y2FmNzkxZmYyNWFkN2ZmMmU0YzBi",
   "tracks": [
     {
       "added_at": "2024-04-25 22:00:00",
@@ -175,6 +175,26 @@
       "duration_ms": 203538,
       "name": "Fake Friends",
       "url": "https://open.spotify.com/track/4ARgEF9WuWcIMPhyBHeXwk"
+    },
+    {
+      "added_at": "2024-04-26 16:39:57",
+      "album": {
+        "name": "FORTE Remixes, Pt. 01",
+        "url": "https://open.spotify.com/album/3o4x76PS3Wo12ToLw8U8Ev"
+      },
+      "artists": [
+        {
+          "name": "Pan-Pot",
+          "url": "https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se"
+        },
+        {
+          "name": "LUMI",
+          "url": "https://open.spotify.com/artist/2GhZq7k05EWdvb4cS2RQG5"
+        }
+      ],
+      "duration_ms": 352947,
+      "name": "BOND - Lumi Remix",
+      "url": "https://open.spotify.com/track/2SskIeGvqPDEayWTQ0SQ2S"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -383,6 +403,42 @@
       "duration_ms": 258236,
       "name": "Nothing Ever Changes - Camelphat Remix",
       "url": "https://open.spotify.com/track/2g0mTSsQCz7C36ee5Varka"
+    },
+    {
+      "added_at": "2024-04-26 16:39:57",
+      "album": {
+        "name": "Switch",
+        "url": "https://open.spotify.com/album/4Q7FCSBd5QJqOehksCM0E3"
+      },
+      "artists": [
+        {
+          "name": "Layer J",
+          "url": "https://open.spotify.com/artist/48KALXBf9Ookq2j30lSKBf"
+        }
+      ],
+      "duration_ms": 397555,
+      "name": "Switch",
+      "url": "https://open.spotify.com/track/1OKi8vJj0O2dB94BFEtGaE"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "WRITER'S BLOCK",
+        "url": "https://open.spotify.com/album/2SyzFeDGPhNkeL6VRJ2peX"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hill",
+          "url": "https://open.spotify.com/artist/0mpUHzHesNAyD4y42cWOWr"
+        },
+        {
+          "name": "Nihil Young",
+          "url": "https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC"
+        }
+      ],
+      "duration_ms": 420855,
+      "name": "Writers Block - Nihil Young Remix",
+      "url": "https://open.spotify.com/track/7r7yVzIR12cRIuFhmcQEvM"
     },
     {
       "added_at": "2024-04-25 22:00:00",

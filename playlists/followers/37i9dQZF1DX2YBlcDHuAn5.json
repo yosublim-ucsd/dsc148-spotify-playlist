@@ -1,5 +1,5 @@
 {
-  "2024-04-26": 7251,
+  "2024-04-27": 7282,
   "date_first_scraped": "2023-02-25",
   "description": "De mooiste muziek: Americana | Country",
   "name": "Route Americana",
@@ -107,7 +107,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 199500,
       "name": "Be My Guest",
       "url": "https://open.spotify.com/track/7HvwU0z0my31zUwSDCrD1x"
@@ -1673,6 +1673,24 @@
       "duration_ms": 255213,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/2oD1II7gCnddoq5uj9KNhJ"
+    },
+    {
+      "album": {
+        "name": "Kingdom of Mine",
+        "url": "https://open.spotify.com/album/3dL0RlVCmTtQxjbK1SUsrI"
+      },
+      "artists": [
+        {
+          "name": "Timo de Jong",
+          "url": "https://open.spotify.com/artist/0T34mF36A6mzLMqC0uoz7x"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257000,
+      "name": "Ring Them Bells",
+      "url": "https://open.spotify.com/track/3eY1GBvBx6n6sjdxCYFkoO"
     },
     {
       "album": {

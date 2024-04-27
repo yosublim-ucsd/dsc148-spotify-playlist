@@ -1,5 +1,5 @@
 {
-  "2024-04-26": 199210,
+  "2024-04-27": 199259,
   "date_first_scraped": "2021-12-29",
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Gerilson Insrael",
   "name": "Dancing Kizomba",
@@ -613,7 +613,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 179525,
       "name": "Babe",
       "url": "https://open.spotify.com/track/0yRWRVOjrrAvxOQ9ykRjM5"
@@ -1049,7 +1049,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 184242,
       "name": "Cabo Verde",
       "url": "https://open.spotify.com/track/4ZaJIFetJil7VcxS6v4acb"
@@ -2299,6 +2299,28 @@
       "duration_ms": 202113,
       "name": "Fica Comigo",
       "url": "https://open.spotify.com/track/01qO8ZCxyp07BHfsigcI5P"
+    },
+    {
+      "album": {
+        "name": "Fica longi bo",
+        "url": "https://open.spotify.com/album/4aWV8TxkTIf0FItHx20cOc"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Dias",
+          "url": "https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml"
+        },
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198799,
+      "name": "Fica longi bo",
+      "url": "https://open.spotify.com/track/74CP5TIs7o1S14ArcC8Jdz"
     },
     {
       "album": {
@@ -4469,6 +4491,24 @@
       "duration_ms": 285116,
       "name": "O Jeito Dela - Original Mix",
       "url": "https://open.spotify.com/track/5sWHddw9qAaa5nlfNzYeCn"
+    },
+    {
+      "album": {
+        "name": "O Jeito Dela",
+        "url": "https://open.spotify.com/album/3soRnkMgKurzDLFH41Zb8g"
+      },
+      "artists": [
+        {
+          "name": "Gasso",
+          "url": "https://open.spotify.com/artist/4vmi92Wdt4eTFUA6o4ST0i"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216127,
+      "name": "O Jeito Dela - Radio Edit",
+      "url": "https://open.spotify.com/track/1IPfgonCiEuHRIsDddkBWq"
     },
     {
       "album": {

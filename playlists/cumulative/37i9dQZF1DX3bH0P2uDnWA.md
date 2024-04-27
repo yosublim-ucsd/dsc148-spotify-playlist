@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-367 songs - 20 hr 54 min
+368 songs - 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Black Swing](https://open.spotify.com/track/1A2CIDh8zIqey6CRfYY6Oo) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Black Swing](https://open.spotify.com/album/3Clc9pQvWIMdFAe6k9vbwP) | 3:18 | 2023-01-20 | 2023-04-01 |
 | [Booty Swing](https://open.spotify.com/track/3sMleqdCDalZ6xsAQe8xuY) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px) | [The Princess, Pt\. Two](https://open.spotify.com/album/7p72vm3axkMsrAMBwl7d3T) | 3:17 | 2020-10-30 | 2023-03-11 |
 | [Boring 20s](https://open.spotify.com/track/7pgaS0ix47UoKdBEqvgx01) | [Tamela D'Amico](https://open.spotify.com/artist/7GBJeLHS04OjBvxpGMFXYo), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Ashley Slater](https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62) | [Boring 20s](https://open.spotify.com/album/2AqxV8iRa5sCwT1DHNpcDg) | 2:50 | 2022-05-13 | 2024-04-06 |
+| [Boring 20s \- Betty Booom Remix](https://open.spotify.com/track/1J9BJ1Px6IB5mBQiCfrlSv) | [Tamela D'Amico](https://open.spotify.com/artist/7GBJeLHS04OjBvxpGMFXYo), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Ashley Slater](https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62) | [Boring 20s \(Betty Booom Remix\)](https://open.spotify.com/album/3daonoHg3FU4SyBUtcEQbC) | 2:38 | 2024-04-26 |  |
 | [Boys Don't Cry](https://open.spotify.com/track/0suHjahTUrHRTiwqdjlM30) | [Damn the Witch Siren](https://open.spotify.com/artist/7cNpzcG39DLaQWrGqlIlBx) | [Gold Magic](https://open.spotify.com/album/2TGo61xXzrq8ozhGaSFTRl) | 3:34 | 2022-11-07 |  |
 | [Brass Devil](https://open.spotify.com/track/4xbXOQPA963yrJXksBPt51) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px) | [Brass Devil](https://open.spotify.com/album/4uV6i7Odkg83F6muILQnFO) | 3:52 | 2020-10-30 | 2023-03-11 |
 | [Busy Doing Nothing](https://open.spotify.com/track/1WJkGgiuF9ye09HqMiU2Pw) | [The Swing Bot](https://open.spotify.com/artist/4oQFVFnnGSF6iFstCV0b7b), [Little Violet](https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE) | [Busy Doing Nothing](https://open.spotify.com/album/1UtlRgPOYym8XUmfFg9fLr) | 3:19 | 2023-07-07 |  |
@@ -78,7 +79,7 @@
 | [Dixie Biscuit \- Radio Edit](https://open.spotify.com/track/34aycmeaxuuxipebrdkLUP) | [Tape Five](https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko) | [Dixie Biscuit "The Shanghai Tapes"](https://open.spotify.com/album/1K8SDSlPA3NlSCI4dyuDny) | 3:19 | 2020-10-30 | 2022-07-29 |
 | [Dizzy \- Radio Edit](https://open.spotify.com/track/2PN0FcvL9PECkRvXFtandp) | [Balduin](https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Alanna Lyes](https://open.spotify.com/artist/7BljoID3up8yhSHHNKhSBy) | [Dizzy](https://open.spotify.com/album/0Ecc5qXRqwi4vmFcfH8pIb) | 2:53 | 2022-10-12 | 2023-11-07 |
 | [Dizzy Street](https://open.spotify.com/track/3OPqj5jqd5hkOU0rvZDXCl) | [The Swing Bot](https://open.spotify.com/artist/4oQFVFnnGSF6iFstCV0b7b) | [Dizzy Street](https://open.spotify.com/album/6kmaz5dSu6zmn7DQHXCIgP) | 3:25 | 2022-09-09 |  |
-| [Doin' the Jive \- Electro Swing Bot Mix](https://open.spotify.com/track/2qbiime4UphiqfrbwOnWly) | [The Swing Bot](https://open.spotify.com/artist/4oQFVFnnGSF6iFstCV0b7b) | [Doin' the Jive \(Electro Swing Bot Mix\)](https://open.spotify.com/album/6Fpt2EakjGJv1XgieKXX9p) | 3:25 | 2024-02-02 |  |
+| [Doin' the Jive \- Electro Swing Bot Mix](https://open.spotify.com/track/2qbiime4UphiqfrbwOnWly) | [The Swing Bot](https://open.spotify.com/artist/4oQFVFnnGSF6iFstCV0b7b) | [Doin' the Jive \(Electro Swing Bot Mix\)](https://open.spotify.com/album/6Fpt2EakjGJv1XgieKXX9p) | 3:25 | 2024-02-02 | 2024-04-27 |
 | [Don't Drink & Jive](https://open.spotify.com/track/0Q5ZeTsHkpNsRrvPlRztsj) | [Glenn Gatsby](https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Don't Drink & Jive](https://open.spotify.com/album/6ZvqaxzphRJf0RU7Mdpigk) | 2:31 | 2023-04-28 |  |
 | [Don't Stop](https://open.spotify.com/track/0hMBzK9Ng94hycB8JNBngU) | [Szigeti Juli](https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF) | [Don't Stop](https://open.spotify.com/album/71v6VF9QJskefv7GIj2ky2) | 3:02 | 2021-04-16 |  |
 | [Doo uap, doo uap, doo uap \- Radio edit](https://open.spotify.com/track/2Gq5sGynUL3gmg8MFaa2Ql) | [Gabin](https://open.spotify.com/artist/1SYoQVIV4djFVGt0En7qsQ) | [Hôtel Costes 5](https://open.spotify.com/album/56z0PjqvQmcukL8hj826Xj) | 3:35 | 2023-11-06 | 2024-02-07 |

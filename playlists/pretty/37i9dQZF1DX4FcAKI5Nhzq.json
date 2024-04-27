@@ -1,12 +1,12 @@
 {
   "description": "Future K-Pop hits! Cover: KIM WOOJIN",
-  "num_followers": 805147,
+  "num_followers": 805125,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzg2ODM5MywwMDAwMDAwMDZiMThkNDJhZDdlNWZhOGI1ZDdjMzYyZTgxZjY0NjUx",
+  "snapshot_id": "MTcxNDExNTEwMCwwMDAwMDAwMGQ5YTliOTBiYWUxMzVhODE4MTE4ZjI5NGFjM2I4M2Qy",
   "tracks": [
     {
       "added_at": "2024-04-23 10:33:13",
@@ -25,36 +25,20 @@
       "url": "https://open.spotify.com/track/6ERs9uORCo1MfV0m9ixCuv"
     },
     {
-      "added_at": "2024-04-22 09:00:00",
+      "added_at": "2024-04-26 07:02:35",
       "album": {
-        "name": "I LIKE THE WAY",
-        "url": "https://open.spotify.com/album/2z5FcX4RUgBLTocUB9pPgC"
+        "name": "SWEAT",
+        "url": "https://open.spotify.com/album/0s6DjhEFFZOUSfnFmPMVIG"
       },
       "artists": [
         {
-          "name": "KIM WOOJIN",
-          "url": "https://open.spotify.com/artist/2jAhpp38AMZvTHud2OJbvM"
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
         }
       ],
-      "duration_ms": 172226,
-      "name": "I Like The Way",
-      "url": "https://open.spotify.com/track/1K68S3pjjU9C4zbmxmY2yj"
-    },
-    {
-      "added_at": "2024-04-22 09:00:00",
-      "album": {
-        "name": "BABYMONS7ER",
-        "url": "https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4"
-      },
-      "artists": [
-        {
-          "name": "BABYMONSTER",
-          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
-        }
-      ],
-      "duration_ms": 170356,
-      "name": "SHEESH",
-      "url": "https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR"
+      "duration_ms": 191018,
+      "name": "SWEAT",
+      "url": "https://open.spotify.com/track/3BzjdhbQH8VlQ81RbvRoV8"
     },
     {
       "added_at": "2024-04-22 09:00:00",
@@ -75,6 +59,86 @@
     {
       "added_at": "2024-04-22 09:00:00",
       "album": {
+        "name": "I LIKE THE WAY",
+        "url": "https://open.spotify.com/album/2z5FcX4RUgBLTocUB9pPgC"
+      },
+      "artists": [
+        {
+          "name": "KIM WOOJIN",
+          "url": "https://open.spotify.com/artist/2jAhpp38AMZvTHud2OJbvM"
+        }
+      ],
+      "duration_ms": 172226,
+      "name": "I Like The Way",
+      "url": "https://open.spotify.com/track/1K68S3pjjU9C4zbmxmY2yj"
+    },
+    {
+      "added_at": "2024-04-26 07:02:35",
+      "album": {
+        "name": "<Pre 3 : Candy Crush>",
+        "url": "https://open.spotify.com/album/4CDFBhhclanfS0KglX7MWX"
+      },
+      "artists": [
+        {
+          "name": "ARTMS",
+          "url": "https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07"
+        }
+      ],
+      "duration_ms": 180600,
+      "name": "Candy Crush",
+      "url": "https://open.spotify.com/track/13ykJ1EkyTbiUIpj9WVaNe"
+    },
+    {
+      "added_at": "2024-04-26 07:05:00",
+      "album": {
+        "name": "Lovely Runner, Pt. 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5fqhw5RIuAu14Na1ld2FFC"
+      },
+      "artists": [
+        {
+          "name": "MINNIE",
+          "url": "https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX"
+        }
+      ],
+      "duration_ms": 249217,
+      "name": "Like A Dream",
+      "url": "https://open.spotify.com/track/4Kw1ykVLHoFQxOPSVd8R2E"
+    },
+    {
+      "added_at": "2024-04-22 09:00:00",
+      "album": {
+        "name": "BABYMONS7ER",
+        "url": "https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "duration_ms": 170356,
+      "name": "SHEESH",
+      "url": "https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR"
+    },
+    {
+      "added_at": "2024-04-26 07:05:00",
+      "album": {
+        "name": "BLUSH",
+        "url": "https://open.spotify.com/album/6wwhS7RzJx0qQS9SOeohZe"
+      },
+      "artists": [
+        {
+          "name": "WOOAH",
+          "url": "https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa"
+        }
+      ],
+      "duration_ms": 178840,
+      "name": "BLUSH",
+      "url": "https://open.spotify.com/track/0SheD3EFngYkmaDnjDuMd2"
+    },
+    {
+      "added_at": "2024-04-22 09:00:00",
+      "album": {
         "name": "SUPER REAL ME",
         "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
       },
@@ -87,6 +151,22 @@
       "duration_ms": 160688,
       "name": "Magnetic",
       "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
+    },
+    {
+      "added_at": "2024-04-26 07:05:00",
+      "album": {
+        "name": "Beautiful Shadow",
+        "url": "https://open.spotify.com/album/5nXv3AmmxYJit6u1OPkmMI"
+      },
+      "artists": [
+        {
+          "name": "ONF",
+          "url": "https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b"
+        }
+      ],
+      "duration_ms": 206480,
+      "name": "Bye My Monster",
+      "url": "https://open.spotify.com/track/7MV68p0TgX9YAo1y3SyjU8"
     },
     {
       "added_at": "2024-04-22 09:00:00",
@@ -103,6 +183,22 @@
       "duration_ms": 162880,
       "name": "Midas Touch",
       "url": "https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V"
+    },
+    {
+      "added_at": "2024-04-26 07:05:00",
+      "album": {
+        "name": "Queen of Tears (Original Television Soundtrack), Pt.8",
+        "url": "https://open.spotify.com/album/7IlGRv127ABNT0oN8xQUKK"
+      },
+      "artists": [
+        {
+          "name": "So Soo Bin",
+          "url": "https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic"
+        }
+      ],
+      "duration_ms": 248706,
+      "name": "Last Chance",
+      "url": "https://open.spotify.com/track/3VNm72yGbPkxaUMhoWk15s"
     },
     {
       "added_at": "2024-04-22 09:00:00",
@@ -603,22 +699,6 @@
     {
       "added_at": "2024-04-22 09:00:00",
       "album": {
-        "name": "The knight who can't die and the silk cradle",
-        "url": "https://open.spotify.com/album/2AuUWIKUhxvxoD2gS7Z2mG"
-      },
-      "artists": [
-        {
-          "name": "LUCY",
-          "url": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
-        }
-      ],
-      "duration_ms": 248613,
-      "name": "The knight who can't die and the silk cradle",
-      "url": "https://open.spotify.com/track/7liPa1ogr6uKLBBfuKuCJh"
-    },
-    {
-      "added_at": "2024-04-22 09:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3DSGgDuYRFGpmZjvm4sP3S"
       },
@@ -687,78 +767,6 @@
       "duration_ms": 183560,
       "name": "Diamond",
       "url": "https://open.spotify.com/track/4SjL5rKPVxe2K2FnjluuVa"
-    },
-    {
-      "added_at": "2024-04-22 09:00:00",
-      "album": {
-        "name": "Borderline",
-        "url": "https://open.spotify.com/album/3oKhPahFFjuFVbZfWprIkB"
-      },
-      "artists": [
-        {
-          "name": "YooA",
-          "url": "https://open.spotify.com/artist/4ur1jCwyNlhgd0viJkOtcQ"
-        }
-      ],
-      "duration_ms": 168653,
-      "name": "Rooftop",
-      "url": "https://open.spotify.com/track/2t3F6nsQqEw60KT8ma8dm4"
-    },
-    {
-      "added_at": "2024-04-22 09:00:00",
-      "album": {
-        "name": "2 Kids On The Block - Part.3",
-        "url": "https://open.spotify.com/album/7IbrzIkXcdevPIE4HnnFuR"
-      },
-      "artists": [
-        {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        }
-      ],
-      "duration_ms": 206173,
-      "name": "PITAPA (Feat. pH-1, JUNNY)",
-      "url": "https://open.spotify.com/track/1riVuC1J7WRgJhG5WrtXI4"
-    },
-    {
-      "added_at": "2024-04-22 09:00:00",
-      "album": {
-        "name": "Command C+Me (Korean Ver.)",
-        "url": "https://open.spotify.com/album/2MuSBLDI1BsUd7KG95WVKs"
-      },
-      "artists": [
-        {
-          "name": "JUN. K",
-          "url": "https://open.spotify.com/artist/4m69UKabjuuaoayREZud9h"
-        }
-      ],
-      "duration_ms": 171053,
-      "name": "Command C+Me (Korean Ver.)",
-      "url": "https://open.spotify.com/track/1TJC8umuPVI4Y0eFn5ROwe"
-    },
-    {
-      "added_at": "2024-04-22 09:00:00",
-      "album": {
-        "name": "HOUSE OF TRICKY : Trial And Error",
-        "url": "https://open.spotify.com/album/4JyXIbXVhgzCa7DU0K6V1O"
-      },
-      "artists": [
-        {
-          "name": "xikers",
-          "url": "https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht"
-        }
-      ],
-      "duration_ms": 189441,
-      "name": "We Don\u2019t Stop",
-      "url": "https://open.spotify.com/track/67ZvVtW278IHsAxnzglQt4"
     },
     {
       "added_at": "2024-04-22 09:00:00",
@@ -835,38 +843,6 @@
       "duration_ms": 182120,
       "name": "Easy",
       "url": "https://open.spotify.com/track/3Ved7PW54ZocefCpclZHcX"
-    },
-    {
-      "added_at": "2024-04-22 09:00:00",
-      "album": {
-        "name": "Falling Slowly",
-        "url": "https://open.spotify.com/album/4lG2OGvs8iKdosM1ehaZ4s"
-      },
-      "artists": [
-        {
-          "name": "DAESUNG",
-          "url": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
-        }
-      ],
-      "duration_ms": 237480,
-      "name": "Falling Slowly",
-      "url": "https://open.spotify.com/track/7efGmCE7FPDKmwyWnbcU0p"
-    },
-    {
-      "added_at": "2024-04-22 09:00:00",
-      "album": {
-        "name": "Lullaby",
-        "url": "https://open.spotify.com/album/7LbNOe1dTRHpP9hh48Merc"
-      },
-      "artists": [
-        {
-          "name": "HWANG MIN HYUN",
-          "url": "https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf"
-        }
-      ],
-      "duration_ms": 229373,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/5btyWod77lGbqKjEGRBvGw"
     },
     {
       "added_at": "2024-04-22 09:00:00",

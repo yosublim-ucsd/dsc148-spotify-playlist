@@ -509,7 +509,7 @@
     },
     {
       "album": {
-        "name": "Back To Back (feat. Future)",
+        "name": "Back To Back (feat. Future & Southside)",
         "url": "https://open.spotify.com/album/4nOq0yHDsHVyxBTXjTgKZD"
       },
       "artists": [
@@ -520,13 +520,17 @@
         {
           "name": "Future",
           "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Southside",
+          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
         }
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 185094,
-      "name": "Back To Back (feat. Future)",
+      "name": "Back To Back (feat. Future & Southside)",
       "url": "https://open.spotify.com/track/4VS68hFMSdb6adNtXIBGIz"
     },
     {

@@ -1,7 +1,7 @@
 {
-  "2024-04-26": 176627,
+  "2024-04-27": 176653,
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Dadju x Tayc",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Imen Es",
   "name": "R&Bae",
   "tracks": [
     {
@@ -3686,6 +3686,24 @@
     },
     {
       "album": {
+        "name": "Paqueta",
+        "url": "https://open.spotify.com/album/7z0iznP5UOTtityREHUvX0"
+      },
+      "artists": [
+        {
+          "name": "Merveille",
+          "url": "https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160142,
+      "name": "Paqueta",
+      "url": "https://open.spotify.com/track/1EXYDolm4Q74aoGv2qcjxZ"
+    },
+    {
+      "album": {
         "name": "Paradis",
         "url": "https://open.spotify.com/album/5LfYlTPsOjWOniv1s96cJE"
       },
@@ -3737,7 +3755,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 172682,
       "name": "Parce que c'est toi",
       "url": "https://open.spotify.com/track/1ruoMifwZ1IDfsPz4j99EN"
@@ -4543,7 +4561,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 178853,
       "name": "SEULE (AGAIN)",
       "url": "https://open.spotify.com/track/5jHthJFk8TMUGDy532jiof"
@@ -4841,6 +4859,24 @@
       "duration_ms": 162971,
       "name": "T'avais raison",
       "url": "https://open.spotify.com/track/1xlVMFQ2d7ceUYjUOp431H"
+    },
+    {
+      "album": {
+        "name": "T'oublier",
+        "url": "https://open.spotify.com/album/4rqWSfrrmZQDTicb0bqK5t"
+      },
+      "artists": [
+        {
+          "name": "Imen Es",
+          "url": "https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207335,
+      "name": "T'oublier",
+      "url": "https://open.spotify.com/track/1s8V2V6pEa5T1LXcuOdrLI"
     },
     {
       "album": {

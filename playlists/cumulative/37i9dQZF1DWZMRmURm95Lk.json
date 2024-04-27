@@ -4289,6 +4289,28 @@
     },
     {
       "album": {
+        "name": "Laid Back",
+        "url": "https://open.spotify.com/album/3J8xm3EGgGjzCpkjUQ7Aui"
+      },
+      "artists": [
+        {
+          "name": "Armani Doc",
+          "url": "https://open.spotify.com/artist/7djBWDVQvjaDbC8rSilpLC"
+        },
+        {
+          "name": "ThinkFast",
+          "url": "https://open.spotify.com/artist/0zY3rKlVW1d0tMW7gZyX3T"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Laid Back",
+      "url": "https://open.spotify.com/track/4mH5rfbzVyo1zjMazlOlCl"
+    },
+    {
+      "album": {
         "name": "Lampi nel blu",
         "url": "https://open.spotify.com/album/0tzNaCr31xwZs6iwTCTGyK"
       },

@@ -2236,7 +2236,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 195078,
       "name": "City Life",
       "url": "https://open.spotify.com/track/3yp1VIzV5AjvvzzrgJ18SM"
@@ -3908,7 +3908,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 234839,
       "name": "EYE (Feat. BIG Naughty, JUSTHIS) (Prod. R.Tee)",
       "url": "https://open.spotify.com/track/20JkEhlKCrKtzORT5qDdWE"
@@ -5286,6 +5286,24 @@
       "duration_ms": 200200,
       "name": "help me out o kill me not",
       "url": "https://open.spotify.com/track/6sdYTTPhLOWVlIg11mgvh7"
+    },
+    {
+      "album": {
+        "name": "Hey Boy !",
+        "url": "https://open.spotify.com/album/3et0pb0CVdufpFGSwzTDf4"
+      },
+      "artists": [
+        {
+          "name": "Claire Hau",
+          "url": "https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201500,
+      "name": "Hey Boy !",
+      "url": "https://open.spotify.com/track/5acMkZJUeNP9NVyvaZEoQ0"
     },
     {
       "album": {
@@ -14346,6 +14364,32 @@
       "duration_ms": 205600,
       "name": "Yellow Cab",
       "url": "https://open.spotify.com/track/6KZ5tQzMzradTe0pxsfObz"
+    },
+    {
+      "album": {
+        "name": "Diminished",
+        "url": "https://open.spotify.com/album/6YX73BggU7ueaQzV9PKXiO"
+      },
+      "artists": [
+        {
+          "name": "twlv",
+          "url": "https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "REDDY",
+          "url": "https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166750,
+      "name": "YES (feat. Jay Park, REDDY)",
+      "url": "https://open.spotify.com/track/7LlIANXlJFhzDHGqugugTp"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Hits da Internet](https://open.spotify.com/playlist/37i9dQZF1DXd2wJvXxyJb8)
 
-> qria tanto uma casca pra minha bala
+> as gigantes da internê
 
 401 songs - 18 hr 53 min
 

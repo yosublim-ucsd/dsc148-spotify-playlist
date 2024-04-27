@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Braxton Brothers
 
-456 songs - 1 day 8 hr 22 min
+457 songs - 1 day 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Back Here Again](https://open.spotify.com/track/4aFxPMwIfbTiq5eY6tUGJg) | [Bluey](https://open.spotify.com/artist/3JYDa2gsS6juqnzBT9wdm9) | [Back Here Again](https://open.spotify.com/album/6RKSoCAV3UIeUZhJXHPXgm) | 4:25 | 2021-01-22 | 2022-03-18 |
 | [Back Together Again](https://open.spotify.com/track/7vrrSnTU9faevmw0z7f3Ma) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP) | [Back Together Again](https://open.spotify.com/album/3vd6uv3pD75e9UaRmwocoD) | 4:04 | 2021-02-05 | 2022-03-17 |
 | [Bado Boy!](https://open.spotify.com/track/3kRX7GtOlik8LeG62lekqb) | [Brian Bromberg](https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h) | [Bado Boy!](https://open.spotify.com/album/5qr5HLIjVCmynsnnc9uEKc) | 5:08 | 2021-04-23 | 2022-03-17 |
-| [Bah\-De\-Yah!](https://open.spotify.com/track/4L33U0CZe1UTQe6pvkqT20) | [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Bah\-De\-Yah!](https://open.spotify.com/album/1H2hkwOmlXmQ2acA8WmaRJ) | 4:19 | 2024-04-05 |  |
+| [Bah\-De\-Yah!](https://open.spotify.com/track/4L33U0CZe1UTQe6pvkqT20) | [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Bah\-De\-Yah!](https://open.spotify.com/album/1H2hkwOmlXmQ2acA8WmaRJ) | 4:19 | 2024-04-05 | 2024-04-27 |
 | [Balance](https://open.spotify.com/track/5YbkLLd2HizawqpBRDTDQX) | [Vandell Andrew](https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW) | [Balance](https://open.spotify.com/album/19FsWLk3xJIVArsQlTuxNL) | 3:40 | 2020-10-30 | 2022-03-18 |
 | [Barcelona](https://open.spotify.com/track/5ruzvCeaC09Mr6qkDvCN38) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [Soul Connection](https://open.spotify.com/album/3zUlPoE9q6kZyW6UzyhlNs) | 3:45 | 2023-06-16 |  |
 | [BE](https://open.spotify.com/track/1ANBQN9O3eh7BWxAPD8VHs) | [Vandell Andrew](https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW) | [BE](https://open.spotify.com/album/5z07OB4UMfagVNpQOAErSU) | 3:10 | 2022-10-28 | 2024-04-06 |
@@ -308,6 +308,7 @@
 | [Ordinary Days](https://open.spotify.com/track/5c7YEUJ3RB5yzD7WLZK7H0) | [Cal Harris Jr.](https://open.spotify.com/artist/1rqcgKphKy4FoYO505o49R) | [Ordinary Days](https://open.spotify.com/album/2iVU9lIpXfu1LCZUnvLs93) | 3:40 | 2021-04-02 | 2022-03-18 |
 | [Our Night](https://open.spotify.com/track/0MVwhMNLPjnZssyiYPDrg4) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn) | [Our Night](https://open.spotify.com/album/11S03JFEOKyrRjabBbhIyt) | 4:04 | 2023-06-23 |  |
 | [Overjoyed](https://open.spotify.com/track/5id4jZ159bRygfcoEtq7Sh) | [Nathan Mitchell](https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX) | [Nathan Mitchell Presents: Donny, Duke, and Wonder](https://open.spotify.com/album/5sEHz24lJVoC6XnPbVsmjS) | 4:09 | 2020-10-30 | 2022-03-17 |
+| [Pillow Talk](https://open.spotify.com/track/3nkzHkfXixW2X79TYwzdbd) | [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Pillow Talk](https://open.spotify.com/album/5R4zxG9jGuY4IFYkqQL0z8) | 4:32 | 2024-04-26 |  |
 | [Pioneer Town](https://open.spotify.com/track/53djpTONT01aF8xYjuLosr) | [David Benoit](https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu) | [A Midnight Rendezvous](https://open.spotify.com/album/3up7BY3W1z8pMNipUQOl7x) | 3:57 | 2022-02-14 | 2023-06-10 |
 | [Pirate's Cove \- Alternate Version](https://open.spotify.com/track/0mX1zEA5rPyFDYXfoST0N5) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK), [Dan Fornero](https://open.spotify.com/artist/6qjRjodgORE8NHVMK71Mc7) | [Pirate's Cove](https://open.spotify.com/album/000gHk5TtVLp7LLAWsSlhm) | 4:37 | 2020-10-30 | 2022-02-18 |
 | [Planet Smooth](https://open.spotify.com/track/4DNJiQa3gRSzItuC5vdR4Z) | [Dean James](https://open.spotify.com/artist/31xSrTUCyFSh7BaN6eZIgu) | [GroovySax](https://open.spotify.com/album/5iq65xFLZsMa8GcjXN1UC3) | 4:11 | 2021-08-20 | 2022-09-17 |

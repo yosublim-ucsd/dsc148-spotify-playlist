@@ -395,6 +395,24 @@
     },
     {
       "album": {
+        "name": "Para Levi: Parte 1",
+        "url": "https://open.spotify.com/album/0lKNqBTPlvZeq54DWnjTxX"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109530,
+      "name": "As \u00c1rvores Balan\u00e7am",
+      "url": "https://open.spotify.com/track/5MWJlb6uzk7fDNx8GyGMsx"
+    },
+    {
+      "album": {
         "name": "Autor da Vida",
         "url": "https://open.spotify.com/album/4gHZbXybaO7k9sQducvAeN"
       },
@@ -1334,7 +1352,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 268750,
       "name": "Do Alto da Pedra: In Concert - Ao Vivo",
       "url": "https://open.spotify.com/track/1vIIWTw8tyl9NLABrJdMQg"
@@ -3312,7 +3330,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 338666,
       "name": "N\u00e3o D\u00e1 Pra Viver Sem Ti - Ao Vivo",
       "url": "https://open.spotify.com/track/2kfvjGjtxazlIz8Lxuwvy4"
@@ -5317,6 +5335,28 @@
     },
     {
       "album": {
+        "name": "T\u00e1 Tudo Bem (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6z2cMD2LWQgWA0C5YRVqXu"
+      },
+      "artists": [
+        {
+          "name": "Misaias Oliveira",
+          "url": "https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242963,
+      "name": "T\u00e1 Tudo Bem - Ao Vivo",
+      "url": "https://open.spotify.com/track/4lzbIdD7vHpWMs0SLIC2pa"
+    },
+    {
+      "album": {
         "name": "Um Refr\u00e3o Pra Sua Alma",
         "url": "https://open.spotify.com/album/4ZutxcTq9XmVHdKhGto4OI"
       },
@@ -5354,6 +5394,32 @@
       "duration_ms": 278000,
       "name": "Uma Nova Histo\u0301ria - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2xyhQb4ybKZzd8AdtqDEcB"
+    },
+    {
+      "album": {
+        "name": "Un\u00e7\u00e3o Pelo Ar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1vf5HDDGqzLvBsNV92pA22"
+      },
+      "artists": [
+        {
+          "name": "Gabi Sampaio",
+          "url": "https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ"
+        },
+        {
+          "name": "SOM DO C\u00c9U",
+          "url": "https://open.spotify.com/artist/4Tq5E0plsM6uNnLmxJWKNp"
+        },
+        {
+          "name": "N\u00edvea Izabella",
+          "url": "https://open.spotify.com/artist/22dXmOwdGFFSJhRnB9oXWJ"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 641142,
+      "name": "Un\u00e7\u00e3o Pelo Ar - Ao Vivo",
+      "url": "https://open.spotify.com/track/51K9AGSwKC6QTEMt7ic35E"
     },
     {
       "album": {
@@ -5778,7 +5844,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 451341,
       "name": "\u00c9 Jesus (Ao Vivo)",
       "url": "https://open.spotify.com/track/7nHPvZM13ckEpxauxF505o"

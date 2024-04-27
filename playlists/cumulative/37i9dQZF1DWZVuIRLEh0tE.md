@@ -4,7 +4,7 @@
 
 > Porque no to' e' Dembow en RD loco\. Portada: Dowba Montana
 
-355 songs - 17 hr 24 min
+357 songs - 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Detiene](https://open.spotify.com/track/2seCIG2j3lILUc7bLevkoa) | [GioBulla](https://open.spotify.com/artist/0Byw4aFEQbFJBgL82P0LKc) | [Detiene](https://open.spotify.com/album/1GVX9hE5N8ir2jehp08SF0) | 3:32 | 2024-03-29 | 2024-04-13 |
 | [Dia Feliz](https://open.spotify.com/track/2yo0tZjSJrIxI4lNZqHVYh) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Dia Feliz](https://open.spotify.com/album/6XPPdkSzI1t6xc4aIcuR3C) | 2:48 | 2023-09-29 | 2024-03-09 |
 | [Diablona](https://open.spotify.com/track/0WoS8Xeb60rK22NuShJv97) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Onguito](https://open.spotify.com/artist/5CEmVm4SbLawlq7evC42i0) | [Diablona](https://open.spotify.com/album/5WOuqQYFO6mp1rqIVCOENu) | 3:33 | 2022-03-15 | 2023-05-20 |
+| [Diamonds](https://open.spotify.com/track/5gLB5PhxXi6CH8ELgeS7E1) | [TRAMPA BILLONE](https://open.spotify.com/artist/6UCXzCbIzKfGAk8613o8qt), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Diamonds](https://open.spotify.com/album/6YfNG5iJi01emiqWlcFY0P) | 3:07 | 2024-04-26 |  |
 | [Diferente](https://open.spotify.com/track/551Obg2zJDyWg3AigjVyeG) | [Yeisi MR](https://open.spotify.com/artist/2CcLlmBb4uw7GjdZsHPiKe), [Paulus Music](https://open.spotify.com/artist/6Fs3AKFsg15trpdu92f7WR) | [Diferente](https://open.spotify.com/album/6ktYpvMBy06liW00kKUxNB) | 1:38 | 2024-01-12 | 2024-02-02 |
 | [Dime](https://open.spotify.com/track/03WvboIAz8l4bemwpW4r99) | [Eklectico](https://open.spotify.com/artist/16ZQZS3ZH1cXixotWa5LwC), [Don Forty Five](https://open.spotify.com/artist/10MSXbNvnGF8Hv1VyZdvNT) | [Dime](https://open.spotify.com/album/6mFKAOFq085ztxcnGII91s) | 2:40 | 2022-03-15 | 2022-05-28 |
 | [Dinero](https://open.spotify.com/track/3VxgFji6Yqtn8eSjiRAfy9) | [Harryson](https://open.spotify.com/artist/1x9Om8FmNPwwRjRFPnVVgm), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI) | [Dinero](https://open.spotify.com/album/6h9dkQ3QFyf8v17w2XOdyT) | 3:00 | 2022-11-25 |  |
@@ -172,6 +173,7 @@
 | [La Mamá de la Mamá](https://open.spotify.com/track/2L95U6syP0bV3fkYYOzmiW) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e), [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY) | [La Mamá de la Mamá](https://open.spotify.com/album/2WG76KEpCWL8c790ZIEXk7) | 3:39 | 2022-03-15 | 2023-02-18 |
 | [La Muerte](https://open.spotify.com/track/3tKbksvIxi9r2FfybRsZEu) | [King Fara](https://open.spotify.com/artist/1mVTlJBeGNJcdEZK9QOBUC) | [La Muerte](https://open.spotify.com/album/6thbeT968rFlYaZ9MigZXm) | 1:48 | 2023-08-24 | 2024-02-02 |
 | [La Más Linda](https://open.spotify.com/track/19ImEdyUwLNz3NIxtUA0tk) | [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV) | [La Más Linda](https://open.spotify.com/album/6GF8sUee8vHLzq3OFAW81J) | 2:42 | 2023-07-14 | 2024-02-24 |
+| [La Necesidad](https://open.spotify.com/track/4PyrE1y2BplalrcrAvOzRT) | [Jc La Nevula](https://open.spotify.com/artist/6KBhywwNM5dStjqjHeNndc) | [La Necesidad](https://open.spotify.com/album/1DcsAWs92vPjiX7bhdOUhM) | 2:44 | 2024-04-26 |  |
 | [La Sentite](https://open.spotify.com/track/4eR7dkrKdylRUjofJxiknZ) | [King Raylon](https://open.spotify.com/artist/7w44znz6P578fKTOdmCIYJ) | [La Sentite](https://open.spotify.com/album/3Rk1OF59JYQRgyVA5qoFem) | 2:14 | 2023-07-14 | 2024-02-02 |
 | [La Sombra](https://open.spotify.com/track/2iUzxiSnVzifiRrBKOVlPq) | [Mozart La Para](https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl), [Nitido Nintendo](https://open.spotify.com/artist/0W1sucg7Pw2nSfRZCKlnIB) | [La Sombra](https://open.spotify.com/album/5h0CJPy102Bfh1j1DHsOKd) | 3:20 | 2022-04-14 | 2022-09-24 |
 | [La Victoria Ta Bobo](https://open.spotify.com/track/22uq5Te3TotHZnTV3mWjWc) | [Kiry Curu](https://open.spotify.com/artist/3nb8360gVWO9vWGE16bE9A) | [La Victoria Ta Bobo](https://open.spotify.com/album/1ukEr5hPui2q8ha4JfUUho) | 2:38 | 2024-03-15 | 2024-04-06 |

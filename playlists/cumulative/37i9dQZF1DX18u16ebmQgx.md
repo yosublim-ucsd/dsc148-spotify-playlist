@@ -4,7 +4,7 @@
 
 > ¡Brillando baldosa! Foto: Grupo Niche
 
-127 songs - 9 hr 32 min
+129 songs - 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Cali Pachanguero](https://open.spotify.com/track/2NsUo4kJECYBdLEu8xTrk6) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Lo Mejor Del Grupo Niche \- Recordando a Jairo Varela](https://open.spotify.com/album/4Z3sTAnMZq6h0aD1xYCc3p) | 5:09 | 2023-08-04 |  |
 | [Cali Pachanguero](https://open.spotify.com/track/1Z6fpTTJelPqdI4CwvnpK4) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Sólo Hits](https://open.spotify.com/album/3lIJD63zpiEC1qgk0t1dZA) | 5:10 | 2022-06-24 | 2022-10-23 |
 | [Cali Pachanguero](https://open.spotify.com/track/6GsxCYC9UaL0J8b8MVrRqX) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [No Hay Quinto Malo](https://open.spotify.com/album/1ibD6liWR6qqeNgQay95gJ) | 5:10 | 2022-06-24 | 2024-04-19 |
+| [Cali Pachanguero 40 Años](https://open.spotify.com/track/64H2xGPNjBtXNsTWflotcl) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Cali Pachanguero 40 Años](https://open.spotify.com/album/4a75zchEpeHQj8y1A2kSRC) | 4:47 | 2024-04-26 |  |
 | [Canciones Viejas](https://open.spotify.com/track/6d9S2m4IKhvGxaX89PuBRo) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [40](https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk) | 4:20 | 2022-06-24 | 2022-12-03 |
 | [Caramelo](https://open.spotify.com/track/0vf2eKyBWP8CLDicddGSF2) | [Alquimia La Sonora Del XXI](https://open.spotify.com/artist/7Ei7ZObFHFq1YOGoYcDIPS) | [Tributo A Celia Cruz](https://open.spotify.com/album/0QjicKHJUZTYDrwNgopR9P) | 3:35 | 2023-08-04 |  |
 | [Caramelo](https://open.spotify.com/track/3XChc2lJ2X4mlo5lX726Yw) | [Alquimia La Sonora Del XXI](https://open.spotify.com/artist/7Ei7ZObFHFq1YOGoYcDIPS) | [Fiesta Latina Sigilosa Vol\. 4](https://open.spotify.com/album/2q87HYnblQriFvSllw2uhu) | 3:35 | 2022-06-24 | 2022-11-14 |
@@ -61,6 +62,7 @@
 | [La Flor de los Lindos Campos](https://open.spotify.com/track/5jrB7AWwtAdW1mGae1mFNN) | [Manyoma Brothers](https://open.spotify.com/artist/1jriNjegHWOysnyACg9Qe3), [Adalberto Santiago](https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd) | [La Flor de los Lindos Campos](https://open.spotify.com/album/2BUtJVFArByIESwG092wHR) | 3:53 | 2022-06-24 |  |
 | [La Gente Pide](https://open.spotify.com/track/7npSNwapk5Nh95T4y9V3ez) | [Grupo Galé](https://open.spotify.com/artist/4152ZUds7gXsqYQexUonDP) | [La Gente Pide](https://open.spotify.com/album/7fEGyyt4qPXd7XKusUrvL5) | 4:13 | 2023-08-04 |  |
 | [La Gente Pide](https://open.spotify.com/track/2FG1vENJylGnBFapXAWi57) | [La Gente Pide](https://open.spotify.com/artist/0SBZ8cqWJimTrGqpL4ecDr) | [Justa Calma](https://open.spotify.com/album/0DRfIvaLRYHJmlo2b555M9) | 4:13 | 2022-06-24 | 2024-04-19 |
+| [La Muy Muy](https://open.spotify.com/track/4KU7bb0onnNk9xE3kTQjca) | [Anddy Caicedo](https://open.spotify.com/artist/0Emz7Y7utBVunAblbfCdrC) | [Legado](https://open.spotify.com/album/6w6c6I4boXtlAaFKqe2skJ) | 5:47 | 2024-04-26 |  |
 | [La Noche](https://open.spotify.com/track/5PZSJ82pbleLjUcxbSBp6R) | [El Sonero de América](https://open.spotify.com/artist/4DcQLuuhUHDw7YiQRa8JCQ) | [35 Años de Exitos](https://open.spotify.com/album/4nfjoOl3eiSXqHulPYSAja) | 4:23 | 2023-03-24 | 2023-07-29 |
 | [La Noche](https://open.spotify.com/track/25efbZoVG3oCMii4XnB2zP) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Historia de la Salsa en el Siglo XX \(Vol\. 3\)](https://open.spotify.com/album/5cteav4JbTG3fF1nSVkZVs) | 4:23 | 2023-08-04 |  |
 | [La Noche](https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Milenario, Vol\. 3](https://open.spotify.com/album/3OKmxN48BfZ9AaQwQXVlW2) | 4:25 | 2022-06-24 | 2024-04-19 |
@@ -81,7 +83,7 @@
 | [Las Caleñas Son Como las Flores \(Remix\)](https://open.spotify.com/track/1g6ecQMjIB8t9LOBETovrs) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Piper Pimienta Diaz](https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX) | [Se Pega, Se Pega](https://open.spotify.com/album/7Arrg2rSiToFErzU1kyb80) | 3:53 | 2022-06-24 | 2022-11-13 |
 | [Lindo Yambú](https://open.spotify.com/track/1SRtV0s5iBamG2CQcNGvV1) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC) | [Una Voz Mil Recuerdos](https://open.spotify.com/album/6vBTlt4cTdscknR1BOQmRx) | 4:34 | 2022-06-24 | 2024-04-19 |
 | [Logré Olvidar](https://open.spotify.com/track/6jH9HbI5VQAhHT9Srddivo) | [Manyoma Brothers](https://open.spotify.com/artist/1jriNjegHWOysnyACg9Qe3) | [Soy la Generación](https://open.spotify.com/album/68OC8H6MlIrTIrOdTqO2tt) | 4:27 | 2022-11-29 |  |
-| [Majadera](https://open.spotify.com/track/1sqc4IHx9fN0kmgh9HuSt4) | [La\-33](https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u) | [Si Tú Quieres Salsa](https://open.spotify.com/album/5IwIMVTYxRrwAm5cUW0GoY) | 4:36 | 2022-06-24 |  |
+| [Majadera](https://open.spotify.com/track/1sqc4IHx9fN0kmgh9HuSt4) | [La\-33](https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u) | [Si Tú Quieres Salsa](https://open.spotify.com/album/5IwIMVTYxRrwAm5cUW0GoY) | 4:36 | 2022-06-24 | 2024-04-27 |
 | [Manyoma](https://open.spotify.com/track/3TA9nq749Dfq7VwirwPuiJ) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob) | [The Afrosound Of Colombia Volume 1](https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf) | 4:08 | 2022-06-24 |  |
 | [Manyoma](https://open.spotify.com/track/2MGT7BNwjf3c6DbhXqBaW9) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Fruko el Grande](https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C) | 4:08 | 2022-12-02 | 2023-03-04 |
 | [Margie](https://open.spotify.com/track/4ALuTupX7toAc7rZRgQGaD) | [Anddy Caicedo](https://open.spotify.com/artist/0Emz7Y7utBVunAblbfCdrC) | [Margie](https://open.spotify.com/album/0A9INqN4aDvTOOd7BwrgWE) | 3:31 | 2023-09-15 |  |
@@ -132,7 +134,7 @@
 | [Soy de Lo Peor](https://open.spotify.com/track/74GBtgq1XjVrNdp5Lv1jbM) | [Maite Hontelé](https://open.spotify.com/artist/1Pe4MoTbike2NZeexUUBrU), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Cuba Linda](https://open.spotify.com/album/5XhWe2O6ZHYu33IE67buw7) | 4:20 | 2022-06-24 |  |
 | [Te Necesito](https://open.spotify.com/track/4oNLeMYQUM4qfmZvfrToA0) | [Janco Janner](https://open.spotify.com/artist/35WCIgNwjL6uCOXb8MGWhn) | [Dilema](https://open.spotify.com/album/7174cMsFU58E6JGbi3XOFK) | 4:15 | 2022-06-24 | 2023-09-16 |
 | [Tocando el Cielo Con las Manos](https://open.spotify.com/track/4QhxN9hf5LWvYIqJcjwxQ6) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Tocando el Cielo Con las Manos](https://open.spotify.com/album/7lQolVdhEBRtv8Ayzhi2p4) | 4:47 | 2022-11-29 |  |
-| [Un Amor Bonito](https://open.spotify.com/track/0OxXwVoPuyoDG20ZKFX93k) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Sin Par](https://open.spotify.com/album/6oiSNtHH7vCAor8nVogNdG) | 4:16 | 2022-06-24 |  |
+| [Un Amor Bonito](https://open.spotify.com/track/0OxXwVoPuyoDG20ZKFX93k) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Sin Par](https://open.spotify.com/album/6oiSNtHH7vCAor8nVogNdG) | 4:16 | 2022-06-24 | 2024-04-27 |
 | [Vendedora de Amor](https://open.spotify.com/track/3uzuhX2qGvWN1XbqXWsx1v) | [Moncho Santana](https://open.spotify.com/artist/2JqEiy0aIziuAupest70fk) | [Aqui Estoy](https://open.spotify.com/album/17PeYAzeVDjmS3mP121grU) | 4:35 | 2022-06-24 |  |
 | [Ya No Me Llames Mas](https://open.spotify.com/track/1P8jEZ9Nr4RNjkh4nsEEFM) | [Janco Janner](https://open.spotify.com/artist/35WCIgNwjL6uCOXb8MGWhn) | [Ya No Me Llames Mas](https://open.spotify.com/album/75cfkR9HaYCbWRUfDyJbNh) | 4:13 | 2022-06-24 |  |
 

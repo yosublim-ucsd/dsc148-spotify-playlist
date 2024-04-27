@@ -2,7 +2,7 @@
 
 ### [100 DK](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> ny dansk rap og andet i den vibe 🚨 nyt fra: ICEKIID, Lamin / Anton Westerlin, Merro8, MAS & Hans Philip 🚨
+> hit rap og andet i den vibe 🚨 nyt fra: ICEKIID, Lamin / Anton Westerlin, Merro8, MAS & Hans Philip 🚨
 
 164 songs - 7 hr 8 min
 

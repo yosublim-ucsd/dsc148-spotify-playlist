@@ -1997,6 +1997,28 @@
     },
     {
       "album": {
+        "name": "Hoon Galat",
+        "url": "https://open.spotify.com/album/7vCtoQtl0ZV7l4j3LgCcqK"
+      },
+      "artists": [
+        {
+          "name": "Shashaa Tirupati",
+          "url": "https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW"
+        },
+        {
+          "name": "Mesbah Ghamsari",
+          "url": "https://open.spotify.com/artist/7gUOcZFmplHsmR0tkDujgR"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290201,
+      "name": "Hoon Galat",
+      "url": "https://open.spotify.com/track/2860YVDNO2Rc3QdcArn8i5"
+    },
+    {
+      "album": {
         "name": "Retropanda - Part 1",
         "url": "https://open.spotify.com/album/5odDznxSWBaYDjEAUCoQgS"
       },
@@ -6780,7 +6802,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 483377,
       "name": "Vidai",
       "url": "https://open.spotify.com/track/77Yun8NJpZjcogPS07s1ld"

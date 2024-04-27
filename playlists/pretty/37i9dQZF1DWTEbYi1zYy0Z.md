@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Braxton Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,957 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,972 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Embrace \(feat\. Bill Moio\)](https://open.spotify.com/track/0A60YL05a4dKpmwxVGSxMk) | [Randy Scott](https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw), [Bill Moio](https://open.spotify.com/artist/57KNtssASqOvVdx2230rGg) | [Embrace \(feat\. Bill Moio\)](https://open.spotify.com/album/6SBpoAb0N3eziBGGLAHrSU) | 4:58 |
-| 2 | [Irresistible](https://open.spotify.com/track/2S50AzAPblRT9Q3WsKzrTQ) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Love and Rhythm](https://open.spotify.com/album/7EhoGqBebIngl6i93kWOJl) | 5:26 |
-| 3 | [Simplified Era](https://open.spotify.com/track/017Sl0IMG6IGeMftMUC6fY) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Simplified Era](https://open.spotify.com/album/6S4WLXjXX9QpT6DBRWgQrQ) | 2:12 |
-| 4 | [Time Out](https://open.spotify.com/track/7ivjwPHFoM9MzbyuWYf50T) | [Paula Atherton](https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6) | [Dancin' Shoes](https://open.spotify.com/album/6belLLcGyIpignX9wYStN8) | 4:29 |
-| 5 | [Foreplay](https://open.spotify.com/track/2IlRDMMruJWUHrMr4b1vzl) | [Willie Bradley](https://open.spotify.com/artist/4gbsj58PegOOgFxc5OfIt3) | [Foreplay](https://open.spotify.com/album/2z8agb6cD8BozTL49Mx5Ap) | 4:23 |
-| 6 | [Low Down](https://open.spotify.com/track/5dxOLud7aVA9cWTqrfOlxz) | [Chris "Big Dog" Davis](https://open.spotify.com/artist/057eeHuaF5QTCQ76X2PRZ5), [Ryan La Valette](https://open.spotify.com/artist/3rgBKSCXw2UtxMyjzo5HjW) | [Low Down](https://open.spotify.com/album/3SmcxCHqMgh4Qj4MCQC4jz) | 4:19 |
-| 7 | [Grass\-Fed Funk](https://open.spotify.com/track/0snsRf7lSLTEvDxoGjSjP8) | [Oli Silk](https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE), [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf) | [Grass\-Fed Funk](https://open.spotify.com/album/6HrgzDHYrshIlEglpxaoJj) | 5:06 |
-| 8 | [Bah\-De\-Yah!](https://open.spotify.com/track/4L33U0CZe1UTQe6pvkqT20) | [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Bah\-De\-Yah!](https://open.spotify.com/album/1H2hkwOmlXmQ2acA8WmaRJ) | 4:19 |
+| 1 | [Pillow Talk](https://open.spotify.com/track/3nkzHkfXixW2X79TYwzdbd) | [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Pillow Talk](https://open.spotify.com/album/5R4zxG9jGuY4IFYkqQL0z8) | 4:32 |
+| 2 | [Embrace \(feat\. Bill Moio\)](https://open.spotify.com/track/0A60YL05a4dKpmwxVGSxMk) | [Randy Scott](https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw), [Bill Moio](https://open.spotify.com/artist/57KNtssASqOvVdx2230rGg) | [Embrace \(feat\. Bill Moio\)](https://open.spotify.com/album/6SBpoAb0N3eziBGGLAHrSU) | 4:58 |
+| 3 | [Irresistible](https://open.spotify.com/track/2S50AzAPblRT9Q3WsKzrTQ) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Love and Rhythm](https://open.spotify.com/album/7EhoGqBebIngl6i93kWOJl) | 5:26 |
+| 4 | [Simplified Era](https://open.spotify.com/track/017Sl0IMG6IGeMftMUC6fY) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Simplified Era](https://open.spotify.com/album/6S4WLXjXX9QpT6DBRWgQrQ) | 2:12 |
+| 5 | [Time Out](https://open.spotify.com/track/7ivjwPHFoM9MzbyuWYf50T) | [Paula Atherton](https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6) | [Dancin' Shoes](https://open.spotify.com/album/6belLLcGyIpignX9wYStN8) | 4:29 |
+| 6 | [Foreplay](https://open.spotify.com/track/2IlRDMMruJWUHrMr4b1vzl) | [Willie Bradley](https://open.spotify.com/artist/4gbsj58PegOOgFxc5OfIt3) | [Foreplay](https://open.spotify.com/album/2z8agb6cD8BozTL49Mx5Ap) | 4:23 |
+| 7 | [Low Down](https://open.spotify.com/track/5dxOLud7aVA9cWTqrfOlxz) | [Chris "Big Dog" Davis](https://open.spotify.com/artist/057eeHuaF5QTCQ76X2PRZ5), [Ryan La Valette](https://open.spotify.com/artist/3rgBKSCXw2UtxMyjzo5HjW) | [Low Down](https://open.spotify.com/album/3SmcxCHqMgh4Qj4MCQC4jz) | 4:19 |
+| 8 | [Grass\-Fed Funk](https://open.spotify.com/track/0snsRf7lSLTEvDxoGjSjP8) | [Oli Silk](https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE), [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf) | [Grass\-Fed Funk](https://open.spotify.com/album/6HrgzDHYrshIlEglpxaoJj) | 5:06 |
 | 9 | [Love Can't Wait](https://open.spotify.com/track/0ugbqA6rUHf5UtJYyfedmE) | [JJ Sansaverino](https://open.spotify.com/artist/7iCr7BWLxsxFffDaIvUXdy) | [Love Can't Wait](https://open.spotify.com/album/1J5IOuZKF7GYZr1nsASil0) | 4:14 |
 | 10 | [Limitless \(feat\. Althea Rene\)](https://open.spotify.com/track/4zqOfFCfXkADvDjDPrAiCE) | [J\. White](https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov), [Althea Rene](https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY) | [Limitless \(feat\. Althea Rene\)](https://open.spotify.com/album/24ECA9LpmOuurQIioCabKC) | 4:20 |
 | 11 | [Groovin' at the Symphony Hall](https://open.spotify.com/track/3qVuajH5vjMaypGAuw4hTr) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Groovin' at the Symphony Hall](https://open.spotify.com/album/4VSFMb03AlbMAuELJFwS0X) | 4:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 99 | [Moon Goddess](https://open.spotify.com/track/3ieIBo1fhTNzUsHSMZq3rU) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre) | [Moon Goddess](https://open.spotify.com/album/7J7ldYnPXb8DqXK5gQSeQi) | 4:05 |
 | 100 | [Living in This House](https://open.spotify.com/track/5S2PbWaPKAsVf7D2cnzplv) | [Threestyle](https://open.spotify.com/artist/6Dj8bjGUnCYJddzoiTdJjX) | [Living in This House](https://open.spotify.com/album/2pz7mH3t10WshRh1P23qcP) | 3:54 |
 
-Snapshot ID: `MTcxMzQ5OTI2MCwwMDAwMDAwMDQxMmY5MjA1OWNkMWNlYjhiMzQ3ZmUzMDg1YTY1YmNm`
+Snapshot ID: `MTcxNDEwNDA2MCwwMDAwMDAwMDFlMWJiNjU4NWU5NThjMTlkYzBhODVjMWUxMDBlN2Zm`

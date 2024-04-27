@@ -4,7 +4,7 @@
 
 > Endlich Frühling mit allen Songs für längere Tage!
 
-368 songs - 17 hr 14 min
+369 songs - 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,10 +175,11 @@
 | [Im KinderLiederKarneval](https://open.spotify.com/track/1Zc2S3C8Jwi1ZBc0aSQcNj) | [Detlev Jöcker](https://open.spotify.com/artist/4UiTe5uwHKDUddmV8yQeY4) | [Im KinderLiederKarneval](https://open.spotify.com/album/1KDpIRUO6pgA5BKQfbXTY0) | 3:17 | 2024-02-06 | 2024-02-16 |
 | [Im Märzen der Bauer](https://open.spotify.com/track/0TvMafU339waUj547Wpujx) | [Lichterkinder](https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv) | [Traditionelle Kinderlieder](https://open.spotify.com/album/7jZ5EaEDOwMrXcBc8TE971) | 1:40 | 2024-04-02 |  |
 | [Im Sommer](https://open.spotify.com/track/0TVycvoTx7UQIooIU01PwE) | [Hape Kerkeling](https://open.spotify.com/artist/3CJ0RVE3IsRub5KQLN0rtl) | [Die Eiskönigin Völlig Unverfroren \(Deutscher Original Film Soundtrack\)](https://open.spotify.com/album/3E20g5xQv0OcWTeRTTb91N) | 1:51 | 2023-11-14 | 2024-03-02 |
-| [Immer wieder kommt ein neuer Frühling](https://open.spotify.com/track/5uzcODmXFN4RjfdaXEVyKa) | [Charlie Glass Kinder Lieder](https://open.spotify.com/artist/2UN1knsjZgMRmNvlmP8Cvx) | [Die schönsten Lieder: Durch das Jahr](https://open.spotify.com/album/0QxB4qqWZuGue8DMlaHoov) | 2:59 | 2024-04-02 |  |
+| [Immer wieder kommt ein neuer Frühling](https://open.spotify.com/track/5uzcODmXFN4RjfdaXEVyKa) | [Charlie Glass Kinder Lieder](https://open.spotify.com/artist/2UN1knsjZgMRmNvlmP8Cvx) | [Die schönsten Lieder: Durch das Jahr](https://open.spotify.com/album/0QxB4qqWZuGue8DMlaHoov) | 2:59 | 2024-04-02 | 2024-04-27 |
 | [In den Urlaub](https://open.spotify.com/track/3N84t07BWwkHopG8rQB4qc) | [SpongeBob Schwammkopf](https://open.spotify.com/artist/4nzfncntC1DiwIFMARUT2w) | [Das Gelbe vom Schwamm](https://open.spotify.com/album/6tnWalBmzvZ4PlMyG2WUNT) | 3:30 | 2023-06-28 | 2023-09-01 |
 | [In der Disko an der Geisterbahn](https://open.spotify.com/track/0Cf54rLmoPvCl3qL4DNP5n) | [Patricia](https://open.spotify.com/artist/5uhEKaUlEsILfNbjIiyZKo) | [Tanz doch mit!](https://open.spotify.com/album/444GkGF5I3iqs8YTAJSWzz) | 2:58 | 2023-10-16 | 2023-11-06 |
 | [In Der Weihnachtsbäckerei](https://open.spotify.com/track/7HIu4LaRnvYb9RKRo24Ibu) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Weihnachten mit KIDZ BOP](https://open.spotify.com/album/2WH3rGNtsmTn3dk0y4kB1c) | 2:54 | 2023-11-14 | 2023-11-18 |
+| [Jahreszeiten](https://open.spotify.com/track/4jHtjsvqHhOJaPgvq36szI) | [DIKKA](https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob), [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [Jahreszeiten](https://open.spotify.com/album/3HWPzMy11VN2SEH4NI5svm) | 3:22 | 2024-04-26 |  |
 | [Jedes kleine Leuchten](https://open.spotify.com/track/0OH1WE3R7WoQQ2wA0cIBYa) | [Lichterkinder](https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv) | [Laternen\- und Herbstlieder 2](https://open.spotify.com/album/68HlRUNLMY75Oe7xh6laOZ) | 2:09 | 2023-11-05 | 2023-11-08 |
 | [Jetzt fängt das schöne Frühjahr an](https://open.spotify.com/track/3lBlo2fMGuYMva0jYxKeJS) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Oster\- und Frühlingslieder](https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi) | 0:56 | 2024-03-01 |  |
 | [Jetzt kommt die Biene Maja](https://open.spotify.com/track/1hNHctnuG5O74TamlCXKKY) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Die Biene Maja \- Meine Lieder](https://open.spotify.com/album/2w1GpapewuvarRvXfIuDma) | 3:03 | 2024-04-02 |  |

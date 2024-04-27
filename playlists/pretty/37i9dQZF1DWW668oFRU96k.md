@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: The Chainsmokers x Fridayy
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,180 likes - 94 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,110 likes - 94 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 15 | [clouds](https://open.spotify.com/track/1Gp3vNi64EY7sEStAZ51en) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [clouds](https://open.spotify.com/album/01avaual4rIAIFbiVg7hUS) | 2:42 |
 | 16 | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1) | 2:55 |
 | 17 | [Head Up High](https://open.spotify.com/track/5TS1zBGWhwv4zbmSMAaPan) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Mike James](https://open.spotify.com/artist/1K8U58Yw5ZXBP6CRGjBaEq) | [Head Up High](https://open.spotify.com/album/5Sb506T3g2BOuQFb23R1Yo) | 2:35 |
-| 18 | [Nobody Else](https://open.spotify.com/track/7vCT5DQqEiqKRtlOY9vYjB) | [ZHANGYE](https://open.spotify.com/artist/1sZntnf0HWP0Rx392NSPwW), [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Nobody Else](https://open.spotify.com/album/4zmaRbMkkCZJFP8yoCx7ez) | 2:45 |
+| 18 | [Nobody Else \(feat\. JVZEL\)](https://open.spotify.com/track/7vCT5DQqEiqKRtlOY9vYjB) | [ZHANGYE](https://open.spotify.com/artist/1sZntnf0HWP0Rx392NSPwW), [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [JVZEL](https://open.spotify.com/artist/1YGqQWe9iOGuA9QwYab3LE) | [Nobody Else](https://open.spotify.com/album/4zmaRbMkkCZJFP8yoCx7ez) | 2:45 |
 | 19 | [Stereo](https://open.spotify.com/track/31PeeweG94mVQsqNOLcq4B) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [Roe Byrne](https://open.spotify.com/artist/6LjXRw1jZBtm5zCuorBJGg) | [Stereo](https://open.spotify.com/album/4l42dJOfRz9Hdh4dmvJbdY) | 2:46 |
 | 20 | [Troublemaker](https://open.spotify.com/track/7JuEmC1e1OFNiFRHevPW4n) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq), [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ) | [Troublemaker](https://open.spotify.com/album/4kKRhjQWeLNHbxlUDNg3H2) | 2:15 |
 | 21 | [Lift](https://open.spotify.com/track/1zANAYogydAh5DBNIVswie) | [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Chris Ruo](https://open.spotify.com/artist/1hGDMRx4NEk3H6cA8qevzY), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [Lift](https://open.spotify.com/album/3OtzuphM3lBNSR4eERJpuo) | 2:26 |

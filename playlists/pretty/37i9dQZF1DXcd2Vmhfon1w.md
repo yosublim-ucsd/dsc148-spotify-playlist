@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 > Lo mejor del hip hop español\. Feat\. Recycled J
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,635 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,493 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 28 | [En la lucha](https://open.spotify.com/track/1yHvldEOEogIwvqsskbiiy) | [Dj Conjurer](https://open.spotify.com/artist/3KxD9wWOXs40FpVl0jrEas), [Wos LasPalmas](https://open.spotify.com/artist/2Z3hX6FBCtTfjx8chQ6Mer) | [En la lucha](https://open.spotify.com/album/36gWlzteJX9ZGwvjHnodD8) | 3:33 |
 | 29 | [La Placita](https://open.spotify.com/track/5ZmmNBKHKLDureKMGrRHCJ) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [Easy\-S](https://open.spotify.com/artist/4oNsvVnFz4HQ0UPpPFSuJX), [J.Moods](https://open.spotify.com/artist/7q3hzOFspDedtkyBi1Azc8) | [La Placita](https://open.spotify.com/album/46l66J5C7w8cK1EOm0LlIr) | 3:48 |
 | 30 | [Entrar Aquí](https://open.spotify.com/track/1heP3RfoM4XAcZKde943ho) | [ToteKing](https://open.spotify.com/artist/224rbIjYbXaTI7lnP2ZMNJ), [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB) | [Luces fuera](https://open.spotify.com/album/4ZdVjircdr00BoV0XoYgh9) | 3:51 |
-| 31 | [Vine Ma Hut](https://open.spotify.com/track/5VxXSgTPqj8zeK5ViMDd61) | [Elio Toffana](https://open.spotify.com/artist/3iaWOU36p7W4oqHLDoBQmr) | [Vine Ma Hut](https://open.spotify.com/album/74xlNX3hXTzZGXXre0vJFZ) | 2:45 |
+| 31 | [Vine Ma Hut](https://open.spotify.com/track/5VxXSgTPqj8zeK5ViMDd61) | [Elio Toffana](https://open.spotify.com/artist/3iaWOU36p7W4oqHLDoBQmr) | [Vine Ma Hut](https://open.spotify.com/album/74xlNX3hXTzZGXXre0vJFZ) | 2:42 |
 | 32 | [Cicatrices](https://open.spotify.com/track/7cVPzL9iPXkMaHb8NvwvR3) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw) | [Cicatrices](https://open.spotify.com/album/2r7uyJrmDdQ3DwX0EzSfYm) | 3:00 |
 | 33 | [Shars 2023](https://open.spotify.com/track/5k129qDFmei3s0kLWhjXRw) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl) | [Shars 2023](https://open.spotify.com/album/5ckWMNdOU6xVxQF3PbIsmt) | 2:43 |
 | 34 | [Te Diría](https://open.spotify.com/track/2nPt4HyshAzcCkH1GUjE7R) | [Reality](https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw) | [Te Diría](https://open.spotify.com/album/3sO3011CRF4Hpn4wnRZHb1) | 3:05 |

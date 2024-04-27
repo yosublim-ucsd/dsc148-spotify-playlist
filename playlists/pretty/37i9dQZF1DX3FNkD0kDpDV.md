@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 
 > From 1994 to 2024: Time Warp Turns 30! Celebrate this landmark anniversary with us through a 30\-hour party marathon\. Get into the Time Warp spirit with an exclusive playlist showcasing the best of our artists performing on the first weekend of April in Mannheim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 718,837 likes - 67 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 718,591 likes - 67 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -695,6 +695,24 @@
     },
     {
       "album": {
+        "name": "Here Now",
+        "url": "https://open.spotify.com/album/2dn3rbVDA051YrJkDci1xl"
+      },
+      "artists": [
+        {
+          "name": "Dee Gatti",
+          "url": "https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142080,
+      "name": "Here Now",
+      "url": "https://open.spotify.com/track/7pL8Abg7AAMFu66W3etmAy"
+    },
+    {
+      "album": {
         "name": "It'll Be Fine",
         "url": "https://open.spotify.com/album/4zM4CuOsWdfR60jW7w4jVr"
       },
@@ -760,7 +778,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 183990,
       "name": "L o s e M y M i n d",
       "url": "https://open.spotify.com/track/7nnSTOoBWl2ctLxoqgCZoq"
@@ -1161,6 +1179,24 @@
     },
     {
       "album": {
+        "name": "PARTYNEXTDOOR 4 (P4)",
+        "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179971,
+      "name": "S t u c k I n M y W a y s",
+      "url": "https://open.spotify.com/track/1S6d4cV78ODCv3IRtl07us"
+    },
+    {
+      "album": {
         "name": "Sin on Purpose",
         "url": "https://open.spotify.com/album/0pX2PQOd7EWLwLvFYMuR9G"
       },
@@ -1302,6 +1338,28 @@
       "duration_ms": 272205,
       "name": "THATS MY BABY",
       "url": "https://open.spotify.com/track/4JwYLiyUMUDtvOG5w6AnRq"
+    },
+    {
+      "album": {
+        "name": "CALIFORNIA RELOADED",
+        "url": "https://open.spotify.com/album/1KsUmwbhJlBiwun5XapWs8"
+      },
+      "artists": [
+        {
+          "name": "SAINT PARIS BABY",
+          "url": "https://open.spotify.com/artist/7E26m6GE0DFcwrJLEIjBYA"
+        },
+        {
+          "name": "Prod. Dior",
+          "url": "https://open.spotify.com/artist/5QLOODQPj9ibFM4ZwhKY94"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "The Life",
+      "url": "https://open.spotify.com/track/2HzSHAtrNZfiLpNtYv4HUc"
     },
     {
       "album": {

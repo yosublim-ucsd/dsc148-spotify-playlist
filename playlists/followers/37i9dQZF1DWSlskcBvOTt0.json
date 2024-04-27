@@ -1,5 +1,5 @@
 {
-  "2024-04-26": 461891,
+  "2024-04-27": 462057,
   "date_first_scraped": "2022-04-20",
   "description": "Hypnotic melodic <a href=\"spotify:genre:house\">house</a> and <a href=\"spotify:genre:techno\">techno</a> to light up the night.",
   "name": "Tantra",
@@ -3841,7 +3841,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 196807,
       "name": "Exito",
       "url": "https://open.spotify.com/track/2nqh8IbTzBbuf8aCwhElzX"
@@ -8437,6 +8437,28 @@
       "duration_ms": 373487,
       "name": "Nice to Meet You",
       "url": "https://open.spotify.com/track/43wAEql15k2lLyDC568uTE"
+    },
+    {
+      "album": {
+        "name": "Nidze",
+        "url": "https://open.spotify.com/album/5sVuSKtt0hclQEJK1mY2xe"
+      },
+      "artists": [
+        {
+          "name": "Lucille",
+          "url": "https://open.spotify.com/artist/7lsluaEWksJHKhckcic64l"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216515,
+      "name": "Nidze - Radio Edit",
+      "url": "https://open.spotify.com/track/7CkiV0U3DCAOhja5JqSjJj"
     },
     {
       "album": {

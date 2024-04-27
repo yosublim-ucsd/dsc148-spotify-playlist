@@ -1,12 +1,12 @@
 {
   "description": "Estas son las grandes voces del Hip Hop. Foto: Kei Linch & Nanpa B\u00e1sico",
-  "num_followers": 20214,
+  "num_followers": 20219,
   "original_name": "Los Gallos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzUzNzAyMCwwMDAwMDAwMDgwMWRjNWJlYmUwM2ZmM2ZlZmMzMTdmMWE5MTdlZDFj",
+  "snapshot_id": "MTcxNDEwMzI0OCwwMDAwMDAwMGQwZDlmYjM2MjdiYjM2ZGU1ODI1Mzg3NThhZDM3OGVj",
   "tracks": [
     {
       "added_at": "2024-04-19 14:30:20",
@@ -51,6 +51,30 @@
       "duration_ms": 204146,
       "name": "M\u00e1s Que Reales",
       "url": "https://open.spotify.com/track/39Pw6j6Sd5J9qZv6aPO3WQ"
+    },
+    {
+      "added_at": "2024-04-26 03:47:28",
+      "album": {
+        "name": "Pedro El\u00edas",
+        "url": "https://open.spotify.com/album/0K2ccPqz7qApwmiZF1f3BM"
+      },
+      "artists": [
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        },
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        },
+        {
+          "name": "Lil Supa",
+          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
+        }
+      ],
+      "duration_ms": 275437,
+      "name": "La Sabia Escuela",
+      "url": "https://open.spotify.com/track/22JYKMt5XrcRQO0dzY5fwE"
     },
     {
       "added_at": "2024-04-19 14:30:20",
@@ -263,22 +287,6 @@
       "duration_ms": 275179,
       "name": "La Escuela",
       "url": "https://open.spotify.com/track/1yNR6HRqPOABW8eusg0qAO"
-    },
-    {
-      "added_at": "2024-04-19 14:30:20",
-      "album": {
-        "name": "Quiero Decirte",
-        "url": "https://open.spotify.com/album/5V2OiQSXdXVv7NrGJvtJ2a"
-      },
-      "artists": [
-        {
-          "name": "Yoky Barrios",
-          "url": "https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj"
-        }
-      ],
-      "duration_ms": 190755,
-      "name": "Quiero Decirte",
-      "url": "https://open.spotify.com/track/1AtYJLvtq1yg1SJ7YHGgy7"
     },
     {
       "added_at": "2024-04-19 14:30:20",

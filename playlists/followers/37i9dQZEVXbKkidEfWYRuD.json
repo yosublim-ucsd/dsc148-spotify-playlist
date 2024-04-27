@@ -1,5 +1,5 @@
 {
-  "2024-04-26": 29442,
+  "2024-04-27": 29453,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Ukraine.",
   "name": "Top 50 - Ukraine",
@@ -12812,6 +12812,24 @@
     },
     {
       "album": {
+        "name": "Song 404",
+        "url": "https://open.spotify.com/album/1GPbNVvuhI1JSinBRNIUS9"
+      },
+      "artists": [
+        {
+          "name": "7hvrdx",
+          "url": "https://open.spotify.com/artist/7DI03nY9DwvZ49pLTiQh9o"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165331,
+      "name": "Song 404",
+      "url": "https://open.spotify.com/track/3xaNTJk9G0yoKkkjlkOYv5"
+    },
+    {
+      "album": {
         "name": "Mutter",
         "url": "https://open.spotify.com/album/1CtTTpKbHU8KbHRB4LmBbv"
       },
@@ -18521,7 +18539,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 164210,
       "name": "\u0414\u043e\u043b\u043e\u043d\u0456",
       "url": "https://open.spotify.com/track/28nCv762IfyLVB2OGGQcMb"
@@ -23553,7 +23571,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-23",
+      "date_removed": null,
       "duration_ms": 166500,
       "name": "\u041f\u043e\u0432\u0456\u043b\u044c\u043d\u043e",
       "url": "https://open.spotify.com/track/0NYvacFqoJdJggiOynzbur"
@@ -27857,7 +27875,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 110526,
       "name": "\u0429\u043e\u0431 \u043d\u0435 \u0431\u0443\u043b\u043e",
       "url": "https://open.spotify.com/track/63hgMQantc0DLZM8BN180N"

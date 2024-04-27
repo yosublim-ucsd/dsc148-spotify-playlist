@@ -1,5 +1,5 @@
 {
-  "2024-04-26": 480039,
+  "2024-04-27": 480018,
   "date_first_scraped": "2021-12-21",
   "description": "A blend of new songs and artists in the soul space. Cover: FKJ",
   "name": "Next Wave Soul",
@@ -385,6 +385,28 @@
       "duration_ms": 256542,
       "name": "Anything For You - The Duet",
       "url": "https://open.spotify.com/track/4Y6kb79j6Dw8Sy99JSBtzO"
+    },
+    {
+      "album": {
+        "name": "April",
+        "url": "https://open.spotify.com/album/1Ld8d5JMr8xXOh5TvEuYNv"
+      },
+      "artists": [
+        {
+          "name": "illiterate",
+          "url": "https://open.spotify.com/artist/6E7vMajFG2d1j5RrUwdTDR"
+        },
+        {
+          "name": "Martha Eve",
+          "url": "https://open.spotify.com/artist/2egCe1m3RU0NT2joC2mZus"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188059,
+      "name": "April",
+      "url": "https://open.spotify.com/track/5vRkKwUx1PPZZqv87vydn9"
     },
     {
       "album": {
@@ -3565,7 +3587,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 207665,
       "name": "In Need - Reworked",
       "url": "https://open.spotify.com/track/6gyz4TE6oDNsyGPIA2V6PG"
@@ -4011,6 +4033,36 @@
       "duration_ms": 397247,
       "name": "Lessons - Remix",
       "url": "https://open.spotify.com/track/3k6Eu5Gq7PM7krNbCqkQUs"
+    },
+    {
+      "album": {
+        "name": "CLOSER",
+        "url": "https://open.spotify.com/album/4cSCZXFa68eNFY1pEeIzcW"
+      },
+      "artists": [
+        {
+          "name": "NNAVY",
+          "url": "https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu"
+        },
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
+        },
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        },
+        {
+          "name": "Hendrick Sam",
+          "url": "https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228518,
+      "name": "Let Me",
+      "url": "https://open.spotify.com/track/7jbR0coXoqygIfc6OFW8ly"
     },
     {
       "album": {
@@ -4827,6 +4879,28 @@
       "duration_ms": 198473,
       "name": "Ms. Ebony Brown",
       "url": "https://open.spotify.com/track/4y4WjTFKiPDtFRCobVIC39"
+    },
+    {
+      "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/3Ggmu1fcnkBEhCG8UHEVRG"
+      },
+      "artists": [
+        {
+          "name": "Nao Yoshioka",
+          "url": "https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08"
+        },
+        {
+          "name": "Jarreau Vandal",
+          "url": "https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168231,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/7njHcOQdmC3YVk9eIrL4dQ"
     },
     {
       "album": {

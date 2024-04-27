@@ -4,7 +4,7 @@
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: HODARI, Urias
 
-212 songs - 10 hr 44 min
+213 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [DE REPENTE](https://open.spotify.com/track/2cupDkLxPFyG7jWgzEDQ9Y) | [Tupi](https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf) | [DE REPENTE](https://open.spotify.com/album/5zBNR0bMPSZZsaQHxtgBXh) | 2:25 | 2023-11-10 |  |
 | [Dejavu](https://open.spotify.com/track/7aJFkrNNaPnC3QGAUsTahp) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Felipe Rosa](https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N) | [Dejavu](https://open.spotify.com/album/79BuhrkNVk3YTe11Rzs2jz) | 3:02 | 2023-11-17 |  |
 | [Delírio](https://open.spotify.com/track/3XzYdM3XYfrdWInWct8moG) | [INAHUGO](https://open.spotify.com/artist/7mDupUmoe1y83y1XP5lQGR) | [Estou Aqui](https://open.spotify.com/album/2DpZXcJODNkdKOVxrmyXgr) | 3:47 | 2022-12-02 |  |
-| [Depois da Briga](https://open.spotify.com/track/3Oec1XgUMdF58bIRlK40Qt) | [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d) | [Só Vem](https://open.spotify.com/album/2ZgqjH8t5uH1BbJGtyOjaC) | 2:57 | 2023-10-13 |  |
+| [Depois da Briga](https://open.spotify.com/track/3Oec1XgUMdF58bIRlK40Qt) | [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d) | [Só Vem](https://open.spotify.com/album/2ZgqjH8t5uH1BbJGtyOjaC) | 2:57 | 2023-10-13 | 2024-04-27 |
 | [Depois da Briga](https://open.spotify.com/track/4JHh4XKEjrSYIq0NbUxfDz) | [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d), [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP) | [Só Vem](https://open.spotify.com/album/0ZN6uJremDuf27alIbotKn) | 2:57 | 2023-11-03 | 2024-04-19 |
 | [Detalhes](https://open.spotify.com/track/5Px7eU18TbFlkyNkHGnjR8) | [Bia Torres](https://open.spotify.com/artist/5icJdDlpFGAAPTueX3DqWN), [Badauy](https://open.spotify.com/artist/0ynBSrfkccSeJlzdIqOTHl) | [Detalhes](https://open.spotify.com/album/0l32YWicNxyVAvraHQqEqD) | 2:50 | 2024-03-22 |  |
 | [Devi](https://open.spotify.com/track/5tXVcUSWxmyydJJ9IFLfHF) | [SóCIRO](https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz), [Melissa Hartman](https://open.spotify.com/artist/7F4XNGirBB17gfXa1yov36), [Leo Ost](https://open.spotify.com/artist/1rQb8CUCS1rCyOCyAg1mJE) | [Devi](https://open.spotify.com/album/0aomgOztLFDXdWKyZJyO02) | 3:16 | 2023-02-24 | 2023-04-09 |
@@ -161,6 +161,7 @@
 | [Quando Te Vi](https://open.spotify.com/track/4jxaQVs4cRH3MDKMZ0kRhj) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj) | [Quando Te Vi](https://open.spotify.com/album/41f4UoNwZH0Er1ZLCjMokE) | 3:54 | 2023-08-18 | 2024-02-03 |
 | [Que Falta Você Faz](https://open.spotify.com/track/5BWxwtkreVb8ez9fL5ivrp) | [Annick](https://open.spotify.com/artist/7MBC4MpNfqH87jfzeZn3tE), [Noemi Leal](https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK) | [Que Falta Você Faz](https://open.spotify.com/album/0MuYje3mI6lrvkPGSGqRNx) | 2:03 | 2024-02-02 | 2024-03-16 |
 | [Quem Vai Fazer Você Feliz?](https://open.spotify.com/track/1tE34sFD7UkGqTHzUDwhN6) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [John Bxd](https://open.spotify.com/artist/5PvvzrZ16XGd0VoU2FvUR8), [Nath Audizio](https://open.spotify.com/artist/3Dmm7O6YrB38y8JbvA3zwK) | [Quem Vai Fazer Você Feliz?](https://open.spotify.com/album/4PJDIaZRbnsolFvvJJ78TB) | 4:10 | 2022-11-18 |  |
+| [Quer ou Não Quer?](https://open.spotify.com/track/6P3pUqOjoXYxsYEeqdHriP) | [Manocchio](https://open.spotify.com/artist/6eF2txpySndQt339aJjQE2), [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Quer ou Não Quer?](https://open.spotify.com/album/2RrbFaJycZn6RiUgDTNyJK) | 3:30 | 2024-04-26 |  |
 | [Real \(Citando Djonga\)](https://open.spotify.com/track/04WuhfAZ2E2pOsT6MjfHOS) | [Eric](https://open.spotify.com/artist/2fcyt54Qa9MnroxsOJkSeT), [MofoRec](https://open.spotify.com/artist/68Qpumlcdj1323iyuotmLn) | [Real \(Citando Djonga\)](https://open.spotify.com/album/08Yhvx5F6NvLrVUA6t4hgb) | 3:25 | 2022-11-18 |  |
 | [Recíproco](https://open.spotify.com/track/2Na1FNsaKX5WmLjEVVPVNt) | [Victor JR](https://open.spotify.com/artist/3p0GexHIGvyoEQUpb2Nnlo), [Ingrid Milanez](https://open.spotify.com/artist/3ucZWCjRRupT8LDfqaoRZJ), [DJ Alle Mark](https://open.spotify.com/artist/7wik2rNV6wtZP98hHaspHQ) | [Recíproco](https://open.spotify.com/album/2ci8q15b2oS4tn7uYImo3E) | 3:00 | 2022-11-18 |  |
 | [Redial](https://open.spotify.com/track/5n4Htpe8iRavkKE0ntKIyC) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [Duda Raupp](https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp) | [Redial](https://open.spotify.com/album/251bKunrjJVU3Ndmh8AxHt) | 4:04 | 2023-12-15 | 2024-01-27 |

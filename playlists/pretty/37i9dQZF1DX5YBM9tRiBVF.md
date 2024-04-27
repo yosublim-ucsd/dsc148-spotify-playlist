@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 
 > Listen to women at full volume! Cover: <a href="spotify:artist:1vlR56ECqMAOA2mUTcTgPV">Emma Bale</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,182 likes - 45 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,185 likes - 45 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

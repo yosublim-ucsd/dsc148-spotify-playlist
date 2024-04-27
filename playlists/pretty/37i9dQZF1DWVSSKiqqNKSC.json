@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 242853,
+  "num_followers": 242923,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
@@ -839,18 +839,26 @@
     {
       "added_at": "2024-03-19 14:46:33",
       "album": {
-        "name": "Quiero Verte Otra Vez",
-        "url": "https://open.spotify.com/album/4862dwA64dtiFt42ezMima"
+        "name": "Infiel (Version Salsa)",
+        "url": "https://open.spotify.com/album/7K5jcFAYRO3Ly69mCGATDc"
       },
       "artists": [
         {
-          "name": "Havana D'primera",
-          "url": "https://open.spotify.com/artist/5Y8dq9whdlog1KEay1JxpO"
+          "name": "Divan",
+          "url": "https://open.spotify.com/artist/5R9qfSPB77aX9n9GKww0PP"
+        },
+        {
+          "name": "Jacob Forever",
+          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
+        },
+        {
+          "name": "Gino Latino DJ",
+          "url": "https://open.spotify.com/artist/2eDW7jXIf7t8sGoocEaxYH"
         }
       ],
-      "duration_ms": 288445,
-      "name": "Quiero Verte Otra Vez",
-      "url": "https://open.spotify.com/track/6BsQn0pSEpiGvJOwdRQjxx"
+      "duration_ms": 209173,
+      "name": "Infiel (with Jacob Forever, Gino Latino Dj) - Version Salsa",
+      "url": "https://open.spotify.com/track/1yfTOpEoXrLmFGy1kJ5ahF"
     }
   ],
   "unique_name": "Salsa Cubana",

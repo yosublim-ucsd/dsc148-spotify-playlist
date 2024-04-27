@@ -1,5 +1,5 @@
 {
-  "2024-04-26": 2754057,
+  "2024-04-27": 2753325,
   "date_first_scraped": "2021-12-21",
   "description": "The official voice of the next generation. Cover: <a href=\"spotify:artist:23xFbA9rYgRX8mreqysWPc\">Bossman Dlow</a>",
   "name": "Most Necessary",
@@ -6719,6 +6719,24 @@
       "duration_ms": 202541,
       "name": "Dark Days",
       "url": "https://open.spotify.com/track/7qh52GiOH91zmNjUUglsee"
+    },
+    {
+      "album": {
+        "name": "Yes, I\u2019m Sad (More Therapy) [Deluxe]",
+        "url": "https://open.spotify.com/album/4cojwTIPEfSxiqcGrhcLrK"
+      },
+      "artists": [
+        {
+          "name": "Fredo Bang",
+          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138192,
+      "name": "Dark Soul",
+      "url": "https://open.spotify.com/track/2S11KqKQpdhFdPaIfsKUKn"
     },
     {
       "album": {

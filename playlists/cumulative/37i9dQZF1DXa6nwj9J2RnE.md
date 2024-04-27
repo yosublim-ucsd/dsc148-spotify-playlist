@@ -2,7 +2,7 @@
 
 ### [karakter.](https://open.spotify.com/playlist/37i9dQZF1DXa6nwj9J2RnE)
 
-> edgy muziek met een rand uit eigen land\. cover: CHARLOT
+> edgy muziek met een rand uit eigen land\. cover: Sammie Sedano
 
 129 songs - 7 hr 8 min
 

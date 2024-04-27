@@ -1,6 +1,6 @@
 {
   "description": "The freshest pop sounds. Cover: Teddy Swims",
-  "num_followers": 202790,
+  "num_followers": 202716,
   "original_name": "New Pop Revolution",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,26 @@
       "duration_ms": 205706,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/001ynVS4F9gJ4dKdvnzjMp"
+    },
+    {
+      "added_at": "2024-04-26 01:25:34",
+      "album": {
+        "name": "Funk Generation",
+        "url": "https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 157838,
+      "name": "Ahi",
+      "url": "https://open.spotify.com/track/5rVy4OrfXilu9iQE423JO0"
     },
     {
       "added_at": "2024-04-26 01:25:34",

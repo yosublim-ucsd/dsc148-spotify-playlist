@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 
 ### [karakter.](https://open.spotify.com/playlist/37i9dQZF1DXa6nwj9J2RnE)
 
-> edgy muziek met een rand uit eigen land\. cover: CHARLOT
+> edgy muziek met een rand uit eigen land\. cover: Sammie Sedano
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,053 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,052 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kaleidoscope](https://open.spotify.com/track/2AmmNNrgRTKxLCliZaTGUH) | [CHARLOT](https://open.spotify.com/artist/4jwyHfEELByxcUm6JEP5yC) | [Kaleidoscope](https://open.spotify.com/album/6ZgcinB5KSfxxiTbMBO59U) | 3:22 |
-| 2 | [Glas](https://open.spotify.com/track/70T7J9cUIvTuoB4K82zsPf) | [Sammie Sedano](https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT) | [Glas](https://open.spotify.com/album/0loodexikCgWDHbTLqNyZM) | 4:41 |
+| 1 | [Glas](https://open.spotify.com/track/70T7J9cUIvTuoB4K82zsPf) | [Sammie Sedano](https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT) | [Glas](https://open.spotify.com/album/0loodexikCgWDHbTLqNyZM) | 4:41 |
+| 2 | [Kaleidoscope](https://open.spotify.com/track/2AmmNNrgRTKxLCliZaTGUH) | [CHARLOT](https://open.spotify.com/artist/4jwyHfEELByxcUm6JEP5yC) | [Kaleidoscope](https://open.spotify.com/album/6ZgcinB5KSfxxiTbMBO59U) | 3:22 |
 | 3 | [insane](https://open.spotify.com/track/1muvuktoG1chI2mOSEf7W1) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [insane](https://open.spotify.com/album/7kPnvLJER6IwTXXZOcP4Fr) | 2:14 |
 | 4 | [Als Water](https://open.spotify.com/track/6Crw1yc2A4W6L5LgOPnolS) | [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Spuug van God](https://open.spotify.com/album/1aAim07lpl5ARWVls0wKqM) | 2:34 |
 | 5 | [Heimwee](https://open.spotify.com/track/6DvGnoj1obKohgqvrdy53r) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Heimwee](https://open.spotify.com/album/2bPEPy5vcX1GoBShp2xblg) | 3:34 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 | 59 | [Longing](https://open.spotify.com/track/2U7WtnPe5yrL8Om5Ml6P3v) | [Wynnm](https://open.spotify.com/artist/5OKbhPqXR4Xve2CSXW4T5K) | [Longing](https://open.spotify.com/album/5sqMOHMgo59ybNc2XXuoM8) | 3:14 |
 | 60 | [So Good It Hurts](https://open.spotify.com/track/0I8D8hPhzneDCOsJ3CxbDj) | [Ciao Lucifer](https://open.spotify.com/artist/7HJjZdoBrnDMtKKrWpjJII) | [Good News](https://open.spotify.com/album/2eXolLZeoLMdtrRgtecIqE) | 3:20 |
 
-Snapshot ID: `MTcxNDA4MjQwMCwwMDAwMDAwMGNiNDNiM2FlNTFlZGQwNjc1ZjU1N2Y2ZWU2ODM3MTY2`
+Snapshot ID: `MTcxNDExNzEzNSwwMDAwMDAwMGViMDQ4NzAyNjAzNDZmMmE4MWU3NmI0MWIzYmMxZmIy`

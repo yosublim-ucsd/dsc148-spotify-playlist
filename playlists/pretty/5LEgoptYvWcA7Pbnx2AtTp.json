@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "MTE3LGJmNjA1YzJjNjc0MzhlYTdiOGIzZmIwN2Y0MDBmY2MzNWRiM2VkZjQ=",
+  "snapshot_id": "MTE4LDE0MmYxNjdiNzEzYjA4Zjg5MzYzZDI3OGI1YWJlOWUxNzY1Y2E2ZGQ=",
   "tracks": [
     {
       "added_at": "2022-05-06 11:09:16",
@@ -1383,6 +1383,22 @@
       "duration_ms": 102461,
       "name": "Bread",
       "url": "https://open.spotify.com/track/4Qq66rN8HWHk7NGPYfNvun"
+    },
+    {
+      "added_at": "2024-04-26 03:59:23",
+      "album": {
+        "name": "Wii Turn Up (Wii Menu Remix)",
+        "url": "https://open.spotify.com/album/5Lx2FsaePV7qsgKJa8jXOR"
+      },
+      "artists": [
+        {
+          "name": "Murcy",
+          "url": "https://open.spotify.com/artist/6hsB7sy4Y71liJtAjQQTKD"
+        }
+      ],
+      "duration_ms": 195515,
+      "name": "Wii Turn Up (Wii Menu Remix)",
+      "url": "https://open.spotify.com/track/59OkvZEB9zPsEa6fQL2LlZ"
     }
   ],
   "unique_name": "Questionable Bops",

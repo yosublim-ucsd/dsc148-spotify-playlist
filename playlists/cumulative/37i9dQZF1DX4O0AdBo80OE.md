@@ -2,9 +2,9 @@
 
 ### [Rap Latte](https://open.spotify.com/playlist/37i9dQZF1DX4O0AdBo80OE)
 
-> Rimas cremosas, tan necesarias como tu café\. Robot95 y Jesse Baez en portada.
+> Rimas cremosas, tan necesarias como tu café\. Caztro y Charles Ans en portada.
 
-165 songs - 9 hr 18 min
+166 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Duele](https://open.spotify.com/track/0vp1LRAhFT6PK9ixOmFT6E) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Duele](https://open.spotify.com/album/59IkAXXPqzP6DOuYsQ696T) | 2:39 | 2023-05-26 |  |
 | [El Puente](https://open.spotify.com/track/0AEE29MR3wWP5KHo3wIJiu) | [Eric Vasquez,Jesse Manuel Hernadez,Julian Mireles Jr.](https://open.spotify.com/artist/0rAVxTEmScGnf5A0XSl7iG) | [Hecho en Mexico: Traditional Sounds and Modern Latin Grooves](https://open.spotify.com/album/3VGQQzs6CiziWT37YApV7z) | 2:27 | 2023-05-26 | 2023-10-21 |
 | [El Ángel Que Te Cuida](https://open.spotify.com/track/2Biy7WyvcK7PWHtv6H23Ms) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [El Ángel Que Te Cuida](https://open.spotify.com/album/6ECJOBHCepwHMuziMDq202) | 2:45 | 2023-12-15 | 2024-04-13 |
+| [Ella es un 10](https://open.spotify.com/track/1QFoFq6d2p6D5pdEYdFSLt) | [Mike Lamadrid](https://open.spotify.com/artist/0yH4dtb40shmtEVyb9yA8C), [Prodbenji](https://open.spotify.com/artist/1DmEBSnH17cb4hSCwEqdGg) | [Ella es un 10](https://open.spotify.com/album/5x91Bi8ncUsFKK3p7xXgac) | 3:01 | 2024-04-26 |  |
 | [En Pausa](https://open.spotify.com/track/4xSLkAIKGL1kYa6V0NzJGV) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [En Pausa](https://open.spotify.com/album/33NBuJXblgn3swtbT6d846) | 3:31 | 2023-05-26 | 2023-10-14 |
 | [Enculado](https://open.spotify.com/track/07lthWzkSdlmEI435DtCcf) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [RIKO](https://open.spotify.com/artist/3bX0TAwah1a1TNlsJgOgP7) | [Enculado](https://open.spotify.com/album/4LuGDwl9vmidZ1T1PxpJEm) | 3:46 | 2023-05-26 |  |
 | [Enrolemos uno](https://open.spotify.com/track/51SfvQm8QcPAyW4yBfPv1L) | [Kaeve](https://open.spotify.com/artist/36RCTbO3VLENi4UnVqC1tP), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk), [Chenguedengue](https://open.spotify.com/artist/2BbaWbkYiUZw3MRpiZYFdi) | [Enrolemos uno](https://open.spotify.com/album/5gaExTOw8xJLQdZkDwEqRE) | 3:06 | 2023-09-15 |  |
@@ -145,7 +146,7 @@
 | [Seguro Te Pierdo](https://open.spotify.com/track/5FGE7nybrywkX6tDfRDf55) | [Sergi](https://open.spotify.com/artist/1YdO9GJZicIofAYHnFZSwv), [KID FLEX](https://open.spotify.com/artist/3MG0nEhYET2TCkegY1QBP6) | [Seguro Te Pierdo](https://open.spotify.com/album/7h3OzZVHw9pFcnmwuYVoKt) | 2:54 | 2023-05-26 |  |
 | [Si Aquí Estuvieras](https://open.spotify.com/track/2uH7BbKKG9bzVBuHdL5TB2) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Jay Romero](https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Lich Weezy](https://open.spotify.com/artist/4XiMUcMQp7CjjUX0728Bqu) | [Si Aquí Estuvieras](https://open.spotify.com/album/2BpP4gT2GjPzHNHwlZqlmU) | 5:21 | 2023-05-26 |  |
 | [Si No Te Hubiera Conocido](https://open.spotify.com/track/1KZwJMFgSw5ZTlMoQyiGh1) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Cenizas](https://open.spotify.com/album/23eZ8Y0g4TdQAWO9uTSKSO) | 3:40 | 2023-05-26 |  |
-| [Si Se Me Va la Voz](https://open.spotify.com/track/0HUw1ZCFhO3FZ3eMYOBMEt) | [ATM FLAVOR](https://open.spotify.com/artist/1SqAxi0VbVExvWdpR5Pjru), [Gayo Valdez](https://open.spotify.com/artist/0uCVN0ZSViQ4xVwJsDqfVo) | [Si Se Me Va la Voz](https://open.spotify.com/album/5nvSbbHGZpbV6zKE5UFxTY) | 3:07 | 2023-05-26 |  |
+| [Si Se Me Va la Voz](https://open.spotify.com/track/0HUw1ZCFhO3FZ3eMYOBMEt) | [ATM FLAVOR](https://open.spotify.com/artist/1SqAxi0VbVExvWdpR5Pjru), [Gayo Valdez](https://open.spotify.com/artist/0uCVN0ZSViQ4xVwJsDqfVo) | [Si Se Me Va la Voz](https://open.spotify.com/album/5nvSbbHGZpbV6zKE5UFxTY) | 3:07 | 2023-05-26 | 2024-04-27 |
 | [Siempre Es Lo Mismo](https://open.spotify.com/track/2Sg6GmnyCyoYkvNezFp98e) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Siempre Es Lo Mismo](https://open.spotify.com/album/7mbmPQhpfV0QojDzqf9fTQ) | 4:06 | 2023-05-26 |  |
 | [Sigo Esperando Que Vuelvas \(feat\. Los Golpes\)](https://open.spotify.com/track/1rdkLyIU3b9LTX1a6RrP5M) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Eirian Music](https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4), [Los Golpes](https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j) | [Sigo Esperando Que Vuelvas \(feat\. Los Golpes\)](https://open.spotify.com/album/58a7npneCuVfs5wqIT64TY) | 3:16 | 2023-05-26 |  |
 | [Sin pistola](https://open.spotify.com/track/008gGt53LBG5eBo7rfganm) | [V.Rod](https://open.spotify.com/artist/1M178YgtiCeHDjjHFBQgWA), [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [Sin pistola](https://open.spotify.com/album/1HSPfrQ8Cz51hsc1ttXoHy) | 2:33 | 2023-09-22 |  |

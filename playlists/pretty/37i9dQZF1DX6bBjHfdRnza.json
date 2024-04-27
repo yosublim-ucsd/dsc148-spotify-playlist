@@ -1,12 +1,12 @@
 {
   "description": "The best new dance & electronic by independent artists and labels. Cover: BRUX. Artwork by Rewina Beshue.",
-  "num_followers": 173670,
+  "num_followers": 173727,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzk3NjY4OCwwMDAwMDAwMGEwODZjYzk1NjU2ZmFlMTFjNzMxNjI0Mjc4ZDExMzYw",
+  "snapshot_id": "MTcxNDE2NTY5NSwwMDAwMDAwMGIzZTUxNDg5ZWM0YjJmZjMwMTllNDhiY2EwZGM2MmMx",
   "tracks": [
     {
       "added_at": "2024-04-24 16:38:08",
@@ -55,6 +55,22 @@
       "duration_ms": 211200,
       "name": "BETTER4U",
       "url": "https://open.spotify.com/track/71mh0Jiw6oJrUndhwWyqVi"
+    },
+    {
+      "added_at": "2024-04-26 21:08:15",
+      "album": {
+        "name": "Nothing Feels The Same",
+        "url": "https://open.spotify.com/album/2PBO8ZKmkZ6PU6Jlhf6o8o"
+      },
+      "artists": [
+        {
+          "name": "Love,Shaun",
+          "url": "https://open.spotify.com/artist/4qvKSBd9PKGZQ7cmWdOllu"
+        }
+      ],
+      "duration_ms": 181951,
+      "name": "Nothing Feels The Same",
+      "url": "https://open.spotify.com/track/66P0qP5U9ymSHio61L0Buy"
     },
     {
       "added_at": "2024-04-24 16:38:08",
@@ -113,20 +129,56 @@
       "url": "https://open.spotify.com/track/2KWiozG67VXI7AF71mp4yV"
     },
     {
-      "added_at": "2024-04-24 16:38:08",
+      "added_at": "2024-01-24 18:00:00",
       "album": {
-        "name": "keep coming back",
-        "url": "https://open.spotify.com/album/1RvPCMWyMaq64A9AtQjDF9"
+        "name": "FIRST ENCOUNTER",
+        "url": "https://open.spotify.com/album/4rOqXdpoXvE1PH59Jf88be"
       },
       "artists": [
         {
-          "name": "Midnight Dance Party",
-          "url": "https://open.spotify.com/artist/27CcPFsy79qUbXjqWSDkjj"
+          "name": "BOABOA",
+          "url": "https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o"
         }
       ],
-      "duration_ms": 227076,
-      "name": "keep coming back",
-      "url": "https://open.spotify.com/track/2LgTydGnRSUknlCumw2ouF"
+      "duration_ms": 169354,
+      "name": "Boy, Empty",
+      "url": "https://open.spotify.com/track/0SNuOUnmzWghN3oPcaduCA"
+    },
+    {
+      "added_at": "2024-04-26 21:08:15",
+      "album": {
+        "name": "Heaven (feat. Marlene)",
+        "url": "https://open.spotify.com/album/2nHfdDZe6Kt8ovaDij2i4K"
+      },
+      "artists": [
+        {
+          "name": "CHROMEBODIES",
+          "url": "https://open.spotify.com/artist/5SY7jZZAfGLD3R9FYwoYGI"
+        },
+        {
+          "name": "Marlene",
+          "url": "https://open.spotify.com/artist/0pAV5GaO9ak8wk1NnF37Cl"
+        }
+      ],
+      "duration_ms": 155200,
+      "name": "Heaven (feat. Marlene)",
+      "url": "https://open.spotify.com/track/0JpPjzoVsd8Zi4yiowKQK6"
+    },
+    {
+      "added_at": "2024-04-24 16:38:08",
+      "album": {
+        "name": "Your",
+        "url": "https://open.spotify.com/album/1MXLc70HeKb8l4xGgOnAw3"
+      },
+      "artists": [
+        {
+          "name": "DJ Football",
+          "url": "https://open.spotify.com/artist/4XPalh4iMml1meSDMvyoKf"
+        }
+      ],
+      "duration_ms": 176517,
+      "name": "Your",
+      "url": "https://open.spotify.com/track/3npxOIjktGR2efNexj8vES"
     },
     {
       "added_at": "2024-04-24 16:38:08",
@@ -147,6 +199,54 @@
       "duration_ms": 223314,
       "name": "Fall Apart",
       "url": "https://open.spotify.com/track/1wICnj0tNvqfL2t7ZzJ782"
+    },
+    {
+      "added_at": "2024-04-24 16:38:08",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/46nHHymUyr3YZlxNRK9Y5h"
+      },
+      "artists": [
+        {
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+        }
+      ],
+      "duration_ms": 212463,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/3AfHjDjQcA8yyMyCMCZ77V"
+    },
+    {
+      "added_at": "2024-03-27 17:04:34",
+      "album": {
+        "name": "Warm The Room EP",
+        "url": "https://open.spotify.com/album/6XHIfFyCpIKW4eaKSfm9MY"
+      },
+      "artists": [
+        {
+          "name": "Vales",
+          "url": "https://open.spotify.com/artist/4ivi3u9exYoKCz1c01QfqE"
+        }
+      ],
+      "duration_ms": 198095,
+      "name": "Warm The Room",
+      "url": "https://open.spotify.com/track/3o3RBrOBpe1OkJpoSRwDqo"
+    },
+    {
+      "added_at": "2024-04-26 21:08:15",
+      "album": {
+        "name": "In The End",
+        "url": "https://open.spotify.com/album/4zaM38yi3WIcmbGMRtI1G1"
+      },
+      "artists": [
+        {
+          "name": "Prof. Stranger",
+          "url": "https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp"
+        }
+      ],
+      "duration_ms": 222608,
+      "name": "In The End",
+      "url": "https://open.spotify.com/track/2uTqPpiBfdI4LatYsbKfY8"
     },
     {
       "added_at": "2024-04-03 23:31:06",
@@ -181,36 +281,36 @@
       "url": "https://open.spotify.com/track/3YQZGmQ0ZetJLe0R3oHY04"
     },
     {
-      "added_at": "2024-01-24 18:00:00",
+      "added_at": "2024-04-26 21:08:15",
       "album": {
-        "name": "FIRST ENCOUNTER",
-        "url": "https://open.spotify.com/album/4rOqXdpoXvE1PH59Jf88be"
+        "name": "Tusen Takk",
+        "url": "https://open.spotify.com/album/4yEGt45nj21TdlnUtdVm3N"
       },
       "artists": [
         {
-          "name": "BOABOA",
-          "url": "https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o"
+          "name": "V. Christie",
+          "url": "https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm"
         }
       ],
-      "duration_ms": 169354,
-      "name": "Boy, Empty",
-      "url": "https://open.spotify.com/track/0SNuOUnmzWghN3oPcaduCA"
+      "duration_ms": 220444,
+      "name": "Tusen Takk",
+      "url": "https://open.spotify.com/track/7rFTbmyonDoQaiPI0bmAbF"
     },
     {
-      "added_at": "2024-04-24 16:38:08",
+      "added_at": "2024-04-26 21:08:15",
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/46nHHymUyr3YZlxNRK9Y5h"
+        "name": "holy ghost",
+        "url": "https://open.spotify.com/album/0H9k8NduBG5dcan4V1FJ6m"
       },
       "artists": [
         {
-          "name": "Pretty Girl",
-          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
         }
       ],
-      "duration_ms": 212463,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/3AfHjDjQcA8yyMyCMCZ77V"
+      "duration_ms": 152678,
+      "name": "holy ghost",
+      "url": "https://open.spotify.com/track/5IcmUnL95u4YFo6hhIbPZV"
     },
     {
       "added_at": "2024-04-24 16:38:08",
@@ -237,38 +337,6 @@
       "url": "https://open.spotify.com/track/39Sgj7Pj29L9dX1uhOk2Ht"
     },
     {
-      "added_at": "2024-03-27 17:04:34",
-      "album": {
-        "name": "Warm The Room EP",
-        "url": "https://open.spotify.com/album/6XHIfFyCpIKW4eaKSfm9MY"
-      },
-      "artists": [
-        {
-          "name": "Vales",
-          "url": "https://open.spotify.com/artist/4ivi3u9exYoKCz1c01QfqE"
-        }
-      ],
-      "duration_ms": 198095,
-      "name": "Warm The Room",
-      "url": "https://open.spotify.com/track/3o3RBrOBpe1OkJpoSRwDqo"
-    },
-    {
-      "added_at": "2024-01-26 22:15:12",
-      "album": {
-        "name": "The Auction",
-        "url": "https://open.spotify.com/album/4s1Ra8QnO5KdmEhkPUTYlt"
-      },
-      "artists": [
-        {
-          "name": "Nikita, the Wicked",
-          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
-        }
-      ],
-      "duration_ms": 176363,
-      "name": "The Auction",
-      "url": "https://open.spotify.com/track/0fyatRJCPPj2V6maXthHIu"
-    },
-    {
       "added_at": "2024-04-24 16:38:08",
       "album": {
         "name": "Need You Now",
@@ -283,6 +351,22 @@
       "duration_ms": 174338,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/5X21uANL3TPmskQEphYNgR"
+    },
+    {
+      "added_at": "2024-04-26 21:08:15",
+      "album": {
+        "name": "One (Edit)",
+        "url": "https://open.spotify.com/album/3tixmIEv4JBngTWmWZFvor"
+      },
+      "artists": [
+        {
+          "name": "briqs",
+          "url": "https://open.spotify.com/artist/2fimBXXBJgpNOdq7Jk1osw"
+        }
+      ],
+      "duration_ms": 240245,
+      "name": "One - Edit",
+      "url": "https://open.spotify.com/track/6EW5n7EQKoBd306OB8penN"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -301,6 +385,38 @@
       "url": "https://open.spotify.com/track/6IZBSemFcZQfKiNsFY12Ac"
     },
     {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Make You Look",
+        "url": "https://open.spotify.com/album/6U0fhe2i6Ra6xhXKqsd6kM"
+      },
+      "artists": [
+        {
+          "name": "Dee Mad",
+          "url": "https://open.spotify.com/artist/6ofHQpykLy6SINDBBKqoOI"
+        }
+      ],
+      "duration_ms": 136551,
+      "name": "Make You Look",
+      "url": "https://open.spotify.com/track/1JV2huNb9YzUfRzJVA0ato"
+    },
+    {
+      "added_at": "2024-04-26 21:08:15",
+      "album": {
+        "name": "At Night I Think Of You",
+        "url": "https://open.spotify.com/album/4q9t94AWB5uKwDprvQr9XM"
+      },
+      "artists": [
+        {
+          "name": "Tr\u00e8s Mortimer",
+          "url": "https://open.spotify.com/artist/3zGzbXr9Q8zS9xictKAnt7"
+        }
+      ],
+      "duration_ms": 181911,
+      "name": "At Night I Think Of You",
+      "url": "https://open.spotify.com/track/1pQKGS37CbpXavYhOC2WGm"
+    },
+    {
       "added_at": "2024-04-24 16:38:08",
       "album": {
         "name": "there she goes!",
@@ -315,6 +431,38 @@
       "duration_ms": 117120,
       "name": "there she goes!",
       "url": "https://open.spotify.com/track/0rAcqehC5wtS5PfgoP6NOJ"
+    },
+    {
+      "added_at": "2024-04-10 18:23:48",
+      "album": {
+        "name": "Cigarette",
+        "url": "https://open.spotify.com/album/6JJUx5ImjU5D10N4mpLs7f"
+      },
+      "artists": [
+        {
+          "name": "Lucky Yu",
+          "url": "https://open.spotify.com/artist/7EVJloAqLSz0LiDi3308dL"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "Cigarette",
+      "url": "https://open.spotify.com/track/5xiiqiCNaFVAged8VtyEnM"
+    },
+    {
+      "added_at": "2024-03-15 16:23:10",
+      "album": {
+        "name": "Young",
+        "url": "https://open.spotify.com/album/5BveF9ohNHphAnVKlMqMNe"
+      },
+      "artists": [
+        {
+          "name": "Swoosh",
+          "url": "https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG"
+        }
+      ],
+      "duration_ms": 214225,
+      "name": "Young",
+      "url": "https://open.spotify.com/track/1YaD5RptFvZSFkSgcYONHJ"
     },
     {
       "added_at": "2024-03-27 17:04:34",
@@ -365,22 +513,6 @@
       "url": "https://open.spotify.com/track/5VMPlJECg6OBPHCDvfpShb"
     },
     {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Make You Look",
-        "url": "https://open.spotify.com/album/6U0fhe2i6Ra6xhXKqsd6kM"
-      },
-      "artists": [
-        {
-          "name": "Dee Mad",
-          "url": "https://open.spotify.com/artist/6ofHQpykLy6SINDBBKqoOI"
-        }
-      ],
-      "duration_ms": 136551,
-      "name": "Make You Look",
-      "url": "https://open.spotify.com/track/1JV2huNb9YzUfRzJVA0ato"
-    },
-    {
       "added_at": "2024-04-10 18:23:48",
       "album": {
         "name": "POISON",
@@ -399,18 +531,18 @@
     {
       "added_at": "2024-04-24 16:38:08",
       "album": {
-        "name": "Your",
-        "url": "https://open.spotify.com/album/1MXLc70HeKb8l4xGgOnAw3"
+        "name": "keep coming back",
+        "url": "https://open.spotify.com/album/1RvPCMWyMaq64A9AtQjDF9"
       },
       "artists": [
         {
-          "name": "DJ Football",
-          "url": "https://open.spotify.com/artist/4XPalh4iMml1meSDMvyoKf"
+          "name": "Midnight Dance Party",
+          "url": "https://open.spotify.com/artist/27CcPFsy79qUbXjqWSDkjj"
         }
       ],
-      "duration_ms": 176517,
-      "name": "Your",
-      "url": "https://open.spotify.com/track/3npxOIjktGR2efNexj8vES"
+      "duration_ms": 227076,
+      "name": "keep coming back",
+      "url": "https://open.spotify.com/track/2LgTydGnRSUknlCumw2ouF"
     },
     {
       "added_at": "2024-04-10 18:23:48",
@@ -429,20 +561,20 @@
       "url": "https://open.spotify.com/track/6ul9aRluTKN8OIPgUF8qZS"
     },
     {
-      "added_at": "2024-04-10 18:23:48",
+      "added_at": "2024-01-26 22:15:12",
       "album": {
-        "name": "Cigarette",
-        "url": "https://open.spotify.com/album/6JJUx5ImjU5D10N4mpLs7f"
+        "name": "The Auction",
+        "url": "https://open.spotify.com/album/4s1Ra8QnO5KdmEhkPUTYlt"
       },
       "artists": [
         {
-          "name": "Lucky Yu",
-          "url": "https://open.spotify.com/artist/7EVJloAqLSz0LiDi3308dL"
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
         }
       ],
-      "duration_ms": 210461,
-      "name": "Cigarette",
-      "url": "https://open.spotify.com/track/5xiiqiCNaFVAged8VtyEnM"
+      "duration_ms": 176363,
+      "name": "The Auction",
+      "url": "https://open.spotify.com/track/0fyatRJCPPj2V6maXthHIu"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -459,6 +591,22 @@
       "duration_ms": 150061,
       "name": "Class",
       "url": "https://open.spotify.com/track/7f07okGBsdVLROcwsZNUK0"
+    },
+    {
+      "added_at": "2024-04-26 21:08:15",
+      "album": {
+        "name": "Desire To Be Seen",
+        "url": "https://open.spotify.com/album/7oOoRdexdRcMECOhOH1c2W"
+      },
+      "artists": [
+        {
+          "name": "JSMN",
+          "url": "https://open.spotify.com/artist/4W4uI07ZwN2wbMGD1yvOZN"
+        }
+      ],
+      "duration_ms": 243582,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/2uByt4EkmHvx0V4jFPrgxO"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -559,22 +707,6 @@
       "duration_ms": 121852,
       "name": "Waiting For You",
       "url": "https://open.spotify.com/track/0lMUbzV4YXwe0ut5Xd8Ojf"
-    },
-    {
-      "added_at": "2024-03-29 22:21:48",
-      "album": {
-        "name": "let me go*",
-        "url": "https://open.spotify.com/album/1G2wWDw7j1NQHDScKlvkAK"
-      },
-      "artists": [
-        {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
-        }
-      ],
-      "duration_ms": 139354,
-      "name": "let me go*",
-      "url": "https://open.spotify.com/track/6YuYrLiDFsUxyxZONZMVn0"
     },
     {
       "added_at": "2024-04-24 16:38:08",
@@ -699,22 +831,6 @@
       "duration_ms": 160000,
       "name": "Electric Lady",
       "url": "https://open.spotify.com/track/1DNcDsegUfObITkgEKe42C"
-    },
-    {
-      "added_at": "2024-03-15 16:23:10",
-      "album": {
-        "name": "Young",
-        "url": "https://open.spotify.com/album/5BveF9ohNHphAnVKlMqMNe"
-      },
-      "artists": [
-        {
-          "name": "Swoosh",
-          "url": "https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG"
-        }
-      ],
-      "duration_ms": 214225,
-      "name": "Young",
-      "url": "https://open.spotify.com/track/1YaD5RptFvZSFkSgcYONHJ"
     },
     {
       "added_at": "2024-01-17 17:00:00",
@@ -1223,22 +1339,6 @@
     {
       "added_at": "2024-03-27 17:04:34",
       "album": {
-        "name": "The Heat",
-        "url": "https://open.spotify.com/album/4O1m3mETlK0lRMplIfbcDe"
-      },
-      "artists": [
-        {
-          "name": "Love,Shaun",
-          "url": "https://open.spotify.com/artist/4qvKSBd9PKGZQ7cmWdOllu"
-        }
-      ],
-      "duration_ms": 136087,
-      "name": "The Heat",
-      "url": "https://open.spotify.com/track/1so4GFCujGNaWimi1IDUk4"
-    },
-    {
-      "added_at": "2024-03-27 17:04:34",
-      "album": {
         "name": "Inner Circuitry",
         "url": "https://open.spotify.com/album/2vHPBoZuIIBBsfHjRZdoAA"
       },
@@ -1479,22 +1579,6 @@
       "duration_ms": 115963,
       "name": "That's My Shit",
       "url": "https://open.spotify.com/track/0V3mQisaCvNV2EOxn1N29C"
-    },
-    {
-      "added_at": "2024-02-28 19:24:58",
-      "album": {
-        "name": "Flaws",
-        "url": "https://open.spotify.com/album/4PS0SLcIDPFS4yARhmf5uk"
-      },
-      "artists": [
-        {
-          "name": "Late June",
-          "url": "https://open.spotify.com/artist/5zMJZTfga0uJURmLLymnoh"
-        }
-      ],
-      "duration_ms": 158677,
-      "name": "Flaws",
-      "url": "https://open.spotify.com/track/47IVT3QBYhbI02oR0YvwO1"
     },
     {
       "added_at": "2024-01-10 18:34:55",

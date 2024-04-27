@@ -1,7 +1,7 @@
 {
-  "2024-04-26": 696320,
+  "2024-04-27": 696306,
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. Ayleen Valentine",
+  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. lozeak",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -3063,7 +3063,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 165657,
       "name": "daisy chains",
       "url": "https://open.spotify.com/track/5coXwSihPzuc42bOUvYRMf"
@@ -3975,6 +3975,24 @@
       "duration_ms": 161874,
       "name": "East End Boys (feat. lozeak)",
       "url": "https://open.spotify.com/track/6kxK7LtWxZwM8BJnudYmZm"
+    },
+    {
+      "album": {
+        "name": "EAT / DIRT",
+        "url": "https://open.spotify.com/album/5sSHtc1O80DaV60NDKPnYu"
+      },
+      "artists": [
+        {
+          "name": "Zoe Ko",
+          "url": "https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137500,
+      "name": "EAT",
+      "url": "https://open.spotify.com/track/3CRDDASiC4gwTYUOOdnMxt"
     },
     {
       "album": {
@@ -5229,7 +5247,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 109567,
       "name": "GET MONEY",
       "url": "https://open.spotify.com/track/5uXJvaSOdz8wp6dGEdjBUj"
@@ -9273,6 +9291,24 @@
       "duration_ms": 208773,
       "name": "Modern Love",
       "url": "https://open.spotify.com/track/0c1TvU8YThmexkEfFUt9wV"
+    },
+    {
+      "album": {
+        "name": "Moist",
+        "url": "https://open.spotify.com/album/03mXhmUKLGxyIWyDAIxxtV"
+      },
+      "artists": [
+        {
+          "name": "lozeak",
+          "url": "https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127192,
+      "name": "Moist",
+      "url": "https://open.spotify.com/track/0zF0Qrico9hPxd4dqmvsEL"
     },
     {
       "album": {

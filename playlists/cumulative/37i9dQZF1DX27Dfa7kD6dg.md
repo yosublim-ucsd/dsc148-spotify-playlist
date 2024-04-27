@@ -4,7 +4,7 @@
 
 > New York salsa...it's home.
 
-236 songs - 18 hr 12 min
+237 songs - 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Acuyuye](https://open.spotify.com/track/5LCpO7pp92DHmXzCLtJnnj) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Pacheco Y Su Charanga Vol\. 3: Que Suene La Flauta](https://open.spotify.com/album/694VA7cAltUDJrYV05dvsy) | 2:33 | 2022-08-17 | 2024-04-19 |
 | [Acuyuye](https://open.spotify.com/track/54VB0KUguo7GExJPfiO5bW) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Anthology](https://open.spotify.com/album/4YgJNWVW3Kxr52Kui8HTY0) | 2:35 | 2024-04-12 |  |
 | [Acuyuye](https://open.spotify.com/track/4j8uY4BhwMlgHg2tuVCdqj) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Hits Salseros Vol.2](https://open.spotify.com/album/3yQRAovUp0YwpNTvS7z5h3) | 2:35 | 2022-08-17 | 2022-11-14 |
+| [Ale Ale](https://open.spotify.com/track/2cSqX6LYlP2hqVxr6fhC0j) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Ale Ale](https://open.spotify.com/album/533koxEqsjn5Pve9OgE5JB) | 3:49 | 2024-04-26 |  |
 | [Amor Perfecto](https://open.spotify.com/track/6aceQoxzSrHTvrmcAEOXaY) | [Alex Matos](https://open.spotify.com/artist/4nwpr7Msz5dvHftcPNkDRC) | [El Salsero De Ahora](https://open.spotify.com/album/3assxvTXExDZ6uxjvxojvQ) | 4:35 | 2022-08-17 | 2024-04-19 |
 | [Amor Perfecto](https://open.spotify.com/track/6paVGVOG0TCsLoJg56mw3S) | [Alex Matos](https://open.spotify.com/artist/4nwpr7Msz5dvHftcPNkDRC) | [El Salsero De Ahora](https://open.spotify.com/album/3WtBQZ96bgpLryiWNQ3t0D) | 4:37 | 2024-04-12 |  |
 | [Anacaona](https://open.spotify.com/track/0NP1zQ8Oqlz43Q2QEjmghg) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC) | [Cheo](https://open.spotify.com/album/7dJT6ZBo7VxF41pw5tSrli) | 4:13 | 2022-08-17 | 2024-04-19 |

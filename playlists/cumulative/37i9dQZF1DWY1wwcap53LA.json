@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 190922,
       "name": "Alabama Nights",
       "url": "https://open.spotify.com/track/0wKZraHIi51smdFZOjJgc5"
@@ -1441,6 +1441,24 @@
     },
     {
       "album": {
+        "name": "I Ain't A Cowgirl",
+        "url": "https://open.spotify.com/album/7vQmGhj7VW4TM4YeBN1nRW"
+      },
+      "artists": [
+        {
+          "name": "Tiera Kennedy",
+          "url": "https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181148,
+      "name": "I Ain't A Cowgirl",
+      "url": "https://open.spotify.com/track/6TjRLpByCtpmatpCoFV9Na"
+    },
+    {
+      "album": {
         "name": "I Like You Better",
         "url": "https://open.spotify.com/album/79MV4Y5B13sz8nlhEJh4bG"
       },
@@ -2483,6 +2501,24 @@
     },
     {
       "album": {
+        "name": "Scary Love",
+        "url": "https://open.spotify.com/album/3F9p267m68RpVbRhksOlhN"
+      },
+      "artists": [
+        {
+          "name": "Mickey Guyton",
+          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180603,
+      "name": "Scary Love",
+      "url": "https://open.spotify.com/track/1Q2npOPcXnQA8sYKV0fLy2"
+    },
+    {
+      "album": {
         "name": "See You in Church.",
         "url": "https://open.spotify.com/album/0EY9R4wwDyk8crB65GYfKv"
       },
@@ -3352,7 +3388,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 256278,
       "name": "Un-Break My Heart - Spotify Singles",
       "url": "https://open.spotify.com/track/0wGOX6Go9IHpSXgL6SfsD1"

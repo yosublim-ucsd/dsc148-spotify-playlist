@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "NzI5NSwxZTk2MmZiODE5NGJmMWY1MDIxNDhmMTMyYTM3YzI3YTk2MjQ1M2Vl",
+  "snapshot_id": "NzI5Niw2ZTJjOTIxMmI1YTAxOTNkMjExYjQzZjg0YWIwMTEwZGU4MTQ2ZDkx",
   "tracks": [
     {
       "added_at": "2022-09-26 20:53:27",
@@ -1403,6 +1403,22 @@
       "duration_ms": 255207,
       "name": "My Balloon",
       "url": "https://open.spotify.com/track/4pnA1Ur4W98FlmJpnkEsTH"
+    },
+    {
+      "added_at": "2024-04-26 23:40:45",
+      "album": {
+        "name": "Super Trouper",
+        "url": "https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 274466,
+      "name": "Lay All Your Love On Me",
+      "url": "https://open.spotify.com/track/4euAGZTszWPrriggYK0HG9"
     }
   ],
   "unique_name": "main ",

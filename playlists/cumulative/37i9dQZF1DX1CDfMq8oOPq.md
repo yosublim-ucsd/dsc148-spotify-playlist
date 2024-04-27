@@ -2,9 +2,9 @@
 
 ### [Baby Hair](https://open.spotify.com/playlist/37i9dQZF1DX1CDfMq8oOPq)
 
-> só faixa rosa, tem disposição? 🎀 Foto: Amabbi
+> só faixa rosa, tem disposição? 🎀 Foto: Cristal
 
-230 songs - 10 hr 58 min
+231 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Que Se Vá](https://open.spotify.com/track/7tSZyaZS1hHZ87RcZ2jAeB) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [AFRODHIT](https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5) | 2:24 | 2023-08-04 | 2023-10-28 |
 | [Questão de Honra](https://open.spotify.com/track/0fuV3r0zNmIEstnTTAH8Yy) | [Mih](https://open.spotify.com/artist/61zf1QL76js0BddVLq77lj), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Questão de Honra](https://open.spotify.com/album/3UTlP3nvWPMsQvSDlsLSxJ) | 2:41 | 2023-06-23 | 2023-07-22 |
 | [Realeza](https://open.spotify.com/track/5OU9MTz2dl9HKJmoxA5dJV) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT) | [Rapper](https://open.spotify.com/album/6QUcLAP54GOcf5ZUoSbUoZ) | 2:22 | 2022-12-12 | 2023-04-09 |
+| [Redial \- Ao Vivo](https://open.spotify.com/track/3jjAuk9eCAFI0lYMOxqpM7) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX) | [Cristal no Estúdio Showlivre \(Ao Vivo\)](https://open.spotify.com/album/4i7M914lNxmJeSagnYYLWw) | 3:50 | 2024-04-26 |  |
 | [Ref Delas](https://open.spotify.com/track/2saEZ80HauiGjLE8wt9syS) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT) | [It Girl](https://open.spotify.com/album/1Ynhp5YkHTsVYmtHdvUwe5) | 2:19 | 2023-12-15 | 2024-03-16 |
 | [Refiz uma de Amor](https://open.spotify.com/track/7nWDoDGFHg2zn6jXw2IHKJ) | [Karol de Souza](https://open.spotify.com/artist/6hop0oGyhItA6dB4TcbmV8) | [Refiz uma de Amor](https://open.spotify.com/album/4gxtiK4zuXpTyh0lTyR5no) | 3:11 | 2023-09-22 | 2023-10-14 |
 | [Refém](https://open.spotify.com/track/1SYjTbInhgWNGjUHpLjRwe) | [Anna Suav](https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX) | [Eva Grão](https://open.spotify.com/album/6rS7VkbmlppFB4c3Sq0M8F) | 3:26 | 2022-03-11 | 2022-04-16 |
@@ -225,7 +226,7 @@
 | [Tropa do Mantém](https://open.spotify.com/track/4DbUD96eZfP9zVca7vgqgD) | [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Tropa do Mantém](https://open.spotify.com/album/68wHxRNVAr8OqV9ZiyoCDQ) | 2:44 | 2023-03-10 |  |
 | [TUA BITCH](https://open.spotify.com/track/72BAYk9CRm5tPSFmc33djL) | [Dona Nyna](https://open.spotify.com/artist/6PTL1TJ8Chen7iN4cQFGpQ) | [Tua Bitch](https://open.spotify.com/album/3kGPprFPCsh8G82UfU5nDY) | 3:13 | 2023-08-04 | 2023-08-19 |
 | [Tukikis](https://open.spotify.com/track/4yaZDkcert6F9kN4Bs51B7) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1) | [Tukikis](https://open.spotify.com/album/0NarRuAKpqlB8Aet14O24n) | 2:54 | 2022-10-08 | 2023-09-30 |
-| [Turnê](https://open.spotify.com/track/2ELpcdKuPAJpC6sPJEaMzI) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT), [Jaxz Bond](https://open.spotify.com/artist/5ekHzRx0U0hsDgja4ydH7X), [Prod Malax](https://open.spotify.com/artist/5X5jKBLJ88Ji6tzwfL0g4c) | [It Girl Pt\. 2](https://open.spotify.com/album/6NZvkPXAtD3ksX7Tm7nFFK) | 2:24 | 2024-04-19 |  |
+| [Turnê](https://open.spotify.com/track/2ELpcdKuPAJpC6sPJEaMzI) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT), [Jaxz Bond](https://open.spotify.com/artist/5ekHzRx0U0hsDgja4ydH7X), [Prod Malax](https://open.spotify.com/artist/5X5jKBLJ88Ji6tzwfL0g4c) | [It Girl Pt\. 2](https://open.spotify.com/album/6NZvkPXAtD3ksX7Tm7nFFK) | 2:24 | 2024-04-19 | 2024-04-27 |
 | [Vai Ficar \(Live at Soho Sessions\)](https://open.spotify.com/track/1LvjU5igregWzDRl6kRMkc) | [King](https://open.spotify.com/artist/6EErJIzXBBSWY7MkH3OaYY), [Soho Sessions](https://open.spotify.com/artist/02bsMuvxMq6bvNLAJdtOQe) | [Vai Ficar \(Live at Soho Sessions\)](https://open.spotify.com/album/1Mo043KD2TGELiE4D0cAfd) | 3:25 | 2023-07-28 | 2023-08-26 |
 | [Vejo o bem](https://open.spotify.com/track/5M37zvK48rOQMOVyc0t36o) | [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge) | [Urucum](https://open.spotify.com/album/23Zw9VnwKnrSkbGGJQKwPi) | 2:48 | 2022-04-01 | 2022-04-29 |
 | [Verdinha Criminosa](https://open.spotify.com/track/6WHReC5GArql7M1MC92DY4) | [MC KTRINE](https://open.spotify.com/artist/5OYUyB5akCjyfKq9TDn283), [Hugão](https://open.spotify.com/artist/4wFNtMpRn2TEzEXZG60iXY), [EHXIS](https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4) | [Verdinha Criminosa](https://open.spotify.com/album/2EedIUumt8ALF4Hr26SunX) | 2:39 | 2024-01-26 |  |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-2,536 songs - 5 day 4 hr 32 min
+2,537 songs - 5 day 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [AMG](https://open.spotify.com/track/1cfRQnbM4Cf0xEt3mx2cQ6) | [RIN](https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz), [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [AMG](https://open.spotify.com/album/3uOS4JoGRQ6azsAJYxtloB) | 2:14 | 2023-03-11 | 2023-03-25 |
 | [Amigo](https://open.spotify.com/track/4ZF0QmrQFgzfolUFcYfhBx) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl), [Veysel](https://open.spotify.com/artist/4VuARVJiWGsH2msKTdsKdQ) | [Amigo](https://open.spotify.com/album/6nKH9V3RDXbMGQjNje7Vne) | 2:27 | 2023-09-16 | 2023-09-18 |
 | [Amin](https://open.spotify.com/track/1RaKuNtBHJudTsw4xCzkAr) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [Amin](https://open.spotify.com/album/05pWzqivs016ZwbGoPmAY8) | 2:04 | 2022-06-25 | 2022-07-03 |
+| [Amo aller Amos](https://open.spotify.com/track/7eBo7oeGFWJ9GlL1Me6NuV) | [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Amo aller Amos](https://open.spotify.com/album/2tlaiOi78UcXOTtsD3k48j) | 1:49 | 2024-04-26 |  |
 | [Amsterdam](https://open.spotify.com/track/5NDUmScXpBPg6NQS50bVTR) | [Eno](https://open.spotify.com/artist/3GBBxBdoolb0B5YizZq9bF) | [Amsterdam](https://open.spotify.com/album/1XPIZWM5Tr4fSFYvcEZrLA) | 2:52 | 2022-07-30 | 2022-08-06 |
 | [An meinem schlechtesten Tag \(feat\. Samra\)](https://open.spotify.com/track/2k3eSZAcD5asE39rpNQUOU) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK), [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [Aus dem Licht in den Schatten zurück](https://open.spotify.com/album/3HZlAyqo5eNLADmAagNn0s) | 2:03 | 2021-05-23 | 2021-05-30 |
 | [Andale \(feat\. badmómzjay, Bausa & KALIM\)](https://open.spotify.com/track/7fusuAmE8bSTQIppkWpzMa) | [DJ JEEZY](https://open.spotify.com/artist/6Ql5ZUhTCAn62skkbRJWCq), [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [KALIM](https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z) | [Andale \(feat\. badmómzjay, Bausa & KALIM\)](https://open.spotify.com/album/1mxzm1P8VC6tYve9tJvwZJ) | 2:25 | 2022-01-15 | 2022-01-24 |
@@ -390,7 +391,7 @@
 | [BURN](https://open.spotify.com/track/4E3XDKil4ElJt6sXuz5cc6) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 1:51 | 2024-02-12 | 2024-02-16 |
 | [BURN](https://open.spotify.com/track/04CyMEHliadfQWMUJb1w99) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 1:51 | 2024-02-15 | 2024-02-18 |
 | [BUSINESS STRAIGHT](https://open.spotify.com/track/5Cb7uEN2BM9t0Y5FjEq9ga) | [BILLA JOE](https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6), [Faroon](https://open.spotify.com/artist/697ZbUKLJSEWWhtayAGxBY) | [BUSINESS STRAIGHT](https://open.spotify.com/album/6zOaTkMG61UOgHnmbDat53) | 2:04 | 2024-01-20 | 2024-02-25 |
-| [But Daddy I Love Him](https://open.spotify.com/track/5og4Qzt92jJzVDkOtSEilb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 5:40 | 2024-04-20 |  |
+| [But Daddy I Love Him](https://open.spotify.com/track/5og4Qzt92jJzVDkOtSEilb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 5:40 | 2024-04-20 | 2024-04-27 |
 | [Butter](https://open.spotify.com/track/2bgTY4UwhfBYhGT4HUYStN) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter \(Hotter, Sweeter, Cooler\)](https://open.spotify.com/album/1HnJKmB4P6Z8RBdLMWx18w) | 2:44 | 2021-06-10 | 2021-06-11 |
 | [Butter](https://open.spotify.com/track/3VqeTFIvhxu3DIe4eZVzGq) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter](https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD) | 2:44 | 2021-05-23 | 2021-06-10 |
 | [Butterflies](https://open.spotify.com/track/5fPWjgmmn4ojOOy5iwHvN3) | [PA Sports](https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt), [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [LIFE IS PAIN](https://open.spotify.com/album/16RLZkmkbIZndcpAV7jRTF) | 2:42 | 2023-07-08 | 2023-07-10 |

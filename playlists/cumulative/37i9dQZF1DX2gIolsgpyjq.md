@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the Nordics\. Cover: Professor Stranger
 
-279 songs - 14 hr 35 min
+281 songs - 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [needy](https://open.spotify.com/track/0k0ZsYL8jgZD9zmZroYlMd) | [Elvira Alfaro](https://open.spotify.com/artist/2X935u573aID4nnG97RwE9) | [needy](https://open.spotify.com/album/7hRnkCOtq6FKncQYjZBedr) | 3:00 | 2024-03-21 |  |
 | [Never Alone](https://open.spotify.com/track/33PhjlJSzCGh5ZXvdddlxm) | [Pasha](https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl) | [Never Alone](https://open.spotify.com/album/059eF3Z2bp9Y9yyUmi2rKh) | 2:26 | 2024-02-08 | 2024-02-16 |
 | [New Age](https://open.spotify.com/track/1AeGCEncaEACQkted34bAE) | [Ely Eira](https://open.spotify.com/artist/5IdqmiFiHkfWGSQcjdz41u) | [Welcome to the New Age](https://open.spotify.com/album/6QN1xgBKeFhq6AnnmzUuU7) | 2:53 | 2024-04-11 |  |
+| [New Beginnings](https://open.spotify.com/track/2p63i5ntlS4BvoL0ijU9bG) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [New Beginnings](https://open.spotify.com/album/0dOkdpavoIyGjpcihlQfQL) | 3:04 | 2024-04-26 |  |
 | [New Shoes](https://open.spotify.com/track/6s02C7oN8eAbhDnHQ00zE2) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI), [Allina](https://open.spotify.com/artist/5nys5JMkNdnpE7bYevIQHX) | [Allina](https://open.spotify.com/album/2SYF214s2NIu7xfT41eHMx) | 2:04 | 2024-02-08 | 2024-02-16 |
 | [No Angels Below](https://open.spotify.com/track/2OzAFmKlA7RuDTFr1UqmFf) | [Soren Hansen](https://open.spotify.com/artist/3HVOiUBC3JMP1WbefkZAAu) | [No Angels Below](https://open.spotify.com/album/7DvEgNy2GU4YIF3rfmy79h) | 3:07 | 2024-03-14 | 2024-04-05 |
 | [no caller id](https://open.spotify.com/track/7q4vko1RSP7elEoatYhFBf) | [ghosthands](https://open.spotify.com/artist/1wNZGB5JKkcCu4EYNws9rL), [静的 Static](https://open.spotify.com/artist/6rEjEIfp3NSRteU3kJGSET) | [no caller id](https://open.spotify.com/album/4NfL8A3Ac3BkDGloi2C6NU) | 3:13 | 2024-02-08 | 2024-02-16 |
@@ -243,6 +244,7 @@
 | [sugarcoat](https://open.spotify.com/track/1eOxQrohc4LaExjM64hYpJ) | [WIINSTON](https://open.spotify.com/artist/2y83GOxwL8okDqmxSmyX5o) | [sugarcoat](https://open.spotify.com/album/0fUNxwzyslKxKzVfw96hss) | 3:11 | 2024-03-28 |  |
 | [Susan](https://open.spotify.com/track/0WXK5gHuLdVDW4ZHvUS4TO) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Susan](https://open.spotify.com/album/5U1OdMZOnDeKJs7a3beIC0) | 3:18 | 2024-02-08 | 2024-03-01 |
 | [Sweetest Issue](https://open.spotify.com/track/5mskSVBbQO6UIudQABwa3J) | [Olivera](https://open.spotify.com/artist/4iFfQpzvTJDhqmSi28EhYu) | [Sweetest Issue](https://open.spotify.com/album/5xfe7nxVDnShJEm4UpsPNQ) | 2:48 | 2024-02-08 | 2024-02-23 |
+| [Switch](https://open.spotify.com/track/1OKi8vJj0O2dB94BFEtGaE) | [Layer J](https://open.spotify.com/artist/48KALXBf9Ookq2j30lSKBf) | [Switch](https://open.spotify.com/album/4Q7FCSBd5QJqOehksCM0E3) | 6:37 | 2024-04-26 |  |
 | [Ta\-Dah](https://open.spotify.com/track/5rIm1xHHnN9kx7VKENe2AE) | [Kinck](https://open.spotify.com/artist/3WIqCpjYUrR2Bt9rFYNaej) | [Ta\-Dah](https://open.spotify.com/album/4dYbcrZPMtx8xx2cklO9VI) | 2:30 | 2024-02-15 | 2024-03-22 |
 | [Television Sound](https://open.spotify.com/track/0i4cJ0eopiXEstac4yovYl) | [Ellison](https://open.spotify.com/artist/1pF3ZfKACJViikvLsIjELq) | [Somewhere In Oslo](https://open.spotify.com/album/6JHpviHxgAfzqy3Cp8EUA1) | 2:55 | 2024-02-15 | 2024-03-22 |
 | [Thank God](https://open.spotify.com/track/1GN5whVD9c2EuFdZurHwVb) | [Hanna Emilie](https://open.spotify.com/artist/2JQwvgLu8J0FgSMWVhVySb) | [Thank God](https://open.spotify.com/album/18dUuN21ynvDoXmZPxb8ZH) | 2:33 | 2024-02-08 | 2024-03-29 |

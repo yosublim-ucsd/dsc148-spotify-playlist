@@ -2865,6 +2865,32 @@
     },
     {
       "album": {
+        "name": "Keh Na Paya",
+        "url": "https://open.spotify.com/album/6HVCgT6H6Rry3D5ksUANVx"
+      },
+      "artists": [
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+        },
+        {
+          "name": "Neehar Pandit",
+          "url": "https://open.spotify.com/artist/1FCBqwvbf9Apdkul2z6Z67"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208125,
+      "name": "Keh Na Paya",
+      "url": "https://open.spotify.com/track/2fvForfpyakKCKCqTpJQeS"
+    },
+    {
+      "album": {
         "name": "Kehedo Sanam",
         "url": "https://open.spotify.com/album/36vvhudUd2zaFouRIIaltH"
       },
@@ -3809,6 +3835,32 @@
     },
     {
       "album": {
+        "name": "Achha Lag Raha Hai",
+        "url": "https://open.spotify.com/album/5rSSwWHFO7BDclf2ktbsML"
+      },
+      "artists": [
+        {
+          "name": "Sachet Tandon",
+          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
+        },
+        {
+          "name": "Parampara Tandon",
+          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184149,
+      "name": "Malang Sajna - Jamming Version",
+      "url": "https://open.spotify.com/track/5emwpQvSRKbYlIcUziCZN9"
+    },
+    {
+      "album": {
         "name": "Mangoge Na ?",
         "url": "https://open.spotify.com/album/1ynBnifQXmEeDrKTbIi9w7"
       },
@@ -4546,7 +4598,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 132212,
       "name": "Piya (Mehfil Unplugged)",
       "url": "https://open.spotify.com/track/0kFfxbe1B56kGtNZgjHI3d"
@@ -5832,7 +5884,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 186674,
       "name": "Tu Hi Tu Unplugged Version",
       "url": "https://open.spotify.com/track/2Wr3oKxthfi4U8MvAkaTty"

@@ -3385,6 +3385,32 @@
     },
     {
       "album": {
+        "name": "ROCKSTAR WITHOUT A GUITAR",
+        "url": "https://open.spotify.com/album/1DayIaoubhlZ9kiX2mB9So"
+      },
+      "artists": [
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        },
+        {
+          "name": "Abdul Hannan",
+          "url": "https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1"
+        },
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188250,
+      "name": "MAKE YOU MINE (feat. Abdul Hannan & Hasan Raheem)",
+      "url": "https://open.spotify.com/track/6OyqZB5FA70Nnl6Z7GkN2Y"
+    },
+    {
+      "album": {
         "name": "Makhmal",
         "url": "https://open.spotify.com/album/1vyIwvbXKGfu9AoLNg6WGx"
       },

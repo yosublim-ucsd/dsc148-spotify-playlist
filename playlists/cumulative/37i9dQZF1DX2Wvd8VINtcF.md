@@ -4,7 +4,7 @@
 
 > pearls of an oyster\. Cover: ANOTR
 
-1,230 songs - 2 day 19 hr 42 min
+1,231 songs - 2 day 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -709,7 +709,7 @@
 | [midnight sun \- king krule remix](https://open.spotify.com/track/6SXcWDjgltK4FKH7GGZnqy) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA), [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [PAINLESS \(Deluxe Edition\)](https://open.spotify.com/album/4Vj636uY4zVju5d3NWc9jP) | 5:03 | 2022-12-15 | 2023-03-10 |
 | [Mike \(desert island duvet\)](https://open.spotify.com/track/6cqcmtaxNL7YCKKsuYAPJo) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Mike \(desert island duvet\)](https://open.spotify.com/album/3lYzZoDorEtJsL3uRZ5dPa) | 4:24 | 2023-03-02 | 2023-05-12 |
 | [Mile End \- A COLORS SHOW](https://open.spotify.com/track/6mASxVYgPVdBdtAFxZZO21) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Mile End \- A COLORS SHOW](https://open.spotify.com/album/0KrUum0XYaw2JEErYAxLBE) | 2:33 | 2023-07-06 | 2023-09-22 |
-| [MILLION DOLLAR BABY](https://open.spotify.com/track/63M6908XmMHzhu4QMocHH0) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/4EYpKEHXWiFaZw6Jo9t74Y) | 2:35 | 2024-04-25 |  |
+| [MILLION DOLLAR BABY](https://open.spotify.com/track/63M6908XmMHzhu4QMocHH0) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/4EYpKEHXWiFaZw6Jo9t74Y) | 2:35 | 2024-04-25 | 2024-04-27 |
 | [Millionaire](https://open.spotify.com/track/3NTgl4lHbIJw8p3bDanEa0) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Granny Music](https://open.spotify.com/album/725p6TJKBuQ5CPK6pT9S2Q) | 3:34 | 2023-09-28 | 2023-10-20 |
 | [Mindgames](https://open.spotify.com/track/6DNmmMDgkzNsNercjy4zW6) | [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Lost Kingdom](https://open.spotify.com/album/6OLCmIoUvf3kMAKBiU7wCp) | 4:51 | 2023-05-04 | 2023-08-04 |
 | [Minuteman \(with DLG.\)](https://open.spotify.com/track/2HASZGAuXMGsprIlIVNduq) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [DLG.](https://open.spotify.com/artist/6OjbjDH6ZfL9NWdioYibGP) | [Minuteman \(with DLG.\)](https://open.spotify.com/album/20A5NLjIXPE5KMzAzAzhLW) | 3:18 | 2022-12-01 | 2023-02-10 |
@@ -750,6 +750,7 @@
 | [Never Stay For Love](https://open.spotify.com/track/2QvQpwQFp8c8RJ4w7c4STR) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ), [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Never Stay For Love](https://open.spotify.com/album/5av6jXnaalIvsaKSpPKsch) | 3:42 | 2022-11-17 | 2022-12-24 |
 | [Neverender](https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Hyperdrama](https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86) | 4:26 | 2024-04-25 |  |
 | [New Age Crisis](https://open.spotify.com/track/1jbBmjncsqWO0oa81kGrCO) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [New Age Crisis](https://open.spotify.com/album/6njbQUKUGq6Nv37wVT4WWC) | 2:38 | 2024-03-07 | 2024-04-05 |
+| [New Beginnings](https://open.spotify.com/track/2p63i5ntlS4BvoL0ijU9bG) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [New Beginnings](https://open.spotify.com/album/0dOkdpavoIyGjpcihlQfQL) | 3:04 | 2024-04-26 |  |
 | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Bootie Brown](https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d) | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/album/4V9YFKLqZ5h8nQFTvDQscC) | 3:35 | 2022-10-28 | 2023-01-27 |
 | [New Light](https://open.spotify.com/track/0NVtJfkrbgzT7yRZUhmnkd) | [Varas](https://open.spotify.com/artist/7cqV19335f0Yhf76d76D8I) | [New Light](https://open.spotify.com/album/5YUbjgU5aKndFo4wIcT5rn) | 3:19 | 2022-12-15 | 2023-01-27 |
 | [New Love](https://open.spotify.com/track/1WFNU6zWFu5BpSiQOAVTAO) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:52 | 2024-04-11 | 2024-04-19 |

@@ -1,9 +1,45 @@
 {
-  "2024-04-26": 5733,
+  "2024-04-27": 5736,
   "date_first_scraped": "2022-09-17",
   "description": "D\u00e9couvrez les cr\u00e9ateurs de demain.",
   "name": "RADAR Podcasters France",
   "tracks": [
+    {
+      "album": {
+        "name": "SUR PAROLE !",
+        "url": "https://open.spotify.com/album/7gTm3tG09OCQrxhJHIuhIV"
+      },
+      "artists": [
+        {
+          "name": "SUR PAROLE !",
+          "url": "https://open.spotify.com/show/7gTm3tG09OCQrxhJHIuhIV"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4549302,
+      "name": "\"Je marche seul\" avec Adrien Menielle",
+      "url": "https://open.spotify.com/episode/1lkj1QAtdbnQqDfug1X0ZB"
+    },
+    {
+      "album": {
+        "name": "SUR PAROLE !",
+        "url": "https://open.spotify.com/album/7gTm3tG09OCQrxhJHIuhIV"
+      },
+      "artists": [
+        {
+          "name": "SUR PAROLE !",
+          "url": "https://open.spotify.com/show/7gTm3tG09OCQrxhJHIuhIV"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4535170,
+      "name": "\"Je ne suis pas un h\u00e9ros\" avec Julien Santini",
+      "url": "https://open.spotify.com/episode/0poInOtlnfO4omHBkxGiuG"
+    },
     {
       "album": {
         "name": "Inspiration Cr\u00e9ative",
@@ -114,6 +150,60 @@
     },
     {
       "album": {
+        "name": "Simple Cafeine",
+        "url": "https://open.spotify.com/album/0OJKTN6NhsYKIGNGOBcHLv"
+      },
+      "artists": [
+        {
+          "name": "Simple Cafeine",
+          "url": "https://open.spotify.com/show/0OJKTN6NhsYKIGNGOBcHLv"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1533492,
+      "name": "2 ans ensemble (beaucoup d'amour l\u00e0)",
+      "url": "https://open.spotify.com/episode/1z9HNLXIyR8MHxKTGj6xzc"
+    },
+    {
+      "album": {
+        "name": "Tchatcheuse",
+        "url": "https://open.spotify.com/album/3p4s3zc4zbJVBhlVS8yZbJ"
+      },
+      "artists": [
+        {
+          "name": "Tchatcheuse",
+          "url": "https://open.spotify.com/show/3p4s3zc4zbJVBhlVS8yZbJ"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3407307,
+      "name": "Alexis Donadey - \u00ab\u00a0Suppl\u00e9ment fromage... j'me suis embourgois\u00e9 \u00bb",
+      "url": "https://open.spotify.com/episode/1qz9Ccq1JvNkgUuBuiNCRv"
+    },
+    {
+      "album": {
+        "name": "Garce Therapy",
+        "url": "https://open.spotify.com/album/1YQ5Yuzt8nuPY1s76T261Y"
+      },
+      "artists": [
+        {
+          "name": "Garce Therapy",
+          "url": "https://open.spotify.com/show/1YQ5Yuzt8nuPY1s76T261Y"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3259533,
+      "name": "Analyse de soci\u00e9t\u00e9(+ma life) : \u00eatre une femme maghr\u00e9bine et sortir avec un rebeu",
+      "url": "https://open.spotify.com/episode/4FELqDBlUsSRictVSyNYft"
+    },
+    {
+      "album": {
         "name": "Cordialement, Zo\u00e9",
         "url": "https://open.spotify.com/album/4dcaPuhsdUzzZC80cRuc9x"
       },
@@ -125,7 +215,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 1870184,
       "name": "Ancien prisonnier, je suis devenu chef d'entreprise",
       "url": "https://open.spotify.com/episode/3dPdc7n5LtTDv4BQuqBFnG"
@@ -143,7 +233,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 4251219,
       "name": "Avant la barbiche de front ft. SML",
       "url": "https://open.spotify.com/episode/0oqGsuGYhJMzooNkwaeiZK"
@@ -161,7 +251,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 3635513,
       "name": "Avant le mythe des tongs-mocassins",
       "url": "https://open.spotify.com/episode/2LAuS7vFNR1RNramVZHDiq"
@@ -179,10 +269,28 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 3286622,
       "name": "Avant les amours de vacances",
       "url": "https://open.spotify.com/episode/3i9DiXsg1TvxEOSB4f7Tij"
+    },
+    {
+      "album": {
+        "name": "Simple Cafeine",
+        "url": "https://open.spotify.com/album/0OJKTN6NhsYKIGNGOBcHLv"
+      },
+      "artists": [
+        {
+          "name": "Simple Cafeine",
+          "url": "https://open.spotify.com/show/0OJKTN6NhsYKIGNGOBcHLv"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1224280,
+      "name": "Ces d\u00e9cisions qui ont boulevers\u00e9 ma vie",
+      "url": "https://open.spotify.com/episode/1J6SdcHyCgiSUGXszB6nun"
     },
     {
       "album": {
@@ -197,7 +305,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 1772016,
       "name": "Comment savoir si c'est la bonne personne ? (feat mon mari)",
       "url": "https://open.spotify.com/episode/59uU3sCo05rdCri7V2ycBk"
@@ -215,10 +323,28 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 2220277,
       "name": "Cupidon, former des couples est mon m\u00e9tier",
       "url": "https://open.spotify.com/episode/2g9veVQ0KxUrDgibrK0rH3"
+    },
+    {
+      "album": {
+        "name": "Absolument fabuleuses",
+        "url": "https://open.spotify.com/album/3t9Jrg3FUIIIuTaZBA4swE"
+      },
+      "artists": [
+        {
+          "name": "Absolument fabuleuses",
+          "url": "https://open.spotify.com/show/3t9Jrg3FUIIIuTaZBA4swE"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3491604,
+      "name": "Elo et Palo composent un gouvernement queer",
+      "url": "https://open.spotify.com/episode/2vrRRNuGrbxt8v7t7N0SQD"
     },
     {
       "album": {
@@ -287,7 +413,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 2182060,
       "name": "Hong-Kong \u00e0 2h du matin, une coloc, un couteau",
       "url": "https://open.spotify.com/episode/1xgaQL5NzXDDxTpXguEyLW"
@@ -305,10 +431,28 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 1560163,
       "name": "J'ai subi une agression sexuelle au travail",
       "url": "https://open.spotify.com/episode/1FCKbNQInGuGzBgRe9iqH6"
+    },
+    {
+      "album": {
+        "name": "Garce Therapy",
+        "url": "https://open.spotify.com/album/1YQ5Yuzt8nuPY1s76T261Y"
+      },
+      "artists": [
+        {
+          "name": "Garce Therapy",
+          "url": "https://open.spotify.com/show/1YQ5Yuzt8nuPY1s76T261Y"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1462938,
+      "name": "La salle d'attente de ta vie",
+      "url": "https://open.spotify.com/episode/6Lf3wmKqLJgFzYCAUp7yi0"
     },
     {
       "album": {
@@ -323,10 +467,46 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 1882331,
       "name": "Ma vie amicale est un d\u00e9sastre #HorsS\u00e9rie",
       "url": "https://open.spotify.com/episode/6NfHXqxbomq4eZQ9EAjY6L"
+    },
+    {
+      "album": {
+        "name": "Absolument fabuleuses",
+        "url": "https://open.spotify.com/album/3t9Jrg3FUIIIuTaZBA4swE"
+      },
+      "artists": [
+        {
+          "name": "Absolument fabuleuses",
+          "url": "https://open.spotify.com/show/3t9Jrg3FUIIIuTaZBA4swE"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3635539,
+      "name": "Palo et Elo re\u00e7oivent Sublyme !",
+      "url": "https://open.spotify.com/episode/2yl6yWy5rFxr2J1Vc51mbY"
+    },
+    {
+      "album": {
+        "name": "Tchatcheuse",
+        "url": "https://open.spotify.com/album/3p4s3zc4zbJVBhlVS8yZbJ"
+      },
+      "artists": [
+        {
+          "name": "Tchatcheuse",
+          "url": "https://open.spotify.com/show/3p4s3zc4zbJVBhlVS8yZbJ"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1254426,
+      "name": "Tu me dragues si...",
+      "url": "https://open.spotify.com/episode/0d3rCaBcLv7dDNM29h5ujd"
     },
     {
       "album": {
@@ -341,7 +521,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 2649417,
       "name": "Une \u00eele interdite, le pr\u00e9sident du Chili, un dipl\u00f4me de plong\u00e9e",
       "url": "https://open.spotify.com/episode/4OmHpqnqLX4i61Nc72fUEb"
@@ -359,7 +539,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 1810468,
       "name": "\u00c7a fait quoi d'\u00eatre maman ? (Vraiment)",
       "url": "https://open.spotify.com/episode/78V4rRa5RhjxJPTrTn6mck"
@@ -377,7 +557,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 787242,
       "name": "\u00c9pisode 32 : des BRUITS absolument TERRIFIANTS",
       "url": "https://open.spotify.com/episode/5isGMOYUSUiWHPh2BMeNQe"
@@ -395,7 +575,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 638165,
       "name": "\u00c9pisode 34 : la PIRE f\u00eate d'HALLOWEEN ...",
       "url": "https://open.spotify.com/episode/360vG2CpcBId83rZjp7b70"
@@ -413,7 +593,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 771178,
       "name": "\u00c9pisode 35 : La PIRE histoire d'HORREUR qui existe (vraiment c'est horrible) ",
       "url": "https://open.spotify.com/episode/3AZwFo9glnABFclxJ3ThdR"

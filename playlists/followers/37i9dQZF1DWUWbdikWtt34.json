@@ -1,7 +1,7 @@
 {
-  "2024-04-26": 187248,
+  "2024-04-27": 186870,
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang Dangdut teratas. Cover: Maulana Ardiansyah",
+  "description": "Dendang Dangdut teratas. Cover: Hari Putra",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -1054,6 +1054,24 @@
     },
     {
       "album": {
+        "name": "Hitam Bukan Putih",
+        "url": "https://open.spotify.com/album/3CEIR3DRSKg4maA0avJSm4"
+      },
+      "artists": [
+        {
+          "name": "Riri Chantika",
+          "url": "https://open.spotify.com/artist/45QLgbqjuDQzHSagWxx7VX"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333529,
+      "name": "HITAM BUKAN PUTIH",
+      "url": "https://open.spotify.com/track/6yyREPfjUN9taQYiFXaooJ"
+    },
+    {
+      "album": {
         "name": "IISTIMEWA",
         "url": "https://open.spotify.com/album/0lSqGC4B0BTMdGbvwxMuUk"
       },
@@ -1383,6 +1401,24 @@
       "duration_ms": 295010,
       "name": "Ku Puja Puja",
       "url": "https://open.spotify.com/track/13p3Fu1HTCPsUXQ8JGxVEz"
+    },
+    {
+      "album": {
+        "name": "Ku Rela Kau Pilih Dia",
+        "url": "https://open.spotify.com/album/55aZkSCmAlpyHZ586K7sNx"
+      },
+      "artists": [
+        {
+          "name": "Hari Putra",
+          "url": "https://open.spotify.com/artist/7rghk7Vdh0DpjZOpp9zSwN"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369795,
+      "name": "Ku Rela Kau Pilih Dia",
+      "url": "https://open.spotify.com/track/1TaH2ozKqo0Jy40NDrjfMD"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 
 
-197 songs - 13 hr 44 min
+199 songs - 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [hate will never win](https://open.spotify.com/track/6A3eW41fBh1sYRs94oTAKQ) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [A GHETTO CHRISTMAS CAROL](https://open.spotify.com/album/19S7TUIdqR0oqRHd14zhbW) | 1:44 | 2019-09-16 |  |
 | [Heartleap](https://open.spotify.com/track/7KaF3RQY4BFMZCoUD5U7m2) | [Justin Hawkes](https://open.spotify.com/artist/5bNvSO3b75SGJrx0kOt996) | [Heartleap](https://open.spotify.com/album/5ynbocv7MO1wn19uXW7Hlo) | 3:10 | 2023-09-30 |  |
 | [Hello](https://open.spotify.com/track/7bza6R254w7hZyNO9zaIxc) | [C4C](https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr), [kokoro](https://open.spotify.com/artist/1uJZwuCV2hXbQDSdJvj198) | [L'aventure EP](https://open.spotify.com/album/4dbwtwsD09MP1W29TWRdOg) | 2:29 | 2020-09-20 |  |
+| [Hide \(feat\. Seezyn\)](https://open.spotify.com/track/6rz0dTA0PdhXImFV5EjM0w) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Seezyn](https://open.spotify.com/artist/1jIVEaq8GmqMYb8nFNAZgb) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 3:25 | 2024-04-26 |  |
 | [High And Low \- Juuso Pikanen Remix](https://open.spotify.com/track/11n0QNWIoKRX8MXCP30IR3) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [High And Low](https://open.spotify.com/album/3qtVeUn9LjqCnHYzEef5xz) | 3:51 | 2016-01-14 |  |
 | [High You Are](https://open.spotify.com/track/6zpCJDhdpHPZCcFCJZDqX5) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Branchez](https://open.spotify.com/artist/4T5kpUiQUVJhuf9YT28qlf) | [High You Are \(Remixes\)](https://open.spotify.com/album/5FAFTIaf9DBYcmDkYB3F3g) | 3:33 | 2016-05-27 |  |
 | [Home](https://open.spotify.com/track/48xejco5XPvW43lgXV3Aj9) | [ShockOne](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH), [Reija Lee](https://open.spotify.com/artist/19Lu0quNl0YH77llcXOiDB) | [Universus](https://open.spotify.com/album/1bwlbSxQEQnpvJcqGk4dwR) | 7:13 | 2017-05-18 |  |
@@ -154,6 +155,7 @@
 | [Sing to You](https://open.spotify.com/track/02PT20DulS4wVbekDl4zhk) | [Monty Datta](https://open.spotify.com/artist/5Hx084y0lkukp4MHLFmj3S), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Sing to You](https://open.spotify.com/album/4wKAlqNlbAguVd6R2VOGGT) | 2:33 | 2019-05-09 |  |
 | [Snowblind \(feat\. Tasha Baxter\)](https://open.spotify.com/track/2ytAuyv7c30bvVyZl2Ki5r) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [Tasha Baxter](https://open.spotify.com/artist/7sLv4bED064cYa2XhF85og) | [Snowblind \(feat\. Tasha Baxter\)](https://open.spotify.com/album/6Qtx9UvZN8kZdNtc3E3A0f) | 5:47 | 2018-02-21 |  |
 | [Someone \- The Prototypes Remix](https://open.spotify.com/track/0wfplXvoyb8vY4MjFw0pDz) | [Someone \(Feat\. Mclean\)](https://open.spotify.com/artist/606NobRCnZyp7gwy8bStHT), [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr), [McLean](https://open.spotify.com/artist/4u4unPAmNsYPO7rtYgWeaz) | [Someone EP](https://open.spotify.com/album/4KUe6EEQlzIwz7SigCh96s) | 4:18 | 2018-01-31 |  |
+| [Sometimes](https://open.spotify.com/track/04K7w24hGPhcIuZMyS3xg8) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/7hDMgGXdy0x8hDbtOHIS5j) | 4:19 | 2024-04-26 |  |
 | [Spirit of Life](https://open.spotify.com/track/6eRPYyh1EPRqDhgb3Nardw) | [Blackmill](https://open.spotify.com/artist/4kjWnaLfIRcLJ1Dy4Wr6tY) | [Miracle](https://open.spotify.com/album/2ayhUoOppwZ5paYiXTRqqa) | 6:15 | 2016-01-14 |  |
 | [Starscapes \- Rameses B Remix](https://open.spotify.com/track/2aw6LCIiF9kqmKvZmm92wB) | [TwoThirds](https://open.spotify.com/artist/1Q0ug0ZkUQ3pyfY8vKE730), [Feint](https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU), [Veela](https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR) | [Starscapes](https://open.spotify.com/album/1X0na0LkeuKTH5nGJAP7fA) | 4:51 | 2016-07-14 |  |
 | [Stay](https://open.spotify.com/track/6uBhi9gBXWjanegOb2Phh0) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Stay](https://open.spotify.com/album/1I4W7JKzYbl8VKRfD61DIS) | 3:30 | 2024-02-26 |  |

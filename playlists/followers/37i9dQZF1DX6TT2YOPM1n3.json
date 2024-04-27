@@ -1,5 +1,5 @@
 {
-  "2024-04-26": 50453,
+  "2024-04-27": 50486,
   "date_first_scraped": "2023-05-05",
   "description": "Home to current Pakistani Hits. \ud83c\uddf5\ud83c\uddf0 Cover: Kaifi Khalil",
   "name": "Pakka Hit Hai",
@@ -393,6 +393,40 @@
       "duration_ms": 224853,
       "name": "Bewafa",
       "url": "https://open.spotify.com/track/4FcknXDJ8yW2QYUl0cm6uJ"
+    },
+    {
+      "album": {
+        "name": "BIG DAWG THING",
+        "url": "https://open.spotify.com/album/0Bp1c8XFPOyJFgSSI9yOzr"
+      },
+      "artists": [
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        },
+        {
+          "name": "JJ47",
+          "url": "https://open.spotify.com/artist/1SlrUQlFRfExXSCkHsQgBc"
+        },
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        },
+        {
+          "name": "Shamoon Ismail",
+          "url": "https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv"
+        },
+        {
+          "name": "Talhah Yunus",
+          "url": "https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301333,
+      "name": "BIG DAWG THING (feat. JJ47, Talha Anjum, Shamoon Ismail & Talhah Yunus)",
+      "url": "https://open.spotify.com/track/2ucn3bxMSugJRPSuciyoI6"
     },
     {
       "album": {

@@ -6,7 +6,7 @@
     "name": "BLK OUT",
     "url": "https://open.spotify.com/user/e97cbvfmxaxk9vaals1a70zla"
   },
-  "snapshot_id": "OTIsYzZiMjNlNWQyZGM5ZjIwMmZmN2ZjMDVjYzk5MGY3ODQxNWNjMzA1OQ==",
+  "snapshot_id": "OTQsMjI3ODJiMmMyOTY3ZWNlNTc2NDZmMTU2ODhkMTMzNWQ4MTk3YzZkMA==",
   "tracks": [
     {
       "added_at": "2023-12-14 18:50:16",
@@ -987,6 +987,46 @@
       "duration_ms": 189623,
       "name": "Auto Pilot",
       "url": "https://open.spotify.com/track/7Li4wFTGVGyeuwbhRnVmLF"
+    },
+    {
+      "added_at": "2024-04-26 15:40:50",
+      "album": {
+        "name": "At Night I Think Of You",
+        "url": "https://open.spotify.com/album/4q9t94AWB5uKwDprvQr9XM"
+      },
+      "artists": [
+        {
+          "name": "Tr\u00e8s Mortimer",
+          "url": "https://open.spotify.com/artist/3zGzbXr9Q8zS9xictKAnt7"
+        }
+      ],
+      "duration_ms": 181911,
+      "name": "At Night I Think Of You",
+      "url": "https://open.spotify.com/track/1pQKGS37CbpXavYhOC2WGm"
+    },
+    {
+      "added_at": "2024-04-26 15:41:25",
+      "album": {
+        "name": "The Unexplained",
+        "url": "https://open.spotify.com/album/6jSRRKhBd0hMSzoSwqihRl"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "OMNOM",
+          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
+        },
+        {
+          "name": "HYPERBEAM",
+          "url": "https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n"
+        }
+      ],
+      "duration_ms": 220298,
+      "name": "Okay Fine",
+      "url": "https://open.spotify.com/track/67lB1vjJCFRmf9vNGWXSeg"
     }
   ],
   "unique_name": "Work From House",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "La casa del trap chileno al mando de Tobal Mj, Cris Mj & Kail BRL.",
+  "description": "La casa del trap chileno al mando de Ak4:20",
   "name": "Trapperz Chile",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/0TDOQOWiL6iw3xW0EF0GKc"
+    },
+    {
+      "album": {
+        "name": "EL NI\u00d1O BENDITO",
+        "url": "https://open.spotify.com/album/5pSazlKAjiS4GxMWVVw2Ja"
+      },
+      "artists": [
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "10 DIGITOS",
+      "url": "https://open.spotify.com/track/3u84AkTcXxoIZGsxWAtPhp"
     },
     {
       "album": {
@@ -360,6 +378,28 @@
       "duration_ms": 165383,
       "name": "Ando en Un Makinon",
       "url": "https://open.spotify.com/track/33SWIXYKpg0ZSwRQIVPu0S"
+    },
+    {
+      "album": {
+        "name": "EL NI\u00d1O BENDITO",
+        "url": "https://open.spotify.com/album/5pSazlKAjiS4GxMWVVw2Ja"
+      },
+      "artists": [
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        },
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "APARATO ENCIMA",
+      "url": "https://open.spotify.com/track/38G4NZQooDj1CG1dSYu7up"
     },
     {
       "album": {
@@ -856,6 +896,28 @@
       "duration_ms": 114946,
       "name": "Con Glock",
       "url": "https://open.spotify.com/track/7ag2oQC73AyAuZnhrbtCGH"
+    },
+    {
+      "album": {
+        "name": "EL NI\u00d1O BENDITO",
+        "url": "https://open.spotify.com/album/5pSazlKAjiS4GxMWVVw2Ja"
+      },
+      "artists": [
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        },
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145454,
+      "name": "CRISTIANA",
+      "url": "https://open.spotify.com/track/4jiUVMoCC5j5WbPob3YmnF"
     },
     {
       "album": {
@@ -1512,7 +1574,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 264888,
       "name": "GIRO 180",
       "url": "https://open.spotify.com/track/2GWFiSNw8elbIt0emwTbyg"
@@ -1914,7 +1976,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 183333,
       "name": "Joseando en el Block",
       "url": "https://open.spotify.com/track/6x9HJy6wQzqUZENgmnrKzr"
@@ -4480,7 +4542,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 217500,
       "name": "Tuyo",
       "url": "https://open.spotify.com/track/6DAdZaknWDwaJdC5HyCpfL"

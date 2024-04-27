@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Ale Ale",
+        "url": "https://open.spotify.com/album/533koxEqsjn5Pve9OgE5JB"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229190,
+      "name": "Ale Ale",
+      "url": "https://open.spotify.com/track/2cSqX6LYlP2hqVxr6fhC0j"
+    },
+    {
+      "album": {
         "name": "El Salsero De Ahora",
         "url": "https://open.spotify.com/album/3assxvTXExDZ6uxjvxojvQ"
       },

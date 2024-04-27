@@ -2,7 +2,7 @@
 
 ### [This Is The White Stripes](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2JuLM4)
 
-> This Is The White Stripes\. Los temas esenciales, todos en una lista.
+> This is The White Stripes\. The essential tracks, all in one playlist.
 
 54 songs - 2 hr 42 min
 

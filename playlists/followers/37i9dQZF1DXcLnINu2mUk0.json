@@ -1,5 +1,5 @@
 {
-  "2024-04-26": 45250,
+  "2024-04-27": 45263,
   "date_first_scraped": "2022-07-17",
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Jo\u00e3o Maia Ferreira e Alex D'Alva.",
   "name": "Seda",
@@ -1261,7 +1261,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 144008,
       "name": "batom rosa",
       "url": "https://open.spotify.com/track/2i5tZzooStnLGv5lL3DLpy"
@@ -1439,6 +1439,32 @@
       "duration_ms": 198052,
       "name": "Blessing",
       "url": "https://open.spotify.com/track/4BVfXtcdki0yLemFWEFiFU"
+    },
+    {
+      "album": {
+        "name": "Blunted",
+        "url": "https://open.spotify.com/album/2mGqD2FnV4QoqxP7UOMXC8"
+      },
+      "artists": [
+        {
+          "name": "Dion\u00edsio07",
+          "url": "https://open.spotify.com/artist/0SkKNaTeA9XhYQaekAUBLQ"
+        },
+        {
+          "name": "MEM",
+          "url": "https://open.spotify.com/artist/6Hfk8OlN3fiMSad3IxCNTy"
+        },
+        {
+          "name": "Diferenciados",
+          "url": "https://open.spotify.com/artist/3eNJgj8W3dc35pSXbzZXtG"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171327,
+      "name": "Blunted",
+      "url": "https://open.spotify.com/track/5m4lmUepq9q2Yohloi7nqN"
     },
     {
       "album": {
@@ -1857,7 +1883,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 187689,
       "name": "Casaco",
       "url": "https://open.spotify.com/track/3eV01arTXqFuftJDTXHx8A"
@@ -5325,10 +5351,52 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 205862,
       "name": "IN\u00cdCIO",
       "url": "https://open.spotify.com/track/0pWS7S3UEkh2zGcNyB2p28"
+    },
+    {
+      "album": {
+        "name": "jingle.tm",
+        "url": "https://open.spotify.com/album/5TTL9OOjczMupeEm3u2yM4"
+      },
+      "artists": [
+        {
+          "name": "PTM",
+          "url": "https://open.spotify.com/artist/0wqRH0NmahVaDoeCXRlEuP"
+        },
+        {
+          "name": "LON3R JOHNY",
+          "url": "https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd"
+        },
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        },
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        },
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        },
+        {
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        },
+        {
+          "name": "Lhast",
+          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "jingle.tm - remix (feat. LON3R JOHNY, Richie Campbell, Plutonio, Van Zee, ProfJam & Lhast)",
+      "url": "https://open.spotify.com/track/4mXY3BEmpSxceP5bsT9JI5"
     },
     {
       "album": {
@@ -6626,6 +6694,28 @@
     },
     {
       "album": {
+        "name": "Mo Ki Nu Ta Fazi",
+        "url": "https://open.spotify.com/album/5xaOy0KY0SKrRNccDXZua9"
+      },
+      "artists": [
+        {
+          "name": "Rapaz 100 Juiz",
+          "url": "https://open.spotify.com/artist/3lWv4xqCdJgw3CmFkwnTt5"
+        },
+        {
+          "name": "Loony Johnson",
+          "url": "https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220217,
+      "name": "Mo Ki Nu Ta Fazi",
+      "url": "https://open.spotify.com/track/678MOfN1hxfPoOGodwKU10"
+    },
+    {
+      "album": {
         "name": "Mon Amour",
         "url": "https://open.spotify.com/album/2biPFtGNm3uQMsGzOFa4MZ"
       },
@@ -7601,7 +7691,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 218969,
       "name": "N\u00e3o Me Escondas Nada",
       "url": "https://open.spotify.com/track/3yD60vja3cPmuOK96uEEa2"
@@ -9073,7 +9163,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 167192,
       "name": "Rosalia",
       "url": "https://open.spotify.com/track/0UohedXCHetZXOiz2nnKpT"

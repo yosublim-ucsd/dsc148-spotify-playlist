@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-14",
-  "description": "Tu t\u00e1ta tu tat\u00e1... el beat funk de Brasil para el mundo. Baile bonitoooo Foto: Anitta, Brrray, Bad Gyal",
+  "description": "Tu t\u00e1ta tu tat\u00e1... el beat funk de Brasil para el mundo. Baile bonitoooo Foto: Anitta",
   "name": "es funk y el cuerpo lo sabe \ud83c\udde7\ud83c\uddf7",
   "tracks": [
     {
@@ -54,6 +54,58 @@
       "duration_ms": 137559,
       "name": "24/7 6.5",
       "url": "https://open.spotify.com/track/2wjzgkfw4MqYOtPAnREHoL"
+    },
+    {
+      "album": {
+        "name": "Funk Generation",
+        "url": "https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157838,
+      "name": "Ahi",
+      "url": "https://open.spotify.com/track/5rVy4OrfXilu9iQE423JO0"
+    },
+    {
+      "album": {
+        "name": "Alucin (Versi\u00f3n Brasil)",
+        "url": "https://open.spotify.com/album/5ng8mIzIWgNIPMhnpvadIN"
+      },
+      "artists": [
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Mano DJ",
+          "url": "https://open.spotify.com/artist/5sWNhKttI3RObciPKjTLg3"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209323,
+      "name": "Alucin - Versi\u00f3n Brasil",
+      "url": "https://open.spotify.com/track/7zKeVmjTK8khgiscVcBCUJ"
     },
     {
       "album": {
@@ -124,6 +176,24 @@
       "duration_ms": 129798,
       "name": "Automotivo Bibi Fogosa",
       "url": "https://open.spotify.com/track/2JIzOc3HHo4MhiyZzhpBUV"
+    },
+    {
+      "album": {
+        "name": "Baby G",
+        "url": "https://open.spotify.com/album/7yziG1ZWAltkIYw0xwurZ3"
+      },
+      "artists": [
+        {
+          "name": "RoyalLive",
+          "url": "https://open.spotify.com/artist/3Uyp3iic3iV2zBsYzMquwx"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140892,
+      "name": "Baby G",
+      "url": "https://open.spotify.com/track/16UYeFAcQQ2IDfukDiDs3b"
     },
     {
       "album": {
@@ -616,7 +686,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 231628,
       "name": "Double Team",
       "url": "https://open.spotify.com/track/6NYEwgaB1NESBTjPG5Vfsx"
@@ -678,7 +748,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 194558,
       "name": "Esperanza",
       "url": "https://open.spotify.com/track/4wI8SWCSBNfg3YI4TGJbTC"
@@ -981,6 +1051,28 @@
     },
     {
       "album": {
+        "name": "Raba Rave",
+        "url": "https://open.spotify.com/album/0HttNJM8LfI1JGL7TQsSSf"
+      },
+      "artists": [
+        {
+          "name": "Blaya",
+          "url": "https://open.spotify.com/artist/0kWbj6PdoovMr1GXFcvJ5A"
+        },
+        {
+          "name": "MC Zuka",
+          "url": "https://open.spotify.com/artist/3MSqfnvBVsuUasELt0gFOE"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170169,
+      "name": "Kalma Kenga (feat. MC Zuka)",
+      "url": "https://open.spotify.com/track/7nEBiG7mu5InAvVxiHmWYK"
+    },
+    {
+      "album": {
         "name": "LA CALMA",
         "url": "https://open.spotify.com/album/3PWRPXFAbishAfsjagC9TB"
       },
@@ -1014,7 +1106,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 155156,
       "name": "LA CLAVE",
       "url": "https://open.spotify.com/track/2S7Hyx4wElcuOcGmBQem9Q"
@@ -1496,7 +1588,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 173773,
       "name": "Preciosa",
       "url": "https://open.spotify.com/track/1aeih1sP1g0ooHHkxrfA29"
@@ -1548,6 +1640,24 @@
       "duration_ms": 128677,
       "name": "Rara Vez",
       "url": "https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR"
+    },
+    {
+      "album": {
+        "name": "Romantique & Propaganda",
+        "url": "https://open.spotify.com/album/52NucKNQk0IF5OPwVbLZSJ"
+      },
+      "artists": [
+        {
+          "name": "St-Prince",
+          "url": "https://open.spotify.com/artist/4l9XlDeGxPJgWnF7OoEpgC"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150411,
+      "name": "Romantique",
+      "url": "https://open.spotify.com/track/6OB5LW24nU5Jdjj1FuOuQj"
     },
     {
       "album": {
@@ -1769,6 +1879,24 @@
     },
     {
       "album": {
+        "name": "S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/0ecNuV7lqmzkJEtefDTZIA"
+      },
+      "artists": [
+        {
+          "name": "Flori del Pino",
+          "url": "https://open.spotify.com/artist/1OsGGctJwvyAI3zB2MAU8V"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130909,
+      "name": "S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/7DnMM03KPW8LQhkrjyG5ED"
+    },
+    {
+      "album": {
         "name": "Tacata (Remix)",
         "url": "https://open.spotify.com/album/2GfGGlindjNS4kkZinqKdA"
       },
@@ -1810,7 +1938,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 180346,
       "name": "TATA",
       "url": "https://open.spotify.com/track/6IlI0D193SVWInOHsyJsPE"
@@ -1832,6 +1960,28 @@
       "duration_ms": 133538,
       "name": "TIC TAC",
       "url": "https://open.spotify.com/track/1a6kcPpMuc8XMswtiMrLik"
+    },
+    {
+      "album": {
+        "name": "Tirando Corte",
+        "url": "https://open.spotify.com/album/0Bvj4fN7e19wbrkmYhvDDY"
+      },
+      "artists": [
+        {
+          "name": "El negro tecla",
+          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
+        },
+        {
+          "name": "Nahuel The Coach",
+          "url": "https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152709,
+      "name": "Tirando Corte",
+      "url": "https://open.spotify.com/track/60MM0hgQ8OKkqTDi1qTz8x"
     },
     {
       "album": {
@@ -1876,7 +2026,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 115645,
       "name": "TOMA",
       "url": "https://open.spotify.com/track/34DewaatzkcYsVUXSbuCgs"
@@ -2051,6 +2201,32 @@
     },
     {
       "album": {
+        "name": "Violento",
+        "url": "https://open.spotify.com/album/7nKF1nlI1Or4KNa15lPB0R"
+      },
+      "artists": [
+        {
+          "name": "pableau",
+          "url": "https://open.spotify.com/artist/5plaEXjg6jJX2t2UldmEfm"
+        },
+        {
+          "name": "Green T",
+          "url": "https://open.spotify.com/artist/3pE5bzbXWiui1OnAOjsAaO"
+        },
+        {
+          "name": "laespadayelclavel",
+          "url": "https://open.spotify.com/artist/4v3KjF83OHIONLLYCVBm7Y"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "Violento",
+      "url": "https://open.spotify.com/track/1pyUqugn9nIQ8VI4okTNIx"
+    },
+    {
+      "album": {
         "name": "4X4",
         "url": "https://open.spotify.com/album/0APgiKpmc3KQf638E2cG29"
       },
@@ -2106,7 +2282,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 143706,
       "name": "WILLY WONKA",
       "url": "https://open.spotify.com/track/2qCL05QJtrUeuRE7oEklLV"
@@ -2132,7 +2308,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 183960,
       "name": "Work That Body",
       "url": "https://open.spotify.com/track/0cfhAHypL9t9ff2G23qJFR"

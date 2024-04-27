@@ -2,7 +2,7 @@
 
 ### [This Is Jack Harlow](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1AQPxE)
 
-> This is Jack Harlow\. Todos os maiores hits em uma só playlist.
+> This is Jack Harlow\. The essential tracks, all in one playlist.
 
 56 songs - 2 hr 37 min
 

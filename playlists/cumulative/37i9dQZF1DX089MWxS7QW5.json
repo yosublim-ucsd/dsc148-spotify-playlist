@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: \bEllui, Richboy Hardy)",
+  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: Jang Soo Bin(\uc7a5\uc218\ube48))",
   "name": "K-R&B Now",
   "tracks": [
     {
@@ -5024,6 +5024,24 @@
       "duration_ms": 173986,
       "name": "STAY",
       "url": "https://open.spotify.com/track/1dR5StkkOjZEXEgrC7AlVY"
+    },
+    {
+      "album": {
+        "name": "Step",
+        "url": "https://open.spotify.com/album/2J0icYKdk19idztc0KgvHO"
+      },
+      "artists": [
+        {
+          "name": "Jang Soo Bin",
+          "url": "https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197045,
+      "name": "Step",
+      "url": "https://open.spotify.com/track/0nQGxsU4YRp30FEVCaugdq"
     },
     {
       "album": {

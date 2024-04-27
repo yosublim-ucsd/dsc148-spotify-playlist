@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/41gDU7s6DpPXhBggLSJdw6">Aimee Mann</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335 likes - 170 songs - 10 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 334 likes - 170 songs - 10 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,15 +119,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 109 | [Sleep](https://open.spotify.com/track/7iheYqKUwSLmcWdfou5U3X) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU), [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk), [BC Camplight](https://open.spotify.com/artist/3cePP77CX6XY9b0aigzrqh), [David Bazan](https://open.spotify.com/artist/5vwWDRwjVCilY1uYVfJfLL), [David Miller](https://open.spotify.com/artist/3yfCzeWQYRMJFZhZsoONty), [DJ Spooky feat\. Saba Saba](https://open.spotify.com/artist/7rpaINED0k0KyUNM4A2q0E), [Free Form Funky Freqs](https://open.spotify.com/artist/1LdWyLwKLGGqK7BguvGVdB), [Los 6 Paraguayos](https://open.spotify.com/artist/2ESP6evQ6Zjd5oHEfaXQIj), [Matthew Shipp](https://open.spotify.com/artist/1Lw2WbL7CWZXAWSLWYXq4r), [Guster](https://open.spotify.com/artist/34XlPCFfB4vT7P1ekWq9Jc), [Portastatic](https://open.spotify.com/artist/5YFFss1uTFY0gfMMR1f9FD), [The Classic Brown](https://open.spotify.com/artist/3GZRyTBNHn3vEpXjpsCujq), [The Wrens](https://open.spotify.com/artist/04cetTUz2JTzXBqFKO5YB5), [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Rock The Net: Musicians For Network Neutrality](https://open.spotify.com/album/6VG1mnBghroQ3iYl8BKbyg) | 4:47 |
 | 110 | [Are You Serious?](https://open.spotify.com/track/0eEm9MOTDPedLnCq42y3jR) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Voices Carry \(Expanded Edition\)](https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp) | 3:15 |
 | 111 | [At the Frick Museum](https://open.spotify.com/track/7ig4rqo1tXp9nkdE8R3RlN) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 3:03 |
-| 112 | [Beautiful](https://open.spotify.com/track/5oYOwmoEN8urUrRK6TGlGI) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/6kVuVl5qFCnZf6RquYQtks) | 3:48 |
-| 113 | [David Denies](https://open.spotify.com/track/0lrEeTgkmLZUuAGZTkYiqP) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Welcome Home](https://open.spotify.com/album/3HiUlOjCrUd9ATG6uHyPI7) | 4:49 |
+| 112 | [David Denies](https://open.spotify.com/track/0lrEeTgkmLZUuAGZTkYiqP) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Welcome Home](https://open.spotify.com/album/3HiUlOjCrUd9ATG6uHyPI7) | 4:49 |
+| 113 | [Beautiful](https://open.spotify.com/track/5oYOwmoEN8urUrRK6TGlGI) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/6kVuVl5qFCnZf6RquYQtks) | 3:48 |
 | 114 | [Could've Been Anyone](https://open.spotify.com/track/6Fx1WScVq5wcDFkq514k1t) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Whatever](https://open.spotify.com/album/6c1xyQiasQXWYtKy70Vm8q) | 4:23 |
 | 115 | [Maybe Monday](https://open.spotify.com/track/6y4j9HXEOWWYD5HcFvV1f4) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Voices Carry \(Expanded Edition\)](https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp) | 3:42 |
 | 116 | [Little Chameleon](https://open.spotify.com/track/3ZKsR5fjkWVXpju8DGROUW) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 1:44 |
 | 117 | [Sugarcoated](https://open.spotify.com/track/1egjoO2XeAd9opUjmroymx) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [I'm With Stupid](https://open.spotify.com/album/0N3PbNuwko4aAMnJ19W3iM) | 3:40 |
 | 118 | [Fifty Years After The Fair](https://open.spotify.com/track/1PtPLZwKIWc3KpNiBQOvJh) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Whatever](https://open.spotify.com/album/6c1xyQiasQXWYtKy70Vm8q) | 3:46 |
-| 119 | [I've Had It](https://open.spotify.com/track/2CNOwPFCmJ5HS8BQf1DuRX) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Whatever](https://open.spotify.com/album/6c1xyQiasQXWYtKy70Vm8q) | 4:42 |
-| 120 | [Checks](https://open.spotify.com/track/04flaUqyLAa4bBN4eXtKv7) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 0:34 |
+| 119 | [Checks](https://open.spotify.com/track/04flaUqyLAa4bBN4eXtKv7) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 0:34 |
+| 120 | [I've Had It](https://open.spotify.com/track/2CNOwPFCmJ5HS8BQf1DuRX) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Whatever](https://open.spotify.com/album/6c1xyQiasQXWYtKy70Vm8q) | 4:42 |
 | 121 | [Frankenstein](https://open.spotify.com/track/4NTC8Vl47iP11roKNvli1S) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [I'm With Stupid](https://open.spotify.com/album/0N3PbNuwko4aAMnJ19W3iM) | 4:28 |
 | 122 | [You Can't Help Me Now](https://open.spotify.com/track/3q5sexZPs7eF2PAWRCT5jT) | [The Both](https://open.spotify.com/artist/6nH7HjT8QPbZI2wnTjtJui) | [The Both](https://open.spotify.com/album/3Feh0t4blZHMotGPGKM6lr) | 3:38 |
 | 123 | [Superball](https://open.spotify.com/track/4M8JGLfwnj1yozmi02tdvH) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [I'm With Stupid](https://open.spotify.com/album/0N3PbNuwko4aAMnJ19W3iM) | 3:05 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 169 | [Not Where I'm At](https://open.spotify.com/track/5ZhKJSPbtJkzrUABCrEynI) | [Kimon Kirk](https://open.spotify.com/artist/3uLu0SowS5e7Kxnxxywm78) | [Songs for Society](https://open.spotify.com/album/7wrwwoZXGmJMcMZsZeXHTJ) | 4:54 |
 | 170 | [Get Down To It](https://open.spotify.com/track/4m5Xqf5HfehoYM3IEzAEJB) | [Sierra Swan](https://open.spotify.com/artist/6zIxx9IiDjDczUVAkjVGMr) | [Ladyland](https://open.spotify.com/album/0SFkAyG2qQbv9ksSZGQWvE) | 4:23 |
 
-Snapshot ID: `Mjg1NjgzNTUsMDAwMDAwMDBmYjBjOTlhZDFjYzhmYTdjODdkZjNhYzExMmQ2NjMwMg==`
+Snapshot ID: `Mjg1Njk3OTUsMDAwMDAwMDBjZmM4OTdiZWRmMGRlZmY4YWE0YWVhMjZhYzdjZjc4NQ==`

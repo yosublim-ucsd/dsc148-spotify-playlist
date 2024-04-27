@@ -1,5 +1,5 @@
 {
-  "2024-04-26": 1120467,
+  "2024-04-27": 1119652,
   "date_first_scraped": "2023-08-09",
   "description": "Tu dosis de \u00e9xitos indie para quedar a salvo. En portada: Alabama Shakes, celebrando 10 a\u00f1os de Boys & Girls",
   "name": "Indiespensables",
@@ -71,7 +71,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 137760,
       "name": "A-Punk",
       "url": "https://open.spotify.com/track/5dKBaysNJtfpyNTRa5lqDb"
@@ -489,6 +489,24 @@
       "duration_ms": 297426,
       "name": "Dakota",
       "url": "https://open.spotify.com/track/3qaSqrrevBrb84xl5JlptU"
+    },
+    {
+      "album": {
+        "name": "Dive Deep",
+        "url": "https://open.spotify.com/album/3oHLZFnFrqaRckM76Wsvgn"
+      },
+      "artists": [
+        {
+          "name": "Rolling Blackouts Coastal Fever",
+          "url": "https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313500,
+      "name": "Dive Deep",
+      "url": "https://open.spotify.com/track/6yoKgVW3LYI0vD5Qq9YRg5"
     },
     {
       "album": {

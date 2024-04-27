@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: Teddy Swims
 
-3,857 songs - 8 day 16 hr 17 min
+3,859 songs - 8 day 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Again & Again](https://open.spotify.com/track/27RTACHApbjFu0DSUB1yPw) | [Behani](https://open.spotify.com/artist/7vvFgDuVPeMioTFO7acxy0) | [Again & Again](https://open.spotify.com/album/4woZh9NbjlwXEKf6WFyWTq) | 2:42 | 2024-03-21 | 2024-03-29 |
 | [Agora Hills](https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta) | 4:25 | 2023-09-21 | 2023-09-23 |
 | [Agora Hills](https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 4:25 | 2023-09-22 | 2023-09-29 |
+| [Ahi](https://open.spotify.com/track/5rVy4OrfXilu9iQE423JO0) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Funk Generation](https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY) | 2:37 | 2024-04-26 |  |
 | [AI, E KŌ](https://open.spotify.com/track/5U6SC9XsJ4Jr6Ht68i1o3l) | [Mikey Dam](https://open.spotify.com/artist/6U5CUX0APXFzqcfpoXxEyb), [TAWAZ](https://open.spotify.com/artist/6SBZ3XblxACQRrZK4olxhH), [Jackson Owens](https://open.spotify.com/artist/33jhdrAHX9sSFzdKpYd2ke) | [AI, E KŌ](https://open.spotify.com/album/04IIWq1rvAhSZGQK11ABDN) | 2:28 | 2023-09-14 | 2023-09-22 |
 | [Ain't Just Dreaming](https://open.spotify.com/track/5Oj6jg9NrV8dYlXDNB6Uu5) | [TOI](https://open.spotify.com/artist/6AdX4TgEt0fYWoRqvHi81A), [The NZ Team](https://open.spotify.com/artist/7rI9VYVp3JYh32FbZME6ip), [Ellesse Andrews](https://open.spotify.com/artist/1mDua6s6MkNJ7WZc9xBFaP), [Max Brown](https://open.spotify.com/artist/7zV7e9gbkoifHMZYxW3Bh6) | [Ain't Just Dreaming](https://open.spotify.com/album/7wU7TF5kEnSJnobM4HcB1m) | 3:21 | 2024-02-29 | 2024-03-08 |
 | [Ain't No Fool \- Angelo Ferreri Remix](https://open.spotify.com/track/2CleUvAjte8MG4E5P2pwJX) | [Dr Packer](https://open.spotify.com/artist/46hILKsILU34lUxKKftyVm), [Angelo Ferreri](https://open.spotify.com/artist/3tT2XX9qEVivLCYGoqkRkZ) | [Ain't No Fool \(Angelo Ferreri Remix\)](https://open.spotify.com/album/7plRYYXC3nw3ItDb2aUf0b) | 3:10 | 2024-02-15 | 2024-02-23 |
@@ -2452,6 +2453,7 @@
 | [Older](https://open.spotify.com/track/2EBtLxQSV8EHpk4gHoMnl3) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/5Tz4JnX2qcVxDDLpG8d2LY) | 3:21 | 2024-02-15 | 2024-02-23 |
 | [Ololufe \(feat\. Wande Coal\)](https://open.spotify.com/track/0x3sDnom0itB72oEVrRE7v) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [S2](https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM) | 3:30 | 2023-12-21 | 2024-01-12 |
 | [Olympian](https://open.spotify.com/track/0CAyfEyFk3Ux8fF02Av8xF) | [KANADA THE LOOP](https://open.spotify.com/artist/0memvAGubR0iSAZmXnY4ta) | [Olympian](https://open.spotify.com/album/2svqZlPDI5XcyJLLDVtyYY) | 2:08 | 2023-07-27 | 2023-08-04 |
+| [OMALICHA](https://open.spotify.com/track/08oUbg2xP9viDnYcKacUd8) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp) | [OMALICHA](https://open.spotify.com/album/475ZCSpGCvPOnDpJexgsd8) | 4:00 | 2024-04-26 |  |
 | [On & On](https://open.spotify.com/track/1xgRUkB6OZH70aFtTGkk9n) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [On & On](https://open.spotify.com/album/02IhYgiRbwckRrXTKYrRPV) | 2:45 | 2023-09-14 | 2023-09-22 |
 | [On Me](https://open.spotify.com/track/3ShnnKhn0zXuYuEivj0jeD) | [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE) | [On Me](https://open.spotify.com/album/3LLuz5ZL4FUrNz4y9E8s87) | 2:40 | 2023-11-30 | 2023-12-08 |
 | [On My Love](https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On My Love](https://open.spotify.com/album/1NoYjCb7ReBR4kfmjntHTi) | 3:42 | 2023-09-14 | 2023-09-22 |

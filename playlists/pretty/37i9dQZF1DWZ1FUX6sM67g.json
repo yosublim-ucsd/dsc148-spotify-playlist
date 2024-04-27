@@ -1,12 +1,12 @@
 {
   "description": "\u00a1En este punto tropical, se encuentra un poco de todo! Foto: Fonseca, Gilberto Santa Rosa, Chucho Vald\u00e9s",
-  "num_followers": 435096,
+  "num_followers": 434984,
   "original_name": "Punto Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzUwNzI0MCwwMDAwMDAwMDdiYmI2NWY4ZWQyZTdlYTc3ZjkxZDhhNmMyYTVjYjFi",
+  "snapshot_id": "MTcxNDEwODIwMCwwMDAwMDAwMGM1OWUzNTUzZWMwOTI5ZjQ2MGQ3MjU0OGIwMmIwZjg1",
   "tracks": [
     {
       "added_at": "2024-04-05 17:10:00",
@@ -49,6 +49,22 @@
       "url": "https://open.spotify.com/track/0CFAlfhun1YGMHoEEdyyYV"
     },
     {
+      "added_at": "2024-04-26 05:10:00",
+      "album": {
+        "name": "Ale Ale",
+        "url": "https://open.spotify.com/album/533koxEqsjn5Pve9OgE5JB"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 229190,
+      "name": "Ale Ale",
+      "url": "https://open.spotify.com/track/2cSqX6LYlP2hqVxr6fhC0j"
+    },
+    {
       "added_at": "2024-04-19 06:14:00",
       "album": {
         "name": "EL CANTANTE DEL GHETTO",
@@ -73,20 +89,20 @@
       "url": "https://open.spotify.com/track/50EDwjxJALuDmkRAreUQga"
     },
     {
-      "added_at": "2024-04-05 17:10:00",
+      "added_at": "2024-04-26 05:10:00",
       "album": {
-        "name": "Punta Cana",
-        "url": "https://open.spotify.com/album/55851CfWJef6CzkdeJPpIu"
+        "name": "Cali Pachanguero 40 A\u00f1os",
+        "url": "https://open.spotify.com/album/4a75zchEpeHQj8y1A2kSRC"
       },
       "artists": [
         {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 185120,
-      "name": "Punta Cana",
-      "url": "https://open.spotify.com/track/6tFXzOTZCTZ8t62NiLjC5z"
+      "duration_ms": 287093,
+      "name": "Cali Pachanguero 40 A\u00f1os",
+      "url": "https://open.spotify.com/track/64H2xGPNjBtXNsTWflotcl"
     },
     {
       "added_at": "2024-04-05 17:10:00",
@@ -107,22 +123,18 @@
     {
       "added_at": "2024-04-05 17:10:00",
       "album": {
-        "name": "Tres D\u00edas en Cartagena",
-        "url": "https://open.spotify.com/album/2Xv5RtLyJUeAHk1yHmZAmI"
+        "name": "Punta Cana",
+        "url": "https://open.spotify.com/album/55851CfWJef6CzkdeJPpIu"
       },
       "artists": [
         {
-          "name": "Rozal\u00e9n",
-          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
-        },
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 178169,
-      "name": "Tres D\u00edas en Cartagena",
-      "url": "https://open.spotify.com/track/4VbLdkvcpvoBYBJtAJQ0wc"
+      "duration_ms": 185120,
+      "name": "Punta Cana",
+      "url": "https://open.spotify.com/track/6tFXzOTZCTZ8t62NiLjC5z"
     },
     {
       "added_at": "2024-04-05 17:10:00",
@@ -163,22 +175,6 @@
       "duration_ms": 218500,
       "name": "Una Vida Pasada",
       "url": "https://open.spotify.com/track/4i2Uelkm3Fy2CSE63s4hSz"
-    },
-    {
-      "added_at": "2024-04-05 17:10:00",
-      "album": {
-        "name": "Para Ya",
-        "url": "https://open.spotify.com/album/0RIfNwCS9W9WO3LC5NjNqL"
-      },
-      "artists": [
-        {
-          "name": "Charlie Zaa",
-          "url": "https://open.spotify.com/artist/1KfBKoozFugeT1PBkz33xl"
-        }
-      ],
-      "duration_ms": 193368,
-      "name": "Para Ya",
-      "url": "https://open.spotify.com/track/1hX02s5pfQgaQZz6HxKKrm"
     },
     {
       "added_at": "2024-04-05 17:10:00",

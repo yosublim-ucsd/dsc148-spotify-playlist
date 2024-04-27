@@ -1,5 +1,5 @@
 {
-  "2024-04-26": 249409,
+  "2024-04-27": 249467,
   "date_first_scraped": "2023-03-18",
   "description": "This is girl in red. The essential tracks, all in one playlist.",
   "name": "This Is girl in red",
@@ -165,6 +165,24 @@
       "duration_ms": 143355,
       "name": "forget her",
       "url": "https://open.spotify.com/track/5vFuoZLvUmAzzIiLSEhk0K"
+    },
+    {
+      "album": {
+        "name": "Girlfriend Is Better",
+        "url": "https://open.spotify.com/album/0NE7g8mQKHZ43DqGvmEFg6"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185333,
+      "name": "Girlfriend Is Better",
+      "url": "https://open.spotify.com/track/42APulJOnvAk8aj7WhzImT"
     },
     {
       "album": {

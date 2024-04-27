@@ -1,7 +1,7 @@
 {
-  "2024-04-26": 8670,
+  "2024-04-27": 8694,
   "date_first_scraped": "2023-10-19",
-  "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:   <a href=\"https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4?si=Ehfcig4qQSOPvtSWy8E2uw\">EJ Newton</a>",
+  "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:  <a href=https://open.spotify.com/artist/6tF26GNNvbuamuugTTBiGE?si=1KmYBCHhQCO7FRXiflcZNw>REFUGE WRSHP</a>",
   "name": "Redeemed",
   "tracks": [
     {
@@ -538,6 +538,24 @@
     },
     {
       "album": {
+        "name": "DAY OF THE LORD",
+        "url": "https://open.spotify.com/album/28sHaz4Rcsy7grBT9OkARL"
+      },
+      "artists": [
+        {
+          "name": "REFUGE WRSHP",
+          "url": "https://open.spotify.com/artist/6tF26GNNvbuamuugTTBiGE"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427377,
+      "name": "DAY OF THE LORD",
+      "url": "https://open.spotify.com/track/2PZNojC4NNmMM4l3790LJC"
+    },
+    {
+      "album": {
         "name": "Deliverance",
         "url": "https://open.spotify.com/album/3U1eMnUPBQwb3UOQBmgsPw"
       },
@@ -947,7 +965,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 134269,
       "name": "God",
       "url": "https://open.spotify.com/track/0dUNrMbWLpbxpNkY8cUdoJ"
@@ -1769,7 +1787,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 320280,
       "name": "More",
       "url": "https://open.spotify.com/track/5q4Tz1jwVjpQLU3AJFZ0AR"
@@ -3041,6 +3059,28 @@
       "duration_ms": 204975,
       "name": "Worry About Nothing",
       "url": "https://open.spotify.com/track/4gEkiIg4XatM4x10HcAdMy"
+    },
+    {
+      "album": {
+        "name": "The Great Commission",
+        "url": "https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        },
+        {
+          "name": "Lawrence Oyor",
+          "url": "https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 808677,
+      "name": "Worthy of My Praise",
+      "url": "https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX"
     },
     {
       "album": {

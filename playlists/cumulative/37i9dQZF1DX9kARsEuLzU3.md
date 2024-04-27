@@ -4,7 +4,7 @@
 
 > Your queens are here Pink Panda!
 
-224 songs - 13 hr 22 min
+231 songs - 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [BOY](https://open.spotify.com/track/3Bc7tIuzqg93vNWyrudEPQ) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [UNE ANNEE](https://open.spotify.com/album/5vR2VgZoh5ONYUABC9xdtF) | 3:03 | 2022-04-20 |  |
 | [Break Up To Make Up](https://open.spotify.com/track/7H6h2rgc1bZo5Chkq7NmkO) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys), [Jeong EunJi \(Apink\)](https://open.spotify.com/artist/3Y7kskm3Wc6XaVRHi9skaN) | [A CUBE' FOR SEASON \# SKY BLUE](https://open.spotify.com/album/2uT5HsV4SIXnTCWcS4mwHJ) | 4:23 | 2022-04-20 |  |
 | [BUBIBU](https://open.spotify.com/track/08Az8oHUOLj2TjMSYtWCd5) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [UNE ANNEE](https://open.spotify.com/album/5vR2VgZoh5ONYUABC9xdtF) | 3:39 | 2022-04-20 |  |
+| [Candy](https://open.spotify.com/track/0G0hqpbeX1fu9XF7SaTYp0) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [SELF](https://open.spotify.com/album/7gx8kFPhTKuAIWfUS8i72Z) | 3:05 | 2024-04-26 |  |
 | [Cat](https://open.spotify.com/track/5FXIp4AFLBNO7NJM29KjU0) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [UNE ANNEE](https://open.spotify.com/album/5vR2VgZoh5ONYUABC9xdtF) | 3:32 | 2022-04-20 |  |
 | [Catch Me](https://open.spotify.com/track/6KvRD1du0VNenlHYaqXFL4) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Pink Revolution](https://open.spotify.com/album/3YCECnHjS10KqHYeyEIVm6) | 3:42 | 2022-04-20 |  |
 | [Catch me](https://open.spotify.com/track/7tcMBr4Bt8AkoAbkp7QVVq) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Pink Revolution](https://open.spotify.com/album/36DcKlfLytuKbpx4ELQKRf) | 3:42 | 2022-07-12 | 2024-04-19 |
@@ -45,6 +46,7 @@
 | [Copycat](https://open.spotify.com/track/3eRXnVROQcJxwzovKyLTnd) | [Apink CHOBOM](https://open.spotify.com/artist/1eDD6vNEyVQXGev7af156d) | [Copycat](https://open.spotify.com/album/0NYssBVyeMwUSRzsIKATIE) | 3:24 | 2022-07-12 |  |
 | [Crystal](https://open.spotify.com/track/5y8bNJHT7KgeMom5Bh7pqr) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Pink LUV + Blossom](https://open.spotify.com/album/2EHA3up6S0LpzQLZ7XlRsb) | 3:24 | 2022-04-20 |  |
 | [Crystal](https://open.spotify.com/track/7tSeC0XrsgyG2hvWHKPOWc) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Pink Blossom](https://open.spotify.com/album/5BrUPvAXYFeCqLKoTjSw3o) | 3:24 | 2022-07-12 | 2024-04-19 |
+| [D N D](https://open.spotify.com/track/1XrPkH2rQYgVMJeIMdUbRU) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [SELF](https://open.spotify.com/album/7gx8kFPhTKuAIWfUS8i72Z) | 3:07 | 2024-04-26 |  |
 | [Dejavu](https://open.spotify.com/track/0NfxxxU2tlcVCEDg1QsCXF) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Pink MEMORY](https://open.spotify.com/album/6ZfzXTFAbDdGfPpxrhLbr0) | 3:41 | 2022-04-20 |  |
 | [Dejavu](https://open.spotify.com/track/560oIgCTlMCWmKtRJ2IRGn) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Pink MEMORY](https://open.spotify.com/album/5vTLFMuLnseJIrqJx97BS4) | 3:41 | 2022-07-12 | 2024-04-19 |
 | [Dilemma](https://open.spotify.com/track/3j0x2BUUtm2obQXS1lZuN3) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [HORN](https://open.spotify.com/album/6GeYzOIumBxJ4iF41J3KXM) | 3:29 | 2022-04-20 |  |
@@ -107,6 +109,7 @@
 | [I PRAY 4 YOU](https://open.spotify.com/track/4XwW7LHHmQilz4gLISOQXX) | [Apink BnN](https://open.spotify.com/artist/74FhUVHWfjvC4NVw5MmyX6) | [School 2017 Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/1APuSx8wJm615bNJPzn7uY) | 3:50 | 2022-07-12 | 2024-04-19 |
 | [I Pray 4 You](https://open.spotify.com/track/7kmk3A9Qt3hQH1uJjDkAX4) | [Apink BnN](https://open.spotify.com/artist/74FhUVHWfjvC4NVw5MmyX6) | [School 2017, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/3AJIBqG99Uq1Lgg08EAEl6) | 3:50 | 2022-04-20 |  |
 | [I Pray 4 You](https://open.spotify.com/track/0r0awKG0EeVkEawitHErOM) | [Kim Nam Joo](https://open.spotify.com/artist/4cHMW4DkVD7XZ04YvsJIkI), [Bomi](https://open.spotify.com/artist/1f8WhWpusN7MtCkedZWpck) | [School 2017 \(Orignial Television Soundtrack\)](https://open.spotify.com/album/4TZOMc6w0nzSFyKx8mDquD) | 3:50 | 2022-07-12 | 2022-11-13 |
+| [I want you to be happy](https://open.spotify.com/track/2mDDX2DSLPj8HJHtMpt4A1) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [SELF](https://open.spotify.com/album/7gx8kFPhTKuAIWfUS8i72Z) | 3:47 | 2024-04-26 |  |
 | [I want you to be happy](https://open.spotify.com/track/3VaPpNx6tSFotl2NywDpiy) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [I want you to be happy](https://open.spotify.com/album/3G6X4oBhIf8Xqgg8vxirjv) | 3:47 | 2022-04-20 |  |
 | [I'm Not An Angel](https://open.spotify.com/track/1VfdzdysDdgbd0sbLGq7Sw) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Pink LUV + Blossom](https://open.spotify.com/album/2EHA3up6S0LpzQLZ7XlRsb) | 3:26 | 2022-04-20 |  |
 | [I'm not an angel](https://open.spotify.com/track/6bfQtzENE9Nkz7ugFLowx3) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Pink LUV](https://open.spotify.com/album/7BV2JxBA453SWGGe6ije4K) | 3:26 | 2022-07-12 | 2024-04-19 |
@@ -136,6 +139,7 @@
 | [Lovely Day](https://open.spotify.com/track/2MGLfuB9qehI4fhpmP6HOj) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Secret Garden](https://open.spotify.com/album/03GKVqpdr6Fi24DeAbgDRs) | 3:00 | 2022-04-20 |  |
 | [LUV](https://open.spotify.com/track/2oqbLpgVM4sCN34TeNBYEP) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Pink LUV + Blossom](https://open.spotify.com/album/2EHA3up6S0LpzQLZ7XlRsb) | 3:58 | 2022-04-20 |  |
 | [LUV](https://open.spotify.com/track/7EZ79Zl4XsPS320q0KXC6E) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Pink LUV](https://open.spotify.com/album/7BV2JxBA453SWGGe6ije4K) | 3:58 | 2022-07-12 | 2024-04-19 |
+| [Me, Myself & I](https://open.spotify.com/track/65Qzg6MHTV7qrF2IZXW60n) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [SELF](https://open.spotify.com/album/7gx8kFPhTKuAIWfUS8i72Z) | 3:23 | 2024-04-26 |  |
 | [Memories](https://open.spotify.com/track/4IqMbHYX0n2thXS8A4atlx) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [PERCENT](https://open.spotify.com/album/51rmA7KGsWZP0lbP986qSJ) | 4:06 | 2022-07-12 | 2024-04-19 |
 | [Memories](https://open.spotify.com/track/5CpHvbHDsRPafLcb2xURAt) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [PERCENT](https://open.spotify.com/album/5O6vjbi5FqmKiVLO8HxgvX) | 4:06 | 2022-04-20 |  |
 | [Miracle](https://open.spotify.com/track/4nCGsPzblrbNNYN2omyoZL) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Miracle](https://open.spotify.com/album/0EnTUW7UnNsVx5aGb0CFWX) | 3:36 | 2022-07-12 | 2024-04-19 |
@@ -170,6 +174,7 @@
 | [Petal](https://open.spotify.com/track/4qIrfNMOKUn8ZJ1OvkEXxE) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Pink MEMORY](https://open.spotify.com/album/6ZfzXTFAbDdGfPpxrhLbr0) | 3:34 | 2022-04-20 |  |
 | [Petal](https://open.spotify.com/track/6xTwMQnaWFzi9bduxSIUra) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Pink MEMORY](https://open.spotify.com/album/5vTLFMuLnseJIrqJx97BS4) | 3:34 | 2022-07-12 | 2024-04-19 |
 | [Photograph](https://open.spotify.com/track/3A1hIxNPB5jOn5ZitFL9Dx) | [Kim NamJoo](https://open.spotify.com/artist/1coxOrU1nr3pjo8KgThKFS), [YOOK SUNGJAE](https://open.spotify.com/artist/7mFGOWJEkdlJBCXcJ5EWi9) | ['A CUBE' FOR SEASON \# BLUE Season 2](https://open.spotify.com/album/6lC19kC5ieZHn8j9V1VXFR) | 3:42 | 2022-04-20 |  |
+| [PINK CHRISTMAS](https://open.spotify.com/track/4BU2J7VTrm2TvzaYUX7GXb) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [PINK CHRISTMAS](https://open.spotify.com/album/2dKFIjEOW7xpBbr7DUtn6Z) | 3:14 | 2024-04-26 |  |
 | [Prince](https://open.spotify.com/track/5aFbPiWGXzBKClONPU13zv) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Snow Pink](https://open.spotify.com/album/19b3lwHo0nKeh11ZL2znNr) | 3:49 | 2022-04-20 |  |
 | [Promise me](https://open.spotify.com/track/1bWhTbzeoCOqDEuF5Utp1G) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [ONE & SIX](https://open.spotify.com/album/5xP2GsTFLRJCtAwYYaNKWh) | 3:29 | 2022-04-20 |  |
 | [Promise me](https://open.spotify.com/track/43lVqkXz5QrZonyjoftJj4) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [ONE & SIX](https://open.spotify.com/album/6XrOYOghCOtUlWYXxB4cAm) | 3:29 | 2022-07-12 | 2024-04-19 |
@@ -210,6 +215,7 @@
 | [Trip](https://open.spotify.com/track/6H5X8PI7vO9GX08VPhOh2I) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [HORN](https://open.spotify.com/album/6GeYzOIumBxJ4iF41J3KXM) | 3:33 | 2022-04-20 |  |
 | [U You](https://open.spotify.com/track/5L7l7SKLTqrPGkCc8XkU1y) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Secret Garden](https://open.spotify.com/album/03GKVqpdr6Fi24DeAbgDRs) | 3:25 | 2022-04-20 |  |
 | [UNE ANNEE](https://open.spotify.com/track/0PWsEyagh5eurAv3uNsc3u) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [UNE ANNEE](https://open.spotify.com/album/5vR2VgZoh5ONYUABC9xdtF) | 0:55 | 2022-04-20 |  |
+| [Wait Me There](https://open.spotify.com/track/5aLq4wQj4KVEV0ONrTBI3y) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Wait Me There](https://open.spotify.com/album/5hB70srgiVgRWldQLXgTkO) | 3:42 | 2024-04-26 |  |
 | [Wanna Be](https://open.spotify.com/track/23ZfybcecoqLNtywSx1742) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Pink LUV + Blossom](https://open.spotify.com/album/2EHA3up6S0LpzQLZ7XlRsb) | 3:40 | 2022-04-20 |  |
 | [Wanna Be](https://open.spotify.com/track/3HAALRfqhE8USLH9PS1cBn) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Pink LUV](https://open.spotify.com/album/7BV2JxBA453SWGGe6ije4K) | 3:40 | 2022-07-12 | 2024-04-19 |
 | [What A Boy Wants](https://open.spotify.com/track/6QkZNCdfAGkeL9efjrMXKi) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Pink MEMORY](https://open.spotify.com/album/5vTLFMuLnseJIrqJx97BS4) | 3:28 | 2022-07-12 | 2024-04-19 |
@@ -220,6 +226,7 @@
 | [Whoo](https://open.spotify.com/track/595BgLp2LqPMpA7zKTHkfe) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Simple](https://open.spotify.com/album/3UM9M1xTkqU6Df6Cciui5J) | 3:50 | 2022-07-12 | 2024-04-19 |
 | [Wish you are](https://open.spotify.com/track/18xvzY7DiwJOfyP6B5OdrT) | [Apink BnN](https://open.spotify.com/artist/74FhUVHWfjvC4NVw5MmyX6) | [Matrimonial Chaos \(Original Television Soundtrack\)](https://open.spotify.com/album/01JzSjEqeZ94KEuXRVoHpp) | 3:58 | 2022-04-20 |  |
 | [Wishlist](https://open.spotify.com/track/4tPSzd2VdB08Tj6bhjF5j6) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Seven Springs Of Apink](https://open.spotify.com/album/6N7uosa9vVi6cI1LoVF64R) | 3:34 | 2022-04-20 |  |
+| [Withcha](https://open.spotify.com/track/6uH4QyN71zCSHcdDdgk5Q3) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [SELF](https://open.spotify.com/album/7gx8kFPhTKuAIWfUS8i72Z) | 3:07 | 2024-04-26 |  |
 | [Without You](https://open.spotify.com/track/3vPziyKexMmkgD71LTpo9O) | [Yoon Bo Mi](https://open.spotify.com/artist/5WPIiO8qOU3bd9Pcg7XbqM) | [Cinderella & Four Knights, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/1IP2tb095xBhGDsHkqxMKE) | 4:12 | 2022-04-20 |  |
 | [Worry about nothing](https://open.spotify.com/track/0jJENmwBMN5KavUQmN70Sp) | [OH HAYOUNG](https://open.spotify.com/artist/3mTOjpZV1L0iW54wn90H8K) | [OH!](https://open.spotify.com/album/4DvZDKjAraWQe6HZWSfIm6) | 3:47 | 2022-04-20 |  |
 | [Worry about nothing](https://open.spotify.com/track/6KmAsWwFLp8rxhJG9Umu0D) | [OH HAYOUNG](https://open.spotify.com/artist/3mTOjpZV1L0iW54wn90H8K) | [OH!](https://open.spotify.com/album/3Y5LqwodVtoyeRkWfzmlcE) | 3:47 | 2022-07-12 | 2024-04-19 |

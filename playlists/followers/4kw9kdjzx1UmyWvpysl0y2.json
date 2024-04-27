@@ -1,5 +1,5 @@
 {
-  "2024-04-26": 126109,
+  "2024-04-27": 126074,
   "date_first_scraped": "2022-01-22",
   "description": "Brand new music from Monstercat, all in one place.",
   "name": "New Music Weekly | Monstercat",
@@ -6583,7 +6583,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 213750,
       "name": "k-means clustering - Tor Remix",
       "url": "https://open.spotify.com/track/5nTiUbO1yTk5AbJ9McXD0M"
@@ -6751,6 +6751,32 @@
       "duration_ms": 224000,
       "name": "Kingslayer",
       "url": "https://open.spotify.com/track/2xYI4GVeC4SUaNsx9HIUJ1"
+    },
+    {
+      "album": {
+        "name": "Know Me Better",
+        "url": "https://open.spotify.com/album/2iR9KdDE9yT2u5WVXehm1u"
+      },
+      "artists": [
+        {
+          "name": "Vikkstar",
+          "url": "https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC"
+        },
+        {
+          "name": "Masked Wolf",
+          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
+        },
+        {
+          "name": "Jme",
+          "url": "https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176148,
+      "name": "Know Me Better",
+      "url": "https://open.spotify.com/track/41AVceKYPXTFQNm8Sm9GP2"
     },
     {
       "album": {

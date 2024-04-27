@@ -1,12 +1,12 @@
 {
-  "description": "This is Selena. The essential tracks, all in one playlist.",
-  "num_followers": 583023,
+  "description": "This Is Selena. Los temas esenciales, todos en una lista.",
+  "num_followers": 583011,
   "original_name": "This Is Selena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzkxNjgwMCwwMDAwMDAwMGM4Zjk2MTNkM2U4NWU3ZTFkNDQwZTQ1ZDk0MTkxMWM1",
+  "snapshot_id": "MTcxNDAwMzIwMCwwMDAwMDAwMDc0ZDRhY2VhMjQzODJhMjMxZjkxMmY1NzMxMmQxYjEw",
   "tracks": [
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 227440,
-      "name": "Techno Cumbia",
-      "url": "https://open.spotify.com/track/2tS0iNc2QTb3ADhlAydiDa"
+      "duration_ms": 210626,
+      "name": "Bidi Bidi Bom Bom - 1994 Version",
+      "url": "https://open.spotify.com/track/08rj3keDexxAbhXnRM86ri"
     },
     {
       "added_at": null,
@@ -431,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Selena: The Series Soundtrack",
-        "url": "https://open.spotify.com/album/4zKd7rKQ7dXKXEEGcRoFNN"
+        "name": "Selena",
+        "url": "https://open.spotify.com/album/20b5sD6sxg1PVUasNcZLSe"
       },
       "artists": [
         {
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 183933,
-      "name": "Yo Fui Aquella - .",
-      "url": "https://open.spotify.com/track/1xoNViCJArwctEfzI1POqS"
+      "duration_ms": 232373,
+      "name": "La Bamba",
+      "url": "https://open.spotify.com/track/4xUQFUSPSJjSbLfmVRsZml"
     },
     {
       "added_at": null,
@@ -463,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Selena",
-        "url": "https://open.spotify.com/album/20b5sD6sxg1PVUasNcZLSe"
+        "name": "Selena: The Series Soundtrack",
+        "url": "https://open.spotify.com/album/4zKd7rKQ7dXKXEEGcRoFNN"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 232373,
-      "name": "La Bamba",
-      "url": "https://open.spotify.com/track/4xUQFUSPSJjSbLfmVRsZml"
+      "duration_ms": 183933,
+      "name": "Yo Fui Aquella - .",
+      "url": "https://open.spotify.com/track/1xoNViCJArwctEfzI1POqS"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Una fusi\u00f3n moderna de m\u00fasica Cristiana que alimenta el alma.",
-  "num_followers": 410105,
+  "num_followers": 410078,
   "original_name": "Creo En Ti",
   "owner": {
     "name": "Spotify",
@@ -807,8 +807,8 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Yo Te Seguir\u00e9",
-        "url": "https://open.spotify.com/album/2RS2t8yes056MiafG5dGQE"
+        "name": "Todo Lo Haces Nuevo",
+        "url": "https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
         }
       ],
-      "duration_ms": 272857,
-      "name": "Yo Te Seguir\u00e9",
-      "url": "https://open.spotify.com/track/6N0A7FP2GwYgTb8Db9o66n"
+      "duration_ms": 260221,
+      "name": "Eres T\u00fa",
+      "url": "https://open.spotify.com/track/6KwQ4NFdhpZw39FtPOEDAu"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -947,8 +947,8 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Todo Lo Haces Nuevo",
-        "url": "https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy"
+        "name": "Yo Te Seguir\u00e9",
+        "url": "https://open.spotify.com/album/2RS2t8yes056MiafG5dGQE"
       },
       "artists": [
         {
@@ -956,9 +956,9 @@
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
         }
       ],
-      "duration_ms": 260221,
-      "name": "Eres T\u00fa",
-      "url": "https://open.spotify.com/track/6KwQ4NFdhpZw39FtPOEDAu"
+      "duration_ms": 272857,
+      "name": "Yo Te Seguir\u00e9",
+      "url": "https://open.spotify.com/track/6N0A7FP2GwYgTb8Db9o66n"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1071,18 +1071,26 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "La Milla Extra",
-        "url": "https://open.spotify.com/album/39Adz4hweiPVdcakiEVNnX"
+        "name": "Monta\u00f1a",
+        "url": "https://open.spotify.com/album/31iCIGdIIOnCFtHeRBSZlJ"
       },
       "artists": [
         {
           "name": "Evan Craft",
           "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        },
+        {
+          "name": "GAWVI",
+          "url": "https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab"
+        },
+        {
+          "name": "Sam Rivera",
+          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
         }
       ],
-      "duration_ms": 253440,
-      "name": "La Milla Extra",
-      "url": "https://open.spotify.com/track/7Ednu75B1EVOm5igUG3e8N"
+      "duration_ms": 198742,
+      "name": "Monta\u00f1a",
+      "url": "https://open.spotify.com/track/4HcnKPqSK9LohkhjJEwAzu"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1247,26 +1255,18 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Monta\u00f1a",
-        "url": "https://open.spotify.com/album/31iCIGdIIOnCFtHeRBSZlJ"
+        "name": "La Milla Extra",
+        "url": "https://open.spotify.com/album/39Adz4hweiPVdcakiEVNnX"
       },
       "artists": [
         {
           "name": "Evan Craft",
           "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
-        },
-        {
-          "name": "GAWVI",
-          "url": "https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab"
-        },
-        {
-          "name": "Sam Rivera",
-          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
         }
       ],
-      "duration_ms": 198742,
-      "name": "Monta\u00f1a",
-      "url": "https://open.spotify.com/track/4HcnKPqSK9LohkhjJEwAzu"
+      "duration_ms": 253440,
+      "name": "La Milla Extra",
+      "url": "https://open.spotify.com/track/7Ednu75B1EVOm5igUG3e8N"
     },
     {
       "added_at": "2021-05-21 19:19:27",

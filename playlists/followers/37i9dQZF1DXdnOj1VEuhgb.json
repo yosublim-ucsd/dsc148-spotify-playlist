@@ -1,7 +1,7 @@
 {
-  "2024-04-26": 1342303,
+  "2024-04-27": 1342068,
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: BLOK3",
+  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Motive",
   "name": "NKVT",
   "tracks": [
     {
@@ -379,6 +379,24 @@
       "duration_ms": 178378,
       "name": "ANLARSIN",
       "url": "https://open.spotify.com/track/7422iH48oKjQzRNC8khQnK"
+    },
+    {
+      "album": {
+        "name": "anlatamam",
+        "url": "https://open.spotify.com/album/3At9Fy28V8N8zkV1kN0Ybf"
+      },
+      "artists": [
+        {
+          "name": "Muti",
+          "url": "https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122833,
+      "name": "anlatamam",
+      "url": "https://open.spotify.com/track/6n5sAwgI535CMAr36INv9L"
     },
     {
       "album": {
@@ -1247,6 +1265,28 @@
       "duration_ms": 158099,
       "name": "Cesaret",
       "url": "https://open.spotify.com/track/4LPfP8XzAp7OESNP28AUFB"
+    },
+    {
+      "album": {
+        "name": "ANKA",
+        "url": "https://open.spotify.com/album/3Khxj3BXOmIdIBQuM9cFYf"
+      },
+      "artists": [
+        {
+          "name": "Beta Berk Bay\u0131nd\u0131r",
+          "url": "https://open.spotify.com/artist/63f9vjw52BL5c3f5TSlg72"
+        },
+        {
+          "name": "Ezhel",
+          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159999,
+      "name": "Chin Tiki",
+      "url": "https://open.spotify.com/track/3ForKLyPSAb87Fyn9b2y4Y"
     },
     {
       "album": {
@@ -4377,10 +4417,28 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 209361,
       "name": "NEDEN M\u0130 \u0130LLEGAL 4",
       "url": "https://open.spotify.com/track/6ARmCtYLY3bYsuInpMmVqZ"
+    },
+    {
+      "album": {
+        "name": "taycan v1",
+        "url": "https://open.spotify.com/album/6vXjdCR5h6lbUeNR6tOXQA"
+      },
+      "artists": [
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164195,
+      "name": "nept\u00fcn",
+      "url": "https://open.spotify.com/track/0ms0jSQEDir8Lf5qrosvgd"
     },
     {
       "album": {
@@ -5239,7 +5297,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 137270,
       "name": "ROMANT\u0130K",
       "url": "https://open.spotify.com/track/3730z7N28rvWW4PpSXR7PY"
@@ -5430,7 +5488,7 @@
     },
     {
       "album": {
-        "name": "Say Goodbye 2.0",
+        "name": "Say Goodbye 2.0 (feat. Motive & Yung Kafa & K\u00fcc\u00fck Efendi)",
         "url": "https://open.spotify.com/album/5Vk7rj2j2qxfWzOFT1sXn5"
       },
       "artists": [
@@ -5451,7 +5509,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 210201,
-      "name": "Say Goodbye 2.0",
+      "name": "Say Goodbye 2.0 (feat. Motive & Yung Kafa & K\u00fcc\u00fck Efendi)",
       "url": "https://open.spotify.com/track/5bFz7S7cxnLMaNrdS11r37"
     },
     {
@@ -5551,7 +5609,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 139217,
       "name": "Sendeliyorum",
       "url": "https://open.spotify.com/track/3EpJjtwJA3iskhkXtL48n6"
@@ -5821,6 +5879,24 @@
       "duration_ms": 123989,
       "name": "SUBMARINER",
       "url": "https://open.spotify.com/track/2L39N1sTAiaKbN8NBtOH4I"
+    },
+    {
+      "album": {
+        "name": "IMPARATOR pt.1",
+        "url": "https://open.spotify.com/album/4KHZ9YcyFDWH4DVro6EKjo"
+      },
+      "artists": [
+        {
+          "name": "Sefo",
+          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157021,
+      "name": "SULU SULU",
+      "url": "https://open.spotify.com/track/0dsfzzMxipPjIzSg2Zal7w"
     },
     {
       "album": {
@@ -6315,7 +6391,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 244201,
       "name": "VOLTRAN",
       "url": "https://open.spotify.com/track/0uvfNcdpbZJmWxUa5yRNoh"
@@ -6443,6 +6519,24 @@
       "duration_ms": 125714,
       "name": "YALA DEDI YALAMA",
       "url": "https://open.spotify.com/track/3IUfGKVNE3QN1tePTN1bxF"
+    },
+    {
+      "album": {
+        "name": "YALAN D\u00dcNYA",
+        "url": "https://open.spotify.com/album/0PriynWZ6AefjNoEAYplMw"
+      },
+      "artists": [
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197813,
+      "name": "YALAN D\u00dcNYA",
+      "url": "https://open.spotify.com/track/3OZnr6bBuVXuTb0wdYrO7l"
     },
     {
       "album": {
@@ -6689,7 +6783,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 154160,
       "name": "\u00c7aresizce",
       "url": "https://open.spotify.com/track/5Owbx90EQ9qYyGQtJmZ8x1"

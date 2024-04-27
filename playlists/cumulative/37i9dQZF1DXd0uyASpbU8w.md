@@ -4,7 +4,7 @@
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4?si=I6stoJF2QIyRNcL6arzJTg">Tyler ICU</a>
 
-2,767 songs - 7 day 21 hr 41 min
+2,769 songs - 7 day 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [African Vibe PT 2 \- Ka Valungu \- 3 Step Remix](https://open.spotify.com/track/3jbBtITwX7GLqWcqz3odek) | [Peta Teanet](https://open.spotify.com/artist/7BeJbenrKbpNEUIsbvrl3d), [Heavy\-K](https://open.spotify.com/artist/0xAI0encQKIoTvNQXPh1ts) | [African Vibe PT 2 \- Ka Valungu \(3 Step Remix\)](https://open.spotify.com/album/5JvzmgfOX9gzhwcXUt2NrI) | 5:58 | 2023-10-20 | 2023-11-11 |
 | [After 10](https://open.spotify.com/track/4FWgEvPWCqoy6e9EHXYPRU) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Solomon](https://open.spotify.com/album/3Yx3a2caBpL5Id5c6hkaru) | 3:43 | 2023-09-15 | 2023-09-23 |
 | [Agora Hills](https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 4:25 | 2023-09-22 | 2023-09-29 |
+| [Ahi](https://open.spotify.com/track/5rVy4OrfXilu9iQE423JO0) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Funk Generation](https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY) | 2:37 | 2024-04-25 |  |
 | [Ain't Misbehavin'](https://open.spotify.com/track/1d0P00e6Esi37XOWiDlvG9) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT), [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [Ain't Misbehavin'](https://open.spotify.com/album/5mWDJe2FHrLyGSNVux1nw0) | 2:26 | 2024-01-04 | 2024-01-13 |
 | [Air \- Single Edit](https://open.spotify.com/track/4SImO1i8rWgT8C7Zu8iVog) | [Steve Umculo](https://open.spotify.com/artist/5rnqlstQORnxg0odyfLw0B) | [Air](https://open.spotify.com/album/60AUd6v5EKUDdsrZKK1NKE) | 3:14 | 2024-03-21 | 2024-03-29 |
 | [Airplane Tickets](https://open.spotify.com/track/2v1FKs8SR6tYEYREKM6MNN) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Airplane Tickets](https://open.spotify.com/album/6xEpW40GaWcE663h7cA3Ws) | 3:18 | 2023-12-08 | 2023-12-16 |
@@ -1815,6 +1816,7 @@
 | [OK \(feat\. Young Thug\)](https://open.spotify.com/track/06P0OMevRLv6wWGdXHSGN2) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [OK \(feat\. Young Thug\)](https://open.spotify.com/album/76GwLI1nybtKiwJ1maeFIw) | 4:06 | 2023-11-09 | 2023-11-18 |
 | [Ok'salayo](https://open.spotify.com/track/5B3JWkzaEumPyWXGyDcuGQ) | [Lindough](https://open.spotify.com/artist/4iSfsv6oMPj3nKKYlsAKWa), [Freddie Gwala](https://open.spotify.com/artist/1FWavVWfFqZJWP9oOba4J9), [Kingshort](https://open.spotify.com/artist/4xLUQfKWER4vPizyflTvuS), [DJ Active](https://open.spotify.com/artist/77LX9LG2ln7k7VKMLCWlow) | [Ok'salayo](https://open.spotify.com/album/3f2zfeEgbvOZyXy8mbvb9B) | 5:07 | 2023-09-22 | 2023-09-29 |
 | [Okay](https://open.spotify.com/track/36s2D7GbwCzZMfhVD3Bz68) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [Mac & Cheese 5 \(Versions\)](https://open.spotify.com/album/4X7trxVVObj1mdGvdl08Fs) | 3:12 | 2024-03-01 | 2024-03-09 |
+| [OKAY](https://open.spotify.com/track/0e1KTuawmiFLiK0Lh3nNtM) | [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [OKAY](https://open.spotify.com/album/7AmtY0qyLuqkGXYu7lOLjL) | 2:44 | 2024-04-25 |  |
 | [Old Days](https://open.spotify.com/track/7gM0bjWc2LpgZTihy4U18P) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Old Days](https://open.spotify.com/album/5d1hVedvruMRp2GFplN9DI) | 3:15 | 2024-02-23 | 2024-03-01 |
 | [OLD SCHOOL JAM](https://open.spotify.com/track/64uHnONrDLvHBGUmmDvcA6) | [Veenus](https://open.spotify.com/artist/1g0NILOzQIwGEdt6phsx9b) | [Boombap Chrysalis \(Part One\)](https://open.spotify.com/album/6UEfFyjTwXMcesI8zjw2M2) | 3:08 | 2024-03-28 | 2024-04-05 |
 | [Older](https://open.spotify.com/track/2EBtLxQSV8EHpk4gHoMnl3) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/5Tz4JnX2qcVxDDLpG8d2LY) | 3:21 | 2024-02-16 | 2024-02-24 |

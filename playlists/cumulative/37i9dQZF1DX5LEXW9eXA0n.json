@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover:\bPARK WON(\ubc15\uc6d0)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover:\bColde(\ucf5c\ub4dc)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -9799,6 +9799,24 @@
     },
     {
       "album": {
+        "name": "Tales of Sensuality",
+        "url": "https://open.spotify.com/album/59wYUBRXUJBC5NxFXqFYLh"
+      },
+      "artists": [
+        {
+          "name": "Kim Yuna",
+          "url": "https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314840,
+      "name": "La Vie Ros\u00e9e",
+      "url": "https://open.spotify.com/track/77EJqUi8w6kstvE53TFxnw"
+    },
+    {
+      "album": {
         "name": "Last Love",
         "url": "https://open.spotify.com/album/5YqWy3QakMPwKDt5ntfDN6"
       },
@@ -17473,6 +17491,28 @@
     },
     {
       "album": {
+        "name": "Tales of Sensuality",
+        "url": "https://open.spotify.com/album/59wYUBRXUJBC5NxFXqFYLh"
+      },
+      "artists": [
+        {
+          "name": "Kim Yuna",
+          "url": "https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232880,
+      "name": "The garden of adverbs (feat. Lee Hi)",
+      "url": "https://open.spotify.com/track/6wP9dxp1ZYIe9qrcpJhzko"
+    },
+    {
+      "album": {
         "name": "YUMI's Cells 2, Pt. 7 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/0FmT4QGX0aEIZpZ6RU7AvE"
       },
@@ -20620,6 +20660,24 @@
       "duration_ms": 314866,
       "name": "Y Si Fuera Ella",
       "url": "https://open.spotify.com/track/17vGPoIBXnSEd31N4B3gSR"
+    },
+    {
+      "album": {
+        "name": "Yoonseul",
+        "url": "https://open.spotify.com/album/2Ur4NrDdVubOUCBR4pfhOM"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154843,
+      "name": "Yoonseul",
+      "url": "https://open.spotify.com/track/6nB4wOUWBnvAMJvHb8BNc5"
     },
     {
       "album": {

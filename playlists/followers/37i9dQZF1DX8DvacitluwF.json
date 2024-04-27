@@ -1,9 +1,31 @@
 {
-  "2024-04-26": 11566,
+  "2024-04-27": 11581,
   "date_first_scraped": "2023-10-18",
-  "description": "Only the best in South African and international RnB. Cover: <a href=https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA?si=bbnHxwJGQqujPvwFL7X8DA>Ricky Tyler</a>",
+  "description": "Only the best in South African and international RnB. Cover: <a href=https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ?si=JaM1DQtzR_m7WRi47RP6NA>Manana</a>",
   "name": "R&Beats",
   "tracks": [
+    {
+      "album": {
+        "name": "1:59 (feat. Gunna)",
+        "url": "https://open.spotify.com/album/4QTPH0500WkMREPzyNYp9d"
+      },
+      "artists": [
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192089,
+      "name": "1:59 (feat. Gunna)",
+      "url": "https://open.spotify.com/track/4nncvBrXyuKNg5jfBnJ1dR"
+    },
     {
       "album": {
         "name": "24/7",
@@ -43,7 +65,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 191229,
       "name": "4am",
       "url": "https://open.spotify.com/track/0a5z5IAC1kssY9gKvBDsW9"
@@ -87,6 +109,24 @@
       "duration_ms": 203232,
       "name": "90's Anxiety",
       "url": "https://open.spotify.com/track/3iYTB2ma1aRFQQUrfCnhy8"
+    },
+    {
+      "album": {
+        "name": "911",
+        "url": "https://open.spotify.com/album/0prR2MAykHTFdV5rBP6uBV"
+      },
+      "artists": [
+        {
+          "name": "SuperJazzClub",
+          "url": "https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168774,
+      "name": "911",
+      "url": "https://open.spotify.com/track/4VlioYoSh1fT16hnERNsfF"
     },
     {
       "album": {
@@ -185,6 +225,24 @@
       "duration_ms": 157714,
       "name": "ALL4U",
       "url": "https://open.spotify.com/track/72sdW7Bn1bcSzD1eoBVgBM"
+    },
+    {
+      "album": {
+        "name": "Hopeless Romantic (EP)",
+        "url": "https://open.spotify.com/album/4poiSgaW1Bk5VWvmQQ8Ui4"
+      },
+      "artists": [
+        {
+          "name": "F3line",
+          "url": "https://open.spotify.com/artist/0dO41kWVCHHDVfbQTaidMQ"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165923,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/1OnoR9XSLxwxrLoMO6ECTA"
     },
     {
       "album": {
@@ -667,7 +725,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 164663,
       "name": "Closer To Me",
       "url": "https://open.spotify.com/track/7mWYPdQS1MBEtWMHqAHjUa"
@@ -1133,6 +1191,28 @@
       "duration_ms": 185714,
       "name": "Faded",
       "url": "https://open.spotify.com/track/6TJgXf6N6IQepcNXZVlIoW"
+    },
+    {
+      "album": {
+        "name": "Mombasa's Lover Boy",
+        "url": "https://open.spotify.com/album/3dCGhikw2kksr8OMi9HPft"
+      },
+      "artists": [
+        {
+          "name": "Caleb Awiti",
+          "url": "https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN"
+        },
+        {
+          "name": "Zowie Kengocha",
+          "url": "https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160610,
+      "name": "Failing Together",
+      "url": "https://open.spotify.com/track/73zD4vLARiNHzTB7EHqptA"
     },
     {
       "album": {
@@ -1652,6 +1732,24 @@
     },
     {
       "album": {
+        "name": "Hold Me Tight",
+        "url": "https://open.spotify.com/album/0B3sKMBkPgz7g8yXZZxMDz"
+      },
+      "artists": [
+        {
+          "name": "Manana",
+          "url": "https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199306,
+      "name": "Hold Me Tight",
+      "url": "https://open.spotify.com/track/3nledyW6TPc8hfXeDi8LNK"
+    },
+    {
+      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/6KwtzV1oe5PRIEoBoRIxFF"
       },
@@ -1881,6 +1979,24 @@
       "duration_ms": 213818,
       "name": "ilikeyou",
       "url": "https://open.spotify.com/track/33t6lb3izTuZthotlhHPPq"
+    },
+    {
+      "album": {
+        "name": "Impatient",
+        "url": "https://open.spotify.com/album/5ztwKgM43IMhm0Qnl3MI28"
+      },
+      "artists": [
+        {
+          "name": "Kofi",
+          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169310,
+      "name": "Impatient",
+      "url": "https://open.spotify.com/track/2LnADQWYzH6LWSsylwpmFE"
     },
     {
       "album": {
@@ -2238,6 +2354,36 @@
     },
     {
       "album": {
+        "name": "CLOSER",
+        "url": "https://open.spotify.com/album/4cSCZXFa68eNFY1pEeIzcW"
+      },
+      "artists": [
+        {
+          "name": "NNAVY",
+          "url": "https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu"
+        },
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
+        },
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        },
+        {
+          "name": "Hendrick Sam",
+          "url": "https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228518,
+      "name": "Let Me",
+      "url": "https://open.spotify.com/track/7jbR0coXoqygIfc6OFW8ly"
+    },
+    {
+      "album": {
         "name": "Lets Get Away",
         "url": "https://open.spotify.com/album/6WSbwrHIQmr6FOInnFMXEi"
       },
@@ -2293,6 +2439,24 @@
       "duration_ms": 158350,
       "name": "Love Letters",
       "url": "https://open.spotify.com/track/6OM5yjhSYR68YwS4fADK3O"
+    },
+    {
+      "album": {
+        "name": "Love Me JeJe",
+        "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178041,
+      "name": "Love Me JeJe",
+      "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
     },
     {
       "album": {
@@ -2467,7 +2631,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 221242,
       "name": "Mistaken",
       "url": "https://open.spotify.com/track/46oTVNwE53JTMCfydvCEo3"
@@ -2955,7 +3119,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 183925,
       "name": "Patience",
       "url": "https://open.spotify.com/track/5mFzG8awzpPxFnIKT43Xuf"
@@ -3045,7 +3209,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 172000,
       "name": "Put it Down",
       "url": "https://open.spotify.com/track/0HQVlbkWghJ4ZI80cDlLjY"
@@ -3386,6 +3550,28 @@
     },
     {
       "album": {
+        "name": "Signs",
+        "url": "https://open.spotify.com/album/11TdYCMmkPj3rQsoEepaTO"
+      },
+      "artists": [
+        {
+          "name": "lordkez",
+          "url": "https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88"
+        },
+        {
+          "name": "Loatinover Pounds",
+          "url": "https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Signs",
+      "url": "https://open.spotify.com/track/0yHNLPBhDeJrFDPBhG2r77"
+    },
+    {
+      "album": {
         "name": "Ephemeral",
         "url": "https://open.spotify.com/album/6wGvshyHfaFLhajJX3zhPJ"
       },
@@ -3499,7 +3685,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 189177,
       "name": "Someone Like You",
       "url": "https://open.spotify.com/track/49gDQkf5v2JFaBe9SjljNy"
@@ -3543,6 +3729,24 @@
       "duration_ms": 237176,
       "name": "Stay Near",
       "url": "https://open.spotify.com/track/7u9B6FuMyxwd1THxrgaVPi"
+    },
+    {
+      "album": {
+        "name": "Stay The Night",
+        "url": "https://open.spotify.com/album/5NPVk3MNx4FiE0airIqmb1"
+      },
+      "artists": [
+        {
+          "name": "Chante",
+          "url": "https://open.spotify.com/artist/3Hep5FnEEhtEUODQxyGFKg"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186947,
+      "name": "Stay The Night",
+      "url": "https://open.spotify.com/track/669iVry0mTcX42pgTnCCOF"
     },
     {
       "album": {
@@ -3721,7 +3925,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 251038,
       "name": "That's You",
       "url": "https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs"
@@ -3787,6 +3991,24 @@
       "duration_ms": 200571,
       "name": "TIME",
       "url": "https://open.spotify.com/track/4abv3ao51qRblxKxkYfw56"
+    },
+    {
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/4qLhQVT4loCtRyqhk4UB29"
+      },
+      "artists": [
+        {
+          "name": "Joda Kgosi",
+          "url": "https://open.spotify.com/artist/4JKR7xRiiHNUXEiHHwg1E8"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218666,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/1EwFCXUDJVpQEnXJOfhuZg"
     },
     {
       "album": {
@@ -4033,6 +4255,28 @@
       "duration_ms": 252573,
       "name": "Waiting in Vain - Spotify Singles",
       "url": "https://open.spotify.com/track/5tHipIzrGqcoZ4ovlW1Aip"
+    },
+    {
+      "album": {
+        "name": "Wake Up (feat. Chris Brown)",
+        "url": "https://open.spotify.com/album/6GxAhYaeBYubxjZn0KkpZY"
+      },
+      "artists": [
+        {
+          "name": "Skylar Blatt",
+          "url": "https://open.spotify.com/artist/5B0hUg80AXXuTKryq9mFs1"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173440,
+      "name": "Wake Up (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/6pMHL7A5CEPzHHKDRAAMEM"
     },
     {
       "album": {

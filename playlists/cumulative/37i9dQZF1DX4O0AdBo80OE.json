@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-14",
-  "description": "Rimas cremosas, tan necesarias como tu caf\u00e9. Robot95 y Jesse Baez en portada.",
+  "description": "Rimas cremosas, tan necesarias como tu caf\u00e9. Caztro y Charles Ans en portada.",
   "name": "Rap Latte",
   "tracks": [
     {
@@ -1084,6 +1084,28 @@
       "duration_ms": 165000,
       "name": "El \u00c1ngel Que Te Cuida",
       "url": "https://open.spotify.com/track/2Biy7WyvcK7PWHtv6H23Ms"
+    },
+    {
+      "album": {
+        "name": "Ella es un 10",
+        "url": "https://open.spotify.com/album/5x91Bi8ncUsFKK3p7xXgac"
+      },
+      "artists": [
+        {
+          "name": "Mike Lamadrid",
+          "url": "https://open.spotify.com/artist/0yH4dtb40shmtEVyb9yA8C"
+        },
+        {
+          "name": "Prodbenji",
+          "url": "https://open.spotify.com/artist/1DmEBSnH17cb4hSCwEqdGg"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181486,
+      "name": "Ella es un 10",
+      "url": "https://open.spotify.com/track/1QFoFq6d2p6D5pdEYdFSLt"
     },
     {
       "album": {
@@ -3022,7 +3044,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 187692,
       "name": "Si Se Me Va la Voz",
       "url": "https://open.spotify.com/track/0HUw1ZCFhO3FZ3eMYOBMEt"

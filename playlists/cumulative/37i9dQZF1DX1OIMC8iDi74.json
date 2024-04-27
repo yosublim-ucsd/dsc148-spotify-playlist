@@ -38,7 +38,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 203641,
       "name": "aaaH",
       "url": "https://open.spotify.com/track/0Ies9X4MAgm50caFP5iJYI"
@@ -158,7 +158,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 157859,
       "name": "All Again",
       "url": "https://open.spotify.com/track/1EHT4y5kyE0goaTmSEdEqW"
@@ -1118,6 +1118,28 @@
       "duration_ms": 214929,
       "name": "Came Up (feat. Post Malone & Key!)",
       "url": "https://open.spotify.com/track/6GAhe3wXCDJP1RK5lZLyjX"
+    },
+    {
+      "album": {
+        "name": "Can't Talk",
+        "url": "https://open.spotify.com/album/5XAEvDrse2d2865LjgSik3"
+      },
+      "artists": [
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        },
+        {
+          "name": "Famous Dex",
+          "url": "https://open.spotify.com/artist/0WOxhx4hikIsyF3CRPLC8W"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150110,
+      "name": "Can't Talk",
+      "url": "https://open.spotify.com/track/6tz0fj2mcbqBJ3ljWWWGQN"
     },
     {
       "album": {
@@ -2427,6 +2449,32 @@
     },
     {
       "album": {
+        "name": "Collision",
+        "url": "https://open.spotify.com/album/0CnQj7xlIOjcDP7MWYiKxZ"
+      },
+      "artists": [
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        },
+        {
+          "name": "Jon Casey",
+          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
+        },
+        {
+          "name": "Terror Jr",
+          "url": "https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206222,
+      "name": "Exorcise Me",
+      "url": "https://open.spotify.com/track/1tziQLnwIV0WHbyrlSAk2R"
+    },
+    {
+      "album": {
         "name": "V!BEZ, Vol. 4",
         "url": "https://open.spotify.com/album/1FJ7kXrCmyFtR2B1NBpYDu"
       },
@@ -2464,6 +2512,28 @@
       "duration_ms": 119172,
       "name": "Fallout",
       "url": "https://open.spotify.com/track/2ODnXTSPquz48lOTVC9E0E"
+    },
+    {
+      "album": {
+        "name": "The Resonance VII",
+        "url": "https://open.spotify.com/album/5SjR0EUzWxrlNFLgfwbUJq"
+      },
+      "artists": [
+        {
+          "name": "I Am Legion",
+          "url": "https://open.spotify.com/artist/2wNMk7BiCiuO7hjGZPZYuJ"
+        },
+        {
+          "name": "Visages",
+          "url": "https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242400,
+      "name": "Farrda - Visages Remix",
+      "url": "https://open.spotify.com/track/4WP6u90c3ygryF4NYIobGZ"
     },
     {
       "album": {
@@ -3599,6 +3669,24 @@
     },
     {
       "album": {
+        "name": "holy ghost",
+        "url": "https://open.spotify.com/album/0H9k8NduBG5dcan4V1FJ6m"
+      },
+      "artists": [
+        {
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152678,
+      "name": "holy ghost",
+      "url": "https://open.spotify.com/track/5IcmUnL95u4YFo6hhIbPZV"
+    },
+    {
+      "album": {
         "name": "Hooligan",
         "url": "https://open.spotify.com/album/18F3RokLnEIxRBF9LUh2G9"
       },
@@ -3650,6 +3738,24 @@
       "duration_ms": 192000,
       "name": "HOT MESS",
       "url": "https://open.spotify.com/track/33BwCfvKWzQR3J7m5mLfYH"
+    },
+    {
+      "album": {
+        "name": "HOW 2 BUILD A BETTER BOY",
+        "url": "https://open.spotify.com/album/0JmTHqE4g2KcRW3HhPVdOs"
+      },
+      "artists": [
+        {
+          "name": "Moore Kismet",
+          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197895,
+      "name": "HOW 2 BUILD A BETTER BOY",
+      "url": "https://open.spotify.com/track/4y6sSlM6Jm4du7SEGhLFSW"
     },
     {
       "album": {
@@ -4296,6 +4402,28 @@
       "duration_ms": 198400,
       "name": "KARMA (With Jazz Cartier)",
       "url": "https://open.spotify.com/track/23JWyjMJe6snyIqlORwLyH"
+    },
+    {
+      "album": {
+        "name": "Killa",
+        "url": "https://open.spotify.com/album/2XbLTWvDNnAXFjmNaegzfq"
+      },
+      "artists": [
+        {
+          "name": "Space Wizard",
+          "url": "https://open.spotify.com/artist/1wcleSLRiSdM4P0ugXdg3H"
+        },
+        {
+          "name": "Sora",
+          "url": "https://open.spotify.com/artist/5DzPI26WZHcfgG9K2UTC7K"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202786,
+      "name": "Killa",
+      "url": "https://open.spotify.com/track/5QmqjUaUOsq8c2KUOtgqdL"
     },
     {
       "album": {
@@ -4974,7 +5102,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 128683,
       "name": "MIA",
       "url": "https://open.spotify.com/track/4ryhwZcsCAbvP0R1Ku8SwX"
@@ -5908,7 +6036,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 126000,
       "name": "ORIGINAL STEPPA",
       "url": "https://open.spotify.com/track/55ucCWk6NNfQBDDEiVvBIQ"
@@ -6440,7 +6568,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 188571,
       "name": "RTC",
       "url": "https://open.spotify.com/track/4kea3sugNepDtJZgDg34zx"
@@ -8666,7 +8794,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 219718,
       "name": "Your Lovin'",
       "url": "https://open.spotify.com/track/3awHSnJDVnHm3cNCLI9sOf"

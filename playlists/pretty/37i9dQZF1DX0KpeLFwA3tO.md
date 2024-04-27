@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Lambrini Girls
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,614 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,613 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Be Ok \- RMX](https://open.spotify.com/track/2a8qG0E7Ix3YgMvy64QdFf) | [Petti Hendrix](https://open.spotify.com/artist/5UH0futyctGehzyRRBWukQ), [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS), [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [Be Ok \(RMX\)](https://open.spotify.com/album/3iHvJy9uyIj79BLz6g9efV) | 3:32 |
 | 2 | [21](https://open.spotify.com/track/5Xe7XIUNNyS0Z2ppgPdXYu) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [21](https://open.spotify.com/album/0wLlRIF7IzWJVnOCM5mifc) | 3:14 |
-| 3 | [God's Country](https://open.spotify.com/track/4UccUaOQ6lU7kAffOVgz1d) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [God's Country](https://open.spotify.com/album/4ymxAnpNkFo2spUPzjouAR) | 2:15 |
+| 3 | [Body of Mine](https://open.spotify.com/track/18DJZuLkgGwKtSDeOMrUsB) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [God's Country / Body of Mine](https://open.spotify.com/album/630TvkzIGIJtmfd04Li7Ql) | 2:11 |
 | 4 | [No Backbone](https://open.spotify.com/track/4aVYHhJU15iTOK29U4PWIM) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [No Backbone](https://open.spotify.com/album/1HTERR04ZhV8lRaxlvYBeL) | 2:17 |
 | 5 | [ON CUM](https://open.spotify.com/track/1saCtD8jHpfM1Fmy7UbHtm) | [Say Anything](https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4) | [ON CUM](https://open.spotify.com/album/6InVgPYngkkYtQXzZ9Ke2C) | 5:25 |
 | 6 | [What's An Hour Really Worth](https://open.spotify.com/track/2ynVwAfLqk8GLXf4W95OMf) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [What's An Hour Really Worth](https://open.spotify.com/album/23NuSKPDQnvMwLJjcDTmjR) | 3:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [CAR](https://open.spotify.com/track/0dJmlOm0zHBwoFoBEQxZrA) | [Carpool](https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit) | [CAR](https://open.spotify.com/album/3QDbEAuj3BIjfwAqKlXyNa) | 3:08 |
 | 100 | [Trouble Breathing](https://open.spotify.com/track/7nKW5AAHoJXfvLXRWEeR0N) | [Casa Loma](https://open.spotify.com/artist/1bDZuX59AqwYMj9wbQnXVk), [Hot Rod Circuit](https://open.spotify.com/artist/209McJAEbNbvQXsnuNJZJw) | [Trouble Breathing](https://open.spotify.com/album/2nGod4tclcjIXMmvyp4HAv) | 2:48 |
 
-Snapshot ID: `MTcxNDA4NjAwMCwwMDAwMDAwMDMyN2YwYmVhY2VhYzhhZDBlOWJjYzk0MWU4N2U3YjNm`
+Snapshot ID: `MTcxNDEyNTI2OSwwMDAwMDAwMDMyYmEyNTU2ODVmMjZmMmQ4MGMxNjEyNzY4ZjUxZjZj`

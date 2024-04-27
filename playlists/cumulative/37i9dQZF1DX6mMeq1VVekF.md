@@ -4,7 +4,7 @@
 
 > No tags, no labels \- just free form\. Cover: BERWYN
 
-336 songs - 17 hr 39 min
+337 songs - 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Alchemy](https://open.spotify.com/track/02ck9tzXidQ4fTTMMGX43t) | [MANIK MC](https://open.spotify.com/artist/5Bapg9halr8vzjfc0Cbxol), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Alchemy](https://open.spotify.com/album/137mUauJjgIwCPORvCsk5o) | 3:13 | 2022-06-24 | 2022-07-29 |
 | [All Alone](https://open.spotify.com/track/7h4WdSxVKr8uciqXs3zAXw) | [Ryder](https://open.spotify.com/artist/2Lr6UcfZWL1Ur5spOaduOb), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Dré Six](https://open.spotify.com/artist/5eLN24mJrfPvsHv7tqJpA4) | [48 Hours](https://open.spotify.com/album/7B8hgK92g5E2WnKkKjEzRp) | 2:27 | 2023-11-24 | 2024-04-26 |
 | [ALL MINE](https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:36 | 2022-07-17 |  |
-| [All My Girls Like To Fight](https://open.spotify.com/track/6rCuplMDiFQVSca77OQocz) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [All My Girls Like To Fight](https://open.spotify.com/album/0ajMPNNALiabIrvCCaCKcl) | 3:52 | 2022-06-24 |  |
+| [All My Girls Like To Fight](https://open.spotify.com/track/6rCuplMDiFQVSca77OQocz) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [All My Girls Like To Fight](https://open.spotify.com/album/0ajMPNNALiabIrvCCaCKcl) | 3:52 | 2022-06-24 | 2024-04-27 |
 | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A) | 3:43 | 2023-05-15 |  |
 | [All To Me](https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done..\. Take Time](https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd) | 2:07 | 2022-07-17 |  |
 | [Alone With You](https://open.spotify.com/track/0W7brFokN6QtGRNp32RCQP) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Alone With You](https://open.spotify.com/album/1nTaMUZsk7VOqjpY0WQHWb) | 3:15 | 2022-07-17 |  |
@@ -61,6 +61,7 @@
 | [Born \(Remix\) \[feat\. Cashh & King Promise\]](https://open.spotify.com/track/6ztz7MysNjHec8CHmigWDp) | [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Cashh](https://open.spotify.com/artist/1CTdJErNqnCWNwtxJmleua), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Born \(Remix\) \[feat\. Cashh & King Promise\]](https://open.spotify.com/album/5c2opaEOTa8gn5Ufinm3H1) | 2:47 | 2022-07-17 | 2022-08-23 |
 | [Bout Dis](https://open.spotify.com/track/0W2DfGz6T8nq7j9QLxksDx) | [Treble Clef](https://open.spotify.com/artist/0RL82EKGr8B2khgVrkBPKY), [DeeJillz](https://open.spotify.com/artist/6zM24ISVAHeHamAYUnELfM), [Elf Kid](https://open.spotify.com/artist/3zCJAYU5pdyvi4nwb5ANnQ) | [Bout Dis](https://open.spotify.com/album/6qc3p8JJZmvxciKnXVvQPi) | 4:00 | 2022-06-24 | 2022-07-21 |
 | [Bracing](https://open.spotify.com/track/6cliZq0DpmY6QE6tUlvqjO) | [169](https://open.spotify.com/artist/39YXk0KLGQwWNHIAkrQngR), [Rv](https://open.spotify.com/artist/4VylF3B1rKCL5tdOJ8VL8o) | [Bracing](https://open.spotify.com/album/78JmFCHC0q0NyahoLLb7G9) | 3:03 | 2023-05-15 | 2023-06-17 |
+| [Bring Me Up](https://open.spotify.com/track/1CgDZnD03eTG2V0aEruvDR) | [KAM\-BU](https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF) | [Bring Me Up](https://open.spotify.com/album/0ht3Ctn5RFVwC9oMHrJoUz) | 2:22 | 2024-04-26 |  |
 | [Brown Angel](https://open.spotify.com/track/5KFj6CPcfKGS6MI3gQEzNe) | [Tamaraebi](https://open.spotify.com/artist/5PRqaEB5d1aoPXZzCHNmoZ) | [Brown Angel](https://open.spotify.com/album/0UjaOB9o3zp7dQnuiG3yMG) | 3:02 | 2022-06-24 | 2022-07-29 |
 | [brush u](https://open.spotify.com/track/5SwUdsvuqQE6pBiFCZjsqQ) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW) | [brush u](https://open.spotify.com/album/45vgKO5oOKipT4k9ugHlLW) | 1:51 | 2022-06-24 | 2022-07-12 |
 | [Call Me Back \(feat\. Knucks\)](https://open.spotify.com/track/1o3vThoOf0wBYG3IEdW09y) | [KAM\-BU](https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Black on Black](https://open.spotify.com/album/3hhuMQnbEutgqMa4o8063u) | 3:04 | 2022-06-24 | 2022-07-15 |

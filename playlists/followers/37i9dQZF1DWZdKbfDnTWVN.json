@@ -1,5 +1,5 @@
 {
-  "2024-04-26": 12562,
+  "2024-04-27": 12582,
   "date_first_scraped": "2022-10-01",
   "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK?si=HZkN5B1KStCZHEbI87xDLA\"> Wakadinali </a> ",
   "name": "254 Flow",
@@ -380,6 +380,28 @@
     },
     {
       "album": {
+        "name": "Bite It",
+        "url": "https://open.spotify.com/album/26YiUFEdEVY198gp6wdYBE"
+      },
+      "artists": [
+        {
+          "name": "Musa Kiama",
+          "url": "https://open.spotify.com/artist/2HaOR22reVpfXDk5N4sYVw"
+        },
+        {
+          "name": "HR the Messenger",
+          "url": "https://open.spotify.com/artist/13R6yXww8KUSQEx97JGkQc"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163165,
+      "name": "Bite It",
+      "url": "https://open.spotify.com/track/0EZQBAOtK2gQg1YYp1uEcD"
+    },
+    {
+      "album": {
         "name": "Blue Ticks (feat. Femi One)",
         "url": "https://open.spotify.com/album/2TNxPFOTblCkmnndT4Z3Ki"
       },
@@ -497,7 +519,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 120000,
       "name": "Caliweed",
       "url": "https://open.spotify.com/track/36xONjijeZ6ye4ARFwQADT"
@@ -931,6 +953,28 @@
       "duration_ms": 251748,
       "name": "Digdat",
       "url": "https://open.spotify.com/track/6PU0d8bb9HDNcqaxBxFtnH"
+    },
+    {
+      "album": {
+        "name": "Diss na Drill (Remix)",
+        "url": "https://open.spotify.com/album/3F1VhFsXu7unkg6Mm1FGbe"
+      },
+      "artists": [
+        {
+          "name": "Kalasinga",
+          "url": "https://open.spotify.com/artist/15ooQtC6xqMBWCjbzVVuj2"
+        },
+        {
+          "name": "BURUKLYN BOYZ",
+          "url": "https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194528,
+      "name": "Diss na Drill - Remix",
+      "url": "https://open.spotify.com/track/5zFeiSIUrGsEYvh0CEg5rS"
     },
     {
       "album": {
@@ -3903,7 +3947,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 145924,
       "name": "Suluhu",
       "url": "https://open.spotify.com/track/5rjQ4OPzr17HCT6twZ0NAE"

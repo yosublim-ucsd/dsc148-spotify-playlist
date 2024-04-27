@@ -2,9 +2,9 @@
 
 ### [Jupiter](https://open.spotify.com/playlist/37i9dQZF1DXdoMAjKwiHY5)
 
-> Got Fray\-fever? Or craving some DeGraw\-delights? Get on the Train\-train and enjoy these pop/rock classics\. Cover: Train
+> Got Fray\-fever? Or craving some DeGraw\-delights? Board the Train\-train and enjoy these pop/rock favorites\. Cover: Train
 
-81 songs - 5 hr 16 min
+82 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [99 Times](https://open.spotify.com/track/6sLxk7xOHjgwq3J67n65UP) | [Kate Voegele](https://open.spotify.com/artist/7whckrkkTMEuvqfaNfMs7S) | [A Fine Mess \(Deluxe\)](https://open.spotify.com/album/46Kny4qy8FGd0AE0L3M4Lz) | 3:28 | 2023-07-06 |  |
 | [Absolutely \(Story of a Girl\) \- Radio Mix](https://open.spotify.com/track/3mNecsYFb6LQg7822DPXCP) | [Nine Days](https://open.spotify.com/artist/306JHpIRGVaQd6OltnOzUO) | [The Madding Crowd](https://open.spotify.com/album/4BcmNEt6VK0KBVsVY8yClD) | 3:09 | 2023-07-06 |  |
 | [Alive](https://open.spotify.com/track/6TzVlOFYIC2rJM8LmwgsKO) | [Dishwalla](https://open.spotify.com/artist/6F3NW2aC9Sni1FH7QPSLvw) | [Alive](https://open.spotify.com/album/45P6VGhyMGTbcoqGzoKZZC) | 4:55 | 2023-06-08 |  |
-| [AM Gold](https://open.spotify.com/track/6xTQD1ixS5uca8B9P97vQc) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [AM Gold](https://open.spotify.com/album/6mcsJ2NLsnTt6MnvXiDpjI) | 2:49 | 2023-06-08 |  |
+| [AM Gold](https://open.spotify.com/track/6xTQD1ixS5uca8B9P97vQc) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [AM Gold](https://open.spotify.com/album/6mcsJ2NLsnTt6MnvXiDpjI) | 2:49 | 2023-06-08 | 2024-04-27 |
 | [Amazing](https://open.spotify.com/track/3fbKJNrsPJwye98LTGm4Ok) | [Josh Kelley](https://open.spotify.com/artist/1yLlQimDTRrACa45u50LXW) | [For The Ride Home](https://open.spotify.com/album/249eg0DXm5sJegopxGvjhf) | 3:45 | 2023-06-08 |  |
 | [Bad Day](https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK) | [Daniel Powter](https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk) | [Daniel Powter](https://open.spotify.com/album/4zhigAhPwqp43XVHBiVeQI) | 3:53 | 2023-07-06 |  |
 | [Be Like That](https://open.spotify.com/track/3PbHle8KhJp6GuO1jLdEmQ) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life](https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6) | 4:25 | 2023-06-08 |  |
@@ -54,6 +54,7 @@
 | [Inside Of Love](https://open.spotify.com/track/56hMpSZ6CZ2gjmdKdNN8pz) | [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy) | [Let Go](https://open.spotify.com/album/4zHS8jrrBCdAo11WtNaz8A) | 4:58 | 2023-06-08 |  |
 | [Live Like We're Dying](https://open.spotify.com/track/1HfxPaJggVwFsvOtHbVzMz) | [Kris Allen](https://open.spotify.com/artist/2zwHaEmXxX6DTv4i8ajNCM) | [Kris Allen](https://open.spotify.com/album/5fM41TOegBBrRO7NhmFYvP) | 3:32 | 2023-07-06 |  |
 | [Lonely No More](https://open.spotify.com/track/4faFAhOflLzhfJECveRwva) | [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC) | [Something to Be](https://open.spotify.com/album/07hC5JSKAodpBIVR6A772E) | 3:46 | 2023-07-06 |  |
+| [Long Yellow Dress](https://open.spotify.com/track/5LKidZHW0GGEhFjwBHgq1E) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Long Yellow Dress](https://open.spotify.com/album/5cDUm4xijWkKovh69cUL3H) | 3:09 | 2024-04-26 |  |
 | [Manhattan From The Sky](https://open.spotify.com/track/523xr53yavDWpxl7etEdag) | [Kate Voegele](https://open.spotify.com/artist/7whckrkkTMEuvqfaNfMs7S) | [A Fine Mess \(Deluxe\)](https://open.spotify.com/album/46Kny4qy8FGd0AE0L3M4Lz) | 3:31 | 2023-06-08 |  |
 | [Miss California](https://open.spotify.com/track/48NtFCrBTfehbMhbZrkPGR) | [Hootie & The Blowfish](https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof) | [Imperfect Circle](https://open.spotify.com/album/7pvoNsdHfd3MhBiV7CzUQV) | 3:11 | 2023-06-08 |  |
 | [Mr\. Jones](https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [August And Everything After](https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ) | 4:32 | 2023-06-08 |  |

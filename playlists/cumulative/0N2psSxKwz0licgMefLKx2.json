@@ -423,6 +423,24 @@
     },
     {
       "album": {
+        "name": "Nobody's Born With A Broken Heart",
+        "url": "https://open.spotify.com/album/34AFxONmJ08r2blbMQCNXj"
+      },
+      "artists": [
+        {
+          "name": "MacKenzie Porter",
+          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156453,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/72Daj58ja4UkWWV2v2otIM"
+    },
+    {
+      "album": {
         "name": "Locked Up",
         "url": "https://open.spotify.com/album/1uZrgmt2depCIzzN0FxfIv"
       },
@@ -748,7 +766,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 159613,
       "name": "Fake Names",
       "url": "https://open.spotify.com/track/2ClUu1kEWAGb6KZroRkkUq"
@@ -990,6 +1008,24 @@
       "duration_ms": 204237,
       "name": "Heartbreaker",
       "url": "https://open.spotify.com/track/1dPAFSZBXcR95RGdWD5mKS"
+    },
+    {
+      "album": {
+        "name": "Heatin' Things Up",
+        "url": "https://open.spotify.com/album/5zVKvLhrTVOSQEMkccOCbH"
+      },
+      "artists": [
+        {
+          "name": "Josh Turner",
+          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178053,
+      "name": "Heatin' Things Up",
+      "url": "https://open.spotify.com/track/64SJcptJWHf6ARsMLUPYTo"
     },
     {
       "album": {
@@ -1294,7 +1330,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 202027,
       "name": "Love You Back",
       "url": "https://open.spotify.com/track/67zZ26O7nHAyL76sEx3tIS"
@@ -1464,7 +1500,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 222966,
       "name": "My Last Rodeo",
       "url": "https://open.spotify.com/track/6HumsLwKYoW6taXk0q2fy8"
@@ -1536,10 +1572,32 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 205306,
       "name": "Never Been Over",
       "url": "https://open.spotify.com/track/5Izy5w7WRKyOTH7CtWgyPG"
+    },
+    {
+      "album": {
+        "name": "Never Been Over",
+        "url": "https://open.spotify.com/album/3pkeTpcbaAmzbgWDch7BYU"
+      },
+      "artists": [
+        {
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+        },
+        {
+          "name": "Jennifer Nettles",
+          "url": "https://open.spotify.com/artist/2WV4xLQooFalR2cit0XSKp"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205466,
+      "name": "Never Been Over",
+      "url": "https://open.spotify.com/track/5CfsbLLaJ6GGzEuRjYFRhT"
     },
     {
       "album": {
@@ -1967,6 +2025,24 @@
     },
     {
       "album": {
+        "name": "Scary Love",
+        "url": "https://open.spotify.com/album/3F9p267m68RpVbRhksOlhN"
+      },
+      "artists": [
+        {
+          "name": "Mickey Guyton",
+          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180603,
+      "name": "Scary Love",
+      "url": "https://open.spotify.com/track/1Q2npOPcXnQA8sYKV0fLy2"
+    },
+    {
+      "album": {
         "name": "See You Next Summer",
         "url": "https://open.spotify.com/album/5HiDygOM1Jx8Crkko9AV1y"
       },
@@ -2134,7 +2210,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 187493,
       "name": "Southern and Slow",
       "url": "https://open.spotify.com/track/5tAoi3TfoWB4esWc5hlLJ8"
@@ -2556,6 +2632,24 @@
       "duration_ms": 217906,
       "name": "Weekend You",
       "url": "https://open.spotify.com/track/3doTRdHX25BdvMQxJ3Jgvm"
+    },
+    {
+      "album": {
+        "name": "Well Alright",
+        "url": "https://open.spotify.com/album/43DkVKkSDhVgDzen523ZFe"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132293,
+      "name": "Well Alright",
+      "url": "https://open.spotify.com/track/0aHDkn2yqKsDhLptXjQhPt"
     },
     {
       "album": {

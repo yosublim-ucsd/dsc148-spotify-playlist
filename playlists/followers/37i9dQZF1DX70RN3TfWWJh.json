@@ -1,5 +1,5 @@
 {
-  "2024-04-26": 4818082,
+  "2024-04-27": 4816796,
   "date_first_scraped": "2021-12-21",
   "description": "Pop hits to keep your workout fresh",
   "name": "Workout",
@@ -3694,6 +3694,24 @@
     },
     {
       "album": {
+        "name": "Hotstepper",
+        "url": "https://open.spotify.com/album/2fEyzL7jdYeu1trYCeFTXr"
+      },
+      "artists": [
+        {
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141795,
+      "name": "Hotstepper",
+      "url": "https://open.spotify.com/track/0p0zES2I7Lgeow1yXmF8ss"
+    },
+    {
+      "album": {
         "name": "Houdini",
         "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
       },
@@ -5113,7 +5131,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 144742,
       "name": "Like 1999",
       "url": "https://open.spotify.com/track/25gacl0dFF9HTclx7Ug7xC"

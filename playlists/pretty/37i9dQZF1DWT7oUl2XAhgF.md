@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 
 > A new take on a classic sound\. Cover: Jalen Ngonda
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,260 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,330 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Here To Stay](https://open.spotify.com/track/16sNdTQnKj1FI0H53LQTYc) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Here To Stay](https://open.spotify.com/album/2uWegW1sXYuKFTu9OpU7DA) | 3:22 |
-| 2 | [Berries \- So Sweet Version](https://open.spotify.com/track/2yoTmNrAgoIEyJJvSaPfzM) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [Berries \(So Sweet Version\)](https://open.spotify.com/album/3FH2HT8ax3xAggb7etHnrF) | 4:32 |
-| 3 | [R.L.M](https://open.spotify.com/track/7xrp1M7PQfRh5fsT8dOGnj) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [R.L.M](https://open.spotify.com/album/5jk1ZbZsxdmcKNFKmDO2nF) | 3:45 |
-| 4 | [Love Direction](https://open.spotify.com/track/3GMVK3x0ZxSOpJFvgUVih7) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Love Direction](https://open.spotify.com/album/3Rhcn5DbYSFeTdK73WeQ6l) | 3:43 |
-| 5 | [Don't Wanna Lose You](https://open.spotify.com/track/03Xfnr5nwnz2eiPDeRYJQJ) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Don't Wanna Lose You](https://open.spotify.com/album/46VBRKa8sDXKU8piCs3UHw) | 3:39 |
-| 6 | [In Limbo](https://open.spotify.com/track/0ehGcL48kQnjyvhe8P49pq) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM), [Ironsides](https://open.spotify.com/artist/4nzySyLtM3nYbLWVB8gy0U) | [In Limbo](https://open.spotify.com/album/4VsRC2WqckvyyMSKu4ulYu) | 3:15 |
-| 7 | [I Can Never Get Enough](https://open.spotify.com/track/33cuVbRvIALN64Dat6U5eV) | [Dylan Chambers](https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9) | [I Can Never Get Enough](https://open.spotify.com/album/07VSGcPb90GbQu67lIr3Kk) | 3:04 |
-| 8 | [Let You Go](https://open.spotify.com/track/7a6zCrX08XWisZXGj3sMEf) | [Joseph Lawrence](https://open.spotify.com/artist/69XFaEPeBh41fbWxQMD8X4) | [Let You Go](https://open.spotify.com/album/31Lq73n7sxinFMFak3zqZT) | 2:44 |
-| 9 | [YA YA](https://open.spotify.com/track/0K9tfzrxJyCQIf7oAlPwaK) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 4:34 |
-| 10 | [Let Me Feel Your Charm \- Spotify Singles](https://open.spotify.com/track/2kOdSOu7imEWFLgeYcY7tq) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU), [Jensine Benitez](https://open.spotify.com/artist/6EkOEYrG2cAQgIatrHQJbX) | [Let Me Feel Your Charm \- Spotify Singles](https://open.spotify.com/album/3LOouZQ6CUoH29m6MnY8qV) | 2:42 |
-| 11 | [Mr\. Weatherman](https://open.spotify.com/track/7wxq3HK9OnoMeJOzpdj5jR) | [Felix Ames](https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2) | [Mr\. Weatherman](https://open.spotify.com/album/23QXxkhhY9HRsJqc1padbd) | 3:27 |
-| 12 | [Where Is the Peace](https://open.spotify.com/track/1ACBSADdmaiAcvVB5Yzd2F) | [Wolfgang Valbrun](https://open.spotify.com/artist/3uE4EsnezRtXJn2q3TTKg5) | [Where Is the Peace](https://open.spotify.com/album/3Yv75Tv8dMqxt6uHWsXikC) | 3:36 |
-| 13 | [All I Do](https://open.spotify.com/track/1X3R0xThNLoUtx44gJ5fYl) | [MT Jones](https://open.spotify.com/artist/0DLNLJyVZ55oPrSrsbiD5m) | [All I Do](https://open.spotify.com/album/68yAw6dKuIka6aBYwtITo1) | 3:05 |
-| 14 | [Street People](https://open.spotify.com/track/39n0HaRNVVxtvINVdivQwH) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Street People](https://open.spotify.com/album/15NOultLFQgFoZyYLfy8hM) | 5:52 |
+| 2 | [Singin' My Prayer](https://open.spotify.com/track/53yCEFwLoYWQianhQImYMD) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Singin' My Prayer](https://open.spotify.com/album/0A5WFSQNf5PbEaigP4U0OZ) | 4:08 |
+| 3 | [Berries \- So Sweet Version](https://open.spotify.com/track/2yoTmNrAgoIEyJJvSaPfzM) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [Berries \(So Sweet Version\)](https://open.spotify.com/album/3FH2HT8ax3xAggb7etHnrF) | 4:32 |
+| 4 | [R.L.M](https://open.spotify.com/track/7xrp1M7PQfRh5fsT8dOGnj) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [R.L.M](https://open.spotify.com/album/5jk1ZbZsxdmcKNFKmDO2nF) | 3:45 |
+| 5 | [Love Direction](https://open.spotify.com/track/3GMVK3x0ZxSOpJFvgUVih7) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Love Direction](https://open.spotify.com/album/3Rhcn5DbYSFeTdK73WeQ6l) | 3:43 |
+| 6 | [Don't Wanna Lose You](https://open.spotify.com/track/03Xfnr5nwnz2eiPDeRYJQJ) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Don't Wanna Lose You](https://open.spotify.com/album/46VBRKa8sDXKU8piCs3UHw) | 3:39 |
+| 7 | [In Limbo](https://open.spotify.com/track/0ehGcL48kQnjyvhe8P49pq) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM), [Ironsides](https://open.spotify.com/artist/4nzySyLtM3nYbLWVB8gy0U) | [In Limbo](https://open.spotify.com/album/4VsRC2WqckvyyMSKu4ulYu) | 3:15 |
+| 8 | [I Can Never Get Enough](https://open.spotify.com/track/33cuVbRvIALN64Dat6U5eV) | [Dylan Chambers](https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9) | [I Can Never Get Enough](https://open.spotify.com/album/07VSGcPb90GbQu67lIr3Kk) | 3:04 |
+| 9 | [Let You Go](https://open.spotify.com/track/7a6zCrX08XWisZXGj3sMEf) | [Joseph Lawrence](https://open.spotify.com/artist/69XFaEPeBh41fbWxQMD8X4) | [Let You Go](https://open.spotify.com/album/31Lq73n7sxinFMFak3zqZT) | 2:44 |
+| 10 | [YA YA](https://open.spotify.com/track/0K9tfzrxJyCQIf7oAlPwaK) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 4:34 |
+| 11 | [Let Me Feel Your Charm \- Spotify Singles](https://open.spotify.com/track/2kOdSOu7imEWFLgeYcY7tq) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU), [Jensine Benitez](https://open.spotify.com/artist/6EkOEYrG2cAQgIatrHQJbX) | [Let Me Feel Your Charm \- Spotify Singles](https://open.spotify.com/album/3LOouZQ6CUoH29m6MnY8qV) | 2:42 |
+| 12 | [Mr\. Weatherman](https://open.spotify.com/track/7wxq3HK9OnoMeJOzpdj5jR) | [Felix Ames](https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2) | [Mr\. Weatherman](https://open.spotify.com/album/23QXxkhhY9HRsJqc1padbd) | 3:27 |
+| 13 | [Where Is the Peace](https://open.spotify.com/track/1ACBSADdmaiAcvVB5Yzd2F) | [Wolfgang Valbrun](https://open.spotify.com/artist/3uE4EsnezRtXJn2q3TTKg5) | [Where Is the Peace](https://open.spotify.com/album/3Yv75Tv8dMqxt6uHWsXikC) | 3:36 |
+| 14 | [All I Do](https://open.spotify.com/track/1X3R0xThNLoUtx44gJ5fYl) | [MT Jones](https://open.spotify.com/artist/0DLNLJyVZ55oPrSrsbiD5m) | [All I Do](https://open.spotify.com/album/68yAw6dKuIka6aBYwtITo1) | 3:05 |
 | 15 | [Sinseerly Yours](https://open.spotify.com/track/228Ap7fHnb2BUsdopPrjxx) | [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS), [Joey Quinones](https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP) | [Sinseerly Yours](https://open.spotify.com/album/7lNj0BxtEBKhQNtYVqpby6) | 2:53 |
 | 16 | [You Were Mine](https://open.spotify.com/track/4Q6WTLLZtYZ2OuQ4pCZH0A) | [Marie Sarah](https://open.spotify.com/artist/6eKmkdJGSByhfNDciam6bC) | [Dark Black](https://open.spotify.com/album/2eV8dXQXxJderdQEvY3ZuC) | 3:51 |
 | 17 | [Better Than This](https://open.spotify.com/track/0uJcPad9H1tQzxslEBQtlu) | [The Slim Kings](https://open.spotify.com/artist/0LhcJOSPCu7MwB2o3tZuxf) | [Better Than This](https://open.spotify.com/album/4QgY2HVCC3Ljwprc7cjQqE) | 2:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 99 | [Slippin](https://open.spotify.com/track/5qgYXoxmd6FdGfpmdjsHoj) | [Danni Baylor](https://open.spotify.com/artist/0c5oNauHHagLlEYpVVqMCK) | [Slippin](https://open.spotify.com/album/1MApiUpsUOOlidcLOAjLbq) | 3:16 |
 | 100 | [You](https://open.spotify.com/track/1GEHrWzUGuhQ7bg97fuaGo) | [Les Imprimés](https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf) | [You](https://open.spotify.com/album/3z5YjcnJlmbr3Ftzu83K7u) | 3:00 |
 
-Snapshot ID: `MTcxMzQ5OTI2MCwwMDAwMDAwMGQyZjMyOGE0ODYxNTdlMjg2OGFhMmQ0MWE1ZmY0NzJh`
+Snapshot ID: `MTcxNDEwNDA2MCwwMDAwMDAwMDhlMDZmZmM2NjRmNjhjOTkwZGIzY2UyMTY1M2Q1ZjM3`

@@ -1087,6 +1087,24 @@
     },
     {
       "album": {
+        "name": "Por ces\u00e1rea",
+        "url": "https://open.spotify.com/album/633jS6fM44Zbr1gyI0eF19"
+      },
+      "artists": [
+        {
+          "name": "Dillom",
+          "url": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216837,
+      "name": "Cirug\u00eda",
+      "url": "https://open.spotify.com/track/0uFRDicafe9Gto0v2pk3kT"
+    },
+    {
+      "album": {
         "name": "Claroscuro",
         "url": "https://open.spotify.com/album/7yfdxsGFK68Q5P2kGaqK3Y"
       },
@@ -2723,6 +2741,24 @@
     },
     {
       "album": {
+        "name": "Fuego Interno",
+        "url": "https://open.spotify.com/album/4cuOCoZKIsBG94CC9apfih"
+      },
+      "artists": [
+        {
+          "name": "Thermo",
+          "url": "https://open.spotify.com/artist/3HA7l0ZFLSMYWHCVuUZjT7"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196311,
+      "name": "Fuego Interno",
+      "url": "https://open.spotify.com/track/0xegIA8s5VHvXSrjCNViwE"
+    },
+    {
+      "album": {
         "name": "mix pa llorar en tu cuarto",
         "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
       },
@@ -3356,7 +3392,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 174153,
       "name": "La edad que tengo",
       "url": "https://open.spotify.com/track/365MK5X3FgXaW7IWmNzNV5"
@@ -4776,7 +4812,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 205719,
       "name": "Moderato",
       "url": "https://open.spotify.com/track/4TuogJEoG4SONLuWfh58Xu"
@@ -5504,7 +5540,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 161672,
       "name": "Nunca Se Apaga - Remaster 2022",
       "url": "https://open.spotify.com/track/3mAtB7B6rokuz6SGs5OXEB"
@@ -7572,6 +7608,24 @@
       "duration_ms": 211213,
       "name": "Un Pecado",
       "url": "https://open.spotify.com/track/6231K4fFlHPJGpsipCPW9U"
+    },
+    {
+      "album": {
+        "name": "Uno De Esos D\u00edas",
+        "url": "https://open.spotify.com/album/6tvLmBE2oeUOUvI0DrEDxt"
+      },
+      "artists": [
+        {
+          "name": "Reyno",
+          "url": "https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193400,
+      "name": "Uno De Esos D\u00edas",
+      "url": "https://open.spotify.com/track/2SlovZRjNdnK0t6rAbOPN8"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-04-26": 85186,
+  "2024-04-27": 85181,
   "date_first_scraped": "2022-08-16",
   "description": "Festival Music 2024 - Tomorrowland 2024 - Festival Songs - EDM Music - Electronic Music - Rave Music - EDM Songs - best festival music - best festival songs",
   "name": "Festival Songs 2024 \ud83c\udf87 Festival Music - Tomorrowland 2024",
@@ -655,6 +655,24 @@
       "duration_ms": 140575,
       "name": "Bad Cop",
       "url": "https://open.spotify.com/track/2n4YYAXNgrIiLzdTfld9Rv"
+    },
+    {
+      "album": {
+        "name": "BANG",
+        "url": "https://open.spotify.com/album/0sRcMkSd7JWk2LpiOkvQvT"
+      },
+      "artists": [
+        {
+          "name": "AVAO",
+          "url": "https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173507,
+      "name": "BANG",
+      "url": "https://open.spotify.com/track/53iIxmE1OJAAyZYBLaqvRX"
     },
     {
       "album": {

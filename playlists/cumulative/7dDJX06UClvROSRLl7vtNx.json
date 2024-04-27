@@ -2609,6 +2609,28 @@
     },
     {
       "album": {
+        "name": "Hurts So Good",
+        "url": "https://open.spotify.com/album/3vzt9rAvpW3OIg3JupTJ2J"
+      },
+      "artists": [
+        {
+          "name": "FIXL",
+          "url": "https://open.spotify.com/artist/0Kxf9SzJfQfE0o80i5N3Li"
+        },
+        {
+          "name": "M2chael",
+          "url": "https://open.spotify.com/artist/2ciGImEu29l0qk6LCRjg5G"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125300,
+      "name": "Hurts So Good",
+      "url": "https://open.spotify.com/track/4jF0w3rpoQki2asXn2N2Aa"
+    },
+    {
+      "album": {
         "name": "I Apologize",
         "url": "https://open.spotify.com/album/1rQXCRCDEbcw5xhoZcuqhP"
       },

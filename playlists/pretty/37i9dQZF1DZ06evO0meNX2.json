@@ -1,13 +1,33 @@
 {
-  "description": "This Is Codiciado. Los temas esenciales, todos en una lista.",
-  "num_followers": 25464,
+  "description": "This is Codiciado. The essential tracks, all in one playlist.",
+  "num_followers": 25510,
   "original_name": "This Is Codiciado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzkxNjgwMCwwMDAwMDAwMDk4NWFiZGFlODIyOTIyNWM0NTg0ODhmNzMwMTI0ZmFk",
+  "snapshot_id": "MTcxNDAwMzIwMCwwMDAwMDAwMGI2YzU1OWU4NzJmYTgyZDk4YWNkNmZjMTM0Y2RmYzkx",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bandido (En Vivo)",
+        "url": "https://open.spotify.com/album/05WrjfX5fyvh4OSDKUwrwZ"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 214826,
+      "name": "Bandido - En Vivo",
+      "url": "https://open.spotify.com/track/1gKuxAJX4sKow9NOABCLSK"
+    },
     {
       "added_at": null,
       "album": {

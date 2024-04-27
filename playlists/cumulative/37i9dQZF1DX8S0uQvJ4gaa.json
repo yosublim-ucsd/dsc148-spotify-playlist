@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music discovery is what we're about. Try it on for size. Cover: Elvie Shane",
+  "description": "New music discovery is what we're about. Try it on for size. Cover: Dylan Schneider",
   "name": "New Boots",
   "tracks": [
     {
@@ -522,7 +522,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 171291,
       "name": "A Bar Song (Tipsy)",
       "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
@@ -2087,6 +2087,24 @@
     },
     {
       "album": {
+        "name": "Baby Daddy's Weekend",
+        "url": "https://open.spotify.com/album/7uwBOtieYh0NBjJco1GsuH"
+      },
+      "artists": [
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183253,
+      "name": "Baby Daddy's Weekend",
+      "url": "https://open.spotify.com/track/5fqSP5pSyVoxnbFyGRjEEe"
+    },
+    {
+      "album": {
         "name": "Baby Do",
         "url": "https://open.spotify.com/album/06EhqGLZlsxKMC6O2sPVgG"
       },
@@ -2676,7 +2694,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 212162,
       "name": "Been There Before",
       "url": "https://open.spotify.com/track/2s95urN3yvMr4BgSKItGKG"
@@ -5679,6 +5697,24 @@
     },
     {
       "album": {
+        "name": "Nobody's Born With A Broken Heart",
+        "url": "https://open.spotify.com/album/34AFxONmJ08r2blbMQCNXj"
+      },
+      "artists": [
+        {
+          "name": "MacKenzie Porter",
+          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156453,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/72Daj58ja4UkWWV2v2otIM"
+    },
+    {
+      "album": {
         "name": "Excuse The Mess",
         "url": "https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7"
       },
@@ -6450,7 +6486,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 224695,
       "name": "Damn Near Normal",
       "url": "https://open.spotify.com/track/56eB13MUQGCQhsKn8tNP9x"
@@ -8059,6 +8095,32 @@
     },
     {
       "album": {
+        "name": "Drinkin' Buddies",
+        "url": "https://open.spotify.com/album/7mf5bckIwzkxhUVpoC6IWN"
+      },
+      "artists": [
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        },
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        },
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197347,
+      "name": "Drinkin' Buddies",
+      "url": "https://open.spotify.com/track/4OlwATEogDh1BfEoWsRpeC"
+    },
+    {
+      "album": {
         "name": "Drinkin' Hours",
         "url": "https://open.spotify.com/album/3CiKlQ5DKuOQ7sZzgjDuDt"
       },
@@ -8488,7 +8550,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 169614,
       "name": "Easy To Miss",
       "url": "https://open.spotify.com/track/22CreGLxXnyqg2ktUVZShT"
@@ -8842,6 +8904,24 @@
       "duration_ms": 180591,
       "name": "Everything Falls for You",
       "url": "https://open.spotify.com/track/4KUTGzToT4a4Ktk9VTBTkH"
+    },
+    {
+      "album": {
+        "name": "Bad For Me",
+        "url": "https://open.spotify.com/album/6vuwxb0fLibvV8pIh071QY"
+      },
+      "artists": [
+        {
+          "name": "Chayce Beckham",
+          "url": "https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211688,
+      "name": "Everything I Need",
+      "url": "https://open.spotify.com/track/4IfMDVhKFMvKENVXbMJAW6"
     },
     {
       "album": {
@@ -9868,7 +9948,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 228610,
       "name": "Fly On The Wall (feat. Jake Worthington)",
       "url": "https://open.spotify.com/track/2YBOHdgzpMmNHdW0Zub9Ze"
@@ -15081,6 +15161,24 @@
     },
     {
       "album": {
+        "name": "I Ain't A Cowgirl",
+        "url": "https://open.spotify.com/album/7vQmGhj7VW4TM4YeBN1nRW"
+      },
+      "artists": [
+        {
+          "name": "Tiera Kennedy",
+          "url": "https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181148,
+      "name": "I Ain't A Cowgirl",
+      "url": "https://open.spotify.com/track/6TjRLpByCtpmatpCoFV9Na"
+    },
+    {
+      "album": {
         "name": "Heart On Ice",
         "url": "https://open.spotify.com/album/59AFllTisSU6QjmiBjIO82"
       },
@@ -16654,6 +16752,24 @@
       "duration_ms": 203765,
       "name": "If I Die Young Pt. 2",
       "url": "https://open.spotify.com/track/7LjN25ppKfSfjIPOJxbH7v"
+    },
+    {
+      "album": {
+        "name": "Songs in the Gravel",
+        "url": "https://open.spotify.com/album/5LH0DO3n956vBZ5vK0mLL2"
+      },
+      "artists": [
+        {
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203077,
+      "name": "If I Had a Lover",
+      "url": "https://open.spotify.com/track/6a9VsSmDtb7wxv1oRgCfIa"
     },
     {
       "album": {
@@ -19363,6 +19479,24 @@
     },
     {
       "album": {
+        "name": "Red Letter Blueprint",
+        "url": "https://open.spotify.com/album/6sdTmbOCQejn4phKQn47a0"
+      },
+      "artists": [
+        {
+          "name": "Scotty McCreery",
+          "url": "https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213080,
+      "name": "Love Like This",
+      "url": "https://open.spotify.com/track/4FPgVkHTMhUwQY9tIkG6qJ"
+    },
+    {
+      "album": {
         "name": "Love or a Lover",
         "url": "https://open.spotify.com/album/3tAdR1wT3PeRkot1MvdUAl"
       },
@@ -21992,10 +22126,32 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 205306,
       "name": "Never Been Over",
       "url": "https://open.spotify.com/track/5Izy5w7WRKyOTH7CtWgyPG"
+    },
+    {
+      "album": {
+        "name": "Never Been Over",
+        "url": "https://open.spotify.com/album/3pkeTpcbaAmzbgWDch7BYU"
+      },
+      "artists": [
+        {
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+        },
+        {
+          "name": "Jennifer Nettles",
+          "url": "https://open.spotify.com/artist/2WV4xLQooFalR2cit0XSKp"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205466,
+      "name": "Never Been Over",
+      "url": "https://open.spotify.com/track/5CfsbLLaJ6GGzEuRjYFRhT"
     },
     {
       "album": {
@@ -22379,6 +22535,24 @@
     },
     {
       "album": {
+        "name": "Next to You",
+        "url": "https://open.spotify.com/album/5wi2gkVC0O5njU43csLHec"
+      },
+      "artists": [
+        {
+          "name": "Ole 60",
+          "url": "https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241668,
+      "name": "Next to You",
+      "url": "https://open.spotify.com/track/31xbWaLjwvMVMXHTyz8opW"
+    },
+    {
+      "album": {
         "name": "Next Town Over",
         "url": "https://open.spotify.com/album/1MmsRlknDmG5seUMloCKJO"
       },
@@ -22390,7 +22564,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 164655,
       "name": "Next Town Over",
       "url": "https://open.spotify.com/track/2gpdZEqYzZmm4GRfY5GxQo"
@@ -26747,6 +26921,24 @@
     },
     {
       "album": {
+        "name": "Scary Love",
+        "url": "https://open.spotify.com/album/3F9p267m68RpVbRhksOlhN"
+      },
+      "artists": [
+        {
+          "name": "Mickey Guyton",
+          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180603,
+      "name": "Scary Love",
+      "url": "https://open.spotify.com/track/1Q2npOPcXnQA8sYKV0fLy2"
+    },
+    {
+      "album": {
         "name": "Seaside",
         "url": "https://open.spotify.com/album/4YD0A6DxqXubekaRwZRpl5"
       },
@@ -26816,6 +27008,24 @@
       "duration_ms": 234546,
       "name": "Secret",
       "url": "https://open.spotify.com/track/4an8z6f6w15wlNofE9dSMV"
+    },
+    {
+      "album": {
+        "name": "See It Like You",
+        "url": "https://open.spotify.com/album/1oHjN4Wubr5xKFJ9TifxZC"
+      },
+      "artists": [
+        {
+          "name": "Spencer Crandall",
+          "url": "https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160596,
+      "name": "See It Like You",
+      "url": "https://open.spotify.com/track/0cCMOma7s2eFjIdO6MDmiD"
     },
     {
       "album": {
@@ -28604,7 +28814,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 220691,
       "name": "Somewhere Between",
       "url": "https://open.spotify.com/track/11N3xwyjdDK8WAWnkvYZO2"
@@ -33998,7 +34208,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 200102,
       "name": "Waylon In '75",
       "url": "https://open.spotify.com/track/2D2HjhdgjfaMSFLB0scM9L"
@@ -36446,7 +36656,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 156706,
       "name": "Woman",
       "url": "https://open.spotify.com/track/6fWBVn4vwRnaOZiu5292Gd"
@@ -36720,7 +36930,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 189875,
       "name": "Worth the Wait",
       "url": "https://open.spotify.com/track/3nB1jprfn5Yo50qcWHvyWs"

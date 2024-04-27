@@ -1,7 +1,7 @@
 {
-  "2024-04-26": 59493,
+  "2024-04-27": 59508,
   "date_first_scraped": "2022-01-09",
-  "description": "Fresh releases from your future favorite artists. Cover: Bankyu. Artwork: Isu Kim\n",
+  "description": "Fresh releases from your future favorite artists. Cover: Kat Jaranilla. Artwork: Isu Kim\n",
   "name": "Fresh Finds Philippines",
   "tracks": [
     {
@@ -79,7 +79,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 134769,
       "name": "'Di Bale Na Girl",
       "url": "https://open.spotify.com/track/4kn29ajwER0cG4TGEt3d3A"
@@ -307,6 +307,24 @@
       "duration_ms": 184529,
       "name": "1400IYONGMULTO",
       "url": "https://open.spotify.com/track/01A8aC4uMierwosyXHH4de"
+    },
+    {
+      "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/1rT5pHGhNXWPTuA3Zbm51Q"
+      },
+      "artists": [
+        {
+          "name": "SHANNi",
+          "url": "https://open.spotify.com/artist/46rXMWiYqSYCwidbAAWPTp"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207034,
+      "name": "19",
+      "url": "https://open.spotify.com/track/6VOjnR2wMJALg7QY3EsP6v"
     },
     {
       "album": {
@@ -717,6 +735,28 @@
       "duration_ms": 198661,
       "name": "9",
       "url": "https://open.spotify.com/track/6ynhM4KUJeBfqcE5btp8oG"
+    },
+    {
+      "album": {
+        "name": "_enero",
+        "url": "https://open.spotify.com/album/6XhmoEnRzbCUEv2Flb6OoG"
+      },
+      "artists": [
+        {
+          "name": "Luke April",
+          "url": "https://open.spotify.com/artist/4HzeCMhywzJSG6uixss0rJ"
+        },
+        {
+          "name": "Rreyo Obero",
+          "url": "https://open.spotify.com/artist/55mghnwb99ICUylLaN3uBs"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215332,
+      "name": "_enero (feat. Rreyo Obero)",
+      "url": "https://open.spotify.com/track/2XeqHpVslF6YNPWy5pQRk7"
     },
     {
       "album": {
@@ -4761,7 +4801,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 190215,
       "name": "Balingkinitan",
       "url": "https://open.spotify.com/track/7F7Jzcn4JwMRu5Sw4cYgaM"
@@ -9743,6 +9783,24 @@
     {
       "album": {
         "name": "Dito Ka Lang",
+        "url": "https://open.spotify.com/album/4aJpWptGlFpURFSyNHQKeq"
+      },
+      "artists": [
+        {
+          "name": "Edwin Hurry Jr.",
+          "url": "https://open.spotify.com/artist/2u6lI1BGjeacTKudw3Fwkv"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236097,
+      "name": "Dito Ka Lang",
+      "url": "https://open.spotify.com/track/5NkRuVaOyhGmxtA3ZHqxad"
+    },
+    {
+      "album": {
+        "name": "Dito Ka Lang",
         "url": "https://open.spotify.com/album/0Jaar1EvYvSqbNyzcIGxg8"
       },
       "artists": [
@@ -9991,6 +10049,28 @@
       "duration_ms": 190245,
       "name": "DKL",
       "url": "https://open.spotify.com/track/0Qaw53g5q0uD5DMmMa5bha"
+    },
+    {
+      "album": {
+        "name": "dkl",
+        "url": "https://open.spotify.com/album/0lgWYV5P66vjPRLfDtTT9a"
+      },
+      "artists": [
+        {
+          "name": "wan",
+          "url": "https://open.spotify.com/artist/0ahiWGtoELnIgd46EcQbFv"
+        },
+        {
+          "name": "25hearts",
+          "url": "https://open.spotify.com/artist/77vD2NBRsPVcQI7lseX7fw"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165083,
+      "name": "dkl",
+      "url": "https://open.spotify.com/track/4SNo89a4ObjVpil9ZbO6E6"
     },
     {
       "album": {
@@ -10693,7 +10773,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 168753,
       "name": "EASTSIDE BABY",
       "url": "https://open.spotify.com/track/0ix0mTRnMhYSgZEKZSiDiw"
@@ -11609,7 +11689,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 149562,
       "name": "FASHIONABLY LATE",
       "url": "https://open.spotify.com/track/33WNSbL0cJWxy7VvxM7izW"
@@ -13843,7 +13923,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 210000,
       "name": "Gobasin",
       "url": "https://open.spotify.com/track/3zNmtmlQCzINSzOTWuzfcR"
@@ -15921,7 +16001,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 157647,
       "name": "Hiraya",
       "url": "https://open.spotify.com/track/1N0Fgi40v93FMlPjoEUrea"
@@ -17147,7 +17227,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 150360,
       "name": "I'LL BE THERE BY YOUR SIDE",
       "url": "https://open.spotify.com/track/46XC2gNdOwvWO7S0Yd9O5W"
@@ -18231,6 +18311,24 @@
       "duration_ms": 202105,
       "name": "in my head im still there (wish i could be)",
       "url": "https://open.spotify.com/track/42seG5GipleCY830WOod6p"
+    },
+    {
+      "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/3NsMEEA0UXIGN2QnNqsRQG"
+      },
+      "artists": [
+        {
+          "name": "Milkboyz",
+          "url": "https://open.spotify.com/artist/4tVvMedi4cpHVxaUHfwLdY"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152842,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/5yQal8tguE9bEHyYmHrwz4"
     },
     {
       "album": {
@@ -20353,6 +20451,24 @@
       "duration_ms": 204891,
       "name": "Kulet",
       "url": "https://open.spotify.com/track/1LIHsueuahhzNWb1TRaZQf"
+    },
+    {
+      "album": {
+        "name": "Kumot",
+        "url": "https://open.spotify.com/album/2vAxHQTTR4EwXTXSMkfy5N"
+      },
+      "artists": [
+        {
+          "name": "CARLO",
+          "url": "https://open.spotify.com/artist/35UTd8xGxIwWnJVfg3n3OY"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219285,
+      "name": "Kumot",
+      "url": "https://open.spotify.com/track/6YzwHIstlUTgCjn0BrWp2b"
     },
     {
       "album": {
@@ -23623,6 +23739,24 @@
       "duration_ms": 235200,
       "name": "Mahimbing",
       "url": "https://open.spotify.com/track/1BIWy84Qpw2TTXUxTeNEQH"
+    },
+    {
+      "album": {
+        "name": "Mahiwaga",
+        "url": "https://open.spotify.com/album/3IPEDTpX1gsJQ5Al3imNPi"
+      },
+      "artists": [
+        {
+          "name": "Adrian Brando",
+          "url": "https://open.spotify.com/artist/7wqJRoTgQVwyBYAEh2YpxZ"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158709,
+      "name": "Mahiwaga",
+      "url": "https://open.spotify.com/track/0p8sbWXub1xrpiI2UzUKGN"
     },
     {
       "album": {
@@ -28570,6 +28704,24 @@
     },
     {
       "album": {
+        "name": "Oxytocin",
+        "url": "https://open.spotify.com/album/7mtZ77BEpIbAtQtYTDn6yl"
+      },
+      "artists": [
+        {
+          "name": "Kat Jaranilla",
+          "url": "https://open.spotify.com/artist/6jH3n7EE4IYALcTS2bWs3s"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238947,
+      "name": "Oxytocin",
+      "url": "https://open.spotify.com/track/0cpnfzQ5NwEbdciCxRsn5P"
+    },
+    {
+      "album": {
         "name": "P.S",
         "url": "https://open.spotify.com/album/7cfA5NXbnjSfQfYJjlaV3d"
       },
@@ -28697,6 +28849,24 @@
       "duration_ms": 203294,
       "name": "PAANO KA?",
       "url": "https://open.spotify.com/track/4729SPZQbxIc01BDfcOyRg"
+    },
+    {
+      "album": {
+        "name": "Paano Kung Tayo",
+        "url": "https://open.spotify.com/album/0x2j2cGHFNbXUBGBgqAkPp"
+      },
+      "artists": [
+        {
+          "name": "Claudine Co",
+          "url": "https://open.spotify.com/artist/1l1AvE8QoyqoyVrdX6vqR0"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220465,
+      "name": "Paano Kung Tayo",
+      "url": "https://open.spotify.com/track/4yrp8vSHmChRvafuMtYF5e"
     },
     {
       "album": {
@@ -30019,6 +30189,24 @@
       "duration_ms": 189708,
       "name": "PAPALAYO",
       "url": "https://open.spotify.com/track/4R0s1nhYqDcVWeltrcffu4"
+    },
+    {
+      "album": {
+        "name": "Para Lamang Sa'yo",
+        "url": "https://open.spotify.com/album/1FVr4ugzRsKJebsiDCdEi5"
+      },
+      "artists": [
+        {
+          "name": "Angelika Sam",
+          "url": "https://open.spotify.com/artist/44Wte6i4Ds1lyVlvrTm7co"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204943,
+      "name": "Para Lamang Sa'yo",
+      "url": "https://open.spotify.com/track/1ev8UEx1ycQe5FcJNXbaE6"
     },
     {
       "album": {
@@ -34165,7 +34353,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 220000,
       "name": "Sana Pala",
       "url": "https://open.spotify.com/track/7xkrNv69K4cntpy3MgDpbK"
@@ -35957,7 +36145,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 236111,
       "name": "Sn\u00ebeky",
       "url": "https://open.spotify.com/track/2E2Ck2HXaTyIPTJSPhHwiO"
@@ -38069,7 +38257,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 112646,
       "name": "Take It All In",
       "url": "https://open.spotify.com/track/0oKBjYzvEYXuZ52fQC1Gov"

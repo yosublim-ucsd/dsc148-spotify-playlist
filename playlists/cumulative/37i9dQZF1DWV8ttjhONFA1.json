@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: doppel gangs",
+  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: Santi Muk",
   "name": "Indie Argentina",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 145239,
       "name": "Accidente",
       "url": "https://open.spotify.com/track/55xFPGknQ0zQluwBmf2nVm"
@@ -114,6 +114,24 @@
       "duration_ms": 251853,
       "name": "Agua Marfil",
       "url": "https://open.spotify.com/track/4lOP4BFzkPCECQTcVJgZPL"
+    },
+    {
+      "album": {
+        "name": "AIRE",
+        "url": "https://open.spotify.com/album/7pTcUd0Du1SMJNLv8h8x04"
+      },
+      "artists": [
+        {
+          "name": "Plastilina",
+          "url": "https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219360,
+      "name": "AIRE",
+      "url": "https://open.spotify.com/track/3tdbrXujlOuWK62lhxBhVV"
     },
     {
       "album": {
@@ -190,7 +208,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 178454,
       "name": "Andate",
       "url": "https://open.spotify.com/track/4c58twuNTtI4VBzH28I3EV"
@@ -335,6 +353,28 @@
     },
     {
       "album": {
+        "name": "Brujita de la suerte",
+        "url": "https://open.spotify.com/album/3A8SVmBESS98syeGo9GazY"
+      },
+      "artists": [
+        {
+          "name": "Faculim\u00f3n",
+          "url": "https://open.spotify.com/artist/1WGwOKN6ey1Q11JjpIZdDa"
+        },
+        {
+          "name": "Sonia Z",
+          "url": "https://open.spotify.com/artist/27UX8NEXtI5CrpnqSAJWuh"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183828,
+      "name": "Brujita de la suerte",
+      "url": "https://open.spotify.com/track/15B8rvJwUcBvcANhWzS7ye"
+    },
+    {
+      "album": {
         "name": "Buen d\u00eda",
         "url": "https://open.spotify.com/album/7rPvyhpzjEeqxmiwi1yVyZ"
       },
@@ -364,7 +404,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 195301,
       "name": "Buscala",
       "url": "https://open.spotify.com/track/6mJ9vnO3hByuwCumlzHsAr"
@@ -554,6 +594,28 @@
       "duration_ms": 169932,
       "name": "Cicuta - Remix",
       "url": "https://open.spotify.com/track/6qqeq1UoryAxgud2JfF76t"
+    },
+    {
+      "album": {
+        "name": "Jet Love",
+        "url": "https://open.spotify.com/album/7hPfPQgLWyKGnCiY6oqOaZ"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203193,
+      "name": "Cinco Horas Menos",
+      "url": "https://open.spotify.com/track/6Uu4Jpk4Qc8iFA4APbB2aM"
     },
     {
       "album": {
@@ -887,6 +949,24 @@
     },
     {
       "album": {
+        "name": "le tengo miedo a las alturas",
+        "url": "https://open.spotify.com/album/7qH5iAghmKje6Y0oaUb5Kn"
+      },
+      "artists": [
+        {
+          "name": "Santi Muk",
+          "url": "https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209045,
+      "name": "droga del momento",
+      "url": "https://open.spotify.com/track/1wTy0rpYciXNPl2ApruK3A"
+    },
+    {
+      "album": {
         "name": "LOGO",
         "url": "https://open.spotify.com/album/4PLtXjl2T5JqMUkGGdZ17K"
       },
@@ -898,7 +978,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 221379,
       "name": "DUALIDAD",
       "url": "https://open.spotify.com/track/76WuaMpuaOakgK6yw6ZDRh"
@@ -942,6 +1022,24 @@
       "duration_ms": 247000,
       "name": "D\u00eda Especial",
       "url": "https://open.spotify.com/track/71UEdUX4HDUellHqmlQfKn"
+    },
+    {
+      "album": {
+        "name": "EL APAG\u00d3N",
+        "url": "https://open.spotify.com/album/5btAcC6nuoUTeBlkpLDFhn"
+      },
+      "artists": [
+        {
+          "name": "Vita Set",
+          "url": "https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228400,
+      "name": "EL APAG\u00d3N",
+      "url": "https://open.spotify.com/track/1xLIUx6fhZxWllAnu6vYM1"
     },
     {
       "album": {
@@ -1524,7 +1622,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 182608,
       "name": "la noche del viernes",
       "url": "https://open.spotify.com/track/28jSqIffzDrb03shMCAPp9"
@@ -2300,7 +2398,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 178041,
       "name": "PEL\u00cdCULA",
       "url": "https://open.spotify.com/track/77A3xEknQEC8hPgGVnXycm"
@@ -2394,6 +2492,28 @@
       "duration_ms": 234675,
       "name": "Polic\u00eda",
       "url": "https://open.spotify.com/track/0pDooPTaMUaDQfnBdbPdYo"
+    },
+    {
+      "album": {
+        "name": "Pol\u00edtico o Rolling Stone",
+        "url": "https://open.spotify.com/album/1tVa6RRL4alQsyRpw21gR1"
+      },
+      "artists": [
+        {
+          "name": "Galean",
+          "url": "https://open.spotify.com/artist/3usCwS0jcb6SFJe3ZPiFA8"
+        },
+        {
+          "name": "El pr\u00edncipe idiota",
+          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246001,
+      "name": "Pol\u00edtico o Rolling Stone",
+      "url": "https://open.spotify.com/track/4c30sAt9qwApsKflh7aKcO"
     },
     {
       "album": {
@@ -2560,7 +2680,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 202363,
       "name": "Resaca",
       "url": "https://open.spotify.com/track/1vgwKBxFV0KRoKlEq2fqkk"
@@ -3146,6 +3266,28 @@
       "duration_ms": 240218,
       "name": "T\u00fanel de la Vida",
       "url": "https://open.spotify.com/track/1xCD7ccEtiylN6BBJ4ogXF"
+    },
+    {
+      "album": {
+        "name": "100PRE YORO",
+        "url": "https://open.spotify.com/album/6xOaHqhD9jaJtR3xmFHrzP"
+      },
+      "artists": [
+        {
+          "name": "Lara91k",
+          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222908,
+      "name": "un d\u00eda",
+      "url": "https://open.spotify.com/track/2znDyj4JlYJL1DayuV4j14"
     },
     {
       "album": {

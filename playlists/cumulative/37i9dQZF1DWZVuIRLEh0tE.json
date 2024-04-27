@@ -1933,6 +1933,28 @@
     },
     {
       "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/6YfNG5iJi01emiqWlcFY0P"
+      },
+      "artists": [
+        {
+          "name": "TRAMPA BILLONE",
+          "url": "https://open.spotify.com/artist/6UCXzCbIzKfGAk8613o8qt"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187829,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/5gLB5PhxXi6CH8ELgeS7E1"
+    },
+    {
+      "album": {
         "name": "Diferente",
         "url": "https://open.spotify.com/album/6ktYpvMBy06liW00kKUxNB"
       },
@@ -3658,6 +3680,24 @@
       "duration_ms": 162400,
       "name": "La M\u00e1s Linda",
       "url": "https://open.spotify.com/track/19ImEdyUwLNz3NIxtUA0tk"
+    },
+    {
+      "album": {
+        "name": "La Necesidad",
+        "url": "https://open.spotify.com/album/1DcsAWs92vPjiX7bhdOUhM"
+      },
+      "artists": [
+        {
+          "name": "Jc La Nevula",
+          "url": "https://open.spotify.com/artist/6KBhywwNM5dStjqjHeNndc"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164860,
+      "name": "La Necesidad",
+      "url": "https://open.spotify.com/track/4PyrE1y2BplalrcrAvOzRT"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Bon Iver. The essential tracks, all in one playlist.",
-  "num_followers": 256176,
+  "num_followers": 256194,
   "original_name": "This Is Bon Iver",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzkxNjgwMCwwMDAwMDAwMDc0MDI1OTg0OTdjNDU3MzRlOTVkNGYyZWE1YjUzNjQw",
+  "snapshot_id": "MTcxNDAwMzIwMCwwMDAwMDAwMDM2ZDRmNDQ5MWY1YWU3ZjZlMjkxODllMTU2Mzg5MTQ1",
   "tracks": [
     {
       "added_at": null,
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 232440,
-      "name": "Minnesota, WI",
-      "url": "https://open.spotify.com/track/6dmqnKIOvBfqjP317AT2tT"
+      "duration_ms": 165013,
+      "name": "Hinnom, TX",
+      "url": "https://open.spotify.com/track/07JjtrTqsBg6hE0xoAU1xZ"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 165013,
-      "name": "Hinnom, TX",
-      "url": "https://open.spotify.com/track/07JjtrTqsBg6hE0xoAU1xZ"
+      "duration_ms": 232440,
+      "name": "Minnesota, WI",
+      "url": "https://open.spotify.com/track/6dmqnKIOvBfqjP317AT2tT"
     },
     {
       "added_at": null,

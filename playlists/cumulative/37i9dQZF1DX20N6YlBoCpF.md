@@ -4,7 +4,7 @@
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/7dtmhKnycd3REPNNixXGHO?si=N7ETgHdLSnaj8cg2O3zMWA">Juanita du Plessis</a>
 
-916 songs - 2 day 3 hr 47 min
+917 songs - 2 day 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -557,6 +557,7 @@
 | [Nagtegaal](https://open.spotify.com/track/6Kzji1np4ssuJKki4FNx7t) | [Gabi Swanepoel](https://open.spotify.com/artist/6ML8yaqGVYtmNiUKanpH21) | [Nagtegaal](https://open.spotify.com/album/0R6HkyqQEVavf5Ied9nxFY) | 2:54 | 2023-05-04 | 2023-05-26 |
 | [Namib Woestyn](https://open.spotify.com/track/1ebyQrrQOHHJbtgwFOSTiF) | [Gian Groen](https://open.spotify.com/artist/1AUYjVNNS9NRuu6wHeXSqg) | [Namib Woestyn](https://open.spotify.com/album/7lOdh3muDFGlPCsJgfTEZb) | 3:25 | 2022-09-15 | 2022-10-07 |
 | [Naweek Vibes](https://open.spotify.com/track/4DvuCPPkfeJwb2yKaqM4DN) | [Ché](https://open.spotify.com/artist/5wxOUZpO27j9hoPBwpnH90) | [Naweek Vibes](https://open.spotify.com/album/1SxMdba2nA4k8Phj8jiRXs) | 3:21 | 2022-08-11 | 2022-11-05 |
+| [NEE](https://open.spotify.com/track/7brsKVrbKlQ28BnQ12zpnt) | [Armand Joubert](https://open.spotify.com/artist/5KnlL16gAV2FJVBZgT04Tu) | [AMUSANT](https://open.spotify.com/album/2uRoYB2ex9MRO93Dik6EoI) | 3:20 | 2024-04-25 |  |
 | [Nee of Ja](https://open.spotify.com/track/6R80KkMcEbBasMSQGFBiHB) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Nee of Ja](https://open.spotify.com/album/1ISXpP9dS92U0oqGCWjVjb) | 3:19 | 2023-02-23 | 2023-05-05 |
 | [Neem My Op Vlerke \- SENSASIE Remix](https://open.spotify.com/track/5d759QCP2C5N2jsFYb79HO) | [Anneli Van Rooyen](https://open.spotify.com/artist/6a7yFEdaUPfs8WpUQI4zfK), [SENSASIE](https://open.spotify.com/artist/10HlHRiu2de76RWUBTbg14) | [Neem My Op Vlerke \(SENSASIE Remix\)](https://open.spotify.com/album/0FFaZbNOjCRU9oJLWfcAPW) | 3:22 | 2023-11-23 |  |
 | [Nes Ons Kan](https://open.spotify.com/track/552ct0DgK65AjtFjXwnakh) | [Corné Louw](https://open.spotify.com/artist/3dna8d6MSlgBgIbtjD9MgJ) | [Nes Ons Kan](https://open.spotify.com/album/0HqO7AZMzelaMrtdKCNhOB) | 3:44 | 2022-09-22 | 2022-10-21 |

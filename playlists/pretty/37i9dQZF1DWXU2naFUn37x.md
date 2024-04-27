@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Solo il meglio dello street rap italiano\. Tony Boy in cover, <a href="spotify:playlist:37i9dQZF1DWVjDgOMO8jZl">uno dei 6 artisti RADAR 2024</a>!
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,317 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,333 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

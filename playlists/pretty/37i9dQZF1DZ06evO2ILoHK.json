@@ -1,12 +1,12 @@
 {
   "description": "This is Basement. The essential tracks, all in one playlist.",
-  "num_followers": 9528,
+  "num_followers": 9531,
   "original_name": "This Is Basement",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzkxNjgwMCwwMDAwMDAwMDY2MTY2MWUwZTIyNDVhNWE0ODBmNWI1ZGIzYzRhYjYx",
+  "snapshot_id": "MTcxNDAwMzIwMCwwMDAwMDAwMDdiMjI2NzZlYTM4YmJjOGVkYWRiYjE0MGYwNDM5M2Iw",
   "tracks": [
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 215373,
-      "name": "Stigmata",
-      "url": "https://open.spotify.com/track/5UiuuUpGbdCXCyqezsncFf"
+      "duration_ms": 84800,
+      "name": "Changing Lanes",
+      "url": "https://open.spotify.com/track/0OLe5X5aibmw8Dg7jcrssZ"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 84800,
-      "name": "Changing Lanes",
-      "url": "https://open.spotify.com/track/0OLe5X5aibmw8Dg7jcrssZ"
+      "duration_ms": 215373,
+      "name": "Stigmata",
+      "url": "https://open.spotify.com/track/5UiuuUpGbdCXCyqezsncFf"
     },
     {
       "added_at": null,

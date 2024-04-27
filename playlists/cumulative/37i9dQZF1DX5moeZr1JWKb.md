@@ -4,7 +4,7 @@
 
 > Estas son las grandes voces del Hip Hop\. Foto: Kei Linch & Nanpa Básico
 
-131 songs - 7 hr 4 min
+132 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [La Junta](https://open.spotify.com/track/33XO9zynI5v4lS2bxYbpc7) | [Tres Coronas](https://open.spotify.com/artist/5kROocD0ED0BYdVo7tJrSe) | [La Junta](https://open.spotify.com/album/4tmlpeh4UeaZPxyEblnAzV) | 3:54 | 2023-05-26 |  |
 | [La Llave del Universo](https://open.spotify.com/track/5DFu8B851bdNDpKipQsoFW) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Manjit](https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr) | 3:49 | 2023-05-26 | 2024-04-19 |
 | [La Llave del Universo](https://open.spotify.com/track/5eaYZliqtzLBGx1EoWR6Xg) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [La Llave del Universo](https://open.spotify.com/album/6QpW9A1c59mW2P4rzFzn18) | 3:49 | 2024-02-23 |  |
+| [La Sabia Escuela](https://open.spotify.com/track/22JYKMt5XrcRQO0dzY5fwE) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX), [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [Pedro Elías](https://open.spotify.com/album/0K2ccPqz7qApwmiZF1f3BM) | 4:35 | 2024-04-26 |  |
 | [La Verdad del Pobre](https://open.spotify.com/track/5A6krTKbn9GJJLZ21keUh4) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Pureza](https://open.spotify.com/album/4obatkmABoD3jq8zoBbM6C) | 2:27 | 2023-05-26 |  |
 | [Las Calles Son Clases](https://open.spotify.com/track/0Ptr4kYE9yVxrYWjaYw8D7) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Mc Kno](https://open.spotify.com/artist/0t0wGSeL96MtZyjZiNHPCk), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Las Calles Son Clases](https://open.spotify.com/album/45O6BO1jUcdqoR0kJEGmaH) | 2:40 | 2023-08-11 |  |
 | [Lejos](https://open.spotify.com/track/3NzRG8I0nAEW6L9m7fccSX) | [Thomas Parr](https://open.spotify.com/artist/4RdDhaLXcAbihjh7haTXbB) | [Old Tom Parr](https://open.spotify.com/album/52PbTWa5YvD8XZp3ulGB5K) | 2:10 | 2024-02-23 |  |
@@ -99,7 +100,7 @@
 | [Parranda](https://open.spotify.com/track/503KFr0p94w4WUwjyv2yGT) | [Sr Pablo](https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq), [Teddy Coldcuts](https://open.spotify.com/artist/7ojh0jV8kpQ9aGNSVElv1e) | [Parranda](https://open.spotify.com/album/1pcu6vSGqVUICkF3npodUe) | 1:51 | 2023-05-26 | 2023-07-01 |
 | [Plan A](https://open.spotify.com/track/0MlRfim8Rt55CvDyZ7Cdou) | [Gordo Sarkasmus](https://open.spotify.com/artist/38N7geKwv6xd2fESw199BD), [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [ZetaZeta](https://open.spotify.com/artist/5Njezu4xqAnJWdyzDf5gW7) | [Plan A](https://open.spotify.com/album/4XdddMcUuv7JoHh8JpIWSA) | 2:34 | 2023-05-26 | 2024-02-24 |
 | [QUI$IERA NO $ER A$I](https://open.spotify.com/track/5M1XCJIt5QANojn09f30Gv) | [Nero Lvigi](https://open.spotify.com/artist/0qzSMS5kmApxk4mB8k1UBx), [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Don\-J HH](https://open.spotify.com/artist/4YVudw8OX0HYki0EFNipv3) | [RINDIENDO CUENTA$$$](https://open.spotify.com/album/2F9pYzjGVHrl6SRPDoBKzC) | 3:49 | 2023-07-14 | 2023-11-11 |
-| [Quiero Decirte](https://open.spotify.com/track/1AtYJLvtq1yg1SJ7YHGgy7) | [Yoky Barrios](https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj) | [Quiero Decirte](https://open.spotify.com/album/5V2OiQSXdXVv7NrGJvtJ2a) | 3:10 | 2024-02-23 |  |
+| [Quiero Decirte](https://open.spotify.com/track/1AtYJLvtq1yg1SJ7YHGgy7) | [Yoky Barrios](https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj) | [Quiero Decirte](https://open.spotify.com/album/5V2OiQSXdXVv7NrGJvtJ2a) | 3:10 | 2024-02-23 | 2024-04-27 |
 | [Quiero Ser Baladista](https://open.spotify.com/track/5vn7LJgmLIy8Xxg7359eO6) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS), [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Quiero Ser Baladista](https://open.spotify.com/album/3jaL3oDxPdCwhCklNYFEaL) | 5:42 | 2023-07-28 | 2023-08-05 |
 | [Recreo](https://open.spotify.com/track/0vzTHnDY9h03jTosxJbE8V) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Manjit](https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr) | 2:49 | 2023-05-26 | 2024-04-19 |
 | [Recreo](https://open.spotify.com/track/6AthIk01CYAe3GBYK6rtA7) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Recreo](https://open.spotify.com/album/3DH1VpVx07RFBJnwhub1cg) | 2:49 | 2024-02-23 |  |

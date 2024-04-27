@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Holdin' it down for the westside. Cover: Mozzy",
+  "description": "Holdin' it down for the westside. Cover: YG",
   "name": "Westside Story",
   "tracks": [
     {
@@ -2023,6 +2023,24 @@
     },
     {
       "album": {
+        "name": "Boogieman",
+        "url": "https://open.spotify.com/album/75XYL9gBsRC8wWbmbtzQHh"
+      },
+      "artists": [
+        {
+          "name": "EBK Jaaybo",
+          "url": "https://open.spotify.com/artist/7iKgSlIINjat3bsCYiNMYX"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131291,
+      "name": "Boogieman",
+      "url": "https://open.spotify.com/track/7Mg5CBO37Rifk2RyDJ8fzd"
+    },
+    {
+      "album": {
         "name": "Boom Boom Not Boom Bap",
         "url": "https://open.spotify.com/album/3bNjCyeog7yUYkHIn0668L"
       },
@@ -2448,7 +2466,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 164848,
       "name": "BUTTERFLY COUPE feat. Tyga",
       "url": "https://open.spotify.com/track/3HCDcijVzbd59yvVn0nLPY"
@@ -2616,7 +2634,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 138369,
       "name": "CANADIAN TUX",
       "url": "https://open.spotify.com/track/65LD6j5Wg5xYnebnrcwaUI"
@@ -3491,6 +3509,28 @@
     },
     {
       "album": {
+        "name": "Dead Trolls",
+        "url": "https://open.spotify.com/album/0qy4MKczI27Aax3Xu0pO0g"
+      },
+      "artists": [
+        {
+          "name": "Lil Yee",
+          "url": "https://open.spotify.com/artist/19lRQBKp4lxRDaxoKVUE9i"
+        },
+        {
+          "name": "Lil Bean",
+          "url": "https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219130,
+      "name": "Dead Trolls",
+      "url": "https://open.spotify.com/track/4p4VbXI0kqI3yaezBQJ7p5"
+    },
+    {
+      "album": {
         "name": "Dead Wrong",
         "url": "https://open.spotify.com/album/3znv6GDb3h4zrDGHTZpyFj"
       },
@@ -4222,7 +4262,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 143351,
       "name": "Dyin bout it",
       "url": "https://open.spotify.com/track/4Kb3VdzjlpDcRBHyCA5zFE"
@@ -4332,7 +4372,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 129724,
       "name": "Eat It Up",
       "url": "https://open.spotify.com/track/1PRLHyaN0XmTiXhBI6Tol2"
@@ -4358,6 +4398,62 @@
       "duration_ms": 234288,
       "name": "Eazy",
       "url": "https://open.spotify.com/track/6Ab81Bs9fcOwaTYuBsUUpI"
+    },
+    {
+      "album": {
+        "name": "EAZY CALL (feat. Big Hit)",
+        "url": "https://open.spotify.com/album/2iqf7foLn2Zu5AlMFS8TOl"
+      },
+      "artists": [
+        {
+          "name": "JasonMartin",
+          "url": "https://open.spotify.com/artist/3exvmJjpMVsuvzYN7HVGfZ"
+        },
+        {
+          "name": "DJ Quik",
+          "url": "https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb"
+        },
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "Big Hit",
+          "url": "https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138603,
+      "name": "EAZY CALL (feat. Big Hit)",
+      "url": "https://open.spotify.com/track/7bW909H89QjLGvXTQ6BQIL"
+    },
+    {
+      "album": {
+        "name": "The Chosen One",
+        "url": "https://open.spotify.com/album/3XXZCHqk34BNnJpOgCWxE7"
+      },
+      "artists": [
+        {
+          "name": "MoneySign Suede",
+          "url": "https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh"
+        },
+        {
+          "name": "Wallie the Sensei",
+          "url": "https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5"
+        },
+        {
+          "name": "Cypress Moreno",
+          "url": "https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Elevate",
+      "url": "https://open.spotify.com/track/5qimCvnwFeBXuis20DdLD6"
     },
     {
       "album": {
@@ -4604,6 +4700,24 @@
       "duration_ms": 184897,
       "name": "F Dat",
       "url": "https://open.spotify.com/track/6QK16yNsHLslPQLVHKVowM"
+    },
+    {
+      "album": {
+        "name": "Face no Book",
+        "url": "https://open.spotify.com/album/69Z4SGlHRBjljGmHsmS5fu"
+      },
+      "artists": [
+        {
+          "name": "Heembeezy",
+          "url": "https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144217,
+      "name": "Face no Book",
+      "url": "https://open.spotify.com/track/5c5qbRMz03GPy7Mj1Fpn6G"
     },
     {
       "album": {
@@ -5380,7 +5494,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 141844,
       "name": "Fuck It Up (feat. YG)",
       "url": "https://open.spotify.com/track/0nXgBBZFVdumUIaxszDm1p"
@@ -5504,7 +5618,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 144466,
       "name": "G Slim's Revenge",
       "url": "https://open.spotify.com/track/0yOapOAvr12TGvuELkWrW8"
@@ -6040,6 +6154,24 @@
       "duration_ms": 168281,
       "name": "GOAT",
       "url": "https://open.spotify.com/track/3Plq7UM7UUSRdezJrova6z"
+    },
+    {
+      "album": {
+        "name": "BACK TO THE BASICS",
+        "url": "https://open.spotify.com/album/0nBSBQLPQetFf06OE8OpdS"
+      },
+      "artists": [
+        {
+          "name": "Lil Bean",
+          "url": "https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167015,
+      "name": "goin thru sum thangs",
+      "url": "https://open.spotify.com/track/0Z8xgKEkFo5g7vEWVx8CKJ"
     },
     {
       "album": {
@@ -8005,6 +8137,24 @@
     },
     {
       "album": {
+        "name": "KNOCKA",
+        "url": "https://open.spotify.com/album/1Yd0XLd4MGjZfp4gQ9hVda"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150144,
+      "name": "KNOCKA",
+      "url": "https://open.spotify.com/track/7hBZnHzSqQxBi4KoMoiWfx"
+    },
+    {
+      "album": {
         "name": "Keep It Lit",
         "url": "https://open.spotify.com/album/4dT12cCIl1LbwX8snaQvZi"
       },
@@ -8812,7 +8962,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 147715,
       "name": "Locked In (feat. Slimmy B)",
       "url": "https://open.spotify.com/track/18V7rtYluQCHuic8PiImpJ"
@@ -8896,7 +9046,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 144000,
       "name": "Lotta Cash",
       "url": "https://open.spotify.com/track/1goCHDPWXm9SJ1B04czejH"
@@ -9680,6 +9830,24 @@
       "duration_ms": 113619,
       "name": "Movie (feat. Az Chike)",
       "url": "https://open.spotify.com/track/1X1EwijiXXOmEU5iMqhFT5"
+    },
+    {
+      "album": {
+        "name": "Mr. Left Right",
+        "url": "https://open.spotify.com/album/4ULibEnPTnuD5amtud8RDK"
+      },
+      "artists": [
+        {
+          "name": "Lil Vada",
+          "url": "https://open.spotify.com/artist/61HlkUsczjBP7IODEMFtrB"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111699,
+      "name": "Mr. Left Right",
+      "url": "https://open.spotify.com/track/4F2EkGBHgAGpkg64mT7zdF"
     },
     {
       "album": {
@@ -10838,7 +11006,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 101280,
       "name": "On Instagram Wolfin' (Freestyle)",
       "url": "https://open.spotify.com/track/3CknqjJnj11RvUVcXQisbw"
@@ -11464,6 +11632,24 @@
       "duration_ms": 170097,
       "name": "Passionate (feat. Roddy Ricch)",
       "url": "https://open.spotify.com/track/5k3xP19vac82Kweo4mOvlw"
+    },
+    {
+      "album": {
+        "name": "PDA",
+        "url": "https://open.spotify.com/album/3s5hLv5xosYBMVVauUXcMv"
+      },
+      "artists": [
+        {
+          "name": "Devin Malik",
+          "url": "https://open.spotify.com/artist/3mhGKo6sIMtVoPUu3t9p16"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182727,
+      "name": "PDA",
+      "url": "https://open.spotify.com/track/4zBdNhpcfF8Zfz6i3OEby0"
     },
     {
       "album": {
@@ -12130,7 +12316,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 248730,
       "name": "R.I.C.O.",
       "url": "https://open.spotify.com/track/1xwwiCARYUFeKtmPoT048O"
@@ -12453,6 +12639,24 @@
     },
     {
       "album": {
+        "name": "Sleeve Music",
+        "url": "https://open.spotify.com/album/2IpZVx5VHq8K6l8x9BeGM1"
+      },
+      "artists": [
+        {
+          "name": "22nd Jim",
+          "url": "https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124266,
+      "name": "Rollin",
+      "url": "https://open.spotify.com/track/4Xq1jF5nPzzP6DQdIRtzPN"
+    },
+    {
+      "album": {
         "name": "Rollin",
         "url": "https://open.spotify.com/album/2byfym8fII5wBjklL2iU9d"
       },
@@ -12464,7 +12668,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 124266,
       "name": "Rollin",
       "url": "https://open.spotify.com/track/5QfAihxGOiFUoD9zzz92x3"
@@ -12504,6 +12708,24 @@
       "duration_ms": 153687,
       "name": "ROSE STREET",
       "url": "https://open.spotify.com/track/3phALNKWigFCXEhIHOkHrP"
+    },
+    {
+      "album": {
+        "name": "BRODIE WORLD",
+        "url": "https://open.spotify.com/album/5EFo4KSj5d5ajfczZiVwlI"
+      },
+      "artists": [
+        {
+          "name": "AG Club",
+          "url": "https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "ROWDYRUFFBOYZ",
+      "url": "https://open.spotify.com/track/10qReVRMSdZdak3allFD6M"
     },
     {
       "album": {
@@ -14465,6 +14687,36 @@
     },
     {
       "album": {
+        "name": "BRODIE WORLD",
+        "url": "https://open.spotify.com/album/5EFo4KSj5d5ajfczZiVwlI"
+      },
+      "artists": [
+        {
+          "name": "AG Club",
+          "url": "https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c"
+        },
+        {
+          "name": "Hippie Sabotage",
+          "url": "https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE"
+        },
+        {
+          "name": "Igwe Aka",
+          "url": "https://open.spotify.com/artist/00dT0myy0kbq152QWIzRPI"
+        },
+        {
+          "name": "Mercury",
+          "url": "https://open.spotify.com/artist/65KzmKTmARM8EBVoxki2gn"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189987,
+      "name": "that's right daddy (feat. Igwe Aka & Mercury)",
+      "url": "https://open.spotify.com/track/3mUMCfl8kOxAR6rPEAl7bv"
+    },
+    {
+      "album": {
         "name": "That\u2019s Facts",
         "url": "https://open.spotify.com/album/0VeCKffdlImHPx3PywDUf6"
       },
@@ -15866,7 +16118,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 169708,
       "name": "Where's Remble?",
       "url": "https://open.spotify.com/track/5SLRlF7N8a5hH2Vl15imTV"

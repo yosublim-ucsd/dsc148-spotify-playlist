@@ -4,7 +4,7 @@
 
 > Nuevos hallazgos de música indie latina\. Plastilina en portada.
 
-4,076 songs - 9 day 9 hr 45 min
+4,077 songs - 9 day 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2382,6 +2382,7 @@
 | [Moto](https://open.spotify.com/track/1AeMG2TNofR1A8xoJ7Nl5O) | [Las Preguntas](https://open.spotify.com/artist/7sFSNryNgWCJTI1Vao95LP), [Dani Umpi](https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI) | [Estrellas, Piernas y Serpientes](https://open.spotify.com/album/4ji5kipvo6MkhrjVAdboZl) | 3:27 | 2023-07-07 | 2023-07-15 |
 | [Motor](https://open.spotify.com/track/1FYV9rkaXqqXaaZpA4D21j) | [niniomáquina](https://open.spotify.com/artist/7bvnxCbFjrEbiHQgksovJd) | [Motor](https://open.spotify.com/album/4GNEMtDuPmif84fdBDoGIl) | 3:12 | 2022-06-17 | 2022-06-25 |
 | [MR HYDE](https://open.spotify.com/track/3iF3YQLGz72VWNWOa84z1H) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [MR HYDE](https://open.spotify.com/album/3QoizIPedQsRTQ6tDArRDY) | 2:23 | 2023-12-01 | 2023-12-16 |
+| [Muchachito](https://open.spotify.com/track/2Ijnyar6wrIL7trlkETlCi) | [Abril Chiro](https://open.spotify.com/artist/2ohJ1APj2H5vPiD3EJrent) | [Muchachito](https://open.spotify.com/album/6Vg1TZdBKGhMNOHKBENyQf) | 2:55 | 2024-04-26 |  |
 | [Muchacho](https://open.spotify.com/track/1fON4M2cJmL9zShE4CyPTt) | [Tweety Gonzalez](https://open.spotify.com/artist/2vs2HDZj2aUy872GXT9tO3), [Mariana Michi](https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR) | [Muchacho](https://open.spotify.com/album/7zg57PuVjEycWbC4h2kclc) | 4:37 | 2022-11-25 | 2022-12-10 |
 | [Mucho Más](https://open.spotify.com/track/1Vm3vW7lmtH2lAhP3PKiQ9) | [rigoykarina](https://open.spotify.com/artist/2gLWHiLqaRWvLbnooHzF5O), [Rigoazulado](https://open.spotify.com/artist/1D79GNF7t5kzqprHFZmBLx), [Karina Vélez](https://open.spotify.com/artist/03HoEstuBFNJNHL1n2dAMr) | [Mucho Más](https://open.spotify.com/album/1BUSWOkp2EsneztWrnzFiw) | 2:52 | 2024-01-12 | 2024-01-20 |
 | [Mucho Peor \- Spotify Singles](https://open.spotify.com/track/3hV8mynJ4tgoClJdqR9ARM) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA), [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ), [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG), [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Mucho Peor \- Spotify Singles](https://open.spotify.com/album/0TT1zlm2slQsgLfVq5UWcf) | 3:31 | 2023-08-04 | 2023-08-19 |

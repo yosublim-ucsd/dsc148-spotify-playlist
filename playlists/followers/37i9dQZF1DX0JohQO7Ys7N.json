@@ -1,7 +1,7 @@
 {
-  "2024-04-26": 29450,
+  "2024-04-27": 29485,
   "date_first_scraped": "2022-02-24",
-  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: Karun",
+  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: Caleb Awiti",
   "name": "NairoBae",
   "tracks": [
     {
@@ -714,6 +714,28 @@
     },
     {
       "album": {
+        "name": "Mombasa's Lover Boy",
+        "url": "https://open.spotify.com/album/3dCGhikw2kksr8OMi9HPft"
+      },
+      "artists": [
+        {
+          "name": "Caleb Awiti",
+          "url": "https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN"
+        },
+        {
+          "name": "Zowie Kengocha",
+          "url": "https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160610,
+      "name": "Failing Together",
+      "url": "https://open.spotify.com/track/73zD4vLARiNHzTB7EHqptA"
+    },
+    {
+      "album": {
         "name": "MY WAY:VOLUME II",
         "url": "https://open.spotify.com/album/2UX55Fw5fkscU7xWo5wvvK"
       },
@@ -729,6 +751,36 @@
       "duration_ms": 150000,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/398tdFtkVxkekbMCU0kMti"
+    },
+    {
+      "album": {
+        "name": "CLOSER",
+        "url": "https://open.spotify.com/album/4cSCZXFa68eNFY1pEeIzcW"
+      },
+      "artists": [
+        {
+          "name": "NNAVY",
+          "url": "https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu"
+        },
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
+        },
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        },
+        {
+          "name": "Hendrick Sam",
+          "url": "https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181861,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/5J1xo1NeFeSNgxtXajRBZL"
     },
     {
       "album": {
@@ -1861,7 +1913,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 275789,
       "name": "NDIWE",
       "url": "https://open.spotify.com/track/1Tn2bby1wMZ7jkmEQod5dL"
@@ -2047,7 +2099,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 315051,
       "name": "Nipende",
       "url": "https://open.spotify.com/track/6DgMQzle107AN4oBX5Uhcz"

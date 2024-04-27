@@ -1,12 +1,12 @@
 {
-  "description": "This Is Trivium. Los temas esenciales, todos en una lista.",
-  "num_followers": 76985,
+  "description": "This is Trivium. The essential tracks, all in one playlist.",
+  "num_followers": 77004,
   "original_name": "This Is Trivium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzkxNjgwMCwwMDAwMDAwMDE1NWIwNThmZjRjODhmZWI3ZTkyNjlkM2E1ZmJmMTI3",
+  "snapshot_id": "MTcxNDAwMzIwMCwwMDAwMDAwMDU1MmNiMzRmNzY1MWFlODYwZWRjMTJiZWQ1ZjkzMmE1",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vengeance Falls (Special Edition)",
-        "url": "https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 266173,
-      "name": "Through Blood and Dirt and Bone",
-      "url": "https://open.spotify.com/track/5wsGmJgkTbddIDOoRU6xOT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Waves (Special Edition)",
         "url": "https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 207893,
       "name": "Black",
       "url": "https://open.spotify.com/track/6APaLjBA0uKDTpHMaGA7eY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vengeance Falls (Special Edition)",
+        "url": "https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 266173,
+      "name": "Through Blood and Dirt and Bone",
+      "url": "https://open.spotify.com/track/5wsGmJgkTbddIDOoRU6xOT"
     },
     {
       "added_at": null,
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 253653,
-      "name": "Vengeance Falls",
-      "url": "https://open.spotify.com/track/1dMHNNZ3Oy7wxX1HtQFgId"
+      "duration_ms": 269853,
+      "name": "Brave This Storm",
+      "url": "https://open.spotify.com/track/0CdHnV4vaqNDKskubNQWLb"
     },
     {
       "added_at": null,
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 269853,
-      "name": "Brave This Storm",
-      "url": "https://open.spotify.com/track/0CdHnV4vaqNDKskubNQWLb"
+      "duration_ms": 253653,
+      "name": "Vengeance Falls",
+      "url": "https://open.spotify.com/track/1dMHNNZ3Oy7wxX1HtQFgId"
     },
     {
       "added_at": null,

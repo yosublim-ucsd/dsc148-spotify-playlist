@@ -1,5 +1,5 @@
 {
-  "2024-04-26": 41821,
+  "2024-04-27": 41837,
   "date_first_scraped": "2022-08-06",
   "description": "I'm just a girl ",
   "name": "soft life",
@@ -101,6 +101,28 @@
       "duration_ms": 187991,
       "name": "ATM (feat. Missy Elliott)",
       "url": "https://open.spotify.com/track/3cqm5i4yDaNuzu9oQmQzBC"
+    },
+    {
+      "album": {
+        "name": "Yimeeka",
+        "url": "https://open.spotify.com/album/4wmJQOsN4UqbcdeaVXuh6a"
+      },
+      "artists": [
+        {
+          "name": "Yimeeka",
+          "url": "https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK"
+        },
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/2s9OC1yMrccPa9lJpwBmTL"
     },
     {
       "album": {
@@ -539,7 +561,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 153000,
       "name": "Crown Bounce",
       "url": "https://open.spotify.com/track/25SZzbj6rLvbqm48QwEsAj"
@@ -561,7 +583,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 144038,
       "name": "Dey Play",
       "url": "https://open.spotify.com/track/0huhTM55n4AMYFwkFrzqZu"
@@ -758,6 +780,46 @@
     },
     {
       "album": {
+        "name": "PARTYNEXTDOOR 4 (P4)",
+        "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219949,
+      "name": "F o r C e r t a i n",
+      "url": "https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi"
+    },
+    {
+      "album": {
+        "name": "Mombasa's Lover Boy",
+        "url": "https://open.spotify.com/album/3dCGhikw2kksr8OMi9HPft"
+      },
+      "artists": [
+        {
+          "name": "Caleb Awiti",
+          "url": "https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN"
+        },
+        {
+          "name": "Zowie Kengocha",
+          "url": "https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160610,
+      "name": "Failing Together",
+      "url": "https://open.spotify.com/track/73zD4vLARiNHzTB7EHqptA"
+    },
+    {
+      "album": {
         "name": "A Good Time",
         "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
       },
@@ -769,7 +831,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 240000,
       "name": "Fall",
       "url": "https://open.spotify.com/track/1hEXElwyPez2z7m5dZ56Mc"
@@ -809,7 +871,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 210265,
       "name": "Feel Alive",
       "url": "https://open.spotify.com/track/07xjo4p0md0cPMTUXPhrwF"
@@ -1012,6 +1074,24 @@
     },
     {
       "album": {
+        "name": "nomthandazo",
+        "url": "https://open.spotify.com/album/0yaSKg83zo7r7TfTRBORs1"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Modiga",
+          "url": "https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181619,
+      "name": "get lifted",
+      "url": "https://open.spotify.com/track/5m5DkPYIRY7nPMTrM0sDIK"
+    },
+    {
+      "album": {
         "name": "Cheers To Life.",
         "url": "https://open.spotify.com/album/2fZCPTAas21v7AF9pVytgj"
       },
@@ -1041,7 +1121,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 140000,
       "name": "Gold and Fire",
       "url": "https://open.spotify.com/track/43jS8cTGqRXojqw2AVoHZp"
@@ -1142,6 +1222,24 @@
     },
     {
       "album": {
+        "name": "+243",
+        "url": "https://open.spotify.com/album/6HtnERLFPPLFNQGy3RoZGK"
+      },
+      "artists": [
+        {
+          "name": "Highlyy",
+          "url": "https://open.spotify.com/artist/4JmaulM4hnNKJzvNgdxx3B"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194857,
+      "name": "Honest",
+      "url": "https://open.spotify.com/track/1w8XryfrrR7rXSo5GscZ5f"
+    },
+    {
+      "album": {
         "name": "I'm Good",
         "url": "https://open.spotify.com/album/5yt8yhFIRTXMtBnnqcD3Ul"
       },
@@ -1195,6 +1293,24 @@
       "duration_ms": 160280,
       "name": "ICED OUT SUMMER",
       "url": "https://open.spotify.com/track/1PpsJPjSge3JHkNYJImD08"
+    },
+    {
+      "album": {
+        "name": "Impatient",
+        "url": "https://open.spotify.com/album/5ztwKgM43IMhm0Qnl3MI28"
+      },
+      "artists": [
+        {
+          "name": "Kofi",
+          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169310,
+      "name": "Impatient",
+      "url": "https://open.spotify.com/track/2LnADQWYzH6LWSsylwpmFE"
     },
     {
       "album": {
@@ -1271,7 +1387,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 180000,
       "name": "JUBA (feat. Bella Shmurda)",
       "url": "https://open.spotify.com/track/5Y2xRII1UvQgkv7T0B4uYC"
@@ -1448,6 +1564,36 @@
     },
     {
       "album": {
+        "name": "CLOSER",
+        "url": "https://open.spotify.com/album/4cSCZXFa68eNFY1pEeIzcW"
+      },
+      "artists": [
+        {
+          "name": "NNAVY",
+          "url": "https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu"
+        },
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
+        },
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        },
+        {
+          "name": "Hendrick Sam",
+          "url": "https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228518,
+      "name": "Let Me",
+      "url": "https://open.spotify.com/track/7jbR0coXoqygIfc6OFW8ly"
+    },
+    {
+      "album": {
         "name": "APOLLO",
         "url": "https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq"
       },
@@ -1493,6 +1639,24 @@
       "duration_ms": 209235,
       "name": "Like Tu Danz",
       "url": "https://open.spotify.com/track/1JseAs562lQva7llJ0bibp"
+    },
+    {
+      "album": {
+        "name": "Love Me JeJe",
+        "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178041,
+      "name": "Love Me JeJe",
+      "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
     },
     {
       "album": {
@@ -1837,7 +2001,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 207474,
       "name": "Playboy",
       "url": "https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm"
@@ -1932,6 +2096,24 @@
     },
     {
       "album": {
+        "name": "Hear Me Out",
+        "url": "https://open.spotify.com/album/32SYdv9QzscXqSV4tQc1qC"
+      },
+      "artists": [
+        {
+          "name": "Aramide",
+          "url": "https://open.spotify.com/artist/3MnR60ldjXYo42lHIZEPvo"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138870,
+      "name": "Pretty Girl Bop",
+      "url": "https://open.spotify.com/track/0SAsey25lSxwPdAaGkKZqA"
+    },
+    {
+      "album": {
         "name": "Pretty Girls",
         "url": "https://open.spotify.com/album/2hab7riz6xmtgfvqxfnNLk"
       },
@@ -1979,7 +2161,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 225170,
       "name": "Proper Enjoyment",
       "url": "https://open.spotify.com/track/4QkjkDGed9G61Ondbtg5ON"
@@ -2422,6 +2604,24 @@
     },
     {
       "album": {
+        "name": "Fed Up / Tension",
+        "url": "https://open.spotify.com/album/12l63NT7yZ7bFf0mRJ9Y0l"
+      },
+      "artists": [
+        {
+          "name": "Hyce",
+          "url": "https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156164,
+      "name": "Tension",
+      "url": "https://open.spotify.com/track/3tZsUsu3PZ1V48hpApVOFF"
+    },
+    {
+      "album": {
         "name": "HOLDING/EVOLVING",
         "url": "https://open.spotify.com/album/5eMsBt8WjfQYROA2dSnG33"
       },
@@ -2535,7 +2735,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 99299,
       "name": "TRUST FUND BABY",
       "url": "https://open.spotify.com/track/36bncsqM87eiQ2Gv7WrEJz"
@@ -2553,7 +2753,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 153548,
       "name": "Unruly",
       "url": "https://open.spotify.com/track/58Wujfnk39NKHNwmEXqGx2"

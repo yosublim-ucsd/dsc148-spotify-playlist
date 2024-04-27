@@ -1,7 +1,7 @@
 {
-  "2024-04-26": 621012,
+  "2024-04-27": 621064,
   "date_first_scraped": "2023-07-29",
-  "description": "This is Justin Timberlake. The essential tracks, all in one playlist.",
+  "description": "This is Justin Timberlake. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Justin Timberlake",
   "tracks": [
     {
@@ -1721,7 +1721,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-25",
+      "date_removed": null,
       "duration_ms": 252973,
       "name": "Summer Love",
       "url": "https://open.spotify.com/track/1MBM7CyZbwJpVbbZJnHHRg"

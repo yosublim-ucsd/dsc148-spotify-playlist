@@ -1,7 +1,7 @@
 {
-  "2024-04-26": 439341,
+  "2024-04-27": 439264,
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: Parra for Cuva",
+  "description": "New music off the beaten track. Cover: Justice",
   "name": "OFF POP",
   "tracks": [
     {
@@ -1871,7 +1871,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 194042,
       "name": "Chance On You (feat. KU\u010cKA)",
       "url": "https://open.spotify.com/track/0Byefko3vpr0FV8BIQmOsH"
@@ -2759,7 +2759,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 214919,
       "name": "Did I - Peaches Remix",
       "url": "https://open.spotify.com/track/4AW85nhkcAkTVBPDkmGnMq"
@@ -2799,7 +2799,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 114333,
       "name": "Digital Slaves",
       "url": "https://open.spotify.com/track/2vMXEYcrqv5HAoBy83UQkT"
@@ -2999,6 +2999,24 @@
       "duration_ms": 269799,
       "name": "Don't Let Go",
       "url": "https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by"
+    },
+    {
+      "album": {
+        "name": "Teething",
+        "url": "https://open.spotify.com/album/2EuCweXAgt5dcTayQRPoEo"
+      },
+      "artists": [
+        {
+          "name": "Porij",
+          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221746,
+      "name": "Don't Talk To Me",
+      "url": "https://open.spotify.com/track/2Z1Lt7J11dSp42X03PWGh5"
     },
     {
       "album": {
@@ -3871,7 +3889,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 218386,
       "name": "false gold - Imogen Heap Remix",
       "url": "https://open.spotify.com/track/1FTDuTMJLeUkmDx7O6TUbl"
@@ -4629,7 +4647,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 183093,
       "name": "Funky And You Know It - Myd Remix",
       "url": "https://open.spotify.com/track/3GXNESAx5m5wtE2bWjzmN2"
@@ -7574,6 +7592,28 @@
     },
     {
       "album": {
+        "name": "Lost In Life (Roosevelt Remix)",
+        "url": "https://open.spotify.com/album/2GwF8p9eQQDFNnApTsPwrB"
+      },
+      "artists": [
+        {
+          "name": "FIL BO RIVA",
+          "url": "https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN"
+        },
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238546,
+      "name": "Lost In Life - Roosevelt Remix",
+      "url": "https://open.spotify.com/track/3f4baxfV0dQPAiXXOCqM9O"
+    },
+    {
+      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu"
       },
@@ -8824,6 +8864,28 @@
     },
     {
       "album": {
+        "name": "Hyperdrama",
+        "url": "https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266493,
+      "name": "Neverender",
+      "url": "https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn"
+    },
+    {
+      "album": {
         "name": "NeverStop",
         "url": "https://open.spotify.com/album/3LsmzqsGW7J6uK45C9McDo"
       },
@@ -9871,7 +9933,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 112186,
       "name": "Petit Jour",
       "url": "https://open.spotify.com/track/583rPY4dNkNk1ED40KAnht"
@@ -10680,6 +10742,28 @@
     },
     {
       "album": {
+        "name": "saving flowers",
+        "url": "https://open.spotify.com/album/2zPC36yrmSWqm2cgKb35yd"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        },
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210785,
+      "name": "saving flowers",
+      "url": "https://open.spotify.com/track/4ZZO8buYpKMS7gR9koYhD9"
+    },
+    {
+      "album": {
         "name": "Say Something",
         "url": "https://open.spotify.com/album/0ZlDyS6kzMipun19zAEHKe"
       },
@@ -11105,7 +11189,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 249750,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/38e50yunt7UDHHjCO2Pk2y"
@@ -12208,6 +12292,24 @@
     },
     {
       "album": {
+        "name": "Telephone",
+        "url": "https://open.spotify.com/album/6CzpANa2cPxub4JcULfz1C"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208534,
+      "name": "Telephone",
+      "url": "https://open.spotify.com/track/6nJ5Me87gXfmxAvtsrKFcT"
+    },
+    {
+      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/1O5xnJpHgn1KeCKf4lII0G"
       },
@@ -13174,6 +13276,28 @@
     },
     {
       "album": {
+        "name": "Turn The Page",
+        "url": "https://open.spotify.com/album/3v8EL9UazZlDhvn6mERMoq"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        },
+        {
+          "name": "The Streets",
+          "url": "https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262454,
+      "name": "Turn The Page",
+      "url": "https://open.spotify.com/track/038YxoOvHJKyFiXhqlVkil"
+    },
+    {
+      "album": {
         "name": "R",
         "url": "https://open.spotify.com/album/6fCdtGCowSifh43OPqO9t3"
       },
@@ -13897,6 +14021,24 @@
       "duration_ms": 230445,
       "name": "We Still Believe",
       "url": "https://open.spotify.com/track/0uoaYBn3prfGyWQR59wkeQ"
+    },
+    {
+      "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/0HuWZAJc4XEitfGiO4CI1M"
+      },
+      "artists": [
+        {
+          "name": "Glimmer of Blooms",
+          "url": "https://open.spotify.com/artist/5Ha7OvvalK4moJei0zEKg6"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168301,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/50NAA4IIAIURWtKGVVBHee"
     },
     {
       "album": {

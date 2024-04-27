@@ -2,9 +2,9 @@
 
 ### [Lunas de Folklore](https://open.spotify.com/playlist/37i9dQZF1DWYLoJq8d80ds)
 
-> ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Los Tekis & Cantores del Monte
+> ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Sele Vera
 
-163 songs - 9 hr 4 min
+164 songs - 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Carnavalito Quebradeño](https://open.spotify.com/track/43kzHLHUVos2BkSa5lDt5M) | [Gauchos Of The Pampa](https://open.spotify.com/artist/3rinfPP8tgOSDHnmmfEWCN), [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf) | [Carnavalito Quebradeño](https://open.spotify.com/album/703lwyIO4f3qt09zdAUcv9) | 2:55 | 2022-10-07 | 2024-04-19 |
 | [Carnavalito Quebradeño](https://open.spotify.com/track/4cuQJH5MMz7mskIw1W1Zc0) | [Gauchos Of The Pampa](https://open.spotify.com/artist/3rinfPP8tgOSDHnmmfEWCN), [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf) | [Carnavalito Quebradeño](https://open.spotify.com/album/7mdiHjNKKIXkyXYoKHHwtc) | 2:55 | 2021-12-31 |  |
 | [Carnavalito\-Cumbia](https://open.spotify.com/track/3LmrwJkgv0FnU8Jw9sFIF2) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Carnavalito\-Cumbia](https://open.spotify.com/album/7m71siD2EP9qJfuaK3iOWk) | 2:39 | 2022-02-04 |  |
+| [Chacarera Del Sufrido](https://open.spotify.com/track/2de99vfNF4BxBydh5xa4af) | [Gauchos Of The Pampa](https://open.spotify.com/artist/3rinfPP8tgOSDHnmmfEWCN), [EMI](https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1) | [Chacarera Del Sufrido](https://open.spotify.com/album/4sXFarPa7FiFjTUVSu9iag) | 3:09 | 2024-04-26 |  |
 | [Cielo de la Baguala](https://open.spotify.com/track/1oBlxQKBDeuxTlxhM4Cbnz) | [Daniela Toro](https://open.spotify.com/artist/0UcY9AtRAa1rSQBaUoiLau), [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx) | [Alma Andina](https://open.spotify.com/album/78b7ydPgTanHedDDZ4pqIZ) | 2:43 | 2022-07-01 | 2024-04-19 |
 | [Cielo de la Baguala](https://open.spotify.com/track/0AjOTP9Ald9iClH4oavIVX) | [Daniela Toro](https://open.spotify.com/artist/0UcY9AtRAa1rSQBaUoiLau), [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx) | [Alma Andina](https://open.spotify.com/album/7GTOLniDL5ZCpwv3C3cacz) | 2:48 | 2021-12-31 |  |
 | [Cinco Sentidos](https://open.spotify.com/track/3DhjoaOlyb5iGqfaN8XKbj) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Cinco Sentidos](https://open.spotify.com/album/2KqQcyr7EHi2VHT1KhVEAB) | 2:16 | 2021-12-31 |  |
@@ -92,7 +93,7 @@
 | [La Wasappera](https://open.spotify.com/track/2E0dGSoOrh0fGdLkbSgELi) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [La Wasappera](https://open.spotify.com/album/0UFRvUGt4Mhpb4Xdyfb1PE) | 2:14 | 2023-09-01 | 2023-10-21 |
 | [Las Ideas](https://open.spotify.com/track/6Xh9pqCul56QqMylyS2agb) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP) | [Las Ideas](https://open.spotify.com/album/6F7O6j8zpyVM0ARSOctBJW) | 3:54 | 2022-05-27 |  |
 | [Las Moras](https://open.spotify.com/track/4aFcSioY14fDCLAxOUrfUf) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Con el Alma \(Sesiones 2020\)](https://open.spotify.com/album/3ZFER51zrslR8BjOl5TZzx) | 2:36 | 2021-12-31 | 2022-10-08 |
-| [Lavandera](https://open.spotify.com/track/7dELogj4xgs0lpF7v5WjuO) | [Efrain Colombo](https://open.spotify.com/artist/32778N5Y2svyyJGp8HwxBY) | [Lavandera](https://open.spotify.com/album/3sKyCsmSmikXVchbnC0O97) | 2:50 | 2021-12-31 |  |
+| [Lavandera](https://open.spotify.com/track/7dELogj4xgs0lpF7v5WjuO) | [Efrain Colombo](https://open.spotify.com/artist/32778N5Y2svyyJGp8HwxBY) | [Lavandera](https://open.spotify.com/album/3sKyCsmSmikXVchbnC0O97) | 2:50 | 2021-12-31 | 2024-04-27 |
 | [Lluvia](https://open.spotify.com/track/5cYth5JAOgE7bYW1dtGlSl) | [Fabricio Rodriguez](https://open.spotify.com/artist/7suBgGfGR0MTAVH3z9WoQt), [Seba Lopez](https://open.spotify.com/artist/3l3XAAFEthDxTpUtA5p3cZ) | [Vivir](https://open.spotify.com/album/1XJoy7s9d3U5C1WyYrMkjN) | 3:32 | 2023-10-20 | 2024-04-19 |
 | [Lluvia](https://open.spotify.com/track/2zXCMzkxg9I22SekbZkqpu) | [Fabricio Rodriguez](https://open.spotify.com/artist/7suBgGfGR0MTAVH3z9WoQt), [Seba López \- Los Tekis](https://open.spotify.com/artist/0BpzekgdnoRolRWdVMpmwU) | [Lluvia](https://open.spotify.com/album/49Kt3SVzNgNmYL2vqyXZrv) | 3:32 | 2021-12-31 |  |
 | [Lo Intentamos](https://open.spotify.com/track/62pEsS5D4lYkkBRyhDxKRN) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Grandes Éxitos](https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU) | 4:01 | 2022-02-25 | 2022-10-08 |

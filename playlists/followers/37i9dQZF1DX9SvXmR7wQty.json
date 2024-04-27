@@ -1,5 +1,5 @@
 {
-  "2024-04-26": 40352,
+  "2024-04-27": 40409,
   "date_first_scraped": "2022-01-01",
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Vacra",
   "name": "Nouveaut\u00e9s francophones",
@@ -731,6 +731,24 @@
       "duration_ms": 198695,
       "name": "440",
       "url": "https://open.spotify.com/track/6VeMApCAe4bx2Z79IClTjs"
+    },
+    {
+      "album": {
+        "name": "SUR LE CHEMIN (Phase 3)",
+        "url": "https://open.spotify.com/album/6yV4ZCSKZNoOJan78YLKan"
+      },
+      "artists": [
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174928,
+      "name": "45",
+      "url": "https://open.spotify.com/track/2FJychFhFkGOxKDGg8vBh8"
     },
     {
       "album": {
@@ -24611,7 +24629,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 111780,
       "name": "Le Rang des \u00c9toiles",
       "url": "https://open.spotify.com/track/0UoklKqjOkt8q0lqB0ACZd"

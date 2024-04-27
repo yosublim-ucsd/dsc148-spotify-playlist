@@ -346,7 +346,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 151000,
       "name": "2024 (feat. TJ Porter)",
       "url": "https://open.spotify.com/track/7hcqv31Jc6a8td13pmGetO"
@@ -438,7 +438,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 212024,
       "name": "3 Pointer",
       "url": "https://open.spotify.com/track/1eZWo2sbHxAAhLegIvr9K2"
@@ -1220,7 +1220,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 182840,
       "name": "Ain't No Love",
       "url": "https://open.spotify.com/track/72qABvaqn3TP6drO2tByA6"
@@ -2055,6 +2055,28 @@
     },
     {
       "album": {
+        "name": "Jeremy",
+        "url": "https://open.spotify.com/album/5X7h8P7D3blxtgexUNAyV3"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        },
+        {
+          "name": "JD On Tha Track",
+          "url": "https://open.spotify.com/artist/399fRDjZglRcNLNEDobdt4"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198485,
+      "name": "Back From The Dead",
+      "url": "https://open.spotify.com/track/3Uda0y71R8mHiYKmvrI8Rf"
+    },
+    {
+      "album": {
         "name": "Drill Season (Extended)",
         "url": "https://open.spotify.com/album/6daSSJZ16r6AH9gj8bZbWG"
       },
@@ -2128,6 +2150,32 @@
       "duration_ms": 223803,
       "name": "Back Out (feat. Mello Buckzz)",
       "url": "https://open.spotify.com/track/2RACJkPEwQP3pp6OSotqwT"
+    },
+    {
+      "album": {
+        "name": "Back To Back (feat. Future & Southside)",
+        "url": "https://open.spotify.com/album/4nOq0yHDsHVyxBTXjTgKZD"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Southside",
+          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185094,
+      "name": "Back To Back (feat. Future & Southside)",
+      "url": "https://open.spotify.com/track/4VS68hFMSdb6adNtXIBGIz"
     },
     {
       "album": {
@@ -2865,6 +2913,24 @@
     },
     {
       "album": {
+        "name": "Yes, I\u2019m Sad (More Therapy) [Deluxe]",
+        "url": "https://open.spotify.com/album/5Dh3UotXHFlJnJLAdtSsbQ"
+      },
+      "artists": [
+        {
+          "name": "Fredo Bang",
+          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133328,
+      "name": "Bipolar",
+      "url": "https://open.spotify.com/track/7tvOgItmZEZh1n4pdkSJoV"
+    },
+    {
+      "album": {
         "name": "Bit W The Fangs (feat. Gunna & Nechie)",
         "url": "https://open.spotify.com/album/5ZYSOwcQ5wqLmAFwyJANnK"
       },
@@ -3322,6 +3388,24 @@
       "duration_ms": 205769,
       "name": "Bonecrusher (feat. Key Glock)",
       "url": "https://open.spotify.com/track/3DmurtaoUILQC8e4XMPW4K"
+    },
+    {
+      "album": {
+        "name": "Boogieman",
+        "url": "https://open.spotify.com/album/75XYL9gBsRC8wWbmbtzQHh"
+      },
+      "artists": [
+        {
+          "name": "EBK Jaaybo",
+          "url": "https://open.spotify.com/artist/7iKgSlIINjat3bsCYiNMYX"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131291,
+      "name": "Boogieman",
+      "url": "https://open.spotify.com/track/7Mg5CBO37Rifk2RyDJ8fzd"
     },
     {
       "album": {
@@ -3818,6 +3902,24 @@
       "duration_ms": 141097,
       "name": "Buss It All Down",
       "url": "https://open.spotify.com/track/5YIMpr7jfTKCtLFbQG4d0g"
+    },
+    {
+      "album": {
+        "name": "Jeremy",
+        "url": "https://open.spotify.com/album/5X7h8P7D3blxtgexUNAyV3"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162038,
+      "name": "Buy Your Bitch Sum",
+      "url": "https://open.spotify.com/track/3JFrhPGadwKiUAqoxhcBgR"
     },
     {
       "album": {
@@ -4350,6 +4452,24 @@
       "duration_ms": 170666,
       "name": "Chedda Cheese (feat. Babyface Ray)",
       "url": "https://open.spotify.com/track/05a0oCC4u0uIwtHf2xgYGM"
+    },
+    {
+      "album": {
+        "name": "Cheesecake",
+        "url": "https://open.spotify.com/album/5jdg34jX6zywe3PkySMcf2"
+      },
+      "artists": [
+        {
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99047,
+      "name": "Cheesecake",
+      "url": "https://open.spotify.com/track/0qfmKEHGRhMN2C3kQvGTlD"
     },
     {
       "album": {
@@ -5332,7 +5452,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 156264,
       "name": "Deeper Den Rap",
       "url": "https://open.spotify.com/track/7Clx7nirFAdXmme8ot75dH"
@@ -6198,7 +6318,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 184537,
       "name": "Duck No Smoke",
       "url": "https://open.spotify.com/track/2qEhdXuJxmVA7xNMxmPiTa"
@@ -6318,7 +6438,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 192013,
       "name": "EASY DUB (feat. BabyDrill)",
       "url": "https://open.spotify.com/track/6oTva60E0yp2cvFAybLFmS"
@@ -11224,7 +11344,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 200960,
       "name": "Ion Need Love",
       "url": "https://open.spotify.com/track/1HOU6fmZ7AHiGzE2teztu4"
@@ -13875,6 +13995,24 @@
     },
     {
       "album": {
+        "name": "Might Be Tweakin",
+        "url": "https://open.spotify.com/album/0UplN00A3Czo1MSnn46Tu6"
+      },
+      "artists": [
+        {
+          "name": "Jdot Breezy",
+          "url": "https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86935,
+      "name": "Might Be Tweakin",
+      "url": "https://open.spotify.com/track/6jAWFH2BuMQbolxhwV2MLs"
+    },
+    {
+      "album": {
         "name": "King Of The Trap 2",
         "url": "https://open.spotify.com/album/6PRq1ESUGYPQxwZ5gpSE0n"
       },
@@ -14184,7 +14322,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 112206,
       "name": "Momma Mil",
       "url": "https://open.spotify.com/track/7kuO7z60Yphxuk8M23XNva"
@@ -16152,7 +16290,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 125000,
       "name": "older times",
       "url": "https://open.spotify.com/track/7yLRdxIqQUgEnQ9FXiEoQO"
@@ -16686,6 +16824,24 @@
       "duration_ms": 126315,
       "name": "Opp Shit",
       "url": "https://open.spotify.com/track/2lynIxLBNW2SrBeDOVpxyB"
+    },
+    {
+      "album": {
+        "name": "Opps On Deck",
+        "url": "https://open.spotify.com/album/0JGYrX36vuaaBLJ1yHaB8E"
+      },
+      "artists": [
+        {
+          "name": "VonOff1700",
+          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102047,
+      "name": "Opps On Deck",
+      "url": "https://open.spotify.com/track/5DTfAQZLAJgpFEVvQI3nYO"
     },
     {
       "album": {
@@ -17470,7 +17626,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 186687,
       "name": "Pissing Me Off (feat. Fivio Foreign)",
       "url": "https://open.spotify.com/track/7o07jEiFI5jk9KVpVj0Hm6"
@@ -19050,6 +19206,28 @@
       "duration_ms": 179548,
       "name": "Richer Than My Opps",
       "url": "https://open.spotify.com/track/7reqlXtBk0OJLtRkUABUYa"
+    },
+    {
+      "album": {
+        "name": "The Coldest",
+        "url": "https://open.spotify.com/album/0V2BZLpJjyk4eey1BOC9st"
+      },
+      "artists": [
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146206,
+      "name": "Richie (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/2VIVXA60Iqi3PWKeaifYR7"
     },
     {
       "album": {
@@ -22548,7 +22726,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 158731,
       "name": "Swing My Doe (feat. BiC Fizzle)",
       "url": "https://open.spotify.com/track/4ZTbRGeqWhzv4T5gjcyoJE"
@@ -22588,6 +22766,24 @@
       "duration_ms": 145800,
       "name": "Take A Shot",
       "url": "https://open.spotify.com/track/3g3M1vZY18Mrw8TQaRKmjF"
+    },
+    {
+      "album": {
+        "name": "TakeDat",
+        "url": "https://open.spotify.com/album/0QGR0lxeErBfwbuYFDGsFx"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227211,
+      "name": "TakeDat",
+      "url": "https://open.spotify.com/track/6fJCA6KjZLUHb87LV62hVT"
     },
     {
       "album": {
@@ -23888,7 +24084,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 107545,
       "name": "Tunka Truck",
       "url": "https://open.spotify.com/track/56L8kIckfRDisUj2FvRu5f"
@@ -25883,6 +26079,28 @@
     },
     {
       "album": {
+        "name": "Worth a Ticket (feat. BossMan Dlow)",
+        "url": "https://open.spotify.com/album/5jVvGkll1hLR7e2kv3eMe3"
+      },
+      "artists": [
+        {
+          "name": "Wizz Havinn",
+          "url": "https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE"
+        },
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192052,
+      "name": "Worth a Ticket (feat. BossMan Dlow)",
+      "url": "https://open.spotify.com/track/38NNL9bNJcnhHQaSMzlM6A"
+    },
+    {
+      "album": {
         "name": "T.R.U. REALigion (Anniversary Edition)",
         "url": "https://open.spotify.com/album/4fu330cC3wvmffXjuDb3f1"
       },
@@ -26134,6 +26352,24 @@
       "duration_ms": 217941,
       "name": "YMCA",
       "url": "https://open.spotify.com/track/3BYYZeMwAiasw2J5zrI7n2"
+    },
+    {
+      "album": {
+        "name": "You Ain't Neva",
+        "url": "https://open.spotify.com/album/39FYJNzSazlHCg8b8GHbFL"
+      },
+      "artists": [
+        {
+          "name": "Big Yavo",
+          "url": "https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143829,
+      "name": "You Ain't Neva",
+      "url": "https://open.spotify.com/track/6jsHrSTKM0AD7w7z2ZGwRc"
     },
     {
       "album": {

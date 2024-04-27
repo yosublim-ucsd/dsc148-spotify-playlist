@@ -1,7 +1,7 @@
 {
-  "2024-04-26": 14780,
+  "2024-04-27": 14791,
   "date_first_scraped": "2022-10-01",
-  "description": "New and emerging R&B, afropop and Alternative tracks. Cover: Filah Lah Lah",
+  "description": "New and emerging R&B, afropop and Alternative tracks. Cover: F3line",
   "name": "Sizzlers ",
   "tracks": [
     {
@@ -111,7 +111,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 192000,
       "name": "14:02",
       "url": "https://open.spotify.com/track/0rIDiFRgtsNB81roHxRPx6"
@@ -1073,6 +1073,24 @@
       "duration_ms": 167836,
       "name": "Already",
       "url": "https://open.spotify.com/track/33tWiffFIoxx7uoIFbqKjn"
+    },
+    {
+      "album": {
+        "name": "Hopeless Romantic (EP)",
+        "url": "https://open.spotify.com/album/4poiSgaW1Bk5VWvmQQ8Ui4"
+      },
+      "artists": [
+        {
+          "name": "F3line",
+          "url": "https://open.spotify.com/artist/0dO41kWVCHHDVfbQTaidMQ"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165923,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/1OnoR9XSLxwxrLoMO6ECTA"
     },
     {
       "album": {
@@ -2605,7 +2623,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 189701,
       "name": "Celine Dion",
       "url": "https://open.spotify.com/track/4ktaaCJqhdNwD7tKdbD6iv"
@@ -4444,6 +4462,28 @@
     },
     {
       "album": {
+        "name": "Mombasa's Lover Boy",
+        "url": "https://open.spotify.com/album/3dCGhikw2kksr8OMi9HPft"
+      },
+      "artists": [
+        {
+          "name": "Caleb Awiti",
+          "url": "https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN"
+        },
+        {
+          "name": "Zowie Kengocha",
+          "url": "https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160610,
+      "name": "Failing Together",
+      "url": "https://open.spotify.com/track/73zD4vLARiNHzTB7EHqptA"
+    },
+    {
+      "album": {
         "name": "I Know I Am",
         "url": "https://open.spotify.com/album/0n8t233j9SxfeORXpC9msV"
       },
@@ -4833,7 +4873,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 141176,
       "name": "Fire Wood",
       "url": "https://open.spotify.com/track/4z7OibjcVz9QvNEYywHynf"
@@ -6411,7 +6451,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 194857,
       "name": "Honest",
       "url": "https://open.spotify.com/track/1w8XryfrrR7rXSo5GscZ5f"
@@ -8282,6 +8322,36 @@
     },
     {
       "album": {
+        "name": "CLOSER",
+        "url": "https://open.spotify.com/album/4cSCZXFa68eNFY1pEeIzcW"
+      },
+      "artists": [
+        {
+          "name": "NNAVY",
+          "url": "https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu"
+        },
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
+        },
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        },
+        {
+          "name": "Hendrick Sam",
+          "url": "https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228518,
+      "name": "Let Me",
+      "url": "https://open.spotify.com/track/7jbR0coXoqygIfc6OFW8ly"
+    },
+    {
+      "album": {
         "name": "Let me go",
         "url": "https://open.spotify.com/album/1GLbCf7kN8GExrykwIXyYS"
       },
@@ -9991,7 +10061,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 161684,
       "name": "MY EX",
       "url": "https://open.spotify.com/track/6s4xvKwFL4x5gueZUtE2Cp"
@@ -10687,6 +10757,28 @@
       "duration_ms": 204255,
       "name": "not regular",
       "url": "https://open.spotify.com/track/7JRUeL2mhC0AIwYDbKy7DG"
+    },
+    {
+      "album": {
+        "name": "LOVE & HUSTLE",
+        "url": "https://open.spotify.com/album/28UnTAsmLHRV708ogPuL4D"
+      },
+      "artists": [
+        {
+          "name": "UAX",
+          "url": "https://open.spotify.com/artist/5KIcYbv98M0MozhLs5lHnT"
+        },
+        {
+          "name": "TMXO",
+          "url": "https://open.spotify.com/artist/6FKZZfl6Jbfyjd8DPChyCk"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "Nothing Compares",
+      "url": "https://open.spotify.com/track/5GBJVbsYC9sp5d9onpZAYu"
     },
     {
       "album": {
@@ -12096,6 +12188,24 @@
     },
     {
       "album": {
+        "name": "Hear Me Out",
+        "url": "https://open.spotify.com/album/32SYdv9QzscXqSV4tQc1qC"
+      },
+      "artists": [
+        {
+          "name": "Aramide",
+          "url": "https://open.spotify.com/artist/3MnR60ldjXYo42lHIZEPvo"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138870,
+      "name": "Pretty Girl Bop",
+      "url": "https://open.spotify.com/track/0SAsey25lSxwPdAaGkKZqA"
+    },
+    {
+      "album": {
         "name": "PrEttY Like",
         "url": "https://open.spotify.com/album/0eYfLrBMobCVn4ZCaGV1GA"
       },
@@ -12165,6 +12275,28 @@
       "duration_ms": 150752,
       "name": "Princess Darling",
       "url": "https://open.spotify.com/track/4eh3gxGAT2tVFfBq4BKCKW"
+    },
+    {
+      "album": {
+        "name": "Problem Choke (feat. Qing Madi)",
+        "url": "https://open.spotify.com/album/1cWgzr9PJ3Dy8UJv3hsIIM"
+      },
+      "artists": [
+        {
+          "name": "10Ten",
+          "url": "https://open.spotify.com/artist/7urO0i2T8Ta9E9xAuOD1d6"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156447,
+      "name": "Problem Choke (feat. Qing Madi)",
+      "url": "https://open.spotify.com/track/10iusab53B2DZKevX5s4XB"
     },
     {
       "album": {
@@ -13551,7 +13683,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 190933,
       "name": "SINK OR SWIM",
       "url": "https://open.spotify.com/track/6fB5xCqHjkLGud3ZPyNbq4"
@@ -14691,7 +14823,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 156164,
       "name": "Tension",
       "url": "https://open.spotify.com/track/3tZsUsu3PZ1V48hpApVOFF"
@@ -16407,6 +16539,24 @@
       "duration_ms": 181903,
       "name": "Wildin'",
       "url": "https://open.spotify.com/track/5laEZ8aZUdmjqw41FwvNHa"
+    },
+    {
+      "album": {
+        "name": "Win",
+        "url": "https://open.spotify.com/album/1BeuNe7I7ZYilE0ZKWUsaP"
+      },
+      "artists": [
+        {
+          "name": "Jeff Akoh",
+          "url": "https://open.spotify.com/artist/2dWJmDHk1CXQ4r5Pj4yQB5"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167272,
+      "name": "Win",
+      "url": "https://open.spotify.com/track/7BBbeVgXfMmProAUAepV44"
     },
     {
       "album": {

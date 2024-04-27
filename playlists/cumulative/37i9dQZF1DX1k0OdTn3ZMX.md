@@ -2,7 +2,7 @@
 
 ### [new nü](https://open.spotify.com/playlist/37i9dQZF1DX1k0OdTn3ZMX)
 
-> nü\-metal revival is happening here and now with From Ashes To New.
+> nü\-metal revival is happening here and now with P.O.D.
 
 139 songs - 8 hr 3 min
 

@@ -2,7 +2,7 @@
 
 ### [This Is Lil Tecca](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2K7vh9)
 
-> This Is Lil Tecca\. Los temas esenciales, todos en una lista.
+> This is Lil Tecca\. The essential tracks, all in one playlist.
 
 56 songs - 2 hr 17 min
 

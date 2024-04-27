@@ -1,5 +1,5 @@
 {
-  "2024-04-26": 181876,
+  "2024-04-27": 181964,
   "date_first_scraped": "2023-04-09",
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
   "name": "Jes\u00fas Vive",
@@ -571,6 +571,24 @@
     {
       "album": {
         "name": "ORO",
+        "url": "https://open.spotify.com/album/17Kzq0v8VbcM07Gd1wc7Sy"
+      },
+      "artists": [
+        {
+          "name": "Crystal Lewis",
+          "url": "https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320533,
+      "name": "Cristo Yo Creo en Ti",
+      "url": "https://open.spotify.com/track/0tu31j0ER11KL2tYUOyHea"
+    },
+    {
+      "album": {
+        "name": "ORO",
         "url": "https://open.spotify.com/album/7m7fDq7zg6DuHnGXSwJwSx"
       },
       "artists": [
@@ -883,7 +901,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-20",
+      "date_removed": null,
       "duration_ms": 271419,
       "name": "Eterna luz",
       "url": "https://open.spotify.com/track/1u1d13KMNYZAIIEEWIo5ng"
@@ -1559,7 +1577,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 346933,
       "name": "La Cruz",
       "url": "https://open.spotify.com/track/1IN4Xq6HhJtP7MylpnP8ec"
@@ -1783,7 +1801,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 291428,
       "name": "Me rindo a ti",
       "url": "https://open.spotify.com/track/5uVqzGtREfy8NcuRBaVPn9"
@@ -2609,7 +2627,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 387500,
       "name": "Santo Es Tu Nombre - En Vivo",
       "url": "https://open.spotify.com/track/0HVwdABlCeSEMKcNrrltMq"
@@ -2653,6 +2671,24 @@
       "duration_ms": 301958,
       "name": "Santo R\u00edo de Dios",
       "url": "https://open.spotify.com/track/0SzKBtMu75trcKWGXBsGb6"
+    },
+    {
+      "album": {
+        "name": "Santo R\u00edo de Dios",
+        "url": "https://open.spotify.com/album/5yxTDKXmyaxuBusT71eLlM"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301958,
+      "name": "Santo R\u00edo de Dios",
+      "url": "https://open.spotify.com/track/5CtOZQKdmac8TukpuQmS1B"
     },
     {
       "album": {

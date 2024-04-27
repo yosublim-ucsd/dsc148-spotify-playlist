@@ -1,12 +1,12 @@
 {
   "description": "This is Anti-Flag. The essential tracks, all in one playlist.",
-  "num_followers": 15918,
+  "num_followers": 15922,
   "original_name": "This Is Anti-Flag",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzkxNjgwMCwwMDAwMDAwMDk5NTIyNjI1ZDdiZDZlMGZiYmVmNDQ5MTMxN2Q2Y2Zj",
+  "snapshot_id": "MTcxNDAwMzIwMCwwMDAwMDAwMDNkMjQ2MDdhNTg2OTcwN2Y5NGIwNzI3NGY1ZDhjOTQ0",
   "tracks": [
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LIES THEY TELL OUR CHILDREN",
+        "url": "https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 90773,
+      "name": "SOLD EVERYTHING",
+      "url": "https://open.spotify.com/track/7kzA7SqzbyU2ZhSBKGmyjC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Dying Plea Vol. 1",
         "url": "https://open.spotify.com/album/0ippbK45L6BKnSfpaAFf4V"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 206205,
       "name": "A Dying Plea Vol. 1",
       "url": "https://open.spotify.com/track/0NlxbDDwdVSQm1DQz2EZUo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LIES THEY TELL OUR CHILDREN",
-        "url": "https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 90773,
-      "name": "SOLD EVERYTHING",
-      "url": "https://open.spotify.com/track/7kzA7SqzbyU2ZhSBKGmyjC"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  Abe Lubis
 
-3,326 songs - 8 day 12 hr 20 min
+3,327 songs - 8 day 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1583,6 +1583,7 @@
 | [Labirin](https://open.spotify.com/track/1Sj8QTNt0le2C58oxkSFqe) | [Prjct Mncrgkn](https://open.spotify.com/artist/6JDoEV4UEvVnqTmxQRpgGF) | [Labirin](https://open.spotify.com/album/1rluBsYLjIwTZlMF3v3yLE) | 4:43 | 2023-08-31 | 2023-09-20 |
 | [Labirin Pikiran](https://open.spotify.com/track/6geMi4peZEz7wLyiwGhIbN) | [Budiraya](https://open.spotify.com/artist/5pHCbLQj6BRrqQXBShicgy) | [Labirin Pikiran](https://open.spotify.com/album/2P42a3gPX8ZCNJFTXjum89) | 4:04 | 2024-03-21 | 2024-04-19 |
 | [Lady In White](https://open.spotify.com/track/1yzuJeYMcFiCIlu0eaeM86) | [MIROSLAV.](https://open.spotify.com/artist/6myEF7Q3TIkbE3MZ0kZH7e), [bisinggama](https://open.spotify.com/artist/5XbSiEuRJzkcyyrDENouEg) | [Lady In White](https://open.spotify.com/album/6vBSKOt282WpXk7VgwWw7G) | 3:51 | 2022-08-26 | 2022-09-09 |
+| [Lagi\-lagi](https://open.spotify.com/track/35i4wDmhu1Q7w4NIOzN58M) | [Chintana Jo](https://open.spotify.com/artist/1O2AdjDXC1VqjYE7PwDILf) | [Lagi\-lagi](https://open.spotify.com/album/0KxLPy3UlsVM6JPnRoq2eH) | 3:31 | 2024-04-26 |  |
 | [Lagila](https://open.spotify.com/track/3r1QiKDMezAag054RvGCQf) | [Ranu Pani](https://open.spotify.com/artist/1U7hDgZFhsJzAb84Agh9tM) | [Lagila](https://open.spotify.com/album/2ucNLhMS1f3jdeoik6If1C) | 5:01 | 2023-08-24 | 2023-09-20 |
 | [Lagu 27](https://open.spotify.com/track/4j9tpEMzsPb6FjUqcbaNtN) | [Bob Anwar](https://open.spotify.com/artist/07Zr3TABkaR5WskkcZeypt) | [Lagu 27](https://open.spotify.com/album/0wQkmABDJvGYwgOxp9VJZp) | 3:27 | 2023-08-17 | 2023-09-01 |
 | [Lagu Ayah](https://open.spotify.com/track/23DBGjePI2mfs1r6W1IXVn) | [Amanda Citra](https://open.spotify.com/artist/4Jrl3wADhbdxxuYvYAjT6t) | [Lagu Ayah](https://open.spotify.com/album/1D7fMzCpIaHKahY5I94fR0) | 3:57 | 2022-10-20 | 2022-11-25 |

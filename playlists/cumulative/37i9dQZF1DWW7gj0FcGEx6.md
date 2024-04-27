@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-347 songs - 17 hr 16 min
+349 songs - 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Loki Green Theme](https://open.spotify.com/track/5T7DUEeAj0hkMLTzIlDCRz) | [Natalie Holt](https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ) | [Loki: Vol\. 1 \(Episodes 1\-3\) \[Original Soundtrack\]](https://open.spotify.com/album/5Wc11R3nufO8ZAFFhvBGEe) | 2:24 | 2021-12-20 |  |
 | [Love Is Not Enough](https://open.spotify.com/track/7wEaPRwNN1mrDrnqZZoQ3M) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Son \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7fKZaTDLIJHlyT0yiNk2PY) | 3:21 | 2022-11-18 |  |
 | [Lovers](https://open.spotify.com/track/6fQDa0Wh4niERIF1svm3Zv) | [Isabella Summers](https://open.spotify.com/artist/3lXo0AHcUyMiTt1VCtXJmj) | [Lady Chatterley's Lover \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4RGyDHjrEYtXMRwqKBvpgy) | 1:48 | 2022-11-25 |  |
+| [Lullaby Of Gleann Cholm Cille](https://open.spotify.com/track/5kAVKLyaH0zPbdWkxKgxUm) | [Diego Baldenweg](https://open.spotify.com/artist/2wIX7e2hlnPy3MKS6XQoS4), [Nora Baldenweg](https://open.spotify.com/artist/69WeItmWpdJ6BX8vV0bfb1), [Lionel Baldenweg](https://open.spotify.com/artist/7c1m5FGnmNE7PKqqtrF1H0) | [In the Land of Saints and Sinners \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5EcCMPsfEdy28fDpVNZ6v6) | 2:28 | 2024-04-26 |  |
 | [Luther's Theme](https://open.spotify.com/track/7DPuAbyLW2zgtEyC5pHufG) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [Luther: The Fallen Sun \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1uSLtpDg49OkNRSYihJl04) | 2:29 | 2023-03-03 |  |
 | [Main Titles](https://open.spotify.com/track/0HY36x94MbEBf0ZNw0eHsP) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Doctor Strange in the Multiverse of Madness \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QDzfMs8x9fkS8vYOKnhfM) | 2:36 | 2022-07-22 | 2024-04-19 |
 | [Main Titles](https://open.spotify.com/track/5BRpHMeMmznGplORyurX5n) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Doctor Strange in the Multiverse of Madness \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0tcFS2LRXYloWu9Z4Iyrni) | 2:36 | 2022-05-06 |  |
@@ -167,6 +168,7 @@
 | [Maps](https://open.spotify.com/track/5arnqM3mLtyOpdqDrbavQb) | [Nick Lloyd Webber](https://open.spotify.com/artist/3r0kvjF0xGitqk9azZVB35) | [The Last Bus \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/231VrH3cg7DOmHpLB2AlGx) | 1:48 | 2022-05-27 |  |
 | [Marital Dance](https://open.spotify.com/track/10DKh4aJ2sPPOVZnBwjruG) | [Evgueni Galperine](https://open.spotify.com/artist/6wUwrf6CPtVdxhMX8TejqM), [Sacha Galperine](https://open.spotify.com/artist/4rhbbNkUATyvGiYxGMmx7H) | [Scenes from a Marriage \(Soundtrack from the HBO® Original Limited Series\)](https://open.spotify.com/album/5SG4qxHwgSHsIQHF045MjC) | 2:10 | 2021-12-20 | 2022-07-09 |
 | [Maya’s Adoption Party](https://open.spotify.com/track/1QQGVmtL3AC8ECUWDNDOIH) | [Starr Parodi](https://open.spotify.com/artist/4wMTcGiDCOJ5XkpbeyMU3m), [Jeff Eden Fair](https://open.spotify.com/artist/05BkDv6lrBLduTzqJABTqB) | [The Storied Life of A.J\. Fikry \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ewjDDOWk0vXaUiJjIkjun) | 2:21 | 2022-12-09 |  |
+| [Meet Ambar](https://open.spotify.com/track/1bp2n1h1zPMrer1nCtuRJa) | [Nitin Sawhney](https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ) | [Disneynature: Tiger \(Original Soundtrack\)](https://open.spotify.com/album/7f3FKboh4pUWBHWytsBgiT) | 1:19 | 2024-04-26 |  |
 | [Meeting Ruth](https://open.spotify.com/track/6mKHm67aAI4azpDooIf3qO) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Andrew Wyatt](https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm), [Molly Lewis](https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt) | [Barbie \(Score from the Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zaVq7C2Fb9ydqg1SU9qFy) | 2:22 | 2023-10-13 |  |
 | [Memory Is A Voyager](https://open.spotify.com/track/6p5OZvP8NGfKSjdqr5o3g8) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Spaceman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1hdVK33BZMAAtFM428XGqr) | 2:56 | 2024-03-01 |  |
 | [Mercy \- from "The Hunger Games: The Ballad of Songbirds and Snakes" Score](https://open.spotify.com/track/3oMawK9eqpd5Ln59b8tr4E) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Hunger Games: The Ballad of Songbirds and Snakes \(Original Motion Picture Score\)](https://open.spotify.com/album/6L0YVSVuw4BD3UX3fhl8et) | 2:21 | 2023-11-24 | 2024-04-19 |

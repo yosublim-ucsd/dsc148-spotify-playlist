@@ -4,7 +4,7 @@
 
 > Anne Wilson is taking over Country by the Grace of God to celebrate the release of her new album REBEL!
 
-238 songs - 14 hr 37 min
+239 songs - 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [Where I Find God](https://open.spotify.com/track/6eQePEKwbt1y9CkCE6faYi) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw) | [Where I Find God](https://open.spotify.com/album/26pbiUILSs4FA7boHlB3QY) | 4:09 | 2021-12-10 |  |
 | [Where I Find God](https://open.spotify.com/track/6jhLdxpo93lXFaJwX7znaa) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw) | [Stack of Records](https://open.spotify.com/album/7AzZB0UHZtWu7Ya8yQN3iW) | 4:09 | 2022-07-15 | 2024-04-19 |
 | [Whites Creek](https://open.spotify.com/track/4rWQo8QRfK24fOzg0rEwRF) | [The Dryes](https://open.spotify.com/artist/0npnqS0C9n5uuuBQC4oEWE) | [Whites Creek](https://open.spotify.com/album/12GOHDbrW1upZa3bZcwZjX) | 3:34 | 2021-12-10 |  |
+| [Who I Thought You Were](https://open.spotify.com/track/4rZcvYqEpH8574xbJns0Jn) | [Olivia Lane](https://open.spotify.com/artist/3Og5as5vV5n1iTR5iaNNZ6) | [Who I Thought You Were](https://open.spotify.com/album/5ixliO2ILZ6KxGnsGaGTDd) | 3:27 | 2024-04-26 |  |
 | [Who You Are](https://open.spotify.com/track/6AbFsKUHKy3ua32eZmA1wv) | [The Swon Brothers](https://open.spotify.com/artist/1nf0nRF0W4ybnJdda00pKY), [Emily Ann Roberts](https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8) | [Who You Are](https://open.spotify.com/album/4765xGMEoI3u2OOrNtNqQx) | 3:22 | 2022-02-25 |  |
 | [Who You Are To Me \(feat\. Lady A\)](https://open.spotify.com/track/46JqDjp4BMbLQrTOUHdspO) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Who You Are To Me \(feat\. Lady A\)](https://open.spotify.com/album/1cgi25XjeIHOHs2dldAnYN) | 3:50 | 2021-12-10 |  |
 | [Windows Down](https://open.spotify.com/track/1vdgp5ZORTZcRo71q5YEun) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Windows Down](https://open.spotify.com/album/4qrjkg2frqyyHsVX23agvz) | 3:55 | 2023-07-21 |  |

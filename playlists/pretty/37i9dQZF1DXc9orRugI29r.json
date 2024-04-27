@@ -1,13 +1,33 @@
 {
   "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 LAS CANCIONES M\u00c1S \ud83d\udd25\ud83d\udd25\ud83d\udd25",
-  "num_followers": 421994,
-  "original_name": "HOT NOW - Bellakath & Ms Nina",
+  "num_followers": 422028,
+  "original_name": "HOT NOW - Anitta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDA5MTY1NywwMDAwMDAwMDBmZTI5MDE3ZTRmYjRlMTA0Yzk0ZGVhZWY0YjE1MDkz",
+  "snapshot_id": "MTcxNDEwNDAwMCwwMDAwMDAwMDllZTE5NmQ2NDRlMzBlMmMyYThjY2E1ZmQzMmZjMjMz",
   "tracks": [
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Funk Generation",
+        "url": "https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 157838,
+      "name": "Ahi",
+      "url": "https://open.spotify.com/track/5rVy4OrfXilu9iQE423JO0"
+    },
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
@@ -949,6 +969,6 @@
       "url": "https://open.spotify.com/track/0SURLSvwJxHyNRCXyZjNS3"
     }
   ],
-  "unique_name": "HOT NOW - Bellakath & Ms Nina",
+  "unique_name": "HOT NOW - Anitta",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXc9orRugI29r"
 }

@@ -1,5 +1,5 @@
 {
-  "2024-04-26": 237630,
+  "2024-04-27": 237548,
   "date_first_scraped": "2022-03-22",
   "description": "Disfruta esta fina selecci\u00f3n de los mejores Tangos argentinos.",
   "name": "Tangos y Milongas",
@@ -1354,6 +1354,24 @@
     },
     {
       "album": {
+        "name": "La noche ha ca\u00eddo",
+        "url": "https://open.spotify.com/album/0miT8Ozcj2HXC5QSTDuoVP"
+      },
+      "artists": [
+        {
+          "name": "Julieta Laso",
+          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250615,
+      "name": "La noche ha ca\u00eddo",
+      "url": "https://open.spotify.com/track/6pDFqwzICSf2mUxhgPFNNa"
+    },
+    {
+      "album": {
         "name": "Conexion Piazzolla Ferrer",
         "url": "https://open.spotify.com/album/6oEMkRwv8leVRbPCP7zWtc"
       },
@@ -1529,7 +1547,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 227426,
       "name": "Luna de Abril",
       "url": "https://open.spotify.com/track/4WCTuomZXV97hsRqSkjPeF"

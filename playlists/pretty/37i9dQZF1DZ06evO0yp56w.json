@@ -1,12 +1,12 @@
 {
-  "description": "This is Muse. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 768407,
+  "description": "This Is Muse. Los temas esenciales, todos en una lista.",
+  "num_followers": 768472,
   "original_name": "This Is Muse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzkxNjgwMCwwMDAwMDAwMGVhODBmZjA5N2JmODdiNGU4ODQ1MjIxOWRlMTc4ODgz",
+  "snapshot_id": "MTcxNDAwMzIwMCwwMDAwMDAwMDViNWM2YzhiYzVjZmRiNTU5MTY4NzdiOGUwMjAyZjFm",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Absolution",
-        "url": "https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 302505,
-      "name": "Butterflies & Hurricanes",
-      "url": "https://open.spotify.com/track/5XpJOQgVEuM1FzgeGXzUvk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Showbiz",
         "url": "https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 262973,
       "name": "Muscle Museum",
       "url": "https://open.spotify.com/track/5rupf5kRDLhhFPxH15ZmBF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Absolution",
+        "url": "https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 302505,
+      "name": "Butterflies & Hurricanes",
+      "url": "https://open.spotify.com/track/5XpJOQgVEuM1FzgeGXzUvk"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Will Of The People",
-        "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 217034,
-      "name": "Ghosts (How Can I Move On)",
-      "url": "https://open.spotify.com/track/0C5U4go8KKWHmAipujRH6I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black Holes and Revelations",
         "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 233266,
       "name": "Exo-Politics",
       "url": "https://open.spotify.com/track/20vZII9Yu52czI9Fk4p39r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Will Of The People",
+        "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 217034,
+      "name": "Ghosts (How Can I Move On)",
+      "url": "https://open.spotify.com/track/0C5U4go8KKWHmAipujRH6I"
     },
     {
       "added_at": null,

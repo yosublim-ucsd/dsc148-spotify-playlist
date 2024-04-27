@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: SOAPBOX
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,635 likes - 184 songs - 9 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,622 likes - 184 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

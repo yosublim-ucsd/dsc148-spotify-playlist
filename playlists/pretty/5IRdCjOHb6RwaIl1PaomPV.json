@@ -1,13 +1,37 @@
 {
-  "description": "The latest tracks from Mad Decent and friends. New music from Snow Strippers plus the latest cuts from Omar Souleyman, DJ_Dave and more.",
-  "num_followers": 50750,
+  "description": "The latest tracks from Mad Decent and friends. New music from Kito &amp; Chrome Sparks, plus the latest cuts from Snow Strippers, evilgiane, and more.",
+  "num_followers": 50738,
   "original_name": "Mad Decent Weekly",
   "owner": {
     "name": "Mad Decent",
     "url": "https://open.spotify.com/user/maddecent"
   },
-  "snapshot_id": "NjM5Myw3ZGU1ZDVhNDExNTM3MjY5ZDlhOTNhMTQzY2RjMDAxMjIxMzVjYzJj",
+  "snapshot_id": "NjQ2NixhNDZlMDk0MjNhZTkxODEyZDUzMjY5OWQ1MzU5YzgwZDY2NzhlZTUz",
   "tracks": [
+    {
+      "added_at": "2024-04-26 18:14:38",
+      "album": {
+        "name": "Lights On",
+        "url": "https://open.spotify.com/album/4xKCgxgUabmRdqbbfEHutp"
+      },
+      "artists": [
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        },
+        {
+          "name": "Chrome Sparks",
+          "url": "https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM"
+        },
+        {
+          "name": "IS U IS U",
+          "url": "https://open.spotify.com/artist/6zH8urr3XDDM0rZpLRtxRX"
+        }
+      ],
+      "duration_ms": 219515,
+      "name": "Lights On",
+      "url": "https://open.spotify.com/track/3vaicHsditfwRXvezuFB3S"
+    },
     {
       "added_at": "2024-04-25 22:53:02",
       "album": {
@@ -27,8 +51,68 @@
     {
       "added_at": "2024-04-25 22:53:02",
       "album": {
-        "name": "Wild n Sweet (Paul Woolford's Special Request Mix)",
-        "url": "https://open.spotify.com/album/2Nn1QjEoj0RleN2mKJV8m6"
+        "name": "MYCELiUM (UTOPIA Remixes)",
+        "url": "https://open.spotify.com/album/2oqCKGQTfy3ft0UGzpuzRg"
+      },
+      "artists": [
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        },
+        {
+          "name": "p-rallel",
+          "url": "https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD"
+        }
+      ],
+      "duration_ms": 183007,
+      "name": "Mine O' Mine - P-rallel Remix",
+      "url": "https://open.spotify.com/track/4f77scAPi1HX6OBeXkdBl9"
+    },
+    {
+      "added_at": "2024-04-26 18:14:02",
+      "album": {
+        "name": "DESIGNER DRUGZ",
+        "url": "https://open.spotify.com/album/3lGNVpMKKhqy9ogg5L4uRX"
+      },
+      "artists": [
+        {
+          "name": "evilgiane",
+          "url": "https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV"
+        },
+        {
+          "name": "Slimesito",
+          "url": "https://open.spotify.com/artist/1fqzcp3dzZD1YGQ2RT5pYs"
+        }
+      ],
+      "duration_ms": 143353,
+      "name": "DESIGNER DRUGZ",
+      "url": "https://open.spotify.com/track/06JXQfPKLhTAQNpCLCLJXC"
+    },
+    {
+      "added_at": "2024-04-25 22:53:02",
+      "album": {
+        "name": "Pretender",
+        "url": "https://open.spotify.com/album/7B79vUpu3jvPlRcP9n7RKm"
+      },
+      "artists": [
+        {
+          "name": "Bennett Coast",
+          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
+        }
+      ],
+      "duration_ms": 177104,
+      "name": "Pretender",
+      "url": "https://open.spotify.com/track/2qIc2lDtHJte4EpEx7nKXn"
+    },
+    {
+      "added_at": "2024-04-26 18:21:32",
+      "album": {
+        "name": "Jam City Presents EFM (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/15moYugx2ORv9pIOYnJ0yE"
       },
       "artists": [
         {
@@ -36,17 +120,73 @@
           "url": "https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3"
         },
         {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+          "name": "Clara La San",
+          "url": "https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj"
         },
         {
-          "name": "Paul Woolford",
-          "url": "https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV"
+          "name": "Aidan",
+          "url": "https://open.spotify.com/artist/6C8vPirDpnA5E9PUfn4RaW"
         }
       ],
-      "duration_ms": 260941,
-      "name": "Wild n Sweet - Paul Woolford's Special Request Mix",
-      "url": "https://open.spotify.com/track/7InnYgaoJvjo4CP06vgoR0"
+      "duration_ms": 212745,
+      "name": "Touch Me - B Roll Mix",
+      "url": "https://open.spotify.com/track/6GF5IvnyvZiHchFf6haVOs"
+    },
+    {
+      "added_at": "2024-04-26 18:14:20",
+      "album": {
+        "name": "MELT",
+        "url": "https://open.spotify.com/album/79cm02qHGjVP793EGrAT8d"
+      },
+      "artists": [
+        {
+          "name": "Miss Madeline",
+          "url": "https://open.spotify.com/artist/697XzB9DackcbNfKz4Ry7v"
+        }
+      ],
+      "duration_ms": 154960,
+      "name": "MELT",
+      "url": "https://open.spotify.com/track/6C5gfzJAp4l4ClMyss5lTY"
+    },
+    {
+      "added_at": "2024-04-26 18:20:21",
+      "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/2pXo4k3f6Za6rFrpF7B5sI"
+      },
+      "artists": [
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        },
+        {
+          "name": "Chrome Sparks",
+          "url": "https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM"
+        },
+        {
+          "name": "IS U IS U",
+          "url": "https://open.spotify.com/artist/6zH8urr3XDDM0rZpLRtxRX"
+        }
+      ],
+      "duration_ms": 178746,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/3fA1ftCkI0rwc2fz09ae29"
+    },
+    {
+      "added_at": "2024-04-25 22:53:02",
+      "album": {
+        "name": "Rahat Al Chant Ymme",
+        "url": "https://open.spotify.com/album/5h3JKxrpvcQs3BbPM1sAUF"
+      },
+      "artists": [
+        {
+          "name": "Omar Souleyman",
+          "url": "https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK"
+        }
+      ],
+      "duration_ms": 319066,
+      "name": "Rahat Al Chant Ymme",
+      "url": "https://open.spotify.com/track/5da9mhqPimauZM5WwnEwzP"
     },
     {
       "added_at": "2024-04-25 22:53:02",
@@ -91,18 +231,26 @@
     {
       "added_at": "2024-04-25 22:53:02",
       "album": {
-        "name": "Pretender",
-        "url": "https://open.spotify.com/album/7B79vUpu3jvPlRcP9n7RKm"
+        "name": "Stay High",
+        "url": "https://open.spotify.com/album/3E3JRB0gGzHuc56GB3hUPJ"
       },
       "artists": [
         {
-          "name": "Bennett Coast",
-          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
         }
       ],
-      "duration_ms": 177104,
-      "name": "Pretender",
-      "url": "https://open.spotify.com/track/2qIc2lDtHJte4EpEx7nKXn"
+      "duration_ms": 188320,
+      "name": "Stay High",
+      "url": "https://open.spotify.com/track/7LXimIqTYO76Utly8VFABu"
     },
     {
       "added_at": "2024-04-25 22:53:02",
@@ -123,38 +271,6 @@
     {
       "added_at": "2024-04-25 22:53:02",
       "album": {
-        "name": "Von dutch",
-        "url": "https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 164284,
-      "name": "Von dutch",
-      "url": "https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "Rahat Al Chant Ymme",
-        "url": "https://open.spotify.com/album/5h3JKxrpvcQs3BbPM1sAUF"
-      },
-      "artists": [
-        {
-          "name": "Omar Souleyman",
-          "url": "https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK"
-        }
-      ],
-      "duration_ms": 319066,
-      "name": "Rahat Al Chant Ymme",
-      "url": "https://open.spotify.com/track/5da9mhqPimauZM5WwnEwzP"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
         "name": "Affect / Neverend",
         "url": "https://open.spotify.com/album/4JDRioCPrW1ZxHmAI9tvxX"
       },
@@ -169,36 +285,72 @@
       "url": "https://open.spotify.com/track/5mz455lNi6jtxtfDszs6Gr"
     },
     {
-      "added_at": "2024-04-25 22:53:02",
+      "added_at": "2024-04-26 18:14:55",
       "album": {
-        "name": "Slug",
-        "url": "https://open.spotify.com/album/1KtfoFXpZEzixT8iPzCmmK"
+        "name": "JaJaJa",
+        "url": "https://open.spotify.com/album/39kaEp4VG6LaV4l6q2ZMvF"
       },
       "artists": [
         {
-          "name": "Matt Champion",
-          "url": "https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm"
+          "name": "SoFTT",
+          "url": "https://open.spotify.com/artist/2gpYstJ2WNS3mNwzuyPOB2"
         }
       ],
-      "duration_ms": 180906,
-      "name": "Slug",
-      "url": "https://open.spotify.com/track/0BnQ1jQWb6Th7e0jMQhB3F"
+      "duration_ms": 164050,
+      "name": "JaJaJa",
+      "url": "https://open.spotify.com/track/5YXkLwZyPzf5D9YlG0L5NM"
+    },
+    {
+      "added_at": "2024-04-26 18:15:17",
+      "album": {
+        "name": "Nausia",
+        "url": "https://open.spotify.com/album/7H1NAUGAZQxEjWfIvgfXAB"
+      },
+      "artists": [
+        {
+          "name": "Delachute",
+          "url": "https://open.spotify.com/artist/63xoDp7jjgyzogVPxmVgjX"
+        }
+      ],
+      "duration_ms": 112094,
+      "name": "Nausia",
+      "url": "https://open.spotify.com/track/7i1YeplaiVwQ5YNgB2wCp0"
+    },
+    {
+      "added_at": "2024-04-26 18:24:37",
+      "album": {
+        "name": "Hyperdrama",
+        "url": "https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "RIMON",
+          "url": "https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm"
+        }
+      ],
+      "duration_ms": 245560,
+      "name": "Afterimage",
+      "url": "https://open.spotify.com/track/4IsbtqsROVspyi7kzh3Vkx"
     },
     {
       "added_at": "2024-04-25 22:53:02",
       "album": {
-        "name": "Dede",
-        "url": "https://open.spotify.com/album/0bePC9TQQn0AQmnckyTuXd"
+        "name": "Koster",
+        "url": "https://open.spotify.com/album/36shxepZGDqHwetjwYU3et"
       },
       "artists": [
         {
-          "name": "Nora Toure",
-          "url": "https://open.spotify.com/artist/3Mo1ZXmpbD9cckUQTtXiBS"
+          "name": "Soft Blade",
+          "url": "https://open.spotify.com/artist/6LwKCnpeCVffopaYO3pafG"
         }
       ],
-      "duration_ms": 224864,
-      "name": "Dede",
-      "url": "https://open.spotify.com/track/1rYHkSLAn0kcdkpmVeHhxd"
+      "duration_ms": 185882,
+      "name": "Koster",
+      "url": "https://open.spotify.com/track/27hPuZbAnNH0LrtdBiNZsW"
     },
     {
       "added_at": "2024-04-25 22:53:02",
@@ -219,6 +371,50 @@
       "duration_ms": 279170,
       "name": "A Dream Goes On Forever",
       "url": "https://open.spotify.com/track/5OY32VyyPJDPBf2C2RTX9v"
+    },
+    {
+      "added_at": "2024-04-25 22:53:02",
+      "album": {
+        "name": "Wild n Sweet (Paul Woolford's Special Request Mix)",
+        "url": "https://open.spotify.com/album/2Nn1QjEoj0RleN2mKJV8m6"
+      },
+      "artists": [
+        {
+          "name": "Jam City",
+          "url": "https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3"
+        },
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        },
+        {
+          "name": "Paul Woolford",
+          "url": "https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV"
+        }
+      ],
+      "duration_ms": 260941,
+      "name": "Wild n Sweet - Paul Woolford's Special Request Mix",
+      "url": "https://open.spotify.com/track/7InnYgaoJvjo4CP06vgoR0"
+    },
+    {
+      "added_at": "2024-04-26 18:33:24",
+      "album": {
+        "name": "Turn The Page",
+        "url": "https://open.spotify.com/album/3v8EL9UazZlDhvn6mERMoq"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        },
+        {
+          "name": "The Streets",
+          "url": "https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi"
+        }
+      ],
+      "duration_ms": 262454,
+      "name": "Turn The Page",
+      "url": "https://open.spotify.com/track/038YxoOvHJKyFiXhqlVkil"
     },
     {
       "added_at": "2024-04-25 22:53:02",
@@ -253,6 +449,22 @@
       "url": "https://open.spotify.com/track/3r0BqL7tEvkpO0jTRfLswN"
     },
     {
+      "added_at": "2024-04-26 18:33:56",
+      "album": {
+        "name": "PRINCESS POP THAT",
+        "url": "https://open.spotify.com/album/0aMQ5jGWMxqIOB5JjhOU3a"
+      },
+      "artists": [
+        {
+          "name": "Anycia",
+          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
+        }
+      ],
+      "duration_ms": 110440,
+      "name": "TYPE BEAT",
+      "url": "https://open.spotify.com/track/3VVi7ffS2iJYvfGhvzbyqD"
+    },
+    {
       "added_at": "2024-04-25 22:53:02",
       "album": {
         "name": "40",
@@ -269,7 +481,7 @@
         },
         {
           "name": "Nettspend",
-          "url": "https://open.spotify.com/artist/5ipDL3wHWMz5RK3t1bQFLW"
+          "url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
         }
       ],
       "duration_ms": 64614,
@@ -315,6 +527,86 @@
     {
       "added_at": "2024-04-25 22:53:02",
       "album": {
+        "name": "World's Hardest Game",
+        "url": "https://open.spotify.com/album/4860b8aDFA93PRHSPqvAOB"
+      },
+      "artists": [
+        {
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
+        }
+      ],
+      "duration_ms": 208967,
+      "name": "World's Hardest Game",
+      "url": "https://open.spotify.com/track/0a09r51dqD5n8xCEOld1WO"
+    },
+    {
+      "added_at": "2024-04-25 22:53:02",
+      "album": {
+        "name": "Slug",
+        "url": "https://open.spotify.com/album/1KtfoFXpZEzixT8iPzCmmK"
+      },
+      "artists": [
+        {
+          "name": "Matt Champion",
+          "url": "https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm"
+        }
+      ],
+      "duration_ms": 180906,
+      "name": "Slug",
+      "url": "https://open.spotify.com/track/0BnQ1jQWb6Th7e0jMQhB3F"
+    },
+    {
+      "added_at": "2024-04-25 22:53:02",
+      "album": {
+        "name": "Von dutch",
+        "url": "https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 164284,
+      "name": "Von dutch",
+      "url": "https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N"
+    },
+    {
+      "added_at": "2024-04-25 22:53:02",
+      "album": {
+        "name": "For Your Consideration",
+        "url": "https://open.spotify.com/album/2TTsYkEOtnLgcWq469WQ83"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "duration_ms": 180840,
+      "name": "Lorelei",
+      "url": "https://open.spotify.com/track/08fcIMIo6tXMHm0UbqVdvQ"
+    },
+    {
+      "added_at": "2024-04-25 22:53:02",
+      "album": {
+        "name": "Dede",
+        "url": "https://open.spotify.com/album/0bePC9TQQn0AQmnckyTuXd"
+      },
+      "artists": [
+        {
+          "name": "Nora Toure",
+          "url": "https://open.spotify.com/artist/3Mo1ZXmpbD9cckUQTtXiBS"
+        }
+      ],
+      "duration_ms": 224864,
+      "name": "Dede",
+      "url": "https://open.spotify.com/track/1rYHkSLAn0kcdkpmVeHhxd"
+    },
+    {
+      "added_at": "2024-04-25 22:53:02",
+      "album": {
         "name": "One Night/All Night",
         "url": "https://open.spotify.com/album/3ISYaclw23kCz3IZtn7koK"
       },
@@ -331,30 +623,6 @@
       "duration_ms": 276066,
       "name": "One Night/All Night",
       "url": "https://open.spotify.com/track/7sjuNUjWtSqhbxJ3RAUffm"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "BASIC",
-        "url": "https://open.spotify.com/album/3XdhvcUDDfot4Ap5kUaago"
-      },
-      "artists": [
-        {
-          "name": "evilgiane",
-          "url": "https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV"
-        },
-        {
-          "name": "Anycia",
-          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
-        },
-        {
-          "name": "Robb Bank$",
-          "url": "https://open.spotify.com/artist/7KduBCxhfAMiQlhMOHL3IZ"
-        }
-      ],
-      "duration_ms": 149668,
-      "name": "BASIC",
-      "url": "https://open.spotify.com/track/1ZfBMlcC2dRfS0Hl3bHwRS"
     },
     {
       "added_at": "2024-04-25 22:53:02",
@@ -467,22 +735,6 @@
       "duration_ms": 271733,
       "name": "Crushing",
       "url": "https://open.spotify.com/track/6BPwBHxjmavFAyMrLQgQYd"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "For Your Consideration",
-        "url": "https://open.spotify.com/album/2TTsYkEOtnLgcWq469WQ83"
-      },
-      "artists": [
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        }
-      ],
-      "duration_ms": 180840,
-      "name": "Lorelei",
-      "url": "https://open.spotify.com/track/08fcIMIo6tXMHm0UbqVdvQ"
     },
     {
       "added_at": "2024-04-25 22:53:02",
@@ -643,30 +895,6 @@
     {
       "added_at": "2024-04-25 22:53:02",
       "album": {
-        "name": "Stay High",
-        "url": "https://open.spotify.com/album/3E3JRB0gGzHuc56GB3hUPJ"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
-        }
-      ],
-      "duration_ms": 188320,
-      "name": "Stay High",
-      "url": "https://open.spotify.com/track/7LXimIqTYO76Utly8VFABu"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
         "name": "DnD (feat. Kenny Mason)",
         "url": "https://open.spotify.com/album/3BdMsYnkBajLfajXOTADHQ"
       },
@@ -699,22 +927,6 @@
       "duration_ms": 77000,
       "name": "Rainer",
       "url": "https://open.spotify.com/track/6UEKpBUM9dhgqZ3DFZmgGo"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "Koster",
-        "url": "https://open.spotify.com/album/36shxepZGDqHwetjwYU3et"
-      },
-      "artists": [
-        {
-          "name": "Soft Blade",
-          "url": "https://open.spotify.com/artist/6LwKCnpeCVffopaYO3pafG"
-        }
-      ],
-      "duration_ms": 185882,
-      "name": "Koster",
-      "url": "https://open.spotify.com/track/27hPuZbAnNH0LrtdBiNZsW"
     },
     {
       "added_at": "2024-04-25 22:53:02",
@@ -867,30 +1079,6 @@
     {
       "added_at": "2024-04-25 22:53:02",
       "album": {
-        "name": "MYCELiUM (UTOPIA Remixes)",
-        "url": "https://open.spotify.com/album/2oqCKGQTfy3ft0UGzpuzRg"
-      },
-      "artists": [
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        },
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        },
-        {
-          "name": "p-rallel",
-          "url": "https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD"
-        }
-      ],
-      "duration_ms": 183007,
-      "name": "Mine O' Mine - P-rallel Remix",
-      "url": "https://open.spotify.com/track/4f77scAPi1HX6OBeXkdBl9"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
         "name": "Jam City Presents EFM (Deluxe Edition)",
         "url": "https://open.spotify.com/album/15moYugx2ORv9pIOYnJ0yE"
       },
@@ -941,7 +1129,7 @@
         },
         {
           "name": "Nettspend",
-          "url": "https://open.spotify.com/artist/5ipDL3wHWMz5RK3t1bQFLW"
+          "url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
         },
         {
           "name": "DJ Ess",
@@ -951,22 +1139,6 @@
       "duration_ms": 81658,
       "name": "40 - Dj Ess Mix",
       "url": "https://open.spotify.com/track/1Ik9cfzeFLGzGPr3g6G1jz"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "World's Hardest Game",
-        "url": "https://open.spotify.com/album/4860b8aDFA93PRHSPqvAOB"
-      },
-      "artists": [
-        {
-          "name": "DJ_Dave",
-          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
-        }
-      ],
-      "duration_ms": 208967,
-      "name": "World's Hardest Game",
-      "url": "https://open.spotify.com/track/0a09r51dqD5n8xCEOld1WO"
     },
     {
       "added_at": "2024-04-25 22:53:02",
@@ -1155,22 +1327,6 @@
     {
       "added_at": "2024-04-25 22:53:02",
       "album": {
-        "name": "Europatr\u00e4ume",
-        "url": "https://open.spotify.com/album/5AXd8wp7NNydXNzFAxlXmf"
-      },
-      "artists": [
-        {
-          "name": "Brutalismus 3000",
-          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
-        }
-      ],
-      "duration_ms": 216592,
-      "name": "Europatr\u00e4ume",
-      "url": "https://open.spotify.com/track/0PYX7X0wTBT5WvKzNCWtk2"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
         "name": "Baby Disco",
         "url": "https://open.spotify.com/album/4XnqJQJ1UbufLfCGNPAYHm"
       },
@@ -1183,30 +1339,6 @@
       "duration_ms": 430146,
       "name": "Baby",
       "url": "https://open.spotify.com/track/0t9FJ4OyMVlYXWqDZNFofP"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/5JlAm591nnaRORqr4X5iL7"
-      },
-      "artists": [
-        {
-          "name": "Merry Lamb Lamb",
-          "url": "https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx"
-        },
-        {
-          "name": "Miso Extra",
-          "url": "https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg"
-        },
-        {
-          "name": "aimei \u5a9a",
-          "url": "https://open.spotify.com/artist/2ij6gLxPV2uEuRxDwnyBfZ"
-        }
-      ],
-      "duration_ms": 180480,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/3xVtTUF9m4H8Jn5jUajLUA"
     },
     {
       "added_at": "2024-04-25 22:53:02",
@@ -1339,46 +1471,6 @@
     {
       "added_at": "2024-04-25 22:53:02",
       "album": {
-        "name": "thicc",
-        "url": "https://open.spotify.com/album/7CGatMISsY9SZCJhVsYiT5"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        },
-        {
-          "name": "Cosha",
-          "url": "https://open.spotify.com/artist/5P8FHUS4EuE2FXskLnqkAg"
-        }
-      ],
-      "duration_ms": 222682,
-      "name": "thicc",
-      "url": "https://open.spotify.com/track/3tda2VED1rPj3MmVf3mXTo"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "Cash",
-        "url": "https://open.spotify.com/album/5C7l2U2lJrjLSMg8p13J14"
-      },
-      "artists": [
-        {
-          "name": "Mindchatter",
-          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
-        },
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 162445,
-      "name": "Cash",
-      "url": "https://open.spotify.com/track/3aHiz7IyBKr9vNynIQJykZ"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
         "name": "Exodus",
         "url": "https://open.spotify.com/album/2ZiukKDfRim3Ejy1Cx5nLd"
       },
@@ -1407,22 +1499,6 @@
       "duration_ms": 161493,
       "name": "still can't dress myself",
       "url": "https://open.spotify.com/track/2fSk7pxTJlLwtGVmOFBgi0"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "FEMININE ENERGY",
-        "url": "https://open.spotify.com/album/0YwES4jeWclweRFzUI2WdT"
-      },
-      "artists": [
-        {
-          "name": "COBRAH",
-          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
-        }
-      ],
-      "duration_ms": 171265,
-      "name": "FEMININE ENERGY",
-      "url": "https://open.spotify.com/track/0RwUodOQMZwbJktcNYFq6x"
     },
     {
       "added_at": "2024-04-25 22:53:02",
@@ -1675,26 +1751,6 @@
     {
       "added_at": "2024-04-25 22:53:02",
       "album": {
-        "name": "Heaven knows",
-        "url": "https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        }
-      ],
-      "duration_ms": 124613,
-      "name": "Bury me (feat. Kelela)",
-      "url": "https://open.spotify.com/track/3tPH2C0umk9pjLBMmz0D9M"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
         "name": "CLUBLIFE",
         "url": "https://open.spotify.com/album/4dcDbqwmefq0jaRnhxYlmQ"
       },
@@ -1715,30 +1771,6 @@
     {
       "added_at": "2024-04-25 22:53:02",
       "album": {
-        "name": "SEX IN THE CITY",
-        "url": "https://open.spotify.com/album/4ToUfHh4sPgRBAuA568RHf"
-      },
-      "artists": [
-        {
-          "name": "Ish Couture",
-          "url": "https://open.spotify.com/artist/3z5x1vaClx4sb5jwwukvPm"
-        },
-        {
-          "name": "Violeta Telavia",
-          "url": "https://open.spotify.com/artist/6EXsJdXws39wPqcxfeE2zg"
-        },
-        {
-          "name": "ize",
-          "url": "https://open.spotify.com/artist/6s05D13wgG9fuGUs2dkxdX"
-        }
-      ],
-      "duration_ms": 269142,
-      "name": "SEX IN THE CITY",
-      "url": "https://open.spotify.com/track/79SPl3nT8jpwL4DTWmwtcf"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
         "name": "#HEAVENSGATE VOL. 1",
         "url": "https://open.spotify.com/album/3KvLqvjycoPfH0DTkU9riY"
       },
@@ -1755,42 +1787,6 @@
       "duration_ms": 111692,
       "name": "INFORMANTS",
       "url": "https://open.spotify.com/track/2xeepACHl0MnQfYkI1MVfg"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "Training Season",
-        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 209487,
-      "name": "Training Season",
-      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "Arintintin",
-        "url": "https://open.spotify.com/album/18WiTeK26yzhOpIYSHDA4T"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        },
-        {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
-        }
-      ],
-      "duration_ms": 148525,
-      "name": "Arintintin",
-      "url": "https://open.spotify.com/track/0gExQivfnTQxzD85envbyy"
     },
     {
       "added_at": "2024-04-25 22:53:02",

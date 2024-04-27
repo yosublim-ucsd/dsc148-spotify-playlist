@@ -1,12 +1,12 @@
 {
-  "description": "This is Bob Marley & The Wailers. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 2008289,
+  "description": "This is Bob Marley & The Wailers. The essential tracks, all in one playlist.",
+  "num_followers": 2008230,
   "original_name": "This Is Bob Marley & The Wailers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzkxNjgwMCwwMDAwMDAwMDc4MjUxMjA0MGNmNGE1M2U4ZGRlMzQ3MmMxZWE5ZTI3",
+  "snapshot_id": "MTcxNDAwMzIwMCwwMDAwMDAwMDgwZmFjZTNjNDBlZGFkYmI0ZjcxZmRlOTNhNDgzYWRm",
   "tracks": [
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kaya",
+        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 195733,
+      "name": "Kaya",
+      "url": "https://open.spotify.com/track/2rahWhhubhQMhG6coo7Vu9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kaya - Deluxe Edition",
         "url": "https://open.spotify.com/album/2MnN6FfnhDf4Zk5g0dIAJv"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 327133,
       "name": "Rastaman Live Up",
       "url": "https://open.spotify.com/track/2wFw6mZzzABL9gktquq7I5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Natty Dread",
-        "url": "https://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 310426,
-      "name": "Lively Up Yourself",
-      "url": "https://open.spotify.com/track/2Xr3NXOz1qg5Jddkm8k4fr"
     },
     {
       "added_at": null,

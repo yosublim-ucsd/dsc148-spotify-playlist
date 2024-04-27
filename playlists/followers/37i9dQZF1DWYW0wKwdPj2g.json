@@ -1,5 +1,5 @@
 {
-  "2024-04-26": 4857,
+  "2024-04-27": 4934,
   "date_first_scraped": "2024-03-28",
   "description": "In the mood for live Christian and Gospel music? This is the one. Cover: Dunsin Oyekan",
   "name": "Come Alive",
@@ -1198,6 +1198,32 @@
     },
     {
       "album": {
+        "name": "This Kind God Alujo (Live)",
+        "url": "https://open.spotify.com/album/5Al2abdve5LM6NGstofKB1"
+      },
+      "artists": [
+        {
+          "name": "Samuel Folabi",
+          "url": "https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM"
+        },
+        {
+          "name": "David Kida",
+          "url": "https://open.spotify.com/artist/50cYD84szsuxLcCjTfTDZ7"
+        },
+        {
+          "name": "Ola Samuel",
+          "url": "https://open.spotify.com/artist/0SrrbuWNAn0xj5SIk8TwTm"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244558,
+      "name": "This Kind God Alujo - Live",
+      "url": "https://open.spotify.com/track/02dKUrS82pTtmcPaASGngT"
+    },
+    {
+      "album": {
         "name": "HALLELUJAH LIVE",
         "url": "https://open.spotify.com/album/5xe3knii9RbZzikwkiIqBY"
       },
@@ -1296,6 +1322,28 @@
     },
     {
       "album": {
+        "name": "The Great Commission",
+        "url": "https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        },
+        {
+          "name": "Lawrence Oyor",
+          "url": "https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 808677,
+      "name": "Worthy of My Praise",
+      "url": "https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX"
+    },
+    {
+      "album": {
         "name": "Joyous Celebration 23 - Live at the CTICC Cape Town",
         "url": "https://open.spotify.com/album/4opHAaQZPtP5nMZacYfZtj"
       },
@@ -1365,6 +1413,28 @@
       "duration_ms": 442566,
       "name": "You I Live For - Live at Bliss Experience",
       "url": "https://open.spotify.com/track/2lgTUPSsNM3okBb4mZ7Nx1"
+    },
+    {
+      "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/0Htwdk6mrlZ9CoveGGi3Fw"
+      },
+      "artists": [
+        {
+          "name": "Henry praise",
+          "url": "https://open.spotify.com/artist/1X0clNkDAFGRPTC9F2buZo"
+        },
+        {
+          "name": "Soultunz",
+          "url": "https://open.spotify.com/artist/7LTKmaWNra3U6D3bXUIfH8"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284212,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/6dkpWruWBcvP0G43JYvpdn"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYW0wKwdPj2g"

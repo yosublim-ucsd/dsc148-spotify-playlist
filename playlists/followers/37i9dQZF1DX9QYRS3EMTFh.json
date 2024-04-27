@@ -1,9 +1,27 @@
 {
-  "2024-04-26": 147683,
+  "2024-04-27": 147719,
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : P.L.L",
+  "description": "Les hits dancehall du moment. Photo : Jahyanai X DJ Quick",
   "name": "Dancehall Station",
   "tracks": [
+    {
+      "album": {
+        "name": "#Ofcourse",
+        "url": "https://open.spotify.com/album/2CRRoL9ytm1OHo886HJLPj"
+      },
+      "artists": [
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199024,
+      "name": "#Ofcourse",
+      "url": "https://open.spotify.com/track/0Drfj8Up1EMkQIK216sL1a"
+    },
     {
       "album": {
         "name": "10 / 10",
@@ -1636,6 +1654,28 @@
     },
     {
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/3A2wJyEUBdgwWAN6Bn1Xpi"
+      },
+      "artists": [
+        {
+          "name": "Dj Quick",
+          "url": "https://open.spotify.com/artist/4tjoob53d4b26AjGJ49kuF"
+        },
+        {
+          "name": "Jahyanai",
+          "url": "https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172171,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/14KVzyw4gFhIv6r43dYHbt"
+    },
+    {
+      "album": {
         "name": "Ozoror",
         "url": "https://open.spotify.com/album/6OPqZboiTNSYCKd3fSiSLX"
       },
@@ -2949,7 +2989,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 184000,
       "name": "Happy Birthday",
       "url": "https://open.spotify.com/track/0nlERwr8m4Ks1RYYuTVm0C"
@@ -3683,7 +3723,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 150220,
       "name": "JUS",
       "url": "https://open.spotify.com/track/2Kt4ULa9FC5tC4azqF97uD"
@@ -4564,6 +4604,28 @@
     },
     {
       "album": {
+        "name": "Minimum",
+        "url": "https://open.spotify.com/album/3cgzvN00LkYhzufUpDjIA6"
+      },
+      "artists": [
+        {
+          "name": "Dj Leska",
+          "url": "https://open.spotify.com/artist/6CSKMBCeQhddsPL63zvDhX"
+        },
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150071,
+      "name": "Minimum",
+      "url": "https://open.spotify.com/track/57Z4G1fZ5GDEbmhrQFQWRA"
+    },
+    {
+      "album": {
         "name": "MIROIR",
         "url": "https://open.spotify.com/album/4ayag4LJC9EJEmxdybgFp1"
       },
@@ -5193,6 +5255,28 @@
       "duration_ms": 174351,
       "name": "One Life",
       "url": "https://open.spotify.com/track/2H88Kxs8ckt4vFXUDsIsrf"
+    },
+    {
+      "album": {
+        "name": "OUI",
+        "url": "https://open.spotify.com/album/2NNhNedwy4JOkWbqDb7GyL"
+      },
+      "artists": [
+        {
+          "name": "JmaX",
+          "url": "https://open.spotify.com/artist/1bUDh0j68XndR1nE47FjJV"
+        },
+        {
+          "name": "DJ Digital",
+          "url": "https://open.spotify.com/artist/66aQVAZJUg9c4ZNOQaxjvN"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128356,
+      "name": "OUI",
+      "url": "https://open.spotify.com/track/6WhZGghWPRhrgS1gdfCvoP"
     },
     {
       "album": {
@@ -6063,7 +6147,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 147228,
       "name": "Riv\u00e9 an Kay l\u00e0",
       "url": "https://open.spotify.com/track/5JA77FsM3lDZoqgeg5kG8r"
@@ -6239,7 +6323,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 143414,
       "name": "san vou",
       "url": "https://open.spotify.com/track/0BAt71mdZWvonzQmHjE5HS"

@@ -2,9 +2,9 @@
 
 ### [Small Chops ](https://open.spotify.com/playlist/37i9dQZF1DX18jYOKSXaB2)
 
-> consider this an RSVP to littest wedding parties
+> Songs fit for an African wedding
 
-113 songs - 5 hr 53 min
+114 songs - 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Colors \(My Baby\)](https://open.spotify.com/track/0lTUcfkmtQPp6mhjC6EBPq) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Colors \(My Baby\) / Loyal](https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B) | 2:44 | 2023-03-24 |  |
 | [Come and See My Moda](https://open.spotify.com/track/3nhUUcq9YDF5FgMlaZ6jCv) | [MzVee](https://open.spotify.com/artist/5KaayuYfGzUkFP7PfrwVu9), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Come and See My Moda](https://open.spotify.com/album/36ayAOmHgXYzJEKhXVwZcu) | 3:40 | 2024-02-02 | 2024-03-15 |
 | [Come and See My Moda \(feat\. Yemi Alade\)](https://open.spotify.com/track/5W4iLxBJknbKAjNAUSH2L5) | [MzVee](https://open.spotify.com/artist/5KaayuYfGzUkFP7PfrwVu9), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Come and See My Moda \(feat\. Yemi Alade\)](https://open.spotify.com/album/6SHyTplp5zoiYCtmCjCSSi) | 3:40 | 2022-02-11 | 2024-02-04 |
-| [Confirmation \(feat\. Iyanya\)](https://open.spotify.com/track/3ctflWaoyphfupV0M5ATVS) | [Yo Maps](https://open.spotify.com/artist/6ctMiUYEAd4cy0CaH355Hk), [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h) | [Confirmation \(feat\. Iyanya\)](https://open.spotify.com/album/6EE9T34Fn575k7ydCe1CgG) | 3:17 | 2024-04-19 |  |
+| [Confirmation \(feat\. Iyanya\)](https://open.spotify.com/track/3ctflWaoyphfupV0M5ATVS) | [Yo Maps](https://open.spotify.com/artist/6ctMiUYEAd4cy0CaH355Hk), [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h) | [Confirmation \(feat\. Iyanya\)](https://open.spotify.com/album/6EE9T34Fn575k7ydCe1CgG) | 3:17 | 2024-04-19 | 2024-04-27 |
 | [Daberechi](https://open.spotify.com/track/1crExoYD5sOsGOr1CLkYND) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [African Royalty](https://open.spotify.com/album/2bh6NRrRmiKVSST5ia5JpK) | 2:24 | 2023-12-01 |  |
 | [Dollar On You](https://open.spotify.com/track/6ftfTiJhWNZskedEv5ZYM0) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Dollar On You](https://open.spotify.com/album/2eZBiiR0ojio53AhwS3JPF) | 3:09 | 2022-02-11 | 2022-11-25 |
 | [Duro](https://open.spotify.com/track/4t59zVbRoCgnvyQ9hM3xP1) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Duro](https://open.spotify.com/album/6CIcLjMo4Wjnj2zp6dQSTH) | 3:32 | 2022-02-11 | 2022-10-15 |
@@ -53,6 +53,7 @@
 | [Gyal Like You](https://open.spotify.com/track/3GaNUHY0Mcjygfrwto7afl) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Kizz Daniel](https://open.spotify.com/artist/627kAlU9VnbfhMjyUvhqxU) | [WORLD BEST](https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY) | 3:12 | 2023-09-09 | 2023-10-27 |
 | [Hard to Find](https://open.spotify.com/track/2DEfBwqL5U7OP3UFKQJ0cq) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Hard to Find](https://open.spotify.com/album/5OgLCYPqsqVdwlGEijUEpQ) | 3:08 | 2022-07-14 |  |
 | [Heaven](https://open.spotify.com/track/2sRdEMg7VOFVkmL8KSPC2g) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S) | [Heaven](https://open.spotify.com/album/0iDVxjbymqT0aOno6Vkg4x) | 2:26 | 2022-10-21 | 2023-03-25 |
+| [I Choose You \- Remix](https://open.spotify.com/track/1AoppA6yMI5VC4Jz2kkfm0) | [Elisha k](https://open.spotify.com/artist/1Cu21RygYgMEO6uS7yXQTM), [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [I Choose You \(Remix\)](https://open.spotify.com/album/79F1PpGsFNcVeiaGcuJTQL) | 2:56 | 2024-04-26 |  |
 | [I'll Be There](https://open.spotify.com/track/4b8ae3a3l1vfpEumO8ijcS) | [Asi Renie](https://open.spotify.com/artist/6LN0wKo0KuF6TBgwn0hvja) | [I'll Be There](https://open.spotify.com/album/62vCC7b3Jgv7gc1gKnQ1ci) | 2:59 | 2022-10-07 | 2023-10-27 |
 | [I'm In Love](https://open.spotify.com/track/2KCwCQXuB5fwbPIAypOcSz) | [Martins Hero](https://open.spotify.com/artist/2LK4plhUGGZuuRTEcWzemM) | [I'm In Love](https://open.spotify.com/album/5KPvOmg8ZOeFUyNwnaS9Vv) | 3:27 | 2024-02-09 | 2024-03-01 |
 | [If](https://open.spotify.com/track/0XQuWhRG7qD7OYHKsgt0BN) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [If](https://open.spotify.com/album/1N4On17z3onc2NH2XgHdLx) | 3:57 | 2022-02-11 |  |

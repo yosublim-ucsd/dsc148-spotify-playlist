@@ -1,12 +1,12 @@
 {
   "description": "Keep your finger on the pulse of Americana. Cover: Marcus King",
-  "num_followers": 605536,
+  "num_followers": 605365,
   "original_name": "The Pulse of Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ5OTIwMCwwMDAwMDAwMGQ2YzM2ZmJhNWIzZDg1NDRmMWEwMzcxNzU3NDUxM2Rl",
+  "snapshot_id": "MTcxNDEwNDAwMCwwMDAwMDAwMDg0NzQ1YzViZmI3NTJmYTI3NDZiNzViZDY4YzcxYWE2",
   "tracks": [
     {
       "added_at": "2024-04-05 04:00:00",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/6QXhBSDthWBH7e6uQjfWFn"
     },
     {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "$10 Cowboy",
+        "url": "https://open.spotify.com/album/29H8rVCQG9uXLiT9hlH5za"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 203295,
+      "name": "America",
+      "url": "https://open.spotify.com/track/63LVOsdT7bB52kCzNLsEPn"
+    },
+    {
       "added_at": "2024-04-12 04:00:00",
       "album": {
         "name": "Yearnin\u2019 For You",
@@ -55,22 +71,6 @@
       "duration_ms": 215280,
       "name": "Yearnin\u2019 For You",
       "url": "https://open.spotify.com/track/3bBWNi61k8Re8QQ01LtcIC"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Half Life",
-        "url": "https://open.spotify.com/album/51JYG8XPpVVVA7uQTnm4tI"
-      },
-      "artists": [
-        {
-          "name": "Wyatt Flores",
-          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
-        }
-      ],
-      "duration_ms": 210639,
-      "name": "Running Out Of Time",
-      "url": "https://open.spotify.com/track/4qIdRNZsrZ0HHPq73AWGQW"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -89,6 +89,22 @@
       "url": "https://open.spotify.com/track/3XSAuizXkxeam6N8eJwGVh"
     },
     {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Half Life",
+        "url": "https://open.spotify.com/album/51JYG8XPpVVVA7uQTnm4tI"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+        }
+      ],
+      "duration_ms": 210639,
+      "name": "Running Out Of Time",
+      "url": "https://open.spotify.com/track/4qIdRNZsrZ0HHPq73AWGQW"
+    },
+    {
       "added_at": "2024-04-05 04:00:00",
       "album": {
         "name": "Country Kid",
@@ -103,22 +119,6 @@
       "duration_ms": 213120,
       "name": "Country Kid",
       "url": "https://open.spotify.com/track/0qHRw28w5WnjVgaLp6bAlX"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Solitary Road",
-        "url": "https://open.spotify.com/album/4wHGvE8T3rOrUeUuY9iPoM"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 211326,
-      "name": "Solitary Road",
-      "url": "https://open.spotify.com/track/2nRcwYvF3RPx0rXTmRGHyc"
     },
     {
       "added_at": "2024-04-19 04:00:00",

@@ -1773,6 +1773,36 @@
     },
     {
       "album": {
+        "name": "Fading (feat. 9B49)",
+        "url": "https://open.spotify.com/album/1Rr1Qb1YdlxU7zTUS0OK2k"
+      },
+      "artists": [
+        {
+          "name": "Wurme",
+          "url": "https://open.spotify.com/artist/3rOSH7IovBDpCELYQq4gSJ"
+        },
+        {
+          "name": "GONE ASTRAY",
+          "url": "https://open.spotify.com/artist/4xTIYqGN4btKj8WRWTyfTA"
+        },
+        {
+          "name": "KELIZA",
+          "url": "https://open.spotify.com/artist/30lY0f2CYHFHHKPn4PsRrs"
+        },
+        {
+          "name": "9B49",
+          "url": "https://open.spotify.com/artist/0UFbEkC10vY6QJ9ytN4dg4"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "Fading (feat. 9B49)",
+      "url": "https://open.spotify.com/track/1VltgJeA6D3x4Lyiki5MwW"
+    },
+    {
+      "album": {
         "name": "Fallout (feat. L\u00daTHIEN)",
         "url": "https://open.spotify.com/album/4WwmyhFwXRrP65YpxyWQRT"
       },
@@ -4954,6 +4984,24 @@
       "duration_ms": 198400,
       "name": "Step Back",
       "url": "https://open.spotify.com/track/0oHEiGSJjfLROTq55TEoFl"
+    },
+    {
+      "album": {
+        "name": "Step Up",
+        "url": "https://open.spotify.com/album/7rI8rCntoLZDxoupnN6R9H"
+      },
+      "artists": [
+        {
+          "name": "Riggi & Piros",
+          "url": "https://open.spotify.com/artist/2paaWadjhhY3shymyR5TcH"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110476,
+      "name": "Step Up",
+      "url": "https://open.spotify.com/track/74K4Ki8ppT9o90QW2B84BK"
     },
     {
       "album": {

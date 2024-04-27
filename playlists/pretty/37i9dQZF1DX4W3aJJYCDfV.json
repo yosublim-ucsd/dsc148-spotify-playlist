@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Ezra Collective (pictured), Teddy Swims, Mabel and more!",
-  "num_followers": 849298,
+  "num_followers": 849352,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDA4NjAwMCwwMDAwMDAwMDc4NWI4NzdiZDQ2MDQ0NmE4ZTkxYjEyMDQ1MWY1MDUy",
+  "snapshot_id": "MTcxNDEyNTEyNCwwMDAwMDAwMDkwMDJkMTliMzRjOTQ5MDNmOWQ0N2RlZjM1N2EwZTU4",
   "tracks": [
     {
       "added_at": "2024-04-25 23:00:00",
@@ -257,10 +257,10 @@
       "url": "https://open.spotify.com/track/62aSL7D64td5wr09L6iFiV"
     },
     {
-      "added_at": "2024-04-25 23:00:00",
+      "added_at": "2024-04-26 09:52:04",
       "album": {
-        "name": "Hyperdrama",
-        "url": "https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86"
+        "name": "Neverender",
+        "url": "https://open.spotify.com/album/6UGnOHEJZT6AkVXrtgcP0u"
       },
       "artists": [
         {
@@ -268,13 +268,13 @@
           "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
         },
         {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 254346,
-      "name": "The End",
-      "url": "https://open.spotify.com/track/5lhIY0YgH7JhszpQNUC1dm"
+      "duration_ms": 266493,
+      "name": "Neverender",
+      "url": "https://open.spotify.com/track/0ccoGCaOFCxI6pHixrQpKj"
     },
     {
       "added_at": "2024-04-25 23:00:00",
@@ -483,6 +483,26 @@
       "duration_ms": 251894,
       "name": "Sweetness",
       "url": "https://open.spotify.com/track/06XbwFE5HC7qJaF7ihvZDy"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
+        "name": "Funk Generation",
+        "url": "https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 157838,
+      "name": "Ahi",
+      "url": "https://open.spotify.com/track/5rVy4OrfXilu9iQE423JO0"
     },
     {
       "added_at": "2024-04-25 23:00:00",
@@ -1007,6 +1027,30 @@
       "duration_ms": 134693,
       "name": "Cocky Little Kid",
       "url": "https://open.spotify.com/track/16FDQMsiJhgv9jtxay6tMb"
+    },
+    {
+      "added_at": "2024-04-26 09:52:04",
+      "album": {
+        "name": "Back To Back (feat. Future & Southside)",
+        "url": "https://open.spotify.com/album/4nOq0yHDsHVyxBTXjTgKZD"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Southside",
+          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
+        }
+      ],
+      "duration_ms": 185094,
+      "name": "Back To Back (feat. Future & Southside)",
+      "url": "https://open.spotify.com/track/4VS68hFMSdb6adNtXIBGIz"
     },
     {
       "added_at": "2024-04-25 23:00:00",
@@ -1789,10 +1833,10 @@
       "url": "https://open.spotify.com/track/6uMBZtnZTmZOZOPc3xcyvv"
     },
     {
-      "added_at": "2024-04-25 23:00:00",
+      "added_at": "2024-04-26 09:52:04",
       "album": {
-        "name": "God's Country",
-        "url": "https://open.spotify.com/album/4ymxAnpNkFo2spUPzjouAR"
+        "name": "God's Country / Body of Mine",
+        "url": "https://open.spotify.com/album/630TvkzIGIJtmfd04Li7Ql"
       },
       "artists": [
         {
@@ -1800,9 +1844,9 @@
           "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
         }
       ],
-      "duration_ms": 135541,
-      "name": "God's Country",
-      "url": "https://open.spotify.com/track/4UccUaOQ6lU7kAffOVgz1d"
+      "duration_ms": 131161,
+      "name": "Body of Mine",
+      "url": "https://open.spotify.com/track/18DJZuLkgGwKtSDeOMrUsB"
     },
     {
       "added_at": "2024-04-25 23:00:00",
@@ -1814,6 +1858,10 @@
         {
           "name": "Bella Shmurda",
           "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
         }
       ],
       "duration_ms": 162336,
@@ -1875,6 +1923,30 @@
       "duration_ms": 207909,
       "name": "buried alive",
       "url": "https://open.spotify.com/track/2yHcSn169Hjj5UjjLubk8U"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
+        "name": "EXIT 9 (with Blxst and Offset)",
+        "url": "https://open.spotify.com/album/3DAkWjDTQOieiModXxLIUl"
+      },
+      "artists": [
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 210229,
+      "name": "EXIT 9 - with Blxst and Offset",
+      "url": "https://open.spotify.com/track/542Yp18797lywr3zZTG2sC"
     },
     {
       "added_at": "2024-04-25 23:00:00",

@@ -1,13 +1,37 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 379388,
+  "num_followers": 379407,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ5OTI2MCwwMDAwMDAwMDkxYzI2YTc2NjhlNDU4NDIwOTRiODgzN2UxY2RkZTVm",
+  "snapshot_id": "MTcxNDEwNDA2MCwwMDAwMDAwMDE5ODExYzFhODgyMzkwOTlhZTVhNGUwNWE1ODA2YzVl",
   "tracks": [
+    {
+      "added_at": "2024-04-26 04:01:00",
+      "album": {
+        "name": "Boring 20s (Betty Booom Remix)",
+        "url": "https://open.spotify.com/album/3daonoHg3FU4SyBUtcEQbC"
+      },
+      "artists": [
+        {
+          "name": "Tamela D'Amico",
+          "url": "https://open.spotify.com/artist/7GBJeLHS04OjBvxpGMFXYo"
+        },
+        {
+          "name": "Wolfgang Lohr",
+          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
+        },
+        {
+          "name": "Ashley Slater",
+          "url": "https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62"
+        }
+      ],
+      "duration_ms": 158671,
+      "name": "Boring 20s - Betty Booom Remix",
+      "url": "https://open.spotify.com/track/1J9BJ1Px6IB5mBQiCfrlSv"
+    },
     {
       "added_at": "2024-04-12 04:01:00",
       "album": {
@@ -2739,22 +2763,6 @@
       "duration_ms": 212647,
       "name": "Take a Chance",
       "url": "https://open.spotify.com/track/2ERX8OsW2XCm5OoctkbHqF"
-    },
-    {
-      "added_at": "2024-02-02 05:01:00",
-      "album": {
-        "name": "Doin' the Jive (Electro Swing Bot Mix)",
-        "url": "https://open.spotify.com/album/6Fpt2EakjGJv1XgieKXX9p"
-      },
-      "artists": [
-        {
-          "name": "The Swing Bot",
-          "url": "https://open.spotify.com/artist/4oQFVFnnGSF6iFstCV0b7b"
-        }
-      ],
-      "duration_ms": 205151,
-      "name": "Doin' the Jive - Electro Swing Bot Mix",
-      "url": "https://open.spotify.com/track/2qbiime4UphiqfrbwOnWly"
     },
     {
       "added_at": "2024-02-23 05:01:00",

@@ -1,5 +1,5 @@
 {
-  "2024-04-26": 191238,
+  "2024-04-27": 191300,
   "date_first_scraped": "2022-05-12",
   "description": "Rap napoletano e il meglio della scena campana. Vale Lambo e Geolier in cover. ",
   "name": "Int 'o Rione",
@@ -415,6 +415,24 @@
       "duration_ms": 154653,
       "name": "ATM (feat. MV Killa)",
       "url": "https://open.spotify.com/track/6jV1tdQXiQ87WPO5uqjSyq"
+    },
+    {
+      "album": {
+        "name": "AUDI NOIRE",
+        "url": "https://open.spotify.com/album/5Qem9pKq3VQnUoH6PzmkId"
+      },
+      "artists": [
+        {
+          "name": "Le gar\u00e7on",
+          "url": "https://open.spotify.com/artist/7bfaB3zJ12yoMnFMewFrnR"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133359,
+      "name": "AUDI NOIRE",
+      "url": "https://open.spotify.com/track/4YvWoLoanqyBjEZGBCeyWi"
     },
     {
       "album": {
@@ -2755,7 +2773,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 204521,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/0tHNfx3jrnG65IiGj9PP4L"
@@ -3791,6 +3809,24 @@
       "duration_ms": 177233,
       "name": "Non Siamo Uguali (feat. CoCo)",
       "url": "https://open.spotify.com/track/5gNI6SVOOugp1KOrDpw3O4"
+    },
+    {
+      "album": {
+        "name": "NOS",
+        "url": "https://open.spotify.com/album/7N3gZ68f2Go0WOEvwGAAWw"
+      },
+      "artists": [
+        {
+          "name": "Christian Revo",
+          "url": "https://open.spotify.com/artist/0s3k3E7SlZqDN0rXnijV7F"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135818,
+      "name": "NOS",
+      "url": "https://open.spotify.com/track/49MbsYIMv1p6Gw6qP7As7S"
     },
     {
       "album": {
@@ -4941,7 +4977,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 146250,
       "name": "RINCELL",
       "url": "https://open.spotify.com/track/0MpD4CbRRc7dd0UBAHxypb"

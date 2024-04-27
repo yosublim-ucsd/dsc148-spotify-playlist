@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-223 songs - 22 hr 11 min
+225 songs - 22 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Are Am Eye? \- Roger Shah & Cores Short Edit](https://open.spotify.com/track/6SoOlvrcw4GhmQoq9araKD) | [Commander Tom](https://open.spotify.com/artist/1mlDy7thi2GGZ5ybFxjnmd), [Cores](https://open.spotify.com/artist/7cPTd41SGeifvTvz4DmK9M), [Roger Shah](https://open.spotify.com/artist/3dAnWbqTzCOK1jdiK2v3gI) | [Are Am Eye? Roger Shah & Cores Remix](https://open.spotify.com/album/1sdYiS8ZuS0NmT6o9uyezT) | 3:32 | 2022-09-16 |  |
 | [Artefact](https://open.spotify.com/track/33QwWRC57OnQSkmAvrvjJI) | [Moritz Sachse](https://open.spotify.com/artist/2yPFNVTKTqKeIn3leJpeq3) | [VA: CAELUM](https://open.spotify.com/album/77IT6pLjTXeFxzSn1VndEN) | 7:03 | 2023-05-26 | 2023-07-15 |
 | [Astronautin \- Boris Brejcha Remix](https://open.spotify.com/track/4Z9JnhS9cd1Qd0BJ7nii4D) | [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7), [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Boavista Remixes](https://open.spotify.com/album/0veMfwPekRVWazQ0YVGLPa) | 8:15 | 2022-09-16 | 2022-10-28 |
+| [Bass Care](https://open.spotify.com/track/54BANm3jvqRqGfbLzR3YC2) | [Loft 15 A](https://open.spotify.com/artist/3H7elwiXJ63HlIyjOeLhtG) | [Bass Care](https://open.spotify.com/album/7KEYcmsUwliPlLydKErg1Q) | 6:15 | 2024-04-27 |  |
 | [Be The Change](https://open.spotify.com/track/4aibXK1Ions27oyqdJLkVf) | [concious](https://open.spotify.com/artist/7AZKqpYQSQoUoylF3cIJ37) | [Be The Change](https://open.spotify.com/album/2p5EwIEGE8bKVGqr2QcdWC) | 4:01 | 2022-09-16 | 2022-10-01 |
 | [Beachside Bliss](https://open.spotify.com/track/74OdLnGtAMfmyXdGeUvVj4) | [Loft 15 A](https://open.spotify.com/artist/3H7elwiXJ63HlIyjOeLhtG) | [Beach Side Bliss](https://open.spotify.com/album/6SBRlyqYyNPg6uYJZetVc1) | 6:35 | 2023-10-20 | 2023-10-28 |
 | [Bending The End](https://open.spotify.com/track/78Bj94zrq8DgvjcZffBNS7) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Cari Golden](https://open.spotify.com/artist/3M2wBPMgou1UoOONLwqgVp) | [Bending the End](https://open.spotify.com/album/07SvgpFWSvAEreX8Zq3GqX) | 7:47 | 2022-09-16 | 2022-12-17 |
@@ -184,6 +185,7 @@
 | [Sleepless Mind \- Edit](https://open.spotify.com/track/3z737qBlgokgOqHUG4KSDW) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Sleepless Mind \(Edit\)](https://open.spotify.com/album/2JH4rOU73W6ZxUU4NHKm4G) | 3:05 | 2023-05-26 | 2023-07-29 |
 | [So Cold](https://open.spotify.com/track/3wxiYRkslAAy8XtjvZTIxy) | [Emmanuel Top](https://open.spotify.com/artist/5y8522WHbYqJVt1jSwNSfA) | [So Cold](https://open.spotify.com/album/2OG9njNHJha0rvltAhAX4N) | 7:21 | 2022-09-16 |  |
 | [So Sweet](https://open.spotify.com/track/7DyqZMCkblbJU6dqlQrnd2) | [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21) | [So Sweet](https://open.spotify.com/album/5xW1GTPUQjzEW4qfMXBLMG) | 4:18 | 2024-03-22 |  |
+| [Solar Flare \- Edit](https://open.spotify.com/track/7f8QgBiGPzUo0oOFWJNa8m) | [Al\-Faris](https://open.spotify.com/artist/07LrIMW3EHnuoc5us4AGgm), [Andrew Wooden](https://open.spotify.com/artist/2BcpCh7qQg8YDzAQ7XrxG2) | [Solar Flare](https://open.spotify.com/album/54x1liWb99WVZauV6bKMtF) | 3:28 | 2024-04-27 |  |
 | [Solarius](https://open.spotify.com/track/1sEPac7uCsJZRtKKR1f1YB) | [Rico Puestel](https://open.spotify.com/artist/6onCOduLbP6KH26LqSRV69) | [My Truth](https://open.spotify.com/album/4eRmSQhzAi7HOyCt0nSrrL) | 9:05 | 2023-09-01 | 2024-03-20 |
 | [Something Half Way](https://open.spotify.com/track/7fmWi55u24fRasWaju85y1) | [Chris Liebing](https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI), [Ralf Hildenbeutel](https://open.spotify.com/artist/1cpiae3VUqBtLzkOSwycrf) | [Something Half Way](https://open.spotify.com/album/5ygCu6YaMTkoawV5CAedtx) | 5:15 | 2024-04-05 |  |
 | [Something Half Way \(feat\. Ralf Hildenbeutel\)](https://open.spotify.com/track/1ALwn074NZpQ7LbEknYgJh) | [Chris Liebing](https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI), [Ralf Hildenbeutel](https://open.spotify.com/artist/1cpiae3VUqBtLzkOSwycrf) | [Something Half Way \(feat\. Ralf Hildenbeutel\)](https://open.spotify.com/album/6ArJtCbmaktBNpkHsIeAw5) | 5:15 | 2022-11-11 | 2022-11-13 |

@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-294 songs - 14 hr 16 min
+296 songs - 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Euphoria](https://open.spotify.com/track/7l9iHqc96MliysA243IK2V) | [Odd Language](https://open.spotify.com/artist/6jo39RCQ903pfIWvev74XB) | [Euphoria](https://open.spotify.com/album/41ANCAUNiWvzR9cjxq5iVD) | 2:52 | 2022-05-24 |  |
 | [Everything You Do \(feat\. Aviella\)](https://open.spotify.com/track/4YMebDlcRphWajZhJAWPg0) | [Afroki](https://open.spotify.com/artist/0oPgJ6vm1fLGFGahd3yDrP), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [Everything You Do \(feat\. Aviella\)](https://open.spotify.com/album/0whPoom67NEOiTHIIst4X4) | 3:03 | 2024-03-01 |  |
 | [Fade Into Your Light](https://open.spotify.com/track/4yS497HRlZTs3LJeDF6gLR) | [Nytrix](https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa) | [Fade Into Your Light](https://open.spotify.com/album/6ZkgfIAclhPJOAwYOT05D2) | 2:33 | 2023-05-12 |  |
+| [Fading \(feat\. 9B49\)](https://open.spotify.com/track/1VltgJeA6D3x4Lyiki5MwW) | [Wurme](https://open.spotify.com/artist/3rOSH7IovBDpCELYQq4gSJ), [GONE ASTRAY](https://open.spotify.com/artist/4xTIYqGN4btKj8WRWTyfTA), [KELIZA](https://open.spotify.com/artist/30lY0f2CYHFHHKPn4PsRrs), [9B49](https://open.spotify.com/artist/0UFbEkC10vY6QJ9ytN4dg4) | [Fading \(feat\. 9B49\)](https://open.spotify.com/album/1Rr1Qb1YdlxU7zTUS0OK2k) | 3:17 | 2024-04-26 |  |
 | [Fallout \(feat\. LÚTHIEN\)](https://open.spotify.com/track/1Dv11RV1ipS7R4VDgsYSX0) | [Friendzone](https://open.spotify.com/artist/71wgN1CedM2DoHelVrI87x), [LÚTHIEN](https://open.spotify.com/artist/28J7jxbAyCfpC1R5XAgeq5) | [Fallout \(feat\. LÚTHIEN\)](https://open.spotify.com/album/4WwmyhFwXRrP65YpxyWQRT) | 3:36 | 2023-08-09 |  |
 | [False Alarm \(feat\. Alessia Labate\)](https://open.spotify.com/track/6Hy4gmcrhzcMlnWMBU877r) | [T\-Mass](https://open.spotify.com/artist/0M3cZtjQZ8fz3Hbw1A4CwF), [Jaxxtone](https://open.spotify.com/artist/3ASDNZT1AaVuC0bqu60oaY), [Alessia Labate](https://open.spotify.com/artist/3znJOYi3CDM5ZQkbo6kmjd) | [False Alarm \(feat\. Alessia Labate\)](https://open.spotify.com/album/2VKwfsPMEOTceeAk8Orp0o) | 2:44 | 2023-11-22 |  |
 | [Favors](https://open.spotify.com/track/3CkdtRM7B1cY9zk1Fkrbvo) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy) | [Favors](https://open.spotify.com/album/5QdDpNbkp0NYCzVsIHVtnY) | 2:10 | 2023-03-10 | 2023-05-21 |
@@ -242,6 +243,7 @@
 | [Something To Luv For \(with Advokid\)](https://open.spotify.com/track/5iq4IyI8oj7gHiRGxo8qLO) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb), [Advokid](https://open.spotify.com/artist/3aO9yUQwH6uBCtV9c5kflf) | [Something To Luv For \(with Advokid\)](https://open.spotify.com/album/1Lm5PKdzBTNBwR2WxPmJnP) | 2:33 | 2023-05-19 |  |
 | [Stars Don't Shine \(feat\. Global Dan\)](https://open.spotify.com/track/0Bz4zF649klc9hMb9xtj16) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Global Dan](https://open.spotify.com/artist/1lzugG0lqNh9nP6Fp2zG3c) | [Stars Don't Shine \(feat\. Global Dan\)](https://open.spotify.com/album/4su0t3XDFmCCdQaQXd51no) | 3:41 | 2022-05-06 | 2022-08-03 |
 | [Step Back](https://open.spotify.com/track/0oHEiGSJjfLROTq55TEoFl) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY), [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm) | [Step Back](https://open.spotify.com/album/3raiGz0JFTWpnzvMgJtnC2) | 3:18 | 2022-07-29 | 2023-03-03 |
+| [Step Up](https://open.spotify.com/track/74K4Ki8ppT9o90QW2B84BK) | [Riggi & Piros](https://open.spotify.com/artist/2paaWadjhhY3shymyR5TcH) | [Step Up](https://open.spotify.com/album/7rI8rCntoLZDxoupnN6R9H) | 1:50 | 2024-04-26 |  |
 | [Still](https://open.spotify.com/track/0jgyu7T0uobQ9o2ubMFYDF) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl) | [Still](https://open.spotify.com/album/4cCR5OhfpjCIpKCjnTczqy) | 2:33 | 2023-08-18 |  |
 | [Stop The World](https://open.spotify.com/track/0exb2sKaTVyq2AmTKJmdwo) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Stop The World](https://open.spotify.com/album/5tjyquuAUCmHet1Fn1kLUW) | 2:59 | 2022-05-06 | 2023-12-14 |
 | [Straight To Ya Face](https://open.spotify.com/track/25ozzkQ8NRRVqmv3UCjpae) | [So Dope](https://open.spotify.com/artist/3xEKrMqS4pDGqGvxf7zwSY) | [Straight To Ya Face](https://open.spotify.com/album/49gdPCPeNhnoFSDEYvyaAl) | 2:36 | 2022-05-06 | 2022-07-02 |

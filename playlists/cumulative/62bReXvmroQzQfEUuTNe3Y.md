@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or dance for 2024\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-423 songs - 23 hr 59 min
+425 songs - 1 day 0 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [HEART ATTACK \(feat\. lau.ra\)](https://open.spotify.com/track/3xrSAFB6cXBHwLylbCP4sr) | [BRONSON](https://open.spotify.com/artist/60yfafz0P3gqaUaOUIddae), [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [HEART ATTACK / VAULTS](https://open.spotify.com/album/0SrZP210qeRNZd2G3ciNVt) | 3:29 | 2020-09-13\* | 2022-06-25 |
 | [Heart Back](https://open.spotify.com/track/0OSgkdebxTRNXLwwzD2b8s) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Heart Back](https://open.spotify.com/album/1hPoZ0YpV7J1w1jmvF5vxg) | 2:44 | 2023-02-24 |  |
 | [Heartbeat \- Radio Edit](https://open.spotify.com/track/3OopyAH3nk4VTFmnwSfjDu) | [Nick Talos](https://open.spotify.com/artist/5pCzC0BOLY2MpqYr1qksg2) | [Heartbeat](https://open.spotify.com/album/13jdZ2XoM5twyRGqmN0h16) | 2:52 | 2021-12-11 | 2021-12-18 |
+| [Heartbeat Slow](https://open.spotify.com/track/4AEoF6pEqe4YTu2qMUERaT) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe), [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33) | [Heartbeat Slow](https://open.spotify.com/album/32Kyro8F4r6rCcVrVOwq0O) | 3:49 | 2024-04-26 |  |
 | [Heaven](https://open.spotify.com/track/5gvEyl4OLhD6kJ3aZ43sd3) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq) | [Heaven](https://open.spotify.com/album/20hpXtqd02hIOkQ8Xoj4dM) | 2:04 | 2021-10-16 |  |
 | [Heaven Takes You Home \(feat\. Connie Constance\)](https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:34 | 2022-08-05 |  |
 | [Here For You \- Bearcubs Remix](https://open.spotify.com/track/3UzmjXtZUncUbprhVYTTAc) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Laura Welsh](https://open.spotify.com/artist/2QGdI8fUEuoVPJ4xuC5NDe), [Jack Ritchie](https://open.spotify.com/artist/3eNhNbPG6pIou8XhDhb6wC) | [Sirens \(Remixes\)](https://open.spotify.com/album/0CoYk78WZsYyT79mRSEb6Q) | 4:53 | 2020-09-13\* | 2021-03-06 |
@@ -147,6 +148,7 @@
 | [Higher](https://open.spotify.com/track/36rCmwPIB3hE2MXtvjP0cc) | [Adon](https://open.spotify.com/artist/7l7IyxqOyGDSU6iF4FzisA) | [Higher](https://open.spotify.com/album/62UaR3oWtK94SgDjP0CN56) | 2:41 | 2021-10-23 | 2021-11-27 |
 | [Hold Me](https://open.spotify.com/track/13jgeCWlw2Bjeh90vyZajK) | [JSUNT](https://open.spotify.com/artist/5tgmqoI3yKsDNg3AuewVoM), [Brieda](https://open.spotify.com/artist/76zhe0Iq37waOXl1n9CplW) | [Hold Me](https://open.spotify.com/album/7FPgYTd0iUarrky09zXPVP) | 3:12 | 2020-09-13\* | 2020-09-15 |
 | [Hold Me](https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Hold Me](https://open.spotify.com/album/7osmi3cnYDpPDYflMWa80W) | 2:20 | 2024-02-23 |  |
+| [Hold on Me](https://open.spotify.com/track/43FNnp0KnanReB8KCTl97p) | [Why U So](https://open.spotify.com/artist/4oxwokKRwskQbaEFsCHyeS), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Hold on Me](https://open.spotify.com/album/4IakmM35Ob6hbaNQ6giuFj) | 2:46 | 2024-04-26 |  |
 | [Hold You Back](https://open.spotify.com/track/4d2aMvOMJPy0KCfslxNq9q) | [Falden](https://open.spotify.com/artist/6O5LAkus9iGG1vvMGu5mDo), [Dan Soleil](https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r) | [Hold You Back](https://open.spotify.com/album/1HBCbOUgsLJ7qrRRWThdLe) | 2:47 | 2021-08-20 |  |
 | [Holding On](https://open.spotify.com/track/67EPXZyocCphVYz0zUHllM) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w), [Alessia Labate](https://open.spotify.com/artist/3znJOYi3CDM5ZQkbo6kmjd) | [Holding On](https://open.spotify.com/album/5oVvqVFvUdgYYVq5XmjFGD) | 2:30 | 2022-02-04 | 2024-02-24 |
 | [Hollow](https://open.spotify.com/track/6P5yJhVBhB0nV27SXhwTZc) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Hollow](https://open.spotify.com/album/5U2Dty2S3jO8pfEIPPNThL) | 4:14 | 2021-11-06 | 2021-11-11 |

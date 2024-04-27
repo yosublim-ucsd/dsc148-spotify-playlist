@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-712 songs - 1 day 17 hr 6 min
+713 songs - 1 day 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [Feeling Free](https://open.spotify.com/track/4DYTMSIZB7nIazRd0vuI5w) | [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY), [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3) | [Feeling Free](https://open.spotify.com/album/5hYaCD1FopzL8Gd4wWUilB) | 2:59 | 2023-09-05 | 2023-12-14 |
 | [Feelings](https://open.spotify.com/track/5Ebn1wXIUM3vfgIZTo4AyL) | [Holen](https://open.spotify.com/artist/5cXpsHnHXFVMvhLzth4SNY) | [Feelings](https://open.spotify.com/album/6hZ4omTnHPCJhcOB9BAf4l) | 3:52 | 2023-02-17 | 2023-05-09 |
 | [Feels Like Home](https://open.spotify.com/track/0H8Eh2BgyRTjgCb2PwDylI) | [Eminence](https://open.spotify.com/artist/1hHhlYmo4C03IoCJ7RnpS2), [Weston & Teston](https://open.spotify.com/artist/29Ao31axAkL4n3L5OEbFpA), [Delaney Kai](https://open.spotify.com/artist/4R9LxtRMT4XlrKbbrvEHNl) | [The Return](https://open.spotify.com/album/0HKsE8AP6AjvA9hO0ujw2T) | 3:11 | 2021-12-08 | 2022-03-12 |
+| [Feral](https://open.spotify.com/track/0DTGff67dAfbXMU14CWgnP) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ) | [Feral](https://open.spotify.com/album/5hfXeWane0cxOaaiCzADrK) | 3:20 | 2024-04-26 |  |
 | [Fever](https://open.spotify.com/track/3D3fw7H4zK3S6prSBncAkt) | [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Hight](https://open.spotify.com/artist/34SBu2kvAUh84umN8Pi0iI) | [Fever](https://open.spotify.com/album/2HD81FIC7edc7NBQ8B5yVr) | 2:26 | 2023-04-20 | 2023-07-15 |
 | [Fever](https://open.spotify.com/track/4aonFWNn1hriqeEtXmMIRy) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Daktyl](https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ) | [Fever](https://open.spotify.com/album/1czheboLJFCb4lgJL2q4KK) | 2:40 | 2023-11-02 | 2024-02-16 |
 | [Fight Me](https://open.spotify.com/track/2VMjr4nR9QptTiGOabyeFt) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm) | [Fight Me](https://open.spotify.com/album/2cCk1i1D2XQaclGYqaa5oY) | 3:51 | 2023-10-18 | 2024-02-02 |

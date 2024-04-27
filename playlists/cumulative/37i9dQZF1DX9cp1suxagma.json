@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-18",
-  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Morat",
+  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Ventino",
   "name": "Pop Colombia",
   "tracks": [
     {
@@ -1309,6 +1309,24 @@
     },
     {
       "album": {
+        "name": "Inevitables",
+        "url": "https://open.spotify.com/album/5caQaLBsDhjh89gsc1aoyF"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171808,
+      "name": "Inevitables",
+      "url": "https://open.spotify.com/track/2lndFfVfdAY7MHmLnyKrbE"
+    },
+    {
+      "album": {
         "name": "Insomnia",
         "url": "https://open.spotify.com/album/1eEYZevP2PuMIB3CfbUXLA"
       },
@@ -1320,7 +1338,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 129389,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/2D9sGe5S3nrpYONLZhPTnS"
@@ -1360,7 +1378,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 213644,
       "name": "Juan de Dios",
       "url": "https://open.spotify.com/track/4lAtI8c42fN4eICMJRwH6n"
@@ -1751,6 +1769,24 @@
     },
     {
       "album": {
+        "name": "Luz",
+        "url": "https://open.spotify.com/album/54iXGKn6LPMXZVeIs9uqQo"
+      },
+      "artists": [
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186186,
+      "name": "Luz",
+      "url": "https://open.spotify.com/track/6v5J4UE21xOjnQ4N9H5jur"
+    },
+    {
+      "album": {
         "name": "Magia (feat. Sebasti\u00e1n Yatra)",
         "url": "https://open.spotify.com/album/0lVfnTGqaUdTWSFjMhsBlT"
       },
@@ -1954,7 +1990,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 188750,
       "name": "Mi Declaraci\u00f3n",
       "url": "https://open.spotify.com/track/69GWsRWJH6XXntS7veaE4g"
@@ -2070,6 +2106,28 @@
       "duration_ms": 153386,
       "name": "M\u00e1quina del Tiempo",
       "url": "https://open.spotify.com/track/7rGpG81sWMUcxkyJwvmlAq"
+    },
+    {
+      "album": {
+        "name": "Nada Personal (Sesi\u00f3n en Vivo)",
+        "url": "https://open.spotify.com/album/53GjFCPEvM4HBdbCziA7P3"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        },
+        {
+          "name": "Catalina Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317424,
+      "name": "Nada Personal - Sesi\u00f3n en Vivo",
+      "url": "https://open.spotify.com/track/2kuGLyyrHlPrrgMGOEiFmV"
     },
     {
       "album": {
@@ -2545,6 +2603,24 @@
     },
     {
       "album": {
+        "name": "Por Si Llegas A Volver",
+        "url": "https://open.spotify.com/album/18qObh060XNrTXgpY1YUBr"
+      },
+      "artists": [
+        {
+          "name": "Lucas Arnau",
+          "url": "https://open.spotify.com/artist/5vLOlJcOKe9DfBC5LeLpSs"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163163,
+      "name": "Por Si Llegas A Volver",
+      "url": "https://open.spotify.com/track/5lxDsU7ElFKfcTwZMpGVwm"
+    },
+    {
+      "album": {
         "name": "Presiento",
         "url": "https://open.spotify.com/album/4AoZ74lY9YRMaPaEPSCxnF"
       },
@@ -2618,6 +2694,28 @@
       "duration_ms": 154920,
       "name": "Que me quiera",
       "url": "https://open.spotify.com/track/17VarGZ9nd9MZRBO0zKsdq"
+    },
+    {
+      "album": {
+        "name": "Quererte Desde Lejos",
+        "url": "https://open.spotify.com/album/0oBqEM4y6H9CNzpFNgFhXa"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Santamaria",
+          "url": "https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy"
+        },
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141954,
+      "name": "Quererte Desde Lejos",
+      "url": "https://open.spotify.com/track/2CY9XV9CUO0RNPcxl7mHx1"
     },
     {
       "album": {
@@ -3200,7 +3298,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 192845,
       "name": "Te Dejo Entrar",
       "url": "https://open.spotify.com/track/39ME7Co4Z5ETWFhAGBqMhh"

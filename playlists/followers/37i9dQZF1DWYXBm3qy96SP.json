@@ -1,7 +1,7 @@
 {
-  "2024-04-26": 47213,
+  "2024-04-27": 47205,
   "date_first_scraped": "2023-03-19",
-  "description": "\u8a71\u984c\u306e\u30ed\u30c3\u30af\u30ca\u30f3\u30d0\u30fc\u3092Volume\u4e0a\u3052\u3066\u7206\u97f3\u3067\u3002Cover: Pearl Jam",
+  "description": "\u8a71\u984c\u306e\u30ed\u30c3\u30af\u30ca\u30f3\u30d0\u30fc\u3092Volume\u4e0a\u3052\u3066\u7206\u97f3\u3067\u3002Cover: St.Vincent",
   "name": "Rock The World",
   "tracks": [
     {
@@ -2444,6 +2444,24 @@
     },
     {
       "album": {
+        "name": "Big Time Nothing",
+        "url": "https://open.spotify.com/album/5Cn1ahgwgul033qDq87n1X"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178722,
+      "name": "Big Time Nothing",
+      "url": "https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1"
+    },
+    {
+      "album": {
         "name": "Goodnight, God Bless, I Love U, Delete.",
         "url": "https://open.spotify.com/album/3omXFuNbc0B6MlCm5Nf5Xn"
       },
@@ -3780,6 +3798,24 @@
     },
     {
       "album": {
+        "name": "Call Me Up",
+        "url": "https://open.spotify.com/album/0KfdSmpAWlWIsX46PARiNO"
+      },
+      "artists": [
+        {
+          "name": "daydreamers",
+          "url": "https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161168,
+      "name": "Call Me Up",
+      "url": "https://open.spotify.com/track/1E9T8kPAQV2zMSf0hz3K6A"
+    },
+    {
+      "album": {
         "name": "Call Me What You Like",
         "url": "https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc"
       },
@@ -3885,6 +3921,24 @@
       "duration_ms": 222950,
       "name": "Calverley",
       "url": "https://open.spotify.com/track/13HSuJkVMEQ8Ji95Y4pzIn"
+    },
+    {
+      "album": {
+        "name": "There Goes The Neighbourhood",
+        "url": "https://open.spotify.com/album/3o6ih9edQcACGSYAW6eXTb"
+      },
+      "artists": [
+        {
+          "name": "Kid Kapichi",
+          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178120,
+      "name": "Can EU Hear Me?",
+      "url": "https://open.spotify.com/track/7LUVmUWiSvtI2tJvYHFRAs"
     },
     {
       "album": {
@@ -4585,7 +4639,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 243881,
       "name": "Collide",
       "url": "https://open.spotify.com/track/7wDVVWvsjPL2tKvcbOlJHK"
@@ -5749,7 +5803,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 180512,
       "name": "Diving in After You",
       "url": "https://open.spotify.com/track/3EDpOGFvsriOrCQ9P8DJbj"
@@ -8521,7 +8575,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 186466,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/5HuLnaRoHZTcgu2GMAbLGJ"
@@ -9461,6 +9515,32 @@
       "duration_ms": 176558,
       "name": "How to Hold a Knife",
       "url": "https://open.spotify.com/track/0X09CrNSf6i0OWSVqU3RT0"
+    },
+    {
+      "album": {
+        "name": "hummingbird",
+        "url": "https://open.spotify.com/album/3UYJbvUYlO9bx4DEoV3XZW"
+      },
+      "artists": [
+        {
+          "name": "I Mean Us",
+          "url": "https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78"
+        },
+        {
+          "name": "Kyung Min Jang",
+          "url": "https://open.spotify.com/artist/4dRgywuc27oWwtjOAV7YuP"
+        },
+        {
+          "name": "Lacuna",
+          "url": "https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218613,
+      "name": "hummingbird",
+      "url": "https://open.spotify.com/track/7uh1vX2ecH6Zdf8zXB6eAe"
     },
     {
       "album": {
@@ -11915,7 +11995,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-02",
+      "date_removed": null,
       "duration_ms": 199342,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3RQHAFkEHiFHQ7qmMpKRdv"
@@ -11969,7 +12049,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 183573,
       "name": "Loud Bark",
       "url": "https://open.spotify.com/track/4iaSz388a4iRMNRJZSClVG"
@@ -15005,7 +15085,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 174974,
       "name": "Penny Sleeps",
       "url": "https://open.spotify.com/track/4NEZzp4GvzVEP39OWAiGFd"
@@ -16431,6 +16511,24 @@
       "duration_ms": 295000,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/0OZ3yFzBy6ULPZh58pwgX2"
+    },
+    {
+      "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/4C1HvmMvjDuVTammFGIADL"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317467,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/1EqavzBokG9fKmRfK6VJGp"
     },
     {
       "album": {
@@ -18186,6 +18284,24 @@
     },
     {
       "album": {
+        "name": "Internet Teenage Lover",
+        "url": "https://open.spotify.com/album/1wF9osW6gyGBiUzdWQIIUK"
+      },
+      "artists": [
+        {
+          "name": "Lesssug\u00e4r",
+          "url": "https://open.spotify.com/artist/6DhnCZ4po8PyhoooXojDBB"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274238,
+      "name": "stay away go!",
+      "url": "https://open.spotify.com/track/0v7lzkEqZsFPoaIngSnHw7"
+    },
+    {
+      "album": {
         "name": "internet teenage lover",
         "url": "https://open.spotify.com/album/0NT5ZBUomUJezXJAZtKXOK"
       },
@@ -18478,6 +18594,24 @@
     },
     {
       "album": {
+        "name": "SUBURBIA CALLING",
+        "url": "https://open.spotify.com/album/5GEpjub1ldAz72kvL6kyVh"
+      },
+      "artists": [
+        {
+          "name": "RAT BOY",
+          "url": "https://open.spotify.com/artist/2PmIyxmEFsNfQJjEifPDZC"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169245,
+      "name": "SUBURBIA CALLING",
+      "url": "https://open.spotify.com/track/0sRMZbWkH1G5XVFt3NZbE1"
+    },
+    {
+      "album": {
         "name": "Sugar Babies",
         "url": "https://open.spotify.com/album/4u8VfWQis8Lq1EMi0wQlSv"
       },
@@ -18579,7 +18713,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 139106,
       "name": "Superman",
       "url": "https://open.spotify.com/track/7qR4KI5JAf8n48wStSizic"
@@ -21321,7 +21455,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 149824,
       "name": "Weaponz",
       "url": "https://open.spotify.com/track/00pmqiJxIvnorE7dDR8Hnr"

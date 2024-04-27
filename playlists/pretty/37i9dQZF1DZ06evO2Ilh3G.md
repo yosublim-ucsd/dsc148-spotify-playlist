@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Ilh3G.md) - [plain]
 
 > This is Offset\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,184 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,175 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Ilh3G.md) - [plain]
 | 49 | [Cuffed \(Jo Tha Mila\) \(feat\. Offset\)](https://open.spotify.com/track/18v9djmHXKSEofyhG9VXwh) | [Ananya Birla](https://open.spotify.com/artist/7snhzmuew8iLEDxMIhOU1P), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Cuffed \(Jo Tha Mila\) \(feat\. Offset\)](https://open.spotify.com/album/3bxssXuz1TUDAB5Z06AJHY) | 2:46 |
 | 50 | [Don't Lose Me](https://open.spotify.com/track/71Hr2rAhEI92BSpFYbzNN7) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [FATHER OF 4](https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc) | 3:20 |
 
-Snapshot ID: `MTcxMzkxNjgwMCwwMDAwMDAwMGQ0ZTRkZTk3MTc3Y2QyY2RhNmI4M2I1OTRlYmQxODcz`
+Snapshot ID: `MTcxNDAwMzIwMCwwMDAwMDAwMGViN2M5MzVlZGFmM2E3ZWY2MTZlMTZjNjliOTY1MjIy`

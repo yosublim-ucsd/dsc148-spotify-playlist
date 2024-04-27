@@ -833,6 +833,24 @@
     },
     {
       "album": {
+        "name": "We Will Overcome",
+        "url": "https://open.spotify.com/album/09as8XYEwT9HJV7kc6zAmO"
+      },
+      "artists": [
+        {
+          "name": "Close Your Eyes",
+          "url": "https://open.spotify.com/artist/4EJdKdDfQ0XQ4YBhh12xZe"
+        }
+      ],
+      "date_added": "2024-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249760,
+      "name": "Song For The Broken",
+      "url": "https://open.spotify.com/track/2ORNUM2HttdH7QipiUZ2Eq"
+    },
+    {
+      "album": {
         "name": "Saints",
         "url": "https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj"
       },
@@ -1150,7 +1168,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 233996,
       "name": "With The Wolves",
       "url": "https://open.spotify.com/track/54t3PG4GNYxO8D4rRSFJ0X"

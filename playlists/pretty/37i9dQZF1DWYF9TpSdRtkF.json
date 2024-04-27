@@ -1,6 +1,6 @@
 {
   "description": "Music from \"THE IDOLM@STER MILLION LIVE!\". \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\nTHE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.",
-  "num_followers": 16796,
+  "num_followers": 16802,
   "original_name": "THE IDOLM@STER MILLION LIVE! \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01",
   "owner": {
     "name": "Spotify",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2023-11-07 18:19:56",
       "album": {
-        "name": "THE IDOLM@STER LIVE THE@TER DREAMERS 05",
-        "url": "https://open.spotify.com/album/1K4K7FKVGIAH1Bo2DD2mdr"
-      },
-      "artists": [
-        {
-          "name": "\u91ce\u3005\u539f \u831c (CV.\u5c0f\u7b20\u539f\u65e9\u7d00)",
-          "url": "https://open.spotify.com/artist/4xBZB18tZyqwiVBaULud9U"
-        },
-        {
-          "name": "Roco (CV: Atsuki Nakamura)",
-          "url": "https://open.spotify.com/artist/2ACFwjHDE4QWxq1qCPBIKh"
-        }
-      ],
-      "duration_ms": 219533,
-      "name": "fruity love",
-      "url": "https://open.spotify.com/track/6AEx4AHFlzyozSvgkpkyRQ"
-    },
-    {
-      "added_at": "2023-11-07 18:19:56",
-      "album": {
         "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 04",
         "url": "https://open.spotify.com/album/6WKC6lYDjiHk38mSeuNOoW"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 282280,
       "name": "Blue Symphony",
       "url": "https://open.spotify.com/track/61pUUUV0ng4YJIdK3DHnvQ"
+    },
+    {
+      "added_at": "2023-11-07 18:19:56",
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER DREAMERS 05",
+        "url": "https://open.spotify.com/album/1K4K7FKVGIAH1Bo2DD2mdr"
+      },
+      "artists": [
+        {
+          "name": "\u91ce\u3005\u539f \u831c (CV.\u5c0f\u7b20\u539f\u65e9\u7d00)",
+          "url": "https://open.spotify.com/artist/4xBZB18tZyqwiVBaULud9U"
+        },
+        {
+          "name": "Roco (CV: Atsuki Nakamura)",
+          "url": "https://open.spotify.com/artist/2ACFwjHDE4QWxq1qCPBIKh"
+        }
+      ],
+      "duration_ms": 219533,
+      "name": "fruity love",
+      "url": "https://open.spotify.com/track/6AEx4AHFlzyozSvgkpkyRQ"
     },
     {
       "added_at": "2023-11-07 18:19:56",

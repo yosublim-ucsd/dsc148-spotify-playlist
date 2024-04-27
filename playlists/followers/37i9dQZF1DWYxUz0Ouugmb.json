@@ -1,7 +1,7 @@
 {
-  "2024-04-26": 37429,
+  "2024-04-27": 37411,
   "date_first_scraped": "2022-01-02",
-  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Abeliano",
+  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Jasmine Nadya",
   "name": "RADAR Indonesia ",
   "tracks": [
     {
@@ -903,6 +903,24 @@
       "duration_ms": 205573,
       "name": "Favorite",
       "url": "https://open.spotify.com/track/6Nd7rc30EsFdGrwfeB8N2n"
+    },
+    {
+      "album": {
+        "name": "Favorite Art",
+        "url": "https://open.spotify.com/album/42btgmtHPBE4Moq3luRC2z"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Nadya",
+          "url": "https://open.spotify.com/artist/3riJuqytC4fjg5RFkYGT4O"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173426,
+      "name": "Favorite Art",
+      "url": "https://open.spotify.com/track/0uwKZi6NBSfJS77MejAxvu"
     },
     {
       "album": {
@@ -2963,6 +2981,24 @@
       "duration_ms": 233833,
       "name": "Seiring",
       "url": "https://open.spotify.com/track/06kPYTTMyQKGhTLyQ7LNp6"
+    },
+    {
+      "album": {
+        "name": "Selamanya",
+        "url": "https://open.spotify.com/album/4HBb3TgaurAxPuxwcSd49c"
+      },
+      "artists": [
+        {
+          "name": "Satine Zaneta",
+          "url": "https://open.spotify.com/artist/6knRMh5dYEPnItzvpOJk2j"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235038,
+      "name": "Selamanya",
+      "url": "https://open.spotify.com/track/4nP7xWXJh7qzszFlUDpVPx"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Lendakaris Muertos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,160 likes - 90 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,139 likes - 90 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 59 | [Ser Libre](https://open.spotify.com/track/1MyuImQY7hqjOMNs9MOf7N) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Ser Libre](https://open.spotify.com/album/6pSCu7cIDEYDgfEnNV5PXH) | 3:36 |
 | 60 | [Ke Felicidad!](https://open.spotify.com/track/4Nx42MOIDpTxIqbik0zuCk) | [Discordia](https://open.spotify.com/artist/6COIQdML2EH50MNUYjzcaG) | [Versos de Rabia](https://open.spotify.com/album/6CbReCJ1l2o2Mwu2Matrq2) | 3:37 |
 | 61 | [No es la primera vez que pasa](https://open.spotify.com/track/4IEUNHdJ55wvFkpfRpIdbs) | [mis amigas fuman todas](https://open.spotify.com/artist/7KdIqg2BmTqrSTJm19a8me) | [No es la primera vez que pasa](https://open.spotify.com/album/6V0HmOz23W95AM8BDhRpsU) | 2:07 |
-| 62 | [En el submundo](https://open.spotify.com/track/5mUs1TQHbF99wGctZh38XW) | [Tropa do Carallo](https://open.spotify.com/artist/2b8mYcZpbCtQgu15Jld0vR) | [En el submundo](https://open.spotify.com/album/4XJwrCBfNwsJMqCFV2SJcS) | 2:11 |
-| 63 | [Froilán de Todos los Antros](https://open.spotify.com/track/2532AJjI6LDDL9Ybz8Sl7k) | [Fuckop Family](https://open.spotify.com/artist/0b4TqnnddOeTOuGaWV0KRe), [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc) | [Froilán de Todos los Antros](https://open.spotify.com/album/0hhFWgkYXpVX1kFrmqksLE) | 3:40 |
+| 62 | [Froilán de Todos los Antros](https://open.spotify.com/track/2532AJjI6LDDL9Ybz8Sl7k) | [Fuckop Family](https://open.spotify.com/artist/0b4TqnnddOeTOuGaWV0KRe), [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc) | [Froilán de Todos los Antros](https://open.spotify.com/album/0hhFWgkYXpVX1kFrmqksLE) | 3:40 |
+| 63 | [En el submundo](https://open.spotify.com/track/5mUs1TQHbF99wGctZh38XW) | [Tropa do Carallo](https://open.spotify.com/artist/2b8mYcZpbCtQgu15Jld0vR) | [En el submundo](https://open.spotify.com/album/4XJwrCBfNwsJMqCFV2SJcS) | 2:11 |
 | 64 | [Amor frenopático](https://open.spotify.com/track/6YjmFAhmoUJydfvpDj0PMT) | [Comando 9mm](https://open.spotify.com/artist/4ysg7aP5WvMZge41OoKKHa) | [Camino hacia la ruina](https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh) | 4:45 |
 | 65 | [Noche Molona](https://open.spotify.com/track/6rjOCHV71E19A3mq6I1ZzI) | [Tu Madre Es Puta](https://open.spotify.com/artist/5SGCYqP9PN2R85WfA0yjPu) | [Noche Molona](https://open.spotify.com/album/0koYvQafHxEe9Eu8CcWTxU) | 2:58 |
 | 66 | [Maki Navaja, El Último Chorisso](https://open.spotify.com/track/2hK8ZAY2KgCbla7iZdOyhR) | [Tijuana in blue](https://open.spotify.com/artist/35LHJRKlkpHkACfkoyqqT4) | [A Bocajarro + Sopla Sopla](https://open.spotify.com/album/2QoZ36rmjP1gyQIQ2aAB9r) | 4:49 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 80 | [Niños Dinamita \- Directo](https://open.spotify.com/track/57WsYXP7otMVSiaPR6sjnk) | [The Guilty Brigade](https://open.spotify.com/artist/1SrQZibiED53Cw8gNbn9bz) | [Directos a Matar](https://open.spotify.com/album/2oBeEh5wkI3dhpxqMnAux4) | 2:45 |
 | 81 | [Entretenimienten](https://open.spotify.com/track/2Lq0muy06Asm9daDrpEAXa) | [Colapso](https://open.spotify.com/artist/1OxK8rUG1jNXdFo1XW0V1e) | [Entretenimienten](https://open.spotify.com/album/68MdAvJsZAim6dv1IXsH8J) | 3:53 |
 | 82 | [Y las que quedarán](https://open.spotify.com/track/0W5XjAGzQhcAgtUJqrB9RO) | [A Cuchillo](https://open.spotify.com/artist/5uk2dAd5kCHIyMlKxJNGIZ) | [Y las que quedarán](https://open.spotify.com/album/1XlgAEyavzQhZiQkD89J09) | 4:12 |
-| 83 | [Oído Cochina](https://open.spotify.com/track/2qpcDTXNYibLBFi289kO54) | [Archivo Adxunto](https://open.spotify.com/artist/5EKAqSElCzMDWFRPkM7f7S) | [Oído Cochina](https://open.spotify.com/album/1ggL26VoWaPX7SgO7JkKmm) | 1:32 |
-| 84 | [Águila de San Juan](https://open.spotify.com/track/6oW0Inpf6H8MdB2J0CkiQA) | [Agujero de Salida](https://open.spotify.com/artist/7D0L7Vm6qrkih6yhdMkWwh) | [Águila de San Juan](https://open.spotify.com/album/37g6iRobVhDKTLMovkCNAM) | 3:31 |
+| 83 | [Águila de San Juan](https://open.spotify.com/track/6oW0Inpf6H8MdB2J0CkiQA) | [Agujero de Salida](https://open.spotify.com/artist/7D0L7Vm6qrkih6yhdMkWwh) | [Águila de San Juan](https://open.spotify.com/album/37g6iRobVhDKTLMovkCNAM) | 3:31 |
+| 84 | [Oído Cochina](https://open.spotify.com/track/2qpcDTXNYibLBFi289kO54) | [Archivo Adxunto](https://open.spotify.com/artist/5EKAqSElCzMDWFRPkM7f7S) | [Oído Cochina](https://open.spotify.com/album/1ggL26VoWaPX7SgO7JkKmm) | 1:32 |
 | 85 | [Perder la Voz](https://open.spotify.com/track/4rW49Rqr5WA3eycR1XoGfD) | [37 Hostias](https://open.spotify.com/artist/2F1uZOod2RXpELmBS649mN) | [Perder la Voz](https://open.spotify.com/album/6Gqq9IvF4LRV6AL9eW5a6j) | 2:17 |
 | 86 | [Gernika](https://open.spotify.com/track/2U24O0XkSyQ36T8yMnaeDp) | [M.C.D.](https://open.spotify.com/artist/2sKHlDMJUO4uCZLsEmcun3) | [Jódete](https://open.spotify.com/album/1AQXxv2pGU4QSh6v34FufL) | 3:47 |
 | 87 | [Nos Engañan \- original](https://open.spotify.com/track/0WFeE2O8RI03RheJ4PPbDr) | [Parabellum](https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ) | [Envenenado](https://open.spotify.com/album/5GO7H2fSWsSs8QA7ahTcsK) | 3:06 |

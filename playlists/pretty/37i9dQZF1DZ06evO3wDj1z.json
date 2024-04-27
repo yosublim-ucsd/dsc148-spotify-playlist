@@ -1,12 +1,12 @@
 {
-  "description": "This is Sergio Vega \"El Shaka\". The essential tracks, all in one playlist.",
-  "num_followers": 94113,
+  "description": "This Is Sergio Vega \"El Shaka\". Los temas esenciales, todos en una lista.",
+  "num_followers": 94173,
   "original_name": "This Is Sergio Vega \"El Shaka\"",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzkxNjgwMCwwMDAwMDAwMGM3MGJmMmY2MzA5NTJkZGE0NzUzY2ZjZGU4NzY3OTZj",
+  "snapshot_id": "MTcxNDAwMzIwMCwwMDAwMDAwMGE3NTM0YTYxMzM5YTE5MzJlYjc4Yzg2NmU2Mjc3MmVk",
   "tracks": [
     {
       "added_at": null,
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 182946,
-      "name": "El Bitachero",
-      "url": "https://open.spotify.com/track/3uGo2w4vTh6iktL20sEYb0"
+      "duration_ms": 194146,
+      "name": "El Santo De La Palma",
+      "url": "https://open.spotify.com/track/3W9AG3MZIN1EwBijFfpt91"
     },
     {
       "added_at": null,
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 194146,
-      "name": "El Santo De La Palma",
-      "url": "https://open.spotify.com/track/3W9AG3MZIN1EwBijFfpt91"
+      "duration_ms": 182946,
+      "name": "El Bitachero",
+      "url": "https://open.spotify.com/track/3uGo2w4vTh6iktL20sEYb0"
     },
     {
       "added_at": null,

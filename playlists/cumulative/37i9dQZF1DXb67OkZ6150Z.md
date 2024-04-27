@@ -4,7 +4,7 @@
 
 > Songs you love with an indie spin on it\. Cover: Arlo Parks
 
-443 songs - 1 day 3 hr 7 min
+444 songs - 1 day 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Genesis](https://open.spotify.com/track/2whpmafYrsKIIeqwdSCjj1) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR) | [Genesis](https://open.spotify.com/album/2okSmN83SWjZXl1Fgqwt4S) | 4:29 | 2021-03-19 | 2022-06-01 |
 | [Gente Corriente](https://open.spotify.com/track/14nR4STG0GeaCLYtlJXjHI) | [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [Gente Corriente](https://open.spotify.com/album/5AnfMJ8UaWOcDm995FN4SZ) | 3:31 | 2023-07-20 |  |
 | [ghost town \(voice memo\)](https://open.spotify.com/track/0PKAijroHpnEtdY20bkGdr) | [Chloe George](https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y) | [ghost town \(voice memo\)](https://open.spotify.com/album/6W4tUP2tcem0izGTVzxx5g) | 2:17 | 2022-01-20 | 2023-08-09 |
+| [Girlfriend Is Better](https://open.spotify.com/track/42APulJOnvAk8aj7WhzImT) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Girlfriend Is Better](https://open.spotify.com/album/0NE7g8mQKHZ43DqGvmEFg6) | 3:05 | 2024-04-26 |  |
 | [Girls Just Want to Have Fun](https://open.spotify.com/track/4PVvih9vJedYSZq5Msc6Lh) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Jupiter](https://open.spotify.com/album/7zJwGjwS47fP6PipDu9RWA) | 3:07 | 2021-03-12 | 2022-04-15 |
 | [Gloria](https://open.spotify.com/track/1pW5qCqDVDtCtDVYDPev1c) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Gloria](https://open.spotify.com/album/22pfkoRaSV0uZ9E9WOF42h) | 4:37 | 2021-07-21 | 2022-07-26 |
 | [Go Easy, Kid \(with James Blake\)](https://open.spotify.com/track/0y8MdWQBAXTTm8BFdqjfrD) | [Monica Martin](https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Go Easy, Kid \(with James Blake\)](https://open.spotify.com/album/5WqCAcv7n9dfevwkEEfMph) | 4:27 | 2022-02-25 | 2022-12-03 |
@@ -428,7 +429,7 @@
 | [Why Can't I](https://open.spotify.com/track/0diSTXJMz375F30ec95DJ0) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [The Version Suicides, Vol\. 2](https://open.spotify.com/album/1aRcn8SmEQOrEqzp4xbbJz) | 4:15 | 2021-03-19 | 2022-07-07 |
 | [Why'd You Only Call Me When You're High?](https://open.spotify.com/track/7GzmBQVPlJ9blD0Qb7Dbq8) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Why'd You Only Call Me When You're High?](https://open.spotify.com/album/2IclBimd3mgbt2bs23k6Lv) | 2:32 | 2022-02-25 | 2023-01-14 |
 | [Wicked Game.](https://open.spotify.com/track/6V8hkPRestS5H6EfmqjqtA) | [Mcevoy](https://open.spotify.com/artist/75RCH6Pr8XrCnvWdbMwgVa) | [Wicked Game.](https://open.spotify.com/album/5ZHJlXrPKXThCjhDtWHQlu) | 2:36 | 2021-03-12 | 2022-04-21 |
-| [Wildest Dreams](https://open.spotify.com/track/37PKuOlceH4r1zXQgsFPpZ) | [The Native](https://open.spotify.com/artist/6c3Jb6rRod9x4pGtiizwzT) | [Looking Back EP \(Deluxe Version\)](https://open.spotify.com/album/0pcitN9tJOsw4vte4wS3fI) | 3:15 | 2024-03-08 |  |
+| [Wildest Dreams](https://open.spotify.com/track/37PKuOlceH4r1zXQgsFPpZ) | [The Native](https://open.spotify.com/artist/6c3Jb6rRod9x4pGtiizwzT) | [Looking Back EP \(Deluxe Version\)](https://open.spotify.com/album/0pcitN9tJOsw4vte4wS3fI) | 3:15 | 2024-03-08 | 2024-04-27 |
 | [Will The Night \- Live At Electric Lady](https://open.spotify.com/track/2gztNsDYuFD9JT55WkF9MX) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Live At Electric Lady](https://open.spotify.com/album/3yNllkDnE2TupPL70cSVzR) | 2:49 | 2023-06-05 | 2023-06-17 |
 | [Will You Still Love Me Tomorrow?](https://open.spotify.com/track/3JHS3zCxhB82wuCLKIGZ7H) | [Groove Da Praia](https://open.spotify.com/artist/0wf8Rn6bjZgEkKp0eV9omw), [DJ Leao](https://open.spotify.com/artist/7686VIQ7AquEtoHpM0rrQW) | [Will You Still Love Me Tomorrow?](https://open.spotify.com/album/5GNTZHXJwm0SO6oKZs8UOH) | 3:30 | 2021-03-12 | 2022-04-21 |
 | [Wouldn’t It Be Nice](https://open.spotify.com/track/3d7iBJrADpmv9B5sEy0QUA) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [KŌAN B](https://open.spotify.com/album/5ZudF1lVet6DmPVwKDBhy8) | 2:44 | 2022-05-20 | 2022-06-24 |

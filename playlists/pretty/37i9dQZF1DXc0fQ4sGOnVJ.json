@@ -1,6 +1,6 @@
 {
   "description": "Crank it up. Cover: Brantley Gilbert",
-  "num_followers": 145339,
+  "num_followers": 145259,
   "original_name": "Field Party",
   "owner": {
     "name": "Spotify",
@@ -311,22 +311,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "The Bubba Mathis EP",
-        "url": "https://open.spotify.com/album/4WKqMQF6Qb0CF24X1xWZ1G"
+        "name": "Dirt Road",
+        "url": "https://open.spotify.com/album/4TZ5hONwJtP0pYCkIzb7Zo"
       },
       "artists": [
         {
-          "name": "Bubba Sparxxx",
-          "url": "https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P"
-        },
-        {
-          "name": "Yelawolf",
-          "url": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
+          "name": "Rvshvd",
+          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
         }
       ],
-      "duration_ms": 211888,
-      "name": "Put in Work",
-      "url": "https://open.spotify.com/track/7jQIEyRMj8H6QqIOYT0dHV"
+      "duration_ms": 165041,
+      "name": "Dirt Road",
+      "url": "https://open.spotify.com/track/2QmpdwkRlSABLeVCIE3o8r"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -351,18 +347,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Dirt Road",
-        "url": "https://open.spotify.com/album/4TZ5hONwJtP0pYCkIzb7Zo"
+        "name": "The Bubba Mathis EP",
+        "url": "https://open.spotify.com/album/4WKqMQF6Qb0CF24X1xWZ1G"
       },
       "artists": [
         {
-          "name": "Rvshvd",
-          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+          "name": "Bubba Sparxxx",
+          "url": "https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P"
+        },
+        {
+          "name": "Yelawolf",
+          "url": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
         }
       ],
-      "duration_ms": 165041,
-      "name": "Dirt Road",
-      "url": "https://open.spotify.com/track/2QmpdwkRlSABLeVCIE3o8r"
+      "duration_ms": 211888,
+      "name": "Put in Work",
+      "url": "https://open.spotify.com/track/7jQIEyRMj8H6QqIOYT0dHV"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1051,58 +1051,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Trucks Gone Wild",
-        "url": "https://open.spotify.com/album/7chIoYwuPc0piRqB2L5YdN"
-      },
-      "artists": [
-        {
-          "name": "Bezz Believe",
-          "url": "https://open.spotify.com/artist/0J7ABQoXv0zSACmQXz8nqq"
-        },
-        {
-          "name": "Bubba Sparxxx",
-          "url": "https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P"
-        }
-      ],
-      "duration_ms": 101052,
-      "name": "Trucks Gone Wild",
-      "url": "https://open.spotify.com/track/4WjK6vIgUD4vz7MaYOUQNu"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Yeah",
-        "url": "https://open.spotify.com/album/0tGtrk0sEqiICRVTYhyc54"
-      },
-      "artists": [
-        {
-          "name": "Austin Tolliver",
-          "url": "https://open.spotify.com/artist/3mJzTRR6NlyNWYkZ946WgC"
-        }
-      ],
-      "duration_ms": 197666,
-      "name": "Yeah",
-      "url": "https://open.spotify.com/track/2VhHhttQgFrD64SR4XHG2z"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Redneck Rich",
-        "url": "https://open.spotify.com/album/2HPDTl7R8lbS0ixXjq8d0Q"
-      },
-      "artists": [
-        {
-          "name": "Cody Parks and The Dirty South",
-          "url": "https://open.spotify.com/artist/0jItMOxRNh3sya33eTx4Nk"
-        }
-      ],
-      "duration_ms": 282462,
-      "name": "Redneck Rich",
-      "url": "https://open.spotify.com/track/24LpH8iRf7m5yHLc2QRnbi"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Mustang on Mud Tires",
         "url": "https://open.spotify.com/album/1wS58BaXXAfljI25qgTR4D"
       },
@@ -1123,6 +1071,42 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Yeah",
+        "url": "https://open.spotify.com/album/0tGtrk0sEqiICRVTYhyc54"
+      },
+      "artists": [
+        {
+          "name": "Austin Tolliver",
+          "url": "https://open.spotify.com/artist/3mJzTRR6NlyNWYkZ946WgC"
+        }
+      ],
+      "duration_ms": 197666,
+      "name": "Yeah",
+      "url": "https://open.spotify.com/track/2VhHhttQgFrD64SR4XHG2z"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Trucks Gone Wild",
+        "url": "https://open.spotify.com/album/7chIoYwuPc0piRqB2L5YdN"
+      },
+      "artists": [
+        {
+          "name": "Bezz Believe",
+          "url": "https://open.spotify.com/artist/0J7ABQoXv0zSACmQXz8nqq"
+        },
+        {
+          "name": "Bubba Sparxxx",
+          "url": "https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P"
+        }
+      ],
+      "duration_ms": 101052,
+      "name": "Trucks Gone Wild",
+      "url": "https://open.spotify.com/track/4WjK6vIgUD4vz7MaYOUQNu"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Remember My Name",
         "url": "https://open.spotify.com/album/1cZnPFq1ExNM8hYynZXP2H"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 184058,
       "name": "Remember My Name",
       "url": "https://open.spotify.com/track/7eE8qUTi5in1pkshmphRec"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Redneck Rich",
+        "url": "https://open.spotify.com/album/2HPDTl7R8lbS0ixXjq8d0Q"
+      },
+      "artists": [
+        {
+          "name": "Cody Parks and The Dirty South",
+          "url": "https://open.spotify.com/artist/0jItMOxRNh3sya33eTx4Nk"
+        }
+      ],
+      "duration_ms": 282462,
+      "name": "Redneck Rich",
+      "url": "https://open.spotify.com/track/24LpH8iRf7m5yHLc2QRnbi"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Green Handle",
-        "url": "https://open.spotify.com/album/5y7pMr1i2gVdTukGSeKFq0"
-      },
-      "artists": [
-        {
-          "name": "Good Ol' Boyz",
-          "url": "https://open.spotify.com/artist/7h8lt55X2S8mucaQdnnAqQ"
-        },
-        {
-          "name": "SMO",
-          "url": "https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9"
-        }
-      ],
-      "duration_ms": 350003,
-      "name": "The Plane",
-      "url": "https://open.spotify.com/track/38HqbvZgTBA7ZDWrzoVdVM"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Wanna Party",
         "url": "https://open.spotify.com/album/62wD8IRZLscTmndGFyxfOw"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 199256,
       "name": "Wanna Party",
       "url": "https://open.spotify.com/track/21Au6zdyh2iI5vvjh0asgU"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Green Handle",
+        "url": "https://open.spotify.com/album/5y7pMr1i2gVdTukGSeKFq0"
+      },
+      "artists": [
+        {
+          "name": "Good Ol' Boyz",
+          "url": "https://open.spotify.com/artist/7h8lt55X2S8mucaQdnnAqQ"
+        },
+        {
+          "name": "SMO",
+          "url": "https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9"
+        }
+      ],
+      "duration_ms": 350003,
+      "name": "The Plane",
+      "url": "https://open.spotify.com/track/38HqbvZgTBA7ZDWrzoVdVM"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1311,22 +1311,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Country or Not",
-        "url": "https://open.spotify.com/album/5LMGybLSOAs73pIvUTebbc"
+        "name": "Boondocks",
+        "url": "https://open.spotify.com/album/3qxlU28Y4DlH3IVzq3CVbR"
       },
       "artists": [
         {
-          "name": "Dusty Leigh",
-          "url": "https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr"
+          "name": "Tre Brock",
+          "url": "https://open.spotify.com/artist/2jBk09UvUtyOZGMOwyZA5T"
         },
         {
-          "name": "DJ Cliffy D",
-          "url": "https://open.spotify.com/artist/7oClwfAmFyiRWSCkdOU71P"
+          "name": "Dusty Leigh",
+          "url": "https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr"
         }
       ],
-      "duration_ms": 174600,
-      "name": "Country or Not",
-      "url": "https://open.spotify.com/track/3e0p5d45BgBSUXbxQx643y"
+      "duration_ms": 167755,
+      "name": "Boondocks",
+      "url": "https://open.spotify.com/track/7zNow8jwff91QBjGfUexpo"
     },
     {
       "added_at": "2024-03-08 05:00:00",

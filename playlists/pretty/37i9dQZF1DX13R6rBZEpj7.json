@@ -1,6 +1,6 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 209621,
+  "num_followers": 209738,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2024-03-01 12:22:09",
       "album": {
+        "name": "Hold Me Close",
+        "url": "https://open.spotify.com/album/6kdTGKNxuMUgQ50WhIdVpg"
+      },
+      "artists": [
+        {
+          "name": "Jacko",
+          "url": "https://open.spotify.com/artist/4HBwYjwyfn1X6KO6PqY9ia"
+        }
+      ],
+      "duration_ms": 232888,
+      "name": "Hold Me Close",
+      "url": "https://open.spotify.com/track/5UM597AY45L1gpRsLdslRu"
+    },
+    {
+      "added_at": "2024-03-01 12:22:09",
+      "album": {
         "name": "Alla Dem Bad",
         "url": "https://open.spotify.com/album/63IVVJ6unNqy2Dd2u5INc3"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 174857,
       "name": "Alla Dem Bad",
       "url": "https://open.spotify.com/track/4zYsCeHjJYwXJxWzR8AlNN"
-    },
-    {
-      "added_at": "2024-03-01 12:22:09",
-      "album": {
-        "name": "Hold Me Close",
-        "url": "https://open.spotify.com/album/6kdTGKNxuMUgQ50WhIdVpg"
-      },
-      "artists": [
-        {
-          "name": "Jacko",
-          "url": "https://open.spotify.com/artist/4HBwYjwyfn1X6KO6PqY9ia"
-        }
-      ],
-      "duration_ms": 232888,
-      "name": "Hold Me Close",
-      "url": "https://open.spotify.com/track/5UM597AY45L1gpRsLdslRu"
     },
     {
       "added_at": "2024-03-01 12:22:09",
@@ -1295,6 +1295,26 @@
     {
       "added_at": "2024-03-01 12:22:09",
       "album": {
+        "name": "Lights",
+        "url": "https://open.spotify.com/album/7pnFfPujVx8j0atIcYV2sP"
+      },
+      "artists": [
+        {
+          "name": "Jacko",
+          "url": "https://open.spotify.com/artist/4HBwYjwyfn1X6KO6PqY9ia"
+        },
+        {
+          "name": "DEEPROT",
+          "url": "https://open.spotify.com/artist/5lxAcm7Djoylav7TnkFTHC"
+        }
+      ],
+      "duration_ms": 256603,
+      "name": "Lights",
+      "url": "https://open.spotify.com/track/0ObQeoS1Mka9as8t4Tn9BC"
+    },
+    {
+      "added_at": "2024-03-01 12:22:09",
+      "album": {
         "name": "Lost It (Remixed)",
         "url": "https://open.spotify.com/album/0rv3P4AUuSqXPsbAuedEqg"
       },
@@ -1335,26 +1355,6 @@
       "duration_ms": 195555,
       "name": "Get Right",
       "url": "https://open.spotify.com/track/4p2RKpiWTdaDTPTJ63fMEM"
-    },
-    {
-      "added_at": "2024-03-01 12:22:09",
-      "album": {
-        "name": "Lights",
-        "url": "https://open.spotify.com/album/7pnFfPujVx8j0atIcYV2sP"
-      },
-      "artists": [
-        {
-          "name": "Jacko",
-          "url": "https://open.spotify.com/artist/4HBwYjwyfn1X6KO6PqY9ia"
-        },
-        {
-          "name": "DEEPROT",
-          "url": "https://open.spotify.com/artist/5lxAcm7Djoylav7TnkFTHC"
-        }
-      ],
-      "duration_ms": 256603,
-      "name": "Lights",
-      "url": "https://open.spotify.com/track/0ObQeoS1Mka9as8t4Tn9BC"
     },
     {
       "added_at": "2024-03-01 12:22:09",

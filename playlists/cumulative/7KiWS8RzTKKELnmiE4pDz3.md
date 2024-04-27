@@ -4,7 +4,7 @@
 
 > 
 
-670 songs - 1 day 7 hr 51 min
+671 songs - 1 day 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,6 +315,7 @@
 | [La Zandunga](https://open.spotify.com/track/2n8T1TN38EL256D1fL7y3A) | [Armando Trejo](https://open.spotify.com/artist/5ljXvZNchon1e01tIDadx2) | [Una Guitarra Muy Mexicana](https://open.spotify.com/album/5cyVXnzW45RZGQODWpp2pv) | 2:16 | 2024-02-15 |  |
 | [Lady Brown \(feat\. Cise Starr from CYNE\)](https://open.spotify.com/track/0JL9TZip7mL7iwC5EOkALS) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [Cise Starr](https://open.spotify.com/artist/2Xavhsn8y9Yrr7N08OxvKF) | [Metaphorical Music](https://open.spotify.com/album/5FrjDW96mCYw9ECc74c637) | 3:19 | 2022-09-25 | 2023-05-09 |
 | [Late Night Thoughts](https://open.spotify.com/track/2VDOufBy8AZ62QP9fKWtU0) | [lux!](https://open.spotify.com/artist/78UPr5XqILuhuYhqpFkv6S) | [Late Night Thoughts](https://open.spotify.com/album/7K43nm5jlSvcUWHQtxWAIP) | 3:37 | 2022-06-22 | 2023-12-14 |
+| [Lay All Your Love On Me](https://open.spotify.com/track/4euAGZTszWPrriggYK0HG9) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Super Trouper](https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf) | 4:34 | 2024-04-26 |  |
 | [Lead \(Overseas\)](https://open.spotify.com/track/43CRqUQpaSts3z6ksVVQ1L) | [Aanex](https://open.spotify.com/artist/142KXPkDuhALyplZx3lY0h) | [Lead \(Overseas\)](https://open.spotify.com/album/4Sf2Z3S546TMtn8hU7GStL) | 2:09 | 2023-04-05 | 2023-05-09 |
 | [Lean Chronicles](https://open.spotify.com/track/0DJ6d7MB8BXfGNKS5SuWJr) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx), [leewayy](https://open.spotify.com/artist/6eHaCaEVekeayeW4MdhrGV) | [Lean Chronicles](https://open.spotify.com/album/5dolaHCXz88gNqEKasjZzW) | 2:19 | 2022-10-28 | 2023-04-05 |
 | [Lean Habits](https://open.spotify.com/track/1D8K6DYRkC0sk9418K17hH) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma 2 \(Deluxe\)](https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx) | 2:33 | 2023-08-14 | 2024-03-05 |

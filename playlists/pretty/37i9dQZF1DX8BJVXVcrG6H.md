@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BJVXVcrG6H.md) - [plain]
 
 > Representantes de la rima Charrúa\. Foto: Dostrescinco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,423 likes - 79 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,425 likes - 79 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BJVXVcrG6H.md) - [plain]
 | 7 | [Maldita Pasta](https://open.spotify.com/track/26RAOURzLBiO5iGkWlK5yO) | [Eliz](https://open.spotify.com/artist/1jagX6wMpCUYSNQGvF0D11) | [Maldita Pasta](https://open.spotify.com/album/4NRbCuL1jSuTFmeF12ARc8) | 3:00 |
 | 8 | [Viendo el Sol](https://open.spotify.com/track/09wBkuyFrE7TQHjxctzCn8) | [AFTER](https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p), [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [Viendo el Sol](https://open.spotify.com/album/21yMNcPPAvc1Px0ge24ZiH) | 1:37 |
 | 9 | [Dando Vueltas](https://open.spotify.com/track/314FEi04GJLNc89wCZVanH) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C) | [Dando Vueltas](https://open.spotify.com/album/0C8tHcg6JhCIy46FUgjyGe) | 2:01 |
-| 10 | [Subiendolo](https://open.spotify.com/track/6FCe9Tm6KTIqac84dvaMBr) | [Jay Oc](https://open.spotify.com/artist/4xfAJoeFObf1ny2nj3sgMS), [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD), [S Moreno](https://open.spotify.com/artist/2Eq8xNV6aKDDdoJibsY6FG) | [Subiendolo](https://open.spotify.com/album/37g311aA3XQKoVZSkVOCMq) | 2:40 |
+| 10 | [Subiendolo](https://open.spotify.com/track/6FCe9Tm6KTIqac84dvaMBr) | [Jay Oc](https://open.spotify.com/artist/4xfAJoeFObf1ny2nj3sgMS), [Pekeño 77](https://open.spotify.com/artist/5YpH3K27Nen5MIN37JEYm4), [S Moreno](https://open.spotify.com/artist/1ufSFMJ0rjzSbZ3kqSCGIi) | [Subiendolo](https://open.spotify.com/album/37g311aA3XQKoVZSkVOCMq) | 2:40 |
 | 11 | [El Duelo](https://open.spotify.com/track/12ArbbsxBxxY2RbNdacPPk) | [Arquero](https://open.spotify.com/artist/7j3rplwFIjrg9Wm1yrHLx6), [Eme Ese](https://open.spotify.com/artist/2efK6H5GDQVYQFyAVgKqE3) | [El Duelo](https://open.spotify.com/album/2iQzsjUxzW9rBq7X6jpGht) | 2:28 |
 | 12 | [Sold Out](https://open.spotify.com/track/53ee694mmYJrUMuVip4Zue) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C) | [Sold Out](https://open.spotify.com/album/3gJVk2aIsAUsKr6uCOG327) | 2:51 |
 | 13 | [Así Son las Cosas](https://open.spotify.com/track/0gdKwWosRjP05AOgenRuVM) | [Gavo](https://open.spotify.com/artist/6a4vjdtgYYdro1VozKKhA1) | [Así Son las Cosas](https://open.spotify.com/album/7Hxe3OAm2AuOgNAmHtCEE5) | 2:16 |

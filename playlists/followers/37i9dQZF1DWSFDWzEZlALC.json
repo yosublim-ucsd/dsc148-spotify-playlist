@@ -1,7 +1,7 @@
 {
-  "2024-04-26": 421921,
+  "2024-04-27": 422135,
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Haller, soffie",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Zartmann, antonius, Aaron, Kasi",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -613,6 +613,24 @@
       "duration_ms": 193979,
       "name": "Alles brennt",
       "url": "https://open.spotify.com/track/5uV6ftXE1C8zCexmCDBVIO"
+    },
+    {
+      "album": {
+        "name": "lila/gr\u00fcn",
+        "url": "https://open.spotify.com/album/3M6KH91qxesWQ4ndxj8HXa"
+      },
+      "artists": [
+        {
+          "name": "rosmarin",
+          "url": "https://open.spotify.com/artist/1uvUgsd70vqSzaF4bl3kZK"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215579,
+      "name": "alles egal",
+      "url": "https://open.spotify.com/track/6xzx3smCNpW592TlEPxdBn"
     },
     {
       "album": {
@@ -1451,7 +1469,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 183196,
       "name": "Bleiben k\u00f6nnen",
       "url": "https://open.spotify.com/track/3KHG0KGqP3kjZsOtD5tx9u"
@@ -2162,6 +2180,24 @@
     },
     {
       "album": {
+        "name": "dominik hartz",
+        "url": "https://open.spotify.com/album/56FCch1qFLeR6exygAi9vr"
+      },
+      "artists": [
+        {
+          "name": "Dominik Hartz",
+          "url": "https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "dominik hartz",
+      "url": "https://open.spotify.com/track/17nconovPtL9P1y5jOV2zE"
+    },
+    {
+      "album": {
         "name": "Drachenfrucht",
         "url": "https://open.spotify.com/album/38x0C388O3eX76t2kmfZeD"
       },
@@ -2617,7 +2653,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 150993,
       "name": "Einmal verliebt (Outro)",
       "url": "https://open.spotify.com/track/2Ibp8UUZFcS6dnUXHR4ZIO"
@@ -2999,7 +3035,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 180525,
       "name": "Etwas Neues Beginnt",
       "url": "https://open.spotify.com/track/69S8tugy2hU1qGVXQ6c5lD"
@@ -4175,7 +4211,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 153500,
       "name": "Halbtrocken",
       "url": "https://open.spotify.com/track/1xUKrHw31rFv7w3vxRK6mH"
@@ -4661,6 +4697,28 @@
       "duration_ms": 201360,
       "name": "ich hass dich noch'n bisschen",
       "url": "https://open.spotify.com/track/2N5TDaTcnsEXP9vtCaTiDb"
+    },
+    {
+      "album": {
+        "name": "ich mach mich (regardless)",
+        "url": "https://open.spotify.com/album/477Bp1mHoQ4XhTY2LWm8UG"
+      },
+      "artists": [
+        {
+          "name": "oddworld",
+          "url": "https://open.spotify.com/artist/4moOyBAkXsIAbF3pplCtv8"
+        },
+        {
+          "name": "Levin Liam",
+          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138782,
+      "name": "ich mach mich (regardless)",
+      "url": "https://open.spotify.com/track/5LY20b84kLnv5CxFlbadxf"
     },
     {
       "album": {
@@ -5638,6 +5696,24 @@
     },
     {
       "album": {
+        "name": "Kreislauf",
+        "url": "https://open.spotify.com/album/16ep6MA5PAcoJYeA6TFq07"
+      },
+      "artists": [
+        {
+          "name": "Sandra Isabel",
+          "url": "https://open.spotify.com/artist/1GuE4swTdDZSwFfED65JFW"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207706,
+      "name": "Kreislauf",
+      "url": "https://open.spotify.com/track/7lswBD5MqA6skQ8GqF5NIE"
+    },
+    {
+      "album": {
         "name": "Kugeln im Lauf",
         "url": "https://open.spotify.com/album/0orZYm4hvcSOG5fZ807xGA"
       },
@@ -6260,6 +6336,24 @@
     },
     {
       "album": {
+        "name": "L\u00e4rm",
+        "url": "https://open.spotify.com/album/4PESfTl0glEhMTtEYFRAHy"
+      },
+      "artists": [
+        {
+          "name": "Yosho",
+          "url": "https://open.spotify.com/artist/3teKhev8dyP7LKMcDrS2kT"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98666,
+      "name": "L\u00e4rm",
+      "url": "https://open.spotify.com/track/1oBy3oAxgmTcWLKS8AAWKK"
+    },
+    {
+      "album": {
         "name": "mama",
         "url": "https://open.spotify.com/album/0woCQIR6wZrT1AxnTUYdpz"
       },
@@ -6445,6 +6539,36 @@
       "duration_ms": 135482,
       "name": "Mein Leben ist monoton",
       "url": "https://open.spotify.com/track/4jz17gFogx4uKLHmzYr4e2"
+    },
+    {
+      "album": {
+        "name": "meinen die uns",
+        "url": "https://open.spotify.com/album/0tJ2DBgAhFaeE3AgTLYNaU"
+      },
+      "artists": [
+        {
+          "name": "Zartmann",
+          "url": "https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0"
+        },
+        {
+          "name": "Kasi",
+          "url": "https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw"
+        },
+        {
+          "name": "Aaron",
+          "url": "https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ"
+        },
+        {
+          "name": "antonius",
+          "url": "https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168613,
+      "name": "meinen die uns",
+      "url": "https://open.spotify.com/track/3AB4Fi1stxmdaO3XWlMLbp"
     },
     {
       "album": {
@@ -6691,6 +6815,24 @@
       "duration_ms": 160082,
       "name": "Mond",
       "url": "https://open.spotify.com/track/53czFJt0Cz9DGgpyDrO6l1"
+    },
+    {
+      "album": {
+        "name": "monogame liebe",
+        "url": "https://open.spotify.com/album/70pAG7npnWIwOD6COFkcxk"
+      },
+      "artists": [
+        {
+          "name": "falcke",
+          "url": "https://open.spotify.com/artist/2mnJSF6QbV1jn2QB4QARuf"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135611,
+      "name": "monogame liebe",
+      "url": "https://open.spotify.com/track/4ZVhSSeY27owXp3cpZCm7r"
     },
     {
       "album": {
@@ -7193,6 +7335,24 @@
       "duration_ms": 185680,
       "name": "Nur ein Wort",
       "url": "https://open.spotify.com/track/3Hj12TRBTOBkbBnNpAKe6S"
+    },
+    {
+      "album": {
+        "name": "Nur f\u00fcr eine Nacht",
+        "url": "https://open.spotify.com/album/6chavHP5vWkUejVtTkXQPF"
+      },
+      "artists": [
+        {
+          "name": "PaulWetz",
+          "url": "https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168926,
+      "name": "Nur f\u00fcr eine Nacht",
+      "url": "https://open.spotify.com/track/6KJZ2dTHNUzm4rAdcR41tD"
     },
     {
       "album": {
@@ -8183,7 +8343,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 214020,
       "name": "rumpelstilzchen",
       "url": "https://open.spotify.com/track/6dyGPZ3X6fV2uxZEhbeOz0"
@@ -8433,7 +8593,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 196306,
       "name": "Sch\u00e4me mich",
       "url": "https://open.spotify.com/track/3Fn0gSvkvevwgmkPWg7pIh"
@@ -8473,7 +8633,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 164000,
       "name": "Sch\u00f6nheit / Irrtum",
       "url": "https://open.spotify.com/track/1eZ431fENDVXFaV9SwWsja"

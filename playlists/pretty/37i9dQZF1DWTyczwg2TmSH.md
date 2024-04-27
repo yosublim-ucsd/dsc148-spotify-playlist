@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyczwg2TmSH.md) - [plain]
 
 > Music from and inspired by Shirley, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,431 likes - 20 songs - 49 min 40 sec
+[Spotify](https://open.spotify.com/user/spotify) - 21,439 likes - 20 songs - 49 min 40 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

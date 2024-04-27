@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Coolie
 
-1,270 songs - 3 day 5 hr 49 min
+1,271 songs - 3 day 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -520,6 +520,7 @@
 | [Kombaa Un Kaadaa](https://open.spotify.com/track/6sHk33BOOtItdNYXWcZG27) | [Prakruthi Reddy](https://open.spotify.com/artist/7uI1uHoHZxolbz9jIN4hrN) | [RRR](https://open.spotify.com/album/6YYSjBGYBDtc5km4NeMHL0) | 4:44 | 2022-04-18 | 2022-07-05 |
 | [Kombari Vettapuli \(From "Captain Miller"\)](https://open.spotify.com/track/5I5UHofyht01Idg7KXcjWe) | [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Kombari Vettapuli \(From "Captain Miller"\)](https://open.spotify.com/album/2KZ00vSugPSwx9v0OmpPCo) | 3:16 | 2024-01-08 | 2024-02-23 |
 | [Kombari Vettapuli \(From "Captain Miller"\)](https://open.spotify.com/track/3ABmPbCBTSeer7MO4SKvlZ) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Kombari Vettapuli \(From "Captain Miller"\)](https://open.spotify.com/album/2rnFoq4FIGPD6W2zSlvbRw) | 3:16 | 2024-01-08 | 2024-01-10 |
+| [Kondattam \- From "Kurangu Pedal"](https://open.spotify.com/track/6LduSKxmuB7Gw5ohoStJaL) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ), [Ahana Balaji](https://open.spotify.com/artist/3u8AJXgpkPKGFpNfSdNCGS), [Vidhyarupini](https://open.spotify.com/artist/7xYEiMFf7B6iroMGVKvco3), [V\. Shivathmika](https://open.spotify.com/artist/4xePdQ8zeScxPnmoMuKLM3), [Bramma](https://open.spotify.com/artist/6MCVsi6GS30CyBcLvhKcRg) | [Kondattam \(From "Kurangu Pedal"\)](https://open.spotify.com/album/4k5kMGRGZsUfOjERVfbhth) | 3:19 | 2024-04-26 |  |
 | [Kone Komaane](https://open.spotify.com/track/0pgcemvSQD0ZdZBDtZqY5o) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Chandana Bala Kalyan](https://open.spotify.com/artist/229U8W2owEe3012apvgbwb) | [The Legend \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0xndkcSdl91YAkkA1BK80N) | 5:35 | 2022-05-31 | 2022-08-05 |
 | [Konjam Pakkam Vaa \(From "JINN\-The Pet"\)](https://open.spotify.com/track/2q213WpX8T9ZRBj1Z9I53P) | [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd), [Sanjana Kalmanje](https://open.spotify.com/artist/4zQpCebYLmlfG8Cw43xdtZ), [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW), [Vishnu Edavan](https://open.spotify.com/artist/0EESJaBQY5fiBeQOGvDi3T) | [Konjam Pakkam Vaa \(From "Jinn\-The Pet"\)](https://open.spotify.com/album/3dkl6gtbSBhpyPDzxpPUkX) | 4:13 | 2024-03-06 | 2024-04-19 |
 | [Konjam Pakkam Vaa \(From "JINN\-The Pet"\)](https://open.spotify.com/track/3l0BiJ9d4883WTokcv2Nsw) | [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW), [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd), [Sanjana Kalmanje](https://open.spotify.com/artist/4zQpCebYLmlfG8Cw43xdtZ) | [Konjam Pakkam Vaa \(From "JINN\-The Pet"\)](https://open.spotify.com/album/6UG8i5b8MytlMEo6K5IDUa) | 4:13 | 2024-03-06 |  |

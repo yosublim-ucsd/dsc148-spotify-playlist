@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "CULTURE CLUB",
+        "url": "https://open.spotify.com/album/0gTp1SZuGULqQlaecIJ6IY"
+      },
+      "artists": [
+        {
+          "name": "OTOGIVANASHI",
+          "url": "https://open.spotify.com/artist/44D2YJddv2yvBrrnCEJrN7"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295000,
+      "name": "COSMOS",
+      "url": "https://open.spotify.com/track/5wiL2smHaFTMLFtRNQCTHj"
+    },
+    {
+      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/2BQEHmKCpTfHesUSXBZhjd"
       },

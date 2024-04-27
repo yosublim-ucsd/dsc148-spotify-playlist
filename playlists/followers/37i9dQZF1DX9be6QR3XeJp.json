@@ -1,7 +1,7 @@
 {
-  "2024-04-26": 118635,
+  "2024-04-27": 118622,
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: Pozer",
+  "description": "Discover your new favourite artists from UK&IE. Cover: SOAPBOX",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -4013,6 +4013,24 @@
       "duration_ms": 139279,
       "name": "Stick Around",
       "url": "https://open.spotify.com/track/5uM8bC7dVn5v59zwQybe9d"
+    },
+    {
+      "album": {
+        "name": "HAWD THAT",
+        "url": "https://open.spotify.com/album/7IBKsN43AlunQwU7scSCuA"
+      },
+      "artists": [
+        {
+          "name": "SOAPBOX",
+          "url": "https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154920,
+      "name": "Stiff Upper Lip",
+      "url": "https://open.spotify.com/track/4vOs2zpYvQIaLp1zfU5xJz"
     },
     {
       "album": {

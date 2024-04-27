@@ -1,7 +1,7 @@
 {
-  "2024-04-26": 272558,
+  "2024-04-27": 272357,
   "date_first_scraped": "2022-06-10",
-  "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover:Charlie Boon",
+  "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover: Sharam, Green Velvet,  Adam Beyer,  Layton Giordani",
   "name": "Armada Today",
   "tracks": [
     {
@@ -691,6 +691,28 @@
       "duration_ms": 269965,
       "name": "Alone - andhim Remix",
       "url": "https://open.spotify.com/track/7uUQfixTumDZwmOydFdkXE"
+    },
+    {
+      "album": {
+        "name": "Always And Forever",
+        "url": "https://open.spotify.com/album/4x9Emr96LSwtycsHDI9FZi"
+      },
+      "artists": [
+        {
+          "name": "Haska",
+          "url": "https://open.spotify.com/artist/0oNrNJk1WEVKDpbz4bw54T"
+        },
+        {
+          "name": "Chocolate Puma",
+          "url": "https://open.spotify.com/artist/5Aw0IGM5JS3FuTgtRsDWGA"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "Always And Forever",
+      "url": "https://open.spotify.com/track/70xiVqEhLeTwSh9fusgV7W"
     },
     {
       "album": {
@@ -1981,7 +2003,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 263691,
       "name": "Bon Vivant Redux",
       "url": "https://open.spotify.com/track/58VAQMv5cRNDdGSI1vN0LB"
@@ -2021,7 +2043,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 246624,
       "name": "Breaking",
       "url": "https://open.spotify.com/track/2UWXNfECfxNCH4M21J7oUh"
@@ -2239,6 +2261,32 @@
       "duration_ms": 159735,
       "name": "Burn It Down",
       "url": "https://open.spotify.com/track/3ZULXQYRpINwMSJLf13lgv"
+    },
+    {
+      "album": {
+        "name": "By Now",
+        "url": "https://open.spotify.com/album/5ayaI14vSPFDIUK23VwzRX"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Laura Welsh",
+          "url": "https://open.spotify.com/artist/2QGdI8fUEuoVPJ4xuC5NDe"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153040,
+      "name": "By Now",
+      "url": "https://open.spotify.com/track/0OxLol8qf9zsrXSs1IqyMu"
     },
     {
       "album": {
@@ -3473,7 +3521,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 158044,
       "name": "Death Note",
       "url": "https://open.spotify.com/track/4Twa0rvJUloTw6itYfJpiU"
@@ -3967,7 +4015,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 213154,
       "name": "Do It Again",
       "url": "https://open.spotify.com/track/0isQofkWN5jjRmWVvBPk0d"
@@ -4785,7 +4833,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 174662,
       "name": "Ethnica",
       "url": "https://open.spotify.com/track/4ugytbvOVMa3xkJxF8F9Hc"
@@ -5255,7 +5303,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 194418,
       "name": "Feel The Groove",
       "url": "https://open.spotify.com/track/6GJvjce1MhU6Vtx6WkSZi5"
@@ -5395,7 +5443,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 188375,
       "name": "Fever",
       "url": "https://open.spotify.com/track/1KGsBbd2rHdhWTRb0x4kTO"
@@ -5733,7 +5781,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-24",
+      "date_removed": null,
       "duration_ms": 172995,
       "name": "Forever (Stay Like This) - Club Mix",
       "url": "https://open.spotify.com/track/4aVn9tnx8amD8HG3gp40vb"
@@ -7271,6 +7319,28 @@
       "duration_ms": 178886,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/5JkmAuSvRMBzUVZFhl9E4a"
+    },
+    {
+      "album": {
+        "name": "Head Up High",
+        "url": "https://open.spotify.com/album/5Sb506T3g2BOuQFb23R1Yo"
+      },
+      "artists": [
+        {
+          "name": "Fedde Le Grand",
+          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+        },
+        {
+          "name": "Mike James",
+          "url": "https://open.spotify.com/artist/1K8U58Yw5ZXBP6CRGjBaEq"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155238,
+      "name": "Head Up High",
+      "url": "https://open.spotify.com/track/5TS1zBGWhwv4zbmSMAaPan"
     },
     {
       "album": {
@@ -9321,7 +9391,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 322879,
       "name": "Kaleidoscope Colours - Fejk\u00e1 Remix",
       "url": "https://open.spotify.com/track/5rWRtUt00uxitABP3ZYDC4"
@@ -10493,7 +10563,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 168032,
       "name": "Like Water",
       "url": "https://open.spotify.com/track/6NHxw3CZj7c8c25x15GXEt"
@@ -12305,7 +12375,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 160000,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/7K9ZxHYSwVJ1BTC044EUNw"
@@ -13067,7 +13137,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 156040,
       "name": "Oh! Chuva - Santti Remix",
       "url": "https://open.spotify.com/track/3kkTVo3yCoA4BBvjJWCUdk"
@@ -17859,7 +17929,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 229484,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/3574eark9VyN8Qu71gsc8q"
@@ -18981,6 +19051,28 @@
       "duration_ms": 146412,
       "name": "The Music",
       "url": "https://open.spotify.com/track/4xfYNH75F5Ji7CJ1v0OMM9"
+    },
+    {
+      "album": {
+        "name": "The Orange Theme",
+        "url": "https://open.spotify.com/album/5NZSTlwgjkrpFBp6WEOW0e"
+      },
+      "artists": [
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        },
+        {
+          "name": "AVIRA",
+          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203809,
+      "name": "The Orange Theme",
+      "url": "https://open.spotify.com/track/6qUoVjPN8Ys5NfnTgJrkBT"
     },
     {
       "album": {
@@ -20233,7 +20325,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 277018,
       "name": "Ultima Ratio",
       "url": "https://open.spotify.com/track/4dmiklzCRnTM237iBtbEi5"
@@ -21735,7 +21827,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 173858,
       "name": "You Better - Illyus & Barrientos Terrace Dub",
       "url": "https://open.spotify.com/track/1T16gINiVTRV8AaDGQW2iF"

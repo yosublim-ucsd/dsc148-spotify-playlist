@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX137AZKLkKC6.md) - [plain]
 
 > Las grandes del Despecho y el Género Popular\. Foto: Nico Hernández
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,864 likes - 85 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,784 likes - 85 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mil Vidas](https://open.spotify.com/track/6wUai114wCT3cnQh0tA9XG) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Mil Vidas](https://open.spotify.com/album/3vM8nNOW9eSapGQzJeW6m8) | 2:34 |
-| 2 | [Alch Si](https://open.spotify.com/track/5cWgwbui8BasfjCXvBZ7UA) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Alch Si](https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc) | 2:33 |
-| 3 | [Contentoso](https://open.spotify.com/track/2Pm3YD2PlePljgdzgBRr1h) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Contentoso](https://open.spotify.com/album/2F96HODzvQI22dMNKLiEG6) | 2:49 |
-| 4 | [Vamos a Hacer el Amor](https://open.spotify.com/track/3Ue5K9fWPoiQZlyKUVmV8R) | [Julian Daza](https://open.spotify.com/artist/6v51qeWtu7Jci5u6dQuose), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Vamos a Hacer el Amor](https://open.spotify.com/album/5aMFxAEZJSbamNHk1sGWHW) | 2:22 |
-| 5 | [La Santa y La Diabla \(Remix\) \[feat\. Jhonny Rivera\]](https://open.spotify.com/track/011eF5on3P9zH86Y1MBFTH) | [Alexis Escobar](https://open.spotify.com/artist/5WJINRAYLwCnLBp9tzaE98), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv), [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [La Santa y La Diabla \(Remix\) \[feat\. Jhonny Rivera\]](https://open.spotify.com/album/5PdPQrWoZ7XTikWNuN7Mcu) | 3:02 |
-| 6 | [El Buen Muchacho](https://open.spotify.com/track/22Ebj9oRLnHmbweoh5JlT8) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [El Buen Muchacho](https://open.spotify.com/album/5nH9AMjadh3KB9QLjuwYXD) | 3:24 |
+| 1 | [Contentoso](https://open.spotify.com/track/2Pm3YD2PlePljgdzgBRr1h) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Contentoso](https://open.spotify.com/album/2F96HODzvQI22dMNKLiEG6) | 2:49 |
+| 2 | [Mil Vidas](https://open.spotify.com/track/6wUai114wCT3cnQh0tA9XG) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Mil Vidas](https://open.spotify.com/album/3vM8nNOW9eSapGQzJeW6m8) | 2:34 |
+| 3 | [Alch Si](https://open.spotify.com/track/5cWgwbui8BasfjCXvBZ7UA) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Alch Si](https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc) | 2:33 |
+| 4 | [Extraño a Mi Padre](https://open.spotify.com/track/6ePC137n6OD39Tu75rdhDB) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx), [Yohan Usuga](https://open.spotify.com/artist/5XZHGnpHe7zHUjbZSlgIhJ) | [Extraño a Mi Padre](https://open.spotify.com/album/7t9xSKrJywjFjMKcaygJhl) | 2:52 |
+| 5 | [Vamos a Hacer el Amor](https://open.spotify.com/track/3Ue5K9fWPoiQZlyKUVmV8R) | [Julian Daza](https://open.spotify.com/artist/6v51qeWtu7Jci5u6dQuose), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Vamos a Hacer el Amor](https://open.spotify.com/album/5aMFxAEZJSbamNHk1sGWHW) | 2:22 |
+| 6 | [La Santa y La Diabla \(Remix\) \[feat\. Jhonny Rivera\]](https://open.spotify.com/track/011eF5on3P9zH86Y1MBFTH) | [Alexis Escobar](https://open.spotify.com/artist/5WJINRAYLwCnLBp9tzaE98), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv), [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [La Santa y La Diabla \(Remix\) \[feat\. Jhonny Rivera\]](https://open.spotify.com/album/5PdPQrWoZ7XTikWNuN7Mcu) | 3:02 |
 | 7 | [\(Entre Paréntesis\)](https://open.spotify.com/track/68viiGZoRbLCjsy5xD4VrU) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:48 |
 | 8 | [Cuanto Hay Que Invertir](https://open.spotify.com/track/4A0HaSz7TjayQ2DjUrCr1X) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Cuanto hay que invertir](https://open.spotify.com/album/3nq2H7EWjryQyB8MOTKZZo) | 2:27 |
 | 9 | [Brillarosa](https://open.spotify.com/track/2BMlaVJaHDGd3ODSyrB2VK) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dolido Pero No Arrepentido](https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv) | 2:49 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX137AZKLkKC6.md) - [plain]
 | 84 | [Matemos Las Ganas](https://open.spotify.com/track/4DFy4AEko2E5Vwtj24nSuQ) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Matemos Las Ganas](https://open.spotify.com/album/3T8h8FCiTVaB81R2mzlYgG) | 3:02 |
 | 85 | [Que Mal Te Ves Sin Mí](https://open.spotify.com/track/7zHo6F8N4z4SOl9eBmLqpn) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [No Pongan Esas Canciones](https://open.spotify.com/album/36AXhk3xVtjYKGHhV4NfKu) | 3:17 |
 
-Snapshot ID: `MTcxMjMyOTUwMCwwMDAwMDAwMDNhOWEwZjYxMmQwNzAwNzhhOWFiNzRiNzkzZWI5MThm`
+Snapshot ID: `MTcxNDExNDM4MCwwMDAwMDAwMDhmNmQ0ZjAyOGU0ZTEyYjBjMWYyODhjYjczZmY2MTZj`

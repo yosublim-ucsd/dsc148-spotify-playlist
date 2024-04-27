@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 
 > Uma playlist só com as origens do Rap nacional\. Foto: MV Bill
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,653 likes - 70 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,683 likes - 70 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 | 11 | [A Onda Leva](https://open.spotify.com/track/1IpHjWb6dLTxwQHoyGDFq1) | [Atitude Consciente](https://open.spotify.com/artist/34ILrH8OV6fXpG611vxEMr), [Iel](https://open.spotify.com/artist/7CeX8FscZ3ymBM7szYWEIp) | [A Onda Leva](https://open.spotify.com/album/6UudV04sbXaZA2pvAW8Ply) | 3:05 |
 | 12 | [Artistas ou Não](https://open.spotify.com/track/0dRgUTQzIdmDuvmPQszmEO) | [Facção Central](https://open.spotify.com/artist/3V3rRpp5sbiBNY34AdnplK) | [Juventude de Atitude](https://open.spotify.com/album/22Vf9nDmlJ6xmfvL4yLJh1) | 5:27 |
 | 13 | [Olha O Menino](https://open.spotify.com/track/0ptYXDqZ9GVPhJGPbUG8yY) | [Helião](https://open.spotify.com/artist/4E18TGN1tOs6QTHAOupZgV), [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn) | [Guerreiro, Guerreira](https://open.spotify.com/album/5CGbKL3fvKpdcU1i8VP3Zo) | 3:53 |
-| 14 | [Paz Interior](https://open.spotify.com/track/5hO76mbTvvaKqpo3EmMb8N) | [RZO](https://open.spotify.com/artist/1CQJtHMGhqvrSZiRTjSeOU) | [RZO](https://open.spotify.com/album/0z0tSJkDzOzb7ljZPHsDgn) | 6:06 |
+| 14 | [Paz Interior](https://open.spotify.com/track/5hO76mbTvvaKqpo3EmMb8N) | [RZO](https://open.spotify.com/artist/1CQJtHMGhqvrSZiRTjSeOU), [Sandrão RZO](https://open.spotify.com/artist/0amwdzsF8JXZjz31pZjH0w) | [RZO](https://open.spotify.com/album/0z0tSJkDzOzb7ljZPHsDgn) | 6:06 |
 | 15 | [Se Tu Lutas Tu Conquistas](https://open.spotify.com/track/1J4tWt31G0Klu7R6pMb3Nl) | [SNJ](https://open.spotify.com/artist/53eJax5oXY1SqAwVjSO7Uk) | [Hip Hop \- Rap](https://open.spotify.com/album/0J4Q8MK2zce9EFgMdIgulZ) | 6:23 |
 | 16 | [Um Bom Lugar](https://open.spotify.com/track/7sQPek0zBGZUTK4Eh2opvH) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Rap É Compromisso \(Edição Comemorativa\)](https://open.spotify.com/album/7f7tJ66hE6aghmPubHTqVk) | 5:05 |
 | 17 | [Rap du Bom](https://open.spotify.com/track/3xl7brkgL1RDxU89kFv6Cf) | [Rappin' Hood](https://open.spotify.com/artist/7cLvBjizqjjdC350aOQ2KW) | [Sujeito Homem](https://open.spotify.com/album/1e2nuElLGF6tpPCewKaAdL) | 5:51 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 | 23 | [Mantenha o Respeito](https://open.spotify.com/track/5scK80Nrz12oGUnQGcPgg1) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU) | [Usuário](https://open.spotify.com/album/6IprXLAWCQtujK6LHFt9bn) | 3:16 |
 | 24 | [1, 2, 1, 2 Drão](https://open.spotify.com/track/1gxL7MUZkF14QIuJopjvGI) | [De Menos Crime](https://open.spotify.com/artist/0MihNWp86Psp4ss7Evogvv), [Homens Crânio](https://open.spotify.com/artist/0LTQLkCyyG2UcqlquGiPYa) | [São Mateus pra Vida: Do Barraco pro Mundo](https://open.spotify.com/album/0uEnNGw2GTj8zD3MfKQHFw) | 7:50 |
 | 25 | [Prostituta](https://open.spotify.com/track/2LAA3rvQXZnDvXzX8ikRov) | [Nega Gizza](https://open.spotify.com/artist/3oiQITN04AtBYNL1vRvAZy) | [Na Humildade](https://open.spotify.com/album/0ZOdrdFYiagQVXkLVFBLPl) | 6:52 |
-| 26 | [Pirituba, Pt\. 1](https://open.spotify.com/track/1JFXO85TT9cKw0WvOEJTtw) | [RZO](https://open.spotify.com/artist/1CQJtHMGhqvrSZiRTjSeOU) | [RZO](https://open.spotify.com/album/0z0tSJkDzOzb7ljZPHsDgn) | 5:21 |
+| 26 | [Pirituba, Pt\. 1](https://open.spotify.com/track/1JFXO85TT9cKw0WvOEJTtw) | [RZO](https://open.spotify.com/artist/1CQJtHMGhqvrSZiRTjSeOU), [Sandrão RZO](https://open.spotify.com/artist/0amwdzsF8JXZjz31pZjH0w) | [RZO](https://open.spotify.com/album/0z0tSJkDzOzb7ljZPHsDgn) | 5:21 |
 | 27 | [Eu Sô Função](https://open.spotify.com/track/6G9bkmb5SZTsLJ6vj0JLII) | [Dexter](https://open.spotify.com/artist/76IyGPd3y2mBZCljGcke0x), [Função](https://open.spotify.com/artist/5uq8RHK62SHZYx137LF3Sq), [Mano Brown](https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ) | [Exilado Sim, Preso Não](https://open.spotify.com/album/2tsoZpakSlcb85m9opu4Cz) | 6:27 |
 | 28 | [Us Mano e as Mina](https://open.spotify.com/track/75LqUvMAxMeEvcJsrVahB1) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Seja Como For](https://open.spotify.com/album/7I9xil7ukJrSkUY46RjMSd) | 4:39 |
 | 29 | [Tik Tak \- Extended Mix](https://open.spotify.com/track/2VaEsWr6qb4IZjtlyeweW0) | [Doctor MC's](https://open.spotify.com/artist/3Jj7NIBaqFSHmcsO33ilwh) | [Mallokeragem Zona Leste](https://open.spotify.com/album/5uWvrQPCn5ivSJRKwnwiZ8) | 4:59 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 | 43 | [Falcao](https://open.spotify.com/track/3C6fRtMqdcQltHcepeWBCY) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ) | [O Bagulho E Doido](https://open.spotify.com/album/4cHZppm23SgeWzt3JTU8At) | 4:29 |
 | 44 | [Pânico na Zona Sul](https://open.spotify.com/track/5MS06gIb0ertXR7JENsTQL) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Holocausto Urbano](https://open.spotify.com/album/5xQx7NRZ0P9s03owKob8iP) | 4:40 |
 | 45 | [Aquela Mina É Firmeza \- Ao Vivo](https://open.spotify.com/track/4MEJ6rpnZSOBgA9B5xaFpg) | [Ndee Naldinho](https://open.spotify.com/artist/0nNM4GoozMXNtRBGOwzFCA) | [Ao Vivo](https://open.spotify.com/album/1uE5G37TRNrqrXJvn2hPNu) | 6:34 |
-| 46 | [O Trem](https://open.spotify.com/track/4FpVLn9ne4NDGo83yRTAIi) | [RZO](https://open.spotify.com/artist/1CQJtHMGhqvrSZiRTjSeOU) | [RZO](https://open.spotify.com/album/0z0tSJkDzOzb7ljZPHsDgn) | 5:12 |
+| 46 | [O Trem](https://open.spotify.com/track/4FpVLn9ne4NDGo83yRTAIi) | [RZO](https://open.spotify.com/artist/1CQJtHMGhqvrSZiRTjSeOU), [Sandrão RZO](https://open.spotify.com/artist/0amwdzsF8JXZjz31pZjH0w) | [RZO](https://open.spotify.com/album/0z0tSJkDzOzb7ljZPHsDgn) | 5:12 |
 | 47 | [Só por Você](https://open.spotify.com/track/3Xpwp14Xqhwh7F5wwimrJ8) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Seja Como For](https://open.spotify.com/album/7I9xil7ukJrSkUY46RjMSd) | 4:19 |
 | 48 | [No Brooklin](https://open.spotify.com/track/6KdAJ0GvDGUp2RhuTo4BkU) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn) | [Rap É Compromisso \(Edição Comemorativa\)](https://open.spotify.com/album/7f7tJ66hE6aghmPubHTqVk) | 5:47 |
 | 49 | [Fim de Semana no Parque](https://open.spotify.com/track/6NKchtT70MibwEZfK2ksjl) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Raio X do Brasil](https://open.spotify.com/album/3RwDSMSj82TPDkKMnamGeZ) | 7:47 |

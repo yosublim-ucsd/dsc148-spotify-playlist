@@ -2,9 +2,9 @@
 
 ### [Dance For Days 🪩🕺 2024 EDM](https://open.spotify.com/playlist/68bXT1MZWZvLOJc0FZrgf7)
 
-> Dance to your favorite electronic hits 🪩 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: Gordo
+> Dance to your favorite electronic hits 🪩 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: The Chainsmokers
 
-569 songs - 1 day 5 hr 35 min
+570 songs - 1 day 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,13 +178,14 @@
 | [Free \(Do What U Want\) \- LP Giobbi Club Edit](https://open.spotify.com/track/1Jv5SF45pxopNs7TXn8hAQ) | [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX) | [Free \(Do What U Want\) \(feat\. Jules Buckley\)](https://open.spotify.com/album/06ZWcaFN02Mq0IR3tjq5vt) | 4:01 | 2023-03-10 | 2023-07-29 |
 | [Freedom](https://open.spotify.com/track/2dNpDvdfOWoldOOaXzMVVm) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Freedom](https://open.spotify.com/album/77UHK9hcSBhAoeteVrN0Ox) | 3:25 | 2023-01-20 | 2023-07-29 |
 | [Freeze](https://open.spotify.com/track/4X66U6SUjvZqiKYIpCWXnq) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Freeze](https://open.spotify.com/album/3R2mQavCvrDfM3kZL2B8dh) | 8:07 | 2022-06-03 | 2023-02-05 |
+| [Friday](https://open.spotify.com/track/03bOA3BAjZiqJOGyFmWYFz) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Friday](https://open.spotify.com/album/7syOKNR2x90o9MzqJI91hQ) | 3:28 | 2024-04-26 |  |
 | [Further Away](https://open.spotify.com/track/5w6NzsoExb9pPhoEN9aWRc) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [Further Away](https://open.spotify.com/album/5Cj5Y28x79njyaIIus6zNB) | 3:14 | 2023-08-04 |  |
 | [Für Nimmer](https://open.spotify.com/track/73GKSqqeuhZgNweb48vqPl) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Für Nimmer](https://open.spotify.com/album/0P7b94OcydT0AQHFm9Quwa) | 3:19 | 2023-06-23 | 2023-12-14 |
 | [Garden](https://open.spotify.com/track/77uXlUY5qtAxiN1UCtAcyF) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup) | [Garden](https://open.spotify.com/album/1ojXM8eKlN2poo2wbKpwCm) | 3:35 | 2022-06-03 | 2022-11-05 |
 | [Get To Know Me](https://open.spotify.com/track/6SmsuhxUTtgWQhK723xkDJ) | [Love Harder](https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb) | [Get To Know Me](https://open.spotify.com/album/4s2SYi5i0nmWy3RlYWHGLW) | 3:01 | 2022-07-11 | 2022-11-19 |
 | [Get Up](https://open.spotify.com/track/3uO4nLDiJMH2DkixEFcHIN) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [ShezAr](https://open.spotify.com/artist/3PPJmIxohGjhNvQIyrksIW) | [Get Up](https://open.spotify.com/album/2XahKuNpWDBxLlbD8eKCuc) | 3:06 | 2023-02-10 | 2023-07-29 |
 | [Getting Ripped](https://open.spotify.com/track/0KdoTAngJ728OfFxKYuerL) | [Maikubi](https://open.spotify.com/artist/3UZVRPW86Nc2DemMsNtESB), [Daedra](https://open.spotify.com/artist/4Bl3FXav6VIDmSpaHLwpon) | [Getting Ripped](https://open.spotify.com/album/52eEInSUqfzWuiEYVxoY3u) | 2:10 | 2023-12-08 |  |
-| [Ghosts](https://open.spotify.com/track/3nAYEZFHbgbWyR9ztORqlm) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Lily Mckenzie](https://open.spotify.com/artist/6LsSHppZVgx7eks7hAkTPN) | [Ghosts](https://open.spotify.com/album/5HY0aSwicIG1FdTS4lP3Uw) | 2:56 | 2024-03-15 |  |
+| [Ghosts](https://open.spotify.com/track/3nAYEZFHbgbWyR9ztORqlm) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Lily McKenzie](https://open.spotify.com/artist/6LsSHppZVgx7eks7hAkTPN) | [Ghosts](https://open.spotify.com/album/5HY0aSwicIG1FdTS4lP3Uw) | 2:56 | 2024-03-15 |  |
 | [Give It All To You](https://open.spotify.com/track/4Etji1BJkssKFOFsp3Owfl) | [ICONIC](https://open.spotify.com/artist/6NcFjUkYJyD5G8hEWsZ8TY) | [Give It All To You](https://open.spotify.com/album/1GoBXAy0giW85aSlfrWEVy) | 2:42 | 2023-12-08 |  |
 | [GLBTM \(Studio Outtakes\) \[Edit\]](https://open.spotify.com/track/6gLkmtXYQHitabChjGfiqy) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [GLBTM \(Studio Outtakes\)](https://open.spotify.com/album/1gDbMxDY14mf9OZzpQfON0) | 2:38 | 2023-04-24 | 2023-12-14 |
 | [Go Back](https://open.spotify.com/track/7JzTAGO5uBYTBtlibZIMty) | [Stwo](https://open.spotify.com/artist/5WQxQAu4xmUwCzxPw3GiB4) | [Go Back](https://open.spotify.com/album/780Q7xDp46cJjUqVt2LclA) | 3:44 | 2023-01-20 | 2023-07-29 |

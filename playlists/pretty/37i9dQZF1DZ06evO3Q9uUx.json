@@ -1,12 +1,12 @@
 {
-  "description": "This is BIA. The essential tracks, all in one playlist.",
-  "num_followers": 14083,
+  "description": "This Is BIA. Los temas esenciales, todos en una lista.",
+  "num_followers": 14095,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzkxNjgwMCwwMDAwMDAwMGJjOTc5YjU0OWZmODU2ODRmZWMzMjkxNjBjMTZiODQw",
+  "snapshot_id": "MTcxNDAwMzIwMCwwMDAwMDAwMGQ2YzM1N2ViODI3MTYzOWYzZjBkNWE5OWUyZjMyYmM1",
   "tracks": [
     {
       "added_at": null,
@@ -511,26 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FOR CERTAIN (Deluxe)",
-        "url": "https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 131224,
-      "name": "BESITO (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/1JTJws1FmfNRrF90bns0TT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "nights and weekends",
         "url": "https://open.spotify.com/album/39jNh5MndiuFTNjDjuWnDQ"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 137003,
       "name": "back it up",
       "url": "https://open.spotify.com/track/3I23NiySJ2e5j7T1s3Q6XL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FOR CERTAIN (Deluxe)",
+        "url": "https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 131224,
+      "name": "BESITO (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/1JTJws1FmfNRrF90bns0TT"
     },
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bitch Duh (Remix)",
-        "url": "https://open.spotify.com/album/5Jnm3UWiuxJMcsn443Vb3i"
+        "name": "Bitch Duh feat. BIA (Remix)",
+        "url": "https://open.spotify.com/album/2jTsUf60eITHeQUKdt7ggo"
       },
       "artists": [
         {
@@ -613,8 +613,8 @@
         }
       ],
       "duration_ms": 172235,
-      "name": "Bitch Duh (Remix)",
-      "url": "https://open.spotify.com/track/4mu8JZ7AQKkSYk1DNBKjZT"
+      "name": "Bitch Duh feat. BIA (Remix)",
+      "url": "https://open.spotify.com/track/5CPF2Jw41O6f1DV0jQc6vp"
     },
     {
       "added_at": null,

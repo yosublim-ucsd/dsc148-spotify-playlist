@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk du moment\. Photo : Senyss x Lucas Seb
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,545 likes - 40 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,604 likes - 40 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 39 | [Tout ça](https://open.spotify.com/track/3FpcnvaYqXB9QgvvoY76Ib) | [Kalipsxau](https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6) | [Corps à corps](https://open.spotify.com/album/5d5N6iuCaYio9EGBxDkYyg) | 3:33 |
 | 40 | [Sorry](https://open.spotify.com/track/0rzy01OJW2dioLxXZKAyjY) | [DJ Eladji](https://open.spotify.com/artist/0n417By3ZUnFwtll0nx0kV), [Priscillia](https://open.spotify.com/artist/08BtABqyRZTgHfc97fVZrK) | [Sorry](https://open.spotify.com/album/4kzvsd7djGQxiyqv8uK3MG) | 3:12 |
 
-Snapshot ID: `MTcxNDA4MjQwMCwwMDAwMDAwMGJmZDY1Yzc5YmM1ZDMyMjM2MWQwM2QyZjBhY2MxMzdi`
+Snapshot ID: `MTcxNDExODk3MywwMDAwMDAwMDk4YmNmNTdmYjQ5MDZjMTViNjM5NDEzMzAyOTkxNWE5`

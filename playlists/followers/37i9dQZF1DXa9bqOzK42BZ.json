@@ -1,5 +1,5 @@
 {
-  "2024-04-26": 14722,
+  "2024-04-27": 14776,
   "date_first_scraped": "2022-06-26",
   "description": "Praise and worship from East Africa. Your ultimate Swahili Spiritual nourishment here. Cover: <a href=\"https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY?si=QJbuh-RjQmmrNwSQBrFQhA\">Kanji Mbugua</a> ",
   "name": "Swahili Praise",
@@ -1643,6 +1643,24 @@
       "duration_ms": 399470,
       "name": "Niguse Tena (Live)",
       "url": "https://open.spotify.com/track/0NiEmNgV7TmOHjbZ3DdK75"
+    },
+    {
+      "album": {
+        "name": "Niko Tu",
+        "url": "https://open.spotify.com/album/64Zs0PLCoLANPDPAO8aBjK"
+      },
+      "artists": [
+        {
+          "name": "Mista Champagne",
+          "url": "https://open.spotify.com/artist/0wLYJK9oKV7BMNpCV4d5EW"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238103,
+      "name": "Niko Tu",
+      "url": "https://open.spotify.com/track/34LeuUlDfQXvJn8Ui27nAC"
     },
     {
       "album": {

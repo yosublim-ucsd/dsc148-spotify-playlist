@@ -413,6 +413,24 @@
     },
     {
       "album": {
+        "name": "5AM",
+        "url": "https://open.spotify.com/album/6eiNBOmU5Kpr5X81cELx7I"
+      },
+      "artists": [
+        {
+          "name": "Brown Family",
+          "url": "https://open.spotify.com/artist/58kHjJdhzMEVRdibBX5JJW"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215464,
+      "name": "5AM",
+      "url": "https://open.spotify.com/track/3lernf2FiyL07kM8uTAueb"
+    },
+    {
+      "album": {
         "name": "Elevate",
         "url": "https://open.spotify.com/album/5nAFBraM51Rcfs8HkYos4I"
       },
@@ -5064,7 +5082,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 183094,
       "name": "Give It Up",
       "url": "https://open.spotify.com/track/7i80uzQZleCTVD7231iWTk"
@@ -7402,7 +7420,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 177103,
       "name": "Mauvais Ressentiment",
       "url": "https://open.spotify.com/track/7Gqxw0JjHdPW6crGmFMIlA"
@@ -7782,6 +7800,24 @@
       "duration_ms": 261067,
       "name": "Monet",
       "url": "https://open.spotify.com/track/4V1xzvqweWNjOk5pXcPJtg"
+    },
+    {
+      "album": {
+        "name": "Money & A Bag Of Weed",
+        "url": "https://open.spotify.com/album/0rYf8X3DCTiD1odGKWJSZD"
+      },
+      "artists": [
+        {
+          "name": "20Some",
+          "url": "https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200829,
+      "name": "Money & A Bag Of Weed",
+      "url": "https://open.spotify.com/track/4C8i8QInf73Zps21w3tPjs"
     },
     {
       "album": {
@@ -9326,7 +9362,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 175481,
       "name": "Planer",
       "url": "https://open.spotify.com/track/1hlXA96A3AyXX8UT0OK7I5"
@@ -9475,6 +9511,24 @@
     },
     {
       "album": {
+        "name": "Potion",
+        "url": "https://open.spotify.com/album/2TBeusZ0VFhF22CupNSplb"
+      },
+      "artists": [
+        {
+          "name": "David Campana",
+          "url": "https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179968,
+      "name": "Potion",
+      "url": "https://open.spotify.com/track/1KZfFKGx6fPEAqMJh4BKNi"
+    },
+    {
+      "album": {
         "name": "Pour l'amour du geste II",
         "url": "https://open.spotify.com/album/7vfGXIjImAp4BchsPLD92E"
       },
@@ -9486,7 +9540,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 126179,
       "name": "Pour l'amour du geste II",
       "url": "https://open.spotify.com/track/0lFZYnGWlm2F06POFIQtzt"
@@ -12246,6 +12300,24 @@
       "duration_ms": 134068,
       "name": "V12",
       "url": "https://open.spotify.com/track/634JCPeIeQqZk33b87A7Wf"
+    },
+    {
+      "album": {
+        "name": "Renaissance (Act. II) (Bonus)",
+        "url": "https://open.spotify.com/album/7kin5hd0nUWpMmzC3OKfDH"
+      },
+      "artists": [
+        {
+          "name": "Mouss",
+          "url": "https://open.spotify.com/artist/7D4rgoFxldk2wari7UObNY"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155777,
+      "name": "Va bene",
+      "url": "https://open.spotify.com/track/38Toj0y1veSV0StPFwYBGj"
     },
     {
       "album": {

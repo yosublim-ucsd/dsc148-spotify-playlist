@@ -4,7 +4,7 @@
 
 > Questionable in both morals and taste.
 
-89 songs - 5 hr 14 min
+90 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Weird Science](https://open.spotify.com/track/03AhYPRQeOqG2j54Tdg94E) | [Oingo Boingo](https://open.spotify.com/artist/5LXEAEGrpKQtpyCu2sZuWu) | [Dead Man's Party](https://open.spotify.com/album/44Q1H1q6nSnUnjjGPoxAJb) | 6:08 | 2023-07-17 |  |
 | [Where We Belong](https://open.spotify.com/track/3bn7nqO1SDLLYNEnaW8Sjx) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Counterfeit Arcade](https://open.spotify.com/album/3OdykG7E7VoQwsG38E2Bux) | 3:18 | 2023-03-23 |  |
 | [Why Does the Sun Shine? \(The Sun Is a Mass of Incandescent Gas\)](https://open.spotify.com/track/406AmpTyUGfwp27kRg6EjT) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Severe Tire Damage](https://open.spotify.com/album/3Ww5ZsMGQH4F1Sf16ZztOh) | 2:16 | 2022-05-06 |  |
+| [Wii Turn Up \(Wii Menu Remix\)](https://open.spotify.com/track/59OkvZEB9zPsEa6fQL2LlZ) | [Murcy](https://open.spotify.com/artist/6hsB7sy4Y71liJtAjQQTKD) | [Wii Turn Up \(Wii Menu Remix\)](https://open.spotify.com/album/5Lx2FsaePV7qsgKJa8jXOR) | 3:15 | 2024-04-26 |  |
 | [Wonderland](https://open.spotify.com/track/2tzLjiRec9KtzdhgyVYN6Z) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [<\|º\_º\|>](https://open.spotify.com/album/4DrZfbV5FB2Hwzpq6rwArp) | 3:10 | 2023-06-03 |  |
 | [You're Mine](https://open.spotify.com/track/23F2WO6H1ERmRp8aCEQE9y) | [Dagames](https://open.spotify.com/artist/6O2VM2aM7KwyDIJ4VvAbYx) | [You're Mine](https://open.spotify.com/album/4Qu9kYMmcXNNRipi1E9QC6) | 2:50 | 2022-06-13 |  |
 | [Your Father's Son](https://open.spotify.com/track/7eANxDUhdoTt5Wfn4EFYAv) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [The Owl & The Elephant](https://open.spotify.com/album/5dp6ZztUukzjrn4uzGbFR6) | 3:42 | 2023-03-23 |  |

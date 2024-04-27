@@ -1,5 +1,5 @@
 {
-  "2024-04-26": 28814,
+  "2024-04-27": 28818,
   "date_first_scraped": "2022-09-09",
   "description": "La playlist del jazz italiano, passato e presente. Cover: Paolo Fresu",
   "name": "Jazz Italia",
@@ -1005,7 +1005,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 207186,
       "name": "Because",
       "url": "https://open.spotify.com/track/55uXIX2gUpgELEKQUWFcuh"
@@ -1491,7 +1491,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 342366,
       "name": "C for Chet",
       "url": "https://open.spotify.com/track/36tNhF5UEEPVGCsrgQ3o8C"
@@ -6507,7 +6507,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 222391,
       "name": "Movimento Astratto",
       "url": "https://open.spotify.com/track/6r76msR3jmGKmr9ZjoT6Ez"
@@ -7356,6 +7356,48 @@
     },
     {
       "album": {
+        "name": "Pac\u00ec",
+        "url": "https://open.spotify.com/album/0kPG68bUnMDwB3NOFJuJxC"
+      },
+      "artists": [
+        {
+          "name": "Emanuele Triglia",
+          "url": "https://open.spotify.com/artist/617R11XUjqnwEnjXGsqjTp"
+        },
+        {
+          "name": "Davide Ambrogio",
+          "url": "https://open.spotify.com/artist/3yUvSgqPqtuPwJOskLz0EX"
+        },
+        {
+          "name": "Francesco Fratini",
+          "url": "https://open.spotify.com/artist/3DAWdBF9FZhTWbThgzcfNB"
+        },
+        {
+          "name": "Davide Savarese",
+          "url": "https://open.spotify.com/artist/4qxVdV4LGMsYYravUCrwgf"
+        },
+        {
+          "name": "QWALE",
+          "url": "https://open.spotify.com/artist/2cRadsW7it5UQecQG1Icsh"
+        },
+        {
+          "name": "Simone Alessandrini",
+          "url": "https://open.spotify.com/artist/5HSUXgDjQFrZd7LaS0dStN"
+        },
+        {
+          "name": "Vincenzo Lato",
+          "url": "https://open.spotify.com/artist/18afzVKbLNUIWgXz9DIIrV"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242323,
+      "name": "Pac\u00ec",
+      "url": "https://open.spotify.com/track/7McshwAs1zM97D7gluMuof"
+    },
+    {
+      "album": {
         "name": "Echologia",
         "url": "https://open.spotify.com/album/7bIVzNE03KtbfwnSoqHZRX"
       },
@@ -7371,6 +7413,24 @@
       "duration_ms": 210300,
       "name": "Pajarito Perdido",
       "url": "https://open.spotify.com/track/5HIAIZlTacGONMWqfP8EIu"
+    },
+    {
+      "album": {
+        "name": "Pandora",
+        "url": "https://open.spotify.com/album/3gAKkrKCi1tmDozOpVckVL"
+      },
+      "artists": [
+        {
+          "name": "Il Mago Del Gelato",
+          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211818,
+      "name": "Pandora",
+      "url": "https://open.spotify.com/track/0tR48664h2XserXZXARvf7"
     },
     {
       "album": {
@@ -9561,7 +9621,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 289634,
       "name": "Transe Napolitaine",
       "url": "https://open.spotify.com/track/2mb0WOhZHdTsIZIEbqLxBd"

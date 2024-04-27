@@ -1,12 +1,12 @@
 {
   "description": "The best in blues right now. Cover: Toronzo Cannon",
-  "num_followers": 56444,
+  "num_followers": 56470,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg5NDQ2MCwwMDAwMDAwMDBlZmJmMDllN2NiZDI1NTYwNWIzYjJjMDY4MDc3NjQ4",
+  "snapshot_id": "MTcxNDEwNDA2MCwwMDAwMDAwMDYzNmNmMGM5Yjc3MzYxNDZiYTIzYjJjMmI1ZmRmNzAz",
   "tracks": [
     {
       "added_at": "2024-04-12 04:01:00",
@@ -23,6 +23,38 @@
       "duration_ms": 255000,
       "name": "Can't Fix The World",
       "url": "https://open.spotify.com/track/7ogGQUN9oT3rMX2Jd8VaeP"
+    },
+    {
+      "added_at": "2024-04-26 04:01:00",
+      "album": {
+        "name": "Human Decency",
+        "url": "https://open.spotify.com/album/5OassCcLEpK9Ge2MFQvdT1"
+      },
+      "artists": [
+        {
+          "name": "Sugaray Rayford",
+          "url": "https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3"
+        }
+      ],
+      "duration_ms": 229603,
+      "name": "Human Decency",
+      "url": "https://open.spotify.com/track/6FJuXe1j7UcQQmGKRoCtu4"
+    },
+    {
+      "added_at": "2024-04-26 04:01:00",
+      "album": {
+        "name": "Internet Cowboys",
+        "url": "https://open.spotify.com/album/5GkHtJyAuPkBpANfyDOx3i"
+      },
+      "artists": [
+        {
+          "name": "Seasick Steve",
+          "url": "https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv"
+        }
+      ],
+      "duration_ms": 244986,
+      "name": "Internet Cowboys",
+      "url": "https://open.spotify.com/track/0Q9T0EmJqzr0zc02fZopUx"
     },
     {
       "added_at": "2024-04-12 04:01:00",
@@ -109,22 +141,6 @@
       "url": "https://open.spotify.com/track/2lGG0ypdFl6MYccu3PEPJ1"
     },
     {
-      "added_at": "2024-03-15 04:01:00",
-      "album": {
-        "name": "Ain't That A Man",
-        "url": "https://open.spotify.com/album/0Avhru66QhXAyP9N8xfP30"
-      },
-      "artists": [
-        {
-          "name": "Sugaray Rayford",
-          "url": "https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3"
-        }
-      ],
-      "duration_ms": 298043,
-      "name": "Ain't That A Man",
-      "url": "https://open.spotify.com/track/5K1zCqvd3rcvAEMdGgJjeg"
-    },
-    {
       "added_at": "2024-03-08 05:01:00",
       "album": {
         "name": "Girl Friends",
@@ -143,22 +159,6 @@
       "duration_ms": 197468,
       "name": "Mama Said",
       "url": "https://open.spotify.com/track/3tl3S4BUNrONIO4OTEsBC7"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Funky Music",
-        "url": "https://open.spotify.com/album/0liLs1akeHQRHkvmLWGuEi"
-      },
-      "artists": [
-        {
-          "name": "Seasick Steve",
-          "url": "https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv"
-        }
-      ],
-      "duration_ms": 250600,
-      "name": "Funky Music",
-      "url": "https://open.spotify.com/track/6P1ymqtnLK8fhgss4wSAV4"
     },
     {
       "added_at": "2024-03-22 04:01:00",

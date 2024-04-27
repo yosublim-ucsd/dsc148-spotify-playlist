@@ -1,5 +1,5 @@
 {
-  "2024-04-26": 327374,
+  "2024-04-27": 327470,
   "date_first_scraped": "2021-12-21",
   "description": "H\u00e5ll det 100.",
   "name": "100",
@@ -39,7 +39,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 135000,
       "name": "007",
       "url": "https://open.spotify.com/track/0WWYoV3hnGOpSnmc8BL5ZQ"
@@ -453,6 +453,24 @@
       "duration_ms": 112661,
       "name": "2A",
       "url": "https://open.spotify.com/track/2VkddU9b4DSf9uFJr3HJHr"
+    },
+    {
+      "album": {
+        "name": "2LURAR",
+        "url": "https://open.spotify.com/album/5GZiOiaizPMM0oSdugraeM"
+      },
+      "artists": [
+        {
+          "name": "Greekazo",
+          "url": "https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145570,
+      "name": "2LURAR",
+      "url": "https://open.spotify.com/track/3lq5TnpcGvBz7bMuz4gKBa"
     },
     {
       "album": {
@@ -1161,6 +1179,28 @@
       "duration_ms": 160634,
       "name": "Aktiv",
       "url": "https://open.spotify.com/track/7FILcXgBfO8f48zLaIqb9g"
+    },
+    {
+      "album": {
+        "name": "AKTIV",
+        "url": "https://open.spotify.com/album/7vsQV6WY4h5e4YuwfxYDLK"
+      },
+      "artists": [
+        {
+          "name": "La Rosy",
+          "url": "https://open.spotify.com/artist/1pBol2ATUI6hXWOzZQnrcP"
+        },
+        {
+          "name": "JMK",
+          "url": "https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196923,
+      "name": "AKTIV",
+      "url": "https://open.spotify.com/track/11asg9CR2vxjzIlVu83C4j"
     },
     {
       "album": {
@@ -6450,6 +6490,28 @@
     },
     {
       "album": {
+        "name": "DECIBEL",
+        "url": "https://open.spotify.com/album/06NUaJPqMJnjawwkspDjHz"
+      },
+      "artists": [
+        {
+          "name": "Mohel\u00e1",
+          "url": "https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ"
+        },
+        {
+          "name": "Naod",
+          "url": "https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156387,
+      "name": "DECIBEL",
+      "url": "https://open.spotify.com/track/2kiC5fopiYY3YbpZvZE3Pf"
+    },
+    {
+      "album": {
         "name": "Ded\u00e4r \u2013 Spotify Studio 100 Recording",
         "url": "https://open.spotify.com/album/35ziEJaUtgMrNzN4OtsRdl"
       },
@@ -9714,6 +9776,24 @@
     },
     {
       "album": {
+        "name": "Gatans fel",
+        "url": "https://open.spotify.com/album/2DbO85cxNf30yKnSrEQrrE"
+      },
+      "artists": [
+        {
+          "name": "Shiro",
+          "url": "https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164745,
+      "name": "Gatans fel",
+      "url": "https://open.spotify.com/track/0FJJ5HNpXaqk3AEZ8ybmyV"
+    },
+    {
+      "album": {
         "name": "Gatubarn",
         "url": "https://open.spotify.com/album/0NQS4zxWeOOCHzBiNJ6VdZ"
       },
@@ -11403,7 +11483,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 138352,
       "name": "himmel/helvete",
       "url": "https://open.spotify.com/track/7l7AhIgabgR11SHAcr2PAC"
@@ -11961,7 +12041,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 127482,
       "name": "H\u00c5LL K\u00c4FTEN",
       "url": "https://open.spotify.com/track/748Ay0C89PjJfa3iEelLmH"
@@ -14471,7 +14551,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 168000,
       "name": "K\u00e4nna n\u00e5t (feat. lovad)",
       "url": "https://open.spotify.com/track/6K0DUcbZBWq3pvxfHg29RO"
@@ -14547,7 +14627,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 128121,
       "name": "L4TS",
       "url": "https://open.spotify.com/track/4y5Rea78b4eqahGEJPYtnZ"
@@ -16959,7 +17039,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 133901,
       "name": "MARIJUANA",
       "url": "https://open.spotify.com/track/5ye6Si3ASRq9oNbeDUUKW2"
@@ -18407,6 +18487,24 @@
       "duration_ms": 147723,
       "name": "Move (Ensam) - Spotify Singles",
       "url": "https://open.spotify.com/track/0uxMjXTK2DrJjAPGTJyiwh"
+    },
+    {
+      "album": {
+        "name": "MOVES",
+        "url": "https://open.spotify.com/album/5nCCo1rzx0IFWeNEWFiLQr"
+      },
+      "artists": [
+        {
+          "name": "Sickan",
+          "url": "https://open.spotify.com/artist/4Hyy3uZ9Y3RyNQKSBOdNFl"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186451,
+      "name": "MOVES",
+      "url": "https://open.spotify.com/track/7b5r1VbrSVKEprCEIBGhMT"
     },
     {
       "album": {
@@ -21027,6 +21125,28 @@
       "duration_ms": 129714,
       "name": "Psykopat",
       "url": "https://open.spotify.com/track/4ImKE5dAPoZoDxKKwIimhn"
+    },
+    {
+      "album": {
+        "name": "2 Early 42 Late",
+        "url": "https://open.spotify.com/album/2tIWsjmQDeGE3S2GLqIB4L"
+      },
+      "artists": [
+        {
+          "name": "Euroo",
+          "url": "https://open.spotify.com/artist/5ZVHfahjeu8Z81RYyhcLDH"
+        },
+        {
+          "name": "Nuqi",
+          "url": "https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Psykos (feat. Nuqi)",
+      "url": "https://open.spotify.com/track/56X6QSC3uUyDuYPeSLbohK"
     },
     {
       "album": {
@@ -26027,7 +26147,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 140869,
       "name": "True Story Vol.1",
       "url": "https://open.spotify.com/track/6QX9xKuuvNkKZRhgRmJarr"
@@ -26227,6 +26347,24 @@
       "duration_ms": 180615,
       "name": "Tv\u00e4rtom",
       "url": "https://open.spotify.com/track/1Q6ty9DMFaALbaQaKuvnLN"
+    },
+    {
+      "album": {
+        "name": "TV\u00c5 V\u00c4RLDAR",
+        "url": "https://open.spotify.com/album/53o4sbg9t3jI1iZP5ovCLD"
+      },
+      "artists": [
+        {
+          "name": "Nineb Youk",
+          "url": "https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143993,
+      "name": "Tv\u00e5 v\u00e4rldar",
+      "url": "https://open.spotify.com/track/2DSv6pjsKKwZb1XNXzHXqF"
     },
     {
       "album": {

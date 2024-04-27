@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: STE, <a href="spotify:playlist:37i9dQZF1DWVjDgOMO8jZl">una dei 6 artisti RADAR 2024</a>!
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,959 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,964 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

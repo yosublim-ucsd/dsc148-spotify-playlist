@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover \- Alka Yagnik
 
-301 songs - 17 hr 47 min
+302 songs - 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Hasi \- Female Version](https://open.spotify.com/track/1cmZbGkCEVVAck2MsWpPYQ) | [Ami Mishra](https://open.spotify.com/artist/5ugsiK49gIkIVh8U93EO0z), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Hamari Adhuri Kahani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7sVzilmsqYcLMYw2gtvoZM) | 3:12 | 2023-07-07 | 2023-09-15 |
 | [Heer Bhi Roye](https://open.spotify.com/track/62nq2n3teHwI7oDlpffV9H) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE) | [Yaariyan 2](https://open.spotify.com/album/7ae6aMd39gAqmMfaPi9GUY) | 4:00 | 2023-09-25 | 2024-01-09 |
 | [Hold On](https://open.spotify.com/track/3TgC7pFFpyzq0OK0M7bJ6y) | [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Sunny M.R.](https://open.spotify.com/artist/4bOqW6xGi7n9315ErmJ2Um), [Youngveer](https://open.spotify.com/artist/7koNp45sADjnEc8orfYfNI) | [Hold On](https://open.spotify.com/album/5HQX1XxtrTDVMUnf9okqVt) | 3:06 | 2024-01-29 | 2024-03-15 |
+| [Hoon Galat](https://open.spotify.com/track/2860YVDNO2Rc3QdcArn8i5) | [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW), [Mesbah Ghamsari](https://open.spotify.com/artist/7gUOcZFmplHsmR0tkDujgR) | [Hoon Galat](https://open.spotify.com/album/7vCtoQtl0ZV7l4j3LgCcqK) | 4:50 | 2024-04-26 |  |
 | [Hosh](https://open.spotify.com/track/6E8A7WWZ0lEqNtfFW6RmNP) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ) | [Retropanda \- Part 1](https://open.spotify.com/album/5odDznxSWBaYDjEAUCoQgS) | 4:00 | 2022-04-05 | 2023-01-04 |
 | [Hum Mar Jayenge \(From "Aashiqui 2"\)](https://open.spotify.com/track/6xlz3JYB9TFc52UO0XTnXL) | [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Love Songs By Tulsi Kumar \- Valentine's Special](https://open.spotify.com/album/1guOKfow7HxLyERfE6Wugm) | 5:06 | 2022-11-30 | 2023-01-04 |
 | [Hum Mar Jayenge \(From "Aashiqui 2"\)](https://open.spotify.com/track/7qUsmfNr2bOqhEQutOO14e) | [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Hits Of Tulsi Kumar](https://open.spotify.com/album/5QQ6psrsRiJtO1gsaDRNZD) | 5:06 | 2022-04-05 | 2022-08-04 |
@@ -298,7 +299,7 @@
 | [Vaseegara / Zara Zara Mashup](https://open.spotify.com/track/3B7eDo0JA8rkMRsPa9n7rq) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Vaseegara / Zara Zara Mashup \- Single](https://open.spotify.com/album/6vDWOmsEBS7HIkmO5uagXk) | 3:04 | 2023-03-02 | 2024-02-15 |
 | [Ve Mai Kehna](https://open.spotify.com/track/54xudESkJcqv9R6wPxNUJ9) | [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ) | [Ve Mai Kehna](https://open.spotify.com/album/07mr9B5rufrsckncMTmLda) | 3:11 | 2023-12-08 |  |
 | [Vibe](https://open.spotify.com/track/6kShRZG72aZcuj36nRDmnf) | [Savina](https://open.spotify.com/artist/4fGfsNK7RGd358RrUYivUu) | [Vibe](https://open.spotify.com/album/4n17plcKfif4stXCUFxd77) | 2:45 | 2023-07-07 | 2023-09-28 |
-| [Vidai](https://open.spotify.com/track/77Yun8NJpZjcogPS07s1ld) | [Jaspinder Narula](https://open.spotify.com/artist/4qf5iWCSqeCW9TlbwO58bo), [Sankalp Srivastava](https://open.spotify.com/artist/5xwqzE7HvcA0aqFKgZInSH) | [Vidai](https://open.spotify.com/album/502Nurn66BXWd2mdd3gLV2) | 8:03 | 2024-03-19 |  |
+| [Vidai](https://open.spotify.com/track/77Yun8NJpZjcogPS07s1ld) | [Jaspinder Narula](https://open.spotify.com/artist/4qf5iWCSqeCW9TlbwO58bo), [Sankalp Srivastava](https://open.spotify.com/artist/5xwqzE7HvcA0aqFKgZInSH) | [Vidai](https://open.spotify.com/album/502Nurn66BXWd2mdd3gLV2) | 8:03 | 2024-03-19 | 2024-04-27 |
 | [Video Bana De](https://open.spotify.com/track/7hXcOpRn1c1zFG6sOFcfj5) | [Sukh\-E Muzical Doctorz](https://open.spotify.com/artist/0yniDkE5y7ci4X9OtLBXaQ), [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ) | [Video Bana De](https://open.spotify.com/album/5dCxhMSOKC6RTwWcAFCtM0) | 3:07 | 2022-02-01 | 2022-03-08 |
 | [Waah Sajna](https://open.spotify.com/track/1W09KnUmN919i5upuJXD2S) | [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz), [Gulraj Singh](https://open.spotify.com/artist/7apTJ2UKJkBZNKwCiPkfLJ) | [Waah Sajna](https://open.spotify.com/album/0ylRYNvQcZnyWQeprACjIA) | 3:31 | 2023-07-14 | 2023-11-30 |
 | [What Ve](https://open.spotify.com/track/6Pxq8WosWicxmEqp9BFZ2s) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [What Ve](https://open.spotify.com/album/5uR3tuzwfgecmNPsCfxeUi) | 3:08 | 2022-02-01 | 2023-01-04 |

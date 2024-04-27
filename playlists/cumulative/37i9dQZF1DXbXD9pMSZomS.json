@@ -1673,6 +1673,28 @@
     },
     {
       "album": {
+        "name": "Forgiveness",
+        "url": "https://open.spotify.com/album/1MmarqecvxwzaaQQHSdutV"
+      },
+      "artists": [
+        {
+          "name": "Tour-Maubourg",
+          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
+        },
+        {
+          "name": "AOC Records",
+          "url": "https://open.spotify.com/artist/6eoHnakjWcosB8baPzr7Gy"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289941,
+      "name": "Forgiveness",
+      "url": "https://open.spotify.com/track/1G9e9FPyVPDjKsRPMX7nYH"
+    },
+    {
+      "album": {
         "name": "Friday",
         "url": "https://open.spotify.com/album/1aoCK3kkl8HdyVBOHALzLb"
       },
@@ -3526,7 +3548,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 214602,
       "name": "Restless",
       "url": "https://open.spotify.com/track/5mQjywJBjvmuqWfWwYR0q0"

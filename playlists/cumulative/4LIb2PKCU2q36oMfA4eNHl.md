@@ -4,7 +4,7 @@
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-92 songs - 5 hr 54 min
+94 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Acts Of Union](https://open.spotify.com/track/3rVkdxXmUBtMkerMqF1Km6) | [Turtle](https://open.spotify.com/artist/6iWZrWmdQnRn2fpjAmrbc2) | [Acts Of Union](https://open.spotify.com/album/3f1UEIn91gogniby61Nl3g) | 2:23 | 2024-01-26 |  |
 | [After All This Time](https://open.spotify.com/track/6vrIHPz9KzOZYs7snydrJm) | [Otherwish](https://open.spotify.com/artist/5FJ08AtQgIApHTZwb4Ts5T) | [After All This Time](https://open.spotify.com/album/3ReYVDlK8cefCzAvrJ85dv) | 4:49 | 2023-12-08 | 2024-01-13 |
 | [Amalia Play \(feat\. Amalia\)](https://open.spotify.com/track/4N5J8lR2f0ts6lKJiAWQmk) | [Stelios Vassiloudis](https://open.spotify.com/artist/1rXevGVPZv1czKVpdO9wWn) | [Reflections 08](https://open.spotify.com/album/49U4QIM62pLsUATN0ATjtP) | 4:15 | 2024-04-15 | 2024-04-20 |
+| [Ambient Resonances](https://open.spotify.com/track/4aEXOceIIBTWEMhXQ4ivXz) | [The Floating Whale](https://open.spotify.com/artist/7egG6Bs3yvF8st1lQ1Aa0h), [Hiyasu Cuts](https://open.spotify.com/artist/2Y9fGLK2O6rYdTftrcgKnO) | [Ambient Resonances](https://open.spotify.com/album/0qnDn96QQ9t6c6Q1jifsEr) | 1:45 | 2024-04-26 |  |
 | [And Yet \- Gold Panda Remix](https://open.spotify.com/track/54g5CPCX4cJIAqNnS772pR) | [Will Samson](https://open.spotify.com/artist/6VBJxxPZ84ty9nR1nFkNNx), [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [And Yet \(Gold Panda Remix\)](https://open.spotify.com/album/6LNDNbQAtMzcYwhuuiw8q2) | 3:28 | 2024-01-26 |  |
 | [Autumn Leaves](https://open.spotify.com/track/1IMhurwZ1TdBQyXi9xz2H2) | [Stegonaute](https://open.spotify.com/artist/4ILyRrOiTzhF9hPDzYWcXs) | [Reflections 08](https://open.spotify.com/album/49U4QIM62pLsUATN0ATjtP) | 2:34 | 2024-04-12 |  |
 | [Avril 14th](https://open.spotify.com/track/1uaGSDFsLdReQgg8p7Obwh) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2) | 2:05 | 2024-01-12 | 2024-04-20 |
@@ -50,6 +51,7 @@
 | [Inner \(for Jen\)](https://open.spotify.com/track/4VOVyIBfnrSQ2OZyISkn4g) | [Joel Shearer](https://open.spotify.com/artist/4HrrmVtL1VbUi15AvooVeR) | [The Sounds Inside Of Me When I Think Of You EP](https://open.spotify.com/album/3oajHb9mhmBvgqXvvhj5Bc) | 5:05 | 2024-02-09 |  |
 | [Ithaca](https://open.spotify.com/track/49MMPosiIrORwUtdrG1eiQ) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Memory Morning](https://open.spotify.com/album/2LsEbodgqI6P1q7QEVe3P7) | 3:59 | 2024-04-19 |  |
 | [IZUMO](https://open.spotify.com/track/7alJ5Zy3imEzCCzwv9hEtq) | [Yui Onodera](https://open.spotify.com/artist/7mCcHxpwKyDj2aJZNGZP7e) | [Reflections 07](https://open.spotify.com/album/1hwOuBjlXZhaEifsDfG14V) | 4:41 | 2023-12-08 | 2024-01-13 |
+| [Just Like Heaven](https://open.spotify.com/track/03lqvDgdBKvrq3mGztwU93) | [Vincenzo](https://open.spotify.com/artist/7FR8ZynvReyPlYfi4LnKyI), [Minako](https://open.spotify.com/artist/5XmQ2g7xxwA3I0o6LWXM2N) | [The Vanishing Years](https://open.spotify.com/album/3lnxGIRMSj6NKB16ijwbOH) | 4:55 | 2024-04-26 |  |
 | [Kioku](https://open.spotify.com/track/6xGkHqnwZ0Gsbw6npaCD3s) | [Akitsugu Fukushima](https://open.spotify.com/artist/7prxMXbUZnwDhlaxGC5Bdb) | [Boy 1 EP](https://open.spotify.com/album/7uIBHzFLaUAdv6xkVTPLeT) | 3:48 | 2024-03-28 |  |
 | [Kyoto \(京都\) \- Lycoriscoris Remix](https://open.spotify.com/track/3rNpzCkiH8H7kvL44T36D1) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P), [Lycoriscoris](https://open.spotify.com/artist/44fky3vQ6AYZ15CmNYrmyt) | [Jōhatsu \(蒸発\) \(The Remixes\)](https://open.spotify.com/album/1iDvYexi7CTmtTSSI16vJs) | 3:50 | 2023-12-08 | 2024-01-27 |
 | [La luna \(Flica’s Moonlight Remix\)](https://open.spotify.com/track/0CgocE5K72fz4Ej7uEroti) | [D & the Compass](https://open.spotify.com/artist/3ilD695ywPm5CrM65QwoXF), [Flica](https://open.spotify.com/artist/4cgwbxk8cR38EzgY9lq3Ff) | [La luna \(Flica's Moonlight Remix\)](https://open.spotify.com/album/3jNccBInH9Dktpo4tvhumR) | 3:09 | 2024-01-19 | 2024-04-13 |
@@ -92,12 +94,12 @@
 | [Tides](https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Tides](https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY) | 3:46 | 2023-12-08 | 2024-01-06 |
 | [Tides](https://open.spotify.com/track/2Q8JhBUBD748dc1yUZCtuM) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Tides](https://open.spotify.com/album/4Qf13iLtFmcyjNZt9fChJV) | 3:36 | 2023-12-15 | 2024-02-03 |
 | [To Where Dreams Are](https://open.spotify.com/track/3u5CANxJ6iPjZIVZz9Wcmu) | [Nourey](https://open.spotify.com/artist/29eCbkd3VZXMgG5Ggyuaog) | [Reflections 07](https://open.spotify.com/album/1hwOuBjlXZhaEifsDfG14V) | 4:06 | 2023-12-08 | 2024-04-17 |
-| [Unlearn](https://open.spotify.com/track/3Zeykv0VAQEomLmiq0hr9P) | [Stelios Vassiloudis](https://open.spotify.com/artist/1rXevGVPZv1czKVpdO9wWn) | [XY/YX](https://open.spotify.com/album/4wtyeAs2RqBfHyfc9hm5F2) | 4:11 | 2024-03-08 |  |
+| [Unlearn](https://open.spotify.com/track/3Zeykv0VAQEomLmiq0hr9P) | [Stelios Vassiloudis](https://open.spotify.com/artist/1rXevGVPZv1czKVpdO9wWn) | [XY/YX](https://open.spotify.com/album/4wtyeAs2RqBfHyfc9hm5F2) | 4:11 | 2024-03-08 | 2024-04-27 |
 | [Vanishing Point](https://open.spotify.com/track/3QFamijo1AyZ7eb1cnNNaC) | [Stelios Vassiloudis](https://open.spotify.com/artist/1rXevGVPZv1czKVpdO9wWn) | [XY/YX](https://open.spotify.com/album/4wtyeAs2RqBfHyfc9hm5F2) | 4:00 | 2024-03-08 |  |
 | [Walking Slowly](https://open.spotify.com/track/59ALSzlla8jAzqD5Dhozoo) | [Maty Owl](https://open.spotify.com/artist/1CoaTV8EqidFgYH8CDsfAu) | [Reflections 08](https://open.spotify.com/album/49U4QIM62pLsUATN0ATjtP) | 4:31 | 2024-04-12 |  |
 | [Wide Awake](https://open.spotify.com/track/5HWHvmv2Se7JK5E5lzfUCB) | [Afterlife](https://open.spotify.com/artist/6gnvHPFDgWP4LiES4X0Ajz) | [Reflections 07](https://open.spotify.com/album/1hwOuBjlXZhaEifsDfG14V) | 4:03 | 2023-12-08 | 2024-03-29 |
 | [Wind Tempos](https://open.spotify.com/track/4GKSQD4lm08ORPorzi2wOb) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Nurture](https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM) | 6:04 | 2024-03-28 |  |
-| [With Hope](https://open.spotify.com/track/2CNx1R95u2ILOFpxcgR1o1) | [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr) | [Chalk](https://open.spotify.com/album/7BwSbpmnlFAHrKpXdCrlcj) | 1:29 | 2024-02-16 |  |
+| [With Hope](https://open.spotify.com/track/2CNx1R95u2ILOFpxcgR1o1) | [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr) | [Chalk](https://open.spotify.com/album/7BwSbpmnlFAHrKpXdCrlcj) | 1:29 | 2024-02-16 | 2024-04-27 |
 | [You \- Odeon Remix](https://open.spotify.com/track/1zGHbWjSuSuG86mlW9eWSl) | [minds&machines](https://open.spotify.com/artist/2KxAw5fHhZUSuDNBuNACUQ), [Odeon](https://open.spotify.com/artist/3SWSnHWyLjxCkSREp4j6ye) | [Reflections 06](https://open.spotify.com/album/4rCoIoKUuFFEqHaNTpgvOx) | 2:55 | 2023-12-08 | 2024-01-13 |
 | [Your Depth Of Imagination](https://open.spotify.com/track/3RFMabGRVnc46cWqceyT9W) | [Talee](https://open.spotify.com/artist/7pf6HNkcy55zaCdFFOugju) | [My Mother Was A Synthesizer EP](https://open.spotify.com/album/21dxrmqpCfgpnMA4V2GocZ) | 2:38 | 2023-12-08 | 2023-12-16 |
 

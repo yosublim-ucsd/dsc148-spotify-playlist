@@ -1,7 +1,7 @@
 {
-  "2024-04-26": 1079517,
+  "2024-04-27": 1079300,
   "date_first_scraped": "2023-09-29",
-  "description": "Photo: Naps",
+  "description": "Photo: Jul x DYSTINCT",
   "name": "Best Life",
   "tracks": [
     {
@@ -221,7 +221,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 188226,
       "name": "BOULOT (feat. Genezio)",
       "url": "https://open.spotify.com/track/7ECLmXM6vT1ApkoJOkDaRZ"
@@ -525,6 +525,24 @@
       "duration_ms": 160960,
       "name": "Drift\u00e9",
       "url": "https://open.spotify.com/track/2RhLQNIhtQRPU2I2ExxBS3"
+    },
+    {
+      "album": {
+        "name": "DXB",
+        "url": "https://open.spotify.com/album/6EPnl5aba6enLzXfjfp3tU"
+      },
+      "artists": [
+        {
+          "name": "Mortalla",
+          "url": "https://open.spotify.com/artist/7xVHj5WkiGCygNfzWbOVRD"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144033,
+      "name": "DXB",
+      "url": "https://open.spotify.com/track/1MWOBTcuQwLvK3lAhkOvtU"
     },
     {
       "album": {
@@ -1082,7 +1100,7 @@
       "artists": [
         {
           "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+          "url": "https://open.spotify.com/artist/2qkrqa9cENicGRgrFo83Ox"
         },
         {
           "name": "Ayra Starr",
@@ -1095,6 +1113,24 @@
       "duration_ms": 202186,
       "name": "No love",
       "url": "https://open.spotify.com/track/1JvMPB1mkcrQsnasBGMBYd"
+    },
+    {
+      "album": {
+        "name": "LES DI\u00c8SES 2",
+        "url": "https://open.spotify.com/album/1MyXhXWrMODghP4Oa9p054"
+      },
+      "artists": [
+        {
+          "name": "Gros Mo",
+          "url": "https://open.spotify.com/artist/7r65N4pfWPM7D0zKe86jgk"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190986,
+      "name": "Noche",
+      "url": "https://open.spotify.com/track/2OFjQrosVRVFY2nVxrFvBG"
     },
     {
       "album": {
@@ -1361,7 +1397,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 180452,
       "name": "Potentiel",
       "url": "https://open.spotify.com/track/6hqSDLb1u5x1kduc51ZMym"
@@ -1379,7 +1415,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 171386,
       "name": "Promis",
       "url": "https://open.spotify.com/track/2s0n6Lv3JfFdUqBfRz7UST"

@@ -1,13 +1,41 @@
 {
-  "description": "Worship 2024 | Your favorite praise and worship songs of 2024. Made by <a href=\"spotify:user:sozoofficial\">SOZO Playlists</a>! ",
-  "num_followers": 117129,
+  "description": "Worship 2024 | <a href=\"https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC?si=FLMGbM6MRYy3pa0DmxGIzA\">UPPERROOM</a> is taking over Worship 2024 with their new album, 'Moments: 013 (Live)'! Made by <a href=\"spotify:user:sozoofficial\">SOZO Playlists</a>! ",
+  "num_followers": 117112,
   "original_name": "Worship 2024",
   "owner": {
     "name": "SOZO Playlists ",
     "url": "https://open.spotify.com/user/sozoofficial"
   },
-  "snapshot_id": "Nzg4Niw0Yjk4NThhNTZiZGY4ZDVhZjBhYmU2ZDVkOTZjMmJiZGEwMWM1MjAy",
+  "snapshot_id": "NzkwMCxlYzBmOTZhZmE2ZjM3ZGM2NTEzNDQxZTU5ODA5MzI0YjYwMDBkNjcx",
   "tracks": [
+    {
+      "added_at": "2024-04-26 04:10:46",
+      "album": {
+        "name": "Moments: 013 (Live)",
+        "url": "https://open.spotify.com/album/1SWM0tZNei6sWT0e8JGiRe"
+      },
+      "artists": [
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Eniola Abioye",
+          "url": "https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6"
+        },
+        {
+          "name": "Joel Figueroa",
+          "url": "https://open.spotify.com/artist/3QRS0RlYKcQFdr7X4pcE4V"
+        },
+        {
+          "name": "Elyssa Smith",
+          "url": "https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF"
+        }
+      ],
+      "duration_ms": 371891,
+      "name": "Living Sacrifice - Live",
+      "url": "https://open.spotify.com/track/6aQEAaWO8wAXJ7aWm130XM"
+    },
     {
       "added_at": "2024-03-22 19:27:18",
       "album": {
@@ -197,6 +225,30 @@
       "url": "https://open.spotify.com/track/3tSN0n75qQRw3SyCo6u0P9"
     },
     {
+      "added_at": "2024-04-26 18:00:32",
+      "album": {
+        "name": "Moments: 013 (Live)",
+        "url": "https://open.spotify.com/album/1SWM0tZNei6sWT0e8JGiRe"
+      },
+      "artists": [
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "SarahBeth Smith",
+          "url": "https://open.spotify.com/artist/31aU0Wqs7rmaYaOOgfKcYi"
+        },
+        {
+          "name": "Justus Tams",
+          "url": "https://open.spotify.com/artist/2IiwIcF2ugOhgrqg4IH5Vk"
+        }
+      ],
+      "duration_ms": 515017,
+      "name": "Purify Our Hearts (Refiner's Fire) - Live",
+      "url": "https://open.spotify.com/track/0suAivAG70ioof9bEcbFTe"
+    },
+    {
       "added_at": "2024-03-22 19:27:18",
       "album": {
         "name": "So Will I (100 Billion X) [Live]",
@@ -211,6 +263,30 @@
       "duration_ms": 427958,
       "name": "So Will I (100 Billion X) - Live",
       "url": "https://open.spotify.com/track/3LQCScj7cBoC2mt7CoKlyP"
+    },
+    {
+      "added_at": "2024-04-26 04:05:44",
+      "album": {
+        "name": "Yahweh (Live)",
+        "url": "https://open.spotify.com/album/1PXUV7TQp3eROEU5H1glKh"
+      },
+      "artists": [
+        {
+          "name": "Transformation Worship",
+          "url": "https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I"
+        },
+        {
+          "name": "Roosevelt Stewart",
+          "url": "https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk"
+        },
+        {
+          "name": "Libby Rosa",
+          "url": "https://open.spotify.com/artist/1OZYIBIA9ZIu94PFgQiu5R"
+        }
+      ],
+      "duration_ms": 733828,
+      "name": "Yahweh - Live",
+      "url": "https://open.spotify.com/track/3FnAnpIW5uOrTpoVYqGvad"
     },
     {
       "added_at": "2024-03-22 19:27:18",
@@ -243,6 +319,26 @@
       "duration_ms": 197689,
       "name": "Calvary's Enough",
       "url": "https://open.spotify.com/track/2oBrfq6TBwRyW15UZozfZs"
+    },
+    {
+      "added_at": "2024-04-26 16:28:53",
+      "album": {
+        "name": "Surely",
+        "url": "https://open.spotify.com/album/6cqF6nUlnRGArypZzu0gWC"
+      },
+      "artists": [
+        {
+          "name": "Canyon Hills Worship",
+          "url": "https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK"
+        },
+        {
+          "name": "Michael Monroe",
+          "url": "https://open.spotify.com/artist/2DjzwlGxl8RUPTvvB9hgHv"
+        }
+      ],
+      "duration_ms": 270696,
+      "name": "Surely",
+      "url": "https://open.spotify.com/track/2nwo4mImDCcyD0B7ii7tbq"
     },
     {
       "added_at": "2024-04-19 04:32:42",
@@ -339,6 +435,34 @@
       "duration_ms": 397128,
       "name": "Jesus Is My Healer - Live at Gateway Conference",
       "url": "https://open.spotify.com/track/2ehScY2VKSRBuk3CKbaLmU"
+    },
+    {
+      "added_at": "2024-04-26 18:00:37",
+      "album": {
+        "name": "Moments: 013 (Live)",
+        "url": "https://open.spotify.com/album/1SWM0tZNei6sWT0e8JGiRe"
+      },
+      "artists": [
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Eniola Abioye",
+          "url": "https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6"
+        },
+        {
+          "name": "Joel Figueroa",
+          "url": "https://open.spotify.com/artist/3QRS0RlYKcQFdr7X4pcE4V"
+        },
+        {
+          "name": "Elyssa Smith",
+          "url": "https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF"
+        }
+      ],
+      "duration_ms": 785474,
+      "name": "This Is Your Mercy - Live",
+      "url": "https://open.spotify.com/track/0c1vmevSa5N5ilhlMlN2FZ"
     },
     {
       "added_at": "2024-04-05 15:27:50",
@@ -519,6 +643,26 @@
       "duration_ms": 240134,
       "name": "Let It Flow - Live",
       "url": "https://open.spotify.com/track/6EP33vME23wA0pX2ZeG7mH"
+    },
+    {
+      "added_at": "2024-04-26 18:00:41",
+      "album": {
+        "name": "Moments: 013 (Live)",
+        "url": "https://open.spotify.com/album/1SWM0tZNei6sWT0e8JGiRe"
+      },
+      "artists": [
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Andrea Alexis",
+          "url": "https://open.spotify.com/artist/5KDykgnGLLWO79EH4NHViW"
+        }
+      ],
+      "duration_ms": 671948,
+      "name": "Most Beautiful - Live",
+      "url": "https://open.spotify.com/track/5RUHXf2j7LTvt5Rglaasii"
     },
     {
       "added_at": "2024-03-22 19:27:18",
@@ -705,6 +849,30 @@
       "url": "https://open.spotify.com/track/1e1HPM8FnWNSzap6ZI6s4f"
     },
     {
+      "added_at": "2024-04-26 18:00:45",
+      "album": {
+        "name": "Moments: 013 (Live)",
+        "url": "https://open.spotify.com/album/1SWM0tZNei6sWT0e8JGiRe"
+      },
+      "artists": [
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Aiva Jenkins",
+          "url": "https://open.spotify.com/artist/0kHsjUrgZWShkTeraeXGBd"
+        },
+        {
+          "name": "Sam Marines",
+          "url": "https://open.spotify.com/artist/7oJvy2NV9O1NYo215EHmy3"
+        }
+      ],
+      "duration_ms": 505110,
+      "name": "You're The Same God - Live",
+      "url": "https://open.spotify.com/track/2wr99qaFm7RPdWc4qgXVxh"
+    },
+    {
       "added_at": "2024-03-22 19:27:18",
       "album": {
         "name": "Crowns Down (Live / Deluxe)",
@@ -723,6 +891,22 @@
       "duration_ms": 448179,
       "name": "Joy (What The World Calls Foolish) - Live",
       "url": "https://open.spotify.com/track/59XvMohAPJxOYI2qNnsJ6w"
+    },
+    {
+      "added_at": "2024-04-26 16:27:00",
+      "album": {
+        "name": "Everything (Live)",
+        "url": "https://open.spotify.com/album/3rfk71QgqxMVCunwVkzT2A"
+      },
+      "artists": [
+        {
+          "name": "Open Heaven",
+          "url": "https://open.spotify.com/artist/5mCCAerun72aycTarMpOYw"
+        }
+      ],
+      "duration_ms": 482415,
+      "name": "Everything - Live",
+      "url": "https://open.spotify.com/track/7tBaXgX5kv9dgnvDN9Fani"
     },
     {
       "added_at": "2024-03-22 19:27:18",
@@ -859,6 +1043,34 @@
       "duration_ms": 411000,
       "name": "So Will I (100 Billion X)",
       "url": "https://open.spotify.com/track/1ed3wNCecRIp6SugyR0w2J"
+    },
+    {
+      "added_at": "2024-04-26 18:00:49",
+      "album": {
+        "name": "Moments: 013 (Live)",
+        "url": "https://open.spotify.com/album/1SWM0tZNei6sWT0e8JGiRe"
+      },
+      "artists": [
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Aiva Jenkins",
+          "url": "https://open.spotify.com/artist/0kHsjUrgZWShkTeraeXGBd"
+        },
+        {
+          "name": "Aaron Tedeschi",
+          "url": "https://open.spotify.com/artist/3LSv8vyAjTxn37MsKnYkz0"
+        },
+        {
+          "name": "Axel Villase\u00f1or",
+          "url": "https://open.spotify.com/artist/1OBAz2nuC2PadjzxEcpHSF"
+        }
+      ],
+      "duration_ms": 544924,
+      "name": "We Have The Holy Spirit - Live",
+      "url": "https://open.spotify.com/track/5t4UFeqM1hCHlDtphXdeMo"
     },
     {
       "added_at": "2024-03-22 19:27:18",

@@ -4161,6 +4161,28 @@
     },
     {
       "album": {
+        "name": "For Once In My Life",
+        "url": "https://open.spotify.com/album/0gyOghIejAM8UeTxt2LuQq"
+      },
+      "artists": [
+        {
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+        },
+        {
+          "name": "Lou Pomanti",
+          "url": "https://open.spotify.com/artist/4dSjbjQP6Si6yNXMCG19UW"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229747,
+      "name": "For Once In My Life",
+      "url": "https://open.spotify.com/track/2bxofRdvqQGRAHVjCpAQ6G"
+    },
+    {
+      "album": {
         "name": "Forget Me",
         "url": "https://open.spotify.com/album/6e9PZpDpLY3k0BhM4xdBvm"
       },
@@ -5396,7 +5418,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 164802,
       "name": "I Left My Heart in San Francisco",
       "url": "https://open.spotify.com/track/0JMKTFFmoCSBv7ofobgYk7"
@@ -8512,7 +8534,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 358053,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/28BuGCSbPIjzmYY3zCmESA"
@@ -10598,6 +10620,36 @@
       "duration_ms": 333259,
       "name": "Scars",
       "url": "https://open.spotify.com/track/0e5lg6vfChbb3IX8LCF3mO"
+    },
+    {
+      "album": {
+        "name": "Ennio",
+        "url": "https://open.spotify.com/album/5zt777VEVeCfm0lsasbEq3"
+      },
+      "artists": [
+        {
+          "name": "Gregoire Maret",
+          "url": "https://open.spotify.com/artist/24jNRyMv4IEPuL1qwmZuNW"
+        },
+        {
+          "name": "Romain Collin",
+          "url": "https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV"
+        },
+        {
+          "name": "Cassandra Wilson",
+          "url": "https://open.spotify.com/artist/6TZ5t4kclsmGWHqb3mGyha"
+        },
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253333,
+      "name": "Se Telefonando",
+      "url": "https://open.spotify.com/track/467IHEFyhfSUvQniIlaeb2"
     },
     {
       "album": {

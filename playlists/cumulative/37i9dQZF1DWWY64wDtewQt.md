@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-715 songs - 1 day 2 hr 49 min
+717 songs - 1 day 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [DAISHO](https://open.spotify.com/track/7cocrgKcbtWjKAb3IiistF) | [Dozy Doe](https://open.spotify.com/artist/3M5TXkT9LxgZPcLSKBr4Pf), [Letoa](https://open.spotify.com/artist/6x3qkVWtPGzHKCED9ATXrV) | [DAISHO](https://open.spotify.com/album/4ybWFDuESiWvg8Ye20hXZx) | 2:16 | 2022-08-19 | 2022-10-15 |
 | [DAMAGE](https://open.spotify.com/track/2YSm6BI1oDJwBayq3ey1QG) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [DAMAGE](https://open.spotify.com/album/3ZBmbk49nEavSEHQ1ZZyv7) | 2:21 | 2022-06-03 | 2023-05-06 |
 | [DANSE MACABRE](https://open.spotify.com/track/6WsmflGCwkuqed92TBOUPu) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY) | [DANSE MACABRE](https://open.spotify.com/album/4rt9mCmqQVEqwjnfvy4njR) | 2:09 | 2022-12-23 | 2023-02-11 |
+| [DANÇA DO YA YA MIJO YA \- SUPER SLOWED](https://open.spotify.com/track/1c0ziDDbmj4YlLtknfLlRh) | [DJ JCK](https://open.spotify.com/artist/0W1y7zH8qHJTDALHp1YcNJ), [Polaris](https://open.spotify.com/artist/4DWPOsGWbW7sBHb1UuBvWs) | [DANÇA DO YA YA MIJO YA](https://open.spotify.com/album/1JcE49pK0uX8CcKD5bjOtw) | 1:42 | 2024-04-26 |  |
 | [DARK LADY](https://open.spotify.com/track/15kFp3rOPgHSogMHLon1bC) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX) | [DARK LADY](https://open.spotify.com/album/2NAj0uSRZPtvuuT3z6KoOk) | 2:23 | 2022-10-07 | 2023-01-06 |
 | [Dark Side \- Slowed + Reverb](https://open.spotify.com/track/47PdPnJdLLKwF47OhrvEUo) | [XAN$X](https://open.spotify.com/artist/09H8woomz7PD9Fj8HMvTlH) | [Dark Side \(Slowed + Reverb\)](https://open.spotify.com/album/4vHKBB9bDl3QOtWrHSU7aW) | 3:18 | 2023-04-26 | 2023-07-29 |
 | [Darkness](https://open.spotify.com/track/6Zh5jzVPHxQS0ddjak30nr) | [SCXR SOUL](https://open.spotify.com/artist/6yxKWJK7XtaOMK2j9FXqSC) | [Mindless](https://open.spotify.com/album/1uR4EQHf8aTS7ml5NnD8Df) | 3:11 | 2021-05-12 | 2022-02-05 |
@@ -253,6 +254,7 @@
 | [Fuku](https://open.spotify.com/track/0OKLYzwOn92tx0QCE6QVIQ) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54), [ZWE1HVNDXR](https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB) | [Fuku](https://open.spotify.com/album/1Av8SASgUHygkOKLy3WqRo) | 1:55 | 2024-04-19 |  |
 | [FULL SEND](https://open.spotify.com/track/7LZ5kABpaC3XiXQEOlJ6LA) | [BLXCKBUSTA](https://open.spotify.com/artist/2iXMIbkem6Ca1oq3Jgjgfs) | [FULL SEND](https://open.spotify.com/album/1eOwNN7Bltds0VRlwrzeOl) | 1:54 | 2021-09-01 | 2022-07-30 |
 | [FUNK ESTRANHO](https://open.spotify.com/track/3uFuQuXyUpYOlVkPdVeCCh) | [ALXIKE](https://open.spotify.com/artist/4SbtvEgtu7QsmFjjBzyV8F) | [FUNK ESTRANHO](https://open.spotify.com/album/71m7v6UCb6PldBrt5AYJ0I) | 1:46 | 2024-04-05 |  |
+| [Funk of Galáctico](https://open.spotify.com/track/1kZiI82AcevKgv7RCUiG3l) | [SXID](https://open.spotify.com/artist/3eTy7yvRHnpPKY4hNCfYYX) | [Funk of Galáctico](https://open.spotify.com/album/3lYPfg8wwG6rEIzBeOXCDA) | 1:30 | 2024-04-26 |  |
 | [Funk of Suffering](https://open.spotify.com/track/3GbFWANaWI8VZf1AxqFeaN) | [SXID](https://open.spotify.com/artist/3eTy7yvRHnpPKY4hNCfYYX) | [Funk of Suffering](https://open.spotify.com/album/2B8qo6AA5g6iPR0DpkjrbB) | 1:17 | 2023-12-08 |  |
 | [FUNKED UP \- SLOWED](https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp), [isq](https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s) | [FUNKED UP](https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9) | 1:55 | 2024-02-09 |  |
 | [FXRGET MY NAME](https://open.spotify.com/track/1NrjzzDwftfYSsqigTLYNb) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [FXRGET MY NAME](https://open.spotify.com/album/6CnLG7VZVZMPeovuHhhJUP) | 2:15 | 2023-01-20 | 2023-03-04 |
@@ -276,7 +278,7 @@
 | [GRAVITY](https://open.spotify.com/track/5EGv7sb5pwKJgoipvQe9BJ) | [PXRVMXDS PHONK](https://open.spotify.com/artist/0Pkx6hl59ATBMy2fEqHeDV) | [GRAVITY](https://open.spotify.com/album/5ss00k05tqwivdkoco6Cie) | 2:50 | 2021-07-02 | 2022-01-15 |
 | [GTG](https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [GTG](https://open.spotify.com/album/4KvTJJPmcAd1XJaO3UrARG) | 1:33 | 2021-05-12 | 2022-11-19 |
 | [GUS](https://open.spotify.com/track/2DTql5d1eWbJcj5Y9WgJ3h) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY) | [SIGMA](https://open.spotify.com/album/0i7KFvuM0lDmJjhvxmlZXM) | 2:11 | 2022-10-14 | 2023-02-25 |
-| [HA\-HA!](https://open.spotify.com/track/79wHNI2r74FIjnSsFh03uR) | [FORGOTTENAGE](https://open.spotify.com/artist/75eUSWg8Tt9PZLiFWjascC) | [HA\-HA!](https://open.spotify.com/album/7BIfQFbE5RqMZlmh1An5tu) | 2:00 | 2024-03-22 |  |
+| [HA\-HA!](https://open.spotify.com/track/79wHNI2r74FIjnSsFh03uR) | [FORGOTTENAGE](https://open.spotify.com/artist/75eUSWg8Tt9PZLiFWjascC) | [HA\-HA!](https://open.spotify.com/album/7BIfQFbE5RqMZlmh1An5tu) | 2:00 | 2024-03-22 | 2024-04-27 |
 | [HARD DRIVE \- SLOWED AND REVERB](https://open.spotify.com/track/0rHfhbQGI0zslNBqPa0uIi) | [GXNRC](https://open.spotify.com/artist/1rcSwQYPXRKfRF6HxvfY0s) | [HARD DRIVE \(SLOWED AND REVERB\)](https://open.spotify.com/album/69667k5maytrsHkt7XGavM) | 4:25 | 2023-06-16 | 2023-06-24 |
 | [haunt](https://open.spotify.com/track/0nrnNb3z8ecImknVvpEPcR) | [zxcursed](https://open.spotify.com/artist/53fwP60M1QNPDiXALVMeOs), [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG) | [haunt](https://open.spotify.com/album/10Fl6RaP8e46eoYosibmfe) | 1:45 | 2023-06-09 | 2023-06-24 |
 | [Haunted !](https://open.spotify.com/track/5brjho1oApJ6qrzYVXF9vu) | [DEDLINE](https://open.spotify.com/artist/75nE6Q3wOe3nB5aUrrzwvw) | [Haunted !](https://open.spotify.com/album/3acjd8HQntU7d3KQZEbQAM) | 2:51 | 2022-11-25 | 2022-12-24 |
@@ -581,7 +583,7 @@
 | [Show Me The Will](https://open.spotify.com/track/56lTRHW3ICSxcYOZbD6Aao) | [Sx1nxwy](https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T) | [Show Me The Will](https://open.spotify.com/album/0o20HRkbnZThyX0M1E0hIs) | 3:07 | 2022-08-19 | 2023-01-21 |
 | [Show Me Your Back](https://open.spotify.com/track/5Ro8cPLumZRfhhfVxBG5hJ) | [FindMyName](https://open.spotify.com/artist/0TkciLiDPBbrwTrOG5Kvj2) | [Show Me Your Back](https://open.spotify.com/album/2WfTYJXnEWlam3UpiFcngR) | 3:14 | 2022-07-22 | 2023-01-21 |
 | [showdown](https://open.spotify.com/track/48fzAdCxamFYCHNXXLk6zn) | [shadowraze](https://open.spotify.com/artist/0TO6y1x0LQodwBnxGtQu9o) | [showdown](https://open.spotify.com/album/4OMVt53nIZgMMf5uDsAdjz) | 2:00 | 2022-05-13 | 2022-07-09 |
-| [SHOWTIME](https://open.spotify.com/track/0F3n2iQAzTULYrB8sZHYY5) | [SHADXWRXGE](https://open.spotify.com/artist/79xnSL6gmGSmRyeuYosQm3) | [SHOWTIME](https://open.spotify.com/album/4z1jKFerf7aZlplVgGMPAX) | 2:29 | 2024-03-08 |  |
+| [SHOWTIME](https://open.spotify.com/track/0F3n2iQAzTULYrB8sZHYY5) | [SHADXWRXGE](https://open.spotify.com/artist/79xnSL6gmGSmRyeuYosQm3) | [SHOWTIME](https://open.spotify.com/album/4z1jKFerf7aZlplVgGMPAX) | 2:29 | 2024-03-08 | 2024-04-27 |
 | [Silent In Loss](https://open.spotify.com/track/5u57He0TBFnoVrlYw7CDnW) | [akkiemi](https://open.spotify.com/artist/5QsmdS9RBPIphb0DcpKf6E) | [Silent In Loss](https://open.spotify.com/album/2F2c4vpHnQRzh7WKbOLiIK) | 1:51 | 2024-01-12 | 2024-01-20 |
 | [Silvia](https://open.spotify.com/track/3ctasKqsuqcg0BqYqUd17e) | [AntXres](https://open.spotify.com/artist/7v9CZIFskqQfiHrQbI8B3z) | [Silvia](https://open.spotify.com/album/5UMRqJEboY6K8YSaU22BV5) | 2:35 | 2021-08-27 | 2022-02-19 |
 | [SIMPLE](https://open.spotify.com/track/1fdqbJTHS8cwGbHDU9YU9A) | [NUEKI](https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB), [TOLCHONOV](https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4) | [SIMPLE](https://open.spotify.com/album/6OOcFuabfwp9WvoOEQBJq4) | 1:41 | 2023-08-25 | 2024-01-27 |

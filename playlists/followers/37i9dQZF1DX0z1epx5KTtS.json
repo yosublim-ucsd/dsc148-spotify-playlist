@@ -1,5 +1,5 @@
 {
-  "2024-04-26": 88514,
+  "2024-04-27": 88591,
   "date_first_scraped": "2021-12-29",
   "description": "African dance party music from Paris to Abidjan. Photo : Tam Sir",
   "name": "Coup\u00e9 D\u00e9cal\u00e9",
@@ -603,6 +603,24 @@
       "duration_ms": 179389,
       "name": "Cabri Mort - Remix",
       "url": "https://open.spotify.com/track/6oMr9YN0oodyAnR8lfiHZ2"
+    },
+    {
+      "album": {
+        "name": "Calculatrice",
+        "url": "https://open.spotify.com/album/1pQi43kOfpPTlgZRiRMvN8"
+      },
+      "artists": [
+        {
+          "name": "Ovie Kan",
+          "url": "https://open.spotify.com/artist/3nKWXc2kFHNOhjr37rkvqd"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225628,
+      "name": "Calculatrice",
+      "url": "https://open.spotify.com/track/1CbMMoHWbATGljOR58qEQX"
     },
     {
       "album": {

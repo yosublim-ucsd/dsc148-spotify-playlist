@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring Sam Girling, Theo Bleak
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,266 likes - 150 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,302 likes - 150 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 39 | [I Like U Looking At Me](https://open.spotify.com/track/1hLAuD1gxuAkUSXgeo4mRd) | [aimei 媚](https://open.spotify.com/artist/2ij6gLxPV2uEuRxDwnyBfZ) | [I Like U Looking At Me](https://open.spotify.com/album/6DVi6pH3O6hMN13HLa10PV) | 3:03 |
 | 40 | [Britpop](https://open.spotify.com/track/4szX2NPDe0vhoCGwO4g9cw) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Britpop](https://open.spotify.com/album/08ZUb3IpVYrHbkWFhMNXO9) | 3:22 |
 | 41 | [Take Me Higher](https://open.spotify.com/track/1z4tjw3djJImBlGUbFjAOb) | [Ammara](https://open.spotify.com/artist/7GqNimUoiYFht4cYL0cT0I) | [Take Me Higher](https://open.spotify.com/album/1VIi6eOJtAmvNS0PPV0obC) | 3:08 |
-| 42 | [Kiss It Better \- Sonikku Remix](https://open.spotify.com/track/7rI5RC7FRUYNv6qbKH7Vq0) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9) | [MYCELiUM \(UTOPIA Remixes\)](https://open.spotify.com/album/2oqCKGQTfy3ft0UGzpuzRg) | 4:13 |
+| 42 | [Kiss It Better \- SONIKKU Remix](https://open.spotify.com/track/7rI5RC7FRUYNv6qbKH7Vq0) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9) | [MYCELiUM \(UTOPIA Remixes\)](https://open.spotify.com/album/2oqCKGQTfy3ft0UGzpuzRg) | 4:13 |
 | 43 | [2special](https://open.spotify.com/track/7pFzuCKW91X6vYAoQx2A0x) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [2special](https://open.spotify.com/album/72eL8kWXS0TxMGu8puh5yn) | 2:47 |
 | 44 | [Lucky](https://open.spotify.com/track/0MuGa3SwwVYIeOpOzTOxzj) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lucky](https://open.spotify.com/album/58UHfHzT9zqjvSWbC06Bcn) | 3:24 |
 | 45 | [Want Me](https://open.spotify.com/track/2PKEGiGJAeEOaSaOZsQhCH) | [DJ Fuckoff](https://open.spotify.com/artist/47fPXXrqnkQcaQ951UA3cm) | [Want Me](https://open.spotify.com/album/0fkVNPJnTjVb8Q97hAjN8u) | 4:34 |
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 77 | [Runaway](https://open.spotify.com/track/0oiyjQRetrFXfRdWVjS2UR) | [George Reid](https://open.spotify.com/artist/4AhAa3kyJe8OVyN1mxEB6o), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Runaway](https://open.spotify.com/album/6Ohz5RYtsaZnm04BuSyNOJ) | 3:20 |
 | 78 | [Better Days](https://open.spotify.com/track/3QjX7wuJOq5uvy4DGuIxwf) | [Seraphina Simone](https://open.spotify.com/artist/21fkbEKOfiriyOCW6VCZHX) | [Better Days](https://open.spotify.com/album/205rwtvslmjIre5aLvpTas) | 3:04 |
 | 79 | [Mosquito](https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Mosquito](https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB) | 2:26 |
-| 80 | [Wild Ones](https://open.spotify.com/track/2MH5KK60I00JOPigNOt4v8) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Wild Ones](https://open.spotify.com/album/2JSwcjpkanFKfT3ev3eDQr) | 3:26 |
+| 80 | [Wild Ones \(Club Mix\)](https://open.spotify.com/track/2MH5KK60I00JOPigNOt4v8) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Wild Ones \(Club Mix\)](https://open.spotify.com/album/2JSwcjpkanFKfT3ev3eDQr) | 3:26 |
 | 81 | [c u never](https://open.spotify.com/track/0K0ccueOxKjB5vgLVpnhIf) | [tomcbumpz](https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [c u never](https://open.spotify.com/album/07AUfVrlOlRhyzlwrlaT0A) | 2:55 |
 | 82 | [We Are The Risers](https://open.spotify.com/track/4fmjMZProIFigMcvyOILs6) | [Eli Mich](https://open.spotify.com/artist/1HYEbZ42CBI8MsAa2TdDnj) | [We Are The Risers](https://open.spotify.com/album/0ZZZhM9g4uJKc50ziSWwPm) | 3:24 |
 | 83 | [We Can Go Always Go Back To Love](https://open.spotify.com/track/3wzbjzJFBSZeyYlpt8gVL6) | [t e s t p r e s s](https://open.spotify.com/artist/4udW3rcRXEmwm706eR5h8u) | [We Can Go Always Go Back To Love](https://open.spotify.com/album/4qgXLxMFJfhrD3SuwBsROV) | 2:38 |

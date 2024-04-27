@@ -1,5 +1,5 @@
 {
-  "2024-04-26": 558555,
+  "2024-04-27": 558263,
   "date_first_scraped": "2023-08-25",
   "description": "Se viene el partido, la previa es con m\u00fasica!",
   "name": "Previa Futbolera",
@@ -171,7 +171,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-23",
+      "date_removed": null,
       "duration_ms": 240520,
       "name": "Como Eran Las Cosas",
       "url": "https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C"
@@ -775,7 +775,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 171000,
       "name": "Los Tragos",
       "url": "https://open.spotify.com/track/7iXJg4IUyrWont5YSQrbKP"

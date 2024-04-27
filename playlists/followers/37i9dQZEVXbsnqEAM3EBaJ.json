@@ -1,5 +1,5 @@
 {
-  "2024-04-26": 0,
+  "2024-04-27": 0,
   "date_first_scraped": "2023-03-03",
   "description": "Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.",
   "name": "Release Radar (@pipemanuel10)",
@@ -8147,6 +8147,24 @@
       "duration_ms": 233890,
       "name": "Frances Farmer Will Have Her Revenge On Seattle - Live In Seattle, Seattle Center Arena - January 7, 1994",
       "url": "https://open.spotify.com/track/3N8SPI3gLlikVYJL1d7Xpn"
+    },
+    {
+      "album": {
+        "name": "Vibraciones Superiores",
+        "url": "https://open.spotify.com/album/42Ed8WBO3fkq08LkjqHnI5"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Donalson",
+          "url": "https://open.spotify.com/artist/13AiWNMLpKYo0wSPSAiBUg"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 597692,
+      "name": "Frecuencias Estelares para Elevar Tu Vibraci\u00f3n",
+      "url": "https://open.spotify.com/track/10AF4BfNSKT1nV6imaxlEC"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-04-26": 111246,
+  "2024-04-27": 111529,
   "date_first_scraped": "2022-01-02",
   "description": "Unearthing up-and-coming Korean acts. (Cover: RIIZE)",
   "name": "RADAR Korea",
@@ -5948,6 +5948,24 @@
     },
     {
       "album": {
+        "name": "SWEAT",
+        "url": "https://open.spotify.com/album/0s6DjhEFFZOUSfnFmPMVIG"
+      },
+      "artists": [
+        {
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191018,
+      "name": "SWEAT",
+      "url": "https://open.spotify.com/track/3BzjdhbQH8VlQ81RbvRoV8"
+    },
+    {
+      "album": {
         "name": "Sweater",
         "url": "https://open.spotify.com/album/1tB4AOQQy6NWdHqGAXbkVD"
       },
@@ -7315,6 +7333,24 @@
       "duration_ms": 160553,
       "name": "\ub9d0\ub3c4 \uc548 \ub3fc Nonsense",
       "url": "https://open.spotify.com/track/0mrrVsJ5EGGY84ugYzTWbz"
+    },
+    {
+      "album": {
+        "name": "Affection",
+        "url": "https://open.spotify.com/album/7CH227zOs9JlxNtQ8Z6EK4"
+      },
+      "artists": [
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200160,
+      "name": "\ubc24\uc0c8",
+      "url": "https://open.spotify.com/track/6ounBpJVh2WXum1HEiMWan"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Bea Rodrigues",
-  "num_followers": 120096,
+  "num_followers": 120057,
   "original_name": "Revela\u00e7\u00e3o Gospel",
   "owner": {
     "name": "Spotify",
@@ -131,26 +131,6 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
-        "name": "Tua Presen\u00e7a",
-        "url": "https://open.spotify.com/album/2ssdQ9ySFAaAPQSqvW6iBJ"
-      },
-      "artists": [
-        {
-          "name": "Gabi Oliveira",
-          "url": "https://open.spotify.com/artist/3zEDRm9Asx2fUq0ukH97GD"
-        },
-        {
-          "name": "Paulo Neto",
-          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
-        }
-      ],
-      "duration_ms": 269722,
-      "name": "Tua Presen\u00e7a",
-      "url": "https://open.spotify.com/track/4Pbm0daFz5Y8PRKmgHkFRI"
-    },
-    {
-      "added_at": "2023-12-21 22:17:17",
-      "album": {
         "name": "Gra\u00e7a",
         "url": "https://open.spotify.com/album/7HwGAK2cFTLCuwIcj2No47"
       },
@@ -167,6 +147,26 @@
       "duration_ms": 341333,
       "name": "Gra\u00e7a",
       "url": "https://open.spotify.com/track/50pNAEvXwRMdqizML22vXa"
+    },
+    {
+      "added_at": "2023-12-21 22:17:17",
+      "album": {
+        "name": "Tua Presen\u00e7a",
+        "url": "https://open.spotify.com/album/2ssdQ9ySFAaAPQSqvW6iBJ"
+      },
+      "artists": [
+        {
+          "name": "Gabi Oliveira",
+          "url": "https://open.spotify.com/artist/3zEDRm9Asx2fUq0ukH97GD"
+        },
+        {
+          "name": "Paulo Neto",
+          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
+        }
+      ],
+      "duration_ms": 269722,
+      "name": "Tua Presen\u00e7a",
+      "url": "https://open.spotify.com/track/4Pbm0daFz5Y8PRKmgHkFRI"
     },
     {
       "added_at": "2023-12-21 22:17:17",
@@ -795,18 +795,22 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
-        "name": "Eu Vou Mergulhar",
-        "url": "https://open.spotify.com/album/6rOWiP8QX8iub0JIU0pSFO"
+        "name": "Descansa em Mim",
+        "url": "https://open.spotify.com/album/3pVZs73gK7tDaS6rQwZjYc"
       },
       "artists": [
         {
-          "name": "Idma Brito",
-          "url": "https://open.spotify.com/artist/7enWqH5HtoEQJckRpx3ut2"
+          "name": "Pablo Canalis",
+          "url": "https://open.spotify.com/artist/6unLVeDztO40nUPUkl0zZm"
+        },
+        {
+          "name": "Do Nosso Canto",
+          "url": "https://open.spotify.com/artist/2XCsYQtJzn7Y68gXmbH2Xk"
         }
       ],
-      "duration_ms": 291967,
-      "name": "Eu Vou Mergulhar",
-      "url": "https://open.spotify.com/track/75H1JdNy5JIndenoockhB3"
+      "duration_ms": 305000,
+      "name": "Descansa em Mim",
+      "url": "https://open.spotify.com/track/33Kw7vIXjoeCvwTKeM4wR8"
     },
     {
       "added_at": "2023-12-21 22:17:17",
@@ -827,22 +831,18 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
-        "name": "Descansa em Mim",
-        "url": "https://open.spotify.com/album/3pVZs73gK7tDaS6rQwZjYc"
+        "name": "Eu Vou Mergulhar",
+        "url": "https://open.spotify.com/album/6rOWiP8QX8iub0JIU0pSFO"
       },
       "artists": [
         {
-          "name": "Pablo Canalis",
-          "url": "https://open.spotify.com/artist/6unLVeDztO40nUPUkl0zZm"
-        },
-        {
-          "name": "Do Nosso Canto",
-          "url": "https://open.spotify.com/artist/2XCsYQtJzn7Y68gXmbH2Xk"
+          "name": "Idma Brito",
+          "url": "https://open.spotify.com/artist/7enWqH5HtoEQJckRpx3ut2"
         }
       ],
-      "duration_ms": 305000,
-      "name": "Descansa em Mim",
-      "url": "https://open.spotify.com/track/33Kw7vIXjoeCvwTKeM4wR8"
+      "duration_ms": 291967,
+      "name": "Eu Vou Mergulhar",
+      "url": "https://open.spotify.com/track/75H1JdNy5JIndenoockhB3"
     },
     {
       "added_at": "2023-12-21 22:17:17",

@@ -1,5 +1,5 @@
 {
-  "2024-04-26": 17164,
+  "2024-04-27": 17162,
   "date_first_scraped": "2021-12-29",
   "description": "Cool vibes from the African continent.",
   "name": "Afrocentric",
@@ -417,6 +417,24 @@
       "duration_ms": 355861,
       "name": "Amantombazane",
       "url": "https://open.spotify.com/track/5TV5x7u5Tnx2i47ccKXVex"
+    },
+    {
+      "album": {
+        "name": "Amaqatha Amancane",
+        "url": "https://open.spotify.com/album/4hsxCzsRFIhmFyCu4lvHrB"
+      },
+      "artists": [
+        {
+          "name": "The Joy",
+          "url": "https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97733,
+      "name": "Amaqatha Amancane",
+      "url": "https://open.spotify.com/track/60VjGvGReNEvFixZjzkAnI"
     },
     {
       "album": {
@@ -1186,6 +1204,28 @@
     },
     {
       "album": {
+        "name": "Confirmation (feat. Iyanya)",
+        "url": "https://open.spotify.com/album/6EE9T34Fn575k7ydCe1CgG"
+      },
+      "artists": [
+        {
+          "name": "Yo Maps",
+          "url": "https://open.spotify.com/artist/6ctMiUYEAd4cy0CaH355Hk"
+        },
+        {
+          "name": "Iyanya",
+          "url": "https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197590,
+      "name": "Confirmation (feat. Iyanya)",
+      "url": "https://open.spotify.com/track/3ctflWaoyphfupV0M5ATVS"
+    },
+    {
+      "album": {
         "name": "Kpanlogo",
         "url": "https://open.spotify.com/album/0u2Xpx6AJj4hSzPig3msZ7"
       },
@@ -1906,6 +1946,32 @@
     },
     {
       "album": {
+        "name": "FREE ME",
+        "url": "https://open.spotify.com/album/0gJo1SrRBkbnJAxQRVzTpA"
+      },
+      "artists": [
+        {
+          "name": "CIZA",
+          "url": "https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33"
+        },
+        {
+          "name": "Maglera Doe Boy",
+          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
+        },
+        {
+          "name": "Eliz\u00e9e",
+          "url": "https://open.spotify.com/artist/66F2XoLQPsKPCquiQIlI6x"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197428,
+      "name": "FREE ME",
+      "url": "https://open.spotify.com/track/3teimGm6rwWgYDSALjRMIp"
+    },
+    {
+      "album": {
         "name": "Furah",
         "url": "https://open.spotify.com/album/5rD89G23WIlfKzGbGXiJJx"
       },
@@ -2590,6 +2656,28 @@
     },
     {
       "album": {
+        "name": "Irreplaceable",
+        "url": "https://open.spotify.com/album/1NfhOMOpSgsyFnuWgRHw9p"
+      },
+      "artists": [
+        {
+          "name": "Bridget Blue",
+          "url": "https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw"
+        },
+        {
+          "name": "Nyashinski",
+          "url": "https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165666,
+      "name": "Irreplaceable",
+      "url": "https://open.spotify.com/track/4JsHVzXxRNu8cWklT7SGpP"
+    },
+    {
+      "album": {
         "name": "Isibuko",
         "url": "https://open.spotify.com/album/4yFM1aHZINPJ8p9Ei7uLOR"
       },
@@ -2639,6 +2727,32 @@
       "duration_ms": 278504,
       "name": "Isoka",
       "url": "https://open.spotify.com/track/2r8FQoDfCZERhs69DtiGOl"
+    },
+    {
+      "album": {
+        "name": "Isomiso (feat. Zain SA)",
+        "url": "https://open.spotify.com/album/2b8vMnz6eN0BFsaurH5nph"
+      },
+      "artists": [
+        {
+          "name": "Artwork Sounds",
+          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
+        },
+        {
+          "name": "Kelvin Momo",
+          "url": "https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v"
+        },
+        {
+          "name": "Zain SA",
+          "url": "https://open.spotify.com/artist/5dvgzU4ArZjcvtVUugwuMt"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 477368,
+      "name": "Isomiso (feat. Zain SA)",
+      "url": "https://open.spotify.com/track/0TNPzB8tgnQ3ZRwWnwVrOS"
     },
     {
       "album": {

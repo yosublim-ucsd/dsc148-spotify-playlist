@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0TXhxoo7C4jisEGDp8fiUS">Kalli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-144 songs - 7 hr 23 min
+145 songs - 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [Geister](https://open.spotify.com/track/2tpmUQKddesrmZmHEZdI3F) | [Henning Wehland](https://open.spotify.com/artist/7AgDCXy6Z60LzhvYOrDlf3) | [Der Letzte an der Bar](https://open.spotify.com/album/492ubi4D359Nl0NsqhjDWJ) | 3:28 | 2024-01-29 |  |
 | [Getting There](https://open.spotify.com/track/1YdUjBLiapo6at7XhMn0mq) | [RANE](https://open.spotify.com/artist/4XXpC48bL6E032lJw4aSFz), [Lapsi](https://open.spotify.com/artist/5ZcPF93TyiZ6F0M3S1cRLm) | [Getting There](https://open.spotify.com/album/7eKNpLH2MyOfStA0lgvfLf) | 2:36 | 2024-01-29 |  |
 | [Gift \(feat\. Alicia Awa\)](https://open.spotify.com/track/5o06OR9PHInTrQP0bc8Inl) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK), [Alicia Awa](https://open.spotify.com/artist/7mYMOwpduul48upxZCfFBS) | [Vollmond](https://open.spotify.com/album/0A2Fv4wziWXjSLylfMvbI5) | 2:53 | 2024-01-29 |  |
-| [Give Me Your Love](https://open.spotify.com/track/7mRXzK30h0UIuTdYhArwvv) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Give Me Your Love](https://open.spotify.com/album/0DYk6a0d96DBvuZARXjoSg) | 3:21 | 2024-01-29 |  |
+| [Give Me Your Love](https://open.spotify.com/track/205RswZPFn2MlNlYckzz5I) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Give Me Your Love](https://open.spotify.com/album/1Z9ifQTeBQYgLadR5f1Llw) | 3:21 | 2024-04-26 |  |
+| [Give Me Your Love](https://open.spotify.com/track/7mRXzK30h0UIuTdYhArwvv) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Give Me Your Love](https://open.spotify.com/album/0DYk6a0d96DBvuZARXjoSg) | 3:21 | 2024-01-29 | 2024-04-27 |
 | [Gut soweit](https://open.spotify.com/track/6gS1Q6jG6BQ5aNvseKZjic) | [Jonas Monar](https://open.spotify.com/artist/15DtxS7TcOYPplKUl5re5C) | [Alle guten Dinge](https://open.spotify.com/album/7bcyUmBwgTk8ztvSv5oXnK) | 3:21 | 2024-01-29 |  |
 | [Hab ich dich nicht schonmal geseh'n \(Boah Ey\)](https://open.spotify.com/track/6QkjnlPK39IFDmq49J3mIz) | [Jürgen Drews](https://open.spotify.com/artist/4rvJA6PKInIg35XkH4HESw) | [Es war alles am besten](https://open.spotify.com/album/3g7khKxTVVmQO0qDuJbu22) | 3:47 | 2024-01-29 |  |
 | [Happy People \(feat\. Daði Freyr\)](https://open.spotify.com/track/261qBibFuQcBus1rjsmsED) | [Tokio Hotel](https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa), [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [2001](https://open.spotify.com/album/6XepuRQQxX2qDlkIuIOnpn) | 3:00 | 2024-01-29 |  |

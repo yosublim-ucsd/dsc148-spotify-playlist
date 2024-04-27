@@ -1,6 +1,6 @@
 {
   "description": "Good Vibes only mit Latin, Afrobeats, Hip-Hop und mehr \ud83d\udd25\ud83d\udd25\ud83d\udd25",
-  "num_followers": 724666,
+  "num_followers": 724396,
   "original_name": "swag",
   "owner": {
     "name": "Spotify",
@@ -115,22 +115,6 @@
     {
       "added_at": "2024-04-11 16:02:33",
       "album": {
-        "name": "Made For Me",
-        "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Made For Me",
-      "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
-    },
-    {
-      "added_at": "2024-04-11 16:02:33",
-      "album": {
         "name": "Make You Mine",
         "url": "https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 221709,
       "name": "Make You Mine",
       "url": "https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL"
+    },
+    {
+      "added_at": "2024-04-11 16:02:33",
+      "album": {
+        "name": "Made For Me",
+        "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Made For Me",
+      "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
     },
     {
       "added_at": "2024-04-11 16:02:33",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-04-11 16:02:33",
       "album": {
-        "name": "Slowdown (girl what's up)",
-        "url": "https://open.spotify.com/album/4B6I2s8qDymQLWT9qtJOtW"
-      },
-      "artists": [
-        {
-          "name": "YellowStraps",
-          "url": "https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx"
-        }
-      ],
-      "duration_ms": 123000,
-      "name": "Slowdown (girl what's up)",
-      "url": "https://open.spotify.com/track/4xexPtg7VSPCf9hM3aZdfZ"
-    },
-    {
-      "added_at": "2024-04-11 16:02:33",
-      "album": {
         "name": "LOCO",
         "url": "https://open.spotify.com/album/3oR3u9aONQNmyyn8SqSA5N"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 161354,
       "name": "LOCO",
       "url": "https://open.spotify.com/track/1WVesbZHbBbFBEbrnk1Nnb"
+    },
+    {
+      "added_at": "2024-04-11 16:02:33",
+      "album": {
+        "name": "Slowdown (girl what's up)",
+        "url": "https://open.spotify.com/album/4B6I2s8qDymQLWT9qtJOtW"
+      },
+      "artists": [
+        {
+          "name": "YellowStraps",
+          "url": "https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "Slowdown (girl what's up)",
+      "url": "https://open.spotify.com/track/4xexPtg7VSPCf9hM3aZdfZ"
     },
     {
       "added_at": "2024-04-11 16:02:33",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-04-11 16:02:33",
       "album": {
-        "name": "Your Love Is King",
-        "url": "https://open.spotify.com/album/0Pvi2z21zrwTqnRChnaFhz"
-      },
-      "artists": [
-        {
-          "name": "Trettmann",
-          "url": "https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4"
-        }
-      ],
-      "duration_ms": 148480,
-      "name": "Prototype",
-      "url": "https://open.spotify.com/track/66RGrSfoHxO8JSPK62jSLe"
-    },
-    {
-      "added_at": "2024-04-11 16:02:33",
-      "album": {
         "name": "Business (feat. Naza)",
         "url": "https://open.spotify.com/album/7xfhDDNz65EkMyzDOKfVOF"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 170435,
       "name": "Business (feat. Naza)",
       "url": "https://open.spotify.com/track/7ckhEsg0yYCINgl1HqjCUk"
+    },
+    {
+      "added_at": "2024-04-11 16:02:33",
+      "album": {
+        "name": "Your Love Is King",
+        "url": "https://open.spotify.com/album/0Pvi2z21zrwTqnRChnaFhz"
+      },
+      "artists": [
+        {
+          "name": "Trettmann",
+          "url": "https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4"
+        }
+      ],
+      "duration_ms": 148480,
+      "name": "Prototype",
+      "url": "https://open.spotify.com/track/66RGrSfoHxO8JSPK62jSLe"
     },
     {
       "added_at": "2024-04-11 16:02:33",

@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/5nz3AAoDyHSidelqd2fnci.md) - [plain]
 
 > 
 
-[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 43 min 47 sec
+[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 41 min 1 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Potong kontol](https://open.spotify.com/track/6YUuawlLvYvdpU1kRrSXBF) | [Jorokindo Musik](https://open.spotify.com/artist/7qL9kcrhcCmj8R57HGfuHy) | [Potong kontol](https://open.spotify.com/album/1LwxKQpo3wnfY3jObeJNr3) | 3:47 |
-| 2 | [Simmer](https://open.spotify.com/track/2moHnkHTSXBe9KjvPSQJvg) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Petals For Armor](https://open.spotify.com/album/4HXpQ5KQBVWN25ltjnX7xa) | 4:26 |
-| 3 | [Mosca Original](https://open.spotify.com/track/1zAhx3lPRsktbVtEj8bXkZ) | [Milan didier oficial](https://open.spotify.com/artist/3SL0MLkrNx4DRWGcRLiIDc), [Talents eMe](https://open.spotify.com/artist/7vMiPr0vEsX1J6BRdvRPPr) | [Mosca Original](https://open.spotify.com/album/0RfBioJdIHTdP5wMzaj459) | 2:29 |
-| 4 | [This Means War](https://open.spotify.com/track/2NImo2MajNai4CLk35wMut) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 6:09 |
-| 5 | [From The Outside](https://open.spotify.com/track/6gRXLcEgg4TIgq6pL5ut1y) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [For We Are Many](https://open.spotify.com/album/7GT6W7zeCbv4uTqQELaWr8) | 3:34 |
-| 6 | [Compromiso](https://open.spotify.com/track/2gzyjld8IfmojwVxyRWOib) | [Javiera & Los Imposibles](https://open.spotify.com/artist/6IEAyaXCPxZoPtCAYZXOxz) | [Corte en Trámite](https://open.spotify.com/album/2MVBXkYLJQrkRAjYHMTmfc) | 2:54 |
-| 7 | [Get Along \(Los Justicieros Opening\)](https://open.spotify.com/track/4MWmx1o8yd9glNZ2HfbarR) | [Salomé Anjarí](https://open.spotify.com/artist/6hf0imMo1zl8mVd8TZQbsZ) | [Get Along \(Los Justicieros Opening\)](https://open.spotify.com/album/5iITSXGBMm3d2StlIgKx0M) | 4:07 |
-| 8 | [Te conocí](https://open.spotify.com/track/2unxfFBxztipMMnZFFm02a) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Te conocí](https://open.spotify.com/album/2KkOssmITRyGi5FWAUTsx6) | 3:29 |
-| 9 | [The Flood](https://open.spotify.com/track/2w5ArUQG01dfvSxL1DsGqV) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [The Flood \(Deluxe Reissue\)](https://open.spotify.com/album/5PLgKITLdSYuh7OWpIC8nC) | 3:10 |
-| 10 | [\(s\)AINT](https://open.spotify.com/track/7AN4FrzfmnJSFGq1a28L1E) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Lest We Forget \(The Best Of\) \[International Version \(Explicit\)\]](https://open.spotify.com/album/6R5TqxpmUg1KhHORpsp9Ho) | 3:45 |
-| 11 | [Need You Now](https://open.spotify.com/track/5X21uANL3TPmskQEphYNgR) | [tanvi](https://open.spotify.com/artist/2oq1PXgnTtflp9kw08ddB3) | [Need You Now](https://open.spotify.com/album/5ZbC2gZrQ6WAC1AroTczip) | 2:54 |
-| 12 | [The Glass Elevator \(Walls\)](https://open.spotify.com/track/0MkBEm3cie10yxu77m0SQI) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [The Fallout \(Deluxe Reissue\)](https://open.spotify.com/album/0RNvY7pXqrFB6zZXUS79tM) | 2:59 |
+| 1 | [MRBEAST MEME SONG \(TIKTOK\) \- REMIX](https://open.spotify.com/track/5vm148teeUBzbebdijr0P4) | [Keiron Raven](https://open.spotify.com/artist/2vxvNUp5PnFvueL36wxIoc), [Dance Music Now](https://open.spotify.com/artist/3KjtyoP2vi28vw777uMFWl), [Trap Music Now](https://open.spotify.com/artist/1cQnHsdUqpQ1z8D5uZyXPP) | [MRBEAST MEME SONG \(TIKTOK\) \[REMIX\]](https://open.spotify.com/album/2A1sdlZ6axXGBHOfnYSWIe) | 1:55 |
+| 2 | [Mystify](https://open.spotify.com/track/14BNlprhNMYVRUROXn6N87) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [INXS Remastered](https://open.spotify.com/album/7CJvhqb2PJq5fBcY6eKqjl) | 3:17 |
+| 3 | [Stretch](https://open.spotify.com/track/290x0HFZibOGZ7jgMIlKgU) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [Stretch](https://open.spotify.com/album/1Y00m2WKm4XYK30iKSe3NX) | 4:01 |
+| 4 | [Cupid](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 |
+| 5 | [¿Viva La Gloria? \(Little Girl\)](https://open.spotify.com/track/27vTPVDVQb9irdnvzJDmY8) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [21st Century Breakdown](https://open.spotify.com/album/5nKs4LNpHgz0xggy0piMCK) | 3:47 |
+| 6 | [Fortune Eyes](https://open.spotify.com/track/283RgDyFjmpN7vVKOEVoqC) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Fortune Eyes](https://open.spotify.com/album/1dJrWZOEKfcObcWLSpMTzr) | 2:22 |
+| 7 | [I Remember You](https://open.spotify.com/track/4ZpXHlV2vQVfPXUvbDSZ92) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Skid Row](https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi) | 5:13 |
+| 8 | [Angel Blue](https://open.spotify.com/track/4Rce7Dk3rYxcAbpRUvGPmV) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [¡UNO!](https://open.spotify.com/album/6AFJIZmd1zWQDBBwHyeo9w) | 2:46 |
+| 9 | [Grandes Pasos](https://open.spotify.com/track/1kTDUMGq732oIs3XJK1bre) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo) | [Edición Especial](https://open.spotify.com/album/5DUcnGGmAANjBJuXVG0KxQ) | 3:38 |
+| 10 | [Bulimic](https://open.spotify.com/track/7F3siFl1KHijy9icZP3Idd) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 3:20 |
+| 11 | [Drown](https://open.spotify.com/track/6o39Ln9118FKTMbM4BvcEy) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:42 |
+| 12 | [La Pelicula](https://open.spotify.com/track/0X05H030ZYSsRMLh4E59Ux) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [De Camino Pa' la Cima \(Reloaded 2.0\)](https://open.spotify.com/album/4vOIqeCmrntK338zBN4qkK) | 4:01 |
 
-Snapshot ID: `OTcsNjBmN2M5NGM0NTM3NDRjZGUxNDEyN2E2NDlmNTQ5NGE5M2Y5YTk1Zg==`
+Snapshot ID: `OTgsNWQxNTQzMDU5OTYwMmI4ODNlMzA3N2Q4YzIxZGY2ZTgwN2JkN2I4Mg==`

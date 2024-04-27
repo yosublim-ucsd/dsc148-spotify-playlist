@@ -831,6 +831,32 @@
     },
     {
       "album": {
+        "name": "Repeat (From \"ZOMBIES: The Re-Animated Series\")",
+        "url": "https://open.spotify.com/album/4MJ7b73h3DQ0tXsStJVEB3"
+      },
+      "artists": [
+        {
+          "name": "Milo Manheim",
+          "url": "https://open.spotify.com/artist/3Pkn59A7kZmnBHp7HBUcz5"
+        },
+        {
+          "name": "Meg Donnelly",
+          "url": "https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6"
+        },
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86446,
+      "name": "Repeat - From \"ZOMBIES: The Re-Animated Series\"",
+      "url": "https://open.spotify.com/track/1KQV8toC7lyGVgssbe5whq"
+    },
+    {
+      "album": {
         "name": "Shrimpy in the House (From \"ZOMBIES: Addison's Monster Mystery\")",
         "url": "https://open.spotify.com/album/6xxc5HicmkmXUfQQMcybhQ"
       },

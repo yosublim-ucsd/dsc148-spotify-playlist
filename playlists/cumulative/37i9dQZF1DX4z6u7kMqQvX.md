@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-482 songs - 1 day 3 hr 20 min
+484 songs - 1 day 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,10 +77,12 @@
 | [Brillas](https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Solstis \- De León Larregui](https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ) | 3:44 | 2022-07-15 | 2023-10-06 |
 | [Brillas](https://open.spotify.com/track/6VuUMo1TusnqBxLTnr3hOI) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Solstis \- De León Larregui](https://open.spotify.com/album/6XMk5rlnvEtbOUhUlIGl0R) | 3:46 | 2022-01-07 | 2022-07-29 |
 | [Brillo Mio](https://open.spotify.com/track/7eCDfoEl8UGeWqcpRO5lgz) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Bálsamo](https://open.spotify.com/album/7av9VVRYT6rgVRshaVDEPQ) | 3:16 | 2022-01-07 | 2023-03-03 |
+| [Brujita de la suerte](https://open.spotify.com/track/15B8rvJwUcBvcANhWzS7ye) | [Faculimón](https://open.spotify.com/artist/1WGwOKN6ey1Q11JjpIZdDa), [Sonia Z](https://open.spotify.com/artist/27UX8NEXtI5CrpnqSAJWuh) | [Brujita de la suerte](https://open.spotify.com/album/3A8SVmBESS98syeGo9GazY) | 3:03 | 2024-04-26 |  |
 | [Bsos](https://open.spotify.com/track/1te0r9vjZgzT3Avdc1hXbf) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [Bsos](https://open.spotify.com/album/3FGJQsv4cWu0ZijTAbMoJF) | 3:06 | 2022-07-08 | 2022-07-28 |
 | [Buen viaje](https://open.spotify.com/track/2Gb1ym9oVBPzkZA2BAJz3L) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Ni tan Bien](https://open.spotify.com/album/2YiHAEkoXeLrw9jWhltxIB) | 3:07 | 2022-01-07 | 2023-10-05 |
 | [Bésame](https://open.spotify.com/track/3MBYuKoTH5h0PpBu6rbpx8) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [Bésame](https://open.spotify.com/album/1g8c8vPNTb4Asmi9dIScYM) | 3:32 | 2022-06-03 | 2022-10-01 |
 | [Cada Letra Que Escribo](https://open.spotify.com/track/06cYrvLQxg2YngN0sx8zXS) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Cada Letra Que Escribo](https://open.spotify.com/album/0aoLxPrjSF2e0BOxRFTS6G) | 3:22 | 2022-05-06 | 2023-10-06 |
+| [Canción de Amor](https://open.spotify.com/track/33xnoWnmKafzvUEi8Tjzay) | [Pato Lange](https://open.spotify.com/artist/7jAfHesb2NWA6wfJGDCdSx) | [Canción de Amor](https://open.spotify.com/album/1hKLIs7yGEP0cQxbjr9Be4) | 3:19 | 2024-04-26 |  |
 | [Cara de Cera](https://open.spotify.com/track/4x6U7KCXOANAVWOgpsR5kc) | [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9) | [Cara de Cera](https://open.spotify.com/album/136COz2f0drOth942dh9nc) | 3:28 | 2022-01-28 | 2022-12-13 |
 | [Carnal](https://open.spotify.com/track/0EDvtAYsRJp17NtCo7J98G) | [Juan Ibarlucia](https://open.spotify.com/artist/4dSapZTLQAMUx9sUIaELu8), [Marina Wil](https://open.spotify.com/artist/6QxpTfXermR3g5udEQGTe4) | [Carnal](https://open.spotify.com/album/2W2qIUYNR0yEnOA41P9Eep) | 3:40 | 2022-04-01 | 2022-04-19 |
 | [Carta de Amor](https://open.spotify.com/track/6Mn0TEs0e0EVOD6tzwlada) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Carta de Amor](https://open.spotify.com/album/3vvkKLrUnow3o3O3VbRiUF) | 2:56 | 2023-11-17 |  |
@@ -220,7 +222,7 @@
 | [Jetlag](https://open.spotify.com/track/4Jypvi7J3r2nJrp3arRRKw) | [Paula Van Hissenhoven](https://open.spotify.com/artist/2SKYxZDXoclUKA70rGtha7) | [Jetlag](https://open.spotify.com/album/3jnfFup87bN7MTyDKDM9lz) | 3:22 | 2022-01-07 | 2022-06-10 |
 | [Jeux D' Enfants](https://open.spotify.com/track/3Tm62d7A8qUd9RxAN1hKwN) | [Lucille Dupin](https://open.spotify.com/artist/4wxy9Uabj9KERdDu2NRbGJ) | [Cledón](https://open.spotify.com/album/4mmaUVWSsQ6KPAMSOmfuQA) | 3:03 | 2022-01-28 | 2022-07-02 |
 | [Joderlo Todo](https://open.spotify.com/track/1G93uVHCm8fegsmYKCsJTA) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Joderlo Todo](https://open.spotify.com/album/3a5u1dS9MeqrQtSLqrXxrs) | 3:47 | 2022-01-07 |  |
-| [John & Yoko](https://open.spotify.com/track/2vgAXpwMCMEx0WHBpKhy0a) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I), [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Escorpio](https://open.spotify.com/album/0S59LCu434GKMKElLFd8wO) | 2:52 | 2024-03-27 |  |
+| [John & Yoko](https://open.spotify.com/track/2vgAXpwMCMEx0WHBpKhy0a) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I), [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Escorpio](https://open.spotify.com/album/0S59LCu434GKMKElLFd8wO) | 2:52 | 2024-03-27 | 2024-04-27 |
 | [Juliana](https://open.spotify.com/track/4ofA2Txy2wWZdHwc4O8gO5) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF), [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [Juliana](https://open.spotify.com/album/2DwYhEkb9K1hixzLbQ1T40) | 4:39 | 2022-01-28 | 2022-07-06 |
 | [Jullie](https://open.spotify.com/track/44W7bta54sWjSkuj1NyT0c) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Indios](https://open.spotify.com/album/0ZAv3N3wsMLcP1X8NWYRAW) | 3:34 | 2022-01-07 |  |
 | [Juntos](https://open.spotify.com/track/574OhLjdADffJIg7wZojF6) | [Doble Valentina](https://open.spotify.com/artist/6vKHhATIB0in0rvrB1nbmU), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Juntos](https://open.spotify.com/album/6Ncx8sbeQ6XziNq6qaVIw3) | 3:01 | 2022-01-07 |  |
@@ -466,7 +468,7 @@
 | [Un1Berso](https://open.spotify.com/track/3i6r5ngWgDrvjyt4SaelaG) | [Lorenzo](https://open.spotify.com/artist/1XwazivwhckyJVCfOZSKuX), [Calina Manyu](https://open.spotify.com/artist/28DvSrXAPQzvvJXPjKRrzh) | [Un1Berso](https://open.spotify.com/album/5Oc993tbcauXPDE4a12xLl) | 3:38 | 2022-04-01 | 2022-07-25 |
 | [Una Caricia](https://open.spotify.com/track/6CtLSYdM3TdVovUfwHtFur) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Una Caricia](https://open.spotify.com/album/3pLaIMdYteZIVFexcu8ViK) | 3:08 | 2022-01-28 |  |
 | [Una Contigo](https://open.spotify.com/track/1iHhTv9Z4s354h2RNQFnHl) | [Camila Sapin](https://open.spotify.com/artist/4VWYsx7VsRf0Ir5UUT6pMk), [Alfonsina](https://open.spotify.com/artist/2PiVgpD2ynESIozDDEEh8k) | [Una Contigo](https://open.spotify.com/album/1BnTsAjxFJsZBPXXrXN56g) | 3:27 | 2022-01-28 | 2022-05-12 |
-| [Una Noche Mas](https://open.spotify.com/track/0YvNCaMdtxglEGFNiT9qye) | [Paula Van Hissenhoven](https://open.spotify.com/artist/2SKYxZDXoclUKA70rGtha7) | [Una Noche Mas](https://open.spotify.com/album/3sdQd8UJGKdZZY0RrvUroK) | 3:55 | 2022-01-28 |  |
+| [Una Noche Mas](https://open.spotify.com/track/0YvNCaMdtxglEGFNiT9qye) | [Paula Van Hissenhoven](https://open.spotify.com/artist/2SKYxZDXoclUKA70rGtha7) | [Una Noche Mas](https://open.spotify.com/album/3sdQd8UJGKdZZY0RrvUroK) | 3:55 | 2022-01-28 | 2024-04-27 |
 | [Vainilla](https://open.spotify.com/track/1gGJWtBOrDc3t4BCpHSfpO) | [FrioLento](https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn) | [Vainilla](https://open.spotify.com/album/5jtkZqPze31uMyFIyI14F8) | 2:46 | 2022-01-28 | 2022-07-05 |
 | [Van al Cielo](https://open.spotify.com/track/5CjCiQxBrYKUPlmr0HHBAo) | [Marina Wil](https://open.spotify.com/artist/6QxpTfXermR3g5udEQGTe4) | [Van al Cielo](https://open.spotify.com/album/0D4QbBw4rEfJCmbRYsKdP4) | 5:04 | 2022-06-03 | 2022-07-16 |
 | [Velocidad Crucero](https://open.spotify.com/track/3r1cIjl8iCoLYNK2XBr9zU) | [Puebla](https://open.spotify.com/artist/1PqKs6dNaJFy6qNgXEVCpm), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Velocidad Crucero](https://open.spotify.com/album/4Vk35EIEu45hRtoGEmq8e1) | 3:52 | 2023-10-05 |  |

@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Marcus King
 
-[Spotify](https://open.spotify.com/user/spotify) - 605,536 likes - 150 songs - 9 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 605,365 likes - 150 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Delilah](https://open.spotify.com/track/0uKRoLqNIs76XJOgCqAc2c) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Mood Swings](https://open.spotify.com/album/319oKHutG8MS3EFFUF00Th) | 4:23 |
 | 2 | [Heartless](https://open.spotify.com/track/6QXhBSDthWBH7e6uQjfWFn) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Heartless](https://open.spotify.com/album/4yJlgo1yOViRYT0lMTIbxm) | 3:18 |
-| 3 | [Yearnin’ For You](https://open.spotify.com/track/3bBWNi61k8Re8QQ01LtcIC) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Yearnin’ For You](https://open.spotify.com/album/0l689IAwF2gVXd6Z5jmoz0) | 3:35 |
-| 4 | [Running Out Of Time](https://open.spotify.com/track/4qIdRNZsrZ0HHPq73AWGQW) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Half Life](https://open.spotify.com/album/51JYG8XPpVVVA7uQTnm4tI) | 3:30 |
+| 3 | [America](https://open.spotify.com/track/63LVOsdT7bB52kCzNLsEPn) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [$10 Cowboy](https://open.spotify.com/album/29H8rVCQG9uXLiT9hlH5za) | 3:23 |
+| 4 | [Yearnin’ For You](https://open.spotify.com/track/3bBWNi61k8Re8QQ01LtcIC) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Yearnin’ For You](https://open.spotify.com/album/0l689IAwF2gVXd6Z5jmoz0) | 3:35 |
 | 5 | [American Dreaming \- Single Edit](https://open.spotify.com/track/3XSAuizXkxeam6N8eJwGVh) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [American Dreaming](https://open.spotify.com/album/6uAs0LUlrnnJZ21YKqqKaT) | 3:57 |
-| 6 | [Country Kid](https://open.spotify.com/track/0qHRw28w5WnjVgaLp6bAlX) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Country Kid](https://open.spotify.com/album/2sjMqp2bBoT0abDKJYavl1) | 3:33 |
-| 7 | [Solitary Road](https://open.spotify.com/track/2nRcwYvF3RPx0rXTmRGHyc) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Solitary Road](https://open.spotify.com/album/4wHGvE8T3rOrUeUuY9iPoM) | 3:31 |
+| 6 | [Running Out Of Time](https://open.spotify.com/track/4qIdRNZsrZ0HHPq73AWGQW) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Half Life](https://open.spotify.com/album/51JYG8XPpVVVA7uQTnm4tI) | 3:30 |
+| 7 | [Country Kid](https://open.spotify.com/track/0qHRw28w5WnjVgaLp6bAlX) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Country Kid](https://open.spotify.com/album/2sjMqp2bBoT0abDKJYavl1) | 3:33 |
 | 8 | [Green Jesus](https://open.spotify.com/track/2CIm9or6rs2pNIZt7XAjSN) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Green Jesus](https://open.spotify.com/album/0pqihBZQbkllBMUd4L45Lg) | 3:28 |
 | 9 | [Wondering Why](https://open.spotify.com/track/158mZIMC4X58ZJK4fJfH1b) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Wondering Why](https://open.spotify.com/album/5WtlaMCff9QS0I76EE7lge) | 3:52 |
 | 10 | [Gentle Violence](https://open.spotify.com/track/4kjktXON6BJg5CVntKzsWP) | [John Moreland](https://open.spotify.com/artist/5MPWTD6J1H9XqYEOb4QkdH) | [Visitor](https://open.spotify.com/album/06SkY6G0aiZJVwNCPwkcb4) | 3:53 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 149 | [The Sacred Now](https://open.spotify.com/track/1lAv7oakRuwnzrqjFyxSqx) | [Iris DeMent](https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY) | [The Sacred Now / How Long](https://open.spotify.com/album/0yol57x7XXIwXSrlnDZ4s8) | 4:12 |
 | 150 | [This Will Be Our Year](https://open.spotify.com/track/2oy3hJGwD5aJSlFy4OnAkL) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [This Will Be Our Year](https://open.spotify.com/album/1aunApiIbz5beHK7ty68bT) | 2:37 |
 
-Snapshot ID: `MTcxMzQ5OTIwMCwwMDAwMDAwMGQ2YzM2ZmJhNWIzZDg1NDRmMWEwMzcxNzU3NDUxM2Rl`
+Snapshot ID: `MTcxNDEwNDAwMCwwMDAwMDAwMDg0NzQ1YzViZmI3NTJmYTI3NDZiNzViZDY4YzcxYWE2`

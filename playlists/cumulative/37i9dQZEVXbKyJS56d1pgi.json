@@ -6533,6 +6533,24 @@
     },
     {
       "album": {
+        "name": "O Melhor De Paulo De Carvalho",
+        "url": "https://open.spotify.com/album/7zUz0pk3XUEZWQcc5LlUN9"
+      },
+      "artists": [
+        {
+          "name": "Paulo Carvalho",
+          "url": "https://open.spotify.com/artist/1ckFxxGdhukqgUX1tLOm15"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203493,
+      "name": "E Depois Do Adeus",
+      "url": "https://open.spotify.com/track/6CszIC4ITxwL19mj5ooXpU"
+    },
+    {
+      "album": {
         "name": "E No Eazi",
         "url": "https://open.spotify.com/album/2AV8YlXjnmB2ENud83fwE4"
       },
@@ -8076,7 +8094,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 215463,
       "name": "Florida!!! (feat. Florence + The Machine)",
       "url": "https://open.spotify.com/track/3ZVFcD8Wlw9T9klGqmJf9F"
@@ -9254,7 +9272,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-28",
+      "date_removed": null,
       "duration_ms": 206501,
       "name": "Gr\u00e2ndola, Vila Morena",
       "url": "https://open.spotify.com/track/0RIyZ50E4Y34Cn8vbuybCg"
@@ -14564,7 +14582,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 203801,
       "name": "My Boy Only Breaks His Favorite Toys",
       "url": "https://open.spotify.com/track/2XXwLdtuAcE0HSCu61ijAb"
@@ -15330,7 +15348,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 140322,
       "name": "Novo Balan\u00e7o",
       "url": "https://open.spotify.com/track/4hKLzFvNwHF6dPosGT30ed"
@@ -24402,7 +24420,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 334084,
       "name": "Who\u2019s Afraid of Little Old Me?",
       "url": "https://open.spotify.com/track/36t6frENUtCYKuZus6aYDO"

@@ -2,7 +2,7 @@
 
 ### [This Is Eminem](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4gTUOY)
 
-> This is Eminem\. Todos os maiores hits em uma só playlist.
+> This is Eminem\. The essential tracks, all in one playlist.
 
 63 songs - 4 hr 34 min
 

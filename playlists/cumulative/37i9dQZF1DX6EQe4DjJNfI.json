@@ -1094,7 +1094,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 177715,
       "name": "Depois da Briga",
       "url": "https://open.spotify.com/track/3Oec1XgUMdF58bIRlK40Qt"
@@ -3388,6 +3388,32 @@
       "duration_ms": 250032,
       "name": "Quem Vai Fazer Voc\u00ea Feliz?",
       "url": "https://open.spotify.com/track/1tE34sFD7UkGqTHzUDwhN6"
+    },
+    {
+      "album": {
+        "name": "Quer ou N\u00e3o Quer?",
+        "url": "https://open.spotify.com/album/2RrbFaJycZn6RiUgDTNyJK"
+      },
+      "artists": [
+        {
+          "name": "Manocchio",
+          "url": "https://open.spotify.com/artist/6eF2txpySndQt339aJjQE2"
+        },
+        {
+          "name": "CJota",
+          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210649,
+      "name": "Quer ou N\u00e3o Quer?",
+      "url": "https://open.spotify.com/track/6P3pUqOjoXYxsYEeqdHriP"
     },
     {
       "album": {

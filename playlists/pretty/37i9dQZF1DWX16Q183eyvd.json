@@ -1,13 +1,37 @@
 {
   "description": "Push play on the coolest playlist around, and get ready to jump around. Cover: Gracie's Corner",
-  "num_followers": 43161,
+  "num_followers": 43260,
   "original_name": "Hip-Hop & R&B for Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ5OTI2MCwwMDAwMDAwMDZhYTIzZWUyOWZiNjY1ZTY0ODg4YmQzMTlhNDQ4ZmM2",
+  "snapshot_id": "MTcxNDEwNDA2MCwwMDAwMDAwMDkxMGVkZDEzZmYzNDQyM2U1YmViN2MyYmI4NDU3NWE5",
   "tracks": [
+    {
+      "added_at": "2024-04-26 04:01:00",
+      "album": {
+        "name": "Nick Jr. Mix It Up! Vol. 10: Hip Hop Playground (The Remixes)",
+        "url": "https://open.spotify.com/album/1o8i8X0PNEAXU3PkGKWTKx"
+      },
+      "artists": [
+        {
+          "name": "Nick Jr.",
+          "url": "https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC"
+        },
+        {
+          "name": "Noggin",
+          "url": "https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn"
+        },
+        {
+          "name": "Darryl \"DMC\" McDaniels",
+          "url": "https://open.spotify.com/artist/6a8v4haj3oDEJiDMVrAJAn"
+        }
+      ],
+      "duration_ms": 123870,
+      "name": "Contradict - Hip Hop Remix",
+      "url": "https://open.spotify.com/track/0EgmP7D9aaMjUbzc7fHHli"
+    },
     {
       "added_at": "2024-04-19 04:01:00",
       "album": {
@@ -43,6 +67,22 @@
       "duration_ms": 129882,
       "name": "I'm Happy",
       "url": "https://open.spotify.com/track/6r6o3KFnIjHq5oHh3KxEyo"
+    },
+    {
+      "added_at": "2024-04-26 04:01:00",
+      "album": {
+        "name": "PARTY AT THE YMCA",
+        "url": "https://open.spotify.com/album/7JGoJoyYVYXFbYCgcmjpIx"
+      },
+      "artists": [
+        {
+          "name": "Coach Kody",
+          "url": "https://open.spotify.com/artist/6Vgl5qX4ArZ9lLzegNnzt9"
+        }
+      ],
+      "duration_ms": 100253,
+      "name": "PARTY AT THE YMCA",
+      "url": "https://open.spotify.com/track/27CuBGHjU658LDz3aXQxt5"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -611,22 +651,6 @@
       "duration_ms": 145800,
       "name": "LOL LAUGH OUT LOUD",
       "url": "https://open.spotify.com/track/1qhtoRTnYx6icGiwcKiT4j"
-    },
-    {
-      "added_at": "2024-01-30 16:42:16",
-      "album": {
-        "name": "Desmond Cool Jams",
-        "url": "https://open.spotify.com/album/78ZmgGAOrMieH3NANKJ7Ir"
-      },
-      "artists": [
-        {
-          "name": "Desmond Dennis",
-          "url": "https://open.spotify.com/artist/1W14E5ExskpUoE8H9n8fPn"
-        }
-      ],
-      "duration_ms": 152340,
-      "name": "The Muffin Man",
-      "url": "https://open.spotify.com/track/1Vbvmps24U9pmD4Mf5fEtC"
     },
     {
       "added_at": "2024-01-30 16:42:16",

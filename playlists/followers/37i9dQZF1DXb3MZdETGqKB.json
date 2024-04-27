@@ -1,5 +1,5 @@
 {
-  "2024-04-26": 147379,
+  "2024-04-27": 147397,
   "date_first_scraped": "2021-12-21",
   "description": "All new, all blues. Cover: Gary Clark Jr.",
   "name": "Nu-Blue",
@@ -1297,6 +1297,24 @@
       "duration_ms": 256040,
       "name": "Double Life",
       "url": "https://open.spotify.com/track/4rrunCmiAMZvC9hAZ9EEr9"
+    },
+    {
+      "album": {
+        "name": "Letters from a Black Widow",
+        "url": "https://open.spotify.com/album/4YJpoX2zeOy7maGeN2Sa14"
+      },
+      "artists": [
+        {
+          "name": "Judith Hill",
+          "url": "https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236161,
+      "name": "Downtown Boogie",
+      "url": "https://open.spotify.com/track/1axZoN44fNeN8RkmuybpVo"
     },
     {
       "album": {

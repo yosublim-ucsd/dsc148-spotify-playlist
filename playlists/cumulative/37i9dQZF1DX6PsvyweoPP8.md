@@ -4,7 +4,7 @@
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-215 songs - 10 hr 31 min
+216 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Corpo Quente](https://open.spotify.com/track/6RRVJ39Nu1GfiWhxBvixMg) | [Ryan Realcria](https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Bi$](https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA) | [Corpo Quente](https://open.spotify.com/album/5kRUXL80sJ8ToO1YqbruoN) | 4:00 | 2022-03-18 |  |
 | [Curvas Finas](https://open.spotify.com/track/6yQ58h9qNLLjWfGEFLLd0Q) | [Gabrá](https://open.spotify.com/artist/5wfYCqurlk6LzsqINa2Gy3), [ZSS Ent.](https://open.spotify.com/artist/1L7rw4mLVQFgIkknFHkk47) | [Curvas Finas](https://open.spotify.com/album/2eGCZcCXGf1yLSEpddlgnh) | 3:04 | 2022-03-18 | 2023-09-02 |
 | [Câmera Lenta](https://open.spotify.com/track/5QkWy7Hh5ruS2H4eEW2jJV) | [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ), [RealP7oficial](https://open.spotify.com/artist/1xZZFJdJSzrma6gAuGV7tz), [Drumond](https://open.spotify.com/artist/18MlhKAWJfNPtZiT0SwngM), [moyb](https://open.spotify.com/artist/4mWQPyioqqqZ9Lw4NX0GNg) | [Câmera Lenta](https://open.spotify.com/album/0VgoI3iDV1jxKJDClTUPto) | 2:41 | 2024-01-12 |  |
+| [CÂMERA LENTA](https://open.spotify.com/track/0xDEgXt5rP6I5uwJoFk0kR) | [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [MAGIC SHOW](https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW) | 2:54 | 2024-04-26 |  |
 | [Cê Tá Bem](https://open.spotify.com/track/0LdNETSAKTnzZ64JoOSMiv) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl) | [Cê Tá Bem](https://open.spotify.com/album/6I7wRp9Ic9oVpYNvRIS4A8) | 3:20 | 2022-03-18 |  |
 | [Cê Tá Bem](https://open.spotify.com/track/1DLwaIqLEMrKz5czGKlI8B) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl) | [Cê Tá Bem](https://open.spotify.com/album/46YXJKIzU5bYu7hmu0b6mw) | 3:20 | 2024-03-15 | 2024-03-24 |
 | [De Marola](https://open.spotify.com/track/5DlrNzF7YmK2dZBjfr0qZ2) | [Azevedo](https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Skinny Beats](https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r) | [Paz Terrível](https://open.spotify.com/album/3NeF3Ss8ndyPPXi5XR6f90) | 2:49 | 2023-09-22 |  |

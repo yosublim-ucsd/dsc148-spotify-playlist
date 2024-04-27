@@ -1,5 +1,5 @@
 {
-  "2024-04-26": 662271,
+  "2024-04-27": 662216,
   "date_first_scraped": "2022-05-30",
   "description": "New Music from Kollywood.\nCover : Coolie",
   "name": "Latest Tamil",
@@ -30579,6 +30579,32 @@
       "duration_ms": 188300,
       "name": "Yedhudhaan Inga Sandhosam - From \"Lucky Man\"",
       "url": "https://open.spotify.com/track/5Ev3pHxskZ2qAInAass461"
+    },
+    {
+      "album": {
+        "name": "Rathnam (Tamil)",
+        "url": "https://open.spotify.com/album/5FG2EhO0GS0HQQCihpAE7F"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Hariharan",
+          "url": "https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu"
+        },
+        {
+          "name": "Viveka",
+          "url": "https://open.spotify.com/artist/5r80gH9ibGjUVSQrXD8W7Z"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259406,
+      "name": "Yeduvaraiyo",
+      "url": "https://open.spotify.com/track/1SlvfSKD2y5kfr1qz5pRcv"
     },
     {
       "album": {

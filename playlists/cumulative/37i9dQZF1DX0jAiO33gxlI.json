@@ -733,6 +733,36 @@
     },
     {
       "album": {
+        "name": "A Arte de Samplear",
+        "url": "https://open.spotify.com/album/4nwI31yt1AdCGpkR2xo1Zj"
+      },
+      "artists": [
+        {
+          "name": "Predella",
+          "url": "https://open.spotify.com/artist/3lMQtpA4i6FrIe6DmDfDVa"
+        },
+        {
+          "name": "Planta E Raiz",
+          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
+        },
+        {
+          "name": "Ari",
+          "url": "https://open.spotify.com/artist/6EkinzGVGybboT2maC1VyE"
+        },
+        {
+          "name": "Ribb",
+          "url": "https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224714,
+      "name": "Alma Purificada",
+      "url": "https://open.spotify.com/track/1hZtQ68m4oReMZfcy4RbB9"
+    },
+    {
+      "album": {
         "name": "Alvo",
         "url": "https://open.spotify.com/album/63o4YpqI95GazC5ah5B3Iu"
       },
@@ -1658,6 +1688,36 @@
       "duration_ms": 210000,
       "name": "Bin Salabin",
       "url": "https://open.spotify.com/track/4QXSY2iNj8FeOtFyyb0dTG"
+    },
+    {
+      "album": {
+        "name": "Biodecon",
+        "url": "https://open.spotify.com/album/510pqgYX4s6yQ4TX5hIoqx"
+      },
+      "artists": [
+        {
+          "name": "Bitrinho",
+          "url": "https://open.spotify.com/artist/0YHpmlQEZi5GpsGKl6O41V"
+        },
+        {
+          "name": "Ramiress",
+          "url": "https://open.spotify.com/artist/7wXVKeTUGqF7ifHM81SHmN"
+        },
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "Dj Billy Mandela",
+          "url": "https://open.spotify.com/artist/5EmpV2UplGpGulT1onoSyh"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200176,
+      "name": "Biodecon",
+      "url": "https://open.spotify.com/track/7qBYwWajxFb0UQMfCtdnY5"
     },
     {
       "album": {
@@ -5192,7 +5252,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 184075,
       "name": "Fico Bem",
       "url": "https://open.spotify.com/track/5huAwkSNnxPsQQVdaXMwJQ"
@@ -10245,6 +10305,28 @@
     },
     {
       "album": {
+        "name": "Papo dos mais velho",
+        "url": "https://open.spotify.com/album/3m7xRn77vFfd6KhNF9S8PP"
+      },
+      "artists": [
+        {
+          "name": "Malcolm VL",
+          "url": "https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm"
+        },
+        {
+          "name": "DJ Maxnosbeatz",
+          "url": "https://open.spotify.com/artist/4FMpb2dZnasTgrWwyKCQuN"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239768,
+      "name": "Papo dos mais velho",
+      "url": "https://open.spotify.com/track/0au2K6tHdZlvYntgfOjnIA"
+    },
+    {
+      "album": {
         "name": "Parabellum",
         "url": "https://open.spotify.com/album/1shheX7krP1YOK6KiMLcZe"
       },
@@ -10352,6 +10434,32 @@
       "duration_ms": 151384,
       "name": "Passei De Trator",
       "url": "https://open.spotify.com/track/5PzRGhU8j0eAbxrwrOCw6X"
+    },
+    {
+      "album": {
+        "name": "Pato",
+        "url": "https://open.spotify.com/album/7Kahh00QPmrHsdpKwCD9tT"
+      },
+      "artists": [
+        {
+          "name": "RealLamak",
+          "url": "https://open.spotify.com/artist/1xGwIZJW5hCGGMGJZ468Nb"
+        },
+        {
+          "name": "Beats by GorJah",
+          "url": "https://open.spotify.com/artist/2JgTsHY5NoDEChnpZTdJcU"
+        },
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129600,
+      "name": "Pato",
+      "url": "https://open.spotify.com/track/664XNRE1DIZR4YMn4cwdRP"
     },
     {
       "album": {
@@ -12216,7 +12324,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 142702,
       "name": "Resultado",
       "url": "https://open.spotify.com/track/20CUnJXQ9H0KfH6Qm1Hgpx"

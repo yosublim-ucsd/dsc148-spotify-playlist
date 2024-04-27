@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 
 > Questionable in both morals and taste.
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 8 likes - 85 songs - 5 hr 9 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 8 likes - 86 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,5 +93,6 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 | 83 | [1993 \(feat\. Little Ricky ZR3\)](https://open.spotify.com/track/71iA79hOFAMmwGB1w83VH1) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Little Ricky ZR3](https://open.spotify.com/artist/6GaslxycqT27V8q2H3yZ7x) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 2:39 |
 | 84 | [A Ghost Story](https://open.spotify.com/track/2FoxK1MoP36ZiIfwooZI6j) | [Nick Lutsko](https://open.spotify.com/artist/0gEenHtJ9puwA63nbY2TAE) | [Incantations](https://open.spotify.com/album/5CfNebrzhXfZqa5aRQlOPb) | 2:26 |
 | 85 | [Bread](https://open.spotify.com/track/4Qq66rN8HWHk7NGPYfNvun) | [Anya Nami](https://open.spotify.com/artist/1A7NzAUPSwbUmfyGEmRM7h) | [Bread](https://open.spotify.com/album/6eJJ1rjVZ3o6HoMBCMxkZV) | 1:42 |
+| 86 | [Wii Turn Up \(Wii Menu Remix\)](https://open.spotify.com/track/59OkvZEB9zPsEa6fQL2LlZ) | [Murcy](https://open.spotify.com/artist/6hsB7sy4Y71liJtAjQQTKD) | [Wii Turn Up \(Wii Menu Remix\)](https://open.spotify.com/album/5Lx2FsaePV7qsgKJa8jXOR) | 3:15 |
 
-Snapshot ID: `MTE3LGJmNjA1YzJjNjc0MzhlYTdiOGIzZmIwN2Y0MDBmY2MzNWRiM2VkZjQ=`
+Snapshot ID: `MTE4LDE0MmYxNjdiNzEzYjA4Zjg5MzYzZDI3OGI1YWJlOWUxNzY1Y2E2ZGQ=`

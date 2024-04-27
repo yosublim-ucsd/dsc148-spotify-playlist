@@ -1,7 +1,7 @@
 {
-  "2024-04-26": 25454,
+  "2024-04-27": 25459,
   "date_first_scraped": "2023-09-29",
-  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : No Money Kids",
+  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : SEX SHOP MUSHROOMS",
   "name": "Volume France",
   "tracks": [
     {
@@ -150,6 +150,24 @@
     },
     {
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/6Amqo835TnuSYSnSEqHdx1"
+      },
+      "artists": [
+        {
+          "name": "Two Trains Left",
+          "url": "https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256137,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/7v80vLTX2QWEdfdafFTj4u"
+    },
+    {
+      "album": {
         "name": "You're in both dreams (and you're scared)",
         "url": "https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo"
       },
@@ -197,7 +215,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 191933,
       "name": "Attraction",
       "url": "https://open.spotify.com/track/6IiKWrISnOqKGno1gLI8y4"
@@ -255,6 +273,24 @@
       "duration_ms": 168746,
       "name": "A\u00e9rosol",
       "url": "https://open.spotify.com/track/4hYjzUdf9JFHE7URQ2Kb9Z"
+    },
+    {
+      "album": {
+        "name": "16 Dreams a Minute",
+        "url": "https://open.spotify.com/album/1485FZSX7HEo5vwK1KHk8c"
+      },
+      "artists": [
+        {
+          "name": "Stuck in the Sound",
+          "url": "https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "B/W Rainbow",
+      "url": "https://open.spotify.com/track/0jhy2QigktS8s6StS0eJPW"
     },
     {
       "album": {
@@ -507,7 +543,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 201305,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/11KdG302ZtlT6LUC0NpaAW"
@@ -838,6 +874,24 @@
     },
     {
       "album": {
+        "name": "Erase Me",
+        "url": "https://open.spotify.com/album/4m4Bc2uY4M8RAI9ELRKZ4g"
+      },
+      "artists": [
+        {
+          "name": "Shady Fat Kats",
+          "url": "https://open.spotify.com/artist/2ZgDtiPPJJhephke84L7BD"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128729,
+      "name": "Erase Me",
+      "url": "https://open.spotify.com/track/4EVbSzE3QvdC00xHQ1EzOg"
+    },
+    {
+      "album": {
         "name": "Relapse",
         "url": "https://open.spotify.com/album/6R6curgxkflcKqc0WVCsnk"
       },
@@ -939,7 +993,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 181697,
       "name": "Feel the Shine",
       "url": "https://open.spotify.com/track/0QBBOjiKJKavnRED86iGUY"
@@ -1141,7 +1195,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 169080,
       "name": "Green Eye",
       "url": "https://open.spotify.com/track/1P521PM4q6wIl25tAw4Ehq"
@@ -1199,6 +1253,24 @@
       "duration_ms": 207740,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/3plpIWQeDa8ptI5u0YOmDF"
+    },
+    {
+      "album": {
+        "name": "Veil",
+        "url": "https://open.spotify.com/album/6dYxGuO3ak0MmLeXOT2mwz"
+      },
+      "artists": [
+        {
+          "name": "Lysistrata",
+          "url": "https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206873,
+      "name": "Horns",
+      "url": "https://open.spotify.com/track/0b3EiGpz4epW3iBRD7Q4hX"
     },
     {
       "album": {
@@ -2034,6 +2106,24 @@
     },
     {
       "album": {
+        "name": "Koda",
+        "url": "https://open.spotify.com/album/7cZuHS2e1grx3o3DgDlYau"
+      },
+      "artists": [
+        {
+          "name": "Datcha Mandala",
+          "url": "https://open.spotify.com/artist/6HGIo68pNJojy4jcz9uE88"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280866,
+      "name": "Om Namah Shivaya",
+      "url": "https://open.spotify.com/track/1xhdb1IUjxtRTUm5f2TPLk"
+    },
+    {
+      "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/5Tc3N95b5Zg5u18ujeu1me"
       },
@@ -2448,6 +2538,24 @@
     },
     {
       "album": {
+        "name": "Self-Care 101",
+        "url": "https://open.spotify.com/album/7KMHbaMkFywuhG4OJ9piN5"
+      },
+      "artists": [
+        {
+          "name": "YAOUND\u00c9BOXINGCLUB",
+          "url": "https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201187,
+      "name": "Self-Care 101",
+      "url": "https://open.spotify.com/track/4PK8vwNQuscUXTx4ySI8bm"
+    },
+    {
+      "album": {
         "name": "Serotonin",
         "url": "https://open.spotify.com/album/2bNL3r3oBPFVAwk4s92ffj"
       },
@@ -2657,7 +2765,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 198280,
       "name": "Sonora",
       "url": "https://open.spotify.com/track/7ndufWPCrZze2WkkRYRwNr"
@@ -3068,6 +3176,24 @@
     },
     {
       "album": {
+        "name": "HORIZON",
+        "url": "https://open.spotify.com/album/0JPpXj9R4dOgYbSERMAnRM"
+      },
+      "artists": [
+        {
+          "name": "The Inspector Cluzo",
+          "url": "https://open.spotify.com/artist/5yxIIqWx8F0NfkXpyycTxg"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442626,
+      "name": "THE OUTSIDER",
+      "url": "https://open.spotify.com/track/6uApMCvfHnJVLDG538k5kr"
+    },
+    {
+      "album": {
         "name": "The Plan",
         "url": "https://open.spotify.com/album/5Yl97xpCRkjy25qhOtNq9V"
       },
@@ -3259,7 +3385,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 241987,
       "name": "Tout ce qu\u2019on FFFait",
       "url": "https://open.spotify.com/track/3rc4EzfgwJ1R3YV2HQO4d3"
@@ -3533,7 +3659,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 223973,
       "name": "Winter Sun",
       "url": "https://open.spotify.com/track/0Jt0kxSSMYQ6XPsPsAb4Ja"

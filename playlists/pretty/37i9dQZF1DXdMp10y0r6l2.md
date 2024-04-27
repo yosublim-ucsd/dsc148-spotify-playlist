@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMp10y0r6l2.md) - [plain]
 
 > El infierno hecho ruido\. Bienvenido al culto de La Bestia\. Takeover: Bruce Dickinson
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,361 likes - 59 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,310 likes - 59 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMp10y0r6l2.md) - [plain]
 | 53 | [Whole Lotta Rosie \- Live \- 1991](https://open.spotify.com/track/4eoGQROWDgOs43F0WEYR8a) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Live](https://open.spotify.com/album/1dmBXO2zmCbsf8qAicqbs0) | 4:29 |
 | 54 | [Black Hole Sun](https://open.spotify.com/track/7fURZRPkB2S70sYR1naKTK) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown](https://open.spotify.com/album/1xHWwGSoF1DNE4hqgBRkJX) | 5:18 |
 | 55 | [Stargazer](https://open.spotify.com/track/1aDNYyeU62BuQsBAY18i48) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Rising](https://open.spotify.com/album/3uIT4I4Dy7Pq1j0aSjzPW9) | 8:26 |
-| 56 | [Jesus Christ Pose \- Remastered](https://open.spotify.com/track/2UoHjfejHhemj0KSWCOV2A) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Badmotorfinger \(25th Anniversary Remaster\)](https://open.spotify.com/album/2W6MaUiInBkna5DfBES4E3) | 5:51 |
+| 56 | [Jesus Christ Pose \- Remastered 2016](https://open.spotify.com/track/2UoHjfejHhemj0KSWCOV2A) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Badmotorfinger \(25th Anniversary Remaster\)](https://open.spotify.com/album/2W6MaUiInBkna5DfBES4E3) | 5:51 |
 | 57 | [Soldier of Fortune \- 2023 Remix](https://open.spotify.com/track/3Aki4Iz8BWnt6QvCkrAfLZ) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [The Purple Album: Special Gold Edition](https://open.spotify.com/album/4TUGvvvuiUmlIYzoBdCZJt) | 3:21 |
 | 58 | [Earth Mother](https://open.spotify.com/track/764F5dyelTQhL8TwWkl5Fj) | [Samson](https://open.spotify.com/artist/0s4JwoiTHqruatpqAR0IZ7) | [Survivors / Head on / Head on \(Tony Platt Alternative Mix\) / Shock Tactics / Live at Reading](https://open.spotify.com/album/3MCcIeFltmMGTqP4NdsyNO) | 4:40 |
 | 59 | [Chemical Wedding \- 2001 Remaster](https://open.spotify.com/track/4rHBxp5ss7VnYrEo5m3Cfg) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [The Chemical Wedding](https://open.spotify.com/album/0ixzPRuTcEmvftZdRRG4t5) | 4:06 |

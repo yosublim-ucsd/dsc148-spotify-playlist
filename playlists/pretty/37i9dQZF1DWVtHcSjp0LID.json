@@ -1,6 +1,6 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 67736,
+  "num_followers": 67746,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,22 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/5dVLxKHRqppIumWNp5Crzb"
+      },
+      "artists": [
+        {
+          "name": "Daniel Bortz",
+          "url": "https://open.spotify.com/artist/23B2qxOv4x5uzlyhfEuNQi"
+        }
+      ],
+      "duration_ms": 308877,
+      "name": "Holding You",
+      "url": "https://open.spotify.com/track/3EDM7KO0QY9np171q2RhHx"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
         "name": "Between Dreams and Reality EP",
         "url": "https://open.spotify.com/album/2UlAQEGL6LQ0G2KFP4x6e4"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 528410,
       "name": "Between Dreams and Reality - Niko Schwind Remix",
       "url": "https://open.spotify.com/track/3YJIq3N5IQy1hhkmUnt2NM"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/5dVLxKHRqppIumWNp5Crzb"
-      },
-      "artists": [
-        {
-          "name": "Daniel Bortz",
-          "url": "https://open.spotify.com/artist/23B2qxOv4x5uzlyhfEuNQi"
-        }
-      ],
-      "duration_ms": 308877,
-      "name": "Holding You",
-      "url": "https://open.spotify.com/track/3EDM7KO0QY9np171q2RhHx"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -883,18 +883,26 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Doorways",
-        "url": "https://open.spotify.com/album/77BphdStN47PTh2OOBwXaE"
+        "name": "Breathing (Remixed)",
+        "url": "https://open.spotify.com/album/4kWrhigAiOPsL7jHJYFU0C"
       },
       "artists": [
         {
-          "name": "Cinnamon Chasers",
-          "url": "https://open.spotify.com/artist/3q7uty73JMtjzCSJdGQD7B"
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "Timo Jahns",
+          "url": "https://open.spotify.com/artist/5kaD6aFOSQbkFSpDFC1nhX"
+        },
+        {
+          "name": "Bongbeck",
+          "url": "https://open.spotify.com/artist/53l0V3UXlpzeN4NYbilu9T"
         }
       ],
-      "duration_ms": 228480,
-      "name": "3010",
-      "url": "https://open.spotify.com/track/4VM51LB2UMAitSSunxVrnV"
+      "duration_ms": 209073,
+      "name": "Cloud 21 - Bongbeck Remix",
+      "url": "https://open.spotify.com/track/2oEm3jyydcbdjkjmiloLaf"
     }
   ],
   "unique_name": "Deep Study",

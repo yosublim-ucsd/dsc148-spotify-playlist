@@ -1,5 +1,5 @@
 {
-  "2024-04-26": 285734,
+  "2024-04-27": 285783,
   "date_first_scraped": "2023-12-31",
   "description": "Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Sorriso Maroto",
   "name": "Domingu\u00eara",
@@ -127,7 +127,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 252274,
       "name": "Ajoelhou Tem Que Rezar/ Perdeu Pra Cerveja/ Deixa Alagar - Ao Vivo",
       "url": "https://open.spotify.com/track/2CDqVzTbPelCcKV9zcu6Uc"
@@ -175,6 +175,28 @@
       "duration_ms": 373706,
       "name": "Amanh\u00e3 / Loucura do Seu Cora\u00e7\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/6ONv978PnRhrb1qIeOi9iW"
+    },
+    {
+      "album": {
+        "name": "Aonde Quer Chegar / Encaixe (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0fUuUQHF7OWqsBxKzm31LT"
+      },
+      "artists": [
+        {
+          "name": "Fabinho",
+          "url": "https://open.spotify.com/artist/4CQPmHby32hOV9vjFHHUJS"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200092,
+      "name": "Aonde Quer Chegar / Encaixe - Ao Vivo",
+      "url": "https://open.spotify.com/track/7Cy97gNaRFruzvFX65hn8K"
     },
     {
       "album": {
@@ -855,6 +877,24 @@
       "duration_ms": 193500,
       "name": "Fica Combinado Assim / O Amor N\u00e3o Tem Culpa - Ao Vivo",
       "url": "https://open.spotify.com/track/1262PSbMeANuKnznYffZZN"
+    },
+    {
+      "album": {
+        "name": "Energia Benzadeus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3EfjvhRjvdm99Gq1IGoFK2"
+      },
+      "artists": [
+        {
+          "name": "Grupo Benzadeus",
+          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324562,
+      "name": "Fissuras De Um Casal / Caixa Postal - Ao Vivo",
+      "url": "https://open.spotify.com/track/45yo7oZ11jYQnM1XcQTLre"
     },
     {
       "album": {
@@ -1981,7 +2021,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 227058,
       "name": "Teu Sorriso / Faz Assim - Ao Vivo",
       "url": "https://open.spotify.com/track/33vdVK4ypFiF8MvWyig5Lb"

@@ -1,13 +1,37 @@
 {
   "description": "Listen to your favorite songs from the Descendants soundtracks.",
-  "num_followers": 73617,
+  "num_followers": 73788,
   "original_name": "Descendants Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcwODQ1OTI5MiwwMDAwMDAwMDczODUzZjJkMjhjOTY2NDQzNzAwN2JiYmZkYzg4YTE1",
+  "snapshot_id": "MTcxNDE0ODg4MSwwMDAwMDAwMGQ0ODNmOGJiNDBmNjA1YTc0MWY2ZWIwNzU4OGExYTYy",
   "tracks": [
+    {
+      "added_at": "2024-04-26 16:28:01",
+      "album": {
+        "name": "What's My Name (Red Version) [From \"Descendants: The Rise of Red\"/Soundtrack Version]",
+        "url": "https://open.spotify.com/album/2UGytdqtYVoyPeBa5UTP7u"
+      },
+      "artists": [
+        {
+          "name": "China Anne McClain",
+          "url": "https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV"
+        },
+        {
+          "name": "Kylie Cantrall",
+          "url": "https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 146642,
+      "name": "What's My Name (Red Version) - From \"Descendants: The Rise of Red\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/1duJTDSFuK3sB0NwNr0QRg"
+    },
     {
       "added_at": "2021-11-08 16:21:03",
       "album": {

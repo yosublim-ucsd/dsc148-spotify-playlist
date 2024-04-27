@@ -1,12 +1,12 @@
 {
   "description": "This Is Edgardo Nu\u00f1ez. Los temas esenciales, todos en una lista.",
-  "num_followers": 30245,
+  "num_followers": 30295,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzkxNjgwMCwwMDAwMDAwMDA2MjM5ZDJmMzBjNTdhZWQ2Yzk2ODlkZDE2ZmRmODlh",
+  "snapshot_id": "MTcxNDAwMzIwMCwwMDAwMDAwMGQ0N2ZjYWQ3NWY1M2IxZWFkZDg4NWU2MzRhYTJhZTE1",
   "tracks": [
     {
       "added_at": null,
@@ -383,26 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DESVELADO",
-        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 224378,
-      "name": "Hermosura de Mujer",
-      "url": "https://open.spotify.com/track/19vV1i1AluuK7mQcJmM5GZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Humo De Mi Gallo",
         "url": "https://open.spotify.com/album/6EzDCDQdRd7si00U61tjlN"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 144080,
       "name": "El Humo De Mi Gallo",
       "url": "https://open.spotify.com/track/4peahmVQMLGlWwJLNodzcD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DESVELADO",
+        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 224378,
+      "name": "Hermosura de Mujer",
+      "url": "https://open.spotify.com/track/19vV1i1AluuK7mQcJmM5GZ"
     },
     {
       "added_at": null,
@@ -867,22 +867,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya Se Fue El Parche",
-        "url": "https://open.spotify.com/album/0mMUkBK9GpE9MTTHJfrJnc"
+        "name": "Perfecta Para Mi",
+        "url": "https://open.spotify.com/album/4enQ6asfExjDZ0qFFJJ5CQ"
       },
       "artists": [
-        {
-          "name": "Betillo Guerrero",
-          "url": "https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y"
-        },
         {
           "name": "Edgardo Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 176819,
-      "name": "Ya Se Fue El Parche",
-      "url": "https://open.spotify.com/track/3kiKK2eUCG5uswn6YeE6LO"
+      "duration_ms": 179685,
+      "name": "Perfecta Para MI",
+      "url": "https://open.spotify.com/track/3zaS4P1REhfZBcaBVSuHLJ"
     },
     {
       "added_at": null,
@@ -903,18 +899,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfecta Para Mi",
-        "url": "https://open.spotify.com/album/4enQ6asfExjDZ0qFFJJ5CQ"
+        "name": "Ya Se Fue El Parche",
+        "url": "https://open.spotify.com/album/0mMUkBK9GpE9MTTHJfrJnc"
       },
       "artists": [
+        {
+          "name": "Betillo Guerrero",
+          "url": "https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y"
+        },
         {
           "name": "Edgardo Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 179685,
-      "name": "Perfecta Para MI",
-      "url": "https://open.spotify.com/track/3zaS4P1REhfZBcaBVSuHLJ"
+      "duration_ms": 176819,
+      "name": "Ya Se Fue El Parche",
+      "url": "https://open.spotify.com/track/3kiKK2eUCG5uswn6YeE6LO"
     },
     {
       "added_at": null,

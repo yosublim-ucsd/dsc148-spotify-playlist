@@ -1,48 +1,28 @@
 {
-  "description": "these songs will break your phone. ft. Odetari x Ayesha Erotica",
-  "num_followers": 450748,
+  "description": "\"b*tch i'm taylor swift\" -Porter Robinson",
+  "num_followers": 450855,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzk4MzYwNCwwMDAwMDAwMDZiN2VmMDJlYzRjYTcwNTcyYTYxMzdiOWQxYjU5Mzlh",
+  "snapshot_id": "MTcxNDEwNzYwMCwwMDAwMDAwMGIwM2NkNjYyYzAzYjYwMDUwZWJiOTQ4ZDQyNzVkYjc0",
   "tracks": [
     {
-      "added_at": "2024-04-24 18:33:24",
+      "added_at": "2024-04-26 05:00:00",
       "album": {
-        "name": "Cold Visions",
-        "url": "https://open.spotify.com/album/5fjDXtY8tws1sbPFHw34pL"
+        "name": "Knock Yourself Out XD",
+        "url": "https://open.spotify.com/album/6a6vazlfojF2pu0VXhmn4r"
       },
       "artists": [
         {
-          "name": "Bladee",
-          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
         }
       ],
-      "duration_ms": 70549,
-      "name": "PARANOIA INTRO",
-      "url": "https://open.spotify.com/track/5cXQjDLQbbuQqJBRKvJqjW"
-    },
-    {
-      "added_at": "2024-04-19 05:00:00",
-      "album": {
-        "name": "BREAK A NECK (w/ Ayesha Erotica)",
-        "url": "https://open.spotify.com/album/6fzW2bpKzn9SQUbjq2GWgk"
-      },
-      "artists": [
-        {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        },
-        {
-          "name": "Ayesha Erotica",
-          "url": "https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco"
-        }
-      ],
-      "duration_ms": 116330,
-      "name": "BREAK A NECK (w/ Ayesha Erotica)",
-      "url": "https://open.spotify.com/track/0hmd7it20lGXWfNPOUcYUp"
+      "duration_ms": 168275,
+      "name": "Knock Yourself Out XD",
+      "url": "https://open.spotify.com/track/7sVPmzAf2TagX4anSxasuo"
     },
     {
       "added_at": "2024-03-29 14:41:36",
@@ -89,24 +69,88 @@
       "url": "https://open.spotify.com/track/1EycQzSpakKNsHgMbTMMKo"
     },
     {
-      "added_at": "2024-03-29 14:47:47",
+      "added_at": "2024-04-19 05:00:00",
       "album": {
-        "name": "Princess",
-        "url": "https://open.spotify.com/album/4zVPyvVpXQwZAIqPa1MPx3"
+        "name": "BREAK A NECK (w/ Ayesha Erotica)",
+        "url": "https://open.spotify.com/album/6fzW2bpKzn9SQUbjq2GWgk"
       },
       "artists": [
         {
-          "name": "Ayesha Erotica",
-          "url": "https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco"
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
         },
         {
-          "name": "Petey Plastic",
-          "url": "https://open.spotify.com/artist/59R8GbaEIJH0vO9taJMmZQ"
+          "name": "Ayesha Erotica",
+          "url": "https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco"
         }
       ],
-      "duration_ms": 134817,
-      "name": "Princess",
-      "url": "https://open.spotify.com/track/3MRBeskZBQ7j9W9CJgNN19"
+      "duration_ms": 116330,
+      "name": "BREAK A NECK (w/ Ayesha Erotica)",
+      "url": "https://open.spotify.com/track/0hmd7it20lGXWfNPOUcYUp"
+    },
+    {
+      "added_at": "2024-04-19 05:00:00",
+      "album": {
+        "name": "Soulbreaker",
+        "url": "https://open.spotify.com/album/7wHsf7I3cYPiC6KKWX5acW"
+      },
+      "artists": [
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        }
+      ],
+      "duration_ms": 234804,
+      "name": "Soulbreaker",
+      "url": "https://open.spotify.com/track/0aLfKWtwCRGrzb0Rg6c8tF"
+    },
+    {
+      "added_at": "2024-04-24 18:33:24",
+      "album": {
+        "name": "Cold Visions",
+        "url": "https://open.spotify.com/album/5fjDXtY8tws1sbPFHw34pL"
+      },
+      "artists": [
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        }
+      ],
+      "duration_ms": 70549,
+      "name": "PARANOIA INTRO",
+      "url": "https://open.spotify.com/track/5cXQjDLQbbuQqJBRKvJqjW"
+    },
+    {
+      "added_at": "2024-03-22 15:24:50",
+      "album": {
+        "name": "i like the way you kiss me",
+        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+    },
+    {
+      "added_at": "2024-04-26 05:00:00",
+      "album": {
+        "name": "@location",
+        "url": "https://open.spotify.com/album/5j0R8rL8HwF558PZbPHFkn"
+      },
+      "artists": [
+        {
+          "name": "Peterparker69",
+          "url": "https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "@location",
+      "url": "https://open.spotify.com/track/0LZfOTFwtgIdWr7n2ngOty"
     },
     {
       "added_at": "2024-04-12 05:32:15",
@@ -127,22 +171,6 @@
     {
       "added_at": "2024-04-19 05:00:00",
       "album": {
-        "name": "Soulbreaker",
-        "url": "https://open.spotify.com/album/7wHsf7I3cYPiC6KKWX5acW"
-      },
-      "artists": [
-        {
-          "name": "A. G. Cook",
-          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
-        }
-      ],
-      "duration_ms": 234804,
-      "name": "Soulbreaker",
-      "url": "https://open.spotify.com/track/0aLfKWtwCRGrzb0Rg6c8tF"
-    },
-    {
-      "added_at": "2024-04-19 05:00:00",
-      "album": {
         "name": "i dont even own prada shoes lol",
         "url": "https://open.spotify.com/album/1dn2JSwF9ULVnQzDprTaiQ"
       },
@@ -155,6 +183,66 @@
       "duration_ms": 130449,
       "name": "i dont even own prada shoes lol",
       "url": "https://open.spotify.com/track/318DZCLXPsOAZTblTugO09"
+    },
+    {
+      "added_at": "2024-04-26 05:00:00",
+      "album": {
+        "name": "skin",
+        "url": "https://open.spotify.com/album/0diarTnmHp6lCAUK1NEjAg"
+      },
+      "artists": [
+        {
+          "name": "rouri404",
+          "url": "https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa"
+        }
+      ],
+      "duration_ms": 144004,
+      "name": "skin",
+      "url": "https://open.spotify.com/track/32Zt7Jj8Qe7HSaQHNk98RY"
+    },
+    {
+      "added_at": "2024-04-26 05:00:00",
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/4IANKIjp9R6mmGrsVtlt70"
+      },
+      "artists": [
+        {
+          "name": "GLOWSTONE",
+          "url": "https://open.spotify.com/artist/40ZUoJmPAI5eVg88y2l8Cj"
+        },
+        {
+          "name": "MADI",
+          "url": "https://open.spotify.com/artist/5KtyvSnzn6NcqukCOsjfe0"
+        },
+        {
+          "name": "sober rob",
+          "url": "https://open.spotify.com/artist/532VhOtZQ47TWSTGwbZ4kF"
+        }
+      ],
+      "duration_ms": 231724,
+      "name": "POISON",
+      "url": "https://open.spotify.com/track/2C8E4hexV8wHs60UjJzlEi"
+    },
+    {
+      "added_at": "2024-03-29 14:47:47",
+      "album": {
+        "name": "Princess",
+        "url": "https://open.spotify.com/album/4zVPyvVpXQwZAIqPa1MPx3"
+      },
+      "artists": [
+        {
+          "name": "Ayesha Erotica",
+          "url": "https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco"
+        },
+        {
+          "name": "Petey Plastic",
+          "url": "https://open.spotify.com/artist/59R8GbaEIJH0vO9taJMmZQ"
+        }
+      ],
+      "duration_ms": 134817,
+      "name": "Princess",
+      "url": "https://open.spotify.com/track/3MRBeskZBQ7j9W9CJgNN19"
     },
     {
       "added_at": "2024-04-09 16:52:23",
@@ -171,22 +259,6 @@
       "duration_ms": 146865,
       "name": "So What If I'm A Freak",
       "url": "https://open.spotify.com/track/3Om0j8yTp9MMMvrf4Xe94N"
-    },
-    {
-      "added_at": "2024-03-22 15:24:50",
-      "album": {
-        "name": "i like the way you kiss me",
-        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 142514,
-      "name": "i like the way you kiss me",
-      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
     },
     {
       "added_at": "2024-04-12 05:32:15",
@@ -207,6 +279,26 @@
       "duration_ms": 176296,
       "name": "Hitty",
       "url": "https://open.spotify.com/track/4lxRARlF0KR3p9o7C8Th0T"
+    },
+    {
+      "added_at": "2024-04-26 05:00:00",
+      "album": {
+        "name": "From The Start!",
+        "url": "https://open.spotify.com/album/6XVB6Ah5O5rHfp7K75kZkr"
+      },
+      "artists": [
+        {
+          "name": "Clover!",
+          "url": "https://open.spotify.com/artist/32cxkkzCHntC7KY72NOyHD"
+        },
+        {
+          "name": "Nosgov",
+          "url": "https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh"
+        }
+      ],
+      "duration_ms": 128485,
+      "name": "From The Start!",
+      "url": "https://open.spotify.com/track/0Xy97fQCGZnReNxeBqWf9i"
     },
     {
       "added_at": "2024-03-29 14:43:31",
@@ -243,22 +335,6 @@
       "duration_ms": 124888,
       "name": "Stuck",
       "url": "https://open.spotify.com/track/3yyJWBJ3MOrLlhtla7Cq7P"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Britpop",
-        "url": "https://open.spotify.com/album/08ZUb3IpVYrHbkWFhMNXO9"
-      },
-      "artists": [
-        {
-          "name": "A. G. Cook",
-          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
-        }
-      ],
-      "duration_ms": 202055,
-      "name": "Britpop",
-      "url": "https://open.spotify.com/track/4szX2NPDe0vhoCGwO4g9cw"
     },
     {
       "added_at": "2024-01-22 16:15:30",
@@ -351,6 +427,22 @@
       "duration_ms": 184615,
       "name": "RYL0VE Song",
       "url": "https://open.spotify.com/track/09Sksb6alLvHMiHsa200n6"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Britpop",
+        "url": "https://open.spotify.com/album/08ZUb3IpVYrHbkWFhMNXO9"
+      },
+      "artists": [
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        }
+      ],
+      "duration_ms": 202055,
+      "name": "Britpop",
+      "url": "https://open.spotify.com/track/4szX2NPDe0vhoCGwO4g9cw"
     },
     {
       "added_at": "2024-01-22 16:15:30",
@@ -675,22 +767,6 @@
       "duration_ms": 310344,
       "name": "Olce IV",
       "url": "https://open.spotify.com/track/22aEH1qwd2bAAKucLLpZEL"
-    },
-    {
-      "added_at": "2024-03-04 16:41:47",
-      "album": {
-        "name": "even when the sun is dead, will you tell them how hard i tried",
-        "url": "https://open.spotify.com/album/0aIrTtrBqrEHggWVEtErqb"
-      },
-      "artists": [
-        {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
-        }
-      ],
-      "duration_ms": 136771,
-      "name": "even when the sun is dead, will you tell them how hard i tried",
-      "url": "https://open.spotify.com/track/2qhvP4If0pFP5SCk1xuU30"
     },
     {
       "added_at": "2024-03-15 04:00:00",

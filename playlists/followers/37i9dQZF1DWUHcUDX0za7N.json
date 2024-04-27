@@ -1,7 +1,7 @@
 {
-  "2024-04-26": 47587,
+  "2024-04-27": 47652,
   "date_first_scraped": "2022-10-01",
-  "description": "Hip hop and rap music from Nigeria. Cover: ODUMODUBLVCK",
+  "description": "Hip hop and rap music from Nigeria. Cover: Ice. Prince",
   "name": "Naija Bars ",
   "tracks": [
     {
@@ -43,6 +43,24 @@
       "duration_ms": 150620,
       "name": "11:11",
       "url": "https://open.spotify.com/track/4opSFGcLXcnaacX04QvEiB"
+    },
+    {
+      "album": {
+        "name": "R2 Sept 12",
+        "url": "https://open.spotify.com/album/7pXz5d7pMiaG0Uj2AYLDpB"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162336,
+      "name": "1999",
+      "url": "https://open.spotify.com/track/6rebyxkCsKvngGShPbGKG8"
     },
     {
       "album": {
@@ -4645,7 +4663,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 182373,
       "name": "My Way No Be Your Way",
       "url": "https://open.spotify.com/track/6FNFp1ZvhAv5sZm2sMATg9"
@@ -5777,7 +5795,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 138962,
       "name": "Photocopy Reimagined",
       "url": "https://open.spotify.com/track/4JkLzZ2LUIYEZGyihLPUMM"
@@ -7579,6 +7597,32 @@
       "duration_ms": 144230,
       "name": "Unbeliever",
       "url": "https://open.spotify.com/track/362VDvgZDpaA4kact7PU2O"
+    },
+    {
+      "album": {
+        "name": "Untitled (feat. Odumodublvck, PsychoYP)",
+        "url": "https://open.spotify.com/album/3ccI3rN8btuN5jv0Amk0Uk"
+      },
+      "artists": [
+        {
+          "name": "Ice Prince",
+          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Psycho YP",
+          "url": "https://open.spotify.com/artist/4eL65uA4fJr2CI6u3h2kaJ"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "Untitled (feat. Odumodublvck, PsychoYP)",
+      "url": "https://open.spotify.com/track/5KpWVmwVJnwI5Lnu9uDumP"
     },
     {
       "album": {

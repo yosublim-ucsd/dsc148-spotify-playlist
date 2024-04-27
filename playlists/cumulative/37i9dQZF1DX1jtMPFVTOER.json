@@ -5207,6 +5207,32 @@
     },
     {
       "album": {
+        "name": "A Family Gathering Chapter 3",
+        "url": "https://open.spotify.com/album/4yb06NKYlpsn828xBYCGnA"
+      },
+      "artists": [
+        {
+          "name": "Mark de Clive-Lowe",
+          "url": "https://open.spotify.com/artist/6K3loJxbWoXzVycXOBKh7P"
+        },
+        {
+          "name": "Paul Randolph",
+          "url": "https://open.spotify.com/artist/2YrHDeEEoToOzrGjIhETYD"
+        },
+        {
+          "name": "Bread & Souls",
+          "url": "https://open.spotify.com/artist/1t2puEAa4DiYt7U7S20SN4"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337401,
+      "name": "I See You",
+      "url": "https://open.spotify.com/track/4wZ2AxvXflNwkxfU5jLlVt"
+    },
+    {
+      "album": {
         "name": "I Want More (Telemakus Fast-Jazz Mix)",
         "url": "https://open.spotify.com/album/3XsRvmztd7YsLXGCUXm24F"
       },
@@ -5988,7 +6014,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 234057,
       "name": "Kanazawa",
       "url": "https://open.spotify.com/track/6wbGYLokhtcUBJKLqoCwHs"
@@ -7414,6 +7440,28 @@
       "duration_ms": 181793,
       "name": "Music Set Me Free",
       "url": "https://open.spotify.com/track/7enjWoXLa1hMycLBikWBJ0"
+    },
+    {
+      "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/3Ggmu1fcnkBEhCG8UHEVRG"
+      },
+      "artists": [
+        {
+          "name": "Nao Yoshioka",
+          "url": "https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08"
+        },
+        {
+          "name": "Jarreau Vandal",
+          "url": "https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168231,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/7njHcOQdmC3YVk9eIrL4dQ"
     },
     {
       "album": {
@@ -11570,7 +11618,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 248262,
       "name": "Unapologetically Me",
       "url": "https://open.spotify.com/track/0bgxUe4obsUVgjAnTCQnq3"

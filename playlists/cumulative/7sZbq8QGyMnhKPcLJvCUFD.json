@@ -5345,6 +5345,28 @@
     },
     {
       "album": {
+        "name": "Kapoeira Phonk",
+        "url": "https://open.spotify.com/album/2iOKeLLyIB2dkVqvmEZj7a"
+      },
+      "artists": [
+        {
+          "name": "HXDES",
+          "url": "https://open.spotify.com/artist/70bgV7fa5H6sTah58wm73l"
+        },
+        {
+          "name": "DYNAMIS",
+          "url": "https://open.spotify.com/artist/2Wt4l7cu2A5QctQ04QCR6S"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92897,
+      "name": "Kapoeira Phonk",
+      "url": "https://open.spotify.com/track/6Z5uARi7p14D527FvssFEl"
+    },
+    {
+      "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/4ilC8x3IxNevbhhFxxxNCu"
       },

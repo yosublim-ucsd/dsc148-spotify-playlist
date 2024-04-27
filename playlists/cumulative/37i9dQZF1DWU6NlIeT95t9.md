@@ -4,12 +4,13 @@
 
 > Meet the future\.  Cover: Annural Khalid
 
-84 songs - 4 hr 36 min
+86 songs - 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 MINUTES // SMOG CITY](https://open.spotify.com/track/2nm8qZvJwIsudW5eKS6pUB) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [2 MINUTES // SMOG CITY](https://open.spotify.com/album/7JuzIyPf3Jq2uMv7GDZRMq) | 3:53 | 2023-07-31 | 2024-02-17 |
 | [4U](https://open.spotify.com/track/5E17LNMDov8A01xUxK8Xaf) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [4U](https://open.spotify.com/album/5jCebkfAdctI7zvlgFGv9m) | 3:22 | 2023-07-31 |  |
+| [6AM IN ISLAMABAD \(feat\. Shamoon Ismail & Talhah Yunus\)](https://open.spotify.com/track/57fivvr37YILmGyJaMSkv8) | [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [ROCKSTAR WITHOUT A GUITAR](https://open.spotify.com/album/1DayIaoubhlZ9kiX2mB9So) | 3:54 | 2024-04-26 |  |
 | [Aankhon Mein Aansu](https://open.spotify.com/track/6S9wFxOlnz42LpCKIhlpJR) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Aankhon Mein Aansu](https://open.spotify.com/album/43dYT1CnZXvbA71yk1t7sn) | 3:11 | 2023-09-15 |  |
 | [Aik Wari](https://open.spotify.com/track/6ggtQbeuq1Um7z6SZkUJJf) | [HYDR](https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw), [PDNY](https://open.spotify.com/artist/2nggEHrLwzTQfv5gliPZQd) | [Aik Wari](https://open.spotify.com/album/1S9V8lyotEqXyVK0fNVOHU) | 2:40 | 2023-07-31 |  |
 | [Akhiyaan](https://open.spotify.com/track/3EywoDCSQSykcVgdKvTgAQ) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP) | [Akhiyaan](https://open.spotify.com/album/0f5MUpT8lgjtlzJehqnxPI) | 4:28 | 2023-10-05 |  |
@@ -31,6 +32,7 @@
 | [Duur Se](https://open.spotify.com/track/3vHfL9YMHlx3VL6JcbDOkm) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Amna Riaz](https://open.spotify.com/artist/0byL5ltfBQh38KuITEggNl) | [Day 5](https://open.spotify.com/album/1IOyOJS5q1mLur1y0rSoyU) | 4:04 | 2023-09-03 |  |
 | [Duur Se](https://open.spotify.com/track/7vvdeN9CX9xhNtNeiGNgOT) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Amna Riaz](https://open.spotify.com/artist/0byL5ltfBQh38KuITEggNl) | [Day 5](https://open.spotify.com/album/0i6ojSzvOTKDj9u7jgwzeg) | 4:04 | 2024-02-23 | 2024-04-19 |
 | [Faltu Pyar](https://open.spotify.com/track/1yFryDjhXXIIaJA1dKqrab) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [Faltu Pyar](https://open.spotify.com/album/5DfIEUN6BSCNEETICvOQtm) | 3:41 | 2023-07-31 |  |
+| [FELONY \(feat\. Talhah Yunus, Calm & Faris Shafi\)](https://open.spotify.com/track/6ObdA7xmpxSmDCJ7zDmMH7) | [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5), [Calm](https://open.spotify.com/artist/10qWcrbcxZeuyHHQO1hXxE), [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD) | [ROCKSTAR WITHOUT A GUITAR](https://open.spotify.com/album/1DayIaoubhlZ9kiX2mB9So) | 3:54 | 2024-04-26 |  |
 | [Filhaal](https://open.spotify.com/track/0PNU96DGl5PRswbstQgbtv) | [Towers](https://open.spotify.com/artist/3RtQy4G1wwfnhyegf4czBO) | [Filhaal](https://open.spotify.com/album/7ClbtfOcCG9bzO30ZTRgI2) | 4:15 | 2023-07-31 |  |
 | [Fursat](https://open.spotify.com/track/4ZaFMecsbjz8oaSa7pldfr) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [Nautanki](https://open.spotify.com/album/4cWRqa8lbidF3vyUdX4H9D) | 3:09 | 2023-07-31 |  |
 | [Ghuroor](https://open.spotify.com/track/7jMjMcyt3qxEkbC0s8LJQf) | [Izzchughtai](https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Ghuroor](https://open.spotify.com/album/4XcK8cuV6rHuppTwoJrEiG) | 3:18 | 2023-07-31 |  |

@@ -1,5 +1,5 @@
 {
-  "2024-04-26": 1471,
+  "2024-04-27": 1472,
   "date_first_scraped": "2023-12-14",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E\">Boi-1da</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Boi-1da",
@@ -4469,6 +4469,24 @@
       "duration_ms": 253920,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/66PijCtKX3GMQ6huKb1M0q"
+    },
+    {
+      "album": {
+        "name": "Bryson Tiller",
+        "url": "https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141827,
+      "name": "Rich Boy",
+      "url": "https://open.spotify.com/track/6TJcnosIlDjN5RBdkCphXJ"
     },
     {
       "album": {

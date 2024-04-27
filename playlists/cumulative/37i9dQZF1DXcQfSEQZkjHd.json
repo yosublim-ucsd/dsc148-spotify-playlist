@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "A Night To Remember",
+        "url": "https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        },
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233388,
+      "name": "A Night To Remember",
+      "url": "https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9"
+    },
+    {
+      "album": {
         "name": "Angel Baby",
         "url": "https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43"
       },
@@ -107,6 +129,24 @@
     },
     {
       "album": {
+        "name": "22-25",
+        "url": "https://open.spotify.com/album/5ea5WCX6IrZJaL1XVALNUX"
+      },
+      "artists": [
+        {
+          "name": "googly eyes",
+          "url": "https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80000,
+      "name": "Clean Sheets",
+      "url": "https://open.spotify.com/track/6K1EBdqdvJrTn3M87degmb"
+    },
+    {
+      "album": {
         "name": "Nymph",
         "url": "https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4"
       },
@@ -140,6 +180,24 @@
       "duration_ms": 225280,
       "name": "Crush - Unfinished",
       "url": "https://open.spotify.com/track/516daakwmX9S2aRifLUCp8"
+    },
+    {
+      "album": {
+        "name": "Drown in the Clouds of Dew",
+        "url": "https://open.spotify.com/album/0CjzK45cw0eQs2RWH6wKrg"
+      },
+      "artists": [
+        {
+          "name": "Rozie Ramati",
+          "url": "https://open.spotify.com/artist/3GzbAOojSz4h2yUjljyg3H"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92342,
+      "name": "Drown in the Clouds of Dew",
+      "url": "https://open.spotify.com/track/781GaOkr6KLBKapMSxNM2J"
     },
     {
       "album": {
@@ -183,6 +241,28 @@
     },
     {
       "album": {
+        "name": "Freaks Only",
+        "url": "https://open.spotify.com/album/7c5mde5ZcFJhWjgQwL2MxF"
+      },
+      "artists": [
+        {
+          "name": "Harvard Bass",
+          "url": "https://open.spotify.com/artist/0PpMaWbHMqUcVYcsF2O9CM"
+        },
+        {
+          "name": "Shaded",
+          "url": "https://open.spotify.com/artist/2xKTuI2Nl32OaYyDndSB3S"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300607,
+      "name": "Freaks Only - SHADED Remix",
+      "url": "https://open.spotify.com/track/4NjGRxhJEGAPTOfmuKilEZ"
+    },
+    {
+      "album": {
         "name": "Hot Flavor",
         "url": "https://open.spotify.com/album/1GqmYS5dHoMGLUp3jByxAO"
       },
@@ -198,6 +278,24 @@
       "duration_ms": 218875,
       "name": "Hot Flavor",
       "url": "https://open.spotify.com/track/1TjdChJkvO0puE4YugH6ne"
+    },
+    {
+      "album": {
+        "name": "i like the way you kiss me",
+        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
     },
     {
       "album": {
@@ -339,6 +437,24 @@
     },
     {
       "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222578,
+      "name": "My Kink Is Karma",
+      "url": "https://open.spotify.com/track/32fSZSbxeVoiZShMQKLc6Z"
+    },
+    {
+      "album": {
         "name": "Mt. Pleasant",
         "url": "https://open.spotify.com/album/0ZjTwAs6QJit4LmOs1Z8TB"
       },
@@ -430,6 +546,32 @@
       "duration_ms": 209720,
       "name": "Pink Noise",
       "url": "https://open.spotify.com/track/4VkaCwvhIEZ80FjeDXF284"
+    },
+    {
+      "album": {
+        "name": "Prada (feat. D-Block Europe) [Acoustic Version]",
+        "url": "https://open.spotify.com/album/5jhBMaW9SMEN7MidIybz9i"
+      },
+      "artists": [
+        {
+          "name": "cass\u00f6",
+          "url": "https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133937,
+      "name": "Prada (feat. D-Block Europe) - Acoustic Version",
+      "url": "https://open.spotify.com/track/2wDIMdSObZX90KXcRQPjzC"
     },
     {
       "album": {

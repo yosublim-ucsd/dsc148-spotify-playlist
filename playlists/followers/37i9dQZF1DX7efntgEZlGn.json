@@ -1,5 +1,5 @@
 {
-  "2024-04-26": 4319,
+  "2024-04-27": 4320,
   "date_first_scraped": "2022-10-01",
   "description": "Fresh Gospel tracks to make you move and bop your head in Praise",
   "name": "Trinity Connect ",
@@ -781,6 +781,32 @@
       "duration_ms": 196858,
       "name": "Lenga",
       "url": "https://open.spotify.com/track/3bEDq23F2zS6kG8SMhvA2C"
+    },
+    {
+      "album": {
+        "name": "Let it Go",
+        "url": "https://open.spotify.com/album/43kWJ1PlyR7uXyy3JlkqGJ"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        },
+        {
+          "name": "Nandy",
+          "url": "https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3"
+        },
+        {
+          "name": "ZiiBeats",
+          "url": "https://open.spotify.com/artist/1u5KBiGGlipkOJL7DQPLM4"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "Let it Go",
+      "url": "https://open.spotify.com/track/4UyG93fzwlhSfFamzpFcNd"
     },
     {
       "album": {

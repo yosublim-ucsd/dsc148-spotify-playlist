@@ -1,12 +1,12 @@
 {
-  "description": "This is Oasis. The essential tracks, all in one playlist.",
-  "num_followers": 956264,
+  "description": "This Is Oasis. Los temas esenciales, todos en una lista.",
+  "num_followers": 956364,
   "original_name": "This Is Oasis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzkxNjgwMCwwMDAwMDAwMDE1NmEyYTQyOTVkYTEzY2E2Y2JiMjgzNGNmMTNkZDhi",
+  "snapshot_id": "MTcxNDAwMzIwMCwwMDAwMDAwMGMwYmQ2NGQ3MGM3YWYxNWQ5ZGUzNTU5ZWEyYTAzOTI5",
   "tracks": [
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Definitely Maybe",
-        "url": "https://open.spotify.com/album/3LzKUdUTdJb6P7xGN6SotC"
+        "name": "Definitely Maybe (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 192546,
-      "name": "Married With Children",
-      "url": "https://open.spotify.com/track/0oemhAQXaaIHCEARF9JFGg"
+      "duration_ms": 283786,
+      "name": "Supersonic - Remastered",
+      "url": "https://open.spotify.com/track/4jJfa4mO5JjV9Tz2aAxE2M"
     },
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Definitely Maybe (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
+        "name": "Definitely Maybe",
+        "url": "https://open.spotify.com/album/3LzKUdUTdJb6P7xGN6SotC"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 289146,
-      "name": "Cigarettes & Alcohol - Remastered",
-      "url": "https://open.spotify.com/track/5adjc9rGazKvYcyEHNtoz1"
+      "duration_ms": 192546,
+      "name": "Married With Children",
+      "url": "https://open.spotify.com/track/0oemhAQXaaIHCEARF9JFGg"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dig Out Your Soul",
-        "url": "https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15"
+        "name": "The Masterplan",
+        "url": "https://open.spotify.com/album/15D0D1mafSX8Vx5a7w2ZR4"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 250013,
-      "name": "I'm Outta Time",
-      "url": "https://open.spotify.com/track/4aSd0vbnxF53nvAdzpLYXQ"
+      "duration_ms": 322640,
+      "name": "The Masterplan",
+      "url": "https://open.spotify.com/track/0g1Y10aIIdJDkcSEuAq51k"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 382266,
-      "name": "Whatever - Remastered",
-      "url": "https://open.spotify.com/track/5OWsea313ovaQoXvsgWq79"
+      "duration_ms": 289146,
+      "name": "Cigarettes & Alcohol - Remastered",
+      "url": "https://open.spotify.com/track/5adjc9rGazKvYcyEHNtoz1"
     },
     {
       "added_at": null,
@@ -299,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dig Out Your Soul",
+        "url": "https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 250013,
+      "name": "I'm Outta Time",
+      "url": "https://open.spotify.com/track/4aSd0vbnxF53nvAdzpLYXQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heathen Chemistry",
         "url": "https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O"
       },
@@ -315,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Standing On The Shoulder Of Giants",
-        "url": "https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 198533,
-      "name": "Fuckin' in the Bushes",
-      "url": "https://open.spotify.com/track/1EB8LB1Hu5T4C8Zk9z1Ckh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Definitely Maybe (Deluxe Edition Remastered)",
         "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
       },
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 322946,
-      "name": "Rock 'n' Roll Star - Remastered",
-      "url": "https://open.spotify.com/track/4bQHPFjRT6O1KdMCd4cD9u"
+      "duration_ms": 382266,
+      "name": "Whatever - Remastered",
+      "url": "https://open.spotify.com/track/5OWsea313ovaQoXvsgWq79"
     },
     {
       "added_at": null,
@@ -363,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Standing On The Shoulder Of Giants",
+        "url": "https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 198533,
+      "name": "Fuckin' in the Bushes",
+      "url": "https://open.spotify.com/track/1EB8LB1Hu5T4C8Zk9z1Ckh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don't Believe The Truth",
         "url": "https://open.spotify.com/album/18ACIuiPrMJMkRPtNL9G7h"
       },
@@ -375,6 +391,22 @@
       "duration_ms": 310440,
       "name": "Lyla",
       "url": "https://open.spotify.com/track/1XYLtiNehOF8D5NmlQknpI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Definitely Maybe (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 392306,
+      "name": "Slide Away - Remastered",
+      "url": "https://open.spotify.com/track/1AvavliFQoc2l0ZCCWa5VG"
     },
     {
       "added_at": null,
@@ -427,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Definitely Maybe (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 377400,
-      "name": "Columbia - Remastered",
-      "url": "https://open.spotify.com/track/20EkniSUbhZ86v1Oc0hhUI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dig Out Your Soul",
         "url": "https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15"
       },
@@ -459,38 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Standing On The Shoulder Of Giants",
-        "url": "https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 312680,
-      "name": "Sunday Morning Call",
-      "url": "https://open.spotify.com/track/6foXkrv79wyo9RMfZIMB6z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Be Here Now (Deluxe Remastered Edition)",
-        "url": "https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 463066,
-      "name": "D'You Know What I Mean? - Remastered",
-      "url": "https://open.spotify.com/track/4yWTh6qETpN1Vlfg5LBHEV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Masterplan",
         "url": "https://open.spotify.com/album/15D0D1mafSX8Vx5a7w2ZR4"
       },
@@ -503,22 +487,6 @@
       "duration_ms": 381173,
       "name": "Listen Up",
       "url": "https://open.spotify.com/track/7IN0xNq5UxvsJXTqZ3rdSE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dig Out Your Soul",
-        "url": "https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 260079,
-      "name": "Falling Down",
-      "url": "https://open.spotify.com/track/7Do5xcVXgjNEbXzYUSrPvg"
     },
     {
       "added_at": null,
@@ -548,9 +516,25 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 262400,
-      "name": "I Hope, I Think, I Know - Remastered",
-      "url": "https://open.spotify.com/track/5g4IouEbo38FZi8M1Ga4ey"
+      "duration_ms": 463066,
+      "name": "D'You Know What I Mean? - Remastered",
+      "url": "https://open.spotify.com/track/4yWTh6qETpN1Vlfg5LBHEV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dig Out Your Soul",
+        "url": "https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 260079,
+      "name": "Falling Down",
+      "url": "https://open.spotify.com/track/7Do5xcVXgjNEbXzYUSrPvg"
     },
     {
       "added_at": null,
@@ -571,6 +555,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Standing On The Shoulder Of Giants",
+        "url": "https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 368253,
+      "name": "Gas Panic!",
+      "url": "https://open.spotify.com/track/2klLrvEu0OroEWsJWeafWp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Be Here Now (Deluxe Remastered Edition)",
+        "url": "https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 262400,
+      "name": "I Hope, I Think, I Know - Remastered",
+      "url": "https://open.spotify.com/track/5g4IouEbo38FZi8M1Ga4ey"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don't Believe The Truth",
         "url": "https://open.spotify.com/album/18ACIuiPrMJMkRPtNL9G7h"
       },
@@ -583,6 +599,22 @@
       "duration_ms": 239240,
       "name": "Turn Up The Sun",
       "url": "https://open.spotify.com/track/3TYfwCR3kT7ijbiGTGc5kM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "D'You Know What I Mean?",
+        "url": "https://open.spotify.com/album/0GiKjeftaw3HccbDaA1Ryk"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 249226,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/1FSURsZPnG8CkfTvmO8ssK"
     },
     {
       "added_at": null,
@@ -615,22 +647,6 @@
       "duration_ms": 307333,
       "name": "Stay Young - Remastered",
       "url": "https://open.spotify.com/track/41nttXLEzPouvKuXRbjDyq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "D'You Know What I Mean?",
-        "url": "https://open.spotify.com/album/0GiKjeftaw3HccbDaA1Ryk"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 249226,
-      "name": "Heroes",
-      "url": "https://open.spotify.com/track/1FSURsZPnG8CkfTvmO8ssK"
     },
     {
       "added_at": null,

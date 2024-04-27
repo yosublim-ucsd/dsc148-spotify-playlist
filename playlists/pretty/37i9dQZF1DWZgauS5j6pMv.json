@@ -1,13 +1,81 @@
 {
   "description": "The best of today's funk. Cover: Nikka Costa\n",
-  "num_followers": 319863,
+  "num_followers": 319877,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ5OTI2MCwwMDAwMDAwMDZhMTQxY2E5M2ZlMGRhYzM5YWUyODQwZTBlMThkYjIz",
+  "snapshot_id": "MTcxNDEwNDA2MCwwMDAwMDAwMGRlN2QyNDZlOGU3MGJhMjIwOTQ2NDMwYmQ0ZTE2ODk3",
   "tracks": [
+    {
+      "added_at": "2024-04-26 04:01:00",
+      "album": {
+        "name": "Queen",
+        "url": "https://open.spotify.com/album/3XR8FN0cFnpi1A8wUKjirn"
+      },
+      "artists": [
+        {
+          "name": "Gramatik",
+          "url": "https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5"
+        },
+        {
+          "name": "Eric Krasno",
+          "url": "https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k"
+        },
+        {
+          "name": "Nigel Hall",
+          "url": "https://open.spotify.com/artist/04HwdlOSZ8Rnmp4D3vyjI2"
+        }
+      ],
+      "duration_ms": 282315,
+      "name": "Queen",
+      "url": "https://open.spotify.com/track/0t6qpXXwi9Mev4m2DaYr0D"
+    },
+    {
+      "added_at": "2024-04-26 04:01:00",
+      "album": {
+        "name": "Tides (Jean Tonique Remix)",
+        "url": "https://open.spotify.com/album/6iB6j9WbxZ3e3Ooht1fteY"
+      },
+      "artists": [
+        {
+          "name": "3kelves",
+          "url": "https://open.spotify.com/artist/4lmkcVpiNTAilHY9AGjKJH"
+        },
+        {
+          "name": "Jean Tonique",
+          "url": "https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI"
+        }
+      ],
+      "duration_ms": 181986,
+      "name": "Tides - Jean Tonique Remix",
+      "url": "https://open.spotify.com/track/7G7Ugg03M2X0lKvQp4uGl0"
+    },
+    {
+      "added_at": "2024-04-26 04:01:00",
+      "album": {
+        "name": "It Feels Good To Write A Song",
+        "url": "https://open.spotify.com/album/6Tn91A0aDiM5tHmgEG4Nai"
+      },
+      "artists": [
+        {
+          "name": "Vulfmon",
+          "url": "https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW"
+        },
+        {
+          "name": "Jacob Jeffries",
+          "url": "https://open.spotify.com/artist/2s4evfvMB1HbNMGak6pDUB"
+        },
+        {
+          "name": "Antwaun Stanley",
+          "url": "https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN"
+        }
+      ],
+      "duration_ms": 178145,
+      "name": "It Feels Good To Write A Song",
+      "url": "https://open.spotify.com/track/467adj5oe7iFD39MbA0VV6"
+    },
     {
       "added_at": "2024-04-19 04:01:00",
       "album": {
@@ -673,22 +741,6 @@
       "url": "https://open.spotify.com/track/4OwL0G99x5mBHZktaX6OF5"
     },
     {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
-        "name": "Good Love",
-        "url": "https://open.spotify.com/album/0NNE3o9iAtAsHYbxxmME78"
-      },
-      "artists": [
-        {
-          "name": "Gramatik",
-          "url": "https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5"
-        }
-      ],
-      "duration_ms": 289514,
-      "name": "Good Love",
-      "url": "https://open.spotify.com/track/65zNYzgkRthLtLVTVhLz4P"
-    },
-    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "(I Wanted) Summer With You",
@@ -819,22 +871,6 @@
       "duration_ms": 204174,
       "name": "New Guru",
       "url": "https://open.spotify.com/track/7MV4NBFotO3y7Bpo9S6I2Y"
-    },
-    {
-      "added_at": "2023-02-17 05:01:00",
-      "album": {
-        "name": "Real Good",
-        "url": "https://open.spotify.com/album/4ohTe605nVMKNPeDZfxihB"
-      },
-      "artists": [
-        {
-          "name": "Outasight",
-          "url": "https://open.spotify.com/artist/1zuG3w1Zgeou53fb3Vu3bO"
-        }
-      ],
-      "duration_ms": 199669,
-      "name": "Real Good",
-      "url": "https://open.spotify.com/track/1g8a0OQ17VNbBQ518OFiVu"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -1183,30 +1219,6 @@
       "duration_ms": 233056,
       "name": "Look At Me",
       "url": "https://open.spotify.com/track/3MmyrLEMNBwGicrY8x7jTs"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Vulfnik",
-        "url": "https://open.spotify.com/album/5j70jrJlMUJq2vDcJHf2zU"
-      },
-      "artists": [
-        {
-          "name": "Vulfmon",
-          "url": "https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW"
-        },
-        {
-          "name": "Jacob Jeffries",
-          "url": "https://open.spotify.com/artist/2s4evfvMB1HbNMGak6pDUB"
-        },
-        {
-          "name": "ellis",
-          "url": "https://open.spotify.com/artist/00CYRdkMnA0mwfy1VQPA7X"
-        }
-      ],
-      "duration_ms": 257704,
-      "name": "How Much Do You Love Me",
-      "url": "https://open.spotify.com/track/5GpJ5L1VcqC3njxdZVCmIT"
     },
     {
       "added_at": "2023-12-08 05:01:00",

@@ -1,6 +1,6 @@
 {
   "description": "Diese Songs zaubern dir ein Grinsen ins Gesicht.",
-  "num_followers": 585020,
+  "num_followers": 585015,
   "original_name": "Feelgood Indie",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,26 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
+        "name": "Hole Digger",
+        "url": "https://open.spotify.com/album/0A6bncjAHwmgyeHkmlzvWb"
+      },
+      "artists": [
+        {
+          "name": "Camel Power Club",
+          "url": "https://open.spotify.com/artist/2ziSUHAT6LbHKCJIlwHhDG"
+        },
+        {
+          "name": "Desingly",
+          "url": "https://open.spotify.com/artist/7e75N4iueWn6bCBMR74oWd"
+        }
+      ],
+      "duration_ms": 185076,
+      "name": "Hole Digger",
+      "url": "https://open.spotify.com/track/3UCg61B7K1MYvxhIrR83jf"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
         "name": "Proportions",
         "url": "https://open.spotify.com/album/6lbvRJMvyz5s8iddP3KJLR"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 155000,
       "name": "Mister Burns",
       "url": "https://open.spotify.com/track/3KOk4G26hi8f8kOJF3iZTa"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
-        "name": "Hole Digger",
-        "url": "https://open.spotify.com/album/0A6bncjAHwmgyeHkmlzvWb"
-      },
-      "artists": [
-        {
-          "name": "Camel Power Club",
-          "url": "https://open.spotify.com/artist/2ziSUHAT6LbHKCJIlwHhDG"
-        },
-        {
-          "name": "Desingly",
-          "url": "https://open.spotify.com/artist/7e75N4iueWn6bCBMR74oWd"
-        }
-      ],
-      "duration_ms": 185076,
-      "name": "Hole Digger",
-      "url": "https://open.spotify.com/track/3UCg61B7K1MYvxhIrR83jf"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "All This Noise",
-        "url": "https://open.spotify.com/album/1s352S6claWIYeJ0bvwyrq"
-      },
-      "artists": [
-        {
-          "name": "Small Fires",
-          "url": "https://open.spotify.com/artist/6lcQgSJvV3dxRev56wMrbc"
-        }
-      ],
-      "duration_ms": 223400,
-      "name": "Non-Breakable Space",
-      "url": "https://open.spotify.com/track/47YQlBQsQv1CfHi1E1Lnq8"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
         "name": "make you feel",
         "url": "https://open.spotify.com/album/33uld99180XHljxAhQiPNs"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 210719,
       "name": "make you feel",
       "url": "https://open.spotify.com/track/7tltcvB3SJcvxq7VCMMmp4"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
+        "name": "All This Noise",
+        "url": "https://open.spotify.com/album/1s352S6claWIYeJ0bvwyrq"
+      },
+      "artists": [
+        {
+          "name": "Small Fires",
+          "url": "https://open.spotify.com/artist/6lcQgSJvV3dxRev56wMrbc"
+        }
+      ],
+      "duration_ms": 223400,
+      "name": "Non-Breakable Space",
+      "url": "https://open.spotify.com/track/47YQlBQsQv1CfHi1E1Lnq8"
     },
     {
       "added_at": "2024-03-28 23:00:00",

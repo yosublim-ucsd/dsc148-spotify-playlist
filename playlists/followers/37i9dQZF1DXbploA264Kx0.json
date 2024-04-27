@@ -1,7 +1,7 @@
 {
-  "2024-04-26": 24785,
+  "2024-04-27": 24789,
   "date_first_scraped": "2024-01-30",
-  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: KIRE",
+  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: I Mean Us",
   "name": "The Sound of Formosa",
   "tracks": [
     {
@@ -241,7 +241,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 185669,
       "name": "andale",
       "url": "https://open.spotify.com/track/6knkWNw6xJA1AMKqtMBd29"
@@ -371,7 +371,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 174863,
       "name": "Can You Fix It",
       "url": "https://open.spotify.com/track/6C7tnzMVfOPgxPhjigd3kf"
@@ -447,7 +447,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 145538,
       "name": "Confessions Of A Baddie",
       "url": "https://open.spotify.com/track/7FqczlIA6btUkcAjBisZ4Q"
@@ -483,7 +483,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 245299,
       "name": "Cult Film Club",
       "url": "https://open.spotify.com/track/13LmtdvULXYBy9q6fYthvt"
@@ -784,6 +784,50 @@
     },
     {
       "album": {
+        "name": "Goodbye Spring",
+        "url": "https://open.spotify.com/album/7oBhre4zLIAKMhGu29rPDK"
+      },
+      "artists": [
+        {
+          "name": "Lee Jin Ah",
+          "url": "https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM"
+        },
+        {
+          "name": "Shi Shi",
+          "url": "https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218973,
+      "name": "Goodbye Spring",
+      "url": "https://open.spotify.com/track/19E1CDouZUhkPWgQYApi1g"
+    },
+    {
+      "album": {
+        "name": "HANSEL AND GRETEL",
+        "url": "https://open.spotify.com/album/3QoHlrglPtVHUcqJnr51mI"
+      },
+      "artists": [
+        {
+          "name": "TELEx TELEXs",
+          "url": "https://open.spotify.com/artist/1BHYRsFqV0ON7RUFM9qF2Q"
+        },
+        {
+          "name": "Hormone Boys",
+          "url": "https://open.spotify.com/artist/7MR5iqnOtuXv9RMMMQbOIl"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255510,
+      "name": "HANSEL AND GRETEL",
+      "url": "https://open.spotify.com/track/0Ixs4wUwlHockq5iO3zrLn"
+    },
+    {
+      "album": {
         "name": "The Great Escape Of Our Time",
         "url": "https://open.spotify.com/album/74K79LQUF1axz9ZXbBTojZ"
       },
@@ -802,6 +846,32 @@
     },
     {
       "album": {
+        "name": "hummingbird",
+        "url": "https://open.spotify.com/album/0SFZsFs5Z2duPK4j6zurEZ"
+      },
+      "artists": [
+        {
+          "name": "I Mean Us",
+          "url": "https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78"
+        },
+        {
+          "name": "Kyung Min Jang",
+          "url": "https://open.spotify.com/artist/4dRgywuc27oWwtjOAV7YuP"
+        },
+        {
+          "name": "Lacuna",
+          "url": "https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218613,
+      "name": "hummingbird",
+      "url": "https://open.spotify.com/track/6LhXMXpIFb1cxvhBmHa4kB"
+    },
+    {
+      "album": {
         "name": "HUNG UP",
         "url": "https://open.spotify.com/album/7A5qcUPr93rD3kqu3s3X04"
       },
@@ -817,7 +887,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 195187,
       "name": "HUNG UP",
       "url": "https://open.spotify.com/track/1R2Sq0FGXh7J27Pe4u0Viv"
@@ -875,6 +945,24 @@
       "duration_ms": 205945,
       "name": "I'm Lost",
       "url": "https://open.spotify.com/track/09aC6XZ5JMPpTnrRovseFJ"
+    },
+    {
+      "album": {
+        "name": "ICE AND FIRE (\u300c\u51b0\u7bb1\u6253\u5f00\u65f6\u300d\u97f3\u4e50\u7279\u522b\u4f01\u5212)",
+        "url": "https://open.spotify.com/album/5JFVly1VtCSgvgeceRLjd0"
+      },
+      "artists": [
+        {
+          "name": "\u00d8ZI",
+          "url": "https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143283,
+      "name": "ICE AND FIRE - \u300c\u51b0\u7bb1\u6253\u5f00\u65f6\u300d\u97f3\u4e50\u7279\u522b\u4f01\u5212",
+      "url": "https://open.spotify.com/track/1P5Ty8Lugfcfj7WwITjWvg"
     },
     {
       "album": {
@@ -951,6 +1039,48 @@
       "duration_ms": 208052,
       "name": "Innocent",
       "url": "https://open.spotify.com/track/7jIH2PZdZwPN09sPZ8Zxj6"
+    },
+    {
+      "album": {
+        "name": "\u7c89\u5167\u5b87\u5b99 Fi-N\u00e9 Universe_ Vol.1",
+        "url": "https://open.spotify.com/album/1IeDRLl8IFC65wbnCKVPkQ"
+      },
+      "artists": [
+        {
+          "name": "Fi-N\u00e9 \u7c89\u5167",
+          "url": "https://open.spotify.com/artist/6WcKBIz81gaWyTuoGtnTlQ"
+        },
+        {
+          "name": "L8ching",
+          "url": "https://open.spotify.com/artist/3vkcJL0rXaCK63ef9gMzbf"
+        },
+        {
+          "name": "DJ SON666",
+          "url": "https://open.spotify.com/artist/5cgN93xzHu4TYOKq0chcP2"
+        },
+        {
+          "name": "Sujong Park",
+          "url": "https://open.spotify.com/artist/7lxC2YvOYoePgIkaFMlaBb"
+        },
+        {
+          "name": "Your Friend Sunny",
+          "url": "https://open.spotify.com/artist/7nmpeOQuGNu30b9EyX7xKZ"
+        },
+        {
+          "name": "OC",
+          "url": "https://open.spotify.com/artist/7mzNio1YNo7PAZhEZkDyEI"
+        },
+        {
+          "name": "\u8cf4\u74e6\u65e6",
+          "url": "https://open.spotify.com/artist/6EaKa9EZ66hbW7n6um8C5b"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284758,
+      "name": "Just Touch Me - Live Session",
+      "url": "https://open.spotify.com/track/67X9AeY2c91iYQChCJi7zh"
     },
     {
       "album": {
@@ -1386,6 +1516,32 @@
     },
     {
       "album": {
+        "name": "Outlaws",
+        "url": "https://open.spotify.com/album/5NAwVpApHpQJ2oNGy7TDtV"
+      },
+      "artists": [
+        {
+          "name": "Lockdown",
+          "url": "https://open.spotify.com/artist/11ESC6KI0jpdML0CijeROt"
+        },
+        {
+          "name": "DJ Junior (TW)",
+          "url": "https://open.spotify.com/artist/5guBrcv1BxjlJdKlW8MNyh"
+        },
+        {
+          "name": "Maikki",
+          "url": "https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166600,
+      "name": "Outlaws",
+      "url": "https://open.spotify.com/track/7DDagCsWCjgoTGF19hmZ2A"
+    },
+    {
+      "album": {
         "name": "Paradise (\u96fb\u5f71\u300a\u6211\u7684\u5929\u5802\u57ce\u5e02\u300b\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/6SYatLOX94QtaZtiCVjseA"
       },
@@ -1419,7 +1575,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 267986,
       "name": "Pretense",
       "url": "https://open.spotify.com/track/1iGilBtLO9t5Wm6hs4I7pj"

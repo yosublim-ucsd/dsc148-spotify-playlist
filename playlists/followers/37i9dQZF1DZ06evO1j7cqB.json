@@ -1,5 +1,5 @@
 {
-  "2024-04-26": 9351,
+  "2024-04-27": 9353,
   "date_first_scraped": "2022-12-02",
   "description": "This Is Bear McCreary. Los temas esenciales, todos en una lista.",
   "name": "This Is Bear McCreary",
@@ -471,7 +471,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 86546,
       "name": "Foundation Main Title",
       "url": "https://open.spotify.com/track/61oU2dZYvjGXhQtMXlgTau"
@@ -1237,6 +1237,32 @@
       "duration_ms": 141720,
       "name": "The Echo and the River",
       "url": "https://open.spotify.com/track/44s77gJbPi0QizWRLJDhz8"
+    },
+    {
+      "album": {
+        "name": "The End of Tomorrow",
+        "url": "https://open.spotify.com/album/5OUmTuhqQCnnp0P2uUWBro"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Slash",
+          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
+        },
+        {
+          "name": "Brendan McCreary",
+          "url": "https://open.spotify.com/artist/7gfnIXQlp4f6VRiTbhksAD"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 649958,
+      "name": "The End of Tomorrow",
+      "url": "https://open.spotify.com/track/29aapjfnEERwyaAVuxWQ96"
     },
     {
       "album": {

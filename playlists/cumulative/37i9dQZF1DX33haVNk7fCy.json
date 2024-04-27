@@ -2369,6 +2369,36 @@
     },
     {
       "album": {
+        "name": "Amar Singh Chamkila",
+        "url": "https://open.spotify.com/album/3XBoJ6awI7H0aRvMWDszp3"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270217,
+      "name": "Vida Karo",
+      "url": "https://open.spotify.com/track/60nxFG3LCviPvdTX5JU2iB"
+    },
+    {
+      "album": {
         "name": "Waqt Ki Baatein",
         "url": "https://open.spotify.com/album/35pKiC2zx1UzIgZgN48ZkO"
       },

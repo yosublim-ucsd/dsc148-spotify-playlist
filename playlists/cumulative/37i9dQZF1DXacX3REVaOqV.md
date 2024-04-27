@@ -4,7 +4,7 @@
 
 > The best in house music
 
-429 songs - 1 day 5 hr 40 min
+430 songs - 1 day 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Beginners](https://open.spotify.com/track/0j57BWxNCZ20D7Gsy4dPSB) | [Alinka](https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls) | [Power Of Today EP](https://open.spotify.com/album/7EuAisoRLrG0b9XRKm5DvG) | 6:13 | 2023-02-16 | 2023-03-19 |
 | [Benin](https://open.spotify.com/track/3lnPWI5DH48A0Fg06uxuAS) | [Elliot Fitch](https://open.spotify.com/artist/2KgR6IARKVVczX7fhfDDrB) | [Benin](https://open.spotify.com/album/2PdS8G60pkQEaAwr7LeAbK) | 2:58 | 2022-11-10 |  |
 | [Better \(feat\. Jena\)](https://open.spotify.com/track/1lvgae0nTxj1ZPl4VfO9gv) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Jena](https://open.spotify.com/artist/5C4eCUR6V0Kbdn8g0y390j) | [Better \(feat\. Jena\)](https://open.spotify.com/album/2qVbAXSd8LPX9MU1nsVC4i) | 2:52 | 2023-06-08 |  |
-| [Better Take That](https://open.spotify.com/track/6x4lOp1oRmtfFgQIIw2ipY) | [Block & Crown](https://open.spotify.com/artist/5jO3o2nsu0GTQBc8Lgcna7), [Sean Finn](https://open.spotify.com/artist/5xUacP1mVGfiY7Zr9RskmS) | [Better Take That](https://open.spotify.com/album/0Uva7Ssbo70ZuIMsA9r8ba) | 2:55 | 2023-09-21 |  |
+| [Better Take That](https://open.spotify.com/track/6x4lOp1oRmtfFgQIIw2ipY) | [Block & Crown](https://open.spotify.com/artist/5jO3o2nsu0GTQBc8Lgcna7), [Sean Finn](https://open.spotify.com/artist/5xUacP1mVGfiY7Zr9RskmS) | [Better Take That](https://open.spotify.com/album/0Uva7Ssbo70ZuIMsA9r8ba) | 2:55 | 2023-09-21 | 2024-04-27 |
 | [Better World](https://open.spotify.com/track/6OcuhfJvy3rZZIaLeDxlcW) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Chris Moody](https://open.spotify.com/artist/1wIiZwCIGDvM3YfYqo33Ui) | [Better World](https://open.spotify.com/album/18ytwDEGWlQ7siXzpTi9Rh) | 3:06 | 2024-02-29 |  |
 | [Body \- Gregor Salto Remix](https://open.spotify.com/track/6HJBwWb1wB1luXYqRifGXc) | [mokina](https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew) | [Body \(Gregor Salto Remix\)](https://open.spotify.com/album/4FrMzKdZ0B5hWS3gcEg21q) | 4:17 | 2024-03-14 | 2024-04-10 |
 | [Body Music](https://open.spotify.com/track/5uGYA6fEITkT1Qkwp2Dt8c) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP) | [Body Music](https://open.spotify.com/album/0dwu6ECzvwPVCSSl8g8f6S) | 3:42 | 2024-04-09 |  |
@@ -131,6 +131,7 @@
 | [Freedom \(You Bring Me\)](https://open.spotify.com/track/2I0EV5B4RgDQPcSuDGzz2N) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Freedom \(You Bring Me\)](https://open.spotify.com/album/0qOobOFo9xvOSFRd4pAxZP) | 3:08 | 2022-04-14 | 2024-03-21 |
 | [Freeze \- John Summit Remix](https://open.spotify.com/track/6N1UWEnnka2kl5g39UnoqI) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Freeze \(John Summit Remix\)](https://open.spotify.com/album/1y9vtFEaefqwQUioWsaOsw) | 3:12 | 2022-07-14 | 2024-02-08 |
 | [Fresh \- House of Prayers Poolside Edit](https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01) | [Crazibiza](https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1), [House of Prayers](https://open.spotify.com/artist/6UZpnBnk8Ubc6fflLAb6qg) | [Fresh](https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV) | 4:44 | 2023-07-20 | 2024-03-01 |
+| [Friendly Pressure \- Into The Sunshine Edit](https://open.spotify.com/track/2u1KZIchGsTN0Beas9mlaU) | [Jhelisa](https://open.spotify.com/artist/5Cku4OBzfFNMx4tdgDgFNA), [Sunship](https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau) | [Friendly Pressure \(Sunship Remixes\)](https://open.spotify.com/album/6RPDt4qkk82lw4JMPTIJsl) | 3:49 | 2024-04-26 |  |
 | [Friends](https://open.spotify.com/track/1IbNYr8ByXsgwGbmOxLBXP) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Friends](https://open.spotify.com/album/4THASIy2X16riMpZINnTTz) | 9:07 | 2022-07-28 | 2022-09-16 |
 | [FWD \(feat\. Rudimental & House Gospel Choir\)](https://open.spotify.com/track/5R0MkQyiFDPxOek0AmZJt8) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [FWD \(feat\. Rudimental & House Gospel Choir\)](https://open.spotify.com/album/2vRGCL4wSoBAWUkuI8KPfj) | 3:01 | 2023-01-27 |  |
 | [Gently](https://open.spotify.com/track/5AvukMTsiC7b12MJW2wXwE) | [Rooléh](https://open.spotify.com/artist/7zCwvjLktz2o5LFYvTquJu) | [Gently](https://open.spotify.com/album/0B2JXdbYYbnwQcSCLfceX7) | 6:16 | 2022-04-20 | 2022-07-29 |

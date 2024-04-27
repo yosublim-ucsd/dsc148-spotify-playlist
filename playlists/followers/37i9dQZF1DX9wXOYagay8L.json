@@ -1,7 +1,7 @@
 {
-  "2024-04-26": 140060,
+  "2024-04-27": 140152,
   "date_first_scraped": "2021-12-29",
-  "description": "Proudly South African Afropop gems. Cover: <a href=\"https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI?si=9FQZqrCVRby-kTUgFQTi2Q\">Mlindo The Vocalist</a>",
+  "description": "Proudly South African Afropop gems. Cover: <a href=\"https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI?si=9FQZqrCVRby-kTUgFQTi2Q\">Sjava</a>",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -508,6 +508,24 @@
     },
     {
       "album": {
+        "name": "Amaqatha Amancane",
+        "url": "https://open.spotify.com/album/4hsxCzsRFIhmFyCu4lvHrB"
+      },
+      "artists": [
+        {
+          "name": "The Joy",
+          "url": "https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97733,
+      "name": "Amaqatha Amancane",
+      "url": "https://open.spotify.com/track/60VjGvGReNEvFixZjzkAnI"
+    },
+    {
+      "album": {
         "name": "Amatshe",
         "url": "https://open.spotify.com/album/7dZRGOyNhIeX80lTE2nlTg"
       },
@@ -995,6 +1013,28 @@
       "duration_ms": 265450,
       "name": "Baningi",
       "url": "https://open.spotify.com/track/5byAvC8hytkJlo4TXnds0J"
+    },
+    {
+      "album": {
+        "name": "Bathembe Kimi",
+        "url": "https://open.spotify.com/album/3Xuym2ihpPudKp0ieg6sp9"
+      },
+      "artists": [
+        {
+          "name": "Philisiwe Ntintili",
+          "url": "https://open.spotify.com/artist/1lTnVO0bKFKuWb9ddFmai9"
+        },
+        {
+          "name": "Luthando Madikizela",
+          "url": "https://open.spotify.com/artist/0VwMRuqDcYaYyYcbr2vsN0"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225384,
+      "name": "Bathembe Kimi",
+      "url": "https://open.spotify.com/track/67YiD0DwpHjWAzqHKWzsAi"
     },
     {
       "album": {
@@ -3461,6 +3501,28 @@
       "duration_ms": 307278,
       "name": "Inhliziyo",
       "url": "https://open.spotify.com/track/4MU9Zpx9xu9D8zJBCYUqPF"
+    },
+    {
+      "album": {
+        "name": "Injabulo",
+        "url": "https://open.spotify.com/album/3jArj5VzOqu4Tm1WEVqH5o"
+      },
+      "artists": [
+        {
+          "name": "Encore",
+          "url": "https://open.spotify.com/artist/1kCZYNopmaKU5vnTHMm6Si"
+        },
+        {
+          "name": "Nhlanhla Mafu",
+          "url": "https://open.spotify.com/artist/7IJBjrsSgku5OGtLAEnq0t"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200273,
+      "name": "Injabulo",
+      "url": "https://open.spotify.com/track/7EcLhB5DhZcIR8YXXVOGke"
     },
     {
       "album": {
@@ -6679,6 +6741,24 @@
       "duration_ms": 236000,
       "name": "Ngibambe",
       "url": "https://open.spotify.com/track/0UMJY8DztWbb0xolqiTGGD"
+    },
+    {
+      "album": {
+        "name": "Ngibongiseni",
+        "url": "https://open.spotify.com/album/1ilhz6oSQGPBZjepOGvr72"
+      },
+      "artists": [
+        {
+          "name": "Sjava",
+          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Ngibongiseni",
+      "url": "https://open.spotify.com/track/1uJ9tdJnrJcTf6ormmHvPU"
     },
     {
       "album": {
@@ -10827,6 +10907,32 @@
       "duration_ms": 224417,
       "name": "Usisthandwa Sami (feat. Cnethemba Gonelo)",
       "url": "https://open.spotify.com/track/48dRoLcBWnagYHROIK7Ehe"
+    },
+    {
+      "album": {
+        "name": "UThando",
+        "url": "https://open.spotify.com/album/1dWtPlN3jo8cuVLw13CWvl"
+      },
+      "artists": [
+        {
+          "name": "Soul Kulture",
+          "url": "https://open.spotify.com/artist/1LZkUMy70sBaxwNWLr22ah"
+        },
+        {
+          "name": "UManamathela",
+          "url": "https://open.spotify.com/artist/7qgiPTbqwr5avpxs8HpX1z"
+        },
+        {
+          "name": "Msesh",
+          "url": "https://open.spotify.com/artist/7bpRB0dBPQWbtVypLc5BS9"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251611,
+      "name": "UThando",
+      "url": "https://open.spotify.com/track/42p0qkwmfv4YfP6QO6wP5f"
     },
     {
       "album": {

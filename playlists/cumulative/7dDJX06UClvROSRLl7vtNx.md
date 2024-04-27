@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-317 songs - 13 hr 56 min
+318 songs - 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Horizon \(So Blue\)](https://open.spotify.com/track/4q4IwjuMCZ5g9e9LwH9P3J) | [Abraham Colona](https://open.spotify.com/artist/1SC74Ya2mEkFoUzpr8hIev), [David Emde](https://open.spotify.com/artist/5RJZfbpmq3aRaRBYP1Q89D) | [Horizon \(So Blue\)](https://open.spotify.com/album/3So42AUVeG31u5L8IN1HvE) | 2:15 | 2024-01-27 |  |
 | [House Of Cards](https://open.spotify.com/track/6dCF9KJngOrJCmMuxFmBx1) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Dan Caplen](https://open.spotify.com/artist/2U3FuHYvL3vhkbDAXm24Ep) | [House Of Cards](https://open.spotify.com/album/6ru1h6aqej9yk3r4gJzwMH) | 2:36 | 2023-11-05 |  |
 | [How Deep Is Your Love](https://open.spotify.com/track/7l8ZciJEkbSpmL4jaKv4k9) | [Cale](https://open.spotify.com/artist/4pE5amRArtmThtna3eGERQ), [Madishu](https://open.spotify.com/artist/3tQg7VPp1T879q1AE4yIM2) | [How Deep Is Your Love](https://open.spotify.com/album/58llHvcuLwyZdMjRXC1af6) | 1:52 | 2024-02-04 | 2024-03-11 |
+| [Hurts So Good](https://open.spotify.com/track/4jF0w3rpoQki2asXn2N2Aa) | [FIXL](https://open.spotify.com/artist/0Kxf9SzJfQfE0o80i5N3Li), [M2chael](https://open.spotify.com/artist/2ciGImEu29l0qk6LCRjg5G) | [Hurts So Good](https://open.spotify.com/album/3vzt9rAvpW3OIg3JupTJ2J) | 2:05 | 2024-04-26 |  |
 | [I Apologize](https://open.spotify.com/track/08fzPg0SVkkyOGFLL4D5IC) | [blue my mind](https://open.spotify.com/artist/6D1wjtA3nKandBjo3erjkJ), [Adeema](https://open.spotify.com/artist/73MgVKcfdjq58j9TPNI0QY), [XYSM](https://open.spotify.com/artist/1LgEmkIWxBhh25V06pRGl2) | [I Apologize](https://open.spotify.com/album/1rQXCRCDEbcw5xhoZcuqhP) | 2:36 | 2023-10-07 | 2023-12-14 |
 | [I Don't Wanna Know](https://open.spotify.com/track/4cFjoK5WruTcT1bgcbodh0) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1) | [I Don't Wanna Know](https://open.spotify.com/album/0uBJVRlz1fFjgiDFzRKqpK) | 2:13 | 2023-09-22 | 2023-12-31 |
 | [I Found A Life In You](https://open.spotify.com/track/0pwlF1O6h9MwN3cFnB5rQs) | [Kevin Ocean](https://open.spotify.com/artist/3Ok1AieWk4YBRCjjBKzVVT), [MSP](https://open.spotify.com/artist/33SPdKbbWQhohOtn7qGjP0), [Moise](https://open.spotify.com/artist/1QMWPzIxcd1bLmuOyM6XM1) | [I Found A Life In You](https://open.spotify.com/album/2WSXuLcYnE1JRRnGADzhwT) | 2:42 | 2024-03-04 |  |

@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-290 songs - 21 hr 19 min
+291 songs - 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,7 @@
 | [Oasis](https://open.spotify.com/track/26KQ4SMgPG82GEkobL1DjT) | [Arman Cekin](https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP), [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Oasis](https://open.spotify.com/album/2Rgx4AxMc5y3N42etoSOF5) | 3:03 | 2020-10-18\* | 2022-07-29 |
 | [Oasis](https://open.spotify.com/track/5r2g7GoX5wok89UnWyFdai) | [Arman Cekin](https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP), [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Oasis](https://open.spotify.com/album/3iYzjpqcXvx1cQZH5EfG9m) | 3:03 | 2022-06-27 | 2024-04-19 |
 | [Ocean](https://open.spotify.com/track/0oe5TCBBSszAglzUynjiUy) | [Ali Bakgor](https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs), [Kállay Saunders](https://open.spotify.com/artist/7DJiupNnzTkhLPygjCaVKj) | [Ocean](https://open.spotify.com/album/0QbS1GUJgoVoM21wlHDIs9) | 3:21 | 2021-04-24 |  |
-| [Oh Lor My Love](https://open.spotify.com/track/1SqO8eemW8Il5oPhoKw8zQ) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j) | [Oh Lor My Love](https://open.spotify.com/album/3t6pybIDShl8eVH1CLRA5h) | 3:00 | 2020-12-18 |  |
+| [Oh Lor My Love](https://open.spotify.com/track/1SqO8eemW8Il5oPhoKw8zQ) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j) | [Oh Lor My Love](https://open.spotify.com/album/3t6pybIDShl8eVH1CLRA5h) | 3:00 | 2020-12-18 | 2024-04-27 |
 | [Oh My Darling](https://open.spotify.com/track/6kfSVR4dff3b4oXlyrIeYj) | [Unklfnkl](https://open.spotify.com/artist/4TJMkm9ul4Xp17Altl41RW) | [Oh My Darling](https://open.spotify.com/album/4dGuhHTdTuWB35nxsdculU) | 3:03 | 2021-03-14 | 2021-08-14 |
 | [On My Way](https://open.spotify.com/track/2PkxplmTqGwUlOw0x6bXHY) | [Kate Linn](https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4) | [On My Way](https://open.spotify.com/album/578fRVB7xQHfJ3cEuS6DgZ) | 2:34 | 2020-11-06 |  |
 | [One More Night](https://open.spotify.com/track/4ERRd1FhG9gqUa99H97ijX) | [Solven](https://open.spotify.com/artist/5pVJy0HEoSMAUOppxBJXZd) | [One More Night](https://open.spotify.com/album/3GG4N6FNRVPajfse66Jsad) | 2:27 | 2020-12-13 | 2022-04-24 |
@@ -225,6 +225,7 @@
 | [Play The Game](https://open.spotify.com/track/7v20uWK7xG3hpnxwh2vUQH) | [ReMan](https://open.spotify.com/artist/1dLHiu9aDXqtHzF5MLyUeR), [Deepest](https://open.spotify.com/artist/3JqbRDna3cMqW6EbuAVYXz), [AMHouse](https://open.spotify.com/artist/6pUq01lliyxlSqPxHIviNa) | [Play The Game](https://open.spotify.com/album/6pmoPn92MLxuIJLYG0gq5T) | 2:22 | 2022-10-27 | 2022-11-13 |
 | [Poison](https://open.spotify.com/track/7vTLn0nVmaOjRCc3Xx6NR7) | [Jean Vayat](https://open.spotify.com/artist/6fmbuS3uHI2jXDmTl9d64K) | [Poison](https://open.spotify.com/album/6povl65uow8MzCvikHgupz) | 7:14 | 2023-04-06 | 2023-07-14 |
 | [Por Ti](https://open.spotify.com/track/1ZcDRpVhC472Mziwkugu82) | [Houssem Amari](https://open.spotify.com/artist/0nVvRWWnt2xwqy290TfVAd), [Amelie Martinez](https://open.spotify.com/artist/2ZUmKzZUZPBuvBrdTM6Rw1) | [Por Ti](https://open.spotify.com/album/6IbPt727qgNcoRcd4Q9r2m) | 3:20 | 2020-12-21 |  |
+| [Pulse Antique](https://open.spotify.com/track/58xJ8nqtHLOK96X8y1ldxJ) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg) | [Portrait of the Obscure](https://open.spotify.com/album/7ceLPlFL0mhnAKqCFfPjhm) | 4:18 | 2024-04-26 |  |
 | [Qalbi](https://open.spotify.com/track/56ZLXYDDmbxtNZ6L8BoPVX) | [Ali Termos](https://open.spotify.com/artist/6KsNWqvgSvCD55lSgiecKK) | [Qalbi](https://open.spotify.com/album/1N729bxBcaOjbUXjgpCILJ) | 6:18 | 2022-04-04 | 2023-03-04 |
 | [Qamuran](https://open.spotify.com/track/4aqc8muXR8anfNoFhmdnGZ) | [Anatolian Sessions](https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK) | [Qamuran](https://open.spotify.com/album/1TBpfCqwf84mA9LnXHTY6Z) | 6:05 | 2020-10-18\* | 2020-12-13 |
 | [Ramla](https://open.spotify.com/track/0aPtCFb0E1ZKGzE1bMuvV0) | [Anis Karek](https://open.spotify.com/artist/63K9PNJ0dItZGILLpeWTS8) | [Ramla](https://open.spotify.com/album/63Hvj5DivROjnPWxaCYVik) | 6:34 | 2020-12-21 | 2023-03-18 |

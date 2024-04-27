@@ -1,12 +1,12 @@
 {
   "description": "Porque no to' e' Dembow en RD loco. Portada: Dowba Montana",
-  "num_followers": 232246,
+  "num_followers": 232354,
   "original_name": "Flow Dominicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDA4Mzk0MCwwMDAwMDAwMDA1MWFlMjJiZDY1MGM5YTBmMDBjOTNlYmI0ODJhNTc0",
+  "snapshot_id": "MTcxNDEwNDAwMCwwMDAwMDAwMDYxN2EzYmZhYzRkNTdiZThmMWFmMzUwMDM3MTc5MTJk",
   "tracks": [
     {
       "added_at": "2024-04-01 19:33:45",
@@ -43,6 +43,26 @@
       "duration_ms": 163514,
       "name": "Divino",
       "url": "https://open.spotify.com/track/2pVgmby0wfULOytCtpmaQK"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/6YfNG5iJi01emiqWlcFY0P"
+      },
+      "artists": [
+        {
+          "name": "TRAMPA BILLONE",
+          "url": "https://open.spotify.com/artist/6UCXzCbIzKfGAk8613o8qt"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        }
+      ],
+      "duration_ms": 187829,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/5gLB5PhxXi6CH8ELgeS7E1"
     },
     {
       "added_at": "2024-01-12 21:24:53",
@@ -495,6 +515,22 @@
       "duration_ms": 237860,
       "name": "FREESTYLE #12 TEMP.5",
       "url": "https://open.spotify.com/track/44DOh22teP1CQhJwVdxvzl"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "La Necesidad",
+        "url": "https://open.spotify.com/album/1DcsAWs92vPjiX7bhdOUhM"
+      },
+      "artists": [
+        {
+          "name": "Jc La Nevula",
+          "url": "https://open.spotify.com/artist/6KBhywwNM5dStjqjHeNndc"
+        }
+      ],
+      "duration_ms": 164860,
+      "name": "La Necesidad",
+      "url": "https://open.spotify.com/track/4PyrE1y2BplalrcrAvOzRT"
     },
     {
       "added_at": "2024-03-27 20:37:44",

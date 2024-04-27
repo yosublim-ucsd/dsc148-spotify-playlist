@@ -1,12 +1,12 @@
 {
   "description": "This is Black Coffee. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 131121,
+  "num_followers": 131206,
   "original_name": "This Is Black Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzkxNjgwMCwwMDAwMDAwMDRjNDEzZDM4OGZjNTllOWI1ZmUwZjBkOTYxN2FkYjli",
+  "snapshot_id": "MTcxNDAwMzIwMCwwMDAwMDAwMGViMTNkNjdhMDYwNzRmZDA3YmExMDUyOWYwZTk3MGE4",
   "tracks": [
     {
       "added_at": null,
@@ -663,22 +663,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Are One",
-        "url": "https://open.spotify.com/album/2lUBjtdiF93gxS7tlEbqAz"
+        "name": "Best of 2016",
+        "url": "https://open.spotify.com/album/3vuX1ArMyftfYG6l9GiuXN"
       },
       "artists": [
+        {
+          "name": "Marie Joly",
+          "url": "https://open.spotify.com/artist/6dYPZNt3MHNq6XMgmIUQjr"
+        },
         {
           "name": "Black Coffee",
           "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
         },
         {
-          "name": "Hugh Masekela",
-          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+          "name": "Rebecca Murray",
+          "url": "https://open.spotify.com/artist/2jzgFkQaQsMQ0AdAfdpF0T"
         }
       ],
-      "duration_ms": 478310,
-      "name": "We Are One - Black Coffee Original Dub",
-      "url": "https://open.spotify.com/track/0yRbdmtSZIAt29prSfst2U"
+      "duration_ms": 391368,
+      "name": "Gratitude",
+      "url": "https://open.spotify.com/track/6qpJYkBdxdkIOYI3oSeJok"
     },
     {
       "added_at": null,
@@ -703,26 +707,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Best of 2016",
-        "url": "https://open.spotify.com/album/3vuX1ArMyftfYG6l9GiuXN"
+        "name": "We Are One",
+        "url": "https://open.spotify.com/album/2lUBjtdiF93gxS7tlEbqAz"
       },
       "artists": [
-        {
-          "name": "Marie Joly",
-          "url": "https://open.spotify.com/artist/6dYPZNt3MHNq6XMgmIUQjr"
-        },
         {
           "name": "Black Coffee",
           "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
         },
         {
-          "name": "Rebecca Murray",
-          "url": "https://open.spotify.com/artist/2jzgFkQaQsMQ0AdAfdpF0T"
+          "name": "Hugh Masekela",
+          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
         }
       ],
-      "duration_ms": 391368,
-      "name": "Gratitude",
-      "url": "https://open.spotify.com/track/6qpJYkBdxdkIOYI3oSeJok"
+      "duration_ms": 478310,
+      "name": "We Are One - Black Coffee Original Dub",
+      "url": "https://open.spotify.com/track/0yRbdmtSZIAt29prSfst2U"
     },
     {
       "added_at": null,

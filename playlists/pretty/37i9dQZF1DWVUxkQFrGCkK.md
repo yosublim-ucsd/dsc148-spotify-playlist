@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > giza desert rave
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,231 likes - 236 songs - 17 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,591 likes - 236 songs - 17 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

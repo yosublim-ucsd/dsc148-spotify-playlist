@@ -1,7 +1,7 @@
 {
-  "2024-04-26": 512248,
+  "2024-04-27": 512489,
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowych kawa\u0142ki w tej chwili. Cover: White 2115",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Young Igi",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -2494,6 +2494,28 @@
     },
     {
       "album": {
+        "name": "Hotel Lobby",
+        "url": "https://open.spotify.com/album/0xkh6IB6JEtwcJsH2tQ6Ut"
+      },
+      "artists": [
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162533,
+      "name": "Hotel Lobby",
+      "url": "https://open.spotify.com/track/7dYm5bcpolwVTsmgC28r57"
+    },
+    {
+      "album": {
         "name": "Hotel Maffija 3",
         "url": "https://open.spotify.com/album/6R7fjHTZnokGgV7OPIUnU5"
       },
@@ -2644,6 +2666,28 @@
     },
     {
       "album": {
+        "name": "Jackpot",
+        "url": "https://open.spotify.com/album/51zhaYzmuoPhM3IfEJFCn6"
+      },
+      "artists": [
+        {
+          "name": "Jonatan",
+          "url": "https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak"
+        },
+        {
+          "name": "Gibbs",
+          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172213,
+      "name": "Jackpot",
+      "url": "https://open.spotify.com/track/7oocCCnuxMs8ErYQtj3o52"
+    },
+    {
+      "album": {
         "name": "Jak Mam \u017by\u0107",
         "url": "https://open.spotify.com/album/1x8udTISFexHlS8KrtUely"
       },
@@ -2791,7 +2835,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 176181,
       "name": "Jestem",
       "url": "https://open.spotify.com/track/1KiBPzmUVcXwWiSUCixaJq"
@@ -3273,7 +3317,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 198440,
       "name": "Liga mistrz\u00f3w",
       "url": "https://open.spotify.com/track/5tMMrW1OTjeR6QvdntqlkJ"
@@ -6276,6 +6320,36 @@
     },
     {
       "album": {
+        "name": "Ty Wiesz",
+        "url": "https://open.spotify.com/album/3WMrFBSnIzZOucQTEy0uBU"
+      },
+      "artists": [
+        {
+          "name": "Oliwka Brazil",
+          "url": "https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs"
+        },
+        {
+          "name": "Chivas",
+          "url": "https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA"
+        },
+        {
+          "name": "WIKTOR",
+          "url": "https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN"
+        },
+        {
+          "name": "Jakub Laszuk",
+          "url": "https://open.spotify.com/artist/6UATsPpXnCc5h12How5xvQ"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169903,
+      "name": "Ty Wiesz",
+      "url": "https://open.spotify.com/track/0QfTXFJdnx42T8DeTWWwN6"
+    },
+    {
+      "album": {
         "name": "TYLE S\u0141O\u0143CA",
         "url": "https://open.spotify.com/album/34pnuaLEiWt0Cs4JQv2MM2"
       },
@@ -6291,7 +6365,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 142285,
       "name": "TYLE S\u0141O\u0143CA",
       "url": "https://open.spotify.com/track/2oILgeSykGjl0N9m0VvAjO"

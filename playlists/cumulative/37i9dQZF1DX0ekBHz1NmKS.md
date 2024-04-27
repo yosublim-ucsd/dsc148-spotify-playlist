@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,208 songs - 2 day 15 hr 16 min
+1,209 songs - 2 day 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -639,6 +639,7 @@
 | [Losing a Friend](https://open.spotify.com/track/2fhxyW8DpS4rWmt5DwdOmy) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Losing a Friend](https://open.spotify.com/album/3UXK8j03CixeaM1LBXJcfs) | 3:14 | 2023-10-06 | 2024-01-26 |
 | [Lost Romance](https://open.spotify.com/track/1xjbPvo3qQvnKKLtrjKOIY) | [Tage](https://open.spotify.com/artist/7wXeuEsgZnjihGQLKkaPSr) | [Lost Romance](https://open.spotify.com/album/3rq0E9j8ExDqjRph3yCUq0) | 2:21 | 2024-02-22 | 2024-04-12 |
 | [Lova](https://open.spotify.com/track/001iFcI2PVrLteroX4urel) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n), [Cleo](https://open.spotify.com/artist/1SwDFc5jX708XR3XtzLrRs) | [PART TWO](https://open.spotify.com/album/50r1BRsfeBhwmlCH2l4N1j) | 5:02 | 2022-06-02 | 2022-09-26 |
+| [Love & Unity](https://open.spotify.com/track/6jxPLl1mecH3MtC0oIPnLg) | [Paulo Mendonca](https://open.spotify.com/artist/5IXO0yGQMScYQMsWg6L8YG) | [Love & Unity](https://open.spotify.com/album/5Ubu5hojBNMwptB1afNQXp) | 3:50 | 2024-04-26 |  |
 | [Love And Appreciation](https://open.spotify.com/track/1MfbWqsh6HxRxXd6pJwnXy) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Magic Still Exists](https://open.spotify.com/album/5yD8F2BqQt2xLuMof36IYN) | 5:03 | 2021-12-16 | 2022-02-27 |
 | [Love Me Blind](https://open.spotify.com/track/2W5oxA3ihrb6pjnjZRda4s) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Love Me Blind](https://open.spotify.com/album/2kizhHph8cAwaUJdDc8zso) | 3:47 | 2021-12-16 | 2022-04-02 |
 | [Love So Cruel](https://open.spotify.com/track/3EvAOiLoALVPS2BFJEt9Ho) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Love So Cruel](https://open.spotify.com/album/3TmOj8mspW53T6gN6nRexN) | 3:13 | 2021-12-16 | 2022-03-10 |
@@ -803,7 +804,7 @@
 | [Peak of life](https://open.spotify.com/track/2PwaDY6hpMwb1RZCb10Gkf) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [Peak of life](https://open.spotify.com/album/4ox2lFM7CKQLoVMYm04F59) | 2:22 | 2023-10-19 | 2023-10-23 |
 | [Pengar](https://open.spotify.com/track/2qqbehBMkoYX7mxEVP8q9i) | [Annika Norlin](https://open.spotify.com/artist/5BEuyZUof5F3Nu9pjcWwD1) | [Hydra / Pengar](https://open.spotify.com/album/7FkFLq0d78ZsWvwzOpaKzz) | 3:36 | 2021-12-16 | 2022-03-10 |
 | [PENGAR OCH PENGARNAS DRÄNGAR \(Radio Edit\)](https://open.spotify.com/track/7q4YIj34l3NVNAebhnYUCo) | [Mattias Alkberg](https://open.spotify.com/artist/5p8AjcGi5g19fWNvC2zhqE), [Olle Nyman](https://open.spotify.com/artist/7hNRlzzTVQGsXeSLllu2at), [Rebecka Digervall](https://open.spotify.com/artist/3vHSNoHRWSvrQlbFnVR4Bw) | [PENGAR OCH PENGARNAS DRÄNGAR \(Radio Edit\)](https://open.spotify.com/album/6kFB7PqxaMpnzyAVOyhDCU) | 3:33 | 2024-02-15 | 2024-04-05 |
-| [PERUVIAN LILIES](https://open.spotify.com/track/6tZxHGe7Y8jLEITwA1nJqA) | [Adam Taal](https://open.spotify.com/artist/1dYTeeSzWkPMdQw8N7aYbR) | [PERUVIAN LILIES](https://open.spotify.com/album/6p4GPJRujHUq7QQ7kg7dWv) | 3:00 | 2024-04-25 |  |
+| [PERUVIAN LILIES](https://open.spotify.com/track/6tZxHGe7Y8jLEITwA1nJqA) | [Adam Taal](https://open.spotify.com/artist/1dYTeeSzWkPMdQw8N7aYbR) | [PERUVIAN LILIES](https://open.spotify.com/album/6p4GPJRujHUq7QQ7kg7dWv) | 3:00 | 2024-04-25 | 2024-04-27 |
 | [Piller](https://open.spotify.com/track/3xZ690zBbgyUX7vwZhCrQv) | [Klara & Jag](https://open.spotify.com/artist/2X2m34XTofjWhhW0Wnya5k) | [I stadens famn](https://open.spotify.com/album/6QKW1QYSFKgwGD0ajHRvNm) | 3:20 | 2022-05-12 | 2022-07-23 |
 | [Piller](https://open.spotify.com/track/5O7wcEKtYa8T7aAPPYEK4B) | [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [Piller](https://open.spotify.com/album/4e12w2ks3KmvLjodwRN7W1) | 3:48 | 2021-12-16 | 2022-02-19 |
 | [Pink it up](https://open.spotify.com/track/7dABKByHTGJB7m5LImo89k) | [Sanna Martinez](https://open.spotify.com/artist/0z4mzMTeYkA6xdybmSgdkn) | [Pink it up](https://open.spotify.com/album/3UgqwNkQ17IEbLSyoCYusO) | 2:55 | 2024-01-25 | 2024-01-28 |

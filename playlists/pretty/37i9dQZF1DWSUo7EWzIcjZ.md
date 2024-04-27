@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 
 > ¡Merengue de los 80 y 90! Portada: Johnny Ventura
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,434 likes - 150 songs - 11 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,438 likes - 150 songs - 11 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 25 | [Gotas De Pena](https://open.spotify.com/track/0VEHjnxsd8ItIRv9eIDbvg) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [El Maestro Con Sus 16 Exitos](https://open.spotify.com/album/4kiSXrCgg4AukLYDFQCuuJ) | 4:32 |
 | 26 | [Morena Ven](https://open.spotify.com/track/6Y8KiDjw73vlyoeaAwg26K) | [The Max Band](https://open.spotify.com/artist/0cvniMxWoe3hiblRxmdWsk) | [Ultimate Merengue Party 2000](https://open.spotify.com/album/4cDzLzM1MTi4B0zO205UdL) | 4:41 |
 | 27 | [¿Pitaste?](https://open.spotify.com/track/45uhX5tj1cWfUAcYEPHnds) | [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus) | [10 De Colección](https://open.spotify.com/album/4se9bp1pffpDBHyzFWD4YV) | 4:11 |
-| 28 | [Oye](https://open.spotify.com/track/7nlTAOcOoj9GrWbuVVa0sE) | [Rasputin](https://open.spotify.com/artist/0mALzjMaKXiSauA1QuXYLY) | [Juan and Nelson Records \- 20 Exitos](https://open.spotify.com/album/7lgIfFtcDjj5sBH7dSpBGw) | 4:23 |
-| 29 | [Es Lo Que Pide...](https://open.spotify.com/track/4jaU9paYfr39pw8lqozNfW) | [Los Cantantes De Ramon Orlando](https://open.spotify.com/artist/7Cj6rrdeWFppDcMtT4O9mK) | [Exitos De Los Cantantes De Ramon Orlando](https://open.spotify.com/album/06FkjfOG8RSuJWltd6Xp18) | 4:43 |
+| 28 | [Es Lo Que Pide...](https://open.spotify.com/track/4jaU9paYfr39pw8lqozNfW) | [Los Cantantes De Ramon Orlando](https://open.spotify.com/artist/7Cj6rrdeWFppDcMtT4O9mK) | [Exitos De Los Cantantes De Ramon Orlando](https://open.spotify.com/album/06FkjfOG8RSuJWltd6Xp18) | 4:43 |
+| 29 | [Oye](https://open.spotify.com/track/7nlTAOcOoj9GrWbuVVa0sE) | [Rasputin](https://open.spotify.com/artist/0mALzjMaKXiSauA1QuXYLY) | [Juan and Nelson Records \- 20 Exitos](https://open.spotify.com/album/7lgIfFtcDjj5sBH7dSpBGw) | 4:23 |
 | 30 | [Dile](https://open.spotify.com/track/7aRqroLRrcGEKDoPsb6Wbe) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Exitos](https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN) | 5:02 |
 | 31 | [Que? Aha!](https://open.spotify.com/track/7zFnaskZB4uWrfZijnZDFK) | [Jossie Esteban](https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H), [La Patrulla 15](https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O), [Jossie Esteban y La Patrulla 15](https://open.spotify.com/artist/0PZFcATGOX0fUm1zPpRiaH) | [Con Fuerza!](https://open.spotify.com/album/75kIH5wFWzxKanFc5yFX67) | 4:48 |
 | 32 | [Noches de Fantasía](https://open.spotify.com/track/2f2k0KjxqB9p1e6scnkRh9) | [Merengue Latin Band](https://open.spotify.com/artist/6CfAyHRZimRXEFeC7Tcseo) | [Merengue Passion](https://open.spotify.com/album/4TSbaYA6NamAkS11pQGV67) | 4:30 |
@@ -95,12 +95,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 85 | [Tu Eres Mi Hembra](https://open.spotify.com/track/4eHIBgC7bpDHt5FEX9VusR) | [Monchy Capricho](https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua) | [Ineditos](https://open.spotify.com/album/4KgURbQPHQi1qOn2tY9Ra1) | 4:49 |
 | 86 | [La Loba](https://open.spotify.com/track/3wVkSqFV273UbwCfSRETYk) | [Miriam Cruz](https://open.spotify.com/artist/4O2mePlghucfEGSsMSmjWL) | [Miriam Collection](https://open.spotify.com/album/44sB3FF1kgY4dg4ny6uK65) | 4:19 |
 | 87 | [Un Sobrinito de Champagne](https://open.spotify.com/track/7GsUS2pESTQSdyPhWLBwdN) | [Angelito Villalona](https://open.spotify.com/artist/5hgBIdemm7387ucuVt3Gul) | [Caricias](https://open.spotify.com/album/6G8kLQ5q6j19Ix24xkR8ig) | 3:34 |
-| 88 | [Peluche](https://open.spotify.com/track/2xsAJtfqVdSnqAhwq0141f) | [Los Reyes Del Caribe](https://open.spotify.com/artist/52xfmIPS4Adi3h7AhRNMSe) | [Merengues Clásicos de los 80´s, Vol\. 3](https://open.spotify.com/album/7g6Kdd3Hh8SUmEhAtlbbPv) | 3:50 |
-| 89 | [Cobarde Cobarde](https://open.spotify.com/track/03h1JG4Xj6anvmqhiBaiXg) | [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx) | [Con Mucho Swing](https://open.spotify.com/album/2ZvJyNrDflkpMlo02c4wSV) | 5:13 |
-| 90 | [Oye Abre Tus Ojos](https://open.spotify.com/track/1B8MHKKYkqrnmv8QDMat4Z) | [July Mateo Rasputin](https://open.spotify.com/artist/56zfXx0Uk6du1iFkewDvPi) | [Exitos](https://open.spotify.com/album/4ZXAcZ2oYaLj2Xpq8PvbTa) | 4:25 |
+| 88 | [De Que Manera Te Olvido](https://open.spotify.com/track/4rW9g43B7spMkANX9ydJRB) | [Jochy Hernandez](https://open.spotify.com/artist/3WDEmWVINk7sTXoUkCj231) | [Enfrentando la Vida](https://open.spotify.com/album/4wBDIcVwfSXfAMWuSX8Qwc) | 5:17 |
+| 89 | [Peluche](https://open.spotify.com/track/2xsAJtfqVdSnqAhwq0141f) | [Los Reyes Del Caribe](https://open.spotify.com/artist/52xfmIPS4Adi3h7AhRNMSe) | [Merengues Clásicos de los 80´s, Vol\. 3](https://open.spotify.com/album/7g6Kdd3Hh8SUmEhAtlbbPv) | 3:50 |
+| 90 | [Cobarde Cobarde](https://open.spotify.com/track/03h1JG4Xj6anvmqhiBaiXg) | [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx) | [Con Mucho Swing](https://open.spotify.com/album/2ZvJyNrDflkpMlo02c4wSV) | 5:13 |
 | 91 | [Nuestro Amor](https://open.spotify.com/track/4sEqK8SeihEwDySmsf2Zed) | [Monchy Capricho](https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua) | [Merengues Clásicos de los 80´s, Vol\. 3](https://open.spotify.com/album/0ZtKfpi3mUYi1T2n8SMoh5) | 3:40 |
-| 92 | [Yo me siento enamorao](https://open.spotify.com/track/1xRwSSLRWQkxsWMlAVzZtY) | [La Patrulla 15](https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O) | [Merengues Clasicos Vol 2](https://open.spotify.com/album/44foj0bwD1wWLHgg9wBvAh) | 6:15 |
-| 93 | [De Que Manera Te Olvido](https://open.spotify.com/track/4rW9g43B7spMkANX9ydJRB) | [Jochy Hernandez](https://open.spotify.com/artist/3WDEmWVINk7sTXoUkCj231) | [Enfrentando la Vida](https://open.spotify.com/album/4wBDIcVwfSXfAMWuSX8Qwc) | 5:17 |
+| 92 | [Oye Abre Tus Ojos](https://open.spotify.com/track/1B8MHKKYkqrnmv8QDMat4Z) | [July Mateo Rasputin](https://open.spotify.com/artist/56zfXx0Uk6du1iFkewDvPi) | [Exitos](https://open.spotify.com/album/4ZXAcZ2oYaLj2Xpq8PvbTa) | 4:25 |
+| 93 | [Yo me siento enamorao](https://open.spotify.com/track/1xRwSSLRWQkxsWMlAVzZtY) | [La Patrulla 15](https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O) | [Merengues Clasicos Vol 2](https://open.spotify.com/album/44foj0bwD1wWLHgg9wBvAh) | 6:15 |
 | 94 | [Colegiala](https://open.spotify.com/track/0QcKRbcdQBxlvH2AlY45Uk) | [Jerry Legrand](https://open.spotify.com/artist/1vyqQqgMTDy9MNbtcMToQe) | [Exitos](https://open.spotify.com/album/22Vw3nBWbkB7i45HAbsvya) | 5:04 |
 | 95 | [Tus Besos Son](https://open.spotify.com/track/77efkShul1aVJMJWGgtB5l) | [La Gran Manzana](https://open.spotify.com/artist/7fFNqvCPf1xyrqvkFnImMF) | [Merengon](https://open.spotify.com/album/2tYiN3NWPLJ3rYRhIZfyka) | 4:55 |
 | 96 | [El Cantante del Amor](https://open.spotify.com/track/5RPWLHocWVJxJlDNH96YJn) | [El Zafiro](https://open.spotify.com/artist/4KM2Ilg49V5miYDbIJOg9E) | [The Last Kiss \(Latin Edition\)](https://open.spotify.com/album/7JweTrCv458Rq6i6FHystG) | 3:48 |

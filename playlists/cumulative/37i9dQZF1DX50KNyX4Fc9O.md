@@ -2,7 +2,7 @@
 
 ### [Pop n' Fresh](https://open.spotify.com/playlist/37i9dQZF1DX50KNyX4Fc9O)
 
-> Keep your finger on the pulse of pop\. meri, mercy
+> Keep your finger on the pulse of pop\. Cover: merci, mercy
 
 942 songs - 2 day 0 hr 45 min
 

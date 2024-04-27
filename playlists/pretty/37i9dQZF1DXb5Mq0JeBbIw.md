@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 
 > Soft songs that gives you a gentle start of the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,840 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,853 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 28 | [Still The One](https://open.spotify.com/track/1euXH7sEOodtVT7S4QNYRD) | [Andrew Galucki](https://open.spotify.com/artist/0Z00sSHBoJ9wsqTY5hT3mP) | [Still The One](https://open.spotify.com/album/2A7NsEN1bbpAROAOiRIGkC) | 3:31 |
 | 29 | [Can I Be Him \- Acoustic Live Version](https://open.spotify.com/track/0iVAPfPW2NkfxCqu0a1UBl) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Can I Be Him \(Acoustic Live Version\)](https://open.spotify.com/album/2lc79WJoOQ3pJ0bDRbOdah) | 5:05 |
 | 30 | [So Sick \- Acoustic](https://open.spotify.com/track/4HCpIhzKelkCloifq32KUl) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [So Sick](https://open.spotify.com/album/5XUpYe7WySPsPoYXOMW5Hm) | 3:03 |
-| 31 | [Stay With Me \- Live From Spotify Berlin](https://open.spotify.com/track/6itWAD2WxmAVQgWuk85yXx) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Spotify Sessions](https://open.spotify.com/album/5ota1DtixKfUcrsiazzgcK) | 2:54 |
-| 32 | [Anti\-Hero](https://open.spotify.com/track/4BwDXIHlk3bLJYZFnysm3b) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Anti\-Hero](https://open.spotify.com/album/5r43uFC78gwhlk54OUekf9) | 3:19 |
+| 31 | [Anti\-Hero](https://open.spotify.com/track/4BwDXIHlk3bLJYZFnysm3b) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Anti\-Hero](https://open.spotify.com/album/5r43uFC78gwhlk54OUekf9) | 3:19 |
+| 32 | [Stay With Me \- Live From Spotify Berlin](https://open.spotify.com/track/6itWAD2WxmAVQgWuk85yXx) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Spotify Sessions](https://open.spotify.com/album/5ota1DtixKfUcrsiazzgcK) | 2:54 |
 | 33 | [More & More](https://open.spotify.com/track/5oYMLJBYRv0I3D5GZEqODA) | [Finding Hope](https://open.spotify.com/artist/0QGDb8TBWIT06W4BoyAggg) | [More & More](https://open.spotify.com/album/5ASbLWy4g3WyCCuxvnJRvD) | 3:31 |
 | 34 | [Bad Habits \- Acoustic Version](https://open.spotify.com/track/0IkK4SEryuCtbQjm5LRLMZ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits \(Acoustic Version\)](https://open.spotify.com/album/6m1jYE77JZX8aJpO5ei2V7) | 3:52 |
 | 35 | [Please Keep Loving Me \- Acoustic](https://open.spotify.com/track/6lay0FicAbIevv4Oxfv4Bz) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Please Keep Loving Me \(Acoustic\)](https://open.spotify.com/album/12EsSwU4gUwWmSaM6ziFxX) | 3:17 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 71 | [Can’t Forget You \(feat\. James Blunt\) \- Acoustic](https://open.spotify.com/track/00REq7wkCPg0Cv4uLHUZ25) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Can’t Forget You \(feat\. James Blunt\) \[Acoustic\]](https://open.spotify.com/album/32PuH9hW02uz2iQLCKmXTv) | 2:25 |
 | 72 | [I don't mind if you don't mind \(draft\)](https://open.spotify.com/track/1LjSLMjMAZj6zvW6XLLzzr) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [In Hindsight](https://open.spotify.com/album/323C2iF45gSw52R7c0aSk0) | 2:18 |
 | 73 | [Stay Alive](https://open.spotify.com/track/7CJdCs4Rus5mzNHPGRP5Uy) | [Keith McInally](https://open.spotify.com/artist/5ZJI40RFLH8wwxWMSKQhL1) | [Stay Alive](https://open.spotify.com/album/6SrXwW6kvlEruIztRYRE1p) | 3:44 |
-| 74 | [Walk Away](https://open.spotify.com/track/0KeJcgrv8IsaFchZOFfx7S) | [Daniel Schulz](https://open.spotify.com/artist/3pVuaUisHmRfVy53qWwmql) | [Walk Away](https://open.spotify.com/album/53zBEG9p7iIwBCwhW5pOaa) | 2:40 |
-| 75 | [Did We Miss the Morning?](https://open.spotify.com/track/4hKR9v8ZcQi0R0q7Dhp3e5) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Give Me Something](https://open.spotify.com/album/0O9NVg82SmybQvWyUFDvx6) | 2:54 |
+| 74 | [Did We Miss the Morning?](https://open.spotify.com/track/4hKR9v8ZcQi0R0q7Dhp3e5) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Give Me Something](https://open.spotify.com/album/0O9NVg82SmybQvWyUFDvx6) | 2:54 |
+| 75 | [Walk Away](https://open.spotify.com/track/0KeJcgrv8IsaFchZOFfx7S) | [Daniel Schulz](https://open.spotify.com/artist/3pVuaUisHmRfVy53qWwmql) | [Walk Away](https://open.spotify.com/album/53zBEG9p7iIwBCwhW5pOaa) | 2:40 |
 | 76 | [Walk Me Home](https://open.spotify.com/track/5UvXzxI8LyaHbAw8sncdMZ) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Walk Me Home](https://open.spotify.com/album/5FU9XgMIfRKhBDBXg7Z9o4) | 4:37 |
 | 77 | [Falling Down \- Acoustic Version](https://open.spotify.com/track/1sbk8h2F4YMQOtVJFWbAGc) | [Julia Ross](https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu), [Missy & Blonde](https://open.spotify.com/artist/2XpEZIV9uuJY6pdhKAbuBh) | [Falling Down \(Acoustic Version\)](https://open.spotify.com/album/7pon2qGnLQSCxdyGBFTn27) | 3:31 |
 | 78 | [Alien \- Acoustic](https://open.spotify.com/track/6VDRCKWp49mhQhrvAeI5QT) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Alien \(Acoustic\)](https://open.spotify.com/album/6lA3p7IHcwFXjdy08QkGWS) | 3:24 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 87 | [Get Lost](https://open.spotify.com/track/6T5h25GMtJWOhGcObvjlHq) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [Get Lost](https://open.spotify.com/album/0xie7ofeyXxvtFqPgvnSIv) | 3:06 |
 | 88 | [i've got a crazy idea](https://open.spotify.com/track/6lFNHNVCRrQxbkE4V3I6xh) | [Eva Snyder](https://open.spotify.com/artist/6qwzV9a2lGZLfTmXXhkP4l) | [i've got a crazy idea](https://open.spotify.com/album/6xUQI83LRIORArNV3GXJ00) | 3:06 |
 | 89 | [Recompose](https://open.spotify.com/track/1aQ2mEr0u12stjGRnTnZA7) | [Kay Nambiar](https://open.spotify.com/artist/2oFOiPYQ4kKIaBS9337ZoX) | [Ep1](https://open.spotify.com/album/45IdJiVJuToGIpu9SwIOsI) | 3:24 |
-| 90 | [Nervous \- Acoustic](https://open.spotify.com/track/21z2lehJWympNxaiUniWGf) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Nervous \(Acoustic\)](https://open.spotify.com/album/3xX56NcykV7DkotB9MH6kE) | 4:10 |
-| 91 | [Cherry](https://open.spotify.com/track/7iAkXOgqV4DlgBqJJxslVI) | [Chance Perez](https://open.spotify.com/artist/1SCknIfL7xAcll2QxeIQZO) | [Cherry](https://open.spotify.com/album/2yM3HIDl38zoKlKFPUyLFS) | 2:36 |
+| 90 | [Cherry](https://open.spotify.com/track/7iAkXOgqV4DlgBqJJxslVI) | [Chance Perez](https://open.spotify.com/artist/1SCknIfL7xAcll2QxeIQZO) | [Cherry](https://open.spotify.com/album/2yM3HIDl38zoKlKFPUyLFS) | 2:36 |
+| 91 | [Nervous \- Acoustic](https://open.spotify.com/track/21z2lehJWympNxaiUniWGf) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Nervous \(Acoustic\)](https://open.spotify.com/album/3xX56NcykV7DkotB9MH6kE) | 4:10 |
 | 92 | [Blackbirds and Foxtails](https://open.spotify.com/track/1xbO3TwRkmY3bKlx0wGqlY) | [Lost Mary](https://open.spotify.com/artist/16WgLtGDVL7lWQBo9esyKO) | [Blackbirds and Foxtails](https://open.spotify.com/album/6Xcbx0D39CgHzi7UrLuhW7) | 3:56 |
 | 93 | [Us \- Acoustic](https://open.spotify.com/track/6vkGJCsMQc4HVZ1H8Yh2PH) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Sorry For Writing All The Songs About You \(Acoustic\)](https://open.spotify.com/album/4jnlpvJbPBkI5MVPpTkuf8) | 3:12 |
 | 94 | [find me wrong](https://open.spotify.com/track/51Ah5WLGqFapuowJaxKMQg) | [Coral](https://open.spotify.com/artist/6OrtrrYAjzBNILMrtty09i) | [find me wrong](https://open.spotify.com/album/59wwhZPCWFcCJo7S7EUx4F) | 3:16 |

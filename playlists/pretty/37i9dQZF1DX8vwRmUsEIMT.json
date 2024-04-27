@@ -1,12 +1,12 @@
 {
   "description": "All the new music you need to hear right now. Cover: Mabel",
-  "num_followers": 541781,
+  "num_followers": 541686,
   "original_name": "All New All Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDA4NjAwMCwwMDAwMDAwMDQzMjc3YWZlMzU4MGJkNmNmZWViZWMyZWIyOTQwOWFl",
+  "snapshot_id": "MTcxNDEyNzcwNywwMDAwMDAwMGFhZjA0ZTM4YjMwMjczZmRkNGI4MGNiNjFlNDkyMzI4",
   "tracks": [
     {
       "added_at": "2024-04-25 23:00:00",
@@ -409,10 +409,10 @@
       "url": "https://open.spotify.com/track/4ZZO8buYpKMS7gR9koYhD9"
     },
     {
-      "added_at": "2024-04-25 23:00:00",
+      "added_at": "2024-04-26 10:35:07",
       "album": {
-        "name": "Hyperdrama",
-        "url": "https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86"
+        "name": "Neverender",
+        "url": "https://open.spotify.com/album/6UGnOHEJZT6AkVXrtgcP0u"
       },
       "artists": [
         {
@@ -420,13 +420,13 @@
           "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
         },
         {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 254346,
-      "name": "The End",
-      "url": "https://open.spotify.com/track/5lhIY0YgH7JhszpQNUC1dm"
+      "duration_ms": 266493,
+      "name": "Neverender",
+      "url": "https://open.spotify.com/track/0ccoGCaOFCxI6pHixrQpKj"
     },
     {
       "added_at": "2024-04-25 23:00:00",

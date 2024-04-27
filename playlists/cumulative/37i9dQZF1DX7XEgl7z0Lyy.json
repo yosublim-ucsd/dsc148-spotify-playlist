@@ -536,7 +536,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 164633,
       "name": "BUSCAPROBLEMAS",
       "url": "https://open.spotify.com/track/4XPojnLqugTqXuhGJJEytm"
@@ -670,7 +670,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 112018,
       "name": "corpse",
       "url": "https://open.spotify.com/track/12Tkvx9SClYpEQKrCtqEfY"
@@ -822,7 +822,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 219888,
       "name": "Cycle mix (crea x creon)",
       "url": "https://open.spotify.com/track/0Be7vipfSZvIaV8fuF68yc"
@@ -1026,7 +1026,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 119236,
       "name": "don't leave me",
       "url": "https://open.spotify.com/track/6UX98RWvsIqgwoJfU0u30S"
@@ -1194,7 +1194,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 115200,
       "name": "every pill",
       "url": "https://open.spotify.com/track/0DaqmS2yJdMHG6cRZKpzMm"
@@ -1532,7 +1532,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 153527,
       "name": "GIVE EM HELL",
       "url": "https://open.spotify.com/track/6P92k8JnqxqPyHLB7UwyN8"
@@ -1580,7 +1580,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 126766,
       "name": "go_hard",
       "url": "https://open.spotify.com/track/0maMEzo6B7oJtEkI7Ptf0S"
@@ -2150,6 +2150,24 @@
       "duration_ms": 134237,
       "name": "Just A Hint",
       "url": "https://open.spotify.com/track/7hE0JjXftoo3euDhjwgNIQ"
+    },
+    {
+      "album": {
+        "name": "KATAMARI",
+        "url": "https://open.spotify.com/album/4qfXJdKTc2dvIfdlqytd2E"
+      },
+      "artists": [
+        {
+          "name": "femtanyl",
+          "url": "https://open.spotify.com/artist/53e9n1LucuH3guikmtv180"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158117,
+      "name": "KATAMARI",
+      "url": "https://open.spotify.com/track/5iAE3uBqaZm9aHUx9yy6a0"
     },
     {
       "album": {
@@ -3152,7 +3170,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 314996,
       "name": "PIE - Mataya Waldenberg Remix",
       "url": "https://open.spotify.com/track/3yWPDaZ1eScmdKjEWWMoVL"
@@ -3279,6 +3297,28 @@
     },
     {
       "album": {
+        "name": "reclaimer (feat. Nuvfr)",
+        "url": "https://open.spotify.com/album/3ojxaH4Z9d4KJPORtcbBlq"
+      },
+      "artists": [
+        {
+          "name": "removeface",
+          "url": "https://open.spotify.com/artist/4V83nubSLv0NZBo69fz8PF"
+        },
+        {
+          "name": "Nuvfr",
+          "url": "https://open.spotify.com/artist/2fWukyNksCO4foi0KYnRJy"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122601,
+      "name": "reclaimer (feat. Nuvfr)",
+      "url": "https://open.spotify.com/track/1Qp2NeiBQRoHEHY1SwsH9E"
+    },
+    {
+      "album": {
         "name": "REPL4CE!",
         "url": "https://open.spotify.com/album/6eKBPTWQ2Q7IOVzDxpvQrr"
       },
@@ -3375,6 +3415,24 @@
     },
     {
       "album": {
+        "name": "runaway girl",
+        "url": "https://open.spotify.com/album/5ngKBXTdzNKq4z5TRHfON8"
+      },
+      "artists": [
+        {
+          "name": "STM",
+          "url": "https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163632,
+      "name": "runaway girl",
+      "url": "https://open.spotify.com/track/2lP4HXZCxBEk4pu4dv0P8f"
+    },
+    {
+      "album": {
         "name": "Saffron Forest",
         "url": "https://open.spotify.com/album/1QpH5JonzT9UItDV3WyJCM"
       },
@@ -3404,7 +3462,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 140740,
       "name": "sakura rokujo",
       "url": "https://open.spotify.com/track/7ARs2Nw0Qt2zlBU07ie7Ep"
@@ -3698,7 +3756,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 130457,
       "name": "so nice of you",
       "url": "https://open.spotify.com/track/0kvJIoVCamQAYrd0CL2lyD"
@@ -4096,6 +4154,28 @@
       "duration_ms": 81687,
       "name": "uhh p2.",
       "url": "https://open.spotify.com/track/0zdq7gjKevgTyG470OL9fB"
+    },
+    {
+      "album": {
+        "name": "ULTRA INSTINCT (w/ kets4eki)",
+        "url": "https://open.spotify.com/album/4VlYotfJ2aC2E0Px7lKUoT"
+      },
+      "artists": [
+        {
+          "name": "asteria",
+          "url": "https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9"
+        },
+        {
+          "name": "kets4eki",
+          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119794,
+      "name": "ULTRA INSTINCT (w/ kets4eki)",
+      "url": "https://open.spotify.com/track/3UXCy97AkTZ3LpthG82uXz"
     },
     {
       "album": {

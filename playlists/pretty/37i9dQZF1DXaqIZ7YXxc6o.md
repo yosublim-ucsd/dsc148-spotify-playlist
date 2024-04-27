@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Dimension, Alison Wonderland
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,167 likes - 99 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,216 likes - 99 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 98 | [Ode to Ancestors](https://open.spotify.com/track/4zonTpJqa47k7H1bixSynG) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Djimon Hounsou](https://open.spotify.com/artist/6hoEOl9IznIMCpG5fyUS09) | [Ode to Ancestors](https://open.spotify.com/album/6MHFQVdL7DgdY3tMN0Othu) | 5:53 |
 | 99 | [H.O.T.](https://open.spotify.com/track/4ARDoNfzkclZOONnsXnEtB) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [HARDC0RE DR3AMZ](https://open.spotify.com/album/13d9lBpUjqyGa1fE4FgcyD) | 2:35 |
 
-Snapshot ID: `MTcxNDA1MzYwMCwwMDAwMDAwMDEzMDUxNzBhMDNmN2RjMjlhOGZjZjkwODZjMTQyNGQx`
+Snapshot ID: `MTcxNDEyNDc0NSwwMDAwMDAwMDdmMDc3YWU4N2E0YTAzYzVjNzQxNjA0MzBiNGIzYmJh`

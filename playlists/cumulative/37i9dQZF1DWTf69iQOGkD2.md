@@ -4,7 +4,7 @@
 
 > Sinta o flow do rap em estilo acústico ou romântico\. Foto: Azzy, Luiz Lins, MC Cabelinho, Slipmami, Mc Poze do Rodo, Chefin, Oruam, MC Hariel, JayA Luuck
 
-218 songs - 13 hr 45 min
+219 songs - 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Coisas Da Vida](https://open.spotify.com/track/29zzxkL41uX2PWVC2CA7HO) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Coisas Da Vida](https://open.spotify.com/album/2u2yQo4rDRDqRCk7eEbaAm) | 2:51 | 2023-09-29 | 2023-11-18 |
 | [Colecionador de ilusão](https://open.spotify.com/track/1mZ5TKdEHnvoikySj0TeE3) | [Cave](https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7), [Liink](https://open.spotify.com/artist/6XAaynGctovNbHNyGohYkA) | [Duas Vezes Melhor \(Session\)](https://open.spotify.com/album/07jccOrExTeXRc44Rj6xZ6) | 3:27 | 2022-07-01 | 2022-07-09 |
 | [Contratei o Tempo](https://open.spotify.com/track/1NHafgaylnQjnnEhyJbqdz) | [Katari SC](https://open.spotify.com/artist/0hmC5uzgar1mR5E5dqeSjm), [Doodex](https://open.spotify.com/artist/0mosiC3wRtekSkMSEuKcSz), [Pena](https://open.spotify.com/artist/2l5klhDlUOtuM0DuvYOgva) | [Contratei o Tempo](https://open.spotify.com/album/5KTiTNaCP6cZjwxlgMf4v0) | 3:36 | 2022-03-18 |  |
+| [Destino](https://open.spotify.com/track/1tAcAD6c8HiMWDoHyUutHd) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [Destino](https://open.spotify.com/album/2XqCSflbr8XImRRevu2Bpp) | 2:39 | 2024-04-26 |  |
 | [Detalhes](https://open.spotify.com/track/3mHbUXh4pi4yy9gWHqV8bW) | [Igão Santi](https://open.spotify.com/artist/2xZhKkCpZq4YtbvNwhxBID), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM), [uzzn](https://open.spotify.com/artist/67MmjOmWtHtGANmzJlnvAC) | [Detalhes](https://open.spotify.com/album/6KSoeosLCvFYQfo6XUAKzd) | 1:55 | 2022-10-28 | 2023-04-29 |
 | [Djavandalo](https://open.spotify.com/track/1L3KLeXqP4F4Qtt465Crl9) | [Young Ganni](https://open.spotify.com/artist/1Hm3uKt8JXy3dnxIFfJUog), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj) | [O Fantástico Mundo de Ganni](https://open.spotify.com/album/538I6tmaZtHvRMQDpaNLIC) | 2:53 | 2024-04-05 | 2024-04-19 |
 | [Djavandalo](https://open.spotify.com/track/21dWCeXNoS8H0aDvOcqqer) | [Young Ganni](https://open.spotify.com/artist/1Hm3uKt8JXy3dnxIFfJUog), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj) | [O Fantástico Mundo de Ganni](https://open.spotify.com/album/6Tfl3UdZrUm14cGFPRIteI) | 2:53 | 2024-03-29 |  |

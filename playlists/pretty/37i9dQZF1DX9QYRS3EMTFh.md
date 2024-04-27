@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall du moment\. Photo : Jahyanai X DJ Quick
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,683 likes - 40 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,719 likes - 40 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,11 +17,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 7 | [Hit & Run \(feat\. Masicka & Di Genius\)](https://open.spotify.com/track/7hgY5a1FNiChuxoSZDyaMs) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [Di Genius](https://open.spotify.com/artist/08erObvNX7rs7d4pbuaRCQ) | [Hit & Run \(feat\. Masicka & Di Genius\)](https://open.spotify.com/album/3vbNkltSdpHgFNwC9QB2dl) | 2:49 |
 | 8 | [PROTOCOLE \- A COLORS SHOW](https://open.spotify.com/track/2wzrkGLKgMbkRYRw8bo0HX) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [PROTOCOLE \- A COLORS SHOW](https://open.spotify.com/album/67fxAS0referLXN4dJlKr3) | 2:57 |
 | 9 | [Bubble Up !](https://open.spotify.com/track/46ocF46SQZ1W0Nt3b5qnyc) | [DJ Mike One](https://open.spotify.com/artist/6iRCChjWCj187y6iBQVwhd), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd), [T\-Matt](https://open.spotify.com/artist/4TBNXLrjYTkQKZ88FFU2cm) | [Bubble Up !](https://open.spotify.com/album/7dlETfhOIDydsAnR8QBbfu) | 3:26 |
-| 10 | [Pum Fat](https://open.spotify.com/track/22woBfokG4WRalwDO5wlKh) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [Pum Fat](https://open.spotify.com/album/2op5l53glUAbULyN4YulfW) | 2:23 |
-| 11 | [Bubble It](https://open.spotify.com/track/6CeQc09T44QnRAtLrspPaX) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8), [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD), [Dj Lub's](https://open.spotify.com/artist/1aZt6Dd236InaXbBMB0soh) | [Bubble It](https://open.spotify.com/album/4GhGKI1VlGiWV3oORBIrmC) | 3:08 |
-| 12 | [Minimum](https://open.spotify.com/track/57Z4G1fZ5GDEbmhrQFQWRA) | [Dj Leska](https://open.spotify.com/artist/6CSKMBCeQhddsPL63zvDhX), [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7) | [Minimum](https://open.spotify.com/album/3cgzvN00LkYhzufUpDjIA6) | 2:30 |
-| 13 | [Drift \(Remix\)](https://open.spotify.com/track/1CNquhNCNiX6le62xuq23D) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Drift \(Remix\)](https://open.spotify.com/album/5fJIM0swYvPJq8Pru6Aa7i) | 3:21 |
-| 14 | [\#Ofcourse](https://open.spotify.com/track/0Drfj8Up1EMkQIK216sL1a) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [\#Ofcourse](https://open.spotify.com/album/2CRRoL9ytm1OHo886HJLPj) | 3:19 |
+| 10 | [Bubble It](https://open.spotify.com/track/6CeQc09T44QnRAtLrspPaX) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8), [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD), [Dj Lub's](https://open.spotify.com/artist/1aZt6Dd236InaXbBMB0soh) | [Bubble It](https://open.spotify.com/album/4GhGKI1VlGiWV3oORBIrmC) | 3:08 |
+| 11 | [Minimum](https://open.spotify.com/track/57Z4G1fZ5GDEbmhrQFQWRA) | [Dj Leska](https://open.spotify.com/artist/6CSKMBCeQhddsPL63zvDhX), [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7) | [Minimum](https://open.spotify.com/album/3cgzvN00LkYhzufUpDjIA6) | 2:30 |
+| 12 | [Drift \(Remix\)](https://open.spotify.com/track/1CNquhNCNiX6le62xuq23D) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Drift \(Remix\)](https://open.spotify.com/album/5fJIM0swYvPJq8Pru6Aa7i) | 3:21 |
+| 13 | [\#Ofcourse](https://open.spotify.com/track/0Drfj8Up1EMkQIK216sL1a) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [\#Ofcourse](https://open.spotify.com/album/2CRRoL9ytm1OHo886HJLPj) | 3:19 |
+| 14 | [Pum Fat](https://open.spotify.com/track/22woBfokG4WRalwDO5wlKh) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [Pum Fat](https://open.spotify.com/album/2op5l53glUAbULyN4YulfW) | 2:23 |
 | 15 | [BIGIDI](https://open.spotify.com/track/3I5dTcbcu4hpYoffPLbbIt) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [DJ Tutuss](https://open.spotify.com/artist/2SkBnjiSVe0sC24id8iuWv) | [BIGIDI](https://open.spotify.com/album/2nM9YvKLjuY3EdoLp7EAu7) | 1:28 |
 | 16 | [MI MAS LA \- Karata](https://open.spotify.com/track/31xmZLEMq7hSGqaoelv9jJ) | [Riddla](https://open.spotify.com/artist/5rU6NmQJvybdDzbmtKYvYw), [Mas Ka Klé](https://open.spotify.com/artist/6D0khW9GeCCJ1VBU4tlRbo) | [MI MAS LA \(Karata\)](https://open.spotify.com/album/18S8x5HKpnLVE2muRlMPvM) | 2:13 |
 | 17 | [Basshall Session \#3](https://open.spotify.com/track/1A9C5UhP7LocWVO5ycWsLb) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD), [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x), [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8) | [Basshall Session \#3](https://open.spotify.com/album/5VUd2RpxoXyxGehYhO7AVn) | 2:34 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 39 | [Himeros \(feat\. Bamby\)](https://open.spotify.com/track/327nnaX3FQ1VySeHzed1jQ) | [Mallaury](https://open.spotify.com/artist/0zfnSBlLA4HJshaxPu2zPV), [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6) | [Love 66](https://open.spotify.com/album/0hWOhFM6XiZl9HDFNUAdKE) | 2:53 |
 | 40 | [PAPA](https://open.spotify.com/track/7aQWrIsNNLXTO2BS5GoJfE) | [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8) | [PAPA](https://open.spotify.com/album/2s1k5Xgidmo3UdJc7jYdCl) | 3:36 |
 
-Snapshot ID: `MTcxNDA4MjQwMCwwMDAwMDAwMGQwYjE3M2IzYjFhNGZjZDBmNmVmNTM0OTZlYzQ0NzAz`
+Snapshot ID: `MTcxNDEzNjQwMywwMDAwMDAwMDUwYjcyZWIwNTJkZmFkYWZmODc5MGNlZmNlNzFjZjUz`

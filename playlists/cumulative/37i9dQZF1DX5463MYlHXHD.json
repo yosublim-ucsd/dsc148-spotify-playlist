@@ -46,7 +46,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 161000,
       "name": "38",
       "url": "https://open.spotify.com/track/4My1ij0QUaZrojxzkV0OEx"
@@ -801,6 +801,28 @@
     },
     {
       "album": {
+        "name": "Codigo",
+        "url": "https://open.spotify.com/album/1FSitwun1kcM4zkzK2Mb2E"
+      },
+      "artists": [
+        {
+          "name": "Altos Cumbieros",
+          "url": "https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM"
+        },
+        {
+          "name": "Tu Fazo",
+          "url": "https://open.spotify.com/artist/6h8CUG3qZ99mucXhdMgPfg"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155625,
+      "name": "Codigo",
+      "url": "https://open.spotify.com/track/2sor9DBSVbqrKwNqCdPFD5"
+    },
+    {
+      "album": {
         "name": "Volando Alto",
         "url": "https://open.spotify.com/album/0aXuxTB6LV41ocKLn6Tx0k"
       },
@@ -952,6 +974,44 @@
       "duration_ms": 120520,
       "name": "Corte Caco",
       "url": "https://open.spotify.com/track/1bST5OPPEuBY8bSpgEQKx3"
+    },
+    {
+      "album": {
+        "name": "Corte Caco (feat. R JOTA, Pushi & Obie Wanshot) [Remix]",
+        "url": "https://open.spotify.com/album/3WpkI8y48aGBQ5zz9t6phN"
+      },
+      "artists": [
+        {
+          "name": "Nuke",
+          "url": "https://open.spotify.com/artist/7h7LjA71LfeSKizl1Vrevu"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "Papichamp",
+          "url": "https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW"
+        },
+        {
+          "name": "R Jota",
+          "url": "https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi"
+        },
+        {
+          "name": "Pushi",
+          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
+        },
+        {
+          "name": "Obie Wanshot",
+          "url": "https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214020,
+      "name": "Corte Caco (feat. R JOTA, Pushi & Obie Wanshot) - Remix",
+      "url": "https://open.spotify.com/track/2ijnr0x5lJwiawhVEfoeu3"
     },
     {
       "album": {
@@ -1120,6 +1180,24 @@
       "duration_ms": 187173,
       "name": "Cumbia Villera",
       "url": "https://open.spotify.com/track/41Urh8nS7ZBnVuOsazuHfE"
+    },
+    {
+      "album": {
+        "name": "Cumbia Villera: Mira Como Esta la Vagancia / Berretines de Verduga / Llegamos Los Pibes Chorros / Alza Las Manos / Alma Blanca / Grupera Vos Sos / Sentate en el Pelado / La Pikadura / Andrea / La Resaka / Ya Lleg\u00f3 / El Cumple de tu Hermana",
+        "url": "https://open.spotify.com/album/2lZwiyOBOnIgOHbJAs2b4A"
+      },
+      "artists": [
+        {
+          "name": "Nico Vallorani DJ",
+          "url": "https://open.spotify.com/artist/2ebw2UvIeAWFGykGkXEyfx"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1992542,
+      "name": "Cumbia Villera: Mira Como Esta la Vagancia / Berretines de Verduga / Llegamos Los Pibes Chorros / Alza Las Manos / Alma Blanca / Grupera Vos Sos / Sentate en el Pelado / La Pikadura / Andrea",
+      "url": "https://open.spotify.com/track/4q3x2QSfOMslKiXwL7eVe9"
     },
     {
       "album": {
@@ -3048,7 +3126,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 202360,
       "name": "Ma\u00f1ana Qu\u00e9 Haremos",
       "url": "https://open.spotify.com/track/3cimZHGwkt26PPWTj5Hvi7"
@@ -3486,7 +3564,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 232133,
       "name": "Nunca Sabr\u00e1s",
       "url": "https://open.spotify.com/track/0K1TgLwxIp21a10kpIaBPw"

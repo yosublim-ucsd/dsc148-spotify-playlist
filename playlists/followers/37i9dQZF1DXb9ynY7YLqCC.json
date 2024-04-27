@@ -1,5 +1,5 @@
 {
-  "2024-04-26": 168888,
+  "2024-04-27": 168913,
   "date_first_scraped": "2022-06-30",
   "description": "Canciones directas y banderas al viento. Foto: La 25.",
   "name": "Rock Barrial",
@@ -2534,6 +2534,24 @@
     },
     {
       "album": {
+        "name": "Siempre Original",
+        "url": "https://open.spotify.com/album/0WbNHKbPfRhV2OFbHzbOLR"
+      },
+      "artists": [
+        {
+          "name": "El Bordo",
+          "url": "https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221593,
+      "name": "Siempre Original",
+      "url": "https://open.spotify.com/track/2MMZSjxnqveB0is7N6JU4h"
+    },
+    {
+      "album": {
         "name": "Girando",
         "url": "https://open.spotify.com/album/5uXPldCWi4gWWQRkbT0m5B"
       },
@@ -2941,7 +2959,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 307386,
       "name": "Triste Canci\u00f3n De Amor",
       "url": "https://open.spotify.com/track/0LTPPsp9xmM92ZT6pGvsrz"

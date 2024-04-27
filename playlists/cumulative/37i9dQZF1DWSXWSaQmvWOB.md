@@ -4,7 +4,7 @@
 
 > New soul\-infused music every week! Cover: Joya Mooi
 
-870 songs - 2 day 5 hr 17 min
+872 songs - 2 day 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Compromise](https://open.spotify.com/track/2AmHr7dwgdScxcufpT9IGS) | [Calundé](https://open.spotify.com/artist/4cNiCiyVjl5qDdJYqiuxxX) | [Compromise](https://open.spotify.com/album/6hTEaFkI5nlsKZTu6PhDZb) | 4:06 | 2021-05-21 | 2022-07-23 |
 | [Concorde](https://open.spotify.com/track/1SJGHveCOfrS364qHbBAS8) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Concorde](https://open.spotify.com/album/15RONh5tqAmMlvUVwfxqti) | 3:54 | 2020-08-25 | 2020-12-11 |
 | [Consider Me](https://open.spotify.com/track/6teOha7bnsAlYIdXQuXA1o) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Building Balance](https://open.spotify.com/album/7o0PzwnZXAyq3LtvV2JE2x) | 3:04 | 2020-03-25\* | 2020-03-27 |
+| [Coyote, You're My Star](https://open.spotify.com/track/2tZ4GQajl2yetk2EA8SvMW) | [Dana and Alden](https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr) | [Coyote, You're My Star](https://open.spotify.com/album/61wuHnPthO5vApg52y9n30) | 2:05 | 2024-04-26 |  |
 | [Crazy](https://open.spotify.com/track/1KxO3MDB1mNUm4AHvxeRPF) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Crazy](https://open.spotify.com/album/2IUqvXtUJG23ozaIffSr28) | 3:15 | 2023-08-23 | 2024-04-11 |
 | [Crazy For You](https://open.spotify.com/track/1sRLsk8xQJA3dQPu6iglM7) | [Conor Hughes](https://open.spotify.com/artist/7uVGtNmhKU2sOSmAvr4ElW) | [Crazy For You](https://open.spotify.com/album/6kiv0BqEcRjmm7Ef4JYWKd) | 2:46 | 2023-07-10 | 2024-02-10 |
 | [Crazy Good](https://open.spotify.com/track/6IpcrQBDNQqDzt0mFiGc7J) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL), [Roxanne](https://open.spotify.com/artist/5mGFb7wCIvqKWya2ePJQ7c) | [Crazy Good](https://open.spotify.com/album/4NsjoSNnHOpS1EKy3KYJX3) | 3:51 | 2020-07-03 | 2021-09-24 |
@@ -418,6 +419,7 @@
 | [Let Love Run These Streets](https://open.spotify.com/track/4anLBhGgGT9KlAJHxhS6cU) | [Liquid Spirits](https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ) | [Let Love Run These Streets](https://open.spotify.com/album/1apNIF5a3LAqGohQze9Pmg) | 5:01 | 2022-03-10 | 2023-04-13 |
 | [Let Me Drink \(feat\. The Hamiltones & Wale\)](https://open.spotify.com/track/3cnrKJa5rMLh95O2pOYD4O) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci), [The HamilTones](https://open.spotify.com/artist/1Nj9dLuiwh4DHn8AIkQyqs), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Let Me Drink \(feat\. The Hamiltones & Wale\)](https://open.spotify.com/album/5f5NH8JVkmbKLgurCgViHH) | 2:38 | 2020-03-25\* | 2020-04-24 |
 | [Let Me Fly](https://open.spotify.com/track/46fZ6nVYwjsdeRYTV0hXgU) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Let Me Fly](https://open.spotify.com/album/5Z2tmrBgXkWWHb2UvF868r) | 2:42 | 2020-03-25\* | 2020-04-12 |
+| [Let You Go](https://open.spotify.com/track/7a6zCrX08XWisZXGj3sMEf) | [Joseph Lawrence](https://open.spotify.com/artist/69XFaEPeBh41fbWxQMD8X4) | [Let You Go](https://open.spotify.com/album/31Lq73n7sxinFMFak3zqZT) | 2:44 | 2024-04-26 |  |
 | [Let's Take a Walk](https://open.spotify.com/track/7izNjJmJNskhSEFGMUacfl) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [The Way I See It](https://open.spotify.com/album/4pZGQstlWtYIPjDMX79HDB) | 2:28 | 2023-06-07 | 2023-07-11 |
 | [Letter 2 U](https://open.spotify.com/track/6vztLRlDjURphQVkyxqix9) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Judas and the Black Messiah: The Inspired Album](https://open.spotify.com/album/0f0XZWfp7I1awuU40IPGGz) | 3:05 | 2021-02-12 | 2021-04-17 |
 | [LIA](https://open.spotify.com/track/4igMWltZhzr97iuC8YwJPk) | [Tom Bailey](https://open.spotify.com/artist/2oazmaA42Jf78TZeTsUIDU) | [LIA](https://open.spotify.com/album/0Om8IQImnBm0g7SGKMfn3m) | 3:38 | 2020-08-25 | 2021-07-10 |

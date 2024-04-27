@@ -4,7 +4,7 @@
 
 > The jam scene is alive and well\. Cover: SunSquabi
 
-188 songs - 17 hr 41 min
+190 songs - 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Burning the Hardwood Floor \(Live\)](https://open.spotify.com/track/1zgPMQXv5YtUUn5GA3njWj) | [Airshow](https://open.spotify.com/artist/2USLUiPGlv1amJy3gUszGw) | [Live 02.05.22 \(High Cotton Brewing Company \- Memphis, TN\)](https://open.spotify.com/album/068pAkEPmPbbaSTCfN8tef) | 8:49 | 2022-09-16 |  |
 | [Can't Cut the Mustard](https://open.spotify.com/track/7BUnS98zgtwP45KSpT3C61) | [Baked Shrimp](https://open.spotify.com/artist/42xD9vzGvjNWAOwBa8eFk1) | [Baked Shrimp](https://open.spotify.com/album/54drhsF5JtrFOcaxlCshsa) | 3:46 | 2024-01-12 |  |
 | [Chapanga](https://open.spotify.com/track/4h2SJ0PCKNa6y02KofNSIm) | [Cycles](https://open.spotify.com/artist/3VqGpoIhVcMCzMmIDHXPDS) | [Cycles](https://open.spotify.com/album/1XmsC5vZ8s9kLp0RqYHN3y) | 5:41 | 2022-06-23 |  |
-| [Checkin' Out](https://open.spotify.com/track/7nMaNXGmnMW4Xr9MokbWAS) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [Checkin' Out](https://open.spotify.com/album/7iwG1bDdGhmbiD5GHqDGCx) | 3:52 | 2024-03-29 |  |
+| [Checkin' Out](https://open.spotify.com/track/7nMaNXGmnMW4Xr9MokbWAS) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [Checkin' Out](https://open.spotify.com/album/7iwG1bDdGhmbiD5GHqDGCx) | 3:52 | 2024-03-29 | 2024-04-27 |
 | [Chop Suey](https://open.spotify.com/track/52D0hGXHrME17EQhCtYPn6) | [Baked Shrimp](https://open.spotify.com/artist/42xD9vzGvjNWAOwBa8eFk1) | [Chop Suey](https://open.spotify.com/album/7LZCNMm7U6K6NqX3P4ypQm) | 6:39 | 2023-06-30 | 2024-01-13 |
 | [Cloudburst](https://open.spotify.com/track/1cs7HeOLNf8phc48xpWScr) | [SunSquabi](https://open.spotify.com/artist/1CLLPNftraxuTDyTd6hn3J) | [Cloudburst](https://open.spotify.com/album/2C9CLWDwGcYV0eQoPGxKZJ) | 3:39 | 2024-03-08 |  |
 | [Colorado](https://open.spotify.com/track/4p1d0mR5Fc8jObB91e3iMv) | [Lotus ](https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk) | [Nomad](https://open.spotify.com/album/0lTdz5ebFKF06UI9SYoOEh) | 5:06 | 2022-06-23 |  |
@@ -94,6 +94,7 @@
 | [Just A Little](https://open.spotify.com/track/4Z8qmRtrwLynVX4GMlUmjM) | [SunSquabi](https://open.spotify.com/artist/1CLLPNftraxuTDyTd6hn3J) | [Just a Little](https://open.spotify.com/album/1TqY6YxFZdVqwReNRDyEo7) | 6:10 | 2022-06-23 | 2024-02-03 |
 | [Just Music](https://open.spotify.com/track/4Ixf4fxQiHDcUNgK2KtDXY) | [Marbin](https://open.spotify.com/artist/3bbmbyiX3lqrAjlwFgZE16) | [Just Music](https://open.spotify.com/album/7EB6VqMWgy5CVXMqOVvDGG) | 6:22 | 2023-04-07 | 2024-02-24 |
 | [Kangaroo](https://open.spotify.com/track/2iRud7yNC2yYGVFyl8ik0b) | [The Big Wu](https://open.spotify.com/artist/2IQLjVQHKnzSQAVAkeCcQ0) | [Tracking Buffalo Through the Bathtub](https://open.spotify.com/album/6pEnxOBIV3UGzmH7W0JOFx) | 4:05 | 2022-06-23 |  |
+| [Keep Dreaming](https://open.spotify.com/track/4XQWGTjlBLQvfqfjRAgXnA) | [The Moon City Masters](https://open.spotify.com/artist/5ds1ng1NKpr4Bv0VbgHyAr) | [Keep Dreaming](https://open.spotify.com/album/1RnnEOalfBnLlOXVmBP6aQ) | 4:21 | 2024-04-26 |  |
 | [Keep Your Hands to Yourself](https://open.spotify.com/track/32fEIMGIvlJhlw8HMiCdjh) | [Ghost Light](https://open.spotify.com/artist/2daxH6yPiKVTF0CtQ6XWOe) | [Best Kept Secrets](https://open.spotify.com/album/3gEFsGzKi28JJpyGiS0o5s) | 4:19 | 2022-06-23 | 2023-06-24 |
 | [Kinetic Bump](https://open.spotify.com/track/54gS8v9fTUVOK9xsFgAeOt) | [The Mantras](https://open.spotify.com/artist/72H4GGWlWYkqZlNdkmX2Ji) | [Jambands Ruined My Life](https://open.spotify.com/album/4F9i2AtLXhnfSPCuNcOjqU) | 6:15 | 2022-06-23 |  |
 | [Kitty Chaser \(Explosions\)](https://open.spotify.com/track/31prZotiPV46jh06xCTop4) | [Aqueous](https://open.spotify.com/artist/74d8upOdwQZyoDGXWEguMn) | [Cycles](https://open.spotify.com/album/2Q4TCChrfQOSkHoOj3bce1) | 9:39 | 2022-06-23 | 2023-06-24 |
@@ -112,6 +113,7 @@
 | [Madman's Eyes](https://open.spotify.com/track/3f9SxWf7WYKaYywYYejfk1) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Madman's Eyes](https://open.spotify.com/album/1Y8TRP3ChXq8q45QT65ecf) | 4:48 | 2023-01-27 | 2023-05-20 |
 | [Make That Booty Clap \(Must Be Jelly\)](https://open.spotify.com/track/0uzRJgu1yEtDgzffzo4PyN) | [Taylor Scott Band](https://open.spotify.com/artist/5XVKB8kFnLX5NLNMEwvIBe) | [Sorry, Kids](https://open.spotify.com/album/2RkP7plWT7JDYYNnoINWJp) | 4:19 | 2024-04-19 |  |
 | [Mcmansion](https://open.spotify.com/track/3bFDEWT2lFhBMM6cxcBEGY) | [The Trichomes](https://open.spotify.com/artist/0Z7aFWvcTx8NhWRUfTInfz) | [Jazz Cabbage Soiree](https://open.spotify.com/album/1eBGpVUNZptUK32L7YG2XO) | 7:51 | 2022-06-23 |  |
+| [Mister Funky Daddy](https://open.spotify.com/track/0ZShF0uFfkoQThIySmDd5l) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [Mister Funky Daddy](https://open.spotify.com/album/1n3DXIyRmvuv5RQ7G4EhdF) | 2:29 | 2024-04-26 |  |
 | [Mokuba](https://open.spotify.com/track/58Ge6PmTc9PfP0mK5GC8Mk) | [TAUK](https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O) | [Collisions](https://open.spotify.com/album/0Hzx5qahFYpoxFlNz0iHrK) | 5:27 | 2022-06-23 |  |
 | [Mountain Song](https://open.spotify.com/track/03onfUgdnPT4p2XoxUdH95) | [Space Owl](https://open.spotify.com/artist/5BSAR7n5jEDO6XUBodH7qG), [Ari Joshua](https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV), [Bob Lovelace](https://open.spotify.com/artist/6VFjf95afawayBKTfJFkyT), [John Ewing](https://open.spotify.com/artist/2LpxqQxZZQyq6Ycp9t1HJf), [David Appelbaum](https://open.spotify.com/artist/65sIM68yHAbuFn8cZztqnP) | [Mountain Song](https://open.spotify.com/album/4A4ovKPnaakHcRxksFMFMi) | 6:56 | 2023-06-23 |  |
 | [Movin On](https://open.spotify.com/track/12Ba6mKHtXygjTcUp4aGfH) | [Mungion](https://open.spotify.com/artist/4qIgyXFMEaFl3HmABtjNfK) | [Movin On](https://open.spotify.com/album/7BsxRZOWTBTevA6Pm0JmQy) | 6:18 | 2023-03-31 | 2023-07-08 |
@@ -150,7 +152,7 @@
 | [Stacy's on the Lake](https://open.spotify.com/track/5aM41a1nAdLaYMj2roH4vu) | [Cbdb](https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr) | [Phone.Keys.Wallet](https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4) | 2:19 | 2022-06-23 | 2023-04-01 |
 | [Staircase](https://open.spotify.com/track/4L5BJVlGVFCnd79kRxo2lH) | [Umphrey's McGee](https://open.spotify.com/artist/7mQilAy42MqNPqUFqK4Z0o) | [Staircase](https://open.spotify.com/album/1kTFnkAx4RVkjuh1rNtWFD) | 4:30 | 2023-02-17 |  |
 | [Stuck in Between](https://open.spotify.com/track/2OX0jfmSfFFIk9rFTzivZU) | [Chalk Dinosaur](https://open.spotify.com/artist/0nGLnZVTm8IXRb83Rarg6C) | [Stuck in Between](https://open.spotify.com/album/1NZ2SrbhnuY6jLKoq1MU5Z) | 5:53 | 2023-04-21 |  |
-| [Stuck On You](https://open.spotify.com/track/2eqVjqpmCjB904Cw2cUPLe) | [The Moon City Masters](https://open.spotify.com/artist/5ds1ng1NKpr4Bv0VbgHyAr) | [Stuck On You](https://open.spotify.com/album/5piDzyf0KFonTHK3vrl8k5) | 3:33 | 2024-02-02 |  |
+| [Stuck On You](https://open.spotify.com/track/2eqVjqpmCjB904Cw2cUPLe) | [The Moon City Masters](https://open.spotify.com/artist/5ds1ng1NKpr4Bv0VbgHyAr) | [Stuck On You](https://open.spotify.com/album/5piDzyf0KFonTHK3vrl8k5) | 3:33 | 2024-02-02 | 2024-04-27 |
 | [Sweater Weather](https://open.spotify.com/track/67PW34NuiTcwvLJzTHJF5k) | [Desmond Jones](https://open.spotify.com/artist/0UU2zglZ7Rk4v2FIY9OMOv) | [Rays of Light and Stardust](https://open.spotify.com/album/4ILXLVxldlo4VkvJNQz09S) | 3:49 | 2022-09-09 |  |
 | [Sweet Spot](https://open.spotify.com/track/5pFjXpxLqr2xJQerNiC4dy) | [The String Cheese Incident](https://open.spotify.com/artist/7N3JfLDzzjXdPbsyco7X0l) | [Believe](https://open.spotify.com/album/1ugwsDgtIFbpiAV3pg1M91) | 5:04 | 2022-06-23 | 2023-06-10 |
 | [Swim](https://open.spotify.com/track/4llsHJDnZvnzi9OLUcPIJV) | [Tand](https://open.spotify.com/artist/6VC6mZuswk6M1p7AJKFdh6) | [Swim](https://open.spotify.com/album/12zUy7CLj75dH3hk8WHXKj) | 7:27 | 2023-06-16 |  |

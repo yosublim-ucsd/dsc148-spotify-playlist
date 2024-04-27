@@ -1,13 +1,33 @@
 {
   "description": "Come, lets take a soulful journey through rhythmic grooves",
-  "num_followers": 2575,
+  "num_followers": 2584,
   "original_name": "Alternative Avenue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjkyNTEwNiwwMDAwMDAwMDI5NzMzNGU2NDI0NmY3YzU0ZjllMjM3NmNhYWI1NzZk",
+  "snapshot_id": "MTcxNDExMzk0MiwwMDAwMDAwMGZhYzFmMGQyZTZlYjE0MWIwMjA4NzgxMTM5MmM0MmYz",
   "tracks": [
+    {
+      "added_at": "2024-04-26 06:45:42",
+      "album": {
+        "name": "Echoes of Farewell",
+        "url": "https://open.spotify.com/album/744YhwL1S9OvtUY6QkAPPc"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Elani Boshoff",
+          "url": "https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9"
+        }
+      ],
+      "duration_ms": 169375,
+      "name": "You're Gone",
+      "url": "https://open.spotify.com/track/7AU8HVGvd3Jua9oLVSUgE1"
+    },
     {
       "added_at": "2024-04-12 12:31:46",
       "album": {
@@ -23,26 +43,6 @@
       "duration_ms": 129473,
       "name": "gin and wine (ginuwine)",
       "url": "https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI"
-    },
-    {
-      "added_at": "2024-04-12 12:31:46",
-      "album": {
-        "name": "It's You",
-        "url": "https://open.spotify.com/album/5DbTBskBpsHoO8MCaP3ubM"
-      },
-      "artists": [
-        {
-          "name": "M. Rumbi",
-          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
-        },
-        {
-          "name": "Andyah",
-          "url": "https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX"
-        }
-      ],
-      "duration_ms": 154937,
-      "name": "It's You",
-      "url": "https://open.spotify.com/track/7pr7HuG2oWV4AhvM4SDbsW"
     },
     {
       "added_at": "2024-04-12 12:31:46",
@@ -105,10 +105,10 @@
       "url": "https://open.spotify.com/track/18toFZCoROJwVUj9MJ1xnd"
     },
     {
-      "added_at": "2024-04-12 12:31:46",
+      "added_at": "2024-04-26 06:45:42",
       "album": {
-        "name": "Khartoum",
-        "url": "https://open.spotify.com/album/1YOKyxfaTIT5rFF8uooQS1"
+        "name": "Mombasa's Lover Boy",
+        "url": "https://open.spotify.com/album/3dCGhikw2kksr8OMi9HPft"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN"
         }
       ],
-      "duration_ms": 211947,
-      "name": "Khartoum",
-      "url": "https://open.spotify.com/track/1Kuz7MiQz9rUPVt5ggCMJ7"
+      "duration_ms": 150673,
+      "name": "Another Man",
+      "url": "https://open.spotify.com/track/0W1MXhgqSfscPkvz2ESYHs"
     },
     {
       "added_at": "2024-04-12 12:31:46",
@@ -291,6 +291,22 @@
     {
       "added_at": "2024-04-12 12:31:46",
       "album": {
+        "name": "Khartoum",
+        "url": "https://open.spotify.com/album/1YOKyxfaTIT5rFF8uooQS1"
+      },
+      "artists": [
+        {
+          "name": "Caleb Awiti",
+          "url": "https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN"
+        }
+      ],
+      "duration_ms": 211947,
+      "name": "Khartoum",
+      "url": "https://open.spotify.com/track/1Kuz7MiQz9rUPVt5ggCMJ7"
+    },
+    {
+      "added_at": "2024-04-12 12:31:46",
+      "album": {
         "name": "NYDFRYSTL",
         "url": "https://open.spotify.com/album/6bOHLndOBTAl9lfmTPWR4I"
       },
@@ -412,8 +428,8 @@
       },
       "artists": [
         {
-          "name": "Ethan",
-          "url": "https://open.spotify.com/artist/16VZMbA7y5gwrxNG0q3wC1"
+          "name": "Kethan",
+          "url": "https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh"
         }
       ],
       "duration_ms": 198620,
@@ -527,6 +543,26 @@
       "duration_ms": 168000,
       "name": "Three Little Birds",
       "url": "https://open.spotify.com/track/7vGO9525GQZMGfc6qEY6BZ"
+    },
+    {
+      "added_at": "2024-04-12 12:31:46",
+      "album": {
+        "name": "It's You",
+        "url": "https://open.spotify.com/album/5DbTBskBpsHoO8MCaP3ubM"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Andyah",
+          "url": "https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX"
+        }
+      ],
+      "duration_ms": 154937,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/7pr7HuG2oWV4AhvM4SDbsW"
     },
     {
       "added_at": "2024-04-12 12:31:46",
@@ -723,34 +759,6 @@
     {
       "added_at": "2024-04-12 12:31:46",
       "album": {
-        "name": "Just Another She (Remix)",
-        "url": "https://open.spotify.com/album/7Bgei9RjJqWYyOr1iK3Ow1"
-      },
-      "artists": [
-        {
-          "name": "M. Rumbi",
-          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
-        },
-        {
-          "name": "BasicCity",
-          "url": "https://open.spotify.com/artist/6sBa5SlBIv8SOvupaE3gBY"
-        },
-        {
-          "name": "Monique Burger",
-          "url": "https://open.spotify.com/artist/3GOf6SKBeQM7EQvRtSrBDQ"
-        },
-        {
-          "name": "Thewrathofsponge",
-          "url": "https://open.spotify.com/artist/7Hoj9MRu3nFiYfbWy3Reot"
-        }
-      ],
-      "duration_ms": 201451,
-      "name": "Just Another She - Remix",
-      "url": "https://open.spotify.com/track/6UyYrCjFdisFwd0ryUr24g"
-    },
-    {
-      "added_at": "2024-04-12 12:31:46",
-      "album": {
         "name": "Asali",
         "url": "https://open.spotify.com/album/0fe0T3nNaWpMcdOr4ss9bw"
       },
@@ -855,22 +863,6 @@
       "duration_ms": 176703,
       "name": "Spend My Money",
       "url": "https://open.spotify.com/track/23QGS3cR9tRLOmJ2iY8pN2"
-    },
-    {
-      "added_at": "2024-04-12 12:31:46",
-      "album": {
-        "name": "Mwanga We Wajua",
-        "url": "https://open.spotify.com/album/34iOJa2njy5Ym74bpxLeVl"
-      },
-      "artists": [
-        {
-          "name": "Hope Hajir",
-          "url": "https://open.spotify.com/artist/1pK84UqJKAOW6uOWmpR5cN"
-        }
-      ],
-      "duration_ms": 83278,
-      "name": "Mwanga We Wajua",
-      "url": "https://open.spotify.com/track/7K6kgMnTPLqR8p04M6dG8H"
     },
     {
       "added_at": "2024-04-12 12:31:46",

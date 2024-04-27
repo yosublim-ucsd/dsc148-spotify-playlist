@@ -1,12 +1,12 @@
 {
-  "description": "This is Damares. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 29290,
+  "description": "This is Damares. The essential tracks, all in one playlist.",
+  "num_followers": 29276,
   "original_name": "This Is Damares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzkxNjgwMCwwMDAwMDAwMDFhN2M1YWU0OTg5ODczNjQyOGE4MTMzYjViNGJjMmYx",
+  "snapshot_id": "MTcxNDAwMzIwMCwwMDAwMDAwMDg3NDQyMjIzOWU4OWI0NWRlYTA5MmUwNTY5YTM2YzMy",
   "tracks": [
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Damares 2011 (ao vivo)",
-        "url": "https://open.spotify.com/album/0OdC5VKTFR1xwwvFHy3Bfp"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 401213,
-      "name": "Em adora\u00e7\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/74I4URHglkwMY0c7bPEdZH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tudo Volta ao Seu Lugar",
         "url": "https://open.spotify.com/album/7iFsnjU5wTgTSeEF4tLxV5"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 391352,
       "name": "Dependente",
       "url": "https://open.spotify.com/track/2hvEKOvLh4Vt1m1r4nuCaV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Damares 2011 (ao vivo)",
+        "url": "https://open.spotify.com/album/0OdC5VKTFR1xwwvFHy3Bfp"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 401213,
+      "name": "Em adora\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/74I4URHglkwMY0c7bPEdZH"
     },
     {
       "added_at": null,

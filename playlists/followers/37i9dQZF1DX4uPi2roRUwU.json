@@ -1,5 +1,5 @@
 {
-  "2024-04-26": 976130,
+  "2024-04-27": 975981,
   "date_first_scraped": "2023-09-07",
   "description": "Diese Beats machen garantiert gute Laune!",
   "name": "Happy Dance",
@@ -1676,6 +1676,32 @@
     },
     {
       "album": {
+        "name": "Safe and Sound (Niklas Dee & Luca-Dante Spadafora Remix)",
+        "url": "https://open.spotify.com/album/0B7sAo6TCAyMhwQGTtU2FK"
+      },
+      "artists": [
+        {
+          "name": "Neptunica",
+          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
+        },
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "Luca-Dante Spadafora",
+          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151200,
+      "name": "Safe and Sound - Niklas Dee & Luca-Dante Spadafora Remix",
+      "url": "https://open.spotify.com/track/2wBknFtpATOG4LDG3BzIzI"
+    },
+    {
+      "album": {
         "name": "Saturday/Sunday",
         "url": "https://open.spotify.com/album/5mhEZOho91w4yYgkOTHdas"
       },
@@ -1771,7 +1797,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-26",
       "duration_ms": 200309,
       "name": "Slow Dancing",
       "url": "https://open.spotify.com/track/1PEwRh4WQ3R1SvbxMNRAz6"

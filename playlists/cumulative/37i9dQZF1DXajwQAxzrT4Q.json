@@ -5211,6 +5211,28 @@
     },
     {
       "album": {
+        "name": "ROCK (with Wolfrum)",
+        "url": "https://open.spotify.com/album/2QdWqDazDLGxLS8MkqBQic"
+      },
+      "artists": [
+        {
+          "name": "dj Shawny",
+          "url": "https://open.spotify.com/artist/6d88nPjQLpyxi8vH3wgkrx"
+        },
+        {
+          "name": "Wolfrum",
+          "url": "https://open.spotify.com/artist/3MVjEZDE3qjZWGFtdrGt45"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181347,
+      "name": "ROCK (with Wolfrum)",
+      "url": "https://open.spotify.com/track/4sSqv7FL3yOFIITX6lCCLr"
+    },
+    {
+      "album": {
         "name": "Rock It",
         "url": "https://open.spotify.com/album/6w0N3GWB9W953LnuJfiHX9"
       },
@@ -5482,7 +5504,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 89072,
       "name": "Self Esteem (feat. NLE Choppa) - DJ Smallz 732 Jersey Club Remix",
       "url": "https://open.spotify.com/track/45AiClrOnkqbGmQe5OEEUu"

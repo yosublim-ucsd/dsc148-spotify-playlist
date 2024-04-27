@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Rimas argentinas. Foto: Oney1, Soui Uno & Neo Pistea.",
+  "description": "Rimas argentinas. Foto: YSY A.",
   "name": "Hip Hop Argento",
   "tracks": [
     {
@@ -462,7 +462,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 153860,
       "name": "ANCESTRAL",
       "url": "https://open.spotify.com/track/5FCnN5oCrccvoaShwfanmU"
@@ -1410,6 +1410,28 @@
       "duration_ms": 173251,
       "name": "Dani Ribba: Bzrp Music Sessions, Vol. 24",
       "url": "https://open.spotify.com/track/6TNuRFdNazLbbVQTRE8pZg"
+    },
+    {
+      "album": {
+        "name": "100PRE YORO",
+        "url": "https://open.spotify.com/album/6xOaHqhD9jaJtR3xmFHrzP"
+      },
+      "artists": [
+        {
+          "name": "Lara91k",
+          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
+        },
+        {
+          "name": "Dano",
+          "url": "https://open.spotify.com/artist/3lIsPQW0jN6sMpiWuiShF0"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201697,
+      "name": "dear rita",
+      "url": "https://open.spotify.com/track/10ptR9VKP80hyEinUynzu9"
     },
     {
       "album": {
@@ -4700,7 +4722,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 192473,
       "name": "SIG SAUER",
       "url": "https://open.spotify.com/track/1uCikoRAzrF116zNtxBBpO"
@@ -5339,6 +5361,24 @@
     },
     {
       "album": {
+        "name": "Viaje de Ida",
+        "url": "https://open.spotify.com/album/5DdMn4yexdusfpW05ddQnR"
+      },
+      "artists": [
+        {
+          "name": "MACO",
+          "url": "https://open.spotify.com/artist/0XerM4yoGja0adi5ohB8Lm"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191016,
+      "name": "Viaje de Ida",
+      "url": "https://open.spotify.com/track/6NxIfPSFv9ZFTaptcnGEUU"
+    },
+    {
+      "album": {
         "name": "Viernes 16 B",
         "url": "https://open.spotify.com/album/1ceQaYjCv4NlKs4fqpiapt"
       },
@@ -5460,6 +5500,32 @@
       "duration_ms": 174365,
       "name": "XL",
       "url": "https://open.spotify.com/track/0cb9ckfF5AZQynYVTKg06v"
+    },
+    {
+      "album": {
+        "name": "RADIO CLUB HITS",
+        "url": "https://open.spotify.com/album/1qJCu54S0zWtGvdQq50OFq"
+      },
+      "artists": [
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        },
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        },
+        {
+          "name": "Obie Wanshot",
+          "url": "https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130409,
+      "name": "YA NI YO ME ENTIENDO",
+      "url": "https://open.spotify.com/track/3lqs3nTdYAbX4iQV6JBehz"
     },
     {
       "album": {
