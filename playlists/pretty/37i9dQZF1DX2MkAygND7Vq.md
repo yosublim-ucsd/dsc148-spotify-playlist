@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MkAygND7Vq.md) - [plain]
 
 > Four friends\. One trip\. No Luck\. Listen to music from and inspired by Joy Ride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,809 likes - 30 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,825 likes - 30 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 51718,
+  "2024-04-28": 51737,
   "date_first_scraped": "2022-01-01",
   "description": "A progressive fusion of jazz, rock and avant-garde.",
   "name": "Prog Jazz",
@@ -2823,6 +2823,24 @@
       "duration_ms": 232000,
       "name": "The Jingle",
       "url": "https://open.spotify.com/track/7aLzL6v7NdiBaFH5GVNVMv"
+    },
+    {
+      "album": {
+        "name": "The Kingdom",
+        "url": "https://open.spotify.com/album/65s29DEqLyU9oQ0ay95XM6"
+      },
+      "artists": [
+        {
+          "name": "Tigran Hamasyan",
+          "url": "https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209675,
+      "name": "The Kingdom",
+      "url": "https://open.spotify.com/track/7xg5pETbe5jWXqTekOnx57"
     },
     {
       "album": {

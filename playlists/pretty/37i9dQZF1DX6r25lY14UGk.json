@@ -1,6 +1,6 @@
 {
   "description": "New releases for the kids. Cover: Laurie Berkner",
-  "num_followers": 21181,
+  "num_followers": 21250,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
@@ -523,7 +523,7 @@
     {
       "added_at": "2024-04-12 04:01:00",
       "album": {
-        "name": "Equestria Girls (Cafeteria Song) - hyperpop remix [DJ Pon-3's Version]",
+        "name": "Equestria Girls (Cafeteria Song) - hyperpop remix (DJ Pon-3's Version)",
         "url": "https://open.spotify.com/album/4iYo93eRPtEJKQGBovj4ys"
       },
       "artists": [
@@ -534,6 +534,10 @@
         {
           "name": "My Little Pony",
           "url": "https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM"
+        },
+        {
+          "name": "Chelsea Grams",
+          "url": "https://open.spotify.com/artist/4dqBboOXyDaQv2d70dWlcH"
         }
       ],
       "duration_ms": 134896,

@@ -1,6 +1,6 @@
 {
   "description": "Check out these inspired hits to keep your Summer fun and upbeat!",
-  "num_followers": 25915,
+  "num_followers": 25917,
   "original_name": "Rejoice for Summer",
   "owner": {
     "name": "Spotify",
@@ -1459,6 +1459,26 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "All Good",
+        "url": "https://open.spotify.com/album/5qyktniRg06avBi3Tkbxd3"
+      },
+      "artists": [
+        {
+          "name": "Capital Kings",
+          "url": "https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof"
+        },
+        {
+          "name": "Hollyn",
+          "url": "https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav"
+        }
+      ],
+      "duration_ms": 204897,
+      "name": "All Good",
+      "url": "https://open.spotify.com/track/2DRk66DsTtDrUsCEOmvQaq"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "Fight for Me",
         "url": "https://open.spotify.com/album/3tPGtUd8BG730n9yKZJDsS"
       },
@@ -1479,6 +1499,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "One More Day",
+        "url": "https://open.spotify.com/album/04pYxtxYcz7gYXZyOzfcp1"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 194798,
+      "name": "One More Day",
+      "url": "https://open.spotify.com/track/3dRYvI5lRyCuJLbduvAec2"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "I'm Gonna Let It Go",
         "url": "https://open.spotify.com/album/7fHnC7zjvIf46XZV6KAoVt"
       },
@@ -1491,26 +1527,6 @@
       "duration_ms": 186333,
       "name": "I'm Gonna Let It Go",
       "url": "https://open.spotify.com/track/6IqgRdrXDwZeSdSZtFmyTo"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "All Good",
-        "url": "https://open.spotify.com/album/5qyktniRg06avBi3Tkbxd3"
-      },
-      "artists": [
-        {
-          "name": "Capital Kings",
-          "url": "https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof"
-        },
-        {
-          "name": "Hollyn",
-          "url": "https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav"
-        }
-      ],
-      "duration_ms": 204897,
-      "name": "All Good",
-      "url": "https://open.spotify.com/track/2DRk66DsTtDrUsCEOmvQaq"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1579,18 +1595,18 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Patient",
-        "url": "https://open.spotify.com/album/05qd0bhPJrFj3jUa5yXze5"
+        "name": "Don't Wanna Wake Up",
+        "url": "https://open.spotify.com/album/7ki92KOeh9spsNOnW0eubE"
       },
       "artists": [
         {
-          "name": "Apollo LTD",
-          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
+          "name": "Capital Kings",
+          "url": "https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof"
         }
       ],
-      "duration_ms": 214866,
-      "name": "Patient",
-      "url": "https://open.spotify.com/track/5qDHU1U5XlX6X0KBsAWoL9"
+      "duration_ms": 227142,
+      "name": "Don't Wanna Wake Up",
+      "url": "https://open.spotify.com/track/0OO6L0O3kKGtn6nmh8nX4i"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1607,6 +1623,22 @@
       "duration_ms": 171653,
       "name": "Happy Dance",
       "url": "https://open.spotify.com/track/1vABXHS6jUrX4gae0MuniF"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Patient",
+        "url": "https://open.spotify.com/album/05qd0bhPJrFj3jUa5yXze5"
+      },
+      "artists": [
+        {
+          "name": "Apollo LTD",
+          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
+        }
+      ],
+      "duration_ms": 214866,
+      "name": "Patient",
+      "url": "https://open.spotify.com/track/5qDHU1U5XlX6X0KBsAWoL9"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1675,22 +1707,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Don't Wanna Wake Up",
-        "url": "https://open.spotify.com/album/7ki92KOeh9spsNOnW0eubE"
-      },
-      "artists": [
-        {
-          "name": "Capital Kings",
-          "url": "https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof"
-        }
-      ],
-      "duration_ms": 227142,
-      "name": "Don't Wanna Wake Up",
-      "url": "https://open.spotify.com/track/0OO6L0O3kKGtn6nmh8nX4i"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "\u00a1Hola!",
         "url": "https://open.spotify.com/album/1GChJ0SaWSU9up2W8Cog1i"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 195944,
       "name": "\u00a1Hola!",
       "url": "https://open.spotify.com/track/1e06p7H8vV3pitwURVdipU"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "One More Day",
-        "url": "https://open.spotify.com/album/04pYxtxYcz7gYXZyOzfcp1"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 194798,
-      "name": "One More Day",
-      "url": "https://open.spotify.com/track/3dRYvI5lRyCuJLbduvAec2"
     },
     {
       "added_at": "2020-08-13 14:39:00",

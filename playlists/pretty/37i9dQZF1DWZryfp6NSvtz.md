@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Softcult
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,174 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 871,991 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [Misry](https://open.spotify.com/track/1KnKJaFL7XixAN90cwIc6Q) | [Salt+](https://open.spotify.com/artist/4wP8CdpcWu2NoEzqp2fape) | [Closer To Death](https://open.spotify.com/album/6YwWk6J8NdTce7iJXd3Zc8) | 4:10 |
 | 50 | [Talking Around](https://open.spotify.com/track/3zDMfvA6aOq1xMEhzLKJbc) | [Better Joy](https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL) | [Talking Around](https://open.spotify.com/album/10iEYZWWEuALY1pNwRdsEV) | 3:32 |
 
-Snapshot ID: `MTcxNDEwNDA2MCwwMDAwMDAwMDUxODk3ODZiODE0M2E4OTllNmNlZjQ5MTQzNzEzMTUx`
+Snapshot ID: `MTcxNDI0MDc2NSwwMDAwMDAwMGI0ODI4NGNhMDI2Y2NlMDU2Y2ZkMzdmNjY1ZGY1NGIw`

@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 628504,
+  "2024-04-28": 628532,
   "date_first_scraped": "2022-01-24",
   "description": "Bhavi, Seven Kayne, Milo J, Tiago PZK, KHEA & Neo Pistea en la casa del Trap Argentino.",
   "name": "Trapperz Argentina",
@@ -1291,6 +1291,28 @@
       "duration_ms": 215384,
       "name": "DEL ESTUDIO AL ESTADIO",
       "url": "https://open.spotify.com/track/0tczOvnVojC5FckxeaYLqR"
+    },
+    {
+      "album": {
+        "name": "Delirio",
+        "url": "https://open.spotify.com/album/1qAkIvmDOYmPowYsdgb2nl"
+      },
+      "artists": [
+        {
+          "name": "Ramma",
+          "url": "https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg"
+        },
+        {
+          "name": "Tadu V\u00e1zquez",
+          "url": "https://open.spotify.com/artist/71scL1K5Nu1Z7FgBkg3Gjk"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117079,
+      "name": "Delirio",
+      "url": "https://open.spotify.com/track/34pPMTpjafWYo6WyIme1j8"
     },
     {
       "album": {
@@ -2922,6 +2944,28 @@
     },
     {
       "album": {
+        "name": "MADISON",
+        "url": "https://open.spotify.com/album/0B37qHA5Q9O94AtUqD2HWS"
+      },
+      "artists": [
+        {
+          "name": "ZARAMAY",
+          "url": "https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff"
+        },
+        {
+          "name": "Lil Pani",
+          "url": "https://open.spotify.com/artist/7JOPAChLMSwpi4LSZBw000"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250303,
+      "name": "MADISON",
+      "url": "https://open.spotify.com/track/4nW5qMepEJOkZONWTsrc7w"
+    },
+    {
+      "album": {
         "name": "Maldad",
         "url": "https://open.spotify.com/album/3W4doy1Nh9TLVojSVVhzyf"
       },
@@ -3451,7 +3495,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 153685,
       "name": "Neymar Jr",
       "url": "https://open.spotify.com/track/2uSaWBsTaYdcKMd1ITO9Er"
@@ -3889,7 +3933,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 123692,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/3p9g6gz2jMqnfUc2GJTryq"
@@ -4931,7 +4975,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 187333,
       "name": "SPACE SEX",
       "url": "https://open.spotify.com/track/0gk8KeUZy6MGycu06QgBf1"
@@ -6231,6 +6275,28 @@
       "duration_ms": 217756,
       "name": "WOW",
       "url": "https://open.spotify.com/track/7dnWwiWTF7JSEAXhmeUBpa"
+    },
+    {
+      "album": {
+        "name": "x interes",
+        "url": "https://open.spotify.com/album/1oT1mP23ScPhKirJLUe6ar"
+      },
+      "artists": [
+        {
+          "name": "ARA",
+          "url": "https://open.spotify.com/artist/5wkxQh0fD5bsqxKm6Ajv7o"
+        },
+        {
+          "name": "Tadu V\u00e1zquez",
+          "url": "https://open.spotify.com/artist/71scL1K5Nu1Z7FgBkg3Gjk"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159553,
+      "name": "x interes",
+      "url": "https://open.spotify.com/track/0TGwFfD6OQAIDRw4Tsf49R"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
-  "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
-  "num_followers": 9034,
+  "description": "This Is Mercy Chinwo. Los temas esenciales, todos en una lista.",
+  "num_followers": 9049,
   "original_name": "This Is Mercy Chinwo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDAwMzIwMCwwMDAwMDAwMGZjYTYyMzY5MzViNTI4MGE2YWJmM2M5NzMyYzZlYTc1",
+  "snapshot_id": "MTcxNDA4OTYwMCwwMDAwMDAwMDk1NzEzNTNjMWE4YmMzMTNhYzhiNzZhNTljNDdiMDY0",
   "tracks": [
     {
       "added_at": null,
@@ -307,26 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Assignment",
-        "url": "https://open.spotify.com/album/2HuCRu5g3Et1hPhutXCJoK"
-      },
-      "artists": [
-        {
-          "name": "Joepraize",
-          "url": "https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s"
-        },
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 262321,
-      "name": "COME AND SEE",
-      "url": "https://open.spotify.com/track/6AcuWVJLutTcYQJQSikgZI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oil on My Head (Remix)",
         "url": "https://open.spotify.com/album/75MASrjuVKPaIUdKErSFrU"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 217391,
       "name": "Oil on My Head (Remix)",
       "url": "https://open.spotify.com/track/5bBXbEHWTv1ixEDSCIaMWG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Assignment",
+        "url": "https://open.spotify.com/album/2HuCRu5g3Et1hPhutXCJoK"
+      },
+      "artists": [
+        {
+          "name": "Joepraize",
+          "url": "https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 262321,
+      "name": "COME AND SEE",
+      "url": "https://open.spotify.com/track/6AcuWVJLutTcYQJQSikgZI"
     },
     {
       "added_at": null,
@@ -383,6 +383,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Overwhelming Victory",
+        "url": "https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 209916,
+      "name": "More Than Enough",
+      "url": "https://open.spotify.com/track/1wDhZTUmUjQqc19lJx8WEz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Okemmuo (The Spirit of the Spirit)",
         "url": "https://open.spotify.com/album/6BIkUGVK0K4LRoebCTGG6s"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 237479,
       "name": "Regular (feat. Fiokee)",
       "url": "https://open.spotify.com/track/3h4clLNlW8j8XZaZ9Av2nP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Overwhelming Victory",
-        "url": "https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 209916,
-      "name": "More Than Enough",
-      "url": "https://open.spotify.com/track/1wDhZTUmUjQqc19lJx8WEz"
     },
     {
       "added_at": null,
@@ -699,26 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Father",
-        "url": "https://open.spotify.com/album/5k84qngUSbyctnYupuRAyI"
-      },
-      "artists": [
-        {
-          "name": "Chris Morgan",
-          "url": "https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM"
-        },
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 331388,
-      "name": "Good Father",
-      "url": "https://open.spotify.com/track/0yJHx5EKGIoJ7E5fJjyvWQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Holy Ghost",
         "url": "https://open.spotify.com/album/4wJuzLINYvguF70TkdSbYB"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 206808,
       "name": "Do Something",
       "url": "https://open.spotify.com/track/7hMCer4q0483Uxdb7EcvG2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Father",
+        "url": "https://open.spotify.com/album/5k84qngUSbyctnYupuRAyI"
+      },
+      "artists": [
+        {
+          "name": "Chris Morgan",
+          "url": "https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 331388,
+      "name": "Good Father",
+      "url": "https://open.spotify.com/track/0yJHx5EKGIoJ7E5fJjyvWQ"
     },
     {
       "added_at": null,

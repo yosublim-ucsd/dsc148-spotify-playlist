@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 280252,
+  "2024-04-28": 280507,
   "date_first_scraped": "2021-12-21",
   "description": "Anne Wilson is taking over Country by the Grace of God to celebrate the release of her new album REBEL! ",
   "name": "Country by the Grace of God",
@@ -4401,6 +4401,24 @@
       "duration_ms": 214729,
       "name": "Whites Creek",
       "url": "https://open.spotify.com/track/4rWQo8QRfK24fOzg0rEwRF"
+    },
+    {
+      "album": {
+        "name": "Who I Thought You Were",
+        "url": "https://open.spotify.com/album/5ixliO2ILZ6KxGnsGaGTDd"
+      },
+      "artists": [
+        {
+          "name": "Olivia Lane",
+          "url": "https://open.spotify.com/artist/3Og5as5vV5n1iTR5iaNNZ6"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207167,
+      "name": "Who I Thought You Were",
+      "url": "https://open.spotify.com/track/4rZcvYqEpH8574xbJns0Jn"
     },
     {
       "album": {

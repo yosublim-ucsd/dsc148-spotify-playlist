@@ -1,7 +1,7 @@
 {
-  "2024-04-27": 100303,
+  "2024-04-28": 100357,
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/1z3Cykt3bMtNbrY9SPGSI2?si=2H2mJFrhRVuQ30Zb4Q_TEg\">Werner Van der Hoven</a>  ",
+  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/35nSKL5p684i0vXrFvcgGz?si=QaAEx61qTWuO11dwsmougw\">Dirk Van Der Westhuizen</a>  ",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -370,6 +370,24 @@
     },
     {
       "album": {
+        "name": "Die Lot",
+        "url": "https://open.spotify.com/album/2756SkzLOIcaewehaS4P5F"
+      },
+      "artists": [
+        {
+          "name": "Riaan Benad\u00e9",
+          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194376,
+      "name": "Bosveldterapie",
+      "url": "https://open.spotify.com/track/110nkjBg4FQ9GiPI7xrhjQ"
+    },
+    {
+      "album": {
         "name": "Bou Aan 'n Vrou",
         "url": "https://open.spotify.com/album/488JiMZH1vN3E3Jfq5Vr6W"
       },
@@ -608,6 +626,24 @@
     },
     {
       "album": {
+        "name": "Deur die re\u00ebn",
+        "url": "https://open.spotify.com/album/09wqRyWhW27Jt9g58PfCpw"
+      },
+      "artists": [
+        {
+          "name": "Franja Du Plessis",
+          "url": "https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211680,
+      "name": "Deur die Re\u00ebn",
+      "url": "https://open.spotify.com/track/3vhX5qgaDsAcSJ90wddxYS"
+    },
+    {
+      "album": {
         "name": "Diana",
         "url": "https://open.spotify.com/album/5UlvfJZV9qoZA6Ik3xXlbE"
       },
@@ -731,7 +767,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 196223,
       "name": "Dina",
       "url": "https://open.spotify.com/track/5qA6bUnDzyLDbyAlH4U7vV"
@@ -883,7 +919,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 200065,
       "name": "Ek Moes Ek Wou Ek Sou",
       "url": "https://open.spotify.com/track/4M5ZYtZaATYEjmCY1I78sR"
@@ -1396,6 +1432,24 @@
     },
     {
       "album": {
+        "name": "Hou Bene Hou",
+        "url": "https://open.spotify.com/album/4kmNdny53K7oNhsJHAliYl"
+      },
+      "artists": [
+        {
+          "name": "Nolene",
+          "url": "https://open.spotify.com/artist/6GvYG4rpoXG56VwBYbKi6o"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215896,
+      "name": "Hou Bene Hou",
+      "url": "https://open.spotify.com/track/3OtXZRDaPgr9w3NO84Um3X"
+    },
+    {
+      "album": {
         "name": "Hy Jy Jy",
         "url": "https://open.spotify.com/album/036REkipFi8J0yHsuMQ8Aj"
       },
@@ -1739,7 +1793,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 179018,
       "name": "Kleintjie",
       "url": "https://open.spotify.com/track/4QbAFKHU08d9Ecko8P1Xnk"
@@ -1779,6 +1833,24 @@
       "duration_ms": 205973,
       "name": "Kom En L\u00ea My Neer",
       "url": "https://open.spotify.com/track/5P6L2kPsrfqqXrKOHhELpW"
+    },
+    {
+      "album": {
+        "name": "Komeet",
+        "url": "https://open.spotify.com/album/06ih95tsmk1zXeVKMLUWo5"
+      },
+      "artists": [
+        {
+          "name": "Dirk Van Der Westhuizen",
+          "url": "https://open.spotify.com/artist/35nSKL5p684i0vXrFvcgGz"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205653,
+      "name": "Komeet",
+      "url": "https://open.spotify.com/track/69vbzbwI2vPXguduchibPl"
     },
     {
       "album": {
@@ -2491,7 +2563,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 203413,
       "name": "Nonna",
       "url": "https://open.spotify.com/track/7FZGY1vyOFGvPNeeKDEzBl"
@@ -3108,6 +3180,28 @@
     },
     {
       "album": {
+        "name": "Sterre",
+        "url": "https://open.spotify.com/album/6bNPqe6llpwr7vrLc7vJ1D"
+      },
+      "artists": [
+        {
+          "name": "Gerhard Steyn",
+          "url": "https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t"
+        },
+        {
+          "name": "Liezel Pieters",
+          "url": "https://open.spotify.com/artist/3Wk4aDwlH1CsErepTTZVe4"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213461,
+      "name": "Sterre",
+      "url": "https://open.spotify.com/track/388hZyeYDEtgKB0j65TIv0"
+    },
+    {
+      "album": {
         "name": "Stoom",
         "url": "https://open.spotify.com/album/1CSsLrp52azvnNC5mMiuFe"
       },
@@ -3328,6 +3422,24 @@
     },
     {
       "album": {
+        "name": "Teiken",
+        "url": "https://open.spotify.com/album/5iMH0jDldXRETC2gJJYHag"
+      },
+      "artists": [
+        {
+          "name": "Marno van der Merwe",
+          "url": "https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185276,
+      "name": "Teiken",
+      "url": "https://open.spotify.com/track/4L4BUQvSfWorVJApet8mYa"
+    },
+    {
+      "album": {
         "name": "Tekkies Brand",
         "url": "https://open.spotify.com/album/05uEJdtdKnM4SjNGpkEuOD"
       },
@@ -3527,7 +3639,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 242477,
       "name": "Vir Jou Geval",
       "url": "https://open.spotify.com/track/63jjmPri2msVTjuX1Jdwbw"
@@ -3639,7 +3751,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 216795,
       "name": "Vuur Op Die Water",
       "url": "https://open.spotify.com/track/7hnO1itqe41tDT0tuEOgVV"

@@ -1370,7 +1370,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 267212,
       "name": "Elver",
       "url": "https://open.spotify.com/track/7JFl6iRLynsTPvxWtLswVl"
@@ -2024,7 +2024,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 204306,
       "name": "Hindsight",
       "url": "https://open.spotify.com/track/1oNhUK7wYAITgmDiAFoKYZ"
@@ -4588,7 +4588,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-22",
+      "date_removed": null,
       "duration_ms": 231586,
       "name": "v\u00e1r",
       "url": "https://open.spotify.com/track/34iSLP2Qs7dH4BZqP0Bj9U"
@@ -4700,6 +4700,24 @@
       "duration_ms": 229533,
       "name": "Was There Nothing?",
       "url": "https://open.spotify.com/track/1IwlH20GMbWBZoXOddGxe1"
+    },
+    {
+      "album": {
+        "name": "Wash It Away",
+        "url": "https://open.spotify.com/album/3VRr7bkdTRnc5Gej5ymHGt"
+      },
+      "artists": [
+        {
+          "name": "Axel Fl\u00f3vent",
+          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243362,
+      "name": "Wash It Away",
+      "url": "https://open.spotify.com/track/6uWg8e184kvHyy2LkDVoHj"
     },
     {
       "album": {

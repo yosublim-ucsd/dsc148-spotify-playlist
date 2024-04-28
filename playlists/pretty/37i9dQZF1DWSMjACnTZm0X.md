@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: <a href="https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn?si=vPMKVF4FSi6lM3uLNi3zvw">Savage</a>,  <a href=https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep?si=FjEmTtW9RoGz1Phk4uyAxg>Zlatan</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,950 likes - 61 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,964 likes - 61 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 9 | [Hade Boss](https://open.spotify.com/track/2ee1Pa7Gs7lIGRXrl217IG) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [Mr Nation Thingz](https://open.spotify.com/artist/5N1to90ym4E3lzJg0CyEGH), [K.C Driller](https://open.spotify.com/artist/4q9iK3DBv5DqV3Pn49ynXp) | [Hade Boss](https://open.spotify.com/album/1p1GcNM063zEJBu0NsM4DO) | 6:22 |
 | 10 | [Ammunition](https://open.spotify.com/track/2krh7DGcbKuJ2Z0KdkONgv) | [Tooslim](https://open.spotify.com/artist/1u84jZFjE4XgwG0HJ43WZR), [Terri](https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto) | [Ammunition](https://open.spotify.com/album/6kfirirfpHequnP9iMRHA1) | 2:28 |
 | 11 | [Konji](https://open.spotify.com/track/6AiQ9EcX0YrRGHiLRzheVi) | [Zubest](https://open.spotify.com/artist/4CCTdUK6kBA31iAxvaHYR3), [Riskykid intl](https://open.spotify.com/artist/0S2CMyMqMgiEg7VST0w4Uc) | [Konji](https://open.spotify.com/album/1K72cPsM1nhkYG8EMMmPfA) | 3:01 |
-| 12 | [Woman](https://open.spotify.com/track/7jrVAXjL1xbfmeoAx391aI) | [MYRON](https://open.spotify.com/artist/4zkMLMoQabRa9pPEfaTG2W), [Troy](https://open.spotify.com/artist/0w603rBHpfol0Nl5W1dRlc) | [Love or Lust](https://open.spotify.com/album/7wwIAB9QJEuVYb4iHfOPoN) | 2:45 |
+| 12 | [Woman](https://open.spotify.com/track/7jrVAXjL1xbfmeoAx391aI) | [MYRON](https://open.spotify.com/artist/4zkMLMoQabRa9pPEfaTG2W), [Troy Venus](https://open.spotify.com/artist/53FQtNOvSpOjkNKh7vCvgs) | [Love or Lust](https://open.spotify.com/album/7wwIAB9QJEuVYb4iHfOPoN) | 2:45 |
 | 13 | [Big Fat Machine \(feat\. Fivio Foreign & Major League Djz\)](https://open.spotify.com/track/4x7Brpn3919ruJ5vy4FJo1) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [Big Fat Machine \(feat\. Fivio Foreign and Major League Djz\)](https://open.spotify.com/album/3NQVHG2n2lFh4CYNBcaKJ5) | 5:03 |
 | 14 | [Cast](https://open.spotify.com/track/6BWgLorAwF17ofyu8361HM) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Presido La Pluto](https://open.spotify.com/album/14VJEhvxRCOsNtcwjjBxwR) | 2:09 |
 | 15 | [Danger](https://open.spotify.com/track/3Kc2ZkX5CjmoaOSIi1kyh2) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Danger](https://open.spotify.com/album/7INuTkjRWZjmsTF2GvfSKh) | 2:28 |

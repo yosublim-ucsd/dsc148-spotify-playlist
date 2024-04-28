@@ -1,7 +1,7 @@
 {
-  "2024-04-27": 95628,
+  "2024-04-28": 95647,
   "date_first_scraped": "2022-02-06",
-  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Nell Mescal",
+  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Sid Dorey",
   "name": "Next Gen Singer-Songwriters",
   "tracks": [
     {
@@ -341,7 +341,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 203058,
       "name": "After You",
       "url": "https://open.spotify.com/track/3VpSYpjB9JwFU6y3X5LcVi"
@@ -2773,7 +2773,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 245571,
       "name": "Different",
       "url": "https://open.spotify.com/track/1KfXuX55mKi7dJmNhDlaW3"
@@ -2852,6 +2852,24 @@
     },
     {
       "album": {
+        "name": "Don\u2019t Look At Me",
+        "url": "https://open.spotify.com/album/427MZvPeKO2DZMAPHLGVwY"
+      },
+      "artists": [
+        {
+          "name": "Maddy Hicks",
+          "url": "https://open.spotify.com/artist/0wKl6457qdsk7WxnqOeeFJ"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148860,
+      "name": "Don\u2019t Look At Me",
+      "url": "https://open.spotify.com/track/1PRbcpYwFl2kLzFDR5HiUn"
+    },
+    {
+      "album": {
         "name": "Pieces",
         "url": "https://open.spotify.com/album/7h2aJ4utwpfVK1GHkSGufE"
       },
@@ -2885,6 +2903,24 @@
       "duration_ms": 168620,
       "name": "Dragonfly",
       "url": "https://open.spotify.com/track/6CLeE3yafEuOSKbBJwO0mi"
+    },
+    {
+      "album": {
+        "name": "Drama in Doses",
+        "url": "https://open.spotify.com/album/6FIHQn3metCrRMo2q8XpLc"
+      },
+      "artists": [
+        {
+          "name": "Sid Dorey",
+          "url": "https://open.spotify.com/artist/6UcErG934cEadG4q16v37T"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168857,
+      "name": "Drama in Doses",
+      "url": "https://open.spotify.com/track/2LbcamjmZDFMOj6dNVaIwA"
     },
     {
       "album": {
@@ -4628,6 +4664,24 @@
     },
     {
       "album": {
+        "name": "Hope Is a Scary Thing",
+        "url": "https://open.spotify.com/album/5vEqFwTMcGrqZw1Xuw04Qu"
+      },
+      "artists": [
+        {
+          "name": "Carol Ades",
+          "url": "https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168666,
+      "name": "Hope Is a Scary Thing",
+      "url": "https://open.spotify.com/track/58SrfExCWNIdEh01NiAUOg"
+    },
+    {
+      "album": {
         "name": "the way i see it",
         "url": "https://open.spotify.com/album/18T0b0AmEnzfzvOtuXzXv9"
       },
@@ -4819,7 +4873,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 243798,
       "name": "How Much Longer?",
       "url": "https://open.spotify.com/track/2KlWdo608p1j3BUnkKzmdb"
@@ -6411,7 +6465,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 165359,
       "name": "Like A Record",
       "url": "https://open.spotify.com/track/3E4iFktZ9KH4dzmdrkuRBs"
@@ -8093,7 +8147,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 134027,
       "name": "past life",
       "url": "https://open.spotify.com/track/7IwCpLayJZ4lHXyNyzXdj9"

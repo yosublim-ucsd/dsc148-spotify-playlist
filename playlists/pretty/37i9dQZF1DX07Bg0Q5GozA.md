@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Justice
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,264 likes - 75 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,272 likes - 75 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 4 | [Vhs](https://open.spotify.com/track/5DMCdNpx797b2P2CnpGgna) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Vhs](https://open.spotify.com/album/14pWWbSsZa90kidIfHK7Nm) | 4:29 |
 | 5 | [Stellar](https://open.spotify.com/track/2Go5FfwZeqUPW3OnmPdmPN) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Mimose](https://open.spotify.com/album/4C3g7KoC8HBoiURn8eWGaa) | 3:45 |
 | 6 | [Telephone](https://open.spotify.com/track/6nJ5Me87gXfmxAvtsrKFcT) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Telephone](https://open.spotify.com/album/6CzpANa2cPxub4JcULfz1C) | 3:28 |
-| 7 | [Lost In Life \- Roosevelt Remix](https://open.spotify.com/track/3f4baxfV0dQPAiXXOCqM9O) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Lost In Life \(Roosevelt Remix\)](https://open.spotify.com/album/2GwF8p9eQQDFNnApTsPwrB) | 3:58 |
+| 7 | [Lost in Life \- Roosevelt Remix](https://open.spotify.com/track/3f4baxfV0dQPAiXXOCqM9O) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Lost in Life \(Roosevelt Remix\)](https://open.spotify.com/album/2GwF8p9eQQDFNnApTsPwrB) | 3:58 |
 | 8 | [Wake Up](https://open.spotify.com/track/1m8jhrWGlDXOWI2l8JG9Lk) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Wake Up](https://open.spotify.com/album/4h5y3RQfceyaCLCjDAYZuo) | 2:04 |
 | 9 | [saving flowers](https://open.spotify.com/track/4ZZO8buYpKMS7gR9koYhD9) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [saving flowers](https://open.spotify.com/album/2zPC36yrmSWqm2cgKb35yd) | 3:30 |
 | 10 | [Weekend](https://open.spotify.com/track/50NAA4IIAIURWtKGVVBHee) | [Glimmer of Blooms](https://open.spotify.com/artist/5Ha7OvvalK4moJei0zEKg6) | [Weekend](https://open.spotify.com/album/0HuWZAJc4XEitfGiO4CI1M) | 2:48 |

@@ -1,7 +1,7 @@
 {
-  "2024-04-27": 923294,
+  "2024-04-28": 923485,
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Shabaka",
+  "description": "New jazz for open minds. Cover: Dana and Alden",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -958,6 +958,24 @@
     },
     {
       "album": {
+        "name": "Ajala",
+        "url": "https://open.spotify.com/album/1kAexOnDyQcgwvMM3mFkjX"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261733,
+      "name": "Ajala",
+      "url": "https://open.spotify.com/track/7vRQeQcvAuf35fgKMou99k"
+    },
+    {
+      "album": {
         "name": "Akashic Xronicles",
         "url": "https://open.spotify.com/album/0Lb3rsnN9rot0aF8Wymt4P"
       },
@@ -1859,7 +1877,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 374993,
       "name": "Aria for Anna",
       "url": "https://open.spotify.com/track/1KDcKCLVQOWUB4kgwrETVy"
@@ -2061,7 +2079,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 234026,
       "name": "Ascendence",
       "url": "https://open.spotify.com/track/6k6qH3laE9HyzDgaXWcHfJ"
@@ -4239,7 +4257,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 167146,
       "name": "Butane Dream",
       "url": "https://open.spotify.com/track/3otrs2M0c4B8jk1nofRfkR"
@@ -5083,7 +5101,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 396256,
       "name": "Cobham",
       "url": "https://open.spotify.com/track/6p46VYGOLxUbhPJB3pGxEt"
@@ -5489,6 +5507,24 @@
       "duration_ms": 444830,
       "name": "Could We but See",
       "url": "https://open.spotify.com/track/1sytnDQJBIII1uNIiXkj87"
+    },
+    {
+      "album": {
+        "name": "Coyote, You're My Star",
+        "url": "https://open.spotify.com/album/61wuHnPthO5vApg52y9n30"
+      },
+      "artists": [
+        {
+          "name": "Dana and Alden",
+          "url": "https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125867,
+      "name": "Coyote, You're My Star",
+      "url": "https://open.spotify.com/track/2tZ4GQajl2yetk2EA8SvMW"
     },
     {
       "album": {
@@ -6953,7 +6989,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 357709,
       "name": "Dragonfly",
       "url": "https://open.spotify.com/track/4ilcgmelP0B7j6OXVj6XyL"
@@ -9425,6 +9461,36 @@
       "duration_ms": 357482,
       "name": "Funky G Sus",
       "url": "https://open.spotify.com/track/5QFO8waIRAMQafRnnzBOyZ"
+    },
+    {
+      "album": {
+        "name": "Future Overture",
+        "url": "https://open.spotify.com/album/49gh01RyMXLRDCrGpwc8vf"
+      },
+      "artists": [
+        {
+          "name": "Telemakus",
+          "url": "https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6"
+        },
+        {
+          "name": "Chino Corval\u00e1n",
+          "url": "https://open.spotify.com/artist/6kfOGQtwF9oS6rYSdVG4Ol"
+        },
+        {
+          "name": "Ted Taforo",
+          "url": "https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX"
+        },
+        {
+          "name": "Raghav Mehrotra",
+          "url": "https://open.spotify.com/artist/2OaPpcWxL1WlWaauI2NAV1"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226153,
+      "name": "Future Overture",
+      "url": "https://open.spotify.com/track/6Uxa3NekEWl5Vt9mSDPCMa"
     },
     {
       "album": {
@@ -14027,7 +14093,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 258000,
       "name": "LIVERPOOL WINS",
       "url": "https://open.spotify.com/track/3NEjU4et42MIT9VG8x7Ksx"
@@ -18060,6 +18126,28 @@
     },
     {
       "album": {
+        "name": "Ortolana",
+        "url": "https://open.spotify.com/album/7rGk3wwdfD1uT1yAGB1c7X"
+      },
+      "artists": [
+        {
+          "name": "Ted Taforo",
+          "url": "https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX"
+        },
+        {
+          "name": "ddddeeeellllaaa",
+          "url": "https://open.spotify.com/artist/1b1ZHOGcoZfdw68Ru9dznA"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124186,
+      "name": "Ortolana",
+      "url": "https://open.spotify.com/track/7xM4rEThKMKeTS6S8vIDEw"
+    },
+    {
+      "album": {
         "name": "Other Jewels",
         "url": "https://open.spotify.com/album/0KcDJAC3z1lDxTlbUtqydr"
       },
@@ -20154,6 +20242,36 @@
     },
     {
       "album": {
+        "name": "Renata",
+        "url": "https://open.spotify.com/album/1ihkWYmrEniq2UZYfmJ5Dt"
+      },
+      "artists": [
+        {
+          "name": "Oded Tzur",
+          "url": "https://open.spotify.com/artist/0qi2QVszdqHPr7Wb7kjMbi"
+        },
+        {
+          "name": "Nitai Hershkovits",
+          "url": "https://open.spotify.com/artist/7lysajaDFp2cX097v7H4SN"
+        },
+        {
+          "name": "Petros Klampanis",
+          "url": "https://open.spotify.com/artist/2EW4K87b5EjGuCbachzK2B"
+        },
+        {
+          "name": "Cyrano Almeida",
+          "url": "https://open.spotify.com/artist/5NICsJecrppGjg0WrLPHBz"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 482400,
+      "name": "Renata",
+      "url": "https://open.spotify.com/track/0USgnNOeJ9HGA3MGFknomt"
+    },
+    {
+      "album": {
         "name": "Renewal",
         "url": "https://open.spotify.com/album/53lb1aZRFeouaILyUq3sOT"
       },
@@ -21329,7 +21447,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 337218,
       "name": "Send in the Clowns",
       "url": "https://open.spotify.com/track/6ogaZVuWS2h2MZ8wYNu7Ap"
@@ -23876,6 +23994,28 @@
     },
     {
       "album": {
+        "name": "SWEET FIRE",
+        "url": "https://open.spotify.com/album/76NVGAtTtoPET16M0jKY1I"
+      },
+      "artists": [
+        {
+          "name": "Sam Gendel",
+          "url": "https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk"
+        },
+        {
+          "name": "Sam Wilkes",
+          "url": "https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135125,
+      "name": "SWEET FIRE",
+      "url": "https://open.spotify.com/track/0yzFdgkRpi3n5XB8RR8gaq"
+    },
+    {
+      "album": {
         "name": "Sweet Isolation (Metropole Orkest)",
         "url": "https://open.spotify.com/album/1Bfdlb132DDKkNK946T9rC"
       },
@@ -24123,7 +24263,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 236112,
       "name": "Take Time",
       "url": "https://open.spotify.com/track/64jc8TDPmYkrO93D7Q7QTz"
@@ -24609,6 +24749,24 @@
       "duration_ms": 139451,
       "name": "The Banquet",
       "url": "https://open.spotify.com/track/30EODpTC8EhaZw7WIfH0lu"
+    },
+    {
+      "album": {
+        "name": "The Beauty of Everyday Life",
+        "url": "https://open.spotify.com/album/2QXoYW374rAgqFgS3Ln4BK"
+      },
+      "artists": [
+        {
+          "name": "Mike Casey",
+          "url": "https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379447,
+      "name": "The Beauty of Everyday Life",
+      "url": "https://open.spotify.com/track/0XgHKvz23DMGWJfjz0JHAG"
     },
     {
       "album": {
@@ -25289,6 +25447,24 @@
       "duration_ms": 318158,
       "name": "The Junglist - Bonus Track",
       "url": "https://open.spotify.com/track/0Ew7cCW9CQWEZX8KrOIiFk"
+    },
+    {
+      "album": {
+        "name": "The Kingdom",
+        "url": "https://open.spotify.com/album/65s29DEqLyU9oQ0ay95XM6"
+      },
+      "artists": [
+        {
+          "name": "Tigran Hamasyan",
+          "url": "https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209675,
+      "name": "The Kingdom",
+      "url": "https://open.spotify.com/track/7xg5pETbe5jWXqTekOnx57"
     },
     {
       "album": {
@@ -26087,7 +26263,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 445106,
       "name": "The Way You Look Tonight",
       "url": "https://open.spotify.com/track/6OFNBJrLcBm3I4P8uxNnC9"
@@ -26291,6 +26467,32 @@
       "duration_ms": 219782,
       "name": "There Is This Thing",
       "url": "https://open.spotify.com/track/6Dd2qLs8ElSYBRJdZbUARM"
+    },
+    {
+      "album": {
+        "name": "Things Will Fall Apart",
+        "url": "https://open.spotify.com/album/4mZ7mhCLJh9CSEhZOz5bRS"
+      },
+      "artists": [
+        {
+          "name": "Louis Cole",
+          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
+        },
+        {
+          "name": "Metropole Orkest",
+          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
+        },
+        {
+          "name": "Jules Buckley",
+          "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274857,
+      "name": "Things Will Fall Apart",
+      "url": "https://open.spotify.com/track/6sMOWWJsTouTGwRO6QJ4KJ"
     },
     {
       "album": {
@@ -27255,6 +27457,32 @@
       "duration_ms": 163350,
       "name": "Two-Tone",
       "url": "https://open.spotify.com/track/53GzYKDzQbVxZLPv1LLg66"
+    },
+    {
+      "album": {
+        "name": "TWO...",
+        "url": "https://open.spotify.com/album/4p5jQQFOE9iSbre0ULe0Qr"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Stixx Taylor",
+          "url": "https://open.spotify.com/artist/2eMTWZLa7eqnNsp71eM6Tg"
+        },
+        {
+          "name": "Joe Cleveland",
+          "url": "https://open.spotify.com/artist/1OREq1cp67WA7bvs7v1Ogg"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205691,
+      "name": "TWO\u2026",
+      "url": "https://open.spotify.com/track/1CC39TEVzahsrTSYRSW7Nc"
     },
     {
       "album": {
@@ -28621,7 +28849,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 323522,
       "name": "Why Am I Treated So Bad (with Questlove, Christian McBride) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
       "url": "https://open.spotify.com/track/22OeSoWelZKWr5On4XIaKP"

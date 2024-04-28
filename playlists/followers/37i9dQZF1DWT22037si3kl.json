@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 137430,
+  "2024-04-28": 137452,
   "date_first_scraped": "2022-03-24",
   "description": "bgl \u00e9 seu estilo ser original voc\u00eas j\u00e1 sabem. Foto: Senndy",
   "name": "O Drip",
@@ -1141,7 +1141,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 143494,
       "name": "Caixa Postal",
       "url": "https://open.spotify.com/track/5BJaSO5yqTAhj9mzJONMbQ"
@@ -1219,6 +1219,24 @@
       "duration_ms": 140541,
       "name": "Caracter\u00edsticas",
       "url": "https://open.spotify.com/track/31QpCmyiQqozO7nED7rIZS"
+    },
+    {
+      "album": {
+        "name": "Caro",
+        "url": "https://open.spotify.com/album/438hSC3JLzsq7Mj9QgcGxG"
+      },
+      "artists": [
+        {
+          "name": "Elito",
+          "url": "https://open.spotify.com/artist/7hTaNJ6aGpDoW7izIImHFY"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152392,
+      "name": "Caro",
+      "url": "https://open.spotify.com/track/3EUhXVaFdt7pONMZkCJR2g"
     },
     {
       "album": {
@@ -1486,6 +1504,36 @@
     },
     {
       "album": {
+        "name": "MAGIC SHOW",
+        "url": "https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW"
+      },
+      "artists": [
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202437,
+      "name": "CHECK OUT",
+      "url": "https://open.spotify.com/track/3ez90zOWaFaPBSONOrdKvc"
+    },
+    {
+      "album": {
         "name": "Cheiro de Sexo",
         "url": "https://open.spotify.com/album/5ZxY0qSYAspKpIac8YcQO5"
       },
@@ -1685,6 +1733,36 @@
       "duration_ms": 109440,
       "name": "Closet",
       "url": "https://open.spotify.com/track/1XRyaPfm8Y3Z3cX3Mzw04s"
+    },
+    {
+      "album": {
+        "name": "MAGIC SHOW",
+        "url": "https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW"
+      },
+      "artists": [
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145812,
+      "name": "CONFISS\u00d5ES PT2",
+      "url": "https://open.spotify.com/track/0Q1ySdDoHDiotYn4nbMXNm"
     },
     {
       "album": {
@@ -2667,7 +2745,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 168021,
       "name": "Ela Quis",
       "url": "https://open.spotify.com/track/17y1jsrgWJswHnlelUuqtE"
@@ -6201,7 +6279,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 211347,
       "name": "Noites",
       "url": "https://open.spotify.com/track/6zaMz0UBbMpa5mi7gdPtgI"

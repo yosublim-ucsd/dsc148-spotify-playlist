@@ -1,13 +1,33 @@
 {
-  "description": "This is Yuridia. The essential tracks, all in one playlist.",
-  "num_followers": 430393,
+  "description": "This Is Yuridia. Los temas esenciales, todos en una lista.",
+  "num_followers": 430617,
   "original_name": "This Is Yuridia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDAwMzIwMCwwMDAwMDAwMGExYjFlYWNlMWI2ZDZlMzQwODAzZDlkMTZjMWIwZDA5",
+  "snapshot_id": "MTcxNDA4OTYwMCwwMDAwMDAwMGI1Y2EyM2Y5YWRkZjQ0MTAwYmQ1NDJkMTRiNzMxODY3",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Felic\u00edtalo",
+        "url": "https://open.spotify.com/album/1yuJDBp4QY5KFIXBQfyZW7"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 186226,
+      "name": "Felic\u00edtalo",
+      "url": "https://open.spotify.com/track/34nGrSL3eyH5KOg7AQEAjd"
+    },
     {
       "added_at": null,
       "album": {

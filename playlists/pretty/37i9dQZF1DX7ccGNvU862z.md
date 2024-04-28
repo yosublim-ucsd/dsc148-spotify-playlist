@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ccGNvU862z.md) - [plain]
 
 > Rhyme Elite Artist League\. ฮิปฮอปของจริง ไม่ต้องอ้างอิงใคร\. ศิลปิน: OG\-ANIC
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,194 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,136 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

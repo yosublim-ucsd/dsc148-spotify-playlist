@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 
 > The latest music from our Country Heroes\. Cover: Sawyer Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,104 likes - 197 songs - 11 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,070 likes - 197 songs - 11 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

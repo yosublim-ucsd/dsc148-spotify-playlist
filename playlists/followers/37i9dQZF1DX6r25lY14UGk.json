@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 21181,
+  "2024-04-28": 21250,
   "date_first_scraped": "2022-04-19",
   "description": "New releases for the kids. Cover: Laurie Berkner",
   "name": "New Kids Music",
@@ -185,6 +185,24 @@
       "duration_ms": 120272,
       "name": "All Bodies Are Good Bodies",
       "url": "https://open.spotify.com/track/4ZTMfcW0Hw9OkHghCwUifX"
+    },
+    {
+      "album": {
+        "name": "Sooo Wiggly Vol. 2",
+        "url": "https://open.spotify.com/album/2YSBAA5ij7uuezojPkpWYc"
+      },
+      "artists": [
+        {
+          "name": "Fisher-Price",
+          "url": "https://open.spotify.com/artist/6TjbqpZF5EKmSYlcUZULk1"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63230,
+      "name": "Animal Count",
+      "url": "https://open.spotify.com/track/1RtnalL9YfEjOVtI9YMAHl"
     },
     {
       "album": {
@@ -968,6 +986,32 @@
     },
     {
       "album": {
+        "name": "Nick Jr. Mix It Up! Vol. 10: Hip Hop Playground (The Remixes)",
+        "url": "https://open.spotify.com/album/1o8i8X0PNEAXU3PkGKWTKx"
+      },
+      "artists": [
+        {
+          "name": "Nick Jr.",
+          "url": "https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC"
+        },
+        {
+          "name": "Noggin",
+          "url": "https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn"
+        },
+        {
+          "name": "Darryl \"DMC\" McDaniels",
+          "url": "https://open.spotify.com/artist/6a8v4haj3oDEJiDMVrAJAn"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123870,
+      "name": "Contradict - Hip Hop Remix",
+      "url": "https://open.spotify.com/track/0EgmP7D9aaMjUbzc7fHHli"
+    },
+    {
+      "album": {
         "name": "Songs from Moe & Friends",
         "url": "https://open.spotify.com/album/1hIpNLkTHI7GCux3aFILlo"
       },
@@ -1366,6 +1410,24 @@
     },
     {
       "album": {
+        "name": "Dreaming of Disneyland",
+        "url": "https://open.spotify.com/album/1yoU1MjQu811kGCcWQ2pCM"
+      },
+      "artists": [
+        {
+          "name": "Pancake Manor",
+          "url": "https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167588,
+      "name": "Dreaming of Disneyland",
+      "url": "https://open.spotify.com/track/5JKXnHWV2P7Up0QJBj5D4A"
+    },
+    {
+      "album": {
         "name": "Earworm",
         "url": "https://open.spotify.com/album/0GBVpcsUU2nzeOLHQ0sirl"
       },
@@ -1469,6 +1531,24 @@
       "duration_ms": 190515,
       "name": "Empathy",
       "url": "https://open.spotify.com/track/6XRx37vhiTLSmoM9pLLcrm"
+    },
+    {
+      "album": {
+        "name": "The Green Album",
+        "url": "https://open.spotify.com/album/34JicPPjje2uuM2r0EzbXE"
+      },
+      "artists": [
+        {
+          "name": "Teeny Tiny Stevies",
+          "url": "https://open.spotify.com/artist/6hhqb0X8Jas5jt96Okhjov"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152440,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/0x6o8qwHt26Diy8m4ijtFD"
     },
     {
       "album": {
@@ -2902,6 +2982,24 @@
     },
     {
       "album": {
+        "name": "I'm a Robot",
+        "url": "https://open.spotify.com/album/3EtEJo2RBdwmPBHeMOhMPf"
+      },
+      "artists": [
+        {
+          "name": "Plim Plim",
+          "url": "https://open.spotify.com/artist/0XGgmwDOrlZE5O7GHCHJy8"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142596,
+      "name": "I'm a Robot",
+      "url": "https://open.spotify.com/track/483jB0MCPrca04cbcV8UJw"
+    },
+    {
+      "album": {
         "name": "Simple SEL",
         "url": "https://open.spotify.com/album/7jakIO1K3h45nW7UqmGG2Q"
       },
@@ -2917,6 +3015,24 @@
       "duration_ms": 188018,
       "name": "I'm Always Me",
       "url": "https://open.spotify.com/track/3706vBqhCe42c5ulhhE2S1"
+    },
+    {
+      "album": {
+        "name": "Monster High: Scare-adise Island",
+        "url": "https://open.spotify.com/album/6t2g84f5twaxVHt9X65jZu"
+      },
+      "artists": [
+        {
+          "name": "Monster High",
+          "url": "https://open.spotify.com/artist/43niWwvn8OX1HmJLXu4aLV"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153454,
+      "name": "I'm Di-Vine",
+      "url": "https://open.spotify.com/track/0c7wgVqSDzsQM0HC20zPQT"
     },
     {
       "album": {
@@ -3101,6 +3217,32 @@
       "duration_ms": 130000,
       "name": "Is This A Dream?",
       "url": "https://open.spotify.com/track/6gBe3w57udxzCBv7RQnDub"
+    },
+    {
+      "album": {
+        "name": "It Feels Good To Write A Song",
+        "url": "https://open.spotify.com/album/6Tn91A0aDiM5tHmgEG4Nai"
+      },
+      "artists": [
+        {
+          "name": "Vulfmon",
+          "url": "https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW"
+        },
+        {
+          "name": "Jacob Jeffries",
+          "url": "https://open.spotify.com/artist/2s4evfvMB1HbNMGak6pDUB"
+        },
+        {
+          "name": "Antwaun Stanley",
+          "url": "https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178145,
+      "name": "It Feels Good To Write A Song",
+      "url": "https://open.spotify.com/track/467adj5oe7iFD39MbA0VV6"
     },
     {
       "album": {
@@ -3420,6 +3562,24 @@
     },
     {
       "album": {
+        "name": "Let's Make A Shape",
+        "url": "https://open.spotify.com/album/6yVa1Xeq2ZYMiSq6t5omyn"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121756,
+      "name": "Let's Make A Shape",
+      "url": "https://open.spotify.com/track/0gPFZhvPSZHvmmQplLwlcf"
+    },
+    {
+      "album": {
         "name": "Let's Move! Dance Party",
         "url": "https://open.spotify.com/album/1dyyEdnXHY9aqWafR6JqiV"
       },
@@ -3631,6 +3791,42 @@
       "duration_ms": 127701,
       "name": "Little Bee",
       "url": "https://open.spotify.com/track/19FeiLU74l2KTrSEkfQsJI"
+    },
+    {
+      "album": {
+        "name": "Little Birdie",
+        "url": "https://open.spotify.com/album/2rFFXi8Pqs0tqy9IAGzkst"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166811,
+      "name": "Little Birdie",
+      "url": "https://open.spotify.com/track/1jO1AP40kiZPRm033DLJb3"
+    },
+    {
+      "album": {
+        "name": "Llama Song",
+        "url": "https://open.spotify.com/album/5pdCQvVFkTpVXi3kWwDrYc"
+      },
+      "artists": [
+        {
+          "name": "Cooltime",
+          "url": "https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110657,
+      "name": "Llama Song",
+      "url": "https://open.spotify.com/track/7IlzaCPkqESawQttc8qkQ5"
     },
     {
       "album": {
@@ -4435,6 +4631,24 @@
       "duration_ms": 214373,
       "name": "Part of Your World - From \"The Little Mermaid\"",
       "url": "https://open.spotify.com/track/2pcSENGQmdptFCBQ3HpKHe"
+    },
+    {
+      "album": {
+        "name": "PARTY AT THE YMCA",
+        "url": "https://open.spotify.com/album/7JGoJoyYVYXFbYCgcmjpIx"
+      },
+      "artists": [
+        {
+          "name": "Coach Kody",
+          "url": "https://open.spotify.com/artist/6Vgl5qX4ArZ9lLzegNnzt9"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100253,
+      "name": "PARTY AT THE YMCA",
+      "url": "https://open.spotify.com/track/27CuBGHjU658LDz3aXQxt5"
     },
     {
       "album": {
@@ -6052,6 +6266,24 @@
     },
     {
       "album": {
+        "name": "Songs from Around the World",
+        "url": "https://open.spotify.com/album/45EiHpP5CqWfjZLgPy12Ar"
+      },
+      "artists": [
+        {
+          "name": "Sing n Play",
+          "url": "https://open.spotify.com/artist/3at1vTRcH8tM7ZmnGXyiZs"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145413,
+      "name": "This World Is Your World",
+      "url": "https://open.spotify.com/track/6VuvPmM9EXMDyOccV9OKlb"
+    },
+    {
+      "album": {
         "name": "Three Little Birds",
         "url": "https://open.spotify.com/album/3oKhc5nP7T8LiJVQtEs1MN"
       },
@@ -6407,6 +6639,24 @@
       "duration_ms": 165500,
       "name": "Way of Looking at the World",
       "url": "https://open.spotify.com/track/7GbJKpbxlUIqnQZ2a0yHxr"
+    },
+    {
+      "album": {
+        "name": "Ways to Move",
+        "url": "https://open.spotify.com/album/6KsDao4hywVHchTXy1T43D"
+      },
+      "artists": [
+        {
+          "name": "The Tambourine Social",
+          "url": "https://open.spotify.com/artist/5nHEzEXgMjDsR58ZMG4aHq"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168739,
+      "name": "Ways to Move",
+      "url": "https://open.spotify.com/track/5rCsqvp8GQugz2ni1OukH0"
     },
     {
       "album": {

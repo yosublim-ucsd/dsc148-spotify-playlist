@@ -1,7 +1,7 @@
 {
-  "2024-04-27": 297752,
+  "2024-04-28": 297704,
   "date_first_scraped": "2023-10-25",
-  "description": "The leaders in the lively Pinoy indie scene. Cover: Carousel Casualties",
+  "description": "The leaders in the lively Pinoy indie scene. Cover: Dear Dahlia",
   "name": "Pinoy Indie Mix",
   "tracks": [
     {
@@ -21,6 +21,28 @@
       "duration_ms": 222000,
       "name": "711",
       "url": "https://open.spotify.com/track/2ONW0ksoUixoxT7gfI9hWX"
+    },
+    {
+      "album": {
+        "name": "_enero",
+        "url": "https://open.spotify.com/album/6XhmoEnRzbCUEv2Flb6OoG"
+      },
+      "artists": [
+        {
+          "name": "Luke April",
+          "url": "https://open.spotify.com/artist/4HzeCMhywzJSG6uixss0rJ"
+        },
+        {
+          "name": "Rreyo Obero",
+          "url": "https://open.spotify.com/artist/55mghnwb99ICUylLaN3uBs"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215332,
+      "name": "_enero (feat. Rreyo Obero)",
+      "url": "https://open.spotify.com/track/2XeqHpVslF6YNPWy5pQRk7"
     },
     {
       "album": {
@@ -251,7 +273,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 247147,
       "name": "CK2",
       "url": "https://open.spotify.com/track/4Zlt1E6DOWVExa9Cnr0uMx"
@@ -327,6 +349,24 @@
       "duration_ms": 224437,
       "name": "Easy",
       "url": "https://open.spotify.com/track/0t4yopXQW1ObWhhT5FQGzZ"
+    },
+    {
+      "album": {
+        "name": "ECHOES",
+        "url": "https://open.spotify.com/album/2II6ORU1Cn0PHpFbQ0ndwt"
+      },
+      "artists": [
+        {
+          "name": "BRISOM",
+          "url": "https://open.spotify.com/artist/52AFbIsIjRLcaHCt8KV1rg"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203720,
+      "name": "ECHOES",
+      "url": "https://open.spotify.com/track/6E4NPIdGunpKm015u5KPyC"
     },
     {
       "album": {
@@ -533,6 +573,28 @@
       "duration_ms": 259799,
       "name": "I JUST WANT TO KISS YOU NOW",
       "url": "https://open.spotify.com/track/5LXtfG0XvhHRTEuDIHwlic"
+    },
+    {
+      "album": {
+        "name": "I'll Be Mine",
+        "url": "https://open.spotify.com/album/4inuQ9tn1ve7GOAsvPD2QC"
+      },
+      "artists": [
+        {
+          "name": "flu",
+          "url": "https://open.spotify.com/artist/6saBjzFSNu2pvTcfWWE04R"
+        },
+        {
+          "name": "Numcha",
+          "url": "https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210584,
+      "name": "I'll Be Mine",
+      "url": "https://open.spotify.com/track/6oNqOzzH5P3X8m7qE7GgbO"
     },
     {
       "album": {
@@ -745,7 +807,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 340213,
       "name": "Miscom",
       "url": "https://open.spotify.com/track/45EVGLu8wUvJynnl9J21W1"
@@ -857,7 +919,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 256678,
       "name": "Panahon",
       "url": "https://open.spotify.com/track/7Gl40zLvOcPveQu44Zf6pL"
@@ -897,6 +959,24 @@
       "duration_ms": 197708,
       "name": "Pano",
       "url": "https://open.spotify.com/track/6sEou6d20Y6ckzht82CTsO"
+    },
+    {
+      "album": {
+        "name": "Panoba",
+        "url": "https://open.spotify.com/album/1r64cPdeRYD3buv8KH6KlI"
+      },
+      "artists": [
+        {
+          "name": "JERGE",
+          "url": "https://open.spotify.com/artist/220RvBKeVFbVEZf3YE2tKC"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137392,
+      "name": "Panoba",
+      "url": "https://open.spotify.com/track/4NLqgAJWgHYHMhFrLUw8wg"
     },
     {
       "album": {
@@ -1261,7 +1341,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 258946,
       "name": "Somebody\u2019s Better",
       "url": "https://open.spotify.com/track/66SfXY4jUuylReAjoDS8gw"
@@ -1319,7 +1399,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 224000,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/4C9bX6MwR0JBYDGK4JXhbB"
@@ -1500,6 +1580,24 @@
     },
     {
       "album": {
+        "name": "tula\u2019t awitin",
+        "url": "https://open.spotify.com/album/4Dhy6jsfza1wRGKd7dxROZ"
+      },
+      "artists": [
+        {
+          "name": "Dear Dahlia",
+          "url": "https://open.spotify.com/artist/5PstZ2n9tsytowjzUQJc2g"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232500,
+      "name": "tula\u2019t awitin",
+      "url": "https://open.spotify.com/track/7511599u12WzpKbpyDFg3T"
+    },
+    {
+      "album": {
         "name": "tuluyan",
         "url": "https://open.spotify.com/album/7frTZfk0Kk2PYK9iDKdtzb"
       },
@@ -1518,6 +1616,24 @@
     },
     {
       "album": {
+        "name": "Wag Naman",
+        "url": "https://open.spotify.com/album/65pOeGMiizBrW6NCBQHYBa"
+      },
+      "artists": [
+        {
+          "name": "The Cohens",
+          "url": "https://open.spotify.com/artist/5x3ZUgvYdLryFxvI4n1F1G"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152358,
+      "name": "Wag Naman",
+      "url": "https://open.spotify.com/track/7BkZPPgzeuDMIoa44OPe8e"
+    },
+    {
+      "album": {
         "name": "WHERE IS THE L?E",
         "url": "https://open.spotify.com/album/1gn16qBOLYLe0mmtBc3tU8"
       },
@@ -1529,7 +1645,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 169570,
       "name": "WHERE IS THE L?E",
       "url": "https://open.spotify.com/track/3CR1mWThIKsALVzoSOBo9V"

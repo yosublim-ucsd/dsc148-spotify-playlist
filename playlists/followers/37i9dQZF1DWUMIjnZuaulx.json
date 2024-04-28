@@ -1,7 +1,7 @@
 {
-  "2024-04-27": 286678,
+  "2024-04-28": 286800,
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover: <a href=\"spotify:artist:03qM4LmPCrR7CuHTE0WAIW\">Koryn Hawthorne</a>",
+  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover: <a href=\"spotify:artist:03qM4LmPCrR7CuHTE0WAIW\">CeCe Winans</a>",
   "name": "Fresh Gospel",
   "tracks": [
     {
@@ -307,7 +307,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 392844,
       "name": "Alive In You",
       "url": "https://open.spotify.com/track/449AmoK7bviAqLSfhXiRlz"
@@ -855,7 +855,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 286263,
       "name": "Battle",
       "url": "https://open.spotify.com/track/1sYoZAvZsS7fmrwWieTz9q"
@@ -1025,6 +1025,24 @@
       "duration_ms": 502359,
       "name": "Bigger (feat. Travis Greene & Donishisa Ballard)",
       "url": "https://open.spotify.com/track/60J6sh0s2jibaDOxDnK01Y"
+    },
+    {
+      "album": {
+        "name": "Bigger Than (Live)",
+        "url": "https://open.spotify.com/album/3v5YgSOQVk6bd9h25uzXzl"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347477,
+      "name": "Bigger Than - Live",
+      "url": "https://open.spotify.com/track/3tVSPEd8H4OBCYqMWDmpJJ"
     },
     {
       "album": {
@@ -1401,7 +1419,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 298050,
       "name": "Come Jesus Come",
       "url": "https://open.spotify.com/track/0HQBjmtfGFzhXHo8UUys1c"
@@ -1473,7 +1491,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 444430,
       "name": "Confessions - Live",
       "url": "https://open.spotify.com/track/263bKs830B9Ae4UzgtU80Q"
@@ -1867,6 +1885,28 @@
       "duration_ms": 380164,
       "name": "Expectation",
       "url": "https://open.spotify.com/track/0zV5ucobkJO0o1HiOKDzWB"
+    },
+    {
+      "album": {
+        "name": "Fall Fresh",
+        "url": "https://open.spotify.com/album/0rFMuUKcJlr33uxFFrEOGi"
+      },
+      "artists": [
+        {
+          "name": "Forest City Worship",
+          "url": "https://open.spotify.com/artist/62ljNQ8SnPR741I6DWY8II"
+        },
+        {
+          "name": "Carrington Gaines",
+          "url": "https://open.spotify.com/artist/06KVH7flbJYpynOJ0pcUwZ"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448407,
+      "name": "Fall Fresh",
+      "url": "https://open.spotify.com/track/0XwtPJI48tpmYwyRRLQlur"
     },
     {
       "album": {
@@ -2333,6 +2373,28 @@
       "duration_ms": 324749,
       "name": "God Is Working",
       "url": "https://open.spotify.com/track/0xHo0tA2RYAPSpKGIo5pzy"
+    },
+    {
+      "album": {
+        "name": "God Loves You",
+        "url": "https://open.spotify.com/album/1pH8ofguf363tpw6muYuqn"
+      },
+      "artists": [
+        {
+          "name": "Marcus Jordan",
+          "url": "https://open.spotify.com/artist/27Xu3PU0agWqCrDuhHtQva"
+        },
+        {
+          "name": "Rhonda Mclemore",
+          "url": "https://open.spotify.com/artist/4ni8VBwhzpbH1zUtXurV9E"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243713,
+      "name": "God Loves You",
+      "url": "https://open.spotify.com/track/2hCJjpQzJhHgc4j7kIUsYK"
     },
     {
       "album": {
@@ -3263,7 +3325,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 299836,
       "name": "Heaven Is My Goal",
       "url": "https://open.spotify.com/track/3MDH2X9j65F2adVyL59j3W"
@@ -3439,6 +3501,24 @@
       "duration_ms": 327894,
       "name": "Here in Your Presence - Live",
       "url": "https://open.spotify.com/track/1SRsgZA0FUWzvf1nRameqn"
+    },
+    {
+      "album": {
+        "name": "Hide & Seek",
+        "url": "https://open.spotify.com/album/4Yp3ikslVQzUzLhl9RmBiG"
+      },
+      "artists": [
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294350,
+      "name": "Hide & Seek",
+      "url": "https://open.spotify.com/track/6VLRKeSYItHdv6zWYzBEiZ"
     },
     {
       "album": {
@@ -3642,7 +3722,7 @@
       "artists": [
         {
           "name": "Randy Weston",
-          "url": "https://open.spotify.com/artist/6Cx6WhEWHJWPeiFspDCwDR"
+          "url": "https://open.spotify.com/artist/6rBxU46le6jDmzkYLD3FVN"
         },
         {
           "name": "Judah Band",
@@ -5967,6 +6047,28 @@
       "duration_ms": 459750,
       "name": "More Than Enough",
       "url": "https://open.spotify.com/track/3qLQuhUegj9nStFKE2zUhq"
+    },
+    {
+      "album": {
+        "name": "More Than This",
+        "url": "https://open.spotify.com/album/2lsb6BmwfbVswn64kaLgcy"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        },
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 499250,
+      "name": "More Than This",
+      "url": "https://open.spotify.com/track/2kmucvuH6lJzDpvd5QXHWG"
     },
     {
       "album": {
@@ -8739,7 +8841,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 203237,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/2GTB5IhZqhdYLBGpAIfAPL"
@@ -9885,6 +9987,24 @@
       "duration_ms": 393306,
       "name": "Wrong About You (Live)",
       "url": "https://open.spotify.com/track/0FKLNnBomURjpw6pKIvS3E"
+    },
+    {
+      "album": {
+        "name": "God Did It",
+        "url": "https://open.spotify.com/album/14hdglFRXQC67vNA7Uo2gO"
+      },
+      "artists": [
+        {
+          "name": "Mervin Mayo",
+          "url": "https://open.spotify.com/artist/32N3ovxRWJFnUzlUZmXM2t"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232572,
+      "name": "Wrote A Song About It",
+      "url": "https://open.spotify.com/track/1zY6ZBCxGqojCU82YGerS5"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 56470,
+  "2024-04-28": 56497,
   "date_first_scraped": "2021-12-28",
   "description": "The best in blues right now. Cover: Toronzo Cannon",
   "name": "Got Blues",
@@ -143,7 +143,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 298043,
       "name": "Ain't That A Man",
       "url": "https://open.spotify.com/track/5K1zCqvd3rcvAEMdGgJjeg"
@@ -1863,7 +1863,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 250600,
       "name": "Funky Music",
       "url": "https://open.spotify.com/track/6P1ymqtnLK8fhgss4wSAV4"
@@ -2586,6 +2586,24 @@
     },
     {
       "album": {
+        "name": "Human Decency",
+        "url": "https://open.spotify.com/album/5OassCcLEpK9Ge2MFQvdT1"
+      },
+      "artists": [
+        {
+          "name": "Sugaray Rayford",
+          "url": "https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229603,
+      "name": "Human Decency",
+      "url": "https://open.spotify.com/track/6FJuXe1j7UcQQmGKRoCtu4"
+    },
+    {
+      "album": {
         "name": "The Sun is Shining Down",
         "url": "https://open.spotify.com/album/5xuD9DAR2jAPxlYw4XnaXt"
       },
@@ -3237,6 +3255,24 @@
       "duration_ms": 249384,
       "name": "In The Water",
       "url": "https://open.spotify.com/track/23s0MmTdYCrt1lu2gxEfkU"
+    },
+    {
+      "album": {
+        "name": "Internet Cowboys",
+        "url": "https://open.spotify.com/album/5GkHtJyAuPkBpANfyDOx3i"
+      },
+      "artists": [
+        {
+          "name": "Seasick Steve",
+          "url": "https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244986,
+      "name": "Internet Cowboys",
+      "url": "https://open.spotify.com/track/0Q9T0EmJqzr0zc02fZopUx"
     },
     {
       "album": {

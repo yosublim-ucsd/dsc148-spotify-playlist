@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 243854,
+  "2024-04-28": 243873,
   "date_first_scraped": "2022-01-21",
   "description": "The perfect pop rock running mix.",
   "name": "Pop Rock Run",
@@ -53,7 +53,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 296520,
       "name": "Ain't It Fun",
       "url": "https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa"
@@ -819,7 +819,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 182693,
       "name": "Hard Times",
       "url": "https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh"

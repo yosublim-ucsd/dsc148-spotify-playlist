@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 
 > Discover this set of songs that define modern hymns for and beyond the church\.  Cover artist: Phil Wickham
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,588 likes - 100 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,590 likes - 100 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 69 | [As The Deer](https://open.spotify.com/track/0XwVqr3oNiLpuQI3NkzQgf) | [Maranatha! Music](https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe) | [Praise 8 \- As The Deer](https://open.spotify.com/album/5W8FCrbWLKeeltQ0NBEdUG) | 4:09 |
 | 70 | [Open the Eyes of My Heart](https://open.spotify.com/track/2THCQcUx495TezaDX57Syx) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 2](https://open.spotify.com/album/4CjbL4RfKRS81ixWDcZc97) | 4:59 |
 | 71 | [Be Still My Soul](https://open.spotify.com/track/6pnT1MuK6JLYW9HY5fKxVw) | [Jadon Lavik](https://open.spotify.com/artist/4LIG4IMVuzGJjAhMxXtll1) | [Roots Run Deeper](https://open.spotify.com/album/6Pcu1C4dXMinzA7AoQa83v) | 4:42 |
-| 72 | [Abide With Me \[Mp Jones\]](https://open.spotify.com/track/3WIM3qKRu2OGenEq5OSke2) | [Indelible Grace Music](https://open.spotify.com/artist/0HoHU8SXe0g9jJGOfL8rDq) | [Wake Thy Slumbering Children: Indelible Grace V](https://open.spotify.com/album/1RMhj9PiOYUnhV4tmfJX99) | 4:04 |
-| 73 | [Dancing on the Moon](https://open.spotify.com/track/7w0JJqemxICJVhhZn2i8ut) | [Isla Vista Worship](https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB) | [Isla Vista Worship](https://open.spotify.com/album/1GWDNLLPguXowYFSWx97Ef) | 4:24 |
+| 72 | [Dancing on the Moon](https://open.spotify.com/track/7w0JJqemxICJVhhZn2i8ut) | [Isla Vista Worship](https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB) | [Isla Vista Worship](https://open.spotify.com/album/1GWDNLLPguXowYFSWx97Ef) | 4:24 |
+| 73 | [Abide With Me \[Mp Jones\]](https://open.spotify.com/track/3WIM3qKRu2OGenEq5OSke2) | [Indelible Grace Music](https://open.spotify.com/artist/0HoHU8SXe0g9jJGOfL8rDq) | [Wake Thy Slumbering Children: Indelible Grace V](https://open.spotify.com/album/1RMhj9PiOYUnhV4tmfJX99) | 4:04 |
 | 74 | [Come Behold the Wondrous Mystery](https://open.spotify.com/track/191TpctWpKVr86es9Q2heJ) | [Matt Boswell](https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm) | [Come Behold the Wondrous Mystery \- Single](https://open.spotify.com/album/28AvjBNITOjVYY283l9kWr) | 3:48 |
 | 75 | [Turn Your Eyes Upon Jesus](https://open.spotify.com/track/3Yo3Ba8ESTuf3mAtksAQjS) | [Rachael Lampa](https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri) | [Turn Your Eyes Upon Jesus](https://open.spotify.com/album/4oiS2A4mcwwsJBxHellUOi) | 3:21 |
 | 76 | [I'll Fly Away](https://open.spotify.com/track/3Ibqth7iNwWwM28ZWcLk3Q) | [Jars Of Clay](https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF) | [Redemption Songs](https://open.spotify.com/album/1BVXtTYIfshVRCeKp9uIwb) | 4:42 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 94 | [Softly And Tenderly](https://open.spotify.com/track/3RVSPxPCT29wt3NgJgAQNn) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Softly And Tenderly](https://open.spotify.com/album/0Mi5UCbI2mPA4Ws6Ql60Wj) | 5:29 |
 | 95 | [What Wondrous Love Is This \(Live from Mayne Island\)](https://open.spotify.com/track/1zyEnquNOscqlJwO672XJ7) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8), [Mason Jar Music](https://open.spotify.com/artist/5fDdnBEEvrNr9dnXSmBxUG) | [The Sea in Between \(Soundtrack\)](https://open.spotify.com/album/0Ao2w5SU5pRoHJKrwg2D1Z) | 2:00 |
 | 96 | [Want](https://open.spotify.com/track/4OYE671tr7tLa3vUG21pop) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Just This](https://open.spotify.com/album/3ghdDK7VnSwx6XvUeE4HJc) | 2:07 |
-| 97 | [God I Look to You](https://open.spotify.com/track/6sDKhTbn1Hd3niDhvrhfe9) | [John Ward](https://open.spotify.com/artist/60vLjtgcrQRJuLfEvM2v2j) | [God I Look to You](https://open.spotify.com/album/1t2UalMvs6V2pkCIuXDFfT) | 4:38 |
-| 98 | [There May Be Tears](https://open.spotify.com/track/1oe3sWhApeuqleeD16rtgi) | [Scott Cunningham Band](https://open.spotify.com/artist/440q5WuNyKO9LHgZACm6bf) | [Come Away](https://open.spotify.com/album/1geY7Bt8b8q1HOn8EOpFIk) | 4:29 |
+| 97 | [There May Be Tears](https://open.spotify.com/track/1oe3sWhApeuqleeD16rtgi) | [Scott Cunningham Band](https://open.spotify.com/artist/440q5WuNyKO9LHgZACm6bf) | [Come Away](https://open.spotify.com/album/1geY7Bt8b8q1HOn8EOpFIk) | 4:29 |
+| 98 | [God I Look to You](https://open.spotify.com/track/6sDKhTbn1Hd3niDhvrhfe9) | [John Ward](https://open.spotify.com/artist/60vLjtgcrQRJuLfEvM2v2j) | [God I Look to You](https://open.spotify.com/album/1t2UalMvs6V2pkCIuXDFfT) | 4:38 |
 | 99 | [Little Things With Great Love \(Live\) \[feat\. Madison Cunningham\]](https://open.spotify.com/track/4mpVCcWKI4uQVJoQWAwTHV) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Work Songs: The Porter's Gate Worship Project Vol 1](https://open.spotify.com/album/0fGjqZbsoSCGJEfjdaCyCI) | 5:07 |
 | 100 | [This Is My Father's World](https://open.spotify.com/track/5MBHprWbl2bkNplRVarZ6Q) | [A New Liturgy](https://open.spotify.com/artist/5WeVXS5COv8kOfCkfe5YMW) | [No 4: Creation](https://open.spotify.com/album/1xBXUvPWnFj7NaKNNweqEz) | 5:14 |
 

@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/5nz3AAoDyHSidelqd2fnci.md) - [plain]
 
 > 
 
-[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 41 min 1 sec
+[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 50 min 34 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [MRBEAST MEME SONG \(TIKTOK\) \- REMIX](https://open.spotify.com/track/5vm148teeUBzbebdijr0P4) | [Keiron Raven](https://open.spotify.com/artist/2vxvNUp5PnFvueL36wxIoc), [Dance Music Now](https://open.spotify.com/artist/3KjtyoP2vi28vw777uMFWl), [Trap Music Now](https://open.spotify.com/artist/1cQnHsdUqpQ1z8D5uZyXPP) | [MRBEAST MEME SONG \(TIKTOK\) \[REMIX\]](https://open.spotify.com/album/2A1sdlZ6axXGBHOfnYSWIe) | 1:55 |
-| 2 | [Mystify](https://open.spotify.com/track/14BNlprhNMYVRUROXn6N87) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [INXS Remastered](https://open.spotify.com/album/7CJvhqb2PJq5fBcY6eKqjl) | 3:17 |
-| 3 | [Stretch](https://open.spotify.com/track/290x0HFZibOGZ7jgMIlKgU) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [Stretch](https://open.spotify.com/album/1Y00m2WKm4XYK30iKSe3NX) | 4:01 |
-| 4 | [Cupid](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 |
-| 5 | [¿Viva La Gloria? \(Little Girl\)](https://open.spotify.com/track/27vTPVDVQb9irdnvzJDmY8) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [21st Century Breakdown](https://open.spotify.com/album/5nKs4LNpHgz0xggy0piMCK) | 3:47 |
-| 6 | [Fortune Eyes](https://open.spotify.com/track/283RgDyFjmpN7vVKOEVoqC) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Fortune Eyes](https://open.spotify.com/album/1dJrWZOEKfcObcWLSpMTzr) | 2:22 |
-| 7 | [I Remember You](https://open.spotify.com/track/4ZpXHlV2vQVfPXUvbDSZ92) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Skid Row](https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi) | 5:13 |
-| 8 | [Angel Blue](https://open.spotify.com/track/4Rce7Dk3rYxcAbpRUvGPmV) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [¡UNO!](https://open.spotify.com/album/6AFJIZmd1zWQDBBwHyeo9w) | 2:46 |
-| 9 | [Grandes Pasos](https://open.spotify.com/track/1kTDUMGq732oIs3XJK1bre) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo) | [Edición Especial](https://open.spotify.com/album/5DUcnGGmAANjBJuXVG0KxQ) | 3:38 |
-| 10 | [Bulimic](https://open.spotify.com/track/7F3siFl1KHijy9icZP3Idd) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 3:20 |
-| 11 | [Drown](https://open.spotify.com/track/6o39Ln9118FKTMbM4BvcEy) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:42 |
-| 12 | [La Pelicula](https://open.spotify.com/track/0X05H030ZYSsRMLh4E59Ux) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [De Camino Pa' la Cima \(Reloaded 2.0\)](https://open.spotify.com/album/4vOIqeCmrntK338zBN4qkK) | 4:01 |
+| 1 | [To Bring You My Love](https://open.spotify.com/track/537IPiZTZ1GVcohzFHAHf5) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [To Bring You My Love](https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8) | 5:31 |
+| 2 | [Temptation](https://open.spotify.com/track/0qrUNGTDg1YwfC8RLMdsoC) | [Leaves' Eyes](https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ) | [Lovelorn](https://open.spotify.com/album/3etwb6Byr4OaBoe4TBDlw6) | 3:44 |
+| 3 | [The Evil That Men Do \- 1998 Remaster](https://open.spotify.com/track/2FkxsINVws3o8Ox4fSvc3N) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Seventh Son Of A Seventh Son \(1998 Remastered Edition\)](https://open.spotify.com/album/7cdDal1Z1YFYfqH2nFGOJa) | 4:33 |
+| 4 | [Childhood \(Theme from "Free Willy 2"\)](https://open.spotify.com/track/1Cfx6KBsyF0tEKbZbS4faj) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [HIStory \- PAST, PRESENT AND FUTURE \- BOOK I](https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk) | 4:27 |
+| 5 | [Volverme Amar](https://open.spotify.com/track/0ik9ayovWhJWxhwXPtaGUc) | [Henao](https://open.spotify.com/artist/2tAOr6Bu4b1JDQjRZcMdML) | [Volverme Amar](https://open.spotify.com/album/20mCBhOBx82QuOJ2BsHfgp) | 2:10 |
+| 6 | [Body to Body](https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL) | [Gepy & Gepy](https://open.spotify.com/artist/09FocFgY6iQKkQB91QPK5o) | [Italian Dance](https://open.spotify.com/album/64cl4El2FwAO60rDuUxg33) | 3:12 |
+| 7 | [Of Wolf And Man \(Live with the SFSO\)](https://open.spotify.com/track/57U9JRGUXtHko5Jc2liyKT) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [S&M](https://open.spotify.com/album/7HcHPb1P9mubh0vyDdawAv) | 4:18 |
+| 8 | [Runaway](https://open.spotify.com/track/5BtaoCOyc1rMPWiV6SsQFg) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Punk Goes Pop, Volume 4](https://open.spotify.com/album/2fp3CYdsCAx9VXYHv1PTTv) | 8:44 |
+| 9 | [ooweeooweeoo](https://open.spotify.com/track/5zVkl4naswYMPDdlY9ENSQ) | [Chanpan](https://open.spotify.com/artist/1fWoiW6kTjrVDoRc4ba3kh) | [ooweeooweeoo](https://open.spotify.com/album/329ru3PYSAfzO3K7sl5T19) | 1:58 |
+| 10 | [Yer Killin' Me](https://open.spotify.com/track/79lzbYqczF4oLoOkxx9mHK) | [Remo Drive](https://open.spotify.com/artist/5LMPXUMhWXshBPjrqvZOfv) | [Greatest Hits](https://open.spotify.com/album/7fYIVBhlC5gKvOSDFsUxxT) | 3:54 |
+| 11 | [Emmaretta \- 1998 Remaster](https://open.spotify.com/track/00HE1qHBiJhWYhRfh22qK8) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [The Very Best Of \(Special Edition\)](https://open.spotify.com/album/0XmL85owcwkhqvKLgJObQx) | 3:00 |
+| 12 | [Fix You](https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:55 |
 
-Snapshot ID: `OTgsNWQxNTQzMDU5OTYwMmI4ODNlMzA3N2Q4YzIxZGY2ZTgwN2JkN2I4Mg==`
+Snapshot ID: `OTksYmUyMjE0NWU1NDFiOWZmNDJhOTc1ZGRmNThiZjc4YTkzMDZmMjJmMQ==`

@@ -4,7 +4,7 @@
 
 > Soak up these laid\-back jams.
 
-314 songs - 18 hr 51 min
+315 songs - 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Dancing On The Radio](https://open.spotify.com/track/0B5iOjvAs57ZQSJWoJ3zZ2) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a), [Tim Armstrong](https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3) | [YAK: A Collection Of Truck Songs](https://open.spotify.com/album/6OAAliu22icFYIaidsV4V7) | 2:56 | 2022-01-10 | 2022-06-22 |
 | [Date Rape](https://open.spotify.com/track/2nS4sfMUR5mOSXQWvPhVol) | [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Date Rape](https://open.spotify.com/album/4V4DnIDHvrKquBfbTSXsPf) | 4:28 | 2021-12-10 | 2022-01-11 |
 | [Dawn of Time](https://open.spotify.com/track/445qQk3nyQwmjf4vzDghKd) | [Tribal Seeds](https://open.spotify.com/artist/7jgZFR40bWjwOrRCOZFB02) | [Tribal Seeds](https://open.spotify.com/album/6wmbkqwaT1z87mPMKxxhfN) | 4:16 | 2022-07-06 |  |
-| [Daydreaming](https://open.spotify.com/track/3VXvKTOQoY0kWvpjU67uq2) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Daydreaming](https://open.spotify.com/album/30kvONotzSeqLplcsaa1SH) | 3:17 | 2024-03-05 |  |
+| [Daydreaming](https://open.spotify.com/track/3VXvKTOQoY0kWvpjU67uq2) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Daydreaming](https://open.spotify.com/album/30kvONotzSeqLplcsaa1SH) | 3:17 | 2024-03-05 | 2024-04-28 |
 | [Daydreaming](https://open.spotify.com/track/0sgwQ68fvcBjsQXzogGC1O) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Mind The Moon](https://open.spotify.com/album/39EHgpDs6VgKlx0RY0E37J) | 3:19 | 2023-07-28 | 2024-04-19 |
 | [Daydreaming](https://open.spotify.com/track/3v5OftOHxaVpaaJ8NArHos) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Mind The Moon](https://open.spotify.com/album/4IVcJES0Og7KzrtA70DgC2) | 3:19 | 2022-07-06 | 2023-11-04 |
 | [Daytrippin](https://open.spotify.com/track/5sm6mDPCzeakdJFdQM8zeK) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [Daytrippin](https://open.spotify.com/album/7Gg6gwmX9EA9b4S4EPUxws) | 3:02 | 2023-08-11 |  |
@@ -127,6 +127,7 @@
 | [Greed](https://open.spotify.com/track/1XiBjBWoxUxmrjqUbgLTSj) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/7o1gl7In7Onhi6KpQwUDWy) | 3:42 | 2024-03-05 | 2024-04-19 |
 | [Greed](https://open.spotify.com/track/1c9NFMnYVnU8J56Ccj9BFo) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK) | 3:42 | 2023-05-19 | 2024-02-14 |
 | [Green Mountain State](https://open.spotify.com/track/0c7iF5fSBYxCuwsAv2z4iI) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [Chapter Of The Forest](https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP) | 4:34 | 2021-12-10 |  |
+| [Gunman](https://open.spotify.com/track/5RfyhhgWY3RHlupIXsrgA5) | [Jaz Elise](https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA) | [Gunman](https://open.spotify.com/album/34l7xEJvkbXs2Ve85ddcKR) | 3:53 | 2024-04-26 |  |
 | [Headline](https://open.spotify.com/track/3FnBOGtgQCqTbS5lyfNGmW) | [Unified Highway](https://open.spotify.com/artist/2NHCOkNgLrsSSdKEZgcxvI) | [Headline](https://open.spotify.com/album/48BSZ9gRwOzUVi6gvkERDb) | 3:23 | 2021-12-10 |  |
 | [Heavy as Lead](https://open.spotify.com/track/59HQVKZfaKycUzRTtp1zDO) | [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc) | [Heavy as Lead](https://open.spotify.com/album/1uqKKrSpCBx15YzUY3f55m) | 2:56 | 2021-12-10 |  |
 | [Here I Am](https://open.spotify.com/track/1YerDWS5vQE35RjTe53CDR) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc) | [Born In Babylon](https://open.spotify.com/album/4XylolsNO125zA2WtvpoXl) | 4:48 | 2022-11-17 | 2024-04-19 |

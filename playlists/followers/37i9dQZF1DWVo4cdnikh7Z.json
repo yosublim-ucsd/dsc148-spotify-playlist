@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 662216,
+  "2024-04-28": 662193,
   "date_first_scraped": "2022-05-30",
   "description": "New Music from Kollywood.\nCover : Coolie",
   "name": "Latest Tamil",
@@ -12387,6 +12387,40 @@
       "duration_ms": 196000,
       "name": "Kombari Vettapuli (From \"Captain Miller\")",
       "url": "https://open.spotify.com/track/3ABmPbCBTSeer7MO4SKvlZ"
+    },
+    {
+      "album": {
+        "name": "Kondattam (From \"Kurangu Pedal\")",
+        "url": "https://open.spotify.com/album/4k5kMGRGZsUfOjERVfbhth"
+      },
+      "artists": [
+        {
+          "name": "Ghibran",
+          "url": "https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ"
+        },
+        {
+          "name": "Ahana Balaji",
+          "url": "https://open.spotify.com/artist/3u8AJXgpkPKGFpNfSdNCGS"
+        },
+        {
+          "name": "Vidhyarupini",
+          "url": "https://open.spotify.com/artist/7xYEiMFf7B6iroMGVKvco3"
+        },
+        {
+          "name": "V. Shivathmika",
+          "url": "https://open.spotify.com/artist/4xePdQ8zeScxPnmoMuKLM3"
+        },
+        {
+          "name": "Bramma",
+          "url": "https://open.spotify.com/artist/6MCVsi6GS30CyBcLvhKcRg"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199600,
+      "name": "Kondattam - From \"Kurangu Pedal\"",
+      "url": "https://open.spotify.com/track/6LduSKxmuB7Gw5ohoStJaL"
     },
     {
       "album": {

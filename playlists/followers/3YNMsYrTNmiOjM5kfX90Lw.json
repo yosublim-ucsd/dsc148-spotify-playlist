@@ -1,9 +1,27 @@
 {
-  "2024-04-27": 412967,
+  "2024-04-28": 413080,
   "date_first_scraped": "2023-12-14",
   "description": "Hip-hop favorites. Songs distributed by DistroKid, playlist curated by the public. To vote, head to: distrokid.com/spotlight",
   "name": "DistroKid Rap Scallion",
   "tracks": [
+    {
+      "album": {
+        "name": "+ FUERTE",
+        "url": "https://open.spotify.com/album/05STMe6DcKx6G6PLoGL1Wm"
+      },
+      "artists": [
+        {
+          "name": "BRAGI",
+          "url": "https://open.spotify.com/artist/2Mg6hjUhnSyXUZlr1j7zPG"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122665,
+      "name": "+ FUERTE",
+      "url": "https://open.spotify.com/track/6UsckPuAGRXbhbPik5aARO"
+    },
     {
       "album": {
         "name": "Response",
@@ -21,7 +39,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 39145,
       "name": "... an Interlude",
       "url": "https://open.spotify.com/track/0ZisrQEomfaJiUnHnjjVjU"
@@ -61,7 +79,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 164261,
       "name": "22",
       "url": "https://open.spotify.com/track/2cxlERDpmu8JBnyxijYjnZ"
@@ -133,7 +151,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 139702,
       "name": "A\u011fustosta Kalm\u0131\u015f\u0131m",
       "url": "https://open.spotify.com/track/4SaCXyRQPbCo1aHnaSDyEP"
@@ -241,7 +259,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 214177,
       "name": "Big Shit",
       "url": "https://open.spotify.com/track/33ABawsXB7kQr5pNr6TJkl"
@@ -353,7 +371,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 229537,
       "name": "Break My Heart",
       "url": "https://open.spotify.com/track/7Bbg2pR6QsOe5TRmZaJeD5"
@@ -585,7 +603,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 167468,
       "name": "Dekh Kaise - Non-studio",
       "url": "https://open.spotify.com/track/2hBjSEWVZ3tVL1EZ4vQ80j"
@@ -737,7 +755,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 122068,
       "name": "easy talks",
       "url": "https://open.spotify.com/track/20t7VkbLlPQq7jmE6q0eVQ"
@@ -977,7 +995,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 123946,
       "name": "Get It",
       "url": "https://open.spotify.com/track/63FFIv5d0E4TgiKa7Qjhek"
@@ -1013,7 +1031,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 144048,
       "name": "Got it out the mud",
       "url": "https://open.spotify.com/track/20wyrn6Sd5ixCT6mlkS6Vo"
@@ -1039,6 +1057,24 @@
       "duration_ms": 161906,
       "name": "Grace",
       "url": "https://open.spotify.com/track/1Lbk2D1067QeJL0Vxg3LxX"
+    },
+    {
+      "album": {
+        "name": "Haine",
+        "url": "https://open.spotify.com/album/542tp3EwPa0EBReq3jsJbl"
+      },
+      "artists": [
+        {
+          "name": "Aylan IZM",
+          "url": "https://open.spotify.com/artist/3V3BbQbJmifoHm2WQsJ6Jl"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188523,
+      "name": "Haine",
+      "url": "https://open.spotify.com/track/5rfthnjZtp8P7n4xoLPFRx"
     },
     {
       "album": {
@@ -1093,7 +1129,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 143999,
       "name": "Honn\u00eate",
       "url": "https://open.spotify.com/track/6wGZv8rxhhIm6VeexemrG0"
@@ -1141,7 +1177,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 154000,
       "name": "How Many Times?",
       "url": "https://open.spotify.com/track/1B3MiLxOn16mDskFuxjtJX"
@@ -1225,7 +1261,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 198722,
       "name": "Icarus",
       "url": "https://open.spotify.com/track/0c15x0Cx91xDvIBGVnlMZj"
@@ -1290,6 +1326,28 @@
     },
     {
       "album": {
+        "name": "BPM in den Venen",
+        "url": "https://open.spotify.com/album/56zieVYr50IPbHDDsMvzN0"
+      },
+      "artists": [
+        {
+          "name": "Grauton",
+          "url": "https://open.spotify.com/artist/1YwbMzoB2Az9rvoxs2LTdk"
+        },
+        {
+          "name": "CMVMVK",
+          "url": "https://open.spotify.com/artist/3YuSejXVSq37fpwuJ8cTuU"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126857,
+      "name": "Inszenierung",
+      "url": "https://open.spotify.com/track/66v6mLEy4UDTkDWSZmENKn"
+    },
+    {
+      "album": {
         "name": "Intro",
         "url": "https://open.spotify.com/album/5mm3Fdc4Aen5075XKEOcz5"
       },
@@ -1301,7 +1359,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 171966,
       "name": "Intro",
       "url": "https://open.spotify.com/track/0VnadZNK2yej0BCnIuhZqu"
@@ -1359,7 +1417,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 218350,
       "name": "It Ain't That Deep",
       "url": "https://open.spotify.com/track/2ipExlF6oNHpiGtWsFusUA"
@@ -1493,7 +1551,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 245200,
       "name": "King Life",
       "url": "https://open.spotify.com/track/2OrUMzP1iHrkrUJ0Y7Sf6h"
@@ -2083,7 +2141,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 116749,
       "name": "Parasite",
       "url": "https://open.spotify.com/track/0KM0HE84qCsIg8BP23YCKv"
@@ -2242,6 +2300,28 @@
     },
     {
       "album": {
+        "name": "she's fuckin' illegal",
+        "url": "https://open.spotify.com/album/5RxKr7gO3UZz9R0WPpvkSH"
+      },
+      "artists": [
+        {
+          "name": "3ly",
+          "url": "https://open.spotify.com/artist/5yGftOFcUoejg3mkLW2NsF"
+        },
+        {
+          "name": "chipi chipi chapa chapa",
+          "url": "https://open.spotify.com/artist/5SaAmmEHMIJI1ZbzTQYH1p"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119580,
+      "name": "she's fuckin' illegal",
+      "url": "https://open.spotify.com/track/2CpeK3YuNH1cIN2jxvq5jI"
+    },
+    {
+      "album": {
         "name": "show u off",
         "url": "https://open.spotify.com/album/3T9JuYAzFeT1JV23hK82qK"
       },
@@ -2257,6 +2337,42 @@
       "duration_ms": 115310,
       "name": "show u off",
       "url": "https://open.spotify.com/track/50fGJbFebNjBQ9QOMNiASh"
+    },
+    {
+      "album": {
+        "name": "Life Goes On",
+        "url": "https://open.spotify.com/album/10j5oKvZHX5ZGIgr6NCBJU"
+      },
+      "artists": [
+        {
+          "name": "44Rose",
+          "url": "https://open.spotify.com/artist/5DRV8Fi92NywYefJDLkgEU"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Sides Over Circles",
+      "url": "https://open.spotify.com/track/0U62bDtK8H1aKOggn07bQP"
+    },
+    {
+      "album": {
+        "name": "SKYWALKER",
+        "url": "https://open.spotify.com/album/516ErDe4FPxh0I9kD7fVjw"
+      },
+      "artists": [
+        {
+          "name": "KSP",
+          "url": "https://open.spotify.com/artist/74k0TxeAnz95pWRqkuMgLg"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142668,
+      "name": "SKYWALKER",
+      "url": "https://open.spotify.com/track/4DWvIylqSr668qWH9JrdAY"
     },
     {
       "album": {
@@ -2283,6 +2399,28 @@
       "duration_ms": 177319,
       "name": "Space N Time",
       "url": "https://open.spotify.com/track/70bQbnJmEl8492pMI22thF"
+    },
+    {
+      "album": {
+        "name": "Speaking On Me",
+        "url": "https://open.spotify.com/album/7moAuLxPz6IzfFi2IE2Cbb"
+      },
+      "artists": [
+        {
+          "name": "Cole Dean",
+          "url": "https://open.spotify.com/artist/3gLdHg7g4MWKnw5KGaFEek"
+        },
+        {
+          "name": "1takeoff",
+          "url": "https://open.spotify.com/artist/3ElsPORj9O19T1ij8wLkc9"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127552,
+      "name": "Speaking On Me",
+      "url": "https://open.spotify.com/track/6yvMJhMmr6eHR9dkdOOmcK"
     },
     {
       "album": {
@@ -2555,7 +2693,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 140852,
       "name": "TooFlyy - Radio Edit",
       "url": "https://open.spotify.com/track/2w9XJdJeFjoVe3YY3cc6mr"
@@ -2675,10 +2813,32 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/6V1xg5lfEgw9cwv6AZLG9j"
+    },
+    {
+      "album": {
+        "name": "VACAN\u021aA DE VAR\u0102",
+        "url": "https://open.spotify.com/album/7bhf4vQskA1hH4wV0JGC6K"
+      },
+      "artists": [
+        {
+          "name": "Fructifer",
+          "url": "https://open.spotify.com/artist/73jbaFImKcQ4pZdsLXZHq4"
+        },
+        {
+          "name": "thisizVODKA",
+          "url": "https://open.spotify.com/artist/3JG5KoQpxeEV52D7xJ1OdL"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168395,
+      "name": "VACAN\u021aA DE VAR\u0102",
+      "url": "https://open.spotify.com/track/6d7hhjBeJ667l9yNVXnV7j"
     },
     {
       "album": {

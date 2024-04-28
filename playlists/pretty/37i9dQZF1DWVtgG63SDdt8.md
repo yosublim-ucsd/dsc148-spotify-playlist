@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:0OQ8y7heASb1vEX5WXvjCr">Aaron Cole</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,556 likes - 101 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,576 likes - 101 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 18 | [IT'S A GOOD TIME TO PRAISE](https://open.spotify.com/track/5q2jEdRqsedj5zi05IpmQM) | [Peter Burton](https://open.spotify.com/artist/1672I4FOIEA58baau2xHk0) | [IT'S A GOOD TIME TO PRAISE](https://open.spotify.com/album/7iKtvkCrNCC1l5ZTBZZj22) | 3:20 |
 | 19 | [Dangerous \- Live](https://open.spotify.com/track/3m6BoDxOGSVNN0Xm94F0Ze) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [Every Time \(Live\)](https://open.spotify.com/album/7EIFXdEc3xPCabrGAHKgxk) | 4:23 |
 | 20 | [Make Us One](https://open.spotify.com/track/4YL5JPZwFsMTC9e6w0CoNP) | [One Big Family Music](https://open.spotify.com/artist/4whsRfmBDQaEyzrBS6fHZL), [Kelsey J.](https://open.spotify.com/artist/34kEmogr3p7V1awY0IPmYu), [Cade Kellam](https://open.spotify.com/artist/1GWnsRvGpSmKxHOjMQah4k), [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc), [Kelsey Breedlove](https://open.spotify.com/artist/0RylJjG2CawOJWWxRD6Qts), [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE), [Eva Swanson](https://open.spotify.com/artist/6xUIcrMr1TuAwBepBySPJZ), [Kalisito](https://open.spotify.com/artist/5anYJAXL9QpI1xIyleHr9R) | [Make Us One](https://open.spotify.com/album/0SbVlmtVDlzQALpyl6epte) | 3:59 |
-| 21 | [Yahweh \- Live](https://open.spotify.com/track/3FnAnpIW5uOrTpoVYqGvad) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I), [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk), [Libby Rosa](https://open.spotify.com/artist/1OZYIBIA9ZIu94PFgQiu5R) | [Yahweh \(Live\)](https://open.spotify.com/album/1PXUV7TQp3eROEU5H1glKh) | 12:13 |
+| 21 | [Yahweh \- Live](https://open.spotify.com/track/3FnAnpIW5uOrTpoVYqGvad) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I), [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk), [Elizabeth Rosa](https://open.spotify.com/artist/1sLBX1uGnt9JW6MRAvHAXF) | [Yahweh \(Live\)](https://open.spotify.com/album/1PXUV7TQp3eROEU5H1glKh) | 12:13 |
 | 22 | [Bigger Than \- Live](https://open.spotify.com/track/3tVSPEd8H4OBCYqMWDmpJJ) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Bigger Than \(Live\)](https://open.spotify.com/album/3v5YgSOQVk6bd9h25uzXzl) | 5:47 |
 | 23 | [Led Me To You](https://open.spotify.com/track/4UJC5u6nPVlwkFn99RupWA) | [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [Led Me To You](https://open.spotify.com/album/509sRDFUxJBTTMvJwhYeCV) | 3:04 |
 | 24 | [Who I Thought You Were](https://open.spotify.com/track/4rZcvYqEpH8574xbJns0Jn) | [Olivia Lane](https://open.spotify.com/artist/3Og5as5vV5n1iTR5iaNNZ6) | [Who I Thought You Were](https://open.spotify.com/album/5ixliO2ILZ6KxGnsGaGTDd) | 3:27 |

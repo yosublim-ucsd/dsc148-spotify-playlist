@@ -1,7 +1,7 @@
 {
-  "2024-04-27": 558,
+  "2024-04-28": 559,
   "date_first_scraped": "2019-05-26",
-  "description": "See also <a href=\"spotify:playlist:2z6FM4scrQ5lpsKId0jeki\">Intro</a>, <a href=\"spotify:playlist:1Z5SNtd1IWRRw3ESZfJZKe\">Pulse</a>, <a href=\"spotify:playlist:2xfCdpmPmRtGgNyuk1zawd\">Edge</a>, <a href=\"spotify:playlist:4pVcfz3aYYdCTMdwGHwJJs\">\u2640Filter</a> or <a href=\"spotify:playlist:18NVIhicUeOGx6Ag3x491U\">2023</a>; or the Sounds of <a href=\"spotify:playlist:0evPZ6WIgSKYY2gnlfXIdA\">Renaissance</a>, <a href=\"spotify:playlist:5WjxMg3QfWAmDH7I2MpMoT\">Troubadour</a>, <a href=\"spotify:playlist:0K86fmE0c0SFgz9GpwhwLm\">Early Music</a>, <a href=\"spotify:playlist:0nqJegaRD3nkCjyIwg7mry\">Trouv\u00e8re</a>, <a href=\"spotify:playlist:0AVJ1UKXMQf244cvu4np0k\">Minnesang</a>, <a href=\"spotify:playlist:511MabrP35Zp3tqYh2G4iJ\">Medieval Ensemble</a>, <a href=\"spotify:playlist:2uc2oq6wQ8ZLSPmPr4qtte\">Early Music Ensemble</a>, <a href=\"spotify:playlist:6zc2HFPnDWeqqsBHhYEQER\">Trecento</a>, <a href=\"spotify:playlist:2UKjnmVx8ROXrNxIAeaE7M\">Ars subtilior</a> or <a href=\"spotify:playlist:5uQQu2RC80Ku5AjSpCtrJF\">Madrigal</a>; or much more at <a href=\"http://everynoise.com\">everynoise.com</a>.",
+  "description": "See also <a href=\"spotify:playlist:2z6FM4scrQ5lpsKId0jeki\">Intro</a>, <a href=\"spotify:playlist:1Z5SNtd1IWRRw3ESZfJZKe\">Pulse</a>, <a href=\"spotify:playlist:2xfCdpmPmRtGgNyuk1zawd\">Edge</a>, <a href=\"spotify:playlist:4pVcfz3aYYdCTMdwGHwJJs\">\u2640Filter</a> or <a href=\"spotify:playlist:18NVIhicUeOGx6Ag3x491U\">2023</a>; or the Sounds of <a href=\"spotify:playlist:0evPZ6WIgSKYY2gnlfXIdA\">Renaissance</a>, <a href=\"spotify:playlist:5WjxMg3QfWAmDH7I2MpMoT\">Troubadour</a>, <a href=\"spotify:playlist:0K86fmE0c0SFgz9GpwhwLm\">Early Music</a>, <a href=\"spotify:playlist:0nqJegaRD3nkCjyIwg7mry\">Trouv\u00e8re</a>, <a href=\"spotify:playlist:0AVJ1UKXMQf244cvu4np0k\">Minnesang</a>, <a href=\"spotify:playlist:2uc2oq6wQ8ZLSPmPr4qtte\">Early Music Ensemble</a>, <a href=\"spotify:playlist:511MabrP35Zp3tqYh2G4iJ\">Medieval Ensemble</a>, <a href=\"spotify:playlist:6zc2HFPnDWeqqsBHhYEQER\">Trecento</a>, <a href=\"spotify:playlist:2UKjnmVx8ROXrNxIAeaE7M\">Ars subtilior</a> or <a href=\"spotify:playlist:5uQQu2RC80Ku5AjSpCtrJF\">Madrigal</a>; or much more at <a href=\"http://everynoise.com\">everynoise.com</a>.",
   "name": "The Sound of Medieval",
   "tracks": [
     {
@@ -1139,7 +1139,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-30",
+      "date_removed": null,
       "duration_ms": 185226,
       "name": "Amour me fait commencer une chanson",
       "url": "https://open.spotify.com/track/57Lsvgsky8iJMePiJeEH83"
@@ -2371,7 +2371,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 214066,
       "name": "Be-m pac d'ivern e d'estiu",
       "url": "https://open.spotify.com/track/6q4HfPcuMBLVU5LehISylM"
@@ -6829,7 +6829,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 300160,
       "name": "Dou tres douz non a la Virge Marie",
       "url": "https://open.spotify.com/track/1uywirNT82aBvKnxVQ7tiA"
@@ -7873,7 +7873,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 337000,
       "name": "Fa La Sol",
       "url": "https://open.spotify.com/track/0nzHUFUbyUtoqY02XjDosn"
@@ -7895,7 +7895,7 @@
       ],
       "date_added": "2019-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 356493,
       "name": "Fa La Sol \u00e0 3",
       "url": "https://open.spotify.com/track/7m5mGr0Kdtgno2Cj8ratCy"
@@ -8541,6 +8541,56 @@
       "duration_ms": 335813,
       "name": "Gautier de Coincy: Hui matin a l'ajourn\u00e9e",
       "url": "https://open.spotify.com/track/6UzJU8H27rbSjaJ76dSwNe"
+    },
+    {
+      "album": {
+        "name": "A Troubadour in Hungary",
+        "url": "https://open.spotify.com/album/7uQcSjZJTl9QEeEuyyEJnk"
+      },
+      "artists": [
+        {
+          "name": "Peire Vidal",
+          "url": "https://open.spotify.com/artist/10lcTgYU9YAZSKs9QvJqAQ"
+        },
+        {
+          "name": "M\u00e1rta Sebesty\u00e9n",
+          "url": "https://open.spotify.com/artist/7a2ZWlXXc4f27qkHXWBQD3"
+        },
+        {
+          "name": "D\u00e1niel Gryllus",
+          "url": "https://open.spotify.com/artist/2d2SDltSKfxgdFdBTiQUQK"
+        },
+        {
+          "name": "Eva Maros",
+          "url": "https://open.spotify.com/artist/4e2YXfxNoCmgn0XTrx0tIW"
+        },
+        {
+          "name": "Andras Kecskes",
+          "url": "https://open.spotify.com/artist/79QEbc7qhkmklPtBOJrltk"
+        },
+        {
+          "name": "Zoltan Falvy",
+          "url": "https://open.spotify.com/artist/2oSSmLZjXukOhZqmALwmkj"
+        },
+        {
+          "name": "B\u00e9la Zsoldos",
+          "url": "https://open.spotify.com/artist/3IUckqpnqx5vn15rXu4g27"
+        },
+        {
+          "name": "Fraternitas Musicorum",
+          "url": "https://open.spotify.com/artist/5XHu4KW7ljJNixWT5ufj3L"
+        },
+        {
+          "name": "Gergely Sarkozy",
+          "url": "https://open.spotify.com/artist/7Lpo9sL8sBsTd5Cjft6VbF"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278706,
+      "name": "Ges pel temps fer e brau",
+      "url": "https://open.spotify.com/track/7kqbNJWxL10X9IeDALucDU"
     },
     {
       "album": {
@@ -9875,7 +9925,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 467493,
       "name": "In hydraulis",
       "url": "https://open.spotify.com/track/6BQ42AqJXySkMOnMZMQab9"
@@ -10309,7 +10359,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 274400,
       "name": "Istampita instrumentale \"Cosa non \u00e8\"",
       "url": "https://open.spotify.com/track/0ET9SvzlUP31o2Oq5FTjqa"
@@ -10777,7 +10827,7 @@
       ],
       "date_added": "2019-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 223386,
       "name": "Je ne merveil (Ballade)",
       "url": "https://open.spotify.com/track/3tk64wFqaiwMxHtEX1SOtG"
@@ -11485,7 +11535,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 258560,
       "name": "La harpe de melodie (virelai)",
       "url": "https://open.spotify.com/track/56VnWdiNZhedAnLfOoAdQx"
@@ -12587,7 +12637,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 228493,
       "name": "Le Jeune: Le Printemps: No. 1, Revecy venir du Printans",
       "url": "https://open.spotify.com/track/3Cl0tyeqMCsKDWDn5pRuEZ"
@@ -13849,7 +13899,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 498600,
       "name": "Missa de septem doloribus: Credo",
       "url": "https://open.spotify.com/track/6nQ45EgZbpXSDbCSlQMi1S"
@@ -13957,6 +14007,32 @@
       "duration_ms": 343506,
       "name": "Missa L\u2019homme arm\u00e9: Kyrie",
       "url": "https://open.spotify.com/track/2asunxle3jjLvUIgI6hV54"
+    },
+    {
+      "album": {
+        "name": "Charles D'Argentil: Missa pro defunctis: V. Sanctus",
+        "url": "https://open.spotify.com/album/6Zx5RelPEMbZZaCbzQOum9"
+      },
+      "artists": [
+        {
+          "name": "Charles D'Argentil",
+          "url": "https://open.spotify.com/artist/1cIQ6oBV3G6CCSf9fMGkGM"
+        },
+        {
+          "name": "Ensemble Gilles Binchois",
+          "url": "https://open.spotify.com/artist/3IOcGJbmYW8hnzDkJMxrRg"
+        },
+        {
+          "name": "Dominique Vellard",
+          "url": "https://open.spotify.com/artist/7163RRfcsqPuQRplJ6PMQK"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194893,
+      "name": "Missa pro defunctis: V. Sanctus",
+      "url": "https://open.spotify.com/track/4ncVpO0neDwdHnv0cBBXuG"
     },
     {
       "album": {
@@ -17355,7 +17431,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 425066,
       "name": "Psalm 115/113b - Non nobis Domine (organum examples after 9th-century Scolica enchiriadis)",
       "url": "https://open.spotify.com/track/6OamWR37MbNJzXxpMAzdv5"
@@ -18391,7 +18467,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 373030,
       "name": "Requiem: Offertoire \"Domine, Jesu Christe\"",
       "url": "https://open.spotify.com/track/3M8b55jk8Zd4vtC9XZoNbt"
@@ -18803,7 +18879,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 204253,
       "name": "Saltarello I & II",
       "url": "https://open.spotify.com/track/0AA77trqxrC447ZkBpVNYp"
@@ -19487,7 +19563,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 577693,
       "name": "St. John Passion: Passio Domini Nostri Jesu Christi secundum Joannem",
       "url": "https://open.spotify.com/track/3DvGGa1i24t0Yt4C1sKSMH"
@@ -21307,7 +21383,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 191760,
       "name": "Wacht auff ir werden Christen",
       "url": "https://open.spotify.com/track/79sQJ42D8DcycH8uW3RxZP"

@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 30338,
+  "2024-04-28": 30380,
   "date_first_scraped": "2022-06-28",
   "description": "The jam scene is alive and well. Cover: SunSquabi",
   "name": "Modern Jam Band",
@@ -411,7 +411,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 232221,
       "name": "Checkin' Out",
       "url": "https://open.spotify.com/track/7nMaNXGmnMW4Xr9MokbWAS"
@@ -1598,6 +1598,24 @@
     },
     {
       "album": {
+        "name": "Keep Dreaming",
+        "url": "https://open.spotify.com/album/1RnnEOalfBnLlOXVmBP6aQ"
+      },
+      "artists": [
+        {
+          "name": "The Moon City Masters",
+          "url": "https://open.spotify.com/artist/5ds1ng1NKpr4Bv0VbgHyAr"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261643,
+      "name": "Keep Dreaming",
+      "url": "https://open.spotify.com/track/4XQWGTjlBLQvfqfjRAgXnA"
+    },
+    {
+      "album": {
         "name": "Best Kept Secrets",
         "url": "https://open.spotify.com/album/3gEFsGzKi28JJpyGiS0o5s"
       },
@@ -1923,6 +1941,24 @@
       "duration_ms": 471426,
       "name": "Mcmansion",
       "url": "https://open.spotify.com/track/3bFDEWT2lFhBMM6cxcBEGY"
+    },
+    {
+      "album": {
+        "name": "Mister Funky Daddy",
+        "url": "https://open.spotify.com/album/1n3DXIyRmvuv5RQ7G4EhdF"
+      },
+      "artists": [
+        {
+          "name": "Kendall Street Company",
+          "url": "https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149581,
+      "name": "Mister Funky Daddy",
+      "url": "https://open.spotify.com/track/0ZShF0uFfkoQThIySmDd5l"
     },
     {
       "album": {
@@ -2653,7 +2689,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 213786,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/2eqVjqpmCjB904Cw2cUPLe"

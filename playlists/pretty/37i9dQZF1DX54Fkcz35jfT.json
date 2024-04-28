@@ -1,6 +1,6 @@
 {
   "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: Crossfaith",
-  "num_followers": 44536,
+  "num_followers": 44544,
   "original_name": "Loud Rock Japan",
   "owner": {
     "name": "Spotify",
@@ -683,22 +683,18 @@
     {
       "added_at": "2024-04-23 15:00:00",
       "album": {
-        "name": "10-feat",
-        "url": "https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma"
+        "name": "Beast Mode",
+        "url": "https://open.spotify.com/album/1UMECQ51RJkCPjU7jXlPGt"
       },
       "artists": [
         {
-          "name": "10-FEET",
-          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
-        },
-        {
-          "name": "WANIMA",
-          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+          "name": "ASH DA HERO",
+          "url": "https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT"
         }
       ],
-      "duration_ms": 236013,
-      "name": "VIBES BY VIBES",
-      "url": "https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp"
+      "duration_ms": 250500,
+      "name": "Beast Mode",
+      "url": "https://open.spotify.com/track/1tA3FxKi8oA0pmSNEB4ush"
     },
     {
       "added_at": "2024-04-23 15:00:00",
@@ -719,6 +715,26 @@
     {
       "added_at": "2024-04-23 15:00:00",
       "album": {
+        "name": "10-feat",
+        "url": "https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma"
+      },
+      "artists": [
+        {
+          "name": "10-FEET",
+          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
+        },
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+        }
+      ],
+      "duration_ms": 236013,
+      "name": "VIBES BY VIBES",
+      "url": "https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp"
+    },
+    {
+      "added_at": "2024-04-23 15:00:00",
+      "album": {
         "name": "BUG",
         "url": "https://open.spotify.com/album/1Rav5NLGbB4c3nozaOPvRP"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 231428,
       "name": "BUG",
       "url": "https://open.spotify.com/track/3ll3777Lzzs15BdKwzbgIU"
-    },
-    {
-      "added_at": "2024-04-23 15:00:00",
-      "album": {
-        "name": "Beast Mode",
-        "url": "https://open.spotify.com/album/1UMECQ51RJkCPjU7jXlPGt"
-      },
-      "artists": [
-        {
-          "name": "ASH DA HERO",
-          "url": "https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT"
-        }
-      ],
-      "duration_ms": 250500,
-      "name": "Beast Mode",
-      "url": "https://open.spotify.com/track/1tA3FxKi8oA0pmSNEB4ush"
     },
     {
       "added_at": "2024-04-23 15:00:00",
@@ -947,18 +947,18 @@
     {
       "added_at": "2024-04-23 15:00:00",
       "album": {
-        "name": "Nonnegative",
-        "url": "https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V"
+        "name": "\u30aa\u30af\u30bf\u30fc\u30f4",
+        "url": "https://open.spotify.com/album/3d4hbenvB6hAPgPXE91poL"
       },
       "artists": [
         {
-          "name": "coldrain",
-          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
+          "name": "ASH DA HERO",
+          "url": "https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT"
         }
       ],
-      "duration_ms": 233678,
-      "name": "From Today",
-      "url": "https://open.spotify.com/track/7qLbPd5yhm0Vne45PXPabV"
+      "duration_ms": 187800,
+      "name": "\u30aa\u30af\u30bf\u30fc\u30f4",
+      "url": "https://open.spotify.com/track/6p1LdEDX0i73EPhdeCGk67"
     },
     {
       "added_at": "2024-04-23 15:00:00",
@@ -975,6 +975,22 @@
       "duration_ms": 108980,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/0j0GW5mzmOk4upfkXzdNOM"
+    },
+    {
+      "added_at": "2024-04-23 15:00:00",
+      "album": {
+        "name": "Nonnegative",
+        "url": "https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V"
+      },
+      "artists": [
+        {
+          "name": "coldrain",
+          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
+        }
+      ],
+      "duration_ms": 233678,
+      "name": "From Today",
+      "url": "https://open.spotify.com/track/7qLbPd5yhm0Vne45PXPabV"
     },
     {
       "added_at": "2024-04-23 15:00:00",
@@ -1007,22 +1023,6 @@
       "duration_ms": 139892,
       "name": "YAEN",
       "url": "https://open.spotify.com/track/1UDmCjvSERuwfm71qJoOqs"
-    },
-    {
-      "added_at": "2024-04-23 15:00:00",
-      "album": {
-        "name": "\u30aa\u30af\u30bf\u30fc\u30f4",
-        "url": "https://open.spotify.com/album/3d4hbenvB6hAPgPXE91poL"
-      },
-      "artists": [
-        {
-          "name": "ASH DA HERO",
-          "url": "https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT"
-        }
-      ],
-      "duration_ms": 187800,
-      "name": "\u30aa\u30af\u30bf\u30fc\u30f4",
-      "url": "https://open.spotify.com/track/6p1LdEDX0i73EPhdeCGk67"
     },
     {
       "added_at": "2024-04-23 15:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-04-23 15:00:00",
       "album": {
-        "name": "RISE",
-        "url": "https://open.spotify.com/album/6aigT9ZhKsG8bBVEx75JzH"
-      },
-      "artists": [
-        {
-          "name": "NEMOPHILA",
-          "url": "https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp"
-        }
-      ],
-      "duration_ms": 201105,
-      "name": "RISE",
-      "url": "https://open.spotify.com/track/7IOWVbArUAldsxLamaQt8R"
-    },
-    {
-      "added_at": "2024-04-23 15:00:00",
-      "album": {
         "name": "RARA",
         "url": "https://open.spotify.com/album/6vV4OJGtCjvJD6OdaoCQ9c"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 235973,
       "name": "NAME",
       "url": "https://open.spotify.com/track/38b2nMKtd1qiVBkULMQti2"
+    },
+    {
+      "added_at": "2024-04-23 15:00:00",
+      "album": {
+        "name": "RISE",
+        "url": "https://open.spotify.com/album/6aigT9ZhKsG8bBVEx75JzH"
+      },
+      "artists": [
+        {
+          "name": "NEMOPHILA",
+          "url": "https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp"
+        }
+      ],
+      "duration_ms": 201105,
+      "name": "RISE",
+      "url": "https://open.spotify.com/track/7IOWVbArUAldsxLamaQt8R"
     },
     {
       "added_at": "2024-04-23 15:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-04-23 15:00:00",
       "album": {
-        "name": "Catch Up",
-        "url": "https://open.spotify.com/album/7xmycezoMiRbUKwZ50B3CH"
-      },
-      "artists": [
-        {
-          "name": "WANIMA",
-          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
-        }
-      ],
-      "duration_ms": 236125,
-      "name": "\u6249\u306e\u5411\u3053\u3046",
-      "url": "https://open.spotify.com/track/5EMnOE5ZsMDWl6eQRCj2zY"
-    },
-    {
-      "added_at": "2024-04-23 15:00:00",
-      "album": {
         "name": "PLAY",
         "url": "https://open.spotify.com/album/6qq2rGeaSuxtn4szFhLMVg"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 251400,
       "name": "\u5bc2\u5bde -sekibaku-",
       "url": "https://open.spotify.com/track/2CTniBM95HMN060rKGccXW"
+    },
+    {
+      "added_at": "2024-04-23 15:00:00",
+      "album": {
+        "name": "Catch Up",
+        "url": "https://open.spotify.com/album/7xmycezoMiRbUKwZ50B3CH"
+      },
+      "artists": [
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+        }
+      ],
+      "duration_ms": 236125,
+      "name": "\u6249\u306e\u5411\u3053\u3046",
+      "url": "https://open.spotify.com/track/5EMnOE5ZsMDWl6eQRCj2zY"
     },
     {
       "added_at": "2024-04-23 15:00:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-04-23 15:00:00",
       "album": {
-        "name": "Blood in blue",
-        "url": "https://open.spotify.com/album/0twJvdID2xF7NZvAb3K1Gx"
-      },
-      "artists": [
-        {
-          "name": "Age Factory",
-          "url": "https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo"
-        }
-      ],
-      "duration_ms": 165368,
-      "name": "Blood in blue",
-      "url": "https://open.spotify.com/track/4qfi7sCX4w5dZiIltgkPHB"
-    },
-    {
-      "added_at": "2024-04-23 15:00:00",
-      "album": {
         "name": "The Novembers",
         "url": "https://open.spotify.com/album/5UsLQiAt93L1SdFvqP3ERO"
       },
@@ -1647,22 +1631,6 @@
     {
       "added_at": "2024-04-23 15:00:00",
       "album": {
-        "name": "PLAYDEAD",
-        "url": "https://open.spotify.com/album/40a3oAU208h1oFcfi0U25E"
-      },
-      "artists": [
-        {
-          "name": "SiM",
-          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
-        }
-      ],
-      "duration_ms": 210945,
-      "name": "SWEET DREAMS",
-      "url": "https://open.spotify.com/track/65at5xnnXAoWMeF7i0xKaZ"
-    },
-    {
-      "added_at": "2024-04-23 15:00:00",
-      "album": {
         "name": "Vandalize",
         "url": "https://open.spotify.com/album/4BiblYupz50ScARBKTU7wt"
       },
@@ -1675,6 +1643,38 @@
       "duration_ms": 194695,
       "name": "Vandalize",
       "url": "https://open.spotify.com/track/2tOtU8EJ8SOXKAGKJ1XlYh"
+    },
+    {
+      "added_at": "2024-04-23 15:00:00",
+      "album": {
+        "name": "Blood in blue",
+        "url": "https://open.spotify.com/album/0twJvdID2xF7NZvAb3K1Gx"
+      },
+      "artists": [
+        {
+          "name": "Age Factory",
+          "url": "https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo"
+        }
+      ],
+      "duration_ms": 165368,
+      "name": "Blood in blue",
+      "url": "https://open.spotify.com/track/4qfi7sCX4w5dZiIltgkPHB"
+    },
+    {
+      "added_at": "2024-04-23 15:00:00",
+      "album": {
+        "name": "PLAYDEAD",
+        "url": "https://open.spotify.com/album/40a3oAU208h1oFcfi0U25E"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "duration_ms": 210945,
+      "name": "SWEET DREAMS",
+      "url": "https://open.spotify.com/track/65at5xnnXAoWMeF7i0xKaZ"
     }
   ],
   "unique_name": "Loud Rock Japan",

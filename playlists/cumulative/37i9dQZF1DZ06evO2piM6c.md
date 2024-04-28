@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO2piM6c.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO2piM6c) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO2piM6c)
 
-### [This Is シャーデー](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2piM6c)
+### [This Is Sade](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2piM6c)
 
-> This is シャーデー。アーティストの代表曲をひとつのプレイリストに。
+> This Is Sade\. Los temas esenciales, todos en una lista.
 
 60 songs - 4 hr 33 min
 

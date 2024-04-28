@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 313729,
+  "2024-04-28": 314125,
   "date_first_scraped": "2022-04-30",
   "description": "Bright, sunny, catchy tunes put a smile on your face. Cover - Baar Baar Dekho",
   "name": "Happy Vibes ",
@@ -165,6 +165,32 @@
       "duration_ms": 134110,
       "name": "Abrar\u2019s Entry | Jamal Kudu (From \"ANIMAL\")",
       "url": "https://open.spotify.com/track/35FFqjqaPv1Fr9B1GtJdZO"
+    },
+    {
+      "album": {
+        "name": "Achha Lag Raha Hai",
+        "url": "https://open.spotify.com/album/5rSSwWHFO7BDclf2ktbsML"
+      },
+      "artists": [
+        {
+          "name": "Sachet Tandon",
+          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
+        },
+        {
+          "name": "Parampara Tandon",
+          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182104,
+      "name": "Achha Lag Raha Hai",
+      "url": "https://open.spotify.com/track/4plvShsskQ7Gu8EIxfxHNB"
     },
     {
       "album": {
@@ -3499,7 +3525,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 154455,
       "name": "Sadqay",
       "url": "https://open.spotify.com/track/2lX53kXvYnvpV8Vqfe4S7s"

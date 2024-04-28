@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 63201,
+  "2024-04-28": 63151,
   "date_first_scraped": "2022-01-09",
   "description": "Temukan beragam musik terbaru dari talenta segar dalam negeri. Cover:  Abe Lubis",
   "name": "Fresh Finds Indonesia",
@@ -29533,6 +29533,24 @@
       "duration_ms": 231000,
       "name": "Lady In White",
       "url": "https://open.spotify.com/track/1yzuJeYMcFiCIlu0eaeM86"
+    },
+    {
+      "album": {
+        "name": "Lagi-lagi",
+        "url": "https://open.spotify.com/album/0KxLPy3UlsVM6JPnRoq2eH"
+      },
+      "artists": [
+        {
+          "name": "Chintana Jo",
+          "url": "https://open.spotify.com/artist/1O2AdjDXC1VqjYE7PwDILf"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211877,
+      "name": "Lagi-lagi",
+      "url": "https://open.spotify.com/track/35i4wDmhu1Q7w4NIOzN58M"
     },
     {
       "album": {

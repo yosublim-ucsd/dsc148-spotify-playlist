@@ -433,6 +433,24 @@
     },
     {
       "album": {
+        "name": "Can't Come Back",
+        "url": "https://open.spotify.com/album/1s4XNQH7ueLnRD1egC4d2p"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "date_added": "2024-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154960,
+      "name": "Can't Come Back",
+      "url": "https://open.spotify.com/track/6s4C2WNpnL1YwGaiJl2x3i"
+    },
+    {
+      "album": {
         "name": "Trendsetter",
         "url": "https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx"
       },

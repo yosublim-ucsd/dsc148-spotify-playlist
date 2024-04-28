@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 40628,
+  "2024-04-28": 40648,
   "date_first_scraped": "2022-05-12",
   "description": "Beat e rime, oggi come una volta. Jack The Smoker e Big Joe in cover.",
   "name": "Radici Hip-Hop",
@@ -4287,6 +4287,28 @@
       "duration_ms": 158478,
       "name": "Lagga Brutto (feat. Ensi, Dj Uncino & Bella Espo)",
       "url": "https://open.spotify.com/track/5fTKv13ds3OUjRF8XoNJKR"
+    },
+    {
+      "album": {
+        "name": "Laid Back",
+        "url": "https://open.spotify.com/album/3J8xm3EGgGjzCpkjUQ7Aui"
+      },
+      "artists": [
+        {
+          "name": "Armani Doc",
+          "url": "https://open.spotify.com/artist/7djBWDVQvjaDbC8rSilpLC"
+        },
+        {
+          "name": "ThinkFast",
+          "url": "https://open.spotify.com/artist/0zY3rKlVW1d0tMW7gZyX3T"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Laid Back",
+      "url": "https://open.spotify.com/track/4mH5rfbzVyo1zjMazlOlCl"
     },
     {
       "album": {

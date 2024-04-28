@@ -1,7 +1,7 @@
 {
-  "2024-04-27": 51050,
+  "2024-04-28": 51049,
   "date_first_scraped": "2023-02-11",
-  "description": "Your weekly rock update. Cover: Fontaines D.C.",
+  "description": "Your weekly rock update. Cover: Dear Rouge",
   "name": "Ready to Rock",
   "tracks": [
     {
@@ -262,6 +262,28 @@
     },
     {
       "album": {
+        "name": "99",
+        "url": "https://open.spotify.com/album/62vIo3Eoa6bDTxibXgUkzg"
+      },
+      "artists": [
+        {
+          "name": "SUCKERPUNCH!",
+          "url": "https://open.spotify.com/artist/02tk2pnlF7dDfwMVhth4pp"
+        },
+        {
+          "name": "trxvis",
+          "url": "https://open.spotify.com/artist/1ytozhc77a6qMKUxWTpprm"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162557,
+      "name": "99",
+      "url": "https://open.spotify.com/track/7DOazUUfiRn9Nq6jiCCIxX"
+    },
+    {
+      "album": {
         "name": "999",
         "url": "https://open.spotify.com/album/0OVETjyjXzU4JDklDCybyw"
       },
@@ -425,6 +447,24 @@
       "duration_ms": 205433,
       "name": "A Little Bit Happy - Spotify Singles",
       "url": "https://open.spotify.com/track/7zNQs0jlDtar52exQYUrxS"
+    },
+    {
+      "album": {
+        "name": "A Normal Life",
+        "url": "https://open.spotify.com/album/7dH4kO9kn8lrF11I0TmguQ"
+      },
+      "artists": [
+        {
+          "name": "Marianas Trench",
+          "url": "https://open.spotify.com/artist/68EB3QvNdVLkC7SAgDbHIR"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413753,
+      "name": "A Normal Life",
+      "url": "https://open.spotify.com/track/4TsQqPrOh0wgGPZsrMSagV"
     },
     {
       "album": {
@@ -1552,6 +1592,24 @@
     },
     {
       "album": {
+        "name": "Backslide",
+        "url": "https://open.spotify.com/album/4bwNLICcbpG5VpFGG1J2pD"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Backslide",
+      "url": "https://open.spotify.com/track/62aSL7D64td5wr09L6iFiV"
+    },
+    {
+      "album": {
         "name": "Half Glow",
         "url": "https://open.spotify.com/album/13oTS8HGiFF1HmucmoMFpj"
       },
@@ -1779,7 +1837,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 196655,
       "name": "Best Of Me",
       "url": "https://open.spotify.com/track/4Gpzgpj57YgCe9uUnwRwz4"
@@ -2490,6 +2548,24 @@
     },
     {
       "album": {
+        "name": "Bruised",
+        "url": "https://open.spotify.com/album/4dDsPkMOEyyHOMRHn7Ll8T"
+      },
+      "artists": [
+        {
+          "name": "Laughing",
+          "url": "https://open.spotify.com/artist/4KeL1s7ZixcSESlI5VtkP3"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232760,
+      "name": "Bruised",
+      "url": "https://open.spotify.com/track/7HZipH08GZHyVWIA7Gz7Uk"
+    },
+    {
+      "album": {
         "name": "bubble boi",
         "url": "https://open.spotify.com/album/2DlARJZSNkxBMXQ1xqGug8"
       },
@@ -2779,7 +2855,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 131011,
       "name": "Call Me Back",
       "url": "https://open.spotify.com/track/7Dea1nSzjglZgESmep1gKE"
@@ -3269,7 +3345,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 132053,
       "name": "City of Angels",
       "url": "https://open.spotify.com/track/6FvI7R1y1OX5xjfDc2ed5n"
@@ -3359,7 +3435,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 237864,
       "name": "Close",
       "url": "https://open.spotify.com/track/1FnbRzgI5mGdh8XjXTXD9w"
@@ -3547,7 +3623,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 125142,
       "name": "come undone",
       "url": "https://open.spotify.com/track/1Tezlsoi6WeyZUa1yyPLNd"
@@ -3591,6 +3667,24 @@
       "duration_ms": 180133,
       "name": "Common Guys",
       "url": "https://open.spotify.com/track/44vSST6FvFETwulAVlsYKB"
+    },
+    {
+      "album": {
+        "name": "Community Service",
+        "url": "https://open.spotify.com/album/3VDlI3NjjdqqKliEdWr9QP"
+      },
+      "artists": [
+        {
+          "name": "Sham Family",
+          "url": "https://open.spotify.com/artist/35pfnH3vn7DIc0hGC6JdcW"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214960,
+      "name": "Community Service",
+      "url": "https://open.spotify.com/track/3hLhWdCESb8Npvhn3izAeC"
     },
     {
       "album": {
@@ -3858,6 +3952,24 @@
     },
     {
       "album": {
+        "name": "Crusade",
+        "url": "https://open.spotify.com/album/4SHTdvwHxhUV7wQZodOj8K"
+      },
+      "artists": [
+        {
+          "name": "The Anti-Queens",
+          "url": "https://open.spotify.com/artist/1CX0fdiDs9n9HSJs1PRSy3"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157115,
+      "name": "Crusade",
+      "url": "https://open.spotify.com/track/5Cehdi33jkkJBcfyP7LTVj"
+    },
+    {
+      "album": {
         "name": "cry baby",
         "url": "https://open.spotify.com/album/00ipBVb0eJJUtLj5aBf0y7"
       },
@@ -4057,6 +4169,24 @@
       "duration_ms": 164790,
       "name": "DArkSide",
       "url": "https://open.spotify.com/track/19vHgVS1aukRiQWhTqfKnE"
+    },
+    {
+      "album": {
+        "name": "Darling, The Planets",
+        "url": "https://open.spotify.com/album/6QOchYqGrSyTPLd13NyXWz"
+      },
+      "artists": [
+        {
+          "name": "The Rare Occasions",
+          "url": "https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187195,
+      "name": "Darling, The Planets",
+      "url": "https://open.spotify.com/track/1Gn6yw9hDNoXKYaF2rNjF0"
     },
     {
       "album": {
@@ -4606,6 +4736,24 @@
     },
     {
       "album": {
+        "name": "Dogs Of War",
+        "url": "https://open.spotify.com/album/5vjqRLo7DxbwVwfiO0DpCz"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244466,
+      "name": "Dogs Of War",
+      "url": "https://open.spotify.com/track/1AuwWGznBvI76jOF8cZ4E4"
+    },
+    {
+      "album": {
         "name": "DOING IT AGAIN BABY",
         "url": "https://open.spotify.com/album/1ER3PB0CgzxRprzl67AAhz"
       },
@@ -4761,7 +4909,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 149283,
       "name": "Drama Queen",
       "url": "https://open.spotify.com/track/0zpED2T1oWwb76RbPA8qiT"
@@ -4995,7 +5143,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 185608,
       "name": "Enough for you",
       "url": "https://open.spotify.com/track/7CYPzawmBUJUN3tDGhQh1I"
@@ -5518,6 +5666,24 @@
     },
     {
       "album": {
+        "name": "CWK EP",
+        "url": "https://open.spotify.com/album/2xbIzFOBD0L80ARB5GifJw"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168949,
+      "name": "Feel Too Much",
+      "url": "https://open.spotify.com/track/2WTtuIp7Yhg85P2SYPGD6r"
+    },
+    {
+      "album": {
         "name": "FELL IN LOVE",
         "url": "https://open.spotify.com/album/3inphIxOlFnDL3CD3wkMe6"
       },
@@ -5861,6 +6027,24 @@
       "duration_ms": 176901,
       "name": "Friendly Fire",
       "url": "https://open.spotify.com/track/1rAzOr3zpUDRtN2zsqGHiG"
+    },
+    {
+      "album": {
+        "name": "Frog In Boiling Water",
+        "url": "https://open.spotify.com/album/27dLHGsqrDSWHCHvvS7m5p"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237466,
+      "name": "Frog In Boiling Water",
+      "url": "https://open.spotify.com/track/0JAxbxS5Hd2N7g8Sd01eq3"
     },
     {
       "album": {
@@ -7217,7 +7401,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 161475,
       "name": "hell of a good time",
       "url": "https://open.spotify.com/track/7132EFlbWFNX4mLDY23OR5"
@@ -8604,6 +8788,24 @@
     },
     {
       "album": {
+        "name": "Jump Cut",
+        "url": "https://open.spotify.com/album/5T25MocYOo34A7pzzduOLS"
+      },
+      "artists": [
+        {
+          "name": "Corridor",
+          "url": "https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233497,
+      "name": "Jump Cut",
+      "url": "https://open.spotify.com/track/0jRBEROpKjbjhqqLol11NF"
+    },
+    {
+      "album": {
         "name": "The Sixty90\u2019s",
         "url": "https://open.spotify.com/album/52OLN3MpGAVuwOA2nmxXW6"
       },
@@ -8633,7 +8835,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 205545,
       "name": "Just A Scratch",
       "url": "https://open.spotify.com/track/5nyezzUosswePMS34C0GJ9"
@@ -8695,6 +8897,24 @@
       "duration_ms": 204899,
       "name": "Just The Once",
       "url": "https://open.spotify.com/track/1r6wNQnDUbhqXawf0s2Mlz"
+    },
+    {
+      "album": {
+        "name": "IV",
+        "url": "https://open.spotify.com/album/6YHWI3NkhA1CB7Rd7BIEz8"
+      },
+      "artists": [
+        {
+          "name": "Caravane",
+          "url": "https://open.spotify.com/artist/6hCBXCqoy6C3nNddhQsWRT"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191839,
+      "name": "Juste une toune",
+      "url": "https://open.spotify.com/track/44Hd3ctVvMSNj1s5nUuqu3"
     },
     {
       "album": {
@@ -8987,7 +9207,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 233965,
       "name": "Know",
       "url": "https://open.spotify.com/track/3QyvWzVXwvSYn3aSC2ugHY"
@@ -11689,7 +11909,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 179361,
       "name": "old shoes",
       "url": "https://open.spotify.com/track/3a2FyqUJHXvdWqSQCEaBoU"
@@ -11873,6 +12093,24 @@
       "duration_ms": 188333,
       "name": "one night stand you",
       "url": "https://open.spotify.com/track/1j9Wa022kOAXLFDpPx4vdx"
+    },
+    {
+      "album": {
+        "name": "One Of The Pack",
+        "url": "https://open.spotify.com/album/5brmo3bAoy48mBJhm3JiKE"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197906,
+      "name": "One Of The Pack",
+      "url": "https://open.spotify.com/track/6yluvonzmFUjHMpcbTzBej"
     },
     {
       "album": {
@@ -13633,7 +13871,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 139432,
       "name": "Running",
       "url": "https://open.spotify.com/track/2LeoKjw81T6GWO18MxvGl1"
@@ -14715,7 +14953,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 169717,
       "name": "so american",
       "url": "https://open.spotify.com/track/5Jh1i0no3vJ9u4deXkb4aV"
@@ -15353,6 +15591,24 @@
       "duration_ms": 161642,
       "name": "Stickers of Brian",
       "url": "https://open.spotify.com/track/7M0A43aUdp5VDqUq39SJhV"
+    },
+    {
+      "album": {
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/7DkhdPN2rSpYG0tXqDljIh"
+      },
+      "artists": [
+        {
+          "name": "Tors",
+          "url": "https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224200,
+      "name": "Still Life",
+      "url": "https://open.spotify.com/track/3Rmo63pS3ZAM03dJ9lVErM"
     },
     {
       "album": {
@@ -16899,7 +17155,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 199840,
       "name": "Time To Let Go",
       "url": "https://open.spotify.com/track/56QOmNsnkwUvyJ9vX1pjsw"
@@ -17029,7 +17285,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 133093,
       "name": "Too Bad",
       "url": "https://open.spotify.com/track/4kyfZcirG407sqrF34ZKxR"
@@ -17069,6 +17325,24 @@
       "duration_ms": 281052,
       "name": "Too Close / Too Late",
       "url": "https://open.spotify.com/track/6CE4GRKBl4TXXrybKD3E7q"
+    },
+    {
+      "album": {
+        "name": "Too Close To The Heat",
+        "url": "https://open.spotify.com/album/72peNz9jgPx0KkRxMsguVK"
+      },
+      "artists": [
+        {
+          "name": "Dear Rouge",
+          "url": "https://open.spotify.com/artist/0YkjOpIntNmlG1PNF2dqSy"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198746,
+      "name": "Too Close To The Heat",
+      "url": "https://open.spotify.com/track/2CYlKQy8z40k6YOOgeTvkE"
     },
     {
       "album": {
@@ -18395,7 +18669,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 172604,
       "name": "WHAT THE HELL",
       "url": "https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO"
@@ -18763,6 +19037,24 @@
       "duration_ms": 175573,
       "name": "Worm Day",
       "url": "https://open.spotify.com/track/73StJzaaOh9v695eoFtWAg"
+    },
+    {
+      "album": {
+        "name": "Wormhole",
+        "url": "https://open.spotify.com/album/19K2hDQkyG6zOmyBN6qqE3"
+      },
+      "artists": [
+        {
+          "name": "Aversions",
+          "url": "https://open.spotify.com/artist/65fB37pXWPMPJrNg1ZJOpR"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298889,
+      "name": "Wormhole",
+      "url": "https://open.spotify.com/track/43zhUXZKH2TTZtfVMKYvJV"
     },
     {
       "album": {

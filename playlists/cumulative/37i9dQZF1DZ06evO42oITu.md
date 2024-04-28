@@ -2,9 +2,9 @@
 
 ### [This Is Eric Clapton](https://open.spotify.com/playlist/37i9dQZF1DZ06evO42oITu)
 
-> This is Eric Clapton\. The essential tracks, all in one playlist.
+> This is Eric Clapton\. Les chansons essentielles, toutes regroupées dans une seule liste de lecture.
 
-141 songs - 10 hr 37 min
+142 songs - 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Further On Up the Road \- Live](https://open.spotify.com/track/0k3b8cI0Q6Q1ZkG1XlWdGg) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Joe Bonamassa Live from the Royal Albert Hall](https://open.spotify.com/album/4SHZaB8QHE7V5GBHSlUfLd) | 5:44 | 2022-08-05 | 2023-04-25 |
 | [Give Me Strength](https://open.spotify.com/track/4pkuaNauckc35kkEBxCsLg) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [461 Ocean Blvd\. \(Deluxe Edition\)](https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB) | 2:51 | 2024-03-19 | 2024-04-25 |
 | [Golden Ring \- Live](https://open.spotify.com/track/09BuhppxQPlkW3vjHzNxsZ) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [The Lady In The Balcony: Lockdown Sessions \(Live\)](https://open.spotify.com/album/2pnfVMvTS8ozs9f1dbLubY) | 3:24 | 2022-08-05 | 2022-10-13 |
+| [Got To Get Better In A Little While \- Live](https://open.spotify.com/track/3lNHwRPfFHckwPm1nTIuu9) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [To Save a Child](https://open.spotify.com/album/2AFTCoFxo67KJgTKZtmDWi) | 9:28 | 2024-04-28 |  |
 | [Got to Hurry \- 2015 Remaster](https://open.spotify.com/track/7GsshbbtIlBFU5SKNDED5s) | [The Yardbirds](https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [For Your Love \(2015 Remaster\)](https://open.spotify.com/album/1NQxkuCbddVP1UgmvRhfXp) | 2:34 | 2023-01-20 | 2023-03-04 |
 | [Groaning the Blues \- Live at the Fillmore, San Francisco, 1994](https://open.spotify.com/track/0cczXxFrHRdrAOymBxEmmF) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Nothing But the Blues \(Live\)](https://open.spotify.com/album/5PGQW0n8n0JDxmpPkAgwIc) | 7:10 | 2022-08-05 | 2022-10-13 |
 | [Hard to Thrill](https://open.spotify.com/track/0fX9pA3TukbkWCEdNoyysH) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [The Road to Escondido](https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079) | 5:10 | 2022-11-28 |  |

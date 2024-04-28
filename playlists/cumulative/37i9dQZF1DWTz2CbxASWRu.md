@@ -4,7 +4,7 @@
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-561 songs - 1 day 17 hr 18 min
+562 songs - 1 day 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,6 +263,7 @@
 | [Joon Joon](https://open.spotify.com/track/4bvYjigpZKzUfSEwwp8pru) | [Liraz](https://open.spotify.com/artist/0qTgfqWyTcC1VAYn2vSMpk) | [Zan](https://open.spotify.com/album/3gzvo3s0ZBcBaQ5AJeYR77) | 3:42 | 2024-03-08 |  |
 | [Joropo](https://open.spotify.com/track/5Ze8tw2wAOPSiAMvCcs1hf) | [La Mano Ajena](https://open.spotify.com/artist/611eLbdAybrp9seo2dr6eJ) | [La Mano Ajena](https://open.spotify.com/album/1nQyDzLYLsNNPWcVmKXJCX) | 4:17 | 2023-07-10 |  |
 | [Já Sei Namorar \- 2004 Digital Remaster](https://open.spotify.com/track/352FuGmGJClPjojSYjNrXG) | [Tribalistas](https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD) | [Tribalistas](https://open.spotify.com/album/1kNwLPweR4ieuoGvbm1kP1) | 3:16 | 2023-07-10 | 2024-04-19 |
+| [Kaalai](https://open.spotify.com/track/51JOTU8OWBWMXGsHgB4CMe) | [9 grader nord](https://open.spotify.com/artist/1xcIsuvQgFhZmqUo1s9eMm) | [Kaalai](https://open.spotify.com/album/4d7mInaZfisSx3qUNNk2vq) | 3:24 | 2024-03-08 |  |
 | [Kadia Blues](https://open.spotify.com/track/6W9zUJcakKsIBxw4yKfe2b) | [Orchestre de la Paillote](https://open.spotify.com/artist/1VOknf5hdVCEMuH9BoD2bF) | [Syliphone, 40ème anniversaire, Vol\. 2](https://open.spotify.com/album/70vnxeeitOd14Roe0MYFr0) | 4:46 | 2023-07-10 | 2024-04-19 |
 | [Khuda Bhi Aasman \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5lZX0cZpdT3Y10uJ3oR17s) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Spotify Singles](https://open.spotify.com/album/3oQcSwlUB1l2bANoqtDKKU) | 3:59 | 2023-07-10 | 2024-02-22 |
 | [Kingdom Come](https://open.spotify.com/track/5uhJnZd0m9Xz3GafDeMJxK) | [The Souljazz Orchestra](https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo) | [Inner Fire](https://open.spotify.com/album/2w28yTFohFkW0UnIGKqLdY) | 4:12 | 2023-07-10 | 2024-04-19 |
@@ -552,7 +553,7 @@
 | [Wake Up](https://open.spotify.com/track/6rRX2qkhHxoxwJE0mgbafw) | [Äl Jawala](https://open.spotify.com/artist/4bTTaQVaf03641We5lnIRI) | [Hypnophonic](https://open.spotify.com/album/2rwi8vVy77g6ixrdTS3o8O) | 3:04 | 2023-07-10 |  |
 | [Water No Get Enemy](https://open.spotify.com/track/2U9z0Wcb39heOjdq8o7keE) | [Eyo'Nlé Brass Band](https://open.spotify.com/artist/53G96svqntkUPHb7Lvf8No) | [Empreinte du père](https://open.spotify.com/album/6umxOImcEiM9OvkyiwIpwu) | 3:56 | 2024-03-08 |  |
 | [We We](https://open.spotify.com/track/5QkeHNln4J9O3kEkxLZWey) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Logozo](https://open.spotify.com/album/1zQ3u7t7FV8nQDg0LMN5pw) | 4:24 | 2024-03-08 |  |
-| [Where Did I Go](https://open.spotify.com/track/502Lk36T2bamkc5uUMVdMf) | [Yaatri](https://open.spotify.com/artist/4ggZOKKOXRF9Mihf4guWeZ) | [Lucid](https://open.spotify.com/album/5FGLXKlm7FVURtWeaTRPqM) | 6:36 | 2024-03-08 |  |
+| [Where Did I Go](https://open.spotify.com/track/502Lk36T2bamkc5uUMVdMf) | [Yaatri](https://open.spotify.com/artist/4ggZOKKOXRF9Mihf4guWeZ) | [Lucid](https://open.spotify.com/album/5FGLXKlm7FVURtWeaTRPqM) | 6:36 | 2024-03-08 | 2024-04-28 |
 | [Wires](https://open.spotify.com/track/51VWrOnuL89xwoazeOZyXd) | [Owiny Sigoma Band](https://open.spotify.com/artist/1C5MZsDbfzAMgDg0mOxCdY) | [Owiny Sigoma Band](https://open.spotify.com/album/0G1c2cJe2ELtarbBoTUd4B) | 4:33 | 2023-07-10 | 2024-04-19 |
 | [World A Music](https://open.spotify.com/track/2SE11vmjbi7j5QKJ885ib6) | [iNi Kamoze](https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs) | [Ini Kamoze](https://open.spotify.com/album/4LAY1FlsUIxoYTcDDgwLta) | 5:45 | 2023-07-10 | 2024-04-19 |
 | [Yakané](https://open.spotify.com/track/0d6CeZnOV7rSRYSBFXd2f1) | [Dobet Gnahoré](https://open.spotify.com/artist/0eHY5jLP9TgzxYhT19Sqyq) | [Yakané](https://open.spotify.com/album/0zRuZfJCMdMvDGvH6WUqJS) | 3:17 | 2024-03-08 |  |

@@ -780,7 +780,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 288760,
       "name": "Ella No Me Conoce",
       "url": "https://open.spotify.com/track/5WyAHEuvc2mpHeOJTkzsbS"
@@ -2378,6 +2378,24 @@
       "duration_ms": 191013,
       "name": "Uno de Esos D\u00edas",
       "url": "https://open.spotify.com/track/14Tb6kzWxf8pLPgSJGWggi"
+    },
+    {
+      "album": {
+        "name": "Gazapo",
+        "url": "https://open.spotify.com/album/52KdB5pIsS20pJ7XdsneFT"
+      },
+      "artists": [
+        {
+          "name": "Belafonte Sensacional",
+          "url": "https://open.spotify.com/artist/6GzJDY171oHEEUgvoais06"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228010,
+      "name": "Valedor",
+      "url": "https://open.spotify.com/track/4OPMjEVvcoAOGu3XaB6nzd"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-889 songs - 2 day 5 hr 56 min
+890 songs - 2 day 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Canyons](https://open.spotify.com/track/11tbnvSnZfD8q0k80K9wft) | [Harry Diamond](https://open.spotify.com/artist/30XV4Gby1iaSfs16WZ5a4R), [K\-MRK](https://open.spotify.com/artist/6u1fcYiDrXOEEJpMwq7ZR4), [Steve Smith](https://open.spotify.com/artist/6WUz3m9cjNKSvtQ8uAu9qu) | [Canyons / Orbit](https://open.spotify.com/album/4liOC3Wwka7JVHn90PNHXJ) | 3:55 | 2022-04-15 | 2022-05-12 |
 | [Captivate \- Radio Edit](https://open.spotify.com/track/67AVn0GCGsxulR9AoMx46h) | [NG Rezonance](https://open.spotify.com/artist/4S3uwi4VXgUQNrLLetTBV5), [Bryn Whiting](https://open.spotify.com/artist/7b4R7kERarecWFc1bp4as3), [PHD](https://open.spotify.com/artist/4UBC4KS8Qb3lTNC6yR4c6F) | [Captivate](https://open.spotify.com/album/6ljQvJrK79pbmBAk5mbIV3) | 4:02 | 2022-04-22 | 2022-05-24 |
 | [Carcerem](https://open.spotify.com/track/4CrDAeFy6asxsCrDsKS4cR) | [Paul Thomas](https://open.spotify.com/artist/32IkwkKb3BkxUGAzSjaBI8), [Funkagenda](https://open.spotify.com/artist/2bElZdbJcj6B8WIP2fiKsG) | [Carcerem](https://open.spotify.com/album/2Ax5FAZzgxkbSE5HCOe58q) | 3:28 | 2021-12-17 | 2022-03-12 |
+| [Carry On](https://open.spotify.com/track/27Bm6ZNUK3Xh357Vbqo9Mx) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Carry On](https://open.spotify.com/album/6dCSykc823WKmKkjw2bMQb) | 3:07 | 2024-04-26 |  |
 | [Carte Blanche](https://open.spotify.com/track/080nzaT9PWCqMfFSpjRDHK) | [Dirty South](https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB), [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP) | [Carte Blanche](https://open.spotify.com/album/4CChAwOQD9hlKkwV2pjvR1) | 3:21 | 2023-06-02 |  |
 | [Cassini](https://open.spotify.com/track/2xE2KgloGwFiKvyISkMSJp) | [Activa](https://open.spotify.com/artist/2B18AH9f6R9LcJWM03Szob), [Slipstream](https://open.spotify.com/artist/35hGbA4ugdojhwMAh4jUXj) | [Cassini](https://open.spotify.com/album/6sx41AEVkLVs3fKPMwoqlu) | 8:15 | 2022-06-03 | 2022-06-29 |
 | [Catch](https://open.spotify.com/track/68bVU37B5M7iWivhixMvqZ) | [Davey Asprey](https://open.spotify.com/artist/7luLRXGBygBN8vUO8T9uHf) | [Catch](https://open.spotify.com/album/5NnjMNuQGs4IdrmE5lgCRh) | 3:20 | 2024-01-19 |  |
@@ -837,7 +838,7 @@
 | [Unreal](https://open.spotify.com/track/0lshe5VyHv6KqY4dY8y8I0) | [C\-Systems](https://open.spotify.com/artist/23u5Z7BfuCPFLl4JE1uacp) | [Unreal](https://open.spotify.com/album/3zKc2kd8cR0l46l7dLPRid) | 3:52 | 2023-10-27 |  |
 | [Unseen](https://open.spotify.com/track/35w8wgWeqY7SuORIxySxrl) | [Zorza](https://open.spotify.com/artist/3aAo0qwTvgRwURTzzQ3frr) | [Unseen](https://open.spotify.com/album/0FRl1ZOXWv8AnkGkVAUwlm) | 3:04 | 2023-03-31 | 2023-05-20 |
 | [Until the End](https://open.spotify.com/track/2S86ckLswsCH7P2FAlWqhI) | [Somna](https://open.spotify.com/artist/1497VRGLDSi0Tb1sPill0K), [Nic Toms](https://open.spotify.com/artist/6qhQ81RYYMZfBgPE0f5bkD) | [Until the End](https://open.spotify.com/album/7GTIR7KG6CV1tIDa4CvBaI) | 3:38 | 2023-05-19 | 2024-01-28 |
-| [Until We Meet Again](https://open.spotify.com/track/0KoR1AcgviYrHK78mIyuYu) | [Tempo Giusto](https://open.spotify.com/artist/0m0RB1rz2K4biPY7teHR6R) | [Until We Meet Again](https://open.spotify.com/album/3L2WmaK64sDqllHJL14mkO) | 3:41 | 2024-03-08 |  |
+| [Until We Meet Again](https://open.spotify.com/track/0KoR1AcgviYrHK78mIyuYu) | [Tempo Giusto](https://open.spotify.com/artist/0m0RB1rz2K4biPY7teHR6R) | [Until We Meet Again](https://open.spotify.com/album/3L2WmaK64sDqllHJL14mkO) | 3:41 | 2024-03-08 | 2024-04-28 |
 | [Upon The Horizon](https://open.spotify.com/track/6UCpR17pbWqO88Xf7TwZq6) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR), [Joe Jury](https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer) | [Upon The Horizon](https://open.spotify.com/album/3kZS8yRn2teo9i1wrxJ1lc) | 4:08 | 2022-09-23 | 2022-11-19 |
 | [Urban Shakedown \- Bryan Kearney Remix](https://open.spotify.com/track/6Uk7rJ7HJubo1U4BjLh44v) | [Solar Factor](https://open.spotify.com/artist/2MnlwaudwiNCvyeYlZw89k), [Bryan Kearney](https://open.spotify.com/artist/5fBbVsFxoa0jDCqocaEdBx) | [Urban Return EP](https://open.spotify.com/album/7tS96ajHv3Dtq4VLD0kic0) | 7:09 | 2022-03-25 | 2022-04-16 |
 | [Velvet Morning 22](https://open.spotify.com/track/6WP0pXmMVycJwQk6L7xesG) | [Kyau & Albert](https://open.spotify.com/artist/0pyi4vNCq5T6GgV1rt7ncc) | [25 Years, Pt\. 4](https://open.spotify.com/album/32PBafVEACtSgbTsno4e8p) | 2:58 | 2022-10-14 | 2023-06-10 |

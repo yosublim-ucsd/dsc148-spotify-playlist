@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:1MXcqijfBhhY1WznU6X2er">Kacha</a> / <a href="spotify:artist:6epDO0nPVXpbXBUt4Otiik">Coals</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,976 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,979 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

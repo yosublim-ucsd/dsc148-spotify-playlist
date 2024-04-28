@@ -4,7 +4,7 @@
 
 > Sleep with sounds of pouring rain and occasional rolling thunder.
 
-459 songs - 20 hr 31 min
+460 songs - 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Ambient Rain Noise](https://open.spotify.com/track/4g6Vw8odUtPpxCQqpZwfGR) | [Dark Focus](https://open.spotify.com/artist/2njHaC9RSwt6ySM3HgGgfB) | [Ambient Nature Noise](https://open.spotify.com/album/5i3bk6Nn1ypbejqfIgNhod) | 2:30 | 2021-11-08 |  |
 | [An Intense Rain Shower](https://open.spotify.com/track/5Pze5cW4Pl1pvtrvXagAMW) | [Hypnotronica](https://open.spotify.com/artist/4V6Upc3fY4gIqOH6AogDCW) | [Warm Rain Shower](https://open.spotify.com/album/6lq8OihInr7laULnzIaT8l) | 2:45 | 2024-03-21 |  |
 | [Another Grey Afternoon](https://open.spotify.com/track/2TIlXNfAUleg3nzWVhTzaO) | [Aquaplasm](https://open.spotify.com/artist/54uoUg5UaYhb1MFVz3Q5Jq) | [Waterscapes](https://open.spotify.com/album/2XIwjSDOK23s1B9JgdxOE8) | 1:48 | 2021-11-08 | 2023-02-14 |
+| [April Showers](https://open.spotify.com/track/3xvZ0cflipIg9iKMzmlakl) | [Cloudbustrs](https://open.spotify.com/artist/3zhFLiZpjHzeuSpoALeQoZ) | [April Showers](https://open.spotify.com/album/5TU2jyl5GqEt4ifZNADt1n) | 2:38 | 2024-03-21 |  |
 | [Atmospheric Storm](https://open.spotify.com/track/0iXS67ozXexCqznTYzSQEv) | [Temporale X](https://open.spotify.com/artist/7IATXQ7L0uEHgk99h2dKaf) | [Electricity Storm](https://open.spotify.com/album/4zbJ3PnYeEyNNv6rEN8O8X) | 1:30 | 2021-11-08 | 2023-06-16 |
 | [Averse Sombre](https://open.spotify.com/track/0XdxWj0BQOdVKhaAbQYlwF) | [Créateurs De Pluie](https://open.spotify.com/artist/6LNyPA7N6f4dCGIqNdYkdK) | [Pluie Confortable](https://open.spotify.com/album/5YCyQJq6BlyEqb8et9l216) | 2:41 | 2022-01-21 |  |
 | [Back Alley Rainstorm](https://open.spotify.com/track/6E9ACxbryalj3PnCDhZxtO) | [Water Effects Center](https://open.spotify.com/artist/4ElnPSfB20IpwQlP4UudVG) | [Rain & Thunder](https://open.spotify.com/album/6R3irvC35SviITh36UxCWr) | 2:51 | 2021-11-08 |  |
@@ -344,7 +345,7 @@
 | [Scandinavian Rain](https://open.spotify.com/track/1ahdB6Gm8DebWJxgTeYzoi) | [Northerly Nature](https://open.spotify.com/artist/5jNKsTKXS0Ub5ng4c4XsL1) | [Scandinavian Rain](https://open.spotify.com/album/1KYpqdkgChN7cRPriZTDFJ) | 3:08 | 2021-11-08 | 2023-02-14 |
 | [Searching For Cover](https://open.spotify.com/track/61DyLRwrghWPY9o93BoTNw) | [Peter Graham](https://open.spotify.com/artist/0z6S9Vu5DzgaYlPfa4t9lv) | [Searching For Cover](https://open.spotify.com/album/5wKxqBdrmequiiLVZaDlg7) | 2:40 | 2021-11-08 |  |
 | [Seaside Harbor \- Rain](https://open.spotify.com/track/40Sbi8GwdiszUczHmym3fG) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Drizzling Days](https://open.spotify.com/album/5d0ac3jdhP8PGJehBqpHbQ) | 2:40 | 2022-02-18 |  |
-| [Sevilla Summer Showers](https://open.spotify.com/track/6b7Hogbueg7xuq5x9uZZCf) | [Nebulous Lull](https://open.spotify.com/artist/55PxXPnziY16HPoKLQkBe6) | [Rain in Spain](https://open.spotify.com/album/3i3AZpuhEpK3XDIDAjSIjL) | 2:27 | 2024-03-21 |  |
+| [Sevilla Summer Showers](https://open.spotify.com/track/6b7Hogbueg7xuq5x9uZZCf) | [Nebulous Lull](https://open.spotify.com/artist/55PxXPnziY16HPoKLQkBe6) | [Rain in Spain](https://open.spotify.com/album/3i3AZpuhEpK3XDIDAjSIjL) | 2:27 | 2024-03-21 | 2024-04-28 |
 | [Shelter From Rain And Thunder](https://open.spotify.com/track/6hjH2icOU51DUn09Luv3u5) | [The Relaxation Hub](https://open.spotify.com/artist/6J2XOkGyDdC603Fmf44J5e) | [The Relaxation Hub](https://open.spotify.com/album/4yf6oR4OwkGuk0rlOGIwco) | 3:50 | 2021-11-08 | 2023-02-14 |
 | [Shibuya Intense Rain](https://open.spotify.com/track/67nOtJ94CRz6CpUxRPYEFH) | [Che Dormono](https://open.spotify.com/artist/0lEQ29Wf4vAjAdyK0jGTRp) | [Shinjuku Night Showers](https://open.spotify.com/album/506N61I0wuYHbHUiAJ3lCu) | 2:54 | 2024-03-21 | 2024-04-26 |
 | [Sizzling Light Rain](https://open.spotify.com/track/1mRx1szA3v8VA8JOfQrCyZ) | [Aire Vega](https://open.spotify.com/artist/7cAoFd2D0GjQOI14qyK3xB) | [Sizzling Light Rain](https://open.spotify.com/album/7h38GTSwmMahkfpUXiw3IH) | 3:14 | 2024-03-21 |  |

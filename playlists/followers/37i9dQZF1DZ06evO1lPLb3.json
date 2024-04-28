@@ -1,7 +1,7 @@
 {
-  "2024-04-27": 44629,
+  "2024-04-28": 44680,
   "date_first_scraped": "2023-05-03",
-  "description": "This Is Peggy Gou. Los temas esenciales, todos en una lista.",
+  "description": "This is Peggy Gou. The essential tracks, all in one playlist.",
   "name": "This Is Peggy Gou",
   "tracks": [
     {
@@ -347,7 +347,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 236160,
       "name": "It Makes You Forget (Itgehane) - Edit",
       "url": "https://open.spotify.com/track/1GZJu6ciZ55S8Kp1s8Z5ex"

@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Josh Abbott Band",
-  "num_followers": 412350,
+  "num_followers": 412312,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -675,18 +675,18 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Coulda Been Love",
-        "url": "https://open.spotify.com/album/2SicSV8AnsmIXZk6NmL8G6"
+        "name": "Made In Texas",
+        "url": "https://open.spotify.com/album/29ZuaXy94yR0uWdsLsHxbJ"
       },
       "artists": [
         {
-          "name": "Randall King",
-          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 172866,
-      "name": "Coulda Been Love",
-      "url": "https://open.spotify.com/track/2K7kaSsyzMKLvXH5MnOgFp"
+      "duration_ms": 144573,
+      "name": "Made In Texas",
+      "url": "https://open.spotify.com/track/0ba2g72aL4NG7gxuvbp0my"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
+        "name": "Coulda Been Love",
+        "url": "https://open.spotify.com/album/2SicSV8AnsmIXZk6NmL8G6"
+      },
+      "artists": [
+        {
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+        }
+      ],
+      "duration_ms": 172866,
+      "name": "Coulda Been Love",
+      "url": "https://open.spotify.com/track/2K7kaSsyzMKLvXH5MnOgFp"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
         "name": "The Show",
         "url": "https://open.spotify.com/album/4Is8rQeOG1SQeIK5feEhZ6"
       },
@@ -751,34 +767,6 @@
       "duration_ms": 219481,
       "name": "Shines Through",
       "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Tough Country",
-        "url": "https://open.spotify.com/album/4usJHvZr3K0vTvb7bzzw7w"
-      },
-      "artists": [
-        {
-          "name": "The Panhandlers",
-          "url": "https://open.spotify.com/artist/3PDBePAkhZWQPgR72nhbW8"
-        },
-        {
-          "name": "John Baumann",
-          "url": "https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L"
-        },
-        {
-          "name": "William Clark Green",
-          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
-        },
-        {
-          "name": "Josh Abbott Band",
-          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
-        }
-      ],
-      "duration_ms": 243120,
-      "name": "Tough Country",
-      "url": "https://open.spotify.com/track/20XPXqe5eCGYA5CnVnKUZF"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -859,18 +847,30 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Honky Tonk Halo",
-        "url": "https://open.spotify.com/album/5Vg9rREsvZv7Hi8X5JxMhQ"
+        "name": "Tough Country",
+        "url": "https://open.spotify.com/album/4usJHvZr3K0vTvb7bzzw7w"
       },
       "artists": [
         {
-          "name": "Mikayla Lane",
-          "url": "https://open.spotify.com/artist/0O8sqn13OlGQfDAASHT2jl"
+          "name": "The Panhandlers",
+          "url": "https://open.spotify.com/artist/3PDBePAkhZWQPgR72nhbW8"
+        },
+        {
+          "name": "John Baumann",
+          "url": "https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L"
+        },
+        {
+          "name": "William Clark Green",
+          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
+        },
+        {
+          "name": "Josh Abbott Band",
+          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
         }
       ],
-      "duration_ms": 237013,
-      "name": "Honky Tonk Halo",
-      "url": "https://open.spotify.com/track/1QnjAMD4pKP8vHmsgFMLW4"
+      "duration_ms": 243120,
+      "name": "Tough Country",
+      "url": "https://open.spotify.com/track/20XPXqe5eCGYA5CnVnKUZF"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -911,18 +911,18 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Happy Hour",
-        "url": "https://open.spotify.com/album/5CZAEHWXrGtkUDQjsLyjM2"
+        "name": "Honky Tonk Halo",
+        "url": "https://open.spotify.com/album/5Vg9rREsvZv7Hi8X5JxMhQ"
       },
       "artists": [
         {
-          "name": "Hayes Carll",
-          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
+          "name": "Mikayla Lane",
+          "url": "https://open.spotify.com/artist/0O8sqn13OlGQfDAASHT2jl"
         }
       ],
-      "duration_ms": 191777,
-      "name": "Happy Hour",
-      "url": "https://open.spotify.com/track/1NrpMKByuTCn9Bck5mdqOm"
+      "duration_ms": 237013,
+      "name": "Honky Tonk Halo",
+      "url": "https://open.spotify.com/track/1QnjAMD4pKP8vHmsgFMLW4"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -975,18 +975,18 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Bottom of It",
-        "url": "https://open.spotify.com/album/634fjrf1xw9BpyDx83lomm"
+        "name": "Happy Hour",
+        "url": "https://open.spotify.com/album/5CZAEHWXrGtkUDQjsLyjM2"
       },
       "artists": [
         {
-          "name": "Don Louis",
-          "url": "https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX"
+          "name": "Hayes Carll",
+          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
         }
       ],
-      "duration_ms": 192743,
-      "name": "Bottom of It",
-      "url": "https://open.spotify.com/track/7Hlt8sBheuJXbBU4aFOGcp"
+      "duration_ms": 191777,
+      "name": "Happy Hour",
+      "url": "https://open.spotify.com/track/1NrpMKByuTCn9Bck5mdqOm"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Saddest Town in Texas",
-        "url": "https://open.spotify.com/album/6YVJ3LQTCbhOrjc6xujrEC"
+        "name": "Bottom of It",
+        "url": "https://open.spotify.com/album/634fjrf1xw9BpyDx83lomm"
       },
       "artists": [
         {
-          "name": "Rusty Gear",
-          "url": "https://open.spotify.com/artist/1e9q9D5SODSTajOBo1VQqh"
+          "name": "Don Louis",
+          "url": "https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX"
         }
       ],
-      "duration_ms": 212731,
-      "name": "Saddest Town in Texas",
-      "url": "https://open.spotify.com/track/3WeWNp3vXMssbXzeGSczGz"
+      "duration_ms": 192743,
+      "name": "Bottom of It",
+      "url": "https://open.spotify.com/track/7Hlt8sBheuJXbBU4aFOGcp"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Dancin' With The Devil",
-        "url": "https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4"
+        "name": "Saddest Town in Texas",
+        "url": "https://open.spotify.com/album/6YVJ3LQTCbhOrjc6xujrEC"
       },
       "artists": [
         {
-          "name": "Josh Ward",
-          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
+          "name": "Rusty Gear",
+          "url": "https://open.spotify.com/artist/1e9q9D5SODSTajOBo1VQqh"
         }
       ],
-      "duration_ms": 178848,
-      "name": "Dancin' With The Devil",
-      "url": "https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB"
+      "duration_ms": 212731,
+      "name": "Saddest Town in Texas",
+      "url": "https://open.spotify.com/track/3WeWNp3vXMssbXzeGSczGz"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Love Talking",
-        "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
+        "name": "Dancin' With The Devil",
+        "url": "https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4"
       },
       "artists": [
         {
-          "name": "Eli Young Band",
-          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+          "name": "Josh Ward",
+          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
         }
       ],
-      "duration_ms": 173131,
-      "name": "Love Talking",
-      "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
+      "duration_ms": 178848,
+      "name": "Dancin' With The Devil",
+      "url": "https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
+        "name": "Love Talking",
+        "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
+      },
+      "artists": [
+        {
+          "name": "Eli Young Band",
+          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+        }
+      ],
+      "duration_ms": 173131,
+      "name": "Love Talking",
+      "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
         "name": "Learnin' my Lesson",
         "url": "https://open.spotify.com/album/7GUnsUVz27ZchZ7vmtm1Mn"
       },
@@ -1211,22 +1227,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "The Greys Between",
-        "url": "https://open.spotify.com/album/2knRBE5vCLo3hWio4y56zg"
-      },
-      "artists": [
-        {
-          "name": "Shane Smith & the Saints",
-          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
-        }
-      ],
-      "duration_ms": 255159,
-      "name": "The Greys Between",
-      "url": "https://open.spotify.com/track/3roru1yN2PhTPLvNpwMiqf"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Map Dot Missing You",
         "url": "https://open.spotify.com/album/2Bd8KaslC78hDhi2X9OikT"
       },
@@ -1239,6 +1239,22 @@
       "duration_ms": 209347,
       "name": "Map Dot Missing You",
       "url": "https://open.spotify.com/track/6Zn2UwxIE8A7Ppnvz6iosp"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "The Greys Between",
+        "url": "https://open.spotify.com/album/2knRBE5vCLo3hWio4y56zg"
+      },
+      "artists": [
+        {
+          "name": "Shane Smith & the Saints",
+          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
+        }
+      ],
+      "duration_ms": 255159,
+      "name": "The Greys Between",
+      "url": "https://open.spotify.com/track/3roru1yN2PhTPLvNpwMiqf"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1259,22 +1275,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Wherever I Am",
-        "url": "https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS"
-      },
-      "artists": [
-        {
-          "name": "Kolton Moore & the Clever Few",
-          "url": "https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj"
-        }
-      ],
-      "duration_ms": 253101,
-      "name": "Wherever I Am",
-      "url": "https://open.spotify.com/track/1mIAWUrotcchpannDztoxM"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Cold Shoulder",
         "url": "https://open.spotify.com/album/7rRa6fVsCQPLQPfQlyE8TS"
       },
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Rainin On Me",
-        "url": "https://open.spotify.com/album/4nExf5XzwhQFltAYmBUfbt"
+        "name": "Wherever I Am",
+        "url": "https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS"
       },
       "artists": [
         {
-          "name": "Wade Bowen",
-          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
+          "name": "Kolton Moore & the Clever Few",
+          "url": "https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj"
         }
       ],
-      "duration_ms": 252426,
-      "name": "Rainin On Me",
-      "url": "https://open.spotify.com/track/4YmqhdQ3DJ3W6aK7Y1VBtP"
+      "duration_ms": 253101,
+      "name": "Wherever I Am",
+      "url": "https://open.spotify.com/track/1mIAWUrotcchpannDztoxM"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Who I Am",
-        "url": "https://open.spotify.com/album/4dVQwZMN2B0tfKjPWs3ayY"
+        "name": "Rainin On Me",
+        "url": "https://open.spotify.com/album/4nExf5XzwhQFltAYmBUfbt"
       },
       "artists": [
         {
-          "name": "Tanner Usrey",
-          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
+          "name": "Wade Bowen",
+          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
         }
       ],
-      "duration_ms": 257146,
-      "name": "Who I Am",
-      "url": "https://open.spotify.com/track/41kIX5NAx8HXFpZx8XJghd"
+      "duration_ms": 252426,
+      "name": "Rainin On Me",
+      "url": "https://open.spotify.com/track/4YmqhdQ3DJ3W6aK7Y1VBtP"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/4dVQwZMN2B0tfKjPWs3ayY"
+      },
+      "artists": [
+        {
+          "name": "Tanner Usrey",
+          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
+        }
+      ],
+      "duration_ms": 257146,
+      "name": "Who I Am",
+      "url": "https://open.spotify.com/track/41kIX5NAx8HXFpZx8XJghd"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
         "name": "Kick A Little",
         "url": "https://open.spotify.com/album/4ge2mkLRHL3eVxABHU9hEb"
       },
@@ -1559,22 +1575,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Start over Somewhere",
-        "url": "https://open.spotify.com/album/06ZzHXrAtmH0Jhfptoz1Zc"
-      },
-      "artists": [
-        {
-          "name": "Jon Wolfe",
-          "url": "https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp"
-        }
-      ],
-      "duration_ms": 246769,
-      "name": "Start over Somewhere",
-      "url": "https://open.spotify.com/track/7kdic1HVv2OjJH8dYpNdRP"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Hope It Don\u2019t Take Forever",
         "url": "https://open.spotify.com/album/2dIxym2A5eIYxh0BXzcbdP"
       },
@@ -1591,22 +1591,18 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Last Goodbye",
-        "url": "https://open.spotify.com/album/0WXyQUyDdTimxIhieDQIlA"
+        "name": "Start over Somewhere",
+        "url": "https://open.spotify.com/album/06ZzHXrAtmH0Jhfptoz1Zc"
       },
       "artists": [
         {
-          "name": "Tanner Usrey",
-          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
-        },
-        {
-          "name": "Graycie York",
-          "url": "https://open.spotify.com/artist/1xJprUmeoe1iyVDl9vb552"
+          "name": "Jon Wolfe",
+          "url": "https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp"
         }
       ],
-      "duration_ms": 212946,
-      "name": "Last Goodbye",
-      "url": "https://open.spotify.com/track/4G3alzPjLhRcm7rxsSHMkp"
+      "duration_ms": 246769,
+      "name": "Start over Somewhere",
+      "url": "https://open.spotify.com/track/7kdic1HVv2OjJH8dYpNdRP"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1667,6 +1663,26 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
+        "name": "Last Goodbye",
+        "url": "https://open.spotify.com/album/0WXyQUyDdTimxIhieDQIlA"
+      },
+      "artists": [
+        {
+          "name": "Tanner Usrey",
+          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
+        },
+        {
+          "name": "Graycie York",
+          "url": "https://open.spotify.com/artist/1xJprUmeoe1iyVDl9vb552"
+        }
+      ],
+      "duration_ms": 212946,
+      "name": "Last Goodbye",
+      "url": "https://open.spotify.com/track/4G3alzPjLhRcm7rxsSHMkp"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
         "name": "Barely A Two Lane Road",
         "url": "https://open.spotify.com/album/1uQFI2ysX9M76YuC8tJZTD"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 235365,
       "name": "Bring You Down",
       "url": "https://open.spotify.com/track/0aI0CjHskW0LhHVSIoNXET"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "If I Had a Bar",
-        "url": "https://open.spotify.com/album/3xKfoEvSGdBlRIZ6GUT4Lf"
-      },
-      "artists": [
-        {
-          "name": "Jon Wolfe",
-          "url": "https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp"
-        }
-      ],
-      "duration_ms": 187116,
-      "name": "If I Had a Bar",
-      "url": "https://open.spotify.com/track/6BGBFbs555m7u2yFRXWJey"
     },
     {
       "added_at": "2024-04-26 04:00:00",

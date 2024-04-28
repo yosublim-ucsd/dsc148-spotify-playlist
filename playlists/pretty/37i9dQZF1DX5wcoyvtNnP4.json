@@ -1,6 +1,6 @@
 {
   "description": "Entspannung pur oder viel los? Hier findest du die passenden Beats f\u00fcr deine Pl\u00e4ne!",
-  "num_followers": 490469,
+  "num_followers": 490448,
   "original_name": "Wochenende",
   "owner": {
     "name": "Spotify",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2024-04-24 06:24:20",
       "album": {
-        "name": "Exhale",
-        "url": "https://open.spotify.com/album/1JREEnrYGc7Df2GZt2am3v"
-      },
-      "artists": [
-        {
-          "name": "T. Matthias",
-          "url": "https://open.spotify.com/artist/2R7k2SovVWGhTcvPx1JbQv"
-        },
-        {
-          "name": "Alimish",
-          "url": "https://open.spotify.com/artist/2gbXRkygfEuz0WIjtN2vpR"
-        }
-      ],
-      "duration_ms": 150994,
-      "name": "Exhale",
-      "url": "https://open.spotify.com/track/2L5RY6eVB5PYmNsrnchGW1"
-    },
-    {
-      "added_at": "2024-04-24 06:24:20",
-      "album": {
         "name": "I",
         "url": "https://open.spotify.com/album/7IZ1wot5qS4ne7aB5pkedo"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 139422,
       "name": "Body Talk",
       "url": "https://open.spotify.com/track/7jLoUQCN6HeC4MNQxr0wcD"
+    },
+    {
+      "added_at": "2024-04-24 06:24:20",
+      "album": {
+        "name": "Exhale",
+        "url": "https://open.spotify.com/album/1JREEnrYGc7Df2GZt2am3v"
+      },
+      "artists": [
+        {
+          "name": "T. Matthias",
+          "url": "https://open.spotify.com/artist/2R7k2SovVWGhTcvPx1JbQv"
+        },
+        {
+          "name": "Alimish",
+          "url": "https://open.spotify.com/artist/2gbXRkygfEuz0WIjtN2vpR"
+        }
+      ],
+      "duration_ms": 150994,
+      "name": "Exhale",
+      "url": "https://open.spotify.com/track/2L5RY6eVB5PYmNsrnchGW1"
     },
     {
       "added_at": "2024-04-24 06:24:20",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2024-04-24 06:24:20",
       "album": {
-        "name": "Where You Are",
-        "url": "https://open.spotify.com/album/25Bk5lhRcppzuyAqaqXuws"
-      },
-      "artists": [
-        {
-          "name": "Nico Santos",
-          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
-        },
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
-        }
-      ],
-      "duration_ms": 148885,
-      "name": "Where You Are",
-      "url": "https://open.spotify.com/track/4XFJmvM7x2Wkz6kXJr5LmO"
-    },
-    {
-      "added_at": "2024-04-24 06:24:20",
-      "album": {
         "name": "Sun Will Shine",
         "url": "https://open.spotify.com/album/43u6j73XJJE6wOhKgsA50W"
       },
@@ -1255,18 +1235,22 @@
     {
       "added_at": "2024-04-24 06:24:20",
       "album": {
-        "name": "You again",
-        "url": "https://open.spotify.com/album/1nh5G9NplczHOOODYGYOSL"
+        "name": "Where You Are",
+        "url": "https://open.spotify.com/album/25Bk5lhRcppzuyAqaqXuws"
       },
       "artists": [
         {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+          "name": "Nico Santos",
+          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
+        },
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
         }
       ],
-      "duration_ms": 168281,
-      "name": "You again",
-      "url": "https://open.spotify.com/track/7LhWNeUUlbdkzmeRY7WoCj"
+      "duration_ms": 148885,
+      "name": "Where You Are",
+      "url": "https://open.spotify.com/track/4XFJmvM7x2Wkz6kXJr5LmO"
     },
     {
       "added_at": "2024-04-24 06:24:20",
@@ -1291,6 +1275,22 @@
     {
       "added_at": "2024-04-24 06:24:20",
       "album": {
+        "name": "You again",
+        "url": "https://open.spotify.com/album/1nh5G9NplczHOOODYGYOSL"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "duration_ms": 168281,
+      "name": "You again",
+      "url": "https://open.spotify.com/track/7LhWNeUUlbdkzmeRY7WoCj"
+    },
+    {
+      "added_at": "2024-04-24 06:24:20",
+      "album": {
         "name": "Dirty Dancing",
         "url": "https://open.spotify.com/album/0nB12E14XrqbxtbteLPuEo"
       },
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2024-04-24 06:24:20",
       "album": {
-        "name": "Better Me",
-        "url": "https://open.spotify.com/album/5IYf8D3VoKSaFcDJm6o9qL"
-      },
-      "artists": [
-        {
-          "name": "Michael Schulte",
-          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 166080,
-      "name": "Better Me",
-      "url": "https://open.spotify.com/track/7JStcVqmZ7NbI76tRerzaB"
-    },
-    {
-      "added_at": "2024-04-24 06:24:20",
-      "album": {
         "name": "Now or Never",
         "url": "https://open.spotify.com/album/0wXhfqZywLaSc3EHaA5kWt"
       },
@@ -1347,6 +1327,26 @@
       "duration_ms": 182750,
       "name": "Now or Never",
       "url": "https://open.spotify.com/track/6nNXTSvVO6ue9Ywshh4PZ4"
+    },
+    {
+      "added_at": "2024-04-24 06:24:20",
+      "album": {
+        "name": "Better Me",
+        "url": "https://open.spotify.com/album/5IYf8D3VoKSaFcDJm6o9qL"
+      },
+      "artists": [
+        {
+          "name": "Michael Schulte",
+          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 166080,
+      "name": "Better Me",
+      "url": "https://open.spotify.com/track/7JStcVqmZ7NbI76tRerzaB"
     },
     {
       "added_at": "2024-04-24 06:24:20",

@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 56785,
+  "2024-04-28": 56819,
   "date_first_scraped": "2022-03-24",
   "description": "boom bap renasce todo dia. Foto: NOG, Mano Fler, Choice, Mauricio DTS, Jhony Mc",
   "name": "Boom Rap",
@@ -2169,6 +2169,24 @@
       "duration_ms": 243428,
       "name": "C\u00e9u Azul",
       "url": "https://open.spotify.com/track/0S4YjU15ivg0rB9zKYJmND"
+    },
+    {
+      "album": {
+        "name": "C\u00f3digo Navajo",
+        "url": "https://open.spotify.com/album/1nQzaTVgyWzGLDWCOhcB7T"
+      },
+      "artists": [
+        {
+          "name": "Ca$hline",
+          "url": "https://open.spotify.com/artist/41QQgOKrnE3i6AQXKqOG1z"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123333,
+      "name": "C\u00f3digo Navajo",
+      "url": "https://open.spotify.com/track/4GfVKSNy2gIuYV0bq1zNjG"
     },
     {
       "album": {
@@ -9535,6 +9553,28 @@
       "duration_ms": 262400,
       "name": "T\u00e3o Gostoso",
       "url": "https://open.spotify.com/track/0bgy7v2lKWmvaegE7JKF7m"
+    },
+    {
+      "album": {
+        "name": "T\u00edtulo",
+        "url": "https://open.spotify.com/album/6b5sVLAvJVDGjrTftoR83f"
+      },
+      "artists": [
+        {
+          "name": "Parteum",
+          "url": "https://open.spotify.com/artist/047rJvBYv0egT5SolmU7m4"
+        },
+        {
+          "name": "Francisco Benedito",
+          "url": "https://open.spotify.com/artist/2TriWeIsI0i0rxjiZwkZqX"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195084,
+      "name": "T\u00edtulo",
+      "url": "https://open.spotify.com/track/5O6zGZBzrDLOuNDz70utob"
     },
     {
       "album": {

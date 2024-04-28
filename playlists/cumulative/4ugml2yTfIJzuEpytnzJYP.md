@@ -4,7 +4,7 @@
 
 > Deep Bass \- Melodic Bass \- Dubstep \- 140 \- Downtempo \- Dance Music \- Tribal Trap \- Grime \- Future Bass
 
-253 songs - 16 hr 3 min
+254 songs - 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [Snowflake](https://open.spotify.com/track/1FlSQIClcJvxe2fnhKyLqJ) | [Darchives](https://open.spotify.com/artist/4i0Tojv2eHDvhtEYv6RD8g) | [Snowflake](https://open.spotify.com/album/3uGzT0D4yRpD9MJe208YIh) | 2:45 | 2022-01-08 | 2022-02-09 |
 | [Sounds Like Color](https://open.spotify.com/track/0EVPBhEFx2UUAzwHLn5vf3) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV) | [Sounds Like Color](https://open.spotify.com/album/61g9xbxFVVK2pBAwdUELkU) | 3:46 | 2022-11-18 | 2023-06-13 |
 | [Starseed 47 \- VIP Mix](https://open.spotify.com/track/4dDUGzPZifKdH97ecN9V9W) | [J:Kenzo](https://open.spotify.com/artist/2vnlhEYTh2K1O3NZE2ONiz) | [Return to Taygeta](https://open.spotify.com/album/3vn29spZzdHiGqBIusy2Qh) | 3:59 | 2023-05-31 | 2023-12-14 |
+| [Stopped To Take A Breath Of Air, Smiling In A Field Of Neon Dreams](https://open.spotify.com/track/6V4r1Lj4xIk58HRN6Ug5Kp) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV) | [Stopped To Take A Breath Of Air, Smiling In A Field Of Neon Dreams](https://open.spotify.com/album/0vqbV7TUGVe9GdUflpZ9QM) | 3:46 | 2024-04-27 |  |
 | [Strike](https://open.spotify.com/track/7c1g5JmXVlH0NFdXzAZeJx) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4) | [Strike](https://open.spotify.com/album/1zvylBQuZ66vc6TFB32cJL) | 5:37 | 2023-05-31 | 2023-08-06 |
 | [Stutter](https://open.spotify.com/track/0xvV5ou14UMhDPVVPl4bdq) | [Schmoop](https://open.spotify.com/artist/7w1P3S7Se2WKHlOBQlqdR5) | [Collapse EP](https://open.spotify.com/album/4A0kpMhLGUO2CtH5zqli4d) | 3:37 | 2022-04-25 | 2022-08-23 |
 | [Switch](https://open.spotify.com/track/6cUrJ1tZ82b6UwS69og24J) | [Mize](https://open.spotify.com/artist/31uPFWR7sBQ3dcZ8y8zOzY) | [Switch](https://open.spotify.com/album/6dtKFemPXxxMVQBlVwYq4g) | 4:06 | 2022-02-25 | 2022-08-23 |

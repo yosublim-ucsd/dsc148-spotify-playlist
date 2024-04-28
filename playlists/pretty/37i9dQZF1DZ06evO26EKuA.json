@@ -1,12 +1,12 @@
 {
   "description": "This Is Valent\u00edn Elizalde. Los temas esenciales, todos en una lista.",
-  "num_followers": 418604,
+  "num_followers": 418708,
   "original_name": "This Is Valent\u00edn Elizalde",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDAwMzIwMCwwMDAwMDAwMDI1YThmYmZkNzRhNjdlMjM4NmEyMjc1NDI0YWJiY2Y3",
+  "snapshot_id": "MTcxNDA4OTYwMCwwMDAwMDAwMDlkN2I5YTIwZDAxY2JhYWU0ZThhOWVkMDA5OTliMTMx",
   "tracks": [
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Regresan Los Mafiosos",
-        "url": "https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "La Playa",
-      "url": "https://open.spotify.com/track/4I2uRBguWbYidzYUdTjKxZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Homenaje A Una Vida Vol 1",
         "url": "https://open.spotify.com/album/4c2ZYYDwVqpfShY6IJGoFi"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 166200,
       "name": "Tengo Ganas",
       "url": "https://open.spotify.com/track/3v8d12Ogo5N2ucwReogiSq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Regresan Los Mafiosos",
+        "url": "https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "La Playa",
+      "url": "https://open.spotify.com/track/4I2uRBguWbYidzYUdTjKxZ"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Censura Su \u00daltimo Concierto (En Vivo Desde Los Angeles CA, 2006 / Componente 2)",
-        "url": "https://open.spotify.com/album/509Khys7Q3ZDhPuGaDL11p"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 176266,
-      "name": "Los \"Pajaros\" - Bonus Track",
-      "url": "https://open.spotify.com/track/6M517vjML2dFAE41OfF1JA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vencedor",
         "url": "https://open.spotify.com/album/4cPRux21b3M1X668qR5lZ3"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 193520,
       "name": "Para Que Olvidar",
       "url": "https://open.spotify.com/track/3hxkmCgl3XdDfWkyRfjkWh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sin Censura Su \u00daltimo Concierto (En Vivo Desde Los Angeles CA, 2006 / Componente 2)",
+        "url": "https://open.spotify.com/album/509Khys7Q3ZDhPuGaDL11p"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 176266,
+      "name": "Los \"Pajaros\" - Bonus Track",
+      "url": "https://open.spotify.com/track/6M517vjML2dFAE41OfF1JA"
     },
     {
       "added_at": null,
@@ -771,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Regresan Los Mafiosos",
-        "url": "https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY"
+        "name": "Valentin Elizalde En Vivo",
+        "url": "https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
         }
       ],
-      "duration_ms": 207933,
-      "name": "Hola Y Adios",
-      "url": "https://open.spotify.com/track/7eF430WJ46ij8TOEYzyIor"
+      "duration_ms": 172933,
+      "name": "Amor Que Muere - En Vivo Desde Delfos, Guadalajara/2002",
+      "url": "https://open.spotify.com/track/2NHZp87Eo4QbgSTYwcFAcs"
     },
     {
       "added_at": null,
@@ -807,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Valentin Elizalde En Vivo",
-        "url": "https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L"
+        "name": "Regresan Los Mafiosos",
+        "url": "https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
         }
       ],
-      "duration_ms": 172933,
-      "name": "Amor Que Muere - En Vivo Desde Delfos, Guadalajara/2002",
-      "url": "https://open.spotify.com/track/2NHZp87Eo4QbgSTYwcFAcs"
+      "duration_ms": 207933,
+      "name": "Hola Y Adios",
+      "url": "https://open.spotify.com/track/7eF430WJ46ij8TOEYzyIor"
     },
     {
       "added_at": null,

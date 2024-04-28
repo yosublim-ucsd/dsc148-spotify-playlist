@@ -2,7 +2,7 @@
 
 ### [Música Mexicana Rising](https://open.spotify.com/playlist/37i9dQZF1DX10A9MXc7csF)
 
-> The new school of Música Mexicana\. Cover: Nivel
+> The new school of Música Mexicana\. Cover: EKA Norteña
 
 786 songs - 1 day 16 hr 21 min
 

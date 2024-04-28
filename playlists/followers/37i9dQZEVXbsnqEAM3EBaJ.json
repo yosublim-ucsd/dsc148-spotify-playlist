@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 0,
+  "2024-04-28": 0,
   "date_first_scraped": "2023-03-03",
   "description": "Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.",
   "name": "Release Radar (@pipemanuel10)",
@@ -1407,7 +1407,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 224866,
       "name": "Amo",
       "url": "https://open.spotify.com/track/7AOuQLiHydOfq8tzL3oEdA"
@@ -2013,6 +2013,28 @@
       "duration_ms": 302393,
       "name": "Astronaut",
       "url": "https://open.spotify.com/track/1ujzje23n9CutTP8VhJpgp"
+    },
+    {
+      "album": {
+        "name": "100PRE YORO",
+        "url": "https://open.spotify.com/album/6xOaHqhD9jaJtR3xmFHrzP"
+      },
+      "artists": [
+        {
+          "name": "Lara91k",
+          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
+        },
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172120,
+      "name": "atame",
+      "url": "https://open.spotify.com/track/496CwTqTiS1STcigZhzUJE"
     },
     {
       "album": {
@@ -5071,7 +5093,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 181959,
       "name": "Dancing star",
       "url": "https://open.spotify.com/track/1ubYusrYTfwfw7sZnUcwAn"
@@ -6193,7 +6215,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 157617,
       "name": "Dubai Desires",
       "url": "https://open.spotify.com/track/0zAfmkp6yhpFYXbdsdxt39"
@@ -7595,7 +7617,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 198973,
       "name": "February Sky",
       "url": "https://open.spotify.com/track/5MwtA7nicSHA0JAL8DwSuv"
@@ -8869,7 +8891,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 233047,
       "name": "Gone - Reimagined",
       "url": "https://open.spotify.com/track/13EWbYhcihoM9wt6iPIzTF"
@@ -8891,10 +8913,28 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 493030,
       "name": "Gone 2 Long - Pete Hammond Hi-NRG Remix",
       "url": "https://open.spotify.com/track/0OBvf9StzZ72I9gf25Ugn5"
+    },
+    {
+      "album": {
+        "name": "Crooked Boy",
+        "url": "https://open.spotify.com/album/72el7627Bwj1UTsu7RBRM2"
+      },
+      "artists": [
+        {
+          "name": "Ringo Starr",
+          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179680,
+      "name": "Gonna Need Someone",
+      "url": "https://open.spotify.com/track/6mBul4Vs17ZxW6vnO6Pj69"
     },
     {
       "album": {
@@ -8975,6 +9015,24 @@
       "duration_ms": 173760,
       "name": "GOT THE THRILLS",
       "url": "https://open.spotify.com/track/1RVsbqAP1WFFXPiBXQYIah"
+    },
+    {
+      "album": {
+        "name": "To Save a Child",
+        "url": "https://open.spotify.com/album/2AFTCoFxo67KJgTKZtmDWi"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 568000,
+      "name": "Got To Get Better In A Little While - Live",
+      "url": "https://open.spotify.com/track/3lNHwRPfFHckwPm1nTIuu9"
     },
     {
       "album": {
@@ -10428,6 +10486,28 @@
     },
     {
       "album": {
+        "name": "The Pete Hammond Hi-NRG Remixes",
+        "url": "https://open.spotify.com/album/03S6HcZLdd9IdKJOUfyX32"
+      },
+      "artists": [
+        {
+          "name": "Dead Or Alive",
+          "url": "https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD"
+        },
+        {
+          "name": "Pete Hammond",
+          "url": "https://open.spotify.com/artist/0LYfg5xv5IpmpOTEn2B0Ql"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 534091,
+      "name": "I Don't Care About Your Heart - Pete Hammond Hi-NRG Remix",
+      "url": "https://open.spotify.com/track/6zd5ReZh9qj0S8PYM8qAq3"
+    },
+    {
+      "album": {
         "name": "Asphalt Meadows (Acoustic)",
         "url": "https://open.spotify.com/album/6hRYTGSMlOgLU4KxcHFMJK"
       },
@@ -11522,6 +11602,32 @@
     },
     {
       "album": {
+        "name": "INFERNO. (with Brandon Saller and Dan Jacobs of Atreyu)",
+        "url": "https://open.spotify.com/album/0TK3jIBmGHuZm4p30bCtmD"
+      },
+      "artists": [
+        {
+          "name": "aurorawave",
+          "url": "https://open.spotify.com/artist/5ERzKZCMDsFeH15G80MFSS"
+        },
+        {
+          "name": "Nathan Aurora",
+          "url": "https://open.spotify.com/artist/6aAxZpCPuID3U1dLdobyns"
+        },
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212571,
+      "name": "INFERNO. (with Brandon Saller and Dan Jacobs of Atreyu)",
+      "url": "https://open.spotify.com/track/6ECzCw24wyrvWeyWRRBCXe"
+    },
+    {
+      "album": {
         "name": "Infiel",
         "url": "https://open.spotify.com/album/1EL3qmK14CMawfXH5hlAFb"
       },
@@ -11973,6 +12079,28 @@
       "duration_ms": 263925,
       "name": "It's Called Paradise",
       "url": "https://open.spotify.com/track/645MkmRB7md78K9cIUemDn"
+    },
+    {
+      "album": {
+        "name": "2 Song Acoustic Single",
+        "url": "https://open.spotify.com/album/47B4feQDM2Fkycbz5eS096"
+      },
+      "artists": [
+        {
+          "name": "Periphery",
+          "url": "https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc"
+        },
+        {
+          "name": "Mike Dawes",
+          "url": "https://open.spotify.com/artist/3B83ffT0B4Si3ttxzY9fMz"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300181,
+      "name": "It's Only Smiles - Acoustic",
+      "url": "https://open.spotify.com/track/0l0xADSYCvroPuNtCXDyIP"
     },
     {
       "album": {
@@ -14374,6 +14502,24 @@
     },
     {
       "album": {
+        "name": "Magnificent",
+        "url": "https://open.spotify.com/album/70bnRdCfNQrboNva4UvNpl"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275754,
+      "name": "Magnificent",
+      "url": "https://open.spotify.com/track/2gGsUlqs3y4yRNh1a372Qp"
+    },
+    {
+      "album": {
         "name": "Music Legends Bob Dylan : The Poet's Folk Hits",
         "url": "https://open.spotify.com/album/0Tua8H6QtqZjJjhX1P8Wwc"
       },
@@ -15796,6 +15942,24 @@
     },
     {
       "album": {
+        "name": "Nonetheless",
+        "url": "https://open.spotify.com/album/4kRlRxwCZ0SeRxvjGgVVaj"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292964,
+      "name": "New London boy",
+      "url": "https://open.spotify.com/track/4cICGoff2F8uTr8JbcGFwt"
+    },
+    {
+      "album": {
         "name": "New Messiah",
         "url": "https://open.spotify.com/album/3M5G33aqX2jA7ZyaujjAem"
       },
@@ -15829,6 +15993,46 @@
       "duration_ms": 305146,
       "name": "New Religion",
       "url": "https://open.spotify.com/track/2PKlwU7fwVIvTDxR5eSZlV"
+    },
+    {
+      "album": {
+        "name": "Niebla",
+        "url": "https://open.spotify.com/album/7K0rkFuaN2l85ZMNdnV9UB"
+      },
+      "artists": [
+        {
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222965,
+      "name": "Niebla",
+      "url": "https://open.spotify.com/track/3dpi4ZGA27elKx01mbWSb7"
+    },
+    {
+      "album": {
+        "name": "Blue Train",
+        "url": "https://open.spotify.com/album/3ThHAriukjvBCs91zisfhN"
+      },
+      "artists": [
+        {
+          "name": "Piero",
+          "url": "https://open.spotify.com/artist/0kavuvnHTeqwjKLV7qPpQm"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368750,
+      "name": "Nikes On My Feet",
+      "url": "https://open.spotify.com/track/2Bgw3scjlnWiYonMJEf6FN"
     },
     {
       "album": {
@@ -17891,7 +18095,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 237800,
       "name": "Prayer of a Child",
       "url": "https://open.spotify.com/track/4MKDPj4JBiB53xdT4m5jRa"
@@ -18063,7 +18267,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 228750,
       "name": "Purgatory",
       "url": "https://open.spotify.com/track/0yOeEBHL5tgsjgk1bpdAWs"
@@ -18365,10 +18569,28 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 201341,
       "name": "QWERTY",
       "url": "https://open.spotify.com/track/4XyH7K2OWCkpABzPU18B2B"
+    },
+    {
+      "album": {
+        "name": "QWERTY (Live in Tokyo, 2006)",
+        "url": "https://open.spotify.com/album/7bYai93piRObiZD6utMG8Y"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234626,
+      "name": "QWERTY (Live in Tokyo, 2006)",
+      "url": "https://open.spotify.com/track/1ZUCprAO5NeQvI6yIqCtNX"
     },
     {
       "album": {
@@ -25563,7 +25785,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 378806,
       "name": "United States Of Division",
       "url": "https://open.spotify.com/track/42IywCSd29OYc49Nfpxzcb"

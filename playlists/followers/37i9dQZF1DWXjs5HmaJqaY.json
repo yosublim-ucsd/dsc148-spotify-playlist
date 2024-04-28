@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 179317,
+  "2024-04-28": 179362,
   "date_first_scraped": "2022-09-17",
   "description": "<a href=\"spotify:artist:6caPJFLv1wesmM7gwK1ACy\">Boris Brejcha</a>'s favorite tracks. Updated regularly. Curated by Boris Brejcha. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Boris Brejcha's track IDs",
@@ -229,6 +229,24 @@
       "duration_ms": 495020,
       "name": "Astronautin - Boris Brejcha Remix",
       "url": "https://open.spotify.com/track/4Z9JnhS9cd1Qd0BJ7nii4D"
+    },
+    {
+      "album": {
+        "name": "Bass Care",
+        "url": "https://open.spotify.com/album/7KEYcmsUwliPlLydKErg1Q"
+      },
+      "artists": [
+        {
+          "name": "Loft 15 A",
+          "url": "https://open.spotify.com/artist/3H7elwiXJ63HlIyjOeLhtG"
+        }
+      ],
+      "date_added": "2024-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375000,
+      "name": "Bass Care",
+      "url": "https://open.spotify.com/track/54BANm3jvqRqGfbLzR3YC2"
     },
     {
       "album": {
@@ -3419,6 +3437,28 @@
       "duration_ms": 258531,
       "name": "So Sweet",
       "url": "https://open.spotify.com/track/7DyqZMCkblbJU6dqlQrnd2"
+    },
+    {
+      "album": {
+        "name": "Solar Flare",
+        "url": "https://open.spotify.com/album/54x1liWb99WVZauV6bKMtF"
+      },
+      "artists": [
+        {
+          "name": "Al-Faris",
+          "url": "https://open.spotify.com/artist/07LrIMW3EHnuoc5us4AGgm"
+        },
+        {
+          "name": "Andrew Wooden",
+          "url": "https://open.spotify.com/artist/2BcpCh7qQg8YDzAQ7XrxG2"
+        }
+      ],
+      "date_added": "2024-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208093,
+      "name": "Solar Flare - Edit",
+      "url": "https://open.spotify.com/track/7f8QgBiGPzUo0oOFWJNa8m"
     },
     {
       "album": {

@@ -1,13 +1,33 @@
 {
-  "description": "This Is Belinda. Los temas esenciales, todos en una lista.",
-  "num_followers": 65385,
+  "description": "This is Belinda. The essential tracks, all in one playlist.",
+  "num_followers": 65425,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDAwMzIwMCwwMDAwMDAwMDAyMWJlYTlhZmY3Nzg2Zjc3MGZhMzIwYTlmYmUzODg5",
+  "snapshot_id": "MTcxNDA4OTYwMCwwMDAwMDAwMDkyNjk1NjAxYzBlYmEzNDRjYTUyMGMxY2ZhNmQ2ZjYz",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "300 Noches",
+        "url": "https://open.spotify.com/album/1eXnHv9p2TLAg1X4LoFTml"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "300 Noches",
+      "url": "https://open.spotify.com/track/0163eXbLwh5dFhKa73n9wG"
+    },
     {
       "added_at": null,
       "album": {
@@ -1147,6 +1167,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Utopia 2",
+        "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 180666,
+      "name": "Utopia",
+      "url": "https://open.spotify.com/track/1D2RM65NrWgwGOFLidtJTg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Catarsis",
         "url": "https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg"
       },
@@ -1163,22 +1199,6 @@
       "duration_ms": 216520,
       "name": "I Love You... Te Quiero",
       "url": "https://open.spotify.com/track/7FFFRavnUPwKhidY259LMD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Utopia 2",
-        "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 180666,
-      "name": "Utopia",
-      "url": "https://open.spotify.com/track/1D2RM65NrWgwGOFLidtJTg"
     }
   ],
   "unique_name": "This Is Belinda",

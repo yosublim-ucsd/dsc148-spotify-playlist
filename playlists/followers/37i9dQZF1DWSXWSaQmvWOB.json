@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 457621,
+  "2024-04-28": 457735,
   "date_first_scraped": "2020-03-25",
   "description": "New soul-infused music every week! Cover: Joya Mooi",
   "name": "Soul 'n' the City",
@@ -2817,6 +2817,24 @@
       "duration_ms": 184952,
       "name": "Consider Me",
       "url": "https://open.spotify.com/track/6teOha7bnsAlYIdXQuXA1o"
+    },
+    {
+      "album": {
+        "name": "Coyote, You're My Star",
+        "url": "https://open.spotify.com/album/61wuHnPthO5vApg52y9n30"
+      },
+      "artists": [
+        {
+          "name": "Dana and Alden",
+          "url": "https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125867,
+      "name": "Coyote, You're My Star",
+      "url": "https://open.spotify.com/track/2tZ4GQajl2yetk2EA8SvMW"
     },
     {
       "album": {
@@ -8047,6 +8065,24 @@
       "duration_ms": 162179,
       "name": "Let Me Fly",
       "url": "https://open.spotify.com/track/46fZ6nVYwjsdeRYTV0hXgU"
+    },
+    {
+      "album": {
+        "name": "Let You Go",
+        "url": "https://open.spotify.com/album/31Lq73n7sxinFMFak3zqZT"
+      },
+      "artists": [
+        {
+          "name": "Joseph Lawrence",
+          "url": "https://open.spotify.com/artist/69XFaEPeBh41fbWxQMD8X4"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164568,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/7a6zCrX08XWisZXGj3sMEf"
     },
     {
       "album": {

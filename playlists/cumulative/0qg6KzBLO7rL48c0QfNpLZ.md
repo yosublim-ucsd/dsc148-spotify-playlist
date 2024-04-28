@@ -4,7 +4,7 @@
 
 > The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-297 songs - 13 hr 29 min
+298 songs - 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Dance With Me](https://open.spotify.com/track/5OV5EW5t6bnf25LJSpcF0r) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI) | [Dance With Me](https://open.spotify.com/album/4a8myC7bPScWi8QHUfElEP) | 1:47 | 2023-12-22 |  |
 | [Dancing in the Moonlight \(feat\. NEIMY\)](https://open.spotify.com/track/5ow0sNF1zSqp71Ix5jEXWU) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Dancing in the Moonlight \(feat\. NEIMY\)](https://open.spotify.com/album/47hMwqG7KVLVzyMjgYUqxM) | 2:44 | 2022-06-10 |  |
 | [Demons](https://open.spotify.com/track/3XZgGibMl5eRDtiPF9NTat) | [Refeci](https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp), [Donner](https://open.spotify.com/artist/1jXVpcmMvyA6AtyzQtG42z) | [Demons](https://open.spotify.com/album/4YRmbge5hoO1aJfasvFgQ5) | 2:25 | 2024-04-12 |  |
+| [Dilemma](https://open.spotify.com/track/4c1oOTNskhWflOg9NHMxFL) | [Affective Sound](https://open.spotify.com/artist/4USMfRih7XRwvmhuG96nPo), [Giulia Jewlz](https://open.spotify.com/artist/3AZPiBKYmFjEKDMZa6DKiz), [INAMEIT](https://open.spotify.com/artist/6bOneog19MkwPOXivT4PeI) | [Dilemma](https://open.spotify.com/album/21FpLydb4N1fMe8mrIfjp7) | 2:30 | 2024-04-27 |  |
 | [Don't Hate You](https://open.spotify.com/track/7rjyb0xF3bKwJ3GZ9ORbaM) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Freddie Elmberg](https://open.spotify.com/artist/2HAhqKaUVbYDq0rTlwo1md) | [Don't Hate You](https://open.spotify.com/album/6AGPekG6MANxEmWEN2fXl7) | 2:28 | 2024-01-05 |  |
 | [Don't Let Go](https://open.spotify.com/track/2RWorX6mB3GFxaCnZb0Zzh) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Treetalk](https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp) | [Don't Let Go](https://open.spotify.com/album/63uEAStA3fEXiBWkuhFw3L) | 2:12 | 2024-03-08 | 2024-04-15 |
 | [Don’t Be Shy](https://open.spotify.com/track/5PhsDSiRxvrHj0FPyO61ly) | [Alosa](https://open.spotify.com/artist/7tLZj7bBitwASeMgNlqWVC), [Jaime Deraz](https://open.spotify.com/artist/4J7ascv32yT6yE75KRCktv) | [Don’t Be Shy](https://open.spotify.com/album/7enD7TsbZ8VhVePLrOgjZV) | 2:38 | 2024-03-08 | 2024-04-15 |

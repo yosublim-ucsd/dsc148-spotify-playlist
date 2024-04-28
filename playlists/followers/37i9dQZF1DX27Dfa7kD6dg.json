@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 35335,
+  "2024-04-28": 35386,
   "date_first_scraped": "2022-09-16",
   "description": "New York salsa...it's home.",
   "name": "New York Salsa",
@@ -183,6 +183,24 @@
       "duration_ms": 155598,
       "name": "Acuyuye",
       "url": "https://open.spotify.com/track/4j8uY4BhwMlgHg2tuVCdqj"
+    },
+    {
+      "album": {
+        "name": "Ale Ale",
+        "url": "https://open.spotify.com/album/533koxEqsjn5Pve9OgE5JB"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229190,
+      "name": "Ale Ale",
+      "url": "https://open.spotify.com/track/2cSqX6LYlP2hqVxr6fhC0j"
     },
     {
       "album": {

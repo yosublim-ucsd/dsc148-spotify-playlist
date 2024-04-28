@@ -14569,6 +14569,24 @@
     },
     {
       "album": {
+        "name": "What God Is Gonna Do",
+        "url": "https://open.spotify.com/album/1VARoADcYqrhwnvwQjVj9D"
+      },
+      "artists": [
+        {
+          "name": "The Afters",
+          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259552,
+      "name": "What God Is Gonna Do",
+      "url": "https://open.spotify.com/track/0YQF1BeB8otaL2AEjFimGn"
+    },
+    {
+      "album": {
         "name": "What He's Done",
         "url": "https://open.spotify.com/album/1eNj7o11u6gAEYaHlyhfms"
       },
@@ -14696,24 +14714,6 @@
       "duration_ms": 215720,
       "name": "What If (feat. Lathan Warlick)",
       "url": "https://open.spotify.com/track/0LRVYTFEtatqgoq4sXgzvH"
-    },
-    {
-      "album": {
-        "name": "What Is God Gonna Do",
-        "url": "https://open.spotify.com/album/1VARoADcYqrhwnvwQjVj9D"
-      },
-      "artists": [
-        {
-          "name": "The Afters",
-          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
-        }
-      ],
-      "date_added": "2024-04-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 259552,
-      "name": "What Is God Gonna Do",
-      "url": "https://open.spotify.com/track/0YQF1BeB8otaL2AEjFimGn"
     },
     {
       "album": {

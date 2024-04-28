@@ -1,6 +1,6 @@
 {
   "description": "Emerging sounds in worship from everywhere.",
-  "num_followers": 125106,
+  "num_followers": 125147,
   "original_name": "New & Bold",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Insatiable",
+        "url": "https://open.spotify.com/album/6FZGWRfo7AVtW8134aKpan"
+      },
+      "artists": [
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "duration_ms": 266620,
+      "name": "Insatiable",
+      "url": "https://open.spotify.com/track/4akWCQ67naeytv8v0CIhVu"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Holy Water (Church Sessions)",
         "url": "https://open.spotify.com/album/0mV74LpIg6NbMUbAIOolKC"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 464809,
       "name": "Holy Water - Church Sessions",
       "url": "https://open.spotify.com/track/2wkiIDEXYJUels0HbBkpvl"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Insatiable",
-        "url": "https://open.spotify.com/album/6FZGWRfo7AVtW8134aKpan"
-      },
-      "artists": [
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
-        }
-      ],
-      "duration_ms": 266620,
-      "name": "Insatiable",
-      "url": "https://open.spotify.com/track/4akWCQ67naeytv8v0CIhVu"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1751,6 +1751,26 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Christ is Enough",
+        "url": "https://open.spotify.com/album/5gjorSNX9eVd90pezKXiW0"
+      },
+      "artists": [
+        {
+          "name": "Dwell Songs",
+          "url": "https://open.spotify.com/artist/6RAMkZgRvrIeqrXtojaxHC"
+        },
+        {
+          "name": "Aaron Williams",
+          "url": "https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz"
+        }
+      ],
+      "duration_ms": 279653,
+      "name": "Christ is Enough",
+      "url": "https://open.spotify.com/track/3UienuMFU5MOlWH4VHs6G3"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "As For Me & My House (Live)",
         "url": "https://open.spotify.com/album/7CjoBA22aQrRU51iirDwCJ"
       },
@@ -1779,26 +1799,6 @@
       "duration_ms": 385294,
       "name": "Your Name - Live",
       "url": "https://open.spotify.com/track/6EBl99aH0CywyEmWqje7pW"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Christ is Enough",
-        "url": "https://open.spotify.com/album/5gjorSNX9eVd90pezKXiW0"
-      },
-      "artists": [
-        {
-          "name": "Dwell Songs",
-          "url": "https://open.spotify.com/artist/6RAMkZgRvrIeqrXtojaxHC"
-        },
-        {
-          "name": "Aaron Williams",
-          "url": "https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz"
-        }
-      ],
-      "duration_ms": 279653,
-      "name": "Christ is Enough",
-      "url": "https://open.spotify.com/track/3UienuMFU5MOlWH4VHs6G3"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1871,6 +1871,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/4ZMCjXFFNlIIwp5uI20Njt"
+      },
+      "artists": [
+        {
+          "name": "Woodlands Worship",
+          "url": "https://open.spotify.com/artist/70DKVAScY08K0FhflRSVls"
+        }
+      ],
+      "duration_ms": 288386,
+      "name": "Found",
+      "url": "https://open.spotify.com/track/3S9QiEXE0wFkFnUTny7BUf"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "The Blessing (feat. Maranda Curtis) [Song Session]",
         "url": "https://open.spotify.com/album/6AEDBghw44SvpsiMjDctNo"
       },
@@ -1891,22 +1907,6 @@
       "duration_ms": 409909,
       "name": "The Blessing (feat. Maranda Curtis) - Song Session",
       "url": "https://open.spotify.com/track/0bicWqcGF8HXaaBB1HqnxR"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/4ZMCjXFFNlIIwp5uI20Njt"
-      },
-      "artists": [
-        {
-          "name": "Woodlands Worship",
-          "url": "https://open.spotify.com/artist/70DKVAScY08K0FhflRSVls"
-        }
-      ],
-      "duration_ms": 288386,
-      "name": "Found",
-      "url": "https://open.spotify.com/track/3S9QiEXE0wFkFnUTny7BUf"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2143,18 +2143,18 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Adoration",
-        "url": "https://open.spotify.com/album/1sFP4DJCtsBmBriNTkhwFw"
+        "name": "How I Love You (House Church)",
+        "url": "https://open.spotify.com/album/46AVgFbteTJafcgQrmBDOU"
       },
       "artists": [
         {
-          "name": "Life Center Worship",
-          "url": "https://open.spotify.com/artist/2Ce6pVvFGzybXRHQWbCTAr"
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
         }
       ],
-      "duration_ms": 332110,
-      "name": "Adoration",
-      "url": "https://open.spotify.com/track/6gQfufUDm9HDQhxhofqO8Z"
+      "duration_ms": 251561,
+      "name": "How I Love You (House Church)",
+      "url": "https://open.spotify.com/track/5fyeatTyJUHTYl5fdEdRC6"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2175,18 +2175,18 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "How I Love You (House Church)",
-        "url": "https://open.spotify.com/album/46AVgFbteTJafcgQrmBDOU"
+        "name": "Adoration",
+        "url": "https://open.spotify.com/album/1sFP4DJCtsBmBriNTkhwFw"
       },
       "artists": [
         {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+          "name": "Life Center Worship",
+          "url": "https://open.spotify.com/artist/2Ce6pVvFGzybXRHQWbCTAr"
         }
       ],
-      "duration_ms": 251561,
-      "name": "How I Love You (House Church)",
-      "url": "https://open.spotify.com/track/5fyeatTyJUHTYl5fdEdRC6"
+      "duration_ms": 332110,
+      "name": "Adoration",
+      "url": "https://open.spotify.com/track/6gQfufUDm9HDQhxhofqO8Z"
     },
     {
       "added_at": "2021-06-12 04:00:40",

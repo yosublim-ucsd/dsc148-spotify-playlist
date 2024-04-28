@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 8709,
+  "2024-04-28": 8710,
   "date_first_scraped": "2022-06-02",
   "description": "This is El Potro De Sinaloa. The essential tracks, all in one playlist.",
   "name": "This Is El Potro De Sinaloa",
@@ -133,7 +133,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-24",
+      "date_removed": null,
       "duration_ms": 210626,
       "name": "Cien Por Uno",
       "url": "https://open.spotify.com/track/3Q2XC6VEwTXYVyrRO25csQ"
@@ -863,7 +863,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 224960,
       "name": "El Ni\u00f1o Sabio",
       "url": "https://open.spotify.com/track/10R5cUV5ba5FcjbnMgPlo0"
@@ -1527,7 +1527,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 158480,
       "name": "Linda Princesa",
       "url": "https://open.spotify.com/track/2hALctzTAdTgRsdUbE3Jwu"
@@ -1829,7 +1829,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-26",
+      "date_removed": null,
       "duration_ms": 162586,
       "name": "Se Equivoc\u00f3 El Pistolero",
       "url": "https://open.spotify.com/track/6h8mrn4tKFtPSfvd9N7RMB"

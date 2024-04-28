@@ -1,7 +1,7 @@
 {
-  "2024-04-27": 1172945,
+  "2024-04-28": 1172577,
   "date_first_scraped": "2023-07-23",
-  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: Alok, Yawanawa Saiti Kaya",
+  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: Slow Motion",
   "name": "Dance Paradise",
   "tracks": [
     {
@@ -195,7 +195,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 152250,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM"
@@ -1174,6 +1174,28 @@
     },
     {
       "album": {
+        "name": "Champagne Bottle",
+        "url": "https://open.spotify.com/album/3NMmBvaC3sZePl51vd6iof"
+      },
+      "artists": [
+        {
+          "name": "Future Class",
+          "url": "https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC"
+        },
+        {
+          "name": "Mazzocchi",
+          "url": "https://open.spotify.com/artist/3nMnwaOd4MPONzv5i46Wza"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118110,
+      "name": "Champagne Bottle",
+      "url": "https://open.spotify.com/track/31eW4SdIrJId1bnkxSCXb2"
+    },
+    {
+      "album": {
         "name": "THE ARRIVAL",
         "url": "https://open.spotify.com/album/6zzd8C9lb4iKK3D8AFIP19"
       },
@@ -1784,6 +1806,32 @@
     },
     {
       "album": {
+        "name": "D\u00e9jeuner Sur L'Herbe (Antdot & Bakka (BR) Remix)",
+        "url": "https://open.spotify.com/album/2oz0mKit1urkTewJwywWmo"
+      },
+      "artists": [
+        {
+          "name": "Gui Boratto",
+          "url": "https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc"
+        },
+        {
+          "name": "Antdot",
+          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
+        },
+        {
+          "name": "BAKKA (BR)",
+          "url": "https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384793,
+      "name": "D\u00e9jeuner Sur L'Herbe - Antdot & Bakka BR Remix",
+      "url": "https://open.spotify.com/track/2xKdJTVgt8WRrJwW2L5r6Q"
+    },
+    {
+      "album": {
         "name": "Ego (\u00c9 Tudo ou Nada)",
         "url": "https://open.spotify.com/album/6qAzLQ6Grhok99OgO5jRlk"
       },
@@ -1865,7 +1913,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 220645,
       "name": "End Of The Beginning",
       "url": "https://open.spotify.com/track/2IJigwZlLAeBa16rlYrD1x"
@@ -2595,7 +2643,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 171438,
       "name": "Heat",
       "url": "https://open.spotify.com/track/6g3TniDfFA7M03dR0oPNaQ"
@@ -3591,7 +3639,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 215238,
       "name": "Make It Right",
       "url": "https://open.spotify.com/track/2iw3LpeCoQnsz8Ip9KZFuW"
@@ -3627,7 +3675,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 153984,
       "name": "MDMA",
       "url": "https://open.spotify.com/track/1pF7bwOHo1nowRAS2Zqe4z"
@@ -3653,6 +3701,24 @@
       "duration_ms": 133315,
       "name": "Me Gusta",
       "url": "https://open.spotify.com/track/4rGuSRFq1IE8We7Cii6GEb"
+    },
+    {
+      "album": {
+        "name": "MEOW",
+        "url": "https://open.spotify.com/album/59QXS5Z11bRhJOHGVoCNGm"
+      },
+      "artists": [
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193125,
+      "name": "MEOW",
+      "url": "https://open.spotify.com/track/5xgWuXVvSZfRh71fa0L4fM"
     },
     {
       "album": {
@@ -4125,6 +4191,24 @@
       "duration_ms": 226048,
       "name": "Nothing Ever Changes",
       "url": "https://open.spotify.com/track/1oytqQdZTKnICWgqCW9SrI"
+    },
+    {
+      "album": {
+        "name": "Weapons of Peace",
+        "url": "https://open.spotify.com/album/4KDdTK5jvpYextPXiDGF0x"
+      },
+      "artists": [
+        {
+          "name": "Slow Motion",
+          "url": "https://open.spotify.com/artist/6jmHuLfbWlq34KedQ7mA5I"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304000,
+      "name": "Now Is Gone",
+      "url": "https://open.spotify.com/track/7f0Wj4VRdNj8aPC3s9NcbH"
     },
     {
       "album": {
@@ -4670,6 +4754,24 @@
     },
     {
       "album": {
+        "name": "REALITY",
+        "url": "https://open.spotify.com/album/6aEaeRTSchD9QgL21EfjII"
+      },
+      "artists": [
+        {
+          "name": "RUBACK",
+          "url": "https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248709,
+      "name": "REALITY",
+      "url": "https://open.spotify.com/track/2FH95vGwiMrLK3UtqnOLUd"
+    },
+    {
+      "album": {
         "name": "Reason",
         "url": "https://open.spotify.com/album/11L6VBSHib3rjEo7PQbJib"
       },
@@ -5095,7 +5197,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 171200,
       "name": "Secrets (feat. Jazz Montell)",
       "url": "https://open.spotify.com/track/3SdpHyWPOlTBn6ZWB9XwWZ"
@@ -5334,6 +5436,32 @@
     },
     {
       "album": {
+        "name": "Sounds Of The Underground",
+        "url": "https://open.spotify.com/album/6MdmxZIhUVUt7vPxhuFLRs"
+      },
+      "artists": [
+        {
+          "name": "Liu",
+          "url": "https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht"
+        },
+        {
+          "name": "Khouri",
+          "url": "https://open.spotify.com/artist/41gBrGxvxCloe8iijf1iDQ"
+        },
+        {
+          "name": "Schillist",
+          "url": "https://open.spotify.com/artist/2qvWyc9Z0oHK156P65vH4d"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222439,
+      "name": "Sounds Of The Underground",
+      "url": "https://open.spotify.com/track/0P3C9C9qhNjVs7SIypjRBO"
+    },
+    {
+      "album": {
         "name": "Speak Up (Slow Motion, Duarte Remix)",
         "url": "https://open.spotify.com/album/5mS4lf4iTrTdwxiCIgdI3Q"
       },
@@ -5474,6 +5602,28 @@
     },
     {
       "album": {
+        "name": "Suavamente",
+        "url": "https://open.spotify.com/album/2GYBxxYz9NNOSkjZNIXZXy"
+      },
+      "artists": [
+        {
+          "name": "Tribbs",
+          "url": "https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152380,
+      "name": "Suavamente",
+      "url": "https://open.spotify.com/track/2iqQ0Pk82ozDZjXWBvTnan"
+    },
+    {
+      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/45QiiAqRNPVoDOazhSYRr8"
       },
@@ -5489,7 +5639,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 301587,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/43ToMXtNYOn20zIRRldBbI"

@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 124968,
+  "2024-04-28": 125109,
   "date_first_scraped": "2022-05-30",
   "description": "*vibing in desi*",
   "name": "desi lofi",
@@ -1206,6 +1206,28 @@
     },
     {
       "album": {
+        "name": "Hona Tha Pyar (Lofi Mix)",
+        "url": "https://open.spotify.com/album/03nLPIjfhBbiYOSfiLcKGR"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        },
+        {
+          "name": "Hadiqa Kiyani",
+          "url": "https://open.spotify.com/artist/458KdBgxQrGJNctBgHovzt"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187021,
+      "name": "Hona Tha Pyar (Lofi Mix)",
+      "url": "https://open.spotify.com/track/6L08PkHiKP0Ih3OTM2m8J3"
+    },
+    {
+      "album": {
         "name": "Honthon Pe Bas (Lofi Mix)",
         "url": "https://open.spotify.com/album/3rrJOylcNTJlReJZuuRpIV"
       },
@@ -2085,6 +2107,32 @@
       "duration_ms": 188571,
       "name": "Manchala - Lofi Flip",
       "url": "https://open.spotify.com/track/0AyazRXKKJsyEHc4SvAYgr"
+    },
+    {
+      "album": {
+        "name": "Mann Ki Lagan Rainy Lofi",
+        "url": "https://open.spotify.com/album/29l8erjFqI0r0fotzAcakj"
+      },
+      "artists": [
+        {
+          "name": "Rahat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
+        },
+        {
+          "name": "Shahi",
+          "url": "https://open.spotify.com/artist/0VrgJBuQhak34m6fzydz32"
+        },
+        {
+          "name": "SPECRO X SKETCH",
+          "url": "https://open.spotify.com/artist/7AmJxu5MjiUtGGw05b4O5q"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176756,
+      "name": "Mann Ki Lagan Rainy Lofi",
+      "url": "https://open.spotify.com/track/19Js1yr8YsIlR6hFkX0X21"
     },
     {
       "album": {

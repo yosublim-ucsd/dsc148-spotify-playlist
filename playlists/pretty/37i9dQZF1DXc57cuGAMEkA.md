@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Justice, St\. Vincent, Teddy Swims and more! cover: Justice
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,426 likes - 92 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,461 likes - 92 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 39 | [Wake Up \(feat\. Chris Brown\)](https://open.spotify.com/track/6pMHL7A5CEPzHHKDRAAMEM) | [Skylar Blatt](https://open.spotify.com/artist/5B0hUg80AXXuTKryq9mFs1), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Wake Up \(feat\. Chris Brown\)](https://open.spotify.com/album/6GxAhYaeBYubxjZn0KkpZY) | 2:53 |
 | 40 | [今日くらいはいい子でいようよ](https://open.spotify.com/track/2yBDb6rcghZVi5vmKknh5I) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [今日くらいはいい子でいようよ](https://open.spotify.com/album/6rbLCikhRD7IxY2lC1lhBi) | 2:25 |
 | 41 | [ヤバいな](https://open.spotify.com/track/1acXpvOjQiCDgEkPLPFupe) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [ヤバいな](https://open.spotify.com/album/4vOk4ViilWFM1MUCO94oU8) | 2:29 |
-| 42 | [黄色](https://open.spotify.com/track/7Lew3PsdlHJTsiYxIfkIL7) | [Kay\-on](https://open.spotify.com/artist/2F81r2H2weMXa83CD2VD9H), [R\-指定](https://open.spotify.com/artist/3pxWbsggB2iSNlowHTdkT6) | [黄色](https://open.spotify.com/album/0TfaHWQ8E8hmEuVitvXE43) | 3:12 |
+| 42 | [黄色](https://open.spotify.com/track/7Lew3PsdlHJTsiYxIfkIL7) | [Kay\-on](https://open.spotify.com/artist/2F81r2H2weMXa83CD2VD9H), [R\-shitei](https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb) | [黄色](https://open.spotify.com/album/0TfaHWQ8E8hmEuVitvXE43) | 3:12 |
 | 43 | [KNOCKA](https://open.spotify.com/track/7hBZnHzSqQxBi4KoMoiWfx) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [KNOCKA](https://open.spotify.com/album/1Yd0XLd4MGjZfp4gQ9hVda) | 2:30 |
 | 44 | [Famous Girl](https://open.spotify.com/track/62KYfsqveMHjmwZbU69OH7) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Famous Girl](https://open.spotify.com/album/45wtTSPu9kEpYp0CQjYtWF) | 2:56 |
 | 45 | [Vitamins](https://open.spotify.com/track/2fLDKaSvow0ciPW60ibLil) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Vitamins](https://open.spotify.com/album/7i9RLUQeVGAyonCjKDrP12) | 2:32 |

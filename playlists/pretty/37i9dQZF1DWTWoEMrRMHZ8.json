@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Feyj\u00e3o, Gilberto Gil",
-  "num_followers": 343854,
+  "num_followers": 343825,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -199,22 +199,6 @@
     {
       "added_at": "2024-04-26 14:51:40",
       "album": {
-        "name": "Neste Contexto",
-        "url": "https://open.spotify.com/album/5ajFZehsAgL2sYI3bav9EE"
-      },
-      "artists": [
-        {
-          "name": "Jovem Dionisio",
-          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
-        }
-      ],
-      "duration_ms": 182757,
-      "name": "Neste Contexto",
-      "url": "https://open.spotify.com/track/4WS6S4uWBa4WLsRSvdqGrL"
-    },
-    {
-      "added_at": "2024-04-26 14:51:40",
-      "album": {
         "name": "Se o Meu Peito Fosse o Mundo",
         "url": "https://open.spotify.com/album/5fxJ6R9Amz69Jl5B3JkMIO"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 192423,
       "name": "Feito A Mar\u00e9",
       "url": "https://open.spotify.com/track/45LVLF9D3NnQLgRxfAjae7"
+    },
+    {
+      "added_at": "2024-04-26 14:51:40",
+      "album": {
+        "name": "Neste Contexto",
+        "url": "https://open.spotify.com/album/5ajFZehsAgL2sYI3bav9EE"
+      },
+      "artists": [
+        {
+          "name": "Jovem Dionisio",
+          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+        }
+      ],
+      "duration_ms": 182757,
+      "name": "Neste Contexto",
+      "url": "https://open.spotify.com/track/4WS6S4uWBa4WLsRSvdqGrL"
     },
     {
       "added_at": "2024-04-26 14:51:40",
@@ -403,6 +403,22 @@
     {
       "added_at": "2024-04-26 14:51:40",
       "album": {
+        "name": "Caravana Sair\u00e9",
+        "url": "https://open.spotify.com/album/4KZHY52Q67UeZC7m2Cq7UX"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Jeneci",
+          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
+        }
+      ],
+      "duration_ms": 240834,
+      "name": "Lembran\u00e7a de um Beijo",
+      "url": "https://open.spotify.com/track/3sGadeoCGNzZ997jhrkgiL"
+    },
+    {
+      "added_at": "2024-04-26 14:51:40",
+      "album": {
         "name": "Mariana e Mestrinho",
         "url": "https://open.spotify.com/album/0rX7s9GkjyarNCdGUpjGz8"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 249554,
       "name": "At\u00e9 o fim",
       "url": "https://open.spotify.com/track/4vNwoGBuu6IFYUBOPWBG3R"
-    },
-    {
-      "added_at": "2024-04-26 14:51:40",
-      "album": {
-        "name": "Caravana Sair\u00e9",
-        "url": "https://open.spotify.com/album/4KZHY52Q67UeZC7m2Cq7UX"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Jeneci",
-          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
-        }
-      ],
-      "duration_ms": 240834,
-      "name": "Lembran\u00e7a de um Beijo",
-      "url": "https://open.spotify.com/track/3sGadeoCGNzZ997jhrkgiL"
     },
     {
       "added_at": "2024-04-26 14:51:40",
@@ -707,6 +707,22 @@
     {
       "added_at": "2024-04-26 14:51:40",
       "album": {
+        "name": "Novela",
+        "url": "https://open.spotify.com/album/7n5kZhxjk76GU7ssMkgjOd"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9u",
+          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+        }
+      ],
+      "duration_ms": 160231,
+      "name": "Cremosa",
+      "url": "https://open.spotify.com/track/0Zq70S17PSVxiRewtTtzy2"
+    },
+    {
+      "added_at": "2024-04-26 14:51:40",
+      "album": {
         "name": "Porvir",
         "url": "https://open.spotify.com/album/70mzEBUxbQrf6HW35c7cac"
       },
@@ -939,6 +955,26 @@
     {
       "added_at": "2024-04-26 14:51:40",
       "album": {
+        "name": "OUTONO",
+        "url": "https://open.spotify.com/album/37qt44UvPlfYZMc7TvqqMF"
+      },
+      "artists": [
+        {
+          "name": "Francisco, el Hombre",
+          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
+        },
+        {
+          "name": "Pato Fu",
+          "url": "https://open.spotify.com/artist/4NSbUIfUAkaedUIm8eJ631"
+        }
+      ],
+      "duration_ms": 229549,
+      "name": "OUTONO",
+      "url": "https://open.spotify.com/track/3bqDCnOGSSv2ELoAs7tfeZ"
+    },
+    {
+      "added_at": "2024-04-26 14:51:40",
+      "album": {
         "name": "Esque\u00e7a Tudo",
         "url": "https://open.spotify.com/album/1PugCRv3I48m1IgsbVytRF"
       },
@@ -951,26 +987,6 @@
       "duration_ms": 189206,
       "name": "Esque\u00e7a Tudo",
       "url": "https://open.spotify.com/track/5JKn2MgAqLWRXAWwxvB6tp"
-    },
-    {
-      "added_at": "2024-04-26 14:51:40",
-      "album": {
-        "name": "De: Terra; Para: Humanidade",
-        "url": "https://open.spotify.com/album/6wj0zn5LC2fPFlkofnKaN6"
-      },
-      "artists": [
-        {
-          "name": "Madu",
-          "url": "https://open.spotify.com/artist/0obN5KVtincDY4w79r7NmD"
-        },
-        {
-          "name": "Mariana Milani",
-          "url": "https://open.spotify.com/artist/4ttqPTBzY21MfTI1C7uaF5"
-        }
-      ],
-      "duration_ms": 230441,
-      "name": "De: Terra; Para: Humanidade",
-      "url": "https://open.spotify.com/track/1n6VdycCDCT3LkTvVJF0vK"
     },
     {
       "added_at": "2024-04-26 14:51:40",
@@ -1031,6 +1047,26 @@
     {
       "added_at": "2024-04-26 14:51:40",
       "album": {
+        "name": "De: Terra; Para: Humanidade",
+        "url": "https://open.spotify.com/album/6wj0zn5LC2fPFlkofnKaN6"
+      },
+      "artists": [
+        {
+          "name": "Madu",
+          "url": "https://open.spotify.com/artist/0obN5KVtincDY4w79r7NmD"
+        },
+        {
+          "name": "Mariana Milani",
+          "url": "https://open.spotify.com/artist/4ttqPTBzY21MfTI1C7uaF5"
+        }
+      ],
+      "duration_ms": 230441,
+      "name": "De: Terra; Para: Humanidade",
+      "url": "https://open.spotify.com/track/1n6VdycCDCT3LkTvVJF0vK"
+    },
+    {
+      "added_at": "2024-04-26 14:51:40",
+      "album": {
         "name": "No Rastro de Catarina",
         "url": "https://open.spotify.com/album/4gYVttpxy9hYycFdT3uaWI"
       },
@@ -1043,26 +1079,6 @@
       "duration_ms": 240822,
       "name": "F\u00eanix",
       "url": "https://open.spotify.com/track/4d3UkxDzBK91Q9Lb2G2Y5o"
-    },
-    {
-      "added_at": "2024-04-26 14:51:40",
-      "album": {
-        "name": "OUTONO",
-        "url": "https://open.spotify.com/album/37qt44UvPlfYZMc7TvqqMF"
-      },
-      "artists": [
-        {
-          "name": "Francisco, el Hombre",
-          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
-        },
-        {
-          "name": "Pato Fu",
-          "url": "https://open.spotify.com/artist/4NSbUIfUAkaedUIm8eJ631"
-        }
-      ],
-      "duration_ms": 229549,
-      "name": "OUTONO",
-      "url": "https://open.spotify.com/track/3bqDCnOGSSv2ELoAs7tfeZ"
     },
     {
       "added_at": "2024-04-26 14:51:40",
@@ -1259,38 +1275,6 @@
     {
       "added_at": "2024-04-26 14:51:40",
       "album": {
-        "name": "Novela",
-        "url": "https://open.spotify.com/album/7n5kZhxjk76GU7ssMkgjOd"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9u",
-          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
-        }
-      ],
-      "duration_ms": 160231,
-      "name": "Cremosa",
-      "url": "https://open.spotify.com/track/0Zq70S17PSVxiRewtTtzy2"
-    },
-    {
-      "added_at": "2024-04-26 14:51:40",
-      "album": {
-        "name": "Alcione 50 Anos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7LtGiAYQumSoHdN6Zw7zhH"
-      },
-      "artists": [
-        {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
-        }
-      ],
-      "duration_ms": 225119,
-      "name": "A Loba/Ou Ela ou Eu - Ao Vivo",
-      "url": "https://open.spotify.com/track/6DAgaO2rB2MhQPIqzvX6Fy"
-    },
-    {
-      "added_at": "2024-04-26 14:51:40",
-      "album": {
         "name": "Camangada",
         "url": "https://open.spotify.com/album/0jPHoKSXL5Dai0XXWi6ktU"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 268322,
       "name": "Camangada",
       "url": "https://open.spotify.com/track/61WYa5NtQS6lrxhkHP4lKf"
+    },
+    {
+      "added_at": "2024-04-26 14:51:40",
+      "album": {
+        "name": "Alcione 50 Anos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7LtGiAYQumSoHdN6Zw7zhH"
+      },
+      "artists": [
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        }
+      ],
+      "duration_ms": 225119,
+      "name": "A Loba/Ou Ela ou Eu - Ao Vivo",
+      "url": "https://open.spotify.com/track/6DAgaO2rB2MhQPIqzvX6Fy"
     },
     {
       "added_at": "2024-04-26 14:51:40",

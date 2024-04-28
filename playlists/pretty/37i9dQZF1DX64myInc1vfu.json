@@ -1,6 +1,6 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: Ambar Lucid",
-  "num_followers": 82975,
+  "num_followers": 83009,
   "original_name": "Lento.",
   "owner": {
     "name": "Spotify",
@@ -847,26 +847,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Carmines",
-        "url": "https://open.spotify.com/album/57Tm8zyEIX34uoq4Q62jOz"
-      },
-      "artists": [
-        {
-          "name": "Dali Mata",
-          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
-        },
-        {
-          "name": "Aquiles Moon",
-          "url": "https://open.spotify.com/artist/1UejGxMb9Ad1LkvLbphlq4"
-        }
-      ],
-      "duration_ms": 202277,
-      "name": "Carmines",
-      "url": "https://open.spotify.com/track/4o2GBzQUdB1JxtPugYW2gx"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "\u00bfQui\u00e9n Se Va?",
         "url": "https://open.spotify.com/album/6A0s3zsUdYyn4kdeFpTsed"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 187161,
       "name": "\u00bfQui\u00e9n Se Va?",
       "url": "https://open.spotify.com/track/58VZU1ToHakVT9RxtTsUns"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Carmines",
+        "url": "https://open.spotify.com/album/57Tm8zyEIX34uoq4Q62jOz"
+      },
+      "artists": [
+        {
+          "name": "Dali Mata",
+          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
+        },
+        {
+          "name": "Aquiles Moon",
+          "url": "https://open.spotify.com/artist/1UejGxMb9Ad1LkvLbphlq4"
+        }
+      ],
+      "duration_ms": 202277,
+      "name": "Carmines",
+      "url": "https://open.spotify.com/track/4o2GBzQUdB1JxtPugYW2gx"
     },
     {
       "added_at": "2024-04-19 04:00:00",

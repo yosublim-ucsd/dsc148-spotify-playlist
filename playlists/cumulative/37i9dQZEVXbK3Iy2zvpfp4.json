@@ -10347,6 +10347,24 @@
     },
     {
       "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "date_added": "2024-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200010,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX"
+    },
+    {
+      "album": {
         "name": "eyes don't lie",
         "url": "https://open.spotify.com/album/55XQzGrXvQgpVWAn7mL7CT"
       },
@@ -12304,7 +12322,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 148551,
       "name": "Get It Sexyy",
       "url": "https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS"
@@ -25908,7 +25926,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 145116,
       "name": "Pachamama",
       "url": "https://open.spotify.com/track/3lFNDaob5QhwE9oo7J0uNT"
@@ -34865,6 +34883,24 @@
     },
     {
       "album": {
+        "name": "The Lost Soul Down Floki",
+        "url": "https://open.spotify.com/album/7r2yzs8YWp4MuwRHn61UCp"
+      },
+      "artists": [
+        {
+          "name": "nslvr",
+          "url": "https://open.spotify.com/artist/4iZ6N1rbjZ4zC0kMguM3YD"
+        }
+      ],
+      "date_added": "2024-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150099,
+      "name": "The Lost Soul Down Floki",
+      "url": "https://open.spotify.com/track/03CPw0mSdAPaso8i0SqcoM"
+    },
+    {
+      "album": {
         "name": "THE MASTER",
         "url": "https://open.spotify.com/album/6ByfgsYiN2mwX5bQyrts8s"
       },
@@ -37894,7 +37930,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 156444,
       "name": "Wanna Be (with Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/7mOC6phfrfz3jfigg1aGsE"
@@ -38228,7 +38264,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 155480,
       "name": "We Fell Apart - Slowed",
       "url": "https://open.spotify.com/track/4oExAGoqR0JWK628dYaQ2f"
@@ -39788,7 +39824,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 249000,
       "name": "ZL\u00dd SEN",
       "url": "https://open.spotify.com/track/1hgJSjONYG7dRb4yDrTBZe"
@@ -40588,7 +40624,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-23",
+      "date_removed": null,
       "duration_ms": 146285,
       "name": "\u043f\u0440\u0430\u0432\u0430",
       "url": "https://open.spotify.com/track/6E2ec1JmPOXyh7k37tYhYU"

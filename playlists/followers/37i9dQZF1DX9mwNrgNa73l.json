@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 137785,
+  "2024-04-28": 137868,
   "date_first_scraped": "2022-06-22",
   "description": "Jahaan bhi dekho tera nishaan hai, mahraab-i dil men teri azaan hai.",
   "name": "South Asian Sufi",
@@ -1488,6 +1488,24 @@
     },
     {
       "album": {
+        "name": "Jhoom Lia",
+        "url": "https://open.spotify.com/album/1XHiTMWgdRVQHEs1dSXoH4"
+      },
+      "artists": [
+        {
+          "name": "Abida Parveen",
+          "url": "https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313699,
+      "name": "Jhoom Lia",
+      "url": "https://open.spotify.com/track/104yfNysGBlWilnzxpZo0r"
+    },
+    {
+      "album": {
         "name": "Jogi",
         "url": "https://open.spotify.com/album/7t3sKvvxqwyuRGho1YoGIS"
       },
@@ -2276,6 +2294,24 @@
     },
     {
       "album": {
+        "name": "Mera Khuda",
+        "url": "https://open.spotify.com/album/6TVa0BaHhcqzANHOm0bxhw"
+      },
+      "artists": [
+        {
+          "name": "Rafaqat Ali Khan",
+          "url": "https://open.spotify.com/artist/5gb3fWXn6yqB3bztWCc3wz"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351680,
+      "name": "Mera Khuda",
+      "url": "https://open.spotify.com/track/4YEyTF1ojosAcTldLWJhKr"
+    },
+    {
+      "album": {
         "name": "Mere Ali Moula Ali",
         "url": "https://open.spotify.com/album/6jvA9YEttzrot17nFihVcj"
       },
@@ -2881,7 +2917,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 213333,
       "name": "Rang Le",
       "url": "https://open.spotify.com/track/6AeeDw5Vckef3OD3QtOBu1"

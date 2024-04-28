@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 159407,
+  "2024-04-28": 159505,
   "date_first_scraped": "2021-12-28",
   "description": "Best of hip-hop tracks from South Asia. Cover: Shubh",
   "name": "Desi Hip Hop",
@@ -946,6 +946,40 @@
     },
     {
       "album": {
+        "name": "BIG DAWG THING",
+        "url": "https://open.spotify.com/album/0Bp1c8XFPOyJFgSSI9yOzr"
+      },
+      "artists": [
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        },
+        {
+          "name": "JJ47",
+          "url": "https://open.spotify.com/artist/1SlrUQlFRfExXSCkHsQgBc"
+        },
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        },
+        {
+          "name": "Shamoon Ismail",
+          "url": "https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv"
+        },
+        {
+          "name": "Talhah Yunus",
+          "url": "https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301333,
+      "name": "BIG DAWG THING (feat. JJ47, Talha Anjum, Shamoon Ismail & Talhah Yunus)",
+      "url": "https://open.spotify.com/track/2ucn3bxMSugJRPSuciyoI6"
+    },
+    {
+      "album": {
         "name": "Big Fax - Single",
         "url": "https://open.spotify.com/album/4uVbUiZKHCaXYqpkdwsMgH"
       },
@@ -1359,6 +1393,32 @@
       "duration_ms": 206117,
       "name": "Cold Hours",
       "url": "https://open.spotify.com/track/2uThc9fZx2BEL3t6uuRMO1"
+    },
+    {
+      "album": {
+        "name": "ROCKSTAR WITHOUT A GUITAR",
+        "url": "https://open.spotify.com/album/1DayIaoubhlZ9kiX2mB9So"
+      },
+      "artists": [
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        },
+        {
+          "name": "Abdullah Maharvi",
+          "url": "https://open.spotify.com/artist/1gcHKvKKZtEccnyXYlSvP5"
+        },
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "COME THROUGH (feat. Abdullah Maharvi & Talha Anjum)",
+      "url": "https://open.spotify.com/track/4yNtO1F3flXZ4v3Ry1MzuP"
     },
     {
       "album": {
@@ -1807,6 +1867,36 @@
       "duration_ms": 178245,
       "name": "Feel Hai",
       "url": "https://open.spotify.com/track/5HPo4dz4rvFaKBdcE8Ss9l"
+    },
+    {
+      "album": {
+        "name": "ROCKSTAR WITHOUT A GUITAR",
+        "url": "https://open.spotify.com/album/1DayIaoubhlZ9kiX2mB9So"
+      },
+      "artists": [
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        },
+        {
+          "name": "Talhah Yunus",
+          "url": "https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5"
+        },
+        {
+          "name": "Calm",
+          "url": "https://open.spotify.com/artist/10qWcrbcxZeuyHHQO1hXxE"
+        },
+        {
+          "name": "Faris Shafi",
+          "url": "https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234125,
+      "name": "FELONY (feat. Talhah Yunus, Calm & Faris Shafi)",
+      "url": "https://open.spotify.com/track/6ObdA7xmpxSmDCJ7zDmMH7"
     },
     {
       "album": {
@@ -4447,6 +4537,32 @@
       "duration_ms": 209800,
       "name": "Ram Ram",
       "url": "https://open.spotify.com/track/64jX14ntYSUd1lbzVgBMr6"
+    },
+    {
+      "album": {
+        "name": "ROCKSTAR WITHOUT A GUITAR",
+        "url": "https://open.spotify.com/album/1DayIaoubhlZ9kiX2mB9So"
+      },
+      "artists": [
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        },
+        {
+          "name": "Rap Demon",
+          "url": "https://open.spotify.com/artist/5Op1QmEE3Eye8gdNrla3ok"
+        },
+        {
+          "name": "KR$NA",
+          "url": "https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256687,
+      "name": "REFUNDS (feat. Rap Demon & KR$NA)",
+      "url": "https://open.spotify.com/track/0S8hbC2ki67o9X9NSK8v2I"
     },
     {
       "album": {

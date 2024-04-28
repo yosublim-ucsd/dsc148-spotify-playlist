@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 43512,
+  "2024-04-28": 43564,
   "date_first_scraped": "2022-05-12",
   "description": "Sempre aggiornata. Con nuovi brani di Massimo Pericolo, Baby Gang, Tony Boy, ANNA e tanti altri!",
   "name": "Novit\u00e0 Rap Italiano",
@@ -3465,7 +3465,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 166153,
       "name": "Adrenalina (feat. BLANCO, Marracash)",
       "url": "https://open.spotify.com/track/5jbvKJAsPdwfRocC4GD0tv"
@@ -35606,6 +35606,28 @@
     },
     {
       "album": {
+        "name": "Laid Back",
+        "url": "https://open.spotify.com/album/3J8xm3EGgGjzCpkjUQ7Aui"
+      },
+      "artists": [
+        {
+          "name": "Armani Doc",
+          "url": "https://open.spotify.com/artist/7djBWDVQvjaDbC8rSilpLC"
+        },
+        {
+          "name": "ThinkFast",
+          "url": "https://open.spotify.com/artist/0zY3rKlVW1d0tMW7gZyX3T"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Laid Back",
+      "url": "https://open.spotify.com/track/4mH5rfbzVyo1zjMazlOlCl"
+    },
+    {
+      "album": {
         "name": "Lakers",
         "url": "https://open.spotify.com/album/4IuIiqKlLvLRBgiIZFN3OS"
       },
@@ -46739,13 +46761,17 @@
         {
           "name": "Geolier",
           "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Poison Beatz",
+          "url": "https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK"
         }
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 196800,
-      "name": "Non Mi Vedi (feat. Fabri Fibra, Ernia, Rkomi, Geolier)",
+      "name": "Non Mi Vedi (feat. Fabri Fibra, Ernia, Rkomi, Geolier, Poison Beatz)",
       "url": "https://open.spotify.com/track/48Qsc1cEUGavLJfxld80hb"
     },
     {
@@ -53247,7 +53273,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 101812,
       "name": "Pop My Shi",
       "url": "https://open.spotify.com/track/2prY41Q7OMvT6bK6GM4ZMt"
@@ -62517,6 +62543,36 @@
       "duration_ms": 187030,
       "name": "Sola",
       "url": "https://open.spotify.com/track/1nj59fUqMaCfpYDhyc29F9"
+    },
+    {
+      "album": {
+        "name": "L'Angelo del Male",
+        "url": "https://open.spotify.com/album/6hv38luXAPIi4ieI63KfFb"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "Higashi",
+          "url": "https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Sola (feat. Lazza, Tedua)",
+      "url": "https://open.spotify.com/track/5r9wBfbbK4JcZUEAGFg6su"
     },
     {
       "album": {

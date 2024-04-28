@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 296365,
+  "2024-04-28": 296514,
   "date_first_scraped": "2022-03-01",
   "description": "Floor shattering bass and dark soundscapes to dive into.",
   "name": "Sub Low",
@@ -1700,6 +1700,28 @@
     },
     {
       "album": {
+        "name": "Count You In",
+        "url": "https://open.spotify.com/album/0EYFFVUyCzO0aphx48DXGT"
+      },
+      "artists": [
+        {
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+        },
+        {
+          "name": "Frazer Ray",
+          "url": "https://open.spotify.com/artist/7Ic9xxxoKy4EZFqLEXI2hK"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170694,
+      "name": "Count You In",
+      "url": "https://open.spotify.com/track/66ccmJw57D8HRXm89dtBFG"
+    },
+    {
+      "album": {
         "name": "Counting",
         "url": "https://open.spotify.com/album/7l7BXWrlLLKfOBo8YQZoQi"
       },
@@ -1885,7 +1907,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 181714,
       "name": "Crystals",
       "url": "https://open.spotify.com/track/7mmElHLJIXL42Z3FE511xs"
@@ -3663,7 +3685,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 237428,
       "name": "Gimidah",
       "url": "https://open.spotify.com/track/7bhxpYCqZ2W3bf6mTYt5u0"
@@ -4215,10 +4237,28 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 192000,
       "name": "Hypnotherapy",
       "url": "https://open.spotify.com/track/3QaO0thybGLSZph9OpeSDi"
+    },
+    {
+      "album": {
+        "name": "I Fear",
+        "url": "https://open.spotify.com/album/70ADfmqWJgdcydCeVPniiW"
+      },
+      "artists": [
+        {
+          "name": "Kermode",
+          "url": "https://open.spotify.com/artist/4O4L8A3vvOe23k36O1eFfe"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216279,
+      "name": "I Fear",
+      "url": "https://open.spotify.com/track/2iyzSdi8pV0ouscty0d88y"
     },
     {
       "album": {
@@ -8569,6 +8609,32 @@
       "duration_ms": 171422,
       "name": "Shegry",
       "url": "https://open.spotify.com/track/65QWiFvyFsLgfbG2ZXozNX"
+    },
+    {
+      "album": {
+        "name": "The Resonance VII",
+        "url": "https://open.spotify.com/album/5SjR0EUzWxrlNFLgfwbUJq"
+      },
+      "artists": [
+        {
+          "name": "The Upbeats",
+          "url": "https://open.spotify.com/artist/5fbq6W6HAncSYaFtlQi7fF"
+        },
+        {
+          "name": "Noisia",
+          "url": "https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY"
+        },
+        {
+          "name": "Trinist",
+          "url": "https://open.spotify.com/artist/6XTrviAQeBuCkWgDenoiId"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231627,
+      "name": "Shibuya Pet Store - Trinist Remix",
+      "url": "https://open.spotify.com/track/0INax65LOWWVlQCXh0i82i"
     },
     {
       "album": {

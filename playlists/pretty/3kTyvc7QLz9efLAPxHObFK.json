@@ -6,7 +6,7 @@
     "name": "Jesseka",
     "url": "https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6"
   },
-  "snapshot_id": "MTM0OCxhYjA5ODY3ZjhkOTQxMzEzYmEzMWUxNDlmYTkwNTAzODEwOGVhOTY3",
+  "snapshot_id": "MTM1MSw3NmUwNDA0ZTUwZWRhYmI5MzNjNjY3MzgzYjJjMmZkMjE4MGNkNWU2",
   "tracks": [
     {
       "added_at": "2021-11-26 04:21:31",
@@ -24277,26 +24277,6 @@
       "url": "https://open.spotify.com/track/7JKJ7EkALFmlswEnEWeLb0"
     },
     {
-      "added_at": "2024-04-26 17:14:28",
-      "album": {
-        "name": "Sweet Bomb",
-        "url": "https://open.spotify.com/album/5MjIcsSYot5K5ZqVBOug3e"
-      },
-      "artists": [
-        {
-          "name": "BreakStyle",
-          "url": "https://open.spotify.com/artist/1FtR1QSTaxYFJdsiHDc4ZF"
-        },
-        {
-          "name": "Mind Controller",
-          "url": "https://open.spotify.com/artist/3XfbViVU6Z8LKK1YkO4lOc"
-        }
-      ],
-      "duration_ms": 208390,
-      "name": "Sweet Bomb",
-      "url": "https://open.spotify.com/track/6IViZEF35o1v3kZeUJNYFD"
-    },
-    {
       "added_at": "2024-04-26 17:15:06",
       "album": {
         "name": "Part Of Me",
@@ -24419,6 +24399,42 @@
       "duration_ms": 140812,
       "name": "Hallucinate",
       "url": "https://open.spotify.com/track/5byappNwH0EEjPqmh6NMtU"
+    },
+    {
+      "added_at": "2024-04-27 23:27:50",
+      "album": {
+        "name": "Fighter",
+        "url": "https://open.spotify.com/album/3CI3INdJtK8htyC1zGgcaa"
+      },
+      "artists": [
+        {
+          "name": "Korsakoff",
+          "url": "https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE"
+        }
+      ],
+      "duration_ms": 229805,
+      "name": "Fighter",
+      "url": "https://open.spotify.com/track/7IzOtrRXV2juIwMrxXrjPJ"
+    },
+    {
+      "added_at": "2024-04-27 23:29:54",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/3drQTkX4rK3SZ4cstDAmxs"
+      },
+      "artists": [
+        {
+          "name": "Tomsky",
+          "url": "https://open.spotify.com/artist/12NNDc1Q7rwbppTMf8UAif"
+        },
+        {
+          "name": "D.O.N",
+          "url": "https://open.spotify.com/artist/42c4pJO8Opk39FSraBPUDC"
+        }
+      ],
+      "duration_ms": 183761,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/3qaGhSwwIkEBjcNzsAfkyw"
     }
   ],
   "unique_name": "UK Hardcore/Hardstyle/Hardcore/J-Core/Frenchcore/Hard Dance",

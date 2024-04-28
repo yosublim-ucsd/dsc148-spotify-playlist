@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-369 songs - 17 hr 34 min
+370 songs - 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Aprendeu a Se Amar](https://open.spotify.com/track/0MW0FELVSS27d8OOMhcFOd) | [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp) | [Aprendeu a Se Amar](https://open.spotify.com/album/1IR4VJai2BydCM6gH86FNF) | 2:49 | 2024-01-29 |  |
 | [Aquele 1% \(feat\. Wesley Safadão\)](https://open.spotify.com/track/3m8Ndnhd8u1VuSlu75hy7D) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Acústico \- Tão Feliz \(Deluxe\)](https://open.spotify.com/album/5zIF8gOoLkPouCjxiJJS9O) | 2:56 | 2024-01-29 |  |
 | [Aqui Se Faz, Aqui Se Sofre \- Ao Vivo](https://open.spotify.com/track/4BDmiw8BDqPBVSunmFD68X) | [Avine Vinny](https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W) | [Avine em Sampa \(Ao Vivo\)](https://open.spotify.com/album/6mS5rTuELs0f3YmLN4ybpY) | 2:49 | 2024-01-29 |  |
-| [Ar Condicionado no 15](https://open.spotify.com/track/5zf17VyfWWneXwco7sXJdN) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Esquenta WS In Miami Beach](https://open.spotify.com/album/0edX5MEySKMAI04aNZEzPA) | 2:47 | 2024-01-29 |  |
+| [Ar Condicionado no 15](https://open.spotify.com/track/3dZw9O0EtGveuwRZv1yYqM) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [As Melhores](https://open.spotify.com/album/2DtXt6a4mvrtcGMj56c0H4) | 2:47 | 2024-04-27 |  |
+| [Ar Condicionado no 15](https://open.spotify.com/track/5zf17VyfWWneXwco7sXJdN) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Esquenta WS In Miami Beach](https://open.spotify.com/album/0edX5MEySKMAI04aNZEzPA) | 2:47 | 2024-01-29 | 2024-04-28 |
 | [Assunto Resolvido \- Ao Vivo](https://open.spotify.com/track/24EXVPq3gNMuIMpSHL1IfE) | [Danilo Bottrel](https://open.spotify.com/artist/3dbCf6Y9R7lzKi3B2jfv9I) | [Ao Vivo em Escarpas do Lago](https://open.spotify.com/album/6pnuFzOE6JfL8dPxdlE3Io) | 2:50 | 2024-01-29 |  |
 | [Atiradinha \- Ao Vivo](https://open.spotify.com/track/1tAyd99jKjRkXWyNxZyF3a) | [Roniel & Rafael](https://open.spotify.com/artist/4z1aUeMY7RekXdGPu41qZf) | [Arrastão \(Ao Vivo\)](https://open.spotify.com/album/1U40IXgYkRS2g2npfi8lAC) | 2:19 | 2024-01-29 |  |
 | [Até Nunca Mais](https://open.spotify.com/track/2usm5XOFde2zSxaKJ3fNLN) | [Everton e Marcos](https://open.spotify.com/artist/3vWwVA0XeEpUj1hjIBwPzg) | [Ressurgindo das Cinzas](https://open.spotify.com/album/59dkg3TPf2DnpHtWqFQvI9) | 2:51 | 2024-03-26 |  |

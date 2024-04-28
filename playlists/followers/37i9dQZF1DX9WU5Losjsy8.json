@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 404989,
+  "2024-04-28": 405239,
   "date_first_scraped": "2023-07-28",
   "description": "ist nur einmal im Jahr...",
   "name": "Malle Party 2024",
@@ -1677,7 +1677,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 164840,
       "name": "Lass uns nicht geh'n - Stereoact Remix",
       "url": "https://open.spotify.com/track/72FeMSpQJwXnhPT2sPjdqA"
@@ -2499,6 +2499,32 @@
       "duration_ms": 238978,
       "name": "Senorita",
       "url": "https://open.spotify.com/track/5OHOykHs3Ct2pgbqod8uMD"
+    },
+    {
+      "album": {
+        "name": "Skandal!",
+        "url": "https://open.spotify.com/album/2fFV1SfNw2nAO0ANVWQQYc"
+      },
+      "artists": [
+        {
+          "name": "Lorenz B\u00fcffel",
+          "url": "https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai"
+        },
+        {
+          "name": "Almklausi",
+          "url": "https://open.spotify.com/artist/3f56dbtoRz7bucWJUeofzK"
+        },
+        {
+          "name": "Bierkapit\u00e4n",
+          "url": "https://open.spotify.com/artist/3HoitUEA01wrQKA6ONZUuD"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172250,
+      "name": "Skandal!",
+      "url": "https://open.spotify.com/track/0fd2RUyWXauYxN8Vu3UnLo"
     },
     {
       "album": {

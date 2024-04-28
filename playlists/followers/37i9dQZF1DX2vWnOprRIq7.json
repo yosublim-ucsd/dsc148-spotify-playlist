@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 18015,
+  "2024-04-28": 18022,
   "date_first_scraped": "2023-03-20",
   "description": "El lado electr\u00f3nico del indie latino, featuring Peces Raros.",
   "name": "NE\u00d3N",
@@ -1569,6 +1569,24 @@
       "duration_ms": 199672,
       "name": "El After",
       "url": "https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8"
+    },
+    {
+      "album": {
+        "name": "EL APAG\u00d3N",
+        "url": "https://open.spotify.com/album/5btAcC6nuoUTeBlkpLDFhn"
+      },
+      "artists": [
+        {
+          "name": "Vita Set",
+          "url": "https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228400,
+      "name": "EL APAG\u00d3N",
+      "url": "https://open.spotify.com/track/1xLIUx6fhZxWllAnu6vYM1"
     },
     {
       "album": {
@@ -4081,7 +4099,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 224116,
       "name": "Ser Anti",
       "url": "https://open.spotify.com/track/3LVjzOOubm6PAxYFvrv8Bq"

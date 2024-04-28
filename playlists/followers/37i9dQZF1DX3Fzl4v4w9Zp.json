@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 605365,
+  "2024-04-28": 605376,
   "date_first_scraped": "2021-12-21",
   "description": "Keep your finger on the pulse of Americana. Cover: Marcus King",
   "name": "The Pulse of Americana",
@@ -667,6 +667,24 @@
       "duration_ms": 183215,
       "name": "Always Saw Coming",
       "url": "https://open.spotify.com/track/4PkNM6c47VlKeElu3x0Pg0"
+    },
+    {
+      "album": {
+        "name": "$10 Cowboy",
+        "url": "https://open.spotify.com/album/29H8rVCQG9uXLiT9hlH5za"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203295,
+      "name": "America",
+      "url": "https://open.spotify.com/track/63LVOsdT7bB52kCzNLsEPn"
     },
     {
       "album": {
@@ -9213,7 +9231,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 211326,
       "name": "Solitary Road",
       "url": "https://open.spotify.com/track/2nRcwYvF3RPx0rXTmRGHyc"

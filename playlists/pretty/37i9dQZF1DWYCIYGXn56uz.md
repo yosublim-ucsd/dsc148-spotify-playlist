@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: bnkr44
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,036 likes - 51 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,011 likes - 51 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 6 | [DIAMANTI GREZZI](https://open.spotify.com/track/3To8zpX92dTdhtORefjgyV) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [DIAMANTI GREZZI](https://open.spotify.com/album/11KJdw9RyMJwFABzPBaALV) | 3:12 |
 | 7 | [Notte Fonda](https://open.spotify.com/track/6cGrb2jhfQnrsVl1gRDG87) | [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc) | [Notte Fonda](https://open.spotify.com/album/5yaW6sXoUdLpL9VBOdvjs2) | 2:50 |
 | 8 | [SOLO STANOTTE](https://open.spotify.com/track/3w7U6hoes2QzFZB10DSp0h) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP) | [SOLO STANOTTE](https://open.spotify.com/album/5nCdwVW2ylZVW9NhPET9pu) | 3:42 |
-| 9 | [MAPPAMONDO](https://open.spotify.com/track/4FYdBhoiUkrAZfkcaPd2sn) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [MAPPAMONDO](https://open.spotify.com/album/3rAzTTDojPhT2uaEyO8Lvf) | 2:47 |
+| 9 | [MAPPAMONDO](https://open.spotify.com/track/4FYdBhoiUkrAZfkcaPd2sn) | [Sarah](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [MAPPAMONDO](https://open.spotify.com/album/3rAzTTDojPhT2uaEyO8Lvf) | 2:47 |
 | 10 | [TEMPO \(all the things she said\)](https://open.spotify.com/track/2g8j6NUFxmJmJOiTaR4iCv) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [TEMPO \(all the things she said\)](https://open.spotify.com/album/2Yrm4TpKSLkJBR1BuDgzLI) | 2:49 |
 | 11 | [notte vodka](https://open.spotify.com/track/7w6K5uvRrZHdHNgQt5lSXN) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [notte vodka](https://open.spotify.com/album/13jKhdRkvOzf7yzfRkuReL) | 2:25 |
 | 12 | [GOVERNO PUNK](https://open.spotify.com/track/7He9P5gjaE4cmQOquezZnl) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [GOVERNO PUNK](https://open.spotify.com/album/4I20c4niAvrvALPHZ7Nw9p) | 3:25 |

@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 13759,
+  "2024-04-28": 13764,
   "date_first_scraped": "2023-06-15",
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! ERRE TRES en portada. ",
   "name": "Rimas Frescas ",
@@ -3412,6 +3412,24 @@
     },
     {
       "album": {
+        "name": "El Juanito Y El Mu\u00f1equia",
+        "url": "https://open.spotify.com/album/7CC5r2ibyDJUtoGHbxRCs6"
+      },
+      "artists": [
+        {
+          "name": "Baby Syko",
+          "url": "https://open.spotify.com/artist/3i6sJo42FddEYbBoBmwgqY"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214569,
+      "name": "El Juanito Y El Mu\u00f1equia",
+      "url": "https://open.spotify.com/track/5ruRhEiDPP7ysu4kKEnZp3"
+    },
+    {
+      "album": {
         "name": "El Mundo Es M\u00edo",
         "url": "https://open.spotify.com/album/7hTv5dTeDCWavviOKakPrT"
       },
@@ -4051,6 +4069,28 @@
       "duration_ms": 375360,
       "name": "Estrobos",
       "url": "https://open.spotify.com/track/0UujRqoJsE3kjokK9SHhiY"
+    },
+    {
+      "album": {
+        "name": "Eva, Ad\u00e1n y las Manzanas",
+        "url": "https://open.spotify.com/album/10qNIsok5o6cUfcVCl1TBC"
+      },
+      "artists": [
+        {
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+        },
+        {
+          "name": "Gema Tom\u00e1s",
+          "url": "https://open.spotify.com/artist/1eenupXk2LMDwE3lCHBEhN"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296460,
+      "name": "Eva, Ad\u00e1n y las Manzanas",
+      "url": "https://open.spotify.com/track/4S7HqetuvEZ8P66rakdmf6"
     },
     {
       "album": {
@@ -4983,7 +5023,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 199480,
       "name": "Juega Vivo",
       "url": "https://open.spotify.com/track/5YbfB34AhHdk7Wuy4m6EJB"
@@ -6173,7 +6213,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 275000,
       "name": "Los Tigres",
       "url": "https://open.spotify.com/track/43mjlywXYptlZxBFgfxc67"
@@ -6265,6 +6305,28 @@
       "duration_ms": 192000,
       "name": "LQRA Session #15",
       "url": "https://open.spotify.com/track/6QughjBgNjL3rxAVjFDL4F"
+    },
+    {
+      "album": {
+        "name": "Lucifer",
+        "url": "https://open.spotify.com/album/6sOUagzQBWZ8ihsrpX6QsH"
+      },
+      "artists": [
+        {
+          "name": "Fierros Mancilla",
+          "url": "https://open.spotify.com/artist/1enuoXKUrhup4Bup0dXFQ0"
+        },
+        {
+          "name": "ElReghosg",
+          "url": "https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267558,
+      "name": "Lucifer",
+      "url": "https://open.spotify.com/track/3E3jX1CLJ9rMViuLr1hNB3"
     },
     {
       "album": {
@@ -9961,7 +10023,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 219000,
       "name": "Sastre a la Medida",
       "url": "https://open.spotify.com/track/7xWneAamMR4l3BpBFU7Dev"

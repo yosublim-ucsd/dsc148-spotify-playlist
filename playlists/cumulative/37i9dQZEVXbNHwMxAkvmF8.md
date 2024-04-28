@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-1,141 songs - 2 day 12 hr 12 min
+1,142 songs - 2 day 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,7 +326,7 @@
 | [Fiatal és őrült](https://open.spotify.com/track/1iRwcHRaEGQdkZDyVsQM1h) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8), [M Ricch](https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp) | [Idegen, Vol\. 1.](https://open.spotify.com/album/1cSCDIHlM4QbyRtEiNgPHk) | 2:46 | 2022-06-07 | 2023-02-05 |
 | [Fiatal és őrült](https://open.spotify.com/track/3sE7DmCeV0NOU9iTuToADc) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8), [M Ricch](https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp) | [Idegen](https://open.spotify.com/album/3W938UewrgV3XpUBFXVEhv) | 2:46 | 2023-02-04 | 2023-02-12 |
 | [Fienduló](https://open.spotify.com/track/2R26Jx9XGyA7SODZ1Fr0of) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju), [Grasa](https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C) | [Megáll Az Idő](https://open.spotify.com/album/5t7s3WL4RH53iFIJT5RPwg) | 2:52 | 2023-03-02 | 2023-05-15 |
-| [figyelj](https://open.spotify.com/track/1tAyEL10PQDcIvEL2o75wt) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [silbak](https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ) | 2:44 | 2022-08-11 |  |
+| [figyelj](https://open.spotify.com/track/1tAyEL10PQDcIvEL2o75wt) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [silbak](https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ) | 2:44 | 2022-08-11 | 2024-04-28 |
 | [filter](https://open.spotify.com/track/3XcVoBCkYFn7ZMD185dcPe) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [camouflage](https://open.spotify.com/album/3OFCYRfoLNKtAnr1CsSVqa) | 3:30 | 2021-07-01 | 2021-07-02 |
 | [First Class](https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:53 | 2022-05-07 | 2022-06-08 |
 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-04-09 | 2022-05-08 |
@@ -1052,6 +1052,7 @@
 | [Valentino](https://open.spotify.com/track/2xUsq60SijcWEWzPDoh5cL) | [Mihályfi Luca](https://open.spotify.com/artist/0D6r3l2qcIowUMJ2Odb9ot), [Csoky](https://open.spotify.com/artist/6RmLQbwTEDQrpIveY6gqtV) | [Valentino](https://open.spotify.com/album/6hkPsrKhq8562TpqqqosVB) | 2:21 | 2023-10-17 | 2023-11-22 |
 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 | 2023-09-09 | 2023-09-14 |
 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-07-01 | 2023-07-20 |
+| [VAN HARAG](https://open.spotify.com/track/78kccOls0P0nkQj4TsNjeP) | [Elefánt](https://open.spotify.com/artist/5XXDBFhkTp168rjq9IjAE3) | [VAN HARAG](https://open.spotify.com/album/6zbYUWbOfQN5DhRKR2Qqcw) | 3:07 | 2024-04-27 |  |
 | [Vezetői Engedély](https://open.spotify.com/track/0fY8YdsEhwdE2VdYc8tRlN) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Digitális/Analóg](https://open.spotify.com/album/3Esc3QxtrJhGTB1CWvl2sA) | 3:10 | 2022-03-12 | 2022-03-15 |
 | [VEZÉREGYÉNISÉG](https://open.spotify.com/track/0dSkwXX1PZ9mb2O26V68bZ) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y), [Dan Pinto](https://open.spotify.com/artist/5Bg0nn9wJutwmaNhhld2Xw) | [0](https://open.spotify.com/album/3IOx3DP8tK4ihrbAyk7fCf) | 1:49 | 2024-03-09 | 2024-03-17 |
 | [viadal](https://open.spotify.com/track/4kRnFRvg8mFFJFFlxJ9FLW) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [skatulya I](https://open.spotify.com/album/5u9MCFoebxeT8zyJk7ubYw) | 3:05 | 2024-04-19 |  |

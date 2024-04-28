@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 61972,
+  "2024-04-28": 62008,
   "date_first_scraped": "2021-12-21",
   "description": "So fresh, so smooth. Cover: Braxton Brothers",
   "name": "New Smooth Jazz",
@@ -623,7 +623,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 259229,
       "name": "Bah-De-Yah!",
       "url": "https://open.spotify.com/track/4L33U0CZe1UTQe6pvkqT20"
@@ -5919,6 +5919,24 @@
       "duration_ms": 249800,
       "name": "Overjoyed",
       "url": "https://open.spotify.com/track/5id4jZ159bRygfcoEtq7Sh"
+    },
+    {
+      "album": {
+        "name": "Pillow Talk",
+        "url": "https://open.spotify.com/album/5R4zxG9jGuY4IFYkqQL0z8"
+      },
+      "artists": [
+        {
+          "name": "Kirk Whalum",
+          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272650,
+      "name": "Pillow Talk",
+      "url": "https://open.spotify.com/track/3nkzHkfXixW2X79TYwzdbd"
     },
     {
       "album": {

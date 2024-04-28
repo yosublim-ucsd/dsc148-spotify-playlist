@@ -2,7 +2,7 @@
 
 ### [RADAR Philippines](https://open.spotify.com/playlist/37i9dQZF1DWVp4cWdnm5ws)
 
-> Discover new artists on the horizon this 2024\. Cover: Hev Abi
+> Discover new artists on the horizon this 2024\. Cover: Illest Morena
 
 200 songs - 12 hr 22 min
 

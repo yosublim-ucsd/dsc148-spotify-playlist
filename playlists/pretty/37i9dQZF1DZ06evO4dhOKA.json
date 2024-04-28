@@ -1,12 +1,12 @@
 {
-  "description": "This Is Lalo Mora. Los temas esenciales, todos en una lista.",
-  "num_followers": 56023,
+  "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
+  "num_followers": 56052,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDAwMzIwMCwwMDAwMDAwMDkxYTIzNTBlN2EyODJmMjNhNjVkMGY1ZjZlNjc1NmQ0",
+  "snapshot_id": "MTcxNDA4OTYwMCwwMDAwMDAwMDdmZGI4MjRmZGVlZTgzNDkwOGQ3NDZhMDFiN2I4YjQ2",
   "tracks": [
     {
       "added_at": null,
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 184666,
-      "name": "Lupe Rubalcava AKA Corrido De Lupe Rubalcava",
-      "url": "https://open.spotify.com/track/6EDnuILfWDWBXsFrTmDt8L"
+      "duration_ms": 162360,
+      "name": "La Novia De Mi Hermano AKA No Te Apasiones",
+      "url": "https://open.spotify.com/track/6uHagy7oY3oRrAHu2cJRGe"
     },
     {
       "added_at": null,
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 162360,
-      "name": "La Novia De Mi Hermano AKA No Te Apasiones",
-      "url": "https://open.spotify.com/track/6uHagy7oY3oRrAHu2cJRGe"
+      "duration_ms": 184666,
+      "name": "Lupe Rubalcava AKA Corrido De Lupe Rubalcava",
+      "url": "https://open.spotify.com/track/6EDnuILfWDWBXsFrTmDt8L"
     },
     {
       "added_at": null,

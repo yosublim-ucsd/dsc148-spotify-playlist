@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 29664,
+  "2024-04-28": 29659,
   "date_first_scraped": "2023-01-15",
   "description": "<a href=\"spotify:artist:0bGDTQ78MVgI5Snqo9KJZw\">Qrion</a>'s favorite tracks. Updated regularly. Curated by Qrion. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Qrion's track IDs",
@@ -39,6 +39,24 @@
       "duration_ms": 247136,
       "name": "11-11",
       "url": "https://open.spotify.com/track/6Gmazx7JDCdgQiSCTiYwIq"
+    },
+    {
+      "album": {
+        "name": "1995",
+        "url": "https://open.spotify.com/album/5XFF3PtWAtY9Y2HYIXa7Ap"
+      },
+      "artists": [
+        {
+          "name": "RE\\MIND",
+          "url": "https://open.spotify.com/artist/3V9dIUKIoVArPUrt30P4XX"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 481977,
+      "name": "1995",
+      "url": "https://open.spotify.com/track/0Of3ECzxO2c0HkkK0Ti0iU"
     },
     {
       "album": {
@@ -337,7 +355,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 154354,
       "name": "Around",
       "url": "https://open.spotify.com/track/6CcZcnxlBHriWvABmO0cyI"
@@ -395,6 +413,28 @@
       "duration_ms": 277824,
       "name": "Babe",
       "url": "https://open.spotify.com/track/0qnJLucDt2p59Vf1Km2Bxj"
+    },
+    {
+      "album": {
+        "name": "Baddy On The Floor",
+        "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222315,
+      "name": "Baddy On The Floor",
+      "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
     },
     {
       "album": {
@@ -485,7 +525,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 188160,
       "name": "Beach Kisses - 2023 Mix",
       "url": "https://open.spotify.com/track/2bUw0rwZ8gb5vYiZPALIXS"
@@ -1001,7 +1041,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 373452,
       "name": "Cos Of You",
       "url": "https://open.spotify.com/track/7nAbkjtxvS00NBcOlapI9V"
@@ -1160,6 +1200,28 @@
     },
     {
       "album": {
+        "name": "Destination Lost",
+        "url": "https://open.spotify.com/album/2ItQG3PKAQdffC25QXdxL0"
+      },
+      "artists": [
+        {
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+        },
+        {
+          "name": "Rodriguez Jr.",
+          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219017,
+      "name": "Destination Lost",
+      "url": "https://open.spotify.com/track/2YpD9Go9kzxCc325pgJTjM"
+    },
+    {
+      "album": {
         "name": "DEVOTION (Mansionair Remix)",
         "url": "https://open.spotify.com/album/6iccD3bKf7WzugmfcHtu3O"
       },
@@ -1263,7 +1325,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 337137,
       "name": "don't see this",
       "url": "https://open.spotify.com/track/4wFQ4iGZX8V5Iro9HE4atb"
@@ -1329,7 +1391,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 364097,
       "name": "Drinking from the Mirage",
       "url": "https://open.spotify.com/track/5PIDAYJAWK3Vb9BHwC9guJ"
@@ -2026,6 +2088,24 @@
     },
     {
       "album": {
+        "name": "Fleuron Drift",
+        "url": "https://open.spotify.com/album/1oFJ6wFXAACZ1aDPAzQLtI"
+      },
+      "artists": [
+        {
+          "name": "Sasha",
+          "url": "https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282901,
+      "name": "Fleuron Drift",
+      "url": "https://open.spotify.com/track/4dk4d4LMWTF7DeTbCcz2AW"
+    },
+    {
+      "album": {
         "name": "Labels & Tags",
         "url": "https://open.spotify.com/album/0qCk4w1OFjJxQUY6HNiMwc"
       },
@@ -2327,7 +2407,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 478800,
       "name": "Groove La Chord",
       "url": "https://open.spotify.com/track/0Ga1CODJzpwFYtRt5PyC73"
@@ -2702,6 +2782,32 @@
     },
     {
       "album": {
+        "name": "I Got Nothing (Ferreck Dawn Mix)",
+        "url": "https://open.spotify.com/album/2Rfodx3PPInqdZUplCNzjq"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Ferreck Dawn",
+          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171890,
+      "name": "I Got Nothing - Ferreck Dawn Mix",
+      "url": "https://open.spotify.com/track/6ZR6tHglQJYQCLDrZNpFUV"
+    },
+    {
+      "album": {
         "name": "You Are Here",
         "url": "https://open.spotify.com/album/7fQXPTn6DbdBQ54achG6cw"
       },
@@ -2749,7 +2855,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 409003,
       "name": "I'm On The Phone",
       "url": "https://open.spotify.com/track/3hqYEDLI5zoMZstBonoXiZ"
@@ -3345,7 +3451,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 209032,
       "name": "Make You Stay",
       "url": "https://open.spotify.com/track/2ft8bS9WVLTCOlRBme1anR"
@@ -3632,6 +3738,24 @@
     },
     {
       "album": {
+        "name": "Moonbow / Hart Plaza Vibes",
+        "url": "https://open.spotify.com/album/2bo6XPoehNg1ZCwBuIM0uQ"
+      },
+      "artists": [
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186625,
+      "name": "Moonbow",
+      "url": "https://open.spotify.com/track/1G1CnOw2l7BIXLLzKhpUNF"
+    },
+    {
+      "album": {
         "name": "Unity Pt. 3",
         "url": "https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE"
       },
@@ -3683,7 +3807,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 468229,
       "name": "Muuden - Sama' Abdulhadi Remix",
       "url": "https://open.spotify.com/track/2830uS7zU82aEsTzgZlW2Y"
@@ -3847,6 +3971,24 @@
       "duration_ms": 259474,
       "name": "No Ending - Nils Hoffmann Remix",
       "url": "https://open.spotify.com/track/0on4Nj6eERwrMj7wivFewL"
+    },
+    {
+      "album": {
+        "name": "No One",
+        "url": "https://open.spotify.com/album/1COKeouDUFhUwT1mhSque6"
+      },
+      "artists": [
+        {
+          "name": "Helang",
+          "url": "https://open.spotify.com/artist/5LSoyfv32nSX2ECYL5Yiy3"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215625,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/2gTYGAeRlXRe8uHofu9mxf"
     },
     {
       "album": {
@@ -4571,7 +4713,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 199769,
       "name": "Ready (feat. Art School Girlfriend) [Pretty Girl Remix]",
       "url": "https://open.spotify.com/track/7wdQ2iSmAO67B9sKeguajU"
@@ -4905,7 +5047,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 375737,
       "name": "Slam",
       "url": "https://open.spotify.com/track/0TYGCUSNdjz68pc9eu0hav"
@@ -5042,6 +5184,24 @@
     },
     {
       "album": {
+        "name": "Tala",
+        "url": "https://open.spotify.com/album/7rlh65ToiwLcaAQOOEvttQ"
+      },
+      "artists": [
+        {
+          "name": "Banksia",
+          "url": "https://open.spotify.com/artist/5KbxQ4ymkRxh9tB59smVYz"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277053,
+      "name": "Sonore",
+      "url": "https://open.spotify.com/track/7jb5cXl0hbPc8k7WfKMurk"
+    },
+    {
+      "album": {
         "name": "Soulflow",
         "url": "https://open.spotify.com/album/0TR5psaj0Djq2l03VCstra"
       },
@@ -5079,6 +5239,28 @@
       "duration_ms": 167619,
       "name": "Space Invader",
       "url": "https://open.spotify.com/track/6Qog1jVmV4qSXWGIa0nNDS"
+    },
+    {
+      "album": {
+        "name": "Lanes EP",
+        "url": "https://open.spotify.com/album/5S3RXvDtsb3RQiPwIVE9Wj"
+      },
+      "artists": [
+        {
+          "name": "Steven Weston",
+          "url": "https://open.spotify.com/artist/7zxRSonZpfxzpY2S4Cse4U"
+        },
+        {
+          "name": "Braxton",
+          "url": "https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344754,
+      "name": "Splendor - Extended Mix",
+      "url": "https://open.spotify.com/track/45UHM5mKHWdUuetCRCZkND"
     },
     {
       "album": {
@@ -5267,7 +5449,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 383972,
       "name": "Subzero - Original Mix",
       "url": "https://open.spotify.com/track/7p6oXzBSPAXXz8Xb8gBPki"
@@ -5395,7 +5577,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 360000,
       "name": "Take Me There",
       "url": "https://open.spotify.com/track/1o84U3oManq1ink1jpJS1x"
@@ -6177,7 +6359,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 200193,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/7DIozOikmcysjNyBZNcXG8"

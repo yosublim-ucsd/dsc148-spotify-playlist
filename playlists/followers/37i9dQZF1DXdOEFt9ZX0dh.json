@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 1020557,
+  "2024-04-28": 1021032,
   "date_first_scraped": "2021-12-21",
   "description": "Classic rock to get your motor running. Cover: AC/DC",
   "name": "Classic Rock Drive",
@@ -1115,7 +1115,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-12",
+      "date_removed": null,
       "duration_ms": 266960,
       "name": "Dream On",
       "url": "https://open.spotify.com/track/5MxNLUsfh7uzROypsoO5qe"
@@ -3005,7 +3005,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 258026,
       "name": "Sharp Dressed Man - 2008 Remaster",
       "url": "https://open.spotify.com/track/1UBQ5GK8JaQjm5VbkBZY66"

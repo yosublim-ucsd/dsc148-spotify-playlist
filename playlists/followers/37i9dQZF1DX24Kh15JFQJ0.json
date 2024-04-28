@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 249104,
+  "2024-04-28": 249070,
   "date_first_scraped": "2021-12-21",
   "description": "The latest music from our Country Heroes. Cover: Sawyer Brown ",
   "name": "New Traditions Country Heroes",
@@ -33,6 +33,24 @@
       "duration_ms": 187535,
       "name": "10-4",
       "url": "https://open.spotify.com/track/13JH4T5Vwy9bZ9g2Yene4Y"
+    },
+    {
+      "album": {
+        "name": "21 Days",
+        "url": "https://open.spotify.com/album/2ik34d8bqw8BSCmvVl0H22"
+      },
+      "artists": [
+        {
+          "name": "Sara Evans",
+          "url": "https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226826,
+      "name": "21 Days",
+      "url": "https://open.spotify.com/track/4b9obmnSPR2ffmMaf9UEdU"
     },
     {
       "album": {
@@ -3198,6 +3216,24 @@
     },
     {
       "album": {
+        "name": "Made In Texas",
+        "url": "https://open.spotify.com/album/29ZuaXy94yR0uWdsLsHxbJ"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144573,
+      "name": "Made In Texas",
+      "url": "https://open.spotify.com/track/0ba2g72aL4NG7gxuvbp0my"
+    },
+    {
+      "album": {
         "name": "Every Road",
         "url": "https://open.spotify.com/album/6uD5MXsYeIOgpu2cKNvEWq"
       },
@@ -4566,6 +4602,28 @@
     },
     {
       "album": {
+        "name": "Dark End of the Street",
+        "url": "https://open.spotify.com/album/3mJahLGbS8k0hCi760QQPf"
+      },
+      "artists": [
+        {
+          "name": "T. Graham Brown",
+          "url": "https://open.spotify.com/artist/0UMJlMGr85C0C5D7wmB0Ik"
+        },
+        {
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154638,
+      "name": "The Dark End of the Street",
+      "url": "https://open.spotify.com/track/7GS7o2DO5msZ75RBqHyJs5"
+    },
+    {
+      "album": {
         "name": "The Georgia in Me",
         "url": "https://open.spotify.com/album/2f6naHCWt5G8LJGcTPJTia"
       },
@@ -5117,6 +5175,24 @@
       "duration_ms": 205626,
       "name": "Waste Of A Whiskey Drink",
       "url": "https://open.spotify.com/track/7wruXOjVoOBFjqzCb8dz33"
+    },
+    {
+      "album": {
+        "name": "Well Alright",
+        "url": "https://open.spotify.com/album/43DkVKkSDhVgDzen523ZFe"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132293,
+      "name": "Well Alright",
+      "url": "https://open.spotify.com/track/0aHDkn2yqKsDhLptXjQhPt"
     },
     {
       "album": {

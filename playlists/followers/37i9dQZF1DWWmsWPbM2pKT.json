@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 313711,
+  "2024-04-28": 314035,
   "date_first_scraped": "2023-02-06",
   "description": "Obscure, dreamy and nostalgic synth sounds from all over the world. ",
   "name": "Darkwave",
@@ -417,7 +417,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 187189,
       "name": "Be Quiet and Drive (Far Away) \u2013 Spotify Singles",
       "url": "https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu"
@@ -1131,6 +1131,24 @@
       "duration_ms": 326545,
       "name": "Dot in the Sky",
       "url": "https://open.spotify.com/track/2JDYNDcTJVpkuqKiJrIghn"
+    },
+    {
+      "album": {
+        "name": "Dry",
+        "url": "https://open.spotify.com/album/29r7z4p5XQ5ZoXE0X6Ifbe"
+      },
+      "artists": [
+        {
+          "name": "Geneva Jacuzzi",
+          "url": "https://open.spotify.com/artist/0Z7IzQYoiuCJIDI2c9EHxG"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217733,
+      "name": "Dry",
+      "url": "https://open.spotify.com/track/06LftQ6D32NPLEZJLtYuZD"
     },
     {
       "album": {

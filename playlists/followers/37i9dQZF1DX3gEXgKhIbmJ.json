@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 12453,
+  "2024-04-28": 12473,
   "date_first_scraped": "2023-09-18",
   "description": "pra entrar e ficar na onda",
   "name": "Jersey BR",
@@ -365,7 +365,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 165925,
       "name": "Baile da Serra",
       "url": "https://open.spotify.com/track/68gG13CYNMzdGG8pRhZnU5"
@@ -657,7 +657,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 124913,
       "name": "C'est la vie (B\u00f4nus)",
       "url": "https://open.spotify.com/track/1QRDn63eQzqC8dpNcI7HtQ"
@@ -1320,6 +1320,32 @@
     },
     {
       "album": {
+        "name": "Feiticeira",
+        "url": "https://open.spotify.com/album/1EgymkpyNeHr7yZC167uMi"
+      },
+      "artists": [
+        {
+          "name": "Atlas",
+          "url": "https://open.spotify.com/artist/3tgwJ3YqzYI5jc4XxgCHRk"
+        },
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "MeLodee",
+          "url": "https://open.spotify.com/artist/20NGAx3Juv4HaGjwBM9bpj"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233142,
+      "name": "Feiticeira",
+      "url": "https://open.spotify.com/track/7hKxP5dRvcaOUvQd9Prawq"
+    },
+    {
+      "album": {
         "name": "Fetiche",
         "url": "https://open.spotify.com/album/4sdM594d5xY8P0JU1j5BgT"
       },
@@ -1781,7 +1807,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 127552,
       "name": "Jersey Club",
       "url": "https://open.spotify.com/track/1n0Cd6Edvg300FNVG0YOZu"
@@ -2608,6 +2634,32 @@
     },
     {
       "album": {
+        "name": "Pato",
+        "url": "https://open.spotify.com/album/7Kahh00QPmrHsdpKwCD9tT"
+      },
+      "artists": [
+        {
+          "name": "RealLamak",
+          "url": "https://open.spotify.com/artist/1xGwIZJW5hCGGMGJZ468Nb"
+        },
+        {
+          "name": "Beats by GorJah",
+          "url": "https://open.spotify.com/artist/2JgTsHY5NoDEChnpZTdJcU"
+        },
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129600,
+      "name": "Pato",
+      "url": "https://open.spotify.com/track/664XNRE1DIZR4YMn4cwdRP"
+    },
+    {
+      "album": {
         "name": "Pela Minha Cria",
         "url": "https://open.spotify.com/album/3EWSDy4qtTTgCoqS5AWEwn"
       },
@@ -2727,6 +2779,24 @@
       "duration_ms": 128086,
       "name": "Postura de Braba",
       "url": "https://open.spotify.com/track/5HfQbACsPDEKVkjhJYqYKe"
+    },
+    {
+      "album": {
+        "name": "Pra esquecer do ex",
+        "url": "https://open.spotify.com/album/6iXMlZatM63GA6ZxajFDMY"
+      },
+      "artists": [
+        {
+          "name": "MC Gustavinho",
+          "url": "https://open.spotify.com/artist/77yd8ef29EG05232JEQzXu"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142400,
+      "name": "Pra esquecer do ex",
+      "url": "https://open.spotify.com/track/132kNUWgXBpFJwTF36Y61v"
     },
     {
       "album": {
@@ -3661,6 +3731,24 @@
       "duration_ms": 137770,
       "name": "Zaza",
       "url": "https://open.spotify.com/track/2GgePlmi3YjIpCtsWbiDgU"
+    },
+    {
+      "album": {
+        "name": "Zero Mancada",
+        "url": "https://open.spotify.com/album/1Q3zBjvYzDxyIoJaMZlJKL"
+      },
+      "artists": [
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93541,
+      "name": "Zero Mancada",
+      "url": "https://open.spotify.com/track/15KUKRhAslOR4amIQQ00WP"
     },
     {
       "album": {

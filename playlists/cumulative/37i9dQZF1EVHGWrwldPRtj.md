@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1EVHGWrwldPRtj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EVHGWrwldPRtj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EVHGWrwldPRtj)
 
-### [Mix relajante](https://open.spotify.com/playlist/37i9dQZF1EVHGWrwldPRtj)
+### [Chill Mix](https://open.spotify.com/playlist/37i9dQZF1EVHGWrwldPRtj)
 
-> <a href=spotify:playlist:37i9dQZF1EIX6w3UehUg5U>Hozier</a>, <a href=spotify:playlist:37i9dQZF1EIWBvTtlGcdKW>Djo</a>, <a href=spotify:playlist:37i9dQZF1EIXU5Hw1noEbj>Teddy Swims</a> y más
+> <a href=spotify:playlist:37i9dQZF1EIX6w3UehUg5U>Hozier</a>, <a href=spotify:playlist:37i9dQZF1EIWBvTtlGcdKW>Djo</a>, <a href=spotify:playlist:37i9dQZF1EIXU5Hw1noEbj>Teddy Swims</a> and more
 
 586 songs - 1 day 9 hr 6 min
 
@@ -280,7 +280,7 @@
 | [Kids](https://open.spotify.com/track/2sMyHm7oNeXpPi7JnAxPEO) | [Riesling](https://open.spotify.com/artist/3GxT7ZybNZXWlMR1eopmx9) | [Kids](https://open.spotify.com/album/2rdlrgBymYzVl2ChjoIi1x) | 2:07 | 2024-04-03 | 2024-04-04 |
 | [Kom för mig](https://open.spotify.com/track/5nBWPZDUskLXngG94HN0TG) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [På svenska](https://open.spotify.com/album/59yVJJgWzN71NZtKnwqeci) | 4:20 | 2024-01-14 | 2024-01-15 |
 | [Kärt återseende](https://open.spotify.com/track/6UWlbhiNSJumQGp4pZDNqL) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp) | [Blåa jeans, tomma fickor](https://open.spotify.com/album/5vDwrDp5Hc3Hn5BqtkVB46) | 2:41 | 2024-01-15 | 2024-02-06 |
-| [L$D](https://open.spotify.com/track/4S7YHmlWwfwArgd8LfSPud) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [AT.LONG.LAST.A$AP](https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc) | 3:58 | 2023-12-29 | 2024-03-28 |
+| [L$D](https://open.spotify.com/track/4S7YHmlWwfwArgd8LfSPud) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [AT.LONG.LAST.A$AP](https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc) | 3:58 | 2023-12-29 |  |
 | [La Dame Bleue](https://open.spotify.com/track/3YBsuL7M0dTBb70z8MKjmc) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [DEL TVÅ](https://open.spotify.com/album/0jGqNopDzxvSooL1NKnOnc) | 2:39 | 2023-12-29 | 2024-01-05 |
 | [La femme d'argent](https://open.spotify.com/track/3ZzhV6JIDKWvWR7wiKWD0C) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA) | 7:06 | 2024-01-19 | 2024-04-11 |
 | [Ladders](https://open.spotify.com/track/39NDBdU5Xkm5pCFGa5kZtI) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Swimming](https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk) | 4:47 | 2024-02-04 | 2024-02-05 |
@@ -289,7 +289,7 @@
 | [las consecuencias](https://open.spotify.com/track/0x3M7EQkASM6NQW53mNK9d) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [las consecuencias](https://open.spotify.com/album/2jcKhSAes8tIw5GXH91Ks9) | 3:11 | 2024-01-12 | 2024-01-13 |
 | [Last Time](https://open.spotify.com/track/2h4wIFtj26OnX7aW1zmest) | [Prigida](https://open.spotify.com/artist/4Ab2SjCDNyDAgkLfzzucWY) | [Last Time](https://open.spotify.com/album/73YAZ9qBPpSx3bn2oK0FOl) | 2:13 | 2024-01-09 | 2024-01-10 |
 | [Last Words \- Edapollo Remix](https://open.spotify.com/track/1gTqQ7vpFldpg2w1PcbKCa) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [Neeskens](https://open.spotify.com/artist/4DA6Sbuxz3usyM6bzuUuCg) | [Last Words \(Edapollo Remix\)](https://open.spotify.com/album/4acdzaE5THs8lORiWI7Db8) | 3:33 | 2024-01-15 | 2024-01-16 |
-| [Lebanese Blonde](https://open.spotify.com/track/6k5VMHrwv7mgPpkQSRQtQr) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Mirror Conspiracy](https://open.spotify.com/album/7eH0DZ6Y9bInoU0breGFFe) | 4:48 | 2024-01-02 |  |
+| [Lebanese Blonde](https://open.spotify.com/track/6k5VMHrwv7mgPpkQSRQtQr) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Mirror Conspiracy](https://open.spotify.com/album/7eH0DZ6Y9bInoU0breGFFe) | 4:48 | 2024-01-02 | 2024-04-28 |
 | [Let Go](https://open.spotify.com/track/07mdQUH1Cy5j4mTpyG6IOe) | [Ark Patrol](https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9), [Veronika Redd](https://open.spotify.com/artist/6kuFWCCvd7bWB1PV0tJMN2) | [Let Go](https://open.spotify.com/album/2jyHYK0byP7L61nlSJf4Wn) | 4:08 | 2024-01-14 | 2024-03-10 |
 | [Let the Sun Come Out](https://open.spotify.com/track/3Bx4t7zraR3BpBQoneYra2) | [Unora](https://open.spotify.com/artist/16GPibtrbZlX1tGTV6UUJr), [RED](https://open.spotify.com/artist/6UZK9xlpTAM8dUAiB2Y42b) | [Let the Sun Come Out](https://open.spotify.com/album/2tzyeA3CKoErLkU5vQ3DnB) | 2:02 | 2024-02-20 | 2024-02-21 |
 | [Let You Know \- Summer Edit](https://open.spotify.com/track/6eFlqtmgYckrLelrV4oc9C) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [Let You Know \(Summer Edit\)](https://open.spotify.com/album/2tYezXk2MnMVK40DqqnMKm) | 2:29 | 2024-01-05 | 2024-04-19 |

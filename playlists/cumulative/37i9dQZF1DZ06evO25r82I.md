@@ -2,7 +2,7 @@
 
 ### [This Is Jimmy Eat World](https://open.spotify.com/playlist/37i9dQZF1DZ06evO25r82I)
 
-> This Is Jimmy Eat World\. Los temas esenciales, todos en una lista.
+> This is Jimmy Eat World\. The essential tracks, all in one playlist.
 
 62 songs - 3 hr 55 min
 

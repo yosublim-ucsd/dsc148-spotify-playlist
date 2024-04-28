@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: Mad Caddies",
-  "num_followers": 49087,
+  "num_followers": 49124,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -799,8 +799,8 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
-        "name": "Siempre Fingiste Amarme",
-        "url": "https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw"
+        "name": "Qui\u00e9n Devuelve El Tiempo?",
+        "url": "https://open.spotify.com/album/2AQPM37cUxM9NK8v8pCZer"
       },
       "artists": [
         {
@@ -808,13 +808,13 @@
           "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
         },
         {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+          "name": "The Locos",
+          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
         }
       ],
-      "duration_ms": 237527,
-      "name": "Siempre Fingiste Amarme",
-      "url": "https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp"
+      "duration_ms": 210164,
+      "name": "Qui\u00e9n devuelve el tiempo?",
+      "url": "https://open.spotify.com/track/2NjO7h3J6rimKuRuzEMtzZ"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -959,8 +959,8 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
-        "name": "Qui\u00e9n Devuelve El Tiempo?",
-        "url": "https://open.spotify.com/album/2AQPM37cUxM9NK8v8pCZer"
+        "name": "Siempre Fingiste Amarme",
+        "url": "https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw"
       },
       "artists": [
         {
@@ -968,13 +968,13 @@
           "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
         },
         {
-          "name": "The Locos",
-          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 210164,
-      "name": "Qui\u00e9n devuelve el tiempo?",
-      "url": "https://open.spotify.com/track/2NjO7h3J6rimKuRuzEMtzZ"
+      "duration_ms": 237527,
+      "name": "Siempre Fingiste Amarme",
+      "url": "https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -1299,22 +1299,18 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
-        "name": "Conscience is Heavy",
-        "url": "https://open.spotify.com/album/2qvM0YbTVMYwAzDMliHrEg"
+        "name": "The One And Only",
+        "url": "https://open.spotify.com/album/7DK4Yb70kirgEI1JMK3Mje"
       },
       "artists": [
         {
-          "name": "The Inversions",
-          "url": "https://open.spotify.com/artist/5aMQ5EDOyqx8eCmPvDkqjt"
-        },
-        {
-          "name": "Victor Axelrod",
-          "url": "https://open.spotify.com/artist/2biUp9VdsGaM1dL1kjLLUy"
+          "name": "Makua Rothman",
+          "url": "https://open.spotify.com/artist/2NPXqPjxbsbSAkO9PA61lN"
         }
       ],
-      "duration_ms": 190866,
-      "name": "Conscience is Heavy",
-      "url": "https://open.spotify.com/track/3kxFEgQ9piaonniyXIOXJR"
+      "duration_ms": 183725,
+      "name": "The One And Only",
+      "url": "https://open.spotify.com/track/04MkrjtWql5a9UTTMzB2zW"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -1335,18 +1331,22 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
-        "name": "The One And Only",
-        "url": "https://open.spotify.com/album/7DK4Yb70kirgEI1JMK3Mje"
+        "name": "Conscience is Heavy",
+        "url": "https://open.spotify.com/album/2qvM0YbTVMYwAzDMliHrEg"
       },
       "artists": [
         {
-          "name": "Makua Rothman",
-          "url": "https://open.spotify.com/artist/2NPXqPjxbsbSAkO9PA61lN"
+          "name": "The Inversions",
+          "url": "https://open.spotify.com/artist/5aMQ5EDOyqx8eCmPvDkqjt"
+        },
+        {
+          "name": "Victor Axelrod",
+          "url": "https://open.spotify.com/artist/2biUp9VdsGaM1dL1kjLLUy"
         }
       ],
-      "duration_ms": 183725,
-      "name": "The One And Only",
-      "url": "https://open.spotify.com/track/04MkrjtWql5a9UTTMzB2zW"
+      "duration_ms": 190866,
+      "name": "Conscience is Heavy",
+      "url": "https://open.spotify.com/track/3kxFEgQ9piaonniyXIOXJR"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
+        "name": "St. Pauli - Einhundert",
+        "url": "https://open.spotify.com/album/0y43oaQeNBUccV41cHrBqs"
+      },
+      "artists": [
+        {
+          "name": "Dubtari",
+          "url": "https://open.spotify.com/artist/6wuEyZqdfakazd93VqO0YC"
+        }
+      ],
+      "duration_ms": 225880,
+      "name": "Forza St. Pauli",
+      "url": "https://open.spotify.com/track/1vIVckRe3c3AG8gZcmkpwJ"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
         "name": "Estacional",
         "url": "https://open.spotify.com/album/5wU8q6gfYE2aQDxTMRULGt"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 194258,
       "name": "Behin Eta Berriz",
       "url": "https://open.spotify.com/track/7aThCw2poPhq4ydLBS8Mt3"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
-        "name": "St. Pauli - Einhundert",
-        "url": "https://open.spotify.com/album/0y43oaQeNBUccV41cHrBqs"
-      },
-      "artists": [
-        {
-          "name": "Dubtari",
-          "url": "https://open.spotify.com/artist/6wuEyZqdfakazd93VqO0YC"
-        }
-      ],
-      "duration_ms": 225880,
-      "name": "Forza St. Pauli",
-      "url": "https://open.spotify.com/track/1vIVckRe3c3AG8gZcmkpwJ"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -1699,18 +1699,18 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
-        "name": "Reggae gordo for days and extra days",
-        "url": "https://open.spotify.com/album/7AaDhCvk72WXKICLHYDuHC"
+        "name": "Sound System",
+        "url": "https://open.spotify.com/album/48xJ1Xj8V4snc0am3T0SoF"
       },
       "artists": [
         {
-          "name": "Travelers All Stars",
-          "url": "https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH"
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
         }
       ],
-      "duration_ms": 232656,
-      "name": "Sweet Loneliness",
-      "url": "https://open.spotify.com/track/0CS6MtBUa48ZzYgqJaNf9F"
+      "duration_ms": 208866,
+      "name": "Rudie Can't Fail - Remastered",
+      "url": "https://open.spotify.com/track/2otV4r71lH2kMmniSmKrmG"
     }
   ],
   "unique_name": "Ska Around The Globe",

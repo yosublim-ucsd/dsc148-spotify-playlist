@@ -1,7 +1,7 @@
 {
-  "2024-04-27": 165935,
+  "2024-04-28": 165997,
   "date_first_scraped": "2022-02-24",
-  "description": "This is r&b in Canada, elevate your aura with RealestK.",
+  "description": "This is r&b in Canada, elevate your aura with PARTYNEXTDOOR.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -231,7 +231,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 157611,
       "name": "2AM",
       "url": "https://open.spotify.com/track/6lRRwsfmMLBUPiGLYTtWBb"
@@ -739,7 +739,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 147894,
       "name": "Ain't Love (feat. Cam Griff)",
       "url": "https://open.spotify.com/track/5TU32ghk2CPY2DHXxt3v5k"
@@ -1460,6 +1460,24 @@
     },
     {
       "album": {
+        "name": "Back again",
+        "url": "https://open.spotify.com/album/6pOJg2siHcAhrVAaY5h1AQ"
+      },
+      "artists": [
+        {
+          "name": "Ro Joaquim",
+          "url": "https://open.spotify.com/artist/0IQocR32Nu6gtkWFgPpXWP"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177391,
+      "name": "Back again",
+      "url": "https://open.spotify.com/track/0USH8PxSL6wci616rKMETd"
+    },
+    {
+      "album": {
         "name": "Back For More",
         "url": "https://open.spotify.com/album/1iDvvvirRGmT74hyU0AsZt"
       },
@@ -1923,7 +1941,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 219652,
       "name": "Better Care - Remix",
       "url": "https://open.spotify.com/track/0vxQhrAQYLElaXMh2EFB4l"
@@ -5308,6 +5326,24 @@
     },
     {
       "album": {
+        "name": "PARTYNEXTDOOR 4 (P4)",
+        "url": "https://open.spotify.com/album/1CTk9dG2nyaUovNIQfBzqb"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219949,
+      "name": "F o r C e r t a i n",
+      "url": "https://open.spotify.com/track/2d93r7U06Wx7uJfU2q9Nza"
+    },
+    {
+      "album": {
         "name": "Fairy Tales",
         "url": "https://open.spotify.com/album/6E6z4ShjrNh5ko5f9gGltf"
       },
@@ -7291,7 +7327,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 240199,
       "name": "Home",
       "url": "https://open.spotify.com/track/46GLmEX1HYnLADxlSQ19eg"
@@ -7994,6 +8030,24 @@
     },
     {
       "album": {
+        "name": "Impatient",
+        "url": "https://open.spotify.com/album/5ztwKgM43IMhm0Qnl3MI28"
+      },
+      "artists": [
+        {
+          "name": "Kofi",
+          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169310,
+      "name": "Impatient",
+      "url": "https://open.spotify.com/track/2LnADQWYzH6LWSsylwpmFE"
+    },
+    {
+      "album": {
         "name": "In 2 Deep",
         "url": "https://open.spotify.com/album/6F18TbI5mO5bvhJK0T9Am8"
       },
@@ -8423,7 +8477,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 190249,
       "name": "James",
       "url": "https://open.spotify.com/track/2GrfoVdCzkpPx9lRQeyqxV"
@@ -9721,7 +9775,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 222874,
       "name": "Little Nothings",
       "url": "https://open.spotify.com/track/5JseEHJMBE2kRk2vXAaAMv"
@@ -9787,6 +9841,24 @@
       "duration_ms": 209522,
       "name": "Look Mom I'm a Superhero",
       "url": "https://open.spotify.com/track/7sLRMErDPsf3nZOo9kyyqR"
+    },
+    {
+      "album": {
+        "name": "Lookin 4 Luv",
+        "url": "https://open.spotify.com/album/1XX2pRXIEYuPBOpJCXwpX4"
+      },
+      "artists": [
+        {
+          "name": "143",
+          "url": "https://open.spotify.com/artist/15MRvQvlbwPUY8C1QcgJA2"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Lookin 4 Luv",
+      "url": "https://open.spotify.com/track/0w8frTqcFHkww3c5aD1U0b"
     },
     {
       "album": {
@@ -12808,6 +12880,24 @@
     },
     {
       "album": {
+        "name": "PA' MIII",
+        "url": "https://open.spotify.com/album/12oMzGU9cKI6PUQ6pMZCQO"
+      },
+      "artists": [
+        {
+          "name": "BEBEBOY",
+          "url": "https://open.spotify.com/artist/3hBijYmf6uAE6PKfL9CNLk"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "PA' MIII",
+      "url": "https://open.spotify.com/track/0wc8KfnYIm9jgVt4qNZCiB"
+    },
+    {
+      "album": {
         "name": "Pain, no Percocet",
         "url": "https://open.spotify.com/album/21NMZv3MRj4nw6O75v5hha"
       },
@@ -13520,6 +13610,24 @@
     },
     {
       "album": {
+        "name": "Problematic",
+        "url": "https://open.spotify.com/album/2qeuH5GuV4fIct3EJbRTLI"
+      },
+      "artists": [
+        {
+          "name": "Jesse Gold",
+          "url": "https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183756,
+      "name": "Problematic",
+      "url": "https://open.spotify.com/track/4HYN77KVznXYhcnZ1dHH6W"
+    },
+    {
+      "album": {
         "name": "Problems",
         "url": "https://open.spotify.com/album/40S0gntyleAVBjXNEU2VnO"
       },
@@ -13597,7 +13705,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 141375,
       "name": "Pusha Baby",
       "url": "https://open.spotify.com/track/2C8PDog5rQmuepQbjxkWpL"
@@ -13695,7 +13803,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 194733,
       "name": "R e a l W o m a n",
       "url": "https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na"
@@ -14521,6 +14629,24 @@
       "duration_ms": 189850,
       "name": "SEALED",
       "url": "https://open.spotify.com/track/7LZBJUhtBnubzkZe7Fmw2F"
+    },
+    {
+      "album": {
+        "name": "Seep",
+        "url": "https://open.spotify.com/album/6IHXPoyWj6xN9zdYsSRLN1"
+      },
+      "artists": [
+        {
+          "name": "Basil Phoenix",
+          "url": "https://open.spotify.com/artist/1XMew7HvkGNxubNoM1u3sV"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160740,
+      "name": "Seep",
+      "url": "https://open.spotify.com/track/5aYJGkWXnEiQ92hkUIQ90O"
     },
     {
       "album": {
@@ -17661,6 +17787,24 @@
       "duration_ms": 166606,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/1Grh4X8eihc9q0UhkfjBos"
+    },
+    {
+      "album": {
+        "name": "Too Much",
+        "url": "https://open.spotify.com/album/6CmIJH0MkG7DDKqMAx1LJc"
+      },
+      "artists": [
+        {
+          "name": "UNA MIA",
+          "url": "https://open.spotify.com/artist/0wWj7u5D7ksVZp8qVuCuz0"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116571,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/4rNGlfs2wLQugYTiZhEsIv"
     },
     {
       "album": {

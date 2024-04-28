@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 27041,
+  "2024-04-28": 27034,
   "date_first_scraped": "2022-06-10",
   "description": "This is \u6c34\u6a39\u5948\u3005. The essential tracks, all in one playlist.",
   "name": "This Is \u6c34\u6a39\u5948\u3005",
@@ -1461,7 +1461,7 @@
       ],
       "date_added": "2023-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 271413,
       "name": "\u30b5\u30fc\u30c1\u30e9\u30a4\u30c8",
       "url": "https://open.spotify.com/track/4XuY9Y3Z7qgwU2XF05OsFH"
@@ -1573,6 +1573,24 @@
       "duration_ms": 237840,
       "name": "\u30ec\u30a4\u30b8\u30fc\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
       "url": "https://open.spotify.com/track/3xuoTY7rAvOXWlHgoAZNdv"
+    },
+    {
+      "album": {
+        "name": "ADRENALIZED",
+        "url": "https://open.spotify.com/album/5YJyrGRr8FE3IRZdaTG94T"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2024-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240689,
+      "name": "\u512a\u3057\u3044\u8a18\u61b6",
+      "url": "https://open.spotify.com/track/7aflYr5Lp48MPWH5BTWfiL"
     },
     {
       "album": {

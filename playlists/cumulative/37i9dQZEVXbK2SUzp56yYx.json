@@ -674,7 +674,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 253779,
       "name": "Dolietawscheicht",
       "url": "https://open.spotify.com/track/2Iscp4pc9gVzwIZB38Dvfv"
@@ -2128,7 +2128,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 74697,
       "name": "MAKE UP (FBL)",
       "url": "https://open.spotify.com/track/6KYhmIY3N11aSweAZdZwDs"
@@ -2468,7 +2468,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 176640,
       "name": "My Love",
       "url": "https://open.spotify.com/track/4Evcu6xrP51SegvcBCJCQo"
@@ -2577,6 +2577,24 @@
     },
     {
       "album": {
+        "name": "Nite",
+        "url": "https://open.spotify.com/album/2MkDqSSfJj93s7gulE3jk5"
+      },
+      "artists": [
+        {
+          "name": "ELVEN DIOR",
+          "url": "https://open.spotify.com/artist/23zYsCtsJGcPB3obepBSm5"
+        }
+      ],
+      "date_added": "2024-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98414,
+      "name": "Nite",
+      "url": "https://open.spotify.com/track/3KPDkH6pan0T9XuBgTipdA"
+    },
+    {
+      "album": {
         "name": "NITE",
         "url": "https://open.spotify.com/album/73U0xHmd1hwLU7TYBCX52n"
       },
@@ -2588,7 +2606,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 98414,
       "name": "NITE",
       "url": "https://open.spotify.com/track/3qkeYh3Con4SDWIFw3DiFW"
@@ -3491,6 +3509,24 @@
     },
     {
       "album": {
+        "name": "The Lost Soul Down Floki",
+        "url": "https://open.spotify.com/album/7r2yzs8YWp4MuwRHn61UCp"
+      },
+      "artists": [
+        {
+          "name": "nslvr",
+          "url": "https://open.spotify.com/artist/4iZ6N1rbjZ4zC0kMguM3YD"
+        }
+      ],
+      "date_added": "2024-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150099,
+      "name": "The Lost Soul Down Floki",
+      "url": "https://open.spotify.com/track/03CPw0mSdAPaso8i0SqcoM"
+    },
+    {
+      "album": {
         "name": "The Lost Soul Down x Floki",
         "url": "https://open.spotify.com/album/6ENIspfJ5KHvySTIp3trBn"
       },
@@ -3874,7 +3910,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 155480,
       "name": "We Fell Apart - Slowed",
       "url": "https://open.spotify.com/track/4oExAGoqR0JWK628dYaQ2f"
@@ -4574,6 +4610,24 @@
       "duration_ms": 177857,
       "name": "\u0413\u0434\u0435-\u0442\u043e \u0442\u0430\u043c",
       "url": "https://open.spotify.com/track/1lqDxWIWoeNQ0BjNjY85z7"
+    },
+    {
+      "album": {
+        "name": "\u0413\u043b\u044e\u043a\u043e\u0437\u0430 \u041d\u043e\u0441\u0442\u0440\u0430",
+        "url": "https://open.spotify.com/album/0mr7oAApmuDmDf5aZ9NtH9"
+      },
+      "artists": [
+        {
+          "name": "Glukoza",
+          "url": "https://open.spotify.com/artist/5m6ztlqoj7ZjS1NybWbned"
+        }
+      ],
+      "date_added": "2024-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196675,
+      "name": "\u0413\u043b\u044e\u043a \u043eza nostra",
+      "url": "https://open.spotify.com/track/4NG9UtpN0ssioSH6SQ7tjY"
     },
     {
       "album": {
@@ -6716,10 +6770,36 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 136800,
       "name": "\u042f \u0442\u0430\u043a \u043e\u0431\u043e\u0436\u0430\u044e",
       "url": "https://open.spotify.com/track/56cpeTsQ0VR0K6Wh74u1vm"
+    },
+    {
+      "album": {
+        "name": "JUMPSTYLE IN MY VEIN",
+        "url": "https://open.spotify.com/album/6ELvsUzBECkEgLINe1TAs9"
+      },
+      "artists": [
+        {
+          "name": "Dayerteq",
+          "url": "https://open.spotify.com/artist/1fmBphPpwm9K2udLEXPXsd"
+        },
+        {
+          "name": "5mewmet",
+          "url": "https://open.spotify.com/artist/6M09SBwYD0F13PjIavxbih"
+        },
+        {
+          "name": "dj trippie flameboy",
+          "url": "https://open.spotify.com/artist/6ZCCg68X6ipm9D5VbvWK7k"
+        }
+      ],
+      "date_added": "2024-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136800,
+      "name": "\u042f \u0442\u0430\u043a \u043e\u0431\u043e\u0436\u0430\u044e",
+      "url": "https://open.spotify.com/track/6BDDA2bRZv1HiEVqFpFKE7"
     },
     {
       "album": {

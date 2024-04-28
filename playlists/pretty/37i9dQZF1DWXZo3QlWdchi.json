@@ -1,6 +1,6 @@
 {
   "description": "O melhor do rock ac\u00fastico nacional e internacional para curtir e relaxar.",
-  "num_followers": 301237,
+  "num_followers": 301288,
   "original_name": "Rock Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-04-19 19:00:01",
       "album": {
+        "name": "Big Jet Plane (Acoustic)",
+        "url": "https://open.spotify.com/album/1fTbvUUJNJ1LiX4C0akX9e"
+      },
+      "artists": [
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "duration_ms": 149516,
+      "name": "Big Jet Plane - Acoustic",
+      "url": "https://open.spotify.com/track/4ZHJU9kCqZK6a39YXIZFxc"
+    },
+    {
+      "added_at": "2024-04-19 19:00:01",
+      "album": {
         "name": "Follow Me Around",
         "url": "https://open.spotify.com/album/2vTAZfcTyauC6ZG29d6yB5"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 174125,
       "name": "Can You Hear Me - Acoustic",
       "url": "https://open.spotify.com/track/1G05yZ8DZmh8V0pm58XsqZ"
-    },
-    {
-      "added_at": "2024-04-19 19:00:01",
-      "album": {
-        "name": "Big Jet Plane (Acoustic)",
-        "url": "https://open.spotify.com/album/1fTbvUUJNJ1LiX4C0akX9e"
-      },
-      "artists": [
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        }
-      ],
-      "duration_ms": 149516,
-      "name": "Big Jet Plane - Acoustic",
-      "url": "https://open.spotify.com/track/4ZHJU9kCqZK6a39YXIZFxc"
     },
     {
       "added_at": "2024-04-19 19:00:01",

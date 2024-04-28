@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 52920,
+  "2024-04-28": 52948,
   "date_first_scraped": "2022-10-02",
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/stevenvictor/\">Steven Victor</a>",
   "name": "Steven Victor's Taste",
@@ -39,7 +39,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 242506,
       "name": "All I Ever Wanted",
       "url": "https://open.spotify.com/track/4TqAoRSW8kOKfO4y5R0GLy"
@@ -737,7 +737,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-22",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "No Smoke",
       "url": "https://open.spotify.com/track/57IRaiAB4hBZu3gnNVZC0v"

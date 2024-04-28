@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 164816,
+  "2024-04-28": 164841,
   "date_first_scraped": "2022-05-23",
   "description": "The new school of M\u00fasica Mexicana. Cover: Nivel",
   "name": "M\u00fasica Mexicana Rising",
@@ -2258,6 +2258,24 @@
     },
     {
       "album": {
+        "name": "Champa\u00f1a",
+        "url": "https://open.spotify.com/album/7wMg7J25ImjQtdPaP7rppX"
+      },
+      "artists": [
+        {
+          "name": "Christian Lara",
+          "url": "https://open.spotify.com/artist/0eptefgBKrNB6UAZvrX9c5"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183943,
+      "name": "Champa\u00f1a",
+      "url": "https://open.spotify.com/track/2tnz8BRB2fML2Hu9dgVDts"
+    },
+    {
+      "album": {
         "name": "CHL",
         "url": "https://open.spotify.com/album/6HL59QKpAt23ltOCif4QPW"
       },
@@ -2639,6 +2657,24 @@
       "duration_ms": 193568,
       "name": "Coraz\u00f3n de Piedra",
       "url": "https://open.spotify.com/track/0dEAiKNbHt4mrjjoiL0loc"
+    },
+    {
+      "album": {
+        "name": "Coraz\u00f3n Fr\u00edo",
+        "url": "https://open.spotify.com/album/0vPSRt2hb0XGXiex5vzmeI"
+      },
+      "artists": [
+        {
+          "name": "EKA Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/2MQX75uFpikBt6HtJeBJaE"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212674,
+      "name": "Coraz\u00f3n Fr\u00edo",
+      "url": "https://open.spotify.com/track/02j9DOZREexcJgF6B1hKVc"
     },
     {
       "album": {
@@ -5124,6 +5160,24 @@
     },
     {
       "album": {
+        "name": "En Mi Mente 24/7",
+        "url": "https://open.spotify.com/album/4TDAzblMqPwBtkEMbs3dCo"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Garcia",
+          "url": "https://open.spotify.com/artist/7qqYlhGMuHBRqjQ3ly1oHl"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235161,
+      "name": "En Mi Mente 24/7",
+      "url": "https://open.spotify.com/track/0PmEIPY3MNUMyYp2P74msY"
+    },
+    {
+      "album": {
         "name": "Renacido",
         "url": "https://open.spotify.com/album/69smyPeNaxRkiBahOoKNLo"
       },
@@ -5601,7 +5655,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 164346,
       "name": "Estos Tragos Van Por Ti",
       "url": "https://open.spotify.com/track/6QmMlo0DoQdnHFqmLV3wvm"
@@ -5623,7 +5677,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 143076,
       "name": "Estoy Bendecido",
       "url": "https://open.spotify.com/track/3noUFvMgvQuAr3Gw5RiwXi"
@@ -5641,7 +5695,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 135769,
       "name": "Estoy De Buenas",
       "url": "https://open.spotify.com/track/3ahvUUFTrNI5zNMmLfgHJQ"
@@ -5681,7 +5735,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 179933,
       "name": "Ex De Verdad",
       "url": "https://open.spotify.com/track/48ijjRNk7QxR8c9HEs9Tne"
@@ -9167,7 +9221,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 126365,
       "name": "Miro La Luna",
       "url": "https://open.spotify.com/track/0RsVM5ATSvbtpB0naldCXp"
@@ -11001,6 +11055,28 @@
       "duration_ms": 204039,
       "name": "Piensa En Mi",
       "url": "https://open.spotify.com/track/2JSmFHR2FpruHXgF5udA1l"
+    },
+    {
+      "album": {
+        "name": "Pienso En Ti",
+        "url": "https://open.spotify.com/album/1KZLIoIoqSda8Fq0lJCYMt"
+      },
+      "artists": [
+        {
+          "name": "Dariell Cano",
+          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
+        },
+        {
+          "name": "EddyJae",
+          "url": "https://open.spotify.com/artist/4Y3PiJvvVpPTauaS9Bzpfp"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155026,
+      "name": "Pienso En Ti",
+      "url": "https://open.spotify.com/track/77gaVs2YIdkNxsX4QOAr89"
     },
     {
       "album": {
@@ -13587,6 +13663,24 @@
       "duration_ms": 183040,
       "name": "Todo Termin\u00f3",
       "url": "https://open.spotify.com/track/0RrN2Vm2FXGhZQZRiFnG0U"
+    },
+    {
+      "album": {
+        "name": "Tomando",
+        "url": "https://open.spotify.com/album/1f8bw9BkGoBWH0eHFHI0b2"
+      },
+      "artists": [
+        {
+          "name": "Officialalex425",
+          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199536,
+      "name": "Tomando",
+      "url": "https://open.spotify.com/track/1CGht82S5X0ZZiEqDaFdGI"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: Laurie Berkner
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,181 likes - 165 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,250 likes - 165 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 28 | [Let It Roll \- From "The Garfield Movie"](https://open.spotify.com/track/2sEY3b8G71YuHxlu5XWJMN) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Let It Roll \(From "The Garfield Movie"\)](https://open.spotify.com/album/4NpZf8CeLUEZ22RZYfwluT) | 2:43 |
 | 29 | [Roar](https://open.spotify.com/track/3uSkMumeDPJtIrXVIBJVqY) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [Roar](https://open.spotify.com/album/1z3S0gdCbTfQawClHMHTQ5) | 3:38 |
 | 30 | [Lose Control](https://open.spotify.com/track/5QhVuThB74lRLXOYUfyPjS) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Lose Control](https://open.spotify.com/album/0Uk9GsS4sbh7yvTECaMnti) | 3:10 |
-| 31 | [Equestria Girls \(Cafeteria Song\) \- hyperpop remix \[DJ Pon\-3's Version\]](https://open.spotify.com/track/45Sf1KIaTrumntl36nV8Qe) | [DJ Pon\-3](https://open.spotify.com/artist/6Oi2Qrnn3uBHiQgNZk9qen), [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [Equestria Girls \(Cafeteria Song\) \- hyperpop remix \[DJ Pon\-3's Version\]](https://open.spotify.com/album/4iYo93eRPtEJKQGBovj4ys) | 2:14 |
+| 31 | [Equestria Girls \(Cafeteria Song\) \- hyperpop remix \[DJ Pon\-3's Version\]](https://open.spotify.com/track/45Sf1KIaTrumntl36nV8Qe) | [DJ Pon\-3](https://open.spotify.com/artist/6Oi2Qrnn3uBHiQgNZk9qen), [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM), [Chelsea Grams](https://open.spotify.com/artist/4dqBboOXyDaQv2d70dWlcH) | [Equestria Girls \(Cafeteria Song\) \- hyperpop remix \(DJ Pon\-3's Version\)](https://open.spotify.com/album/4iYo93eRPtEJKQGBovj4ys) | 2:14 |
 | 32 | [DORA \- Official Theme Song](https://open.spotify.com/track/4JonSsKEXsSukG5wAOieEw) | [Dora The Explorer](https://open.spotify.com/artist/4zMssRZ6iG7sJm54RwFozt), [Nick Jr.](https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC) | [DORA \(Official Theme Song\)](https://open.spotify.com/album/4pBGVll4G2uyVjEtX6pQSr) | 0:31 |
 | 33 | [10 In The Bed \(Roll Over\)](https://open.spotify.com/track/0JMGdZigXqHJ1kiHtWKGFk) | [Jools TV](https://open.spotify.com/artist/7ssReBmPT2Ls9U8lAHTSJN) | [10 In The Bed \(Roll Over\)](https://open.spotify.com/album/0piivjD8vMJps0eZI8PbHZ) | 2:46 |
 | 34 | [Until We Meet Again](https://open.spotify.com/track/33FDL5RB2mDnVnSCOAuUWG) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Until We Meet Again](https://open.spotify.com/album/5Oua50zMy3OcjFo76evedh) | 2:45 |

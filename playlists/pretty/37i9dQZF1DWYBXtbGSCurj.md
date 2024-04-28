@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Nagalli, MC Cabelinho, Tz da Coronel
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,536 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,499 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 39 | [Cyberpunk](https://open.spotify.com/track/79kpDaVsQQUKRKYaLVsBbK) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d) | [Cyberpunk](https://open.spotify.com/album/37tMfPWBrcGJFtzQ5U35Lq) | 1:52 |
 | 40 | [Vida De Luxo](https://open.spotify.com/track/4DF04VQKpyZZ1lwVjmPEGv) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td) | [Vida De Luxo](https://open.spotify.com/album/1R5aLSOxAFe9hSN0S6WcsH) | 3:33 |
 | 41 | [Sexta Hoje é Aonde](https://open.spotify.com/track/4Wb7GrhDbaxh2RtuOUWQUT) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH), [JayA Luuck](https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp) | [Sexta Hoje é Aonde](https://open.spotify.com/album/7wd8kuw1VcxkR7GwbA65nK) | 3:10 |
-| 42 | [Das Esquinas ao Sucesso](https://open.spotify.com/track/4B0UfZP9tDHKtYWjNZKzVQ) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Castelobeats](https://open.spotify.com/artist/3no8LdgnzjumzHIyoZGWEC) | [Melhor Momento, Pt\. 2](https://open.spotify.com/album/619zQs32QIXwHb1Vt9pcYh) | 2:44 |
+| 42 | [Das Esquinas ao Sucesso](https://open.spotify.com/track/4B0UfZP9tDHKtYWjNZKzVQ) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Castelobeats](https://open.spotify.com/artist/3no8LdgnzjumzHIyoZGWEC), [JP Diazz](https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd) | [Melhor Momento, Pt\. 2](https://open.spotify.com/album/619zQs32QIXwHb1Vt9pcYh) | 2:44 |
 | 43 | [Lenda](https://open.spotify.com/track/6XSTDJMW7yUr4Zuzyr4Ht6) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [TkN](https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS), [Mindu](https://open.spotify.com/artist/3shZdnoMWegcOdZUPuMXhB) | [Amor e Ódio](https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt) | 3:12 |
 | 44 | [FOTO COM A MÃO NA CARA](https://open.spotify.com/track/4ytmt0CIuCxKPZjXVqWVfO) | [tchelo rodrigues](https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY), [retroboy](https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY), [EAGD](https://open.spotify.com/artist/3DQWLv2DfidEeP4967gDxN) | [FOTO COM A MÃO NA CARA](https://open.spotify.com/album/3tKGHbnkMLWjXAbxjQSK1A) | 2:47 |
 | 45 | [Na Minha Blunt](https://open.spotify.com/track/22c34TVqA1nkCZrjtPLjmJ) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD), [Ayo Th](https://open.spotify.com/artist/5peXkFS2EUmRp7Llv7yDty), [MATHINVOKER](https://open.spotify.com/artist/69o8iufFnvKcM2HcURIkbc), [6ee](https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW) | [Na Minha Blunt](https://open.spotify.com/album/57lNHVtrf0nAijRYg9KRdp) | 2:50 |

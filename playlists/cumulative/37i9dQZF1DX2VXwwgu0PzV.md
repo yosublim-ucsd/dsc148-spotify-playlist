@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: <a href="https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH?si=ENaBkn\_wRUCwimkNZWMhNg">CalledOut Music</a>
 
-653 songs - 1 day 13 hr 34 min
+654 songs - 1 day 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [Hallelujah](https://open.spotify.com/track/56EaWv1kzi23HnfSo75UhI) | [JhonforChrist](https://open.spotify.com/artist/3nuMqFQqdHeM5cldILRXDR), [Trap kidD](https://open.spotify.com/artist/4x838LSk1feGWHkksPlrMw), [Odianose](https://open.spotify.com/artist/7lTDouO7ug3ETSmO5QnAnG) | [Hallelujah](https://open.spotify.com/album/7tefRTzQJ1IHqDHWJVjiy9) | 2:51 | 2023-07-07 | 2023-08-04 |
 | [Hallelujah](https://open.spotify.com/track/3tdhECgfhN1EQyd6hkxcp2) | [Jperfect](https://open.spotify.com/artist/67faG5P3PzTdoJBKGo2ke3) | [Hallelujah](https://open.spotify.com/album/5mh7o03qkHai2HtNSMHWpZ) | 2:41 | 2023-07-07 | 2023-07-28 |
 | [HALLELUJAH](https://open.spotify.com/track/2qBYHbmwGdn6aEMDc9xmha) | [LC Beatz](https://open.spotify.com/artist/5XkBrq2jCva8S9IKRphUVi), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [HALLELUJAH](https://open.spotify.com/album/3lC2Nhs1VxXn4QubjCQqea) | 2:16 | 2023-10-06 | 2023-11-17 |
+| [Hallelujah](https://open.spotify.com/track/3FqpxUbn5Glawznnl9caTu) | [Mairos](https://open.spotify.com/artist/6magWqKDY1pnK2maOgtH6s), [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy), [WINNER WAYS.](https://open.spotify.com/artist/29L1pzmDzW3P2FmQBovIFK) | [Hallelujah](https://open.spotify.com/album/5XGwrJRQsdJDppW2j1anx6) | 3:17 | 2024-04-27 |  |
 | [Hallelujah](https://open.spotify.com/track/6pXorO2CZafIRSeVazMMV3) | [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h), [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Jesus is Here, Jaga Is Here](https://open.spotify.com/album/0h5i3MPwttSdQ2p559tCfK) | 4:47 | 2023-10-06 | 2023-11-17 |
 | [Hallelujah \(Me Re Jirie\) \[feat\. Godwin Adams & Justina\]](https://open.spotify.com/track/4NkTMo4kZK5nM42y3CBaNE) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0), [Godwin Adams](https://open.spotify.com/artist/74p8vyUHFNVCV240Gam4O6), [Justina](https://open.spotify.com/artist/1WaCguNeKSENLLlSd0vSVR) | [Hallelujah \(Me Re Jirie\) \[feat\. Godwin Adams & Justina\]](https://open.spotify.com/album/3TmMKKwbfKRBqXBYJ2IKMA) | 10:28 | 2023-04-21 | 2023-05-26 |
 | [Hallelujah No Go Finish](https://open.spotify.com/track/3QcdowCpxpL3uhqcyM1Ayq) | [Freke Umoh](https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh) | [Hallelujah No Go Finish](https://open.spotify.com/album/3tnchDrtOufIOADCEphN3q) | 4:10 | 2023-04-07 | 2023-06-16 |

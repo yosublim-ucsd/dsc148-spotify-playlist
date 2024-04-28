@@ -1,6 +1,6 @@
 {
   "description": "The biggest dance floor bangers of the 2000s.",
-  "num_followers": 483364,
+  "num_followers": 483820,
   "original_name": "Dance Hits 2000s",
   "owner": {
     "name": "Spotify",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/5BIDwo7ClpVhC031QNKTuY"
-      },
-      "artists": [
-        {
-          "name": "Cascada",
-          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
-        }
-      ],
-      "duration_ms": 191843,
-      "name": "Bad Boy",
-      "url": "https://open.spotify.com/track/4preSlFr0bYsRHm9WxAcE9"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "LOL (International version)",
         "url": "https://open.spotify.com/album/4cHjA2C6N5h5rIKQYojMLU"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 207066,
       "name": "Boten Anna - Radio edit",
       "url": "https://open.spotify.com/track/1Y73xpxMMWInxiAHG6INCK"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/5BIDwo7ClpVhC031QNKTuY"
+      },
+      "artists": [
+        {
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+        }
+      ],
+      "duration_ms": 191843,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/4preSlFr0bYsRHm9WxAcE9"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1599,6 +1599,34 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Good Girl Gone Bad: The Remixes",
+        "url": "https://open.spotify.com/album/6nT2WJS6WHH86XRgkSK8yC"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Seamus Haji",
+          "url": "https://open.spotify.com/artist/2f6jGbE8VU74rb5AQtOdFz"
+        },
+        {
+          "name": "Paul Emanuel",
+          "url": "https://open.spotify.com/artist/2JkHlHHNPSd8VcZMWRY301"
+        }
+      ],
+      "duration_ms": 238240,
+      "name": "Umbrella - Seamus Haji & Paul Emanuel",
+      "url": "https://open.spotify.com/track/2b15tXMkdnrTVmTxktq7Tq"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Rock This Party (Everybody Dance Now)",
         "url": "https://open.spotify.com/album/0FoptdZTKSUm6JU99XVKhO"
       },
@@ -1627,34 +1655,6 @@
       "duration_ms": 245466,
       "name": "Rock This Party - Everybody Dance Now",
       "url": "https://open.spotify.com/track/0Qn0i8df7Q76ej3RAXAtI2"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Good Girl Gone Bad: The Remixes",
-        "url": "https://open.spotify.com/album/6nT2WJS6WHH86XRgkSK8yC"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Seamus Haji",
-          "url": "https://open.spotify.com/artist/2f6jGbE8VU74rb5AQtOdFz"
-        },
-        {
-          "name": "Paul Emanuel",
-          "url": "https://open.spotify.com/artist/2JkHlHHNPSd8VcZMWRY301"
-        }
-      ],
-      "duration_ms": 238240,
-      "name": "Umbrella - Seamus Haji & Paul Emanuel",
-      "url": "https://open.spotify.com/track/2b15tXMkdnrTVmTxktq7Tq"
     },
     {
       "added_at": "2021-04-29 18:40:15",

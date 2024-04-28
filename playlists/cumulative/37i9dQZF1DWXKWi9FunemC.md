@@ -4,7 +4,7 @@
 
 > Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.
 
-185 songs - 13 hr 24 min
+186 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Home \(GCM Sinai Sessions\) \- Live](https://open.spotify.com/track/38hnWg98FJs2UyoS5ZZOuS) | [WYLD](https://open.spotify.com/artist/5Rw6396SuRpo6CRSLrZzKt), [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Home \(GCM Sinai Sessions\) \[Live\]](https://open.spotify.com/album/2TYqeiGEssIYWmOFN1qx6s) | 4:10 | 2020-08-31 | 2022-07-23 |
 | [Home \(GCM Sinai Sessions\) \[feat\. Jonathan Ogden\]](https://open.spotify.com/track/6LwwzwWaRfRkDjFAIUxtCS) | [WYLD](https://open.spotify.com/artist/5Rw6396SuRpo6CRSLrZzKt), [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Home \(GCM Sinai Sessions\) \[feat\. Jonathan Ogden\]](https://open.spotify.com/album/4iwQhf1wykHLNxnTJ9aQfi) | 4:10 | 2020-08-31 | 2024-04-19 |
 | [Home \- Acoustic](https://open.spotify.com/track/5s5PmLUIIfh2glhkoBF0aS) | [London Gatch](https://open.spotify.com/artist/50l42yX9ACfwA0plxFO0Ah) | [Home](https://open.spotify.com/album/6PPK6jGfdlNYfsH9jt4YZh) | 6:30 | 2020-08-31 | 2024-04-19 |
-| [How Can I](https://open.spotify.com/track/3awgBVx3iWd3Y2lxhDzaZv) | [Senna](https://open.spotify.com/artist/052ZztbHMDTofTKgYI2Y2K) | [How Can I](https://open.spotify.com/album/2tfpzRnVgGRBzbZiydB3jM) | 4:34 | 2020-08-31 |  |
+| [How Can I](https://open.spotify.com/track/3awgBVx3iWd3Y2lxhDzaZv) | [Senna](https://open.spotify.com/artist/052ZztbHMDTofTKgYI2Y2K) | [How Can I](https://open.spotify.com/album/2tfpzRnVgGRBzbZiydB3jM) | 4:34 | 2020-08-31 | 2024-04-28 |
 | [how great thou art](https://open.spotify.com/track/7utnfGm43yniXcoW9Btz5R) | [the quiet hours](https://open.spotify.com/artist/3yQPMxOkCUCB78X2Gcj7aT), [Andrew Osenga](https://open.spotify.com/artist/1lJC5MbTUW5ld4yXzNB0H4) | [25th floor of a reservation casino](https://open.spotify.com/album/2Tqb3XASaRS2WSxjzDrYQF) | 4:32 | 2023-07-28 |  |
 | [I can always find You](https://open.spotify.com/track/4V2rRHpWP0cH2GwsSe3aqg) | [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [I can always find You](https://open.spotify.com/album/3xuqtlVGECSJnRvvo94pge) | 3:46 | 2023-07-28 |  |
 | [I Could Sing Of Your Love Forever](https://open.spotify.com/track/4wXh7qz12O9DiMQHGATKv1) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [Throne Room](https://open.spotify.com/album/2buktwWoAIGQCPgDa11Cvt) | 3:56 | 2023-07-28 | 2024-04-19 |
@@ -119,6 +119,7 @@
 | [New Song \(Psalm 40\)](https://open.spotify.com/track/5nCSaFxaoliN2NyUtFQOUU) | [The Dodds](https://open.spotify.com/artist/19PhCtCPPzv4CCepliG4hl) | [New Song \(Psalm 40\)](https://open.spotify.com/album/5SKIaSs8T7xHbPAfQMBvaY) | 4:14 | 2020-08-31 |  |
 | [Not Finished Yet](https://open.spotify.com/track/48LaNGUAT0JmYdqSGAN6Bi) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Let the Ground Rest](https://open.spotify.com/album/67cPtLz0jVSsGHWLiIMip7) | 3:52 | 2020-08-31 | 2024-04-19 |
 | [Not Finished Yet](https://open.spotify.com/track/7zm8o8n8g0e1eVDWRGj0Ff) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Let The Ground Rest](https://open.spotify.com/album/0HqdkOBWLtdPRUxfdVxL9c) | 3:52 | 2020-08-31 | 2022-07-29 |
+| [Not in a Hurry \- Reimagined](https://open.spotify.com/track/2xrCrLzMb2tfWISosDOqqX) | [GONZO HERNAN](https://open.spotify.com/artist/3vHvxRyq0vUmEqix9UR1TX), [Amen Worldwide](https://open.spotify.com/artist/6Mu547AIaCO3QiD1N2ZfKU), [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1), [melo](https://open.spotify.com/artist/62KIJc6PBdiVdq7wI7msko) | [Not in a Hurry \(Reimagined\)](https://open.spotify.com/album/6HZtVgDAvqdpbC1KCwwFlK) | 4:14 | 2023-07-28 |  |
 | [Now I See](https://open.spotify.com/track/66SLmhCxmoFG8DUgBFv572) | [The McClures](https://open.spotify.com/artist/5lI2VDVbI989t1YHEFhGyI), [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya) | [Now I See](https://open.spotify.com/album/3ag0IZGy6XuaBQPA4fH3V3) | 4:03 | 2020-08-31 |  |
 | [O Rock Eternal](https://open.spotify.com/track/5jESluIHyWKrA6DNA9HuUH) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [The Narrow Sea](https://open.spotify.com/album/6sYxNRjg8MYDCdkDT1BfM8) | 5:13 | 2020-08-31 |  |
 | [Obey](https://open.spotify.com/track/7hRadFcj5kcgS9PkWV1wce) | [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [Obey / Hidden Here](https://open.spotify.com/album/6HEZcwsH3hTAfEYwC2DqXg) | 3:55 | 2023-07-28 |  |

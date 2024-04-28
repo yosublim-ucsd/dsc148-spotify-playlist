@@ -1,12 +1,12 @@
 {
   "description": "This Is Liran' Roll. Los temas esenciales, todos en una lista.",
-  "num_followers": 31284,
+  "num_followers": 31291,
   "original_name": "This Is Liran' Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDAwMzIwMCwwMDAwMDAwMDhjYmUxZmMyOTk3MmYyNzc1NjQ3MDhmODNhZTE0Mzgy",
+  "snapshot_id": "MTcxNDA4OTYwMCwwMDAwMDAwMDcwM2IzMGM3MGY1YzA1NmJkNjg5OGRhZjcyMTk4ZmQ2",
   "tracks": [
     {
       "added_at": null,
@@ -123,7 +123,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quiero Cambiar (Remastered)",
+        "name": "Quiero Cambiar (Remastered 2000)",
         "url": "https://open.spotify.com/album/4Bl52OEsKDB2zcYIrakJVy"
       },
       "artists": [
@@ -133,7 +133,7 @@
         }
       ],
       "duration_ms": 193700,
-      "name": "Quiero Cambiar - Remastered",
+      "name": "Quiero Cambiar - Remastered 2000",
       "url": "https://open.spotify.com/track/1sO2DqYJGiX5Gy6Jl4bCnx"
     },
     {
@@ -187,7 +187,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quiero Cambiar (Remastered)",
+        "name": "Quiero Cambiar (Remastered 2000)",
         "url": "https://open.spotify.com/album/4Bl52OEsKDB2zcYIrakJVy"
       },
       "artists": [
@@ -197,7 +197,7 @@
         }
       ],
       "duration_ms": 418795,
-      "name": "Barco Azul - Remastered",
+      "name": "Barco Azul - Remastered 2000",
       "url": "https://open.spotify.com/track/3g30HfhfhNzSem6XEaljXy"
     },
     {
@@ -251,7 +251,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quiero Cambiar (Remastered)",
+        "name": "Quiero Cambiar (Remastered 2000)",
         "url": "https://open.spotify.com/album/4Bl52OEsKDB2zcYIrakJVy"
       },
       "artists": [
@@ -261,7 +261,7 @@
         }
       ],
       "duration_ms": 311379,
-      "name": "Se Acabo - Remastered",
+      "name": "Se Acabo - Remastered 2000",
       "url": "https://open.spotify.com/track/4f1HgE54tbid4JMaEYvqkS"
     },
     {
@@ -323,7 +323,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quiero Cambiar (Remastered)",
+        "name": "Quiero Cambiar (Remastered 2000)",
         "url": "https://open.spotify.com/album/4Bl52OEsKDB2zcYIrakJVy"
       },
       "artists": [
@@ -333,7 +333,7 @@
         }
       ],
       "duration_ms": 213809,
-      "name": "La Vida Es Corta - Remastered",
+      "name": "La Vida Es Corta - Remastered 2000",
       "url": "https://open.spotify.com/track/6GP0NwjA95OGQiwIbmen36"
     },
     {
@@ -467,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Disco de Aniversario",
-        "url": "https://open.spotify.com/album/2B06d9gCFyAoSQdjtqVbwc"
+        "name": "Siguiendo La L\u00ednea",
+        "url": "https://open.spotify.com/album/2F9AobKP2HSigLELWeu9Jg"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
         }
       ],
-      "duration_ms": 234057,
-      "name": "Ni\u00f1os de la Calle",
-      "url": "https://open.spotify.com/track/5BqUNhd6Ok2SxZsgCzaCsT"
+      "duration_ms": 254615,
+      "name": "Sin Tu Latido",
+      "url": "https://open.spotify.com/track/3xTzTsTFx3MGWk9Bg6Yr4g"
     },
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siguiendo La L\u00ednea",
-        "url": "https://open.spotify.com/album/2F9AobKP2HSigLELWeu9Jg"
+        "name": "Disco de Aniversario",
+        "url": "https://open.spotify.com/album/2B06d9gCFyAoSQdjtqVbwc"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
         }
       ],
-      "duration_ms": 254615,
-      "name": "Sin Tu Latido",
-      "url": "https://open.spotify.com/track/3xTzTsTFx3MGWk9Bg6Yr4g"
+      "duration_ms": 234057,
+      "name": "Ni\u00f1os de la Calle",
+      "url": "https://open.spotify.com/track/5BqUNhd6Ok2SxZsgCzaCsT"
     },
     {
       "added_at": null,
@@ -531,7 +531,23 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quiero Cambiar (Remastered)",
+        "name": "Siguiendo La L\u00ednea",
+        "url": "https://open.spotify.com/album/2F9AobKP2HSigLELWeu9Jg"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 258950,
+      "name": "F\u00fagate Conmigo",
+      "url": "https://open.spotify.com/track/2E1pXeUQPkEu6ocMjFpSu6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quiero Cambiar (Remastered 2000)",
         "url": "https://open.spotify.com/album/4Bl52OEsKDB2zcYIrakJVy"
       },
       "artists": [
@@ -541,7 +557,7 @@
         }
       ],
       "duration_ms": 252029,
-      "name": "Mandar una Flor - Remastered",
+      "name": "Mandar una Flor - Remastered 2000",
       "url": "https://open.spotify.com/track/768gdK0kUekavH5CCqie9o"
     },
     {
@@ -563,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siguiendo La L\u00ednea",
-        "url": "https://open.spotify.com/album/2F9AobKP2HSigLELWeu9Jg"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 258950,
-      "name": "F\u00fagate Conmigo",
-      "url": "https://open.spotify.com/track/2E1pXeUQPkEu6ocMjFpSu6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Va por Ti",
         "url": "https://open.spotify.com/album/4OKgsBiB0jwuBzo4J6Z5QT"
       },
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Diablo",
-        "url": "https://open.spotify.com/album/3bLB1fxupRpzlj3heJkAzP"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "El Tren",
-      "url": "https://open.spotify.com/track/7FEVzk8oZ43d1s09X6zrdd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cham\u00e1n",
         "url": "https://open.spotify.com/album/0NQkOlwA4imtZD3SkOMErU"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 231880,
       "name": "Mi Vida",
       "url": "https://open.spotify.com/track/5feROmYN9sejKGAXKOv2Uf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Diablo",
+        "url": "https://open.spotify.com/album/3bLB1fxupRpzlj3heJkAzP"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "El Tren",
+      "url": "https://open.spotify.com/track/7FEVzk8oZ43d1s09X6zrdd"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Momentos",
-        "url": "https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 288293,
-      "name": "Le Dir\u00e9 a las Estrellas",
-      "url": "https://open.spotify.com/track/4kstyJBA1kmcBmvVJu9SDv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cambios",
         "url": "https://open.spotify.com/album/1XjPdYX6t4bE8fDE3Hqj4B"
       },
@@ -707,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Disco de Aniversario",
-        "url": "https://open.spotify.com/album/2B06d9gCFyAoSQdjtqVbwc"
+        "name": "Momentos",
+        "url": "https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN"
       },
       "artists": [
         {
@@ -716,9 +700,25 @@
           "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
         }
       ],
-      "duration_ms": 200388,
-      "name": "California",
-      "url": "https://open.spotify.com/track/5ElUJL40Y3LI4KQHbEjQLv"
+      "duration_ms": 288293,
+      "name": "Le Dir\u00e9 a las Estrellas",
+      "url": "https://open.spotify.com/track/4kstyJBA1kmcBmvVJu9SDv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "25 A\u00f1os De Resistencia (En Vivo)",
+        "url": "https://open.spotify.com/album/1wZ2uSG8rTvOLedTZcQisj"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 344633,
+      "name": "El \u00daltimo Viaje (En Vivo)",
+      "url": "https://open.spotify.com/track/3JWoomq9M2TL413JyaFojn"
     },
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "25 A\u00f1os De Resistencia (En Vivo)",
-        "url": "https://open.spotify.com/album/1wZ2uSG8rTvOLedTZcQisj"
+        "name": "Disco de Aniversario",
+        "url": "https://open.spotify.com/album/2B06d9gCFyAoSQdjtqVbwc"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
         }
       ],
-      "duration_ms": 344633,
-      "name": "El \u00daltimo Viaje (En Vivo)",
-      "url": "https://open.spotify.com/track/3JWoomq9M2TL413JyaFojn"
+      "duration_ms": 200388,
+      "name": "California",
+      "url": "https://open.spotify.com/track/5ElUJL40Y3LI4KQHbEjQLv"
     },
     {
       "added_at": null,

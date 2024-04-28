@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Les Cowboys Fringants",
-  "num_followers": 40409,
+  "num_followers": 40424,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -303,18 +303,22 @@
     {
       "added_at": "2024-04-26 14:39:37",
       "album": {
-        "name": "Faut que tu m'aimes",
-        "url": "https://open.spotify.com/album/5kdVeFvP0n9f4xepbdPCt7"
+        "name": "Boucan (feat. Franglish)",
+        "url": "https://open.spotify.com/album/6SHZjDJD8769qn7l5kGp4r"
       },
       "artists": [
         {
-          "name": "Styleto",
-          "url": "https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5"
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
         }
       ],
-      "duration_ms": 192998,
-      "name": "Faut que tu m'aimes",
-      "url": "https://open.spotify.com/track/6nc1bKC7wr4L8y6vMUdQKK"
+      "duration_ms": 171216,
+      "name": "Boucan (feat. Franglish)",
+      "url": "https://open.spotify.com/track/6jElwivDtkQUv9QFGrdN26"
     },
     {
       "added_at": "2024-04-26 14:39:37",
@@ -335,18 +339,18 @@
     {
       "added_at": "2024-04-26 14:39:37",
       "album": {
-        "name": "Me Da Igual",
-        "url": "https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN"
+        "name": "Faut que tu m'aimes",
+        "url": "https://open.spotify.com/album/5kdVeFvP0n9f4xepbdPCt7"
       },
       "artists": [
         {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+          "name": "Styleto",
+          "url": "https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5"
         }
       ],
-      "duration_ms": 209242,
-      "name": "Me Da Igual",
-      "url": "https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE"
+      "duration_ms": 192998,
+      "name": "Faut que tu m'aimes",
+      "url": "https://open.spotify.com/track/6nc1bKC7wr4L8y6vMUdQKK"
     },
     {
       "added_at": "2024-04-26 14:39:37",
@@ -363,6 +367,38 @@
       "duration_ms": 180480,
       "name": "Fake Friends",
       "url": "https://open.spotify.com/track/6uMWNX0hKdWr1hJckauIub"
+    },
+    {
+      "added_at": "2024-04-26 14:39:37",
+      "album": {
+        "name": "Me Da Igual",
+        "url": "https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 209242,
+      "name": "Me Da Igual",
+      "url": "https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE"
+    },
+    {
+      "added_at": "2024-04-26 14:39:37",
+      "album": {
+        "name": "RSQ3",
+        "url": "https://open.spotify.com/album/33f1zkt6B0tlOSpUcdAzQq"
+      },
+      "artists": [
+        {
+          "name": "Naps",
+          "url": "https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx"
+        }
+      ],
+      "duration_ms": 138585,
+      "name": "RSQ3",
+      "url": "https://open.spotify.com/track/79ydE7Am2KMgQwu6D8bAnf"
     },
     {
       "added_at": "2024-04-26 14:39:37",
@@ -387,18 +423,22 @@
     {
       "added_at": "2024-04-26 14:39:37",
       "album": {
-        "name": "RSQ3",
-        "url": "https://open.spotify.com/album/33f1zkt6B0tlOSpUcdAzQq"
+        "name": "Wonder Woman",
+        "url": "https://open.spotify.com/album/4NVRxtDbHfMOftEyBxgQw0"
       },
       "artists": [
         {
-          "name": "Naps",
-          "url": "https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx"
+          "name": "Mikalya",
+          "url": "https://open.spotify.com/artist/7jv66bdVdkdIlPvEizxV1f"
+        },
+        {
+          "name": "Izzy-S",
+          "url": "https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ"
         }
       ],
-      "duration_ms": 138585,
-      "name": "RSQ3",
-      "url": "https://open.spotify.com/track/79ydE7Am2KMgQwu6D8bAnf"
+      "duration_ms": 137684,
+      "name": "Wonder Woman",
+      "url": "https://open.spotify.com/track/5ys3feURDMmEGfr5xzuUQ5"
     },
     {
       "added_at": "2024-04-26 14:39:37",
@@ -427,46 +467,6 @@
     {
       "added_at": "2024-04-26 14:39:37",
       "album": {
-        "name": "Wonder Woman",
-        "url": "https://open.spotify.com/album/4NVRxtDbHfMOftEyBxgQw0"
-      },
-      "artists": [
-        {
-          "name": "Mikalya",
-          "url": "https://open.spotify.com/artist/7jv66bdVdkdIlPvEizxV1f"
-        },
-        {
-          "name": "Izzy-S",
-          "url": "https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ"
-        }
-      ],
-      "duration_ms": 137684,
-      "name": "Wonder Woman",
-      "url": "https://open.spotify.com/track/5ys3feURDMmEGfr5xzuUQ5"
-    },
-    {
-      "added_at": "2024-04-26 14:39:37",
-      "album": {
-        "name": "AMBITION II",
-        "url": "https://open.spotify.com/album/1j2hiCNwiP5RsCfnG9sM4f"
-      },
-      "artists": [
-        {
-          "name": "Guy2Bezbar",
-          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
-        },
-        {
-          "name": "Rsko",
-          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
-        }
-      ],
-      "duration_ms": 163133,
-      "name": "ENCORE (feat. Rsko)",
-      "url": "https://open.spotify.com/track/4OW2bHRwX2xpnAqCv7eWKY"
-    },
-    {
-      "added_at": "2024-04-26 14:39:37",
-      "album": {
         "name": "IV",
         "url": "https://open.spotify.com/album/6YHWI3NkhA1CB7Rd7BIEz8"
       },
@@ -479,42 +479,6 @@
       "duration_ms": 191839,
       "name": "Juste une toune",
       "url": "https://open.spotify.com/track/44Hd3ctVvMSNj1s5nUuqu3"
-    },
-    {
-      "added_at": "2024-04-26 14:39:37",
-      "album": {
-        "name": "GO GO GO (Feat. Josman)",
-        "url": "https://open.spotify.com/album/4ZYdJg7f8B6aHFvQbu1Cwe"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "Josman",
-          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
-        }
-      ],
-      "duration_ms": 148877,
-      "name": "GO GO GO (Feat. Josman)",
-      "url": "https://open.spotify.com/track/1SXkflyNJkKKNHzkWuFIix"
-    },
-    {
-      "added_at": "2024-04-26 14:39:37",
-      "album": {
-        "name": "5AM",
-        "url": "https://open.spotify.com/album/6eiNBOmU5Kpr5X81cELx7I"
-      },
-      "artists": [
-        {
-          "name": "Brown Family",
-          "url": "https://open.spotify.com/artist/58kHjJdhzMEVRdibBX5JJW"
-        }
-      ],
-      "duration_ms": 215464,
-      "name": "5AM",
-      "url": "https://open.spotify.com/track/3lernf2FiyL07kM8uTAueb"
     },
     {
       "added_at": "2024-04-26 14:39:37",
@@ -539,6 +503,42 @@
     {
       "added_at": "2024-04-26 14:39:37",
       "album": {
+        "name": "5AM",
+        "url": "https://open.spotify.com/album/6eiNBOmU5Kpr5X81cELx7I"
+      },
+      "artists": [
+        {
+          "name": "Brown Family",
+          "url": "https://open.spotify.com/artist/58kHjJdhzMEVRdibBX5JJW"
+        }
+      ],
+      "duration_ms": 215464,
+      "name": "5AM",
+      "url": "https://open.spotify.com/track/3lernf2FiyL07kM8uTAueb"
+    },
+    {
+      "added_at": "2024-04-26 14:39:37",
+      "album": {
+        "name": "AMBITION II",
+        "url": "https://open.spotify.com/album/1j2hiCNwiP5RsCfnG9sM4f"
+      },
+      "artists": [
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        },
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+        }
+      ],
+      "duration_ms": 163133,
+      "name": "ENCORE (feat. Rsko)",
+      "url": "https://open.spotify.com/track/4OW2bHRwX2xpnAqCv7eWKY"
+    },
+    {
+      "added_at": "2024-04-26 14:39:37",
+      "album": {
         "name": "Promener le chien",
         "url": "https://open.spotify.com/album/07cdq5A0gpDNeCndlJxKz1"
       },
@@ -551,22 +551,6 @@
       "duration_ms": 208687,
       "name": "Promener le chien",
       "url": "https://open.spotify.com/track/72EtWl5W8ay87anbhVIGcp"
-    },
-    {
-      "added_at": "2024-04-26 14:39:37",
-      "album": {
-        "name": "Goumin",
-        "url": "https://open.spotify.com/album/478yYBhIJvfduzaiRWDfZF"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
-          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
-        }
-      ],
-      "duration_ms": 154773,
-      "name": "Abim\u00e9",
-      "url": "https://open.spotify.com/track/4UA7p7ndurcpEBQxGyTAnQ"
     },
     {
       "added_at": "2024-04-26 14:39:37",
@@ -591,22 +575,6 @@
     {
       "added_at": "2024-04-26 14:39:37",
       "album": {
-        "name": "L'\u00cele",
-        "url": "https://open.spotify.com/album/2iIdujFNCekpvcm8AwJkfy"
-      },
-      "artists": [
-        {
-          "name": "Simon Kearney",
-          "url": "https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a"
-        }
-      ],
-      "duration_ms": 184653,
-      "name": "Le grand d\u00e9fi",
-      "url": "https://open.spotify.com/track/3ec6Motizvu2yJ6jrE6Bxc"
-    },
-    {
-      "added_at": "2024-04-26 14:39:37",
-      "album": {
         "name": "Agent Secret",
         "url": "https://open.spotify.com/album/0XoS4VGmUz0yAlkirrl03X"
       },
@@ -623,18 +591,54 @@
     {
       "added_at": "2024-04-26 14:39:37",
       "album": {
-        "name": "Sans toi",
-        "url": "https://open.spotify.com/album/7kesRjVwWHo3ih2CkqT9Kf"
+        "name": "L'\u00cele",
+        "url": "https://open.spotify.com/album/2iIdujFNCekpvcm8AwJkfy"
       },
       "artists": [
         {
-          "name": "Jeck",
-          "url": "https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf"
+          "name": "Simon Kearney",
+          "url": "https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a"
         }
       ],
-      "duration_ms": 181580,
-      "name": "Sans toi",
-      "url": "https://open.spotify.com/track/1mk9y8glt1zXx5qoHzxYvx"
+      "duration_ms": 184653,
+      "name": "Le grand d\u00e9fi",
+      "url": "https://open.spotify.com/track/3ec6Motizvu2yJ6jrE6Bxc"
+    },
+    {
+      "added_at": "2024-04-26 14:39:37",
+      "album": {
+        "name": "Goumin",
+        "url": "https://open.spotify.com/album/478yYBhIJvfduzaiRWDfZF"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        }
+      ],
+      "duration_ms": 154773,
+      "name": "Abim\u00e9",
+      "url": "https://open.spotify.com/track/4UA7p7ndurcpEBQxGyTAnQ"
+    },
+    {
+      "added_at": "2024-04-26 14:39:37",
+      "album": {
+        "name": "GO GO GO (Feat. Josman)",
+        "url": "https://open.spotify.com/album/4ZYdJg7f8B6aHFvQbu1Cwe"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Josman",
+          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
+        }
+      ],
+      "duration_ms": 148877,
+      "name": "GO GO GO (Feat. Josman)",
+      "url": "https://open.spotify.com/track/1SXkflyNJkKKNHzkWuFIix"
     },
     {
       "added_at": "2024-04-26 14:39:37",
@@ -655,22 +659,18 @@
     {
       "added_at": "2024-04-26 14:39:37",
       "album": {
-        "name": "Boucan (feat. Franglish)",
-        "url": "https://open.spotify.com/album/6SHZjDJD8769qn7l5kGp4r"
+        "name": "Sans toi",
+        "url": "https://open.spotify.com/album/7kesRjVwWHo3ih2CkqT9Kf"
       },
       "artists": [
         {
-          "name": "KeBlack",
-          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
-        },
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+          "name": "Jeck",
+          "url": "https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf"
         }
       ],
-      "duration_ms": 171216,
-      "name": "Boucan (feat. Franglish)",
-      "url": "https://open.spotify.com/track/6jElwivDtkQUv9QFGrdN26"
+      "duration_ms": 181580,
+      "name": "Sans toi",
+      "url": "https://open.spotify.com/track/1mk9y8glt1zXx5qoHzxYvx"
     },
     {
       "added_at": "2024-04-26 14:39:37",
@@ -707,18 +707,18 @@
     {
       "added_at": "2024-04-26 14:39:37",
       "album": {
-        "name": "C24",
-        "url": "https://open.spotify.com/album/1s0SSXuZNyeCPu4XgqQov3"
+        "name": "Dis-toi que c'est la vie",
+        "url": "https://open.spotify.com/album/01Lw2cjSOrE7omo5ttneqJ"
       },
       "artists": [
         {
-          "name": "Soprano",
-          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+          "name": "Keen' V",
+          "url": "https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd"
         }
       ],
-      "duration_ms": 245400,
-      "name": "C24",
-      "url": "https://open.spotify.com/track/7AYCzql1OFj2n3OlFJOruy"
+      "duration_ms": 147405,
+      "name": "Dis-toi que c'est la vie",
+      "url": "https://open.spotify.com/track/0qbNi3Dw48Y1lazonm0WEL"
     },
     {
       "added_at": "2024-04-26 14:39:37",
@@ -739,18 +739,34 @@
     {
       "added_at": "2024-04-26 14:39:37",
       "album": {
-        "name": "Dis-toi que c'est la vie",
-        "url": "https://open.spotify.com/album/01Lw2cjSOrE7omo5ttneqJ"
+        "name": "C24",
+        "url": "https://open.spotify.com/album/1s0SSXuZNyeCPu4XgqQov3"
       },
       "artists": [
         {
-          "name": "Keen' V",
-          "url": "https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd"
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
         }
       ],
-      "duration_ms": 147405,
-      "name": "Dis-toi que c'est la vie",
-      "url": "https://open.spotify.com/track/0qbNi3Dw48Y1lazonm0WEL"
+      "duration_ms": 245400,
+      "name": "C24",
+      "url": "https://open.spotify.com/track/7AYCzql1OFj2n3OlFJOruy"
+    },
+    {
+      "added_at": "2024-04-26 14:39:37",
+      "album": {
+        "name": "SUR LE CHEMIN (Phase 3)",
+        "url": "https://open.spotify.com/album/6yV4ZCSKZNoOJan78YLKan"
+      },
+      "artists": [
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI"
+        }
+      ],
+      "duration_ms": 174928,
+      "name": "45",
+      "url": "https://open.spotify.com/track/2FJychFhFkGOxKDGg8vBh8"
     },
     {
       "added_at": "2024-04-26 14:39:37",
@@ -775,18 +791,38 @@
     {
       "added_at": "2024-04-26 14:39:37",
       "album": {
-        "name": "SUR LE CHEMIN (Phase 3)",
-        "url": "https://open.spotify.com/album/6yV4ZCSKZNoOJan78YLKan"
+        "name": "Adieu",
+        "url": "https://open.spotify.com/album/4Fdd91nXf2m2ZiOPVS18Zl"
       },
       "artists": [
         {
-          "name": "UZI",
-          "url": "https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI"
+          "name": "J\u00e9r\u00e9my Frerot",
+          "url": "https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK"
         }
       ],
-      "duration_ms": 174928,
-      "name": "45",
-      "url": "https://open.spotify.com/track/2FJychFhFkGOxKDGg8vBh8"
+      "duration_ms": 184356,
+      "name": "Adieu",
+      "url": "https://open.spotify.com/track/1gDD9giByuHtgkprzQqUXN"
+    },
+    {
+      "added_at": "2024-04-26 14:39:37",
+      "album": {
+        "name": "SHE LIT",
+        "url": "https://open.spotify.com/album/3IYFhRvpsnXg2K7m5Jkf7B"
+      },
+      "artists": [
+        {
+          "name": "J9ueve",
+          "url": "https://open.spotify.com/artist/4fj5OWrMmlCbrc3PocAcl1"
+        },
+        {
+          "name": "Green Montana",
+          "url": "https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2"
+        }
+      ],
+      "duration_ms": 137533,
+      "name": "SHE LIT",
+      "url": "https://open.spotify.com/track/7g4NTzoHSGNfh41u5kNQW6"
     },
     {
       "added_at": "2024-04-26 14:39:37",
@@ -803,38 +839,6 @@
       "duration_ms": 172263,
       "name": "Je pense \u00e0 vous",
       "url": "https://open.spotify.com/track/5cAzaNbU7AEgfsJgL9sbtX"
-    },
-    {
-      "added_at": "2024-04-26 14:39:37",
-      "album": {
-        "name": "Parisienne High Level",
-        "url": "https://open.spotify.com/album/6jvxhfExqa59zUlIIrCHUp"
-      },
-      "artists": [
-        {
-          "name": "aupinard",
-          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
-        }
-      ],
-      "duration_ms": 151414,
-      "name": "Parisienne High Level",
-      "url": "https://open.spotify.com/track/5OYJXif1vzHZFvFORFBpvI"
-    },
-    {
-      "added_at": "2024-04-26 14:39:37",
-      "album": {
-        "name": "Adieu",
-        "url": "https://open.spotify.com/album/4Fdd91nXf2m2ZiOPVS18Zl"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9r\u00e9my Frerot",
-          "url": "https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK"
-        }
-      ],
-      "duration_ms": 184356,
-      "name": "Adieu",
-      "url": "https://open.spotify.com/track/1gDD9giByuHtgkprzQqUXN"
     },
     {
       "added_at": "2024-04-26 14:39:37",
@@ -859,18 +863,18 @@
     {
       "added_at": "2024-04-26 14:39:37",
       "album": {
-        "name": "Dans la Benz",
-        "url": "https://open.spotify.com/album/71I2Lj0MNjzJwL6SZA2jkm"
+        "name": "Parisienne High Level",
+        "url": "https://open.spotify.com/album/6jvxhfExqa59zUlIIrCHUp"
       },
       "artists": [
         {
-          "name": "Jok'air",
-          "url": "https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua"
+          "name": "aupinard",
+          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
         }
       ],
-      "duration_ms": 239105,
-      "name": "Dans la Benz",
-      "url": "https://open.spotify.com/track/6rRtJ83Uz0DZR7wac4uSb6"
+      "duration_ms": 151414,
+      "name": "Parisienne High Level",
+      "url": "https://open.spotify.com/track/5OYJXif1vzHZFvFORFBpvI"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

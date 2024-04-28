@@ -4,7 +4,7 @@
 
 > 
 
-311 songs - 14 hr 38 min
+312 songs - 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,8 +264,9 @@
 | [Så jävla bra](https://open.spotify.com/track/3UA4L041EaZziqBvrjYNE8) | [Lillasyster](https://open.spotify.com/artist/34uGMERnU9XHnmQDnK03Gj) | [Så jävla bra](https://open.spotify.com/album/4CYmniSsyZlMjoQSM45EoF) | 3:52 | 2021-12-14 |  |
 | [Så Jävla Bra](https://open.spotify.com/track/2IcGqSD8NBLrKSjfTQAlgB) | [Lillasyster](https://open.spotify.com/artist/34uGMERnU9XHnmQDnK03Gj) | [3](https://open.spotify.com/album/0bPWq9dByUtckQQ9ReT1sY) | 3:53 | 2021-12-14 | 2024-04-19 |
 | [Söndring och splittring](https://open.spotify.com/track/2gEUrLsQg9suXHHhcXZeOU) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI) | [Söndring och splittring](https://open.spotify.com/album/2YSP3NSQXfijB4N2MDbXdn) | 2:05 | 2021-12-14 | 2022-07-16 |
-| [Tankar på kammaren \(är det bara jag\)](https://open.spotify.com/track/3qfYgvvsAcpIRz6re78bPV) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [SKULD](https://open.spotify.com/album/70SVQYfsG1cnLnbKbQwch7) | 3:55 | 2021-12-14 |  |
+| [Tankar på kammaren \(är det bara jag\)](https://open.spotify.com/track/3qfYgvvsAcpIRz6re78bPV) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [SKULD](https://open.spotify.com/album/70SVQYfsG1cnLnbKbQwch7) | 3:55 | 2021-12-14 | 2024-04-28 |
 | [Tid att vara arg](https://open.spotify.com/track/6aEcYA9k3GAvPRwdAdMwCV) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Grit](https://open.spotify.com/album/5j376oRcfB6bEovuA5Ssod) | 2:17 | 2021-12-14 |  |
+| [Tid\-övertid](https://open.spotify.com/track/3bYTorXoefvnMoVpFLYMHn) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Tid\-övertid](https://open.spotify.com/album/6mZtFPUxeQ0VUDyuADt2Wa) | 2:48 | 2024-04-25 |  |
 | [Tidens tempo](https://open.spotify.com/track/01URoRZKSsMbExgdmiuiwy) | [KSMB](https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71) | [Aktion](https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6) | 2:12 | 2021-12-14 |  |
 | [Till Krig](https://open.spotify.com/track/2Dm3dpz92r2Ov6ahGrrpDT) | [Slutstation Tjernobyl](https://open.spotify.com/artist/7hGagoTcGYInEGKeZdS6wC) | [Vi Är Alla Stjärnor](https://open.spotify.com/album/7E2RVJCOJyo0WqyH1b9GNn) | 3:22 | 2023-12-14 |  |
 | [Tillsammans](https://open.spotify.com/track/4MQxRcHz72eEko43H0OWwx) | [Norra Hospitalet](https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM) | [Bakom ljuset](https://open.spotify.com/album/4yARa8B7DKUanmMtw1HrKM) | 1:34 | 2024-03-28 | 2024-04-19 |

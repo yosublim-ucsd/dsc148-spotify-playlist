@@ -1,12 +1,12 @@
 {
-  "description": "This is Vilma Palma e Vampiros. The essential tracks, all in one playlist.",
-  "num_followers": 66279,
+  "description": "This Is Vilma Palma e Vampiros. Los temas esenciales, todos en una lista.",
+  "num_followers": 66328,
   "original_name": "This Is Vilma Palma e Vampiros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDAwMzIwMCwwMDAwMDAwMDlhNmJkN2NmYjhlYTNhMDJjZDM5ZTZhOGE4ODE2ZTE5",
+  "snapshot_id": "MTcxNDA4OTYwMCwwMDAwMDAwMGNmMGE3MDBmYTc1ZmJiOWU4MzdlZmJlMWI2YWM5NWFm",
   "tracks": [
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vuelve a Comenzar",
-        "url": "https://open.spotify.com/album/3PB32BKUbvyyQ2WmhrAzad"
+        "name": "7",
+        "url": "https://open.spotify.com/album/6lJ7uJF8ILH5zqMx3NuPFA"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 256906,
-      "name": "La Carta",
-      "url": "https://open.spotify.com/track/7fWsCyuE2j5qAcBqcqaeZp"
+      "duration_ms": 270054,
+      "name": "Te Puedo Enamorar",
+      "url": "https://open.spotify.com/track/4rUAnvTxSGwqDuj9SYBQIZ"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/6lJ7uJF8ILH5zqMx3NuPFA"
+        "name": "Vuelve a Comenzar",
+        "url": "https://open.spotify.com/album/3PB32BKUbvyyQ2WmhrAzad"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 270054,
-      "name": "Te Puedo Enamorar",
-      "url": "https://open.spotify.com/track/4rUAnvTxSGwqDuj9SYBQIZ"
+      "duration_ms": 256906,
+      "name": "La Carta",
+      "url": "https://open.spotify.com/track/7fWsCyuE2j5qAcBqcqaeZp"
     },
     {
       "added_at": null,

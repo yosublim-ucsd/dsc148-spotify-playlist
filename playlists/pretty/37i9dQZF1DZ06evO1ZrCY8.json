@@ -1,12 +1,12 @@
 {
-  "description": "This is Heroes Del Silencio. The essential tracks, all in one playlist.",
-  "num_followers": 183956,
+  "description": "This Is Heroes Del Silencio. Los temas esenciales, todos en una lista.",
+  "num_followers": 184000,
   "original_name": "This Is Heroes Del Silencio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDAwMzIwMCwwMDAwMDAwMDZkZjhkMGUyNTNhMWRhYzBjY2M1NWU0ZmJiYzFlNzNi",
+  "snapshot_id": "MTcxNDA4OTYwMCwwMDAwMDAwMDczMDQxOWY1NDk1ZTM5ZWE2M2FkMTc5MjhmZmJhNmJm",
   "tracks": [
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
         }
       ],
-      "duration_ms": 256546,
-      "name": "Con nombre de guerra",
-      "url": "https://open.spotify.com/track/2W0SOlPRDSxLLbMNR9tR7P"
+      "duration_ms": 248586,
+      "name": "Oraci\u00f3n",
+      "url": "https://open.spotify.com/track/2y2EIt9PIGMXcxufDBkU9v"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
         }
       ],
-      "duration_ms": 248586,
-      "name": "Oraci\u00f3n",
-      "url": "https://open.spotify.com/track/2y2EIt9PIGMXcxufDBkU9v"
+      "duration_ms": 256546,
+      "name": "Con nombre de guerra",
+      "url": "https://open.spotify.com/track/2W0SOlPRDSxLLbMNR9tR7P"
     },
     {
       "added_at": null,

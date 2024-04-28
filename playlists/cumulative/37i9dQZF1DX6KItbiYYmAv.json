@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "EPHRATA (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6ckh3U2IE879CgHJMSlqZ6"
+      },
+      "artists": [
+        {
+          "name": "Joshua Burnside",
+          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234326,
+      "name": "Blood Drive",
+      "url": "https://open.spotify.com/track/7yTIj99hrHMyF7ZT0dvaO4"
+    },
+    {
+      "album": {
         "name": "Woodland",
         "url": "https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ"
       },
@@ -2164,7 +2182,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 195106,
       "name": "I Know",
       "url": "https://open.spotify.com/track/6L7aiftxZhpxxAny9Xcfir"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Wisin
 
-[Spotify](https://open.spotify.com/user/spotify) - 583,901 likes - 51 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 583,879 likes - 51 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 33 | [CRYPTO](https://open.spotify.com/track/7yN7WgKckGg3w34XgRjCxP) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [CRYPTO](https://open.spotify.com/album/4KG8H1h8oVRDofQw1hqrbB) | 3:03 |
 | 34 | [PILA D CUERO](https://open.spotify.com/track/1evHuVvlijZAdCUHAG7ASm) | [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [PILA D CUERO](https://open.spotify.com/album/1BvuRAGSIYOWrN0W58FsRu) | 2:54 |
 | 35 | [10 DIGITOS](https://open.spotify.com/track/3u84AkTcXxoIZGsxWAtPhp) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [EL NIÑO BENDITO](https://open.spotify.com/album/5pSazlKAjiS4GxMWVVw2Ja) | 2:18 |
-| 36 | [ADRENALEAN](https://open.spotify.com/track/4ICrRT8KzB9YfuYrlnh7sl) | [Oplus](https://open.spotify.com/artist/2JQQDzeOEkRz7ld1pekbw0), [The Best Soundz](https://open.spotify.com/artist/2exrpIj2TWt6s5YBqTqqbr), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z) | [ADRENALEAN](https://open.spotify.com/album/15tLwMZtXzxLLu1et3sdK7) | 2:45 |
+| 36 | [ADRENALEAN](https://open.spotify.com/track/4ICrRT8KzB9YfuYrlnh7sl) | [Oplus](https://open.spotify.com/artist/2JQQDzeOEkRz7ld1pekbw0), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [The Best Soundz](https://open.spotify.com/artist/2exrpIj2TWt6s5YBqTqqbr) | [ADRENALEAN](https://open.spotify.com/album/15tLwMZtXzxLLu1et3sdK7) | 2:45 |
 | 37 | [DAIKIRI CON FRESA](https://open.spotify.com/track/6eNRxXpnpXqvhKHUaCUng9) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3), [Abrildefresa](https://open.spotify.com/artist/1LcrE5dBGGhQpJszNw75xk) | [DAIKIRI CON FRESA](https://open.spotify.com/album/2pJHyWYo2H2sCbo8WuF3VH) | 3:19 |
 | 38 | [Luz](https://open.spotify.com/track/6v5J4UE21xOjnQ4N9H5jur) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Luz](https://open.spotify.com/album/54iXGKn6LPMXZVeIs9uqQo) | 3:06 |
 | 39 | [Yo Que Te Amé \- Versión Montaner](https://open.spotify.com/track/01RfhPPCzHeOwmkrUhXRCR) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Yo Que Te Amé \(Versión Montaner\)](https://open.spotify.com/album/0pMdRI6mwSZiQwHMjcsgbi) | 5:23 |

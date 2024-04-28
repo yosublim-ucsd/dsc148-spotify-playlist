@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 92950,
+  "2024-04-28": 93180,
   "date_first_scraped": "2022-01-02",
   "description": "Discover new artists on the horizon this 2024. Cover: Hev Abi\n\n",
   "name": "RADAR Philippines",
@@ -2115,6 +2115,24 @@
       "duration_ms": 290004,
       "name": "Muli",
       "url": "https://open.spotify.com/track/1oYQtNQUxSODedcc5hPmp9"
+    },
+    {
+      "album": {
+        "name": "Munchies",
+        "url": "https://open.spotify.com/album/7MKpOuvtAQlOYTjPeRAgXk"
+      },
+      "artists": [
+        {
+          "name": "Illest Morena",
+          "url": "https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208696,
+      "name": "Munchies",
+      "url": "https://open.spotify.com/track/1vXc5zGgyzKsNjA6USRzkd"
     },
     {
       "album": {

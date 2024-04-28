@@ -1,7 +1,7 @@
 {
-  "2024-04-27": 109898,
+  "2024-04-28": 109906,
   "date_first_scraped": "2022-03-28",
-  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Peter Peter",
+  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Alicia Creti",
   "name": "Montr\u00e9al Chill",
   "tracks": [
     {
@@ -595,6 +595,24 @@
       "duration_ms": 216201,
       "name": "Artificial Genuine",
       "url": "https://open.spotify.com/track/2dT9WvXLGizL5Oz4CsJLT9"
+    },
+    {
+      "album": {
+        "name": "Ar\u00e8ne",
+        "url": "https://open.spotify.com/album/3isZboZjEieVd3j5DqYNQp"
+      },
+      "artists": [
+        {
+          "name": "Reno McCarthy",
+          "url": "https://open.spotify.com/artist/1JdFzT3HVVdNNvpdIyfOPS"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185034,
+      "name": "Ar\u00e8ne",
+      "url": "https://open.spotify.com/track/2XM74PW22MJ6vEGruNXHjD"
     },
     {
       "album": {
@@ -2927,7 +2945,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 214792,
       "name": "Gants blancs",
       "url": "https://open.spotify.com/track/2LvkbJtiU8zBRZnBWqra43"
@@ -3856,6 +3874,24 @@
     },
     {
       "album": {
+        "name": "Jump Cut",
+        "url": "https://open.spotify.com/album/5T25MocYOo34A7pzzduOLS"
+      },
+      "artists": [
+        {
+          "name": "Corridor",
+          "url": "https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233497,
+      "name": "Jump Cut",
+      "url": "https://open.spotify.com/track/0jRBEROpKjbjhqqLol11NF"
+    },
+    {
+      "album": {
         "name": "Just Like",
         "url": "https://open.spotify.com/album/0NoGvhRvcF0GaTwSHCm25Z"
       },
@@ -3979,7 +4015,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 179384,
       "name": "L'\u00e9norme chien tr\u00e8s gentil",
       "url": "https://open.spotify.com/track/6svpIJIzxKMSpb7oieyN6p"
@@ -4941,7 +4977,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 217402,
       "name": "Mon Argent",
       "url": "https://open.spotify.com/track/2S2MHKQYRA6LdBWsTb6fcK"
@@ -6089,6 +6125,24 @@
       "duration_ms": 137064,
       "name": "Plaster :)",
       "url": "https://open.spotify.com/track/0zlXuLCs2QJTqF0UQGn6us"
+    },
+    {
+      "album": {
+        "name": "Plateau Botticelli",
+        "url": "https://open.spotify.com/album/68op5OjftkJxIYNcscWEbK"
+      },
+      "artists": [
+        {
+          "name": "Aistis",
+          "url": "https://open.spotify.com/artist/1NIVmyi3ACEHxwmBRAlipR"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226071,
+      "name": "Plateau Botticelli",
+      "url": "https://open.spotify.com/track/6eyc6Gz5rZBOL7n2UoKD9m"
     },
     {
       "album": {

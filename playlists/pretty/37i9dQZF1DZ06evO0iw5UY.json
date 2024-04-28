@@ -1,12 +1,12 @@
 {
   "description": "This is Krewella. The essential tracks, all in one playlist.",
-  "num_followers": 26980,
+  "num_followers": 26979,
   "original_name": "This Is Krewella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDAwMzIwMCwwMDAwMDAwMDFkNjNmZjk2NTQ1MTY2NmEwZWU2MzVhZTMyNDRlZmU4",
+  "snapshot_id": "MTcxNDA4OTYwMCwwMDAwMDAwMDU5NTkxMzE4ZTJkMzA5OTYwOTMzMTFhZjMzYTZkYTFk",
   "tracks": [
     {
       "added_at": null,
@@ -467,22 +467,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rise & Fall",
-        "url": "https://open.spotify.com/album/5xkfX4DNx7hZYrGy8H1YUJ"
+        "name": "Team",
+        "url": "https://open.spotify.com/album/4egttCfKypFMnO6eE3OT2R"
       },
       "artists": [
-        {
-          "name": "Adventure Club",
-          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
-        },
         {
           "name": "Krewella",
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         }
       ],
-      "duration_ms": 361875,
-      "name": "Rise & Fall",
-      "url": "https://open.spotify.com/track/5yQmKyKEdjtxFDPIK9mFLn"
+      "duration_ms": 186506,
+      "name": "Team",
+      "url": "https://open.spotify.com/track/3NRrvr3ctGwpV1wLRjgSSs"
     },
     {
       "added_at": null,
@@ -511,18 +507,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Team",
-        "url": "https://open.spotify.com/album/4egttCfKypFMnO6eE3OT2R"
+        "name": "Rise & Fall",
+        "url": "https://open.spotify.com/album/5xkfX4DNx7hZYrGy8H1YUJ"
       },
       "artists": [
+        {
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        },
         {
           "name": "Krewella",
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         }
       ],
-      "duration_ms": 186506,
-      "name": "Team",
-      "url": "https://open.spotify.com/track/3NRrvr3ctGwpV1wLRjgSSs"
+      "duration_ms": 361875,
+      "name": "Rise & Fall",
+      "url": "https://open.spotify.com/track/5yQmKyKEdjtxFDPIK9mFLn"
     },
     {
       "added_at": null,

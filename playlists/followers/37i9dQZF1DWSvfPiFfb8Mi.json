@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 557321,
+  "2024-04-28": 557413,
   "date_first_scraped": "2022-04-09",
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
   "name": "Poolside Disco",
@@ -279,7 +279,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 216794,
       "name": "Ask Yourself (Can You Dance)",
       "url": "https://open.spotify.com/track/1BB8a33pfYW3bw0k7kRlBg"
@@ -3136,6 +3136,32 @@
     },
     {
       "album": {
+        "name": "Lovers In A Past Life (with Rag'n'Bone Man) [LP Giobbi Remix]",
+        "url": "https://open.spotify.com/album/6LnXGn4Jb2lSb819kklrgn"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        },
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173538,
+      "name": "Lovers In A Past Life (with Rag'n'Bone Man) - LP Giobbi Remix",
+      "url": "https://open.spotify.com/track/52yvH039KJk9IerF0NTYWm"
+    },
+    {
+      "album": {
         "name": "Lovin You",
         "url": "https://open.spotify.com/album/0xxlWA40DcSNiofv6t88yL"
       },
@@ -3794,6 +3820,24 @@
     },
     {
       "album": {
+        "name": "Past Life",
+        "url": "https://open.spotify.com/album/4u64WU25uYmjvdNGIJZjOr"
+      },
+      "artists": [
+        {
+          "name": "Paco Versailles",
+          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237716,
+      "name": "Past Life",
+      "url": "https://open.spotify.com/track/2Bgg6GgU47i8PRRYg8YTj0"
+    },
+    {
+      "album": {
         "name": "Patti",
         "url": "https://open.spotify.com/album/3ZNk3kfQlopQkWvdGWna5s"
       },
@@ -4101,7 +4145,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 164501,
       "name": "Rock With Me",
       "url": "https://open.spotify.com/track/18fazLrZ3SjUVNaaAOjlSU"

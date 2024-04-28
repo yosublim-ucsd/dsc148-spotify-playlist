@@ -1,7 +1,7 @@
 {
-  "2024-04-27": 513605,
+  "2024-04-28": 513488,
   "date_first_scraped": "2022-01-18",
-  "description": "Novidades e destaques do indie nacional. Foto: Papisa",
+  "description": "Novidades e destaques do indie nacional. Foto: Bemti",
   "name": "Indie Brasil",
   "tracks": [
     {
@@ -241,6 +241,24 @@
       "duration_ms": 242318,
       "name": "a gente n\u00e3o tem nada a ver",
       "url": "https://open.spotify.com/track/5nb12r6ybXzM0rtBuqjwq3"
+    },
+    {
+      "album": {
+        "name": "NAVE P\u00c1SSARO",
+        "url": "https://open.spotify.com/album/1Axfn4g2cbjwXE6MiZNVCo"
+      },
+      "artists": [
+        {
+          "name": "Malu Maria",
+          "url": "https://open.spotify.com/artist/7o2VDcKMqBIc304KCwEBBt"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258144,
+      "name": "A L\u00edngua Trava",
+      "url": "https://open.spotify.com/track/4oiexM3EySbvbt9luyodil"
     },
     {
       "album": {
@@ -705,7 +723,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 123000,
       "name": "Amor Perfume",
       "url": "https://open.spotify.com/track/6S8qZN6rXpZEfPSkDFIkdS"
@@ -1715,6 +1733,28 @@
       "duration_ms": 218823,
       "name": "Calor",
       "url": "https://open.spotify.com/track/6hQq4cuiZ95v2ruBNODR6q"
+    },
+    {
+      "album": {
+        "name": "Calor da Boca",
+        "url": "https://open.spotify.com/album/1zFMm7sUc2W8Sza1L0cmlG"
+      },
+      "artists": [
+        {
+          "name": "castel",
+          "url": "https://open.spotify.com/artist/3I34QM4CTtiNEkXxwLxztH"
+        },
+        {
+          "name": "MAYAH",
+          "url": "https://open.spotify.com/artist/1rg783Ojka0Cy5saubif7c"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220465,
+      "name": "Calor da Boca",
+      "url": "https://open.spotify.com/track/4KYaANDmHwZPvLNfbL9r81"
     },
     {
       "album": {
@@ -3581,7 +3621,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 180035,
       "name": "est\u00e1tica",
       "url": "https://open.spotify.com/track/4J3sacZksbTwNF4323eKcD"
@@ -3679,6 +3719,24 @@
       "duration_ms": 163852,
       "name": "Eu J\u00e1 Fiz de Tudo que Tu Pode Imaginar",
       "url": "https://open.spotify.com/track/6Q3iLSJsGqfv8bCz6ngSkn"
+    },
+    {
+      "album": {
+        "name": "Eu Me Deito Aqui",
+        "url": "https://open.spotify.com/album/6IT9bvoBr0RHRkLphlxK5e"
+      },
+      "artists": [
+        {
+          "name": "A Jaya",
+          "url": "https://open.spotify.com/artist/7fb3HrdWWOWEqZV5QddjJT"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245538,
+      "name": "Eu Me Deito Aqui",
+      "url": "https://open.spotify.com/track/1P3gn9tKdtg2rJQega6x9f"
     },
     {
       "album": {
@@ -4303,7 +4361,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 156180,
       "name": "Goteira de Amor",
       "url": "https://open.spotify.com/track/7zWem6BVqAtotg4nHH7RxX"
@@ -4472,6 +4530,28 @@
     },
     {
       "album": {
+        "name": "o fim \u00e9 um come\u00e7o",
+        "url": "https://open.spotify.com/album/0gzmYbVouBACqA8uEiXm4g"
+      },
+      "artists": [
+        {
+          "name": "a terra vai se tornar um planeta inabit\u00e1vel",
+          "url": "https://open.spotify.com/artist/3vRKfW74O7fGagZCDPOqKQ"
+        },
+        {
+          "name": "magn\u00f3lia",
+          "url": "https://open.spotify.com/artist/1UeVL6kabga2Gxp6TfoyUs"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150598,
+      "name": "II",
+      "url": "https://open.spotify.com/track/1VLwGoFZVg1GblE37sBVmg"
+    },
+    {
+      "album": {
         "name": "Imperfeito",
         "url": "https://open.spotify.com/album/0QZGvE9vKVt8LvNqNQTRJy"
       },
@@ -4527,7 +4607,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 222127,
       "name": "In God's Hands",
       "url": "https://open.spotify.com/track/7w0nGOQEqDCixg8BUeV97Q"
@@ -5453,6 +5533,24 @@
       "duration_ms": 160464,
       "name": "Melhor Assim",
       "url": "https://open.spotify.com/track/6Hs1FeGfpsSvgoMKyS7Ggx"
+    },
+    {
+      "album": {
+        "name": "Melhor de Tr\u00eas",
+        "url": "https://open.spotify.com/album/3jBdU1dOvwq9hnsSAZ5OyV"
+      },
+      "artists": [
+        {
+          "name": "Bemti",
+          "url": "https://open.spotify.com/artist/2zDRCHwGklDTHrOeYeCeLW"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195213,
+      "name": "Melhor de Tr\u00eas",
+      "url": "https://open.spotify.com/track/4rQfTr0ugCFFQTMhWGRQBZ"
     },
     {
       "album": {
@@ -6533,7 +6631,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 212399,
       "name": "N\u00e3o Tem Ningu\u00e9m Vivo Aos Domingos",
       "url": "https://open.spotify.com/track/0AK189S1vIQRcK5SiQxHJQ"
@@ -6715,6 +6813,28 @@
       "duration_ms": 189617,
       "name": "O Mundo \u00e9 meu pa\u00eds",
       "url": "https://open.spotify.com/track/7fb1In9kjArmHwfVNoeHT8"
+    },
+    {
+      "album": {
+        "name": "corpos de \u00e1gua",
+        "url": "https://open.spotify.com/album/2NIwvzVlWeAIZdA6sRTSlz"
+      },
+      "artists": [
+        {
+          "name": "sonhos tomam conta",
+          "url": "https://open.spotify.com/artist/7rVsNgf4xbMJcVPNilWTnV"
+        },
+        {
+          "name": "magn\u00f3lia",
+          "url": "https://open.spotify.com/artist/1UeVL6kabga2Gxp6TfoyUs"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 450923,
+      "name": "o oceano de solaris",
+      "url": "https://open.spotify.com/track/6KbQOtSpUSqdqXiH7nxlv5"
     },
     {
       "album": {
@@ -6921,6 +7041,24 @@
       "duration_ms": 260505,
       "name": "O Treco",
       "url": "https://open.spotify.com/track/6Wm2WXD8wzTAUmhV3ApGaX"
+    },
+    {
+      "album": {
+        "name": "Shangri-L\u00e1",
+        "url": "https://open.spotify.com/album/1q3H406m4bYcT2MES86Bkk"
+      },
+      "artists": [
+        {
+          "name": "Graxelos",
+          "url": "https://open.spotify.com/artist/78lzMT8QkKOJGwzjPbSEpP"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307825,
+      "name": "O Viajante",
+      "url": "https://open.spotify.com/track/6wZREwKUbPx0OZTZBiUd2Q"
     },
     {
       "album": {
@@ -8091,7 +8229,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 168200,
       "name": "rede social",
       "url": "https://open.spotify.com/track/7zBYk65FqoHdpsQGXaPWF0"
@@ -10195,7 +10333,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 208970,
       "name": "Um pagode pra voc\u00ea (Pagotrap Rom\u00e2ntico)",
       "url": "https://open.spotify.com/track/662AsvRPlVqsrB9EbkpTrJ"
@@ -10213,7 +10351,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 229500,
       "name": "Um Pescador",
       "url": "https://open.spotify.com/track/5DBVaJ9xCQ5cyRV02s0IF9"
@@ -10253,6 +10391,24 @@
       "duration_ms": 197378,
       "name": "Uma Grande Saudade Boba",
       "url": "https://open.spotify.com/track/1E2VQwCR0BndVnisLn8Frg"
+    },
+    {
+      "album": {
+        "name": "Perversor",
+        "url": "https://open.spotify.com/album/6RQPgzVXWXO3A1S05Q4spe"
+      },
+      "artists": [
+        {
+          "name": "Meio/C\u00e3o",
+          "url": "https://open.spotify.com/artist/0rv6yt6f4q2nKQDjXS0GDS"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303469,
+      "name": "Uma Vez pra Nunca Mais",
+      "url": "https://open.spotify.com/track/05eZ2RUYfAGjIzF4qhBRRm"
     },
     {
       "album": {
@@ -10522,6 +10678,28 @@
     },
     {
       "album": {
+        "name": "Fora do Ritmo",
+        "url": "https://open.spotify.com/album/6C72tw5sb3jlNbdvzOhkPF"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Paix\u00e3o",
+          "url": "https://open.spotify.com/artist/0cL5s1kVSxBwkpLORUjF3p"
+        },
+        {
+          "name": "Pupillo",
+          "url": "https://open.spotify.com/artist/2Uo4yafwibiI7doudOWOXK"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325011,
+      "name": "Vestido Vermelho",
+      "url": "https://open.spotify.com/track/61M14oh9fDkMjxWSqX9ROX"
+    },
+    {
+      "album": {
         "name": "Victoria",
         "url": "https://open.spotify.com/album/69EvKtR8xGWiU3DPEkpqNF"
       },
@@ -10635,7 +10813,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 71598,
       "name": "Vitor Kley Baixa Renda",
       "url": "https://open.spotify.com/track/0HqiOc2g8H9CfWtog2eTwx"

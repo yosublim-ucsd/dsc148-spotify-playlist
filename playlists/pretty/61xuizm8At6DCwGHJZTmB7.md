@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Worship 2024 \| <a href="https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC?si=FLMGbM6MRYy3pa0DmxGIzA">UPPERROOM</a> is taking over Worship 2024 with their new album, 'Moments: 013 \(Live\)'! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>!
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,112 likes - 127 songs - 12 hr 22 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,114 likes - 127 songs - 12 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 11 | [Different \- Live at Mosaic, Los Angeles, 2023](https://open.spotify.com/track/3tSN0n75qQRw3SyCo6u0P9) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Different \(Live at Mosaic, Los Angeles, 2023\)](https://open.spotify.com/album/28geG9hJyX8JtkEqDLTyow) | 6:45 |
 | 12 | [Purify Our Hearts \(Refiner's Fire\) \- Live](https://open.spotify.com/track/0suAivAG70ioof9bEcbFTe) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [SarahBeth Smith](https://open.spotify.com/artist/31aU0Wqs7rmaYaOOgfKcYi), [Justus Tams](https://open.spotify.com/artist/2IiwIcF2ugOhgrqg4IH5Vk) | [Moments: 013 \(Live\)](https://open.spotify.com/album/1SWM0tZNei6sWT0e8JGiRe) | 8:35 |
 | 13 | [So Will I \(100 Billion X\) \- Live](https://open.spotify.com/track/3LQCScj7cBoC2mt7CoKlyP) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [So Will I \(100 Billion X\) \[Live\]](https://open.spotify.com/album/28sPr0oWHphyRdWSPceidb) | 7:07 |
-| 14 | [Yahweh \- Live](https://open.spotify.com/track/3FnAnpIW5uOrTpoVYqGvad) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I), [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk), [Libby Rosa](https://open.spotify.com/artist/1OZYIBIA9ZIu94PFgQiu5R) | [Yahweh \(Live\)](https://open.spotify.com/album/1PXUV7TQp3eROEU5H1glKh) | 12:13 |
+| 14 | [Yahweh \- Live](https://open.spotify.com/track/3FnAnpIW5uOrTpoVYqGvad) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I), [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk), [Elizabeth Rosa](https://open.spotify.com/artist/1sLBX1uGnt9JW6MRAvHAXF) | [Yahweh \(Live\)](https://open.spotify.com/album/1PXUV7TQp3eROEU5H1glKh) | 12:13 |
 | 15 | [Revelation Song](https://open.spotify.com/track/086YlKy50RFarVYtRFFTGJ) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Just As I Am \(A Legacy Of Hymns And Worship\)](https://open.spotify.com/album/5Wm8dbKLD7ermzHvC9hIRv) | 5:56 |
 | 16 | [Calvary's Enough](https://open.spotify.com/track/2oBrfq6TBwRyW15UZozfZs) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Calvary's Enough](https://open.spotify.com/album/0WSEBQibT5euqk9cNl6PU8) | 3:17 |
 | 17 | [Surely](https://open.spotify.com/track/2nwo4mImDCcyD0B7ii7tbq) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK), [Michael Monroe](https://open.spotify.com/artist/2DjzwlGxl8RUPTvvB9hgHv) | [Surely](https://open.spotify.com/album/6cqF6nUlnRGArypZzu0gWC) | 4:30 |

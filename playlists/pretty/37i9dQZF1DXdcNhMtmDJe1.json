@@ -1,6 +1,6 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 85099,
+  "num_followers": 85124,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,26 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
+        "name": "Rhapsody In Blue: Saint-S\u00e4ens, Ravel, Gershwin",
+        "url": "https://open.spotify.com/album/3hFTO4FkWbD6SD0ekUY5f1"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Benjamin Grosvenor",
+          "url": "https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj"
+        }
+      ],
+      "duration_ms": 239693,
+      "name": "Love Walked In",
+      "url": "https://open.spotify.com/track/0EKksM4Hbt4DwTTApwBcDZ"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
         "name": "Gershwin: Porgy and Bess: It Ain't Necessarily So (Arr. Heifetz for Violin and Piano)",
         "url": "https://open.spotify.com/album/5MKnkXYVvwHFuBQwqXctSP"
       },
@@ -359,26 +379,6 @@
       "duration_ms": 161146,
       "name": "Porgy and Bess: It Ain't Necessarily So (Arr. Heifetz for Violin and Piano)",
       "url": "https://open.spotify.com/track/22L3hZxNY2MVaf2Pkquw4u"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Rhapsody In Blue: Saint-S\u00e4ens, Ravel, Gershwin",
-        "url": "https://open.spotify.com/album/3hFTO4FkWbD6SD0ekUY5f1"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Benjamin Grosvenor",
-          "url": "https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj"
-        }
-      ],
-      "duration_ms": 239693,
-      "name": "Love Walked In",
-      "url": "https://open.spotify.com/track/0EKksM4Hbt4DwTTApwBcDZ"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -955,30 +955,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin for Trumpet",
-        "url": "https://open.spotify.com/album/0pdegcimOFi10jS49gi458"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Juraj Barto\u0161",
-          "url": "https://open.spotify.com/artist/6SvTl33pmrXRQvYktp1AqT"
-        },
-        {
-          "name": "Peter Breiner",
-          "url": "https://open.spotify.com/artist/50MREZ0LJcSvrtKuyTV8Su"
-        }
-      ],
-      "duration_ms": 305000,
-      "name": "Girl Crazy, Act I, Embraceable You: But Not for Me (Arr. P. Breiner for trumpet and piano)",
-      "url": "https://open.spotify.com/track/4qShJNxfcmGaNoPDp1H08t"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Gershwin: Piano Concerto in F Major, 2nd Rhapsody & I Got Rhythm Variations",
         "url": "https://open.spotify.com/album/2G5PbCn4yCRPGdzAVoTNxr"
       },
@@ -1003,6 +979,30 @@
       "duration_ms": 762453,
       "name": "Piano Concerto in F Major: II. Adagio",
       "url": "https://open.spotify.com/track/46gNLKrYxnCeufo37Ai1m4"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin for Trumpet",
+        "url": "https://open.spotify.com/album/0pdegcimOFi10jS49gi458"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Juraj Barto\u0161",
+          "url": "https://open.spotify.com/artist/6SvTl33pmrXRQvYktp1AqT"
+        },
+        {
+          "name": "Peter Breiner",
+          "url": "https://open.spotify.com/artist/50MREZ0LJcSvrtKuyTV8Su"
+        }
+      ],
+      "duration_ms": 305000,
+      "name": "Girl Crazy, Act I, Embraceable You: But Not for Me (Arr. P. Breiner for trumpet and piano)",
+      "url": "https://open.spotify.com/track/4qShJNxfcmGaNoPDp1H08t"
     },
     {
       "added_at": "2022-08-05 04:02:00",

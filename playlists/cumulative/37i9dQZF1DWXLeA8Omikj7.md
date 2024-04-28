@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-939 songs - 2 day 19 hr 24 min
+940 songs - 2 day 19 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -544,6 +544,7 @@
 | [Neo \(Tiger Lou Remix\)](https://open.spotify.com/track/7s1WxIDmQ9OsFqApFLj6E3) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Tiger Lou](https://open.spotify.com/artist/7Jr7XgWFnKQ3mUgbhrVNlx) | [Mare Reworks](https://open.spotify.com/album/5bYn4Wb0pXW3NVh0eSlgh4) | 3:49 | 2019-06-19\* | 2022-04-21 |
 | [Neon Light](https://open.spotify.com/track/52ID6pQUnptVQlg7WbLx7x) | [Bituke](https://open.spotify.com/artist/3VCEbWGFkgN6oLTMvkhl2M) | [Neon Light](https://open.spotify.com/album/1WgdVyRz3le2abd7xudewz) | 3:44 | 2019-06-19\* | 2020-10-21 |
 | [Nest of Giants](https://open.spotify.com/track/6pd7pIrouxyluNYOq9mIa8) | [Moonfish](https://open.spotify.com/artist/5sk1WHyEFppVeVrnR6n44T), [Maria Chiara Argirò](https://open.spotify.com/artist/2uz9ERD3U5c4F2CZDS0mzb), [Riccardo Chiaberta](https://open.spotify.com/artist/5VR6i2FLaAb6IXYXzFz9C1) | [Nest of Giants](https://open.spotify.com/album/2r8KQa48qb51Dmsd6HFmh7) | 2:36 | 2023-07-17 |  |
+| [NEVER LOOK DOWN](https://open.spotify.com/track/6GbngWsWlNtJbYMxHPif76) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP) | [NEVER LOOK DOWN](https://open.spotify.com/album/630r50kjEHiZ0hftZtjn5k) | 4:04 | 2024-04-26 |  |
 | [Never Lost](https://open.spotify.com/track/5gFYPS2iyiiQMMvzBlF4a5) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [1987](https://open.spotify.com/album/1mWQKczLANctDIiOKYc4IM) | 6:46 | 2019-06-19\* | 2020-08-26 |
 | [New Beginnings](https://open.spotify.com/track/2dIbIbzsIhjxYGyUELbNjM) | [Daydreamer](https://open.spotify.com/artist/7pcwfhcdyYJqkCV098EgYl) | [Senses](https://open.spotify.com/album/0ALxr1bwap4ptl8rjpLNop) | 2:54 | 2019-05-26\* | 2020-10-22 |
 | [New Lands](https://open.spotify.com/track/5Ti70Fpvrhm4VLo6yE4BlX) | [FEYNMAN](https://open.spotify.com/artist/5bpKJkKb5h112Fy5eLMbWt) | [Air](https://open.spotify.com/album/4pw74rNmWtCAGFMETXYRut) | 3:35 | 2019-06-19\* | 2022-04-14 |
@@ -724,7 +725,7 @@
 | [Sleep Swimming](https://open.spotify.com/track/5M2UUj4MKLWehb2e6FHCU8) | [Gelka](https://open.spotify.com/artist/6xIXch03AK6grENT8RlmeF) | [Sleep Swimming](https://open.spotify.com/album/11tHvsaYYk7uHR7yDAsJoX) | 2:40 | 2020-10-28 | 2022-07-28 |
 | [sleep\_mode](https://open.spotify.com/track/5S2qQsIUJS3082VtpE1mrD) | [Allem Iversom](https://open.spotify.com/artist/6RaUtVLO8R5TsVdJIxSrq1) | [go\_computer](https://open.spotify.com/album/1VhHn3aZb1XO1EbBCMPkd7) | 2:51 | 2019-06-19\* | 2020-10-22 |
 | [Sleepless in Berlin](https://open.spotify.com/track/1noDNeVWioK5Q17deVoUpl) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Sleepless in Berlin](https://open.spotify.com/album/5L7zbbmO9aW5Vj5ZB5yrTs) | 3:18 | 2019-06-19\* | 2020-10-21 |
-| [slice \- Gold Panda Remix](https://open.spotify.com/track/2OrqhbF4qjcSki327nFA3l) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [slice \(Gold Panda Remix\)](https://open.spotify.com/album/37koGE4707P8UdATM25L62) | 4:11 | 2023-12-21 |  |
+| [slice \- Gold Panda Remix](https://open.spotify.com/track/2OrqhbF4qjcSki327nFA3l) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [slice \(Gold Panda Remix\)](https://open.spotify.com/album/37koGE4707P8UdATM25L62) | 4:11 | 2023-12-21 | 2024-04-28 |
 | [Slow Buchla Sunshine](https://open.spotify.com/track/4cwLYDk0qjI7hiwVA5TVSn) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Flow State](https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb) | 3:52 | 2019-07-28 |  |
 | [Slumber Party](https://open.spotify.com/track/1ZmOLLdiD40zv5NWLRR44N) | [Sonny Side Up](https://open.spotify.com/artist/4gFsE3BJKgBw4VdueiIrEl) | [Slumber Party](https://open.spotify.com/album/3uesVMCOOzxd2gbjOTCPmz) | 4:00 | 2019-06-19\* | 2020-10-21 |
 | [Small Moments](https://open.spotify.com/track/1kZJtkm4oTcM4WhJbYudAX) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Flow State](https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb) | 3:31 | 2019-07-25 | 2020-10-22 |

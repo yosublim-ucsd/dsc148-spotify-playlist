@@ -4,7 +4,7 @@
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-129 songs - 14 hr 30 min
+130 songs - 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Dark Snow \- Bones Remix](https://open.spotify.com/track/7ss7beYi753Sxs0fvvtC7T) | [The Rudeman](https://open.spotify.com/artist/4Dqd0M9FVObaErF14Tgj2z), [Keegs Bantom](https://open.spotify.com/artist/1XgMCVnnBJvz7djvk86Ry6), [Bones](https://open.spotify.com/artist/40Vr9VUq5tVrKOOsd68ojn) | [Dark Snow](https://open.spotify.com/album/5AfN5Q8rmWE5XZ8fUxJUlV) | 6:07 | 2023-03-17 | 2024-01-02 |
 | [Dawnlands](https://open.spotify.com/track/4t27eigLB2UK0oM7mXZRP2) | [El Payo](https://open.spotify.com/artist/4Exebvi8UCoxfdApC9vVKU) | [Nkaoza EP](https://open.spotify.com/album/5EzZZtib251P3QhlKtMfOg) | 6:09 | 2024-04-25 |  |
 | [Day And Night \(Mmawe\) \- Original Mix](https://open.spotify.com/track/1dxD8L9rjsFBTIoYHjkVqM) | [Chymamusique](https://open.spotify.com/artist/0nzV2U3TuoZhNqZFW564NI) | [3 By 3](https://open.spotify.com/album/4T4acJ3hbsdQG6lvuJIOqV) | 6:32 | 2022-09-14 | 2023-03-18 |
-| [Deep Asence \- Original Mix](https://open.spotify.com/track/1gIWkyb8qK4Ia7pSUAQGmC) | [Kek'star](https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4) | [Deep Asence \(Original Mix\)](https://open.spotify.com/album/4Q9M2BEfaTKHMfDIDduaNq) | 5:59 | 2024-04-25 |  |
+| [Deep Asence \- Original Mix](https://open.spotify.com/track/1gIWkyb8qK4Ia7pSUAQGmC) | [Kek'star](https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4) | [Deep Asence \(Original Mix\)](https://open.spotify.com/album/4Q9M2BEfaTKHMfDIDduaNq) | 5:59 | 2024-04-25 | 2024-04-28 |
 | [Deep Within](https://open.spotify.com/track/0voE1Kh5SUOiTUiSq4XbYS) | [Tebza De SouL](https://open.spotify.com/artist/32vL21CG5wHt2GTj0flFyG) | [Deep Within](https://open.spotify.com/album/6OcILwpGGNkbvXlzB6KECP) | 7:16 | 2024-03-15 | 2024-04-19 |
 | [Deep Within](https://open.spotify.com/track/5I2QPKhv9d28heg8tzlvMt) | [Tebza De SouL](https://open.spotify.com/artist/32vL21CG5wHt2GTj0flFyG) | [Deep Within](https://open.spotify.com/album/3AwIbt10sltXXgVPBJKYCi) | 7:16 | 2023-03-17 |  |
 | [Different You](https://open.spotify.com/track/7DKC7x1wGVEhex4r5b0FDC) | [DJ Hloni](https://open.spotify.com/artist/0zsgveyOjZ0R4EVtx4NjNu), [MacZito](https://open.spotify.com/artist/2thqWGNDvNBDTetSDqquhC), [YBE](https://open.spotify.com/artist/5M7Y8ONhBfgoR2nC5VuJvz) | [Different You](https://open.spotify.com/album/0EoAED2djxx2kPF6RgWk89) | 6:59 | 2022-09-14 | 2022-11-18 |
@@ -95,6 +95,7 @@
 | [Pray Without Ceasing](https://open.spotify.com/track/2cOw3sROcgo2HOX4wxeSsx) | [Stoz Da Afrikana](https://open.spotify.com/artist/07ZZ0yMkFfJXCLowDjI3RA), [C\-Blak](https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5) | [Pray Without Ceasing](https://open.spotify.com/album/2MDUsJnwKqJlwe4JUJVdWB) | 6:27 | 2022-09-14 | 2022-10-13 |
 | [Push It](https://open.spotify.com/track/0vj7icU6h87yAnFsHMqaQs) | [Mizo4Real](https://open.spotify.com/artist/0J6MLBtnzv4y28omcmd97Y) | [Let It Rain](https://open.spotify.com/album/7gXMf35rmuaFwW1uWG4U0X) | 7:56 | 2022-09-14 | 2023-05-13 |
 | [Queen \- Dan Kye Remix](https://open.spotify.com/track/6R8VPBAucL2CBoW06RfBva) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5), [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Queen \(Dan Kye Remix\)](https://open.spotify.com/album/5swCT2OVTQuomBylGL7f7K) | 5:27 | 2024-02-15 |  |
+| [Ratata](https://open.spotify.com/track/2lMTb7VeVVkQrhIz8uS8dP) | [Leandra.Vert](https://open.spotify.com/artist/0QyhpBoL8IOay4rryRdQ8l), [Chronical Deep](https://open.spotify.com/artist/391IHvSC8S9yNnt3VHZUYt), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N), [FKA Moses](https://open.spotify.com/artist/5bb2nnYAjXPhXXGjv0uHK3), [LaTique](https://open.spotify.com/artist/5RXEBy5lIlw5c5DgcboZAD) | [Ratata](https://open.spotify.com/album/4lmS4HsuJ9TgUa7AMLaDV0) | 5:50 | 2024-04-25 |  |
 | [Reflections](https://open.spotify.com/track/7acjQDLMT1IiCLlazKTe4U) | [Alley SA](https://open.spotify.com/artist/1ScHe3PMvTSjbH6A0XYxoy) | [Reflections](https://open.spotify.com/album/2ZfibpJkXSN6n3Gtsb3Zzk) | 6:45 | 2022-09-14 | 2022-10-04 |
 | [S'khanyisele](https://open.spotify.com/track/45B0hJinafl61IjK5WOqFA) | [Senior Oat](https://open.spotify.com/artist/5cAwYPpCI9QI5V7N0mxUKw), [Sir Bless](https://open.spotify.com/artist/0vJss0iY4jFfFk1DQP3I2m) | [Thief In The Night](https://open.spotify.com/album/5qVSIkvWJAuaMVwBov8b0b) | 6:15 | 2022-09-14 | 2023-03-25 |
 | [Safari \- Original Mix](https://open.spotify.com/track/5C2yySU4ikyeeqkD3ULcBf) | [Kek'star](https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4) | [Safari](https://open.spotify.com/album/1cuuxsujV2CDpUAK2B4mnj) | 6:08 | 2022-09-14 | 2023-03-25 |

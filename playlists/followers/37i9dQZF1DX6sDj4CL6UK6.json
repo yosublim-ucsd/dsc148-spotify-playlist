@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 35980,
+  "2024-04-28": 35986,
   "date_first_scraped": "2022-03-28",
   "description": "Top English songs from Asia. Cover: Frizzell D'souza",
   "name": "IndiEnglish",
@@ -21,6 +21,24 @@
       "duration_ms": 210420,
       "name": "100 words",
       "url": "https://open.spotify.com/track/5tJqtSvAfTJkMrV4Wst4Le"
+    },
+    {
+      "album": {
+        "name": "24",
+        "url": "https://open.spotify.com/album/6TqKil4Puy3gsnhbd8U9Ok"
+      },
+      "artists": [
+        {
+          "name": "Ananya Birla",
+          "url": "https://open.spotify.com/artist/7snhzmuew8iLEDxMIhOU1P"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166566,
+      "name": "24",
+      "url": "https://open.spotify.com/track/47ibwiSMtAAUD7mrWuuaS8"
     },
     {
       "album": {
@@ -2067,7 +2085,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 138461,
       "name": "Hope this song finds you",
       "url": "https://open.spotify.com/track/6dNDbNSwF4gF3Cp8hDCnpQ"
@@ -3853,7 +3871,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 242400,
       "name": "Perfect Life",
       "url": "https://open.spotify.com/track/61ayAzvFPbItOznMjWBZwu"
@@ -4013,6 +4031,24 @@
       "duration_ms": 222500,
       "name": "Rain",
       "url": "https://open.spotify.com/track/7smZOvVtWfWZv0sDvSsArS"
+    },
+    {
+      "album": {
+        "name": "Red Flag",
+        "url": "https://open.spotify.com/album/5iHnV0iLx5Psj2k0m2rgXr"
+      },
+      "artists": [
+        {
+          "name": "Priyanka Nath",
+          "url": "https://open.spotify.com/artist/7xKgO2AdW8dPHlXrxBNTpE"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154609,
+      "name": "Red Flag",
+      "url": "https://open.spotify.com/track/2or2AibuoQJ9aJF0Ae9k6a"
     },
     {
       "album": {

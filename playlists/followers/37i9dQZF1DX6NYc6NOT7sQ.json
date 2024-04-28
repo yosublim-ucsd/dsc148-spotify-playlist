@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 72111,
+  "2024-04-28": 72147,
   "date_first_scraped": "2023-02-25",
   "description": "<a href=\"spotify:artist:3gNEIgLeknpwkNViU8WAhg\">Oceanvs Orientalis</a>' favorite tracks. Updated regularly. Curated by Oceanvs Orientalis. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Oceanvs Orientalis' track IDs",
@@ -53,7 +53,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 431240,
       "name": "Abiogenesis",
       "url": "https://open.spotify.com/track/0zz17YzBvTBLHwOwaCvHd0"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 218310,
       "name": "Broken Roof",
       "url": "https://open.spotify.com/track/3uvr288NClDED7svvsZbDk"
@@ -473,7 +473,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 100748,
       "name": "Chatter",
       "url": "https://open.spotify.com/track/3UPwvDgvEAXq7Eb88XbWao"
@@ -502,6 +502,24 @@
     },
     {
       "album": {
+        "name": "Portrait of the Obscure",
+        "url": "https://open.spotify.com/album/7ceLPlFL0mhnAKqCFfPjhm"
+      },
+      "artists": [
+        {
+          "name": "Oceanvs Orientalis",
+          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307451,
+      "name": "Conritmo",
+      "url": "https://open.spotify.com/track/7m75ejp6P4NO3UG8VT89nQ"
+    },
+    {
+      "album": {
         "name": "See You When You Get There",
         "url": "https://open.spotify.com/album/1SDUF56j6m0F8g1Nq8VMMr"
       },
@@ -513,7 +531,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 174216,
       "name": "Crystal Maze",
       "url": "https://open.spotify.com/track/5dJRyGT1eftJYYttOs6EmU"
@@ -767,7 +785,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 283000,
       "name": "Fall",
       "url": "https://open.spotify.com/track/2EjLphAHsvFU7t5NukmSsG"
@@ -973,7 +991,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 304000,
       "name": "Getting Loose",
       "url": "https://open.spotify.com/track/0TVwDTbUwDJIrGfAKYmODV"
@@ -1013,7 +1031,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 285853,
       "name": "Glass Eights - Original Mix",
       "url": "https://open.spotify.com/track/49OdWCAgYQEsEqZjjXK6vU"
@@ -1075,7 +1093,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 331124,
       "name": "harami",
       "url": "https://open.spotify.com/track/1ZnJkF9IkibF0fmNcKwpOO"
@@ -1097,7 +1115,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 221423,
       "name": "Heart Pieces",
       "url": "https://open.spotify.com/track/7Cg0b0LZYNmCu3jWoPY4t3"
@@ -1527,10 +1545,54 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 190319,
       "name": "Laikas",
       "url": "https://open.spotify.com/track/7gRoM8h6oJD1FO90B9Hli9"
+    },
+    {
+      "album": {
+        "name": "Portrait of the Obscure",
+        "url": "https://open.spotify.com/album/7ceLPlFL0mhnAKqCFfPjhm"
+      },
+      "artists": [
+        {
+          "name": "Oceanvs Orientalis",
+          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
+        },
+        {
+          "name": "Tilahun Gessesse",
+          "url": "https://open.spotify.com/artist/3pdTkHyUsZlIZfnxKWnfHZ"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232577,
+      "name": "Lanchi Biye",
+      "url": "https://open.spotify.com/track/149dZNUuu1bm1MAytOE9QE"
+    },
+    {
+      "album": {
+        "name": "Late at night",
+        "url": "https://open.spotify.com/album/6zjZ2kjZjXi5X73cxlfs4P"
+      },
+      "artists": [
+        {
+          "name": "Simon Says",
+          "url": "https://open.spotify.com/artist/02gGeoSOTucfuNKLAD7ZKK"
+        },
+        {
+          "name": "Aisjah",
+          "url": "https://open.spotify.com/artist/3Z2oh5bXDYqRfRI6bRC06v"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273533,
+      "name": "Late at night",
+      "url": "https://open.spotify.com/track/4ddsoix35wZul0mpbilDMu"
     },
     {
       "album": {
@@ -1549,10 +1611,28 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 436602,
       "name": "Le Funk Fatale (feat. Karas Day)",
       "url": "https://open.spotify.com/track/1IGzw0lRYk24DuO74GEgTl"
+    },
+    {
+      "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193401,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/5fzUKYfATEqxDmRWfbikAm"
     },
     {
       "album": {
@@ -1784,6 +1864,42 @@
     },
     {
       "album": {
+        "name": "Portrait of the Obscure",
+        "url": "https://open.spotify.com/album/7ceLPlFL0mhnAKqCFfPjhm"
+      },
+      "artists": [
+        {
+          "name": "Oceanvs Orientalis",
+          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255979,
+      "name": "Mercury",
+      "url": "https://open.spotify.com/track/2LBzqBb8fCUNnkbkhdssyE"
+    },
+    {
+      "album": {
+        "name": "Portrait of the Obscure",
+        "url": "https://open.spotify.com/album/7ceLPlFL0mhnAKqCFfPjhm"
+      },
+      "artists": [
+        {
+          "name": "Oceanvs Orientalis",
+          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291816,
+      "name": "Ministry Of Midnight",
+      "url": "https://open.spotify.com/track/6BiDd8dPUy3JvGlHC3pzrf"
+    },
+    {
+      "album": {
         "name": "Tales of the Inexpressible",
         "url": "https://open.spotify.com/album/6XJ23BcdK5xcJxPPGbJw0n"
       },
@@ -1795,7 +1911,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 532533,
       "name": "My Head Feels Like A Frisbee",
       "url": "https://open.spotify.com/track/6jQqXXBku8QYv656lDcff7"
@@ -1817,7 +1933,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 187786,
       "name": "M\u00e9rua",
       "url": "https://open.spotify.com/track/71nsM1z5YtkwjoxKxeslWF"
@@ -1919,7 +2035,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 435798,
       "name": "No Hay Dub",
       "url": "https://open.spotify.com/track/7nv3M2hLmXLXaibVTyZFmO"
@@ -1937,7 +2053,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 281980,
       "name": "Odyssey",
       "url": "https://open.spotify.com/track/3pAlKMwng8S0zlKL71glZD"
@@ -1991,7 +2107,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 397471,
       "name": "Palermo",
       "url": "https://open.spotify.com/track/46MwDjJIlbV7mxZRri9J8R"
@@ -2009,10 +2125,28 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 225207,
       "name": "People On Sunday",
       "url": "https://open.spotify.com/track/5GY0OnbXEa7rMivlDo13Xl"
+    },
+    {
+      "album": {
+        "name": "Piccolo",
+        "url": "https://open.spotify.com/album/1ayCm5bCKQC3PQxmvOAepq"
+      },
+      "artists": [
+        {
+          "name": "Ez\u00e9chiel Pailh\u00e8s",
+          "url": "https://open.spotify.com/artist/4rqegcqfzES4oBRh4n8TM1"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220338,
+      "name": "Piccolo",
+      "url": "https://open.spotify.com/track/4ShfSvW37pRWycux0s73k1"
     },
     {
       "album": {
@@ -2079,7 +2213,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 133909,
       "name": "Pizza",
       "url": "https://open.spotify.com/track/7f2zGbGUnghatkHLiOSoRf"
@@ -2331,7 +2465,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 425099,
       "name": "Sirkupu",
       "url": "https://open.spotify.com/track/3QpnZdAU51HGKV0BH0Zqse"
@@ -2353,6 +2487,24 @@
       "duration_ms": 242544,
       "name": "Smooth Operator",
       "url": "https://open.spotify.com/track/3AljU8XfJkfI2kswdRHnee"
+    },
+    {
+      "album": {
+        "name": "Portrait of the Obscure",
+        "url": "https://open.spotify.com/album/7ceLPlFL0mhnAKqCFfPjhm"
+      },
+      "artists": [
+        {
+          "name": "Oceanvs Orientalis",
+          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292663,
+      "name": "Soul Of Calypso",
+      "url": "https://open.spotify.com/track/1wQSKnFycLUgG5OCvlLrm0"
     },
     {
       "album": {
@@ -2411,7 +2563,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 131510,
       "name": "SpVce",
       "url": "https://open.spotify.com/track/5v5vgg9dphPfemoL4U5uxb"
@@ -2473,6 +2625,28 @@
       "duration_ms": 489142,
       "name": "Sunyata - Original",
       "url": "https://open.spotify.com/track/2rG2JtE5Edzoy3Bn6XWVtG"
+    },
+    {
+      "album": {
+        "name": "it might be french",
+        "url": "https://open.spotify.com/album/5jGB0CTvNs6MDoS95FaxM1"
+      },
+      "artists": [
+        {
+          "name": "Waldeck Sextet",
+          "url": "https://open.spotify.com/artist/7r1EZooDnCftDgMwrFXyf3"
+        },
+        {
+          "name": "Patrizia Ferrara",
+          "url": "https://open.spotify.com/artist/6ZkbsY4MO4EahWrRQBRKLM"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219119,
+      "name": "Sweetest Lies",
+      "url": "https://open.spotify.com/track/4DO0CvFY3ExVYAxcJgQzrK"
     },
     {
       "album": {
@@ -2633,6 +2807,32 @@
       "duration_ms": 378344,
       "name": "The Misorientation of Autarkic",
       "url": "https://open.spotify.com/track/4fOqMMohz5wvi019nuhlnh"
+    },
+    {
+      "album": {
+        "name": "ALL THAT MATTERS",
+        "url": "https://open.spotify.com/album/6o6LkvldTFrCFvdppX6fQY"
+      },
+      "artists": [
+        {
+          "name": "Olivier Libaux",
+          "url": "https://open.spotify.com/artist/4JolMwisQMUtwysQfA193F"
+        },
+        {
+          "name": "M\u00e9lanie Pain",
+          "url": "https://open.spotify.com/artist/2Sk0H4rS0QuQESESHELFy0"
+        },
+        {
+          "name": "Rapha\u00ebl Chassin",
+          "url": "https://open.spotify.com/artist/5h3xWHUBAMfWz6nL84j9wZ"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179693,
+      "name": "The Model",
+      "url": "https://open.spotify.com/track/1iHPo2jF7jfCQbqlQTd5dH"
     },
     {
       "album": {
@@ -2878,6 +3078,32 @@
     },
     {
       "album": {
+        "name": "Buddha Bar XXVI",
+        "url": "https://open.spotify.com/album/6eGZY40LxmUC8ctoP8CdAz"
+      },
+      "artists": [
+        {
+          "name": "Ravin",
+          "url": "https://open.spotify.com/artist/3HCPQCRWBlwDmunTTzn3bb"
+        },
+        {
+          "name": "Gosha",
+          "url": "https://open.spotify.com/artist/4Jf1PKoGgtUPcqLgCc1k0O"
+        },
+        {
+          "name": "Tomash",
+          "url": "https://open.spotify.com/artist/2NeLA2fc9NB01mIRvO8e4Y"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285175,
+      "name": "Vira v Peremogu",
+      "url": "https://open.spotify.com/track/5oYlLaqDIPK4uFOQxt3JFZ"
+    },
+    {
+      "album": {
         "name": "What Kinda Music",
         "url": "https://open.spotify.com/album/6iOCv7oGL5sGi2aVnRz2BI"
       },
@@ -2947,7 +3173,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 386360,
       "name": "Wonder Bitch",
       "url": "https://open.spotify.com/track/6LPbWo649BdQGNfx08KJB9"

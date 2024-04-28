@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 38266,
+  "2024-04-28": 38345,
   "date_first_scraped": "2022-07-01",
   "description": "Du Congo, au monde. \ud83c\udf0d Photo: Naza",
   "name": "Biso Na Biso",
@@ -383,7 +383,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 161977,
       "name": "Aucune attache",
       "url": "https://open.spotify.com/track/3KZN01EuBoqh04jyGXpnxr"
@@ -686,6 +686,28 @@
     },
     {
       "album": {
+        "name": "African Proud",
+        "url": "https://open.spotify.com/album/1l60ntWVk4rlaLUnnGaB9t"
+      },
+      "artists": [
+        {
+          "name": "DJ Moh Green",
+          "url": "https://open.spotify.com/artist/6i4GzOgHcFD5XGbEUt0KhH"
+        },
+        {
+          "name": "skipp narco",
+          "url": "https://open.spotify.com/artist/5gMV8JxqqLD8N2N7sZ1DYy"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189291,
+      "name": "Beaut\u00e9 Africaine",
+      "url": "https://open.spotify.com/track/6JDpHqnwC9gn2HV88m2q4z"
+    },
+    {
+      "album": {
         "name": "Nouvelle \u00e8re",
         "url": "https://open.spotify.com/album/7zQsrVvfvT0iyv6Ute4Jti"
       },
@@ -777,7 +799,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 153913,
       "name": "Bina Nanu B\u00e9b\u00e9 (feat. De Panama)",
       "url": "https://open.spotify.com/track/2K8ERVVjWyWLxKFNo5fhYz"
@@ -977,6 +999,28 @@
       "duration_ms": 196579,
       "name": "Boss",
       "url": "https://open.spotify.com/track/3HeBKfgNiFgor7SjzzX85S"
+    },
+    {
+      "album": {
+        "name": "Boucan (feat. Franglish)",
+        "url": "https://open.spotify.com/album/6SHZjDJD8769qn7l5kGp4r"
+      },
+      "artists": [
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171216,
+      "name": "Boucan (feat. Franglish)",
+      "url": "https://open.spotify.com/track/6jElwivDtkQUv9QFGrdN26"
     },
     {
       "album": {
@@ -2271,7 +2315,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 230558,
       "name": "Fina Nga",
       "url": "https://open.spotify.com/track/4Q3cYiEH44ItpU6wc9wbRf"
@@ -4459,7 +4503,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 156428,
       "name": "MUANA MUKIE",
       "url": "https://open.spotify.com/track/4CozW8gCGgM6LGddrdLTyR"
@@ -6650,6 +6694,28 @@
     },
     {
       "album": {
+        "name": "Toxic in Love",
+        "url": "https://open.spotify.com/album/1ZUCVlEwWNO0xvhBNjLtEK"
+      },
+      "artists": [
+        {
+          "name": "Yanno",
+          "url": "https://open.spotify.com/artist/19mGvdSo2IfLvZdeXLN4R1"
+        },
+        {
+          "name": "Moker B",
+          "url": "https://open.spotify.com/artist/5hEQ2q2irbdB9uMq5nNSJ2"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160937,
+      "name": "Toxic in Love",
+      "url": "https://open.spotify.com/track/7ox7u5kOGnia6wsIdKj5ef"
+    },
+    {
+      "album": {
         "name": "Toye Mabe",
         "url": "https://open.spotify.com/album/5HXawg742Wf07m3nR4ixwq"
       },
@@ -6805,6 +6871,28 @@
       "duration_ms": 351746,
       "name": "Trouvez-la moi",
       "url": "https://open.spotify.com/track/4GCwwGStDEIQQWqUigg4Sa"
+    },
+    {
+      "album": {
+        "name": "Tu es \u00e0 moi",
+        "url": "https://open.spotify.com/album/2zgBLkJgYZsPaFtV6rd5rE"
+      },
+      "artists": [
+        {
+          "name": "Shiki L'artist",
+          "url": "https://open.spotify.com/artist/3AOYT74E7Wzov4s98wubcl"
+        },
+        {
+          "name": "Aris",
+          "url": "https://open.spotify.com/artist/6o4aUPyhBkSZWdpWZ88p31"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173877,
+      "name": "Tu es \u00e0 moi",
+      "url": "https://open.spotify.com/track/3n0VfR0W0YmJ8WCWZB1G60"
     },
     {
       "album": {

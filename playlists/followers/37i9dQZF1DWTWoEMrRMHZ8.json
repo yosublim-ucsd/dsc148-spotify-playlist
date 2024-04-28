@@ -1,7 +1,7 @@
 {
-  "2024-04-27": 343854,
+  "2024-04-28": 343825,
   "date_first_scraped": "2022-01-18",
-  "description": "As belas novidades da MPB. Foto: Roberta Campos, George Israel",
+  "description": "As belas novidades da MPB. Foto: Feyj\u00e3o, Gilberto Gil",
   "name": "Divina MPB",
   "tracks": [
     {
@@ -484,6 +484,32 @@
     },
     {
       "album": {
+        "name": "Abre Alas",
+        "url": "https://open.spotify.com/album/6FJnOvFisHuRl54X9wedcP"
+      },
+      "artists": [
+        {
+          "name": "Ivan Lins",
+          "url": "https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF"
+        },
+        {
+          "name": "George Robert",
+          "url": "https://open.spotify.com/artist/4xGPulLtcIrFb9lddYv2lT"
+        },
+        {
+          "name": "Leo Amuedo",
+          "url": "https://open.spotify.com/artist/0ucoRtPFoLQTjyPahQZz4Y"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332106,
+      "name": "Abre Alas",
+      "url": "https://open.spotify.com/track/5uMzEzOgJv7tfhV5CxgyVJ"
+    },
+    {
+      "album": {
         "name": "\u00d8RGIA",
         "url": "https://open.spotify.com/album/2hi7x3OWSRjrXozCR8OwIA"
       },
@@ -567,7 +593,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 235586,
       "name": "Acabou, mas tem...",
       "url": "https://open.spotify.com/track/5egpEMl7hYdmLP9ptpeE12"
@@ -2039,7 +2065,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 213103,
       "name": "Breve",
       "url": "https://open.spotify.com/track/5gqsx2xuOtY20Hg4U8rV8x"
@@ -2185,6 +2211,32 @@
       "duration_ms": 203946,
       "name": "Camale\u00e3o Errante",
       "url": "https://open.spotify.com/track/4lJ4AUJRWtjS5h0iKe24TE"
+    },
+    {
+      "album": {
+        "name": "Camangada",
+        "url": "https://open.spotify.com/album/0jPHoKSXL5Dai0XXWi6ktU"
+      },
+      "artists": [
+        {
+          "name": "Marco Bosco",
+          "url": "https://open.spotify.com/artist/1NHVeuIJo4UwNIkerMOfUb"
+        },
+        {
+          "name": "Wilson Simoninha",
+          "url": "https://open.spotify.com/artist/2xhtX9ufvSwDbiH9VQ8pHr"
+        },
+        {
+          "name": "Luis Vagner",
+          "url": "https://open.spotify.com/artist/7yYHTVQiPAbf63Clu5tVmS"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268322,
+      "name": "Camangada",
+      "url": "https://open.spotify.com/track/61WYa5NtQS6lrxhkHP4lKf"
     },
     {
       "album": {
@@ -3105,6 +3157,24 @@
       "duration_ms": 204520,
       "name": "Corpo a Corpo",
       "url": "https://open.spotify.com/track/2hZgZByQW2nnfYtatCsBsy"
+    },
+    {
+      "album": {
+        "name": "Novela",
+        "url": "https://open.spotify.com/album/7n5kZhxjk76GU7ssMkgjOd"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9u",
+          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160231,
+      "name": "Cremosa",
+      "url": "https://open.spotify.com/track/0Zq70S17PSVxiRewtTtzy2"
     },
     {
       "album": {
@@ -4187,7 +4257,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 148186,
       "name": "Estrela do Oriente",
       "url": "https://open.spotify.com/track/5rg1EoerPjaGv00vWBy2MS"
@@ -4628,6 +4698,24 @@
     },
     {
       "album": {
+        "name": "FICA",
+        "url": "https://open.spotify.com/album/7auYdm6FW9UqaPXqfFvbIn"
+      },
+      "artists": [
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206781,
+      "name": "FICA",
+      "url": "https://open.spotify.com/track/5fMTlLvvfPZ0xWSCcTsZFz"
+    },
+    {
+      "album": {
         "name": "Unilateral",
         "url": "https://open.spotify.com/album/2LzdiXVbmRVKg9oUV0xJKO"
       },
@@ -4967,6 +5055,24 @@
       "duration_ms": 204873,
       "name": "Girassol",
       "url": "https://open.spotify.com/track/4S0ifovuVyfVFJo0hnI3wK"
+    },
+    {
+      "album": {
+        "name": "Golpe Baixo",
+        "url": "https://open.spotify.com/album/3hdf3xENSIWkNHox6Jr43K"
+      },
+      "artists": [
+        {
+          "name": "Joyce Alane",
+          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158749,
+      "name": "Golpe Baixo",
+      "url": "https://open.spotify.com/track/1iNV0uXItYDRZjVLSj2zgO"
     },
     {
       "album": {
@@ -6253,7 +6359,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 143933,
       "name": "Maria Maria - Spotify Singles",
       "url": "https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn"
@@ -6417,7 +6523,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 190773,
       "name": "Medita\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0ueOxHSHracxaMRZslZt05"
@@ -8398,6 +8504,28 @@
     },
     {
       "album": {
+        "name": "OUTONO",
+        "url": "https://open.spotify.com/album/37qt44UvPlfYZMc7TvqqMF"
+      },
+      "artists": [
+        {
+          "name": "Francisco, el Hombre",
+          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
+        },
+        {
+          "name": "Pato Fu",
+          "url": "https://open.spotify.com/artist/4NSbUIfUAkaedUIm8eJ631"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229549,
+      "name": "OUTONO",
+      "url": "https://open.spotify.com/track/3bqDCnOGSSv2ELoAs7tfeZ"
+    },
+    {
+      "album": {
         "name": "Deixa Vir Do Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/4IlVpTe4eaaIvMBmyMCT9y"
       },
@@ -9201,7 +9329,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 185639,
       "name": "Por Que N\u00e3o",
       "url": "https://open.spotify.com/track/4JXUxqykBgeotbc9a8zMYA"
@@ -10683,7 +10811,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 170614,
       "name": "Sad Baile",
       "url": "https://open.spotify.com/track/2ef1I6bGG8K0AHQaqGKiVA"
@@ -11279,7 +11407,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 189713,
       "name": "SERENA",
       "url": "https://open.spotify.com/track/4ZxM1fRBKH1IdiKWPE6eZc"
@@ -11551,7 +11679,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 251686,
       "name": "Sonho de Rainha Rei",
       "url": "https://open.spotify.com/track/0kOtSOUyumKGiN21NTF30l"
@@ -11913,7 +12041,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 181800,
       "name": "Tarde Em Itapu\u00e3",
       "url": "https://open.spotify.com/track/32WEGXh89ioVSfemQvdeKF"
@@ -12611,7 +12739,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 177586,
       "name": "Tudo \u00e9 Carnaval",
       "url": "https://open.spotify.com/track/3X5hJ2EqdIKpmw5tagtAnK"
@@ -13042,6 +13170,28 @@
     },
     {
       "album": {
+        "name": "Vento",
+        "url": "https://open.spotify.com/album/5bbVhxfRTR1e1Ps0XYOWkK"
+      },
+      "artists": [
+        {
+          "name": "Feyj\u00e3o",
+          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172329,
+      "name": "Vento",
+      "url": "https://open.spotify.com/track/6VQ5R3OQeQjwEwxPPlkNMi"
+    },
+    {
+      "album": {
         "name": "Portas",
         "url": "https://open.spotify.com/album/3l2TdM4HyHoifHzpfzhvaT"
       },
@@ -13461,7 +13611,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 172268,
       "name": "V\u00e1 Com Deus",
       "url": "https://open.spotify.com/track/7HzpaONbbliAzPvtnh96UC"

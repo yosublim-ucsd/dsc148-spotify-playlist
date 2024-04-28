@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 30,
+  "2024-04-28": 30,
   "date_first_scraped": "2024-01-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/4faXS5M3wmHrYeRCoMXyUg\">Katharina Emendoerfer</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Katharina Emendoerfer",
@@ -869,10 +869,32 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 166750,
       "name": "Talk To My Body",
       "url": "https://open.spotify.com/track/1gE7in0fMOo1IENW4A5aa8"
+    },
+    {
+      "album": {
+        "name": "Talk To My Body",
+        "url": "https://open.spotify.com/album/0lhCnHBthlbwEaQuvvhPWB"
+      },
+      "artists": [
+        {
+          "name": "J-MOX",
+          "url": "https://open.spotify.com/artist/0cFSCEnmtvNCdKNxPLSwP2"
+        },
+        {
+          "name": "Harina",
+          "url": "https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166750,
+      "name": "Talk To My Body",
+      "url": "https://open.spotify.com/track/5NIRs5yzSHnD4lDiZhTyt1"
     },
     {
       "album": {

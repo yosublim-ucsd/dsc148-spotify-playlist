@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 287414,
+  "2024-04-28": 287530,
   "date_first_scraped": "2022-07-11",
   "description": "I'm The One! A TEEnager Z is here.",
   "name": "This Is ATEEZ",
@@ -429,6 +429,24 @@
       "duration_ms": 182132,
       "name": "Dancing Like Butterfly Wings",
       "url": "https://open.spotify.com/track/0sZpzFq1Ms8MQwuCe8WThA"
+    },
+    {
+      "album": {
+        "name": "NOT OKAY",
+        "url": "https://open.spotify.com/album/7uBc2WW6vvm2QH6Nre7ND1"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259346,
+      "name": "Days",
+      "url": "https://open.spotify.com/track/1f8qRx4uWmiwSIsQoZU5rH"
     },
     {
       "album": {
@@ -1243,6 +1261,24 @@
       "duration_ms": 216785,
       "name": "New World",
       "url": "https://open.spotify.com/track/0rvQzaVeceFaksUoeyonXw"
+    },
+    {
+      "album": {
+        "name": "NOT OKAY",
+        "url": "https://open.spotify.com/album/7uBc2WW6vvm2QH6Nre7ND1"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216600,
+      "name": "NOT OKAY",
+      "url": "https://open.spotify.com/track/4t7YII5UwkfkduFczMtdb4"
     },
     {
       "album": {

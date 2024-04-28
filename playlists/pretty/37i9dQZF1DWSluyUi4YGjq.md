@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > 20 new tracks added by Wisp to celebrate her new EP Pandora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,571 likes - 126 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,734 likes - 126 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

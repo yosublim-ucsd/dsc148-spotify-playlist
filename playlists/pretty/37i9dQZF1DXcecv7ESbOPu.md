@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,747 likes - 126 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,795 likes - 126 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 85 | [Say What You Need To Say](https://open.spotify.com/track/1KfFddjWI4Ev7YX4rmspTF) | [Oceanside](https://open.spotify.com/artist/5QCwRUSPkHc6uD78wTCcXR), [Badjack](https://open.spotify.com/artist/40oI86vaTUHgkSGlYkEiLM) | [Say What You Need To Say](https://open.spotify.com/album/1utlAOthKhlYPuBSXGv3Sz) | 2:23 |
 | 86 | [räknar tårar](https://open.spotify.com/track/1n74N2vgw2TCuy7JiRh3l6) | [Oskar Häggström](https://open.spotify.com/artist/69ZOZoebEshyscvb3HktEf) | [räknar tårar](https://open.spotify.com/album/4W8zsbaconYzU4YMMRjF5o) | 2:52 |
 | 87 | [Big Time Nothing](https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Big Time Nothing](https://open.spotify.com/album/5Cn1ahgwgul033qDq87n1X) | 2:58 |
-| 88 | [Good Things](https://open.spotify.com/track/7nV0ORUyLQBj1J8LGKh1IW) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Good Things](https://open.spotify.com/album/1oagZBKRheVpkMCJ81O9x0) | 2:58 |
+| 88 | [Good Things](https://open.spotify.com/track/7nV0ORUyLQBj1J8LGKh1IW) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Good Things](https://open.spotify.com/album/1oagZBKRheVpkMCJ81O9x0) | 2:57 |
 | 89 | [Knowing Me, Knowing You \- Bonus Track](https://open.spotify.com/track/4EBgy9sx33avTQnpchkCJI) | [A\*Teens](https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9) | [The ABBA Generation \(Bonus Version\)](https://open.spotify.com/album/1w1vou0DVCzMfn0BWfFtgT) | 4:07 |
 | 90 | [King Of The Hill \(feat\. Roc Boyz\)](https://open.spotify.com/track/4x7O0ZgkDIa9a8kkSLvith) | [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j), [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Stikk I Brystet](https://open.spotify.com/album/40d4Icn5bTlx1rtVWV0Td7) | 2:34 |
 | 91 | [Tiffanys](https://open.spotify.com/track/3XGOPGW6OpRBsYarBlcyIb) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [ALONE](https://open.spotify.com/album/7CQWEPM5BVSDy3QS4Eb38H) | 3:08 |

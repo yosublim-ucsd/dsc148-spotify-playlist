@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 
 > Listen to women at full volume\. Cover \- Alka Yagnik
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,612 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,615 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 | 19 | [Khayaal](https://open.spotify.com/track/1hlpcQkgSpvHTrdVIz79Ow) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Goldie Sohel](https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv) | [Khayaal](https://open.spotify.com/album/4Ox9ZXam3tPU1uOQrRZKsu) | 3:55 |
 | 20 | [Dilbar \(From "Satyameva Jayate"\)](https://open.spotify.com/track/4tjLYTXFqZhkUDga4bQ0yl) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Dilbar \(From "Satyameva Jayate"\)](https://open.spotify.com/album/27u2VWTy7ZtiL9ExdzRoXS) | 3:04 |
 | 21 | [Kaavaalaa \(From "Jailer"\)](https://open.spotify.com/track/3M9G4jJAgDLB9ycinua8Wo) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Arunraja Kamaraj](https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe) | [Kaavaalaa \(From "Jailer"\)](https://open.spotify.com/album/2zyHoHE002bpKqLY52nbAs) | 3:10 |
-| 22 | [Aadat](https://open.spotify.com/track/5tqjJD5fD85iNMFxuLTaoN) | [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs), [bebhumika](https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl) | [Aadat](https://open.spotify.com/album/2QGgqhrl1kWtxhkqYN0BaJ) | 2:56 |
+| 22 | [Aadat](https://open.spotify.com/track/5tqjJD5fD85iNMFxuLTaoN) | [Lisa Mishra](https://open.spotify.com/artist/6KwlF85vq5Hc4UCXU7TmDH), [bebhumika](https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl) | [Aadat](https://open.spotify.com/album/2QGgqhrl1kWtxhkqYN0BaJ) | 2:56 |
 | 23 | [Phir Sochna Kya](https://open.spotify.com/track/3fVrmEtotXkQDmbANApL2W) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Phir Sochna Kya](https://open.spotify.com/album/4h0ZRfWo6bjtLnR8cvVZBa) | 2:08 |
 | 24 | [Nayee Nazar](https://open.spotify.com/track/1rKee5PFhLdqaAFOLtc8xd) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Nayee Nazar](https://open.spotify.com/album/0H1JR1Lmm7IxNH8IqK192x) | 3:58 |
 | 25 | [Gori Tharo](https://open.spotify.com/track/7LBhKgLXTiUBc37fiqOlzk) | [Imran Khan Sitar](https://open.spotify.com/artist/1UrxT8kr1FXLymiN3SWpEP), [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Song Craft Season 1](https://open.spotify.com/album/6cyCyVWsO3y369yadNqbmA) | 6:21 |

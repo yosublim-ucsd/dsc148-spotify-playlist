@@ -2,7 +2,7 @@
 
 ### [This Is 結束バンド](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1mhg4h)
 
-> This is 結束バンド\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is 結束バンド\. The essential tracks, all in one playlist.
 
 31 songs - 2 hr 1 min
 

@@ -1,6 +1,6 @@
 {
   "description": "Le patrimoine de la chanson fran\u00e7aise. Photo : Charles Aznavour",
-  "num_followers": 534894,
+  "num_followers": 534913,
   "original_name": "Standards de la Chanson Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
@@ -281,20 +281,20 @@
       "url": "https://open.spotify.com/track/0PIAMCcvkLZ6P2YwWZ1e5H"
     },
     {
-      "added_at": "2023-10-19 14:26:00",
+      "added_at": "2024-03-22 19:37:47",
       "album": {
-        "name": "La Montagne",
-        "url": "https://open.spotify.com/album/4VG6Utj03XZ26BnoCH8C0P"
+        "name": "1943 - 1948 (Remasteris\u00e9 en 2017)",
+        "url": "https://open.spotify.com/album/2vo9j3dgK07xfGodOH11gZ"
       },
       "artists": [
         {
-          "name": "Jean Ferrat",
-          "url": "https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt"
+          "name": "Charles Trenet",
+          "url": "https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ"
         }
       ],
-      "duration_ms": 184813,
-      "name": "La montagne",
-      "url": "https://open.spotify.com/track/1IsYgxPzYd4cBB2qMGZ1mG"
+      "duration_ms": 201626,
+      "name": "La mer - Remasteris\u00e9 en 2017",
+      "url": "https://open.spotify.com/track/1n29R9nsoyeFbUuvmnmw1y"
     },
     {
       "added_at": "2023-10-19 14:26:00",
@@ -313,20 +313,20 @@
       "url": "https://open.spotify.com/track/2xZfPZxInlDXDKc6NDts8Z"
     },
     {
-      "added_at": "2024-03-22 19:37:47",
+      "added_at": "2023-10-19 14:26:00",
       "album": {
-        "name": "1943 - 1948 (Remasteris\u00e9 en 2017)",
-        "url": "https://open.spotify.com/album/2vo9j3dgK07xfGodOH11gZ"
+        "name": "La Montagne",
+        "url": "https://open.spotify.com/album/4VG6Utj03XZ26BnoCH8C0P"
       },
       "artists": [
         {
-          "name": "Charles Trenet",
-          "url": "https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ"
+          "name": "Jean Ferrat",
+          "url": "https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt"
         }
       ],
-      "duration_ms": 201626,
-      "name": "La mer - Remasteris\u00e9 en 2017",
-      "url": "https://open.spotify.com/track/1n29R9nsoyeFbUuvmnmw1y"
+      "duration_ms": 184813,
+      "name": "La montagne",
+      "url": "https://open.spotify.com/track/1IsYgxPzYd4cBB2qMGZ1mG"
     },
     {
       "added_at": "2023-10-19 14:26:00",

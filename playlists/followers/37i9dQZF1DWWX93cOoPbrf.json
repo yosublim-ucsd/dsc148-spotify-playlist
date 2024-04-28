@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 816950,
+  "2024-04-28": 817114,
   "date_first_scraped": "2022-07-24",
   "description": "Lo m\u00e1s fresco de la cosecha 2024. Tito Double P, Jaziel Nu\u00f1ez en portada.",
   "name": "Corridos 2024",
@@ -2093,7 +2093,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 142000,
       "name": "BOSS",
       "url": "https://open.spotify.com/track/7dArKmMv7j6qA3x1MvicRj"
@@ -2727,7 +2727,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 186366,
       "name": "Chambeando En Lo Verde",
       "url": "https://open.spotify.com/track/7qfEXN9F6xhtgpsadxQu8m"
@@ -4477,7 +4477,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 183968,
       "name": "Disfruto el Momento",
       "url": "https://open.spotify.com/track/1SPLvy8C1kBaBQfXLsFmPp"
@@ -5822,6 +5822,24 @@
     },
     {
       "album": {
+        "name": "El Cherrys",
+        "url": "https://open.spotify.com/album/1gp6Edtpfk9T6WUY2GPkVR"
+      },
+      "artists": [
+        {
+          "name": "Grupo 3 Mandos",
+          "url": "https://open.spotify.com/artist/30NWCe5fNf3m9yC6wbPltS"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168880,
+      "name": "El Cherrys",
+      "url": "https://open.spotify.com/track/1OkaJXylEGb6ut4tR4VYQJ"
+    },
+    {
+      "album": {
         "name": "El Chivo",
         "url": "https://open.spotify.com/album/7MPluGvg6suOskXTNg0W5i"
       },
@@ -6291,7 +6309,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 232464,
       "name": "El de la Capi",
       "url": "https://open.spotify.com/track/24n5rbTsJch4B8vKD3dSWK"
@@ -7172,6 +7190,28 @@
     },
     {
       "album": {
+        "name": "El Gallo Negro",
+        "url": "https://open.spotify.com/album/0WTow6qSoFpjhinUsSLnHa"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        },
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192708,
+      "name": "El Gallo Negro",
+      "url": "https://open.spotify.com/track/2lIoIq6gxdHK6qn0RytsZ1"
+    },
+    {
+      "album": {
         "name": "El Ganadero",
         "url": "https://open.spotify.com/album/6w06NpSqDjSJEragjoMPj9"
       },
@@ -7187,7 +7227,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 206791,
       "name": "El Ganadero",
       "url": "https://open.spotify.com/track/2x6ZI7jliC35jow8MACOHz"
@@ -7517,7 +7557,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 144080,
       "name": "El Humo De Mi Gallo",
       "url": "https://open.spotify.com/track/4peahmVQMLGlWwJLNodzcD"
@@ -8207,6 +8247,24 @@
       "duration_ms": 149000,
       "name": "El Mes De Mayo (En Vivo)",
       "url": "https://open.spotify.com/track/2sVae2Wnry7TQIz83qg0YG"
+    },
+    {
+      "album": {
+        "name": "No Conozco el Miedo",
+        "url": "https://open.spotify.com/album/6ST9whr0v2d5ABrMDAyKKb"
+      },
+      "artists": [
+        {
+          "name": "Alemi Bustos",
+          "url": "https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221294,
+      "name": "El MeZ",
+      "url": "https://open.spotify.com/track/78TZBttrH056DlErNRrHl1"
     },
     {
       "album": {
@@ -10718,6 +10776,28 @@
     },
     {
       "album": {
+        "name": "EXOTIC\u00d3N",
+        "url": "https://open.spotify.com/album/7MTZomem1mbxWoBgo9u52X"
+      },
+      "artists": [
+        {
+          "name": "Grupo Selectivo",
+          "url": "https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1"
+        },
+        {
+          "name": "Grupo Feroz",
+          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158493,
+      "name": "EXOTIC\u00d3N",
+      "url": "https://open.spotify.com/track/5D679I3gCMw6maX0MQR5Vw"
+    },
+    {
+      "album": {
         "name": "Fachada de Makabro (En Vivo)",
         "url": "https://open.spotify.com/album/2y5MHR8bxPsJVma0czYnn9"
       },
@@ -12423,7 +12503,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 219813,
       "name": "Joaqu\u00edn",
       "url": "https://open.spotify.com/track/1CwE10Ey9FKqyojI6v3Dfe"
@@ -14782,6 +14862,28 @@
     },
     {
       "album": {
+        "name": "Lo Que Aprend\u00ed",
+        "url": "https://open.spotify.com/album/2xxj4SskoPZneewIM68h8X"
+      },
+      "artists": [
+        {
+          "name": "Adrian Chaparro",
+          "url": "https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165701,
+      "name": "Lo Que Aprend\u00ed",
+      "url": "https://open.spotify.com/track/2KVLgxXdnrGHwGDVLWxauQ"
+    },
+    {
+      "album": {
         "name": "Lo Que El Jefe Solicita",
         "url": "https://open.spotify.com/album/4kmd4m6rlkyOVQrKxExg3I"
       },
@@ -15037,7 +15139,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 153480,
       "name": "Los Cuadros",
       "url": "https://open.spotify.com/track/6kfXiwhfIxhyzkLamTyb6h"
@@ -15477,7 +15579,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 151957,
       "name": "Mala Leche",
       "url": "https://open.spotify.com/track/2eZmL5cT6dapzGGiJURZxT"
@@ -15793,6 +15895,24 @@
       "duration_ms": 187037,
       "name": "Me Dicen El Chavo",
       "url": "https://open.spotify.com/track/2Qtbqu3XEudTeqB31PKGu4"
+    },
+    {
+      "album": {
+        "name": "Me Dicen Pollito",
+        "url": "https://open.spotify.com/album/6WDnOFc2zd7QhjC5PU1Q4l"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259035,
+      "name": "Me Dicen Pollito",
+      "url": "https://open.spotify.com/track/4YyS1wqUv82TpRFPKfucl0"
     },
     {
       "album": {
@@ -16383,7 +16503,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 171040,
       "name": "Miami",
       "url": "https://open.spotify.com/track/0ez08k2vkt1siQgu3byVha"
@@ -18504,6 +18624,28 @@
     },
     {
       "album": {
+        "name": "Puro Festejar",
+        "url": "https://open.spotify.com/album/6buyYUUmkDlhzzhenapCVY"
+      },
+      "artists": [
+        {
+          "name": "Grupo Fernandez",
+          "url": "https://open.spotify.com/artist/3iwHYNyKCKBDsa4QFCj8Ik"
+        },
+        {
+          "name": "Grupo H-100",
+          "url": "https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188268,
+      "name": "Puro Festejar",
+      "url": "https://open.spotify.com/track/5aznoSTQL5aoDUFq5NGGxC"
+    },
+    {
+      "album": {
         "name": "Puro Pa' Delante",
         "url": "https://open.spotify.com/album/7LD7kDSXZVmUCEfLwoRh4B"
       },
@@ -18657,6 +18799,28 @@
       "duration_ms": 196363,
       "name": "Que Soporten (Y La Queso)",
       "url": "https://open.spotify.com/track/3ml2gJVRbyXGz1kjFeAopL"
+    },
+    {
+      "album": {
+        "name": "Que truene la del barril",
+        "url": "https://open.spotify.com/album/2sBgDy5XjP9RMnWk4Db0H6"
+      },
+      "artists": [
+        {
+          "name": "La Premisa",
+          "url": "https://open.spotify.com/artist/01gsBGYIsBAC1Zv6keYz5q"
+        },
+        {
+          "name": "Fraccion EME",
+          "url": "https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166853,
+      "name": "Que truene la del barril",
+      "url": "https://open.spotify.com/track/0G8zf71IUhMlbGm3dUv36t"
     },
     {
       "album": {
@@ -18971,7 +19135,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 176250,
       "name": "Ropa Cara",
       "url": "https://open.spotify.com/track/0AC6lMbq1Xc2npqHzlPCqs"
@@ -19011,6 +19175,32 @@
       "duration_ms": 238447,
       "name": "RUBICON",
       "url": "https://open.spotify.com/track/4Fs2x6hJPy97PcTjGECLVX"
+    },
+    {
+      "album": {
+        "name": "Rugrats",
+        "url": "https://open.spotify.com/album/6DOhBzQidUt8NmzjGhUYf3"
+      },
+      "artists": [
+        {
+          "name": "Jaque Mate",
+          "url": "https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew"
+        },
+        {
+          "name": "Grupo Feroz",
+          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
+        },
+        {
+          "name": "R\u00e9gulo Molina",
+          "url": "https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235875,
+      "name": "Rugrats",
+      "url": "https://open.spotify.com/track/5K9DHIEhqVe0S9hSkpePzg"
     },
     {
       "album": {
@@ -19873,6 +20063,24 @@
       "duration_ms": 148573,
       "name": "Sin Tanto Royo",
       "url": "https://open.spotify.com/track/4AtRBtemYPsLbwdJRMj5rw"
+    },
+    {
+      "album": {
+        "name": "Snacky",
+        "url": "https://open.spotify.com/album/7cBx4L7KACUuvncWle7iOX"
+      },
+      "artists": [
+        {
+          "name": "Manuel Rodriguez",
+          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130200,
+      "name": "Snacky",
+      "url": "https://open.spotify.com/track/3UYXBJY8YpH0d9ARVt75NX"
     },
     {
       "album": {
@@ -21009,6 +21217,28 @@
       "duration_ms": 181240,
       "name": "Tumbate El Rollo",
       "url": "https://open.spotify.com/track/2nCFQaUCvrcPiMkhT7Wb6D"
+    },
+    {
+      "album": {
+        "name": "Tunechi (with Gabito Ballesteros)",
+        "url": "https://open.spotify.com/album/1m0Ss9jIyWVWmyZafWaVqZ"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212640,
+      "name": "Tunechi (with Gabito Ballesteros)",
+      "url": "https://open.spotify.com/track/5itIlFvG0hrl0p0FGLjcRj"
     },
     {
       "album": {

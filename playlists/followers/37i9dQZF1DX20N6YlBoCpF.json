@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 22595,
+  "2024-04-28": 22641,
   "date_first_scraped": "2022-10-01",
   "description": "Die nuutste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/7dtmhKnycd3REPNNixXGHO?si=N7ETgHdLSnaj8cg2O3zMWA\">Juanita du Plessis</a>  ",
   "name": "Nuwe Afrikaans",
@@ -10337,6 +10337,24 @@
       "duration_ms": 201831,
       "name": "Naweek Vibes",
       "url": "https://open.spotify.com/track/4DvuCPPkfeJwb2yKaqM4DN"
+    },
+    {
+      "album": {
+        "name": "AMUSANT",
+        "url": "https://open.spotify.com/album/2uRoYB2ex9MRO93Dik6EoI"
+      },
+      "artists": [
+        {
+          "name": "Armand Joubert",
+          "url": "https://open.spotify.com/artist/5KnlL16gAV2FJVBZgT04Tu"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200769,
+      "name": "NEE",
+      "url": "https://open.spotify.com/track/7brsKVrbKlQ28BnQ12zpnt"
     },
     {
       "album": {

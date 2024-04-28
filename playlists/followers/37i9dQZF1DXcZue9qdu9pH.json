@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 2584,
+  "2024-04-28": 2587,
   "date_first_scraped": "2023-07-04",
   "description": "Come, lets take a soulful journey through rhythmic grooves",
   "name": "Alternative Avenue",
@@ -79,6 +79,24 @@
       "duration_ms": 355106,
       "name": "Alone",
       "url": "https://open.spotify.com/track/37AdCBQAIQAYc37U3xXjO4"
+    },
+    {
+      "album": {
+        "name": "Mombasa's Lover Boy",
+        "url": "https://open.spotify.com/album/3dCGhikw2kksr8OMi9HPft"
+      },
+      "artists": [
+        {
+          "name": "Caleb Awiti",
+          "url": "https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150673,
+      "name": "Another Man",
+      "url": "https://open.spotify.com/track/0W1MXhgqSfscPkvz2ESYHs"
     },
     {
       "album": {
@@ -473,8 +491,8 @@
       },
       "artists": [
         {
-          "name": "Ethan",
-          "url": "https://open.spotify.com/artist/16VZMbA7y5gwrxNG0q3wC1"
+          "name": "Kethan",
+          "url": "https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh"
         }
       ],
       "date_added": "2023-06-30",
@@ -549,7 +567,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 201451,
       "name": "Just Another She - Remix",
       "url": "https://open.spotify.com/track/6UyYrCjFdisFwd0ryUr24g"
@@ -737,7 +755,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 83278,
       "name": "Mwanga We Wajua",
       "url": "https://open.spotify.com/track/7K6kgMnTPLqR8p04M6dG8H"
@@ -1577,6 +1595,28 @@
       "duration_ms": 222147,
       "name": "Would You Mind",
       "url": "https://open.spotify.com/track/0GdY20C8oDprKmrIwDeNNc"
+    },
+    {
+      "album": {
+        "name": "Echoes of Farewell",
+        "url": "https://open.spotify.com/album/744YhwL1S9OvtUY6QkAPPc"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Elani Boshoff",
+          "url": "https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169375,
+      "name": "You're Gone",
+      "url": "https://open.spotify.com/track/7AU8HVGvd3Jua9oLVSUgE1"
     },
     {
       "album": {

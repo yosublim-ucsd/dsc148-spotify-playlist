@@ -1,7 +1,7 @@
 {
-  "2024-04-27": 7038,
+  "2024-04-28": 7042,
   "date_first_scraped": "2022-06-02",
-  "description": "This is Los Relampagos Del Norte. The essential tracks, all in one playlist.",
+  "description": "This Is Los Relampagos Del Norte. Los temas esenciales, todos en una lista.",
   "name": "This Is Los Relampagos Del Norte",
   "tracks": [
     {
@@ -801,7 +801,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 177818,
       "name": "Mi Tesoro",
       "url": "https://open.spotify.com/track/57rH2ju0NCA5K1m4GxmIfU"
@@ -1431,7 +1431,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 176076,
       "name": "Vuelve Gaviota",
       "url": "https://open.spotify.com/track/3D9EZqnh00hJPmaM2akMsd"

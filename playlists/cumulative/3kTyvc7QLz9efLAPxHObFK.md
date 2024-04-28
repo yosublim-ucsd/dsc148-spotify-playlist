@@ -4,7 +4,7 @@
 
 > 
 
-1,305 songs - 2 day 23 hr 54 min
+1,307 songs - 3 day 0 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -403,6 +403,7 @@
 | [Fight Night](https://open.spotify.com/track/6LZyZ2n9Ls2ItN5bfZ4ooU) | [Wreck Reality](https://open.spotify.com/artist/7Dn5YtJZi2nozyzpXy9yBR) | [Fight Night](https://open.spotify.com/album/5aZ0EajXuWtNGSgLul6bGG) | 3:44 | 2022-09-22 |  |
 | [Fight The Machines](https://open.spotify.com/track/7feOjRDMKDCRJdmS8x1q8J) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl), [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [The Elite](https://open.spotify.com/artist/7KNKKIsyxgZRBWnrcj8vHk) | [Legends Of The Elite](https://open.spotify.com/album/50RHfqIEtQS0dZxBrrFUF3) | 3:17 | 2023-06-16 |  |
 | [Fight Them All](https://open.spotify.com/track/0rZBe91kLd0h85B9e7T3vR) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE), [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6) | [Fight Them All](https://open.spotify.com/album/7wY8Z4jVcMXECcIQ83docS) | 2:51 | 2023-03-02 |  |
+| [Fighter](https://open.spotify.com/track/7IzOtrRXV2juIwMrxXrjPJ) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE) | [Fighter](https://open.spotify.com/album/3CI3INdJtK8htyC1zGgcaa) | 3:49 | 2024-04-27 |  |
 | [FIGHTING DEMONS](https://open.spotify.com/track/0SHI54cOrosSZySfTGvN3n) | [Riot Shift](https://open.spotify.com/artist/5J3RIw3YwgyXeosItjR9GY) | [FIGHTING DEMONS](https://open.spotify.com/album/62MK9SQIv59nSjfOiksNfi) | 3:10 | 2023-02-20 |  |
 | [Fighting For](https://open.spotify.com/track/22JELf6p8cyWBDwa91e7pL) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs), [Cryex](https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b) | [Fighting For](https://open.spotify.com/album/14Iltp0WL3VLdyxWz6FQAB) | 3:37 | 2022-09-21 |  |
 | [Final Veredict \(DediKted Tool\)](https://open.spotify.com/track/18sjucWRIr9rXIBEPrSB2z) | [K1\-Recordz](https://open.spotify.com/artist/6t5jQxttM2xqraCbRoZALp), [JEEX](https://open.spotify.com/artist/2yyaQ5rBXKUgEo8unwNQIS) | [DediKted The Judgment Day](https://open.spotify.com/album/5He0m9CLf6DqJWkPQpg2OD) | 2:09 | 2024-04-01 |  |
@@ -684,6 +685,7 @@
 | [Lord Of Justice](https://open.spotify.com/track/3ILGgYr5uH2ds5rieoITxO) | [Hellsystem](https://open.spotify.com/artist/53EHsN2X6QI9xsmunKAW85), [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV) | [Thunderdome 2021](https://open.spotify.com/album/4W1vCGZ6arGZGQVMwMGWL5) | 3:12 | 2022-09-06 |  |
 | [Lose Control](https://open.spotify.com/track/3LouUVDaFWXxK3jFB174np) | [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp), [Elite Enemy](https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB) | [In Blood We Trust](https://open.spotify.com/album/0jRDlJaCGWa8iKwF7LrKOW) | 2:53 | 2022-11-21 |  |
 | [Lose Control](https://open.spotify.com/track/3HQpeMYQQOxI66Z15Jyzt8) | [Ketanoise & Kaali](https://open.spotify.com/artist/3m5btrqbvqvjxBSOOqktUV) | [Frenchcore S\`il Vous Plaît 006](https://open.spotify.com/album/35liOZf76DrT1zL5k82QGx) | 4:20 | 2022-02-09 |  |
+| [Lose Control](https://open.spotify.com/track/3qaGhSwwIkEBjcNzsAfkyw) | [Tomsky](https://open.spotify.com/artist/12NNDc1Q7rwbppTMf8UAif), [D.O.N](https://open.spotify.com/artist/42c4pJO8Opk39FSraBPUDC) | [Lose Control](https://open.spotify.com/album/3drQTkX4rK3SZ4cstDAmxs) | 3:03 | 2024-04-27 |  |
 | [LOSE IT](https://open.spotify.com/track/4jF9Df8yhktHGaRV4UwQ8r) | [Crypton](https://open.spotify.com/artist/592FgKnDnLHT1jLLLwGjR2) | [LOSE IT](https://open.spotify.com/album/03UYxj7j9zacRjwwEbExV5) | 2:43 | 2023-11-21 |  |
 | [LOSE IT](https://open.spotify.com/track/61HfM2Sdl3A5eDOVAZADDY) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW), [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb) | [ICONS](https://open.spotify.com/album/238RrEHfu6nESSaOgw46xc) | 3:29 | 2023-04-16 |  |
 | [Lose Myself](https://open.spotify.com/track/0Wib9uDgXe9CKKu0MRkllK) | [illuszion](https://open.spotify.com/artist/1SxMLa74v5XKzGwdxWNhgp) | [Lunatic](https://open.spotify.com/album/3imYzR1MfxzRhloeDm3nVH) | 2:55 | 2023-07-29 |  |
@@ -1070,7 +1072,7 @@
 | [Survive](https://open.spotify.com/track/12HedHiV9tQjEaDEE6NYZj) | [Luminite](https://open.spotify.com/artist/56uBktjCLyONyLAgE7VBq1), [Uncaged](https://open.spotify.com/artist/2HDeehZ2osQxtP45Q1asqo) | [Survive](https://open.spotify.com/album/5aZZq0nJmUD25JXMZi65Va) | 2:33 | 2023-08-11 |  |
 | [Sweater Weather](https://open.spotify.com/track/3ezoEY4TKU8frUXAYFJstC) | [Remzcore](https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp) | [Sweater Weather](https://open.spotify.com/album/4WpAMWarbK8ebialie40qZ) | 3:50 | 2022-09-06 |  |
 | [SWEET & SPACY](https://open.spotify.com/track/5cc14ihZRyD02vheBBOFeS) | [X\-Pander](https://open.spotify.com/artist/5BD89DInX2q6j9laqzi79K) | [SWEET & SPACY](https://open.spotify.com/album/4rFJkgdSirJH1qL35895zG) | 3:07 | 2023-05-13 |  |
-| [Sweet Bomb](https://open.spotify.com/track/6IViZEF35o1v3kZeUJNYFD) | [BreakStyle](https://open.spotify.com/artist/1FtR1QSTaxYFJdsiHDc4ZF), [Mind Controller](https://open.spotify.com/artist/3XfbViVU6Z8LKK1YkO4lOc) | [Sweet Bomb](https://open.spotify.com/album/5MjIcsSYot5K5ZqVBOug3e) | 3:28 | 2024-04-26 |  |
+| [Sweet Bomb](https://open.spotify.com/track/6IViZEF35o1v3kZeUJNYFD) | [BreakStyle](https://open.spotify.com/artist/1FtR1QSTaxYFJdsiHDc4ZF), [Mind Controller](https://open.spotify.com/artist/3XfbViVU6Z8LKK1YkO4lOc) | [Sweet Bomb](https://open.spotify.com/album/5MjIcsSYot5K5ZqVBOug3e) | 3:28 | 2024-04-26 | 2024-04-28 |
 | [SWEETHEART](https://open.spotify.com/track/1pm53W5JpBdkVyE72mm7W3) | [Synthion](https://open.spotify.com/artist/4YqfXU53VVYBunSuvrDZYO) | [SWEETHEART](https://open.spotify.com/album/4G8JnLQhOF8w234GbjKaOD) | 2:13 | 2023-02-11 |  |
 | [Switch](https://open.spotify.com/track/0cOs1S8cu4zdJUzuMYcIav) | [Lumex](https://open.spotify.com/artist/5mmH8aPIBykETuGLc97VOi), [Kickdown](https://open.spotify.com/artist/4qUiWm8m64r7UAdlirKZS9), [MC Nox](https://open.spotify.com/artist/4bGqjqPVxUobMKKwJr4kF2) | [Switch](https://open.spotify.com/album/0POiPQEi56Yc9kLCEItLjB) | 3:43 | 2023-09-06 |  |
 | [System Addict](https://open.spotify.com/track/5ZUnpAUmjIT4GBBAdSHnRj) | [Dazzler B](https://open.spotify.com/artist/7bkMJ94BLbq1BkxMYyYKRL) | [System Addict](https://open.spotify.com/album/1rArpudP86ZJqzMPLf5vpq) | 4:37 | 2023-10-20 |  |

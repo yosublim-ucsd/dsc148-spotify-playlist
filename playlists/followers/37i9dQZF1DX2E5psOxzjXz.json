@@ -1,7 +1,7 @@
 {
-  "2024-04-27": 31206,
+  "2024-04-28": 31213,
   "date_first_scraped": "2021-12-28",
-  "description": "Explore Pakistan's thriving independent scene. Discover more on <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7\">Pakistani Indie Rising</a>. Cover: Arooj Aftab",
+  "description": "Explore Pakistan's thriving independent scene. Discover more on <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7\">Pakistani Indie Rising</a>. Cover: Hasan Raheem",
   "name": "Pakistani Indie 101",
   "tracks": [
     {
@@ -2203,7 +2203,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 190386,
       "name": "JADU",
       "url": "https://open.spotify.com/track/5BFDwitXIlpGKPcLCZVcpA"
@@ -2247,7 +2247,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 126875,
       "name": "JANI JANI - feat. Alistair Alvin",
       "url": "https://open.spotify.com/track/1XCGFjrxtCMDUbWR7aertX"
@@ -2892,6 +2892,32 @@
     },
     {
       "album": {
+        "name": "ROCKSTAR WITHOUT A GUITAR",
+        "url": "https://open.spotify.com/album/1DayIaoubhlZ9kiX2mB9So"
+      },
+      "artists": [
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        },
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        },
+        {
+          "name": "Natasha Noorani",
+          "url": "https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197727,
+      "name": "LOVER BOY ROMANCE (feat. Hasan Raheem & Natasha Noorani)",
+      "url": "https://open.spotify.com/track/28H1HZZmzRkIv8RURFycO2"
+    },
+    {
+      "album": {
         "name": "Lovesick",
         "url": "https://open.spotify.com/album/3GVx36db2WQ05MTg2eh8Q0"
       },
@@ -2943,6 +2969,32 @@
       "duration_ms": 173217,
       "name": "Mahi Ve",
       "url": "https://open.spotify.com/track/2gpa7p45wwh0QDNOQsorgL"
+    },
+    {
+      "album": {
+        "name": "ROCKSTAR WITHOUT A GUITAR",
+        "url": "https://open.spotify.com/album/1DayIaoubhlZ9kiX2mB9So"
+      },
+      "artists": [
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        },
+        {
+          "name": "Abdul Hannan",
+          "url": "https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1"
+        },
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188250,
+      "name": "MAKE YOU MINE (feat. Abdul Hannan & Hasan Raheem)",
+      "url": "https://open.spotify.com/track/6OyqZB5FA70Nnl6Z7GkN2Y"
     },
     {
       "album": {

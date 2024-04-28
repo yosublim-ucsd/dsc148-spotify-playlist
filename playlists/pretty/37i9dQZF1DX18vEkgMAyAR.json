@@ -1,6 +1,6 @@
 {
   "description": "Your everyday pick-me-up playlist.",
-  "num_followers": 67938,
+  "num_followers": 67943,
   "original_name": "Feel Good Look Good",
   "owner": {
     "name": "Spotify",
@@ -1111,22 +1111,26 @@
     {
       "added_at": "2023-11-03 03:58:52",
       "album": {
-        "name": "Never Let Me Go",
-        "url": "https://open.spotify.com/album/2CqK9iuKQZP08okHT5kTOQ"
+        "name": "Forever Free (DeepFish Remix) (feat. Nate Highfield & SILVER)",
+        "url": "https://open.spotify.com/album/3PJnw0E507X2yMby8pUHOm"
       },
       "artists": [
         {
-          "name": "Josh Wantie",
-          "url": "https://open.spotify.com/artist/0pge2gEtqePVRTkYcK4hQb"
+          "name": "GoldFish",
+          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
         },
         {
-          "name": "Conor Maynard",
-          "url": "https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu"
+          "name": "Nate Highfield",
+          "url": "https://open.spotify.com/artist/4JquAIlxYSGeqFcQyPUMVF"
+        },
+        {
+          "name": "SILVER",
+          "url": "https://open.spotify.com/artist/1HXRQ8IflmWzNxTrymVI7u"
         }
       ],
-      "duration_ms": 155500,
-      "name": "Never Let Me Go",
-      "url": "https://open.spotify.com/track/2CbimpAqyAtc1qMznPODJV"
+      "duration_ms": 204789,
+      "name": "Forever Free (DeepFish Remix) (feat. Nate Highfield & SILVER)",
+      "url": "https://open.spotify.com/track/2YT7OMlGZlaFpBpMGLtDuK"
     }
   ],
   "unique_name": "Feel Good Look Good",

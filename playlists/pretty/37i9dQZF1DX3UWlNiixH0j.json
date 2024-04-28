@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: Dos Monos ",
-  "num_followers": 57716,
+  "num_followers": 57724,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2024-04-23 15:00:00",
       "album": {
+        "name": "APORIE VIVANT",
+        "url": "https://open.spotify.com/album/63wqYCsKXga09N2IXHPFuV"
+      },
+      "artists": [
+        {
+          "name": "VivaOla",
+          "url": "https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9"
+        }
+      ],
+      "duration_ms": 152888,
+      "name": "TOO LATE",
+      "url": "https://open.spotify.com/track/4YVirjfcLuw9A56Tle2uHt"
+    },
+    {
+      "added_at": "2024-04-23 15:00:00",
+      "album": {
         "name": "NANA",
         "url": "https://open.spotify.com/album/2jednxmPSVKHTnDm4ztdYG"
       },
@@ -1351,22 +1367,6 @@
     {
       "added_at": "2024-04-23 15:00:00",
       "album": {
-        "name": "APORIE VIVANT",
-        "url": "https://open.spotify.com/album/63wqYCsKXga09N2IXHPFuV"
-      },
-      "artists": [
-        {
-          "name": "VivaOla",
-          "url": "https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9"
-        }
-      ],
-      "duration_ms": 152888,
-      "name": "TOO LATE",
-      "url": "https://open.spotify.com/track/4YVirjfcLuw9A56Tle2uHt"
-    },
-    {
-      "added_at": "2024-04-23 15:00:00",
-      "album": {
         "name": "Branches",
         "url": "https://open.spotify.com/album/0qukeQhJHQQUgZi1MSkFNm"
       },
@@ -1395,6 +1395,34 @@
       "duration_ms": 192366,
       "name": "\u611b\u304c\u4e00\u5c64\u30e1\u30ed\u30a6",
       "url": "https://open.spotify.com/track/7ijvSBcVrLn8SiCRGzxKjx"
+    },
+    {
+      "added_at": "2024-04-23 15:00:00",
+      "album": {
+        "name": "Playground feat. (sic)boy, HIYADAM",
+        "url": "https://open.spotify.com/album/4EUdDcEs1klHCudQrikdYx"
+      },
+      "artists": [
+        {
+          "name": "JUBEE",
+          "url": "https://open.spotify.com/artist/3NyJkvXLy5dg73SrT0ykba"
+        },
+        {
+          "name": "(sic)boy",
+          "url": "https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk"
+        },
+        {
+          "name": "Hiyadam",
+          "url": "https://open.spotify.com/artist/5akLOzzp3zMfvne1K2tv7e"
+        },
+        {
+          "name": "TSUBAME",
+          "url": "https://open.spotify.com/artist/5fBPKr4eFuZBnB8OCzo5QF"
+        }
+      ],
+      "duration_ms": 224706,
+      "name": "Playground feat. (sic)boy, HIYADAM",
+      "url": "https://open.spotify.com/track/2sdFvhkpMzHCj2CyvhvGOh"
     },
     {
       "added_at": "2024-04-23 15:00:00",
@@ -1559,70 +1587,6 @@
     {
       "added_at": "2024-04-23 15:00:00",
       "album": {
-        "name": "Playground feat. (sic)boy, HIYADAM",
-        "url": "https://open.spotify.com/album/4EUdDcEs1klHCudQrikdYx"
-      },
-      "artists": [
-        {
-          "name": "JUBEE",
-          "url": "https://open.spotify.com/artist/3NyJkvXLy5dg73SrT0ykba"
-        },
-        {
-          "name": "(sic)boy",
-          "url": "https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk"
-        },
-        {
-          "name": "Hiyadam",
-          "url": "https://open.spotify.com/artist/5akLOzzp3zMfvne1K2tv7e"
-        },
-        {
-          "name": "TSUBAME",
-          "url": "https://open.spotify.com/artist/5fBPKr4eFuZBnB8OCzo5QF"
-        }
-      ],
-      "duration_ms": 224706,
-      "name": "Playground feat. (sic)boy, HIYADAM",
-      "url": "https://open.spotify.com/track/2sdFvhkpMzHCj2CyvhvGOh"
-    },
-    {
-      "added_at": "2024-04-23 15:00:00",
-      "album": {
-        "name": "hello.wav",
-        "url": "https://open.spotify.com/album/5PC8a4Q7ikgJm74tC60AGO"
-      },
-      "artists": [
-        {
-          "name": "Mega Shinnosuke",
-          "url": "https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN"
-        },
-        {
-          "name": "LIL SOFT TENNIS",
-          "url": "https://open.spotify.com/artist/4W0x6vtaXBRGr5hPMYcrmQ"
-        }
-      ],
-      "duration_ms": 114170,
-      "name": "panorama360\u00b0 feat. lil soft tennis",
-      "url": "https://open.spotify.com/track/5neRJK8GaNY3bFCrAApOvd"
-    },
-    {
-      "added_at": "2024-04-23 15:00:00",
-      "album": {
-        "name": "\u3042\u3093\u3057\u3093",
-        "url": "https://open.spotify.com/album/0HA0iTP3cmhSfD2h9MztHO"
-      },
-      "artists": [
-        {
-          "name": "YONA YONA WEEKENDERS",
-          "url": "https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR"
-        }
-      ],
-      "duration_ms": 204581,
-      "name": "\u3042\u3093\u3057\u3093",
-      "url": "https://open.spotify.com/track/02sTGST2qx3lMLkCmXWn6g"
-    },
-    {
-      "added_at": "2024-04-23 15:00:00",
-      "album": {
         "name": "Heartache",
         "url": "https://open.spotify.com/album/4rFv7VR3AtCBcaucHbIyBP"
       },
@@ -1651,6 +1615,38 @@
       "duration_ms": 213223,
       "name": "\u305f\u308a\u3089\u308a\u3089",
       "url": "https://open.spotify.com/track/0xpTe8bsGXaRwj8KZ2J0BV"
+    },
+    {
+      "added_at": "2024-04-23 15:00:00",
+      "album": {
+        "name": "\u3042\u3093\u3057\u3093",
+        "url": "https://open.spotify.com/album/0HA0iTP3cmhSfD2h9MztHO"
+      },
+      "artists": [
+        {
+          "name": "YONA YONA WEEKENDERS",
+          "url": "https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR"
+        }
+      ],
+      "duration_ms": 204581,
+      "name": "\u3042\u3093\u3057\u3093",
+      "url": "https://open.spotify.com/track/02sTGST2qx3lMLkCmXWn6g"
+    },
+    {
+      "added_at": "2024-04-23 15:00:00",
+      "album": {
+        "name": "\u5dee\u3057\u8272",
+        "url": "https://open.spotify.com/album/0osPjHgcenfbVxnPHuMZ4W"
+      },
+      "artists": [
+        {
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+        }
+      ],
+      "duration_ms": 183709,
+      "name": "\u5dee\u3057\u8272",
+      "url": "https://open.spotify.com/track/2AE8eW32N5jimZ9wVO39Br"
     }
   ],
   "unique_name": "Edge!",

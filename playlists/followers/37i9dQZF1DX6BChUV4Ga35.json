@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 24133,
+  "2024-04-28": 24184,
   "date_first_scraped": "2022-04-19",
   "description": "Your family can visit all of the animals at the zoo with this fun playlist.",
   "name": "At The Zoo",
@@ -249,6 +249,24 @@
       "duration_ms": 176297,
       "name": "Animal Bop",
       "url": "https://open.spotify.com/track/7kL28gyDAxXAiOEHTI67tn"
+    },
+    {
+      "album": {
+        "name": "Sooo Wiggly Vol. 2",
+        "url": "https://open.spotify.com/album/2YSBAA5ij7uuezojPkpWYc"
+      },
+      "artists": [
+        {
+          "name": "Fisher-Price",
+          "url": "https://open.spotify.com/artist/6TjbqpZF5EKmSYlcUZULk1"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63230,
+      "name": "Animal Count",
+      "url": "https://open.spotify.com/track/1RtnalL9YfEjOVtI9YMAHl"
     },
     {
       "album": {

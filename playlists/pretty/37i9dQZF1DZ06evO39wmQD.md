@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39wmQD.md) - [plain]
 
 ### [This Is Auli'i Cravalho](https://open.spotify.com/playlist/37i9dQZF1DZ06evO39wmQD)
 
-> This is Auli'i Cravalho\. The essential tracks, all in one playlist.
+> This Is Auli'i Cravalho\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,571 likes - 25 songs - 1 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,572 likes - 25 songs - 1 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39wmQD.md) - [plain]
 | 24 | [Whispering \- Rise Cast Version](https://open.spotify.com/track/2ccNGJuNDBjyUF1Hm2Rbv2) | [Rise Cast](https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Whispering \(Rise Cast Version\)](https://open.spotify.com/album/3Y2tzDHGFKiEjgMJdB0eqA) | 3:31 |
 | 25 | [This Christmas](https://open.spotify.com/track/4fUxmFLeAstWRQfcOi2uRL) | [Graham Phillips](https://open.spotify.com/artist/7cx3SW07K49VaNuC71o4vj), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Burt Bacharach](https://open.spotify.com/artist/35y7CZMg7jbG8Q96JY7dyC), [Steven Sater](https://open.spotify.com/artist/3mrC1iFYFRjD9vCgV8Mwdv) | [Burt Bacharach and Steven Sater's Some Lovers \(World Premiere Recording\)](https://open.spotify.com/album/32HtQlSGJdLv2e0lmBFPf2) | 3:27 |
 
-Snapshot ID: `MTcxNDAwMzIwMCwwMDAwMDAwMGRhNGNiYWRkNjAwMGFhZDc4ODgwMGE0ZmM0Nzc5NGNm`
+Snapshot ID: `MTcxNDA4OTYwMCwwMDAwMDAwMDg2ZTU3ZjQyYjlkZmZlMDIwMWM1YzlkYmFjY2ExZGUz`

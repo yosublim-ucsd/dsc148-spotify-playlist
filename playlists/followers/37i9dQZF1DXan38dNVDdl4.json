@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 1356118,
+  "2024-04-28": 1356124,
   "date_first_scraped": "2021-12-21",
   "description": "The biggest Dancehall playlist in the world. Cover: Kranium",
   "name": "Dancehall Official",
@@ -1281,6 +1281,28 @@
       "duration_ms": 250357,
       "name": "Catch 22",
       "url": "https://open.spotify.com/track/4ZYs6suTVIJPg5vxibOyIw"
+    },
+    {
+      "album": {
+        "name": "Catch E Move",
+        "url": "https://open.spotify.com/album/4p7ENLgixSk9c6VztPKf54"
+      },
+      "artists": [
+        {
+          "name": "Jquan",
+          "url": "https://open.spotify.com/artist/6O3HCXqy2HR4pzNxhOfE4F"
+        },
+        {
+          "name": "DJ Frass",
+          "url": "https://open.spotify.com/artist/0OV6SkCcoRHlz2uaCo0PG9"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142040,
+      "name": "Catch E Move",
+      "url": "https://open.spotify.com/track/5M6ibfpLRQZxQtDnQBBtPC"
     },
     {
       "album": {
@@ -5158,6 +5180,28 @@
     },
     {
       "album": {
+        "name": "Nomad",
+        "url": "https://open.spotify.com/album/1fx5uUwkU12T18vRMdiFKP"
+      },
+      "artists": [
+        {
+          "name": "NIGY BOY",
+          "url": "https://open.spotify.com/artist/63o6Z7qrOen7eLbmYOx7gt"
+        },
+        {
+          "name": "DJ Frass",
+          "url": "https://open.spotify.com/artist/0OV6SkCcoRHlz2uaCo0PG9"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132244,
+      "name": "Nomad",
+      "url": "https://open.spotify.com/track/1737ApFPMa1YLidEdJ7MwN"
+    },
+    {
+      "album": {
         "name": "North Carolina",
         "url": "https://open.spotify.com/album/1VAtoqET8PjdccfDchldh1"
       },
@@ -7217,7 +7261,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 183812,
       "name": "States - Raw",
       "url": "https://open.spotify.com/track/1ktr79K3mkv7DzTJsxYIkj"

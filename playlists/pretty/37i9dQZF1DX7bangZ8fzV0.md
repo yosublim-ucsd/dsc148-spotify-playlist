@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/35nSKL5p684i0vXrFvcgGz?si=QaAEx61qTWuO11dwsmougw">Dirk Van Der Westhuizen</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,303 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,357 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

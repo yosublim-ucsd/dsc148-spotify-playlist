@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-26",
-  "description": "This is Ventino. The essential tracks, all in one playlist.",
+  "description": "This Is Ventino. Los temas esenciales, todos en una lista.",
   "name": "This Is Ventino",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 207157,
       "name": "AL\u00d3",
       "url": "https://open.spotify.com/track/4e9MlCrkbOFfy0xlYJfQsM"
@@ -351,6 +351,24 @@
     },
     {
       "album": {
+        "name": "Inevitables",
+        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "date_added": "2024-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151893,
+      "name": "El Problema",
+      "url": "https://open.spotify.com/track/3L68zrHCPFrVtVOmQg1SKR"
+    },
+    {
+      "album": {
         "name": "Ventino: El Precio De La Gloria (Banda Sonora Original De La Serie De Televisi\u00f3n)",
         "url": "https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx"
       },
@@ -648,6 +666,24 @@
       "duration_ms": 277008,
       "name": "Me Fui (feat. Ventino, Fonseca, Sebasti\u00e1n Yatra, Fanny Lu, Silvestre Dangond, Sanluis, Debi Nova, V\u00edctor Mu\u00f1oz, Raquel Sof\u00eda, Juan Fernando Velasco, Leslie Shaw, Astrid Marrufo, C\u00e1ceres & Javier Ramirez)",
       "url": "https://open.spotify.com/track/3EhH4i5AUelnfGKoNxiEZm"
+    },
+    {
+      "album": {
+        "name": "Inevitables",
+        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "date_added": "2024-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150356,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/0k7bgW9dTHoQTuR3YfJ5h0"
     },
     {
       "album": {

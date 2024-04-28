@@ -1,12 +1,12 @@
 {
   "description": "This is Los Farmerz. The essential tracks, all in one playlist.",
-  "num_followers": 18098,
+  "num_followers": 18152,
   "original_name": "This Is Los Farmerz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDAwMzIwMCwwMDAwMDAwMGU0MDdkY2IzMDE0ZGRiMzk2NGIzOThiNzFkMjMyNjc5",
+  "snapshot_id": "MTcxNDA4OTYwMCwwMDAwMDAwMDBjZjc5MWRhMjRhODllMDU4M2M2OTdhYWFiNzllNDMz",
   "tracks": [
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slapperz",
-        "url": "https://open.spotify.com/album/7vHKFMrKnIcBsrjtg1vuzS"
+        "name": "La Pluma De Wax",
+        "url": "https://open.spotify.com/album/4DBA2xhJhkxYUNWydxnz8g"
       },
       "artists": [
         {
@@ -740,13 +740,13 @@
           "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
         },
         {
-          "name": "Los Del Cristo",
-          "url": "https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK"
+          "name": "Tite Chavez",
+          "url": "https://open.spotify.com/artist/4NR2FtlNRz6XpiXIeMPw0Q"
         }
       ],
-      "duration_ms": 155000,
-      "name": "La Cheyene",
-      "url": "https://open.spotify.com/track/1ZBux9Fo2OdW8MEvIiueoP"
+      "duration_ms": 159061,
+      "name": "La Pluma De Wax",
+      "url": "https://open.spotify.com/track/5YZLTMJYD7GQ9vlBp7CoHU"
     },
     {
       "added_at": null,
@@ -767,18 +767,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Chepis",
-        "url": "https://open.spotify.com/album/6YMnVFAOkAg7dMJytIcG7v"
+        "name": "Slapperz",
+        "url": "https://open.spotify.com/album/7vHKFMrKnIcBsrjtg1vuzS"
       },
       "artists": [
         {
           "name": "Los Farmerz",
           "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        },
+        {
+          "name": "Los Del Cristo",
+          "url": "https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK"
         }
       ],
-      "duration_ms": 193320,
-      "name": "El Chepis",
-      "url": "https://open.spotify.com/track/443kLF00XD6aHnaoHMesHm"
+      "duration_ms": 155000,
+      "name": "La Cheyene",
+      "url": "https://open.spotify.com/track/1ZBux9Fo2OdW8MEvIiueoP"
     },
     {
       "added_at": null,
@@ -799,22 +803,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Pluma De Wax",
-        "url": "https://open.spotify.com/album/4DBA2xhJhkxYUNWydxnz8g"
+        "name": "El Chepis",
+        "url": "https://open.spotify.com/album/6YMnVFAOkAg7dMJytIcG7v"
       },
       "artists": [
         {
           "name": "Los Farmerz",
           "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        },
-        {
-          "name": "Tite Chavez",
-          "url": "https://open.spotify.com/artist/4NR2FtlNRz6XpiXIeMPw0Q"
         }
       ],
-      "duration_ms": 159061,
-      "name": "La Pluma De Wax",
-      "url": "https://open.spotify.com/track/5YZLTMJYD7GQ9vlBp7CoHU"
+      "duration_ms": 193320,
+      "name": "El Chepis",
+      "url": "https://open.spotify.com/track/443kLF00XD6aHnaoHMesHm"
     },
     {
       "added_at": null,

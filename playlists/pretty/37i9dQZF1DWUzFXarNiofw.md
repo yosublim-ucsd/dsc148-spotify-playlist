@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Normani
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,034,063 likes - 174 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,034,068 likes - 174 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

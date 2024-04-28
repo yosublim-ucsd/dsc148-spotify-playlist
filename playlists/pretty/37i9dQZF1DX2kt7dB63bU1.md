@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,438 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,487 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Se Telefonando](https://open.spotify.com/track/467IHEFyhfSUvQniIlaeb2) | [Gregoire Maret](https://open.spotify.com/artist/24jNRyMv4IEPuL1qwmZuNW), [Romain Collin](https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV), [Cassandra Wilson](https://open.spotify.com/artist/6TZ5t4kclsmGWHqb3mGyha), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Ennio](https://open.spotify.com/album/5zt777VEVeCfm0lsasbEq3) | 4:13 |
 | 2 | [Colloquially](https://open.spotify.com/track/7BbkXvDdCGofOR7cLlMP3s) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [Colloquially](https://open.spotify.com/album/3ymtSnu23oE9Z6XjZmqWce) | 3:25 |
 | 3 | [For Once In My Life](https://open.spotify.com/track/2bxofRdvqQGRAHVjCpAQ6G) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs), [Lou Pomanti](https://open.spotify.com/artist/4dSjbjQP6Si6yNXMCG19UW) | [For Once In My Life](https://open.spotify.com/album/0gyOghIejAM8UeTxt2LuQq) | 3:49 |
-| 4 | [La Chanson de vieux amants](https://open.spotify.com/track/0qKnv6qXPNNj3Pe4nlKPk3) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Sayonara Meu Amor](https://open.spotify.com/album/2fYT8L1AXkcaGFxLUyavIS) | 6:55 |
+| 4 | [La Chanson des vieux amants](https://open.spotify.com/track/0qKnv6qXPNNj3Pe4nlKPk3) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Sayonara Meu Amor](https://open.spotify.com/album/2fYT8L1AXkcaGFxLUyavIS) | 6:55 |
 | 5 | [Goddess](https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Goddess](https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ) | 4:27 |
 | 6 | [Sparrow \(feat\. Angelique Kidjo\)](https://open.spotify.com/track/324kvzJnO81wfCvR5eHAL8) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Shadow](https://open.spotify.com/album/1bm8lycQzE0Hx7w0dgPOKW) | 6:34 |
 | 7 | [California and Me](https://open.spotify.com/track/768tjNAwyH3nIFee5BIdcl) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [California and Me](https://open.spotify.com/album/2tt47cpLkXdRqYhOcp2C9x) | 3:36 |

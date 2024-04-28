@@ -4,7 +4,7 @@
 
 > You can dance or chill.
 
-208 songs - 10 hr 29 min
+209 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Elsewhere](https://open.spotify.com/track/1ERIJRdzYgFSkdUvCiVu75) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp) | [Reconnect](https://open.spotify.com/album/4WDjEs3iuJ579yROdFXqpG) | 3:13 | 2024-03-19 |  |
 | [Escaping](https://open.spotify.com/track/4Wwks4OJMfW07eu4RQ6wOR) | [Bellestar](https://open.spotify.com/artist/004F88I7EWH54o9jNfUbEn), [Urban Love](https://open.spotify.com/artist/6sZREHX9XWWC5van5XX6Q7) | [Escaping](https://open.spotify.com/album/5slrIsKwwsPYUheEWRKQMn) | 2:44 | 2022-09-15 |  |
 | [Even If You Don't](https://open.spotify.com/track/5XSjmXj79UdVdT5ndQHM2x) | [Lulleaux](https://open.spotify.com/artist/6bA8L82JXU9CQa2nyUnLDh) | [Even If You Don't](https://open.spotify.com/album/21uycqDEGwq19UBzFrmqlh) | 2:36 | 2022-09-15 | 2022-09-30 |
-| [Everything Changes But Us](https://open.spotify.com/track/1ASSOK89dWkRbMNIbNgIT8) | [Lindja](https://open.spotify.com/artist/12FS78q2foxDejKiUm1BgD), [Lewyn](https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR) | [Everything Changes But Us](https://open.spotify.com/album/2l1U2LgHNCi1aVxE8HaKxw) | 3:52 | 2024-04-11 |  |
+| [Everything Changes But Us](https://open.spotify.com/track/1ASSOK89dWkRbMNIbNgIT8) | [Lindja](https://open.spotify.com/artist/12FS78q2foxDejKiUm1BgD), [Lewyn](https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR) | [Everything Changes But Us](https://open.spotify.com/album/2l1U2LgHNCi1aVxE8HaKxw) | 3:52 | 2024-04-11 | 2024-04-28 |
 | [Eye Of The Storm](https://open.spotify.com/track/706QfMn0WUC3rtGXuPs1RV) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb), [Pool Blue](https://open.spotify.com/artist/1voJnUcEoYhOptkLklUsVL) | [Eye Of The Storm](https://open.spotify.com/album/0vsRGsVo9fxGyuCOYiIvey) | 2:27 | 2022-09-15 | 2023-05-13 |
 | [Eyes](https://open.spotify.com/track/2cVQVhgyRPzJusXAuklkWF) | [MNI](https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [Eyes](https://open.spotify.com/album/56XTMHmxIztoBY2YFc29Gw) | 2:47 | 2022-09-15 | 2024-03-21 |
 | [Eyes](https://open.spotify.com/track/5TL0AtDGqqAN5djwMTm7RV) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Eyes](https://open.spotify.com/album/43ZD81KI1vdDZiPoKedtQA) | 4:17 | 2023-03-02 | 2024-03-21 |
@@ -73,6 +73,7 @@
 | [Eyesight](https://open.spotify.com/track/3cMrgJny9vGJV4IJXV9yF5) | [Mats Westbroek](https://open.spotify.com/artist/22bQJrUFkEHoC4Srw85AuA), [Damaui](https://open.spotify.com/artist/3FjyYauJ9oaHMUtzN8uudZ) | [Eyesight](https://open.spotify.com/album/2UmCQEJcx57QCwhGoju6bZ) | 3:13 | 2023-12-08 |  |
 | [Falling](https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih), [KOLIDESCOPES](https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby) | [Falling](https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS) | 3:17 | 2022-09-15 |  |
 | [Famous for a Day](https://open.spotify.com/track/0zPUSpMCNSn1ItUPANkCCs) | [LA Vision](https://open.spotify.com/artist/02qlwM8fpqep7vX8KKEFmK), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [Famous for a Day](https://open.spotify.com/album/6GmcBZbFsGYXBEKLYb5o6M) | 2:51 | 2022-09-29 | 2022-11-11 |
+| [Far Beyond](https://open.spotify.com/track/048ZVt7BfDpFoTORcDKRJA) | [Munch](https://open.spotify.com/artist/4FX0r1sSgM9LzQdx5rgWft), [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk) | [Far Beyond](https://open.spotify.com/album/13M6DYmjgXDJUUdvsTSYW5) | 2:17 | 2024-04-25 |  |
 | [Feel Alive \(feat\. PollyAnna\)](https://open.spotify.com/track/47G4wvdU7hBOTxLyutkCSS) | [FAULHABER](https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [Feel Alive \(feat\. PollyAnna\)](https://open.spotify.com/album/6DSWCfsRDuOTO6yKxO5YKM) | 2:37 | 2023-02-15 | 2023-12-25 |
 | [Feeling Lost Tonight](https://open.spotify.com/track/0G8DSf59TefFfYMJbdyse2) | [Krister & Dalbani](https://open.spotify.com/artist/3t0AL6Nk9ZuRclRi0gjlfT) | [Feeling Lost Tonight](https://open.spotify.com/album/1vrWvbljMdILNfDPXlbDj6) | 1:46 | 2023-03-30 |  |
 | [Feelings After Dark \(feat\. NISHA\)](https://open.spotify.com/track/6xZsVNX6ZkOFNEj9ByRtow) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9), [HARBER](https://open.spotify.com/artist/31TGg0YIcWnprDAqruoJSd), [NISHA](https://open.spotify.com/artist/0zY8LOMvTmcromP2vV0nBv) | [Feelings After Dark \(feat\. NISHA\)](https://open.spotify.com/album/2BuyHgSr8yy1LHEJCdMcBd) | 2:44 | 2022-09-15 | 2023-04-26 |

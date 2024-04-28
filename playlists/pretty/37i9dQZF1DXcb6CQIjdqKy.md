@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover:  <a href="spotify:artist:3sDbKMebVH2VYcRSl7u1VC">for KING & COUNTRY</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,581,952 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,581,838 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 54 | [The Commission \(Go Tell The World\) \(feat\. Isaiah Templeton\)](https://open.spotify.com/track/3yGHfPi206znPB31iyOSbV) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq), [Isaiah Templeton](https://open.spotify.com/artist/4atJuIvhr9uWLmxl1ixfG5) | [The Commission \(Go Tell The World\)](https://open.spotify.com/album/0vXN44A8CS4pnk3yv1hvPy) | 4:05 |
 | 55 | [Give Me You](https://open.spotify.com/track/77IonObfdmAlX3XZpZ4QT8) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o), [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [Give Me You](https://open.spotify.com/album/7h5Mx3kdhRqbIqHJdYQzGb) | 4:41 |
 | 56 | [Death Is Hollow \(Live\)](https://open.spotify.com/track/5v7qO8qitDFzTaOWyxGnZo) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [Death Is Hollow](https://open.spotify.com/album/5Ti4NcO8efw0WohpUXgPJg) | 8:39 |
-| 57 | [What Is God Gonna Do](https://open.spotify.com/track/0YQF1BeB8otaL2AEjFimGn) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [What Is God Gonna Do](https://open.spotify.com/album/1VARoADcYqrhwnvwQjVj9D) | 4:19 |
+| 57 | [What God Is Gonna Do](https://open.spotify.com/track/0YQF1BeB8otaL2AEjFimGn) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [What God Is Gonna Do](https://open.spotify.com/album/1VARoADcYqrhwnvwQjVj9D) | 4:19 |
 | 58 | [Whole Heart](https://open.spotify.com/track/3jhN9h9Z2GOYfrDNspFOji) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Hopeful Hearts Club](https://open.spotify.com/album/7rIMmf6AeHmTb8tCoyddAU) | 6:40 |
 | 59 | [Altar](https://open.spotify.com/track/0lRaOxE3ZNDEmeJzKlNdjD) | [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Altar](https://open.spotify.com/album/25XytYiId8a2hLUFkoxn2K) | 7:24 |
 | 60 | [In Bloom](https://open.spotify.com/track/2TNhDjD4wb5XFO2Z7FFWve) | [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [In Bloom](https://open.spotify.com/album/1p2mOtXzL6GZV5NMuap85T) | 3:13 |

@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 126074,
+  "2024-04-28": 126071,
   "date_first_scraped": "2022-01-22",
   "description": "Brand new music from Monstercat, all in one place.",
   "name": "New Music Weekly | Monstercat",
@@ -4309,6 +4309,24 @@
       "duration_ms": 191000,
       "name": "Feels Like Home",
       "url": "https://open.spotify.com/track/0H8Eh2BgyRTjgCb2PwDylI"
+    },
+    {
+      "album": {
+        "name": "Feral",
+        "url": "https://open.spotify.com/album/5hfXeWane0cxOaaiCzADrK"
+      },
+      "artists": [
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200275,
+      "name": "Feral",
+      "url": "https://open.spotify.com/track/0DTGff67dAfbXMU14CWgnP"
     },
     {
       "album": {

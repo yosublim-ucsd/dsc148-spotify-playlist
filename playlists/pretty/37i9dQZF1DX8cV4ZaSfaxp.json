@@ -1,6 +1,6 @@
 {
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: Taeha(\ud0dc\ud558)) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 51739,
+  "num_followers": 51754,
   "original_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-04-19 06:17:12",
       "album": {
-        "name": "Plastic Candy",
-        "url": "https://open.spotify.com/album/6H85pl4CetdaJl4wNlzXoJ"
-      },
-      "artists": [
-        {
-          "name": "HaSeul",
-          "url": "https://open.spotify.com/artist/5clV5I50OxxG9JGGxeW0C9"
-        }
-      ],
-      "duration_ms": 214106,
-      "name": "Plastic Candy",
-      "url": "https://open.spotify.com/track/1MxLhOFpRp0XgVgIV9Yakr"
-    },
-    {
-      "added_at": "2024-04-19 06:17:12",
-      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/7vZ0v0ZUX9KSCdZgCrtovy"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 198414,
       "name": "Night Rather Than Day",
       "url": "https://open.spotify.com/track/3ekdsWPG0ZtVrvEUPe2Djv"
+    },
+    {
+      "added_at": "2024-04-19 06:17:12",
+      "album": {
+        "name": "Plastic Candy",
+        "url": "https://open.spotify.com/album/6H85pl4CetdaJl4wNlzXoJ"
+      },
+      "artists": [
+        {
+          "name": "HaSeul",
+          "url": "https://open.spotify.com/artist/5clV5I50OxxG9JGGxeW0C9"
+        }
+      ],
+      "duration_ms": 214106,
+      "name": "Plastic Candy",
+      "url": "https://open.spotify.com/track/1MxLhOFpRp0XgVgIV9Yakr"
     },
     {
       "added_at": "2024-04-19 06:17:12",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-04-19 06:17:12",
       "album": {
-        "name": "Weki Meki 3rd Mini Album [HIDE and SEEK]",
-        "url": "https://open.spotify.com/album/6Y01uMzamISHuBPyhSiDZ3"
-      },
-      "artists": [
-        {
-          "name": "Weki Meki",
-          "url": "https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx"
-        }
-      ],
-      "duration_ms": 176333,
-      "name": "The Paradise",
-      "url": "https://open.spotify.com/track/3fh3F3FSb9PBnVSurLpoGa"
-    },
-    {
-      "added_at": "2024-04-19 06:17:12",
-      "album": {
         "name": "AOA 4th Mini Album Good Luck",
         "url": "https://open.spotify.com/album/3D4EskjAYfo91G4BN7XcbB"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 236031,
       "name": "10 Seconds",
       "url": "https://open.spotify.com/track/7qFfTeft3nLJRW22jNJ7kA"
+    },
+    {
+      "added_at": "2024-04-19 06:17:12",
+      "album": {
+        "name": "Weki Meki 3rd Mini Album [HIDE and SEEK]",
+        "url": "https://open.spotify.com/album/6Y01uMzamISHuBPyhSiDZ3"
+      },
+      "artists": [
+        {
+          "name": "Weki Meki",
+          "url": "https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx"
+        }
+      ],
+      "duration_ms": 176333,
+      "name": "The Paradise",
+      "url": "https://open.spotify.com/track/3fh3F3FSb9PBnVSurLpoGa"
     },
     {
       "added_at": "2024-04-19 06:17:12",
@@ -711,18 +711,18 @@
     {
       "added_at": "2024-04-19 06:17:12",
       "album": {
-        "name": "BASIC",
-        "url": "https://open.spotify.com/album/7EQD5wkntQXxh7zT2XEwGS"
+        "name": "Myspace",
+        "url": "https://open.spotify.com/album/2MV3aQb0BMMLqaydFaTci7"
       },
       "artists": [
         {
-          "name": "Brown Eyed Girls",
-          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
+          "name": "Minsu",
+          "url": "https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta"
         }
       ],
-      "duration_ms": 241144,
-      "name": "Brave New World",
-      "url": "https://open.spotify.com/track/5ZiUAIExpAoiY9VeJRx6PT"
+      "duration_ms": 216106,
+      "name": "Myspace",
+      "url": "https://open.spotify.com/track/0wKWQHIaja5IuDovI1euWh"
     },
     {
       "added_at": "2024-04-19 06:17:12",
@@ -759,6 +759,22 @@
     {
       "added_at": "2024-04-19 06:17:12",
       "album": {
+        "name": "BASIC",
+        "url": "https://open.spotify.com/album/7EQD5wkntQXxh7zT2XEwGS"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyed Girls",
+          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
+        }
+      ],
+      "duration_ms": 241144,
+      "name": "Brave New World",
+      "url": "https://open.spotify.com/track/5ZiUAIExpAoiY9VeJRx6PT"
+    },
+    {
+      "added_at": "2024-04-19 06:17:12",
+      "album": {
         "name": "Ending",
         "url": "https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 226453,
       "name": "A day of weather",
       "url": "https://open.spotify.com/track/21hBj9FtDyTISSXrTuApaw"
-    },
-    {
-      "added_at": "2024-04-19 06:17:12",
-      "album": {
-        "name": "Myspace",
-        "url": "https://open.spotify.com/album/2MV3aQb0BMMLqaydFaTci7"
-      },
-      "artists": [
-        {
-          "name": "Minsu",
-          "url": "https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta"
-        }
-      ],
-      "duration_ms": 216106,
-      "name": "Myspace",
-      "url": "https://open.spotify.com/track/0wKWQHIaja5IuDovI1euWh"
     },
     {
       "added_at": "2024-04-19 06:17:12",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-04-19 06:17:12",
       "album": {
-        "name": "Love visible",
-        "url": "https://open.spotify.com/album/3dmMH1i3mcYmt4BJTIr3Dg"
-      },
-      "artists": [
-        {
-          "name": "aiai",
-          "url": "https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl"
-        }
-      ],
-      "duration_ms": 185217,
-      "name": "Love visible",
-      "url": "https://open.spotify.com/track/0Oc6ktffxcdpFKfKYqLfxk"
-    },
-    {
-      "added_at": "2024-04-19 06:17:12",
-      "album": {
         "name": "GFRIEND The 7th Mini Album `FEVER SEASON`",
         "url": "https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 208000,
       "name": "Hope",
       "url": "https://open.spotify.com/track/6SI48qGuImxXM3RuxQoAzT"
+    },
+    {
+      "added_at": "2024-04-19 06:17:12",
+      "album": {
+        "name": "Love visible",
+        "url": "https://open.spotify.com/album/3dmMH1i3mcYmt4BJTIr3Dg"
+      },
+      "artists": [
+        {
+          "name": "aiai",
+          "url": "https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl"
+        }
+      ],
+      "duration_ms": 185217,
+      "name": "Love visible",
+      "url": "https://open.spotify.com/track/0Oc6ktffxcdpFKfKYqLfxk"
     },
     {
       "added_at": "2024-04-19 06:17:12",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-04-19 06:17:12",
       "album": {
-        "name": "I\u2019m not good at",
-        "url": "https://open.spotify.com/album/7rTw76epZxmCpniX4WVDjc"
-      },
-      "artists": [
-        {
-          "name": "Mitty",
-          "url": "https://open.spotify.com/artist/1RyHoiUL5MomO7N7kzgZjQ"
-        }
-      ],
-      "duration_ms": 223653,
-      "name": "I\u2019m not good at",
-      "url": "https://open.spotify.com/track/0lpvVtvprYHA8L0uBYTFtS"
-    },
-    {
-      "added_at": "2024-04-19 06:17:12",
-      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/08HS95j5F5FTAVBBFXZ603"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 234856,
       "name": "Line",
       "url": "https://open.spotify.com/track/5nzNROKcMSGmtTsVHIg5tc"
+    },
+    {
+      "added_at": "2024-04-19 06:17:12",
+      "album": {
+        "name": "I\u2019m not good at",
+        "url": "https://open.spotify.com/album/7rTw76epZxmCpniX4WVDjc"
+      },
+      "artists": [
+        {
+          "name": "Mitty",
+          "url": "https://open.spotify.com/artist/1RyHoiUL5MomO7N7kzgZjQ"
+        }
+      ],
+      "duration_ms": 223653,
+      "name": "I\u2019m not good at",
+      "url": "https://open.spotify.com/track/0lpvVtvprYHA8L0uBYTFtS"
     },
     {
       "added_at": "2024-04-19 06:17:12",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-04-19 06:17:12",
       "album": {
+        "name": "GFRIEND The 7th Mini Album `FEVER SEASON`",
+        "url": "https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR"
+      },
+      "artists": [
+        {
+          "name": "GFRIEND",
+          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
+        }
+      ],
+      "duration_ms": 194306,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/5dl4insuwy9dfDw3Co0fKO"
+    },
+    {
+      "added_at": "2024-04-19 06:17:12",
+      "album": {
         "name": "Pink Funky",
         "url": "https://open.spotify.com/album/5Fy5PyBWqMNK7xvXO9Q32f"
       },
@@ -955,6 +971,22 @@
       "duration_ms": 197240,
       "name": "Self Camera",
       "url": "https://open.spotify.com/track/04Quw3a7e9R7f2Sr45l6Vx"
+    },
+    {
+      "added_at": "2024-04-19 06:17:12",
+      "album": {
+        "name": "[COSMOS]",
+        "url": "https://open.spotify.com/album/73mGtUdDaLFdLiTnxz0Lqf"
+      },
+      "artists": [
+        {
+          "name": "D\u2019allant",
+          "url": "https://open.spotify.com/artist/43twit4jxaRzr008CaVw3l"
+        }
+      ],
+      "duration_ms": 213994,
+      "name": "NEPTUNE",
+      "url": "https://open.spotify.com/track/0bb8pvRKp6Fa443FhuooU0"
     },
     {
       "added_at": "2024-04-19 06:17:12",
@@ -979,38 +1011,6 @@
     {
       "added_at": "2024-04-19 06:17:12",
       "album": {
-        "name": "GFRIEND The 7th Mini Album `FEVER SEASON`",
-        "url": "https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR"
-      },
-      "artists": [
-        {
-          "name": "GFRIEND",
-          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
-        }
-      ],
-      "duration_ms": 194306,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/5dl4insuwy9dfDw3Co0fKO"
-    },
-    {
-      "added_at": "2024-04-19 06:17:12",
-      "album": {
-        "name": "[COSMOS]",
-        "url": "https://open.spotify.com/album/73mGtUdDaLFdLiTnxz0Lqf"
-      },
-      "artists": [
-        {
-          "name": "D\u2019allant",
-          "url": "https://open.spotify.com/artist/43twit4jxaRzr008CaVw3l"
-        }
-      ],
-      "duration_ms": 213994,
-      "name": "NEPTUNE",
-      "url": "https://open.spotify.com/track/0bb8pvRKp6Fa443FhuooU0"
-    },
-    {
-      "added_at": "2024-04-19 06:17:12",
-      "album": {
         "name": "Cream Dream",
         "url": "https://open.spotify.com/album/7821Pdd8Mo29Hcf8eBGPBj"
       },
@@ -1023,6 +1023,22 @@
       "duration_ms": 196112,
       "name": "Cream Dream",
       "url": "https://open.spotify.com/track/3zwMPISRsuNGPyxARsLHkj"
+    },
+    {
+      "added_at": "2024-04-19 06:17:12",
+      "album": {
+        "name": "Shining Love Song",
+        "url": "https://open.spotify.com/album/7n2p500IY7UeU9NlgFFeV0"
+      },
+      "artists": [
+        {
+          "name": "SURAN",
+          "url": "https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K"
+        }
+      ],
+      "duration_ms": 191706,
+      "name": "Shining Love Song",
+      "url": "https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5"
     },
     {
       "added_at": "2024-04-19 06:17:12",
@@ -1043,22 +1059,6 @@
       "duration_ms": 253948,
       "name": "The Story Of The Year (feat. Wonwoo)",
       "url": "https://open.spotify.com/track/3r13xapjaH18CkefLlFtyj"
-    },
-    {
-      "added_at": "2024-04-19 06:17:12",
-      "album": {
-        "name": "Shining Love Song",
-        "url": "https://open.spotify.com/album/7n2p500IY7UeU9NlgFFeV0"
-      },
-      "artists": [
-        {
-          "name": "SURAN",
-          "url": "https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K"
-        }
-      ],
-      "duration_ms": 191706,
-      "name": "Shining Love Song",
-      "url": "https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5"
     },
     {
       "added_at": "2024-04-19 06:17:12",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-04-19 06:17:12",
       "album": {
-        "name": "What's Your Number? - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/7DHBtzFbNw2eYLRlz45tyC"
-      },
-      "artists": [
-        {
-          "name": "ZHOUMI",
-          "url": "https://open.spotify.com/artist/2xrUYKqC1VxHd16IiPxOUH"
-        }
-      ],
-      "duration_ms": 240970,
-      "name": "What's Your Number?",
-      "url": "https://open.spotify.com/track/2sz51U97nSzNWJIsCSNH89"
-    },
-    {
-      "added_at": "2024-04-19 06:17:12",
-      "album": {
         "name": "DRIVE (Feat. Leellamarz) (Single Edition 2)",
         "url": "https://open.spotify.com/album/6OVQlbKrHdQDJqzkxnj0oy"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 247680,
       "name": "DRIVE (Feat. Leellamarz)",
       "url": "https://open.spotify.com/track/4fQZn3i96966kDpGotjvy1"
+    },
+    {
+      "added_at": "2024-04-19 06:17:12",
+      "album": {
+        "name": "What's Your Number? - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/7DHBtzFbNw2eYLRlz45tyC"
+      },
+      "artists": [
+        {
+          "name": "ZHOUMI",
+          "url": "https://open.spotify.com/artist/2xrUYKqC1VxHd16IiPxOUH"
+        }
+      ],
+      "duration_ms": 240970,
+      "name": "What's Your Number?",
+      "url": "https://open.spotify.com/track/2sz51U97nSzNWJIsCSNH89"
     },
     {
       "added_at": "2024-04-19 06:17:12",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-04-19 06:17:12",
       "album": {
-        "name": "Rainbow note",
-        "url": "https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp"
-      },
-      "artists": [
-        {
-          "name": "Rainbow note",
-          "url": "https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17"
-        }
-      ],
-      "duration_ms": 197648,
-      "name": "Line 1",
-      "url": "https://open.spotify.com/track/3FKAwuyAYbuUI4jMTPfKQE"
-    },
-    {
-      "added_at": "2024-04-19 06:17:12",
-      "album": {
         "name": "Sorrow",
         "url": "https://open.spotify.com/album/4j7fShY9MfyKPgq5czbii0"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 208085,
       "name": "Sorrow",
       "url": "https://open.spotify.com/track/0XwGln1yachgJd8PMrfzZ5"
+    },
+    {
+      "added_at": "2024-04-19 06:17:12",
+      "album": {
+        "name": "Rainbow note",
+        "url": "https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp"
+      },
+      "artists": [
+        {
+          "name": "Rainbow note",
+          "url": "https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17"
+        }
+      ],
+      "duration_ms": 197648,
+      "name": "Line 1",
+      "url": "https://open.spotify.com/track/3FKAwuyAYbuUI4jMTPfKQE"
     },
     {
       "added_at": "2024-04-19 06:17:12",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-04-19 06:17:12",
       "album": {
-        "name": "City",
-        "url": "https://open.spotify.com/album/5tIUoIBCtGC1TYpuoZ2xIF"
-      },
-      "artists": [
-        {
-          "name": "\uc815\uc740\uc7ac",
-          "url": "https://open.spotify.com/artist/6hG6knn5PcWdv4hN0Yhvso"
-        }
-      ],
-      "duration_ms": 162709,
-      "name": "City",
-      "url": "https://open.spotify.com/track/38qecpqjU5yzD7bFwU6GKL"
-    },
-    {
-      "added_at": "2024-04-19 06:17:12",
-      "album": {
         "name": "My Universe - Home Recording Project #4",
         "url": "https://open.spotify.com/album/1XZD87d6fZmsBcIS4qfeCk"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 200000,
       "name": "My Universe - Home Recording Project #4",
       "url": "https://open.spotify.com/track/0ljn4YeQP7xgEZ1vznVDCx"
+    },
+    {
+      "added_at": "2024-04-19 06:17:12",
+      "album": {
+        "name": "City",
+        "url": "https://open.spotify.com/album/5tIUoIBCtGC1TYpuoZ2xIF"
+      },
+      "artists": [
+        {
+          "name": "\uc815\uc740\uc7ac",
+          "url": "https://open.spotify.com/artist/6hG6knn5PcWdv4hN0Yhvso"
+        }
+      ],
+      "duration_ms": 162709,
+      "name": "City",
+      "url": "https://open.spotify.com/track/38qecpqjU5yzD7bFwU6GKL"
     },
     {
       "added_at": "2024-04-19 06:17:12",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-04-19 06:17:12",
       "album": {
-        "name": "I ZIP",
-        "url": "https://open.spotify.com/album/5Qx8HSQxYH27Bf1Gc750UB"
-      },
-      "artists": [
-        {
-          "name": "Izykite",
-          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
-        }
-      ],
-      "duration_ms": 190287,
-      "name": "Diver",
-      "url": "https://open.spotify.com/track/4SGwJXOUyVRnbKZH09O4D9"
-    },
-    {
-      "added_at": "2024-04-19 06:17:12",
-      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/3vFZZ2VReaSF8S1IaoyYZA"
       },
@@ -1599,6 +1583,22 @@
     {
       "added_at": "2024-04-19 06:17:12",
       "album": {
+        "name": "Passing",
+        "url": "https://open.spotify.com/album/5oUO7dUg3pRcaO5SnpLef3"
+      },
+      "artists": [
+        {
+          "name": "NO_ON",
+          "url": "https://open.spotify.com/artist/44CBCqoh0b32RmvSVB5Jiz"
+        }
+      ],
+      "duration_ms": 179393,
+      "name": "Passing Light",
+      "url": "https://open.spotify.com/track/0eXreZ3kZDgnqhvgXz6Mav"
+    },
+    {
+      "added_at": "2024-04-19 06:17:12",
+      "album": {
         "name": "Afterlife (Feat. OOHYO)",
         "url": "https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C"
       },
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2024-04-19 06:17:12",
       "album": {
-        "name": "Passing",
-        "url": "https://open.spotify.com/album/5oUO7dUg3pRcaO5SnpLef3"
+        "name": "I ZIP",
+        "url": "https://open.spotify.com/album/5Qx8HSQxYH27Bf1Gc750UB"
       },
       "artists": [
         {
-          "name": "NO_ON",
-          "url": "https://open.spotify.com/artist/44CBCqoh0b32RmvSVB5Jiz"
+          "name": "Izykite",
+          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
         }
       ],
-      "duration_ms": 179393,
-      "name": "Passing Light",
-      "url": "https://open.spotify.com/track/0eXreZ3kZDgnqhvgXz6Mav"
+      "duration_ms": 190287,
+      "name": "Diver",
+      "url": "https://open.spotify.com/track/4SGwJXOUyVRnbKZH09O4D9"
     },
     {
       "added_at": "2024-04-19 06:17:12",
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2024-04-19 06:17:12",
       "album": {
-        "name": "Late summer late night",
-        "url": "https://open.spotify.com/album/4CQOPjJ7l5jHPJTEYfViZO"
+        "name": "The Reason Why",
+        "url": "https://open.spotify.com/album/04FO7xZADfgWN1hPb9DGMF"
       },
       "artists": [
         {
-          "name": "tang.erine",
-          "url": "https://open.spotify.com/artist/3EYKQMtUKUH5LnfJVNjv7S"
+          "name": "Heju",
+          "url": "https://open.spotify.com/artist/4wwWOTP0uQkwy905mukvXU"
         }
       ],
-      "duration_ms": 146800,
-      "name": "City 1:00",
-      "url": "https://open.spotify.com/track/0JsaFslY2aeK0gTWfASl9O"
+      "duration_ms": 200792,
+      "name": "The Reason Why",
+      "url": "https://open.spotify.com/track/1RHbrUkbac7nUg5Zj86QgQ"
     }
   ],
   "unique_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",

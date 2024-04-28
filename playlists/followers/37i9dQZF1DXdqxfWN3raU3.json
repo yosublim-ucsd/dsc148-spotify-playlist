@@ -1,7 +1,7 @@
 {
-  "2024-04-27": 253329,
+  "2024-04-28": 253347,
   "date_first_scraped": "2022-01-02",
-  "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. LIT killah y Milo J en portada.",
+  "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. Rels B en portada.",
   "name": "R&B Latino",
   "tracks": [
     {
@@ -79,7 +79,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 187091,
       "name": "360 Degrees",
       "url": "https://open.spotify.com/track/0fwxGoCuzUBtuJ5OOUw26z"
@@ -353,7 +353,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 150661,
       "name": "Aguilera",
       "url": "https://open.spotify.com/track/1wUDZpiLH0kTTnajPQr3QX"
@@ -1109,7 +1109,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 202528,
       "name": "Caliope",
       "url": "https://open.spotify.com/track/7LS0dVaYiiVQcSRl3HDUxS"
@@ -1153,7 +1153,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 171928,
       "name": "CAMINO",
       "url": "https://open.spotify.com/track/1kNL3YpzrDWMng468Jwxou"
@@ -1593,7 +1593,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 217435,
       "name": "Cuesta Olvidar",
       "url": "https://open.spotify.com/track/4KJ4rTWYlhQeJsw0tIxl3E"
@@ -1659,6 +1659,24 @@
       "duration_ms": 168004,
       "name": "Curvas",
       "url": "https://open.spotify.com/track/6TO05VYYHCkZpy0V1XVOdI"
+    },
+    {
+      "album": {
+        "name": "NICA",
+        "url": "https://open.spotify.com/album/7too2QxN1q5XHa9gogI3N3"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187873,
+      "name": "D15BLO",
+      "url": "https://open.spotify.com/track/1yzw7Lt5Uncgbt3DiScAzQ"
     },
     {
       "album": {
@@ -1797,7 +1815,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 143785,
       "name": "DEJA VU",
       "url": "https://open.spotify.com/track/5bfd9FMwJpAcEzui2YdE1v"
@@ -3442,6 +3460,28 @@
     },
     {
       "album": {
+        "name": "La Vida Sin Ti",
+        "url": "https://open.spotify.com/album/5mwQPFwobGNOp9P8I3BeUP"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        },
+        {
+          "name": "Lia Kali",
+          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164470,
+      "name": "La Vida Sin Ti",
+      "url": "https://open.spotify.com/track/54qwF6zeJ0zjjcOxFGICli"
+    },
+    {
+      "album": {
         "name": "La \u00danica",
         "url": "https://open.spotify.com/album/0ZDzH2PWcA9yvAzFIFpabv"
       },
@@ -4706,6 +4746,28 @@
     },
     {
       "album": {
+        "name": "no me dejes ir",
+        "url": "https://open.spotify.com/album/69ZQKycDrLE7bxQvItohZO"
+      },
+      "artists": [
+        {
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+        },
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172308,
+      "name": "no me dejes ir",
+      "url": "https://open.spotify.com/track/7DSmAiyl2mJU5LAUggNhVB"
+    },
+    {
+      "album": {
         "name": "No Sabe Igual",
         "url": "https://open.spotify.com/album/4hU6NEWq45slvWt16hEgX3"
       },
@@ -5213,6 +5275,28 @@
       "duration_ms": 171041,
       "name": "Pieles",
       "url": "https://open.spotify.com/track/53P2WWtGXFQFyxS8u93RHK"
+    },
+    {
+      "album": {
+        "name": "Pobre Diablo",
+        "url": "https://open.spotify.com/album/1Z68G3eWNkXwDRmoDSt1WX"
+      },
+      "artists": [
+        {
+          "name": "Shantty",
+          "url": "https://open.spotify.com/artist/0CkTbu5dfB2RWaQWzE2cDd"
+        },
+        {
+          "name": "Priscilla D\u00edaz",
+          "url": "https://open.spotify.com/artist/7q7epBvUzDEKbnoMNz4s96"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218297,
+      "name": "Pobre Diablo",
+      "url": "https://open.spotify.com/track/6Vu7of1zMd1LPoR0ZJuxTY"
     },
     {
       "album": {

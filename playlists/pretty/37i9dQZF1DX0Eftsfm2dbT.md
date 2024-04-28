@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: Kaneee
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,771 likes - 90 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,798 likes - 90 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 9 | [City of Dreams](https://open.spotify.com/track/6XzzEK2IOp8uRpdFvYLtk7) | [DJ TATSUKI](https://open.spotify.com/artist/22CyfYzF7NMyITy8gKIYT5), [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd), [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD) | [City of Dreams](https://open.spotify.com/album/4VdDCndn5OJvBt5DVNO0kw) | 2:54 |
 | 10 | [Ready To Fight](https://open.spotify.com/track/2k1JY21H2w4RbrvbJ3iHFC) | [DJ RYOW](https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn), [guca owl](https://open.spotify.com/artist/4itoeqQ3NcIgbtec5B4GGf), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [DRIVE MY DREAMS](https://open.spotify.com/album/5FWp05PHX3UMevTppACZJ5) | 2:52 |
 | 11 | [百鬼夜行](https://open.spotify.com/track/3aq2WFMHb3zM9Ltjt59YxG) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [百鬼夜行](https://open.spotify.com/album/6MQ5X2QZOJRFJIYkUgJWul) | 3:49 |
-| 12 | [黄色](https://open.spotify.com/track/7Lew3PsdlHJTsiYxIfkIL7) | [Kay\-on](https://open.spotify.com/artist/2F81r2H2weMXa83CD2VD9H), [R\-指定](https://open.spotify.com/artist/3pxWbsggB2iSNlowHTdkT6) | [黄色](https://open.spotify.com/album/0TfaHWQ8E8hmEuVitvXE43) | 3:12 |
+| 12 | [黄色](https://open.spotify.com/track/7Lew3PsdlHJTsiYxIfkIL7) | [Kay\-on](https://open.spotify.com/artist/2F81r2H2weMXa83CD2VD9H), [R\-shitei](https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb) | [黄色](https://open.spotify.com/album/0TfaHWQ8E8hmEuVitvXE43) | 3:12 |
 | 13 | [ぶっ生き返す](https://open.spotify.com/track/0AGcDWKAaClin5VepgC5NS) | [夜猫族](https://open.spotify.com/artist/0cXfVqFUDlUCSKJ7e1wfYJ), [XakiMichele](https://open.spotify.com/artist/0besGoEYPqYySQsScpUqVl), [tip jam](https://open.spotify.com/artist/2ZEpXsofiBwEhDv21FAqEe), [Tade Dust](https://open.spotify.com/artist/5c6lWvTCMWDYRraVAEIm9G) | [ぶっ生き返す](https://open.spotify.com/album/3K1EI1TiKSHcTCEHKiv4RV) | 2:49 |
 | 14 | [おにぎり](https://open.spotify.com/track/77hPlLM13sPXShyrPG9Kb3) | [SUSHIBOYS](https://open.spotify.com/artist/7FFaFas6TD1PhMtJ1xel8J) | [おにぎり](https://open.spotify.com/album/1qXNyStCWxjJz7znFPFgkN) | 3:02 |
 | 15 | [Red Bull 64 Bars](https://open.spotify.com/track/18nTSkuJ1QqmGWje7Vg0kN) | [STACK THE PINK](https://open.spotify.com/artist/3NoSLTyqIc9Zonh4V7JtXt), [J1rock](https://open.spotify.com/artist/0nuCtZ6ZHTKzQAI21HNh74) | [Red Bull 64 Bars](https://open.spotify.com/album/2buaIfo9ZtnKuK0K8QuRKF) | 2:10 |

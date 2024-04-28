@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Vado Más Ki Ás e Mc Prego Prego entram na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,188 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,204 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 9 | [Colãs](https://open.spotify.com/track/3LTGo62z4pb6YldRQY1C5j) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Colãs](https://open.spotify.com/album/4Xs96MIepiCpo8lBnnfDEv) | 3:13 |
 | 10 | [Mesmo Lugar](https://open.spotify.com/track/5WzNOAQd3wjwwnWMAPnvpY) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [Mesmo Lugar](https://open.spotify.com/album/0fB64sC0z6R9MW8hj0GVCp) | 3:45 |
 | 11 | [9Xs](https://open.spotify.com/track/3pcX4h49ckvJ7hRUbsRUWH) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [ORDEM & PROGRESSO](https://open.spotify.com/album/3zKhMzs8Hw9XQJVYovzcW1) | 3:40 |
-| 12 | [jingle.tm \- remix \(feat\. LON3R JOHNY, Richie Campbell, Plutonio, Van Zee, ProfJam & Lhast\)](https://open.spotify.com/track/4mXY3BEmpSxceP5bsT9JI5) | [PTM](https://open.spotify.com/artist/0wqRH0NmahVaDoeCXRlEuP), [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP), [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [jingle.tm](https://open.spotify.com/album/5TTL9OOjczMupeEm3u2yM4) | 3:02 |
+| 12 | [jingle.tm \- remix](https://open.spotify.com/track/4mXY3BEmpSxceP5bsT9JI5) | [PTM](https://open.spotify.com/artist/0wqRH0NmahVaDoeCXRlEuP), [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP), [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [jingle.tm](https://open.spotify.com/album/5TTL9OOjczMupeEm3u2yM4) | 3:02 |
 | 13 | [Sem Ti](https://open.spotify.com/track/6bZoSXs4RbMgJaAnEiQsHz) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Sem Ti](https://open.spotify.com/album/13ARq2g2xclODcbnbCEX0X) | 2:35 |
 | 14 | [Pensamento](https://open.spotify.com/track/5vCny6yiR8TlDe3hkvqd6z) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj) | [Pensamento](https://open.spotify.com/album/0Rk31jH5MgzHWooYfbxFfO) | 2:19 |
 | 15 | [Pain](https://open.spotify.com/track/2LhPmI9zmj6V9kKr48xcqr) | [Dezinho](https://open.spotify.com/artist/6HV1KRb1BBx4VgcXyBmXxA) | [Pain](https://open.spotify.com/album/54J13b5GudIcDSsewgQB5Q) | 3:44 |

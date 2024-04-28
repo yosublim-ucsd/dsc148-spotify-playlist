@@ -218,8 +218,24 @@
       },
       "artists": [
         {
+          "name": "Roberto Pacco",
+          "url": "https://open.spotify.com/artist/1LiVCo0Eqpbgazox9y538W"
+        },
+        {
+          "name": "Felice di Salvo",
+          "url": "https://open.spotify.com/artist/5ztoFqsZFTBvTw8kjvsAzR"
+        },
+        {
           "name": "Russell Watson",
           "url": "https://open.spotify.com/artist/2hrfuB0LtVmFZ6MvPMIHTK"
+        },
+        {
+          "name": "Simon Hale",
+          "url": "https://open.spotify.com/artist/6EkCcTprX3kMkjH5mbhCyh"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
         }
       ],
       "date_added": "2021-09-24",

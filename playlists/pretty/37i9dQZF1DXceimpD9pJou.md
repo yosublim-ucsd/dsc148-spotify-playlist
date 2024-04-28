@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: <a href="spotify:artist:2gaFnEQydJdWNkT17NLZm3">Su Presencia</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,725 likes - 100 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,751 likes - 100 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 50 | [Tranquilo](https://open.spotify.com/track/2ImJ6DqPkXLp97mR4xoMZL) | [Zomoz](https://open.spotify.com/artist/5vAQQZvuj5BKH1wDwrRV2Y), [Silvia Jimenez](https://open.spotify.com/artist/5X8hSxYKsscu97UQM7U3EE), [Samu Robles](https://open.spotify.com/artist/2fvKekLjq0z3TzIljRraPl), [LUISFER](https://open.spotify.com/artist/3UDUwxXkYG6a6drtZm4CUN), [Dariana](https://open.spotify.com/artist/1YFjpz13AtgmLfEo3CX8wv) | [Tranquilo](https://open.spotify.com/album/5qdw8eAovCRBv0LTTqVgIZ) | 3:44 |
 | 51 | [Tienes El Control \- Acústico, En Vivo](https://open.spotify.com/track/1BTsCk6t5XfCVySWgg4gJX) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Tienes El Control \(Acústico, En Vivo\)](https://open.spotify.com/album/6dgTNLjDgmlwIg8oU2uxeu) | 5:06 |
 | 52 | [Seguir Vale la Pena](https://open.spotify.com/track/0WKPxHb8syTjMV3dXaiSIv) | [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a) | [Seguir Vale la Pena](https://open.spotify.com/album/4vy47A6YR6TookikLal5v5) | 3:11 |
-| 53 | [Valor \- En Acústico](https://open.spotify.com/track/4VEUHUUwX0iMSs7bIcVevp) | [Mariannah y Diego](https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG), [Belu Rodriguez Kuhn](https://open.spotify.com/artist/4bl02S6pPimhORndqVx5bN) | [Valor \(En Acústico\)](https://open.spotify.com/album/2BLo0DcpdWhuVQ4lbrIoAZ) | 3:05 |
+| 53 | [Valor \- en acústico](https://open.spotify.com/track/4VEUHUUwX0iMSs7bIcVevp) | [Mariannah y Diego](https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG), [Belu Rodriguez Kuhn](https://open.spotify.com/artist/4bl02S6pPimhORndqVx5bN) | [Valor \(en acústico\)](https://open.spotify.com/album/2BLo0DcpdWhuVQ4lbrIoAZ) | 3:05 |
 | 54 | [Tu Amor por Mí](https://open.spotify.com/track/5tmoa1UpQiTlC1gFSpFxvc) | [Emi Cantú](https://open.spotify.com/artist/0ylFwnceqgOCxLj84Iiv1T) | [Gracia Sobre Gracia](https://open.spotify.com/album/3eZRYHChaQQsQu1F18xEla) | 4:58 |
 | 55 | [No Todo Terminó en la Cruz](https://open.spotify.com/track/06ssKx6DfazYuQzXtNp3Z2) | [Semillas De Vida](https://open.spotify.com/artist/5wzQXPEWdkh3PCkxoceoP2) | [No Todo Terminó en la Cruz](https://open.spotify.com/album/09yzhVaJdL4gBcnhKgayhv) | 5:04 |
 | 56 | [Compasión](https://open.spotify.com/track/6v9FpgfRCaRuklqnIVJkZM) | [Fernando Durso](https://open.spotify.com/artist/6YVjcjeMD6ljmqBfo6L6vC) | [Compasión](https://open.spotify.com/album/3BI8ExcG0XqaSvlEWIpWgw) | 3:57 |

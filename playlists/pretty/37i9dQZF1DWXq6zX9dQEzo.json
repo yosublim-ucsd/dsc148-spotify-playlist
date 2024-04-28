@@ -1,6 +1,6 @@
 {
   "description": "Faith without work[out]s is dead!  Get your beast mode on!",
-  "num_followers": 227892,
+  "num_followers": 228075,
   "original_name": "Beast Mode Christian",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "CHECK!",
-        "url": "https://open.spotify.com/album/2ap4EkuxDV83miHllb0IZ4"
-      },
-      "artists": [
-        {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
-        }
-      ],
-      "duration_ms": 146985,
-      "name": "CHECK!",
-      "url": "https://open.spotify.com/track/3Oyx8qq8PlRhGnDxMA4cdR"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "The Way You Act",
         "url": "https://open.spotify.com/album/3ablPjEIGCXEKAD9Y03GK9"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 130627,
       "name": "The Way You Act",
       "url": "https://open.spotify.com/track/1WYAz2ZtyyAFL4NyFpIx2c"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "CHECK!",
+        "url": "https://open.spotify.com/album/2ap4EkuxDV83miHllb0IZ4"
+      },
+      "artists": [
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "duration_ms": 146985,
+      "name": "CHECK!",
+      "url": "https://open.spotify.com/track/3Oyx8qq8PlRhGnDxMA4cdR"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
+        "name": "Play!",
+        "url": "https://open.spotify.com/album/376W7E1CjMqgBrYZK5GTuM"
+      },
+      "artists": [
+        {
+          "name": "PEABOD",
+          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
+        }
+      ],
+      "duration_ms": 195045,
+      "name": "Press Play",
+      "url": "https://open.spotify.com/track/3DNuA9Bm2EJCHjK2LbPcK2"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
         "name": "HELLO FRESH",
         "url": "https://open.spotify.com/album/24FsLyzVjChuv5k2BWT9qB"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 122826,
       "name": "HELLO FRESH",
       "url": "https://open.spotify.com/track/6qemUQ1s9e5HX9D66G8IVi"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
-        "name": "Play!",
-        "url": "https://open.spotify.com/album/376W7E1CjMqgBrYZK5GTuM"
-      },
-      "artists": [
-        {
-          "name": "PEABOD",
-          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
-        }
-      ],
-      "duration_ms": 195045,
-      "name": "Press Play",
-      "url": "https://open.spotify.com/track/3DNuA9Bm2EJCHjK2LbPcK2"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "DONT TOUCH ME",
-        "url": "https://open.spotify.com/album/5SBMPUnW26mVlJNBJhubCU"
-      },
-      "artists": [
-        {
-          "name": "BigBreeze",
-          "url": "https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt"
-        },
-        {
-          "name": "I Project",
-          "url": "https://open.spotify.com/artist/2vopeXLtll2qbLRkitd3Me"
-        }
-      ],
-      "duration_ms": 97425,
-      "name": "DONT TOUCH ME",
-      "url": "https://open.spotify.com/track/6Wowg4HDcSzcfQokFxzGnv"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "Bend The Whip",
         "url": "https://open.spotify.com/album/5rwFEKB8GgdsEAbEaWvnWB"
       },
@@ -1419,6 +1399,26 @@
       "duration_ms": 152031,
       "name": "hollow",
       "url": "https://open.spotify.com/track/5bOPDOpWydLeD3Cp6hikhM"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "DONT TOUCH ME",
+        "url": "https://open.spotify.com/album/5SBMPUnW26mVlJNBJhubCU"
+      },
+      "artists": [
+        {
+          "name": "BigBreeze",
+          "url": "https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt"
+        },
+        {
+          "name": "I Project",
+          "url": "https://open.spotify.com/artist/2vopeXLtll2qbLRkitd3Me"
+        }
+      ],
+      "duration_ms": 97425,
+      "name": "DONT TOUCH ME",
+      "url": "https://open.spotify.com/track/6Wowg4HDcSzcfQokFxzGnv"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1615,6 +1615,26 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
+        "name": "BLESSED",
+        "url": "https://open.spotify.com/album/3BePNExIOm54F4e5h40r86"
+      },
+      "artists": [
+        {
+          "name": "LLC Flame",
+          "url": "https://open.spotify.com/artist/2K7pASLzTcuXPT8ZYbi3M4"
+        },
+        {
+          "name": "Caleb Golden",
+          "url": "https://open.spotify.com/artist/3VFD6xeoJaM85N4gGfK3ma"
+        }
+      ],
+      "duration_ms": 159200,
+      "name": "BLESSED",
+      "url": "https://open.spotify.com/track/51I93kSJksxIWnjO2S47II"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
         "name": "PLAN PLAN",
         "url": "https://open.spotify.com/album/2xNO3xacBP2uF3qH5OSacX"
       },
@@ -1675,26 +1695,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "BLESSED",
-        "url": "https://open.spotify.com/album/3BePNExIOm54F4e5h40r86"
-      },
-      "artists": [
-        {
-          "name": "LLC Flame",
-          "url": "https://open.spotify.com/artist/2K7pASLzTcuXPT8ZYbi3M4"
-        },
-        {
-          "name": "Caleb Golden",
-          "url": "https://open.spotify.com/artist/3VFD6xeoJaM85N4gGfK3ma"
-        }
-      ],
-      "duration_ms": 159200,
-      "name": "BLESSED",
-      "url": "https://open.spotify.com/track/51I93kSJksxIWnjO2S47II"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "That Feel",
         "url": "https://open.spotify.com/album/6P2NFEDWyjEDhj91jjKs8Z"
       },
@@ -1707,30 +1707,6 @@
       "duration_ms": 163657,
       "name": "That Feel",
       "url": "https://open.spotify.com/track/5ujNb0DzpT1oP5M5oyyTmr"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
-        "name": "STRONGER",
-        "url": "https://open.spotify.com/album/3h1Cw8Eitj3GNp1VMENmCj"
-      },
-      "artists": [
-        {
-          "name": "Shepherd",
-          "url": "https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU"
-        },
-        {
-          "name": "Toyalove",
-          "url": "https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6"
-        },
-        {
-          "name": "Childlike CiCi",
-          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
-        }
-      ],
-      "duration_ms": 132053,
-      "name": "STRONGER",
-      "url": "https://open.spotify.com/track/3Bnxe7UFZaFDrjDTcYgidL"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1763,6 +1739,30 @@
       "duration_ms": 167727,
       "name": "Check Me Out",
       "url": "https://open.spotify.com/track/5nZ5pAW5UI3SGGnYSjKZCt"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "STRONGER",
+        "url": "https://open.spotify.com/album/3h1Cw8Eitj3GNp1VMENmCj"
+      },
+      "artists": [
+        {
+          "name": "Shepherd",
+          "url": "https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU"
+        },
+        {
+          "name": "Toyalove",
+          "url": "https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6"
+        },
+        {
+          "name": "Childlike CiCi",
+          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
+        }
+      ],
+      "duration_ms": 132053,
+      "name": "STRONGER",
+      "url": "https://open.spotify.com/track/3Bnxe7UFZaFDrjDTcYgidL"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1879,26 +1879,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "AGUA",
-        "url": "https://open.spotify.com/album/27PRsTVHgdHphrS7c20jIY"
-      },
-      "artists": [
-        {
-          "name": "Shepherd",
-          "url": "https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU"
-        },
-        {
-          "name": "Arias",
-          "url": "https://open.spotify.com/artist/2GK6y5dmhaWM16VZxHiO15"
-        }
-      ],
-      "duration_ms": 128503,
-      "name": "AGUA",
-      "url": "https://open.spotify.com/track/3JQbPW5RXoiVVQv7zwCoBX"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "Diamond",
         "url": "https://open.spotify.com/album/2PwgtkiIRxcTvOAxngjbcV"
       },
@@ -1911,6 +1891,22 @@
       "duration_ms": 163862,
       "name": "Diamond",
       "url": "https://open.spotify.com/track/3w3GpeDVdLb5c7XnTQ3Ktw"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "Wavy",
+        "url": "https://open.spotify.com/album/6eqCJGPpG3ShFA5WSXQlKg"
+      },
+      "artists": [
+        {
+          "name": "Reblah",
+          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "Wavy",
+      "url": "https://open.spotify.com/track/61hTCLVKXkvxQKRiTFOwd1"
     }
   ],
   "unique_name": "Beast Mode Christian",

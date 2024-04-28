@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 143124,
+  "2024-04-28": 143199,
   "date_first_scraped": "2022-09-09",
   "description": "\u00a1Brillando baldosa! Foto: Grupo Niche",
   "name": "Salsa Colombiana",
@@ -329,6 +329,24 @@
       "duration_ms": 310360,
       "name": "Cali Pachanguero",
       "url": "https://open.spotify.com/track/6GsxCYC9UaL0J8b8MVrRqX"
+    },
+    {
+      "album": {
+        "name": "Cali Pachanguero 40 A\u00f1os",
+        "url": "https://open.spotify.com/album/4a75zchEpeHQj8y1A2kSRC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287093,
+      "name": "Cali Pachanguero 40 A\u00f1os",
+      "url": "https://open.spotify.com/track/64H2xGPNjBtXNsTWflotcl"
     },
     {
       "album": {
@@ -1020,6 +1038,24 @@
     },
     {
       "album": {
+        "name": "Legado",
+        "url": "https://open.spotify.com/album/6w6c6I4boXtlAaFKqe2skJ"
+      },
+      "artists": [
+        {
+          "name": "Anddy Caicedo",
+          "url": "https://open.spotify.com/artist/0Emz7Y7utBVunAblbfCdrC"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347496,
+      "name": "La Muy Muy",
+      "url": "https://open.spotify.com/track/4KU7bb0onnNk9xE3kTQjca"
+    },
+    {
+      "album": {
         "name": "35 A\u00f1os de Exitos",
         "url": "https://open.spotify.com/album/4nfjoOl3eiSXqHulPYSAja"
       },
@@ -1419,7 +1455,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 276372,
       "name": "Majadera",
       "url": "https://open.spotify.com/track/1sqc4IHx9fN0kmgh9HuSt4"
@@ -2409,7 +2445,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 256053,
       "name": "Un Amor Bonito",
       "url": "https://open.spotify.com/track/0OxXwVoPuyoDG20ZKFX93k"

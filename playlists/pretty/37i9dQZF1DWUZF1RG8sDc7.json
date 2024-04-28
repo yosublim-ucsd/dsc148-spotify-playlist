@@ -1,6 +1,6 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 119906,
+  "num_followers": 120040,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
+        "name": "Con Altura",
+        "url": "https://open.spotify.com/album/5jejUhn3xyKXuk4jCoqycP"
+      },
+      "artists": [
+        {
+          "name": "Los Gigantes Del Vallenato",
+          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
+        }
+      ],
+      "duration_ms": 284473,
+      "name": "Vives En Mi",
+      "url": "https://open.spotify.com/track/4jOsVBZsUDaAvguaywRL9J"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
         "name": "Volando Alto",
         "url": "https://open.spotify.com/album/0ayIAUZtT7tjy6tBk9i303"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 312783,
       "name": "Voy a Olvidarte",
       "url": "https://open.spotify.com/track/7713s24G8kJFEtMGQUpQOv"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "Con Altura",
-        "url": "https://open.spotify.com/album/5jejUhn3xyKXuk4jCoqycP"
-      },
-      "artists": [
-        {
-          "name": "Los Gigantes Del Vallenato",
-          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
-        }
-      ],
-      "duration_ms": 284473,
-      "name": "Vives En Mi",
-      "url": "https://open.spotify.com/track/4jOsVBZsUDaAvguaywRL9J"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -595,22 +595,18 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Volando Alto",
-        "url": "https://open.spotify.com/album/0ayIAUZtT7tjy6tBk9i303"
+        "name": "Ya No Me Duele M\u00e1s",
+        "url": "https://open.spotify.com/album/0eUcBIlIkSckfugOOwJLkL"
       },
       "artists": [
         {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
-        },
-        {
-          "name": "Amin Martinez",
-          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
         }
       ],
-      "duration_ms": 315087,
-      "name": "El Amor Es Perd\u00f3n y Algo M\u00e1s",
-      "url": "https://open.spotify.com/track/6vWblQzMbEMXKq6uZMimhO"
+      "duration_ms": 226731,
+      "name": "Ya No Me Duele M\u00e1s",
+      "url": "https://open.spotify.com/track/0n2npnG9p4XnPAopv39USd"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -631,22 +627,6 @@
       "duration_ms": 249560,
       "name": "Mi Celosa Hermosa",
       "url": "https://open.spotify.com/track/2qBYoUdefV0JufBpNCGor1"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "Ya No Me Duele M\u00e1s",
-        "url": "https://open.spotify.com/album/0eUcBIlIkSckfugOOwJLkL"
-      },
-      "artists": [
-        {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
-        }
-      ],
-      "duration_ms": 226731,
-      "name": "Ya No Me Duele M\u00e1s",
-      "url": "https://open.spotify.com/track/0n2npnG9p4XnPAopv39USd"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -691,6 +671,26 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
+        "name": "Volando Alto",
+        "url": "https://open.spotify.com/album/0ayIAUZtT7tjy6tBk9i303"
+      },
+      "artists": [
+        {
+          "name": "Los Chiches Vallenatos",
+          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
+        },
+        {
+          "name": "Amin Martinez",
+          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
+        }
+      ],
+      "duration_ms": 315087,
+      "name": "El Amor Es Perd\u00f3n y Algo M\u00e1s",
+      "url": "https://open.spotify.com/track/6vWblQzMbEMXKq6uZMimhO"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
         "name": "Cinco Estrellas",
         "url": "https://open.spotify.com/album/2cpbqSDc0kPoLvyCDjoRvn"
       },
@@ -719,26 +719,6 @@
       "duration_ms": 293929,
       "name": "Tarde Lo Conoci",
       "url": "https://open.spotify.com/track/5BSjmkw4rsuZrCAKHg2LEc"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "Grandes \u00c9xitos de los Chiches Vallenatos",
-        "url": "https://open.spotify.com/album/7DgpZQf6wpxfxIeliadbBB"
-      },
-      "artists": [
-        {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
-        },
-        {
-          "name": "Amin Martinez",
-          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
-        }
-      ],
-      "duration_ms": 288194,
-      "name": "Tierra Mala",
-      "url": "https://open.spotify.com/track/2t7Zu61LX9fvksVg3f6zfo"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -807,6 +787,26 @@
       "duration_ms": 266573,
       "name": "Amor Sensible",
       "url": "https://open.spotify.com/track/2kqXk0cmW404g5P2iHxOjl"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Grandes \u00c9xitos de los Chiches Vallenatos",
+        "url": "https://open.spotify.com/album/7DgpZQf6wpxfxIeliadbBB"
+      },
+      "artists": [
+        {
+          "name": "Los Chiches Vallenatos",
+          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
+        },
+        {
+          "name": "Amin Martinez",
+          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
+        }
+      ],
+      "duration_ms": 288194,
+      "name": "Tierra Mala",
+      "url": "https://open.spotify.com/track/2t7Zu61LX9fvksVg3f6zfo"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -883,26 +883,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Grandes \u00c9xitos de los Chiches Vallenatos",
-        "url": "https://open.spotify.com/album/7DgpZQf6wpxfxIeliadbBB"
-      },
-      "artists": [
-        {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
-        },
-        {
-          "name": "Amin Martinez",
-          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
-        }
-      ],
-      "duration_ms": 257642,
-      "name": "Muchacha Encantadora",
-      "url": "https://open.spotify.com/track/4M3WYnhqRxRSoWTGjhrUtr"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "30 Mejores: Binomio de Oro de Am\u00e9rica",
         "url": "https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh"
       },
@@ -955,22 +935,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "binomio de oro",
-        "url": "https://open.spotify.com/album/6WXG4L9q2al6vPSJxc2VF8"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 294266,
-      "name": "que bonito",
-      "url": "https://open.spotify.com/track/1u9DL4eScCcHcW77QjfWIv"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "Son los Gigantes",
         "url": "https://open.spotify.com/album/0Z2iq6VX08puUldiB6Nkfu"
       },
@@ -983,6 +947,42 @@
       "duration_ms": 279200,
       "name": "Vivo por Ti",
       "url": "https://open.spotify.com/track/4YtHcEWXyGYpqhNfBEf9c6"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Grandes \u00c9xitos de los Chiches Vallenatos",
+        "url": "https://open.spotify.com/album/7DgpZQf6wpxfxIeliadbBB"
+      },
+      "artists": [
+        {
+          "name": "Los Chiches Vallenatos",
+          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
+        },
+        {
+          "name": "Amin Martinez",
+          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
+        }
+      ],
+      "duration_ms": 257642,
+      "name": "Muchacha Encantadora",
+      "url": "https://open.spotify.com/track/4M3WYnhqRxRSoWTGjhrUtr"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "binomio de oro",
+        "url": "https://open.spotify.com/album/6WXG4L9q2al6vPSJxc2VF8"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 294266,
+      "name": "que bonito",
+      "url": "https://open.spotify.com/track/1u9DL4eScCcHcW77QjfWIv"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Rafael Orozco El \u00cddolo de Siempre",
-        "url": "https://open.spotify.com/album/3OOfzYCpcJBvIWt4rAN6HX"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 264720,
-      "name": "Sombra Perdida",
-      "url": "https://open.spotify.com/track/6CfZqZsIyWKrYGebzivkV6"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "30 Mejores",
         "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 262333,
       "name": "Que Vuelva",
       "url": "https://open.spotify.com/track/5c3u3mao1N5YWKJcfgX8n3"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Por Buen Camino",
+        "url": "https://open.spotify.com/album/4OkoHGNKWvZHJTDTeEvwNG"
+      },
+      "artists": [
+        {
+          "name": "Los Gigantes Del Vallenato",
+          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
+        }
+      ],
+      "duration_ms": 306782,
+      "name": "No He Podido Ser Feliz",
+      "url": "https://open.spotify.com/track/0VocaCjgzgnJII4KIX8hmJ"
     }
   ],
   "unique_name": "Vallenato Rom\u00e1ntico",

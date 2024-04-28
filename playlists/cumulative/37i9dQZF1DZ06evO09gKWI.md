@@ -2,13 +2,14 @@
 
 ### [This Is Bivolt](https://open.spotify.com/playlist/37i9dQZF1DZ06evO09gKWI)
 
-> This is Bivolt\. The essential tracks, all in one playlist.
+> This is Bivolt\. Todos os maiores hits em uma só playlist.
 
-51 songs - 2 hr 51 min
+52 songs - 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Anjo](https://open.spotify.com/track/0ANO7mhTiJZE77U7J7pXqB) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Nitro](https://open.spotify.com/album/4yDw1NdadwEr9WRHp3f41y) | 1:59 | 2023-12-30 | 2024-04-22 |
+| [Biodecon](https://open.spotify.com/track/7qBYwWajxFb0UQMfCtdnY5) | [Bitrinho](https://open.spotify.com/artist/0YHpmlQEZi5GpsGKl6O41V), [Ramiress](https://open.spotify.com/artist/7wXVKeTUGqF7ifHM81SHmN), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Dj Billy Mandela](https://open.spotify.com/artist/5EmpV2UplGpGulT1onoSyh) | [Biodecon](https://open.spotify.com/album/510pqgYX4s6yQ4TX5hIoqx) | 3:20 | 2024-04-28 |  |
 | [Chef, Chef, Chef](https://open.spotify.com/track/5iZKBDWwIBTddYMgm4BXhz) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Nitro](https://open.spotify.com/album/4yDw1NdadwEr9WRHp3f41y) | 2:46 | 2023-12-30 |  |
 | [Copy](https://open.spotify.com/track/3Q6P44efSOTR4O52255KmX) | [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Kaylan Mary](https://open.spotify.com/artist/3ARExS7RN7MsIONPRMk9uD), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Copy](https://open.spotify.com/album/0aabe3MkHEfOH89G3AA7rX) | 3:01 | 2023-12-30 |  |
 | [Cubana](https://open.spotify.com/track/7oB9m389ePdiZSg0b2sO74) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Bivolt](https://open.spotify.com/album/2FCX8kUCCLy6I5GlX8k88R) | 3:08 | 2023-12-30 |  |
@@ -33,7 +34,7 @@
 | [Melhor da Vida](https://open.spotify.com/track/2yU6aVrosiFWiLj2VfzrEn) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Nitro](https://open.spotify.com/album/4yDw1NdadwEr9WRHp3f41y) | 2:23 | 2024-01-14 | 2024-03-22 |
 | [Murda Murda](https://open.spotify.com/track/40p0vevznrM6nfhbFviCUO) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [Bivolt](https://open.spotify.com/album/2FCX8kUCCLy6I5GlX8k88R) | 3:42 | 2023-12-30 |  |
 | [Música Vai Transmitir](https://open.spotify.com/track/5WNR6tGxA59UanPZ7Yc2ZD) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Música Vai Transmitir](https://open.spotify.com/album/5oWUfKXlevDcAfmHADplCA) | 2:33 | 2024-02-10 | 2024-04-26 |
-| [Música Vai Transmitir \- Ao Vivo](https://open.spotify.com/track/3mSUoylWBqxtmpkCxgqcsO) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Showlivre](https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U) | [Bivolt no Estúdio Showlivre \(Ao Vivo\)](https://open.spotify.com/album/54Hy0G86AMIiRvEd9KsP65) | 2:36 | 2024-04-10 | 2024-04-22 |
+| [Música Vai Transmitir \- Ao Vivo](https://open.spotify.com/track/3mSUoylWBqxtmpkCxgqcsO) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Showlivre](https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U) | [Bivolt no Estúdio Showlivre \(Ao Vivo\)](https://open.spotify.com/album/54Hy0G86AMIiRvEd9KsP65) | 2:36 | 2024-04-10 |  |
 | [No Brooklin \- Sabotage 50](https://open.spotify.com/track/7qe83eUTv4IbvMYCYCOAbu) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Sabotage 50](https://open.spotify.com/album/6Y71epbFxkDeFtReHp2inZ) | 3:42 | 2024-04-05 |  |
 | [Nome e Sobrenome](https://open.spotify.com/track/4PYHWK4Z301z9jPFwojK5Z) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Xênia França](https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D) | [Bivolt](https://open.spotify.com/album/2FCX8kUCCLy6I5GlX8k88R) | 3:41 | 2023-12-30 |  |
 | [Olha pra Mim](https://open.spotify.com/track/5sR1xWyEayjOvtbHING1Pp) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Olha pra Mim](https://open.spotify.com/album/5kMOd6mjawcIVx33mQpkOl) | 3:51 | 2023-12-30 |  |

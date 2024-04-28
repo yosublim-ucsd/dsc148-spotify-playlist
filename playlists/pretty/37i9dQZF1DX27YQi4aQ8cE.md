@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27YQi4aQ8cE.md) - [plain]
 
 > The most calming Christmas carols.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,380 likes - 72 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,378 likes - 72 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

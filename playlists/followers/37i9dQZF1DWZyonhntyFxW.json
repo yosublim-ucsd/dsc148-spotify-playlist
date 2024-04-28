@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 242784,
+  "2024-04-28": 242929,
   "date_first_scraped": "2022-05-13",
   "description": "\u0632\u0645\u064a\u0644\u064a \u0628\u064a\u0633\u0623\u0644 \u0639\u0646 \u0627\u0644\u0645\u0628\u062f\u0623 \u0648\u0642\u062a \u0627\u0644\u0645\u0627\u062f\u0629 \u0628\u064a\u0631\u0648\u062d \u0641\u064a\u0646\u061f.\u063a\u0644\u0627\u0641:\u0645\u0631\u0648\u0627\u0646 \u0628\u0627\u0628\u0644\u0648 ",
   "name": "\u0645\u0644\u0648\u0643 \u0627\u0644\u0633\u064a\u0646",
@@ -2725,7 +2725,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 152607,
       "name": "M3 3DM E7TRAMY",
       "url": "https://open.spotify.com/track/0qql8zT1LEoL8NmbD4mtQ9"
@@ -3526,6 +3526,24 @@
     },
     {
       "album": {
+        "name": "MN EL FYM Y SAHBY",
+        "url": "https://open.spotify.com/album/7f8m2DXhU7iZeS2qK68bTy"
+      },
+      "artists": [
+        {
+          "name": "ZIAD ZAZA",
+          "url": "https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207567,
+      "name": "MN EL FYM Y SAHBY",
+      "url": "https://open.spotify.com/track/0K0mwRcZRyfelO7RnL7l1O"
+    },
+    {
+      "album": {
         "name": "Mossadas Soot",
         "url": "https://open.spotify.com/album/5IYYgEosDioBGkYpaJ86PQ"
       },
@@ -4133,7 +4151,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 128444,
       "name": "SAM3 AKHINA",
       "url": "https://open.spotify.com/track/55mj9EYItGVGjrvyiY9rlw"

@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 66570,
+  "2024-04-28": 66587,
   "date_first_scraped": "2022-09-15",
   "description": "M\u00fasicas para dan\u00e7ar e louvar com os pequenos adoradores.",
   "name": "Gospel Kids",
@@ -242,6 +242,24 @@
     },
     {
       "album": {
+        "name": "Para Levi: Parte 1",
+        "url": "https://open.spotify.com/album/0lKNqBTPlvZeq54DWnjTxX"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109530,
+      "name": "As \u00c1rvores Balan\u00e7am",
+      "url": "https://open.spotify.com/track/5MWJlb6uzk7fDNx8GyGMsx"
+    },
+    {
+      "album": {
         "name": "Bella",
         "url": "https://open.spotify.com/album/5WbxbZVfwBmL49abPSPRfA"
       },
@@ -373,7 +391,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 213422,
       "name": "Chevere (feat. Lito Atalaia)",
       "url": "https://open.spotify.com/track/3Ecllma7tEPF8gZZZsNp1v"

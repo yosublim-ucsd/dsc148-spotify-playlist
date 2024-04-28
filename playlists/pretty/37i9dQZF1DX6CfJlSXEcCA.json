@@ -179,6 +179,22 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
+        "name": "\u9006\u8ee2\u691c\u4e8b2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2gtH1BW56OyOl68hDJqQgB"
+      },
+      "artists": [
+        {
+          "name": "\u5ca9\u5782\u5fb3\u884c",
+          "url": "https://open.spotify.com/artist/00mQlPRw20tGWmJeEivmge"
+        }
+      ],
+      "duration_ms": 167093,
+      "name": "\u8ffd\u7a76 \u301c\u3064\u304d\u3068\u3081\u305f\u304f\u3066",
+      "url": "https://open.spotify.com/track/4FkebXPfFd7uAm919xwFCC"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
         "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30cf\u30f3\u30bf\u30fc:\u30ef\u30fc\u30eb\u30c9 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/0hU2xjMRQWN7zsawye1wfh"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 129946,
       "name": "\u5927\u8ffd\u6c42 \u301c\u6210\u6b69\u5802\u9f8d\u30ce\u4ecb\u306e\u89ba\u609f",
       "url": "https://open.spotify.com/track/7a0PMLaZMhu18Hl88STQBk"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
-        "name": "\u9006\u8ee2\u691c\u4e8b2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/2gtH1BW56OyOl68hDJqQgB"
-      },
-      "artists": [
-        {
-          "name": "\u5ca9\u5782\u5fb3\u884c",
-          "url": "https://open.spotify.com/artist/00mQlPRw20tGWmJeEivmge"
-        }
-      ],
-      "duration_ms": 167093,
-      "name": "\u8ffd\u7a76 \u301c\u3064\u304d\u3068\u3081\u305f\u304f\u3066",
-      "url": "https://open.spotify.com/track/4FkebXPfFd7uAm919xwFCC"
     },
     {
       "added_at": "2021-06-30 15:18:23",

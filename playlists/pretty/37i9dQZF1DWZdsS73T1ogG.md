@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: El Malilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,670 likes - 99 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,591 likes - 99 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 21 | [Taco De Cristal](https://open.spotify.com/track/17h5eSO0wMHAHPpBthPb1W) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Taco De Cristal](https://open.spotify.com/album/7C8vX741jXeWpnJC3t1AjQ) | 3:26 |
 | 22 | [PLOMO](https://open.spotify.com/track/6OuYW44MKPScpqvoiiGDkN) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [PLOMO](https://open.spotify.com/album/18J9vWonbcXXBYFa9bF88S) | 2:58 |
 | 23 | [4EVER](https://open.spotify.com/track/37OBQIEsHa5rQY3NC89lV9) | [Juvan](https://open.spotify.com/artist/4JAKBAP06YnDLKG1cgVUQ7) | [4EVER](https://open.spotify.com/album/4ee4ksdnPcQowxvM6ftSmu) | 2:33 |
-| 24 | [ADRENALEAN](https://open.spotify.com/track/4ICrRT8KzB9YfuYrlnh7sl) | [Oplus](https://open.spotify.com/artist/2JQQDzeOEkRz7ld1pekbw0), [The Best Soundz](https://open.spotify.com/artist/2exrpIj2TWt6s5YBqTqqbr), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z) | [ADRENALEAN](https://open.spotify.com/album/15tLwMZtXzxLLu1et3sdK7) | 2:45 |
+| 24 | [ADRENALEAN](https://open.spotify.com/track/4ICrRT8KzB9YfuYrlnh7sl) | [Oplus](https://open.spotify.com/artist/2JQQDzeOEkRz7ld1pekbw0), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [The Best Soundz](https://open.spotify.com/artist/2exrpIj2TWt6s5YBqTqqbr) | [ADRENALEAN](https://open.spotify.com/album/15tLwMZtXzxLLu1et3sdK7) | 2:45 |
 | 25 | [PRIME](https://open.spotify.com/track/40B5xLuQP0FLWQ8po13oM0) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [PRIME](https://open.spotify.com/album/1hlnHah6JN4IY9iLYXBdW3) | 2:10 |
 | 26 | [Flashbacks](https://open.spotify.com/track/577oE71d9Jwxs1hZYZZ1PD) | [Malucci](https://open.spotify.com/artist/6QHHahauE7Sf3fgA7JTdYO) | [Flashbacks](https://open.spotify.com/album/7vHA3eJJUcrckKDHDAqdZy) | 3:09 |
 | 27 | [Mirame](https://open.spotify.com/track/2btNsI4OvcVl7SAHQQDHFB) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Mirame](https://open.spotify.com/album/5oCAS6VzHoESewtXUGMqbz) | 2:37 |

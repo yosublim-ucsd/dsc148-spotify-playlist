@@ -4,7 +4,7 @@
 
 > Disfruta con los dulces y tradicionales sonidos de la marimba.
 
-152 songs - 9 hr 0 min
+153 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Linda Kelly](https://open.spotify.com/track/4EtUJ9yFoNehGggP3OgKtK) | [Internacionales Conejos](https://open.spotify.com/artist/60rvB6FcgAca5rMqSWDfSf) | [Tradición de 100 Años en Marimba Pura\. Música de Guatemala para los Latinos](https://open.spotify.com/album/2mZDqconWPyMujWlnLE2ux) | 4:51 | 2021-12-29 |  |
 | [Los Parachicos](https://open.spotify.com/track/2VsxAftoOrzG4YohUFsNXT) | [Internacional Marimba Orquesta Reyna Fraylescana De Los Hermanos García](https://open.spotify.com/artist/5in6b8uMmeW1geq5rs1Byu) | [Bailables Chiapanecos \- Internacional Marimba Orquesta Reyna Fraylescana De Los Hermanos García](https://open.spotify.com/album/3bFynqrx7Xhmw5n0fKvaEa) | 4:55 | 2024-04-08 |  |
 | [Luna de Xelaju](https://open.spotify.com/track/33HqAGxpwHLACFeSBVXWb0) | [Princesita](https://open.spotify.com/artist/3qNWiBNtwg7cYcyAwCMWc3) | [100 Melodías de Guatemala Con las Mejores Marimbas](https://open.spotify.com/album/3ck8nNpdBf0cbswh7S32fL) | 4:11 | 2021-12-29 |  |
-| [Mambo del Politecnico](https://open.spotify.com/track/52CUFksI6jXx3Cvg6MtY9B) | [Marimba Nandayapa](https://open.spotify.com/artist/6BNTYyi6vioSRcseOxQcC8) | [Mambos Boleros y Danzones](https://open.spotify.com/album/1eXlFz9or8QRLWFggOojTs) | 3:24 | 2024-04-08 |  |
+| [Mambo del Politecnico](https://open.spotify.com/track/52CUFksI6jXx3Cvg6MtY9B) | [Marimba Nandayapa](https://open.spotify.com/artist/6BNTYyi6vioSRcseOxQcC8) | [Mambos Boleros y Danzones](https://open.spotify.com/album/1eXlFz9or8QRLWFggOojTs) | 3:24 | 2024-04-08 | 2024-04-28 |
 | [Mambo en Marimba](https://open.spotify.com/track/6ZBedssrUgegt6uxTD3ZaW) | [Marimba Alma de Chiapas de Juan Palacios](https://open.spotify.com/artist/3akaylbtqLherpMRw9fjtm) | [Marimba Alma de Chiapas de Juan Palacios](https://open.spotify.com/album/4kVXVvfWMUzSiYQtTnv3BB) | 3:19 | 2021-12-29 | 2024-04-09 |
 | [Mambo En Marimba](https://open.spotify.com/track/5Srm2Yi1OHWoq5O2bCFNhk) | [Marimba Orquesta Corona De Tapachula](https://open.spotify.com/artist/5A49aknVU0AJMFRYMOvYYb) | [Mi Margarita](https://open.spotify.com/album/5PEH74YWqDatN6YfQRIOnC) | 3:03 | 2024-04-08 |  |
 | [Mambo No\. 5](https://open.spotify.com/track/2SxY5ATUpTUSowmQclPhTm) | [Marimba Nandayapa](https://open.spotify.com/artist/6BNTYyi6vioSRcseOxQcC8) | [Danzones, Mambos y Cha Cha Chas](https://open.spotify.com/album/4PipSu48FG3zqHb249qzgL) | 3:13 | 2021-12-29 |  |
@@ -148,6 +148,7 @@
 | [Son Tus Perjumenes Mujer](https://open.spotify.com/track/0HPCtDhSxDHaU8Y5RnqRTG) | [Marimba Orquesta Corona De Tapachula](https://open.spotify.com/artist/5A49aknVU0AJMFRYMOvYYb) | [Camaron Pelao](https://open.spotify.com/album/1HoW7usYBQI1StanRLk5eY) | 3:01 | 2021-12-29 |  |
 | [Son Tus Perjúmenes Mujer](https://open.spotify.com/track/5ugkh4WYcSGeaBEENv09WS) | [Marimba Orquesta Corona De Tapachula](https://open.spotify.com/artist/5A49aknVU0AJMFRYMOvYYb) | [Camarón Pelao](https://open.spotify.com/album/4HnYiXe7LL0uZCIyHrltZm) | 3:01 | 2021-12-29 | 2024-04-19 |
 | [Sones Chiapanecos](https://open.spotify.com/track/2UivhTv8Gsqy7qI6sr8qbV) | [Marimba Niluyarilo](https://open.spotify.com/artist/40c8gkv9OKXjSkGZexn7rJ) | [Sones Chiapanecos](https://open.spotify.com/album/7DL3iOTWpHa60ZC8ar3V1r) | 7:03 | 2024-04-08 |  |
+| [Sones de Mariachi](https://open.spotify.com/track/6VOsbeMYt72TIJg0ANdqzE) | [Marimba Nandayapa](https://open.spotify.com/artist/6BNTYyi6vioSRcseOxQcC8) | [En Concierto](https://open.spotify.com/album/2lfTr5gFbW8j6PzZUXa3nw) | 7:45 | 2024-04-08 |  |
 | [Sólo Veracruz Es Bello\-El Balajú\-El Colás\-La Bamba\-El Tilingo Lingo](https://open.spotify.com/track/5DIbHrgGpkESK5V1wgq01q) | [Marimba Alma de Chiapas de Juan Palacios](https://open.spotify.com/artist/3akaylbtqLherpMRw9fjtm) | [Nuestro Mexico](https://open.spotify.com/album/0Vn3EEDY1Fm3OLseNfCDYF) | 3:51 | 2021-12-29 | 2024-04-19 |
 | [Telefono A Larga Distancia](https://open.spotify.com/track/05PDDSUlRiO2zCx5sOM8gL) | [20 Super Exitos De](https://open.spotify.com/artist/7bp4w5sBExrir8EIXFha0u) | [20 Exitos Con Marimba Vol.1](https://open.spotify.com/album/42rrNP7c27cAXPyA09DJPO) | 3:59 | 2021-12-29 | 2024-04-19 |
 | [Teléfono A Larga Distancia](https://open.spotify.com/track/72qJDkryV2JZIGY5QPYSO9) | [Mayra All\-Stars](https://open.spotify.com/artist/2KcKzq00Oue3sks97AVmMv) | [Coleccion De Oro Instrumental, Musica Rlajante Marimba](https://open.spotify.com/album/0YoDpUDCohGiY588XwiXwN) | 3:59 | 2021-12-29 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 447166,
+  "num_followers": 447158,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-03-20 14:41:15",
       "album": {
-        "name": "21st Trail",
-        "url": "https://open.spotify.com/album/2TYiO5QeDiFYvPy0NzajDb"
-      },
-      "artists": [
-        {
-          "name": "Smith Village Beat Street",
-          "url": "https://open.spotify.com/artist/40rTd7D3ud1Q9BB4Qop0WF"
-        }
-      ],
-      "duration_ms": 107027,
-      "name": "Hydra",
-      "url": "https://open.spotify.com/track/3rWFeNkAIxfHy0MvHdzvAj"
-    },
-    {
-      "added_at": "2024-03-20 14:41:15",
-      "album": {
         "name": "Memories & Notes",
         "url": "https://open.spotify.com/album/3EeK9doDTJjMcpLw7gDQbt"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 113357,
       "name": "Memories & Notes",
       "url": "https://open.spotify.com/track/0LJeA9BFfwRfsOTxzhWzCF"
+    },
+    {
+      "added_at": "2024-03-20 14:41:15",
+      "album": {
+        "name": "21st Trail",
+        "url": "https://open.spotify.com/album/2TYiO5QeDiFYvPy0NzajDb"
+      },
+      "artists": [
+        {
+          "name": "Smith Village Beat Street",
+          "url": "https://open.spotify.com/artist/40rTd7D3ud1Q9BB4Qop0WF"
+        }
+      ],
+      "duration_ms": 107027,
+      "name": "Hydra",
+      "url": "https://open.spotify.com/track/3rWFeNkAIxfHy0MvHdzvAj"
     },
     {
       "added_at": "2024-03-20 14:41:15",
@@ -743,18 +743,18 @@
     {
       "added_at": "2024-03-20 14:41:15",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/3GntHIEeqqemhISRVDjkl3"
+        "name": "Home Soon",
+        "url": "https://open.spotify.com/album/4CL7sl8FwxJ0HjYCf6Al0k"
       },
       "artists": [
         {
-          "name": "Ok2222",
-          "url": "https://open.spotify.com/artist/032KwgTrwjRFmANQ7R0oKX"
+          "name": "yuzu blur",
+          "url": "https://open.spotify.com/artist/2NnBvycZmkfFgGyiWZEX3R"
         }
       ],
-      "duration_ms": 84000,
-      "name": "Hold on, Pt. 2",
-      "url": "https://open.spotify.com/track/5CiJgYqEopAiCRBOjMb5j0"
+      "duration_ms": 144000,
+      "name": "Home Soon",
+      "url": "https://open.spotify.com/track/0plIIWDys4UBGmura01RpY"
     },
     {
       "added_at": "2024-03-20 14:41:15",
@@ -775,18 +775,18 @@
     {
       "added_at": "2024-03-20 14:41:15",
       "album": {
-        "name": "Home Soon",
-        "url": "https://open.spotify.com/album/4CL7sl8FwxJ0HjYCf6Al0k"
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/3GntHIEeqqemhISRVDjkl3"
       },
       "artists": [
         {
-          "name": "yuzu blur",
-          "url": "https://open.spotify.com/artist/2NnBvycZmkfFgGyiWZEX3R"
+          "name": "Ok2222",
+          "url": "https://open.spotify.com/artist/032KwgTrwjRFmANQ7R0oKX"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Home Soon",
-      "url": "https://open.spotify.com/track/0plIIWDys4UBGmura01RpY"
+      "duration_ms": 84000,
+      "name": "Hold on, Pt. 2",
+      "url": "https://open.spotify.com/track/5CiJgYqEopAiCRBOjMb5j0"
     },
     {
       "added_at": "2024-03-20 14:41:15",

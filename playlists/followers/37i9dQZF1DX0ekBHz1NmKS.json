@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 195607,
+  "2024-04-28": 195602,
   "date_first_scraped": "2021-12-21",
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu.",
   "name": "Made in Sweden",
@@ -11820,6 +11820,24 @@
     },
     {
       "album": {
+        "name": "Love & Unity",
+        "url": "https://open.spotify.com/album/5Ubu5hojBNMwptB1afNQXp"
+      },
+      "artists": [
+        {
+          "name": "Paulo Mendonca",
+          "url": "https://open.spotify.com/artist/5IXO0yGQMScYQMsWg6L8YG"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Love & Unity",
+      "url": "https://open.spotify.com/track/6jxPLl1mecH3MtC0oIPnLg"
+    },
+    {
+      "album": {
         "name": "Magic Still Exists",
         "url": "https://open.spotify.com/album/5yD8F2BqQt2xLuMof36IYN"
       },
@@ -14903,7 +14921,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 180200,
       "name": "PERUVIAN LILIES",
       "url": "https://open.spotify.com/track/6tZxHGe7Y8jLEITwA1nJqA"

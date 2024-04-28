@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: AMO
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,406 likes - 100 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,414 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 89 | [CLOVER](https://open.spotify.com/track/3tEPX2fSLx5ugdhl0QpKng) | [Sound's Deli](https://open.spotify.com/artist/7dd46Nuonbm2HO2pZ8bdgB) | [CLOVER](https://open.spotify.com/album/1AKbPWDyGF2nTwVWuOsz7D) | 3:59 |
 | 90 | [Combo](https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Combo](https://open.spotify.com/album/5eaHo9LLVecDGNJllbtD3v) | 2:46 |
 | 91 | [Jimmy Choo](https://open.spotify.com/track/7sjMVTwRPodZm1uBmGDp5f) | [chao chao](https://open.spotify.com/artist/4MT9OmyrjZzGG7TZTd9yQ0) | [Back To The Past](https://open.spotify.com/album/6NR7ADnnNsu63b6pRYYpmB) | 2:51 |
-| 92 | [Erika](https://open.spotify.com/track/47AFXtZnq9FwZffiIMKX1O) | [AZU](https://open.spotify.com/artist/1hWfPkBroOMDyXvyEoXoML) | [Fear](https://open.spotify.com/album/5ULXcHka7ie9hbyZmIReC3) | 3:35 |
+| 92 | [Erika](https://open.spotify.com/track/47AFXtZnq9FwZffiIMKX1O) | [AZU](https://open.spotify.com/artist/1hWfPkBroOMDyXvyEoXoML), [DADA](https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN) | [Fear](https://open.spotify.com/album/5ULXcHka7ie9hbyZmIReC3) | 3:35 |
 | 93 | [4 MY CULT](https://open.spotify.com/track/1fKeLutFtUHBleFW010cNp) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8) | [4 MY CULT](https://open.spotify.com/album/2jk9bSrhkHp2XAVXi22BDz) | 2:45 |
 | 94 | [第救条](https://open.spotify.com/track/5sluiMnosRaynnGPuuI4ON) | [NARIMIMI](https://open.spotify.com/artist/1JTdS745UntF44DnNXTS9W), [Whoopee Bomb](https://open.spotify.com/artist/6RKtwqOBWohO7mOrmSA6g3) | [第救条](https://open.spotify.com/album/7phcQamybNqbWXszHenikP) | 3:03 |
 | 95 | [蝶蜂](https://open.spotify.com/track/2ozaxzKYS3g4kN1tOWJB8p) | [DAB](https://open.spotify.com/artist/3yYumedujiQlRToKP478wS) | [蝶蜂](https://open.spotify.com/album/2yiV4uuIapPFSwo8bNNnXz) | 3:21 |

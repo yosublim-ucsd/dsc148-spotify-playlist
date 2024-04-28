@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 265,
+  "2024-04-28": 265,
   "date_first_scraped": "2024-01-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/0TXhxoo7C4jisEGDp8fiUS\">Kalli</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Kalli",
@@ -1227,6 +1227,28 @@
     {
       "album": {
         "name": "Give Me Your Love",
+        "url": "https://open.spotify.com/album/1Z9ifQTeBQYgLadR5f1Llw"
+      },
+      "artists": [
+        {
+          "name": "James Carter",
+          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+        },
+        {
+          "name": "Dominic Neill",
+          "url": "https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201653,
+      "name": "Give Me Your Love",
+      "url": "https://open.spotify.com/track/205RswZPFn2MlNlYckzz5I"
+    },
+    {
+      "album": {
+        "name": "Give Me Your Love",
         "url": "https://open.spotify.com/album/0DYk6a0d96DBvuZARXjoSg"
       },
       "artists": [
@@ -1241,7 +1263,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 201653,
       "name": "Give Me Your Love",
       "url": "https://open.spotify.com/track/7mRXzK30h0UIuTdYhArwvv"

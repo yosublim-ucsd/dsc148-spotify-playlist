@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-04-26",
   "description": "Updated daily, with the latest popular singles!",
-  "name": "NEW SINGLES RELEASES | UPDATED 27 APR",
+  "name": "NEW SINGLES RELEASES | UPDATED 28 APR",
   "tracks": [
     {
       "album": {
@@ -24,6 +24,24 @@
       "duration_ms": 192089,
       "name": "1:59 (feat. Gunna)",
       "url": "https://open.spotify.com/track/4nncvBrXyuKNg5jfBnJ1dR"
+    },
+    {
+      "album": {
+        "name": "241!",
+        "url": "https://open.spotify.com/album/2H6Ntup5IrvU1gvMcXBFJv"
+      },
+      "artists": [
+        {
+          "name": "ISSBROKIE",
+          "url": "https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI"
+        }
+      ],
+      "date_added": "2024-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108760,
+      "name": "241!",
+      "url": "https://open.spotify.com/track/0KiJviv4Is9dwE1t6Gf8VM"
     },
     {
       "album": {
@@ -74,7 +92,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 274320,
       "name": "Bleeders",
       "url": "https://open.spotify.com/track/3KprCokhFBVLLGyQVu5XaN"
@@ -92,7 +110,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 185492,
       "name": "Burj Khalifa",
       "url": "https://open.spotify.com/track/49Ycoi7GZLEciqnmhtge14"
@@ -110,10 +128,32 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 154960,
       "name": "Can't Come Back",
       "url": "https://open.spotify.com/track/6s4C2WNpnL1YwGaiJl2x3i"
+    },
+    {
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/6vHA1k10xssz56inCFbT58"
+      },
+      "artists": [
+        {
+          "name": "Chenayder",
+          "url": "https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y"
+        },
+        {
+          "name": "MAVI",
+          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
+        }
+      ],
+      "date_added": "2024-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/49aBr2lBFh0LkR84IbsIQz"
     },
     {
       "album": {
@@ -162,7 +202,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 208908,
       "name": "Dancing Like We're Dead",
       "url": "https://open.spotify.com/track/11YpnhigOWUg76fppBhgcA"
@@ -220,6 +260,24 @@
       "duration_ms": 169505,
       "name": "Dust",
       "url": "https://open.spotify.com/track/63ovddHrcXezSAjE8sSBwO"
+    },
+    {
+      "album": {
+        "name": "end game",
+        "url": "https://open.spotify.com/album/28Al1lPpcToVKiM8EnNuXz"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "date_added": "2024-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146413,
+      "name": "end game",
+      "url": "https://open.spotify.com/track/3YyyTcNUwJU4fS01fppkkZ"
     },
     {
       "album": {
@@ -486,7 +544,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 178041,
       "name": "Love Me JeJe",
       "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
@@ -580,10 +638,28 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 219773,
       "name": "rentrer chez moi",
       "url": "https://open.spotify.com/track/4lu4t2NkQ8APnm0GwL8Gbl"
+    },
+    {
+      "album": {
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/1Knz3H6xezJxY2rBGMzAQE"
+      },
+      "artists": [
+        {
+          "name": "Nerissa Ravencroft",
+          "url": "https://open.spotify.com/artist/4uzAnzFMXarRPOBAG2lIIa"
+        }
+      ],
+      "date_added": "2024-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192017,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/5whKZymIO7PDqWxo1uhMWP"
     },
     {
       "album": {
@@ -606,6 +682,28 @@
       "duration_ms": 268741,
       "name": "Scarlet - Acoustic",
       "url": "https://open.spotify.com/track/1E91dH31Zu8LBfIOCZUvc1"
+    },
+    {
+      "album": {
+        "name": "Sour Candy (Reimagined)",
+        "url": "https://open.spotify.com/album/219WaxPYiuWmoqu6kz0xa5"
+      },
+      "artists": [
+        {
+          "name": "Melt",
+          "url": "https://open.spotify.com/artist/0G7KI9I5BApiXc5Sqpyil9"
+        },
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        }
+      ],
+      "date_added": "2024-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227736,
+      "name": "Sour Candy (Reimagined)",
+      "url": "https://open.spotify.com/track/1NJIt2Ma1YxoTQkxmWjRRg"
     },
     {
       "album": {
@@ -730,6 +828,24 @@
       "duration_ms": 127009,
       "name": "TODAY",
       "url": "https://open.spotify.com/track/2kGDnsD6HMCNC9yYlGrfDG"
+    },
+    {
+      "album": {
+        "name": "XEREQUINHA VAI",
+        "url": "https://open.spotify.com/album/6Ar2KvPCgOWaDBYcMDFlS6"
+      },
+      "artists": [
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "date_added": "2024-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125435,
+      "name": "XEREQUINHA VAI",
+      "url": "https://open.spotify.com/track/3LXo7UHdMWd6B76nelhTiH"
     }
   ],
   "url": "https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV"

@@ -23,6 +23,42 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/6iG6Lw32h0nSOjbosvPQwZ"
+      },
+      "artists": [
+        {
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2024-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/0wbcG4kKNOdZ9wTEra3aYI"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/23xIO2gLYyPiXyqhORhoer"
+      },
+      "artists": [
+        {
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2024-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/3GMeCx87zWbtg6jD4evZ58"
+    },
+    {
+      "album": {
         "name": "#PHONKFREESTYLE",
         "url": "https://open.spotify.com/album/0OYDRhRornVSIIeHrjvScc"
       },
@@ -4200,7 +4236,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 153253,
       "name": "DAMLALAR",
       "url": "https://open.spotify.com/track/4bLNcWlObRwarB6zJEZX4P"
@@ -5945,6 +5981,28 @@
     },
     {
       "album": {
+        "name": "\u00d6l\u00fcm",
+        "url": "https://open.spotify.com/album/46IfShPkpXO3MrHkv6jQNW"
+      },
+      "artists": [
+        {
+          "name": "Allame",
+          "url": "https://open.spotify.com/artist/25FdziPY37yQIRXSk7ZUmS"
+        },
+        {
+          "name": "Joker",
+          "url": "https://open.spotify.com/artist/2Fu5huGG8iXC85P9akyYrr"
+        }
+      ],
+      "date_added": "2024-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156521,
+      "name": "Galaktik",
+      "url": "https://open.spotify.com/track/4HD2JqwQtTI1zrHHA8dOAc"
+    },
+    {
+      "album": {
         "name": "Gamzedeyim Deva Bulmam",
         "url": "https://open.spotify.com/album/3Tltrhd0u9g6cFjJiB0k8E"
       },
@@ -6780,7 +6838,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 218086,
       "name": "G\u00f6r Bak",
       "url": "https://open.spotify.com/track/00zpoHL8I7zlPzWEbSYDgB"
@@ -9257,6 +9315,24 @@
     },
     {
       "album": {
+        "name": "IMPARATOR pt.1",
+        "url": "https://open.spotify.com/album/4KHZ9YcyFDWH4DVro6EKjo"
+      },
+      "artists": [
+        {
+          "name": "Sefo",
+          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
+        }
+      ],
+      "date_added": "2024-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "KAPALI KAPILAR",
+      "url": "https://open.spotify.com/track/4CqokdSBNDhjOXkoH3FQr0"
+    },
+    {
+      "album": {
         "name": "Kapal\u0131 Kap\u0131lar",
         "url": "https://open.spotify.com/album/4LQUHqj3yzAz5zQXR1w296"
       },
@@ -9268,7 +9344,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 156000,
       "name": "Kapal\u0131 Kap\u0131lar",
       "url": "https://open.spotify.com/track/4tFRoWT0hpshwYHAaDxcLj"
@@ -14254,7 +14330,7 @@
       ],
       "date_added": "2024-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 259268,
       "name": "Seni Seviyorum (Live)",
       "url": "https://open.spotify.com/track/730eP2Ndifb7WUPerT4Nes"
@@ -14894,7 +14970,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 243439,
       "name": "Sopa - Clup Remix",
       "url": "https://open.spotify.com/track/2rkDwpmqASO9ZmUFjqwrR3"
@@ -17304,6 +17380,24 @@
       "duration_ms": 171641,
       "name": "ZOR",
       "url": "https://open.spotify.com/track/4wLpDd099QT7TmNpMkFIvT"
+    },
+    {
+      "album": {
+        "name": "Zor Tutuyorum",
+        "url": "https://open.spotify.com/album/7aD7xBVpgJdTF41H9T1BKD"
+      },
+      "artists": [
+        {
+          "name": "Ahiyan",
+          "url": "https://open.spotify.com/artist/0U8sdaBYsYld98xOIX1nYB"
+        }
+      ],
+      "date_added": "2024-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204750,
+      "name": "Zor Tutuyorum",
+      "url": "https://open.spotify.com/track/651Xoa48WeD7IOUmeKoNJt"
     },
     {
       "album": {

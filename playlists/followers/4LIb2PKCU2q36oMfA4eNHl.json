@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 42179,
+  "2024-04-28": 42177,
   "date_first_scraped": "2023-12-14",
   "description": "The best tracks in downtempo &amp; chill, curated by Anjuna. Perfect for studying, meditating &amp; relaxing. ",
   "name": "Chill with Anjuna",
@@ -75,6 +75,28 @@
       "duration_ms": 255410,
       "name": "Amalia Play (feat. Amalia)",
       "url": "https://open.spotify.com/track/4N5J8lR2f0ts6lKJiAWQmk"
+    },
+    {
+      "album": {
+        "name": "Ambient Resonances",
+        "url": "https://open.spotify.com/album/0qnDn96QQ9t6c6Q1jifsEr"
+      },
+      "artists": [
+        {
+          "name": "The Floating Whale",
+          "url": "https://open.spotify.com/artist/7egG6Bs3yvF8st1lQ1Aa0h"
+        },
+        {
+          "name": "Hiyasu Cuts",
+          "url": "https://open.spotify.com/artist/2Y9fGLK2O6rYdTftrcgKnO"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105963,
+      "name": "Ambient Resonances",
+      "url": "https://open.spotify.com/track/4aEXOceIIBTWEMhXQ4ivXz"
     },
     {
       "album": {
@@ -807,6 +829,28 @@
       "duration_ms": 281904,
       "name": "IZUMO",
       "url": "https://open.spotify.com/track/7alJ5Zy3imEzCCzwv9hEtq"
+    },
+    {
+      "album": {
+        "name": "The Vanishing Years",
+        "url": "https://open.spotify.com/album/3lnxGIRMSj6NKB16ijwbOH"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo",
+          "url": "https://open.spotify.com/artist/7FR8ZynvReyPlYfi4LnKyI"
+        },
+        {
+          "name": "Minako",
+          "url": "https://open.spotify.com/artist/5XmQ2g7xxwA3I0o6LWXM2N"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295885,
+      "name": "Just Like Heaven",
+      "url": "https://open.spotify.com/track/03lqvDgdBKvrq3mGztwU93"
     },
     {
       "album": {
@@ -1633,7 +1677,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 251470,
       "name": "Unlearn",
       "url": "https://open.spotify.com/track/3Zeykv0VAQEomLmiq0hr9P"
@@ -1723,7 +1767,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 89775,
       "name": "With Hope",
       "url": "https://open.spotify.com/track/2CNx1R95u2ILOFpxcgR1o1"

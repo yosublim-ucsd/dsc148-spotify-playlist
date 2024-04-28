@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 920302,
+  "2024-04-28": 920156,
   "date_first_scraped": "2021-12-21",
   "description": "Country gone wild! You never know what you're gonna get. Cover: Blanco Brown",
   "name": "Wild Country",
@@ -599,6 +599,24 @@
       "duration_ms": 108535,
       "name": "B.Y.O.B.",
       "url": "https://open.spotify.com/track/0eV8jHjIz5mC4hrDcARzur"
+    },
+    {
+      "album": {
+        "name": "Baby Daddy's Weekend",
+        "url": "https://open.spotify.com/album/7uwBOtieYh0NBjJco1GsuH"
+      },
+      "artists": [
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183253,
+      "name": "Baby Daddy's Weekend",
+      "url": "https://open.spotify.com/track/5fqSP5pSyVoxnbFyGRjEEe"
     },
     {
       "album": {

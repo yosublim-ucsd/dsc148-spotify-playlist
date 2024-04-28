@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 
 > Así suena la música urbana de Panamá hoy\. Foto: BARBEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,985 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,035 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Yo Te Llamo](https://open.spotify.com/track/4lFnfbRhGSpTm17XKGcXs6) | [JEYSON](https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb), [SMILE BEATS](https://open.spotify.com/artist/5A0VwTrVvV03LMeBZYT99d) | [De 0 a 100](https://open.spotify.com/album/56xJFIXqrvIjX2GldeMfwl) | 2:33 |
 | 2 | [La Mexicana](https://open.spotify.com/track/5itg5kaqEcsjzZYzbFs8X5) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ) | [La Mexicana](https://open.spotify.com/album/25XyXkqIW4W1coLxOTn1k3) | 4:00 |
-| 3 | [NO SON PA' SIEMPRE](https://open.spotify.com/track/5KKVP1q1EoI7qJ8FSgvVUH) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [NO SON PA' SIEMPRE](https://open.spotify.com/album/2B6Rx0Y4vMf6PiDlvJD0uC) | 2:58 |
+| 3 | [NO SON PA' SIEMPRE](https://open.spotify.com/track/5KKVP1q1EoI7qJ8FSgvVUH) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Ruso Beats](https://open.spotify.com/artist/046MM5OvGEg7muuuoFNaXe) | [NO SON PA' SIEMPRE](https://open.spotify.com/album/2B6Rx0Y4vMf6PiDlvJD0uC) | 2:58 |
 | 4 | [Sin Latexxx \(feat\. Danny Yash\)](https://open.spotify.com/track/0kTjuAVtSTJeaKWI25Jo1r) | [PM Beatz](https://open.spotify.com/artist/6wcfcQKvD00ZO41wa5FxDp), [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm), [Tachi](https://open.spotify.com/artist/4rGGVLUW4jKwW7HVwTr40U), [Danny Yash](https://open.spotify.com/artist/3tULsHfYJH7joHTmn5vLNn) | [Sin Latexxx \(feat\. Danny Yash\)](https://open.spotify.com/album/1txkHTxRUtvPS3k5LFnCTS) | 3:38 |
 | 5 | [La Niña Consentida](https://open.spotify.com/track/2H5lq3Gn1t7FBX5l4as2im) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [Kevin Ice](https://open.spotify.com/artist/6T7bOrkvmlGkEVPer6rDp3) | [La Niña Consentida](https://open.spotify.com/album/6HSMFCODetruC7z5k8MalQ) | 4:59 |
 | 6 | [Iluso \- Remix](https://open.spotify.com/track/1rNptUcqZ4gc6UCZsV8yjg) | [At' Fat](https://open.spotify.com/artist/455JBMYIT1lWf1Djj4rDc7), [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4), [Akim](https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3) | [Iluso \(Remix\)](https://open.spotify.com/album/3Af8exgSAdtNoxxKRBxfBd) | 3:01 |

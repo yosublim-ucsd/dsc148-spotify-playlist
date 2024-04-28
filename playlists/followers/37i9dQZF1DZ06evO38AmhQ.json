@@ -1,7 +1,7 @@
 {
-  "2024-04-27": 20355,
+  "2024-04-28": 20361,
   "date_first_scraped": "2023-06-18",
-  "description": "This Is John Williamson. Los temas esenciales, todos en una lista.",
+  "description": "This is John Williamson. The essential tracks, all in one playlist.",
   "name": "This Is John Williamson",
   "tracks": [
     {
@@ -345,10 +345,28 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 215906,
       "name": "Diggers of the Anzac (This Is Gallipoli)",
       "url": "https://open.spotify.com/track/7HBaB4e77Q1Vcg16y8ft6K"
+    },
+    {
+      "album": {
+        "name": "Anthems - A Celebration of Australia",
+        "url": "https://open.spotify.com/album/2P5hfHC2zNLTYhpPTIfMGy"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2024-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222840,
+      "name": "Diggers of the Anzac (This Is Gallipoli)",
+      "url": "https://open.spotify.com/track/4AVP1x0f8Piw7FejJ3BHcQ"
     },
     {
       "album": {
@@ -911,7 +929,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-22",
+      "date_removed": null,
       "duration_ms": 171306,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/4OGlxdoxuVUIrYVUY6x3vs"
@@ -1145,7 +1163,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 242786,
       "name": "Waltzing Matilda",
       "url": "https://open.spotify.com/track/1x2KFbCFp8k3MFBMrz7eXA"

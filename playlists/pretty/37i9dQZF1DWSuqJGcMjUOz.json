@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les artistes \u00e0 l'affiche de l\u2019\u00e9dition 2024 des Francos de Montr\u00e9al.",
-  "num_followers": 4848,
+  "num_followers": 4852,
   "original_name": "Francos de Montr\u00e9al 2024",
   "owner": {
     "name": "Spotify",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-04-23 22:00:00",
       "album": {
-        "name": "Grafignes",
-        "url": "https://open.spotify.com/album/4apNI8EVLPBkQH1ceRRcFl"
-      },
-      "artists": [
-        {
-          "name": "Gab Bouchard",
-          "url": "https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP"
-        }
-      ],
-      "duration_ms": 190906,
-      "name": "D\u00e9potoir",
-      "url": "https://open.spotify.com/track/2d6lf93GHyLwm4TWS0LoAl"
-    },
-    {
-      "added_at": "2024-04-23 22:00:00",
-      "album": {
         "name": "J'ai Bu",
         "url": "https://open.spotify.com/album/36Nlk84bj3ZLeQNB8q2fmK"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 347855,
       "name": "Me d'mandait ma blonde",
       "url": "https://open.spotify.com/track/617uIR54eouaAaLMj2Zef9"
+    },
+    {
+      "added_at": "2024-04-23 22:00:00",
+      "album": {
+        "name": "Grafignes",
+        "url": "https://open.spotify.com/album/4apNI8EVLPBkQH1ceRRcFl"
+      },
+      "artists": [
+        {
+          "name": "Gab Bouchard",
+          "url": "https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP"
+        }
+      ],
+      "duration_ms": 190906,
+      "name": "D\u00e9potoir",
+      "url": "https://open.spotify.com/track/2d6lf93GHyLwm4TWS0LoAl"
     },
     {
       "added_at": "2024-04-23 22:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-04-23 22:00:00",
       "album": {
-        "name": "O\u00d9 EST PASS\u00c9 ZEUDOG ?",
-        "url": "https://open.spotify.com/album/461A8bwUFWhREU9mvKL6tB"
-      },
-      "artists": [
-        {
-          "name": "sean",
-          "url": "https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C"
-        }
-      ],
-      "duration_ms": 196253,
-      "name": "J'AI FAILLI",
-      "url": "https://open.spotify.com/track/3uk9jCGQmtVlkZoLTkuA0A"
-    },
-    {
-      "added_at": "2024-04-23 22:00:00",
-      "album": {
         "name": "Objets perdus",
         "url": "https://open.spotify.com/album/23ZdRpke5PxHJYscobdOk9"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 204240,
       "name": "Maintenant ou jamais",
       "url": "https://open.spotify.com/track/118a8HYWmt3jzaXTxGZsnv"
+    },
+    {
+      "added_at": "2024-04-23 22:00:00",
+      "album": {
+        "name": "O\u00d9 EST PASS\u00c9 ZEUDOG ?",
+        "url": "https://open.spotify.com/album/461A8bwUFWhREU9mvKL6tB"
+      },
+      "artists": [
+        {
+          "name": "sean",
+          "url": "https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C"
+        }
+      ],
+      "duration_ms": 196253,
+      "name": "J'AI FAILLI",
+      "url": "https://open.spotify.com/track/3uk9jCGQmtVlkZoLTkuA0A"
     },
     {
       "added_at": "2024-04-23 22:00:00",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2024-04-23 22:00:00",
       "album": {
+        "name": "\u00c9chapper \u00e0 la nuit",
+        "url": "https://open.spotify.com/album/7tuf8ByiAjlsfAEMjuxdBy"
+      },
+      "artists": [
+        {
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+        }
+      ],
+      "duration_ms": 191360,
+      "name": "Je vais te faire danser",
+      "url": "https://open.spotify.com/track/5vnSIodkn5kokXyxJXs76l"
+    },
+    {
+      "added_at": "2024-04-23 22:00:00",
+      "album": {
         "name": "Surhomme",
         "url": "https://open.spotify.com/album/6ogbVluVJc23tLVlAViiEo"
       },
@@ -1339,34 +1355,18 @@
     {
       "added_at": "2024-04-23 22:00:00",
       "album": {
-        "name": "\u00c9chapper \u00e0 la nuit",
-        "url": "https://open.spotify.com/album/7tuf8ByiAjlsfAEMjuxdBy"
+        "name": "\u00c0 demain peut-\u00eatre",
+        "url": "https://open.spotify.com/album/5xjD6pGqoH2Hgh8CqkwNtW"
       },
       "artists": [
         {
-          "name": "Les s\u0153urs Boulay",
-          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+          "name": "Galaxie",
+          "url": "https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa"
         }
       ],
-      "duration_ms": 191360,
-      "name": "Je vais te faire danser",
-      "url": "https://open.spotify.com/track/5vnSIodkn5kokXyxJXs76l"
-    },
-    {
-      "added_at": "2024-04-23 22:00:00",
-      "album": {
-        "name": "Oniromancie",
-        "url": "https://open.spotify.com/album/4BWbIevVWM9xQrd0KEHupI"
-      },
-      "artists": [
-        {
-          "name": "Laurence-Anne",
-          "url": "https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B"
-        }
-      ],
-      "duration_ms": 216146,
-      "name": "Polymorphe",
-      "url": "https://open.spotify.com/track/2A8mCfjcGkxaAqnSEhCkwJ"
+      "duration_ms": 179706,
+      "name": "Anomie",
+      "url": "https://open.spotify.com/track/4BooW1BcdEhGCS4j7Kpx9M"
     },
     {
       "added_at": "2024-04-23 22:00:00",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2024-04-23 22:00:00",
       "album": {
-        "name": "\u00c0 demain peut-\u00eatre",
-        "url": "https://open.spotify.com/album/5xjD6pGqoH2Hgh8CqkwNtW"
+        "name": "Oniromancie",
+        "url": "https://open.spotify.com/album/4BWbIevVWM9xQrd0KEHupI"
       },
       "artists": [
         {
-          "name": "Galaxie",
-          "url": "https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa"
+          "name": "Laurence-Anne",
+          "url": "https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B"
         }
       ],
-      "duration_ms": 179706,
-      "name": "Anomie",
-      "url": "https://open.spotify.com/track/4BooW1BcdEhGCS4j7Kpx9M"
+      "duration_ms": 216146,
+      "name": "Polymorphe",
+      "url": "https://open.spotify.com/track/2A8mCfjcGkxaAqnSEhCkwJ"
     },
     {
       "added_at": "2024-04-23 22:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-04-23 22:00:00",
       "album": {
-        "name": "Holla",
-        "url": "https://open.spotify.com/album/3QQQGEyXrL2ZSyce01FuDo"
-      },
-      "artists": [
-        {
-          "name": "Heskis",
-          "url": "https://open.spotify.com/artist/1l4zmi29P6ZWSehP5qOL7U"
-        }
-      ],
-      "duration_ms": 168888,
-      "name": "Quelqu'un quand-m\u00eame",
-      "url": "https://open.spotify.com/track/44qZlOo2ivJ5Cn6bHGsJfi"
-    },
-    {
-      "added_at": "2024-04-23 22:00:00",
-      "album": {
         "name": "\u00c7a s'invente pas",
         "url": "https://open.spotify.com/album/1QPEBa411xm2gFUwXiGeRg"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 143253,
       "name": "Du country dans le ravin",
       "url": "https://open.spotify.com/track/2T2mpckFPDfpM9wgCFdJXt"
+    },
+    {
+      "added_at": "2024-04-23 22:00:00",
+      "album": {
+        "name": "Holla",
+        "url": "https://open.spotify.com/album/3QQQGEyXrL2ZSyce01FuDo"
+      },
+      "artists": [
+        {
+          "name": "Heskis",
+          "url": "https://open.spotify.com/artist/1l4zmi29P6ZWSehP5qOL7U"
+        }
+      ],
+      "duration_ms": 168888,
+      "name": "Quelqu'un quand-m\u00eame",
+      "url": "https://open.spotify.com/track/44qZlOo2ivJ5Cn6bHGsJfi"
     },
     {
       "added_at": "2024-04-23 22:00:00",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2024-04-23 22:00:00",
       "album": {
-        "name": "D\u00e9jeuner sur l'herbe",
-        "url": "https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4"
-      },
-      "artists": [
-        {
-          "name": "Les Breastfeeders",
-          "url": "https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i"
-        }
-      ],
-      "duration_ms": 192093,
-      "name": "J'pourrais pas vivre avec toi",
-      "url": "https://open.spotify.com/track/7avXxd2QUIQvMdD5NKD1e7"
-    },
-    {
-      "added_at": "2024-04-23 22:00:00",
-      "album": {
         "name": "O\u00f9 est pass\u00e9 mon contour",
         "url": "https://open.spotify.com/album/14179pvxliO47am5SkoCLw"
       },
@@ -1795,18 +1779,18 @@
     {
       "added_at": "2024-04-23 22:00:00",
       "album": {
-        "name": "Quand il est seul",
-        "url": "https://open.spotify.com/album/7LnW6iz8kqZvVPhQw67ZxK"
+        "name": "D\u00e9jeuner sur l'herbe",
+        "url": "https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4"
       },
       "artists": [
         {
-          "name": "T\u00e9m\u00e9 Tan",
-          "url": "https://open.spotify.com/artist/257G4gJ7XVp8Ec8TrjGyMW"
+          "name": "Les Breastfeeders",
+          "url": "https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i"
         }
       ],
-      "duration_ms": 207868,
-      "name": "un grand plat de riz",
-      "url": "https://open.spotify.com/track/7cdfQb6ekMLykA2Av1xIZg"
+      "duration_ms": 192093,
+      "name": "J'pourrais pas vivre avec toi",
+      "url": "https://open.spotify.com/track/7avXxd2QUIQvMdD5NKD1e7"
     },
     {
       "added_at": "2024-04-23 22:00:00",
@@ -1823,6 +1807,22 @@
       "duration_ms": 184036,
       "name": "Bisous",
       "url": "https://open.spotify.com/track/1ceBIstPnCycyYsMpVwVUF"
+    },
+    {
+      "added_at": "2024-04-23 22:00:00",
+      "album": {
+        "name": "Quand il est seul",
+        "url": "https://open.spotify.com/album/7LnW6iz8kqZvVPhQw67ZxK"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9m\u00e9 Tan",
+          "url": "https://open.spotify.com/artist/257G4gJ7XVp8Ec8TrjGyMW"
+        }
+      ],
+      "duration_ms": 207868,
+      "name": "un grand plat de riz",
+      "url": "https://open.spotify.com/track/7cdfQb6ekMLykA2Av1xIZg"
     },
     {
       "added_at": "2024-04-23 22:00:00",

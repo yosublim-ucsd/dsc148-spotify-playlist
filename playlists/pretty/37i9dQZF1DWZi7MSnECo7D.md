@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: Bemti
 
-[Spotify](https://open.spotify.com/user/spotify) - 513,605 likes - 66 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 513,488 likes - 66 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 4 | [Maravilha](https://open.spotify.com/track/6SA7luCXsFXf3ZoqoUdYov) | [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Maravilha](https://open.spotify.com/album/6V0CpkVh3AE6xk4ym7z5pv) | 3:14 |
 | 5 | [Eu Me Deito Aqui](https://open.spotify.com/track/1P3gn9tKdtg2rJQega6x9f) | [A Jaya](https://open.spotify.com/artist/7fb3HrdWWOWEqZV5QddjJT) | [Eu Me Deito Aqui](https://open.spotify.com/album/6IT9bvoBr0RHRkLphlxK5e) | 4:05 |
 | 6 | [Cererê](https://open.spotify.com/track/3vSrgDmcI6QcZgEbgbI5Kp) | [Carne Doce](https://open.spotify.com/artist/01F64hXfIisZbwBf1VCwQT) | [Cererê](https://open.spotify.com/album/0wfQKLlCKAYZGF5BqzaWjM) | 4:11 |
-| 7 | [Calor da Boca](https://open.spotify.com/track/4KYaANDmHwZPvLNfbL9r81) | [castel](https://open.spotify.com/artist/3I34QM4CTtiNEkXxwLxztH), [MAYAH](https://open.spotify.com/artist/1rg783Ojka0Cy5saubif7c) | [Calor da Boca](https://open.spotify.com/album/1zFMm7sUc2W8Sza1L0cmlG) | 3:40 |
+| 7 | [Calor da Boca](https://open.spotify.com/track/4KYaANDmHwZPvLNfbL9r81) | [Castel](https://open.spotify.com/artist/4RTi9WT73fsYrGnYZRneJf), [MAYAH](https://open.spotify.com/artist/1rg783Ojka0Cy5saubif7c) | [Calor da Boca](https://open.spotify.com/album/1zFMm7sUc2W8Sza1L0cmlG) | 3:40 |
 | 8 | [Orlando](https://open.spotify.com/track/5kydwe4EX8d7kys5WrfU7A) | [Sofia Freire](https://open.spotify.com/artist/1Iei4PJ2fWpnhc5qamVloV) | [Ponta da Língua](https://open.spotify.com/album/08YInO2jLBRO87MJlJwlAS) | 2:32 |
 | 9 | [lentamente](https://open.spotify.com/track/4ve8c7k1gugrh7cdY0TNQo) | [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [lentamente](https://open.spotify.com/album/4zThV7FqLkxpvXMCwd7e2r) | 3:19 |
 | 10 | [Vestido Vermelho](https://open.spotify.com/track/61M14oh9fDkMjxWSqX9ROX) | [André Paixão](https://open.spotify.com/artist/0cL5s1kVSxBwkpLORUjF3p), [Pupillo](https://open.spotify.com/artist/2Uo4yafwibiI7doudOWOXK) | [Fora do Ritmo](https://open.spotify.com/album/6C72tw5sb3jlNbdvzOhkPF) | 5:25 |

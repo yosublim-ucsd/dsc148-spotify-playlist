@@ -1,7 +1,7 @@
 {
-  "2024-04-27": 79650,
+  "2024-04-28": 79680,
   "date_first_scraped": "2023-03-30",
-  "description": "Keep it Punjabi, Keep it Real. Cover: Tarsem Jassar",
+  "description": "Keep it Punjabi, Keep it Real. Cover: Nirvair Pannu",
   "name": "Ghaint Flow",
   "tracks": [
     {
@@ -3752,6 +3752,28 @@
     },
     {
       "album": {
+        "name": "Jatt's Info",
+        "url": "https://open.spotify.com/album/6IdAACJrb4RAenxJItQZob"
+      },
+      "artists": [
+        {
+          "name": "Jass Bajwa",
+          "url": "https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx"
+        },
+        {
+          "name": "Starboy X",
+          "url": "https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173684,
+      "name": "Jatt's Info",
+      "url": "https://open.spotify.com/track/7FuxZtrywaqy9YQ2kE63ZG"
+    },
+    {
+      "album": {
         "name": "Jatta Ve",
         "url": "https://open.spotify.com/album/3eRh8KRPybLy4wDDnUnYBi"
       },
@@ -4142,6 +4164,24 @@
     },
     {
       "album": {
+        "name": "L.B.E",
+        "url": "https://open.spotify.com/album/3SdX0ZgW8NqfTir2YEo05E"
+      },
+      "artists": [
+        {
+          "name": "Nirvair Pannu",
+          "url": "https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149026,
+      "name": "Khoobia",
+      "url": "https://open.spotify.com/track/7vdLeF0hqThuFH8dxgUhrc"
+    },
+    {
+      "album": {
         "name": "Khutti",
         "url": "https://open.spotify.com/album/0ISqysl9naGSplhk71vv4Z"
       },
@@ -4275,6 +4315,24 @@
       "duration_ms": 247826,
       "name": "Laadla",
       "url": "https://open.spotify.com/track/5mGAQXwHbwdknsmupmSvrI"
+    },
+    {
+      "album": {
+        "name": "L.B.E",
+        "url": "https://open.spotify.com/album/3SdX0ZgW8NqfTir2YEo05E"
+      },
+      "artists": [
+        {
+          "name": "Nirvair Pannu",
+          "url": "https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127629,
+      "name": "Laara",
+      "url": "https://open.spotify.com/track/6YjzEVM695unCYO1rAAoQy"
     },
     {
       "album": {
@@ -5485,7 +5543,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 158284,
       "name": "Notorious",
       "url": "https://open.spotify.com/track/3hPHAITOnyuKts5Y29AcwK"
@@ -6147,7 +6205,7 @@
       ],
       "date_added": "2024-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 163356,
       "name": "Sangeet",
       "url": "https://open.spotify.com/track/39V6hSkf2ib8CgwgiaHfbO"
@@ -6217,7 +6275,7 @@
       ],
       "date_added": "2024-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 167059,
       "name": "Shaq",
       "url": "https://open.spotify.com/track/2KvY2aHPjAS2Or4MFLtVwq"
@@ -7255,7 +7313,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 188571,
       "name": "Try Us",
       "url": "https://open.spotify.com/track/7707ET0gPOazzQro1hhx8N"
@@ -7365,6 +7423,28 @@
       "duration_ms": 179228,
       "name": "Unexpected",
       "url": "https://open.spotify.com/track/1sbwUh5TnxyIug3zfbGwhJ"
+    },
+    {
+      "album": {
+        "name": "Unskippable",
+        "url": "https://open.spotify.com/album/0zjBmT5JsW3W317YFGEuJR"
+      },
+      "artists": [
+        {
+          "name": "Jordan Sandhu",
+          "url": "https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv"
+        },
+        {
+          "name": "Balkar",
+          "url": "https://open.spotify.com/artist/6zNY19Sp24dlHukMG0CC3k"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141063,
+      "name": "Unskippable",
+      "url": "https://open.spotify.com/track/6D0UutN2BbNaVP1RXHeRe5"
     },
     {
       "album": {

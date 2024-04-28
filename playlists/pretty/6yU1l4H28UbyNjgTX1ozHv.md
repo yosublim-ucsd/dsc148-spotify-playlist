@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-[Matt Johnson](https://open.spotify.com/user/117687144) - 9,020 likes - 123 songs - 6 hr 41 min
+[Matt Johnson](https://open.spotify.com/user/117687144) - 9,018 likes - 123 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 18 | [Last Request \(Recorded at Bush Studios\) \- Live; Acoustic](https://open.spotify.com/track/35H5pzqUFrwU1A3iUxP1XQ) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Live Sessions](https://open.spotify.com/album/1oCZj5R2pLKiHyTH7QUkGa) | 3:13 |
 | 19 | [Dance The Night \- Acoustic](https://open.spotify.com/track/5Rylkdnez4Jye4YHucM3M4) | [Phil Halo](https://open.spotify.com/artist/6dyzieLNuthwQsahZSxbOv), [Julia Ross](https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu) | [Dance The Night](https://open.spotify.com/album/2LBVTDsPoquLbnLRmwKlMS) | 2:52 |
 | 20 | [Wouldn't It Be Nice \- Acoustic](https://open.spotify.com/track/2ppKBymgYtlGBzWjRTkrKQ) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [Wouldn't It Be Nice \(Acoustic\)](https://open.spotify.com/album/085kDnx6X3C0TI7uocKr1C) | 2:49 |
-| 21 | [Sweet Home Alabama \- Acoustic](https://open.spotify.com/track/3erRmhqtHch5MPmHYAlsUC) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [Sweet Home Alabama \(Acoustic\)](https://open.spotify.com/album/70AdvQHtuUhoLtbIZyCUDL) | 2:32 |
+| 21 | [This Kiss \- Acoustic](https://open.spotify.com/track/3AqkRNDw7B5vukDtnXy8zJ) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [This Kiss \(Acoustic\)](https://open.spotify.com/album/7wQAgYNFflHq2AqevwUSWn) | 2:42 |
 | 22 | [Say Something \- Live from Spotify NYC](https://open.spotify.com/track/43cKoF3PLrsJSqGKgeqagV) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) | [Spotify Sessions](https://open.spotify.com/album/4ipsAUmKH4ieH5Yh9tln9t) | 4:03 |
 | 23 | [Halo \- Acoustic](https://open.spotify.com/track/4TOYAE8zIoTnPGbgLiErwq) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf) | [Halo \(Acoustic\)](https://open.spotify.com/album/4l2YP0vLmML7jh34CvRzGn) | 3:24 |
 | 24 | [Fast Car \- Acoustic Live Session](https://open.spotify.com/track/14N56qsRV6jOydcjHqN6El) | [Jodie Knight](https://open.spotify.com/artist/4D8bh9Rvbpq8sHjPWVies5), [STABAL](https://open.spotify.com/artist/14Fy429gXhC1L1LJ7Etyyf) | [Fast Car \(Acoustic Live Session\)](https://open.spotify.com/album/36HrHr1wj7tzsryHiUnem2) | 3:21 |
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 122 | [Sorry](https://open.spotify.com/track/21Cr9ZzBDHF7QxDS8kE5Lx) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Sorry](https://open.spotify.com/album/0ep3oeAyv1CQKlVAGBUhrm) | 2:45 |
 | 123 | [Magnetised \- Acoustic](https://open.spotify.com/track/5baXzOMmD0sf26hayRqfqI) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Magnetised \(Acoustic\)](https://open.spotify.com/album/2UQjNLTufvDV6PKx2Kn8v2) | 4:52 |
 
-Snapshot ID: `MTI0NCw5MTU1ODIxZTg3ODRkYWZmOWJiOWZjZTkzMGJkOWY2ODA0ODMwN2Ew`
+Snapshot ID: `MTI0NixkYjg2NzFjMTlmOGRmOTM5N2I2NjkyOGEzMGRmOTJjZTQyZDM1YWJl`

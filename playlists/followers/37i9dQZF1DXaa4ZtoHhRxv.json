@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 10476,
+  "2024-04-28": 10514,
   "date_first_scraped": "2022-01-02",
   "description": "Dale! Hit the dance floor with Dolly Parton and Pitbull! ",
   "name": "Country Club",
@@ -533,6 +533,28 @@
       "duration_ms": 210941,
       "name": "Cheatin\u2019 Songs - Montana Mix",
       "url": "https://open.spotify.com/track/62aWwK5NOED1ADf05zVepV"
+    },
+    {
+      "album": {
+        "name": "Cicadas",
+        "url": "https://open.spotify.com/album/514A89AJBBRebXUNUTVlES"
+      },
+      "artists": [
+        {
+          "name": "MC4D",
+          "url": "https://open.spotify.com/artist/2MbY32LPINIi9P6PCkrOJI"
+        },
+        {
+          "name": "Matty Hendley",
+          "url": "https://open.spotify.com/artist/2yvhvBMATIOiEwXOWiktUS"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223170,
+      "name": "Cicadas",
+      "url": "https://open.spotify.com/track/3vtqI9PL64e3QEZNH7M6yF"
     },
     {
       "album": {
@@ -4087,6 +4109,32 @@
       "duration_ms": 186980,
       "name": "Wildfire - Talegate Remix",
       "url": "https://open.spotify.com/track/2UkreilNoKlrqe6VdXV0uq"
+    },
+    {
+      "album": {
+        "name": "Diplo Presents Thomas Wesley: The Mixtape",
+        "url": "https://open.spotify.com/album/2YEVAviqPGlcnc2ruyXcPE"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Anella Herim",
+          "url": "https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN"
+        },
+        {
+          "name": "Abby Anderson",
+          "url": "https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192631,
+      "name": "Willing To Let You Go (feat. Anella Herim & Abby Anderson)",
+      "url": "https://open.spotify.com/track/1ZZaOAx86pHrZR7Kb0RbKM"
     },
     {
       "album": {

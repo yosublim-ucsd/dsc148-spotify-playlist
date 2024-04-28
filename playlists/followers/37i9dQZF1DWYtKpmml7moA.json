@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 428712,
+  "2024-04-28": 428882,
   "date_first_scraped": "2021-12-29",
   "description": "Simmer down with this relaxing selection of old and new Reggae.",
   "name": "Chilled Reggae",
@@ -238,6 +238,24 @@
     },
     {
       "album": {
+        "name": "Currency Called Time",
+        "url": "https://open.spotify.com/album/5pCiaqaJQiTzbSRSP2rd2s"
+      },
+      "artists": [
+        {
+          "name": "Jah Lil",
+          "url": "https://open.spotify.com/artist/5XjXxI4GloTdy1DpZHMFww"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221123,
+      "name": "Currency Called Time",
+      "url": "https://open.spotify.com/track/6SDAQpax26v24Q1p7JApWL"
+    },
+    {
+      "album": {
         "name": "Strictly The Best Vol. 36",
         "url": "https://open.spotify.com/album/5OAh9E576gCvvut3xHh89G"
       },
@@ -361,7 +379,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 209666,
       "name": "Foundation",
       "url": "https://open.spotify.com/track/10h9F7m8cUY6XGJzhvtZb2"
@@ -387,6 +405,24 @@
       "duration_ms": 247591,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/2ys6cWKndwCetchUXyNE2M"
+    },
+    {
+      "album": {
+        "name": "Gunman",
+        "url": "https://open.spotify.com/album/34l7xEJvkbXs2Ve85ddcKR"
+      },
+      "artists": [
+        {
+          "name": "Jaz Elise",
+          "url": "https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233093,
+      "name": "Gunman",
+      "url": "https://open.spotify.com/track/5RfyhhgWY3RHlupIXsrgA5"
     },
     {
       "album": {
@@ -598,6 +634,24 @@
     },
     {
       "album": {
+        "name": "Is This Love",
+        "url": "https://open.spotify.com/album/3nOLB9nUT7ImsXWqRfM8Sw"
+      },
+      "artists": [
+        {
+          "name": "\u00c4yanna",
+          "url": "https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136318,
+      "name": "Is This Love",
+      "url": "https://open.spotify.com/track/1WJfspc1lIKz3dyVbCvHnF"
+    },
+    {
+      "album": {
         "name": "Late at Night (feat. Lila Ik\u00e9)",
         "url": "https://open.spotify.com/album/3ZQBxCfUR9vLLT2sTV5Q1w"
       },
@@ -739,7 +793,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 246817,
       "name": "Lovely State Of Mind",
       "url": "https://open.spotify.com/track/5Lpkr4t5096HDHqJYiNnJy"
@@ -971,6 +1025,24 @@
       "duration_ms": 206714,
       "name": "Patra",
       "url": "https://open.spotify.com/track/7F32a9GztNOSQxJJUH1qsO"
+    },
+    {
+      "album": {
+        "name": "Praise Jah In The Moonlight",
+        "url": "https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd"
+      },
+      "artists": [
+        {
+          "name": "YG Marley",
+          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263040,
+      "name": "Praise Jah In The Moonlight",
+      "url": "https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9"
     },
     {
       "album": {
@@ -1329,7 +1401,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 223000,
       "name": "Sky Way",
       "url": "https://open.spotify.com/track/0VpJsmh0WGBthUjVinfS3k"
@@ -1565,7 +1637,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 225365,
       "name": "The Herb",
       "url": "https://open.spotify.com/track/3NAmUpcUjhJ0z2MAR0dSY5"

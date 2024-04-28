@@ -1,6 +1,6 @@
 {
   "description": "Even through heartbreak and pain, God\u2019s love remains. Here are songs that cover the crossroads of hope and heartbreak.",
-  "num_followers": 16636,
+  "num_followers": 16654,
   "original_name": "Hope & Heartbreak",
   "owner": {
     "name": "Spotify",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-02-03 03:32:22",
       "album": {
-        "name": "Little Songs",
-        "url": "https://open.spotify.com/album/5n4kw77YDsDW8niS0MawJe"
-      },
-      "artists": [
-        {
-          "name": "Jon Guerra",
-          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
-        }
-      ],
-      "duration_ms": 257626,
-      "name": "I Will Follow",
-      "url": "https://open.spotify.com/track/4EXGTpGRXFnvzM0DL6PFTj"
-    },
-    {
-      "added_at": "2024-02-03 03:32:22",
-      "album": {
         "name": "Story",
         "url": "https://open.spotify.com/album/4HvfGeXJEUc56oFnBS1cTk"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 212374,
       "name": "Story",
       "url": "https://open.spotify.com/track/1MeQJmRY0bhWHBifD2dL7I"
+    },
+    {
+      "added_at": "2024-02-03 03:32:22",
+      "album": {
+        "name": "Little Songs",
+        "url": "https://open.spotify.com/album/5n4kw77YDsDW8niS0MawJe"
+      },
+      "artists": [
+        {
+          "name": "Jon Guerra",
+          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
+        }
+      ],
+      "duration_ms": 257626,
+      "name": "I Will Follow",
+      "url": "https://open.spotify.com/track/4EXGTpGRXFnvzM0DL6PFTj"
     },
     {
       "added_at": "2024-02-03 03:32:22",
@@ -803,26 +803,6 @@
     {
       "added_at": "2024-02-03 03:32:22",
       "album": {
-        "name": "Hero",
-        "url": "https://open.spotify.com/album/6j1ewaeiw48zvPdaC3RK7m"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Marvin L. Winans",
-          "url": "https://open.spotify.com/artist/3hjybWRzcos3v8ooD8hETy"
-        }
-      ],
-      "duration_ms": 361560,
-      "name": "Brokenhearted (with Marvin L. Winans) - Live",
-      "url": "https://open.spotify.com/track/37ao4T8DSd6DvIbgIlMps3"
-    },
-    {
-      "added_at": "2024-02-03 03:32:22",
-      "album": {
         "name": "Everything About You",
         "url": "https://open.spotify.com/album/0cyH1iWX95Bpsp01sFGInX"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 207626,
       "name": "Everything About You (feat. Marlee)",
       "url": "https://open.spotify.com/track/6WEJfyD3saydrkwaGEAYI5"
+    },
+    {
+      "added_at": "2024-02-03 03:32:22",
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/6j1ewaeiw48zvPdaC3RK7m"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Marvin L. Winans",
+          "url": "https://open.spotify.com/artist/3hjybWRzcos3v8ooD8hETy"
+        }
+      ],
+      "duration_ms": 361560,
+      "name": "Brokenhearted (with Marvin L. Winans) - Live",
+      "url": "https://open.spotify.com/track/37ao4T8DSd6DvIbgIlMps3"
     },
     {
       "added_at": "2024-02-03 03:32:22",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-02-03 03:32:22",
       "album": {
-        "name": "Maybe Tables Turn (demo)",
-        "url": "https://open.spotify.com/album/3elMZvgMAgsJEj2oUXC56M"
-      },
-      "artists": [
-        {
-          "name": "Sarah Juers",
-          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
-        }
-      ],
-      "duration_ms": 157727,
-      "name": "Maybe Tables Turn (demo)",
-      "url": "https://open.spotify.com/track/1xOLUgp4pb9SsH5kPiTHfS"
-    },
-    {
-      "added_at": "2024-02-03 03:32:22",
-      "album": {
         "name": "Te Digo Adios",
         "url": "https://open.spotify.com/album/32LZEVREgNsGsdXpNH9tLZ"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 203408,
       "name": "Te Digo Adios",
       "url": "https://open.spotify.com/track/55Tm9Fb2flEu3lPtgpToTm"
+    },
+    {
+      "added_at": "2024-02-03 03:32:22",
+      "album": {
+        "name": "Maybe Tables Turn (demo)",
+        "url": "https://open.spotify.com/album/3elMZvgMAgsJEj2oUXC56M"
+      },
+      "artists": [
+        {
+          "name": "Sarah Juers",
+          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
+        }
+      ],
+      "duration_ms": 157727,
+      "name": "Maybe Tables Turn (demo)",
+      "url": "https://open.spotify.com/track/1xOLUgp4pb9SsH5kPiTHfS"
     },
     {
       "added_at": "2024-02-03 03:32:22",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-02-03 03:32:22",
       "album": {
-        "name": "Coffee & Cherries",
-        "url": "https://open.spotify.com/album/4kPbI0DiBzMrGeFJMrlPAu"
-      },
-      "artists": [
-        {
-          "name": "Kylie Odetta",
-          "url": "https://open.spotify.com/artist/2meUQKRm9yos5hbsWl9TRq"
-        }
-      ],
-      "duration_ms": 141290,
-      "name": "Coffee & Cherries",
-      "url": "https://open.spotify.com/track/7gucyUOtnBppG9Kdx452ya"
-    },
-    {
-      "added_at": "2024-02-03 03:32:22",
-      "album": {
         "name": "Broken",
         "url": "https://open.spotify.com/album/3BIidQamOV0tESTXQJaHFa"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 215200,
       "name": "Broken",
       "url": "https://open.spotify.com/track/2EfEa3TJlpPUX9pY95KQxI"
+    },
+    {
+      "added_at": "2024-02-03 03:32:22",
+      "album": {
+        "name": "Coffee & Cherries",
+        "url": "https://open.spotify.com/album/4kPbI0DiBzMrGeFJMrlPAu"
+      },
+      "artists": [
+        {
+          "name": "Kylie Odetta",
+          "url": "https://open.spotify.com/artist/2meUQKRm9yos5hbsWl9TRq"
+        }
+      ],
+      "duration_ms": 141290,
+      "name": "Coffee & Cherries",
+      "url": "https://open.spotify.com/track/7gucyUOtnBppG9Kdx452ya"
     },
     {
       "added_at": "2024-02-03 03:32:22",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-02-03 03:32:22",
       "album": {
-        "name": "love in the summer",
-        "url": "https://open.spotify.com/album/6C2PK15p8aTeJEEDQHrBM3"
-      },
-      "artists": [
-        {
-          "name": "Ben Lawrence",
-          "url": "https://open.spotify.com/artist/4hwbEkmTTgBuc7sYVKA5PN"
-        }
-      ],
-      "duration_ms": 145263,
-      "name": "love in the summer",
-      "url": "https://open.spotify.com/track/3lYrsTLgTx81qvNgxmGXYW"
-    },
-    {
-      "added_at": "2024-02-03 03:32:22",
-      "album": {
         "name": "The After",
         "url": "https://open.spotify.com/album/37UvijJdXfvXKiIAe6GZBS"
       },
@@ -1099,22 +1083,18 @@
     {
       "added_at": "2024-02-03 03:32:22",
       "album": {
-        "name": "Love You, Still",
-        "url": "https://open.spotify.com/album/5fYsh7JcLm4oIA5N5dkG1f"
+        "name": "love in the summer",
+        "url": "https://open.spotify.com/album/6C2PK15p8aTeJEEDQHrBM3"
       },
       "artists": [
         {
-          "name": "Andrew Osenga",
-          "url": "https://open.spotify.com/artist/1lJC5MbTUW5ld4yXzNB0H4"
-        },
-        {
-          "name": "Taylor Leonhardt",
-          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
+          "name": "Ben Lawrence",
+          "url": "https://open.spotify.com/artist/4hwbEkmTTgBuc7sYVKA5PN"
         }
       ],
-      "duration_ms": 307000,
-      "name": "Love You, Still",
-      "url": "https://open.spotify.com/track/7hsWnD0nwuMp9hRACCtdm8"
+      "duration_ms": 145263,
+      "name": "love in the summer",
+      "url": "https://open.spotify.com/track/3lYrsTLgTx81qvNgxmGXYW"
     },
     {
       "added_at": "2024-02-03 03:32:22",
@@ -1131,6 +1111,26 @@
       "duration_ms": 128000,
       "name": "Happier",
       "url": "https://open.spotify.com/track/7aUtyTij6lRyNjSAV9liDq"
+    },
+    {
+      "added_at": "2024-02-03 03:32:22",
+      "album": {
+        "name": "Love You, Still",
+        "url": "https://open.spotify.com/album/5fYsh7JcLm4oIA5N5dkG1f"
+      },
+      "artists": [
+        {
+          "name": "Andrew Osenga",
+          "url": "https://open.spotify.com/artist/1lJC5MbTUW5ld4yXzNB0H4"
+        },
+        {
+          "name": "Taylor Leonhardt",
+          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
+        }
+      ],
+      "duration_ms": 307000,
+      "name": "Love You, Still",
+      "url": "https://open.spotify.com/track/7hsWnD0nwuMp9hRACCtdm8"
     },
     {
       "added_at": "2024-02-03 03:32:22",
@@ -1399,26 +1399,6 @@
     {
       "added_at": "2024-02-03 03:32:22",
       "album": {
-        "name": "Somebody",
-        "url": "https://open.spotify.com/album/1FRvaZuaDcgvdwzYhsWiqh"
-      },
-      "artists": [
-        {
-          "name": "Luke Alexander",
-          "url": "https://open.spotify.com/artist/0aIaLxspYFrwb1GD3nOWY4"
-        },
-        {
-          "name": "Gabby Callwood",
-          "url": "https://open.spotify.com/artist/7uggI2dtxS9l9fSUPp9ebG"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Somebody",
-      "url": "https://open.spotify.com/track/37lNRW3CLtw08GcBtIlvoJ"
-    },
-    {
-      "added_at": "2024-02-03 03:32:22",
-      "album": {
         "name": "Just Like That",
         "url": "https://open.spotify.com/album/54lXnnA9VeI9hBd0NSmRGN"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 206819,
       "name": "Just Like That",
       "url": "https://open.spotify.com/track/1te4ZBKhvm1lq5wL0vecWt"
+    },
+    {
+      "added_at": "2024-02-03 03:32:22",
+      "album": {
+        "name": "Somebody",
+        "url": "https://open.spotify.com/album/1FRvaZuaDcgvdwzYhsWiqh"
+      },
+      "artists": [
+        {
+          "name": "Luke Alexander",
+          "url": "https://open.spotify.com/artist/0aIaLxspYFrwb1GD3nOWY4"
+        },
+        {
+          "name": "Gabby Callwood",
+          "url": "https://open.spotify.com/artist/7uggI2dtxS9l9fSUPp9ebG"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/37lNRW3CLtw08GcBtIlvoJ"
     },
     {
       "added_at": "2024-02-03 03:32:22",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-02-03 03:32:22",
       "album": {
-        "name": "Love Parables",
-        "url": "https://open.spotify.com/album/4SKqQVUdD8GGRDrQbz7Ls4"
-      },
-      "artists": [
-        {
-          "name": "Ilish",
-          "url": "https://open.spotify.com/artist/0k9MEyUMyo7Tx0F1C1cnCi"
-        }
-      ],
-      "duration_ms": 164831,
-      "name": "That's On You",
-      "url": "https://open.spotify.com/track/1JLDxMUQB6RRh7KtMkkF0f"
-    },
-    {
-      "added_at": "2024-02-03 03:32:22",
-      "album": {
         "name": "BOY",
         "url": "https://open.spotify.com/album/3PNldCPGN8Bbds6vaJUYLJ"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 182015,
       "name": "BOY",
       "url": "https://open.spotify.com/track/7iGrKpj5zy19UO9df2Jeg2"
+    },
+    {
+      "added_at": "2024-02-03 03:32:22",
+      "album": {
+        "name": "Love Parables",
+        "url": "https://open.spotify.com/album/4SKqQVUdD8GGRDrQbz7Ls4"
+      },
+      "artists": [
+        {
+          "name": "Ilish",
+          "url": "https://open.spotify.com/artist/0k9MEyUMyo7Tx0F1C1cnCi"
+        }
+      ],
+      "duration_ms": 164831,
+      "name": "That's On You",
+      "url": "https://open.spotify.com/track/1JLDxMUQB6RRh7KtMkkF0f"
     },
     {
       "added_at": "2024-02-03 03:32:22",

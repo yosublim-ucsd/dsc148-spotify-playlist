@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 305613,
+  "2024-04-28": 305657,
   "date_first_scraped": "2021-12-21",
   "description": "The best new music from the wide world of punk. Cover: Lambrini Girls ",
   "name": "All New Punk",
@@ -3619,6 +3619,24 @@
       "duration_ms": 166905,
       "name": "BODY BAG (ft. Point North)",
       "url": "https://open.spotify.com/track/33b6fmGeYvskkyh54ySRfZ"
+    },
+    {
+      "album": {
+        "name": "God's Country / Body of Mine",
+        "url": "https://open.spotify.com/album/630TvkzIGIJtmfd04Li7Ql"
+      },
+      "artists": [
+        {
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131161,
+      "name": "Body of Mine",
+      "url": "https://open.spotify.com/track/18DJZuLkgGwKtSDeOMrUsB"
     },
     {
       "album": {
@@ -11199,7 +11217,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 135541,
       "name": "God's Country",
       "url": "https://open.spotify.com/track/4UccUaOQ6lU7kAffOVgz1d"

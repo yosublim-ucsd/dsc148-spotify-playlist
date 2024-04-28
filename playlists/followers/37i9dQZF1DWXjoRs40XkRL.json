@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 63979,
+  "2024-04-28": 63997,
   "date_first_scraped": "2022-05-30",
   "description": "Unwind to the best Indian classical sounds out there.",
   "name": "Raga Lounge",
@@ -431,7 +431,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 254123,
       "name": "Baadal",
       "url": "https://open.spotify.com/track/4NliS6MtHE2VJC3Pu495nv"
@@ -3261,6 +3261,24 @@
       "duration_ms": 124000,
       "name": "More Sajan",
       "url": "https://open.spotify.com/track/4ebzARJSxxzlvR7O5vtJ3S"
+    },
+    {
+      "album": {
+        "name": "Na Jaa Re",
+        "url": "https://open.spotify.com/album/0i90Y3Ta2l0BvOUTucXvyh"
+      },
+      "artists": [
+        {
+          "name": "Omkar Bhat",
+          "url": "https://open.spotify.com/artist/2UXkOhxWQ7Nu9BYgP3ZsiN"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144641,
+      "name": "Na Jaa Re",
+      "url": "https://open.spotify.com/track/2jeoBarLHPGSvGzywjhkkH"
     },
     {
       "album": {

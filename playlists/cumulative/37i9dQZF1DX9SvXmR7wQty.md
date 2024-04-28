@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Les Cowboys Fringants
 
-2,480 songs - 5 day 12 hr 36 min
+2,481 songs - 5 day 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -525,7 +525,7 @@
 | [Dans l'bon vieux temps](https://open.spotify.com/track/47ziVutbYvEpbNr2uJj27v) | [Ben Claveau](https://open.spotify.com/artist/67R1we2Xuxf4fwUewcFQwq) | [La route est longue jusqu'au top](https://open.spotify.com/album/6MC5y0S4KXafxGhM2Bk2Mm) | 2:51 | 2022-04-15 | 2022-04-23 |
 | [Dans l'espace](https://open.spotify.com/track/4f4EHBSbSB4sOQ3JtTewXk) | [Menura](https://open.spotify.com/artist/2JjA9sCrPDgdweBVtimwzp) | [Dans l'espace](https://open.spotify.com/album/3qWXJlSwkXanhoPwBXdtcN) | 2:44 | 2022-04-08 | 2022-04-16 |
 | [Dans l'sang](https://open.spotify.com/track/4ZjKF8kfJ54qtEPilgOsFQ) | [Taktika](https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3), [Connaisseur Ticaso](https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o) | [Dans l'sang](https://open.spotify.com/album/7pN2Cid4yCMJBN5ZmPNkYU) | 4:13 | 2021-12-31 | 2022-01-22 |
-| [Dans la Benz](https://open.spotify.com/track/6rRtJ83Uz0DZR7wac4uSb6) | [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua) | [Dans la Benz](https://open.spotify.com/album/71I2Lj0MNjzJwL6SZA2jkm) | 3:59 | 2024-04-26 |  |
+| [Dans la Benz](https://open.spotify.com/track/6rRtJ83Uz0DZR7wac4uSb6) | [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua) | [Dans la Benz](https://open.spotify.com/album/71I2Lj0MNjzJwL6SZA2jkm) | 3:59 | 2024-04-26 | 2024-04-28 |
 | [Dans La Lune](https://open.spotify.com/track/4XKcEw3SVW9ijZXPjHxeiv) | [Mignon Bandit](https://open.spotify.com/artist/4iTJIo5yTKFlkHulNB6zUV), [Alexani](https://open.spotify.com/artist/26uDSLm23rKfEoR9TDaUrc), [BG CŒUR](https://open.spotify.com/artist/7j8iMg1W2sPAIrwaqk9ncR) | [KEVIN](https://open.spotify.com/album/5tdZnvNdkw8yHPVhyorPLl) | 3:36 | 2022-05-13 | 2022-05-20 |
 | [Dans la moyenne](https://open.spotify.com/track/5sZcLGRDMSyQK1nR7ykDQN) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Dans la moyenne](https://open.spotify.com/album/4oyzQzOXkQ4F7OISRrjoWn) | 2:38 | 2023-08-25 | 2023-10-14 |
 | [DANS LA WAVE](https://open.spotify.com/track/1xZZ6M31dihpvJeQa5148M) | [DVinyle](https://open.spotify.com/artist/5ozjuk4ZNYQ5OMv4SmnkyA), [SAULE](https://open.spotify.com/artist/49MYInJAJqPwuH2jdHVYVc) | [DANS LA WAVE](https://open.spotify.com/album/2tCPFsp8rVHoCek3BgsASg) | 3:28 | 2022-07-29 | 2022-08-27 |
@@ -2047,6 +2047,7 @@
 | [Shatta \(feat\. Ghost Killer Track\)](https://open.spotify.com/track/2CrMndt2MVGC0ZrBV1J0jv) | [Gambino La MG](https://open.spotify.com/artist/2xdTZfuOFh2ylOnnTEs5sg), [Ghost Killer Track](https://open.spotify.com/artist/37S0GFsBW73uqxGXNFeADJ) | [Après Gambinerie](https://open.spotify.com/album/7eEGUogVe7Et5HU0NPqPtF) | 2:05 | 2023-09-08 | 2023-10-07 |
 | [Shavkat](https://open.spotify.com/track/1A3eBtA4ath65H7PFySd6l) | [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [Shavkat](https://open.spotify.com/album/1CYQrHXkE52a8tlhiqUR1x) | 3:39 | 2023-07-28 | 2023-09-23 |
 | [Shawty](https://open.spotify.com/track/3CUL5WU1HGJKQmX2QpGi7x) | [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj), [Young Paris](https://open.spotify.com/artist/44DhAhLWsSFvSqVXDUruVE) | [Shawty](https://open.spotify.com/album/6wUSxMbKzYcp4miD7eQNe6) | 3:26 | 2022-08-12 | 2022-08-27 |
+| [SHE LIT](https://open.spotify.com/track/7g4NTzoHSGNfh41u5kNQW6) | [J9ueve](https://open.spotify.com/artist/4fj5OWrMmlCbrc3PocAcl1), [Green Montana](https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2) | [SHE LIT](https://open.spotify.com/album/3IYFhRvpsnXg2K7m5Jkf7B) | 2:17 | 2024-04-26 |  |
 | [Shirley Temple](https://open.spotify.com/track/0FA6d3PTjv6R9V4AhQEU6K) | [Vendou](https://open.spotify.com/artist/4Eh9gm2q4XSbk8YXLoEUjG) | [NEXUS](https://open.spotify.com/album/7DjjUxRUmeQKjyhfPd6tLO) | 2:36 | 2023-10-13 | 2023-10-21 |
 | [Shoegaze](https://open.spotify.com/track/4HnwC68UiMaX7hRZwAow5d) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Shoegaze](https://open.spotify.com/album/22JJoxp8HZSE0KNKRDLpBG) | 3:22 | 2022-04-08 | 2022-04-23 |
 | [shoot](https://open.spotify.com/track/3YezPHKA3W9qk4fISAuLul) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [shoot](https://open.spotify.com/album/5CVphjoNSHUR7YRGrGk6zE) | 3:19 | 2023-03-24 | 2023-04-22 |

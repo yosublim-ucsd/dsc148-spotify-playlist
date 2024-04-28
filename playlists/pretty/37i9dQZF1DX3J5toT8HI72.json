@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 pros apaixonados",
-  "num_followers": 767359,
+  "num_followers": 767208,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-04-26 14:58:45",
       "album": {
-        "name": "Musica para Churrasco, Vol. 2",
-        "url": "https://open.spotify.com/album/0uyJYHNFzapFWD6nZvFBZ3"
-      },
-      "artists": [
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        }
-      ],
-      "duration_ms": 267413,
-      "name": "Felicidade",
-      "url": "https://open.spotify.com/track/2bDc2CMq7MMAURwnMJverx"
-    },
-    {
-      "added_at": "2024-04-26 14:58:45",
-      "album": {
         "name": "Feito Pra Acabar",
         "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 268640,
       "name": "Pra Sonhar",
       "url": "https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe"
+    },
+    {
+      "added_at": "2024-04-26 14:58:45",
+      "album": {
+        "name": "Musica para Churrasco, Vol. 2",
+        "url": "https://open.spotify.com/album/0uyJYHNFzapFWD6nZvFBZ3"
+      },
+      "artists": [
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        }
+      ],
+      "duration_ms": 267413,
+      "name": "Felicidade",
+      "url": "https://open.spotify.com/track/2bDc2CMq7MMAURwnMJverx"
     },
     {
       "added_at": "2024-04-26 14:58:45",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-04-26 14:58:45",
       "album": {
-        "name": "Verdade (Ao Vivo / Deluxe)",
-        "url": "https://open.spotify.com/album/1cZdFWvvyAKXlUDAZNMs1c"
-      },
-      "artists": [
-        {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
-        }
-      ],
-      "duration_ms": 191254,
-      "name": "Potinho - Ao Vivo",
-      "url": "https://open.spotify.com/track/65Hf3gwW25JLOxqxJv6BjC"
-    },
-    {
-      "added_at": "2024-04-26 14:58:45",
-      "album": {
         "name": "Pedra Preciosa",
         "url": "https://open.spotify.com/album/1dGKlrAidKqbr2UQswAFeY"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 204586,
       "name": "Pedra Preciosa",
       "url": "https://open.spotify.com/track/3c6Me0aOTbvv9eDiQGKirx"
+    },
+    {
+      "added_at": "2024-04-26 14:58:45",
+      "album": {
+        "name": "Verdade (Ao Vivo / Deluxe)",
+        "url": "https://open.spotify.com/album/1cZdFWvvyAKXlUDAZNMs1c"
+      },
+      "artists": [
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "duration_ms": 191254,
+      "name": "Potinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/65Hf3gwW25JLOxqxJv6BjC"
     },
     {
       "added_at": "2024-04-26 14:58:45",
@@ -1379,6 +1379,26 @@
     {
       "added_at": "2024-04-26 14:58:45",
       "album": {
+        "name": "ME PERCO",
+        "url": "https://open.spotify.com/album/53KGBkfWHJumvJVSt7DT1H"
+      },
+      "artists": [
+        {
+          "name": "uma P\u00f3voas",
+          "url": "https://open.spotify.com/artist/1fP1a8QtAWodK9wm1fIBmx"
+        },
+        {
+          "name": "Filipe Freire",
+          "url": "https://open.spotify.com/artist/4Asuo4mtyUcQrrgjvnLt2X"
+        }
+      ],
+      "duration_ms": 200318,
+      "name": "ME PERCO",
+      "url": "https://open.spotify.com/track/5DYOxJzVYTUmKNTz6xiA7c"
+    },
+    {
+      "added_at": "2024-04-26 14:58:45",
+      "album": {
         "name": "Esc\u00e2ndalo \u00cdntimo",
         "url": "https://open.spotify.com/album/5MGR1iBTBfsb28mHFSM5KV"
       },
@@ -1463,6 +1483,22 @@
     {
       "added_at": "2024-04-26 14:58:45",
       "album": {
+        "name": "Anel de Coco Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1F3sVbUnq8vA3IR4154jI8"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 182768,
+      "name": "Anel de Coco - Ac\u00fastico | Ao Vivo",
+      "url": "https://open.spotify.com/track/7LuLv35fgBvI0FkzxT9r3l"
+    },
+    {
+      "added_at": "2024-04-26 14:58:45",
+      "album": {
         "name": "O Amor \u00c9 o Segredo",
         "url": "https://open.spotify.com/album/4eNNKJ6eAOPqh79idWLPyR"
       },
@@ -1479,18 +1515,18 @@
     {
       "added_at": "2024-04-26 14:58:45",
       "album": {
-        "name": "Anel de Coco Ac\u00fastico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1F3sVbUnq8vA3IR4154jI8"
+        "name": "Pearl",
+        "url": "https://open.spotify.com/album/25fli8PlxpP10WpirvDpMT"
       },
       "artists": [
         {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
         }
       ],
-      "duration_ms": 182768,
-      "name": "Anel de Coco - Ac\u00fastico | Ao Vivo",
-      "url": "https://open.spotify.com/track/7LuLv35fgBvI0FkzxT9r3l"
+      "duration_ms": 394706,
+      "name": "Quando Bate Aquela Saudade",
+      "url": "https://open.spotify.com/track/76bcaYeKOKTrj9lEc9BZFU"
     },
     {
       "added_at": "2024-04-26 14:58:45",
@@ -1559,22 +1595,6 @@
     {
       "added_at": "2024-04-26 14:58:45",
       "album": {
-        "name": "Pearl",
-        "url": "https://open.spotify.com/album/25fli8PlxpP10WpirvDpMT"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        }
-      ],
-      "duration_ms": 394706,
-      "name": "Quando Bate Aquela Saudade",
-      "url": "https://open.spotify.com/track/76bcaYeKOKTrj9lEc9BZFU"
-    },
-    {
-      "added_at": "2024-04-26 14:58:45",
-      "album": {
         "name": "Ouro",
         "url": "https://open.spotify.com/album/3crtjM7DJVNSvXfn2v65Lq"
       },
@@ -1591,22 +1611,6 @@
     {
       "added_at": "2024-04-26 14:58:45",
       "album": {
-        "name": "ANAVIT\u00d3RIA",
-        "url": "https://open.spotify.com/album/1ENOliEGEgAf5DIupazP9t"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 206108,
-      "name": "Singular",
-      "url": "https://open.spotify.com/track/3eGK0WFi6ISJ9UZA6Za4HX"
-    },
-    {
-      "added_at": "2024-04-26 14:58:45",
-      "album": {
         "name": "A Arte De Cazuza",
         "url": "https://open.spotify.com/album/1D4lMnP5npjJzw9GRtQMJi"
       },
@@ -1619,6 +1623,22 @@
       "duration_ms": 186400,
       "name": "Minha Flor Meu Beb\u00ea",
       "url": "https://open.spotify.com/track/3VLOFtKRjgGTpfqjbiK4wi"
+    },
+    {
+      "added_at": "2024-04-26 14:58:45",
+      "album": {
+        "name": "ANAVIT\u00d3RIA",
+        "url": "https://open.spotify.com/album/1ENOliEGEgAf5DIupazP9t"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 206108,
+      "name": "Singular",
+      "url": "https://open.spotify.com/track/3eGK0WFi6ISJ9UZA6Za4HX"
     },
     {
       "added_at": "2024-04-26 14:58:45",
@@ -1651,26 +1671,6 @@
       "duration_ms": 299333,
       "name": "Voce E Linda",
       "url": "https://open.spotify.com/track/23ztZ0wgb5cNLZsziJWoRB"
-    },
-    {
-      "added_at": "2024-04-26 14:58:45",
-      "album": {
-        "name": "ME PERCO",
-        "url": "https://open.spotify.com/album/53KGBkfWHJumvJVSt7DT1H"
-      },
-      "artists": [
-        {
-          "name": "uma P\u00f3voas",
-          "url": "https://open.spotify.com/artist/1fP1a8QtAWodK9wm1fIBmx"
-        },
-        {
-          "name": "Filipe Freire",
-          "url": "https://open.spotify.com/artist/4Asuo4mtyUcQrrgjvnLt2X"
-        }
-      ],
-      "duration_ms": 200318,
-      "name": "ME PERCO",
-      "url": "https://open.spotify.com/track/5DYOxJzVYTUmKNTz6xiA7c"
     },
     {
       "added_at": "2024-04-26 14:58:45",

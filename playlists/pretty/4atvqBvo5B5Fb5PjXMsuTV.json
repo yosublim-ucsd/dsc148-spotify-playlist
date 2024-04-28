@@ -1,13 +1,117 @@
 {
   "description": "Updated daily, with the latest popular singles!",
   "num_followers": 77,
-  "original_name": "NEW SINGLES RELEASES | UPDATED 27 APR",
+  "original_name": "NEW SINGLES RELEASES | UPDATED 28 APR",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "MjA0NywyYzE4NjI5NmQ4MzU3ZmQyMzAzMTU3NWIyOWM5YjY4NTNmY2Y0NTEy",
+  "snapshot_id": "MjA1Miw1NjQwNTBmZjljNjEzNDRmN2MzYmVlMmE2M2QyOWU0ZGJlOTMyZDE5",
   "tracks": [
+    {
+      "added_at": "2024-04-27 22:01:57",
+      "album": {
+        "name": "end game",
+        "url": "https://open.spotify.com/album/28Al1lPpcToVKiM8EnNuXz"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 146413,
+      "name": "end game",
+      "url": "https://open.spotify.com/track/3YyyTcNUwJU4fS01fppkkZ"
+    },
+    {
+      "added_at": "2024-04-27 22:01:57",
+      "album": {
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/1Knz3H6xezJxY2rBGMzAQE"
+      },
+      "artists": [
+        {
+          "name": "Nerissa Ravencroft",
+          "url": "https://open.spotify.com/artist/4uzAnzFMXarRPOBAG2lIIa"
+        }
+      ],
+      "duration_ms": 192017,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/5whKZymIO7PDqWxo1uhMWP"
+    },
+    {
+      "added_at": "2024-04-27 10:01:58",
+      "album": {
+        "name": "XEREQUINHA VAI",
+        "url": "https://open.spotify.com/album/6Ar2KvPCgOWaDBYcMDFlS6"
+      },
+      "artists": [
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "duration_ms": 125435,
+      "name": "XEREQUINHA VAI",
+      "url": "https://open.spotify.com/track/3LXo7UHdMWd6B76nelhTiH"
+    },
+    {
+      "added_at": "2024-04-27 10:01:58",
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/6vHA1k10xssz56inCFbT58"
+      },
+      "artists": [
+        {
+          "name": "Chenayder",
+          "url": "https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y"
+        },
+        {
+          "name": "MAVI",
+          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/49aBr2lBFh0LkR84IbsIQz"
+    },
+    {
+      "added_at": "2024-04-27 10:01:58",
+      "album": {
+        "name": "Sour Candy (Reimagined)",
+        "url": "https://open.spotify.com/album/219WaxPYiuWmoqu6kz0xa5"
+      },
+      "artists": [
+        {
+          "name": "Melt",
+          "url": "https://open.spotify.com/artist/0G7KI9I5BApiXc5Sqpyil9"
+        },
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        }
+      ],
+      "duration_ms": 227736,
+      "name": "Sour Candy (Reimagined)",
+      "url": "https://open.spotify.com/track/1NJIt2Ma1YxoTQkxmWjRRg"
+    },
+    {
+      "added_at": "2024-04-27 10:01:58",
+      "album": {
+        "name": "241!",
+        "url": "https://open.spotify.com/album/2H6Ntup5IrvU1gvMcXBFJv"
+      },
+      "artists": [
+        {
+          "name": "ISSBROKIE",
+          "url": "https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI"
+        }
+      ],
+      "duration_ms": 108760,
+      "name": "241!",
+      "url": "https://open.spotify.com/track/0KiJviv4Is9dwE1t6Gf8VM"
+    },
     {
       "added_at": "2024-04-26 22:02:22",
       "album": {
@@ -379,104 +483,8 @@
       "duration_ms": 261519,
       "name": "I Was Made For Lovin\u2019 You - from The Fall Guy",
       "url": "https://open.spotify.com/track/55ikcenXPbQdzCnO1sOuYg"
-    },
-    {
-      "added_at": "2024-04-26 10:03:05",
-      "album": {
-        "name": "Bleeders",
-        "url": "https://open.spotify.com/album/3U2tS7mIbIbj3Vg7lREEOc"
-      },
-      "artists": [
-        {
-          "name": "Black Veil Brides",
-          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
-        }
-      ],
-      "duration_ms": 274320,
-      "name": "Bleeders",
-      "url": "https://open.spotify.com/track/3KprCokhFBVLLGyQVu5XaN"
-    },
-    {
-      "added_at": "2024-04-26 10:03:05",
-      "album": {
-        "name": "Love Me JeJe",
-        "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 178041,
-      "name": "Love Me JeJe",
-      "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
-    },
-    {
-      "added_at": "2024-04-26 10:03:05",
-      "album": {
-        "name": "Burj Khalifa",
-        "url": "https://open.spotify.com/album/26heFnuWNaGoVT1pZ3Tw9v"
-      },
-      "artists": [
-        {
-          "name": "Bushido",
-          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
-        }
-      ],
-      "duration_ms": 185492,
-      "name": "Burj Khalifa",
-      "url": "https://open.spotify.com/track/49Ycoi7GZLEciqnmhtge14"
-    },
-    {
-      "added_at": "2024-04-26 10:03:05",
-      "album": {
-        "name": "Can't Come Back",
-        "url": "https://open.spotify.com/album/1s4XNQH7ueLnRD1egC4d2p"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 154960,
-      "name": "Can't Come Back",
-      "url": "https://open.spotify.com/track/6s4C2WNpnL1YwGaiJl2x3i"
-    },
-    {
-      "added_at": "2024-04-26 10:03:05",
-      "album": {
-        "name": "rentrer chez moi",
-        "url": "https://open.spotify.com/album/3d8yIiEx11x64VMAbpoQcU"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        }
-      ],
-      "duration_ms": 219773,
-      "name": "rentrer chez moi",
-      "url": "https://open.spotify.com/track/4lu4t2NkQ8APnm0GwL8Gbl"
-    },
-    {
-      "added_at": "2024-04-26 10:03:05",
-      "album": {
-        "name": "Dancing Like We're Dead",
-        "url": "https://open.spotify.com/album/6DbTcYu5z5aDBxg8s1RcuU"
-      },
-      "artists": [
-        {
-          "name": "Powerman 5000",
-          "url": "https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC"
-        }
-      ],
-      "duration_ms": 208908,
-      "name": "Dancing Like We're Dead",
-      "url": "https://open.spotify.com/track/11YpnhigOWUg76fppBhgcA"
     }
   ],
-  "unique_name": "NEW SINGLES RELEASES | UPDATED 27 APR",
+  "unique_name": "NEW SINGLES RELEASES | UPDATED 28 APR",
   "url": "https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV"
 }

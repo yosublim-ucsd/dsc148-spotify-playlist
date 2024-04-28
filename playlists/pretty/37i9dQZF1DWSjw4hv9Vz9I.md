@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjw4hv9Vz9I.md) - [plain]
 
 > A neo\-classic sound for the road\. Cover: Thee Sacred Souls
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,751 likes - 120 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,797 likes - 120 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjw4hv9Vz9I.md) - [plain]
 | 47 | [Happy Days](https://open.spotify.com/track/0XXgkLA2n6wpTlMG3V3VDm) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [The Funk Apostles](https://open.spotify.com/artist/4ICnj5CaliESpsWrhYjBrD) | [Something to Say](https://open.spotify.com/album/3Hz4JSR7mxab24T8K8jQOx) | 3:52 |
 | 48 | [Feeling Alive](https://open.spotify.com/track/3WUiiqaOUI1K6ttDLS2dJ1) | [Earl St\. Clair](https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5) | [My Name Is Earl](https://open.spotify.com/album/4ZFj9ZGycCJdFCeZrFyOlz) | 3:11 |
 | 49 | [Woman \(Single Edit\)](https://open.spotify.com/track/3tW5b01kiWfMJKQWddwPNl) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Woman](https://open.spotify.com/album/5EDZmK0jbWRF7OmgilvMZ8) | 3:02 |
-| 50 | [Tell Me You Want Me](https://open.spotify.com/track/7zbKHWBsTWNXxfnbXspD14) | [J + the Bishops](https://open.spotify.com/artist/3X03z6e5Be1XeWxSMwCfFI) | [Tell Me You Want Me](https://open.spotify.com/album/1aatsTnusZbPtOW3LLMQ1I) | 3:36 |
-| 51 | [If You Don't Want My Love](https://open.spotify.com/track/3fPBXNuHlH4N3hmiEzK5y0) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [If You Don't Want My Love](https://open.spotify.com/album/1hgaSQNHek8k8M16BlDxS6) | 2:26 |
+| 50 | [If You Don't Want My Love](https://open.spotify.com/track/3fPBXNuHlH4N3hmiEzK5y0) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [If You Don't Want My Love](https://open.spotify.com/album/1hgaSQNHek8k8M16BlDxS6) | 2:26 |
+| 51 | [Tell Me You Want Me](https://open.spotify.com/track/7zbKHWBsTWNXxfnbXspD14) | [J + the Bishops](https://open.spotify.com/artist/3X03z6e5Be1XeWxSMwCfFI) | [Tell Me You Want Me](https://open.spotify.com/album/1aatsTnusZbPtOW3LLMQ1I) | 3:36 |
 | 52 | [Cards](https://open.spotify.com/track/5QZdS4lYhW27Y8RJGSdPfV) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Underneath the Surface](https://open.spotify.com/album/6rIB87G63Jsdvg67vbHm35) | 4:14 |
 | 53 | [Through It All](https://open.spotify.com/track/65vtwc4JSGhKZJTV0Nhs3W) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:24 |
 | 54 | [Fighting for Peace](https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Fighting for Peace](https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos) | 3:22 |
@@ -99,13 +99,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjw4hv9Vz9I.md) - [plain]
 | 89 | [The Thief](https://open.spotify.com/track/0ROXERrNsGt3O3mXFgjOK2) | [Motenko](https://open.spotify.com/artist/6GiZj3j9eJreWT3gDJXZWP) | [Motenko](https://open.spotify.com/album/5ELfBcQ6SDwwH7HuPi8evQ) | 4:36 |
 | 90 | [Keep It](https://open.spotify.com/track/4b5OFU4bzExRpplFzrcecp) | [Jed Harrelson](https://open.spotify.com/artist/1IlnvMYgqD8dh3UhWUPtaq) | [Keep It](https://open.spotify.com/album/0O3IkqB0eQURepcepwjI8g) | 3:35 |
 | 91 | [Tell Me Something](https://open.spotify.com/track/5KxO8FockGFq9A9qJqGboV) | [Tanika Charles](https://open.spotify.com/artist/0BYgmolIl2cU1K2XZa7N7I) | [The Gumption](https://open.spotify.com/album/7GuUikcFr7yABSMwse3beG) | 3:04 |
-| 92 | [Girl from the Valley](https://open.spotify.com/track/38zNWMi1YRsvaVq3RuZcyV) | [Micah Edwards](https://open.spotify.com/artist/75OSuJw6r1LCdYgmTt0gHs) | [Girl from the Valley](https://open.spotify.com/album/6EkMFFcKDXwkXQSItCxRTW) | 3:20 |
-| 93 | [’62 Chevy](https://open.spotify.com/track/4M9P0IpYx9kZmo07CcwVNT) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Good To Be...](https://open.spotify.com/album/0wcbmTdkb0bUmKvRQkG25S) | 3:28 |
+| 92 | [’62 Chevy](https://open.spotify.com/track/4M9P0IpYx9kZmo07CcwVNT) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Good To Be...](https://open.spotify.com/album/0wcbmTdkb0bUmKvRQkG25S) | 3:28 |
+| 93 | [Girl from the Valley](https://open.spotify.com/track/38zNWMi1YRsvaVq3RuZcyV) | [Micah Edwards](https://open.spotify.com/artist/75OSuJw6r1LCdYgmTt0gHs) | [Girl from the Valley](https://open.spotify.com/album/6EkMFFcKDXwkXQSItCxRTW) | 3:20 |
 | 94 | [I Need a Win](https://open.spotify.com/track/2QF4b6mH7o8oBj3ky1IuCX) | [Mamas Gun](https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI) | [Golden Days](https://open.spotify.com/album/5LuNtoT969MSX9o07N1sDO) | 4:40 |
 | 95 | [Talk Is Cheap](https://open.spotify.com/track/6OpAPX8HowQw4E7DMwOyjR) | [Kyle Thornton & The Company](https://open.spotify.com/artist/4mGPVJbOURnByVYcaQZa2J) | [WNDR](https://open.spotify.com/album/5cJy3jYcwzcgv0Zlnpshn8) | 3:59 |
 | 96 | [Hold Tight](https://open.spotify.com/track/3tI6A09R5PtvFpKxQUJSCS) | [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [Brand New](https://open.spotify.com/album/2WEJUbzOB4lcnPmbC5JvzZ) | 3:51 |
-| 97 | [Nobody Sweeter](https://open.spotify.com/track/2f6gJU89sk9FT1ESUpxPG4) | [Grace Love and the True Loves](https://open.spotify.com/artist/2mhd8TVpexvBY0tVkiRiXB) | [Grace Love and the True Loves](https://open.spotify.com/album/30LpiaV6x2Jv89Y2pQrFaK) | 3:03 |
-| 98 | [You Better Believe It](https://open.spotify.com/track/7BoIAhe5LAH6gn173aDkX1) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [The Bomb Shelter Sessions](https://open.spotify.com/album/3OfyDcQy6XHkxMMGLrSJHT) | 4:10 |
+| 97 | [You Better Believe It](https://open.spotify.com/track/7BoIAhe5LAH6gn173aDkX1) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [The Bomb Shelter Sessions](https://open.spotify.com/album/3OfyDcQy6XHkxMMGLrSJHT) | 4:10 |
+| 98 | [Nobody Sweeter](https://open.spotify.com/track/2f6gJU89sk9FT1ESUpxPG4) | [Grace Love and the True Loves](https://open.spotify.com/artist/2mhd8TVpexvBY0tVkiRiXB) | [Grace Love and the True Loves](https://open.spotify.com/album/30LpiaV6x2Jv89Y2pQrFaK) | 3:03 |
 | 99 | [More Than a Mouthful](https://open.spotify.com/track/22bUiLt8O6xEDOHhAlGdHx) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj), [Kylie Auldist](https://open.spotify.com/artist/3CSpwE5QPsrPT9KgtG3BF4) | [Lab Experiments: Mixin', Vol\. 1](https://open.spotify.com/album/2h2iphntUcygEron30gWwe) | 4:00 |
 | 100 | [Stay Right Here](https://open.spotify.com/track/0jQTagUb62PG7IcaFdR4s7) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Stay Right Here](https://open.spotify.com/album/5fSnsS6vf9eovM8R3nvKNn) | 4:09 |
 | 101 | [Summer Rain](https://open.spotify.com/track/7eUDlOuxZtPJkEhySb3RUv) | [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [Definitely NOW](https://open.spotify.com/album/2R40qpfi2fRj8eBFuPi6mu) | 3:06 |

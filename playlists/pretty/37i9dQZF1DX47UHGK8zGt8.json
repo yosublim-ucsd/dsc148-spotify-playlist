@@ -1,6 +1,6 @@
 {
   "description": "Aquelas pra come\u00e7ar o dia de alma leve",
-  "num_followers": 542280,
+  "num_followers": 542465,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
@@ -779,26 +779,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Por Que N\u00e3o",
-        "url": "https://open.spotify.com/album/0lxn5ms0KZl2pobc2XKauA"
-      },
-      "artists": [
-        {
-          "name": "Murilo Chester",
-          "url": "https://open.spotify.com/artist/6ByAo7zH3RbuJ04S5zinWU"
-        },
-        {
-          "name": "Rachel Reis",
-          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
-        }
-      ],
-      "duration_ms": 185639,
-      "name": "Por Que N\u00e3o",
-      "url": "https://open.spotify.com/track/4JXUxqykBgeotbc9a8zMYA"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "No Escuro",
         "url": "https://open.spotify.com/album/5cPLhv2TI5JgIX3Gmfq9bI"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 221624,
       "name": "Duas da Tarde",
       "url": "https://open.spotify.com/track/7chMvjylTedOhNEnRQzBYj"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "Por Que N\u00e3o",
+        "url": "https://open.spotify.com/album/0lxn5ms0KZl2pobc2XKauA"
+      },
+      "artists": [
+        {
+          "name": "Murilo Chester",
+          "url": "https://open.spotify.com/artist/6ByAo7zH3RbuJ04S5zinWU"
+        },
+        {
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
+        }
+      ],
+      "duration_ms": 185639,
+      "name": "Por Que N\u00e3o",
+      "url": "https://open.spotify.com/track/4JXUxqykBgeotbc9a8zMYA"
     },
     {
       "added_at": "2024-04-26 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Ascolta a tutto volume queste talentuose artiste italiane! Cover: Angelica
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,786 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,785 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 40 | [Nero D'Avola](https://open.spotify.com/track/5BHE7vXfgPUJ9nJaAxbO0i) | [JUMA](https://open.spotify.com/artist/2QXBb5JFPLbX73cOcI22Kw) | [Nero D'Avola](https://open.spotify.com/album/35WA3Vypal08vEWd2jFdYg) | 2:58 |
 | 41 | [That's Alright](https://open.spotify.com/track/3nPKTxDzuikY4UY5K5r6Ox) | [Scozia](https://open.spotify.com/artist/06kIJSKCJs2NoULdMDwEh9) | [That's Alright](https://open.spotify.com/album/0rJ0IXykkg3mK4cTZ5WkvW) | 2:58 |
 | 42 | [Da quando non ho smesso di amarti](https://open.spotify.com/track/1yZTdcivUH0TZyzqGwUmKh) | [MARTINA](https://open.spotify.com/artist/4HdGvAHeQqqez8NI7PmrWx) | [Da quando non ho smesso di amarti](https://open.spotify.com/album/49AkKgHmJT0kJ50t4fCfwo) | 3:08 |
-| 43 | [MAPPAMONDO](https://open.spotify.com/track/4FYdBhoiUkrAZfkcaPd2sn) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [MAPPAMONDO](https://open.spotify.com/album/3rAzTTDojPhT2uaEyO8Lvf) | 2:47 |
+| 43 | [MAPPAMONDO](https://open.spotify.com/track/4FYdBhoiUkrAZfkcaPd2sn) | [Sarah](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [MAPPAMONDO](https://open.spotify.com/album/3rAzTTDojPhT2uaEyO8Lvf) | 2:47 |
 | 44 | [Fuoritempo ;\(](https://open.spotify.com/track/1dB8nQqCmKufp6dmN4NLqx) | [Rizzo](https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN) | [Fuoritempo ;\(](https://open.spotify.com/album/3VLXLqu8Qi3MaYmg7WR4x3) | 2:28 |
 | 45 | [Centri di anzianità](https://open.spotify.com/track/6PTi9WN9KAcnYpMqVOJPrm) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Centri di anzianità](https://open.spotify.com/album/7GRS8CAqzDmgjNRXkcmm1y) | 3:26 |
 | 46 | [ATTIMO](https://open.spotify.com/track/0KM17GZroJQiZUkQZEUH1I) | [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9) | [ATTIMO](https://open.spotify.com/album/46oN09hGI1JujQaLgv1kbL) | 3:07 |

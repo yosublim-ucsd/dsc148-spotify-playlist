@@ -682,6 +682,6 @@
 | [蜜蜂 \- MITSUBACHI](https://open.spotify.com/track/0OzEj2fkH8Ax9dI7bjHP4l) | [Shurkn Pap](https://open.spotify.com/artist/1LFHjuuofxqkQL8vrJtpFB), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [蜜蜂 \- MITSUBACHI](https://open.spotify.com/album/3W0gGosRWSorZPPgKRd292) | 3:24 | 2023-09-21 | 2023-10-04 |
 | [超Fresh](https://open.spotify.com/track/6Tsdxi0HkSImYREelPrBc8) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Noodle](https://open.spotify.com/album/0Ch7fs2VDUUfOUdy7PXBBS) | 2:52 | 2023-12-06 | 2023-12-07 |
 | [返答](https://open.spotify.com/track/0w7IwkrMz5wPDK8qSzD2ZK) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA), [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY) | [REVENGE](https://open.spotify.com/album/4w98BIOWdMhWPGT2SnHiXQ) | 4:18 | 2023-11-28 | 2023-11-30 |
-| [黄色](https://open.spotify.com/track/7Lew3PsdlHJTsiYxIfkIL7) | [Kay\-on](https://open.spotify.com/artist/2F81r2H2weMXa83CD2VD9H), [R\-指定](https://open.spotify.com/artist/3pxWbsggB2iSNlowHTdkT6) | [黄色](https://open.spotify.com/album/0TfaHWQ8E8hmEuVitvXE43) | 3:12 | 2024-04-25 |  |
+| [黄色](https://open.spotify.com/track/7Lew3PsdlHJTsiYxIfkIL7) | [Kay\-on](https://open.spotify.com/artist/2F81r2H2weMXa83CD2VD9H), [R\-shitei](https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb) | [黄色](https://open.spotify.com/album/0TfaHWQ8E8hmEuVitvXE43) | 3:12 | 2024-04-25 |  |
 
 \*This playlist was first scraped on 2023-09-23. Prior content cannot be recovered.

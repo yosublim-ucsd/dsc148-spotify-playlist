@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: SUPERJAZZCLUB
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,298 likes - 80 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,331 likes - 80 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 26 | [Tempo](https://open.spotify.com/track/5u3DPeOB7igxEaZV6lntlh) | [dndSection](https://open.spotify.com/artist/7mQzdxdxZFsbWLMP3lcZtS) | [Tempo](https://open.spotify.com/album/62idXCwWHEJYlTvBNTnXuE) | 2:49 |
 | 27 | [WASTELINE](https://open.spotify.com/track/6zwNCNnzNfhC5XEhnG9F7Z) | [Fasina](https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [WASTELINE](https://open.spotify.com/album/0VzLyC8Er2QnVwOyGF5ZLX) | 2:44 |
 | 28 | [Abundance](https://open.spotify.com/track/0ZfQ4Oh8K8jbzsojYXpDTv) | [Ayzon](https://open.spotify.com/artist/6ttw8B6m9uBsCjZtIm4NAN), [Ish](https://open.spotify.com/artist/7nNyZMVQQgGf5UVDcJ52yI), [S\. Fidelity](https://open.spotify.com/artist/3XQIlYQsopsDCYMSkf1rEW) | [Part Of The Story](https://open.spotify.com/album/1CwbfgDVoKzpV6OcW4OuXt) | 3:50 |
-| 29 | [Flower](https://open.spotify.com/track/3lNpitDKoysJbHThj9GoKM) | [The Continent\. Live](https://open.spotify.com/artist/3kLjyGr4QxbGCZisf1qfvc), [Vondee](https://open.spotify.com/artist/1uRn6hkZnH984WLeYTSNKR), [Cool Paul](https://open.spotify.com/artist/5s1Xo4HmiGN7i4Fi2rlvlX) | [The Continent Live: First Class Vol\. 1](https://open.spotify.com/album/04XOyfHHNmpBJNmS3p3TrD) | 2:27 |
+| 29 | [Flower](https://open.spotify.com/track/3lNpitDKoysJbHThj9GoKM) | [The Continent\. Live](https://open.spotify.com/artist/3kLjyGr4QxbGCZisf1qfvc), [VONDEE](https://open.spotify.com/artist/1uRn6hkZnH984WLeYTSNKR), [Cool Paul](https://open.spotify.com/artist/5s1Xo4HmiGN7i4Fi2rlvlX) | [The Continent Live: First Class Vol\. 1](https://open.spotify.com/album/04XOyfHHNmpBJNmS3p3TrD) | 2:27 |
 | 30 | [Pretty Girl Bop](https://open.spotify.com/track/0SAsey25lSxwPdAaGkKZqA) | [Aramide](https://open.spotify.com/artist/3MnR60ldjXYo42lHIZEPvo) | [Hear Me Out](https://open.spotify.com/album/32SYdv9QzscXqSV4tQc1qC) | 2:18 |
 | 31 | [Star](https://open.spotify.com/track/0vzIrXgc2Z28t2JDddfOo1) | [Wavy The Creator](https://open.spotify.com/artist/5kr136hLeeKJznp60ieWdC) | [Star](https://open.spotify.com/album/611t57rkpgi1z9kF76QnW0) | 2:18 |
 | 32 | [Lagos 2 Crazy](https://open.spotify.com/track/35VmdxHqYHGMs5zr9815HQ) | [UAX](https://open.spotify.com/artist/5KIcYbv98M0MozhLs5lHnT), [TMXO](https://open.spotify.com/artist/6FKZZfl6Jbfyjd8DPChyCk) | [LOVE & HUSTLE](https://open.spotify.com/album/28UnTAsmLHRV708ogPuL4D) | 2:35 |

@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 31079,
+  "2024-04-28": 31091,
   "date_first_scraped": "2023-05-19",
   "description": "Super Cool Indie Tracks from Gods Own Country\nCover: Pina Colada Blues",
   "name": "Malayalam Indie",
@@ -405,7 +405,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 207604,
       "name": "Be Free",
       "url": "https://open.spotify.com/track/5wfU3eM43UptY57VigdHzh"
@@ -727,6 +727,28 @@
       "duration_ms": 271500,
       "name": "Chiriye Chiriye",
       "url": "https://open.spotify.com/track/3cFiMWOmoBPnv8bCsKj75O"
+    },
+    {
+      "album": {
+        "name": "Cholo Shobe",
+        "url": "https://open.spotify.com/album/1qxtuJfULK55SUCWMDiZY0"
+      },
+      "artists": [
+        {
+          "name": "Benny Dayal",
+          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
+        },
+        {
+          "name": "Charles Nazareth",
+          "url": "https://open.spotify.com/artist/6WwI4tkjZWIS5ZvXa3mkUU"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253277,
+      "name": "Cholo Shobe",
+      "url": "https://open.spotify.com/track/1aAbhV2Uh5moXwQlmB0KJE"
     },
     {
       "album": {

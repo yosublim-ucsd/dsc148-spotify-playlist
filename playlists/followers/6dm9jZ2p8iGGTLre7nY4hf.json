@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 450815,
+  "2024-04-28": 450720,
   "date_first_scraped": "2023-12-14",
   "description": "Break up songs, the best cure for a broken heart!",
   "name": "Breakup Songs \ud83d\udc94",
@@ -1049,6 +1049,24 @@
       "duration_ms": 128626,
       "name": "Cold",
       "url": "https://open.spotify.com/track/1VDUt9m7KJ7lpDfXxJBaNL"
+    },
+    {
+      "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/6dSayYt3E6jPTp66PcXsrI"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170029,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/3yTxDUuueSjhtsK1ea3Lbp"
     },
     {
       "album": {

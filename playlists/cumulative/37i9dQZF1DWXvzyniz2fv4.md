@@ -4,7 +4,7 @@
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-176 songs - 9 hr 35 min
+177 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Doses](https://open.spotify.com/track/6wlLKk88zURUCDZqKwwqFr) | [K.E](https://open.spotify.com/artist/1bxL9qRsUIjE58sHjj9FzI) | [Doses](https://open.spotify.com/album/7iPcwRcW1XYDiElkwZzqEd) | 3:26 | 2021-11-12 |  |
 | [ELA ME TEM](https://open.spotify.com/track/6TcGk4u9blTVO5bOmtOyFa) | [Ikki](https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T) | [ELA ME TEM](https://open.spotify.com/album/6G9FBaWvnwKHkiqXOyC2AN) | 2:27 | 2023-03-24 | 2023-06-24 |
 | [Ela Não Cansa](https://open.spotify.com/track/2lI0swzcw6gQ7hks7o2VLJ) | [Coffee Zk](https://open.spotify.com/artist/1cCEQ1P7hSW7Oktxst0XzK), [Mel](https://open.spotify.com/artist/5a5NeXda5Km8VQLSJQIa94) | [Ela Não Cansa](https://open.spotify.com/album/0IPKdGoYVmf7ZiJR1dme9H) | 2:54 | 2023-02-25 | 2024-04-27 |
+| [Ela É Um Vício](https://open.spotify.com/track/4rn4T3egGnLa8i7TsKaozp) | [Flay](https://open.spotify.com/artist/7aaNhMElpyzTnU2LgccyR3), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [DJ Glenner](https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK) | [Ela É Um Vício](https://open.spotify.com/album/53fQ4HgmJBcrmjxC6z9NYJ) | 2:55 | 2024-04-26 |  |
 | [Equação](https://open.spotify.com/track/6qm6PhLt6mRX53gR9pn0Iy) | [Mun\-Ra](https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Equação](https://open.spotify.com/album/0fzp4jZE1x6qbA4sIeSLCC) | 3:02 | 2021-11-12 |  |
 | [Esse Teu Sorriso](https://open.spotify.com/track/0vNk56sBz28p6Ior2sliTb) | [DOM7NICO](https://open.spotify.com/artist/2oGllwBi30E8506gcLUohv) | [Esse Teu Sorriso](https://open.spotify.com/album/6PVqvFnGpciV0hzLuvIiIN) | 3:09 | 2022-06-17 | 2023-10-14 |
 | [Estrela do Bairro](https://open.spotify.com/track/1QhYZN26nrWchzfbURdaNv) | [Real Ale](https://open.spotify.com/artist/1xhLnO5zKiQGUu4o9xvBzi), [Diego Thug](https://open.spotify.com/artist/4XJyjyOJnsvtZEi5isgKSw), [NoyaNoBeat](https://open.spotify.com/artist/1ZglvfavmB4dk9EqUgcUXU) | [Estrela do Bairro](https://open.spotify.com/album/3mrtDkRPrqu2jCAjRLlAO9) | 3:08 | 2024-01-12 | 2024-02-17 |
@@ -181,7 +182,7 @@
 | [Você É Meu Love](https://open.spotify.com/track/5Rnjrn6iOQlQHowaohN1Xh) | [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf), [Cabrera](https://open.spotify.com/artist/0f8YWLcN51Um9z8C1fbEr2), [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [Você É Meu Love](https://open.spotify.com/album/6iS7icor7jV49DRk1bfbQQ) | 2:24 | 2022-11-18 | 2022-12-17 |
 | [Voe](https://open.spotify.com/track/1Ea9xfSLH7uOi6NuAx0hOw) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu), [JnrBeats](https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt) | [Voe](https://open.spotify.com/album/5sEJvbVgT33VcOkKc3C5Sa) | 2:32 | 2023-03-17 | 2023-04-02 |
 | [Voe](https://open.spotify.com/track/3QRRlJmJbIlBi3i4YzLgvc) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu), [JnrBeats](https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt) | [Voe](https://open.spotify.com/album/19QEAyEf7chXx2vpyKOoGs) | 2:32 | 2023-03-24 | 2024-04-19 |
-| [Vários Planos](https://open.spotify.com/track/4p7fGgYN66OANZYwLjubv9) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Hila Campelo](https://open.spotify.com/artist/5ekmhzyylAHmiQrzCS58vf), [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI) | [Vários Planos](https://open.spotify.com/album/48gdIpMmEfBWmJXOAQAazI) | 3:00 | 2023-02-10 |  |
+| [Vários Planos](https://open.spotify.com/track/4p7fGgYN66OANZYwLjubv9) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Hila Campelo](https://open.spotify.com/artist/5ekmhzyylAHmiQrzCS58vf), [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI) | [Vários Planos](https://open.spotify.com/album/48gdIpMmEfBWmJXOAQAazI) | 3:00 | 2023-02-10 | 2024-04-28 |
 | [ZAZA](https://open.spotify.com/track/5fzo9MLujhCxZYIPJ29nNH) | [sickobabyxo](https://open.spotify.com/artist/5QFWsfryRsbn8O2ryBFsqL), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU) | [ZAZA](https://open.spotify.com/album/57ig0q3dthGuN0jl43WK9l) | 2:15 | 2023-02-03 | 2023-03-25 |
 | [É Você](https://open.spotify.com/track/1e75Ro02st0st8uA2hsUxl) | [Lontraz](https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa), [Mc Chagas](https://open.spotify.com/artist/0IjA8u18H9avxbo1ioOHdj), [Mc Rei Delas](https://open.spotify.com/artist/4Kl6JWs9QqrJbtz9x75p6i) | [É Você](https://open.spotify.com/album/5gATIdtYF8ER6ROdxO8mGa) | 3:17 | 2021-11-12 |  |
 

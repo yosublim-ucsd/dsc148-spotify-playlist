@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: TIOT\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,519 likes - 564 songs - 1 day 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,600 likes - 564 songs - 1 day 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 15 | [밤새](https://open.spotify.com/track/6ounBpJVh2WXum1HEiMWan) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [Affection](https://open.spotify.com/album/7CH227zOs9JlxNtQ8Z6EK4) | 3:20 |
 | 16 | [Like X \(Feat\. CHOILB\)](https://open.spotify.com/track/6sxYeq0g9Vf9zKDj0WjCiM) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq) | [Like X \(Feat\. CHOILB\)](https://open.spotify.com/album/386iGo7cwQeSc9yNV2UhTn) | 3:00 |
 | 17 | [Special](https://open.spotify.com/track/7D98DR6SUkx8qpCgtczVmg) | [Gyubin](https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS), [Kim Jong Wan of NELL](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [Special](https://open.spotify.com/album/1NUn2bpUugGemKtw5udFGO) | 4:17 |
-| 18 | [YOU](https://open.spotify.com/track/58gEKlshREiBM70hZsUHLw) | [CHAN](https://open.spotify.com/artist/5eiLk4QK3BesUhUoj8uhUm) | [YOU](https://open.spotify.com/album/6DX6l3gagUoLK3oVk8uPhp) | 2:45 |
+| 18 | [YOU](https://open.spotify.com/track/58gEKlshREiBM70hZsUHLw) | [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [YOU](https://open.spotify.com/album/6DX6l3gagUoLK3oVk8uPhp) | 2:45 |
 | 19 | [Candy Crush](https://open.spotify.com/track/13ykJ1EkyTbiUIpj9WVaNe) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Pre 3 : Candy Crush>](https://open.spotify.com/album/4CDFBhhclanfS0KglX7MWX) | 3:00 |
 | 20 | [Restless Heart](https://open.spotify.com/track/1GAsPpOOgXDstPGtaNPiSh) | [GYE0M](https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc) | [Restless Heart](https://open.spotify.com/album/3UDPdHlbQeggnaLNDKwuIK) | 3:22 |
 | 21 | [핑 \(PING@.@\) \(Feat\. 트루디\)](https://open.spotify.com/track/6m1rxhZgTfjjUw1lajWZ33) | [Bada](https://open.spotify.com/artist/18IwGkcIzn689YpIkzEKZj) | [핑@.@ \(PING@.@\)](https://open.spotify.com/album/7hQZYdmlgbfgVMQghJU0Sj) | 2:56 |

@@ -1,7 +1,7 @@
 {
-  "2024-04-27": 756244,
+  "2024-04-28": 756160,
   "date_first_scraped": "2021-12-30",
-  "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Ca7riel & Paco Amoroso.",
+  "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Rels B.",
   "name": "Mixto",
   "tracks": [
     {
@@ -325,6 +325,24 @@
       "duration_ms": 273946,
       "name": "Ahora",
       "url": "https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F"
+    },
+    {
+      "album": {
+        "name": "NICA",
+        "url": "https://open.spotify.com/album/7too2QxN1q5XHa9gogI3N3"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183036,
+      "name": "AHORA",
+      "url": "https://open.spotify.com/track/2HexhleZwfvBx9zJ6k4Kak"
     },
     {
       "album": {
@@ -661,7 +679,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 327064,
       "name": "Antes De Partir",
       "url": "https://open.spotify.com/track/2mbxifzlODJWwSG5O6LMuY"
@@ -2029,6 +2047,28 @@
       "duration_ms": 141320,
       "name": "Chucky73: Bzrp Music Sessions, Vol. 43",
       "url": "https://open.spotify.com/track/4xTd8fz0mZFK5b9IYdGKNd"
+    },
+    {
+      "album": {
+        "name": "Ciclorama Sesh Cap.3: TEQUIEROVER",
+        "url": "https://open.spotify.com/album/6hE7amKeVDiiFbvWmIdGdz"
+      },
+      "artists": [
+        {
+          "name": "Thyan V",
+          "url": "https://open.spotify.com/artist/4flNO0lNvXAJmzZpWTvXzb"
+        },
+        {
+          "name": "KIKI",
+          "url": "https://open.spotify.com/artist/3Oa4tuMAAQjZpQPHTcTEDp"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141941,
+      "name": "Ciclorama Sesh Cap.3: TEQUIEROVER",
+      "url": "https://open.spotify.com/track/2uGJKDBA7HLQulZz4dqstX"
     },
     {
       "album": {
@@ -4670,6 +4710,24 @@
     },
     {
       "album": {
+        "name": "Gaucho",
+        "url": "https://open.spotify.com/album/6AitlMXq7JCzB28hJPhPgx"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231146,
+      "name": "Gaucho",
+      "url": "https://open.spotify.com/track/2QNQ8XWpFjuTrHBLn7gEpj"
+    },
+    {
+      "album": {
         "name": "Get Sun (feat. Arthur Verocai)",
         "url": "https://open.spotify.com/album/4voG9BTFD0GrLyKpEKdBSX"
       },
@@ -6119,7 +6177,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 175282,
       "name": "La Dosis",
       "url": "https://open.spotify.com/track/1whTkcaiWWR8HqWpgiN7XD"
@@ -6417,6 +6475,24 @@
       "duration_ms": 179520,
       "name": "Lejos de Ti",
       "url": "https://open.spotify.com/track/4ZKpTM2wfcj4Mg3vRHH66m"
+    },
+    {
+      "album": {
+        "name": "Lemon Tree",
+        "url": "https://open.spotify.com/album/5nnAxnOVudtdTDHPgShRph"
+      },
+      "artists": [
+        {
+          "name": "Monogem",
+          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169557,
+      "name": "Lemon Tree",
+      "url": "https://open.spotify.com/track/1b7NUnBZaNgC7ygZOkUqGb"
     },
     {
       "album": {
@@ -7161,6 +7237,28 @@
       "duration_ms": 135853,
       "name": "Maldita Distancia",
       "url": "https://open.spotify.com/track/4C55PjK12YhrZBt3TysuEI"
+    },
+    {
+      "album": {
+        "name": "Malditos Celos",
+        "url": "https://open.spotify.com/album/4mIPWiTqtPgBVcaFSJsmHY"
+      },
+      "artists": [
+        {
+          "name": "SANTU",
+          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
+        },
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157318,
+      "name": "Malditos Celos",
+      "url": "https://open.spotify.com/track/6Lc8Jnu0TJFFCmlfCITvfA"
     },
     {
       "album": {
@@ -11133,7 +11231,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 178560,
       "name": "sin distraccion",
       "url": "https://open.spotify.com/track/7GYV8Tducpghn4cAURvCIs"
@@ -12784,6 +12882,28 @@
     },
     {
       "album": {
+        "name": "a new star (1 9 9 3)",
+        "url": "https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223783,
+      "name": "Un Desperdicio",
+      "url": "https://open.spotify.com/track/75qepWUT3FEyPyXQMMMVZm"
+    },
+    {
+      "album": {
         "name": "Un D\u00eda",
         "url": "https://open.spotify.com/album/0PW9vbpQvymPkiXvz8RycK"
       },
@@ -12893,6 +13013,28 @@
       "duration_ms": 170125,
       "name": "Uno Dos",
       "url": "https://open.spotify.com/track/2YeKQ7zSBbalFl5K0EpEgH"
+    },
+    {
+      "album": {
+        "name": "Unos y Ceros",
+        "url": "https://open.spotify.com/album/2h4LCRSNJZDsVdNddTQk0Z"
+      },
+      "artists": [
+        {
+          "name": "Agustina Giovio",
+          "url": "https://open.spotify.com/artist/3XUujv3Mitm8jEejafVR1O"
+        },
+        {
+          "name": "Jaz",
+          "url": "https://open.spotify.com/artist/1rGCJdI1tiJS0RRo5OToeM"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156294,
+      "name": "Unos y Ceros",
+      "url": "https://open.spotify.com/track/6ASEjs65L4QRh1OP2GZlev"
     },
     {
       "album": {
@@ -13785,6 +13927,24 @@
       "duration_ms": 214000,
       "name": "\u00bfPara d\u00f3nde vamos?",
       "url": "https://open.spotify.com/track/51Eock8moiROVuwifuovBF"
+    },
+    {
+      "album": {
+        "name": "SAKURA",
+        "url": "https://open.spotify.com/album/5z4aZJ5U7LqwRc2tXk98cc"
+      },
+      "artists": [
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228157,
+      "name": "\u00c1NGEL DE LA GUARDA (P\u00d3STUMO)",
+      "url": "https://open.spotify.com/track/06gX47saY244mz1VZCoCoB"
     },
     {
       "album": {

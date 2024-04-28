@@ -1,12 +1,12 @@
 {
-  "description": "This is LEGADO 7. The essential tracks, all in one playlist.",
-  "num_followers": 79864,
+  "description": "This Is LEGADO 7. Los temas esenciales, todos en una lista.",
+  "num_followers": 79899,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDAwMzIwMCwwMDAwMDAwMGUwYzZmMzc1NjQ4MmY3OTQ1NDBkM2FlZjIwYTUwYmJh",
+  "snapshot_id": "MTcxNDA4OTYwMCwwMDAwMDAwMDM3MDg2YzExYTljYWVmZmE1YTk4YzQ4MWY3YmQ1NDg1",
   "tracks": [
     {
       "added_at": null,
@@ -339,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chambeando Recio",
-        "url": "https://open.spotify.com/album/5iYuRSAA6tEhTDAOBhTDff"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 157749,
-      "name": "Chambeando Recio",
-      "url": "https://open.spotify.com/track/5GUn6oyW713HWxE9F1Xp0T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soy de Michoacan",
         "url": "https://open.spotify.com/album/6JNBghccdWUKfOdfVXDS5A"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 162375,
       "name": "Soy de Michoacan",
       "url": "https://open.spotify.com/track/5ZwLG5AaxZuRLoIBZE5KR4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chambeando Recio",
+        "url": "https://open.spotify.com/album/5iYuRSAA6tEhTDAOBhTDff"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 157749,
+      "name": "Chambeando Recio",
+      "url": "https://open.spotify.com/track/5GUn6oyW713HWxE9F1Xp0T"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pura Lumbre",
-        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 216588,
-      "name": "El Popeye",
-      "url": "https://open.spotify.com/track/64gzvtnbBAQVJslAmzxL2V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "L.A. Lumbre",
         "url": "https://open.spotify.com/album/7iZ9VeN3GuIQrA0wFnXrDb"
       },
@@ -735,22 +719,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paso En Culiacan (En Vivo)",
-        "url": "https://open.spotify.com/album/6dWQ03bpI9ODThTAlqKWbP"
+        "name": "Pura Lumbre",
+        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
       },
       "artists": [
-        {
-          "name": "Jaime Y Fernando",
-          "url": "https://open.spotify.com/artist/6hd4yoO98vmwUq150wB5gm"
-        },
         {
           "name": "LEGADO 7",
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
         }
       ],
-      "duration_ms": 240879,
-      "name": "Paso En Culiacan (En Vivo)",
-      "url": "https://open.spotify.com/track/0PXsTgZLZkpEJepjyZAGTS"
+      "duration_ms": 216588,
+      "name": "El Popeye",
+      "url": "https://open.spotify.com/track/64gzvtnbBAQVJslAmzxL2V"
     },
     {
       "added_at": null,
@@ -775,22 +755,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Al C\u00e9sar Lo Que Es Del C\u00e9sar",
-        "url": "https://open.spotify.com/album/4WxxnnMwaYjTZnjdxOCnnZ"
+        "name": "Paso En Culiacan (En Vivo)",
+        "url": "https://open.spotify.com/album/6dWQ03bpI9ODThTAlqKWbP"
       },
       "artists": [
         {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+          "name": "Jaime Y Fernando",
+          "url": "https://open.spotify.com/artist/6hd4yoO98vmwUq150wB5gm"
         },
         {
           "name": "LEGADO 7",
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
         }
       ],
-      "duration_ms": 223451,
-      "name": "Al C\u00e9sar Lo Que Es Del C\u00e9sar",
-      "url": "https://open.spotify.com/track/4Lj5mqggPrFWifyfL4iFvG"
+      "duration_ms": 240879,
+      "name": "Paso En Culiacan (En Vivo)",
+      "url": "https://open.spotify.com/track/0PXsTgZLZkpEJepjyZAGTS"
     },
     {
       "added_at": null,
@@ -807,6 +787,26 @@
       "duration_ms": 168976,
       "name": "Fruta Prohibida",
       "url": "https://open.spotify.com/track/39MVkJ39r1JoBUPVQnlTfa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Al C\u00e9sar Lo Que Es Del C\u00e9sar",
+        "url": "https://open.spotify.com/album/4WxxnnMwaYjTZnjdxOCnnZ"
+      },
+      "artists": [
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 223451,
+      "name": "Al C\u00e9sar Lo Que Es Del C\u00e9sar",
+      "url": "https://open.spotify.com/track/4Lj5mqggPrFWifyfL4iFvG"
     },
     {
       "added_at": null,

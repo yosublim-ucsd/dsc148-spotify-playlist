@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 
 > Podcasts que você precisa ter no RADAR\. Capa: <a href="spotify:show:0TAMn2YGFdRgi3odrRdlQG">O quem tem na sua carteira?</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,400 likes - 8 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,404 likes - 8 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

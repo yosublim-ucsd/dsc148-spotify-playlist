@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 1358778,
+  "2024-04-28": 1358631,
   "date_first_scraped": "2023-11-08",
   "description": "The hottest dance hits, updated every week.. All the biggest summer dance, house and electronic music to vibe to in 2024!",
   "name": "HOUSE MUSIC 2024 | TOP 100 DANCE HITS",
@@ -208,6 +208,28 @@
     },
     {
       "album": {
+        "name": "Always Needed (feat. MOYA)",
+        "url": "https://open.spotify.com/album/0tWdPrCp3bbOhdoi2shny3"
+      },
+      "artists": [
+        {
+          "name": "Adelphi Music Factory",
+          "url": "https://open.spotify.com/artist/27cAR2QA0zM5v0KL9JNWwe"
+        },
+        {
+          "name": "MOYA",
+          "url": "https://open.spotify.com/artist/7EyM0gQyMeaeQzslOFZaCq"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159074,
+      "name": "Always Needed (feat. MOYA)",
+      "url": "https://open.spotify.com/track/2DnIPaJA1Y5fIOQn0gwvT5"
+    },
+    {
+      "album": {
         "name": "Animal (with Jason Derulo)",
         "url": "https://open.spotify.com/album/5FOUiGyszC4bwhccbSOXhU"
       },
@@ -393,7 +415,7 @@
           "url": "https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz"
         },
         {
-          "name": "Lily Mckenzie",
+          "name": "Lily McKenzie",
           "url": "https://open.spotify.com/artist/6LsSHppZVgx7eks7hAkTPN"
         }
       ],
@@ -852,7 +874,7 @@
       "artists": [
         {
           "name": "Billy Gillies",
-          "url": "https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO"
+          "url": "https://open.spotify.com/artist/7tvN69rnIiIzepCwS9Kew5"
         },
         {
           "name": "Hannah Boleyn",
@@ -1042,7 +1064,7 @@
       "artists": [
         {
           "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+          "url": "https://open.spotify.com/artist/2Rwrxf96T5UYk3FPOc9xcF"
         },
         {
           "name": "ALLKNIGHT",
@@ -3593,7 +3615,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 178156,
       "name": "Vois sur ton chemin - Techno Mix",
       "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"

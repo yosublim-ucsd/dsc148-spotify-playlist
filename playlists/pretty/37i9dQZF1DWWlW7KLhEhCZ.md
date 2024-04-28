@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Malcolm VL
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,601 likes - 73 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,596 likes - 73 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 5 | [After Party](https://open.spotify.com/track/39O5jUbXuRmtSLtW0t46yk) | [Japa](https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [JD On Tha Track](https://open.spotify.com/artist/399fRDjZglRcNLNEDobdt4), [Gabriel Lucchini](https://open.spotify.com/artist/4wm6Of8OD4MeU9AYpQ9Ocs) | [After Party](https://open.spotify.com/album/5OnEFLCrBXHykrmCWgMPTt) | 3:07 |
 | 6 | [CÂMERA LENTA](https://open.spotify.com/track/0xDEgXt5rP6I5uwJoFk0kR) | [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [MAGIC SHOW](https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW) | 2:54 |
 | 7 | [Imaginando Coisas](https://open.spotify.com/track/2coYmtA0EDUHS7P24CFzcW) | [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [icedmob](https://open.spotify.com/artist/2c6lGDjkOP3A9RsFP4DVrz), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30) | [Imaginando Coisas](https://open.spotify.com/album/19fl2xItHFfkV3zzZtGYXf) | 3:33 |
-| 8 | [Desejada](https://open.spotify.com/track/5PcW6LMArUg4tEul1VRD3u) | [Glaxdow](https://open.spotify.com/artist/3B9B025GMpqnlHUzkH06Z2), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ) | [Além do Espelho](https://open.spotify.com/album/7sUvDW6CBB5dIzC1z6HOzP) | 2:11 |
+| 8 | [Desejada](https://open.spotify.com/track/5PcW6LMArUg4tEul1VRD3u) | [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ), [Glaxdow](https://open.spotify.com/artist/3B9B025GMpqnlHUzkH06Z2) | [Além do Espelho](https://open.spotify.com/album/7sUvDW6CBB5dIzC1z6HOzP) | 2:11 |
 | 9 | [Pepp@](https://open.spotify.com/track/6tV3ou10FfpVcUbUwPfTjs) | [LH CHUCRO](https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH) | [Pepp@](https://open.spotify.com/album/1BGVpDtN7BiwUKQYvhnJtm) | 1:50 |
 | 10 | [CHATA](https://open.spotify.com/track/4VCcq6VeIwwIdTf4KWBBbr) | [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [CHATA](https://open.spotify.com/album/2ViIh0f9ZLlQA5H00kcncj) | 2:36 |
 | 11 | [Me Impressiona](https://open.spotify.com/track/2a9jpGdN9jg0eQMPy2WSxe) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu), [Fabin](https://open.spotify.com/artist/5CFIBhFm7Ndt7xVCBwwlrF), [Doode](https://open.spotify.com/artist/3Ns5FA1ANQOzsHLWspsrC6), [Dougb](https://open.spotify.com/artist/74FaA4BR2SefBgRTPa8jJh), [Kew](https://open.spotify.com/artist/2Ci1Tt7bCEU3OTByr1nc0y), [Thiago Sub](https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG) | [Me Impressiona](https://open.spotify.com/album/3lC1wMky0NXSS7Omuvato6) | 5:28 |

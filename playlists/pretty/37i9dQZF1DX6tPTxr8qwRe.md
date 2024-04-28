@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > Dark, hard hitting pop\. Cover: PEGGY
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,113 likes - 70 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,780 likes - 70 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 13 | [JUICE BOX](https://open.spotify.com/track/6oZafL1or65dWK6OwYSM0u) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [JUICE BOX](https://open.spotify.com/album/2XChtb4PHji5kdYRaEHY4n) | 1:54 |
 | 14 | [ASPHALT RODEO](https://open.spotify.com/track/2u0NrSifafd4x4kO5NrSx8) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [ASPHALT RODEO](https://open.spotify.com/album/6pH7vizaLhjOBNXQJvo8EK) | 2:38 |
 | 15 | [Good Boy](https://open.spotify.com/track/0ZuPqWaILv4VJsTii3UdeM) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [Good Boy](https://open.spotify.com/album/0jlQOoi6XuQfOi5bBwqOUZ) | 2:26 |
-| 16 | [Good Things](https://open.spotify.com/track/7nV0ORUyLQBj1J8LGKh1IW) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Good Things](https://open.spotify.com/album/1oagZBKRheVpkMCJ81O9x0) | 2:58 |
+| 16 | [Good Things](https://open.spotify.com/track/7nV0ORUyLQBj1J8LGKh1IW) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Good Things](https://open.spotify.com/album/1oagZBKRheVpkMCJ81O9x0) | 2:57 |
 | 17 | [Something Real](https://open.spotify.com/track/3jEGOT9lNzayWh1D1luX9F) | [Rachel Lorin](https://open.spotify.com/artist/5DfLOANcWMxdeenpJ6Ksd2) | [Something Real](https://open.spotify.com/album/1eI1pnA6AKVy4BXiwHXoGK) | 3:23 |
 | 18 | [Just A Girl](https://open.spotify.com/track/7IVLMNg2pZfPLdHkGUy3PM) | [Hayes Warner](https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH), [Billy B](https://open.spotify.com/artist/3P2dL1jA3FykjGry2EcZEf), [Kevin Rudolf](https://open.spotify.com/artist/0Chxmm4XMM87mJOHvyiUzL) | [Just A Girl](https://open.spotify.com/album/1MQ4j779aERTz80VuaX4jr) | 2:45 |
 | 19 | [guts](https://open.spotify.com/track/4vSQyjPdcJRxvZLmKKZITo) | [margø](https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU) | [guts](https://open.spotify.com/album/3ZQ8tEoq23WOEz53Xr8n9Z) | 3:32 |

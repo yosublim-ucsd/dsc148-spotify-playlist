@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: NOG, Mano Fler, Choice, Mauricio DTS, Jhony Mc
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,785 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,819 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 8 | [Procissão](https://open.spotify.com/track/5p99OJMgXsPS114UhyeFPF) | [Murica](https://open.spotify.com/artist/5tevA98mEA8sgH93W3PxE1), [Prs, o Peres](https://open.spotify.com/artist/6zA1Us7yWyCj4OXxkgAuqC), [BEATDOMK](https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC) | [Procissão](https://open.spotify.com/album/3QXJ0xbj0Hv5Ao0nOh3tHE) | 2:13 |
 | 9 | [Já É Tarde](https://open.spotify.com/track/2Et0DMAf1syfTEazKYcA7d) | [Supperbiro](https://open.spotify.com/artist/2LY4vuWOg5mNDMGjN2Byjt), [SonoTWS](https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE), [ALLANA](https://open.spotify.com/artist/6HDbz8r8C8Rr5XQO1uHslV) | [Fitas Perdidas](https://open.spotify.com/album/0Q7DsXc72gYQHUgxGuU7JF) | 4:03 |
 | 10 | [Rap É Compromisso \- Sabotage 50](https://open.spotify.com/track/34M7EkL58Nv1b33HwWKL4G) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe) | [Sabotage 50](https://open.spotify.com/album/6Y71epbFxkDeFtReHp2inZ) | 2:35 |
-| 11 | [Código Navajo](https://open.spotify.com/track/4GfVKSNy2gIuYV0bq1zNjG) | [Ca$hline](https://open.spotify.com/artist/41QQgOKrnE3i6AQXKqOG1z) | [Código Navajo](https://open.spotify.com/album/1nQzaTVgyWzGLDWCOhcB7T) | 2:03 |
+| 11 | [Código Navajo](https://open.spotify.com/track/4GfVKSNy2gIuYV0bq1zNjG) | [Ca$hline](https://open.spotify.com/artist/41QQgOKrnE3i6AQXKqOG1z), [Vici](https://open.spotify.com/artist/7tav0bx2uKKIYGW50Lorr4) | [Código Navajo](https://open.spotify.com/album/1nQzaTVgyWzGLDWCOhcB7T) | 2:03 |
 | 12 | [22](https://open.spotify.com/track/5dUBA8qXLPcw3TqDoINuMg) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK) | [Censurado pela Mídia, Amado pelas Ruas](https://open.spotify.com/album/2HKewBzZuFdsbVjl4jJlCu) | 3:00 |
 | 13 | [Polo Usa](https://open.spotify.com/track/7GIOobAlKojSiQ6ytFlxdU) | [yung vegan](https://open.spotify.com/artist/1syJqMCwFKLRoDT9plGxJV), [Bolin Batidas](https://open.spotify.com/artist/0N8qBEsNM25AnKi6bMF91j) | [Fetiche](https://open.spotify.com/album/659lNGwYSZkbjRVWGahBDB) | 2:40 |
 | 14 | [A Volta do Ano Lírico](https://open.spotify.com/track/1DhNBssp8Yhv2DV4Zjb6Y7) | [PrimeiraMente](https://open.spotify.com/artist/3ljiSwQJmAVQVOXirjA2RT), [Riff](https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH) | [A Volta do Ano Lírico](https://open.spotify.com/album/6H1jnfLHcnm3MfHO8v8emY) | 3:46 |

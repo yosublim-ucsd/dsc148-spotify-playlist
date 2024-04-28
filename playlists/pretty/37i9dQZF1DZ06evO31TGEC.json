@@ -1,12 +1,12 @@
 {
   "description": "This is El Chapo De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 45870,
+  "num_followers": 45875,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDAwMzIwMCwwMDAwMDAwMGY3ODJhNDA3MzE3NWQxNTYzNGE1M2Y5MTU4YWJkOWM1",
+  "snapshot_id": "MTcxNDA4OTYwMCwwMDAwMDAwMDc3YTQ2MTVlZmZlODExNzY0YmFmMGQyMmNkNTJmZWU3",
   "tracks": [
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cristaleros Michoacanos",
-        "url": "https://open.spotify.com/album/4WiQNWTAwkLG5Bzr6NQ5Ry"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 139075,
-      "name": "Andamos Borrachos",
-      "url": "https://open.spotify.com/track/1zHDb51oC8fz6uWfw6xNhD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Va A Gustar",
         "url": "https://open.spotify.com/album/55gLZanxNh5UDbrRMv6cCU"
       },
@@ -759,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Serie 33",
-        "url": "https://open.spotify.com/album/1y6TyvJYOv3725PqA2LPSV"
+        "name": "Cristaleros Michoacanos",
+        "url": "https://open.spotify.com/album/4WiQNWTAwkLG5Bzr6NQ5Ry"
       },
       "artists": [
         {
@@ -768,9 +752,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 189426,
-      "name": "El Dolido",
-      "url": "https://open.spotify.com/track/3QUVQh9YRliiLmBShel2DO"
+      "duration_ms": 139075,
+      "name": "Andamos Borrachos",
+      "url": "https://open.spotify.com/track/1zHDb51oC8fz6uWfw6xNhD"
     },
     {
       "added_at": null,
@@ -787,6 +771,22 @@
       "duration_ms": 202573,
       "name": "Ella (Me Cans\u00e9 De Rogarle)",
       "url": "https://open.spotify.com/track/3pwWfa8pqHCoDJrFwwQCkk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Serie 33",
+        "url": "https://open.spotify.com/album/1y6TyvJYOv3725PqA2LPSV"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 189426,
+      "name": "El Dolido",
+      "url": "https://open.spotify.com/track/3QUVQh9YRliiLmBShel2DO"
     },
     {
       "added_at": null,

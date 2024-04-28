@@ -1,12 +1,12 @@
 {
-  "description": "This is Pedro Su\u00e1rez-V\u00e9rtiz. The essential tracks, all in one playlist.",
-  "num_followers": 23417,
+  "description": "This Is Pedro Su\u00e1rez-V\u00e9rtiz. Los temas esenciales, todos en una lista.",
+  "num_followers": 23421,
   "original_name": "This Is Pedro Su\u00e1rez-V\u00e9rtiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDAwMzIwMCwwMDAwMDAwMGM0YjQyNDgwN2VhYTBmZWI4M2M1ZTZkNzA5YmQ5YmU4",
+  "snapshot_id": "MTcxNDA4OTYwMCwwMDAwMDAwMGU3NGFhMGRlMTRiNTU5OTRkODQ1NmQwYzgwYzZjZjZi",
   "tracks": [
     {
       "added_at": null,
@@ -707,26 +707,6 @@
       "duration_ms": 317933,
       "name": "Marilo\u0301",
       "url": "https://open.spotify.com/track/1ndwvemO3SxGIlqF4Hor7p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jugamos Todos",
-        "url": "https://open.spotify.com/album/3FYY7mzDQ0V2cUXeCySlyk"
-      },
-      "artists": [
-        {
-          "name": "Pedro Su\u00e1rez-V\u00e9rtiz\u00aeLa Banda",
-          "url": "https://open.spotify.com/artist/45pJt17HgV2POVNeNN725L"
-        },
-        {
-          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
-          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        }
-      ],
-      "duration_ms": 263722,
-      "name": "Jugamos Todos",
-      "url": "https://open.spotify.com/track/3d8lK0ApW7hmXu69QTnvu8"
     },
     {
       "added_at": null,

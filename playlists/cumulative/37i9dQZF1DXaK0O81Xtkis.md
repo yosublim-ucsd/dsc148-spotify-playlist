@@ -4,7 +4,7 @@
 
 > make it pop! cover: Haiden Henderson
 
-971 songs - 2 day 0 hr 13 min
+973 songs - 2 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [Feel It](https://open.spotify.com/track/5UapJPoV8BX4xQYOIwjABo) | [Confetti](https://open.spotify.com/artist/1oyUjl52ohRrCv3EL1UdpM) | [The Guilty Pleasure Chest](https://open.spotify.com/album/1m0GLsVORJPj9jeqvTWB3W) | 2:41 | 2021-10-29 | 2022-01-22 |
 | [Feel my love](https://open.spotify.com/track/3xJjp7RYkmW2RRWcPfQY0e) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw), [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [Feel my love](https://open.spotify.com/album/4vUImSqOSspVWu02FH4HTy) | 2:40 | 2023-04-07 | 2023-05-06 |
 | [Feel Something](https://open.spotify.com/track/1jTxFF7FjIW4USQnnoplX9) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Feel Something](https://open.spotify.com/album/3LFMOM2H8eBY7VRHRbKNzp) | 2:30 | 2022-04-08 | 2022-06-25 |
+| [Feeling Lucky](https://open.spotify.com/track/53x0Yk1qOyurd2MefyF3Ny) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Feeling Lucky](https://open.spotify.com/album/4bc9PfPyv60qCh5S5g5eMb) | 2:31 | 2024-04-27 |  |
 | [Feet On The Ceiling](https://open.spotify.com/track/242rm4cMmaaPkxe2f1y5Re) | [YAOUNDÉBOXINGCLUB](https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP) | [Feet On The Ceiling](https://open.spotify.com/album/1EjnS1tbiIOalEtxI5IWaN) | 3:24 | 2024-03-22 | 2024-04-27 |
 | [Figure You Out \(Remix\)](https://open.spotify.com/track/6Tsdf2lE4mFAa6sE052pEP) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Figure You Out \(Remix\)](https://open.spotify.com/album/2UHY1Y6eDdUf1zMPWnJWPH) | 3:12 | 2022-02-11 | 2022-02-26 |
 | [Fine Lines](https://open.spotify.com/track/6adCqDwVKcdXK8f4JHkOfo) | [Alt Bloom](https://open.spotify.com/artist/6JxQbC46LapcvanSk4J3OP) | [Fine Lines](https://open.spotify.com/album/7oHo3runeV3nHPtjOy4uK3) | 2:27 | 2023-02-24 | 2023-05-06 |
@@ -389,6 +390,7 @@
 | [How Do I Know?](https://open.spotify.com/track/4mzRgafmXg0S1FBwGdwFXC) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [How Do I Know?](https://open.spotify.com/album/2hsNeLymE4V8YTHPWLaAxf) | 3:18 | 2022-01-21 | 2022-02-26 |
 | [How Do You Sleep?](https://open.spotify.com/track/7skoWi7cN9FjNdJOkwQ4YY) | [AJA](https://open.spotify.com/artist/4i8jleH8zrMtVQNpir3iDj) | [How Do You Sleep?](https://open.spotify.com/album/3z8DWMIyTqjI3382gxMklh) | 3:30 | 2022-12-23 | 2023-03-11 |
 | [How Does It Feel](https://open.spotify.com/track/1KNYCbS2hGara6pzGCa2Ui) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [How Does It Feel](https://open.spotify.com/album/7oEIRmKyqKCbWQO7LAgvrU) | 2:23 | 2023-05-05 | 2023-07-22 |
+| [How Long](https://open.spotify.com/track/3ntYF8MmJNzrMshD7ofFxU) | [Rec Hall](https://open.spotify.com/artist/7n0i6RECXvCkOElGs6IP97) | [How Long](https://open.spotify.com/album/3xW517EjeSgYvBR95zFxRD) | 2:45 | 2024-04-27 |  |
 | [how well do you know your feelings?](https://open.spotify.com/track/7JltgRakwAMnHkyNs9U6bz) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Heron](https://open.spotify.com/album/75FDoESZuozw9thPEuevA0) | 2:59 | 2024-04-12 |  |
 | [Hurricane](https://open.spotify.com/track/6fMZJZqhauwGrwobkPZVJ7) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Hurricane](https://open.spotify.com/album/0nhR7pihu2lJDAvVfXqBcH) | 3:01 | 2022-03-04 | 2022-05-07 |
 | [Hurt My Feelings](https://open.spotify.com/track/5VuJUyQa6doN53RMjjNo65) | [Hastings](https://open.spotify.com/artist/0cMrisD7Y14WMODerxofNO) | [Hurt My Feelings](https://open.spotify.com/album/5FRAelEQwWoSJgZ6liCJzs) | 2:56 | 2022-06-10 | 2022-08-06 |
@@ -773,7 +775,7 @@
 | [Spaced Out](https://open.spotify.com/track/7DZW8lVDFRy8feObANUuW8) | [Confetti](https://open.spotify.com/artist/1oyUjl52ohRrCv3EL1UdpM) | [Spaced Out](https://open.spotify.com/album/08L02FtPJVPDDJ6gE3Kxmw) | 2:43 | 2024-01-26 | 2024-02-17 |
 | [Spilled My Coffee \(feat\. Allday\) \- HONNE Rework](https://open.spotify.com/track/7mVAOwhLfl5htPDL738wrB) | [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP), [Jack Cullen](https://open.spotify.com/artist/6lUfZGm7WIkgsfLhafFCfB), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Allday](https://open.spotify.com/artist/2Ltr0s15RyvsjqWzSmiSRs) | [Spilled My Coffee \(feat\. Allday\) \[HONNE Rework\]](https://open.spotify.com/album/6OfR7z0MDFFx2jEoRcD2ih) | 2:51 | 2021-10-29 | 2022-01-15 |
 | [spinnin](https://open.spotify.com/track/0yB9bFHPntWhj0iJoVFkDm) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [spinnin](https://open.spotify.com/album/0SL254Ra6O4r6VXzrIBTzW) | 2:11 | 2021-10-29 | 2022-02-26 |
-| [Spite](https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spite](https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51) | 2:42 | 2024-04-05 |  |
+| [Spite](https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spite](https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51) | 2:42 | 2024-04-05 | 2024-04-28 |
 | [star tripping](https://open.spotify.com/track/1ozWhltP7jnU01qOMWYBXH) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [star tripping](https://open.spotify.com/album/4hohZtRQRa3Iz76pJPwJwR) | 2:34 | 2022-10-07 | 2023-03-04 |
 | [Stargirl](https://open.spotify.com/track/4aG9dDt76InHPsbv55xz1w) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [Stargirl](https://open.spotify.com/album/61RHJE3TKzvkgRtozvA9oE) | 2:53 | 2023-04-21 | 2023-07-22 |
 | [stars](https://open.spotify.com/track/329gBJ1hkINrrjFZNtk03H) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [stars](https://open.spotify.com/album/0NmQRqXaqB2ZMycDkWQYUk) | 2:31 | 2023-07-07 | 2023-08-12 |
@@ -872,7 +874,7 @@
 | [This Time](https://open.spotify.com/track/1wMUAnJhrgVa2Q2CkMto4b) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [This Time](https://open.spotify.com/album/5ujq3EIdXLsz6TpXcsd7ze) | 2:13 | 2022-04-29 | 2022-07-16 |
 | [Throwback Tears](https://open.spotify.com/track/68Z7JAEz6ZSFJ9bA4KFGRg) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Throwback Tears](https://open.spotify.com/album/5mNkXsJh0QVVEKIq9Rx1en) | 1:57 | 2023-01-17 | 2023-03-25 |
 | [Thunder](https://open.spotify.com/track/2WP51KZ9ijZ6Kh68X5n3oc) | [ZEE MACHINE](https://open.spotify.com/artist/3v7HInx1B5wGtG90l8OgLg) | [Thunder](https://open.spotify.com/album/71ksMhG7YqwphT30LMElRK) | 2:51 | 2023-02-10 | 2023-04-15 |
-| [TIME!](https://open.spotify.com/track/571eDSnPzwHNL3233ICp6w) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi) | [the greatest hits](https://open.spotify.com/album/6RY9gppYrTRUHBHvPWfPyW) | 3:12 | 2024-03-08 |  |
+| [TIME!](https://open.spotify.com/track/571eDSnPzwHNL3233ICp6w) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi) | [the greatest hits](https://open.spotify.com/album/6RY9gppYrTRUHBHvPWfPyW) | 3:12 | 2024-03-08 | 2024-04-28 |
 | [Tiny Moves](https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Tiny Moves](https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6) | 3:48 | 2024-01-26 | 2024-04-27 |
 | [Tissues](https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Tissues](https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew) | 3:35 | 2022-09-02 | 2023-01-14 |
 | [to be mine \(is to lose your mind\)](https://open.spotify.com/track/6WRoccjEMu5Nj5iOSm3LOX) | [iris](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [to be mine \(is to lose your mind\)](https://open.spotify.com/album/4xT48QQILicoukeueJ1hXl) | 3:27 | 2021-10-29 | 2021-12-25 |

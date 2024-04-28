@@ -1,7 +1,7 @@
 {
-  "2024-04-27": 7331,
+  "2024-04-28": 7553,
   "date_first_scraped": "2023-06-09",
-  "description": "Got Fray-fever? Or craving some DeGraw-delights? Get on the Train-train and enjoy these pop/rock classics. Cover: Train",
+  "description": "Got Fray-fever? Or craving some DeGraw-delights? Board the Train-train and enjoy these pop/rock favorites. Cover: Train",
   "name": "Jupiter",
   "tracks": [
     {
@@ -125,7 +125,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 169634,
       "name": "AM Gold",
       "url": "https://open.spotify.com/track/6xTQD1ixS5uca8B9P97vQc"
@@ -831,6 +831,24 @@
       "duration_ms": 226640,
       "name": "Lonely No More",
       "url": "https://open.spotify.com/track/4faFAhOflLzhfJECveRwva"
+    },
+    {
+      "album": {
+        "name": "Long Yellow Dress",
+        "url": "https://open.spotify.com/album/5cDUm4xijWkKovh69cUL3H"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189770,
+      "name": "Long Yellow Dress",
+      "url": "https://open.spotify.com/track/5LKidZHW0GGEhFjwBHgq1E"
     },
     {
       "album": {

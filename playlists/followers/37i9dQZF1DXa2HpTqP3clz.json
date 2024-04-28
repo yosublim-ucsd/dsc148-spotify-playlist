@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 132574,
+  "2024-04-28": 132585,
   "date_first_scraped": "2021-12-21",
   "description": "Today's Bluegrass and old time favorites. Cover: Missy Raines",
   "name": "Grass Roots",
@@ -1225,7 +1225,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 256293,
       "name": "Bozeman - Clawhammer Version",
       "url": "https://open.spotify.com/track/2OKPFjbjURGrx8fSzKk8uM"
@@ -3569,7 +3569,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 210266,
       "name": "Granny's Got a Garden - For G'maw Jan",
       "url": "https://open.spotify.com/track/481vOKAlV93O0kHSxEWpTy"
@@ -4017,7 +4017,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 154720,
       "name": "Hey Blue Eyed Girl",
       "url": "https://open.spotify.com/track/17Nj11TnEg5iOs7hOWvQ8k"
@@ -5365,6 +5365,24 @@
       "duration_ms": 239346,
       "name": "Last Chance",
       "url": "https://open.spotify.com/track/21TryieQX3eY96LemAyX28"
+    },
+    {
+      "album": {
+        "name": "Last Slice Of Heaven",
+        "url": "https://open.spotify.com/album/5vW3SQQtRDKNHgxjk5ZLSw"
+      },
+      "artists": [
+        {
+          "name": "Jack McKeon",
+          "url": "https://open.spotify.com/artist/17ZEpFdf955itneqYEwJp8"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205453,
+      "name": "Last Slice Of Heaven",
+      "url": "https://open.spotify.com/track/4mmyKUU1AKiXK8vrYCKafp"
     },
     {
       "album": {
@@ -7852,6 +7870,24 @@
     },
     {
       "album": {
+        "name": "Saint Anthony",
+        "url": "https://open.spotify.com/album/7CSeXBSuRmHP4esFKvEl1A"
+      },
+      "artists": [
+        {
+          "name": "Brit Taylor",
+          "url": "https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163149,
+      "name": "Saint Anthony",
+      "url": "https://open.spotify.com/track/3eFYwua5oDXpONK6PXUc6r"
+    },
+    {
+      "album": {
         "name": "Sally Ann",
         "url": "https://open.spotify.com/album/0QmoaymdgmbxKWQTMXVUWa"
       },
@@ -9136,6 +9172,24 @@
     },
     {
       "album": {
+        "name": "The Gavel",
+        "url": "https://open.spotify.com/album/6lvllLOpu8VWHpPoQ5nD7B"
+      },
+      "artists": [
+        {
+          "name": "Wilson Banjo Co.",
+          "url": "https://open.spotify.com/artist/7oEjk4jYgih2ppmrlGPbMo"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193933,
+      "name": "The Gavel",
+      "url": "https://open.spotify.com/track/7mgfZYZCKrjpJuWTkxX2aF"
+    },
+    {
+      "album": {
         "name": "Aeonic",
         "url": "https://open.spotify.com/album/6br9MVIUH3zgp854H1rlCZ"
       },
@@ -10147,7 +10201,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 171541,
       "name": "We'll Meet Again Sweetheart",
       "url": "https://open.spotify.com/track/2zEnUshHOW1q1idC1zSfHV"
@@ -10929,6 +10983,28 @@
       "duration_ms": 201573,
       "name": "With Body and Soul (feat. Emmylou Harris, Tom Gray, John Starling)",
       "url": "https://open.spotify.com/track/4SiS7LvF6n8WnW5ZeB4RfL"
+    },
+    {
+      "album": {
+        "name": "Work Song (I Can Still Sing)",
+        "url": "https://open.spotify.com/album/2deofjFoM5Rwugpm0iF3Yj"
+      },
+      "artists": [
+        {
+          "name": "Cris Jacobs",
+          "url": "https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc"
+        },
+        {
+          "name": "Lindsay Lou",
+          "url": "https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209603,
+      "name": "Work Song (I Can Still Sing)",
+      "url": "https://open.spotify.com/track/3VDvqw41vBUXaqK9FPzkYz"
     },
     {
       "album": {

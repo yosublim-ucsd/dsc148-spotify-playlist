@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 
 > New York salsa...it's home.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,335 likes - 116 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,386 likes - 116 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,8 +119,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 | 109 | [Ay Amor, Cuando Hablan Las Miradas](https://open.spotify.com/track/18WLJ7M3o2MrHdHwamgwqw) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE), [Roberto Lugo](https://open.spotify.com/artist/07ORe1OIPJ0bjk4Fs9nQEK) | [25 Años,25 Éxitos, 25 Artistas](https://open.spotify.com/album/3bcLLE0Yt1pSYuVroRRQyL) | 4:18 |
 | 110 | [Carro de Fuego](https://open.spotify.com/track/3MEcYQMqtgTYMaglHFOe81) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Bueno Y Mas..](https://open.spotify.com/album/1Co6IglSld3FIQ0OubpSLz) | 4:33 |
 | 111 | [Contra La Corriente](https://open.spotify.com/track/22GxtWFeORJZaptz26pxet) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Contra La Corriente](https://open.spotify.com/album/6LIqj7VIJB3K54NBycFxSe) | 5:04 |
-| 112 | [El Cantante](https://open.spotify.com/track/3gIZxkCKjNP1tft5TynUED) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Marc Anthony "El Cantante" OST](https://open.spotify.com/album/4MRdW6rlNSqpnCAZKGxqLC) | 6:47 |
-| 113 | [Ale Ale](https://open.spotify.com/track/2cSqX6LYlP2hqVxr6fhC0j) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Ale Ale](https://open.spotify.com/album/533koxEqsjn5Pve9OgE5JB) | 3:49 |
+| 112 | [Ale Ale](https://open.spotify.com/track/2cSqX6LYlP2hqVxr6fhC0j) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Ale Ale](https://open.spotify.com/album/533koxEqsjn5Pve9OgE5JB) | 3:49 |
+| 113 | [El Cantante](https://open.spotify.com/track/3gIZxkCKjNP1tft5TynUED) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Marc Anthony "El Cantante" OST](https://open.spotify.com/album/4MRdW6rlNSqpnCAZKGxqLC) | 6:47 |
 | 114 | [Lluvia](https://open.spotify.com/track/6rgyJBwmiSO1nAfPqvH11J) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Íconos 25 Éxitos](https://open.spotify.com/album/6cg3Rd3wui2QivKa8pbLMr) | 4:57 |
 | 115 | [Cuidate Bien](https://open.spotify.com/track/21S3WhtvG7PROrdaPS9nwB) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Exitos de Oscar D'Leon Con la Critica](https://open.spotify.com/album/64oV3qY9joPQ4kk9cVsEDx) | 3:35 |
 | 116 | [Me Fallaste](https://open.spotify.com/track/0UTGkzthd36MpJIY2IPMRG) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Íconos 25 Éxitos](https://open.spotify.com/album/6cg3Rd3wui2QivKa8pbLMr) | 5:03 |

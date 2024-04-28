@@ -1,6 +1,6 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Gerilson Insrael",
-  "num_followers": 199259,
+  "num_followers": 199315,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
-        "name": "Longe de Ti",
-        "url": "https://open.spotify.com/album/03wfykCwviZBpxcxcBEaN1"
-      },
-      "artists": [
-        {
-          "name": "Jay Oliver",
-          "url": "https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Voc\u00ea Me Kuia",
-      "url": "https://open.spotify.com/track/4gvDUHpTEiVHhDeeobenz4"
-    },
-    {
-      "added_at": "2024-04-25 23:00:00",
-      "album": {
         "name": "Monarquia",
         "url": "https://open.spotify.com/album/5W7CSMrEuK1X5zq4ardsF2"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 202032,
       "name": "Monarquia",
       "url": "https://open.spotify.com/track/2jGlCW68RFTCgFKI6dydPR"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
+        "name": "Longe de Ti",
+        "url": "https://open.spotify.com/album/03wfykCwviZBpxcxcBEaN1"
+      },
+      "artists": [
+        {
+          "name": "Jay Oliver",
+          "url": "https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Voc\u00ea Me Kuia",
+      "url": "https://open.spotify.com/track/4gvDUHpTEiVHhDeeobenz4"
     },
     {
       "added_at": "2024-04-25 23:00:00",
@@ -1023,6 +1023,30 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
+        "name": "Momentos",
+        "url": "https://open.spotify.com/album/7y3xk4lkwaN3Eq56tTav1B"
+      },
+      "artists": [
+        {
+          "name": "Kizomba da Boa",
+          "url": "https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i"
+        },
+        {
+          "name": "Button Rose",
+          "url": "https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD"
+        },
+        {
+          "name": "Liriany",
+          "url": "https://open.spotify.com/artist/7gsMzXapXdZ5XzVPJp4rBd"
+        }
+      ],
+      "duration_ms": 210648,
+      "name": "Momentos",
+      "url": "https://open.spotify.com/track/4oy3pqAKEWN9mrxwTHwdMs"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
         "name": "Te Amo Tanto",
         "url": "https://open.spotify.com/album/4dixo3rNF8P3i0IazGXqFj"
       },
@@ -1075,46 +1099,6 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
-        "name": "Mais Nada",
-        "url": "https://open.spotify.com/album/4qUns8RK2Sjqz9lHKCbPhT"
-      },
-      "artists": [
-        {
-          "name": "Cubita",
-          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
-        }
-      ],
-      "duration_ms": 176770,
-      "name": "Mais Nada",
-      "url": "https://open.spotify.com/track/2DDBR1QD9d9Qjg0a1hwOAJ"
-    },
-    {
-      "added_at": "2024-04-25 23:00:00",
-      "album": {
-        "name": "Momentos",
-        "url": "https://open.spotify.com/album/7y3xk4lkwaN3Eq56tTav1B"
-      },
-      "artists": [
-        {
-          "name": "Kizomba da Boa",
-          "url": "https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i"
-        },
-        {
-          "name": "Button Rose",
-          "url": "https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD"
-        },
-        {
-          "name": "Liriany",
-          "url": "https://open.spotify.com/artist/7gsMzXapXdZ5XzVPJp4rBd"
-        }
-      ],
-      "duration_ms": 210648,
-      "name": "Momentos",
-      "url": "https://open.spotify.com/track/4oy3pqAKEWN9mrxwTHwdMs"
-    },
-    {
-      "added_at": "2024-04-25 23:00:00",
-      "album": {
         "name": "Benka Benka",
         "url": "https://open.spotify.com/album/02hwY0hIvxe1FWcZgTk5Iy"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 180026,
       "name": "Benka Benka",
       "url": "https://open.spotify.com/track/1qyB67YZSNblHfX5hQ09Ko"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
+        "name": "Mais Nada",
+        "url": "https://open.spotify.com/album/4qUns8RK2Sjqz9lHKCbPhT"
+      },
+      "artists": [
+        {
+          "name": "Cubita",
+          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
+        }
+      ],
+      "duration_ms": 176770,
+      "name": "Mais Nada",
+      "url": "https://open.spotify.com/track/2DDBR1QD9d9Qjg0a1hwOAJ"
     },
     {
       "added_at": "2024-04-25 23:00:00",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
-        "name": "Cura",
-        "url": "https://open.spotify.com/album/2OnIj9WrPNoetyHNbGwgpX"
-      },
-      "artists": [
-        {
-          "name": "Josslyn",
-          "url": "https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF"
-        },
-        {
-          "name": "Dynamo",
-          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
-        }
-      ],
-      "duration_ms": 217754,
-      "name": "Cura",
-      "url": "https://open.spotify.com/track/5GlPkahjTM2G5PdiN3eQhG"
-    },
-    {
-      "added_at": "2024-04-25 23:00:00",
-      "album": {
         "name": "Off Para Ti",
         "url": "https://open.spotify.com/album/6TRkOPJCJzw7FWk8rjz1Yg"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 192641,
       "name": "Mad Love",
       "url": "https://open.spotify.com/track/6J724avGtyTfnIWfKjlzLD"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
+        "name": "Cura",
+        "url": "https://open.spotify.com/album/2OnIj9WrPNoetyHNbGwgpX"
+      },
+      "artists": [
+        {
+          "name": "Josslyn",
+          "url": "https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF"
+        },
+        {
+          "name": "Dynamo",
+          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
+        }
+      ],
+      "duration_ms": 217754,
+      "name": "Cura",
+      "url": "https://open.spotify.com/track/5GlPkahjTM2G5PdiN3eQhG"
     },
     {
       "added_at": "2024-04-25 23:00:00",
@@ -1583,26 +1583,6 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
-        "name": "Vou Arriscar",
-        "url": "https://open.spotify.com/album/7AnHcW2hu73RuWTdWD9pmh"
-      },
-      "artists": [
-        {
-          "name": "Chelsy Shantel",
-          "url": "https://open.spotify.com/artist/7KO8A7idPh9D7zwd52QW44"
-        },
-        {
-          "name": "Nsoki",
-          "url": "https://open.spotify.com/artist/6HfAa52MnValWEHNMdWAlH"
-        }
-      ],
-      "duration_ms": 223895,
-      "name": "Vou Arriscar",
-      "url": "https://open.spotify.com/track/7kVndwoIjvzkYxxbuoV2UM"
-    },
-    {
-      "added_at": "2024-04-25 23:00:00",
-      "album": {
         "name": "Teu Ego",
         "url": "https://open.spotify.com/album/2Q1f06VzUef6eeyAwa4QKa"
       },
@@ -1619,6 +1599,26 @@
       "duration_ms": 286093,
       "name": "Teu Ego",
       "url": "https://open.spotify.com/track/2ZQdBUpl0oLp97sZ1F5vdQ"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
+        "name": "Vou Arriscar",
+        "url": "https://open.spotify.com/album/7AnHcW2hu73RuWTdWD9pmh"
+      },
+      "artists": [
+        {
+          "name": "Chelsy Shantel",
+          "url": "https://open.spotify.com/artist/7KO8A7idPh9D7zwd52QW44"
+        },
+        {
+          "name": "Nsoki",
+          "url": "https://open.spotify.com/artist/6HfAa52MnValWEHNMdWAlH"
+        }
+      ],
+      "duration_ms": 223895,
+      "name": "Vou Arriscar",
+      "url": "https://open.spotify.com/track/7kVndwoIjvzkYxxbuoV2UM"
     },
     {
       "added_at": "2024-04-25 23:00:00",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
-        "name": "Fala S\u00f3",
-        "url": "https://open.spotify.com/album/2nlMuBZsxGpcPRnpb8hYjr"
-      },
-      "artists": [
-        {
-          "name": "Yola Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/4jYj5iBLdhRzXvEC1f0XGm"
-        }
-      ],
-      "duration_ms": 197946,
-      "name": "Fala S\u00f3",
-      "url": "https://open.spotify.com/track/0GLjhzoxp487M60SXbrdNQ"
-    },
-    {
-      "added_at": "2024-04-25 23:00:00",
-      "album": {
         "name": "Te Amo",
         "url": "https://open.spotify.com/album/3OU2BXNEAWP74xw2FisAvE"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 213948,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/5AAwjKOObk8GPQBv2nPUhy"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
+        "name": "Fala S\u00f3",
+        "url": "https://open.spotify.com/album/2nlMuBZsxGpcPRnpb8hYjr"
+      },
+      "artists": [
+        {
+          "name": "Yola Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/4jYj5iBLdhRzXvEC1f0XGm"
+        }
+      ],
+      "duration_ms": 197946,
+      "name": "Fala S\u00f3",
+      "url": "https://open.spotify.com/track/0GLjhzoxp487M60SXbrdNQ"
     },
     {
       "added_at": "2024-04-25 23:00:00",

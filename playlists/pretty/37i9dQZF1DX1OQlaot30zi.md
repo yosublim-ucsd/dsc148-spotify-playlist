@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Massimo Pericolo, Baby Gang, Tony Boy, ANNA e tanti altri!
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,512 likes - 89 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,564 likes - 89 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 75270,
+  "num_followers": 75268,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,22 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/2ikfoXXectNhLUgpSkS0xL"
+      },
+      "artists": [
+        {
+          "name": "Nick Cunningham",
+          "url": "https://open.spotify.com/artist/61lzv3WIqOcGbgAdI0QqXt"
+        }
+      ],
+      "duration_ms": 226789,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/2EJCqwvgcGQEbqSW3Fa3Pu"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
         "name": "In Our Own Sweet Time",
         "url": "https://open.spotify.com/album/1JDD38K8LBQbCmVw0pZTIK"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 223712,
       "name": "Think About You",
       "url": "https://open.spotify.com/track/767atfZ4xBNA5SiPUGzgxJ"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/2ikfoXXectNhLUgpSkS0xL"
-      },
-      "artists": [
-        {
-          "name": "Nick Cunningham",
-          "url": "https://open.spotify.com/artist/61lzv3WIqOcGbgAdI0QqXt"
-        }
-      ],
-      "duration_ms": 226789,
-      "name": "Letting Go",
-      "url": "https://open.spotify.com/track/2EJCqwvgcGQEbqSW3Fa3Pu"
     },
     {
       "added_at": "2023-11-30 13:00:00",

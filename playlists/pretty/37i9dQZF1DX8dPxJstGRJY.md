@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 
 > Pop classics and show tunes, sung by legendary classical voices\. Cover: Andrea Bocelli
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,282 likes - 51 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,549 likes - 51 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 | 25 | [Carrickfergus](https://open.spotify.com/track/41UC0IpPTszBkTiy5GcFvq) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Charlotte Church](https://open.spotify.com/artist/3P9jdZehQvmAoTrWU1p5zt), [Sian Edwards](https://open.spotify.com/artist/1AEBcVvK0365RWUgw1YfNr), [Ronn Huff](https://open.spotify.com/artist/6K11od2ftoHDnZ2nbyEati) | [Enchantment](https://open.spotify.com/album/1JiT6gr6lHx4Tdsi232CeT) | 4:26 |
 | 26 | [I Rest My Eyes](https://open.spotify.com/track/1Sic4S5VMmHmFi8hWJsF2x) | [Sissel](https://open.spotify.com/artist/2jaOpr7Go1avixlg1lfJOb) | [I Rest My Eyes](https://open.spotify.com/album/3D857PXK7oDv8GAHdRXx9h) | 4:49 |
 | 27 | [Bring Him Home \- From "Les Misérables"](https://open.spotify.com/track/6vb1E9HQ9V0vqxUaiGmgej) | [Alfie Boe](https://open.spotify.com/artist/3g5gwhWAPLq8MyUcUIsA8j), [Danish National Chamber Orchestra](https://open.spotify.com/artist/5tqGSxgUWgnJf09eOwCvEz), [James Morgan](https://open.spotify.com/artist/7mC0zQ4J4cJPNGYFlmiQVC) | [Bring Him Home](https://open.spotify.com/album/50c1kQsjZ7RWsIHvq1wxPl) | 3:40 |
-| 28 | [Amore e Musica](https://open.spotify.com/track/7CLOYF0QFHyQQRENkJDbR8) | [Russell Watson](https://open.spotify.com/artist/2hrfuB0LtVmFZ6MvPMIHTK) | [Amore Musica](https://open.spotify.com/album/6EVHFDafgJHsXAKJMxYn6K) | 3:59 |
+| 28 | [Amore e Musica](https://open.spotify.com/track/7CLOYF0QFHyQQRENkJDbR8) | [Roberto Pacco](https://open.spotify.com/artist/1LiVCo0Eqpbgazox9y538W), [Felice di Salvo](https://open.spotify.com/artist/5ztoFqsZFTBvTw8kjvsAzR), [Russell Watson](https://open.spotify.com/artist/2hrfuB0LtVmFZ6MvPMIHTK), [Simon Hale](https://open.spotify.com/artist/6EkCcTprX3kMkjH5mbhCyh), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Amore Musica](https://open.spotify.com/album/6EVHFDafgJHsXAKJMxYn6K) | 3:59 |
 | 29 | [I Believe in You \(Je crois en toi\)](https://open.spotify.com/track/2x3IkNv39smZqUBmOo7Ors) | [Il Divo](https://open.spotify.com/artist/3KNZ9AOjBajjmr6ZR2VGfl), [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Ancora](https://open.spotify.com/album/79iT83MLmTgVXfW5ZqJZNI) | 4:00 |
 | 30 | [Adagio](https://open.spotify.com/track/1nKTvd5PQrvh9OJ2UuSfMB) | [Laura Bretan](https://open.spotify.com/artist/0Y6f7SArenwsTGRonkDGj0) | [World I See](https://open.spotify.com/album/0CMAg8EvRIOtvSJKZEKFlQ) | 4:08 |
 | 31 | [Slow Down](https://open.spotify.com/track/0fTIXF5GCFMAu44u3aRBTQ) | [Sissel](https://open.spotify.com/artist/2jaOpr7Go1avixlg1lfJOb), [The Tabernacle Choir at Temple Square](https://open.spotify.com/artist/1GRl6sRyLg9ToOohIE2wW5) | [Slow Down](https://open.spotify.com/album/5iRyoCBGxBbuyq69F44uAI) | 5:08 |

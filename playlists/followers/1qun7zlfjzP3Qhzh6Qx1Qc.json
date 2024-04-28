@@ -1,5 +1,5 @@
 {
-  "2024-04-27": 34618,
+  "2024-04-28": 34604,
   "date_first_scraped": "2023-11-08",
   "description": "All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Beyonc\u00e9",
   "name": "Country Smash Hits",
@@ -925,7 +925,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 233666,
       "name": "Growin' Up and Gettin' Old",
       "url": "https://open.spotify.com/track/6DdPacpAdYkxV8MCzsjaXu"
@@ -1026,6 +1026,24 @@
     },
     {
       "album": {
+        "name": "Hey Mom I Made It",
+        "url": "https://open.spotify.com/album/3QjNG5uvzA9wIimwWpDy2c"
+      },
+      "artists": [
+        {
+          "name": "Sacha",
+          "url": "https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169448,
+      "name": "Hey Mom I Made It",
+      "url": "https://open.spotify.com/track/00YB5b2EVOFz0SuNFP2Swv"
+    },
+    {
+      "album": {
         "name": "Hold Your Horses",
         "url": "https://open.spotify.com/album/0egbApJm7p39peGp215L7X"
       },
@@ -1041,6 +1059,28 @@
       "duration_ms": 164750,
       "name": "Hold Your Horses",
       "url": "https://open.spotify.com/track/54zFROMkZLUBUX3p2IjvrA"
+    },
+    {
+      "album": {
+        "name": "How Do You Do That (feat. Charles Kelley)",
+        "url": "https://open.spotify.com/album/1uU9rnfrc4wa8QsvJHpAjB"
+      },
+      "artists": [
+        {
+          "name": "Karley Scott Collins",
+          "url": "https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF"
+        },
+        {
+          "name": "Charles Kelley",
+          "url": "https://open.spotify.com/artist/2Hbxyk7qJ22i8wFEqgM3vC"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194790,
+      "name": "How Do You Do That (feat. Charles Kelley)",
+      "url": "https://open.spotify.com/track/350G4tn3ngrDwIT6B9QNWc"
     },
     {
       "album": {
@@ -1189,6 +1229,42 @@
       "duration_ms": 286040,
       "name": "Little Bit Crazy",
       "url": "https://open.spotify.com/track/0mxbf0VhKWQEJP7EOreW7S"
+    },
+    {
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/3g1OpfiiLhKEn7xF7dWZ5g"
+      },
+      "artists": [
+        {
+          "name": "Scotty McCreery",
+          "url": "https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272346,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/3K4HDY4ZfeacNkydO2AYiO"
+    },
+    {
+      "album": {
+        "name": "Long Yellow Dress",
+        "url": "https://open.spotify.com/album/5cDUm4xijWkKovh69cUL3H"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189770,
+      "name": "Long Yellow Dress",
+      "url": "https://open.spotify.com/track/5LKidZHW0GGEhFjwBHgq1E"
     },
     {
       "album": {
@@ -1341,7 +1417,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 180407,
       "name": "Other Side of 25",
       "url": "https://open.spotify.com/track/58xOX6VOxQw3HEZjtM7C2S"
@@ -1449,7 +1525,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 283161,
       "name": "Rolling Stoned Again",
       "url": "https://open.spotify.com/track/1QC5apn9Ye3gC6z2XkPtYJ"
@@ -1485,7 +1561,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 216226,
       "name": "Rustin' In The Rain",
       "url": "https://open.spotify.com/track/7CYYZVnDYoUtNlSxNNz4P9"
@@ -1637,7 +1713,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 211991,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/2h9qRt8R214yJEBfoPAv3B"
@@ -1713,7 +1789,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-27",
       "duration_ms": 223119,
       "name": "Tennessee Orange",
       "url": "https://open.spotify.com/track/0omYsJn4G901Aag7B0NHMp"
@@ -1846,6 +1922,28 @@
     },
     {
       "album": {
+        "name": "They Don't Know About Us",
+        "url": "https://open.spotify.com/album/0mBpdap0VXDM4PUHUNcLoU"
+      },
+      "artists": [
+        {
+          "name": "Chad Brownlee",
+          "url": "https://open.spotify.com/artist/6k8x9QgjJkEQ1xRIDYa0tU"
+        },
+        {
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/7buSpDfGpMZwpTs45IT9uo"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198720,
+      "name": "They Don't Know About Us",
+      "url": "https://open.spotify.com/track/04m3E83FWXIcXpDvRhSpQg"
+    },
+    {
+      "album": {
         "name": "Thing That Brought Me Here (Truck Song)",
         "url": "https://open.spotify.com/album/4UXNmBNlfYeG1ZtByhi4Em"
       },
@@ -1937,6 +2035,28 @@
       "duration_ms": 219883,
       "name": "To Be A Man (feat. Darius Rucker)",
       "url": "https://open.spotify.com/track/0dXPW8HPmTl4oIGkshXo9F"
+    },
+    {
+      "album": {
+        "name": "Too Late (feat. Anella Herim)",
+        "url": "https://open.spotify.com/album/2wK3RFsbsy7XLg8U0Tah7E"
+      },
+      "artists": [
+        {
+          "name": "David J",
+          "url": "https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo"
+        },
+        {
+          "name": "Anella Herim",
+          "url": "https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175212,
+      "name": "Too Late (feat. Anella Herim)",
+      "url": "https://open.spotify.com/track/27ihDLb0C25Mj1V5zZD9Rj"
     },
     {
       "album": {
