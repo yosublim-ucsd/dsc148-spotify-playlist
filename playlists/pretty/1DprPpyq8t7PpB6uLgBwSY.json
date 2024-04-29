@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "MjEsZGEyOWYyNjMxOGY1ZTYxZWMxN2VmZTUwOTk0MjA4NDMxZmQwMjQyNA==",
+  "snapshot_id": "MjIsZjFhNGNmNmExZGVmNjQ4YTYwZGYxZDgxNTFjZTNkZGEyZjRjZDY1Mg==",
   "tracks": [
     {
       "added_at": "2022-09-07 18:39:54",
@@ -311,6 +311,22 @@
       "duration_ms": 241786,
       "name": "The Calling",
       "url": "https://open.spotify.com/track/1vwEgKpkdY63nX0jrrYj9X"
+    },
+    {
+      "added_at": "2024-04-29 02:30:23",
+      "album": {
+        "name": "Some Hearts",
+        "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 199946,
+      "name": "Before He Cheats",
+      "url": "https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt"
     }
   ],
   "unique_name": "Power Trip",

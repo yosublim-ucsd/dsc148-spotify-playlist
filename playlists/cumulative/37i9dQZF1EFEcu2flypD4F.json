@@ -1830,10 +1830,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 244986,
       "name": "Expertease (Ready Set Go)",
       "url": "https://open.spotify.com/track/549WxwIJahhrSXM1rpNali"
+    },
+    {
+      "album": {
+        "name": "A.K.A. (Deluxe)",
+        "url": "https://open.spotify.com/album/5sgtN5B8rUr6nfUzJ4RRIk"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2024-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244986,
+      "name": "Expertease (Ready Set Go)",
+      "url": "https://open.spotify.com/track/5tpRdQQHr9eKa0tNdTmI64"
     },
     {
       "album": {

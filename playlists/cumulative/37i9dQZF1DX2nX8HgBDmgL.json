@@ -2473,6 +2473,28 @@
     },
     {
       "album": {
+        "name": "Maghron La",
+        "url": "https://open.spotify.com/album/0WwgZENQ2PIRVDqaVNzlSA"
+      },
+      "artists": [
+        {
+          "name": "Sabri Sisters",
+          "url": "https://open.spotify.com/artist/5LBIpDf0NQMSYa6O42d9Mn"
+        },
+        {
+          "name": "Rozeo",
+          "url": "https://open.spotify.com/artist/0mojEh0eM7WmhBI4WBCmE0"
+        }
+      ],
+      "date_added": "2024-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246449,
+      "name": "Maghron La",
+      "url": "https://open.spotify.com/track/6zU7GoGlsJtIUNPRGNl0m8"
+    },
+    {
+      "album": {
         "name": "Qabool Hai (Deluxe)",
         "url": "https://open.spotify.com/album/17n3KkiGt92tJZW0QkdUiW"
       },

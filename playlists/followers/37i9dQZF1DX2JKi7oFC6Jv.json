@@ -1,5 +1,5 @@
 {
-  "2024-04-28": 103212,
+  "2024-04-29": 103217,
   "date_first_scraped": "2022-06-15",
   "description": "The best in UK Funky. Cover: Roska",
   "name": "UK Funky",
@@ -637,7 +637,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 310080,
       "name": "Disposition",
       "url": "https://open.spotify.com/track/76OEFASnlLZEVeolDc1KjU"
@@ -977,7 +977,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 285460,
       "name": "Fuller",
       "url": "https://open.spotify.com/track/0cjqXX58zJv6H7Wq1EliTW"

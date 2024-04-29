@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 
 > Breathe deep, and relax with the softer side of Christian music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,762 likes - 70 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,754 likes - 70 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 | 58 | [Learning to Let You Go](https://open.spotify.com/track/1cAaPTC1aCFsOUFVmfZri3) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Learning to Let You Go](https://open.spotify.com/album/4M7526VytrMjd32RxtGJXy) | 3:31 |
 | 59 | [You Are My Salvation](https://open.spotify.com/track/2GTziTqyy9epimNQqO9Mn4) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Austin Sebek](https://open.spotify.com/artist/1hm6dCjV3emUEfCRgBvdo8) | [You Are My Salvation](https://open.spotify.com/album/5eIxhguVqI4AS3LiTfmvEd) | 3:02 |
 | 60 | [Way Maker \- Acoustic](https://open.spotify.com/track/4mX7EwCwqR6iW2Wl5WzDxG) | [Will Morrison](https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB) | [Way Maker \(Acoustic\)](https://open.spotify.com/album/5KAHkPE1V2eFznIELyRYNX) | 4:13 |
-| 61 | [Revelation Song \- Live](https://open.spotify.com/track/3SmrzlGlewpgvQHNTwrVOp) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db), [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C) | [Revelation Song \(Live\)](https://open.spotify.com/album/0lyBoS6KFAMvkRqxG24UrI) | 4:40 |
-| 62 | [Who is This Jesus?](https://open.spotify.com/track/4dErkQsniqyeTwsei3bCqs) | [Caroline Cobb](https://open.spotify.com/artist/1qjWvtEJlR1dAEAL4A3IOM) | [A King & His Kindness](https://open.spotify.com/album/0IRJOZdtvLrek403fb6Skm) | 4:08 |
-| 63 | [This Is My Father's World](https://open.spotify.com/track/7hJQplsQxxoHC2qzD0Q3S7) | [Ri\-An](https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo), [Rachael Lampa](https://open.spotify.com/artist/5gDmH6DbtzajiPTSuR7L6y) | [This Is My Father's World](https://open.spotify.com/album/3ro1HG56YOlRvFrua1vRPy) | 3:27 |
+| 61 | [This Is My Father's World](https://open.spotify.com/track/7hJQplsQxxoHC2qzD0Q3S7) | [Ri\-An](https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo), [Rachael Lampa](https://open.spotify.com/artist/5gDmH6DbtzajiPTSuR7L6y) | [This Is My Father's World](https://open.spotify.com/album/3ro1HG56YOlRvFrua1vRPy) | 3:27 |
+| 62 | [Revelation Song \- Live](https://open.spotify.com/track/3SmrzlGlewpgvQHNTwrVOp) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db), [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C) | [Revelation Song \(Live\)](https://open.spotify.com/album/0lyBoS6KFAMvkRqxG24UrI) | 4:40 |
+| 63 | [Who is This Jesus?](https://open.spotify.com/track/4dErkQsniqyeTwsei3bCqs) | [Caroline Cobb](https://open.spotify.com/artist/1qjWvtEJlR1dAEAL4A3IOM) | [A King & His Kindness](https://open.spotify.com/album/0IRJOZdtvLrek403fb6Skm) | 4:08 |
 | 64 | [Battle Is the Lord's](https://open.spotify.com/track/2kj7BxMb1pUQOFK2tDE8gi) | [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Battle Is the Lord's](https://open.spotify.com/album/2tuiNFjJyMb9lbhcjz4j6g) | 3:55 |
 | 65 | [Heaven's Eyes](https://open.spotify.com/track/5NT4xU0yoihXlVFK5UqXP9) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [Heaven's Eyes](https://open.spotify.com/album/17togDwr6kxfxkVJZupMJt) | 4:33 |
 | 66 | [Holy, Holy, Holy](https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d) | [Holy, Holy, Holy](https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB) | 2:26 |

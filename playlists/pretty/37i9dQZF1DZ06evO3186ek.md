@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 
 > This is Maverick City Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,612 likes - 50 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,725 likes - 50 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 | 49 | [Mighty One \(feat\. Todd Dulaney, Maryanne J\. George & Mav City Gospel Choir\)](https://open.spotify.com/track/1Ige5heWT74ObjEsIwlJCK) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz), [Maryanne J\. George](https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3), [Mav City Gospel Choir](https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD) | [Jubilee: Juneteenth Edition](https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH) | 6:15 |
 | 50 | [Cómo Te Amamos \(feat\. Karen Espinosa & Johnny Peña\)](https://open.spotify.com/track/10q6abcYrEB5BBQxN0In72) | [Maverick City Musica](https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Karen Espinosa](https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m), [Johnny Peña](https://open.spotify.com/artist/02vFhaWs4QCenZimcS7FTG) | [Simple Adoración](https://open.spotify.com/album/1t1oByVYwJvDm1AI9GXtkk) | 7:42 |
 
-Snapshot ID: `MTcxNDA4OTYwMCwwMDAwMDAwMDg4ZDQxMzMyMzI3Zjk3YWNhMjYzZmI0M2Q3YTQwZjBj`
+Snapshot ID: `MTcxNDE3NjAwMCwwMDAwMDAwMDkwY2FiNzk4YzdkYmI3NGRkYzkzNmE0ZjhmYzBkZTY0`

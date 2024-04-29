@@ -1,5 +1,5 @@
 {
-  "2024-04-28": 37940,
+  "2024-04-29": 37941,
   "date_first_scraped": "2021-12-28",
   "description": "French scene makes some noise!",
   "name": "French Noise",
@@ -1387,7 +1387,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 182008,
       "name": "Fall Away",
       "url": "https://open.spotify.com/track/1CEZOLVOKSAQIxbTDT4g8m"
@@ -3073,7 +3073,7 @@
       ],
       "date_added": "2023-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 189803,
       "name": "Moments",
       "url": "https://open.spotify.com/track/1ANlexfiMuDYl6T6G8o93v"

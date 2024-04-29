@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the romantic side of Ani",
-  "num_followers": 131563,
+  "num_followers": 131594,
   "original_name": "Romantic Anirudh",
   "owner": {
     "name": "Spotify",
@@ -199,30 +199,6 @@
     {
       "added_at": "2021-08-02 09:30:31",
       "album": {
-        "name": "Simba (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0DUTVOWLmclAk3pfhHUwbY"
-      },
-      "artists": [
-        {
-          "name": "Vishal Chandrashekhar",
-          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
-        },
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Teejay",
-          "url": "https://open.spotify.com/artist/0TBQhPUEj1c5PlmTu3Hq5q"
-        }
-      ],
-      "duration_ms": 189105,
-      "name": "Marandhadhae",
-      "url": "https://open.spotify.com/track/6djRqSJNZnkuWYXQWaeCL8"
-    },
-    {
-      "added_at": "2021-08-02 09:30:31",
-      "album": {
         "name": "Kaaki Sattai (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5IWE32AlR5LdGTO2Z01wox"
       },
@@ -275,6 +251,30 @@
       "duration_ms": 205946,
       "name": "Kannazhaga - The Kiss of Love",
       "url": "https://open.spotify.com/track/2MwCoo4GeXpi8soWn9EiPo"
+    },
+    {
+      "added_at": "2021-08-02 09:30:31",
+      "album": {
+        "name": "Simba (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0DUTVOWLmclAk3pfhHUwbY"
+      },
+      "artists": [
+        {
+          "name": "Vishal Chandrashekhar",
+          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
+        },
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Teejay",
+          "url": "https://open.spotify.com/artist/0TBQhPUEj1c5PlmTu3Hq5q"
+        }
+      ],
+      "duration_ms": 189105,
+      "name": "Marandhadhae",
+      "url": "https://open.spotify.com/track/6djRqSJNZnkuWYXQWaeCL8"
     },
     {
       "added_at": "2021-08-02 09:30:31",

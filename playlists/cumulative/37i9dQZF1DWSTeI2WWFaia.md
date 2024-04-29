@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Joyner Lucas
 
-629 songs - 1 day 9 hr 34 min
+630 songs - 1 day 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Buckle Up Freestyle](https://open.spotify.com/track/65qEh62xjgsKVyWH5SbUUG) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [CHOMP 2.5 \(EP\)](https://open.spotify.com/album/5HjOggAz73pO4Q0JBRCL13) | 2:01 | 2023-05-12 | 2023-08-08 |
 | [Buddy A Fool](https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Don't Forget To Breathe](https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0) | 2:34 | 2024-03-29 |  |
 | [Burning Bush](https://open.spotify.com/track/3yDZ1IIFMsNbbe1NIUn53q) | [GRIP](https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP), [Kenny Mason](https://open.spotify.com/artist/5NFQr1KZQS9V6SDSrmU0q3) | [Burning Bush](https://open.spotify.com/album/5YKN83sKhEwwVxCt8UX9kB) | 3:31 | 2021-09-03 | 2022-03-18 |
-| [Burning Desire](https://open.spotify.com/track/2KKrlVEhlXqfrLR1okapHp) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU) | [Burning Desire](https://open.spotify.com/album/0oc3ietmTjMghpRPvszTw9) | 1:48 | 2023-10-13 |  |
+| [Burning Desire](https://open.spotify.com/track/2KKrlVEhlXqfrLR1okapHp) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU) | [Burning Desire](https://open.spotify.com/album/0oc3ietmTjMghpRPvszTw9) | 1:48 | 2023-10-13 | 2024-04-29 |
 | [BUZZCUT \(feat\. Danny Brown\)](https://open.spotify.com/track/3uOIoS7lOvzQAtbbyttHp6) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [BUZZCUT \(feat\. Danny Brown\)](https://open.spotify.com/album/71qxIkZvfyFGQKUe9YA0ry) | 3:21 | 2021-09-03 | 2022-03-18 |
 | [Can U Dig That?](https://open.spotify.com/track/5poLcNswsi0NovepA5xZ7j) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Can U Dig That?](https://open.spotify.com/album/7weNFtwo3U0B0oHp6FPkhy) | 3:14 | 2024-03-29 |  |
 | [Can You Hear Me Now?](https://open.spotify.com/track/7Lg6d8ii0EXRqPLsgVjAaa) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Church Clothes 4: Dry Clean Only](https://open.spotify.com/album/45xopJH4y7YpIHmogMMLD7) | 3:00 | 2023-02-24 | 2023-05-13 |
@@ -335,6 +335,7 @@
 | [LOVE ME 4 ME \(feat\. Blvck Svm\)](https://open.spotify.com/track/3mfb0QoFdmNWQxlFJJdyc1) | [CJ Fly](https://open.spotify.com/artist/41yEdWozNYEzA2RfgYQHgr), [Blvck Svm](https://open.spotify.com/artist/7gwpZPmZHIx4B2uLl6uimj), [Stoic](https://open.spotify.com/artist/2H02v7YOfOLkXv9udKVE4t) | [LOVE ME 4 ME \(feat\. Blvck Svm\)](https://open.spotify.com/album/2lafk0vQGW41NXGvCm0wBa) | 2:40 | 2023-10-06 | 2023-10-14 |
 | [LUMBERJACK](https://open.spotify.com/track/64v1g2HcPumBz2Wd1rT56b) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [LUMBERJACK](https://open.spotify.com/album/4FUZ2K8iROpZzhWjusmH9e) | 2:18 | 2021-09-03 | 2022-02-26 |
 | [MAD](https://open.spotify.com/track/3RIfPynHjfJgChiUX6nDrg) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [MAD](https://open.spotify.com/album/6L0iHM0jM6pvsTZesuHBWO) | 2:46 | 2023-07-28 | 2023-08-05 |
+| [Magic Dust \(feat\. Evidence\)](https://open.spotify.com/track/3V6JhUdxUCx1TzUjH9jCJz) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Oh No](https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T), [Gangrene](https://open.spotify.com/artist/56GO5ViKH7Sg7ihAmFfvwv), [Evidence](https://open.spotify.com/artist/6VfeYClQyVUCPJdXb9jl3O) | [Heads I Win, Tails You Lose](https://open.spotify.com/album/6I4MP7YoLlBWfiQCqjJc4d) | 4:17 | 2024-04-26 |  |
 | [Making The Band \(Danity Kane\)](https://open.spotify.com/track/2VSDVmmjXRy5PTGsbCJJvb) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Making The Band \(Danity Kane\)](https://open.spotify.com/album/4vHbgyJ6Gyt0JPoz75XAJr) | 1:45 | 2023-06-30 | 2023-11-04 |
 | [Mamas PrimeTime](https://open.spotify.com/track/5DBkCzSGttobRr6ApIEd4f) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Cartier A Williams](https://open.spotify.com/artist/2Fsw6Hh9wWybcZPZZEGYPj) | [And Then You Pray For Me](https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU) | 4:59 | 2023-10-13 |  |
 | [Mancala \(feat\. Vince Staples\)](https://open.spotify.com/track/3G2Xq0ZA5nra0iHMjbXOYD) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [VOIR DIRE](https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6) | 2:41 | 2023-10-06 |  |

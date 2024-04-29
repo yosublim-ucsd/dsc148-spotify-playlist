@@ -4,7 +4,7 @@
 
 > Ný tónlist!
 
-106 songs - 5 hr 50 min
+107 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [ADIVINO](https://open.spotify.com/track/0LZy30mVmxqUpdQmaXKXBd) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [ADIVINO](https://open.spotify.com/album/3sRyLQf04m9vm40JNRFiCl) | 4:38 | 2024-04-26 |  |
 | [Ahi](https://open.spotify.com/track/5rVy4OrfXilu9iQE423JO0) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Funk Generation](https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY) | 2:37 | 2024-04-26 |  |
 | [ALIVE](https://open.spotify.com/track/1ORyw3VGzs2mAXZvJCXXIL) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa), [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv), [Huggotron](https://open.spotify.com/artist/33IDYAvs6nPjRgxWdsLFDG) | [ALIVE](https://open.spotify.com/album/3mV9FPpEg0xEb6Hfusy5wx) | 2:09 | 2024-04-26 |  |
+| [Always](https://open.spotify.com/track/00jpx3BTfyLb2OlVrbH78Q) | [Böddi](https://open.spotify.com/artist/7hq5MwVvYGBoDJ3YuzDc6P), [Ingvi Þór Kormáksson](https://open.spotify.com/artist/0UjTW7IRziiJv9ufd3Xlpl) | [Always](https://open.spotify.com/album/0tWAxrCVO4pazxBqI3dEj6) | 3:03 | 2024-04-26 |  |
 | [Arms Around Me](https://open.spotify.com/track/301CeEA0GFGthMXOI3YXbc) | [Moon Shot](https://open.spotify.com/artist/7q6MMOgRRdkw9Xw5xAfQa9) | [The Power](https://open.spotify.com/album/6Rbxgt8xNmnc6xHlXSRxQM) | 4:09 | 2024-04-26 |  |
 | [Backslide](https://open.spotify.com/track/62aSL7D64td5wr09L6iFiV) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Backslide](https://open.spotify.com/album/4bwNLICcbpG5VpFGG1J2pD) | 3:00 | 2024-04-26 |  |
 | [Bad Dream](https://open.spotify.com/track/4G7LYlnVgPWVmjXERE8NnB) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Bad Dream](https://open.spotify.com/album/3Ksfxxd3u2IABEqECQ8UWw) | 3:30 | 2024-04-26 |  |
@@ -84,7 +85,7 @@
 | [ONE](https://open.spotify.com/track/7Dsa5qbNja1h8VOW7DzpYm) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [ONE](https://open.spotify.com/album/64HOiqlY0CKTZpEGL0YXL1) | 2:59 | 2024-04-26 |  |
 | [Out My Head](https://open.spotify.com/track/6ZorLNYsF1KjjV9M2OSxAF) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Out My Head](https://open.spotify.com/album/3MS98RpRmeMZjjffoKUGln) | 2:44 | 2024-04-26 |  |
 | [OUT OF MY HANDS](https://open.spotify.com/track/7i4ltqLigNXp5IkcUCcYEC) | [REX WARREN](https://open.spotify.com/artist/4Iahk5PjiGCjwxg7kSNWjU) | [OUT OF MY HANDS](https://open.spotify.com/album/4QNyKdjigJCaFXmg9ay8sV) | 2:46 | 2024-04-26 |  |
-| [PARAS!TE](https://open.spotify.com/track/0EErE0B3oJVfwnAW1gEbjJ) | [Awake Again](https://open.spotify.com/artist/2dwdtOjnNg7wIZoUpPjY5m) | [A Promise of Better Days](https://open.spotify.com/album/5mTSz82dwm0REGfj4QdJUA) | 3:18 | 2024-04-26 |  |
+| [PARAS!TE](https://open.spotify.com/track/0EErE0B3oJVfwnAW1gEbjJ) | [Awake Again](https://open.spotify.com/artist/2dwdtOjnNg7wIZoUpPjY5m) | [A Promise of Better Days](https://open.spotify.com/album/5mTSz82dwm0REGfj4QdJUA) | 3:18 | 2024-04-26 | 2024-04-29 |
 | [Potential](https://open.spotify.com/track/7D7oIpsm4trbxthAU7JMtB) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Potential](https://open.spotify.com/album/7k0D9VjRqVMbhg0uNMiq3O) | 2:57 | 2024-04-26 |  |
 | [projections](https://open.spotify.com/track/0ler9C55DJbLJsgJprlFis) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [projections](https://open.spotify.com/album/4DNu93MzQ2528TXBVJ0zEt) | 4:20 | 2024-04-26 |  |
 | [Reminded](https://open.spotify.com/track/4ebHQo1dExU3ZhXIa40alP) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [Reminded](https://open.spotify.com/album/2psY8GbynyEElP4GMTQUif) | 3:52 | 2024-04-26 |  |

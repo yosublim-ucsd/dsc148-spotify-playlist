@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Sebasti\u00e1n Yatra, Aitana",
-  "num_followers": 961622,
+  "num_followers": 961645,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-04-25 22:01:00",
       "album": {
-        "name": "Todo cambia",
-        "url": "https://open.spotify.com/album/2rwGnAgqgUU3mYtY5pscXd"
-      },
-      "artists": [
-        {
-          "name": "Dani Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
-        }
-      ],
-      "duration_ms": 210127,
-      "name": "Todo cambia",
-      "url": "https://open.spotify.com/track/0uOxKY91hTmnJOxGPGpJtd"
-    },
-    {
-      "added_at": "2024-04-25 22:01:00",
-      "album": {
         "name": "Tarde",
         "url": "https://open.spotify.com/album/4S33ZpEVs5S2RqcqkM4KGF"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 162181,
       "name": "Tarde",
       "url": "https://open.spotify.com/track/1rGqazNAf6UvmnAC7a5M3B"
+    },
+    {
+      "added_at": "2024-04-25 22:01:00",
+      "album": {
+        "name": "Todo cambia",
+        "url": "https://open.spotify.com/album/2rwGnAgqgUU3mYtY5pscXd"
+      },
+      "artists": [
+        {
+          "name": "Dani Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
+        }
+      ],
+      "duration_ms": 210127,
+      "name": "Todo cambia",
+      "url": "https://open.spotify.com/track/0uOxKY91hTmnJOxGPGpJtd"
     },
     {
       "added_at": "2024-04-25 22:01:00",
@@ -391,26 +391,6 @@
       "duration_ms": 176000,
       "name": "Los Lugares Donde Ir\u00e1s",
       "url": "https://open.spotify.com/track/4p1C7lssRJgOkdpPWlb6s1"
-    },
-    {
-      "added_at": "2024-04-25 22:01:00",
-      "album": {
-        "name": "Bahamas",
-        "url": "https://open.spotify.com/album/2t2TGRu7yTlcXjMbdBZmbS"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        }
-      ],
-      "duration_ms": 223728,
-      "name": "Bahamas",
-      "url": "https://open.spotify.com/track/3BWpv2yBYqreJmcPiHkuVC"
     },
     {
       "added_at": "2024-04-25 22:01:00",
@@ -471,6 +451,26 @@
       "duration_ms": 191414,
       "name": "Falsos Recuerdos",
       "url": "https://open.spotify.com/track/4snJ71Uz5KvX1CW0SaUiZY"
+    },
+    {
+      "added_at": "2024-04-25 22:01:00",
+      "album": {
+        "name": "Bahamas",
+        "url": "https://open.spotify.com/album/2t2TGRu7yTlcXjMbdBZmbS"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 223728,
+      "name": "Bahamas",
+      "url": "https://open.spotify.com/track/3BWpv2yBYqreJmcPiHkuVC"
     },
     {
       "added_at": "2024-04-25 22:01:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-04-25 22:01:00",
       "album": {
+        "name": "Coraz\u00f3n Quemado",
+        "url": "https://open.spotify.com/album/3Z4oiCXucKORyireiaaYev"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "duration_ms": 185473,
+      "name": "Coraz\u00f3n Quemado",
+      "url": "https://open.spotify.com/track/6IGEcJDI3vTApF34vv5OT7"
+    },
+    {
+      "added_at": "2024-04-25 22:01:00",
+      "album": {
         "name": "Te echo de -",
         "url": "https://open.spotify.com/album/2ZidbiN9jxUipofcnQohLN"
       },
@@ -771,6 +787,42 @@
     {
       "added_at": "2024-04-25 22:01:00",
       "album": {
+        "name": "Roma",
+        "url": "https://open.spotify.com/album/4DnvHbATghPcy74q4jdFtR"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 207666,
+      "name": "Roma",
+      "url": "https://open.spotify.com/track/400MKqqBq8rsrKSk2l4bgZ"
+    },
+    {
+      "added_at": "2024-04-25 22:01:00",
+      "album": {
+        "name": "Contacto Cero",
+        "url": "https://open.spotify.com/album/6nVG9HSp1l0DdQkAl1tA10"
+      },
+      "artists": [
+        {
+          "name": "Charlie USG",
+          "url": "https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw"
+        }
+      ],
+      "duration_ms": 180986,
+      "name": "D\u00e9jame t\u00fa",
+      "url": "https://open.spotify.com/track/6DMfrXPB2pFQr4sWLQ8NO1"
+    },
+    {
+      "added_at": "2024-04-25 22:01:00",
+      "album": {
         "name": "GOOD DAY (feat. Camidoh)",
         "url": "https://open.spotify.com/album/3skW3RfH9HhEhkmfLscAwk"
       },
@@ -787,22 +839,6 @@
       "duration_ms": 164765,
       "name": "GOOD DAY (feat. Camidoh)",
       "url": "https://open.spotify.com/track/17EHmaus2XNoMdCIw4bZmf"
-    },
-    {
-      "added_at": "2024-04-25 22:01:00",
-      "album": {
-        "name": "Coraz\u00f3n Quemado",
-        "url": "https://open.spotify.com/album/3Z4oiCXucKORyireiaaYev"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        }
-      ],
-      "duration_ms": 185473,
-      "name": "Coraz\u00f3n Quemado",
-      "url": "https://open.spotify.com/track/6IGEcJDI3vTApF34vv5OT7"
     },
     {
       "added_at": "2024-04-25 22:01:00",
@@ -835,38 +871,6 @@
       "duration_ms": 169894,
       "name": "Astronauta",
       "url": "https://open.spotify.com/track/1J59EJh3hbGZDJD7KfONLz"
-    },
-    {
-      "added_at": "2024-04-25 22:01:00",
-      "album": {
-        "name": "TE TRAJE FLORES",
-        "url": "https://open.spotify.com/album/4TFyBwPFFulgy4cPKfeuxA"
-      },
-      "artists": [
-        {
-          "name": "Enol",
-          "url": "https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O"
-        }
-      ],
-      "duration_ms": 177103,
-      "name": "COMO TE QUIERO YO",
-      "url": "https://open.spotify.com/track/5ElBS8iZQYjScNJCtwLXKO"
-    },
-    {
-      "added_at": "2024-04-25 22:01:00",
-      "album": {
-        "name": "Contacto Cero",
-        "url": "https://open.spotify.com/album/6nVG9HSp1l0DdQkAl1tA10"
-      },
-      "artists": [
-        {
-          "name": "Charlie USG",
-          "url": "https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw"
-        }
-      ],
-      "duration_ms": 180986,
-      "name": "D\u00e9jame t\u00fa",
-      "url": "https://open.spotify.com/track/6DMfrXPB2pFQr4sWLQ8NO1"
     },
     {
       "added_at": "2024-04-25 22:01:00",
@@ -931,6 +935,22 @@
     {
       "added_at": "2024-04-25 22:01:00",
       "album": {
+        "name": "TE TRAJE FLORES",
+        "url": "https://open.spotify.com/album/4TFyBwPFFulgy4cPKfeuxA"
+      },
+      "artists": [
+        {
+          "name": "Enol",
+          "url": "https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O"
+        }
+      ],
+      "duration_ms": 177103,
+      "name": "COMO TE QUIERO YO",
+      "url": "https://open.spotify.com/track/5ElBS8iZQYjScNJCtwLXKO"
+    },
+    {
+      "added_at": "2024-04-25 22:01:00",
+      "album": {
         "name": "Pirata",
         "url": "https://open.spotify.com/album/0qNBlTwJDx8h3gfTSBJzYf"
       },
@@ -943,26 +963,6 @@
       "duration_ms": 193626,
       "name": "Pirata",
       "url": "https://open.spotify.com/track/4QE2lll1AHZw20DOnkGmZD"
-    },
-    {
-      "added_at": "2024-04-25 22:01:00",
-      "album": {
-        "name": "Roma",
-        "url": "https://open.spotify.com/album/4DnvHbATghPcy74q4jdFtR"
-      },
-      "artists": [
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        },
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 207666,
-      "name": "Roma",
-      "url": "https://open.spotify.com/track/400MKqqBq8rsrKSk2l4bgZ"
     },
     {
       "added_at": "2024-04-25 22:01:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-04-25 22:01:00",
       "album": {
-        "name": "PERDIENDO LOS FRENOS",
-        "url": "https://open.spotify.com/album/03P7u1Iic3yaoWSXaNWtXl"
-      },
-      "artists": [
-        {
-          "name": "Marmi",
-          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
-        }
-      ],
-      "duration_ms": 166417,
-      "name": "PERDIENDO LOS FRENOS",
-      "url": "https://open.spotify.com/track/7tHd2KQD9QtCmvD3evlgDx"
-    },
-    {
-      "added_at": "2024-04-25 22:01:00",
-      "album": {
         "name": "\u00daltimo Verano",
         "url": "https://open.spotify.com/album/2p2YybvC7qkeqatcy8Zy1l"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 169877,
       "name": "\u00daltimo Verano",
       "url": "https://open.spotify.com/track/0KTP8GWIao5RGBBu6DyVe9"
+    },
+    {
+      "added_at": "2024-04-25 22:01:00",
+      "album": {
+        "name": "PERDIENDO LOS FRENOS",
+        "url": "https://open.spotify.com/album/03P7u1Iic3yaoWSXaNWtXl"
+      },
+      "artists": [
+        {
+          "name": "Marmi",
+          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
+        }
+      ],
+      "duration_ms": 166417,
+      "name": "PERDIENDO LOS FRENOS",
+      "url": "https://open.spotify.com/track/7tHd2KQD9QtCmvD3evlgDx"
     }
   ],
   "unique_name": "Pop con \u00d1",

@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Joel Embiid
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Jalen Brunson
 
 594 songs - 1 day 6 hr 12 min
 

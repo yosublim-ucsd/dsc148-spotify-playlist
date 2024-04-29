@@ -1,12 +1,12 @@
 {
   "description": "This is Cardi B. The essential tracks, all in one playlist.",
-  "num_followers": 668650,
+  "num_followers": 668631,
   "original_name": "This Is Cardi B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDA4OTYwMCwwMDAwMDAwMDA5OWZiYTMyNDc3N2M4Yjc4MzBkY2IyYjE5N2NlYzFk",
+  "snapshot_id": "MTcxNDE3NjAwMCwwMDAwMDAwMDQwOWRjODliYTAyOTM4ZGVjODA2NWE1NmI5NGQ1ZWFh",
   "tracks": [
     {
       "added_at": null,
@@ -851,30 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Father Of Asahd",
-        "url": "https://open.spotify.com/album/1YgX8BWKleDlDeCOFklRfz"
-      },
-      "artists": [
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 202625,
-      "name": "Wish Wish (feat. Cardi B & 21 Savage)",
-      "url": "https://open.spotify.com/track/1Hd2XLitkt1PYCWSbfF5qV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dinero",
         "url": "https://open.spotify.com/album/1fT1s4VMXc9xGIamDyFz9S"
       },
@@ -895,6 +871,30 @@
       "duration_ms": 213750,
       "name": "Dinero",
       "url": "https://open.spotify.com/track/22mQXNE0nCuWq4yOwcadIn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Father Of Asahd",
+        "url": "https://open.spotify.com/album/1YgX8BWKleDlDeCOFklRfz"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 202625,
+      "name": "Wish Wish (feat. Cardi B & 21 Savage)",
+      "url": "https://open.spotify.com/track/1Hd2XLitkt1PYCWSbfF5qV"
     },
     {
       "added_at": null,

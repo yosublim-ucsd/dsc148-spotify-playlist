@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 
 > Home to current Pakistani Hits\. 🇵🇰 Cover: Umair, JJ47, Talha Anjum, Shamoon Ismail, and Talhah Yunus
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,514 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,558 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

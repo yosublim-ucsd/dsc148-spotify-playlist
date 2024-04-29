@@ -1,5 +1,5 @@
 {
-  "2024-04-28": 68986,
+  "2024-04-29": 69174,
   "date_first_scraped": "2023-08-12",
   "description": "<a href=\"spotify:genre:techno\">techno</a> starter pack",
   "name": "techno party",
@@ -2589,7 +2589,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 227555,
       "name": "Ravarp",
       "url": "https://open.spotify.com/track/0abnHEEma5xkWazffnRpni"
@@ -3089,6 +3089,28 @@
       "duration_ms": 192643,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/0GVQIYb9oqnGfpOLwTSJYZ"
+    },
+    {
+      "album": {
+        "name": "Techno Cobra",
+        "url": "https://open.spotify.com/album/3O6bgVnLyDXX318VWfCQIx"
+      },
+      "artists": [
+        {
+          "name": "Raaban",
+          "url": "https://open.spotify.com/artist/4cSYNpczcvTUpnPMFDLsIc"
+        },
+        {
+          "name": "Jessica Chertock",
+          "url": "https://open.spotify.com/artist/0f4HUyvYUk3alfY1ZLKm8h"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204375,
+      "name": "Techno Cobra",
+      "url": "https://open.spotify.com/track/4rcOr7rrdAN5Q2GnB9nsdQ"
     },
     {
       "album": {

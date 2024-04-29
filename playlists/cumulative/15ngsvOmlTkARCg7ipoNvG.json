@@ -13603,6 +13603,24 @@
     },
     {
       "album": {
+        "name": "Hopeful",
+        "url": "https://open.spotify.com/album/7ozr3fwsZAUtG79zcjGMol"
+      },
+      "artists": [
+        {
+          "name": "Wandering River",
+          "url": "https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK"
+        }
+      ],
+      "date_added": "2024-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60000,
+      "name": "Hopeful",
+      "url": "https://open.spotify.com/track/55ESWvZcBMSFU0R1cwSTDG"
+    },
+    {
+      "album": {
         "name": "Hopeful Days",
         "url": "https://open.spotify.com/album/6Ljq4T0dD2GrdYy3kGz9nt"
       },

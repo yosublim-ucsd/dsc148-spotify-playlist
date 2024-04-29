@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-1,900 songs - 4 day 6 hr 30 min
+1,901 songs - 4 day 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -545,7 +545,7 @@
 | [Encima De Mi](https://open.spotify.com/track/5ul8goxRfS5qh1JBEUbICd) | [filtragvspi](https://open.spotify.com/artist/4dHVl8Dfhcl6eVA1IZRxso), [jere kleinn](https://open.spotify.com/artist/5Teh54XshOsA9VFAysh5KW), [lucky broown](https://open.spotify.com/artist/7EzJFjb21kpWdvzmj5TKte) | [Encima De Mi](https://open.spotify.com/album/1Xj4dSNkUuUzSG8YegWfEf) | 1:55 | 2024-03-04 | 2024-03-11 |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-02-18 |  |
 | [Enigma](https://open.spotify.com/track/1VFTF35B6jkkFAXiNCuoEs) | [Deimi](https://open.spotify.com/artist/0NrygGrqdoAjfoUieqPFmD), [TwinStudios](https://open.spotify.com/artist/568QUEaGvb4nk8WH9k0ozz) | [Enigma](https://open.spotify.com/album/2a7raFyhZQXTJZBqHkhHcO) | 2:46 | 2023-05-03 | 2023-05-06 |
-| [Enrolar](https://open.spotify.com/track/6kINKNCezsxA0wQFxSP2Aa) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Swift 047](https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb) | [Los Rompecorazones, Vol\. 2](https://open.spotify.com/album/12vHml9HiOBynzmSzcg4i1) | 2:47 | 2024-03-19 |  |
+| [Enrolar](https://open.spotify.com/track/6kINKNCezsxA0wQFxSP2Aa) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Swift 047](https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb) | [Los Rompecorazones, Vol\. 2](https://open.spotify.com/album/12vHml9HiOBynzmSzcg4i1) | 2:47 | 2024-03-19 | 2024-04-29 |
 | [Envidia](https://open.spotify.com/track/1yRKuzREhM129Cz5tlVfwP) | [Flyxswn](https://open.spotify.com/artist/31Kni4KBb3Iri2jzrcRrfF) | [Envidia](https://open.spotify.com/album/3ppRhMnjl3OeFsniV5XEfY) | 1:33 | 2024-02-03 | 2024-02-24 |
 | [Envolver](https://open.spotify.com/track/3FkeNbs9Zeiqkr3WkbOiGp) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:13 | 2022-04-15 | 2022-04-23 |
 | [Envuelto en llamas](https://open.spotify.com/track/227rIIbBS7liR5mDRjo783) | [Marta Santos](https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK) | [Envuelto en llamas](https://open.spotify.com/album/5WKpXnbJqJ9FDWAJxO8o8W) | 2:54 | 2022-07-31 | 2022-09-04 |
@@ -750,6 +750,7 @@
 | [HYPNOTIC DATA](https://open.spotify.com/track/26wxtmoH4uPUF1n5VlPxMc) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [XIII SORROWS](https://open.spotify.com/album/7dfODAnexuCQljq6ewTjtB) | 2:08 | 2023-10-15 | 2023-10-20 |
 | [I AM](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:03 | 2023-05-02 | 2023-05-17 |
 | [I am happy](https://open.spotify.com/track/6I8HPcA3003gZgVSH4uGlT) | [Faraón Love Shady](https://open.spotify.com/artist/6b4jozQw0RkUzPOp2tuIEn) | [I am happy](https://open.spotify.com/album/4OpP3ds9cnx886rVjnmAuw) | 2:15 | 2022-04-15 | 2022-04-28 |
+| [I Don't Want To Set The World On Fire](https://open.spotify.com/track/777zXDJpBufzttU4AJ2dGO) | [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [The Anthology](https://open.spotify.com/album/5kP2AlLe5EsHEx6y3HpJjN) | 3:01 | 2024-04-28 |  |
 | [I GOT YOU \(Original\)](https://open.spotify.com/track/4RXsi1oTj3uaqoRC9UrwGA) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I GOT YOU \(Voyage ver.\)](https://open.spotify.com/album/5cnrcbdcdt6BJgAig9Tn3P) | 2:53 | 2024-02-20 | 2024-02-28 |
 | [I Know](https://open.spotify.com/track/2RkMSIqUdveO3p8KVpYBYI) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [I Know](https://open.spotify.com/album/6MxC0Icp2DZi0jbzvD4M8Z) | 2:32 | 2023-04-04 | 2023-04-17 |
 | [I Know \- PR1SVX Edit](https://open.spotify.com/track/3vcLw8QA3yCOkrj9oLSZNs) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [PR1ISVX](https://open.spotify.com/artist/0QdSoQy4EwwOACmhZobTQu) | [I Know \(PR1SVX Edit\)](https://open.spotify.com/album/0U2gygUYvl2y1aPQiQZg1h) | 2:13 | 2023-04-18 | 2023-05-10 |

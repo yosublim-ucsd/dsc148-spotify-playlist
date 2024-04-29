@@ -2,7 +2,7 @@
 
 ### [This Is Sade](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2piM6c)
 
-> This Is Sade\. Los temas esenciales, todos en una lista.
+> This is Sade\. Track\-track unggulan, semuanya dalam satu playlist.
 
 60 songs - 4 hr 33 min
 

@@ -4,7 +4,7 @@
 
 > Welcome to Hypnosismic, a series of Japanese rap battle projects featuring 18 voice actors, each acting out unique anime characters\. 男性声優キャララップバトル、ヒプノシスマイク」公式プレイリスト！© King Record Co., Ltd\. All rights reserved.
 
-231 songs - 1 day 19 hr 11 min
+232 songs - 1 day 19 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Closer](https://open.spotify.com/track/2GCQu1ExGztvJkbFdjDGog) | [ヒプノシスマイク \-D.R.B\- \(神宮寺寂雷\)](https://open.spotify.com/artist/6GLJqeXo7O5WlJFHjCrYDg), [ヒプノシスマイク \-D.R.B\- \(天国 獄\)](https://open.spotify.com/artist/7enXzm6pH9M0rAA7FzdWqP) | [The Block Party \-HOODs\-](https://open.spotify.com/album/3U7LCKh5DUVXSzj9YhiP3z) | 3:45 | 2023-08-22 |  |
 | [Count the money](https://open.spotify.com/track/5vgYAwezefTGRMXv9hpYRn) | [ヒプノシスマイク \-D.R.B\- \(どついたれ本舗\)](https://open.spotify.com/artist/0TzkULUsbQERyIc1LUiqQY), [ヒプノシスマイク \-D.R.B\- \(天谷奴零\)](https://open.spotify.com/artist/3j9cvtcrO6KgtFGnjySeHM) | [どついたれ本舗 \-No double dipping!\-](https://open.spotify.com/album/6t71OfklRhGyuzpTDqCNwx) | 4:03 | 2022-09-01 |  |
 | [CROSS A LINE](https://open.spotify.com/track/2VQOoKbbSVShHdxl6b7S29) | [HYPNOSISMIC \-D.R.B\- \(Division All Stars\)](https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0) | [CROSS A LINE](https://open.spotify.com/album/1wKZxRcU8tUBQZA6YKH9nG) | 5:20 | 2022-06-09 |  |
+| [Cross Dimension](https://open.spotify.com/track/1qH3XZojmYqKdjEwThQsVZ) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN), [ヒプノシスマイク \-D.R.B\- \(Division Leaders\)](https://open.spotify.com/artist/0gQDotNkO2yrl8RXKNmzwb) | [Cross Dimension](https://open.spotify.com/album/4hMp9xacqGGQHB5MTiCtiU) | 4:24 | 2024-04-28 |  |
 | [Crush Your Mic \-Rule the Stage track.3\-](https://open.spotify.com/track/0P4S6pDrMMm0HaueBfVDsn) | [ヒプノシスマイク \-D.R.B\- Rule the Stage \(どついたれ本舗\)](https://open.spotify.com/artist/39FB8hrxBbGguIi7FArS0G), [ヒプノシスマイク \-D.R.B\- Rule the Stage \(Bad Ass Temple\)](https://open.spotify.com/artist/3blPvvBe5meaSJDC5T6cFG), [ヒプノシスマイク \-D.R.B\- Rule the Stage\(大蜘蛛 弾襄\)](https://open.spotify.com/artist/4itAy4LY6EjMIIFwKz5XEv), [ヒプノシスマイク \-D.R.B\- Rule the Stage\(道頓堀ダイバーズ\)](https://open.spotify.com/artist/4DY3P18ucNG2kDOKbhh0Pl) | [Crush Your Mic \-Rule the Stage track.3\-](https://open.spotify.com/album/4nr7RCm1wK73Js8G63wZxk) | 5:20 | 2022-06-09 |  |
 | [DEATH RESPECT](https://open.spotify.com/track/0Lwrc1NXl4jf4ZGdpfDEd0) | [Hypnosis Mic \-D.R.B.\- \(MAD TRIGGER CREW\)](https://open.spotify.com/artist/712hLiKHkzJvum5zikt85g), [Hypnosis Mic \-D.R.B.\- \(Matenrou\)](https://open.spotify.com/artist/3CzMFzHuMzbvcy0qhP0IHQ) | [DEATH RESPECT](https://open.spotify.com/album/3Npdo8OZdMREvwcfQUCq0s) | 4:20 | 2022-06-09 |  |
 | [DEATH RESPECT](https://open.spotify.com/track/4UUlTRKeCgAiVErmyaKsut) | [Hypnosis Mic \-D.R.B.\- \(MAD TRIGGER CREW\)](https://open.spotify.com/artist/712hLiKHkzJvum5zikt85g), [Hypnosis Mic \-D.R.B.\- \(Matenrou\)](https://open.spotify.com/artist/3CzMFzHuMzbvcy0qhP0IHQ) | [MAD TRIGGER CREW VS 麻天狼](https://open.spotify.com/album/3iEo8lSsvHmE5eHMwi5eg1) | 4:20 | 2022-07-14 | 2024-04-19 |

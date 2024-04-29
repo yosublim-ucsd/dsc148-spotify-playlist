@@ -525,6 +525,24 @@
     },
     {
       "album": {
+        "name": "Tudum Remix",
+        "url": "https://open.spotify.com/album/38e5jYSDDCkTEKFYy5IGss"
+      },
+      "artists": [
+        {
+          "name": "Hefty",
+          "url": "https://open.spotify.com/artist/7hOM7jG6GXxugQGe9JN8Kk"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 30304,
+      "name": "Funk da Netflix: onde tudo come\u00e7ou",
+      "url": "https://open.spotify.com/track/04pEkmPO7jLJfRhM9UGQA4"
+    },
+    {
+      "album": {
         "name": "Counterfeit Arcade",
         "url": "https://open.spotify.com/album/3OdykG7E7VoQwsG38E2Bux"
       },

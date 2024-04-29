@@ -4,7 +4,7 @@
 
 > Music wellness for your soul.
 
-297 songs - 15 hr 42 min
+305 songs - 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Appreciation](https://open.spotify.com/track/6nr2mVAdLDUqWvA2BiIkxO) | [Zero Degrees Celsius](https://open.spotify.com/artist/0pAy8zzMlg0dqDqa0Xxx0G) | [New Ports](https://open.spotify.com/album/6av0wF7cwQfoAxh393EqAT) | 3:32 | 2021-12-08 |  |
 | [Arp Of Life](https://open.spotify.com/track/7fP6eS6gtTs0xSAE9LvyEq) | [Bjørg Stigbjørnson](https://open.spotify.com/artist/6XrReT7PSQUBR0LipHQxMn) | [Á Eftir](https://open.spotify.com/album/06COtedhFaIxlBSR2ZEteM) | 3:18 | 2021-12-08 |  |
 | [As Seen In Silver Halide](https://open.spotify.com/track/4lanwDkWGgvJMgrdfomThw) | [Silver Roses](https://open.spotify.com/artist/1D4JTnffy0RUs0yeRKNSUT) | [Jibba](https://open.spotify.com/album/2kB2T6v3qDTxkK1mSxJhsY) | 3:16 | 2021-12-08 |  |
+| [Ascend](https://open.spotify.com/track/5PnkmU4jieDZwUyES85V6X) | [Cokobi](https://open.spotify.com/artist/3PUoyrYPm3P6HQAPEFwdyg) | [Ascend](https://open.spotify.com/album/62lJZHPyChbfdnZmaHi0jU) | 2:22 | 2024-04-29 |  |
 | [Astral](https://open.spotify.com/track/25Eazeq2jR3OAXKVyn5A46) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg), [Skyler Wilson](https://open.spotify.com/artist/2V2FOQ4bEqDyrhGnzLBCr3) | [Astral](https://open.spotify.com/album/5wSkF4kNNzlYaSpbpCXO3o) | 2:27 | 2022-06-24 |  |
 | [Astral Body](https://open.spotify.com/track/17yuGlOR1mCfOOjdu1XmqH) | [Michel Mondrain](https://open.spotify.com/artist/4UwUTmJanOQvwAGmUKkewh) | [Astral Body](https://open.spotify.com/album/7GwWItskLCrgRjyEwbKzhZ) | 3:07 | 2021-12-08 |  |
 | [Atlas](https://open.spotify.com/track/1HNM54pHKFCSEflvDYZwGC) | [Benny Bernstein](https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM) | [Atlas](https://open.spotify.com/album/1TY41tXfNuiL4incf5pFLO) | 2:45 | 2021-12-08 |  |
@@ -37,6 +38,7 @@
 | [Aurora](https://open.spotify.com/track/50FEe1nYGhnjMk4XEkh3HQ) | [Savino Fiorelli](https://open.spotify.com/artist/3UhmIVKpLg4zkoyOTuduU4) | [Aurora](https://open.spotify.com/album/03SWBRDS5HAEMKQCKp1dew) | 2:55 | 2021-12-08 |  |
 | [Awareness of the Call](https://open.spotify.com/track/6xQ26wLRgOWJDi6nrLwzNq) | [August D\. Valentine](https://open.spotify.com/artist/4MJYe0nbmZr7ty64T1VGoN) | [Secret Haven](https://open.spotify.com/album/6VjqiyIPItbntWdMsTH3DB) | 3:51 | 2021-12-08 | 2023-08-12 |
 | [Away](https://open.spotify.com/track/1EVgWgzpE2PWs6BT3qxpKm) | [Eriao](https://open.spotify.com/artist/5liqyeSP9olMkSr5Zvo9YU) | [Away](https://open.spotify.com/album/0GX2UY2tn4q5ms2g6NlGRy) | 2:46 | 2022-06-16 |  |
+| [Barefoot](https://open.spotify.com/track/4C97XW6FKoCdgyXoTgB6bV) | [Don Salfva](https://open.spotify.com/artist/1Qoope6yvhZ1qDZoEGMUdW) | [Barefoot](https://open.spotify.com/album/1voQMtrtjwjSzDq6urVhSV) | 2:59 | 2024-04-29 |  |
 | [Before Sunrise](https://open.spotify.com/track/36ohYATGnjB8KVRhsglPDP) | [Aileen Morais](https://open.spotify.com/artist/6iFtTBfZ2YpYJ8YRQ7eCaf) | [Before Sunrise](https://open.spotify.com/album/43hmIuXmgNrRR39OzMHPpU) | 3:01 | 2021-12-08 |  |
 | [Begynnelse \(Ambient\)](https://open.spotify.com/track/2gWtkNe18gURimJZGJUT66) | [Ester Ackerman](https://open.spotify.com/artist/6SWO4ygLu9suL3HdG0DVFg) | [Begynnelse](https://open.spotify.com/album/7KOigj64SUkLXFyCkSVBlW) | 3:14 | 2023-05-19 |  |
 | [Binaural Emotions](https://open.spotify.com/track/03BMugsFnLx9uV5BKZA1WP) | [Astro Project](https://open.spotify.com/artist/3qKQCiBjuf4iR5T0krtcaG) | [Binaural Emotions](https://open.spotify.com/album/38g1MiG5DyDOnjDxxzwm0c) | 3:26 | 2021-12-08 |  |
@@ -67,6 +69,7 @@
 | [Descent](https://open.spotify.com/track/6kXLNIC0AHVfal6viWKsjn) | [Cloud Phases](https://open.spotify.com/artist/6vhhMlmBRk4UJ1We37tUP1) | [Descent](https://open.spotify.com/album/2yLL0vZElvlke6jWMVCfFV) | 3:16 | 2021-12-08 |  |
 | [Designated Solitude](https://open.spotify.com/track/1KD5sDTDCSj2yPBh3OxQ1i) | [Sight of Wonders](https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD) | [Designated Solitude](https://open.spotify.com/album/1DDlDMpNFef0ksiYQCZ6j4) | 3:03 | 2021-12-08 | 2023-12-05 |
 | [Despina](https://open.spotify.com/track/7gakLWG0iQZ5lCwV3WzfNw) | [Sanem Finley](https://open.spotify.com/artist/6GuH0KuqDKOwuukZmLXZtG) | [Despina](https://open.spotify.com/album/6k65e7fcqNlfrleVeC9Uit) | 3:33 | 2021-12-08 | 2022-03-22 |
+| [Deti Kaltert](https://open.spotify.com/track/28T6PyLSaQRNwpCCA8DAWj) | [Kacallari G](https://open.spotify.com/artist/0WAoP6XTRdVsUcsHcQjm9I) | [Deti Kaltert](https://open.spotify.com/album/1GLIgwQ7LzUJyMym6ILTSb) | 3:32 | 2024-04-29 |  |
 | [Dharana Focus](https://open.spotify.com/track/5OpOdnNT8P4aMvYFsmidPN) | [Yolta](https://open.spotify.com/artist/1FcdysxmyKBfSOyVppN3sw) | [Dharana Focus](https://open.spotify.com/album/3YEErV3yJvdcUS8T1qUwrL) | 2:51 | 2021-12-08 |  |
 | [Different Sides](https://open.spotify.com/track/1BOhxpb7mDYF03nHxd9E1g) | [YON](https://open.spotify.com/artist/2cOdd5qCI4APHYIfwOXges) | [Room In Space](https://open.spotify.com/album/0xruoQGbzb2ttTqOevmAoW) | 3:10 | 2021-12-08 |  |
 | [Distant Oceans](https://open.spotify.com/track/4TbaG2d0oHVSL5WWHr3paT) | [Frieda Walsch](https://open.spotify.com/artist/0Ue0VWmaybjJo2MykZRGCM) | [Distant Oceans](https://open.spotify.com/album/3qXuyU8MWIDQnAyefC0Y80) | 2:18 | 2021-12-22 |  |
@@ -104,6 +107,7 @@
 | [Flucht](https://open.spotify.com/track/2mPQlLpYdr2HFROOunOKH4) | [Elias Dome](https://open.spotify.com/artist/0jrRKY6KdJnLLOmF1FPb6p) | [Flucht](https://open.spotify.com/album/2NNkB8re9TnYdfcRmbv7Fn) | 2:42 | 2022-02-03 |  |
 | [Foliage](https://open.spotify.com/track/0rVFLkB8YWaET3lwNnCsVF) | [Wate Way](https://open.spotify.com/artist/2FlrdMztVZTJ9Df7qeGMvR) | [Foliage](https://open.spotify.com/album/0iHWuRkhVKW1buqJmtCncO) | 2:30 | 2022-12-09 |  |
 | [Following The Seasons](https://open.spotify.com/track/748k8Bk5Nousy75IFv6QQy) | [Aisha Akebono](https://open.spotify.com/artist/1lI0k1BiLHvfJub3QQfe72) | [Following The Seasons](https://open.spotify.com/album/22h16XP7CqXPQAzro1YXcb) | 3:31 | 2022-11-11 |  |
+| [Frames](https://open.spotify.com/track/7oZDgCYMmiO7KtNZqdL7XK) | [Enriched Soil](https://open.spotify.com/artist/6QIvdc5uWqnizXrxLaNF88) | [Frames](https://open.spotify.com/album/0AXyhZMJTNEhvDtreOdrp5) | 2:37 | 2024-04-29 |  |
 | [From Above](https://open.spotify.com/track/3bmicq5CCRnFGlvZY8mQYP) | [Jack Rosslyn](https://open.spotify.com/artist/2NsHKcM4F9lLMEppqZnsM5) | [From Above](https://open.spotify.com/album/7rj2uybb1d4Q3WnjMCtn04) | 2:19 | 2021-12-08 |  |
 | [Frozen Grasslands](https://open.spotify.com/track/2QN55dmp583TNohDVITyfz) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Legend Of Zea](https://open.spotify.com/album/0aovJaJL5ehp9AtwcSJtce) | 2:38 | 2021-12-08 |  |
 | [Gentle Cure](https://open.spotify.com/track/3a4HwrietoocD2toa1Pezg) | [Calma](https://open.spotify.com/artist/0yrywRgSz0i2hZCJHuP3iT) | [Essence](https://open.spotify.com/album/7vCCiQEhbRVYNOCsUraYlI) | 2:54 | 2021-12-08 | 2023-08-12 |
@@ -124,7 +128,9 @@
 | [Horizon](https://open.spotify.com/track/3XRvk5eVsIoAIOlczehBmD) | [Landscapes Of Joy](https://open.spotify.com/artist/0D84atg0DW6sSSakLtQA99) | [Dreaming Of The Horizon](https://open.spotify.com/album/0zeuEYGGSRZjTbZvfKY03z) | 3:34 | 2022-07-27 | 2023-08-12 |
 | [Improved Focus](https://open.spotify.com/track/2I6wgXiYhpwJ5D6P2vKXEA) | [Angelic Planet](https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H) | [Mind Balance](https://open.spotify.com/album/3qZiW4HnOyk7hKLOSRaWdj) | 3:12 | 2022-12-30 |  |
 | [In the Far Away Distance](https://open.spotify.com/track/1oHDNBIxtHai4IcMQ4mJuL) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [In the Far Away Distance](https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS) | 2:56 | 2021-12-08 |  |
+| [Include](https://open.spotify.com/track/0v4OsqxNQmqxaz10teJsWO) | [different spaces](https://open.spotify.com/artist/5TGuPLjK2IVw8eDuJ9oZ1K) | [Include](https://open.spotify.com/album/1Hs4Nl5uMnxyn4skV5EIF5) | 2:57 | 2024-04-29 |  |
 | [Incubations](https://open.spotify.com/track/5SMg4DyfRiY4wflodaMOFH) | [Roland Mercier](https://open.spotify.com/artist/6wCp7aiL9NQ8j2vl6BQAsa) | [Roland Mercier](https://open.spotify.com/album/7FTZ7ArfpJM4DNOkvqPf7q) | 3:09 | 2021-12-08 |  |
+| [Indigo](https://open.spotify.com/track/2s9cI7nUKIzMjzVvRvGZH3) | [Modesty Plains](https://open.spotify.com/artist/6fEjztEvxaryElFpmmlBQW) | [Indigo](https://open.spotify.com/album/13qqsP09fGmk6HoIGdFOKM) | 3:03 | 2024-04-29 |  |
 | [Inner River](https://open.spotify.com/track/2ZHtE6Gdq09hEV4YdKurd5) | [Juliana Stipe](https://open.spotify.com/artist/6PXpkuuJT837QGtcdXSMo3) | [Inner River](https://open.spotify.com/album/25tcfPh3NVHPR7kdPnXL38) | 2:27 | 2023-07-13 |  |
 | [Inombords](https://open.spotify.com/track/683KRaMJTVpf3As7wOyyev) | [Sammet](https://open.spotify.com/artist/6BAZrwUnf2R5WoLpj5iQ42) | [Inombords](https://open.spotify.com/album/1n0u2U39g0LjaYrDwH0rAn) | 3:12 | 2022-10-14 |  |
 | [Intersominus](https://open.spotify.com/track/3kkLz4ZuCRixpc69DUAO5l) | [Antologie](https://open.spotify.com/artist/6T31mMEmlR4YDtVTQtpPyc) | [Intersominus](https://open.spotify.com/album/2odmrCP3a5XqpjtQZgLNka) | 2:40 | 2023-09-15 |  |
@@ -207,6 +213,7 @@
 | [Receding Waves](https://open.spotify.com/track/5nkdxgonAeVjxg8NCptsuj) | [Tales from Jupiter](https://open.spotify.com/artist/0kY9PVjCD1q3Vfhp1Jjzzh) | [Adelaide](https://open.spotify.com/album/0yROHeSwgFi2suADVfGxvT) | 3:46 | 2021-12-08 | 2023-03-25 |
 | [Reflections](https://open.spotify.com/track/3emkA27hwU4zVJoIzi2SLp) | [Minonna](https://open.spotify.com/artist/6mysyQI353vNbwstr6pT1Y) | [Reflections](https://open.spotify.com/album/7n8TXa3WbjkS4vbcD9zqgr) | 3:13 | 2021-12-08 |  |
 | [Relajación espiritual](https://open.spotify.com/track/7kbiF2WwENN3Z5yOZ2X0R2) | [Toga Bali](https://open.spotify.com/artist/0DUOo4Eips5aR2eA4V5Vfb) | [Relajación espiritual](https://open.spotify.com/album/2t4WoPwxh8Us4B2j1iDNQ9) | 3:10 | 2021-12-08 |  |
+| [Relief](https://open.spotify.com/track/6RSWLQaRZRSmEpQqDEW9VS) | [Carlo Cipriani](https://open.spotify.com/artist/5lXIK5LjHj6sjXP3cgP5N1) | [Relief](https://open.spotify.com/album/2N2G20aWW3e8HuXfAtgMBA) | 2:13 | 2024-04-29 |  |
 | [Repouso](https://open.spotify.com/track/41Fp3VZmyloxKUUcWDUrH2) | [Polysomni](https://open.spotify.com/artist/3ULKIOVe2bR3iZF1jFqzMN) | [Repouso](https://open.spotify.com/album/0FOLb3AIWL91ig6CEQu09c) | 3:56 | 2021-12-08 |  |
 | [Resident](https://open.spotify.com/track/1Y38ppiNHGNSO9r4UrbkL0) | [Bridge Dwellers](https://open.spotify.com/artist/2R7EEwkeG8KGbXRqQwC2EB) | [Resident](https://open.spotify.com/album/2CZtvsvYeZHY6djlNQw6dw) | 3:48 | 2021-12-08 |  |
 | [Rho Bootis](https://open.spotify.com/track/4Ug0Y3KIvka9tOYjFeWFD1) | [Donald Beaudoin](https://open.spotify.com/artist/2Z0z4n4ndyWuJVJYoSvlLI) | [Rho Bootis](https://open.spotify.com/album/44mawcpqpOV8ccmVJhzHN9) | 3:15 | 2021-12-08 |  |
@@ -250,6 +257,7 @@
 | [Super Moon](https://open.spotify.com/track/2RhkqYZSsC2MGHvWNf05oa) | [Europa Falls](https://open.spotify.com/artist/3JR6Brrb2Uq8lXcXph5oxz) | [Super Moon](https://open.spotify.com/album/3VsiFFZNCC0bn6vg2gHSGO) | 3:02 | 2023-09-15 |  |
 | [Sway Me Away](https://open.spotify.com/track/5WoT7gc0ZRAFml3B2k7ZlC) | [Joseff Shields](https://open.spotify.com/artist/3k3jeStlJRgFKEWvcbJuy3) | [Sway Me Away](https://open.spotify.com/album/6jrZpHY37Ck2f2X4t0NIKp) | 2:13 | 2022-03-21 |  |
 | [Symmetry](https://open.spotify.com/track/7s1zPhZgciTy2ruEy3JUmb) | [Sea of Waves](https://open.spotify.com/artist/4R8zw6rwLPscyd42vMpMmo) | [Liquid Air](https://open.spotify.com/album/70mPe6QZPnJJmQCok7bxBW) | 3:00 | 2021-12-08 |  |
+| [Tectonics](https://open.spotify.com/track/3rQpD1usQvYGbuhr1GDwCd) | [John Ember](https://open.spotify.com/artist/4qZYpVMezXP5Q1stAYmcOi) | [Tectonics](https://open.spotify.com/album/0JYQJEwCCO7iFBvupFmfua) | 2:38 | 2024-04-29 |  |
 | [Terme di Caracalla](https://open.spotify.com/track/04lDOxJeMbYjkTVx9TbJsb) | [Roma Atmosphere](https://open.spotify.com/artist/3dvGzeKaKr8lkl7gdQUlM8) | [Roma Atmosphere](https://open.spotify.com/album/5j8CZ8WMJoxRfwVAdFJai0) | 3:44 | 2021-12-08 | 2022-07-29 |
 | [Terme di Caracalla](https://open.spotify.com/track/7rPWpqAcS9yArMDgx8GBRu) | [Roma Atmosphere](https://open.spotify.com/artist/3dvGzeKaKr8lkl7gdQUlM8) | [Roma Atmosphere](https://open.spotify.com/album/1C80Aq7DectmhLK5pKAgMc) | 3:44 | 2022-07-27 | 2023-11-17 |
 | [Tetrahedron](https://open.spotify.com/track/10KfNUfrjGsqfLgb5Dvc9d) | [Steven Goldmund](https://open.spotify.com/artist/3dwkO7z23scCJppeqHGTy3) | [Platonic Solids](https://open.spotify.com/album/0D8UJP5cneQe3ij4cA6t9W) | 4:19 | 2021-12-08 | 2023-10-05 |

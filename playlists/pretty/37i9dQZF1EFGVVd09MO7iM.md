@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGVVd09MO7iM.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,311 likes - 405 songs - 1 day 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,312 likes - 405 songs - 1 day 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -174,8 +174,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGVVd09MO7iM.md) - [plain]
 | 164 | [Rockstar](https://open.spotify.com/track/2OQfyddAKv4FyelDJjGNHH) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [In Search Of...](https://open.spotify.com/album/5u8ri4s76Ew14IwGOJf5hI) | 4:19 |
 | 165 | [Rooting for My Baby](https://open.spotify.com/track/1qfAWRJXPBq45Z52a8heKp) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 3:20 |
 | 166 | [Say Somethin'](https://open.spotify.com/track/7HqYOEh2TWUVZD3yXMe0R0) | [Austin Mahone](https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z) | [Say Somethin'](https://open.spotify.com/album/31XVpM1QHNASuVWVBwGMRR) | 2:47 |
-| 167 | [don't stop](https://open.spotify.com/track/4Zz7qwjSgxs9sRnOP2KjHb) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [help](https://open.spotify.com/album/4PcOLASOD0VikPG4yB3bxg) | 2:50 |
-| 168 | [On My Own](https://open.spotify.com/track/68zC6NEny9EG3OuE6npJcr) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 3:52 |
+| 167 | [On My Own](https://open.spotify.com/track/68zC6NEny9EG3OuE6npJcr) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 3:52 |
+| 168 | [don't stop](https://open.spotify.com/track/4Zz7qwjSgxs9sRnOP2KjHb) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [help](https://open.spotify.com/album/4PcOLASOD0VikPG4yB3bxg) | 2:50 |
 | 169 | [Can't Rely on You](https://open.spotify.com/track/0rZarhxMQWpdbgqRpunlWK) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [A Perfect Contradiction \(Outsiders' Expanded Edition\)](https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC) | 3:15 |
 | 170 | [Use Your Heart](https://open.spotify.com/track/1iXtpeHC0i6c7JBrKi3yaq) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [New Beginning](https://open.spotify.com/album/0y9RVnTvpZa3LTlUUaD7l4) | 4:49 |
 | 171 | [What Happened to You?](https://open.spotify.com/track/3U8LpjEbSlUQusIifQ3yBp) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x) | 2:12 |
@@ -402,8 +402,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGVVd09MO7iM.md) - [plain]
 | 392 | [MONEY](https://open.spotify.com/track/5yGSjQrpkqeayvLVywdQtG) | [MALARKEY](https://open.spotify.com/artist/3Wx6i3YgqSGlvxVTS4UsMV) | [MONEY](https://open.spotify.com/album/0ZMZvxj46DfhG7uO9Sv3lG) | 3:27 |
 | 393 | [Minion Mambo](https://open.spotify.com/track/5xa0XnAwF3wIv3XiLf1GdS) | [The Minions](https://open.spotify.com/artist/3NVrWkcHOtmPbMSvgHmijZ) | [Despicable Me](https://open.spotify.com/album/0FcxFAcd4gP2kzHrQ95e1m) | 3:03 |
 | 394 | [BYOB](https://open.spotify.com/track/5DDUcpsmDzDUdFLeOaPW3l) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [The Story of Sonny Boy Slim](https://open.spotify.com/album/5gRwx5vpeXUA75GmuqwByn) | 1:00 |
-| 395 | [Incredible](https://open.spotify.com/track/5ls4hQ8WwqJVs2eFfOyODk) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Hard Candy](https://open.spotify.com/album/1Ms3J8LcSCMH29tG5bSKLu) | 6:19 |
-| 396 | [I Want You To Know](https://open.spotify.com/track/4bZAsC7ftR11pHpRNk2Mhc) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Playing Robots Into Heaven](https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL) | 4:47 |
+| 395 | [I Want You To Know](https://open.spotify.com/track/4bZAsC7ftR11pHpRNk2Mhc) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Playing Robots Into Heaven](https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL) | 4:47 |
+| 396 | [Incredible](https://open.spotify.com/track/5ls4hQ8WwqJVs2eFfOyODk) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Hard Candy](https://open.spotify.com/album/1Ms3J8LcSCMH29tG5bSKLu) | 6:19 |
 | 397 | [Hot Damn \(feat\. Ab\-Liva, Pharrell & Rosco P\. Coldchain\) \- Club Mix](https://open.spotify.com/track/1UK6KFmyZhGtInzD6jN6dH) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Ab\-Liva](https://open.spotify.com/artist/62EHYOwzTJYvqrvy5NXNDF), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Rosco P\. Coldchain](https://open.spotify.com/artist/7yVL74VzpkOiAEv2MVO7w1) | [The Neptunes Present..\. Clones](https://open.spotify.com/album/5pmDcxTVPDS9y8Wl1661DY) | 4:02 |
 | 398 | [In The Morning](https://open.spotify.com/track/2XbOydcq3nhmf495uE2udT) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Kaleidoscope](https://open.spotify.com/album/33viW1sFm3sCCmzs7FZ9MI) | 4:20 |
 | 399 | [Fuck All Nite](https://open.spotify.com/track/3BhB7Ps9xk8vPgzs1Kldce) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Blueprint 2: The Gift & The Curse](https://open.spotify.com/album/5xHStEOG8PsbzNQb7LkxZU) | 4:19 |
@@ -414,4 +414,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGVVd09MO7iM.md) - [plain]
 | 404 | [Ghetto Children](https://open.spotify.com/track/52XCA6ZanL2yEHBmJogIUk) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM), [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi), [Marc Dorsey](https://open.spotify.com/artist/7A9mIAVm7NGceBFJkbb612) | [Kaleidoscope](https://open.spotify.com/album/2QFua4q4idl0jgRavneYZ9) | 4:48 |
 | 405 | [If](https://open.spotify.com/track/68deyvfivX8kzvFfxJ0BdL) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Da Derrty Versions: The Re\-invention](https://open.spotify.com/album/3cSUd7H22DtZzvSUJkBIlM) | 3:38 |
 
-Snapshot ID: `Mjg1NzEyNDIsMDAwMDAwMDA3OTU4YTZmNTViZjY5NzA0OGU5Y2RiZjRiNWVhYTE3ZA==`
+Snapshot ID: `Mjg1NzI3NDAsMDAwMDAwMDBmYjdiYzBlMzQ5ODcwYmU1ZWM2NjViMmE3MTVhMTc1Ng==`

@@ -11244,7 +11244,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 222000,
       "name": "Gata Only",
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
@@ -14618,7 +14618,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 218004,
       "name": "I Can Do It With a Broken Heart",
       "url": "https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy"
@@ -24930,6 +24930,28 @@
       "duration_ms": 161508,
       "name": "Promises",
       "url": "https://open.spotify.com/track/2Tu9lQpK80HlMzGtPhl9CL"
+    },
+    {
+      "album": {
+        "name": "Proposta",
+        "url": "https://open.spotify.com/album/0G7bkUjjFb5v7oex0Oh579"
+      },
+      "artists": [
+        {
+          "name": "MC MTREZE",
+          "url": "https://open.spotify.com/artist/4y3XmUx4eBnI7ztZrY5UPk"
+        },
+        {
+          "name": "DJ DAVI DOGDOG",
+          "url": "https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9"
+        }
+      ],
+      "date_added": "2024-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Proposta",
+      "url": "https://open.spotify.com/track/53Y7PbIs9LsiNfth9iUMgp"
     },
     {
       "album": {
@@ -35524,6 +35546,32 @@
       "duration_ms": 194786,
       "name": "ZITTI E BUONI",
       "url": "https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw"
+    },
+    {
+      "album": {
+        "name": "Zoom",
+        "url": "https://open.spotify.com/album/7l1isxkjhbQbPAvNynfKxH"
+      },
+      "artists": [
+        {
+          "name": "Riff Raff",
+          "url": "https://open.spotify.com/artist/31IZdHrCZ5pRhLz4zBxN3o"
+        },
+        {
+          "name": "RozzayV",
+          "url": "https://open.spotify.com/artist/67SpBAepQt7d5FXCM6g1pY"
+        },
+        {
+          "name": "Pxncho",
+          "url": "https://open.spotify.com/artist/0KM1HR54LKdjHilrXod3K0"
+        }
+      ],
+      "date_added": "2024-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197837,
+      "name": "Zoom",
+      "url": "https://open.spotify.com/track/76mywVcUEd4w3URa4odLbv"
     },
     {
       "album": {

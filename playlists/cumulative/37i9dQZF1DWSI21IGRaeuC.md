@@ -4,7 +4,7 @@
 
 > Dive into the deep end of the tech house spectrum.
 
-318 songs - 1 day 1 hr 52 min
+319 songs - 1 day 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [Rudeboi](https://open.spotify.com/track/4ViEI1gmu2hsyYNPVZnenR) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Rudeboi](https://open.spotify.com/album/2TDe6STKY9g4aZJNAYaHjq) | 3:01 | 2023-11-10 | 2024-04-19 |
 | [Running from the Noise \- Edit](https://open.spotify.com/track/3yqVPlWrzXPvma6zKBHRAb) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Running from the Noise \(Edit\)](https://open.spotify.com/album/13pFQZdGjfcFMnfPyJ7pv1) | 3:10 | 2024-01-19 |  |
 | [Samba Drone \- Paco Osuna Remix](https://open.spotify.com/track/69pq8Gkwg6IeqfyhbgqESi) | [Rony Seikaly](https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB), [Paco Osuna](https://open.spotify.com/artist/6vdIozDDsH4uJEAHN8tyS3) | [Samba Drone](https://open.spotify.com/album/6YXJp70sOxhBtGJ1xjZ0xa) | 7:10 | 2022-07-15 | 2023-11-09 |
+| [San te Crüs](https://open.spotify.com/track/4zgEYzj90KHCb6v3KuI3Dv) | [Spencer Brown](https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK) | [San te Crüs](https://open.spotify.com/album/77EmwiwjhmxfbmWhpVRSfa) | 6:16 | 2024-04-26 |  |
 | [Sativa Jazz \- Detlef Remix](https://open.spotify.com/track/1EZcxkIogFFysvmyxSOZDI) | [Abana](https://open.spotify.com/artist/50IriuukwhBFpJS9WOk2a1), [Detlef](https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI) | [Sativa Jazz \(Detlef Remix\)](https://open.spotify.com/album/1qfo60yjGAwfXQ9CUK1uz2) | 6:02 | 2022-08-12 | 2022-09-05 |
 | [Schwer](https://open.spotify.com/track/4hy6D6HomELGqmQOEYGrPt) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Schwer](https://open.spotify.com/album/7mI1XA20ReNz09JlfJzn10) | 3:34 | 2023-07-14 |  |
 | [Scout](https://open.spotify.com/track/1wvlh0A1mMVAb7Gw2dGV9a) | [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS), [Posij](https://open.spotify.com/artist/7nmucrDZXxIQNGLwCqPQpO) | [Scout](https://open.spotify.com/album/5FMzEjhMgICTx0ynFYbTig) | 3:54 | 2023-08-25 | 2023-12-30 |
@@ -233,7 +234,7 @@
 | [Shake It](https://open.spotify.com/track/72Ri6rmuWUuf10a3Vg6v2X) | [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma), [The Saunderson Brothers](https://open.spotify.com/artist/4yTGUL6IP7JtGmnVUexpQR) | [Shake It](https://open.spotify.com/album/0Bg7QNJQrlWzyXIKuOoV3h) | 3:09 | 2024-02-09 | 2024-03-29 |
 | [Shoot the Shot](https://open.spotify.com/track/6LEd9JLKmViufFYI0JfLDL) | [Eddy M](https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI) | [Shoot the Shot](https://open.spotify.com/album/4zD4CujteqFDt6lpVrTPmT) | 5:59 | 2023-04-07 | 2023-05-24 |
 | [Sin City](https://open.spotify.com/track/2rdMlVRtuImJXZhUHQjjj9) | [Eddy M](https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI) | [Miami MMW](https://open.spotify.com/album/7oNOJ2vYMskdtGToAqloUs) | 5:58 | 2022-06-10 | 2022-07-29 |
-| [Single Kiss](https://open.spotify.com/track/1mSQFLT4CEEdJdtby96FUL) | [Salomé Le Chat](https://open.spotify.com/artist/1ClOAC5th0n8BGUD22KpIV) | [Single Kiss](https://open.spotify.com/album/4la24fDXi6Mvc0HMmHijhf) | 3:52 | 2023-11-24 |  |
+| [Single Kiss](https://open.spotify.com/track/1mSQFLT4CEEdJdtby96FUL) | [Salomé Le Chat](https://open.spotify.com/artist/1ClOAC5th0n8BGUD22KpIV) | [Single Kiss](https://open.spotify.com/album/4la24fDXi6Mvc0HMmHijhf) | 3:52 | 2023-11-24 | 2024-04-29 |
 | [Skyline](https://open.spotify.com/track/5rwiInzM1WFq06CvCr8m1j) | [Alexander Aurel](https://open.spotify.com/artist/6IISWtCeUiNuQ7jnsknnGF) | [Skyline](https://open.spotify.com/album/1AmayXL6NWVTfnapZuoqcr) | 7:40 | 2022-07-29 | 2022-08-18 |
 | [Slim Shady](https://open.spotify.com/track/2ESfTwWgohnkLK1qdWcwrJ) | [Reblok](https://open.spotify.com/artist/42MgQRvz2CdYiI9u46YJNn) | [Slim Shady](https://open.spotify.com/album/4CveQO6BuqOXbUKJboDHaN) | 2:56 | 2023-03-17 | 2023-08-11 |
 | [Slim Shady](https://open.spotify.com/track/4SWHIURgjr6c3B7J7TxorD) | [Reblok](https://open.spotify.com/artist/42MgQRvz2CdYiI9u46YJNn) | [Sublime Tech House, Vol\. 20](https://open.spotify.com/album/1JftMTvxojkM6pe9C1yFAk) | 2:56 | 2023-08-18 | 2024-04-19 |

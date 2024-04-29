@@ -4,7 +4,7 @@
 
 > bøgdebangers du kan spelle i kjerra!
 
-357 songs - 16 hr 25 min
+358 songs - 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Fakk Min X](https://open.spotify.com/track/0lJCvh6IJQ7vedN2zgW9ws) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv), [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Fakk Min X](https://open.spotify.com/album/3cuW2BUGrCXLsK1xGLCVSJ) | 1:51 | 2022-10-15 | 2023-07-18 |
 | [Felleskjøpet\-dress](https://open.spotify.com/track/1yHGoNVtlz20xq2ny8QpxP) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Felleskjøpet\-dress](https://open.spotify.com/album/76O4WYc2C9IpIKepQCHhzj) | 3:12 | 2022-04-21 | 2022-07-29 |
 | [Fjellrypa](https://open.spotify.com/track/6QuPjdfyg00PzmuyHu3NHd) | [Sie Gubba](https://open.spotify.com/artist/7ftlSYcmPae1pZ0q7eaGo6) | [Sånn e livet \- Live 10 år](https://open.spotify.com/album/5ddmdS7xuwOgpsD8FiJHB6) | 4:26 | 2022-03-24 |  |
-| [Flammer og Bensin](https://open.spotify.com/track/6OxAgEwnw2mWW2e3HS7Mkz) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Flammer og Bensin](https://open.spotify.com/album/4gv90AccBv0Awh2ARD1WpK) | 3:32 | 2023-09-21 |  |
+| [Flammer og Bensin](https://open.spotify.com/track/6OxAgEwnw2mWW2e3HS7Mkz) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Flammer og Bensin](https://open.spotify.com/album/4gv90AccBv0Awh2ARD1WpK) | 3:32 | 2023-09-21 | 2024-04-29 |
 | [Flaska](https://open.spotify.com/track/5PIXzeI6g83I0QkD7z7orD) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Flaska](https://open.spotify.com/album/6OI7fl4jpZBEiEGWwTyK9I) | 2:31 | 2021-12-16 | 2023-05-18 |
 | [FRATERNITY](https://open.spotify.com/track/7wcbaD93iX2uIcP1X9oDKq) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ) | [FRATERNITY](https://open.spotify.com/album/6MG2YTCUxJnihyrrFOoA5I) | 2:06 | 2022-08-04 | 2022-09-23 |
 | [FREAKY](https://open.spotify.com/track/0Lk3eSBZOCtRwRqKxLgyqV) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [FREAKY](https://open.spotify.com/album/71wMs4JJP0qtqWwgrhFzDz) | 2:02 | 2024-01-25 |  |
@@ -200,6 +200,7 @@
 | [Kjære Alkohol feat\. Roc Boyz \(Hall of Fame\)](https://open.spotify.com/track/35Wj4BI93AUX20ZIXsKJHy) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv), [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Kjære Alkohol feat\. Roc Boyz \(Hall of Fame\)](https://open.spotify.com/album/6d0YHvx8Sq39C1c2j8kpXy) | 2:00 | 2022-06-02 | 2022-10-14 |
 | [Kjære Kristine](https://open.spotify.com/track/6CYfuolGiwqQqrcQzP62iP) | [Contrazt](https://open.spotify.com/artist/6PF8pPXvzffFLPcbLCgz5M) | [Uten Kart og Kompass](https://open.spotify.com/album/5tW1vD4mltxM5eMCgvXtQC) | 3:57 | 2022-03-24 | 2022-07-25 |
 | [KJØPE HELE SVERIGE](https://open.spotify.com/track/50JIJWXNfJYU2clG8oMoeF) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [KJØPE HELE SVERIGE](https://open.spotify.com/album/0ZgDNxfaVeihCzeTzDQVw6) | 1:57 | 2022-10-15 | 2024-02-09 |
+| [Kjører Som En Bestemor](https://open.spotify.com/track/1V9wDqSJ9GuOKQSx2lOV00) | [Ole Hartz](https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI) | [Kjører Som En Bestemor](https://open.spotify.com/album/61FHg6nwPlTc84cQaGhL8c) | 3:11 | 2024-04-25 |  |
 | [Kjøret Stopper Aldri](https://open.spotify.com/track/6wfSoiPBDeE9MYEIXGjd8o) | [Meland x Hauken](https://open.spotify.com/artist/1lel1kMN3SUvXOtrO2tmfr) | [Graduation 2022](https://open.spotify.com/album/0IxNPToiIjAyJAGezxTbSy) | 2:41 | 2022-06-16 | 2022-07-04 |
 | [Kompis](https://open.spotify.com/track/0S1czUi29BRmzhNHO84EHf) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Kompis](https://open.spotify.com/album/1VzzEbtAMX3anDMFlIWWeE) | 2:41 | 2022-01-27 |  |
 | [Konge på bøgda](https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Konge på bøgda](https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb) | 3:00 | 2022-05-12 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2BZPS5jzzjcyPG7oqRXqMs.md) - [plain]
 
 > Christian Soundtracks \(Movie + TV\) 2024 \| Music from Christian Movies and TV that we all know and love made by <a href="spotify:user:sozoofficial">SOZO Playlists</a> ! Cover: <a href="https://open.spotify.com/playlist/48sh4izdZC5kNNcec80Gec?si=93f6dc9e903b4854">Cast of Journey To Bethlehem</a>
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 12,635 likes - 109 songs - 6 hr 50 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 12,632 likes - 109 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

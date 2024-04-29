@@ -1,5 +1,5 @@
 {
-  "2024-04-28": 139487,
+  "2024-04-29": 139555,
   "date_first_scraped": "2022-01-01",
   "description": "Jazz voices of today. Cover: Samara Joy",
   "name": "Vocal Jazz",
@@ -7302,24 +7302,6 @@
     },
     {
       "album": {
-        "name": "Sayonara Meu Amor",
-        "url": "https://open.spotify.com/album/2fYT8L1AXkcaGFxLUyavIS"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        }
-      ],
-      "date_added": "2024-04-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 415242,
-      "name": "La Chanson de vieux amants",
-      "url": "https://open.spotify.com/track/0qKnv6qXPNNj3Pe4nlKPk3"
-    },
-    {
-      "album": {
         "name": "Sunset In The Blue (Deluxe Version)",
         "url": "https://open.spotify.com/album/3GCdtc3tXTlUbP9y5xBWdz"
       },
@@ -7335,6 +7317,24 @@
       "duration_ms": 415242,
       "name": "La Chanson de vieux amants",
       "url": "https://open.spotify.com/track/4Yy7AuqNVD1Z4eDy1273u3"
+    },
+    {
+      "album": {
+        "name": "Sayonara Meu Amor",
+        "url": "https://open.spotify.com/album/2fYT8L1AXkcaGFxLUyavIS"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415242,
+      "name": "La Chanson des vieux amants",
+      "url": "https://open.spotify.com/track/0qKnv6qXPNNj3Pe4nlKPk3"
     },
     {
       "album": {

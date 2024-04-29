@@ -848,7 +848,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 216755,
       "name": "Chariot",
       "url": "https://open.spotify.com/track/1eOuuW7VHBrIpwQ8drsPQN"
@@ -3958,6 +3958,24 @@
       "duration_ms": 229880,
       "name": "Still I Wait",
       "url": "https://open.spotify.com/track/2PxnTu2sRwHWEU40frBGCo"
+    },
+    {
+      "album": {
+        "name": "Stockholm Syndrome",
+        "url": "https://open.spotify.com/album/7EwDQOoi10XXX5p1FMgYoB"
+      },
+      "artists": [
+        {
+          "name": "Xavier Boyer",
+          "url": "https://open.spotify.com/artist/6UxYOpNlzi6CGqEHhwbvWJ"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171981,
+      "name": "Stockholm Syndrome",
+      "url": "https://open.spotify.com/track/3bRBhUPG11tw4FiSAeSRbL"
     },
     {
       "album": {

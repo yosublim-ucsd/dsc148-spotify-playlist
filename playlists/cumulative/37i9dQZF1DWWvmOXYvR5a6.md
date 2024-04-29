@@ -4,7 +4,7 @@
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: BE'O\(비오\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-691 songs - 1 day 13 hr 26 min
+692 songs - 1 day 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Every Day By Your Side](https://open.spotify.com/track/4ryQrzwKUStXUqKpF47fR0) | [Xbf](https://open.spotify.com/artist/61qs4x1f4a7FfV3Yqr7LW0), [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM), [GARY](https://open.spotify.com/artist/5myBH2YqzOgyWoTKCsydAi) | [Every Day By Your Side](https://open.spotify.com/album/2g07vkQC3BsbCmmELGG5DJ) | 3:14 | 2022-04-21 | 2022-07-27 |
 | [Everything](https://open.spotify.com/track/7uy9pd7vLYQHYWFczj0urj) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Everything](https://open.spotify.com/album/2zpEkut1D2xF0daaWj8lYt) | 3:07 | 2022-11-09 | 2023-03-27 |
 | [Ex](https://open.spotify.com/track/2qYQlzG9kllQLu9RcHPF9L) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [MaRz&B](https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93) | 3:17 | 2022-11-03 | 2022-12-04 |
+| [Excuse](https://open.spotify.com/track/3Kvludm9mx8wPSp0YKzPOz) | [CHANHYUN](https://open.spotify.com/artist/3mVfekn5nIuqNWJCK0u1r9) | [Excuse](https://open.spotify.com/album/7gaaPrwHk3sCo8e8x9wYG5) | 3:22 | 2024-04-28 |  |
 | [EXCUSES](https://open.spotify.com/track/1DjjOCqWe6KBiAPNJHk3RA) | [V1VA](https://open.spotify.com/artist/04rkE835YxRm7UtD4ksItR) | [EXCUSES](https://open.spotify.com/album/5fkOoHN5YIbPZxp5D3NTUF) | 2:38 | 2022-05-30 | 2022-06-20 |
 | [exex \(Feat\. Leebido\)](https://open.spotify.com/track/6oO8VttpwhIxnpf0T0a721) | [MarginChoi](https://open.spotify.com/artist/1jQTEipNOZS8UPk53wxVfB), [kitsyojii](https://open.spotify.com/artist/3X9mQSyCBKAV74OUSf7zLt), [Leebido](https://open.spotify.com/artist/3h0t67IoFBtIdIlu1olytq) | [In Vino Veritas](https://open.spotify.com/album/0Q5omK6kUYCWZho9hspoZd) | 4:25 | 2022-04-01 | 2022-06-30 |
 | [EYE \(Feat\. BIG Naughty, JUSTHIS\) \(Prod\. R.Tee\)](https://open.spotify.com/track/20JkEhlKCrKtzORT5qDdWE) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [SHOW ME THE MONEY 11 Episode 3](https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF) | 3:54 | 2022-12-21 | 2024-04-27 |
@@ -254,7 +255,7 @@
 | [HAWAII \- Remaster](https://open.spotify.com/track/00BUYjfn30RNGvEESffAvs) | [YELLA](https://open.spotify.com/artist/3mY5lOpRpnHu90zikCYuCw) | [21 Colorful \(Remaster\)](https://open.spotify.com/album/53h1Vmb7UNXFVLTVLfo0sP) | 3:19 | 2022-07-14 | 2022-07-18 |
 | [HEAT](https://open.spotify.com/track/4MDdvtd216XIXnewQ0WunH) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [HEAT](https://open.spotify.com/album/3WYkzPgdmVamYYAxR6W4Bk) | 3:13 | 2022-04-21 | 2022-07-28 |
 | [help me out o kill me not](https://open.spotify.com/track/6sdYTTPhLOWVlIg11mgvh7) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [Sir.Robert](https://open.spotify.com/album/528Gdwx8VgE1UucUW8OcuE) | 3:20 | 2024-03-08 | 2024-03-30 |
-| [Hey Boy !](https://open.spotify.com/track/5acMkZJUeNP9NVyvaZEoQ0) | [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [Hey Boy !](https://open.spotify.com/album/3et0pb0CVdufpFGSwzTDf4) | 3:21 | 2024-04-26 |  |
+| [Hey Boy !](https://open.spotify.com/track/5acMkZJUeNP9NVyvaZEoQ0) | [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [Hey Boy !](https://open.spotify.com/album/3et0pb0CVdufpFGSwzTDf4) | 3:21 | 2024-04-26 | 2024-04-29 |
 | [HIT N" RUN](https://open.spotify.com/track/4klhpAWhKZtTO7QOYvZdfA) | [kuzi](https://open.spotify.com/artist/5rLQsLxJ2fFYVqH84xH7Oj) | [Joyrider's Avenue](https://open.spotify.com/album/0VVgt0RedKxHj5upa62Kwn) | 2:52 | 2023-07-17 | 2023-08-17 |
 | [Hitchhike me \(Feat\. Sik\-K\)](https://open.spotify.com/track/1V4hA20IMYlJ383HwyYKFZ) | [vangdale](https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [mojo](https://open.spotify.com/album/2B26gj1V8eKsJ6yPXaZxkE) | 2:43 | 2022-05-11 | 2022-07-05 |
 | [home dance](https://open.spotify.com/track/4Qa5wyZdRc6rFy4nrg89i3) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc) | [wallflower](https://open.spotify.com/album/1vp1KDamSYYyWjhbGzk0vF) | 3:04 | 2022-04-01 | 2022-07-29 |

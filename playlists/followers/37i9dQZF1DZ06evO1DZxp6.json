@@ -1,7 +1,7 @@
 {
-  "2024-04-28": 205852,
+  "2024-04-29": 205899,
   "date_first_scraped": "2023-12-19",
-  "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
+  "description": "This Is Julieta Venegas. Todas as faixas essenciais numa \u00fanica playlist.",
   "name": "This Is Julieta Venegas",
   "tracks": [
     {
@@ -1051,7 +1051,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 207160,
       "name": "Te solt\u00e9 la rienda",
       "url": "https://open.spotify.com/track/28NllT6A5uDaJYJ4HdyFPX"
@@ -1207,6 +1207,28 @@
       "duration_ms": 200906,
       "name": "Tu Nombre - Live",
       "url": "https://open.spotify.com/track/2wLeTXGv4FnvqqkyOKeQW6"
+    },
+    {
+      "album": {
+        "name": "100PRE YORO",
+        "url": "https://open.spotify.com/album/6xOaHqhD9jaJtR3xmFHrzP"
+      },
+      "artists": [
+        {
+          "name": "Lara91k",
+          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "date_added": "2024-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222908,
+      "name": "un d\u00eda",
+      "url": "https://open.spotify.com/track/2znDyj4JlYJL1DayuV4j14"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1DZxp6"

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Judas Priest. Los temas esenciales, todos en una lista.",
-  "num_followers": 164082,
+  "description": "This is Judas Priest. The essential tracks, all in one playlist.",
+  "num_followers": 164123,
   "original_name": "This Is Judas Priest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDA4OTYwMCwwMDAwMDAwMGU2ZTZhMmE3NzllMzJkMzg2ZDU1NjcwMDFkNWIxNTQ3",
+  "snapshot_id": "MTcxNDE3NjAwMCwwMDAwMDAwMGM2ZWIzZjVjZTYyYWVlNWM2NGU1Yjg2NGM3ODQwNjVk",
   "tracks": [
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 381067,
-      "name": "Invincible Shield",
-      "url": "https://open.spotify.com/track/6KxSEVnd0SYtk2QiOAnMIp"
+      "duration_ms": 259747,
+      "name": "The Serpent and the King",
+      "url": "https://open.spotify.com/track/1qX3Aw57OCHcrEoB35nDfr"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 259747,
-      "name": "The Serpent and the King",
-      "url": "https://open.spotify.com/track/1qX3Aw57OCHcrEoB35nDfr"
+      "duration_ms": 381067,
+      "name": "Invincible Shield",
+      "url": "https://open.spotify.com/track/6KxSEVnd0SYtk2QiOAnMIp"
     },
     {
       "added_at": null,

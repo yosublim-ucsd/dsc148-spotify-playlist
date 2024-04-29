@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-1,378 songs - 4 day 0 hr 50 min
+1,379 songs - 4 day 0 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -594,6 +594,7 @@
 | [Insatiable \(Pixel Terror Remix\)](https://open.spotify.com/track/6MvKwzpdwwh0CqJbz6cTRV) | [Silos](https://open.spotify.com/artist/4qKGqODmx9zKc4zCvsr6d9), [Orgy](https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0), [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Insatiable Remixes Vol\. 002](https://open.spotify.com/album/4B6c6biNAJLSY0sFjtU0Uc) | 3:00 | 2024-03-01 | 2024-03-31 |
 | [Insatiable \- BLVCK CROWZ Remix](https://open.spotify.com/track/1Az1YG8U4nuNuNLnfALqas) | [Silos](https://open.spotify.com/artist/4qKGqODmx9zKc4zCvsr6d9), [Orgy](https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB), [BLVCK CROWZ](https://open.spotify.com/artist/6uotnBX5ysB2Y2FIE6FbPg) | [Insatiable Remixes Vol\. 001](https://open.spotify.com/album/71suyBVVP754NLECru0cZo) | 2:49 | 2023-10-06 | 2023-11-05 |
 | [Instrumental \- Live](https://open.spotify.com/track/57sBk0O1e2g6B3KBfjwtkT) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Live In El Paso 1980](https://open.spotify.com/album/7zJYbLiclgvuYGobyv6ZeW) | 4:27 | 2023-09-15 | 2023-09-24 |
+| [International Language](https://open.spotify.com/track/4GjileJ1ECjLv4OoPXK164) | [Piero](https://open.spotify.com/artist/0kavuvnHTeqwjKLV7qPpQm) | [Blue Train](https://open.spotify.com/album/3ThHAriukjvBCs91zisfhN) | 6:00 | 2024-04-26 |  |
 | [Internet \- Interlude](https://open.spotify.com/track/5rGEEmYm3kiRcqT25J6OQK) | [Flannan](https://open.spotify.com/artist/506KEPl3u4syY6p2e3MyEJ), [AK](https://open.spotify.com/artist/7DICBAYiaIMh5MulqwCtET), [Calboy](https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk), [HIM](https://open.spotify.com/artist/5t3ipwHfxFfyAiWCr1Zd46) | [Internet \(Interlude\)](https://open.spotify.com/album/5tUzZcgqafFeeej2q3g0Ch) | 2:16 | 2023-03-03 | 2023-03-11 |
 | [Into the Abyss](https://open.spotify.com/track/51Z20manwIpvx6VU2JEdGw) | [Unearth](https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3) | [Into the Abyss](https://open.spotify.com/album/69fNGvNsEPvOxmHOLhNH1t) | 3:23 | 2023-04-07 | 2023-04-15 |
 | [Into The Fire \- Live At The Royal Albert Hall](https://open.spotify.com/track/0ZVcVOKsMn7sxnmRLGYmsr) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Into The Fire \(Live At The Royal Albert Hall\)](https://open.spotify.com/album/5GtokXLjajgbqIwjM4jK3z) | 4:19 | 2023-09-22 | 2023-10-15 |
@@ -798,7 +799,7 @@
 | [New Messiah](https://open.spotify.com/track/784D068nWk6mUvEXkufPnF) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [New Messiah](https://open.spotify.com/album/3M5G33aqX2jA7ZyaujjAem) | 4:30 | 2023-04-07 | 2023-04-15 |
 | [New Religion](https://open.spotify.com/track/2PKlwU7fwVIvTDxR5eSZlV) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [HOPIUMFORTHEMASSES](https://open.spotify.com/album/04Z322o7T5mwSnFVtUGAaV) | 5:05 | 2024-03-01 | 2024-03-30 |
 | [Niebla](https://open.spotify.com/track/3dpi4ZGA27elKx01mbWSb7) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Niebla](https://open.spotify.com/album/7K0rkFuaN2l85ZMNdnV9UB) | 3:42 | 2024-04-26 |  |
-| [Nikes On My Feet](https://open.spotify.com/track/2Bgw3scjlnWiYonMJEf6FN) | [Piero](https://open.spotify.com/artist/0kavuvnHTeqwjKLV7qPpQm) | [Blue Train](https://open.spotify.com/album/3ThHAriukjvBCs91zisfhN) | 6:08 | 2024-04-26 |  |
+| [Nikes On My Feet](https://open.spotify.com/track/2Bgw3scjlnWiYonMJEf6FN) | [Piero](https://open.spotify.com/artist/0kavuvnHTeqwjKLV7qPpQm) | [Blue Train](https://open.spotify.com/album/3ThHAriukjvBCs91zisfhN) | 6:08 | 2024-04-26 | 2024-04-29 |
 | [Niña de Luna](https://open.spotify.com/track/0ELPxmHPY3hV91LAwF4c7B) | [Saiko](https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry) | [Drama](https://open.spotify.com/album/3ODXBYShxAlpNTKoiWY3Qb) | 4:05 | 2023-11-03 | 2023-11-08 |
 | [Niños de Plástico \- Cover](https://open.spotify.com/track/5j6Y7dpMOqYOPcXPm9rjPd) | [Alejandro Abbattista](https://open.spotify.com/artist/2HkAIZVKbJJyt61zWE9ZZK), [Victor Heredia](https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X) | [Niños de Plástico \(Cover\)](https://open.spotify.com/album/1m4oMUOvb9jwd28xf9Md1S) | 3:51 | 2023-07-07 | 2023-07-30 |
 | [Niñx](https://open.spotify.com/track/0lnuA5TgQErEvDsyujAYsE) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Niñx](https://open.spotify.com/album/7456v3Q9ZExGfIl5r6H8N4) | 3:06 | 2023-05-19 | 2023-06-11 |

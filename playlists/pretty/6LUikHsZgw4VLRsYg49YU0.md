@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/6LUikHsZgw4VLRsYg49YU0.md) - [plain]
 
 > New and classic sounds from the world of Anime featuring the latest tracks from Solo Leveling, Chainsaw Man, Cyberpunk, BLEACH &amp; more!
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 4,150 likes - 103 songs - 6 hr 18 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 4,149 likes - 103 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Viral Hit](https://open.spotify.com/track/5luvvsngp4hbs4vwZGdMjn) | [Yutaka Yamada](https://open.spotify.com/artist/0G8iubd5gKv5vdPnmHRaxT), [Bobby John](https://open.spotify.com/artist/6QI1mcZG5nePp3poiPUYJD) | [Viral Hit \(Original Soundtrack\)](https://open.spotify.com/album/2mfrIRhlfdauSlA4qqK6Ml) | 3:09 |
-| 2 | [The Boy and the Heron: Spinning Globe \- Ending Song \- Piano Version](https://open.spotify.com/track/0WMBjIkMfEgbwBrs8SVJKp) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB), [GabAnime](https://open.spotify.com/artist/3CF7ubKw1qc5TY8avl0huW) | [The Boy and the Heron: Spinning Globe \- Ending Song \(Piano Version\)](https://open.spotify.com/album/687lvAOnLaXNW48uQWj4QT) | 3:23 |
+| 2 | [The Boy and the Heron: Spinning Globe \- Ending Song \- Piano Version](https://open.spotify.com/track/0WMBjIkMfEgbwBrs8SVJKp) | [GabAnime](https://open.spotify.com/artist/3CF7ubKw1qc5TY8avl0huW) | [The Boy and the Heron: Spinning Globe \- Ending Song \(Piano Version\)](https://open.spotify.com/album/687lvAOnLaXNW48uQWj4QT) | 3:23 |
 | 3 | [Dragon Smasher](https://open.spotify.com/track/61CW0S1pvauDA5V8hLzo0n) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [Frieren: Beyond Journey's End \(Original Soundtrack\)](https://open.spotify.com/album/4fgJZhpksYeOUtddVplxWS) | 1:58 |
 | 4 | [Shouted Serenade](https://open.spotify.com/track/4AmsxBuvjbrjytfHMcEoov) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Shouted Serenade](https://open.spotify.com/album/1fd624gxyPygHMcmwhvAdB) | 3:53 |
 | 5 | [次回予告](https://open.spotify.com/track/2bo9W888RRWGTk9AxmxUJs) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [次回予告](https://open.spotify.com/album/4cQOQ6V8xNB6pKPEYCvvg3) | 3:08 |

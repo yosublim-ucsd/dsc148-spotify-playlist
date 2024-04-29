@@ -1,12 +1,12 @@
 {
   "description": "This is Offset. The essential tracks, all in one playlist.",
-  "num_followers": 114183,
+  "num_followers": 114178,
   "original_name": "This Is Offset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDA4OTYwMCwwMDAwMDAwMDQyNTYxNzAyM2NiNzVhNGIyMzQyNjhjZTIxZmEwODg0",
+  "snapshot_id": "MTcxNDE3NjAwMCwwMDAwMDAwMDVhNjQwYzBlY2MxM2UwYmE1MGM4Mjg0MjEyNzdjMzRh",
   "tracks": [
     {
       "added_at": null,
@@ -999,30 +999,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EXIT 9 (with Blxst and Offset)",
-        "url": "https://open.spotify.com/album/3DAkWjDTQOieiModXxLIUl"
-      },
-      "artists": [
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        },
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 210229,
-      "name": "EXIT 9 - with Blxst and Offset",
-      "url": "https://open.spotify.com/track/542Yp18797lywr3zZTG2sC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CODE (feat. Moneybagg Yo)",
         "url": "https://open.spotify.com/album/42jB9RVqk28zOVbbKhSMX1"
       },
@@ -1127,6 +1103,22 @@
       "duration_ms": 166932,
       "name": "Cuffed (Jo Tha Mila) (feat. Offset)",
       "url": "https://open.spotify.com/track/18v9djmHXKSEofyhG9VXwh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FATHER OF 4",
+        "url": "https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 200485,
+      "name": "Don't Lose Me",
+      "url": "https://open.spotify.com/track/71Hr2rAhEI92BSpFYbzNN7"
     }
   ],
   "unique_name": "This Is Offset",

@@ -1,5 +1,5 @@
 {
-  "2024-04-28": 124090,
+  "2024-04-29": 124085,
   "date_first_scraped": "2023-09-26",
   "description": "This Is Mau y Ricky. Los temas esenciales, todos en una lista.",
   "name": "This Is Mau y Ricky",
@@ -447,6 +447,28 @@
       "duration_ms": 190193,
       "name": "Faldita",
       "url": "https://open.spotify.com/track/1R5nCcASgTubHzMx2Ic5UU"
+    },
+    {
+      "album": {
+        "name": "Gran D\u00eda",
+        "url": "https://open.spotify.com/album/7zDXEU4nyXHA193wcfXjfZ"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "date_added": "2024-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193840,
+      "name": "Gran D\u00eda",
+      "url": "https://open.spotify.com/track/31zvQazbahCmdyPanbUWse"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > you can 💋 a hundred boys in bars!!!!  📷 Chappell Roan
 
-2,029 songs - 4 day 6 hr 9 min
+2,030 songs - 4 day 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -597,6 +597,7 @@
 | [FEEL LIKE](https://open.spotify.com/track/0jJGplHmOPpams1xAV2vhg) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [FEEL LIKE](https://open.spotify.com/album/5d1GEm62XJWF5Kgo2ewl9z) | 3:08 | 2021-03-06 | 2021-11-20 |
 | [feel something](https://open.spotify.com/track/7JDWhC422Gtk1Bq0mL3OTC) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [feel something](https://open.spotify.com/album/6qLQLAHnS54MLHY8wxXDX5) | 3:00 | 2021-01-23 | 2021-03-26 |
 | [feelings](https://open.spotify.com/track/7yLfsctj9g0z2NB3v3IGcz) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [feelings](https://open.spotify.com/album/1ScPqJzn6l2a8JdnndMZUV) | 2:20 | 2023-03-03 | 2023-07-01 |
+| [FEMININE RAGE](https://open.spotify.com/track/08iDzwXKP72XYGnjXLSwW2) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [DEAR READER](https://open.spotify.com/album/1JsRmuktjMsrdolUuZ5UMp) | 2:27 | 2024-04-26 |  |
 | [Feverbreak \- Basenji Remix](https://open.spotify.com/track/1nu21EDKSGoLcITwVnxcTL) | [Odette](https://open.spotify.com/artist/1iQVsRr2JalWIOLQa4T7O6), [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u), [Basenji](https://open.spotify.com/artist/4FH1qQ5KcTtomryu4O5pgX) | [Feverbreak \(Basenji Remix\)](https://open.spotify.com/album/7vMFRuXX3UI0JLG77cREuR) | 3:54 | 2021-02-26 | 2021-10-14 |
 | [Figure It Out](https://open.spotify.com/track/5G5qyRHlLmZgy915TBTCkB) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Figure It Out](https://open.spotify.com/album/2Hnlavdkpy4vZhva8VsTfq) | 2:44 | 2021-02-23 | 2022-01-04 |
 | [Figure You Out](https://open.spotify.com/track/2yv7z2i0N0ItdmOHgxTPtW) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [Figure You Out](https://open.spotify.com/album/0Qyf9iXdQCMuzWj2yxZKGZ) | 3:29 | 2023-09-01 |  |
@@ -2013,7 +2014,7 @@
 | [WORTHLESS](https://open.spotify.com/track/26vDr5jgWQoJOTH4Bu3KCQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:43 | 2023-05-05 | 2023-06-03 |
 | [WOW!](https://open.spotify.com/track/2ncvbvkVzRqy2xjvge55r0) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [WOW!](https://open.spotify.com/album/36z6FDQ2tT2GTIoFSPeplG) | 2:52 | 2024-03-22 |  |
 | [WTF](https://open.spotify.com/track/7mYrw8DN9vDg1c5qqpDboC) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [WTF](https://open.spotify.com/album/5LDEHT3uGE4kS5BbbhiPTO) | 3:02 | 2022-03-18 | 2022-04-09 |
-| [Wtf u want.](https://open.spotify.com/track/0pURlXPaj5o9tXRim3kT1a) | [OSTON](https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ) | [Wtf u want.](https://open.spotify.com/album/10sX64KGtxKuFNNskErQkb) | 2:07 | 2024-03-15 |  |
+| [Wtf u want.](https://open.spotify.com/track/0pURlXPaj5o9tXRim3kT1a) | [OSTON](https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ) | [Wtf u want.](https://open.spotify.com/album/10sX64KGtxKuFNNskErQkb) | 2:07 | 2024-03-15 | 2024-04-29 |
 | [X's](https://open.spotify.com/track/0xgXEMA62AEMPSM0inCuLy) | [Georgia Webster](https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl) | [Chapter 1: Things We're Not Saying](https://open.spotify.com/album/1WbnYN5xJRoNCPMQ2Ne0xn) | 2:34 | 2022-09-23 | 2022-10-29 |
 | [Xbox Luvr](https://open.spotify.com/track/23FuLOumEHvyswN9fp6Owy) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Xbox Luvr](https://open.spotify.com/album/5Kv6P3Ln0Q6RvPFZYCzyi2) | 2:56 | 2021-05-03 | 2021-11-19 |
 | [XO](https://open.spotify.com/track/185Q9qHtxrovV2fA09XjAw) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [XO](https://open.spotify.com/album/47kPcIMjftKm7S60GDFAQM) | 3:32 | 2022-06-24 | 2022-09-02 |

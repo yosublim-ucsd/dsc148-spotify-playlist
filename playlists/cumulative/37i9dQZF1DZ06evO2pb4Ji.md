@@ -2,7 +2,7 @@
 
 ### [This Is League of Legends](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2pb4Ji)
 
-> This is League of Legends\. Todos os maiores hits em uma só playlist.
+> This Is League of Legends\. Los temas esenciales, todos en una lista.
 
 58 songs - 3 hr 16 min
 

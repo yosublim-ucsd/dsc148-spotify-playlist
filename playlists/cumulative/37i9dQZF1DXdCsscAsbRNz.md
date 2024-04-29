@@ -4,7 +4,7 @@
 
 > Peaceful instrumentals to help you keep calm.
 
-365 songs - 17 hr 24 min
+370 songs - 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Come Sunday](https://open.spotify.com/track/2nWmbl1imOUXgBDK7vJFzR) | [Martin Fox](https://open.spotify.com/artist/6V7ZjMzGpdbdYCux5JdAyL) | [Come Sunday](https://open.spotify.com/album/0NyDkJAiDVbSRRCNi7aPFq) | 3:01 | 2020-10-20\* |  |
 | [Comtemplating Still](https://open.spotify.com/track/3nq5cRQENEy6gZGwhlpdPz) | [Bree Arnold](https://open.spotify.com/artist/442UEEXcXRGduZmBuiZCwV) | [Comtemplating Still](https://open.spotify.com/album/6nEgQaVsZ4unrb44vrRRZo) | 1:40 | 2020-10-20\* | 2023-07-29 |
 | [Conscience](https://open.spotify.com/track/19ilGQQEukiGNg4XSC5JbN) | [Kotono Tanaka](https://open.spotify.com/artist/2uEVl0y8kXD2i1zFhFt7vT) | [Conscience](https://open.spotify.com/album/2SSgsApJySq0Bjv3mdvTus) | 4:08 | 2020-10-20\* | 2022-04-22 |
+| [Contemplatus](https://open.spotify.com/track/55lztYgUvpb80js2aXWSCt) | [Noah Pegnato](https://open.spotify.com/artist/5ZM2SYl3u1w70wW6pHpg4y) | [Contemplatus](https://open.spotify.com/album/0aFTHZosQxRhsQqsDmdErl) | 2:37 | 2024-04-29 |  |
 | [Corinne](https://open.spotify.com/track/5C7NbwyZvvGVu8wTxzgg8p) | [Free Arrows](https://open.spotify.com/artist/1p11ASxd4v3ZAMkYgMtxOK) | [Corinne](https://open.spotify.com/album/1rZC9cRFPOo0ouBM7fVMSR) | 2:37 | 2022-03-08 |  |
 | [Correlations](https://open.spotify.com/track/5VQ6RUbuDjdMILBdbu2XKT) | [Nahla Cline](https://open.spotify.com/artist/5Q5kLyyxBItFbzCvwWkla1) | [Correlations](https://open.spotify.com/album/2Ubsv78lTeniCvoeO0eBmg) | 2:27 | 2022-11-11 |  |
 | [Cosa Succede Se](https://open.spotify.com/track/00Z7iLsR10x9y00gAZ2Nx3) | [Lucio Francesco](https://open.spotify.com/artist/6SmEyMlUWcw5nzD9YmCCRN) | [Pensieri](https://open.spotify.com/album/12vugt6x4fyG5Uz1enF7zP) | 3:03 | 2020-10-20\* |  |
@@ -79,6 +80,7 @@
 | [Curiosity](https://open.spotify.com/track/3WEdWvAScE1EcBfErseQnC) | [Beau Projet](https://open.spotify.com/artist/5bLGj9jAzmBqGwjB2UbjOC) | [Curiosity](https://open.spotify.com/album/5FbnGcGNWnjufAuOrXss3k) | 2:35 | 2020-10-20\* | 2024-03-27 |
 | [Dakota](https://open.spotify.com/track/7pR7yPgbYcipmTUHT5g68p) | [Sheltered Solitude](https://open.spotify.com/artist/2DsYHbz0OEIGzYynekPLlB) | [Dakota](https://open.spotify.com/album/5bbSb8KsPnMFKrdbDIz6dL) | 2:10 | 2020-10-20\* | 2024-03-27 |
 | [Dark Pjanoo](https://open.spotify.com/track/2gPlTBhtFPZqw44wQjlPVc) | [Thode](https://open.spotify.com/artist/0Tvfn3CX378rFEpnUCAcKY) | [1,2,3 Pjanoo](https://open.spotify.com/album/1WfI8R4Jq6OreOU2kIwltM) | 3:14 | 2020-10-20\* |  |
+| [Dawel](https://open.spotify.com/track/6imPjyaeTkegHqHQCY7pOr) | [Charles Sardo](https://open.spotify.com/artist/7t9MmdQBNxgFACHuBih61V) | [Dawel](https://open.spotify.com/album/2Xkc6rAzSAI1hTfwQb5HHu) | 2:45 | 2024-04-29 |  |
 | [Daydream](https://open.spotify.com/track/0RAubp6u1ePTYC6SgXoWcY) | [IGRAINE](https://open.spotify.com/artist/12J6IQCCPzkgAa28w9sZeb) | [Daydream](https://open.spotify.com/album/6EkjU24XAGODFqayayfIIE) | 2:31 | 2020-10-20\* |  |
 | [Daydreaming](https://open.spotify.com/track/3YLOJL7XiGnWHK8bUySote) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Lucent](https://open.spotify.com/album/3VICx82chKr8SCGA4AsyRg) | 3:20 | 2020-10-20\* |  |
 | [Deep Within](https://open.spotify.com/track/0FaSKlbK9bwEMOOJHNyMLA) | [Subno](https://open.spotify.com/artist/2egCtVwLwVGRY2kwmA0D8K) | [Rivers](https://open.spotify.com/album/4DzK9W49A6txvjZYS77MOc) | 2:05 | 2023-02-09 |  |
@@ -118,6 +120,7 @@
 | [feather](https://open.spotify.com/track/0lFk8GCAu5gbxNCxPGuoOU) | [Matti Aalto](https://open.spotify.com/artist/4nGn3LnoPxjDGpkYY7fW9E) | [at peace](https://open.spotify.com/album/1PvZfkyXrVL9jPs4QioLUw) | 2:50 | 2020-10-20\* |  |
 | [Feathers](https://open.spotify.com/track/5HZAPlw5Ff3ORJrPUdYJb9) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Feathers](https://open.spotify.com/album/2gkSH8Qh6khQjmlZpRxeUw) | 1:43 | 2020-10-20\* | 2023-04-12 |
 | [Feathers](https://open.spotify.com/track/5xxYVFRpVThMwcYtFSfIkr) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Feathers](https://open.spotify.com/album/1t7Bu6Wutbjdp28mBbkSsc) | 1:43 | 2023-03-03 | 2023-07-29 |
+| [Feel](https://open.spotify.com/track/4GwD2eqMnUyyNA4WdsD9AT) | [Ava Mills](https://open.spotify.com/artist/0hddNnCOE55jYZXTVyvEDj) | [Feel](https://open.spotify.com/album/4wgcY2pJnmKsDgbJPnrjWS) | 2:51 | 2024-04-29 |  |
 | [Fermez vos yeux](https://open.spotify.com/track/7fjl8fmaUdRWNstdzGHCeF) | [Matilda Charpie](https://open.spotify.com/artist/5W0bcXKJ4xnO3q0ViObq0N) | [Fermez vos yeux](https://open.spotify.com/album/1uUObEiPqN0i7YzA3MR7RL) | 2:34 | 2020-10-20\* |  |
 | [Filaments In The Dark](https://open.spotify.com/track/6ydoT7msnxWSz7jhMxC539) | [Into A Dream](https://open.spotify.com/artist/4V3QwXoUMFmSF1aJ934nbS) | [The Silent Mind](https://open.spotify.com/album/40YwLU6A5En5HNNUk27z8H) | 3:21 | 2020-10-20\* |  |
 | [Floating Above](https://open.spotify.com/track/3De8Ul1Wq42EKNYkLFrtDt) | [Ethan Beckett](https://open.spotify.com/artist/35PZNZuBewGvF2MycMMNNa) | [Floating Above](https://open.spotify.com/album/0WgUFBjS5f94WSEh98KYJN) | 2:42 | 2024-03-14 |  |
@@ -165,6 +168,7 @@
 | [Infinity](https://open.spotify.com/track/7j0rOyP9heljOUoUuFTr1Z) | [Mind Explorer](https://open.spotify.com/artist/22v0hyVYFwW9gLflr83IF8) | [Infinity](https://open.spotify.com/album/3YPKwO0fyF9cXrmDvrIUtb) | 3:23 | 2020-10-20\* |  |
 | [Interstellare](https://open.spotify.com/track/1E4isOfwYnMGsDWVr3y9ox) | [Luna Novina](https://open.spotify.com/artist/227rzkBWqh9SVDdgzPrw38) | [Interstellare](https://open.spotify.com/album/5fdQZkXP1jZ3CcekEpM2ms) | 2:52 | 2023-10-06 |  |
 | [Into The Light](https://open.spotify.com/track/1qNDx2ajmcECC1mVzJl3oO) | [Vígi Seaghdh](https://open.spotify.com/artist/1fuodmtnFQEX05Pbf3rPBm) | [Into The Light](https://open.spotify.com/album/5losUh2Qx9FbrjcESjo8sE) | 3:24 | 2024-02-16 |  |
+| [Invisible](https://open.spotify.com/track/6aQ6sWhgfxfVOEL1wIsLFA) | [Jeff Birma](https://open.spotify.com/artist/3fxSwAHp7NQsGYVj13iwu6) | [Invisible](https://open.spotify.com/album/2Wwk3drx26O3zV0B9rr7RK) | 3:11 | 2024-04-29 |  |
 | [It Can Wait](https://open.spotify.com/track/1dEGL08epUeUDXNr5qfSSX) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [It Can Wait](https://open.spotify.com/album/3tF55dCt7sfIDY7YefEwre) | 2:52 | 2022-09-13 |  |
 | [Jocelyn](https://open.spotify.com/track/1Vv5St0rzB3054EvkADdQi) | [Lost Wings](https://open.spotify.com/artist/5GneKGEamDH29m9tE0zzwo) | [Jocelyn](https://open.spotify.com/album/4WBRH5wwDwGnIHbuVHA1dO) | 2:26 | 2020-10-20\* |  |
 | [Jokk](https://open.spotify.com/track/3CPAzMHcgaaUt66dYJMveo) | [Fjellet](https://open.spotify.com/artist/4S0x628hBw2YQyh0hCQAf8) | [Jokk](https://open.spotify.com/album/5V3CTeIa4IKNIBpDNU5BjA) | 3:04 | 2022-10-15 |  |
@@ -202,6 +206,7 @@
 | [Muddus](https://open.spotify.com/track/45We1ecGx6GcCNJWiQywxA) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Muddus](https://open.spotify.com/album/2vgJ3w2gKOoKNFe9myNZcO) | 2:08 | 2020-10-20\* |  |
 | [Muer](https://open.spotify.com/track/1InzFeMtTWJIWBIfcvVwMu) | [Emmeline Ralph](https://open.spotify.com/artist/3ETsEsGHY5HlPjh1lxVtG8) | [Muer](https://open.spotify.com/album/3joygzJUq0xtgNkoJMZTk4) | 3:33 | 2020-12-25 |  |
 | [My Paradise](https://open.spotify.com/track/4FqRXEGuyM0YfpdtvecUgv) | [Clay Edwards](https://open.spotify.com/artist/2vmXrZiuBbcPV8K7fBclWC) | [My Paradise](https://open.spotify.com/album/0SBQ7Y3C7ifv590L0K6AQT) | 3:27 | 2020-10-20\* | 2022-02-04 |
+| [Nachtstück](https://open.spotify.com/track/55vWSiVZdcmNACEf1EJSMu) | [Leon Garver](https://open.spotify.com/artist/0KdKg4F51Gw2ILHS3yGiB4) | [Nachtstück](https://open.spotify.com/album/1gk5d3J0eENk75MRzJiZnP) | 2:56 | 2024-04-29 |  |
 | [Natti Natti](https://open.spotify.com/track/59ZXQmhrMnGJuywLKBgIQe) | [Early Still](https://open.spotify.com/artist/1X8eNRUXvH2xbJmounFJcY) | [Four Thoughts](https://open.spotify.com/album/0lHuEa5WgDqEa6nSyl1Bi4) | 2:19 | 2020-10-20\* | 2022-02-04 |
 | [Nattljus](https://open.spotify.com/track/2QrJ8fjauMnKHUkdnghNzB) | [Pontus Josefsson](https://open.spotify.com/artist/1mxPkXiVRRYjy4GHEZQ6Ap) | [Nattljus](https://open.spotify.com/album/0Y1TTUkWznsaNE1GYQc0CX) | 2:34 | 2021-12-22 |  |
 | [Nature Calling](https://open.spotify.com/track/1U5nro2p0IGtHE6kZqt8WG) | [Jonas Holmes](https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl) | [Nature Calling](https://open.spotify.com/album/1IHAC5mZAYnmqlKkfEoH4L) | 1:54 | 2020-10-20\* | 2023-07-29 |

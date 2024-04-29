@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Dos Monos
 
-1,536 songs - 3 day 22 hr 49 min
+1,537 songs - 3 day 22 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1019,7 +1019,7 @@
 | [あの夏のRadio](https://open.spotify.com/track/0TW89yREoPADchLd1okIJ2) | [天童児直](https://open.spotify.com/artist/14X47SyysR5Hhx9g3jG4RG) | [あの夏のRadio](https://open.spotify.com/album/5CpLvAalwyQ9eKN58aiBdl) | 3:53 | 2023-08-30 | 2023-09-06 |
 | [あらわれないで](https://open.spotify.com/track/4J355x8SX4orM1H3tyPBFa) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [あらわれないで](https://open.spotify.com/album/3Of0ZbIf2fr4VTCoy8YNxY) | 3:57 | 2024-01-30 |  |
 | [あるサンセット](https://open.spotify.com/track/6cBCrkEBMDigvkiUosyb66) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [ハロー！グッドモーニング！](https://open.spotify.com/album/46qMP08f2cjRcfkqRLd5UH) | 4:05 | 2024-04-02 |  |
-| [あんしん](https://open.spotify.com/track/02sTGST2qx3lMLkCmXWn6g) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [あんしん](https://open.spotify.com/album/0HA0iTP3cmhSfD2h9MztHO) | 3:24 | 2023-10-31 |  |
+| [あんしん](https://open.spotify.com/track/02sTGST2qx3lMLkCmXWn6g) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [あんしん](https://open.spotify.com/album/0HA0iTP3cmhSfD2h9MztHO) | 3:24 | 2023-10-31 | 2024-04-29 |
 | [あんなつぁ](https://open.spotify.com/track/4uHm18zMsbT9e8vukQUlEd) | [ROMANKAKUMEI](https://open.spotify.com/artist/6jgUFsEBD3a3CW645IVQuN) | [ROMANTIC LOVE](https://open.spotify.com/album/7E0ksEexysVceoijCZfooz) | 5:15 | 2023-03-30 | 2023-08-30 |
 | [いけしゃあしゃあ](https://open.spotify.com/track/4TonR0Lu99AkpVEUXLdNRy) | [Zainichi Funk](https://open.spotify.com/artist/37hqgMV84m06updLlBFhIa) | [いけしゃあしゃあ](https://open.spotify.com/album/54PsZSN7E8UYIWMqOLo4Wp) | 4:14 | 2023-01-12 | 2023-02-01 |
 | [いちごミルク](https://open.spotify.com/track/7Inby7iP2ikZhnfeISXFZO) | [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [いちごミルク](https://open.spotify.com/album/6FLvaoPDHbhvl3bYfLpLa5) | 2:37 | 2023-04-13 | 2023-08-09 |
@@ -1508,6 +1508,7 @@
 | [遠い朝](https://open.spotify.com/track/5KSWrw6dKkVaN4ImVrko9Z) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [遠い朝](https://open.spotify.com/album/22lwuTLvc0LQWA01kat0Fs) | 3:03 | 2023-08-22 | 2024-01-12 |
 | [遠い街](https://open.spotify.com/track/1D2Bn2AInJvhZnkdZhPBW6) | [odol](https://open.spotify.com/artist/1JWciWrGdCTOWeycrjFWpS) | [DISTANCES](https://open.spotify.com/album/6oqE4ErJa0PD0I1xajeA8e) | 3:56 | 2023-11-14 | 2024-01-10 |
 | [遠ざかる犬](https://open.spotify.com/track/1cKHVRusQeLaOAbUjYwQeI) | [浦上想起](https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze) | [遠ざかる犬](https://open.spotify.com/album/0Lcw3UBEpNKe0XAwOaC5Rd) | 4:19 | 2023-01-26 | 2023-03-29 |
+| [遠吠え](https://open.spotify.com/track/2prdYjqksV6R7RHixL7B8s) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk) | [遠吠え](https://open.spotify.com/album/4uL49NHTK5FckkSSZtAMd6) | 4:13 | 2024-04-23 |  |
 | [還 199秒](https://open.spotify.com/track/3qEoaUYxU5p89uA09bfW6k) | [山田大介とRing Ring Lonely Rollss](https://open.spotify.com/artist/0z1ImYLl4HVfTklVjvDsse), [山田大介](https://open.spotify.com/artist/0NFQl5rddRJgRyTLMvThP5), [Ring Ring Lonely Rollss](https://open.spotify.com/artist/7mtPcMITvvo3QVGk4zNyq2) | [還 199秒](https://open.spotify.com/album/0XtqfKDVGYOTsYP06BrRJx) | 3:20 | 2023-12-05 | 2023-12-13 |
 | [都合](https://open.spotify.com/track/1pRvrpVo5ZBvgJ1zyEYkf3) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [映帶する煙](https://open.spotify.com/album/6iTUUUkWUZYfr61Pz3gFGG) | 4:29 | 2023-01-31 | 2023-04-19 |
 | [都合](https://open.spotify.com/track/3hEopKpyeGAf9CoaAAU6D8) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [都合](https://open.spotify.com/album/7IZ3zDRZLZQljv701eNySG) | 4:30 | 2023-01-12 | 2023-01-18 |

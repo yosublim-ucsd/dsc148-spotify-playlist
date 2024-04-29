@@ -1,5 +1,5 @@
 {
-  "2024-04-28": 7707,
+  "2024-04-29": 7710,
   "date_first_scraped": "2023-12-31",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F\">Diane Warren</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Diane Warren",
@@ -6355,8 +6355,20 @@
       },
       "artists": [
         {
+          "name": "Diane Warren",
+          "url": "https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2"
+        },
+        {
           "name": "Russell Watson",
           "url": "https://open.spotify.com/artist/2hrfuB0LtVmFZ6MvPMIHTK"
+        },
+        {
+          "name": "Matt Dunkley",
+          "url": "https://open.spotify.com/artist/44glcpJysgIbUkrbHy152q"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
         }
       ],
       "date_added": "2023-12-30",

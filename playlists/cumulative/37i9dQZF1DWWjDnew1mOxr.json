@@ -1943,6 +1943,24 @@
     },
     {
       "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/4q41CEqg6BbETmU5N7Cp8S"
+      },
+      "artists": [
+        {
+          "name": "The Kites",
+          "url": "https://open.spotify.com/artist/3ozhwCsC7L5vosnIQrX1jy"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/50avOa0LBFsU1nAahTRlMZ"
+    },
+    {
+      "album": {
         "name": "HEY WHAT'S HAPPENIN?",
         "url": "https://open.spotify.com/album/4kyZfTFL1yQG8A4BiOSuHL"
       },
@@ -2372,7 +2390,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 138814,
       "name": "Influencer",
       "url": "https://open.spotify.com/track/7eW7cQ08YgsiizLnJ8wBF7"

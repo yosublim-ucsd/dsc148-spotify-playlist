@@ -1,5 +1,5 @@
 {
-  "2024-04-28": 3089089,
+  "2024-04-29": 3089333,
   "date_first_scraped": "2019-05-26",
   "description": "The biggest songs of the 1960s. Cover: The Beatles\n",
   "name": "All Out 60s",
@@ -1363,7 +1363,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 170626,
       "name": "Beggin'",
       "url": "https://open.spotify.com/track/2S6XOQqWqUBIySUU00vMru"
@@ -13907,6 +13907,24 @@
       "duration_ms": 119826,
       "name": "Unsquare Dance",
       "url": "https://open.spotify.com/track/2jfiDZCg4UjLJEFktdcAV4"
+    },
+    {
+      "album": {
+        "name": "The Band",
+        "url": "https://open.spotify.com/album/4vXFiaDS8zuEl5bOUbW53x"
+      },
+      "artists": [
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270293,
+      "name": "Up On Cripple Creek",
+      "url": "https://open.spotify.com/track/7aTCCNpHJD2Jgv0LLVJb8Y"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-04-28": 1,
+  "2024-04-29": 1,
   "date_first_scraped": "2023-02-09",
   "description": "",
   "name": "main ",
@@ -10353,6 +10353,24 @@
       "duration_ms": 186017,
       "name": "Sorry Bout That",
       "url": "https://open.spotify.com/track/4VHkjPgAis9JNfc1URn7zZ"
+    },
+    {
+      "album": {
+        "name": "ABBA Gold",
+        "url": "https://open.spotify.com/album/2cKZfaz7GiGtZEeQNj1RyR"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "date_added": "2024-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201360,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/5pMmWfuL0FTGshYt7HVJ8P"
     },
     {
       "album": {

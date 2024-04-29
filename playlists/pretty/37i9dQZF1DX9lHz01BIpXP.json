@@ -1,13 +1,33 @@
 {
   "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC?si=0xn0w0l4Ry25AXy2NFJmFQ\">Benjamen</a> ",
-  "num_followers": 1506,
+  "num_followers": 1508,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjI5MDk4MiwwMDAwMDAwMDZkZDAwOTkxYTIwMzEzZTI4Y2YwNTdlYjlmN2IwZWY5",
+  "snapshot_id": "MTcxNDMyMzc2NCwwMDAwMDAwMGU0MWIyNjg0OTA3YzdmOTM4YzVmYTk2ZGQzMmI1MmJi",
   "tracks": [
+    {
+      "added_at": "2024-04-28 17:02:43",
+      "album": {
+        "name": "Nooit Geweet",
+        "url": "https://open.spotify.com/album/1a4nonlQYgzxEG9E5rQRy4"
+      },
+      "artists": [
+        {
+          "name": "Bigbforever",
+          "url": "https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i"
+        },
+        {
+          "name": "Jemaine Julies",
+          "url": "https://open.spotify.com/artist/2RPCXr1hloBKtXRyMfqBRf"
+        }
+      ],
+      "duration_ms": 196702,
+      "name": "Nooit Geweet",
+      "url": "https://open.spotify.com/track/1rHhU7OhbroF5xlVufAy3b"
+    },
     {
       "added_at": "2024-04-05 04:23:02",
       "album": {

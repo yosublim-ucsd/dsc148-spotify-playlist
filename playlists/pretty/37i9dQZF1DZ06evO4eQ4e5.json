@@ -1,12 +1,12 @@
 {
   "description": "This is Edith M\u00e1rquez. The essential tracks, all in one playlist.",
-  "num_followers": 79161,
+  "num_followers": 79182,
   "original_name": "This Is Edith M\u00e1rquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDA4OTYwMCwwMDAwMDAwMDVlNDBhMjZjYjQ2OGU2ZDdkYmUzM2YyM2YzMjQyOThk",
+  "snapshot_id": "MTcxNDE3NjAwMCwwMDAwMDAwMGM2OThjZWMyYzk2YTRjYTg2MjEzMGRjMWM1NTFmZjVl",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/7xjhd52dnCEri7odf6RXgJ"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 223045,
-      "name": "So\u00f1\u00e9 Que Te Perd\u00eda",
-      "url": "https://open.spotify.com/track/0I85ztkPq0B9qgGdLWtGy3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emociones",
         "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 173000,
       "name": "\u00d3diame",
       "url": "https://open.spotify.com/track/1sLFbfGVN4LAnvmGO0RnEP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/7xjhd52dnCEri7odf6RXgJ"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 223045,
+      "name": "So\u00f1\u00e9 Que Te Perd\u00eda",
+      "url": "https://open.spotify.com/track/0I85ztkPq0B9qgGdLWtGy3"
     },
     {
       "added_at": null,

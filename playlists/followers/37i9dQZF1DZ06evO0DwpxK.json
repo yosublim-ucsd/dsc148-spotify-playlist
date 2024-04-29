@@ -1,5 +1,5 @@
 {
-  "2024-04-28": 163603,
+  "2024-04-29": 163917,
   "date_first_scraped": "2023-11-11",
   "description": "This Is Humbe. Los temas esenciales, todos en una lista.",
   "name": "This Is Humbe",
@@ -111,6 +111,28 @@
       "duration_ms": 350852,
       "name": "AURORA",
       "url": "https://open.spotify.com/track/0NHsOitbhh1DJy1b6otZHf"
+    },
+    {
+      "album": {
+        "name": "bestia",
+        "url": "https://open.spotify.com/album/3g7qNB5LqZlkp72mvCXYj6"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        },
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2024-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220638,
+      "name": "bestia",
+      "url": "https://open.spotify.com/track/2HZ5HcjkncmwlEh6dNG5Ra"
     },
     {
       "album": {

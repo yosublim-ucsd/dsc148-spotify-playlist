@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume. Cover:  Ellen Allien",
-  "num_followers": 33962,
+  "num_followers": 33961,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -383,18 +383,18 @@
     {
       "added_at": "2024-04-02 22:00:00",
       "album": {
-        "name": "Her (Unafraid)",
-        "url": "https://open.spotify.com/album/0Q6YFpV525tWaT18vjXdWC"
+        "name": "SASHA (wake up!)",
+        "url": "https://open.spotify.com/album/2RJqFG8kAXrJ8A85ZBYU6B"
       },
       "artists": [
         {
-          "name": "biskuwi",
-          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
+          "name": "UCHE YARA",
+          "url": "https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj"
         }
       ],
-      "duration_ms": 213120,
-      "name": "Her (Unafraid)",
-      "url": "https://open.spotify.com/track/1YRXzUuxmMwP0AakokidBb"
+      "duration_ms": 212507,
+      "name": "SASHA (wake up!)",
+      "url": "https://open.spotify.com/track/1Pi7CA5WPEaiKKuB4J03yd"
     },
     {
       "added_at": "2024-04-02 22:00:00",
@@ -415,18 +415,18 @@
     {
       "added_at": "2024-04-02 22:00:00",
       "album": {
-        "name": "SASHA (wake up!)",
-        "url": "https://open.spotify.com/album/2RJqFG8kAXrJ8A85ZBYU6B"
+        "name": "Her (Unafraid)",
+        "url": "https://open.spotify.com/album/0Q6YFpV525tWaT18vjXdWC"
       },
       "artists": [
         {
-          "name": "UCHE YARA",
-          "url": "https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj"
+          "name": "biskuwi",
+          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
         }
       ],
-      "duration_ms": 212507,
-      "name": "SASHA (wake up!)",
-      "url": "https://open.spotify.com/track/1Pi7CA5WPEaiKKuB4J03yd"
+      "duration_ms": 213120,
+      "name": "Her (Unafraid)",
+      "url": "https://open.spotify.com/track/1YRXzUuxmMwP0AakokidBb"
     },
     {
       "added_at": "2024-04-02 22:00:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-04-02 22:00:00",
       "album": {
-        "name": "zara",
-        "url": "https://open.spotify.com/album/4kHpjLXHGIgiOQmEeUg9a5"
-      },
-      "artists": [
-        {
-          "name": "zara",
-          "url": "https://open.spotify.com/artist/3iFa38c2Ig6kXLVx5Yl1YD"
-        }
-      ],
-      "duration_ms": 99799,
-      "name": "zara",
-      "url": "https://open.spotify.com/track/25DnrdX0juB0RIqw3uxJnZ"
-    },
-    {
-      "added_at": "2024-04-02 22:00:00",
-      "album": {
         "name": "Deine Stra\u00dfe",
         "url": "https://open.spotify.com/album/5bCo4mqyIkUvg7KyrIre0V"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 155492,
       "name": "Deine Stra\u00dfe",
       "url": "https://open.spotify.com/track/585TXTK16mHP1qQv1vFOJE"
+    },
+    {
+      "added_at": "2024-04-02 22:00:00",
+      "album": {
+        "name": "zara",
+        "url": "https://open.spotify.com/album/4kHpjLXHGIgiOQmEeUg9a5"
+      },
+      "artists": [
+        {
+          "name": "zara",
+          "url": "https://open.spotify.com/artist/3iFa38c2Ig6kXLVx5Yl1YD"
+        }
+      ],
+      "duration_ms": 99799,
+      "name": "zara",
+      "url": "https://open.spotify.com/track/25DnrdX0juB0RIqw3uxJnZ"
     },
     {
       "added_at": "2024-04-02 22:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-04-02 22:00:00",
       "album": {
-        "name": "Skirt On Pants",
-        "url": "https://open.spotify.com/album/4ovWAdWdbaaRx3X4SGCFPO"
-      },
-      "artists": [
-        {
-          "name": "K\u00c4SSY",
-          "url": "https://open.spotify.com/artist/6DH0pvj2jRzlp608bX6qe6"
-        }
-      ],
-      "duration_ms": 171978,
-      "name": "Skirt On Pants",
-      "url": "https://open.spotify.com/track/1nUkCpO17PMooe6uRAkGkw"
-    },
-    {
-      "added_at": "2024-04-02 22:00:00",
-      "album": {
         "name": "FBGM",
         "url": "https://open.spotify.com/album/6kkf72bft08zQ1SRjZfgE2"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 182857,
       "name": "FBGM",
       "url": "https://open.spotify.com/track/7yxDtXHBvrL8WLNKGHcDFh"
+    },
+    {
+      "added_at": "2024-04-02 22:00:00",
+      "album": {
+        "name": "Skirt On Pants",
+        "url": "https://open.spotify.com/album/4ovWAdWdbaaRx3X4SGCFPO"
+      },
+      "artists": [
+        {
+          "name": "K\u00c4SSY",
+          "url": "https://open.spotify.com/artist/6DH0pvj2jRzlp608bX6qe6"
+        }
+      ],
+      "duration_ms": 171978,
+      "name": "Skirt On Pants",
+      "url": "https://open.spotify.com/track/1nUkCpO17PMooe6uRAkGkw"
     },
     {
       "added_at": "2024-04-02 22:00:00",

@@ -1,5 +1,5 @@
 {
-  "2024-04-28": 376123,
+  "2024-04-29": 376217,
   "date_first_scraped": "2021-12-21",
   "description": "This is the best of ska, new and classic. Cover: La Floripondio",
   "name": "The Essential Ska",
@@ -1553,7 +1553,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 209594,
       "name": "Good Times",
       "url": "https://open.spotify.com/track/7GcBhU9KW2cdxWQ39VY0Ri"
@@ -1593,7 +1593,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 202946,
       "name": "Green Eyes",
       "url": "https://open.spotify.com/track/1XonzSDpxC7AIkxSKWsNFY"

@@ -1,5 +1,5 @@
 {
-  "2024-04-28": 41605,
+  "2024-04-29": 41604,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Iceland.",
   "name": "Top 50 - Iceland",
@@ -9517,7 +9517,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 181208,
       "name": "Fallegi L\u00faserinn Minn",
       "url": "https://open.spotify.com/track/4gQKWsUKJbjiu7jaT1mt4m"
@@ -11245,7 +11245,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 222000,
       "name": "Gata Only",
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
@@ -14619,7 +14619,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 218004,
       "name": "I Can Do It With a Broken Heart",
       "url": "https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy"
@@ -22383,7 +22383,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 182090,
       "name": "N\u00f3ttin l\u00e6\u00f0ist inn",
       "url": "https://open.spotify.com/track/5TBNZCGMR1NJtJrrg606m0"
@@ -28114,6 +28114,24 @@
     },
     {
       "album": {
+        "name": "SM Girls",
+        "url": "https://open.spotify.com/album/3NrDb5c4sUWnoAX4GffLjr"
+      },
+      "artists": [
+        {
+          "name": "Kgold",
+          "url": "https://open.spotify.com/artist/275BW7Q38c9KymYgGfXtdf"
+        }
+      ],
+      "date_added": "2024-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147878,
+      "name": "SM Girls",
+      "url": "https://open.spotify.com/track/4rdLz2d0qVNA51tt61reBM"
+    },
+    {
+      "album": {
         "name": "Smokin Out The Window",
         "url": "https://open.spotify.com/album/3BBsMXl00IfMxO7LCpYFU8"
       },
@@ -30358,6 +30376,24 @@
     },
     {
       "album": {
+        "name": "S\u00e1rum",
+        "url": "https://open.spotify.com/album/7vXcvqMfSsMxjWMFKiSH2R"
+      },
+      "artists": [
+        {
+          "name": "Floni",
+          "url": "https://open.spotify.com/artist/3hvKmeo12OU7ai8Mpgraf7"
+        }
+      ],
+      "date_added": "2024-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180986,
+      "name": "S\u00e1rum",
+      "url": "https://open.spotify.com/track/1gBpc1wAIScQVBX4NBkt2b"
+    },
+    {
+      "album": {
         "name": "Stj\u00f6rnul\u00edfi\u00f0",
         "url": "https://open.spotify.com/album/0jEfYrVeezQTikNmZTHzQE"
       },
@@ -30535,7 +30571,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 99752,
       "name": "S\u00f3lskin",
       "url": "https://open.spotify.com/track/3LP5YM7IMwmffWXPE1VBf1"
@@ -37055,7 +37091,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 135325,
       "name": "\u00de\u00fa ert",
       "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"

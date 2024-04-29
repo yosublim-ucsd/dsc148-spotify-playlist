@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,945 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,052 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 37 | [A Cerveja Abre Sozinha \- Ao Vivo](https://open.spotify.com/track/4jbTB2Kj4CrZCjngkQUQS2) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Fortaleza, Vol.2 \(Ao Vivo\)](https://open.spotify.com/album/6t2JyS8CJ0pgBMabJhXWGK) | 2:27 |
 | 38 | [Casca de Bala](https://open.spotify.com/track/5mJcnekfy4DEpAZ6uAHM7Y) | [Thullio Milionário](https://open.spotify.com/artist/7wfMF7uhijiZuT7QuXySP7) | [A Cara das Vaquejadas 3.0](https://open.spotify.com/album/3LqVn74biJ7PU2vFeZTAFh) | 2:13 |
 | 39 | [Chorei Quando Me Disse Tchau](https://open.spotify.com/track/4ejt95r0qu50e8X4QEIqwP) | [Dom Silver](https://open.spotify.com/artist/217MNMhqZ05mfyG4CUO7WH), [Bruhh Sua Bonequinha](https://open.spotify.com/artist/3Chkn89fTAltU5TkJZDaWl) | [Chorei Quando Me Disse Tchau](https://open.spotify.com/album/24QbzTLWphjgLrGP9WxZYu) | 2:36 |
-| 40 | [Maravilhosa](https://open.spotify.com/track/0croxrAHihVLdCAG2OooQg) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Maravilhosa](https://open.spotify.com/album/0BRhouUT8lNTWrto5NPNSa) | 1:55 |
+| 40 | [Maravilhosa](https://open.spotify.com/track/0croxrAHihVLdCAG2OooQg) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Maravilhosa \(Ao Vivo\)](https://open.spotify.com/album/0BRhouUT8lNTWrto5NPNSa) | 1:55 |
 | 41 | [Problemas de um Milionário](https://open.spotify.com/track/0VybBobSYSzliyEJ1VqwGR) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Problemas de um Milionário](https://open.spotify.com/album/37xAMiTNitGXNdcm6v7ZJu) | 2:24 |
 | 42 | [Quase Algo \- Ao Vivo Em Nova Iorque / 2022](https://open.spotify.com/track/3iam4WkRoqMoBBCwDFZNgd) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [To Be \(Ao Vivo\)](https://open.spotify.com/album/7BnVrKWFfVy42V2Ozg7Ri6) | 2:58 |
 | 43 | [Passada de Mão \- Ao Vivo](https://open.spotify.com/track/2AZAvTFeYKJAIojPagTGin) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Diferentão 2 \- Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/3qxrM7Fa4ffTf3uMwDagw6) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Beautiful Things](https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:00 |
 | 50 | [Down Bad](https://open.spotify.com/track/2F3N9tdombb64aW6VtZOdo) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:21 |
 
-Snapshot ID: `NzY3NTgzMDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzY3Njc0ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

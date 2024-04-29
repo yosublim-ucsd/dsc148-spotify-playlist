@@ -1,12 +1,12 @@
 {
-  "description": "This is Emilia. The essential tracks, all in one playlist.",
-  "num_followers": 137965,
+  "description": "This Is Emilia. Los temas esenciales, todos en una lista.",
+  "num_followers": 138228,
   "original_name": "This Is Emilia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDA4OTYwMCwwMDAwMDAwMGY4YjJjOGM5NzFmMTkxNjlhYzI3OTJjZTdmY2UyZDk3",
+  "snapshot_id": "MTcxNDE3NjAwMCwwMDAwMDAwMGE3MGFmYjk0YTE1MTY4Njk3YWVmZTU0MGJjM2M0NWYy",
   "tracks": [
     {
       "added_at": null,
@@ -799,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Emilia en Vivo",
+        "url": "https://open.spotify.com/album/3jxfIy0En401wjrtIZcBXh"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 165168,
+      "name": "BB - Emilia en Vivo",
+      "url": "https://open.spotify.com/track/2EaqSjTQuzsQ3F8ncmsFKW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pal Perreo",
         "url": "https://open.spotify.com/album/7GRrr1fX97vePkRz5ATbi6"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 162666,
       "name": "Pal Perreo",
       "url": "https://open.spotify.com/track/607uAAsoV2mkEZuZR5J59s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Emilia en Vivo",
-        "url": "https://open.spotify.com/album/3jxfIy0En401wjrtIZcBXh"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 165168,
-      "name": "BB - Emilia en Vivo",
-      "url": "https://open.spotify.com/track/2EaqSjTQuzsQ3F8ncmsFKW"
     },
     {
       "added_at": null,

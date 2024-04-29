@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "This Is Los Huracanes del Norte. Los temas esenciales, todos en una lista.",
+  "description": "This is Los Huracanes del Norte. Track-track unggulan, semuanya dalam satu playlist.",
   "name": "This Is Los Huracanes del Norte",
   "tracks": [
     {
@@ -232,7 +232,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 232973,
       "name": "Dos Colombianos",
       "url": "https://open.spotify.com/track/5OaVR3n6Ln0SEXFGPKVf15"
@@ -322,7 +322,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-28",
+      "date_removed": null,
       "duration_ms": 193697,
       "name": "El Hombre De Negro",
       "url": "https://open.spotify.com/track/652n8ymCgyYGeRx6S5eLxy"
@@ -470,7 +470,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 173378,
       "name": "Es Parte Del Show",
       "url": "https://open.spotify.com/track/4AlLi2xehkaTJmQSI3ISvW"
@@ -884,7 +884,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 211493,
       "name": "Que Me Lleve El Diablo - En Vivo",
       "url": "https://open.spotify.com/track/6AshXTa1GeNYf9mpLfJwl0"

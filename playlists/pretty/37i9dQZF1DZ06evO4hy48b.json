@@ -1,12 +1,12 @@
 {
   "description": "This Is Aitana. Los temas esenciales, todos en una lista.",
-  "num_followers": 197885,
+  "num_followers": 197936,
   "original_name": "This Is Aitana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDA4OTYwMCwwMDAwMDAwMGE5YWNiZDcyYWI4ZGVkNzdjZjkzNjQyNmY5MjJiYzVk",
+  "snapshot_id": "MTcxNDE3NjAwMCwwMDAwMDAwMDZjY2E0N2ExODljMGYyODZhMjc5ZmQyM2Q4OTBhOGVh",
   "tracks": [
     {
       "added_at": null,
@@ -766,11 +766,15 @@
         {
           "name": "Aitana",
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
         }
       ],
-      "duration_ms": 210726,
-      "name": "NO TE HAS IDO Y YA TE EXTRA\u00d1O",
-      "url": "https://open.spotify.com/track/5XJIXRAM4ivaOitRM4NuE4"
+      "duration_ms": 167192,
+      "name": "CUANDO TE FUISTE",
+      "url": "https://open.spotify.com/track/3vrslkAmBQ4mvqfOX1Xc6Q"
     },
     {
       "added_at": null,

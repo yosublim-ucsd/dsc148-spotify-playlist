@@ -638,7 +638,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-24",
+      "date_removed": null,
       "duration_ms": 120165,
       "name": "DICE AND ROLL",
       "url": "https://open.spotify.com/track/6yMGcFkUPJWW7Mwy5pY6GC"
@@ -1090,7 +1090,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 106400,
       "name": "FUNK ESTRANHO",
       "url": "https://open.spotify.com/track/3io6dYfCkW0RnAzpHdfWkw"
@@ -1144,7 +1144,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 150009,
       "name": "FUNK ESTRANHO - SUPER SLOWED",
       "url": "https://open.spotify.com/track/3pYW5o6hnnlKILYMpi3tx8"
@@ -1732,7 +1732,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 107538,
       "name": "juice",
       "url": "https://open.spotify.com/track/2PXxdh7WHZAlONZW8P3H2h"
@@ -2230,7 +2230,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 162880,
       "name": "Midas Touch",
       "url": "https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V"
@@ -2588,7 +2588,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 98414,
       "name": "Nite",
       "url": "https://open.spotify.com/track/3KPDkH6pan0T9XuBgTipdA"
@@ -2606,7 +2606,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-28",
+      "date_removed": null,
       "duration_ms": 98414,
       "name": "NITE",
       "url": "https://open.spotify.com/track/3qkeYh3Con4SDWIFw3DiFW"
@@ -4096,7 +4096,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 127008,
       "name": "WTF 2",
       "url": "https://open.spotify.com/track/52Az0C2Qemjn1SP14PhTIW"
@@ -5210,7 +5210,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 172201,
       "name": "\u041a\u043e\u0441\u043c\u043e\u0441",
       "url": "https://open.spotify.com/track/4JixnVQQ2NU9ejlzanYKVa"
@@ -5420,10 +5420,36 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-25",
+      "date_removed": null,
       "duration_ms": 115884,
       "name": "\u041c\u043e\u0439 \u0437\u0430\u0439\u0447\u0438\u043a (Speed Up)",
       "url": "https://open.spotify.com/track/0bPcEKuJivEVARCN3smAiL"
+    },
+    {
+      "album": {
+        "name": "\u041d\u0430\u0442\u0443\u0440\u0430",
+        "url": "https://open.spotify.com/album/6Rue2YJtDDUNibYOV6gDoZ"
+      },
+      "artists": [
+        {
+          "name": "laredder",
+          "url": "https://open.spotify.com/artist/5Zyl5A9eIKPDNnOMZzDlJI"
+        },
+        {
+          "name": "LIL MORFY",
+          "url": "https://open.spotify.com/artist/1wvZfFhRzKwy84pQ141k96"
+        },
+        {
+          "name": "CHEFIROW",
+          "url": "https://open.spotify.com/artist/2HSLEyJW7rtxEuoRY90L9s"
+        }
+      ],
+      "date_added": "2024-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224079,
+      "name": "\u041d\u0430\u0442\u0443\u0440\u0430",
+      "url": "https://open.spotify.com/track/3PHqGVhx0uo9sWlcSJQsZt"
     },
     {
       "album": {
@@ -6210,6 +6236,24 @@
       "duration_ms": 100616,
       "name": "\u0421\u0422\u0412\u041e\u041b",
       "url": "https://open.spotify.com/track/5oRyJGRopWGXtnOL7jJfZR"
+    },
+    {
+      "album": {
+        "name": "\u0422\u0432\u043e\u044f \u043b\u044e\u0431\u043e\u0432\u044c \u043c\u0430\u043d\u0438\u043b\u0430",
+        "url": "https://open.spotify.com/album/5wInk5pJ2OWYy1uTIXToAD"
+      },
+      "artists": [
+        {
+          "name": "\u0422\u0430\u0445\u043c\u0438\u043d\u0430 \u0423\u043c\u0430\u043b\u0430\u0442\u043e\u0432\u0430",
+          "url": "https://open.spotify.com/artist/7dnHP3tc4JaFM3Lnyq9xCD"
+        }
+      ],
+      "date_added": "2024-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "\u0422\u0432\u043e\u044f \u043b\u044e\u0431\u043e\u0432\u044c \u043c\u0430\u043d\u0438\u043b\u0430",
+      "url": "https://open.spotify.com/track/1ZgW0cKoTL2hnIR6QlN64g"
     },
     {
       "album": {

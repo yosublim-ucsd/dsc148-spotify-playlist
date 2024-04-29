@@ -1,12 +1,12 @@
 {
-  "description": "This is Djonga. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 195707,
+  "description": "This is Djonga. The essential tracks, all in one playlist.",
+  "num_followers": 195743,
   "original_name": "This Is Djonga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDA4OTYwMCwwMDAwMDAwMDQyNTRjMjg1MDY1MjQ2MDY3NDZjZWUyZDM0ZDQ1MTdj",
+  "snapshot_id": "MTcxNDE3NjAwMCwwMDAwMDAwMDdkZTRhZTU2ZWI0OWNkY2I3Y2IwYmM0NzUwYzVjMThm",
   "tracks": [
     {
       "added_at": null,
@@ -1143,38 +1143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qual Calcinha",
-        "url": "https://open.spotify.com/album/19TYuGXRoOVcWLcfQInn6M"
-      },
-      "artists": [
-        {
-          "name": "DJ Ws da Igrejinha",
-          "url": "https://open.spotify.com/artist/0NB5wv4kn6A919CLHUKRmk"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "MC Rick",
-          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
-        },
-        {
-          "name": "MC NAHARA",
-          "url": "https://open.spotify.com/artist/1Vnwxb3UkZxMF4S3J6hxAS"
-        },
-        {
-          "name": "MC Saci",
-          "url": "https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p"
-        }
-      ],
-      "duration_ms": 209307,
-      "name": "Qual Calcinha",
-      "url": "https://open.spotify.com/track/0THIQb8cyqXuIF5Nd74c4w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hist\u00f3rias da Minha \u00c1rea",
         "url": "https://open.spotify.com/album/3dCALWYm5dnvz0SS8kRi2k"
       },
@@ -1227,6 +1195,38 @@
       "duration_ms": 251520,
       "name": "Obstinado",
       "url": "https://open.spotify.com/track/6qR1DhILkxhbxivh8HUDaP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Qual Calcinha",
+        "url": "https://open.spotify.com/album/19TYuGXRoOVcWLcfQInn6M"
+      },
+      "artists": [
+        {
+          "name": "DJ Ws da Igrejinha",
+          "url": "https://open.spotify.com/artist/0NB5wv4kn6A919CLHUKRmk"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "MC Rick",
+          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
+        },
+        {
+          "name": "MC NAHARA",
+          "url": "https://open.spotify.com/artist/1Vnwxb3UkZxMF4S3J6hxAS"
+        },
+        {
+          "name": "MC Saci",
+          "url": "https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p"
+        }
+      ],
+      "duration_ms": 209307,
+      "name": "Qual Calcinha",
+      "url": "https://open.spotify.com/track/0THIQb8cyqXuIF5Nd74c4w"
     },
     {
       "added_at": null,

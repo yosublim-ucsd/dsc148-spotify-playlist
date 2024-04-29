@@ -1,12 +1,12 @@
 {
-  "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 14176,
+  "description": "This Is GloRilla. Los temas esenciales, todos en una lista.",
+  "num_followers": 14203,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDA4OTYwMCwwMDAwMDAwMGMwNzY4ZWE2NTcxNmRiZTYzOTM0Y2E2YjQ2NmI4Y2Ix",
+  "snapshot_id": "MTcxNDE3NjAwMCwwMDAwMDAwMDdmZDNhYzc0YjVjYThhZDhmMzBlN2RkMDdlYjY1NGFk",
   "tracks": [
     {
       "added_at": null,
@@ -743,26 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/1rRGUmICffgc41b0BRj0kC"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Niki Pooh",
-          "url": "https://open.spotify.com/artist/3hG09J3PPVnHvslivvE3GX"
-        }
-      ],
-      "duration_ms": 155193,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/6dzhoFsAUAbTAeJgL7gMaG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Big Shit",
         "url": "https://open.spotify.com/album/47iTiC280nbUCYKSexLoAO"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 140471,
       "name": "Big Shit - Prod. by Sunny Gob",
       "url": "https://open.spotify.com/track/7LrEMRvMU0UnNWjuZuHacj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/1rRGUmICffgc41b0BRj0kC"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Niki Pooh",
+          "url": "https://open.spotify.com/artist/3hG09J3PPVnHvslivvE3GX"
+        }
+      ],
+      "duration_ms": 155193,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/6dzhoFsAUAbTAeJgL7gMaG"
     },
     {
       "added_at": null,

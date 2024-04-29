@@ -1,5 +1,5 @@
 {
-  "2024-04-28": 195602,
+  "2024-04-29": 195595,
   "date_first_scraped": "2021-12-21",
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu.",
   "name": "Made in Sweden",
@@ -71,7 +71,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 200231,
       "name": "180",
       "url": "https://open.spotify.com/track/3jxCt8bqqdFmsW8R2AlFb0"
@@ -1478,6 +1478,24 @@
     },
     {
       "album": {
+        "name": "Bed Of Roses",
+        "url": "https://open.spotify.com/album/207lPwYBePcGmEji8Q6cGg"
+      },
+      "artists": [
+        {
+          "name": "ORKID",
+          "url": "https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220520,
+      "name": "Bed Of Roses",
+      "url": "https://open.spotify.com/track/619U0et9pwhKoD3TqKAXu7"
+    },
+    {
+      "album": {
         "name": "Begrava dig",
         "url": "https://open.spotify.com/album/3QnFcFuPqIdEq8xA9RK4yD"
       },
@@ -1493,6 +1511,24 @@
       "duration_ms": 192813,
       "name": "Begrava dig",
       "url": "https://open.spotify.com/track/75w415l2DWr3SwGMEreFpS"
+    },
+    {
+      "album": {
+        "name": "Beh\u00f6ver dig",
+        "url": "https://open.spotify.com/album/4f5lmGgYEpwtLCi4AD3eMb"
+      },
+      "artists": [
+        {
+          "name": "Sebbe Hauta",
+          "url": "https://open.spotify.com/artist/2LEZVqaxPwyaq255gRjO1Z"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200071,
+      "name": "Beh\u00f6ver dig",
+      "url": "https://open.spotify.com/track/4HjdRLcohBkBchtEtBGXgv"
     },
     {
       "album": {
@@ -3831,7 +3867,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 205624,
       "name": "Det var ju du & jag - Radio Edit",
       "url": "https://open.spotify.com/track/53tkrNm9WV1NlTaZ1OsVQk"
@@ -4013,7 +4049,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 161085,
       "name": "Din S\u00e5ng",
       "url": "https://open.spotify.com/track/07V09KDvkEzG77VHbfaCNg"
@@ -4602,6 +4638,24 @@
     },
     {
       "album": {
+        "name": "Med s\u00e5ng / Utan s\u00e5ng",
+        "url": "https://open.spotify.com/album/6x55E0WgcjaUdEfY9SKiRT"
+      },
+      "artists": [
+        {
+          "name": "Den svenska bj\u00f6rnstammen",
+          "url": "https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171440,
+      "name": "Du k\u00e4nner inte l\u00e4ngre mig",
+      "url": "https://open.spotify.com/track/6bTM9i2Vn8cUhAH7xjosvt"
+    },
+    {
+      "album": {
         "name": "Du o jag",
         "url": "https://open.spotify.com/album/5EdGs49xFWQvc6IPtHIQQg"
       },
@@ -4981,7 +5035,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 204746,
       "name": "Earth",
       "url": "https://open.spotify.com/track/10DkiMa9oJCAKNnelrf4XC"
@@ -5577,6 +5631,28 @@
       "duration_ms": 186530,
       "name": "Explosion",
       "url": "https://open.spotify.com/track/0lOMfJkmkV20ajd98fpM7z"
+    },
+    {
+      "album": {
+        "name": "F*n va bra",
+        "url": "https://open.spotify.com/album/0xNDN5H4kvqo7n3057oAZZ"
+      },
+      "artists": [
+        {
+          "name": "Jakob Karlberg",
+          "url": "https://open.spotify.com/artist/2wTNL2DgYACRKqxGb9oKO1"
+        },
+        {
+          "name": "Luc1ano",
+          "url": "https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134408,
+      "name": "F*n va bra",
+      "url": "https://open.spotify.com/track/5W4zgLC5lBqTZOeBx8rpT2"
     },
     {
       "album": {
@@ -10289,7 +10365,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 198493,
       "name": "Jag \u00e4r en handgranat",
       "url": "https://open.spotify.com/track/1MPwdcvz0h5A6gqZhwB779"
@@ -10477,6 +10553,24 @@
       "duration_ms": 223346,
       "name": "Just A Girl",
       "url": "https://open.spotify.com/track/4F2qj7XKsBZWgyyrchAPJO"
+    },
+    {
+      "album": {
+        "name": "LUANDA",
+        "url": "https://open.spotify.com/album/7wRE4WPt46b9ZRudADVtQe"
+      },
+      "artists": [
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201752,
+      "name": "KAN JAG FR\u00c5GA DIG?",
+      "url": "https://open.spotify.com/track/0qhPSIycbhJBAWmRVEqanB"
     },
     {
       "album": {
@@ -11831,7 +11925,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 230000,
       "name": "Love & Unity",
       "url": "https://open.spotify.com/track/6jxPLl1mecH3MtC0oIPnLg"
@@ -12877,6 +12971,28 @@
       "duration_ms": 191140,
       "name": "Misstag",
       "url": "https://open.spotify.com/track/7Gfzl9QQrLcwtKV0G7x5Hf"
+    },
+    {
+      "album": {
+        "name": "Misstag",
+        "url": "https://open.spotify.com/album/2qGKsLgu5SaxEoLMAo9zTI"
+      },
+      "artists": [
+        {
+          "name": "Movits!",
+          "url": "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
+        },
+        {
+          "name": "Timbuktu",
+          "url": "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209693,
+      "name": "Misstag",
+      "url": "https://open.spotify.com/track/6qoRrRejSDOUM1UXX2DEW3"
     },
     {
       "album": {
@@ -13987,7 +14103,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 188280,
       "name": "N\u00e5n annan",
       "url": "https://open.spotify.com/track/3P8yoq6ztDKZnJKE9EXZr3"
@@ -14823,7 +14939,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 213320,
       "name": "Parking Lot Sunset",
       "url": "https://open.spotify.com/track/51OO9YEFbU9RqxM6xKjxSX"
@@ -18556,6 +18672,24 @@
     },
     {
       "album": {
+        "name": "Sverige",
+        "url": "https://open.spotify.com/album/1hYGwNkznvm4047Fb3XfRC"
+      },
+      "artists": [
+        {
+          "name": "Samir & Viktor",
+          "url": "https://open.spotify.com/artist/4SR9oxWziAoPR4kTrekBi6"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175760,
+      "name": "Sverige",
+      "url": "https://open.spotify.com/track/2NQbX5fElB5gXYb61piUzk"
+    },
+    {
+      "album": {
         "name": "Svett",
         "url": "https://open.spotify.com/album/565wtWK25tA1JjATQZbvVg"
       },
@@ -18845,6 +18979,24 @@
       "duration_ms": 169500,
       "name": "S\u00e5 nice",
       "url": "https://open.spotify.com/track/7ydwM6jH4kqbr7MOXp11NO"
+    },
+    {
+      "album": {
+        "name": "S\u00e5 som i himlen",
+        "url": "https://open.spotify.com/album/3juT8UbsOYGeP8LNZl06VD"
+      },
+      "artists": [
+        {
+          "name": "Gogge",
+          "url": "https://open.spotify.com/artist/7nwAfxcTz13PR6B2GqWckp"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154956,
+      "name": "S\u00e5 som i himlen",
+      "url": "https://open.spotify.com/track/0rIuApgbdUQ2ItDiQt9pgM"
     },
     {
       "album": {
@@ -19718,6 +19870,24 @@
     },
     {
       "album": {
+        "name": "Tiden har st\u00e5tt still",
+        "url": "https://open.spotify.com/album/1g1dDHJaszMN3scbyj1FgX"
+      },
+      "artists": [
+        {
+          "name": "Tim Lidman",
+          "url": "https://open.spotify.com/artist/5xkOv6R7zAoKN69OE2MKQq"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119793,
+      "name": "Tiden har st\u00e5tt still",
+      "url": "https://open.spotify.com/track/1toEHcEtoy0TY0PxXuP9Oj"
+    },
+    {
+      "album": {
         "name": "Tiden rinner iv\u00e4g",
         "url": "https://open.spotify.com/album/1yVbNhW1AHwDGQdbzVRKD2"
       },
@@ -20047,7 +20217,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 222506,
       "name": "Travelling Forever",
       "url": "https://open.spotify.com/track/2eRsu0g5PEwXJv9twUxkvX"

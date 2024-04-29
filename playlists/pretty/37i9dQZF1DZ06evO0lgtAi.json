@@ -1,12 +1,12 @@
 {
-  "description": "This Is Tainy. Los temas esenciales, todos en una lista.",
-  "num_followers": 21509,
+  "description": "This Is Tainy. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
+  "num_followers": 21529,
   "original_name": "This Is Tainy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDA4OTYwMCwwMDAwMDAwMDEzY2NmZGQ3ZTViNDFkZjVmMDlmMmQwMGMzM2Q5YTRk",
+  "snapshot_id": "MTcxNDE3NjAwMCwwMDAwMDAwMDg1OGRjOGZhOTY5ZjAwZjAzMzAxOTIwOGZmMGE3N2Y4",
   "tracks": [
     {
       "added_at": null,
@@ -51,26 +51,6 @@
       "duration_ms": 232131,
       "name": "MOJABI GHOST",
       "url": "https://open.spotify.com/track/46YjJXVXWHlQ21odKktg5e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Summer Of Love",
-        "url": "https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        }
-      ],
-      "duration_ms": 184104,
-      "name": "Summer of Love (Shawn Mendes & Tainy)",
-      "url": "https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6"
     },
     {
       "added_at": null,

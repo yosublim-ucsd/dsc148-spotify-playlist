@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 
 > Let these innovative tracks spark your creativity and inspiration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,550 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,513 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 81 | [Give Me Space \(feat\. The Kite String Tangle\)](https://open.spotify.com/track/1eJaHVCXkDnZcB9yB8buJ9) | [Motez](https://open.spotify.com/artist/3SwgftmsT5rVepCSSco3ZR), [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Give Me Space \(feat\. The Kite String Tangle\)](https://open.spotify.com/album/0jmztT0knaYPwbO9D7kgwT) | 3:43 |
 | 82 | [Answer \- Acoustic](https://open.spotify.com/track/7KfV9eTNVYH5XFgio1bpK0) | [The Hour](https://open.spotify.com/artist/3LB8xwjSksxdZoR6hnEqqv) | [Sons & Daughters \(Acoustic\)](https://open.spotify.com/album/1j01SCmbyG3wMEuzPFhk2K) | 2:47 |
 | 83 | [Like I Love You](https://open.spotify.com/track/3dQGWmv2RxYvZMGc0MNil8) | [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Like I Love You](https://open.spotify.com/album/5mmXMruJe1uqRt30EJvZHi) | 3:30 |
-| 84 | [Hurry Up and Crush Me](https://open.spotify.com/track/19TLY1W9XOTGwKAQQrraY6) | [Billy Fox](https://open.spotify.com/artist/6RTA0j2oMjC8mtNrl5jWRq) | [Hurry Up and Crush Me](https://open.spotify.com/album/1pD16UUNpHAGr9UnkzNMvH) | 3:26 |
-| 85 | [Repeat Pleasure](https://open.spotify.com/track/1sMdCnlHMzKpOPcoZuHvQt) | [How To Dress Well](https://open.spotify.com/artist/4jLcgJjDGmW0HmvbSf6lEI) | ["What Is This Heart?" \(Deluxe Edition\)](https://open.spotify.com/album/54E5JvQWalx8xQ7TAeBGvf) | 3:35 |
+| 84 | [Repeat Pleasure](https://open.spotify.com/track/1sMdCnlHMzKpOPcoZuHvQt) | [How To Dress Well](https://open.spotify.com/artist/4jLcgJjDGmW0HmvbSf6lEI) | ["What Is This Heart?" \(Deluxe Edition\)](https://open.spotify.com/album/54E5JvQWalx8xQ7TAeBGvf) | 3:35 |
+| 85 | [Hurry Up and Crush Me](https://open.spotify.com/track/19TLY1W9XOTGwKAQQrraY6) | [Billy Fox](https://open.spotify.com/artist/6RTA0j2oMjC8mtNrl5jWRq) | [Hurry Up and Crush Me](https://open.spotify.com/album/1pD16UUNpHAGr9UnkzNMvH) | 3:26 |
 | 86 | [Gemini](https://open.spotify.com/track/64KwQ4YwBr9ZVq34aOdwZY) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Gemini](https://open.spotify.com/album/5pb11EuV3UqFcSZR37oR1i) | 3:23 |
 | 87 | [A Place We Know](https://open.spotify.com/track/4xtqWE4tctUNIHDjZC9v9C) | [RKCB](https://open.spotify.com/artist/4QDvXnbmw1znkqkK1119Fc) | [A Place We Know / Almost There](https://open.spotify.com/album/677phHoNKIklj64z6GuA5L) | 4:20 |
 | 88 | [Teenager](https://open.spotify.com/track/4BIK2CokkIHRbWYdkjpJgP) | [Julian Lamadrid](https://open.spotify.com/artist/60rE8L4eGCSSaJCS1kqNKy) | [Teenager](https://open.spotify.com/album/61hx21oK4Fm8zyQst3lBPe) | 2:47 |

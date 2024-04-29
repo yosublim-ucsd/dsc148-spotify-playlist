@@ -2,7 +2,7 @@
 
 ### [This Is Passion](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3MA8us)
 
-> This is Passion\. Les chansons essentielles, toutes regroupées dans une seule liste de lecture.
+> This Is Passion\. Los temas esenciales, todos en una lista.
 
 88 songs - 8 hr 10 min
 

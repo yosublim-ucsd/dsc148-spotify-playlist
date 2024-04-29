@@ -1,12 +1,12 @@
 {
-  "description": "This is Rise Against. The essential tracks, all in one playlist.",
-  "num_followers": 160394,
+  "description": "This is Rise Against. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 160415,
   "original_name": "This Is Rise Against",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDA4OTYwMCwwMDAwMDAwMDdiN2U4ZGJjZjQwMGZkNzRmZGRmZTYwMjc4OWJjZjll",
+  "snapshot_id": "MTcxNDE3NjAwMCwwMDAwMDAwMGE1ZDA2ZTZiNjUwOGM0MDRhNjJmOGVhMWUzMTQ2OGI2",
   "tracks": [
     {
       "added_at": null,
@@ -124,7 +124,7 @@
       "added_at": null,
       "album": {
         "name": "The Sufferer & The Witness",
-        "url": "https://open.spotify.com/album/1VZ0i4vJ0AkPbmpuaktZMJ"
+        "url": "https://open.spotify.com/album/1Vr598HQXjJCwxHale9yQP"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 181453,
-      "name": "The Good Left Undone",
-      "url": "https://open.spotify.com/track/3Effll2C7OnP2isgbVPJje"
+      "duration_ms": 165173,
+      "name": "Under The Knife",
+      "url": "https://open.spotify.com/track/7ycK2uijskzxp4cGpGNoCi"
     },
     {
       "added_at": null,
@@ -188,7 +188,7 @@
       "added_at": null,
       "album": {
         "name": "The Sufferer & The Witness",
-        "url": "https://open.spotify.com/album/1Vr598HQXjJCwxHale9yQP"
+        "url": "https://open.spotify.com/album/1VZ0i4vJ0AkPbmpuaktZMJ"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 165173,
-      "name": "Under The Knife",
-      "url": "https://open.spotify.com/track/7ycK2uijskzxp4cGpGNoCi"
+      "duration_ms": 181453,
+      "name": "The Good Left Undone",
+      "url": "https://open.spotify.com/track/3Effll2C7OnP2isgbVPJje"
     },
     {
       "added_at": null,

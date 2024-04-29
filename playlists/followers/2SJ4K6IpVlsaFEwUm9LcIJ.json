@@ -1,5 +1,5 @@
 {
-  "2024-04-28": 19302,
+  "2024-04-29": 19306,
   "date_first_scraped": "2024-02-12",
   "description": "what i&#x27;m listening to: march-april 2024 (previous playlists archived on my profile)",
   "name": "innocence and panic",
@@ -633,6 +633,28 @@
       "duration_ms": 147265,
       "name": "Drive My Car (Misaki)",
       "url": "https://open.spotify.com/track/7ug0c7aiNdQqvhqgTbpZgP"
+    },
+    {
+      "album": {
+        "name": "Osaka Bridge",
+        "url": "https://open.spotify.com/album/79mqjyfKRhFr08g30VAJzG"
+      },
+      "artists": [
+        {
+          "name": "Bill Wells",
+          "url": "https://open.spotify.com/artist/1symcfB0KMf0vEg2nE1pHZ"
+        },
+        {
+          "name": "Maher Shalal Hash Baz",
+          "url": "https://open.spotify.com/artist/0sc4qz42as3DlXXqQcU5Qk"
+        }
+      ],
+      "date_added": "2024-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64839,
+      "name": "Duck",
+      "url": "https://open.spotify.com/track/4PyujFUInGsWYX3t5XDjZM"
     },
     {
       "album": {
@@ -1969,6 +1991,24 @@
       "duration_ms": 109333,
       "name": "R&B",
       "url": "https://open.spotify.com/track/3LtQtMTElsBhQQl1Oe2WVv"
+    },
+    {
+      "album": {
+        "name": "Sandhills",
+        "url": "https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "date_added": "2024-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195146,
+      "name": "Sandhills",
+      "url": "https://open.spotify.com/track/6dBkJ5LGEm5oaR3CxAR7yg"
     },
     {
       "album": {

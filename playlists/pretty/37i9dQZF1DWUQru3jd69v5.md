@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Emanuelino in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,180 likes - 51 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,169 likes - 51 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

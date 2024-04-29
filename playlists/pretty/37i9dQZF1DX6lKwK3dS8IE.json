@@ -1,6 +1,6 @@
 {
   "description": "Folk punk, anti-folk, acoustic punk & more. Cover: AJJ",
-  "num_followers": 2605,
+  "num_followers": 2608,
   "original_name": "Folk Misfits",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Good Luck Everybody",
-        "url": "https://open.spotify.com/album/2SvkUGRbWkrnsytUsINzf6"
-      },
-      "artists": [
-        {
-          "name": "AJJ",
-          "url": "https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl"
-        }
-      ],
-      "duration_ms": 157600,
-      "name": "Body Terror Song",
-      "url": "https://open.spotify.com/track/3D1PuFi2U8lmtdWRZcCz1f"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Remember That I Love You",
         "url": "https://open.spotify.com/album/7bc415JbeoQAJAPsc8fGyn"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 188280,
       "name": "Tire Swing",
       "url": "https://open.spotify.com/track/0vbhRDi46TDNHkhKbZa81B"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Good Luck Everybody",
+        "url": "https://open.spotify.com/album/2SvkUGRbWkrnsytUsINzf6"
+      },
+      "artists": [
+        {
+          "name": "AJJ",
+          "url": "https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl"
+        }
+      ],
+      "duration_ms": 157600,
+      "name": "Body Terror Song",
+      "url": "https://open.spotify.com/track/3D1PuFi2U8lmtdWRZcCz1f"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "All The Toppings",
-        "url": "https://open.spotify.com/album/0kWAem2AsVbx5FSkfWX4GC"
-      },
-      "artists": [
-        {
-          "name": "Panucci's Pizza",
-          "url": "https://open.spotify.com/artist/5GLpYMkUSUNq5kLLeBovSi"
-        }
-      ],
-      "duration_ms": 111310,
-      "name": "Obligatory Folk Punk Song",
-      "url": "https://open.spotify.com/track/79AVLbzsAOiOllE7qjA5kD"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "People Who Can Eat People Are the Luckiest People in the World",
         "url": "https://open.spotify.com/album/2jRdTNGZzb3drtFRYaUpFE"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 74960,
       "name": "Brave as a Noun",
       "url": "https://open.spotify.com/track/6bfPo8Ge3VoD4dEGSDs0R9"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "All The Toppings",
+        "url": "https://open.spotify.com/album/0kWAem2AsVbx5FSkfWX4GC"
+      },
+      "artists": [
+        {
+          "name": "Panucci's Pizza",
+          "url": "https://open.spotify.com/artist/5GLpYMkUSUNq5kLLeBovSi"
+        }
+      ],
+      "duration_ms": 111310,
+      "name": "Obligatory Folk Punk Song",
+      "url": "https://open.spotify.com/track/79AVLbzsAOiOllE7qjA5kD"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Talon Of The Hawk",
-        "url": "https://open.spotify.com/album/1Xz5zrDqXetBm5HwNGSqPs"
-      },
-      "artists": [
-        {
-          "name": "The Front Bottoms",
-          "url": "https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS"
-        }
-      ],
-      "duration_ms": 264676,
-      "name": "Twin Size Mattress",
-      "url": "https://open.spotify.com/track/14N3tALR3Mhf7UHpJRKk4L"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Songs From Under The Sink",
         "url": "https://open.spotify.com/album/1Adkukn6Z9MjyI1bw53nh9"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 140680,
       "name": "Coffee, God, And Cigarettes",
       "url": "https://open.spotify.com/track/0SQmgir2AkvVKa3snPcn2z"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Talon Of The Hawk",
+        "url": "https://open.spotify.com/album/1Xz5zrDqXetBm5HwNGSqPs"
+      },
+      "artists": [
+        {
+          "name": "The Front Bottoms",
+          "url": "https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS"
+        }
+      ],
+      "duration_ms": 264676,
+      "name": "Twin Size Mattress",
+      "url": "https://open.spotify.com/track/14N3tALR3Mhf7UHpJRKk4L"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
+        "name": "I Know How It Feels",
+        "url": "https://open.spotify.com/album/5yWpmbHjwTVx2sVTkrr8KI"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 166805,
+      "name": "I Know How It Feels",
+      "url": "https://open.spotify.com/track/3gd0PGrjI49TL1keClyFBh"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
         "name": "Revel in the Rubble",
         "url": "https://open.spotify.com/album/3ZOYd7kYr7MBKJo7l0iyTf"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 122893,
       "name": "I Saw a Hippie Girl on 8th Ave",
       "url": "https://open.spotify.com/track/1lmsq361YTwZC9ftorAGIu"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
-        "name": "I Know How It Feels",
-        "url": "https://open.spotify.com/album/5yWpmbHjwTVx2sVTkrr8KI"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 166805,
-      "name": "I Know How It Feels",
-      "url": "https://open.spotify.com/track/3gd0PGrjI49TL1keClyFBh"
     },
     {
       "added_at": "2023-05-26 04:01:00",

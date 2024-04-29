@@ -1,5 +1,5 @@
 {
-  "2024-04-28": 213908,
+  "2024-04-29": 213908,
   "date_first_scraped": "2021-12-21",
   "description": "make it pop! cover: Haiden Henderson",
   "name": "soda",
@@ -4896,6 +4896,28 @@
     },
     {
       "album": {
+        "name": "Feeling Lucky",
+        "url": "https://open.spotify.com/album/4bc9PfPyv60qCh5S5g5eMb"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        },
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        }
+      ],
+      "date_added": "2024-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151040,
+      "name": "Feeling Lucky",
+      "url": "https://open.spotify.com/track/53x0Yk1qOyurd2MefyF3Ny"
+    },
+    {
+      "album": {
         "name": "Feet On The Ceiling",
         "url": "https://open.spotify.com/album/1EjnS1tbiIOalEtxI5IWaN"
       },
@@ -7033,6 +7055,24 @@
       "duration_ms": 143573,
       "name": "How Does It Feel",
       "url": "https://open.spotify.com/track/1KNYCbS2hGara6pzGCa2Ui"
+    },
+    {
+      "album": {
+        "name": "How Long",
+        "url": "https://open.spotify.com/album/3xW517EjeSgYvBR95zFxRD"
+      },
+      "artists": [
+        {
+          "name": "Rec Hall",
+          "url": "https://open.spotify.com/artist/7n0i6RECXvCkOElGs6IP97"
+        }
+      ],
+      "date_added": "2024-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165120,
+      "name": "How Long",
+      "url": "https://open.spotify.com/track/3ntYF8MmJNzrMshD7ofFxU"
     },
     {
       "album": {
@@ -14115,7 +14155,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 162205,
       "name": "Spite",
       "url": "https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw"
@@ -15953,7 +15993,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 192424,
       "name": "TIME!",
       "url": "https://open.spotify.com/track/571eDSnPzwHNL3233ICp6w"

@@ -4,7 +4,7 @@
 
 > Positive and uplifting ambient instrumental tracks.
 
-282 songs - 13 hr 57 min
+289 songs - 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,11 +18,13 @@
 | [Affinity](https://open.spotify.com/track/1pJAweP34zFBSOplMQc1m0) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [City Life](https://open.spotify.com/album/6fjaKnvd9PFGQxe37E9UfM) | 2:28 | 2021-09-06 |  |
 | [Afterglow](https://open.spotify.com/track/4HMfywbOXTM8HjyqQeb1ao) | [Mike Fields](https://open.spotify.com/artist/6ofXqT4mojrdSwyAzTZYQ8) | [Afterglow](https://open.spotify.com/album/7wCn2LxnXgDusSLXJKjQlb) | 2:55 | 2021-09-06 |  |
 | [Afterwards](https://open.spotify.com/track/6Sh79I3cwBcHZSAOHLW8Nm) | [Flying In Dreams](https://open.spotify.com/artist/3CAgOXjFOTetKEvhnSEcZu) | [Afterwards](https://open.spotify.com/album/27svDAOfmAUybkn2vZycdo) | 3:20 | 2021-09-06 |  |
+| [Alpha Lupi](https://open.spotify.com/track/1cL02nUAGcbSZFE8rJuK4I) | [Lake Melville](https://open.spotify.com/artist/2qZD20bVk0hgogpaDPbxmG) | [Alpha Lupi](https://open.spotify.com/album/7JwcCMKHFkPslad9qn6yy1) | 3:16 | 2024-04-29 |  |
 | [alpha waves](https://open.spotify.com/track/5ZCW5CDwhfXJGL2MzxGwhx) | [Eucalyptic](https://open.spotify.com/artist/7fFV1CuS9eT92DKj0Zzpt9) | [alpha waves](https://open.spotify.com/album/1Qbsw57Avkq9ClGT3iUGqc) | 3:25 | 2021-09-06 |  |
 | [Altitude](https://open.spotify.com/track/4uVBqXnMHCwZ7GDyfhor86) | [Astral Roads](https://open.spotify.com/artist/65DssPNGbmHrLwyOITcUX5) | [Altitude](https://open.spotify.com/album/1vB2dUVRuBaavlc2Xa7sPq) | 3:48 | 2021-09-06 | 2022-09-03 |
 | [Another Mellow Morning](https://open.spotify.com/track/3Zo7qbx3AaRTfQBzrcYwy8) | [Spirits Of Our Dreams](https://open.spotify.com/artist/2RmEoDzAVo3AKLolGZ1Uss) | [Another Mellow Morning](https://open.spotify.com/album/2rv2qbzEqctupxhMXkDX7n) | 3:59 | 2021-09-06 |  |
 | [Aquarium](https://open.spotify.com/track/4FQIwSmM1RkrJoYo7ys5gP) | [Aquatic Dreamer](https://open.spotify.com/artist/5J0V2NU23Rfh99C1bQJMiM) | [Aquarium](https://open.spotify.com/album/7IJ2VDv8IKaL0ilSwI9Syf) | 2:40 | 2022-07-11 |  |
 | [Arise](https://open.spotify.com/track/6OdP3zH7YSP9gaDpQ2Pj5D) | [Imperial Atlas](https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g) | [Arise](https://open.spotify.com/album/0g3jCPVm6E6dkbepOlFUft) | 3:36 | 2021-09-06 |  |
+| [Arkham Nights](https://open.spotify.com/track/7u5roXUTEuxzdPf5zQH3xH) | [Sanguinus](https://open.spotify.com/artist/0qf4Rq4omzrxX03ZttRH3P) | [Arkham Nights](https://open.spotify.com/album/7E30qOJyGId9Js3MK3pGDk) | 3:01 | 2024-04-29 |  |
 | [As With The Night Sky](https://open.spotify.com/track/5uS36I6YMNcYIELbLNcsnz) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Philip G Anderson](https://open.spotify.com/artist/0eQbtwyYUwzYwkq5MEdKrZ) | [Memoir Collections I – Beginnings](https://open.spotify.com/album/72bKzpkvAToOhG3EuzUrTi) | 2:27 | 2022-07-11 | 2024-04-19 |
 | [As With The Night Sky](https://open.spotify.com/track/6nJUw7h8liQrCLhqlNTL59) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Philip G Anderson](https://open.spotify.com/artist/0eQbtwyYUwzYwkq5MEdKrZ) | [Memoir Collections I \- Beginnings](https://open.spotify.com/album/538wzM7bIQT5TAuv79sHRU) | 2:27 | 2021-09-06 |  |
 | [Astral Projection](https://open.spotify.com/track/6E5PG5bexno2S1McK27EVg) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Sound Therapy Ambient Compilation, Vol\. 1](https://open.spotify.com/album/1mH2d032QQlX3GLb14qdwA) | 2:41 | 2021-09-06 | 2022-09-03 |
@@ -195,6 +197,7 @@
 | [Open Sea](https://open.spotify.com/track/6EmGCYsp5zMb62euRsHnhJ) | [Kalmankar](https://open.spotify.com/artist/69A9sNZknmNen76ssKle8a) | [Open Ocean](https://open.spotify.com/album/3tN8xeULgDF32eUup028YQ) | 2:14 | 2021-09-06 |  |
 | [Orbits](https://open.spotify.com/track/6jFX2sHOzh7tpIIOomlrqJ) | [Halfway Escape](https://open.spotify.com/artist/1zT5lkgp3zNJ592XVPVKUP) | [Orbits](https://open.spotify.com/album/5jHLPPk51g8j1xkVKgKPwR) | 3:24 | 2021-09-06 |  |
 | [Peaceful Thoughts](https://open.spotify.com/track/5iyORStbbLuYYVRmilLh8w) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Soul Seeker](https://open.spotify.com/album/1oxm59nThusBxI4HIaClYR) | 3:44 | 2021-09-06 |  |
+| [Pegasus Prism](https://open.spotify.com/track/2WFNWNsGT2DXFLJMdC5eDG) | [The Lay\-Backs](https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C) | [Pegasus Prism](https://open.spotify.com/album/7wBtN4fXTEnVVK61JRJctc) | 2:54 | 2024-04-29 |  |
 | [Petrichor](https://open.spotify.com/track/2hx0o7fZRPkmknXSgncOij) | [Amparo](https://open.spotify.com/artist/55FRGLGEoc58o9fNM6gEdf) | [Dark Sky City](https://open.spotify.com/album/1n30D8qOtqf6IimgHXz8wF) | 2:51 | 2021-09-06 |  |
 | [Petrichor](https://open.spotify.com/track/22KKy6ftT0i4nyGNCbwc1B) | [Cecelya](https://open.spotify.com/artist/03aCAywaPegfs9yvJ66eCp) | [Petrichor](https://open.spotify.com/album/0EeoPgnFgCP1TNJsBdelJ7) | 1:58 | 2021-09-06 | 2023-07-29 |
 | [Placidity](https://open.spotify.com/track/1XtkmIXg2o5SqOrNI8Szvk) | [Estado De Calma](https://open.spotify.com/artist/0E1GrT0XtW2bcQvEuu7ajV) | [Placidity](https://open.spotify.com/album/7v2OxlHooP4Plr1HE5pMeE) | 2:45 | 2021-09-06 |  |
@@ -223,11 +226,14 @@
 | [Say Nothing](https://open.spotify.com/track/1SBYIW8EddjCpTl4ARKO0B) | [Brière](https://open.spotify.com/artist/6aXUg2Sop4QZv01JPXDdy0) | [Say Nothing](https://open.spotify.com/album/74Gkle7RfEXqgj8Ae1GlEb) | 3:16 | 2021-09-06 | 2022-09-03 |
 | [Scepter](https://open.spotify.com/track/78Fq1DYLH5SdvUtsVjNE07) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [Scepter](https://open.spotify.com/album/767TvaxOCqM20my4KRebvv) | 1:13 | 2021-09-06 | 2023-07-29 |
 | [Selfless](https://open.spotify.com/track/06rxdrloI554XAu02s1RaM) | [Toledo Rains](https://open.spotify.com/artist/76uaa6flgNHI5elCp0ssBF) | [Selfless](https://open.spotify.com/album/3IraToCy1gXM0Si13GErD1) | 3:00 | 2021-09-06 |  |
+| [Shanti Gaia](https://open.spotify.com/track/1iGMNeSPWXPEnjeNKixwkf) | [Dalliance Blues](https://open.spotify.com/artist/4gwkNRgkSrQhmyJevVAuCu) | [Shanti Gaia](https://open.spotify.com/album/7zcHrgvE5uQobmCRpGtrlT) | 3:12 | 2024-04-29 |  |
 | [Shine](https://open.spotify.com/track/209Z42ajAg8t7fg1VxQqDz) | [Chandeller](https://open.spotify.com/artist/0LzWeBGGtEazh0mJmyxFXi) | [Shine](https://open.spotify.com/album/29Co4C7wS7IxEfAgsfn800) | 3:09 | 2021-09-06 |  |
 | [Silver Lining](https://open.spotify.com/track/2yf1ibNuXk2VwKyGCIIpmA) | [Erik Reno](https://open.spotify.com/artist/4QL7rtAbYIAQ3sIsffoIz0) | [Summer Tales](https://open.spotify.com/album/6ppAmnM0WuNYgrSXC43dKJ) | 3:08 | 2021-09-06 |  |
+| [Simhopff Plan](https://open.spotify.com/track/5ifrdxWbJe28clmwSGo8sH) | [Nash Parker](https://open.spotify.com/artist/6gFeBMvafy8NNfpc1L0HTK) | [Simhopff Plan](https://open.spotify.com/album/4vLkDSMLxlbPn9MX3Esq1o) | 2:45 | 2024-04-29 |  |
 | [Sintra](https://open.spotify.com/track/0b6iQfSLnYGz5VCzwndLz9) | [Made Of Gold](https://open.spotify.com/artist/1ilmmDuqRKxhOkqBZTtqNH) | [Reflections](https://open.spotify.com/album/3AehN6vnl5y9j9ihOloltl) | 3:21 | 2021-09-06 | 2023-10-05 |
 | [Sleep Constellations](https://open.spotify.com/track/0gGaNcUmLccy8vduRK6IGU) | [chillchild](https://open.spotify.com/artist/1Wq0Ioaww8FtItli6QrP46) | [Drifting Away \(Music for Sleeping\)](https://open.spotify.com/album/7cSb5DZKXtXwQETmj2p58s) | 2:28 | 2021-09-06 |  |
 | [Sleep Spirits](https://open.spotify.com/track/2LW5RfktXIpGmLcnQq8HLM) | [chillchild](https://open.spotify.com/artist/1Wq0Ioaww8FtItli6QrP46) | [Drifting Away \(Music for Sleeping\)](https://open.spotify.com/album/7cSb5DZKXtXwQETmj2p58s) | 2:40 | 2021-09-06 |  |
+| [Sleepy Story](https://open.spotify.com/track/0kPVqqJEd862GCWQhrb0d9) | [Calm Symphony](https://open.spotify.com/artist/7JLkB39XupBnI1EJhFBLmV) | [Sleepy Story](https://open.spotify.com/album/7KGk1VOaBq59HME0MaM3m9) | 3:58 | 2024-04-29 |  |
 | [Sofna](https://open.spotify.com/track/5gvjqeIINNvUaEI4lWh4ee) | [Toninn](https://open.spotify.com/artist/5K7zhN8cue1f54j0vVFsZR) | [Sofna](https://open.spotify.com/album/0f6cW81qyPOIjFqp5634kp) | 3:12 | 2024-04-04 |  |
 | [Soft Feather](https://open.spotify.com/track/6AwNPeCte9bFMEmIC0ZbNT) | [Siljann](https://open.spotify.com/artist/0AvPkMDg6bdQlUQ3Nn07cF) | [Soft Feather](https://open.spotify.com/album/0xC25BRAXPZWyqm5DI1p5H) | 3:25 | 2024-04-04 |  |
 | [Solitude](https://open.spotify.com/track/2QerGrNeDLsJgMqpIRhjih) | [Isobel Belano](https://open.spotify.com/artist/2seiab24QmTzU4XTr1rjhV) | [Solitude](https://open.spotify.com/album/7srh64CFgzsCOIToYhCusB) | 2:44 | 2021-09-06 |  |
@@ -259,6 +265,7 @@
 | [Till Imorgon](https://open.spotify.com/track/34BGzF27mEKSI5jnWcGJEa) | [Erelin Hjerta](https://open.spotify.com/artist/3SKcC6zzCqvKJUfkqNGJi5) | [Till Imorgon](https://open.spotify.com/album/17hSZ3mPfa8kPIVrjbghra) | 3:42 | 2021-12-22 |  |
 | [Timeless](https://open.spotify.com/track/2dqeTHHeyLioSSCn9L3xbc) | [Orchestrate the Universe](https://open.spotify.com/artist/1zNZgpcWzRGBIxYh815Mim) | [Timeless](https://open.spotify.com/album/7Bs9jEwbi5uF0iVPd0NN0o) | 1:56 | 2021-09-06 | 2023-07-29 |
 | [True Belonging](https://open.spotify.com/track/4traer7MzTsR7UAmC8t3il) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [True Belonging](https://open.spotify.com/album/4ja8zc2HYBGpJLAyednU1o) | 3:22 | 2022-03-04 |  |
+| [Twilight Whispers](https://open.spotify.com/track/14MSAzbQdG7WuBYJBMkcwm) | [Ana Costa](https://open.spotify.com/artist/3PXd3y6WyVDbpmIUHtrTbu) | [Twilight Whispers](https://open.spotify.com/album/7e28lkgZIa6jSl3v4RJ7np) | 2:34 | 2024-04-29 |  |
 | [Tęsknota](https://open.spotify.com/track/3oilArNJ908kJ3GUkOPuzm) | [Idzi Kowalczyk](https://open.spotify.com/artist/5rmln9rtcpJK2jz9QDvmYa) | [Tęsknota](https://open.spotify.com/album/5Jm14NT2CpUrYwF5iFUOo4) | 3:11 | 2022-05-05 |  |
 | [Under a Cloud](https://open.spotify.com/track/2rbk8KIJi5m1GA2gQepA98) | [Across The Great Valley](https://open.spotify.com/artist/2P1TOog6e612HmJ9bugxav) | [Cold Light of Day](https://open.spotify.com/album/7Kmi7xXY7piM5RzMDen8qd) | 2:52 | 2021-09-06 |  |
 | [Under The Wind](https://open.spotify.com/track/4YS6FM8lct3QyV2oGIrCp4) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [Under The Wind](https://open.spotify.com/album/6E1x5WibS1p1kHsDuXfiau) | 4:00 | 2021-09-06 | 2023-03-18 |

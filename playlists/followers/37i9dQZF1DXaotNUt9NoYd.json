@@ -1,5 +1,5 @@
 {
-  "2024-04-28": 64229,
+  "2024-04-29": 64237,
   "date_first_scraped": "2023-07-08",
   "description": "Its time to travel inwards & feel the bliss!",
   "name": "Dhyanam",
@@ -1245,7 +1245,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 458199,
       "name": "Sarasangi - Relaxing into The Breath",
       "url": "https://open.spotify.com/track/4FHYP0MMGjL8L6ghOBAYpe"
@@ -1571,6 +1571,24 @@
       "duration_ms": 153156,
       "name": "Yoga Meditation and Relaxation",
       "url": "https://open.spotify.com/track/3SrEmZTtPBo5Mzsa7qRsQE"
+    },
+    {
+      "album": {
+        "name": "Indian Instrumental Music",
+        "url": "https://open.spotify.com/album/0liKecmul9RBtdG3HQGSpv"
+      },
+      "artists": [
+        {
+          "name": "Meditation Mantras Guru",
+          "url": "https://open.spotify.com/artist/1bF3IgxBQw61FRqeyuvq7b"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Zen Garden",
+      "url": "https://open.spotify.com/track/3HWZC5JdR7iSggb9Ax6D9e"
     },
     {
       "album": {

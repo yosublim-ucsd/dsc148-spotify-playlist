@@ -1,12 +1,12 @@
 {
   "description": "Hits terpanas dari Mahalini, Taylor Swift, serta artis terfavorit Anda dari dalam negeri dan mancanegara.",
-  "num_followers": 2302763,
+  "num_followers": 2302659,
   "original_name": "Hot Hits Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDA5MjI2OSwwMDAwMDAwMDQxZjFlODdjNzFmZmM2NjJlM2U3OGY1NzljNmJhMjE2",
+  "snapshot_id": "MTcxNDM2NDUwMSwwMDAwMDAwMGNlMjY0MDYyNTNmMmUzOTE5Mzk3NDJjOWY3MTE3MzQ3",
   "tracks": [
     {
       "added_at": "2024-04-26 00:44:29",
@@ -677,6 +677,22 @@
       "url": "https://open.spotify.com/track/7uwo3VQxUlRtKudAjluuTr"
     },
     {
+      "added_at": "2024-04-29 04:21:41",
+      "album": {
+        "name": "Kupu - Kupu",
+        "url": "https://open.spotify.com/album/4nchsck2JTRbfcaNuD1fzr"
+      },
+      "artists": [
+        {
+          "name": "Tiara Andini",
+          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
+        }
+      ],
+      "duration_ms": 242090,
+      "name": "Kupu - Kupu",
+      "url": "https://open.spotify.com/track/1PuhA9UXgH4wRnXzYk5S2Z"
+    },
+    {
       "added_at": "2024-04-26 00:44:29",
       "album": {
         "name": "ASHER",
@@ -841,6 +857,26 @@
       "url": "https://open.spotify.com/track/2cNjYBMsuNELj4oJjYr0bg"
     },
     {
+      "added_at": "2024-04-29 04:21:41",
+      "album": {
+        "name": "SPOT!",
+        "url": "https://open.spotify.com/album/3K3C9JjwCGQAzj3Bu7BUaI"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 167706,
+      "name": "SPOT!",
+      "url": "https://open.spotify.com/track/1SS0WlKhJewviwEDZ6dWj0"
+    },
+    {
       "added_at": "2024-04-26 00:44:29",
       "album": {
         "name": "Perayaan Patah Hati - Babak 1",
@@ -889,6 +925,22 @@
       "url": "https://open.spotify.com/track/304FEq5eVvrxur9KdHhC5I"
     },
     {
+      "added_at": "2024-04-29 04:21:41",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 180853,
+      "name": "Nobody Gets Me",
+      "url": "https://open.spotify.com/track/0impvergaW8CuQS2OcEWMu"
+    },
+    {
       "added_at": "2024-04-26 00:44:29",
       "album": {
         "name": "Strange Trails",
@@ -921,6 +973,26 @@
       "url": "https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy"
     },
     {
+      "added_at": "2024-04-29 04:21:41",
+      "album": {
+        "name": "if u could see me cryin' in my room",
+        "url": "https://open.spotify.com/album/3Ylr1ueJYvCCM2i7yPTReZ"
+      },
+      "artists": [
+        {
+          "name": "Arash Buana",
+          "url": "https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM"
+        },
+        {
+          "name": "raissa anggiani",
+          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
+        }
+      ],
+      "duration_ms": 256867,
+      "name": "if u could see me cryin' in my room",
+      "url": "https://open.spotify.com/track/13sOb9V6Y3uCnRxY9HIZqP"
+    },
+    {
       "added_at": "2024-04-26 00:44:29",
       "album": {
         "name": "Selamat Ulang Tahun",
@@ -935,6 +1007,22 @@
       "duration_ms": 315960,
       "name": "Bertaut",
       "url": "https://open.spotify.com/track/630DpnzdfjdVqv2yLfPbAX"
+    },
+    {
+      "added_at": "2024-04-29 04:21:41",
+      "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     },
     {
       "added_at": "2024-04-26 00:44:29",

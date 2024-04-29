@@ -2,7 +2,7 @@
 
 ### [Breakout Country](https://open.spotify.com/playlist/37i9dQZF1DWW7RgkOJG32Y)
 
-> Top trending country tracks from the last few months\. Cover: Dasha
+> Top trending country tracks from the last few months\. Cover: Jelly Roll
 
 396 songs - 21 hr 12 min
 

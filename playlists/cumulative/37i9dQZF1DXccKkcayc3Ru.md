@@ -4,7 +4,7 @@
 
 > 実写映画「<a href="https://gaga.ne.jp/buzzynoise\_movie/">バジーノイズ</a>」5月3日公開！作者 むつき潤による選曲のオフィシャル・プレイリストが到着。/ The official playlist selected by Mutsuki Jun.
 
-62 songs - 4 hr 6 min
+65 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [From Me To You](https://open.spotify.com/track/2uvwFXISvfrm2v7DKiuV5J) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV) | [After the chaos](https://open.spotify.com/album/2WmbGJLnpIcfwgTHW1Uq9H) | 5:42 | 2024-04-01 |  |
 | [hanashi](https://open.spotify.com/track/1B3d52exw8bkJFB9V1Y9Bo) | [YOOKs](https://open.spotify.com/artist/6vYpkbuf0haDeCdzsAhO1C) | [Newtownage](https://open.spotify.com/album/0SE06MlQwHvPN3kl2DkBUa) | 4:24 | 2024-04-01 |  |
 | [Heartbreak at Dawn](https://open.spotify.com/track/6kRpYg4wxkNmT0bUdIjXc9) | [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP) | [Blurred](https://open.spotify.com/album/6eOqQXD4n0FEEhTEQ91gUH) | 5:17 | 2024-04-25 |  |
+| [Heaven](https://open.spotify.com/track/0UqPRGBSsjAAG5tP6ZSNVl) | [清澄](https://open.spotify.com/artist/6y8ZFFPpyGfjVeeqAaIzmY), [Takumi Kawanishi](https://open.spotify.com/artist/3O8CN28tWSzQszV5K3pi2h) | [surge \(single edit\)](https://open.spotify.com/album/5cHhtcIfWnqNj35VoCWSAw) | 3:15 | 2024-04-28 |  |
 | [I Said](https://open.spotify.com/track/72bR8Uy5Ou5QVUu1JMcIEH) | [BROTHER SUN SISTER MOON](https://open.spotify.com/artist/4jYamjqQ1wmOLS41qNiZ0i) | [Holden](https://open.spotify.com/album/0AGLZTnnYVMAOHFl7XMXkw) | 4:40 | 2024-04-13 |  |
 | [It's Who We Are](https://open.spotify.com/track/1cAkiUgNaCYF7Y5pc2S73d) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [H.O.T](https://open.spotify.com/album/7hsa4N91owE1h5y1jGEcST) | 5:02 | 2024-04-01 |  |
 | [Junior Sweet](https://open.spotify.com/track/0iSpQPgX7orFgBZ3atrqZA) | [Chara](https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp) | [Junior Sweet](https://open.spotify.com/album/6mOQ8WkcSPoIk8w3zA6ZuG) | 6:27 | 2024-04-06 |  |
@@ -41,6 +42,7 @@
 | [STARLIGHT](https://open.spotify.com/track/5Gy2K8tW4bc4TAov7pfEKd) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [PRIVATE](https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O) | 3:08 | 2024-04-01 | 2024-04-19 |
 | [Stateless feat\. YonYon](https://open.spotify.com/track/2aaGksOvk3MqhlFvhnPVif) | [Gotch](https://open.spotify.com/artist/6IVCk7qklx0tv5wtr4VSPc), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [Stateless feat\. YonYon](https://open.spotify.com/album/0HmxEwYS2irKltYO87x0F2) | 3:31 | 2024-04-01 |  |
 | [Summer Child](https://open.spotify.com/track/3dDS3c0Xe1kdFC8CYvX7Yp) | [んoon](https://open.spotify.com/artist/607e1j0oVX9hpFGRQrL3TC) | [Body](https://open.spotify.com/album/5AMu3q938fvG6sQfTSmf0Q) | 3:48 | 2024-04-01 |  |
+| [surge \(single edit\)](https://open.spotify.com/track/2QmfJsRUsAlcW9wL0MiA6f) | [清澄](https://open.spotify.com/artist/6y8ZFFPpyGfjVeeqAaIzmY), [Takumi Kawanishi](https://open.spotify.com/artist/3O8CN28tWSzQszV5K3pi2h) | [surge \(single edit\)](https://open.spotify.com/album/5cHhtcIfWnqNj35VoCWSAw) | 6:37 | 2024-04-28 |  |
 | [Talk:Comic artist&Film director 「バジーノイズ」の音楽について](https://open.spotify.com/track/0BJzQEksdf1meLXPEKnNnl) | [むつき潤、風間太樹](https://open.spotify.com/artist/1GAc54Vtw6J7ngJmkskL4m) | [Talk：むつき潤、風間太樹](https://open.spotify.com/album/4DfYg7NmOUqBu7OKg3Rc7E) | 3:14 | 2024-04-21 |  |
 | [Talk:Comic artist&Film director これから映画を観る方へ](https://open.spotify.com/track/64Xr5YY1eZunhaTgeU3QBv) | [むつき潤、風間太樹](https://open.spotify.com/artist/1GAc54Vtw6J7ngJmkskL4m) | [Talk：むつき潤、風間太樹](https://open.spotify.com/album/4DfYg7NmOUqBu7OKg3Rc7E) | 1:43 | 2024-04-21 |  |
 | [Talk:Comic artist&Film director オープニング](https://open.spotify.com/track/4QQcB7T7OJQOuVgv559WsH) | [むつき潤、風間太樹](https://open.spotify.com/artist/1GAc54Vtw6J7ngJmkskL4m) | [Talk：むつき潤、風間太樹](https://open.spotify.com/album/4DfYg7NmOUqBu7OKg3Rc7E) | 1:06 | 2024-04-21 |  |
@@ -59,6 +61,7 @@
 | [クロノスタシス](https://open.spotify.com/track/6Mavd9uk89Y9OTdvcDTfGG) | [Kinokoteikoku](https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ) | [フェイクワールドワンダーランド](https://open.spotify.com/album/13xXU66oGXokggAEHnUcfR) | 3:47 | 2024-04-01 |  |
 | [ミュージック](https://open.spotify.com/track/21kn2sWOZANPZHGOpW7pG9) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [sakanaction](https://open.spotify.com/album/6fCKQaXvHahkOfGO0BvGSr) | 5:22 | 2024-04-05 |  |
 | [モノローグ](https://open.spotify.com/track/28hm427YkOm24SGkOngxSX) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [From DROPOUT](https://open.spotify.com/album/0xyXWlYQT4idyZJfTHk0dx) | 4:11 | 2024-04-18 |  |
+| [ロックンロールは鳴り止まないっ](https://open.spotify.com/track/35VEMDOASF9TfAbl3U64Eu) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [友だちを殺してまで。](https://open.spotify.com/album/4t1mPPWuh9l6dBURwzZicw) | 3:52 | 2024-04-28 |  |
 | [世界各国の夜](https://open.spotify.com/track/46SeB4xDa6GFG5KvdaislT) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ) | [世界各国の夜](https://open.spotify.com/album/0qvZD8eYRscYqR4N9DwC3Q) | 3:18 | 2024-04-01 |  |
 | [回転・天使](https://open.spotify.com/track/0cVaG276BeCnxIxf42puZ1) | [betcover!!](https://open.spotify.com/artist/0qOuNoGdyXOUZlgdqPbTz3) | [時間](https://open.spotify.com/album/7hhhZ2apbHb5XZj2sXY2FU) | 5:40 | 2024-04-16 |  |
 | [夜を使いはたして feat\. PUNPEE](https://open.spotify.com/track/5UxtXZBNTO1EDBVZH4I9Mf) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [Pushin'](https://open.spotify.com/album/4h3fUSF2oKaS1J5t6FCaR7) | 4:54 | 2024-04-25 |  |

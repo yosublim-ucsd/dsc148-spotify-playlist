@@ -1,5 +1,5 @@
 {
-  "2024-04-28": 35426,
+  "2024-04-29": 35454,
   "date_first_scraped": "2022-06-05",
   "description": "Dive into the deep end of the tech house spectrum.",
   "name": "Minimal Tech",
@@ -2005,7 +2005,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 186000,
       "name": "GUNZ.OUT",
       "url": "https://open.spotify.com/track/1iS1TDkqPMN7eLRMGuKGqe"
@@ -4293,7 +4293,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 346666,
       "name": "Scrap",
       "url": "https://open.spotify.com/track/3PjcHWlpdtwQzut2MtXDZ4"

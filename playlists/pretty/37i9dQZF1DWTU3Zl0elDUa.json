@@ -1,6 +1,6 @@
 {
   "description": "Essential club anthems from the golden era of house music. Cover: Kenny Dope and Little Louie Vega",
-  "num_followers": 352737,
+  "num_followers": 352988,
   "original_name": "90s House Classics",
   "owner": {
     "name": "Spotify",
@@ -207,6 +207,22 @@
     {
       "added_at": "2024-04-11 17:58:33",
       "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl"
+      },
+      "artists": [
+        {
+          "name": "Black Box",
+          "url": "https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW"
+        }
+      ],
+      "duration_ms": 247001,
+      "name": "Everybody Everybody",
+      "url": "https://open.spotify.com/track/6wBMTv8yTiNh50fqTkT0JC"
+    },
+    {
+      "added_at": "2024-04-11 17:58:33",
+      "album": {
         "name": "The Very Best Of",
         "url": "https://open.spotify.com/album/6IjQa4ZCnkSa9cnUvA3yJG"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 212146,
       "name": "Turn Around - Radio Edit",
       "url": "https://open.spotify.com/track/2nx86MrPkXWQctveAEFJBf"
-    },
-    {
-      "added_at": "2024-04-11 17:58:33",
-      "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl"
-      },
-      "artists": [
-        {
-          "name": "Black Box",
-          "url": "https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW"
-        }
-      ],
-      "duration_ms": 247001,
-      "name": "Everybody Everybody",
-      "url": "https://open.spotify.com/track/6wBMTv8yTiNh50fqTkT0JC"
     },
     {
       "added_at": "2024-04-11 17:58:33",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-04-11 17:58:33",
       "album": {
-        "name": "Don\u2019t Stop Movin\u2019",
-        "url": "https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71"
-      },
-      "artists": [
-        {
-          "name": "Livin' Joy",
-          "url": "https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu"
-        }
-      ],
-      "duration_ms": 319866,
-      "name": "Don't Stop Movin'",
-      "url": "https://open.spotify.com/track/2P3cEaLNB0qczz4BDB7Mxc"
-    },
-    {
-      "added_at": "2024-04-11 17:58:33",
-      "album": {
         "name": "Nitelife - Armand Van Helden Remixes",
         "url": "https://open.spotify.com/album/0ZyL3OOBX6XeFfXMvwrcen"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 227093,
       "name": "Closer Than Close - Mentor Original Radio Edit",
       "url": "https://open.spotify.com/track/16pww8bqjeYClGmsbd0AXK"
+    },
+    {
+      "added_at": "2024-04-11 17:58:33",
+      "album": {
+        "name": "Don\u2019t Stop Movin\u2019",
+        "url": "https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71"
+      },
+      "artists": [
+        {
+          "name": "Livin' Joy",
+          "url": "https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu"
+        }
+      ],
+      "duration_ms": 319866,
+      "name": "Don't Stop Movin'",
+      "url": "https://open.spotify.com/track/2P3cEaLNB0qczz4BDB7Mxc"
     },
     {
       "added_at": "2024-04-11 17:58:33",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-04-11 17:58:33",
       "album": {
-        "name": "Universal",
-        "url": "https://open.spotify.com/album/52ie0VU0dtiCXktcxv5hNg"
-      },
-      "artists": [
-        {
-          "name": "K-Klass",
-          "url": "https://open.spotify.com/artist/4O1s9iVG46lSn1mD9ek1ES"
-        }
-      ],
-      "duration_ms": 354000,
-      "name": "Rhythm Is a Mystery - Non-Stop Edit",
-      "url": "https://open.spotify.com/track/27kKrfGjxtsLHggpC33MCR"
-    },
-    {
-      "added_at": "2024-04-11 17:58:33",
-      "album": {
         "name": "Rich in Paradise (Going Back to My Roots)",
         "url": "https://open.spotify.com/album/4XTPgyDIA0ve6BUPAH03A8"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 351373,
       "name": "Rich in Paradise (Going Back to My Roots) - Vocal Remix",
       "url": "https://open.spotify.com/track/7aetPME2AVagb4pKlIVbHM"
+    },
+    {
+      "added_at": "2024-04-11 17:58:33",
+      "album": {
+        "name": "Universal",
+        "url": "https://open.spotify.com/album/52ie0VU0dtiCXktcxv5hNg"
+      },
+      "artists": [
+        {
+          "name": "K-Klass",
+          "url": "https://open.spotify.com/artist/4O1s9iVG46lSn1mD9ek1ES"
+        }
+      ],
+      "duration_ms": 354000,
+      "name": "Rhythm Is a Mystery - Non-Stop Edit",
+      "url": "https://open.spotify.com/track/27kKrfGjxtsLHggpC33MCR"
     },
     {
       "added_at": "2024-04-11 17:58:33",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-04-11 17:58:33",
       "album": {
-        "name": "Everybody (All Over The World)",
-        "url": "https://open.spotify.com/album/29vo83aZt4XUt2gUSAxzwg"
-      },
-      "artists": [
-        {
-          "name": "FPI Project",
-          "url": "https://open.spotify.com/artist/6HNYPrYPF6UzZhVFu2sLeh"
-        }
-      ],
-      "duration_ms": 313813,
-      "name": "Everybody (All over the World) - Dance Version",
-      "url": "https://open.spotify.com/track/4XbAHiP83NvAj1rW2vIrys"
-    },
-    {
-      "added_at": "2024-04-11 17:58:33",
-      "album": {
         "name": "Original Soundtrack",
         "url": "https://open.spotify.com/album/760T7VGqZ66wGrRzndpPWc"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 289826,
       "name": "Anthem - The Mafia Mix",
       "url": "https://open.spotify.com/track/2FGRiUB2H6umLZSBHHj35y"
+    },
+    {
+      "added_at": "2024-04-11 17:58:33",
+      "album": {
+        "name": "Everybody (All Over The World)",
+        "url": "https://open.spotify.com/album/29vo83aZt4XUt2gUSAxzwg"
+      },
+      "artists": [
+        {
+          "name": "FPI Project",
+          "url": "https://open.spotify.com/artist/6HNYPrYPF6UzZhVFu2sLeh"
+        }
+      ],
+      "duration_ms": 313813,
+      "name": "Everybody (All over the World) - Dance Version",
+      "url": "https://open.spotify.com/track/4XbAHiP83NvAj1rW2vIrys"
     },
     {
       "added_at": "2024-04-11 17:58:33",

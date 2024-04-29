@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwf6UlOz1Hs.md) - [plain]
 
 > Featuring Nathy Peluso on Regina's fan curated mixtape\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,535 likes - 21 songs - 56 min 10 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,532 likes - 21 songs - 56 min 10 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Drake\)
 
-1,966 songs - 4 day 3 hr 36 min
+1,967 songs - 4 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -553,6 +553,7 @@
 | [Everything BoZ](https://open.spotify.com/track/2WbLZ6T8lsA1pQ22tPKXDG) | [10X](https://open.spotify.com/artist/4Dm8GgbaqWzgnZeZrxAW0R), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Everything BoZ](https://open.spotify.com/album/201zIiZhEXHDvFvFHwuCc2) | 3:07 | 2023-08-17 | 2023-09-29 |
 | [EVIL EMPIRE \(feat\. DD Osama\)](https://open.spotify.com/track/6591oPA9nKFawSWOcQcL8A) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN), [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM) | [YOUNG GENIUS](https://open.spotify.com/album/1ZSTVGuahoSWHnRjxqmqkJ) | 2:59 | 2024-04-05 |  |
 | [Evil Ways \(feat\. J\. Cole\)](https://open.spotify.com/track/2ut4BOQSqxLpcX5MtPjzYa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [For All The Dogs Scary Hours Edition](https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO) | 3:47 | 2023-11-17 | 2024-02-23 |
+| [Excuse](https://open.spotify.com/track/3Kvludm9mx8wPSp0YKzPOz) | [CHANHYUN](https://open.spotify.com/artist/3mVfekn5nIuqNWJCK0u1r9) | [Excuse](https://open.spotify.com/album/7gaaPrwHk3sCo8e8x9wYG5) | 3:22 | 2024-04-28 |  |
 | [Existe feat\. Daichi Yamamoto \(Blended by tofubeats\)](https://open.spotify.com/track/0pLl928xEqbPDjByzdwuqV) | [BACARDI RECORDS](https://open.spotify.com/artist/50HufyqvWA4Bj4GuWf0ztA), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [Existe feat\. Daichi Yamamoto \(Blended by tofubeats\)](https://open.spotify.com/album/5OO4rVydstHpmDrDepnkmB) | 3:45 | 2023-09-21 | 2023-10-23 |
 | [EXIT 9 \- with Blxst and Offset](https://open.spotify.com/track/542Yp18797lywr3zZTG2sC) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [EXIT 9 \(with Blxst and Offset\)](https://open.spotify.com/album/3DAkWjDTQOieiModXxLIUl) | 3:30 | 2024-04-26 |  |
 | [Exquisite](https://open.spotify.com/track/2ck3poi9OAj25CcOWfr1QW) | [Mindflip](https://open.spotify.com/artist/1EH4lsraLQb7WNDW5h4sKi) | [Exquisite](https://open.spotify.com/album/4Rlp7ncaNEzgJVoWhpWFMo) | 2:42 | 2022-07-07 | 2022-07-29 |

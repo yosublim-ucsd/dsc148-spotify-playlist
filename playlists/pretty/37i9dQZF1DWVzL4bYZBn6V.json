@@ -1,6 +1,6 @@
 {
   "description": "50 canciones que llenan tu rutina de pura energ\u00eda.",
-  "num_followers": 4207,
+  "num_followers": 4262,
   "original_name": "Gym Motivation",
   "owner": {
     "name": "Spotify",
@@ -187,6 +187,26 @@
     {
       "added_at": "2024-03-28 01:32:56",
       "album": {
+        "name": "Hear Me Tonight",
+        "url": "https://open.spotify.com/album/2kJHrTUZ21XbtKO9fEFzhG"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "THRDL!FE",
+          "url": "https://open.spotify.com/artist/04O00MEN0lHEKWTwRjb1nS"
+        }
+      ],
+      "duration_ms": 188500,
+      "name": "Hear Me Tonight",
+      "url": "https://open.spotify.com/track/0v8OKUrqZGoEbgEUXScRSQ"
+    },
+    {
+      "added_at": "2024-03-28 01:32:56",
+      "album": {
         "name": "We Got That Cool (feat. Afrojack & Icona Pop)",
         "url": "https://open.spotify.com/album/1WowOfXnw3DlwgjyzlAU4Q"
       },
@@ -247,26 +267,6 @@
       "duration_ms": 185000,
       "name": "Sun Is Shining",
       "url": "https://open.spotify.com/track/48xPlyqrp76RSwJirihTHo"
-    },
-    {
-      "added_at": "2024-03-28 01:32:56",
-      "album": {
-        "name": "Hear Me Tonight",
-        "url": "https://open.spotify.com/album/2kJHrTUZ21XbtKO9fEFzhG"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "THRDL!FE",
-          "url": "https://open.spotify.com/artist/04O00MEN0lHEKWTwRjb1nS"
-        }
-      ],
-      "duration_ms": 188500,
-      "name": "Hear Me Tonight",
-      "url": "https://open.spotify.com/track/0v8OKUrqZGoEbgEUXScRSQ"
     },
     {
       "added_at": "2024-03-28 01:32:56",
@@ -391,6 +391,26 @@
     {
       "added_at": "2024-03-28 01:32:56",
       "album": {
+        "name": "Rapture",
+        "url": "https://open.spotify.com/album/1ZrNcxQIqBIheVFpsU3aV6"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Daniel Blume",
+          "url": "https://open.spotify.com/artist/7pbay7w0V7OdIr3jzSRkHj"
+        }
+      ],
+      "duration_ms": 166451,
+      "name": "Rapture",
+      "url": "https://open.spotify.com/track/29KPHi6A6NNzQo8DdYa1Za"
+    },
+    {
+      "added_at": "2024-03-28 01:32:56",
+      "album": {
         "name": "Wake Up With You",
         "url": "https://open.spotify.com/album/0w3pORscruGFSgCQgw8N0E"
       },
@@ -455,26 +475,6 @@
     {
       "added_at": "2024-03-28 01:32:56",
       "album": {
-        "name": "Rapture",
-        "url": "https://open.spotify.com/album/1ZrNcxQIqBIheVFpsU3aV6"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Daniel Blume",
-          "url": "https://open.spotify.com/artist/7pbay7w0V7OdIr3jzSRkHj"
-        }
-      ],
-      "duration_ms": 166451,
-      "name": "Rapture",
-      "url": "https://open.spotify.com/track/29KPHi6A6NNzQo8DdYa1Za"
-    },
-    {
-      "added_at": "2024-03-28 01:32:56",
-      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/6al3sqwfmUAOSSucHsyy1U"
       },
@@ -531,26 +531,6 @@
     {
       "added_at": "2024-03-28 01:32:56",
       "album": {
-        "name": "Lost in Your Eyes (Radio Edit) [feat. Norka]",
-        "url": "https://open.spotify.com/album/6q13q5axUqE51wN1oB2GIq"
-      },
-      "artists": [
-        {
-          "name": "Oscar Troya",
-          "url": "https://open.spotify.com/artist/1qEogEbQ167J79TjtdCFiq"
-        },
-        {
-          "name": "Norka",
-          "url": "https://open.spotify.com/artist/5xZ6US5f16cPzE8qMLjLf1"
-        }
-      ],
-      "duration_ms": 257373,
-      "name": "Lost in Your Eyes (Radio Edit) [feat. Norka]",
-      "url": "https://open.spotify.com/track/0nDsvBpOyXOYIs433CjmrP"
-    },
-    {
-      "added_at": "2024-03-28 01:32:56",
-      "album": {
         "name": "Let You Down",
         "url": "https://open.spotify.com/album/0SIxLZVzSBT22y2s8Iw4X6"
       },
@@ -571,8 +551,28 @@
     {
       "added_at": "2024-03-28 01:32:56",
       "album": {
-        "name": "One A Day",
-        "url": "https://open.spotify.com/album/7a3CD5WnyDxWxpCaBQHYHx"
+        "name": "Lost in Your Eyes (Radio Edit) [feat. Norka]",
+        "url": "https://open.spotify.com/album/6q13q5axUqE51wN1oB2GIq"
+      },
+      "artists": [
+        {
+          "name": "Oscar Troya",
+          "url": "https://open.spotify.com/artist/1qEogEbQ167J79TjtdCFiq"
+        },
+        {
+          "name": "Norka",
+          "url": "https://open.spotify.com/artist/5xZ6US5f16cPzE8qMLjLf1"
+        }
+      ],
+      "duration_ms": 257373,
+      "name": "Lost in Your Eyes (Radio Edit) [feat. Norka]",
+      "url": "https://open.spotify.com/track/0nDsvBpOyXOYIs433CjmrP"
+    },
+    {
+      "added_at": "2024-03-28 01:32:56",
+      "album": {
+        "name": "Won't Give Up",
+        "url": "https://open.spotify.com/album/6cgX5pGfRM5YccxFeFKZr1"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
         }
       ],
-      "duration_ms": 192500,
-      "name": "One A Day",
-      "url": "https://open.spotify.com/track/09VGT0e2aYkoCVNRjOPKZa"
+      "duration_ms": 182750,
+      "name": "Won\u2019t Give Up",
+      "url": "https://open.spotify.com/track/1MWyASNuARY5NrHVPh81lx"
     },
     {
       "added_at": "2024-03-28 01:32:56",
@@ -699,26 +699,6 @@
     {
       "added_at": "2024-03-28 01:32:56",
       "album": {
-        "name": "Nada",
-        "url": "https://open.spotify.com/album/5NTJKD9sSSUkWDBfTjp7E1"
-      },
-      "artists": [
-        {
-          "name": "Madhouse",
-          "url": "https://open.spotify.com/artist/74YcnRxZTY5Nu1RIqS8ovS"
-        },
-        {
-          "name": "Angel Vergara",
-          "url": "https://open.spotify.com/artist/5MPkxfxPIhOca5QfYPfP2x"
-        }
-      ],
-      "duration_ms": 201691,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/1mlm9a4lCSLazplVoS15Fn"
-    },
-    {
-      "added_at": "2024-03-28 01:32:56",
-      "album": {
         "name": "Siren Song (feat. Eden)",
         "url": "https://open.spotify.com/album/7zis7e312jvXA0xwyS8hmG"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 207301,
       "name": "Siren Song (feat. Eden) - Radio Edit",
       "url": "https://open.spotify.com/track/1uGXhKyK50NIXNqBKN73DS"
+    },
+    {
+      "added_at": "2024-03-28 01:32:56",
+      "album": {
+        "name": "Nada",
+        "url": "https://open.spotify.com/album/5NTJKD9sSSUkWDBfTjp7E1"
+      },
+      "artists": [
+        {
+          "name": "Madhouse",
+          "url": "https://open.spotify.com/artist/74YcnRxZTY5Nu1RIqS8ovS"
+        },
+        {
+          "name": "Angel Vergara",
+          "url": "https://open.spotify.com/artist/5MPkxfxPIhOca5QfYPfP2x"
+        }
+      ],
+      "duration_ms": 201691,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/1mlm9a4lCSLazplVoS15Fn"
     },
     {
       "added_at": "2024-03-28 01:32:56",
@@ -759,8 +759,8 @@
     {
       "added_at": "2024-03-28 01:32:56",
       "album": {
-        "name": "Won't Give Up",
-        "url": "https://open.spotify.com/album/6cgX5pGfRM5YccxFeFKZr1"
+        "name": "One A Day",
+        "url": "https://open.spotify.com/album/7a3CD5WnyDxWxpCaBQHYHx"
       },
       "artists": [
         {
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
         }
       ],
-      "duration_ms": 182750,
-      "name": "Won\u2019t Give Up",
-      "url": "https://open.spotify.com/track/1MWyASNuARY5NrHVPh81lx"
+      "duration_ms": 192500,
+      "name": "One A Day",
+      "url": "https://open.spotify.com/track/09VGT0e2aYkoCVNRjOPKZa"
     },
     {
       "added_at": "2024-03-28 01:32:56",

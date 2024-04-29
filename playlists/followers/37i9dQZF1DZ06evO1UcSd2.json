@@ -1,5 +1,5 @@
 {
-  "2024-04-28": 70565,
+  "2024-04-29": 70557,
   "date_first_scraped": "2022-06-02",
   "description": "This is Lenin Ram\u00edrez. The essential tracks, all in one playlist.",
   "name": "This Is Lenin Ram\u00edrez",
@@ -992,6 +992,24 @@
     },
     {
       "album": {
+        "name": "Ella Sali\u00f3 A Bailar",
+        "url": "https://open.spotify.com/album/1pHE2T5VIuje6yrT3p9vvJ"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "date_added": "2024-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168213,
+      "name": "Ella Sali\u00f3 A Bailar",
+      "url": "https://open.spotify.com/track/2hF1YOQ1H0je4kP6S6Skhc"
+    },
+    {
+      "album": {
         "name": "Bien Positivo",
         "url": "https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv"
       },
@@ -1397,7 +1415,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 167744,
       "name": "Las Haza\u00f1as de Mi Vida",
       "url": "https://open.spotify.com/track/7gUcVowWzzVpgemedRbJLI"

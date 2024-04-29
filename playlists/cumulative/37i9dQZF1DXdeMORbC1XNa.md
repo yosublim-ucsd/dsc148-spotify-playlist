@@ -4,7 +4,7 @@
 
 > The African & West Indian diaspora united\. Cover: Tems
 
-509 songs - 1 day 2 hr 42 min
+510 songs - 1 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [A Body, A Coffin](https://open.spotify.com/track/2YYYrSLbcf5eNB5VQJxfM9) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Marvel](https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa) | [Black Panther: Wakanda Forever Prologue](https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM) | 2:49 | 2022-08-18 | 2022-09-17 |
 | [Aboboyaa \(feat\. Burna Boy\)](https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Great Is He](https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR) | 2:46 | 2023-02-01 | 2023-04-16 |
 | [Accusations](https://open.spotify.com/track/29feCTozqN8cblFF36KE85) | [Claye](https://open.spotify.com/artist/5cxA5TNOxf4h9Y9btuxpCG) | [Accusations](https://open.spotify.com/album/5TKbXvC1OuzaxYqbIj38cG) | 2:44 | 2021-12-20 | 2022-07-20 |
+| [Adenuga \(feat\. Qing Madi\)](https://open.spotify.com/track/74CA9T8IpFzrLNFV6EoY3a) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Adenuga x Concerning](https://open.spotify.com/album/1O3r2Q1sb3XUuUFwbJQKo2) | 2:40 | 2024-04-26 |  |
 | [Afro Highlife](https://open.spotify.com/track/6m6ExiV0IVR6sLPO69OczQ) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 3:07 | 2022-08-18 | 2022-09-17 |
 | [Airplane Mode \(feat\. NSG\)](https://open.spotify.com/track/1a9Tqucs04J8IUt8cww6IC) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr), [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Airplane Mode \(feat\. NSG\)](https://open.spotify.com/album/6krhhAJY1IOIU2oAZMg6IE) | 3:57 | 2021-12-20 | 2022-03-09 |
 | [All For Me](https://open.spotify.com/track/5oPJE47uQBX0akLw3YjQOx) | [AdeJosh](https://open.spotify.com/artist/7vI5Bl979W5P8zRgkdZQ7k) | [All For Me](https://open.spotify.com/album/24B7kwxNISMrceYMRsXhqf) | 2:40 | 2022-07-17 | 2022-08-06 |
@@ -417,7 +418,7 @@
 | [Shen Yeng Anthem](https://open.spotify.com/track/4lqqbSHGGR5BRtnmnky00G) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Shen Yeng Anthem](https://open.spotify.com/album/5ITcrOlnxhUg2uvlGNPJhT) | 2:21 | 2022-08-18 | 2022-09-17 |
 | [Shu\-Peru](https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Shu\-Peru](https://open.spotify.com/album/2zjCG42Kbz157MZgGreOps) | 2:19 | 2023-05-24 | 2023-08-12 |
 | [Sidepiece \(feat\. Ruger\)](https://open.spotify.com/track/5YHjORRRTB0vXlFp8XaCaN) | [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Sidepiece \(feat\. Ruger\)](https://open.spotify.com/album/5fn47w1LhCu4qHmayD2Rgx) | 3:16 | 2021-12-20 | 2022-07-27 |
-| [Sip \(Alcohol\)](https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Sip \(Alcohol\)](https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR) | 2:38 | 2021-12-20 |  |
+| [Sip \(Alcohol\)](https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Sip \(Alcohol\)](https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR) | 2:38 | 2021-12-20 | 2024-04-29 |
 | [Sittin' On Top Of The World \(feat\. 21 Savage\)](https://open.spotify.com/track/6RN73O4iZHd9JQ4JHuul95) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Sittin' On Top Of The World \(feat\. 21 Savage\)](https://open.spotify.com/album/7h29hmZt35DSt9r3fVrTjF) | 3:08 | 2023-07-21 | 2023-08-26 |
 | [Situationship](https://open.spotify.com/track/7A8itdvYqHtXddWeajX4YR) | [Ladé](https://open.spotify.com/artist/43Nm4QEBSVkJYcYhsN2Bd1) | [Omolade \(The EP\)](https://open.spotify.com/album/1ZXXB8gvIDJHF9t6qH5b7x) | 2:53 | 2022-08-18 | 2022-09-17 |
 | [Skeleton Cartier](https://open.spotify.com/track/4OGhqENXneIdSfMPHRb1Og) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Skeleton Cartier](https://open.spotify.com/album/0nlrjWXIKkwMHTXxm5oiZZ) | 3:41 | 2022-05-06 | 2022-09-17 |

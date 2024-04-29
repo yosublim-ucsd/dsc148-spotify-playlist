@@ -1,12 +1,12 @@
 {
-  "description": "This is The 1975. The essential tracks, all in one playlist.",
-  "num_followers": 772269,
+  "description": "This Is The 1975. Los temas esenciales, todos en una lista.",
+  "num_followers": 772447,
   "original_name": "This Is The 1975",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDA4OTYwMCwwMDAwMDAwMDJlODg0ZDMwYzViNTgxMGNmMWYzYzViNDc0MjI0OTBm",
+  "snapshot_id": "MTcxNDE3NjAwMCwwMDAwMDAwMDE1Nzk0MDA1ZDQ0ZGQzNDJjZGYzOWRmZjMyNWFhNjIz",
   "tracks": [
     {
       "added_at": null,
@@ -527,26 +527,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Play (feat. The 1975 & Big Sean)",
-        "url": "https://open.spotify.com/album/0CbBgFprmJ1LjDQDMKq6eS"
+        "name": "Now Is The Hour (The New Look: Season 1 (Apple TV+ Original Series Soundtrack))",
+        "url": "https://open.spotify.com/album/4GJeD72vDjBoOjNYmBF7Vo"
       },
       "artists": [
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
           "name": "The 1975",
           "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        },
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
         }
       ],
-      "duration_ms": 285954,
-      "name": "Don't Play (feat. The 1975 & Big Sean)",
-      "url": "https://open.spotify.com/track/2QKBvCMHdokPoy2b44dK2m"
+      "duration_ms": 152208,
+      "name": "Now Is The Hour (The New Look: Season 1 (Apple TV+ Original Series Soundtrack))",
+      "url": "https://open.spotify.com/track/2Xm5Iz7jDPK0mqxbHHp5Mr"
     },
     {
       "added_at": null,
@@ -567,18 +559,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Now Is The Hour (The New Look: Season 1 (Apple TV+ Original Series Soundtrack))",
-        "url": "https://open.spotify.com/album/4GJeD72vDjBoOjNYmBF7Vo"
+        "name": "Don't Play (feat. The 1975 & Big Sean)",
+        "url": "https://open.spotify.com/album/0CbBgFprmJ1LjDQDMKq6eS"
       },
       "artists": [
         {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
           "name": "The 1975",
           "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
         }
       ],
-      "duration_ms": 152208,
-      "name": "Now Is The Hour (The New Look: Season 1 (Apple TV+ Original Series Soundtrack))",
-      "url": "https://open.spotify.com/track/2Xm5Iz7jDPK0mqxbHHp5Mr"
+      "duration_ms": 285954,
+      "name": "Don't Play (feat. The 1975 & Big Sean)",
+      "url": "https://open.spotify.com/track/2QKBvCMHdokPoy2b44dK2m"
     },
     {
       "added_at": null,

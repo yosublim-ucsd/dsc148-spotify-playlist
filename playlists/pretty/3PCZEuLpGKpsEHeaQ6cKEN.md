@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 ### [Armada Today](https://open.spotify.com/playlist/3PCZEuLpGKpsEHeaQ6cKEN)
 
-> The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover: Joris Voorn &amp; AVIRA
+> The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover: Armin van Buuren, D.O.D
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 272,303 likes - 200 songs - 10 hr 38 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 272,275 likes - 200 songs - 10 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Orange Theme](https://open.spotify.com/track/6qUoVjPN8Ys5NfnTgJrkBT) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS) | [The Orange Theme](https://open.spotify.com/album/5NZSTlwgjkrpFBp6WEOW0e) | 3:23 |
-| 2 | [By Now](https://open.spotify.com/track/0OxLol8qf9zsrXSs1IqyMu) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Laura Welsh](https://open.spotify.com/artist/2QGdI8fUEuoVPJ4xuC5NDe) | [By Now](https://open.spotify.com/album/5ayaI14vSPFDIUK23VwzRX) | 2:33 |
+| 1 | [By Now](https://open.spotify.com/track/0OxLol8qf9zsrXSs1IqyMu) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Laura Welsh](https://open.spotify.com/artist/2QGdI8fUEuoVPJ4xuC5NDe) | [By Now](https://open.spotify.com/album/5ayaI14vSPFDIUK23VwzRX) | 2:33 |
+| 2 | [The Orange Theme](https://open.spotify.com/track/6qUoVjPN8Ys5NfnTgJrkBT) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS) | [The Orange Theme](https://open.spotify.com/album/5NZSTlwgjkrpFBp6WEOW0e) | 3:23 |
 | 3 | [PATT \(Party All The Time\) \- Adam Beyer, Layton Giordani & Green Velvet Remix](https://open.spotify.com/track/6DFHSmlrZLDZnXV5kTTMF6) | [Sharam](https://open.spotify.com/artist/7rVEQZBDtYmToQaYOQJCm2), [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [PATT \(Party All The Time\) \[Adam Beyer, Layton Giordani & Green Velvet Remix\]](https://open.spotify.com/album/5GqWIHTVjceZXGpzIc1a2J) | 3:03 |
 | 4 | [Hands](https://open.spotify.com/track/5u1mG6G7YKeI7mmebulqUT) | [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [Hands](https://open.spotify.com/album/44xvwDapMZ387AQbNoBSGW) | 2:28 |
 | 5 | [Release Me \- CID Remix](https://open.spotify.com/track/6ATXWjpQo0MZfQPhMOT7G6) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [Release Me \(CID Remix\)](https://open.spotify.com/album/2YZfuumyamhue8qP9CL7IW) | 3:02 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 199 | [Suzanne's Groove](https://open.spotify.com/track/43wPkKQ5SB5xAVCPTjX6Iq) | [Smokey Bubblin' B](https://open.spotify.com/artist/1iXq8vdKgJp43m1vhiAmUM) | [Suzanne's Groove](https://open.spotify.com/album/1kCsXYg5AIsSBKrIBjvkRN) | 2:39 |
 | 200 | [Immortal](https://open.spotify.com/track/0nzVN0Ln1nnN5eSSUSmztb) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Visions, Vol\. 1](https://open.spotify.com/album/4u118aJAyUdQmQAmyTdSyb) | 3:30 |
 
-Snapshot ID: `NTM1NDQsY2IxN2Q2NTVmNzk4YzEwYzdhODU2ZTIzNDE1YmVhMTk3Njc1OTY1MQ==`
+Snapshot ID: `NTM1NDYsYzY5NjRkZTdjNWM0NTExMDkxZGY4N2ZkYzhhYjcyMjc0Njg5NzAzMA==`

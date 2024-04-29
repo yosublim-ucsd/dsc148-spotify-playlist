@@ -1,6 +1,6 @@
 {
   "description": "Homegrown Ugandan hits in one playlist. Cover: Victor Ruz",
-  "num_followers": 2726,
+  "num_followers": 2739,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,22 @@
     {
       "added_at": "2024-04-12 12:19:17",
       "album": {
+        "name": "Bailando",
+        "url": "https://open.spotify.com/album/7t4A3s2p3zolibFnDwx1xY"
+      },
+      "artists": [
+        {
+          "name": "Vinka",
+          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
+        }
+      ],
+      "duration_ms": 184950,
+      "name": "Bailando",
+      "url": "https://open.spotify.com/track/5Kl68dPoUw00u2RvXLYFnn"
+    },
+    {
+      "added_at": "2024-04-12 12:19:17",
+      "album": {
         "name": "Bwepaba",
         "url": "https://open.spotify.com/album/3KTcQeURSAxN6ubdoh9QKa"
       },
@@ -187,46 +203,6 @@
       "duration_ms": 172871,
       "name": "Bwepaba",
       "url": "https://open.spotify.com/track/5zxBCElTKxOF2FptuZBjDt"
-    },
-    {
-      "added_at": "2024-04-12 12:19:17",
-      "album": {
-        "name": "Falling In Love",
-        "url": "https://open.spotify.com/album/1ZSLFbAvGTUNECT52W2KCJ"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        },
-        {
-          "name": "LeoStayTrill",
-          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
-        },
-        {
-          "name": "KatManDu",
-          "url": "https://open.spotify.com/artist/1255i2Jr7gEHyppuqmnsm5"
-        }
-      ],
-      "duration_ms": 141517,
-      "name": "Falling in Love",
-      "url": "https://open.spotify.com/track/5aJ7cMRKGlNwe4Mpl7aNot"
-    },
-    {
-      "added_at": "2024-04-12 12:19:17",
-      "album": {
-        "name": "Bailando",
-        "url": "https://open.spotify.com/album/7t4A3s2p3zolibFnDwx1xY"
-      },
-      "artists": [
-        {
-          "name": "Vinka",
-          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
-        }
-      ],
-      "duration_ms": 184950,
-      "name": "Bailando",
-      "url": "https://open.spotify.com/track/5Kl68dPoUw00u2RvXLYFnn"
     },
     {
       "added_at": "2024-04-12 12:19:17",
@@ -283,6 +259,30 @@
     {
       "added_at": "2024-04-12 12:19:17",
       "album": {
+        "name": "Falling In Love",
+        "url": "https://open.spotify.com/album/1ZSLFbAvGTUNECT52W2KCJ"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "LeoStayTrill",
+          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
+        },
+        {
+          "name": "KatManDu",
+          "url": "https://open.spotify.com/artist/1255i2Jr7gEHyppuqmnsm5"
+        }
+      ],
+      "duration_ms": 141517,
+      "name": "Falling in Love",
+      "url": "https://open.spotify.com/track/5aJ7cMRKGlNwe4Mpl7aNot"
+    },
+    {
+      "added_at": "2024-04-12 12:19:17",
+      "album": {
         "name": "Singa",
         "url": "https://open.spotify.com/album/5riKKBkN3da2gAB13Hh3B9"
       },
@@ -299,6 +299,42 @@
       "duration_ms": 197052,
       "name": "Singa",
       "url": "https://open.spotify.com/track/0nnoC0HoYWuixdEfgMt0SB"
+    },
+    {
+      "added_at": "2024-04-12 12:19:17",
+      "album": {
+        "name": "SANKOFA",
+        "url": "https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC"
+      },
+      "artists": [
+        {
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+        },
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Summer Bae",
+      "url": "https://open.spotify.com/track/4FKLDG7TJuMHtaP9sDZOpi"
+    },
+    {
+      "added_at": "2024-04-12 12:19:17",
+      "album": {
+        "name": "Namulabako",
+        "url": "https://open.spotify.com/album/04Z3CMpi3cYj1QvoZ7ilMj"
+      },
+      "artists": [
+        {
+          "name": "Ugaboys",
+          "url": "https://open.spotify.com/artist/3MJRn5EWi6McEFbI00qNGe"
+        }
+      ],
+      "duration_ms": 167816,
+      "name": "Namulabako",
+      "url": "https://open.spotify.com/track/2iuL25zyjR69LmdlDzkj34"
     },
     {
       "added_at": "2024-04-12 12:19:17",
@@ -339,62 +375,6 @@
     {
       "added_at": "2024-04-12 12:19:17",
       "album": {
-        "name": "SANKOFA",
-        "url": "https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC"
-      },
-      "artists": [
-        {
-          "name": "Azawi",
-          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
-        },
-        {
-          "name": "Konshens",
-          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Summer Bae",
-      "url": "https://open.spotify.com/track/4FKLDG7TJuMHtaP9sDZOpi"
-    },
-    {
-      "added_at": "2024-04-12 12:19:17",
-      "album": {
-        "name": "Shabada",
-        "url": "https://open.spotify.com/album/2v5MZK7ZOZLOTMfVkZUrYs"
-      },
-      "artists": [
-        {
-          "name": "Mudra D Viral",
-          "url": "https://open.spotify.com/artist/5QYFEa8H6MtxI6FC2jC4MR"
-        },
-        {
-          "name": "Ava Peace",
-          "url": "https://open.spotify.com/artist/69W7xi5UQXD8Y4SyHzHZJE"
-        }
-      ],
-      "duration_ms": 196858,
-      "name": "Shabada",
-      "url": "https://open.spotify.com/track/0MAjaeCdFkFDWZlewMv5w1"
-    },
-    {
-      "added_at": "2024-04-12 12:19:17",
-      "album": {
-        "name": "Namulabako",
-        "url": "https://open.spotify.com/album/04Z3CMpi3cYj1QvoZ7ilMj"
-      },
-      "artists": [
-        {
-          "name": "Ugaboys",
-          "url": "https://open.spotify.com/artist/3MJRn5EWi6McEFbI00qNGe"
-        }
-      ],
-      "duration_ms": 167816,
-      "name": "Namulabako",
-      "url": "https://open.spotify.com/track/2iuL25zyjR69LmdlDzkj34"
-    },
-    {
-      "added_at": "2024-04-12 12:19:17",
-      "album": {
         "name": "NANA (feat. Joeboy, King Promise & BIEN) [Remix]",
         "url": "https://open.spotify.com/album/6wJBlGByE21Q8v3Q3YiGs0"
       },
@@ -419,6 +399,42 @@
       "duration_ms": 199190,
       "name": "NANA - Remix",
       "url": "https://open.spotify.com/track/7opZfbxpDVfytlGZ8AgDQL"
+    },
+    {
+      "added_at": "2024-04-12 12:19:17",
+      "album": {
+        "name": "Nkujjukira",
+        "url": "https://open.spotify.com/album/57ag105JslVN8kfhARNrL3"
+      },
+      "artists": [
+        {
+          "name": "Sheebah",
+          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
+        }
+      ],
+      "duration_ms": 185217,
+      "name": "Nkujjukira",
+      "url": "https://open.spotify.com/track/4EoZIOo7vQYfWm9u3byBff"
+    },
+    {
+      "added_at": "2024-04-12 12:19:17",
+      "album": {
+        "name": "Shabada",
+        "url": "https://open.spotify.com/album/2v5MZK7ZOZLOTMfVkZUrYs"
+      },
+      "artists": [
+        {
+          "name": "Mudra D Viral",
+          "url": "https://open.spotify.com/artist/5QYFEa8H6MtxI6FC2jC4MR"
+        },
+        {
+          "name": "Ava Peace",
+          "url": "https://open.spotify.com/artist/69W7xi5UQXD8Y4SyHzHZJE"
+        }
+      ],
+      "duration_ms": 196858,
+      "name": "Shabada",
+      "url": "https://open.spotify.com/track/0MAjaeCdFkFDWZlewMv5w1"
     },
     {
       "added_at": "2024-04-12 12:19:17",
@@ -455,22 +471,6 @@
     {
       "added_at": "2024-04-12 12:19:17",
       "album": {
-        "name": "Nkujjukira",
-        "url": "https://open.spotify.com/album/57ag105JslVN8kfhARNrL3"
-      },
-      "artists": [
-        {
-          "name": "Sheebah",
-          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
-        }
-      ],
-      "duration_ms": 185217,
-      "name": "Nkujjukira",
-      "url": "https://open.spotify.com/track/4EoZIOo7vQYfWm9u3byBff"
-    },
-    {
-      "added_at": "2024-04-12 12:19:17",
-      "album": {
         "name": "Captain",
         "url": "https://open.spotify.com/album/7q5fBbqtu0Ypcb3mCvlKjE"
       },
@@ -491,26 +491,6 @@
     {
       "added_at": "2024-04-12 12:19:17",
       "album": {
-        "name": "Ability",
-        "url": "https://open.spotify.com/album/7snzcqObYYgEgCzXPXCjqe"
-      },
-      "artists": [
-        {
-          "name": "Kohen Jaycee",
-          "url": "https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1"
-        },
-        {
-          "name": "Axon",
-          "url": "https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol"
-        }
-      ],
-      "duration_ms": 174706,
-      "name": "Ability",
-      "url": "https://open.spotify.com/track/2WfykADENkOGFjTxL8I5Cs"
-    },
-    {
-      "added_at": "2024-04-12 12:19:17",
-      "album": {
         "name": "No Lie",
         "url": "https://open.spotify.com/album/5GEQghh5ACDyb2Vbz25FnI"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 196363,
       "name": "No Lie",
       "url": "https://open.spotify.com/track/6ElY31qcNcHfiMH2cvuveK"
+    },
+    {
+      "added_at": "2024-04-12 12:19:17",
+      "album": {
+        "name": "Ability",
+        "url": "https://open.spotify.com/album/7snzcqObYYgEgCzXPXCjqe"
+      },
+      "artists": [
+        {
+          "name": "Kohen Jaycee",
+          "url": "https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1"
+        },
+        {
+          "name": "Axon",
+          "url": "https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol"
+        }
+      ],
+      "duration_ms": 174706,
+      "name": "Ability",
+      "url": "https://open.spotify.com/track/2WfykADENkOGFjTxL8I5Cs"
     },
     {
       "added_at": "2024-04-12 12:19:17",
@@ -627,6 +627,22 @@
     {
       "added_at": "2024-04-12 12:19:17",
       "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/184CyMEhWh2T7O32DlVucH"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "duration_ms": 186382,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/5aDbyGU5A2TScEkKczGVUM"
+    },
+    {
+      "added_at": "2024-04-12 12:19:17",
+      "album": {
         "name": "Bwereere",
         "url": "https://open.spotify.com/album/4iNoXsaeBjdhkX8DOHrZaX"
       },
@@ -687,18 +703,26 @@
     {
       "added_at": "2024-04-12 12:19:17",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/184CyMEhWh2T7O32DlVucH"
+        "name": "Baby Don't Go",
+        "url": "https://open.spotify.com/album/24GSq07wjmZqUSR6U1t1tA"
       },
       "artists": [
         {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+          "name": "Bright-D",
+          "url": "https://open.spotify.com/artist/7zPWBifsb7AHKrY2tPXniK"
+        },
+        {
+          "name": "Livforit",
+          "url": "https://open.spotify.com/artist/68uhrd8OUr4OFZmmvvt6Vd"
+        },
+        {
+          "name": "MUVUNYI",
+          "url": "https://open.spotify.com/artist/5L1TL5jBqCs3O2eS1IEB5x"
         }
       ],
-      "duration_ms": 186382,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/5aDbyGU5A2TScEkKczGVUM"
+      "duration_ms": 184117,
+      "name": "Baby Don't Go",
+      "url": "https://open.spotify.com/track/7ereF3RNh0A92CqVD1Hrd0"
     },
     {
       "added_at": "2024-04-12 12:19:17",
@@ -775,30 +799,6 @@
     {
       "added_at": "2024-04-12 12:19:17",
       "album": {
-        "name": "Baby Don't Go",
-        "url": "https://open.spotify.com/album/24GSq07wjmZqUSR6U1t1tA"
-      },
-      "artists": [
-        {
-          "name": "Bright-D",
-          "url": "https://open.spotify.com/artist/7zPWBifsb7AHKrY2tPXniK"
-        },
-        {
-          "name": "Livforit",
-          "url": "https://open.spotify.com/artist/68uhrd8OUr4OFZmmvvt6Vd"
-        },
-        {
-          "name": "MUVUNYI",
-          "url": "https://open.spotify.com/artist/5L1TL5jBqCs3O2eS1IEB5x"
-        }
-      ],
-      "duration_ms": 184117,
-      "name": "Baby Don't Go",
-      "url": "https://open.spotify.com/track/7ereF3RNh0A92CqVD1Hrd0"
-    },
-    {
-      "added_at": "2024-04-12 12:19:17",
-      "album": {
         "name": "Kimugunyu",
         "url": "https://open.spotify.com/album/3IXuIkjdJIq5tnLin2bIgE"
       },
@@ -831,6 +831,26 @@
     {
       "added_at": "2024-04-12 12:19:17",
       "album": {
+        "name": "Gukuba",
+        "url": "https://open.spotify.com/album/2sGJOLxu38C9Fzin1iwB8z"
+      },
+      "artists": [
+        {
+          "name": "Nandor Love",
+          "url": "https://open.spotify.com/artist/2EYPLKM3ofZPhkG9XY79U6"
+        },
+        {
+          "name": "Vyroota",
+          "url": "https://open.spotify.com/artist/2b5YPqWMEx2WyASIUvVn9R"
+        }
+      ],
+      "duration_ms": 172965,
+      "name": "Gukuba",
+      "url": "https://open.spotify.com/track/17rKr1FfnEDzA1LfyoAZqx"
+    },
+    {
+      "added_at": "2024-04-12 12:19:17",
+      "album": {
         "name": "Q'lalea",
         "url": "https://open.spotify.com/album/5FBkaeCPyo9SAKYGTz4NTu"
       },
@@ -851,26 +871,6 @@
       "duration_ms": 204261,
       "name": "Q'lalea",
       "url": "https://open.spotify.com/track/0VLklpLJUem9Vt80EFQi5M"
-    },
-    {
-      "added_at": "2024-04-12 12:19:17",
-      "album": {
-        "name": "Gukuba",
-        "url": "https://open.spotify.com/album/2sGJOLxu38C9Fzin1iwB8z"
-      },
-      "artists": [
-        {
-          "name": "Nandor Love",
-          "url": "https://open.spotify.com/artist/2EYPLKM3ofZPhkG9XY79U6"
-        },
-        {
-          "name": "Vyroota",
-          "url": "https://open.spotify.com/artist/2b5YPqWMEx2WyASIUvVn9R"
-        }
-      ],
-      "duration_ms": 172965,
-      "name": "Gukuba",
-      "url": "https://open.spotify.com/track/17rKr1FfnEDzA1LfyoAZqx"
     },
     {
       "added_at": "2024-04-12 12:19:17",
@@ -935,26 +935,6 @@
     {
       "added_at": "2024-04-12 12:19:17",
       "album": {
-        "name": "Ekyama",
-        "url": "https://open.spotify.com/album/7pP6QgWbnNyzsArFSCklj0"
-      },
-      "artists": [
-        {
-          "name": "Jozzi Uganda",
-          "url": "https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3"
-        },
-        {
-          "name": "Will84",
-          "url": "https://open.spotify.com/artist/1BeeJoeMWmKFM93rL0fF09"
-        }
-      ],
-      "duration_ms": 217021,
-      "name": "Ekyama",
-      "url": "https://open.spotify.com/track/0309BYyPGtJuZu5BRqcsYf"
-    },
-    {
-      "added_at": "2024-04-12 12:19:17",
-      "album": {
         "name": "My Date",
         "url": "https://open.spotify.com/album/6pxjIHdQiPZyZ7oecyNPm4"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 210000,
       "name": "My Date",
       "url": "https://open.spotify.com/track/7MymgauD1EQPJoApCn1RVG"
+    },
+    {
+      "added_at": "2024-04-12 12:19:17",
+      "album": {
+        "name": "Ekyama",
+        "url": "https://open.spotify.com/album/7pP6QgWbnNyzsArFSCklj0"
+      },
+      "artists": [
+        {
+          "name": "Jozzi Uganda",
+          "url": "https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3"
+        },
+        {
+          "name": "Will84",
+          "url": "https://open.spotify.com/artist/1BeeJoeMWmKFM93rL0fF09"
+        }
+      ],
+      "duration_ms": 217021,
+      "name": "Ekyama",
+      "url": "https://open.spotify.com/track/0309BYyPGtJuZu5BRqcsYf"
     },
     {
       "added_at": "2024-04-12 12:19:17",

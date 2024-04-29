@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > 🍯🍯🍯\. Photo : Arma Jackson
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,761 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,804 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 28 | [Get out](https://open.spotify.com/track/2TmZvS9mrPnIAcd5OsEHAx) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Get out](https://open.spotify.com/album/66wO4PPB1dAupIjGHCI4X5) | 2:41 |
 | 29 | [Prédatrice](https://open.spotify.com/track/2YUGbE007BGwUEUBWRO5kk) | [Gros Mo](https://open.spotify.com/artist/7r65N4pfWPM7D0zKe86jgk) | [Prédatrice](https://open.spotify.com/album/6wftxblgo2IdoUoVDLzOfj) | 3:12 |
 | 30 | [dettes & doutes](https://open.spotify.com/track/1bm4RjFSsHIQ4z8WxFrIFF) | [HASNA](https://open.spotify.com/artist/30ZYb42MwDzkubaZm2GEoq) | [dettes & doutes](https://open.spotify.com/album/4EzjfpAy0krq50I8HZOH9g) | 2:54 |
-| 31 | [Saudade](https://open.spotify.com/track/5JRbmX1uwh3ZgxqNo653qQ) | [AFFA](https://open.spotify.com/artist/0owJTnrvYgiIYSXsvnsSQv) | [Saudade](https://open.spotify.com/album/2uU4hrAmslLUYUtKOevSZW) | 4:39 |
+| 31 | [Saudade](https://open.spotify.com/track/5JRbmX1uwh3ZgxqNo653qQ) | [AFFA](https://open.spotify.com/artist/6OYuMeXCCMPFWo9816vuu9) | [Saudade](https://open.spotify.com/album/2uU4hrAmslLUYUtKOevSZW) | 4:39 |
 | 32 | [Room 69 \- Acoustic version](https://open.spotify.com/track/7pU322ixXzZ1Lostt5Rz1n) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Room 69 \(Acoustic version\)](https://open.spotify.com/album/1TXY709t3Wr10BWHiu9Yem) | 2:50 |
 | 33 | [les autres](https://open.spotify.com/track/1q84ggy0S6Lozil3NeRarh) | [Siyé](https://open.spotify.com/artist/0l4sh43GlADH6WxFw2iPwn) | [amour béton](https://open.spotify.com/album/0Ciyif3VgyLfXP7biH4Q7C) | 3:13 |
 | 34 | [Conséquences \(feat\. Tuerie\)](https://open.spotify.com/track/0TQzpIYyBIhnBjbyq5yEdf) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL), [Tuerie](https://open.spotify.com/artist/1UILCk5p48n9qaNf1uie0a) | [Conséquences \(feat\. Tuerie\)](https://open.spotify.com/album/03VtAtXTEuKUysbNav4Yuh) | 2:41 |

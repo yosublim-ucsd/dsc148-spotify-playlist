@@ -1,5 +1,5 @@
 {
-  "2024-04-28": 707,
+  "2024-04-29": 707,
   "date_first_scraped": "2022-06-05",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/5nEbufTK1GscqQUw0AL6wp\">JonTheProducer</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By JonTheProducer",
@@ -2360,6 +2360,24 @@
     },
     {
       "album": {
+        "name": "Pink Aura",
+        "url": "https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "date_added": "2024-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180372,
+      "name": "Ojo X Ojo",
+      "url": "https://open.spotify.com/track/3OGOwjwdae1OulCD4DK1ic"
+    },
+    {
+      "album": {
         "name": "Ojo X Ojo",
         "url": "https://open.spotify.com/album/3z2e4ob5NdNuKyyGhOgB5W"
       },
@@ -2371,7 +2389,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 181106,
       "name": "Ojo X Ojo",
       "url": "https://open.spotify.com/track/0W4yC1CrhJVQCpcFrB6oGU"

@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-706 songs - 1 day 14 hr 38 min
+707 songs - 1 day 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -443,6 +443,7 @@
 | [neve give up](https://open.spotify.com/track/2a5qaGUrVHWAIrh0xmTADM) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [aloha](https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd) | 3:41 | 2021-12-15 | 2023-01-28 |
 | [Never Get Enough](https://open.spotify.com/track/1v20BOUbOcMGKujbMQj3Li) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Never Get Enough](https://open.spotify.com/album/4AtPTZNc6lEMelJJEsGvMD) | 4:20 | 2023-10-27 | 2024-04-08 |
 | [Never Know](https://open.spotify.com/track/62L4gX0hWCso6ikzA9yjpe) | [Mulherin](https://open.spotify.com/artist/0pvhBvl3SFpzhahmYfqcPo) | [Never Know](https://open.spotify.com/album/4GymIaS8BsKYYPJqzgr5Bf) | 3:03 | 2021-12-15 | 2022-04-18 |
+| [New Beginnings](https://open.spotify.com/track/2p63i5ntlS4BvoL0ijU9bG) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [New Beginnings](https://open.spotify.com/album/0dOkdpavoIyGjpcihlQfQL) | 3:04 | 2024-04-26 |  |
 | [New Lows](https://open.spotify.com/track/3AcEznRWD9ySaNvW6TUxcc) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [Midnight Microdose, Vol\. 2](https://open.spotify.com/album/3nZfR3g2APtjLlOOE3h6jL) | 1:26 | 2023-09-16 | 2024-02-25 |
 | [NEXT CHAPTER](https://open.spotify.com/track/2bXMwqj4qwHU6dFc1lAuox) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Paradigm Shift](https://open.spotify.com/album/5uEbP31l5YIIzRWsGqCd6b) | 2:23 | 2024-04-12 |  |
 | [Night Terrific! \(feat\. Yaqob\)](https://open.spotify.com/track/1wQxWFfARHkHVPd9PnZiKU) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj), [Yaqob](https://open.spotify.com/artist/5poGTBtoUMt7M5UtX0XpcU) | [Night Terrific! \(feat\. Yaqob\)](https://open.spotify.com/album/6FK7EC7d9V88Eo1F9bQm8g) | 2:44 | 2021-12-15 | 2022-07-28 |
@@ -591,7 +592,7 @@
 | [STAY HERE \(feat\. Amaria\)](https://open.spotify.com/track/6xuGIouNLgWg4VEhEMp5NJ) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5), [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [STAY HERE](https://open.spotify.com/album/7u1fxY1Iy0RLXgd7HAokB6) | 4:27 | 2023-07-07 | 2023-10-22 |
 | [Stay High \- Childish Gambino Version](https://open.spotify.com/track/6Rrehwtm21J7E6r5b2kEHq) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Stay High \(Childish Gambino Version\)](https://open.spotify.com/album/3xCcyKRPqKMFMwXYfLSYLD) | 3:38 | 2021-12-15 | 2022-02-12 |
 | [Stole My Love](https://open.spotify.com/track/1ex37MbvUY3yBvwsh8yZVl) | [Jay Isaiah](https://open.spotify.com/artist/0oMty0VPLJbB8WAQ8otDAs) | [Stole My Love](https://open.spotify.com/album/7f44ShiYsYglLbfIwZAXOE) | 3:31 | 2021-12-15 | 2022-09-30 |
-| [Stolen](https://open.spotify.com/track/0btt9Gjani8H6MnUAMtEsm) | [Collard](https://open.spotify.com/artist/3UHGHiVMz1L0XqFi3oXHvH), [Raelle](https://open.spotify.com/artist/6ryr8CPNOimXJHnbtyZKtc), [S\. Fidelity](https://open.spotify.com/artist/3XQIlYQsopsDCYMSkf1rEW), [Gabiga](https://open.spotify.com/artist/7KmiBNHemPsEwpLvRXHvQg) | [Stolen](https://open.spotify.com/album/2sVtn85VLn8JhH9Lsw4QWD) | 4:20 | 2023-11-19 |  |
+| [Stolen](https://open.spotify.com/track/0btt9Gjani8H6MnUAMtEsm) | [Collard](https://open.spotify.com/artist/3UHGHiVMz1L0XqFi3oXHvH), [Raelle](https://open.spotify.com/artist/6ryr8CPNOimXJHnbtyZKtc), [S\. Fidelity](https://open.spotify.com/artist/3XQIlYQsopsDCYMSkf1rEW), [Gabiga](https://open.spotify.com/artist/7KmiBNHemPsEwpLvRXHvQg) | [Stolen](https://open.spotify.com/album/2sVtn85VLn8JhH9Lsw4QWD) | 4:20 | 2023-11-19 | 2024-04-29 |
 | [stop for a minute](https://open.spotify.com/track/7mkrBDZgRFsxWqJ20h9ISM) | [Ethan French](https://open.spotify.com/artist/03Y8hH60ObeKNFsDcum6Uu) | [stop for a minute](https://open.spotify.com/album/38z3wlo5iGMunGpJXK180B) | 2:12 | 2023-09-08 | 2024-02-28 |
 | [stronger than pride](https://open.spotify.com/track/54URaRW4KVRnIklZvxS353) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [stronger than pride](https://open.spotify.com/album/5StH2wfzayHmArLMOxmPd3) | 2:26 | 2023-09-16 | 2023-11-01 |
 | [Such A Thing](https://open.spotify.com/track/7dAtplicSnwRymddH1qmpC) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Marigold](https://open.spotify.com/album/5hMEASKNPus4JjSIO5BCqz) | 3:25 | 2023-02-12 |  |

@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/5nz3AAoDyHSidelqd2fnci.md) - [plain]
 
 > 
 
-[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 50 min 34 sec
+[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 39 min 5 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [To Bring You My Love](https://open.spotify.com/track/537IPiZTZ1GVcohzFHAHf5) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [To Bring You My Love](https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8) | 5:31 |
-| 2 | [Temptation](https://open.spotify.com/track/0qrUNGTDg1YwfC8RLMdsoC) | [Leaves' Eyes](https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ) | [Lovelorn](https://open.spotify.com/album/3etwb6Byr4OaBoe4TBDlw6) | 3:44 |
-| 3 | [The Evil That Men Do \- 1998 Remaster](https://open.spotify.com/track/2FkxsINVws3o8Ox4fSvc3N) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Seventh Son Of A Seventh Son \(1998 Remastered Edition\)](https://open.spotify.com/album/7cdDal1Z1YFYfqH2nFGOJa) | 4:33 |
-| 4 | [Childhood \(Theme from "Free Willy 2"\)](https://open.spotify.com/track/1Cfx6KBsyF0tEKbZbS4faj) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [HIStory \- PAST, PRESENT AND FUTURE \- BOOK I](https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk) | 4:27 |
-| 5 | [Volverme Amar](https://open.spotify.com/track/0ik9ayovWhJWxhwXPtaGUc) | [Henao](https://open.spotify.com/artist/2tAOr6Bu4b1JDQjRZcMdML) | [Volverme Amar](https://open.spotify.com/album/20mCBhOBx82QuOJ2BsHfgp) | 2:10 |
-| 6 | [Body to Body](https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL) | [Gepy & Gepy](https://open.spotify.com/artist/09FocFgY6iQKkQB91QPK5o) | [Italian Dance](https://open.spotify.com/album/64cl4El2FwAO60rDuUxg33) | 3:12 |
-| 7 | [Of Wolf And Man \(Live with the SFSO\)](https://open.spotify.com/track/57U9JRGUXtHko5Jc2liyKT) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [S&M](https://open.spotify.com/album/7HcHPb1P9mubh0vyDdawAv) | 4:18 |
-| 8 | [Runaway](https://open.spotify.com/track/5BtaoCOyc1rMPWiV6SsQFg) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Punk Goes Pop, Volume 4](https://open.spotify.com/album/2fp3CYdsCAx9VXYHv1PTTv) | 8:44 |
-| 9 | [ooweeooweeoo](https://open.spotify.com/track/5zVkl4naswYMPDdlY9ENSQ) | [Chanpan](https://open.spotify.com/artist/1fWoiW6kTjrVDoRc4ba3kh) | [ooweeooweeoo](https://open.spotify.com/album/329ru3PYSAfzO3K7sl5T19) | 1:58 |
-| 10 | [Yer Killin' Me](https://open.spotify.com/track/79lzbYqczF4oLoOkxx9mHK) | [Remo Drive](https://open.spotify.com/artist/5LMPXUMhWXshBPjrqvZOfv) | [Greatest Hits](https://open.spotify.com/album/7fYIVBhlC5gKvOSDFsUxxT) | 3:54 |
-| 11 | [Emmaretta \- 1998 Remaster](https://open.spotify.com/track/00HE1qHBiJhWYhRfh22qK8) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [The Very Best Of \(Special Edition\)](https://open.spotify.com/album/0XmL85owcwkhqvKLgJObQx) | 3:00 |
-| 12 | [Fix You](https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:55 |
+| 1 | [Cohkka](https://open.spotify.com/track/0TkZ7Vdzb19mgZoTfSypqy) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I) | [Reflections](https://open.spotify.com/album/5WzytSkKsXzzXoTtsDOnnn) | 4:27 |
+| 2 | [Cena de Sushi Trendy](https://open.spotify.com/track/3HaOUGPBnZUXEgQulvHxmQ) | [Musica de Restaurante Japones De Lujo](https://open.spotify.com/artist/1qZL6NnNMtXckfzaIONnfB) | [Cena de Sushi \(Limpiar\)](https://open.spotify.com/album/3HJdxsAsabTEhW7pKdq8PS) | 1:58 |
+| 3 | [Belong To The Wind](https://open.spotify.com/track/4p6yT9iFL3RHRBqcw5vWKM) | [Edgar Homeros](https://open.spotify.com/artist/4j8tcurjLu5pZAi0uogaYg) | [Belong To The Wind](https://open.spotify.com/album/2VbHINJMhuepw7PnR49mCa) | 2:21 |
+| 4 | [luminous sword](https://open.spotify.com/track/6KxzcLy6kE2PgOySf1q7K6) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [ソードアート・オンライン ミュージックコレクション](https://open.spotify.com/album/7t3It6EP6isk5ZpBKgupYZ) | 2:28 |
+| 5 | [Hold Up](https://open.spotify.com/track/5jIPK0iZ3wzCHWsEze021Z) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Hold Up](https://open.spotify.com/album/6Wjf1qyWX7TZfsmcjo5Qab) | 2:28 |
+| 6 | [Rise \- Acoustic](https://open.spotify.com/track/3QyOcn34X7dp5rSj4WpdBG) | [A Skylit Drive](https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9) | [Rise: Ascension](https://open.spotify.com/album/4P2Fo2MQhNicCEm9IBQ2vA) | 3:19 |
+| 7 | [For What It's Worth](https://open.spotify.com/track/5Ih40KFkj3cSzxgisQxBvX) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [As You Were \(Deluxe Edition\)](https://open.spotify.com/album/2V3WS9tlPYmscBNWHHYu9X) | 4:11 |
+| 8 | [Make Me Bad](https://open.spotify.com/track/49A4p9a2240E6UimcrBNFf) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Greatest Hits, Vol\. 1](https://open.spotify.com/album/3NSivK5tIM5k4IiH5wobRr) | 3:55 |
+| 9 | [Lemuria](https://open.spotify.com/track/4pjh4Dk29lwxAlIehtdZbr) | [Therion](https://open.spotify.com/artist/5c8Cw62ZYj9XO6iDLRDEsi) | [Lemuria](https://open.spotify.com/album/2isIdgokoyF3PQUphlGzjp) | 4:15 |
+| 10 | [Intro](https://open.spotify.com/track/5FWs1SriPWwFCoyzt5uiI6) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [And Their Name Was Treason](https://open.spotify.com/album/4UlUTVHQgmjBbptRHWUI5T) | 0:42 |
+| 11 | [Symphony Of Destruction \- Demo](https://open.spotify.com/track/0QtwMdKESlYdMUTAcYyC7m) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 5:29 |
+| 12 | [Better Off This Way](https://open.spotify.com/track/5TtOrriDfiamVEKrls2GIT) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [What Separates Me From You](https://open.spotify.com/album/2kllnMabPw1hYID0MhQRK0) | 3:26 |
 
-Snapshot ID: `OTksYmUyMjE0NWU1NDFiOWZmNDJhOTc1ZGRmNThiZjc4YTkzMDZmMjJmMQ==`
+Snapshot ID: `MTAwLGFmZWU1ZmQ4NjFmOWRiYmNmNGE2ODc2YzQxNDY0NjNkMjVhZmFkMGM=`

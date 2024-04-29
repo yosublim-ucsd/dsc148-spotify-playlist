@@ -4,7 +4,7 @@
 
 > What Will the 2024 Song of the Summer Be!? Find out with the perfect soundtrack for the sweatiest season! Includes Summer 2023, 2022 editions &amp; bonus tracks.
 
-3,294 songs - 7 day 18 hr 59 min
+3,297 songs - 7 day 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [ALREADY](https://open.spotify.com/track/1TSinFFcDJJzR6ErO81Y3c) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [The Lion King: The Gift \[Deluxe Edition\]](https://open.spotify.com/album/7kUuNU2LRmr9XbwLHXU9UZ) | 3:43 | 2023-07-21 | 2023-08-28 |
 | [Alright](https://open.spotify.com/track/5vPVxHRFg8cUwRr8j7yqXf) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Get Lifted](https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J) | 3:20 | 2019-09-29\* | 2021-11-19 |
 | [Alright](https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 3:39 | 2020-07-12 | 2020-08-20 |
+| [Alright](https://open.spotify.com/track/5CQvKyzkWI7TnUu2oB9QZ0) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [I Should Coco](https://open.spotify.com/album/4XeQWsW3K9qjfv5FP9Jtcv) | 3:00 | 2024-04-29 |  |
 | [ALUCINABA](https://open.spotify.com/track/5I1HVRAtnvapsOF7iBN9Y8) | [Goca](https://open.spotify.com/artist/2wQl8Iv3h5Q0cwhMreVexO) | [ALUCINABA](https://open.spotify.com/album/5e1ffCGOWj0ci7jNGOBJD9) | 3:26 | 2024-01-30 | 2024-02-11 |
 | [Always in Time](https://open.spotify.com/track/5Q47duygQZfoSZBFPboqwB) | [Troielle](https://open.spotify.com/artist/17SfPqAL8LbL5kA9YNYIwY) | [Always in Time](https://open.spotify.com/album/16LLppA284KUMddowtYoVJ) | 3:10 | 2024-04-26 |  |
 | [ALWAYS NOWHERE](https://open.spotify.com/track/0yzb7gPnOMuTI1hR8JqfEa) | [DESTROY BORING](https://open.spotify.com/artist/5BiDqBXwTV38xUhyYISGHQ), [Belis](https://open.spotify.com/artist/6j6e89Rb6ghGgLduAOpxkD) | [ALWAYS NOWHERE](https://open.spotify.com/album/2uBcHRyXm7tITq6MKWXoqM) | 1:55 | 2023-03-06 | 2023-03-31 |
@@ -1570,7 +1571,7 @@
 | [LA](https://open.spotify.com/track/3iO75SIMLzSatHRDfWmNUF) | [3NIGMA](https://open.spotify.com/artist/6tZIB0k2xzSx5o7P1m7tvq) | [LA](https://open.spotify.com/album/5g9PJlDFxPG6sn3IgRZ9pw) | 2:03 | 2021-06-19 | 2021-07-04 |
 | [La Bebe \- Remix](https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Bebe \(Remix\)](https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti) | 3:54 | 2023-07-20 |  |
 | [La Despedida](https://open.spotify.com/track/3EJgRWyLSrbBqMTj7oMZln) | [N3ko](https://open.spotify.com/artist/6BiVyVPtAL35KVcguNMPDW), [Becca](https://open.spotify.com/artist/6SDkocG9wTPzVk5RdOTKoX) | [Pop Hitz \(16\)](https://open.spotify.com/album/4f0DJRLtuNpExYY4P3SuLF) | 2:56 | 2023-08-18 | 2023-09-26 |
-| [La Diabla](https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Diabla](https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v) | 2:52 | 2024-03-31 |  |
+| [La Diabla](https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Diabla](https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v) | 2:52 | 2024-03-31 | 2024-04-29 |
 | [La Difícil](https://open.spotify.com/track/6NfrH0ANGmgBXyxgV2PeXt) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:43 | 2021-07-12 | 2021-11-19 |
 | [La Soledad Me Elige](https://open.spotify.com/track/54jbUuPstiaL4r3YM3yYRU) | [TitoPappito](https://open.spotify.com/artist/7HfAECdNrDpIdYc1dCEZns) | [Extrañando El Verano](https://open.spotify.com/album/1syTWjwOV7WwyIkj1ZkgtM) | 3:28 | 2024-03-05 | 2024-03-13 |
 | [Lab Rats: White Coats](https://open.spotify.com/track/7l5vjtyqqqu6Q4MrC5ZoiF) | [ØZWALD](https://open.spotify.com/artist/7pwk3M6iETEiAFLwqkgLrk) | [Artificial Odyssey](https://open.spotify.com/album/0CwAF3BC2gOuFcyqX2cF6y) | 2:17 | 2022-01-07 | 2022-02-18 |
@@ -2610,6 +2611,7 @@
 | [Soul Tie](https://open.spotify.com/track/2iVEGPTLFHNrTURqmt0lLW) | [Ninja Nai](https://open.spotify.com/artist/1HzJQa47y3chgBRun5Ur7n) | [Soul Tie](https://open.spotify.com/album/2rLFHdGKygEoV3BccXYrHx) | 3:14 | 2021-07-04 | 2021-07-18 |
 | [Souls Craving](https://open.spotify.com/track/6TwwOvtbI3SmzGjDeNBJl9) | [Danielle Apicella](https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5) | [Souls Craving](https://open.spotify.com/album/3Rzbg1Lg9U5Dhb9uAHPJoa) | 2:58 | 2022-04-08 | 2022-05-15 |
 | [Souly Interlude \- Time Is Color](https://open.spotify.com/track/2R5iu22K1byWlo1HQ3D4TD) | [Cédric Hanriot](https://open.spotify.com/artist/78sChrFdCE4ZhNJviGcI5v), [Days](https://open.spotify.com/artist/3rtwibWZhlTR8lIxscFmDG) | [Souly Interlude \(Time Is Color\)](https://open.spotify.com/album/2Ay2MbzxiH4awOtbDzuhZN) | 1:52 | 2022-09-09 | 2022-09-25 |
+| [South Suburban Weekend](https://open.spotify.com/track/2bMy7ar4VpU4zqtDTEpDTz) | [Rubberband Girl](https://open.spotify.com/artist/6qOThA4u1cN1OIn0sxHabV), [Caitlyn Scarlett](https://open.spotify.com/artist/1Bztk1lPSvwiBJCujObyxU) | [South Suburban Weekend](https://open.spotify.com/album/1THsMEh2GXrpww296NKXdK) | 2:50 | 2024-04-28 |  |
 | [Space & Time](https://open.spotify.com/track/5t7tS4mNmzSKVUjoEsvJUa) | [Palo Brea](https://open.spotify.com/artist/7iZVT9FeVAZA2oh5GRVjFY) | [Does Not Exist](https://open.spotify.com/album/13ZII4JeJBUTFUbxwZxXyu) | 4:12 | 2022-06-01 | 2022-06-29 |
 | [Space + Space](https://open.spotify.com/track/23O3mxKAobIPWOnqyvHxMW) | [Aroe Phoenix](https://open.spotify.com/artist/6AkFDQFapnYQswNRaqPSVO) | [Space + Space](https://open.spotify.com/album/6iy2XpKwyal7CXGgtrcidK) | 4:37 | 2022-06-30 | 2022-11-10 |
 | [Space+Space](https://open.spotify.com/track/2eT94a7Id3qQBw5PLl8GGx) | [Aroe Phoenix](https://open.spotify.com/artist/6AkFDQFapnYQswNRaqPSVO) | [Space+Space](https://open.spotify.com/album/53bsb7FeqEYNGtkVY8wquC) | 4:37 | 2022-05-15 | 2022-07-27 |
@@ -2776,6 +2778,7 @@
 | [Tamagotchi](https://open.spotify.com/track/7sg9kDT8H2P0wPACXnWRdN) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 2:48 | 2022-07-26 |  |
 | [Tambaleque](https://open.spotify.com/track/5CaZSQt5nHU0RltIERKiOc) | [Lady Nattasja](https://open.spotify.com/artist/572RMRgMonIPVISKX8GHBV) | [Tambaleque](https://open.spotify.com/album/1innQLWttHuAoMi4o5SRk5) | 2:10 | 2023-03-18 | 2023-04-09 |
 | [Tan Rico](https://open.spotify.com/track/56G56C4vvrRFevOLI9MNB6) | [Bryan Sánchez](https://open.spotify.com/artist/50OQTQNylyhDvJtzxXnDn2) | [Tan Rico](https://open.spotify.com/album/51DRG4tthiuU7yNpcCRumK) | 3:00 | 2024-03-13 | 2024-03-24 |
+| [Tangled](https://open.spotify.com/track/0xYf6xgcccmdR98usa57Bg) | [Thomas Jay](https://open.spotify.com/artist/39Ji7aJQwGI9gZ0SGZCkRa) | [Tangled](https://open.spotify.com/album/5YQDPopNBRhZhkwNCIItco) | 3:10 | 2024-04-28 |  |
 | [Tangled](https://open.spotify.com/track/5zOxbR56sP7l2lawHl45HM) | [Winnie Ama](https://open.spotify.com/artist/4DJIumnofpauv3dYkgZSv1) | [Tangled](https://open.spotify.com/album/3u908dnLWI42dDAkbXSBN8) | 3:07 | 2024-04-27 |  |
 | [Tangled Up In Blue](https://open.spotify.com/track/3C4Zea52Xn9iTc25JH0jEJ) | [Mathilde Widding](https://open.spotify.com/artist/7yiilgx7kKijTeHJs2FoWb) | [Tangled Up In Blue](https://open.spotify.com/album/1lcVucENJc5lkGtSzHjSEc) | 3:05 | 2023-08-18 | 2023-09-26 |
 | [Tanlines](https://open.spotify.com/track/41lC7nv0tVyRIyFn3d8mmg) | [charly haze](https://open.spotify.com/artist/38giuuDpP3ozqOkyIalx2X) | [Tanlines](https://open.spotify.com/album/35OiOGLJK5lHHdFPXdk1SN) | 3:42 | 2021-02-26 | 2021-03-14 |

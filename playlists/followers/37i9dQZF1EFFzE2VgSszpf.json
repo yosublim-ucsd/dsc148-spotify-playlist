@@ -1,5 +1,5 @@
 {
-  "2024-04-28": 671,
+  "2024-04-29": 671,
   "date_first_scraped": "2022-05-26",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/7IpfIGtcw2TKQNK7jYRhp5\">Kadhja Bonet</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Kadhja Bonet",
@@ -741,10 +741,32 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 212934,
       "name": "Plans We Make",
       "url": "https://open.spotify.com/track/3T8FCttEVrCkz69AMHReIU"
+    },
+    {
+      "album": {
+        "name": "Tomorrows III",
+        "url": "https://open.spotify.com/album/2uIok4N2xby1W5x3WhSAba"
+      },
+      "artists": [
+        {
+          "name": "Son Lux",
+          "url": "https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe"
+        },
+        {
+          "name": "Kadhja Bonet",
+          "url": "https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF"
+        }
+      ],
+      "date_added": "2024-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212934,
+      "name": "Plans We Make",
+      "url": "https://open.spotify.com/track/4yrEBkqDex90UlTrpDNWp5"
     },
     {
       "album": {

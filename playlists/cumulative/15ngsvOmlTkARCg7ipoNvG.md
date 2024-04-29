@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,758 songs - 1 day 12 hr 23 min
+1,759 songs - 1 day 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -761,6 +761,7 @@
 | [Hope Is True](https://open.spotify.com/track/2YiNveOYT0UOl5wRzYPSsQ) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Ambient Harp](https://open.spotify.com/album/5Fr7wNbfLCDor0R70n0CUD) | 1:06 | 2022-03-03 |  |
 | [Hope Together](https://open.spotify.com/track/15mcPR1p3hWTcjKTxHdXEy) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Hope Together](https://open.spotify.com/album/6rkocIimpyqAeyHVj2Du8t) | 1:01 | 2023-04-08 | 2024-02-13 |
 | [Hope Together \- Cello Version](https://open.spotify.com/track/3hzF7FLgkjpPjLxDlPLANM) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Hope Together](https://open.spotify.com/album/30S1OLCemh9TXRv1Z2sghX) | 1:01 | 2023-09-06 | 2024-02-13 |
+| [Hopeful](https://open.spotify.com/track/55ESWvZcBMSFU0R1cwSTDG) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Hopeful](https://open.spotify.com/album/7ozr3fwsZAUtG79zcjGMol) | 1:00 | 2024-04-28 |  |
 | [Hopeful Days](https://open.spotify.com/track/1tAuKGdkhRNDLZwvHrLZ3M) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Hopeful Days](https://open.spotify.com/album/6Ljq4T0dD2GrdYy3kGz9nt) | 1:03 | 2024-02-09 | 2024-02-13 |
 | [Hopeful Moment](https://open.spotify.com/track/773R4yXjSiFMcuXSGa4pwo) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Loving State](https://open.spotify.com/album/1n19RPtityGMv4cjOOOXLl) | 1:00 | 2023-07-05 |  |
 | [Hopeful Reflections](https://open.spotify.com/track/24vycfedMpXmM0g7x3A8Rn) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Grace](https://open.spotify.com/album/7u09esJxNXcRMBGAHoQ8EC) | 1:49 | 2024-01-29 |  |

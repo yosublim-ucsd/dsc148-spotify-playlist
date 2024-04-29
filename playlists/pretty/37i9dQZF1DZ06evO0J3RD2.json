@@ -1,12 +1,12 @@
 {
   "description": "This is Movements. The essential tracks, all in one playlist.",
-  "num_followers": 6489,
+  "num_followers": 6494,
   "original_name": "This Is Movements",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDA4OTYwMCwwMDAwMDAwMDYyNzFhZGY2ZWMyYTI4ZmI4NGFhMmRjNGZlNWFmYWFl",
+  "snapshot_id": "MTcxNDE3NjAwMCwwMDAwMDAwMDMwYjgwOTdkMjYxMTE5NmY2NzkwMDc0ZDczNDJhMTgx",
   "tracks": [
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 186667,
-      "name": "Worst Wishes",
-      "url": "https://open.spotify.com/track/4iZKboBUScbIPlhBqG0P2x"
+      "duration_ms": 164084,
+      "name": "Hatchet",
+      "url": "https://open.spotify.com/track/6jGPtSuSPFODlN1a7TQuqT"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 164084,
-      "name": "Hatchet",
-      "url": "https://open.spotify.com/track/6jGPtSuSPFODlN1a7TQuqT"
+      "duration_ms": 186667,
+      "name": "Worst Wishes",
+      "url": "https://open.spotify.com/track/4iZKboBUScbIPlhBqG0P2x"
     },
     {
       "added_at": null,

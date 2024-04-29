@@ -1,5 +1,5 @@
 {
-  "2024-04-28": 27119,
+  "2024-04-29": 27128,
   "date_first_scraped": "2022-06-02",
   "description": "Disfruta con los dulces y tradicionales sonidos de la marimba.",
   "name": "Marimba",
@@ -1777,7 +1777,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 204328,
       "name": "Mambo del Politecnico",
       "url": "https://open.spotify.com/track/52CUFksI6jXx3Cvg6MtY9B"
@@ -2643,6 +2643,24 @@
       "duration_ms": 423466,
       "name": "Sones Chiapanecos",
       "url": "https://open.spotify.com/track/2UivhTv8Gsqy7qI6sr8qbV"
+    },
+    {
+      "album": {
+        "name": "En Concierto",
+        "url": "https://open.spotify.com/album/2lfTr5gFbW8j6PzZUXa3nw"
+      },
+      "artists": [
+        {
+          "name": "Marimba Nandayapa",
+          "url": "https://open.spotify.com/artist/6BNTYyi6vioSRcseOxQcC8"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 465946,
+      "name": "Sones de Mariachi",
+      "url": "https://open.spotify.com/track/6VOsbeMYt72TIJg0ANdqzE"
     },
     {
       "album": {

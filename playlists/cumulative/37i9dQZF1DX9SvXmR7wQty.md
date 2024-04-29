@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Les Cowboys Fringants
 
-2,481 songs - 5 day 12 hr 38 min
+2,482 songs - 5 day 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1074,6 +1074,7 @@
 | [Jeudredi](https://open.spotify.com/track/62aHISvX2eYqpZO6VAWMCC) | [David Pineau](https://open.spotify.com/artist/3n53aGeDfq4Vc3q7OpstmY), [Anthony Gaudet](https://open.spotify.com/artist/2Acgfke9DIf3ZLRwiVMqCi) | [Jeudredi](https://open.spotify.com/album/5rgxPhxSqa6tFoyK8BduGW) | 2:24 | 2023-01-13 | 2023-01-21 |
 | [jm'en bas les couilles](https://open.spotify.com/track/4liOxDRHynaU7pAREKkH0A) | [angelus](https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK) | [jm'en bas les couilles](https://open.spotify.com/album/61lVQh4YSAFeBU0XATTDh7) | 2:22 | 2022-10-28 | 2022-11-12 |
 | [Jn'attendrai plus](https://open.spotify.com/track/6UOGItOYXOpnqCORE9VP9t) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [Par Fierté](https://open.spotify.com/album/3joknrlbS386Npao4I4p49) | 3:52 | 2023-09-15 | 2023-10-01 |
+| [JOE PESCI](https://open.spotify.com/track/5ZRX1nlpURKlGCFxWWgFeq) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Inso Le Véritable](https://open.spotify.com/artist/05IsLgQufqq7O7NtDKN3x6) | [JOE PESCI](https://open.spotify.com/album/0zQa5HVQkdUBcfgfjpfAqQ) | 3:19 | 2024-04-26 |  |
 | [Joli coeur](https://open.spotify.com/track/00YhQePKpHGPqcnmYxIj0x) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Joli coeur](https://open.spotify.com/album/2r0jcbln2gKoim766i3rsd) | 3:14 | 2023-10-20 | 2024-01-05 |
 | [Joli cœur](https://open.spotify.com/track/4xCFHoSZjzetjFGQadXlgR) | [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Evidence](https://open.spotify.com/album/2h6EgCJTdQ57YGsmp4pCII) | 2:53 | 2023-04-07 | 2023-05-13 |
 | [Jolie Go](https://open.spotify.com/track/4QiJK3bjjI3mbzyKDjjGlg) | [Shay](https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU) | [Jolie Go](https://open.spotify.com/album/52zSoFhwybohJaFzHMI9CF) | 2:46 | 2023-03-03 | 2023-03-18 |
@@ -1707,7 +1708,7 @@
 | [Pareil mais différent](https://open.spotify.com/track/5jMUzrpbfbGFBSbWYHceGb) | [Clea Vincent](https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu) | [Pareil mais différent](https://open.spotify.com/album/3w7Oj73ra5LYS9nWTG818e) | 3:34 | 2022-06-17 | 2022-06-25 |
 | [Parfaite à l'écran](https://open.spotify.com/track/7mITLNL1Dg0SZXL4PHG4Y5) | [Karkwa](https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ) | [Parfaite à l'écran](https://open.spotify.com/album/1JY36zZ5pcZurWXM7wo6fP) | 3:36 | 2023-05-19 | 2023-06-04 |
 | [Paris](https://open.spotify.com/track/381Ol9G2ibkIausZhbr6aX) | [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [Paris](https://open.spotify.com/album/5O1nozJq79ZpHyAjcHEPta) | 3:10 | 2023-08-11 | 2023-08-26 |
-| [Parisienne High Level](https://open.spotify.com/track/5OYJXif1vzHZFvFORFBpvI) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [Parisienne High Level](https://open.spotify.com/album/6jvxhfExqa59zUlIIrCHUp) | 2:31 | 2024-03-22 |  |
+| [Parisienne High Level](https://open.spotify.com/track/5OYJXif1vzHZFvFORFBpvI) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [Parisienne High Level](https://open.spotify.com/album/6jvxhfExqa59zUlIIrCHUp) | 2:31 | 2024-03-22 | 2024-04-29 |
 | [Parler au passé](https://open.spotify.com/track/1PbbKVA0yeSpTfyJiqFWiU) | [Francis Bedard](https://open.spotify.com/artist/3h8yd5Ig09beZqG3Gdg0u3) | [Parler au passé](https://open.spotify.com/album/10vvie4cumMML9NoDD2omk) | 3:01 | 2023-01-06 | 2023-01-21 |
 | [Parler de nous](https://open.spotify.com/track/32YBIhzebjwpqwSYZbDiu9) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Parler de nous](https://open.spotify.com/album/3lVI7Rh4ow2Yqs6RQL56Ds) | 3:13 | 2023-09-29 | 2023-12-02 |
 | [Parmi ces âmes](https://open.spotify.com/track/00aV6YbJQmkTMUuNNIj0Zh) | [Adib Alkhalidey](https://open.spotify.com/artist/1EwYqZHaDtS8o7lHNI172L) | [Pour tuer le temps](https://open.spotify.com/album/4n5gKWJsbpOqgXLpt8tMGy) | 4:41 | 2022-11-11 | 2022-12-03 |

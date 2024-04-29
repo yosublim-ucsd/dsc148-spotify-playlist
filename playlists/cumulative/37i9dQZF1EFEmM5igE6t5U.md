@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7clFvfOCA8KimyV26jLALB">Alicia Keys</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-224 songs - 14 hr 28 min
+226 songs - 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,13 +50,15 @@
 | [Djin Djin](https://open.spotify.com/track/5N1mTgADSRUVGo7CAin1qc) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Branford Marsalis](https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH) | [Djin Djin](https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY) | 4:18 | 2023-03-09 |  |
 | [Doesn't Mean Anything](https://open.spotify.com/track/5bpx60gYQoDDJcP7vBygPB) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Element Of Freedom](https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN) | 4:32 | 2023-03-09 |  |
 | [Doesn't Mean Anything](https://open.spotify.com/track/2FKYQbdegoxuFDoSKbsYPn) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Doesn't Mean Anything \(Official Video\)](https://open.spotify.com/album/2ALfo7D0Vt1jn1ySuSPElR) | 5:13 | 2023-12-14 | 2024-01-30 |
-| [Don't Look Down](https://open.spotify.com/track/3oQvY7w8mN9HxqdB8tqmei) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [I Remember Me](https://open.spotify.com/album/10nkWocfwen0Q76rRn5nHC) | 3:23 | 2023-03-09 |  |
+| [Don't Look Down](https://open.spotify.com/track/3oQvY7w8mN9HxqdB8tqmei) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [I Remember Me](https://open.spotify.com/album/10nkWocfwen0Q76rRn5nHC) | 3:23 | 2023-03-09 | 2024-04-29 |
+| [Don't Look Down](https://open.spotify.com/track/1jRw75oOIHb37y1Fb6EUuW) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [I Remember Me](https://open.spotify.com/album/73xzYfVVYvkwYrhb5iUvjH) | 3:23 | 2024-04-28 |  |
 | [Doncha Know \(Sky Is Blue\)](https://open.spotify.com/track/5YAWeJWnS3cbpb7sR3m1tN) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [As I Am \(Expanded Edition\)](https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h) | 4:24 | 2023-03-09 |  |
 | [Dragon Days](https://open.spotify.com/track/7q4ElMUqO1sqqdrIvQ6HEY) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 4:36 | 2023-03-09 |  |
 | [Dreaming](https://open.spotify.com/track/56ETSZBV9jtQyNyczx2w7A) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Doesn't Mean Anything \- EP](https://open.spotify.com/album/3RRFK4HevxLEhDRVOJL0Jv) | 4:32 | 2023-03-09 |  |
 | [Elaine Brown \(Interlude\)](https://open.spotify.com/track/32niUFJvA4W0Vqc2VeE7Ug) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [HERE](https://open.spotify.com/album/5M31iLPzYuYxkpSO5tBOMN) | 0:50 | 2023-03-09 |  |
 | [Elevate \(Interlude\)](https://open.spotify.com/track/467kGQSPBcQPppRB8Nu1Ff) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [HERE](https://open.spotify.com/album/5M31iLPzYuYxkpSO5tBOMN) | 0:48 | 2023-03-09 |  |
-| [Everybody Needs Love](https://open.spotify.com/track/5RUl2R5ZfqmgC7MKRH4BGX) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [I Remember Me](https://open.spotify.com/album/10nkWocfwen0Q76rRn5nHC) | 3:14 | 2023-03-09 |  |
+| [Everybody Needs Love](https://open.spotify.com/track/4tCWmTPJEJgPkTo2gUi4cY) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [I Remember Me](https://open.spotify.com/album/73xzYfVVYvkwYrhb5iUvjH) | 3:13 | 2024-04-28 |  |
+| [Everybody Needs Love](https://open.spotify.com/track/5RUl2R5ZfqmgC7MKRH4BGX) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [I Remember Me](https://open.spotify.com/album/10nkWocfwen0Q76rRn5nHC) | 3:14 | 2023-03-09 | 2024-04-29 |
 | [Fallin'](https://open.spotify.com/track/4M3VnGriMuTOUV65fj16yg) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Fallin' \(Official HD Video\)](https://open.spotify.com/album/2MjtMw3tO5lMcHHPaussio) | 3:26 | 2023-12-13 | 2024-02-02 |
 | [Fallin'](https://open.spotify.com/track/0KQx6HOpJueiSkztcS0r7D) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 3:30 | 2023-03-09 |  |
 | [Feeling U, Feeling Me \(Interlude\)](https://open.spotify.com/track/4noLzwgD4GzlbLRbSCElVq) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 2:07 | 2023-03-09 |  |

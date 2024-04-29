@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > The best in modern indie\. Cover: mk.gee
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,079,067 likes - 119 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,078,848 likes - 119 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Hozier. Los temas esenciales, todos en una lista.",
-  "num_followers": 481148,
+  "description": "This is Hozier. The essential tracks, all in one playlist.",
+  "num_followers": 481722,
   "original_name": "This Is Hozier",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDA4OTYwMCwwMDAwMDAwMDdmNGYzOTc5MmViNjRlNGRjYWZlNjliMmE0ZThlNDI4",
+  "snapshot_id": "MTcxNDE3NjAwMCwwMDAwMDAwMDE5NWU3ZDNmNTM4NDY4ODE0MzhmZjVjZjFhNWNiZTVk",
   "tracks": [
     {
       "added_at": null,
@@ -327,8 +327,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unheard",
-        "url": "https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F"
+        "name": "Wasteland, Baby!",
+        "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
       },
       "artists": [
         {
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 188454,
-      "name": "Fare Well",
-      "url": "https://open.spotify.com/track/2VB6TOrUH8suLLiHIisrKT"
+      "duration_ms": 210573,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/69WkwzVjQS4Dc8QQtpz0qM"
     },
     {
       "added_at": null,
@@ -359,8 +359,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wasteland, Baby!",
-        "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
+        "name": "Unheard",
+        "url": "https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F"
       },
       "artists": [
         {
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 210573,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/69WkwzVjQS4Dc8QQtpz0qM"
+      "duration_ms": 188454,
+      "name": "Fare Well",
+      "url": "https://open.spotify.com/track/2VB6TOrUH8suLLiHIisrKT"
     },
     {
       "added_at": null,

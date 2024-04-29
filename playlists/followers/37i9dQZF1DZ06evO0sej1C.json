@@ -1,5 +1,5 @@
 {
-  "2024-04-28": 38234,
+  "2024-04-29": 38246,
   "date_first_scraped": "2023-03-25",
   "description": "This is Yoss Bones. The essential tracks, all in one playlist.",
   "name": "This Is Yoss Bones",
@@ -645,7 +645,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 225600,
       "name": "Eres Mi Aire",
       "url": "https://open.spotify.com/track/1sNoZW9xuJkNPeeBJgqLpG"
@@ -1693,7 +1693,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 199280,
       "name": "\u00c1mame",
       "url": "https://open.spotify.com/track/5908gatfcY7nK2xJt75zGx"

@@ -1,12 +1,12 @@
 {
-  "description": "This is Pop Smoke. The essential tracks, all in one playlist.",
-  "num_followers": 466999,
+  "description": "This Is Pop Smoke. Los temas esenciales, todos en una lista.",
+  "num_followers": 467055,
   "original_name": "This Is Pop Smoke",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDA4OTYwMCwwMDAwMDAwMGM1OWJjNzZiMGYyYzdmOGI2ZWU2Y2EzZWRjZWU1ODdm",
+  "snapshot_id": "MTcxNDE3NjAwMCwwMDAwMDAwMGYxNDZmMTczNDM4NDcwYzJiN2VhM2I4ZTU1OGFmMWFj",
   "tracks": [
     {
       "added_at": null,
@@ -751,22 +751,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "100k On A Coupe",
-        "url": "https://open.spotify.com/album/1RUkOaQD5teWHg7JmrVBGB"
+        "name": "Good Intentions",
+        "url": "https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS"
       },
       "artists": [
         {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         },
         {
-          "name": "Calboy",
-          "url": "https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk"
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
         }
       ],
-      "duration_ms": 117093,
-      "name": "100k On A Coupe (feat. Calboy)",
-      "url": "https://open.spotify.com/track/4wVuGccjXDNf9sWWVajkpk"
+      "duration_ms": 179371,
+      "name": "Run It Up (feat. Pop Smoke)",
+      "url": "https://open.spotify.com/track/6LUE5WlMgrpLouGxzJAUVv"
     },
     {
       "added_at": null,
@@ -795,22 +795,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Intentions",
-        "url": "https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS"
+        "name": "100k On A Coupe",
+        "url": "https://open.spotify.com/album/1RUkOaQD5teWHg7JmrVBGB"
       },
       "artists": [
         {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
           "name": "Pop Smoke",
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Calboy",
+          "url": "https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk"
         }
       ],
-      "duration_ms": 179371,
-      "name": "Run It Up (feat. Pop Smoke)",
-      "url": "https://open.spotify.com/track/6LUE5WlMgrpLouGxzJAUVv"
+      "duration_ms": 117093,
+      "name": "100k On A Coupe (feat. Calboy)",
+      "url": "https://open.spotify.com/track/4wVuGccjXDNf9sWWVajkpk"
     },
     {
       "added_at": null,

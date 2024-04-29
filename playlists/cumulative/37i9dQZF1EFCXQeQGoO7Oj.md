@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS">Max Martin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-519 songs - 1 day 7 hr 1 min
+520 songs - 1 day 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,8 @@
 | [Falling Slow](https://open.spotify.com/track/60oySTIhRHLzjjAzkitM63) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Unbreakable Smile](https://open.spotify.com/album/30QwSnTFUhCGee32ng1tvL) | 3:54 | 2024-01-29 |  |
 | [Fast Car](https://open.spotify.com/track/6aj2PLLML1AF6Ja9tfULCk) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [The Fast Hits EP](https://open.spotify.com/album/5whYqJlJ87Zuyv665iZRZc) | 3:45 | 2024-01-29 |  |
 | [Feels Like Tonight](https://open.spotify.com/track/2ybT2tUk0uqrjFE3ppf0et) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Daughtry \(Deluxe Edition\)](https://open.spotify.com/album/6ii8Ja21xLGkFH8CQ6bKjj) | 3:58 | 2024-01-29 |  |
-| [First Love](https://open.spotify.com/track/4lcFmr3KkpCgsa4zamPGzw) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [A.K.A\. \(Deluxe\)](https://open.spotify.com/album/7DoFFUz6BAVBwUFaMCTTcL) | 3:35 | 2024-01-29 |  |
+| [First Love](https://open.spotify.com/track/4lcFmr3KkpCgsa4zamPGzw) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [A.K.A\. \(Deluxe\)](https://open.spotify.com/album/7DoFFUz6BAVBwUFaMCTTcL) | 3:35 | 2024-01-29 | 2024-04-29 |
+| [First Love](https://open.spotify.com/track/5P16LUPtZ1I5t3EqwELD53) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [A.K.A\. \(Deluxe\)](https://open.spotify.com/album/5sgtN5B8rUr6nfUzJ4RRIk) | 3:35 | 2024-04-28 |  |
 | [For All That You Want](https://open.spotify.com/track/2CandjgzRFCj1roFo4eoud) | [Gary Barlow](https://open.spotify.com/artist/3ZcbVcd3fsf9qKK02UVzGB) | [Twelve Months, Eleven Days](https://open.spotify.com/album/3KWW58aDPkF44ZZAQMu3lK) | 3:37 | 2024-01-29 |  |
 | [For Now](https://open.spotify.com/track/2kVIolfEUjIiYDEPZLTQHg) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Beautiful Trauma](https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz) | 3:36 | 2024-01-29 |  |
 | [Forever Until Tomorrow](https://open.spotify.com/track/7EaScyD2SKCSvZHqsY0RSK) | [MKTO](https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v) | [MKTO](https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE) | 3:46 | 2024-01-29 |  |

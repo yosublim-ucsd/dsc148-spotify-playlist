@@ -1,12 +1,12 @@
 {
-  "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
-  "num_followers": 114171,
+  "description": "This Is Edicion Especial. Los temas esenciales, todos en una lista.",
+  "num_followers": 114299,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDA4OTYwMCwwMDAwMDAwMDJhZTVkYzQ0MmNjYjQ0MDA3Y2ViYjYyYmU3N2YwZmY3",
+  "snapshot_id": "MTcxNDE3NjAwMCwwMDAwMDAwMDdkMWJmNTlkN2QwYjI2OWYwMjQ5ZGI1ZjY5ZDZjMmUw",
   "tracks": [
     {
       "added_at": null,
@@ -487,26 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Lloro",
-        "url": "https://open.spotify.com/album/2gKxbvUws8depMnbZld0P8"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        },
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        }
-      ],
-      "duration_ms": 259531,
-      "name": "Que Lloro",
-      "url": "https://open.spotify.com/track/7BqDHVGw4tlgv86QXrEaiJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Me Quiero Enamorar",
         "url": "https://open.spotify.com/album/5dTyit7m5HJ2q5S0zFKhyP"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 259976,
       "name": "Hoy Ya Me Voy",
       "url": "https://open.spotify.com/track/5oBed9LF8gyRsVVKZsnwSp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Lloro",
+        "url": "https://open.spotify.com/album/2gKxbvUws8depMnbZld0P8"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        },
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "duration_ms": 259531,
+      "name": "Que Lloro",
+      "url": "https://open.spotify.com/track/7BqDHVGw4tlgv86QXrEaiJ"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4?si=I6stoJF2QIyRNcL6arzJTg">Tyler ICU</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,388 likes - 59 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,478 likes - 59 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 47 | [Sunset Beach](https://open.spotify.com/track/043sDCbUstmYjpo8I3Ey5y) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq), [Jacko](https://open.spotify.com/artist/2eGQ2U7oSfLP26Bl9nBCKA), [NAE \(SA\)](https://open.spotify.com/artist/7jQMNIOf6vfiQvzwQqSzFs) | [Sunset Beach](https://open.spotify.com/album/5RBEhbmzr1KvkAZZU3B41G) | 7:32 |
 | 48 | [Me And You \(feat\. Miči\)](https://open.spotify.com/track/5BXi5EeJEDFGvcX5Tb4vww) | [Da Africa Deep](https://open.spotify.com/artist/0DDzEXacqh3F5GGIwji59b), [Miči](https://open.spotify.com/artist/1aJGoykRBEjrMcNWOhV5am) | [Me And You](https://open.spotify.com/album/5cTPpmNFK2yLor6XUcgPme) | 4:20 |
 | 49 | [Chomiey](https://open.spotify.com/track/7GzzoK84kKPxVtows0X9aT) | [K.O.B SA](https://open.spotify.com/artist/4IwvNxAzhTvGHN3MRuAQLN), [Boontle RSA](https://open.spotify.com/artist/47krblknOhmovlOAbneemK), [2woshort](https://open.spotify.com/artist/2CsKNR9HBBs3bAswmPz825), [Stompiiey](https://open.spotify.com/artist/16IdDbuertDHTGF9Si2eCN) | [Chomiey](https://open.spotify.com/album/3FVCVd1lOSZyrqEGm0PsuC) | 5:51 |
-| 50 | [uMkhuleko](https://open.spotify.com/track/6C0BP5IlMCCXkCplC4W2Bf) | [Mzux Maen](https://open.spotify.com/artist/3AqE17ZUeQYdJuQhb1gFZ0) | [uMkhuleko](https://open.spotify.com/album/7xe1XdfJUuH1xC4F5FsLah) | 6:35 |
+| 50 | [uMkhuleko](https://open.spotify.com/track/6C0BP5IlMCCXkCplC4W2Bf) | [Mzux Maen](https://open.spotify.com/artist/3AqE17ZUeQYdJuQhb1gFZ0), [Gajomba Jnr](https://open.spotify.com/artist/6uQD8a2e1udlGJLc5Ze4Qc), [Siph3](https://open.spotify.com/artist/75e0THMOTFQIx7tcHoq4go) | [uMkhuleko](https://open.spotify.com/album/7xe1XdfJUuH1xC4F5FsLah) | 6:35 |
 | 51 | [A Hi Tirheni \(feat\. Dj Matt MC\)](https://open.spotify.com/track/1HoImhLGygzpsahw6rNdTb) | [Siar Mäspila](https://open.spotify.com/artist/77BVLIZRqf2JHLus6aPRLk), [Dj Matt MC](https://open.spotify.com/artist/0K0zLlJso2Q3ZabEMQBLiv) | [A Hi Tirheni \(feat\. Dj Matt MC\)](https://open.spotify.com/album/5RdlAQMCcSWRvJdIVJQ35W) | 6:09 |
 | 52 | [Recall](https://open.spotify.com/track/5yYCfhhRrFspj5bVebdI2F) | [Hypaphonik](https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io) | [Recall](https://open.spotify.com/album/3G41bOHHVO3TNKuPB4taRF) | 6:13 |
 | 53 | [Time](https://open.spotify.com/track/1EwFCXUDJVpQEnXJOfhuZg) | [Joda Kgosi](https://open.spotify.com/artist/4JKR7xRiiHNUXEiHHwg1E8) | [Time](https://open.spotify.com/album/4qLhQVT4loCtRyqhk4UB29) | 3:38 |

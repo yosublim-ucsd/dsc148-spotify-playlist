@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HLZ1HlBcqR.md) - [plain]
 
 > Exitos de Selena para tu hora de karaoke
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,461 likes - 25 songs - 1 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,475 likes - 25 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 
 > Afro diaspora cuts from around the globe\. Vibe & whine to this! Cover: Tems
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,081 likes - 101 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,083 likes - 101 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 | 10 | [DON'T SPEAK](https://open.spotify.com/track/2WomqwuCVRzGA2r23gA3lQ) | [DJ Nino Brown](https://open.spotify.com/artist/5d3XNpscHFKUuw1YouL2ns), [Baby Prince](https://open.spotify.com/artist/13bLOmOuvVF16DXkFbRC2d), [Timomatic](https://open.spotify.com/artist/3jEg5HvT2cuJQDjwjZxTb0) | [DON'T SPEAK](https://open.spotify.com/album/1xPY6DRyVBL7L1O4dMGojh) | 3:08 |
 | 11 | [Die For You](https://open.spotify.com/track/2Rp4qBtPeJTg8Fxr1Seoft) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Die For You](https://open.spotify.com/album/3PGtY7XwJKnzi9v1o4CtxJ) | 2:20 |
 | 12 | [LA PISTOLA](https://open.spotify.com/track/6gxCEnYxD9lBvrWSVzKqk3) | [Yzer](https://open.spotify.com/artist/6ddEkqVqLpfgQwaGQGMXCQ), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Chi Ching Ching](https://open.spotify.com/artist/1a3wNO8RPhwmEBZqm68aqU) | [LA PISTOLA](https://open.spotify.com/album/6Jl81BwA6w99vaOuPEgtNk) | 2:37 |
-| 13 | [Ingozi](https://open.spotify.com/track/1ZczCrsUb4kIVE5bQclD7l) | [ZiwaBeatz](https://open.spotify.com/artist/34elXUm1cQs0I2YP52YiC3), [DJ GABZY](https://open.spotify.com/artist/1ThdeUNBFois1A9hv0gOzY) | [Ingozi](https://open.spotify.com/album/6uqBErgUGlBfCnLNT7v0fI) | 7:40 |
+| 13 | [Ingozi](https://open.spotify.com/track/1ZczCrsUb4kIVE5bQclD7l) | [ZiwaBeatz](https://open.spotify.com/artist/34elXUm1cQs0I2YP52YiC3), [TitoM](https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k), [Pcee](https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4), [DJ GABZY](https://open.spotify.com/artist/1ThdeUNBFois1A9hv0gOzY) | [Ingozi](https://open.spotify.com/album/6uqBErgUGlBfCnLNT7v0fI) | 7:40 |
 | 14 | [Wadda Day](https://open.spotify.com/track/66MVXjfsundy5qd1TauTpp) | [Tiki Taane](https://open.spotify.com/artist/31ACkQCBFwLQGxN8MwfSrO), [TTZ](https://open.spotify.com/artist/3ZC3aJZbBIq3gKTRjx8wGh), [TPO](https://open.spotify.com/artist/7rkBvMPviPSFLliiP1jJNy), [Azah](https://open.spotify.com/artist/6U9REzbGmUqNRRY9o6wJOz) | [Wadda Day](https://open.spotify.com/album/2BtjjJLaBJpX2L0tjSvnku) | 6:20 |
 | 15 | [Grey](https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq) | [Yung Filly](https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa) | [Grey](https://open.spotify.com/album/3sNFF8w1fDHGcqRG6bWzhu) | 2:49 |
 | 16 | [Replay](https://open.spotify.com/track/4BAIKNDhzBhO90nKPEVP4b) | [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M) | [Replay](https://open.spotify.com/album/5FLiuv7yv19N5iuezp0qQO) | 2:19 |

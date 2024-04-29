@@ -1,12 +1,12 @@
 {
-  "description": "This is League of Legends. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 387377,
+  "description": "This Is League of Legends. Los temas esenciales, todos en una lista.",
+  "num_followers": 387364,
   "original_name": "This Is League of Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDA4OTYwMCwwMDAwMDAwMDI2YWQ1MjVkMzJhZDRjYzM5ZTMwMzFhMjg4ZTA2NDY0",
+  "snapshot_id": "MTcxNDE3NjAwMCwwMDAwMDAwMDAyYmQ5YzY2OTczYWQxMGJiZTE1NWRkNzNjZGMzNDdk",
   "tracks": [
     {
       "added_at": null,
@@ -311,26 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everything Goes On",
-        "url": "https://open.spotify.com/album/0j4PaZDmzAJ4PlS89zcHbW"
-      },
-      "artists": [
-        {
-          "name": "Porter Robinson",
-          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 202821,
-      "name": "Everything Goes On",
-      "url": "https://open.spotify.com/track/3WBRfkOozHEsG0hbrBzwlm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Warriors",
         "url": "https://open.spotify.com/album/0uyb1O2aodxewxYrAHzqIn"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 204586,
       "name": "Warriors",
       "url": "https://open.spotify.com/track/3f4fc8c8unrQeKecmUPEDR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everything Goes On",
+        "url": "https://open.spotify.com/album/0j4PaZDmzAJ4PlS89zcHbW"
+      },
+      "artists": [
+        {
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 202821,
+      "name": "Everything Goes On",
+      "url": "https://open.spotify.com/track/3WBRfkOozHEsG0hbrBzwlm"
     },
     {
       "added_at": null,
@@ -439,6 +439,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Awaken",
+        "url": "https://open.spotify.com/album/0faLimwDSn0fF0Y0fahCd1"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Valerie Broussard",
+          "url": "https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c"
+        },
+        {
+          "name": "Ray Chen",
+          "url": "https://open.spotify.com/artist/5Cy6BjgpzVTTP4FURizqmQ"
+        }
+      ],
+      "duration_ms": 198187,
+      "name": "Awaken",
+      "url": "https://open.spotify.com/track/3jevgr3fYdv9wYO3IDJq2a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GIANTS",
         "url": "https://open.spotify.com/album/1hK1lKNTYUM4wYRIY19CRO"
       },
@@ -475,30 +499,6 @@
       "duration_ms": 191720,
       "name": "GIANTS",
       "url": "https://open.spotify.com/track/5C0ivQMxes2lWuOANhvVAm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Awaken",
-        "url": "https://open.spotify.com/album/0faLimwDSn0fF0Y0fahCd1"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "Valerie Broussard",
-          "url": "https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c"
-        },
-        {
-          "name": "Ray Chen",
-          "url": "https://open.spotify.com/artist/5Cy6BjgpzVTTP4FURizqmQ"
-        }
-      ],
-      "duration_ms": 198187,
-      "name": "Awaken",
-      "url": "https://open.spotify.com/track/3jevgr3fYdv9wYO3IDJq2a"
     },
     {
       "added_at": null,
@@ -719,26 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Clan",
-        "url": "https://open.spotify.com/album/5lzNwqpKkJPP8sTnZETESo"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 138401,
-      "name": "Mi Clan",
-      "url": "https://open.spotify.com/track/356YI2lqH74Ta2pKkLDeIF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fire To The Fuse",
         "url": "https://open.spotify.com/album/3DvhVqD9ypcJoq8oLy3iOL"
       },
@@ -779,6 +759,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Clan",
+        "url": "https://open.spotify.com/album/5lzNwqpKkJPP8sTnZETESo"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 138401,
+      "name": "Mi Clan",
+      "url": "https://open.spotify.com/track/356YI2lqH74Ta2pKkLDeIF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Worlds Collide",
         "url": "https://open.spotify.com/album/3UNDTCRbmguMxaPzcNpbSn"
       },
@@ -799,26 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rise (Redux)",
-        "url": "https://open.spotify.com/album/0TtYq1Ni9PBoyxCAkqxuVC"
-      },
-      "artists": [
-        {
-          "name": "The Word Alive",
-          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 194919,
-      "name": "Rise (Redux)",
-      "url": "https://open.spotify.com/track/069KZZROmbuGFuZ0B0Qc7A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Warsongs",
         "url": "https://open.spotify.com/album/25iitzpEYGoW3AxyWL6Zb8"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 291314,
       "name": "Piercing Light",
       "url": "https://open.spotify.com/track/0163ud7I4Vb0ID5K7WBkq9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rise (Redux)",
+        "url": "https://open.spotify.com/album/0TtYq1Ni9PBoyxCAkqxuVC"
+      },
+      "artists": [
+        {
+          "name": "The Word Alive",
+          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 194919,
+      "name": "Rise (Redux)",
+      "url": "https://open.spotify.com/track/069KZZROmbuGFuZ0B0Qc7A"
     },
     {
       "added_at": null,
@@ -1155,6 +1155,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Skarner, the Primordial Sovereign",
+        "url": "https://open.spotify.com/album/3CpC54hcNhX629RQCxNj2k"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 208332,
+      "name": "Skarner, the Primordial Sovereign",
+      "url": "https://open.spotify.com/track/623tubTmArxq2CBgxLHMFU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Our Love (From the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/0AVg3b9aPqPsyXDgR6E2fV"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 218248,
       "name": "Our Love (From the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/4OiGC4aSeZV2O71xKl6ssk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Skarner, the Primordial Sovereign",
-        "url": "https://open.spotify.com/album/3CpC54hcNhX629RQCxNj2k"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 208332,
-      "name": "Skarner, the Primordial Sovereign",
-      "url": "https://open.spotify.com/track/623tubTmArxq2CBgxLHMFU"
     },
     {
       "added_at": null,

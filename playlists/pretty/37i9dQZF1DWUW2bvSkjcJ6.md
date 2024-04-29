@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist\. Cover: AYLIVA, Apache 207
 
-[Spotify](https://open.spotify.com/user/spotify) - 797,811 likes - 96 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 797,956 likes - 96 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

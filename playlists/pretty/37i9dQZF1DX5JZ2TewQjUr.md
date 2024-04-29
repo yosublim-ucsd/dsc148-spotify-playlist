@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  BONBON
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,169 likes - 178 songs - 10 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,171 likes - 178 songs - 10 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

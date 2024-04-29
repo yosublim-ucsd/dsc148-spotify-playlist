@@ -4,7 +4,7 @@
 
 > La playlist del jazz italiano, passato e presente\. Cover: Paolo Fresu
 
-485 songs - 1 day 12 hr 42 min
+486 songs - 1 day 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Amanti Di Valore \- 2001 Remaster](https://open.spotify.com/track/639VCzKkpuvvm95vYZuTyf) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [Amanti Di Valore](https://open.spotify.com/album/51z3JDln4n8UxadU0KPgTR) | 4:24 | 2022-09-30 | 2022-11-03 |
 | [Amen](https://open.spotify.com/track/5fbPlVyg0MsoxYnyc1iDJV) | [Raffaele Casarano](https://open.spotify.com/artist/6MnERY0Sy2OLv7YcI43XaB), [Eric Legnini](https://open.spotify.com/artist/4iwk7yhBhcSyfbK4a4cnUi), [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope), [Manu Katché](https://open.spotify.com/artist/4HVFb71ZSXO6nRMk2pdPsy) | [Oltremare](https://open.spotify.com/album/6NlHa1jH1g7YEo1pI1fXo5) | 3:17 | 2023-06-04 | 2023-09-18 |
 | [Analisi scientifiche](https://open.spotify.com/track/6vN0AqD9Zk4uolNlCRufxQ) | [Giuliano Sorgini](https://open.spotify.com/artist/7Kmplk6Rgd6m2JgwUoESRX) | [Lavoro e tempo libero](https://open.spotify.com/album/5VWALGguSmp9l3FN2BWcNP) | 4:54 | 2022-09-30 |  |
+| [Anastasia](https://open.spotify.com/track/5X8CuSkUxEbIHuGyXTFEzn) | [Stefano Di Battista](https://open.spotify.com/artist/3VPgBrIwuucYkLoZ2yHMjK) | [Stefano Di Battista](https://open.spotify.com/album/5132ELCkDRdYcjoZy2zkgP) | 5:10 | 2024-04-26 |  |
 | [Anastasia](https://open.spotify.com/track/0qBYNE6tgJFT0RxOSGREqU) | [Stefano Di Battista](https://open.spotify.com/artist/3VPgBrIwuucYkLoZ2yHMjK) | [round about roma](https://open.spotify.com/album/0IJrtsaMdNd4EP108yCOWJ) | 6:37 | 2023-06-04 | 2023-09-18 |
 | [Animo](https://open.spotify.com/track/0wD0jc5NYktDpYznv8pFCj) | [Ivan Segreto](https://open.spotify.com/artist/0S88jeytYPjXsEzMZCgt19) | [Integra](https://open.spotify.com/album/2nWPV4x5GdYmmqAyzCxQNz) | 5:30 | 2023-01-30 | 2023-06-05 |
 | [Aperture](https://open.spotify.com/track/3lFSMND54Kqc6sVBBlqHkC) | [Collettivo Immaginario](https://open.spotify.com/artist/2t5W9mdX4tCfJwUMgRLJaM), [Tommaso Cappellato](https://open.spotify.com/artist/5xu6nwws5Wrbd5TayescJ2) | [Trasforma](https://open.spotify.com/album/2pvJyykDcs2tm0SucmDsmV) | 3:26 | 2024-03-28 | 2024-04-19 |
@@ -375,7 +376,7 @@
 | [Rise Up Shepherds & Follow](https://open.spotify.com/track/0XMpn7RWhR9J9tdVd0Kccc) | [Odetta](https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H) | [Christmas Spirituals](https://open.spotify.com/album/7zMkHp6kZreU6RPfvIEZZQ) | 1:49 | 2023-12-05 | 2024-03-29 |
 | [Rosa](https://open.spotify.com/track/3wO2S9SjQkG64qJv81S0ah) | [Sade Mangiaracina](https://open.spotify.com/artist/4SE5avfQnwqWxmiGZI1WMb) | [Le mie donne](https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY) | 3:56 | 2024-03-28 |  |
 | [Rotation Suggesting Permanence](https://open.spotify.com/track/3PdRX3VXcvB5QihiG9AGkn) | [Francesca Gaza](https://open.spotify.com/artist/6jLkAhKbd3toZ58ri9NQrV), [Lilac for People](https://open.spotify.com/artist/1kzPulOF322PjMpEXxRaDi), [Francesco Panconesi](https://open.spotify.com/artist/6uKv6Z2fiKeT5Y5t7mNyLH), [Lorenzo Pellegrini](https://open.spotify.com/artist/6c3utzV4qal0l7YBAritiT), [Federico D'Angelo](https://open.spotify.com/artist/6zKvi01bSjLn1CQdjdxMqN), [Mattia Galeotti](https://open.spotify.com/artist/2tKfm6EL0BNZk730TYTmef), [Jacopo Fagioli](https://open.spotify.com/artist/695Z6UdxewsuHti1yj1p02), [Alessandro Mazzieri](https://open.spotify.com/artist/2p4O37ipDx6ZgQ9oWNwTtX), [Luca Sguera](https://open.spotify.com/artist/3bipt9nPFehsZyLDvObGlr) | [Sfiorire](https://open.spotify.com/album/66nuFnF4fEJ1Vl5y34yltA) | 3:14 | 2023-09-17 |  |
-| [Round Trip](https://open.spotify.com/track/7v6Jix3IyG0h006U00CbUJ) | [Stefano Battaglia Standards Quartet](https://open.spotify.com/artist/3IvNH4Q36UL0IAqhIzBXDu) | [The Best Things in Life Are Free](https://open.spotify.com/album/5fFgV5nPvBxmL47oXjd41l) | 5:06 | 2024-04-19 |  |
+| [Round Trip](https://open.spotify.com/track/7v6Jix3IyG0h006U00CbUJ) | [Stefano Battaglia Standards Quartet](https://open.spotify.com/artist/3IvNH4Q36UL0IAqhIzBXDu) | [The Best Things in Life Are Free](https://open.spotify.com/album/5fFgV5nPvBxmL47oXjd41l) | 5:06 | 2024-04-19 | 2024-04-29 |
 | [Rêver et réveler](https://open.spotify.com/track/6F9YE4JncT1HQTaMy6WGFQ) | [Stefano Bollani](https://open.spotify.com/artist/6LO13YjxG7x8waq1RGOYI7) | [Les fleurs bleues](https://open.spotify.com/album/0Ps7ksvo1zOjTNA3DzAb8C) | 5:42 | 2023-06-04 | 2023-09-18 |
 | [Samba & Amor](https://open.spotify.com/track/1cIgUZK3ADlx5WcfBf4EMY) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Chico Buarque Ennio Morricone](https://open.spotify.com/album/32aYHXcg8Q4OAtjfuxwg83) | 3:53 | 2022-09-30 | 2022-11-03 |
 | [Samba E Amore](https://open.spotify.com/track/3rna56hxQIngJsu96aBfx3) | [Chico Buarque Hollanda](https://open.spotify.com/artist/3zxuJmeUmSa6gxSwKQLpiX) | [Per Un Pugno Di Samba](https://open.spotify.com/album/4IjwG24BXDquEfQ2kUUTLp) | 3:50 | 2023-06-04 | 2023-09-18 |

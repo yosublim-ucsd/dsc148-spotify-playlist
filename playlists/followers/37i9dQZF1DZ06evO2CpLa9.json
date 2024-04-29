@@ -1,7 +1,7 @@
 {
-  "2024-04-28": 543546,
+  "2024-04-29": 543540,
   "date_first_scraped": "2023-11-11",
-  "description": "This Is Santa Fe Klan. Los temas esenciales, todos en una lista.",
+  "description": "This is Santa Fe Klan. The essential tracks, all in one playlist.",
   "name": "This Is Santa Fe Klan",
   "tracks": [
     {
@@ -1023,6 +1023,28 @@
       "duration_ms": 227735,
       "name": "Planta Medicinal",
       "url": "https://open.spotify.com/track/1UpJMfx6fGd6HvZxz9fFjt"
+    },
+    {
+      "album": {
+        "name": "PLOMO",
+        "url": "https://open.spotify.com/album/18J9vWonbcXXBYFa9bF88S"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        }
+      ],
+      "date_added": "2024-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178512,
+      "name": "PLOMO",
+      "url": "https://open.spotify.com/track/6OuYW44MKPScpqvoiiGDkN"
     },
     {
       "album": {

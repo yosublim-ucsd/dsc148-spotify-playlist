@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Lyodra
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,183 likes - 115 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,210 likes - 115 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

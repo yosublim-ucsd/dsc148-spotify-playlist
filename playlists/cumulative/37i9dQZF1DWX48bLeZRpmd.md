@@ -4,7 +4,7 @@
 
 > Enjoy music & episodes from "The Quintessential Quintuplets"! / かわいさ500%の五つ子ラブコメ！アニメ『五等分の花嫁』プレイリスト！©春場ねぎ・講談社／「五等分の花嫁∽」製作委員会
 
-113 songs - 8 hr 29 min
+114 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [思い返せば](https://open.spotify.com/track/51HkVnvpV6ks4QXw79H8cy) | [中村巴奈重](https://open.spotify.com/artist/5sZXVQ3vO42HNFVph7W4H9) | [TVアニメ「五等分の花嫁∬」 オリジナル・サウンドトラック vol.2](https://open.spotify.com/album/1i2lqyQzOAiPPUcskSsRJC) | 2:14 | 2022-05-24 |  |
 | [素直にOpen heart ～五つ数えて～ \- PandaBoY Drum'n'Bass Edit](https://open.spotify.com/track/1uEMcItdtg2bAHoSBo6pZT) | [中野五月\(CV:水瀬いのり\)](https://open.spotify.com/artist/58C4WyqTez7UV5LYWzWjzG) | [五等分の花嫁](https://open.spotify.com/album/3GTf370mImQEnd9WNDszoh) | 3:22 | 2022-05-24 |  |
 | [素直にOpen heart～五つ数えて～](https://open.spotify.com/track/54Hi7PjFXgzKUdEyX2lydK) | [中野五月\(CV:水瀬いのり\)](https://open.spotify.com/artist/58C4WyqTez7UV5LYWzWjzG) | [「五等分の花嫁」キャラクターソング ミニアルバム](https://open.spotify.com/album/2Z1Pg4QCi4ruqEhnfivyGc) | 3:56 | 2022-05-24 |  |
+| [色褪せない気持ち](https://open.spotify.com/track/5s3J4QFnkXlRKXaX3IVNZH) | [Futaro Uesugi\(CV:Yoshitsugu Matsuoka\)](https://open.spotify.com/artist/5H7HUR5M9vERWcXhIhlEHf) | [色褪せない気持ち](https://open.spotify.com/album/1D3IykVkMb2VrinfV2Z3LZ) | 4:59 | 2024-04-28 |  |
 | [風太郎のテーマ](https://open.spotify.com/track/1hVqR8oKvqOcC3Gzo7A8WU) | [櫻井美希](https://open.spotify.com/artist/0DJwvspIfWX9bWs6adlpj3), [田渕夏海](https://open.spotify.com/artist/69iWHDSfFZVhJNE9aU4Okd), [中村巴奈重](https://open.spotify.com/artist/5sZXVQ3vO42HNFVph7W4H9) | [TVアニメ「五等分の花嫁」オリジナル・サウンドトラック](https://open.spotify.com/album/6tnxKkyaun6S68XTDwkhV5) | 1:24 | 2022-05-24 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

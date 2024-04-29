@@ -4,7 +4,7 @@
 
 > Home to the Desi Pop Bops\. Cover \- Sabri Sisters, Rozeo\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>.
 
-214 songs - 11 hr 28 min
+215 songs - 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [M.O.B](https://open.spotify.com/track/317XWxxun4h6VYGG4zRxf3) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js), [JJ Esko](https://open.spotify.com/artist/34UvVIz1pxvFOQZt3fHNSv) | [M.O.B](https://open.spotify.com/album/3HRQaVa1pPfPkQ4BH4EzVc) | 3:06 | 2021-11-11 | 2022-07-19 |
 | [Maan Meri Jaan](https://open.spotify.com/track/1418IuVKQPTYqt7QNJ9RXN) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Champagne Talk](https://open.spotify.com/album/15CyNDuGY5fsG0Hn9rjnpG) | 3:14 | 2024-02-22 |  |
 | [MADE IN INDIA](https://open.spotify.com/track/3o5c2GSRqd77X5YqJNKGTY) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [HBIC](https://open.spotify.com/album/6mRkk5VyWx27K4vZjD6sqM) | 2:21 | 2022-07-18 | 2024-02-23 |
+| [Maghron La](https://open.spotify.com/track/6zU7GoGlsJtIUNPRGNl0m8) | [Sabri Sisters](https://open.spotify.com/artist/5LBIpDf0NQMSYa6O42d9Mn), [Rozeo](https://open.spotify.com/artist/0mojEh0eM7WmhBI4WBCmE0) | [Maghron La](https://open.spotify.com/album/0WwgZENQ2PIRVDqaVNzlSA) | 4:06 | 2024-04-28 |  |
 | [Maharani](https://open.spotify.com/track/7CVw4gVPpH1TPQttQGVmhZ) | [Karun](https://open.spotify.com/artist/7FvX2e6CgYllzgZ9uempWF), [Lambo Drive](https://open.spotify.com/artist/0ECy3INAe1k7665cRLCT0Y), [Arpit Bala](https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9), [ReVo LEKHAK](https://open.spotify.com/artist/6WPI5BHCoVymuFbC2p7p4G) | [Qabool Hai \(Deluxe\)](https://open.spotify.com/album/17n3KkiGt92tJZW0QkdUiW) | 6:29 | 2024-02-22 |  |
 | [Mahiye Jinna Sohna](https://open.spotify.com/track/2ncqKdTj6dz7tWoTMMrAtq) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Mahiye Jinna Sohna](https://open.spotify.com/album/4fiPkVR8M247hQBOYLkwBq) | 3:01 | 2024-02-22 |  |
 | [Malang Sajna](https://open.spotify.com/track/73K33p4Vyz9koXGqmL5eFs) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk), [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25) | [Malang Sajna](https://open.spotify.com/album/7khRLZe8P6XcUoRgOa3nnf) | 2:41 | 2024-02-22 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Novidades e destaques do indie nacional. Foto: Bemti",
-  "num_followers": 513488,
+  "num_followers": 513387,
   "original_name": "Indie Brasil",
   "owner": {
     "name": "Spotify",
@@ -112,12 +112,12 @@
       },
       "artists": [
         {
-          "name": "Castel",
-          "url": "https://open.spotify.com/artist/4RTi9WT73fsYrGnYZRneJf"
-        },
-        {
           "name": "MAYAH",
           "url": "https://open.spotify.com/artist/1rg783Ojka0Cy5saubif7c"
+        },
+        {
+          "name": "Castel",
+          "url": "https://open.spotify.com/artist/4RTi9WT73fsYrGnYZRneJf"
         }
       ],
       "duration_ms": 220465,

@@ -4,7 +4,7 @@
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi
 
-326 songs - 1 day 0 hr 34 min
+327 songs - 1 day 0 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [Perro Amor Explota \- Live In Buenos Aires / 2001](https://open.spotify.com/track/7a0yeeNookEFR7YjYAhyrf) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [De La Cabeza Con Bersuit Vergarabat \(Live In Buenos Aires / 2001\)](https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu) | 4:28 | 2022-06-24 | 2024-04-19 |
 | [Perro Amor Explota \- Live In Buenos Aires / 2001](https://open.spotify.com/track/0dyT96pu3yetdLfFs9Reuf) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO), [Manuel Uriona](https://open.spotify.com/artist/750vBTWQA9JFgpnYUfwsNL), [Javier Casalla](https://open.spotify.com/artist/2LzLXJNPrHvw62NE5vKIHo) | [De La Cabeza Con Bersuit Vergarabat](https://open.spotify.com/album/4YD4Z01Dk7Vxb4oPcEPevL) | 4:28 | 2022-04-01 | 2022-07-29 |
 | [Pez Gordo \- En Vivo en Vórterix](https://open.spotify.com/track/7znDFAVexApphxx9nuK9Uk) | [MANJAR](https://open.spotify.com/artist/2cUbO2xUKXa7v3BJQAkKG4) | [Manjar \(En Vivo\)](https://open.spotify.com/album/0wIX3MZIg9pFsQ7J9PwUfl) | 4:15 | 2022-06-10 | 2022-07-06 |
+| [Pieza Inundada \- En Vivo](https://open.spotify.com/track/3CfTr80VCXgBxBDvvxvofd) | [Sol Bassa](https://open.spotify.com/artist/1cttIh2Jh0yR5nxfBmRF6O) | [Naranja](https://open.spotify.com/album/38vD0duL1N07zRlMRQxBi2) | 3:22 | 2024-04-18 |  |
 | [Pistolas](https://open.spotify.com/track/4leJZ8hEr2cGDc3nIv8jfA) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Ciro Y los Persas En el Estadio de River](https://open.spotify.com/album/7DXwwQCZscyehAJoCC38jW) | 5:23 | 2022-06-24 | 2024-04-19 |
 | [Pistolas \(En Vivo en River 2018\)](https://open.spotify.com/track/3PApylD8eVyKu9K8z8tvAk) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi), [Alejandro Ciro Martínez](https://open.spotify.com/artist/751uyfjcYkQhPRwxhLXCnC) | [Ciro y los Persas en el Estadio de River \(En Vivo\)](https://open.spotify.com/album/6Eg7xsCicx687vDBSKqLcC) | 5:23 | 2022-04-01 | 2022-07-29 |
 | [Pistolas \- En Vivo](https://open.spotify.com/track/3riCMXhrJc434p7rcDLlFW) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Fantasmas Peléandole al Viento](https://open.spotify.com/album/7MRwDeZfPnfMEkeTV1DqIx) | 5:09 | 2023-12-22 | 2024-04-19 |
@@ -302,7 +303,7 @@
 | [Todo en esta vida \- En Vivo](https://open.spotify.com/track/4AecN6Nm20nxiFfviIZNNr) | [Jeites](https://open.spotify.com/artist/6qRjJ8pFQAtjZiiR6bRRI0) | [Esto También Pasará \(En Vivo\)](https://open.spotify.com/album/6fsygGfOebHNv97nJZ80kz) | 3:31 | 2022-06-10 | 2022-06-21 |
 | [Todo Eso Que Nos Queda \(En Vivo en el Gran Rex\)](https://open.spotify.com/track/3hmwzYgvnNZEj2x10gERwj) | [Los Perez García](https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3) | [Todo Eso Que Nos Queda \(En Vivo en el Gran Rex\)](https://open.spotify.com/album/3UhQ3G2btSrgyZHpG0yUcd) | 4:04 | 2022-04-01 | 2022-07-29 |
 | [Todo Eso Que Nos Queda \- En Vivo en el Gran Rex](https://open.spotify.com/track/37S1A1oGrwCs0R2K5fU9Ht) | [Los Perez García](https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3) | [Todo Eso Que Nos Queda \(En Vivo en el Gran Rex\)](https://open.spotify.com/album/1sD3x5nHHviRWDdjuaMCxT) | 4:04 | 2022-06-24 | 2024-04-19 |
-| [Todo un Palo \- En Vivo](https://open.spotify.com/track/2Cozh3ZhCsatIz9sWk59Y8) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [En Directo](https://open.spotify.com/album/7H3R1THjVZhSeEKK6S6MUE) | 7:41 | 2022-04-01 |  |
+| [Todo un Palo \- En Vivo](https://open.spotify.com/track/2Cozh3ZhCsatIz9sWk59Y8) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [En Directo](https://open.spotify.com/album/7H3R1THjVZhSeEKK6S6MUE) | 7:41 | 2022-04-01 | 2024-04-29 |
 | [Todo un Palo \- En Vivo](https://open.spotify.com/track/7DWlu0RSXcUxRXSm4xSBjS) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [En Directo \(En Vivo\)](https://open.spotify.com/album/1m2YHaKlpGCImzt2LRtN1h) | 7:41 | 2023-12-22 | 2024-04-19 |
 | [Todos a los Botes! \- En Vivo](https://open.spotify.com/track/2drEdi7YZo7Y4SuV6jsjDt) | [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Todos a los Botes! \(En Vivo\)](https://open.spotify.com/album/1N30fP7CSCeSfhGBTmqCGC) | 4:33 | 2022-04-01 | 2022-07-20 |
 | [Todos Lo Hacen \(En Vivo\)](https://open.spotify.com/track/0bx6LuqWIn8n0WhxS54izM) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [3000 Vivos \(En Vivo\)](https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1) | 3:41 | 2022-04-01 | 2023-10-07 |

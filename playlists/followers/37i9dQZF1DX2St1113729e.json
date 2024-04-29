@@ -1,5 +1,5 @@
 {
-  "2024-04-28": 217250,
+  "2024-04-29": 217208,
   "date_first_scraped": "2023-10-15",
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. RIZHA",
   "name": "helium",
@@ -891,6 +891,36 @@
       "duration_ms": 112980,
       "name": "CRIMEN",
       "url": "https://open.spotify.com/track/0Eu0kUMAZCuKpe7WdClt5f"
+    },
+    {
+      "album": {
+        "name": "CS_MAD",
+        "url": "https://open.spotify.com/album/2XKZjQe0hDRMreH5eLAZSa"
+      },
+      "artists": [
+        {
+          "name": "fox1",
+          "url": "https://open.spotify.com/artist/2tKY3KnuyCoj1aZOBXKP2D"
+        },
+        {
+          "name": "Trillfox",
+          "url": "https://open.spotify.com/artist/09pT3LYxLNhME3Rp9D6Vob"
+        },
+        {
+          "name": "alequi",
+          "url": "https://open.spotify.com/artist/4Rg6w1AZFPOeY8SurpUTPH"
+        },
+        {
+          "name": "Jexer",
+          "url": "https://open.spotify.com/artist/6YVg3kG0xBkIOz1cmuloZ0"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "CS_MAD",
+      "url": "https://open.spotify.com/track/5I7QWwxBMwkvoAaknfDtbH"
     },
     {
       "album": {
@@ -3238,6 +3268,28 @@
     },
     {
       "album": {
+        "name": "ninya bonita",
+        "url": "https://open.spotify.com/album/5YPhBvWRo5k9MeYk9hdH2H"
+      },
+      "artists": [
+        {
+          "name": "Alandes",
+          "url": "https://open.spotify.com/artist/5PDZbQOEFgw8vQHDadiwja"
+        },
+        {
+          "name": "OH!DULCEARi",
+          "url": "https://open.spotify.com/artist/4RVTG56sSMIyoqRazFzpVn"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167980,
+      "name": "ninya bonita",
+      "url": "https://open.spotify.com/track/5QtuFui1OSdIAWlF2iCi3m"
+    },
+    {
+      "album": {
         "name": "No creo en el Amor",
         "url": "https://open.spotify.com/album/5zNLk7ai9vUgfRrxy08Qkd"
       },
@@ -3475,7 +3527,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 181395,
       "name": "NPC",
       "url": "https://open.spotify.com/track/0sFvbQRGiLkpa67HG2EKqi"
@@ -4031,7 +4083,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-28",
       "duration_ms": 115673,
       "name": "P\u00c1LIDA",
       "url": "https://open.spotify.com/track/0c4CniCrrHEKzADWf90Jb4"

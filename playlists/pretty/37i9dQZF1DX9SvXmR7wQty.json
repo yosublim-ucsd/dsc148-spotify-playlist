@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Les Cowboys Fringants",
-  "num_followers": 40424,
+  "num_followers": 40426,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -203,18 +203,22 @@
     {
       "added_at": "2024-04-26 14:39:37",
       "album": {
-        "name": "5am in Paris",
-        "url": "https://open.spotify.com/album/7y18QZL66IozHqgS6MoplG"
+        "name": "Boucan (feat. Franglish)",
+        "url": "https://open.spotify.com/album/6SHZjDJD8769qn7l5kGp4r"
       },
       "artists": [
         {
-          "name": "Saint Levant",
-          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
         }
       ],
-      "duration_ms": 135179,
-      "name": "5am in Paris",
-      "url": "https://open.spotify.com/track/5w2urkV0oCHiBCo5W2fYmR"
+      "duration_ms": 171216,
+      "name": "Boucan (feat. Franglish)",
+      "url": "https://open.spotify.com/track/6jElwivDtkQUv9QFGrdN26"
     },
     {
       "added_at": "2024-04-26 14:39:37",
@@ -231,6 +235,38 @@
       "duration_ms": 182094,
       "name": "Mes secrets",
       "url": "https://open.spotify.com/track/7FCRbMKICwFrdkv0xbfyrU"
+    },
+    {
+      "added_at": "2024-04-26 14:39:37",
+      "album": {
+        "name": "5am in Paris",
+        "url": "https://open.spotify.com/album/7y18QZL66IozHqgS6MoplG"
+      },
+      "artists": [
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        }
+      ],
+      "duration_ms": 135179,
+      "name": "5am in Paris",
+      "url": "https://open.spotify.com/track/5w2urkV0oCHiBCo5W2fYmR"
+    },
+    {
+      "added_at": "2024-04-26 14:39:37",
+      "album": {
+        "name": "Laisse Moi",
+        "url": "https://open.spotify.com/album/0pxNpAQFhAnDj2u7RAtVg7"
+      },
+      "artists": [
+        {
+          "name": "Statzz",
+          "url": "https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK"
+        }
+      ],
+      "duration_ms": 152490,
+      "name": "Laisse Moi",
+      "url": "https://open.spotify.com/track/5JFAFr2sDXj8Magp08VhQh"
     },
     {
       "added_at": "2024-04-26 14:39:37",
@@ -255,38 +291,6 @@
     {
       "added_at": "2024-04-26 14:39:37",
       "album": {
-        "name": "Laisse Moi",
-        "url": "https://open.spotify.com/album/0pxNpAQFhAnDj2u7RAtVg7"
-      },
-      "artists": [
-        {
-          "name": "Statzz",
-          "url": "https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK"
-        }
-      ],
-      "duration_ms": 152490,
-      "name": "Laisse Moi",
-      "url": "https://open.spotify.com/track/5JFAFr2sDXj8Magp08VhQh"
-    },
-    {
-      "added_at": "2024-04-26 14:39:37",
-      "album": {
-        "name": "CORLEONE II",
-        "url": "https://open.spotify.com/album/6q4w9kOGplHm5hBCbHaa02"
-      },
-      "artists": [
-        {
-          "name": "Lacrim",
-          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
-        }
-      ],
-      "duration_ms": 138015,
-      "name": "CORLEONE II",
-      "url": "https://open.spotify.com/track/5srZMgun04qJ5nAi6pP8uL"
-    },
-    {
-      "added_at": "2024-04-26 14:39:37",
-      "album": {
         "name": "Money & A Bag Of Weed",
         "url": "https://open.spotify.com/album/0rYf8X3DCTiD1odGKWJSZD"
       },
@@ -303,22 +307,18 @@
     {
       "added_at": "2024-04-26 14:39:37",
       "album": {
-        "name": "Boucan (feat. Franglish)",
-        "url": "https://open.spotify.com/album/6SHZjDJD8769qn7l5kGp4r"
+        "name": "CORLEONE II",
+        "url": "https://open.spotify.com/album/6q4w9kOGplHm5hBCbHaa02"
       },
       "artists": [
         {
-          "name": "KeBlack",
-          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
-        },
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
         }
       ],
-      "duration_ms": 171216,
-      "name": "Boucan (feat. Franglish)",
-      "url": "https://open.spotify.com/track/6jElwivDtkQUv9QFGrdN26"
+      "duration_ms": 138015,
+      "name": "CORLEONE II",
+      "url": "https://open.spotify.com/track/5srZMgun04qJ5nAi6pP8uL"
     },
     {
       "added_at": "2024-04-26 14:39:37",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-04-26 14:39:37",
       "album": {
-        "name": "Me Da Igual",
-        "url": "https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 209242,
-      "name": "Me Da Igual",
-      "url": "https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE"
-    },
-    {
-      "added_at": "2024-04-26 14:39:37",
-      "album": {
         "name": "RSQ3",
         "url": "https://open.spotify.com/album/33f1zkt6B0tlOSpUcdAzQq"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 138585,
       "name": "RSQ3",
       "url": "https://open.spotify.com/track/79ydE7Am2KMgQwu6D8bAnf"
+    },
+    {
+      "added_at": "2024-04-26 14:39:37",
+      "album": {
+        "name": "Me Da Igual",
+        "url": "https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 209242,
+      "name": "Me Da Igual",
+      "url": "https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE"
     },
     {
       "added_at": "2024-04-26 14:39:37",
@@ -483,22 +483,18 @@
     {
       "added_at": "2024-04-26 14:39:37",
       "album": {
-        "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
-        "url": "https://open.spotify.com/album/7orjo51zaXJFjbpVy2qWjf"
+        "name": "Agent Secret",
+        "url": "https://open.spotify.com/album/0XoS4VGmUz0yAlkirrl03X"
       },
       "artists": [
         {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        },
-        {
-          "name": "Fabiana Martone",
-          "url": "https://open.spotify.com/artist/0HmuQ7f7dXY5W6wK4rA8j1"
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
         }
       ],
-      "duration_ms": 244075,
-      "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
-      "url": "https://open.spotify.com/track/6JZOZWEpu1hcTCz28rnQwJ"
+      "duration_ms": 164737,
+      "name": "Agent secret",
+      "url": "https://open.spotify.com/track/30B10lRLJJkHttK73Ghyo5"
     },
     {
       "added_at": "2024-04-26 14:39:37",
@@ -519,22 +515,22 @@
     {
       "added_at": "2024-04-26 14:39:37",
       "album": {
-        "name": "AMBITION II",
-        "url": "https://open.spotify.com/album/1j2hiCNwiP5RsCfnG9sM4f"
+        "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
+        "url": "https://open.spotify.com/album/7orjo51zaXJFjbpVy2qWjf"
       },
       "artists": [
         {
-          "name": "Guy2Bezbar",
-          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
         },
         {
-          "name": "Rsko",
-          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+          "name": "Fabiana Martone",
+          "url": "https://open.spotify.com/artist/0HmuQ7f7dXY5W6wK4rA8j1"
         }
       ],
-      "duration_ms": 163133,
-      "name": "ENCORE (feat. Rsko)",
-      "url": "https://open.spotify.com/track/4OW2bHRwX2xpnAqCv7eWKY"
+      "duration_ms": 244075,
+      "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
+      "url": "https://open.spotify.com/track/6JZOZWEpu1hcTCz28rnQwJ"
     },
     {
       "added_at": "2024-04-26 14:39:37",
@@ -575,18 +571,22 @@
     {
       "added_at": "2024-04-26 14:39:37",
       "album": {
-        "name": "Agent Secret",
-        "url": "https://open.spotify.com/album/0XoS4VGmUz0yAlkirrl03X"
+        "name": "AMBITION II",
+        "url": "https://open.spotify.com/album/1j2hiCNwiP5RsCfnG9sM4f"
       },
       "artists": [
         {
-          "name": "Vacra",
-          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        },
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
         }
       ],
-      "duration_ms": 164737,
-      "name": "Agent secret",
-      "url": "https://open.spotify.com/track/30B10lRLJJkHttK73Ghyo5"
+      "duration_ms": 163133,
+      "name": "ENCORE (feat. Rsko)",
+      "url": "https://open.spotify.com/track/4OW2bHRwX2xpnAqCv7eWKY"
     },
     {
       "added_at": "2024-04-26 14:39:37",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-04-26 14:39:37",
       "album": {
-        "name": "J'ai mal",
-        "url": "https://open.spotify.com/album/49y7lXYeda9NVCfCSBhDd6"
-      },
-      "artists": [
-        {
-          "name": "Naza",
-          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
-        }
-      ],
-      "duration_ms": 128347,
-      "name": "J'ai mal",
-      "url": "https://open.spotify.com/track/7BPBSa3AIkZrK4c7lPzFEo"
-    },
-    {
-      "added_at": "2024-04-26 14:39:37",
-      "album": {
         "name": "C24",
         "url": "https://open.spotify.com/album/1s0SSXuZNyeCPu4XgqQov3"
       },
@@ -771,6 +755,22 @@
     {
       "added_at": "2024-04-26 14:39:37",
       "album": {
+        "name": "Adieu",
+        "url": "https://open.spotify.com/album/4Fdd91nXf2m2ZiOPVS18Zl"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9r\u00e9my Frerot",
+          "url": "https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK"
+        }
+      ],
+      "duration_ms": 184356,
+      "name": "Adieu",
+      "url": "https://open.spotify.com/track/1gDD9giByuHtgkprzQqUXN"
+    },
+    {
+      "added_at": "2024-04-26 14:39:37",
+      "album": {
         "name": "blue (yes, i love you)",
         "url": "https://open.spotify.com/album/17xBNG2Bgr4VVGlVIXH8NV"
       },
@@ -791,18 +791,18 @@
     {
       "added_at": "2024-04-26 14:39:37",
       "album": {
-        "name": "Adieu",
-        "url": "https://open.spotify.com/album/4Fdd91nXf2m2ZiOPVS18Zl"
+        "name": "J'ai mal",
+        "url": "https://open.spotify.com/album/49y7lXYeda9NVCfCSBhDd6"
       },
       "artists": [
         {
-          "name": "J\u00e9r\u00e9my Frerot",
-          "url": "https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK"
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
         }
       ],
-      "duration_ms": 184356,
-      "name": "Adieu",
-      "url": "https://open.spotify.com/track/1gDD9giByuHtgkprzQqUXN"
+      "duration_ms": 128347,
+      "name": "J'ai mal",
+      "url": "https://open.spotify.com/track/7BPBSa3AIkZrK4c7lPzFEo"
     },
     {
       "added_at": "2024-04-26 14:39:37",
@@ -823,6 +823,26 @@
       "duration_ms": 137533,
       "name": "SHE LIT",
       "url": "https://open.spotify.com/track/7g4NTzoHSGNfh41u5kNQW6"
+    },
+    {
+      "added_at": "2024-04-26 14:39:37",
+      "album": {
+        "name": "JOE PESCI",
+        "url": "https://open.spotify.com/album/0zQa5HVQkdUBcfgfjpfAqQ"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Inso Le V\u00e9ritable",
+          "url": "https://open.spotify.com/artist/05IsLgQufqq7O7NtDKN3x6"
+        }
+      ],
+      "duration_ms": 199411,
+      "name": "JOE PESCI",
+      "url": "https://open.spotify.com/track/5ZRX1nlpURKlGCFxWWgFeq"
     },
     {
       "added_at": "2024-04-26 14:39:37",
@@ -859,22 +879,6 @@
       "duration_ms": 182081,
       "name": "Port d'arme",
       "url": "https://open.spotify.com/track/3RdzJ2qCGDEFkSGe9jFgCJ"
-    },
-    {
-      "added_at": "2024-04-26 14:39:37",
-      "album": {
-        "name": "Parisienne High Level",
-        "url": "https://open.spotify.com/album/6jvxhfExqa59zUlIIrCHUp"
-      },
-      "artists": [
-        {
-          "name": "aupinard",
-          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
-        }
-      ],
-      "duration_ms": 151414,
-      "name": "Parisienne High Level",
-      "url": "https://open.spotify.com/track/5OYJXif1vzHZFvFORFBpvI"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

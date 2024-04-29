@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Chappell Roan
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,274,242 likes - 97 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,274,345 likes - 97 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

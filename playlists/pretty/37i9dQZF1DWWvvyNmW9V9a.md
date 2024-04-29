@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > He's working late cos he's a singer
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,168,818 likes - 110 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,168,739 likes - 110 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

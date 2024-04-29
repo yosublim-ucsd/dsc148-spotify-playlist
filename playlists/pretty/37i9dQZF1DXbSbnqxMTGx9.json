@@ -1,6 +1,6 @@
 {
   "description": "The ultimate reggae playlist. Cover: Bob Marley",
-  "num_followers": 2951341,
+  "num_followers": 2951747,
   "original_name": "Reggae Classics",
   "owner": {
     "name": "Spotify",
@@ -143,18 +143,18 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Kaya - Deluxe Edition",
-        "url": "https://open.spotify.com/album/2MnN6FfnhDf4Zk5g0dIAJv"
+        "name": "Ska and Rocksteady Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/5q2Knpcgb67Fm9sWM01cX4"
       },
       "artists": [
         {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+          "name": "Prince Buster",
+          "url": "https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB"
         }
       ],
-      "duration_ms": 231546,
-      "name": "Is This Love",
-      "url": "https://open.spotify.com/track/4mPd1gJhgcYFRSJyoYAxE8"
+      "duration_ms": 110088,
+      "name": "All My Loving",
+      "url": "https://open.spotify.com/track/5zKlKlmfKl5xnALE2ZskEB"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -171,22 +171,6 @@
       "duration_ms": 200733,
       "name": "One Love",
       "url": "https://open.spotify.com/track/2GaIku5Q5PRguR8OdpHJXD"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Ska and Rocksteady Collection, Vol. 1",
-        "url": "https://open.spotify.com/album/5q2Knpcgb67Fm9sWM01cX4"
-      },
-      "artists": [
-        {
-          "name": "Prince Buster",
-          "url": "https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB"
-        }
-      ],
-      "duration_ms": 110088,
-      "name": "All My Loving",
-      "url": "https://open.spotify.com/track/5zKlKlmfKl5xnALE2ZskEB"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -271,22 +255,6 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Ini Kamoze",
-        "url": "https://open.spotify.com/album/0RRP4qIFXHxmaMyMLzP86U"
-      },
-      "artists": [
-        {
-          "name": "iNi Kamoze",
-          "url": "https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs"
-        }
-      ],
-      "duration_ms": 230040,
-      "name": "World-A-Reggae",
-      "url": "https://open.spotify.com/track/70idjVtmzhvE1tXgHYEF2y"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
         "name": "Reggae Gold 2007",
         "url": "https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X"
       },
@@ -299,6 +267,22 @@
       "duration_ms": 258653,
       "name": "Love And Affection",
       "url": "https://open.spotify.com/track/4o6ZuLYr04LqFQNiSGVK4u"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Reggae Classics",
+        "url": "https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP"
+      },
+      "artists": [
+        {
+          "name": "Johnny Nash",
+          "url": "https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a"
+        }
+      ],
+      "duration_ms": 161560,
+      "name": "I Can See Clearly Now - Edit",
+      "url": "https://open.spotify.com/track/7BECNKQnIHCREUGA0Zty7g"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -319,18 +303,34 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Reggae Classics",
-        "url": "https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP"
+        "name": "Kaya - Deluxe Edition",
+        "url": "https://open.spotify.com/album/2MnN6FfnhDf4Zk5g0dIAJv"
       },
       "artists": [
         {
-          "name": "Johnny Nash",
-          "url": "https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a"
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 161560,
-      "name": "I Can See Clearly Now - Edit",
-      "url": "https://open.spotify.com/track/7BECNKQnIHCREUGA0Zty7g"
+      "duration_ms": 231546,
+      "name": "Is This Love",
+      "url": "https://open.spotify.com/track/4mPd1gJhgcYFRSJyoYAxE8"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Ini Kamoze",
+        "url": "https://open.spotify.com/album/0RRP4qIFXHxmaMyMLzP86U"
+      },
+      "artists": [
+        {
+          "name": "iNi Kamoze",
+          "url": "https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs"
+        }
+      ],
+      "duration_ms": 230040,
+      "name": "World-A-Reggae",
+      "url": "https://open.spotify.com/track/70idjVtmzhvE1tXgHYEF2y"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -455,6 +455,22 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
+        "name": "Reggae Classics",
+        "url": "https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP"
+      },
+      "artists": [
+        {
+          "name": "Peter Tosh",
+          "url": "https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN"
+        }
+      ],
+      "duration_ms": 209453,
+      "name": "Get Up, Stand Up",
+      "url": "https://open.spotify.com/track/0ee3Dr3rH7NSxOVcmlbsHJ"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
         "name": "Total Reggae: Classic Roots",
         "url": "https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30"
       },
@@ -491,38 +507,6 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
-        "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
-      },
-      "artists": [
-        {
-          "name": "Errol Dunkley",
-          "url": "https://open.spotify.com/artist/228y2DiGvQkteqDD2dUZDD"
-        }
-      ],
-      "duration_ms": 167520,
-      "name": "Please Stop Your Lying",
-      "url": "https://open.spotify.com/track/4y8vOLeFZGHSeG6yJOKGbW"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Reggae Classics",
-        "url": "https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP"
-      },
-      "artists": [
-        {
-          "name": "Peter Tosh",
-          "url": "https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN"
-        }
-      ],
-      "duration_ms": 209453,
-      "name": "Get Up, Stand Up",
-      "url": "https://open.spotify.com/track/0ee3Dr3rH7NSxOVcmlbsHJ"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of Toots & The Maytals",
         "url": "https://open.spotify.com/album/4LqckZIG3vtFVGIeY3Q5Yz"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 290200,
       "name": "Funky Kingston",
       "url": "https://open.spotify.com/track/0bJ4nQojefjNpeuZNkiLrX"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
+        "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
+      },
+      "artists": [
+        {
+          "name": "Errol Dunkley",
+          "url": "https://open.spotify.com/artist/228y2DiGvQkteqDD2dUZDD"
+        }
+      ],
+      "duration_ms": 167520,
+      "name": "Please Stop Your Lying",
+      "url": "https://open.spotify.com/track/4y8vOLeFZGHSeG6yJOKGbW"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Ska Kings of the First Wave with the Skatalites, The Ethiopians, And Don Drummond",
-        "url": "https://open.spotify.com/album/0aqG3e2e7cqcYitynssLLU"
-      },
-      "artists": [
-        {
-          "name": "The Skatalites",
-          "url": "https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Funkey Funkey Reggay",
-      "url": "https://open.spotify.com/track/1TnIDb52hYg5P5kHLUyTqX"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
         "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
         "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 207186,
       "name": "My Conversation",
       "url": "https://open.spotify.com/track/2wIOKiZfp8h9ROw3eBAfcc"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Ska Kings of the First Wave with the Skatalites, The Ethiopians, And Don Drummond",
+        "url": "https://open.spotify.com/album/0aqG3e2e7cqcYitynssLLU"
+      },
+      "artists": [
+        {
+          "name": "The Skatalites",
+          "url": "https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Funkey Funkey Reggay",
+      "url": "https://open.spotify.com/track/1TnIDb52hYg5P5kHLUyTqX"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -768,13 +768,13 @@
       },
       "artists": [
         {
-          "name": "Tony Rebel",
-          "url": "https://open.spotify.com/artist/0eyU8FDZOOlay1MxO2ze4E"
+          "name": "Aswad",
+          "url": "https://open.spotify.com/artist/55LyOQNIa9J8wX6y6eJfc0"
         }
       ],
-      "duration_ms": 225333,
-      "name": "Sweet Jamaica",
-      "url": "https://open.spotify.com/track/2WoKCEasaj7751MbvYeEcx"
+      "duration_ms": 311133,
+      "name": "Not Satisfied",
+      "url": "https://open.spotify.com/track/3R85E9l94NyQwqcEZcqnPv"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -784,13 +784,13 @@
       },
       "artists": [
         {
-          "name": "Aswad",
-          "url": "https://open.spotify.com/artist/55LyOQNIa9J8wX6y6eJfc0"
+          "name": "Tony Rebel",
+          "url": "https://open.spotify.com/artist/0eyU8FDZOOlay1MxO2ze4E"
         }
       ],
-      "duration_ms": 311133,
-      "name": "Not Satisfied",
-      "url": "https://open.spotify.com/track/3R85E9l94NyQwqcEZcqnPv"
+      "duration_ms": 225333,
+      "name": "Sweet Jamaica",
+      "url": "https://open.spotify.com/track/2WoKCEasaj7751MbvYeEcx"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -832,13 +832,13 @@
       },
       "artists": [
         {
-          "name": "The Skatalites",
-          "url": "https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb"
+          "name": "Don Drummond",
+          "url": "https://open.spotify.com/artist/2lzGXw61wSj8mMK73d59Wn"
         }
       ],
-      "duration_ms": 183576,
-      "name": "Street Corner",
-      "url": "https://open.spotify.com/track/1lUhuX9dXk4U1xSsx4p74z"
+      "duration_ms": 145933,
+      "name": "Don De Lion",
+      "url": "https://open.spotify.com/track/1Oeey02HNBNBirWvHstVS2"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -848,13 +848,13 @@
       },
       "artists": [
         {
-          "name": "Don Drummond",
-          "url": "https://open.spotify.com/artist/2lzGXw61wSj8mMK73d59Wn"
+          "name": "The Skatalites",
+          "url": "https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb"
         }
       ],
-      "duration_ms": 145933,
-      "name": "Don De Lion",
-      "url": "https://open.spotify.com/track/1Oeey02HNBNBirWvHstVS2"
+      "duration_ms": 183576,
+      "name": "Street Corner",
+      "url": "https://open.spotify.com/track/1lUhuX9dXk4U1xSsx4p74z"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Ska Kings of the First Wave with the Skatalites, The Ethiopians, And Don Drummond",
-        "url": "https://open.spotify.com/album/0aqG3e2e7cqcYitynssLLU"
-      },
-      "artists": [
-        {
-          "name": "Don Drummond",
-          "url": "https://open.spotify.com/artist/2lzGXw61wSj8mMK73d59Wn"
-        }
-      ],
-      "duration_ms": 175360,
-      "name": "Dr. Dekker",
-      "url": "https://open.spotify.com/track/4JOhRev1re0tKTIDUiHWOn"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
         "name": "Total Reggae: Classic Roots",
         "url": "https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 193520,
       "name": "Ballistic Affair",
       "url": "https://open.spotify.com/track/0kEwYCc9znHQObgdUh6dGl"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Ska Kings of the First Wave with the Skatalites, The Ethiopians, And Don Drummond",
+        "url": "https://open.spotify.com/album/0aqG3e2e7cqcYitynssLLU"
+      },
+      "artists": [
+        {
+          "name": "Don Drummond",
+          "url": "https://open.spotify.com/artist/2lzGXw61wSj8mMK73d59Wn"
+        }
+      ],
+      "duration_ms": 175360,
+      "name": "Dr. Dekker",
+      "url": "https://open.spotify.com/track/4JOhRev1re0tKTIDUiHWOn"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Legend (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0tiPal8J7t3B9tPF7kGWDi"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 236946,
-      "name": "Could You Be Loved",
-      "url": "https://open.spotify.com/track/0jlpgMdHL9Ar7CXlePtaql"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
         "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
         "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 210466,
       "name": "Queen Majesty (aka Minstrel and Queen)",
       "url": "https://open.spotify.com/track/7eArTFXshH2FuzC6ZptVlD"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Legend (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0tiPal8J7t3B9tPF7kGWDi"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 236946,
+      "name": "Could You Be Loved",
+      "url": "https://open.spotify.com/track/0jlpgMdHL9Ar7CXlePtaql"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
+        "name": "Monkey Man",
+        "url": "https://open.spotify.com/album/7bttXg6FHq7nVRWbFnkiIP"
+      },
+      "artists": [
+        {
+          "name": "The Maytals",
+          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
+        }
+      ],
+      "duration_ms": 224533,
+      "name": "Monkey Man",
+      "url": "https://open.spotify.com/track/3QMinjF1B7KCqYaSoaagSR"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
         "name": "On the Beach: The Anthology",
         "url": "https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 161973,
       "name": "The Tide Is High - Stereo Version",
       "url": "https://open.spotify.com/track/7056gVvC7P3PpltHgippd2"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Ska & Reggae Classics",
-        "url": "https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK"
-      },
-      "artists": [
-        {
-          "name": "Dandy",
-          "url": "https://open.spotify.com/artist/5gK3fUb4UG1FXBNHOxpLwq"
-        }
-      ],
-      "duration_ms": 154360,
-      "name": "Rudy, a Message to You",
-      "url": "https://open.spotify.com/track/2jPPgh86mHf4bpOEImL43D"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Monkey Man",
-        "url": "https://open.spotify.com/album/7bttXg6FHq7nVRWbFnkiIP"
+        "name": "Ska & Reggae Classics",
+        "url": "https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK"
       },
       "artists": [
         {
-          "name": "The Maytals",
-          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
+          "name": "Dandy",
+          "url": "https://open.spotify.com/artist/5gK3fUb4UG1FXBNHOxpLwq"
         }
       ],
-      "duration_ms": 224533,
-      "name": "Monkey Man",
-      "url": "https://open.spotify.com/track/3QMinjF1B7KCqYaSoaagSR"
+      "duration_ms": 154360,
+      "name": "Rudy, a Message to You",
+      "url": "https://open.spotify.com/track/2jPPgh86mHf4bpOEImL43D"
     },
     {
       "added_at": "2024-01-29 05:18:16",

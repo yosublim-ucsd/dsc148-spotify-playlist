@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK?si=HZkN5B1KStCZHEbI87xDLA"> Wakadinali </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,594 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,604 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 | 10 | [Ten plus](https://open.spotify.com/track/7kN6wgjR16H85XPt8EbZsl) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc), [Mr right](https://open.spotify.com/artist/5FafI7t7Msq7cTLo1qyjHG) | [WAPOA SZN](https://open.spotify.com/album/5s6X7bOlsrbwcr04at6xlm) | 2:03 |
 | 11 | [Kichele](https://open.spotify.com/track/1v0epiVeXJTtBPPGtkO356) | [Ares66](https://open.spotify.com/artist/2a94Tj87iis1QVu6hMCZwd), [Domani Munga](https://open.spotify.com/artist/5QzkdCjCrO3OpfLTHvqnNb), [Skillo](https://open.spotify.com/artist/6rh217APb8d1vsKePXAca1) | [Kichele](https://open.spotify.com/album/1FR8KcaTLzgP1TZUuVx8yj) | 3:09 |
 | 12 | [Diss na Drill \- Remix](https://open.spotify.com/track/5zFeiSIUrGsEYvh0CEg5rS) | [Kalasinga](https://open.spotify.com/artist/15ooQtC6xqMBWCjbzVVuj2), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Diss na Drill \(Remix\)](https://open.spotify.com/album/3F1VhFsXu7unkg6Mm1FGbe) | 3:14 |
-| 13 | [Mswaki](https://open.spotify.com/track/1ThrFG6ZfF73rSSh29O9Ww) | [Young Gideon](https://open.spotify.com/artist/6N3GhMFkwlfZoUGd60npKF), [Dyana Cods](https://open.spotify.com/artist/53Ibd5TvnSkKslwcpQYnA3) | [Imani](https://open.spotify.com/album/7xaDoueVKrbnqUs76AlOzj) | 3:16 |
+| 13 | [Mswaki](https://open.spotify.com/track/1ThrFG6ZfF73rSSh29O9Ww) | [Young Gideon](https://open.spotify.com/artist/6N3GhMFkwlfZoUGd60npKF), [Dyana Cods](https://open.spotify.com/artist/1TMFrPAmqxTK5rVS8ujqMR) | [Imani](https://open.spotify.com/album/7xaDoueVKrbnqUs76AlOzj) | 3:16 |
 | 14 | [Sikutambui](https://open.spotify.com/track/4Gl3dMkubYB2rEn3tOfduY) | [Wakadinali](https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK) | [NDANI YA COCKPIT 3](https://open.spotify.com/album/4p5Ob7OdZxOp4rzHF12qKk) | 3:44 |
 | 15 | [SEXY](https://open.spotify.com/track/0D1Avf68Spv3LHbjayZ76K) | [Vallerie Muthoni](https://open.spotify.com/artist/0BODXRyhRpJie8h9qpZb9E), [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR), [Kxffy](https://open.spotify.com/artist/25ri60pzSMYa2YOUZlumhB) | [SEXY](https://open.spotify.com/album/7ay20SlhHMu04QyTJ7zLmU) | 2:27 |
 | 16 | [Brighter Days](https://open.spotify.com/track/6FkrTePPtL8kAC9lBsITK1) | [Katapilla](https://open.spotify.com/artist/2sV5D5jVpZCszKEyvSbuET) | [Brighter Days](https://open.spotify.com/album/5KEGFl48jAKTNT3AvFN4Y9) | 4:07 |

@@ -2,7 +2,7 @@
 
 ### [This Is Turnstile](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1o0v8Q)
 
-> This Is Turnstile\. Los temas esenciales, todos en una lista.
+> This is Turnstile\. Tutti i brani in un'unica playlist.
 
 41 songs - 1 hr 40 min
 

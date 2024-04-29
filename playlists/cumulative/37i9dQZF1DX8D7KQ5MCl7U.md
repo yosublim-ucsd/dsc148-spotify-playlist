@@ -4,7 +4,7 @@
 
 > All Coke Studio Pakistan tracks in one place\. Season 15 updated live.
 
-404 songs - 1 day 20 hr 29 min
+405 songs - 1 day 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Larsha Pekhawar Ta](https://open.spotify.com/track/05HoDnK7wnSmMuQgQ1ZYdu) | [Hamayoon Khan](https://open.spotify.com/artist/3qGXqhd4c6o66tpNpP4LNl), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions : Season 5](https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK) | 5:38 | 2022-03-23 | 2022-07-27 |
 | [Latthay Di Chaadar](https://open.spotify.com/track/58AkcBdW5NpM2TBbkKbdK3) | [Farhan Saeed](https://open.spotify.com/artist/1W67L8OH9z7C3b9YJJbVYq), [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Coke Studio Season 10: Episode 4](https://open.spotify.com/album/47IayN7LlLIu6A2RuzhbrX) | 7:58 | 2022-03-23 |  |
 | [Luddi Hay Jamalo](https://open.spotify.com/track/4bgnqcQr1FJ9KX41gdtep5) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Humaira Arshad](https://open.spotify.com/artist/3jJRl9bVaEMShvhvxzlQWh) | [Coke Studio Season 11 \(Sound of The Nation\)](https://open.spotify.com/album/0NKhQH2b1GwucaMqnzfZri) | 5:30 | 2022-03-23 |  |
+| [Maghron La](https://open.spotify.com/track/6zU7GoGlsJtIUNPRGNl0m8) | [Sabri Sisters](https://open.spotify.com/artist/5LBIpDf0NQMSYa6O42d9Mn), [Rozeo](https://open.spotify.com/artist/0mojEh0eM7WmhBI4WBCmE0) | [Maghron La](https://open.spotify.com/album/0WwgZENQ2PIRVDqaVNzlSA) | 4:06 | 2024-04-28 |  |
 | [Mahi](https://open.spotify.com/track/7DSSiCjh5jxNx1MO5ctPTj) | [Overload](https://open.spotify.com/artist/05PcXrC9rDpaibKcUQFQMb), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions : Season 5](https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK) | 5:35 | 2022-03-23 | 2022-07-13 |
 | [Mahi Aaja](https://open.spotify.com/track/1P9Ayt5IcOaELgIGkzQQpY) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV) | [Coke Studio Season 11 \(Sound of The Nation\)](https://open.spotify.com/album/0NKhQH2b1GwucaMqnzfZri) | 6:17 | 2022-03-23 |  |
 | [Mahi Gal](https://open.spotify.com/track/05D6YYLSxkc0kJUbXzUdK3) | [Asad Abbas](https://open.spotify.com/artist/15GlPzazALiVv4MVh7pNij), [Fariha Pervez](https://open.spotify.com/artist/76zo0c28umB2V9unPHhyKd), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Season 6](https://open.spotify.com/album/1zJtqhpXJiqVBOP91oM0Ky) | 8:54 | 2022-03-23 | 2022-07-13 |

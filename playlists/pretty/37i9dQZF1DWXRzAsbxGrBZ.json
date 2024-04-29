@@ -1,6 +1,6 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 52265,
+  "num_followers": 52404,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,22 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
+        "name": "Skies Showers EP",
+        "url": "https://open.spotify.com/album/2Y36PkF781y7Tiu7ROuQR0"
+      },
+      "artists": [
+        {
+          "name": "DJ Couza",
+          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
+        }
+      ],
+      "duration_ms": 530086,
+      "name": "Stay For The Night",
+      "url": "https://open.spotify.com/track/4KrvgIX9t5QL7ulBfE9Gqt"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
         "name": "Revolver, Vol. 3 (Compiled)",
         "url": "https://open.spotify.com/album/2pbdhETHPvZOF5OlJhcQd6"
       },
@@ -367,22 +383,6 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
-        "name": "Skies Showers EP",
-        "url": "https://open.spotify.com/album/2Y36PkF781y7Tiu7ROuQR0"
-      },
-      "artists": [
-        {
-          "name": "DJ Couza",
-          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
-        }
-      ],
-      "duration_ms": 530086,
-      "name": "Stay For The Night",
-      "url": "https://open.spotify.com/track/4KrvgIX9t5QL7ulBfE9Gqt"
-    },
-    {
-      "added_at": "2024-04-25 23:00:00",
-      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/47cX0hSa1wxE5f1GPEMTcP"
       },
@@ -447,6 +447,30 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
+        "name": "Ingoma",
+        "url": "https://open.spotify.com/album/7FkJnT8Ve5hYmzVya06wF0"
+      },
+      "artists": [
+        {
+          "name": "DJ Couza",
+          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
+        },
+        {
+          "name": "Mr.Cantata",
+          "url": "https://open.spotify.com/artist/3r1o9eEvpXFvToBB6Y5GR0"
+        },
+        {
+          "name": "Bikie",
+          "url": "https://open.spotify.com/artist/4LwtgBxKUoIWPWOCdOA9yu"
+        }
+      ],
+      "duration_ms": 430538,
+      "name": "Ingoma - Original Mix",
+      "url": "https://open.spotify.com/track/7oyMweIaDux964WgeejCf7"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
         "name": "Feel Good EP",
         "url": "https://open.spotify.com/album/42QNc5GHCJuJEDuWRiPi9a"
       },
@@ -479,54 +503,6 @@
       "duration_ms": 342887,
       "name": "Monomotapa",
       "url": "https://open.spotify.com/track/0MD5Buq17s57F0nVl0RTmL"
-    },
-    {
-      "added_at": "2024-04-25 23:00:00",
-      "album": {
-        "name": "Awesome God",
-        "url": "https://open.spotify.com/album/6o7rsUKRvC8UZ5PHljEhyo"
-      },
-      "artists": [
-        {
-          "name": "Artwork Sounds",
-          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
-        },
-        {
-          "name": "Bee bar",
-          "url": "https://open.spotify.com/artist/0kgsc7QLVxGwl8wd2eS3om"
-        },
-        {
-          "name": "Kabza De Small",
-          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
-        }
-      ],
-      "duration_ms": 438000,
-      "name": "Awesome God",
-      "url": "https://open.spotify.com/track/1J7m2fe94mcQbKfooP3QOg"
-    },
-    {
-      "added_at": "2024-04-25 23:00:00",
-      "album": {
-        "name": "Ingoma",
-        "url": "https://open.spotify.com/album/7FkJnT8Ve5hYmzVya06wF0"
-      },
-      "artists": [
-        {
-          "name": "DJ Couza",
-          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
-        },
-        {
-          "name": "Mr.Cantata",
-          "url": "https://open.spotify.com/artist/3r1o9eEvpXFvToBB6Y5GR0"
-        },
-        {
-          "name": "Bikie",
-          "url": "https://open.spotify.com/artist/4LwtgBxKUoIWPWOCdOA9yu"
-        }
-      ],
-      "duration_ms": 430538,
-      "name": "Ingoma - Original Mix",
-      "url": "https://open.spotify.com/track/7oyMweIaDux964WgeejCf7"
     },
     {
       "added_at": "2024-04-25 23:00:00",
@@ -571,6 +547,30 @@
       "duration_ms": 466467,
       "name": "Don't 4get To Call Me",
       "url": "https://open.spotify.com/track/289Qw6pCjcz8FnaPNGLuvP"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
+        "name": "Awesome God",
+        "url": "https://open.spotify.com/album/6o7rsUKRvC8UZ5PHljEhyo"
+      },
+      "artists": [
+        {
+          "name": "Artwork Sounds",
+          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
+        },
+        {
+          "name": "Bee bar",
+          "url": "https://open.spotify.com/artist/0kgsc7QLVxGwl8wd2eS3om"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        }
+      ],
+      "duration_ms": 438000,
+      "name": "Awesome God",
+      "url": "https://open.spotify.com/track/1J7m2fe94mcQbKfooP3QOg"
     },
     {
       "added_at": "2024-04-25 23:00:00",
@@ -667,6 +667,38 @@
       "duration_ms": 470867,
       "name": "Time To Dance",
       "url": "https://open.spotify.com/track/29ycplqUCPpRNEevsdpEQ7"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
+        "name": "Ratata",
+        "url": "https://open.spotify.com/album/4lmS4HsuJ9TgUa7AMLaDV0"
+      },
+      "artists": [
+        {
+          "name": "Leandra.Vert",
+          "url": "https://open.spotify.com/artist/0QyhpBoL8IOay4rryRdQ8l"
+        },
+        {
+          "name": "Chronical Deep",
+          "url": "https://open.spotify.com/artist/391IHvSC8S9yNnt3VHZUYt"
+        },
+        {
+          "name": "Chley",
+          "url": "https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N"
+        },
+        {
+          "name": "FKA Moses",
+          "url": "https://open.spotify.com/artist/5bb2nnYAjXPhXXGjv0uHK3"
+        },
+        {
+          "name": "LaTique",
+          "url": "https://open.spotify.com/artist/5RXEBy5lIlw5c5DgcboZAD"
+        }
+      ],
+      "duration_ms": 350892,
+      "name": "Ratata",
+      "url": "https://open.spotify.com/track/2lMTb7VeVVkQrhIz8uS8dP"
     },
     {
       "added_at": "2024-04-25 23:00:00",
@@ -819,62 +851,6 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
-        "name": "Ratata",
-        "url": "https://open.spotify.com/album/4lmS4HsuJ9TgUa7AMLaDV0"
-      },
-      "artists": [
-        {
-          "name": "Leandra.Vert",
-          "url": "https://open.spotify.com/artist/0QyhpBoL8IOay4rryRdQ8l"
-        },
-        {
-          "name": "Chronical Deep",
-          "url": "https://open.spotify.com/artist/391IHvSC8S9yNnt3VHZUYt"
-        },
-        {
-          "name": "Chley",
-          "url": "https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N"
-        },
-        {
-          "name": "FKA Moses",
-          "url": "https://open.spotify.com/artist/5bb2nnYAjXPhXXGjv0uHK3"
-        },
-        {
-          "name": "LaTique",
-          "url": "https://open.spotify.com/artist/5RXEBy5lIlw5c5DgcboZAD"
-        }
-      ],
-      "duration_ms": 350892,
-      "name": "Ratata",
-      "url": "https://open.spotify.com/track/2lMTb7VeVVkQrhIz8uS8dP"
-    },
-    {
-      "added_at": "2024-04-25 23:00:00",
-      "album": {
-        "name": "Oh Mdali",
-        "url": "https://open.spotify.com/album/3xOLtjnF5qOdv9YbvoRkHs"
-      },
-      "artists": [
-        {
-          "name": "Kaylow",
-          "url": "https://open.spotify.com/artist/6nQFuQO2dqH8JR9ZhN0IyH"
-        },
-        {
-          "name": "Playmaster & Smallistic",
-          "url": "https://open.spotify.com/artist/7m3YBqfwRPB1Ys5h3fMbEC"
-        },
-        {
-          "name": "Malungelo",
-          "url": "https://open.spotify.com/artist/2aONiE8Bf4dDZH9SZ6w1a4"
-        }
-      ],
-      "duration_ms": 361078,
-      "name": "Oh Mdali",
-      "url": "https://open.spotify.com/track/21V1dv8iZxpgH65mQpyH2z"
-    },
-    {
-      "added_at": "2024-04-25 23:00:00",
-      "album": {
         "name": "The Inglourious",
         "url": "https://open.spotify.com/album/17LsNERMz4XHdUgpkvyV5X"
       },
@@ -923,18 +899,26 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
-        "name": "Nkaoza EP",
-        "url": "https://open.spotify.com/album/5EzZZtib251P3QhlKtMfOg"
+        "name": "Oh Mdali",
+        "url": "https://open.spotify.com/album/3xOLtjnF5qOdv9YbvoRkHs"
       },
       "artists": [
         {
-          "name": "El Payo",
-          "url": "https://open.spotify.com/artist/4Exebvi8UCoxfdApC9vVKU"
+          "name": "Kaylow",
+          "url": "https://open.spotify.com/artist/6nQFuQO2dqH8JR9ZhN0IyH"
+        },
+        {
+          "name": "Playmaster & Smallistic",
+          "url": "https://open.spotify.com/artist/7m3YBqfwRPB1Ys5h3fMbEC"
+        },
+        {
+          "name": "Malungelo",
+          "url": "https://open.spotify.com/artist/2aONiE8Bf4dDZH9SZ6w1a4"
         }
       ],
-      "duration_ms": 369045,
-      "name": "Dawnlands",
-      "url": "https://open.spotify.com/track/4t27eigLB2UK0oM7mXZRP2"
+      "duration_ms": 361078,
+      "name": "Oh Mdali",
+      "url": "https://open.spotify.com/track/21V1dv8iZxpgH65mQpyH2z"
     },
     {
       "added_at": "2024-04-25 23:00:00",
@@ -951,6 +935,22 @@
       "duration_ms": 398275,
       "name": "Story",
       "url": "https://open.spotify.com/track/2UfbQI5TTr935FcAeEAoE2"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
+        "name": "Nkaoza EP",
+        "url": "https://open.spotify.com/album/5EzZZtib251P3QhlKtMfOg"
+      },
+      "artists": [
+        {
+          "name": "El Payo",
+          "url": "https://open.spotify.com/artist/4Exebvi8UCoxfdApC9vVKU"
+        }
+      ],
+      "duration_ms": 369045,
+      "name": "Dawnlands",
+      "url": "https://open.spotify.com/track/4t27eigLB2UK0oM7mXZRP2"
     },
     {
       "added_at": "2024-04-25 23:00:00",
@@ -991,18 +991,18 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
-        "name": "Take Me Somewhere",
-        "url": "https://open.spotify.com/album/2WLyVdHEryUnrLN1snWshy"
+        "name": "Recall",
+        "url": "https://open.spotify.com/album/3G41bOHHVO3TNKuPB4taRF"
       },
       "artists": [
         {
-          "name": "Eternity Musiq",
-          "url": "https://open.spotify.com/artist/1E2NUKujXBQxroG7soaG73"
+          "name": "Hypaphonik",
+          "url": "https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io"
         }
       ],
-      "duration_ms": 325929,
-      "name": "Take Me Somewhere",
-      "url": "https://open.spotify.com/track/6kcEtmpNYLasMfBRQlWQoB"
+      "duration_ms": 373448,
+      "name": "Recall",
+      "url": "https://open.spotify.com/track/5yYCfhhRrFspj5bVebdI2F"
     }
   ],
   "unique_name": "Deep House Session",

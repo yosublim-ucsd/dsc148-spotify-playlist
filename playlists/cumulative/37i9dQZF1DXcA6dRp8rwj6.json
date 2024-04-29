@@ -11927,6 +11927,24 @@
     },
     {
       "album": {
+        "name": "Excuse",
+        "url": "https://open.spotify.com/album/7gaaPrwHk3sCo8e8x9wYG5"
+      },
+      "artists": [
+        {
+          "name": "CHANHYUN",
+          "url": "https://open.spotify.com/artist/3mVfekn5nIuqNWJCK0u1r9"
+        }
+      ],
+      "date_added": "2024-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202040,
+      "name": "Excuse",
+      "url": "https://open.spotify.com/track/3Kvludm9mx8wPSp0YKzPOz"
+    },
+    {
+      "album": {
         "name": "Existe feat. Daichi Yamamoto (Blended by tofubeats)",
         "url": "https://open.spotify.com/album/5OO4rVydstHpmDrDepnkmB"
       },
