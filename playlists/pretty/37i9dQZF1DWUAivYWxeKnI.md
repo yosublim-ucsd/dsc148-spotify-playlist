@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAivYWxeKnI.md) - [plain]
 
 > \[Festival Dates: May 4\-5\] Meet the lineup of HIPHOPPLAYA FESTIVAL 2024, the largest outdoor hip\-hop festival in Korea! \(5월 4일\-5일 열리는 한국 최대 규모의 야외 힙합 페스티벌 HIPHOPPLAYA FESTIVAL 2024의 라인업을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,643 likes - 52 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,670 likes - 52 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Travel Again \(Feat\. Cautious Clay\)](https://open.spotify.com/track/1bPMPSOQPIinoU6ZBDWtgb) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [NOWITZKI](https://open.spotify.com/album/2ZcI7Sbm7s2yz8l8wvIyUq) | 4:17 |
 | 2 | [990 \(Feat\. Kim Ximya\)](https://open.spotify.com/track/6BteP1uOVCsGfA58E3L8Fu) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg), [Kim Ximya](https://open.spotify.com/artist/2tB3jPHyyfcxvvor2flc1Q) | [NOWITZKI](https://open.spotify.com/album/2ZcI7Sbm7s2yz8l8wvIyUq) | 3:33 |
-| 3 | [New thing \(Prod\. ZICO\) \(Feat\. Homies\)](https://open.spotify.com/track/5mdWIwsJAzR97ShGkt8gcR) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [Street Man Fighter Original Vol.3 \(Mission by Rank\)](https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP) | 2:27 |
-| 4 | [Freak](https://open.spotify.com/track/53NYRM8s4mm4yeCsmsvTik) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Grown Ass Kid](https://open.spotify.com/album/5gHJyHBTHBZlgFsODXj7HZ) | 2:49 |
+| 3 | [SPOT!](https://open.spotify.com/track/1SS0WlKhJewviwEDZ6dWj0) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [SPOT!](https://open.spotify.com/album/3K3C9JjwCGQAzj3Bu7BUaI) | 2:47 |
+| 4 | [New thing \(Prod\. ZICO\) \(Feat\. Homies\)](https://open.spotify.com/track/5mdWIwsJAzR97ShGkt8gcR) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [Street Man Fighter Original Vol.3 \(Mission by Rank\)](https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP) | 2:27 |
 | 5 | [Smoke \(Prod\. Dynamicduo, Padi\)](https://open.spotify.com/track/1qRfAvzRIJQodWKBNFAb6C) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Street Woman Fighter2 \(SWF2\) Class Mission](https://open.spotify.com/album/3fifgTm6PcVhHE9v72nlCb) | 3:29 |
 | 6 | [AEAO](https://open.spotify.com/track/3TPvrMAd1hbPRXuHCRX0Pl) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [A Giant Step](https://open.spotify.com/album/6SFd0NeIrUfZoqCSjoFpe8) | 5:16 |
 | 7 | [I'm Sick \(feat\. Kid Milli, Lil tachi, Kim Seungmin, NO:EL, C JAMM\)](https://open.spotify.com/track/1CJweyedfMbIab2O3Jc8K8) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Lil tachi](https://open.spotify.com/artist/4uqXu5Qybes6RYP8ThjoEV), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [NO:EL](https://open.spotify.com/artist/3S79khDmqHqH3SudDjO6dV), [C JAMM](https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR) | [100 Years College Course](https://open.spotify.com/album/4D63HSKclSLyE4p9ThvI9U) | 5:15 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAivYWxeKnI.md) - [plain]
 | 51 | [MY NAME IS \(Feat\. Tray B\)](https://open.spotify.com/track/7eMjdhp767PF9F8cAbIyJr) | [Fleeky Bang](https://open.spotify.com/artist/4whHCEnN1w4cexp2J7h4OC), [Tray B](https://open.spotify.com/artist/4GSbZvuTa6GeWVt4LtPzX5) | [The Predator 2: FLEEKY SYNDROME](https://open.spotify.com/album/5OdY6FQMrOo6qmzDUuAf7G) | 2:22 |
 | 52 | [Yellin Talk \(Feat\. Tray B\)](https://open.spotify.com/track/4TYCfveFlq5Vkf8lxPABaj) | [Fleeky Bang](https://open.spotify.com/artist/4whHCEnN1w4cexp2J7h4OC), [Tray B](https://open.spotify.com/artist/4GSbZvuTa6GeWVt4LtPzX5) | [The Predator](https://open.spotify.com/album/1VIlG2axilrRNqwOlBhcDc) | 1:59 |
 
-Snapshot ID: `MTcxMzg2MDkyMywwMDAwMDAwMGQ2NGU3NGZlNDA3NWI0MDg4YmE2Njg5MWI0YmE3M2Rk`
+Snapshot ID: `MTcxNDM4Mjk2NywwMDAwMDAwMDJhOWIzMzkxZWNlOWNiOWY2YjFjYmNiZTc0YWJjOTY2`

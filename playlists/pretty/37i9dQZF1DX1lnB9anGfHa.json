@@ -1,28 +1,28 @@
 {
   "description": "A journey into the unknown, dark, and experimental.",
-  "num_followers": 219798,
+  "num_followers": 219859,
   "original_name": "Terra Incognita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzgzMTg5OCwwMDAwMDAwMDcwOWY2YjFlMjAxZTU2MWI1MTgwNGI5NDJhNjY2ZmIx",
+  "snapshot_id": "MTcxNDQyMzQzNiwwMDAwMDAwMDUwNzBjNWQwNmE1ZjM4MmY4ZTY1NjM2MjRhMTc2Mjhk",
   "tracks": [
     {
-      "added_at": "2024-04-18 14:27:50",
+      "added_at": "2024-04-29 20:43:56",
       "album": {
-        "name": "Trinity",
-        "url": "https://open.spotify.com/album/4feqEnTdNbrecCd7FSvHEA"
+        "name": "thieves",
+        "url": "https://open.spotify.com/album/0Xs1Xc5yUxPlYFOKyJ0UV7"
       },
       "artists": [
         {
-          "name": "Eartheater",
-          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
         }
       ],
-      "duration_ms": 184505,
-      "name": "Supersoaker",
-      "url": "https://open.spotify.com/track/6szXMlKnHwiPbLfrqp44Jk"
+      "duration_ms": 178616,
+      "name": "thieves",
+      "url": "https://open.spotify.com/track/34ZXYNErf3WC4tgO0PAnUx"
     },
     {
       "added_at": "2024-04-23 00:24:58",
@@ -111,6 +111,22 @@
     {
       "added_at": "2024-04-18 14:27:50",
       "album": {
+        "name": "Trinity",
+        "url": "https://open.spotify.com/album/4feqEnTdNbrecCd7FSvHEA"
+      },
+      "artists": [
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        }
+      ],
+      "duration_ms": 184505,
+      "name": "Supersoaker",
+      "url": "https://open.spotify.com/track/6szXMlKnHwiPbLfrqp44Jk"
+    },
+    {
+      "added_at": "2024-04-18 14:27:50",
+      "album": {
         "name": "Secret Life",
         "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 221199,
       "name": "Trying",
       "url": "https://open.spotify.com/track/25k70O2pKn9Zn0HknWrS8x"
-    },
-    {
-      "added_at": "2024-04-18 14:27:50",
-      "album": {
-        "name": "Dusk",
-        "url": "https://open.spotify.com/album/4rBFXDL3kIxwqeicNkWK8q"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Wolfe",
-          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
-        }
-      ],
-      "duration_ms": 274475,
-      "name": "Dusk",
-      "url": "https://open.spotify.com/track/6yzuu8joRLnkpDIUzeXTMM"
     },
     {
       "added_at": "2024-04-18 14:27:50",
@@ -177,20 +177,24 @@
       "url": "https://open.spotify.com/track/0mCZfrseEMpeQlCLf99UyG"
     },
     {
-      "added_at": "2024-04-18 14:27:50",
+      "added_at": "2024-04-29 20:28:47",
       "album": {
-        "name": "Powders",
-        "url": "https://open.spotify.com/album/3zjvJv9tqkQ5kdX9pOpT6U"
+        "name": "Benti",
+        "url": "https://open.spotify.com/album/5n7fPX5kqDYOI5LUo2aq0l"
       },
       "artists": [
         {
-          "name": "Eartheater",
-          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+          "name": "Arhkota",
+          "url": "https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ"
+        },
+        {
+          "name": "Lubna Maher",
+          "url": "https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb"
         }
       ],
-      "duration_ms": 221106,
-      "name": "Pure Smile Snake Venom",
-      "url": "https://open.spotify.com/track/2vP6Rn1x35ybWBctcdooEF"
+      "duration_ms": 239360,
+      "name": "Obscure Paliteo",
+      "url": "https://open.spotify.com/track/2FKHoqbxcIu2NONNgxaON9"
     },
     {
       "added_at": "2024-04-18 14:27:50",
@@ -211,6 +215,22 @@
     {
       "added_at": "2024-04-18 14:27:50",
       "album": {
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/4rBFXDL3kIxwqeicNkWK8q"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Wolfe",
+          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
+        }
+      ],
+      "duration_ms": 274475,
+      "name": "Dusk",
+      "url": "https://open.spotify.com/track/6yzuu8joRLnkpDIUzeXTMM"
+    },
+    {
+      "added_at": "2024-04-18 14:27:50",
+      "album": {
         "name": "Weighing of the Heart",
         "url": "https://open.spotify.com/album/1wv2yreeNsyBNnvlhOhvjO"
       },
@@ -223,22 +243,6 @@
       "duration_ms": 205120,
       "name": "Zone 1 to 6000",
       "url": "https://open.spotify.com/track/4dKYEhGEEpTZFOXBAhDOcA"
-    },
-    {
-      "added_at": "2024-04-18 14:27:50",
-      "album": {
-        "name": "SPIRA",
-        "url": "https://open.spotify.com/album/1a8ThwO86pH1QSjVYAeC5H"
-      },
-      "artists": [
-        {
-          "name": "Daniela Pes",
-          "url": "https://open.spotify.com/artist/6DEkxQm6GxNV26tUMfVf6c"
-        }
-      ],
-      "duration_ms": 314840,
-      "name": "Carme",
-      "url": "https://open.spotify.com/track/7MHXBGx57HGguI8xcMzuB7"
     },
     {
       "added_at": "2024-04-18 14:27:50",
@@ -259,18 +263,18 @@
     {
       "added_at": "2024-04-18 14:27:50",
       "album": {
-        "name": "Radical Romantics",
-        "url": "https://open.spotify.com/album/0GCoy0h2laaZlhKhnjjRpe"
+        "name": "Powders",
+        "url": "https://open.spotify.com/album/3zjvJv9tqkQ5kdX9pOpT6U"
       },
       "artists": [
         {
-          "name": "Fever Ray",
-          "url": "https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY"
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
         }
       ],
-      "duration_ms": 187632,
-      "name": "Even It Out",
-      "url": "https://open.spotify.com/track/4RgfngxUX05xp09dNutO1O"
+      "duration_ms": 221106,
+      "name": "Pure Smile Snake Venom",
+      "url": "https://open.spotify.com/track/2vP6Rn1x35ybWBctcdooEF"
     },
     {
       "added_at": "2024-04-18 14:27:50",
@@ -307,18 +311,18 @@
     {
       "added_at": "2024-04-18 14:27:50",
       "album": {
-        "name": "trip9love...???",
-        "url": "https://open.spotify.com/album/0kgD4sTUloCGUbDGyTxqV7"
+        "name": "SPIRA",
+        "url": "https://open.spotify.com/album/1a8ThwO86pH1QSjVYAeC5H"
       },
       "artists": [
         {
-          "name": "Tirzah",
-          "url": "https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd"
+          "name": "Daniela Pes",
+          "url": "https://open.spotify.com/artist/6DEkxQm6GxNV26tUMfVf6c"
         }
       ],
-      "duration_ms": 182153,
-      "name": "No Limit",
-      "url": "https://open.spotify.com/track/1YR94xmVWP4Y4t8jojuFow"
+      "duration_ms": 314840,
+      "name": "Carme",
+      "url": "https://open.spotify.com/track/7MHXBGx57HGguI8xcMzuB7"
     },
     {
       "added_at": "2024-04-18 14:27:50",
@@ -339,18 +343,34 @@
     {
       "added_at": "2024-04-18 14:27:50",
       "album": {
-        "name": "SPIRA",
-        "url": "https://open.spotify.com/album/1a8ThwO86pH1QSjVYAeC5H"
+        "name": "Radical Romantics",
+        "url": "https://open.spotify.com/album/0GCoy0h2laaZlhKhnjjRpe"
       },
       "artists": [
         {
-          "name": "Daniela Pes",
-          "url": "https://open.spotify.com/artist/6DEkxQm6GxNV26tUMfVf6c"
+          "name": "Fever Ray",
+          "url": "https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY"
         }
       ],
-      "duration_ms": 243466,
-      "name": "Illa Sera",
-      "url": "https://open.spotify.com/track/79ocQFpSVnyQ7qokQSYbU6"
+      "duration_ms": 187632,
+      "name": "Even It Out",
+      "url": "https://open.spotify.com/track/4RgfngxUX05xp09dNutO1O"
+    },
+    {
+      "added_at": "2024-04-18 14:27:50",
+      "album": {
+        "name": "trip9love...???",
+        "url": "https://open.spotify.com/album/0kgD4sTUloCGUbDGyTxqV7"
+      },
+      "artists": [
+        {
+          "name": "Tirzah",
+          "url": "https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd"
+        }
+      ],
+      "duration_ms": 182153,
+      "name": "No Limit",
+      "url": "https://open.spotify.com/track/1YR94xmVWP4Y4t8jojuFow"
     },
     {
       "added_at": "2024-04-18 14:27:50",
@@ -447,6 +467,38 @@
     {
       "added_at": "2024-04-18 14:27:50",
       "album": {
+        "name": "SPIRA",
+        "url": "https://open.spotify.com/album/1a8ThwO86pH1QSjVYAeC5H"
+      },
+      "artists": [
+        {
+          "name": "Daniela Pes",
+          "url": "https://open.spotify.com/artist/6DEkxQm6GxNV26tUMfVf6c"
+        }
+      ],
+      "duration_ms": 243466,
+      "name": "Illa Sera",
+      "url": "https://open.spotify.com/track/79ocQFpSVnyQ7qokQSYbU6"
+    },
+    {
+      "added_at": "2024-04-18 14:27:50",
+      "album": {
+        "name": "Spinning",
+        "url": "https://open.spotify.com/album/5WcVopSnLSUMTFUuoeE1jA"
+      },
+      "artists": [
+        {
+          "name": "Julia Holter",
+          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
+        }
+      ],
+      "duration_ms": 374468,
+      "name": "Spinning",
+      "url": "https://open.spotify.com/track/0E2AcfdJAhmAZdLz85TQU3"
+    },
+    {
+      "added_at": "2024-04-18 14:27:50",
+      "album": {
         "name": "Classic Objects",
         "url": "https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb"
       },
@@ -475,22 +527,6 @@
       "duration_ms": 243921,
       "name": "Atlantic Diva",
       "url": "https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV"
-    },
-    {
-      "added_at": "2024-04-18 14:27:50",
-      "album": {
-        "name": "Spinning",
-        "url": "https://open.spotify.com/album/5WcVopSnLSUMTFUuoeE1jA"
-      },
-      "artists": [
-        {
-          "name": "Julia Holter",
-          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
-        }
-      ],
-      "duration_ms": 374468,
-      "name": "Spinning",
-      "url": "https://open.spotify.com/track/0E2AcfdJAhmAZdLz85TQU3"
     },
     {
       "added_at": "2024-04-18 14:27:50",
@@ -647,22 +683,6 @@
     {
       "added_at": "2024-04-18 14:27:50",
       "album": {
-        "name": "Tunnel Lights",
-        "url": "https://open.spotify.com/album/6YDDMqrGMpgtOE8fJQV8jt"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Wolfe",
-          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
-        }
-      ],
-      "duration_ms": 247664,
-      "name": "Tunnel Lights",
-      "url": "https://open.spotify.com/track/1PGLefFN78JJDg8bVM6Snv"
-    },
-    {
-      "added_at": "2024-04-18 14:27:50",
-      "album": {
         "name": "I Hope You Can Forgive Me",
         "url": "https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5"
       },
@@ -679,22 +699,18 @@
     {
       "added_at": "2024-04-18 14:27:50",
       "album": {
-        "name": "Of Air",
-        "url": "https://open.spotify.com/album/0mo9eadPkxiwJc2UavuFTX"
+        "name": "Tunnel Lights",
+        "url": "https://open.spotify.com/album/6YDDMqrGMpgtOE8fJQV8jt"
       },
       "artists": [
         {
-          "name": "Lecx Stacy",
-          "url": "https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO"
-        },
-        {
-          "name": "Clams Casino",
-          "url": "https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A"
+          "name": "Chelsea Wolfe",
+          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
         }
       ],
-      "duration_ms": 188250,
-      "name": "Of Air",
-      "url": "https://open.spotify.com/track/11dsa1I6VKaJbbtUw2a9HG"
+      "duration_ms": 247664,
+      "name": "Tunnel Lights",
+      "url": "https://open.spotify.com/track/1PGLefFN78JJDg8bVM6Snv"
     },
     {
       "added_at": "2024-04-18 14:27:50",
@@ -719,6 +735,26 @@
       "duration_ms": 60000,
       "name": "21 Reasons",
       "url": "https://open.spotify.com/track/4Etlj7z37w0ZMsiChsb2DA"
+    },
+    {
+      "added_at": "2024-04-18 14:27:50",
+      "album": {
+        "name": "Of Air",
+        "url": "https://open.spotify.com/album/0mo9eadPkxiwJc2UavuFTX"
+      },
+      "artists": [
+        {
+          "name": "Lecx Stacy",
+          "url": "https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO"
+        },
+        {
+          "name": "Clams Casino",
+          "url": "https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A"
+        }
+      ],
+      "duration_ms": 188250,
+      "name": "Of Air",
+      "url": "https://open.spotify.com/track/11dsa1I6VKaJbbtUw2a9HG"
     },
     {
       "added_at": "2024-04-18 14:27:50",
@@ -771,22 +807,6 @@
     {
       "added_at": "2024-04-18 14:27:50",
       "album": {
-        "name": "Pt. I",
-        "url": "https://open.spotify.com/album/0WfthyeVmVxhwbs09RwtwK"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 241009,
-      "name": "ANNA",
-      "url": "https://open.spotify.com/track/3JRRWAm5wR9pal37nIIbyc"
-    },
-    {
-      "added_at": "2024-04-18 14:27:50",
-      "album": {
         "name": "Closer Now",
         "url": "https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC"
       },
@@ -799,6 +819,22 @@
       "duration_ms": 282920,
       "name": "Closer Now",
       "url": "https://open.spotify.com/track/7Gjdqr0xvbe8IR2Dc28wTr"
+    },
+    {
+      "added_at": "2024-04-18 14:27:50",
+      "album": {
+        "name": "Pt. I",
+        "url": "https://open.spotify.com/album/0WfthyeVmVxhwbs09RwtwK"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "duration_ms": 241009,
+      "name": "ANNA",
+      "url": "https://open.spotify.com/track/3JRRWAm5wR9pal37nIIbyc"
     },
     {
       "added_at": "2024-04-18 14:27:50",
@@ -931,22 +967,6 @@
     {
       "added_at": "2024-04-18 14:27:50",
       "album": {
-        "name": "Mojik (Your Waves)",
-        "url": "https://open.spotify.com/album/1XpqQ8QN4Cxq23yChIiDt1"
-      },
-      "artists": [
-        {
-          "name": "Fatima Al Qadiri",
-          "url": "https://open.spotify.com/artist/1pfunEyqsC4oKSBY9gr8lN"
-        }
-      ],
-      "duration_ms": 193584,
-      "name": "Mojik (Your Waves)",
-      "url": "https://open.spotify.com/track/1GFcIhsm65DXpeWo9JLT9S"
-    },
-    {
-      "added_at": "2024-04-18 14:27:50",
-      "album": {
         "name": "The Order of the Rain",
         "url": "https://open.spotify.com/album/63gVoVz1raiZGgFldjpNKK"
       },
@@ -963,6 +983,22 @@
       "duration_ms": 300000,
       "name": "The Order of the Rain",
       "url": "https://open.spotify.com/track/4LCsXtT1cAeERXN0gb0Kbm"
+    },
+    {
+      "added_at": "2024-04-18 14:27:50",
+      "album": {
+        "name": "Mojik (Your Waves)",
+        "url": "https://open.spotify.com/album/1XpqQ8QN4Cxq23yChIiDt1"
+      },
+      "artists": [
+        {
+          "name": "Fatima Al Qadiri",
+          "url": "https://open.spotify.com/artist/1pfunEyqsC4oKSBY9gr8lN"
+        }
+      ],
+      "duration_ms": 193584,
+      "name": "Mojik (Your Waves)",
+      "url": "https://open.spotify.com/track/1GFcIhsm65DXpeWo9JLT9S"
     },
     {
       "added_at": "2024-04-18 14:27:50",
@@ -1031,22 +1067,6 @@
     {
       "added_at": "2024-04-18 14:27:50",
       "album": {
-        "name": "Gumar EP",
-        "url": "https://open.spotify.com/album/5OekI8p8goBmoEOSjoeILc"
-      },
-      "artists": [
-        {
-          "name": "Fatima Al Qadiri",
-          "url": "https://open.spotify.com/artist/1pfunEyqsC4oKSBY9gr8lN"
-        }
-      ],
-      "duration_ms": 96420,
-      "name": "Gumar (Moon)",
-      "url": "https://open.spotify.com/track/0Zcmk5mD0h4iBpF7jXYnwp"
-    },
-    {
-      "added_at": "2024-04-18 14:27:50",
-      "album": {
         "name": "Death Is Home",
         "url": "https://open.spotify.com/album/5HO1N4upxkWKuO3hdB4d2m"
       },
@@ -1083,18 +1103,18 @@
     {
       "added_at": "2024-04-18 14:27:50",
       "album": {
-        "name": "Ki moun ou ye",
-        "url": "https://open.spotify.com/album/7cJDsHyqQS6k7vSubd1reE"
+        "name": "Gumar EP",
+        "url": "https://open.spotify.com/album/5OekI8p8goBmoEOSjoeILc"
       },
       "artists": [
         {
-          "name": "Nathalie Joachim",
-          "url": "https://open.spotify.com/artist/4B1IFQsjyjR1MnHaknNC7i"
+          "name": "Fatima Al Qadiri",
+          "url": "https://open.spotify.com/artist/1pfunEyqsC4oKSBY9gr8lN"
         }
       ],
-      "duration_ms": 320409,
-      "name": "Ki moun ou ye",
-      "url": "https://open.spotify.com/track/5j0A24ckSZtirzrxxVjGdy"
+      "duration_ms": 96420,
+      "name": "Gumar (Moon)",
+      "url": "https://open.spotify.com/track/0Zcmk5mD0h4iBpF7jXYnwp"
     },
     {
       "added_at": "2024-04-18 14:27:50",
@@ -1115,22 +1135,6 @@
     {
       "added_at": "2024-04-18 14:27:50",
       "album": {
-        "name": "Da pacem",
-        "url": "https://open.spotify.com/album/3J6HgjAfyIbnhT7DVgQrIK"
-      },
-      "artists": [
-        {
-          "name": "Mykalle",
-          "url": "https://open.spotify.com/artist/6mgKqE0FKpgUK4Yf9ZBxi0"
-        }
-      ],
-      "duration_ms": 275906,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/36RLgJZrpFOaUe5QH8nuys"
-    },
-    {
-      "added_at": "2024-04-18 14:27:50",
-      "album": {
         "name": "Karada",
         "url": "https://open.spotify.com/album/5tosvcZsTBykv6eZQ8nxbk"
       },
@@ -1143,6 +1147,38 @@
       "duration_ms": 278830,
       "name": "Karada",
       "url": "https://open.spotify.com/track/0RtKOGhS4fhGkeZFjnZ5cq"
+    },
+    {
+      "added_at": "2024-04-18 14:27:50",
+      "album": {
+        "name": "Ki moun ou ye",
+        "url": "https://open.spotify.com/album/7cJDsHyqQS6k7vSubd1reE"
+      },
+      "artists": [
+        {
+          "name": "Nathalie Joachim",
+          "url": "https://open.spotify.com/artist/4B1IFQsjyjR1MnHaknNC7i"
+        }
+      ],
+      "duration_ms": 320409,
+      "name": "Ki moun ou ye",
+      "url": "https://open.spotify.com/track/5j0A24ckSZtirzrxxVjGdy"
+    },
+    {
+      "added_at": "2024-04-18 14:27:50",
+      "album": {
+        "name": "Da pacem",
+        "url": "https://open.spotify.com/album/3J6HgjAfyIbnhT7DVgQrIK"
+      },
+      "artists": [
+        {
+          "name": "Mykalle",
+          "url": "https://open.spotify.com/artist/6mgKqE0FKpgUK4Yf9ZBxi0"
+        }
+      ],
+      "duration_ms": 275906,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/36RLgJZrpFOaUe5QH8nuys"
     },
     {
       "added_at": "2024-04-18 14:27:50",
@@ -1195,22 +1231,6 @@
     {
       "added_at": "2024-04-18 14:27:50",
       "album": {
-        "name": "Mater Nostra",
-        "url": "https://open.spotify.com/album/4Vg6Hxk3DDESq2aKuuo4Vm"
-      },
-      "artists": [
-        {
-          "name": "Tara Nome Doyle",
-          "url": "https://open.spotify.com/artist/4juPbQZA8Z5lkQYtd4pNmv"
-        }
-      ],
-      "duration_ms": 182703,
-      "name": "Mater Nostra",
-      "url": "https://open.spotify.com/track/0JKTOPYIAcQDm3xXI70Td7"
-    },
-    {
-      "added_at": "2024-04-18 14:27:50",
-      "album": {
         "name": "Dois Litorais",
         "url": "https://open.spotify.com/album/7kNjniRhZmygaxlJoe7AFw"
       },
@@ -1227,38 +1247,18 @@
     {
       "added_at": "2024-04-18 14:27:50",
       "album": {
-        "name": "I Am You (Space Afrika Remix)",
-        "url": "https://open.spotify.com/album/7LnWTaScRI9JfHhOQqU4EU"
+        "name": "Mater Nostra",
+        "url": "https://open.spotify.com/album/4Vg6Hxk3DDESq2aKuuo4Vm"
       },
       "artists": [
         {
-          "name": "Just Mustard",
-          "url": "https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi"
-        },
-        {
-          "name": "Space Afrika",
-          "url": "https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5"
+          "name": "Tara Nome Doyle",
+          "url": "https://open.spotify.com/artist/4juPbQZA8Z5lkQYtd4pNmv"
         }
       ],
-      "duration_ms": 258366,
-      "name": "I Am You - Space Afrika Remix",
-      "url": "https://open.spotify.com/track/2dqc2QouSxBbbPpu84peJh"
-    },
-    {
-      "added_at": "2024-04-18 14:27:50",
-      "album": {
-        "name": "Sigillata Luce",
-        "url": "https://open.spotify.com/album/2BQuo5nQfPmd4TD15usjva"
-      },
-      "artists": [
-        {
-          "name": "Samuele CYMA",
-          "url": "https://open.spotify.com/artist/1RXsSSM8C7wdG5FSxDTMFM"
-        }
-      ],
-      "duration_ms": 309975,
-      "name": "Inquietum",
-      "url": "https://open.spotify.com/track/2Kh7KOKvfe25khXSJYH4rA"
+      "duration_ms": 182703,
+      "name": "Mater Nostra",
+      "url": "https://open.spotify.com/track/0JKTOPYIAcQDm3xXI70Td7"
     }
   ],
   "unique_name": "Terra Incognita",

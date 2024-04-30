@@ -4,7 +4,7 @@
 
 > 
 
-774 songs - 2 day 12 hr 37 min
+776 songs - 2 day 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -570,6 +570,7 @@
 | [Que tal America](https://open.spotify.com/track/4PKeXkiWmitCiiBzvO3Tfa) | [Two Man Sound](https://open.spotify.com/artist/1fVkoaWNbsSwb7KAG2fboU) | [Samba Megamix](https://open.spotify.com/album/1lEvq3ewf4pHTgk4aqe7Nl) | 4:48 | 2020-10-02 |  |
 | [Que viene el maní](https://open.spotify.com/track/3stLqZRsfSpxqpmnzR9TrQ) | [Sergent Garcia](https://open.spotify.com/artist/6FaSJ1FXpb5QxKu77LPiZr) | [Un Poquito Quema'o](https://open.spotify.com/album/5lKRqbA399Txwzk1IBVx3W) | 4:48 | 2023-12-04 |  |
 | [Queixa](https://open.spotify.com/track/1NIAQbzrcpqoaZd3sNFFKJ) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Cores, Nomes](https://open.spotify.com/album/1xAQ6kW7DQZxTghyepHtzm) | 4:23 | 2022-09-14 |  |
+| [Quelle Drôle De Vie \(Remix\)](https://open.spotify.com/track/0jqNCUw1eDTtCJO8ckCCE2) | [Leo Basel](https://open.spotify.com/artist/22z7h9kTVlxhAv83bX23lR), [Marc Bellaiche](https://open.spotify.com/artist/5h24N20GMbAxwpO7gxUnyQ) | [Quelle Drôle De Vie](https://open.spotify.com/album/6JqS4XWZRI3jmzZavSJFW8) | 6:37 | 2024-04-29 |  |
 | [Queztal](https://open.spotify.com/track/3BLtz1XMadNpiil28XLUyU) | [Los Hermanos](https://open.spotify.com/artist/5gmYIZpH1l8t94NoRZRB5x) | [On Another Level](https://open.spotify.com/album/3AftCQAH0WzS0sEcni5ToS) | 6:13 | 2024-02-22 |  |
 | [Qui sait qui sait qui sait](https://open.spotify.com/track/1AjMHNg3bKZYl733Zv9ZAC) | [Henri Salvador](https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6) | [Faut rigoler](https://open.spotify.com/album/7eQ6aBe1LPCLkt6vkYPuZ4) | 3:11 | 2023-10-08 |  |
 | [Quitate La Máscara](https://open.spotify.com/track/7AhoOwG8qWE5RK7GS1XA6w) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Barretto Power](https://open.spotify.com/album/5RxIBMJ5ZrQo1YmD1bk9k7) | 4:30 | 2021-03-18 |  |
@@ -703,6 +704,7 @@
 | [Undantag](https://open.spotify.com/track/5TCPwtupzb4cl3id4AjQ9b) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Dina Ögon](https://open.spotify.com/album/1fO48uPVulHutVi6MeDTxF) | 3:58 | 2023-10-07 |  |
 | [Undiú](https://open.spotify.com/track/1xoS1xTCo3Fj3417Jysy8G) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto \(1973\)](https://open.spotify.com/album/7IprOzp4rp31nyx0UHBzMs) | 6:37 | 2022-11-28 |  |
 | [Universo em Desencanto](https://open.spotify.com/track/6URjzNvVL7i3H1jNrIPsjc) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Racional \(Vol 1\)](https://open.spotify.com/album/7J9wATH6I891OTHteIWSEj) | 3:44 | 2021-05-11 |  |
+| [Uurkan Kaadonaya \(I Want You\)](https://open.spotify.com/track/5dbE70S212LvwKxYvvRicF) | [Groupe RTD](https://open.spotify.com/artist/1pVWzEPoVWeAG98sfUyBsm) | [The Dancing Devils of Djibouti](https://open.spotify.com/album/4KwTC2RgaJoBSvmYauNaqg) | 6:48 | 2024-04-29 |  |
 | [Va' Fanculo Con Chi Vuo' Tu](https://open.spotify.com/track/5jPIT1lfFqDX4jH9WxCr0M) | [Squallor](https://open.spotify.com/artist/3GugYoehnJyYjrWcOSZkUO) | [Squallor](https://open.spotify.com/album/7kOyOuz45JgKVaBSrzTiHx) | 3:43 | 2024-01-15 |  |
 | [Vamonos](https://open.spotify.com/track/5EuXInpQgpeEBEcJ2yS97u) | [Elkin & Nelson](https://open.spotify.com/artist/2B6jLXMjMSW7Jf8yBM6rVJ) | [Elkin & Nelson](https://open.spotify.com/album/1pK8v2GvaZlmRbwKfcdsDW) | 9:17 | 2023-03-15 |  |
 | [Vay Dünya](https://open.spotify.com/track/4yISxJJ6KSHLuBd3H3sMv1) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Vay Dünya](https://open.spotify.com/album/2pnpEMJaEE7Q9dzWmzw9yM) | 4:20 | 2019-09-05 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 
 > Your go\-to playlist for this week's hottest music featuring The Chainsmokers, Beyoncé, Miley Cyrus &amp; more! Cover: The Chainsmokers &amp; Fridayy
 
-[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,033 likes - 103 songs - 5 hr 19 min
+[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,027 likes - 103 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

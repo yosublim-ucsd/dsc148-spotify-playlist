@@ -1,5 +1,5 @@
 {
-  "2024-04-29": 8933,
+  "2024-04-30": 8933,
   "date_first_scraped": "2024-04-27",
   "description": "N\u00fd t\u00f3nlist!",
   "name": "New Music Friday Iceland",
@@ -95,6 +95,28 @@
       "duration_ms": 129600,
       "name": "ALIVE",
       "url": "https://open.spotify.com/track/1ORyw3VGzs2mAXZvJCXXIL"
+    },
+    {
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/0tWAxrCVO4pazxBqI3dEj6"
+      },
+      "artists": [
+        {
+          "name": "B\u00f6ddi",
+          "url": "https://open.spotify.com/artist/7hq5MwVvYGBoDJ3YuzDc6P"
+        },
+        {
+          "name": "Ingvi \u00de\u00f3r Korm\u00e1ksson",
+          "url": "https://open.spotify.com/artist/0UjTW7IRziiJv9ufd3Xlpl"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183927,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/00jpx3BTfyLb2OlVrbH78Q"
     },
     {
       "album": {
@@ -1541,7 +1563,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 198521,
       "name": "PARAS!TE",
       "url": "https://open.spotify.com/track/0EErE0B3oJVfwnAW1gEbjJ"

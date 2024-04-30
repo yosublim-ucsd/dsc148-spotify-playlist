@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: <a href=\"spotify:artist:4DROs1Ye9DiLY3X8L7xvl8\">Andrez Babii</a>",
-  "num_followers": 181285,
+  "num_followers": 181061,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2024-04-18 23:43:08",
       "album": {
+        "name": "Doble Filo",
+        "url": "https://open.spotify.com/album/5yTsLpw3nxNRFq6eFX59qb"
+      },
+      "artists": [
+        {
+          "name": "CRYS",
+          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
+        }
+      ],
+      "duration_ms": 140715,
+      "name": "Doble Filo",
+      "url": "https://open.spotify.com/track/6AGv5GVeeCGwNr2KeNPhRb"
+    },
+    {
+      "added_at": "2024-04-18 23:43:08",
+      "album": {
         "name": "No, No",
         "url": "https://open.spotify.com/album/548RYuHGPoUtQ1FXlbRnRe"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 152439,
       "name": "Tumba",
       "url": "https://open.spotify.com/track/3pG0dfvF8vQZY10HOit7UM"
-    },
-    {
-      "added_at": "2024-04-18 23:43:08",
-      "album": {
-        "name": "Doble Filo",
-        "url": "https://open.spotify.com/album/5yTsLpw3nxNRFq6eFX59qb"
-      },
-      "artists": [
-        {
-          "name": "CRYS",
-          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
-        }
-      ],
-      "duration_ms": 140715,
-      "name": "Doble Filo",
-      "url": "https://open.spotify.com/track/6AGv5GVeeCGwNr2KeNPhRb"
     },
     {
       "added_at": "2024-04-18 23:43:08",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2024-04-18 23:43:08",
       "album": {
-        "name": "Todo",
-        "url": "https://open.spotify.com/album/4eddoLwIvlhjJuwP6vVkSg"
-      },
-      "artists": [
-        {
-          "name": "JXHN PVUL",
-          "url": "https://open.spotify.com/artist/28H3boz2aIeGYUIEP3cHUU"
-        },
-        {
-          "name": "Anmily Brown",
-          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
-        }
-      ],
-      "duration_ms": 129026,
-      "name": "Todo",
-      "url": "https://open.spotify.com/track/4F32nuyJZiR44CI4GcNLd1"
-    },
-    {
-      "added_at": "2024-04-18 23:43:08",
-      "album": {
         "name": "Yo Te Mir\u00e9",
         "url": "https://open.spotify.com/album/1JgcgcFc7JovAPTxZCKuFu"
       },
@@ -1571,6 +1551,26 @@
       "duration_ms": 206230,
       "name": "M\u00e1s Como T\u00fa \u2013 Remix",
       "url": "https://open.spotify.com/track/0cN87JXZzLCLml6H7MQkaj"
+    },
+    {
+      "added_at": "2024-04-18 23:43:08",
+      "album": {
+        "name": "Todo",
+        "url": "https://open.spotify.com/album/4eddoLwIvlhjJuwP6vVkSg"
+      },
+      "artists": [
+        {
+          "name": "JXHN PVUL",
+          "url": "https://open.spotify.com/artist/28H3boz2aIeGYUIEP3cHUU"
+        },
+        {
+          "name": "Anmily Brown",
+          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
+        }
+      ],
+      "duration_ms": 129026,
+      "name": "Todo",
+      "url": "https://open.spotify.com/track/4F32nuyJZiR44CI4GcNLd1"
     },
     {
       "added_at": "2024-04-18 23:43:08",
@@ -1647,26 +1647,22 @@
     {
       "added_at": "2024-04-18 23:43:08",
       "album": {
-        "name": "Siempre Ha Estado Aqu\u00ed (Remix)",
-        "url": "https://open.spotify.com/album/2hQULmsldbuwZrRTHC0Yzy"
+        "name": "NO ME MOVER\u00c9",
+        "url": "https://open.spotify.com/album/1Hghk6MYkggfQKh5aEJKqT"
       },
       "artists": [
         {
-          "name": "Despinal",
-          "url": "https://open.spotify.com/artist/1BUKOKrluYkT5yH2SvdbOe"
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
         },
         {
-          "name": "JMV The Producer",
-          "url": "https://open.spotify.com/artist/5cFyv6N31ohxAL5NEbEhHx"
-        },
-        {
-          "name": "Travy Joe",
-          "url": "https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5"
+          "name": "Isaac Rojas",
+          "url": "https://open.spotify.com/artist/5aGkfIoXHpvpAL983bMFr5"
         }
       ],
-      "duration_ms": 185361,
-      "name": "Siempre Ha Estado Aqu\u00ed (Remix)",
-      "url": "https://open.spotify.com/track/4eSTVukNr08v0IMbso7gCo"
+      "duration_ms": 186660,
+      "name": "NO ME MOVER\u00c9",
+      "url": "https://open.spotify.com/track/5qQ3AMagzXYC32oyrTNr1f"
     },
     {
       "added_at": "2024-04-18 23:43:08",
@@ -1691,22 +1687,26 @@
     {
       "added_at": "2024-04-18 23:43:08",
       "album": {
-        "name": "NO ME MOVER\u00c9",
-        "url": "https://open.spotify.com/album/1Hghk6MYkggfQKh5aEJKqT"
+        "name": "Siempre Ha Estado Aqu\u00ed (Remix)",
+        "url": "https://open.spotify.com/album/2hQULmsldbuwZrRTHC0Yzy"
       },
       "artists": [
         {
-          "name": "Pablo Betancourth",
-          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
+          "name": "Despinal",
+          "url": "https://open.spotify.com/artist/1BUKOKrluYkT5yH2SvdbOe"
         },
         {
-          "name": "Isaac Rojas",
-          "url": "https://open.spotify.com/artist/5aGkfIoXHpvpAL983bMFr5"
+          "name": "JMV The Producer",
+          "url": "https://open.spotify.com/artist/5cFyv6N31ohxAL5NEbEhHx"
+        },
+        {
+          "name": "Travy Joe",
+          "url": "https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5"
         }
       ],
-      "duration_ms": 186660,
-      "name": "NO ME MOVER\u00c9",
-      "url": "https://open.spotify.com/track/5qQ3AMagzXYC32oyrTNr1f"
+      "duration_ms": 185361,
+      "name": "Siempre Ha Estado Aqu\u00ed (Remix)",
+      "url": "https://open.spotify.com/track/4eSTVukNr08v0IMbso7gCo"
     },
     {
       "added_at": "2024-04-18 23:43:08",
@@ -1759,6 +1759,26 @@
     {
       "added_at": "2024-04-18 23:43:08",
       "album": {
+        "name": "Picheo",
+        "url": "https://open.spotify.com/album/6r7McsBCLRRH3Yz9IAEqul"
+      },
+      "artists": [
+        {
+          "name": "Mireyli Rosa",
+          "url": "https://open.spotify.com/artist/2A1shNbwnD3IXNeo6CK6JC"
+        },
+        {
+          "name": "Alexxander",
+          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
+        }
+      ],
+      "duration_ms": 240500,
+      "name": "Picheo",
+      "url": "https://open.spotify.com/track/1I3KDCANZfQq4556nAk3DL"
+    },
+    {
+      "added_at": "2024-04-18 23:43:08",
+      "album": {
         "name": "BEST NIGHT",
         "url": "https://open.spotify.com/album/4unZ0GkcZuI9qWIdF77eiL"
       },
@@ -1783,26 +1803,6 @@
       "duration_ms": 161965,
       "name": "BEST NIGHT",
       "url": "https://open.spotify.com/track/5gwjlmywKglmE8y4lVBV0j"
-    },
-    {
-      "added_at": "2024-04-18 23:43:08",
-      "album": {
-        "name": "Picheo",
-        "url": "https://open.spotify.com/album/6r7McsBCLRRH3Yz9IAEqul"
-      },
-      "artists": [
-        {
-          "name": "Mireyli Rosa",
-          "url": "https://open.spotify.com/artist/2A1shNbwnD3IXNeo6CK6JC"
-        },
-        {
-          "name": "Alexxander",
-          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
-        }
-      ],
-      "duration_ms": 240500,
-      "name": "Picheo",
-      "url": "https://open.spotify.com/track/1I3KDCANZfQq4556nAk3DL"
     },
     {
       "added_at": "2024-04-18 23:43:08",

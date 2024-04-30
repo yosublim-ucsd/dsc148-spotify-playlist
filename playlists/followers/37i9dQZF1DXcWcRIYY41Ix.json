@@ -1,5 +1,5 @@
 {
-  "2024-04-29": 123284,
+  "2024-04-30": 123278,
   "date_first_scraped": "2021-12-28",
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Sebasti\u00e1n Romero.",
   "name": "Cancionistas",
@@ -2115,7 +2115,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 241300,
       "name": "Como la Primavera",
       "url": "https://open.spotify.com/track/5C2VTZ3VN8xE04UViMEavj"
@@ -2181,6 +2181,24 @@
       "duration_ms": 169887,
       "name": "Condenada",
       "url": "https://open.spotify.com/track/4S3EogdoSuj7kFJYEsxWxq"
+    },
+    {
+      "album": {
+        "name": "Las Luces Que Estaban Ocultas [en vivo]",
+        "url": "https://open.spotify.com/album/1hC1FBKykJyHC2oNyq1Zxo"
+      },
+      "artists": [
+        {
+          "name": "Juana Aguirre",
+          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324000,
+      "name": "configuracionesonduladas_17.11.23_nicetoclub_bsas",
+      "url": "https://open.spotify.com/track/50lK2pEB7EDDczjUfKHT5b"
     },
     {
       "album": {
@@ -7978,6 +7996,24 @@
     },
     {
       "album": {
+        "name": "Plantar un bosque",
+        "url": "https://open.spotify.com/album/3CWrkvYyZCUPCM1x6FRhzx"
+      },
+      "artists": [
+        {
+          "name": "Laaza",
+          "url": "https://open.spotify.com/artist/7y7gSptY7bTXgQRqFv5xhy"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207690,
+      "name": "Plantar un bosque",
+      "url": "https://open.spotify.com/track/4Z86gAwX69INQHmsHWgJep"
+    },
+    {
+      "album": {
         "name": "Pobles al costat del riu",
         "url": "https://open.spotify.com/album/6EFZKqv2ty50XH9X3IQES2"
       },
@@ -8879,7 +8915,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 201500,
       "name": "Ronda al canto (A cielo abierto)",
       "url": "https://open.spotify.com/track/0oSYjXfxfCcVbNoWZclRL6"

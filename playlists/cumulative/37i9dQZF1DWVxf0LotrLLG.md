@@ -4,7 +4,7 @@
 
 > Descubre los nuevos álbumes del 2024\. Hit shuffle for a mixed listening experience\. Cover: Jay Wheeler
 
-1,026 songs - 2 day 6 hr 17 min
+1,029 songs - 2 day 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Castillo De Arena](https://open.spotify.com/track/0CYNGsiMY2VjOBdIh2fWIO) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [ISABEL LP](https://open.spotify.com/album/2wKUbvW4GLcdbvCYVoLnEX) | 5:33 | 2024-03-15 |  |
 | [Cayendo](https://open.spotify.com/track/2zsURKVmLUWKbsUHea8Wqz) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [alivio](https://open.spotify.com/album/2IDSJ1Xw2yNJPkHdWbUvTI) | 2:34 | 2023-06-30 | 2023-10-28 |
 | [Cazzualidades](https://open.spotify.com/track/1lvA3HsMSLGoFqzxzQVYdu) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Forajido EP2](https://open.spotify.com/album/26V8oCj2Lxs2tLemL0Xf3g) | 3:08 | 2023-05-26 | 2023-10-14 |
+| [caída del cielo <3](https://open.spotify.com/track/0Njk7qwCya5tSeXMZzoBUw) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [a new star \(1 9 9 3\)](https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4) | 2:13 | 2024-04-29 |  |
 | [Cecilia \(feat\. Juan Luis Guerra 4.40\)](https://open.spotify.com/track/537WNh9i0Mm1u48olB7NWj) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Vida Cotidiana](https://open.spotify.com/album/1fHpKy8dfAplGSfcOsqtOm) | 3:28 | 2023-05-19 | 2023-08-26 |
 | [CELESTE // YA LO SABES](https://open.spotify.com/track/7IcqhaE51MV1ZKW4v9ug16) | [MIEL](https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd) | [CELESTE // YA LO SABES](https://open.spotify.com/album/4jqrjhuUOCGpgL2pBWghoE) | 3:00 | 2023-10-20 | 2024-02-03 |
 | [Centenas De Miles De Años](https://open.spotify.com/track/6xa21lEbZdVtQa41HDkQcY) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Centenas De Miles De Años](https://open.spotify.com/album/2VEb1mzailGntQVRoWqaq9) | 3:12 | 2023-10-13 | 2024-02-03 |
@@ -259,6 +260,7 @@
 | [Desconocido](https://open.spotify.com/track/10pstCVmtxdb4TZ0pL4IjH) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [ES SOLO MÚSICA](https://open.spotify.com/album/3dSpkvGKm8sUghxdS1pvwE) | 2:53 | 2024-04-19 |  |
 | [Desespero](https://open.spotify.com/track/1Dlzq86mlvJEkaGoS9c7MN) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 3:14 | 2023-05-12 | 2023-08-12 |
 | [Despierta y Mata](https://open.spotify.com/track/4UVSywSk2DYi6gHWU9OoZV) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Par De Quina](https://open.spotify.com/album/36dIYKnpAFMPUr6pBm8rob) | 2:33 | 2024-02-02 |  |
+| [Detrás del DJ](https://open.spotify.com/track/0w5lDKKX6YvfAXrytalvpR) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [a new star \(1 9 9 3\)](https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4) | 1:59 | 2024-04-29 |  |
 | [Devuélveme a Mi Chica](https://open.spotify.com/track/7sl70g1z4UCKl28PdAG5na) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [David Summers](https://open.spotify.com/artist/38DCnAQ5QAcMW9TSnsgYGt) | [Thalia's Mixtape](https://open.spotify.com/album/6otH0ogeIDBJ3UgpjIpxVf) | 3:22 | 2023-04-28 | 2023-07-29 |
 | [Diamante Roto](https://open.spotify.com/track/1rs0pVmsZTiPnUX6j3zkOO) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 3:01 | 2023-07-07 | 2023-11-04 |
 | [Dice Que No Se Va](https://open.spotify.com/track/2XdHlxbWjKEZbg8Q6zvQ0T) | [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [Reparto Pa los Repartos](https://open.spotify.com/album/0wzOu2oz5vZ1gRjZOlXzsk) | 3:00 | 2024-02-09 |  |
@@ -948,6 +950,7 @@
 | [Un Beso](https://open.spotify.com/track/4x2QqXF2ZAp0xrqOZKLq30) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [Los Reyes Del Mar](https://open.spotify.com/album/6gICJJez4pXMZVV0MvqLZb) | 2:35 | 2024-04-26 |  |
 | [UN BETA](https://open.spotify.com/track/7mzrz5yyLv4r8vQRyVEWE7) | [Briella](https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b) | [AL MANDO](https://open.spotify.com/album/04Y8XPdbxJJv7usOlkgYmW) | 2:40 | 2023-11-17 | 2024-02-10 |
 | [UN DESEO](https://open.spotify.com/track/2ECSDcH0Fk1yRO5KkVZwKn) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [ESTRELLA](https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3) | 3:38 | 2023-09-01 | 2023-12-16 |
+| [Un Desperdicio](https://open.spotify.com/track/75qepWUT3FEyPyXQMMMVZm) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [a new star \(1 9 9 3\)](https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4) | 3:43 | 2024-04-29 |  |
 | [un día](https://open.spotify.com/track/2znDyj4JlYJL1DayuV4j14) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [100PRE YORO](https://open.spotify.com/album/6xOaHqhD9jaJtR3xmFHrzP) | 3:42 | 2024-04-26 |  |
 | [Un ratito más](https://open.spotify.com/track/6oxu4nBUPJonbBptv1bX1n) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [Perla Rosa](https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf) | 3:51 | 2023-07-07 | 2023-10-28 |
 | [UNA BALA](https://open.spotify.com/track/6K7gGdiXiKHTaA5M98uT1F) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 3:03 | 2023-12-01 | 2024-01-20 |

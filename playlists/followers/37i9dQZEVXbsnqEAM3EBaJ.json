@@ -1,5 +1,5 @@
 {
-  "2024-04-29": 0,
+  "2024-04-30": 0,
   "date_first_scraped": "2023-03-03",
   "description": "Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.",
   "name": "Release Radar (@pipemanuel10)",
@@ -11842,6 +11842,24 @@
     },
     {
       "album": {
+        "name": "Blue Train",
+        "url": "https://open.spotify.com/album/3ThHAriukjvBCs91zisfhN"
+      },
+      "artists": [
+        {
+          "name": "Piero",
+          "url": "https://open.spotify.com/artist/0kavuvnHTeqwjKLV7qPpQm"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360000,
+      "name": "International Language",
+      "url": "https://open.spotify.com/track/4GjileJ1ECjLv4OoPXK164"
+    },
+    {
+      "album": {
         "name": "Internet (Interlude)",
         "url": "https://open.spotify.com/album/5tUzZcgqafFeeej2q3g0Ch"
       },
@@ -16029,7 +16047,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 368750,
       "name": "Nikes On My Feet",
       "url": "https://open.spotify.com/track/2Bgw3scjlnWiYonMJEf6FN"

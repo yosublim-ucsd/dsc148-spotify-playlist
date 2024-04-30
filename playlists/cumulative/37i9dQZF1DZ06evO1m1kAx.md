@@ -2,7 +2,7 @@
 
 ### [This Is 2Baba](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1m1kAx)
 
-> This Is 2Baba\. Los temas esenciales, todos en una lista.
+> This is 2Baba\. The essential tracks, all in one playlist.
 
 113 songs - 7 hr 38 min
 
@@ -90,7 +90,7 @@
 | [Oya Come Make We Go](https://open.spotify.com/track/0jYQc5rfIJNgbwyDwQHS4m) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Oya Come Make We Go](https://open.spotify.com/album/56knvwpmyWDP0TKmsWubT1) | 4:19 | 2021-12-28 |  |
 | [Oyi \(feat\. HI Idibia\)](https://open.spotify.com/track/7f1F8o8w0R7otr5JvQfXUR) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [HI Idibia](https://open.spotify.com/artist/7hyQCE1I9Jrqlj09FO84q8) | [Warriors](https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK) | 3:57 | 2021-12-28 |  |
 | [Possibility](https://open.spotify.com/track/3wsj3rTvMRTtsyisz3urrj) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Danger](https://open.spotify.com/album/13yKq0XTkdxftNDr4vsi7e) | 5:03 | 2022-03-07 |  |
-| [Rainbow \(feat\. T\-Pain\)](https://open.spotify.com/track/5JP8TwUpsWlSJQda6Ev67o) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [AWAY & BEYOND PLUS](https://open.spotify.com/album/3UDRSt9HM1wYuwPr8uuvka) | 4:26 | 2024-04-23 |  |
+| [Rainbow \(feat\. T\-Pain\)](https://open.spotify.com/track/5JP8TwUpsWlSJQda6Ev67o) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [AWAY & BEYOND PLUS](https://open.spotify.com/album/3UDRSt9HM1wYuwPr8uuvka) | 4:26 | 2024-04-23 | 2024-04-30 |
 | [Rainbow \- Remix](https://open.spotify.com/track/3rosTvZ4MAbOAzNbbEp6Ha) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [AWAY & BEYOND PLUS](https://open.spotify.com/album/2jlFfIJGPB0NQb3Q040sLa) | 4:26 | 2021-12-28 | 2022-11-22 |
 | [Raindrops](https://open.spotify.com/track/3mhjJw2JU1cpTfrPA29Jcc) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Unstoppable International](https://open.spotify.com/album/5EGrHCpoECndjmQC33KFiY) | 4:49 | 2024-03-31 |  |
 | [Raindrops](https://open.spotify.com/track/4cpQzHK4clbqMSQ1xBDpMY) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Unstoppable International](https://open.spotify.com/album/5sfbvpDCLWPobjdnjes1w0) | 4:49 | 2021-12-29 | 2024-04-01 |
@@ -98,7 +98,7 @@
 | [Remember \(feat\. 2face\)](https://open.spotify.com/track/6tqRTGMys8jvDUmdxsPwdk) | [Bracket](https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Cupid Stories](https://open.spotify.com/album/2ccdb6tBRWeGQV0ffF3Wci) | 4:02 | 2021-12-28 |  |
 | [Right Here](https://open.spotify.com/track/2L7I6WIUbzBMlepi4iVfXd) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.](https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV) | [Face 2 Face](https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw) | 4:48 | 2021-12-28 |  |
 | [Right Here \- Remastered Version](https://open.spotify.com/track/6uDx4p5FwDZesqipK8inqo) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Face 2 Face 10.0](https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF) | 4:46 | 2022-03-29 | 2022-11-17 |
-| [Rise Up](https://open.spotify.com/track/52vFTpJ6BRTSMI9K9IwI4f) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Rise Up](https://open.spotify.com/album/1Q2opiQfdZIP9DvBZNryG7) | 5:04 | 2021-12-28 | 2024-04-01 |
+| [Rise Up](https://open.spotify.com/track/52vFTpJ6BRTSMI9K9IwI4f) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Rise Up](https://open.spotify.com/album/1Q2opiQfdZIP9DvBZNryG7) | 5:04 | 2021-12-28 |  |
 | [Searching](https://open.spotify.com/track/6A6rSOYp5xAgyNELLBwdWH) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Bongos Ikwue](https://open.spotify.com/artist/4JSDqRrKYBFBjxS31YfWYK) | [Searching](https://open.spotify.com/album/34w5UK4AMarI8UU8G09ZOD) | 4:12 | 2021-12-28 | 2022-08-08 |
 | [See God](https://open.spotify.com/track/4tCeALAdETzi8VXAgn4nun) | [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Realness Over Hype](https://open.spotify.com/album/5Lr8uyHyEVzyHj4yTUF6JW) | 2:45 | 2024-03-30 |  |
 | [See Me So](https://open.spotify.com/track/0RdXMS28fH63l6Is3eHZXM) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Grass 2 Grace](https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA) | 4:40 | 2021-12-28 |  |

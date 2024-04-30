@@ -11941,6 +11941,28 @@
     },
     {
       "album": {
+        "name": "Wide Awake",
+        "url": "https://open.spotify.com/album/0AavjOVECKCakzcwPQ7D8B"
+      },
+      "artists": [
+        {
+          "name": "Last Heroes",
+          "url": "https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97"
+        },
+        {
+          "name": "s\u00f8d ven",
+          "url": "https://open.spotify.com/artist/6Gt5kTPVe7tuYK44gRPVdJ"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Wide Awake",
+      "url": "https://open.spotify.com/track/3Xan57kXn4YNZCK91l8qZe"
+    },
+    {
+      "album": {
         "name": "Mind Over Matter",
         "url": "https://open.spotify.com/album/7A6ctoMJhFjeQ0XBYDgTqX"
       },

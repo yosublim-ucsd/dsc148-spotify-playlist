@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz?si=BERBjUZ8TAC\_ivAWKQDdcw>Prinx Emmanuel</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,461 likes - 103 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,478 likes - 103 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

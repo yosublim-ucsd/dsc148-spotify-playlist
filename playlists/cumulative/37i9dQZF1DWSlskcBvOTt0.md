@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-649 songs - 2 day 12 hr 15 min
+650 songs - 2 day 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,6 +338,7 @@
 | [Louna](https://open.spotify.com/track/2Ms9rXvqIqCzn9BYkhVoYA) | [Sam Shure](https://open.spotify.com/artist/51YmUpitluHsvMTXJ2rsiN) | [Laconia](https://open.spotify.com/album/5KzPSUu9nrd53wZqESbx6w) | 8:35 | 2021-04-21 | 2023-04-29 |
 | [Love and Hate \- Nandu Remix](https://open.spotify.com/track/4UX4lVdixYSjR1gBeIyjs3) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Nandu](https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0) | [Temple Of Dreams \(Remixes Part 5\)](https://open.spotify.com/album/6rjJTD1FWGbijpXLIoz001) | 3:31 | 2024-02-02 |  |
 | [Lovers Game](https://open.spotify.com/track/5L3kJPnAMEORynAJrBHMbx) | [Cosmicat](https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU), [Ss.hh.a.n.a](https://open.spotify.com/artist/7paUluJ7hvCKRvaz7JOppE) | [Lovers Game / Game Over](https://open.spotify.com/album/0t46ilYLPi2Oihzojq537f) | 3:33 | 2024-02-16 |  |
+| [Lovesong](https://open.spotify.com/track/50KLPfmEn6dFFVpuM1VycK) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Lovesong](https://open.spotify.com/album/5epevNSjLdCBYEQB0YGDjd) | 3:40 | 2024-04-26 |  |
 | [Luciernagas](https://open.spotify.com/track/2SHbl5MEmDxbXsG0QdDlc0) | [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p) | [Fulgor](https://open.spotify.com/album/3dTBQ3DeErJkq1m1M64aCz) | 5:56 | 2021-04-21 | 2022-07-27 |
 | [Luma \- Tim Engelhardt Remix](https://open.spotify.com/track/5FxwIddNBkGhTTCGpkwJMr) | [MOLØ](https://open.spotify.com/artist/29k6IUtkDp9ErAaJrh1Tlg), [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [Luma EP \- Reimagined](https://open.spotify.com/album/2RjSKeDGxZsk8mZvQqPfqr) | 7:37 | 2022-07-08 | 2022-07-12 |
 | [Luminesce](https://open.spotify.com/track/0st9uOHm2Vw345UJKzdvRX) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Luminesce](https://open.spotify.com/album/6hyuN6LrgmQhcDlgILc2EB) | 4:39 | 2024-04-19 |  |
@@ -377,7 +378,7 @@
 | [Milkshake 20 \(Alex Wann Remix\)](https://open.spotify.com/track/49wEdWGkL2CcOrXEKklXtJ) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM), [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [Milkshake 20 \(Alex Wann Remix\)](https://open.spotify.com/album/6x2zv2rhiwUYECd681EisA) | 2:56 | 2023-11-03 | 2024-04-19 |
 | [Milkshake 20 \- Alex Wann Remix](https://open.spotify.com/track/39jBAaaSlgM9UdZBSKDd6F) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM), [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [Milkshake 20 \(Alex Wann Remix\)](https://open.spotify.com/album/4B5VkayNwax1Z2ZDThsNt9) | 2:56 | 2023-09-15 | 2024-04-27 |
 | [Milla Ella](https://open.spotify.com/track/0A2mTYI8HDN0X6afRLSHB4) | [Come Closer](https://open.spotify.com/artist/0ldaAtkGESIpY4avgd1LqC) | [Milla Ella](https://open.spotify.com/album/0FhyEz5SmhnAmJQBvlx4MY) | 8:49 | 2021-08-27 | 2022-07-10 |
-| [Miller](https://open.spotify.com/track/1QEaF95yg4u8p4KquK4z72) | [Kiko](https://open.spotify.com/artist/4vQwRCAEjGlq5szn3MyG2N), [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [Miller](https://open.spotify.com/album/1PqVEt69ZmHEoZhrKfuAji) | 6:27 | 2024-04-19 |  |
+| [Miller](https://open.spotify.com/track/1QEaF95yg4u8p4KquK4z72) | [Kiko](https://open.spotify.com/artist/4vQwRCAEjGlq5szn3MyG2N), [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [Miller](https://open.spotify.com/album/1PqVEt69ZmHEoZhrKfuAji) | 6:27 | 2024-04-19 | 2024-04-30 |
 | [Minero](https://open.spotify.com/track/0ZEQcLlNxQI1McXdTX3QQZ) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W) | [Minero](https://open.spotify.com/album/7ijwFFxaAbIFuhQE41eznr) | 6:09 | 2021-12-13 | 2023-04-29 |
 | [Miombo \- Original](https://open.spotify.com/track/2Jyu4yhzCv25s2xtwLpq8P) | [Laroz](https://open.spotify.com/artist/37VopouYOyLqeH34jEZ7W9) | [Miombo](https://open.spotify.com/album/5GtgbyB6ATyCEAryQrTiFE) | 7:01 | 2021-04-21 | 2022-06-29 |
 | [Miracle \- RÜFÜS DU SOL Remix](https://open.spotify.com/track/2yTjbIZDwHO41HIwDNPB8K) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Miracle \- RÜFÜS DU SOL Remix](https://open.spotify.com/album/0YrIrVXVrpZZM7cjxF8erW) | 8:23 | 2023-10-13 |  |

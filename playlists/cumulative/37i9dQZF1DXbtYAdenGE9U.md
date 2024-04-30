@@ -4,7 +4,7 @@
 
 > Lasers, lights & euphoric beats \- all your favorite trance anthems!
 
-206 songs - 15 hr 1 min
+207 songs - 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Ayla \- DJ Taucher Radio Edit](https://open.spotify.com/track/4acv9cybr3QdBcQ5WpyiI1) | [Ayla](https://open.spotify.com/artist/190nhOwQKuDEOv7YKOgnzq), [Taucher](https://open.spotify.com/artist/0LTOhhlPSPjhOamlAhbYfa) | [Trance Classics, Vol\. 01](https://open.spotify.com/album/12WxRPHrbNqPR9MXOrAMtC) | 3:58 | 2023-08-11 |  |
 | [Barber's Adagio for Strings \- Ferry Corsten Remix; Radio Edit;](https://open.spotify.com/track/6qlmPJiL0uQZ45Jirn3VA5) | [William Orbit](https://open.spotify.com/artist/2AHGrNDMKFi8rHqQ8kJqfl), [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP) | [Fitness Beats 2013](https://open.spotify.com/album/7fym5VfEqhrrQhzFMLghvD) | 3:40 | 2023-08-11 |  |
 | [Beachball \- Vocal Radio Edit](https://open.spotify.com/track/6iyxF36JnQYzqMbpQD861R) | [Nalin & Kane](https://open.spotify.com/artist/6JUsbe4yjY4fZbXTtpyfh6) | [Beachball](https://open.spotify.com/album/5twL3A9cQUR61zLddNP6cf) | 3:54 | 2022-04-13 | 2024-04-19 |
-| [Beautiful](https://open.spotify.com/track/5loz2QJNexqwK2jqEn1RF2) | [Matt Darey](https://open.spotify.com/artist/20IiZT2AHU5GwnzncwJX6S), [Marcella Woods](https://open.spotify.com/artist/3fX4ESsQJXkOXSGW4FsB1c) | [Trance Top 1000 \- The Pioneers](https://open.spotify.com/album/12V7wbO3PZyHjcBymYzjTg) | 3:36 | 2023-08-11 |  |
+| [Beautiful](https://open.spotify.com/track/5loz2QJNexqwK2jqEn1RF2) | [Matt Darey](https://open.spotify.com/artist/20IiZT2AHU5GwnzncwJX6S), [Marcella Woods](https://open.spotify.com/artist/3fX4ESsQJXkOXSGW4FsB1c) | [Trance Top 1000 \- The Pioneers](https://open.spotify.com/album/12V7wbO3PZyHjcBymYzjTg) | 3:36 | 2023-08-11 | 2024-04-30 |
 | [Beautiful \- 1999 Mix](https://open.spotify.com/track/59ktkd4Y30uNOeuxJhBN5e) | [Matt Darey](https://open.spotify.com/artist/20IiZT2AHU5GwnzncwJX6S), [Marcella Woods](https://open.spotify.com/artist/3fX4ESsQJXkOXSGW4FsB1c) | [Retrospective \(25 Years\)](https://open.spotify.com/album/6mO3TRyalkTmGM2LhI75F4) | 3:39 | 2023-08-11 | 2024-03-20 |
 | [Bellissima \- Radio Edit](https://open.spotify.com/track/2jBsr5rb8anJ7z4jjbh0bC) | [DJ Quicksilver](https://open.spotify.com/artist/1RSKoT6hnzaLjvL0LCF0ew) | [Ten Top10 90s Hits](https://open.spotify.com/album/4z1UYdtnWVUB2w4TdlzrBz) | 3:14 | 2023-08-11 | 2024-04-19 |
 | [Better Off Alone](https://open.spotify.com/track/0pMUR7Uvp6vxlbG0qBFvgM) | [Alice Deejay](https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED) | [Who Needs Guitars Anyway?](https://open.spotify.com/album/5oPKlo7IBFXlh12tqDVoAU) | 3:34 | 2022-04-13 | 2022-07-20 |
@@ -124,6 +124,7 @@
 | [Nessaja](https://open.spotify.com/track/5RGiyzMQrBQQwMRid7SE65) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [Encore \- Live And Direct](https://open.spotify.com/album/5hFUbOIIcHOchKYOHm5F0b) | 3:28 | 2023-03-10 | 2024-04-19 |
 | [Northern Lights \- Original Mix](https://open.spotify.com/track/4wKyAjQqOCQvdZmmLumyOV) | [Smith & Pledger](https://open.spotify.com/artist/63hQuDdizTNfxbpzJKv8Gf) | [Northern Lights](https://open.spotify.com/album/4Vm8pk6adVCIkCR7jlq8HM) | 7:39 | 2022-12-28 | 2023-03-11 |
 | [Not Over Yet](https://open.spotify.com/track/4fmQizrUXpVXaubqpNp5CE) | [Grace](https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg) | [If I Could Fly](https://open.spotify.com/album/0asBvC8WrcVrNLZ5YkXI66) | 6:01 | 2022-04-13 | 2022-12-28 |
+| [Not Over Yet '99 \(feat\. Grace\) \- Radio Edit](https://open.spotify.com/track/3gYUvf0BzPsPky2y3oBf3d) | [Planet Perfecto](https://open.spotify.com/artist/3Q9P0SbpaP9xsBtLUVK0Be), [Grace](https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg) | [Not Over Yet '99](https://open.spotify.com/album/2P3GrMALjeCYAbFvuFFsFH) | 3:36 | 2023-08-11 |  |
 | [Not over Yet \- Perfecto Edit](https://open.spotify.com/track/5WdcLFYroa1wGlPSaNMQ29) | [Grace](https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg) | [Not Over Yet \(Remixes\)](https://open.spotify.com/album/4XUF3D8QpVeBGqHrwNcZCw) | 4:21 | 2022-04-13 | 2022-12-28 |
 | [Offshore](https://open.spotify.com/track/1rToUrnowFb88N2Z4Kjyau) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Offshore](https://open.spotify.com/album/201vsPXufpD68a7bulnr5O) | 4:28 | 2023-03-10 |  |
 | [Offshore](https://open.spotify.com/track/5bnUjj92zOde2PV0rRSZFq) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Trance Top 1000 \- Ibiza Anthems Mini Mix 2](https://open.spotify.com/album/07h9d80BYaUL7OaYnOtaZN) | 4:28 | 2023-12-27 | 2024-01-12 |

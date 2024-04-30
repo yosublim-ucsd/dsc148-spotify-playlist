@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-514 songs - 1 day 19 hr 58 min
+515 songs - 1 day 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,6 +349,7 @@
 | [Protection \- Hold Me Rework](https://open.spotify.com/track/1WZeyPexMk2LSa7ABz9wdZ) | [Col Lawton](https://open.spotify.com/artist/1KoBr4hgTMG3lPR353sNqm) | [Protection](https://open.spotify.com/album/5sGuW9SXq65vmKq2UdFl4z) | 7:05 | 2021-12-08 | 2023-05-06 |
 | [Pulse](https://open.spotify.com/track/0yiDIWdcHNeXfDwdeCMxsR) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Take Flight](https://open.spotify.com/album/3rXWQmHvNCyvpRm48CsYwP) | 4:43 | 2023-12-01 | 2024-04-13 |
 | [Pulse](https://open.spotify.com/track/6KqC7YNOcqYh5J5cNb1gbw) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Take Flight](https://open.spotify.com/album/0d6ky7EGJ0DBxCsSR9R5SR) | 4:43 | 2022-05-03 | 2023-11-04 |
+| [Pulse Antique](https://open.spotify.com/track/58xJ8nqtHLOK96X8y1ldxJ) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg) | [Portrait of the Obscure](https://open.spotify.com/album/7ceLPlFL0mhnAKqCFfPjhm) | 4:18 | 2024-04-26 |  |
 | [Pura Vida](https://open.spotify.com/track/0Keuz1iGQsOdIxqsdbKanO) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3) | [Donde Chile](https://open.spotify.com/album/2jerpv6SvJNbLNflSwg1MW) | 7:14 | 2022-05-03 | 2024-04-19 |
 | [Pura Vida](https://open.spotify.com/track/3i1NcXMWTcRiUyDydBhZol) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3) | [Donde Chile](https://open.spotify.com/album/0XkAQnJ9rGm1Zzv70yfJVb) | 7:14 | 2021-12-08 | 2022-07-29 |
 | [Rain](https://open.spotify.com/track/46wE8zEGsFkXxWmVoDaCI5) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA) | [Rain](https://open.spotify.com/album/5wKND9UJQ5smXGFTij1fhM) | 5:31 | 2021-12-08 | 2023-01-06 |
@@ -493,7 +494,7 @@
 | [Walk With Me](https://open.spotify.com/track/6QBP6d9mDyEGE1jnS3jWrO) | [Harry Wolfman](https://open.spotify.com/artist/3IUdSUxRiKdLL7e7BJgzYv) | [Sly Contrast EP](https://open.spotify.com/album/2TMRfy0J0nW0n4kIVhVAjy) | 5:21 | 2021-12-08 | 2023-03-10 |
 | [Wasting Love](https://open.spotify.com/track/57UWfCanZsaBLtKVdceMOp) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD) | [Wasting Love](https://open.spotify.com/album/7cHrVEGRTqnSgrgu1h0Bu1) | 2:13 | 2021-12-08 | 2023-01-06 |
 | [Waves \(feat\. Grace Tither\)](https://open.spotify.com/track/6ymVxYG0UHqIjXmclbE1cu) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Grace Tither](https://open.spotify.com/artist/0W2uPY2bPqyGxEYBJUuHfa) | [Waves \(feat\. Grace Tither\)](https://open.spotify.com/album/2IYPZalD9Rc91KERQfYIaf) | 3:22 | 2021-12-08 |  |
-| [We Used to Disappear](https://open.spotify.com/track/1sNKiFNrFYD086hl3i6QTP) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [We Used to Disappear](https://open.spotify.com/album/0PHhJfWHYIc0oJlmMD87JU) | 4:00 | 2024-04-12 |  |
+| [We Used to Disappear](https://open.spotify.com/track/1sNKiFNrFYD086hl3i6QTP) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [We Used to Disappear](https://open.spotify.com/album/0PHhJfWHYIc0oJlmMD87JU) | 4:00 | 2024-04-12 | 2024-04-30 |
 | [What Can I Do](https://open.spotify.com/track/2CGaIWj2aaWdyCEVL7hVoa) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Blaze / What Can I Do](https://open.spotify.com/album/3g3SOezLpRLmLkNUe5jjpO) | 6:15 | 2022-05-03 | 2024-04-13 |
 | [What Can I Do](https://open.spotify.com/track/6U9DI9uIT0X5XJJBQrC0Xu) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [What Can I Do](https://open.spotify.com/album/3Xy0bFY1wxOoKpTph3NnIO) | 6:15 | 2021-12-08 | 2022-07-29 |
 | [What You Want](https://open.spotify.com/track/1RuMPMUxwdAZ0tMcaUwQiw) | [glue70](https://open.spotify.com/artist/3AsWxxZTFPoCFxM1s8Lg1J) | [Lo\-Fi\_house.Zip](https://open.spotify.com/album/3wHEG6d2ZaQwtYvAw00A7W) | 3:45 | 2021-12-08 | 2024-04-13 |

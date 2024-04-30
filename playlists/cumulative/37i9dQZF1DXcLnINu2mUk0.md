@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: João Maia Ferreira e Alex D'Alva.
 
-600 songs - 1 day 8 hr 0 min
+601 songs - 1 day 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -450,6 +450,7 @@
 | [Quero Mais](https://open.spotify.com/track/6kQDYX5I2cP8oVx1RfWaxs) | [Reyz](https://open.spotify.com/artist/17NgBeR3LCYGxecmH0PTOl) | [Quero Mais](https://open.spotify.com/album/7fRIESyi6XlgpQVpnCXXk6) | 3:09 | 2023-06-08 | 2023-06-30 |
 | [Quero Ouvir](https://open.spotify.com/track/1VffI1MMgSsWDm1F6yEbzi) | [Xadrek Tchama](https://open.spotify.com/artist/5kKmFvn2U5YOQuuZACnVku) | [Quero Ouvir](https://open.spotify.com/album/3aSiD5EokYVlNJLnth3X8p) | 2:55 | 2024-04-18 |  |
 | [Quero\-te a Ti](https://open.spotify.com/track/6GILBGEhDI9k3VeAfgzxyw) | [FdAN](https://open.spotify.com/artist/20Ee6qv5FGmTxGbcs9tLm3) | [Quero\-te a Ti](https://open.spotify.com/album/1ZmBfvpD4fzZ8058BCVhKW) | 2:45 | 2023-07-27 | 2023-08-18 |
+| [Química](https://open.spotify.com/track/6HhCHim3sSAWiamanjMkv6) | [MDO \(Menino de Ouro\)](https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1) | [Química](https://open.spotify.com/album/5SArc0nP1ExSLHburSbLab) | 2:32 | 2024-04-25 |  |
 | [Rain](https://open.spotify.com/track/65GMCfqsrFRDSX7OWNoJeS) | [mishlawi](https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Rain](https://open.spotify.com/album/1Pa6gereIqgxt2gsqw8mkr) | 3:42 | 2022-07-07 | 2022-09-17 |
 | [Refúgio](https://open.spotify.com/track/3i8WqrMisc11UHB9Ja9cIW) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x), [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw), [Jaca](https://open.spotify.com/artist/2kMADMJ2Haa8p3x0Dj6SPH) | [ELEVEM](https://open.spotify.com/album/3CHSG0tS9y5CWLKh2DrhUw) | 4:18 | 2023-06-08 | 2023-06-27 |
 | [Refúgio](https://open.spotify.com/track/4E2EMfWXxBUS9DjDphTsmS) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x), [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw), [Jaca](https://open.spotify.com/artist/2kMADMJ2Haa8p3x0Dj6SPH) | [ELEVEM](https://open.spotify.com/album/1sM0eVGRoku4Du98P7wfTD) | 4:18 | 2023-06-29 | 2023-07-01 |
@@ -512,7 +513,7 @@
 | [Sola](https://open.spotify.com/track/2WhXmta31SYoJm7xMCmMWN) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5) | [Sola](https://open.spotify.com/album/5d7DGxDhoMuCwSuLpremAd) | 3:14 | 2023-07-20 | 2023-08-11 |
 | [Solteiros](https://open.spotify.com/track/2e3OSiCXg1AcLFQ3HuiW42) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Solteiros](https://open.spotify.com/album/1oh19k6mxh4bSGkEKE91md) | 2:59 | 2023-02-17 |  |
 | [Something](https://open.spotify.com/track/6XVYgOYwFSasbsPB41HCFA) | [Kyle Quest](https://open.spotify.com/artist/6tEYbq0qUZoQwzmCjMtFHC), [L\-ALI](https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy) | [Something](https://open.spotify.com/album/2XyhjxFE8Cp9bwEwy5tWTz) | 4:05 | 2023-11-10 | 2023-11-18 |
-| [Sonhos](https://open.spotify.com/track/4bdkXHkOvNGUr2UrKtCXJu) | [Burrz](https://open.spotify.com/artist/0jWbSiF3EIlsqIe1DjUnoh) | [Sonhos](https://open.spotify.com/album/3tKcDDPlMgu3TOKIUf7Xjb) | 3:12 | 2024-04-18 |  |
+| [Sonhos](https://open.spotify.com/track/4bdkXHkOvNGUr2UrKtCXJu) | [Burrz](https://open.spotify.com/artist/0jWbSiF3EIlsqIe1DjUnoh) | [Sonhos](https://open.spotify.com/album/3tKcDDPlMgu3TOKIUf7Xjb) | 3:12 | 2024-04-18 | 2024-04-30 |
 | [Sonhos e Diamantes](https://open.spotify.com/track/7MiN2u2gYCvxeJ6c23idiN) | [Londone](https://open.spotify.com/artist/1rCRiVBfLiDomUEUNGykT2) | [Sonhos e Diamantes](https://open.spotify.com/album/2KoOw5yP4y9qObzs5WVVym) | 3:04 | 2024-03-01 | 2024-03-22 |
 | [Sons de Amor](https://open.spotify.com/track/44PSI3qwDKTTBa4TbqpjnL) | [ANDREZO](https://open.spotify.com/artist/4gHzU6X4vIGR06pt7mlX60), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Sons de Amor](https://open.spotify.com/album/7sov1YBuhBoydHePYGr69s) | 4:14 | 2022-07-07 | 2023-09-22 |
 | [Sou Eu](https://open.spotify.com/track/2ZxwGr1ke9B1sfefxq18sI) | [TYKID](https://open.spotify.com/artist/2F0NhKmoGrt2ImepX5Eze4) | [Sou Eu](https://open.spotify.com/album/6KrkHvd0AyGtVJNZKxyikb) | 3:34 | 2023-06-15 | 2023-06-30 |

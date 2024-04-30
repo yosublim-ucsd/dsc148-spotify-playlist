@@ -1,12 +1,12 @@
 {
   "description": "This is Mitski. The essential tracks, all in one playlist.",
-  "num_followers": 250775,
+  "num_followers": 250905,
   "original_name": "This Is Mitski",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDE3NjAwMCwwMDAwMDAwMGVkZjJkYzhlYWU4OTZlNmQyOTZlY2RmMzJhNjRiNWI4",
+  "snapshot_id": "MTcxNDI2MjQwMCwwMDAwMDAwMDdiNjFhZjdhMjIxY2RkYjM4N2Y5YTAwNDZjYzc4YWE5",
   "tracks": [
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 185070,
-      "name": "Because Dreaming Costs Money, My Dear",
-      "url": "https://open.spotify.com/track/4Ghr5ZxYQ9ti06fRTltVop"
+      "duration_ms": 144250,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/6x5yiC9qgFIO0XPekWdjF1"
     },
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 144250,
-      "name": "Shame",
-      "url": "https://open.spotify.com/track/6x5yiC9qgFIO0XPekWdjF1"
+      "duration_ms": 185070,
+      "name": "Because Dreaming Costs Money, My Dear",
+      "url": "https://open.spotify.com/track/4Ghr5ZxYQ9ti06fRTltVop"
     },
     {
       "added_at": null,

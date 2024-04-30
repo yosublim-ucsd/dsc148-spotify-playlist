@@ -1,6 +1,6 @@
 {
   "description": "Epic and melodic metal - for the dragonslayer in you! Cover: Amaranthe\n",
-  "num_followers": 764332,
+  "num_followers": 764263,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-04-15 19:49:55",
       "album": {
-        "name": "Armada",
-        "url": "https://open.spotify.com/album/7F0qgfUktRhh4JqnmpbMfr"
-      },
-      "artists": [
-        {
-          "name": "Visions of Atlantis",
-          "url": "https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Armada",
-      "url": "https://open.spotify.com/track/0KHTwfaUiDHy4lATwLFwr4"
-    },
-    {
-      "added_at": "2024-04-15 19:49:55",
-      "album": {
         "name": "What Else Is There?",
         "url": "https://open.spotify.com/album/2GayaI0DUXAQMp8xdeXaY0"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 227796,
       "name": "What Else Is There?",
       "url": "https://open.spotify.com/track/0zbeLVcM8iUBiKq6GxoJU3"
+    },
+    {
+      "added_at": "2024-04-15 19:49:55",
+      "album": {
+        "name": "Armada",
+        "url": "https://open.spotify.com/album/7F0qgfUktRhh4JqnmpbMfr"
+      },
+      "artists": [
+        {
+          "name": "Visions of Atlantis",
+          "url": "https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "Armada",
+      "url": "https://open.spotify.com/track/0KHTwfaUiDHy4lATwLFwr4"
     },
     {
       "added_at": "2024-04-15 19:49:55",
@@ -471,6 +471,26 @@
     {
       "added_at": "2024-04-15 19:49:55",
       "album": {
+        "name": "Frozen",
+        "url": "https://open.spotify.com/album/5MWTGZcBF5bGoKZHI9p9xz"
+      },
+      "artists": [
+        {
+          "name": "Mortemia",
+          "url": "https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi"
+        },
+        {
+          "name": "Federica Lanna",
+          "url": "https://open.spotify.com/artist/2l6anpRMp6T9iPMOlzkZUx"
+        }
+      ],
+      "duration_ms": 300560,
+      "name": "Frozen",
+      "url": "https://open.spotify.com/track/0s9S861lgoFOi4vXG3wsab"
+    },
+    {
+      "added_at": "2024-04-15 19:49:55",
+      "album": {
         "name": "Natural Born Killer",
         "url": "https://open.spotify.com/album/44aKRAvfkITepinjdP1jVb"
       },
@@ -503,22 +523,18 @@
     {
       "added_at": "2024-04-15 19:49:55",
       "album": {
-        "name": "Frozen",
-        "url": "https://open.spotify.com/album/5MWTGZcBF5bGoKZHI9p9xz"
+        "name": "Rogue (Aim for the Kill)",
+        "url": "https://open.spotify.com/album/6svzfGdfbGtII5vHl4TNRb"
       },
       "artists": [
         {
-          "name": "Mortemia",
-          "url": "https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi"
-        },
-        {
-          "name": "Federica Lanna",
-          "url": "https://open.spotify.com/artist/2l6anpRMp6T9iPMOlzkZUx"
+          "name": "Edge Of Paradise",
+          "url": "https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY"
         }
       ],
-      "duration_ms": 300560,
-      "name": "Frozen",
-      "url": "https://open.spotify.com/track/0s9S861lgoFOi4vXG3wsab"
+      "duration_ms": 236586,
+      "name": "Rogue (Aim for the Kill)",
+      "url": "https://open.spotify.com/track/28R9RX7V1tQx91u1cSDlmz"
     },
     {
       "added_at": "2024-04-15 19:49:55",
@@ -539,22 +555,6 @@
     {
       "added_at": "2024-04-15 19:49:55",
       "album": {
-        "name": "Killstar (The Cold World)",
-        "url": "https://open.spotify.com/album/0F4EL849F4PtnaLVLF7xTs"
-      },
-      "artists": [
-        {
-          "name": "Reliqa",
-          "url": "https://open.spotify.com/artist/1R9eQdiIWCTdMAeIMA3oLK"
-        }
-      ],
-      "duration_ms": 281501,
-      "name": "Killstar (The Cold World)",
-      "url": "https://open.spotify.com/track/0MztEEnX04bsg4On8jQ7WF"
-    },
-    {
-      "added_at": "2024-04-15 19:49:55",
-      "album": {
         "name": "The Catalyst",
         "url": "https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj"
       },
@@ -571,18 +571,18 @@
     {
       "added_at": "2024-04-15 19:49:55",
       "album": {
-        "name": "Rogue (Aim for the Kill)",
-        "url": "https://open.spotify.com/album/6svzfGdfbGtII5vHl4TNRb"
+        "name": "Killstar (The Cold World)",
+        "url": "https://open.spotify.com/album/0F4EL849F4PtnaLVLF7xTs"
       },
       "artists": [
         {
-          "name": "Edge Of Paradise",
-          "url": "https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY"
+          "name": "Reliqa",
+          "url": "https://open.spotify.com/artist/1R9eQdiIWCTdMAeIMA3oLK"
         }
       ],
-      "duration_ms": 236586,
-      "name": "Rogue (Aim for the Kill)",
-      "url": "https://open.spotify.com/track/28R9RX7V1tQx91u1cSDlmz"
+      "duration_ms": 281501,
+      "name": "Killstar (The Cold World)",
+      "url": "https://open.spotify.com/track/0MztEEnX04bsg4On8jQ7WF"
     },
     {
       "added_at": "2024-04-15 19:49:55",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-04-15 19:49:55",
       "album": {
-        "name": "Axes",
-        "url": "https://open.spotify.com/album/2KtjpfdPn3rNCoRTdhHGtv"
-      },
-      "artists": [
-        {
-          "name": "T\u00fdr",
-          "url": "https://open.spotify.com/artist/6TmGNPW2oDM5uaXBILozGa"
-        }
-      ],
-      "duration_ms": 212493,
-      "name": "Axes",
-      "url": "https://open.spotify.com/track/5cMNQ2LmvEBTUL0ZKdxtPl"
-    },
-    {
-      "added_at": "2024-04-15 19:49:55",
-      "album": {
         "name": "Fight the Tide",
         "url": "https://open.spotify.com/album/46PoeCkqWmFFVstUUxZ77h"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 206520,
       "name": "Fight the Tide",
       "url": "https://open.spotify.com/track/7x1BkDkUOi6qHeptyZBOaE"
+    },
+    {
+      "added_at": "2024-04-15 19:49:55",
+      "album": {
+        "name": "Axes",
+        "url": "https://open.spotify.com/album/2KtjpfdPn3rNCoRTdhHGtv"
+      },
+      "artists": [
+        {
+          "name": "T\u00fdr",
+          "url": "https://open.spotify.com/artist/6TmGNPW2oDM5uaXBILozGa"
+        }
+      ],
+      "duration_ms": 212493,
+      "name": "Axes",
+      "url": "https://open.spotify.com/track/5cMNQ2LmvEBTUL0ZKdxtPl"
     },
     {
       "added_at": "2024-04-15 19:49:55",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-04-15 19:49:55",
       "album": {
-        "name": "Feed the Fire",
-        "url": "https://open.spotify.com/album/0Xu2uCpy0kL15O5iC3t7iP"
-      },
-      "artists": [
-        {
-          "name": "Crimson Sun",
-          "url": "https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Feed the Fire",
-      "url": "https://open.spotify.com/track/6k6HxyqO3OgyVcydZZXmfI"
-    },
-    {
-      "added_at": "2024-04-15 19:49:55",
-      "album": {
         "name": "Legends Never Die",
         "url": "https://open.spotify.com/album/4LXwDEQoiBqFe7ypPJkhjC"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 234280,
       "name": "Legends Never Die",
       "url": "https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f"
+    },
+    {
+      "added_at": "2024-04-15 19:49:55",
+      "album": {
+        "name": "Feed the Fire",
+        "url": "https://open.spotify.com/album/0Xu2uCpy0kL15O5iC3t7iP"
+      },
+      "artists": [
+        {
+          "name": "Crimson Sun",
+          "url": "https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Feed the Fire",
+      "url": "https://open.spotify.com/track/6k6HxyqO3OgyVcydZZXmfI"
     },
     {
       "added_at": "2024-04-15 19:49:55",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2024-04-15 19:49:55",
       "album": {
+        "name": "Seventh Rum of a Seventh Rum",
+        "url": "https://open.spotify.com/album/27a7wYxLOTiiUiRnSEXCzY"
+      },
+      "artists": [
+        {
+          "name": "Alestorm",
+          "url": "https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da"
+        }
+      ],
+      "duration_ms": 201114,
+      "name": "Seventh Rum of a Seventh Rum",
+      "url": "https://open.spotify.com/track/7KyyCMD4fPZgJ0kKVuNAo3"
+    },
+    {
+      "added_at": "2024-04-15 19:49:55",
+      "album": {
         "name": "Vita Nova",
         "url": "https://open.spotify.com/album/6HLg30KBqgZsKRhWeKmops"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 364029,
       "name": "Vita Nova",
       "url": "https://open.spotify.com/track/2o7Exjn3bLrKOYS7rsJXlr"
-    },
-    {
-      "added_at": "2024-04-15 19:49:55",
-      "album": {
-        "name": "Seventh Rum of a Seventh Rum",
-        "url": "https://open.spotify.com/album/27a7wYxLOTiiUiRnSEXCzY"
-      },
-      "artists": [
-        {
-          "name": "Alestorm",
-          "url": "https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da"
-        }
-      ],
-      "duration_ms": 201114,
-      "name": "Seventh Rum of a Seventh Rum",
-      "url": "https://open.spotify.com/track/7KyyCMD4fPZgJ0kKVuNAo3"
     },
     {
       "added_at": "2024-04-15 19:49:55",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-04-15 19:49:55",
       "album": {
-        "name": "We Are Legion",
-        "url": "https://open.spotify.com/album/1jexIhocz0R6rK1nbUU6Cq"
-      },
-      "artists": [
-        {
-          "name": "Eleine",
-          "url": "https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx"
-        }
-      ],
-      "duration_ms": 221720,
-      "name": "We Are Legion",
-      "url": "https://open.spotify.com/track/7zooUycg2N63RgfMuIHYFF"
-    },
-    {
-      "added_at": "2024-04-15 19:49:55",
-      "album": {
         "name": "The Bell",
         "url": "https://open.spotify.com/album/4sw2lggNNlSRYa34GbEoTu"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 271486,
       "name": "The Bell",
       "url": "https://open.spotify.com/track/1g2eSCd9S2onJcfJxAcS71"
+    },
+    {
+      "added_at": "2024-04-15 19:49:55",
+      "album": {
+        "name": "We Are Legion",
+        "url": "https://open.spotify.com/album/1jexIhocz0R6rK1nbUU6Cq"
+      },
+      "artists": [
+        {
+          "name": "Eleine",
+          "url": "https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx"
+        }
+      ],
+      "duration_ms": 221720,
+      "name": "We Are Legion",
+      "url": "https://open.spotify.com/track/7zooUycg2N63RgfMuIHYFF"
     },
     {
       "added_at": "2024-04-15 19:49:55",

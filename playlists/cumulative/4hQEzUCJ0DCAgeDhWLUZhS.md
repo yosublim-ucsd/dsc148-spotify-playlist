@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-423 songs - 1 day 0 hr 54 min
+424 songs - 1 day 0 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [My Religion Is You](https://open.spotify.com/track/6vet37GQffjXnGHvXvHNb5) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [My Religion Is You](https://open.spotify.com/album/5OgdfcoqYckDBhnxaONIGs) | 3:33 | 2020-10-10\* | 2021-05-13 |
 | [My Way](https://open.spotify.com/track/7mtnay1VGQQbtOM70HYsV0) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [My Way](https://open.spotify.com/album/3n33udd6pKEdrzahdYzii0) | 2:44 | 2021-10-22 |  |
 | [Nerve 2 Reverse](https://open.spotify.com/track/6763lJFLsIJOppwlzL7p7J) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [Nerve 2 Reverse](https://open.spotify.com/album/4capxiC9Eii5mA9tdmrcfP) | 2:06 | 2020-10-10\* | 2021-02-25 |
+| [Never Alone](https://open.spotify.com/track/2fg490dFzlz5ohgj9X3euO) | [Sloper](https://open.spotify.com/artist/35fxvnr5oanOFB1JNB2Ber) | [Never Alone](https://open.spotify.com/album/2LfZJqP0JKM0oWWWvvq29Y) | 3:58 | 2024-04-29 |  |
 | [Never Ending Game](https://open.spotify.com/track/6vs9JxGlmVZb2OKMpKTkMc) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [Lil House](https://open.spotify.com/album/3ScexrVTPWJiGP8rCAGccD) | 2:47 | 2021-02-25 | 2022-03-18 |
 | [Never The One](https://open.spotify.com/track/5RoJWqg54tmuiIuw2aJmrE) | [Ocean Sleeper](https://open.spotify.com/artist/04LbaB3D3XOMbfPnWmObAi) | [Never The One](https://open.spotify.com/album/11TI3AJR7ghonSEu94YsLm) | 4:13 | 2023-05-19 |  |
 | [New Breeze](https://open.spotify.com/track/6M4hZYuvsYSndZq2xsugPW) | [Bad//Dreems](https://open.spotify.com/artist/54f24706ua34STMhWSzPV7) | [New Breeze](https://open.spotify.com/album/1eCcspXtHzkUc7AQEJHESe) | 3:04 | 2023-04-14 |  |

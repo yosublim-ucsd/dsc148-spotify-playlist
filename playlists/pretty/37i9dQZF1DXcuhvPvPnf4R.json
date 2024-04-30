@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/meaghansmom/\">Monique Blake</a>",
-  "num_followers": 8918,
+  "num_followers": 8928,
   "original_name": "Monique Blake's Taste",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,22 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
+        "name": "Mama Said Knock You Out",
+        "url": "https://open.spotify.com/album/6dfYmbgWeJCgqJhnR4TfKb"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        }
+      ],
+      "duration_ms": 248493,
+      "name": "Around The Way Girl",
+      "url": "https://open.spotify.com/track/6jL1SnyXcXiKOmw4M2RnmT"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
         "name": "The Blueprint 3",
         "url": "https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 256133,
       "name": "On To The Next One",
       "url": "https://open.spotify.com/track/4ljDnzzqwnRIynr1g55um4"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
-        "name": "Mama Said Knock You Out",
-        "url": "https://open.spotify.com/album/6dfYmbgWeJCgqJhnR4TfKb"
-      },
-      "artists": [
-        {
-          "name": "LL COOL J",
-          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
-        }
-      ],
-      "duration_ms": 248493,
-      "name": "Around The Way Girl",
-      "url": "https://open.spotify.com/track/6jL1SnyXcXiKOmw4M2RnmT"
     },
     {
       "added_at": "2022-10-01 16:43:03",
@@ -675,6 +675,26 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
+        "name": "Broken Silence",
+        "url": "https://open.spotify.com/album/0V5LKel3fj8JvCNeYHWCuU"
+      },
+      "artists": [
+        {
+          "name": "Foxy Brown",
+          "url": "https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C"
+        },
+        {
+          "name": "Cham",
+          "url": "https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK"
+        }
+      ],
+      "duration_ms": 212200,
+      "name": "Tables Will Turn",
+      "url": "https://open.spotify.com/track/0NTsxA8DrjBbZjK35oP67U"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
         "name": "Rum & Redbull",
         "url": "https://open.spotify.com/album/3og1VflDWwrGfXysXRzdcR"
       },
@@ -695,26 +715,6 @@
       "duration_ms": 135640,
       "name": "Rum & Redbull",
       "url": "https://open.spotify.com/track/3rcdpymBJXEExx2YcZbjMU"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
-        "name": "Broken Silence",
-        "url": "https://open.spotify.com/album/0V5LKel3fj8JvCNeYHWCuU"
-      },
-      "artists": [
-        {
-          "name": "Foxy Brown",
-          "url": "https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C"
-        },
-        {
-          "name": "Cham",
-          "url": "https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK"
-        }
-      ],
-      "duration_ms": 212200,
-      "name": "Tables Will Turn",
-      "url": "https://open.spotify.com/track/0NTsxA8DrjBbZjK35oP67U"
     },
     {
       "added_at": "2022-10-01 16:43:03",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
-        "name": "Ragga Ragga Ragga 2007",
-        "url": "https://open.spotify.com/album/2EaSckIrSSr6wLPdKPYg4j"
-      },
-      "artists": [
-        {
-          "name": "Beenie Man",
-          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
-        }
-      ],
-      "duration_ms": 236120,
-      "name": "Reverse Di Ting",
-      "url": "https://open.spotify.com/track/2bxxNd0cXD5GopNFEhyHjr"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
         "name": "Riddim Driven: Hydro",
         "url": "https://open.spotify.com/album/00z29AN17yDBugKpGv2XcZ"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 206465,
       "name": "Find Someone Like You",
       "url": "https://open.spotify.com/track/53SIeTHgXuAOd98hZWV2wD"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
+        "name": "Ragga Ragga Ragga 2007",
+        "url": "https://open.spotify.com/album/2EaSckIrSSr6wLPdKPYg4j"
+      },
+      "artists": [
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        }
+      ],
+      "duration_ms": 236120,
+      "name": "Reverse Di Ting",
+      "url": "https://open.spotify.com/track/2bxxNd0cXD5GopNFEhyHjr"
     },
     {
       "added_at": "2022-10-01 16:43:03",

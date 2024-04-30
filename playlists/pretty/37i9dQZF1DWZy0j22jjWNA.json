@@ -1,6 +1,6 @@
 {
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
-  "num_followers": 93033,
+  "num_followers": 93031,
   "original_name": "Good People Good Music",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Oh Dreamer",
-        "url": "https://open.spotify.com/album/4c89AmtrwLAF1H1sNBgHei"
-      },
-      "artists": [
-        {
-          "name": "The Brilliance",
-          "url": "https://open.spotify.com/artist/26nltVmOVeIfYmwcmqTm7e"
-        }
-      ],
-      "duration_ms": 204440,
-      "name": "Oh Dreamer",
-      "url": "https://open.spotify.com/track/2Uu1hqObahlzFDbZqjC6CR"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "One Wild Life",
         "url": "https://open.spotify.com/album/7GWiEU6QEjWzluWfmp30Cp"
       },
@@ -535,50 +519,34 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Broken With You",
-        "url": "https://open.spotify.com/album/1WxFCGoi2aue2M1OQNKDk7"
+        "name": "Oh Dreamer",
+        "url": "https://open.spotify.com/album/4c89AmtrwLAF1H1sNBgHei"
       },
       "artists": [
         {
-          "name": "Nathan Sheridan",
-          "url": "https://open.spotify.com/artist/0Vpz3awV4yntr1jCRY7QTm"
+          "name": "The Brilliance",
+          "url": "https://open.spotify.com/artist/26nltVmOVeIfYmwcmqTm7e"
         }
       ],
-      "duration_ms": 178796,
-      "name": "Starts With You And Me",
-      "url": "https://open.spotify.com/track/3sPI6DJ6QA9DNVxmioE3ma"
+      "duration_ms": 204440,
+      "name": "Oh Dreamer",
+      "url": "https://open.spotify.com/track/2Uu1hqObahlzFDbZqjC6CR"
     },
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/3iGGESom06TuNUHu6xIQJd"
+        "name": "Songs from the Valley",
+        "url": "https://open.spotify.com/album/1kv20nppb2CdJLMMQ8D7AN"
       },
       "artists": [
         {
-          "name": "Esaro",
-          "url": "https://open.spotify.com/artist/5gb8iXoOjlgn9dCXGj0TK3"
+          "name": "Sandra McCracken",
+          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
         }
       ],
-      "duration_ms": 201487,
-      "name": "I Love It",
-      "url": "https://open.spotify.com/track/5RE1GkL0Zt9Soasbt1R1xx"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Wildwood Kin",
-        "url": "https://open.spotify.com/album/0gdQ8PGuLpDQnOKWMfOfBH"
-      },
-      "artists": [
-        {
-          "name": "Wildwood Kin",
-          "url": "https://open.spotify.com/artist/2KOxHm9lGE9lFZDQdebD6B"
-        }
-      ],
-      "duration_ms": 246686,
-      "name": "Wake Up Sleeper",
-      "url": "https://open.spotify.com/track/3a1tbocbSXksbYWkGOPMLs"
+      "duration_ms": 197445,
+      "name": "Reciprocate",
+      "url": "https://open.spotify.com/track/6CpRE5o5sXPajgPP6O1tjS"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -599,18 +567,50 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Songs from the Valley",
-        "url": "https://open.spotify.com/album/1kv20nppb2CdJLMMQ8D7AN"
+        "name": "Broken With You",
+        "url": "https://open.spotify.com/album/1WxFCGoi2aue2M1OQNKDk7"
       },
       "artists": [
         {
-          "name": "Sandra McCracken",
-          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
+          "name": "Nathan Sheridan",
+          "url": "https://open.spotify.com/artist/0Vpz3awV4yntr1jCRY7QTm"
         }
       ],
-      "duration_ms": 197445,
-      "name": "Reciprocate",
-      "url": "https://open.spotify.com/track/6CpRE5o5sXPajgPP6O1tjS"
+      "duration_ms": 178796,
+      "name": "Starts With You And Me",
+      "url": "https://open.spotify.com/track/3sPI6DJ6QA9DNVxmioE3ma"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Wildwood Kin",
+        "url": "https://open.spotify.com/album/0gdQ8PGuLpDQnOKWMfOfBH"
+      },
+      "artists": [
+        {
+          "name": "Wildwood Kin",
+          "url": "https://open.spotify.com/artist/2KOxHm9lGE9lFZDQdebD6B"
+        }
+      ],
+      "duration_ms": 246686,
+      "name": "Wake Up Sleeper",
+      "url": "https://open.spotify.com/track/3a1tbocbSXksbYWkGOPMLs"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/3iGGESom06TuNUHu6xIQJd"
+      },
+      "artists": [
+        {
+          "name": "Esaro",
+          "url": "https://open.spotify.com/artist/5gb8iXoOjlgn9dCXGj0TK3"
+        }
+      ],
+      "duration_ms": 201487,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/5RE1GkL0Zt9Soasbt1R1xx"
     },
     {
       "added_at": "2020-09-04 04:02:00",

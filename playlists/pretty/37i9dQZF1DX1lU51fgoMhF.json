@@ -1,6 +1,6 @@
 {
   "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: NAYEON(\ub098\uc5f0))",
-  "num_followers": 198891,
+  "num_followers": 198928,
   "original_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "owner": {
     "name": "Spotify",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-04-25 04:33:45",
       "album": {
-        "name": "Bon Voyage",
-        "url": "https://open.spotify.com/album/2dFsfVOAwvmRV8hOBdssiI"
-      },
-      "artists": [
-        {
-          "name": "YooA",
-          "url": "https://open.spotify.com/artist/4ur1jCwyNlhgd0viJkOtcQ"
-        }
-      ],
-      "duration_ms": 219586,
-      "name": "Bon voyage",
-      "url": "https://open.spotify.com/track/4X95Ecd1elHxTccGOko02c"
-    },
-    {
-      "added_at": "2024-04-25 04:33:45",
-      "album": {
         "name": "GFRIEND The 7th Mini Album `FEVER SEASON`",
         "url": "https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 214293,
       "name": "Fever",
       "url": "https://open.spotify.com/track/7qDbAc6xMW07T7yyMnQqS8"
+    },
+    {
+      "added_at": "2024-04-25 04:33:45",
+      "album": {
+        "name": "Bon Voyage",
+        "url": "https://open.spotify.com/album/2dFsfVOAwvmRV8hOBdssiI"
+      },
+      "artists": [
+        {
+          "name": "YooA",
+          "url": "https://open.spotify.com/artist/4ur1jCwyNlhgd0viJkOtcQ"
+        }
+      ],
+      "duration_ms": 219586,
+      "name": "Bon voyage",
+      "url": "https://open.spotify.com/track/4X95Ecd1elHxTccGOko02c"
     },
     {
       "added_at": "2024-04-25 04:33:45",
@@ -1139,26 +1139,18 @@
     {
       "added_at": "2024-04-25 04:33:45",
       "album": {
-        "name": "Waves (feat. Simon Dominic & Jamie)",
-        "url": "https://open.spotify.com/album/5ZwfFVBuxVS2lbbDR8vtDk"
+        "name": "Summer Magic - Summer Mini Album",
+        "url": "https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo"
       },
       "artists": [
         {
-          "name": "KANGDANIEL",
-          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
-        },
-        {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
-        },
-        {
-          "name": "JAMIE",
-          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
         }
       ],
-      "duration_ms": 164920,
-      "name": "Waves (feat. Simon Dominic & Jamie)",
-      "url": "https://open.spotify.com/track/6fXesHsuCFf80vYzDP26J5"
+      "duration_ms": 196093,
+      "name": "Blue Lemonade",
+      "url": "https://open.spotify.com/track/5XTQXTzEVpYq8wL6DZYgSz"
     },
     {
       "added_at": "2024-04-25 04:33:45",
@@ -1183,18 +1175,26 @@
     {
       "added_at": "2024-04-25 04:33:45",
       "album": {
-        "name": "Summer Magic - Summer Mini Album",
-        "url": "https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo"
+        "name": "Waves (feat. Simon Dominic & Jamie)",
+        "url": "https://open.spotify.com/album/5ZwfFVBuxVS2lbbDR8vtDk"
       },
       "artists": [
         {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+          "name": "KANGDANIEL",
+          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+        },
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        },
+        {
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
         }
       ],
-      "duration_ms": 196093,
-      "name": "Blue Lemonade",
-      "url": "https://open.spotify.com/track/5XTQXTzEVpYq8wL6DZYgSz"
+      "duration_ms": 164920,
+      "name": "Waves (feat. Simon Dominic & Jamie)",
+      "url": "https://open.spotify.com/track/6fXesHsuCFf80vYzDP26J5"
     },
     {
       "added_at": "2024-04-25 04:33:45",
@@ -1399,26 +1399,6 @@
     {
       "added_at": "2024-04-25 04:33:45",
       "album": {
-        "name": "1st Single 'S.i.R'",
-        "url": "https://open.spotify.com/album/7eZ1MuD9GYRP35jumpZStH"
-      },
-      "artists": [
-        {
-          "name": "BOBBY",
-          "url": "https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS"
-        },
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        }
-      ],
-      "duration_ms": 169800,
-      "name": "Drowning (Feat. SOLE)",
-      "url": "https://open.spotify.com/track/7gVFUy4jtXJ6nmk6nHAz2A"
-    },
-    {
-      "added_at": "2024-04-25 04:33:45",
-      "album": {
         "name": "RANDOM BOX",
         "url": "https://open.spotify.com/album/51ea2XXI3WLPs5Vs0ou5a8"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 196866,
       "name": "Love & hate (Feat. BIBI)",
       "url": "https://open.spotify.com/track/61IDvkbJDswvorhLqcplMW"
+    },
+    {
+      "added_at": "2024-04-25 04:33:45",
+      "album": {
+        "name": "1st Single 'S.i.R'",
+        "url": "https://open.spotify.com/album/7eZ1MuD9GYRP35jumpZStH"
+      },
+      "artists": [
+        {
+          "name": "BOBBY",
+          "url": "https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS"
+        },
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "duration_ms": 169800,
+      "name": "Drowning (Feat. SOLE)",
+      "url": "https://open.spotify.com/track/7gVFUy4jtXJ6nmk6nHAz2A"
     },
     {
       "added_at": "2024-04-25 04:33:45",

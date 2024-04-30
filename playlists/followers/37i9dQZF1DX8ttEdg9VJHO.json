@@ -1,5 +1,5 @@
 {
-  "2024-04-29": 352259,
+  "2024-04-30": 352270,
   "date_first_scraped": "2023-07-28",
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
   "name": "Feelgood Pop",
@@ -147,7 +147,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 183836,
       "name": "beautiful day",
       "url": "https://open.spotify.com/track/0Bp4SOUzsTyk5PNEeu4GWJ"
@@ -1281,7 +1281,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-24",
+      "date_removed": null,
       "duration_ms": 226946,
       "name": "Nangilima",
       "url": "https://open.spotify.com/track/75eWcdirphZClDeEinSvnp"

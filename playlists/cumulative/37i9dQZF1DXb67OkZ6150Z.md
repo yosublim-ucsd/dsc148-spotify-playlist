@@ -4,7 +4,7 @@
 
 > Songs you love with an indie spin on it\. Cover: Arlo Parks
 
-444 songs - 1 day 3 hr 10 min
+445 songs - 1 day 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Darlin’](https://open.spotify.com/track/74XIo9SlfPvxTh2dFM8Uq1) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Darlin'](https://open.spotify.com/album/0OytsWs4ItvGyNP9hbBkcI) | 2:58 | 2022-05-20 | 2022-07-27 |
 | [Dearly Departed](https://open.spotify.com/track/7ciFh1cZjyZE2gVhjvhsmD) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [Dearly Departed](https://open.spotify.com/album/1T2kgbzp4R7p4Gm06jjfFh) | 5:11 | 2021-07-21 | 2022-04-20 |
 | [del mar county fair 2008](https://open.spotify.com/track/4Zx6WKvQxGhk2UD4huHFBZ) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [del mar county fair 2008](https://open.spotify.com/album/0uPCMgLfg1DpVnsjoVDok9) | 2:54 | 2023-03-17 |  |
-| [Desperado](https://open.spotify.com/track/3fR9wnaW7Cpg8DsUL1CvGS) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Desperado / Born on a Train](https://open.spotify.com/album/49GxzbR4cjgBH5JAeYF9mz) | 3:40 | 2022-02-25 |  |
+| [Desperado](https://open.spotify.com/track/3fR9wnaW7Cpg8DsUL1CvGS) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Desperado / Born on a Train](https://open.spotify.com/album/49GxzbR4cjgBH5JAeYF9mz) | 3:40 | 2022-02-25 | 2024-04-30 |
 | [Different Now](https://open.spotify.com/track/1J0aTXvZG634UfviOVGMi5) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y), [Chastity Belt](https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK) | [Different Now](https://open.spotify.com/album/7AKbVhsHqz4enFZBTsJe4n) | 4:25 | 2023-08-08 |  |
 | [Don't Be Cruel](https://open.spotify.com/track/4IYTQwLYh1lVHhCC2jBi9S) | [Lo\-Fang](https://open.spotify.com/artist/5EDkJDlRNcMs3ewliB24QA) | [Don't Be Cruel](https://open.spotify.com/album/50mcyygO5E1QoALtPm2ZXH) | 7:06 | 2021-03-12 | 2022-04-20 |
 | [Don't Dream It's Over](https://open.spotify.com/track/3SZ5m5GQyIKIhIoizDGTQg) | [OCTAVIO the Dweeb](https://open.spotify.com/artist/0gqcx73XJbrIif5poxdHqt) | [Dweeb Tapes](https://open.spotify.com/album/5YIN6swBDIybgewMSEpX54) | 3:14 | 2022-08-09 | 2022-10-21 |
@@ -256,6 +256,7 @@
 | [Love On The Brain \- Los Feliz Blvd](https://open.spotify.com/track/135EP4qT9Eo0Uu0fMIln2c) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC), [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Love On The Brain \(Los Feliz Blvd\)](https://open.spotify.com/album/66ppJdnCXQSSapBecQaUhp) | 4:26 | 2021-03-12 | 2022-07-27 |
 | [Lovefool](https://open.spotify.com/track/7rCqnuoSNr25qTcl5WOgtl) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Lovefool](https://open.spotify.com/album/2wkMjAppwIgYT6dgQYGHNS) | 3:22 | 2021-07-21 | 2022-07-28 |
 | [Lovesong](https://open.spotify.com/track/2XzDu5t3n44Oa0aN7AHKv6) | [Lucy Daydream](https://open.spotify.com/artist/0RQEMnWcCrVW4vkPFbAVsg) | [Lovesong](https://open.spotify.com/album/19h1AG8vzVgAsbgPsx6wZW) | 4:02 | 2021-03-12 | 2022-04-14 |
+| [Lua](https://open.spotify.com/track/3yMRB1octy4P6EoLzI9hu6) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Lua](https://open.spotify.com/album/4EnGYFpca9dwR5hxej1hjB) | 4:25 | 2024-04-26 |  |
 | [Maps](https://open.spotify.com/track/4CKRwn0AIG5Fmbf040suEj) | [Raffaella](https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4), [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Maps](https://open.spotify.com/album/1J05fZukYUxjZwzZQcMZDi) | 3:30 | 2023-06-30 |  |
 | [Maps \- Single Version](https://open.spotify.com/track/0pqU55UfyCSLyTFHjdYqQP) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Maps](https://open.spotify.com/album/78mLW6X19S0jCuT8e6zZg0) | 2:29 | 2021-03-12 | 2022-04-14 |
 | [Maybe Tomorrow](https://open.spotify.com/track/719mBMKamIop3zjxSD0REL) | [BowLand](https://open.spotify.com/artist/6wP8Zgqr5XdEcCPn97OBFl) | [Maybe Tomorrow](https://open.spotify.com/album/1BWuQzuSlLtLRFSZjJANXX) | 2:46 | 2021-07-21 | 2022-04-18 |

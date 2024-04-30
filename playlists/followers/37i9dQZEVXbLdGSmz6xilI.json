@@ -1,5 +1,5 @@
 {
-  "2024-04-29": 90451,
+  "2024-04-30": 90255,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Vietnam.",
   "name": "Top 50 - Vietnam",
@@ -141,6 +141,24 @@
       "duration_ms": 228705,
       "name": "04 Th\u1eafp H\u01b0\u01a1ng 05 Ho\u00e1 V\u00e0ng",
       "url": "https://open.spotify.com/track/6e7oHe23DEca4sEOgu5bPd"
+    },
+    {
+      "album": {
+        "name": "10 Ng\u00e0n N\u0103m",
+        "url": "https://open.spotify.com/album/1LkA7FjIQpuZBgxdd3nNvF"
+      },
+      "artists": [
+        {
+          "name": "PC",
+          "url": "https://open.spotify.com/artist/3HD3V1nGFPwepBO7064Ij0"
+        }
+      ],
+      "date_added": "2024-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "10 Ng\u00e0n N\u0103m",
+      "url": "https://open.spotify.com/track/76KYaCx7UjHwlnrqzcovLZ"
     },
     {
       "album": {
@@ -3467,7 +3485,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-28",
+      "date_removed": null,
       "duration_ms": 255429,
       "name": "Ch\u1ea1y Kh\u1ecfi Th\u1ebf Gi\u1edbi N\u00e0y",
       "url": "https://open.spotify.com/track/5ECHJ1llWBNYLVCYrllD3x"
@@ -14447,7 +14465,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 161948,
       "name": "Simp G\u00e1i 808",
       "url": "https://open.spotify.com/track/5J3m0taZ0W1E9HTE0MwcSv"
@@ -18053,7 +18071,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 228639,
       "name": "we can't be friends (wait for your love)",
       "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"

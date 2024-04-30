@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 
 > Electronic music with Mediterranean and Eastern influences.
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,662 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,802 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 | 40 | [Euphrates](https://open.spotify.com/track/2clyVcUj199ccetJU2Bkej) | [Valeron](https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip) | [Amare](https://open.spotify.com/album/7ELZffIkSkgSeSZwXfuh4K) | 6:50 |
 | 41 | [Bangladesh](https://open.spotify.com/track/2vmgBSWj0JLDIfvfqiflGf) | [Esotique](https://open.spotify.com/artist/5s8gdykqfA3923GVtrtSUF), [Sandra N.](https://open.spotify.com/artist/0UrGage3kU3APQxGDFhc9L) | [Bangladesh](https://open.spotify.com/album/7LBsacPrDzwsZgZcrrHyKl) | 2:27 |
 | 42 | [Closer](https://open.spotify.com/track/1HzpCS56kzpWGLPmZif0gT) | [Monoir](https://open.spotify.com/artist/0TmLIfQje5MdX2ovu4yQKz), [Loredvn](https://open.spotify.com/artist/5RR9UQkT1jH2GjKxjC4czY), [Geanina](https://open.spotify.com/artist/6v2E7HSjXWVK89bz9Y5OcW) | [Closer](https://open.spotify.com/album/2pdsZI9LOKyZMROMEFQ3qb) | 2:32 |
-| 43 | [Lamouni](https://open.spotify.com/track/388VvqIYj3edEMaHUXNUcN) | [Faylasuf](https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Lamouni](https://open.spotify.com/album/52Oz7HNLmvzVBmFdzNEAUZ) | 3:37 |
-| 44 | [MIRAN](https://open.spotify.com/track/0BNNBoE8D33k7jjSExYbUI) | [Sinan Yalcin](https://open.spotify.com/artist/03ZkvOyphjIMDashA29QiW), [Roni Violinist](https://open.spotify.com/artist/0tRALyUvYQiXuvDEtBO2cf) | [MIRAN](https://open.spotify.com/album/34XaofZcShdwBM50sAHuHc) | 2:09 |
+| 43 | [MIRAN](https://open.spotify.com/track/0BNNBoE8D33k7jjSExYbUI) | [Sinan Yalcin](https://open.spotify.com/artist/03ZkvOyphjIMDashA29QiW), [Roni Violinist](https://open.spotify.com/artist/0tRALyUvYQiXuvDEtBO2cf) | [MIRAN](https://open.spotify.com/album/34XaofZcShdwBM50sAHuHc) | 2:09 |
+| 44 | [Lamouni](https://open.spotify.com/track/388VvqIYj3edEMaHUXNUcN) | [Faylasuf](https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Lamouni](https://open.spotify.com/album/52Oz7HNLmvzVBmFdzNEAUZ) | 3:37 |
 | 45 | [Sophonisbe \- Sahale Remix](https://open.spotify.com/track/44288Pd23qyQs0FyCqti8L) | [Jugurtha](https://open.spotify.com/artist/72vSlNssmiyjzCAt4Z61ME), [Stephane Salerno](https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE), [Sahalé](https://open.spotify.com/artist/4M7kyBSGHK0aYYjObYeRXZ) | [Sophonisbe](https://open.spotify.com/album/0v9XsFBlAt1lyDuFhO1ZhM) | 6:36 |
 | 46 | [Ahwak \(Deeper Remix\)](https://open.spotify.com/track/7czCBbKR2qXJRkf5pwml1V) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j) | [Ahwak \(Deeper Remix\)](https://open.spotify.com/album/5GDwXSsWyY5h7nFTT9UJ90) | 5:00 |
 | 47 | [Marrakech](https://open.spotify.com/track/479rGHKvQHAT18qCWR8Hvn) | [Hisham Kharma](https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl) | [Kun](https://open.spotify.com/album/3rw9RPwHJzrlvHstzytg6D) | 5:14 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 | 74 | [Anatolian Vibe](https://open.spotify.com/track/5VgX4eEeWruVUwFvNvtYld) | [Kad1r](https://open.spotify.com/artist/3jE4ASRCE1MR5GDzP2jkIi), [Bugra Atmaca](https://open.spotify.com/artist/7jKUdhVs6dJS5bvaKIhh23) | [Anatolian Vibe](https://open.spotify.com/album/4xSOeTuBYmLOrYbkXUkmHK) | 3:07 |
 | 75 | [Beirut](https://open.spotify.com/track/6eFZWWLSszx4wgmlZmRGA7) | [Nick Saley](https://open.spotify.com/artist/0ongbiSDrQIMLe8ubdYgez), [DJ Pantelis](https://open.spotify.com/artist/7nuSTNTAcDVJULc1be6vAZ) | [Beirut](https://open.spotify.com/album/38Um3NfzOkBjaZcb7KYEDh) | 5:34 |
 | 76 | [Dahlia Girl](https://open.spotify.com/track/1ibXekJRK6oIiQTJyujkts) | [Deeperise](https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe), [Eneli](https://open.spotify.com/artist/77xr1BNiH6bg7sV7ufnFhe) | [Dahlia Girl](https://open.spotify.com/album/4M63EciFwh9GYBuxH9G9Cv) | 3:17 |
-| 77 | [Hayati](https://open.spotify.com/track/5siesK1gYQObYkJvDKaYb9) | [Drinche](https://open.spotify.com/artist/0icjnvOhvT9hktbxVOUogI) | [Hayati](https://open.spotify.com/album/0H9rawRwwayQEXAmjKIbVQ) | 2:57 |
-| 78 | [Watra](https://open.spotify.com/track/2I8VvuKBEdag61gH7B8qy2) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL) | [Watra](https://open.spotify.com/album/0WlXjTba77k6VRM8iXzdZg) | 2:21 |
+| 77 | [Watra](https://open.spotify.com/track/2I8VvuKBEdag61gH7B8qy2) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL) | [Watra](https://open.spotify.com/album/0WlXjTba77k6VRM8iXzdZg) | 2:21 |
+| 78 | [Hayati](https://open.spotify.com/track/5siesK1gYQObYkJvDKaYb9) | [Drinche](https://open.spotify.com/artist/0icjnvOhvT9hktbxVOUogI) | [Hayati](https://open.spotify.com/album/0H9rawRwwayQEXAmjKIbVQ) | 2:57 |
 | 79 | [Eternal Roots](https://open.spotify.com/track/6FhUtyw0Y8q1xR22XlFNXg) | [SAFAR](https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm) | [Eternal Roots](https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL) | 5:05 |
 | 80 | [Sunam](https://open.spotify.com/track/01vX6r5LSjgH7wWru9ymLx) | [Yıldız Tilbe](https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0), [Anatolian Sessions](https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK), [Serdar Ayyıldız](https://open.spotify.com/artist/2k4bQt7eQsigiUFsT9VLGK) | [Sunam](https://open.spotify.com/album/2fjix5nVHiyACZdDsgRnvt) | 4:39 |
 | 81 | [Bliss](https://open.spotify.com/track/63BMldQAjrTJuEGMHwaMeM) | [Hisham Kharma](https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl) | [Bliss](https://open.spotify.com/album/1PKS9AMSpBgINKKViRYcrm) | 3:33 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 | 97 | [Yaman \- Radio Edit](https://open.spotify.com/track/1JomuRkday0y29kjtxJQ0q) | [DJ Dark](https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn), [Dj Nil](https://open.spotify.com/artist/6qD8aNIxyqa7SXCJNLDi47), [Zara](https://open.spotify.com/artist/4wMiYZnNDSQGBGLlBT4cAb) | [Yaman](https://open.spotify.com/album/5xWy7VAU1D1e6RJandRATO) | 4:53 |
 | 98 | [Mazrub](https://open.spotify.com/track/6LQ6389JtKwSYWLi0c5OAH) | [Ossova](https://open.spotify.com/artist/5BTNXZpP9Dhzzb4llFSMzJ), [Amorf](https://open.spotify.com/artist/235rIOpga6eYnAP03JD444) | [Mazrub](https://open.spotify.com/album/3ehMTWstecDQEghyK3JcGi) | 3:06 |
 | 99 | [Mindreader](https://open.spotify.com/track/5P52da2sNatI3lgZEW5Prb) | [Malik](https://open.spotify.com/artist/4sEcx9wubbX4TLdaCQTqGI) | [Mindreader](https://open.spotify.com/album/2S6yN5zAZpFmCuBKSU8YSM) | 2:52 |
-| 100 | [Lovely](https://open.spotify.com/track/593LEeuExHU4WfqxxaIOYG) | [Berat Oz](https://open.spotify.com/artist/3d9HQNZBdTS1yMG7CetZf1) | [Lovely](https://open.spotify.com/album/05zjElhX5hGafbGN1YUb6H) | 2:56 |
+| 100 | [Bladi B3ida](https://open.spotify.com/track/2h519R5O4HhdPjboqsOond) | [Momo Ryuk](https://open.spotify.com/artist/3s9FZ3OTtrvWzS98OlzecE), [Khalid Elhamri](https://open.spotify.com/artist/0HP4N5HHfnJAoUlBjKewtu), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Bladi B3ida](https://open.spotify.com/album/4B1cXT0JtC0f0e0sbODGow) | 5:19 |
 
 Snapshot ID: `MTcxNDE2NTIwMCwwMDAwMDAwMDE4YWY1MzEzZjkyYWIxNzlkMWQxOTE5NjAzNzhmNzUz`

@@ -9503,6 +9503,24 @@
     },
     {
       "album": {
+        "name": "OUR STARS",
+        "url": "https://open.spotify.com/album/26T9baKkEEWN03XeiMSvvN"
+      },
+      "artists": [
+        {
+          "name": "THIRST",
+          "url": "https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147200,
+      "name": "OUR STARS",
+      "url": "https://open.spotify.com/track/5jKmm01l9eMLiQusd6qpKi"
+    },
+    {
+      "album": {
         "name": "Out of the Dark",
         "url": "https://open.spotify.com/album/2JG5PFilIwO4rggFxYyMg1"
       },

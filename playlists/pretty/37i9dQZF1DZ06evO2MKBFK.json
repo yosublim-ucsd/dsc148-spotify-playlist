@@ -1,12 +1,12 @@
 {
-  "description": "This Is BIGBANG. Los temas esenciales, todos en una lista.",
-  "num_followers": 612692,
+  "description": "This is BIGBANG. The essential tracks, all in one playlist.",
+  "num_followers": 612085,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDE3NjAwMCwwMDAwMDAwMDA2N2JiNTVhNGE3NDkwNDUwZTdlNzA4MDlmNzRkMmMw",
+  "snapshot_id": "MTcxNDI2MjQwMCwwMDAwMDAwMDM3YmY2NmU3ODI4NGZhN2Q1MTViMWJiYWViOWE4ZGYy",
   "tracks": [
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stand Up",
-        "url": "https://open.spotify.com/album/0NB6IIwQeRDzNFCU22LQto"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 232933,
-      "name": "My Heaven",
-      "url": "https://open.spotify.com/track/6M78En84cFYQxdYABC2fZO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tell Me Goodbye",
         "url": "https://open.spotify.com/album/5Nmqr0lMATwA9XzOoLYHJX"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 245013,
       "name": "Tell Me Goodbye",
       "url": "https://open.spotify.com/track/3GXiHK4P3hdSuxEdWVo2rg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stand Up",
+        "url": "https://open.spotify.com/album/0NB6IIwQeRDzNFCU22LQto"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 232933,
+      "name": "My Heaven",
+      "url": "https://open.spotify.com/track/6M78En84cFYQxdYABC2fZO"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/2W66jOC3qqVZvLn9foXXbg"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 210240,
-      "name": "Wonderful",
-      "url": "https://open.spotify.com/track/5NnjXRvnm2xGwBA3dnO8Mq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hot Issue",
         "url": "https://open.spotify.com/album/4qpzzLtl5ksEnhryRUrNQC"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 225666,
       "name": "Fool",
       "url": "https://open.spotify.com/track/0K1bxe733BFc74jk4g59ED"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/2W66jOC3qqVZvLn9foXXbg"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 210240,
+      "name": "Wonderful",
+      "url": "https://open.spotify.com/track/5NnjXRvnm2xGwBA3dnO8Mq"
     },
     {
       "added_at": null,

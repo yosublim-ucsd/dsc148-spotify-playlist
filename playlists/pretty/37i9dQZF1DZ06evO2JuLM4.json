@@ -1,12 +1,12 @@
 {
   "description": "This is The White Stripes. The essential tracks, all in one playlist.",
-  "num_followers": 111224,
+  "num_followers": 111244,
   "original_name": "This Is The White Stripes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDE3NjAwMCwwMDAwMDAwMDY1NjA3OGM3NTVmZTczNmEyZjNlOWNmMmQzMzI0ZGJh",
+  "snapshot_id": "MTcxNDI2MjQwMCwwMDAwMDAwMDM0MzQwYmRjOTgwMTcwYTE2ZGY2ZTkyNjU1NTgyZDE1",
   "tracks": [
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Behind Me Satan",
-        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
+        "name": "De Stijl",
+        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 35226,
-      "name": "Passive Manipulation",
-      "url": "https://open.spotify.com/track/6DqmBfQhxbkB6PShaX1t45"
+      "duration_ms": 186800,
+      "name": "Little Bird",
+      "url": "https://open.spotify.com/track/7uYoO8Jt7BUib2teUpLFLZ"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Stijl",
-        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
+        "name": "Get Behind Me Satan",
+        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 186800,
-      "name": "Little Bird",
-      "url": "https://open.spotify.com/track/7uYoO8Jt7BUib2teUpLFLZ"
+      "duration_ms": 35226,
+      "name": "Passive Manipulation",
+      "url": "https://open.spotify.com/track/6DqmBfQhxbkB6PShaX1t45"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "White Blood Cells",
-        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
+        "name": "De Stijl",
+        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 186240,
-      "name": "Offend In Every Way",
-      "url": "https://open.spotify.com/track/1nO9QTV0ifjpleS2NDypin"
+      "duration_ms": 269946,
+      "name": "Death Letter",
+      "url": "https://open.spotify.com/track/78ZPgT0agDUG95ByxpTNBP"
     },
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Stijl",
-        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
+        "name": "White Blood Cells",
+        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 269946,
-      "name": "Death Letter",
-      "url": "https://open.spotify.com/track/78ZPgT0agDUG95ByxpTNBP"
+      "duration_ms": 186240,
+      "name": "Offend In Every Way",
+      "url": "https://open.spotify.com/track/1nO9QTV0ifjpleS2NDypin"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
-  "num_followers": 14862,
+  "num_followers": 14856,
   "original_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
   "owner": {
     "name": "Spotify",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-04-22 05:06:08",
       "album": {
-        "name": "DAESUNG Special Single",
-        "url": "https://open.spotify.com/album/7Ct13dmiE5fMReh3v3FTxe"
-      },
-      "artists": [
-        {
-          "name": "DAESUNG",
-          "url": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
-        }
-      ],
-      "duration_ms": 198280,
-      "name": "Flow",
-      "url": "https://open.spotify.com/track/0E8sOJGcMtUVxAJ4PYul2U"
-    },
-    {
-      "added_at": "2024-04-22 05:06:08",
-      "album": {
         "name": "ERROR",
         "url": "https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 198558,
       "name": "Panorama",
       "url": "https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i"
+    },
+    {
+      "added_at": "2024-04-22 05:06:08",
+      "album": {
+        "name": "DAESUNG Special Single",
+        "url": "https://open.spotify.com/album/7Ct13dmiE5fMReh3v3FTxe"
+      },
+      "artists": [
+        {
+          "name": "DAESUNG",
+          "url": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+        }
+      ],
+      "duration_ms": 198280,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/0E8sOJGcMtUVxAJ4PYul2U"
     },
     {
       "added_at": "2024-04-22 05:06:08",
@@ -823,18 +823,22 @@
     {
       "added_at": "2024-04-22 05:06:08",
       "album": {
-        "name": "Seven, <\uc9d1\uc744 \ub098\uc11c\uba70...>",
-        "url": "https://open.spotify.com/album/7DbmjsRXzvRuw5wDRSiOAy"
+        "name": "PSY 9th",
+        "url": "https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB"
       },
       "artists": [
         {
-          "name": "Lim Jae Beum",
-          "url": "https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV"
+          "name": "PSY",
+          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
         }
       ],
-      "duration_ms": 242338,
-      "name": "\uc5ec\ud589\uc790",
-      "url": "https://open.spotify.com/track/1uN6oKBP57ZtfOULIiYrir"
+      "duration_ms": 251374,
+      "name": "Happier (feat. Crush)",
+      "url": "https://open.spotify.com/track/5HOzA1X13wwOJKF0cFKkQx"
     }
   ],
   "unique_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",

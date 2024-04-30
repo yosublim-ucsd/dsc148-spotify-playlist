@@ -1,12 +1,12 @@
 {
   "description": "This Is Mau y Ricky. Los temas esenciales, todos en una lista.",
-  "num_followers": 124085,
+  "num_followers": 124024,
   "original_name": "This Is Mau y Ricky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDE3NjAwMCwwMDAwMDAwMDhhMzgzNjFjZTk3ZWM3MjNiYWVhMmZhNmM5ODQ3M2I5",
+  "snapshot_id": "MTcxNDI2MjQwMCwwMDAwMDAwMDk4YTgyZjJkMGQzOWY2MjAwMGZhOTk0YTIzMWYxYjRk",
   "tracks": [
     {
       "added_at": null,
@@ -1063,6 +1063,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Arte",
+        "url": "https://open.spotify.com/album/37YOrd3yOJva0INlJrNyxf"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 221946,
+      "name": "Empiezo a Caer",
+      "url": "https://open.spotify.com/track/15P95UWBRfUDrB9Ok8AKtu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DESGENERADOS MIXTAPE",
         "url": "https://open.spotify.com/album/0YcR2HiDBoW60Alu3CZu2R"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 204920,
       "name": "Vivir Sin Ti (con CNCO)",
       "url": "https://open.spotify.com/track/4zKgBYhLafD8xszGCAiThg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Arte",
-        "url": "https://open.spotify.com/album/37YOrd3yOJva0INlJrNyxf"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 221946,
-      "name": "Empiezo a Caer",
-      "url": "https://open.spotify.com/track/15P95UWBRfUDrB9Ok8AKtu"
     },
     {
       "added_at": null,

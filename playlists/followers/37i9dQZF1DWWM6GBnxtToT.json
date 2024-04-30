@@ -1,5 +1,5 @@
 {
-  "2024-04-29": 585066,
+  "2024-04-30": 585047,
   "date_first_scraped": "2023-07-28",
   "description": "Diese Songs zaubern dir ein Grinsen ins Gesicht.",
   "name": "Feelgood Indie",
@@ -147,6 +147,24 @@
       "duration_ms": 195982,
       "name": "Adult Movies",
       "url": "https://open.spotify.com/track/1RPtMkfP5TfnlylnW6LIDd"
+    },
+    {
+      "album": {
+        "name": "All Because of You",
+        "url": "https://open.spotify.com/album/2Dv9PDFyQ0fvZxw7b3h2W8"
+      },
+      "artists": [
+        {
+          "name": "Pool",
+          "url": "https://open.spotify.com/artist/1yZ0q0QsxwvyY6odzRxUuX"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227207,
+      "name": "All Because of You",
+      "url": "https://open.spotify.com/track/2NArIqQMcyBNQkxlZY7esf"
     },
     {
       "album": {
@@ -3289,7 +3307,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 198575,
       "name": "Zeus",
       "url": "https://open.spotify.com/track/0RQxUDg6l0yLtdjGsByaRX"

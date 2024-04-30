@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sai Abhyankar
 
-268 songs - 15 hr 30 min
+269 songs - 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Rain Rain Poi Thola](https://open.spotify.com/track/7Du7gAbZm9g9iyJsFpKLGG) | [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX) | [Rain Rain Poi Thola](https://open.spotify.com/album/6YfSHRJ3GMjWTPgPDMVjyR) | 3:28 | 2023-06-05 | 2023-11-16 |
 | [Ranganaa](https://open.spotify.com/track/43IUMVJK6qYgjq5dPzUO8j) | [Jo](https://open.spotify.com/artist/7rTuLzJBUcmKeqfqxuhv94), [Kavindya Adikari](https://open.spotify.com/artist/7qionbkzGDNdQeqwBExzqB), [Cozzy](https://open.spotify.com/artist/5wbotL8r54GNzca15JjKa5) | [Ranganaa](https://open.spotify.com/album/7Abooc4IFECT3bOeejP6eB) | 3:22 | 2024-01-29 |  |
 | [Rawberry](https://open.spotify.com/track/75G1vgDH5uaNklFyy3hvtn) | [Vidushaan](https://open.spotify.com/artist/6yr59RSWCxLvcjZIytt1OB) | [Rawberry](https://open.spotify.com/album/3DBSRW3AKEmMarwen6zTg1) | 2:48 | 2023-04-24 | 2023-08-08 |
+| [Roja Poo Mala](https://open.spotify.com/track/7jPBS4dd6Xma0a8GTf2JkA) | [Gana Gowtham](https://open.spotify.com/artist/4uLvyDqG9a9ar8wk20issC) | [Roja Poo Mala](https://open.spotify.com/album/5i62N7TBuOwbdjVPltBWAh) | 3:45 | 2024-04-29 |  |
 | [Rotoram Pakayila](https://open.spotify.com/track/6A63e8EqB42KzE7VtfAoUW) | [Martin Kartenjer](https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw) | [Rotoram Pakayila](https://open.spotify.com/album/5M0jTe8qJQ5u4vrI1i2Dq7) | 3:19 | 2023-06-20 | 2024-01-06 |
 | [Rowdy Ponnu](https://open.spotify.com/track/2joKMaye4sULpsCJuWZf3y) | [Veena AE](https://open.spotify.com/artist/7F5HmVLlQsLMdPq7Iz0CsK) | [Rowdy Ponnu](https://open.spotify.com/album/58UMFmyJVJNino9P24WRND) | 3:44 | 2023-04-10 | 2023-07-25 |
 | [Run Mage Run](https://open.spotify.com/track/4qRicd9ES3SvE2i31JMJWR) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq), [Refixmusic](https://open.spotify.com/artist/2QD7mDvWWHZmkOxtXBurr0) | [Run Mage Run](https://open.spotify.com/album/1a2IZtCHRqPu1EsCve1A0X) | 2:11 | 2023-07-04 | 2023-10-12 |

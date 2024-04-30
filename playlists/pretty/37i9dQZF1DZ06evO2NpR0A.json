@@ -1,12 +1,12 @@
 {
-  "description": "This is \u30dc\u30f3\u30fb\u30a4\u30f4\u30a7\u30fc\u30eb\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
-  "num_followers": 256269,
-  "original_name": "This Is \u30dc\u30f3\u30fb\u30a4\u30f4\u30a7\u30fc\u30eb",
+  "description": "This is Bon Iver. The essential tracks, all in one playlist.",
+  "num_followers": 256276,
+  "original_name": "This Is Bon Iver",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDE3NjAwMCwwMDAwMDAwMDcyN2U0NDQyM2Y1ZjEyZjA4OGRhM2RjODAxZDdhNzFm",
+  "snapshot_id": "MTcxNDI2MjQwMCwwMDAwMDAwMDA0NzI3MThjNWI1MjI0OTNkM2U5ZmEzNDQzNjBiMzA3",
   "tracks": [
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 165013,
-      "name": "Hinnom, TX",
-      "url": "https://open.spotify.com/track/07JjtrTqsBg6hE0xoAU1xZ"
+      "duration_ms": 232440,
+      "name": "Minnesota, WI",
+      "url": "https://open.spotify.com/track/6dmqnKIOvBfqjP317AT2tT"
     },
     {
       "added_at": null,
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 232440,
-      "name": "Minnesota, WI",
-      "url": "https://open.spotify.com/track/6dmqnKIOvBfqjP317AT2tT"
+      "duration_ms": 165013,
+      "name": "Hinnom, TX",
+      "url": "https://open.spotify.com/track/07JjtrTqsBg6hE0xoAU1xZ"
     },
     {
       "added_at": null,
@@ -769,6 +769,6 @@
       "url": "https://open.spotify.com/track/6UMqwvwPmgr2oql5Bse9E4"
     }
   ],
-  "unique_name": "This Is \u30dc\u30f3\u30fb\u30a4\u30f4\u30a7\u30fc\u30eb",
+  "unique_name": "This Is Bon Iver",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2NpR0A"
 }

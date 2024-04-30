@@ -2,7 +2,7 @@
 
 ### [Pakka Hit Hai](https://open.spotify.com/playlist/37i9dQZF1DX6TT2YOPM1n3)
 
-> Home to current Pakistani Hits\. 🇵🇰 Cover: Umair, JJ47, Talha Anjum, Shamoon Ismail, and Talhah Yunus
+> Home to current Pakistani Hits\. 🇵🇰 Cover: Asim Azhar
 
 140 songs - 9 hr 6 min
 

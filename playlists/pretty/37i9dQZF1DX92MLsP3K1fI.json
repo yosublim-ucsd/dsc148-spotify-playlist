@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Mau y Ricky con Guaynaa en portada.",
-  "num_followers": 84293,
+  "num_followers": 84305,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -911,22 +911,18 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "Dejarte Ir",
-        "url": "https://open.spotify.com/album/2X1owjKL4rFAqmzrtvIFjf"
+        "name": "Tengamos Pasado",
+        "url": "https://open.spotify.com/album/5INXB8bPP0WzT5lLuhRSlF"
       },
       "artists": [
         {
-          "name": "Nath",
-          "url": "https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE"
-        },
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
         }
       ],
-      "duration_ms": 176081,
-      "name": "Dejarte Ir",
-      "url": "https://open.spotify.com/track/14z0nJOFTKfWAODgtq5RiJ"
+      "duration_ms": 180648,
+      "name": "Tengamos Pasado",
+      "url": "https://open.spotify.com/track/4fBDh59Cybyp5UNqoNGRfP"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -947,18 +943,22 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "Tengamos Pasado",
-        "url": "https://open.spotify.com/album/5INXB8bPP0WzT5lLuhRSlF"
+        "name": "Dejarte Ir",
+        "url": "https://open.spotify.com/album/2X1owjKL4rFAqmzrtvIFjf"
       },
       "artists": [
         {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+          "name": "Nath",
+          "url": "https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE"
+        },
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
         }
       ],
-      "duration_ms": 180648,
-      "name": "Tengamos Pasado",
-      "url": "https://open.spotify.com/track/4fBDh59Cybyp5UNqoNGRfP"
+      "duration_ms": 176081,
+      "name": "Dejarte Ir",
+      "url": "https://open.spotify.com/track/14z0nJOFTKfWAODgtq5RiJ"
     }
   ],
   "unique_name": "Oye Pop",

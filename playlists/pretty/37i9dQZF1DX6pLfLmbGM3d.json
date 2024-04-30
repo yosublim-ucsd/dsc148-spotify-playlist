@@ -1,15 +1,111 @@
 {
   "description": "Let's DIVE into IVE.",
-  "num_followers": 109113,
+  "num_followers": 109421,
   "original_name": "This Is IVE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDE0MzI2OCwwMDAwMDAwMDE3YjAyOGJlNmE1Mzg1YzBmMmZmMzk2MDc3OTcyM2Jh",
+  "snapshot_id": "MTcxNDM4MjQ2MywwMDAwMDAwMDUyNDZlZjI2N2E5MTU3OGYzYmM5M2NkYjZjYWE2NTA3",
   "tracks": [
     {
-      "added_at": "2024-04-26 14:54:28",
+      "added_at": "2024-04-29 09:21:03",
+      "album": {
+        "name": "IVE SWITCH",
+        "url": "https://open.spotify.com/album/7z61DsZtWO2S4nC5xd0b9p"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 189680,
+      "name": "\ud574\uc57c (HEYA)",
+      "url": "https://open.spotify.com/track/4gOwpU4kMZZNDWkoHYUj1Z"
+    },
+    {
+      "added_at": "2024-04-29 09:21:03",
+      "album": {
+        "name": "IVE SWITCH",
+        "url": "https://open.spotify.com/album/7z61DsZtWO2S4nC5xd0b9p"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 192013,
+      "name": "Accendio",
+      "url": "https://open.spotify.com/track/1BAtAtx0VgWgAMROWK9WYf"
+    },
+    {
+      "added_at": "2024-04-29 09:21:03",
+      "album": {
+        "name": "IVE SWITCH",
+        "url": "https://open.spotify.com/album/7z61DsZtWO2S4nC5xd0b9p"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 187853,
+      "name": "Blue Heart",
+      "url": "https://open.spotify.com/track/00wTgWOnpWPlTvFsAkZBme"
+    },
+    {
+      "added_at": "2024-04-29 09:21:03",
+      "album": {
+        "name": "IVE SWITCH",
+        "url": "https://open.spotify.com/album/7z61DsZtWO2S4nC5xd0b9p"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 183226,
+      "name": "Ice Queen",
+      "url": "https://open.spotify.com/track/5h0QtLzRxaGI9ujUMugAhr"
+    },
+    {
+      "added_at": "2024-04-29 09:21:03",
+      "album": {
+        "name": "IVE SWITCH",
+        "url": "https://open.spotify.com/album/7z61DsZtWO2S4nC5xd0b9p"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 178573,
+      "name": "WOW",
+      "url": "https://open.spotify.com/track/19rjGep5T6DeFqfzn0bPgM"
+    },
+    {
+      "added_at": "2024-04-29 09:21:03",
+      "album": {
+        "name": "IVE SWITCH",
+        "url": "https://open.spotify.com/album/7z61DsZtWO2S4nC5xd0b9p"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 161280,
+      "name": "RESET",
+      "url": "https://open.spotify.com/track/4hoBqEeOJbrmakqA2Oe4xs"
+    },
+    {
+      "added_at": "2024-04-29 09:21:03",
       "album": {
         "name": "Will",
         "url": "https://open.spotify.com/album/5hr8FCRbxJYqhFVFP0I1wU"
@@ -25,7 +121,7 @@
       "url": "https://open.spotify.com/track/27ld38UdmopEXofm96uAqt"
     },
     {
-      "added_at": "2024-04-26 14:54:28",
+      "added_at": "2024-04-29 09:21:03",
       "album": {
         "name": "All Night (feat. Saweetie)",
         "url": "https://open.spotify.com/album/3m4sanPtJZrKkYMxSbjRRP"
@@ -45,7 +141,7 @@
       "url": "https://open.spotify.com/track/1hkeifGMiDQjXlvAsIoDaa"
     },
     {
-      "added_at": "2024-04-26 14:54:28",
+      "added_at": "2024-04-29 09:21:03",
       "album": {
         "name": "I'VE MINE",
         "url": "https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp"
@@ -61,7 +157,7 @@
       "url": "https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ"
     },
     {
-      "added_at": "2024-04-26 14:54:28",
+      "added_at": "2024-04-29 09:21:03",
       "album": {
         "name": "I'VE MINE",
         "url": "https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp"
@@ -77,7 +173,7 @@
       "url": "https://open.spotify.com/track/6TNx6kHZeVDByUNMVxkAfa"
     },
     {
-      "added_at": "2024-04-26 14:54:28",
+      "added_at": "2024-04-29 09:21:03",
       "album": {
         "name": "I'VE MINE",
         "url": "https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp"
@@ -93,7 +189,7 @@
       "url": "https://open.spotify.com/track/5c1EubDxHdulbausF5CpX5"
     },
     {
-      "added_at": "2024-04-26 14:54:28",
+      "added_at": "2024-04-29 09:21:03",
       "album": {
         "name": "I'VE MINE",
         "url": "https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp"
@@ -109,7 +205,7 @@
       "url": "https://open.spotify.com/track/5q288Nbf39kqh2HtI2H2op"
     },
     {
-      "added_at": "2024-04-26 14:54:28",
+      "added_at": "2024-04-29 09:21:03",
       "album": {
         "name": "I'VE MINE",
         "url": "https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp"
@@ -125,7 +221,7 @@
       "url": "https://open.spotify.com/track/0ANTnEM0En14CMHPxs0MZj"
     },
     {
-      "added_at": "2024-04-26 14:54:28",
+      "added_at": "2024-04-29 09:21:03",
       "album": {
         "name": "I'VE MINE",
         "url": "https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp"
@@ -141,7 +237,7 @@
       "url": "https://open.spotify.com/track/1RYK0mKtwjWaNLe7Mi6jYN"
     },
     {
-      "added_at": "2024-04-26 14:54:28",
+      "added_at": "2024-04-29 09:21:03",
       "album": {
         "name": "Off The Record",
         "url": "https://open.spotify.com/album/7qch1xWGWuU5VxZEYBF5KW"
@@ -157,7 +253,7 @@
       "url": "https://open.spotify.com/track/3G7MgLuWLzUJQflWOCDZit"
     },
     {
-      "added_at": "2024-04-26 14:54:28",
+      "added_at": "2024-04-29 09:21:03",
       "album": {
         "name": "Either Way",
         "url": "https://open.spotify.com/album/31ZO3EEc4JPomzMGed9BEV"
@@ -173,7 +269,7 @@
       "url": "https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI"
     },
     {
-      "added_at": "2024-04-26 14:54:28",
+      "added_at": "2024-04-29 09:21:03",
       "album": {
         "name": "I WANT",
         "url": "https://open.spotify.com/album/1BxRutqDtvMJfiovw76gxe"
@@ -189,7 +285,7 @@
       "url": "https://open.spotify.com/track/1Xnha5ko8j7yY8O3ATe0Vs"
     },
     {
-      "added_at": "2024-04-26 14:54:28",
+      "added_at": "2024-04-29 09:21:03",
       "album": {
         "name": "WAVE",
         "url": "https://open.spotify.com/album/0ygvUJDV0PK3Sz3f7njaaA"
@@ -205,7 +301,7 @@
       "url": "https://open.spotify.com/track/2FNgoGLkE4AAOtYkQfiVL4"
     },
     {
-      "added_at": "2024-04-26 14:54:28",
+      "added_at": "2024-04-29 09:21:03",
       "album": {
         "name": "I've IVE",
         "url": "https://open.spotify.com/album/0HDHNz6LfL46dbl9pG51g4"
@@ -221,7 +317,7 @@
       "url": "https://open.spotify.com/track/7KavHYqoVFNB3IUXfs5gvP"
     },
     {
-      "added_at": "2024-04-26 14:54:28",
+      "added_at": "2024-04-29 09:21:03",
       "album": {
         "name": "I've IVE",
         "url": "https://open.spotify.com/album/0HDHNz6LfL46dbl9pG51g4"
@@ -237,7 +333,7 @@
       "url": "https://open.spotify.com/track/5kRMDu7nOelODru9ZmwbLl"
     },
     {
-      "added_at": "2024-04-26 14:54:28",
+      "added_at": "2024-04-29 09:21:03",
       "album": {
         "name": "I've IVE",
         "url": "https://open.spotify.com/album/0HDHNz6LfL46dbl9pG51g4"
@@ -253,7 +349,7 @@
       "url": "https://open.spotify.com/track/7b9F8G4wfQd5wJmwHVyV1v"
     },
     {
-      "added_at": "2024-04-26 14:54:28",
+      "added_at": "2024-04-29 09:21:03",
       "album": {
         "name": "I've IVE",
         "url": "https://open.spotify.com/album/0HDHNz6LfL46dbl9pG51g4"
@@ -269,7 +365,7 @@
       "url": "https://open.spotify.com/track/4BhGSAx2NTc7Ciw8AutWWM"
     },
     {
-      "added_at": "2024-04-26 14:54:28",
+      "added_at": "2024-04-29 09:21:03",
       "album": {
         "name": "I've IVE",
         "url": "https://open.spotify.com/album/0HDHNz6LfL46dbl9pG51g4"
@@ -285,7 +381,7 @@
       "url": "https://open.spotify.com/track/181TBQxn46cDUxY2ssemLg"
     },
     {
-      "added_at": "2024-04-26 14:54:28",
+      "added_at": "2024-04-29 09:21:03",
       "album": {
         "name": "I've IVE",
         "url": "https://open.spotify.com/album/0HDHNz6LfL46dbl9pG51g4"
@@ -301,7 +397,7 @@
       "url": "https://open.spotify.com/track/7xcVfRQTIwTQrDJN29llIx"
     },
     {
-      "added_at": "2024-04-26 14:54:28",
+      "added_at": "2024-04-29 09:21:03",
       "album": {
         "name": "I've IVE",
         "url": "https://open.spotify.com/album/0HDHNz6LfL46dbl9pG51g4"
@@ -317,7 +413,7 @@
       "url": "https://open.spotify.com/track/7uJGQn40P55sT78IAgxFnD"
     },
     {
-      "added_at": "2024-04-26 14:54:28",
+      "added_at": "2024-04-29 09:21:03",
       "album": {
         "name": "I've IVE",
         "url": "https://open.spotify.com/album/0HDHNz6LfL46dbl9pG51g4"
@@ -333,7 +429,7 @@
       "url": "https://open.spotify.com/track/1lxogiPpAYoQCbeesByaE5"
     },
     {
-      "added_at": "2024-04-26 14:54:28",
+      "added_at": "2024-04-29 09:21:03",
       "album": {
         "name": "I've IVE",
         "url": "https://open.spotify.com/album/0HDHNz6LfL46dbl9pG51g4"
@@ -349,7 +445,7 @@
       "url": "https://open.spotify.com/track/3F9g4SKmZoF0QEaj7z4djn"
     },
     {
-      "added_at": "2024-04-26 14:54:28",
+      "added_at": "2024-04-29 09:21:03",
       "album": {
         "name": "I've IVE",
         "url": "https://open.spotify.com/album/0HDHNz6LfL46dbl9pG51g4"
@@ -365,7 +461,7 @@
       "url": "https://open.spotify.com/track/5EFoPlYE77qjYk1V9Tcau9"
     },
     {
-      "added_at": "2024-04-26 14:54:28",
+      "added_at": "2024-04-29 09:21:03",
       "album": {
         "name": "I've IVE",
         "url": "https://open.spotify.com/album/0HDHNz6LfL46dbl9pG51g4"
@@ -381,7 +477,7 @@
       "url": "https://open.spotify.com/track/5cX4nQtyCjXvfuAHQ3Pu50"
     },
     {
-      "added_at": "2024-04-26 14:54:28",
+      "added_at": "2024-04-29 09:21:03",
       "album": {
         "name": "Kitsch",
         "url": "https://open.spotify.com/album/12p68ehzb26xvidlV2ypur"
@@ -397,7 +493,7 @@
       "url": "https://open.spotify.com/track/0zWuvPDqBa0WM9Ffwl0rgb"
     },
     {
-      "added_at": "2024-04-26 14:54:28",
+      "added_at": "2024-04-29 09:21:03",
       "album": {
         "name": "Spotify Singles - Holiday",
         "url": "https://open.spotify.com/album/6naCRqrE036Uojfz7Jk64c"
@@ -413,7 +509,7 @@
       "url": "https://open.spotify.com/track/5ZzFww6qXDJZIhObXrJ8E2"
     },
     {
-      "added_at": "2024-04-26 14:54:28",
+      "added_at": "2024-04-29 09:21:03",
       "album": {
         "name": "LOVE DIVE -Japanese version-",
         "url": "https://open.spotify.com/album/3f8XSIlawxdk1oGTXUbIuX"
@@ -429,7 +525,7 @@
       "url": "https://open.spotify.com/track/5P6ePcSpO8v4AHUgZkS3uz"
     },
     {
-      "added_at": "2024-04-26 14:54:28",
+      "added_at": "2024-04-29 09:21:03",
       "album": {
         "name": "ELEVEN -Japanese version-",
         "url": "https://open.spotify.com/album/3T3STfBHgL2LRv4CGlJTAN"
@@ -445,7 +541,7 @@
       "url": "https://open.spotify.com/track/3bXYYgpCaYZBud2fB3I4ex"
     },
     {
-      "added_at": "2024-04-26 14:54:28",
+      "added_at": "2024-04-29 09:21:03",
       "album": {
         "name": "ELEVEN -Japanese version-",
         "url": "https://open.spotify.com/album/3T3STfBHgL2LRv4CGlJTAN"
@@ -461,7 +557,7 @@
       "url": "https://open.spotify.com/track/4tG2c8LP7J0EsfQ8gKLm7q"
     },
     {
-      "added_at": "2024-04-26 14:54:28",
+      "added_at": "2024-04-29 09:21:03",
       "album": {
         "name": "After LIKE",
         "url": "https://open.spotify.com/album/4MNb9ii6LzgcCT8PrvdClb"
@@ -477,7 +573,7 @@
       "url": "https://open.spotify.com/track/6CV6j2xz54thzlrWML3kAW"
     },
     {
-      "added_at": "2024-04-26 14:54:28",
+      "added_at": "2024-04-29 09:21:03",
       "album": {
         "name": "After LIKE",
         "url": "https://open.spotify.com/album/4MNb9ii6LzgcCT8PrvdClb"
@@ -493,7 +589,7 @@
       "url": "https://open.spotify.com/track/2jaZpjWHv68e2FYr0v3WUj"
     },
     {
-      "added_at": "2024-04-26 14:54:28",
+      "added_at": "2024-04-29 09:21:03",
       "album": {
         "name": "LOVE DIVE",
         "url": "https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p"
@@ -509,7 +605,7 @@
       "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi"
     },
     {
-      "added_at": "2024-04-26 14:54:28",
+      "added_at": "2024-04-29 09:21:03",
       "album": {
         "name": "LOVE DIVE",
         "url": "https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p"
@@ -525,7 +621,7 @@
       "url": "https://open.spotify.com/track/0LMdtBOxbVgrYoA4n0Vwvv"
     },
     {
-      "added_at": "2024-04-26 14:54:28",
+      "added_at": "2024-04-29 09:21:03",
       "album": {
         "name": "ELEVEN",
         "url": "https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI"
@@ -541,7 +637,7 @@
       "url": "https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr"
     },
     {
-      "added_at": "2024-04-26 14:54:28",
+      "added_at": "2024-04-29 09:21:03",
       "album": {
         "name": "ELEVEN",
         "url": "https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI"
@@ -557,7 +653,7 @@
       "url": "https://open.spotify.com/track/70EfheCNy3zOrcT2meMQ1g"
     },
     {
-      "added_at": "2024-04-26 14:54:28",
+      "added_at": "2024-04-29 09:21:03",
       "album": {
         "name": "Blue & Black",
         "url": "https://open.spotify.com/album/5n3Ny3eqXdOY4NzQCXsykh"
@@ -593,7 +689,7 @@
       "url": "https://open.spotify.com/track/43BSk6dOW6THSGe4PyxNSn"
     },
     {
-      "added_at": "2024-04-26 14:54:28",
+      "added_at": "2024-04-29 09:21:03",
       "album": {
         "name": "Move Like This (Feat. YUNA KIM)",
         "url": "https://open.spotify.com/album/18zHgBBbSGZ90hu1mJmvFQ"

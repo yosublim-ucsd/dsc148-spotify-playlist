@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/5nz3AAoDyHSidelqd2fnci.md) - [plain]
 
 > 
 
-[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 39 min 5 sec
+[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 43 min 50 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Cohkka](https://open.spotify.com/track/0TkZ7Vdzb19mgZoTfSypqy) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I) | [Reflections](https://open.spotify.com/album/5WzytSkKsXzzXoTtsDOnnn) | 4:27 |
-| 2 | [Cena de Sushi Trendy](https://open.spotify.com/track/3HaOUGPBnZUXEgQulvHxmQ) | [Musica de Restaurante Japones De Lujo](https://open.spotify.com/artist/1qZL6NnNMtXckfzaIONnfB) | [Cena de Sushi \(Limpiar\)](https://open.spotify.com/album/3HJdxsAsabTEhW7pKdq8PS) | 1:58 |
-| 3 | [Belong To The Wind](https://open.spotify.com/track/4p6yT9iFL3RHRBqcw5vWKM) | [Edgar Homeros](https://open.spotify.com/artist/4j8tcurjLu5pZAi0uogaYg) | [Belong To The Wind](https://open.spotify.com/album/2VbHINJMhuepw7PnR49mCa) | 2:21 |
-| 4 | [luminous sword](https://open.spotify.com/track/6KxzcLy6kE2PgOySf1q7K6) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [ソードアート・オンライン ミュージックコレクション](https://open.spotify.com/album/7t3It6EP6isk5ZpBKgupYZ) | 2:28 |
-| 5 | [Hold Up](https://open.spotify.com/track/5jIPK0iZ3wzCHWsEze021Z) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Hold Up](https://open.spotify.com/album/6Wjf1qyWX7TZfsmcjo5Qab) | 2:28 |
-| 6 | [Rise \- Acoustic](https://open.spotify.com/track/3QyOcn34X7dp5rSj4WpdBG) | [A Skylit Drive](https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9) | [Rise: Ascension](https://open.spotify.com/album/4P2Fo2MQhNicCEm9IBQ2vA) | 3:19 |
-| 7 | [For What It's Worth](https://open.spotify.com/track/5Ih40KFkj3cSzxgisQxBvX) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [As You Were \(Deluxe Edition\)](https://open.spotify.com/album/2V3WS9tlPYmscBNWHHYu9X) | 4:11 |
-| 8 | [Make Me Bad](https://open.spotify.com/track/49A4p9a2240E6UimcrBNFf) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Greatest Hits, Vol\. 1](https://open.spotify.com/album/3NSivK5tIM5k4IiH5wobRr) | 3:55 |
-| 9 | [Lemuria](https://open.spotify.com/track/4pjh4Dk29lwxAlIehtdZbr) | [Therion](https://open.spotify.com/artist/5c8Cw62ZYj9XO6iDLRDEsi) | [Lemuria](https://open.spotify.com/album/2isIdgokoyF3PQUphlGzjp) | 4:15 |
-| 10 | [Intro](https://open.spotify.com/track/5FWs1SriPWwFCoyzt5uiI6) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [And Their Name Was Treason](https://open.spotify.com/album/4UlUTVHQgmjBbptRHWUI5T) | 0:42 |
-| 11 | [Symphony Of Destruction \- Demo](https://open.spotify.com/track/0QtwMdKESlYdMUTAcYyC7m) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 5:29 |
-| 12 | [Better Off This Way](https://open.spotify.com/track/5TtOrriDfiamVEKrls2GIT) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [What Separates Me From You](https://open.spotify.com/album/2kllnMabPw1hYID0MhQRK0) | 3:26 |
+| 1 | [It Started with a Kiss \- 2011 Remaster](https://open.spotify.com/track/2YeymL3Kn5y43vJOO2rhmW) | [Hot Chocolate](https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi) | [Mystery](https://open.spotify.com/album/75sqVZTa8HIi8pZzEUfoRk) | 4:02 |
+| 2 | [Children of the Revolution \- Born to Boogie Version](https://open.spotify.com/track/7lZx7rcukwXBpCNTlkKVCv) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin), [Marc Bolan](https://open.spotify.com/artist/4M2gGLzKCo0rPyn224PsoN) | [Born to Boogie \(Original Soundtrack\)](https://open.spotify.com/album/1eavjCo7IrgRfLAiSy0cSM) | 3:40 |
+| 3 | [Barracuda](https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Little Queen](https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF) | 4:21 |
+| 4 | [One Last Sunset \- 2004 Remaster](https://open.spotify.com/track/3SSng89sBMtu8dmuMH97mf) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [Killswitch Engage \(Expanded Edition\) \[2004 Remaster\]](https://open.spotify.com/album/1MgyBHsiad6REK9veCUATT) | 3:49 |
+| 5 | [The Element of One](https://open.spotify.com/track/5M4V45fWkpBq9ELxkG7Tnz) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [Alive or Just Breathing \(Topshelf Edition\)](https://open.spotify.com/album/7BFo7PKlK9oCPJVPEzNJy7) | 4:08 |
+| 6 | [Masterpiece](https://open.spotify.com/track/0MF9Ou33Xrn2bcGio8QKvM) | [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9) | [Masterpiece](https://open.spotify.com/album/6373Y9u2AdwwlriIYwnsYg) | 2:27 |
+| 7 | [Tatuajes](https://open.spotify.com/track/57dG9il4j7Hi7G8Cqgi0Ts) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con Mariachi](https://open.spotify.com/album/7Ml2mSF97d0zz3mDCKdx9M) | 3:31 |
+| 8 | [Nerve](https://open.spotify.com/track/5ha26QNB14OfAVXRltktnu) | [Soilwork](https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx) | [Stabbing the drama](https://open.spotify.com/album/5paSnseHzLVGT2a0qucycX) | 3:38 |
+| 9 | [Sever](https://open.spotify.com/track/5Mz3EKdoO6ZqjUKsaKZdNn) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI) | [Lucidity](https://open.spotify.com/album/57bvcWwg4FSZSqAm7scTWv) | 4:51 |
+| 10 | [A Penny For Your Thoughts](https://open.spotify.com/track/3quSErRei0EBupQnK6ze5h) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [A Penny For Your Thoughts](https://open.spotify.com/album/7b9pX2SFotCMRcfU3PYvPW) | 1:38 |
+| 11 | [Seventeen Ain't So Sweet](https://open.spotify.com/track/5IDX0MHaL3YTD53qWDphYZ) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [Don't You Fake It](https://open.spotify.com/album/6TyPSzd5rA2rQ9yLJJ1Gg2) | 3:22 |
+| 12 | [Ruby Tuesday \- Live](https://open.spotify.com/track/0Y4YtiiOeHlaoLvJ2GVHtT) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [The Rolling Stones Singles Box Set \(1971\-2006\) \[Sampler\]](https://open.spotify.com/album/6In2W0PN0sp3DjhjmbRuQ5) | 4:15 |
 
-Snapshot ID: `MTAwLGFmZWU1ZmQ4NjFmOWRiYmNmNGE2ODc2YzQxNDY0NjNkMjVhZmFkMGM=`
+Snapshot ID: `MTAxLDlmNTUyMWM4OWYwNTE3YjY2MjRiMWI1ZjcwZWEzNmQzMGVlNGU3MDM=`

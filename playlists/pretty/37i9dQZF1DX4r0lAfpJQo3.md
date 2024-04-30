@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4r0lAfpJQo3.md) - [plain]
 
 > All bad things must come to an end\. Listen to the music inspired by Breaking Bad, curated by Vince Gilligan and Thomas Golubić.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,174 likes - 62 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,218 likes - 62 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

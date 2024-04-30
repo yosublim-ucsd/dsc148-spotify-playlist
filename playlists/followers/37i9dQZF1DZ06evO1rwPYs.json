@@ -1,7 +1,7 @@
 {
-  "2024-04-29": 101368,
+  "2024-04-30": 101335,
   "date_first_scraped": "2021-12-29",
-  "description": "This Is Celia Cruz. Los temas esenciales, todos en una lista.",
+  "description": "This is Celia Cruz. The essential tracks, all in one playlist.",
   "name": "This Is Celia Cruz",
   "tracks": [
     {
@@ -307,7 +307,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 161386,
       "name": "Caramelos",
       "url": "https://open.spotify.com/track/76kSyrC39OifBZweY6JdP8"
@@ -631,7 +631,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-28",
+      "date_removed": null,
       "duration_ms": 174626,
       "name": "Desvelo De Amor",
       "url": "https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo"
@@ -649,7 +649,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 153400,
       "name": "Dile Que Por M\u00ed No Tema",
       "url": "https://open.spotify.com/track/2nti8TuVhtp3Gk53WUnnM4"
@@ -1575,7 +1575,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-28",
+      "date_removed": null,
       "duration_ms": 167400,
       "name": "Me Voy A Pinar Del R\u00edo",
       "url": "https://open.spotify.com/track/14uucuWFa78hDSkfqq0uoE"
@@ -1783,7 +1783,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 156866,
       "name": "No Encuentro Palabras",
       "url": "https://open.spotify.com/track/43T1DZEtE6edC62ojuU5Dw"
@@ -2673,7 +2673,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-28",
+      "date_removed": null,
       "duration_ms": 159266,
       "name": "Y Mi Negro Esta Cansao",
       "url": "https://open.spotify.com/track/2lQL2ZIO7m4dE3bMAymTIj"

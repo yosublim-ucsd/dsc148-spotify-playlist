@@ -1,12 +1,12 @@
 {
-  "description": "This is: Arooj Aftab. Alle wichtigen Tracks in einer Playlist.",
-  "num_followers": 6422,
+  "description": "This is Arooj Aftab. The essential tracks, all in one playlist.",
+  "num_followers": 6429,
   "original_name": "This Is Arooj Aftab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDE3NjAwMCwwMDAwMDAwMDY0YWI5NTBkYjVlODNlZjg4NGY0MmU2YjlmMTkyNWEx",
+  "snapshot_id": "MTcxNDI2MjQwMCwwMDAwMDAwMGYwMjViMmYxNjM2ZGE5NzU1YWMxM2E3MWRjZmQ0NzY1",
   "tracks": [
     {
       "added_at": null,
@@ -470,15 +470,11 @@
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        },
-        {
-          "name": "\u0410\u043d\u043d\u0430 \u0411\u043e",
-          "url": "https://open.spotify.com/artist/7yK1qjHgjhzJIJj5jGqLvS"
         }
       ],
-      "duration_ms": 211248,
-      "name": "Abode",
-      "url": "https://open.spotify.com/track/1QJp3p6CpuXcYdKx4DrS4I"
+      "duration_ms": 119500,
+      "name": "Beyond the Smoke Screen",
+      "url": "https://open.spotify.com/track/2xdoRmz28lop5nqCc4v1GC"
     },
     {
       "added_at": null,
@@ -550,11 +546,15 @@
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "\u0410\u043d\u043d\u0430 \u0411\u043e",
+          "url": "https://open.spotify.com/artist/7yK1qjHgjhzJIJj5jGqLvS"
         }
       ],
-      "duration_ms": 119500,
-      "name": "Beyond the Smoke Screen",
-      "url": "https://open.spotify.com/track/2xdoRmz28lop5nqCc4v1GC"
+      "duration_ms": 211248,
+      "name": "Abode",
+      "url": "https://open.spotify.com/track/1QJp3p6CpuXcYdKx4DrS4I"
     },
     {
       "added_at": null,

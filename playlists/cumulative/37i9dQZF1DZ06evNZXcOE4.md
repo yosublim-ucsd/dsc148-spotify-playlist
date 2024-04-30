@@ -2,7 +2,7 @@
 
 ### [This Is Jane's Addiction](https://open.spotify.com/playlist/37i9dQZF1DZ06evNZXcOE4)
 
-> This is: Jane's Addiction\. Alle wichtigen Tracks in einer Playlist.
+> This is Jane's Addiction\. The essential tracks, all in one playlist.
 
 58 songs - 4 hr 21 min
 

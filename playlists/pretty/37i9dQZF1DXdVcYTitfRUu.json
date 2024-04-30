@@ -1,6 +1,6 @@
 {
   "description": "\uac10\uc131 \uac00\ub4dd\ud55c \ub178\ub798\uc640 \ud568\uaed8 \ubd80\ub4dc\ub7fd\uac8c \ud578\ub4e4\uc744 \ub3cc\ub824\ubcf4\uc138\uc694.",
-  "num_followers": 9743,
+  "num_followers": 9745,
   "original_name": "\ub4dc\ub77c\uc774\ube59 \uac10\uc131+ (K-Pop Emotional Driving)",
   "owner": {
     "name": "Spotify",
@@ -63,22 +63,6 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
-        "name": "Bam Yang Gang",
-        "url": "https://open.spotify.com/album/4QJZzFdGz2YlPZEHAlAJ6O"
-      },
-      "artists": [
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 146197,
-      "name": "Bam Yang Gang",
-      "url": "https://open.spotify.com/track/5juCu4WFTFRZ2XilopAMTy"
-    },
-    {
-      "added_at": "2024-03-20 03:55:56",
-      "album": {
         "name": "Queen of Tears (Original Television Soundtrack), Pt.1",
         "url": "https://open.spotify.com/album/79h63Z1mzFq1ssg3tCXyzF"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 213773,
       "name": "The Reasons of My Smiles",
       "url": "https://open.spotify.com/track/1amowbJ9HHFFSFdg2ubM7G"
+    },
+    {
+      "added_at": "2024-03-20 03:55:56",
+      "album": {
+        "name": "Bam Yang Gang",
+        "url": "https://open.spotify.com/album/4QJZzFdGz2YlPZEHAlAJ6O"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 146197,
+      "name": "Bam Yang Gang",
+      "url": "https://open.spotify.com/track/5juCu4WFTFRZ2XilopAMTy"
     },
     {
       "added_at": "2024-03-20 03:55:56",
@@ -159,18 +159,18 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
-        "name": "Stuck In The Middle",
-        "url": "https://open.spotify.com/album/7anlDz5EpVJ4aXmWvaSbzM"
+        "name": "Queen of Tears (Original Television Soundtrack), Pt.2",
+        "url": "https://open.spotify.com/album/0hJiHeURXoUEZMjiUxpbc6"
       },
       "artists": [
         {
-          "name": "BABYMONSTER",
-          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
         }
       ],
-      "duration_ms": 246236,
-      "name": "Stuck In The Middle",
-      "url": "https://open.spotify.com/track/1Ad4anaX6hJyfZvVDkrKQg"
+      "duration_ms": 235506,
+      "name": "Tell Me It's Not a Dream",
+      "url": "https://open.spotify.com/track/7nxoUuqcsDfv3PsPGeciWy"
     },
     {
       "added_at": "2024-03-20 03:55:56",
@@ -191,18 +191,18 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
-        "name": "Queen of Tears (Original Television Soundtrack), Pt.2",
-        "url": "https://open.spotify.com/album/0hJiHeURXoUEZMjiUxpbc6"
+        "name": "Stuck In The Middle",
+        "url": "https://open.spotify.com/album/7anlDz5EpVJ4aXmWvaSbzM"
       },
       "artists": [
         {
-          "name": "10CM",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
         }
       ],
-      "duration_ms": 235506,
-      "name": "Tell Me It's Not a Dream",
-      "url": "https://open.spotify.com/track/7nxoUuqcsDfv3PsPGeciWy"
+      "duration_ms": 246236,
+      "name": "Stuck In The Middle",
+      "url": "https://open.spotify.com/track/1Ad4anaX6hJyfZvVDkrKQg"
     },
     {
       "added_at": "2024-03-20 03:55:56",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
-        "name": "WINTER of aespa X MY DEMON",
-        "url": "https://open.spotify.com/album/7EXrNMKKkkE3hRBpeZcT6y"
-      },
-      "artists": [
-        {
-          "name": "WINTER",
-          "url": "https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI"
-        }
-      ],
-      "duration_ms": 254960,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/4yZAAPTLlEb60Ny7bhepqx"
-    },
-    {
-      "added_at": "2024-03-20 03:55:56",
-      "album": {
         "name": "Dandelion",
         "url": "https://open.spotify.com/album/5FvhtKgxtrYHULhgdwPTDO"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 274400,
       "name": "Dandelion",
       "url": "https://open.spotify.com/track/6Gxl4O8CQIHsYPlCMnimG7"
+    },
+    {
+      "added_at": "2024-03-20 03:55:56",
+      "album": {
+        "name": "WINTER of aespa X MY DEMON",
+        "url": "https://open.spotify.com/album/7EXrNMKKkkE3hRBpeZcT6y"
+      },
+      "artists": [
+        {
+          "name": "WINTER",
+          "url": "https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI"
+        }
+      ],
+      "duration_ms": 254960,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/4yZAAPTLlEb60Ny7bhepqx"
     },
     {
       "added_at": "2024-03-20 03:55:56",
@@ -431,6 +431,22 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
+        "name": "Romantic Doctor 3 OST Part.4",
+        "url": "https://open.spotify.com/album/76EcPCpVlaS2IJWTuQgGmf"
+      },
+      "artists": [
+        {
+          "name": "SEUNGKWAN",
+          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
+        }
+      ],
+      "duration_ms": 229714,
+      "name": "Still You",
+      "url": "https://open.spotify.com/track/7pIpkUJOiFghCDLxono6qC"
+    },
+    {
+      "added_at": "2024-03-20 03:55:56",
+      "album": {
         "name": "Alchemy of Souls, Pt. 1 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5suBD7aDfNiIkbUvYaHtfR"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 228293,
       "name": "Blue Flower",
       "url": "https://open.spotify.com/track/4Xjw06dhxAVtsnug1ZpN76"
-    },
-    {
-      "added_at": "2024-03-20 03:55:56",
-      "album": {
-        "name": "Romantic Doctor 3 OST Part.4",
-        "url": "https://open.spotify.com/album/76EcPCpVlaS2IJWTuQgGmf"
-      },
-      "artists": [
-        {
-          "name": "SEUNGKWAN",
-          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
-        }
-      ],
-      "duration_ms": 229714,
-      "name": "Still You",
-      "url": "https://open.spotify.com/track/7pIpkUJOiFghCDLxono6qC"
     },
     {
       "added_at": "2024-03-20 03:55:56",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
-        "name": "Tell Me That You Love Me, Pt. 4 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3c6lzwgHhaIDSjPRz9zjCq"
-      },
-      "artists": [
-        {
-          "name": "SEUNGKWAN",
-          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
-        }
-      ],
-      "duration_ms": 250440,
-      "name": "The Moment You Arrive",
-      "url": "https://open.spotify.com/track/74jC2OHiPnRCCCSdBGXHVo"
-    },
-    {
-      "added_at": "2024-03-20 03:55:56",
-      "album": {
         "name": "If you lovingly call my name (GyeongseoYeji x Jeon Gunho)",
         "url": "https://open.spotify.com/album/1QD2UJupusQ9zBsldpvS3d"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 231338,
       "name": "If you lovingly call my name",
       "url": "https://open.spotify.com/track/0tgxvf4rqBBeEB54h0nnRD"
+    },
+    {
+      "added_at": "2024-03-20 03:55:56",
+      "album": {
+        "name": "Tell Me That You Love Me, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3c6lzwgHhaIDSjPRz9zjCq"
+      },
+      "artists": [
+        {
+          "name": "SEUNGKWAN",
+          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
+        }
+      ],
+      "duration_ms": 250440,
+      "name": "The Moment You Arrive",
+      "url": "https://open.spotify.com/track/74jC2OHiPnRCCCSdBGXHVo"
     },
     {
       "added_at": "2024-03-20 03:55:56",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
-        "name": "Circle - The 1st Album",
-        "url": "https://open.spotify.com/album/0oJAypAuPQSssiLTvhNmxJ"
-      },
-      "artists": [
-        {
-          "name": "ONEW",
-          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
-        }
-      ],
-      "duration_ms": 197226,
-      "name": "O (Circle)",
-      "url": "https://open.spotify.com/track/7qVWT4IvUK7xI82QmaPnwa"
-    },
-    {
-      "added_at": "2024-03-20 03:55:56",
-      "album": {
         "name": "Heart",
         "url": "https://open.spotify.com/album/3MGuNgtEJTCkgHtiMFfARP"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 257026,
       "name": "Heart",
       "url": "https://open.spotify.com/track/1BuA7GJXWD6P9LMShz7YSt"
+    },
+    {
+      "added_at": "2024-03-20 03:55:56",
+      "album": {
+        "name": "Circle - The 1st Album",
+        "url": "https://open.spotify.com/album/0oJAypAuPQSssiLTvhNmxJ"
+      },
+      "artists": [
+        {
+          "name": "ONEW",
+          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
+        }
+      ],
+      "duration_ms": 197226,
+      "name": "O (Circle)",
+      "url": "https://open.spotify.com/track/7qVWT4IvUK7xI82QmaPnwa"
     },
     {
       "added_at": "2024-03-20 03:55:56",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
-        "name": "her",
-        "url": "https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1"
-      },
-      "artists": [
-        {
-          "name": "Junggigo",
-          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
-        }
-      ],
-      "duration_ms": 155546,
-      "name": "her",
-      "url": "https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy"
-    },
-    {
-      "added_at": "2024-03-20 03:55:56",
-      "album": {
         "name": "Because I Don't Love You",
         "url": "https://open.spotify.com/album/7LX3cJhfSEBEX8zhw1LrKU"
       },
@@ -1271,18 +1255,18 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
-        "name": "LOVE.",
-        "url": "https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU"
+        "name": "her",
+        "url": "https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1"
       },
       "artists": [
         {
-          "name": "Def.",
-          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
+          "name": "Junggigo",
+          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
         }
       ],
-      "duration_ms": 172674,
-      "name": "I JUST WANNA KNOW",
-      "url": "https://open.spotify.com/track/6ZnKQpqaYx6BResKaVBfmc"
+      "duration_ms": 155546,
+      "name": "her",
+      "url": "https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy"
     },
     {
       "added_at": "2024-03-20 03:55:56",
@@ -1303,18 +1287,18 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
-        "name": "Beige coat",
-        "url": "https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc"
+        "name": "LOVE.",
+        "url": "https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU"
       },
       "artists": [
         {
-          "name": "Grizzly",
-          "url": "https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4"
+          "name": "Def.",
+          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
         }
       ],
-      "duration_ms": 179080,
-      "name": "Beige coat",
-      "url": "https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm"
+      "duration_ms": 172674,
+      "name": "I JUST WANNA KNOW",
+      "url": "https://open.spotify.com/track/6ZnKQpqaYx6BResKaVBfmc"
     },
     {
       "added_at": "2024-03-20 03:55:56",
@@ -1331,6 +1315,22 @@
       "duration_ms": 238071,
       "name": "haeyo (2022)",
       "url": "https://open.spotify.com/track/0M4EDkH7RpbKlWwrZ9o17N"
+    },
+    {
+      "added_at": "2024-03-20 03:55:56",
+      "album": {
+        "name": "Beige coat",
+        "url": "https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc"
+      },
+      "artists": [
+        {
+          "name": "Grizzly",
+          "url": "https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4"
+        }
+      ],
+      "duration_ms": 179080,
+      "name": "Beige coat",
+      "url": "https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm"
     },
     {
       "added_at": "2024-03-20 03:55:56",

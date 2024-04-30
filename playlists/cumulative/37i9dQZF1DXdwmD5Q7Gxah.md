@@ -4,7 +4,7 @@
 
 > guarantee you'll find a new song to listen to on repeat\. cover: chappell roan
 
-2,742 songs - 6 day 3 hr 42 min
+2,743 songs - 6 day 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -746,6 +746,7 @@
 | [Enough](https://open.spotify.com/track/3wJYYJMdAAfMc2eKA4gxj6) | [Nolie](https://open.spotify.com/artist/78c9TyMXvVbqO19cEO0OsI) | [Enough](https://open.spotify.com/album/5qbW5namU5OjOws5zMfcKD) | 2:15 | 2020-10-16 | 2021-04-02 |
 | [Entropy](https://open.spotify.com/track/5zmKtYP6HI3SItzAVBUEIH) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Entropy](https://open.spotify.com/album/2EXJutCpZBOaCZFA4rw9D7) | 3:41 | 2022-06-09 | 2022-07-19 |
 | [Erase](https://open.spotify.com/track/3B5iO2B4HxZDXfmIGrQq9z) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Erase](https://open.spotify.com/album/6DDLcNQXmKpWTW195gkI0d) | 2:24 | 2019-09-14 | 2019-11-14 |
+| [Erase / Rewind](https://open.spotify.com/track/3JfkNCiXjHEVkbFfCQ417E) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [Gran Turismo \(Remastered\)](https://open.spotify.com/album/5DiOwioOBqVCSH6IwGBXEc) | 3:38 | 2024-04-29 |  |
 | [Escalator](https://open.spotify.com/track/0FpsrB0Kivu69LD8TaywhD) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Escalator](https://open.spotify.com/album/15bXChIVRMbSDYDoDoz3bG) | 2:26 | 2021-06-12 | 2021-11-13 |
 | [Escape From The Killer 2008](https://open.spotify.com/track/0E3C9ry5VM5YqCZLdcE0Fj) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Escape From The Killer](https://open.spotify.com/album/3f8J1FJdPioQfUEG3FL2PG) | 3:26 | 2023-05-12 | 2023-08-16 |
 | [Espada Primo](https://open.spotify.com/track/1SnrSiotEZcuZvGWRLSBIp) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [Espada Primo](https://open.spotify.com/album/0Dw542vo3ipfUGWT5vS9Ou) | 2:40 | 2022-02-17 | 2022-04-09 |

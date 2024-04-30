@@ -4,7 +4,7 @@
 
 > Enjoy music from "Detective Conan"! 映画「名探偵コナン」シリーズの世界を彩る音楽をプレイリストで。キャンペーン特設ページは<a href="https://movie.byspotify.com/conan\-2024">こちら</a>。©2024 青山剛昌／名探偵コナン製作委員会
 
-137 songs - 10 hr 22 min
+138 songs - 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,8 @@
 | [真っ赤なLip](https://open.spotify.com/track/7vRTQ342AtNLRTFZ0Yy4ys) | [WANDS](https://open.spotify.com/artist/4iaPh4BzUKBQuunyMKVxU7) | [真っ赤なLip【名探偵コナン盤】](https://open.spotify.com/album/6NAyAlAOkypVZbi4CzrIFR) | 4:43 | 2022-10-01 | 2023-03-22 |
 | [神風エクスプレス](https://open.spotify.com/track/552jc1I4VNfVqe3TAug8s7) | [焚吐 × みやかわくん](https://open.spotify.com/artist/098p250C3y5Agp0vjwQa9d) | [神風エクスプレス](https://open.spotify.com/album/0eANLf2dvwSJIC0DexE4Uk) | 4:05 | 2022-10-01 | 2023-03-22 |
 | [空っぽの心](https://open.spotify.com/track/66EyebDoG7vr9AzvRbJ9H0) | [SARD UNDERGROUND](https://open.spotify.com/artist/7awtWS4uPN7SUSxSRilkMa) | [空っぽの心](https://open.spotify.com/album/6sCZgnJFMkZsm0YaEpYTi3) | 3:16 | 2022-10-01 | 2023-03-22 |
-| [第2回 高山みなみ×山口勝平「劇場版の収録はお祭り気分！」](https://open.spotify.com/episode/0WnezOA9NoA1o3dRAwJ9o3) | [名探偵コナン 100万ドルの五稜星 \- ANIZONE特別編](https://open.spotify.com/show/71KYRSpbEPEKsMYNF4qUik) | [名探偵コナン 100万ドルの五稜星 \- ANIZONE特別編](https://open.spotify.com/album/71KYRSpbEPEKsMYNF4qUik) | 31:59 | 2024-04-22 |  |
+| [第2回 高山みなみ×山口勝平「劇場版の収録はお祭り気分！」](https://open.spotify.com/episode/0WnezOA9NoA1o3dRAwJ9o3) | [名探偵コナン 100万ドルの五稜星 \- ANIZONE特別編](https://open.spotify.com/show/71KYRSpbEPEKsMYNF4qUik) | [名探偵コナン 100万ドルの五稜星 \- ANIZONE特別編](https://open.spotify.com/album/71KYRSpbEPEKsMYNF4qUik) | 31:59 | 2024-04-22 | 2024-04-30 |
+| [第3回 高山みなみ×堀川りょう「服部平次スイッチ・オン！本気モードのりょうさん！」](https://open.spotify.com/episode/6lOUgk9NUICu5wqy1yppg6) | [名探偵コナン 100万ドルの五稜星 \- ANIZONE特別編](https://open.spotify.com/show/71KYRSpbEPEKsMYNF4qUik) | [名探偵コナン 100万ドルの五稜星 \- ANIZONE特別編](https://open.spotify.com/album/71KYRSpbEPEKsMYNF4qUik) | 29:38 | 2024-04-30 |  |
 | [美しい鰭](https://open.spotify.com/track/3RauRsiIxUOQTS8h9sVWcP) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [美しい鰭](https://open.spotify.com/album/5npmI7gA2KMh68DwRjNSj9) | 3:29 | 2023-04-09 |  |
 | [羽](https://open.spotify.com/track/6iBWf3UnEdcHwdWKk8emh2) | [Koshi Inaba](https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls) | [羽](https://open.spotify.com/album/2ssJzWGerP5kY2GGqoWM9l) | 3:45 | 2022-10-01 | 2023-03-22 |
 | [翼を広げて](https://open.spotify.com/track/6rqejjcfbRUSQ0WXhV2bg6) | [ZARD](https://open.spotify.com/artist/2NKadilSWCwuqGp5QoDeUS) | [翼を広げて / 愛は暗闇の中で](https://open.spotify.com/album/2VPyIHpSzemIBnEiTrKylf) | 4:30 | 2022-10-01 |  |

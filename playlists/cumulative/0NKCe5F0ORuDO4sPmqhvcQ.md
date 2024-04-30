@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-603 songs - 1 day 9 hr 52 min
+604 songs - 1 day 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -592,6 +592,7 @@
 | [While My Waves Wonder \- Slow Magic Remix](https://open.spotify.com/track/5D6DcNe4mRDejrA68zyXTH) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms), [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT) | [While My Waves Wonder \(Slow Magic Remix\)](https://open.spotify.com/album/2SRBOc1uiyQKVOrWesetuH) | 4:17 | 2022-01-18 | 2022-02-05 |
 | [White Honda](https://open.spotify.com/track/57uA9JRQxD9BoEx3N6FC8N) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6), [Lecx Stacy](https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO) | [White Honda](https://open.spotify.com/album/24ihEz3AzFTqxVH2SfGI0u) | 3:15 | 2022-06-24 | 2023-10-06 |
 | [White Lie](https://open.spotify.com/track/05W5WSaPyW5GCiNY5gOuyH) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k) | [White Lie](https://open.spotify.com/album/6g3FQBSHayd37yO3a77AIH) | 3:18 | 2023-11-17 | 2024-03-23 |
+| [Wide Awake](https://open.spotify.com/track/3Xan57kXn4YNZCK91l8qZe) | [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97), [sød ven](https://open.spotify.com/artist/6Gt5kTPVe7tuYK44gRPVdJ) | [Wide Awake](https://open.spotify.com/album/0AavjOVECKCakzcwPQ7D8B) | 4:08 | 2024-04-29 |  |
 | [Wide Awake](https://open.spotify.com/track/0BJRJBpg3tnQ2KQRgjclec) | [Maddy O'Neal](https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF), [Torii Wolf](https://open.spotify.com/artist/3UQokJfoLRXZaSF111Vpyz) | [Mind Over Matter](https://open.spotify.com/album/7A6ctoMJhFjeQ0XBYDgTqX) | 3:15 | 2023-09-19 | 2023-10-06 |
 | [Wide Awake](https://open.spotify.com/track/4lKSHi12cKgQlXwkrPHQ6s) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Wide Awake](https://open.spotify.com/album/4x2RP82FqTREo8eBp0LgI6) | 3:35 | 2022-06-29 | 2024-03-23 |
 | [Wide Awake \(feat\. Charlie Houston\) \- Devault Remix](https://open.spotify.com/track/0OXTIle1hA45EBBQJ0ktYG) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR), [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [Wide Awake \(Devault Remix\)](https://open.spotify.com/album/2qTLUHWEVu7AaNUpcrMkwr) | 4:33 | 2022-09-20 | 2023-10-06 |

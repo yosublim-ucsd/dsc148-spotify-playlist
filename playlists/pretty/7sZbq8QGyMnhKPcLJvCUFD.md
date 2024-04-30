@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-[NCS](https://open.spotify.com/user/nocopyrightsounds) - 734,745 likes - 105 songs - 5 hr 14 min
+[NCS](https://open.spotify.com/user/nocopyrightsounds) - 734,290 likes - 105 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 | 104 | [Calling For You](https://open.spotify.com/track/5AvbixdcGe6TOwfte5lB3A) | [Venjent](https://open.spotify.com/artist/7xu08SujAqLp7BGinS96vd), [Oktae](https://open.spotify.com/artist/4PxFr57PZWOCVJ5HkJyaoD) | [Calling For You](https://open.spotify.com/album/5d0hLlk0kKwzBkiF0Ch4lV) | 3:41 |
 | 105 | [Pick Up The Pieces](https://open.spotify.com/track/65iqcLmrli2xc7L84ylh4w) | [MANIA](https://open.spotify.com/artist/5YBOXdKLNBdfGKGnQEYn3c), [Cesar Santalo](https://open.spotify.com/artist/0GOf63Qs5qGm2K0SJ8EgL2) | [Pick Up The Pieces](https://open.spotify.com/album/1tVECFTaW2JwVnA4PGbGc5) | 2:51 |
 
-Snapshot ID: `NTY2OSw1NjI1YzIxN2QxNzNkNDQxMGNjZDhjMDNkMDY2ZTFkNzRkZDRlMmY1`
+Snapshot ID: `NTY3MSw3ZGEwNDFhNzg0ZTJiYTFjZGVkZmUzZmE2YmRmNTY1N2ViODU3YTdk`

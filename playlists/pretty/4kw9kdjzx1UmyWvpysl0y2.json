@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 126060,
+  "num_followers": 126029,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDY4MCxiZGZmZWVkNTRmZjExNDlhOWNjNGQ4MmNmMWEyMzRjZGJjMmI3MGJh",
+  "snapshot_id": "NDY4MSxiYmExZDJhNzI4ZTQzMTkxOWIwZTc4YTg5ODk4MDJjN2ZhOTE2ZDJm",
   "tracks": [
+    {
+      "added_at": "2024-04-29 17:04:49",
+      "album": {
+        "name": "OUR STARS",
+        "url": "https://open.spotify.com/album/26T9baKkEEWN03XeiMSvvN"
+      },
+      "artists": [
+        {
+          "name": "THIRST",
+          "url": "https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde"
+        }
+      ],
+      "duration_ms": 147200,
+      "name": "OUR STARS",
+      "url": "https://open.spotify.com/track/5jKmm01l9eMLiQusd6qpKi"
+    },
     {
       "added_at": "2024-04-26 15:06:25",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 > Hip\-Hop's hottest from Australia, New Zealand and beyond\. Cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,306 likes - 74 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,223 likes - 74 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

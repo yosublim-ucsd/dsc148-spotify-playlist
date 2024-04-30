@@ -1,5 +1,5 @@
 {
-  "2024-04-29": 376217,
+  "2024-04-30": 376239,
   "date_first_scraped": "2021-12-21",
   "description": "This is the best of ska, new and classic. Cover: La Floripondio",
   "name": "The Essential Ska",
@@ -559,7 +559,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 267346,
       "name": "Blessed with a Melody",
       "url": "https://open.spotify.com/track/2VOPWmLCCfSKDtxiQBxKsx"
@@ -1278,6 +1278,24 @@
     },
     {
       "album": {
+        "name": "Firme",
+        "url": "https://open.spotify.com/album/4x1jK4f9XAu4dhFk3NCqsD"
+      },
+      "artists": [
+        {
+          "name": "Voodoo Glow Skulls",
+          "url": "https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183200,
+      "name": "Fat Randy",
+      "url": "https://open.spotify.com/track/1iSMI7Z9ZGjuYJDO8uKfZe"
+    },
+    {
+      "album": {
         "name": "Fear",
         "url": "https://open.spotify.com/album/4mxF6EtrFVnX5PAZJVOpH7"
       },
@@ -1553,7 +1571,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 209594,
       "name": "Good Times",
       "url": "https://open.spotify.com/track/7GcBhU9KW2cdxWQ39VY0Ri"
@@ -3081,6 +3099,24 @@
       "duration_ms": 160173,
       "name": "Random I Am",
       "url": "https://open.spotify.com/track/6KD0rivlHgYNgjGtA3pFIW"
+    },
+    {
+      "album": {
+        "name": "Tears of a Clown",
+        "url": "https://open.spotify.com/album/3ySSPA5ZmFTi0q9HbdpKtw"
+      },
+      "artists": [
+        {
+          "name": "The Beat",
+          "url": "https://open.spotify.com/artist/4R90PNicCsCsEoRm8XwiMS"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167457,
+      "name": "Ranking Full Stop",
+      "url": "https://open.spotify.com/track/64LfShvHappqFPT3Ftwbjq"
     },
     {
       "album": {

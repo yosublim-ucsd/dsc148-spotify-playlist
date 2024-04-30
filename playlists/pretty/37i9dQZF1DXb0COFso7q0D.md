@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 
 > The playlist sin fronteras, powering <a href="spotify:genre:0JQ5DAqbMKFEJHdEnquSi1">BelicoFest</a>🔥Click on the links to enjoy the setlists of <a href="spotify:playlist:37i9dQZF1DWVHIYChxh9sq">Oscar Maydon</a>,<a href="spotify:playlist:37i9dQZF1DWZ2jQBazXjNj">Luis R Conriquez</a> & <a href="spotify:playlist:37i9dQZF1DXbApqiewDQsL">Gerardo Ortiz </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,077,863 likes - 69 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,076,270 likes - 69 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 179764,
+  "num_followers": 179829,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
@@ -953,6 +953,26 @@
       "url": "https://open.spotify.com/track/249ezY4pPzbgSgxfwnHrnT"
     },
     {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "The Healer",
+        "url": "https://open.spotify.com/album/2DaKlxr5PKB4rFeA3GM00h"
+      },
+      "artists": [
+        {
+          "name": "Night Tales",
+          "url": "https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R"
+        },
+        {
+          "name": "LAR",
+          "url": "https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0"
+        }
+      ],
+      "duration_ms": 232439,
+      "name": "The Healer",
+      "url": "https://open.spotify.com/track/5uVBlFshng4s9kVOxSqWrk"
+    },
+    {
       "added_at": "2024-03-15 00:01:00",
       "album": {
         "name": "Sehnsucht",
@@ -975,26 +995,6 @@
       "duration_ms": 236235,
       "name": "Sehnsucht",
       "url": "https://open.spotify.com/track/7MtWt7agVZGngXRPhH7E9u"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
-        "name": "The Healer",
-        "url": "https://open.spotify.com/album/2DaKlxr5PKB4rFeA3GM00h"
-      },
-      "artists": [
-        {
-          "name": "Night Tales",
-          "url": "https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R"
-        },
-        {
-          "name": "LAR",
-          "url": "https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0"
-        }
-      ],
-      "duration_ms": 232439,
-      "name": "The Healer",
-      "url": "https://open.spotify.com/track/5uVBlFshng4s9kVOxSqWrk"
     },
     {
       "added_at": "2024-03-01 12:45:26",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2024-03-01 12:45:26",
       "album": {
+        "name": "Lost Gravity EP",
+        "url": "https://open.spotify.com/album/6tQSndkw5ajwFDt0u1Cb1W"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 305401,
+      "name": "Lost Gravity",
+      "url": "https://open.spotify.com/track/4UwtgYX9wp4z9zLIfzVviV"
+    },
+    {
+      "added_at": "2024-03-01 12:45:26",
+      "album": {
         "name": "Holding On",
         "url": "https://open.spotify.com/album/7eWioRNyXGjl0KnIeZIeHI"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 238003,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/4XZk8j2tyVDMoXjmblznuu"
-    },
-    {
-      "added_at": "2024-03-01 12:45:26",
-      "album": {
-        "name": "Lost Gravity EP",
-        "url": "https://open.spotify.com/album/6tQSndkw5ajwFDt0u1Cb1W"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        }
-      ],
-      "duration_ms": 305401,
-      "name": "Lost Gravity",
-      "url": "https://open.spotify.com/track/4UwtgYX9wp4z9zLIfzVviV"
     },
     {
       "added_at": "2024-04-12 00:01:00",
@@ -1125,26 +1125,6 @@
       "url": "https://open.spotify.com/track/0gT8d4DW5wDlJahSlLiuda"
     },
     {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
-        "name": "Maasai",
-        "url": "https://open.spotify.com/album/51VRG6BjxHM2nZ9a7qEbPD"
-      },
-      "artists": [
-        {
-          "name": "Franky Wah",
-          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
-        },
-        {
-          "name": "Robin M",
-          "url": "https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7"
-        }
-      ],
-      "duration_ms": 193770,
-      "name": "Intina",
-      "url": "https://open.spotify.com/track/0J7Doa7oWtMqSNTifFjpZJ"
-    },
-    {
       "added_at": "2024-03-15 00:01:00",
       "album": {
         "name": "Paint My Tomorrow",
@@ -1167,6 +1147,26 @@
       "duration_ms": 150000,
       "name": "Paint My Tomorrow",
       "url": "https://open.spotify.com/track/7FI9lWbsdyv5BGnO8eBBgw"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "Maasai",
+        "url": "https://open.spotify.com/album/51VRG6BjxHM2nZ9a7qEbPD"
+      },
+      "artists": [
+        {
+          "name": "Franky Wah",
+          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+        },
+        {
+          "name": "Robin M",
+          "url": "https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7"
+        }
+      ],
+      "duration_ms": 193770,
+      "name": "Intina",
+      "url": "https://open.spotify.com/track/0J7Doa7oWtMqSNTifFjpZJ"
     },
     {
       "added_at": "2024-03-15 00:01:00",

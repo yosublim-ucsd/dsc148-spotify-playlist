@@ -1126,7 +1126,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 255320,
       "name": "Genesis",
       "url": "https://open.spotify.com/track/4sCYKMatyhazyy6r2N7Hp2"
@@ -2308,6 +2308,24 @@
       "duration_ms": 251266,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/4P6n0udLAnmCNXVcobYbsK"
+    },
+    {
+      "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/7x6wYKbZUU2BL3N8ZWwM3q"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233817,
+      "name": "Ode to Viceroy",
+      "url": "https://open.spotify.com/track/601KiLiZtBJRTXBrTjeieP"
     },
     {
       "album": {

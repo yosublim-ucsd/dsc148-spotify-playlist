@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute Manu e mais mulheres no volume máximo! Co\-curadoria com Manu
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,321 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,361 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 43 | [Total Solidão \(Total Eclipse Of The Heart\)](https://open.spotify.com/track/3hFNyCI09fIhHjcGSbcvRa) | [Lari Ferreira](https://open.spotify.com/artist/64z5b9YLNYN0a7dAa0mQ3y), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Total Solidão \(Total Eclipse Of The Heart\)](https://open.spotify.com/album/1ORNkfyJadCeX7Lzma3GSz) | 2:51 |
 | 44 | [A Prova de Ex](https://open.spotify.com/track/0RnGEYHURSUAgii5QS7lcx) | [Anna Catarina](https://open.spotify.com/artist/5ejwC1lGyvPsz5FGaqHsow) | [Ao Vivo em Nazaré das Farinhas](https://open.spotify.com/album/2ZNIQZydZyHNGUNA9djAD6) | 2:27 |
 | 45 | [Sou Refém](https://open.spotify.com/track/05kJFgINuv5Gb59tkmx9bg) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Sou Refém](https://open.spotify.com/album/3KkmeZvZG52Lg2mDIeYclW) | 3:23 |
-| 46 | [Amor Volta Pra Mim](https://open.spotify.com/track/6M0IofPZ7mhkWmQrZuvnth) | [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox) | [Sofazin Sessions](https://open.spotify.com/album/58lBDiqXhSYW5eGEMu4vgc) | 2:30 |
-| 47 | [Assino com X / Do Outro Lado Da Cidade \- Ao Vivo](https://open.spotify.com/track/2PxkAKIQNYBO7RTKzhJMi5) | [Mikaely e Poliany](https://open.spotify.com/artist/4Hs8nCGN5OLyT1lIGQCkf3) | [Assino com X / Do Outro Lado Da Cidade \(Ao Vivo\)](https://open.spotify.com/album/1XVEi0YAuK5FcN4zIm03Gp) | 3:11 |
+| 46 | [Assino com X / Do Outro Lado Da Cidade \- Ao Vivo](https://open.spotify.com/track/2PxkAKIQNYBO7RTKzhJMi5) | [Mikaely e Poliany](https://open.spotify.com/artist/4Hs8nCGN5OLyT1lIGQCkf3) | [Assino com X / Do Outro Lado Da Cidade \(Ao Vivo\)](https://open.spotify.com/album/1XVEi0YAuK5FcN4zIm03Gp) | 3:11 |
+| 47 | [Amor Volta Pra Mim](https://open.spotify.com/track/6M0IofPZ7mhkWmQrZuvnth) | [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox) | [Sofazin Sessions](https://open.spotify.com/album/58lBDiqXhSYW5eGEMu4vgc) | 2:30 |
 | 48 | [Vapt Vupt](https://open.spotify.com/track/1Ccih7yKi46g9TK9KQmNGG) | [May & Karen](https://open.spotify.com/artist/2yAseb2cBbgnMELX4d3xUe) | [Sobre Nós Dois, Vol.1](https://open.spotify.com/album/1LZgTRSFgdjSj0HrnWS1ZP) | 2:22 |
 | 49 | [Garota](https://open.spotify.com/track/1GPpTfjZtYdCcrwBVVpyuV) | [Maria Clara](https://open.spotify.com/artist/2f7WgZUIxWzg5KRU5y0fVc) | [Garota](https://open.spotify.com/album/6XonAhian0PAQ0DWRkQY6Y) | 3:28 |
 | 50 | [Muvuca](https://open.spotify.com/track/6CgXbGugDy2XiZm8IwRgwN) | [Anna Catarina](https://open.spotify.com/artist/5ejwC1lGyvPsz5FGaqHsow) | [Muvuca](https://open.spotify.com/album/53bI27tNxFAmguVRUW1yAd) | 2:44 |

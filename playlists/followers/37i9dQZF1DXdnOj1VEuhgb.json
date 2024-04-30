@@ -1,5 +1,5 @@
 {
-  "2024-04-29": 1341979,
+  "2024-04-30": 1341346,
   "date_first_scraped": "2023-01-11",
   "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Motive",
   "name": "NKVT",
@@ -4435,10 +4435,28 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 164195,
       "name": "nept\u00fcn",
       "url": "https://open.spotify.com/track/0ms0jSQEDir8Lf5qrosvgd"
+    },
+    {
+      "album": {
+        "name": "taycan, Vol. 1",
+        "url": "https://open.spotify.com/album/4FNyPHSqsqmgMdc6s9Fv1W"
+      },
+      "artists": [
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "date_added": "2024-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164195,
+      "name": "nept\u00fcn",
+      "url": "https://open.spotify.com/track/7FFBcQzDcvwbcAVV8SqgsT"
     },
     {
       "album": {

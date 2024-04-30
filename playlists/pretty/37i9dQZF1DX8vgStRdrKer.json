@@ -1,6 +1,6 @@
 {
   "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:  <a href=https://open.spotify.com/artist/6tF26GNNvbuamuugTTBiGE?si=1KmYBCHhQCO7FRXiflcZNw>REFUGE WRSHP</a>",
-  "num_followers": 8751,
+  "num_followers": 8766,
   "original_name": "Redeemed",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,22 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
+        "name": "iZono Zami",
+        "url": "https://open.spotify.com/album/4DvwJkQT8zr14KE4YAYg1b"
+      },
+      "artists": [
+        {
+          "name": "Nomcebo Zikode",
+          "url": "https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6"
+        }
+      ],
+      "duration_ms": 319334,
+      "name": "iZono Zami",
+      "url": "https://open.spotify.com/track/43c0XDVLdVzxeu3lWrmxLp"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
         "name": "Faithful",
         "url": "https://open.spotify.com/album/0lHS9xhfCMCZ9fSgvPMrol"
       },
@@ -495,42 +511,6 @@
       "duration_ms": 375723,
       "name": "Faithful",
       "url": "https://open.spotify.com/track/0bWrdctV8cOeq7pZdcw3JC"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
-        "name": "iZono Zami",
-        "url": "https://open.spotify.com/album/4DvwJkQT8zr14KE4YAYg1b"
-      },
-      "artists": [
-        {
-          "name": "Nomcebo Zikode",
-          "url": "https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6"
-        }
-      ],
-      "duration_ms": 319334,
-      "name": "iZono Zami",
-      "url": "https://open.spotify.com/track/43c0XDVLdVzxeu3lWrmxLp"
-    },
-    {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
-        "name": "Worry About Nothing",
-        "url": "https://open.spotify.com/album/1VKHWGZru3AKfEzA9zn15s"
-      },
-      "artists": [
-        {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
-        },
-        {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
-        }
-      ],
-      "duration_ms": 204975,
-      "name": "Worry About Nothing",
-      "url": "https://open.spotify.com/track/4gEkiIg4XatM4x10HcAdMy"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -551,6 +531,26 @@
       "duration_ms": 224000,
       "name": "We Prevail",
       "url": "https://open.spotify.com/track/4jdeJiC74gkk4C2xienh6i"
+    },
+    {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
+        "name": "Worry About Nothing",
+        "url": "https://open.spotify.com/album/1VKHWGZru3AKfEzA9zn15s"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        },
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "duration_ms": 204975,
+      "name": "Worry About Nothing",
+      "url": "https://open.spotify.com/track/4gEkiIg4XatM4x10HcAdMy"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -625,6 +625,22 @@
       "url": "https://open.spotify.com/track/2wEDJMF9LhhhHPKqnbsfW5"
     },
     {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/1qYAr43bIHnllHcVN9Jt8r"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        }
+      ],
+      "duration_ms": 157800,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/2zuETnfYrQ5Xh0QYw2xvOH"
+    },
+    {
       "added_at": "2024-01-12 00:01:00",
       "album": {
         "name": "Amaram Onyewem (Live)",
@@ -693,22 +709,6 @@
       "url": "https://open.spotify.com/track/2snbZ33cTV6xQ5c42d6LST"
     },
     {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/1qYAr43bIHnllHcVN9Jt8r"
-      },
-      "artists": [
-        {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
-        }
-      ],
-      "duration_ms": 157800,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/2zuETnfYrQ5Xh0QYw2xvOH"
-    },
-    {
       "added_at": "2024-03-29 00:01:00",
       "album": {
         "name": "Kukhona Amadlelo",
@@ -741,6 +741,22 @@
       "url": "https://open.spotify.com/track/5F8HUZCYpoDYGaHs76jU7r"
     },
     {
+      "added_at": "2024-04-26 00:01:00",
+      "album": {
+        "name": "Favour",
+        "url": "https://open.spotify.com/album/3PraQo3aIBkdSBsMIkwhDK"
+      },
+      "artists": [
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "duration_ms": 152934,
+      "name": "Favour",
+      "url": "https://open.spotify.com/track/0aq8tNf7KTwvZf98EC2XO8"
+    },
+    {
       "added_at": "2024-03-08 00:01:00",
       "album": {
         "name": "I Testify (Live)",
@@ -759,6 +775,22 @@
       "duration_ms": 867272,
       "name": "I Testify - Live",
       "url": "https://open.spotify.com/track/2hXrCdY4qSLeYLIgIhm5LI"
+    },
+    {
+      "added_at": "2024-03-08 00:01:00",
+      "album": {
+        "name": "Alagbara",
+        "url": "https://open.spotify.com/album/5VvX52HwMMhtuOjPcILYNP"
+      },
+      "artists": [
+        {
+          "name": "Delight_Ayobola",
+          "url": "https://open.spotify.com/artist/57Ev0C5dLMCDxW5vqvzs8h"
+        }
+      ],
+      "duration_ms": 194690,
+      "name": "Alagbara",
+      "url": "https://open.spotify.com/track/1GWjrdfcIbN4l1AJHwwTAR"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -783,22 +815,6 @@
       "duration_ms": 224000,
       "name": "Deliverance",
       "url": "https://open.spotify.com/track/2J8OaxMbjG25WPenQNWv5s"
-    },
-    {
-      "added_at": "2024-03-08 00:01:00",
-      "album": {
-        "name": "Alagbara",
-        "url": "https://open.spotify.com/album/5VvX52HwMMhtuOjPcILYNP"
-      },
-      "artists": [
-        {
-          "name": "Delight_Ayobola",
-          "url": "https://open.spotify.com/artist/57Ev0C5dLMCDxW5vqvzs8h"
-        }
-      ],
-      "duration_ms": 194690,
-      "name": "Alagbara",
-      "url": "https://open.spotify.com/track/1GWjrdfcIbN4l1AJHwwTAR"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -873,22 +889,6 @@
       "url": "https://open.spotify.com/track/2uHY9QxXldmXdbhvvEOf6J"
     },
     {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/1MXMfvad0zlEQscHvBZU9h"
-      },
-      "artists": [
-        {
-          "name": "Jvson",
-          "url": "https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F"
-        }
-      ],
-      "duration_ms": 172083,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/5SCH6LHRQH3hfmqAlnU1yo"
-    },
-    {
       "added_at": "2024-04-12 00:01:00",
       "album": {
         "name": "En Toi",
@@ -903,6 +903,22 @@
       "duration_ms": 193417,
       "name": "En Toi",
       "url": "https://open.spotify.com/track/4ibKrcsCo0UPAjrvffTuUB"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/1MXMfvad0zlEQscHvBZU9h"
+      },
+      "artists": [
+        {
+          "name": "Jvson",
+          "url": "https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F"
+        }
+      ],
+      "duration_ms": 172083,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/5SCH6LHRQH3hfmqAlnU1yo"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -923,22 +939,6 @@
       "duration_ms": 184337,
       "name": "Blessed Year",
       "url": "https://open.spotify.com/track/24aC5jGBkjEDpAAtaS6o5H"
-    },
-    {
-      "added_at": "2024-04-26 00:01:00",
-      "album": {
-        "name": "Favour",
-        "url": "https://open.spotify.com/album/3PraQo3aIBkdSBsMIkwhDK"
-      },
-      "artists": [
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        }
-      ],
-      "duration_ms": 152934,
-      "name": "Favour",
-      "url": "https://open.spotify.com/track/0aq8tNf7KTwvZf98EC2XO8"
     }
   ],
   "unique_name": "Redeemed",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2ckx1BRKkKzM7KyRZ3iKZo">Ester Dean</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,333 likes - 115 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,332 likes - 115 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 | 33 | [Shadow \(feat\. IRO\) \- From Songland](https://open.spotify.com/track/09Hjv8GEDhzPxqiJCw8dSB) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [iRO](https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF) | [Shadow \(feat\. IRO\) \[From Songland\]](https://open.spotify.com/album/2TZgCoAnwX3YJmOfyC2SF3) | 2:57 |
 | 34 | [Thinkin Bout You](https://open.spotify.com/track/1HYc0erDd8nWnqQOy6gIq1) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Beauty Marks](https://open.spotify.com/album/5rJuc8VCoqz1L3SmUscLkw) | 3:48 |
 | 35 | [Wrong Places \(from Songland\)](https://open.spotify.com/track/2mtLGVN6xZm93wDG9nvviS) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Wrong Places \(from Songland\)](https://open.spotify.com/album/2egSKhWoeRAIycSMnlew9P) | 3:17 |
-| 36 | [Long & Lost](https://open.spotify.com/track/55zTc30BLHsy3HJOspZ96K) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [How Big, How Blue, How Beautiful \(Deluxe\)](https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV) | 3:15 |
-| 37 | [Let It Grow \- From "Dr\. Seuss' The Lorax"](https://open.spotify.com/track/5BWbhDZB3TJgF7hb2TlTIG) | [The Lorax Singers](https://open.spotify.com/artist/7cxXeGqb1uIhoiSXQ6kejX), [Jenny Slate](https://open.spotify.com/artist/47MKT4N2j09fZJ683zjDRk), [Betty White](https://open.spotify.com/artist/2NHT2PJ2UmOu6Y6Wj73imp), [Rob Riggle](https://open.spotify.com/artist/4OvBaBOYjyftit2jET0z5O) | [Dr\. Seuss' The Lorax \- Original Songs From The Motion Picture](https://open.spotify.com/album/598g2DLLnd5tIJyVeizTx5) | 3:17 |
+| 36 | [Let It Grow \- From "Dr\. Seuss' The Lorax"](https://open.spotify.com/track/5BWbhDZB3TJgF7hb2TlTIG) | [The Lorax Singers](https://open.spotify.com/artist/7cxXeGqb1uIhoiSXQ6kejX), [Jenny Slate](https://open.spotify.com/artist/47MKT4N2j09fZJ683zjDRk), [Betty White](https://open.spotify.com/artist/2NHT2PJ2UmOu6Y6Wj73imp), [Rob Riggle](https://open.spotify.com/artist/4OvBaBOYjyftit2jET0z5O) | [Dr\. Seuss' The Lorax \- Original Songs From The Motion Picture](https://open.spotify.com/album/598g2DLLnd5tIJyVeizTx5) | 3:17 |
+| 37 | [Long & Lost](https://open.spotify.com/track/55zTc30BLHsy3HJOspZ96K) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [How Big, How Blue, How Beautiful \(Deluxe\)](https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV) | 3:15 |
 | 38 | [Crazy Youngsters \- From "Pitch Perfect 2" Soundtrack](https://open.spotify.com/track/4epaMtVDYg7MMVBGzEjkmh) | [Ester Dean](https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM) | [Crazy Youngsters \(From "Pitch Perfect 2" Soundtrack\)](https://open.spotify.com/album/76W2zqaQNcFIs9vFl6hE34) | 3:39 |
 | 39 | [No Money No Love \(feat\. Elliphant & Ms\. Dynamite\)](https://open.spotify.com/track/5I1QXv0dEydyRIPOo2MO9l) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY), [Ms\. Dynamite](https://open.spotify.com/artist/42qLC3FgtazA9AvaIoiP62) | [Listen](https://open.spotify.com/album/77UW17CZFyCaRLHdHeofZu) | 3:57 |
 | 40 | [Roc Me Out](https://open.spotify.com/track/2V4mS5qU1zIrlL9IdpTeJA) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Talk That Talk \(Deluxe Explicit\)](https://open.spotify.com/album/3oQebIVUPY0IPiROZSIQFl) | 3:29 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 | 114 | [Gotta Get Up](https://open.spotify.com/track/4qfJUsO8ede16DZDcT5LA1) | [Haven Burton](https://open.spotify.com/artist/10ZqjgXYftp9SFt7f2wHZh), [Lilias White](https://open.spotify.com/artist/2vCRuRgI4PMtjQoNP1y4Fq), [Georgia Engel](https://open.spotify.com/artist/41ikFrMg552IvT5cpKTYE0), [Company of HALF TIME](https://open.spotify.com/artist/3fIoUPRtPSrCxWxOJFQPlx) | [HALF TIME \(Original Cast Recording\)](https://open.spotify.com/album/6HuEqXAEaG5Pvv4JnOKoR9) | 3:54 |
 | 115 | [Hurt Me](https://open.spotify.com/track/18LmvXtZWlNLzuQIqYi3IY) | [Remedy A Cappella](https://open.spotify.com/artist/3JvshbwnBNF1ESTeUVEgcN) | [Waves](https://open.spotify.com/album/7zup9UzCjOqh6wjVfuvpDV) | 3:20 |
 
-Snapshot ID: `Mjg1NzI3MzAsMDAwMDAwMDA2MjQwOGI0YzQ1Y2ViNzg1ZTNjNzlmMDMzZjgyYWU0Mg==`
+Snapshot ID: `Mjg1NzQxMTAsMDAwMDAwMDAwNDAwNzdkYjRjZGIzZTBkMjBjMDFlYjU2MjZmZjI4ZA==`

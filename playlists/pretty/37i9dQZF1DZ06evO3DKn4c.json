@@ -1,12 +1,12 @@
 {
   "description": "This is Black Alien. The essential tracks, all in one playlist.",
-  "num_followers": 32667,
+  "num_followers": 32692,
   "original_name": "This Is Black Alien",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDE3NjAwMCwwMDAwMDAwMDUwNDEwMTY5ZTliZmIwNWYxNjhiYTg5MzQ0ZTA3MjVh",
+  "snapshot_id": "MTcxNDI2MjQwMCwwMDAwMDAwMDU4YzE3MjBlZjA3MTZiMDA5ZDhjNWJhNjQ4ODY0Yjhi",
   "tracks": [
     {
       "added_at": null,
@@ -183,30 +183,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "JAH-VAN",
-        "url": "https://open.spotify.com/album/6jPDVtAx9fIrwS6KKTWYDO"
+        "name": "Hip Hop Rare",
+        "url": "https://open.spotify.com/album/6x8GefrlUjATHW7ynbVqHC"
       },
       "artists": [
         {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
         },
         {
           "name": "Black Alien",
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        },
-        {
-          "name": "BiD",
-          "url": "https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm"
-        },
-        {
-          "name": "Fernando Nunes",
-          "url": "https://open.spotify.com/artist/3JkbXt88UMxAQouuL7QwI9"
         }
       ],
-      "duration_ms": 284466,
-      "name": "Meu Bem Querer - JAH-VAN",
-      "url": "https://open.spotify.com/track/2FlIG6qvcKd73lqqedlgEX"
+      "duration_ms": 217444,
+      "name": "Motivos",
+      "url": "https://open.spotify.com/track/4rjn5DygwQQXo1m24GqRM6"
     },
     {
       "added_at": null,
@@ -243,22 +235,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hip Hop Rare",
-        "url": "https://open.spotify.com/album/6x8GefrlUjATHW7ynbVqHC"
+        "name": "JAH-VAN",
+        "url": "https://open.spotify.com/album/6jPDVtAx9fIrwS6KKTWYDO"
       },
       "artists": [
         {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
         },
         {
           "name": "Black Alien",
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        },
+        {
+          "name": "BiD",
+          "url": "https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm"
+        },
+        {
+          "name": "Fernando Nunes",
+          "url": "https://open.spotify.com/artist/3JkbXt88UMxAQouuL7QwI9"
         }
       ],
-      "duration_ms": 217444,
-      "name": "Motivos",
-      "url": "https://open.spotify.com/track/4rjn5DygwQQXo1m24GqRM6"
+      "duration_ms": 284466,
+      "name": "Meu Bem Querer - JAH-VAN",
+      "url": "https://open.spotify.com/track/2FlIG6qvcKd73lqqedlgEX"
     },
     {
       "added_at": null,

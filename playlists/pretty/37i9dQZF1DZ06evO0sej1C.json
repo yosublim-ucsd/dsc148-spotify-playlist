@@ -1,12 +1,12 @@
 {
-  "description": "This is Yoss Bones. The essential tracks, all in one playlist.",
-  "num_followers": 38246,
+  "description": "This Is Yoss Bones. Sus mejores \u00e9xitos, todos en una playlist.",
+  "num_followers": 38250,
   "original_name": "This Is Yoss Bones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDE3NjAwMCwwMDAwMDAwMGYyNWYwMWYyNGNhZjIwNTRkOGI1NTU3ZjQwZDMzMDBm",
+  "snapshot_id": "MTcxNDI2MjQwMCwwMDAwMDAwMGZhMTcxMzIyNzVkZTc4YmZlNGZmMTI1MGNiZmM3MGE1",
   "tracks": [
     {
       "added_at": null,
@@ -1039,22 +1039,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El",
-        "url": "https://open.spotify.com/album/30ctRql5lTP2yO64dd6T76"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "El",
-      "url": "https://open.spotify.com/track/4RAjJ3UJiBoyPQl9RjZdRU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Serendipia",
         "url": "https://open.spotify.com/album/5otbd1pbveK9HktRULJnis"
       },
@@ -1079,22 +1063,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Dealer",
-        "url": "https://open.spotify.com/album/04tuh57qYcWnXDzvjxBLHp"
+        "name": "El",
+        "url": "https://open.spotify.com/album/30ctRql5lTP2yO64dd6T76"
       },
       "artists": [
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        },
         {
           "name": "Yoss Bones",
           "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
         }
       ],
-      "duration_ms": 182844,
-      "name": "LIKE A BULL",
-      "url": "https://open.spotify.com/track/2nOY7yr4kFvNJl1mL0bwgc"
+      "duration_ms": 204000,
+      "name": "El",
+      "url": "https://open.spotify.com/track/4RAjJ3UJiBoyPQl9RjZdRU"
     },
     {
       "added_at": null,
@@ -1119,6 +1099,26 @@
       "duration_ms": 215172,
       "name": "Calor y Fr\u00edo",
       "url": "https://open.spotify.com/track/6CVbA3wsSldLVlYMUJq1t3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Dealer",
+        "url": "https://open.spotify.com/album/04tuh57qYcWnXDzvjxBLHp"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 182844,
+      "name": "LIKE A BULL",
+      "url": "https://open.spotify.com/track/2nOY7yr4kFvNJl1mL0bwgc"
     },
     {
       "added_at": null,

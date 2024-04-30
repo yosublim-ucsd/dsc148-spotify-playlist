@@ -1,5 +1,5 @@
 {
-  "2024-04-29": 40426,
+  "2024-04-30": 40433,
   "date_first_scraped": "2022-01-01",
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Les Cowboys Fringants",
   "name": "Nouveaut\u00e9s francophones",
@@ -20886,6 +20886,28 @@
     },
     {
       "album": {
+        "name": "JOE PESCI",
+        "url": "https://open.spotify.com/album/0zQa5HVQkdUBcfgfjpfAqQ"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Inso Le V\u00e9ritable",
+          "url": "https://open.spotify.com/artist/05IsLgQufqq7O7NtDKN3x6"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199411,
+      "name": "JOE PESCI",
+      "url": "https://open.spotify.com/track/5ZRX1nlpURKlGCFxWWgFeq"
+    },
+    {
+      "album": {
         "name": "Joli coeur",
         "url": "https://open.spotify.com/album/2r0jcbln2gKoim766i3rsd"
       },
@@ -33155,7 +33177,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 151414,
       "name": "Parisienne High Level",
       "url": "https://open.spotify.com/track/5OYJXif1vzHZFvFORFBpvI"

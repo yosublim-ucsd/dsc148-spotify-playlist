@@ -2,7 +2,7 @@
 
 ### [Los 2010 México](https://open.spotify.com/playlist/37i9dQZF1DX2rtAnhOgHNC)
 
-> Los grandes éxitos de la década pasada, en México.
+> Los grandes éxitos de la década pasada, en México\. Carla Morrison en portada.
 
 62 songs - 3 hr 48 min
 

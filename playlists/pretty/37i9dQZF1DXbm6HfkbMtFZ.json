@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 716247,
+  "num_followers": 716258,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-04-10 19:17:24",
       "album": {
-        "name": "Music",
-        "url": "https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK"
-      },
-      "artists": [
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        }
-      ],
-      "duration_ms": 171756,
-      "name": "Sunny Afternoon",
-      "url": "https://open.spotify.com/track/3Acg5sKJcCjUQBHA8KjX5F"
-    },
-    {
-      "added_at": "2024-04-10 19:17:24",
-      "album": {
         "name": "Wiggle Room",
         "url": "https://open.spotify.com/album/1r9A5sIVm8cLrU9oSH5jsW"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 147893,
       "name": "Handsome",
       "url": "https://open.spotify.com/track/4kJG95g177WS0WMq7yFqVX"
+    },
+    {
+      "added_at": "2024-04-10 19:17:24",
+      "album": {
+        "name": "Music",
+        "url": "https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "duration_ms": 171756,
+      "name": "Sunny Afternoon",
+      "url": "https://open.spotify.com/track/3Acg5sKJcCjUQBHA8KjX5F"
     },
     {
       "added_at": "2024-04-10 19:17:24",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-04-10 19:17:24",
       "album": {
-        "name": "The Emitt Rhodes Recordings (1969-1973)",
-        "url": "https://open.spotify.com/album/6r4mUQIagaCmJjrOBW3SIB"
-      },
-      "artists": [
-        {
-          "name": "Emitt Rhodes",
-          "url": "https://open.spotify.com/artist/1yap1SgRPMxgyfrrDlQ95y"
-        }
-      ],
-      "duration_ms": 146680,
-      "name": "Somebody Made For Me",
-      "url": "https://open.spotify.com/track/2hq50hCUUknhUXZ9uL3wgq"
-    },
-    {
-      "added_at": "2024-04-10 19:17:24",
-      "album": {
         "name": "Bismillah",
         "url": "https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 227293,
       "name": "Soulless Friends",
       "url": "https://open.spotify.com/track/4U5TPHqsmvVzc8CCZPLfzg"
+    },
+    {
+      "added_at": "2024-04-10 19:17:24",
+      "album": {
+        "name": "The Emitt Rhodes Recordings (1969-1973)",
+        "url": "https://open.spotify.com/album/6r4mUQIagaCmJjrOBW3SIB"
+      },
+      "artists": [
+        {
+          "name": "Emitt Rhodes",
+          "url": "https://open.spotify.com/artist/1yap1SgRPMxgyfrrDlQ95y"
+        }
+      ],
+      "duration_ms": 146680,
+      "name": "Somebody Made For Me",
+      "url": "https://open.spotify.com/track/2hq50hCUUknhUXZ9uL3wgq"
     },
     {
       "added_at": "2024-04-10 19:17:24",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-04-10 19:17:24",
       "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/0J3nz9lYQ4LjfKkfyAy0VB"
-      },
-      "artists": [
-        {
-          "name": "Canned Heat",
-          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
-        }
-      ],
-      "duration_ms": 202253,
-      "name": "Time Was",
-      "url": "https://open.spotify.com/track/1lLQtlPli8kTLJsTrcnRuQ"
-    },
-    {
-      "added_at": "2024-04-10 19:17:24",
-      "album": {
         "name": "Electric Warrior [Expanded & Remastered]",
         "url": "https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 220960,
       "name": "Mambo Sun - 2003 Remaster",
       "url": "https://open.spotify.com/track/79dQwpXjJ4t3pILysdqFyB"
+    },
+    {
+      "added_at": "2024-04-10 19:17:24",
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/0J3nz9lYQ4LjfKkfyAy0VB"
+      },
+      "artists": [
+        {
+          "name": "Canned Heat",
+          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
+        }
+      ],
+      "duration_ms": 202253,
+      "name": "Time Was",
+      "url": "https://open.spotify.com/track/1lLQtlPli8kTLJsTrcnRuQ"
     },
     {
       "added_at": "2024-04-10 19:17:24",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-04-10 19:17:24",
       "album": {
-        "name": "Pulse (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2keWhx31zk5DnCvRCD5Lg4"
-      },
-      "artists": [
-        {
-          "name": "Greg Phillinganes",
-          "url": "https://open.spotify.com/artist/6WOxIudswU8kNC2LrpeiWu"
-        }
-      ],
-      "duration_ms": 326613,
-      "name": "Lazy Nina",
-      "url": "https://open.spotify.com/track/7tBlvnHLTox3S0yB6nIV2Q"
-    },
-    {
-      "added_at": "2024-04-10 19:17:24",
-      "album": {
         "name": "One and Only",
         "url": "https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 191037,
       "name": "One and Only",
       "url": "https://open.spotify.com/track/3nQcCZarfJoDbebUXa9hxa"
+    },
+    {
+      "added_at": "2024-04-10 19:17:24",
+      "album": {
+        "name": "Pulse (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2keWhx31zk5DnCvRCD5Lg4"
+      },
+      "artists": [
+        {
+          "name": "Greg Phillinganes",
+          "url": "https://open.spotify.com/artist/6WOxIudswU8kNC2LrpeiWu"
+        }
+      ],
+      "duration_ms": 326613,
+      "name": "Lazy Nina",
+      "url": "https://open.spotify.com/track/7tBlvnHLTox3S0yB6nIV2Q"
     },
     {
       "added_at": "2024-04-10 19:17:24",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-04-10 19:17:24",
       "album": {
-        "name": "I Want To See The Bright Lights Tonight",
-        "url": "https://open.spotify.com/album/1K1Qdd60pW48wEgWGQLeRt"
-      },
-      "artists": [
-        {
-          "name": "Richard & Linda Thompson",
-          "url": "https://open.spotify.com/artist/4hw4TPMyAzHqNBcWtoDrK5"
-        }
-      ],
-      "duration_ms": 189586,
-      "name": "I Want To See The Bright Lights Tonight",
-      "url": "https://open.spotify.com/track/3jd3nPQtwKS3HY6A8XpXx5"
-    },
-    {
-      "added_at": "2024-04-10 19:17:24",
-      "album": {
         "name": "Dusk at Cubist Castle",
         "url": "https://open.spotify.com/album/7IBuhzVZPhSqMDMIP60Ehh"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 112066,
       "name": "Jumping Fences",
       "url": "https://open.spotify.com/track/36Us7iQfslxRe1sOqUDmyt"
+    },
+    {
+      "added_at": "2024-04-10 19:17:24",
+      "album": {
+        "name": "I Want To See The Bright Lights Tonight",
+        "url": "https://open.spotify.com/album/1K1Qdd60pW48wEgWGQLeRt"
+      },
+      "artists": [
+        {
+          "name": "Richard & Linda Thompson",
+          "url": "https://open.spotify.com/artist/4hw4TPMyAzHqNBcWtoDrK5"
+        }
+      ],
+      "duration_ms": 189586,
+      "name": "I Want To See The Bright Lights Tonight",
+      "url": "https://open.spotify.com/track/3jd3nPQtwKS3HY6A8XpXx5"
     },
     {
       "added_at": "2024-04-10 19:17:24",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-04-10 19:17:24",
       "album": {
-        "name": "Sun & Moon",
-        "url": "https://open.spotify.com/album/1K2NwUvkvc6EL8pwmD332g"
-      },
-      "artists": [
-        {
-          "name": "BALTHVS",
-          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
-        }
-      ],
-      "duration_ms": 165712,
-      "name": "Sun & Moon",
-      "url": "https://open.spotify.com/track/1SPvWrXkkhtpgVhIztyYZA"
-    },
-    {
-      "added_at": "2024-04-10 19:17:24",
-      "album": {
         "name": "Ooh La La",
         "url": "https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 214893,
       "name": "Just Another Honky",
       "url": "https://open.spotify.com/track/0VBNUr0tXN3GaxOjBoB0Es"
+    },
+    {
+      "added_at": "2024-04-10 19:17:24",
+      "album": {
+        "name": "Sun & Moon",
+        "url": "https://open.spotify.com/album/1K2NwUvkvc6EL8pwmD332g"
+      },
+      "artists": [
+        {
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+        }
+      ],
+      "duration_ms": 165712,
+      "name": "Sun & Moon",
+      "url": "https://open.spotify.com/track/1SPvWrXkkhtpgVhIztyYZA"
     },
     {
       "added_at": "2024-04-10 19:17:24",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2024-04-10 19:17:24",
       "album": {
+        "name": "Southern Nights",
+        "url": "https://open.spotify.com/album/4x1gp0YZRosiMcM0f1WGls"
+      },
+      "artists": [
+        {
+          "name": "Allen Toussaint",
+          "url": "https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy"
+        }
+      ],
+      "duration_ms": 181773,
+      "name": "Last Train - Remastered Version",
+      "url": "https://open.spotify.com/track/1zFkWtm4zmjB4O3qAokRBX"
+    },
+    {
+      "added_at": "2024-04-10 19:17:24",
+      "album": {
         "name": "Woman (feat. Lianne La Havas)",
         "url": "https://open.spotify.com/album/573VHLRrwj40u1oZcutY9r"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 191826,
       "name": "Woman (feat. Lianne La Havas)",
       "url": "https://open.spotify.com/track/4VyoOl99FlcemZr6WvzQed"
-    },
-    {
-      "added_at": "2024-04-10 19:17:24",
-      "album": {
-        "name": "Southern Nights",
-        "url": "https://open.spotify.com/album/4x1gp0YZRosiMcM0f1WGls"
-      },
-      "artists": [
-        {
-          "name": "Allen Toussaint",
-          "url": "https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy"
-        }
-      ],
-      "duration_ms": 181773,
-      "name": "Last Train - Remastered Version",
-      "url": "https://open.spotify.com/track/1zFkWtm4zmjB4O3qAokRBX"
     },
     {
       "added_at": "2024-04-10 19:17:24",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2024-04-10 19:17:24",
       "album": {
-        "name": "Hunt for the Wilderpeople (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2XvgNn4HiItRHFG5R8i3Tg"
-      },
-      "artists": [
-        {
-          "name": "Moniker",
-          "url": "https://open.spotify.com/artist/6mLzqvtfYZ0tq6JKj4VTEW"
-        }
-      ],
-      "duration_ms": 145881,
-      "name": "Ocean Blue",
-      "url": "https://open.spotify.com/track/5BzGvBwBL3y2WSGml0rkLH"
-    },
-    {
-      "added_at": "2024-04-10 19:17:24",
-      "album": {
         "name": "RISE",
         "url": "https://open.spotify.com/album/3TWblAw43j83gbtK5IutiZ"
       },
@@ -1907,22 +1891,18 @@
     {
       "added_at": "2024-04-10 19:17:24",
       "album": {
-        "name": "Agony and Extasy",
-        "url": "https://open.spotify.com/album/3yfSVfDxOky6qRlToEqSE2"
+        "name": "Hunt for the Wilderpeople (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2XvgNn4HiItRHFG5R8i3Tg"
       },
       "artists": [
         {
-          "name": "The Diddys",
-          "url": "https://open.spotify.com/artist/2Zj8m3tpo7XHoHRinEHsQr"
-        },
-        {
-          "name": "Paige Douglas",
-          "url": "https://open.spotify.com/artist/5msvOxnkzvdc94IwbfAAKt"
+          "name": "Moniker",
+          "url": "https://open.spotify.com/artist/6mLzqvtfYZ0tq6JKj4VTEW"
         }
       ],
-      "duration_ms": 278040,
-      "name": "Intergalactic Love Song",
-      "url": "https://open.spotify.com/track/29pSTaZjWmJtJhJtnxIMaK"
+      "duration_ms": 145881,
+      "name": "Ocean Blue",
+      "url": "https://open.spotify.com/track/5BzGvBwBL3y2WSGml0rkLH"
     },
     {
       "added_at": "2024-04-10 19:17:24",
@@ -1939,6 +1919,26 @@
       "duration_ms": 323263,
       "name": "Long Wave",
       "url": "https://open.spotify.com/track/5UnoxzcNj2Ym6ZOnIGdwGE"
+    },
+    {
+      "added_at": "2024-04-10 19:17:24",
+      "album": {
+        "name": "Agony and Extasy",
+        "url": "https://open.spotify.com/album/3yfSVfDxOky6qRlToEqSE2"
+      },
+      "artists": [
+        {
+          "name": "The Diddys",
+          "url": "https://open.spotify.com/artist/2Zj8m3tpo7XHoHRinEHsQr"
+        },
+        {
+          "name": "Paige Douglas",
+          "url": "https://open.spotify.com/artist/5msvOxnkzvdc94IwbfAAKt"
+        }
+      ],
+      "duration_ms": 278040,
+      "name": "Intergalactic Love Song",
+      "url": "https://open.spotify.com/track/29pSTaZjWmJtJhJtnxIMaK"
     },
     {
       "added_at": "2024-04-10 19:17:24",

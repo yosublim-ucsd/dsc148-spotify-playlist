@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO1bSHqE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1bSHqE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO1bSHqE)
 
-### [This Is ブリトニー・スピアーズ](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1bSHqE)
+### [This Is Britney Spears](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1bSHqE)
 
-> This is ブリトニー・スピアーズ。アーティストの代表曲をひとつのプレイリストに。
+> This is Britney Spears\. The essential tracks, all in one playlist.
 
 68 songs - 4 hr 6 min
 

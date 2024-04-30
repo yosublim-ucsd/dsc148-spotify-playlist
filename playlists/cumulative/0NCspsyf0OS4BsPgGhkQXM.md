@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-1,049 songs - 2 day 6 hr 44 min
+1,051 songs - 2 day 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -493,6 +493,7 @@
 | [King of Nothing](https://open.spotify.com/track/7fVVCpaJh3H8IQ3BSzs93K) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Fancy Monster](https://open.spotify.com/artist/2mTmPVVrjt7SLOtJIaI9LY), [SOUNDR](https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X) | [Love // Chaos](https://open.spotify.com/album/3Iz1TViTuDQ6C7Cyn5CD7k) | 3:53 | 2022-02-16 | 2022-03-19 |
 | [Kingdom](https://open.spotify.com/track/11DBes9epIJZpSHCJToG9i) | [2 Souls](https://open.spotify.com/artist/3wVoeDQF4S4yrdYHnqzZp4) | [Kingdom](https://open.spotify.com/album/14HaOFeATQqvBN0FJygUx1) | 2:18 | 2022-09-01 | 2022-10-08 |
 | [Know Me](https://open.spotify.com/track/5MJyKvSj8v6hrFohLg5YcB) | [So Dope](https://open.spotify.com/artist/3xEKrMqS4pDGqGvxf7zwSY) | [Alone In My Dreams](https://open.spotify.com/album/6NxLWoS0GRoeZNZiMfOKsg) | 2:49 | 2023-04-08 | 2023-05-13 |
+| [KRVSH!](https://open.spotify.com/track/1mVlzw3sHcyhMDFKwj2SEy) | [BOOTY LEAK](https://open.spotify.com/artist/6C8sBC5U3LyUE4GoleJWvx), [HOMINID](https://open.spotify.com/artist/7lyYlIclaVEmE0rlSCwH3h), [CØV3R1st](https://open.spotify.com/artist/6yC7BVlGi7JXkpl0LsZeeS) | [KRVSH!](https://open.spotify.com/album/65kyqMMsojSFxxSTdRt3Wt) | 1:43 | 2024-04-29 |  |
 | [La Di Die](https://open.spotify.com/track/3mXPAPMOkXrU2IVbwmcu2q) | [T\-Mass](https://open.spotify.com/artist/0M3cZtjQZ8fz3Hbw1A4CwF), [Staarz](https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL) | [La Di Die](https://open.spotify.com/album/08EaQmn3LzARYlSisgkx5E) | 2:00 | 2023-08-16 | 2023-10-14 |
 | [La Guitarra](https://open.spotify.com/track/6G6gv3EH3kWjm35x6tcsOF) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [Tyraz](https://open.spotify.com/artist/6nRbicEmpaqL0wjlbJBPAf) | [La Guitarra](https://open.spotify.com/album/4KBdjN4l1BQ54gd5m9MM9L) | 2:49 | 2022-09-23 | 2023-02-22 |
 | [La Roja](https://open.spotify.com/track/5Z4AwksmCkLy1lXvImsrD6) | [Bermejo](https://open.spotify.com/artist/77EeJ27sPERKmROTxvllYo) | [La Roja](https://open.spotify.com/album/2Sb7mfJqe90ThixT2XXTpm) | 2:22 | 2022-03-04 | 2022-04-02 |
@@ -1025,6 +1026,7 @@
 | [Why Don't You](https://open.spotify.com/track/4y7OSoFuXiXXqg1CViM2NM) | [Thorgan](https://open.spotify.com/artist/4h222pRnmurJxvcdpOa5wZ) | [Why Don't You](https://open.spotify.com/album/1MdX85on6xJmZPviX0hDlm) | 2:48 | 2024-01-05 |  |
 | [Wicked Game](https://open.spotify.com/track/1yWjUaaG55sSGRAJ1zjiQH) | [VANNA](https://open.spotify.com/artist/3QyqetaonG19z1GwcNWJBq), [Vincent Vega](https://open.spotify.com/artist/2xsYp3hFgZxYYkS44kRayt) | [Wicked Game](https://open.spotify.com/album/0CgI9AIBFSLyYsyWFMWcmC) | 4:36 | 2022-11-16 | 2022-11-24 |
 | [Wild Love](https://open.spotify.com/track/6z4XNYoSj2gs0s2aAVpK5T) | [Sunni D](https://open.spotify.com/artist/6DRsCnHwpy638sR8fO1PTD), [Kindred](https://open.spotify.com/artist/401K7BRPwpumMzCLPInxaE) | [Wild Love](https://open.spotify.com/album/6RZ0UG0miL0MkFY1QDnxRF) | 3:14 | 2022-02-03 | 2022-02-16 |
+| [Winners Win](https://open.spotify.com/track/0D66zcK1wbKFMCh0xBfPpS) | [BEATSMASH](https://open.spotify.com/artist/7FFbcFSr2g8ylh2P0S7TTB), [Pelly](https://open.spotify.com/artist/14VPhN1yvufZ5jv3n6JsQs) | [Winners Win](https://open.spotify.com/album/10L50ivmqsxIB0mOkN3raA) | 3:09 | 2024-04-29 |  |
 | [Wish You The Best](https://open.spotify.com/track/4j6sNySAJenxu4oG6q57dF) | [Culture Code](https://open.spotify.com/artist/2FF8wcGpikv5RFbAK1rvdZ), [Caslow](https://open.spotify.com/artist/40zwrE4brs61aEleZQ6SNq), [Nina Sung](https://open.spotify.com/artist/3IDGSw4dPbHMSnd93gkeXG) | [Wish You The Best](https://open.spotify.com/album/1I4A0gqLW5sRUcY5EzeTis) | 2:55 | 2022-08-29 | 2022-10-08 |
 | [With Us](https://open.spotify.com/track/0h5hj2DLymMFFRxnotcc3w) | [Hoober](https://open.spotify.com/artist/32rfvsXfn7YDlDhG7Hh7Zd), [roseboy](https://open.spotify.com/artist/19XTIhkOL45VkvkjjGzD61), [Pbenz](https://open.spotify.com/artist/0iTL62LjPPI99dA62aW0Ir) | [With Us](https://open.spotify.com/album/3weu8g7iv2zYprfSDi18DB) | 3:20 | 2022-02-18 | 2022-03-26 |
 | [With You](https://open.spotify.com/track/0N8FAdEsKhLVqr1T8DgC7M) | [Soular](https://open.spotify.com/artist/1bBITBo8ppdefWZYR6eRYC), [Ila](https://open.spotify.com/artist/1GbpislQVgNCZHK7KKnftY), [Lenny](https://open.spotify.com/artist/3ZYWQmZsfFj8OhSHFQEwVU) | [With You](https://open.spotify.com/album/59RfSXQK7bjCJHziKEwC1K) | 2:23 | 2023-11-22 | 2024-01-30 |

@@ -4,7 +4,7 @@
 
 > \[Festival Dates: May 4\-5\] Meet the lineup of HIPHOPPLAYA FESTIVAL 2024, the largest outdoor hip\-hop festival in Korea! \(5월 4일\-5일 열리는 한국 최대 규모의 야외 힙합 페스티벌 HIPHOPPLAYA FESTIVAL 2024의 라인업을 만나보세요!\)
 
-144 songs - 8 hr 4 min
+145 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [EVITA!](https://open.spotify.com/track/1cLWh6iYg05XcuviJTgjPq) | [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [CRÈME](https://open.spotify.com/album/50OexC7HF7AMO8ypWaGvPd) | 3:27 | 2022-09-21 | 2023-04-05 |
 | [f](https://open.spotify.com/track/02Nkt660XIvXwZQf9bkwh6) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [ROBERT](https://open.spotify.com/album/4VTHhmhVaB2gpViAdHbKHg) | 2:08 | 2024-04-23 |  |
 | [FIANCÉ](https://open.spotify.com/track/6Tw2x3wavaWsboio2Cy44I) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [XX](https://open.spotify.com/album/6aDVb2GbQbmztdcWlttJ34) | 3:27 | 2022-09-07 | 2023-04-05 |
-| [Freak](https://open.spotify.com/track/53NYRM8s4mm4yeCsmsvTik) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Grown Ass Kid](https://open.spotify.com/album/5gHJyHBTHBZlgFsODXj7HZ) | 2:49 | 2022-09-07 |  |
+| [Freak](https://open.spotify.com/track/53NYRM8s4mm4yeCsmsvTik) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Grown Ass Kid](https://open.spotify.com/album/5gHJyHBTHBZlgFsODXj7HZ) | 2:49 | 2022-09-07 | 2024-04-30 |
 | [FREAK LIKE ME](https://open.spotify.com/track/4ZC7AurS3z0mdROZBUcAex) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [FREAK LIKE ME](https://open.spotify.com/album/3MLhDn5jwjMjv7S3qIRXnG) | 2:47 | 2024-02-20 |  |
 | [FREAKY \(Prod\. hyeminsong\)](https://open.spotify.com/track/44SqDRR0kHV6h4jYJ8q5sm) | [AP Alchemy](https://open.spotify.com/artist/6lJCpS9H1iVfMT6W0HkDRO) | [FREAKY \(Prod\. hyeminsong\)](https://open.spotify.com/album/0JSuPMHCACEmPOF9tv0Lwj) | 7:09 | 2023-04-04 | 2024-02-21 |
 | [FULL HOUSE](https://open.spotify.com/track/2ia0FE0J6bGbUNOGdsdnks) | [MOBB](https://open.spotify.com/artist/6r0hPI0NVDMIwJimnNps8c) | [The MOBB](https://open.spotify.com/album/69nbmvTp6UXXcqi34tztzA) | 3:40 | 2022-09-07 | 2023-04-05 |
@@ -120,6 +120,7 @@
 | [See You In Every Party](https://open.spotify.com/track/2KgVbhxyywlDZp1juQ8gzj) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [POP A LOT](https://open.spotify.com/album/1QbzttUvCTfS4Auh28FsVf) | 3:01 | 2024-03-21 |  |
 | [Smoke \(Prod\. Dynamicduo, Padi\)](https://open.spotify.com/track/1qRfAvzRIJQodWKBNFAb6C) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Street Woman Fighter2 \(SWF2\) Class Mission](https://open.spotify.com/album/3fifgTm6PcVhHE9v72nlCb) | 3:29 | 2024-02-20 |  |
 | [So What \(Feat\. Beenzino\)](https://open.spotify.com/track/3q738cBTApcG0vo5G1OTZC) | [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [THE KING OF K\-POP](https://open.spotify.com/album/4yCUbb8PaIQnSe1afVTgGr) | 4:05 | 2022-09-07 | 2023-04-05 |
+| [SPOT!](https://open.spotify.com/track/1SS0WlKhJewviwEDZ6dWj0) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [SPOT!](https://open.spotify.com/album/3K3C9JjwCGQAzj3Bu7BUaI) | 2:47 | 2024-04-29 |  |
 | [Stay With Me \(Feat\. Skinny Brown\)](https://open.spotify.com/track/4YJlv9lK1EsszlUZ4ekj7I) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [Stay With Me](https://open.spotify.com/album/1WrH1x8AufHskA9Z2rFJOO) | 2:52 | 2024-02-20 |  |
 | [street love](https://open.spotify.com/track/0GOExXnQJ0fGP5lEgpAO5d) | [Street Baby](https://open.spotify.com/artist/0tGMuT9HxXQzAEZK9Prlim) | [street love](https://open.spotify.com/album/4PymiTC4e2KnDLpDLSodA2) | 2:09 | 2024-03-21 |  |
 | [Summer \(Feat\. BE’O\)](https://open.spotify.com/track/26Iv7VGUF1lqU10rxQXFL8) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [Summer](https://open.spotify.com/album/6Ve5QOb2WKKPLYrO7VaNr8) | 3:19 | 2022-09-07 |  |

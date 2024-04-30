@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "This is H\u00e9ctor Lavoe. The essential tracks, all in one playlist.",
+  "description": "This Is H\u00e9ctor Lavoe. Sus mejores \u00e9xitos, todos en una playlist.",
   "name": "This Is H\u00e9ctor Lavoe",
   "tracks": [
     {
@@ -42,7 +42,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 369120,
       "name": "Aguanile",
       "url": "https://open.spotify.com/track/0pX477ap2l86BbHfKTncpM"
@@ -306,7 +306,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-26",
+      "date_removed": null,
       "duration_ms": 206827,
       "name": "Dia De Ayer",
       "url": "https://open.spotify.com/track/2UmblzGZJ9L39cGBamLhgs"

@@ -2,7 +2,7 @@
 
 ### [This Is Mr\. Big](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3qhOHj)
 
-> This Is Mr\. Big\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is Mr\. Big\. The essential tracks, all in one playlist.
 
 54 songs - 3 hr 39 min
 

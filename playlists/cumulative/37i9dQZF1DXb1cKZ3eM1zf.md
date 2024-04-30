@@ -4,7 +4,7 @@
 
 > Het beste van Pinkpop en een greep uit de line\-up van 2024
 
-615 songs - 1 day 17 hr 9 min
+616 songs - 1 day 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Black Sheep](https://open.spotify.com/track/7MM5eeQwUuQT9DbBoxk1Xd) | [Angelos](https://open.spotify.com/artist/2zagWFWxFhQg3OvUmnnliq) | [Black Coffee Ibiza 17 Appreciation Mix](https://open.spotify.com/album/0n3fBF4vz0JzQPHK97NPkC) | 5:46 | 2019-03-11 | 2023-05-31 |
 | [Blaosmuziek](https://open.spotify.com/track/630IU8ZJ65Ck5nWlQWj9Q8) | [Gé Reinders](https://open.spotify.com/artist/2rUpYqHhmyb8XMB6Vz0yln) | [Blaos Mich Nao Hoes](https://open.spotify.com/album/4sG1QeVknwYisQiNn0LBov) | 3:51 | 2019-03-11 | 2023-05-31 |
 | [Blijven Slapen](https://open.spotify.com/track/1Fc6lVQFPOcEVz3QWEzXWL) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Blijven Slapen](https://open.spotify.com/album/7qWzNZ9V9KMdgIgATopvJL) | 2:50 | 2022-03-03 | 2023-05-31 |
-| [Blind Faith](https://open.spotify.com/track/04OxTCLGgDKfO0MMA2lcxv) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [No More Idols](https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr) | 3:53 | 2019-03-11 |  |
+| [Blind Faith](https://open.spotify.com/track/04OxTCLGgDKfO0MMA2lcxv) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [No More Idols](https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr) | 3:53 | 2019-03-11 | 2024-04-30 |
 | [Blinded By The Light](https://open.spotify.com/track/7kNNylJ1kswWbHeRM6UDuE) | [Manfred Mann's Earth Band](https://open.spotify.com/artist/2utNxkLhreF1oIfO8kQT3q) | [The Roaring Silence](https://open.spotify.com/album/1qVP93dewrI7bukJAFPIvV) | 7:08 | 2019-03-11 | 2023-05-31 |
 | [Blood and Thunder](https://open.spotify.com/track/3jagGO7eHHuaD53ibehkux) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Leviathan](https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b) | 3:48 | 2019-03-11 | 2023-05-31 |
 | [Blue](https://open.spotify.com/track/62GWjyFCvpuysYTIQ7B0CG) | [The Jayhawks](https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl) | [Tomorrow The Green Grass \(Legacy Edition\)](https://open.spotify.com/album/5ExzKfP1rQL45Wy9awxAUx) | 3:09 | 2019-03-11 | 2023-05-31 |
@@ -593,6 +593,7 @@
 | [Welcome to My Life](https://open.spotify.com/track/714Lw0m2SmCEhKSPw0Dn8J) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Still Not Getting Any](https://open.spotify.com/album/7l3v1MPa9GlbxbVJmaVrVd) | 3:26 | 2019-03-11 | 2023-05-31 |
 | [What Else Is There?](https://open.spotify.com/track/238vPTkV2cKupWDnAietb6) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [The Understanding](https://open.spotify.com/album/2eU47WpN00mdTlgK2Svh7V) | 5:17 | 2019-03-11 | 2023-05-31 |
 | [Whatever You Want](https://open.spotify.com/track/2PkOmx1S4XOwPU1Pgyaoig) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Quotable Quo](https://open.spotify.com/album/4IAafmNssq4xupEIUR7enj) | 4:02 | 2019-03-11 | 2023-04-21 |
+| [Whatever You Want](https://open.spotify.com/track/2kUzt5LsTUR0ggquP7O3eN) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Whatever You Want](https://open.spotify.com/album/08GCJIrpY1IegMp73501Z2) | 4:03 | 2024-02-12 |  |
 | [Whatever You Want](https://open.spotify.com/track/2z1RL1YeK6mNbbArsz6q3X) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [70s Classic Rock](https://open.spotify.com/album/3MyD4913logQSz9z48IYmq) | 4:03 | 2019-03-11 | 2023-05-31 |
 | [When Bad Does Good](https://open.spotify.com/track/00SzIFHBVTpRonBTHnHuok) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Chris Cornell \(Deluxe Edition\)](https://open.spotify.com/album/1BLVdtavgYFMQvzvX3oHpe) | 4:25 | 2019-03-11 | 2023-05-31 |
 | [Where Do We Go from Here](https://open.spotify.com/track/3vAftDoOL8aCRfdQA1Om2e) | [Fiction Plane](https://open.spotify.com/artist/3FJTU2gc2n20x6eGVSrdoc) | [Mondo Lumina](https://open.spotify.com/album/5pyZqGvFGW42BgRHcGlq6f) | 3:51 | 2019-03-11 | 2023-05-31 |

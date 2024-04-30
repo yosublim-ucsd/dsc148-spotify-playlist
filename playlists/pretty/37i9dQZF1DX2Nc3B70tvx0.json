@@ -1,44 +1,28 @@
 {
   "description": "The best in modern indie. Cover: mk.gee",
-  "num_followers": 2078848,
+  "num_followers": 2077686,
   "original_name": "Front Page Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDA5MzQ1NSwwMDAwMDAwMDFiYzNjYWJmMDg5MzI5MTA2YmMxMzVlOGZiZmNmYmUw",
+  "snapshot_id": "MTcxNDQzNDEwMCwwMDAwMDAwMDE0YTVmNGE0Njk3ODQzZmQ3MTc2ODBmYzBlZTU1ZGFk",
   "tracks": [
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-04-29 23:41:40",
       "album": {
-        "name": "My Fun",
-        "url": "https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob"
+        "name": "Like I Say (I runaway)",
+        "url": "https://open.spotify.com/album/3jdwbGosiLl00nmhwpxFIx"
       },
       "artists": [
         {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
         }
       ],
-      "duration_ms": 162291,
-      "name": "My Fun",
-      "url": "https://open.spotify.com/track/306xT15GTuDs3NyopIANrh"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Again",
-        "url": "https://open.spotify.com/album/6s144Vjf21zEdbZpySRE82"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 173447,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/7e0LOBvgnz3Rnu20gUKOeh"
+      "duration_ms": 177475,
+      "name": "Like I Say (I runaway)",
+      "url": "https://open.spotify.com/track/2D3oVAd8nHrqJH8UAfvtTT"
     },
     {
       "added_at": "2024-04-04 16:13:25",
@@ -57,6 +41,22 @@
       "url": "https://open.spotify.com/track/0AblcvD6OBKCvICEHzgWSJ"
     },
     {
+      "added_at": "2024-04-29 23:41:40",
+      "album": {
+        "name": "Hovvdy",
+        "url": "https://open.spotify.com/album/1jEwzUBvIlVPeOfqR3Ghr0"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "duration_ms": 208440,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/2D95Uh41ewhOwnshoHfL3l"
+    },
+    {
       "added_at": "2024-04-22 15:00:52",
       "album": {
         "name": "Starburster",
@@ -71,6 +71,22 @@
       "duration_ms": 221450,
       "name": "Starburster",
       "url": "https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/6s144Vjf21zEdbZpySRE82"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 173447,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/7e0LOBvgnz3Rnu20gUKOeh"
     },
     {
       "added_at": "2024-04-09 20:24:58",
@@ -103,6 +119,22 @@
       "duration_ms": 169519,
       "name": "Dream police",
       "url": "https://open.spotify.com/track/5jdlKW2oMtQkOaZp5YOS4G"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "My Fun",
+        "url": "https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 162291,
+      "name": "My Fun",
+      "url": "https://open.spotify.com/track/306xT15GTuDs3NyopIANrh"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -145,6 +177,22 @@
       "url": "https://open.spotify.com/track/3pf3hHjBJP6E4zAaSDrl8r"
     },
     {
+      "added_at": "2024-04-29 23:41:40",
+      "album": {
+        "name": "Right, Wrong or Ready",
+        "url": "https://open.spotify.com/album/4GzPDfegMPeM94iMsghfQn"
+      },
+      "artists": [
+        {
+          "name": "Kara Jackson",
+          "url": "https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl"
+        }
+      ],
+      "duration_ms": 321455,
+      "name": "Right, Wrong or Ready",
+      "url": "https://open.spotify.com/track/5thf5fzKD3tBooHlbwML78"
+    },
+    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Don't Forget Me",
@@ -161,6 +209,22 @@
       "url": "https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ"
     },
     {
+      "added_at": "2024-04-29 23:41:40",
+      "album": {
+        "name": "Light Verse",
+        "url": "https://open.spotify.com/album/0dZ4tHT2Ka2kScPqLK9x1Q"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 218639,
+      "name": "Sweet Talk",
+      "url": "https://open.spotify.com/track/3sUl6iXhQLGulbyDNaihDw"
+    },
+    {
       "added_at": "2024-04-26 01:04:15",
       "album": {
         "name": "Oysters In My Pocket",
@@ -175,6 +239,22 @@
       "duration_ms": 162338,
       "name": "Oysters In My Pocket",
       "url": "https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux"
+    },
+    {
+      "added_at": "2024-04-29 23:41:40",
+      "album": {
+        "name": "Hovvdy",
+        "url": "https://open.spotify.com/album/1jEwzUBvIlVPeOfqR3Ghr0"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "duration_ms": 210466,
+      "name": "Make Ya Proud",
+      "url": "https://open.spotify.com/track/4W3NWOJTsR3oCICJqUht5d"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -899,22 +979,6 @@
       "duration_ms": 237727,
       "name": "Dream of You",
       "url": "https://open.spotify.com/track/6pVYBR8WJdwUwMkdSTensd"
-    },
-    {
-      "added_at": "2024-04-04 16:13:25",
-      "album": {
-        "name": "Bubba",
-        "url": "https://open.spotify.com/album/1du8MwctLqseKPRs9TXP6x"
-      },
-      "artists": [
-        {
-          "name": "Hovvdy",
-          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
-        }
-      ],
-      "duration_ms": 189080,
-      "name": "Bubba",
-      "url": "https://open.spotify.com/track/635z38XAiXqvFfz6NVMO0y"
     },
     {
       "added_at": "2024-04-04 16:13:25",

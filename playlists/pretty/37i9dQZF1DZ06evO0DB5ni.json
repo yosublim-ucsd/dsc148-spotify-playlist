@@ -1,12 +1,12 @@
 {
-  "description": "This Is Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda. Los temas esenciales, todos en una lista.",
-  "num_followers": 683113,
+  "description": "This is Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda. The essential tracks, all in one playlist.",
+  "num_followers": 683543,
   "original_name": "This Is Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDE3NjAwMCwwMDAwMDAwMDY0M2VjZTgyNzU2MjQzY2JmYjYxN2JjMzVlNDg4NWU4",
+  "snapshot_id": "MTcxNDI2MjQwMCwwMDAwMDAwMDIxNDcyMDM2MTljMTliNWFlMzQxNGY4NDMxNzMyN2E4",
   "tracks": [
     {
       "added_at": null,
@@ -399,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
+        "name": "Tu Amigo Nada M\u00e1s",
+        "url": "https://open.spotify.com/album/1eLe9veDFuCD9ZIQYhsaI2"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
         }
       ],
-      "duration_ms": 223480,
-      "name": "Dime",
-      "url": "https://open.spotify.com/track/2MsHqegaJQIiulNQi9fZ3p"
+      "duration_ms": 166360,
+      "name": "T\u00fa No Tienes La Culpa",
+      "url": "https://open.spotify.com/track/4jQkzC3vhDRKy1mMZoGpYu"
     },
     {
       "added_at": null,
@@ -431,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Amigo Nada M\u00e1s",
-        "url": "https://open.spotify.com/album/1eLe9veDFuCD9ZIQYhsaI2"
+        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
       },
       "artists": [
         {
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
         }
       ],
-      "duration_ms": 166360,
-      "name": "T\u00fa No Tienes La Culpa",
-      "url": "https://open.spotify.com/track/4jQkzC3vhDRKy1mMZoGpYu"
+      "duration_ms": 223480,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/2MsHqegaJQIiulNQi9fZ3p"
     },
     {
       "added_at": null,
@@ -463,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Hoy En Adelante, Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh"
+        "name": "Tu Amigo Nada M\u00e1s",
+        "url": "https://open.spotify.com/album/1eLe9veDFuCD9ZIQYhsaI2"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
         }
       ],
-      "duration_ms": 145653,
-      "name": "No Se Ocupa M\u00e1s",
-      "url": "https://open.spotify.com/track/52joCc2An6laDcTOLc852J"
+      "duration_ms": 235600,
+      "name": "A D\u00f3nde Quiera Que Vaya",
+      "url": "https://open.spotify.com/track/3SAuHX9P3o0MIu7PDxFVur"
     },
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Amigo Nada M\u00e1s",
-        "url": "https://open.spotify.com/album/1eLe9veDFuCD9ZIQYhsaI2"
+        "name": "De Hoy En Adelante, Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
         }
       ],
-      "duration_ms": 235600,
-      "name": "A D\u00f3nde Quiera Que Vaya",
-      "url": "https://open.spotify.com/track/3SAuHX9P3o0MIu7PDxFVur"
+      "duration_ms": 145653,
+      "name": "No Se Ocupa M\u00e1s",
+      "url": "https://open.spotify.com/track/52joCc2An6laDcTOLc852J"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
       "duration_ms": 243133,
       "name": "Olv\u00eddame",
       "url": "https://open.spotify.com/track/0S0O5SDpY3DSAz4cLED6Ay"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Hoy En Adelante, Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 234386,
-      "name": "Lecci\u00f3n Aprendida",
-      "url": "https://open.spotify.com/track/3TKcpYPqR5Z2H4c5PhXcce"
     },
     {
       "added_at": null,
@@ -575,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "De Hoy En Adelante, Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 234386,
+      "name": "Lecci\u00f3n Aprendida",
+      "url": "https://open.spotify.com/track/3TKcpYPqR5Z2H4c5PhXcce"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
       },
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Aferrado",
-        "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 187173,
-      "name": "No S\u00e9",
-      "url": "https://open.spotify.com/track/76LNcs9r5RU3b6yB2UW10E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PRESENTE",
         "url": "https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 177680,
       "name": "Cap\u00edtulo Triste",
       "url": "https://open.spotify.com/track/5Uyke0zF2O32vMcETnuByX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Aferrado",
+        "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 187173,
+      "name": "No S\u00e9",
+      "url": "https://open.spotify.com/track/76LNcs9r5RU3b6yB2UW10E"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni Lo Intentes",
-        "url": "https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 168333,
-      "name": "Amantes De Media Noche",
-      "url": "https://open.spotify.com/track/6WzM7deH5S2v6E5pVgJl25"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PRESENTE",
         "url": "https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 155493,
       "name": "T\u00fa Me Cambiaste",
       "url": "https://open.spotify.com/track/4Gl6nmZqSU6F9w7uqQB2FU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ni Lo Intentes",
+        "url": "https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 168333,
+      "name": "Amantes De Media Noche",
+      "url": "https://open.spotify.com/track/6WzM7deH5S2v6E5pVgJl25"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni Lo Intentes",
-        "url": "https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 146080,
-      "name": "La Mar\u00eda",
-      "url": "https://open.spotify.com/track/5jPprrmhOMek0GlcMMHkda"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Aferrado",
         "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 163040,
       "name": "El Aferrado",
       "url": "https://open.spotify.com/track/5H60a1evkC6f1VJ3TCkoIQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ni Lo Intentes",
+        "url": "https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 146080,
+      "name": "La Mar\u00eda",
+      "url": "https://open.spotify.com/track/5jPprrmhOMek0GlcMMHkda"
     },
     {
       "added_at": null,

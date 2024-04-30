@@ -1,6 +1,6 @@
 {
   "description": "Music from \"Idle Master SideM\". \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fcSideM\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n",
-  "num_followers": 22756,
+  "num_followers": 22771,
   "original_name": "THE IDOLM@STER SideM \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc SideM",
   "owner": {
     "name": "Spotify",
@@ -763,18 +763,18 @@
     {
       "added_at": "2024-03-05 17:33:35",
       "album": {
-        "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 06",
-        "url": "https://open.spotify.com/album/3FPBLf9wQsO8XR1aWQfXzA"
+        "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 04",
+        "url": "https://open.spotify.com/album/5Yet8gOB7zDw4ao5hA0WNS"
       },
       "artists": [
         {
-          "name": "Beit",
-          "url": "https://open.spotify.com/artist/1AZCEPWgL4qpqfc86wi9Ah"
+          "name": "Legenders",
+          "url": "https://open.spotify.com/artist/4iG460lxCJz1J6UYEbYxTR"
         }
       ],
-      "duration_ms": 276546,
-      "name": "Avenue Illusion!",
-      "url": "https://open.spotify.com/track/2lqD4z4sqYHRF7HukTBIqN"
+      "duration_ms": 278026,
+      "name": "Make New Legend",
+      "url": "https://open.spotify.com/track/4TzriFqTsiD4AMR0FBuXtA"
     },
     {
       "added_at": "2024-03-05 17:33:35",
@@ -795,18 +795,18 @@
     {
       "added_at": "2024-03-05 17:33:35",
       "album": {
-        "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 04",
-        "url": "https://open.spotify.com/album/5Yet8gOB7zDw4ao5hA0WNS"
+        "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 06",
+        "url": "https://open.spotify.com/album/3FPBLf9wQsO8XR1aWQfXzA"
       },
       "artists": [
         {
-          "name": "Legenders",
-          "url": "https://open.spotify.com/artist/4iG460lxCJz1J6UYEbYxTR"
+          "name": "Beit",
+          "url": "https://open.spotify.com/artist/1AZCEPWgL4qpqfc86wi9Ah"
         }
       ],
-      "duration_ms": 278026,
-      "name": "Make New Legend",
-      "url": "https://open.spotify.com/track/4TzriFqTsiD4AMR0FBuXtA"
+      "duration_ms": 276546,
+      "name": "Avenue Illusion!",
+      "url": "https://open.spotify.com/track/2lqD4z4sqYHRF7HukTBIqN"
     },
     {
       "added_at": "2024-03-05 17:33:35",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-03-05 17:33:35",
       "album": {
-        "name": "THE IDOLM@STER SideM 49 ELEMENTS -07 Altessimo",
-        "url": "https://open.spotify.com/album/3vjUKQMaJjm1pc3RLhziH4"
-      },
-      "artists": [
-        {
-          "name": "\u90fd\u7bc9 \u572d (CV.\u571f\u5c90\u96bc\u4e00)",
-          "url": "https://open.spotify.com/artist/4uLjWMjKIIfL9EIjR6vnQx"
-        }
-      ],
-      "duration_ms": 309866,
-      "name": "Resonate Blessing",
-      "url": "https://open.spotify.com/track/4Wb3NyRgnl8o3helEmmCUm"
-    },
-    {
-      "added_at": "2024-03-05 17:33:35",
-      "album": {
         "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 06",
         "url": "https://open.spotify.com/album/3FPBLf9wQsO8XR1aWQfXzA"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 349000,
       "name": "\u3044\u3064\u304b\u306e\u30c8\u30e9\u30a4\u30a2\u30f3\u30b0\u30eb",
       "url": "https://open.spotify.com/track/1HFMjPsihGlVX4MiECVlgp"
+    },
+    {
+      "added_at": "2024-03-05 17:33:35",
+      "album": {
+        "name": "THE IDOLM@STER SideM 49 ELEMENTS -07 Altessimo",
+        "url": "https://open.spotify.com/album/3vjUKQMaJjm1pc3RLhziH4"
+      },
+      "artists": [
+        {
+          "name": "\u90fd\u7bc9 \u572d (CV.\u571f\u5c90\u96bc\u4e00)",
+          "url": "https://open.spotify.com/artist/4uLjWMjKIIfL9EIjR6vnQx"
+        }
+      ],
+      "duration_ms": 309866,
+      "name": "Resonate Blessing",
+      "url": "https://open.spotify.com/track/4Wb3NyRgnl8o3helEmmCUm"
     },
     {
       "added_at": "2024-03-05 17:33:35",
@@ -1091,46 +1091,6 @@
     {
       "added_at": "2024-03-05 17:33:35",
       "album": {
-        "name": "THE IDOLM@STER SideM WORLD TRE@SURE 03",
-        "url": "https://open.spotify.com/album/2600B026iZThRT78I7Xjlk"
-      },
-      "artists": [
-        {
-          "name": "\u6a58 \u5fd7\u72fc (CV.\u53e4\u7551\u6075\u4ecb)",
-          "url": "https://open.spotify.com/artist/29N5EzAl3nWfydjQkSyAH2"
-        },
-        {
-          "name": "\u7872 \u9053\u592b (CV.\u4f0a\u6771\u5065\u4eba)",
-          "url": "https://open.spotify.com/artist/4EhRW7ws3liEFllG66Nwlq"
-        },
-        {
-          "name": "\u7259\u5d0e \u6f23 (CV.\u5c0f\u677e\u660c\u5e73)",
-          "url": "https://open.spotify.com/artist/12UKr0NKzDGIckxk5QDknx"
-        }
-      ],
-      "duration_ms": 248333,
-      "name": "Baile Apasionado",
-      "url": "https://open.spotify.com/track/2OTdGu4Ar0sX2OhbSlevlq"
-    },
-    {
-      "added_at": "2024-03-05 17:33:35",
-      "album": {
-        "name": "THE IDOLM@STER SideM 3rd ANNIVERSARY 01",
-        "url": "https://open.spotify.com/album/0pKniFFDpwItfygikcY5BG"
-      },
-      "artists": [
-        {
-          "name": "Altessimo",
-          "url": "https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8"
-        }
-      ],
-      "duration_ms": 279333,
-      "name": "Tone's Destiny",
-      "url": "https://open.spotify.com/track/3L0J09Vkwx7OupyfRNAv22"
-    },
-    {
-      "added_at": "2024-03-05 17:33:35",
-      "album": {
         "name": "THE IDOLM@STER SideM 3rd ANNIVERSARY 03",
         "url": "https://open.spotify.com/album/7JXzidlHOceKVsvd26HaZl"
       },
@@ -1151,6 +1111,46 @@
       "duration_ms": 296440,
       "name": "\u7b11\u9854\u306e\u796d\u308a\u306b\u3083\u3001\u798f\u6765\u308b",
       "url": "https://open.spotify.com/track/0G4tWUZwTTzzUPNByt0Bt9"
+    },
+    {
+      "added_at": "2024-03-05 17:33:35",
+      "album": {
+        "name": "THE IDOLM@STER SideM 3rd ANNIVERSARY 01",
+        "url": "https://open.spotify.com/album/0pKniFFDpwItfygikcY5BG"
+      },
+      "artists": [
+        {
+          "name": "Altessimo",
+          "url": "https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8"
+        }
+      ],
+      "duration_ms": 279333,
+      "name": "Tone's Destiny",
+      "url": "https://open.spotify.com/track/3L0J09Vkwx7OupyfRNAv22"
+    },
+    {
+      "added_at": "2024-03-05 17:33:35",
+      "album": {
+        "name": "THE IDOLM@STER SideM WORLD TRE@SURE 03",
+        "url": "https://open.spotify.com/album/2600B026iZThRT78I7Xjlk"
+      },
+      "artists": [
+        {
+          "name": "\u6a58 \u5fd7\u72fc (CV.\u53e4\u7551\u6075\u4ecb)",
+          "url": "https://open.spotify.com/artist/29N5EzAl3nWfydjQkSyAH2"
+        },
+        {
+          "name": "\u7872 \u9053\u592b (CV.\u4f0a\u6771\u5065\u4eba)",
+          "url": "https://open.spotify.com/artist/4EhRW7ws3liEFllG66Nwlq"
+        },
+        {
+          "name": "\u7259\u5d0e \u6f23 (CV.\u5c0f\u677e\u660c\u5e73)",
+          "url": "https://open.spotify.com/artist/12UKr0NKzDGIckxk5QDknx"
+        }
+      ],
+      "duration_ms": 248333,
+      "name": "Baile Apasionado",
+      "url": "https://open.spotify.com/track/2OTdGu4Ar0sX2OhbSlevlq"
     },
     {
       "added_at": "2024-03-05 17:33:35",

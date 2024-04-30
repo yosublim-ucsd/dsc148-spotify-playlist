@@ -1,6 +1,6 @@
 {
   "description": "Groovy, dancy, funky stuff. When in doubt, turn this on at the party.\n",
-  "num_followers": 314160,
+  "num_followers": 314246,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
@@ -585,6 +585,22 @@
       "url": "https://open.spotify.com/track/6pEAd0UjznaKABT7WLLvmC"
     },
     {
+      "added_at": "2024-04-19 05:00:00",
+      "album": {
+        "name": "SELFISH",
+        "url": "https://open.spotify.com/album/6pMYtOdrMJqGhVdat8yLV3"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 192705,
+      "name": "SELFISH",
+      "url": "https://open.spotify.com/track/5eK3fdNouqjL8YpX2tCWHB"
+    },
+    {
       "added_at": "2024-03-22 19:56:32",
       "album": {
         "name": "Baby Wants to Ride / Your Love",
@@ -617,22 +633,6 @@
       "url": "https://open.spotify.com/track/1kgHjcE0F72RDkaA8adtXG"
     },
     {
-      "added_at": "2024-02-16 18:16:21",
-      "album": {
-        "name": "Someone's EP II",
-        "url": "https://open.spotify.com/album/5hb9aZmt8McCp8ktZh2dJZ"
-      },
-      "artists": [
-        {
-          "name": "BAYNK",
-          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
-        }
-      ],
-      "duration_ms": 231192,
-      "name": "go with u",
-      "url": "https://open.spotify.com/track/4PdLup4OaCGktZG8cvbkBz"
-    },
-    {
       "added_at": "2024-04-19 05:00:00",
       "album": {
         "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
@@ -653,20 +653,20 @@
       "url": "https://open.spotify.com/track/6JZOZWEpu1hcTCz28rnQwJ"
     },
     {
-      "added_at": "2024-04-19 05:00:00",
+      "added_at": "2024-02-16 18:16:21",
       "album": {
-        "name": "SELFISH",
-        "url": "https://open.spotify.com/album/6pMYtOdrMJqGhVdat8yLV3"
+        "name": "Someone's EP II",
+        "url": "https://open.spotify.com/album/5hb9aZmt8McCp8ktZh2dJZ"
       },
       "artists": [
         {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
         }
       ],
-      "duration_ms": 192705,
-      "name": "SELFISH",
-      "url": "https://open.spotify.com/track/5eK3fdNouqjL8YpX2tCWHB"
+      "duration_ms": 231192,
+      "name": "go with u",
+      "url": "https://open.spotify.com/track/4PdLup4OaCGktZG8cvbkBz"
     },
     {
       "added_at": "2024-02-16 18:16:21",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-02-16 18:16:21",
       "album": {
-        "name": "Happy Music",
-        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
-      },
-      "artists": [
-        {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        }
-      ],
-      "duration_ms": 194962,
-      "name": "Keep It Rising",
-      "url": "https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN"
-    },
-    {
-      "added_at": "2024-02-16 18:16:21",
-      "album": {
         "name": "times",
         "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 255826,
       "name": "Chemicals",
       "url": "https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv"
+    },
+    {
+      "added_at": "2024-02-16 18:16:21",
+      "album": {
+        "name": "Happy Music",
+        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        }
+      ],
+      "duration_ms": 194962,
+      "name": "Keep It Rising",
+      "url": "https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN"
     },
     {
       "added_at": "2024-02-16 18:16:21",

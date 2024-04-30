@@ -1,6 +1,6 @@
 {
   "description": "Emerging sounds in worship from everywhere.",
-  "num_followers": 125212,
+  "num_followers": 125214,
   "original_name": "New & Bold",
   "owner": {
     "name": "Spotify",
@@ -923,6 +923,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "We Have The Name",
+        "url": "https://open.spotify.com/album/081GPoVZSZxpeCclSrcKlH"
+      },
+      "artists": [
+        {
+          "name": "Bridge Worship",
+          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
+        }
+      ],
+      "duration_ms": 346591,
+      "name": "How High",
+      "url": "https://open.spotify.com/track/3oAdET3kYDy4snDhKIKEuH"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Fearless / Fill Up The Sky (Live)",
         "url": "https://open.spotify.com/album/0FJOaqUeh18LeJMqFx9k1A"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 280519,
       "name": "Fearless - Live",
       "url": "https://open.spotify.com/track/5rp9r3rFr45bPTsgi18tQB"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "We Have The Name",
-        "url": "https://open.spotify.com/album/081GPoVZSZxpeCclSrcKlH"
-      },
-      "artists": [
-        {
-          "name": "Bridge Worship",
-          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
-        }
-      ],
-      "duration_ms": 346591,
-      "name": "How High",
-      "url": "https://open.spotify.com/track/3oAdET3kYDy4snDhKIKEuH"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "YEAR OF VICTORY",
+        "url": "https://open.spotify.com/album/3XDpH7KDR7vtIGVPYMKBvx"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "duration_ms": 230444,
+      "name": "YEAR OF VICTORY",
+      "url": "https://open.spotify.com/track/4D8wGHyzwwNDa2vpZJKn5h"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Here Comes This Dreamer (Live)",
         "url": "https://open.spotify.com/album/5qIgXZGm3ED0bstbSg37Ig"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 253756,
       "name": "Heaven's Well - Live",
       "url": "https://open.spotify.com/track/1JQzeSYo86SvhiU5dmCDqK"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "YEAR OF VICTORY",
-        "url": "https://open.spotify.com/album/3XDpH7KDR7vtIGVPYMKBvx"
-      },
-      "artists": [
-        {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
-        }
-      ],
-      "duration_ms": 230444,
-      "name": "YEAR OF VICTORY",
-      "url": "https://open.spotify.com/track/4D8wGHyzwwNDa2vpZJKn5h"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Reputation",
+        "url": "https://open.spotify.com/album/35uMWw91HLD6OCBwCJSEv9"
+      },
+      "artists": [
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        }
+      ],
+      "duration_ms": 242606,
+      "name": "Reputation",
+      "url": "https://open.spotify.com/track/63KXg5coLHasBMw6QY8SDR"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "I Heard a Song I Can't Ignore",
         "url": "https://open.spotify.com/album/53YgGrvY32WGW97USevt8m"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 314693,
       "name": "Never See the End",
       "url": "https://open.spotify.com/track/7rPewRYX89xFF9C64DrcZQ"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Reputation",
-        "url": "https://open.spotify.com/album/35uMWw91HLD6OCBwCJSEv9"
-      },
-      "artists": [
-        {
-          "name": "Mitch Wong",
-          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
-        }
-      ],
-      "duration_ms": 242606,
-      "name": "Reputation",
-      "url": "https://open.spotify.com/track/63KXg5coLHasBMw6QY8SDR"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Change (Live)",
-        "url": "https://open.spotify.com/album/2IE53DEPIAR6Ym7JXK13uH"
-      },
-      "artists": [
-        {
-          "name": "Bright City",
-          "url": "https://open.spotify.com/artist/5hYRBkg6k7yq787YZedMaR"
-        }
-      ],
-      "duration_ms": 329813,
-      "name": "Change - Live",
-      "url": "https://open.spotify.com/track/6IzMmHtGpqtGHI9y6dJJdO"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "All I Need",
         "url": "https://open.spotify.com/album/0egI1RHqW3k0XFfgbiCdVl"
       },
@@ -1871,6 +1855,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Change (Live)",
+        "url": "https://open.spotify.com/album/2IE53DEPIAR6Ym7JXK13uH"
+      },
+      "artists": [
+        {
+          "name": "Bright City",
+          "url": "https://open.spotify.com/artist/5hYRBkg6k7yq787YZedMaR"
+        }
+      ],
+      "duration_ms": 329813,
+      "name": "Change - Live",
+      "url": "https://open.spotify.com/track/6IzMmHtGpqtGHI9y6dJJdO"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/4ZMCjXFFNlIIwp5uI20Njt"
       },
@@ -1883,6 +1883,26 @@
       "duration_ms": 288386,
       "name": "Found",
       "url": "https://open.spotify.com/track/3S9QiEXE0wFkFnUTny7BUf"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Lord You Have My Heart (feat. Martin Smith)",
+        "url": "https://open.spotify.com/album/2ruV9qUcGIV9SKOQpHrINS"
+      },
+      "artists": [
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        },
+        {
+          "name": "Martin Smith",
+          "url": "https://open.spotify.com/artist/4bY9UB7BwlfZCAnKJPzGIz"
+        }
+      ],
+      "duration_ms": 267467,
+      "name": "Lord You Have My Heart (feat. Martin Smith)",
+      "url": "https://open.spotify.com/track/5zQBaedwtzHmC1z5OSNqvX"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1907,26 +1927,6 @@
       "duration_ms": 409909,
       "name": "The Blessing (feat. Maranda Curtis) - Song Session",
       "url": "https://open.spotify.com/track/0bicWqcGF8HXaaBB1HqnxR"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Lord You Have My Heart (feat. Martin Smith)",
-        "url": "https://open.spotify.com/album/2ruV9qUcGIV9SKOQpHrINS"
-      },
-      "artists": [
-        {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
-        },
-        {
-          "name": "Martin Smith",
-          "url": "https://open.spotify.com/artist/4bY9UB7BwlfZCAnKJPzGIz"
-        }
-      ],
-      "duration_ms": 267467,
-      "name": "Lord You Have My Heart (feat. Martin Smith)",
-      "url": "https://open.spotify.com/track/5zQBaedwtzHmC1z5OSNqvX"
     },
     {
       "added_at": "2021-06-12 04:00:40",

@@ -3047,6 +3047,32 @@
     },
     {
       "album": {
+        "name": "June",
+        "url": "https://open.spotify.com/album/5R8lqTv6VUfTgPyuA3vScp"
+      },
+      "artists": [
+        {
+          "name": "Thierry Von Der Warth",
+          "url": "https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1"
+        },
+        {
+          "name": "Carston",
+          "url": "https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6"
+        },
+        {
+          "name": "Horizon Blue",
+          "url": "https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163572,
+      "name": "June",
+      "url": "https://open.spotify.com/track/1xfj8i1OvEhqJmWncOV2d5"
+    },
+    {
+      "album": {
         "name": "Just Let Go",
         "url": "https://open.spotify.com/album/4bchuimjnR9IeoeNZMAQoq"
       },

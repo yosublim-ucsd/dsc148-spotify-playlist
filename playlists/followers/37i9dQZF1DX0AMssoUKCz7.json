@@ -1,5 +1,5 @@
 {
-  "2024-04-29": 2210880,
+  "2024-04-30": 2210756,
   "date_first_scraped": "2022-01-17",
   "description": "Take down the tempo but keep the dance party going with the biggest tropical house jams.",
   "name": "Tropical House",
@@ -803,6 +803,28 @@
       "duration_ms": 160053,
       "name": "Baby",
       "url": "https://open.spotify.com/track/1bA2ZK7CFxEMnyn1dWP2jp"
+    },
+    {
+      "album": {
+        "name": "Back On Ibiza",
+        "url": "https://open.spotify.com/album/3ExNuYLS0KtuM1OJdXQwEj"
+      },
+      "artists": [
+        {
+          "name": "Vogel",
+          "url": "https://open.spotify.com/artist/3E1WT25XSYZkSdw2FLEaCB"
+        },
+        {
+          "name": "James Stefano",
+          "url": "https://open.spotify.com/artist/38Hlo0i9xWEI6JCe28nlzf"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134285,
+      "name": "Back On Ibiza",
+      "url": "https://open.spotify.com/track/7FR94d3PgJXnDkSaU2o9PP"
     },
     {
       "album": {
@@ -7032,6 +7054,32 @@
     },
     {
       "album": {
+        "name": "Lift",
+        "url": "https://open.spotify.com/album/3OtzuphM3lBNSR4eERJpuo"
+      },
+      "artists": [
+        {
+          "name": "Fo\u00ednix",
+          "url": "https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO"
+        },
+        {
+          "name": "Chris Ruo",
+          "url": "https://open.spotify.com/artist/1hGDMRx4NEk3H6cA8qevzY"
+        },
+        {
+          "name": "Eirik N\u00e6ss",
+          "url": "https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146129,
+      "name": "Lift",
+      "url": "https://open.spotify.com/track/1zANAYogydAh5DBNIVswie"
+    },
+    {
+      "album": {
         "name": "Lights",
         "url": "https://open.spotify.com/album/3O25WKfP6mQLHiBMzlnRyC"
       },
@@ -9371,7 +9419,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 184380,
       "name": "Old Life",
       "url": "https://open.spotify.com/track/0zDd81VI35l7iRj1fUvadx"
@@ -14059,7 +14107,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 228000,
       "name": "We Start Fires",
       "url": "https://open.spotify.com/track/0hsMhZA3gguNuHOcDsGmOf"

@@ -1,6 +1,6 @@
 {
   "description": "A lo cubano \ud83d\udd25 Con El Chacal en portada.",
-  "num_followers": 7946,
+  "num_followers": 7957,
   "original_name": "Cubat\u00f3n Miami",
   "owner": {
     "name": "Spotify",
@@ -551,26 +551,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Pi\u00f1a Colada",
-        "url": "https://open.spotify.com/album/2aRxTjGSC7zwgIiCuoQh4E"
-      },
-      "artists": [
-        {
-          "name": "Orlenis 22k",
-          "url": "https://open.spotify.com/artist/6ydjOvHh5NpnvDoNUUpj9s"
-        },
-        {
-          "name": "Charly & Johayron",
-          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Pi\u00f1a Colada",
-      "url": "https://open.spotify.com/track/67h0pnnJczXLsNqmew78lw"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "La Diferencia",
         "url": "https://open.spotify.com/album/1D0tKGeYGWAANfa1oCmBbS"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 174757,
       "name": "La Diferencia",
       "url": "https://open.spotify.com/track/5dSz3tq9yM9EY8FkT7Kdfp"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Pi\u00f1a Colada",
+        "url": "https://open.spotify.com/album/2aRxTjGSC7zwgIiCuoQh4E"
+      },
+      "artists": [
+        {
+          "name": "Orlenis 22k",
+          "url": "https://open.spotify.com/artist/6ydjOvHh5NpnvDoNUUpj9s"
+        },
+        {
+          "name": "Charly & Johayron",
+          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Pi\u00f1a Colada",
+      "url": "https://open.spotify.com/track/67h0pnnJczXLsNqmew78lw"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -903,26 +903,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Un Beso",
-        "url": "https://open.spotify.com/album/68d6YuPRSd9DkddCRQBl2R"
-      },
-      "artists": [
-        {
-          "name": "El Kamel",
-          "url": "https://open.spotify.com/artist/3YgwtcjB89K3jjvK0dvL34"
-        },
-        {
-          "name": "Lenier",
-          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
-        }
-      ],
-      "duration_ms": 193526,
-      "name": "Un Beso",
-      "url": "https://open.spotify.com/track/74CNQ4u45e0XNWrdqBhG3w"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "#Round2",
         "url": "https://open.spotify.com/album/6a3ea5TFfoPTy5mg4QitFr"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 178055,
       "name": "Pobre Coraz\u00f3n - with Lenier",
       "url": "https://open.spotify.com/track/29orueqF7k02TWw9CVHQh1"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Un Beso",
+        "url": "https://open.spotify.com/album/68d6YuPRSd9DkddCRQBl2R"
+      },
+      "artists": [
+        {
+          "name": "El Kamel",
+          "url": "https://open.spotify.com/artist/3YgwtcjB89K3jjvK0dvL34"
+        },
+        {
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+        }
+      ],
+      "duration_ms": 193526,
+      "name": "Un Beso",
+      "url": "https://open.spotify.com/track/74CNQ4u45e0XNWrdqBhG3w"
     },
     {
       "added_at": "2024-02-09 05:00:00",

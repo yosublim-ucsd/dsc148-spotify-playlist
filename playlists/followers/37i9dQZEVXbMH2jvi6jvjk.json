@@ -1,5 +1,5 @@
 {
-  "2024-04-29": 44204,
+  "2024-04-30": 44194,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - South Africa.",
   "name": "Top 50 - South Africa",
@@ -2667,7 +2667,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-28",
+      "date_removed": null,
       "duration_ms": 148517,
       "name": "ART",
       "url": "https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi"
@@ -6381,7 +6381,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 264324,
       "name": "CARNIVAL",
       "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
@@ -9631,7 +9631,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-23",
+      "date_removed": null,
       "duration_ms": 306909,
       "name": "Dubula (feat. DJ Latimmy) - Remake",
       "url": "https://open.spotify.com/track/1eOOCRtXcPwK8qG8VjtczJ"
@@ -9819,7 +9819,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-23",
+      "date_removed": null,
       "duration_ms": 407804,
       "name": "Ebasini (feat. Tman Xpress, Visca, Ceeka RSA, Sjavasdadeejayj & Al Xapo)",
       "url": "https://open.spotify.com/track/3E1PwVodPiDbBHOI85CO9M"
@@ -16392,6 +16392,28 @@
     },
     {
       "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/0PC4nNOx6lQfVYhT7r82AX"
+      },
+      "artists": [
+        {
+          "name": "Da Gifto",
+          "url": "https://open.spotify.com/artist/0mFhfEcGYiLBFbx15D4yFF"
+        },
+        {
+          "name": "Brandon Dhludhlu",
+          "url": "https://open.spotify.com/artist/52zb54u1O9XYU9pGqCSWD4"
+        }
+      ],
+      "date_added": "2024-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 492518,
+      "name": "Ingelosi",
+      "url": "https://open.spotify.com/track/3wszhvnFWgMXzYGJVQweII"
+    },
+    {
+      "album": {
         "name": "Inhliziyo (feat. Babalwa M)",
         "url": "https://open.spotify.com/album/4EsxwkwftyCnqpTDbyQzln"
       },
@@ -16859,7 +16881,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-23",
+      "date_removed": null,
       "duration_ms": 413838,
       "name": "Isgubhu",
       "url": "https://open.spotify.com/track/1ng4byy7mejezJ08hs4P7R"
@@ -19093,7 +19115,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-23",
+      "date_removed": null,
       "duration_ms": 368666,
       "name": "Kokotela (feat. Scotts Maphuma & Gipa)",
       "url": "https://open.spotify.com/track/48lcmlbwm4VHcOfXqWlVbx"
@@ -19537,7 +19559,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 183990,
       "name": "L o s e M y M i n d",
       "url": "https://open.spotify.com/track/7mrFGO24hccC48c2hQzyEC"
@@ -20933,7 +20955,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -22805,8 +22827,8 @@
           "url": "https://open.spotify.com/artist/4GugIMfUFCc3IJM7jD2C5d"
         },
         {
-          "name": "Cowboii",
-          "url": "https://open.spotify.com/artist/5HZXimQQLN898mVeHtqwed"
+          "name": "CowBoii",
+          "url": "https://open.spotify.com/artist/5n0o0t9wgg6uzHqfVd2Yr1"
         },
         {
           "name": "djygubzin.live",
@@ -24547,7 +24569,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 156000,
       "name": "Ngibongiseni",
       "url": "https://open.spotify.com/track/1uJ9tdJnrJcTf6ormmHvPU"
@@ -32595,7 +32617,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 441826,
       "name": "Sondela",
       "url": "https://open.spotify.com/track/3tHBvtbSHlu9ZXgIfTvve8"
@@ -33795,7 +33817,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 413584,
       "name": "Sukakude (feat. Sfarzo Rtee)",
       "url": "https://open.spotify.com/track/1rtMuIY76v879DN8kW1fhf"

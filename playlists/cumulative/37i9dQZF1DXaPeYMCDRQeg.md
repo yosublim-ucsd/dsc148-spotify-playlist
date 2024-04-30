@@ -4,7 +4,7 @@
 
 > My love language is all of em, do all that $\#\*!
 
-285 songs - 19 hr 10 min
+286 songs - 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Cruisin'](https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Where There's Smoke...](https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU) | 5:52 | 2022-03-14 | 2023-02-11 |
 | [Cupid](https://open.spotify.com/track/3kVIFDE3G89I2RPVkiRaRj) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [112](https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc) | 4:12 | 2021-12-15 | 2023-02-11 |
 | [Curious \(feat\. Jimi Tents & Garren\)](https://open.spotify.com/track/5ELIl3vnSY0mF7jpf7lyhC) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI), [Jimi Tents](https://open.spotify.com/artist/1KW04GdOuzrsTVOAVd6eRg), [Garren](https://open.spotify.com/artist/0963LEoOeEvJqPRYH9eG7X) | [Curious \(feat\. Jimi Tents & Garren\)](https://open.spotify.com/album/6lpJujucgwCYj9fw15Gmsc) | 4:10 | 2021-12-15 | 2022-07-29 |
+| [DAMAGED GOODS](https://open.spotify.com/track/06epYIK3ECrIKlVxmZwVZ7) | [Serayah](https://open.spotify.com/artist/3N3R2mEESjTYM3W6ye2bod), [Hylan Starr](https://open.spotify.com/artist/4QqSN19btzq9AcjTKhuGYI) | [Archives](https://open.spotify.com/album/1G2rgOUVGdVzOEIjsqDGOX) | 2:53 | 2024-04-29 |  |
 | [Dance Tonight](https://open.spotify.com/track/1TwVcKR6JojvPwBGbWZT36) | [Lucy Pearl](https://open.spotify.com/artist/0OUXTnqjvTg4iZ7Lhq6vv7) | [Lucy Pearl](https://open.spotify.com/album/5cT0D5QzJo8coTaeT4OynR) | 3:41 | 2024-01-31 |  |
 | [Decide](https://open.spotify.com/track/7kgkHtqxN1es6hHW6SQJPG) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [Decide](https://open.spotify.com/album/1eqrynMJ4HC4MJ5ycoHMsW) | 3:51 | 2021-12-15 | 2022-07-28 |
 | [Devotion](https://open.spotify.com/track/2b3y7M0vz0oqP5AwGguTV7) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [Devotion](https://open.spotify.com/album/6Ybk2UXncKCGUvi41vwcWR) | 4:09 | 2021-12-15 | 2022-07-29 |
@@ -135,7 +136,7 @@
 | [I\. Pink Toes](https://open.spotify.com/track/4OfESCGOUVZMuGvppCU51j) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Because the Internet](https://open.spotify.com/album/62yjWIhnATHxPqGbgC9Lqr) | 3:27 | 2024-01-31 | 2024-04-25 |
 | [ICU](https://open.spotify.com/track/3tpI98Yae25hSvhh6mitA9) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn’t Tell You \(Deluxe\)](https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ) | 4:01 | 2023-02-10 | 2024-04-19 |
 | [ICU](https://open.spotify.com/track/58cMDjQSUdWJUgFmHxRhjt) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/0ZXTkMwilEQdz3KHe0dEPA) | 4:01 | 2023-02-10 |  |
-| [III\. Urn](https://open.spotify.com/track/1wYIv0ySOwjMFWLOtrgtbo) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Because the Internet](https://open.spotify.com/album/62yjWIhnATHxPqGbgC9Lqr) | 1:13 | 2024-04-24 |  |
+| [III\. Urn](https://open.spotify.com/track/1wYIv0ySOwjMFWLOtrgtbo) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Because the Internet](https://open.spotify.com/album/62yjWIhnATHxPqGbgC9Lqr) | 1:13 | 2024-04-24 | 2024-04-30 |
 | [Impatient](https://open.spotify.com/track/3WjyiSbfR74pjWXQ3IaFKJ) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Late Nights: The Album](https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96) | 4:05 | 2024-01-31 |  |
 | [In Love With You](https://open.spotify.com/track/79UjqYt9MCLlBpzAvaKVJj) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 5:21 | 2022-03-14 | 2023-02-11 |
 | [In My Corner](https://open.spotify.com/track/0T56FSDWcKwWfXy2MXAzZG) | [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY) | [Aura III](https://open.spotify.com/album/3wdfgwqVQT0aJTJsqifubF) | 3:08 | 2021-12-15 | 2022-07-29 |

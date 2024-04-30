@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Joyner Lucas
 
-630 songs - 1 day 9 hr 39 min
+631 songs - 1 day 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,7 @@
 | [Fire Proof](https://open.spotify.com/track/3QANNgnNhT17Ll4xbPPKpY) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Fire Proof](https://open.spotify.com/album/1lkXpwEqvshMPhGFLm8gJI) | 2:02 | 2022-08-19 | 2022-09-03 |
 | [Fireplace \(feat\. Jennifair\)](https://open.spotify.com/track/43xKZy5ndorNyMK2xhOb2o) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Jennifair](https://open.spotify.com/artist/5yqHRuOY1raN2vZeqaBsDS) | [Protea](https://open.spotify.com/album/5IPiGKpNz2JF6ZrrFZJypk) | 2:52 | 2023-06-30 | 2023-08-03 |
 | [Flavors of Karma](https://open.spotify.com/track/56Nv3kZNdUPL6BsC1I0jd7) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf) | [RIP Human Art](https://open.spotify.com/album/1RDjmGZKjYCMTCTzUBSIVf) | 4:34 | 2023-09-22 |  |
-| [Flow](https://open.spotify.com/track/0YVAbRnpG4mVxxwob9DdS8) | [Jourden](https://open.spotify.com/artist/7BJgHEoxvlal00T5B0Ro5u) | [Flow](https://open.spotify.com/album/0E7eTPalfTym6o2ljSdIcc) | 2:42 | 2023-07-28 |  |
+| [Flow](https://open.spotify.com/track/0YVAbRnpG4mVxxwob9DdS8) | [Jourden](https://open.spotify.com/artist/7BJgHEoxvlal00T5B0Ro5u) | [Flow](https://open.spotify.com/album/0E7eTPalfTym6o2ljSdIcc) | 2:42 | 2023-07-28 | 2024-04-30 |
 | [Flowers \(feat\. MAVI\)](https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [Flowers \(feat\. MAVI\)](https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD) | 3:02 | 2023-02-24 | 2023-07-08 |
 | [Fly With Me \(feat\. Conway the Machine\)](https://open.spotify.com/track/1sgFFV3J62Q9NTqbxS1ShI) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Pyrex Picasso](https://open.spotify.com/album/4SHWCpbJJU2npNxrjrsj8e) | 3:33 | 2021-09-03 | 2022-07-29 |
 | [FLYGOD 2x](https://open.spotify.com/track/5VyqeKoQ31p0ZPoRMpoDkx) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [And Then You Pray For Me](https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU) | 1:47 | 2023-10-27 | 2024-04-06 |
@@ -216,6 +216,7 @@
 | [Get A Ticket](https://open.spotify.com/track/60PjmG1cTL2MRuDa8MRlkB) | [Chase Fetti](https://open.spotify.com/artist/4aAGG2cCHa15MPo795nJ97), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Get A Ticket](https://open.spotify.com/album/0idQETHpZfu6zCAqP5unBw) | 2:52 | 2023-05-19 | 2023-07-22 |
 | [Ghetto Praise](https://open.spotify.com/track/1kAQDi1RFgIZ1ZvQMJ2bR6) | [Jay 305](https://open.spotify.com/artist/2l2o6ibYa7h1w4HwaS1uZV), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Ghetto Praise](https://open.spotify.com/album/5kMV844MGwO03ZBF4iAOyc) | 3:13 | 2022-07-08 | 2022-07-16 |
 | [Ghetto Reporter](https://open.spotify.com/track/0qHXyED9mnRk3DnXowUe6Y) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [King's Disease III](https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk) | 2:36 | 2022-11-13 | 2023-05-13 |
+| [Giants Of The Fall](https://open.spotify.com/track/57RzX9szVUX5gsfPQNc72M) | [Guilty Simpson](https://open.spotify.com/artist/0Zji66LHK0QCC8AUMuyp3h), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Kong The Artisan](https://open.spotify.com/artist/5bPN5M1j5Je82NV1Vcp3qE) | [Giants Of The Fall](https://open.spotify.com/album/0Je2clWtq4qMFi00s0bGpH) | 3:01 | 2024-04-26 |  |
 | [Give & Give](https://open.spotify.com/track/0SAAiYReOaWsGZTSeIQq5q) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD) | [Give & Give](https://open.spotify.com/album/3Sf7ORHvuauAX9FisZJ5Vb) | 2:39 | 2024-01-19 | 2024-03-18 |
 | [GIVE IT BACK](https://open.spotify.com/track/57zHNqDztQQZIeP11X2WKq) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [GIVE IT BACK](https://open.spotify.com/album/3LEsXmmwmmX39KUo2Mwqyt) | 2:11 | 2022-03-25 | 2022-03-28 |
 | [Glowing Mics \- Founders RMX](https://open.spotify.com/track/1yW3VlhZgVYHu5SglHClvB) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ), [Big Shug](https://open.spotify.com/artist/30G8Jlp6mw5RTEEzMndIZL) | [Glowing Mics \(Founders RMX\)](https://open.spotify.com/album/6G0PjYvizKiO0mFyCvCR91) | 3:23 | 2022-03-11 | 2022-04-20 |

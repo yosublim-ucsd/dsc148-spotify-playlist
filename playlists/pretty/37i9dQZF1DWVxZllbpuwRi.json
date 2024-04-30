@@ -1,6 +1,6 @@
 {
   "description": "Aqui o ver\u00e3o dura 365 dias! Passe o protetor solar, aumente o som e aperte o play!",
-  "num_followers": 8,
+  "num_followers": 9,
   "original_name": "Ver\u00e3o Forever",
   "owner": {
     "name": "Spotify",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2024-02-27 17:20:18",
       "album": {
-        "name": "Favela",
-        "url": "https://open.spotify.com/album/16QR0dsvnAghkCk31Q1Qd3"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Ina Wroldsen",
-          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
-        }
-      ],
-      "duration_ms": 185104,
-      "name": "Favela",
-      "url": "https://open.spotify.com/track/2JVbZEpewmqNlSzmXJTx2E"
-    },
-    {
-      "added_at": "2024-02-27 17:20:18",
-      "album": {
         "name": "Angelito",
         "url": "https://open.spotify.com/album/51XfF3Vuzhj33GNL4GFUWw"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 227513,
       "name": "Angelito",
       "url": "https://open.spotify.com/track/5zm5Ra1DVCmujK882R7QSP"
+    },
+    {
+      "added_at": "2024-02-27 17:20:18",
+      "album": {
+        "name": "Favela",
+        "url": "https://open.spotify.com/album/16QR0dsvnAghkCk31Q1Qd3"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Ina Wroldsen",
+          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
+        }
+      ],
+      "duration_ms": 185104,
+      "name": "Favela",
+      "url": "https://open.spotify.com/track/2JVbZEpewmqNlSzmXJTx2E"
     },
     {
       "added_at": "2024-02-27 17:20:18",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-02-27 17:20:18",
       "album": {
-        "name": "Que Mal Te Fue",
-        "url": "https://open.spotify.com/album/5Ev8nSvbM9cYv1YkdSv1XF"
-      },
-      "artists": [
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        }
-      ],
-      "duration_ms": 212906,
-      "name": "Que Mal Te Fue",
-      "url": "https://open.spotify.com/track/2btKz4s1XrMn5VHe7xZJpi"
-    },
-    {
-      "added_at": "2024-02-27 17:20:18",
-      "album": {
         "name": "Calma (Alicia Remix)",
         "url": "https://open.spotify.com/album/6VbLR1kOlmC5pIqnFbNZ0T"
       },
@@ -1235,42 +1219,18 @@
     {
       "added_at": "2024-02-27 17:20:18",
       "album": {
-        "name": "All The Lies",
-        "url": "https://open.spotify.com/album/4JFyas1xaX9NnAvRP9DhKF"
+        "name": "Que Mal Te Fue",
+        "url": "https://open.spotify.com/album/5Ev8nSvbM9cYv1YkdSv1XF"
       },
       "artists": [
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "The Vamps",
-          "url": "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
         }
       ],
-      "duration_ms": 179456,
-      "name": "All The Lies",
-      "url": "https://open.spotify.com/track/6PqUdUGS4h5aGY7YyEGXr8"
-    },
-    {
-      "added_at": "2024-02-27 17:20:18",
-      "album": {
-        "name": "Amor Pasajero",
-        "url": "https://open.spotify.com/album/3ZufYhU3vzNGPNMq5pO7ls"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 152080,
-      "name": "Amor Pasajero",
-      "url": "https://open.spotify.com/track/2AQrDkF3XiC3xCkAM4OkJx"
+      "duration_ms": 212906,
+      "name": "Que Mal Te Fue",
+      "url": "https://open.spotify.com/track/2btKz4s1XrMn5VHe7xZJpi"
     },
     {
       "added_at": "2024-02-27 17:20:18",
@@ -1299,6 +1259,46 @@
       "duration_ms": 212307,
       "name": "Rueda - Remix",
       "url": "https://open.spotify.com/track/3EWxpqOSP0KWgUmRiklqGy"
+    },
+    {
+      "added_at": "2024-02-27 17:20:18",
+      "album": {
+        "name": "Amor Pasajero",
+        "url": "https://open.spotify.com/album/3ZufYhU3vzNGPNMq5pO7ls"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 152080,
+      "name": "Amor Pasajero",
+      "url": "https://open.spotify.com/track/2AQrDkF3XiC3xCkAM4OkJx"
+    },
+    {
+      "added_at": "2024-02-27 17:20:18",
+      "album": {
+        "name": "All The Lies",
+        "url": "https://open.spotify.com/album/4JFyas1xaX9NnAvRP9DhKF"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "The Vamps",
+          "url": "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
+        }
+      ],
+      "duration_ms": 179456,
+      "name": "All The Lies",
+      "url": "https://open.spotify.com/track/6PqUdUGS4h5aGY7YyEGXr8"
     },
     {
       "added_at": "2024-02-27 17:20:18",

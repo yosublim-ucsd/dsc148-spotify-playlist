@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Sebasti\u00e1n Yatra, Aitana",
-  "num_followers": 961645,
+  "num_followers": 961053,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDA4MjQ2MCwwMDAwMDAwMDBmNmM3NmY1MzQ0OWZmZjdlY2VlM2JlNDE4ZmMyMmRj",
+  "snapshot_id": "MTcxNDQxMjY4MiwwMDAwMDAwMDQ2N2E2YmE3YmYzN2M1M2JlYjNlZjBmMzY3ZWQxNWE5",
   "tracks": [
     {
       "added_at": "2024-04-25 22:01:00",
@@ -27,42 +27,6 @@
       "duration_ms": 194400,
       "name": "Akureyri",
       "url": "https://open.spotify.com/track/5ELjObPQmX3gG06NukBFzr"
-    },
-    {
-      "added_at": "2024-04-25 22:01:00",
-      "album": {
-        "name": "Ojos Verdes",
-        "url": "https://open.spotify.com/album/4EeOwzI5OcHYrETtQqkmQk"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 142410,
-      "name": "Ojos Verdes",
-      "url": "https://open.spotify.com/track/2RmtEc2ZNDCzAU3vH0AbKx"
-    },
-    {
-      "added_at": "2024-04-25 22:01:00",
-      "album": {
-        "name": "Marbella",
-        "url": "https://open.spotify.com/album/5rvK3RAW4zTo0h8ZTFF6Rq"
-      },
-      "artists": [
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        },
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        }
-      ],
-      "duration_ms": 153506,
-      "name": "Marbella",
-      "url": "https://open.spotify.com/track/0nbCZLgGT6kCGzDYYAdhW6"
     },
     {
       "added_at": "2024-04-25 22:01:00",
@@ -107,6 +71,42 @@
     {
       "added_at": "2024-04-25 22:01:00",
       "album": {
+        "name": "\u00bfC\u00f3mo Pas\u00f3?",
+        "url": "https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "duration_ms": 174546,
+      "name": "\u00bfC\u00f3mo Pas\u00f3?",
+      "url": "https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB"
+    },
+    {
+      "added_at": "2024-04-25 22:01:00",
+      "album": {
+        "name": "Marbella",
+        "url": "https://open.spotify.com/album/5rvK3RAW4zTo0h8ZTFF6Rq"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        }
+      ],
+      "duration_ms": 153506,
+      "name": "Marbella",
+      "url": "https://open.spotify.com/track/0nbCZLgGT6kCGzDYYAdhW6"
+    },
+    {
+      "added_at": "2024-04-25 22:01:00",
+      "album": {
         "name": "Seg\u00fan Qui\u00e9n",
         "url": "https://open.spotify.com/album/5Fqjf9AmZPobGPRuyO2fJf"
       },
@@ -127,18 +127,18 @@
     {
       "added_at": "2024-04-25 22:01:00",
       "album": {
-        "name": "\u00bfC\u00f3mo Pas\u00f3?",
-        "url": "https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319"
+        "name": "La Vida Entera",
+        "url": "https://open.spotify.com/album/0w3NZl1UA3Kr8DzTfa1E2R"
       },
       "artists": [
         {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+          "name": "Marta Santos",
+          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
         }
       ],
-      "duration_ms": 174546,
-      "name": "\u00bfC\u00f3mo Pas\u00f3?",
-      "url": "https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB"
+      "duration_ms": 177423,
+      "name": "La Vida Entera",
+      "url": "https://open.spotify.com/track/1zgb3QCX8jo4IGRg56tjvj"
     },
     {
       "added_at": "2024-04-25 22:01:00",
@@ -271,18 +271,26 @@
     {
       "added_at": "2024-04-25 22:01:00",
       "album": {
-        "name": "La Vida Entera",
-        "url": "https://open.spotify.com/album/0w3NZl1UA3Kr8DzTfa1E2R"
+        "name": "Sin Filtro",
+        "url": "https://open.spotify.com/album/5FFN7Ju1YOxdSBcbO7Iqs5"
       },
       "artists": [
         {
-          "name": "Marta Santos",
-          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
+          "name": "Mar Lucas",
+          "url": "https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI"
+        },
+        {
+          "name": "L\u00e9rica",
+          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
+        },
+        {
+          "name": "India Martinez",
+          "url": "https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV"
         }
       ],
-      "duration_ms": 177423,
-      "name": "La Vida Entera",
-      "url": "https://open.spotify.com/track/1zgb3QCX8jo4IGRg56tjvj"
+      "duration_ms": 177000,
+      "name": "Sin Filtro",
+      "url": "https://open.spotify.com/track/4Z5PBylYcd22Wp1YAhR7gT"
     },
     {
       "added_at": "2024-04-25 22:01:00",
@@ -415,6 +423,22 @@
     {
       "added_at": "2024-04-25 22:01:00",
       "album": {
+        "name": "Ojos Verdes",
+        "url": "https://open.spotify.com/album/4EeOwzI5OcHYrETtQqkmQk"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 142410,
+      "name": "Ojos Verdes",
+      "url": "https://open.spotify.com/track/2RmtEc2ZNDCzAU3vH0AbKx"
+    },
+    {
+      "added_at": "2024-04-25 22:01:00",
+      "album": {
         "name": "FINAL (Vol.2)",
         "url": "https://open.spotify.com/album/5LHd4piJoHcz4CXhjsFKxx"
       },
@@ -435,26 +459,6 @@
     {
       "added_at": "2024-04-25 22:01:00",
       "album": {
-        "name": "Falsos Recuerdos",
-        "url": "https://open.spotify.com/album/35djQkpLKC1ijpfi6i3AJw"
-      },
-      "artists": [
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        },
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        }
-      ],
-      "duration_ms": 191414,
-      "name": "Falsos Recuerdos",
-      "url": "https://open.spotify.com/track/4snJ71Uz5KvX1CW0SaUiZY"
-    },
-    {
-      "added_at": "2024-04-25 22:01:00",
-      "album": {
         "name": "Bahamas",
         "url": "https://open.spotify.com/album/2t2TGRu7yTlcXjMbdBZmbS"
       },
@@ -471,6 +475,26 @@
       "duration_ms": 223728,
       "name": "Bahamas",
       "url": "https://open.spotify.com/track/3BWpv2yBYqreJmcPiHkuVC"
+    },
+    {
+      "added_at": "2024-04-25 22:01:00",
+      "album": {
+        "name": "Falsos Recuerdos",
+        "url": "https://open.spotify.com/album/35djQkpLKC1ijpfi6i3AJw"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        }
+      ],
+      "duration_ms": 191414,
+      "name": "Falsos Recuerdos",
+      "url": "https://open.spotify.com/track/4snJ71Uz5KvX1CW0SaUiZY"
     },
     {
       "added_at": "2024-04-25 22:01:00",
@@ -559,22 +583,6 @@
     {
       "added_at": "2024-04-25 22:01:00",
       "album": {
-        "name": "amor de verano",
-        "url": "https://open.spotify.com/album/0fQ4D10TqLArXAxdPRq1RG"
-      },
-      "artists": [
-        {
-          "name": "MARLENA",
-          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
-        }
-      ],
-      "duration_ms": 176666,
-      "name": "amor de verano",
-      "url": "https://open.spotify.com/track/3ACVz5PwPN9P1PC6869Jn6"
-    },
-    {
-      "added_at": "2024-04-25 22:01:00",
-      "album": {
         "name": "ES SOLO M\u00daSICA",
         "url": "https://open.spotify.com/album/3dSpkvGKm8sUghxdS1pvwE"
       },
@@ -587,6 +595,22 @@
       "duration_ms": 173741,
       "name": "Desconocido",
       "url": "https://open.spotify.com/track/10pstCVmtxdb4TZ0pL4IjH"
+    },
+    {
+      "added_at": "2024-04-25 22:01:00",
+      "album": {
+        "name": "amor de verano",
+        "url": "https://open.spotify.com/album/0fQ4D10TqLArXAxdPRq1RG"
+      },
+      "artists": [
+        {
+          "name": "MARLENA",
+          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "amor de verano",
+      "url": "https://open.spotify.com/track/3ACVz5PwPN9P1PC6869Jn6"
     },
     {
       "added_at": "2024-04-25 22:01:00",
@@ -663,30 +687,6 @@
     {
       "added_at": "2024-04-25 22:01:00",
       "album": {
-        "name": "Sin Filtro",
-        "url": "https://open.spotify.com/album/5FFN7Ju1YOxdSBcbO7Iqs5"
-      },
-      "artists": [
-        {
-          "name": "Mar Lucas",
-          "url": "https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI"
-        },
-        {
-          "name": "L\u00e9rica",
-          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
-        },
-        {
-          "name": "India Martinez",
-          "url": "https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Sin Filtro",
-      "url": "https://open.spotify.com/track/4Z5PBylYcd22Wp1YAhR7gT"
-    },
-    {
-      "added_at": "2024-04-25 22:01:00",
-      "album": {
         "name": "Suerte ;)",
         "url": "https://open.spotify.com/album/5dnLUdUgCz47IqbGd9z6VZ"
       },
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-04-25 22:01:00",
       "album": {
-        "name": "\u00c1NGEL",
-        "url": "https://open.spotify.com/album/3g5VwrXN4bKoU9UKux5k5N"
-      },
-      "artists": [
-        {
-          "name": "Cali Y El Dandee",
-          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
-        }
-      ],
-      "duration_ms": 187240,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/1DPtfQYOFB9IAEk1o4qBmS"
-    },
-    {
-      "added_at": "2024-04-25 22:01:00",
-      "album": {
         "name": "Coraz\u00f3n Quemado",
         "url": "https://open.spotify.com/album/3Z4oiCXucKORyireiaaYev"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 185473,
       "name": "Coraz\u00f3n Quemado",
       "url": "https://open.spotify.com/track/6IGEcJDI3vTApF34vv5OT7"
+    },
+    {
+      "added_at": "2024-04-25 22:01:00",
+      "album": {
+        "name": "\u00c1NGEL",
+        "url": "https://open.spotify.com/album/3g5VwrXN4bKoU9UKux5k5N"
+      },
+      "artists": [
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        }
+      ],
+      "duration_ms": 187240,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/1DPtfQYOFB9IAEk1o4qBmS"
     },
     {
       "added_at": "2024-04-25 22:01:00",

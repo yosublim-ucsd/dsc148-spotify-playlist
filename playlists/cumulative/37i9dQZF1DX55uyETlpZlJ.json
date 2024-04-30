@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "5 Sonne",
+        "url": "https://open.spotify.com/album/0ZOs6YDIZGoyYFvQsjxcKl"
+      },
+      "artists": [
+        {
+          "name": "Karna",
+          "url": "https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83658,
+      "name": "5 Sonne",
+      "url": "https://open.spotify.com/track/5SVDYs73KClBu5QUN4UzVd"
+    },
+    {
+      "album": {
         "name": "6ne Crossu",
         "url": "https://open.spotify.com/album/13WU6iqMTXFRuMUa3B5ioG"
       },
@@ -20,7 +38,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 168000,
       "name": "6ne Crossu",
       "url": "https://open.spotify.com/track/7C3DQb695Vt7vBcPTiSeOK"
@@ -596,7 +614,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 171424,
       "name": "Bad",
       "url": "https://open.spotify.com/track/2eQtJWV3pQac41v6L6PQo2"
@@ -1260,7 +1278,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 192000,
       "name": "Dinavella",
       "url": "https://open.spotify.com/track/3lgQcLrvO2wEk882hNcIeZ"
@@ -2138,6 +2156,28 @@
       "duration_ms": 232000,
       "name": "HUBBALLI SONG",
       "url": "https://open.spotify.com/track/4epAvvYgRA0zRI90ud8jFD"
+    },
+    {
+      "album": {
+        "name": "Hudukiruve",
+        "url": "https://open.spotify.com/album/4eIoKqU8zV6YHKk7ZSwPsT"
+      },
+      "artists": [
+        {
+          "name": "Samuel Narendra",
+          "url": "https://open.spotify.com/artist/0mlMH3WO33o79nD5Z1kHgh"
+        },
+        {
+          "name": "Vishwanath Haveri",
+          "url": "https://open.spotify.com/artist/1EHpGTni0ayOYRZTfXZ0Vo"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228208,
+      "name": "Hudukiruve",
+      "url": "https://open.spotify.com/track/2hPhWXFEL2WO3nANRUp7xp"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Davidson Silva, Danúbia M.J
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,518 likes - 70 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,196 likes - 70 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 46 | [Acalma o Meu Coração](https://open.spotify.com/track/0bgYj6YkauDFia2BvgrL9M) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Adriana Arydes](https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN) | [Acalma o Meu Coração](https://open.spotify.com/album/4znUClTL2uqwqfIZG1lVw9) | 4:22 |
 | 47 | [Se Eu Tocar](https://open.spotify.com/track/5xLXpAF0N21W3CuJSfJ39R) | [Tony Allysson](https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU) | [Espírito da Verdade](https://open.spotify.com/album/4guZ7UXX6uK21iSRk0bV2P) | 4:47 |
 | 48 | [Coração de Mãe](https://open.spotify.com/track/5Hr8lDepNg3g3Tx6OwpH5L) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Gba Stage, Vol\. 5](https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd) | 2:57 |
-| 49 | [Contigo Vou Cantar](https://open.spotify.com/track/3dYRJMoKJGWhroxHFBwUGp) | [Entretons](https://open.spotify.com/artist/49SMfgb279XJeskQxZm5sa) | [Contigo Vou Cantar](https://open.spotify.com/album/2kcJb8d4nk4sQ30bN42b3A) | 3:03 |
-| 50 | [Quero Ouvir Tua Voz](https://open.spotify.com/track/74uwms1hqk7HUMPYrtTrgO) | [Cleiton Saraiva](https://open.spotify.com/artist/2xI0dIjtJhMNGA5NB8GgaO), [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO) | [Quero Ouvir Tua Voz](https://open.spotify.com/album/4iFYsnXf0DfLQas8YlV42v) | 4:24 |
+| 49 | [Quero Ouvir Tua Voz](https://open.spotify.com/track/74uwms1hqk7HUMPYrtTrgO) | [Cleiton Saraiva](https://open.spotify.com/artist/2xI0dIjtJhMNGA5NB8GgaO), [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO) | [Quero Ouvir Tua Voz](https://open.spotify.com/album/4iFYsnXf0DfLQas8YlV42v) | 4:24 |
+| 50 | [Contigo Vou Cantar](https://open.spotify.com/track/3dYRJMoKJGWhroxHFBwUGp) | [Entretons](https://open.spotify.com/artist/49SMfgb279XJeskQxZm5sa) | [Contigo Vou Cantar](https://open.spotify.com/album/2kcJb8d4nk4sQ30bN42b3A) | 3:03 |
 | 51 | [Pra Frente](https://open.spotify.com/track/52qLfp7U4lfJHcj5V083WV) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK) | [Pra Frente](https://open.spotify.com/album/0hTQ34wFWWg7MflujJDfft) | 3:49 |
 | 52 | [Oceano de Misericórdia](https://open.spotify.com/track/0FaimqANp3Y0gG7Kvf34Qj) | [Anjos de Resgate](https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK) | [Ressonhar](https://open.spotify.com/album/05qREvyWU41VVPYRFHsOi4) | 4:50 |
 | 53 | [Maria de Minha Infância](https://open.spotify.com/track/4cSp3zAiACxH3sQrhzj3Y2) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Suely Façanha](https://open.spotify.com/artist/6BuaFf9rDLYqRgZhnzwvy5) | [Gba Stage, Vol\. 11](https://open.spotify.com/album/1YlEijhkZrFIZ9NGgvpSVG) | 5:02 |

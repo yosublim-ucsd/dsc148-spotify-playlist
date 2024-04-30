@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: <a href="https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH?si=ENaBkn\_wRUCwimkNZWMhNg">CalledOut Music</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,724 likes - 96 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,786 likes - 96 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

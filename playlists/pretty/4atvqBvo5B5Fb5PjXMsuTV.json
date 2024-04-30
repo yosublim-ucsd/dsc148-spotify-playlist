@@ -1,13 +1,189 @@
 {
   "description": "Updated daily, with the latest popular singles!",
   "num_followers": 77,
-  "original_name": "NEW SINGLES RELEASES | UPDATED 28 APR",
+  "original_name": "NEW SINGLES RELEASES | UPDATED 30 APR",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "MjA1NCxjMmUzZGQ5ZmQ4ZGRlNTAyZDZmYThhNTYxYjBkODE3ZmFmMDUyOTUx",
+  "snapshot_id": "MjA2MCxkZDA2MjRkYzUyZjNiYTQxNzI4MjBmMmMyYjYxN2U2ZmU3ODY3NWU4",
   "tracks": [
+    {
+      "added_at": "2024-04-29 22:02:21",
+      "album": {
+        "name": "Get Lit",
+        "url": "https://open.spotify.com/album/5RanHiETaj1Cd50lUxCbde"
+      },
+      "artists": [
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        },
+        {
+          "name": "George Clinton",
+          "url": "https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA"
+        },
+        {
+          "name": "D Smoke",
+          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
+        }
+      ],
+      "duration_ms": 206397,
+      "name": "Get Lit",
+      "url": "https://open.spotify.com/track/22U208xCU1Vhw7jVlhnMZu"
+    },
+    {
+      "added_at": "2024-04-29 22:02:21",
+      "album": {
+        "name": "Morse code",
+        "url": "https://open.spotify.com/album/3lvMRU32335nDOsG0Gtzsz"
+      },
+      "artists": [
+        {
+          "name": "UKISS",
+          "url": "https://open.spotify.com/artist/2GB76Lm833jVI5kLvKEB7Z"
+        }
+      ],
+      "duration_ms": 214185,
+      "name": "Morse code",
+      "url": "https://open.spotify.com/track/638D2nYQKHTUmQc7Xt3soK"
+    },
+    {
+      "added_at": "2024-04-29 22:02:21",
+      "album": {
+        "name": "45 Degrees",
+        "url": "https://open.spotify.com/album/1x4z3Ez6F8D9phPqXDnGYu"
+      },
+      "artists": [
+        {
+          "name": "LAUREL",
+          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
+        }
+      ],
+      "duration_ms": 192320,
+      "name": "45 Degrees",
+      "url": "https://open.spotify.com/track/06RgMdmBK2VcjnpkxyjNEZ"
+    },
+    {
+      "added_at": "2024-04-29 22:02:21",
+      "album": {
+        "name": "Kravitz",
+        "url": "https://open.spotify.com/album/58gxd7R2ovmIDehM0oslBt"
+      },
+      "artists": [
+        {
+          "name": "Mabe Fratti",
+          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
+        }
+      ],
+      "duration_ms": 273490,
+      "name": "Kravitz",
+      "url": "https://open.spotify.com/track/3ydiQXwguW4FTjZYCpWDLE"
+    },
+    {
+      "added_at": "2024-04-29 22:02:21",
+      "album": {
+        "name": "first",
+        "url": "https://open.spotify.com/album/221i5359034bFqW1N8IA52"
+      },
+      "artists": [
+        {
+          "name": "WaMi",
+          "url": "https://open.spotify.com/artist/1qanQeBBRpAXORMg7BdCol"
+        },
+        {
+          "name": "maeshima soshi",
+          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
+        }
+      ],
+      "duration_ms": 162073,
+      "name": "first",
+      "url": "https://open.spotify.com/track/333aAlAYq1oeVlR29KsZrg"
+    },
+    {
+      "added_at": "2024-04-29 10:01:54",
+      "album": {
+        "name": "ILE LAT?",
+        "url": "https://open.spotify.com/album/5pzf4AhTd7kPFC0W1Bh5Ti"
+      },
+      "artists": [
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        },
+        {
+          "name": "Sobel",
+          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "ILE LAT?",
+      "url": "https://open.spotify.com/track/4sOUVcGZo8MiSoIKybdXMC"
+    },
+    {
+      "added_at": "2024-04-29 10:01:54",
+      "album": {
+        "name": "Criminals",
+        "url": "https://open.spotify.com/album/3BmwWzziWO2nNg2y8mptj2"
+      },
+      "artists": [
+        {
+          "name": "Rivers of Nihil",
+          "url": "https://open.spotify.com/artist/3UJmyt9ApeZTmOlMvBNGLN"
+        }
+      ],
+      "duration_ms": 263357,
+      "name": "Criminals",
+      "url": "https://open.spotify.com/track/2XNOqWrhYTZXjxoWYAlY3L"
+    },
+    {
+      "added_at": "2024-04-29 10:01:54",
+      "album": {
+        "name": "nothing like uuu",
+        "url": "https://open.spotify.com/album/128pEVu7AFfVkyiIw9lN33"
+      },
+      "artists": [
+        {
+          "name": "Nettspend",
+          "url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
+        }
+      ],
+      "duration_ms": 112243,
+      "name": "nothing like uuu",
+      "url": "https://open.spotify.com/track/7tHXd3CsT7VGZAJ5Jkqt61"
+    },
+    {
+      "added_at": "2024-04-29 10:01:54",
+      "album": {
+        "name": "World Ablaze",
+        "url": "https://open.spotify.com/album/0X0eAR2p0mXQXA5MrvlODP"
+      },
+      "artists": [
+        {
+          "name": "Gaerea",
+          "url": "https://open.spotify.com/artist/1wXoI3Ajpv4WwQ3LmcrSBw"
+        }
+      ],
+      "duration_ms": 209678,
+      "name": "World Ablaze",
+      "url": "https://open.spotify.com/track/7MnQBw9xBACp59wkBs6ZAz"
+    },
+    {
+      "added_at": "2024-04-29 10:01:54",
+      "album": {
+        "name": "Mint Ice Cream Hater",
+        "url": "https://open.spotify.com/album/0LWmTjIqcvPaeaDlGmSx4R"
+      },
+      "artists": [
+        {
+          "name": "ox33n",
+          "url": "https://open.spotify.com/artist/6REEq0BuL0Ocr83DM7bbPT"
+        }
+      ],
+      "duration_ms": 150929,
+      "name": "Mint Ice Cream Hater",
+      "url": "https://open.spotify.com/track/7fRBGaPwclNaWqeUlxMUIW"
+    },
     {
       "added_at": "2024-04-28 10:01:54",
       "album": {
@@ -291,196 +467,8 @@
       "duration_ms": 181196,
       "name": "Giants Of The Fall",
       "url": "https://open.spotify.com/track/57RzX9szVUX5gsfPQNc72M"
-    },
-    {
-      "added_at": "2024-04-26 22:02:22",
-      "album": {
-        "name": "Fisherrr (Remix)",
-        "url": "https://open.spotify.com/album/12MvGwLQqtkCUCMw0IsAyz"
-      },
-      "artists": [
-        {
-          "name": "Cash Cobain",
-          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
-        },
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        },
-        {
-          "name": "Bay Swag",
-          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
-        }
-      ],
-      "duration_ms": 235354,
-      "name": "Fisherrr - Remix",
-      "url": "https://open.spotify.com/track/1rrV4ymf3Tp3xuLgB4zCRN"
-    },
-    {
-      "added_at": "2024-04-26 22:02:22",
-      "album": {
-        "name": "Summerlovin",
-        "url": "https://open.spotify.com/album/7IWuQugr7xAz3slvKrVbPS"
-      },
-      "artists": [
-        {
-          "name": "One Morning Left",
-          "url": "https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF"
-        },
-        {
-          "name": "Olli Herman",
-          "url": "https://open.spotify.com/artist/0mAgWpSQehdhqT6iSb8Bel"
-        },
-        {
-          "name": "Reckless Love",
-          "url": "https://open.spotify.com/artist/0Nkyv1Zj8Xh7Lux3KzIQCl"
-        },
-        {
-          "name": "Popeda",
-          "url": "https://open.spotify.com/artist/2bEPloIrEwXQwm9myrXW2P"
-        }
-      ],
-      "duration_ms": 235204,
-      "name": "Summerlovin",
-      "url": "https://open.spotify.com/track/4jhEO2UR8DXMaxUodujNho"
-    },
-    {
-      "added_at": "2024-04-26 22:02:22",
-      "album": {
-        "name": "The Kiss",
-        "url": "https://open.spotify.com/album/7sDNDeCKbBwQa3TJVVtdET"
-      },
-      "artists": [
-        {
-          "name": "IST IST",
-          "url": "https://open.spotify.com/artist/5YiRgqaj5yVjVtUp4G6iUq"
-        }
-      ],
-      "duration_ms": 192534,
-      "name": "The Kiss",
-      "url": "https://open.spotify.com/track/1I4QBHL7zWde66VmYuFgJI"
-    },
-    {
-      "added_at": "2024-04-26 22:02:22",
-      "album": {
-        "name": "Hunger",
-        "url": "https://open.spotify.com/album/2KVipvF6EShgelO3YTg0Ui"
-      },
-      "artists": [
-        {
-          "name": "Aiko",
-          "url": "https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP"
-        },
-        {
-          "name": "TEYA",
-          "url": "https://open.spotify.com/artist/3o9SkahUjtGQ6U9IU0BjhI"
-        }
-      ],
-      "duration_ms": 161311,
-      "name": "Hunger",
-      "url": "https://open.spotify.com/track/2KhNL84qLGo4lPzWgmeLHd"
-    },
-    {
-      "added_at": "2024-04-26 10:03:05",
-      "album": {
-        "name": "QWERTY (Live in Tokyo, 2006)",
-        "url": "https://open.spotify.com/album/7bYai93piRObiZD6utMG8Y"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 234626,
-      "name": "QWERTY (Live in Tokyo, 2006)",
-      "url": "https://open.spotify.com/track/1ZUCprAO5NeQvI6yIqCtNX"
-    },
-    {
-      "added_at": "2024-04-26 10:03:05",
-      "album": {
-        "name": "Friday",
-        "url": "https://open.spotify.com/album/7syOKNR2x90o9MzqJI91hQ"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        }
-      ],
-      "duration_ms": 208680,
-      "name": "Friday",
-      "url": "https://open.spotify.com/track/03bOA3BAjZiqJOGyFmWYFz"
-    },
-    {
-      "added_at": "2024-04-26 10:03:05",
-      "album": {
-        "name": "Magnificent",
-        "url": "https://open.spotify.com/album/70bnRdCfNQrboNva4UvNpl"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 275754,
-      "name": "Magnificent",
-      "url": "https://open.spotify.com/track/2gGsUlqs3y4yRNh1a372Qp"
-    },
-    {
-      "added_at": "2024-04-26 10:03:05",
-      "album": {
-        "name": "Dogs Of War",
-        "url": "https://open.spotify.com/album/5vjqRLo7DxbwVwfiO0DpCz"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 244466,
-      "name": "Dogs Of War",
-      "url": "https://open.spotify.com/track/1AuwWGznBvI76jOF8cZ4E4"
-    },
-    {
-      "added_at": "2024-04-26 10:03:05",
-      "album": {
-        "name": "Dust",
-        "url": "https://open.spotify.com/album/6Z0Ql9KvDQjMUOniIx0R5S"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 169505,
-      "name": "Dust",
-      "url": "https://open.spotify.com/track/63ovddHrcXezSAjE8sSBwO"
-    },
-    {
-      "added_at": "2024-04-26 10:03:05",
-      "album": {
-        "name": "KNOCKA",
-        "url": "https://open.spotify.com/album/4s0tAlVQvgsHLbT9JmAqc2"
-      },
-      "artists": [
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
-        }
-      ],
-      "duration_ms": 150144,
-      "name": "KNOCKA",
-      "url": "https://open.spotify.com/track/1f8GYIzUeTb6dUaKBgU2lG"
     }
   ],
-  "unique_name": "NEW SINGLES RELEASES | UPDATED 28 APR",
+  "unique_name": "NEW SINGLES RELEASES | UPDATED 30 APR",
   "url": "https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV"
 }

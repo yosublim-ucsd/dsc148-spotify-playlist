@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 
 > Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,053 likes - 80 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,060 likes - 80 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 | 24 | [Nave](https://open.spotify.com/track/5wqzEPhRWWigTQJRNLUjxU) | [Cocaibica](https://open.spotify.com/artist/5yhCi2fUWjkXNOCC4U1LUY), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Nave](https://open.spotify.com/album/0ivIf2sYHxEz1grqb26QfR) | 3:09 |
 | 25 | [Bailarin](https://open.spotify.com/track/0XXlVWCqh8fnRoaCh4N5Cz) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7) | [Bailarin](https://open.spotify.com/album/5QFdKP0OGBl7qURpRuM3Od) | 3:37 |
 | 26 | [CARNAVALITO DEL DUENDE](https://open.spotify.com/track/6vZL8IkljDw2sR4aHSN25S) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [CARNAVALITO DEL DUENDE](https://open.spotify.com/album/7IHXgqU3PUInEcitPjQybZ) | 2:52 |
-| 27 | [Antídoto](https://open.spotify.com/track/2nbXinv9k0boywWmtOk3AW) | [Weste](https://open.spotify.com/artist/5TlgMX2qZVaWy2JI12tK2q) | [Huestes](https://open.spotify.com/album/2EjEF5v5FuPVut3JdZBK2a) | 3:43 |
-| 28 | [La Maza](https://open.spotify.com/track/5XE0rKDxAW6SeTs833fla2) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK) | [Legado](https://open.spotify.com/album/6lItDdeuBLNfEMECUKBmDU) | 4:50 |
+| 27 | [La Maza](https://open.spotify.com/track/5XE0rKDxAW6SeTs833fla2) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK) | [Legado](https://open.spotify.com/album/6lItDdeuBLNfEMECUKBmDU) | 4:50 |
+| 28 | [Antídoto](https://open.spotify.com/track/2nbXinv9k0boywWmtOk3AW) | [Weste](https://open.spotify.com/artist/5TlgMX2qZVaWy2JI12tK2q) | [Huestes](https://open.spotify.com/album/2EjEF5v5FuPVut3JdZBK2a) | 3:43 |
 | 29 | [Lupuna](https://open.spotify.com/track/5LTk1XzBCaTz20Ofd60KTC) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W), [Claudio Reche](https://open.spotify.com/artist/6kfpY9G6unVKEBsr8CdqQJ) | [Lupuna](https://open.spotify.com/album/19nZKevjR88xBmIl8qXv0F) | 7:13 |
 | 30 | [Como la Cigarra](https://open.spotify.com/track/276D6h5wgvcyhcGxFIJXGV) | [Nación Ekeko](https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym), [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [Como la Cigarra](https://open.spotify.com/album/1gnN6SQHW3qjUsGhCwP5xH) | 4:09 |
 | 31 | [Recién He Llegado Vidita \(Recopilación Leda Valladares\)](https://open.spotify.com/track/0wy9RdnvIvuH63aygXv0dm) | [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp) | [AMA](https://open.spotify.com/album/02fcZ97Z4wjbM0143uMLUI) | 4:47 |

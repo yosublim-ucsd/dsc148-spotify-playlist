@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UhvY4JBo1i.md) - [plain]
 
 > Enjoy music from "Detective Conan"! 映画「名探偵コナン」シリーズの世界を彩る音楽をプレイリストで。キャンペーン特設ページは<a href="https://movie.byspotify.com/conan\-2024">こちら</a>。©2024 青山剛昌／名探偵コナン製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,126 likes - 48 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,385 likes - 48 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [江戸川コナンからのスペシャルメッセージ！](https://open.spotify.com/track/0nhND8OpVX8ZVj8PDk0w8R) | [『名探偵コナン 100万ドルの五稜星（みちしるべ）』](https://open.spotify.com/artist/7BWZsYErxiT1PMDAcMVtxY) | [劇場版『名探偵コナン 100万ドルの五稜星（みちしるべ）』江戸川コナンからのスペシャルメッセージ！](https://open.spotify.com/album/297UlHCBbpduzCO0a9o2YN) | 0:28 |
 | 2 | [相思相愛](https://open.spotify.com/track/01vIbnKIo9QDYeqSc7ecoi) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [相思相愛](https://open.spotify.com/album/7tkIHnzxBW5oulTr2ak1jl) | 4:20 |
-| 3 | [第2回 高山みなみ×山口勝平「劇場版の収録はお祭り気分！」](https://open.spotify.com/episode/0WnezOA9NoA1o3dRAwJ9o3) | [名探偵コナン 100万ドルの五稜星 \- ANIZONE特別編](https://open.spotify.com/show/71KYRSpbEPEKsMYNF4qUik) | [名探偵コナン 100万ドルの五稜星 \- ANIZONE特別編](https://open.spotify.com/album/71KYRSpbEPEKsMYNF4qUik) | 31:59 |
+| 3 | [第3回 高山みなみ×堀川りょう「服部平次スイッチ・オン！本気モードのりょうさん！」](https://open.spotify.com/episode/6lOUgk9NUICu5wqy1yppg6) | [名探偵コナン 100万ドルの五稜星 \- ANIZONE特別編](https://open.spotify.com/show/71KYRSpbEPEKsMYNF4qUik) | [名探偵コナン 100万ドルの五稜星 \- ANIZONE特別編](https://open.spotify.com/album/71KYRSpbEPEKsMYNF4qUik) | 29:38 |
 | 4 | [服部平次からのスペシャルメッセージ！](https://open.spotify.com/track/0SFw1KwH6ltFqzrhST2hGs) | [『名探偵コナン 100万ドルの五稜星（みちしるべ）』](https://open.spotify.com/artist/7BWZsYErxiT1PMDAcMVtxY) | [劇場版『名探偵コナン 100万ドルの五稜星（みちしるべ）』服部平次からのスペシャルメッセージ！](https://open.spotify.com/album/0IxVu1A7uA7WTCHJcOuHAm) | 0:29 |
 | 5 | [名探偵コナン メイン・テーマ \- 暗殺者ヴァージョン](https://open.spotify.com/track/4ELXBKQHnfWiNt6OUcSo15) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [名探偵コナン 瞳の中の暗殺者 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/0fAhvb5Ir2kHM2DREhn45a) | 2:32 |
 | 6 | [怪盗キッドからのスペシャルメッセージ！](https://open.spotify.com/track/0EvDOTLaexjz9U1YK3Jqvw) | [『名探偵コナン 100万ドルの五稜星（みちしるべ）』](https://open.spotify.com/artist/7BWZsYErxiT1PMDAcMVtxY) | [劇場版『名探偵コナン 100万ドルの五稜星（みちしるべ）』怪盗キッドからのスペシャルメッセージ！](https://open.spotify.com/album/7a6swUDYbaGoR7pjDt7X9l) | 0:35 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UhvY4JBo1i.md) - [plain]
 | 47 | [INTERNATIONAL CASE\(INSIDENT\)](https://open.spotify.com/track/2eUhhG0b51SflzpapeSW26) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [「名探偵コナン 紺碧の棺」オリジナル・サウンドトラック](https://open.spotify.com/album/6xbpuwe49yXIlobUjuxXsv) | 2:07 |
 | 48 | [名探偵コナンメインテーマ\(ゼロの執行人ヴァージョン\)](https://open.spotify.com/track/1AgohkbIwKIyZ2V7ARhs66) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [「名探偵コナン ゼロの執行人」オリジナル・サウンドトラック](https://open.spotify.com/album/6MVxKQc17vJKQqoApjDq7R) | 2:16 |
 
-Snapshot ID: `MTcxMzc0OTEyOCwwMDAwMDAwMDg4ZTZjYWQ1Y2QzYmU1YTk4ZWVmMGE2ZDRmZTFjMGQw`
+Snapshot ID: `MTcxNDQ0MzAwNSwwMDAwMDAwMDUwZDYwMTg3ZTljNmM2YmYxMWJkMjYzOGVjMjJjYTdm`

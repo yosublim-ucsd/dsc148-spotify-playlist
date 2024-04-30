@@ -1,5 +1,5 @@
 {
-  "2024-04-29": 386318,
+  "2024-04-30": 386273,
   "date_first_scraped": "2022-07-14",
   "description": "Future & melodic bass. Cover: NURKO",
   "name": "Bass Lounge",
@@ -877,7 +877,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 268800,
       "name": "Back to Me",
       "url": "https://open.spotify.com/track/7rOnrDcSOyPRSLq7YcfLPt"
@@ -5925,7 +5925,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 278400,
       "name": "I'll Be Your Home",
       "url": "https://open.spotify.com/track/4bGM1EMxc8n0AXPqlbAUff"
@@ -6885,6 +6885,28 @@
       "duration_ms": 216410,
       "name": "Long Way Down",
       "url": "https://open.spotify.com/track/4Gn8upxtpncAQRBaqhYBGz"
+    },
+    {
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/758dRwMuCONb5iIYRyqxfu"
+      },
+      "artists": [
+        {
+          "name": "MVSE",
+          "url": "https://open.spotify.com/artist/1vaJtw85EDccyv1uf5OoIb"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/3cvDUJKnGT9N43dwJB3EcC"
     },
     {
       "album": {
@@ -11713,7 +11735,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 222400,
       "name": "When I'm Gone - NGHTMRE Remix",
       "url": "https://open.spotify.com/track/3wO31bU00RPlGXrZVxSnrz"

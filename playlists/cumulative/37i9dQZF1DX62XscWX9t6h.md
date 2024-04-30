@@ -4,7 +4,7 @@
 
 > 21st Century nomadic expressions interwoven into a very unexpected patchwork.
 
-178 songs - 12 hr 45 min
+179 songs - 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Me Voy](https://open.spotify.com/track/4Qolq4voNJaxnQNYzFsMLu) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Ash](https://open.spotify.com/album/06z5kktv4TUsmlQk2vj0Wn) | 3:07 | 2021-10-20 | 2024-04-19 |
 | [Midnat](https://open.spotify.com/track/3IuCUFbRlEXQv9Wjbbxyys) | [Bremer/McCoy](https://open.spotify.com/artist/2lHSlOOSjpb0qKUkrpXT6J) | [Ordet](https://open.spotify.com/album/0rt84oJPahkvHKS9jkSdaq) | 3:36 | 2021-10-20 |  |
 | [Mirage](https://open.spotify.com/track/2oSurc3FKyPDaoVpdbb1N9) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mirage](https://open.spotify.com/album/2QBoYsuINGsfFvp4BGk0SK) | 4:50 | 2021-10-20 | 2024-04-19 |
-| [Mirage](https://open.spotify.com/track/3pTtkt58Xi4VfAgZJVH3cU) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mirage](https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv) | 4:50 | 2021-10-20 |  |
+| [Mirage](https://open.spotify.com/track/3pTtkt58Xi4VfAgZJVH3cU) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mirage](https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv) | 4:50 | 2021-10-20 | 2024-04-30 |
 | [Mon Cheri](https://open.spotify.com/track/1Fu9QYiYh8izSKG0cqUXxn) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Mon Cheri](https://open.spotify.com/album/6PmUVTmxKzphzJPIqCZbMJ) | 4:08 | 2022-04-17 |  |
 | [Morals](https://open.spotify.com/track/3O4Sat36FCmPW0KmbuPx5G) | [Africa Express](https://open.spotify.com/artist/0FvSMtCS6UPO4dfsvFT4Vm), [Mr Jukes](https://open.spotify.com/artist/1y71H4hNtnHG7LeU1Y47FO), [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5), [Mahotella Queens](https://open.spotify.com/artist/2IUmEbKT6wvT8Jv7AEaMIA), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [EGOLI](https://open.spotify.com/album/6XOtavVWhCDQTn6o10QeUB) | 3:13 | 2021-10-20 | 2024-04-19 |
 | [Mulume/Change](https://open.spotify.com/track/03lPX2XCzQ2AdXuVBQ0dds) | [Congotronics International](https://open.spotify.com/artist/1AvC2f22oc1UTvutGBCNS0), [Deerhoof](https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V), [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3), [Kasai Allstars](https://open.spotify.com/artist/391GEzsFayFVG5aGEBkrtq), [Konono N°1](https://open.spotify.com/artist/6Sr77iisVrcSg7bQfqqRHk), [Wildbirds & Peacedrums](https://open.spotify.com/artist/5rfciJLZpQkcQsamsM3dpS), [Skeletons](https://open.spotify.com/artist/3CBO2UmgR0Q8xnDPEuPltd) | [Where's The One?](https://open.spotify.com/album/1fFYogV5iktpPIuhfTZQ0N) | 6:57 | 2024-01-30 |  |
@@ -171,6 +171,7 @@
 | [Wakangenei](https://open.spotify.com/track/5p1U25xU1JZNFcZVHlZVwH) | [Ankobo + Kaboo](https://open.spotify.com/artist/3YbBjagRnNl4slaLBbhiO6) | [Wakangenei](https://open.spotify.com/album/4bLNEzOnUc5MHalt1RyWO2) | 3:52 | 2021-10-20 |  |
 | [Wee Rosebud](https://open.spotify.com/track/4UZmFxgOxdrbgJyskDm3AS) | [Clarissa Connelly](https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S) | [Wee Rosebud](https://open.spotify.com/album/52NR1QlvraGMvlG7d6OVdD) | 4:21 | 2024-01-11 |  |
 | [Weird Fishes/ Arpeggi](https://open.spotify.com/track/3A8hPbFFV3YFolz2vSKY83) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Weird Fishes/ Arpeggi](https://open.spotify.com/album/6zGiR59zDHE9xFJtTDsZe1) | 5:25 | 2022-07-28 |  |
+| [Whaya](https://open.spotify.com/track/7rbtfZPksHs4rl5cZTgU7s) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Whaya](https://open.spotify.com/album/06th1woDk5Hwy8vK2lrs0t) | 3:46 | 2022-11-17 |  |
 | [Worldly World \(Ohaa Uha Uha\)](https://open.spotify.com/track/51B5lAKM1mZgwPUmRqjSRq) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Muyun Brothers](https://open.spotify.com/artist/2y2brohJLOwREBed1LdUMF) | [Worldly World \(Ohaa Uha Uha\)](https://open.spotify.com/album/6xfXvOTxevWLXbsbPO4xPR) | 3:06 | 2024-02-10 |  |
 | [Worry](https://open.spotify.com/track/2JPY1tESSn8hhwlMdMrRzo) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Optimisme](https://open.spotify.com/album/6uK3gAaZuQEh5cpB33B5GF) | 3:05 | 2021-10-20 |  |
 | [Yabaal](https://open.spotify.com/track/0IPAr9x0VOpCnk2hNuk5aO) | [Dur\-Dur Band](https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF) | [Dur Dur of Somalia \- Vol\. 1, Vol\. 2 \(Analog Africa No\. 27\)](https://open.spotify.com/album/2ZWaF8JdYy0T8wJdVDW8az) | 5:57 | 2024-01-05 |  |

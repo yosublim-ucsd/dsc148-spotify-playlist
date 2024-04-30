@@ -4,7 +4,7 @@
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to help you study, work and vibe.
 
-151 songs - 7 hr 22 min
+154 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Atoms](https://open.spotify.com/track/4zsjqLlQlmljeS6mDVmD9l) | [Futurewave](https://open.spotify.com/artist/4i9PacC5mAjVi8DzWcpmxz) | [McFly](https://open.spotify.com/album/0XJmiZcpd4c5zUmgrJYvmQ) | 1:30 | 2024-02-09 |  |
 | [Azisa \- Instrumental](https://open.spotify.com/track/6QGgUrvDvfQVeMlMuVKjQ6) | [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Booth Brothers & Sisters Instrumentals 1\-10](https://open.spotify.com/album/0XSP0PtqGs0omZmJ9gIbX3) | 2:24 | 2022-10-14 | 2024-04-19 |
 | [Azisa \- Instrumental](https://open.spotify.com/track/0YxaVlAixd2nseGIdkoihf) | [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Azisa \(Instrumental\)](https://open.spotify.com/album/2N50vIkJsXhrNXQuJx0KfC) | 2:26 | 2022-08-19 |  |
+| [Back On The Block \- Instrumental](https://open.spotify.com/track/0JAwMPighmTz1Tv4SqAyDh) | [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2) | [Petestrumentals](https://open.spotify.com/album/3BXHZmPR0u5TBVlxcp4Tjk) | 4:56 | 2024-04-29 |  |
 | [Basement Racks](https://open.spotify.com/track/3jR8dVN25Y76G5DuPESFm0) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Basement Racks](https://open.spotify.com/album/2QXMKew0uCeKQevBifNonB) | 2:18 | 2024-02-09 |  |
 | [Beach Cruizer](https://open.spotify.com/track/7oXoDdKmi5HInxlcAkBHGr) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Fatbike Ride](https://open.spotify.com/album/5R5IB0LdQ6XnXymZpoB2y3) | 2:08 | 2022-07-22 |  |
 | [Big Apple](https://open.spotify.com/track/0v5swa6eOj8DIV7AhFwPUF) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni), [dustluv](https://open.spotify.com/artist/6hXRfx6rOvekCXcx7kJ8kj) | [Big Apple](https://open.spotify.com/album/7GuLbFG0oiqJwZaKmKBLv5) | 2:17 | 2022-07-22 |  |
@@ -77,6 +78,7 @@
 | [Iced Down Medallions \[Instrumental\]](https://open.spotify.com/track/6agh6N2v8Elw1bWbTZFXP1) | [Royal Flush](https://open.spotify.com/artist/4ihZJgEVoshKe606OAK4xE) | [Iced Down Medallions \- EP](https://open.spotify.com/album/7pb5NZXRuupx0dyIu4OfIf) | 3:30 | 2022-07-22 |  |
 | [Immersive](https://open.spotify.com/track/5eqdjCfqFcbX4F6GBISrHm) | [Pjuck](https://open.spotify.com/artist/4y7TV9mGqoi2fHB1RLhqZm) | [Immersive](https://open.spotify.com/album/7JEyelqrTWVdYq5jhH2a22) | 3:04 | 2022-07-22 |  |
 | [in a mood](https://open.spotify.com/track/3k8P1xEYqQeIQeiJbZmQsQ) | [lazyymii](https://open.spotify.com/artist/1KltShvhgVoF8auxETfs2U), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [in a mood](https://open.spotify.com/album/4C3uHlcnzyXnGtM6jeiaLB) | 1:16 | 2024-02-22 |  |
+| [It's A Party \(Instrumental\)](https://open.spotify.com/track/3HKBkOqQ5YJ8tU5oWmpccV) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [The Coming \(25th Anniversary Super Deluxe Edition\)](https://open.spotify.com/album/3A7233EKpt8yvn47QJ6Kko) | 4:40 | 2024-04-29 |  |
 | [Jam On It](https://open.spotify.com/track/08OHpvm1MmHuWZnLZrRnxO) | [K\-DEF](https://open.spotify.com/artist/16FH3fjfgWVv3JbLs8zUA7) | [BEATS FROM THE 90's](https://open.spotify.com/album/5gmtiIxZ1cYc40JpMLTMK0) | 3:13 | 2022-07-22 |  |
 | [John Gotti \- Instrumental](https://open.spotify.com/track/1cGkCqQaLjuMSpQeKEUhXh) | [Sean Price](https://open.spotify.com/artist/2x6jz70u3sZq75tW10akUW), [Small Professor](https://open.spotify.com/artist/50wcJriOZeC8PbLSk8X9QP), [AG Da Coroner](https://open.spotify.com/artist/736quRgvvGLe7eBO18oUzx), [Guilty Simpson](https://open.spotify.com/artist/0Zji66LHK0QCC8AUMuyp3h), [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp) | [86 Witness \(Instrumentals\)](https://open.spotify.com/album/5t8JvlQa4ZNZBDaeYua6mf) | 3:18 | 2023-03-02 |  |
 | [K.I.M\. \- Instrumental](https://open.spotify.com/track/4rp7XMYnpNBpLA5wO8BMEl) | [Smif\-N\-Wessun](https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0) | [Wrektime b/w K.I.M.](https://open.spotify.com/album/7GXP02tJSrhuAxAGIW4T76) | 2:59 | 2023-05-02 |  |
@@ -120,6 +122,7 @@
 | [Shoulder to colder](https://open.spotify.com/track/1zzmBoPpnfGKSwEVFLv3c5) | [Mean Dartin](https://open.spotify.com/artist/7LhBPxzi8fMrXFWz7Ezi2m) | [Shoulder to colder](https://open.spotify.com/album/5uertrWYBsmpYV0II5hcO8) | 2:08 | 2023-05-18 |  |
 | [Skywalker OG](https://open.spotify.com/track/0nsy6CzRDmy51hOtNyri3F) | [Dooku](https://open.spotify.com/artist/7oUhwpoQZ8HkFl91jQtEoD) | [Fields of Green 2](https://open.spotify.com/album/2I2DTmcpsCJbC0cValamUf) | 1:54 | 2022-09-23 |  |
 | [Skywalker OG](https://open.spotify.com/track/6oHUNQtaMKhVmQWhFoPdir) | [Dooku](https://open.spotify.com/artist/7oUhwpoQZ8HkFl91jQtEoD) | [Fields of Green 2](https://open.spotify.com/album/5cOC0HfuZKWDGaB8Oyz0PI) | 1:54 | 2022-10-14 | 2024-04-19 |
+| [Soul Food \- Instrumental](https://open.spotify.com/track/5XhzeXctHO8xo8JeGNGl8d) | [Goodie Mob](https://open.spotify.com/artist/3F2Y683ovlWT53WKCeq0oj) | [Soul Food \(The Instrumental Album\)](https://open.spotify.com/album/4v0sRArgHmBWfTnJr2EpMG) | 3:55 | 2024-04-29 |  |
 | [Soul Mates](https://open.spotify.com/track/5MnT6uiAJXOo58xdDVmbD2) | [Smoke Room Quartet](https://open.spotify.com/artist/3F3ToOCmZ54N8acZdcyziH) | [Soul Mates](https://open.spotify.com/album/22j1HNgICS8f7kN7wLB54T) | 3:21 | 2023-05-18 | 2023-09-15 |
 | [Spray Colors](https://open.spotify.com/track/5B2dAco4S0I8TAQuIW8p3L) | [Keytap](https://open.spotify.com/artist/2A4BFEH3k6A0vXyEgq28MW), [Kick a Dope Verse!](https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z) | [Spray Colors](https://open.spotify.com/album/3Uj1MaF7Fbm3vrnpg8M4ll) | 2:07 | 2024-02-22 |  |
 | [Stages And Lights \- Instrumental](https://open.spotify.com/track/3LAnfrxSjShV7Y0nmWPLBo) | [Sadat X](https://open.spotify.com/artist/7fDLDq2weBagiAFD2j17Al) | [Hang 'Em High](https://open.spotify.com/album/7ATmXoNwLDE5J2w7y7ZrfA) | 4:16 | 2023-05-19 |  |

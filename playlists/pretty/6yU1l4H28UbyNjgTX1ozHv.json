@@ -1,12 +1,12 @@
 {
   "description": "Driving songs acoustic style! Sit back and enjoy the ride!",
-  "num_followers": 9021,
+  "num_followers": 9017,
   "original_name": "Acoustic Driving Songs",
   "owner": {
     "name": "Matt Johnson",
     "url": "https://open.spotify.com/user/117687144"
   },
-  "snapshot_id": "MTI0NixkYjg2NzFjMTlmOGRmOTM5N2I2NjkyOGEzMGRmOTJjZTQyZDM1YWJl",
+  "snapshot_id": "MTI0OSxjYjBiOWRiNDcxMDA4MmNkODIzZTk2ODBiYzdmYjkyZGNkYTExY2E5",
   "tracks": [
     {
       "added_at": "2023-01-27 06:28:42",
@@ -73,20 +73,24 @@
       "url": "https://open.spotify.com/track/1rGxG6Y5OgmSwGPRPJv9Q4"
     },
     {
-      "added_at": "2023-11-12 08:09:39",
+      "added_at": "2024-04-29 11:10:00",
       "album": {
-        "name": "Sweet Child O' Mine (Acoustic Version)",
-        "url": "https://open.spotify.com/album/33ZaiLls318tubzqi9Iyl6"
+        "name": "I\u2019d Do Anything for Love (But I Won\u2019t Do That) [Acoustic]",
+        "url": "https://open.spotify.com/album/6keIY7MeHgs7YqtAVSilyv"
       },
       "artists": [
+        {
+          "name": "John Adams",
+          "url": "https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi"
+        },
         {
           "name": "Jae Hall",
           "url": "https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d"
         }
       ],
-      "duration_ms": 176463,
-      "name": "Sweet Child O' Mine - Acoustic Version",
-      "url": "https://open.spotify.com/track/7p6wCoyhLOd3njCFK9hYVP"
+      "duration_ms": 193493,
+      "name": "I\u2019d Do Anything for Love (But I Won\u2019t Do That) - Acoustic",
+      "url": "https://open.spotify.com/track/6FwHlZaHRx2q6d9p3m2mzo"
     },
     {
       "added_at": "2019-10-13 06:38:53",
@@ -1803,22 +1807,6 @@
       "duration_ms": 220095,
       "name": "Too Good At Goodbyes - Acoustic",
       "url": "https://open.spotify.com/track/7ejps6ztLxyZD74tHrTdEj"
-    },
-    {
-      "added_at": "2020-02-21 19:36:11",
-      "album": {
-        "name": "Don\u2019t Look Back In Anger (Acoustic)",
-        "url": "https://open.spotify.com/album/0OQ08gOxNKQF2REAMJcz7c"
-      },
-      "artists": [
-        {
-          "name": "John Adams",
-          "url": "https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi"
-        }
-      ],
-      "duration_ms": 209496,
-      "name": "Don\u2019t Look Back In Anger - Acoustic",
-      "url": "https://open.spotify.com/track/3PkHsRaRZSkIEVc3UmJu16"
     },
     {
       "added_at": "2019-10-13 06:38:53",

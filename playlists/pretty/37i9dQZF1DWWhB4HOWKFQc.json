@@ -1,12 +1,12 @@
 {
   "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Chappell Roan",
-  "num_followers": 1274345,
+  "num_followers": 1273473,
   "original_name": "Lagi Viral",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDA5MTc4MiwwMDAwMDAwMDEyZTJhZGYxZmFmZDc3OTBiMWJhMTA0M2Q1YmU2NmMz",
+  "snapshot_id": "MTcxNDM4Njk2MSwwMDAwMDAwMDVmZDU0ZmJjZjY0MDQwNTNjOTNhY2M2NjNmYzM4YjRh",
   "tracks": [
     {
       "added_at": "2024-04-26 00:36:22",
@@ -305,6 +305,22 @@
       "url": "https://open.spotify.com/track/238QZNu3LMzPj2PUoE8AIk"
     },
     {
+      "added_at": "2024-04-29 10:36:01",
+      "album": {
+        "name": "Tell Ur Girlfriend",
+        "url": "https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "duration_ms": 124444,
+      "name": "Tell Ur Girlfriend",
+      "url": "https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B"
+    },
+    {
       "added_at": "2024-04-26 00:36:22",
       "album": {
         "name": "Kisah Tanpa Dirimu",
@@ -339,6 +355,26 @@
       "duration_ms": 241088,
       "name": "Sialan",
       "url": "https://open.spotify.com/track/2aDgJHhAbABvdW9NszrAPQ"
+    },
+    {
+      "added_at": "2024-04-29 07:37:52",
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 228965,
+      "name": "Fortnight (feat. Post Malone)",
+      "url": "https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m"
     },
     {
       "added_at": "2024-04-26 00:36:22",
@@ -465,6 +501,22 @@
       "url": "https://open.spotify.com/track/0UaaFmF3xUwMjnuAHBq7qL"
     },
     {
+      "added_at": "2024-04-29 10:36:01",
+      "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/2V99Z0aZgSK6XTbh19UYTU"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "duration_ms": 250093,
+      "name": "In Love With Another Man",
+      "url": "https://open.spotify.com/track/1xu91y5jf13yxAssdfsbPt"
+    },
+    {
       "added_at": "2024-04-26 00:36:22",
       "album": {
         "name": "Ocean Eyes",
@@ -531,6 +583,26 @@
       "duration_ms": 245066,
       "name": "Can't Get Over You",
       "url": "https://open.spotify.com/track/5F3032rq3MJG7cDjRtj0wo"
+    },
+    {
+      "added_at": "2024-04-26 00:36:22",
+      "album": {
+        "name": "if u could see me cryin' in my room",
+        "url": "https://open.spotify.com/album/3Ylr1ueJYvCCM2i7yPTReZ"
+      },
+      "artists": [
+        {
+          "name": "Arash Buana",
+          "url": "https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM"
+        },
+        {
+          "name": "raissa anggiani",
+          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
+        }
+      ],
+      "duration_ms": 256867,
+      "name": "if u could see me cryin' in my room",
+      "url": "https://open.spotify.com/track/13sOb9V6Y3uCnRxY9HIZqP"
     },
     {
       "added_at": "2024-04-26 00:36:22",
@@ -803,26 +875,6 @@
       "duration_ms": 236202,
       "name": "Katakan Saja",
       "url": "https://open.spotify.com/track/6bIQQJk47tJsUmlqd1hEUW"
-    },
-    {
-      "added_at": "2024-04-26 00:36:22",
-      "album": {
-        "name": "if u could see me cryin' in my room",
-        "url": "https://open.spotify.com/album/3Ylr1ueJYvCCM2i7yPTReZ"
-      },
-      "artists": [
-        {
-          "name": "Arash Buana",
-          "url": "https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM"
-        },
-        {
-          "name": "raissa anggiani",
-          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
-        }
-      ],
-      "duration_ms": 256867,
-      "name": "if u could see me cryin' in my room",
-      "url": "https://open.spotify.com/track/13sOb9V6Y3uCnRxY9HIZqP"
     },
     {
       "added_at": "2024-04-26 00:36:22",

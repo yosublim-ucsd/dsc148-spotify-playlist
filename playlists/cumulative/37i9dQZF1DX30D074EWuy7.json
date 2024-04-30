@@ -3894,6 +3894,28 @@
     {
       "album": {
         "name": "Kuni",
+        "url": "https://open.spotify.com/album/11abDqHpb7lxOGlA8eSVaM"
+      },
+      "artists": [
+        {
+          "name": "LNDFK",
+          "url": "https://open.spotify.com/artist/2PyFLSnE2J670nBHdmwil4"
+        },
+        {
+          "name": "Pink Siifu",
+          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231426,
+      "name": "How Do We Know We're Alive",
+      "url": "https://open.spotify.com/track/1TWaQhJl64imsWiRRh8BlP"
+    },
+    {
+      "album": {
+        "name": "Kuni",
         "url": "https://open.spotify.com/album/40dfgXsb0aemwlP10pfGCx"
       },
       "artists": [
@@ -5310,7 +5332,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 371466,
       "name": "La risacca",
       "url": "https://open.spotify.com/track/5WHclQJvdxDgLMcQqmYqGu"

@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 409000,
       "name": "20HZ - Carl Cox Remix",
       "url": "https://open.spotify.com/track/4OMCH12g8VOh1Rqoy9ResS"
@@ -78,7 +78,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 386980,
       "name": "333",
       "url": "https://open.spotify.com/track/3OWcLNzmufVpv73bm0VBaz"
@@ -114,7 +114,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 297466,
       "name": "Acid Charge",
       "url": "https://open.spotify.com/track/6GZ5QBzF4MzqWvCajqXNnl"
@@ -150,7 +150,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 338419,
       "name": "Activate",
       "url": "https://open.spotify.com/track/2OaNFUxX5RcGTzu4WbY0lK"
@@ -248,10 +248,28 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 338706,
       "name": "AM_909",
       "url": "https://open.spotify.com/track/6YMdkjJCuA6cpbtyD9h7ge"
+    },
+    {
+      "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "Vitalic",
+          "url": "https://open.spotify.com/artist/4M84umUNRbZy1mJleyyRM9"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221821,
+      "name": "And It Goes Like - Mixed",
+      "url": "https://open.spotify.com/track/3sPfd9YjF7fmVwliZypqMz"
     },
     {
       "album": {
@@ -270,6 +288,24 @@
       "duration_ms": 376680,
       "name": "Andreaen Sand Dunes",
       "url": "https://open.spotify.com/track/5vcCF1Q328JhaZj4MS6XqO"
+    },
+    {
+      "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "Jani Ho",
+          "url": "https://open.spotify.com/artist/2AF1D7VRZr1fIKe3wWRb21"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220004,
+      "name": "Angry Minimal - Mixed",
+      "url": "https://open.spotify.com/track/5Tk4lRS7lCjM7bHAXsQPnm"
     },
     {
       "album": {
@@ -616,7 +652,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 325984,
       "name": "Boogie Down Now",
       "url": "https://open.spotify.com/track/06IwF60L7Z6cCLR60t84dv"
@@ -768,10 +804,32 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 349327,
       "name": "Climb the Tree",
       "url": "https://open.spotify.com/track/3463wlflWy0Hw7rbyeQK74"
+    },
+    {
+      "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "An On Bast",
+          "url": "https://open.spotify.com/artist/4qIHzBkWUueYNuEl3xCDHs"
+        },
+        {
+          "name": "Marc Romboy",
+          "url": "https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281367,
+      "name": "Climb The Tree (Marc Romboy Remix) - Mixed",
+      "url": "https://open.spotify.com/track/5NLvNOSFhOQ8usa1j0FJi1"
     },
     {
       "album": {
@@ -790,7 +848,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 432755,
       "name": "Climb The Tree - Marc Romboy Remix",
       "url": "https://open.spotify.com/track/5mKRpmpggYyUVrr7G3k1bC"
@@ -846,7 +904,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 324930,
       "name": "Cluster - Rebuke Edit",
       "url": "https://open.spotify.com/track/7KF47LKed6soZYn6bWopiO"
@@ -864,7 +922,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 362721,
       "name": "Clutch",
       "url": "https://open.spotify.com/track/24q0bWuSnuKfwEzw4fNPcu"
@@ -948,10 +1006,28 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 343111,
       "name": "Corniche",
       "url": "https://open.spotify.com/track/3meaDVtgpm76O6RrJu9bKd"
+    },
+    {
+      "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "Monolith",
+          "url": "https://open.spotify.com/artist/1lAiqmElW2YfeYVQbKWrBI"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221815,
+      "name": "Cowdry - Mixed",
+      "url": "https://open.spotify.com/track/3z6iOoOWRRzCIe2LkAhT6S"
     },
     {
       "album": {
@@ -974,6 +1050,24 @@
       "duration_ms": 312888,
       "name": "Crazy Horse",
       "url": "https://open.spotify.com/track/0ymvHKdaBgeKiLk2bHXsmf"
+    },
+    {
+      "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "NANCY Live",
+          "url": "https://open.spotify.com/artist/3u2C5jTgPLvS9FxybbEuh1"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280446,
+      "name": "Cressick - Mixed",
+      "url": "https://open.spotify.com/track/0Tk8BAR0eq9cSTEqvo5ERU"
     },
     {
       "album": {
@@ -1104,6 +1198,24 @@
       "duration_ms": 566604,
       "name": "Dfam on the Field",
       "url": "https://open.spotify.com/track/0QeHUJwpsr6JnHgQnRYIqX"
+    },
+    {
+      "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "Stimming",
+          "url": "https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381738,
+      "name": "DFAM on the Field - Mixed",
+      "url": "https://open.spotify.com/track/7elWlZIaZJ063CNhiFJVK6"
     },
     {
       "album": {
@@ -1354,7 +1466,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 321269,
       "name": "Escape - Truncate Remix",
       "url": "https://open.spotify.com/track/5I7UcCYp1qRLoF5NAe1uAZ"
@@ -1372,7 +1484,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 194183,
       "name": "Everything Is Amazing - Edit",
       "url": "https://open.spotify.com/track/77jrsG7CbtfaM3utFZGP6d"
@@ -1419,6 +1531,24 @@
     },
     {
       "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "Klauss Tejger",
+          "url": "https://open.spotify.com/artist/3FOFAmLuYkacrzNYsoRcEF"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196360,
+      "name": "FIRE! - Mixed",
+      "url": "https://open.spotify.com/track/2XTsiyJl8NFgDyN7wwOXOU"
+    },
+    {
+      "album": {
         "name": "The Fat of the Land",
         "url": "https://open.spotify.com/album/2qivROlvQ8BcUKTaCA7dL2"
       },
@@ -1434,6 +1564,24 @@
       "duration_ms": 279800,
       "name": "Firestarter",
       "url": "https://open.spotify.com/track/1auX4gkGe7hbrOH0BXdpV4"
+    },
+    {
+      "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "Honeysmack",
+          "url": "https://open.spotify.com/artist/20KZSgLQuLYmEtKsR0TwqY"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275907,
+      "name": "Fortunate 500GB - Mixed",
+      "url": "https://open.spotify.com/track/5o9gVIunYPp2hmCJlym3Dw"
     },
     {
       "album": {
@@ -1466,7 +1614,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 361176,
       "name": "Frame",
       "url": "https://open.spotify.com/track/03owGeQybSsnpreChFqoSq"
@@ -1488,7 +1636,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 250684,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/2FBjSjrbpy47ghH6VH9ulg"
@@ -1510,7 +1658,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 399480,
       "name": "Friction",
       "url": "https://open.spotify.com/track/1zpsyx9HYDqYv99kc6wez0"
@@ -1528,7 +1676,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 350568,
       "name": "Frozen",
       "url": "https://open.spotify.com/track/4xNSwGdAS330yJu9bFj9Pb"
@@ -1550,6 +1698,24 @@
       "duration_ms": 390000,
       "name": "Gangwon",
       "url": "https://open.spotify.com/track/1XdOmwUJMLTM4PLfDdGlCF"
+    },
+    {
+      "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "Marc Romboy",
+          "url": "https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276362,
+      "name": "Gangwon - Mixed",
+      "url": "https://open.spotify.com/track/7ateuqPb1rUOwff5nWFq2t"
     },
     {
       "album": {
@@ -1582,7 +1748,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 362221,
       "name": "Get After It",
       "url": "https://open.spotify.com/track/2X4XzzpdI1eMMFPMsScPov"
@@ -1687,6 +1853,24 @@
     },
     {
       "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "Charlie Thorstenson",
+          "url": "https://open.spotify.com/artist/4z8CviapCGt8PluR1ORwbH"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269091,
+      "name": "Handlingskraft - Mixed",
+      "url": "https://open.spotify.com/track/3Xos7pA0UFacmcQD46h8rO"
+    },
+    {
+      "album": {
         "name": "Hanenda",
         "url": "https://open.spotify.com/album/6c6wNHBXboXaj2vcURIyLa"
       },
@@ -1716,7 +1900,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 418665,
       "name": "Hanenda",
       "url": "https://open.spotify.com/track/3TqSZhXBJyfEbqVC7NwFUS"
@@ -1800,7 +1984,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 308250,
       "name": "Hanenda (Will Clarke Remix)",
       "url": "https://open.spotify.com/track/4p357cUco7E48fyTNAUcqT"
@@ -2030,7 +2214,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 409414,
       "name": "I Am the Projector",
       "url": "https://open.spotify.com/track/3gjDMSkLime3TyHZXpgSbi"
@@ -2100,7 +2284,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 471493,
       "name": "In My Heart - Carl Cox Remix",
       "url": "https://open.spotify.com/track/7H823ThTNZdVFpfiJCjl1f"
@@ -2389,6 +2573,24 @@
     },
     {
       "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "Digital Afrika",
+          "url": "https://open.spotify.com/artist/2FtoiNNAAX9Xd2UJwQ9Esw"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203637,
+      "name": "Lavapies - Mixed",
+      "url": "https://open.spotify.com/track/6R6x4SoNOpYqs5M4uFmPOD"
+    },
+    {
+      "album": {
         "name": "Light of the Universe",
         "url": "https://open.spotify.com/album/5yTwUr6JPFUkAbZeJF1k37"
       },
@@ -2519,6 +2721,24 @@
     },
     {
       "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "Robert Babicz",
+          "url": "https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356367,
+      "name": "Magic Club Nights - Mixed",
+      "url": "https://open.spotify.com/track/4Q91jjRakhZrOfRY3sZ3Y1"
+    },
+    {
+      "album": {
         "name": "Malbiten EP",
         "url": "https://open.spotify.com/album/1D5WxILmPRYQyottQFjbDO"
       },
@@ -2548,7 +2768,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 325500,
       "name": "Mamma Noise",
       "url": "https://open.spotify.com/track/1XIphUO0dVhjSBTn4KbTbA"
@@ -2684,7 +2904,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 414698,
       "name": "Music Is Life - Deep Mix",
       "url": "https://open.spotify.com/track/5nCFYGPlcrlpuPGMkEwjgm"
@@ -2710,10 +2930,28 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 365871,
       "name": "Music Is Life - Main Mix",
       "url": "https://open.spotify.com/track/1Wy9vsNoymAlUsr4NpV5C9"
+    },
+    {
+      "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "Christopher Coe",
+          "url": "https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374384,
+      "name": "My Dark Materials - Mixed",
+      "url": "https://open.spotify.com/track/6yGpL26LaxfI1QGMl9VjmW"
     },
     {
       "album": {
@@ -2817,6 +3055,36 @@
     },
     {
       "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "Cox and Coe",
+          "url": "https://open.spotify.com/artist/03GSrqz7SauxZR5JXQvgp7"
+        },
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        },
+        {
+          "name": "Christopher Coe",
+          "url": "https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP"
+        },
+        {
+          "name": "Reb\u016bke",
+          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207275,
+      "name": "Nocturnal (Reb\u016bke Edit) - Mixed",
+      "url": "https://open.spotify.com/track/6r4gWTDPplDGEfqiYxuT0L"
+    },
+    {
+      "album": {
         "name": "Mindset (The Rebuke Edits)",
         "url": "https://open.spotify.com/album/2cdMahFloyLuCPKzRDpfCw"
       },
@@ -2840,10 +3108,28 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 387688,
       "name": "Nocturnal - Rebuke Edit",
       "url": "https://open.spotify.com/track/6S6NVm1rjajtGhZpBv2L9i"
+    },
+    {
+      "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "Saytek",
+          "url": "https://open.spotify.com/artist/51c1s2fN5DVKxQJ0mMhSHD"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369410,
+      "name": "Non Stop - Mixed",
+      "url": "https://open.spotify.com/track/42fTcKAVODxkjMRSwd1lqs"
     },
     {
       "album": {
@@ -2920,7 +3206,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 377769,
       "name": "Oracle",
       "url": "https://open.spotify.com/track/6MR95yRF4sQmofUKuCErJe"
@@ -3007,6 +3293,42 @@
     },
     {
       "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "Harmonik Kontrol",
+          "url": "https://open.spotify.com/artist/5U1aEIhlv3Uyt0LT1GJHln"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327271,
+      "name": "Pablo Assan - Mixed",
+      "url": "https://open.spotify.com/track/5UfrmNZquTXyVNDcocA2m1"
+    },
+    {
+      "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "Hannes Bieger",
+          "url": "https://open.spotify.com/artist/3t6NA1aXgEgmkhKGf2bsP9"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348632,
+      "name": "Pacana - Mixed",
+      "url": "https://open.spotify.com/track/1gSrSoUrCsmGkSuqsmK6nl"
+    },
+    {
+      "album": {
         "name": "Party Started EP",
         "url": "https://open.spotify.com/album/1qv2QeH9DOUCbGv8dwwlb1"
       },
@@ -3062,7 +3384,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 269815,
       "name": "People Do",
       "url": "https://open.spotify.com/track/5iRhRQ6Hvdilz8EghmnQad"
@@ -3150,6 +3472,28 @@
       "duration_ms": 438332,
       "name": "Poem for the Planet (Christopher Coe Remix)",
       "url": "https://open.spotify.com/track/5KcDuJ3YTAs7RJfapoWmtz"
+    },
+    {
+      "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "Hannes Bieger",
+          "url": "https://open.spotify.com/artist/3t6NA1aXgEgmkhKGf2bsP9"
+        },
+        {
+          "name": "Christopher Coe",
+          "url": "https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261815,
+      "name": "Poem for the Planet (Christopher Coe Remix) - Mixed",
+      "url": "https://open.spotify.com/track/2AL8d4kEL3oEN3jalJehYg"
     },
     {
       "album": {
@@ -3245,6 +3589,24 @@
     },
     {
       "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330000,
+      "name": "Purple Eye - Mixed",
+      "url": "https://open.spotify.com/track/32E7D0IqDZtzwh2Exf306b"
+    },
+    {
+      "album": {
         "name": "Que Quiere Usted (Marc Romboy Edit)",
         "url": "https://open.spotify.com/album/36CJ4jaknPyY7I6qAyU6lr"
       },
@@ -3260,7 +3622,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 263225,
       "name": "Que Quiere Usted - Marc Romboy Edit",
       "url": "https://open.spotify.com/track/5fiN5pewjgzGOG4zX2bEgN"
@@ -3340,7 +3702,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 323829,
       "name": "Redemption",
       "url": "https://open.spotify.com/track/5bVBdOVX77LPQLUKm8MPkj"
@@ -3384,7 +3746,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 436963,
       "name": "Rekindled",
       "url": "https://open.spotify.com/track/30puCr5rC2BgI7meAl4cSx"
@@ -3410,7 +3772,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 422776,
       "name": "Release - Tech Us Out Remix",
       "url": "https://open.spotify.com/track/23ugKR2aqOUQCNPzvXn2i2"
@@ -3432,7 +3794,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 391632,
       "name": "Rhythm Of Future",
       "url": "https://open.spotify.com/track/5ByyD34KLxs9ERAQ1Khcfv"
@@ -3468,7 +3830,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 408679,
       "name": "Rouge Acid",
       "url": "https://open.spotify.com/track/5Sv2FkzWzasTMYmWYsNa0s"
@@ -3584,7 +3946,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 306180,
       "name": "Seiler and Typhon",
       "url": "https://open.spotify.com/track/789dOY6POjln1LaEy2Hg1r"
@@ -3620,7 +3982,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 326758,
       "name": "Self Inductance",
       "url": "https://open.spotify.com/track/2tAsOfI49k9BRLlQpAtPLr"
@@ -3674,7 +4036,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 428571,
       "name": "Seven Subjects - Live",
       "url": "https://open.spotify.com/track/7zVPuyj3DM22cYio5UXWEc"
@@ -3692,10 +4054,28 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 358081,
       "name": "She Hates That Chord",
       "url": "https://open.spotify.com/track/6KG3nib4DciCHi9L4QVfH7"
+    },
+    {
+      "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "Mat Playford",
+          "url": "https://open.spotify.com/artist/5hNs2vvPOq8U24ZsZzS7es"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225908,
+      "name": "Shifu - Mixed",
+      "url": "https://open.spotify.com/track/0tibvirh0Pz5fStH4dfI8S"
     },
     {
       "album": {
@@ -3710,7 +4090,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 261176,
       "name": "Silver Spark",
       "url": "https://open.spotify.com/track/2oMMOQL2NiNC97TEDmyjMk"
@@ -4116,7 +4496,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 334858,
       "name": "Step Forward - Bushwacka Remix",
       "url": "https://open.spotify.com/track/1KQGoRUMgPTN6pLob07SIN"
@@ -4134,10 +4514,28 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 430490,
       "name": "Stop Talking",
       "url": "https://open.spotify.com/track/0FL1hg0H8ZwrfnQXh1YPnu"
+    },
+    {
+      "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "De Sluwe Vos",
+          "url": "https://open.spotify.com/artist/6NOaZCnZyowwJiTHbh5dLS"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174706,
+      "name": "Subterranean Cloud - Mixed",
+      "url": "https://open.spotify.com/track/3Jl6hSpNnLRqsjajDPQSXF"
     },
     {
       "album": {
@@ -4159,6 +4557,42 @@
     },
     {
       "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "Hybrasil",
+          "url": "https://open.spotify.com/artist/5CA28dVSclgwdKigfNDWtI"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225007,
+      "name": "Tailtiu - Mixed",
+      "url": "https://open.spotify.com/track/4BmXcPhsH69andXjWPrZrd"
+    },
+    {
+      "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "Ehsan Gelsi",
+          "url": "https://open.spotify.com/artist/59PU1eVXuT3lBjbbUngmWs"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Take Me To Your Leader - Mixed",
+      "url": "https://open.spotify.com/track/0Ihc3ohak655pt8t5XAmsd"
+    },
+    {
+      "album": {
         "name": "33 Tours Et Puis S\u2019en Vont",
         "url": "https://open.spotify.com/album/3XSKAzY7vrFudIP2aafoBE"
       },
@@ -4174,7 +4608,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 656962,
       "name": "Tales from The Real World",
       "url": "https://open.spotify.com/track/5JuGY5qQy5byKT3RB04bYV"
@@ -4200,7 +4634,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 399230,
       "name": "Talking To You (Marc Romboy & Andr\u00e9 Winter Remix)",
       "url": "https://open.spotify.com/track/0WAjrqMeLz454UkhCdU4lM"
@@ -4274,7 +4708,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 258459,
       "name": "The Dust Arrival - Rebuke Edit",
       "url": "https://open.spotify.com/track/5xN35R4QaEIFKQkJNT6Rv1"
@@ -4310,7 +4744,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 428668,
       "name": "The Way I Want",
       "url": "https://open.spotify.com/track/2w6sztEz9aeDYQFPIwMF47"
@@ -4332,7 +4766,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 351871,
       "name": "This Is",
       "url": "https://open.spotify.com/track/29POmyLzrgJDQZLhNJNZd0"
@@ -4398,10 +4832,28 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 251586,
       "name": "Time",
       "url": "https://open.spotify.com/track/2CVD0QTp4r4EqjDpLvp1s5"
+    },
+    {
+      "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "Julien Chaptal",
+          "url": "https://open.spotify.com/artist/6BLHSrc2ISmwPtMiJRIim2"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "To Be Ob - Mixed",
+      "url": "https://open.spotify.com/track/4Xw9KCBIBhkMmtgB0VsHYS"
     },
     {
       "album": {
@@ -4624,7 +5076,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 275472,
       "name": "Voicemail - Layton Giordani Remix",
       "url": "https://open.spotify.com/track/2Fm1CwqVf3TN0dlZSy0lyE"
@@ -4650,7 +5102,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 387096,
       "name": "Wait A Minute - Dixon Extension",
       "url": "https://open.spotify.com/track/2O2oWOUJM14dWhQNpkcSbD"
@@ -4752,7 +5204,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 379246,
       "name": "Wig Owt - Extended Mix",
       "url": "https://open.spotify.com/track/6wlZOUhzYqG9vdBGrEFf2J"
@@ -4796,7 +5248,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 310920,
       "name": "Work Ya Ass (Ben Sims JFF Edit)",
       "url": "https://open.spotify.com/track/4rM7f0BkgINfLGuNleHNhK"
@@ -4836,6 +5288,24 @@
       "duration_ms": 264725,
       "name": "World Gone Mad",
       "url": "https://open.spotify.com/track/40tYY6O9fgxJVp4DFMkJ0Y"
+    },
+    {
+      "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "Momec",
+          "url": "https://open.spotify.com/artist/2UqM2Io9TkPIFg12lMRu9V"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329165,
+      "name": "Wormhole - Mixed",
+      "url": "https://open.spotify.com/track/3g9Uqq95TXkd11NGL4YV9B"
     },
     {
       "album": {

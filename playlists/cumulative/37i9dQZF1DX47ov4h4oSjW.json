@@ -741,6 +741,24 @@
     },
     {
       "album": {
+        "name": "Farvel til sommeren",
+        "url": "https://open.spotify.com/album/4ykDSRfJ83p4U2QJPIqq0H"
+      },
+      "artists": [
+        {
+          "name": "Nansen Christoffersen",
+          "url": "https://open.spotify.com/artist/4EG2PN3O2mm649IWzUex7B"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123500,
+      "name": "Farvel til sommeren",
+      "url": "https://open.spotify.com/track/2xgBsQS1gpI57AJB5aQg2y"
+    },
+    {
+      "album": {
         "name": "Feels like home",
         "url": "https://open.spotify.com/album/5dzG0zwWuSsExLMB8DAnXz"
       },
@@ -954,7 +972,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 137000,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/5gYcfdwdwQ7eowE3ycuXaW"

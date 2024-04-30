@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring YG, Gucci Mane, A Boogie and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,686 likes - 49 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,748 likes - 49 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 42 | [PDA](https://open.spotify.com/track/4zBdNhpcfF8Zfz6i3OEby0) | [Devin Malik](https://open.spotify.com/artist/3mhGKo6sIMtVoPUu3t9p16) | [PDA](https://open.spotify.com/album/3s5hLv5xosYBMVVauUXcMv) | 3:02 |
 | 43 | [Dirt \(Poem\)](https://open.spotify.com/track/1UNMqg1gKDLXUyGszRnMMt) | [Wynne](https://open.spotify.com/artist/3fhz0PcZrd3o3xB8APuoPX) | [Dirt \(Poem\)](https://open.spotify.com/album/6k1lbh6ZsYcqxuN9tMijvp) | 2:01 |
 | 44 | [Streets Back \(feat\. Giggs\)](https://open.spotify.com/track/0qPpLSmfPFt6YkZQAIggkI) | [Maino](https://open.spotify.com/artist/20apXQGKM00jJTvYfyKwlb), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [This Life Forever](https://open.spotify.com/album/1Gn896HWPnMUBIzNEs6Kby) | 3:35 |
-| 45 | [Pull Up \(feat\. Tory Lanez\)](https://open.spotify.com/track/0yvnyOfjVEit8FYkWaE84U) | [Mark Battles](https://open.spotify.com/artist/24SwsBq76FnNeXW9Do4wPI), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Pull Up \(feat\. Tory Lanez\)](https://open.spotify.com/album/4ta5PFMTNqVVHqkc5pYuRQ) | 2:06 |
+| 45 | [Pull Up \(feat\. Tory Lanez\)](https://open.spotify.com/track/0yvnyOfjVEit8FYkWaE84U) | [Mark Battles](https://open.spotify.com/artist/24SwsBq76FnNeXW9Do4wPI), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Pull Up \(feat\. Tory Lanez\)](https://open.spotify.com/album/4ta5PFMTNqVVHqkc5pYuRQ) | 2:05 |
 | 46 | [BUGGIN](https://open.spotify.com/track/0y1phOQeYBTgg9JYtcnbn5) | [Chinese Kitty](https://open.spotify.com/artist/6x3iaJYt5zLqKIfkrPQme9), [Connie Diiamond](https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK) | [BUGGIN \(feat\. Connie Diiamond\)](https://open.spotify.com/album/7w4JdbvbTAq0WWjTna7xiM) | 2:27 |
 | 47 | [SUNDAY SCARIES](https://open.spotify.com/track/37ZjKTh2vteCm9jd3CRmZ4) | [JERREAU](https://open.spotify.com/artist/1xMXwKQhYLclPctEzpm4nr) | [SUNDAY SCARIES](https://open.spotify.com/album/37I0PC0k15kEXsbEAYLSXt) | 1:47 |
 | 48 | [Tears](https://open.spotify.com/track/6eMgAr99mgRleYua3CEv3j) | [Project Youngin](https://open.spotify.com/artist/0zSnym91x3cA9RTp3wHff0) | [Bigger Blessings](https://open.spotify.com/album/1oPjt4ZaOkLeVJHOiipMzj) | 2:46 |

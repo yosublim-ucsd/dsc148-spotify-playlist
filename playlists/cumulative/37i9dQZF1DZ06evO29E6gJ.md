@@ -2,7 +2,7 @@
 
 ### [This Is Los Alegres De Teran](https://open.spotify.com/playlist/37i9dQZF1DZ06evO29E6gJ)
 
-> This is Los Alegres De Teran\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This is Los Alegres De Teran\. The essential tracks, all in one playlist.
 
 68 songs - 3 hr 16 min
 

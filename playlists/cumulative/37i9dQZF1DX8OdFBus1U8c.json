@@ -3315,6 +3315,28 @@
     },
     {
       "album": {
+        "name": "Urangatte",
+        "url": "https://open.spotify.com/album/7aXHQlVLJSwlRir0WL4i7W"
+      },
+      "artists": [
+        {
+          "name": "Vedan",
+          "url": "https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf"
+        },
+        {
+          "name": "HRISHI",
+          "url": "https://open.spotify.com/artist/7kKoRxgfmSO6FeY8iuUO3O"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Urangatte",
+      "url": "https://open.spotify.com/track/1WEeAHhI8u8Y2x4MJH3aBk"
+    },
+    {
+      "album": {
         "name": "Utharam Para",
         "url": "https://open.spotify.com/album/1k1o9ToLbRKtTPvgVpCx5U"
       },

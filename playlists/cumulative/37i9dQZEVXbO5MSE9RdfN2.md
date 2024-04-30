@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Australia.
 
-318 songs - 16 hr 18 min
+319 songs - 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Come Through](https://open.spotify.com/track/4BSNIP9txYvoT9Qsz3pVgf) | [Miyuze](https://open.spotify.com/artist/1IS7bD5eZp5n0rfTWEg6gQ) | [Come Through](https://open.spotify.com/album/6K02VInMDwstOicdHh2Glv) | 2:15 | 2024-04-02 | 2024-04-04 |
 | [Cruel Summer \- triple j Like A Version](https://open.spotify.com/track/3KZmypTvRz05QxmJ3B07SU) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Cruel Summer \(triple j Like A Version\)](https://open.spotify.com/album/1SdA3KXjncfKUlPIcW5nOm) | 3:26 | 2024-02-06 | 2024-02-14 |
 | [Cry](https://open.spotify.com/track/3h76tbaYIamSeJL81X7ZwI) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:06 | 2024-04-24 | 2024-04-27 |
-| [CUTE DEPRESSED](https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf) | [Dyan Dxddy](https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx) | [CUTE DEPRESSED](https://open.spotify.com/album/5qaY84OJqYT635rMGeWBzJ) | 1:36 | 2024-04-14 | 2024-04-29 |
+| [CUTE DEPRESSED](https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf) | [Dyan Dxddy](https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx) | [CUTE DEPRESSED](https://open.spotify.com/album/5qaY84OJqYT635rMGeWBzJ) | 1:36 | 2024-04-14 |  |
 | [Dance You Outta My Head](https://open.spotify.com/track/6NMqeF0Ssmi7d3dSUqnOFf) | [Cat Janice](https://open.spotify.com/artist/7kNpF2nj7eVgcVo8k6pWkz) | [Dance You Outta My Head](https://open.spotify.com/album/1fyTcCoTKXM35bFpEJlAyG) | 3:22 | 2024-02-06 | 2024-02-23 |
 | [dans tes bras II \(Lady Killers II\)](https://open.spotify.com/track/7oXkxS9f50ZKBQvzftseXE) | [kobzx2z](https://open.spotify.com/artist/1e1A7s86U6f7cyJAivpfY3) | [dans tes bras II \(Lady Killers II\)](https://open.spotify.com/album/2QnJ9NX757hPrTwmfu3TxH) | 2:51 | 2024-03-26 | 2024-03-31 |
 | [DASH](https://open.spotify.com/track/2RoYgkPzUY0vY7lhUuyus1) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: BREAK](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) | 2:46 | 2024-01-30 | 2024-02-02 |
@@ -99,7 +99,8 @@
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-04-05 |  |
 | [Get It Sexyy](https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Get It Sexyy](https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw) | 2:28 | 2024-04-02 | 2024-04-17 |
 | [Get This Money](https://open.spotify.com/track/5sIrMZ6w6IFPz8a1mwVwbT) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [Get This Money](https://open.spotify.com/album/48V3QRGOHau4uNtltrdYl3) | 2:34 | 2024-03-26 | 2024-04-03 |
-| [Get Wid Lemonade](https://open.spotify.com/track/5pJK4zHDOdUxAZDEXx8dDO) | [\[Kyle Davis\]](https://open.spotify.com/artist/1nyfRqThs0v4NQUi5vW6Of) | [Get Wid Lemonade](https://open.spotify.com/album/3qc0kwSgoyl7ZT0wjxdzkY) | 2:16 | 2024-04-12 |  |
+| [Get Wid Lemonade](https://open.spotify.com/track/5pJK4zHDOdUxAZDEXx8dDO) | [\[Kyle Davis\]](https://open.spotify.com/artist/1nyfRqThs0v4NQUi5vW6Of) | [Get Wid Lemonade](https://open.spotify.com/album/3qc0kwSgoyl7ZT0wjxdzkY) | 2:16 | 2024-04-12 | 2024-04-30 |
+| [Get Wid Lemonade](https://open.spotify.com/track/66D6nQk8THVR6SE5v7HCFd) | [Aurbley](https://open.spotify.com/artist/3CfTeHuZzeWePQMnsdEI7f) | [Get Wid Lemonade](https://open.spotify.com/album/5NAl4CDSMrYg02jmZOusRL) | 2:16 | 2024-04-29 |  |
 | [Gift Horse](https://open.spotify.com/track/67CrKLE8d3Qhm4gcltiKs1) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [TANGK](https://open.spotify.com/album/6U11VNHZAfYY3E9V4oFB2p) | 4:09 | 2024-02-18 | 2024-02-28 |
 | [GOOD DAY](https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [GOOD DAY](https://open.spotify.com/album/3EdKL10Hos74yj7rGqoS2e) | 2:50 | 2024-02-11 | 2024-03-28 |
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-04-23 |  |
@@ -293,7 +294,7 @@
 | [undrcut](https://open.spotify.com/track/1Q6aZrlfWlLCNs7BMDLhej) | [Juno Mamba](https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL) | [undrcut](https://open.spotify.com/album/1tiiz9aRA7aRkDMc5NJ0WR) | 4:02 | 2024-02-13 | 2024-02-20 |
 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 | 2024-01-29 | 2024-02-14 |
 | [UP!](https://open.spotify.com/track/50utqknCBo0N3QAQbXIPKV) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [UP!](https://open.spotify.com/album/2WoIZTbS7s8uNtRf9G6QOP) | 2:16 | 2024-03-19 | 2024-04-10 |
-| [Us Vs\. Them](https://open.spotify.com/track/3cmdqMDc0Fj4TgPeyDOYTM) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Us Vs\. Them](https://open.spotify.com/album/6G7r3vu2Snjn8Ese1uwNZp) | 3:04 | 2024-04-16 |  |
+| [Us Vs\. Them](https://open.spotify.com/track/3cmdqMDc0Fj4TgPeyDOYTM) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Us Vs\. Them](https://open.spotify.com/album/6G7r3vu2Snjn8Ese1uwNZp) | 3:04 | 2024-04-16 | 2024-04-30 |
 | [V.A.N](https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [V.A.N](https://open.spotify.com/album/6MjPsfdd67Pm1CIi36YvJM) | 4:34 | 2024-02-13 | 2024-02-21 |
 | [Vegas \- A COLORS SHOW](https://open.spotify.com/track/1nOEnc4w1DeeIFJBw5F2ID) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Vegas \- A COLORS SHOW](https://open.spotify.com/album/1UipsejbT67IizPimBSxN3) | 3:01 | 2024-04-14 | 2024-04-28 |
 | [Vent](https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds) | [NOIT](https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC) | [Vent](https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU) | 2:56 | 2024-04-22 |  |

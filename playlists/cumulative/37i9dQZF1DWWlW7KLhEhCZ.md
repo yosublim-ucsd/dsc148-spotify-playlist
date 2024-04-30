@@ -4,7 +4,7 @@
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Malcolm VL
 
-1,126 songs - 2 day 3 hr 34 min
+1,127 songs - 2 day 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [Colômbia](https://open.spotify.com/track/70veL7ZFzSdUJQwwp2meW9) | [Nochica](https://open.spotify.com/artist/7KXVP4FXUjg321zasfnoBZ), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [CHF](https://open.spotify.com/artist/1HNVz8Sg0CzK1um1QNB7qS) | [Colômbia](https://open.spotify.com/album/22l9aAaIRNqy9CfANAKlyr) | 2:25 | 2023-08-11 | 2023-09-02 |
 | [Com Pressão](https://open.spotify.com/track/6Ww1KjoOVgur1lFJxN6ZAf) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Com Pressão](https://open.spotify.com/album/1p8Zf8GdClzaFEnkHQ2UMj) | 3:08 | 2023-02-03 | 2023-10-07 |
 | [Combate](https://open.spotify.com/track/2LkRPTwqJ6PqoOKswBQkdp) | [RAP, falando](https://open.spotify.com/artist/5V8FZVxUupPFrmqrZcoaBt), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [Combate](https://open.spotify.com/album/4UNuBZQoxlSjx2bCI8kqfC) | 3:10 | 2023-04-14 | 2023-05-06 |
+| [Comentei Sua Foto](https://open.spotify.com/track/3xSloUZNqC71ndTO4kaXIe) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30), [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE) | [A Peça Final](https://open.spotify.com/album/7wOg102RsIsFYkYSRI1STQ) | 2:31 | 2024-04-29 |  |
 | [Como que eu movimento essa grana ?](https://open.spotify.com/track/41C9wdvSMImTmML9REiDRE) | [Cashley](https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC) | [Como que eu movimento essa grana ?](https://open.spotify.com/album/6YwsPWgh2Rp6dfDe7c6QvV) | 1:23 | 2024-04-05 | 2024-04-19 |
 | [Conexão Rare](https://open.spotify.com/track/3A4SgUBQVRtNDmZ5fzj5HH) | [Raffé](https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m) | [Conexão Rare](https://open.spotify.com/album/4kBwsmJ15KE8I2gJsIcFfR) | 2:32 | 2023-02-03 | 2023-03-04 |
 | [Confiar en Nadie](https://open.spotify.com/track/3p0wsEbKEy5jwEwtNCyWRN) | [SymCamp](https://open.spotify.com/artist/2HSd4mxyhiYrKnMkluyjV4), [Jc La Nevula](https://open.spotify.com/artist/6KBhywwNM5dStjqjHeNndc), [Trunks](https://open.spotify.com/artist/6CAOElXrWvhb594GKitCch), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK) | [SymCamp \- Vol\. 2 \(DR meets Brazil\)](https://open.spotify.com/album/7hJYWUSuPc6Z00l7815OQ4) | 2:52 | 2023-02-03 | 2023-02-11 |

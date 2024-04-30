@@ -219,6 +219,24 @@
     },
     {
       "album": {
+        "name": "Liberation",
+        "url": "https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 36880,
+      "name": "Dreamers",
+      "url": "https://open.spotify.com/track/4QDcjz0V5zwkkQm2TUPE8A"
+    },
+    {
+      "album": {
         "name": "El Mejor Guerrero (De \"Mul\u00e1n\")",
         "url": "https://open.spotify.com/album/4HyRb7YrqhfdFrxVzxjG7F"
       },
@@ -426,7 +444,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-29",
+      "date_removed": null,
       "duration_ms": 229506,
       "name": "Feel This Moment (feat. Christina Aguilera)",
       "url": "https://open.spotify.com/track/0Hf4aIJpsN4Os2f0y0VqWl"
@@ -662,7 +680,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 267960,
       "name": "Lady Marmalade - Single Edit",
       "url": "https://open.spotify.com/track/0PSZ9G584Ve27GK6ThlY6P"
@@ -808,7 +826,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-29",
+      "date_removed": null,
       "duration_ms": 265733,
       "name": "Pero Me Acuerdo de T\u00ed",
       "url": "https://open.spotify.com/track/4B1sb2YVO03sBmyR8bvzEB"
@@ -906,10 +924,32 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 193160,
       "name": "Save Me from Myself",
       "url": "https://open.spotify.com/track/7aLQoD4MWkYQjZuTQKuT9Y"
+    },
+    {
+      "album": {
+        "name": "Is There Anybody Out There? - Track by Track Commentary",
+        "url": "https://open.spotify.com/album/3kwbwO3wtwyNo7zCFzWkcW"
+      },
+      "artists": [
+        {
+          "name": "A Great Big World",
+          "url": "https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF"
+        },
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229400,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/5TvE3pk05pyFIGdSY9j4DJ"
     },
     {
       "album": {
@@ -928,7 +968,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 229400,
       "name": "Say Something",
       "url": "https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N"
@@ -968,7 +1008,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 289200,
       "name": "Si No Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/2tN1wKPCuQ6xO2sBTQDf1t"

@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-291 songs - 21 hr 24 min
+292 songs - 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Beirut](https://open.spotify.com/track/37bW0E4kxB3Ex5K4NwgnUY) | [Rodge](https://open.spotify.com/artist/3F9PS1VPIjbbkQyYZCZDDG), [Nina Abdel Malak](https://open.spotify.com/artist/4XfkQ6qBTSdds4GqBAlt0E) | [Beirut](https://open.spotify.com/album/1mABpSoBrD4rFpeQhdNSwc) | 4:20 | 2020-10-18\* | 2022-07-29 |
 | [Belly Dance](https://open.spotify.com/track/5AFR7DK2GL4HtFTiiJRXYv) | [Game Chasers](https://open.spotify.com/artist/0Zg9ME7KSNIjdMSRspxWCS) | [Belly Dance](https://open.spotify.com/album/52IqDznKi2rWHJMVJ6uMZM) | 3:14 | 2022-06-27 | 2023-03-18 |
 | [Belly Dance](https://open.spotify.com/track/7cYuWkbHyld3zWV9jx5vTQ) | [Game Chasers](https://open.spotify.com/artist/0Zg9ME7KSNIjdMSRspxWCS) | [Belly Dance](https://open.spotify.com/album/2wpmlA6VViXp4INJpIlIp8) | 3:14 | 2020-10-18\* | 2022-07-29 |
+| [Bladi B3ida](https://open.spotify.com/track/2h519R5O4HhdPjboqsOond) | [Momo Ryuk](https://open.spotify.com/artist/3s9FZ3OTtrvWzS98OlzecE), [Khalid Elhamri](https://open.spotify.com/artist/0HP4N5HHfnJAoUlBjKewtu), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Bladi B3ida](https://open.spotify.com/album/4B1cXT0JtC0f0e0sbODGow) | 5:19 | 2024-04-26 |  |
 | [Bliss](https://open.spotify.com/track/63BMldQAjrTJuEGMHwaMeM) | [Hisham Kharma](https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl) | [Bliss](https://open.spotify.com/album/1PKS9AMSpBgINKKViRYcrm) | 3:33 | 2020-10-18\* |  |
 | [Bodvár](https://open.spotify.com/track/2QOXBvxgsF8tqS35uOkT4h) | [Furkan Sert](https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I) | [Bodvár](https://open.spotify.com/album/198aTBufTgIU0Dj47MJtUu) | 2:46 | 2023-06-29 |  |
 | [Breathe](https://open.spotify.com/track/0cD9Wkmru9qmxuTAVq8CCM) | [Parah Dice](https://open.spotify.com/artist/4QBEmbwSxLlo6RIGlFyn1o), [Brianna](https://open.spotify.com/artist/3q1xAVcUquRc7oCZYLLIvZ) | [Breathe](https://open.spotify.com/album/24kHYMHVm3cFlvNS1ru9Qv) | 2:49 | 2020-11-06 | 2023-04-12 |
@@ -162,7 +163,7 @@
 | [Lost](https://open.spotify.com/track/2hVQWiAcCZO3ICY0zoHdA2) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU), [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE) | [Lost](https://open.spotify.com/album/2eNP8ynGQaauz1pwPnsYH0) | 3:39 | 2021-02-12 | 2023-12-09 |
 | [Love of You \(The Violin Song\)](https://open.spotify.com/track/3Plxq17VtrPDcXMFvFqBI4) | [Embody](https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv), [Brianna](https://open.spotify.com/artist/3q1xAVcUquRc7oCZYLLIvZ) | [Love of You \(The Violin Song\)](https://open.spotify.com/album/34OrTqooBQrQqkwJpxPTJJ) | 2:40 | 2023-12-04 | 2024-04-19 |
 | [Love of You \(The Violin Song\)](https://open.spotify.com/track/5WUl5natjFTSqSljddJqqZ) | [Embody](https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv), [Brianna](https://open.spotify.com/artist/3q1xAVcUquRc7oCZYLLIvZ) | [Love of You \(The Violin Song\)](https://open.spotify.com/album/5enimcWdUNJu7ijU0MSHaW) | 2:40 | 2021-02-16 | 2023-12-11 |
-| [Lovely](https://open.spotify.com/track/593LEeuExHU4WfqxxaIOYG) | [Berat Oz](https://open.spotify.com/artist/3d9HQNZBdTS1yMG7CetZf1) | [Lovely](https://open.spotify.com/album/05zjElhX5hGafbGN1YUb6H) | 2:56 | 2023-03-24 |  |
+| [Lovely](https://open.spotify.com/track/593LEeuExHU4WfqxxaIOYG) | [Berat Oz](https://open.spotify.com/artist/3d9HQNZBdTS1yMG7CetZf1) | [Lovely](https://open.spotify.com/album/05zjElhX5hGafbGN1YUb6H) | 2:56 | 2023-03-24 | 2024-04-30 |
 | [Lovely](https://open.spotify.com/track/6swUlpIZQ3ogPdfnn2Sh5Y) | [Berat Oz](https://open.spotify.com/artist/3d9HQNZBdTS1yMG7CetZf1) | [Lovely](https://open.spotify.com/album/0VCPlHKrNaXBmvDLuXdBVH) | 2:56 | 2024-03-13 | 2024-04-19 |
 | [Mafeesh Mostaheel \- Arrab Remix](https://open.spotify.com/track/2pCAbg8LNmLBThAJoA6gj8) | [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Nicole Saba](https://open.spotify.com/artist/5rG4r9CUQsfZhjcCiR643w), [Abdelbaset Hamouda](https://open.spotify.com/artist/214and19aAubWpZFKo7bnv) | [Mafeesh Mostaheel \- Arrab Remix](https://open.spotify.com/album/0tPPFYZJFvWbtEg5TQLMrW) | 8:38 | 2021-03-08 | 2023-03-18 |
 | [Magic](https://open.spotify.com/track/0jqczwiW0nZS9nbHcP53zH) | [Mert Kurt](https://open.spotify.com/artist/4RT6cDwglyYnmCDaxX2LHL), [Barış Çakır](https://open.spotify.com/artist/4UXic6o2WzSQJwgMzAP32J) | [Magic](https://open.spotify.com/album/60BkiwqufLrelLEbCueKG5) | 2:50 | 2021-07-16 | 2022-07-29 |

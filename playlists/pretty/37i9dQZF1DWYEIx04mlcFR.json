@@ -1,6 +1,6 @@
 {
   "description": "la nueva ola de artistas con Humbe y Bruses en portada. \ud83c\udf0a\u2728 ",
-  "num_followers": 79659,
+  "num_followers": 79662,
   "original_name": "la pop~wave",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
+        "name": "mE vALe maDRE :)",
+        "url": "https://open.spotify.com/album/2NU9IGazkM2S6l0C0i1EaP"
+      },
+      "artists": [
+        {
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        }
+      ],
+      "duration_ms": 150500,
+      "name": "mE vALe maDRE :)",
+      "url": "https://open.spotify.com/track/0ktTd6UI2vktUtieujvgU8"
+    },
+    {
+      "added_at": "2024-04-26 06:00:00",
+      "album": {
         "name": "feliz a\u00f1o nuevo",
         "url": "https://open.spotify.com/album/47ubxDMVM0bINclhKv85aG"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 163451,
       "name": "feliz a\u00f1o nuevo",
       "url": "https://open.spotify.com/track/56rV56F2JBMgL7jSzoEiAW"
-    },
-    {
-      "added_at": "2024-04-26 06:00:00",
-      "album": {
-        "name": "mE vALe maDRE :)",
-        "url": "https://open.spotify.com/album/2NU9IGazkM2S6l0C0i1EaP"
-      },
-      "artists": [
-        {
-          "name": "Ramon Vega",
-          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
-        }
-      ],
-      "duration_ms": 150500,
-      "name": "mE vALe maDRE :)",
-      "url": "https://open.spotify.com/track/0ktTd6UI2vktUtieujvgU8"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
+        "name": "BITCH3",
+        "url": "https://open.spotify.com/album/5KYA9DUntV71ML54hncirY"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "duration_ms": 144554,
+      "name": "BITCH3",
+      "url": "https://open.spotify.com/track/5f1hwdxzqdomOHHe40ju1f"
+    },
+    {
+      "added_at": "2024-04-26 06:00:00",
+      "album": {
         "name": "YNQNP",
         "url": "https://open.spotify.com/album/6MHJtcjTccqn6F5fYKr7Sa"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 150186,
       "name": "YNQNP",
       "url": "https://open.spotify.com/track/4MYfbMGI7KgUzkYDN1lpnD"
-    },
-    {
-      "added_at": "2024-04-26 06:00:00",
-      "album": {
-        "name": "BITCH3",
-        "url": "https://open.spotify.com/album/5KYA9DUntV71ML54hncirY"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 144554,
-      "name": "BITCH3",
-      "url": "https://open.spotify.com/track/5f1hwdxzqdomOHHe40ju1f"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "ISABEL LP",
-        "url": "https://open.spotify.com/album/2wKUbvW4GLcdbvCYVoLnEX"
+        "name": "Agua Caliente",
+        "url": "https://open.spotify.com/album/2weNbDp2J841mrVkjJF0YL"
       },
       "artists": [
         {
-          "name": "Noa Sainz",
-          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
+          "name": "M\u00e9ne",
+          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
         }
       ],
-      "duration_ms": 144749,
-      "name": "Algo Que Escuch\u00e9 / Algo Que Vi",
-      "url": "https://open.spotify.com/track/7GrNmmMydQfmhBN9YfCeRc"
+      "duration_ms": 200339,
+      "name": "Agua Caliente",
+      "url": "https://open.spotify.com/track/1iUIeyrLRtHXc1K1Xjzxvf"
     }
   ],
   "unique_name": "la pop~wave",

@@ -2,7 +2,7 @@
 
 ### [This Is Machine Head](https://open.spotify.com/playlist/37i9dQZF1DZ06evO08InPG)
 
-> This is Machine Head\. The essential tracks, all in one playlist.
+> This is: Machine Head\. Alle wichtigen Tracks in einer Playlist.
 
 85 songs - 7 hr 27 min
 

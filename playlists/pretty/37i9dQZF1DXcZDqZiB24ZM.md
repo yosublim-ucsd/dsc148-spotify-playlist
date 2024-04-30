@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 
 > Les essentiels du hip\-hop québécois des dernières années\. Photo: Dead Obies
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,112 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,118 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 | 25 | [Barillet](https://open.spotify.com/track/7sQlKJBiqR3exoRjHlT7PM) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Backstage](https://open.spotify.com/album/49ar9sLxIGvyuACExV498g) | 3:46 |
 | 26 | [Houdini](https://open.spotify.com/track/2ptGO7wZZEewt7G3AA9QuN) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ), [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Yung Duce](https://open.spotify.com/artist/3xR8mAOFhKZZ8V89C4RWrl) | [Les trois étoiles](https://open.spotify.com/album/1nGLg9pTyHuSAm5j4fGiF6) | 3:49 |
 | 27 | [Nouveaux riches](https://open.spotify.com/track/2WGjNKDvkM56JRYobuQazH) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [Une année record](https://open.spotify.com/album/3qXEmug7yjJvgTnWo6h1ZQ) | 3:11 |
-| 28 | [P.R.M.F](https://open.spotify.com/track/3sHJafEyMsa1aboGc8OHIO) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Cerbère](https://open.spotify.com/album/4FXtD2a2crSUwtpZsrgsfA) | 4:37 |
-| 29 | [Undercover](https://open.spotify.com/track/3wz9q30Ip0dqpi4wWw6g1q) | [Clay and Friends](https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm), [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Undercover](https://open.spotify.com/album/1HpEHr7YME3TpJmHNX7x3T) | 2:27 |
+| 28 | [Undercover](https://open.spotify.com/track/3wz9q30Ip0dqpi4wWw6g1q) | [Clay and Friends](https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm), [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Undercover](https://open.spotify.com/album/1HpEHr7YME3TpJmHNX7x3T) | 2:27 |
+| 29 | [P.R.M.F](https://open.spotify.com/track/3sHJafEyMsa1aboGc8OHIO) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Cerbère](https://open.spotify.com/album/4FXtD2a2crSUwtpZsrgsfA) | 4:37 |
 | 30 | [Invisible](https://open.spotify.com/track/7tS8pETnFbdRElpCePcvpg) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [L'album noir](https://open.spotify.com/album/24ELiFOvFYXOESU0ovA28B) | 3:29 |
 | 31 | [Blacklights](https://open.spotify.com/track/0oFmVpZmt2Z3jS0wPvLrFZ) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [Love suprême](https://open.spotify.com/album/4ZvgOLI5Wozf7RAxneTx9x) | 3:43 |
 | 32 | [Makeup](https://open.spotify.com/track/21RgjCszrzZBePdEBDgubQ) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Zay](https://open.spotify.com/album/2jXXgAO8DRfHewBk849PSp) | 3:37 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 | 75 | [Tangerine](https://open.spotify.com/track/3H0AwabHiugPGdHwYIZUYf) | [LaF](https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8) | [Hôtel délices](https://open.spotify.com/album/73Q5aLTYECXFWFbYQKAPML) | 3:28 |
 | 76 | [Henny](https://open.spotify.com/track/2kr0AZ8R4zMR6aQu0Icnzp) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [Henny](https://open.spotify.com/album/0RgMc7wfq8zSRyYBoDSY6Z) | 3:47 |
 | 77 | [Petit prince](https://open.spotify.com/track/4Aqojygi9VEk9Rb6YmH091) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Petit prince](https://open.spotify.com/album/3UBeTz59zmzBaNQmUlp0y4) | 4:04 |
-| 78 | [Décoller](https://open.spotify.com/track/0IUDInE3pmD0oGr5KcRi2A) | [Farfadet](https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Jungle Music](https://open.spotify.com/album/0KsLYPXIW6Ky6rT2yrlcXZ) | 4:25 |
-| 79 | [Jalousie](https://open.spotify.com/track/1bypDBJ7EReMNW6Rz1C2kc) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [On Frap](https://open.spotify.com/album/4WacgaqV5Fj3kjvr9Azv2k) | 3:17 |
+| 78 | [Jalousie](https://open.spotify.com/track/1bypDBJ7EReMNW6Rz1C2kc) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [On Frap](https://open.spotify.com/album/4WacgaqV5Fj3kjvr9Azv2k) | 3:17 |
+| 79 | [Décoller](https://open.spotify.com/track/0IUDInE3pmD0oGr5KcRi2A) | [Farfadet](https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Jungle Music](https://open.spotify.com/album/0KsLYPXIW6Ky6rT2yrlcXZ) | 4:25 |
 | 80 | [Paranoia](https://open.spotify.com/track/2jnNLZ4GcmstGoS0d591jD) | [Gnino](https://open.spotify.com/artist/03sPkUqjLbCXdxu3e46T3H) | [Paranoia](https://open.spotify.com/album/0ce1MQn7HJBr1OPyJOoDB3) | 3:34 |
 | 81 | [La famille](https://open.spotify.com/track/4HfhNCdKL34i9y118KS41T) | [Alaclair Ensemble](https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG) | [Le sens des paroles](https://open.spotify.com/album/0GNDdLfBY9hHJK4x4BU6Ck) | 4:14 |
 | 82 | [La purge](https://open.spotify.com/track/4IsyXZc89MKb0AgjiejaYB) | [Random](https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Silence de mort](https://open.spotify.com/album/0GCjjUJVzXRPU3UfkUqjlU) | 3:28 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 | 94 | [back](https://open.spotify.com/track/5TyT9YnF3S0Z4DfqUSO96b) | [Kirouac](https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt), [Kodakludo](https://open.spotify.com/artist/52ScNDotCN180BnXLSFiiQ) | [wesh](https://open.spotify.com/album/12eqi4scCGaiOQRJkR2ZfF) | 2:50 |
 | 95 | [Partis de rien](https://open.spotify.com/track/33Ay5MbNH6p1BopOQeIEjm) | [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ), [Lost](https://open.spotify.com/artist/4ySHhTWqrHTSZxsbPexM6n) | [Empire](https://open.spotify.com/album/1bRXfVfIPqPHniKo6lc5h6) | 4:39 |
 | 96 | [Blue Volvo](https://open.spotify.com/track/6vdWn7Pxc4u7om93eXRkfy) | [Loud Lary Ajust](https://open.spotify.com/artist/2zxjAOpQqLzNsLkRbSNjAN) | [Blue Volvo](https://open.spotify.com/album/4s7S302I93Q2S9BTyGHqYc) | 2:49 |
-| 97 | [Remember](https://open.spotify.com/track/3hdQsBaZ7FD3MpNIhwBSM1) | [O.Z](https://open.spotify.com/artist/1OOqRDxjjXJZaHjgliZaHc) | [Remember](https://open.spotify.com/album/00dvZVIrHdAJJCSQx9kcS0) | 3:30 |
-| 98 | [Sang Sur les Mains](https://open.spotify.com/track/0T3Fsro25pwNhZ4iVDnIiC) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk), [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [IMPRÉVU](https://open.spotify.com/album/0ZT9myo7oZW88ZB81glyvE) | 4:21 |
+| 97 | [Sang Sur les Mains](https://open.spotify.com/track/0T3Fsro25pwNhZ4iVDnIiC) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk), [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [IMPRÉVU](https://open.spotify.com/album/0ZT9myo7oZW88ZB81glyvE) | 4:21 |
+| 98 | [Remember](https://open.spotify.com/track/3hdQsBaZ7FD3MpNIhwBSM1) | [O.Z](https://open.spotify.com/artist/1OOqRDxjjXJZaHjgliZaHc) | [Remember](https://open.spotify.com/album/00dvZVIrHdAJJCSQx9kcS0) | 3:30 |
 | 99 | [ON RUN THINGS](https://open.spotify.com/track/2abnUQe9eBEN5aa4JCOxMj) | [Eman](https://open.spotify.com/artist/0577M91sH51YDk2o3cGko9) | [1036](https://open.spotify.com/album/6xvlXgJ4JubdTa0cRUBXiC) | 3:02 |
 | 100 | [Vivre et laisser vivre](https://open.spotify.com/track/6TyG2Uo6G3CheEPjfPw2RE) | [Manu Militari](https://open.spotify.com/artist/5hCqDsqqIaYbJhWoZ0JhaE) | [Océan](https://open.spotify.com/album/2hSTXbIyUNlfjvh13e79nL) | 4:20 |
 

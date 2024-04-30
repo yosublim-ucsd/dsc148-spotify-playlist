@@ -1,5 +1,5 @@
 {
-  "2024-04-29": 0,
+  "2024-04-30": 0,
   "date_first_scraped": "2023-03-07",
   "description": "",
   "name": "import of The daily dozen (@pipemanuel10)",
@@ -1160,6 +1160,24 @@
     },
     {
       "album": {
+        "name": "Belong To The Wind",
+        "url": "https://open.spotify.com/album/2VbHINJMhuepw7PnR49mCa"
+      },
+      "artists": [
+        {
+          "name": "Edgar Homeros",
+          "url": "https://open.spotify.com/artist/4j8tcurjLu5pZAi0uogaYg"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141687,
+      "name": "Belong To The Wind",
+      "url": "https://open.spotify.com/track/4p6yT9iFL3RHRBqcw5vWKM"
+    },
+    {
+      "album": {
         "name": "Amar es Combatir",
         "url": "https://open.spotify.com/album/6EuWSWRMKjUNJCKOXnbGga"
       },
@@ -1197,6 +1215,24 @@
       "duration_ms": 206608,
       "name": "Better Care",
       "url": "https://open.spotify.com/track/0ObifqYUwrZOSDSkgJMGLf"
+    },
+    {
+      "album": {
+        "name": "What Separates Me From You",
+        "url": "https://open.spotify.com/album/2kllnMabPw1hYID0MhQRK0"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206360,
+      "name": "Better Off This Way",
+      "url": "https://open.spotify.com/track/5TtOrriDfiamVEKrls2GIT"
     },
     {
       "album": {
@@ -1427,7 +1463,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 192866,
       "name": "Body to Body",
       "url": "https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL"
@@ -2030,6 +2066,24 @@
     },
     {
       "album": {
+        "name": "Cena de Sushi (Limpiar)",
+        "url": "https://open.spotify.com/album/3HJdxsAsabTEhW7pKdq8PS"
+      },
+      "artists": [
+        {
+          "name": "Musica de Restaurante Japones De Lujo",
+          "url": "https://open.spotify.com/artist/1qZL6NnNMtXckfzaIONnfB"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118421,
+      "name": "Cena de Sushi Trendy",
+      "url": "https://open.spotify.com/track/3HaOUGPBnZUXEgQulvHxmQ"
+    },
+    {
+      "album": {
         "name": "The Divine Conspiracy",
         "url": "https://open.spotify.com/album/66YoOlsUvwcNFTBkDCX6TX"
       },
@@ -2081,7 +2135,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 267533,
       "name": "Childhood (Theme from \"Free Willy 2\")",
       "url": "https://open.spotify.com/track/1Cfx6KBsyF0tEKbZbS4faj"
@@ -2229,6 +2283,24 @@
       "duration_ms": 384637,
       "name": "Closer",
       "url": "https://open.spotify.com/track/7CDg6jt9cFRthTOrXhKrWy"
+    },
+    {
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/5WzytSkKsXzzXoTtsDOnnn"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267626,
+      "name": "Cohkka",
+      "url": "https://open.spotify.com/track/0TkZ7Vdzb19mgZoTfSypqy"
     },
     {
       "album": {
@@ -3519,7 +3591,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 180826,
       "name": "Emmaretta - 1998 Remaster",
       "url": "https://open.spotify.com/track/00HE1qHBiJhWYhRfh22qK8"
@@ -4215,7 +4287,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 295533,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q"
@@ -4277,6 +4349,24 @@
       "duration_ms": 183265,
       "name": "Flicker",
       "url": "https://open.spotify.com/track/405RLkwfytmA5UIFWV69oY"
+    },
+    {
+      "album": {
+        "name": "As You Were (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2V3WS9tlPYmscBNWHHYu9X"
+      },
+      "artists": [
+        {
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251631,
+      "name": "For What It's Worth",
+      "url": "https://open.spotify.com/track/5Ih40KFkj3cSzxgisQxBvX"
     },
     {
       "album": {
@@ -5210,6 +5300,24 @@
     },
     {
       "album": {
+        "name": "Hold Up",
+        "url": "https://open.spotify.com/album/6Wjf1qyWX7TZfsmcjo5Qab"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148750,
+      "name": "Hold Up",
+      "url": "https://open.spotify.com/track/5jIPK0iZ3wzCHWsEze021Z"
+    },
+    {
+      "album": {
         "name": "Homesick (Special Edition)",
         "url": "https://open.spotify.com/album/3OuD9buakmyztsrZkdoM3J"
       },
@@ -6080,6 +6188,24 @@
     },
     {
       "album": {
+        "name": "And Their Name Was Treason",
+        "url": "https://open.spotify.com/album/4UlUTVHQgmjBbptRHWUI5T"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 42413,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/5FWs1SriPWwFCoyzt5uiI6"
+    },
+    {
+      "album": {
         "name": "No Remorse (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6NnCvI782a1lKvMAIbzzAG"
       },
@@ -6660,6 +6786,24 @@
     },
     {
       "album": {
+        "name": "Lemuria",
+        "url": "https://open.spotify.com/album/2isIdgokoyF3PQUphlGzjp"
+      },
+      "artists": [
+        {
+          "name": "Therion",
+          "url": "https://open.spotify.com/artist/5c8Cw62ZYj9XO6iDLRDEsi"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255413,
+      "name": "Lemuria",
+      "url": "https://open.spotify.com/track/4pjh4Dk29lwxAlIehtdZbr"
+    },
+    {
+      "album": {
         "name": "Slippery When Wet",
         "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
       },
@@ -7114,6 +7258,24 @@
     },
     {
       "album": {
+        "name": "\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3 \u30df\u30e5\u30fc\u30b8\u30c3\u30af\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/7t3It6EP6isk5ZpBKgupYZ"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148840,
+      "name": "luminous sword",
+      "url": "https://open.spotify.com/track/6KxzcLy6kE2PgOySf1q7K6"
+    },
+    {
+      "album": {
         "name": "Greatest Hits [International Version (Explicit)]",
         "url": "https://open.spotify.com/album/0SvLzQZVwLWoY7p7zUcvxs"
       },
@@ -7165,6 +7327,24 @@
       "duration_ms": 178285,
       "name": "Majalca",
       "url": "https://open.spotify.com/track/4IcvsDVsftpVFrPqqVy99V"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/3NSivK5tIM5k4IiH5wobRr"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235253,
+      "name": "Make Me Bad",
+      "url": "https://open.spotify.com/track/49A4p9a2240E6UimcrBNFf"
     },
     {
       "album": {
@@ -8503,7 +8683,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 258866,
       "name": "Of Wolf And Man (Live with the SFSO)",
       "url": "https://open.spotify.com/track/57U9JRGUXtHko5Jc2liyKT"
@@ -8611,7 +8791,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 118938,
       "name": "ooweeooweeoo",
       "url": "https://open.spotify.com/track/5zVkl4naswYMPDdlY9ENSQ"
@@ -9726,6 +9906,24 @@
     },
     {
       "album": {
+        "name": "Rise: Ascension",
+        "url": "https://open.spotify.com/album/4P2Fo2MQhNicCEm9IBQ2vA"
+      },
+      "artists": [
+        {
+          "name": "A Skylit Drive",
+          "url": "https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199410,
+      "name": "Rise - Acoustic",
+      "url": "https://open.spotify.com/track/3QyOcn34X7dp5rSj4WpdBG"
+    },
+    {
+      "album": {
         "name": "His Last Walk",
         "url": "https://open.spotify.com/album/3ANtCCvIfTVZexgdh0LXdM"
       },
@@ -9921,7 +10119,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 524066,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/5BtaoCOyc1rMPWiV6SsQFg"
@@ -11216,6 +11414,24 @@
     },
     {
       "album": {
+        "name": "Countdown To Extinction (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329840,
+      "name": "Symphony Of Destruction - Demo",
+      "url": "https://open.spotify.com/track/0QtwMdKESlYdMUTAcYyC7m"
+    },
+    {
+      "album": {
         "name": "Killswitch Engage (Special Edition)",
         "url": "https://open.spotify.com/album/2VOrCcwylssybIvX8iC2BR"
       },
@@ -11397,7 +11613,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 224733,
       "name": "Temptation",
       "url": "https://open.spotify.com/track/0qrUNGTDg1YwfC8RLMdsoC"
@@ -11685,7 +11901,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 273973,
       "name": "The Evil That Men Do - 1998 Remaster",
       "url": "https://open.spotify.com/track/2FkxsINVws3o8Ox4fSvc3N"
@@ -12395,7 +12611,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 331600,
       "name": "To Bring You My Love",
       "url": "https://open.spotify.com/track/537IPiZTZ1GVcohzFHAHf5"
@@ -13125,7 +13341,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 130909,
       "name": "Volverme Amar",
       "url": "https://open.spotify.com/track/0ik9ayovWhJWxhwXPtaGUc"
@@ -13867,7 +14083,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 234534,
       "name": "Yer Killin' Me",
       "url": "https://open.spotify.com/track/79lzbYqczF4oLoOkxx9mHK"

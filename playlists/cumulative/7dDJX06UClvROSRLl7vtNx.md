@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-321 songs - 14 hr 5 min
+322 songs - 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [It Ain't Over 'Til It's Over](https://open.spotify.com/track/2Lg0WBAsNw2xylkoISJgVe) | [Kid On The Block](https://open.spotify.com/artist/6VlE82AXyZhHEo87D6C1RH), [Summer Vibes](https://open.spotify.com/artist/2BCjzlKkYOwpNS5WZqX7Bm) | [It Ain't Over 'Til It's Over](https://open.spotify.com/album/3LG9TmNq30vjooWxaLML10) | 2:21 | 2024-01-20 | 2024-02-19 |
 | [It All Makes Sense](https://open.spotify.com/track/2h6gE0j4lLXIfY5NFztt8S) | [Munch](https://open.spotify.com/artist/4FX0r1sSgM9LzQdx5rgWft), [Sam Wiseman](https://open.spotify.com/artist/5bHmaSbFRcjgoZy7GWml47), [Idun Nicoline](https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr) | [It All Makes Sense](https://open.spotify.com/album/3C7WttbqwRSaaHGfMoqV6M) | 3:11 | 2023-10-24 | 2024-01-28 |
 | [It’s You](https://open.spotify.com/track/5O8WyuvUlz2lWC2sWRttaC) | [PACANI](https://open.spotify.com/artist/2nxv5w3WmZvpfg3VAhAfxY), [Catching Sunrises](https://open.spotify.com/artist/1ZRHglRvKYNVcLjp1YAsSz) | [It’s You](https://open.spotify.com/album/52b64NulufCIETKJtAAKCM) | 3:04 | 2023-10-13 | 2024-01-15 |
+| [June](https://open.spotify.com/track/1xfj8i1OvEhqJmWncOV2d5) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1), [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6), [Horizon Blue](https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb) | [June](https://open.spotify.com/album/5R8lqTv6VUfTgPyuA3vScp) | 2:43 | 2024-04-29 |  |
 | [Just Let Go](https://open.spotify.com/track/1KBsbmPy8GLz90TTvTaoSU) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [Just Let Go](https://open.spotify.com/album/4bchuimjnR9IeoeNZMAQoq) | 2:17 | 2023-09-22 |  |
 | [Just U & Me](https://open.spotify.com/track/3r60F21EtRExJH1kmKe4iR) | [Jon Thomas](https://open.spotify.com/artist/3gV5r1iOvrDXAiew86XlKI), [Coral Reef](https://open.spotify.com/artist/2Ia6l1oSkQazPGlu5AF8CT), [Rachel Philipp](https://open.spotify.com/artist/60WHjR0n6Taxp26VQMOtZm) | [Just U & Me](https://open.spotify.com/album/1MTSsIpHVeADsVGW46kHU0) | 2:43 | 2023-09-22 |  |
 | [Keep Loving You](https://open.spotify.com/track/45V5YxZ4OJnUDSRDkTpYwN) | [Sooren](https://open.spotify.com/artist/2HqvRR6mYLfEDkghBJOr1V), [Johny Luv](https://open.spotify.com/artist/6LK4Fsjla1WqiT3ov734TL), [Johnny Chicago](https://open.spotify.com/artist/3zvkVa6tS4vVWltR4CLNV4) | [Keep Loving You](https://open.spotify.com/album/5pq3NnH4Rv8JyNylIIxCQm) | 2:41 | 2023-09-22 |  |

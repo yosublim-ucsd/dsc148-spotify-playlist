@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Sravana Bhargavi
 
-249 songs - 15 hr 9 min
+250 songs - 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Befikr Maama](https://open.spotify.com/track/4BkVCo1tvqkr9Px00GISlZ) | [Aniruddha Sastry](https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa), [Praveen Prakash](https://open.spotify.com/artist/4UYvfZwAu9dM6AArdY9C6z) | [Befikr Maama](https://open.spotify.com/album/5Gn4r9bX0z3jYM1oY6B7h5) | 2:58 | 2023-05-16 |  |
 | [Bhoo Bandham](https://open.spotify.com/track/4UXkFdFmKnkZP6gcF3rb3a) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo), [Nakul Abhyankar](https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD) | [Bhoo Bandham](https://open.spotify.com/album/1BpORTZsYI1axbf7yr5DBM) | 5:38 | 2023-11-07 | 2023-12-02 |
 | [Boys in the house](https://open.spotify.com/track/71bnrJcJTmnagiUXwT2ufb) | [YAAGAA](https://open.spotify.com/artist/6KgBYhkCXJeXGNvjftgWli), [Chemical](https://open.spotify.com/artist/1ngYHrtbQo3JoFB41CoBEw), [Mrcury](https://open.spotify.com/artist/4gH70hduZlrIulKZrPlTFJ), [Rival Mob](https://open.spotify.com/artist/5D7JVa2CPpdbKz8Rq2BBXJ), [SOLAR SYSTEM](https://open.spotify.com/artist/4F3rOcOsFEINrkekhLfIwc) | [Boys in the house](https://open.spotify.com/album/5tIy1PWU6UwB1hMLTM1U7S) | 3:27 | 2024-01-22 | 2024-02-27 |
+| [Bujji Pilla](https://open.spotify.com/track/0Ot37vSbeGkAVQi1mGqvou) | [Achu](https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY) | [Bujji Pilla](https://open.spotify.com/album/1BcqiyIpH3Z2DjccL5XJLQ) | 4:35 | 2024-04-29 |  |
 | [Bullettu Bandi](https://open.spotify.com/track/4oBhE31sIakxf8bSPHuRT1) | [Mohana Bhogaraju](https://open.spotify.com/artist/2nWYQRy7Ikh7CyWnvZZouD) | [Bullettu Bandi](https://open.spotify.com/album/6sapVBhAdDDnyElCsUwEwn) | 4:42 | 2022-07-18 | 2024-01-23 |
 | [Bulugu Sokkaa Pilagadu](https://open.spotify.com/track/7uZDuC1sW3YJ3iv7PVBGWX) | [Uma Neha](https://open.spotify.com/artist/2sRYoKkvb2apFZ58rb5717) | [Bulugu Sokkaa Pilagadu](https://open.spotify.com/album/0UftZb5FmjKiinWVIq79Nn) | 3:30 | 2023-07-03 | 2023-07-25 |
 | [Charcha](https://open.spotify.com/track/2jEA5P7mrjj9J2DtLuQCW3) | [StreetViolater](https://open.spotify.com/artist/7FtGwdmLdZ6PQVRFbgocPU) | [Charcha](https://open.spotify.com/album/706F4PTnmnegEMoSUuH9if) | 2:08 | 2024-03-05 | 2024-04-19 |
@@ -196,7 +197,7 @@
 | [Premalekha](https://open.spotify.com/track/5Vwh2Q1i7rgCOPlINMI4Ju) | [Damini Bhatla](https://open.spotify.com/artist/5KhT12McR6Gh33dA0ntBAB), [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q) | [Premalekha](https://open.spotify.com/album/3OO5kpArurrmesBm3lWx3u) | 4:09 | 2023-10-10 |  |
 | [Premalona](https://open.spotify.com/track/0o8t82I40o1YuJyLM2TTxV) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Premalona](https://open.spotify.com/album/08YLhIiDa8hIUDg7rJ4pal) | 1:31 | 2023-09-21 | 2023-10-17 |
 | [Preme](https://open.spotify.com/track/4GN3kyhteAgfCPqcZYx6wV) | [Joseph Vijay](https://open.spotify.com/artist/1GkrvUf71uUhmbV0lvfX7p), [Ravi G](https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD) | [Preme](https://open.spotify.com/album/3xAIfUpFgshmPDO97ZwnNB) | 4:01 | 2023-09-08 |  |
-| [Prementhundo Gundellona](https://open.spotify.com/track/6cbwIQH2hhj4oKuF7YCInf) | [Uday Kiran UK](https://open.spotify.com/artist/6bMQApJJQkMAARbNqYu34i) | [Prementhundo Gundellona](https://open.spotify.com/album/7KKA0THUOflYVBCBuj6hQX) | 3:53 | 2023-12-27 |  |
+| [Prementhundo Gundellona](https://open.spotify.com/track/6cbwIQH2hhj4oKuF7YCInf) | [Uday Kiran UK](https://open.spotify.com/artist/6bMQApJJQkMAARbNqYu34i) | [Prementhundo Gundellona](https://open.spotify.com/album/7KKA0THUOflYVBCBuj6hQX) | 3:53 | 2023-12-27 | 2024-04-30 |
 | [PREMIKA](https://open.spotify.com/track/5WIWh3L9x0AHq9f6y32uub) | [J.Frank](https://open.spotify.com/artist/6MjtJioAJLnPJx93rKRXBx) | [PURPLE/CHRYSOLITE](https://open.spotify.com/album/2j4Fgb7WDqjvhLSEkvA87e) | 2:49 | 2024-04-25 |  |
 | [Priya](https://open.spotify.com/track/5EsYWuhhGZQEj1GZmxF4l3) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Aditya Bheemathati](https://open.spotify.com/artist/7otWOYhWeNnAhMyetbaMws) | [Priya](https://open.spotify.com/album/7gm0Xh4k3ax15aFHUuptGu) | 3:15 | 2023-06-26 | 2023-07-25 |
 | [Priya Priya](https://open.spotify.com/track/16cpJ0xgeanA767VKsu4MC) | [The Fantasia Men](https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk) | [Priya Priya](https://open.spotify.com/album/4MtmaOUM9dfMbcQi1qt4sE) | 4:37 | 2023-09-22 |  |

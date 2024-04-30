@@ -4,7 +4,7 @@
 
 > Why so serious? Get through your workday with K\-Pop\. \(내적댄스 유발 노동요와 함께 신나는 업무 & 공부시간을 보내세요!\)
 
-976 songs - 2 day 6 hr 37 min
+977 songs - 2 day 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -865,6 +865,7 @@
 | [Tropical Love](https://open.spotify.com/track/5bZJLlIoG9tDY7YWMQEbRQ) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [OH MY GIRL SUMMER PACKAGE \[FALL IN LOVE\]](https://open.spotify.com/album/6Bqnwz3nM8RcHNTSKQ0DYU) | 3:24 | 2021-11-17 | 2022-06-14 |
 | [Trouble Maker](https://open.spotify.com/track/5HjqTCM49ZkHdk6dvGPaAC) | [Trouble Maker](https://open.spotify.com/artist/0ztjVBmFk6OuHq6XBBwMI9) | [Trouble Maker](https://open.spotify.com/album/3lTvAMhcWQCQcjXxEpjyKR) | 3:39 | 2022-01-03 | 2022-07-20 |
 | [TT](https://open.spotify.com/track/1nMbZ9OsVNSLEyijI80EST) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicecoaster:lane1](https://open.spotify.com/album/6kDty5vSEGHiTHS8OwXSCj) | 3:32 | 2021-11-17 | 2022-07-27 |
+| [Ugly \- Spotify Singles](https://open.spotify.com/track/1hewNMWyHhb2zLZMOIPVWq) | [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [Okasian](https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO) | [Spotify Singles](https://open.spotify.com/album/3DSGgDuYRFGpmZjvm4sP3S) | 2:23 | 2024-04-19 |  |
 | [Uh\-Oh](https://open.spotify.com/track/1OBb2wZMXKNmtdyyejLIyL) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Uh\-Oh](https://open.spotify.com/album/3PzrNuMGWGpp8WOfrmpkaU) | 3:27 | 2021-11-17 | 2023-01-14 |
 | [Underwater](https://open.spotify.com/track/5bdmWBCaiaHk2HbqKOXLyJ) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [Lethality](https://open.spotify.com/album/47TnhxiVVp5ZvvotLbFmKf) | 2:50 | 2023-07-20 | 2023-11-05 |
 | [UNFORGIVEN \(feat\. Nile Rodgers\)](https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:02 | 2023-07-20 |  |
@@ -889,7 +890,7 @@
 | [Walking In The Rain](https://open.spotify.com/track/1VYwqTxCvQZHpvI9WQVmdq) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [Walking In The Rain \(TEN PROJECT, Pt\. 4\)](https://open.spotify.com/album/0uFQ8dnMXvwkVRStsOn3va) | 3:41 | 2022-01-03 | 2022-06-24 |
 | [WANNABE](https://open.spotify.com/track/4pspYVQGFHLPEFgQPD1J7e) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ME](https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U) | 3:11 | 2022-07-08 | 2024-04-19 |
 | [WANNABE](https://open.spotify.com/track/6tCssnvTUREcperDOUTqvA) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [It'z Me](https://open.spotify.com/album/2gertXS08whDTzBWfmewPO) | 3:11 | 2021-11-17 | 2022-07-29 |
-| [WANT](https://open.spotify.com/track/0aLG42zaidNkblhiQgJknP) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [WANT \- The 2nd Mini Album](https://open.spotify.com/album/7E01VOJ7gyYPz9HXUVeQeq) | 3:28 | 2022-03-24 |  |
+| [WANT](https://open.spotify.com/track/0aLG42zaidNkblhiQgJknP) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [WANT \- The 2nd Mini Album](https://open.spotify.com/album/7E01VOJ7gyYPz9HXUVeQeq) | 3:28 | 2022-03-24 | 2024-04-30 |
 | [Waste It On Me](https://open.spotify.com/track/66XDf77gBcfQKi4I2vIbTj) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Neon Future III](https://open.spotify.com/album/2XLdhcA2xQy2Iw74Cly9QL) | 3:12 | 2022-07-08 | 2023-10-18 |
 | [Waste It On Me \(feat\. BTS\)](https://open.spotify.com/track/2J0X46UkpfLlWbuCXFgDLr) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Neon Future III](https://open.spotify.com/album/1VFgefav92A6JzlPSUatzV) | 3:12 | 2023-09-15 | 2024-04-19 |
 | [Waste It On Me \(feat\. BTS\)](https://open.spotify.com/track/2r1T6xGTVaNAqBoPH4lZEE) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Waste It On Me \(feat\. BTS\)](https://open.spotify.com/album/2zGbALuLN1QjFgddq9kIz1) | 3:12 | 2021-11-17 | 2022-07-28 |

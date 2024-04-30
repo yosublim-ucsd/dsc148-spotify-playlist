@@ -1,6 +1,6 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover: <a href=\"https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy?si=P_hQxbrsQ_2BiMszZLQp2A\"> ODUMODUBLVCK</a>",
-  "num_followers": 149718,
+  "num_followers": 149760,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
@@ -987,6 +987,30 @@
     {
       "added_at": "2024-04-26 00:01:00",
       "album": {
+        "name": "Untitled (feat. Odumodublvck, PsychoYP)",
+        "url": "https://open.spotify.com/album/3ccI3rN8btuN5jv0Amk0Uk"
+      },
+      "artists": [
+        {
+          "name": "Ice Prince",
+          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Psycho YP",
+          "url": "https://open.spotify.com/artist/4eL65uA4fJr2CI6u3h2kaJ"
+        }
+      ],
+      "duration_ms": 195428,
+      "name": "Untitled (feat. Odumodublvck, PsychoYP)",
+      "url": "https://open.spotify.com/track/5KpWVmwVJnwI5Lnu9uDumP"
+    },
+    {
+      "added_at": "2024-04-26 00:01:00",
+      "album": {
         "name": "Kusuu (feat. Kweku Flick, Abra Cadabra & ODUMODUBLVCK) [Remix]",
         "url": "https://open.spotify.com/album/5yK3V1kXjfB70UKbXNXsnx"
       },
@@ -1011,26 +1035,6 @@
       "duration_ms": 206197,
       "name": "Kusuu (feat. Kweku Flick, Abra Cadabra & ODUMODUBLVCK) - Remix",
       "url": "https://open.spotify.com/track/3qpiO6n5HBMubcdCQyqKiv"
-    },
-    {
-      "added_at": "2024-04-26 00:01:00",
-      "album": {
-        "name": "Before the Smoke",
-        "url": "https://open.spotify.com/album/59IJp0kGojGYlkWqn2Hnp9"
-      },
-      "artists": [
-        {
-          "name": "Unknown T",
-          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 143692,
-      "name": "WELCOME 2 MY STRIP (Feat. ODUMODUBLVCK)",
-      "url": "https://open.spotify.com/track/58QstEOypB4xIe3ta8Qhya"
     },
     {
       "added_at": "2024-04-26 00:01:00",
@@ -1067,6 +1071,26 @@
       "duration_ms": 205211,
       "name": "Fuck That (feat. ODUMODUBLVCK) - Remix",
       "url": "https://open.spotify.com/track/2sKuOOhxWpXOTDcKiTitc9"
+    },
+    {
+      "added_at": "2024-04-26 00:01:00",
+      "album": {
+        "name": "Before the Smoke",
+        "url": "https://open.spotify.com/album/59IJp0kGojGYlkWqn2Hnp9"
+      },
+      "artists": [
+        {
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 143692,
+      "name": "WELCOME 2 MY STRIP (Feat. ODUMODUBLVCK)",
+      "url": "https://open.spotify.com/track/58QstEOypB4xIe3ta8Qhya"
     },
     {
       "added_at": "2024-04-26 00:01:00",
@@ -1123,30 +1147,6 @@
       "duration_ms": 222500,
       "name": "Compare",
       "url": "https://open.spotify.com/track/1AANTCuuyxJwTrQXRqQ7UZ"
-    },
-    {
-      "added_at": "2024-04-26 00:01:00",
-      "album": {
-        "name": "Untitled (feat. Odumodublvck, PsychoYP)",
-        "url": "https://open.spotify.com/album/3ccI3rN8btuN5jv0Amk0Uk"
-      },
-      "artists": [
-        {
-          "name": "Ice Prince",
-          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Psycho YP",
-          "url": "https://open.spotify.com/artist/4eL65uA4fJr2CI6u3h2kaJ"
-        }
-      ],
-      "duration_ms": 195428,
-      "name": "Untitled (feat. Odumodublvck, PsychoYP)",
-      "url": "https://open.spotify.com/track/5KpWVmwVJnwI5Lnu9uDumP"
     },
     {
       "added_at": "2024-04-26 00:01:00",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2024-04-26 00:01:00",
       "album": {
-        "name": "Coachella",
-        "url": "https://open.spotify.com/album/0pR0ivVxPWH03hRgsNJMuh"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        }
-      ],
-      "duration_ms": 185196,
-      "name": "Coachella",
-      "url": "https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR"
-    },
-    {
-      "added_at": "2024-04-26 00:01:00",
-      "album": {
         "name": "WHO DAT BOY?",
         "url": "https://open.spotify.com/album/4pci4uiNrp6bpkUlujITrd"
       },
@@ -1367,6 +1347,26 @@
       "duration_ms": 115683,
       "name": "WHO DAT BOY?",
       "url": "https://open.spotify.com/track/7eYzITceGZPFDeCsmtyliU"
+    },
+    {
+      "added_at": "2024-04-26 00:01:00",
+      "album": {
+        "name": "Coachella",
+        "url": "https://open.spotify.com/album/0pR0ivVxPWH03hRgsNJMuh"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "duration_ms": 185196,
+      "name": "Coachella",
+      "url": "https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR"
     },
     {
       "added_at": "2024-04-26 00:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 > Dendang Dangdut teratas\. Cover: Hari Putra
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,658 likes - 86 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,992 likes - 86 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

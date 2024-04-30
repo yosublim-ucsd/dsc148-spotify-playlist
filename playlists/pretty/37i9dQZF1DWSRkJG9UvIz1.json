@@ -1,6 +1,6 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 130458,
+  "num_followers": 130384,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
@@ -519,6 +519,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "C\u00e9u",
+        "url": "https://open.spotify.com/album/2ZGuZwHna0GJ8ApFJWoE9M"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9u",
+          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+        }
+      ],
+      "duration_ms": 212040,
+      "name": "Concrete Jungle",
+      "url": "https://open.spotify.com/track/1vOUHuPjdTdxsyV42EOJbe"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Quando Eu Te Vi / Sorriso (Ao Vivo)",
         "url": "https://open.spotify.com/album/1tTOqkPfGQWOW7UJ91xbf2"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 329075,
       "name": "Quando Eu Te Vi / Sorriso (Ao Vivo)",
       "url": "https://open.spotify.com/track/45nhgQyJXhocRq7esjKS9K"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "C\u00e9u",
-        "url": "https://open.spotify.com/album/2ZGuZwHna0GJ8ApFJWoE9M"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9u",
-          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
-        }
-      ],
-      "duration_ms": 212040,
-      "name": "Concrete Jungle",
-      "url": "https://open.spotify.com/track/1vOUHuPjdTdxsyV42EOJbe"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -587,26 +587,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Tu",
-        "url": "https://open.spotify.com/album/2WgwPpY2aNg2gwgCheg8lT"
-      },
-      "artists": [
-        {
-          "name": "Tulipa Ruiz",
-          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
-        },
-        {
-          "name": "Adan Jodorowsky",
-          "url": "https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "Terrorista del Amor",
-      "url": "https://open.spotify.com/track/0C5jThTBhHF2fxz2YU6PNX"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Quem Tem Um Amigo (Tem Tudo)",
         "url": "https://open.spotify.com/album/3yCfk5tZsvi3cWfLPzsqf3"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 249000,
       "name": "Quem Tem Um Amigo (Tem Tudo) (feat. Zeca Pagodinho & Tokyo Ska Paradise Orchestra)",
       "url": "https://open.spotify.com/track/3t7dahQw060tKGj9PsXvH6"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Tu",
+        "url": "https://open.spotify.com/album/2WgwPpY2aNg2gwgCheg8lT"
+      },
+      "artists": [
+        {
+          "name": "Tulipa Ruiz",
+          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
+        },
+        {
+          "name": "Adan Jodorowsky",
+          "url": "https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "Terrorista del Amor",
+      "url": "https://open.spotify.com/track/0C5jThTBhHF2fxz2YU6PNX"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Juice of Mandarins",
-        "url": "https://open.spotify.com/album/60XsW89G7Tq5vj3bnNveMY"
-      },
-      "artists": [
-        {
-          "name": "Ibeyi",
-          "url": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
-        }
-      ],
-      "duration_ms": 145609,
-      "name": "Juice of Mandarins",
-      "url": "https://open.spotify.com/track/6bhvNNx8aX9HPgOvr37gi7"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Bossanova",
         "url": "https://open.spotify.com/album/7mWnMU0JMv9IhluaZSEfWh"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 201878,
       "name": "Bossanova",
       "url": "https://open.spotify.com/track/2ZgGStsZYfObB9TnhGDMoa"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Juice of Mandarins",
+        "url": "https://open.spotify.com/album/60XsW89G7Tq5vj3bnNveMY"
+      },
+      "artists": [
+        {
+          "name": "Ibeyi",
+          "url": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
+        }
+      ],
+      "duration_ms": 145609,
+      "name": "Juice of Mandarins",
+      "url": "https://open.spotify.com/track/6bhvNNx8aX9HPgOvr37gi7"
     },
     {
       "added_at": "2023-06-23 03:00:00",

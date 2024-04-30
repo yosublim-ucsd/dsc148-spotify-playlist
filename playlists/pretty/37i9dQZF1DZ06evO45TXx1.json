@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Luanna. The essential tracks, all in one playlist.",
-  "num_followers": 7938,
+  "num_followers": 7970,
   "original_name": "This Is Mc Luanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDE3NjAwMCwwMDAwMDAwMGQ5MzUyZWRkMTRjYzc5MmZiOGJhY2Q3OTYzMDZlODI1",
+  "snapshot_id": "MTcxNDI2MjQwMCwwMDAwMDAwMDdiMGRiYjg0NmEyZmU5NDNlM2JiNmQxOTczMTg4MWU1",
   "tracks": [
     {
       "added_at": null,
@@ -263,70 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fra\u00e7\u00e3o 3/4",
-        "url": "https://open.spotify.com/album/387TbDSzjAzUK1kfVlZaRh"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Trabalhosa",
-      "url": "https://open.spotify.com/track/36NzzUckVlKlfpvM1UQEor"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "44",
-        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Marcos Beatman",
-          "url": "https://open.spotify.com/artist/42VxOCKKlEXQ1kgDZBXnfk"
-        }
-      ],
-      "duration_ms": 196165,
-      "name": "Rotina",
-      "url": "https://open.spotify.com/track/5lnUkWihFa5guFzLi8y8Hb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maldita",
-        "url": "https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        }
-      ],
-      "duration_ms": 137553,
-      "name": "Quem Jura Mente",
-      "url": "https://open.spotify.com/track/2T9DdHrPsb40AecsOqCOJg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MAGIC SHOW",
         "url": "https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW"
       },
@@ -355,6 +291,70 @@
       "duration_ms": 169830,
       "name": "SERENATA",
       "url": "https://open.spotify.com/track/7LjNjigC0Jqru3idZwKL3x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "44",
+        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Marcos Beatman",
+          "url": "https://open.spotify.com/artist/42VxOCKKlEXQ1kgDZBXnfk"
+        }
+      ],
+      "duration_ms": 196165,
+      "name": "Rotina",
+      "url": "https://open.spotify.com/track/5lnUkWihFa5guFzLi8y8Hb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fra\u00e7\u00e3o 3/4",
+        "url": "https://open.spotify.com/album/387TbDSzjAzUK1kfVlZaRh"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Trabalhosa",
+      "url": "https://open.spotify.com/track/36NzzUckVlKlfpvM1UQEor"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maldita",
+        "url": "https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "duration_ms": 137553,
+      "name": "Quem Jura Mente",
+      "url": "https://open.spotify.com/track/2T9DdHrPsb40AecsOqCOJg"
     },
     {
       "added_at": null,
@@ -999,6 +999,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "First",
+        "url": "https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "duration_ms": 132923,
+      "name": "First",
+      "url": "https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Evolu\u00e7\u00e3o 2",
         "url": "https://open.spotify.com/album/1xi8mesuJOPY2hRHIxAeCB"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 320048,
       "name": "Evolu\u00e7\u00e3o 2",
       "url": "https://open.spotify.com/track/62IAsbS9u4jzcO6x4LmdaF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "First",
-        "url": "https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        }
-      ],
-      "duration_ms": 132923,
-      "name": "First",
-      "url": "https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA"
     },
     {
       "added_at": null,
@@ -1211,6 +1211,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bonde da Hello Kit",
+        "url": "https://open.spotify.com/album/1kIR6uovJBKOI83oqBOvFP"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "duration_ms": 108923,
+      "name": "Bonde da Hello Kit",
+      "url": "https://open.spotify.com/track/2SEyszdGq5AbigyKfvN2iB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Palpite",
         "url": "https://open.spotify.com/album/4h8hU9tmxAJs5rxhSNqQWj"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 112984,
       "name": "Palpite",
       "url": "https://open.spotify.com/track/5tJi3MH0b90iHb8NWR9Hj1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bonde da Hello Kit",
-        "url": "https://open.spotify.com/album/1kIR6uovJBKOI83oqBOvFP"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        }
-      ],
-      "duration_ms": 108923,
-      "name": "Bonde da Hello Kit",
-      "url": "https://open.spotify.com/track/2SEyszdGq5AbigyKfvN2iB"
     },
     {
       "added_at": null,

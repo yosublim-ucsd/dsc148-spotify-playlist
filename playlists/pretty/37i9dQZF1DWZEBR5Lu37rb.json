@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 58615,
+  "num_followers": 58728,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -671,30 +671,6 @@
     {
       "added_at": "2024-02-13 07:43:01",
       "album": {
-        "name": "Nakufa",
-        "url": "https://open.spotify.com/album/2CWz097A1H3bExt8pHnaiH"
-      },
-      "artists": [
-        {
-          "name": "Okello Max",
-          "url": "https://open.spotify.com/artist/4AIr4Ly0nJMjtcRg46naSp"
-        },
-        {
-          "name": "Bensoul",
-          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
-        },
-        {
-          "name": "Amlyoto",
-          "url": "https://open.spotify.com/artist/5X2uImif1VgMwjoNgzAkEP"
-        }
-      ],
-      "duration_ms": 295285,
-      "name": "Nakufa",
-      "url": "https://open.spotify.com/track/2RzH7ZbIwhGWLy8H07HAB3"
-    },
-    {
-      "added_at": "2024-02-13 07:43:01",
-      "album": {
         "name": "Tender Love (feat. DJ Maphorisa & Kabza De Small)",
         "url": "https://open.spotify.com/album/3rwjHfjfkHzuyt2h9UK5IZ"
       },
@@ -719,22 +695,26 @@
     {
       "added_at": "2024-02-13 07:43:01",
       "album": {
-        "name": "Grass 2 Grace",
-        "url": "https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA"
+        "name": "Nakufa",
+        "url": "https://open.spotify.com/album/2CWz097A1H3bExt8pHnaiH"
       },
       "artists": [
         {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+          "name": "Okello Max",
+          "url": "https://open.spotify.com/artist/4AIr4Ly0nJMjtcRg46naSp"
         },
         {
-          "name": "VIP",
-          "url": "https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4"
+          "name": "Bensoul",
+          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
+        },
+        {
+          "name": "Amlyoto",
+          "url": "https://open.spotify.com/artist/5X2uImif1VgMwjoNgzAkEP"
         }
       ],
-      "duration_ms": 269733,
-      "name": "If Love Is A Crime",
-      "url": "https://open.spotify.com/track/1imfHroOMdTqspOIGnVtOs"
+      "duration_ms": 295285,
+      "name": "Nakufa",
+      "url": "https://open.spotify.com/track/2RzH7ZbIwhGWLy8H07HAB3"
     },
     {
       "added_at": "2024-02-13 07:43:01",
@@ -751,6 +731,26 @@
       "duration_ms": 249795,
       "name": "Ibhanoyi",
       "url": "https://open.spotify.com/track/1UooO4lFHhFaKX8Jgz9xNI"
+    },
+    {
+      "added_at": "2024-02-13 07:43:01",
+      "album": {
+        "name": "Grass 2 Grace",
+        "url": "https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "VIP",
+          "url": "https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4"
+        }
+      ],
+      "duration_ms": 269733,
+      "name": "If Love Is A Crime",
+      "url": "https://open.spotify.com/track/1imfHroOMdTqspOIGnVtOs"
     },
     {
       "added_at": "2024-02-13 07:43:01",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-02-13 07:43:01",
       "album": {
-        "name": "ODO",
-        "url": "https://open.spotify.com/album/767cvHiLzCJBzufXLwZg7i"
-      },
-      "artists": [
-        {
-          "name": "A\u1e63a",
-          "url": "https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "ODO",
-      "url": "https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO"
-    },
-    {
-      "added_at": "2024-02-13 07:43:01",
-      "album": {
         "name": "Love Song",
         "url": "https://open.spotify.com/album/4yKIBcOMs0m8JQv1ZbDJHt"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 208721,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/2wmyzZUVCXLQTgJvFsh5ef"
+    },
+    {
+      "added_at": "2024-02-13 07:43:01",
+      "album": {
+        "name": "ODO",
+        "url": "https://open.spotify.com/album/767cvHiLzCJBzufXLwZg7i"
+      },
+      "artists": [
+        {
+          "name": "A\u1e63a",
+          "url": "https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "ODO",
+      "url": "https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO"
     },
     {
       "added_at": "2024-02-13 07:43:01",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-02-13 07:43:01",
       "album": {
-        "name": "Odo",
-        "url": "https://open.spotify.com/album/5vr0uK0k3M2o54r95AfPwo"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        }
-      ],
-      "duration_ms": 186990,
-      "name": "Odo",
-      "url": "https://open.spotify.com/track/2vK93nwA5PNJVQa3OXeg5Y"
-    },
-    {
-      "added_at": "2024-02-13 07:43:01",
-      "album": {
         "name": "Mr Serious",
         "url": "https://open.spotify.com/album/1Mp78edBGfz7wyNuBGdwwN"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 293613,
       "name": "Mthande",
       "url": "https://open.spotify.com/track/3bW1gXFSmF4JCDYeu7Nzx4"
+    },
+    {
+      "added_at": "2024-02-13 07:43:01",
+      "album": {
+        "name": "Odo",
+        "url": "https://open.spotify.com/album/5vr0uK0k3M2o54r95AfPwo"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "duration_ms": 186990,
+      "name": "Odo",
+      "url": "https://open.spotify.com/track/2vK93nwA5PNJVQa3OXeg5Y"
     },
     {
       "added_at": "2024-02-13 07:43:01",
@@ -1413,6 +1413,22 @@
       "url": "https://open.spotify.com/track/0oKbikRmgQKbBp4o3ZB4PB"
     },
     {
+      "added_at": "2024-03-20 09:22:32",
+      "album": {
+        "name": "More Of You",
+        "url": "https://open.spotify.com/album/4TLRQqrw55Rq7SFoA3OHic"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "More Of You",
+      "url": "https://open.spotify.com/track/0bVugkWRfHhHLPfFFVkHpL"
+    },
+    {
       "added_at": "2024-02-13 07:43:01",
       "album": {
         "name": "Uyangijabulisa",
@@ -1435,22 +1451,6 @@
       "duration_ms": 288052,
       "name": "Uyangijabulisa",
       "url": "https://open.spotify.com/track/3RmhsiQszFnnixoOrLznAN"
-    },
-    {
-      "added_at": "2024-03-20 09:22:32",
-      "album": {
-        "name": "More Of You",
-        "url": "https://open.spotify.com/album/4TLRQqrw55Rq7SFoA3OHic"
-      },
-      "artists": [
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "More Of You",
-      "url": "https://open.spotify.com/track/0bVugkWRfHhHLPfFFVkHpL"
     },
     {
       "added_at": "2024-02-13 07:43:01",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2024-02-13 07:43:01",
       "album": {
-        "name": "Ex",
-        "url": "https://open.spotify.com/album/4TnCuNvX8Bzhbx2uv5K5cR"
-      },
-      "artists": [
-        {
-          "name": "Nikita Kering'",
-          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Ex",
-      "url": "https://open.spotify.com/track/2r4GUjWmfz5xth28hb7a6G"
-    },
-    {
-      "added_at": "2024-02-13 07:43:01",
-      "album": {
         "name": "Zaneliza: How the Water Moves",
         "url": "https://open.spotify.com/album/4Dh0JLuYLhSeoZQ2fQ3Bdm"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 325433,
       "name": "Liwa Lentliziyo",
       "url": "https://open.spotify.com/track/0pI9v5qwiZnha3qd2VDS89"
+    },
+    {
+      "added_at": "2024-02-13 07:43:01",
+      "album": {
+        "name": "Ex",
+        "url": "https://open.spotify.com/album/4TnCuNvX8Bzhbx2uv5K5cR"
+      },
+      "artists": [
+        {
+          "name": "Nikita Kering'",
+          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Ex",
+      "url": "https://open.spotify.com/track/2r4GUjWmfz5xth28hb7a6G"
     },
     {
       "added_at": "2024-02-13 07:43:01",

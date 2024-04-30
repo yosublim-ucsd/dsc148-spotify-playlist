@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jnAPF7Iiqp.md) - [plain]
 
 > Running or raving? We've got a load of drum & bass to help with that!
 
-[Spotify](https://open.spotify.com/user/spotify) - 651,518 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 651,526 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jnAPF7Iiqp.md) - [plain]
 | 45 | [Bad To Me \(feat\. Grace Grundy\)](https://open.spotify.com/track/6UNESFieJ7rXvEKO1V2Fw8) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Grace Grundy](https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD) | [Bad To Me \(feat\. Grace Grundy\)](https://open.spotify.com/album/0sYcA8hhlj5cgbDtJ1kYxs) | 4:11 |
 | 46 | [In For The Kill](https://open.spotify.com/track/01vHZ3NIqFavLNMDcqnGQU) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [In For The Kill](https://open.spotify.com/album/28BkLUZKuVfS9SJgbbZz6i) | 3:03 |
 | 47 | [Loca](https://open.spotify.com/track/04ttAGx5UtdhWyhkiOa5Ls) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Loca](https://open.spotify.com/album/0WVC6CKv5i5Hh3OWqXlat8) | 2:14 |
-| 48 | [Bad Gyalz](https://open.spotify.com/track/1sdfHsJC1KytSyhhGpZ2kv) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Bad Gyalz](https://open.spotify.com/album/0KgiN6gpmIFwjxSIJE3qrb) | 2:39 |
-| 49 | [Galvanize](https://open.spotify.com/track/1do4bX9hOYyP53We3hzC9g) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg) | [Galvanize](https://open.spotify.com/album/3u2AACBpssZuJtCYW3MvhE) | 3:25 |
+| 48 | [Galvanize](https://open.spotify.com/track/1do4bX9hOYyP53We3hzC9g) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg) | [Galvanize](https://open.spotify.com/album/3u2AACBpssZuJtCYW3MvhE) | 3:25 |
+| 49 | [Bad Gyalz](https://open.spotify.com/track/1sdfHsJC1KytSyhhGpZ2kv) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Bad Gyalz](https://open.spotify.com/album/0KgiN6gpmIFwjxSIJE3qrb) | 2:39 |
 | 50 | [Supersonic \- Basstripper Remix](https://open.spotify.com/track/0vMIb12OsAkLzYuuWixnka) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr), [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Supersonic \(Basstripper Remix\)](https://open.spotify.com/album/2QJuzV5qlzbQtFJhRRmgNG) | 3:44 |
 
 Snapshot ID: `MTcxMjI0NjQxMCwwMDAwMDAwMGZmZGZiYTQxMDRkZTM2ZTA2OTgyMGRmMzFkMDNhZmM1`

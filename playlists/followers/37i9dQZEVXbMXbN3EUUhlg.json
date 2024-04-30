@@ -1,5 +1,5 @@
 {
-  "2024-04-29": 3492471,
+  "2024-04-30": 3490378,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Brazil.",
   "name": "Top 50 - Brazil",
@@ -379,7 +379,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-28",
+      "date_removed": null,
       "duration_ms": 147988,
       "name": "A Cerveja Abre Sozinha - Ao Vivo",
       "url": "https://open.spotify.com/track/4jbTB2Kj4CrZCjngkQUQS2"
@@ -727,7 +727,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 127741,
       "name": "Aceita",
       "url": "https://open.spotify.com/track/133ojSiEnlVwecCpvVc1BC"
@@ -877,7 +877,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 157838,
       "name": "Ahi",
       "url": "https://open.spotify.com/track/5rVy4OrfXilu9iQE423JO0"
@@ -2091,7 +2091,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-28",
+      "date_removed": null,
       "duration_ms": 115846,
       "name": "Baby Eu Tava na Rua da \u00c1gua",
       "url": "https://open.spotify.com/track/4sAoshwHCmh4IHMQxZHwRD"
@@ -3759,7 +3759,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-26",
+      "date_removed": null,
       "duration_ms": 124511,
       "name": "Canudinho - Ao Vivo",
       "url": "https://open.spotify.com/track/1OwoPY7wYgKQIyl9maWmSM"
@@ -4339,7 +4339,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-28",
+      "date_removed": null,
       "duration_ms": 156595,
       "name": "Chorei Quando Me Disse Tchau",
       "url": "https://open.spotify.com/track/4ejt95r0qu50e8X4QEIqwP"
@@ -4877,7 +4877,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 177028,
       "name": "Cria De Favela",
       "url": "https://open.spotify.com/track/5urmjhy5zPVXDluQZ1WKmG"
@@ -5023,7 +5023,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-28",
+      "date_removed": null,
       "duration_ms": 202644,
       "name": "Daqui pra Sempre",
       "url": "https://open.spotify.com/track/35D06z7kmwMmYYbyJ0BkSm"
@@ -5143,7 +5143,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-28",
+      "date_removed": null,
       "duration_ms": 167391,
       "name": "Dedo do Meio - Ao Vivo",
       "url": "https://open.spotify.com/track/2ORC76autQ7QTfBCkZl4Wo"
@@ -6099,7 +6099,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-24",
+      "date_removed": null,
       "duration_ms": 173370,
       "name": "Dois Fugitivos - Ao Vivo",
       "url": "https://open.spotify.com/track/4YKujFSyakVjLdH1sDllVc"
@@ -6215,7 +6215,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 231628,
       "name": "Double Team",
       "url": "https://open.spotify.com/track/3JoGZZobxsyQghxcAoW013"
@@ -6713,7 +6713,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 185138,
       "name": "Embalo",
       "url": "https://open.spotify.com/track/5cAeyKBtzlQ0EIwPFcIYhT"
@@ -8883,7 +8883,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 127292,
       "name": "Fria",
       "url": "https://open.spotify.com/track/4ijd1rkMYDh4D7rxi3O8Jf"
@@ -8949,7 +8949,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-28",
+      "date_removed": null,
       "duration_ms": 166189,
       "name": "Fronteira - Ao Vivo",
       "url": "https://open.spotify.com/track/2IvsDK2p7Kq3aDrVtESDIg"
@@ -9029,7 +9029,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 147201,
       "name": "Funk Rave",
       "url": "https://open.spotify.com/track/6vH8KKSB66dcnCw00N5K0R"
@@ -10901,7 +10901,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-28",
+      "date_removed": null,
       "duration_ms": 641941,
       "name": "Let's Go 4",
       "url": "https://open.spotify.com/track/2InS5VWKJQbsFBKOsf1cJB"
@@ -11325,7 +11325,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 149810,
       "name": "Love In Common",
       "url": "https://open.spotify.com/track/1718AVNCRX6CvNA9fL3fUv"
@@ -12038,7 +12038,7 @@
     },
     {
       "album": {
-        "name": "Maravilhosa",
+        "name": "Maravilhosa (Ao Vivo)",
         "url": "https://open.spotify.com/album/0BRhouUT8lNTWrto5NPNSa"
       },
       "artists": [
@@ -12363,7 +12363,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-28",
+      "date_removed": null,
       "duration_ms": 265450,
       "name": "Me Leva Pra Casa / Escrito Nas Estrelas / Saudade - Ao Vivo",
       "url": "https://open.spotify.com/track/2sYFUcurlISdHlAsnYCEgD"
@@ -12679,7 +12679,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 150196,
       "name": "Meme",
       "url": "https://open.spotify.com/track/45AvnKRK8dEaXjee8SATON"
@@ -13079,7 +13079,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 154023,
       "name": "Mil Veces",
       "url": "https://open.spotify.com/track/4ykqiczrn3FPNVMKVd0wXh"
@@ -15453,7 +15453,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-28",
+      "date_removed": null,
       "duration_ms": 163575,
       "name": "Passada de M\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/2AZAvTFeYKJAIojPagTGin"
@@ -16723,7 +16723,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 122072,
       "name": "Puta Cara",
       "url": "https://open.spotify.com/track/1f831E8aMPc410uKOnD94w"
@@ -16957,7 +16957,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-28",
+      "date_removed": null,
       "duration_ms": 178251,
       "name": "Quase Algo - Ao Vivo Em Nova Iorque / 2022",
       "url": "https://open.spotify.com/track/3iam4WkRoqMoBBCwDFZNgd"
@@ -17759,7 +17759,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 114260,
       "name": "Sabana",
       "url": "https://open.spotify.com/track/5pYhpaIIowM392jHlhvK0Z"

@@ -1,5 +1,5 @@
 {
-  "2024-04-29": 645465,
+  "2024-04-30": 645312,
   "date_first_scraped": "2021-12-29",
   "description": "The biggest crossover songs from the islands and the diaspora. Cover: Shenseea",
   "name": "Island Pop",
@@ -2276,6 +2276,24 @@
     },
     {
       "album": {
+        "name": "Rio Grande",
+        "url": "https://open.spotify.com/album/1KQNMs6pSnaIuyBVi3r0Gh"
+      },
+      "artists": [
+        {
+          "name": "Young T & Bugsey",
+          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178480,
+      "name": "Rio Grande",
+      "url": "https://open.spotify.com/track/2mqYYL6mGOyvmyhfwk9zmi"
+    },
+    {
+      "album": {
         "name": "Rise Up",
         "url": "https://open.spotify.com/album/1qXVWGdVOTXXg9b4cdJEn7"
       },
@@ -2809,7 +2827,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 204257,
       "name": "Update",
       "url": "https://open.spotify.com/track/1Vso1T5aUUflMhgijuG4SZ"

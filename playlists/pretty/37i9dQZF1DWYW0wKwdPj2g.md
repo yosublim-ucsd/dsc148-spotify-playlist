@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Dunsin Oyekan
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,095 likes - 64 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,163 likes - 64 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

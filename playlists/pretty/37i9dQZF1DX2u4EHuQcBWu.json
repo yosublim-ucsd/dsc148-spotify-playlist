@@ -1,6 +1,6 @@
 {
   "description": "Somos un pueblo fuerte que no se calla \u270a\ud83c\udf0e",
-  "num_followers": 191154,
+  "num_followers": 191109,
   "original_name": "Himnos de Resistencia Latinoamericana",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Abrazo",
-        "url": "https://open.spotify.com/album/1xTvgXfSOLFGvtnTbfNZ4N"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 250706,
-      "name": "Si Me Matan",
-      "url": "https://open.spotify.com/track/3Tv57oLXrydAK4Hlwm7fX6"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Ej\u00e9rcito de Paz",
         "url": "https://open.spotify.com/album/31M3drSiYALJMah8o3PGke"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 225053,
       "name": "Abajo y a la Izquierda",
       "url": "https://open.spotify.com/track/3AQbm1gIpyyqIV1MSyERkE"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Abrazo",
+        "url": "https://open.spotify.com/album/1xTvgXfSOLFGvtnTbfNZ4N"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 250706,
+      "name": "Si Me Matan",
+      "url": "https://open.spotify.com/track/3Tv57oLXrydAK4Hlwm7fX6"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -999,6 +999,26 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "Tango 4",
+        "url": "https://open.spotify.com/album/0JTWqpFlJobaZW5V0Y0R5T"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        },
+        {
+          "name": "Pedro Aznar",
+          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
+        }
+      ],
+      "duration_ms": 237080,
+      "name": "Rompan Todo",
+      "url": "https://open.spotify.com/track/7571CUGTEd1jKijAYxXRxB"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "que lo que",
         "url": "https://open.spotify.com/album/1pO9CYRWj5oJYJsIzFHYDu"
       },
@@ -1027,26 +1047,6 @@
       "duration_ms": 284693,
       "name": "Cancion Pacifico-Violenta",
       "url": "https://open.spotify.com/track/273RiyloYbmnFHKORe6Rpr"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Tango 4",
-        "url": "https://open.spotify.com/album/0JTWqpFlJobaZW5V0Y0R5T"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        },
-        {
-          "name": "Pedro Aznar",
-          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
-        }
-      ],
-      "duration_ms": 237080,
-      "name": "Rompan Todo",
-      "url": "https://open.spotify.com/track/7571CUGTEd1jKijAYxXRxB"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "Mortal",
+        "url": "https://open.spotify.com/album/0q44F7jzFlaGuZQzVUl8FX"
+      },
+      "artists": [
+        {
+          "name": "Sa\u00fal Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3VdwsMY5MqUl5WCw7SqnRG"
+        }
+      ],
+      "duration_ms": 305893,
+      "name": "Fuerte",
+      "url": "https://open.spotify.com/track/1bmkkmC0umjVUUjmDIRDq6"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "Grita Tierra",
         "url": "https://open.spotify.com/album/16xnx1BIx96nDG1T20MF3z"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 275327,
       "name": "Grita Tierra",
       "url": "https://open.spotify.com/track/1TbUrLorDczVuZuPz0U5lZ"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Mortal",
-        "url": "https://open.spotify.com/album/0q44F7jzFlaGuZQzVUl8FX"
-      },
-      "artists": [
-        {
-          "name": "Sa\u00fal Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/3VdwsMY5MqUl5WCw7SqnRG"
-        }
-      ],
-      "duration_ms": 305893,
-      "name": "Fuerte",
-      "url": "https://open.spotify.com/track/1bmkkmC0umjVUUjmDIRDq6"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Fuego (Canciones de Emergencia)",
-        "url": "https://open.spotify.com/album/41S8vaZ1x2DS1T1U9fH3ZR"
-      },
-      "artists": [
-        {
-          "name": "Yorka",
-          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
-        }
-      ],
-      "duration_ms": 298049,
-      "name": "La Canci\u00f3n Es Protesta",
-      "url": "https://open.spotify.com/track/4SwobFMtZrCVdcBE4PNBoy"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Regal\u00e9 Mis Ojos",
         "url": "https://open.spotify.com/album/5RvjjlORiYbYh5NRSoTybS"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 260429,
       "name": "Regal\u00e9 Mis Ojos",
       "url": "https://open.spotify.com/track/0OQRpjoRZUBSN7q3VZ1znH"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Fuego (Canciones de Emergencia)",
+        "url": "https://open.spotify.com/album/41S8vaZ1x2DS1T1U9fH3ZR"
+      },
+      "artists": [
+        {
+          "name": "Yorka",
+          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
+        }
+      ],
+      "duration_ms": 298049,
+      "name": "La Canci\u00f3n Es Protesta",
+      "url": "https://open.spotify.com/track/4SwobFMtZrCVdcBE4PNBoy"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "La Nueva Cancion Chilena, Vol. 1",
+        "url": "https://open.spotify.com/album/6lXAQ5Gozo845iSrcQEvfI"
+      },
+      "artists": [
+        {
+          "name": "Rolando Alarcon",
+          "url": "https://open.spotify.com/artist/1zVfOfIieOhrYPFXa6oMEt"
+        }
+      ],
+      "duration_ms": 123333,
+      "name": "Si Somos Americanos",
+      "url": "https://open.spotify.com/track/5kScKNyugdcqoEPKWPpBq1"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "AMOR Hayd\u00e9e Milan\u00e9s a d\u00fao con Pablo Milan\u00e9s (EDICI\u00d3N DELUXE)",
         "url": "https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU"
       },
@@ -1595,18 +1611,18 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "La Nueva Cancion Chilena, Vol. 1",
-        "url": "https://open.spotify.com/album/6lXAQ5Gozo845iSrcQEvfI"
+        "name": "El Largo Camino al \u00c9xito",
+        "url": "https://open.spotify.com/album/0eeWzoH8FtW0mPiRfVX09B"
       },
       "artists": [
         {
-          "name": "Rolando Alarcon",
-          "url": "https://open.spotify.com/artist/1zVfOfIieOhrYPFXa6oMEt"
+          "name": "Claudio Narea",
+          "url": "https://open.spotify.com/artist/5CjS7mlKNA0G9mTLr1oOnV"
         }
       ],
-      "duration_ms": 123333,
-      "name": "Si Somos Americanos",
-      "url": "https://open.spotify.com/track/5kScKNyugdcqoEPKWPpBq1"
+      "duration_ms": 223040,
+      "name": "Rico el Pa\u00eds",
+      "url": "https://open.spotify.com/track/7smmyQa9tnBfPAYqqPn06Q"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1623,22 +1639,6 @@
       "duration_ms": 160068,
       "name": "Mujer detente",
       "url": "https://open.spotify.com/track/2F9mSzT7MIA9CHswF0b0KB"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "El Largo Camino al \u00c9xito",
-        "url": "https://open.spotify.com/album/0eeWzoH8FtW0mPiRfVX09B"
-      },
-      "artists": [
-        {
-          "name": "Claudio Narea",
-          "url": "https://open.spotify.com/artist/5CjS7mlKNA0G9mTLr1oOnV"
-        }
-      ],
-      "duration_ms": 223040,
-      "name": "Rico el Pa\u00eds",
-      "url": "https://open.spotify.com/track/7smmyQa9tnBfPAYqqPn06Q"
     },
     {
       "added_at": "2023-10-13 03:00:00",

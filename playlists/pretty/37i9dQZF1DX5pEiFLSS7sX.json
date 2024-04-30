@@ -1,6 +1,6 @@
 {
   "description": "Go deep into spontaneous praise and worship here. On and on.",
-  "num_followers": 201027,
+  "num_followers": 201017,
   "original_name": "Signs & Wonders",
   "owner": {
     "name": "Spotify",
@@ -719,18 +719,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Kingdom Culture Worship",
-        "url": "https://open.spotify.com/album/21us72bpT0drS6w5ieLMJk"
+        "name": "Moments: Mighty Sound",
+        "url": "https://open.spotify.com/album/5IGjIGu16MS3cu4CxLsXn3"
       },
       "artists": [
         {
-          "name": "Kingdom Culture Worship",
-          "url": "https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc"
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
         }
       ],
-      "duration_ms": 475000,
-      "name": "Abide",
-      "url": "https://open.spotify.com/track/2hKuhm3kV2lxDjVzS8pqr5"
+      "duration_ms": 644949,
+      "name": "Pieces (Spontaneous)",
+      "url": "https://open.spotify.com/track/5yHC5TI4GAuKaeNYgCpLju"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -787,22 +791,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Moments: Mighty Sound",
-        "url": "https://open.spotify.com/album/5IGjIGu16MS3cu4CxLsXn3"
+        "name": "Kingdom Culture Worship",
+        "url": "https://open.spotify.com/album/21us72bpT0drS6w5ieLMJk"
       },
       "artists": [
         {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+          "name": "Kingdom Culture Worship",
+          "url": "https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc"
         }
       ],
-      "duration_ms": 644949,
-      "name": "Pieces (Spontaneous)",
-      "url": "https://open.spotify.com/track/5yHC5TI4GAuKaeNYgCpLju"
+      "duration_ms": 475000,
+      "name": "Abide",
+      "url": "https://open.spotify.com/track/2hKuhm3kV2lxDjVzS8pqr5"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Frontiers",
+        "url": "https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY"
+      },
+      "artists": [
+        {
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+        }
+      ],
+      "duration_ms": 312106,
+      "name": "Set My Heart - Live",
+      "url": "https://open.spotify.com/track/2UIxlbf3p2Fhknmq6WRHHQ"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Awe + Wonder (Live)",
         "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
       },
@@ -1783,22 +1799,6 @@
       "duration_ms": 326246,
       "name": "Awe + Wonder - Live",
       "url": "https://open.spotify.com/track/6LIbc0JN4nvodJzln08lFo"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Frontiers",
-        "url": "https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY"
-      },
-      "artists": [
-        {
-          "name": "Vertical Worship",
-          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
-        }
-      ],
-      "duration_ms": 312106,
-      "name": "Set My Heart - Live",
-      "url": "https://open.spotify.com/track/2UIxlbf3p2Fhknmq6WRHHQ"
     }
   ],
   "unique_name": "Signs & Wonders",

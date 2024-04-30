@@ -1,12 +1,12 @@
 {
-  "description": "This is Bruno Mars. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 3793876,
+  "description": "This is Bruno Mars. The essential tracks, all in one playlist.",
+  "num_followers": 3792976,
   "original_name": "This Is Bruno Mars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDE3NjAwMCwwMDAwMDAwMGNkZmZmMWFhZWYyZDJiM2IxZmYyNGQ2NzQ0ZDUwMTYw",
+  "snapshot_id": "MTcxNDI2MjQwMCwwMDAwMDAwMDY4NzY0MmQ3M2ZmMWRjYWI3NzhkMmJiNGYwZDgyNzUw",
   "tracks": [
     {
       "added_at": null,
@@ -192,9 +192,9 @@
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 230192,
-      "name": "Marry You",
-      "url": "https://open.spotify.com/track/6SKwQghsR8AISlxhcwyA9R"
+      "duration_ms": 222091,
+      "name": "Grenade",
+      "url": "https://open.spotify.com/track/4lLtanYk6tkMvooU0tWzG8"
     },
     {
       "added_at": null,
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 222091,
-      "name": "Grenade",
-      "url": "https://open.spotify.com/track/4lLtanYk6tkMvooU0tWzG8"
+      "duration_ms": 230192,
+      "name": "Marry You",
+      "url": "https://open.spotify.com/track/6SKwQghsR8AISlxhcwyA9R"
     },
     {
       "added_at": null,

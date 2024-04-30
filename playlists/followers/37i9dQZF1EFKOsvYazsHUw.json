@@ -1,5 +1,5 @@
 {
-  "2024-04-29": 470,
+  "2024-04-30": 470,
   "date_first_scraped": "2022-11-12",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/4uT4afwoFqf5HupqMjErXX\">Chiiild</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Chiiild",
@@ -65,6 +65,28 @@
     {
       "album": {
         "name": "A.K.A. (Deluxe)",
+        "url": "https://open.spotify.com/album/5sgtN5B8rUr6nfUzJ4RRIk"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Iggy Azalea",
+          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
+        }
+      ],
+      "date_added": "2024-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197400,
+      "name": "Acting Like That",
+      "url": "https://open.spotify.com/track/1o2TUFm3HmbgmYr2OqmVpy"
+    },
+    {
+      "album": {
+        "name": "A.K.A. (Deluxe)",
         "url": "https://open.spotify.com/album/7DoFFUz6BAVBwUFaMCTTcL"
       },
       "artists": [
@@ -79,7 +101,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 197400,
       "name": "Acting Like That",
       "url": "https://open.spotify.com/track/5ThJ3Q0IItsQkQCDJuIzxe"
@@ -1673,10 +1695,28 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 225080,
       "name": "So Good",
       "url": "https://open.spotify.com/track/2IqXs6lr8O1laApnGoBHGY"
+    },
+    {
+      "album": {
+        "name": "A.K.A. (Deluxe)",
+        "url": "https://open.spotify.com/album/5sgtN5B8rUr6nfUzJ4RRIk"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2024-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225080,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/4dLN7SiPi5EspQwirFSAIQ"
     },
     {
       "album": {

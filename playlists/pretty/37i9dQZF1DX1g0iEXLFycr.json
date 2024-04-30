@@ -1,6 +1,6 @@
 {
   "description": "Uplifting anthems to power you through 'til the weekend.",
-  "num_followers": 1082844,
+  "num_followers": 1082693,
   "original_name": "Feel Good Friday",
   "owner": {
     "name": "Spotify",
@@ -931,26 +931,6 @@
     {
       "added_at": "2024-03-22 16:40:22",
       "album": {
-        "name": "Invincible",
-        "url": "https://open.spotify.com/album/6rwT7u32X6CdrOCClbowiW"
-      },
-      "artists": [
-        {
-          "name": "Five",
-          "url": "https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG"
-        },
-        {
-          "name": "Steve Mac",
-          "url": "https://open.spotify.com/artist/78E5Zx38dgv90Q7VN2AplD"
-        }
-      ],
-      "duration_ms": 198066,
-      "name": "Keep On Movin'",
-      "url": "https://open.spotify.com/track/0MjMqYIYzcCteAs4c0BZGy"
-    },
-    {
-      "added_at": "2024-03-22 16:40:22",
-      "album": {
         "name": "Head & Heart (feat. MNEK)",
         "url": "https://open.spotify.com/album/4w554Y1ts3lmzhn7hpfLBJ"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 166028,
       "name": "Head & Heart (feat. MNEK)",
       "url": "https://open.spotify.com/track/4wosxLl0mAqhneDzya2MfY"
+    },
+    {
+      "added_at": "2024-03-22 16:40:22",
+      "album": {
+        "name": "Invincible",
+        "url": "https://open.spotify.com/album/6rwT7u32X6CdrOCClbowiW"
+      },
+      "artists": [
+        {
+          "name": "Five",
+          "url": "https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG"
+        },
+        {
+          "name": "Steve Mac",
+          "url": "https://open.spotify.com/artist/78E5Zx38dgv90Q7VN2AplD"
+        }
+      ],
+      "duration_ms": 198066,
+      "name": "Keep On Movin'",
+      "url": "https://open.spotify.com/track/0MjMqYIYzcCteAs4c0BZGy"
     },
     {
       "added_at": "2024-03-22 16:40:22",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2024-03-22 16:40:22",
       "album": {
+        "name": "The Greatest Hits",
+        "url": "https://open.spotify.com/album/6pM8nZgJqCrdBGLzjkBey0"
+      },
+      "artists": [
+        {
+          "name": "Texas",
+          "url": "https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf"
+        }
+      ],
+      "duration_ms": 230640,
+      "name": "Inner Smile",
+      "url": "https://open.spotify.com/track/6i3kIF4sosXFhkoSLMV7bP"
+    },
+    {
+      "added_at": "2024-03-22 16:40:22",
+      "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/6IH6co1QUS7uXoyPDv0rIr"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 193986,
       "name": "Problem",
       "url": "https://open.spotify.com/track/3cySlItpiPiIAzU3NyHCJf"
-    },
-    {
-      "added_at": "2024-03-22 16:40:22",
-      "album": {
-        "name": "The Greatest Hits",
-        "url": "https://open.spotify.com/album/6pM8nZgJqCrdBGLzjkBey0"
-      },
-      "artists": [
-        {
-          "name": "Texas",
-          "url": "https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf"
-        }
-      ],
-      "duration_ms": 230640,
-      "name": "Inner Smile",
-      "url": "https://open.spotify.com/track/6i3kIF4sosXFhkoSLMV7bP"
     },
     {
       "added_at": "2024-03-22 16:40:22",

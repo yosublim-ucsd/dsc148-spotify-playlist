@@ -1,6 +1,6 @@
 {
   "description": "Belleza y distorsi\u00f3n imaginada por bandas iberoamericanas. Estrella del Sol en portada.",
-  "num_followers": 30514,
+  "num_followers": 30523,
   "original_name": "Shoegaze & Dreampop en espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -351,18 +351,18 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Duramos Ma\u0301s Cuando Menos Nos Conocemos",
-        "url": "https://open.spotify.com/album/5RwW7blxdp4AtsWPKJ9Qk2"
+        "name": "Jungla",
+        "url": "https://open.spotify.com/album/0s8OB2LMGu6l9NyfJgvsvC"
       },
       "artists": [
         {
-          "name": "Coma Pony",
-          "url": "https://open.spotify.com/artist/6CoQb7w1IH2ZGgJZV0HaC9"
+          "name": "Rayo",
+          "url": "https://open.spotify.com/artist/1r5mgN3pd36xjsZSZOvST9"
         }
       ],
-      "duration_ms": 188728,
-      "name": "Duramos Ma\u0301s Cuando Menos Nos Conocemos",
-      "url": "https://open.spotify.com/track/4bFLWgZkJuPoa1Js25VQU8"
+      "duration_ms": 183080,
+      "name": "Mapas",
+      "url": "https://open.spotify.com/track/4KBhtcvm7Rb91wTMIVtZKP"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -383,18 +383,18 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Jungla",
-        "url": "https://open.spotify.com/album/0s8OB2LMGu6l9NyfJgvsvC"
+        "name": "Duramos Ma\u0301s Cuando Menos Nos Conocemos",
+        "url": "https://open.spotify.com/album/5RwW7blxdp4AtsWPKJ9Qk2"
       },
       "artists": [
         {
-          "name": "Rayo",
-          "url": "https://open.spotify.com/artist/1r5mgN3pd36xjsZSZOvST9"
+          "name": "Coma Pony",
+          "url": "https://open.spotify.com/artist/6CoQb7w1IH2ZGgJZV0HaC9"
         }
       ],
-      "duration_ms": 183080,
-      "name": "Mapas",
-      "url": "https://open.spotify.com/track/4KBhtcvm7Rb91wTMIVtZKP"
+      "duration_ms": 188728,
+      "name": "Duramos Ma\u0301s Cuando Menos Nos Conocemos",
+      "url": "https://open.spotify.com/track/4bFLWgZkJuPoa1Js25VQU8"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -433,6 +433,22 @@
       "url": "https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI"
     },
     {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "BILLY",
+        "url": "https://open.spotify.com/album/1ivkMDnb2NCYgRUtNmwrk7"
+      },
+      "artists": [
+        {
+          "name": "Dominiko",
+          "url": "https://open.spotify.com/artist/0XKJA6syL4JLUeXqEh8qfD"
+        }
+      ],
+      "duration_ms": 252633,
+      "name": "BILLY",
+      "url": "https://open.spotify.com/track/1g4B7jOmIU52X1PzEiKqST"
+    },
+    {
       "added_at": "2024-01-02 18:36:50",
       "album": {
         "name": "casa de espejos",
@@ -447,22 +463,6 @@
       "duration_ms": 141484,
       "name": "casa de espejos",
       "url": "https://open.spotify.com/track/5S9LIPJ2RCaowPdxDIByRp"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
-        "name": "Chambers",
-        "url": "https://open.spotify.com/album/0m1gWnu2DZOnk0lIqSbyBh"
-      },
-      "artists": [
-        {
-          "name": "Lorelle Meets The Obsolete",
-          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
-        }
-      ],
-      "duration_ms": 298122,
-      "name": "What\u2019s holding you?",
-      "url": "https://open.spotify.com/track/2dv9U9fWdxk7wKLi2gPpSW"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -483,6 +483,22 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
+        "name": "Chambers",
+        "url": "https://open.spotify.com/album/0m1gWnu2DZOnk0lIqSbyBh"
+      },
+      "artists": [
+        {
+          "name": "Lorelle Meets The Obsolete",
+          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
+        }
+      ],
+      "duration_ms": 298122,
+      "name": "What\u2019s holding you?",
+      "url": "https://open.spotify.com/track/2dv9U9fWdxk7wKLi2gPpSW"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
         "name": "Osa Polar",
         "url": "https://open.spotify.com/album/6t05m4JxBdRonMD5T1hYys"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 282169,
       "name": "Osa Polar",
       "url": "https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
-        "name": "BILLY",
-        "url": "https://open.spotify.com/album/1ivkMDnb2NCYgRUtNmwrk7"
-      },
-      "artists": [
-        {
-          "name": "Dominiko",
-          "url": "https://open.spotify.com/artist/0XKJA6syL4JLUeXqEh8qfD"
-        }
-      ],
-      "duration_ms": 252633,
-      "name": "BILLY",
-      "url": "https://open.spotify.com/track/1g4B7jOmIU52X1PzEiKqST"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "reina de primavera",
-        "url": "https://open.spotify.com/album/5qnpPym42PCcSxP70H8U1Y"
-      },
-      "artists": [
-        {
-          "name": "te vi en un planetario",
-          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
-        }
-      ],
-      "duration_ms": 245840,
-      "name": "reina de primavera",
-      "url": "https://open.spotify.com/track/5HI6WZzt6WEz8I4ybF5lt6"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "Como Rei Ayanami",
         "url": "https://open.spotify.com/album/30LJvOyd3yd4Otb6LLuQCW"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 177354,
       "name": "Como Rei Ayanami",
       "url": "https://open.spotify.com/track/0tYNvkWztbz331kXOHXf8n"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "reina de primavera",
+        "url": "https://open.spotify.com/album/5qnpPym42PCcSxP70H8U1Y"
+      },
+      "artists": [
+        {
+          "name": "te vi en un planetario",
+          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
+        }
+      ],
+      "duration_ms": 245840,
+      "name": "reina de primavera",
+      "url": "https://open.spotify.com/track/5HI6WZzt6WEz8I4ybF5lt6"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -625,22 +625,6 @@
       "url": "https://open.spotify.com/track/4eSXJnfSowWSP9kefNFiww"
     },
     {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "m\u00e1s tiempo",
-        "url": "https://open.spotify.com/album/5ZLljWH8uDb0oJBYpXJKfX"
-      },
-      "artists": [
-        {
-          "name": "Policias y Ladrones",
-          "url": "https://open.spotify.com/artist/6Y9quCNVfxgIE308HSMpEd"
-        }
-      ],
-      "duration_ms": 207435,
-      "name": "m\u00e1s tiempo",
-      "url": "https://open.spotify.com/track/0Z0CnfVm3VSHD9jtiemuRe"
-    },
-    {
       "added_at": "2023-05-05 06:00:00",
       "album": {
         "name": "Flash Memory",
@@ -655,6 +639,22 @@
       "duration_ms": 135083,
       "name": "Shallow",
       "url": "https://open.spotify.com/track/7mrG4CWCjYiWWfSiYLdoxg"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "m\u00e1s tiempo",
+        "url": "https://open.spotify.com/album/5ZLljWH8uDb0oJBYpXJKfX"
+      },
+      "artists": [
+        {
+          "name": "Policias y Ladrones",
+          "url": "https://open.spotify.com/artist/6Y9quCNVfxgIE308HSMpEd"
+        }
+      ],
+      "duration_ms": 207435,
+      "name": "m\u00e1s tiempo",
+      "url": "https://open.spotify.com/track/0Z0CnfVm3VSHD9jtiemuRe"
     },
     {
       "added_at": "2023-05-05 06:00:00",

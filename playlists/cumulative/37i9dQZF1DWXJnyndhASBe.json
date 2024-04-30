@@ -46,7 +46,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 150204,
       "name": "100K",
       "url": "https://open.spotify.com/track/4wVgUcv07gAFulQSySIeLS"
@@ -418,7 +418,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 149291,
       "name": "Alergia",
       "url": "https://open.spotify.com/track/6iow78X3i2TXPTAMAv85uW"
@@ -2665,6 +2665,28 @@
     },
     {
       "album": {
+        "name": "ILE LAT?",
+        "url": "https://open.spotify.com/album/5pzf4AhTd7kPFC0W1Bh5Ti"
+      },
+      "artists": [
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        },
+        {
+          "name": "Sobel",
+          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "ILE LAT?",
+      "url": "https://open.spotify.com/track/4sOUVcGZo8MiSoIKybdXMC"
+    },
+    {
+      "album": {
         "name": "Jackpot",
         "url": "https://open.spotify.com/album/51zhaYzmuoPhM3IfEJFCn6"
       },
@@ -3320,6 +3342,24 @@
       "duration_ms": 198440,
       "name": "Liga mistrz\u00f3w",
       "url": "https://open.spotify.com/track/5tMMrW1OTjeR6QvdntqlkJ"
+    },
+    {
+      "album": {
+        "name": "lord dripiez",
+        "url": "https://open.spotify.com/album/1qnHasblxoblfP6zfipPyb"
+      },
+      "artists": [
+        {
+          "name": "Mlody Korden",
+          "url": "https://open.spotify.com/artist/7pSrnhnLz5gKS5LZ9WvhlG"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138137,
+      "name": "lord dripiez",
+      "url": "https://open.spotify.com/track/6iNKBRV0D1ExbbHanODj1D"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-04-29": 1,
+  "2024-04-30": 1,
   "date_first_scraped": "2023-02-09",
   "description": "",
   "name": "main ",
@@ -6551,6 +6551,24 @@
       "duration_ms": 94647,
       "name": "Louie V",
       "url": "https://open.spotify.com/track/7jbUzcSjzr8sM1PRJ35rHr"
+    },
+    {
+      "album": {
+        "name": "Paper Route Frank",
+        "url": "https://open.spotify.com/album/7tXLv9wbiC5Jf1o4nHZY4S"
+      },
+      "artists": [
+        {
+          "name": "Young Dolph",
+          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
+        }
+      ],
+      "date_added": "2024-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186200,
+      "name": "Love For The Streets",
+      "url": "https://open.spotify.com/track/7k5lDslyLbcykzUOPGEdKR"
     },
     {
       "album": {

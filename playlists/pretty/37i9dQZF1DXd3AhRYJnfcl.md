@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 
 > أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: الغلاف: <a href="https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt?si=tGU\_3\-pJStasaf5gqFdSoQ"> حسن شاكوش </a> و <a href="https://open.spotify.com/artist/4kYlR8TU22EJ77zl3NfmeM?si=2xdChv98SCSSWdf30er7fg"> <br/>حمادة مجدي
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,228 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,908 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

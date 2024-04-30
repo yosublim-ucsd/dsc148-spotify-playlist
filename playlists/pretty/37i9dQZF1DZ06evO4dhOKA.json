@@ -1,12 +1,12 @@
 {
-  "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
-  "num_followers": 56073,
+  "description": "This Is Lalo Mora. Los temas esenciales, todos en una lista.",
+  "num_followers": 56060,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDE3NjAwMCwwMDAwMDAwMGNkYzJhNWVkNDYwYzBmMDE1ODUzZjdlNGNlN2RmOThi",
+  "snapshot_id": "MTcxNDI2MjQwMCwwMDAwMDAwMDMzM2M3ODM5NGM5YjU4M2M4YmFjMDNlNzgwOWE3NThh",
   "tracks": [
     {
       "added_at": null,
@@ -215,8 +215,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Amo del Imperio",
-        "url": "https://open.spotify.com/album/3OFg9B4j8an2JZCiM8smjo"
+        "name": "12 \u00c9xitos Con Sax al Estilo De: Lalo Mora",
+        "url": "https://open.spotify.com/album/500FKToABrSXqJrrlt0PoS"
       },
       "artists": [
         {
@@ -224,9 +224,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 242013,
-      "name": "Si Llego a Viejo",
-      "url": "https://open.spotify.com/track/0pLDVyLQdWuQWfNoXGLcb4"
+      "duration_ms": 202320,
+      "name": "El Columpio",
+      "url": "https://open.spotify.com/track/4HjxDHRhdqlmoCbnobNHmI"
     },
     {
       "added_at": null,
@@ -247,8 +247,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "12 \u00c9xitos Con Sax al Estilo De: Lalo Mora",
-        "url": "https://open.spotify.com/album/500FKToABrSXqJrrlt0PoS"
+        "name": "El Amo del Imperio",
+        "url": "https://open.spotify.com/album/3OFg9B4j8an2JZCiM8smjo"
       },
       "artists": [
         {
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 202320,
-      "name": "El Columpio",
-      "url": "https://open.spotify.com/track/4HjxDHRhdqlmoCbnobNHmI"
+      "duration_ms": 242013,
+      "name": "Si Llego a Viejo",
+      "url": "https://open.spotify.com/track/0pLDVyLQdWuQWfNoXGLcb4"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Jefes",
-        "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 162360,
-      "name": "La Novia De Mi Hermano AKA No Te Apasiones",
-      "url": "https://open.spotify.com/track/6uHagy7oY3oRrAHu2cJRGe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis 20 \u00c9xitos Con Banda",
         "url": "https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 183973,
       "name": "Rafael Caro Quintero",
       "url": "https://open.spotify.com/track/3WbehJeoY3BaaKJFVm2CBH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos De Jefes",
+        "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 162360,
+      "name": "La Novia De Mi Hermano AKA No Te Apasiones",
+      "url": "https://open.spotify.com/track/6uHagy7oY3oRrAHu2cJRGe"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Jefes",
-        "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 184666,
-      "name": "Lupe Rubalcava AKA Corrido De Lupe Rubalcava",
-      "url": "https://open.spotify.com/track/6EDnuILfWDWBXsFrTmDt8L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15 Exitos Vol. 1",
         "url": "https://open.spotify.com/album/5BCiEiRADjqGcjhVDD8KPt"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 163013,
       "name": "Flor de Dalia",
       "url": "https://open.spotify.com/track/2uLpC85SooFEEKVbT59OXb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos De Jefes",
+        "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 184666,
+      "name": "Lupe Rubalcava AKA Corrido De Lupe Rubalcava",
+      "url": "https://open.spotify.com/track/6EDnuILfWDWBXsFrTmDt8L"
     },
     {
       "added_at": null,

@@ -8865,6 +8865,24 @@
     },
     {
       "album": {
+        "name": "Qu\u00edmica",
+        "url": "https://open.spotify.com/album/5SArc0nP1ExSLHburSbLab"
+      },
+      "artists": [
+        {
+          "name": "MDO (Menino de Ouro)",
+          "url": "https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152255,
+      "name": "Qu\u00edmica",
+      "url": "https://open.spotify.com/track/6HhCHim3sSAWiamanjMkv6"
+    },
+    {
+      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/1Pa6gereIqgxt2gsqw8mkr"
       },
@@ -10164,7 +10182,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 192000,
       "name": "Sonhos",
       "url": "https://open.spotify.com/track/4bdkXHkOvNGUr2UrKtCXJu"

@@ -721,6 +721,24 @@
     },
     {
       "album": {
+        "name": "Challengers (Original Score)",
+        "url": "https://open.spotify.com/album/2NHhf3qtcoVPDEb03G8RFv"
+      },
+      "artists": [
+        {
+          "name": "Trent Reznor and Atticus Ross",
+          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302424,
+      "name": "Challengers: Match Point",
+      "url": "https://open.spotify.com/track/7kSmQCEQHvSYrUUyPpAz8n"
+    },
+    {
+      "album": {
         "name": "Citadel (Main Title Theme)",
         "url": "https://open.spotify.com/album/7oSSjZIbIAgsDXEsmXuwrf"
       },

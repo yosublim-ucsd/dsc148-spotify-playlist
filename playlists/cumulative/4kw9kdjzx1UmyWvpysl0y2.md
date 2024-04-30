@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-713 songs - 1 day 17 hr 10 min
+714 songs - 1 day 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -469,6 +469,7 @@
 | [Only You](https://open.spotify.com/track/4L6ZciTfXvf4XWzIch8sw9) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc), [Brandon Mignacca](https://open.spotify.com/artist/5k1EecpyjkutxtmZKlsBOj) | [Only You](https://open.spotify.com/album/2MVqhgj8svqG19mBA0olva) | 4:16 | 2021-11-19 | 2022-01-29 |
 | [Other Side](https://open.spotify.com/track/5kj5GVUyYb5yXXtsbUeqpw) | [OVSKY](https://open.spotify.com/artist/6hs7DlQVJTvFgN7DyzkdnX), [MYLK](https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX) | [Other Side](https://open.spotify.com/album/3luBggRjXhNlC2O3wQACop) | 2:30 | 2021-11-19 | 2022-01-27 |
 | [Other Side \- Factor B's In Loving Memory Remix](https://open.spotify.com/track/3QzeTO4Ylxcl8mAqjyUyHq) | [Vintage & Morelli](https://open.spotify.com/artist/58dfpnXBkKgFNH2JFtEAv0), [Arielle Maren](https://open.spotify.com/artist/7MbnTNfDyXb2vTM1GYXsLV), [Factor B](https://open.spotify.com/artist/4OUavLWUepaSy6MNjkNS3g) | [Other Side \(Factor B's In Loving Memory Remix\)](https://open.spotify.com/album/3ABRbWCzvO0vaHLWflNJpE) | 7:56 | 2022-12-08 | 2023-03-09 |
+| [OUR STARS](https://open.spotify.com/track/5jKmm01l9eMLiQusd6qpKi) | [THIRST](https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde) | [OUR STARS](https://open.spotify.com/album/26T9baKkEEWN03XeiMSvvN) | 2:27 | 2024-04-29 |  |
 | [Out of the Dark](https://open.spotify.com/track/6IzufCdUFDMtLG2EvHwYFE) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg) | [Out of the Dark](https://open.spotify.com/album/2JG5PFilIwO4rggFxYyMg1) | 3:58 | 2022-10-04 | 2022-12-04 |
 | [Outlines](https://open.spotify.com/track/6u09isfip6hiPkOl0uobwy) | [Stendahl](https://open.spotify.com/artist/7hLrjiuNxZIf9JSPz2CbAo), [Meeting Molly](https://open.spotify.com/artist/55p34uHtqEyL4CoYAwqE2G) | [Outlines](https://open.spotify.com/album/1GKcEcDtOBsRRgJxNx765a) | 3:28 | 2022-05-04 | 2022-07-15 |
 | [Outta My Head](https://open.spotify.com/track/2kYEXIl4BmVZ7WxCRTvnns) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [BXU](https://open.spotify.com/album/4nwYxSA4OjDBTFpiY2yKoJ) | 2:29 | 2022-04-12 | 2022-06-22 |

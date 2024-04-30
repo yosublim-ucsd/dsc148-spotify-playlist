@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Les Cowboys Fringants
 
-2,482 songs - 5 day 12 hr 41 min
+2,483 songs - 5 day 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1049,7 +1049,7 @@
 | [Je partirai](https://open.spotify.com/track/3iku3rkYAUlFqhd72eOvJa) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Mauvais rêve](https://open.spotify.com/album/3enLAJnxNXQXcA4kqKYFq0) | 3:15 | 2023-05-26 | 2023-06-15 |
 | [Je partirai](https://open.spotify.com/track/4rsGnKtuQrxMBHQGt1z3FP) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Je partirai](https://open.spotify.com/album/1AvWJglFWzSCpttEKrsbku) | 3:15 | 2023-06-16 | 2023-07-29 |
 | [Je pense à toi \(vue par Jean\-Phi Goncalves\) \- Remix](https://open.spotify.com/track/3nuMUozXZaRUIYtKQQrnnU) | [Alfa Rococo](https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n) | [Je pense à toi \(vue par Jean\-Phi Goncalves\) \[Remix\]](https://open.spotify.com/album/5dNupmHmcCfK8YgdmTBX8G) | 3:54 | 2022-05-06 | 2022-05-20 |
-| [Je pense à vous](https://open.spotify.com/track/5cAzaNbU7AEgfsJgL9sbtX) | [Linh](https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj) | [Je pense à vous](https://open.spotify.com/album/0zTLRs6F2UXlju8OkmGAc4) | 2:52 | 2024-03-22 |  |
+| [Je pense à vous](https://open.spotify.com/track/5cAzaNbU7AEgfsJgL9sbtX) | [Linh](https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj) | [Je pense à vous](https://open.spotify.com/album/0zTLRs6F2UXlju8OkmGAc4) | 2:52 | 2024-03-22 | 2024-04-30 |
 | [Je remplace mes exs](https://open.spotify.com/track/3QSTzAm336llccLmSrdqzI) | [TK](https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC), [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [Je remplace mes exs](https://open.spotify.com/album/1JCfwbRtYqlTF6sQChqcuM) | 2:53 | 2023-09-08 | 2023-10-25 |
 | [JE RESPIRE](https://open.spotify.com/track/204PfCzQ6FbveeJH7RoxgU) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv), [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [JE RESPIRE](https://open.spotify.com/album/7MyrxRdDBg56H8TXlgUjRs) | 3:11 | 2022-06-03 | 2022-06-18 |
 | [Je resterai tout près \(Ton nom est un rivage\)](https://open.spotify.com/track/70EQSOKYqozg8DRVNKNyWs) | [Sylvie Paquette](https://open.spotify.com/artist/7lf5jug92e3K5mWcAzxlrB) | [Je resterai tout près](https://open.spotify.com/album/4d8TpxTY6tCucamqn2tmoQ) | 2:45 | 2022-05-06 | 2022-05-14 |
@@ -1925,6 +1925,7 @@
 | [Rendez\-vous](https://open.spotify.com/track/4xc65AcTrsOvciwZCqGrtG) | [Gazoline](https://open.spotify.com/artist/0jmQKrs8Mir77PffQBo0Jt) | [Rendez\-vous](https://open.spotify.com/album/72Bq6erz2D2ieZQuvVvj1D) | 3:01 | 2023-10-27 | 2023-11-11 |
 | [Rendez\-vous](https://open.spotify.com/track/4j3OzPbYMbuvnom1icPidC) | [Magdala](https://open.spotify.com/artist/3uadfXnnMTKpzaGo96mRFz), [Mr\. Lèggo](https://open.spotify.com/artist/6HHmfNEugk4iGOcDEXEOo3) | [Rendez\-vous](https://open.spotify.com/album/1trYtI3u68BrigB85Lvzkw) | 4:23 | 2022-03-04 | 2022-03-12 |
 | [Rends l’amour !](https://open.spotify.com/track/1bL16m4dmLlAFU4j8lKVTT) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A) | [Rends l'amour !](https://open.spotify.com/album/5AJn75IUeOCYkdQ4K1lefR) | 3:29 | 2022-06-10 | 2022-06-25 |
+| [rentrer chez moi](https://open.spotify.com/track/4lu4t2NkQ8APnm0GwL8Gbl) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [rentrer chez moi](https://open.spotify.com/album/3d8yIiEx11x64VMAbpoQcU) | 3:39 | 2024-04-26 |  |
 | [Repartir comme avant \(Radio Edit\)](https://open.spotify.com/track/50GTX0yBwJEjVTYq18sAVk) | [Roy Davis](https://open.spotify.com/artist/2hY7DEOREACP4sNFGFpTWm) | [Repartir comme avant \(Radio Edit\)](https://open.spotify.com/album/1Gmoud70A5TCdCWObl06yY) | 2:39 | 2022-05-06 | 2022-05-14 |
 | [REQUIN](https://open.spotify.com/track/38R3cKyNNGQ9gBljkULBwC) | [Xone](https://open.spotify.com/artist/68TAqd3LgdVtgRez3IEwra), [BIGGEST](https://open.spotify.com/artist/4hf322K3v2oCLTtZscA1ka) | [REQUIN](https://open.spotify.com/album/6eBZrBNO2iMGksUcIXWAiN) | 2:04 | 2021-12-31 | 2022-01-22 |
 | [Respecte](https://open.spotify.com/track/1rHJ65IMzxclbZqs5v233r) | [Rach](https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n), [Jackboy](https://open.spotify.com/artist/5dERu9kdHEHydNM3cmSRS9) | [Respecte](https://open.spotify.com/album/2yJbi9pizlXc9SOAq4ompU) | 2:24 | 2022-01-07 | 2022-01-22 |

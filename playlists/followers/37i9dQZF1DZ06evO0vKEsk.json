@@ -1,7 +1,7 @@
 {
-  "2024-04-29": 132620,
+  "2024-04-30": 132390,
   "date_first_scraped": "2023-07-10",
-  "description": "This is Bruna Karla. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This Is Bruna Karla. Todas as faixas essenciais numa \u00fanica playlist.",
   "name": "This Is Bruna Karla",
   "tracks": [
     {
@@ -466,6 +466,28 @@
     },
     {
       "album": {
+        "name": "Ele \u00c9 Jesus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1HkiodWGSRocxPIye85Feo"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        },
+        {
+          "name": "Samuel Messias",
+          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 510478,
+      "name": "Em Teu Nome H\u00e1 Poder (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4dCYSSfMAwSmBhubwaMtgN"
+    },
+    {
+      "album": {
         "name": "Eu Quero Minha B\u00ean\u00e7\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/7dgfrDeBKbyU8ExzdSbtcl"
       },
@@ -801,7 +823,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 284165,
       "name": "N\u00e3o H\u00e1 Nada, Mas Haver\u00e1",
       "url": "https://open.spotify.com/track/1VwszHZbuF3IRtWInwRoar"

@@ -1,12 +1,12 @@
 {
   "description": "The best Dance and EDM tracks right now! Cover: Banx &amp; Ranx",
-  "num_followers": 20332,
+  "num_followers": 20335,
   "original_name": "New Dance Hits 2024",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "NzY1MCw5Y2UzOTNiNzA2NGM1YWEzNTM4Mzk4ZDEyMDBiNDk0ZTI4MTJlZjYx",
+  "snapshot_id": "NzY1MixjZDBkYzE3Yjc3NjgyMjQwOGE5NmE5YjZkYWM0MDljN2Y2NmYzYjdj",
   "tracks": [
     {
       "added_at": "2024-04-26 05:33:42",
@@ -875,6 +875,30 @@
       "duration_ms": 192900,
       "name": "Cruel Summer - LP Giobbi Remix",
       "url": "https://open.spotify.com/track/0pjBqAz8GlxGlpaU4W0DxS"
+    },
+    {
+      "added_at": "2024-04-29 16:37:27",
+      "album": {
+        "name": "It's Saturday",
+        "url": "https://open.spotify.com/album/461Qyoq9JX5Qkpm7NT228I"
+      },
+      "artists": [
+        {
+          "name": "J. Rey Soul",
+          "url": "https://open.spotify.com/artist/1OB278sOZVSFx5vXqYha83"
+        },
+        {
+          "name": "Dj Youcef",
+          "url": "https://open.spotify.com/artist/7dhDLHILqhHlgn0hPn8rOZ"
+        },
+        {
+          "name": "will.i.am",
+          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
+        }
+      ],
+      "duration_ms": 224307,
+      "name": "It's Saturday",
+      "url": "https://open.spotify.com/track/7yQ7aCZgciyCJprT8sp4og"
     },
     {
       "added_at": "2024-04-26 05:33:42",

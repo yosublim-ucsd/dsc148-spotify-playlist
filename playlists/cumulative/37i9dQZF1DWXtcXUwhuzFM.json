@@ -107,6 +107,24 @@
     },
     {
       "album": {
+        "name": "Ajetaan",
+        "url": "https://open.spotify.com/album/462haR8GjHQp7ACMapFi8i"
+      },
+      "artists": [
+        {
+          "name": "Reino Nordin",
+          "url": "https://open.spotify.com/artist/5cvT1YrzMiVuHMg22UKIk5"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181160,
+      "name": "Ajetaan",
+      "url": "https://open.spotify.com/track/0weXiYeg3XZ2kI44tBPX9d"
+    },
+    {
+      "album": {
         "name": "The Power",
         "url": "https://open.spotify.com/album/6Rbxgt8xNmnc6xHlXSRxQM"
       },

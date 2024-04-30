@@ -1,5 +1,5 @@
 {
-  "2024-04-29": 43281,
+  "2024-04-30": 43285,
   "date_first_scraped": "2023-12-10",
   "description": "Sun, sand, salt water and the perfect songs to match.",
   "name": "Coast to Coast",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 202283,
       "name": "After You",
       "url": "https://open.spotify.com/track/66ghlLG4bQW78VTQTNubWJ"
@@ -1321,6 +1321,28 @@
       "duration_ms": 215493,
       "name": "Lay It on Me",
       "url": "https://open.spotify.com/track/7oekneJCJO74ycdLzdk16v"
+    },
+    {
+      "album": {
+        "name": "Gossip",
+        "url": "https://open.spotify.com/album/3380X2DBGZPKpeZTPQrcsr"
+      },
+      "artists": [
+        {
+          "name": "Paul Kelly",
+          "url": "https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq"
+        },
+        {
+          "name": "The Messengers",
+          "url": "https://open.spotify.com/artist/6cBdXnLZZ80RDHOvNPVUcY"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203920,
+      "name": "Leaps And Bounds",
+      "url": "https://open.spotify.com/track/4XFpth43C6jzaA9fK1Jsmp"
     },
     {
       "album": {

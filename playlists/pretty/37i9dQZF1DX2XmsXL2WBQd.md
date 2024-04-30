@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 
 > Anthems from the early days of recorded rap music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,742 likes - 70 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,711 likes - 70 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 67 | [That's the Joint](https://open.spotify.com/track/4E3ODD0mMJZ7iCddYGNZnS) | [Funky 4 + 1](https://open.spotify.com/artist/6Jpc1m4U7kxHlzn8hkB85C) | [That's the Joint](https://open.spotify.com/album/275LyQkw1Be2dDfYo64bOX) | 9:22 |
 | 68 | [8th Wonder](https://open.spotify.com/track/3k2ACFdQY2Y9y8FYdODZxs) | [The Sugarhill Gang](https://open.spotify.com/artist/7zliF6Q946WznVk3ZMYhZX) | [Rapper's Delight](https://open.spotify.com/album/6ao0po28zzbNEl6MoUigrQ) | 7:26 |
 | 69 | [Going Way Back](https://open.spotify.com/track/0BXKyFXlqi7s2qC7Jvr1Um) | [Just\-Ice](https://open.spotify.com/artist/4o2YVQGcx3e2L4c95B3ZcU), [KRS\-One](https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla) | [Sir Vicious: The Best of Just\-Ice](https://open.spotify.com/album/400dfNwNSiUjJoNlxVIEeS) | 5:03 |
-| 70 | [Funk You Up \- 12'' Version](https://open.spotify.com/track/4c4CGU8qpVmIqn6HkETZBt) | [The Sequence](https://open.spotify.com/artist/0PvnF7nV4B3zOHF3qW4LlG) | [A Complete Introduction to Sugar Hill Records](https://open.spotify.com/album/09tnjtNXU0lHOxVsJ7jsAg) | 10:52 |
+| 70 | [Planet Rock](https://open.spotify.com/track/3uy0jtkM8QYVTsBazkli1x) | [Afrika Bambaataa](https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p), [The Soulsonic Force](https://open.spotify.com/artist/4zdcKwAK7lkYxgER54yfcP) | [Planet Rock](https://open.spotify.com/album/1uN3SzldnRO8CrsVN0lh2O) | 5:19 |
 
 Snapshot ID: `MTcxMzM2NDc4NiwwMDAwMDAwMGNhOWY2ZTU0YmJhYjlkMjU4MGMxMzg4NDhlNmI4ZTdl`

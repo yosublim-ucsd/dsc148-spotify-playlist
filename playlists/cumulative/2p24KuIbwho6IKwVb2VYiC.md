@@ -4,7 +4,7 @@
 
 > The best Dance and EDM tracks right now! Cover: Banx &amp; Ranx
 
-176 songs - 9 hr 12 min
+177 songs - 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [I'm My Only Friend \(feat\. Arden Jones\)](https://open.spotify.com/track/7gOxYYw4HKBa89vAAagh9q) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [I'm My Only Friend](https://open.spotify.com/album/00Z6vze8Xtk9rGTRTBrpXz) | 3:12 | 2023-10-27 | 2023-11-25 |
 | [If U Need It](https://open.spotify.com/track/0xfaCHwtlu4xXZO9x3Axen) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Moonlight](https://open.spotify.com/album/4UPgkPHybekr5XezWaG8fE) | 2:59 | 2024-02-02 |  |
 | [Incognito](https://open.spotify.com/track/5lvB1y6l9FF5BiOSDPNM27) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Incognito](https://open.spotify.com/album/5S2mpgI8SRO5apKCEFSHET) | 4:01 | 2024-03-08 | 2024-03-23 |
+| [It's Saturday](https://open.spotify.com/track/7yQ7aCZgciyCJprT8sp4og) | [J\. Rey Soul](https://open.spotify.com/artist/1OB278sOZVSFx5vXqYha83), [Dj Youcef](https://open.spotify.com/artist/7dhDLHILqhHlgn0hPn8rOZ), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [It's Saturday](https://open.spotify.com/album/461Qyoq9JX5Qkpm7NT228I) | 3:44 | 2024-04-29 |  |
 | [Jet Plane](https://open.spotify.com/track/7c87NBp808HkgxfDzQCs4j) | [Gusted](https://open.spotify.com/artist/2BRM24K0fU89hsKIZZXeuZ) | [Jet Plane](https://open.spotify.com/album/0hax7oeHg8KrpWqwEsJayV) | 3:02 | 2023-10-27 |  |
 | [Last Time \(feat\. EVALINA\)](https://open.spotify.com/track/17T4FxhvOsK908WhWhk2Fn) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a), [EVALINA](https://open.spotify.com/artist/2EOdORJgTiT4w2eLQk1IWE) | [Last Time \(feat\. EVALINA\)](https://open.spotify.com/album/4B2oAJbm46T1XOnHqzLSY4) | 3:05 | 2023-11-24 |  |
 | [Lavender Haze \- Felix Jaehn Remix](https://open.spotify.com/track/5KxZfCXXmVvKhPo8hQz2pS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Lavender Haze \(Remixes\)](https://open.spotify.com/album/5LyzI39gkePgpHz38bEQIr) | 2:51 | 2023-10-27 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This Is Carlos Y Jose. Los temas esenciales, todos en una lista.",
-  "num_followers": 31472,
+  "num_followers": 31459,
   "original_name": "This Is Carlos Y Jose",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDE3NjAwMCwwMDAwMDAwMDJjZThjMWM1NDY0MDNlZDQ3N2U1ZDI4MDI2M2FlODJm",
+  "snapshot_id": "MTcxNDI2MjQwMCwwMDAwMDAwMGJjYWI1NGJkNjY3NDhlOWUwZDBlMTc5MTQyYzY3MWM4",
   "tracks": [
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 171626,
-      "name": "La Yerbabuena",
-      "url": "https://open.spotify.com/track/35h1lWDAuynGZ1EoZRBpqW"
+      "duration_ms": 168320,
+      "name": "El Jardin De Las Flores",
+      "url": "https://open.spotify.com/track/7HJvKtTt4JhknBQxVKgxbt"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 168320,
-      "name": "El Jardin De Las Flores",
-      "url": "https://open.spotify.com/track/7HJvKtTt4JhknBQxVKgxbt"
+      "duration_ms": 171626,
+      "name": "La Yerbabuena",
+      "url": "https://open.spotify.com/track/35h1lWDAuynGZ1EoZRBpqW"
     },
     {
       "added_at": null,

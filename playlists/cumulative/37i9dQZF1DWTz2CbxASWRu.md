@@ -4,7 +4,7 @@
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-562 songs - 1 day 17 hr 21 min
+563 songs - 1 day 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -473,6 +473,7 @@
 | [Sueno en Paraguay](https://open.spotify.com/track/5VOMJBi8KMutN8DUB1ZYro) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Amansara](https://open.spotify.com/album/7KJruqiZwhVmnfW3CfvIPu) | 3:53 | 2023-07-10 | 2024-04-19 |
 | [Sueña](https://open.spotify.com/track/36AqjVOrwb29Xc31RBDJAy) | [Sonia De Los Santos](https://open.spotify.com/artist/4aNmQzHcg0vTqPSauw4CKr), [Zeudi Castañeda](https://open.spotify.com/artist/3pwMCl20rE77YMGgCanTif) | [Esperanza](https://open.spotify.com/album/6Xsju25I5pCP0cCNgXs2iv) | 3:04 | 2023-07-10 |  |
 | [Sueños De Libertad](https://open.spotify.com/track/13wni7XVGxszlUbQ9tByJK) | [Juanita Euka](https://open.spotify.com/artist/5a7zFB39QFXzf8amit9zJh) | [Mabanzo](https://open.spotify.com/album/27YMkY29ejf68IpDywP91w) | 4:33 | 2024-03-08 |  |
+| [Supernova](https://open.spotify.com/track/4CPpoQbZftMNHd3NjirWLk) | [Meklit](https://open.spotify.com/artist/4I5bRwfigd1Fj1ciXo7jQH) | [Supernova \(Remixes\)](https://open.spotify.com/album/4jzi6QFj69WtIzn8cPqaEj) | 5:42 | 2024-03-08 |  |
 | [Suumo](https://open.spotify.com/track/41jAZRB7AjJZNOzAgCkvrM) | [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U), [K.O.G](https://open.spotify.com/artist/6n5BdjorrfFAe3OVqHHfUi) | [Y Su Descarga Internacional](https://open.spotify.com/album/5lCofRvucN41wJestulzNM) | 5:14 | 2024-03-08 |  |
 | [Só Nós Dois](https://open.spotify.com/track/3yiXy2ydZP9ZpsYxvUI6sO) | [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Só Nós Dois](https://open.spotify.com/album/0riMkWHIG90iXfB2WKQTq3) | 3:48 | 2023-07-10 |  |
 | [Ta Lassa \- Hide & Smile Edit](https://open.spotify.com/track/4zO3tHghEN89LhG7zbMGtk) | [International Soleil Band](https://open.spotify.com/artist/3Btuf1RlPWMzHASwRufaNs), [Hide & Smile](https://open.spotify.com/artist/19WmN3fivUDmFsGcxXmlQ8) | [Ta Lassa](https://open.spotify.com/album/6EnZA0e6ioxGM68gWinLlv) | 6:16 | 2023-07-10 | 2023-09-24 |
@@ -508,7 +509,7 @@
 | [Tiene Sabor, Tiene Sazón](https://open.spotify.com/track/6OghUc8FwEZOvEszyVud28) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Ondatrópica](https://open.spotify.com/album/5OfBaqQtoYQc3i0LgKVAEC) | 4:33 | 2023-07-10 | 2024-04-19 |
 | [Tiku La Hina](https://open.spotify.com/track/4zfSgk8S1mq8klntilxm1k) | [Samito](https://open.spotify.com/artist/2LwqwmIDSWwNV1lDjqKqCN) | [Tiku La Hina](https://open.spotify.com/album/7uFTZvSJt4bZeoGZxNSyYe) | 4:02 | 2023-07-10 |  |
 | [Till Then](https://open.spotify.com/track/56o2Y7yCupDH4uqn4vayMc) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP) | [Nothing More to Say](https://open.spotify.com/album/5oGtxusqxowETVnVokdqME) | 3:21 | 2023-07-10 | 2024-04-19 |
-| [Till Then](https://open.spotify.com/track/7IEaxDFdRJyEpKVYV6iAds) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP) | [Nothing More to Say](https://open.spotify.com/album/2QjhLePTnaWv2eBUbCwceA) | 3:21 | 2024-03-08 |  |
+| [Till Then](https://open.spotify.com/track/7IEaxDFdRJyEpKVYV6iAds) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP) | [Nothing More to Say](https://open.spotify.com/album/2QjhLePTnaWv2eBUbCwceA) | 3:21 | 2024-03-08 | 2024-04-30 |
 | [Time Will Tell](https://open.spotify.com/track/2rjF1WaKF8ymmgAR6EokR3) | [Kolonien](https://open.spotify.com/artist/1Grb25RtI3EIYzL2r2yLy4) | [Time Will Tell](https://open.spotify.com/album/2cOogiJ39D3ESschz7jCGR) | 4:27 | 2024-03-08 |  |
 | [Tio Bernar](https://open.spotify.com/track/3tkRF4P6Cxh8Rqjo8BuV5n) | [The Ano Nobo Quartet](https://open.spotify.com/artist/0j5FtomXU4Q6hBs9YRa4zg) | [Tio Bernar](https://open.spotify.com/album/1R6H7C2SMLru7Rpg2nl6YB) | 3:37 | 2024-03-08 |  |
 | [Tite jeanne](https://open.spotify.com/track/015bKqyOq3f9pAhpvQb9cV) | [The Bongo Hop](https://open.spotify.com/artist/0vIM6xovGnCeWUNYR42Zsk), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [Satingarona, Vol\. 1](https://open.spotify.com/album/1ylysR6fqyNNJmuuyCIf5C) | 4:59 | 2023-07-10 |  |

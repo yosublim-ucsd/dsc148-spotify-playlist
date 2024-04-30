@@ -1,5 +1,5 @@
 {
-  "2024-04-29": 316124,
+  "2024-04-30": 316148,
   "date_first_scraped": "2022-08-20",
   "description": "Floor fillers to soundtrack the happiest day of your life.",
   "name": "Wedding Party",
@@ -97,6 +97,28 @@
       "duration_ms": 211066,
       "name": "...Baby One More Time",
       "url": "https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa"
+    },
+    {
+      "album": {
+        "name": "Elvis 75 - Good Rockin' Tonight",
+        "url": "https://open.spotify.com/album/34EYk8vvJHCUlNrpGxepea"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        },
+        {
+          "name": "JXL",
+          "url": "https://open.spotify.com/artist/2GyakhIO8twSgCnUFfCzTN"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211173,
+      "name": "A Little Less Conversation - JXL Radio Edit Remix",
+      "url": "https://open.spotify.com/track/4l2hnfUx0esSbITQa7iJt0"
     },
     {
       "album": {
@@ -355,6 +377,28 @@
       "duration_ms": 284733,
       "name": "American Boy",
       "url": "https://open.spotify.com/track/6etwirSInfuJrSOlogS6Sh"
+    },
+    {
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/4nAIqmKELnBEXEkYg1pMic"
+      },
+      "artists": [
+        {
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284733,
+      "name": "American Boy (feat. Kanye West)",
+      "url": "https://open.spotify.com/track/41on8RwRh22IHcChAN2gm8"
     },
     {
       "album": {
@@ -839,7 +883,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 275440,
       "name": "Don't Go Breaking My Heart",
       "url": "https://open.spotify.com/track/5nPdMALTEd7HOjn16oNf2X"
@@ -2719,7 +2763,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 232760,
       "name": "Sir Duke",
       "url": "https://open.spotify.com/track/2udw7RDkldLFIPG9WYdVtT"

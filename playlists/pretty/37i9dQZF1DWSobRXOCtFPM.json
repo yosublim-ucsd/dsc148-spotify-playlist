@@ -1,15 +1,435 @@
 {
   "description": "Listen to  <a href=\"spotify:artist:19SmlbABtI4bXz864MLqOS\">Carl Cox</a>' favorite tracks. Updated regularly. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 129022,
+  "num_followers": 129018,
   "original_name": "Carl Cox' track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzIwMjMxNywwMDAwMDAwMGU4OTJhOWVkMmNhZTMyMDk5MGE0NDdkZDAzMGMwMzhl",
+  "snapshot_id": "MTcxNDQxMzIxNywwMDAwMDAwMGNhYjcwMjYzN2Q0ZTRiY2M3MjQ1ZDA5OTUyYTJhOGY0",
   "tracks": [
     {
-      "added_at": "2024-04-15 17:31:57",
+      "added_at": "2024-04-29 17:53:37",
+      "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "Ehsan Gelsi",
+          "url": "https://open.spotify.com/artist/59PU1eVXuT3lBjbbUngmWs"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Take Me To Your Leader - Mixed",
+      "url": "https://open.spotify.com/track/0Ihc3ohak655pt8t5XAmsd"
+    },
+    {
+      "added_at": "2024-04-29 17:53:37",
+      "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "Julien Chaptal",
+          "url": "https://open.spotify.com/artist/6BLHSrc2ISmwPtMiJRIim2"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "To Be Ob - Mixed",
+      "url": "https://open.spotify.com/track/4Xw9KCBIBhkMmtgB0VsHYS"
+    },
+    {
+      "added_at": "2024-04-29 17:53:37",
+      "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "An On Bast",
+          "url": "https://open.spotify.com/artist/4qIHzBkWUueYNuEl3xCDHs"
+        },
+        {
+          "name": "Marc Romboy",
+          "url": "https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5"
+        }
+      ],
+      "duration_ms": 281367,
+      "name": "Climb The Tree (Marc Romboy Remix) - Mixed",
+      "url": "https://open.spotify.com/track/5NLvNOSFhOQ8usa1j0FJi1"
+    },
+    {
+      "added_at": "2024-04-29 17:53:37",
+      "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "Harmonik Kontrol",
+          "url": "https://open.spotify.com/artist/5U1aEIhlv3Uyt0LT1GJHln"
+        }
+      ],
+      "duration_ms": 327271,
+      "name": "Pablo Assan - Mixed",
+      "url": "https://open.spotify.com/track/5UfrmNZquTXyVNDcocA2m1"
+    },
+    {
+      "added_at": "2024-04-29 17:53:37",
+      "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "Hannes Bieger",
+          "url": "https://open.spotify.com/artist/3t6NA1aXgEgmkhKGf2bsP9"
+        },
+        {
+          "name": "Christopher Coe",
+          "url": "https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP"
+        }
+      ],
+      "duration_ms": 261815,
+      "name": "Poem for the Planet (Christopher Coe Remix) - Mixed",
+      "url": "https://open.spotify.com/track/2AL8d4kEL3oEN3jalJehYg"
+    },
+    {
+      "added_at": "2024-04-29 17:53:37",
+      "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "Marc Romboy",
+          "url": "https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5"
+        }
+      ],
+      "duration_ms": 276362,
+      "name": "Gangwon - Mixed",
+      "url": "https://open.spotify.com/track/7ateuqPb1rUOwff5nWFq2t"
+    },
+    {
+      "added_at": "2024-04-29 17:53:37",
+      "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "De Sluwe Vos",
+          "url": "https://open.spotify.com/artist/6NOaZCnZyowwJiTHbh5dLS"
+        }
+      ],
+      "duration_ms": 174706,
+      "name": "Subterranean Cloud - Mixed",
+      "url": "https://open.spotify.com/track/3Jl6hSpNnLRqsjajDPQSXF"
+    },
+    {
+      "added_at": "2024-04-29 17:53:37",
+      "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "Christopher Coe",
+          "url": "https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP"
+        }
+      ],
+      "duration_ms": 374384,
+      "name": "My Dark Materials - Mixed",
+      "url": "https://open.spotify.com/track/6yGpL26LaxfI1QGMl9VjmW"
+    },
+    {
+      "added_at": "2024-04-29 17:53:37",
+      "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "Charlie Thorstenson",
+          "url": "https://open.spotify.com/artist/4z8CviapCGt8PluR1ORwbH"
+        }
+      ],
+      "duration_ms": 269091,
+      "name": "Handlingskraft - Mixed",
+      "url": "https://open.spotify.com/track/3Xos7pA0UFacmcQD46h8rO"
+    },
+    {
+      "added_at": "2024-04-29 17:53:37",
+      "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "Robert Babicz",
+          "url": "https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB"
+        }
+      ],
+      "duration_ms": 356367,
+      "name": "Magic Club Nights - Mixed",
+      "url": "https://open.spotify.com/track/4Q91jjRakhZrOfRY3sZ3Y1"
+    },
+    {
+      "added_at": "2024-04-29 17:53:37",
+      "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "Hannes Bieger",
+          "url": "https://open.spotify.com/artist/3t6NA1aXgEgmkhKGf2bsP9"
+        }
+      ],
+      "duration_ms": 348632,
+      "name": "Pacana - Mixed",
+      "url": "https://open.spotify.com/track/1gSrSoUrCsmGkSuqsmK6nl"
+    },
+    {
+      "added_at": "2024-04-29 17:53:37",
+      "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        }
+      ],
+      "duration_ms": 330000,
+      "name": "Purple Eye - Mixed",
+      "url": "https://open.spotify.com/track/32E7D0IqDZtzwh2Exf306b"
+    },
+    {
+      "added_at": "2024-04-29 17:53:37",
+      "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "Stimming",
+          "url": "https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ"
+        }
+      ],
+      "duration_ms": 381738,
+      "name": "DFAM on the Field - Mixed",
+      "url": "https://open.spotify.com/track/7elWlZIaZJ063CNhiFJVK6"
+    },
+    {
+      "added_at": "2024-04-29 17:53:37",
+      "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "Momec",
+          "url": "https://open.spotify.com/artist/2UqM2Io9TkPIFg12lMRu9V"
+        }
+      ],
+      "duration_ms": 329165,
+      "name": "Wormhole - Mixed",
+      "url": "https://open.spotify.com/track/3g9Uqq95TXkd11NGL4YV9B"
+    },
+    {
+      "added_at": "2024-04-29 17:53:37",
+      "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "Hybrasil",
+          "url": "https://open.spotify.com/artist/5CA28dVSclgwdKigfNDWtI"
+        }
+      ],
+      "duration_ms": 225007,
+      "name": "Tailtiu - Mixed",
+      "url": "https://open.spotify.com/track/4BmXcPhsH69andXjWPrZrd"
+    },
+    {
+      "added_at": "2024-04-29 17:53:37",
+      "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "Mat Playford",
+          "url": "https://open.spotify.com/artist/5hNs2vvPOq8U24ZsZzS7es"
+        }
+      ],
+      "duration_ms": 225908,
+      "name": "Shifu - Mixed",
+      "url": "https://open.spotify.com/track/0tibvirh0Pz5fStH4dfI8S"
+    },
+    {
+      "added_at": "2024-04-29 17:53:37",
+      "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "Honeysmack",
+          "url": "https://open.spotify.com/artist/20KZSgLQuLYmEtKsR0TwqY"
+        }
+      ],
+      "duration_ms": 275907,
+      "name": "Fortunate 500GB - Mixed",
+      "url": "https://open.spotify.com/track/5o9gVIunYPp2hmCJlym3Dw"
+    },
+    {
+      "added_at": "2024-04-29 17:53:37",
+      "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "Digital Afrika",
+          "url": "https://open.spotify.com/artist/2FtoiNNAAX9Xd2UJwQ9Esw"
+        }
+      ],
+      "duration_ms": 203637,
+      "name": "Lavapies - Mixed",
+      "url": "https://open.spotify.com/track/6R6x4SoNOpYqs5M4uFmPOD"
+    },
+    {
+      "added_at": "2024-04-29 17:53:37",
+      "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "Monolith",
+          "url": "https://open.spotify.com/artist/1lAiqmElW2YfeYVQbKWrBI"
+        }
+      ],
+      "duration_ms": 221815,
+      "name": "Cowdry - Mixed",
+      "url": "https://open.spotify.com/track/3z6iOoOWRRzCIe2LkAhT6S"
+    },
+    {
+      "added_at": "2024-04-29 17:53:37",
+      "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "Vitalic",
+          "url": "https://open.spotify.com/artist/4M84umUNRbZy1mJleyyRM9"
+        }
+      ],
+      "duration_ms": 221821,
+      "name": "And It Goes Like - Mixed",
+      "url": "https://open.spotify.com/track/3sPfd9YjF7fmVwliZypqMz"
+    },
+    {
+      "added_at": "2024-04-29 17:53:37",
+      "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "Cox and Coe",
+          "url": "https://open.spotify.com/artist/03GSrqz7SauxZR5JXQvgp7"
+        },
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        },
+        {
+          "name": "Christopher Coe",
+          "url": "https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP"
+        },
+        {
+          "name": "Reb\u016bke",
+          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+        }
+      ],
+      "duration_ms": 207275,
+      "name": "Nocturnal (Reb\u016bke Edit) - Mixed",
+      "url": "https://open.spotify.com/track/6r4gWTDPplDGEfqiYxuT0L"
+    },
+    {
+      "added_at": "2024-04-29 17:53:37",
+      "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "Klauss Tejger",
+          "url": "https://open.spotify.com/artist/3FOFAmLuYkacrzNYsoRcEF"
+        }
+      ],
+      "duration_ms": 196360,
+      "name": "FIRE! - Mixed",
+      "url": "https://open.spotify.com/track/2XTsiyJl8NFgDyN7wwOXOU"
+    },
+    {
+      "added_at": "2024-04-29 17:53:37",
+      "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "NANCY Live",
+          "url": "https://open.spotify.com/artist/3u2C5jTgPLvS9FxybbEuh1"
+        }
+      ],
+      "duration_ms": 280446,
+      "name": "Cressick - Mixed",
+      "url": "https://open.spotify.com/track/0Tk8BAR0eq9cSTEqvo5ERU"
+    },
+    {
+      "added_at": "2024-04-29 17:53:37",
+      "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "Jani Ho",
+          "url": "https://open.spotify.com/artist/2AF1D7VRZr1fIKe3wWRb21"
+        }
+      ],
+      "duration_ms": 220004,
+      "name": "Angry Minimal - Mixed",
+      "url": "https://open.spotify.com/track/5Tk4lRS7lCjM7bHAXsQPnm"
+    },
+    {
+      "added_at": "2024-04-29 17:53:37",
+      "album": {
+        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
+        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
+      },
+      "artists": [
+        {
+          "name": "Saytek",
+          "url": "https://open.spotify.com/artist/51c1s2fN5DVKxQJ0mMhSHD"
+        }
+      ],
+      "duration_ms": 369410,
+      "name": "Non Stop - Mixed",
+      "url": "https://open.spotify.com/track/42fTcKAVODxkjMRSwd1lqs"
+    },
+    {
+      "added_at": "2024-04-29 17:53:37",
       "album": {
         "name": "Concentrate",
         "url": "https://open.spotify.com/album/5EhPHzAp8qZMtdB1Y2EuHP"
@@ -27,978 +447,6 @@
       "duration_ms": 163636,
       "name": "Concentrate",
       "url": "https://open.spotify.com/track/5r95IdimXwAdL3jN33BjVB"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "Climb The Tree (Marc Romboy Remix)",
-        "url": "https://open.spotify.com/album/615UGdPgSlSsZmoGLScyGN"
-      },
-      "artists": [
-        {
-          "name": "An On Bast",
-          "url": "https://open.spotify.com/artist/4qIHzBkWUueYNuEl3xCDHs"
-        },
-        {
-          "name": "Marc Romboy",
-          "url": "https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5"
-        }
-      ],
-      "duration_ms": 432755,
-      "name": "Climb The Tree - Marc Romboy Remix",
-      "url": "https://open.spotify.com/track/5mKRpmpggYyUVrr7G3k1bC"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "Rekindled - EP",
-        "url": "https://open.spotify.com/album/6vAzCXYz4s2xU5EfefPlRo"
-      },
-      "artists": [
-        {
-          "name": "Horatio",
-          "url": "https://open.spotify.com/artist/2oyhm5jH6TCq0M7eRekzMD"
-        },
-        {
-          "name": "Vikthor",
-          "url": "https://open.spotify.com/artist/0QCUDjsKGe3VqKtxl2rXkO"
-        }
-      ],
-      "duration_ms": 386980,
-      "name": "333",
-      "url": "https://open.spotify.com/track/3OWcLNzmufVpv73bm0VBaz"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "Mamma Noise - EP",
-        "url": "https://open.spotify.com/album/1DE6oRbkbyGJ0wg3hHN12K"
-      },
-      "artists": [
-        {
-          "name": "Anderson Noise",
-          "url": "https://open.spotify.com/artist/2me4xwYD90Z6cyk21AZX8i"
-        }
-      ],
-      "duration_ms": 325984,
-      "name": "Boogie Down Now",
-      "url": "https://open.spotify.com/track/06IwF60L7Z6cCLR60t84dv"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "Rekindled - EP",
-        "url": "https://open.spotify.com/album/6vAzCXYz4s2xU5EfefPlRo"
-      },
-      "artists": [
-        {
-          "name": "Horatio",
-          "url": "https://open.spotify.com/artist/2oyhm5jH6TCq0M7eRekzMD"
-        },
-        {
-          "name": "Vikthor",
-          "url": "https://open.spotify.com/artist/0QCUDjsKGe3VqKtxl2rXkO"
-        }
-      ],
-      "duration_ms": 436963,
-      "name": "Rekindled",
-      "url": "https://open.spotify.com/track/30puCr5rC2BgI7meAl4cSx"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "Nitro",
-        "url": "https://open.spotify.com/album/1Ulfcs34i5xWug4fiV0dtS"
-      },
-      "artists": [
-        {
-          "name": "Wehbba",
-          "url": "https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri"
-        }
-      ],
-      "duration_ms": 350568,
-      "name": "Frozen",
-      "url": "https://open.spotify.com/track/4xNSwGdAS330yJu9bFj9Pb"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "Everything Is Amazing",
-        "url": "https://open.spotify.com/album/0I9RDomQqWtbtVg2Yyq10M"
-      },
-      "artists": [
-        {
-          "name": "Hilit Kolet",
-          "url": "https://open.spotify.com/artist/55V8bcpuStLufEK3xFIwyy"
-        }
-      ],
-      "duration_ms": 194183,
-      "name": "Everything Is Amazing - Edit",
-      "url": "https://open.spotify.com/track/77jrsG7CbtfaM3utFZGP6d"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "Mamma Noise - EP",
-        "url": "https://open.spotify.com/album/1DE6oRbkbyGJ0wg3hHN12K"
-      },
-      "artists": [
-        {
-          "name": "Anderson Noise",
-          "url": "https://open.spotify.com/artist/2me4xwYD90Z6cyk21AZX8i"
-        }
-      ],
-      "duration_ms": 325500,
-      "name": "Mamma Noise",
-      "url": "https://open.spotify.com/track/1XIphUO0dVhjSBTn4KbTbA"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "Silver Spark",
-        "url": "https://open.spotify.com/album/0SWoFlfVjModLr3r5qeVNi"
-      },
-      "artists": [
-        {
-          "name": "Monika Kruse",
-          "url": "https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg"
-        }
-      ],
-      "duration_ms": 261176,
-      "name": "Silver Spark",
-      "url": "https://open.spotify.com/track/2oMMOQL2NiNC97TEDmyjMk"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "Rouge Acid",
-        "url": "https://open.spotify.com/album/2PSPabkQXWeqK9YwD34WGp"
-      },
-      "artists": [
-        {
-          "name": "Josh Wink",
-          "url": "https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H"
-        }
-      ],
-      "duration_ms": 408679,
-      "name": "Rouge Acid",
-      "url": "https://open.spotify.com/track/5Sv2FkzWzasTMYmWYsNa0s"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "The Unreleased Remixes, Vol. 1",
-        "url": "https://open.spotify.com/album/0exX6L0mEtWcfdrvW3TwyT"
-      },
-      "artists": [
-        {
-          "name": "Josh Wink",
-          "url": "https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H"
-        },
-        {
-          "name": "Marc Romboy",
-          "url": "https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5"
-        },
-        {
-          "name": "Andr\u00e9 Winter",
-          "url": "https://open.spotify.com/artist/3uGjpxycNoFU7hQYQduP4k"
-        }
-      ],
-      "duration_ms": 399230,
-      "name": "Talking To You (Marc Romboy & Andr\u00e9 Winter Remix)",
-      "url": "https://open.spotify.com/track/0WAjrqMeLz454UkhCdU4lM"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "Redemption",
-        "url": "https://open.spotify.com/album/5ftHU8c3OPkWMmKdtIll18"
-      },
-      "artists": [
-        {
-          "name": "FJAAK",
-          "url": "https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV"
-        }
-      ],
-      "duration_ms": 323829,
-      "name": "Redemption",
-      "url": "https://open.spotify.com/track/5bVBdOVX77LPQLUKm8MPkj"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "Time : Freedom",
-        "url": "https://open.spotify.com/album/1nbC0xSAbXVrgKEPM9Diem"
-      },
-      "artists": [
-        {
-          "name": "Kink",
-          "url": "https://open.spotify.com/artist/6yCdWsTDt4Dmb5GMZd5QLb"
-        },
-        {
-          "name": "Rachel Row",
-          "url": "https://open.spotify.com/artist/3E0eyD6r9OkoOxyAOaA7hH"
-        }
-      ],
-      "duration_ms": 251586,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/2CVD0QTp4r4EqjDpLvp1s5"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "Stop Talking",
-        "url": "https://open.spotify.com/album/43VWDwQvDb6tZ0c2hUp4tH"
-      },
-      "artists": [
-        {
-          "name": "Rory Marshall",
-          "url": "https://open.spotify.com/artist/6tS7Kh3N3ItYKa4hhy5JSE"
-        }
-      ],
-      "duration_ms": 430490,
-      "name": "Stop Talking",
-      "url": "https://open.spotify.com/track/0FL1hg0H8ZwrfnQXh1YPnu"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "Que Quiere Usted (Marc Romboy Edit)",
-        "url": "https://open.spotify.com/album/36CJ4jaknPyY7I6qAyU6lr"
-      },
-      "artists": [
-        {
-          "name": "Bawrut",
-          "url": "https://open.spotify.com/artist/15naE0RS2asDfn93USLJqV"
-        },
-        {
-          "name": "Marc Romboy",
-          "url": "https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5"
-        }
-      ],
-      "duration_ms": 263225,
-      "name": "Que Quiere Usted - Marc Romboy Edit",
-      "url": "https://open.spotify.com/track/5fiN5pewjgzGOG4zX2bEgN"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "Twenty (Live)",
-        "url": "https://open.spotify.com/album/7lIIQ36oaMlRPMOLStAqRy"
-      },
-      "artists": [
-        {
-          "name": "Saytek",
-          "url": "https://open.spotify.com/artist/51c1s2fN5DVKxQJ0mMhSHD"
-        }
-      ],
-      "duration_ms": 428571,
-      "name": "Seven Subjects - Live",
-      "url": "https://open.spotify.com/track/7zVPuyj3DM22cYio5UXWEc"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "Runnin\u2019 / AM_909",
-        "url": "https://open.spotify.com/album/3rA9h7aaGJRRqtPAS3YKUQ"
-      },
-      "artists": [
-        {
-          "name": "Deetron",
-          "url": "https://open.spotify.com/artist/0d4nL4lAEkHJIqLZSHBuav"
-        }
-      ],
-      "duration_ms": 338706,
-      "name": "AM_909",
-      "url": "https://open.spotify.com/track/6YMdkjJCuA6cpbtyD9h7ge"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "Time : Freedom",
-        "url": "https://open.spotify.com/album/1nbC0xSAbXVrgKEPM9Diem"
-      },
-      "artists": [
-        {
-          "name": "Kink",
-          "url": "https://open.spotify.com/artist/6yCdWsTDt4Dmb5GMZd5QLb"
-        },
-        {
-          "name": "Rachel Row",
-          "url": "https://open.spotify.com/artist/3E0eyD6r9OkoOxyAOaA7hH"
-        }
-      ],
-      "duration_ms": 250684,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/2FBjSjrbpy47ghH6VH9ulg"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "Step Forward EP",
-        "url": "https://open.spotify.com/album/6G9EVsvrgPLV34oAxeNx2I"
-      },
-      "artists": [
-        {
-          "name": "Ben Sterling",
-          "url": "https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL"
-        },
-        {
-          "name": "Bushwacka!",
-          "url": "https://open.spotify.com/artist/3qME1ocYrJ5U6gjWn2Lw6h"
-        }
-      ],
-      "duration_ms": 334858,
-      "name": "Step Forward - Bushwacka Remix",
-      "url": "https://open.spotify.com/track/1KQGoRUMgPTN6pLob07SIN"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "Escape (Truncate Remix)",
-        "url": "https://open.spotify.com/album/2MlgrTpsDfSIfsj8lMffhg"
-      },
-      "artists": [
-        {
-          "name": "Dubfire",
-          "url": "https://open.spotify.com/artist/3bVYqr2NfmwmL4YJisWhJI"
-        },
-        {
-          "name": "Truncate",
-          "url": "https://open.spotify.com/artist/1JxLnEvBPdm9baryEFzE50"
-        }
-      ],
-      "duration_ms": 321269,
-      "name": "Escape - Truncate Remix",
-      "url": "https://open.spotify.com/track/5I7UcCYp1qRLoF5NAe1uAZ"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "Music Made for Aliens (Remixes)",
-        "url": "https://open.spotify.com/album/3ijtQ5yWXBouR3E5jR5KXY"
-      },
-      "artists": [
-        {
-          "name": "Marc Romboy",
-          "url": "https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5"
-        },
-        {
-          "name": "Will Clarke",
-          "url": "https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi"
-        }
-      ],
-      "duration_ms": 308250,
-      "name": "Hanenda (Will Clarke Remix)",
-      "url": "https://open.spotify.com/track/4p357cUco7E48fyTNAUcqT"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "Tender Perceptions",
-        "url": "https://open.spotify.com/album/4O5hCAjwwVOh42ictNAf0K"
-      },
-      "artists": [
-        {
-          "name": "An On Bast",
-          "url": "https://open.spotify.com/artist/4qIHzBkWUueYNuEl3xCDHs"
-        }
-      ],
-      "duration_ms": 428668,
-      "name": "The Way I Want",
-      "url": "https://open.spotify.com/track/2w6sztEz9aeDYQFPIwMF47"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "Elderberry",
-        "url": "https://open.spotify.com/album/6lwKzII8SY9xBrzVGhpmPX"
-      },
-      "artists": [
-        {
-          "name": "Stimming",
-          "url": "https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ"
-        }
-      ],
-      "duration_ms": 306180,
-      "name": "Seiler and Typhon",
-      "url": "https://open.spotify.com/track/789dOY6POjln1LaEy2Hg1r"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "Tender Perceptions",
-        "url": "https://open.spotify.com/album/4O5hCAjwwVOh42ictNAf0K"
-      },
-      "artists": [
-        {
-          "name": "An On Bast",
-          "url": "https://open.spotify.com/artist/4qIHzBkWUueYNuEl3xCDHs"
-        }
-      ],
-      "duration_ms": 409414,
-      "name": "I Am the Projector",
-      "url": "https://open.spotify.com/track/3gjDMSkLime3TyHZXpgSbi"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "Mindset (The Rebuke Edits)",
-        "url": "https://open.spotify.com/album/2cdMahFloyLuCPKzRDpfCw"
-      },
-      "artists": [
-        {
-          "name": "Cox and Coe",
-          "url": "https://open.spotify.com/artist/03GSrqz7SauxZR5JXQvgp7"
-        },
-        {
-          "name": "Carl Cox",
-          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
-        },
-        {
-          "name": "Reb\u016bke",
-          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
-        },
-        {
-          "name": "Christopher Coe",
-          "url": "https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP"
-        }
-      ],
-      "duration_ms": 387688,
-      "name": "Nocturnal - Rebuke Edit",
-      "url": "https://open.spotify.com/track/6S6NVm1rjajtGhZpBv2L9i"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "Tender Perceptions",
-        "url": "https://open.spotify.com/album/4O5hCAjwwVOh42ictNAf0K"
-      },
-      "artists": [
-        {
-          "name": "An On Bast",
-          "url": "https://open.spotify.com/artist/4qIHzBkWUueYNuEl3xCDHs"
-        }
-      ],
-      "duration_ms": 349327,
-      "name": "Climb the Tree",
-      "url": "https://open.spotify.com/track/3463wlflWy0Hw7rbyeQK74"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "Mindset (The Rebuke Edits)",
-        "url": "https://open.spotify.com/album/2cdMahFloyLuCPKzRDpfCw"
-      },
-      "artists": [
-        {
-          "name": "Cox and Coe",
-          "url": "https://open.spotify.com/artist/03GSrqz7SauxZR5JXQvgp7"
-        },
-        {
-          "name": "Carl Cox",
-          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
-        },
-        {
-          "name": "Reb\u016bke",
-          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
-        },
-        {
-          "name": "Christopher Coe",
-          "url": "https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP"
-        }
-      ],
-      "duration_ms": 324930,
-      "name": "Cluster - Rebuke Edit",
-      "url": "https://open.spotify.com/track/7KF47LKed6soZYn6bWopiO"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "Mindset (The Rebuke Edits)",
-        "url": "https://open.spotify.com/album/2cdMahFloyLuCPKzRDpfCw"
-      },
-      "artists": [
-        {
-          "name": "Cox and Coe",
-          "url": "https://open.spotify.com/artist/03GSrqz7SauxZR5JXQvgp7"
-        },
-        {
-          "name": "Carl Cox",
-          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
-        },
-        {
-          "name": "Reb\u016bke",
-          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
-        },
-        {
-          "name": "Christopher Coe",
-          "url": "https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP"
-        }
-      ],
-      "duration_ms": 258459,
-      "name": "The Dust Arrival - Rebuke Edit",
-      "url": "https://open.spotify.com/track/5xN35R4QaEIFKQkJNT6Rv1"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "Wig Owt",
-        "url": "https://open.spotify.com/album/6r86E8aLCHw6OFTSFzl7Cq"
-      },
-      "artists": [
-        {
-          "name": "Rory Marshall",
-          "url": "https://open.spotify.com/artist/6tS7Kh3N3ItYKa4hhy5JSE"
-        }
-      ],
-      "duration_ms": 379246,
-      "name": "Wig Owt - Extended Mix",
-      "url": "https://open.spotify.com/track/6wlZOUhzYqG9vdBGrEFf2J"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "Elderberry",
-        "url": "https://open.spotify.com/album/6lwKzII8SY9xBrzVGhpmPX"
-      },
-      "artists": [
-        {
-          "name": "Stimming",
-          "url": "https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ"
-        }
-      ],
-      "duration_ms": 269815,
-      "name": "People Do",
-      "url": "https://open.spotify.com/track/5iRhRQ6Hvdilz8EghmnQad"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "Rhythm Of Future",
-        "url": "https://open.spotify.com/album/0NTbb6gFlEvf9R8s7Wh6Zk"
-      },
-      "artists": [
-        {
-          "name": "Kreso",
-          "url": "https://open.spotify.com/artist/6L2QcHmLKEJTB2XhODBAyT"
-        },
-        {
-          "name": "Just Frank",
-          "url": "https://open.spotify.com/artist/6tMD9uX2BaPLnKloVrjiuV"
-        }
-      ],
-      "duration_ms": 391632,
-      "name": "Rhythm Of Future",
-      "url": "https://open.spotify.com/track/5ByyD34KLxs9ERAQ1Khcfv"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "Elderberry",
-        "url": "https://open.spotify.com/album/6lwKzII8SY9xBrzVGhpmPX"
-      },
-      "artists": [
-        {
-          "name": "Stimming",
-          "url": "https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ"
-        }
-      ],
-      "duration_ms": 358081,
-      "name": "She Hates That Chord",
-      "url": "https://open.spotify.com/track/6KG3nib4DciCHi9L4QVfH7"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "Music Is Life",
-        "url": "https://open.spotify.com/album/7ryXbYGT910BTiS6yLAiSn"
-      },
-      "artists": [
-        {
-          "name": "Bushwacka!",
-          "url": "https://open.spotify.com/artist/3qME1ocYrJ5U6gjWn2Lw6h"
-        },
-        {
-          "name": "Carl Cox",
-          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
-        },
-        {
-          "name": "Chuck Roberts",
-          "url": "https://open.spotify.com/artist/239FYJjvsOE1bGL58BSVgu"
-        }
-      ],
-      "duration_ms": 414698,
-      "name": "Music Is Life - Deep Mix",
-      "url": "https://open.spotify.com/track/5nCFYGPlcrlpuPGMkEwjgm"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "Electronic Generations",
-        "url": "https://open.spotify.com/album/6tvLPBwE0Yd4VLwsTvGL3Z"
-      },
-      "artists": [
-        {
-          "name": "Carl Cox",
-          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
-        }
-      ],
-      "duration_ms": 362221,
-      "name": "Get After It",
-      "url": "https://open.spotify.com/track/2X4XzzpdI1eMMFPMsScPov"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "Music Is Life",
-        "url": "https://open.spotify.com/album/7ryXbYGT910BTiS6yLAiSn"
-      },
-      "artists": [
-        {
-          "name": "Bushwacka!",
-          "url": "https://open.spotify.com/artist/3qME1ocYrJ5U6gjWn2Lw6h"
-        },
-        {
-          "name": "Carl Cox",
-          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
-        },
-        {
-          "name": "Chuck Roberts",
-          "url": "https://open.spotify.com/artist/239FYJjvsOE1bGL58BSVgu"
-        }
-      ],
-      "duration_ms": 365871,
-      "name": "Music Is Life - Main Mix",
-      "url": "https://open.spotify.com/track/1Wy9vsNoymAlUsr4NpV5C9"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "Rhythm Of Future",
-        "url": "https://open.spotify.com/album/0NTbb6gFlEvf9R8s7Wh6Zk"
-      },
-      "artists": [
-        {
-          "name": "Kreso",
-          "url": "https://open.spotify.com/artist/6L2QcHmLKEJTB2XhODBAyT"
-        },
-        {
-          "name": "Just Frank",
-          "url": "https://open.spotify.com/artist/6tMD9uX2BaPLnKloVrjiuV"
-        }
-      ],
-      "duration_ms": 351871,
-      "name": "This Is",
-      "url": "https://open.spotify.com/track/29POmyLzrgJDQZLhNJNZd0"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "Momentum EP",
-        "url": "https://open.spotify.com/album/6SWmGg9QPqD9t4j4x6N4E2"
-      },
-      "artists": [
-        {
-          "name": "Ramon Tapia",
-          "url": "https://open.spotify.com/artist/5BFl4h5TXYSSJsCteTX3s1"
-        },
-        {
-          "name": "Gaston Zani",
-          "url": "https://open.spotify.com/artist/2uU0gIFQJd8zSyAaxhhoL1"
-        }
-      ],
-      "duration_ms": 399480,
-      "name": "Friction",
-      "url": "https://open.spotify.com/track/1zpsyx9HYDqYv99kc6wez0"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "Gear Up EP",
-        "url": "https://open.spotify.com/album/29FPDcBOHi3Wqwai1QCb9z"
-      },
-      "artists": [
-        {
-          "name": "Hertz",
-          "url": "https://open.spotify.com/artist/2tH4HqwEi0m5fBvB2dB7q7"
-        }
-      ],
-      "duration_ms": 362721,
-      "name": "Clutch",
-      "url": "https://open.spotify.com/track/24q0bWuSnuKfwEzw4fNPcu"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "20HZ (Remixes)",
-        "url": "https://open.spotify.com/album/3f9mgadeL04VN4LIwtDOgL"
-      },
-      "artists": [
-        {
-          "name": "Capricorn",
-          "url": "https://open.spotify.com/artist/27kBITGF0FaikAGzLhGS3l"
-        },
-        {
-          "name": "Carl Cox",
-          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
-        }
-      ],
-      "duration_ms": 409000,
-      "name": "20HZ - Carl Cox Remix",
-      "url": "https://open.spotify.com/track/4OMCH12g8VOh1Rqoy9ResS"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "Underground : Techno",
-        "url": "https://open.spotify.com/album/4834u6kQbxg8pR30yAm9xl"
-      },
-      "artists": [
-        {
-          "name": "Carl Cox",
-          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
-        }
-      ],
-      "duration_ms": 297466,
-      "name": "Acid Charge",
-      "url": "https://open.spotify.com/track/6GZ5QBzF4MzqWvCajqXNnl"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "Music Made for Aliens",
-        "url": "https://open.spotify.com/album/2mFKFYNlT5gYdBaAGbRHnP"
-      },
-      "artists": [
-        {
-          "name": "Marc Romboy",
-          "url": "https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5"
-        }
-      ],
-      "duration_ms": 418665,
-      "name": "Hanenda",
-      "url": "https://open.spotify.com/track/3TqSZhXBJyfEbqVC7NwFUS"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "MBPN, Vol. 1",
-        "url": "https://open.spotify.com/album/1Hlt0D5yvOcIGCCdDc5kBJ"
-      },
-      "artists": [
-        {
-          "name": "Misstress Barbara",
-          "url": "https://open.spotify.com/artist/1Bhw1NGkIlsdVb8NXOymzk"
-        },
-        {
-          "name": "Paul Nazca",
-          "url": "https://open.spotify.com/artist/4iLd6oVZU2tHBHlfxEuusQ"
-        }
-      ],
-      "duration_ms": 343111,
-      "name": "Corniche",
-      "url": "https://open.spotify.com/track/3meaDVtgpm76O6RrJu9bKd"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "Funk EP",
-        "url": "https://open.spotify.com/album/363sAyWoJxfOLgrlmuesiM"
-      },
-      "artists": [
-        {
-          "name": "Uncertain",
-          "url": "https://open.spotify.com/artist/0u1M59PvHe4xP7dhzi2ccm"
-        }
-      ],
-      "duration_ms": 361176,
-      "name": "Frame",
-      "url": "https://open.spotify.com/track/03owGeQybSsnpreChFqoSq"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "Voicemail (Layton Giordani Remix)",
-        "url": "https://open.spotify.com/album/2Nm01e295X9vBLH3g9FJBo"
-      },
-      "artists": [
-        {
-          "name": "Green Velvet",
-          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
-        },
-        {
-          "name": "Patrick Topping",
-          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
-        },
-        {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
-        }
-      ],
-      "duration_ms": 275472,
-      "name": "Voicemail - Layton Giordani Remix",
-      "url": "https://open.spotify.com/track/2Fm1CwqVf3TN0dlZSy0lyE"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "Wait A Minute (Dixon Extension)",
-        "url": "https://open.spotify.com/album/2bkhNP3qpPZFAEK6me4hoT"
-      },
-      "artists": [
-        {
-          "name": "Radio Slave",
-          "url": "https://open.spotify.com/artist/4rzWjR3L3M54c6I25NzdM3"
-        },
-        {
-          "name": "NEZ",
-          "url": "https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW"
-        },
-        {
-          "name": "Dixon",
-          "url": "https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9"
-        }
-      ],
-      "duration_ms": 387096,
-      "name": "Wait A Minute - Dixon Extension",
-      "url": "https://open.spotify.com/track/2O2oWOUJM14dWhQNpkcSbD"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "Illusion Of Touch EP",
-        "url": "https://open.spotify.com/album/6H6U4SSfbOlNaXS7aiXDVT"
-      },
-      "artists": [
-        {
-          "name": "DJ Dextro",
-          "url": "https://open.spotify.com/artist/3ygZ5oQeymor1LlYuGV3FO"
-        }
-      ],
-      "duration_ms": 326758,
-      "name": "Self Inductance",
-      "url": "https://open.spotify.com/track/2tAsOfI49k9BRLlQpAtPLr"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "Release",
-        "url": "https://open.spotify.com/album/0ZWmp1nstHHDmZRpEGTFu5"
-      },
-      "artists": [
-        {
-          "name": "Horatio",
-          "url": "https://open.spotify.com/artist/2oyhm5jH6TCq0M7eRekzMD"
-        },
-        {
-          "name": "Angelica de No",
-          "url": "https://open.spotify.com/artist/5MINOFapmx47AHSzgeWAd4"
-        },
-        {
-          "name": "Tech Us Out",
-          "url": "https://open.spotify.com/artist/4RYIvQkrR2g886yxR4ZYlM"
-        }
-      ],
-      "duration_ms": 422776,
-      "name": "Release - Tech Us Out Remix",
-      "url": "https://open.spotify.com/track/23ugKR2aqOUQCNPzvXn2i2"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "Activate EP",
-        "url": "https://open.spotify.com/album/0FEUKiJyvP1kxSuK3fKn6A"
-      },
-      "artists": [
-        {
-          "name": "Slam",
-          "url": "https://open.spotify.com/artist/0Y0Kj7BOR5DM0UevuY7IvO"
-        }
-      ],
-      "duration_ms": 338419,
-      "name": "Activate",
-      "url": "https://open.spotify.com/track/2OaNFUxX5RcGTzu4WbY0lK"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "33 Tours Et Puis S\u2019en Vont",
-        "url": "https://open.spotify.com/album/3XSKAzY7vrFudIP2aafoBE"
-      },
-      "artists": [
-        {
-          "name": "Laurent Garnier",
-          "url": "https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ"
-        },
-        {
-          "name": "Alan Watts",
-          "url": "https://open.spotify.com/artist/2CCcoAwiAwpIs1hcsqkk3b"
-        }
-      ],
-      "duration_ms": 656962,
-      "name": "Tales from The Real World",
-      "url": "https://open.spotify.com/track/5JuGY5qQy5byKT3RB04bYV"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "In My Heart (Carl Cox Remix)",
-        "url": "https://open.spotify.com/album/14Sr0sWU85bqAA9uPeNOUd"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        },
-        {
-          "name": "Carl Cox",
-          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
-        },
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 471493,
-      "name": "In My Heart - Carl Cox Remix",
-      "url": "https://open.spotify.com/track/7H823ThTNZdVFpfiJCjl1f"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "Work Ya Ass",
-        "url": "https://open.spotify.com/album/4fo9f5ooi2Jd4cLZ62hjWr"
-      },
-      "artists": [
-        {
-          "name": "Truncate",
-          "url": "https://open.spotify.com/artist/1JxLnEvBPdm9baryEFzE50"
-        },
-        {
-          "name": "Ben Sims",
-          "url": "https://open.spotify.com/artist/5wW4dvR027rdRFG0mtvckt"
-        }
-      ],
-      "duration_ms": 310920,
-      "name": "Work Ya Ass (Ben Sims JFF Edit)",
-      "url": "https://open.spotify.com/track/4rM7f0BkgINfLGuNleHNhK"
-    },
-    {
-      "added_at": "2024-04-15 17:31:57",
-      "album": {
-        "name": "Perception",
-        "url": "https://open.spotify.com/album/3kKpXacCqn5kUo5wSbP93Z"
-      },
-      "artists": [
-        {
-          "name": "Belocca",
-          "url": "https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN"
-        }
-      ],
-      "duration_ms": 377769,
-      "name": "Oracle",
-      "url": "https://open.spotify.com/track/6MR95yRF4sQmofUKuCErJe"
     }
   ],
   "unique_name": "Carl Cox' track IDs",

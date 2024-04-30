@@ -1,12 +1,12 @@
 {
-  "description": "This is Los Relampagos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 7044,
+  "description": "This Is Los Relampagos Del Norte. Los temas esenciales, todos en una lista.",
+  "num_followers": 7040,
   "original_name": "This Is Los Relampagos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDE3NjAwMCwwMDAwMDAwMDc1NDk5YzM4ZDExZDJkNDZlYjgzZDlhOTA4YmQ0ZmNi",
+  "snapshot_id": "MTcxNDI2MjQwMCwwMDAwMDAwMDBmNTBhZjBmMDI5MzI1M2E4ODM4ODBkM2YwYjdjYmMz",
   "tracks": [
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puras Cantineras, Vol. 1",
-        "url": "https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 132853,
-      "name": "Ven a Decirme",
-      "url": "https://open.spotify.com/track/5JPYHivczvHw5bjav4COLC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15 Boleros de Colecci\u00f3n, vol. 2",
         "url": "https://open.spotify.com/album/6GqILMDFoeerlBqSL8QnhS"
       },
@@ -691,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Exitos",
-        "url": "https://open.spotify.com/album/3R2YtOfQnRScWMilGDVz0H"
+        "name": "Puras Cantineras, Vol. 1",
+        "url": "https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX"
       },
       "artists": [
         {
@@ -700,9 +684,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 200173,
-      "name": "Me Moriria",
-      "url": "https://open.spotify.com/track/1WPO1NLdInUUPChlLUkOu0"
+      "duration_ms": 132853,
+      "name": "Ven a Decirme",
+      "url": "https://open.spotify.com/track/5JPYHivczvHw5bjav4COLC"
     }
   ],
   "unique_name": "This Is Los Relampagos Del Norte",

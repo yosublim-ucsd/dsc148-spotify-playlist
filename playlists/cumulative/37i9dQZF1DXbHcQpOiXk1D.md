@@ -2,9 +2,9 @@
 
 ### [Jazz UK](https://open.spotify.com/playlist/37i9dQZF1DXbHcQpOiXk1D)
 
-> The best from Britain's vibrant scene\. Cover: Shabaka
+> The best from Britain's vibrant scene\. Cover: Ezra Collective
 
-562 songs - 1 day 15 hr 57 min
+564 songs - 1 day 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Age Of Ascent](https://open.spotify.com/track/73sqtnhstOOj2fiqVGCA4X) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/5pJXka0Joj77KqooPlQwFu) | 4:58 | 2023-05-18 | 2023-10-18 |
 | [Aged Eyes](https://open.spotify.com/track/0gQbyxRhcMI8SM4eMZpSZF) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Kaya Thomas\-Dyke](https://open.spotify.com/artist/12WK0pR6DK71O5uqTHWzyE) | [Variables](https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6) | 4:06 | 2023-04-28 | 2024-04-19 |
 | [Aged Eyes](https://open.spotify.com/track/7xtWxotWjZAFB1rw5J3HHz) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Kaya Thomas\-Dyke](https://open.spotify.com/artist/12WK0pR6DK71O5uqTHWzyE) | [Aged Eyes](https://open.spotify.com/album/7A6hBg9U4hIYiCLcthKQzG) | 4:06 | 2023-03-04 | 2023-05-01 |
+| [Ajala](https://open.spotify.com/track/7vRQeQcvAuf35fgKMou99k) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Ajala](https://open.spotify.com/album/1kAexOnDyQcgwvMM3mFkjX) | 4:21 | 2024-04-29 |  |
 | [Alchemy](https://open.spotify.com/track/1bP5YTdgH4jr13CDDSpBdE) | [INDIA BLUE](https://open.spotify.com/artist/5M91kIFBO3vwGoHceiMugI) | [Alchemy](https://open.spotify.com/album/4Xwwc7D75MxlvO8mAs78BV) | 3:13 | 2024-03-08 | 2024-03-12 |
 | [All Black Everything](https://open.spotify.com/track/2qZpjV0ABiaoMBhjslXXkf) | [Amy Gadiaga](https://open.spotify.com/artist/0dxlAHVTQOgD6ZRwSeit7x) | [All Black Everything](https://open.spotify.com/album/1mEy3yttQpCAuNwdMc1Qng) | 5:06 | 2024-03-08 |  |
 | [Amore](https://open.spotify.com/track/79XalTrDNhOxCWnWvG8uDj) | [Sonia Elisheva](https://open.spotify.com/artist/6xEZnusCKQZ2egFqej09i7) | [Amore](https://open.spotify.com/album/2MXAi2kBaTl2rs0u7AvRCO) | 3:08 | 2023-03-08 | 2024-03-12 |
@@ -142,7 +143,7 @@
 | [Ego Killah](https://open.spotify.com/track/4i1vC7Wy7Zgg5c3Fl58gNN) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Ego Killah](https://open.spotify.com/album/3qlhwRcMzkHVoUnq6uNGtw) | 5:55 | 2023-09-01 | 2023-12-06 |
 | [Ego Killah](https://open.spotify.com/track/5MDRYiFfcyCa2AcLbSoGmR) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Ego Killah](https://open.spotify.com/album/4ifCrD5s7VxNd4SlSeOdfa) | 5:55 | 2022-09-23 | 2022-11-07 |
 | [Empower](https://open.spotify.com/track/3j2HYjcIlxVhUT5Ioi1owY) | [Steam Down](https://open.spotify.com/artist/2dOnTAoXrpBwYAo1qIbemO), [Afronaut Zu](https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ), [TINYMAN](https://open.spotify.com/artist/7HK3S4sk4NgXTFqvmbHlM9), [Ahnansé](https://open.spotify.com/artist/2Jz6SJ8o8G8lvZLB1U2Pfl) | [Empower](https://open.spotify.com/album/4gwsVmaHqOVMm2VDIuzQb8) | 4:45 | 2022-03-24 | 2022-04-20 |
-| [Empty Flower](https://open.spotify.com/track/0ZOs6TOQU3xW8F6dpaijSP) | [Raquel Martins](https://open.spotify.com/artist/1i7N5kJtmSMiXJ8Y0SsOEn) | [Empty Flower](https://open.spotify.com/album/2zojXYQIdaoAqe2jXMDQHI) | 3:53 | 2023-03-08 |  |
+| [Empty Flower](https://open.spotify.com/track/0ZOs6TOQU3xW8F6dpaijSP) | [Raquel Martins](https://open.spotify.com/artist/1i7N5kJtmSMiXJ8Y0SsOEn) | [Empty Flower](https://open.spotify.com/album/2zojXYQIdaoAqe2jXMDQHI) | 3:53 | 2023-03-08 | 2024-04-30 |
 | [End Of Innocence](https://open.spotify.com/track/3o9i2sgJhKv8HEFtJWsbxo) | [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js) | [End Of Innocence](https://open.spotify.com/album/0OLSVizhVj6rzh97PS6uYX) | 2:36 | 2024-03-11 |  |
 | [Epilectric](https://open.spotify.com/track/488UKsrIC3lBvZdjzTQExW) | [Summers Sons](https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z) | [Epilectric](https://open.spotify.com/album/7GTH6EnsEwhgwgVSn3MupB) | 3:08 | 2024-03-22 |  |
 | [Epistrophy](https://open.spotify.com/track/3W5Wg12biSkttF8NTUzlET) | [Theon Cross](https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56) | [Epistrophy](https://open.spotify.com/album/6lbV35NbNjbEF2SFTHIpJL) | 3:31 | 2022-07-28 | 2022-11-13 |
@@ -445,7 +446,7 @@
 | [Spectre \- Theo Kottis Remix](https://open.spotify.com/track/0g8ndiFkgEg0qHC50VS4Zg) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC), [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Spectre \(Theo Kottis Remix\)](https://open.spotify.com/album/3nFcfPYNzV1ytsrHJOaZ5a) | 4:50 | 2023-01-27 | 2023-05-19 |
 | [Spectre \- Theo Kottis Remix](https://open.spotify.com/track/5cIOqCyQzGw9Im60Q7RlWS) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC), [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Spectre \(Theo Kottis Remix\)](https://open.spotify.com/album/5x1pmw6FPmCIy4AsHqc6cb) | 4:50 | 2022-06-10 | 2023-02-03 |
 | [Spooki](https://open.spotify.com/track/1OmRDsBv7CQaIjuPBLySHJ) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU) | [Ugh](https://open.spotify.com/album/0TpH80b4b3jpsZkfworv6M) | 5:09 | 2021-12-17 | 2022-01-28 |
-| [Spooki \- Ash Walker Dub](https://open.spotify.com/track/4kgqO6HU9XZbVsvucuzbbz) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU), [Ash Walker](https://open.spotify.com/artist/38jDRxwK5wuTKAk54LEj1F) | [Ugh \(Bonus Edition\)](https://open.spotify.com/album/7vIReU8OLLlqfZ5fD1XtqE) | 3:22 | 2024-04-18 |  |
+| [Spooki \- Ash Walker Dub](https://open.spotify.com/track/4kgqO6HU9XZbVsvucuzbbz) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU), [Ash Walker](https://open.spotify.com/artist/38jDRxwK5wuTKAk54LEj1F) | [Ugh \(Bonus Edition\)](https://open.spotify.com/album/7vIReU8OLLlqfZ5fD1XtqE) | 3:22 | 2024-04-18 | 2024-04-30 |
 | [Spooki \- Ash Walker Dub](https://open.spotify.com/track/5agzILYRN43kgVHhGzIftY) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU), [Ash Walker](https://open.spotify.com/artist/38jDRxwK5wuTKAk54LEj1F) | [Ugh \(Bonus Edition\)](https://open.spotify.com/album/0jVCHki8NXJ2nK22ZDGDhO) | 3:22 | 2023-05-18 | 2023-06-11 |
 | [State of Blue](https://open.spotify.com/track/7pQnb7FuDx3MRKPFFR5C0F) | [Vincent Jäger](https://open.spotify.com/artist/6p66kIGoRbQ6RMust2p3Ft) | [Freie Interpreten](https://open.spotify.com/album/0GxzTRCZAElVZlWSlrVBJu) | 3:49 | 2023-12-22 | 2024-04-29 |
 | [Statue](https://open.spotify.com/track/0ZWD4RbbbfohFrMpVlmv4f) | [Tilly Valentine](https://open.spotify.com/artist/26xnf09CoXKte8d2MSOCSP) | [Statue](https://open.spotify.com/album/4wFr0pQoS4kiBXugi8eaTF) | 3:24 | 2023-03-17 | 2023-10-12 |
@@ -530,6 +531,7 @@
 | [Village of the Sun](https://open.spotify.com/track/4znUeVxYIDNmOUxgy4109n) | [Village of the Sun](https://open.spotify.com/artist/7KlZt5I16sOiYWmoCdWA18), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV), [Binker Golding](https://open.spotify.com/artist/7LO9JgJitsPExiZcDyVzm1), [Simon Ratcliffe](https://open.spotify.com/artist/0RgFt2ckOMG4sLVix4yKyw) | [Village of the Sun](https://open.spotify.com/album/0mNGWxYJq0PnZ5RwH2ME7A) | 6:54 | 2021-12-17 | 2022-01-17 |
 | [Viridian](https://open.spotify.com/track/5IS0tysbXVAQdqHxFlwJZa) | [Emma Rawicz](https://open.spotify.com/artist/1lnfMuTAKnEVC5dLB4N0wl) | [Chroma](https://open.spotify.com/album/0UCYpKoT3C9Pw0ntQ56KPE) | 6:33 | 2024-03-08 | 2024-03-12 |
 | [Walk Alone to Hear Thoughts of Your Own](https://open.spotify.com/track/3iScHjJ5pCJw0at5v5JVBN) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lonely City](https://open.spotify.com/album/7067zgNsGbFQdkyS6jL1wn) | 4:24 | 2022-03-08 | 2022-03-09 |
+| [Wallflower](https://open.spotify.com/track/60ZR3PxtOjGXa6LVQlSdSr) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Wallflower](https://open.spotify.com/album/55zeJMwqGYlju0shEdhG4A) | 3:01 | 2024-04-18 |  |
 | [War Dance](https://open.spotify.com/track/3b86b9BbVcFY307DXiiaP8) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/2EN95hEamtoztxIF6WATgZ) | 5:38 | 2022-08-04 | 2023-03-07 |
 | [War Dance](https://open.spotify.com/track/56CKIlaRH80QcLHEuU1tUE) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/48e8LFqiVUxumlXDIVyNYl) | 5:38 | 2023-10-13 | 2024-04-12 |
 | [Warm Data](https://open.spotify.com/track/0mfh5RdoeDV7DGLOMytUyc) | [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx) | [Monument](https://open.spotify.com/album/5Q45lNUhaH40wPqhUgjJNC) | 8:16 | 2021-12-17 | 2023-01-20 |

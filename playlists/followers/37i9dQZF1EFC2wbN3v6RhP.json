@@ -1,5 +1,5 @@
 {
-  "2024-04-29": 68070,
+  "2024-04-30": 68079,
   "date_first_scraped": "2023-03-18",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/1Pk7rcCDQIzm46M7Z50xDh\">Taylor Swift</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Taylor Swift",
@@ -4059,10 +4059,28 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 224186,
       "name": "You'll Always Find Your Way Back Home",
       "url": "https://open.spotify.com/track/12wSL3tGk3MtbDEhfG7xy3"
+    },
+    {
+      "album": {
+        "name": "Disney 2000s, Vol. 1",
+        "url": "https://open.spotify.com/album/6IaStDegtGslQ7C2PQRfgl"
+      },
+      "artists": [
+        {
+          "name": "Hannah Montana",
+          "url": "https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc"
+        }
+      ],
+      "date_added": "2024-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224186,
+      "name": "You'll Always Find Your Way Back Home",
+      "url": "https://open.spotify.com/track/5MK1I5GUnP0Bfppb50ftP9"
     },
     {
       "album": {

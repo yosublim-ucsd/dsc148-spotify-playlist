@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 487 songs - 1 day 8 hr 7 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 489 songs - 1 day 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -495,5 +495,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 485 | [Chandler](https://open.spotify.com/track/3PzVrpdkB6Ql5Az5spffJm) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Overgrown](https://open.spotify.com/album/55kmFrMvcnO54KbEurJTrM) | 3:04 |
 | 486 | [Surrogate Lover](https://open.spotify.com/track/5exXNIuQMsdSJKXmxAVG9A) | [Acaciawood](https://open.spotify.com/artist/6pwMJ1pUGI34NwTtHH55nW) | [Acaciawood](https://open.spotify.com/album/31LTbP6O3O7RVnCY5pyEO4) | 4:52 |
 | 487 | [Assata's Code](https://open.spotify.com/track/2aSkCiAqywd3LMmanvsYXi) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [Diani](https://open.spotify.com/artist/4g4T0gCzryRmUOfYDgrvyD) | [Liberation 2](https://open.spotify.com/album/0zsoWKnMDhi7TgMMST7sYn) | 2:02 |
+| 488 | [Old Friends](https://open.spotify.com/track/66q3yNMEO2tOsiFny1IPQW) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Cardinal](https://open.spotify.com/album/2SmrUzUMMOYQqoPuOhlhjw) | 3:27 |
+| 489 | [You Never Know](https://open.spotify.com/track/7alJbTUjMt8RWwonkin3uf) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Light Verse](https://open.spotify.com/album/0dZ4tHT2Ka2kScPqLK9x1Q) | 4:50 |
 
-Snapshot ID: `MTUwMCwzN2MzZWNkODNmMDU2NzFiYTBhZDRjNTQ1NmNiMjA0YzJkODFmMWEx`
+Snapshot ID: `MTUwMiwyZmE2NDVkMGU4ZmE3NjUwYzhhYmY4MGNhMzczODUxMzYyZGY2NGZl`

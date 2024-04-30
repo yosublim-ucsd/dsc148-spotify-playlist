@@ -1,12 +1,12 @@
 {
   "description": "This is $uicideboy$. The essential tracks, all in one playlist.",
-  "num_followers": 568639,
+  "num_followers": 568821,
   "original_name": "This Is $uicideboy$",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDE3NjAwMCwwMDAwMDAwMDNiYmNjY2QwNGRhOGI4Y2U2N2VjZThmZmYzYWNmZmUy",
+  "snapshot_id": "MTcxNDI2MjQwMCwwMDAwMDAwMDM2YTJmNzFkN2ZlNWUyNzFhNjA1NmI0MWFlMzgzZjQ4",
   "tracks": [
     {
       "added_at": null,
@@ -815,6 +815,22 @@
       "duration_ms": 143346,
       "name": "$uicideboy$ Were Better In 2015",
       "url": "https://open.spotify.com/track/6LoaYlv0bC1TyctuADqNFh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Want to Die In New Orleans",
+        "url": "https://open.spotify.com/album/2ivOxIKDHxEo6WMD9m3ytn"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 137772,
+      "name": "Coma",
+      "url": "https://open.spotify.com/track/73hmZZ7HyLgUQj2DaybfBb"
     },
     {
       "added_at": null,

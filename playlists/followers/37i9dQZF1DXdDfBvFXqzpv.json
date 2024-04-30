@@ -1,5 +1,5 @@
 {
-  "2024-04-29": 106282,
+  "2024-04-30": 106279,
   "date_first_scraped": "2022-11-05",
   "description": "Discover your personalized playlist of tracks from FIFA '98 to FIFA '23.",
   "name": "EA SPORTS FIFA Mix",
@@ -1441,7 +1441,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 184933,
       "name": "Lift Off",
       "url": "https://open.spotify.com/track/3ZcLmonVVD1MTQtmQb8yf3"
@@ -1651,7 +1651,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 246626,
       "name": "Morrow",
       "url": "https://open.spotify.com/track/3sIoWQZbJqUKj5iELz8eTA"

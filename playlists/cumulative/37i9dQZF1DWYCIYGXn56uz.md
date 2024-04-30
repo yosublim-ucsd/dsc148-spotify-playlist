@@ -4,7 +4,7 @@
 
 > ✨giovane✨pop✨z✨ Cover: bnkr44
 
-379 songs - 17 hr 30 min
+384 songs - 17 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Male](https://open.spotify.com/track/07nCfjUbtcJsIxfHdXxlUs) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [La mia stanza](https://open.spotify.com/album/2PyTVVc89tYsUmS5INdW4b) | 3:23 | 2023-05-04 | 2023-05-19 |
 | [Maledetta felicità](https://open.spotify.com/track/2aTpiwxYbeF9osGFHXaf3I) | [Cricca](https://open.spotify.com/artist/0oiJDgttDtTb1OGGPZmQBX) | [Maledetta felicità](https://open.spotify.com/album/6kdDr1ySf73Zw1TEoRaef5) | 2:55 | 2023-03-23 | 2023-04-07 |
 | [Maledetto Mare](https://open.spotify.com/track/1aAE9RmUjVWacJjOEIL7aK) | [Federico Rossi](https://open.spotify.com/artist/27cy5lbFuVKPVSCD36bmuu) | [Maledetto Mare](https://open.spotify.com/album/1wZTLd6eaksA667mDCFbXr) | 2:40 | 2023-06-22 | 2023-09-22 |
+| [MAMMAMÌ](https://open.spotify.com/track/0Q81Qb9ruKqHpz7e67MZDK) | [Petit](https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde) | [MAMMAMÌ](https://open.spotify.com/album/53YWreunB2TxyqSFbI8Uqc) | 3:05 | 2024-04-29 |  |
 | [Mani vuote](https://open.spotify.com/track/2AtA8e7DuVFIf5DUsT7VRx) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Mani vuote](https://open.spotify.com/album/2tBbgqJ2NhEOCmyi93hyyT) | 3:04 | 2023-03-23 | 2023-05-24 |
 | [Mani vuote](https://open.spotify.com/track/7y5x72eyuqYwXWk3VHjqhj) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Voglia di vivere](https://open.spotify.com/album/6Tr2x4RP8M4ikPNrXQeFOS) | 3:04 | 2023-05-18 | 2023-06-16 |
 | [MAPPAMONDO](https://open.spotify.com/track/4FYdBhoiUkrAZfkcaPd2sn) | [Sarah](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [MAPPAMONDO](https://open.spotify.com/album/3rAzTTDojPhT2uaEyO8Lvf) | 2:47 | 2024-03-07 |  |
@@ -226,6 +227,7 @@
 | [NERO MASCARA](https://open.spotify.com/track/34XpVQyYbTZb5hmldVrlvl) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [NERO MASCARA](https://open.spotify.com/album/4lv6ZOsKGlVGxEcSIJFhR0) | 3:29 | 2024-03-28 |  |
 | [NEVE SU MARTE \(feat\. Annalisa\)](https://open.spotify.com/track/3vMigJ03XjZTUMtrhDBIrK) | [Mr.Rain](https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1), [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [FRAGILE](https://open.spotify.com/album/6W0JuhlBiFbVakn06IpC63) | 3:17 | 2023-03-23 | 2023-04-14 |
 | [niente](https://open.spotify.com/track/6DVMWxdestSTiCSI0Ejnbm) | [Cicco Sanchez](https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel) | [niente](https://open.spotify.com/album/31KUQDz09OrNeF5bW0MeSz) | 2:25 | 2023-09-28 | 2023-11-10 |
+| [Niente come te](https://open.spotify.com/track/1UF0avM3gYfFttKAexuKVH) | [MARTINA](https://open.spotify.com/artist/4HdGvAHeQqqez8NI7PmrWx) | [Niente come te](https://open.spotify.com/album/6LmlhLhKeWpDgzzQ6IO2F7) | 2:53 | 2024-04-29 |  |
 | [Niente da perdere](https://open.spotify.com/track/60UzJigT6149nbKWCzo3WK) | [Mido](https://open.spotify.com/artist/4IDQpLt670azHbRBQkwZQP) | [Niente da perdere](https://open.spotify.com/album/71hP7WroPbAvUHWkNPSz6D) | 2:24 | 2023-10-05 | 2023-10-27 |
 | [Niente da perdere](https://open.spotify.com/track/3HiQ6Tn1mWVgYDLgeaxjS5) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Niente da perdere](https://open.spotify.com/album/73llI6vpyKmE5Na0tlGMca) | 2:46 | 2023-03-23 |  |
 | [Non Andare](https://open.spotify.com/track/73E25dgSkFaePbLHzJHrXF) | [Diego Lazzari](https://open.spotify.com/artist/64ni8l4f1uyxljOKU0EugH) | [Non Andare](https://open.spotify.com/album/33iF7SSaTmz5LdB7ImNxhd) | 2:34 | 2023-03-23 | 2023-04-14 |
@@ -290,8 +292,10 @@
 | [pum pum pum](https://open.spotify.com/track/7oS4wH2v1Yl8fAdKxBZL61) | [GionnyScandal](https://open.spotify.com/artist/7EyPI6TWLhz3XUpxkbyCV2) | [pum pum pum](https://open.spotify.com/album/2JWpXVDQrDkFHLGmBuHznT) | 2:33 | 2024-01-04 | 2024-02-02 |
 | [quando realizzi che non ti aveva capito](https://open.spotify.com/track/0dv8XKmRsUY86EKBDiiqRI) | [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [quando realizzi che non ti aveva capito](https://open.spotify.com/album/1XZ2XLLCU20UJHFix4Wbiy) | 2:46 | 2024-01-18 | 2024-03-01 |
 | [quando ti svolta la giornata](https://open.spotify.com/track/3n0Oy4O6Zpq1kqvFEJi13k) | [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [quando ti svolta la giornata](https://open.spotify.com/album/4aDl13jKSMQwrmNFa1TQ8r) | 2:49 | 2024-03-28 | 2024-04-19 |
+| [QUE PASA](https://open.spotify.com/track/4IgE2EClVv3KJex9IXVraO) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [QUE PASA](https://open.spotify.com/album/01ArVSSw3tnedf4s7RFNio) | 2:44 | 2024-04-29 |  |
 | [Radar](https://open.spotify.com/track/3EdDWXSjgqazIp9G1VzK3S) | [maxwell da costa](https://open.spotify.com/artist/7fBNjQ2hEvNyisqpp8o4ZT) | [Radar](https://open.spotify.com/album/6DT9PVf7rJdfv91IO4n6cJ) | 2:21 | 2023-11-02 | 2023-11-17 |
 | [RAGAZZI FUORI](https://open.spotify.com/track/6ESqYk01s6jNv0YFv2vguz) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [PRIMO](https://open.spotify.com/album/7EV8pGuFCChzOPmcopNQ4t) | 2:56 | 2024-02-15 |  |
+| [RANDAGI](https://open.spotify.com/track/1nELZxAVX7ibdrXxYcc4Pj) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP) | [RANDAGI](https://open.spotify.com/album/4WmwbD0f9GLDMU55MFWeo3) | 3:17 | 2024-04-29 |  |
 | [RED](https://open.spotify.com/track/0jwm30oXN08kVO9JwqrCPL) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz) | [RED](https://open.spotify.com/album/2Ddi22NvLWIP9MUAYqEil5) | 2:14 | 2024-01-26 | 2024-02-02 |
 | [RESTO IN CHILL](https://open.spotify.com/track/6VL7XBlYdDg7cAGPx5uVL3) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [RESTO IN CHILL](https://open.spotify.com/album/3Pfnlj2SPQmBGggnxo6fc9) | 3:02 | 2023-07-06 | 2023-09-22 |
 | [Ricordarmi di scordarti](https://open.spotify.com/track/7HfIA6XWVZWsLC7SSBdavy) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe), [LAX](https://open.spotify.com/artist/2qkqwL9GSe6o26rxzUfsd0) | [Ricordarmi di scordarti](https://open.spotify.com/album/7sPORpkE6mfvYJm6XBdiJ5) | 2:24 | 2023-03-23 | 2023-04-14 |
@@ -314,6 +318,7 @@
 | [SEI NELL'ARIA](https://open.spotify.com/track/2klE3JOlRzSvvbf61r064C) | [Berna](https://open.spotify.com/artist/62uNuiJTDTVObzXP4gQLXT) | [SEI NELL'ARIA](https://open.spotify.com/album/38TazBV9Xx0Ptj1e1VoFC8) | 2:15 | 2024-04-04 | 2024-04-19 |
 | [SERIE A](https://open.spotify.com/track/3Gptt8SQHD3zZBylNS9Ym3) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [RAVE, ECLISSI](https://open.spotify.com/album/0FfVgNTW9aFaHOYAzerA7I) | 2:50 | 2023-03-23 | 2023-04-14 |
 | [SETIAMO](https://open.spotify.com/track/1HlY2VHpOYAn0zeBcWcW4s) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [SETIAMO](https://open.spotify.com/album/5SMPDLbS5m4RtF8bS4lFvD) | 2:58 | 2023-03-23 | 2023-04-14 |
+| [SEXY MAGICA](https://open.spotify.com/track/7CLlCROEnQiqEDTt2zjn2t) | [Sarah](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [SEXY MAGICA](https://open.spotify.com/album/30Z0j6LCXcVKPtKtMb44RM) | 2:39 | 2024-04-29 |  |
 | [Si è spenta anche la luna \- LUNA](https://open.spotify.com/track/2nWVJWO9bQRH6OsvG5bWIO) | [Emanuele Aloia](https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76) | [Si è spenta anche la luna \- LUNA](https://open.spotify.com/album/0XMf0lGQAJmxdo2r9x1ob0) | 3:23 | 2023-12-15 | 2024-03-22 |
 | [SISSI](https://open.spotify.com/track/64Rux1qrtoeSTrRxa0mzcI) | [EDN](https://open.spotify.com/artist/2FfgO1FC4Bp1snTrGYZz9u) | [SISSI](https://open.spotify.com/album/2g0DfpvEt5BOEUb7aCl4Vo) | 2:17 | 2023-06-29 | 2023-07-21 |
 | [SOBRIO](https://open.spotify.com/track/1eFWY1K9xr166GR7BZeJnp) | [Benji](https://open.spotify.com/artist/1TUO8DpCpHhmB4gYdLqLOF) | [SOBRIO](https://open.spotify.com/album/4mY1mXs3WPhQFlUuBuKvw6) | 2:15 | 2023-10-12 | 2023-10-27 |

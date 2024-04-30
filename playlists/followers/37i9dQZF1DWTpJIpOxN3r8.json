@@ -1,5 +1,5 @@
 {
-  "2024-04-29": 91820,
+  "2024-04-30": 91863,
   "date_first_scraped": "2023-04-07",
   "description": "Sonidos de lluvia para descansar y dormir.",
   "name": "Lluvia para Dormir",
@@ -683,7 +683,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-28",
+      "date_removed": null,
       "duration_ms": 152000,
       "name": "Coastal Thunderstorm",
       "url": "https://open.spotify.com/track/3cwiM6XTcRivq8bIMa6lJZ"
@@ -2447,7 +2447,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 138000,
       "name": "Heavy rain",
       "url": "https://open.spotify.com/track/2GdtkG6e804NCaEez2mGqb"

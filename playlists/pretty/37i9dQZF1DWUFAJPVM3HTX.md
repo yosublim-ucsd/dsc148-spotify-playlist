@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf?si=J4FJ5SOCSeu80s6wkYaUmg"> Sasha Keable </a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,692 likes - 201 songs - 9 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,738 likes - 201 songs - 9 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

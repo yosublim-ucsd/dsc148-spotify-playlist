@@ -4,7 +4,7 @@
 
 > The best in house music
 
-431 songs - 1 day 5 hr 47 min
+432 songs - 1 day 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,6 +271,7 @@
 | [Nobody](https://open.spotify.com/track/0QrMI79qOhxVmjICelzbyZ) | [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki) | [Nobody](https://open.spotify.com/album/0vxtoBNzecaQcPaq1PySYC) | 3:57 | 2022-04-14 | 2023-04-13 |
 | [Not for Me](https://open.spotify.com/track/2I0cMbeTElEVio2R1OAqPk) | [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew), [Funkin Matt](https://open.spotify.com/artist/11chB4Th19iMA7j65oGMk1), [Lilitha](https://open.spotify.com/artist/0k3N0X3sZWTitHqc2sx6Ft) | [Not for Me](https://open.spotify.com/album/09b6NB5rfzqAELp4ksCSWD) | 3:40 | 2022-04-14 | 2022-07-29 |
 | [Not for Me](https://open.spotify.com/track/6wPA0m2bjRpXIUuKjbHjzF) | [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew), [Funkin Matt](https://open.spotify.com/artist/11chB4Th19iMA7j65oGMk1), [Lilitha](https://open.spotify.com/artist/0k3N0X3sZWTitHqc2sx6Ft) | [Not for Me](https://open.spotify.com/album/5exyN8eQ9ElyiPBXNX8o00) | 3:40 | 2022-07-28 | 2024-03-21 |
+| [Now Is Gone](https://open.spotify.com/track/7f0Wj4VRdNj8aPC3s9NcbH) | [Slow Motion](https://open.spotify.com/artist/6jmHuLfbWlq34KedQ7mA5I) | [Weapons of Peace](https://open.spotify.com/album/4KDdTK5jvpYextPXiDGF0x) | 5:04 | 2024-04-26 |  |
 | [Now Or Never \- Gregor Salto Radio Edit](https://open.spotify.com/track/6SKfEQtJtub7opGLeMSd0m) | [Boddhi Satva](https://open.spotify.com/artist/1f1bsto5CRaRaaGkZvvjOn), [Erin Kimberly](https://open.spotify.com/artist/2ramOs79MnYC9oLFy3e3oe), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew) | [Now Or Never \(Gregor Salto Remixes\)](https://open.spotify.com/album/3Gx4XYnvDECJEMRfEi0n2p) | 4:25 | 2024-02-08 |  |
 | [Nu World \- Solomun Remix](https://open.spotify.com/track/4AcPaPKQzv8bnfRMwuQXTK) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Nu World](https://open.spotify.com/album/6XbTdRloYK1zTtnyxxzHu3) | 3:54 | 2023-11-17 | 2024-04-19 |
 | [Nu World \- Solomun Remix](https://open.spotify.com/track/4gIXnT4VbM21eqhWMinnpo) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Nu World \(Solomun Remix\)](https://open.spotify.com/album/3N2BT7AISV9IgwfursJE3D) | 3:54 | 2022-12-15 | 2023-11-06 |
@@ -414,7 +415,7 @@
 | [We Groovin](https://open.spotify.com/track/1lzbOrmaBhueOQfwKCfi1J) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [We Groovin](https://open.spotify.com/album/6L9eNKfRONaBKym2BuXw64) | 3:01 | 2024-02-29 |  |
 | [We Groovin \(with Jazzy\)](https://open.spotify.com/track/6LiuMpZjyjjuXFP5Ljo9bv) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [We Groovin \(with Jazzy\)](https://open.spotify.com/album/21mqL1eOj7aRJQUwOQakcH) | 3:01 | 2024-02-29 | 2024-04-19 |
 | [Weak](https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Tom Breu](https://open.spotify.com/artist/4Y4jZlaPkgIlzMp6kmcr9h) | [Weak](https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn) | 3:22 | 2024-02-07 |  |
-| [What Is Love](https://open.spotify.com/track/1IQ2Ry6SQplU6weACgZJ0X) | [Kayson](https://open.spotify.com/artist/2U7BA7NOqq5yhrV18EB9hp) | [What Is Love](https://open.spotify.com/album/4tICvgOQTCf3ua5PeEJNAd) | 2:40 | 2024-03-14 |  |
+| [What Is Love](https://open.spotify.com/track/1IQ2Ry6SQplU6weACgZJ0X) | [Kayson](https://open.spotify.com/artist/2U7BA7NOqq5yhrV18EB9hp) | [What Is Love](https://open.spotify.com/album/4tICvgOQTCf3ua5PeEJNAd) | 2:40 | 2024-03-14 | 2024-04-30 |
 | [What You Gonna Do](https://open.spotify.com/track/2e8DHrgHFGnaJ7rjLeVqbr) | [ELIA](https://open.spotify.com/artist/0t2RtejVOID76P2r4iqEzV), [Melissa de Kleine](https://open.spotify.com/artist/1ke8Nab14PYpjaW2OolICA) | [What You Gonna Do](https://open.spotify.com/album/7vdyYBkfJqXmnUzXsxECJK) | 4:07 | 2023-12-01 | 2024-04-10 |
 | [What You Say?](https://open.spotify.com/track/22quZFeltYbo325rn3ktTe) | [Young Marco](https://open.spotify.com/artist/7zpN81tVvPwlHcJSkSCyRa) | [What You Say?](https://open.spotify.com/album/2yRIzD4GpnSNlGw5gt0Y1o) | 3:23 | 2023-01-12 | 2024-02-01 |
 | [When U Came into My Life](https://open.spotify.com/track/1hCh9vCBaH8cCGkq0ttvnT) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Fort Bellefleur](https://open.spotify.com/album/3uNzIQC7ndw7UmNPAd8okH) | 8:07 | 2022-04-14 | 2023-08-31 |

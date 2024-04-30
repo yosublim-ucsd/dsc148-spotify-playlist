@@ -1,6 +1,6 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 164948,
+  "num_followers": 165013,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,6 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "KIOX",
-        "url": "https://open.spotify.com/album/4E7HxVevq5O1XmvWhCEKXS"
-      },
-      "artists": [
-        {
-          "name": "KUMMER",
-          "url": "https://open.spotify.com/artist/2TiXt00aPsggbxZxL1RaG7"
-        }
-      ],
-      "duration_ms": 222642,
-      "name": "Bei Dir",
-      "url": "https://open.spotify.com/track/3XpEKPj7KZt0yYWd7PQf5d"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
         "name": "30-11-80",
         "url": "https://open.spotify.com/album/5SyLIeBzGDJ4YzGDNqVVB2"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 195416,
       "name": "Liebe",
       "url": "https://open.spotify.com/track/5cBx2v7XJSErfesDmgNtr2"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
+        "name": "KIOX",
+        "url": "https://open.spotify.com/album/4E7HxVevq5O1XmvWhCEKXS"
+      },
+      "artists": [
+        {
+          "name": "KUMMER",
+          "url": "https://open.spotify.com/artist/2TiXt00aPsggbxZxL1RaG7"
+        }
+      ],
+      "duration_ms": 222642,
+      "name": "Bei Dir",
+      "url": "https://open.spotify.com/track/3XpEKPj7KZt0yYWd7PQf5d"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -291,6 +291,22 @@
       "duration_ms": 212520,
       "name": "Ich lass f\u00fcr dich das Licht an",
       "url": "https://open.spotify.com/track/55VQvOY6dT63vHmYlWJDpG"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
+        "name": "Mit Dir",
+        "url": "https://open.spotify.com/album/6aLQvzeiqj1rjrCjEFv5Xo"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "Mit Dir",
+      "url": "https://open.spotify.com/track/2xFMvrqk99biaLQavjufta"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -355,22 +371,6 @@
       "duration_ms": 180186,
       "name": "Katharina",
       "url": "https://open.spotify.com/track/6bimAQjh6FP1vZOXHrvs4j"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
-        "name": "Mit Dir",
-        "url": "https://open.spotify.com/album/6aLQvzeiqj1rjrCjEFv5Xo"
-      },
-      "artists": [
-        {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "Mit Dir",
-      "url": "https://open.spotify.com/track/2xFMvrqk99biaLQavjufta"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Liebeslieder",
-        "url": "https://open.spotify.com/album/2LhRORqn6i6b4Qb1hbQvnL"
-      },
-      "artists": [
-        {
-          "name": "Alexander Eder",
-          "url": "https://open.spotify.com/artist/4AlPM4fME9Zlju99rXyaQE"
-        }
-      ],
-      "duration_ms": 147825,
-      "name": "Liebeslieder",
-      "url": "https://open.spotify.com/track/4kicMdMtAxfHgr8IhpwRyb"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
         "name": "2012",
         "url": "https://open.spotify.com/album/4JgV7DMC1wFGGdgttRtETz"
       },
@@ -859,6 +843,38 @@
       "duration_ms": 170200,
       "name": "2012",
       "url": "https://open.spotify.com/track/6bM4daGlfZHtKMQp8tEqVz"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
+        "name": "Liebeslieder",
+        "url": "https://open.spotify.com/album/2LhRORqn6i6b4Qb1hbQvnL"
+      },
+      "artists": [
+        {
+          "name": "Alexander Eder",
+          "url": "https://open.spotify.com/artist/4AlPM4fME9Zlju99rXyaQE"
+        }
+      ],
+      "duration_ms": 147825,
+      "name": "Liebeslieder",
+      "url": "https://open.spotify.com/track/4kicMdMtAxfHgr8IhpwRyb"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
+        "name": "Bunte Scherben",
+        "url": "https://open.spotify.com/album/0d4rAOUhOVFH1Ns6ZDXWpk"
+      },
+      "artists": [
+        {
+          "name": "Keimzeit",
+          "url": "https://open.spotify.com/artist/7ynsUZ8GP3m1rFDjvs2svD"
+        }
+      ],
+      "duration_ms": 226440,
+      "name": "Kling Klang",
+      "url": "https://open.spotify.com/track/2PqKNYsquDC99ZEcQvdGnz"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -883,22 +899,6 @@
       "duration_ms": 180146,
       "name": "Sommer",
       "url": "https://open.spotify.com/track/3sqZwhR5UFmHAh1KLXGOgq"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
-        "name": "Bunte Scherben",
-        "url": "https://open.spotify.com/album/0d4rAOUhOVFH1Ns6ZDXWpk"
-      },
-      "artists": [
-        {
-          "name": "Keimzeit",
-          "url": "https://open.spotify.com/artist/7ynsUZ8GP3m1rFDjvs2svD"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "Kling Klang",
-      "url": "https://open.spotify.com/track/2PqKNYsquDC99ZEcQvdGnz"
     },
     {
       "added_at": "2024-02-09 07:01:34",

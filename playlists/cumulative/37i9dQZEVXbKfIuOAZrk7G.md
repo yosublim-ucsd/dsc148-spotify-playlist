@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Canada.
 
-2,544 songs - 5 day 15 hr 6 min
+2,546 songs - 5 day 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -792,7 +792,8 @@
 | [Get In With Me](https://open.spotify.com/track/6bryx7HyB4lVDc0KQXuoJ0) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Mr Beat The Road](https://open.spotify.com/album/3x3G6TKWWgRS1vWp03FoNb) | 2:00 | 2024-03-16 | 2024-03-20 |
 | [GET IT](https://open.spotify.com/track/4LaZ8RpIP6DIgN73bXQVlO) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:31 | 2022-03-29 | 2022-03-31 |
 | [Get It Sexyy](https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Get It Sexyy](https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw) | 2:28 | 2024-04-02 |  |
-| [Get Wid Lemonade](https://open.spotify.com/track/5pJK4zHDOdUxAZDEXx8dDO) | [\[Kyle Davis\]](https://open.spotify.com/artist/1nyfRqThs0v4NQUi5vW6Of) | [Get Wid Lemonade](https://open.spotify.com/album/3qc0kwSgoyl7ZT0wjxdzkY) | 2:16 | 2024-04-10 |  |
+| [Get Wid Lemonade](https://open.spotify.com/track/5pJK4zHDOdUxAZDEXx8dDO) | [\[Kyle Davis\]](https://open.spotify.com/artist/1nyfRqThs0v4NQUi5vW6Of) | [Get Wid Lemonade](https://open.spotify.com/album/3qc0kwSgoyl7ZT0wjxdzkY) | 2:16 | 2024-04-10 | 2024-04-30 |
+| [Get Wid Lemonade](https://open.spotify.com/track/66D6nQk8THVR6SE5v7HCFd) | [Aurbley](https://open.spotify.com/artist/3CfTeHuZzeWePQMnsdEI7f) | [Get Wid Lemonade](https://open.spotify.com/album/5NAl4CDSMrYg02jmZOusRL) | 2:16 | 2024-04-29 |  |
 | [Ghazali \(feat\. Bryan Mg\)](https://open.spotify.com/track/5IJRqarA4QIc2qAw74mYo9) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Ghazali \(feat\. Bryan Mg\)](https://open.spotify.com/album/1LBYhdNp9PZrjPjVPJoboo) | 3:04 | 2022-12-25 | 2023-01-16 |
 | [Ghetto Love](https://open.spotify.com/track/6m8gfHkqhuDqut5lJDGRIG) | [Chillz](https://open.spotify.com/artist/1qtIAJW16IZzYa9qZKlBCw) | [Ghetto Love](https://open.spotify.com/album/5do7KXxsK597j2RuiNm9U5) | 1:19 | 2023-03-26 | 2023-03-29 |
 | [Ghost](https://open.spotify.com/track/3K8a3aAPQXXhqTeruEWlNW) | [Tom MacDonald](https://open.spotify.com/artist/6DvlemMOlMH6VD9tB7BPRf) | [Ghost](https://open.spotify.com/album/1xSiWCWXuSPnysSYeGzUlo) | 3:27 | 2023-01-17 | 2023-01-27 |
@@ -1234,6 +1235,7 @@
 | [LDR \- Sped Up](https://open.spotify.com/track/14Vsn26hOxfbgVb4etM9jd) | [Shoti](https://open.spotify.com/artist/68URuxUxsFzcPp2y3j0kjW) | [Shoti Sped Up](https://open.spotify.com/album/2EOonF7VdwCRgRgEEQvyO9) | 2:45 | 2023-06-08 | 2023-07-05 |
 | [Le Monde](https://open.spotify.com/track/424DkevE18QJazwlljiTD4) | [Richard Carter](https://open.spotify.com/artist/6jlwBcuB3gOuSR4Hb6MmVU) | [Talk to Me \(Original Soundtrack\)](https://open.spotify.com/album/1d1ZEmPwvPZXIOQRqjDBkw) | 2:14 | 2023-09-09 | 2023-09-16 |
 | [Le Monde \- From Talk to Me](https://open.spotify.com/track/4mOMTUl8XiaqILHwh8zm4H) | [Richard Carter](https://open.spotify.com/artist/6jlwBcuB3gOuSR4Hb6MmVU) | [Le Monde \(From Talk to Me\)](https://open.spotify.com/album/0RBFL7NYfHslFXlYrVwtir) | 2:14 | 2023-09-15 | 2023-10-25 |
+| [Le petit roi](https://open.spotify.com/track/322V7y7CTFE5JPxjtHr4I0) | [Jean\-Pierre Ferland](https://open.spotify.com/artist/6ztZs0FOUv1FqwSxsj11R3) | [Jaune \(Version originale remasterisée\)](https://open.spotify.com/album/69OtZSaKCtNJawhqenAJ0U) | 4:13 | 2024-04-29 |  |
 | [Lean Beef Patty](https://open.spotify.com/track/3FsqOTQT3d7c296eStnEnl) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [SCARING THE HOES](https://open.spotify.com/album/3u20OXh03DjCUzbf8XcGTq) | 1:47 | 2023-04-04 | 2023-04-14 |
 | [Leave Me Like This](https://open.spotify.com/track/6NRvZuFXn2ixp8YdzUvG5n) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Bobby Raps](https://open.spotify.com/artist/22g86cix6LCeLMbu3m91Wo) | [Quest For Fire](https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt) | 3:08 | 2023-02-19 | 2023-02-26 |
 | [leavemealone](https://open.spotify.com/track/7iUScoHKNJC5hqtA40vMlj) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [USB](https://open.spotify.com/album/1tIp3NC564c1P9njNFJAqS) | 3:42 | 2023-12-26 | 2024-01-20 |
@@ -2181,7 +2183,7 @@
 | [The Lost Soul Down](https://open.spotify.com/track/5dPy1CCYQ04xaQHpajf5CY) | [NBSPLV](https://open.spotify.com/artist/61TQfpvTjHYQjPrvtJPwVa) | [The Lost Soul Down](https://open.spotify.com/album/733oNIsRbdeXYvZNoFCHmh) | 3:12 | 2023-05-30 | 2023-07-19 |
 | [The Lost Soul Down \- Slowed & Reverb](https://open.spotify.com/track/5XtsfMFmpM401S6dbVaOQw) | [NBSPLV](https://open.spotify.com/artist/61TQfpvTjHYQjPrvtJPwVa) | [The Lost Soul Down \(Slowed & Reverb\)](https://open.spotify.com/album/2nQUgF7PdSKzKOIagdHeqk) | 4:01 | 2023-07-13 | 2023-07-17 |
 | [The Mates of Soul \(Remastered\)](https://open.spotify.com/track/6hBTkWmjb8YsOzINHebJ3e) | [Taylor John Williams](https://open.spotify.com/artist/73r6cgVUoNL47qnJAF0Ihw) | [Song of a Dead Man](https://open.spotify.com/album/0BciaOp0JJpJWNSfw03kAD) | 3:59 | 2023-01-18 | 2023-01-29 |
-| [The Order](https://open.spotify.com/track/7HyfC1OLgA8RlMPo6xkl0o) | [T\-Zank](https://open.spotify.com/artist/2ftSyyyaGKtPLUdbg3KKU2) | [The Order](https://open.spotify.com/album/7Bx2guDadMbq54tWY0R2lK) | 2:24 | 2024-04-22 |  |
+| [The Order](https://open.spotify.com/track/7HyfC1OLgA8RlMPo6xkl0o) | [T\-Zank](https://open.spotify.com/artist/2ftSyyyaGKtPLUdbg3KKU2) | [The Order](https://open.spotify.com/album/7Bx2guDadMbq54tWY0R2lK) | 2:24 | 2024-04-22 | 2024-04-30 |
 | [The Other Side](https://open.spotify.com/track/5ASXKBcnFeouRbWSkSgwkg) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [The Other Side](https://open.spotify.com/album/6Bf4Ppas9nS1Puv4J5hkNH) | 2:44 | 2023-12-26 | 2024-01-07 |
 | [The Other Side](https://open.spotify.com/track/7hVZJGsh5fxFtwaqgJq1nf) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [The Other Side](https://open.spotify.com/album/5hJtcqGwi9lmFElCqPRnlS) | 2:44 | 2024-01-06 | 2024-02-07 |
 | [The Perfect Girl](https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [The Perfect Girl](https://open.spotify.com/album/2JnZQM70jbT0J1Xq0qgl24) | 3:14 | 2021-12-31 | 2022-01-07 |

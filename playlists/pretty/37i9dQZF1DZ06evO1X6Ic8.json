@@ -1,12 +1,12 @@
 {
-  "description": "This Is The 1975. Los temas esenciales, todos en una lista.",
-  "num_followers": 772447,
+  "description": "This is The 1975. The essential tracks, all in one playlist.",
+  "num_followers": 772450,
   "original_name": "This Is The 1975",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDE3NjAwMCwwMDAwMDAwMDE1Nzk0MDA1ZDQ0ZGQzNDJjZGYzOWRmZjMyNWFhNjIz",
+  "snapshot_id": "MTcxNDI2MjQwMCwwMDAwMDAwMDZiMjI2MmUwOGVmNDAxOTY3M2Y4NTYyNmRhOTNkMTYy",
   "tracks": [
     {
       "added_at": null,
@@ -599,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The 1975 (Deluxe)",
+        "url": "https://open.spotify.com/album/74EKsgjD5GJOJpthJ59dhQ"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 244653,
+      "name": "Undo",
+      "url": "https://open.spotify.com/track/1gJCEcK3erq2fKGEFc2j7B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spinning (with Charli XCX & The 1975)",
         "url": "https://open.spotify.com/album/3iji9D5iOwGSCz1bnkuAii"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 172559,
       "name": "Spinning (with Charli XCX & The 1975)",
       "url": "https://open.spotify.com/track/56D251hqnHtPSgwSH5a0fl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The 1975 (Deluxe)",
-        "url": "https://open.spotify.com/album/74EKsgjD5GJOJpthJ59dhQ"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 244653,
-      "name": "Undo",
-      "url": "https://open.spotify.com/track/1gJCEcK3erq2fKGEFc2j7B"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-19",
-  "description": "This Is Pearl Jam. Los temas esenciales, todos en una lista.",
+  "description": "This is Pearl Jam. \u0623\u063a\u0627\u0646\u064d \u0631\u0627\u0626\u0639\u0629 \u0641\u064a \u0642\u0627\u0626\u0645\u0629 \u0623\u063a\u0627\u0646\u064d \u0648\u0627\u062d\u062f\u0629.",
   "name": "This Is Pearl Jam",
   "tracks": [
     {
@@ -358,7 +358,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 277405,
       "name": "Got To Give",
       "url": "https://open.spotify.com/track/0pbo6zLqhafAy4r1T4F4jD"
@@ -682,7 +682,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 345786,
       "name": "Present Tense",
       "url": "https://open.spotify.com/track/679zqcQuKakOGI93NPCqB8"
@@ -754,10 +754,28 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 139432,
       "name": "Running",
       "url": "https://open.spotify.com/track/2LeoKjw81T6GWO18MxvGl1"
+    },
+    {
+      "album": {
+        "name": "Dark Matter",
+        "url": "https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139432,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/6EnWm7fQBUku6EuNc3xPmi"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Joyner Lucas",
-  "num_followers": 1592349,
+  "num_followers": 1591865,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
+        "name": "Sundial",
+        "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        }
+      ],
+      "duration_ms": 137197,
+      "name": "black mirror",
+      "url": "https://open.spotify.com/track/0oJO0gr6eOZJmLQcSD4Ekw"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
         "name": "Blowfly (with Ab-Soul)",
         "url": "https://open.spotify.com/album/6LTCNeWyfbzaIP3O0tcEXD"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 166238,
       "name": "Blowfly (with Ab-Soul)",
       "url": "https://open.spotify.com/track/2tRcF1bE5ESw9c8ljLXLsR"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Sundial",
-        "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
-      },
-      "artists": [
-        {
-          "name": "Noname",
-          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
-        }
-      ],
-      "duration_ms": 137197,
-      "name": "black mirror",
-      "url": "https://open.spotify.com/track/0oJO0gr6eOZJmLQcSD4Ekw"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1003,18 +1003,26 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Flow",
-        "url": "https://open.spotify.com/album/0E7eTPalfTym6o2ljSdIcc"
+        "name": "Giants Of The Fall",
+        "url": "https://open.spotify.com/album/0Je2clWtq4qMFi00s0bGpH"
       },
       "artists": [
         {
-          "name": "Jourden",
-          "url": "https://open.spotify.com/artist/7BJgHEoxvlal00T5B0Ro5u"
+          "name": "Guilty Simpson",
+          "url": "https://open.spotify.com/artist/0Zji66LHK0QCC8AUMuyp3h"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Kong The Artisan",
+          "url": "https://open.spotify.com/artist/5bPN5M1j5Je82NV1Vcp3qE"
         }
       ],
-      "duration_ms": 162162,
-      "name": "Flow",
-      "url": "https://open.spotify.com/track/0YVAbRnpG4mVxxwob9DdS8"
+      "duration_ms": 181196,
+      "name": "Giants Of The Fall",
+      "url": "https://open.spotify.com/track/57RzX9szVUX5gsfPQNc72M"
     }
   ],
   "unique_name": "Spilled Ink",

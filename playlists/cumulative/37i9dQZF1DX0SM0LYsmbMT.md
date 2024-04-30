@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,103 songs - 6 day 12 hr 49 min
+4,104 songs - 6 day 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1688,6 +1688,7 @@
 | [It's All Good](https://open.spotify.com/track/6I96KSEuwVp6yTjMdXBotU) | [KaspaHauser](https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657) | [It's All Good](https://open.spotify.com/album/2ZErPPfRX7IMkcrj3hB6mN) | 2:20 | 2021-10-29 | 2022-07-01 |
 | [It's All Good Man](https://open.spotify.com/track/0JTvUlDFNgbrHoouTyHVQx) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [It's All Good Man](https://open.spotify.com/album/7KqSFWWbQKiTM9xZDxsS2W) | 2:11 | 2023-10-19 | 2023-11-14 |
 | [It's All Gravy](https://open.spotify.com/track/5quY9LzNMcCgKiahHsb7dU) | [Max I Million](https://open.spotify.com/artist/3E8ESEdLCBN9GiSZCUXgdf) | [It's All Gravy](https://open.spotify.com/album/3m5glKld4sPHBWauySAGHI) | 2:40 | 2020-12-11 | 2021-06-18 |
+| [It's Just](https://open.spotify.com/track/0QVnU496HifSee8R7YRHdj) | [Zen Park](https://open.spotify.com/artist/3XSqByZe2kuUAquw8seGD6) | [It's Just](https://open.spotify.com/album/5VEhJ3xJooJS47GfC9PE3m) | 1:34 | 2024-04-25 |  |
 | [It's Like](https://open.spotify.com/track/5KxeUIVoQj2OGG0j1WRQoV) | [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j), [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [It's Like](https://open.spotify.com/album/3oBrEMQRMiF1nNlrmDBSxo) | 2:19 | 2021-02-26 | 2021-04-23 |
 | [It's Not Just Me](https://open.spotify.com/track/2XrXZ0DH1mqspN4mZWEp05) | [Ngyn](https://open.spotify.com/artist/0W03t1E2FUo9WAMBwhntuL), [Noah Rosen](https://open.spotify.com/artist/70WoazqQpqk0OaycqsPAmf), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ), [Lofitic](https://open.spotify.com/artist/6oBQKbykqoZPrX8ebzX8ZM) | [It's Not Just Me](https://open.spotify.com/album/6kH8vRc89EBSXfHCl2TJ6E) | 2:51 | 2022-11-17 | 2023-11-24 |
 | [It's Ok](https://open.spotify.com/track/19K24V0kGvNLFYCR8jMs88) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [It's Ok](https://open.spotify.com/album/0sDMveXrOxXh8eYtdREMek) | 2:48 | 2019-05-26\* | 2020-03-13 |
@@ -2066,7 +2067,7 @@
 | [Lovebites](https://open.spotify.com/track/4Qil9aFPFjPxo4kUcL7Zym) | [Ganzo](https://open.spotify.com/artist/2eZYqViRzYxEWVhIRvL5g8) | [Lovebites](https://open.spotify.com/album/6p6lIvpJt7O9t5QNVs8A9u) | 1:33 | 2023-05-11 |  |
 | [lovedrunk](https://open.spotify.com/track/34Xzv8Mm11LYddFgw6rfdl) | [Hawks](https://open.spotify.com/artist/4ZUNXYwh6gDNwd3IUHdaYw) | [lovedrunk](https://open.spotify.com/album/5ZzQcWkfG8ieikKxos3Nb1) | 1:18 | 2019-11-06 | 2020-03-25 |
 | [lovers in flux](https://open.spotify.com/track/5rtXyg3iIOKKw52ObwSDh7) | [meadowzz](https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz) | [lovers in flux](https://open.spotify.com/album/59R7HJxZdhDQuJSLQDjp9P) | 2:19 | 2022-02-11 | 2022-04-01 |
-| [lovestruck](https://open.spotify.com/track/3lmcF9RtwCkQQgMSnZCTAT) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [lovestruck](https://open.spotify.com/album/5z4UIWEiQABl6MMtVY9269) | 1:20 | 2024-04-25 |  |
+| [lovestruck](https://open.spotify.com/track/3lmcF9RtwCkQQgMSnZCTAT) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [lovestruck](https://open.spotify.com/album/5z4UIWEiQABl6MMtVY9269) | 1:20 | 2024-04-25 | 2024-04-30 |
 | [Loving You Until the Last Breath Leaves Your Body or Mine](https://open.spotify.com/track/44BORf8shyzfw0PSlRvdDi) | [Behind Clouds](https://open.spotify.com/artist/3H6djQE6LC4llH3i5t2tZM) | [Deeply Loved By Someone](https://open.spotify.com/album/5f1FPTXFtugMJ9wVtQ07cF) | 2:03 | 2020-03-10 | 2020-05-29 |
 | [Low](https://open.spotify.com/track/3n3dVyxCY3tJH8ELJRn5Pu) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb) | [Memories of Tomorrow](https://open.spotify.com/album/1x5lugPRH7n2gbM7ScSfCT) | 2:22 | 2020-09-19 | 2021-03-14 |
 | [Low Down](https://open.spotify.com/track/4pXEGiQQUPnuqlFaIztqX2) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa) | [Low Down](https://open.spotify.com/album/191gqQ5CvJhb05MH1YEuUW) | 1:47 | 2022-12-22 | 2023-01-27 |

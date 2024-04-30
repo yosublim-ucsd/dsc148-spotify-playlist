@@ -1,5 +1,5 @@
 {
-  "2024-04-29": 5263098,
+  "2024-04-30": 5262012,
   "date_first_scraped": "2019-05-26",
   "description": "Feel great with these timelessly fun songs!",
   "name": "Have a Great Day!",
@@ -3143,7 +3143,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2023-08-20",
+      "date_removed": null,
       "duration_ms": 164813,
       "name": "Me and Julio Down by the Schoolyard",
       "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
@@ -3161,7 +3161,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 219920,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/1zusIxNqJu8i4g6P6hJ2Qa"

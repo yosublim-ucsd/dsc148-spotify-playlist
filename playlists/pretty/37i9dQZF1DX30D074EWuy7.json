@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Paolo Fresu",
-  "num_followers": 28841,
+  "num_followers": 28847,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -327,22 +327,6 @@
     {
       "added_at": "2024-04-26 00:01:00",
       "album": {
-        "name": "Reality And Fantasy (Special Edition)",
-        "url": "https://open.spotify.com/album/6zoX2yMQCCSCZaorNKgdsZ"
-      },
-      "artists": [
-        {
-          "name": "Raphael Gualazzi",
-          "url": "https://open.spotify.com/artist/6hu9cUsJDFg2kUkAAjOepA"
-        }
-      ],
-      "duration_ms": 214053,
-      "name": "Follia D'Amore",
-      "url": "https://open.spotify.com/track/5sFAmIIncDn9O1wcxQmAte"
-    },
-    {
-      "added_at": "2024-04-26 00:01:00",
-      "album": {
         "name": "Porta Pia",
         "url": "https://open.spotify.com/album/27ewyS8tUv5mc6VtkB206d"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 175458,
       "name": "Porta Pia",
       "url": "https://open.spotify.com/track/3odWDhS8Pk3yIqti833UQb"
+    },
+    {
+      "added_at": "2024-04-26 00:01:00",
+      "album": {
+        "name": "Reality And Fantasy (Special Edition)",
+        "url": "https://open.spotify.com/album/6zoX2yMQCCSCZaorNKgdsZ"
+      },
+      "artists": [
+        {
+          "name": "Raphael Gualazzi",
+          "url": "https://open.spotify.com/artist/6hu9cUsJDFg2kUkAAjOepA"
+        }
+      ],
+      "duration_ms": 214053,
+      "name": "Follia D'Amore",
+      "url": "https://open.spotify.com/track/5sFAmIIncDn9O1wcxQmAte"
     },
     {
       "added_at": "2024-04-26 00:01:00",
@@ -523,6 +523,22 @@
     {
       "added_at": "2024-04-26 00:01:00",
       "album": {
+        "name": "Contenta tu",
+        "url": "https://open.spotify.com/album/64ZwWE2DOvHUq58xUY5iCv"
+      },
+      "artists": [
+        {
+          "name": "Marco Castello",
+          "url": "https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm"
+        }
+      ],
+      "duration_ms": 275093,
+      "name": "Av\u00f2",
+      "url": "https://open.spotify.com/track/1u2dWJ4qiZfdE88ZJ29DAD"
+    },
+    {
+      "added_at": "2024-04-26 00:01:00",
+      "album": {
         "name": "IMMA TATARANNI Sostituto Procuratore, Seconda Stagione (Colonna sonora originale della Serie TV)",
         "url": "https://open.spotify.com/album/73FP2aV57Q08P4HlV2QdYN"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 177124,
       "name": "Perdiamoci",
       "url": "https://open.spotify.com/track/6Gl9tNQtgzQwAcFg17KcqA"
-    },
-    {
-      "added_at": "2024-04-26 00:01:00",
-      "album": {
-        "name": "Contenta tu",
-        "url": "https://open.spotify.com/album/64ZwWE2DOvHUq58xUY5iCv"
-      },
-      "artists": [
-        {
-          "name": "Marco Castello",
-          "url": "https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm"
-        }
-      ],
-      "duration_ms": 275093,
-      "name": "Av\u00f2",
-      "url": "https://open.spotify.com/track/1u2dWJ4qiZfdE88ZJ29DAD"
     },
     {
       "added_at": "2024-04-26 00:01:00",
@@ -911,26 +911,6 @@
     {
       "added_at": "2024-04-26 00:01:00",
       "album": {
-        "name": "Liquid Portraits",
-        "url": "https://open.spotify.com/album/19uGXP6YaIElZQ08aNLJwS"
-      },
-      "artists": [
-        {
-          "name": "Clap! Clap!",
-          "url": "https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF"
-        },
-        {
-          "name": "Domenico Candellori",
-          "url": "https://open.spotify.com/artist/6Mq9l39ixUny3v17eLJJlC"
-        }
-      ],
-      "duration_ms": 245200,
-      "name": "Southern Dub",
-      "url": "https://open.spotify.com/track/157HG6YWfRczb2oksDZXNZ"
-    },
-    {
-      "added_at": "2024-04-26 00:01:00",
-      "album": {
         "name": "Milestones - Un Incontro In Jazz",
         "url": "https://open.spotify.com/album/7CvHJLd6qmyVhoIRnwlbNQ"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 438346,
       "name": "Senza Fine",
       "url": "https://open.spotify.com/track/1vp31dl868PovF1oReS716"
+    },
+    {
+      "added_at": "2024-04-26 00:01:00",
+      "album": {
+        "name": "Liquid Portraits",
+        "url": "https://open.spotify.com/album/19uGXP6YaIElZQ08aNLJwS"
+      },
+      "artists": [
+        {
+          "name": "Clap! Clap!",
+          "url": "https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF"
+        },
+        {
+          "name": "Domenico Candellori",
+          "url": "https://open.spotify.com/artist/6Mq9l39ixUny3v17eLJJlC"
+        }
+      ],
+      "duration_ms": 245200,
+      "name": "Southern Dub",
+      "url": "https://open.spotify.com/track/157HG6YWfRczb2oksDZXNZ"
     },
     {
       "added_at": "2024-04-26 00:01:00",
@@ -1147,6 +1147,30 @@
     {
       "added_at": "2024-04-26 00:01:00",
       "album": {
+        "name": "Thawing Mammoth",
+        "url": "https://open.spotify.com/album/28ws6z8s78tQ7mzm7aPhlG"
+      },
+      "artists": [
+        {
+          "name": "Fresh Frozen",
+          "url": "https://open.spotify.com/artist/2TUdKJ2CtFkgpc4OLC3TFr"
+        },
+        {
+          "name": "Achille Succi",
+          "url": "https://open.spotify.com/artist/7nMG06qmLAIX4L0e5zhZp5"
+        },
+        {
+          "name": "Christopher Culpo",
+          "url": "https://open.spotify.com/artist/77DYoned46RqBGQceX9zxP"
+        }
+      ],
+      "duration_ms": 296146,
+      "name": "Liebe in Kreigszeiten",
+      "url": "https://open.spotify.com/track/50q0IBiYcfDuiwLG5q7aiI"
+    },
+    {
+      "added_at": "2024-04-26 00:01:00",
+      "album": {
         "name": "So In Love",
         "url": "https://open.spotify.com/album/3XXHWtBulLdFVGD8zW0oO2"
       },
@@ -1175,30 +1199,6 @@
       "duration_ms": 292720,
       "name": "Le Tue Mani",
       "url": "https://open.spotify.com/track/497xZ3NsjcAXGs0yx3vs8V"
-    },
-    {
-      "added_at": "2024-04-26 00:01:00",
-      "album": {
-        "name": "Thawing Mammoth",
-        "url": "https://open.spotify.com/album/28ws6z8s78tQ7mzm7aPhlG"
-      },
-      "artists": [
-        {
-          "name": "Fresh Frozen",
-          "url": "https://open.spotify.com/artist/2TUdKJ2CtFkgpc4OLC3TFr"
-        },
-        {
-          "name": "Achille Succi",
-          "url": "https://open.spotify.com/artist/7nMG06qmLAIX4L0e5zhZp5"
-        },
-        {
-          "name": "Christopher Culpo",
-          "url": "https://open.spotify.com/artist/77DYoned46RqBGQceX9zxP"
-        }
-      ],
-      "duration_ms": 296146,
-      "name": "Liebe in Kreigszeiten",
-      "url": "https://open.spotify.com/track/50q0IBiYcfDuiwLG5q7aiI"
     },
     {
       "added_at": "2024-04-26 00:01:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-04-26 00:01:00",
       "album": {
-        "name": "Alchimia",
-        "url": "https://open.spotify.com/album/4bfZxJcBhT7jT7ATaZn1po"
-      },
-      "artists": [
-        {
-          "name": "AIN\u00c9",
-          "url": "https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h"
-        }
-      ],
-      "duration_ms": 225875,
-      "name": "Hangover",
-      "url": "https://open.spotify.com/track/4BUOv7mgtR1KT4VIaidMlP"
-    },
-    {
-      "added_at": "2024-04-26 00:01:00",
-      "album": {
         "name": "You've Changed",
         "url": "https://open.spotify.com/album/7hGEPf44dnLcXPOfs3RBdX"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 302689,
       "name": "Per Ricordarmi Di Te",
       "url": "https://open.spotify.com/track/4vYAHjRiwV0kjb4JIzLlHX"
+    },
+    {
+      "added_at": "2024-04-26 00:01:00",
+      "album": {
+        "name": "Alchimia",
+        "url": "https://open.spotify.com/album/4bfZxJcBhT7jT7ATaZn1po"
+      },
+      "artists": [
+        {
+          "name": "AIN\u00c9",
+          "url": "https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h"
+        }
+      ],
+      "duration_ms": 225875,
+      "name": "Hangover",
+      "url": "https://open.spotify.com/track/4BUOv7mgtR1KT4VIaidMlP"
     },
     {
       "added_at": "2024-04-26 00:01:00",
@@ -1311,26 +1311,6 @@
       "duration_ms": 347989,
       "name": "Preghiera libera",
       "url": "https://open.spotify.com/track/6lILT9lqOxLhE2VOC86hzN"
-    },
-    {
-      "added_at": "2024-04-26 00:01:00",
-      "album": {
-        "name": "Under Italian Skies",
-        "url": "https://open.spotify.com/album/5SxQviRKSPWbCJwgTGf737"
-      },
-      "artists": [
-        {
-          "name": "Roberta Gambarini",
-          "url": "https://open.spotify.com/artist/5tW1LNzRtpzKpzTK7HAWTS"
-        },
-        {
-          "name": "Andrea Donati",
-          "url": "https://open.spotify.com/artist/0NZCNObxYB5k1IDkSNZyc0"
-        }
-      ],
-      "duration_ms": 323533,
-      "name": "Impronte",
-      "url": "https://open.spotify.com/track/6dlMTPMkePiZ4YFn95Tcgv"
     },
     {
       "added_at": "2024-04-26 00:01:00",
@@ -1375,6 +1355,26 @@
     {
       "added_at": "2024-04-26 00:01:00",
       "album": {
+        "name": "Under Italian Skies",
+        "url": "https://open.spotify.com/album/5SxQviRKSPWbCJwgTGf737"
+      },
+      "artists": [
+        {
+          "name": "Roberta Gambarini",
+          "url": "https://open.spotify.com/artist/5tW1LNzRtpzKpzTK7HAWTS"
+        },
+        {
+          "name": "Andrea Donati",
+          "url": "https://open.spotify.com/artist/0NZCNObxYB5k1IDkSNZyc0"
+        }
+      ],
+      "duration_ms": 323533,
+      "name": "Impronte",
+      "url": "https://open.spotify.com/track/6dlMTPMkePiZ4YFn95Tcgv"
+    },
+    {
+      "added_at": "2024-04-26 00:01:00",
+      "album": {
         "name": "Tempo al Tempo",
         "url": "https://open.spotify.com/album/2Pg5JP20FpZXP3S8aveehk"
       },
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-04-26 00:01:00",
       "album": {
-        "name": "Ma Gnossienne",
-        "url": "https://open.spotify.com/album/4VsS8QWKg2kOjqVOeWMwfc"
-      },
-      "artists": [
-        {
-          "name": "Kety Fusco",
-          "url": "https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR"
-        }
-      ],
-      "duration_ms": 270513,
-      "name": "Ma Gnossienne",
-      "url": "https://open.spotify.com/track/3rplUj7APNJWeKkDflOkNV"
-    },
-    {
-      "added_at": "2024-04-26 00:01:00",
-      "album": {
         "name": "La Strada Invisibile",
         "url": "https://open.spotify.com/album/5JEW0isqD0vYpZ0CqGxmhD"
       },
@@ -1443,6 +1427,22 @@
     {
       "added_at": "2024-04-26 00:01:00",
       "album": {
+        "name": "Ma Gnossienne",
+        "url": "https://open.spotify.com/album/4VsS8QWKg2kOjqVOeWMwfc"
+      },
+      "artists": [
+        {
+          "name": "Kety Fusco",
+          "url": "https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR"
+        }
+      ],
+      "duration_ms": 270513,
+      "name": "Ma Gnossienne",
+      "url": "https://open.spotify.com/track/3rplUj7APNJWeKkDflOkNV"
+    },
+    {
+      "added_at": "2024-04-26 00:01:00",
+      "album": {
         "name": "Le mie donne",
         "url": "https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY"
       },
@@ -1455,6 +1455,22 @@
       "duration_ms": 236881,
       "name": "Rosa",
       "url": "https://open.spotify.com/track/3wO2S9SjQkG64qJv81S0ah"
+    },
+    {
+      "added_at": "2024-04-26 00:01:00",
+      "album": {
+        "name": "Radura",
+        "url": "https://open.spotify.com/album/3nVryxhJJLnfUbuDao2GGv"
+      },
+      "artists": [
+        {
+          "name": "Ossa di Cane",
+          "url": "https://open.spotify.com/artist/1VCj5D1j6fAawIRdWE4hxY"
+        }
+      ],
+      "duration_ms": 363000,
+      "name": "Radura",
+      "url": "https://open.spotify.com/track/7uswg3N8MzEXc6f8ACYaCR"
     },
     {
       "added_at": "2024-04-26 00:01:00",
@@ -1511,22 +1527,6 @@
       "duration_ms": 584075,
       "name": "Norma: Casta diva - Arr. for Jazz Orchestra",
       "url": "https://open.spotify.com/track/6F2ZVnF2AXI3sG6bxq1o5x"
-    },
-    {
-      "added_at": "2024-04-26 00:01:00",
-      "album": {
-        "name": "Radura",
-        "url": "https://open.spotify.com/album/3nVryxhJJLnfUbuDao2GGv"
-      },
-      "artists": [
-        {
-          "name": "Ossa di Cane",
-          "url": "https://open.spotify.com/artist/1VCj5D1j6fAawIRdWE4hxY"
-        }
-      ],
-      "duration_ms": 363000,
-      "name": "Radura",
-      "url": "https://open.spotify.com/track/7uswg3N8MzEXc6f8ACYaCR"
     },
     {
       "added_at": "2024-04-26 00:01:00",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2024-04-26 00:01:00",
       "album": {
-        "name": "Don't Beat a Dead Horse",
-        "url": "https://open.spotify.com/album/3qMzzSjhqedavi6i5BrMRa"
-      },
-      "artists": [
-        {
-          "name": "Livio Bartolo",
-          "url": "https://open.spotify.com/artist/77MxqsmJIxcfyJlWMKwPQ4"
-        }
-      ],
-      "duration_ms": 294693,
-      "name": "Campomarino",
-      "url": "https://open.spotify.com/track/5NRZ8uiQUWGtaKOUzoo4qX"
-    },
-    {
-      "added_at": "2024-04-26 00:01:00",
-      "album": {
         "name": "Fera",
         "url": "https://open.spotify.com/album/2izTLnkmVrIV8DTWHJ1bMS"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 145720,
       "name": "Luce coatta",
       "url": "https://open.spotify.com/track/5NtfeXVr7Svsfyh6UfQCME"
+    },
+    {
+      "added_at": "2024-04-26 00:01:00",
+      "album": {
+        "name": "Don't Beat a Dead Horse",
+        "url": "https://open.spotify.com/album/3qMzzSjhqedavi6i5BrMRa"
+      },
+      "artists": [
+        {
+          "name": "Livio Bartolo",
+          "url": "https://open.spotify.com/artist/77MxqsmJIxcfyJlWMKwPQ4"
+        }
+      ],
+      "duration_ms": 294693,
+      "name": "Campomarino",
+      "url": "https://open.spotify.com/track/5NRZ8uiQUWGtaKOUzoo4qX"
     },
     {
       "added_at": "2024-04-26 00:01:00",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2024-04-26 00:01:00",
       "album": {
+        "name": "Something In Our Way",
+        "url": "https://open.spotify.com/album/3gFETZs7VBLDGCIakDFE7x"
+      },
+      "artists": [
+        {
+          "name": "Danilo Rea",
+          "url": "https://open.spotify.com/artist/0px78Y2V2QRl3f8hNtxdst"
+        }
+      ],
+      "duration_ms": 336666,
+      "name": "You Can't Always Get What You Want",
+      "url": "https://open.spotify.com/track/5ULXaeY21pBRmXlRUshUHX"
+    },
+    {
+      "added_at": "2024-04-26 00:01:00",
+      "album": {
         "name": "La Valle Dei Templi",
         "url": "https://open.spotify.com/album/4DStIxg2IyyYIL2K1y504z"
       },
@@ -1827,18 +1843,22 @@
     {
       "added_at": "2024-04-26 00:01:00",
       "album": {
-        "name": "Something In Our Way",
-        "url": "https://open.spotify.com/album/3gFETZs7VBLDGCIakDFE7x"
+        "name": "Projekt Drums Vol. 1",
+        "url": "https://open.spotify.com/album/7y71YM77RqFPGtgIrrLcGH"
       },
       "artists": [
         {
-          "name": "Danilo Rea",
-          "url": "https://open.spotify.com/artist/0px78Y2V2QRl3f8hNtxdst"
+          "name": "Petter Eldh",
+          "url": "https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx"
+        },
+        {
+          "name": "Nate Wood",
+          "url": "https://open.spotify.com/artist/7naYSK1hW7hTZJtrhCrLvR"
         }
       ],
-      "duration_ms": 336666,
-      "name": "You Can't Always Get What You Want",
-      "url": "https://open.spotify.com/track/5ULXaeY21pBRmXlRUshUHX"
+      "duration_ms": 270626,
+      "name": "GREEN STREET feat. Nate Wood",
+      "url": "https://open.spotify.com/track/1lU8Ae52lIvRxHzlcoDPJH"
     },
     {
       "added_at": "2024-04-26 00:01:00",
@@ -1859,18 +1879,18 @@
     {
       "added_at": "2024-04-26 00:01:00",
       "album": {
-        "name": "Preludi - Libro primo (Piano solo)",
-        "url": "https://open.spotify.com/album/0yDZuE0p0IKF2vzNZ1M36A"
+        "name": "Stefano Di Battista",
+        "url": "https://open.spotify.com/album/5132ELCkDRdYcjoZy2zkgP"
       },
       "artists": [
         {
-          "name": "Alessandro Giachero",
-          "url": "https://open.spotify.com/artist/7nfMKW2ylTfNw4r4XvjgMT"
+          "name": "Stefano Di Battista",
+          "url": "https://open.spotify.com/artist/3VPgBrIwuucYkLoZ2yHMjK"
         }
       ],
-      "duration_ms": 268026,
-      "name": "Danza armena",
-      "url": "https://open.spotify.com/track/2aBLmxEtEqmHzjw6VO8FHb"
+      "duration_ms": 310480,
+      "name": "Anastasia",
+      "url": "https://open.spotify.com/track/5X8CuSkUxEbIHuGyXTFEzn"
     },
     {
       "added_at": "2024-04-26 00:01:00",
@@ -1911,22 +1931,18 @@
     {
       "added_at": "2024-04-26 00:01:00",
       "album": {
-        "name": "Projekt Drums Vol. 1",
-        "url": "https://open.spotify.com/album/7y71YM77RqFPGtgIrrLcGH"
+        "name": "Preludi - Libro primo (Piano solo)",
+        "url": "https://open.spotify.com/album/0yDZuE0p0IKF2vzNZ1M36A"
       },
       "artists": [
         {
-          "name": "Petter Eldh",
-          "url": "https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx"
-        },
-        {
-          "name": "Nate Wood",
-          "url": "https://open.spotify.com/artist/7naYSK1hW7hTZJtrhCrLvR"
+          "name": "Alessandro Giachero",
+          "url": "https://open.spotify.com/artist/7nfMKW2ylTfNw4r4XvjgMT"
         }
       ],
-      "duration_ms": 270626,
-      "name": "GREEN STREET feat. Nate Wood",
-      "url": "https://open.spotify.com/track/1lU8Ae52lIvRxHzlcoDPJH"
+      "duration_ms": 268026,
+      "name": "Danza armena",
+      "url": "https://open.spotify.com/track/2aBLmxEtEqmHzjw6VO8FHb"
     },
     {
       "added_at": "2024-04-26 00:01:00",
@@ -1947,34 +1963,22 @@
     {
       "added_at": "2024-04-26 00:01:00",
       "album": {
-        "name": "Stefano Di Battista",
-        "url": "https://open.spotify.com/album/5132ELCkDRdYcjoZy2zkgP"
+        "name": "Kuni",
+        "url": "https://open.spotify.com/album/11abDqHpb7lxOGlA8eSVaM"
       },
       "artists": [
         {
-          "name": "Stefano Di Battista",
-          "url": "https://open.spotify.com/artist/3VPgBrIwuucYkLoZ2yHMjK"
-        }
-      ],
-      "duration_ms": 310480,
-      "name": "Anastasia",
-      "url": "https://open.spotify.com/track/5X8CuSkUxEbIHuGyXTFEzn"
-    },
-    {
-      "added_at": "2024-04-26 00:01:00",
-      "album": {
-        "name": "Aurum",
-        "url": "https://open.spotify.com/album/0dzcOq4Tn4NLVQJTnttUfs"
-      },
-      "artists": [
+          "name": "LNDFK",
+          "url": "https://open.spotify.com/artist/2PyFLSnE2J670nBHdmwil4"
+        },
         {
-          "name": "Piero Delle Monache",
-          "url": "https://open.spotify.com/artist/2JFA9BRChlRo2w7gTTKaXa"
+          "name": "Pink Siifu",
+          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
         }
       ],
-      "duration_ms": 371466,
-      "name": "La risacca",
-      "url": "https://open.spotify.com/track/5WHclQJvdxDgLMcQqmYqGu"
+      "duration_ms": 231426,
+      "name": "How Do We Know We're Alive",
+      "url": "https://open.spotify.com/track/1TWaQhJl64imsWiRRh8BlP"
     }
   ],
   "unique_name": "Jazz Italia",

@@ -1,6 +1,6 @@
 {
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
-  "num_followers": 139253,
+  "num_followers": 139309,
   "original_name": "Chocolate Crente",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-04-26 03:45:13",
       "album": {
-        "name": "Rastros e Trilha",
-        "url": "https://open.spotify.com/album/6AQjmvg9tvK1584vkpNZeA"
-      },
-      "artists": [
-        {
-          "name": "Os Arrais",
-          "url": "https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS"
-        }
-      ],
-      "duration_ms": 302653,
-      "name": "Deserto",
-      "url": "https://open.spotify.com/track/61fJbKeTzsoKwSgYEFjmsY"
-    },
-    {
-      "added_at": "2024-04-26 03:45:13",
-      "album": {
         "name": "O Tempo N\u00e3o Para",
         "url": "https://open.spotify.com/album/0ZMuQTRuZCZVZ9un30jtRi"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 202431,
       "name": "O Tempo N\u00e3o Para",
       "url": "https://open.spotify.com/track/4QnTfzAGFfEfxJMC6qkCIC"
+    },
+    {
+      "added_at": "2024-04-26 03:45:13",
+      "album": {
+        "name": "Rastros e Trilha",
+        "url": "https://open.spotify.com/album/6AQjmvg9tvK1584vkpNZeA"
+      },
+      "artists": [
+        {
+          "name": "Os Arrais",
+          "url": "https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS"
+        }
+      ],
+      "duration_ms": 302653,
+      "name": "Deserto",
+      "url": "https://open.spotify.com/track/61fJbKeTzsoKwSgYEFjmsY"
     },
     {
       "added_at": "2024-04-26 03:45:13",
@@ -487,6 +487,22 @@
     {
       "added_at": "2024-04-26 03:45:13",
       "album": {
+        "name": "sentido",
+        "url": "https://open.spotify.com/album/4t1ekkA6FdPbdL7z7BzNRH"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
+        }
+      ],
+      "duration_ms": 289985,
+      "name": "Deus sabe, Deus ouve, Deus v\u00ea",
+      "url": "https://open.spotify.com/track/2Me9phCz0A7Oartexu3GiU"
+    },
+    {
+      "added_at": "2024-04-26 03:45:13",
+      "album": {
         "name": "Meu Repouso",
         "url": "https://open.spotify.com/album/7qpFHHhj9wl7nscVenR1dx"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 258749,
       "name": "Meu Repouso",
       "url": "https://open.spotify.com/track/6cgavHjYBa1QWCTTC6d1Sn"
-    },
-    {
-      "added_at": "2024-04-26 03:45:13",
-      "album": {
-        "name": "sentido",
-        "url": "https://open.spotify.com/album/4t1ekkA6FdPbdL7z7BzNRH"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Gon\u00e7alves",
-          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
-        }
-      ],
-      "duration_ms": 289985,
-      "name": "Deus sabe, Deus ouve, Deus v\u00ea",
-      "url": "https://open.spotify.com/track/2Me9phCz0A7Oartexu3GiU"
     },
     {
       "added_at": "2024-04-26 03:45:13",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-04-26 03:45:13",
       "album": {
-        "name": "O Que Se Faz Aqui pra Ser Feliz (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2Io37WuevaunbyNIzqpj0v"
-      },
-      "artists": [
-        {
-          "name": "Nathan Asafe",
-          "url": "https://open.spotify.com/artist/5ChPhSZzFXnTujdXY0FhMA"
-        }
-      ],
-      "duration_ms": 302750,
-      "name": "O Que Se Faz Aqui pra Ser Feliz - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3LH84g4ns7kiJtOvZkyoea"
-    },
-    {
-      "added_at": "2024-04-26 03:45:13",
-      "album": {
         "name": "Dear God (Acoustic)",
         "url": "https://open.spotify.com/album/3gxqjuUVhBQ0Gb3tRZyD2m"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 217373,
       "name": "Dear God - Acoustic",
       "url": "https://open.spotify.com/track/4qCv9ASsTJ4kg8gsUWUaAD"
+    },
+    {
+      "added_at": "2024-04-26 03:45:13",
+      "album": {
+        "name": "O Que Se Faz Aqui pra Ser Feliz (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2Io37WuevaunbyNIzqpj0v"
+      },
+      "artists": [
+        {
+          "name": "Nathan Asafe",
+          "url": "https://open.spotify.com/artist/5ChPhSZzFXnTujdXY0FhMA"
+        }
+      ],
+      "duration_ms": 302750,
+      "name": "O Que Se Faz Aqui pra Ser Feliz - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3LH84g4ns7kiJtOvZkyoea"
     },
     {
       "added_at": "2024-04-26 03:45:13",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-04-26 03:45:13",
       "album": {
-        "name": "Experimente a Jornada",
-        "url": "https://open.spotify.com/album/2VS7dM6KkUCwyClbJA0zU0"
-      },
-      "artists": [
-        {
-          "name": "Projeto Norte",
-          "url": "https://open.spotify.com/artist/77pooouVVZn9N4eqWdiyhe"
-        }
-      ],
-      "duration_ms": 267972,
-      "name": "Incrivelmente",
-      "url": "https://open.spotify.com/track/7e5dxB4XlHbzakVj25TvQS"
-    },
-    {
-      "added_at": "2024-04-26 03:45:13",
-      "album": {
         "name": "Tua Presen\u00e7a Vale Mais",
         "url": "https://open.spotify.com/album/7547nl48X9lwWNOYsbXsaq"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 360000,
       "name": "Tua Presen\u00e7a Vale Mais",
       "url": "https://open.spotify.com/track/4ghsOtdYykkVMzKgD2Z07g"
+    },
+    {
+      "added_at": "2024-04-26 03:45:13",
+      "album": {
+        "name": "Experimente a Jornada",
+        "url": "https://open.spotify.com/album/2VS7dM6KkUCwyClbJA0zU0"
+      },
+      "artists": [
+        {
+          "name": "Projeto Norte",
+          "url": "https://open.spotify.com/artist/77pooouVVZn9N4eqWdiyhe"
+        }
+      ],
+      "duration_ms": 267972,
+      "name": "Incrivelmente",
+      "url": "https://open.spotify.com/track/7e5dxB4XlHbzakVj25TvQS"
     },
     {
       "added_at": "2024-04-26 03:45:13",
@@ -979,6 +979,22 @@
     {
       "added_at": "2024-04-26 03:45:13",
       "album": {
+        "name": "Coragem",
+        "url": "https://open.spotify.com/album/3kGyXvpJx1IrYx9HwjlO3G"
+      },
+      "artists": [
+        {
+          "name": "Netto",
+          "url": "https://open.spotify.com/artist/5awlcFnDX9Dst9FAu5zgFP"
+        }
+      ],
+      "duration_ms": 265982,
+      "name": "Coragem",
+      "url": "https://open.spotify.com/track/1RUoOYWFB0ofFixpupBK4K"
+    },
+    {
+      "added_at": "2024-04-26 03:45:13",
+      "album": {
         "name": "Louvor IV",
         "url": "https://open.spotify.com/album/4B961hpeGLK1YHTqP0PJp9"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 292788,
       "name": "Louvor IV",
       "url": "https://open.spotify.com/track/6MMr4Yqk7Oa8NsoksmxACf"
-    },
-    {
-      "added_at": "2024-04-26 03:45:13",
-      "album": {
-        "name": "Coragem",
-        "url": "https://open.spotify.com/album/3kGyXvpJx1IrYx9HwjlO3G"
-      },
-      "artists": [
-        {
-          "name": "Netto",
-          "url": "https://open.spotify.com/artist/5awlcFnDX9Dst9FAu5zgFP"
-        }
-      ],
-      "duration_ms": 265982,
-      "name": "Coragem",
-      "url": "https://open.spotify.com/track/1RUoOYWFB0ofFixpupBK4K"
     },
     {
       "added_at": "2024-04-26 03:45:13",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-04-26 03:45:13",
       "album": {
-        "name": "O Banquete",
-        "url": "https://open.spotify.com/album/3S5w5Tta9oQ6LN2PNoWJ5l"
-      },
-      "artists": [
-        {
-          "name": "O Bairro Novo",
-          "url": "https://open.spotify.com/artist/03lFVbrzJauPmQwZpiJ4zD"
-        }
-      ],
-      "duration_ms": 280760,
-      "name": "Corpo I",
-      "url": "https://open.spotify.com/track/7tU7sxEqyLoguEGbjiiiRl"
-    },
-    {
-      "added_at": "2024-04-26 03:45:13",
-      "album": {
         "name": "Meu Grande Amor (Vers\u00e3o Cordas)",
         "url": "https://open.spotify.com/album/2B1yYnuXCiZQ5GCDUHEdIe"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 442247,
       "name": "Meu Grande Amor - Vers\u00e3o Cordas",
       "url": "https://open.spotify.com/track/5Qtirs1grBbL6IlqlBa97i"
+    },
+    {
+      "added_at": "2024-04-26 03:45:13",
+      "album": {
+        "name": "O Banquete",
+        "url": "https://open.spotify.com/album/3S5w5Tta9oQ6LN2PNoWJ5l"
+      },
+      "artists": [
+        {
+          "name": "O Bairro Novo",
+          "url": "https://open.spotify.com/artist/03lFVbrzJauPmQwZpiJ4zD"
+        }
+      ],
+      "duration_ms": 280760,
+      "name": "Corpo I",
+      "url": "https://open.spotify.com/track/7tU7sxEqyLoguEGbjiiiRl"
     },
     {
       "added_at": "2024-04-26 03:45:13",

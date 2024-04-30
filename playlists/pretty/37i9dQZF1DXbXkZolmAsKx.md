@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXkZolmAsKx.md) - [plain]
 
 > The best Ambient tracks from 2010 to 2019.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,894 likes - 100 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,908 likes - 100 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXkZolmAsKx.md) - [plain]
 | 30 | [Terrazzo](https://open.spotify.com/track/6zH4JhuFvC8Fe6DSGv61cC) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG), [Motion Graphics](https://open.spotify.com/artist/0vmZnQdyuSYbU9F61oApmi) | [Reassemblage](https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK) | 3:40 |
 | 31 | [Space 21 \(petrichor\)](https://open.spotify.com/track/679TvUwIfLbD9lD0jX8DiR) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Ben Russell](https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB), [Yuki Numata Resnick](https://open.spotify.com/artist/2TVn6PQxnrxlIq4F2Vz3Qs), [Caleb Burhans](https://open.spotify.com/artist/3962g9Dfd93mJSVy1D37LF), [Brian Snow](https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi), [Clarice Jensen](https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a) | [From Sleep](https://open.spotify.com/album/0NRiFdiO6WfhUnHiev18x3) | 4:47 |
 | 32 | [Spherule](https://open.spotify.com/track/1zc4Z207PHoigtQsnRrdxG) | [Warmth](https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d) | [Parallel](https://open.spotify.com/album/4l0OF60qnRJ4Q7n35yt7wX) | 7:06 |
-| 33 | [First Time Ruth Saw The Sea \- Original Mix](https://open.spotify.com/track/1986yd9X1YNziEDbpVBn9U) | [Gigi Masin](https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx) | [Talk To The Sea](https://open.spotify.com/album/2Ug1g1ufvv4D4K4iooE3wK) | 3:19 |
-| 34 | [Huit](https://open.spotify.com/track/6VvOYb9aPWQnpFyvKKsYZW) | [Sky H1](https://open.spotify.com/artist/4PWm0R7GT00XJa3TIFoUT4) | [Mono No Aware](https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk) | 3:50 |
+| 33 | [Huit](https://open.spotify.com/track/6VvOYb9aPWQnpFyvKKsYZW) | [Sky H1](https://open.spotify.com/artist/4PWm0R7GT00XJa3TIFoUT4) | [Mono No Aware](https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk) | 3:50 |
+| 34 | [First Time Ruth Saw The Sea \- Original Mix](https://open.spotify.com/track/1986yd9X1YNziEDbpVBn9U) | [Gigi Masin](https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx) | [Talk To The Sea](https://open.spotify.com/album/2Ug1g1ufvv4D4K4iooE3wK) | 3:19 |
 | 35 | [Hanging Glass Structure](https://open.spotify.com/track/7M2AMJZISkdKAzHg7n2CUZ) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde), [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Passive Aggressive](https://open.spotify.com/album/06CnAHZC6NtWc1f0vuKi9l) | 3:27 |
 | 36 | [Calamus](https://open.spotify.com/track/204GTh8baiHsw4dM97xkmJ) | [Chuck Johnson](https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f) | [Balsams](https://open.spotify.com/album/2rWkvguXepRyMmxIe8Brx3) | 5:10 |
 | 37 | [Made of Metal](https://open.spotify.com/track/4v9gSomhAcOYSU7VBpJkA1) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Ruins](https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa) | 1:38 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXkZolmAsKx.md) - [plain]
 | 64 | [Opening](https://open.spotify.com/track/7H3bUCNluOOnkBx5yQ9NwU) | [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER), [Sebastian Plano](https://open.spotify.com/artist/7epYP6gVqTvHaKG7iSMAzr) | [Everything](https://open.spotify.com/album/4josdBWbgaRcF4bEh7U7v4) | 3:34 |
 | 65 | [Warm](https://open.spotify.com/track/0IFWJo11X5L7ZkFeW43H65) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Nightmare Ending](https://open.spotify.com/album/1XKm22uQVwp5JLNjRDRC4P) | 7:09 |
 | 66 | [Walking in a spiral towards the house: Side D](https://open.spotify.com/track/4F8HlqT6gkJDytZwMwhtGE) | [Nivhek](https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl) | [After its own death / Walking in a spiral towards the house](https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB) | 12:28 |
-| 67 | [Without Motion \- Leandro Fresco Remix](https://open.spotify.com/track/4i2ihtWmnw8ixJePZEVuzY) | [The Sight Below](https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY), [Leandro Fresco](https://open.spotify.com/artist/0gJgTQEVl62dN80lQbOBK5) | [Glider 10: Reworks](https://open.spotify.com/album/6TyK7H8NrVyaVQ3EYQc2kF) | 7:44 |
-| 68 | [Faded Earth](https://open.spotify.com/track/5d6YkxTsmw6isMtqsw8vzh) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Low Distance](https://open.spotify.com/album/7eA7lexsBpvgs17la5jRc0) | 3:47 |
+| 67 | [Faded Earth](https://open.spotify.com/track/5d6YkxTsmw6isMtqsw8vzh) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Low Distance](https://open.spotify.com/album/7eA7lexsBpvgs17la5jRc0) | 3:47 |
+| 68 | [Without Motion \- Leandro Fresco Remix](https://open.spotify.com/track/4i2ihtWmnw8ixJePZEVuzY) | [The Sight Below](https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY), [Leandro Fresco](https://open.spotify.com/artist/0gJgTQEVl62dN80lQbOBK5) | [Glider 10: Reworks](https://open.spotify.com/album/6TyK7H8NrVyaVQ3EYQc2kF) | 7:44 |
 | 69 | [Distant](https://open.spotify.com/track/4ORqFshD5gbl8GtOo8GMTI) | [Hilyard](https://open.spotify.com/artist/6Eys8fI3z5ifobsUtZqbo0) | [Distant and Spirals](https://open.spotify.com/album/6SpGVAZE5ANPlGF4Nqme5R) | 6:44 |
 | 70 | [Equal Ourselves](https://open.spotify.com/track/3P8K105H7ecziOaAuVh4RN) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Moiety](https://open.spotify.com/album/26bsye3Q78IE7Kees8v8iO) | 3:59 |
 | 71 | [soft rime](https://open.spotify.com/track/5ueoXRkvTrIq9rGYCGRdwu) | [Hirotaka Shirotsubaki](https://open.spotify.com/artist/5ujHOCDCgJcR25vPFKlQ9N) | [chapter](https://open.spotify.com/album/6ngt1QPHyq3rCaYdffI03e) | 4:47 |

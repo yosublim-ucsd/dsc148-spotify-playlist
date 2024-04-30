@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now!  Cover: I Don't Like Mondays.
 
-1,051 songs - 2 day 21 hr 28 min
+1,052 songs - 2 day 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -530,6 +530,7 @@
 | [Tear Down](https://open.spotify.com/track/03gSWDA9k6VJD6IJRMVjyB) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Tear Down](https://open.spotify.com/album/1vpH5sFlWAf0JnXEhsDWkt) | 3:52 | 2022-08-23 | 2022-09-15 |
 | [Tear Down](https://open.spotify.com/track/2XMkoCqatTSUnpLmyOdQ4Q) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Tear Down](https://open.spotify.com/album/6EfehHNU5IdlduY7lX9QZU) | 3:52 | 2022-08-23 | 2022-08-25 |
 | [The Beginning of the End](https://open.spotify.com/track/4DyNo4QolzSJQbBtZnkRmQ) | [Damian Hamada's Creatures](https://open.spotify.com/artist/5mu3Lpg65rLQhkwqwPLPVe) | [The Beginning of the End](https://open.spotify.com/album/7kZBW9mm5qBkPSIYbkJRCG) | 3:58 | 2023-09-12 | 2023-09-20 |
+| [The Devil In Me](https://open.spotify.com/track/57prMTCyOqhfOs042UrRf2) | [DIR EN GREY](https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA) | [The Devil In Me](https://open.spotify.com/album/3xkbf6N5kOoxqJugkKaShu) | 4:23 | 2024-04-23 |  |
 | [The Gong of Knockout](https://open.spotify.com/track/7eITsVSfN8kKAxT35hoKF2) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [HYPERTOUGHNESS](https://open.spotify.com/album/1521QnIsozCLhE19hCwp5M) | 3:30 | 2023-09-26 | 2024-01-04 |
 | [The Good Life](https://open.spotify.com/track/4557IsgjMtoOyFTAtkpHvh) | [Monkey Majik](https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG) | [The Good Life](https://open.spotify.com/album/4f8XLvx5R7ZhdjyYsV0cE4) | 3:06 | 2024-01-30 | 2024-04-24 |
 | [THE GREAT ESCAPE](https://open.spotify.com/track/529hG2KRGHFeZoVg9fe20G) | [トライセラトップス](https://open.spotify.com/artist/00J5DWQel4eH9qQnDS6qrn) | [THE GREAT ESCAPE](https://open.spotify.com/album/5KXP25lpqzX9MZ7xIG3CBn) | 3:46 | 2022-05-19 | 2022-06-09 |
@@ -974,7 +975,7 @@
 | [燈](https://open.spotify.com/track/5U5ZUDFkEDbErnxGUISDI5) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [燈](https://open.spotify.com/album/61xd3iE3CxUoBoswb7xrZ5) | 3:52 | 2022-05-10 | 2022-07-25 |
 | [物語のように](https://open.spotify.com/track/1B3x3AMvyCR1Ce5pjl56hM) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [物語のように](https://open.spotify.com/album/5nCrvokzQ6dm6NhPLHZEAG) | 4:30 | 2022-05-19 | 2022-05-25 |
 | [狂乱 Hey Kids!!](https://open.spotify.com/track/0ax0UBVE6S1Qh6ReyJbyXk) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [FIXION](https://open.spotify.com/album/31hzHZDypaPz7M1AyIoMt9) | 4:10 | 2024-04-03 |  |
-| [狐独の才望](https://open.spotify.com/track/5mFKFCT5LXuxTLcrcpoCvp) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [狐独の才望](https://open.spotify.com/album/2w7en8SKXZXiZRVXmGZQG5) | 3:32 | 2023-11-08 |  |
+| [狐独の才望](https://open.spotify.com/track/5mFKFCT5LXuxTLcrcpoCvp) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [狐独の才望](https://open.spotify.com/album/2w7en8SKXZXiZRVXmGZQG5) | 3:32 | 2023-11-08 | 2024-04-30 |
 | [瓶に入れた手紙](https://open.spotify.com/track/7EhW8U2IXJKE9eOIOu1NEx) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [The End of Yesterday](https://open.spotify.com/album/60ZYXQLKm2CcOrPD661eh9) | 3:46 | 2022-12-20 | 2023-03-27 |
 | [疾風怒濤](https://open.spotify.com/track/4JYrIuBfx1G0PjkMgapzsj) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [疾風怒濤](https://open.spotify.com/album/4dTOxbXSDpVGs4tR6ByCZQ) | 3:56 | 2022-05-10 | 2022-07-28 |
 | [痣花](https://open.spotify.com/track/6QfvqC4DiR8beMeRlh03o8) | [Plastic Tree](https://open.spotify.com/artist/5O4DsTkJ6z2eTSvIHZ6sDo) | [痣花](https://open.spotify.com/album/4rQf0w3pw3xTheLURpi0bB) | 5:52 | 2023-07-18 | 2023-07-20 |

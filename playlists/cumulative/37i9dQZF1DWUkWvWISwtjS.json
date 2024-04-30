@@ -2194,7 +2194,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 153756,
       "name": "Segue O Plano - Ao Vivo",
       "url": "https://open.spotify.com/track/4fPT1t2uhxDepW6OFMqvpD"
@@ -2470,6 +2470,24 @@
       "duration_ms": 183695,
       "name": "S\u00f3 de Sacanagem - Ao Vivo",
       "url": "https://open.spotify.com/track/40zJaB3z53PGaxIkYyieBP"
+    },
+    {
+      "album": {
+        "name": "Sou do Interior (Ao Vivo) [Deluxe]",
+        "url": "https://open.spotify.com/album/7wo5bswQTsr4Nmk97UNG3V"
+      },
+      "artists": [
+        {
+          "name": "Fernando & Sorocaba",
+          "url": "https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176835,
+      "name": "Terapinga - Ao Vivo",
+      "url": "https://open.spotify.com/track/2YCTACQ3QfMr9QtlGI2tQE"
     },
     {
       "album": {

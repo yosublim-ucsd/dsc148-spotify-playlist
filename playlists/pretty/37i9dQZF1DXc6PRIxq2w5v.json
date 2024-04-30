@@ -1,6 +1,6 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: VICTIN, RAMON EL BRABO",
-  "num_followers": 167526,
+  "num_followers": 167452,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
@@ -851,30 +851,6 @@
     {
       "added_at": "2024-04-26 03:01:00",
       "album": {
-        "name": "Paulo & Silas",
-        "url": "https://open.spotify.com/album/3HO8J0o54JCm2rdhqleCHd"
-      },
-      "artists": [
-        {
-          "name": "Tutuzzin",
-          "url": "https://open.spotify.com/artist/3SaccMFDUNE7d14h7MoWDN"
-        },
-        {
-          "name": "Lookas",
-          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
-        },
-        {
-          "name": "Z\u00c9ZIIN",
-          "url": "https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ"
-        }
-      ],
-      "duration_ms": 173222,
-      "name": "Paulo & Silas",
-      "url": "https://open.spotify.com/track/4so9ijYlh3tSUYlotbdUPg"
-    },
-    {
-      "added_at": "2024-04-26 03:01:00",
-      "album": {
         "name": "Quando Eu Oro",
         "url": "https://open.spotify.com/album/72K8kXBI35lTVyf5TcVw2S"
       },
@@ -895,6 +871,30 @@
       "duration_ms": 158040,
       "name": "Quando Eu Oro",
       "url": "https://open.spotify.com/track/7G5Fm1W2Dff5Yxh479fLoG"
+    },
+    {
+      "added_at": "2024-04-26 03:01:00",
+      "album": {
+        "name": "Paulo & Silas",
+        "url": "https://open.spotify.com/album/3HO8J0o54JCm2rdhqleCHd"
+      },
+      "artists": [
+        {
+          "name": "Tutuzzin",
+          "url": "https://open.spotify.com/artist/3SaccMFDUNE7d14h7MoWDN"
+        },
+        {
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
+        },
+        {
+          "name": "Z\u00c9ZIIN",
+          "url": "https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ"
+        }
+      ],
+      "duration_ms": 173222,
+      "name": "Paulo & Silas",
+      "url": "https://open.spotify.com/track/4so9ijYlh3tSUYlotbdUPg"
     },
     {
       "added_at": "2024-04-26 03:01:00",
@@ -1171,26 +1171,18 @@
     {
       "added_at": "2024-04-26 03:01:00",
       "album": {
-        "name": "Gratid\u00e3o",
-        "url": "https://open.spotify.com/album/3tKHxULEO1rG2tzXlvGB0U"
+        "name": "Josu\u00e9",
+        "url": "https://open.spotify.com/album/4alndyUSzhaSpXTllj2BEw"
       },
       "artists": [
         {
-          "name": "Felipin",
-          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
-        },
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+          "name": "2metro",
+          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
         }
       ],
-      "duration_ms": 138475,
-      "name": "Gratid\u00e3o",
-      "url": "https://open.spotify.com/track/6hP6Hoivjj4EruHu06PRmT"
+      "duration_ms": 177915,
+      "name": "Josu\u00e9",
+      "url": "https://open.spotify.com/track/2iRkqHy6UISks72qUAwqL7"
     },
     {
       "added_at": "2024-04-26 03:01:00",
@@ -1223,6 +1215,30 @@
       "duration_ms": 186293,
       "name": "Me Faz Bem",
       "url": "https://open.spotify.com/track/332XZaNZUvAAsDsbtKknZE"
+    },
+    {
+      "added_at": "2024-04-26 03:01:00",
+      "album": {
+        "name": "Gratid\u00e3o",
+        "url": "https://open.spotify.com/album/3tKHxULEO1rG2tzXlvGB0U"
+      },
+      "artists": [
+        {
+          "name": "Felipin",
+          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
+        },
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "duration_ms": 138475,
+      "name": "Gratid\u00e3o",
+      "url": "https://open.spotify.com/track/6hP6Hoivjj4EruHu06PRmT"
     },
     {
       "added_at": "2024-04-26 03:01:00",
@@ -1303,22 +1319,6 @@
     {
       "added_at": "2024-04-26 03:01:00",
       "album": {
-        "name": "Josu\u00e9",
-        "url": "https://open.spotify.com/album/4alndyUSzhaSpXTllj2BEw"
-      },
-      "artists": [
-        {
-          "name": "2metro",
-          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
-        }
-      ],
-      "duration_ms": 177915,
-      "name": "Josu\u00e9",
-      "url": "https://open.spotify.com/track/2iRkqHy6UISks72qUAwqL7"
-    },
-    {
-      "added_at": "2024-04-26 03:01:00",
-      "album": {
         "name": "Lesgo",
         "url": "https://open.spotify.com/album/45RX4lG5DndxH8ce22aTZV"
       },
@@ -1355,22 +1355,6 @@
       "duration_ms": 155300,
       "name": "Prosseguir",
       "url": "https://open.spotify.com/track/5YgA2Dmg3RVyss3Z47zljv"
-    },
-    {
-      "added_at": "2024-04-26 03:01:00",
-      "album": {
-        "name": "Fala pra eles que \u00e9 o Felipin",
-        "url": "https://open.spotify.com/album/4rkYtgLw1tpT4KjNweAZzB"
-      },
-      "artists": [
-        {
-          "name": "Felipin",
-          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
-        }
-      ],
-      "duration_ms": 179016,
-      "name": "Alian\u00e7a",
-      "url": "https://open.spotify.com/track/3ZzagOjGIFvKr6FoCOkybw"
     },
     {
       "added_at": "2024-04-26 03:01:00",
@@ -1431,6 +1415,22 @@
     {
       "added_at": "2024-04-26 03:01:00",
       "album": {
+        "name": "Fala pra eles que \u00e9 o Felipin",
+        "url": "https://open.spotify.com/album/4rkYtgLw1tpT4KjNweAZzB"
+      },
+      "artists": [
+        {
+          "name": "Felipin",
+          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
+        }
+      ],
+      "duration_ms": 179016,
+      "name": "Alian\u00e7a",
+      "url": "https://open.spotify.com/track/3ZzagOjGIFvKr6FoCOkybw"
+    },
+    {
+      "added_at": "2024-04-26 03:01:00",
+      "album": {
         "name": "Mais Perto do C\u00e9u",
         "url": "https://open.spotify.com/album/5Web1BoC0jrAhTbB9zrgjk"
       },
@@ -1451,30 +1451,6 @@
       "duration_ms": 157568,
       "name": "Mais Perto do C\u00e9u",
       "url": "https://open.spotify.com/track/42DMceznqA2BZIpdJTdJC9"
-    },
-    {
-      "added_at": "2024-04-26 03:01:00",
-      "album": {
-        "name": "Me Deixou Forte",
-        "url": "https://open.spotify.com/album/3mBjCMB5t6X6FU6K1sm5Va"
-      },
-      "artists": [
-        {
-          "name": "Felipin",
-          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 164102,
-      "name": "Me Deixou Forte",
-      "url": "https://open.spotify.com/track/0LdLcXxSnWUJ1AQX1KPQ70"
     },
     {
       "added_at": "2024-04-26 03:01:00",
@@ -1555,6 +1531,30 @@
       "duration_ms": 180000,
       "name": "Meu Primeiro Amor",
       "url": "https://open.spotify.com/track/1HcrSEND8hKaRuFWRNzpfg"
+    },
+    {
+      "added_at": "2024-04-26 03:01:00",
+      "album": {
+        "name": "Me Deixou Forte",
+        "url": "https://open.spotify.com/album/3mBjCMB5t6X6FU6K1sm5Va"
+      },
+      "artists": [
+        {
+          "name": "Felipin",
+          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "duration_ms": 164102,
+      "name": "Me Deixou Forte",
+      "url": "https://open.spotify.com/track/0LdLcXxSnWUJ1AQX1KPQ70"
     },
     {
       "added_at": "2024-04-26 03:01:00",

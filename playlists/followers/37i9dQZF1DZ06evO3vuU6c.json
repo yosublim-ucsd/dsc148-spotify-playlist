@@ -1,7 +1,7 @@
 {
-  "2024-04-29": 1383681,
+  "2024-04-30": 1383268,
   "date_first_scraped": "2023-07-29",
-  "description": "This Is Sia. Los temas esenciales, todos en una lista.",
+  "description": "This is Sia. The essential tracks, all in one playlist.",
   "name": "This Is Sia",
   "tracks": [
     {
@@ -489,7 +489,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 250133,
       "name": "Elastic Heart - Piano Version",
       "url": "https://open.spotify.com/track/0udoMICxzaUbNUT8EVRq8B"
@@ -1137,7 +1137,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-28",
+      "date_removed": null,
       "duration_ms": 197026,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/2xie0OhRzMjWE1Be82sC0k"

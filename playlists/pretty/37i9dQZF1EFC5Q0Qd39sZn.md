@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,710 likes - 509 songs - 1 day 11 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,712 likes - 509 songs - 1 day 11 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,8 +134,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 124 | [How Many Times, How Many Lies](https://open.spotify.com/track/7FUNXj1tiocAaBSvD7stT6) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [PCD](https://open.spotify.com/album/5x8e8UcCeOgrOzSnDGuPye) | 3:55 |
 | 125 | [Don't Take Away My Heaven](https://open.spotify.com/track/1cn5Mwu4U4b7JFxIVFWlKj) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [The Grand Tour](https://open.spotify.com/album/244kealm5K00bfuRFlolwF) | 4:40 |
 | 126 | [Water From The Moon](https://open.spotify.com/track/2kpXktIVu9aoHPnIyXAtoc) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Celine Dion](https://open.spotify.com/album/7C6LFxLn63uasNoDIQ5khO) | 4:39 |
-| 127 | [Music Of The Sun](https://open.spotify.com/track/3vPkkIsaQ5NqOqvj7Ht8kR) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Music Of The Sun](https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz) | 3:56 |
-| 128 | [All I Want Is Forever](https://open.spotify.com/track/6lUfWjM1Gw4dWt5Ro2rHE0) | [Regina Belle](https://open.spotify.com/artist/3J9tQvcK0bY3CcVcgRELxH) | [Stay With Me](https://open.spotify.com/album/3rQZT5l3PZVv100H8zH32U) | 4:31 |
+| 127 | [All I Want Is Forever](https://open.spotify.com/track/6lUfWjM1Gw4dWt5Ro2rHE0) | [Regina Belle](https://open.spotify.com/artist/3J9tQvcK0bY3CcVcgRELxH) | [Stay With Me](https://open.spotify.com/album/3rQZT5l3PZVv100H8zH32U) | 4:31 |
+| 128 | [Music Of The Sun](https://open.spotify.com/track/3vPkkIsaQ5NqOqvj7Ht8kR) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Music Of The Sun](https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz) | 3:56 |
 | 129 | [The Time Alone With You](https://open.spotify.com/track/4qVzqyB11x7Rsk2hAs5dgj) | [Bad English](https://open.spotify.com/artist/5fhMbh4PVSLSODF2fhWwqt) | [BACKLASH](https://open.spotify.com/album/0AoG5TUFJKiWG8JNhOTIw0) | 4:40 |
 | 130 | [Turn On The Night](https://open.spotify.com/track/3L5dCw2G1sNtAaZ0cqUBnY) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Crazy Nights](https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN) | 3:18 |
 | 131 | [Eu Vou Seguir](https://open.spotify.com/track/4YgjSOSNFfcKEt0MA7YK7m) | [Marina Elali](https://open.spotify.com/artist/77Wl6L20WG41VO6pqpHrkL) | [De Corpo e Alma Outra Vez](https://open.spotify.com/album/2JojYLWjB8Y0dN33PmHYcm) | 3:51 |
@@ -220,7 +220,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 210 | [I Don't Want to Be Your Friend](https://open.spotify.com/track/6XIgcKoXQbJEr6E8EikAyC) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [A Night To Remember](https://open.spotify.com/album/3wegC2LXYCQknfUuOYBwmz) | 4:21 |
 | 211 | [Too Gone, Too Long](https://open.spotify.com/track/2IOjsucrORGHHlqIlF3OAF) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [EV3](https://open.spotify.com/album/3mn8mLqRknZCD8o7Ruy4BN) | 4:42 |
 | 212 | [Exceptional](https://open.spotify.com/track/7nqKm8Nj4GXmvknMjjc9vf) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [The High Road](https://open.spotify.com/album/3ym3JtyhWmVIJzEzTCCsHa) | 3:43 |
-| 213 | [Still Here](https://open.spotify.com/track/5hyHIDjxCGP0efNx6qwmu0) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [I Remember Me](https://open.spotify.com/album/73xzYfVVYvkwYrhb5iUvjH) | 3:41 |
+| 213 | [Still Here](https://open.spotify.com/track/5mUSwG3evrOHHdyvDjHAwq) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [I Remember Me](https://open.spotify.com/album/6J9qxrEjVwIHfccIrHhgeJ) | 3:41 |
 | 214 | [Delete You](https://open.spotify.com/track/5LXEgus3zxYYBruGDy14tx) | [Ashley Tisdale](https://open.spotify.com/artist/2ddxtfC0oS8LoktXUHE7YL) | [Guilty Pleasure](https://open.spotify.com/album/4iKfmBKXuzPROAXBuZKAVM) | 3:33 |
 | 215 | [Nic Nás Nezastaví](https://open.spotify.com/track/027HCxtutlZLuErAbNKOoi) | [Karel Gott](https://open.spotify.com/artist/4zaslnpNr10iUFJGx0XqpM), [Gabriela Gunčíková](https://open.spotify.com/artist/1hP5sHxrXXIEoobF4EGcie) | [Dotek Lásky](https://open.spotify.com/album/4xLycbbzp5p1gxGR7YZMtd) | 3:51 |
 | 216 | [The Change](https://open.spotify.com/track/2buUEhuN8I6tZ27kaWfqyh) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [The Change](https://open.spotify.com/album/1bZb08UfxnPsbz8MN2hhbF) | 3:35 |
@@ -500,8 +500,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 490 | [Never Gonna Tame You](https://open.spotify.com/track/1IUKwL6P40tVxnrn18Zx5Q) | [Nyasia Chane'l](https://open.spotify.com/artist/73axMD27fgWTP6aCtGWqW7) | [Never Gonna Tame You](https://open.spotify.com/album/4F6z0E504Uqy9pF3YQAA7P) | 3:42 |
 | 491 | [Good Things Take Time](https://open.spotify.com/track/6WcCdbV8I4vkJS3513w1U8) | [Tyler Collins](https://open.spotify.com/artist/5huMtuPNUReK11RrCYwP0p), [Keith "Kc" Cohen](https://open.spotify.com/artist/1044NKEAaGJ76ULKFyrO9u), [Dave Aron](https://open.spotify.com/artist/62nl0bGlq1JumMss6EFzFh), [Airiq Anest](https://open.spotify.com/artist/5Jj4Rq9vB3MACoRzle0nb2) | [Tyler](https://open.spotify.com/album/4H6ClSkkeWUXdiM7w2my93) | 5:02 |
 | 492 | [Je vous dis merci](https://open.spotify.com/track/7IkPmUXEccnXCalWiM4Nsg) | [Dominique Michalon](https://open.spotify.com/artist/6jPyZa4C2G5uSDZNOncrEx) | [Si je n'étais pas moi](https://open.spotify.com/album/3FThUQRthdThnpM7OsGKTr) | 3:53 |
-| 493 | [We Don't Know How to Say Goodbye](https://open.spotify.com/track/0EDFBgs5Ak6WLpGd9JkPRU) | [Clive Griffin](https://open.spotify.com/artist/7piYJtFSV6vtj2pK5TyHJI) | [Clive Griffin](https://open.spotify.com/album/0RvuKuxGlbBgXWECCHdw5F) | 3:46 |
-| 494 | [Don't Come Cryin'](https://open.spotify.com/track/4tMTtOFomcCVIF727bU4qf) | [Fiona](https://open.spotify.com/artist/2WyOrgeRrZC4Z4Mh82IQva) | [Squeeze](https://open.spotify.com/album/0uPxiq6UrITOnow8MPYKt3) | 4:08 |
+| 493 | [Don't Come Cryin'](https://open.spotify.com/track/4tMTtOFomcCVIF727bU4qf) | [Fiona](https://open.spotify.com/artist/2WyOrgeRrZC4Z4Mh82IQva) | [Squeeze](https://open.spotify.com/album/0uPxiq6UrITOnow8MPYKt3) | 4:08 |
+| 494 | [We Don't Know How to Say Goodbye](https://open.spotify.com/track/0EDFBgs5Ak6WLpGd9JkPRU) | [Clive Griffin](https://open.spotify.com/artist/7piYJtFSV6vtj2pK5TyHJI) | [Clive Griffin](https://open.spotify.com/album/0RvuKuxGlbBgXWECCHdw5F) | 3:46 |
 | 495 | [Dein Lied in mir \- Spanish Guitar](https://open.spotify.com/track/3PIZ7Y9GXAcGtWUtNF3Xd4) | [Isabel Varell](https://open.spotify.com/artist/7x7KzRIrx3os6s2zHGFuEL) | [Heut ist mein Tag](https://open.spotify.com/album/4OaGSN8f9ITyPQ7Ui7TYP8) | 4:16 |
 | 496 | [Loving You Is All I Know](https://open.spotify.com/track/2IKxEzeJaEDioeuxVMxtCs) | [Christina Undhjem](https://open.spotify.com/artist/32eduOoS9D0HT4LwQBkwp0) | [Christina Undhjem EP](https://open.spotify.com/album/77GQSMnOaY5HxEPVpFzkf9) | 3:59 |
 | 497 | [Please \(Dreams\)](https://open.spotify.com/track/1EsNIWbFSDLioy2DyVUcyZ) | [Nádine](https://open.spotify.com/artist/3toTOSECKyxnsmrCsdQs2U) | [As Jy Wonder](https://open.spotify.com/album/5Zk9BF3z2U4tvBc6Bg18w5) | 4:03 |
@@ -518,4 +518,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 508 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 509 | [Have You Ever Been Lonely](https://open.spotify.com/track/7MVfFDPFQwI1rE0sH1ntco) | [Raymond Wallbank](https://open.spotify.com/artist/0M0yiAaU5OOxqwKYmkrEy0) | [Easy Listening Organs](https://open.spotify.com/album/5jUrzVWqVclpNKGVMs8DDP) | 0:56 |
 
-Snapshot ID: `Mjg1NzI3MzAsMDAwMDAwMDAyMTZlOTdmMThiN2M0NTE2MWRlZTUzMmU3ODQzNDIyZQ==`
+Snapshot ID: `Mjg1NzQwNTAsMDAwMDAwMDA5NWFkOWY2OWI1YWMwOTExZjNlNWVhMWRkMDFiNmVjMg==`

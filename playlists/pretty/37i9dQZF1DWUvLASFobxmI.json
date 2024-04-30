@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Pesado en portada.",
-  "num_followers": 478249,
+  "num_followers": 477997,
   "original_name": "Norte\u00f1o 2024",
   "owner": {
     "name": "Spotify",
@@ -1227,22 +1227,18 @@
     {
       "added_at": "2024-04-26 16:35:54",
       "album": {
-        "name": "Arriba Las Manos",
-        "url": "https://open.spotify.com/album/2SdiLZLXiB5vsRiQKn06T8"
+        "name": "Broche De Oro, Vol. 2",
+        "url": "https://open.spotify.com/album/3wxMFWQmft2AiryqyyH7Rx"
       },
       "artists": [
         {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
         }
       ],
-      "duration_ms": 135960,
-      "name": "Arriba Las Manos",
-      "url": "https://open.spotify.com/track/3mcXM4NI0gkRDKWcSwGCp5"
+      "duration_ms": 148260,
+      "name": "Cari\u00f1ito",
+      "url": "https://open.spotify.com/track/78bZloQ9Yj19NrafB8YW5e"
     },
     {
       "added_at": "2024-04-26 16:35:54",
@@ -1263,6 +1259,26 @@
     {
       "added_at": "2024-04-26 16:35:54",
       "album": {
+        "name": "Arriba Las Manos",
+        "url": "https://open.spotify.com/album/2SdiLZLXiB5vsRiQKn06T8"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 135960,
+      "name": "Arriba Las Manos",
+      "url": "https://open.spotify.com/track/3mcXM4NI0gkRDKWcSwGCp5"
+    },
+    {
+      "added_at": "2024-04-26 16:35:54",
+      "album": {
         "name": "Andar Conmigo",
         "url": "https://open.spotify.com/album/14ZqBGDlPREpvTqc9OV1dI"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 204956,
       "name": "Andar Conmigo",
       "url": "https://open.spotify.com/track/2UXGtSYtOOucPOXKQTWBjt"
-    },
-    {
-      "added_at": "2024-04-26 16:35:54",
-      "album": {
-        "name": "Broche De Oro, Vol. 2",
-        "url": "https://open.spotify.com/album/3wxMFWQmft2AiryqyyH7Rx"
-      },
-      "artists": [
-        {
-          "name": "Grupo Clasificado",
-          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
-        }
-      ],
-      "duration_ms": 148260,
-      "name": "Cari\u00f1ito",
-      "url": "https://open.spotify.com/track/78bZloQ9Yj19NrafB8YW5e"
     },
     {
       "added_at": "2024-04-26 16:35:54",
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2024-04-26 16:35:54",
       "album": {
-        "name": "Haciendo Magia",
-        "url": "https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 155818,
-      "name": "Y Sigues Siendo T\u00fa",
-      "url": "https://open.spotify.com/track/4AGPU9325LRTIBsBSJ5v75"
-    },
-    {
-      "added_at": "2024-04-26 16:35:54",
-      "album": {
         "name": "Me Rehuso",
         "url": "https://open.spotify.com/album/2PoPSX8a3Nw2CUe3rha7DY"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 240128,
       "name": "Pobre Coraz\u00f3n",
       "url": "https://open.spotify.com/track/03f6JBgQT5ZnvoojD6bVE8"
+    },
+    {
+      "added_at": "2024-04-26 16:35:54",
+      "album": {
+        "name": "Haciendo Magia",
+        "url": "https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 155818,
+      "name": "Y Sigues Siendo T\u00fa",
+      "url": "https://open.spotify.com/track/4AGPU9325LRTIBsBSJ5v75"
     },
     {
       "added_at": "2024-04-26 16:35:54",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-04-26 16:35:54",
       "album": {
-        "name": "La Venganza",
-        "url": "https://open.spotify.com/album/6jpC8oHw1UC0MZLQVdnQPN"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 170706,
-      "name": "La Venganza",
-      "url": "https://open.spotify.com/track/6b8rE8DorNNvfaEyBmcWlv"
-    },
-    {
-      "added_at": "2024-04-26 16:35:54",
-      "album": {
         "name": "Se Me Solt\u00f3 El Hocico",
         "url": "https://open.spotify.com/album/0aPf2P7gK0p0hOmsLMwPzc"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 175319,
       "name": "Se Me Solt\u00f3 El Hocico",
       "url": "https://open.spotify.com/track/2DRt6GO4cpDrchof7iCJvU"
+    },
+    {
+      "added_at": "2024-04-26 16:35:54",
+      "album": {
+        "name": "La Venganza",
+        "url": "https://open.spotify.com/album/6jpC8oHw1UC0MZLQVdnQPN"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 170706,
+      "name": "La Venganza",
+      "url": "https://open.spotify.com/track/6b8rE8DorNNvfaEyBmcWlv"
     },
     {
       "added_at": "2024-04-26 16:35:54",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2024-04-26 16:35:54",
       "album": {
-        "name": "Malas Decisiones",
-        "url": "https://open.spotify.com/album/1SBtatmdkqzCgt16ujwPBZ"
+        "name": "Y Es el Contacto \u00a1Raza!",
+        "url": "https://open.spotify.com/album/1GSv17RyzcqpZBHjHtgO1X"
       },
       "artists": [
         {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+          "name": "Contacto Norte",
+          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
         }
       ],
-      "duration_ms": 207400,
-      "name": "Malas Decisiones",
-      "url": "https://open.spotify.com/track/2VYutJTaiK3oJursGk9z6a"
+      "duration_ms": 168045,
+      "name": "El Agua Clara",
+      "url": "https://open.spotify.com/track/35Fjjqjlq3YRJbK8QM7OGK"
     },
     {
       "added_at": "2024-04-26 16:35:54",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2024-04-26 16:35:54",
       "album": {
-        "name": "Y Es el Contacto \u00a1Raza!",
-        "url": "https://open.spotify.com/album/1GSv17RyzcqpZBHjHtgO1X"
+        "name": "Malas Decisiones",
+        "url": "https://open.spotify.com/album/1SBtatmdkqzCgt16ujwPBZ"
       },
       "artists": [
         {
-          "name": "Contacto Norte",
-          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 168045,
-      "name": "El Agua Clara",
-      "url": "https://open.spotify.com/track/35Fjjqjlq3YRJbK8QM7OGK"
+      "duration_ms": 207400,
+      "name": "Malas Decisiones",
+      "url": "https://open.spotify.com/track/2VYutJTaiK3oJursGk9z6a"
     },
     {
       "added_at": "2024-04-26 16:35:54",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2024-04-26 16:35:54",
       "album": {
-        "name": "Juanito Barrera",
-        "url": "https://open.spotify.com/album/4Dl07qLfWuHvE3lWGGQaSt"
-      },
-      "artists": [
-        {
-          "name": "Los Ramones De Nuevo Leon",
-          "url": "https://open.spotify.com/artist/4QNjwKEWrjiqpq1GJ8D6Qw"
-        }
-      ],
-      "duration_ms": 237725,
-      "name": "Juanito Barrera",
-      "url": "https://open.spotify.com/track/2zjeKiLrrazGhzStMQNhTf"
-    },
-    {
-      "added_at": "2024-04-26 16:35:54",
-      "album": {
         "name": "La Historia",
         "url": "https://open.spotify.com/album/3tW5IUDFgvR8XDhQom7oL4"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 151800,
       "name": "Y Soporten",
       "url": "https://open.spotify.com/track/5PLRKvmEZfoiv2D4mwy6yj"
+    },
+    {
+      "added_at": "2024-04-26 16:35:54",
+      "album": {
+        "name": "Juanito Barrera",
+        "url": "https://open.spotify.com/album/4Dl07qLfWuHvE3lWGGQaSt"
+      },
+      "artists": [
+        {
+          "name": "Los Ramones De Nuevo Leon",
+          "url": "https://open.spotify.com/artist/4QNjwKEWrjiqpq1GJ8D6Qw"
+        }
+      ],
+      "duration_ms": 237725,
+      "name": "Juanito Barrera",
+      "url": "https://open.spotify.com/track/2zjeKiLrrazGhzStMQNhTf"
     },
     {
       "added_at": "2024-04-26 16:35:54",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2024-04-26 16:35:54",
       "album": {
-        "name": "Me Gustas Te Gusto",
-        "url": "https://open.spotify.com/album/4foID1AlUm2eGNIDoDiiAb"
-      },
-      "artists": [
-        {
-          "name": "Geru y Su Legion 7",
-          "url": "https://open.spotify.com/artist/4BNrYSNWfcX7x10nmCpkch"
-        }
-      ],
-      "duration_ms": 192933,
-      "name": "Me Gustas Te Gusto",
-      "url": "https://open.spotify.com/track/1Z02yuUx0hXmqLPTtnLxiC"
-    },
-    {
-      "added_at": "2024-04-26 16:35:54",
-      "album": {
         "name": "\u00a1Hey!",
         "url": "https://open.spotify.com/album/5kNeKv3GxJNyienZjExJKu"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 188171,
       "name": "\u00a1Hey!",
       "url": "https://open.spotify.com/track/3PRwPh22ki2c7QNxlr120N"
+    },
+    {
+      "added_at": "2024-04-26 16:35:54",
+      "album": {
+        "name": "Me Gustas Te Gusto",
+        "url": "https://open.spotify.com/album/4foID1AlUm2eGNIDoDiiAb"
+      },
+      "artists": [
+        {
+          "name": "Geru y Su Legion 7",
+          "url": "https://open.spotify.com/artist/4BNrYSNWfcX7x10nmCpkch"
+        }
+      ],
+      "duration_ms": 192933,
+      "name": "Me Gustas Te Gusto",
+      "url": "https://open.spotify.com/track/1Z02yuUx0hXmqLPTtnLxiC"
     },
     {
       "added_at": "2024-04-26 16:35:54",

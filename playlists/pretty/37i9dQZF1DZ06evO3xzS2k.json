@@ -1,12 +1,12 @@
 {
   "description": "This is Nothing. The essential tracks, all in one playlist.",
-  "num_followers": 2200,
+  "num_followers": 2204,
   "original_name": "This Is Nothing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDE3NjAwMCwwMDAwMDAwMDYzMzVjNTBmYzEwZWM5Nzk3ZTQyNTAwOTI0NGQ0OTg5",
+  "snapshot_id": "MTcxNDI2MjQwMCwwMDAwMDAwMGM4ZTU1ZWExNjA4YmYwNGQ5YjgwMjEyNzQyMWIyZTcy",
   "tracks": [
     {
       "added_at": null,
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 242759,
-      "name": "Dig",
-      "url": "https://open.spotify.com/track/2jUvEnpLXGQh94Qoymx4P8"
+      "duration_ms": 177216,
+      "name": "Bent Nail",
+      "url": "https://open.spotify.com/track/7l3ccltGPIkcICT4u3Cko6"
     },
     {
       "added_at": null,
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 272840,
-      "name": "Wild Blue",
-      "url": "https://open.spotify.com/track/2r5JFrwl0quzXoGNSqWqe4"
+      "duration_ms": 491133,
+      "name": "Rose Tinted World",
+      "url": "https://open.spotify.com/track/67vYna8TF0R0kQfN92x933"
     },
     {
       "added_at": null,
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 177216,
-      "name": "Bent Nail",
-      "url": "https://open.spotify.com/track/7l3ccltGPIkcICT4u3Cko6"
+      "duration_ms": 242759,
+      "name": "Dig",
+      "url": "https://open.spotify.com/track/2jUvEnpLXGQh94Qoymx4P8"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 491133,
-      "name": "Rose Tinted World",
-      "url": "https://open.spotify.com/track/67vYna8TF0R0kQfN92x933"
+      "duration_ms": 272840,
+      "name": "Wild Blue",
+      "url": "https://open.spotify.com/track/2r5JFrwl0quzXoGNSqWqe4"
     },
     {
       "added_at": null,
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 158013,
-      "name": "The Dives (Lazarus in Ashes)",
-      "url": "https://open.spotify.com/track/2sEGs6OadzAdCKJV5GOzvD"
+      "duration_ms": 284351,
+      "name": "Suns and Lovers",
+      "url": "https://open.spotify.com/track/3lS6ELc4is0o0MO0rveAAc"
     },
     {
       "added_at": null,
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 284351,
-      "name": "Suns and Lovers",
-      "url": "https://open.spotify.com/track/3lS6ELc4is0o0MO0rveAAc"
+      "duration_ms": 158013,
+      "name": "The Dives (Lazarus in Ashes)",
+      "url": "https://open.spotify.com/track/2sEGs6OadzAdCKJV5GOzvD"
     }
   ],
   "unique_name": "This Is Nothing",

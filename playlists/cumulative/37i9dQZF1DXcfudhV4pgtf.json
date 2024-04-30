@@ -471,6 +471,24 @@
     },
     {
       "album": {
+        "name": "Feelin'",
+        "url": "https://open.spotify.com/album/0RTmBSVTMfd6oIQ1Z0WwCv"
+      },
+      "artists": [
+        {
+          "name": "Anfisa Letyago",
+          "url": "https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165125,
+      "name": "Feelin'",
+      "url": "https://open.spotify.com/track/4mm3PG3fwbfLpmdVUmjM3T"
+    },
+    {
+      "album": {
         "name": "algo5",
         "url": "https://open.spotify.com/album/2kJPQTsAu7DsOocDZeLnzD"
       },
@@ -1144,7 +1162,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 363341,
       "name": "Orizzonte - Adiel Remix",
       "url": "https://open.spotify.com/track/6WoTOvMZyBiNr4bPLTjMxd"

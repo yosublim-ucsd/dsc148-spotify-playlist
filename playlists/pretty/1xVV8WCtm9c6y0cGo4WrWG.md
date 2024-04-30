@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1xVV8WCtm9c6y0cGo4WrWG.md) - [plain]
 
 > New music from your favourite hip\-hop artists, updated weekly! Featuring Drake, J\. Cole, Yeat and more! Sign up <a href="https://forms.umusic\-online.com/forms/\-MymKGNlc3qqAKkFa\_Hi">here</a> for exclusives, merch &amp; more\. Cover: GloRilla
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 23,452 likes - 100 songs - 5 hr 8 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 23,444 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

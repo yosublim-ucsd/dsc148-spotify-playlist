@@ -1,12 +1,12 @@
 {
   "description": "This is Gabriela Rocha. The essential tracks, all in one playlist.",
-  "num_followers": 259684,
+  "num_followers": 259430,
   "original_name": "This Is Gabriela Rocha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDE3NjAwMCwwMDAwMDAwMDJmMTk4ZjQyMWM4MTYyMTkwZTg4NzE0ZjY3Y2JjZmM3",
+  "snapshot_id": "MTcxNDI2MjQwMCwwMDAwMDAwMDM2NGQ5YTZhN2M2ZTEyYjEwMWNiNjg0YWNiYzI0NjU1",
   "tracks": [
     {
       "added_at": null,
@@ -407,26 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can\u00e7\u00e3o do C\u00e9u (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2KGMmd1fToQKwrpeEDMkhS"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        },
-        {
-          "name": "J\u00e9ssica Augusto",
-          "url": "https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH"
-        }
-      ],
-      "duration_ms": 499584,
-      "name": "Can\u00e7\u00e3o do C\u00e9u - Ao vivo",
-      "url": "https://open.spotify.com/track/3ZO97iaXkDq9Y7sMv0atus"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tuas \u00c1guas",
         "url": "https://open.spotify.com/album/0Zbya7Y1hAjWuvkIe7Id8M"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 310200,
       "name": "Tuas \u00c1guas",
       "url": "https://open.spotify.com/track/4viVbBp6H0iP8VeCp3EQge"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Can\u00e7\u00e3o do C\u00e9u (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2KGMmd1fToQKwrpeEDMkhS"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        },
+        {
+          "name": "J\u00e9ssica Augusto",
+          "url": "https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH"
+        }
+      ],
+      "duration_ms": 499584,
+      "name": "Can\u00e7\u00e3o do C\u00e9u - Ao vivo",
+      "url": "https://open.spotify.com/track/3ZO97iaXkDq9Y7sMv0atus"
     },
     {
       "added_at": null,
@@ -623,30 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o H\u00e1 Nome Maior",
-        "url": "https://open.spotify.com/album/6vuoxQ1WYRV4xAKBm7f9ok"
-      },
-      "artists": [
-        {
-          "name": "REVERE",
-          "url": "https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb"
-        },
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 309890,
-      "name": "N\u00e3o H\u00e1 Nome Maior",
-      "url": "https://open.spotify.com/track/4WkdRazRRMtnsvdyiiC7FB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Som da Liberdade 2.0",
         "url": "https://open.spotify.com/album/2bRpKofUSDkDG6Dlwem8Nr"
       },
@@ -667,6 +643,30 @@
       "duration_ms": 264374,
       "name": "Tu \u00c9s Real (feat. Fernandinho & Gabriela Rocha)",
       "url": "https://open.spotify.com/track/4DGIx4poXzDrzh0U1qguyT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e3o H\u00e1 Nome Maior",
+        "url": "https://open.spotify.com/album/6vuoxQ1WYRV4xAKBm7f9ok"
+      },
+      "artists": [
+        {
+          "name": "REVERE",
+          "url": "https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb"
+        },
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 309890,
+      "name": "N\u00e3o H\u00e1 Nome Maior",
+      "url": "https://open.spotify.com/track/4WkdRazRRMtnsvdyiiC7FB"
     },
     {
       "added_at": null,
@@ -759,26 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o H\u00e1 Lugar Mais Alto (No Hay Lugar M\u00e1s Alto - Versi\u00f3n Portugu\u00e9s)",
-        "url": "https://open.spotify.com/album/0tByw96XA7W1pqB6yVPqZP"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        },
-        {
-          "name": "Miel San Marcos",
-          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
-        }
-      ],
-      "duration_ms": 305180,
-      "name": "N\u00e3o H\u00e1 Lugar Mais Alto (No Hay Lugar M\u00e1s Alto - Versi\u00f3n Portugu\u00e9s)",
-      "url": "https://open.spotify.com/track/19mAVzo7vhfnUx41Hed1ML"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Lembro (feat. Gabriela Rocha) [Ao Vivo]",
         "url": "https://open.spotify.com/album/466xz1jfDwRSeHZxxLXpsw"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 535931,
       "name": "Me Lembro (feat. Gabriela Rocha) - Ao Vivo",
       "url": "https://open.spotify.com/track/2no4Dq2nbKKTjpraKC8Hq1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e3o H\u00e1 Lugar Mais Alto (No Hay Lugar M\u00e1s Alto - Versi\u00f3n Portugu\u00e9s)",
+        "url": "https://open.spotify.com/album/0tByw96XA7W1pqB6yVPqZP"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "duration_ms": 305180,
+      "name": "N\u00e3o H\u00e1 Lugar Mais Alto (No Hay Lugar M\u00e1s Alto - Versi\u00f3n Portugu\u00e9s)",
+      "url": "https://open.spotify.com/track/19mAVzo7vhfnUx41Hed1ML"
     },
     {
       "added_at": null,

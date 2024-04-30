@@ -2,7 +2,7 @@
 
 ### [This Is Shania Twain](https://open.spotify.com/playlist/37i9dQZF1DZ06evO34wsE0)
 
-> This is: Shania Twain\. Alle wichtigen Tracks in einer Playlist.
+> This is Shania Twain\. The essential tracks, all in one playlist.
 
 54 songs - 3 hr 12 min
 

@@ -1,5 +1,5 @@
 {
-  "2024-04-29": 8,
+  "2024-04-30": 8,
   "date_first_scraped": "2023-05-22",
   "description": "Questionable in both morals and taste.",
   "name": "Questionable Bops",
@@ -523,6 +523,24 @@
       "duration_ms": 170520,
       "name": "Freaks - Radio Edit",
       "url": "https://open.spotify.com/track/0LXcDLTEW5ybAt2IOVQnfe"
+    },
+    {
+      "album": {
+        "name": "Tudum Remix",
+        "url": "https://open.spotify.com/album/38e5jYSDDCkTEKFYy5IGss"
+      },
+      "artists": [
+        {
+          "name": "Hefty",
+          "url": "https://open.spotify.com/artist/7hOM7jG6GXxugQGe9JN8Kk"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 30304,
+      "name": "Funk da Netflix: onde tudo come\u00e7ou",
+      "url": "https://open.spotify.com/track/04pEkmPO7jLJfRhM9UGQA4"
     },
     {
       "album": {

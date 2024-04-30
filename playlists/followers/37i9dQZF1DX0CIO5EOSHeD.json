@@ -1,5 +1,5 @@
 {
-  "2024-04-29": 486367,
+  "2024-04-30": 486465,
   "date_first_scraped": "2020-10-27",
   "description": "Slacker jams. Cover: Bnny",
   "name": "Lofi Indie",
@@ -6809,7 +6809,7 @@
       ],
       "date_added": "2021-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 179669,
       "name": "Warning Sign - Alt Version",
       "url": "https://open.spotify.com/track/1rIols5fQBAIwsCuN4kFXG"
@@ -7221,6 +7221,24 @@
       "duration_ms": 275172,
       "name": "yr face",
       "url": "https://open.spotify.com/track/4droTj7wxmaPFhaJ1fI3D4"
+    },
+    {
+      "album": {
+        "name": "slowdeatha",
+        "url": "https://open.spotify.com/album/6hNRksuaH2jrRJomSZAHOf"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Milk Cult",
+          "url": "https://open.spotify.com/artist/3r5D13Q9I4sLrC1bsJK0gR"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "yucky",
+      "url": "https://open.spotify.com/track/6rT9CCmJFSEh0Kjut40obV"
     },
     {
       "album": {

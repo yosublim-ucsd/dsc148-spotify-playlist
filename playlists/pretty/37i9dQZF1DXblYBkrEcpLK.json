@@ -1,6 +1,6 @@
 {
   "description": "\u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u9054\u3092\u7279\u96c6\uff01 Celebrate the great female artists from anime culture. Cover: LiSA",
-  "num_followers": 157745,
+  "num_followers": 157838,
   "original_name": "EQUAL Anime",
   "owner": {
     "name": "Spotify",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-04-23 15:00:00",
       "album": {
-        "name": "\u904b\u547d\u3061\u3083\u3093",
-        "url": "https://open.spotify.com/album/4a7LxWB47pTyCvLdK7LvJj"
-      },
-      "artists": [
-        {
-          "name": "Ikimonogakari",
-          "url": "https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ"
-        }
-      ],
-      "duration_ms": 196960,
-      "name": "\u904b\u547d\u3061\u3083\u3093",
-      "url": "https://open.spotify.com/track/6hrFluMqAYUB7708EnnpiN"
-    },
-    {
-      "added_at": "2024-04-23 15:00:00",
-      "album": {
         "name": "\u96d1\u8e0f\u3001\u50d5\u3089\u306e\u8857",
         "url": "https://open.spotify.com/album/5aX0n53SHMx8iHE6ctlOwh"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 184243,
       "name": "\u96d1\u8e0f\u3001\u50d5\u3089\u306e\u8857",
       "url": "https://open.spotify.com/track/0tNSVPZeJjpNH7Q9VqrbyJ"
+    },
+    {
+      "added_at": "2024-04-23 15:00:00",
+      "album": {
+        "name": "\u904b\u547d\u3061\u3083\u3093",
+        "url": "https://open.spotify.com/album/4a7LxWB47pTyCvLdK7LvJj"
+      },
+      "artists": [
+        {
+          "name": "Ikimonogakari",
+          "url": "https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ"
+        }
+      ],
+      "duration_ms": 196960,
+      "name": "\u904b\u547d\u3061\u3083\u3093",
+      "url": "https://open.spotify.com/track/6hrFluMqAYUB7708EnnpiN"
     },
     {
       "added_at": "2024-04-23 15:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-04-23 15:00:00",
       "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/0ztVGhgz9NTdpZNIcblSWh"
-      },
-      "artists": [
-        {
-          "name": "DAZBEE",
-          "url": "https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz"
-        }
-      ],
-      "duration_ms": 199426,
-      "name": "Scarlet",
-      "url": "https://open.spotify.com/track/0vX1RAPKBJgkxLZnyL2OLS"
-    },
-    {
-      "added_at": "2024-04-23 15:00:00",
-      "album": {
         "name": "\u65c5\u306e\u3086\u304f\u3048",
         "url": "https://open.spotify.com/album/79FxBaskvhHUSmrYJsNid1"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 214639,
       "name": "\u65c5\u306e\u3086\u304f\u3048",
       "url": "https://open.spotify.com/track/7kOzUAVtgt0zovCULJ7oSv"
+    },
+    {
+      "added_at": "2024-04-23 15:00:00",
+      "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/0ztVGhgz9NTdpZNIcblSWh"
+      },
+      "artists": [
+        {
+          "name": "DAZBEE",
+          "url": "https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz"
+        }
+      ],
+      "duration_ms": 199426,
+      "name": "Scarlet",
+      "url": "https://open.spotify.com/track/0vX1RAPKBJgkxLZnyL2OLS"
     },
     {
       "added_at": "2024-04-23 15:00:00",

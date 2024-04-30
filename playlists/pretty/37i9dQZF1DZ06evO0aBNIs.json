@@ -1,12 +1,12 @@
 {
   "description": "This is Avril Lavigne. The essential tracks, all in one playlist.",
-  "num_followers": 676913,
+  "num_followers": 676751,
   "original_name": "This Is Avril Lavigne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDE3NjAwMCwwMDAwMDAwMGE3ZTJkMjBmOGJhMDlmNzY5Yzg2YzgwMTA2YjI2NmVi",
+  "snapshot_id": "MTcxNDI2MjQwMCwwMDAwMDAwMGNlZTAwM2U3ZjFmMzE0NzBhYjYwYzdkMGViNTc3MDFm",
   "tracks": [
     {
       "added_at": null,
@@ -671,18 +671,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Sux",
-        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
+        "name": "Ambitions",
+        "url": "https://open.spotify.com/album/6R01MdFYUhoIjxqdq6NV8b"
       },
       "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        },
         {
           "name": "Avril Lavigne",
           "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 167794,
-      "name": "F.U.",
-      "url": "https://open.spotify.com/track/2pp1JDxpXuqRINtpxl0e4h"
+      "duration_ms": 218992,
+      "name": "Listen (featuring Avril Lavigne)",
+      "url": "https://open.spotify.com/track/0GT5m0eIa0OATOECdQtcsk"
     },
     {
       "added_at": null,
@@ -719,26 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ambitions",
-        "url": "https://open.spotify.com/album/6R01MdFYUhoIjxqdq6NV8b"
-      },
-      "artists": [
-        {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
-        },
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 218992,
-      "name": "Listen (featuring Avril Lavigne)",
-      "url": "https://open.spotify.com/track/0GT5m0eIa0OATOECdQtcsk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Sux",
         "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
       },
@@ -748,9 +732,9 @@
           "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 170273,
-      "name": "Kiss Me Like The World Is Ending",
-      "url": "https://open.spotify.com/track/7rYRIG2g3zW0ERcVTenxra"
+      "duration_ms": 167794,
+      "name": "F.U.",
+      "url": "https://open.spotify.com/track/2pp1JDxpXuqRINtpxl0e4h"
     },
     {
       "added_at": null,
@@ -771,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Head Above Water",
+        "url": "https://open.spotify.com/album/3FrkD0TTaXBuW19vuEhDGz"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 188573,
+      "name": "Tell Me It's Over",
+      "url": "https://open.spotify.com/track/0aeZzfSoZAcETjba8MCvco"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Goodbye Lullaby (Expanded Edition)",
         "url": "https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF"
       },
@@ -787,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Head Above Water",
-        "url": "https://open.spotify.com/album/3FrkD0TTaXBuW19vuEhDGz"
+        "name": "Love Sux",
+        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
       },
       "artists": [
         {
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 188573,
-      "name": "Tell Me It's Over",
-      "url": "https://open.spotify.com/track/0aeZzfSoZAcETjba8MCvco"
+      "duration_ms": 170273,
+      "name": "Kiss Me Like The World Is Ending",
+      "url": "https://open.spotify.com/track/7rYRIG2g3zW0ERcVTenxra"
     },
     {
       "added_at": null,

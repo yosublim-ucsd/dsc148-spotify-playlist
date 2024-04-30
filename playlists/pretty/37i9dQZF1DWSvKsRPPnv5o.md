@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: YG
 
-[Spotify](https://open.spotify.com/user/spotify) - 723,943 likes - 80 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 723,744 likes - 80 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 47 | [Face no Book](https://open.spotify.com/track/5c5qbRMz03GPy7Mj1Fpn6G) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei) | [Face no Book](https://open.spotify.com/album/69Z4SGlHRBjljGmHsmS5fu) | 2:24 |
 | 48 | [Pose For Me](https://open.spotify.com/track/1sgTUndxucoDRXlJds4fZ9) | [John Mackk](https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw) | [Pose For Me](https://open.spotify.com/album/1V8F5yi1IO7cmAVD6e7Dfw) | 1:28 |
 | 49 | [If We Being Rëal](https://open.spotify.com/track/2NQsRx1Zz1lwKU7JvwZfRW) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093 \(P2\)](https://open.spotify.com/album/7aUeYDjGYo8wMKcpeGFRbg) | 2:52 |
-| 50 | [that's right daddy \(feat\. Igwe Aka & Mercury\)](https://open.spotify.com/track/3mUMCfl8kOxAR6rPEAl7bv) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c), [Hippie Sabotage](https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE), [Igwe Aka](https://open.spotify.com/artist/00dT0myy0kbq152QWIzRPI), [Mercury](https://open.spotify.com/artist/65KzmKTmARM8EBVoxki2gn) | [BRODIE WORLD](https://open.spotify.com/album/5EFo4KSj5d5ajfczZiVwlI) | 3:09 |
+| 50 | [that's right daddy \(feat\. Igwe Aka & Mercury\)](https://open.spotify.com/track/3mUMCfl8kOxAR6rPEAl7bv) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c), [Hippie Sabotage](https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE), [Igwe Aka](https://open.spotify.com/artist/00dT0myy0kbq152QWIzRPI), [Mercury](https://open.spotify.com/artist/6aIZIwesnYKR6ZN1fIerPZ) | [BRODIE WORLD](https://open.spotify.com/album/5EFo4KSj5d5ajfczZiVwlI) | 3:09 |
 | 51 | [Ghetto Barbie](https://open.spotify.com/track/5q4AyMRaXeAZ61ns0moZg6) | [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb), [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk) | [Fenix Flexin Vol\. 3](https://open.spotify.com/album/1ZefxpDa6v1nUij91wY62w) | 2:14 |
 | 52 | [Obviously](https://open.spotify.com/track/5wruY6p3CCjSuR1OCOKrp1) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA) | [Obviously](https://open.spotify.com/album/3FUo0QMZ5BPtvVSOhlvQbj) | 2:01 |
 | 53 | [Heart Ain't Empty](https://open.spotify.com/track/1PqnJfIMxnUrpUISfdbPGQ) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Heart Ain't Empty](https://open.spotify.com/album/7s00wxQvavyaVWYPJjL9gr) | 2:57 |

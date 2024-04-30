@@ -1,7 +1,7 @@
 {
-  "2024-04-29": 26639,
+  "2024-04-30": 26644,
   "date_first_scraped": "2023-12-14",
-  "description": "This is Mr. Big. The essential tracks, all in one playlist.",
+  "description": "This Is Mr. Big. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
   "name": "This Is Mr. Big",
   "tracks": [
     {
@@ -521,7 +521,7 @@
       ],
       "date_added": "2024-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 236146,
       "name": "Price You Gotta Pay - 2009 Remastered Version",
       "url": "https://open.spotify.com/track/2diRk5muW1L3QUKisdjbsj"
@@ -935,7 +935,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-28",
+      "date_removed": null,
       "duration_ms": 208560,
       "name": "Wild World - 2009 Remastered Version",
       "url": "https://open.spotify.com/track/2kj5f1eRhUFhW6K0qUwoD8"

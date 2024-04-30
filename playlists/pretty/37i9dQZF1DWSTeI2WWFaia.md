@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Joyner Lucas
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,592,349 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,591,865 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 37 | [Bad JuJu](https://open.spotify.com/track/1f8AftHmQC9TaHa8fg7RFI) | [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Marciology](https://open.spotify.com/album/6820jxuExN2TtOOa0Bj7kU) | 3:16 |
 | 38 | [Polish Jazz](https://open.spotify.com/track/60D2JqdH4iixYCW5KQFNyR) | [Chuck Strangers](https://open.spotify.com/artist/1o1szEyRkKUmDfqHOsU9b5), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [A Forsaken Lover's Plea](https://open.spotify.com/album/02MmFj3ONHFwvZMfZXWtPy) | 3:00 |
 | 39 | [Stand Tall](https://open.spotify.com/track/4kia4JAVdfeMtCPrVoC5UH) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [Stand Tall](https://open.spotify.com/album/2FUM8dpooyuVtEoWyLxwh8) | 2:09 |
-| 40 | [Blowfly \(with Ab\-Soul\)](https://open.spotify.com/track/2tRcF1bE5ESw9c8ljLXLsR) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Blowfly \(with Ab\-Soul\)](https://open.spotify.com/album/6LTCNeWyfbzaIP3O0tcEXD) | 2:46 |
-| 41 | [black mirror](https://open.spotify.com/track/0oJO0gr6eOZJmLQcSD4Ekw) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Sundial](https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt) | 2:17 |
+| 40 | [black mirror](https://open.spotify.com/track/0oJO0gr6eOZJmLQcSD4Ekw) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Sundial](https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt) | 2:17 |
+| 41 | [Blowfly \(with Ab\-Soul\)](https://open.spotify.com/track/2tRcF1bE5ESw9c8ljLXLsR) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Blowfly \(with Ab\-Soul\)](https://open.spotify.com/album/6LTCNeWyfbzaIP3O0tcEXD) | 2:46 |
 | 42 | [I Love This Feeling](https://open.spotify.com/track/3UDor25dsBp55meFUeOpx2) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Magic 3](https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz) | 3:17 |
 | 43 | [Griselda Express \(with Westside Gunn, Conway The Machine & Rick Hyde\)](https://open.spotify.com/track/3WanwKuwk826e61JQwejQQ) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Rick Hyde](https://open.spotify.com/artist/5bgr1sPXFeiNuS4vARMZp1) | [Everybody Can't Go](https://open.spotify.com/album/13IanJ8zx7YcCJ5yIvArIq) | 5:45 |
 | 44 | [Flavors of Karma](https://open.spotify.com/track/56Nv3kZNdUPL6BsC1I0jd7) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf) | [RIP Human Art](https://open.spotify.com/album/1RDjmGZKjYCMTCTzUBSIVf) | 4:34 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 47 | [Winner's Blues](https://open.spotify.com/track/5biONrLLqpAl9FQsDuymLq) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [Winner's Blues](https://open.spotify.com/album/6RRhPkrVw32dIyfkEr8SMX) | 3:02 |
 | 48 | [Magic Dust \(feat\. Evidence\)](https://open.spotify.com/track/3V6JhUdxUCx1TzUjH9jCJz) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Oh No](https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T), [Gangrene](https://open.spotify.com/artist/56GO5ViKH7Sg7ihAmFfvwv), [Evidence](https://open.spotify.com/artist/6VfeYClQyVUCPJdXb9jl3O) | [Heads I Win, Tails You Lose](https://open.spotify.com/album/6I4MP7YoLlBWfiQCqjJc4d) | 4:17 |
 | 49 | [Office Hours \(feat\. 50 Cent\)](https://open.spotify.com/track/7cXlDCmulkI5UWLCtSjhRF) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Magic 2](https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz) | 3:52 |
-| 50 | [Flow](https://open.spotify.com/track/0YVAbRnpG4mVxxwob9DdS8) | [Jourden](https://open.spotify.com/artist/7BJgHEoxvlal00T5B0Ro5u) | [Flow](https://open.spotify.com/album/0E7eTPalfTym6o2ljSdIcc) | 2:42 |
+| 50 | [Giants Of The Fall](https://open.spotify.com/track/57RzX9szVUX5gsfPQNc72M) | [Guilty Simpson](https://open.spotify.com/artist/0Zji66LHK0QCC8AUMuyp3h), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Kong The Artisan](https://open.spotify.com/artist/5bPN5M1j5Je82NV1Vcp3qE) | [Giants Of The Fall](https://open.spotify.com/album/0Je2clWtq4qMFi00s0bGpH) | 3:01 |
 
 Snapshot ID: `MTcxNDEwNDAwMCwwMDAwMDAwMGJmOWExM2Y3YThhZDMwZDg3MzA0YmY0N2Y3NzFjNGNl`

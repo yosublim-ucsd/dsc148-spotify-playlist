@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 
 > Rock independiente, pop alternativo y golden hour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,248 likes - 90 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,255 likes - 90 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 | 43 | [Canciones de Amor](https://open.spotify.com/track/1RjmeNxL0KNM0KTH8aySAO) | [Lesbiandrama](https://open.spotify.com/artist/0LZwj8XbxIwTjaDX478RXl), [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa), [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Canciones de Amor](https://open.spotify.com/album/1xyRm4Ti9USkm9sVTwVfXU) | 3:14 |
 | 44 | [Corriendo](https://open.spotify.com/track/4RKs3I15fRANzpyAr36zfx) | [TELESCOPIOS](https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG) | [Corriendo](https://open.spotify.com/album/5U18YE0iw5uEiTB8OorYLb) | 2:39 |
 | 45 | [Vamos a destruir](https://open.spotify.com/track/4weHbH9867dP8O8IkQfywd) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [Vamos a destruir](https://open.spotify.com/album/1S92pCSLfw4Fbh6I6VCrFV) | 3:41 |
-| 46 | [Todo de mi \(Todo de vos\)](https://open.spotify.com/track/5gWdUxIfynfRq94ypST6mY) | [Mauro Conforti & La Vida Marciana](https://open.spotify.com/artist/30dlrYGnnNuIHRCAUP6dXr) | [Todo de mi \(Todo de vos\)](https://open.spotify.com/album/3A1Qg6PBVcgzfp2e80zaBG) | 2:53 |
-| 47 | [800 Vueltas Envolventes](https://open.spotify.com/track/7zG3NeQXpREreAzY1jM0I7) | [Juan Mango](https://open.spotify.com/artist/6a1LEawOSKjIoixesjSI0I) | [Ochocientos Envolventes al Sol](https://open.spotify.com/album/0cX5CB6zbNgLsmNMZqX8po) | 4:10 |
+| 46 | [800 Vueltas Envolventes](https://open.spotify.com/track/7zG3NeQXpREreAzY1jM0I7) | [Juan Mango](https://open.spotify.com/artist/6a1LEawOSKjIoixesjSI0I) | [Ochocientos Envolventes al Sol](https://open.spotify.com/album/0cX5CB6zbNgLsmNMZqX8po) | 4:10 |
+| 47 | [Todo de mi \(Todo de vos\)](https://open.spotify.com/track/5gWdUxIfynfRq94ypST6mY) | [Mauro Conforti & La Vida Marciana](https://open.spotify.com/artist/30dlrYGnnNuIHRCAUP6dXr) | [Todo de mi \(Todo de vos\)](https://open.spotify.com/album/3A1Qg6PBVcgzfp2e80zaBG) | 2:53 |
 | 48 | [Los Halcones](https://open.spotify.com/track/5TdKAGXN0JBooUcGP5jE0j) | [Santiago Moraes](https://open.spotify.com/artist/2pfLPT9ZTkPrLd8ZJiDBld), [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Los Halcones](https://open.spotify.com/album/0VtAPQ89V7neq7B8RyevIz) | 5:26 |
 | 49 | [Frutillas con Crema](https://open.spotify.com/track/5DTDzZkWhNVBs30SR2C4dX) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0) | [Frutillas con Crema](https://open.spotify.com/album/01kd8mR6HRA6AxvvyXQ8i1) | 2:42 |
 | 50 | [Polvo](https://open.spotify.com/track/1qvKGVivhRg6Mmw1ARSFF7) | [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [Polvo](https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY) | 3:56 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 | 64 | [Lago Eterno](https://open.spotify.com/track/3aaEQFzM99jkEVqUT9XsX4) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Lago Eterno](https://open.spotify.com/album/4QE8gwER0QUeNM7ydyiLwC) | 2:08 |
 | 65 | [Romance Con la Luna](https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Romance Con la Luna](https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781) | 2:51 |
 | 66 | [TIEMPO PERFECTO](https://open.spotify.com/track/4WsMd2FeCYXI9NycBNbcrh) | [Juan Lopez](https://open.spotify.com/artist/2qNWn8KXd9mEEEGIxlDiuT) | [EN EL CIELO](https://open.spotify.com/album/4rirmULdcVYZ0k6xpsDXDc) | 2:41 |
-| 67 | [La Cena](https://open.spotify.com/track/3DcxQ89yroyWPYbxgbllCI) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [La Cena](https://open.spotify.com/album/73HZ1dIoza9ZPuvUUxchaS) | 2:46 |
-| 68 | [mutar la piel](https://open.spotify.com/track/3c6htQWeWgxzXYVrqg2ABk) | [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum), [Aluhé](https://open.spotify.com/artist/5reGHhq0cPEOW5nYDj1Dge) | [mutar la piel](https://open.spotify.com/album/3FpUrtVBDvGQKwzvFqOkMd) | 2:53 |
+| 67 | [mutar la piel](https://open.spotify.com/track/3c6htQWeWgxzXYVrqg2ABk) | [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum), [Aluhé](https://open.spotify.com/artist/5reGHhq0cPEOW5nYDj1Dge) | [mutar la piel](https://open.spotify.com/album/3FpUrtVBDvGQKwzvFqOkMd) | 2:53 |
+| 68 | [La Cena](https://open.spotify.com/track/3DcxQ89yroyWPYbxgbllCI) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [La Cena](https://open.spotify.com/album/73HZ1dIoza9ZPuvUUxchaS) | 2:46 |
 | 69 | [Distintas Frecuencias](https://open.spotify.com/track/3o90wagp7oiSUjeHcJEoAV) | [Fantasmagoria](https://open.spotify.com/artist/59zFIrLQf6ht2Edo0BarLn) | [Distintas Frecuencias](https://open.spotify.com/album/4t6JL7GsAjzeURvUwA5rJs) | 4:02 |
 | 70 | [Tanto Azúcar](https://open.spotify.com/track/4IM9rnYuCr4Y8T5VyXUih9) | [Posguerra](https://open.spotify.com/artist/6LXuhZRap06bMFoMDxGDAf) | [Lapso](https://open.spotify.com/album/2CBql5YfVAaFq8GuDSu1KU) | 3:05 |
 | 71 | [Nunca Estuvo en Ti el Litoral](https://open.spotify.com/track/0ealZ87kbyY8gsgDZwWGVq) | [Simón Campusano](https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU) | [Nunca Estuvo en Ti el Litoral](https://open.spotify.com/album/62Wwf9DHae5Hi6X9vp8QBN) | 2:58 |
@@ -97,6 +97,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 | 87 | [LA ARAÑA](https://open.spotify.com/track/2XsgW6lzGWGCmw9DoOkZ2S) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [LA ARAÑA](https://open.spotify.com/album/3StTP7lHsMyNlt092aOsCl) | 3:28 |
 | 88 | [Espejo](https://open.spotify.com/track/32VI35kNjDYQhtryCeBv0y) | [Todo Aparenta Normal](https://open.spotify.com/artist/3wsEppaZbJOYZEtwMfNI0o), [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ) | [Espejo](https://open.spotify.com/album/3mrLJYiIA3aHTco2VdFD2U) | 4:15 |
 | 89 | [Lo Haces Bien](https://open.spotify.com/track/2NT4AtSmyxZZloogGMA0xg) | [Yoni Yonki](https://open.spotify.com/artist/5VzE7gAS6VyRyvThR3lXbv) | [Yoni Yonki](https://open.spotify.com/album/22aeIVwNKsUuEcMm1Fnf4C) | 2:56 |
-| 90 | [Psicodelia arbolera](https://open.spotify.com/track/1rAbshnvEsArNPwW4vUR1L) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT) | [Psicodelia arbolera](https://open.spotify.com/album/2JDPqOcPBNk2Y3lfTqLu9k) | 4:08 |
+| 90 | [¿Para Qué?](https://open.spotify.com/track/6sLMcDjjJYW1r78cxQT2hg) | [Alem](https://open.spotify.com/artist/4Y4iQxPJ1BV03LEkW3vrTS) | [¿Para Qué?](https://open.spotify.com/album/6KaDzlbouoNjT5ukVF7MRA) | 2:58 |
 
 Snapshot ID: `MTcxNDA3MzAyMCwwMDAwMDAwMGYxMWNiY2NmNWVlMjA2MWE4MmQ4ZTc1NzcxYjZmMmVk`

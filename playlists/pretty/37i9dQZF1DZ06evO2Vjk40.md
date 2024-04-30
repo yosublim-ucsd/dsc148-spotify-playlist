@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Vjk40.md) - [plain]
 
 > This is Chris Stapleton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 605,362 likes - 47 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 605,440 likes - 47 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Vjk40.md) - [plain]
 | 46 | [Oh Well feat\. Chris Stapleton](https://open.spotify.com/track/6xvriZfsi9MZ8TAE2wqY2z) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Oh Well feat\. Chris Stapleton](https://open.spotify.com/album/0Rl9omLw3rdkK7OiSnHGAG) | 4:33 |
 | 47 | [On The Road Again \- Live](https://open.spotify.com/track/0vcJzE2LuNY9aoq2hdMjHZ) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q), [Bobby Bare](https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh), [Dave Matthews](https://open.spotify.com/artist/13vQloYd6mP7V1mVwKJwS2), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP), [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV), [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd), [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8), [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX), [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet), [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9), [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Micah Nelson](https://open.spotify.com/artist/0J1uiTdcz2yFtYwfQVXYHg), [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [The Little Willies](https://open.spotify.com/artist/4MWopTgyvixq0tNiFrVg0l) | [On The Road Again \(Live\)](https://open.spotify.com/album/6Cs43kWsaHLDRUcYMYqcc0) | 2:36 |
 
-Snapshot ID: `MTcxNDE3NjAwMCwwMDAwMDAwMDYzMDY3YjAyNzk2YzRmMDAyNGQ4OTU1ZmRiZGMzZDU0`
+Snapshot ID: `MTcxNDI2MjQwMCwwMDAwMDAwMDA5M2YwMWNlNGZjOGZhMzNmYjMwNmMzMmRkOGEwOWJk`

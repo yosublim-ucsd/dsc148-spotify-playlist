@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Kittie
 
-854 songs - 2 day 15 hr 9 min
+855 songs - 2 day 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Do Or Die](https://open.spotify.com/track/0JfaobFI1qJCapXqsCUxcc) | [Elegant Weapons](https://open.spotify.com/artist/68LxTdkzuDW3cnp83NKfpQ) | [Do Or Die](https://open.spotify.com/album/6boPlXyyTR7F5YYPYhNLCX) | 5:21 | 2023-04-21 | 2023-05-28 |
 | [Do Or Die](https://open.spotify.com/track/4QCUR8rFIqwHO3qsDOmXhM) | [Elegant Weapons](https://open.spotify.com/artist/68LxTdkzuDW3cnp83NKfpQ) | [Horns For A Halo](https://open.spotify.com/album/6UeWcHxrlltg9Vqh46x2if) | 5:21 | 2023-05-26 | 2024-04-19 |
 | [Do you really wanna know?](https://open.spotify.com/track/0dlKqhMDG7z87ZQsPMqZ5J) | [Novelists FR](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Do you really wanna know?](https://open.spotify.com/album/09KfdEpKfLl5BVd2oz9Yl4) | 3:55 | 2022-07-13 | 2022-08-20 |
+| [Dogs Of War](https://open.spotify.com/track/1AuwWGznBvI76jOF8cZ4E4) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dogs Of War](https://open.spotify.com/album/5vjqRLo7DxbwVwfiO0DpCz) | 4:04 | 2024-04-29 |  |
 | [Dominion](https://open.spotify.com/track/3Ozsvtb47qZ0yzTxNTcPM0) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Dominion](https://open.spotify.com/album/5lqDlYKKERiLwrIkW6qyls) | 4:39 | 2021-12-17 | 2022-07-21 |
 | [Don't Look Back](https://open.spotify.com/track/4FBNk8oVjE2ZURNW2856A8) | [Mustasch](https://open.spotify.com/artist/7ig8pUnno95YNA9MclOveH) | [Don't Look Back](https://open.spotify.com/album/5pqH2TT6VinVvH2FdwGpLC) | 3:04 | 2022-03-11 | 2022-07-29 |
 | [Down and Out](https://open.spotify.com/track/2mjhf9C6pE6oUkxF7mRyd7) | [Savage Messiah](https://open.spotify.com/artist/1kOg7VnU8brFniiq9RnR9X) | [Down and Out](https://open.spotify.com/album/5oJdANHLwnB7wxDuoAkTOq) | 3:59 | 2021-12-17 | 2022-07-29 |
@@ -338,7 +339,7 @@
 | [House of Mirrors](https://open.spotify.com/track/1mnIf0uQCOesEO4484G0iR) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [House of Mirrors](https://open.spotify.com/album/0tjU3wSdnA3FQZZeqAC195) | 3:40 | 2021-12-17 |  |
 | [HOUSE ON SAND \(feat\. Eric V\. of I Prevail\)](https://open.spotify.com/track/1iv0Expr4TzDnx62w60oqN) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc), [Eric Vanlerberghe](https://open.spotify.com/artist/1oaELF1Z21iJBfE3tfyyt2), [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [HOUSE ON SAND \(feat\. Eric V\. of I Prevail\)](https://open.spotify.com/album/6rxuvZ6hUgbhEH1J4wrcXu) | 4:23 | 2024-04-19 |  |
 | [Humanoid](https://open.spotify.com/track/5tUZwaxzIk8vdXMzMiegRh) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Humanoid](https://open.spotify.com/album/6yUcQWzIvRnGdJqN1CpmuD) | 4:35 | 2024-03-08 |  |
-| [Hungry and Angry](https://open.spotify.com/track/57PT761NIApIzfORTkmwWU) | [U.D.O.](https://open.spotify.com/artist/2aWjaq32aRQo58dw0w8NM6) | [Steelfactory](https://open.spotify.com/album/5wQcC9Wbwalmy7fz7IekQP) | 4:36 | 2021-12-17 |  |
+| [Hungry and Angry](https://open.spotify.com/track/57PT761NIApIzfORTkmwWU) | [U.D.O.](https://open.spotify.com/artist/2aWjaq32aRQo58dw0w8NM6) | [Steelfactory](https://open.spotify.com/album/5wQcC9Wbwalmy7fz7IekQP) | 4:36 | 2021-12-17 | 2024-04-30 |
 | [Hunting High and Low](https://open.spotify.com/track/1vDJE9fE7FB8proknu3u8E) | [Stratovarius](https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO) | [Infinite](https://open.spotify.com/album/7LiSs7UGdx7JVhBC2HCFmF) | 4:08 | 2024-04-05 |  |
 | [Hunting Season](https://open.spotify.com/track/0NCvhkLffy3suyYgXITOzP) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Hunting Season](https://open.spotify.com/album/0WYaIyXVinvlnZvQlCNvB6) | 3:18 | 2022-07-13 | 2023-12-07 |
 | [Hurt](https://open.spotify.com/track/63JMdCqEjV2cxB2DRNLn0y) | [One Desire](https://open.spotify.com/artist/1s25YudYTrIRBOSsj917K7) | [One Desire](https://open.spotify.com/album/2N2uFYwu3oGTuDtQnTi7Lo) | 5:07 | 2022-03-22 | 2024-04-20 |

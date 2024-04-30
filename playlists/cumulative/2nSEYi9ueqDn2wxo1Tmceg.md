@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-861 songs - 2 day 10 hr 45 min
+863 songs - 2 day 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [Dressed in Black](https://open.spotify.com/track/7wAQEQ32PNexGiHtmRuguj) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [All Of Us Flames](https://open.spotify.com/album/2KTQDiz3rmivOSbzLPbjTn) | 3:29 | 2022-08-31 | 2022-10-07 |
 | [Drew The Line](https://open.spotify.com/track/1ubbzXSQJAFQbPrpWi6MtO) | [Blood Wizard](https://open.spotify.com/artist/60XRtGmul45VSNNKt9mZhp) | [Imaginary House EP](https://open.spotify.com/album/1c4nHcuT3jCAzmPhLUBacV) | 3:18 | 2022-09-28 | 2022-11-10 |
 | [Drifting Away](https://open.spotify.com/track/0qHJ46ewkfyXVJeLy8ZGrT) | [Jaakko Eino Kalevi](https://open.spotify.com/artist/20o7mwLphfnviZKGPw1gi3) | [Drifting Away](https://open.spotify.com/album/4C1uY88CMpkn5pTdLspRGM) | 4:02 | 2023-10-11 | 2023-11-30 |
+| [Drinking the Dusk Away](https://open.spotify.com/track/0kd0HiLMEAmDP3qMbdLK2q) | [Alex Izenberg](https://open.spotify.com/artist/0gFVZqXqhdX8Obteqob5vE) | [Drinking the Dusk Away / Only the Moon Knows](https://open.spotify.com/album/7clPtGzsrPBrQCpkRNYjDd) | 3:22 | 2024-04-29 |  |
 | [Duffy's](https://open.spotify.com/track/00UpNWR05F28iSffqxvut7) | [deathcrash](https://open.spotify.com/artist/7m7gr3M1p4S92xuwXvorEH) | [Duffy's](https://open.spotify.com/album/40FuxW9z8QJKwePqsGwW5F) | 3:39 | 2023-02-22 | 2023-04-13 |
 | [Dumb Guitar](https://open.spotify.com/track/50UWt4jx8Y1t8EoV0ODKDL) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Dumb Guitar](https://open.spotify.com/album/0oPbGSY87GRUH60Owh8Yql) | 5:10 | 2023-11-08 | 2023-12-14 |
 | [Décors](https://open.spotify.com/track/1IitbDpFzat11LvpHj1joC) | [The Psychotic Monks](https://open.spotify.com/artist/7GB1a2GjXTCbTtdSv3NTPy) | [Pink Colour Surgery](https://open.spotify.com/album/29RJkx2Sg92aG5S0oSHtvK) | 8:52 | 2023-02-08 | 2023-03-16 |
@@ -568,6 +569,7 @@
 | [One Stop Shop \(For A Fading Revolution\)](https://open.spotify.com/track/5aa6n3VZmDediYoN2x9ayw) | [Twen](https://open.spotify.com/artist/7iyWvxyp2SxGg3L66TmHbO) | [One Stop Shop](https://open.spotify.com/album/1r5vgUrqdgK4kYvddjEap9) | 3:31 | 2022-11-30 | 2023-01-19 |
 | [Only in America: It Feels Like This](https://open.spotify.com/track/3KJCGTbqnx0CQCq3VTt9LV) | [Matthew E\. White](https://open.spotify.com/artist/58mMrwemoGIcDpvfHe46u4), [Lonnie Holley](https://open.spotify.com/artist/7dgLSJ4HaXx0dy5V2BMQe5) | [Only in America](https://open.spotify.com/album/1lZgy5sIQg9HOUaDWzXvXh) | 4:28 | 2022-08-16 | 2022-09-29 |
 | [Only One](https://open.spotify.com/track/5MXegzzvDfUSfwpf8a0FCq) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [Only One](https://open.spotify.com/album/0fzG0DP1dF2MEGyuhZHj5w) | 3:09 | 2024-04-17 |  |
+| [Only the Moon Knows](https://open.spotify.com/track/4trxvoXoZVIylRpv6eZRNa) | [Alex Izenberg](https://open.spotify.com/artist/0gFVZqXqhdX8Obteqob5vE) | [Drinking the Dusk Away / Only the Moon Knows](https://open.spotify.com/album/7clPtGzsrPBrQCpkRNYjDd) | 4:11 | 2024-04-29 |  |
 | [Open The Door](https://open.spotify.com/track/2WNL7VKLXSIGNps9gYYdwi) | [Free Love](https://open.spotify.com/artist/0bec5c6VO67VhJrdZ5xPOs) | [Inside](https://open.spotify.com/album/4i19fUZUB2jtNvxKC6HyEv) | 4:06 | 2023-05-10 | 2023-06-29 |
 | [Optimistic](https://open.spotify.com/track/4jJAMHQWkAQ57Eyuxn0Qi3) | [Tomu DJ](https://open.spotify.com/artist/3IkZulWyXacENlNykgnmwh), [kimdollars1](https://open.spotify.com/artist/6fePUvIaJB7SLeOeGapoS5) | [Optimistic](https://open.spotify.com/album/2iLdOaxHCMnmFL6Oz73Neg) | 4:55 | 2022-08-10 | 2022-09-22 |
 | [Option 8](https://open.spotify.com/track/5dxk732O5asDxSLeW6H0cg) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Versions of Modern Performance](https://open.spotify.com/album/435br4I9UOHTrQI5qbxVbI) | 3:33 | 2022-06-08 | 2022-07-14 |

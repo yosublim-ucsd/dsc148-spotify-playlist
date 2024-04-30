@@ -1,6 +1,6 @@
 {
   "description": "Rewind and unwind with sirens of the seventies and eighties.",
-  "num_followers": 878656,
+  "num_followers": 878507,
   "original_name": "70s & 80s Acoustic",
   "owner": {
     "name": "Spotify",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-03-25 16:59:03",
       "album": {
+        "name": "In My Own Time",
+        "url": "https://open.spotify.com/album/1OuzXj4yo7VyBKwHZhxEnW"
+      },
+      "artists": [
+        {
+          "name": "Karen Dalton",
+          "url": "https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy"
+        }
+      ],
+      "duration_ms": 203333,
+      "name": "Something On Your Mind",
+      "url": "https://open.spotify.com/track/6Vz2IQv3AYoznh4tjsrRPo"
+    },
+    {
+      "added_at": "2024-03-25 16:59:03",
+      "album": {
         "name": "Every Picture Tells A Story",
         "url": "https://open.spotify.com/album/4h1e47X26VQHXCjNZZ5P3v"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 123333,
       "name": "Pink Moon",
       "url": "https://open.spotify.com/track/16qzGrIMWoxerw2gnW0zuv"
-    },
-    {
-      "added_at": "2024-03-25 16:59:03",
-      "album": {
-        "name": "In My Own Time",
-        "url": "https://open.spotify.com/album/1OuzXj4yo7VyBKwHZhxEnW"
-      },
-      "artists": [
-        {
-          "name": "Karen Dalton",
-          "url": "https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy"
-        }
-      ],
-      "duration_ms": 203333,
-      "name": "Something On Your Mind",
-      "url": "https://open.spotify.com/track/6Vz2IQv3AYoznh4tjsrRPo"
     },
     {
       "added_at": "2024-03-25 16:59:03",

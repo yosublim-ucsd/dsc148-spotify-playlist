@@ -1,12 +1,12 @@
 {
   "description": "everybody at the bar getting tipsy \ud83e\udd20\ud83c\udf7b\ud83c\udf78\ud83e\udd43\n",
-  "num_followers": 258531,
+  "num_followers": 258508,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDExNTU0MywwMDAwMDAwMDhhNDcwZmM4NzllNDU5M2YzYjgwM2Q1ZTczYzUyZTNj",
+  "snapshot_id": "MTcxNDM5Mzc5OSwwMDAwMDAwMDA2N2MyZGFjMTcwODcwZWMwZDI0YjdiZGIzMzc5M2E0",
   "tracks": [
     {
       "added_at": "2024-04-25 13:06:32",
@@ -235,6 +235,38 @@
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+    },
+    {
+      "added_at": "2024-04-29 12:29:59",
+      "album": {
+        "name": "Habits (Spotify)",
+        "url": "https://open.spotify.com/album/6oZ5iDw1LT25svEK0g5OqT"
+      },
+      "artists": [
+        {
+          "name": "Neon Trees",
+          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
+        }
+      ],
+      "duration_ms": 212306,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/0l4DTppOxy7NUaEcwXuOb6"
+    },
+    {
+      "added_at": "2024-04-29 12:29:59",
+      "album": {
+        "name": "Sex & Violins",
+        "url": "https://open.spotify.com/album/5DA2dJgKERij9OVWbJDZDj"
+      },
+      "artists": [
+        {
+          "name": "Rednex",
+          "url": "https://open.spotify.com/artist/22Zqu1yyebVnbve8FxbJ2g"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Cotton Eye Joe",
+      "url": "https://open.spotify.com/track/06hsdMbBxWGqBO0TV0Zrkf"
     },
     {
       "added_at": "2024-04-25 13:06:32",

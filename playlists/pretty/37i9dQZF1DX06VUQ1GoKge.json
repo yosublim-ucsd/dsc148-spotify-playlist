@@ -1,6 +1,6 @@
 {
   "description": "Don\u2019t Sweat It!",
-  "num_followers": 558169,
+  "num_followers": 558060,
   "original_name": "Blood, Sweat & Cheers",
   "owner": {
     "name": "Spotify",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-01-19 09:32:47",
       "album": {
-        "name": "Darker Still",
-        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 261811,
-      "name": "Glitch",
-      "url": "https://open.spotify.com/track/1jKH10ufuA4EzUCdobVxu0"
-    },
-    {
-      "added_at": "2024-01-19 09:32:47",
-      "album": {
         "name": "The Black Crown",
         "url": "https://open.spotify.com/album/3oJKuFPVZTSeNc8G4UYV4L"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 192560,
       "name": "You Only Live Once",
       "url": "https://open.spotify.com/track/4Ku3OOZWR4tpKNCVFXILY8"
+    },
+    {
+      "added_at": "2024-01-19 09:32:47",
+      "album": {
+        "name": "Darker Still",
+        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 261811,
+      "name": "Glitch",
+      "url": "https://open.spotify.com/track/1jKH10ufuA4EzUCdobVxu0"
     },
     {
       "added_at": "2024-01-19 09:32:47",
@@ -807,22 +807,6 @@
       "duration_ms": 217533,
       "name": "Super Charger Heaven",
       "url": "https://open.spotify.com/track/4qVZBA7jWL23SEWOfKFjiw"
-    },
-    {
-      "added_at": "2024-01-19 09:32:47",
-      "album": {
-        "name": "Ire",
-        "url": "https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 263586,
-      "name": "Vice Grip",
-      "url": "https://open.spotify.com/track/0AHHDAHFRaT82UVw5fMr1R"
     },
     {
       "added_at": "2024-01-19 09:32:47",
@@ -907,6 +891,22 @@
       "duration_ms": 195306,
       "name": "Halo",
       "url": "https://open.spotify.com/track/0rlPOzWbNVui2ABuI5OFhL"
+    },
+    {
+      "added_at": "2024-01-19 09:32:47",
+      "album": {
+        "name": "Ire",
+        "url": "https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 263586,
+      "name": "Vice Grip",
+      "url": "https://open.spotify.com/track/0AHHDAHFRaT82UVw5fMr1R"
     },
     {
       "added_at": "2024-01-19 09:32:47",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-01-19 09:32:47",
       "album": {
-        "name": "Pale Iris",
-        "url": "https://open.spotify.com/album/3XIN5O8ioMsCQwumlx7QUt"
-      },
-      "artists": [
-        {
-          "name": "ERRA",
-          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
-        }
-      ],
-      "duration_ms": 263360,
-      "name": "Pale Iris",
-      "url": "https://open.spotify.com/track/5c3CJeTQO5oZqKdKRAqkg3"
-    },
-    {
-      "added_at": "2024-01-19 09:32:47",
-      "album": {
         "name": "Roots",
         "url": "https://open.spotify.com/album/5JjnPCfpp6redrkKpXZAs8"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 241133,
       "name": "Breed Apart",
       "url": "https://open.spotify.com/track/3mv3V9Ed2tgb3voqeuUAYI"
+    },
+    {
+      "added_at": "2024-01-19 09:32:47",
+      "album": {
+        "name": "Pale Iris",
+        "url": "https://open.spotify.com/album/3XIN5O8ioMsCQwumlx7QUt"
+      },
+      "artists": [
+        {
+          "name": "ERRA",
+          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
+        }
+      ],
+      "duration_ms": 263360,
+      "name": "Pale Iris",
+      "url": "https://open.spotify.com/track/5c3CJeTQO5oZqKdKRAqkg3"
     },
     {
       "added_at": "2024-01-19 09:32:47",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-01-19 09:32:47",
       "album": {
-        "name": "Locked (In My Head)",
-        "url": "https://open.spotify.com/album/5mZ1ajDJMLRp2pDp8NZLQK"
-      },
-      "artists": [
-        {
-          "name": "Fit For A King",
-          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
-        }
-      ],
-      "duration_ms": 186019,
-      "name": "Locked (In My Head)",
-      "url": "https://open.spotify.com/track/4UUZ6q9fMXFH4WG6SJ2mQP"
-    },
-    {
-      "added_at": "2024-01-19 09:32:47",
-      "album": {
         "name": "Gift (Explicit Version)",
         "url": "https://open.spotify.com/album/6vPDxNI1I3FFSMmc7MLoDT"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 238213,
       "name": "Again & Again",
       "url": "https://open.spotify.com/track/7aHluiddcgODmeZ2rW6dju"
+    },
+    {
+      "added_at": "2024-01-19 09:32:47",
+      "album": {
+        "name": "Locked (In My Head)",
+        "url": "https://open.spotify.com/album/5mZ1ajDJMLRp2pDp8NZLQK"
+      },
+      "artists": [
+        {
+          "name": "Fit For A King",
+          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
+        }
+      ],
+      "duration_ms": 186019,
+      "name": "Locked (In My Head)",
+      "url": "https://open.spotify.com/track/4UUZ6q9fMXFH4WG6SJ2mQP"
     },
     {
       "added_at": "2024-01-19 09:32:47",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2024-01-19 09:32:47",
       "album": {
-        "name": "Breaking the Mirror",
-        "url": "https://open.spotify.com/album/4ymCF2O4PhNO0k0kaIfWPa"
+        "name": "Self-Destructive Pattern",
+        "url": "https://open.spotify.com/album/0rMyQJKxkqIOy9p5u4iV5w"
       },
       "artists": [
         {
-          "name": "Fit For A King",
-          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
+          "name": "Spineshank",
+          "url": "https://open.spotify.com/artist/6fmbbxNvgHkglIakp1Wrv4"
         }
       ],
-      "duration_ms": 214211,
-      "name": "Breaking the Mirror",
-      "url": "https://open.spotify.com/track/3Ho0uOyCz245GWUqlWrkf5"
+      "duration_ms": 190840,
+      "name": "Smothered",
+      "url": "https://open.spotify.com/track/2wdjEAsK64EUPmNIIH6MWt"
     }
   ],
   "unique_name": "Blood, Sweat & Cheers",

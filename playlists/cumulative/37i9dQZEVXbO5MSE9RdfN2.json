@@ -1154,7 +1154,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-29",
+      "date_removed": null,
       "duration_ms": 96946,
       "name": "CUTE DEPRESSED",
       "url": "https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf"
@@ -1802,10 +1802,28 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 136829,
       "name": "Get Wid Lemonade",
       "url": "https://open.spotify.com/track/5pJK4zHDOdUxAZDEXx8dDO"
+    },
+    {
+      "album": {
+        "name": "Get Wid Lemonade",
+        "url": "https://open.spotify.com/album/5NAl4CDSMrYg02jmZOusRL"
+      },
+      "artists": [
+        {
+          "name": "Aurbley",
+          "url": "https://open.spotify.com/artist/3CfTeHuZzeWePQMnsdEI7f"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136829,
+      "name": "Get Wid Lemonade",
+      "url": "https://open.spotify.com/track/66D6nQk8THVR6SE5v7HCFd"
     },
     {
       "album": {
@@ -5850,7 +5868,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 184633,
       "name": "Us Vs. Them",
       "url": "https://open.spotify.com/track/3cmdqMDc0Fj4TgPeyDOYTM"

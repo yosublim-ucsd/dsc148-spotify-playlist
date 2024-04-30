@@ -1,5 +1,5 @@
 {
-  "2024-04-29": 684,
+  "2024-04-30": 685,
   "date_first_scraped": "2022-09-09",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/2B5hXslE3gB415wlpuI6et\">LP</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By LP",
@@ -1595,6 +1595,24 @@
     {
       "album": {
         "name": "Heart To Mouth",
+        "url": "https://open.spotify.com/album/0fxTwPdsK0yMUfoRQwaEx5"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2024-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225373,
+      "name": "Shaken",
+      "url": "https://open.spotify.com/track/4LJk03mU99sKySVUM03ogq"
+    },
+    {
+      "album": {
+        "name": "Heart To Mouth",
         "url": "https://open.spotify.com/album/2Cjcnt1YhsNpMz6oE1IpUs"
       },
       "artists": [
@@ -1605,7 +1623,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 225373,
       "name": "Shaken",
       "url": "https://open.spotify.com/track/4OLDV6nk6JrzYoaiHDRR0v"

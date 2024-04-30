@@ -1,6 +1,6 @@
 {
   "description": "A hypnotic journey through Melodic Techno, featuring Anyma",
-  "num_followers": 108555,
+  "num_followers": 108622,
   "original_name": "Melodic Techno Elements",
   "owner": {
     "name": "Spotify",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
+        "name": "Look At You",
+        "url": "https://open.spotify.com/album/2W5TS5U8FLi9O46FBTAzIn"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        }
+      ],
+      "duration_ms": 203225,
+      "name": "Look At You",
+      "url": "https://open.spotify.com/track/1OBa351gDcE1HWUsfaTCCy"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
         "name": "I Talk To Water (With Perry Farrell) (CamelPhat Remix)",
         "url": "https://open.spotify.com/album/6tIe9eiRP3pUXY2f2DMMpe"
       },
@@ -1099,26 +1115,6 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "The Future Is Unknown",
-        "url": "https://open.spotify.com/album/0htK1OiP8v8kU6SSNEDaal"
-      },
-      "artists": [
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        },
-        {
-          "name": "Delhia De France",
-          "url": "https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD"
-        }
-      ],
-      "duration_ms": 263520,
-      "name": "The Future Is Unknown",
-      "url": "https://open.spotify.com/track/4CvvIoMzXxXTzvGPT9nBNO"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/7KaXmqRS3KHFZtYLDSuCnL"
       },
@@ -1135,18 +1131,22 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Look At You",
-        "url": "https://open.spotify.com/album/2W5TS5U8FLi9O46FBTAzIn"
+        "name": "The Future Is Unknown",
+        "url": "https://open.spotify.com/album/0htK1OiP8v8kU6SSNEDaal"
       },
       "artists": [
         {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "Delhia De France",
+          "url": "https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD"
         }
       ],
-      "duration_ms": 203225,
-      "name": "Look At You",
-      "url": "https://open.spotify.com/track/1OBa351gDcE1HWUsfaTCCy"
+      "duration_ms": 263520,
+      "name": "The Future Is Unknown",
+      "url": "https://open.spotify.com/track/4CvvIoMzXxXTzvGPT9nBNO"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/3hio3GF2DEZ2OYIAyUmvXd"
-      },
-      "artists": [
-        {
-          "name": "Rules",
-          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
-        },
-        {
-          "name": "Dejector",
-          "url": "https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi"
-        }
-      ],
-      "duration_ms": 183524,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/3A5ZCWkV5EOJ949L1YzpJn"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
         "name": "Nightshapes",
         "url": "https://open.spotify.com/album/5pRg1T6q3JHehMmVAP8afy"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 205779,
       "name": "Nightshapes",
       "url": "https://open.spotify.com/track/20Mb3OEO2GYuhvQ7mDmTXe"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/3hio3GF2DEZ2OYIAyUmvXd"
+      },
+      "artists": [
+        {
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+        },
+        {
+          "name": "Dejector",
+          "url": "https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi"
+        }
+      ],
+      "duration_ms": 183524,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/3A5ZCWkV5EOJ949L1YzpJn"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
+        "name": "Talking",
+        "url": "https://open.spotify.com/album/1dqG1NTAKPqwAvBp3VFlXS"
+      },
+      "artists": [
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        }
+      ],
+      "duration_ms": 244590,
+      "name": "Talking",
+      "url": "https://open.spotify.com/track/53pGJNOTQbGhDSgETn8h1K"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
         "name": "Forget",
         "url": "https://open.spotify.com/album/78pEteivhGT2HxTFWmjM2S"
       },
@@ -1359,38 +1375,6 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Talking",
-        "url": "https://open.spotify.com/album/1dqG1NTAKPqwAvBp3VFlXS"
-      },
-      "artists": [
-        {
-          "name": "Massano",
-          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
-        }
-      ],
-      "duration_ms": 244590,
-      "name": "Talking",
-      "url": "https://open.spotify.com/track/53pGJNOTQbGhDSgETn8h1K"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
-        "name": "Level One",
-        "url": "https://open.spotify.com/album/32nuiBkyfkO2lLAvLgajFz"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 470400,
-      "name": "Level One",
-      "url": "https://open.spotify.com/track/3oCfybScespNWsvxK6l48B"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
         "name": "Welcome The Night",
         "url": "https://open.spotify.com/album/1hlK3J8IC3ZiyRj1ujVD82"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 198407,
       "name": "Welcome The Night",
       "url": "https://open.spotify.com/track/4OlnouGKBwHSBt61wlFMcK"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Level One",
+        "url": "https://open.spotify.com/album/32nuiBkyfkO2lLAvLgajFz"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 470400,
+      "name": "Level One",
+      "url": "https://open.spotify.com/track/3oCfybScespNWsvxK6l48B"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
+        "name": "Shapes in the Spray",
+        "url": "https://open.spotify.com/album/3FnbdauVXBaaSNUg5ABYRf"
+      },
+      "artists": [
+        {
+          "name": "Klangphonics",
+          "url": "https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA"
+        }
+      ],
+      "duration_ms": 429055,
+      "name": "Shapes in the Spray",
+      "url": "https://open.spotify.com/track/6h3ZomURqLW7JkM2S66FFL"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
         "name": "All That Matters (Artbat Remix)",
         "url": "https://open.spotify.com/album/5BRqAXbsa6oxnnLQIiDHai"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 529920,
       "name": "All That Matters - ARTBAT Remix",
       "url": "https://open.spotify.com/track/6MUrwiKZCEc80rbKU7cvbd"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
-        "name": "Shapes in the Spray",
-        "url": "https://open.spotify.com/album/3FnbdauVXBaaSNUg5ABYRf"
-      },
-      "artists": [
-        {
-          "name": "Klangphonics",
-          "url": "https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA"
-        }
-      ],
-      "duration_ms": 429055,
-      "name": "Shapes in the Spray",
-      "url": "https://open.spotify.com/track/6h3ZomURqLW7JkM2S66FFL"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Delete Time",
-        "url": "https://open.spotify.com/album/3Rn97fqjZ6Nj5ECntOaDJB"
-      },
-      "artists": [
-        {
-          "name": "Sevenn",
-          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
-        },
-        {
-          "name": "Space Motion",
-          "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
-        }
-      ],
-      "duration_ms": 218709,
-      "name": "Delete Time",
-      "url": "https://open.spotify.com/track/0IEmWo1Opdmir15BejC5Yt"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
         "name": "The Theory EP",
         "url": "https://open.spotify.com/album/0kV5GMyTCu0SEV60COyDLr"
       },
@@ -1543,6 +1523,26 @@
       "duration_ms": 286451,
       "name": "Alone ft. braev",
       "url": "https://open.spotify.com/track/3iViCxm3KzCMetwCk60XuN"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Delete Time",
+        "url": "https://open.spotify.com/album/3Rn97fqjZ6Nj5ECntOaDJB"
+      },
+      "artists": [
+        {
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+        },
+        {
+          "name": "Space Motion",
+          "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
+        }
+      ],
+      "duration_ms": 218709,
+      "name": "Delete Time",
+      "url": "https://open.spotify.com/track/0IEmWo1Opdmir15BejC5Yt"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -1567,6 +1567,26 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
+        "name": "Gate / Masterplan",
+        "url": "https://open.spotify.com/album/6cQx7mXhkQnfG96b3YlglI"
+      },
+      "artists": [
+        {
+          "name": "K\u00f6lsch",
+          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
+        },
+        {
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+        }
+      ],
+      "duration_ms": 343764,
+      "name": "Gate",
+      "url": "https://open.spotify.com/track/0lenLbjzr7nDOUt5Ll9iwf"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
         "name": "Greece 2000 (KREAM Remix)",
         "url": "https://open.spotify.com/album/33SvBsfAut1yQ9BizcWIOV"
       },
@@ -1587,26 +1607,6 @@
       "duration_ms": 215040,
       "name": "Greece 2000 - KREAM Remix",
       "url": "https://open.spotify.com/track/3lLOuE6Z5jlQVqO2bbpC8A"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
-        "name": "Gate / Masterplan",
-        "url": "https://open.spotify.com/album/6cQx7mXhkQnfG96b3YlglI"
-      },
-      "artists": [
-        {
-          "name": "K\u00f6lsch",
-          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
-        },
-        {
-          "name": "Kevin de Vries",
-          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
-        }
-      ],
-      "duration_ms": 343764,
-      "name": "Gate",
-      "url": "https://open.spotify.com/track/0lenLbjzr7nDOUt5Ll9iwf"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
+        "name": "Intuition",
+        "url": "https://open.spotify.com/album/2kORg46W2CuossZxEm5qOO"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        }
+      ],
+      "duration_ms": 203738,
+      "name": "Intuition",
+      "url": "https://open.spotify.com/track/6nP0K210TKE3VtjkngS0ks"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
         "name": "Radiant",
         "url": "https://open.spotify.com/album/3XkKoyeXwOBTvFmfBL2cVI"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 452682,
       "name": "Dialogue",
       "url": "https://open.spotify.com/track/52jhw6Sfp5ED2ilnikRyhP"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
-        "name": "Intuition",
-        "url": "https://open.spotify.com/album/2kORg46W2CuossZxEm5qOO"
-      },
-      "artists": [
-        {
-          "name": "Giorgia Angiuli",
-          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
-        }
-      ],
-      "duration_ms": 203738,
-      "name": "Intuition",
-      "url": "https://open.spotify.com/track/6nP0K210TKE3VtjkngS0ks"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/5k27SCv9uikB2YqlMB9Ub2"
-      },
-      "artists": [
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        }
-      ],
-      "duration_ms": 261120,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/4yaXiOi0fml3ehTPOovp5K"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
         "name": "Need You",
         "url": "https://open.spotify.com/album/1CFS7xc9Y41gLfqjsJ1HJx"
       },
@@ -1899,22 +1883,18 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Futuro",
-        "url": "https://open.spotify.com/album/1DazgXEcICNcTtmYp5SK7H"
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/5k27SCv9uikB2YqlMB9Ub2"
       },
       "artists": [
         {
-          "name": "Giuseppe Ottaviani",
-          "url": "https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv"
-        },
-        {
-          "name": "Ilan Bluestone",
-          "url": "https://open.spotify.com/artist/1yoZuH2j43vVSWsOwYuQyn"
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
         }
       ],
-      "duration_ms": 175066,
-      "name": "Futuro",
-      "url": "https://open.spotify.com/track/302izEeCgAxrLEpnXM4nNP"
+      "duration_ms": 261120,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/4yaXiOi0fml3ehTPOovp5K"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -1935,6 +1915,26 @@
       "duration_ms": 222594,
       "name": "Ringo - Miss Monique Remix",
       "url": "https://open.spotify.com/track/0fRLU02X1H2RqWPWKKaJ5c"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Futuro",
+        "url": "https://open.spotify.com/album/1DazgXEcICNcTtmYp5SK7H"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Ottaviani",
+          "url": "https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv"
+        },
+        {
+          "name": "Ilan Bluestone",
+          "url": "https://open.spotify.com/artist/1yoZuH2j43vVSWsOwYuQyn"
+        }
+      ],
+      "duration_ms": 175066,
+      "name": "Futuro",
+      "url": "https://open.spotify.com/track/302izEeCgAxrLEpnXM4nNP"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Olympus",
-        "url": "https://open.spotify.com/album/3lFDbkGVwjx3Dp1Kx4Fqus"
-      },
-      "artists": [
-        {
-          "name": "AKKI (DE)",
-          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
-        }
-      ],
-      "duration_ms": 177777,
-      "name": "Olympus",
-      "url": "https://open.spotify.com/track/0hfyaFhHkcEdWWckyVRnH6"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
         "name": "Betrayal",
         "url": "https://open.spotify.com/album/4QTWadvF8SLwDbnwMJ7DSR"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 366614,
       "name": "Betrayal",
       "url": "https://open.spotify.com/track/6a25inJpWjDP9WwKgO8gFI"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Olympus",
+        "url": "https://open.spotify.com/album/3lFDbkGVwjx3Dp1Kx4Fqus"
+      },
+      "artists": [
+        {
+          "name": "AKKI (DE)",
+          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
+        }
+      ],
+      "duration_ms": 177777,
+      "name": "Olympus",
+      "url": "https://open.spotify.com/track/0hfyaFhHkcEdWWckyVRnH6"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -2107,6 +2107,22 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
+        "name": "Fluid Meditations",
+        "url": "https://open.spotify.com/album/3Tb3OLF2gtWesqXDqFvEEM"
+      },
+      "artists": [
+        {
+          "name": "DJ Gigola",
+          "url": "https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf"
+        }
+      ],
+      "duration_ms": 364455,
+      "name": "Stream State",
+      "url": "https://open.spotify.com/track/2rL6RiorPm6fWSEFUNX8cF"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
         "name": "Into Dust",
         "url": "https://open.spotify.com/album/7ITggXxODRWOO3vhHM1EOA"
       },
@@ -2123,22 +2139,6 @@
       "duration_ms": 196905,
       "name": "Into Dust",
       "url": "https://open.spotify.com/track/3Yosq67GSBqGVkPm3O3Iul"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
-        "name": "Fluid Meditations",
-        "url": "https://open.spotify.com/album/3Tb3OLF2gtWesqXDqFvEEM"
-      },
-      "artists": [
-        {
-          "name": "DJ Gigola",
-          "url": "https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf"
-        }
-      ],
-      "duration_ms": 364455,
-      "name": "Stream State",
-      "url": "https://open.spotify.com/track/2rL6RiorPm6fWSEFUNX8cF"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -2175,22 +2175,6 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Trust",
-        "url": "https://open.spotify.com/album/3Hm5FFYt2DLjqWDFR3acCB"
-      },
-      "artists": [
-        {
-          "name": "Ann Clue",
-          "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
-        }
-      ],
-      "duration_ms": 295680,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
         "name": "Trust The Hours",
         "url": "https://open.spotify.com/album/4MKzursWBCbB95qiTNQzgV"
       },
@@ -2203,6 +2187,22 @@
       "duration_ms": 371604,
       "name": "Trust The Hours",
       "url": "https://open.spotify.com/track/7s6PEaininXkVBJr2RRKub"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/3Hm5FFYt2DLjqWDFR3acCB"
+      },
+      "artists": [
+        {
+          "name": "Ann Clue",
+          "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
+        }
+      ],
+      "duration_ms": 295680,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -2279,22 +2279,6 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Ashes in Paradise",
-        "url": "https://open.spotify.com/album/0GTW43ocEzYd18jSbdNU8z"
-      },
-      "artists": [
-        {
-          "name": "Lauren Mia",
-          "url": "https://open.spotify.com/artist/5HWKpmCYAFYybu5WKtxnnq"
-        }
-      ],
-      "duration_ms": 390243,
-      "name": "Ashes in Paradise",
-      "url": "https://open.spotify.com/track/2aa3mL5s2oZ5Z8irf9lDoI"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
         "name": "Tripchain / Scanalatura",
         "url": "https://open.spotify.com/album/6lpcgj0260dwSF2DEZ33el"
       },
@@ -2315,6 +2299,22 @@
       "duration_ms": 405500,
       "name": "Tripchain",
       "url": "https://open.spotify.com/track/3wLIyQsH1vm9jmg0p5Dsga"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Ashes in Paradise",
+        "url": "https://open.spotify.com/album/0GTW43ocEzYd18jSbdNU8z"
+      },
+      "artists": [
+        {
+          "name": "Lauren Mia",
+          "url": "https://open.spotify.com/artist/5HWKpmCYAFYybu5WKtxnnq"
+        }
+      ],
+      "duration_ms": 390243,
+      "name": "Ashes in Paradise",
+      "url": "https://open.spotify.com/track/2aa3mL5s2oZ5Z8irf9lDoI"
     },
     {
       "added_at": "2024-04-25 22:00:00",

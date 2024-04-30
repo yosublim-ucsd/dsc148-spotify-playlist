@@ -1,6 +1,6 @@
 {
   "description": "A neo-classic sound for the road. Cover: Thee Sacred Souls",
-  "num_followers": 133845,
+  "num_followers": 133869,
   "original_name": "Retro Road Trip",
   "owner": {
     "name": "Spotify",
@@ -25,22 +25,6 @@
       "url": "https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA"
     },
     {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
-        "name": "Will I See You Again?",
-        "url": "https://open.spotify.com/album/3eUX1MOKVAF7ogaLFPY8uN"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 240653,
-      "name": "Will I See You Again?",
-      "url": "https://open.spotify.com/track/4R5GN0mBvb6jkRj3Zvyhkl"
-    },
-    {
       "added_at": "2021-11-05 04:01:00",
       "album": {
         "name": "High No More",
@@ -55,6 +39,22 @@
       "duration_ms": 198845,
       "name": "High No More",
       "url": "https://open.spotify.com/track/71p2ub5QJhJTzfvXbXaUXd"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Will I See You Again?",
+        "url": "https://open.spotify.com/album/3eUX1MOKVAF7ogaLFPY8uN"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 240653,
+      "name": "Will I See You Again?",
+      "url": "https://open.spotify.com/track/4R5GN0mBvb6jkRj3Zvyhkl"
     },
     {
       "added_at": "2022-12-13 18:45:33",
@@ -301,22 +301,6 @@
       "url": "https://open.spotify.com/track/5MjAFPcmrR1DYCgZrXCN4d"
     },
     {
-      "added_at": "2023-12-13 17:43:50",
-      "album": {
-        "name": "Only Girl",
-        "url": "https://open.spotify.com/album/2Qp5Ode31zeYK4qEP2mctl"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        }
-      ],
-      "duration_ms": 159320,
-      "name": "Only Girl",
-      "url": "https://open.spotify.com/track/17fL4slDQP8YopAZHWyiR3"
-    },
-    {
       "added_at": "2021-07-13 21:11:09",
       "album": {
         "name": "Malibu",
@@ -331,6 +315,22 @@
       "duration_ms": 160760,
       "name": "Put Me Thru",
       "url": "https://open.spotify.com/track/70SjyVMzhmMeJQD8hOmIBp"
+    },
+    {
+      "added_at": "2023-12-13 17:43:50",
+      "album": {
+        "name": "Only Girl",
+        "url": "https://open.spotify.com/album/2Qp5Ode31zeYK4qEP2mctl"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "duration_ms": 159320,
+      "name": "Only Girl",
+      "url": "https://open.spotify.com/track/17fL4slDQP8YopAZHWyiR3"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -415,6 +415,22 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
+        "name": "The Switch",
+        "url": "https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY"
+      },
+      "artists": [
+        {
+          "name": "Emily King",
+          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
+        }
+      ],
+      "duration_ms": 231448,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/1IlBPaXuM7Fl6tiH9CPQlQ"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
         "name": "My World",
         "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
       },
@@ -435,18 +451,18 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "The Switch",
-        "url": "https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY"
+        "name": "Wolf Den",
+        "url": "https://open.spotify.com/album/72iUWLyrZgp7WUAIaqX0Np"
       },
       "artists": [
         {
-          "name": "Emily King",
-          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
+          "name": "Danielle Nicole",
+          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
         }
       ],
-      "duration_ms": 231448,
-      "name": "Distance",
-      "url": "https://open.spotify.com/track/1IlBPaXuM7Fl6tiH9CPQlQ"
+      "duration_ms": 177906,
+      "name": "Take It All",
+      "url": "https://open.spotify.com/track/2H0s28N3rendfnepsj48C6"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -463,22 +479,6 @@
       "duration_ms": 158855,
       "name": "Good To You",
       "url": "https://open.spotify.com/track/7t7VTdIZS01AfR2w2SHb17"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "Wolf Den",
-        "url": "https://open.spotify.com/album/72iUWLyrZgp7WUAIaqX0Np"
-      },
-      "artists": [
-        {
-          "name": "Danielle Nicole",
-          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
-        }
-      ],
-      "duration_ms": 177906,
-      "name": "Take It All",
-      "url": "https://open.spotify.com/track/2H0s28N3rendfnepsj48C6"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -549,22 +549,6 @@
       "url": "https://open.spotify.com/track/1m6FCJ4TWoqCz2ubKdep0Z"
     },
     {
-      "added_at": "2023-12-13 17:43:50",
-      "album": {
-        "name": "Love Lines",
-        "url": "https://open.spotify.com/album/6E7FmOKkt2McJF0I411HzL"
-      },
-      "artists": [
-        {
-          "name": "LP",
-          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
-        }
-      ],
-      "duration_ms": 263297,
-      "name": "Long Goodbye",
-      "url": "https://open.spotify.com/track/2UwkYWLgKM9IWlAwDZGR4K"
-    },
-    {
       "added_at": "2021-08-20 04:02:00",
       "album": {
         "name": "The Shapes I'm In",
@@ -579,6 +563,22 @@
       "duration_ms": 146897,
       "name": "All This Space",
       "url": "https://open.spotify.com/track/0Y36El0k8fS2myogTVGXKP"
+    },
+    {
+      "added_at": "2023-12-13 17:43:50",
+      "album": {
+        "name": "Love Lines",
+        "url": "https://open.spotify.com/album/6E7FmOKkt2McJF0I411HzL"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "duration_ms": 263297,
+      "name": "Long Goodbye",
+      "url": "https://open.spotify.com/track/2UwkYWLgKM9IWlAwDZGR4K"
     },
     {
       "added_at": "2023-07-11 18:58:28",
@@ -789,22 +789,6 @@
       "url": "https://open.spotify.com/track/0XXgkLA2n6wpTlMG3V3VDm"
     },
     {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "My Name Is Earl",
-        "url": "https://open.spotify.com/album/4ZFj9ZGycCJdFCeZrFyOlz"
-      },
-      "artists": [
-        {
-          "name": "Earl St. Clair",
-          "url": "https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5"
-        }
-      ],
-      "duration_ms": 191666,
-      "name": "Feeling Alive",
-      "url": "https://open.spotify.com/track/3WUiiqaOUI1K6ttDLS2dJ1"
-    },
-    {
       "added_at": "2023-12-13 17:43:50",
       "album": {
         "name": "Woman",
@@ -819,6 +803,22 @@
       "duration_ms": 182821,
       "name": "Woman (Single Edit)",
       "url": "https://open.spotify.com/track/3tW5b01kiWfMJKQWddwPNl"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "My Name Is Earl",
+        "url": "https://open.spotify.com/album/4ZFj9ZGycCJdFCeZrFyOlz"
+      },
+      "artists": [
+        {
+          "name": "Earl St. Clair",
+          "url": "https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5"
+        }
+      ],
+      "duration_ms": 191666,
+      "name": "Feeling Alive",
+      "url": "https://open.spotify.com/track/3WUiiqaOUI1K6ttDLS2dJ1"
     },
     {
       "added_at": "2023-12-13 17:43:50",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "The Long - EP",
-        "url": "https://open.spotify.com/album/0UO14h8YsBVpz9GgkllwMo"
-      },
-      "artists": [
-        {
-          "name": "Eric Kufs",
-          "url": "https://open.spotify.com/artist/18KeavvXnAdX2lYib7wgyr"
-        }
-      ],
-      "duration_ms": 257778,
-      "name": "Drop of Honey",
-      "url": "https://open.spotify.com/track/6e2RwVYEGnsH20GsRBVlNW"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
         "name": "What I'm Made Of",
         "url": "https://open.spotify.com/album/4nPGjrCGFvwhxtY2OyBW9k"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 201394,
       "name": "What I'm Made Of",
       "url": "https://open.spotify.com/track/4Xj0zimzNjGnfHwkToTZpS"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "The Long - EP",
+        "url": "https://open.spotify.com/album/0UO14h8YsBVpz9GgkllwMo"
+      },
+      "artists": [
+        {
+          "name": "Eric Kufs",
+          "url": "https://open.spotify.com/artist/18KeavvXnAdX2lYib7wgyr"
+        }
+      ],
+      "duration_ms": 257778,
+      "name": "Drop of Honey",
+      "url": "https://open.spotify.com/track/6e2RwVYEGnsH20GsRBVlNW"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1361,22 +1361,6 @@
       "url": "https://open.spotify.com/track/56z22nh9bb2tkWpvdPXlza"
     },
     {
-      "added_at": "2023-12-13 17:43:50",
-      "album": {
-        "name": "Better Than You",
-        "url": "https://open.spotify.com/album/6jzbKJUEQvyalgM0aZzfaH"
-      },
-      "artists": [
-        {
-          "name": "Phillip-Michael Scales",
-          "url": "https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ"
-        }
-      ],
-      "duration_ms": 194244,
-      "name": "Better Than You",
-      "url": "https://open.spotify.com/track/4oVDopGdLrWqBIpzpRhCqV"
-    },
-    {
       "added_at": "2021-07-13 21:11:09",
       "album": {
         "name": "Grace Love and the True Loves",
@@ -1391,6 +1375,22 @@
       "duration_ms": 187866,
       "name": "Fire",
       "url": "https://open.spotify.com/track/02tCo4PWig9O2jk3ymFMGV"
+    },
+    {
+      "added_at": "2023-12-13 17:43:50",
+      "album": {
+        "name": "Better Than You",
+        "url": "https://open.spotify.com/album/6jzbKJUEQvyalgM0aZzfaH"
+      },
+      "artists": [
+        {
+          "name": "Phillip-Michael Scales",
+          "url": "https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ"
+        }
+      ],
+      "duration_ms": 194244,
+      "name": "Better Than You",
+      "url": "https://open.spotify.com/track/4oVDopGdLrWqBIpzpRhCqV"
     },
     {
       "added_at": "2022-12-13 18:45:33",
@@ -1525,22 +1525,6 @@
       "url": "https://open.spotify.com/track/4b5OFU4bzExRpplFzrcecp"
     },
     {
-      "added_at": "2022-01-21 05:02:00",
-      "album": {
-        "name": "Good To Be...",
-        "url": "https://open.spotify.com/album/0wcbmTdkb0bUmKvRQkG25S"
-      },
-      "artists": [
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 208173,
-      "name": "\u201962 Chevy",
-      "url": "https://open.spotify.com/track/4M9P0IpYx9kZmo07CcwVNT"
-    },
-    {
       "added_at": "2021-10-15 04:01:00",
       "album": {
         "name": "Girl from the Valley",
@@ -1555,6 +1539,22 @@
       "duration_ms": 200264,
       "name": "Girl from the Valley",
       "url": "https://open.spotify.com/track/38zNWMi1YRsvaVq3RuZcyV"
+    },
+    {
+      "added_at": "2022-01-21 05:02:00",
+      "album": {
+        "name": "Good To Be...",
+        "url": "https://open.spotify.com/album/0wcbmTdkb0bUmKvRQkG25S"
+      },
+      "artists": [
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "duration_ms": 208173,
+      "name": "\u201962 Chevy",
+      "url": "https://open.spotify.com/track/4M9P0IpYx9kZmo07CcwVNT"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1589,22 +1589,6 @@
       "url": "https://open.spotify.com/track/6OpAPX8HowQw4E7DMwOyjR"
     },
     {
-      "added_at": "2022-12-13 18:45:33",
-      "album": {
-        "name": "Brand New",
-        "url": "https://open.spotify.com/album/2WEJUbzOB4lcnPmbC5JvzZ"
-      },
-      "artists": [
-        {
-          "name": "Liam Bailey",
-          "url": "https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO"
-        }
-      ],
-      "duration_ms": 231654,
-      "name": "Hold Tight",
-      "url": "https://open.spotify.com/track/3tI6A09R5PtvFpKxQUJSCS"
-    },
-    {
       "added_at": "2021-07-13 21:11:09",
       "album": {
         "name": "The Bomb Shelter Sessions",
@@ -1619,6 +1603,22 @@
       "duration_ms": 250226,
       "name": "You Better Believe It",
       "url": "https://open.spotify.com/track/7BoIAhe5LAH6gn173aDkX1"
+    },
+    {
+      "added_at": "2022-12-13 18:45:33",
+      "album": {
+        "name": "Brand New",
+        "url": "https://open.spotify.com/album/2WEJUbzOB4lcnPmbC5JvzZ"
+      },
+      "artists": [
+        {
+          "name": "Liam Bailey",
+          "url": "https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO"
+        }
+      ],
+      "duration_ms": 231654,
+      "name": "Hold Tight",
+      "url": "https://open.spotify.com/track/3tI6A09R5PtvFpKxQUJSCS"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1693,22 +1693,6 @@
       "url": "https://open.spotify.com/track/3pYlvZaghr2UqTuONM2hAs"
     },
     {
-      "added_at": "2023-07-11 18:58:28",
-      "album": {
-        "name": "Definitely NOW",
-        "url": "https://open.spotify.com/album/2R40qpfi2fRj8eBFuPi6mu"
-      },
-      "artists": [
-        {
-          "name": "Liam Bailey",
-          "url": "https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO"
-        }
-      ],
-      "duration_ms": 186880,
-      "name": "Summer Rain",
-      "url": "https://open.spotify.com/track/7eUDlOuxZtPJkEhySb3RUv"
-    },
-    {
       "added_at": "2021-07-13 21:11:09",
       "album": {
         "name": "The Last Days of Oakland",
@@ -1723,6 +1707,22 @@
       "duration_ms": 255784,
       "name": "Nothing Without You",
       "url": "https://open.spotify.com/track/6P9qzDTlTNgtbfMLBc1ZVi"
+    },
+    {
+      "added_at": "2023-07-11 18:58:28",
+      "album": {
+        "name": "Definitely NOW",
+        "url": "https://open.spotify.com/album/2R40qpfi2fRj8eBFuPi6mu"
+      },
+      "artists": [
+        {
+          "name": "Liam Bailey",
+          "url": "https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO"
+        }
+      ],
+      "duration_ms": 186880,
+      "name": "Summer Rain",
+      "url": "https://open.spotify.com/track/7eUDlOuxZtPJkEhySb3RUv"
     },
     {
       "added_at": "2021-11-05 04:01:00",
@@ -1921,26 +1921,6 @@
       "url": "https://open.spotify.com/track/3SVMfyNJqhdZuMnw8T1wNG"
     },
     {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "EmOGs",
-        "url": "https://open.spotify.com/album/5bcCk9BpsuHowXQwq6dxB7"
-      },
-      "artists": [
-        {
-          "name": "Salaam Remi",
-          "url": "https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN"
-        },
-        {
-          "name": "Mumu Fresh",
-          "url": "https://open.spotify.com/artist/5UIl2yxuQbC2rU8m9pN8mD"
-        }
-      ],
-      "duration_ms": 257973,
-      "name": "EmOGs",
-      "url": "https://open.spotify.com/track/2qz1vGLzlQf0Xc2dlfhOEA"
-    },
-    {
       "added_at": "2021-10-22 04:02:00",
       "album": {
         "name": "Rolling Through California (feat. Miko Marks)",
@@ -1959,6 +1939,26 @@
       "duration_ms": 219546,
       "name": "Rolling Through California (feat. Miko Marks)",
       "url": "https://open.spotify.com/track/6IjR1Pab1JWRm4T8gHfoef"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "EmOGs",
+        "url": "https://open.spotify.com/album/5bcCk9BpsuHowXQwq6dxB7"
+      },
+      "artists": [
+        {
+          "name": "Salaam Remi",
+          "url": "https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN"
+        },
+        {
+          "name": "Mumu Fresh",
+          "url": "https://open.spotify.com/artist/5UIl2yxuQbC2rU8m9pN8mD"
+        }
+      ],
+      "duration_ms": 257973,
+      "name": "EmOGs",
+      "url": "https://open.spotify.com/track/2qz1vGLzlQf0Xc2dlfhOEA"
     },
     {
       "added_at": "2022-01-14 05:01:00",

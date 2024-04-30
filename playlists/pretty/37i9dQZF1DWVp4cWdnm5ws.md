@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 
 > Discover new artists on the horizon this 2024\. Cover: Illest Morena
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,446 likes - 32 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,577 likes - 32 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

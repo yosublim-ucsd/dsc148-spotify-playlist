@@ -1,12 +1,12 @@
 {
   "description": "The perfect mix of the latest pop hits! Follow this playlist and play Nicki Nicole &quot;Ojos Verdes,&quot; Enrique Iglesias, Yotuel &amp; Yng Lvcas &quot;Fria Remix&quot; Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Reik &quot;Baja California&quot;, Shakira &amp; Cardi B &quot;Punter\u00eda,&quot;  Cover: Nicki Nicole",
-  "num_followers": 53925,
+  "num_followers": 53887,
   "original_name": "Pop Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "NDQyNywxZTJhNGQyYjY3MmJjZmRjYTMzNjY5MDk0NDNjMGUwMmVmYjkwNmEz",
+  "snapshot_id": "NDQzMiwxNDQ1N2ZiOGNkNTUwM2M1YmM5N2MxNzhjZDU2ZmMxMjlkMjA1ZmRk",
   "tracks": [
     {
       "added_at": "2024-04-25 00:18:05",
@@ -41,44 +41,24 @@
       "url": "https://open.spotify.com/track/4RNpctPjIdBJrB5Fd459oN"
     },
     {
-      "added_at": "2024-04-26 04:19:13",
+      "added_at": "2024-04-12 03:57:48",
       "album": {
-        "name": "Dejarlo Todo Afuera",
-        "url": "https://open.spotify.com/album/6offz3zaVRG3coaHUl3VZG"
+        "name": "Bahamas",
+        "url": "https://open.spotify.com/album/2t2TGRu7yTlcXjMbdBZmbS"
       },
       "artists": [
         {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         },
         {
-          "name": "Luz Gaggi",
-          "url": "https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm"
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
         }
       ],
-      "duration_ms": 184213,
-      "name": "Dejarlo Todo Afuera",
-      "url": "https://open.spotify.com/track/4JIunmRK5ITbf5nFjr8IzS"
-    },
-    {
-      "added_at": "2024-04-26 04:46:10",
-      "album": {
-        "name": "Un Desperdicio",
-        "url": "https://open.spotify.com/album/4HYZjxaYN4BZz79100LDd8"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 223783,
-      "name": "Un Desperdicio",
-      "url": "https://open.spotify.com/track/4Pqi8W12YuzAWBvLdJI4ed"
+      "duration_ms": 223728,
+      "name": "Bahamas",
+      "url": "https://open.spotify.com/track/3BWpv2yBYqreJmcPiHkuVC"
     },
     {
       "added_at": "2024-04-19 04:29:22",
@@ -105,62 +85,6 @@
       "url": "https://open.spotify.com/track/1alnEk6Ileyn9W2pAINu0q"
     },
     {
-      "added_at": "2024-04-19 01:10:18",
-      "album": {
-        "name": "Espectacular",
-        "url": "https://open.spotify.com/album/2HLdCDKtyV4VxHLYk5xvAS"
-      },
-      "artists": [
-        {
-          "name": "Sky Rompiendo",
-          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 185739,
-      "name": "Espectacular",
-      "url": "https://open.spotify.com/track/4HnuPc5Cng3tbwunyqSMNi"
-    },
-    {
-      "added_at": "2024-04-12 03:57:48",
-      "album": {
-        "name": "Bahamas",
-        "url": "https://open.spotify.com/album/2t2TGRu7yTlcXjMbdBZmbS"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        }
-      ],
-      "duration_ms": 223728,
-      "name": "Bahamas",
-      "url": "https://open.spotify.com/track/3BWpv2yBYqreJmcPiHkuVC"
-    },
-    {
-      "added_at": "2024-04-19 05:09:32",
-      "album": {
-        "name": "Reir pa no llorar",
-        "url": "https://open.spotify.com/album/6yF5XTwDNpaW3yC5l0CAdm"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Rubio",
-          "url": "https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG"
-        }
-      ],
-      "duration_ms": 164949,
-      "name": "Reir pa no llorar",
-      "url": "https://open.spotify.com/track/4prqRVaMnTzHNWftd76iqN"
-    },
-    {
       "added_at": "2024-03-22 04:09:49",
       "album": {
         "name": "Punter\u00eda",
@@ -181,6 +105,62 @@
       "url": "https://open.spotify.com/track/6pW82dtuBNNpI1ytFasNgr"
     },
     {
+      "added_at": "2024-04-19 01:10:18",
+      "album": {
+        "name": "Espectacular",
+        "url": "https://open.spotify.com/album/2HLdCDKtyV4VxHLYk5xvAS"
+      },
+      "artists": [
+        {
+          "name": "Sky Rompiendo",
+          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 185739,
+      "name": "Espectacular",
+      "url": "https://open.spotify.com/track/4HnuPc5Cng3tbwunyqSMNi"
+    },
+    {
+      "added_at": "2024-04-26 04:46:10",
+      "album": {
+        "name": "Un Desperdicio",
+        "url": "https://open.spotify.com/album/4HYZjxaYN4BZz79100LDd8"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 223783,
+      "name": "Un Desperdicio",
+      "url": "https://open.spotify.com/track/4Pqi8W12YuzAWBvLdJI4ed"
+    },
+    {
+      "added_at": "2024-04-19 05:09:32",
+      "album": {
+        "name": "Reir pa no llorar",
+        "url": "https://open.spotify.com/album/6yF5XTwDNpaW3yC5l0CAdm"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Rubio",
+          "url": "https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG"
+        }
+      ],
+      "duration_ms": 164949,
+      "name": "Reir pa no llorar",
+      "url": "https://open.spotify.com/track/4prqRVaMnTzHNWftd76iqN"
+    },
+    {
       "added_at": "2024-04-12 03:35:05",
       "album": {
         "name": "Baja California",
@@ -195,6 +175,26 @@
       "duration_ms": 187315,
       "name": "Baja California",
       "url": "https://open.spotify.com/track/3XAMueRejgCY1TEJDX1gv0"
+    },
+    {
+      "added_at": "2024-04-26 04:19:13",
+      "album": {
+        "name": "Dejarlo Todo Afuera",
+        "url": "https://open.spotify.com/album/6offz3zaVRG3coaHUl3VZG"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        },
+        {
+          "name": "Luz Gaggi",
+          "url": "https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm"
+        }
+      ],
+      "duration_ms": 184213,
+      "name": "Dejarlo Todo Afuera",
+      "url": "https://open.spotify.com/track/4JIunmRK5ITbf5nFjr8IzS"
     },
     {
       "added_at": "2024-04-05 18:51:00",
@@ -271,26 +271,6 @@
       "duration_ms": 186366,
       "name": "La Botella",
       "url": "https://open.spotify.com/track/5zkZazxkRze7ub2fT8Xv8u"
-    },
-    {
-      "added_at": "2024-04-05 12:40:08",
-      "album": {
-        "name": "Bailarina",
-        "url": "https://open.spotify.com/album/0OCGfj5zYqgfbeqUaXiP2f"
-      },
-      "artists": [
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 185546,
-      "name": "Bailarina",
-      "url": "https://open.spotify.com/track/0PTnMPnIvXRgb5IaANYzVN"
     },
     {
       "added_at": "2024-03-15 11:58:14",

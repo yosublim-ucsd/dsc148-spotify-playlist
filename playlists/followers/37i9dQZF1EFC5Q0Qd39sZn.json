@@ -1,5 +1,5 @@
 {
-  "2024-04-29": 7710,
+  "2024-04-30": 7712,
   "date_first_scraped": "2023-12-31",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F\">Diane Warren</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Diane Warren",
@@ -7341,6 +7341,24 @@
     {
       "album": {
         "name": "I Remember Me",
+        "url": "https://open.spotify.com/album/73xzYfVVYvkwYrhb5iUvjH"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Hudson",
+          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
+        }
+      ],
+      "date_added": "2024-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221026,
+      "name": "Still Here",
+      "url": "https://open.spotify.com/track/5hyHIDjxCGP0efNx6qwmu0"
+    },
+    {
+      "album": {
+        "name": "I Remember Me",
         "url": "https://open.spotify.com/album/10nkWocfwen0Q76rRn5nHC"
       },
       "artists": [
@@ -7351,7 +7369,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 221106,
       "name": "Still Here",
       "url": "https://open.spotify.com/track/5OzYchiIV8Jd1AXcvncIHy"

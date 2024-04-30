@@ -2,7 +2,7 @@
 
 ### [This Is Joy Oladokun](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4pbj8d)
 
-> This Is Joy Oladokun\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is Joy Oladokun\. The essential tracks, all in one playlist.
 
 70 songs - 4 hr 4 min
 

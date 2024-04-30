@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles chansons d'amour de la vari\u00e9t\u00e9 fran\u00e7aise.",
-  "num_followers": 316123,
+  "num_followers": 315980,
   "original_name": "French Kiss",
   "owner": {
     "name": "Spotify",
@@ -159,18 +159,22 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
-        "name": "Pure",
-        "url": "https://open.spotify.com/album/1VOw4yLcyAgwPR3dGPXRnm"
+        "name": "Les Dix Commandements (L'int\u00e9grale)",
+        "url": "https://open.spotify.com/album/79qNGzwU1l9vh3nw6GeY8l"
       },
       "artists": [
         {
-          "name": "Lara Fabian",
-          "url": "https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20"
+          "name": "Les Dix Commandements",
+          "url": "https://open.spotify.com/artist/5QXmg7M7qjL9PcJ79MYyGb"
+        },
+        {
+          "name": "Daniel Levi",
+          "url": "https://open.spotify.com/artist/27Nnz63JsAweHllsNze2yD"
         }
       ],
-      "duration_ms": 261106,
-      "name": "Je T\u2019aime",
-      "url": "https://open.spotify.com/track/28mwuJqKOjRpqo14GuKSkj"
+      "duration_ms": 388840,
+      "name": "L'envie d'aimer",
+      "url": "https://open.spotify.com/track/5H9PjygodoXzyX45g7Pm6n"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -191,22 +195,18 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
-        "name": "Les Dix Commandements (L'int\u00e9grale)",
-        "url": "https://open.spotify.com/album/79qNGzwU1l9vh3nw6GeY8l"
+        "name": "Pure",
+        "url": "https://open.spotify.com/album/1VOw4yLcyAgwPR3dGPXRnm"
       },
       "artists": [
         {
-          "name": "Les Dix Commandements",
-          "url": "https://open.spotify.com/artist/5QXmg7M7qjL9PcJ79MYyGb"
-        },
-        {
-          "name": "Daniel Levi",
-          "url": "https://open.spotify.com/artist/27Nnz63JsAweHllsNze2yD"
+          "name": "Lara Fabian",
+          "url": "https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20"
         }
       ],
-      "duration_ms": 388840,
-      "name": "L'envie d'aimer",
-      "url": "https://open.spotify.com/track/5H9PjygodoXzyX45g7Pm6n"
+      "duration_ms": 261106,
+      "name": "Je T\u2019aime",
+      "url": "https://open.spotify.com/track/28mwuJqKOjRpqo14GuKSkj"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
-        "name": "Savoir Aimer",
-        "url": "https://open.spotify.com/album/6f6O9rhUAlFv9y18O2AZ0p"
-      },
-      "artists": [
-        {
-          "name": "Florent Pagny",
-          "url": "https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9"
-        }
-      ],
-      "duration_ms": 281213,
-      "name": "Savoir aimer",
-      "url": "https://open.spotify.com/track/0x8GIrcAO8msuslNoTKIXM"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
         "name": "Joe Dassin \u00c9ternel...",
         "url": "https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 269320,
       "name": "L'\u00e9t\u00e9 indien",
       "url": "https://open.spotify.com/track/7BNeFchpHDCWYSUV4hfU89"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
+        "name": "Savoir Aimer",
+        "url": "https://open.spotify.com/album/6f6O9rhUAlFv9y18O2AZ0p"
+      },
+      "artists": [
+        {
+          "name": "Florent Pagny",
+          "url": "https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9"
+        }
+      ],
+      "duration_ms": 281213,
+      "name": "Savoir aimer",
+      "url": "https://open.spotify.com/track/0x8GIrcAO8msuslNoTKIXM"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
-        "name": "Joie de vivre",
-        "url": "https://open.spotify.com/album/7cyuFUJLQkLVF7JIB2U9T2"
-      },
-      "artists": [
-        {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
-        }
-      ],
-      "duration_ms": 176160,
-      "name": "Aimer \u00e0 mort",
-      "url": "https://open.spotify.com/track/2HENwndPLHINxHhQPMh8BE"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
         "name": "Love Me Please Love Me",
         "url": "https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 260666,
       "name": "Love Me, Please Love Me",
       "url": "https://open.spotify.com/track/2edyuIOPsZrZLBwnsC1u80"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
+        "name": "Joie de vivre",
+        "url": "https://open.spotify.com/album/7cyuFUJLQkLVF7JIB2U9T2"
+      },
+      "artists": [
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        }
+      ],
+      "duration_ms": 176160,
+      "name": "Aimer \u00e0 mort",
+      "url": "https://open.spotify.com/track/2HENwndPLHINxHhQPMh8BE"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
-        "name": "C\u0153ur",
-        "url": "https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC"
-      },
-      "artists": [
-        {
-          "name": "Clara Luciani",
-          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
-        }
-      ],
-      "duration_ms": 207026,
-      "name": "Amour toujours",
-      "url": "https://open.spotify.com/track/0Db6ejFxY0v2eIWVTNpf6J"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
         "name": "Joe",
         "url": "https://open.spotify.com/album/1AX6ugtUs8xZXXBJV2HLbt"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 245973,
       "name": "Parce que c'est toi",
       "url": "https://open.spotify.com/track/0FHJcPgK7UBMUa6hdHLW6m"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
+        "name": "C\u0153ur",
+        "url": "https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC"
+      },
+      "artists": [
+        {
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+        }
+      ],
+      "duration_ms": 207026,
+      "name": "Amour toujours",
+      "url": "https://open.spotify.com/track/0Db6ejFxY0v2eIWVTNpf6J"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
-        "name": "Sauver l'amour (Remastered)",
-        "url": "https://open.spotify.com/album/7MeWkif2iSlOTHh3H7uzyh"
-      },
-      "artists": [
-        {
-          "name": "Daniel Balavoine",
-          "url": "https://open.spotify.com/artist/28IqYhzq3UU46bbY0mRgn7"
-        }
-      ],
-      "duration_ms": 245120,
-      "name": "Aimer est plus fort que d'\u00eatre aim\u00e9",
-      "url": "https://open.spotify.com/track/112mJNSudZnvXE3x4mPb6C"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
         "name": "C'est d\u00e9j\u00e0 \u00e7a",
         "url": "https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 226800,
       "name": "L'amour \u00e0 la machine",
       "url": "https://open.spotify.com/track/2qHYEIBD2g14bOT2YkZ2Ye"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
+        "name": "Sauver l'amour (Remastered)",
+        "url": "https://open.spotify.com/album/7MeWkif2iSlOTHh3H7uzyh"
+      },
+      "artists": [
+        {
+          "name": "Daniel Balavoine",
+          "url": "https://open.spotify.com/artist/28IqYhzq3UU46bbY0mRgn7"
+        }
+      ],
+      "duration_ms": 245120,
+      "name": "Aimer est plus fort que d'\u00eatre aim\u00e9",
+      "url": "https://open.spotify.com/track/112mJNSudZnvXE3x4mPb6C"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
+        "name": "Georges Brassens interpr\u00e8te ses derni\u00e8res compositions N\u00b02",
+        "url": "https://open.spotify.com/album/5riAtczpXYojWiT1G6f0O0"
+      },
+      "artists": [
+        {
+          "name": "Georges Brassens",
+          "url": "https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr"
+        }
+      ],
+      "duration_ms": 180746,
+      "name": "Les amoureux des bancs publics",
+      "url": "https://open.spotify.com/track/7y2O28y2I9rnmol5RjSG8D"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
         "name": "Best Of - Morceaux d\u2019amour",
         "url": "https://open.spotify.com/album/7BauVijZ5bgc9J5qqbShce"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 220386,
       "name": "Toi mon amour",
       "url": "https://open.spotify.com/track/1moFtJmSZHc8CwSkvGJ7kg"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
-        "name": "Georges Brassens interpr\u00e8te ses derni\u00e8res compositions N\u00b02",
-        "url": "https://open.spotify.com/album/5riAtczpXYojWiT1G6f0O0"
-      },
-      "artists": [
-        {
-          "name": "Georges Brassens",
-          "url": "https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr"
-        }
-      ],
-      "duration_ms": 180746,
-      "name": "Les amoureux des bancs publics",
-      "url": "https://open.spotify.com/track/7y2O28y2I9rnmol5RjSG8D"
     },
     {
       "added_at": "2023-10-11 08:48:19",

@@ -1,5 +1,5 @@
 {
-  "2024-04-29": 351145,
+  "2024-04-30": 350990,
   "date_first_scraped": "2022-01-18",
   "description": "Your daily update of the most viral tracks right now - Brazil.",
   "name": "Viral 50 - Brazil",
@@ -44285,7 +44285,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 169432,
       "name": "Traje do Colorado",
       "url": "https://open.spotify.com/track/1bYFk4vBqAW4xIpkHpbtmO"
@@ -46301,6 +46301,24 @@
       "duration_ms": 192168,
       "name": "VAMOS SAIR UM POUCO PRA DAN\u00c7AR",
       "url": "https://open.spotify.com/track/2DdynfYl8qbKrkEy5hiG80"
+    },
+    {
+      "album": {
+        "name": "VAMOS SAIR UM POUCO PRA DAN\u00c7AR - Vers\u00e3o Light",
+        "url": "https://open.spotify.com/album/1oRfX8wrJcfH8yJfW0TS1r"
+      },
+      "artists": [
+        {
+          "name": "Dj Luan Gomes",
+          "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
+        }
+      ],
+      "date_added": "2024-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116307,
+      "name": "VAMOS SAIR UM POUCO PRA DAN\u00c7AR - Vers\u00e3o Light",
+      "url": "https://open.spotify.com/track/7H7rz6Plm5MoJET9yB3nn6"
     },
     {
       "album": {

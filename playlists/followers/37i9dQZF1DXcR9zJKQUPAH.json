@@ -1,5 +1,5 @@
 {
-  "2024-04-29": 149076,
+  "2024-04-30": 149093,
   "date_first_scraped": "2022-09-17",
   "description": "2017 highlights from the home of indie music.",
   "name": "Best of Indie 2017",
@@ -1074,6 +1074,24 @@
     },
     {
       "album": {
+        "name": "Sleep Well Beast",
+        "url": "https://open.spotify.com/album/6zG9PHw8dlMLIyRE9TEGGk"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338973,
+      "name": "Guilty Party",
+      "url": "https://open.spotify.com/track/25RriQgYitvlhOso7ckY2r"
+    },
+    {
+      "album": {
         "name": "Apricot Princess",
         "url": "https://open.spotify.com/album/2NBVxjZcbH5H1N1Ab2ExDH"
       },
@@ -1481,7 +1499,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 101000,
       "name": "Lost in You",
       "url": "https://open.spotify.com/track/5mkRGTbm3BwPzNQL9oBV9e"

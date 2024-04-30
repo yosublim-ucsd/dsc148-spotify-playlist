@@ -4,7 +4,7 @@
 
 > Queeeima paredão! Pra forrozeiro sofrer dançando e dançar sofrendo, bora.
 
-131 songs - 6 hr 19 min
+132 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [O Piseiro Estourou](https://open.spotify.com/track/1Fdp9g8RuwiqWWITwU2QLI) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5), [Vitor Fernandes](https://open.spotify.com/artist/3TJGVUkSJzk5ZPixMFczZX), [Victor Meira](https://open.spotify.com/artist/0MjRKm8DW3DqXxCAcR13FC), [Zeca Bota Bom](https://open.spotify.com/artist/321psdOgtVXQr5EIE3XlpA), [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Piseiro, Churrasco & Paredão](https://open.spotify.com/album/1Ic1iEkQ2udppQAjB8Ovoy) | 2:28 | 2024-03-28 |  |
 | [Os Boys Amam O Ex Chora](https://open.spotify.com/track/2o8MYdtYZYidgpe9oIGIcy) | [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk), [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Os Boys Amam O Ex Chora](https://open.spotify.com/album/1yvxWiONM8RYM6sqxPGBrr) | 2:33 | 2023-10-23 |  |
 | [Paraquedas \- Live](https://open.spotify.com/track/208IlWWWgzeaNe53aHeoKO) | [Gabriel Diniz](https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj) | [Gabriel Diniz Na Ilha \(Ao Vivo\)](https://open.spotify.com/album/6byjd01Gc7WfKauc1zJfWp) | 2:49 | 2023-10-23 |  |
+| [Paredão Espanca \- Ao Vivo](https://open.spotify.com/track/111OVupOu3eEnfR3ebrdXK) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l), [Dadá Boladão](https://open.spotify.com/artist/36SRwzRkX5zW3ABjJrevqX) | [SIM, EP 1 \(Ao Vivo\)](https://open.spotify.com/album/5o6lPm02Mij9Mx6yjC9GNv) | 2:27 | 2024-03-28 |  |
 | [Pisadinha \- Ao Vivo](https://open.spotify.com/track/36P6ptTyxOggYgR2aoZiAl) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Pisadinha \(Ao Vivo\)](https://open.spotify.com/album/2Ir3JLRBTe6UNagIu9CsYV) | 2:38 | 2023-10-23 |  |
 | [Quem Me Dera](https://open.spotify.com/track/29dRTbLTxRaSl63DIzbjvl) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Quem Me Dera](https://open.spotify.com/album/4dnvHZqul9z0csYtnHcHw7) | 2:27 | 2023-10-23 |  |
 | [Quero Ver é Me Esquecer \(feat\. Jorge\) \- Ao Vivo](https://open.spotify.com/track/2SUPbyD77tJuOUbqbxct6l) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Da Roça Pra Cidade \(Ao Vivo\), Vol\. 02](https://open.spotify.com/album/0EB9cgGjaXmq2YDrcpdSDE) | 2:27 | 2023-10-23 |  |
@@ -127,7 +128,7 @@
 | [Trip do Boyzinho](https://open.spotify.com/track/41GMwa6sCB3iA2aS5T30iE) | [Boyzinho o Rei da Bregadeira](https://open.spotify.com/artist/3JlDzWcj1jl5fVSJ7YyHgK) | [Trip do Boyzinho](https://open.spotify.com/album/6JU1sx4sZfbO2gsicBwuxx) | 2:49 | 2023-10-23 |  |
 | [Tudo Ok \(Pisadinha\)](https://open.spotify.com/track/1bDQ8hCoQstIw8DQIAYpxi) | [Dany Bala](https://open.spotify.com/artist/4cQ6t2SYfuOGQmyeXZQSkg), [Thiaguinho MT](https://open.spotify.com/artist/0yApzRdrUqTGqX9MULdnmV) | [Tudo Ok \(Pisadinha\)](https://open.spotify.com/album/74ryxpXKloq0oKvlLrnt6Y) | 2:46 | 2024-03-28 |  |
 | [Tá Faltando Eu](https://open.spotify.com/track/3jr84zsemJUVRODvbteOoX) | [Luan Estilizado](https://open.spotify.com/artist/1tGLEVy901arulIovZtdLc) | [Tá Faltando Eu](https://open.spotify.com/album/20jNvanEVYWQOAisswocMx) | 2:28 | 2023-10-23 |  |
-| [Tá Rocheda](https://open.spotify.com/track/5QygX54HlSXZEb9zijkGO6) | [Dodô Pressão](https://open.spotify.com/artist/239tGNfFtP07aQ07ZrbTGz) | [O Trator Chegou](https://open.spotify.com/album/7LFeYdOTeUVrihpmpiehjw) | 3:07 | 2024-03-28 |  |
+| [Tá Rocheda](https://open.spotify.com/track/5QygX54HlSXZEb9zijkGO6) | [Dodô Pressão](https://open.spotify.com/artist/239tGNfFtP07aQ07ZrbTGz) | [O Trator Chegou](https://open.spotify.com/album/7LFeYdOTeUVrihpmpiehjw) | 3:07 | 2024-03-28 | 2024-04-30 |
 | [Tá Rocheda](https://open.spotify.com/track/3dPvQLKl42dMYWV4LWRTLK) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [As Melhores 2018](https://open.spotify.com/album/59Q7HNcjiKQ0TFBvuzpbLP) | 3:23 | 2023-10-23 |  |
 | [Um Degrau na Escada \- Ao Vivo](https://open.spotify.com/track/49h9lUseWMnzyU0W8E40mP) | [Calcinha Preta](https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [CP 25 Anos, Pt\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2aBcsCLnWCf002QuBJok53) | 4:11 | 2023-10-23 |  |
 | [Vaquejada Deixo Não](https://open.spotify.com/track/7opFSfeMfpGF3KGByMeunX) | [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM) | [Vaquejada Deixo Não](https://open.spotify.com/album/1clLqhZRPHVnA0LyG6PQAO) | 3:17 | 2023-10-23 | 2024-04-19 |

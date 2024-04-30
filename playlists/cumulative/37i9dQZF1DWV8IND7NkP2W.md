@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-726 songs - 1 day 8 hr 43 min
+727 songs - 1 day 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -465,6 +465,7 @@
 | [No.18 Sketch in the Shade](https://open.spotify.com/track/1pfF2n9ycLVPydzZNOJO6l) | [Masatomo Yoshizawa](https://open.spotify.com/artist/5AtXWRTyAGHgpdQSnt8jyL), [XTAL](https://open.spotify.com/artist/2t07wCTjaVSrObNSvgMyLi) | [Guitar Esquisse Volume One](https://open.spotify.com/album/65gNo2Y6rjpV7VIrTVkUw2) | 3:30 | 2021-12-23 | 2022-07-29 |
 | [Nomadic tribe \- DJ Mitsu The Beats Remix](https://open.spotify.com/track/6vHbIO9JV3LjFuMxiIf9Vr) | [Otoji + Ray](https://open.spotify.com/artist/0b90iQpNWuYUH8vr0NyhOA), [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Nomadic tribe \(DJ Mitsu The Beats Remix\)](https://open.spotify.com/album/78jQAlIKlWgR14QM3arefx) | 4:05 | 2021-12-23 | 2022-12-24 |
 | [Nomadic tribe \- No.9 Remix](https://open.spotify.com/track/5zVN16RjpgUDZ2rBeXvPhY) | [Otoji + Ray](https://open.spotify.com/artist/0b90iQpNWuYUH8vr0NyhOA), [No.9](https://open.spotify.com/artist/3QR2FqA6iqKnrHMKoQuPsZ) | [Nomadic tribe \(No.9 Remix\)](https://open.spotify.com/album/7slNNGveLkTBkaUuOcS7VZ) | 4:25 | 2022-06-30 | 2022-07-26 |
+| [noon](https://open.spotify.com/track/3iTELPdEN494We734u5Rck) | [invisible design](https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM) | [noon](https://open.spotify.com/album/6mlR29JIpZaQ50Dk1Hx1dV) | 2:26 | 2024-04-12 |  |
 | [NOTE](https://open.spotify.com/track/25dGr8RF6IMLHkzgHgE3Xl) | [Isaz](https://open.spotify.com/artist/2QKgJH2C0AY4KGrmn7bczD) | [Number5](https://open.spotify.com/album/3YrXxyLoT9M9WUaqlebgpq) | 2:05 | 2022-03-31 | 2022-04-09 |
 | [NTME Route 3](https://open.spotify.com/track/1JNKSKnWatoAHXtKl6CjdJ) | [DJ MASTERKEY](https://open.spotify.com/artist/2dg4DEZAnPRb0F8By56AYZ), [ONODUB](https://open.spotify.com/artist/6kQH7BRX0SMB7OlSRr6IeA) | [SUMMER BREEZE](https://open.spotify.com/album/0BYO0GnScDav439GPw8GiP) | 2:54 | 2023-08-01 | 2023-10-26 |
 | [Nujabest](https://open.spotify.com/track/2h5AdIzimnGEaT8EToDcQb) | [Astrolemo](https://open.spotify.com/artist/6XtEzqCB9T1Y8uAjCGS17j) | [Nujabest](https://open.spotify.com/album/7M1n4PgrCJoFKhdMqT1Xj2) | 0:54 | 2022-03-24 | 2022-04-16 |
@@ -558,7 +559,7 @@
 | [Season](https://open.spotify.com/track/4Za0WkeiO3GrhQnwjY62Y7) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Silently Beats](https://open.spotify.com/album/2o0qFpD6ftIxy5LcQFfWpX) | 2:24 | 2022-11-10 |  |
 | [Sector z](https://open.spotify.com/track/4mTFQFFS6bmrtsedqMMGrR) | [Ill Sugi](https://open.spotify.com/artist/2qGrUQLbdfzBFpSwz53Y0c) | [Kief Tape, Vol\. 1](https://open.spotify.com/album/2am4WMyfxP3HDGRxhB9WjP) | 2:35 | 2022-01-06 | 2022-07-20 |
 | [Sepia Drop](https://open.spotify.com/track/2LQ1CYH5NfUPz5usHviuxB) | [mic.b a.k.a 73Pike Set](https://open.spotify.com/artist/52thcpFLoyqpsYH62cs6QT) | [Moon Trail](https://open.spotify.com/album/0TxbsET65pJcL3G1hkgUZX) | 4:40 | 2021-12-23 | 2022-07-28 |
-| [Sequences](https://open.spotify.com/track/4qw2ivY0IecySstEiS9I32) | [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb), [Shou](https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9), [Idyllic](https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K) | [Sequences](https://open.spotify.com/album/0N9eVWHd8pIJFLP6Ph27ok) | 2:00 | 2021-12-23 |  |
+| [Sequences](https://open.spotify.com/track/4qw2ivY0IecySstEiS9I32) | [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb), [Shou](https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9), [Idyllic](https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K) | [Sequences](https://open.spotify.com/album/0N9eVWHd8pIJFLP6Ph27ok) | 2:00 | 2021-12-23 | 2024-04-30 |
 | [Setting Sun](https://open.spotify.com/track/4qFXWrzya3SLfYniBZJj2F) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Setting Sun](https://open.spotify.com/album/7ifpKetERJMrVeQNg4UNBn) | 1:49 | 2023-04-27 | 2023-05-19 |
 | [Shibuya](https://open.spotify.com/track/1MYFWxUBgTrvelKo50aLoy) | [LoFi\-α](https://open.spotify.com/artist/6igBdPOHIXA2Mb6rV7G2f9) | [Beautiful Journey vol.1](https://open.spotify.com/album/3wXUBuBz7Rnw8IZj3rZOkd) | 2:06 | 2021-12-23 | 2022-07-06 |
 | [ShitaMachi MAGIC](https://open.spotify.com/track/5RkXH059wZhIhLhfXGFPy1) | [Orihusay](https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm) | [ShitaMachi MAGIC](https://open.spotify.com/album/1jrrEx5B1jCvGSWzuSs0G0) | 2:58 | 2021-12-23 | 2022-07-28 |

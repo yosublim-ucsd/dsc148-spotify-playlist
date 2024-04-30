@@ -1,5 +1,5 @@
 {
-  "2024-04-29": 208826,
+  "2024-04-30": 208875,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Denmark.",
   "name": "Top 50 - Denmark",
@@ -313,7 +313,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 160615,
       "name": "2 Kanoner",
       "url": "https://open.spotify.com/track/19Lap3pvucrN4aEBmmBZRn"
@@ -14363,7 +14363,7 @@
       ],
       "date_added": "2024-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-24",
+      "date_removed": null,
       "duration_ms": 174333,
       "name": "Jeg Er En Gamer",
       "url": "https://open.spotify.com/track/6crE5bktd0Kr3ihxQ4ZWpt"
@@ -18805,7 +18805,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 197043,
       "name": "MOONLIGHT",
       "url": "https://open.spotify.com/track/3neYAjvKDOfvBUpIgReOkC"
@@ -20573,7 +20573,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 179973,
       "name": "ONE",
       "url": "https://open.spotify.com/track/7Dsa5qbNja1h8VOW7DzpYm"
@@ -20865,7 +20865,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 139639,
       "name": "OVERCOMMANDO",
       "url": "https://open.spotify.com/track/0Dxz68p82IH2OhGEBsvVnv"
@@ -24571,7 +24571,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 262974,
       "name": "So Long, London",
       "url": "https://open.spotify.com/track/3Vevii7qKqrmW8CcyzBHDl"

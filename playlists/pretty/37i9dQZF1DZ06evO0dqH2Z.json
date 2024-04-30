@@ -1,12 +1,12 @@
 {
   "description": "This is Tigers Jaw. The essential tracks, all in one playlist.",
-  "num_followers": 3667,
+  "num_followers": 3668,
   "original_name": "This Is Tigers Jaw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDE3NjAwMCwwMDAwMDAwMDFkZjZiYjBhZmE3NDhjNTEzYWQwMjE5ZmI3MjczNmQ1",
+  "snapshot_id": "MTcxNDI2MjQwMCwwMDAwMDAwMDJhOGY5YjI3NDFjMzRkMzcwOWEyYjRjNDc1NzcxYzIz",
   "tracks": [
     {
       "added_at": null,
@@ -355,8 +355,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spirit Desire",
-        "url": "https://open.spotify.com/album/2BS5nxXE6hjWQRplpfxrib"
+        "name": "Charmer",
+        "url": "https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI"
       },
       "artists": [
         {
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 98213,
-      "name": "Meet at the Corner",
-      "url": "https://open.spotify.com/track/2dEhFo7bGnpxExq03Lh66P"
+      "duration_ms": 160213,
+      "name": "Cool",
+      "url": "https://open.spotify.com/track/3WcRJUHkVzgkXkqyz344Dm"
     },
     {
       "added_at": null,
@@ -403,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Charmer",
-        "url": "https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI"
+        "name": "Spirit Desire",
+        "url": "https://open.spotify.com/album/2BS5nxXE6hjWQRplpfxrib"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 160213,
-      "name": "Cool",
-      "url": "https://open.spotify.com/track/3WcRJUHkVzgkXkqyz344Dm"
+      "duration_ms": 98213,
+      "name": "Meet at the Corner",
+      "url": "https://open.spotify.com/track/2dEhFo7bGnpxExq03Lh66P"
     },
     {
       "added_at": null,
@@ -676,7 +676,7 @@
       "added_at": null,
       "album": {
         "name": "Two Worlds",
-        "url": "https://open.spotify.com/album/7ogk8xz4DoKUcVOT3KbbwP"
+        "url": "https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn"
       },
       "artists": [
         {
@@ -684,25 +684,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 112946,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/3T634xUoZHDer4u5nZCzfe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Sidekicks/Tigers Jaw Split",
-        "url": "https://open.spotify.com/album/41AdVMruSzbCC6sFr4U9gV"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 161560,
-      "name": "Jimmy Piersall",
-      "url": "https://open.spotify.com/track/3q7nHa859vyl6zYjvM02Be"
+      "duration_ms": 148733,
+      "name": "Two Worlds",
+      "url": "https://open.spotify.com/track/36Xh8ttDu0NOUvTQ4KhjpT"
     },
     {
       "added_at": null,
@@ -724,7 +708,7 @@
       "added_at": null,
       "album": {
         "name": "Two Worlds",
-        "url": "https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn"
+        "url": "https://open.spotify.com/album/7ogk8xz4DoKUcVOT3KbbwP"
       },
       "artists": [
         {
@@ -732,9 +716,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 148733,
-      "name": "Two Worlds",
-      "url": "https://open.spotify.com/track/36Xh8ttDu0NOUvTQ4KhjpT"
+      "duration_ms": 112946,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/3T634xUoZHDer4u5nZCzfe"
     },
     {
       "added_at": null,

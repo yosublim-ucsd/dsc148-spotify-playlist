@@ -290,7 +290,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 148000,
       "name": "BAD GIRL",
       "url": "https://open.spotify.com/track/4VfxJjUTMst0kYsQkN3S54"
@@ -410,6 +410,32 @@
       "duration_ms": 151578,
       "name": "BIG BANDZ",
       "url": "https://open.spotify.com/track/5QYc0tl5ZAz8I7lMmlCuYJ"
+    },
+    {
+      "album": {
+        "name": "Birken",
+        "url": "https://open.spotify.com/album/6QtYBxelHBopL9DwsJYX9v"
+      },
+      "artists": [
+        {
+          "name": "M4",
+          "url": "https://open.spotify.com/artist/0bqmtof2t8iOEZxZXeqSib"
+        },
+        {
+          "name": "Dio Mudara",
+          "url": "https://open.spotify.com/artist/44dtVuy3JdjkJ0PqVh4nKy"
+        },
+        {
+          "name": "Arif Murakami",
+          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
+        }
+      ],
+      "date_added": "2024-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Birken",
+      "url": "https://open.spotify.com/track/481nGipeRBS6wgMO6sMnfI"
     },
     {
       "album": {
@@ -552,7 +578,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 133130,
       "name": "Boys I D Bl\u00e5",
       "url": "https://open.spotify.com/track/6qnfvfy3dte9Hk5sJRLILN"
@@ -1796,7 +1822,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-28",
+      "date_removed": null,
       "duration_ms": 164812,
       "name": "Leve",
       "url": "https://open.spotify.com/track/4Md2DqRJUozRDBnEdDLdz9"

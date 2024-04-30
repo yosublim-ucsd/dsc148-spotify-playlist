@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 
 > 
 
-[Ryan Gards](https://open.spotify.com/user/1230953186) - 40 likes - 779 songs - 2 day 12 hr 59 min
+[Ryan Gards](https://open.spotify.com/user/1230953186) - 40 likes - 781 songs - 2 day 13 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -787,5 +787,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 | 777 | [All You Want Is More](https://open.spotify.com/track/0o7d1jmkZlwWGwsKQAhlLI) | [Sheila Chandra](https://open.spotify.com/artist/7eYoqLpLD211aYrxb64AzN) | [Out On My Own](https://open.spotify.com/album/5QsrculEaYllEV6y7UGfWb) | 4:18 |
 | 778 | [San Salvador](https://open.spotify.com/track/7qwX54OM0eAWxFD2pYWejF) | [Azoto](https://open.spotify.com/artist/6vjdSVEAtbHLzrVbyLeGVn) | [Disco Fizz](https://open.spotify.com/album/5ZF3fxPCV4jl77lv2F41Nz) | 6:56 |
 | 779 | [Pangua zô pile moin](https://open.spotify.com/track/2tFqiHFTItjvh2Ot71hdVQ) | [Fred Aucagos](https://open.spotify.com/artist/4vP4uEiX0sunTFcokup8ks) | [Beach Diggin', Vol\. 3](https://open.spotify.com/album/7mHNiS5p3EwV4iOzcLj9PU) | 3:41 |
+| 780 | [Quelle Drôle De Vie \(Remix\)](https://open.spotify.com/track/0jqNCUw1eDTtCJO8ckCCE2) | [Leo Basel](https://open.spotify.com/artist/22z7h9kTVlxhAv83bX23lR), [Marc Bellaiche](https://open.spotify.com/artist/5h24N20GMbAxwpO7gxUnyQ) | [Quelle Drôle De Vie](https://open.spotify.com/album/6JqS4XWZRI3jmzZavSJFW8) | 6:37 |
+| 781 | [Uurkan Kaadonaya \(I Want You\)](https://open.spotify.com/track/5dbE70S212LvwKxYvvRicF) | [Groupe RTD](https://open.spotify.com/artist/1pVWzEPoVWeAG98sfUyBsm) | [The Dancing Devils of Djibouti](https://open.spotify.com/album/4KwTC2RgaJoBSvmYauNaqg) | 6:48 |
 
-Snapshot ID: `ODcyLDdhNDRiODI0MDgzZGZiNmZlNzcyMDc0YTMxNDYzNmY4ZGY0YzNmZGI=`
+Snapshot ID: `ODc0LGQ4NzdiMTg5MDFjNmE2ZWQ0ZWJjN2NkMGRhZTFlYmYwMjFjNGE5NjY=`

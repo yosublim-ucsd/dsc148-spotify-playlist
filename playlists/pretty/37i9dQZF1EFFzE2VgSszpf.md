@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFzE2VgSszpf.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7IpfIGtcw2TKQNK7jYRhp5">Kadhja Bonet</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 671 likes - 46 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 672 likes - 46 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFzE2VgSszpf.md) - [plain]
 | 18 | [This Love](https://open.spotify.com/track/0UPy6jay9WQ2HSOiYq7nJy) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [This Love](https://open.spotify.com/album/1RTXynjOAFfVG00e1L1a1z) | 2:44 |
 | 19 | [Black Magic \(Make It Better\)](https://open.spotify.com/track/19Dqy71XekURex0XMKvfR8) | [Little Brother](https://open.spotify.com/artist/0s9MrSopEoAn8JqwBipgdO) | [May the Lord Watch](https://open.spotify.com/album/5uyW47qYkSkjoh6WT6I89k) | 2:33 |
 | 20 | [Nobody Other](https://open.spotify.com/track/4Sqkfwcm0HsUMlmmmZYTim) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [The Visitor](https://open.spotify.com/album/4V9BgSnwEMP5yRnZE5flSP) | 3:18 |
-| 21 | [Second Wind](https://open.spotify.com/track/70j5IpLhG6klLJtTpYXUss) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Childqueen](https://open.spotify.com/album/1rUI6iwxz81yEgS7POrqlO) | 4:08 |
-| 22 | [Joy](https://open.spotify.com/track/5kK4NGiSPo3S2azAeStKF8) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Childqueen](https://open.spotify.com/album/1rUI6iwxz81yEgS7POrqlO) | 4:07 |
+| 21 | [Joy](https://open.spotify.com/track/5kK4NGiSPo3S2azAeStKF8) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Childqueen](https://open.spotify.com/album/1rUI6iwxz81yEgS7POrqlO) | 4:07 |
+| 22 | [Second Wind](https://open.spotify.com/track/70j5IpLhG6klLJtTpYXUss) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Childqueen](https://open.spotify.com/album/1rUI6iwxz81yEgS7POrqlO) | 4:08 |
 | 23 | [NOTHING TO ME](https://open.spotify.com/track/06lMiszDlc039Ti5XRV590) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [OASIS](https://open.spotify.com/album/6e74y0B8zXO3CEtVVFihd8) | 4:25 |
 | 24 | [Another Time Lover](https://open.spotify.com/track/4nKdilQJL8BcWZXGJZzm7G) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Childqueen](https://open.spotify.com/album/1rUI6iwxz81yEgS7POrqlO) | 3:38 |
 | 25 | [Dear Gina](https://open.spotify.com/track/3GoL5HaRpCMpVrJhP1akfh) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Dear Gina](https://open.spotify.com/album/5eCcHgXBq66ckMzetu0VfJ) | 3:12 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFzE2VgSszpf.md) - [plain]
 | 42 | [Outer Body](https://open.spotify.com/track/7s116fYbWa8JjEoi6jxaZQ) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Luv N Chaos](https://open.spotify.com/album/0H28jSSR9L1HMmvk47xtXg) | 2:02 |
 | 43 | [Wake](https://open.spotify.com/track/3YujvmwqVRN7JDZbEXiOji) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Childqueen Outtakes](https://open.spotify.com/album/5DBp30tDVgskvi4q1ykiGp) | 5:14 |
 | 44 | [California Holiday](https://open.spotify.com/track/5DHefQvcjfmg7ZYtgCW0Lf) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [California Holiday](https://open.spotify.com/album/6wN9cmfRgd4drnRvhuKRTT) | 4:40 |
-| 45 | [Zombie](https://open.spotify.com/track/7LE0A2BjH23iXlBVXzBNuU) | [Saint Bodhi](https://open.spotify.com/artist/6X7nWsfLVq8lo1qePztyu5) | [Mad World](https://open.spotify.com/album/55xeus9CHAn0fy4Jo6Xs2v) | 3:01 |
-| 46 | [What I Need \(feat\. 42 Dugg\)](https://open.spotify.com/track/0DcmLRFLuYGpADgpS6Vjnz) | [James Tonic](https://open.spotify.com/artist/7eDGkEF3YrLdMyc2dSrW3z), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [What I Need \(feat\. 42 Dugg\)](https://open.spotify.com/album/1WOzaAOirESxvAqPHwzBFn) | 3:01 |
+| 45 | [What I Need \(feat\. 42 Dugg\)](https://open.spotify.com/track/0DcmLRFLuYGpADgpS6Vjnz) | [James Tonic](https://open.spotify.com/artist/7eDGkEF3YrLdMyc2dSrW3z), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [What I Need \(feat\. 42 Dugg\)](https://open.spotify.com/album/1WOzaAOirESxvAqPHwzBFn) | 3:01 |
+| 46 | [Zombie](https://open.spotify.com/track/7LE0A2BjH23iXlBVXzBNuU) | [Saint Bodhi](https://open.spotify.com/artist/6X7nWsfLVq8lo1qePztyu5) | [Mad World](https://open.spotify.com/album/55xeus9CHAn0fy4Jo6Xs2v) | 3:01 |
 
-Snapshot ID: `Mjg1NzI3MzAsMDAwMDAwMDBhMDlhYmZiN2QxYWNlYTM2OGVhZWNkMGQ5NWQ1OTRkNQ==`
+Snapshot ID: `Mjg1NzQxMTAsMDAwMDAwMDA2MTg0OGZiNTNhNGNiYjcwMGM3OGUyOTQ5ZmM0ZDMzNg==`

@@ -2,7 +2,7 @@
 
 ### [This Is Inspector](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2P0QCc)
 
-> This is Inspector\. The essential tracks, all in one playlist.
+> This Is Inspector\. Sus mejores éxitos, todos en una playlist.
 
 75 songs - 4 hr 35 min
 

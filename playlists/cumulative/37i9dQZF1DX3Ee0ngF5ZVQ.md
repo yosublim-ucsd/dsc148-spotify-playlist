@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Josh Abbott Band
 
-614 songs - 1 day 12 hr 34 min
+615 songs - 1 day 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,7 +392,7 @@
 | [Outta Dirt](https://open.spotify.com/track/0iUAgtPIBPFzAXqdy9sDb5) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky), [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [Outta Dirt](https://open.spotify.com/album/16CEupIepvrJlX6ay6NM9n) | 2:44 | 2023-09-01 | 2024-01-05 |
 | [Outta the Country](https://open.spotify.com/track/7K4yuNVRCq5sAzXvAwwFdN) | [Cian Pedersen](https://open.spotify.com/artist/55iTDt1OrQMIHMNKHUPAaQ) | [Outta the Country](https://open.spotify.com/album/7l1wjpNRumuHLvNrIMdzQ6) | 3:12 | 2022-05-27 | 2022-07-09 |
 | [Over](https://open.spotify.com/track/1VbOWB3O8M0shS5fcMhlU8) | [The Droptines](https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc) | [The Droptines](https://open.spotify.com/album/6MA3iRkOZWHzGKsnoozibl) | 3:02 | 2024-02-02 | 2024-02-24 |
-| [Pancho and Lefty](https://open.spotify.com/track/6j3GYmozEYsyunxO0RH2Wg) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ), [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Pancho and Lefty](https://open.spotify.com/album/6Pv3AMeGAbaucnS8aeatwX) | 5:09 | 2023-08-18 |  |
+| [Pancho and Lefty](https://open.spotify.com/track/6j3GYmozEYsyunxO0RH2Wg) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ), [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Pancho and Lefty](https://open.spotify.com/album/6Pv3AMeGAbaucnS8aeatwX) | 5:09 | 2023-08-18 | 2024-04-30 |
 | [Peace and Quiet](https://open.spotify.com/track/5gyC7qx0Cc6SF98AmchcoT) | [Drew Kennedy](https://open.spotify.com/artist/6nxLsUCzEsyK6B4nIqZFmT) | [Peace and Quiet](https://open.spotify.com/album/6SiiVm6Fp8U8onjRUtR2mT) | 3:50 | 2022-05-20 | 2022-07-09 |
 | [Pedal Steel](https://open.spotify.com/track/6cwZuax4oVUxdOMudUo2dQ) | [Amanda Kate Ferris](https://open.spotify.com/artist/70fLCgRxbluMfGRaiWAr49) | [Pedal Steel](https://open.spotify.com/album/3C2sVGBUwQKqRlY6QCC7Rs) | 3:40 | 2023-03-10 | 2023-07-01 |
 | [People Who Care](https://open.spotify.com/track/1SMZouFRcuhqr9ugQXBn6W) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [People Who Care](https://open.spotify.com/album/2hP994b52nHVX3RCHYiuAV) | 3:41 | 2022-09-16 | 2022-10-11 |
@@ -453,7 +453,7 @@
 | [Shot from the Heart](https://open.spotify.com/track/3uvw2lZIL6tuaCQWUP2Syp) | [Bart Crow](https://open.spotify.com/artist/0Vdv0pEg0SwdqoEbpP3MJ1) | [Shot from the Heart](https://open.spotify.com/album/5EUxYBJyHStLsVJMRipLX8) | 3:03 | 2022-10-01 | 2023-01-06 |
 | [Shuffle](https://open.spotify.com/track/7dqCwV8GYfRrJzQO1hdBRE) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [Laci Kaye Booth](https://open.spotify.com/album/0K9vrVf1zQTQJN5iU8wF79) | 3:12 | 2021-12-17 | 2023-02-02 |
 | [Sick and Tired](https://open.spotify.com/track/2w4KilW4FZQeIyH33R2KxW) | [Ben Burgess](https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa) | [Tears the Size of Texas](https://open.spotify.com/album/34cv4GGLrJbYA2u6di1Pok) | 4:28 | 2022-10-01 | 2023-01-25 |
-| [Side of Goodbye](https://open.spotify.com/track/4qgbOxYNnvahjjZra6TSt7) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [Story About a Girl + Side of Goodbye](https://open.spotify.com/album/0d814l2UheeEDCTZSE5Rqr) | 2:30 | 2024-02-02 | 2024-03-06 |
+| [Side of Goodbye](https://open.spotify.com/track/4qgbOxYNnvahjjZra6TSt7) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [Story About a Girl + Side of Goodbye](https://open.spotify.com/album/0d814l2UheeEDCTZSE5Rqr) | 2:30 | 2024-02-02 |  |
 | [Singer's Blues \- Live](https://open.spotify.com/track/30ehnjO6uAZrGz11SYGsi2) | [Cash Byers & Big Valley](https://open.spotify.com/artist/5f8NDIzQmtTHDYJgaUYYVE) | [Singer's Blues \(Live\)](https://open.spotify.com/album/6iyWt1cm2l4ehHcotR5qro) | 3:09 | 2021-12-17 | 2022-07-09 |
 | [Six Pack State of Mind](https://open.spotify.com/track/6ZkE2BsDMMVLUDOH8PiEzD) | [Grant Gilbert](https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919), [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [Six Pack State of Mind](https://open.spotify.com/album/5E7LKhxVSK9M532Q8azOOy) | 3:10 | 2023-02-24 | 2023-06-03 |
 | [Sleep, My Mind & You](https://open.spotify.com/track/4Nhb792SN9kzi0DXBXvYyH) | [Palmer Anthony](https://open.spotify.com/artist/412iPDYOYPA2pcGgdlLh5s) | [Sleep, My Mind & You](https://open.spotify.com/album/1SrKXUODqMJXw0GxlKQKrV) | 3:56 | 2023-02-01 | 2023-02-21 |
@@ -470,7 +470,7 @@
 | [Southern Land](https://open.spotify.com/track/1gw7UEQMT2kM1H1zOSV4MJ) | [Trent Willmon](https://open.spotify.com/artist/42mKjKqNCSgHbxaBFcotDi) | [Southern Land](https://open.spotify.com/album/1mS6CmS6mZbQyM1orsTb2M) | 4:03 | 2023-01-20 | 2023-06-03 |
 | [Speed](https://open.spotify.com/track/60BoWg2kyax4s2Pyjgaqsi) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Speed](https://open.spotify.com/album/2hdi5HXVz9vF7b7gUXJ3E4) | 4:30 | 2023-03-10 | 2023-09-02 |
 | [Spinnin'](https://open.spotify.com/track/0k1MIumc7GxFeiQsKgRBys) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Wandering Star](https://open.spotify.com/album/5OClY7oERkbh7dckrDsWab) | 4:13 | 2023-10-27 |  |
-| [Start over Somewhere](https://open.spotify.com/track/7kdic1HVv2OjJH8dYpNdRP) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [Start over Somewhere](https://open.spotify.com/album/06ZzHXrAtmH0Jhfptoz1Zc) | 4:06 | 2024-03-01 |  |
+| [Start over Somewhere](https://open.spotify.com/track/7kdic1HVv2OjJH8dYpNdRP) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [Start over Somewhere](https://open.spotify.com/album/06ZzHXrAtmH0Jhfptoz1Zc) | 4:06 | 2024-03-01 | 2024-04-30 |
 | [Starts in a Bar](https://open.spotify.com/track/5Qpq6TsAObkMLfB7q1z4Qc) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Built Different](https://open.spotify.com/album/5GfNph4mi2Ira5Sm7jrwqZ) | 2:59 | 2023-09-01 |  |
 | [State You Left Me In](https://open.spotify.com/track/4wU7mkrYRl8FJe0zsDhS2W) | [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp) | [State You Left Me In](https://open.spotify.com/album/3FWfYCQli8A63gkKDs0wNd) | 5:25 | 2023-03-17 |  |
 | [Stay](https://open.spotify.com/track/37s7g1BDBh9n8dSF2iWBNd) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Stay](https://open.spotify.com/album/4j8zbgOMEK1MdNCMfZFBhg) | 3:24 | 2024-01-19 |  |
@@ -577,6 +577,7 @@
 | [West Texas Weather](https://open.spotify.com/track/1eXFUXzL0maY3l9frWfnhE) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [West Texas Weather](https://open.spotify.com/album/1tUtPFJsbs48xPkgfjsWsP) | 3:07 | 2023-02-24 | 2023-10-20 |
 | [West Texas Weather](https://open.spotify.com/track/4SKO7VBkJOwyfLNzYC8CkB) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Pretty Little Poison](https://open.spotify.com/album/2s7CBSj6aKbWmkfBU8eEsg) | 3:09 | 2023-10-13 | 2024-04-19 |
 | [Western Tears](https://open.spotify.com/track/5in7jYPcrDH7vXB0C9vffq) | [Jarrod Morris](https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R) | [Western Tears](https://open.spotify.com/album/1hzYDPwjgMn6hVrCiUNGiK) | 4:08 | 2022-03-25 | 2022-11-12 |
+| [What a Cowboy Was](https://open.spotify.com/track/3hb6cKDEdu8Infy82t8c6f) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [What a Cowboy Was](https://open.spotify.com/album/07tS2uEXGB7DYVrjGN4Mc8) | 4:28 | 2024-04-26 |  |
 | [what else can she do](https://open.spotify.com/track/77fOA740BCuAkclGxQUuEP) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [What Else Can She Do](https://open.spotify.com/album/7F9RFUFFz7QLcLfTxgpzmX) | 5:10 | 2022-04-15 | 2022-08-20 |
 | [What Were You Thinking](https://open.spotify.com/track/1n7jCBudgQ49dz1eELQjoc) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [What Were You Thinking](https://open.spotify.com/album/4YudDYjGcci2sS7avHGVDJ) | 3:05 | 2023-10-20 | 2024-01-11 |
 | [What's Your Drinkin' Song](https://open.spotify.com/track/3oxNPAlVwXNOCHEEvntITl) | [Kyle Park](https://open.spotify.com/artist/5uZZpd0gd1c36OcQBGxgGC) | [What's Your Drinkin' Song](https://open.spotify.com/album/2FKfzCrl5q6vskYTUHqY9Q) | 3:45 | 2021-12-17 | 2023-02-18 |

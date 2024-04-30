@@ -1,6 +1,6 @@
 {
   "description": "Whether you're cooking or pottering about, here's an all-day soundtrack to enjoy in the comfort of your own home.",
-  "num_followers": 41807,
+  "num_followers": 41811,
   "original_name": "Your Kitchen Stereo",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,22 @@
     {
       "added_at": "2024-04-26 15:43:07",
       "album": {
+        "name": "I've Tried Everything But Therapy (Part 1.5)",
+        "url": "https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 192317,
+      "name": "Hammer to the Heart",
+      "url": "https://open.spotify.com/track/0IdwfnHFfyb7zc7GFs75QQ"
+    },
+    {
+      "added_at": "2024-04-26 15:43:07",
+      "album": {
         "name": "HERicane",
         "url": "https://open.spotify.com/album/4YQ8O3PQb7cZnnLeqNPaa1"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 227368,
       "name": "HERicane",
       "url": "https://open.spotify.com/track/64fITmtln0OJqcxPf09vnY"
-    },
-    {
-      "added_at": "2024-04-26 15:43:07",
-      "album": {
-        "name": "In The Dark",
-        "url": "https://open.spotify.com/album/6FuHnw9KkeYH6TSJaNOlto"
-      },
-      "artists": [
-        {
-          "name": "Toots & The Maytals",
-          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
-        }
-      ],
-      "duration_ms": 204026,
-      "name": "54-46 Was My Number",
-      "url": "https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe"
     },
     {
       "added_at": "2024-04-26 15:43:07",
@@ -403,18 +403,18 @@
     {
       "added_at": "2024-04-26 15:43:07",
       "album": {
-        "name": "I've Tried Everything But Therapy (Part 1.5)",
-        "url": "https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH"
+        "name": "In The Dark",
+        "url": "https://open.spotify.com/album/6FuHnw9KkeYH6TSJaNOlto"
       },
       "artists": [
         {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "Toots & The Maytals",
+          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
         }
       ],
-      "duration_ms": 192317,
-      "name": "Hammer to the Heart",
-      "url": "https://open.spotify.com/track/0IdwfnHFfyb7zc7GFs75QQ"
+      "duration_ms": 204026,
+      "name": "54-46 Was My Number",
+      "url": "https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe"
     },
     {
       "added_at": "2024-04-26 15:43:07",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-04-26 15:43:07",
       "album": {
-        "name": "let go of me slowly",
-        "url": "https://open.spotify.com/album/4lbmpXfOb9FxBMxap9AQ0T"
-      },
-      "artists": [
-        {
-          "name": "Sekou",
-          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
-        }
-      ],
-      "duration_ms": 207348,
-      "name": "let go of me slowly",
-      "url": "https://open.spotify.com/track/5X0QI12MERu54ghfLYF76f"
-    },
-    {
-      "added_at": "2024-04-26 15:43:07",
-      "album": {
         "name": "New Magic",
         "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 395373,
       "name": "I Got The... - 2006 Remaster",
       "url": "https://open.spotify.com/track/20VuO95A8RxUPlShnfYArW"
+    },
+    {
+      "added_at": "2024-04-26 15:43:07",
+      "album": {
+        "name": "let go of me slowly",
+        "url": "https://open.spotify.com/album/4lbmpXfOb9FxBMxap9AQ0T"
+      },
+      "artists": [
+        {
+          "name": "Sekou",
+          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
+        }
+      ],
+      "duration_ms": 207348,
+      "name": "let go of me slowly",
+      "url": "https://open.spotify.com/track/5X0QI12MERu54ghfLYF76f"
     },
     {
       "added_at": "2024-04-26 15:43:07",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-04-26 15:43:07",
       "album": {
-        "name": "Foreigner",
-        "url": "https://open.spotify.com/album/7BACBsD9qvKUGXs6Pkyz5r"
-      },
-      "artists": [
-        {
-          "name": "Jordan Mackampa",
-          "url": "https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST"
-        }
-      ],
-      "duration_ms": 249926,
-      "name": "What Am I",
-      "url": "https://open.spotify.com/track/35Cy7sWZPmCyPL1wsNyOO6"
-    },
-    {
-      "added_at": "2024-04-26 15:43:07",
-      "album": {
         "name": "Kissing In the Cold",
         "url": "https://open.spotify.com/album/1FxQgKsnvnA1zdrwaXmyPA"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 234853,
       "name": "Kissing In the Cold",
       "url": "https://open.spotify.com/track/1hCo51EshXlxroXjvczKgB"
+    },
+    {
+      "added_at": "2024-04-26 15:43:07",
+      "album": {
+        "name": "Foreigner",
+        "url": "https://open.spotify.com/album/7BACBsD9qvKUGXs6Pkyz5r"
+      },
+      "artists": [
+        {
+          "name": "Jordan Mackampa",
+          "url": "https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST"
+        }
+      ],
+      "duration_ms": 249926,
+      "name": "What Am I",
+      "url": "https://open.spotify.com/track/35Cy7sWZPmCyPL1wsNyOO6"
     },
     {
       "added_at": "2024-04-26 15:43:07",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-04-26 15:43:07",
       "album": {
-        "name": "Gonna Be Okay",
-        "url": "https://open.spotify.com/album/6GC3ZIeCB96n7UCRoaqK66"
-      },
-      "artists": [
-        {
-          "name": "JERUB",
-          "url": "https://open.spotify.com/artist/2eG0Kf7mNIbn0SMiA2LjBd"
-        }
-      ],
-      "duration_ms": 202170,
-      "name": "Gonna Be Okay",
-      "url": "https://open.spotify.com/track/3fxawBiMArwkgB7pljKAw4"
-    },
-    {
-      "added_at": "2024-04-26 15:43:07",
-      "album": {
         "name": "It\u2019s Been A Week",
         "url": "https://open.spotify.com/album/72cu7PDY50JqN8UY0VBdgW"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 179857,
       "name": "It's Been A Week",
       "url": "https://open.spotify.com/track/7ubDr5F9DWHYZjFX42jHnp"
+    },
+    {
+      "added_at": "2024-04-26 15:43:07",
+      "album": {
+        "name": "Gonna Be Okay",
+        "url": "https://open.spotify.com/album/6GC3ZIeCB96n7UCRoaqK66"
+      },
+      "artists": [
+        {
+          "name": "JERUB",
+          "url": "https://open.spotify.com/artist/2eG0Kf7mNIbn0SMiA2LjBd"
+        }
+      ],
+      "duration_ms": 202170,
+      "name": "Gonna Be Okay",
+      "url": "https://open.spotify.com/track/3fxawBiMArwkgB7pljKAw4"
     },
     {
       "added_at": "2024-04-26 15:43:07",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-04-26 15:43:07",
       "album": {
-        "name": "over",
-        "url": "https://open.spotify.com/album/1CcqKVf3Vf6sD2d9PA9pWj"
-      },
-      "artists": [
-        {
-          "name": "SOLOMON",
-          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
-        }
-      ],
-      "duration_ms": 133300,
-      "name": "over",
-      "url": "https://open.spotify.com/track/0Z5hhHje7VPBAkiqgBKdUp"
-    },
-    {
-      "added_at": "2024-04-26 15:43:07",
-      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/5rRtE3wuqsxxGp5CsujWXw"
       },
@@ -1195,18 +1179,18 @@
     {
       "added_at": "2024-04-26 15:43:07",
       "album": {
-        "name": "Sitting Pretty EP",
-        "url": "https://open.spotify.com/album/6KttlTVbiEPCOdUIEznLq5"
+        "name": "over",
+        "url": "https://open.spotify.com/album/1CcqKVf3Vf6sD2d9PA9pWj"
       },
       "artists": [
         {
-          "name": "Alfie Jukes",
-          "url": "https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9"
+          "name": "SOLOMON",
+          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
         }
       ],
-      "duration_ms": 205172,
-      "name": "The Shade",
-      "url": "https://open.spotify.com/track/56k85b4i4XlccTAndrvE72"
+      "duration_ms": 133300,
+      "name": "over",
+      "url": "https://open.spotify.com/track/0Z5hhHje7VPBAkiqgBKdUp"
     },
     {
       "added_at": "2024-04-26 15:43:07",
@@ -1223,6 +1207,22 @@
       "duration_ms": 170453,
       "name": "Blame",
       "url": "https://open.spotify.com/track/27dM3Oji0ytPXDYGVwDoJj"
+    },
+    {
+      "added_at": "2024-04-26 15:43:07",
+      "album": {
+        "name": "Sitting Pretty EP",
+        "url": "https://open.spotify.com/album/6KttlTVbiEPCOdUIEznLq5"
+      },
+      "artists": [
+        {
+          "name": "Alfie Jukes",
+          "url": "https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9"
+        }
+      ],
+      "duration_ms": 205172,
+      "name": "The Shade",
+      "url": "https://open.spotify.com/track/56k85b4i4XlccTAndrvE72"
     },
     {
       "added_at": "2024-04-26 15:43:07",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-04-26 15:43:07",
       "album": {
-        "name": "So Sick Of Dreaming",
-        "url": "https://open.spotify.com/album/2NzJnMiQdUlxjNP4lxOMEk"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 232080,
-      "name": "So Sick Of Dreaming",
-      "url": "https://open.spotify.com/track/0JIdzqE6KollCBswa5HpIP"
-    },
-    {
-      "added_at": "2024-04-26 15:43:07",
-      "album": {
         "name": "Nothing To Lose",
         "url": "https://open.spotify.com/album/51Ejpf2T7D8fjeQuL45tf4"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 195887,
       "name": "Safe House",
       "url": "https://open.spotify.com/track/2esSObQC6pfnta4C6Crjbu"
+    },
+    {
+      "added_at": "2024-04-26 15:43:07",
+      "album": {
+        "name": "So Sick Of Dreaming",
+        "url": "https://open.spotify.com/album/2NzJnMiQdUlxjNP4lxOMEk"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 232080,
+      "name": "So Sick Of Dreaming",
+      "url": "https://open.spotify.com/track/0JIdzqE6KollCBswa5HpIP"
     },
     {
       "added_at": "2024-04-26 15:43:07",
@@ -1443,38 +1443,6 @@
     {
       "added_at": "2024-04-26 15:43:07",
       "album": {
-        "name": "Burning Up",
-        "url": "https://open.spotify.com/album/2O7lCJJPHzaX5yUh9ccOvx"
-      },
-      "artists": [
-        {
-          "name": "LAUREL",
-          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
-        }
-      ],
-      "duration_ms": 194333,
-      "name": "Burning Up",
-      "url": "https://open.spotify.com/track/2rzqGu37uhvlItBepRgHpK"
-    },
-    {
-      "added_at": "2024-04-26 15:43:07",
-      "album": {
-        "name": "fly on the wall",
-        "url": "https://open.spotify.com/album/4jC4BPvbaCQJ9jyCuINv3U"
-      },
-      "artists": [
-        {
-          "name": "TYLER LEWIS",
-          "url": "https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p"
-        }
-      ],
-      "duration_ms": 151828,
-      "name": "fly on the wall",
-      "url": "https://open.spotify.com/track/6Mw4UN9tEiXkIYaVSVIpqb"
-    },
-    {
-      "added_at": "2024-04-26 15:43:07",
-      "album": {
         "name": "The Hardest Part",
         "url": "https://open.spotify.com/album/2deMeM43Oj3TFZjvpHwxUI"
       },
@@ -1495,6 +1463,38 @@
     {
       "added_at": "2024-04-26 15:43:07",
       "album": {
+        "name": "fly on the wall",
+        "url": "https://open.spotify.com/album/4jC4BPvbaCQJ9jyCuINv3U"
+      },
+      "artists": [
+        {
+          "name": "TYLER LEWIS",
+          "url": "https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p"
+        }
+      ],
+      "duration_ms": 151828,
+      "name": "fly on the wall",
+      "url": "https://open.spotify.com/track/6Mw4UN9tEiXkIYaVSVIpqb"
+    },
+    {
+      "added_at": "2024-04-26 15:43:07",
+      "album": {
+        "name": "Burning Up",
+        "url": "https://open.spotify.com/album/2O7lCJJPHzaX5yUh9ccOvx"
+      },
+      "artists": [
+        {
+          "name": "LAUREL",
+          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
+        }
+      ],
+      "duration_ms": 194333,
+      "name": "Burning Up",
+      "url": "https://open.spotify.com/track/2rzqGu37uhvlItBepRgHpK"
+    },
+    {
+      "added_at": "2024-04-26 15:43:07",
+      "album": {
         "name": "Glory",
         "url": "https://open.spotify.com/album/3t3J2sT9CL9iJGuBTfReFO"
       },
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-04-26 15:43:07",
       "album": {
-        "name": "Better Man",
-        "url": "https://open.spotify.com/album/2MQkhHQpZPSahzils2tLuF"
-      },
-      "artists": [
-        {
-          "name": "Ber",
-          "url": "https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x"
-        }
-      ],
-      "duration_ms": 205706,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/001ynVS4F9gJ4dKdvnzjMp"
-    },
-    {
-      "added_at": "2024-04-26 15:43:07",
-      "album": {
         "name": "Bad Company",
         "url": "https://open.spotify.com/album/3MlSmLLpAxtf1C9JMTy230"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 218680,
       "name": "Bad Company",
       "url": "https://open.spotify.com/track/7yPDR2EULpVBEiKq8Aqs7G"
+    },
+    {
+      "added_at": "2024-04-26 15:43:07",
+      "album": {
+        "name": "Better Man",
+        "url": "https://open.spotify.com/album/2MQkhHQpZPSahzils2tLuF"
+      },
+      "artists": [
+        {
+          "name": "Ber",
+          "url": "https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x"
+        }
+      ],
+      "duration_ms": 205706,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/001ynVS4F9gJ4dKdvnzjMp"
     },
     {
       "added_at": "2024-04-26 15:43:07",

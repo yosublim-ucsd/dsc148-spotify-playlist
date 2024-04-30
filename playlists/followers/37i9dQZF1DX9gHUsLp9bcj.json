@@ -1,5 +1,5 @@
 {
-  "2024-04-29": 30556,
+  "2024-04-30": 30577,
   "date_first_scraped": "2022-04-20",
   "description": "The Latin soundtrack of the 50s! Cover: Pedro Infante",
   "name": "Los 50s",
@@ -47,7 +47,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 174773,
       "name": "Agua Limpia Todo",
       "url": "https://open.spotify.com/track/5JnJ9IRO4lO4uCZvIT4CoN"
@@ -577,7 +577,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-25",
+      "date_removed": null,
       "duration_ms": 141626,
       "name": "Espinita",
       "url": "https://open.spotify.com/track/1rkaB2VH8rNrOTvXSeDW9x"

@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-650 songs - 1 day 18 hr 38 min
+652 songs - 1 day 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,6 +398,7 @@
 | [November](https://open.spotify.com/track/2OE3bxq85LrwyhQov9R8Vo) | [Rubblebucket](https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF) | [Rubblebucket](https://open.spotify.com/album/1NC7PSvb5XaF5P4gh9tyM5) | 5:28 | 2024-01-03 | 2024-01-05 |
 | [Obrigado](https://open.spotify.com/track/7r9HZwjUZezpQpW4ToiEFL) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [Bandana](https://open.spotify.com/album/31KbO7WnDp2AjPdmRTJzdf) | 0:29 | 2022-09-13 |  |
 | [Old Familiar Way](https://open.spotify.com/track/6TeYtUQbGmNr4EKe0o9sTG) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [The Gay Parade](https://open.spotify.com/album/2GYkvUhakNvHmI3L6tzKbd) | 2:25 | 2022-07-13 |  |
+| [Old Friends](https://open.spotify.com/track/66q3yNMEO2tOsiFny1IPQW) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Cardinal](https://open.spotify.com/album/2SmrUzUMMOYQqoPuOhlhjw) | 3:27 | 2024-04-29 |  |
 | [Old Man](https://open.spotify.com/track/15xbkn7Layn9MhRTpFSdZP) | [Stella Donnelly](https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es) | [Beware of the Dogs](https://open.spotify.com/album/0E1M8jS13CQ4MibjrIqtpW) | 3:33 | 2023-12-03 | 2024-04-25 |
 | [On Glaze](https://open.spotify.com/track/1gy0GG6iGjD8EBAO3gvEft) | [Department Of Eagles](https://open.spotify.com/artist/0d2BmAcZ7p8vrtBPY48WMW) | [The Cold Nose](https://open.spotify.com/album/6Mdlj2C8YahbrF8KqHTM8d) | 1:51 | 2024-01-19 |  |
 | [On The Ground](https://open.spotify.com/track/23UUCJfCR7V19EszpVctmK) | [Rubblebucket](https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF) | [Survival Sounds](https://open.spotify.com/album/59ghXuWp5F2eqDovUHS0yB) | 3:38 | 2024-01-04 |  |
@@ -655,6 +656,7 @@
 | [You Know It's True](https://open.spotify.com/track/1RsK9pZTstZBOFdcDxrAyB) | [Spiritualized](https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv) | [Lazer Guided Melodies](https://open.spotify.com/album/0kfT6lwFmXyepSvoItP4sa) | 3:39 | 2022-09-13 |  |
 | [You Let My Tyres Down](https://open.spotify.com/track/4RXnTpeP4CvkbGtOx6sN3v) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [A Laughing Death in Meatspace](https://open.spotify.com/album/2Gbrm63qKXR2aaYEU80Rzs) | 5:41 | 2024-01-15 |  |
 | [You May Die \(Intro\)](https://open.spotify.com/track/5katW3JH8JM3jiEdrr2zuR) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [ATLiens](https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0) | 1:06 | 2023-11-17 |  |
+| [You Never Know](https://open.spotify.com/track/7alJbTUjMt8RWwonkin3uf) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Light Verse](https://open.spotify.com/album/0dZ4tHT2Ka2kScPqLK9x1Q) | 4:50 | 2024-04-29 |  |
 | [You Want It Darker](https://open.spotify.com/track/5zb7npjQqoJ7Kcpq4yD9qn) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [You Want It Darker](https://open.spotify.com/album/3jeTB3j3QmUs8SPIVleHtU) | 4:44 | 2024-01-18 |  |
 | [¿Cómo Así?](https://open.spotify.com/track/54KEm0VI9i3ic7VHHKHKRx) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 2:49 | 2024-01-29 |  |
 | [★](https://open.spotify.com/track/1Xb5UAKg5OdTHkg48FdQou) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Blackstar](https://open.spotify.com/album/0vxg8oJKDu3i0bXQu7vEpi) | 9:57 | 2024-01-18 |  |

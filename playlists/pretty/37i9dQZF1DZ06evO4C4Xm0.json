@@ -1,12 +1,12 @@
 {
   "description": "This is Brian Eno. The essential tracks, all in one playlist.",
-  "num_followers": 42031,
+  "num_followers": 42034,
   "original_name": "This Is Brian Eno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDE3NjAwMCwwMDAwMDAwMDc3M2E1YWFjOTQ3MThkZTdhZjk1MjVmODBiOTgxMWU2",
+  "snapshot_id": "MTcxNDI2MjQwMCwwMDAwMDAwMGZiYjNjYWJlMGNmODk0MTQxOGE5OTc1ZWRjNGY5Yjcy",
   "tracks": [
     {
       "added_at": null,
@@ -347,18 +347,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Before And After Science",
-        "url": "https://open.spotify.com/album/6lU1MDxi3TqhKnYNQm555u"
+        "name": "Get Real - Sounds Right Mix (feat. NATURE)",
+        "url": "https://open.spotify.com/album/2ndDnbSBOwQWuQcn8d2Ixm"
       },
       "artists": [
         {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        },
+        {
           "name": "Brian Eno",
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
         }
       ],
-      "duration_ms": 183493,
-      "name": "By This River - 2004 Digital Remaster",
-      "url": "https://open.spotify.com/track/13b87C9TNBFKJAi9YB4Rr8"
+      "duration_ms": 257273,
+      "name": "Get Real - Sounds Right Mix (feat. NATURE)",
+      "url": "https://open.spotify.com/track/0WzoCNIiEUEHi4IfVifu1Y"
     },
     {
       "added_at": null,
@@ -403,26 +411,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Real - Sounds Right Mix (feat. NATURE)",
-        "url": "https://open.spotify.com/album/2ndDnbSBOwQWuQcn8d2Ixm"
+        "name": "Before And After Science",
+        "url": "https://open.spotify.com/album/6lU1MDxi3TqhKnYNQm555u"
       },
       "artists": [
         {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        },
-        {
           "name": "Brian Eno",
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
         }
       ],
-      "duration_ms": 257273,
-      "name": "Get Real - Sounds Right Mix (feat. NATURE)",
-      "url": "https://open.spotify.com/track/0WzoCNIiEUEHi4IfVifu1Y"
+      "duration_ms": 183493,
+      "name": "By This River - 2004 Digital Remaster",
+      "url": "https://open.spotify.com/track/13b87C9TNBFKJAi9YB4Rr8"
     },
     {
       "added_at": null,

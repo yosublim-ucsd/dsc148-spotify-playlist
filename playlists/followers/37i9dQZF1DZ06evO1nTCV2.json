@@ -1,7 +1,7 @@
 {
-  "2024-04-29": 42885,
+  "2024-04-30": 42887,
   "date_first_scraped": "2022-01-12",
-  "description": "This Is Ryan Adams. Todas as faixas essenciais numa \u00fanica playlist.",
+  "description": "This is Ryan Adams. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Ryan Adams",
   "tracks": [
     {
@@ -989,7 +989,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 340666,
       "name": "English Girls Approximately",
       "url": "https://open.spotify.com/track/4z7UVZQQbF2QNT0jlyBLFg"
@@ -2717,7 +2717,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 221173,
       "name": "So Lost",
       "url": "https://open.spotify.com/track/3onoAfOvc9c2FrmvWb9shy"

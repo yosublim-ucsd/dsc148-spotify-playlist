@@ -1,12 +1,12 @@
 {
   "description": "music to get fly to ft. Zendaya ",
-  "num_followers": 524526,
+  "num_followers": 524445,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDI0MDAyMCwwMDAwMDAwMGM3MTZlNWFmNzFiZmU2YzUwZTQ4NjFjYTUxYzgwYzYy",
+  "snapshot_id": "MTcxNDQxMTAyNywwMDAwMDAwMGE0ZDkyYTdkYzM2MjFiZmYyNTJhN2VjMjBmYTVjMTQ5",
   "tracks": [
     {
       "added_at": "2024-04-27 17:47:00",
@@ -163,6 +163,22 @@
       "duration_ms": 369573,
       "name": "Roses",
       "url": "https://open.spotify.com/track/6bUNEbXT7HovLW6BgPCBsb"
+    },
+    {
+      "added_at": "2024-04-29 17:17:07",
+      "album": {
+        "name": "MILLION DOLLAR BABY",
+        "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 155151,
+      "name": "MILLION DOLLAR BABY",
+      "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
     },
     {
       "added_at": "2024-04-27 17:47:00",
@@ -411,6 +427,22 @@
     {
       "added_at": "2024-04-27 17:47:00",
       "album": {
+        "name": "Barter 6",
+        "url": "https://open.spotify.com/album/0BsMZIueWsJLWng8A7sE8e"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 230693,
+      "name": "Check",
+      "url": "https://open.spotify.com/track/1jk9c0gZI0wbn5GvAj7PBV"
+    },
+    {
+      "added_at": "2024-04-27 17:47:00",
+      "album": {
         "name": "Midnight Marauders",
         "url": "https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5"
       },
@@ -427,22 +459,6 @@
       "duration_ms": 226440,
       "name": "Award Tour (feat. Trugoy The Dove)",
       "url": "https://open.spotify.com/track/5YTM7OgQDt9EJAYcfHLniJ"
-    },
-    {
-      "added_at": "2024-04-27 17:47:00",
-      "album": {
-        "name": "Barter 6",
-        "url": "https://open.spotify.com/album/0BsMZIueWsJLWng8A7sE8e"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 230693,
-      "name": "Check",
-      "url": "https://open.spotify.com/track/1jk9c0gZI0wbn5GvAj7PBV"
     },
     {
       "added_at": "2024-04-27 17:47:00",
@@ -599,22 +615,6 @@
     {
       "added_at": "2024-04-27 17:47:00",
       "album": {
-        "name": "fantasize",
-        "url": "https://open.spotify.com/album/0QEZpylv3YWsleH9U0ijWE"
-      },
-      "artists": [
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 150612,
-      "name": "fantasize",
-      "url": "https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3"
-    },
-    {
-      "added_at": "2024-04-27 17:47:00",
-      "album": {
         "name": "Expansion Team",
         "url": "https://open.spotify.com/album/2cjb94ReCIDfak2sqzEcoB"
       },
@@ -627,6 +627,22 @@
       "duration_ms": 215973,
       "name": "Worst Comes To Worst - Edited",
       "url": "https://open.spotify.com/track/7aSnPAggMMgElb6BgXeSEw"
+    },
+    {
+      "added_at": "2024-04-27 17:47:00",
+      "album": {
+        "name": "fantasize",
+        "url": "https://open.spotify.com/album/0QEZpylv3YWsleH9U0ijWE"
+      },
+      "artists": [
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 150612,
+      "name": "fantasize",
+      "url": "https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3"
     },
     {
       "added_at": "2024-04-27 17:47:00",
@@ -691,22 +707,6 @@
     {
       "added_at": "2024-04-27 17:47:00",
       "album": {
-        "name": "Far Away",
-        "url": "https://open.spotify.com/album/1pxEdLxLLOV5SJWHHdoDXn"
-      },
-      "artists": [
-        {
-          "name": "Take Van",
-          "url": "https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj"
-        }
-      ],
-      "duration_ms": 104571,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/5a5q1sFcpMoPRk5fRGWq2W"
-    },
-    {
-      "added_at": "2024-04-27 17:47:00",
-      "album": {
         "name": "Hitler Wears Hermes 7",
         "url": "https://open.spotify.com/album/1aefUsOlozdtYI6ukHvrpp"
       },
@@ -719,6 +719,22 @@
       "duration_ms": 61440,
       "name": "Love U",
       "url": "https://open.spotify.com/track/1crT4b1YmKckWpK23mSnnO"
+    },
+    {
+      "added_at": "2024-04-27 17:47:00",
+      "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/1pxEdLxLLOV5SJWHHdoDXn"
+      },
+      "artists": [
+        {
+          "name": "Take Van",
+          "url": "https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj"
+        }
+      ],
+      "duration_ms": 104571,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/5a5q1sFcpMoPRk5fRGWq2W"
     },
     {
       "added_at": "2024-04-27 17:47:00",
@@ -803,6 +819,22 @@
     {
       "added_at": "2024-04-27 17:47:00",
       "album": {
+        "name": "VIRGINIA CREEPER",
+        "url": "https://open.spotify.com/album/4nVCzSg3wGOVSFSyKHBBgf"
+      },
+      "artists": [
+        {
+          "name": "greek",
+          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
+        }
+      ],
+      "duration_ms": 172307,
+      "name": "VIRGINIA CREEPER",
+      "url": "https://open.spotify.com/track/7GfNOvMCTRh2WR1n6gUt0A"
+    },
+    {
+      "added_at": "2024-04-27 17:47:00",
+      "album": {
         "name": "Janky Star",
         "url": "https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl"
       },
@@ -831,22 +863,6 @@
       "duration_ms": 240561,
       "name": "Flaunt It/Cheap",
       "url": "https://open.spotify.com/track/7bxegQfGfIc9ybrQafVtf8"
-    },
-    {
-      "added_at": "2024-04-27 17:47:00",
-      "album": {
-        "name": "VIRGINIA CREEPER",
-        "url": "https://open.spotify.com/album/4nVCzSg3wGOVSFSyKHBBgf"
-      },
-      "artists": [
-        {
-          "name": "greek",
-          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
-        }
-      ],
-      "duration_ms": 172307,
-      "name": "VIRGINIA CREEPER",
-      "url": "https://open.spotify.com/track/7GfNOvMCTRh2WR1n6gUt0A"
     },
     {
       "added_at": "2024-04-27 17:47:00",
@@ -907,6 +923,22 @@
     {
       "added_at": "2024-04-27 17:47:00",
       "album": {
+        "name": "EXTC",
+        "url": "https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1"
+      },
+      "artists": [
+        {
+          "name": "greek",
+          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
+        }
+      ],
+      "duration_ms": 235801,
+      "name": "hmu",
+      "url": "https://open.spotify.com/track/4fC8mW8ZFQanmSHq30mgWz"
+    },
+    {
+      "added_at": "2024-04-27 17:47:00",
+      "album": {
         "name": "Wildin'",
         "url": "https://open.spotify.com/album/7kSFfhqYkwCiBYzYm8o61i"
       },
@@ -951,22 +983,6 @@
       "duration_ms": 146186,
       "name": "easy going down",
       "url": "https://open.spotify.com/track/3aSKxB6ahFfhYydO6bU2QE"
-    },
-    {
-      "added_at": "2024-04-27 17:47:00",
-      "album": {
-        "name": "EXTC",
-        "url": "https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1"
-      },
-      "artists": [
-        {
-          "name": "greek",
-          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
-        }
-      ],
-      "duration_ms": 235801,
-      "name": "hmu",
-      "url": "https://open.spotify.com/track/4fC8mW8ZFQanmSHq30mgWz"
     },
     {
       "added_at": "2024-04-27 17:47:00",
@@ -1247,22 +1263,6 @@
     {
       "added_at": "2024-04-27 17:47:00",
       "album": {
-        "name": "Potential",
-        "url": "https://open.spotify.com/album/1Gc5ogOOXhknM8F4JH8bdp"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 94925,
-      "name": "Potential",
-      "url": "https://open.spotify.com/track/7apEq9wOCGf5Jjrad5FLkc"
-    },
-    {
-      "added_at": "2024-04-27 17:47:00",
-      "album": {
         "name": "Sometimes I Might Be Introvert",
         "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
       },
@@ -1275,6 +1275,22 @@
       "duration_ms": 188800,
       "name": "Protect My Energy",
       "url": "https://open.spotify.com/track/64DqILfBnCXzhEDGUHZet1"
+    },
+    {
+      "added_at": "2024-04-27 17:47:00",
+      "album": {
+        "name": "Potential",
+        "url": "https://open.spotify.com/album/1Gc5ogOOXhknM8F4JH8bdp"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 94925,
+      "name": "Potential",
+      "url": "https://open.spotify.com/track/7apEq9wOCGf5Jjrad5FLkc"
     },
     {
       "added_at": "2024-04-27 17:47:00",
@@ -1343,22 +1359,6 @@
     {
       "added_at": "2024-04-27 17:47:00",
       "album": {
-        "name": "Freaky (RGB)",
-        "url": "https://open.spotify.com/album/7JOLFZAeIkv6MERxfiHqn1"
-      },
-      "artists": [
-        {
-          "name": "Yeek",
-          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
-        }
-      ],
-      "duration_ms": 109241,
-      "name": "Freaky (RGB)",
-      "url": "https://open.spotify.com/track/6x74a97yVVRskQeOm787SG"
-    },
-    {
-      "added_at": "2024-04-27 17:47:00",
-      "album": {
         "name": "Cry Alone",
         "url": "https://open.spotify.com/album/5HNAP2fit3ueHHo5Zsb2dU"
       },
@@ -1371,6 +1371,22 @@
       "duration_ms": 102492,
       "name": "Cry Alone",
       "url": "https://open.spotify.com/track/1ijdK77sk67rPi450Pmm8O"
+    },
+    {
+      "added_at": "2024-04-27 17:47:00",
+      "album": {
+        "name": "Freaky (RGB)",
+        "url": "https://open.spotify.com/album/7JOLFZAeIkv6MERxfiHqn1"
+      },
+      "artists": [
+        {
+          "name": "Yeek",
+          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
+        }
+      ],
+      "duration_ms": 109241,
+      "name": "Freaky (RGB)",
+      "url": "https://open.spotify.com/track/6x74a97yVVRskQeOm787SG"
     },
     {
       "added_at": "2024-04-27 17:47:00",
@@ -1447,6 +1463,22 @@
     {
       "added_at": "2024-04-27 17:47:00",
       "album": {
+        "name": "Star Girl",
+        "url": "https://open.spotify.com/album/3njJmSyA76HMuYzDRBOYYW"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Star Girl",
+      "url": "https://open.spotify.com/track/15iOxEc0Zvnn0wMbK2uhPc"
+    },
+    {
+      "added_at": "2024-04-27 17:47:00",
+      "album": {
         "name": "Show Me The Money (with Tkay Maidza)",
         "url": "https://open.spotify.com/album/7L0qZYtIIxyo1B5omj6F4B"
       },
@@ -1463,22 +1495,6 @@
       "duration_ms": 187058,
       "name": "Show Me The Money (with Tkay Maidza)",
       "url": "https://open.spotify.com/track/7EA2tzWnu6i0Nai8PMUZgp"
-    },
-    {
-      "added_at": "2024-04-27 17:47:00",
-      "album": {
-        "name": "Star Girl",
-        "url": "https://open.spotify.com/album/3njJmSyA76HMuYzDRBOYYW"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Star Girl",
-      "url": "https://open.spotify.com/track/15iOxEc0Zvnn0wMbK2uhPc"
     },
     {
       "added_at": "2024-04-27 17:47:00",
@@ -1599,22 +1615,6 @@
     {
       "added_at": "2024-04-27 17:47:00",
       "album": {
-        "name": "Selfish Soul",
-        "url": "https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N"
-      },
-      "artists": [
-        {
-          "name": "Sudan Archives",
-          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
-        }
-      ],
-      "duration_ms": 142666,
-      "name": "Selfish Soul",
-      "url": "https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym"
-    },
-    {
-      "added_at": "2024-04-27 17:47:00",
-      "album": {
         "name": "Monologues",
         "url": "https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE"
       },
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2024-04-27 17:47:00",
       "album": {
+        "name": "Selfish Soul",
+        "url": "https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N"
+      },
+      "artists": [
+        {
+          "name": "Sudan Archives",
+          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+        }
+      ],
+      "duration_ms": 142666,
+      "name": "Selfish Soul",
+      "url": "https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym"
+    },
+    {
+      "added_at": "2024-04-27 17:47:00",
+      "album": {
         "name": "GREENZONE 108",
         "url": "https://open.spotify.com/album/2ygXPIqdYAq3qiTHjkPH0a"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 190706,
       "name": "Feint",
       "url": "https://open.spotify.com/track/1d9p7cxhZFhW2OraawvKuy"
-    },
-    {
-      "added_at": "2024-04-27 17:47:00",
-      "album": {
-        "name": "On My Body",
-        "url": "https://open.spotify.com/album/4mJKRmAsdIFQaAavh4K17E"
-      },
-      "artists": [
-        {
-          "name": "UG Vavy",
-          "url": "https://open.spotify.com/artist/4fbz7SUMEkfy6LV7ZNznok"
-        }
-      ],
-      "duration_ms": 182164,
-      "name": "On My Body",
-      "url": "https://open.spotify.com/track/4Yw4jt203RVQcNOlI1omR5"
     },
     {
       "added_at": "2024-04-27 17:47:00",
@@ -1695,6 +1695,22 @@
       "duration_ms": 184123,
       "name": "Dog Food (feat. Denzel Curry)",
       "url": "https://open.spotify.com/track/478bNaXnrz0uF2AwVl4gyT"
+    },
+    {
+      "added_at": "2024-04-27 17:47:00",
+      "album": {
+        "name": "On My Body",
+        "url": "https://open.spotify.com/album/4mJKRmAsdIFQaAavh4K17E"
+      },
+      "artists": [
+        {
+          "name": "UG Vavy",
+          "url": "https://open.spotify.com/artist/4fbz7SUMEkfy6LV7ZNznok"
+        }
+      ],
+      "duration_ms": 182164,
+      "name": "On My Body",
+      "url": "https://open.spotify.com/track/4Yw4jt203RVQcNOlI1omR5"
     },
     {
       "added_at": "2024-04-27 17:47:00",

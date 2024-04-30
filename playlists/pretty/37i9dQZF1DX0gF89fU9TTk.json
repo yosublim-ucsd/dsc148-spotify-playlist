@@ -1,6 +1,6 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: Switch",
-  "num_followers": 131393,
+  "num_followers": 131360,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Shiloh",
-        "url": "https://open.spotify.com/album/1fQcrISwcL6Xg8O46S8ytG"
-      },
-      "artists": [
-        {
-          "name": "Audrey Assad",
-          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
-        }
-      ],
-      "duration_ms": 268360,
-      "name": "Shiloh",
-      "url": "https://open.spotify.com/track/5bbpGneGOh76SyDWEhZRXN"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Wild",
         "url": "https://open.spotify.com/album/35AsKn2qqeUGyxelYUX1qd"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 234443,
       "name": "Wild",
       "url": "https://open.spotify.com/track/2masBgZDOTFiuUbKTa7AXu"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Shiloh",
+        "url": "https://open.spotify.com/album/1fQcrISwcL6Xg8O46S8ytG"
+      },
+      "artists": [
+        {
+          "name": "Audrey Assad",
+          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
+        }
+      ],
+      "duration_ms": 268360,
+      "name": "Shiloh",
+      "url": "https://open.spotify.com/track/5bbpGneGOh76SyDWEhZRXN"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/0WYEPMMXkI0XVuKs3c9iZX"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "duration_ms": 187692,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/6v1Hgn7yTvz7vQkJiRBESz"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/1SyeWHgGQBdLSDEA79Qo38"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 197675,
       "name": "Won't Let Me Go",
       "url": "https://open.spotify.com/track/2HKlkeWtk7JkikHmXOEcPk"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/0WYEPMMXkI0XVuKs3c9iZX"
-      },
-      "artists": [
-        {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
-        }
-      ],
-      "duration_ms": 187692,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/6v1Hgn7yTvz7vQkJiRBESz"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Help Me",
-        "url": "https://open.spotify.com/album/0KK2IqQPjzy1pvrzmSxVqJ"
-      },
-      "artists": [
-        {
-          "name": "Alive City",
-          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
-        }
-      ],
-      "duration_ms": 204555,
-      "name": "Help Me",
-      "url": "https://open.spotify.com/track/5V1Z5Onw8fVeSHn6Se89JX"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Louder",
         "url": "https://open.spotify.com/album/30iuX3rXL5jwbgUJnFUaTf"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 212998,
       "name": "I Could Sing of Your Love Forever",
       "url": "https://open.spotify.com/track/1Qr7fNKEpGXK3DPXYawbzm"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Help Me",
+        "url": "https://open.spotify.com/album/0KK2IqQPjzy1pvrzmSxVqJ"
+      },
+      "artists": [
+        {
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+        }
+      ],
+      "duration_ms": 204555,
+      "name": "Help Me",
+      "url": "https://open.spotify.com/track/5V1Z5Onw8fVeSHn6Se89JX"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Never Far (House Church)",
-        "url": "https://open.spotify.com/album/51FsVOFCZmAwrRvvQl3H72"
-      },
-      "artists": [
-        {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
-        }
-      ],
-      "duration_ms": 231964,
-      "name": "Never Far (House Church)",
-      "url": "https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Yes He Does",
         "url": "https://open.spotify.com/album/0IVE74zl2F4p9BVSPYLALo"
       },
@@ -847,22 +831,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Crown (Deluxe)",
-        "url": "https://open.spotify.com/album/6rUPUSBIpgtxaP8MkILbxC"
-      },
-      "artists": [
-        {
-          "name": "Hannah Schaefer",
-          "url": "https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Turn This Ship Around - Gregatron Remix",
-      "url": "https://open.spotify.com/track/3UrFh7gpx5UFPpH4Kdr0Sl"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Better View",
         "url": "https://open.spotify.com/album/5fjwampEKoaXEv81pDDQQ5"
       },
@@ -875,6 +843,38 @@
       "duration_ms": 168853,
       "name": "Better View",
       "url": "https://open.spotify.com/track/173RgJWVkioV5Ngb8U6q90"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Never Far (House Church)",
+        "url": "https://open.spotify.com/album/51FsVOFCZmAwrRvvQl3H72"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "duration_ms": 231964,
+      "name": "Never Far (House Church)",
+      "url": "https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Crown (Deluxe)",
+        "url": "https://open.spotify.com/album/6rUPUSBIpgtxaP8MkILbxC"
+      },
+      "artists": [
+        {
+          "name": "Hannah Schaefer",
+          "url": "https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Turn This Ship Around - Gregatron Remix",
+      "url": "https://open.spotify.com/track/3UrFh7gpx5UFPpH4Kdr0Sl"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "The Free World, Vol. 1",
-        "url": "https://open.spotify.com/album/6JARfJLhC6szyYXRwtiWQg"
-      },
-      "artists": [
-        {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
-        }
-      ],
-      "duration_ms": 208733,
-      "name": "Heartache",
-      "url": "https://open.spotify.com/track/2BTcliAvvJroPJVB8hlfV5"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "FRVR",
         "url": "https://open.spotify.com/album/4qjKYc6fXywXLvSypwJCkS"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 197000,
       "name": "Future",
       "url": "https://open.spotify.com/track/51AOKB8pqsRF3YCucahDQ8"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "The Free World, Vol. 1",
+        "url": "https://open.spotify.com/album/6JARfJLhC6szyYXRwtiWQg"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "duration_ms": 208733,
+      "name": "Heartache",
+      "url": "https://open.spotify.com/track/2BTcliAvvJroPJVB8hlfV5"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Listen More",
-        "url": "https://open.spotify.com/album/0uY6DrZnFwosKFvkLXSGQS"
-      },
-      "artists": [
-        {
-          "name": "Hannah Kerr",
-          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/2I0r5mF2mwWD26iDO9Ccb7"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Worship: The Remix Project, Vol. 3",
         "url": "https://open.spotify.com/album/1C6zfthwK3pGTdutkBbPkQ"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 236025,
       "name": "The Blessing - Reyer Remix",
       "url": "https://open.spotify.com/track/3xfDEpTPumLqOWWc26losd"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Listen More",
+        "url": "https://open.spotify.com/album/0uY6DrZnFwosKFvkLXSGQS"
+      },
+      "artists": [
+        {
+          "name": "Hannah Kerr",
+          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/2I0r5mF2mwWD26iDO9Ccb7"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Till the Earth",
-        "url": "https://open.spotify.com/album/0Ik1QIF3jLAW2s8ibXgU9Q"
-      },
-      "artists": [
-        {
-          "name": "Southview Worship",
-          "url": "https://open.spotify.com/artist/2tvS8eHZou9wcXN2ZdE4SK"
-        },
-        {
-          "name": "B. Cooper",
-          "url": "https://open.spotify.com/artist/68PZRIV4P3i1WDizC3PlDq"
-        }
-      ],
-      "duration_ms": 208411,
-      "name": "Till the Earth",
-      "url": "https://open.spotify.com/track/4w3FvBgO5lso4A7AcG8VKM"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Break Out",
         "url": "https://open.spotify.com/album/6fHknY4BtYJ5qQ0AgK42wV"
       },
@@ -1299,6 +1279,26 @@
       "duration_ms": 235580,
       "name": "Break Out - Studio Single",
       "url": "https://open.spotify.com/track/11aBOrLAA0yjNooqF3eWW8"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Till the Earth",
+        "url": "https://open.spotify.com/album/0Ik1QIF3jLAW2s8ibXgU9Q"
+      },
+      "artists": [
+        {
+          "name": "Southview Worship",
+          "url": "https://open.spotify.com/artist/2tvS8eHZou9wcXN2ZdE4SK"
+        },
+        {
+          "name": "B. Cooper",
+          "url": "https://open.spotify.com/artist/68PZRIV4P3i1WDizC3PlDq"
+        }
+      ],
+      "duration_ms": 208411,
+      "name": "Till the Earth",
+      "url": "https://open.spotify.com/track/4w3FvBgO5lso4A7AcG8VKM"
     }
   ],
   "unique_name": "Hits UP",

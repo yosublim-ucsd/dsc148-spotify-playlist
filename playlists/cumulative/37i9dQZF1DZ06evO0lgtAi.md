@@ -2,7 +2,7 @@
 
 ### [This Is Tainy](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0lgtAi)
 
-> This Is Tainy\. Les titres incontournables, réunis dans une seule et même playlist.
+> This Is Tainy\. Sus mejores éxitos, todos en una playlist.
 
 75 songs - 3 hr 58 min
 
@@ -69,7 +69,7 @@
 | [SI LA VES \(with Las Villa\)](https://open.spotify.com/track/5lj0ISQvW88gNBqx9VO3an) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [NEON16 TAPE: THE KIDS THAT GREW UP ON REGGAETON](https://open.spotify.com/album/0yYekqi5aLywihK4YtigeN) | 2:17 | 2023-04-06 | 2023-07-02 |
 | [SI TE VAS](https://open.spotify.com/track/5Xx66nNmEkP4pIB3NtXsYX) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [SI TE VAS](https://open.spotify.com/album/37LcMTVZS9ttzx0PdAM2Ss) | 3:14 | 2023-04-06 |  |
 | [Solo Contigo](https://open.spotify.com/track/5D6BJHUUpOdNcsoGfmJqb9) | [Cruzito](https://open.spotify.com/artist/4StDLRKg8Jtp0qmE35907p), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Legacy, Vol\. 1 \(TBT\)](https://open.spotify.com/album/1xlEv4ilS9wdKy4etb7nlp) | 3:11 | 2023-04-27 | 2023-04-29 |
-| [Summer of Love \(Shawn Mendes & Tainy\)](https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Summer Of Love](https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk) | 3:04 | 2023-04-06 | 2024-04-29 |
+| [Summer of Love \(Shawn Mendes & Tainy\)](https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Summer Of Love](https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk) | 3:04 | 2023-04-06 |  |
 | [Sunbathe](https://open.spotify.com/track/6tPX67OuLWJc8XOH4dkDNE) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sunbathe](https://open.spotify.com/album/51iFLZOIL5XRhy2MLe7bAA) | 2:50 | 2023-04-06 |  |
 | [Tate Quieto](https://open.spotify.com/track/789DGCAVkUTSsCaJ7c1VIu) | [Luigi 21 Plus](https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Mala Influencia](https://open.spotify.com/album/5MAo8YKa2yJLXUlJ2e3WaG) | 2:16 | 2023-04-06 | 2023-07-02 |
 | [Todas Tus Amigas Están Mintiendo ft\. Alvaro Diaz, Dylan Fuentes](https://open.spotify.com/track/2re98x1aMO6BYuX9cWKqo8) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Dylan Fuentes](https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin) | [Club Dieciséis](https://open.spotify.com/album/4cvaXlyY8HozBQXr6VzsEU) | 2:52 | 2023-04-06 |  |

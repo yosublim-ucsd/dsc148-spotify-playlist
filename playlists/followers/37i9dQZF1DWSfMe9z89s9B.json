@@ -1,5 +1,5 @@
 {
-  "2024-04-29": 1374940,
+  "2024-04-30": 1374632,
   "date_first_scraped": "2021-12-21",
   "description": "Leaders of the new school...Alternative R&B. Cover: Esta, Joyce Wrice & DUCKWRTH",
   "name": "Vanguard",
@@ -12472,6 +12472,24 @@
     },
     {
       "album": {
+        "name": "MILLION DOLLAR BABY",
+        "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155151,
+      "name": "MILLION DOLLAR BABY",
+      "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
+    },
+    {
+      "album": {
         "name": "Millionth Time",
         "url": "https://open.spotify.com/album/6wLI2RFwsRXMCUOOglSzm6"
       },
@@ -16523,7 +16541,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 192705,
       "name": "SELFISH",
       "url": "https://open.spotify.com/track/5eK3fdNouqjL8YpX2tCWHB"

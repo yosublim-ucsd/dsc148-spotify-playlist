@@ -1,12 +1,12 @@
 {
   "description": "Check out the emerging independent tracks from these Telugu Artists!! Cover : Sravana Bhargavi",
-  "num_followers": 32421,
+  "num_followers": 32409,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDA0NDMyNCwwMDAwMDAwMGQ0OWQ0NTM4Y2NjODNkOTY4MDJjNDQ2Yzc5OWUyZDUw",
+  "snapshot_id": "MTcxNDM4NTM4OSwwMDAwMDAwMGY1NDk1ZTBiM2YwZjJkYjI4ZTdkOWRhY2NjNWM1MThh",
   "tracks": [
     {
       "added_at": "2024-02-19 08:51:27",
@@ -23,6 +23,22 @@
       "duration_ms": 162206,
       "name": "Aata Gaani Aata",
       "url": "https://open.spotify.com/track/6mN6G6IetQns6xMtkxznVZ"
+    },
+    {
+      "added_at": "2024-04-29 10:09:49",
+      "album": {
+        "name": "Bujji Pilla",
+        "url": "https://open.spotify.com/album/1BcqiyIpH3Z2DjccL5XJLQ"
+      },
+      "artists": [
+        {
+          "name": "Achu",
+          "url": "https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY"
+        }
+      ],
+      "duration_ms": 275454,
+      "name": "Bujji Pilla",
+      "url": "https://open.spotify.com/track/0Ot37vSbeGkAVQi1mGqvou"
     },
     {
       "added_at": "2024-04-25 11:25:24",
@@ -767,22 +783,6 @@
       "duration_ms": 315870,
       "name": "Gaayam",
       "url": "https://open.spotify.com/track/29s6xk3dSdZKncZ3vs8Vd3"
-    },
-    {
-      "added_at": "2023-12-27 09:47:41",
-      "album": {
-        "name": "Prementhundo Gundellona",
-        "url": "https://open.spotify.com/album/7KKA0THUOflYVBCBuj6hQX"
-      },
-      "artists": [
-        {
-          "name": "Uday Kiran UK",
-          "url": "https://open.spotify.com/artist/6bMQApJJQkMAARbNqYu34i"
-        }
-      ],
-      "duration_ms": 233224,
-      "name": "Prementhundo Gundellona",
-      "url": "https://open.spotify.com/track/6cbwIQH2hhj4oKuF7YCInf"
     },
     {
       "added_at": "2023-12-18 06:01:15",

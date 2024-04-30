@@ -4,7 +4,7 @@
 
 > hit rap og andet i den vibe 🚨 nyt fra: ICEKIID, Lamin / Anton Westerlin, Merro8, MAS & Hans Philip 🚨
 
-164 songs - 7 hr 8 min
+165 songs - 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Spåkone](https://open.spotify.com/track/4VIai4an6QpUiuQxxliAF7) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Spåkone](https://open.spotify.com/album/2YMSb0pHCX4stwMGUBPIGl) | 2:54 | 2023-09-21 | 2023-12-14 |
 | [STAYBUSY](https://open.spotify.com/track/4t76e7lcoYva7eZparMcfw) | [Maurice](https://open.spotify.com/artist/49LRYB6Kf2RsNbsXIBrGSl) | [STAYBUSY](https://open.spotify.com/album/5TtPoVWJI5k7xGf1oh6HIJ) | 2:23 | 2023-09-29 | 2024-04-05 |
 | [Stemmer](https://open.spotify.com/track/315V2iBZNxBDQxTgbDXRF4) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC) | [Stemmer](https://open.spotify.com/album/1QpE3osgUe4Wiwi2JtNb8P) | 2:27 | 2024-02-08 |  |
+| [Svaneflex](https://open.spotify.com/track/5HPCoFIPcckTMWF0wc6ncG) | [Sondergaard](https://open.spotify.com/artist/059d96CtYS9700ezKQWsFz) | [Svaneflex](https://open.spotify.com/album/0dOVDYCMrGpRngvk16BPmU) | 2:02 | 2024-04-29 |  |
 | [Swervin' \(feat\. Lamin\)](https://open.spotify.com/track/3T4sq2A6qyg4LnUJWx8Q4u) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Swervin' \(feat\. Lamin\)](https://open.spotify.com/album/1fNhtDc8Mls92rWD1q6rWK) | 2:31 | 2023-09-21 | 2023-10-11 |
 | [Swervin' \(feat\. Lamin\)](https://open.spotify.com/track/49fxzVDFQGVorGiv3FEUcv) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Slow Mo' / Swervin'](https://open.spotify.com/album/2QVD6w1lvKmxSr2petQ7H8) | 2:31 | 2023-10-06 | 2024-02-23 |
 | [Tak For Sidst](https://open.spotify.com/track/5cNxyZy9r5f8m2L7it8ZtB) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [Tak For Sidst](https://open.spotify.com/album/0rvZGDpA6Gw8s4dT3xRnpi) | 2:34 | 2023-09-21 | 2024-04-05 |

@@ -1,5 +1,5 @@
 {
-  "2024-04-29": 18867,
+  "2024-04-30": 18847,
   "date_first_scraped": "2022-10-03",
   "description": "Beautiful instrumental music to keep you in the flow as you code or study. An ideal playlist for programming during stressful times --- | program | programmer | software | software engineer | computer science | concentrate | concentration | focusing |",
   "name": "CODING FOCUS",
@@ -13601,6 +13601,24 @@
       "duration_ms": 61942,
       "name": "Hope Together - Cello Version",
       "url": "https://open.spotify.com/track/3hzF7FLgkjpPjLxDlPLANM"
+    },
+    {
+      "album": {
+        "name": "Hopeful",
+        "url": "https://open.spotify.com/album/7ozr3fwsZAUtG79zcjGMol"
+      },
+      "artists": [
+        {
+          "name": "Wandering River",
+          "url": "https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK"
+        }
+      ],
+      "date_added": "2024-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60000,
+      "name": "Hopeful",
+      "url": "https://open.spotify.com/track/55ESWvZcBMSFU0R1cwSTDG"
     },
     {
       "album": {

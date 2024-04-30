@@ -1,6 +1,6 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi",
-  "num_followers": 110624,
+  "num_followers": 110591,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-04-18 21:14:50",
       "album": {
-        "name": "Otra Noche en la Luna (Episodio II)",
-        "url": "https://open.spotify.com/album/2i3jAjsGsoeP0Sq0DjF1vy"
-      },
-      "artists": [
-        {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
-        }
-      ],
-      "duration_ms": 259200,
-      "name": "Homero - En Vivo Luna Park",
-      "url": "https://open.spotify.com/track/3ssaVppMVSm0WwO0Uz6NVe"
-    },
-    {
-      "added_at": "2024-04-18 21:14:50",
-      "album": {
         "name": "Vivo",
         "url": "https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o"
       },
@@ -587,18 +571,18 @@
     {
       "added_at": "2024-04-18 21:14:50",
       "album": {
-        "name": "Divididos en V\u00e9lez - Agradecer y Seguir",
-        "url": "https://open.spotify.com/album/2TrRaAq10CSLmQV03lmQQy"
+        "name": "Otra Noche en la Luna (Episodio II)",
+        "url": "https://open.spotify.com/album/2i3jAjsGsoeP0Sq0DjF1vy"
       },
       "artists": [
         {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
         }
       ],
-      "duration_ms": 368743,
-      "name": "Paisano de Hurlingham",
-      "url": "https://open.spotify.com/track/2UOJsDtVLCdSbwbhd2qSl3"
+      "duration_ms": 259200,
+      "name": "Homero - En Vivo Luna Park",
+      "url": "https://open.spotify.com/track/3ssaVppMVSm0WwO0Uz6NVe"
     },
     {
       "added_at": "2024-04-18 21:14:50",
@@ -619,6 +603,22 @@
       "duration_ms": 227050,
       "name": "A D\u00f3nde Vas - Ac\u00fastico en Vivo",
       "url": "https://open.spotify.com/track/5En6kK2Xn4HgYQBhBgcxY0"
+    },
+    {
+      "added_at": "2024-04-18 21:14:50",
+      "album": {
+        "name": "Divididos en V\u00e9lez - Agradecer y Seguir",
+        "url": "https://open.spotify.com/album/2TrRaAq10CSLmQV03lmQQy"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 368743,
+      "name": "Paisano de Hurlingham",
+      "url": "https://open.spotify.com/track/2UOJsDtVLCdSbwbhd2qSl3"
     },
     {
       "added_at": "2024-04-18 21:14:50",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-04-18 21:14:50",
       "album": {
-        "name": "Pantalla Del Mundo Nuevo (En Vivo En B.A.Rock)",
-        "url": "https://open.spotify.com/album/6vt2QGdahU0tGtmXHqIv56"
-      },
-      "artists": [
-        {
-          "name": "Riff",
-          "url": "https://open.spotify.com/artist/3IyuxBX0pwXqbeFI4DWmhG"
-        }
-      ],
-      "duration_ms": 410746,
-      "name": "Pantalla Del Mundo Nuevo",
-      "url": "https://open.spotify.com/track/4YbGxcfzDt4vDFUA3RcB5M"
-    },
-    {
-      "added_at": "2024-04-18 21:14:50",
-      "album": {
         "name": "Amarillo",
         "url": "https://open.spotify.com/album/5DZ3ZUQ6TezUopA8xkI5Rq"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 188347,
       "name": "Morir por Vos (no puedo) - En Vivo",
       "url": "https://open.spotify.com/track/0gJBjTI6ijmS7PNxmhshhl"
+    },
+    {
+      "added_at": "2024-04-18 21:14:50",
+      "album": {
+        "name": "Pantalla Del Mundo Nuevo (En Vivo En B.A.Rock)",
+        "url": "https://open.spotify.com/album/6vt2QGdahU0tGtmXHqIv56"
+      },
+      "artists": [
+        {
+          "name": "Riff",
+          "url": "https://open.spotify.com/artist/3IyuxBX0pwXqbeFI4DWmhG"
+        }
+      ],
+      "duration_ms": 410746,
+      "name": "Pantalla Del Mundo Nuevo",
+      "url": "https://open.spotify.com/track/4YbGxcfzDt4vDFUA3RcB5M"
     },
     {
       "added_at": "2024-04-18 21:14:50",

@@ -1860,7 +1860,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 335194,
       "name": "Famax",
       "url": "https://open.spotify.com/track/2xpeEb2moFy7dRinc7tUnz"
@@ -2770,7 +2770,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 229738,
       "name": "LA RANGER (feat. Myke Towers)",
       "url": "https://open.spotify.com/track/0QoaFLmBJyuVuzOIGy6iCS"
@@ -2906,7 +2906,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-29",
+      "date_removed": null,
       "duration_ms": 330000,
       "name": "Lento (Original Mix)",
       "url": "https://open.spotify.com/track/4IL0li89Pjk3hAM9ihqPBl"
@@ -2954,6 +2954,32 @@
       "duration_ms": 250696,
       "name": "Lo Mejor",
       "url": "https://open.spotify.com/track/5VEcvQd59L5xKySsXAbJ6h"
+    },
+    {
+      "album": {
+        "name": "Lo Que Tiene",
+        "url": "https://open.spotify.com/album/76q4YOHGrinD2vWSrbPzN4"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
+        {
+          "name": "Beny Jr",
+          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
+        },
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259200,
+      "name": "Lo Que Tiene",
+      "url": "https://open.spotify.com/track/6RqD0fpAaKEZvQd0QrTj7j"
     },
     {
       "album": {
@@ -4553,6 +4579,28 @@
     },
     {
       "album": {
+        "name": "La Ciudad Del Party",
+        "url": "https://open.spotify.com/album/2fMhhfZ2dnqWVNX1nEw6Lc"
+      },
+      "artists": [
+        {
+          "name": "Elilluminari",
+          "url": "https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq"
+        },
+        {
+          "name": "Anthony Godfather",
+          "url": "https://open.spotify.com/artist/1CYqCVVCerhOIUu6gmGpP8"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Privity",
+      "url": "https://open.spotify.com/track/4A3KLIDInsrkyxgqqk9irn"
+    },
+    {
+      "album": {
         "name": "LAS LETRAS YA NO IMPORTAN",
         "url": "https://open.spotify.com/album/2VqfdamIWfwbBVzOzHJWs3"
       },
@@ -5542,7 +5590,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 136022,
       "name": "U R SUCH A LAME!",
       "url": "https://open.spotify.com/track/1Ybt52Gx6UdrI9z0qUbJP3"

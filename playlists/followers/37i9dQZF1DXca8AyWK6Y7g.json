@@ -1,5 +1,5 @@
 {
-  "2024-04-29": 1495406,
+  "2024-04-30": 1496157,
   "date_first_scraped": "2019-05-26",
   "description": "you can \ud83d\udc8b a hundred boys in bars!!!!  \ud83d\udcf7 Chappell Roan",
   "name": "young & free",
@@ -11109,6 +11109,24 @@
       "duration_ms": 140598,
       "name": "feelings",
       "url": "https://open.spotify.com/track/7yLfsctj9g0z2NB3v3IGcz"
+    },
+    {
+      "album": {
+        "name": "DEAR READER",
+        "url": "https://open.spotify.com/album/1JsRmuktjMsrdolUuZ5UMp"
+      },
+      "artists": [
+        {
+          "name": "PEGGY",
+          "url": "https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147798,
+      "name": "FEMININE RAGE",
+      "url": "https://open.spotify.com/track/08iDzwXKP72XYGnjXLSwW2"
     },
     {
       "album": {
@@ -37643,7 +37661,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 127600,
       "name": "Wtf u want.",
       "url": "https://open.spotify.com/track/0pURlXPaj5o9tXRim3kT1a"

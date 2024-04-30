@@ -1,5 +1,5 @@
 {
-  "2024-04-29": 15104,
+  "2024-04-30": 15099,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Bulgaria.",
   "name": "Top 50 - Bulgaria",
@@ -945,7 +945,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-23",
+      "date_removed": null,
       "duration_ms": 191666,
       "name": "Alcohol",
       "url": "https://open.spotify.com/track/7FDCQfEwJDsOlv655b1Qsv"
@@ -4153,7 +4153,7 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 149052,
       "name": "Casanova",
       "url": "https://open.spotify.com/track/3hIJhEVAMGNKArewusKklB"
@@ -11175,7 +11175,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-28",
+      "date_removed": null,
       "duration_ms": 128205,
       "name": "if u think i'm pretty",
       "url": "https://open.spotify.com/track/1ACA277B6f46DYCgZW8di3"
@@ -12821,7 +12821,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 146402,
       "name": "LEAO",
       "url": "https://open.spotify.com/track/1O40GZggJQo7F6dChRSywC"
@@ -13171,7 +13171,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-28",
+      "date_removed": null,
       "duration_ms": 212241,
       "name": "Like Crazy",
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
@@ -22181,7 +22181,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 159818,
       "name": "Sujalqvam",
       "url": "https://open.spotify.com/track/2YRF4ktmyWef9SASMJaqOm"
@@ -23787,7 +23787,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 232586,
       "name": "TOCHNA DOZA",
       "url": "https://open.spotify.com/track/3JyjVg9S9EkapeE042zpgY"
@@ -27169,7 +27169,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-28",
+      "date_removed": null,
       "duration_ms": 197030,
       "name": "\u0411\u0430\u0432\u0430\u0440\u0438\u044f",
       "url": "https://open.spotify.com/track/0FQVI0C86ASSO1TW4YIoUG"
@@ -28855,7 +28855,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 188571,
       "name": "\u041c\u0430\u043b\u043a\u0430\u0442\u0430 \u0431\u0435\u043b\u044f",
       "url": "https://open.spotify.com/track/2Fs3HuNZQ2QK0Qcfr19L8Y"
@@ -29867,7 +29867,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 192000,
       "name": "\u041e\u0442 \u0441\u0442\u0440\u0430\u0445 \u0434\u0430 \u043c\u0435 \u0437\u0430\u0433\u0443\u0431\u0438\u0448",
       "url": "https://open.spotify.com/track/2lfVC65pTe5TgYOGP4EUYh"
@@ -30187,7 +30187,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-28",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "\u041f\u0440\u043e\u0449\u0430\u0432\u0430\u043c \u0442\u0438",
       "url": "https://open.spotify.com/track/1Kgu5BIPXBqB6VEzQmZpMH"
@@ -30209,6 +30209,28 @@
       "duration_ms": 284324,
       "name": "\u041f\u0440\u043e\u0449\u0430\u043b\u043d\u043e",
       "url": "https://open.spotify.com/track/0iKgiQGw0m0Px0IlUdpSD2"
+    },
+    {
+      "album": {
+        "name": "\u041f\u0443\u0448\u0438, \u043f\u0443\u0448\u0438",
+        "url": "https://open.spotify.com/album/6xYrQirspZgjqoetOnUS5f"
+      },
+      "artists": [
+        {
+          "name": "Danna",
+          "url": "https://open.spotify.com/artist/2M8DUpSnqu7TlGxEgjUocd"
+        },
+        {
+          "name": "Konstantin",
+          "url": "https://open.spotify.com/artist/09dmaVobfJspAF2KEumlH8"
+        }
+      ],
+      "date_added": "2024-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220400,
+      "name": "\u041f\u0443\u0448\u0438, \u043f\u0443\u0448\u0438",
+      "url": "https://open.spotify.com/track/0336cbGmNVwmytwQh0zNeB"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This Is Jamiroquai. Los temas esenciales, todos en una lista.",
-  "num_followers": 383629,
+  "num_followers": 383630,
   "original_name": "This Is Jamiroquai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDE3NjAwMCwwMDAwMDAwMGJlMjhmNTYwZDFmMmUyYmZiMjIwZDdiNzlkYzg4MzJm",
+  "snapshot_id": "MTcxNDI2MjQwMCwwMDAwMDAwMDM3ZGY1ZWE5MDkzYmYxYTNiNDRjNjljOTBiY2Y3MTNl",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
       "duration_ms": 229360,
       "name": "Virtual Insanity - Remastered 2006",
       "url": "https://open.spotify.com/track/4UQDZlZhGUDoYMohwrY28v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Travelling Without Moving (Remastered)",
-        "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 244146,
-      "name": "Cosmic Girl - Remastered 2013",
-      "url": "https://open.spotify.com/track/6y0Etr2KJr0sdcEp7ajoUK"
     },
     {
       "added_at": null,
@@ -152,9 +136,9 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 295400,
-      "name": "Little L",
-      "url": "https://open.spotify.com/track/7hhclvecTpNxNNRCk7NUoc"
+      "duration_ms": 224493,
+      "name": "Love Foolosophy - Radio Edit",
+      "url": "https://open.spotify.com/track/0upgxxew2mVAEctrz08jnf"
     },
     {
       "added_at": null,
@@ -207,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Funk Odyssey",
-        "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 224493,
-      "name": "Love Foolosophy - Radio Edit",
-      "url": "https://open.spotify.com/track/0upgxxew2mVAEctrz08jnf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Travelling Without Moving (Remastered)",
         "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
       },
@@ -255,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emergency on Planet Earth (Remastered)",
-        "url": "https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 365733,
-      "name": "Too Young to Die",
-      "url": "https://open.spotify.com/track/3toXFhdNpH0Cs5vQkTrHQ3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock Dust Light Star (Deluxe Version)",
         "url": "https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F"
       },
@@ -283,6 +235,22 @@
       "duration_ms": 215080,
       "name": "All Good In The Hood",
       "url": "https://open.spotify.com/track/6lYDFEsQRgCDj0cBKodzG0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emergency on Planet Earth (Remastered)",
+        "url": "https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 365733,
+      "name": "Too Young to Die",
+      "url": "https://open.spotify.com/track/3toXFhdNpH0Cs5vQkTrHQ3"
     },
     {
       "added_at": null,
@@ -779,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emergency on Planet Earth (Remastered)",
-        "url": "https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM"
+        "name": "Travelling Without Moving (Remastered)",
+        "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
       },
       "artists": [
         {
@@ -788,9 +756,9 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 383360,
-      "name": "Music of the Mind",
-      "url": "https://open.spotify.com/track/29uQW0hQQLU39lTYoB9YMo"
+      "duration_ms": 360013,
+      "name": "High Times - Remastered 2013",
+      "url": "https://open.spotify.com/track/45vbV4YznRHi1uKS9l0xkI"
     },
     {
       "added_at": null,
@@ -811,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock Dust Light Star (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F"
+        "name": "Emergency on Planet Earth (Remastered)",
+        "url": "https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM"
       },
       "artists": [
         {
@@ -820,9 +788,9 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 264880,
-      "name": "Two Completely Different Things",
-      "url": "https://open.spotify.com/track/1zw2pnfGDjRjnPOquYGwH6"
+      "duration_ms": 383360,
+      "name": "Music of the Mind",
+      "url": "https://open.spotify.com/track/29uQW0hQQLU39lTYoB9YMo"
     },
     {
       "added_at": null,
@@ -839,6 +807,38 @@
       "duration_ms": 383973,
       "name": "Morning Glory",
       "url": "https://open.spotify.com/track/4YBs74uWL6J9zpmaFL9LXt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Funk Odyssey",
+        "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 321426,
+      "name": "Feel So Good",
+      "url": "https://open.spotify.com/track/4baXYEQbDjse4afjjToEB6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rock Dust Light Star (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 264880,
+      "name": "Two Completely Different Things",
+      "url": "https://open.spotify.com/track/1zw2pnfGDjRjnPOquYGwH6"
     }
   ],
   "unique_name": "This Is Jamiroquai",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHIYChxh9sq.md) - [plain]
 
 > Get ready for <a href="spotify:genre:0JQ5DAqbMKFEJHdEnquSi1">BelicoFest</a> with the setlist of Oscar Maydon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,706 likes - 10 songs - 31 min 24 sec
+[Spotify](https://open.spotify.com/user/spotify) - 72,671 likes - 10 songs - 31 min 24 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

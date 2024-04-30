@@ -1,12 +1,12 @@
 {
-  "description": "This is ReoNa. The essential tracks, all in one playlist.",
-  "num_followers": 20350,
+  "description": "This Is ReoNa. Los temas esenciales, todos en una lista.",
+  "num_followers": 20348,
   "original_name": "This Is ReoNa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDE3NjAwMCwwMDAwMDAwMGI2ZTFkNzBkODFjOTQ4ODMwNTY5ZjIxNzllY2UyZTQw",
+  "snapshot_id": "MTcxNDI2MjQwMCwwMDAwMDAwMGQyYTFlOGI1ZjRjYjNkMmIyMjFiNDc4MTNmMTU1N2Fh",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "R.I.P.",
-        "url": "https://open.spotify.com/album/4d5W6sksMk3FHYYmdd4u0E"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 202708,
-      "name": "R.I.P.",
-      "url": "https://open.spotify.com/track/4d4RL0VuwSA1JfRRXD9tXt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "unknown",
         "url": "https://open.spotify.com/album/0IDNAr9hNxxTC8dBwcsvhW"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 364013,
       "name": "Till the End",
       "url": "https://open.spotify.com/track/4iaSSJYuSYd9MSOQ2au3Pc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "R.I.P.",
+        "url": "https://open.spotify.com/album/4d5W6sksMk3FHYYmdd4u0E"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 202708,
+      "name": "R.I.P.",
+      "url": "https://open.spotify.com/track/4d4RL0VuwSA1JfRRXD9tXt"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "R.I.P.(Special Edition)",
-        "url": "https://open.spotify.com/album/3mDtsGDbDq217sIAjkLKGO"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 580293,
-      "name": "VITA -The Days-",
-      "url": "https://open.spotify.com/track/57cU3nbUkPzdbQ6RdDQjjy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u6708\u59eb -A piece of blue glass moon- Original Soundtrack",
         "url": "https://open.spotify.com/album/1vbPDL5Hm1PcjUrbcw5Ulo"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 99449,
       "name": "\u751f\u547d\u7dda -Game size-",
       "url": "https://open.spotify.com/track/48HR0RKVyUbjctXPbI4y4r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "R.I.P.(Special Edition)",
+        "url": "https://open.spotify.com/album/3mDtsGDbDq217sIAjkLKGO"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 580293,
+      "name": "VITA -The Days-",
+      "url": "https://open.spotify.com/track/57cU3nbUkPzdbQ6RdDQjjy"
     }
   ],
   "unique_name": "This Is ReoNa",

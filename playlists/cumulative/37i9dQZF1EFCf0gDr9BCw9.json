@@ -1525,6 +1525,24 @@
     },
     {
       "album": {
+        "name": "Don't Mind If I Do",
+        "url": "https://open.spotify.com/album/6HhoTI6nTIBORsqhJDMLmI"
+      },
+      "artists": [
+        {
+          "name": "Billy Strayhorn",
+          "url": "https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120480,
+      "name": "Love Came",
+      "url": "https://open.spotify.com/track/1PZ6x16tUD01WiY44QK7Qe"
+    },
+    {
+      "album": {
         "name": "Love Came",
         "url": "https://open.spotify.com/album/4a9c1SZW13bcZHat8r7oq9"
       },
@@ -1536,7 +1554,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 149133,
       "name": "Love Came",
       "url": "https://open.spotify.com/track/5HpSlHNJKEKUTbUnJb5In4"

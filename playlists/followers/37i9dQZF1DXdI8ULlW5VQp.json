@@ -1,5 +1,5 @@
 {
-  "2024-04-29": 67124,
+  "2024-04-30": 67177,
   "date_first_scraped": "2022-02-10",
   "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Carin Leon en portada.",
   "name": "Cantamores",
@@ -1929,7 +1929,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-22",
+      "date_removed": null,
       "duration_ms": 241780,
       "name": "Entre T\u00fa y Yo",
       "url": "https://open.spotify.com/track/124LWNIke7C7Cc5wCdQ8vJ"
@@ -1991,7 +1991,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 251040,
       "name": "Estrellas En El Mar",
       "url": "https://open.spotify.com/track/6phjeQUN6GnVT7eHPLnb4p"

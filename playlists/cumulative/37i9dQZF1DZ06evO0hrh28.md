@@ -2,7 +2,7 @@
 
 ### [This Is Emilia](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0hrh28)
 
-> This Is Emilia\. Los temas esenciales, todos en una lista.
+> This is Emilia\. The essential tracks, all in one playlist.
 
 54 songs - 2 hr 40 min
 

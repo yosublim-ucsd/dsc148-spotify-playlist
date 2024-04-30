@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "A Penny For Your Thoughts",
+        "url": "https://open.spotify.com/album/7b9pX2SFotCMRcfU3PYvPW"
+      },
+      "artists": [
+        {
+          "name": "Dayo Bello",
+          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98666,
+      "name": "A Penny For Your Thoughts",
+      "url": "https://open.spotify.com/track/3quSErRei0EBupQnK6ze5h"
+    },
+    {
+      "album": {
         "name": "Fever (Tour Edition)",
         "url": "https://open.spotify.com/album/5jx8tY8uKTYHYmhxkEmw7n"
       },
@@ -1015,6 +1033,24 @@
     },
     {
       "album": {
+        "name": "Little Queen",
+        "url": "https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF"
+      },
+      "artists": [
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261933,
+      "name": "Barracuda",
+      "url": "https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz"
+    },
+    {
+      "album": {
         "name": "97GOAT",
         "url": "https://open.spotify.com/album/51vhV49ckAENuQKqcHrFFS"
       },
@@ -1170,7 +1206,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 141687,
       "name": "Belong To The Wind",
       "url": "https://open.spotify.com/track/4p6yT9iFL3RHRBqcw5vWKM"
@@ -1228,7 +1264,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 206360,
       "name": "Better Off This Way",
       "url": "https://open.spotify.com/track/5TtOrriDfiamVEKrls2GIT"
@@ -2076,7 +2112,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 118421,
       "name": "Cena de Sushi Trendy",
       "url": "https://open.spotify.com/track/3HaOUGPBnZUXEgQulvHxmQ"
@@ -2138,6 +2174,28 @@
       "duration_ms": 267533,
       "name": "Childhood (Theme from \"Free Willy 2\")",
       "url": "https://open.spotify.com/track/1Cfx6KBsyF0tEKbZbS4faj"
+    },
+    {
+      "album": {
+        "name": "Born to Boogie (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1eavjCo7IrgRfLAiSy0cSM"
+      },
+      "artists": [
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        },
+        {
+          "name": "Marc Bolan",
+          "url": "https://open.spotify.com/artist/4M2gGLzKCo0rPyn224PsoN"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220786,
+      "name": "Children of the Revolution - Born to Boogie Version",
+      "url": "https://open.spotify.com/track/7lZx7rcukwXBpCNTlkKVCv"
     },
     {
       "album": {
@@ -2296,7 +2354,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 267626,
       "name": "Cohkka",
       "url": "https://open.spotify.com/track/0TkZ7Vdzb19mgZoTfSypqy"
@@ -4362,7 +4420,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 251631,
       "name": "For What It's Worth",
       "url": "https://open.spotify.com/track/5Ih40KFkj3cSzxgisQxBvX"
@@ -5310,7 +5368,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 148750,
       "name": "Hold Up",
       "url": "https://open.spotify.com/track/5jIPK0iZ3wzCHWsEze021Z"
@@ -6198,7 +6256,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 42413,
       "name": "Intro",
       "url": "https://open.spotify.com/track/5FWs1SriPWwFCoyzt5uiI6"
@@ -6256,6 +6314,24 @@
       "duration_ms": 275760,
       "name": "Is This Love - 2007 Remastered Version",
       "url": "https://open.spotify.com/track/3k58VAgUkM9cSvRpjIVaC7"
+    },
+    {
+      "album": {
+        "name": "Mystery",
+        "url": "https://open.spotify.com/album/75sqVZTa8HIi8pZzEUfoRk"
+      },
+      "artists": [
+        {
+          "name": "Hot Chocolate",
+          "url": "https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242986,
+      "name": "It Started with a Kiss - 2011 Remaster",
+      "url": "https://open.spotify.com/track/2YeymL3Kn5y43vJOO2rhmW"
     },
     {
       "album": {
@@ -6796,7 +6872,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 255413,
       "name": "Lemuria",
       "url": "https://open.spotify.com/track/4pjh4Dk29lwxAlIehtdZbr"
@@ -7268,7 +7344,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 148840,
       "name": "luminous sword",
       "url": "https://open.spotify.com/track/6KxzcLy6kE2PgOySf1q7K6"
@@ -7340,7 +7416,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 235253,
       "name": "Make Me Bad",
       "url": "https://open.spotify.com/track/49A4p9a2240E6UimcrBNFf"
@@ -7488,6 +7564,24 @@
       "duration_ms": 436866,
       "name": "Master of Puppets",
       "url": "https://open.spotify.com/track/1c2FRiii9YxnFACFbJVZLg"
+    },
+    {
+      "album": {
+        "name": "Masterpiece",
+        "url": "https://open.spotify.com/album/6373Y9u2AdwwlriIYwnsYg"
+      },
+      "artists": [
+        {
+          "name": "R2R MOE",
+          "url": "https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147750,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/0MF9Ou33Xrn2bcGio8QKvM"
     },
     {
       "album": {
@@ -8227,6 +8321,24 @@
     },
     {
       "album": {
+        "name": "Stabbing the drama",
+        "url": "https://open.spotify.com/album/5paSnseHzLVGT2a0qucycX"
+      },
+      "artists": [
+        {
+          "name": "Soilwork",
+          "url": "https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218746,
+      "name": "Nerve",
+      "url": "https://open.spotify.com/track/5ha26QNB14OfAVXRltktnu"
+    },
+    {
+      "album": {
         "name": "Restoring Force: Full Circle",
         "url": "https://open.spotify.com/album/2MqYypIxDlwcPNc1T90fO2"
       },
@@ -8758,6 +8870,24 @@
       "duration_ms": 504573,
       "name": "One - Live",
       "url": "https://open.spotify.com/track/4CmrcfuMSvYWamYrbYTT50"
+    },
+    {
+      "album": {
+        "name": "Killswitch Engage (Expanded Edition) [2004 Remaster]",
+        "url": "https://open.spotify.com/album/1MgyBHsiad6REK9veCUATT"
+      },
+      "artists": [
+        {
+          "name": "Killswitch Engage",
+          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229946,
+      "name": "One Last Sunset - 2004 Remaster",
+      "url": "https://open.spotify.com/track/3SSng89sBMtu8dmuMH97mf"
     },
     {
       "album": {
@@ -9916,7 +10046,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 199410,
       "name": "Rise - Acoustic",
       "url": "https://open.spotify.com/track/3QyOcn34X7dp5rSj4WpdBG"
@@ -10050,6 +10180,24 @@
       "duration_ms": 228333,
       "name": "Rose of Sharyn - Live",
       "url": "https://open.spotify.com/track/7HMPxuJISTHEbyo7LKB4Df"
+    },
+    {
+      "album": {
+        "name": "The Rolling Stones Singles Box Set (1971-2006) [Sampler]",
+        "url": "https://open.spotify.com/album/6In2W0PN0sp3DjhjmbRuQ5"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255533,
+      "name": "Ruby Tuesday - Live",
+      "url": "https://open.spotify.com/track/0Y4YtiiOeHlaoLvJ2GVHtT"
     },
     {
       "album": {
@@ -10410,6 +10558,42 @@
       "duration_ms": 45840,
       "name": "Seven Dreaming Souls",
       "url": "https://open.spotify.com/track/7ytRLa75TL8aFrp6nOWDn7"
+    },
+    {
+      "album": {
+        "name": "Don't You Fake It",
+        "url": "https://open.spotify.com/album/6TyPSzd5rA2rQ9yLJJ1Gg2"
+      },
+      "artists": [
+        {
+          "name": "The Red Jumpsuit Apparatus",
+          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202266,
+      "name": "Seventeen Ain't So Sweet",
+      "url": "https://open.spotify.com/track/5IDX0MHaL3YTD53qWDphYZ"
+    },
+    {
+      "album": {
+        "name": "Lucidity",
+        "url": "https://open.spotify.com/album/57bvcWwg4FSZSqAm7scTWv"
+      },
+      "artists": [
+        {
+          "name": "Delain",
+          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291820,
+      "name": "Sever",
+      "url": "https://open.spotify.com/track/5Mz3EKdoO6ZqjUKsaKZdNn"
     },
     {
       "album": {
@@ -11424,7 +11608,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 329840,
       "name": "Symphony Of Destruction - Demo",
       "url": "https://open.spotify.com/track/0QtwMdKESlYdMUTAcYyC7m"
@@ -11500,6 +11684,24 @@
       "duration_ms": 214752,
       "name": "TANDANG",
       "url": "https://open.spotify.com/track/2sjNju4iGLiOjRrePWWKU0"
+    },
+    {
+      "album": {
+        "name": "Joan Sebastian Con Mariachi",
+        "url": "https://open.spotify.com/album/7Ml2mSF97d0zz3mDCKdx9M"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211255,
+      "name": "Tatuajes",
+      "url": "https://open.spotify.com/track/57dG9il4j7Hi7G8Cqgi0Ts"
     },
     {
       "album": {
@@ -11886,6 +12088,24 @@
       "duration_ms": 366426,
       "name": "The Duelists - 1998 Remastered Version",
       "url": "https://open.spotify.com/track/5WRkRjKhQpSieXHGX35T7V"
+    },
+    {
+      "album": {
+        "name": "Alive or Just Breathing (Topshelf Edition)",
+        "url": "https://open.spotify.com/album/7BFo7PKlK9oCPJVPEzNJy7"
+      },
+      "artists": [
+        {
+          "name": "Killswitch Engage",
+          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248733,
+      "name": "The Element of One",
+      "url": "https://open.spotify.com/track/5M4V45fWkpBq9ELxkG7Tnz"
     },
     {
       "album": {

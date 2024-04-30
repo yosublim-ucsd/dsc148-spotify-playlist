@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-349 songs - 17 hr 20 min
+350 songs - 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Can You Hear The Music](https://open.spotify.com/track/4VnDmjYCZkyeqeb0NIKqdA) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Oppenheimer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0rwbMKjNkp4ehQTwf9V2Jk) | 1:50 | 2023-07-21 |  |
 | [Captain Jefferson](https://open.spotify.com/track/5X6b1ySSqzJm4qLw0fqs5n) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [News Of The World \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6v1bOteXExLs8oA8epNRuc) | 2:06 | 2021-12-20 | 2022-07-09 |
 | [Caught By A Wave](https://open.spotify.com/track/54dPWaHFt8Vmxt4IA11Cos) | [Yakamoto Kotzuga](https://open.spotify.com/artist/22qhpajwD1PWjCwIuZcien) | [Caught By A Wave \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/02kfXQ7hVbDvavFDgX26di) | 2:32 | 2021-12-20 |  |
+| [Challengers: Match Point](https://open.spotify.com/track/7kSmQCEQHvSYrUUyPpAz8n) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Challengers \(Original Score\)](https://open.spotify.com/album/2NHhf3qtcoVPDEb03G8RFv) | 5:02 | 2024-04-29 |  |
 | [Citadel \(Main Title Theme\)](https://open.spotify.com/track/3koRMFxZIBO9iDCDLRUmnF) | [Alex Belcher](https://open.spotify.com/artist/0lsKvalwJ8SAijtf12uSsm) | [Citadel \(Main Title Theme\)](https://open.spotify.com/album/7oSSjZIbIAgsDXEsmXuwrf) | 1:19 | 2023-04-28 |  |
 | [Citadel \(Main Title Theme\)](https://open.spotify.com/track/6HB5R1sNMWYJ5eRqCWTPqo) | [Alex Belcher](https://open.spotify.com/artist/0lsKvalwJ8SAijtf12uSsm) | [Citadel \(Prime Video Original Series Soundtrack\)](https://open.spotify.com/album/6UkcvITuPnTmXnkwfoo0tH) | 1:19 | 2023-05-05 | 2024-04-19 |
 | [Clothes From Miss Mabel \- From The Motion Picture “Where The Crawdads Sing”](https://open.spotify.com/track/0rfaeL0QdlX5xMUjlPVTeD) | [Mychael Danna](https://open.spotify.com/artist/0x8J72N9ilqcIZbWEKB8T2) | [Where The Crawdads Sing \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lQ5wsZNHhqbj3yZJ9wzD0) | 1:38 | 2022-07-15 |  |

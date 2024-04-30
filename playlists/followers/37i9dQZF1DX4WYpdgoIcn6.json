@@ -1,5 +1,5 @@
 {
-  "2024-04-29": 8990992,
+  "2024-04-30": 8988438,
   "date_first_scraped": "2019-05-25",
   "description": "Kick back to the best new and recent chill hits.",
   "name": "Chill Hits",
@@ -1071,7 +1071,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-24",
+      "date_removed": null,
       "duration_ms": 202106,
       "name": "Back To My Bed",
       "url": "https://open.spotify.com/track/0NHBjddjKTkJQvEb5oTilt"
@@ -16067,7 +16067,7 @@
       ],
       "date_added": "2020-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 193795,
       "name": "To Die For",
       "url": "https://open.spotify.com/track/2ZTYlnhhV1UAReg7wIGolx"

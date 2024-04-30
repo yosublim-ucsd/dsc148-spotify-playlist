@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house. Cover: ero808",
-  "num_followers": 443485,
+  "num_followers": 443395,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Ravers Bounce",
-        "url": "https://open.spotify.com/album/0nj0CJnBAKK7gkrXQgczxi"
-      },
-      "artists": [
-        {
-          "name": "BRANDON",
-          "url": "https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY"
-        },
-        {
-          "name": "Lackmus",
-          "url": "https://open.spotify.com/artist/54ryBVbl5CbgFmiXixV6C1"
-        }
-      ],
-      "duration_ms": 195357,
-      "name": "Ravers Bounce",
-      "url": "https://open.spotify.com/track/7bfznmPsfkfVtbunCYBmQJ"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "BUBBLEGUM",
         "url": "https://open.spotify.com/album/0Wi614PbxDMUurzK8xJDwe"
       },
@@ -1355,22 +1335,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "I'm Drunk (feat. AMY MIY\u00da)",
-        "url": "https://open.spotify.com/album/0wuMHJgOAu6cCsJUyyMAta"
+        "name": "Ravers Bounce",
+        "url": "https://open.spotify.com/album/0nj0CJnBAKK7gkrXQgczxi"
       },
       "artists": [
         {
-          "name": "Yung Felix",
-          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
+          "name": "BRANDON",
+          "url": "https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY"
         },
         {
-          "name": "AMY MIY\u00da",
-          "url": "https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl"
+          "name": "Lackmus",
+          "url": "https://open.spotify.com/artist/54ryBVbl5CbgFmiXixV6C1"
         }
       ],
-      "duration_ms": 150234,
-      "name": "I'm Drunk (feat. AMY MIY\u00da)",
-      "url": "https://open.spotify.com/track/0WW8txqecanm76y5Je34nf"
+      "duration_ms": 195357,
+      "name": "Ravers Bounce",
+      "url": "https://open.spotify.com/track/7bfznmPsfkfVtbunCYBmQJ"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1395,6 +1375,26 @@
       "duration_ms": 140624,
       "name": "Sara Tonin feat. James Cole",
       "url": "https://open.spotify.com/track/2d1J4wehBvmheclNCk5ts5"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "I'm Drunk (feat. AMY MIY\u00da)",
+        "url": "https://open.spotify.com/album/0wuMHJgOAu6cCsJUyyMAta"
+      },
+      "artists": [
+        {
+          "name": "Yung Felix",
+          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
+        },
+        {
+          "name": "AMY MIY\u00da",
+          "url": "https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl"
+        }
+      ],
+      "duration_ms": 150234,
+      "name": "I'm Drunk (feat. AMY MIY\u00da)",
+      "url": "https://open.spotify.com/track/0WW8txqecanm76y5Je34nf"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "RUNRUNRUN",
-        "url": "https://open.spotify.com/album/29p8VgOkPJyTlZm7wQCGBW"
-      },
-      "artists": [
-        {
-          "name": "John Dahlb\u00e4ck",
-          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "RUNRUNRUN",
-      "url": "https://open.spotify.com/track/25j1nTCo0sKny12sNzPCiU"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Just Like You",
         "url": "https://open.spotify.com/album/0ZdhBVJmb92MDYVh4bQ4nA"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 196800,
       "name": "Ignite",
       "url": "https://open.spotify.com/track/1emuD0fT5F0ZnZLcoscLQO"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "RUNRUNRUN",
+        "url": "https://open.spotify.com/album/29p8VgOkPJyTlZm7wQCGBW"
+      },
+      "artists": [
+        {
+          "name": "John Dahlb\u00e4ck",
+          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "RUNRUNRUN",
+      "url": "https://open.spotify.com/track/25j1nTCo0sKny12sNzPCiU"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "You Make Me",
-        "url": "https://open.spotify.com/album/1QqaEIieI5lIpor6Qt9twT"
-      },
-      "artists": [
-        {
-          "name": "Black V Neck",
-          "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
-        }
-      ],
-      "duration_ms": 246562,
-      "name": "You Make Me",
-      "url": "https://open.spotify.com/track/5VmYFi3GhfCbNY2kfR9VPL"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Juice",
         "url": "https://open.spotify.com/album/5VhMBWzcMUppdo3UYpSTEP"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 156960,
       "name": "Juice",
       "url": "https://open.spotify.com/track/51dzsgG32Z9nPvSdpVwJ86"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "You Make Me",
+        "url": "https://open.spotify.com/album/1QqaEIieI5lIpor6Qt9twT"
+      },
+      "artists": [
+        {
+          "name": "Black V Neck",
+          "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
+        }
+      ],
+      "duration_ms": 246562,
+      "name": "You Make Me",
+      "url": "https://open.spotify.com/track/5VmYFi3GhfCbNY2kfR9VPL"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1803,6 +1803,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Certified",
+        "url": "https://open.spotify.com/album/0TyvVgpxn616G6DGoA25VK"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        }
+      ],
+      "duration_ms": 175492,
+      "name": "Certified",
+      "url": "https://open.spotify.com/track/6ZvL9vA6ZbSCNdpgdYjW12"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Bodymorph",
         "url": "https://open.spotify.com/album/50YeWlWfzOaFYPJjeQsqm3"
       },
@@ -1835,22 +1851,6 @@
       "duration_ms": 230977,
       "name": "Vibration",
       "url": "https://open.spotify.com/track/4613nvw3ll31NrUW5TCuSW"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Certified",
-        "url": "https://open.spotify.com/album/0TyvVgpxn616G6DGoA25VK"
-      },
-      "artists": [
-        {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        }
-      ],
-      "duration_ms": 175492,
-      "name": "Certified",
-      "url": "https://open.spotify.com/track/6ZvL9vA6ZbSCNdpgdYjW12"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "CC",
-        "url": "https://open.spotify.com/album/60ocrHUXevlcHluOIwKHn2"
-      },
-      "artists": [
-        {
-          "name": "Cherry Tooth",
-          "url": "https://open.spotify.com/artist/3neju4j8u80IBvGawKA3dv"
-        }
-      ],
-      "duration_ms": 180480,
-      "name": "CC",
-      "url": "https://open.spotify.com/track/7H8WpimtnwN9LB0vmBt3LG"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Sweat",
         "url": "https://open.spotify.com/album/1KKSoZJYVNx9DCEOtgG8nP"
       },
@@ -2027,22 +2011,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "LIMIT",
-        "url": "https://open.spotify.com/album/1gG2DU3odPahWbeJyA9jKU"
+        "name": "CC",
+        "url": "https://open.spotify.com/album/60ocrHUXevlcHluOIwKHn2"
       },
       "artists": [
         {
-          "name": "EVAN GIIA",
-          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
-        },
-        {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+          "name": "Cherry Tooth",
+          "url": "https://open.spotify.com/artist/3neju4j8u80IBvGawKA3dv"
         }
       ],
-      "duration_ms": 217142,
-      "name": "LIMIT",
-      "url": "https://open.spotify.com/track/76IbCTgkgm0t8PaX5x488g"
+      "duration_ms": 180480,
+      "name": "CC",
+      "url": "https://open.spotify.com/track/7H8WpimtnwN9LB0vmBt3LG"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2063,6 +2043,26 @@
       "duration_ms": 155437,
       "name": "Get Hype",
       "url": "https://open.spotify.com/track/2ijXRwJ28FfqOHqM1un4cq"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "LIMIT",
+        "url": "https://open.spotify.com/album/1gG2DU3odPahWbeJyA9jKU"
+      },
+      "artists": [
+        {
+          "name": "EVAN GIIA",
+          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+        },
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        }
+      ],
+      "duration_ms": 217142,
+      "name": "LIMIT",
+      "url": "https://open.spotify.com/track/76IbCTgkgm0t8PaX5x488g"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2107,22 +2107,26 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Badman Calling (feat. XO Man)",
-        "url": "https://open.spotify.com/album/6BFUj811bQcvESYVevPKPy"
+        "name": "Together",
+        "url": "https://open.spotify.com/album/0IGWaTyOw4z04uUdh38QLf"
       },
       "artists": [
         {
-          "name": "Saint Punk",
-          "url": "https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW"
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
         },
         {
-          "name": "Xo Man",
-          "url": "https://open.spotify.com/artist/5FY5CvkIgbORCgqPr1FsMG"
+          "name": "NuBass",
+          "url": "https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO"
+        },
+        {
+          "name": "Kaleena Zanders",
+          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
         }
       ],
-      "duration_ms": 162519,
-      "name": "Badman Calling (feat. XO Man)",
-      "url": "https://open.spotify.com/track/45qNoMn5mhess62JeqGM6v"
+      "duration_ms": 196000,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/4dknK9wbrEGJx5S2Re8SgU"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2147,26 +2151,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/0IGWaTyOw4z04uUdh38QLf"
+        "name": "Badman Calling (feat. XO Man)",
+        "url": "https://open.spotify.com/album/6BFUj811bQcvESYVevPKPy"
       },
       "artists": [
         {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+          "name": "Saint Punk",
+          "url": "https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW"
         },
         {
-          "name": "NuBass",
-          "url": "https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO"
-        },
-        {
-          "name": "Kaleena Zanders",
-          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+          "name": "Xo Man",
+          "url": "https://open.spotify.com/artist/5FY5CvkIgbORCgqPr1FsMG"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/4dknK9wbrEGJx5S2Re8SgU"
+      "duration_ms": 162519,
+      "name": "Badman Calling (feat. XO Man)",
+      "url": "https://open.spotify.com/track/45qNoMn5mhess62JeqGM6v"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2371,22 +2371,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Slide Thru",
-        "url": "https://open.spotify.com/album/1TV1C36NL9nWTCdnIWrSXG"
-      },
-      "artists": [
-        {
-          "name": "Damon Sharpe",
-          "url": "https://open.spotify.com/artist/3Woqe3KegExVyrEK1I6ITJ"
-        }
-      ],
-      "duration_ms": 157920,
-      "name": "Slide Thru",
-      "url": "https://open.spotify.com/track/6kjVQJPxwbN1Ihdk9H29ah"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/3qSY86gdQhHFFXnsZUWNHl"
       },
@@ -2399,6 +2383,22 @@
       "duration_ms": 138011,
       "name": "Closer",
       "url": "https://open.spotify.com/track/5qyNFGdbQxkYExSUeqVA9F"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/3dUjsKBowQ7pluKeIQddfI"
+      },
+      "artists": [
+        {
+          "name": "longstoryshort",
+          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
+        }
+      ],
+      "duration_ms": 170691,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/70B3son2BYaN2u1dTkIa2i"
     }
   ],
   "unique_name": "Nasty Bits",

@@ -1,5 +1,5 @@
 {
-  "2024-04-29": 107638,
+  "2024-04-30": 107631,
   "date_first_scraped": "2019-09-29",
   "description": "What Will the 2024 Song of the Summer Be!? Find out with the perfect soundtrack for the sweatiest season! Includes Summer 2023, 2022 editions &amp; bonus tracks.",
   "name": "Obama\u2019s Summer Playlist 2024",
@@ -3003,6 +3003,24 @@
       "duration_ms": 219333,
       "name": "Alright",
       "url": "https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs"
+    },
+    {
+      "album": {
+        "name": "I Should Coco",
+        "url": "https://open.spotify.com/album/4XeQWsW3K9qjfv5FP9Jtcv"
+      },
+      "artists": [
+        {
+          "name": "Supergrass",
+          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180880,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/5CQvKyzkWI7TnUu2oB9QZ0"
     },
     {
       "album": {
@@ -29869,7 +29887,7 @@
       ],
       "date_added": "2024-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 172264,
       "name": "La Diabla",
       "url": "https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf"
@@ -49666,6 +49684,28 @@
     },
     {
       "album": {
+        "name": "South Suburban Weekend",
+        "url": "https://open.spotify.com/album/1THsMEh2GXrpww296NKXdK"
+      },
+      "artists": [
+        {
+          "name": "Rubberband Girl",
+          "url": "https://open.spotify.com/artist/6qOThA4u1cN1OIn0sxHabV"
+        },
+        {
+          "name": "Caitlyn Scarlett",
+          "url": "https://open.spotify.com/artist/1Bztk1lPSvwiBJCujObyxU"
+        }
+      ],
+      "date_added": "2024-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170250,
+      "name": "South Suburban Weekend",
+      "url": "https://open.spotify.com/track/2bMy7ar4VpU4zqtDTEpDTz"
+    },
+    {
+      "album": {
         "name": "Does Not Exist",
         "url": "https://open.spotify.com/album/13ZII4JeJBUTFUbxwZxXyu"
       },
@@ -52819,6 +52859,24 @@
       "duration_ms": 180610,
       "name": "Tan Rico",
       "url": "https://open.spotify.com/track/56G56C4vvrRFevOLI9MNB6"
+    },
+    {
+      "album": {
+        "name": "Tangled",
+        "url": "https://open.spotify.com/album/5YQDPopNBRhZhkwNCIItco"
+      },
+      "artists": [
+        {
+          "name": "Thomas Jay",
+          "url": "https://open.spotify.com/artist/39Ji7aJQwGI9gZ0SGZCkRa"
+        }
+      ],
+      "date_added": "2024-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190861,
+      "name": "Tangled",
+      "url": "https://open.spotify.com/track/0xYf6xgcccmdR98usa57Bg"
     },
     {
       "album": {

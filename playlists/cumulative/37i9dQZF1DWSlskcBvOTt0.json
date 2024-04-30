@@ -7021,6 +7021,24 @@
     },
     {
       "album": {
+        "name": "Lovesong",
+        "url": "https://open.spotify.com/album/5epevNSjLdCBYEQB0YGDjd"
+      },
+      "artists": [
+        {
+          "name": "Super Flu",
+          "url": "https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220487,
+      "name": "Lovesong",
+      "url": "https://open.spotify.com/track/50KLPfmEn6dFFVpuM1VycK"
+    },
+    {
+      "album": {
         "name": "Fulgor",
         "url": "https://open.spotify.com/album/3dTBQ3DeErJkq1m1M64aCz"
       },
@@ -7798,7 +7816,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 387106,
       "name": "Miller",
       "url": "https://open.spotify.com/track/1QEaF95yg4u8p4KquK4z72"

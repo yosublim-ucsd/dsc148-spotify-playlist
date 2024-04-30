@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 
 > P fkn R\. Esto llega al choliiiii\. Cover: Remers
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,021 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,018 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 24 | [Nunca Me Tranco](https://open.spotify.com/track/0xy4rOyON5A4ObFhXC6BIJ) | [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ), [Pressure 9X19](https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF), [Slayter](https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn) | [Nunca Me Tranco](https://open.spotify.com/album/5PtfD5nKSHRcSj0rb7N66k) | 5:04 |
 | 25 | [Estilo Libre](https://open.spotify.com/track/0ZM3I8ddNM1MVWtixIch0f) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS), [Vico C](https://open.spotify.com/artist/0ciTdf9bGl9L3JM1Z0nLCT), [Big Daddy Kane](https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W) | [LAS LETRAS YA NO IMPORTAN](https://open.spotify.com/album/2VqfdamIWfwbBVzOzHJWs3) | 3:36 |
 | 26 | [Girasoles](https://open.spotify.com/track/5yDDG59RvEYqJzX032Q3dx) | [Baby City Club](https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h) | [Girasoles](https://open.spotify.com/album/6gmZ7hycaLVJlFBusgpDzo) | 5:08 |
-| 27 | [De Gira](https://open.spotify.com/track/4fI4D10M9c6eyFg6SFPbVH) | [787](https://open.spotify.com/artist/1u5hcjZmajeJpVbrU9wxXA), [Remers](https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb), [Laya Kalima](https://open.spotify.com/artist/486wYu7oGhLQ5LjKPBcCMM) | [De Gira](https://open.spotify.com/album/1jWSLXjSlnY8miYbEwhspB) | 2:17 |
+| 27 | [De Gira](https://open.spotify.com/track/4fI4D10M9c6eyFg6SFPbVH) | [787](https://open.spotify.com/artist/26QKSQX34xZqU7CbSZb1ff), [Remers](https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb), [Laya Kalima](https://open.spotify.com/artist/407ICkw3K7OL65OZWZskrj) | [De Gira](https://open.spotify.com/album/1jWSLXjSlnY8miYbEwhspB) | 2:17 |
 | 28 | [Deja Vù](https://open.spotify.com/track/2covVW1XBozR4rj9YL6iZZ) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [Deja Vù](https://open.spotify.com/album/0zrMR7X1sx6GEU8Jex0qSQ) | 3:07 |
 | 29 | [SuRFeRiTa](https://open.spotify.com/track/4LpMybAULc63UEa5sFGk3p) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL) | [SuRFeRiTa](https://open.spotify.com/album/1gIAVNiuLv55vH9a9zrwFP) | 3:07 |
 | 30 | [AsesinoNato](https://open.spotify.com/track/58M9yeJ9MKPVEGTTB64Mlh) | [Pressure 9X19](https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF), [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ), [Yecko](https://open.spotify.com/artist/24TdpOJQgBxkfnwZKox9zU) | [AsesinoNato](https://open.spotify.com/album/3CHh9i9iqarMc2iypYzbEb) | 2:33 |

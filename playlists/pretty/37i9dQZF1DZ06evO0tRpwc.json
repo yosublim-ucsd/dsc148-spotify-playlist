@@ -1,12 +1,12 @@
 {
   "description": "This is Daniela Ara\u00fajo. The essential tracks, all in one playlist.",
-  "num_followers": 38029,
+  "num_followers": 37982,
   "original_name": "This Is Daniela Ara\u00fajo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDE3NjAwMCwwMDAwMDAwMDYxMmVhZjk5MjNhNGJiZDdmYWIyNTg3ZTU5MzJjZmI2",
+  "snapshot_id": "MTcxNDI2MjQwMCwwMDAwMDAwMGYxNWExYWQ2ZjI1OWRiOTAzMTQ0NWQyM2I4OTQ2NjNk",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Anos (ao Vivo)",
-        "url": "https://open.spotify.com/album/6FqbT28o6hDsjrwq3WpS9V"
+        "name": "Manifesto",
+        "url": "https://open.spotify.com/album/63n7PZNCS45Ct2tKE29kNn"
       },
       "artists": [
         {
-          "name": "Davi Sacer",
-          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
-        },
-        {
           "name": "Daniela Ara\u00fajo",
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        },
+        {
+          "name": "Jorginho Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/4r2RITYiPz9BqPPNGNHJIs"
         }
       ],
-      "duration_ms": 361185,
-      "name": "Desejo do Meu Cora\u00e7\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/56YKz3uWPr5Pnj1itFWUsP"
+      "duration_ms": 141057,
+      "name": "Manifesto (Vers\u00e3o Afrobeat)",
+      "url": "https://open.spotify.com/track/0hUHZxjcHR0rZ0zAj7Ou6T"
     },
     {
       "added_at": null,
@@ -243,26 +247,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Manifesto",
-        "url": "https://open.spotify.com/album/63n7PZNCS45Ct2tKE29kNn"
+        "name": "15 Anos (ao Vivo)",
+        "url": "https://open.spotify.com/album/6FqbT28o6hDsjrwq3WpS9V"
       },
       "artists": [
         {
+          "name": "Davi Sacer",
+          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
+        },
+        {
           "name": "Daniela Ara\u00fajo",
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        },
-        {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        },
-        {
-          "name": "Jorginho Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/4r2RITYiPz9BqPPNGNHJIs"
         }
       ],
-      "duration_ms": 141057,
-      "name": "Manifesto (Vers\u00e3o Afrobeat)",
-      "url": "https://open.spotify.com/track/0hUHZxjcHR0rZ0zAj7Ou6T"
+      "duration_ms": 361185,
+      "name": "Desejo do Meu Cora\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/56YKz3uWPr5Pnj1itFWUsP"
     },
     {
       "added_at": null,
@@ -519,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ru\u00eddos",
-        "url": "https://open.spotify.com/album/7p4hTNtWgcYTcZZZc92LjX"
+        "name": "Daniela Ara\u00fajo",
+        "url": "https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ"
       },
       "artists": [
         {
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
         }
       ],
-      "duration_ms": 320760,
-      "name": "Ru\u00eddos",
-      "url": "https://open.spotify.com/track/0m46RBiDz3fsJHecdbwqwU"
+      "duration_ms": 248773,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/4aMAnyg0b8l4IWSamec9eg"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Daniela Ara\u00fajo",
-        "url": "https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ"
+        "name": "Ru\u00eddos",
+        "url": "https://open.spotify.com/album/7p4hTNtWgcYTcZZZc92LjX"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
         }
       ],
-      "duration_ms": 229565,
-      "name": "Conex\u00e3o",
-      "url": "https://open.spotify.com/track/4aBMjZM1g06xrRwlm16rjd"
+      "duration_ms": 320760,
+      "name": "Ru\u00eddos",
+      "url": "https://open.spotify.com/track/0m46RBiDz3fsJHecdbwqwU"
     },
     {
       "added_at": null,
@@ -591,22 +591,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Catarse: Lado B",
-        "url": "https://open.spotify.com/album/0VtThfRfXxZKzI1thF7PSt"
+        "name": "Daniela Ara\u00fajo",
+        "url": "https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ"
       },
       "artists": [
         {
           "name": "Daniela Ara\u00fajo",
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        },
-        {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
         }
       ],
-      "duration_ms": 217941,
-      "name": "Asas",
-      "url": "https://open.spotify.com/track/0dhtPfFgvM2IgIRbsO0Wn1"
+      "duration_ms": 229565,
+      "name": "Conex\u00e3o",
+      "url": "https://open.spotify.com/track/4aBMjZM1g06xrRwlm16rjd"
     },
     {
       "added_at": null,
@@ -627,18 +623,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Daniela Ara\u00fajo",
-        "url": "https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ"
+        "name": "Catarse: Lado B",
+        "url": "https://open.spotify.com/album/0VtThfRfXxZKzI1thF7PSt"
       },
       "artists": [
         {
           "name": "Daniela Ara\u00fajo",
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
         }
       ],
-      "duration_ms": 248773,
-      "name": "Tempo",
-      "url": "https://open.spotify.com/track/4aMAnyg0b8l4IWSamec9eg"
+      "duration_ms": 217941,
+      "name": "Asas",
+      "url": "https://open.spotify.com/track/0dhtPfFgvM2IgIRbsO0Wn1"
     },
     {
       "added_at": null,
@@ -663,26 +663,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00fasica Favorita (\u00c1gua)",
-        "url": "https://open.spotify.com/album/0eyz2DKPN8JHZ96BkXom3l"
+        "name": "La Luz",
+        "url": "https://open.spotify.com/album/1XFGH2sQhe9oIJIVMjrnsN"
       },
       "artists": [
         {
+          "name": "Vaes",
+          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
+        },
+        {
           "name": "Daniela Ara\u00fajo",
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        },
-        {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        },
-        {
-          "name": "Jorginho Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/4r2RITYiPz9BqPPNGNHJIs"
         }
       ],
-      "duration_ms": 253636,
-      "name": "M\u00fasica Favorita \u267e",
-      "url": "https://open.spotify.com/track/6BhiOuSlMS1LtazjK2XfDQ"
+      "duration_ms": 180188,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/1Cq27FmPcRhjg35dsPKUjx"
     },
     {
       "added_at": null,
@@ -703,22 +699,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Luz",
-        "url": "https://open.spotify.com/album/1XFGH2sQhe9oIJIVMjrnsN"
+        "name": "M\u00fasica Favorita (\u00c1gua)",
+        "url": "https://open.spotify.com/album/0eyz2DKPN8JHZ96BkXom3l"
       },
       "artists": [
         {
-          "name": "Vaes",
-          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
-        },
-        {
           "name": "Daniela Ara\u00fajo",
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        },
+        {
+          "name": "Jorginho Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/4r2RITYiPz9BqPPNGNHJIs"
         }
       ],
-      "duration_ms": 180188,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/1Cq27FmPcRhjg35dsPKUjx"
+      "duration_ms": 253636,
+      "name": "M\u00fasica Favorita \u267e",
+      "url": "https://open.spotify.com/track/6BhiOuSlMS1LtazjK2XfDQ"
     },
     {
       "added_at": null,
@@ -923,6 +923,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Personagem",
+        "url": "https://open.spotify.com/album/3ExpHCyW6irXDy4VccZvUi"
+      },
+      "artists": [
+        {
+          "name": "Marias",
+          "url": "https://open.spotify.com/artist/6yDG1IZDMLxh1M82PFOLgM"
+        },
+        {
+          "name": "Nai Lopes",
+          "url": "https://open.spotify.com/artist/5t6uGEJEod3b2Lgy5HFN6J"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 145024,
+      "name": "Personagem",
+      "url": "https://open.spotify.com/track/4sN879tIJhd7i88yBxQlnH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Agosto",
         "url": "https://open.spotify.com/album/0prdRbt3UnxKHVvWB4gkR2"
       },
@@ -955,30 +979,6 @@
       "duration_ms": 242683,
       "name": "Junho",
       "url": "https://open.spotify.com/track/2fOehLLcslyjeaI4QKP35A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Personagem",
-        "url": "https://open.spotify.com/album/3ExpHCyW6irXDy4VccZvUi"
-      },
-      "artists": [
-        {
-          "name": "Marias",
-          "url": "https://open.spotify.com/artist/6yDG1IZDMLxh1M82PFOLgM"
-        },
-        {
-          "name": "Nai Lopes",
-          "url": "https://open.spotify.com/artist/5t6uGEJEod3b2Lgy5HFN6J"
-        },
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 145024,
-      "name": "Personagem",
-      "url": "https://open.spotify.com/track/4sN879tIJhd7i88yBxQlnH"
     }
   ],
   "unique_name": "This Is Daniela Ara\u00fajo",

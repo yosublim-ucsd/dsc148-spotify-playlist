@@ -1,5 +1,5 @@
 {
-  "2024-04-29": 1216,
+  "2024-04-30": 1269,
   "date_first_scraped": "2024-04-02",
   "description": "\u5b9f\u5199\u6620\u753b\u300c<a href=\"https://gaga.ne.jp/buzzynoise_movie/\">\u30d0\u30b8\u30fc\u30ce\u30a4\u30ba</a>\u300d5\u67083\u65e5\u516c\u958b\uff01\u4f5c\u8005 \u3080\u3064\u304d\u6f64\u306b\u3088\u308b\u9078\u66f2\u306e\u30aa\u30d5\u30a3\u30b7\u30e3\u30eb\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u304c\u5230\u7740\u3002/ The official playlist selected by Mutsuki Jun. ",
   "name": "BUZZY NOISE \u30d0\u30b8\u30fc\u30ce\u30a4\u30ba",
@@ -209,6 +209,28 @@
       "duration_ms": 317258,
       "name": "Heartbreak at Dawn",
       "url": "https://open.spotify.com/track/6kRpYg4wxkNmT0bUdIjXc9"
+    },
+    {
+      "album": {
+        "name": "surge (single edit)",
+        "url": "https://open.spotify.com/album/5cHhtcIfWnqNj35VoCWSAw"
+      },
+      "artists": [
+        {
+          "name": "\u6e05\u6f84",
+          "url": "https://open.spotify.com/artist/6y8ZFFPpyGfjVeeqAaIzmY"
+        },
+        {
+          "name": "Takumi Kawanishi",
+          "url": "https://open.spotify.com/artist/3O8CN28tWSzQszV5K3pi2h"
+        }
+      ],
+      "date_added": "2024-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/0UqPRGBSsjAAG5tP6ZSNVl"
     },
     {
       "album": {
@@ -620,6 +642,28 @@
     },
     {
       "album": {
+        "name": "surge (single edit)",
+        "url": "https://open.spotify.com/album/5cHhtcIfWnqNj35VoCWSAw"
+      },
+      "artists": [
+        {
+          "name": "\u6e05\u6f84",
+          "url": "https://open.spotify.com/artist/6y8ZFFPpyGfjVeeqAaIzmY"
+        },
+        {
+          "name": "Takumi Kawanishi",
+          "url": "https://open.spotify.com/artist/3O8CN28tWSzQszV5K3pi2h"
+        }
+      ],
+      "date_added": "2024-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397827,
+      "name": "surge (single edit)",
+      "url": "https://open.spotify.com/track/2QmfJsRUsAlcW9wL0MiA6f"
+    },
+    {
+      "album": {
         "name": "Talk\uff1a\u3080\u3064\u304d\u6f64\u3001\u98a8\u9593\u592a\u6a39",
         "url": "https://open.spotify.com/album/4DfYg7NmOUqBu7OKg3Rc7E"
       },
@@ -941,6 +985,24 @@
       "duration_ms": 251480,
       "name": "\u30e2\u30ce\u30ed\u30fc\u30b0",
       "url": "https://open.spotify.com/track/28hm427YkOm24SGkOngxSX"
+    },
+    {
+      "album": {
+        "name": "\u53cb\u3060\u3061\u3092\u6bba\u3057\u3066\u307e\u3067\u3002",
+        "url": "https://open.spotify.com/album/4t1mPPWuh9l6dBURwzZicw"
+      },
+      "artists": [
+        {
+          "name": "Shinsei Kamattechan",
+          "url": "https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo"
+        }
+      ],
+      "date_added": "2024-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "\u30ed\u30c3\u30af\u30f3\u30ed\u30fc\u30eb\u306f\u9cf4\u308a\u6b62\u307e\u306a\u3044\u3063",
+      "url": "https://open.spotify.com/track/35VEMDOASF9TfAbl3U64Eu"
     },
     {
       "album": {

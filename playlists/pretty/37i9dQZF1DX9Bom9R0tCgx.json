@@ -1,13 +1,29 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 374236,
+  "num_followers": 374301,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDA4MjQwMCwwMDAwMDAwMDcyYmI3ODE4NGFhOWI5ZWEyZDE5Zjk5YTk3YjBkYjZj",
+  "snapshot_id": "MTcxNDM5MzQ5OSwwMDAwMDAwMDZlYTA3MjczMmExODZlYTE5MmM4M2JlOTA0NWFlNzFi",
   "tracks": [
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Meet Her At The Love Parade",
+        "url": "https://open.spotify.com/album/5CuURz3pJ1ewpqfpAMa2fO"
+      },
+      "artists": [
+        {
+          "name": "Alfons",
+          "url": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
+        }
+      ],
+      "duration_ms": 116388,
+      "name": "Meet Her At The Love Parade",
+      "url": "https://open.spotify.com/track/4wobkmDH2DEWyyRc2B3XtO"
+    },
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
@@ -31,22 +47,6 @@
       "duration_ms": 144846,
       "name": "Pedro",
       "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
-        "name": "Meet Her At The Love Parade",
-        "url": "https://open.spotify.com/album/5CuURz3pJ1ewpqfpAMa2fO"
-      },
-      "artists": [
-        {
-          "name": "Alfons",
-          "url": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
-        }
-      ],
-      "duration_ms": 116388,
-      "name": "Meet Her At The Love Parade",
-      "url": "https://open.spotify.com/track/4wobkmDH2DEWyyRc2B3XtO"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/0s6xr1TAPOzNXYNEmlHksU"
-      },
-      "artists": [
-        {
-          "name": "DJSM",
-          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
-        }
-      ],
-      "duration_ms": 132700,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/2uoaR6QNRYMB0zu0cUcM65"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
         "name": "Diamonds On My Mind",
         "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 168529,
       "name": "Diamonds On My Mind",
       "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/0s6xr1TAPOzNXYNEmlHksU"
+      },
+      "artists": [
+        {
+          "name": "DJSM",
+          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
+        }
+      ],
+      "duration_ms": 132700,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/2uoaR6QNRYMB0zu0cUcM65"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Konye",
-        "url": "https://open.spotify.com/album/5oFI4EwwA2PTziier9QY8z"
-      },
-      "artists": [
-        {
-          "name": "DJSM",
-          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
-        }
-      ],
-      "duration_ms": 164754,
-      "name": "Konye",
-      "url": "https://open.spotify.com/track/1jskS0QmpYtvf9yNcN9qzg"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
         "name": "Would I Lie To You",
         "url": "https://open.spotify.com/album/7F8t51dGpDj5QaGoqWXMRU"
       },
@@ -879,6 +863,22 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
+        "name": "Konye",
+        "url": "https://open.spotify.com/album/5oFI4EwwA2PTziier9QY8z"
+      },
+      "artists": [
+        {
+          "name": "DJSM",
+          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
+        }
+      ],
+      "duration_ms": 164754,
+      "name": "Konye",
+      "url": "https://open.spotify.com/track/1jskS0QmpYtvf9yNcN9qzg"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
         "name": "Jump Dance Move Bounce",
         "url": "https://open.spotify.com/album/7uqDX4ot0zHwEAG4OpLjby"
       },
@@ -923,26 +923,6 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Round Round",
-        "url": "https://open.spotify.com/album/4e7zsUUHx3IvraiPsvirT7"
-      },
-      "artists": [
-        {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
-        },
-        {
-          "name": "Gigi Russ",
-          "url": "https://open.spotify.com/artist/54TtQ6BIKwjmQsV3yX2NeB"
-        }
-      ],
-      "duration_ms": 226259,
-      "name": "Round Round",
-      "url": "https://open.spotify.com/track/4hB0gb4KGm17u266JD5pbc"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/4fJva6bj8LgmJP3fh2oQKx"
       },
@@ -967,6 +947,26 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
+        "name": "Round Round",
+        "url": "https://open.spotify.com/album/4e7zsUUHx3IvraiPsvirT7"
+      },
+      "artists": [
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        },
+        {
+          "name": "Gigi Russ",
+          "url": "https://open.spotify.com/artist/54TtQ6BIKwjmQsV3yX2NeB"
+        }
+      ],
+      "duration_ms": 226259,
+      "name": "Round Round",
+      "url": "https://open.spotify.com/track/4hB0gb4KGm17u266JD5pbc"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
         "name": "9mm",
         "url": "https://open.spotify.com/album/3sci6Sx5qkPpOxTVYXYzxD"
       },
@@ -979,30 +979,6 @@
       "duration_ms": 237928,
       "name": "9mm",
       "url": "https://open.spotify.com/track/1g1SuDg4vUq9u0J7V142Zx"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
-        "name": "OneHundred",
-        "url": "https://open.spotify.com/album/34vgp24d0jYG1SzSkgP3uE"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        },
-        {
-          "name": "CANCUN?",
-          "url": "https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w"
-        },
-        {
-          "name": "Matt Hawk",
-          "url": "https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg"
-        }
-      ],
-      "duration_ms": 189376,
-      "name": "OneHundred",
-      "url": "https://open.spotify.com/track/5SNvyCJJ5OLKDLQza2EPLP"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -1031,6 +1007,30 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
+        "name": "OneHundred",
+        "url": "https://open.spotify.com/album/34vgp24d0jYG1SzSkgP3uE"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        },
+        {
+          "name": "CANCUN?",
+          "url": "https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w"
+        },
+        {
+          "name": "Matt Hawk",
+          "url": "https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg"
+        }
+      ],
+      "duration_ms": 189376,
+      "name": "OneHundred",
+      "url": "https://open.spotify.com/track/5SNvyCJJ5OLKDLQza2EPLP"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
         "name": "Little Lies",
         "url": "https://open.spotify.com/album/1H1GJEjVgFwKc9BdxtLLKy"
       },
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Black Ice",
-        "url": "https://open.spotify.com/album/24bVVflh1w44yZSCZBtMME"
-      },
-      "artists": [
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        }
-      ],
-      "duration_ms": 260001,
-      "name": "Black Ice",
-      "url": "https://open.spotify.com/track/1oacAKa5ReNOfuqaJ1gdBJ"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
         "name": "Satellite",
         "url": "https://open.spotify.com/album/07VhUtgyRdGGmMeo5lN5CW"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 205116,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/3tHCG0ISOA0pXscIdNrJml"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Black Ice",
+        "url": "https://open.spotify.com/album/24bVVflh1w44yZSCZBtMME"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        }
+      ],
+      "duration_ms": 260001,
+      "name": "Black Ice",
+      "url": "https://open.spotify.com/track/1oacAKa5ReNOfuqaJ1gdBJ"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Paranoid",
-        "url": "https://open.spotify.com/album/7tjjNI3iFSjbkBqcS8NyVp"
-      },
-      "artists": [
-        {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
-        }
-      ],
-      "duration_ms": 174565,
-      "name": "Paranoid",
-      "url": "https://open.spotify.com/track/7MriQOSzV5A9qvD2qWHah5"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
         "name": "My Body (feat. Y&M)",
         "url": "https://open.spotify.com/album/4BsjnI1ksUfBQbOZXXL0PL"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 160024,
       "name": "My Body (feat. Y&M)",
       "url": "https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/7tjjNI3iFSjbkBqcS8NyVp"
+      },
+      "artists": [
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        }
+      ],
+      "duration_ms": 174565,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/7MriQOSzV5A9qvD2qWHah5"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -1503,6 +1503,26 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
+        "name": "Stumblin' In (LUNAX Remix)",
+        "url": "https://open.spotify.com/album/5b3URVxK37W2advy0gEdj6"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Stumblin' In (LUNAX Remix)",
+      "url": "https://open.spotify.com/track/4ZySJNZ7LRTlPFhzBHs2oV"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
         "name": "Run (Part 1)",
         "url": "https://open.spotify.com/album/1NqOxMj2QqMhgne014NwQs"
       },
@@ -1543,6 +1563,22 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
+        "name": "GASOLINA & COCAINA",
+        "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        }
+      ],
+      "duration_ms": 192390,
+      "name": "GASOLINA & COCAINA",
+      "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
         "name": "Spiritum",
         "url": "https://open.spotify.com/album/3DLisv8F3tPRnqRgAwPmxn"
       },
@@ -1567,42 +1603,6 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "GASOLINA & COCAINA",
-        "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        }
-      ],
-      "duration_ms": 192390,
-      "name": "GASOLINA & COCAINA",
-      "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
-        "name": "Stumblin' In (LUNAX Remix)",
-        "url": "https://open.spotify.com/album/5b3URVxK37W2advy0gEdj6"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        },
-        {
-          "name": "LUNAX",
-          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Stumblin' In (LUNAX Remix)",
-      "url": "https://open.spotify.com/track/4ZySJNZ7LRTlPFhzBHs2oV"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/7ioeb14iIitWm03e7K9eXq"
       },
@@ -1619,22 +1619,18 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Thunder",
-        "url": "https://open.spotify.com/album/3qbJJopxn88dscIj4hMMOl"
+        "name": "Light",
+        "url": "https://open.spotify.com/album/3LjR2gCeVeFzoOV6DK7qZQ"
       },
       "artists": [
         {
           "name": "Will Sparks",
           "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
-        },
-        {
-          "name": "AVAO",
-          "url": "https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw"
         }
       ],
-      "duration_ms": 188571,
-      "name": "Thunder",
-      "url": "https://open.spotify.com/track/5mASStSnLfAz7JvHV5kSyx"
+      "duration_ms": 195909,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/2KFxQFG0DWSQ4GPw8InpUL"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -1823,18 +1819,22 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Light",
-        "url": "https://open.spotify.com/album/3LjR2gCeVeFzoOV6DK7qZQ"
+        "name": "Thunder",
+        "url": "https://open.spotify.com/album/3qbJJopxn88dscIj4hMMOl"
       },
       "artists": [
         {
           "name": "Will Sparks",
           "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        },
+        {
+          "name": "AVAO",
+          "url": "https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw"
         }
       ],
-      "duration_ms": 195909,
-      "name": "Light",
-      "url": "https://open.spotify.com/track/2KFxQFG0DWSQ4GPw8InpUL"
+      "duration_ms": 188571,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/5mASStSnLfAz7JvHV5kSyx"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -1875,26 +1875,6 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Frikitona (Slowboy Remix)",
-        "url": "https://open.spotify.com/album/7AoJKxer9fWPnOonk3DtMA"
-      },
-      "artists": [
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        },
-        {
-          "name": "Slowboy",
-          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
-        }
-      ],
-      "duration_ms": 138750,
-      "name": "Frikitona - Slowboy Remix",
-      "url": "https://open.spotify.com/track/07Ts6jLwH9HjpfPPADlCEg"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
         "name": "Satellite (Tweekacore Remix)",
         "url": "https://open.spotify.com/album/3pHZPSyb1HuyDVDPBVNX28"
       },
@@ -1915,6 +1895,50 @@
       "duration_ms": 221854,
       "name": "Satellite - Tweekacore Remix",
       "url": "https://open.spotify.com/track/1FSZYa6qb0Is7SBxu3Psyi"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Frikitona (Slowboy Remix)",
+        "url": "https://open.spotify.com/album/7AoJKxer9fWPnOonk3DtMA"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        },
+        {
+          "name": "Slowboy",
+          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
+        }
+      ],
+      "duration_ms": 138750,
+      "name": "Frikitona - Slowboy Remix",
+      "url": "https://open.spotify.com/track/07Ts6jLwH9HjpfPPADlCEg"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Bouncing Ball",
+        "url": "https://open.spotify.com/album/0KbRzjlCzX7w8yiMmPnOEq"
+      },
+      "artists": [
+        {
+          "name": "Reinier Zonneveld",
+          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
+        },
+        {
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+        },
+        {
+          "name": "Push",
+          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
+        }
+      ],
+      "duration_ms": 236666,
+      "name": "Bouncing Ball",
+      "url": "https://open.spotify.com/track/6vRFwAcJORICksCg3NNSxY"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -1943,30 +1967,6 @@
       "duration_ms": 227463,
       "name": "LIFT ME UP",
       "url": "https://open.spotify.com/track/7LNiEbgn9x43HQGQywRoYC"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
-        "name": "Bouncing Ball",
-        "url": "https://open.spotify.com/album/0KbRzjlCzX7w8yiMmPnOEq"
-      },
-      "artists": [
-        {
-          "name": "Reinier Zonneveld",
-          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
-        },
-        {
-          "name": "Hannah Laing",
-          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
-        },
-        {
-          "name": "Push",
-          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
-        }
-      ],
-      "duration_ms": 236666,
-      "name": "Bouncing Ball",
-      "url": "https://open.spotify.com/track/6vRFwAcJORICksCg3NNSxY"
     },
     {
       "added_at": "2024-04-25 22:00:00",

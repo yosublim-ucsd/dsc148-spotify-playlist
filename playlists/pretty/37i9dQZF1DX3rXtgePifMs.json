@@ -1,6 +1,6 @@
 {
   "description": "The official EA SPORTS FC 24 Soundtrack.",
-  "num_followers": 92529,
+  "num_followers": 92626,
   "original_name": "EA SPORTS FC 24 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Wake Up & It's Over",
-        "url": "https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr"
-      },
-      "artists": [
-        {
-          "name": "Lovejoy",
-          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
-        }
-      ],
-      "duration_ms": 227546,
-      "name": "Portrait of a Blank Slate",
-      "url": "https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Angry",
         "url": "https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 226735,
       "name": "Angry",
       "url": "https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Wake Up & It's Over",
+        "url": "https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr"
+      },
+      "artists": [
+        {
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+        }
+      ],
+      "duration_ms": 227546,
+      "name": "Portrait of a Blank Slate",
+      "url": "https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "A STRANGER",
-        "url": "https://open.spotify.com/album/0o3v4DaaAydiFZLv9nsUeC"
-      },
-      "artists": [
-        {
-          "name": "DAMEDAME*",
-          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
-        }
-      ],
-      "duration_ms": 167391,
-      "name": "A STRANGER",
-      "url": "https://open.spotify.com/track/6t26Su0fcxR2tbHzNfzE8I"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Streets, Love & Other Stuff",
         "url": "https://open.spotify.com/album/0IRmR8wXEPXWsqy84EbKIh"
       },
@@ -1079,6 +1063,38 @@
       "duration_ms": 201733,
       "name": "Lowkey",
       "url": "https://open.spotify.com/track/4FC7fcZ5RexxLbWNrOq6aq"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "A STRANGER",
+        "url": "https://open.spotify.com/album/0o3v4DaaAydiFZLv9nsUeC"
+      },
+      "artists": [
+        {
+          "name": "DAMEDAME*",
+          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
+        }
+      ],
+      "duration_ms": 167391,
+      "name": "A STRANGER",
+      "url": "https://open.spotify.com/track/6t26Su0fcxR2tbHzNfzE8I"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "duration_ms": 243354,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/4ZyCS7eIVZBB4BIkF9UGfW"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1103,22 +1119,6 @@
       "duration_ms": 155071,
       "name": "Why You Waiting?",
       "url": "https://open.spotify.com/track/4NS6mjfccw3m9fPYLCKa53"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
-      },
-      "artists": [
-        {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
-        }
-      ],
-      "duration_ms": 243354,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/4ZyCS7eIVZBB4BIkF9UGfW"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Pinking Shears",
-        "url": "https://open.spotify.com/album/5tEQyQksm6Hx1QPpvr8NYK"
-      },
-      "artists": [
-        {
-          "name": "Mandy, Indiana",
-          "url": "https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u"
-        }
-      ],
-      "duration_ms": 152420,
-      "name": "Pinking Shears",
-      "url": "https://open.spotify.com/track/25nJyg6wnbRLN1zkmbX8cF"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "The World\u2019s Biggest Paving Slab",
         "url": "https://open.spotify.com/album/3ducN0Lrdg8qwP5xnoJ5X6"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 185471,
       "name": "The World's Biggest Paving Slab",
       "url": "https://open.spotify.com/track/0BrPXLcu7IavDEzSU7YwSo"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Pinking Shears",
+        "url": "https://open.spotify.com/album/5tEQyQksm6Hx1QPpvr8NYK"
+      },
+      "artists": [
+        {
+          "name": "Mandy, Indiana",
+          "url": "https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u"
+        }
+      ],
+      "duration_ms": 152420,
+      "name": "Pinking Shears",
+      "url": "https://open.spotify.com/track/25nJyg6wnbRLN1zkmbX8cF"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "We Are The Ones (FC24 Version)",
-        "url": "https://open.spotify.com/album/0PgSzrzBZiMHbOGQVFKUuO"
-      },
-      "artists": [
-        {
-          "name": "King",
-          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
-        }
-      ],
-      "duration_ms": 135950,
-      "name": "We Are The Ones - FC24 Version",
-      "url": "https://open.spotify.com/track/0e9puAKZblpFaZyEZ0ZcJ6"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Tings My Way",
         "url": "https://open.spotify.com/album/5ljS6V83W1O00uaXLFRYW5"
       },
@@ -1719,6 +1703,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "We Are The Ones (FC24 Version)",
+        "url": "https://open.spotify.com/album/0PgSzrzBZiMHbOGQVFKUuO"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        }
+      ],
+      "duration_ms": 135950,
+      "name": "We Are The Ones - FC24 Version",
+      "url": "https://open.spotify.com/track/0e9puAKZblpFaZyEZ0ZcJ6"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "FIST IN THE SKY (feat. Jordan Mackampa)",
         "url": "https://open.spotify.com/album/1KZV8Ywiz12q19o5rtFMoU"
       },
@@ -1735,30 +1735,6 @@
       "duration_ms": 267066,
       "name": "FIST IN THE SKY (feat. Jordan Mackampa)",
       "url": "https://open.spotify.com/track/3yVz0LNJ7gdMsAfIAxlKJO"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "Mamgobhozi",
-        "url": "https://open.spotify.com/album/3stGihwj49yO2EJ6Ovl598"
-      },
-      "artists": [
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "Major League Djz",
-          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
-        },
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 236379,
-      "name": "Mamgobhozi",
-      "url": "https://open.spotify.com/track/6bzWAiIR1YNGcnBeFYQBl5"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1795,6 +1771,30 @@
       "duration_ms": 113526,
       "name": "Get It",
       "url": "https://open.spotify.com/track/5Oy1hOAnCit3XFyQVwIGOH"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Mamgobhozi",
+        "url": "https://open.spotify.com/album/3stGihwj49yO2EJ6Ovl598"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        },
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 236379,
+      "name": "Mamgobhozi",
+      "url": "https://open.spotify.com/track/6bzWAiIR1YNGcnBeFYQBl5"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1863,26 +1863,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "EYELIDS",
-        "url": "https://open.spotify.com/album/0KqX8QZZ3QdwGRFItQS8zp"
-      },
-      "artists": [
-        {
-          "name": "POLICE CAR COLLECTIVE",
-          "url": "https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2"
-        },
-        {
-          "name": "Cole Bleu",
-          "url": "https://open.spotify.com/artist/1AnTOrEmKXxMwrBMEQnq3S"
-        }
-      ],
-      "duration_ms": 126744,
-      "name": "EYELIDS",
-      "url": "https://open.spotify.com/track/3Sb8uNflVynSu16m0zdt2x"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "THAT GIRL",
         "url": "https://open.spotify.com/album/0dCFboe6x4Nz3e7LkGWIgE"
       },
@@ -1915,6 +1895,26 @@
       "duration_ms": 131320,
       "name": "I Go Get It",
       "url": "https://open.spotify.com/track/4ADaOjVuuwWbRrOyvayozt"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "EYELIDS",
+        "url": "https://open.spotify.com/album/0KqX8QZZ3QdwGRFItQS8zp"
+      },
+      "artists": [
+        {
+          "name": "POLICE CAR COLLECTIVE",
+          "url": "https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2"
+        },
+        {
+          "name": "Cole Bleu",
+          "url": "https://open.spotify.com/artist/1AnTOrEmKXxMwrBMEQnq3S"
+        }
+      ],
+      "duration_ms": 126744,
+      "name": "EYELIDS",
+      "url": "https://open.spotify.com/track/3Sb8uNflVynSu16m0zdt2x"
     },
     {
       "added_at": "2023-11-20 15:00:00",

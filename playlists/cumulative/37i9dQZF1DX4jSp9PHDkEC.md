@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-533 songs - 1 day 11 hr 55 min
+534 songs - 1 day 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Across The Multiverse](https://open.spotify.com/track/18rBxSjNK6iV7XfIyASKjI) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7), [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Across The Multiverse](https://open.spotify.com/album/7qiFfk3QDw5YZbuBpMktLX) | 3:04 | 2023-01-17 | 2023-08-17 |
 | [Adore You \- Valentine Demo](https://open.spotify.com/track/5QxvaIza4nFmNB6SPuHf2m) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Adore You \(Valentine Demo\)](https://open.spotify.com/album/1Gi90usxUMmnhJXxQYRJhr) | 3:37 | 2023-01-17 |  |
 | [Aeroplane Bathroom](https://open.spotify.com/track/7h4zBf5NntSiGrYy2hmDJE) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Our Two Skins](https://open.spotify.com/album/2E9Blcx45loakuMKKsn5lw) | 5:44 | 2023-01-17 | 2024-04-19 |
+| [Algor Mortis](https://open.spotify.com/track/5m9aliUs9oOoUlII8rbv6U) | [Arhkota](https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ), [Lubna Maher](https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb), [Frida Vasquez de la Sota](https://open.spotify.com/artist/39SpwjdckK2WcdQZ7ByzZO) | [Benti](https://open.spotify.com/album/5n7fPX5kqDYOI5LUo2aq0l) | 3:54 | 2024-04-29 |  |
 | [Alien](https://open.spotify.com/track/3EOJhf8kbL80wFbohjQdAt) | [Tan Cologne](https://open.spotify.com/artist/0BzCBe2kdywrXRgiP1JZeo) | [Alien](https://open.spotify.com/album/3Pk23PXY6fp1jsMOQczKqj) | 4:39 | 2023-01-17 |  |
 | [Alison](https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z) | 3:50 | 2023-01-17 | 2024-04-19 |
 | [Alison](https://open.spotify.com/track/4WyC79gL42g3flD9UQ4PMh) | [Swimming Tapes](https://open.spotify.com/artist/1nQj0M42wlxHPw999Pms69) | [Alison](https://open.spotify.com/album/1BnNdHQ6yTaKWJZAiW3mej) | 3:15 | 2023-01-17 | 2023-09-08 |
@@ -315,7 +316,7 @@
 | [Neptune](https://open.spotify.com/track/2JU3S0fBRx71WdoPNxjJTf) | [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l), [James McAlister](https://open.spotify.com/artist/2TvVB6B050Aj5y2Hk4H84z), [Nico Muhly](https://open.spotify.com/artist/2vObsQCPsbVfkqHlQOu2zc), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Planetarium](https://open.spotify.com/album/1wQiDPyqj92SnCIejeVn9P) | 3:04 | 2023-01-17 | 2024-04-19 |
 | [Never My Love](https://open.spotify.com/track/4zRkmGHVgGGnJMhemMXD6I) | [Isobel Campbell](https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq) | [Voices In The Sky](https://open.spotify.com/album/3xbtHD6AtuBZia9256EhML) | 3:26 | 2023-01-17 |  |
 | [New Love Cassette](https://open.spotify.com/track/4JaLWmdTChliUG88ks6Prm) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [All Mirrors](https://open.spotify.com/album/7t7tfXDhXiQpAV2uNfYWWG) | 3:26 | 2023-01-17 | 2024-04-19 |
-| [New Love Cassette \(Mark Ronson Remix\)](https://open.spotify.com/track/3zYomc4obtzqmHbI7BJRBT) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [New Love Cassette \(Mark Ronson Remix\)](https://open.spotify.com/album/2eZ5bdqneW2YcfUMI9Kcbs) | 3:28 | 2023-01-17 |  |
+| [New Love Cassette \(Mark Ronson Remix\)](https://open.spotify.com/track/3zYomc4obtzqmHbI7BJRBT) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [New Love Cassette \(Mark Ronson Remix\)](https://open.spotify.com/album/2eZ5bdqneW2YcfUMI9Kcbs) | 3:28 | 2023-01-17 | 2024-04-30 |
 | [New Love Cassette \(Mark Ronson Remix\)](https://open.spotify.com/track/458PwXRF8eLf8SGKJIxilc) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Song of the Lark and Other Far Memories](https://open.spotify.com/album/7qO3AbJIz7XMLP4bVOI7wj) | 3:28 | 2023-01-17 | 2023-10-16 |
 | [Night on Earth](https://open.spotify.com/track/1gyO5iqn92t4c70dQFH4OK) | [Jerkcurb](https://open.spotify.com/artist/2We7vKruiEweV984BdrxGA) | [Air Con Eden](https://open.spotify.com/album/486QPfqtxMumr35F75fkHU) | 5:40 | 2023-01-17 | 2024-04-19 |
 | [Night Vision](https://open.spotify.com/track/1vZ0a1HcvtsiJf7Erf6q3h) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY), [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Night Vision](https://open.spotify.com/album/1pCV7Zbvq3eQn7Jotv7fTb) | 1:58 | 2023-01-17 |  |

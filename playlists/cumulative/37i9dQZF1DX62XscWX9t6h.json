@@ -1684,7 +1684,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 290448,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/3pTtkt58Xi4VfAgZJVH3cU"
@@ -3184,6 +3184,24 @@
       "duration_ms": 325773,
       "name": "Weird Fishes/ Arpeggi",
       "url": "https://open.spotify.com/track/3A8hPbFFV3YFolz2vSKY83"
+    },
+    {
+      "album": {
+        "name": "Whaya",
+        "url": "https://open.spotify.com/album/06th1woDk5Hwy8vK2lrs0t"
+      },
+      "artists": [
+        {
+          "name": "Gitkin",
+          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226404,
+      "name": "Whaya",
+      "url": "https://open.spotify.com/track/7rbtfZPksHs4rl5cZTgU7s"
     },
     {
       "album": {

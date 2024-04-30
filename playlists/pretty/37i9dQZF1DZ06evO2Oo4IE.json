@@ -1,12 +1,12 @@
 {
-  "description": "This is Janis Joplin. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 178012,
+  "description": "This Is Janis Joplin. Los temas esenciales, todos en una lista.",
+  "num_followers": 177995,
   "original_name": "This Is Janis Joplin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDE3NjAwMCwwMDAwMDAwMGQ2OTI0ZjZmZGQ5ZjY2M2E5MTRjZDgwNjg1NTc1MDQw",
+  "snapshot_id": "MTcxNDI2MjQwMCwwMDAwMDAwMDM0MjJhM2RlNDE5MWYxN2RkYTcyNDNhOGE1MWUyZWE5",
   "tracks": [
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Television Broadcast Sessions 1968 -1970",
-        "url": "https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 196507,
-      "name": "To Love Someboy (Live The Dick Cavett TV Show 8th July 1969]",
-      "url": "https://open.spotify.com/track/5oZKxXSTGwt769hWxadMLo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Janis Joplin's Greatest Hits",
         "url": "https://open.spotify.com/album/4qHWXbp5TbUWqH35c6m8kN"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 479600,
       "name": "Ball and Chain - Live at McMahon Stadium, Calgary, Canada - July 1970",
       "url": "https://open.spotify.com/track/50jPBJZNdoepXCb2j1Rzmp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Television Broadcast Sessions 1968 -1970",
+        "url": "https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 196507,
+      "name": "To Love Someboy (Live The Dick Cavett TV Show 8th July 1969]",
+      "url": "https://open.spotify.com/track/5oZKxXSTGwt769hWxadMLo"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Television Broadcast Sessions 1968 -1970",
-        "url": "https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 234881,
-      "name": "Take Another Piece of my Heart (Live SWR TV Frankfurt Germany 12th April 1969)",
-      "url": "https://open.spotify.com/track/4S2JUPvHwCSwRot68vbY6l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Janis: Little Girl Blue (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5F6Th386ar5HNmOkcA0QrK"
       },
@@ -775,6 +759,26 @@
       "duration_ms": 306093,
       "name": "Women Is Losers - Live at the Avalon Ballroom, San Francisco, CA - December 1966",
       "url": "https://open.spotify.com/track/7tk5U3oLW8pTpspY6JEAAE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joplin In Concert",
+        "url": "https://open.spotify.com/album/2wb0OEOLPIiEtsqq2tgCk5"
+      },
+      "artists": [
+        {
+          "name": "Big Brother & The Holding Company",
+          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
+        },
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 345800,
+      "name": "All Is Loneliness - Live at The Fillmore West, San Francisco, CA - April 1970",
+      "url": "https://open.spotify.com/track/7AQD7uDsoBbVE9gk0Rb2pu"
     },
     {
       "added_at": null,
@@ -811,26 +815,6 @@
       "duration_ms": 77618,
       "name": "Tuning & Talk, Pt.2 - Live",
       "url": "https://open.spotify.com/track/11ZgxZFZemrsfHqXt1cFgU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joplin In Concert",
-        "url": "https://open.spotify.com/album/2wb0OEOLPIiEtsqq2tgCk5"
-      },
-      "artists": [
-        {
-          "name": "Big Brother & The Holding Company",
-          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
-        },
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 345800,
-      "name": "All Is Loneliness - Live at The Fillmore West, San Francisco, CA - April 1970",
-      "url": "https://open.spotify.com/track/7AQD7uDsoBbVE9gk0Rb2pu"
     },
     {
       "added_at": null,
@@ -899,6 +883,22 @@
       "duration_ms": 103880,
       "name": "Applause & Talk, Pt.3 - Live",
       "url": "https://open.spotify.com/track/1m84RF5HCIUQilJKyCCSop"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Takes To The Sky (Live 1968)",
+        "url": "https://open.spotify.com/album/4FbT4qT61380h7xQ1Pymb3"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 298527,
+      "name": "Coo Coo - Live",
+      "url": "https://open.spotify.com/track/7BylCSADVZkNdxqYjY8TiF"
     }
   ],
   "unique_name": "This Is Janis Joplin",

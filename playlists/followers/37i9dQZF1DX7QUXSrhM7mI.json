@@ -1,5 +1,5 @@
 {
-  "2024-04-29": 78335,
+  "2024-04-30": 78399,
   "date_first_scraped": "2022-05-26",
   "description": "The soundtrack to lazing around.",
   "name": "Lazy Afternoon",
@@ -3041,7 +3041,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-07",
+      "date_removed": null,
       "duration_ms": 262066,
       "name": "The Only Exception",
       "url": "https://open.spotify.com/track/6yBVp6DFh899CRaKww95Hr"
@@ -3301,7 +3301,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 160053,
       "name": "Too Good to be True",
       "url": "https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb"

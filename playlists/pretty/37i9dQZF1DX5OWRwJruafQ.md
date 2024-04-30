@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, Keep it Real\. Cover: Nirvair Pannu
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,712 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,732 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 7 | [Laara](https://open.spotify.com/track/6YjzEVM695unCYO1rAAoQy) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [L.B.E](https://open.spotify.com/album/3SdX0ZgW8NqfTir2YEo05E) | 2:07 |
 | 8 | [Daler \(From "Je Jatt Vigarh Gya"\)](https://open.spotify.com/track/1ZiqQYnpeiopTE2nsJNR5s) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV), [Gill Saab Music](https://open.spotify.com/artist/0EEmpZWPcOa1i1XYG2zkdQ), [Jayy Randhawa](https://open.spotify.com/artist/6VlwEqlRo5sra59dvTcB9w) | [Daler \(From "Je Jatt Vigarh Gya"\)](https://open.spotify.com/album/1HmF8RNy8ovdVNA6vsM0uo) | 2:36 |
 | 9 | [Manifest](https://open.spotify.com/track/2DmNIqrR70dUtcs4ljNl6a) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Manifest](https://open.spotify.com/album/11PJMOJkvhx55dOpJQRUV8) | 2:28 |
-| 10 | [Unskippable](https://open.spotify.com/track/6D0UutN2BbNaVP1RXHeRe5) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Balkar](https://open.spotify.com/artist/6zNY19Sp24dlHukMG0CC3k) | [Unskippable](https://open.spotify.com/album/0zjBmT5JsW3W317YFGEuJR) | 2:21 |
+| 10 | [Unskippable](https://open.spotify.com/track/6D0UutN2BbNaVP1RXHeRe5) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Balkar](https://open.spotify.com/artist/6zNY19Sp24dlHukMG0CC3k), [RAFAL](https://open.spotify.com/artist/3kjboz3TWSwnvvLdXSOX9z) | [Unskippable](https://open.spotify.com/album/0zjBmT5JsW3W317YFGEuJR) | 2:21 |
 | 11 | [Charcha](https://open.spotify.com/track/4vIbgvmbj6pFoLenVnzCdS) | [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G) | [Charcha](https://open.spotify.com/album/2fNbxr9xOHz6X7eh6MuXtj) | 2:28 |
 | 12 | [Khutti](https://open.spotify.com/track/3Jd1yxcUQLdfBJcsxFtYzj) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Khutti](https://open.spotify.com/album/0ISqysl9naGSplhk71vv4Z) | 2:12 |
 | 13 | [Gustakhiyan 2](https://open.spotify.com/track/4MpGiWSCNz1WJ0ICCfAdYl) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Davi Singh](https://open.spotify.com/artist/04C4hliPNKc6VZsTzmyyq0) | [Bangers](https://open.spotify.com/album/498Rnyy18ac5qqgoFv8HZz) | 2:44 |

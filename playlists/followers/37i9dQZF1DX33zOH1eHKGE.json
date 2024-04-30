@@ -1,5 +1,5 @@
 {
-  "2024-04-29": 59606,
+  "2024-04-30": 59603,
   "date_first_scraped": "2023-01-15",
   "description": "Move your way through the day with the dance tracks you love.",
   "name": "Dance All Day",
@@ -347,7 +347,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 217265,
       "name": "Billie (loving arms)",
       "url": "https://open.spotify.com/track/46E2xeKBLrxS8hJ37Gq35G"
@@ -2349,7 +2349,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 204500,
       "name": "Ready To Fly - Sub Focus & Dimension",
       "url": "https://open.spotify.com/track/0a2cA9H6KuOsoHLCnjl6YL"

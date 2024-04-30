@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDE3NjAwMCwwMDAwMDAwMGYwOTczYzNkYzA4OGE3NDFlNjYzZDc0NDQ1N2MxZjY2",
+  "snapshot_id": "MTcxNDI2MjQwMCwwMDAwMDAwMDkwZjRhMGJmOWE3NTBlNjJkYmJjOGE1MDc1Nzg0M2I4",
   "tracks": [
     {
       "added_at": null,
@@ -999,26 +999,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "STUNNA",
-        "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Kamaiyah",
-          "url": "https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO"
-        }
-      ],
-      "duration_ms": 148459,
-      "name": "My Bitch (feat. Kamaiyah)",
-      "url": "https://open.spotify.com/track/0xzqdnZ6rHbPnzjpGwVwRf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PARTY WITH THE GANG (feat. P-LO & FREDOBAGZ)",
         "url": "https://open.spotify.com/album/3o5dOgyF7CVccsiOqUk7Ob"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 149288,
       "name": "PARTY WITH THE GANG (feat. P-LO & FREDOBAGZ)",
       "url": "https://open.spotify.com/track/2eWAqyAJWW0gQ5EoXQofLx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "STUNNA",
+        "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Kamaiyah",
+          "url": "https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO"
+        }
+      ],
+      "duration_ms": 148459,
+      "name": "My Bitch (feat. Kamaiyah)",
+      "url": "https://open.spotify.com/track/0xzqdnZ6rHbPnzjpGwVwRf"
     },
     {
       "added_at": null,

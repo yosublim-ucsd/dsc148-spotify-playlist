@@ -1,5 +1,5 @@
 {
-  "2024-04-29": 49698,
+  "2024-04-30": 49822,
   "date_first_scraped": "2022-06-01",
   "description": "All Coke Studio Pakistan tracks in one place. Season 15 updated live.",
   "name": "This is: Coke Studio Pakistan",
@@ -4529,6 +4529,28 @@
       "duration_ms": 330750,
       "name": "Luddi Hay Jamalo",
       "url": "https://open.spotify.com/track/4bgnqcQr1FJ9KX41gdtep5"
+    },
+    {
+      "album": {
+        "name": "Maghron La",
+        "url": "https://open.spotify.com/album/0WwgZENQ2PIRVDqaVNzlSA"
+      },
+      "artists": [
+        {
+          "name": "Sabri Sisters",
+          "url": "https://open.spotify.com/artist/5LBIpDf0NQMSYa6O42d9Mn"
+        },
+        {
+          "name": "Rozeo",
+          "url": "https://open.spotify.com/artist/0mojEh0eM7WmhBI4WBCmE0"
+        }
+      ],
+      "date_added": "2024-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246449,
+      "name": "Maghron La",
+      "url": "https://open.spotify.com/track/6zU7GoGlsJtIUNPRGNl0m8"
     },
     {
       "album": {

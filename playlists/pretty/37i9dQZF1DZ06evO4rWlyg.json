@@ -1,12 +1,12 @@
 {
   "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
-  "num_followers": 132888,
+  "num_followers": 132893,
   "original_name": "This Is Bj\u00f6rk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDE3NjAwMCwwMDAwMDAwMDUyZDViOWZhMmUzZDUzNThkMDI0N2ZkMmZiZGE2OWUy",
+  "snapshot_id": "MTcxNDI2MjQwMCwwMDAwMDAwMGY3NmJiNTE5Mzc3NDA4NzI1ZTgxNzFkNDM1ZmY3YzBk",
   "tracks": [
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vulnicura",
-        "url": "https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 409320,
-      "name": "Stonemilker",
-      "url": "https://open.spotify.com/track/17DNqXJCKp5ku17UUvzFj9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bastards",
         "url": "https://open.spotify.com/album/3KOU8rmLKgULTogBAz1px4"
       },
@@ -683,26 +667,6 @@
       "duration_ms": 244213,
       "name": "Triumph Of A Heart",
       "url": "https://open.spotify.com/track/2xMjSaJTUcwlv6lKQGTb5g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mount Wittenberg Orca (Expanded Edition)",
-        "url": "https://open.spotify.com/album/14xINYt1omt6jlxv8AFbly"
-      },
-      "artists": [
-        {
-          "name": "Dirty Projectors",
-          "url": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
-        },
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Sharing Orb",
-      "url": "https://open.spotify.com/track/1M4euFTqRYW2xTLhqYGC0C"
     },
     {
       "added_at": null,

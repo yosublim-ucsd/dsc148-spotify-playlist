@@ -1,5 +1,5 @@
 {
-  "2024-04-29": 3638095,
+  "2024-04-30": 3637035,
   "date_first_scraped": "2019-05-26",
   "description": "<a href=\"spotify:genre:space:electronica_chill\">Hypnotic electronic</a> for studies and a relax.",
   "name": "Brain Food",
@@ -3672,6 +3672,24 @@
     },
     {
       "album": {
+        "name": "Dolphin Spray / Static",
+        "url": "https://open.spotify.com/album/0kDT4DXD9W0gxu4kljVdeG"
+      },
+      "artists": [
+        {
+          "name": "Actress",
+          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283950,
+      "name": "Dolphin Spray",
+      "url": "https://open.spotify.com/track/2CdQczqbJ5LUe6qKbWY3ty"
+    },
+    {
+      "album": {
         "name": "stay vibrant",
         "url": "https://open.spotify.com/album/45rsmhncWE31vvKIeNYvvj"
       },
@@ -5549,7 +5567,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 216000,
       "name": "Flips and Flops, Drips and Drops",
       "url": "https://open.spotify.com/track/06iwhAevuCgupNwTg3wSC3"
@@ -9321,7 +9339,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-29",
       "duration_ms": 194026,
       "name": "memphis",
       "url": "https://open.spotify.com/track/1gr3wnx384k5kcQAs2S1FA"
@@ -15325,7 +15343,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 161951,
       "name": "The Last Dance - Synthapella",
       "url": "https://open.spotify.com/track/5aK6dgeUUB12XBgOryteAa"
