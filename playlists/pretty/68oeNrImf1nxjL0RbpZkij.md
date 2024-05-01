@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/68oeNrImf1nxjL0RbpZkij.md) - [plain]
 | 26 | [The Promise](https://open.spotify.com/track/6OV4CbPHRtbqrpJrbEFJfi) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Metamodern Sounds in Country Music](https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag) | 4:17 |
 | 27 | [Chemical Plant](https://open.spotify.com/track/2ffe0YSjfzzdIXTQh8oku4) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [The Lights From The Chemical Plant](https://open.spotify.com/album/0aqTGYTiTZwpTerC1KRGER) | 4:29 |
 
-Snapshot ID: `MTM3LDIxNTZlMGYxNWQxMTIwYWZmMTAzNWY4ZDI3NjA0ODQ1ZWJmYmNiZjI=`
+Snapshot ID: `AAAAiSFW4PFdESCv8QNfjSdgSEXr+8vy`

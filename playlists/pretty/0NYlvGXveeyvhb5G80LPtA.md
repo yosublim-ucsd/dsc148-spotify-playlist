@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/0NYlvGXveeyvhb5G80LPtA.md) - [plain]
 | 32 | [Du Och Jag Och Glenn Hysén \(Dansmix\)](https://open.spotify.com/track/6fhGll7zYYIb6zP8bKK7bW) | [Micke Syd](https://open.spotify.com/artist/62vj47O6nNW5jFJ2yuliKS) | [Du Och Jag Och Glenn Hysén](https://open.spotify.com/album/2ZL6d5umjwe2lxShKIs325) | 3:29 |
 | 33 | [Kämpa Gul Och Blå \(feat\. Ola Lustig\)](https://open.spotify.com/track/20pHTY4j9yVwW31ptiv3Zt) | [Camp Sweden](https://open.spotify.com/artist/150wwSpzxl67b7uF1dCKS7), [Ola Lustig](https://open.spotify.com/artist/0SI31W55XNtC1fkDMpjWGN) | [Kämpa Gul Och Blå \(feat\. Ola Lustig\)](https://open.spotify.com/album/1MclDXM7nxhqE21SYLrFRi) | 3:07 |
 
-Snapshot ID: `NCw0ZjNiNjBjZjNmZDdkZjk2NjkwODJjMTIxODM0ZWYxNDU4MDJjOGJm`
+Snapshot ID: `AAAABE87YM8/19+WaQgsEhg07xRYAsi/`

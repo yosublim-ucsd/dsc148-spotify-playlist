@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4XAkka1siEMwWx2TXNDZuW.md) - [plain]
 
 > nothing but the stink of old moist carpet, the madness of mono\-yellow, the endless background noise of fluorescent lights at maximum hum\-buzz, and approximately six hundred million square miles of randomly segmented empty rooms to be trapped in
 
-[paige](https://open.spotify.com/user/paigebethanyy) - 38,148 likes - 108 songs - 5 hr 38 min
+[paige](https://open.spotify.com/user/paigebethanyy) - 38,138 likes - 110 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,6 +115,8 @@ pretty - [cumulative](/playlists/cumulative/4XAkka1siEMwWx2TXNDZuW.md) - [plain]
 | 105 | [rain and cassette tape hiss, just a few of my favourite things](https://open.spotify.com/track/0K6SBiuDPvmSs1xiqL0ojI) | [No Love In The House Of Gold](https://open.spotify.com/artist/5gqzWJS2sbYm3zoKFsC38L) | [atlantis part 2](https://open.spotify.com/album/1rgyl3sbS5ViSSuvnXU734) | 5:12 |
 | 106 | [voice vi \- remaster](https://open.spotify.com/track/3cBf8wQi7K91W9vK8FrxtG) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole \(remaster\)](https://open.spotify.com/album/1CU4dfIskXlgz5vSssB7IT) | 1:30 |
 | 107 | [Mindtrap](https://open.spotify.com/track/2Qe71atbPn2gsp7onYa9ti) | [fortaliax](https://open.spotify.com/artist/4kG4UmmOfM7uwKIwLs42XH) | [Mindtrap](https://open.spotify.com/album/5biwYJmVPoPfzwAsDBfLbC) | 3:01 |
-| 108 | [End](https://open.spotify.com/track/68Ch7buqW2ugaxEvLIDALw) | [Clown Core](https://open.spotify.com/artist/6mtABo05yeYtPftYEVfGoV) | [Van](https://open.spotify.com/album/7f5AP647DfTSWf0OmZRrPe) | 2:20 |
+| 108 | [myloveilove](https://open.spotify.com/track/43mQOs2HsT3tCIcOLCZT6m) | [Bogdan Raczynski](https://open.spotify.com/artist/2bYCvT1nqpbbspU5DZG5nA) | [myloveilove](https://open.spotify.com/album/6y14NIgQfyw7hiIcjv3CHW) | 1:49 |
+| 109 | [MyLoveILove](https://open.spotify.com/track/5IpsQfU48SK621NrxWZ2p0) | [Bogdan Raczynski](https://open.spotify.com/artist/2bYCvT1nqpbbspU5DZG5nA) | [MyLoveILove](https://open.spotify.com/album/4jFIqtkmFs5gRCKW3aNuit) | 2:01 |
+| 110 | [End](https://open.spotify.com/track/68Ch7buqW2ugaxEvLIDALw) | [Clown Core](https://open.spotify.com/artist/6mtABo05yeYtPftYEVfGoV) | [Van](https://open.spotify.com/album/7f5AP647DfTSWf0OmZRrPe) | 2:20 |
 
-Snapshot ID: `ODE2LGNhODg1NmU0MTJmYTYxOThhZTUxNDBkZTNkZTBmM2NiOGQyM2JmNWI=`
+Snapshot ID: `AAADMxaIrCeUE0/WZJMRg4ffjAtdNbbu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > Metalcore at its finest\. Cover: Knocked Loose
 
-[Spotify](https://open.spotify.com/user/spotify) - 923,711 likes - 126 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 923,758 likes - 126 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 125 | [Dead Souls](https://open.spotify.com/track/7aa7J2weJ0mVLu4xHEKiKu) | [Substation](https://open.spotify.com/artist/4uCcS8G5SOw5BGO67pngjC) | [Dead Souls](https://open.spotify.com/album/0yyK6w1nNjDq3YutrQMvk1) | 3:46 |
 | 126 | [Absence](https://open.spotify.com/track/0bGJxR2A2yTGCOJwcEwktz) | [Skylene](https://open.spotify.com/artist/2Rlhr0EaeREpWAkL9fctT9) | [Absence](https://open.spotify.com/album/0o5VRf3w65zCDVBVuRq9fB) | 5:45 |
 
-Snapshot ID: `MTcxMzQ1MTkyNywwMDAwMDAwMDg5ZGEyZGNkYjYzNmJmYzVkMjU1OWY4ZmZkMWMwNmNl`
+Snapshot ID: `ZiEzlwAAAACJ2i3Ntja/xdJVn4/9HAbO`

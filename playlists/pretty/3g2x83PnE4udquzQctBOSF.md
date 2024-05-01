@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3g2x83PnE4udquzQctBOSF.md) - [plain]
 
 > Our weekly selection is here ⚡️
 
-[AGLF](https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12) - 2,515 likes - 30 songs - 1 hr 51 min
+[AGLF](https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12) - 2,514 likes - 30 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/3g2x83PnE4udquzQctBOSF.md) - [plain]
 | 29 | [Her](https://open.spotify.com/track/4qhQ4ociO0X2DJ7f6wfMO1) | [Gio Lucca](https://open.spotify.com/artist/6bzkE76ArC0nIuNKH04T74), [Kieran San Jose](https://open.spotify.com/artist/5dXI8u68DU1ANPlDlSsAli) | [Her](https://open.spotify.com/album/23bHuDzuxVbdW1TOOwouSZ) | 2:50 |
 | 30 | [Is It Ok? \- George Z Remix](https://open.spotify.com/track/21zEg4uLM33PB6vkJf1KNa) | [VLLN](https://open.spotify.com/artist/69tUOHpGh5PNsmZlvw4AOx), [Sol Novaro](https://open.spotify.com/artist/7uWyUhtmPeGAg3ylpXE3yq), [Lost Minds](https://open.spotify.com/artist/14z02tRm4yTs0cJfmrHfnr), [ROBINS](https://open.spotify.com/artist/3jB0kLyOjPj9pZHMect1BM), [George Z](https://open.spotify.com/artist/5IewgFvCqYIYpf660mYVqo) | [Is It Ok? \(George Z Remix\)](https://open.spotify.com/album/7yZlLuUv72OoB5uLpFNuzD) | 3:28 |
 
-Snapshot ID: `NDE1Miw0ZWY4YmNiMjI1NWM5M2Y5NmFlODVjZjZkMDU2M2UxMGEzOGEyODEz`
+Snapshot ID: `AAAQOE74vLIlXJP5auhc9tBWPhCjiigT`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 
 > Go hard or go home!
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,564 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,584 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 | 49 | [Step Out.](https://open.spotify.com/track/2oLgGxj5Hk9LqZggVDg1VW) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [YPB: The Archive](https://open.spotify.com/album/3E5DWj3A0oXBTwdrrBcKHu) | 3:57 |
 | 50 | [John Wick](https://open.spotify.com/track/2LLr8jTfTWQI8QjSm4lzgA) | [M24](https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T) | [John Wick](https://open.spotify.com/album/79TZioJR8pwh2slJzuJerQ) | 2:58 |
 
-Snapshot ID: `MTcxMjA3OTQxMSwwMDAwMDAwMDkzNWExZWRhMWM5NzBkMjk3ZDM2MDJjZmJlZGU1Y2Mw`
+Snapshot ID: `ZgxCMwAAAACTWh7aHJcNKX02As++3lzA`

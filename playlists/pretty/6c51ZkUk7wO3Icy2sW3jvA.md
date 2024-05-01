@@ -19,4 +19,4 @@ pretty - [cumulative](/playlists/cumulative/6c51ZkUk7wO3Icy2sW3jvA.md) - [plain]
 | 9 | [Vitt](https://open.spotify.com/track/41L7xlhy4S63YFzBhJOlNU) | [Daniel Adams\-Ray](https://open.spotify.com/artist/4C86wrjOUfXQDlt6A4oJOC) | [Svart, vitt och allt däremellan](https://open.spotify.com/album/3hClEYx89ixWVoEoQI87uC) | 4:40 |
 | 10 | [Himlen luktar plast](https://open.spotify.com/track/30OefnMtVjjHXfUm4kfIC7) | [Daniel Adams\-Ray](https://open.spotify.com/artist/4C86wrjOUfXQDlt6A4oJOC) | [Svart, vitt och allt däremellan](https://open.spotify.com/album/3hClEYx89ixWVoEoQI87uC) | 3:27 |
 
-Snapshot ID: `MTQsMDgzMmIwMjBlZWU5OGMzMTYxMGFjMGQzMDkzZTgxM2FjYTFiMTk4Yg==`
+Snapshot ID: `AAAADggysCDu6YwxYQrA0wk+gTrKGxmL`

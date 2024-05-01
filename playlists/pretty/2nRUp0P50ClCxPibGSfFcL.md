@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/2nRUp0P50ClCxPibGSfFcL.md) - [plain]
 | 29 | [Been Away Too Long](https://open.spotify.com/track/0MsMXSrisarWOSuRAFTmRu) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [King Animal](https://open.spotify.com/album/778drgCX8lz11ePbeJ0hRm) | 3:36 |
 | 30 | [Hope](https://open.spotify.com/track/4o6o6DTA9kNg7Adl9LvkbB) | [Ace Hood](https://open.spotify.com/artist/31HjiqargV4NAw4GZqUale) | [Trials & Tribulations](https://open.spotify.com/album/2JG7yt9ua7hKWsfVLQr90j) | 4:32 |
 
-Snapshot ID: `NSxmNTg3ZTliYjIyNjMxOGY5ZDZlYWY2ZWU1MmNiMmYwYTI1MWUyODI3`
+Snapshot ID: `AAAABfWH6bsiYxj51ur27lLLLwolHign`

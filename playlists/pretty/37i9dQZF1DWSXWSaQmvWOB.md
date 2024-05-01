@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > New soul\-infused music every week! Cover: Joya Mooi
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,832 likes - 76 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,897 likes - 76 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 75 | [Loves Me Not](https://open.spotify.com/track/1lkpAjIs0tnD7vKIbJPycT) | [Nia Wyn](https://open.spotify.com/artist/6llDm40EBFJNERFGyWn2wH) | [Loves Me Not](https://open.spotify.com/album/44r88qiS1bWVpciRKe23mV) | 2:37 |
 | 76 | [Saturday Night \(Need You Now\)](https://open.spotify.com/track/5HYNZhR70lfA1dzvQoXCBM) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Saturday Night \(Need You Now\)](https://open.spotify.com/album/22ZdsViHpBmUCQqxzQxPov) | 4:13 |
 
-Snapshot ID: `MTcxNDE0Mjk3NywwMDAwMDAwMDMwYmJiMzlkZjM5MDQ1NmUxOTVjYzNhODc4MzZmMzkx`
+Snapshot ID: `Ziu/AQAAAAAwu7Od85BFbhlcw6h4NvOR`

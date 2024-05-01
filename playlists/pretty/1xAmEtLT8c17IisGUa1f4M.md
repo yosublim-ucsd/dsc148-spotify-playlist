@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1xAmEtLT8c17IisGUa1f4M.md) - [plain]
 
 > 38 great tunes by female singers only!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,493 likes - 38 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,491 likes - 38 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/1xAmEtLT8c17IisGUa1f4M.md) - [plain]
 | 37 | [Like This \(feat\. Eve\)](https://open.spotify.com/track/6skcBKtH4WObFyasu9w4Ie) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Ms\. Kelly](https://open.spotify.com/album/11lAZtJRp076xsMWQ0Eiun) | 3:35 |
 | 38 | [Best Friends \(feat\. Aaliyah\)](https://open.spotify.com/track/2NsanI9fS6MuVCBvHXjt8F) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Supa Dupa Fly](https://open.spotify.com/album/7og33jtAyvtoMS6RWXpSo3) | 4:09 |
 
-Snapshot ID: `MTEsMjAwYTllYmU1Mjk1ZGViOGU0ODY1MzlhNWI3YzA2ODdiNTUxZTk1ZA==`
+Snapshot ID: `AAAACyAKnr5Sld645IZTmlt8Boe1Ueld`

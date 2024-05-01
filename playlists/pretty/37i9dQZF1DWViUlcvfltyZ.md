@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti\. Novità rock, indie e punk dall'Italia! Cara Calma in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,169 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,156 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 99 | [Ti Amerei](https://open.spotify.com/track/09EeLpRYDS8Qxk5Q7mOa1A) | [Tropea](https://open.spotify.com/artist/35EdAf21qKHNvALdF6loHX) | [Serole](https://open.spotify.com/album/4WrXBdup2TcNuo7eOLWGFG) | 3:25 |
 | 100 | [Grattacieli](https://open.spotify.com/track/6wgHODpq324HUhYl0BCNN0) | [Voina](https://open.spotify.com/artist/4dju8CNgf5lL7VXgP3EAmo) | [Kintsugi](https://open.spotify.com/album/2u6ZjRuK4C0bI0q7EpTH69) | 3:43 |
 
-Snapshot ID: `MTcxNDA4MjQ2MCwwMDAwMDAwMGQ1MDU5ZDI2MDgwOGJkMmNkMmQ4NzkzY2FiNThmZTYy`
+Snapshot ID: `ZirSnAAAAADVBZ0mCAi9LNLYeTyrWP5i`

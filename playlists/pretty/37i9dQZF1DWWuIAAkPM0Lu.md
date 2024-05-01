@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > ...''sing your heart out and make it count'' ❤️ Christopher
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,861 likes - 102 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,852 likes - 102 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 101 | [Machines Like Us](https://open.spotify.com/track/3IAYH0NH4F7mARuZvBNr6j) | [Haunted Plasma](https://open.spotify.com/artist/3F9SeZpRXkV8xWPL4zrDVH) | [Machines Like Us](https://open.spotify.com/album/1cpVjvKaD1FpiGUjK8jkio) | 7:15 |
 | 102 | [Rolling](https://open.spotify.com/track/2gakYpfD7uJZkF56sYrIve) | [BENN](https://open.spotify.com/artist/39ChlVzK2W25FHJ6x8wZIv) | [Rolling](https://open.spotify.com/album/2wJ28vRUqwNiAtWQkZTc5G) | 3:48 |
 
-Snapshot ID: `MTcxNDEzNjEwOSwwMDAwMDAwMDA2ZmM0NGIwNmJjMWE0NjZmNDhjZjNlNzBlNDk5MmI3`
+Snapshot ID: `ZiukLQAAAAAG/ESwa8GkZvSM8+cOSZK3`

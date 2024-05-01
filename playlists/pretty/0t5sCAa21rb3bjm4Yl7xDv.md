@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0t5sCAa21rb3bjm4Yl7xDv.md) - [plain]
 
 > The hottest tracks you want to hear, all in one playlist! Cover: Taylor Swift
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 79,671 likes - 107 songs - 5 hr 34 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 79,661 likes - 107 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/0t5sCAa21rb3bjm4Yl7xDv.md) - [plain]
 | 106 | [Rust](https://open.spotify.com/track/3KJ63o5X5JwG5j5kZgGeCn) | [Cab'Ral](https://open.spotify.com/artist/2CIdibKYdqFN9ivfLFA7hj) | [Rust](https://open.spotify.com/album/4lJhDKdbxcCHfCMluyobqD) | 2:57 |
 | 107 | [Here It Is](https://open.spotify.com/track/6EtlSjhcsMofKcd9Kx2cCV) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Here It Is](https://open.spotify.com/album/0ibF6E9LRmi4Ar7dUKkIaL) | 3:13 |
 
-Snapshot ID: `MTQzNzMsZjRjMDBmNDQ1NzMyNzVkZTc5ZTkzMzc3Y2UwM2QzZmUwMDAzZmMwNA==`
+Snapshot ID: `AAA4JfTAD0RXMnXeeekzd84D0/4AA/wE`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 
 > Raw, sentimental feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,090 likes - 75 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,091 likes - 75 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 74 | [cold door handles](https://open.spotify.com/track/3pVZWd4YdZhLu3tOZBdQS8) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [nobody else ep](https://open.spotify.com/album/3nLYsia2FCACqJ2A0BYCZW) | 2:26 |
 | 75 | [mangos](https://open.spotify.com/track/3lqAHJLW98TzVZCzNDYDs6) | [mindbody&beats](https://open.spotify.com/artist/09ziI4OFiSlExXt4CE3NLB) | [sundays\. \[EP\]](https://open.spotify.com/album/2PothCkN45Ukndk1sePfjd) | 2:00 |
 
-Snapshot ID: `MTcxMDk0NTY3NSwwMDAwMDAwMDJhMDdjZTdjMjUwODQ0NzMwOTE4NzQ1YmMxMDAxY2Y5`
+Snapshot ID: `Zfr1iwAAAAAqB858JQhEcwkYdFvBABz5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2T7mOAPkCSmbOnJBMdOJ88.md) - [plain]
 
 > Hey, we made a playlist including some of our favourite Japan\-based artists right now which you can listen to whilst riding that sweet Bullet Train to all of our Japan Shows\. First stop Tokyo, choo choo\. Our new album, World Wide Pop, is out nooooow.
 
-[Superorganism](https://open.spotify.com/user/sprorgnsm) - 6,759 likes - 20 songs - 1 hr 25 min
+[Superorganism](https://open.spotify.com/user/sprorgnsm) - 6,758 likes - 20 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/2T7mOAPkCSmbOnJBMdOJ88.md) - [plain]
 | 19 | [Bibo No Aozora](https://open.spotify.com/track/6E5d2cVvbKIWyH3OjcQREi) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [1996 \(Re\-Mastered\)](https://open.spotify.com/album/0JLvLjBDMyaDB7tvGgmkRZ) | 6:39 |
 | 20 | [Black Hole Baby \- ME\-GUMI Cover](https://open.spotify.com/track/6DWLSUHISXoC6gQEb7rAhI) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE), [ME\-GUMI](https://open.spotify.com/artist/4JymhH4RCu5eqaBqZQvxyb) | [World Wide Pop\- Reeeemix!](https://open.spotify.com/album/5nxekl2nyqd7Y87PAmhVtX) | 3:12 |
 
-Snapshot ID: `Mzc1LDcwNzQ2Mzk3N2M5NGQzNDViODMzMmJiZTBkYmM4N2ZmNTU4MmQ0NmM=`
+Snapshot ID: `AAABd3B0Y5d8lNNFuDMrvg28h/9VgtRs`

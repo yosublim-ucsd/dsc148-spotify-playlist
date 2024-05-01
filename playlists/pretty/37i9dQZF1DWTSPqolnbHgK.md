@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSPqolnbHgK.md) - [plain]
 
 > With autumn comes darker days and colder weather.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,430 likes - 134 songs - 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,426 likes - 134 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSPqolnbHgK.md) - [plain]
 | 133 | [Keep On Shining, Keep On Moving \- Chill Mix](https://open.spotify.com/track/0ckFXXvnWjAeTiVaL9fWEf) | [Ears Of Light](https://open.spotify.com/artist/2VGdcTYjel5N4YcqanN9rc) | [Keep On Shining, Keep On Moving](https://open.spotify.com/album/1eLINuIs7KXUN9hR681Ujl) | 3:12 |
 | 134 | [Without Air](https://open.spotify.com/track/0eHSM0MnAb2KWqwpgVkkqt) | [Soul Secret](https://open.spotify.com/artist/1lrRKgENSA3wSJ4VECfrC5) | [So Far Away, But Still At Home](https://open.spotify.com/album/7gGiVu6kqGTNr8Fprm34sk) | 4:08 |
 
-Snapshot ID: `MTY4NjgzNjE0MSwwMDAwMDAwMGVjYjlhMWNjNzcyZDM0NGQ2ZGI3OGQ3YzE5YzU4OWNl`
+Snapshot ID: `ZIsTrQAAAADsuaHMdy00TW23jXwZxYnO`

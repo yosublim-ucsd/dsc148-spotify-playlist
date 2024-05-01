@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ccGNvU862z.md) - [plain]
 
 ### [ฮิปฮอป R.E.A.L\. ](https://open.spotify.com/playlist/37i9dQZF1DX7ccGNvU862z)
 
-> Rhyme Elite Artist League\. ฮิปฮอปของจริง ไม่ต้องอ้างอิงใคร\. ศิลปิน: OG\-ANIC
+> Rhyme Elite Artist League เพลย์ลิสต์ฮิปฮอปของจริง ฮิปฮอป R.E.A.L.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,649 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,630 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [W.R.U](https://open.spotify.com/track/3TNY1J6fOPVhiGcnMluLwL) | [DIAMOND MQT](https://open.spotify.com/artist/0O6y1pr1YIKq65c6N3sI9c), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy) | [W.R.U](https://open.spotify.com/album/1f2s3KUwsPLLy22vbOXg7g) | 4:17 |
 | 2 | [เด็กอินเตอร์](https://open.spotify.com/track/6koztzfSaFalbFxpiaFpjk) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ธาตุทองซาวด์](https://open.spotify.com/album/0e5gXaOqlR6e5bA1ZLqksK) | 3:27 |
-| 3 | [สักวัน](https://open.spotify.com/track/1EFSXXGOppO1wsMvmpviSo) | [OG\-ANIC](https://open.spotify.com/artist/1OXHqAK6r5mF0FV94nc0pD) | [สักวัน](https://open.spotify.com/album/3lnrqTtTOSB8QFmbDm3VaX) | 3:29 |
+| 3 | [แลกอะไรก็ได้](https://open.spotify.com/track/4lYo2OzvdN3WCy7FQhHIv5) | [ZENTYARB](https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi) | [แลกอะไรก็ได้](https://open.spotify.com/album/1czWyzVwvKtsAAOQiuUrqw) | 3:37 |
 | 4 | [ใจพัง](https://open.spotify.com/track/30ho6wAl9w53sCtcqzHVMA) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [GTK](https://open.spotify.com/artist/2xe3fpDD81re4J0NN3S8LV) | [ใจพัง](https://open.spotify.com/album/5jfhFfMvJM7FaKOnc0u1J2) | 5:01 |
 | 5 | [อย่าอยู่เพราะเห็นใจ \(feat\. Only Monday\)](https://open.spotify.com/track/6nq8USZIpU2oc7x5vxThHu) | [Maiyarap](https://open.spotify.com/artist/4QLlbZcntdcWpm40NooC2M), [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [อย่าอยู่เพราะเห็นใจ \(feat\. Only Monday\)](https://open.spotify.com/album/6368pIXTmYj3JO0tF6C0Yg) | 4:27 |
-| 6 | [แลกอะไรก็ได้](https://open.spotify.com/track/4lYo2OzvdN3WCy7FQhHIv5) | [ZENTYARB](https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi) | [แลกอะไรก็ได้](https://open.spotify.com/album/1czWyzVwvKtsAAOQiuUrqw) | 3:37 |
+| 6 | [สักวัน](https://open.spotify.com/track/1EFSXXGOppO1wsMvmpviSo) | [OG\-ANIC](https://open.spotify.com/artist/1OXHqAK6r5mF0FV94nc0pD) | [สักวัน](https://open.spotify.com/album/3lnrqTtTOSB8QFmbDm3VaX) | 3:29 |
 | 7 | [ที่สุดเลย](https://open.spotify.com/track/36czGZFR3xI0F38AiZ0Xdq) | [RIFLE](https://open.spotify.com/artist/4hIIGlitHYepgaKi1aSKHn), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [ที่สุดเลย](https://open.spotify.com/album/07zp9Mnc758xpFKTCIyhYE) | 3:25 |
 | 8 | [รถไฟบนฟ้า](https://open.spotify.com/track/6BqnE3hiqtywrLMJ3ulYDp) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [รถไฟบนฟ้า](https://open.spotify.com/album/5boT1tGdFqjrzzDSqLrrsC) | 4:16 |
 | 9 | [Beside Me](https://open.spotify.com/track/3wlWYlnioacf3hyEWUZBvj) | [2Ectasy](https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m), [Kennocha](https://open.spotify.com/artist/4x2ikRZkZoyUukv8H39nCP) | [Beside Me](https://open.spotify.com/album/6UXR0YdYIVgLGZLSlDLRXY) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ccGNvU862z.md) - [plain]
 | 49 | [เติบโต \(โดยไม่มีเธอ\)](https://open.spotify.com/track/45FSW9JohxF1SMTGWLw8Ue) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [\*Blackheart](https://open.spotify.com/artist/4PKxv39iCqVHn97VxES26r), [DAVIDBOIE](https://open.spotify.com/artist/1t5y656mS7n3HlAVKTNYuj) | [เติบโต \(โดยไม่มีเธอ\)](https://open.spotify.com/album/7qpKLYQjdxVGj8ALkCsrtr) | 4:14 |
 | 50 | [ฉบับท้ายสุด](https://open.spotify.com/track/6OTlqL40FtkkwBEjiQSiDT) | [ZENTYARB](https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi) | [ฉบับท้ายสุด](https://open.spotify.com/album/1mBxtzaoEjfBJrKoiDe8xi) | 2:31 |
 
-Snapshot ID: `MTcxNDE1NjU0NiwwMDAwMDAwMDk1N2M2MWUzNGJhOWE0N2Q0ZTAxZWNjMDUxYTNjYzRj`
+Snapshot ID: `ZjEfSgAAAADTyO6JyTVBerGmNeGoX/JK`

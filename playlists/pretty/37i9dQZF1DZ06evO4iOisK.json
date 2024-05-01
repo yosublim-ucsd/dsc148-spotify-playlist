@@ -1,12 +1,12 @@
 {
   "description": "This is SPYAIR. The essential tracks, all in one playlist.",
-  "num_followers": 24140,
+  "num_followers": 24152,
   "original_name": "This Is SPYAIR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDI2MjQwMCwwMDAwMDAwMDZkMjk0MTI1ZjAyNTZmODVlNzdjMzk5MGU2N2YyZTE2",
+  "snapshot_id": "Zi7jAAAAAADcDlplijdzjk8sIKvOBAWC",
   "tracks": [
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MILLION",
-        "url": "https://open.spotify.com/album/1gijAmde8RoTtzFIy4pa58"
-      },
-      "artists": [
-        {
-          "name": "SPYAIR",
-          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
-        }
-      ],
-      "duration_ms": 280933,
-      "name": "Winding Road",
-      "url": "https://open.spotify.com/track/1kV6pij3pjXHbAbvhehnOY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BEST OF THE BEST",
         "url": "https://open.spotify.com/album/68QoEUuuoo734ojnUufXJ3"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 234373,
       "name": "Born To Be Loud",
       "url": "https://open.spotify.com/track/7Fw38gA686VM1lgJUu4ViS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MILLION",
+        "url": "https://open.spotify.com/album/1gijAmde8RoTtzFIy4pa58"
+      },
+      "artists": [
+        {
+          "name": "SPYAIR",
+          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
+        }
+      ],
+      "duration_ms": 280933,
+      "name": "Winding Road",
+      "url": "https://open.spotify.com/track/1kV6pij3pjXHbAbvhehnOY"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LIAR",
-        "url": "https://open.spotify.com/album/5Q7cs4fbLi9ouR8FpLHikk"
+        "name": "BEST",
+        "url": "https://open.spotify.com/album/6tQGlVKPllcFPSmlbv2mVx"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
         }
       ],
-      "duration_ms": 245053,
-      "name": "SINGING",
-      "url": "https://open.spotify.com/track/23CvdoP44hvsQQHzZmBEWB"
+      "duration_ms": 296866,
+      "name": "\u3042\u306e\u9803\u3001\u50d5\u3089\u306f\u540c\u3058\u672a\u6765\u3092",
+      "url": "https://open.spotify.com/track/1gR5yiekZEQtB0XLS4LBx5"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BEST",
-        "url": "https://open.spotify.com/album/6tQGlVKPllcFPSmlbv2mVx"
+        "name": "LIAR",
+        "url": "https://open.spotify.com/album/5Q7cs4fbLi9ouR8FpLHikk"
       },
       "artists": [
         {
@@ -612,57 +612,9 @@
           "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
         }
       ],
-      "duration_ms": 296866,
-      "name": "\u3042\u306e\u9803\u3001\u50d5\u3089\u306f\u540c\u3058\u672a\u6765\u3092",
-      "url": "https://open.spotify.com/track/1gR5yiekZEQtB0XLS4LBx5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WENDY \u301cIt's You\u301c",
-        "url": "https://open.spotify.com/album/06GqXPj1Cwi3mkNh5TECYQ"
-      },
-      "artists": [
-        {
-          "name": "SPYAIR",
-          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
-        }
-      ],
-      "duration_ms": 203733,
-      "name": "Blowing",
-      "url": "https://open.spotify.com/track/1A5pLyFdYX6QVdQt9Gkp7w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/5But7Bof89100t1dGas3vE"
-      },
-      "artists": [
-        {
-          "name": "SPYAIR",
-          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
-        }
-      ],
-      "duration_ms": 210746,
-      "name": "ROCKIN' OUT",
-      "url": "https://open.spotify.com/track/2gIJD9tlR11NQhgrhQPC30"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KINGDOM",
-        "url": "https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX"
-      },
-      "artists": [
-        {
-          "name": "SPYAIR",
-          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
-        }
-      ],
-      "duration_ms": 333080,
-      "name": "Be with",
-      "url": "https://open.spotify.com/track/15ED6FZUHGy0BbTlv7mYhA"
+      "duration_ms": 245053,
+      "name": "SINGING",
+      "url": "https://open.spotify.com/track/23CvdoP44hvsQQHzZmBEWB"
     },
     {
       "added_at": null,
@@ -683,6 +635,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "WENDY \u301cIt's You\u301c",
+        "url": "https://open.spotify.com/album/06GqXPj1Cwi3mkNh5TECYQ"
+      },
+      "artists": [
+        {
+          "name": "SPYAIR",
+          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
+        }
+      ],
+      "duration_ms": 203733,
+      "name": "Blowing",
+      "url": "https://open.spotify.com/track/1A5pLyFdYX6QVdQt9Gkp7w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KINGDOM",
+        "url": "https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX"
+      },
+      "artists": [
+        {
+          "name": "SPYAIR",
+          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
+        }
+      ],
+      "duration_ms": 333080,
+      "name": "Be with",
+      "url": "https://open.spotify.com/track/15ED6FZUHGy0BbTlv7mYhA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/5But7Bof89100t1dGas3vE"
+      },
+      "artists": [
+        {
+          "name": "SPYAIR",
+          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
+        }
+      ],
+      "duration_ms": 210746,
+      "name": "ROCKIN' OUT",
+      "url": "https://open.spotify.com/track/2gIJD9tlR11NQhgrhQPC30"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "UNITE",
         "url": "https://open.spotify.com/album/1ZKqKNaTjM3yuWYRmv33m4"
       },
@@ -695,22 +695,6 @@
       "duration_ms": 214000,
       "name": "STORY",
       "url": "https://open.spotify.com/track/3HXOjRUWG9aIFLj6OiLREp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "JUST LIKE THIS 2023 (Live)",
-        "url": "https://open.spotify.com/album/6c9wh6Rc11f0p7HGUFVOdb"
-      },
-      "artists": [
-        {
-          "name": "SPYAIR",
-          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
-        }
-      ],
-      "duration_ms": 118053,
-      "name": "Rockin' the World - JUST LIKE THIS 2023 Live",
-      "url": "https://open.spotify.com/track/22ndPp0OYgwaUEx8TNb9cQ"
     },
     {
       "added_at": null,
@@ -731,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "JUST LIKE THIS 2023 (Live)",
+        "url": "https://open.spotify.com/album/6c9wh6Rc11f0p7HGUFVOdb"
+      },
+      "artists": [
+        {
+          "name": "SPYAIR",
+          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
+        }
+      ],
+      "duration_ms": 118053,
+      "name": "Rockin' the World - JUST LIKE THIS 2023 Live",
+      "url": "https://open.spotify.com/track/22ndPp0OYgwaUEx8TNb9cQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "JUST ONE LIFE",
         "url": "https://open.spotify.com/album/5A7EqhnNTiZRwqkxbu25So"
       },
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "UNITE",
-        "url": "https://open.spotify.com/album/1ZKqKNaTjM3yuWYRmv33m4"
-      },
-      "artists": [
-        {
-          "name": "SPYAIR",
-          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
-        }
-      ],
-      "duration_ms": 214893,
-      "name": "INSIDE OF ME",
-      "url": "https://open.spotify.com/track/2kI6bq6q3Ab0FlYFHWInAE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Just Do It",
         "url": "https://open.spotify.com/album/1D5hC2BtE1Dy7UFSdKwG33"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 216520,
       "name": "Come on",
       "url": "https://open.spotify.com/track/30W9ifepbiFfbwypA27eQl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "UNITE",
+        "url": "https://open.spotify.com/album/1ZKqKNaTjM3yuWYRmv33m4"
+      },
+      "artists": [
+        {
+          "name": "SPYAIR",
+          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
+        }
+      ],
+      "duration_ms": 214893,
+      "name": "INSIDE OF ME",
+      "url": "https://open.spotify.com/track/2kI6bq6q3Ab0FlYFHWInAE"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4p3lupatTubTWpTgCZjgpk.md) - [plain]
 
 > Countrify your power walk
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,103 likes - 20 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,101 likes - 20 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/4p3lupatTubTWpTgCZjgpk.md) - [plain]
 | 19 | [Farm Girl Strong](https://open.spotify.com/track/1ZFM6oqWIW8X0ZuoaEZaFr) | [Gord Bamford](https://open.spotify.com/artist/1w9VjfHGE5qPLJQy3dKups) | [Is It Friday Yet](https://open.spotify.com/album/07YlR4zRQAY2uEsyxkZeS3) | 2:47 |
 | 20 | [Chippin’ Away](https://open.spotify.com/track/3cOo2dnfFP6slPZhYwrDhR) | [Kevin Fowler](https://open.spotify.com/artist/6NKQIkHTjxD5Ovj6znGV1n) | [Chippin' Away](https://open.spotify.com/album/62Ft6VB3vZOyEa2CyCx8Iq) | 3:13 |
 
-Snapshot ID: `MTEsYzNmNzc0YWQ3MDU2MDQ5ZDQwNzViNTZmNzI2Y2RjNzc5N2JjZDUxNg==`
+Snapshot ID: `AAAAC8P3dK1wVgSdQHW1b3Js3HeXvNUW`

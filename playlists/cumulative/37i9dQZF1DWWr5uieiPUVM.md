@@ -4,7 +4,7 @@
 
 > o melhor do trap dá o play e aumenta! Foto: Chefin
 
-478 songs - 1 day 1 hr 12 min
+479 songs - 1 day 1 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Faz o Close](https://open.spotify.com/track/1carsEXV19reE7OAfgPu87) | [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [Shoy](https://open.spotify.com/artist/3qGnDZ8BHEsA9Go8ui3RUJ), [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4) | [Faz o Close](https://open.spotify.com/album/6gOz5vZtKkHhqGBxzVL0zd) | 3:40 | 2022-08-08 | 2022-08-30 |
 | [Felina](https://open.spotify.com/track/2orGm2E68ODFYOURjaES62) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Felina](https://open.spotify.com/album/28BuR3X6PDJ6rJ5QapLYgn) | 3:45 | 2022-09-23 | 2023-08-12 |
 | [FETTI](https://open.spotify.com/track/7BfOwVx33gglZ3NcBbyPVN) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Wylo](https://open.spotify.com/artist/56l3zYVU89SjFJXyoOdsBg) | [FETTI](https://open.spotify.com/album/3C2fL7WZdS0zWt0quba82O) | 2:21 | 2023-02-22 | 2023-03-28 |
+| [Filho da Noite](https://open.spotify.com/track/40IXmplKTcyWPr9HNCik7e) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Filho da Noite](https://open.spotify.com/album/63K61G3WTZrRUHZzAUPqHn) | 3:56 | 2024-04-30 |  |
 | [Filho do Dono](https://open.spotify.com/track/0EuRZKWzNptC1ZuIMFKLxz) | [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Filho do Dono](https://open.spotify.com/album/6DKYGWP4vYcYnMIPHRaMAe) | 3:30 | 2022-04-29 | 2022-09-06 |
 | [Filho do Dono](https://open.spotify.com/track/40TTpkt2jMUr9wDeZPcQD6) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [CalliCartel](https://open.spotify.com/artist/0s5MMDYKWYf4XksClf5Oiq) | [É o Trem!](https://open.spotify.com/album/0D14aOyRKsQkrFVrB5idpx) | 3:32 | 2022-03-25 | 2022-11-05 |
 | [Fim de Semana no Rio](https://open.spotify.com/track/7afaZ37wJJL6880z1NRgJS) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Fim de Semana no Rio](https://open.spotify.com/album/02q2gOT5jYZN9fXLPFxy9S) | 2:45 | 2022-04-01 | 2023-02-14 |

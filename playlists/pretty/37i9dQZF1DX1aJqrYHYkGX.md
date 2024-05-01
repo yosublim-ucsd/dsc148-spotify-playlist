@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aJqrYHYkGX.md) - [plain]
 
 > Gentle, relaxing music from around the globe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,967 likes - 82 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,059 likes - 82 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aJqrYHYkGX.md) - [plain]
 | 81 | [Kora by Night](https://open.spotify.com/track/2hU4x98c0LUwRUqjJE4ujy) | [Maher Cissoko](https://open.spotify.com/artist/7v8qNR5OXbOludbhQoLabP) | [Kora Fo](https://open.spotify.com/album/5cBxRTB0SAwp8EWUcQKXQh) | 3:45 |
 | 82 | [Autumn Moon Lullaby](https://open.spotify.com/track/0jD5bJEiiFwKeCKvL9Wvaz) | [Tri Nguyen](https://open.spotify.com/artist/5svAezhgWghJK0KaFgcf0J), [Buynta Goryaeva](https://open.spotify.com/artist/5rEEug0EEtuHzGqgX3dIbO), [Iryna Topolnitska](https://open.spotify.com/artist/29rG1jJMlyyDoThYBnahln), [Caroline Berry](https://open.spotify.com/artist/2g2cbCYIa6gk39PMxS24J9), [Dima Tsypkin](https://open.spotify.com/artist/14gDdc1auGtMntQQ69cbMC) | [The Art of the Vietnamese Zither](https://open.spotify.com/album/3ptY5gi8UboBVtBvJqxszv) | 4:06 |
 
-Snapshot ID: `MTcwMTI1ODA4MiwwMDAwMDAwMDBmOTJlY2JjZmQxZTJlNTgwOWM3NDBiNDAzMGJhOWU0`
+Snapshot ID: `ZWcjYgAAAAAPkuy8/R4uWAnHQLQDC6nk`

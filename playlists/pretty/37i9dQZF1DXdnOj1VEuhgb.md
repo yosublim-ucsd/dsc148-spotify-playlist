@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Motive
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,341,346 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,341,293 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [neptün](https://open.spotify.com/track/7FFBcQzDcvwbcAVV8SqgsT) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [taycan, Vol\. 1](https://open.spotify.com/album/4FNyPHSqsqmgMdc6s9Fv1W) | 2:44 |
-| 2 | [LAF](https://open.spotify.com/track/7rHLpc3SZobYPDyBF06uok) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [LAF](https://open.spotify.com/album/0FGpFHP4yc7uWScjSHkx8O) | 2:06 |
-| 3 | [Sezen Aksu](https://open.spotify.com/track/0GuWyPyj4MVvT4qYsl6BOS) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [\#1](https://open.spotify.com/album/2P4oefrZZ6uOFsrykOusie) | 2:03 |
-| 4 | [Beni Yargılama](https://open.spotify.com/track/5QUk45sRjlcPrAAksKQbW1) | [Narco](https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Beni Yargılama](https://open.spotify.com/album/5pD2RIbL3CfdSF6Gu7MwRB) | 2:37 |
-| 5 | [anlatamam](https://open.spotify.com/track/6n5sAwgI535CMAr36INv9L) | [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [anlatamam](https://open.spotify.com/album/3At9Fy28V8N8zkV1kN0Ybf) | 2:02 |
+| 1 | [neptün](https://open.spotify.com/track/7FFBcQzDcvwbcAVV8SqgsT) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [taycan v1](https://open.spotify.com/album/4FNyPHSqsqmgMdc6s9Fv1W) | 2:44 |
+| 2 | [Sezen Aksu](https://open.spotify.com/track/0GuWyPyj4MVvT4qYsl6BOS) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [\#1](https://open.spotify.com/album/2P4oefrZZ6uOFsrykOusie) | 2:03 |
+| 3 | [LAF](https://open.spotify.com/track/7rHLpc3SZobYPDyBF06uok) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [LAF](https://open.spotify.com/album/0FGpFHP4yc7uWScjSHkx8O) | 2:06 |
+| 4 | [anlatamam](https://open.spotify.com/track/6n5sAwgI535CMAr36INv9L) | [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [anlatamam](https://open.spotify.com/album/3At9Fy28V8N8zkV1kN0Ybf) | 2:02 |
+| 5 | [Beni Yargılama](https://open.spotify.com/track/5QUk45sRjlcPrAAksKQbW1) | [Narco](https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Beni Yargılama](https://open.spotify.com/album/5pD2RIbL3CfdSF6Gu7MwRB) | 2:37 |
 | 6 | [Kaptan](https://open.spotify.com/track/4SRgqhtJjo210gkdwMoHNw) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Kaptan](https://open.spotify.com/album/5d92iD055uQcWBsqWqQMRs) | 3:11 |
 | 7 | [SUBMARINER](https://open.spotify.com/track/2L39N1sTAiaKbN8NBtOH4I) | [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [SUBMARINER](https://open.spotify.com/album/2UGRgtYH9ron8nioaqzkO7) | 2:03 |
 | 8 | [SULU SULU](https://open.spotify.com/track/0dsfzzMxipPjIzSg2Zal7w) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [IMPARATOR pt.1](https://open.spotify.com/album/4KHZ9YcyFDWH4DVro6EKjo) | 2:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 49 | [ZOR](https://open.spotify.com/track/4wLpDd099QT7TmNpMkFIvT) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 2:51 |
 | 50 | [GANG](https://open.spotify.com/track/4xMDN8uwikMBJrmJc9dqG3) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Cairo](https://open.spotify.com/artist/7ecHMwo18VtgSVZRULWLId), [Narco](https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM) | [GANG](https://open.spotify.com/album/0yUTCkMIdMG5Tx9QRah2GR) | 3:10 |
 
-Snapshot ID: `MTcxNDMwNjI2NSwwMDAwMDAwMDQ1YmZhZmNhYTc5Zjg0YTdjMmM4MWRhMTFhNDE2ZTIw`
+Snapshot ID: `ZjDXTwAAAABYexqwpnIlMd66XeWoSSZB`

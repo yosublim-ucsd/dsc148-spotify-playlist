@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZkpoSfbVoUoMm6rvrQEUm.md) - [plain]
 
 > Friday Haus \- Freshest house tunes every week\. Updated Every Friday !
 
-[Kurniawan Wicaksono](https://open.spotify.com/user/bleuclairmusic) - 7,885 likes - 20 songs - 1 hr 16 min
+[Kurniawan Wicaksono](https://open.spotify.com/user/bleuclairmusic) - 7,886 likes - 20 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/6ZkpoSfbVoUoMm6rvrQEUm.md) - [plain]
 | 19 | [The Duster](https://open.spotify.com/track/1l14wFXdn1PEK3tPghQ8U5) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [The Duster](https://open.spotify.com/album/12YO8hQyH7txfjdzOm5kna) | 6:51 |
 | 20 | [Mistake](https://open.spotify.com/track/0E0EnWRFzMZhdLbu5EBAU5) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Mistake](https://open.spotify.com/album/64ZPpjm4xadVy7JUnJNSV6) | 3:05 |
 
-Snapshot ID: `MzIzNSwwYWRkZWNmYTQ2YWE3YWRmZTRjYzE4NzhhMDYzNjBkN2ViMWMxY2Q5`
+Snapshot ID: `AAAMowrd7PpGqnrf5MwYeKBjYNfrHBzZ`

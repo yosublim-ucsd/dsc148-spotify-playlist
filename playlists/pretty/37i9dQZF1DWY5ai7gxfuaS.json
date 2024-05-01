@@ -1,12 +1,12 @@
 {
   "description": "The future of metal is here.",
-  "num_followers": 284767,
+  "num_followers": 284858,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcwMTk3OTc0MiwwMDAwMDAwMGY2OTdjMDYwNWY2NDFhMDU0NGM2ZTBkMDM5NjZiZTg4",
+  "snapshot_id": "ZXImXgAAAAD2l8BgX2QaBUTG4NA5Zr6I",
   "tracks": [
     {
       "added_at": "2023-12-07 20:09:02",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Faking It",
-        "url": "https://open.spotify.com/album/1ojh4hiSv6uhe2lSCtb3CF"
-      },
-      "artists": [
-        {
-          "name": "Svalbard",
-          "url": "https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA"
-        }
-      ],
-      "duration_ms": 328015,
-      "name": "Faking It",
-      "url": "https://open.spotify.com/track/0lP6unRRdWs0cqa6qjsSmn"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "In Limbo",
         "url": "https://open.spotify.com/album/4tNRCmCPj37qUhIeoTlzUv"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 276480,
       "name": "In Limbo",
       "url": "https://open.spotify.com/track/47PYHSLF6jGxUxDXoUFs2v"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "Faking It",
+        "url": "https://open.spotify.com/album/1ojh4hiSv6uhe2lSCtb3CF"
+      },
+      "artists": [
+        {
+          "name": "Svalbard",
+          "url": "https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA"
+        }
+      ],
+      "duration_ms": 328015,
+      "name": "Faking It",
+      "url": "https://open.spotify.com/track/0lP6unRRdWs0cqa6qjsSmn"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "On Circles",
-        "url": "https://open.spotify.com/album/2SCAxvAGQLWK3SwPsZyku1"
-      },
-      "artists": [
-        {
-          "name": "Caspian",
-          "url": "https://open.spotify.com/artist/4SXj7TVoA3bgfR8AVssACa"
-        }
-      ],
-      "duration_ms": 413400,
-      "name": "Wildblood",
-      "url": "https://open.spotify.com/track/2Ma12h5UbOSZ5j7eApuDZO"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "Kings Today",
         "url": "https://open.spotify.com/album/741N4FVAoLLzP11TWUhShI"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 235954,
       "name": "Kings Today",
       "url": "https://open.spotify.com/track/1uCNIM6XKraHMPUsWXYzCq"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "On Circles",
+        "url": "https://open.spotify.com/album/2SCAxvAGQLWK3SwPsZyku1"
+      },
+      "artists": [
+        {
+          "name": "Caspian",
+          "url": "https://open.spotify.com/artist/4SXj7TVoA3bgfR8AVssACa"
+        }
+      ],
+      "duration_ms": 413400,
+      "name": "Wildblood",
+      "url": "https://open.spotify.com/track/2Ma12h5UbOSZ5j7eApuDZO"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Animo",
-        "url": "https://open.spotify.com/album/5z7fDpyjFEYF4XrnUQ8BEd"
-      },
-      "artists": [
-        {
-          "name": "Profiler",
-          "url": "https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo"
-        }
-      ],
-      "duration_ms": 195800,
-      "name": "Animo",
-      "url": "https://open.spotify.com/track/3JDUSXqeaecr0d1mCFTSMh"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "What's The Holy (Nobel) Today?",
         "url": "https://open.spotify.com/album/6YSOp0BzAFGLlHOnOOXLzK"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 226712,
       "name": "What's The Holy (Nobel) Today?",
       "url": "https://open.spotify.com/track/6TqbmZBcbKSUhFzy7ouAZq"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "Animo",
+        "url": "https://open.spotify.com/album/5z7fDpyjFEYF4XrnUQ8BEd"
+      },
+      "artists": [
+        {
+          "name": "Profiler",
+          "url": "https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo"
+        }
+      ],
+      "duration_ms": 195800,
+      "name": "Animo",
+      "url": "https://open.spotify.com/track/3JDUSXqeaecr0d1mCFTSMh"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Love in the Time of Pestilence",
-        "url": "https://open.spotify.com/album/2umQh1Vbk9Kxvpg8dlkvId"
-      },
-      "artists": [
-        {
-          "name": "The Chronicles of Manimal and Samara",
-          "url": "https://open.spotify.com/artist/2V3zzIcq2sbRbaEjbGypc8"
-        }
-      ],
-      "duration_ms": 461306,
-      "name": "Love in the Time of Pestilence",
-      "url": "https://open.spotify.com/track/1L4BtGYob6EaRXLDzSmcom"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "Betrayal",
         "url": "https://open.spotify.com/album/0EYPOzgnCNRp2Z95AZtyMf"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 319560,
       "name": "Betrayal",
       "url": "https://open.spotify.com/track/5BDcGkq3HoyvgvbMDnzCN5"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "Love in the Time of Pestilence",
+        "url": "https://open.spotify.com/album/2umQh1Vbk9Kxvpg8dlkvId"
+      },
+      "artists": [
+        {
+          "name": "The Chronicles of Manimal and Samara",
+          "url": "https://open.spotify.com/artist/2V3zzIcq2sbRbaEjbGypc8"
+        }
+      ],
+      "duration_ms": 461306,
+      "name": "Love in the Time of Pestilence",
+      "url": "https://open.spotify.com/track/1L4BtGYob6EaRXLDzSmcom"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Machine Violence",
-        "url": "https://open.spotify.com/album/2adncZksC8j5GeagRKPNsP"
-      },
-      "artists": [
-        {
-          "name": "Realize",
-          "url": "https://open.spotify.com/artist/5Lcte3icI4BDaSt7TyRYKL"
-        }
-      ],
-      "duration_ms": 202973,
-      "name": "Alone Against Flames",
-      "url": "https://open.spotify.com/track/0chpxeBNSAxm3OcHJEgBgo"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "The Angel of History",
         "url": "https://open.spotify.com/album/5dhT3bPpiEtSDnMvkwjekT"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 213688,
       "name": "Dante's Inspiration",
       "url": "https://open.spotify.com/track/0xqCqprCOqvz2zGridoiqu"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "Machine Violence",
+        "url": "https://open.spotify.com/album/2adncZksC8j5GeagRKPNsP"
+      },
+      "artists": [
+        {
+          "name": "Realize",
+          "url": "https://open.spotify.com/artist/5Lcte3icI4BDaSt7TyRYKL"
+        }
+      ],
+      "duration_ms": 202973,
+      "name": "Alone Against Flames",
+      "url": "https://open.spotify.com/track/0chpxeBNSAxm3OcHJEgBgo"
     },
     {
       "added_at": "2023-12-07 20:09:02",

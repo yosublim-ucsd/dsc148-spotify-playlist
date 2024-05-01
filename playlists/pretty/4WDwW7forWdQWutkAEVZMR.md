@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 
 > Your go\-to playlist for this week's hottest music featuring The Chainsmokers, Beyoncé, Miley Cyrus &amp; more! Cover: The Chainsmokers &amp; Fridayy
 
-[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,027 likes - 103 songs - 5 hr 19 min
+[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,025 likes - 103 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 | 102 | [Other Boys](https://open.spotify.com/track/5WZlorRUxgryaweu7kqeHd) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Other Boys](https://open.spotify.com/album/3eb9d46lBCh5p1XBn66jBQ) | 2:17 |
 | 103 | [Used To Be Young](https://open.spotify.com/track/0Nfh4u0J4bajcyp5pzaWCx) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Used To Be Young](https://open.spotify.com/album/1Ev3d9zcHORaPdzCQnWFrA) | 3:11 |
 
-Snapshot ID: `NjkyNiw3NjRjMTc2YjcyNjJhYjVkYjMwYmFlZWI4ODdhODdlZmU0MmIxZDRi`
+Snapshot ID: `AAAbDnZMF2tyYqtdswuu64h6h+/kKx1L`

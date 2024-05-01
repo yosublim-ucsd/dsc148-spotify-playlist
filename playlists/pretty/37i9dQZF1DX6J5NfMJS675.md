@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 
 > Welcome to the dark side of the club.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,422,586 likes - 75 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,423,114 likes - 75 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 | 74 | [Push](https://open.spotify.com/track/3Cl9gRgqS1CjGWJrjCd251) | [Martin Books](https://open.spotify.com/artist/7gljeFp0b7NCkCg6G5O7u6) | [Push](https://open.spotify.com/album/7iWsiflV8QGYjsxJ9nHOPG) | 4:37 |
 | 75 | [Worst Poisons Taste the Sweetest](https://open.spotify.com/track/2VB9UYFqo0tIEyMPEMJljh) | [Isabelle Beaucamp](https://open.spotify.com/artist/4RrxhOmXj9bjyb5kXwt3Pz) | [Worst Poisons Taste the Sweetest](https://open.spotify.com/album/3xx8Sc6Z1ltqS3ws6Of4QW) | 6:17 |
 
-Snapshot ID: `MTcxNDA4MjQwMCwwMDAwMDAwMGYyNDgxOGZhMzgwZDA5YmNkNDgxM2E2NWE5N2JhYzU0`
+Snapshot ID: `ZirSYAAAAADySBj6OA0JvNSBOmWpe6xU`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The best indie tracks of the moment\. Cover: Hovvdy
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,815 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,834 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [Much](https://open.spotify.com/track/1jBAF8GMIpY37GXvOEAauP) | [oh caroline](https://open.spotify.com/artist/3pRWI652A2fPGwFbCjtoaW), [Spencer Hunt](https://open.spotify.com/artist/4btBTQ1pWqpnDPY4BWMh1S) | [Much](https://open.spotify.com/album/7BpDH9xGQ2W7LKug4v9yup) | 2:59 |
 | 100 | [Apartment A](https://open.spotify.com/track/7EgX30W2Gj5vZqx4zkDMAM) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Apartment A](https://open.spotify.com/album/3QZBxL6hF9ePj3qGJw6iPx) | 3:12 |
 
-Snapshot ID: `MTcxNDEwNDAwMCwwMDAwMDAwMDg1YTA2NzJjOGIxM2M2OGU3NGZiZGVmZDIzMWI1OGFl`
+Snapshot ID: `ZismwAAAAACFoGcsixPGjnT73v0jG1iu`

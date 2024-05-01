@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "What Will the 2024 Song of the Summer Be!? Find out with the perfect soundtrack for the sweatiest season! Includes Summer 2023 edition &amp; bonus tracks.",
+  "description": "What Will the 2024 Song of the Summer Be!? Find out with the perfect soundtrack for the sweatiest season! Includes Summer 2023 edition &amp;amp; bonus tracks.",
   "name": "Obama\u2019s Summer Playlist 2024",
   "tracks": [
     {
@@ -8188,7 +8188,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 228093,
       "name": "Buscando Olvidar",
       "url": "https://open.spotify.com/track/7ptGeAh91cnAiIsDQFpsQG"
@@ -9788,7 +9788,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 232500,
       "name": "Central Park",
       "url": "https://open.spotify.com/track/4rX700EH3qpPEkQvUgEdkh"
@@ -20914,7 +20914,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 222000,
       "name": "Gata Only",
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
@@ -38531,6 +38531,24 @@
     },
     {
       "album": {
+        "name": "Closure",
+        "url": "https://open.spotify.com/album/12IwArmqXpgfo1yQpw1pqd"
+      },
+      "artists": [
+        {
+          "name": "Kaleb Sanders",
+          "url": "https://open.spotify.com/artist/4hsCKTS1M5pg7uIJuotsDB"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172963,
+      "name": "No Good At Letting Go",
+      "url": "https://open.spotify.com/track/5DKKQv5yXNvoZnmdnR8ROs"
+    },
+    {
+      "album": {
         "name": "An\u00e1foras",
         "url": "https://open.spotify.com/album/4V987WePrxIr8LCkoWVnJJ"
       },
@@ -39254,7 +39272,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 142414,
       "name": "Not Totally Lost",
       "url": "https://open.spotify.com/track/3jrPldsl3bHmWgDDG5zhT9"
@@ -50442,7 +50460,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 176935,
       "name": "Step By Step",
       "url": "https://open.spotify.com/track/3TBGtnf1PS0SJ3CbEypNJJ"

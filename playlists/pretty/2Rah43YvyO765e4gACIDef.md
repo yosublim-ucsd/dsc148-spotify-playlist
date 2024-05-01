@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Rah43YvyO765e4gACIDef.md) - [plain]
 
 > Wake up in your makeup? Rock it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78 likes - 24 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 79 likes - 24 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/2Rah43YvyO765e4gACIDef.md) - [plain]
 | 23 | [The Scratch](https://open.spotify.com/track/3eU0KGjcpzaQ7UXGMEcOtB) | [7 Year Bitch](https://open.spotify.com/artist/535KSdsDbNGj6w6eCBkRP5) | [Viva Zapata!](https://open.spotify.com/album/2BJgilP7pIsPm64xMESBVw) | 1:59 |
 | 24 | [Poison Steak](https://open.spotify.com/track/5GvrWC5WIeUcUi2q1ywhYY) | [Red Aunts](https://open.spotify.com/artist/5leYQ5Go0WzslKsAoicGaO) | [Ghetto Blaster](https://open.spotify.com/album/4zTXmkWoU432R9PcW55rZj) | 2:04 |
 
-Snapshot ID: `NDEsYmJmODRiNmE5YzVmNjRjYWQ4YjAxNTM1YmJkYWYzMGVjOTYzNWUyZQ==`
+Snapshot ID: `AAAAKbv4S2qcX2TK2LAVNbva8w7JY14u`

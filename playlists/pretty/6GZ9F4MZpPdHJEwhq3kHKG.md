@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/6GZ9F4MZpPdHJEwhq3kHKG.md) - [plain]
 | 40 | [Seth Rogen \- Thank You](https://open.spotify.com/track/3HOGSOiAzreUzcTOuoXsy1) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Seth Rogen \- Classic Soul](https://open.spotify.com/album/4psvWKJCKc1OTVCVbo4gMA) | 0:19 |
 | 41 | [Let's Stay Together](https://open.spotify.com/track/7kWhdmRYv8CqbWNqfojqVd) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/5MQx9U0AAIrcbvZ0lL1RCi) | 3:19 |
 
-Snapshot ID: `OTMsZmFhYTQxOTk2N2U1MTkwYzljZjMyZTBiZTc1NmMxZDIwNTVmMWFjZg==`
+Snapshot ID: `AAAAXfqqQZln5RkMnPMuC+dWwdIFXxrP`

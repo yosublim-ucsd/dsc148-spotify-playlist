@@ -1315,4 +1315,4 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1305 | [Fighter](https://open.spotify.com/track/7IzOtrRXV2juIwMrxXrjPJ) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE) | [Fighter](https://open.spotify.com/album/3CI3INdJtK8htyC1zGgcaa) | 3:49 |
 | 1306 | [Lose Control](https://open.spotify.com/track/3qaGhSwwIkEBjcNzsAfkyw) | [Tomsky](https://open.spotify.com/artist/12NNDc1Q7rwbppTMf8UAif), [D.O.N](https://open.spotify.com/artist/42c4pJO8Opk39FSraBPUDC) | [Lose Control](https://open.spotify.com/album/3drQTkX4rK3SZ4cstDAmxs) | 3:03 |
 
-Snapshot ID: `MTM1MSw3NmUwNDA0ZTUwZWRhYmI5MzNjNjY3MzgzYjJjMmZkMjE4MGNkNWU2`
+Snapshot ID: `AAAFR3bgQE5Q7au5M8ZnODssL9IYDNXm`

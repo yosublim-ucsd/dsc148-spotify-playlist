@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Marcus King
 
-[Spotify](https://open.spotify.com/user/spotify) - 605,269 likes - 150 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 605,308 likes - 150 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 149 | [The Sacred Now](https://open.spotify.com/track/1lAv7oakRuwnzrqjFyxSqx) | [Iris DeMent](https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY) | [The Sacred Now / How Long](https://open.spotify.com/album/0yol57x7XXIwXSrlnDZ4s8) | 4:12 |
 | 150 | [This Will Be Our Year](https://open.spotify.com/track/2oy3hJGwD5aJSlFy4OnAkL) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [This Will Be Our Year](https://open.spotify.com/album/1aunApiIbz5beHK7ty68bT) | 2:37 |
 
-Snapshot ID: `MTcxNDEwNDAwMCwwMDAwMDAwMDg0NzQ1YzViZmI3NTJmYTI3NDZiNzViZDY4YzcxYWE2`
+Snapshot ID: `ZismwAAAAACEdFxb+3UvonRrdb1oxxqm`

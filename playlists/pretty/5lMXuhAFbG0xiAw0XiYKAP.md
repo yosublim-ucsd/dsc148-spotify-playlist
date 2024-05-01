@@ -19,4 +19,4 @@ pretty - [cumulative](/playlists/cumulative/5lMXuhAFbG0xiAw0XiYKAP.md) - [plain]
 | 9 | [Bohemian Rhapsody \- 2011 Remaster](https://open.spotify.com/track/1pwE0jB6MTtTWx8fzqriAj) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits \(2011 Remaster\)](https://open.spotify.com/album/6VAFbY1kcBF748xSyyisxY) | 5:55 |
 | 10 | [Everlong](https://open.spotify.com/track/07q6QTQXyPRCf7GbLakRPr) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Greatest Hits](https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm) | 4:09 |
 
-Snapshot ID: `MTUsNThlM2RiNGRmOTNjNGQ5NDU0NzBhZDYyMmE5ZmZjMTMzN2U2MWY2NA==`
+Snapshot ID: `AAAAD1jj2035PE2UVHCtYiqf/BM35h9k`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62Nfha2yFhL.md) - [plain]
 
 > every day soul with a funky groove for a laid back day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 901,235 likes - 117 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 901,220 likes - 117 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62Nfha2yFhL.md) - [plain]
 | 116 | [King James](https://open.spotify.com/track/0TtSoFrbLGjmpIgY4KgBeq) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [King James](https://open.spotify.com/album/4oLEB2ABMfxqC6mchADZp7) | 3:17 |
 | 117 | [Love Me Like \(feat\. DUCKWRTH\)](https://open.spotify.com/track/1P9KFw6u4vX7hbFcFZd1yL) | [Rayana Jay](https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Love Me Like \(feat\. DUCKWRTH\)](https://open.spotify.com/album/2RZUiUCPzbh4hb0IJ9Bh7I) | 2:44 |
 
-Snapshot ID: `MTcxMzQ5OTIwMCwwMDAwMDAwMDE3MWQ1MzA4MjdjZjMyOGY1Y2ExMTAyZDFhYWE1N2M3`
+Snapshot ID: `ZiHsQAAAAAAXHVMIJ88yj1yhEC0aqlfH`

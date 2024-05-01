@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Dylan Schneider
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,230,956 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,231,043 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Kiss My Boots](https://open.spotify.com/track/10cp4aOQWs8tFrbKK7A9nD) | [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [Kiss My Boots](https://open.spotify.com/album/1dU5eqJrPOxxy7L6sktkDn) | 3:16 |
 | 100 | [Tie Up](https://open.spotify.com/track/1ldVci33AH29zhSR4fTIOt) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Tie Up](https://open.spotify.com/album/1LtPTOxjuWJ2iPUy2ILU9e) | 3:08 |
 
-Snapshot ID: `MTcxNDEwNDA2MCwwMDAwMDAwMDZiMTU4MDA1NzkzYjE3ZTUzM2EyNzdiMDNhN2IwNDM3`
+Snapshot ID: `Zism/AAAAABrFYAFeTsX5TOid7A6ewQ3`

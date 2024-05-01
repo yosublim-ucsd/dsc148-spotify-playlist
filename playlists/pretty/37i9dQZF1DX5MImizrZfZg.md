@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 
 > The smoothest jazz of the 2000s\. Cover: Rick Braun
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,786 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,823 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 | 49 | [All Jazzed Up \(And Nowhere To Go\)](https://open.spotify.com/track/05VQbLH0fV9y6XEf8fF4sp) | [Everette Harp](https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ) | [My Inspiration](https://open.spotify.com/album/5aldZnsN6RAMd5YOn4bdXW) | 5:07 |
 | 50 | [Do You Wanna Dance](https://open.spotify.com/track/1uDomLpzVMPDh3yTRPHGwd) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP) | [Midnight Love](https://open.spotify.com/album/2LMziPDUaak6ktGPokKhls) | 3:41 |
 
-Snapshot ID: `MTcxMTM5MDYzNCwwMDAwMDAwMDU0OGY4NTg5NmMyYjc0NWVmMjE4NzViOTcxZDBiMTBm`
+Snapshot ID: `ZgG/qgAAAABUj4WJbCt0XvIYdblx0LEP`

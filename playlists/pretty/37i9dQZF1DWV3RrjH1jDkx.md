@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Norge Elsker Rap 🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,434 likes - 107 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,455 likes - 107 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 106 | [DECIBEL](https://open.spotify.com/track/2kiC5fopiYY3YbpZvZE3Pf) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ), [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [DECIBEL](https://open.spotify.com/album/06NUaJPqMJnjawwkspDjHz) | 2:36 |
 | 107 | [Knock Yourself Out XD](https://open.spotify.com/track/7sVPmzAf2TagX4anSxasuo) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Knock Yourself Out XD](https://open.spotify.com/album/6a6vazlfojF2pu0VXhmn4r) | 2:48 |
 
-Snapshot ID: `MTcxNDEyODU4NywwMDAwMDAwMGRlMDU5YjM3NDU1MjY5YTBlYzFlZDY5MDdkNTJkNjA0`
+Snapshot ID: `ZiuGywAAAADeBZs3RVJpoOwe1pB9UtYE`

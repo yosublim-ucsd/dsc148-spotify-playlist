@@ -1,12 +1,12 @@
 {
   "description": "Latest and biggest tracks from Jamaica's Dancehall scene. Cover: Intence ",
-  "num_followers": 65203,
+  "num_followers": 65280,
   "original_name": "Back a Yard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4NjgzNzI3MiwwMDAwMDAwMGZhY2JmZGNhMmU3MjNjNjA3N2FmZjkxZGI0YWQ4Yjdi",
+  "snapshot_id": "ZIsYGAAAAAD6y/3KLnI8YHev+R20rYt7",
   "tracks": [
     {
       "added_at": "2023-05-24 08:21:37",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Curious",
-        "url": "https://open.spotify.com/album/4v8HOUiwFEMkvYpnlzEsX4"
-      },
-      "artists": [
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        }
-      ],
-      "duration_ms": 161739,
-      "name": "Curious",
-      "url": "https://open.spotify.com/track/3kH4ElFSbaNiNejXE71dga"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Calmc",
         "url": "https://open.spotify.com/album/2VqdB8PN5Fm5JEfHlTee4X"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 173844,
       "name": "Calmc",
       "url": "https://open.spotify.com/track/4qRTXseVumpZKty0AGH1o5"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Curious",
+        "url": "https://open.spotify.com/album/4v8HOUiwFEMkvYpnlzEsX4"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "duration_ms": 161739,
+      "name": "Curious",
+      "url": "https://open.spotify.com/track/3kH4ElFSbaNiNejXE71dga"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Top Tier",
-        "url": "https://open.spotify.com/album/5RQDN8PlDQELozxIeUKVXC"
-      },
-      "artists": [
-        {
-          "name": "Bayka",
-          "url": "https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2"
-        }
-      ],
-      "duration_ms": 141696,
-      "name": "Top Tier",
-      "url": "https://open.spotify.com/track/57RxPPRCpdFkx1q6pNn0Hd"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "I'll Never Die",
         "url": "https://open.spotify.com/album/6ZDK2wcGJqmfk3hrP3ZHXu"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 146311,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/3iSr9hJ5Ho56LhKXILErsJ"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Top Tier",
+        "url": "https://open.spotify.com/album/5RQDN8PlDQELozxIeUKVXC"
+      },
+      "artists": [
+        {
+          "name": "Bayka",
+          "url": "https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2"
+        }
+      ],
+      "duration_ms": 141696,
+      "name": "Top Tier",
+      "url": "https://open.spotify.com/track/57RxPPRCpdFkx1q6pNn0Hd"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Solemn Request",
-        "url": "https://open.spotify.com/album/6rnacNkcCAOybo9DZNKHXM"
-      },
-      "artists": [
-        {
-          "name": "Chronic Law",
-          "url": "https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w"
-        }
-      ],
-      "duration_ms": 186958,
-      "name": "Solemn Request",
-      "url": "https://open.spotify.com/track/4svJStfE1Z3lMpcPeqDYlD"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Live n' Learn",
         "url": "https://open.spotify.com/album/1CzlfsRqL1sgMuhniUU5CZ"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 161610,
       "name": "Live n' Learn",
       "url": "https://open.spotify.com/track/4YSbKyNXJ1vHVgM4bYerDs"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Solemn Request",
+        "url": "https://open.spotify.com/album/6rnacNkcCAOybo9DZNKHXM"
+      },
+      "artists": [
+        {
+          "name": "Chronic Law",
+          "url": "https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w"
+        }
+      ],
+      "duration_ms": 186958,
+      "name": "Solemn Request",
+      "url": "https://open.spotify.com/track/4svJStfE1Z3lMpcPeqDYlD"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Stay Clean",
-        "url": "https://open.spotify.com/album/7o6IYuy24165gpEsv12hUQ"
-      },
-      "artists": [
-        {
-          "name": "Valiant",
-          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
-        },
-        {
-          "name": "Vybz Kartel",
-          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
-        }
-      ],
-      "duration_ms": 159022,
-      "name": "Stay Clean",
-      "url": "https://open.spotify.com/track/0uHxgbtjFtgFnvZddrENzf"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Corrupt, Pt. 2",
         "url": "https://open.spotify.com/album/6xqICcPQrRijWbnfWNTc3r"
       },
@@ -1047,42 +1027,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Bitcoin",
-        "url": "https://open.spotify.com/album/2Xfm6HJSoCwVmeTcJHIQQp"
+        "name": "Stay Clean",
+        "url": "https://open.spotify.com/album/7o6IYuy24165gpEsv12hUQ"
       },
       "artists": [
         {
-          "name": "Teejay",
-          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
         },
         {
-          "name": "TroyBoss",
-          "url": "https://open.spotify.com/artist/2mjMr4WZPRQHSJSBtAUyfr"
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
         }
       ],
-      "duration_ms": 196800,
-      "name": "Bitcoin",
-      "url": "https://open.spotify.com/track/6wximh7UUXaridTcdnGzNo"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Smood Wid It",
-        "url": "https://open.spotify.com/album/20Vpcybdb2w2aDsIfXR9SA"
-      },
-      "artists": [
-        {
-          "name": "Skeng",
-          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
-        },
-        {
-          "name": "Jigsta",
-          "url": "https://open.spotify.com/artist/5PrbR0obhZ9w3TzgNaiEZ4"
-        }
-      ],
-      "duration_ms": 138823,
-      "name": "Smood Wid It",
-      "url": "https://open.spotify.com/track/0PwkNE1fRJIsbHCQnSGCyp"
+      "duration_ms": 159022,
+      "name": "Stay Clean",
+      "url": "https://open.spotify.com/track/0uHxgbtjFtgFnvZddrENzf"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1107,22 +1067,42 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Statistic",
-        "url": "https://open.spotify.com/album/2o96kaWezr20piyF7LRqne"
+        "name": "Smood Wid It",
+        "url": "https://open.spotify.com/album/20Vpcybdb2w2aDsIfXR9SA"
       },
       "artists": [
         {
-          "name": "Bayka",
-          "url": "https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2"
+          "name": "Skeng",
+          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
         },
         {
-          "name": "Lone Don",
-          "url": "https://open.spotify.com/artist/6hajGWsMkjIa0l8vemo3H2"
+          "name": "Jigsta",
+          "url": "https://open.spotify.com/artist/5PrbR0obhZ9w3TzgNaiEZ4"
         }
       ],
-      "duration_ms": 182909,
-      "name": "Statistic",
-      "url": "https://open.spotify.com/track/19NSqvgwMXkRc1g0FCvaR9"
+      "duration_ms": 138823,
+      "name": "Smood Wid It",
+      "url": "https://open.spotify.com/track/0PwkNE1fRJIsbHCQnSGCyp"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Bitcoin",
+        "url": "https://open.spotify.com/album/2Xfm6HJSoCwVmeTcJHIQQp"
+      },
+      "artists": [
+        {
+          "name": "Teejay",
+          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
+        },
+        {
+          "name": "TroyBoss",
+          "url": "https://open.spotify.com/artist/2mjMr4WZPRQHSJSBtAUyfr"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Bitcoin",
+      "url": "https://open.spotify.com/track/6wximh7UUXaridTcdnGzNo"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1143,6 +1123,26 @@
       "duration_ms": 149493,
       "name": "Bun Fi Bun (Fast)",
       "url": "https://open.spotify.com/track/4Ta2BdlUeRsSdQARipaDTq"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Statistic",
+        "url": "https://open.spotify.com/album/2o96kaWezr20piyF7LRqne"
+      },
+      "artists": [
+        {
+          "name": "Bayka",
+          "url": "https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2"
+        },
+        {
+          "name": "Lone Don",
+          "url": "https://open.spotify.com/artist/6hajGWsMkjIa0l8vemo3H2"
+        }
+      ],
+      "duration_ms": 182909,
+      "name": "Statistic",
+      "url": "https://open.spotify.com/track/19NSqvgwMXkRc1g0FCvaR9"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Weak Spot",
-        "url": "https://open.spotify.com/album/6S6hs9wcy2hxJwkmQdKLwO"
-      },
-      "artists": [
-        {
-          "name": "Elephant Man",
-          "url": "https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on"
-        }
-      ],
-      "duration_ms": 213760,
-      "name": "Weak Spot",
-      "url": "https://open.spotify.com/track/0G7OH0l8A8qipYKUh4KsSJ"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "I'm Back",
         "url": "https://open.spotify.com/album/4oSTRCHAO3oARVtqhghcve"
       },
@@ -2071,6 +2055,22 @@
       "duration_ms": 116323,
       "name": "I'm Back",
       "url": "https://open.spotify.com/track/71tutqZpWTDmQcdPnYNGcJ"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Weak Spot",
+        "url": "https://open.spotify.com/album/6S6hs9wcy2hxJwkmQdKLwO"
+      },
+      "artists": [
+        {
+          "name": "Elephant Man",
+          "url": "https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on"
+        }
+      ],
+      "duration_ms": 213760,
+      "name": "Weak Spot",
+      "url": "https://open.spotify.com/track/0G7OH0l8A8qipYKUh4KsSJ"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -2295,18 +2295,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "No Love",
-        "url": "https://open.spotify.com/album/2AR2cNQcrYLK8vAxTZe8ai"
+        "name": "Skeng Live Large",
+        "url": "https://open.spotify.com/album/4sgsQQ4qo5KfgOZ5WBviVZ"
       },
       "artists": [
         {
-          "name": "Byron Messia",
-          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
+          "name": "Guhoffentertainment",
+          "url": "https://open.spotify.com/artist/4bai0UjpFWuKw86ytBiIiV"
+        },
+        {
+          "name": "Skeng",
+          "url": "https://open.spotify.com/artist/27nN7fkb9DQGvW6kNWYBuc"
         }
       ],
-      "duration_ms": 188737,
-      "name": "Talibans",
-      "url": "https://open.spotify.com/track/0in4JBEFmQVtyNJCN9UeXU"
+      "duration_ms": 160313,
+      "name": "Skeng Live Large",
+      "url": "https://open.spotify.com/track/0H1HSpmEAr0wUa9QTFsdzK"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -2323,6 +2327,22 @@
       "duration_ms": 237458,
       "name": "West Indies",
       "url": "https://open.spotify.com/track/6GbvWYsT5sWXYgo8Bw6HPE"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "No Love",
+        "url": "https://open.spotify.com/album/2AR2cNQcrYLK8vAxTZe8ai"
+      },
+      "artists": [
+        {
+          "name": "Byron Messia",
+          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
+        }
+      ],
+      "duration_ms": 188737,
+      "name": "Talibans",
+      "url": "https://open.spotify.com/track/0in4JBEFmQVtyNJCN9UeXU"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -2375,26 +2395,6 @@
       "duration_ms": 172552,
       "name": "Clip Tall",
       "url": "https://open.spotify.com/track/739LurvLBsXBgJJBLZzm27"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Skeng Live Large",
-        "url": "https://open.spotify.com/album/4sgsQQ4qo5KfgOZ5WBviVZ"
-      },
-      "artists": [
-        {
-          "name": "Guhoffentertainment",
-          "url": "https://open.spotify.com/artist/4bai0UjpFWuKw86ytBiIiV"
-        },
-        {
-          "name": "Skeng",
-          "url": "https://open.spotify.com/artist/27nN7fkb9DQGvW6kNWYBuc"
-        }
-      ],
-      "duration_ms": 160313,
-      "name": "Skeng Live Large",
-      "url": "https://open.spotify.com/track/0H1HSpmEAr0wUa9QTFsdzK"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -2455,22 +2455,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Top Prize",
-        "url": "https://open.spotify.com/album/3y09mvRbBlkfCJHmlpQnc7"
-      },
-      "artists": [
-        {
-          "name": "Alkaline",
-          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
-        }
-      ],
-      "duration_ms": 178200,
-      "name": "Maniac",
-      "url": "https://open.spotify.com/track/1tCcOw0WZuKRkW5xl9EhMm"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Dirt Bounce",
         "url": "https://open.spotify.com/album/1m4lFc3r7VV0V0OSJ4NEAf"
       },
@@ -2503,6 +2487,22 @@
       "duration_ms": 155391,
       "name": "Bermuda Triangle",
       "url": "https://open.spotify.com/track/3LwafVvOzaAsuZoMfFW9lj"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Top Prize",
+        "url": "https://open.spotify.com/album/3y09mvRbBlkfCJHmlpQnc7"
+      },
+      "artists": [
+        {
+          "name": "Alkaline",
+          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "Maniac",
+      "url": "https://open.spotify.com/track/1tCcOw0WZuKRkW5xl9EhMm"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -2571,22 +2571,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Soul Survivor Riddim",
-        "url": "https://open.spotify.com/album/7acAQDsVCREjceQG3ZcT9o"
-      },
-      "artists": [
-        {
-          "name": "Alkaline",
-          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
-        }
-      ],
-      "duration_ms": 163866,
-      "name": "Ocean Wave",
-      "url": "https://open.spotify.com/track/4eTwvH4pVt5U4kPfYgQQ19"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Yahoo Boyz",
         "url": "https://open.spotify.com/album/1RJtU38GiLuw0hkiC3dwtW"
       },
@@ -2603,6 +2587,22 @@
       "duration_ms": 157800,
       "name": "Yahoo Boyz",
       "url": "https://open.spotify.com/track/66WY3lKgXd61ls1lD2cNPI"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Soul Survivor Riddim",
+        "url": "https://open.spotify.com/album/7acAQDsVCREjceQG3ZcT9o"
+      },
+      "artists": [
+        {
+          "name": "Alkaline",
+          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
+        }
+      ],
+      "duration_ms": 163866,
+      "name": "Ocean Wave",
+      "url": "https://open.spotify.com/track/4eTwvH4pVt5U4kPfYgQQ19"
     },
     {
       "added_at": "2023-05-24 08:21:37",

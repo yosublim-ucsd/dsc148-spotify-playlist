@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > \(vcs pediram ela dropou\) flora matos É AULAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,187,454 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,187,100 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 49 | [Oikos](https://open.spotify.com/track/2RpB8rK0uKBywxY9LGXot0) | [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm), [RalphTheKiD](https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw) | [Oikos](https://open.spotify.com/album/6LOY2yoUd7EShCFjUrFpyC) | 2:28 |
 | 50 | [Sem Bala Contada](https://open.spotify.com/track/2yTuoDzpNuo2hiQvxFrD4f) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [Sem Bala Contada](https://open.spotify.com/album/4WlO7hqFv8sn7QYJ6Dm03S) | 2:47 |
 
-Snapshot ID: `MTcxNDEwMDQ2MCwwMDAwMDAwMDcyZDYxNDMxYjBlNjZmN2FlNzJmZTQ5YjI5ZGQzNzUx`
+Snapshot ID: `ZisY7AAAAABy1hQxsOZveucv5Jsp3TdR`

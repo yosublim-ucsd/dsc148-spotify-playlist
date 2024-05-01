@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/71kt7mHLzNDQFmmUOVWA6Q.md) - [plain]
 
 > The OFFICIAL Playlist for the Valorant Champions Tour!
 
-[John Lock](https://open.spotify.com/user/12178106667) - 8,410 likes - 63 songs - 3 hr 17 min
+[John Lock](https://open.spotify.com/user/12178106667) - 8,407 likes - 63 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/71kt7mHLzNDQFmmUOVWA6Q.md) - [plain]
 | 62 | [Llamarada](https://open.spotify.com/track/00kTse9Yp8CYSAKWlRIyuT) | [Macha Kiddo](https://open.spotify.com/artist/5sMMzzTjQpX6z7gKVOVlIv), [El Licenciado](https://open.spotify.com/artist/6OJ2DXPdpVl88gYuQkqzxY) | [Mala Crianza](https://open.spotify.com/album/2szxWyRwu1MyzrRaJsDehS) | 2:39 |
 | 63 | [Like This](https://open.spotify.com/track/2bA4qBF3S30cH0SS5imQQh) | [MAGNUS](https://open.spotify.com/artist/1lyii7pljE9uBeNXlZrSKP) | [Like This](https://open.spotify.com/album/2VBSrjDaZDrA0HaKd00jsw) | 2:44 |
 
-Snapshot ID: `MTc1LDY5NjUyYTI1NTUxNmJhNDlhYTFjZGNmZTczZDE1YjhjOTM2MDliMjk=`
+Snapshot ID: `AAAAr2llKiVVFrpJqhzc/nPRW4yTYJsp`

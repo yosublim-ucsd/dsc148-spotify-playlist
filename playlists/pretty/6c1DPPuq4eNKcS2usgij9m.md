@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6c1DPPuq4eNKcS2usgij9m.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 297 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 296 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/6c1DPPuq4eNKcS2usgij9m.md) - [plain]
 | 49 | [The Monkey Time](https://open.spotify.com/track/0VtvetMMdBu88MbUeM5YnL) | [Major Lance](https://open.spotify.com/artist/7onp6ew3LGoQImTt1I78gt) | [The Very Best Of Major Lance](https://open.spotify.com/album/0fUT5dIJZ6LHw0QjtDHdmV) | 2:46 |
 | 50 | [Candy Girl](https://open.spotify.com/track/4AFLFG6pyvhBLC37FbDwc2) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [The Very Best of Frankie Valli & The 4 Seasons](https://open.spotify.com/album/0NUEQILaBzavnzcMEs4buZ) | 2:37 |
 
-Snapshot ID: `Myw5NjQyZTA0ZDQ4MDhmMDAzNGQ4YjJmYjU5YzE2ZWI5Y2MzYjkwMGY5`
+Snapshot ID: `AAAAA5ZC4E1ICPADTYsvtZwW65zDuQD5`

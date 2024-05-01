@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Xb9zZnc2MHkRocj5kqPWU.md) - [plain]
 
 > Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this instrumental playlist for reflection and calm.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 62,851 likes - 171 songs - 9 hr 24 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 62,844 likes - 171 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/0Xb9zZnc2MHkRocj5kqPWU.md) - [plain]
 | 170 | [Papillon \- Solo Piano Version](https://open.spotify.com/track/1gbI7NTfAbYIqEkOdjI3Yo) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Papillon \(Solo Piano Version\)](https://open.spotify.com/album/1ABCgTKvrHDqtaQJoVL8LB) | 2:56 |
 | 171 | [Threnody \(after Mozart\) \- \(Arr\. for Piano from Piano Concerto No\. 23 in A Major, K\. 488: II\. Adagio by Olivia Belli\)](https://open.spotify.com/track/7A5dYneDw3MosZYSGSkMzC) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Threnody \(after Mozart\) \- \(Arr\. for Piano from Piano Concerto No\. 23 in A Major, K\. 488: II\. Adagio by Olivia Belli\)](https://open.spotify.com/album/7875RCkuLMiXtkns8lA1KK) | 4:19 |
 
-Snapshot ID: `MTgyMixmYTliZTQxMjExN2RiYWY5N2I0M2NkZDI1YWZjYzhhMjVkOTg2NWI3`
+Snapshot ID: `AAAHHvqb5BIRfbr5e0PN0lr8yKJdmGW3`

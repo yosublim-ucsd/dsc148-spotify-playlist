@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall du moment\. Photo : Jahyanai X DJ Quick
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,751 likes - 40 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,776 likes - 40 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 39 | [Himeros \(feat\. Bamby\)](https://open.spotify.com/track/327nnaX3FQ1VySeHzed1jQ) | [Mallaury](https://open.spotify.com/artist/0zfnSBlLA4HJshaxPu2zPV), [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6) | [Love 66](https://open.spotify.com/album/0hWOhFM6XiZl9HDFNUAdKE) | 2:53 |
 | 40 | [PAPA](https://open.spotify.com/track/7aQWrIsNNLXTO2BS5GoJfE) | [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8) | [PAPA](https://open.spotify.com/album/2s1k5Xgidmo3UdJc7jYdCl) | 3:36 |
 
-Snapshot ID: `MTcxNDEzNjQwMywwMDAwMDAwMDUwYjcyZWIwNTJkZmFkYWZmODc5MGNlZmNlNzFjZjUz`
+Snapshot ID: `ZiulUwAAAABQty6wUt+tr/h5DO/Occ9T`

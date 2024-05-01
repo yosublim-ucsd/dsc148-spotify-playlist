@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house &amp; techno music 🔥🔊 \| tech house \- house \- techno \- rave \- party \- bangers \- tiktok techno \- dance \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 10,085 likes - 53 songs - 2 hr 42 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 10,102 likes - 53 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 52 | [Driver's Seat](https://open.spotify.com/track/7jKcKjzg3qLxj494CJFaKO) | [Ghetto Birds](https://open.spotify.com/artist/1Obs7jiOM1afyArwQkOC1U), [Seb Todd](https://open.spotify.com/artist/0xEjjjF3bMMnMDmOropIrv) | [Driver's Seat](https://open.spotify.com/album/6SMiqdwbEoV5V8EKsXudQh) | 3:25 |
 | 53 | [Bling Bling](https://open.spotify.com/track/28A80M5fuAmM45KhIhkfSb) | [Kapuzen](https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN) | [Bling Bling](https://open.spotify.com/album/6jEOSx9MvT9fsgmNluB0Tm) | 2:04 |
 
-Snapshot ID: `ODY0MCxlNjQxY2NhNDBjZDkxODJlNzRkYjc0OTNjYzA2NjBiNGVjMzVlOWY1`
+Snapshot ID: `AAAhwOZBzKQM2RgudNt0k8wGYLTsNen1`

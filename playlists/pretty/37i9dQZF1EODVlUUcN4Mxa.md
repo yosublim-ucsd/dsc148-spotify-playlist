@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EODVlUUcN4Mxa.md) - [plain]
 | 19 | [Blue Hawaii](https://open.spotify.com/track/06zMm73RxNxnGxtwZWFP6K) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Blue Hawaii](https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi) | 2:36 |
 | 20 | [Dead Rock Stars 23: Elvis Presley](https://open.spotify.com/episode/7lC5X98eRVLwvon6X4VBSe) | [Dead Rock Stars](https://open.spotify.com/show/1mY3RxMurcLto0rqscD18V) | [Dead Rock Stars](https://open.spotify.com/album/1mY3RxMurcLto0rqscD18V) | 53:42 |
 
-Snapshot ID: `MjY3NzQ5MTcsMDAwMDAwMDBlOGYxMDU3NGQxZGYxNTk1MDNkNWYyODVjZWU1MWIzYQ==`
+Snapshot ID: `AZiNhQAAAADo8QV00d8VlQPV8oXO5Rs6`

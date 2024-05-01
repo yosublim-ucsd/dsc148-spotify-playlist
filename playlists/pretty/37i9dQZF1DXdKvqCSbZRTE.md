@@ -20,4 +20,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKvqCSbZRTE.md) - [plain]
 | 10 | [299\. Tips Menghadapi Audiens yang Ngeselin ketika Public Speaking](https://open.spotify.com/episode/343KhHnnYF1aiOVsBFsOLM) | [Pengembangan Diri](https://open.spotify.com/show/7vRGphUOaEtbpc1DhPZWDK) | [Pengembangan Diri](https://open.spotify.com/album/7vRGphUOaEtbpc1DhPZWDK) | 8:35 |
 | 11 | [perjalanan hidup](https://open.spotify.com/episode/1MkiBfhWcU1mRNsRVqHQrq) | [Gema Membiru ](https://open.spotify.com/show/3B5gGhRJEHnIeeDUt5jud4) | [Gema Membiru ](https://open.spotify.com/album/3B5gGhRJEHnIeeDUt5jud4) | 8:01 |
 
-Snapshot ID: `MTY4NjgzNjQ1NiwwMDAwMDAwMGEyNDM4OTc4YzllNDZmNDBhNjAxM2U3NjUwMmQwNmE4`
+Snapshot ID: `ZIsU6AAAAACiQ4l4yeRvQKYBPnZQLQao`

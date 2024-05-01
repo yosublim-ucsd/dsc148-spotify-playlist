@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXXaIQy2nTx.md) - [plain]
 
 > Music from "SAMURAI CHAMPLOO" /「サムライチャンプルー」の楽曲を1つのプレイリストで。©︎manglobe／下井草チャンプルーズ
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,756 likes - 78 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,803 likes - 78 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXXaIQy2nTx.md) - [plain]
 | 77 | [the updater](https://open.spotify.com/track/2hwZSpy60J9QzO7OVJXVRX) | [TSUTCHIE](https://open.spotify.com/artist/4nOZG02O2CExI2rH6zQELY) | [samurai champloo music record playlist](https://open.spotify.com/album/69CfIMNkw5i2BP3D0n6tOa) | 3:57 |
 | 78 | [offers](https://open.spotify.com/track/23r4j72HEmigROqIEGZfdD) | [TSUTCHIE](https://open.spotify.com/artist/4nOZG02O2CExI2rH6zQELY) | [samurai champloo music record playlist](https://open.spotify.com/album/69CfIMNkw5i2BP3D0n6tOa) | 3:35 |
 
-Snapshot ID: `MTcwOTE3NDI1NSwwMDAwMDAwMDVjNTM0OGVhMDFhZDc4NTVhZTMzMTRmOWFjOGFmMDQ3`
+Snapshot ID: `Zd/t7wAAAABcU0jqAa14Va4zFPmsivBH`

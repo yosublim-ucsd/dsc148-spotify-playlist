@@ -1,5 +1,5 @@
 {
-  "2024-04-30": 54409,
+  "2024-05-01": 54431,
   "date_first_scraped": "2022-09-15",
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
   "name": "This Is Montell Fish",
@@ -275,7 +275,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 227864,
       "name": "Break of Dawn",
       "url": "https://open.spotify.com/track/3gNLSsQTbAhihMPqWAX2Bk"
@@ -1221,7 +1221,7 @@
       ],
       "date_added": "2024-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 162921,
       "name": "Memoirs",
       "url": "https://open.spotify.com/track/2DJIj4fcNtcf2PvWDyS3do"

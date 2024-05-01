@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHIYChxh9sq.md) - [plain]
 
 > Get ready for <a href="spotify:genre:0JQ5DAqbMKFEJHdEnquSi1">BelicoFest</a> with the setlist of Oscar Maydon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,671 likes - 10 songs - 31 min 24 sec
+[Spotify](https://open.spotify.com/user/spotify) - 72,662 likes - 10 songs - 31 min 24 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,4 +19,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHIYChxh9sq.md) - [plain]
 | 9 | [Elvira](https://open.spotify.com/track/1xgWArLVFD1AKsLzftZYc2) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [DISTORSIÓN](https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT) | 3:16 |
 | 10 | [3 Doritos Despues \(En Vivo\)](https://open.spotify.com/track/07aKw7LfC27IGSb5ppldIQ) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [3 Doritos Despues \(En Vivo\)](https://open.spotify.com/album/4PJXpxazXhN6AOC0xUagQF) | 3:38 |
 
-Snapshot ID: `MTcxMzk2NjgyNCwwMDAwMDAwMGU1ZmM0YTkwYTVlZmFjNGYyNTEzMDhiODc3MDk4YzU0`
+Snapshot ID: `ZikO6AAAAADl/EqQpe+sTyUTCLh3CYxU`

@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/3xGWOQUB6jgHd4PLVQvbfG.md) - [plain]
 | 19 | [Safe and Sound](https://open.spotify.com/track/3DgpQf1o0LA2okhrXsPxYF) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [Safe and Sound \- Single](https://open.spotify.com/album/0GvUUFP8nAtHo8i2qV1smI) | 3:12 |
 | 20 | [Crazy Kids](https://open.spotify.com/track/19vqpjwWDbPmizICIUFinw) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [Crazy Kids](https://open.spotify.com/album/4spdGzu7F3JGKu26UHLUV2) | 3:49 |
 
-Snapshot ID: `NiwzYzAwY2JkMzQ3N2Y3MzM4M2IxMjc1NDBjMTU0NzVlNDVlYjQ2ZTY4`
+Snapshot ID: `AAAABjwAy9NHf3M4OxJ1QMFUdeRetG5o`

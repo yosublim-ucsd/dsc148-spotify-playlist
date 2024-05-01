@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 
 > Music from "THE IDOLM@STER MILLION LIVE!"\. アイドルマスター ミリオンライブ！の楽曲を1つのプレイリストで。<br/>THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,827 likes - 75 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,831 likes - 75 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 | 74 | [Cherry Colored Love](https://open.spotify.com/track/7f8Pjs5Y2Ff9YhqdLkmzNj) | [馬場このみ \(CV.髙橋ミナミ\)](https://open.spotify.com/artist/1RZ0BzKzGpd2CVCy5ZIN9F), [百瀬莉緒 \(CV.山口立花子\)](https://open.spotify.com/artist/2zyAqCozrCQiUWAv2JmoZw) | [THE IDOLM@STER MILLION THE@TER WAVE 04 Sherry 'n Cherry](https://open.spotify.com/album/5XJU5PcncxC8kuLr0uZ35w) | 4:00 |
 | 75 | [ReTale](https://open.spotify.com/track/1VjpNNA4LiMrL9Bh2honei) | [所 恵美 \(CV.藤井ゆきよ\)](https://open.spotify.com/artist/1kKVN7e55Q0Xi3n2ydAh6G), [松田亜利沙 \(CV.村川梨衣\)](https://open.spotify.com/artist/6LI5tAKp5afnUGZ9VBWPnV), [矢吹可奈 \(CV.木戸衣吹\)](https://open.spotify.com/artist/6yoMmG15xnhZrfYXL5sPUw) | [THE IDOLM@STER MILLION THE@TER WAVE 16 君彩](https://open.spotify.com/album/5HGLbVSNqj9HQHGGYe39No) | 4:47 |
 
-Snapshot ID: `MTY5OTM4MTE5NiwwMDAwMDAwMDM1YTk1Mzg4MDFiYWZjMmRlMDRkYjFiYjgxZjc3M2Nm`
+Snapshot ID: `ZUp/zAAAAAA1qVOIAbr8LeBNsbuB93PP`

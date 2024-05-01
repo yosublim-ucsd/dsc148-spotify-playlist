@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1S4JPQeJxtsN37X8as5EPk.md) - [plain]
 
 > Classic folk, bluegrass, country blues, and spirituals, along with some recent songs that have a traditional vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,714 likes - 49 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,710 likes - 49 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/1S4JPQeJxtsN37X8as5EPk.md) - [plain]
 | 48 | [Last Waltz](https://open.spotify.com/track/3nCW0yyLh4goRf8gPBsbgZ) | [Horse Feathers](https://open.spotify.com/artist/0lO2c86rQmrRJArBxgw0v8) | [Cynic's New Year](https://open.spotify.com/album/32HXUSvlymSKkbIVOAO2nM) | 3:59 |
 | 49 | [On a Monday](https://open.spotify.com/track/6pkTQc4TOGQSjiZpWL7pkQ) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [Traveler](https://open.spotify.com/album/1dFQzcR3ZuzdKp3zcVyrqu) | 4:09 |
 
-Snapshot ID: `MTEsMjkzYzE4MTQwNmJjZDlkMGE2ODZjNjZkMjY2OTE0NzdiMDVlNzNjMA==`
+Snapshot ID: `AAAACyk8GBQGvNnQpobGbSZpFHewXnPA`

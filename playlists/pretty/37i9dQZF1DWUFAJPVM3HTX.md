@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf?si=J4FJ5SOCSeu80s6wkYaUmg"> Sasha Keable </a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,738 likes - 201 songs - 9 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,804 likes - 201 songs - 9 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 200 | [Flights](https://open.spotify.com/track/3tdGDik2YTOVr8wuOBXPaV) | [Aryeè The Gem](https://open.spotify.com/artist/57IyzVgCqSf03yf30gIMwY), [Savannah Cristina](https://open.spotify.com/artist/7EsWLpczyTXU6zyfWt7ZkN) | [Flights](https://open.spotify.com/album/24RTGPwf3NEh7pEr4gbXgL) | 2:45 |
 | 201 | [JJC](https://open.spotify.com/track/4IcQbIh8U4DtXEy5KWKcAu) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj) | [JJC](https://open.spotify.com/album/6Ba8adcxt440I92gC7ld28) | 2:34 |
 
-Snapshot ID: `MTcxMzk3MTIxNSwwMDAwMDAwMDQ0ZTA5MmMxYjE1ZWJmNzBjMWM3MDY2MDlhM2E2ODNi`
+Snapshot ID: `ZikgDwAAAABE4JLBsV6/cMHHBmCaOmg7`

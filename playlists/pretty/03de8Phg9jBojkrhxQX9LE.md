@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,404 likes - 147 songs - 8 hr 14 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,402 likes - 147 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 146 | [High Speed](https://open.spotify.com/track/6iZ2Mx9oo4b2FYf3tWgJIs) | [Ryder99](https://open.spotify.com/artist/748I462k3vT1pR0EaFZEpZ) | [High Speed](https://open.spotify.com/album/1VTbSJSx6dpQjeQMnjWIK8) | 3:02 |
 | 147 | [Time](https://open.spotify.com/track/4mQw0wkyombRwP19uS2mLB) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Time](https://open.spotify.com/album/0Q4VYWUJUfB8nRz4XNNEEp) | 4:09 |
 
-Snapshot ID: `MjI1NyxkZmZiNTZkN2Y0N2UzZDhhYmNjZDdiMGY2ZGJjNjA4MmI5ZDIwM2Fh`
+Snapshot ID: `AAAI0d/7Vtf0fj2KvM17D228YIK50gOq`

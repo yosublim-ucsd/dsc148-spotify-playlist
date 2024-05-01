@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/2Ky26QAfAYo2Zdlo8MqcdH.md) - [plain]
 | 19 | [Hit That](https://open.spotify.com/track/1C2CPvmL5R6nODesaZF4df) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Splinter](https://open.spotify.com/album/71FFTyyIGpwE7J6P84niiU) | 2:48 |
 | 20 | [My Friends Over You](https://open.spotify.com/track/12mF5rnbbT7jNqiBv8NBFt) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Sticks and Stones](https://open.spotify.com/album/0BfBwxymSFgSgHf9XH13AK) | 3:40 |
 
-Snapshot ID: `MzcsZWY0NWU3NWIxZTU4MmQ0MjUyNDQ5MjE1ZDNkNmYzZDljZmEwNmQ3Mg==`
+Snapshot ID: `AAAAJe9F51seWC1CUkSSFdPW89nPoG1y`

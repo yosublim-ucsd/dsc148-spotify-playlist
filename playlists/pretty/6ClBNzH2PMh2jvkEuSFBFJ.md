@@ -18,4 +18,4 @@ pretty - [cumulative](/playlists/cumulative/6ClBNzH2PMh2jvkEuSFBFJ.md) - [plain]
 | 8 | [Hollywood and mid july](https://open.spotify.com/track/2muadjMMWnce8xrNOPHK7t) | [Loosegoats](https://open.spotify.com/artist/6tgChgEXkgpoJqmmoFkH44) | [Ideas for to travel down death's merry road](https://open.spotify.com/album/4XoFG9GjNRw0mOfts8MxFA) | 3:45 |
 | 9 | [Hangman's Walk](https://open.spotify.com/track/18qSHUgOLAeTUghWUqTjCX) | [The Nomads](https://open.spotify.com/artist/1oy9v5jsSnvtNrjgr0rr8t) | [Solna](https://open.spotify.com/album/28JVLxY4AHdwtVHbG4FGcX) | 3:03 |
 
-Snapshot ID: `MyxjNjNmMDI3MDMxZWNhMjg5MTBhNTFmMzYyNjhiZmNhMDZkYjdhZDEy`
+Snapshot ID: `AAAAA8Y/AnAx7KKJEKUfNiaL/KBtt60S`

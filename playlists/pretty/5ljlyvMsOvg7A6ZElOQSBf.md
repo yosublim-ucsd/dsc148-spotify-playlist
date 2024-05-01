@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/5ljlyvMsOvg7A6ZElOQSBf.md) - [plain]
 | 32 | [Only The Young Die Good](https://open.spotify.com/track/6rtNLT2zfzJYUYHNEILTDz) | [Saintseneca](https://open.spotify.com/artist/5x3hUNIfDPxP1Kr0ZaGs64) | [Dark Arc](https://open.spotify.com/album/1YU33N9wrVKaFtKJCWlxfB) | 3:35 |
 | 33 | [Spent Gladiator 2](https://open.spotify.com/track/0oy1kHKfKbUZUAyWVXBAhL) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Transcendental Youth](https://open.spotify.com/album/1AOcKK0PoTQtuRZVhOgJlp) | 2:52 |
 
-Snapshot ID: `NDIsMTAxOTU5NmY4OTM4OGE3OTMxNmM5MWM2OTRmNjgyMmM3YTliMGJmYg==`
+Snapshot ID: `AAAAKhAZWW+JOIp5MWyRxpT2gix6mwv7`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVovIX1fs8PH.md) - [plain]
 
 > The official playlist for Disney’s The Lion King.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,267 likes - 90 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,293 likes - 90 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVovIX1fs8PH.md) - [plain]
 | 89 | [Simba Confronts Scar](https://open.spotify.com/track/5muqOIk1UvjJcFU8SGWyPY) | [Robert Elhai](https://open.spotify.com/artist/3srL75plWSkeBCb2bz12qB), [Mark Mancina](https://open.spotify.com/artist/4pVaQcaBqbvk0ucB4r65e3) | [The Lion King: Original Broadway Cast Recording](https://open.spotify.com/album/1y6p6tINBthUWsQVQJmiYK) | 2:25 |
 | 90 | [King Of Pride Rock / Circle Of Life \(Reprise\)](https://open.spotify.com/track/5VXK5RWRg2wxt4hglMXVBZ) | [Heather Headley](https://open.spotify.com/artist/2xDc4cU0Rj6YG8SrmAHIy0), [Jason Raize](https://open.spotify.com/artist/7wtyPvLmy8LAf2CO0Xwy4p), [Tsidii Le Loka](https://open.spotify.com/artist/478Cvh1XjJiURpkqbM23SV), [Max Casella](https://open.spotify.com/artist/6ZpL3BxODab84CTGSL7UO8), [Tom Alan Robbins](https://open.spotify.com/artist/25X8ispTOFwbyfJEpkGh50), [Ensemble \- The Lion King](https://open.spotify.com/artist/0s0Hfb6ckk9qTjDeUOZXJp), [Lebo M.](https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA), [Geoff Hoyle](https://open.spotify.com/artist/1amAcZpoesNgBsGypTU6qs) | [The Lion King: Original Broadway Cast Recording](https://open.spotify.com/album/1y6p6tINBthUWsQVQJmiYK) | 3:22 |
 
-Snapshot ID: `MTY4NjkxODU3NSwwMDAwMDAwMDBmNDY1MWY4MDM5ZDAxODM0YzBiNjYwOGRlMzYzZjQ4`
+Snapshot ID: `ZIxVrwAAAAAPRlH4A50Bg0wLZgjeNj9I`

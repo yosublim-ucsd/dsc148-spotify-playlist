@@ -4,7 +4,7 @@
 
 > Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. Toño y Freddy en portada.
 
-156 songs - 8 hr 40 min
+157 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [El Rey Pobre](https://open.spotify.com/track/2b8N1NQbfGd0SykCgFEvCt) | [Raul Garcia Y Su Grupo Kabildo](https://open.spotify.com/artist/5eMD6UOZ2u2dGDTPUCCQmU) | [De California Te Escribo](https://open.spotify.com/album/5p5YGUu3u6gzDzkGxEO6wX) | 3:32 | 2024-02-23 |  |
 | [El Rey Pobre](https://open.spotify.com/track/50KxcUvmxXi1EEqfhKsaIB) | [Raul Garcia Y Su Grupo Kabildo](https://open.spotify.com/artist/5eMD6UOZ2u2dGDTPUCCQmU) | [De California Te Escribio](https://open.spotify.com/album/0J3Gjl9pwXAImjDGaB78PN) | 3:32 | 2023-10-12 | 2024-04-19 |
 | [El Valiente](https://open.spotify.com/track/5XDLUnGv37XHGzYLuxoGD3) | [Kanales](https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA), [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [El Valiente](https://open.spotify.com/album/3T0VfR68lFdvzrr9VpwDSA) | 3:06 | 2023-10-12 |  |
-| [En Cámara Lenta](https://open.spotify.com/track/7zwpqUQKWIYQetrh8E3T5g) | [La Dinastia De Tuzantla, Mich.](https://open.spotify.com/artist/3JCcDAQEUv3HT8OHGdmZnQ) | [La Reyna de Tierra Caliente](https://open.spotify.com/album/3l8s4sN6TQGhin5azC0DEi) | 2:45 | 2023-10-12 |  |
+| [En Cámara Lenta](https://open.spotify.com/track/7zwpqUQKWIYQetrh8E3T5g) | [La Dinastia De Tuzantla, Mich.](https://open.spotify.com/artist/3JCcDAQEUv3HT8OHGdmZnQ) | [La Reyna de Tierra Caliente](https://open.spotify.com/album/3l8s4sN6TQGhin5azC0DEi) | 2:45 | 2023-10-12 | 2024-05-01 |
 | [en Un Mundo Aparte](https://open.spotify.com/track/0YEBoxce5GMvwjHd9vIVcb) | [La Mar\-K De Tierra Caliente](https://open.spotify.com/artist/1rjI82QFF2g7ZN3LiCZQ1x) | [La Bestia Del Cuento](https://open.spotify.com/album/6S98fKolA6NR4RykVCZAGR) | 3:06 | 2023-10-12 | 2024-04-19 |
 | [Entre Copa y Copa](https://open.spotify.com/track/6nlVWZzuQxJ4jsVH4JeJG4) | [Grupo Alfa 7](https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ) | [Quiero Que Seas para Mí](https://open.spotify.com/album/7bxTdmbur0frxgcb4CoYIv) | 3:48 | 2023-10-12 |  |
 | [Es Demasiado Tarde](https://open.spotify.com/track/1Nl9TaswZRISPw5YQIKHDM) | [Estrellas De Tuzantla](https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN) | [Es Demasiado Tarde](https://open.spotify.com/album/1EYswPzL2vFLD4a19b6mNr) | 2:45 | 2023-10-12 |  |
@@ -101,6 +101,7 @@
 | [La Ultima Copa](https://open.spotify.com/track/1ayYCul1JRvWG1AhUzFFGU) | [Principez De Tuzantla](https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r) | [Inspirados por Ti](https://open.spotify.com/album/2ry1zWDPSGTlIXUavbiDSb) | 4:16 | 2023-10-12 |  |
 | [Las Envidias, los Chismes y las Traiciones](https://open.spotify.com/track/7zqNRqTWEAxatMuV9ZWVu7) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Yo Soy de la Sierra](https://open.spotify.com/album/70MQXaxxkRlWUKcuYXgA9j) | 3:18 | 2023-10-12 | 2024-01-03 |
 | [Las Joyas De Mi Vida](https://open.spotify.com/track/5920sskaak2DMq8An3I5Jz) | [La Nobleza De Aguililla](https://open.spotify.com/artist/5cNCUu9R7rlzsDPHQFKCdg) | [Exitos de La Nobleza de Aguililla](https://open.spotify.com/album/6ROhyA4PWN6oocX4pzwz9h) | 4:07 | 2023-10-12 |  |
+| [Lejos De Mi Patria](https://open.spotify.com/track/31Aox0MJgkIlafftLu9KN4) | [La Trayectoria de Tierra Caliente](https://open.spotify.com/artist/6W0JZjdYsh3DBquwYtqlFQ) | [Lejos De Mi Patria](https://open.spotify.com/album/4dynrrbbGJ1A2GJHz2RomU) | 4:11 | 2024-02-23 |  |
 | [Lejos de Mi Patria](https://open.spotify.com/track/14uTATiAcs2w3pUMUS84Ks) | [La Trayectoria de Tierra Caliente](https://open.spotify.com/artist/6W0JZjdYsh3DBquwYtqlFQ), [La Leyenda De Servando Montalva](https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn) | [Lejos de Mi Patria](https://open.spotify.com/album/2K9o5XWxJ8vnSKwg56Y16C) | 4:11 | 2023-10-12 | 2024-04-19 |
 | [Llorarás](https://open.spotify.com/track/1YwdJ7TVMa5uLt7JgCD9IK) | [Tierra Cali](https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv) | [Enamorado de Ti..\. \(Los creadores del Sacadito\)](https://open.spotify.com/album/4913geA8ahnB651ej4zI8g) | 3:51 | 2023-10-12 |  |
 | [Lo Descubri En Tus Brazos](https://open.spotify.com/track/5MzjN7ydAXnv7odUfl0xV7) | [La Marka](https://open.spotify.com/artist/7vrH7DRYWF88rTM7YpnAIj) | [Se Equivoco Tu Corazon](https://open.spotify.com/album/0L9ukApFrYj9w8eMODlVEb) | 2:29 | 2023-10-12 |  |

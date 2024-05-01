@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahsxs9xh0fn.md) - [plain]
 
 > autumn leaves falling like pieces into place
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,384 likes - 116 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,371 likes - 116 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahsxs9xh0fn.md) - [plain]
 | 115 | [I Am California](https://open.spotify.com/track/27ytYULTu6QSZBhGaOKq9i) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [No Rain, No Rose](https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE) | 5:13 |
 | 116 | [Unofferable](https://open.spotify.com/track/7M9V7fTIwsgipUaxfMH3hf) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Dark Eyes](https://open.spotify.com/album/0a8Rv4GVmIp6aR9rpC3JbL) | 4:06 |
 
-Snapshot ID: `MTcwMDY2NjA0NSwwMDAwMDAwMDEwY2Y5N2UyNTQ3MGNiNzNjMDI4ZGM0NjdhZDlkYTI0`
+Snapshot ID: `ZV4avQAAAAAQz5fiVHDLc8Ao3EZ62dok`

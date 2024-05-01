@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IGfrWkWQKM6F3fBWme0m1.md) - [plain]
 
 > inspirations &amp; favorites
 
-[Jacques Greene](https://open.spotify.com/user/philippeaubindionne) - 6,421 likes - 777 songs - 2 day 13 hr 16 min
+[Jacques Greene](https://open.spotify.com/user/philippeaubindionne) - 6,420 likes - 777 songs - 2 day 13 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -786,4 +786,4 @@ pretty - [cumulative](/playlists/cumulative/5IGfrWkWQKM6F3fBWme0m1.md) - [plain]
 | 776 | [Self Service 1999 \- Instupendo Remix](https://open.spotify.com/track/4n6XlGMsftEDxW9UXIhFMI) | [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS), [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Self Service 1999 \(Instupendo Remix\)](https://open.spotify.com/album/1EWFq5QP7ygc29BQTgGk1O) | 3:35 |
 | 777 | [All the Way](https://open.spotify.com/track/6xes1eufGQdmndjTQH6tkT) | [Thaiboy Digital](https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Back 2 Life](https://open.spotify.com/album/7A356O065CDhBZCA5tO6u5) | 3:15 |
 
-Snapshot ID: `MTE5MixjMTA2MjAxMTg3MDMwYjFiYzYzMTJiMjM3YWJlODUyZWI2NmU2YThh`
+Snapshot ID: `AAAEqMEGIBGHAwsbxjErI3q+hS62bmqK`

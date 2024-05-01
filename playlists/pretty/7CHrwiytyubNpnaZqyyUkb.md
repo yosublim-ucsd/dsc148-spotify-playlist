@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7CHrwiytyubNpnaZqyyUkb.md) - [plain]
 
 > Rockabilly and old school rock & roll—the perfect soundtrack to a night of beer and burgers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,386 likes - 21 songs - 58 min 44 sec
+[Spotify](https://open.spotify.com/user/spotify) - 14,384 likes - 21 songs - 58 min 44 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/7CHrwiytyubNpnaZqyyUkb.md) - [plain]
 | 20 | [Hot Rock](https://open.spotify.com/track/6Zu3SU3shAV8AtOsWV8A72) | [Johnny Carroll](https://open.spotify.com/artist/3XSGiLi5qS4wvmIDaT70mq), [The Hot Rocks](https://open.spotify.com/artist/7HowJtsADqYJgr1m01ptWU) | [A\-Z: Kitty Daisy & Lewis \- 'The Roots of Rock 'n' Roll'](https://open.spotify.com/album/7EgRAZWMM8jC6vn2O11ftL) | 2:18 |
 | 21 | [Don't Be Gone Long](https://open.spotify.com/track/3jfpT6NaxztOflqrYWJtQd) | [Bob Doss](https://open.spotify.com/artist/7ar9UGSOVxU7UM5NPZaHjc) | [It's Saturday Night! Starday\-Dixie Rockabilly 1955\-1961](https://open.spotify.com/album/5CzN9YzALRjoSXqxTk1FT8) | 2:09 |
 
-Snapshot ID: `MTksMGVmYjkwNjRkZDJkYzQ4YzhiNGVhZGY0Njg2ZGQ0NTAwMzQ4ODM4OQ==`
+Snapshot ID: `AAAAEw77kGTdLcSMi06t9Ght1FADSIOJ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 
 > Soothing, minimalist ambient for deep sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,907,850 likes - 246 songs - 11 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,907,926 likes - 246 songs - 11 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -255,4 +255,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 245 | [Paralian](https://open.spotify.com/track/2tEsGZfscyYYnHF7exJFIA) | [Valérian Christophe](https://open.spotify.com/artist/6SCBzE0YewrwW07e57yvqv) | [Paralian](https://open.spotify.com/album/25dxQmc3QBjDRrUENzXkHo) | 2:35 |
 | 246 | [Melancholy](https://open.spotify.com/track/569aPavFjL3WvPwZepX67d) | [Jonas Sandberg](https://open.spotify.com/artist/5JkM7qUhOcmY5SqK3SnU3O) | [Mosaic](https://open.spotify.com/album/57qBuzBPxYfFVSprhsijyk) | 2:59 |
 
-Snapshot ID: `MTcxMzIyMDc2MCwwMDAwMDAwMGMwNjgzY2QwMGRjM2VlNmE1OGYzZmI4YzE0YjhhMDZm`
+Snapshot ID: `Zh2smAAAAADAaDzQDcPualjz+4wUuKBv`

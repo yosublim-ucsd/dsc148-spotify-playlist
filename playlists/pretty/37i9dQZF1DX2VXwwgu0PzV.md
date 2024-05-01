@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: <a href="https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH?si=ENaBkn\_wRUCwimkNZWMhNg">CalledOut Music</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,786 likes - 96 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,823 likes - 96 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 95 | [Mo Gbona \(I'm hot\)](https://open.spotify.com/track/23teWATDcBkaZPG74WXPyI) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Mo Gbona \(I'm hot\)](https://open.spotify.com/album/4QOsrr8w2oTsebpruGJyP9) | 5:33 |
 | 96 | [Over](https://open.spotify.com/track/5w53DU4ZVdIn5J7iHP18gT) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Over](https://open.spotify.com/album/3pea7BAnzcaMlscFEhMfRD) | 2:48 |
 
-Snapshot ID: `MTcxNDIwNzQ5MCwwMDAwMDAwMDczZmM2ZGZlYmJiNzcxOTViNzdiZGNlYThjM2Y5M2Y0`
+Snapshot ID: `Ziy7AgAAAABz/G3+u7dxlbd73OqMP5P0`

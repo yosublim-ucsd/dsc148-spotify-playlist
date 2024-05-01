@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: ZICO, JENNIE\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,945 likes - 154 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,064 likes - 154 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 153 | [Heels](https://open.spotify.com/track/4x6nunPhR0Clk682Vi2N4Y) | [Qim Isle](https://open.spotify.com/artist/3pDs57Od1KfGb0RmmWhGtK), [Kim Ximya](https://open.spotify.com/artist/2tB3jPHyyfcxvvor2flc1Q), [Y2K92 simo](https://open.spotify.com/artist/1FkDkDzIU5TduleinIYkm5) | [Heels](https://open.spotify.com/album/6joXsPfxEwSPHxLa4fjSGC) | 3:49 |
 | 154 | [KrOWN\_Loco](https://open.spotify.com/track/1o73PCNhaz5VhjNxnrBzef) | [AOMG](https://open.spotify.com/artist/2bWTeElstVp9PUGLyIU8Uk) | [KrOWN audio liner](https://open.spotify.com/album/4PeZZanfBretefNw6BAbvn) | 0:01 |
 
-Snapshot ID: `MTcxNDI3ODg5OCwwMDAwMDAwMDIwMzk4ZDg5ZGNhYTU5ZGNkOTVhMTk5MTcwOWZhODMw`
+Snapshot ID: `Zi3R8gAAAAAgOY2J3KpZ3NlaGZFwn6gw`

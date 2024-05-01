@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/1k9jG0FUp7BcrAF1MZSabO.md) - [plain]
 | 19 | [This Charming Man \- 2011 Remaster](https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Smiths](https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN) | 2:42 |
 | 20 | [There Is a Light That Never Goes Out \- 2011 Remaster](https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Queen Is Dead](https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7) | 4:04 |
 
-Snapshot ID: `MyxlZTU0YzJiNWEwMDYxY2M1NWU2ZDJmMzhiM2UzMDkzZmM4NmU3MDUy`
+Snapshot ID: `AAAAA+5UwrWgBhzFXm0vOLPjCT/IbnBS`

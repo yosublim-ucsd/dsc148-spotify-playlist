@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 
 > <a href="spotify:artist:2jYMYP2SVifgmzNRQJx3SJ">Modeselektor</a>'s favorite tracks\. Updated regularly\. Curated by Modeselektor\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,493 likes - 55 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,524 likes - 55 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 | 54 | [Arcade](https://open.spotify.com/track/1vw3ihJHOSzddo5oxpOu6x) | [Santiago Salazar](https://open.spotify.com/artist/6kwYw9GSb9LeXMHbSb7KtM) | [Arcade](https://open.spotify.com/album/1jjTZ9JF1gwA3HXM6S1TOz) | 6:19 |
 | 55 | [Are You Shivering?](https://open.spotify.com/track/1a6IYbbBSZiiNZoUwZjPIa) | [Coil](https://open.spotify.com/artist/37KB5e6cGsN1AQAB9Omm1U) | [Musick To Play In The Dark](https://open.spotify.com/album/6qS0pSqK662v2SqooTNDeK) | 9:36 |
 
-Snapshot ID: `MTcxMzUwNTgzNSwwMDAwMDAwMGEyMGRiZDUwNWE5Mjc0MWRiMTY5ZmRmOTcyYTE2MmEz`
+Snapshot ID: `ZiIGKwAAAACiDb1QWpJ0HbFp/flyoWKj`

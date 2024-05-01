@@ -1,5 +1,5 @@
 {
-  "2024-04-30": 118775,
+  "2024-05-01": 118797,
   "date_first_scraped": "2022-05-15",
   "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: GOOD4NOTHING",
   "name": "Punk Japan",
@@ -215,7 +215,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 118745,
       "name": "A Pile Of Shit",
       "url": "https://open.spotify.com/track/7KP9o8pACNtvdi654acPWj"
@@ -13291,6 +13291,24 @@
       "duration_ms": 197053,
       "name": "\u6b7b\u304c\u3075\u305f\u308a\u3092\u5206\u304b\u3064\u307e\u3067",
       "url": "https://open.spotify.com/track/2VrInjH5nNuehjX97Zq4hq"
+    },
+    {
+      "album": {
+        "name": "\u6b7b\u4ea1\u30d5\u30e9\u30b0\u3092\u7acb\u3066\u306a\u3044\u3067",
+        "url": "https://open.spotify.com/album/5lkOWi2hkb6Rj72eE2E3aG"
+      },
+      "artists": [
+        {
+          "name": "GOKUMON(UchikubiGokumonDoukoukai)",
+          "url": "https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275480,
+      "name": "\u6b7b\u4ea1\u30d5\u30e9\u30b0\u3092\u7acb\u3066\u306a\u3044\u3067",
+      "url": "https://open.spotify.com/track/3EqQOKYHWfaqKBkeU5YKsv"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This Is Muse. Los temas esenciales, todos en una lista.",
-  "num_followers": 768625,
+  "num_followers": 768738,
   "original_name": "This Is Muse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDI2MjQwMCwwMDAwMDAwMGNlZDcyZDgxZWY1YmU0ZTU5MzQxNzZhMjNlODE0NmFk",
+  "snapshot_id": "Zi7jAAAAAACKsOtsvESzc6PzwQEgESYE",
   "tracks": [
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 38469,
-      "name": "Interlude",
-      "url": "https://open.spotify.com/track/0Qe6Us6taV5fVd3r87dFRP"
+      "duration_ms": 295767,
+      "name": "Sing for Absolution",
+      "url": "https://open.spotify.com/track/6Dct63YMBXtjGqCwr0HkYb"
     },
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 295767,
-      "name": "Sing for Absolution",
-      "url": "https://open.spotify.com/track/6Dct63YMBXtjGqCwr0HkYb"
+      "duration_ms": 38469,
+      "name": "Interlude",
+      "url": "https://open.spotify.com/track/0Qe6Us6taV5fVd3r87dFRP"
     },
     {
       "added_at": null,

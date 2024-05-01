@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 
 > Latinoamérica baila al ritmo de Jay Wheeler y Mora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,729 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,587 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 | 99 | [MAMI PRETTY](https://open.spotify.com/track/6FkpK0jE9XP2XkujGrQrAl) | [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [MAMI PRETTY](https://open.spotify.com/album/6ZdwAdmAyrTgya2z1C9rLi) | 3:22 |
 | 100 | [Contrabando](https://open.spotify.com/track/6eZzJzbyOwT01i8Tdgk2br) | [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET), [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p) | [0000](https://open.spotify.com/album/53Kn6RxsUXlr4y5WJbd3lT) | 3:06 |
 
-Snapshot ID: `MTcxNDE0MDc1MSwwMDAwMDAwMGNlN2E1ZTZlZWNhMWM0YzZmOTc3NmFiNDU4MDY4NDcy`
+Snapshot ID: `Ziu2TwAAAADOel5u7KHExvl3arRYBoRy`

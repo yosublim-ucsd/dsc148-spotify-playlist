@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1BC7DsARF1AbyFwyfGl0ay.md) - [plain]
 
 > “now i am become death, the destroyer of worlds.”
 
-[carolina <3](https://open.spotify.com/user/ninasantos11) - 38,585 likes - 97 songs - 6 hr 12 min
+[carolina <3](https://open.spotify.com/user/ninasantos11) - 38,762 likes - 97 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/1BC7DsARF1AbyFwyfGl0ay.md) - [plain]
 | 96 | [Dance For Me Wallis](https://open.spotify.com/track/1vWtTis3VRkkUp8qST4jY5) | [Abel Korzeniowski](https://open.spotify.com/artist/5RGAUCWFZyymaMSAZJeice) | [W.E\. \- Music From The Motion Picture](https://open.spotify.com/album/0ILxbrvGwBj3jyhQjhzrP7) | 3:08 |
 | 97 | [Adagio in C Minor](https://open.spotify.com/track/0HRyrj2c5TN8R4I4rehpSg) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Succession: Season 1 \(HBO Original Series Soundtrack\)](https://open.spotify.com/album/7IONINkxycqA3eIKlVZ7Bj) | 1:30 |
 
-Snapshot ID: `OTgsMzg2MDYxZmNkZTZjYzdlOWU1YWE1NDZhNGUyZGIwYWY0YTA5MWVjMQ==`
+Snapshot ID: `AAAAYjhgYfzebMfp5apUak4tsK9KCR7B`

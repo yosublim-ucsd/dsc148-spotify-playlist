@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 
 > Le meilleur du rap français version cloud\. Photo : Wit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,762 likes - 40 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,751 likes - 40 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 | 39 | [Paro](https://open.spotify.com/track/3aOP50V0Wey9WpFrpYjfGO) | [HB VIZ](https://open.spotify.com/artist/2YvqH9hhReN1V77RTUxU8I) | [Paro](https://open.spotify.com/album/2SRZZ9c3XFunt6QV9oozbh) | 2:44 |
 | 40 | [.Libre\. \(vide\)](https://open.spotify.com/track/6Mb2Xc7MFCI51Lc3aqTwIE) | [Furlax](https://open.spotify.com/artist/4bmXnAfcFe859ozMNFpFok), [Advm](https://open.spotify.com/artist/6BSFL5j2A7WVhwPGAuLEQV) | [.Libre\. \(vide\)](https://open.spotify.com/album/3TL8QvEJVBhtiGL9L3S3Io) | 3:53 |
 
-Snapshot ID: `MTcxNDA4MjQ2MCwwMDAwMDAwMDVlYTA2NTk5OTc1ZTkwMzA0ZjQ3MDIzYjdmMDVmMTQw`
+Snapshot ID: `ZirSnAAAAABeoGWZl16QME9HAjt/BfFA`

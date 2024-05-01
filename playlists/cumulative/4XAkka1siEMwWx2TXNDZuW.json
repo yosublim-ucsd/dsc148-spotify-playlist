@@ -1157,6 +1157,42 @@
     },
     {
       "album": {
+        "name": "myloveilove",
+        "url": "https://open.spotify.com/album/6y14NIgQfyw7hiIcjv3CHW"
+      },
+      "artists": [
+        {
+          "name": "Bogdan Raczynski",
+          "url": "https://open.spotify.com/artist/2bYCvT1nqpbbspU5DZG5nA"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109573,
+      "name": "myloveilove",
+      "url": "https://open.spotify.com/track/43mQOs2HsT3tCIcOLCZT6m"
+    },
+    {
+      "album": {
+        "name": "MyLoveILove",
+        "url": "https://open.spotify.com/album/4jFIqtkmFs5gRCKW3aNuit"
+      },
+      "artists": [
+        {
+          "name": "Bogdan Raczynski",
+          "url": "https://open.spotify.com/artist/2bYCvT1nqpbbspU5DZG5nA"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121026,
+      "name": "MyLoveILove",
+      "url": "https://open.spotify.com/track/5IpsQfU48SK621NrxWZ2p0"
+    },
+    {
+      "album": {
         "name": "dreams",
         "url": "https://open.spotify.com/album/0iOX2i9TIzAfZZHjF1x1Cm"
       },

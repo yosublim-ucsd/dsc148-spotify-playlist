@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Tn4EK4iKI58XnvWHuMMm0.md) - [plain]
 
 > Power through your to do list with an affogato and a refreshing mix of chilled classical.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,309 likes - 59 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,311 likes - 59 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/0Tn4EK4iKI58XnvWHuMMm0.md) - [plain]
 | 58 | [Cello Concerto No\. 1 In C Major, Hob.VIIb:1 : II\. Adagio](https://open.spotify.com/track/1ZlovJdZSHKErpP0LO5QS5) | [Joseph Haydn](https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6), [Capella Istropolitana](https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt), [Ludovit Kanta](https://open.spotify.com/artist/3BzKyqNMOwglJO81ACeJd0) | [Haydn: Cello Concertos Nos\. 1 And 2/Boccherini: Cello Concerto](https://open.spotify.com/album/1whrb3POoWkcuuoUhbegY5) | 8:31 |
 | 59 | [Klavierkonzert Nr\. 5 Es\-Dur, Op\. 73: Andante un poco mosso](https://open.spotify.com/track/3RJNXiCvV0AQEqilSoEiM4) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Stefan Vladar](https://open.spotify.com/artist/3cYlHOewTtDhkVIaEKZsOl), [Capella Istropolitana](https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt), [Barry Wordsworth](https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN) | [Cinema Classics, Vol\. 9](https://open.spotify.com/album/0YSx3XmE7Z1wkzGDRQiN4o) | 7:44 |
 
-Snapshot ID: `NjgsMzc0Y2MzOWJmMjk0YzhlOWZlYWJlNzRmNWZiNTI4Y2MyNzBmZDZiOQ==`
+Snapshot ID: `AAAARDdMw5vylMjp/qvnT1+1KMwnD9a5`

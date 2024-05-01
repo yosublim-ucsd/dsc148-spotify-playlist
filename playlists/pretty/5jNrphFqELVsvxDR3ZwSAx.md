@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5jNrphFqELVsvxDR3ZwSAx.md) - [plain]
 
 > A rock playlist filled with the biggest classic rock anthems from The Beatles, Queen and more!
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 53,487 likes - 94 songs - 6 hr 40 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 53,475 likes - 94 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/5jNrphFqELVsvxDR3ZwSAx.md) - [plain]
 | 93 | [Come As You Are](https://open.spotify.com/track/5r35Zd5Onw3aV3Gm9XdgtI) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nirvana \(International Version\)](https://open.spotify.com/album/3SBQfBKAPWvCr4qse1uNis) | 3:39 |
 | 94 | [Born To Be Wild \- Single Version](https://open.spotify.com/track/3zECldeBYO8lj8QZlUB2Be) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [Gold](https://open.spotify.com/album/5NIxmir6Bcrihxv2Zt4qJn) | 3:30 |
 
-Snapshot ID: `MTgyNyw3NTgxZDUzNmFkODExZWE5NjlkMWFjM2M1YWIzZmRhYTAwZDBhYjEw`
+Snapshot ID: `AAAHI3WB1TatgR6padGsPFqz/aoA0KsQ`

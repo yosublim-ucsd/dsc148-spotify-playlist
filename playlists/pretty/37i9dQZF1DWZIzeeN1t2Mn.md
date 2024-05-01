@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIzeeN1t2Mn.md) - [plain]
 
 > Hymns and anthems of artists stepping  into the culture at large! Speak truth\. Cover; Joshua Luke Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,200 likes - 49 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,202 likes - 49 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIzeeN1t2Mn.md) - [plain]
 | 48 | [The Isle Of Arran](https://open.spotify.com/track/1H6495e3O4TEK8zJF6VaHF) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Yesterday's Gone](https://open.spotify.com/album/0tgsACxUMuBElueq2YRe1K) | 3:34 |
 | 49 | [Wings](https://open.spotify.com/track/67ChP2tyLa1NABp3fifvBc) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [A Curious Tale of Trials + Persons](https://open.spotify.com/album/5SvOOtR6GVcDawzPj5SwsM) | 4:06 |
 
-Snapshot ID: `MTY4NjkxODI1NywwMDAwMDAwMGRkYzU1OWU0MGI3YzIzYTFmYTVlNmIzMjRlZDg5OTU5`
+Snapshot ID: `ZIxUcQAAAADdxVnkC3wjofpeazJO2JlZ`

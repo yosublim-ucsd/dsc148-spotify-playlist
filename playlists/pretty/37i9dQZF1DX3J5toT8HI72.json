@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 pros apaixonados",
-  "num_followers": 766443,
+  "num_followers": 766284,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDE0MzUyNSwwMDAwMDAwMDI4ODFhMDVhNDk2NjFhZDhlYzczYjRmNTI3OGI0MTI4",
+  "snapshot_id": "ZivBJQAAAAAogaBaSWYa2OxztPUni0Eo",
   "tracks": [
     {
       "added_at": "2024-04-26 14:58:45",
@@ -915,18 +915,18 @@
     {
       "added_at": "2024-04-26 14:58:45",
       "album": {
-        "name": "Verdade (Ao Vivo / Deluxe)",
-        "url": "https://open.spotify.com/album/1cZdFWvvyAKXlUDAZNMs1c"
+        "name": "Cru",
+        "url": "https://open.spotify.com/album/7wYN6lMpcVx2maHSGc2yQb"
       },
       "artists": [
         {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+          "name": "Liniker e os Caramelows",
+          "url": "https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n"
         }
       ],
-      "duration_ms": 191254,
-      "name": "Potinho - Ao Vivo",
-      "url": "https://open.spotify.com/track/65Hf3gwW25JLOxqxJv6BjC"
+      "duration_ms": 364359,
+      "name": "Zero",
+      "url": "https://open.spotify.com/track/7Jl757vT5eNqemc6PtY2dA"
     },
     {
       "added_at": "2024-04-26 14:58:45",
@@ -947,18 +947,18 @@
     {
       "added_at": "2024-04-26 14:58:45",
       "album": {
-        "name": "Cru",
-        "url": "https://open.spotify.com/album/7wYN6lMpcVx2maHSGc2yQb"
+        "name": "Verdade (Ao Vivo / Deluxe)",
+        "url": "https://open.spotify.com/album/1cZdFWvvyAKXlUDAZNMs1c"
       },
       "artists": [
         {
-          "name": "Liniker e os Caramelows",
-          "url": "https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n"
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
         }
       ],
-      "duration_ms": 364359,
-      "name": "Zero",
-      "url": "https://open.spotify.com/track/7Jl757vT5eNqemc6PtY2dA"
+      "duration_ms": 191254,
+      "name": "Potinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/65Hf3gwW25JLOxqxJv6BjC"
     },
     {
       "added_at": "2024-04-26 14:58:45",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2024-04-26 14:58:45",
       "album": {
-        "name": "Minha Felicidade",
-        "url": "https://open.spotify.com/album/7kTQATXuDnYuis6WSYZEn5"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 217384,
-      "name": "Minha Felicidade",
-      "url": "https://open.spotify.com/track/3vKTQ4R6ZZ9re7XIedJ5PQ"
-    },
-    {
-      "added_at": "2024-04-26 14:58:45",
-      "album": {
         "name": "Remonta",
         "url": "https://open.spotify.com/album/0Ii4TGRRMO6hEKOu22d6CH"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 269120,
       "name": "Sem Nome, Mas Com Endere\u00e7o",
       "url": "https://open.spotify.com/track/6xh9JILM2rzAtRynrTAAhe"
+    },
+    {
+      "added_at": "2024-04-26 14:58:45",
+      "album": {
+        "name": "Minha Felicidade",
+        "url": "https://open.spotify.com/album/7kTQATXuDnYuis6WSYZEn5"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 217384,
+      "name": "Minha Felicidade",
+      "url": "https://open.spotify.com/track/3vKTQ4R6ZZ9re7XIedJ5PQ"
     },
     {
       "added_at": "2024-04-26 14:58:45",
@@ -1299,6 +1299,26 @@
     {
       "added_at": "2024-04-26 14:58:45",
       "album": {
+        "name": "ME PERCO",
+        "url": "https://open.spotify.com/album/53KGBkfWHJumvJVSt7DT1H"
+      },
+      "artists": [
+        {
+          "name": "uma P\u00f3voas",
+          "url": "https://open.spotify.com/artist/1fP1a8QtAWodK9wm1fIBmx"
+        },
+        {
+          "name": "Filipe Freire",
+          "url": "https://open.spotify.com/artist/4Asuo4mtyUcQrrgjvnLt2X"
+        }
+      ],
+      "duration_ms": 200318,
+      "name": "ME PERCO",
+      "url": "https://open.spotify.com/track/5DYOxJzVYTUmKNTz6xiA7c"
+    },
+    {
+      "added_at": "2024-04-26 14:58:45",
+      "album": {
         "name": "Ac\u00fastico Em Trancoso (Ao Vivo)",
         "url": "https://open.spotify.com/album/6Aqv0T76VtYRBhZMsd0Pa4"
       },
@@ -1343,26 +1363,6 @@
       "duration_ms": 219257,
       "name": "Anjo Protetor",
       "url": "https://open.spotify.com/track/3VdeZzowGusdGH9YbNX5fu"
-    },
-    {
-      "added_at": "2024-04-26 14:58:45",
-      "album": {
-        "name": "ME PERCO",
-        "url": "https://open.spotify.com/album/53KGBkfWHJumvJVSt7DT1H"
-      },
-      "artists": [
-        {
-          "name": "uma P\u00f3voas",
-          "url": "https://open.spotify.com/artist/1fP1a8QtAWodK9wm1fIBmx"
-        },
-        {
-          "name": "Filipe Freire",
-          "url": "https://open.spotify.com/artist/4Asuo4mtyUcQrrgjvnLt2X"
-        }
-      ],
-      "duration_ms": 200318,
-      "name": "ME PERCO",
-      "url": "https://open.spotify.com/track/5DYOxJzVYTUmKNTz6xiA7c"
     },
     {
       "added_at": "2024-04-26 14:58:45",

@@ -2,7 +2,7 @@
 
 ### [This Is Eir Aoi](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0BRqs5)
 
-> This Is Eir Aoi\. Los temas esenciales, todos en una lista.
+> This is Eir Aoi\. The essential tracks, all in one playlist.
 
 84 songs - 6 hr 10 min
 

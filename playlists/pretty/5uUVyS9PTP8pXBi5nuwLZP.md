@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5uUVyS9PTP8pXBi5nuwLZP.md) - [plain]
 
 > Some favorites across multiple genres\. Songs distributed by DistroKid, playlist curated by the public\. To vote, head to: distrokid.com/spotlight
 
-[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 453,327 likes - 71 songs - 4 hr 21 min
+[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 453,518 likes - 71 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/5uUVyS9PTP8pXBi5nuwLZP.md) - [plain]
 | 70 | [BASTARD](https://open.spotify.com/track/3pzXER3ZI45ZUCqlBIjuDR) | [M1gron](https://open.spotify.com/artist/0FvDHJTCZ5Yv6E6UsEAmzL) | [BASTARD](https://open.spotify.com/album/7LOM4MCd6MmJBn0QUmssdg) | 1:48 |
 | 71 | [Cigarette](https://open.spotify.com/track/7sD4jKu6T9CxDWpIBDWSdO) | [edith](https://open.spotify.com/artist/4qWAAYTnEblRxN4CM9IdPi), [brume](https://open.spotify.com/artist/5UrHYRxzJHIlJDCBl14UWu) | [Cigarette](https://open.spotify.com/album/6tOeFc6vDh42amIpqPu15z) | 3:54 |
 
-Snapshot ID: `MTMwMiw4NDQ1YzdjNzFmMmNkZWE4NjNjMGZlN2VjZDZkMDY3Mjg3ZDllMmEx`
+Snapshot ID: `AAAFFoRFx8cfLN6oY8D+fs1tBnKH2eKh`

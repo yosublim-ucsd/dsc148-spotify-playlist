@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1Bxi8UJlVM7tLYDMOqsYYF.md) - [plain]
 
 > The ultimate playlist to get you ready for a fun night out with your girlfriends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,257 likes - 47 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,255 likes - 47 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/1Bxi8UJlVM7tLYDMOqsYYF.md) - [plain]
 | 46 | [Sexy Can I](https://open.spotify.com/track/78c3IFOZdqCvelTH65zA0g) | [Ray J](https://open.spotify.com/artist/6gbGGM0E8Q1hE511psqxL0), [Yung Berg](https://open.spotify.com/artist/0BrPKSAeplwezYR1T2DF9s) | [Total Club Hits Vol\. 2](https://open.spotify.com/album/3lHdTRli2g8i9gQ9NUDJRr) | 3:02 |
 | 47 | [Replay](https://open.spotify.com/track/5vlEg2fT4cFWAqU5QptIpQ) | [Iyaz](https://open.spotify.com/artist/5tKXB9uuebKE34yowVaU3C) | [Replay](https://open.spotify.com/album/698AdfGuOthKXXvvHla9bf) | 3:02 |
 
-Snapshot ID: `MTcsYzNjZjJkNjYzNTA5OTMxNjE0MmNjYmQ1MTNiZDgxZTI5MGUxYWUyNA==`
+Snapshot ID: `AAAAEcPPLWY1CZMWFCzL1RO9geKQ4a4k`

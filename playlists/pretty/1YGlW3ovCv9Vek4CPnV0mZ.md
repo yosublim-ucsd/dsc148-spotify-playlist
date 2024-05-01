@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1YGlW3ovCv9Vek4CPnV0mZ.md) - [plain]
 
 > There's no greater feeling than love, which means that it requires great music\. Here is a collection of some of the most breathtaking ballads about love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,136 likes - 41 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,135 likes - 41 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/1YGlW3ovCv9Vek4CPnV0mZ.md) - [plain]
 | 40 | [I Believe \(When I Fall in Love It Will Be Forever\)](https://open.spotify.com/track/58v9B0FI0DZVMiD6zMIO0h) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [All That Echoes](https://open.spotify.com/album/0UDoe18yeoewmmCcY6cpD4) | 5:58 |
 | 41 | [All by Myself](https://open.spotify.com/track/5hKAhqFbJNNLTSPDF2WUeN) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [Love Songs](https://open.spotify.com/album/74RK3gsxjigff01cRt7pLL) | 4:31 |
 
-Snapshot ID: `NSxjMjlhMmM5OWY2NjM2Y2IyNjMyNjA4MTVjZTJmZTYzMzk1N2EwNWVm`
+Snapshot ID: `AAAABcKaLJn2Y2yyYyYIFc4v5jOVegXv`

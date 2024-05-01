@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 ### [Techno State](https://open.spotify.com/playlist/37i9dQZF1DX8ZMwsPgxIOs)
 
-> Techno is a state of mind\. Cover: Daniel Avery
+> Techno is a state of mind\. Cover: Eli Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,789 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,834 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 99 | [Barsoom](https://open.spotify.com/track/6E9ANTrElNEC6NJ7FD7dYo) | [Antss](https://open.spotify.com/artist/12bHqR5ggtW3Y9C7oPmwL2) | [Barsoom EP](https://open.spotify.com/album/4aVm5eHEBs1jz8aZ2vrRl3) | 5:53 |
 | 100 | [Heartbreak](https://open.spotify.com/track/2UCncsHyNdD1vydaF7rZ1k) | [Pig&Dan](https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK) | [Radical](https://open.spotify.com/album/5EFl876r4ClNKdplwwH2XP) | 4:34 |
 
-Snapshot ID: `MTcxMjg4MDA2MCwwMDAwMDAwMGVlYzdhOWMyNmNkMDQwZmViZTI5MGQ1MWY3Zjk2OWM1`
+Snapshot ID: `ZjEjTgAAAADeDrGpliBWQGNyPKwNm9Lz`

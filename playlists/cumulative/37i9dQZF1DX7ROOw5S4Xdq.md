@@ -4,7 +4,7 @@
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Anderson Freire
 
-983 songs - 3 day 7 hr 40 min
+983 songs - 3 day 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -360,7 +360,7 @@
 | [Fidelidade \(Ao Vivo\)](https://open.spotify.com/track/61wcdOSc0cnHtkKl0yhYNA) | [Anna Clara Rocha](https://open.spotify.com/artist/1oI7Zkry0NMleoFSQoTVsI) | [Fidelidade \(Ao Vivo\)](https://open.spotify.com/album/1rINjPWondvyZpTjGKTRzC) | 4:34 | 2023-07-14 | 2023-07-22 |
 | [Fidelidade \(Ao Vivo\)](https://open.spotify.com/track/4nvaw26ZgOHxcbYvvRhUtF) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy), [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS) | [Fidelidade \(Ao Vivo\)](https://open.spotify.com/album/1ofjf6gOTyHkeXyeDVj0Kh) | 4:30 | 2023-10-06 | 2023-10-14 |
 | [Filho \(Ao Vivo\)](https://open.spotify.com/track/7fg7zQsN02eHx6a5Rtoqeg) | [Larissa Santos](https://open.spotify.com/artist/4RIEv1J3Fy104hJIQ5FQsk), [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Filho \(Ao Vivo\)](https://open.spotify.com/album/6TZCdezXorhDWvwKyJTxck) | 3:59 | 2023-12-22 | 2024-01-06 |
-| [Filho Amado \- Ao Vivo](https://open.spotify.com/track/1vDHkzR6aAzIGQPYWd4ezy) | [Ramon e Rafael](https://open.spotify.com/artist/0ivA4QP4IYhr99InHqVOLV) | [Filho Amado \(Ao Vivo\)](https://open.spotify.com/album/1Ajc4Iy9jJr4wPJBRid92c) | 6:41 | 2024-04-26 |  |
+| [Filho Amado \- Ao Vivo](https://open.spotify.com/track/1vDHkzR6aAzIGQPYWd4ezy) | [Ramon e Rafael](https://open.spotify.com/artist/0ivA4QP4IYhr99InHqVOLV) | [Filho Amado \(Ao Vivo\)](https://open.spotify.com/album/1Ajc4Iy9jJr4wPJBRid92c) | 5:26 | 2024-04-26 |  |
 | [Filho Do Céu \- Live](https://open.spotify.com/track/5DxiDh0aESWL8g091K3Xfg) | [Relevans Music](https://open.spotify.com/artist/3SWVXCeHLUVYkyzFUIxvOX), [Leo Schiappadini](https://open.spotify.com/artist/0Pexv1Z2KnlQylSyrwlTcr) | [Filho Do Céu \(Live\)](https://open.spotify.com/album/5PGizXPcN0cGeeKXEr7SHN) | 7:38 | 2023-09-01 | 2023-09-09 |
 | [Filho Meu \(Ao Vivo\)](https://open.spotify.com/track/1b4E0RE6gdRQmP6JqrjoKR) | [Karolzinha](https://open.spotify.com/artist/1EX52ykglCCY8a51tsU2jQ) | [Filho Meu \(Ao Vivo\)](https://open.spotify.com/album/1VbesboSK1PBV9NHFAGDSA) | 4:27 | 2023-09-25 | 2023-10-07 |
 | [Filhos de Crente \#1 \- Jesus Invadiu o Acústico \(feat\. Lookas & Noventa\)](https://open.spotify.com/track/6nb4anyJTi60sdQ0cZWbup) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw), [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF), [Noventa](https://open.spotify.com/artist/3yECzJfU6iMdOknE2zPCFK) | [Filhos de Crente \#1 \- Jesus Invadiu o Acústico \(feat\. Lookas & Noventa\)](https://open.spotify.com/album/3s5vcKGvTawT9YXMojqO9d) | 7:16 | 2023-11-24 | 2023-12-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to help you study, work and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,579 likes - 124 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,675 likes - 124 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 | 123 | [Venus](https://open.spotify.com/track/4EnHspKqEoHm7Y7qWsHiio) | [Suzi Quizas](https://open.spotify.com/artist/0uIPCZ3Iae8JJDDmEEuIon) | [Venus](https://open.spotify.com/album/1yi25ZYDp30WwXwQwMkvlu) | 1:43 |
 | 124 | [Tunnels](https://open.spotify.com/track/3vups9HViwfaDeYSzvwo7m) | [Garnishes](https://open.spotify.com/artist/23wVhpOrB0Ui8W5avo9f5N) | [Dream Map](https://open.spotify.com/album/5WMVLS6qiTqE21qQ3HxQpS) | 1:43 |
 
-Snapshot ID: `MTcxNDQyMzU5MiwwMDAwMDAwMDkyN2U1ZTY1YjBmOTQ3ZGY0YjBkZDNmMzJiZWQxZTBh`
+Snapshot ID: `ZjAHKAAAAACSfl5lsPlH30sN0/Mr7R4K`

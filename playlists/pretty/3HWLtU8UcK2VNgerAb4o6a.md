@@ -227,4 +227,4 @@ pretty - [cumulative](/playlists/cumulative/3HWLtU8UcK2VNgerAb4o6a.md) - [plain]
 | 217 | [Hockey Mask 2](https://open.spotify.com/track/72WNi24DxzMNWenBjQR5q9) | [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC), [Hackle](https://open.spotify.com/artist/0ZB40g9U7OgAs96pn72IqO) | [Bloody Angel](https://open.spotify.com/album/2Ev6DBJuStxI4ZKLsMgMQs) | 3:32 |
 | 218 | [Dead Trees](https://open.spotify.com/track/2l6BbhNSuFtmHqJn1PjA8L) | [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC), [Buckshot](https://open.spotify.com/artist/0HPG2EIdGCP6gjXW0KzrJq) | [Bloody Angel](https://open.spotify.com/album/2Ev6DBJuStxI4ZKLsMgMQs) | 3:23 |
 
-Snapshot ID: `NDg5LDg5ZTU3ZThjZmQ4ZmRiYzgxOWQ3MzY1MmFiNGRmYWIxMzI4YTdkZDk=`
+Snapshot ID: `AAAB6Ynlfoz9j9vIGdc2UqtN+rEyin3Z`

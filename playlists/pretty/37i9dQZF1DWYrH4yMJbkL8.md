@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > A free space for Indigenous creators\. Currently curated by Florent Vollant.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,308 likes - 31 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,365 likes - 31 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 | 30 | [Single Feather Remix \(feat\. Tribe Called Red\)](https://open.spotify.com/track/052gVPbCvTq1ILJe6e6z7H) | [Black Bear](https://open.spotify.com/artist/0yA6zmKmNXjUPSZyfDZji7), [A Tribe Called Red](https://open.spotify.com/artist/4S0ovGmM3YEeWE4VBNhX1v) | [Rez Road \(Powwow\)](https://open.spotify.com/album/1zXjPmkstwROUd25gFtvfZ) | 4:23 |
 | 31 | [Cold wind](https://open.spotify.com/track/3GJ4zpI26MiyYAXkP36YGa) | [Florent Vollant](https://open.spotify.com/artist/46yst9cUnaE2cftTAxwFSp) | [Tshitatau](https://open.spotify.com/album/7sxmyo17HxVqeZ65RSOS5t) | 4:05 |
 
-Snapshot ID: `MTcxMjg5NDQwMCwwMDAwMDAwMDk2NWYyNmNkMzIwNDA1NDM1MzA2OTQyZDYxMjg4MTk5`
+Snapshot ID: `ZhixwAAAAACWXybNMgQFQ1MGlC1hKIGZ`

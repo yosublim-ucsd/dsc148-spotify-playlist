@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Nirvair Pannu
 
-372 songs - 17 hr 39 min
+373 songs - 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Feem](https://open.spotify.com/track/40s6ANyxQ55OwyZ3jpH1Tw) | [Sultan Singh](https://open.spotify.com/artist/4eAS78hrdEzrqgOWn1ycQD), [Backkbencherrs](https://open.spotify.com/artist/03qMNzU04fJBGdmAF4jHxS) | [Dark Matters](https://open.spotify.com/album/2BLIRxTfHWipMNxyEn3UAr) | 2:32 | 2023-05-26 | 2023-07-21 |
 | [Few Days](https://open.spotify.com/track/2ccThCjEt1t1SF72mP7as2) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Few Days](https://open.spotify.com/album/54QdEwuZTXWQQOYda6FMxa) | 2:57 | 2023-03-29 | 2023-04-25 |
 | [Fight](https://open.spotify.com/track/49wyLmS7QnyAu2GbQCMcax) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [K.S Makhan](https://open.spotify.com/artist/0O35NR0LgBXsui6L5VOOq3), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Fight](https://open.spotify.com/album/7j0WC5laIVZcyWMzcyBPn0) | 3:03 | 2023-05-24 |  |
+| [Fire \(From "Je Jatt Vigarh Gya"\)](https://open.spotify.com/track/7FEoHQ0OvfyYFkg2poZcPJ) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Happy Raikoti](https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM) | [Fire \(From "Je Jatt Vigarh Gya"\)](https://open.spotify.com/album/1NDXK9oOpMzt2WAzsSRXhs) | 2:16 | 2024-04-30 |  |
 | [Foes To Fans](https://open.spotify.com/track/18CZdFGVEwYp2LYv0HcNCQ) | [Armaan Dhillon](https://open.spotify.com/artist/7tKbaCF35AFn9aXt22LFoC), [Prabh Bains](https://open.spotify.com/artist/1W3MZbE7esUbdnZ0Vdpb7y), [Jashan Inder](https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8) | [Foes To Fans](https://open.spotify.com/album/0iQ3tA1tOHAwbSfOkhHMCy) | 3:06 | 2024-03-11 | 2024-04-12 |
 | [Freestyle](https://open.spotify.com/track/7rlulUEMn27TLbdHpNPugE) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [FAME](https://open.spotify.com/album/6gTapG6daOo6Y9XhibKBvg) | 2:55 | 2023-03-29 | 2023-12-02 |
 | [Freestyle](https://open.spotify.com/track/2lgj77f4BMnqYVTKvfvbPm) | [Kunwarr](https://open.spotify.com/artist/6AnFaupnhQD1Ps8DX7Z7mV) | [Freestyle](https://open.spotify.com/album/7cR3BLC3bVzXHYGUtXFhJn) | 2:07 | 2023-06-19 | 2023-06-24 |
@@ -138,7 +139,7 @@
 | [Gang Boliyan](https://open.spotify.com/track/3JzIXwROWkSMEdkrCjFcsI) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu) | [The Plot](https://open.spotify.com/album/3kcnt7o6VQ5QvCSMhtfuDX) | 1:54 | 2024-01-11 | 2024-04-19 |
 | [Gangsta Shit](https://open.spotify.com/track/1JrMBCjCRiBe0XNB6ZzWhY) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Roop Bhullar](https://open.spotify.com/artist/0sYnCQ9Eb3RbEHOqVQST8d) | [Estrellas](https://open.spotify.com/album/56bKi3MtxXf4CzkkaDZ73s) | 2:45 | 2024-02-07 |  |
 | [Gears](https://open.spotify.com/track/1pDouKngSQ68EnQZLsqOJQ) | [NIJJAR](https://open.spotify.com/artist/4tnu4MuDLf51KcBOYvaB5W), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [Gears](https://open.spotify.com/album/4L90juD2dYHLXKlhdnYuDy) | 2:34 | 2023-09-11 | 2024-02-21 |
-| [GEMZ](https://open.spotify.com/track/5MaJjEwY5IM3v1t6UOIxms) | [JASKARAN](https://open.spotify.com/artist/4AzMhFHYDgw1CZ9SIg885K), [dox](https://open.spotify.com/artist/7sIGEYfllS5VN2Fj0QCtX4) | [GEMZ](https://open.spotify.com/album/4vIZA6reUyU9vdXg3JIAjz) | 3:26 | 2024-04-24 |  |
+| [GEMZ](https://open.spotify.com/track/5MaJjEwY5IM3v1t6UOIxms) | [JASKARAN](https://open.spotify.com/artist/4AzMhFHYDgw1CZ9SIg885K), [dox](https://open.spotify.com/artist/7sIGEYfllS5VN2Fj0QCtX4) | [GEMZ](https://open.spotify.com/album/4vIZA6reUyU9vdXg3JIAjz) | 3:26 | 2024-04-24 | 2024-05-01 |
 | [Ghode Nasli](https://open.spotify.com/track/0XHheXz9NGstW7tVxBJ8Qy) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT) | [New Order](https://open.spotify.com/album/2Wz1JsCb2VN3mNMy10nmK7) | 3:07 | 2024-02-20 |  |
 | [Glock \- From Tufang](https://open.spotify.com/track/616Q2ytAFVzNcfHDUn25PT) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Glock \(From Tufang\)](https://open.spotify.com/album/5il5FEoX2N3wqsIlBxVT4I) | 2:26 | 2023-06-13 | 2024-04-20 |
 | [Goddamn](https://open.spotify.com/track/1fRoeq8MpXigvxHj1QJiHO) | [Homeboy](https://open.spotify.com/artist/1ZGICPQ7A8H3vsWxHV9GO7), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [Infinite](https://open.spotify.com/album/4XeEBSXQZI0LISx8a81mLe) | 2:00 | 2023-04-01 | 2023-04-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Solo il meglio dello street rap italiano\. Tony Boy in cover, <a href="spotify:playlist:37i9dQZF1DWVjDgOMO8jZl">uno dei 6 artisti RADAR 2024</a>!
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,206 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,233 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [KISS KISS \(feat\. Ghali, Tony Boy\)](https://open.spotify.com/track/6cMM2WlzIRklPTWgyzMlQx) | [Digital Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [KISS KISS \(feat\. Ghali, Tony Boy\)](https://open.spotify.com/album/4dGzzSFdxg0hNp4QG1JrmC) | 2:32 |
 | 50 | [Bandolero fuma static \(feat\. Fre\_nky\)](https://open.spotify.com/track/5e9e6wuEf5nvj4hT9ZzQ1m) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW), [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW) | [BDM Mixtape Vol\. 1](https://open.spotify.com/album/69Wwgurz8xPbkxqwwqKUSG) | 2:54 |
 
-Snapshot ID: `MTcxNDA4MjQ2MCwwMDAwMDAwMDhjZWQzYjcxMTlmYmNjMDg4MGU3OTdjZjJmM2VhMjNl`
+Snapshot ID: `ZirSnAAAAACM7TtxGfvMCIDnl88vPqI+`

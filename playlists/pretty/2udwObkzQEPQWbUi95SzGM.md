@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/2udwObkzQEPQWbUi95SzGM.md) - [plain]
 | 21 | [Young](https://open.spotify.com/track/3SUnB496wZdR3cpSoI9KK0) | [Air Review](https://open.spotify.com/artist/3BpiD33EPJLTi4RgMe5gE4) | [Low Wishes](https://open.spotify.com/album/0ftDKw76aHgVzAL7DXtccq) | 3:51 |
 | 22 | [Pompeii](https://open.spotify.com/track/3gbBpTdY8lnQwqxNCcf795) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Bad Blood](https://open.spotify.com/album/64fQ94AVziavTPdnkCS6Nj) | 3:34 |
 
-Snapshot ID: `NTksMjEzYmNhZDRjYzNmZTE2NWU5MDQzNmRiNzgwNTM2NWQwMmJlOGU3NA==`
+Snapshot ID: `AAAAOyE7ytTMP+Fl6QQ223gFNl0Cvo50`

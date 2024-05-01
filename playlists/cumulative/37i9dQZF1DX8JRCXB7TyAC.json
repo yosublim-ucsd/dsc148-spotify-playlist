@@ -226,7 +226,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 181687,
       "name": "All Eyes Down",
       "url": "https://open.spotify.com/track/0FtqurPJxBXugBGEPyHXtG"
@@ -1839,6 +1839,24 @@
     },
     {
       "album": {
+        "name": "ON TOP",
+        "url": "https://open.spotify.com/album/6t6C4S2tWC8icUdNYIYHaC"
+      },
+      "artists": [
+        {
+          "name": "Jaggi",
+          "url": "https://open.spotify.com/artist/3xKm7gBOnRxMwTHucbePnJ"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150501,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/2ATtRykzfzdjs8CVYfXtlu"
+    },
+    {
+      "album": {
         "name": "Ram Ram Karke",
         "url": "https://open.spotify.com/album/5YjykDAdQ5OWVFc9b7PqaI"
       },
@@ -2127,6 +2145,24 @@
     },
     {
       "album": {
+        "name": "Things We Do",
+        "url": "https://open.spotify.com/album/4PmrsxOsKa6wgwXK07Nz4k"
+      },
+      "artists": [
+        {
+          "name": "Bintu Pabra",
+          "url": "https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170413,
+      "name": "Things We Do",
+      "url": "https://open.spotify.com/track/7yHpwPG691Bi52Lta0HtFj"
+    },
+    {
+      "album": {
         "name": "This is Haryana",
         "url": "https://open.spotify.com/album/39lfhZMC6uszJC2VoB5XhH"
       },
@@ -2256,7 +2292,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 143888,
       "name": "Wheel Feel (Feat. Pranjal Dahiya)",
       "url": "https://open.spotify.com/track/6gAgB2lfRXYywp9ixvOrOJ"

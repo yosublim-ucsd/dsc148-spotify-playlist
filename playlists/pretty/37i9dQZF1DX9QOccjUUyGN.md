@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Krawk
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,582 likes - 82 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,579 likes - 82 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 81 | [Amor de Mentira](https://open.spotify.com/track/6Ee8h3EvlpKCwy4Odd6jfx) | [SAUD](https://open.spotify.com/artist/3mEnrVgvvdrdoevIOxt6zY), [Mc Maha](https://open.spotify.com/artist/2tz0dkPlnWB4NcHNIqWPgh), [Wav](https://open.spotify.com/artist/7iLM6Q1zaaBEfulJi73b69) | [Amor de Mentira](https://open.spotify.com/album/6Rg4LkrY3u0PrcBh8cwy3y) | 2:30 |
 | 82 | [EU](https://open.spotify.com/track/41IaQg6FancXX1YjQmHlpR) | [THS](https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4), [Duda Pasqualin](https://open.spotify.com/artist/2XyFVVRijWv2Ndh6Z4HT6u) | [EU](https://open.spotify.com/album/1NuDUGtdxzZJwxcx4rS7PP) | 2:20 |
 
-Snapshot ID: `MTcxNDEwMDQ2MCwwMDAwMDAwMDEyZDZlMTEyNmNlNDVkZjAwNzQxMzlhMTk2YjQwMDAx`
+Snapshot ID: `ZisY7AAAAAAS1uESbORd8AdBOaGWtAAB`

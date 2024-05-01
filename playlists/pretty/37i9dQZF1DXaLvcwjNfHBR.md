@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 
 > Your new favourite songs! Cover: Shaboozey
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,626 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,647 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 | 49 | [space girl](https://open.spotify.com/track/7FjIYiD53wxlQmzTT6Wdpf) | [Frances Forever](https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl) | [space girl](https://open.spotify.com/album/2kTyJsKMpVKd3dv87ePucD) | 3:51 |
 | 50 | [Lady Killers II](https://open.spotify.com/track/1xUddpWyEuYl5T3mduKnOJ) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Lady Killers II](https://open.spotify.com/album/08JECZoQNpeSledQtNZp6H) | 4:57 |
 
-Snapshot ID: `MTcxNDEwMjM2MiwwMDAwMDAwMGRiZjkzNWUzMDE5ZmUyMjBiMGJiY2Y3MDI4Y2M5OTE5`
+Snapshot ID: `ZisgWgAAAADb+TXjAZ/iILC7z3AozJkZ`

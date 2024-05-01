@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: Future & Metro Boomin
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,202,946 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,202,983 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 99 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 |
 | 100 | [SLUT ME OUT 2](https://open.spotify.com/track/22yRHdYBLZMi7xnvBioqkP) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [SLUT ME OUT 2](https://open.spotify.com/album/5BEgYBYUzfvGoU1uLHvGRA) | 2:15 |
 
-Snapshot ID: `MTcxNDE1MTMyOCwwMDAwMDAwMGE5YTkzOTM5NGMyYzZmYmQzM2NmMWZmZGRkM2UxYzM4`
+Snapshot ID: `ZivfoAAAAACpqTk5TCxvvTPPH/3dPhw4`

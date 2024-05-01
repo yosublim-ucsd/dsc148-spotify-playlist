@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/2Mecjd64RGHE4vLDMuX88V.md) - [plain]
 | 19 | [Euphoria \- Single Version](https://open.spotify.com/track/1xN7BpTAWnZkuSLOtRP6Qc) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Euphoria](https://open.spotify.com/album/1KfKXG5VRlDTX55wq5bXbv) | 3:01 |
 | 20 | [Run This Town \[Jay\-Z + Rihanna + Kanye West\]](https://open.spotify.com/track/5M8nEsWqUkwUwCp58ydE4W) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Run This Town \[Jay\-Z, Rihanna, & Kanye West\]](https://open.spotify.com/album/4KyfboxCcicocqKdGfwTeg) | 4:27 |
 
-Snapshot ID: `MjksNTViM2U4YTg5NmNhMzc5Mjg2NDJjMjdkMDVjNzQzYTRkMzk3MmQxYg==`
+Snapshot ID: `AAAAHVWz6KiWyjeShkLCfQXHQ6TTly0b`

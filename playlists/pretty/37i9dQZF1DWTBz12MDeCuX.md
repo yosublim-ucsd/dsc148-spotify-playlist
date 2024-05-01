@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: $ONOS CLIQ
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,312 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,301 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [Alle meine Feinde sind cool](https://open.spotify.com/track/4SzSlCsEWy2axUQUopedom) | [NUGAT](https://open.spotify.com/artist/74yjU6gHx05PeHAokao6DS) | [Alle meine Feinde sind cool](https://open.spotify.com/album/4UD3IbhdzJUonMKWNEYRHm) | 2:28 |
 | 100 | [Egal](https://open.spotify.com/track/08XKxLjXwHtgD9cQjpkQI5) | [Elias](https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku) | [Egal](https://open.spotify.com/album/1O3aDjWnICWkla1AzdWQBt) | 2:16 |
 
-Snapshot ID: `MTcxNDA4MjQwMCwwMDAwMDAwMGZmZDgyZDc0MGZmNjdhNmEyMDIwMTNkNDBmYjZmMzM5`
+Snapshot ID: `ZirSYAAAAAD/2C10D/Z6aiAgE9QPtvM5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 
 > Discover this set of songs that define modern hymns for and beyond the church\.  Cover artist: Phil Wickham
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,595 likes - 100 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,589 likes - 100 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 74 | [Come Behold the Wondrous Mystery](https://open.spotify.com/track/191TpctWpKVr86es9Q2heJ) | [Matt Boswell](https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm) | [Come Behold the Wondrous Mystery \- Single](https://open.spotify.com/album/28AvjBNITOjVYY283l9kWr) | 3:48 |
 | 75 | [Turn Your Eyes Upon Jesus](https://open.spotify.com/track/3Yo3Ba8ESTuf3mAtksAQjS) | [Rachael Lampa](https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri) | [Turn Your Eyes Upon Jesus](https://open.spotify.com/album/4oiS2A4mcwwsJBxHellUOi) | 3:21 |
 | 76 | [I'll Fly Away](https://open.spotify.com/track/3Ibqth7iNwWwM28ZWcLk3Q) | [Jars Of Clay](https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF) | [Redemption Songs](https://open.spotify.com/album/1BVXtTYIfshVRCeKp9uIwb) | 4:42 |
-| 77 | ['tis So Sweet To Trust In Jesus](https://open.spotify.com/track/0IIRQLWP8BAgVIr1EfQ7WW) | [Page CXVI](https://open.spotify.com/artist/5TB43hYVZMxI193JCzyQJb) | [Hymns \- IV](https://open.spotify.com/album/2HJKSxzziWNXmaeKlVdjQ5) | 4:13 |
-| 78 | [O Come to the Altar \(Acoustic\)](https://open.spotify.com/track/6AfazLbUs4Y5g4tEyTKnLq) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [O Come to the Altar \- EP](https://open.spotify.com/album/5nYwT2GxPwn06IkPk3p99f) | 5:10 |
+| 77 | [O Come to the Altar \(Acoustic\)](https://open.spotify.com/track/6AfazLbUs4Y5g4tEyTKnLq) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [O Come to the Altar \- EP](https://open.spotify.com/album/5nYwT2GxPwn06IkPk3p99f) | 5:10 |
+| 78 | ['tis So Sweet To Trust In Jesus](https://open.spotify.com/track/0IIRQLWP8BAgVIr1EfQ7WW) | [Page CXVI](https://open.spotify.com/artist/5TB43hYVZMxI193JCzyQJb) | [Hymns \- IV](https://open.spotify.com/album/2HJKSxzziWNXmaeKlVdjQ5) | 4:13 |
 | 79 | [In Christ Alone / The Solid Rock \- Medley](https://open.spotify.com/track/7lFVnw9VGXTxUcjlrSH4g6) | [Travis Cottrell](https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW) | [The Reason](https://open.spotify.com/album/347JypsBn6wwUeQtPaoMQV) | 4:57 |
 | 80 | [He Will Hold Me Fast](https://open.spotify.com/track/2iPIKdiYSpxaS2MDgHwDQd) | [Norton Hall Band](https://open.spotify.com/artist/7lYCHQLcDqNrJjIgKAEkje) | [My Hope and Stay: Hymns Project, Vol\. II](https://open.spotify.com/album/5ji5EiVJLACqVSezLxHmZO) | 5:10 |
 | 81 | [† \(just the cross\) \- Live](https://open.spotify.com/track/4tkSvznuiITP4O9zDooIBn) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [† \(just the cross\)](https://open.spotify.com/album/2VtKxCuuUif33fWcFTojyH) | 6:38 |
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 87 | [Be Still My Soul](https://open.spotify.com/track/4xZ0s7YTRru5pAw1WtSdNX) | [Page CXVI](https://open.spotify.com/artist/5TB43hYVZMxI193JCzyQJb) | [Hymns Sampler](https://open.spotify.com/album/1XAwj4FtK8ipTXKmhA0AEg) | 3:59 |
 | 88 | [Sooner Count the Stars](https://open.spotify.com/track/3Eao8XJ5auwZRSIMjL6oHq) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [Sooner Count the Stars: Worshiping the Triune God](https://open.spotify.com/album/4nnETGFb2jOnogd5TUc4bw) | 4:31 |
 | 89 | [My Hope Is in the Lord](https://open.spotify.com/track/5aWMousRRsFOROMVikDtpx) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Changed](https://open.spotify.com/album/1GGV9IZO83uLgRE0VYx0dx) | 3:21 |
-| 90 | [Were You There](https://open.spotify.com/track/59NpCm0lOMObumSe0soohI) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Two Coasts for Comfort](https://open.spotify.com/album/2DwXkxKGEMsebxJbrtzYUi) | 3:25 |
-| 91 | [This Is My Father's World](https://open.spotify.com/track/4FLpCfvea5IELWT889oa9k) | [People & Songs](https://open.spotify.com/artist/0DLoqaxhfWU5litFyzLqn8) | [This Is My Father's World](https://open.spotify.com/album/03ox5Kk1wNCRo3UYNhKiBV) | 6:08 |
+| 90 | [This Is My Father's World](https://open.spotify.com/track/4FLpCfvea5IELWT889oa9k) | [People & Songs](https://open.spotify.com/artist/0DLoqaxhfWU5litFyzLqn8) | [This Is My Father's World](https://open.spotify.com/album/03ox5Kk1wNCRo3UYNhKiBV) | 6:08 |
+| 91 | [Were You There](https://open.spotify.com/track/59NpCm0lOMObumSe0soohI) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Two Coasts for Comfort](https://open.spotify.com/album/2DwXkxKGEMsebxJbrtzYUi) | 3:25 |
 | 92 | [For the Beauty of the Earth](https://open.spotify.com/track/5G7QaeDEy7kFPac5Hr5INn) | [A New Liturgy](https://open.spotify.com/artist/5WeVXS5COv8kOfCkfe5YMW) | [No 4: Creation](https://open.spotify.com/album/1xBXUvPWnFj7NaKNNweqEz) | 5:26 |
 | 93 | [Doxology](https://open.spotify.com/track/475fggJIgGaM2dgjZrsPnL) | [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [Where His Light Was](https://open.spotify.com/album/1jamkW0fDJFlcF1wyAejsW) | 0:42 |
 | 94 | [Softly And Tenderly](https://open.spotify.com/track/3RVSPxPCT29wt3NgJgAQNn) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Softly And Tenderly](https://open.spotify.com/album/0Mi5UCbI2mPA4Ws6Ql60Wj) | 5:29 |
-| 95 | [What Wondrous Love Is This \(Live from Mayne Island\)](https://open.spotify.com/track/1zyEnquNOscqlJwO672XJ7) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8), [Mason Jar Music](https://open.spotify.com/artist/5fDdnBEEvrNr9dnXSmBxUG) | [The Sea in Between \(Soundtrack\)](https://open.spotify.com/album/0Ao2w5SU5pRoHJKrwg2D1Z) | 2:00 |
-| 96 | [Want](https://open.spotify.com/track/4OYE671tr7tLa3vUG21pop) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Just This](https://open.spotify.com/album/3ghdDK7VnSwx6XvUeE4HJc) | 2:07 |
+| 95 | [Want](https://open.spotify.com/track/4OYE671tr7tLa3vUG21pop) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Just This](https://open.spotify.com/album/3ghdDK7VnSwx6XvUeE4HJc) | 2:07 |
+| 96 | [What Wondrous Love Is This \(Live from Mayne Island\)](https://open.spotify.com/track/1zyEnquNOscqlJwO672XJ7) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8), [Mason Jar Music](https://open.spotify.com/artist/5fDdnBEEvrNr9dnXSmBxUG) | [The Sea in Between \(Soundtrack\)](https://open.spotify.com/album/0Ao2w5SU5pRoHJKrwg2D1Z) | 2:00 |
 | 97 | [There May Be Tears](https://open.spotify.com/track/1oe3sWhApeuqleeD16rtgi) | [Scott Cunningham Band](https://open.spotify.com/artist/440q5WuNyKO9LHgZACm6bf) | [Come Away](https://open.spotify.com/album/1geY7Bt8b8q1HOn8EOpFIk) | 4:29 |
 | 98 | [God I Look to You](https://open.spotify.com/track/6sDKhTbn1Hd3niDhvrhfe9) | [John Ward](https://open.spotify.com/artist/60vLjtgcrQRJuLfEvM2v2j) | [God I Look to You](https://open.spotify.com/album/1t2UalMvs6V2pkCIuXDFfT) | 4:38 |
 | 99 | [Little Things With Great Love \(Live\) \[feat\. Madison Cunningham\]](https://open.spotify.com/track/4mpVCcWKI4uQVJoQWAwTHV) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Work Songs: The Porter's Gate Worship Project Vol 1](https://open.spotify.com/album/0fGjqZbsoSCGJEfjdaCyCI) | 5:07 |
 | 100 | [This Is My Father's World](https://open.spotify.com/track/5MBHprWbl2bkNplRVarZ6Q) | [A New Liturgy](https://open.spotify.com/artist/5WeVXS5COv8kOfCkfe5YMW) | [No 4: Creation](https://open.spotify.com/album/1xBXUvPWnFj7NaKNNweqEz) | 5:14 |
 
-Snapshot ID: `MTY4NjkyMDE2NywwMDAwMDAwMDFhMWRjMWIwNDdiMGQ0ODNlYzUzZDdiZjE2YzVhMTQz`
+Snapshot ID: `ZIxb5wAAAAAaHcGwR7DUg+xT178WxaFD`

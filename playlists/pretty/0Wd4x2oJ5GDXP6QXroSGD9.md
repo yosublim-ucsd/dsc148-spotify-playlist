@@ -1498,4 +1498,4 @@ pretty - [cumulative](/playlists/cumulative/0Wd4x2oJ5GDXP6QXroSGD9.md) - [plain]
 | 1488 | [Outside For A While](https://open.spotify.com/track/3sOdMfbsENI6vDxtUfgkA2) | [Hoogway](https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ) | [Beauty In All Forms](https://open.spotify.com/album/5LrDsBbKYeTdFv4IESbKeJ) | 2:42 |
 | 1489 | [Thinking of You](https://open.spotify.com/track/5xQJZsPXVA0PDU9FmEzZXu) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Simple Things](https://open.spotify.com/album/1NUFqD55ftkRXVBd02EaOC) | 2:21 |
 
-Snapshot ID: `MTA2NiwzNDFkMGM2NGQ1MTc1MGJiNGVmNGM5NzZjOTYyZWYxOWI5OTM1Mzky`
+Snapshot ID: `AAAEKjQdDGTVF1C7TvTJdsli7xm5k1OS`

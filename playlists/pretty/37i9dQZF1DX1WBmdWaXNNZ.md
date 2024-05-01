@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WBmdWaXNNZ.md) - [plain]
 | 69 | [Gen Hoshino \- 不思議 \(FUSHIGI\) \- Go Stream Live ver.](https://open.spotify.com/episode/2g2kFHrb2bFWdWe2I59IIM) | [Gen Hoshino \- 不思議 \(FUSHIGI\) \- Go Stream Live ver.](https://open.spotify.com/show/0BLVSv3WdigtRGaZwaWnM9) | [Gen Hoshino \- 不思議 \(FUSHIGI\) \- Go Stream Live ver.](https://open.spotify.com/album/0BLVSv3WdigtRGaZwaWnM9) | 5:15 |
 | 70 | [Gen Hoshino \- 喜劇 \(Comedy\) \- Go Stream Live ver.](https://open.spotify.com/episode/4Egod6HWtLiHMbepJg4B6Q) | [Gen Hoshino \- 喜劇 \(Comedy\) \- Go Stream Live ver.](https://open.spotify.com/show/1Sqer3M4kCCnAnl8AeQ1No) | [Gen Hoshino \- 喜劇 \(Comedy\) \- Go Stream Live ver.](https://open.spotify.com/album/1Sqer3M4kCCnAnl8AeQ1No) | 4:04 |
 
-Snapshot ID: `MTcwMzYwMjgwMCwwMDAwMDAwMGY1YjdjNjYwNTViMzEwM2RhNmE2ZTZiOTJkM2YwMTdj`
+Snapshot ID: `ZYrqcAAAAAD1t8ZgVbMQPaam5rktPwF8`

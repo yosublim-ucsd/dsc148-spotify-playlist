@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7SeoIaFyTmA.md) - [plain]
 
 > Timeless Salsa from your favorite legends\. Cover: Willie Colón
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,298,763 likes - 100 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,298,890 likes - 100 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7SeoIaFyTmA.md) - [plain]
 | 99 | [Senor Sereno](https://open.spotify.com/track/4CxDqPmmkDdnlrnkjbXYhm) | [Larry Harlow](https://open.spotify.com/artist/2PGJmP6AvSCQ7pKBOjrg8J) | [Greatest Hits](https://open.spotify.com/album/30Ziol0mrhnRTBaPhGDMZY) | 5:31 |
 | 100 | [Detalles](https://open.spotify.com/track/21d6EkqWaoA2hPDBUp2u8H) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Detalles](https://open.spotify.com/album/0yw16WalUWK5vOUbFlGYAI) | 4:38 |
 
-Snapshot ID: `MTcxMzQ3NzQ1NSwwMDAwMDAwMDk0M2NiMGM2NDNjZjk4YmZjZmUxZWExZjM3NGJiM2I4`
+Snapshot ID: `ZiGXTwAAAACUPLDGQ8+Yv8/h6h83S7O4`

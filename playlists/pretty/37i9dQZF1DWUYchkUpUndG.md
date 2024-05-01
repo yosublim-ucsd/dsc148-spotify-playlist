@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz?si=BERBjUZ8TAC\_ivAWKQDdcw>Prinx Emmanuel</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,478 likes - 103 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,501 likes - 103 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 102 | [All Around](https://open.spotify.com/track/3SrhyB5UWugegxvWD4HgTY) | [DJ Shunz](https://open.spotify.com/artist/4sdmybQDV7C8YyX8movAdY), [JyroGvo](https://open.spotify.com/artist/75NziVeibeBcHBboy8wpdk) | [All Around](https://open.spotify.com/album/108aGcHi8JUdmWhIPoSTjH) | 2:36 |
 | 103 | [I Don't Care](https://open.spotify.com/track/5BwGKJZiWM1LF20i8yOLs9) | [Circanineti](https://open.spotify.com/artist/32MTX0JRGzSVe8CM158bEn) | [I Don't Care](https://open.spotify.com/album/25Y0OZ5NI1dy7JYtg7dmc5) | 3:16 |
 
-Snapshot ID: `MTcxNDIwNzUzNSwwMDAwMDAwMDZhMDg3ZjFjMTUyMTlmMzcwOGY2ZjUzNmVlY2NhZDY5`
+Snapshot ID: `Ziy7LwAAAABqCH8cFSGfNwj29TbuzK1p`

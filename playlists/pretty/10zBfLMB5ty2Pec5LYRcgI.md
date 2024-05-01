@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/10zBfLMB5ty2Pec5LYRcgI.md) - [plain]
 | 26 | [Many Men \(Wish Death\) \- Album Version \(Edited\)](https://open.spotify.com/track/4GXAOExe9vCGi0FC2dUoRb) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/52ie13EXbuGv1YhEY3BpdI) | 4:12 |
 | 27 | [Wing$](https://open.spotify.com/track/5n5uyFpfopa4mNdSN0gTaH) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp) | [The Heist](https://open.spotify.com/album/76FXHQhTuT4QMIxfL09gX8) | 4:58 |
 
-Snapshot ID: `NTUsYTFmYTVlYmIyMTJlMzBjNTcwZGMwMThmMzdmZmIxNjk1ZDlhNTM3Mw==`
+Snapshot ID: `AAAAN6H6XrshLjDFcNwBjzf/sWldmlNz`

@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/4tSzT9BRuf3qRJDbPz4SlS.md) - [plain]
 | 20 | [Lay Lady Lay](https://open.spotify.com/track/7ICALrYSPphd5yFK27vw8D) | [Magnet featuring Gemma Hayes](https://open.spotify.com/artist/6Edqzwxazpb4Te3qI3u5ez) | [Mr\. & Mrs\. Smith \- Original Motion Picture Soundtrack](https://open.spotify.com/album/1ooPcS9FzXuXOuRUnoWtwq) | 4:39 |
 | 21 | [I'm On Fire](https://open.spotify.com/track/6OA6JTMUGmQRtYGxpXgEa1) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Greatest Hits](https://open.spotify.com/album/1c72XklDkH9TmbPMxy11a9) | 2:34 |
 
-Snapshot ID: `MzIsYzA4YmE0OWI5MWEzMjJhNTIzN2U5OWJjN2RjMTkwOGM0ZmMzMDcwOA==`
+Snapshot ID: `AAAAIMCLpJuRoyKlI36ZvH3BkIxPwwcI`

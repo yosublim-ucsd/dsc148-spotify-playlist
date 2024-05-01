@@ -5558,7 +5558,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 241616,
       "name": "Siempre Sim\u00f3n y Nunca Nel",
       "url": "https://open.spotify.com/track/5R4VAb4lnEMFtSEmB0wiya"
@@ -5954,6 +5954,24 @@
       "duration_ms": 180673,
       "name": "Sue\u00f1o N\u00f3made",
       "url": "https://open.spotify.com/track/4abp9DmabIAYtFKvyDPnly"
+    },
+    {
+      "album": {
+        "name": "Sue\u00f1o Tepozteco",
+        "url": "https://open.spotify.com/album/22tzn7ePE020oZxBEPcNJG"
+      },
+      "artists": [
+        {
+          "name": "Israel Arteaga",
+          "url": "https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293333,
+      "name": "Sue\u00f1o Tepozteco",
+      "url": "https://open.spotify.com/track/0XYBNhA9f9KGZhWZBaljls"
     },
     {
       "album": {

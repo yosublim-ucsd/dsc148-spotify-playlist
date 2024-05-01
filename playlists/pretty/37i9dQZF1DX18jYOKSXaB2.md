@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18jYOKSXaB2.md) - [plain]
 
 > Songs fit for an African wedding
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,073 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,106 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18jYOKSXaB2.md) - [plain]
 | 49 | [Ụwa](https://open.spotify.com/track/1kUzzhUpK7SbcJSaby03OD) | [Ugoccie](https://open.spotify.com/artist/23NKFSnR8yAUDQdub4vnIN), [Umu Obiligbo](https://open.spotify.com/artist/2d3JopSFur0Ywm6KQdkUeH) | [Voice of the East](https://open.spotify.com/album/6vf8dgYzchJ7Fk3ZIhWavR) | 2:53 |
 | 50 | [Gree 4 U](https://open.spotify.com/track/3JIErZlhQEi0KGQUirzqjw) | [Niashun](https://open.spotify.com/artist/7uII4FtDGyzJTTXQHZTpsz), [Darkua](https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP) | [The Hustler & His Heart](https://open.spotify.com/album/1Lb5Jz9uBfmDBp2H1R2Nb0) | 3:14 |
 
-Snapshot ID: `MTcxNDEyMjgxNiwwMDAwMDAwMDQ2MTQ3MzczY2FhNDhkNjNlYTNiZGRkYjlmYWQyYzcx`
+Snapshot ID: `ZitwQAAAAABGFHNzyqSNY+o73dufrSxx`

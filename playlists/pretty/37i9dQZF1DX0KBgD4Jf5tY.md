@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Il meglio della musica indipendente italiana, aggiornata il terzo mercoledì di ogni mese\. Cover: <a href="spotify:artist:338OK54trmorxC1704hKpD">Anna and Vulkan</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,275 likes - 51 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,280 likes - 51 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 50 | [figliafutura](https://open.spotify.com/track/52terdOzRx9GKRzsGybrns) | [fluente](https://open.spotify.com/artist/6l4tbTRTSxsnEubYgnd2u9) | [figliafutura](https://open.spotify.com/album/5ic1uVI97CBuguXfwtVgen) | 2:54 |
 | 51 | [Disordine](https://open.spotify.com/track/6Tz00bbQVqby0tQXoUEq4s) | [Tueri Damasco](https://open.spotify.com/artist/7v7fysSXW70UvLEJEUSohB) | [Analisi portafoglio danni](https://open.spotify.com/album/5p55aqWycjUQBxEO6JIFdK) | 4:10 |
 
-Snapshot ID: `MTcxMzkwOTY2MSwwMDAwMDAwMGIyODAxNTAyMmQzODlhZmFkZWZlNDJlOTE3ODZkMmQ5`
+Snapshot ID: `ZigvnQAAAACygBUCLTia+t7+QukXhtLZ`

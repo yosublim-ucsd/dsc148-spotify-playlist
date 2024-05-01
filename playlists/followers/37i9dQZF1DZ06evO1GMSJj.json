@@ -1,7 +1,7 @@
 {
-  "2024-04-30": 22853,
+  "2024-05-01": 22865,
   "date_first_scraped": "2022-05-30",
-  "description": "This Is Boards of Canada. Los temas esenciales, todos en una lista.",
+  "description": "This Is Boards of Canada. Sus mejores \u00e9xitos, todos en una playlist.",
   "name": "This Is Boards of Canada",
   "tracks": [
     {
@@ -1223,7 +1223,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 287403,
       "name": "Reach For The Dead",
       "url": "https://open.spotify.com/track/6ngx6PjG5Gy2y1WJl3epZQ"
@@ -1637,7 +1637,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-24",
+      "date_removed": null,
       "duration_ms": 138561,
       "name": "Transmisiones Ferox",
       "url": "https://open.spotify.com/track/4CjUEILQ2oxJKFGDbavYBU"

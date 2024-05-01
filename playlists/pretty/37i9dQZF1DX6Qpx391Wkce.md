@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 
 > <a href="spotify:artist:2xeHjPrS4EnEUIXHV9pkeg">Monika Kruse</a>'s favorite tracks\. Updated regularly\. Curated by Monika Kruse\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,212 likes - 57 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,223 likes - 57 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 | 56 | [The Beat Just Goes Straight On And On](https://open.spotify.com/track/1Y0OHYrteTswnjo72YKUL5) | [Perry & Rhodan](https://open.spotify.com/artist/7eyhmCn1XGDpFbrWkQMXhK) | [The Beat Just Goes Straight On And On](https://open.spotify.com/album/4CUfZ5Ujfctd6HXr65WZtj) | 9:53 |
 | 57 | [Method](https://open.spotify.com/track/5mlGbqK6kYoJOkg8X97bCd) | [Drumsauw](https://open.spotify.com/artist/5PYI7iXojjJqfWoxZrJtBb) | [Crypto EP](https://open.spotify.com/album/2Zf3hzeDAGJNL5xnmSDjoz) | 5:49 |
 
-Snapshot ID: `MTcxMjkxNDcwNiwwMDAwMDAwMGQ1OWE5Y2ZkZGJjMTI5ZTQzODEzMDA5YWNiZWQyN2Jh`
+Snapshot ID: `ZhkBEgAAAADVmpz928Ep5DgTAJrL7Se6`

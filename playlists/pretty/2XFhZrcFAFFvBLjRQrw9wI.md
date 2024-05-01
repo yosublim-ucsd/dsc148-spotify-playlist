@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2XFhZrcFAFFvBLjRQrw9wI.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 304 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 303 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/2XFhZrcFAFFvBLjRQrw9wI.md) - [plain]
 | 49 | [Navy Blue](https://open.spotify.com/track/2WniNi3kmo9VGSzNegJyIx) | [Diane Renay](https://open.spotify.com/artist/0qH7JjrjtYbvone01gPzVd) | [The 60's Collection Vol\. 2](https://open.spotify.com/album/6zWH3yreUF1A3Qn4ClskiW) | 2:31 |
 | 50 | [Diane](https://open.spotify.com/track/3s0uqbNYr36JVtLwM3l7Xc) | [The Bachelors](https://open.spotify.com/artist/0qDtyCZRYrja9CoeHXV6FD) | [The Wonderful World of the 60's \- 100 Hit Songs](https://open.spotify.com/album/2g6zIUb6GvP0k5KtLpWOEQ) | 2:28 |
 
-Snapshot ID: `MTUsMzQ5NjdjNTNlM2IzMTU5OWRiYTc1ZjZkY2YxYWE3MDg1NjlhZTE5MQ==`
+Snapshot ID: `AAAADzSWfFPjsxWZ26dfbc8apwhWmuGR`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY90iCJMKual.md) - [plain]
 
 > 🇵🇭 vibin' 🥶 🔥 Cover: Jason Dhakal, Jess Connelly, LUSTBASS
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,062 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,128 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY90iCJMKual.md) - [plain]
 | 49 | [TRUTH SERUM](https://open.spotify.com/track/58sBIAQcrTqg2KXUlTlddz) | [Zeke Abella](https://open.spotify.com/artist/5aEAM9GB7loq6xxai3YYrn) | [TRUTH SERUM](https://open.spotify.com/album/2hbvVzco8KoNHw696LIia5) | 3:22 |
 | 50 | [4:AM](https://open.spotify.com/track/4OaVpRQJWIgMTecpLSmhnn) | [HELLMERRY](https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc) | [4:AM](https://open.spotify.com/album/2KbChrlOoIu1vhxwCiNpXo) | 3:48 |
 
-Snapshot ID: `MTcxMjkwNjAyOCwwMDAwMDAwMDIzZDU2N2I2NTRjZmZlYzk0ZjgzOWJlNzUwMzI2ODI3`
+Snapshot ID: `ZhjfLAAAAAAj1We2VM/+yU+Dm+dQMmgn`

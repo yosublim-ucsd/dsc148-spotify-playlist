@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68kWwWBDPYS.md) - [plain]
 
 > puros morrxs haciendo música chida\. El David Aguilar en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,240 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,210 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68kWwWBDPYS.md) - [plain]
 | 49 | [HILO ROJO](https://open.spotify.com/track/6p6cds4TrmhfWrqB0O7gZD) | [GRTSCH](https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK) | [HILO ROJO](https://open.spotify.com/album/6eguZJ2eAENVbImzDTO7bx) | 3:26 |
 | 50 | [Mi Sueño](https://open.spotify.com/track/5KEVe54PKR5Imu2ovBm1CY) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Mi Sueño](https://open.spotify.com/album/0E94vI4EfOVH9HVnmhyafU) | 2:42 |
 
-Snapshot ID: `MTcxNDExMTIwMCwwMDAwMDAwMDEzN2RjMzU5ZDZlODgyODRjOTI0NzI1YjI2MGVlM2Q1`
+Snapshot ID: `ZitC4AAAAAATfcNZ1uiChMkkclsmDuPV`

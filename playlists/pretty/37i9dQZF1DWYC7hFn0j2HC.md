@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYC7hFn0j2HC.md) - [plain]
 
 > ¡Lo mejor de los charros cantores! Vicente Fernández en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,106,765 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,106,652 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYC7hFn0j2HC.md) - [plain]
 | 69 | [Árboles De La Barranca](https://open.spotify.com/track/1gbfUKAtyJQivt4gw2J3CG) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Un Puño de Tierra](https://open.spotify.com/album/65VUOaoJRlzDEwFSIJdWS3) | 3:09 |
 | 70 | [Jamás, Jamás](https://open.spotify.com/track/2GUB96lR5LWCbAhfLxEQU0) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Amigo Organillero](https://open.spotify.com/album/2Rv1ejNPg23IdQQhlZxdOQ) | 2:49 |
 
-Snapshot ID: `MTcxMjYxNzU4MywwMDAwMDAwMDEzNjRmZjEzYTE3NDdmOGEzNzc5NDlkNWIwYWJkYjcx`
+Snapshot ID: `ZhR4bwAAAAATZP8ToXR/ijd5SdWwq9tx`

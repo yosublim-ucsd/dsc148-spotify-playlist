@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 
 > All the freshest hip\-hop heaters in one list! Cover: Travis Scott.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 29,608 likes - 60 songs - 3 hr 0 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 29,604 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 | 59 | [What U Want?](https://open.spotify.com/track/55NP3m7Hy6yx7DKnstfPZN) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [What U Want?](https://open.spotify.com/album/7ySDA3Zp2y6jPoudGvgKqf) | 1:35 |
 | 60 | [I Got Paid Today](https://open.spotify.com/track/0e956pEKFmTCHO5fSwFXP8) | [Snotty Nose Rez Kids](https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5) | [I Got Paid Today](https://open.spotify.com/album/4DsaSDzXR06Zr1IBVFPa0i) | 3:32 |
 
-Snapshot ID: `Nzc4Miw0YjM5ZWJmY2ZkNDkyZWJhYjk1YWQ2YWJhZTQ1NGVmODM0MDc4MzNh`
+Snapshot ID: `AAAeZks56/z9SS66uVrWq65FTvg0B4M6`

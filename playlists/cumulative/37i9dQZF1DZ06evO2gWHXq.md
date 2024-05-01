@@ -2,7 +2,7 @@
 
 ### [This Is MC Davo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2gWHXq)
 
-> This Is MC Davo\. Sus mejores éxitos, todos en una playlist.
+> This is MC Davo\. The essential tracks, all in one playlist.
 
 61 songs - 3 hr 36 min
 

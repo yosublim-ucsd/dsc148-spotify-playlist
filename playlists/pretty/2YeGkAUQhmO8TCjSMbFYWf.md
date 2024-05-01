@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2YeGkAUQhmO8TCjSMbFYWf.md) - [plain]
 
 > Honor your body, fuel your mind\. Love Life\. Live Yoga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,280 likes - 22 songs - 1 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,279 likes - 22 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/2YeGkAUQhmO8TCjSMbFYWf.md) - [plain]
 | 21 | [Boardwalks](https://open.spotify.com/track/3jDF66ZATb0FcHNnOqeyDK) | [Little May](https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH) | [Little May](https://open.spotify.com/album/00UxqHa2736DcXKCZGF4i9) | 3:15 |
 | 22 | [Naked As We Came](https://open.spotify.com/track/2gUSIsapdX6jEJ0DvjqTt2) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days](https://open.spotify.com/album/20OPxsW0aYB6InxDImJRdt) | 2:32 |
 
-Snapshot ID: `MjEwLDM0NzEyZGE1NmNiMDc1MTUwNjc5YTg4OWVjMzMxMzhlODc5ZjNlMTk=`
+Snapshot ID: `AAAA0jRxLaVssHUVBnmoiewzE46Hnz4Z`

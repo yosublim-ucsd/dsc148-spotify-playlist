@@ -28,4 +28,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOyGe4011iziL.md) - [plain]
 | 18 | [Say So](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:57 |
 | 19 | [Doja Cat Just Wants to Have Fun](https://open.spotify.com/episode/5WT2qe1yBo7Y9rPNQaiRiQ) | [MIC/LINE](https://open.spotify.com/show/7ghjSnDrkv7QGQAOyDCvWA) | [MIC/LINE](https://open.spotify.com/album/7ghjSnDrkv7QGQAOyDCvWA) | 24:16 |
 
-Snapshot ID: `MjY3NzQ5MzEsMDAwMDAwMDBhODJkYTBhODRmZmI5MTdiMWU3YmQyY2VkN2Q3M2I5ZA==`
+Snapshot ID: `AZiNkwAAAACoLaCoT/uRex570s7X1zud`

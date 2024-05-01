@@ -4,7 +4,7 @@
 
 > Rapping into your hearts from the alleys of Mumbai\. Cover\- Naezy
 
-135 songs - 7 hr 15 min
+136 songs - 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Bombay to Punjab](https://open.spotify.com/track/1xoQjCAP6a63tZXbsMziXk) | [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Down to Earth](https://open.spotify.com/album/5q3xcIxiEhCrxwSaiiAqQ3) | 4:03 | 2023-03-17 | 2023-04-25 |
 | [Bura / Bhala](https://open.spotify.com/track/38RAyq4LnGYflc2W7hXuGa) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Akash Shravan](https://open.spotify.com/artist/4jFzbVrYw3ARhalxPjFfU0) | [Bura / Bhala](https://open.spotify.com/album/3Weyfjbzr8k74d0eBPH5dS) | 3:03 | 2023-03-17 | 2023-04-25 |
 | [BUSY](https://open.spotify.com/track/0PqxE7K26EXJY2acigxI6b) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I), [Young Galib](https://open.spotify.com/artist/7oSaiYIWj9u22z7afFZc5o) | [Monsoon](https://open.spotify.com/album/08j7Yab8KFvHOvTjHFfptX) | 2:25 | 2023-03-17 | 2023-04-25 |
+| [CBSC](https://open.spotify.com/track/08PHYM5cB7FytGe9W6uAsv) | [The Siege](https://open.spotify.com/artist/5HrGNVmY12srDtUFxDd49Z), [Devoniàn](https://open.spotify.com/artist/1b4GDmWjhd45UxxkTEeSJ8) | [CBSC](https://open.spotify.com/album/72Nm3gnzz382jyxKRd9A4m) | 1:22 | 2024-04-30 |  |
 | [Chal Bombay](https://open.spotify.com/track/6AooRgSRDzbCYL4NZ4RCjU) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Kohinoor](https://open.spotify.com/album/0XDtCjokUgSrL527Ftk0xE) | 2:54 | 2023-03-17 | 2023-04-25 |
 | [Chalte Firte](https://open.spotify.com/track/6fUUC9seEl1Q6dA2RrqVPD) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Malum Hai Na](https://open.spotify.com/album/4dtVDWCVbRNrkfzJizw3Kz) | 2:23 | 2023-03-17 | 2023-10-23 |
 | [Chamdi Chaaley](https://open.spotify.com/track/1CsyTxRwc2rxkpKb40pX36) | [Loka](https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu) | [Loka Kaha Hai \(Side A\)](https://open.spotify.com/album/1RTiXgD0zfpa32wqRFVNRe) | 3:44 | 2023-12-13 |  |
@@ -66,7 +67,7 @@
 | [Haalaat](https://open.spotify.com/track/78mlRr3vhLikHTWNkPhlOf) | [Naezy](https://open.spotify.com/artist/2oeTqp8DgAmtnP2WGc1OS2) | [Haalaat](https://open.spotify.com/album/20TsuaBtaR4x4Sci8r3HLz) | 3:56 | 2023-03-17 | 2023-04-25 |
 | [Heal](https://open.spotify.com/track/63fTryyhjbkCk8njSv4i18) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Heal](https://open.spotify.com/album/5QcuKHa15Dq0hEOUDIrOYT) | 3:04 | 2023-03-17 | 2023-04-25 |
 | [Industry Galat](https://open.spotify.com/track/6MaMlGQWYcgDgooYJVOmSq) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Zero Chill](https://open.spotify.com/artist/2jQwPdXQ9R2yAi0eMZRQ1M), [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2) | [Industry Galat](https://open.spotify.com/album/4jM5gTMAaDkaFtgGyOcnmP) | 3:08 | 2023-03-17 | 2023-12-14 |
-| [Intro 2024 \- From 'Anti Fitna'](https://open.spotify.com/track/6oh40UW3pmrIHNh4S6HNpr) | [Naezy](https://open.spotify.com/artist/2oeTqp8DgAmtnP2WGc1OS2) | [Intro 2024 \(From 'Anti Fitna'\)](https://open.spotify.com/album/0JylDcEiyK6zPMO2apYb5F) | 2:13 | 2024-04-12 |  |
+| [Intro 2024 \- From 'Anti Fitna'](https://open.spotify.com/track/6oh40UW3pmrIHNh4S6HNpr) | [Naezy](https://open.spotify.com/artist/2oeTqp8DgAmtnP2WGc1OS2) | [Intro 2024 \(From 'Anti Fitna'\)](https://open.spotify.com/album/0JylDcEiyK6zPMO2apYb5F) | 2:13 | 2024-04-12 | 2024-05-01 |
 | [ISLAH](https://open.spotify.com/track/287Hq0mwGrCWVfBjugfKIK) | [Naezy](https://open.spotify.com/artist/2oeTqp8DgAmtnP2WGc1OS2) | [ISLAH](https://open.spotify.com/album/1uZXs1srHciCh2ufGK4YuS) | 2:39 | 2024-04-04 |  |
 | [Jama Kar](https://open.spotify.com/track/0zyMXraAjJoqD7EWSnRqHS) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [Jama Kar](https://open.spotify.com/album/63zSAE7el24bx7PvQKex5B) | 3:27 | 2023-03-17 | 2023-04-29 |
 | [Jawab De](https://open.spotify.com/track/4wnwcrCyOODzxlMJ0nHKjw) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Jawab De](https://open.spotify.com/album/4T0NkUVDD4NeeE67deXR3g) | 3:03 | 2023-03-17 | 2023-12-14 |

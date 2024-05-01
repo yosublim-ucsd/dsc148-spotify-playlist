@@ -1,5 +1,5 @@
 {
-  "2024-04-30": 219859,
+  "2024-05-01": 219909,
   "date_first_scraped": "2022-03-28",
   "description": "A journey into the unknown, dark, and experimental.",
   "name": "Terra Incognita",
@@ -1669,7 +1669,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 258366,
       "name": "I Am You - Space Afrika Remix",
       "url": "https://open.spotify.com/track/2dqc2QouSxBbbPpu84peJh"
@@ -1919,7 +1919,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 309975,
       "name": "Inquietum",
       "url": "https://open.spotify.com/track/2Kh7KOKvfe25khXSJYH4rA"
@@ -2861,6 +2861,28 @@
       "duration_ms": 237040,
       "name": "Not The News",
       "url": "https://open.spotify.com/track/7ypjELqhyUT3BBCws8kzKN"
+    },
+    {
+      "album": {
+        "name": "Benti",
+        "url": "https://open.spotify.com/album/5n7fPX5kqDYOI5LUo2aq0l"
+      },
+      "artists": [
+        {
+          "name": "Arhkota",
+          "url": "https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ"
+        },
+        {
+          "name": "Lubna Maher",
+          "url": "https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239360,
+      "name": "Obscure Paliteo",
+      "url": "https://open.spotify.com/track/2FKHoqbxcIu2NONNgxaON9"
     },
     {
       "album": {
@@ -3945,6 +3967,24 @@
       "duration_ms": 300000,
       "name": "The Order of the Rain",
       "url": "https://open.spotify.com/track/4LCsXtT1cAeERXN0gb0Kbm"
+    },
+    {
+      "album": {
+        "name": "thieves",
+        "url": "https://open.spotify.com/album/0Xs1Xc5yUxPlYFOKyJ0UV7"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178616,
+      "name": "thieves",
+      "url": "https://open.spotify.com/track/34ZXYNErf3WC4tgO0PAnUx"
     },
     {
       "album": {

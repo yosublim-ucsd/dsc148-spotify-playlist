@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 
 > インスタメディア『PLAYLIST』のトレンドプレイリスト。<br/>音楽好きの若者に支持されたインスタアカウント（Instagram：<a href="https://www.instagram.com/playlist\_of/">@playlist\_of</a>）の編集者が今話題の楽曲をピック。<br/>毎週土曜日更新中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,344 likes - 40 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,343 likes - 40 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 | 39 | [たまに思うんだ](https://open.spotify.com/track/1NE1Cyz3yfuJkTUIiz2oPE) | [REN](https://open.spotify.com/artist/7qkCER4mvxgW77V3mTTIfz) | [たまに思うんだ](https://open.spotify.com/album/2Ug72dr7FeUPb0pyoR9o4i) | 2:43 |
 | 40 | [pray song](https://open.spotify.com/track/60wJaSAlL71eim2RGeDv90) | [kao](https://open.spotify.com/artist/2SDSGB5izakgpJKlfqIyqw) | [pray song](https://open.spotify.com/album/6942Tm1EvBiMlTFl2sqclH) | 4:39 |
 
-Snapshot ID: `MTcxNDE0MzYwMCwwMDAwMDAwMDhmYWQ1NTk1NmRhYjM1ODE5YjhjMGVlMWU0NWJiMDI0`
+Snapshot ID: `ZivBcAAAAACPrVWVbas1gZuMDuHkW7Ak`

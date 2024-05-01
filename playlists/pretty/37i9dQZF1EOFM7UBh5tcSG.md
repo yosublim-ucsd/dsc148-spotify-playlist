@@ -25,4 +25,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOFM7UBh5tcSG.md) - [plain]
 | 15 | [Demi Lovato is Not Sorry](https://open.spotify.com/episode/1u8LZkvizAkmqdExv1oWOO) | [Switched on Pop](https://open.spotify.com/show/1sgWaKtQxwfjUpZnnK8r7J) | [Switched on Pop](https://open.spotify.com/album/1sgWaKtQxwfjUpZnnK8r7J) | 37:05 |
 | 16 | [everything i wanted](https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [everything i wanted](https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT) | 4:05 |
 
-Snapshot ID: `MjY3ODM0MDYsMDAwMDAwMDBmZDI3NDRiODM1Mjc5ZDU4NzA0Nzg5NzRjY2VmYjUxNw==`
+Snapshot ID: `AZiurgAAAAD9J0S4NSedWHBHiXTM77UX`

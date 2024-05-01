@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdESa57YThAL.md) - [plain]
 
 > Music from "Mushoku Tensei: Jobless Reincarnation" /「無職転生  ～異世界行ったら本気だす～ 」の楽曲を1つのプレイリストで。©理不尽な孫の手/MFブックス/「無職転生Ⅱ」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,780 likes - 53 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,795 likes - 53 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdESa57YThAL.md) - [plain]
 | 52 | [内緒](https://open.spotify.com/track/13VhJNx5l4ynzVDS2a5Bnn) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 ～異世界行ったら本気だす～』 第２期 オリジナル・サウンドトラック](https://open.spotify.com/album/3oh7Y1kjqDwbEhLZiD1ZqV) | 2:37 |
 | 53 | [Clover \- instrumental ver.](https://open.spotify.com/track/2AAkHfFxzTPpbCMAMEUfKq) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 ～異世界行ったら本気だす～』 第２期 オリジナル・サウンドトラック](https://open.spotify.com/album/3oh7Y1kjqDwbEhLZiD1ZqV) | 1:50 |
 
-Snapshot ID: `MTcxNDAxMDgyNiwwMDAwMDAwMGFjNjJlYjBmNmU0NmRiNWYzNjgyZDMzYzJlYzdiMTNh`
+Snapshot ID: `Zim6ygAAAACsYusPbkbbXzaC0zwux7E6`

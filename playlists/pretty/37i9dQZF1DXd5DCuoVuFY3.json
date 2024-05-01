@@ -1,12 +1,12 @@
 {
   "description": "For your lounge room DF!",
-  "num_followers": 507409,
+  "num_followers": 507476,
   "original_name": "House Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcwMTM0MzMyNSwwMDAwMDAwMDhmMWFiYWM2NWNmZDMyOWVmNmIyMzgwMzcwNzBiNTQw",
+  "snapshot_id": "ZWhwXQAAAACPGrrGXP0ynvayOANwcLVA",
   "tracks": [
     {
       "added_at": "2023-11-30 11:22:05",
@@ -1198,6 +1198,10 @@
         {
           "name": "Mufasa & Hypeman",
           "url": "https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0"
+        },
+        {
+          "name": "Mufasa",
+          "url": "https://open.spotify.com/artist/23rdR5gsZI5BqncTEKLtDU"
         },
         {
           "name": "Dopamine",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 
 > Bhavi, Seven Kayne, Milo J, Tiago PZK, KHEA & Neo Pistea en la casa del Trap Argentino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,808 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,531 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 | 99 | [MI LOCURA EN BUENOS AIRES](https://open.spotify.com/track/0b0BMDKMFdVllW5PeriqFa) | [COSMIC KID](https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h) | [MI LOCURA EN BUENOS AIRES](https://open.spotify.com/album/5qPPycb83v2ycLeOZD3gKw) | 3:08 |
 | 100 | [Slow](https://open.spotify.com/track/5IWMe58cuEQrM71D3fsseN) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Slow](https://open.spotify.com/album/63Evq6spRulb51uVevqui3) | 2:15 |
 
-Snapshot ID: `MTcxNDEwMDQwMCwwMDAwMDAwMGUwN2EzNDJlNjBjY2ZkMWQzMWQyOGRlODE5M2QxNGIx`
+Snapshot ID: `ZisYsAAAAADgejQuYMz9HTHSjegZPRSx`

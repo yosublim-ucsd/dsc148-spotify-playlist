@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0ScTcjJBdj.md) - [plain]
 
 > Let your worries and cares slip away.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,646,855 likes - 150 songs - 9 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,646,519 likes - 150 songs - 9 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0ScTcjJBdj.md) - [plain]
 | 149 | [Harder Way](https://open.spotify.com/track/2mOxQ582K8WAP3FjTUhYVC) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [San Isabel](https://open.spotify.com/album/0ujviO24y6WGV1KQwkcwIv) | 3:17 |
 | 150 | [Stay Alive](https://open.spotify.com/track/1o6O7ZPptHa5Rv2VEtfAM2) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Stay Alive](https://open.spotify.com/album/0SHgH0hrUEIneC7OWJeYS7) | 3:53 |
 
-Snapshot ID: `MTcxMzMwMzA1OCwwMDAwMDAwMGZmMWI5NjE4M2RiOWJhZDM0YTIyNDk4YTk3NTYwMTY1`
+Snapshot ID: `Zh7uEgAAAAD/G5YYPbm600oiSYqXVgFl`

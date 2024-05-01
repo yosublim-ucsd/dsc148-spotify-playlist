@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > gems by artists carving their own lane\. cover: Sega Bodega
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,084 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,113 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [delusion illusion](https://open.spotify.com/track/63VQqmfSMONIVnTBG2t3pH) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [separation anxiety \(deluxe\)](https://open.spotify.com/album/6Dio9pwqualCDqFLBRkO0Q) | 2:50 |
 | 100 | [Feel complete](https://open.spotify.com/track/2bBh5UwbVLkA3WB44iXBye) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:43 |
 
-Snapshot ID: `MTcxNDEwNDAwMCwwMDAwMDAwMDE0NzVlNDhlMWY2ZTc2OTMwNDc3MTk3OGJlZjY1NWEx`
+Snapshot ID: `ZismwAAAAAAUdeSOH252kwR3GXi+9lWh`

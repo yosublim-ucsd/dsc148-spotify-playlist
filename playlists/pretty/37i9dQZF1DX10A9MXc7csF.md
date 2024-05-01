@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: EKA Norteña
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,804 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,841 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 99 | [El Pitufo](https://open.spotify.com/track/4vE0Xxu4M21TzYlrRVU6GD) | [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z) | [El Pitufo](https://open.spotify.com/album/6EaaqOlpziEc8qXfnDRSDW) | 4:05 |
 | 100 | [Ice Cream](https://open.spotify.com/track/6wprSQTo6JpzI2bGiWVThv) | [Los mismos De La M](https://open.spotify.com/artist/2OtwuHrORYlzWWIKGxfLR8), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [Ice Cream](https://open.spotify.com/album/4YqJEdh2QTYfxj8pFzVEuW) | 2:11 |
 
-Snapshot ID: `MTcxNDI0OTU0NywwMDAwMDAwMDc5MGU5NTFmY2VlYzllOGM0YzQwZmIwYWQ2ZjlmNTQ2`
+Snapshot ID: `Zi1fSwAAAAB5DpUfzuyejExA+wrW+fVG`

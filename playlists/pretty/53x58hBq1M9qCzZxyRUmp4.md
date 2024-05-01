@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/53x58hBq1M9qCzZxyRUmp4.md) - [plain]
 
 > All the essentials of Pop\-Punk
 
-[Loudwire](https://open.spotify.com/user/wqopimzeqvaed8dqu6o2tixrj) - 10,516 likes - 125 songs - 6 hr 47 min
+[Loudwire](https://open.spotify.com/user/wqopimzeqvaed8dqu6o2tixrj) - 10,514 likes - 125 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/53x58hBq1M9qCzZxyRUmp4.md) - [plain]
 | 124 | [Tomorrow](https://open.spotify.com/track/6qBrsNl546hRQXPDNq9qZ1) | [Home Grown](https://open.spotify.com/artist/4EasYyQ8WcUJYIxqe0dRqY) | [Kings Of Pop](https://open.spotify.com/album/5CCklbd2sBVAw1TP6zOYIJ) | 3:24 |
 | 125 | [Face Or Kneecaps](https://open.spotify.com/track/11AHrbKNZa3AFRJ5uFCUXr) | [The Movielife](https://open.spotify.com/artist/6WuH3nSjp98OqgwnDqYnRK) | [Forty Hour Train Back To Penn](https://open.spotify.com/album/5icS1bVHFO9rlBcxVOzljy) | 3:10 |
 
-Snapshot ID: `MzY4MCwxODQ0ZDI1OWQ0ZWQ4ZWMxZGU3OTFjMzQ0Y2NlZDdjOTZjZDk5ZTA0`
+Snapshot ID: `AAAOYBhE0lnU7Y7B3nkcNEzO18ls2Z4E`

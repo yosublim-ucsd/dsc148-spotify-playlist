@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: BRUX\. Artwork by Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,988 likes - 95 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,063 likes - 95 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 17 | [Tusen Takk](https://open.spotify.com/track/7rFTbmyonDoQaiPI0bmAbF) | [V\. Christie](https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm) | [Tusen Takk](https://open.spotify.com/album/4yEGt45nj21TdlnUtdVm3N) | 3:40 |
 | 18 | [holy ghost](https://open.spotify.com/track/5IcmUnL95u4YFo6hhIbPZV) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [holy ghost](https://open.spotify.com/album/0H9k8NduBG5dcan4V1FJ6m) | 2:32 |
 | 19 | [CHOONZ](https://open.spotify.com/track/39Sgj7Pj29L9dX1uhOk2Ht) | [FAHU](https://open.spotify.com/artist/0DWyQopVmVJoDZnoA9UzWs), [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo), [Aka Kelzz](https://open.spotify.com/artist/6t4XItjt4Lsk0bCBH3KGpb) | [CHOONZ](https://open.spotify.com/album/3Shnkz8Qijs8nYHpWRHJDy) | 4:16 |
-| 20 | [Need You Now](https://open.spotify.com/track/5X21uANL3TPmskQEphYNgR) | [tanvi](https://open.spotify.com/artist/2oq1PXgnTtflp9kw08ddB3) | [Need You Now](https://open.spotify.com/album/5ZbC2gZrQ6WAC1AroTczip) | 2:54 |
+| 20 | [Need You Now](https://open.spotify.com/track/5X21uANL3TPmskQEphYNgR) | [tanvi everywhere](https://open.spotify.com/artist/4Hj3jD4pOEhrf5Ntol1ttj) | [Need You Now](https://open.spotify.com/album/5ZbC2gZrQ6WAC1AroTczip) | 2:54 |
 | 21 | [One \- Edit](https://open.spotify.com/track/6EW5n7EQKoBd306OB8penN) | [briqs](https://open.spotify.com/artist/2fimBXXBJgpNOdq7Jk1osw) | [One \(Edit\)](https://open.spotify.com/album/3tixmIEv4JBngTWmWZFvor) | 4:00 |
 | 22 | [Spine](https://open.spotify.com/track/6IZBSemFcZQfKiNsFY12Ac) | [Brad Mullins](https://open.spotify.com/artist/5yGxsoA0P5Era0ha3F6kBd) | [Spine](https://open.spotify.com/album/7vnHGPZIyLuSo1O20kvOji) | 4:11 |
 | 23 | [Make You Look](https://open.spotify.com/track/1JV2huNb9YzUfRzJVA0ato) | [Dee Mad](https://open.spotify.com/artist/6ofHQpykLy6SINDBBKqoOI) | [Make You Look](https://open.spotify.com/album/6U0fhe2i6Ra6xhXKqsd6kM) | 2:16 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 94 | [That's My Shit](https://open.spotify.com/track/0V3mQisaCvNV2EOxn1N29C) | [Biicla](https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ) | [That's My Shit](https://open.spotify.com/album/15C7YUmMrXy00kJB4Rlp5V) | 1:55 |
 | 95 | [Fate](https://open.spotify.com/track/68g8XQCURAg8Dt6D10l2jN) | [Pepé](https://open.spotify.com/artist/5Z4OIeXWXn0UMTPe8JL0Cx) | [Fate](https://open.spotify.com/album/3bTyREPmR7bsYurXyLuxyu) | 3:49 |
 
-Snapshot ID: `MTcxNDE2NTY5NSwwMDAwMDAwMGIzZTUxNDg5ZWM0YjJmZjMwMTllNDhiY2EwZGM2MmMx`
+Snapshot ID: `ZiwXvwAAAACz5RSJ7Esv8wGeSLyg3GLB`

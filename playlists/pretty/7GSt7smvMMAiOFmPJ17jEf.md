@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7GSt7smvMMAiOFmPJ17jEf.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 297 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 296 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/7GSt7smvMMAiOFmPJ17jEf.md) - [plain]
 | 49 | [Shout Shout \(Knock Yourself Out\)](https://open.spotify.com/track/5x6EGByCHCfGtVCwg1Z1PG) | [Ernie Maresca](https://open.spotify.com/artist/0b9n4vhaTCuL23DoRJ1XHj) | [Shout! Shout! \(Knock Yourself Out\)](https://open.spotify.com/album/5VyKvzMRm4syftBZM3qB5T) | 2:10 |
 | 50 | [What's Your Name](https://open.spotify.com/track/6SazjADww1TJ3chzLzCgCm) | [Don & Juan](https://open.spotify.com/artist/7gArjmSS1gJuofpu4vHtCI) | [Doo Wop Classic Ballads Vol 2](https://open.spotify.com/album/51mdtcwtPg5VeZodw1eQfj) | 2:17 |
 
-Snapshot ID: `MywzMTI2NDQyNDE0YWYyOTRlOTUzNTg3ZmIzMGY0MDFiMTJjMGQyMDAw`
+Snapshot ID: `AAAAAzEmRCQUrylOlTWH+zD0AbEsDSAA`

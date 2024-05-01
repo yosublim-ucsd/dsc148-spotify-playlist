@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/5QOzTki17fEWKoUVcvTrI2.md) - [plain]
 | 19 | [Appreciation](https://open.spotify.com/track/0laArkVVQj7e5ld4oiN615) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Damage](https://open.spotify.com/album/3cTKLglWH2XfDfbwqXvaGo) | 3:16 |
 | 20 | [Opposite](https://open.spotify.com/track/5jiUJZ7EQadvIr52caQXUj) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Opposites \(Deluxe\)](https://open.spotify.com/album/1mGPHj7IomG8gBUW3wRi8G) | 3:55 |
 
-Snapshot ID: `NCw4ODQ1NmU3MjRiZGQ0NGVmMjFlZDRhNzM4NWVlYTI4NmRmNDFmNzAz`
+Snapshot ID: `AAAABIhFbnJL3UTvIe1Kc4XuoobfQfcD`

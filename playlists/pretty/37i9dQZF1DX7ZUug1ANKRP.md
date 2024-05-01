@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Cover: Tiësto, MOGUAI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,808,132 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,808,264 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [Faith](https://open.spotify.com/track/2lioJwUGzT5r6VzdOo1GS0) | [AVALAN ROKSTON](https://open.spotify.com/artist/3WqiBOiSB2FlD25EX9893G), [Avalan](https://open.spotify.com/artist/13v2M5UZ3bbOCGmuvo7uFw), [Rokston](https://open.spotify.com/artist/5XWSzLJ3W6zr7Hf1XhNvPP) | [Faith](https://open.spotify.com/album/2HYpfFAPeut5zxOfgtoUyO) | 3:12 |
 | 50 | [Paper Plane](https://open.spotify.com/track/3oht02g1mg6KywagA3bysC) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Paper Plane](https://open.spotify.com/album/3q53z26hzALpOERcaZ6nUt) | 2:33 |
 
-Snapshot ID: `MTcxNDAyOTgwOSwwMDAwMDAwMGZmNjM0MzI1NjI0NWQxZTczYzNmZDZhMTE2NGM5ZGUy`
+Snapshot ID: `ZioE8QAAAAD/Y0MlYkXR5zw/1qEWTJ3i`

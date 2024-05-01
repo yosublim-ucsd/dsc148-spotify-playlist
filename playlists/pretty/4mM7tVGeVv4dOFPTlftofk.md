@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/4mM7tVGeVv4dOFPTlftofk.md) - [plain]
 | 70 | [Let It Ride](https://open.spotify.com/track/6EDfUsKeu0WWmbhscotD2e) | [Triggerfinger](https://open.spotify.com/artist/3UhIlk54Oe4ja06V962ptU) | [All This Dancin' Around](https://open.spotify.com/album/33Wl8TSxJ4byQwWa45ZRy2) | 3:23 |
 | 71 | [The Mountie](https://open.spotify.com/track/6oVfh3OxCAdxD86IIACCMJ) | [Kings Destroy](https://open.spotify.com/artist/2vDfJFvPss9uWNgVLCmC3x) | [And The Rest Will Surely Perish](https://open.spotify.com/album/4MjmlfYk5nbWQRvh9mAOHz) | 6:33 |
 
-Snapshot ID: `NCxiNGQ2MDE2YzRkOGIwZDBkMTFjMjE5ZWNlYWE2ZDNjZjY1YTNlYTky`
+Snapshot ID: `AAAABLTWAWxNiw0NEcIZ7Oqm089lo+qS`

@@ -1,7 +1,7 @@
 {
-  "2024-04-30": 557474,
+  "2024-05-01": 557525,
   "date_first_scraped": "2022-10-26",
-  "description": "This Is My Chemical Romance. Los temas esenciales, todos en una lista.",
+  "description": "This is My Chemical Romance. The essential tracks, all in one playlist.",
   "name": "This Is My Chemical Romance",
   "tracks": [
     {
@@ -71,7 +71,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-28",
+      "date_removed": null,
       "duration_ms": 175453,
       "name": "Boy Division",
       "url": "https://open.spotify.com/track/7wzNovIu5urOjulGX4VzFo"

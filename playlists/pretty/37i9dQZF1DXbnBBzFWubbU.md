@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnBBzFWubbU.md) - [plain]
 
 > Electronic tunes brought to life by South Asian samples\. Updated regularly.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,877 likes - 90 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,906 likes - 90 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnBBzFWubbU.md) - [plain]
 | 89 | [Pan Jabi](https://open.spotify.com/track/3wd4oqBJFIu1jjLhlWgsVw) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Pan Jabi](https://open.spotify.com/album/0iUrCDGe8kZITt1Gu2Jy5G) | 2:47 |
 | 90 | [Memphis](https://open.spotify.com/track/72I5tTm8VFHpScFXF5YQfz) | [Lxury](https://open.spotify.com/artist/65A90NWrD8qdbNtsRgVXdf) | [Trinity Lounge](https://open.spotify.com/album/1GBVseSDJ8d1KJmnGNYadZ) | 5:46 |
 
-Snapshot ID: `MTcxMzUxNjkxMSwwMDAwMDAwMGExZGE3YTRlMGRhNjFiMmYyMDQ2OWUwNzIxMTQ5Mjdj`
+Snapshot ID: `ZiIxbwAAAACh2npODaYbLyBGngchFJJ8`

@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/3FfBohQXFlgFnYubzrvoq4.md) - [plain]
 | 19 | [Homegrown Honey](https://open.spotify.com/track/5mv0E9VfdpuwNX4fMznxjs) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Homegrown Honey](https://open.spotify.com/album/0u3bCOIrcGotOs119sRupa) | 3:25 |
 | 20 | [Friday Night](https://open.spotify.com/track/7nULd4wYrLEOG9YsrbXTDd) | [Eric Paslay](https://open.spotify.com/artist/4TONBKcqVR1LmPdfJxvkMU) | [Friday Night](https://open.spotify.com/album/7auc8kC060k5irSLM0OOtL) | 2:49 |
 
-Snapshot ID: `MyxlMmQ3OGVjMTIzNTBkMTM3ZThlYWJmY2VkZDY1MjIzZDc2ZmE3Yzdi`
+Snapshot ID: `AAAAA+LXjsEjUNE36Oq/zt1lIj12+nx7`

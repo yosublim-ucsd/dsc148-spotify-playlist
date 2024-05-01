@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6cdV0hVW2suJaMOxzwE46S.md) - [plain]
 
 > We've all been there\. This playlist can help\. Just don't let your boss catch you listening....
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,605 likes - 38 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,606 likes - 38 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/6cdV0hVW2suJaMOxzwE46S.md) - [plain]
 | 37 | [Dorothy At Forty](https://open.spotify.com/track/5Y8b4RyHFHST0vkf85UaBr) | [Cursive](https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3) | [Happy Hollow](https://open.spotify.com/album/7xdUdIhfV5MN7r3QxGnAIH) | 3:02 |
 | 38 | [We Gotta Get Out Of This Place \(Re\-Recorded\)](https://open.spotify.com/track/6TEVFttBadrsDhlpQJRIK0) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [60s Classics](https://open.spotify.com/album/3w6MFLPPc56ilMeY4zwoim) | 5:08 |
 
-Snapshot ID: `MjksYjYwNDBlMjYzYjExOTZkZTU1ZDBlMTdhYWM1ZjZlMDNmMjYzYzJjMQ==`
+Snapshot ID: `AAAAHbYEDiY7EZbeVdDheqxfbgPyY8LB`

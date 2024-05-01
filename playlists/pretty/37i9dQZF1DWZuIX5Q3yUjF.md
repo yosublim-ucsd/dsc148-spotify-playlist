@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: STE, <a href="spotify:playlist:37i9dQZF1DWVjDgOMO8jZl">una dei 6 artisti RADAR 2024</a>!
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,991 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,009 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 49 | [Fuori Da Me](https://open.spotify.com/track/1QdAtWujBndq4Bb3rs9UYP) | [Arya](https://open.spotify.com/artist/1Rr944KwI8GqDCdzdsHYok) | [Punto Zero](https://open.spotify.com/album/3PcENwZrpHJ1mlFsoSo6Bv) | 3:03 |
 | 50 | [Solo un uomo](https://open.spotify.com/track/2ppFjS9GeZs9DLZQM6Zuhf) | [Jeson](https://open.spotify.com/artist/6uVlpDGzypl2DCmRpl08eg), [MDM](https://open.spotify.com/artist/032qvE1MP5hNKELAxsXwBI) | [Solo un uomo](https://open.spotify.com/album/6wqYhmKWxOm1z2XZl99nZe) | 3:13 |
 
-Snapshot ID: `MTcxNDA4MjQ2MCwwMDAwMDAwMDkxMmQ3YjM3MDc5OTVkMTBjMDdjZDJlMjUzYTQwN2Fl`
+Snapshot ID: `ZirSnAAAAACRLXs3B5ldEMB80uJTpAeu`

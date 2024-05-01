@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/3vnx7BaCl3YmHrg3WGLedp.md) - [plain]
 | 94 | [Waiting Around to Die](https://open.spotify.com/track/5gogtHCaImFgzzSNZxCPeQ) | [Quiet Life](https://open.spotify.com/artist/13MdjUqnWNyfY4qKYQ9OPl), [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4) | [Housebroken Man](https://open.spotify.com/album/5OGTvU4mhKMfoUkajeA0De) | 4:44 |
 | 95 | [Amy](https://open.spotify.com/track/7qzqcfLHBAUherRXgW4Ul7) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 3:46 |
 
-Snapshot ID: `MjkwLDM0NzI2MDUzZGNhYmRmZmU2Y2UwMTg5MjE5Y2FhZDY5NmJjN2IzNDc=`
+Snapshot ID: `AAABIjRyYFPcq9/+bOAYkhnKrWlrx7NH`

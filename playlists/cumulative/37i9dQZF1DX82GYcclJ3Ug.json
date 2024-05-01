@@ -28241,6 +28241,24 @@
     },
     {
       "album": {
+        "name": "THE BADDEST",
+        "url": "https://open.spotify.com/album/6BgLfOqQsgYdaVbPDQAuzL"
+      },
+      "artists": [
+        {
+          "name": "Joey Valence & Brae",
+          "url": "https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143994,
+      "name": "THE BADDEST",
+      "url": "https://open.spotify.com/track/7i3PuOJHEfUVy2msxd6WJk"
+    },
+    {
+      "album": {
         "name": "The Break / Running",
         "url": "https://open.spotify.com/album/0A1HZy3DkvXRFANsBf9vah"
       },

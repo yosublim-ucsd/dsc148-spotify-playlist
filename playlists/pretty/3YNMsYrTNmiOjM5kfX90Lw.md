@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3YNMsYrTNmiOjM5kfX90Lw.md) - [plain]
 
 > Hip\-hop favorites\. Songs distributed by DistroKid, playlist curated by the public\. To vote, head to: distrokid.com/spotlight
 
-[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 413,405 likes - 49 songs - 2 hr 28 min
+[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 413,561 likes - 49 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/3YNMsYrTNmiOjM5kfX90Lw.md) - [plain]
 | 48 | [Icarus](https://open.spotify.com/track/0c15x0Cx91xDvIBGVnlMZj) | [Ross Bennett](https://open.spotify.com/artist/5sBH3Ky2cw0fWYs0Nei3MT), [Mateo Oliver](https://open.spotify.com/artist/6LKoBNapKzirfd1VyZFO3j), [Fly High Drew](https://open.spotify.com/artist/2n37nPO5bOHNbuI8EcYZVv) | [Icarus](https://open.spotify.com/album/2GMe9yjkZYWlCvF0hM4648) | 3:18 |
 | 49 | [Daily](https://open.spotify.com/track/1ecMwAuEwHDVaqdj1Hwc2t) | [MC Trey](https://open.spotify.com/artist/5G65VOzroZMUuaY9TnzXdS) | [Daily](https://open.spotify.com/album/1Cc0fGAEoQ0RZZttNcTKxI) | 3:40 |
 
-Snapshot ID: `OTc0LGFkODI5MDY0Y2U5YzI1NGMxODc5ZTE5NzhkZWM1OWFhMGZmNWIyNDQ=`
+Snapshot ID: `AAADzq2CkGTOnCVMGHnhl43sWaoP9bJE`

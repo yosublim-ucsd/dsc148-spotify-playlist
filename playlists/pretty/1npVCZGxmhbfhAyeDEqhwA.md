@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/1npVCZGxmhbfhAyeDEqhwA.md) - [plain]
 | 21 | [Love Come Down \- 12" Version](https://open.spotify.com/track/4A2vDwPwcqBWIuMIJbEsAH) | [Evelyn "Champagne" King](https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7) | [Platinum & Gold Collection](https://open.spotify.com/album/2Viv09nxv92x7lieuEAl4H) | 6:14 |
 | 22 | [Lack Of Love](https://open.spotify.com/track/21gvRGGQ81d7zijU6QlLZX) | [Charles B.](https://open.spotify.com/artist/4X1STxfD2HlEZOCqkp3Wla) | [The Haçienda \- Acid House Classics](https://open.spotify.com/album/7lwBCmb2LjThWjPAasAyoW) | 7:10 |
 
-Snapshot ID: `MzEsZTEzOWFiMTgzNDhjMzMxZTg3NjFjOWIxYzk5ZWY3ZDY2ODdlZGM4Mg==`
+Snapshot ID: `AAAAH+E5qxg0jDMeh2HJscme99ZoftyC`

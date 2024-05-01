@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/0ea8UX0P9phKEpXzFjy6q5.md) - [plain]
 | 77 | [ARE WE STILL FRIENDS?](https://open.spotify.com/track/5TxRUOsGeWeRl3xOML59Ai) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 4:25 |
 | 78 | [Kids](https://open.spotify.com/track/3pyyGVqWvRMq43qtJBzxe0) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Kids](https://open.spotify.com/album/39OIkrUzvzzCkwhXh9Rdeg) | 4:29 |
 
-Snapshot ID: `MzMyLDZjZTVkYmZlNzE5YzgxMjQ2ZjJhYTc2Yjc5ZGQ3MTM1M2ZiNDkwMGI=`
+Snapshot ID: `AAABTGzl2/5xnIEkbyqna3ndcTU/tJAL`

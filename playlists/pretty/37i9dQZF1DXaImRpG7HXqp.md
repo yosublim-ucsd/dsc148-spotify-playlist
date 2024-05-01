@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 
 > Keep calm with instrumental acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 836,909 likes - 296 songs - 12 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 837,004 likes - 296 songs - 12 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -305,4 +305,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 | 295 | [San Juan](https://open.spotify.com/track/3LJc8MWjahc3VNp3JGKrwX) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [San Juan](https://open.spotify.com/album/5cDGufFIZdvK1n8piyum2Z) | 2:25 |
 | 296 | [Búsqueda De Sentido](https://open.spotify.com/track/2XRK0vzGIyxQK6MsVuJHji) | [Francisco Chavez](https://open.spotify.com/artist/0UIFk9rZStMSw1dx7MKBXD) | [Búsqueda De Sentido](https://open.spotify.com/album/55jt44ng8AMCCUmAjLWka8) | 3:06 |
 
-Snapshot ID: `MTcxMzQ4ODQwMCwwMDAwMDAwMDEwOGI2ZThiMzI0NDhmOTdiZDY1ZGVhMzI2YjBjZDhl`
+Snapshot ID: `ZiHCEAAAAAAQi26LMkSPl71l3qMmsM2O`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 
 > The latest music from our Country Heroes\. Cover: Sawyer Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,930 likes - 197 songs - 11 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,905 likes - 197 songs - 11 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 | 42 | [I Need You](https://open.spotify.com/track/2wXsYNHOjPzbjQUWOphOLs) | [The Frontmen](https://open.spotify.com/artist/4Hug0FD34btM73TKK5sM7e) | [Familiar Faces](https://open.spotify.com/album/1IJk3ueX658qXNVN0uLM1p) | 3:31 |
 | 43 | [9 to 5 \(FROM THE STILL WORKING 9 TO 5 DOCUMENTARY\)](https://open.spotify.com/track/32bfqEO7JcH2x0XFxVVVf0) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 to 5 \(FROM THE STILL WORKING 9 TO 5 DOCUMENTARY\)](https://open.spotify.com/album/6PH9FkIY5DVDh0JUktLlLR) | 3:36 |
 | 44 | [If You See Him, If You See Her \- Acoustic Version](https://open.spotify.com/track/2BwIm4JJJOv4lbfskscKW1) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [If You See Him, If You See Her \(Acoustic Version\)](https://open.spotify.com/album/0Q2NGzdPFp05YAaLRqudLk) | 3:59 |
-| 45 | [The Dark End of the Street](https://open.spotify.com/track/7GS7o2DO5msZ75RBqHyJs5) | [T\. Graham Brown](https://open.spotify.com/artist/0UMJlMGr85C0C5D7wmB0Ik), [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Dark End of the Street](https://open.spotify.com/album/3mJahLGbS8k0hCi760QQPf) | 2:34 |
+| 45 | [The Dark End of the Street](https://open.spotify.com/track/7GS7o2DO5msZ75RBqHyJs5) | [T\. Graham Brown](https://open.spotify.com/artist/0UMJlMGr85C0C5D7wmB0Ik), [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [The Dark End of the Street](https://open.spotify.com/album/3mJahLGbS8k0hCi760QQPf) | 2:34 |
 | 46 | [After You](https://open.spotify.com/track/3I3CTXCfvH36oammy0DftS) | [Exile](https://open.spotify.com/artist/2enKa9Yqr6PZy3xGlxQEu7) | [A Million Miles Later](https://open.spotify.com/album/12CjCmFF7fXghr4Ggfa44b) | 3:00 |
 | 47 | [I'll Love You Till The Day I Die](https://open.spotify.com/track/29OpRCARyWm4wKTnxwJwYm) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [I'll Love You Till The Day I Die](https://open.spotify.com/album/3gYh2TfRI8P8xSrQyQPGZl) | 4:11 |
 | 48 | [All Come Together \(feat\. Chuck Jones, Keb' Mo', Heidi Newfield, John Oates, Mike Farris, Casey James, Collin Raye & John Cowan\)](https://open.spotify.com/track/785ZRMI26hpfunah6gxfvE) | [John Berry & Friends](https://open.spotify.com/artist/1DrMQf4lo9obpbAUAlZ3NL), [Chuck Jones](https://open.spotify.com/artist/6zVTYdMy6fXfrlyX3d04EU), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F), [Heidi Newfield](https://open.spotify.com/artist/6Jb5H8o9T7c4C13vLFpyPY), [John Oates](https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr), [Mike Farris](https://open.spotify.com/artist/2lGlFTygMMk37JsYm8a46o), [Casey James](https://open.spotify.com/artist/0AAUWYwZqrnuwkjMCO5OX7), [Collin Raye](https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI), [John Cowan](https://open.spotify.com/artist/6aOabUkAto0WT1xZ5qLBZY) | [All Come Together \(feat\. Chuck Jones, Keb' Mo', Heidi Newfield, John Oates, Mike Farris, Casey James, Collin Raye & John Cowan\)](https://open.spotify.com/album/1zx18BN2HSr1kNC6YXZT33) | 3:46 |
@@ -206,4 +206,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 | 196 | [Railroad](https://open.spotify.com/track/3iQeaIWw809ryg4NOL3ySM) | [Skip Ewing](https://open.spotify.com/artist/2g1pnfZUsZAxpz9QGaBSq3) | [Railroad](https://open.spotify.com/album/4Cs0lNlp7rzH5l763weHC1) | 4:02 |
 | 197 | [Born Ready](https://open.spotify.com/track/532uB7VNAJi3V6uRcLIKPm) | [Mark Collie](https://open.spotify.com/artist/6kMOabD0AtCGJB632jMilU) | [Born Ready](https://open.spotify.com/album/40PSbH50uUot5MIjIvqm9G) | 2:55 |
 
-Snapshot ID: `MTcxNDEwNDA2MCwwMDAwMDAwMGQ0ZmUyMzFhZDdmYzkzMDRkZWI3YTY1MmEzMGY4Zjdm`
+Snapshot ID: `Zism/AAAAADU/iMa1/yTBN63plKjD49/`

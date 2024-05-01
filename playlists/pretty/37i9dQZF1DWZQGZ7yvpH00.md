@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Natanael Cano, Oscar Maydon en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 839,790 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 840,445 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 49 | [Amor Perdido](https://open.spotify.com/track/0uMODzvm9Pdz9YVrVhWIBe) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Amor Perdido](https://open.spotify.com/album/0wkmxDVy1AGPQojmbx8Qb1) | 3:20 |
 | 50 | [Espero](https://open.spotify.com/track/3jm1di95pWAEkdNdb2BUJA) | [Designo Celestial](https://open.spotify.com/artist/7ApLnBw5BDaqVN1gYM9pAb) | [Espero](https://open.spotify.com/album/0NsFKfShP1vNxOf6MzSGjf) | 3:15 |
 
-Snapshot ID: `MTcxNDExMTIwMCwwMDAwMDAwMDYzMjY5MWI3YmY3NzdkNDlhZTIyYzg0NmMxYzI1YzUz`
+Snapshot ID: `ZitC4AAAAABjJpG3v3d9Sa4iyEbBwlxT`

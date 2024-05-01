@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: SOOBIN
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,993 likes - 51 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,930 likes - 51 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 50 | [nhạt\-fine](https://open.spotify.com/track/10AZ3ChoIGMxvcCoFsoFjf) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [nhạt\-fine](https://open.spotify.com/album/7KmkBn6FI2QOe471OvwIPR) | 3:31 |
 | 51 | [Từng Quen](https://open.spotify.com/track/3un8UkiPHJjlsrTHQnisXH) | [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu), [itsnk](https://open.spotify.com/artist/0hy8mfXxfD8kQ6MRQkDVrn) | [Từng Quen](https://open.spotify.com/album/2M0vYJZddXn6qRpeVtGvDZ) | 2:54 |
 
-Snapshot ID: `MTcxNDM1OTExNywwMDAwMDAwMGE1OTY0MzI1ZmJlNzIxN2I5ODhjNDJlYjNmZjA1NWI2`
+Snapshot ID: `Zi8LTQAAAACllkMl++che5iMQus/8FW2`

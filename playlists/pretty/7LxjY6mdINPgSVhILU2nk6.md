@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/7LxjY6mdINPgSVhILU2nk6.md) - [plain]
 | 21 | [Biblical](https://open.spotify.com/track/0Kdbul32i25c5LDGln50yD) | [Bombus](https://open.spotify.com/artist/3PasuDKJ3UrBlLly6Lih4V) | [Bombus](https://open.spotify.com/album/1fwoF1Oh0RVqQWZWWxHztZ) | 5:21 |
 | 22 | [The Veil of Isis](https://open.spotify.com/track/01fbg0DMFY4N0wWNOjjTyC) | [The Sword](https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY) | [Apocryphon](https://open.spotify.com/album/7bvcJbD609wX8vjbtOHv2m) | 5:32 |
 
-Snapshot ID: `NSwxNzMyOGY4Njk0ZTU0NmM4ZDZjYzViNjljYzQ0OTQzOWEzYTU2MGJk`
+Snapshot ID: `AAAABRcyj4aU5UbI1sxbacxElDmjpWC9`

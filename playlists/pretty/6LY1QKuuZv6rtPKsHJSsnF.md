@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/6LY1QKuuZv6rtPKsHJSsnF.md) - [plain]
 | 45 | [Minerva](https://open.spotify.com/track/1gzWd0ILFaCoHUfQSkCIvl) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Deftones](https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP) | 4:17 |
 | 46 | [Dear Lover](https://open.spotify.com/track/7ueNGMnYBXIuuglH1A1wND) | [Social Distortion](https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI) | [White Light White Heat White Trash](https://open.spotify.com/album/7GPvyPgZ8Nc4yqP4uPo3Rv) | 4:43 |
 
-Snapshot ID: `NiwwOWY2MTRlMzllYTkwMDFjYzliZjJiNDY2YjZlNTVlZGFiMjkwMGY2`
+Snapshot ID: `AAAABgn2FOOeqQAcyb8rRmtuVe2rKQD2`

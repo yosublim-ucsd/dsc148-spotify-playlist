@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/4GvZwYIK2wufyM07xfjefo.md) - [plain]
 | 39 | [色彩の街 \(feat\. 初音ミク\)](https://open.spotify.com/track/1i2KRYbtrWiblUuBOUP4kR) | [ダウ茶。](https://open.spotify.com/artist/1hW7HmNAAYE9SLUBUjoLS1) | [色彩の街](https://open.spotify.com/album/28jKKfvYvgX8ejS6AtLQPy) | 5:30 |
 | 40 | [このまま](https://open.spotify.com/track/55SZYGNQCwlaIFWf5NRUYx) | [MinaruP](https://open.spotify.com/artist/2mOMxxfTgo6WNUP5bJVdqI) | [このまま](https://open.spotify.com/album/0nTc1LcVKmzeUTqIddy5Hw) | 4:18 |
 
-Snapshot ID: `NzQ4LGM1OGQ4Y2MzZDA1NTM3Mjg4N2RmMDAxMzE3NzA3OTBkN2U3OThjOWU=`
+Snapshot ID: `AAAC7MWNjMPQVTcoh98AExdweQ1+eYye`

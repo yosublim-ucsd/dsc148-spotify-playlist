@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/2cIkPMesqdx5VV6IAvX9bE.md) - [plain]
 | 49 | [Swayin' To The Music \(Slow Dancin'\)](https://open.spotify.com/track/6DPu98NjYnuvG2o0Lb8A7c) | [Johnny Rivers](https://open.spotify.com/artist/3TiISqKS6ESlMQ4WFfZJw2) | [Johnny Rivers Greatest Hits](https://open.spotify.com/album/6FR164kxGAKlxxt7JceLZU) | 4:03 |
 | 50 | [Lonely Boy](https://open.spotify.com/track/4V0uQkCIquydgfUtfSnctU) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d) | [Rhino Hi\-Five: Andrew Gold](https://open.spotify.com/album/6EXW6NvOhICAIUPAUmOv1G) | 4:21 |
 
-Snapshot ID: `Myw1MmY4MDBjMDYyYWVkZmViZTY4YjY2YzE3ZTUyMDI5Y2I1OGNmNTYx`
+Snapshot ID: `AAAAA1L4AMBirt/r5otmwX5SApy1jPVh`

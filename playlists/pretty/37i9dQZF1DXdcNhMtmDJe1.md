@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcNhMtmDJe1.md) - [plain]
 
 > Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,149 likes - 54 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,159 likes - 54 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcNhMtmDJe1.md) - [plain]
 | 53 | [Three\-Quarter Blues](https://open.spotify.com/track/7DONzYyUHwty0tVoYDke09) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Simon Tedeschi](https://open.spotify.com/artist/7oB8O1OribJYpFWTfRrbl6) | [Gershwin Take Two](https://open.spotify.com/album/4ojWRGYEBpi6CrLtGNPJhq) | 2:11 |
 | 54 | [3 Preludes for Piano Solo \- Arr\. Jascha Heifetz: 3\. Allegro ben ritmato e deciso](https://open.spotify.com/track/1JjUa1JNiRvdW1ak9BHeiP) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Gil Shaham](https://open.spotify.com/artist/6ALhP2ILfgcSmpTefE4C3Q), [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [Gershwin \- Set: Bernstein/Ozawa/Previn/Levine \(2 CDs\)](https://open.spotify.com/album/5ae3bXTR1QMF4aHqhMtCXT) | 1:19 |
 
-Snapshot ID: `MTY4NjkxODc2OCwwMDAwMDAwMDZjMWMwNmYyNjgxMTg0YWNmNzU5ZThmYWU3NGFjNDk4`
+Snapshot ID: `ZIxWcAAAAABsHAbyaBGErPdZ6PrnSsSY`

@@ -1,5 +1,5 @@
 {
-  "2024-04-30": 2210756,
+  "2024-05-01": 2210886,
   "date_first_scraped": "2022-01-17",
   "description": "Take down the tempo but keep the dance party going with the biggest tropical house jams.",
   "name": "Tropical House",
@@ -3179,6 +3179,28 @@
       "duration_ms": 163840,
       "name": "Emorio",
       "url": "https://open.spotify.com/track/14VthBnru6kiREQUYAuNSL"
+    },
+    {
+      "album": {
+        "name": "Endless Summer (Deepend Remix)",
+        "url": "https://open.spotify.com/album/5HGBEiL8s7Kjd4EMxclJ4P"
+      },
+      "artists": [
+        {
+          "name": "The Elovaters",
+          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
+        },
+        {
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184589,
+      "name": "Endless Summer - Deepend Remix",
+      "url": "https://open.spotify.com/track/7JyQN2bRjJnyJdVyB2evUA"
     },
     {
       "album": {
@@ -14931,7 +14953,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 182654,
       "name": "You Are A Traveler",
       "url": "https://open.spotify.com/track/0WYyQGmQy979roTvrVwlTb"

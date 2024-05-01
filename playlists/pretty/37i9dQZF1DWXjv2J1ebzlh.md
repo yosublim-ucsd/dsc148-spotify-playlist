@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,733 likes - 1,192 songs - 3 day 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,760 likes - 1,192 songs - 3 day 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1201,4 +1201,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1191 | [Free My People](https://open.spotify.com/track/4JhLVR6gpyPsrt8hw3GYTq) | [Joni Haastrup](https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu) | [Soul Jazz Records Presents NIGERIA SOUL FEVER \- Afro Funk, Disco And Boogie: West African Disco Mayhem!](https://open.spotify.com/album/3ZRiP7ntKDD2wuiRuyLhfs) | 4:52 |
 | 1192 | [Flor De Piña](https://open.spotify.com/track/0XyyR9QFZYpMLh0fzZtBHw) | [La Marimba Del Estado De Oaxaca](https://open.spotify.com/artist/0Ck35azLqcQ0Bvbu9rNcOr) | [Mañanitas Oaxaqueñas](https://open.spotify.com/album/0Dq0v1awfhTgbp0rBKp8g6) | 2:25 |
 
-Snapshot ID: `MTcxMjg3MjgwMCwwMDAwMDAwMGJhYzQ3OWYzYWFiMWY4NzM4NTBiNGM2OGFjZTA0ZDRl`
+Snapshot ID: `ZhhdYAAAAAC6xHnzqrH4c4ULTGis4E1O`

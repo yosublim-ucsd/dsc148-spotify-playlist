@@ -24,4 +24,4 @@ pretty - [cumulative](/playlists/cumulative/3jPJ5g3oEckEYHmI9Tdh5L.md) - [plain]
 | 14 | [Wasteland, Baby!](https://open.spotify.com/track/1HYnjKqSSHh1tdl2Hi57zH) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 4:26 |
 | 15 | [Pale Green Things](https://open.spotify.com/track/3aks64Em7ip6kjymwmhHfz) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Sunset Tree](https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ) | 4:19 |
 
-Snapshot ID: `MTYsZTA1NTE0YzAxMTM5MWViZTI2OTBjYmFiNzkzZTYyYjdiNDBhYThkNQ==`
+Snapshot ID: `AAAAEOBVFMAROR6+JpDLq3k+Yre0CqjV`

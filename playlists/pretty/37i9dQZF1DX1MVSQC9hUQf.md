@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MVSQC9hUQf.md) - [plain]
 
 > plant growth through extreme noise\. guided by horticulturist Chris Beardshaw\. Cover: <a href="https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73?si=e4de5425446846f3">GEL</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 317 likes - 50 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 486 likes - 50 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MVSQC9hUQf.md) - [plain]
 | 49 | [Empty Nesting Doll](https://open.spotify.com/track/4F4htaoglwllmVrqa3w74K) | [Cosmic Joke](https://open.spotify.com/artist/3w7uVOPfs4czpqSWFgCPDX) | [Cosmic Joke](https://open.spotify.com/album/5njj0uHIGlVbqtBu8MTWSf) | 1:48 |
 | 50 | [Alone At The Bottom](https://open.spotify.com/track/6qk9DuKXPzDnXZcMw2Gt6B) | [Initiate](https://open.spotify.com/artist/4chi4s0FYncuGQul8cezau) | [Cerebral Circus](https://open.spotify.com/album/1UIGmyBWoI4jeDdO4hHSss) | 2:22 |
 
-Snapshot ID: `MTcxNDE0NTg4NSwwMDAwMDAwMDkwZWFmNWNjYjRhNjdiY2M0Njc4NjNiNWRlYzBlYjIx`
+Snapshot ID: `ZivKXQAAAACQ6vXMtKZ7zEZ4Y7XewOsh`

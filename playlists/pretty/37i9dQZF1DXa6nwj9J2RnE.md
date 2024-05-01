@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 
 > edgy muziek met een rand uit eigen land\. cover: Sammie Sedano
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,051 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,049 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 | 59 | [Longing](https://open.spotify.com/track/2U7WtnPe5yrL8Om5Ml6P3v) | [Wynnm](https://open.spotify.com/artist/5OKbhPqXR4Xve2CSXW4T5K) | [Longing](https://open.spotify.com/album/5sqMOHMgo59ybNc2XXuoM8) | 3:14 |
 | 60 | [So Good It Hurts](https://open.spotify.com/track/0I8D8hPhzneDCOsJ3CxbDj) | [Ciao Lucifer](https://open.spotify.com/artist/7HJjZdoBrnDMtKKrWpjJII) | [Good News](https://open.spotify.com/album/2eXolLZeoLMdtrRgtecIqE) | 3:20 |
 
-Snapshot ID: `MTcxNDExNzEzNSwwMDAwMDAwMGViMDQ4NzAyNjAzNDZmMmE4MWU3NmI0MWIzYmMxZmIy`
+Snapshot ID: `ZitaDwAAAADrBIcCYDRvKoHna0GzvB+y`

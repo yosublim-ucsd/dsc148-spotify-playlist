@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 
 > get into the groove
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,279 likes - 99 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,434 likes - 99 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 | 98 | [Natural Child](https://open.spotify.com/track/6LammjSAxH6zEGfvaE8wHp) | [Jimpster](https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85), [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As) | [Natural Child](https://open.spotify.com/album/4OkRBDmz2Gp9u7bmsVF5jB) | 6:32 |
 | 99 | [Ghosts](https://open.spotify.com/track/5Xzn5zL1v2Hv3ReLKMt0OS) | [Black Light Smoke](https://open.spotify.com/artist/6tBzfm9cIQVj3JFJnF2QTm), [Léah Lazonick](https://open.spotify.com/artist/2K1ed5T8Jf1MgMaqEai1kc) | [Ghosts](https://open.spotify.com/album/0hqMOsNXDvvkgaYNn8k3wi) | 6:16 |
 
-Snapshot ID: `MTcxNDA4MjQ2MCwwMDAwMDAwMDEzODZmODQwNzRkMjM5ZDE2NTU2OTRlMmEwOWVlMTli`
+Snapshot ID: `ZirSnAAAAAAThvhAdNI50WVWlOKgnuGb`

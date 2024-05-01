@@ -1,12 +1,12 @@
 {
-  "description": "This Is Panteon Rococo. Sus mejores \u00e9xitos, todos en una playlist.",
-  "num_followers": 212930,
+  "description": "This Is Panteon Rococo. Los temas esenciales, todos en una lista.",
+  "num_followers": 212960,
   "original_name": "This Is Panteon Rococo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDI2MjQwMCwwMDAwMDAwMDdhNzczNmM2YjIwNTA4Y2RmYzRjNDdjZTc3MDgxNGY1",
+  "snapshot_id": "Zi7jAAAAAADiSBRtG+0ok/OmEz6dowdQ",
   "tracks": [
     {
       "added_at": null,
@@ -263,22 +263,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piel A Piel",
-        "url": "https://open.spotify.com/album/0wY4TCOxdgOSvWimtb3iRA"
+        "name": "Ofrenda",
+        "url": "https://open.spotify.com/album/3lt8rmUiZvG6Lnt1Ejfd97"
       },
       "artists": [
-        {
-          "name": "Aaron Y Su Grupo Ilusion",
-          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
-        },
         {
           "name": "Panteon Rococo",
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 286733,
-      "name": "No Voy A Llorar",
-      "url": "https://open.spotify.com/track/3RDP3KKRKq8gJGx5J4G57u"
+      "duration_ms": 173253,
+      "name": "Veinticinco Rosas",
+      "url": "https://open.spotify.com/track/7wEKVEEo4Vmn1qNvL7AZNf"
     },
     {
       "added_at": null,
@@ -299,18 +295,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ofrenda",
-        "url": "https://open.spotify.com/album/3lt8rmUiZvG6Lnt1Ejfd97"
+        "name": "Piel A Piel",
+        "url": "https://open.spotify.com/album/0wY4TCOxdgOSvWimtb3iRA"
       },
       "artists": [
+        {
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
+        },
         {
           "name": "Panteon Rococo",
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 173253,
-      "name": "Veinticinco Rosas",
-      "url": "https://open.spotify.com/track/7wEKVEEo4Vmn1qNvL7AZNf"
+      "duration_ms": 286733,
+      "name": "No Voy A Llorar",
+      "url": "https://open.spotify.com/track/3RDP3KKRKq8gJGx5J4G57u"
     },
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ofrenda",
+        "url": "https://open.spotify.com/album/3lt8rmUiZvG6Lnt1Ejfd97"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 179160,
+      "name": "El Lado Oscuro",
+      "url": "https://open.spotify.com/track/4LHCmlYZJ9LGQa62C2kolH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A2\u00cd 5Uena!, Vol 2",
         "url": "https://open.spotify.com/album/2Fbw8FPgMnce7PN46CAjNW"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 241171,
       "name": "Amargo Adios",
       "url": "https://open.spotify.com/track/0UvMeaPWStJGuXMe89bAoJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ofrenda",
-        "url": "https://open.spotify.com/album/3lt8rmUiZvG6Lnt1Ejfd97"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 179160,
-      "name": "El Lado Oscuro",
-      "url": "https://open.spotify.com/track/4LHCmlYZJ9LGQa62C2kolH"
     },
     {
       "added_at": null,

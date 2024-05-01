@@ -16,4 +16,4 @@ pretty - [cumulative](/playlists/cumulative/5hINCaYWvVwzzLmhh4y11x.md) - [plain]
 | 6 | [Go Slow](https://open.spotify.com/track/63ho2fVBlbyAC3MhLXyyph) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Forever EP](https://open.spotify.com/album/5YixEsuB5itX9HSFenTQla) | 4:15 |
 | 7 | [Hold Me](https://open.spotify.com/track/4e6bjKVgk1Jo0aV7gpnYiN) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Just Tell Me That You Want Me: A Tribute To Fleetwood Mac](https://open.spotify.com/album/0zNgnf1qvFUp8NFEi7J2ZH) | 3:40 |
 
-Snapshot ID: `NixkODdhMzFmYTM4NDg3MWFiODAyZjQ4MjYyZGFhZjY5OTJiYTI4MzM3`
+Snapshot ID: `AAAABth6Mfo4SHGrgC9IJi2q9pkrooM3`

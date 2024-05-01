@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/4NAi06Izmj4CPqmMuY1RsE.md) - [plain]
 | 19 | [All Summer Long](https://open.spotify.com/track/6DsxePZXexaZgZKEdgXOh8) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [All Summer Long](https://open.spotify.com/album/3PWfmOyPSSgz5kvhWVYaDl) | 4:56 |
 | 20 | [Life Is A Highway](https://open.spotify.com/track/4rlWtsOCfxD8u1aCbbaHHp) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Rascal Flatts](https://open.spotify.com/album/515OQ3WRGIqpqa0bRiN83e) | 4:36 |
 
-Snapshot ID: `NCwyYWFjZGM4MGQ4YmRmNGIwZTVkODM4NjgxNWNkMzhhMWIwM2I5YmM3`
+Snapshot ID: `AAAABCqs3IDYvfSw5dg4aBXNOKGwO5vH`

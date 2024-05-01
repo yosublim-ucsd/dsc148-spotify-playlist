@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5LtwydYUv9Um4D2toY3Wzh.md) - [plain]
 
 > ...dancing in the mirror.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,857 likes - 41 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,856 likes - 41 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/5LtwydYUv9Um4D2toY3Wzh.md) - [plain]
 | 40 | [Come & Get It](https://open.spotify.com/track/6LoQHIo74tOzQ8EsLEkhgF) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Stars Dance \(Bonus Track Version\)](https://open.spotify.com/album/3cGKAHAUhAaTTezK4GbBhQ) | 3:51 |
 | 41 | [Only](https://open.spotify.com/track/4MRT0dDbhqFKl67WzhUbSw) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [The Pinkprint \(Deluxe\)](https://open.spotify.com/album/5ooCuPIk58IwSo6DRr1JCu) | 5:12 |
 
-Snapshot ID: `ODAsNmNjMDYwNDFiYzNmNTk5NmFiN2Y0NTQ3OGQyMDNiZDI3Y2FmOWEwNg==`
+Snapshot ID: `AAAAUGzAYEG8P1mWq39FR40gO9J8r5oG`

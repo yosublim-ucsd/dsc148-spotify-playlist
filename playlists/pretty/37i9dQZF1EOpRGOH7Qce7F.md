@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOpRGOH7Qce7F.md) - [plain]
 | 20 | [Transmission](https://open.spotify.com/track/1Bh8jtOXIBIRUUghbrwUTX) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [True Colors](https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT) | 4:02 |
 | 21 | ["Stay" by Zedd & Alessia Cara \- Season 2, Episode 12](https://open.spotify.com/episode/3Ww8k5LSCDrL58ZkztHnoO) | [Song Appeal](https://open.spotify.com/show/5t8guRcPZceBH1klbj170z) | [Song Appeal](https://open.spotify.com/album/5t8guRcPZceBH1klbj170z) | 15:08 |
 
-Snapshot ID: `MjY3NzQ5MTQsMDAwMDAwMDAyYTQ4YjQ4ZGRmYTZlNWE3MjMyMzYxN2FhYTdkYjAyNQ==`
+Snapshot ID: `AZiNggAAAAAqSLSN36blpyMjYXqqfbAl`

@@ -1,12 +1,12 @@
 {
   "description": "21st Century nomadic expressions interwoven into a very unexpected patchwork.",
-  "num_followers": 179010,
+  "num_followers": 179075,
   "original_name": "Folk Fabrique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzgzMzY4OSwwMDAwMDAwMDUzMGQxOGViMzZjZTJlNGVmYmFjNWJhN2U2MTA1NWQz",
+  "snapshot_id": "ZjBzbwAAAACe53le0v5CJ7iPYukA/10L",
   "tracks": [
     {
       "added_at": "2022-09-16 04:50:50",
@@ -129,22 +129,6 @@
       "url": "https://open.spotify.com/track/5S82EFqseyysMtgTrMrW9K"
     },
     {
-      "added_at": "2024-01-18 21:34:41",
-      "album": {
-        "name": "Ki moun ou ye",
-        "url": "https://open.spotify.com/album/7cJDsHyqQS6k7vSubd1reE"
-      },
-      "artists": [
-        {
-          "name": "Nathalie Joachim",
-          "url": "https://open.spotify.com/artist/4B1IFQsjyjR1MnHaknNC7i"
-        }
-      ],
-      "duration_ms": 320409,
-      "name": "Ki moun ou ye",
-      "url": "https://open.spotify.com/track/5j0A24ckSZtirzrxxVjGdy"
-    },
-    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "Con Todo El Mundo",
@@ -159,6 +143,22 @@
       "duration_ms": 190999,
       "name": "Maria Tambi\u00e9n",
       "url": "https://open.spotify.com/track/2EFuKYBalAcplMyUVL3BDH"
+    },
+    {
+      "added_at": "2024-04-30 04:28:31",
+      "album": {
+        "name": "La Bomba",
+        "url": "https://open.spotify.com/album/2KtK583Hq65HDEkgE0c5qn"
+      },
+      "artists": [
+        {
+          "name": "Los Bitchos",
+          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
+        }
+      ],
+      "duration_ms": 134720,
+      "name": "La Bomba",
+      "url": "https://open.spotify.com/track/4DVogoYzvFrFOtUMQIamJf"
     },
     {
       "added_at": "2024-02-02 05:27:19",
@@ -609,22 +609,6 @@
       "url": "https://open.spotify.com/track/5a8xzrQxVNRrQbgkzYCkTb"
     },
     {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "Stone by Stone",
-        "url": "https://open.spotify.com/album/6eKOlWJno03vPizhhyY1VO"
-      },
-      "artists": [
-        {
-          "name": "Ikebe Shakedown",
-          "url": "https://open.spotify.com/artist/5ABBZoXY5r0UL1txACjinb"
-        }
-      ],
-      "duration_ms": 230986,
-      "name": "Rio Grande",
-      "url": "https://open.spotify.com/track/174aZteQew30wcq8sPzlW6"
-    },
-    {
       "added_at": "2022-07-01 02:44:20",
       "album": {
         "name": "Sacatela",
@@ -639,6 +623,22 @@
       "duration_ms": 172026,
       "name": "Sacatela",
       "url": "https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Stone by Stone",
+        "url": "https://open.spotify.com/album/6eKOlWJno03vPizhhyY1VO"
+      },
+      "artists": [
+        {
+          "name": "Ikebe Shakedown",
+          "url": "https://open.spotify.com/artist/5ABBZoXY5r0UL1txACjinb"
+        }
+      ],
+      "duration_ms": 230986,
+      "name": "Rio Grande",
+      "url": "https://open.spotify.com/track/174aZteQew30wcq8sPzlW6"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1341,6 +1341,22 @@
       "url": "https://open.spotify.com/track/3A8hPbFFV3YFolz2vSKY83"
     },
     {
+      "added_at": "2023-06-07 04:01:30",
+      "album": {
+        "name": "Taivshral",
+        "url": "https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq"
+      },
+      "artists": [
+        {
+          "name": "Enji",
+          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
+        }
+      ],
+      "duration_ms": 187166,
+      "name": "Taivshral",
+      "url": "https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO"
+    },
+    {
       "added_at": "2022-02-12 05:45:19",
       "album": {
         "name": "Batuco",
@@ -1359,22 +1375,6 @@
       "duration_ms": 192893,
       "name": "Los Chucos Suaves (featuring Macha)",
       "url": "https://open.spotify.com/track/71JT61x0b1jpIdjMG2B7u7"
-    },
-    {
-      "added_at": "2023-06-07 04:01:30",
-      "album": {
-        "name": "Taivshral",
-        "url": "https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq"
-      },
-      "artists": [
-        {
-          "name": "Enji",
-          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
-        }
-      ],
-      "duration_ms": 187166,
-      "name": "Taivshral",
-      "url": "https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO"
     },
     {
       "added_at": "2023-07-24 17:57:15",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Remain in Light",
-        "url": "https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 348813,
-      "name": "Once in a Lifetime",
-      "url": "https://open.spotify.com/track/5nXXJeSf9MeDmUmEoafgOH"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
         "name": "Global Control / Invisible Invasion",
         "url": "https://open.spotify.com/album/1teOHeiThN9wbZLcYKfqjI"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 212946,
       "name": "Geeta duniki",
       "url": "https://open.spotify.com/track/6Y4txHIZfSfFfON6SG8484"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Remain in Light",
+        "url": "https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 348813,
+      "name": "Once in a Lifetime",
+      "url": "https://open.spotify.com/track/5nXXJeSf9MeDmUmEoafgOH"
     },
     {
       "added_at": "2022-08-31 05:20:13",
@@ -1513,20 +1513,20 @@
       "url": "https://open.spotify.com/track/2yjJsfgodykCBLRGskqb5m"
     },
     {
-      "added_at": "2022-04-01 06:00:00",
+      "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Solpor",
-        "url": "https://open.spotify.com/album/2q1DwJpZOWhNW0NFYwS8rs"
+        "name": "Wakangenei",
+        "url": "https://open.spotify.com/album/4bLNEzOnUc5MHalt1RyWO2"
       },
       "artists": [
         {
-          "name": "Baiuca",
-          "url": "https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS"
+          "name": "Ankobo + Kaboo",
+          "url": "https://open.spotify.com/artist/3YbBjagRnNl4slaLBbhiO6"
         }
       ],
-      "duration_ms": 319169,
-      "name": "Mu\u00ed\u00f1o",
-      "url": "https://open.spotify.com/track/6zAuPi2fZsUYgXMIozkowv"
+      "duration_ms": 232800,
+      "name": "Wakangenei",
+      "url": "https://open.spotify.com/track/5p1U25xU1JZNFcZVHlZVwH"
     },
     {
       "added_at": "2023-07-24 18:01:42",
@@ -1545,20 +1545,36 @@
       "url": "https://open.spotify.com/track/7gmqj88AyDwnbxHzeoPQ2F"
     },
     {
-      "added_at": "2021-10-20 20:05:06",
+      "added_at": "2022-04-01 06:00:00",
       "album": {
-        "name": "Wakangenei",
-        "url": "https://open.spotify.com/album/4bLNEzOnUc5MHalt1RyWO2"
+        "name": "Solpor",
+        "url": "https://open.spotify.com/album/2q1DwJpZOWhNW0NFYwS8rs"
       },
       "artists": [
         {
-          "name": "Ankobo + Kaboo",
-          "url": "https://open.spotify.com/artist/3YbBjagRnNl4slaLBbhiO6"
+          "name": "Baiuca",
+          "url": "https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS"
         }
       ],
-      "duration_ms": 232800,
-      "name": "Wakangenei",
-      "url": "https://open.spotify.com/track/5p1U25xU1JZNFcZVHlZVwH"
+      "duration_ms": 319169,
+      "name": "Mu\u00ed\u00f1o",
+      "url": "https://open.spotify.com/track/6zAuPi2fZsUYgXMIozkowv"
+    },
+    {
+      "added_at": "2023-09-25 02:44:41",
+      "album": {
+        "name": "Ting Mong",
+        "url": "https://open.spotify.com/album/2km8A0QjXH4vXxYek57n7E"
+      },
+      "artists": [
+        {
+          "name": "Dengue Fever",
+          "url": "https://open.spotify.com/artist/3wFHDAXLsjvclEtifEV7F5"
+        }
+      ],
+      "duration_ms": 262589,
+      "name": "Touch Me Not",
+      "url": "https://open.spotify.com/track/1hY1xVHfG9wHrkF26mIYoT"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1577,20 +1593,20 @@
       "url": "https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad"
     },
     {
-      "added_at": "2023-09-25 02:44:41",
+      "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Ting Mong",
-        "url": "https://open.spotify.com/album/2km8A0QjXH4vXxYek57n7E"
+        "name": "Ordunun Dereleri",
+        "url": "https://open.spotify.com/album/4mfZiG69wQPi8f4iJdv2xm"
       },
       "artists": [
         {
-          "name": "Dengue Fever",
-          "url": "https://open.spotify.com/artist/3wFHDAXLsjvclEtifEV7F5"
+          "name": "Altin G\u00fcn",
+          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
         }
       ],
-      "duration_ms": 262589,
-      "name": "Touch Me Not",
-      "url": "https://open.spotify.com/track/1hY1xVHfG9wHrkF26mIYoT"
+      "duration_ms": 285241,
+      "name": "Ordunun Dereleri",
+      "url": "https://open.spotify.com/track/64Pztp6tg1ZBV9zF09mdFr"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1635,22 +1651,6 @@
       "duration_ms": 244973,
       "name": "Doppelganger",
       "url": "https://open.spotify.com/track/7hWdNwrLMi89VNngqPxsm8"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "Ordunun Dereleri",
-        "url": "https://open.spotify.com/album/4mfZiG69wQPi8f4iJdv2xm"
-      },
-      "artists": [
-        {
-          "name": "Altin G\u00fcn",
-          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
-        }
-      ],
-      "duration_ms": 285241,
-      "name": "Ordunun Dereleri",
-      "url": "https://open.spotify.com/track/64Pztp6tg1ZBV9zF09mdFr"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1711,30 +1711,18 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Sierra Madre (Remix)",
-        "url": "https://open.spotify.com/album/6ZiLWGGHlbwU6Z2llnJRns"
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/27SOPYyLOq2RWnzPx6pW4d"
       },
       "artists": [
         {
-          "name": "Bial Hclap",
-          "url": "https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1"
-        },
-        {
-          "name": "H\u00e9ctor Guerra",
-          "url": "https://open.spotify.com/artist/4lfPNH1M6M7uNbHlhQdvZz"
-        },
-        {
-          "name": "Danger",
-          "url": "https://open.spotify.com/artist/23TYM4mYLQjyJLr4x89MjH"
-        },
-        {
-          "name": "Noe Gonzalez Molina",
-          "url": "https://open.spotify.com/artist/7Fwc3AwZokLaMKG6PBldYg"
+          "name": "XIXA",
+          "url": "https://open.spotify.com/artist/00TFWY9PfTDEgsptXLrl1e"
         }
       ],
-      "duration_ms": 305866,
-      "name": "Sierra Madre (Remix)",
-      "url": "https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6"
+      "duration_ms": 206430,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/52Ntzc7mUEEH5ilCz7MYpF"
     },
     {
       "added_at": "2022-11-17 21:26:17",

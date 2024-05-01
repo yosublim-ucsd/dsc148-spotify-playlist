@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4hrw8K7Pxm.md) - [plain]
 
 > Let it go and belt it out to these classic ballads – covered\. Cover: <a href="spotify:artist:3DIk8KcmVKTr4uGw3AuCtJ">Rose Cousins</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,410 likes - 54 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,414 likes - 54 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4hrw8K7Pxm.md) - [plain]
 | 53 | [Let It Go](https://open.spotify.com/track/71pa4bKxO1QHetRxhGo86P) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Let It Go](https://open.spotify.com/album/1Qz3RQIIaZFs53H51f0oMD) | 4:04 |
 | 54 | [True Colors](https://open.spotify.com/track/54EtQECBgqzbTWJmn3vFhJ) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [True Colors](https://open.spotify.com/album/3dnHJUSShwDUd0GLnn2zQO) | 2:20 |
 
-Snapshot ID: `MTY4NjkxODA3MiwwMDAwMDAwMDkzZGNhNzc2MjVlZGU0YmZjOTc5ODQ4NDg0NzlhNzE1`
+Snapshot ID: `ZIxTuAAAAACT3Kd2Je3kv8l5hISEeacV`

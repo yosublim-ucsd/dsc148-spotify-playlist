@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 68905,
+  "num_followers": 68908,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcwOTg1MjQwMCwwMDAwMDAwMGFlZGRlZDA2ODQ4OTUwNTg5ODg3NGY3ZDNjNTE1ZDAx",
+  "snapshot_id": "ZepG8AAAAACu3e0GhIlQWJiHT308UV0B",
   "tracks": [
     {
       "added_at": "2024-03-07 23:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Kommunikation",
-        "url": "https://open.spotify.com/album/6BQRiqwjB5mCHw9KRPi8hV"
-      },
-      "artists": [
-        {
-          "name": "WillMan",
-          "url": "https://open.spotify.com/artist/6lBmkgJlLqV4FXbb2JFMXu"
-        }
-      ],
-      "duration_ms": 161098,
-      "name": "Kommunikation",
-      "url": "https://open.spotify.com/track/1hvDqEicCytaKVoxyuw8XH"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
         "name": "H\u00e5ll i dig",
         "url": "https://open.spotify.com/album/17xGFARAsqJOvJrETeHtiM"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 198500,
       "name": "H\u00e5ll i dig",
       "url": "https://open.spotify.com/track/2MrxF1kIwTtWFzpGYm2aYd"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "Kommunikation",
+        "url": "https://open.spotify.com/album/6BQRiqwjB5mCHw9KRPi8hV"
+      },
+      "artists": [
+        {
+          "name": "WillMan",
+          "url": "https://open.spotify.com/artist/6lBmkgJlLqV4FXbb2JFMXu"
+        }
+      ],
+      "duration_ms": 161098,
+      "name": "Kommunikation",
+      "url": "https://open.spotify.com/track/1hvDqEicCytaKVoxyuw8XH"
     },
     {
       "added_at": "2024-03-07 23:00:00",

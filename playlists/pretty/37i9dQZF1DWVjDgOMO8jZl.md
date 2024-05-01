@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 
 > Scopri i 6 artisti emergenti su cui scommettiamo quest'anno: Coca Puma, okgiorgio, Tony Boy, Sally Cruz, centomilacarie, STE!
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,561 likes - 18 songs - 49 min 53 sec
+[Spotify](https://open.spotify.com/user/spotify) - 23,603 likes - 18 songs - 49 min 53 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,4 +27,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 | 17 | [Non ci penso](https://open.spotify.com/track/7IYqWbceazrqnNhLaIt9Ig) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Panorama Olivia](https://open.spotify.com/album/2hvDI1bWYpIxgMH9oFWl8t) | 2:40 |
 | 18 | [T'aggio vuluto bene](https://open.spotify.com/track/62GSCLUoW8SWXh9v3xLaiZ) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [endly](https://open.spotify.com/artist/1cqb0IqRUO8HCpKFdMsdvI) | [T'aggio vuluto bene](https://open.spotify.com/album/0JFgZQDWr2NSXQ5vlU7vpe) | 2:36 |
 
-Snapshot ID: `MTcxMzg2NjQ2MCwwMDAwMDAwMGExYmU5NTdmNWUyZWI3NzI3Y2EwNjFhOWFjNWJiYzFh`
+Snapshot ID: `ZieG3AAAAAChvpV/Xi63cnygYamsW7wa`

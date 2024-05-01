@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 
 > Deep Bass \- Melodic Bass \- Dubstep \- 140 \- Downtempo \- Dance Music \- Tribal Trap \- Grime \- Future Bass
 
-[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 7,117 likes - 22 songs - 1 hr 21 min
+[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 7,116 likes - 22 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 | 21 | [Grinding \- Mystic State Remix](https://open.spotify.com/track/1DkjUb6h8jdCwrENYVNsKl) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV), [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4) | [Grinding Ft\. High Tara \(Mystic State Remix\)](https://open.spotify.com/album/4cR5yskx7CPSGRGcz8BvJU) | 4:55 |
 | 22 | [Crestmoon](https://open.spotify.com/track/46laC2xpWtJSIBmFoFcpDm) | [Mungk](https://open.spotify.com/artist/24UUxM6HmNY61FJryfs7fk), [Ego Death](https://open.spotify.com/artist/3ylzaJJItjsKnPkvy87cZp) | [Sanskrit EP](https://open.spotify.com/album/6uGEF0BjZ08mAk7jqHPeGP) | 3:27 |
 
-Snapshot ID: `MjMyNCw3YzM1OTU5ZWJkZmNhYmM1YjhjZDFhZjAxNjlhYTEwYmEwM2ZlYzA2`
+Snapshot ID: `AAAJFHw1lZ69/KvFuM0a8BaaoQugP+wG`

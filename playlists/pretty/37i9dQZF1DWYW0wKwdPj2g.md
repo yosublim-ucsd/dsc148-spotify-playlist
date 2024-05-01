@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Dunsin Oyekan
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,163 likes - 64 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,226 likes - 64 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 | 63 | [Uzo \- Live](https://open.spotify.com/track/3iQ8YBHQDvcYXa8MUFzb6i) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [DOMINUS OMNIUM \(Live\)](https://open.spotify.com/album/3yeICbZK652HJMHgu47FK5) | 5:36 |
 | 64 | [Ntate Kemang \- Live](https://open.spotify.com/track/6PeraA6oM2pDVWXRLbKx8t) | [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p), [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa) | [Songs From Spirit Of Praise \(Live\)](https://open.spotify.com/album/48LYDfZnW8cRlX6kg789yK) | 4:29 |
 
-Snapshot ID: `MTcxNDA4OTY2MCwwMDAwMDAwMDcwMGI1YTRkMGFkMTZjYWNkOWU3ZTQ0NzRkMGQ2M2Qw`
+Snapshot ID: `ZiruvAAAAABwC1pNCtFsrNnn5EdNDWPQ`

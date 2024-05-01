@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/4qstWgP2KMRSiTY3a1fF2R.md) - [plain]
 | 21 | [Face to the Floor](https://open.spotify.com/track/6sREV6MpLHTqcOmBK5mvYF) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Hats Off to the Bull](https://open.spotify.com/album/4rTrbTxqjHtjle04l4blOV) | 3:38 |
 | 22 | [Becoming the Bull](https://open.spotify.com/track/3alR818PhuUHGV3FftmjfW) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Lead Sails Paper Anchor](https://open.spotify.com/album/4zODET967NN009YRlHxkq1) | 3:40 |
 
-Snapshot ID: `ODMsNDkzNzI2ODdlOGNhZTc0MzBlZjk3NjI1ZWMzNzdmNDEyZGE1Y2JmOQ==`
+Snapshot ID: `AAAAU0k3JofoyudDDvl2Jew3f0Etpcv5`

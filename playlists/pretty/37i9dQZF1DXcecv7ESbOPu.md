@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,823 likes - 126 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,828 likes - 126 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 125 | [New London boy](https://open.spotify.com/track/4cICGoff2F8uTr8JbcGFwt) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Nonetheless](https://open.spotify.com/album/4kRlRxwCZ0SeRxvjGgVVaj) | 4:52 |
 | 126 | [Ro](https://open.spotify.com/track/0PLlt8c9uwpfsvqVOvUTxO) | [Wormwood](https://open.spotify.com/artist/2CltEmcrT4ypj6WxaBej5c) | [Ro](https://open.spotify.com/album/22KkGoDnvWopgMDAficdbq) | 10:11 |
 
-Snapshot ID: `MTcxNDA4MjQwMCwwMDAwMDAwMGZiM2NjZTBjOTg2MjI4NmRmM2IwZGM4Yjk3Yjc4YTVl`
+Snapshot ID: `ZirSYAAAAAD7PM4MmGIobfOw3IuXt4pe`

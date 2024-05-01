@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Baby Gang in cover + le migliori uscite di questa settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,281 likes - 88 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,268 likes - 88 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 87 | [Sol \- Edit](https://open.spotify.com/track/4OoIVzIx7kKkTendqhkdfk) | [Volantis](https://open.spotify.com/artist/1UlvEcn0g52vZ4PawafthZ), [Matisa](https://open.spotify.com/artist/18YBSDKYgR6so2I94gqUQ9) | [Sol \(Edit\)](https://open.spotify.com/album/2H7Kv1CUVkl9u5WBJwo6ok) | 3:33 |
 | 88 | [Pandora](https://open.spotify.com/track/0tR48664h2XserXZXARvf7) | [Il Mago Del Gelato](https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA) | [Pandora](https://open.spotify.com/album/3gAKkrKCi1tmDozOpVckVL) | 3:31 |
 
-Snapshot ID: `MTcxNDEyMjkyNywwMDAwMDAwMDdkNzExOGQ1MTM1OWYxMjA0MmI2OWIzNThhODRjNTdj`
+Snapshot ID: `ZitwrwAAAAB9cRjVE1nxIEK2mzWKhMV8`

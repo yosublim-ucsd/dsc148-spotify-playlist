@@ -17,4 +17,4 @@ pretty - [cumulative](/playlists/cumulative/3W5zgjrDoHJdWWuChWzmrw.md) - [plain]
 | 7 | [Little Dark Age](https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:59 |
 | 8 | [Bombs Over Brooklyn](https://open.spotify.com/track/2x3H0vsi0k3JFcl60JeNQH) | [Big Data](https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa), [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [1.0](https://open.spotify.com/album/20EPvfI2oySEeAmW0IiEaq) | 3:42 |
 
-Snapshot ID: `MTMsY2RkYWE4YzQxNzFkMTkzMDE3Y2FkNWNjYWI1M2IzZmM0YjhlYzk2Yg==`
+Snapshot ID: `AAAADc3aqMQXHRkwF8rVzKtTs/xLjslr`

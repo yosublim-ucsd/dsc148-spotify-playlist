@@ -1,5 +1,5 @@
 {
-  "2024-04-30": 11244,
+  "2024-05-01": 11244,
   "date_first_scraped": "2022-05-26",
   "description": "This is The Delfonics. The essential tracks, all in one playlist.",
   "name": "This Is The Delfonics",
@@ -673,7 +673,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 299000,
       "name": "I Wanna Be",
       "url": "https://open.spotify.com/track/63OajKDyA9HnZxrv5z6MY4"
@@ -1259,7 +1259,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-29",
+      "date_removed": null,
       "duration_ms": 261456,
       "name": "Seventeen (And In Love)",
       "url": "https://open.spotify.com/track/3VNuR7BTR6293tyn8aSUKW"
@@ -1477,7 +1477,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 260295,
       "name": "Start All Over Again",
       "url": "https://open.spotify.com/track/4LqQ3ag9ltTwpq6XwM5I4u"
@@ -1735,7 +1735,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 182706,
       "name": "To Be Your One",
       "url": "https://open.spotify.com/track/1q9BIP3IJap9bwjk1h8oj0"

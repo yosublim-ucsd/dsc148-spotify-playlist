@@ -28,4 +28,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOJh44pNjcwdt.md) - [plain]
 | 18 | [EP 95 \- Freddie Gibbs \(Rapper/Business Man\) + Coming at Livingston aka Akademiks, Building A Luxury Brand, Kid Cudi's Upcoming Podcast & more](https://open.spotify.com/episode/4nzWFaurAf1DAQnKevBkB0) | [Cold As Ice with Ben Baller & Jimmy The Gent](https://open.spotify.com/show/6aNdkbamyMBZH0WbzhO0Kg) | [Cold As Ice with Ben Baller & Jimmy The Gent](https://open.spotify.com/album/6aNdkbamyMBZH0WbzhO0Kg) | 34:58 |
 | 19 | [WAKE UP](https://open.spotify.com/track/20MuVazoNMv6xjKPnRFOxG) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 3:51 |
 
-Snapshot ID: `MjY3NzQ5MDEsMDAwMDAwMDA1YmM5NzhiZjg1YTVmZDhiZGUyNTFhMmE5Zjk1NWFjZA==`
+Snapshot ID: `AZiNdQAAAABbyXi/haX9i94lGiqflVrN`

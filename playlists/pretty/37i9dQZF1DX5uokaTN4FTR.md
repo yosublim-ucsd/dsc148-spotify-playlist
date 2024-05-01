@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uokaTN4FTR.md) - [plain]
 
 > The UK's biggest dance playlist! Cover: One Republic & David Guetta
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,392,124 likes - 70 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,392,226 likes - 70 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uokaTN4FTR.md) - [plain]
 | 69 | [Saving Up](https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Saving Up](https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF) | 3:27 |
 | 70 | [Same Old Song](https://open.spotify.com/track/1b1U08Eqbx8f0QYyPTzqcU) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi), [HARLEE](https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy) | [Same Old Song](https://open.spotify.com/album/5iqxmTQSlUKzkU5SKRidQa) | 3:18 |
 
-Snapshot ID: `MTcxNDA4OTYwMCwwMDAwMDAwMDFjMjc1NWIxMGQ2OWM0M2ZiNGY2NDg4OGYzZjFjNTYw`
+Snapshot ID: `ZirugAAAAAAcJ1WxDWnEP7T2SIjz8cVg`

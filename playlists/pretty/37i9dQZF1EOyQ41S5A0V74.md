@@ -25,4 +25,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOyQ41S5A0V74.md) - [plain]
 | 15 | [Chp 1: my life is online](https://open.spotify.com/episode/4y3BbDpdJsXTkxXrJKardo) | [21 Days with mxmtoon](https://open.spotify.com/show/7k2gNSLZnopnh6pcvkQACK) | [21 Days with mxmtoon](https://open.spotify.com/album/7k2gNSLZnopnh6pcvkQACK) | 30:59 |
 | 16 | [MXMTOON Interview\- coming out bisexual, ethnicity identity problems](https://open.spotify.com/episode/2Qc4hW61OKHofGm6ssiiu8) | [Sidewalk Talk Show](https://open.spotify.com/show/4XecmmFwKTjbacFxsbosg7) | [Sidewalk Talk Show](https://open.spotify.com/album/4XecmmFwKTjbacFxsbosg7) | 24:47 |
 
-Snapshot ID: `MjY3NzQ5MzAsMDAwMDAwMDBjYjkxNTI5NjQ2OTg1Mjk1MjMxNGQ3ZDQxN2Y5NDRkOQ==`
+Snapshot ID: `AZiNkgAAAADLkVKWRphSlSMU19QX+UTZ`

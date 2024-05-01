@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 > New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  COVER: JEV
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,503 likes - 19 songs - 59 min 40 sec
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,499 likes - 19 songs - 59 min 40 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,4 +28,4 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 | 18 | [For Me](https://open.spotify.com/track/4SY0Mb7wri1uAIFzSsukRi) | [Draeden](https://open.spotify.com/artist/7tZV4FXJNO8FzjgrAToCln), [Undrwvter](https://open.spotify.com/artist/3zeOp42xdgvPHEtbIDxxMQ) | [For Me](https://open.spotify.com/album/1o6MUKYw0PrOtMNFLfnsid) | 3:34 |
 | 19 | [Dream \(Adrenalize Remix\)](https://open.spotify.com/track/0JwGnnL56XImqvqfNuRvJV) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Adrenalize](https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c) | [Dream \(Adrenalize Remix\)](https://open.spotify.com/album/0f10jw8TGbVeg4qRHQTvyG) | 3:23 |
 
-Snapshot ID: `MTA4NTcsZWVkMTExMGNmYTU4ZmQxYjg5NTgwODA0ZTMzNTUxNzA3OWM4MGE5NA==`
+Snapshot ID: `AAAqae7REQz6WP0biVgIBOM1UXB5yAqU`

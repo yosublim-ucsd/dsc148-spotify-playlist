@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 
 > The best in UK Funky\. Cover: Roska
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,197 likes - 60 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,205 likes - 60 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 59 | [Goo](https://open.spotify.com/track/25n06U7QZRVbd8ygUU9JOL) | [Lorenzo\_BITW](https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV), [Kwam](https://open.spotify.com/artist/5xL30yTBxQPRYS9hbEhCWk) | [Goo](https://open.spotify.com/album/1qyofi0544PbioP27dqY34) | 4:08 |
 | 60 | [Disposition](https://open.spotify.com/track/76OEFASnlLZEVeolDc1KjU) | [Bakongo](https://open.spotify.com/artist/4FmchdtAj76UxQiNOjCgMo) | [Momoweb / Disposition / Goulbap](https://open.spotify.com/album/5YKUxs3zUKSFOfSjWPe93N) | 5:10 |
 
-Snapshot ID: `MTcwOTE0MTI4MCwwMDAwMDAwMDAwMWVmMDIxYWM1Y2NkYmZkY2QyMjUyNjliNmQzZGNk`
+Snapshot ID: `Zd9tIAAAAAAAHvAhrFzNv9zSJSabbT3N`

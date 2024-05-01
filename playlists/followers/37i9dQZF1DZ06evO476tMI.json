@@ -1,5 +1,5 @@
 {
-  "2024-04-30": 602334,
+  "2024-05-01": 602326,
   "date_first_scraped": "2023-07-29",
   "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
   "name": "This Is Whitney Houston",
@@ -323,7 +323,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 275533,
       "name": "How Will I Know",
       "url": "https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal"
@@ -591,7 +591,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-29",
+      "date_removed": null,
       "duration_ms": 259053,
       "name": "If You Say My Eyes Are Beautiful (with Jermaine Jackson)",
       "url": "https://open.spotify.com/track/0iDSjpKH1oJdPbvNYjbUmH"

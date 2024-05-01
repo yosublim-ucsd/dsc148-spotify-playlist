@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 
 > With By The Coast, LAVE, VICTORS and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,738 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,737 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 | 49 | [hey, u up?](https://open.spotify.com/track/26tfWIJV39o1MXBnGCqKt1) | [VICTORS](https://open.spotify.com/artist/163g9TCjTPJMjem8Iwv6iN) | [III](https://open.spotify.com/album/2uo26B9q3QJwI6ihiQDJvm) | 4:12 |
 | 50 | [Towel](https://open.spotify.com/track/6NA21l5lWlMjnXTVAZZ4Oq) | [The Wldlfe](https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W) | [I'm Not Worried Anymore, 2018](https://open.spotify.com/album/1WoAX2N12cLcNMxU5nll8o) | 4:36 |
 
-Snapshot ID: `MTcxNDQzODI0OSwwMDAwMDAwMDc1NzIzMTE2ZWU3NDIzMWRjNWVmYzQzYzMwMDA1NDJi`
+Snapshot ID: `ZjGwkAAAAAAlI7S3GaIrWPD3fUDoII8m`

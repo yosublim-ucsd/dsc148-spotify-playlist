@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDKV5NsCgGw.md) - [plain]
 
 > La dolce playlist! Listen to all the music from The White Lotus, <br/>now streaming on Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,828 likes - 94 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,833 likes - 94 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDKV5NsCgGw.md) - [plain]
 | 93 | [Sea Turtle Song](https://open.spotify.com/track/02dBgXCHr1NwjE5kUpeKnd) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus \(Soundtrack from the HBO® Original Limited Series\)](https://open.spotify.com/album/0cZO3MDkGSpTmuTrH2vyhu) | 1:44 |
 | 94 | [I Want to Live](https://open.spotify.com/track/2yNwpZpPiWzVygOEZISXDa) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus \(Soundtrack from the HBO® Original Limited Series\)](https://open.spotify.com/album/0cZO3MDkGSpTmuTrH2vyhu) | 5:09 |
 
-Snapshot ID: `MTY4NjgzNjI5MCwwMDAwMDAwMDM5OWQ0ZDM5ZmZiZjE5YzQ1ODY4MDA4MmQ4YTMwNjU5`
+Snapshot ID: `ZIsUQgAAAAA5nU05/78ZxFhoAILYowZZ`

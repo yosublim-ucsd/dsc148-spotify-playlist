@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Massimo Pericolo, Baby Gang, Tony Boy, ANNA e tanti altri!
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,646 likes - 89 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,689 likes - 89 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 88 | [HABITUÉ](https://open.spotify.com/track/4eN7N1dZW1tPOtivprfDG6) | [Lobbuten](https://open.spotify.com/artist/047IO82bFPi1unHOJ5PnWR), [WadeLeVrai](https://open.spotify.com/artist/2sSF1FKT1eBuSwHZbzMycW), [ZZIPO 41](https://open.spotify.com/artist/2Uuvqkf7tol2ZYAgJefaKq) | [HABITUÉ](https://open.spotify.com/album/0JVGYfsi79bFCzsF5JAGij) | 2:31 |
 | 89 | [One Direction \(Red Bull 64 Bars\)](https://open.spotify.com/track/1QPSNPLRYq5Riad9ecIfNg) | [Nello Taver](https://open.spotify.com/artist/6JV9OrfLS1nkVkAYl0naok), [Mike Lennon](https://open.spotify.com/artist/2g2ukiJJzYdcRJQ12D2bq7) | [One Direction \(Red Bull 64 Bars\)](https://open.spotify.com/album/5s58cKGT0N0UrWUiwY9C7w) | 3:20 |
 
-Snapshot ID: `MTcxNDE0NzE2NiwwMDAwMDAwMDMwMTA1OWEyZGU5YTY3NDdmNTNlYTQ0ZjZmZDI4N2Fi`
+Snapshot ID: `ZivPXgAAAAAwEFmi3ppnR/U+pE9v0oer`

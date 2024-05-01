@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: <a href="https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn?si=vPMKVF4FSi6lM3uLNi3zvw">Savage</a>,  <a href=https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep?si=FjEmTtW9RoGz1Phk4uyAxg>Zlatan</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,987 likes - 61 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,999 likes - 61 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 60 | [Amsterdam](https://open.spotify.com/track/1hf69oGe91RtdLyqa02eb2) | [Ordio O2](https://open.spotify.com/artist/5VO8WGUErBn2uI7zVcgWok), [Kukzer wadi piano\_012](https://open.spotify.com/artist/3gRYJiGDHEWuZCjKlOZsLh), [Ross](https://open.spotify.com/artist/3qR0ivGnEprE5Y8oxCly4Y) | [Amsterdam](https://open.spotify.com/album/0uJmIR7ar4aEZL5piNEE1A) | 6:18 |
 | 61 | [Narcos](https://open.spotify.com/track/0bXnjLwjvFJqQE1MB4Wd1M) | [DJ Kwamzy](https://open.spotify.com/artist/3hiqYAXIosBBDG9Uqxt37h), [J Slayz](https://open.spotify.com/artist/0NV4GLGLjuLWL7Il9IOOdj) | [Narcos](https://open.spotify.com/album/1QhZ3sBP8SEGIcYcO5Af5C) | 8:00 |
 
-Snapshot ID: `MTcxNDA4NjAwMCwwMDAwMDAwMGE2ZjBkMWI3ZmZhODg0NjkzYmMxODMyOTY4ZDcxMzk5`
+Snapshot ID: `ZirgcAAAAACm8NG3/6iEaTvBgylo1xOZ`

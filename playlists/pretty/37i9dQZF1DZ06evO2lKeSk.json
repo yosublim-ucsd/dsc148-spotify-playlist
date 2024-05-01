@@ -1,12 +1,12 @@
 {
-  "description": "This Is Ana Gabriel. Los temas esenciales, todos en una lista.",
-  "num_followers": 320516,
+  "description": "This is Ana Gabriel. The essential tracks, all in one playlist.",
+  "num_followers": 320602,
   "original_name": "This Is Ana Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDI2MjQwMCwwMDAwMDAwMGJkYzc5NDEyN2FkZWM0OWFiMGQzZTUwOTU2ZDEyYTJl",
+  "snapshot_id": "Zi7jAAAAAAD7zH1YvpltqeUWgvKn9FxL",
   "tracks": [
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vivencias",
-        "url": "https://open.spotify.com/album/6DVtXmghv4ZqMbnxWFJs7J"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 310173,
-      "name": "Eres Todo en M\u00ed (You're My Everything)",
-      "url": "https://open.spotify.com/track/26N4opVvRLaaCq61NkZeD2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tierra De Nadie",
         "url": "https://open.spotify.com/album/1qgBllFM7eTrDU1NChzk1I"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 227666,
       "name": "Es el Amor Quien Llega",
       "url": "https://open.spotify.com/track/4GLtNEcq1Mg4SwyxRFhP2o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vivencias",
+        "url": "https://open.spotify.com/album/6DVtXmghv4ZqMbnxWFJs7J"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 310173,
+      "name": "Eres Todo en M\u00ed (You're My Everything)",
+      "url": "https://open.spotify.com/track/26N4opVvRLaaCq61NkZeD2"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qui\u00e9n Como t\u00fa",
-        "url": "https://open.spotify.com/album/6TkpmmUOcvoB76oZdX9f5D"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 270733,
-      "name": "Ni un Roce (Nem um Toque)",
-      "url": "https://open.spotify.com/track/0h9tN3D3jMLv4P9xwcUwDG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sagitario",
         "url": "https://open.spotify.com/album/05tHWQm1uJIo6FxQ9xzygd"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 239626,
       "name": "Mar y Arena",
       "url": "https://open.spotify.com/track/1HbyxkzMjXKIuyiZ5Xn4nB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Qui\u00e9n Como t\u00fa",
+        "url": "https://open.spotify.com/album/6TkpmmUOcvoB76oZdX9f5D"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 270733,
+      "name": "Ni un Roce (Nem um Toque)",
+      "url": "https://open.spotify.com/track/0h9tN3D3jMLv4P9xwcUwDG"
     },
     {
       "added_at": null,

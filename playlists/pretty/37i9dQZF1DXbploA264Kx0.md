@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 
 > Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: I Mean Us
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,778 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,796 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 | 59 | [don't stop](https://open.spotify.com/track/3St3yb7eQhn1TQC8qI8c04) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [don't stop](https://open.spotify.com/album/1GiRLk9pLoCegNsPpkapM1) | 2:48 |
 | 60 | [釋迦 \- Live Session](https://open.spotify.com/track/3Z3oabr31eKhocCaFoMiHE) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [釋迦 \(Live Session\)](https://open.spotify.com/album/73lJKnwBSY4nN072HpBD8N) | 4:31 |
 
-Snapshot ID: `MTcxNDA2MDgwMCwwMDAwMDAwMDM1ODQzZjcwYzk3Nzk3YzUyNDAzOWY5NzlhNmEyNGNk`
+Snapshot ID: `Zip+AAAAAAA1hD9wyXeXxSQDn5eaaiTN`

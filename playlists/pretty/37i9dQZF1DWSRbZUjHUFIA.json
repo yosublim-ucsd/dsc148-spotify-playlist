@@ -1,12 +1,12 @@
 {
   "description": "Keep your workout 100 with these Hip-Hop motivators.",
-  "num_followers": 87979,
+  "num_followers": 88023,
   "original_name": "Work It: Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcwMTM0MTEwOCwwMDAwMDAwMGI1NmVhYWYxMTA2ZDZmYTA1ZTkwMTY4MzJjZTg1Yjk0",
+  "snapshot_id": "ZWhntAAAAAC1bqrxEG1voF6QFoMs6FuU",
   "tracks": [
     {
       "added_at": "2023-11-30 10:45:08",
@@ -1183,18 +1183,22 @@
     {
       "added_at": "2023-11-30 10:45:08",
       "album": {
-        "name": "Redemption",
-        "url": "https://open.spotify.com/album/4IAMLhL37kMrpByavj25Ne"
+        "name": "PSYCHODRAMA",
+        "url": "https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD"
       },
       "artists": [
         {
-          "name": "Jay Rock",
-          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
         }
       ],
-      "duration_ms": 215226,
-      "name": "WIN",
-      "url": "https://open.spotify.com/track/69WMdZSqdQwFgLVpbMsZ2J"
+      "duration_ms": 240160,
+      "name": "Disaster (feat. J Hus)",
+      "url": "https://open.spotify.com/track/3rqmxZNh2BRgJ3BiCPFTSG"
     }
   ],
   "unique_name": "Work It: Hip Hop",

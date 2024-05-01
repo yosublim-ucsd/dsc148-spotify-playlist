@@ -1,12 +1,12 @@
 {
-  "description": "This is $uicideboy$. The essential tracks, all in one playlist.",
-  "num_followers": 568821,
+  "description": "This Is $uicideboy$. Los temas esenciales, todos en una lista.",
+  "num_followers": 569140,
   "original_name": "This Is $uicideboy$",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDI2MjQwMCwwMDAwMDAwMDM2YTJmNzFkN2ZlNWUyNzFhNjA1NmI0MWFlMzgzZjQ4",
+  "snapshot_id": "Zi7jAAAAAACWa6+OaQpYvBgXWiy1uQzj",
   "tracks": [
     {
       "added_at": null,
@@ -551,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "High Tide in the Snake's Nest",
+        "url": "https://open.spotify.com/album/7gMzKwKAsbooGeKgDlX2TL"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 145635,
+      "name": "Mount Sinai",
+      "url": "https://open.spotify.com/track/5vyR3lTiw4zz8B4PvnAO4c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "KILL YOURSELF Part XIV: The Vulture Saga",
         "url": "https://open.spotify.com/album/4shih0Tkjmn2JWJHSHlF2s"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 123285,
       "name": "Venom",
       "url": "https://open.spotify.com/track/4RYhSQFFlquCTb8XRMJgFU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "High Tide in the Snake's Nest",
-        "url": "https://open.spotify.com/album/7gMzKwKAsbooGeKgDlX2TL"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 145635,
-      "name": "Mount Sinai",
-      "url": "https://open.spotify.com/track/5vyR3lTiw4zz8B4PvnAO4c"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KILL YOURSELF Part IX: The Soulseek Saga",
-        "url": "https://open.spotify.com/album/1nWTr9q2FWYUm512ZhoLXd"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 136997,
-      "name": "Harvest Moon",
-      "url": "https://open.spotify.com/track/1ejyx2kXWFY6QuYHu7yOyD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Long Term Effects of SUFFERING",
         "url": "https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 165970,
       "name": "The Number You Have Dialed Is Not in Service",
       "url": "https://open.spotify.com/track/4gAtj23mqTx5pjfkzVaXhh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KILL YOURSELF Part IX: The Soulseek Saga",
+        "url": "https://open.spotify.com/album/1nWTr9q2FWYUm512ZhoLXd"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 136997,
+      "name": "Harvest Moon",
+      "url": "https://open.spotify.com/track/1ejyx2kXWFY6QuYHu7yOyD"
     },
     {
       "added_at": null,
@@ -815,22 +815,6 @@
       "duration_ms": 143346,
       "name": "$uicideboy$ Were Better In 2015",
       "url": "https://open.spotify.com/track/6LoaYlv0bC1TyctuADqNFh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Want to Die In New Orleans",
-        "url": "https://open.spotify.com/album/2ivOxIKDHxEo6WMD9m3ytn"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 137772,
-      "name": "Coma",
-      "url": "https://open.spotify.com/track/73hmZZ7HyLgUQj2DaybfBb"
     },
     {
       "added_at": null,

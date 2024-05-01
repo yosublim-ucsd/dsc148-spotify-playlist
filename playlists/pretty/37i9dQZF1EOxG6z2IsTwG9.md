@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOxG6z2IsTwG9.md) - [plain]
 | 19 | [Kinfolks](https://open.spotify.com/track/53F1MVa1BWUkTBbVqgVAfN) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Kinfolks](https://open.spotify.com/album/625MA4PZ4GUROYHFK9kl31) | 3:01 |
 | 20 | [Kiwi Country episode 10: Georgia interviewed her favourite artist Sam Hunt](https://open.spotify.com/episode/1EtBek0IrN2es9VCrnP5Df) | [Kiwi Country with Georgia Burt](https://open.spotify.com/show/3P4YElmUk0q81OhVnUmdqX) | [Kiwi Country with Georgia Burt](https://open.spotify.com/album/3P4YElmUk0q81OhVnUmdqX) | 18:20 |
 
-Snapshot ID: `MjY3ODM0MDYsMDAwMDAwMDBhNGQyZmNlZjdhOWM3MmEwZGUyMmU5ZGNhYjI4MzkwZg==`
+Snapshot ID: `AZiurgAAAACk0vzvepxyoN4i6dyrKDkP`

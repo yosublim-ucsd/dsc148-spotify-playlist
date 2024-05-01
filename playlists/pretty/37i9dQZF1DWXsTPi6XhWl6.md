@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsTPi6XhWl6.md) - [plain]
 
 > Brighten your morning with these indie, folk and acoustic sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,410 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,406 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsTPi6XhWl6.md) - [plain]
 | 99 | [Man](https://open.spotify.com/track/492YZblVU9iBCWKsH60sWP) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [The Worse Things Get, The Harder I Fight, The Harder I Fight, The More I Love You \[Deluxe Edition\]](https://open.spotify.com/album/1lZeuZHmv7Mzngg8UEIRPo) | 3:31 |
 | 100 | [Show Me Something Higher](https://open.spotify.com/track/17IqqKRqItHYtUol1m0LLB) | [Leftover Salmon](https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz) | [Something Higher](https://open.spotify.com/album/5SxBT8RsPPkxVX4OWMtzFj) | 5:27 |
 
-Snapshot ID: `MTcxMTY1NDM5OSwwMDAwMDAwMDU2ZDhmZjAwODFmZDBjMmI4N2M4OTY4ZjE3ODBlOTVi`
+Snapshot ID: `ZgXF/wAAAABW2P8Agf0MK4fIlo8XgOlb`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 
 > Anne Wilson is taking over Country by the Grace of God to celebrate the release of her new album REBEL!
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,682 likes - 191 songs - 11 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,706 likes - 191 songs - 11 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -200,4 +200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 | 190 | [We All Carry Something](https://open.spotify.com/track/6uEZirSx14Fo2WOqJCdE0c) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [Never Gets Old](https://open.spotify.com/album/7h9Y1JOLH3VJyeDfwbbKqQ) | 3:26 |
 | 191 | [Three Wooden Crosses](https://open.spotify.com/track/3y1celx9jzjsbfI9T3hmvw) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Three Wooden Crosses: The Inspirational Hits of Randy Travis](https://open.spotify.com/album/17GFGc299gAbkJWoIu5eba) | 3:21 |
 
-Snapshot ID: `MTcxNDEwNDA2MCwwMDAwMDAwMDMwMDMxNjhiNTE0MDY0ODBlYzA3ZDA5ZjIwZGU0ODg4`
+Snapshot ID: `Zism/AAAAAAwAxaLUUBkgOwH0J8g3kiI`

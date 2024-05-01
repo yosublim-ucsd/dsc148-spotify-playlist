@@ -1,5 +1,5 @@
 {
-  "2024-04-30": 20670,
+  "2024-05-01": 20693,
   "date_first_scraped": "2022-09-09",
   "description": "[Festival Dates: May 4-5] Meet the lineup of HIPHOPPLAYA FESTIVAL 2024, the largest outdoor hip-hop festival in Korea! (5\uc6d4 4\uc77c-5\uc77c \uc5f4\ub9ac\ub294 \ud55c\uad6d \ucd5c\ub300 \uaddc\ubaa8\uc758 \uc57c\uc678 \ud799\ud569 \ud398\uc2a4\ud2f0\ubc8c HIPHOPPLAYA FESTIVAL 2024\uc758 \ub77c\uc778\uc5c5\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "HIPHOPPLAYA FESTIVAL 2024",
@@ -787,7 +787,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 169973,
       "name": "Freak",
       "url": "https://open.spotify.com/track/53NYRM8s4mm4yeCsmsvTik"
@@ -2471,6 +2471,28 @@
       "duration_ms": 245823,
       "name": "So What (Feat. Beenzino)",
       "url": "https://open.spotify.com/track/3q738cBTApcG0vo5G1OTZC"
+    },
+    {
+      "album": {
+        "name": "SPOT!",
+        "url": "https://open.spotify.com/album/3K3C9JjwCGQAzj3Bu7BUaI"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167706,
+      "name": "SPOT!",
+      "url": "https://open.spotify.com/track/1SS0WlKhJewviwEDZ6dWj0"
     },
     {
       "album": {

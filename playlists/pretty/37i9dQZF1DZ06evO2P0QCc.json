@@ -1,12 +1,12 @@
 {
-  "description": "This Is Inspector. Sus mejores \u00e9xitos, todos en una playlist.",
-  "num_followers": 107870,
+  "description": "This is Inspector. The essential tracks, all in one playlist.",
+  "num_followers": 107905,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDI2MjQwMCwwMDAwMDAwMDk4YzQyOTNhNGUyY2M4NjIzNTE5MzVhZDViODIyMTZk",
+  "snapshot_id": "Zi7jAAAAAAAoasR5dTvpHTQ96pe6kHDh",
   "tracks": [
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unidad, Cerveza y Ska",
-        "url": "https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 248720,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/0coZWcSFpUwrkimzmiUfVM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inspecci\u00f3n Retroac\u00fastica",
         "url": "https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 209793,
       "name": "Volvamos a Ser Novios",
       "url": "https://open.spotify.com/track/1TaxeNJAmzQ91dh9zF5701"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unidad, Cerveza y Ska",
+        "url": "https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 248720,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/0coZWcSFpUwrkimzmiUfVM"
     },
     {
       "added_at": null,

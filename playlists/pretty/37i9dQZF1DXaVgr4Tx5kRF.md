@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 
 > The songs that defined a golden era of British indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 642,217 likes - 65 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 642,241 likes - 65 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 | 64 | [Live Forever](https://open.spotify.com/track/0ZyrgDl8C0Cq9Gt3nPxqvd) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe](https://open.spotify.com/album/5pH9YRGTX44n0G3p2pHBlx) | 4:36 |
 | 65 | [Staying Out For The Summer](https://open.spotify.com/track/59GIjxze4m7lutOfemmKvu) | [Dodgy](https://open.spotify.com/artist/1dekSPU23UC5hw5b8Uxk9W) | [The Collection](https://open.spotify.com/album/2ThnpEHmCmIHJuzAx9nQxt) | 3:05 |
 
-Snapshot ID: `MTcxNDA1MTgxNSwwMDAwMDAwMDU4NDcwMTM0YTNkZWZmYjhiOGFhYTFkOWU3NWQzOTEy`
+Snapshot ID: `Zipa5wAAAABYRwE0o97/uLiqodnnXTkS`

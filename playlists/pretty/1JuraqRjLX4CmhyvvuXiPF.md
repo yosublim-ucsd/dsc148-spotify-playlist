@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/1JuraqRjLX4CmhyvvuXiPF.md) - [plain]
 | 24 | [Two Daughters And A Beautiful Wife](https://open.spotify.com/track/5JPc3gWIB8rAoiHoF7AIOx) | [Drive\-By Truckers](https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v) | [Brighter Than Creation's Dark](https://open.spotify.com/album/1Y6Nb8cmlklQskAsOU3J8W) | 3:05 |
 | 25 | [High on Tulsa Heat](https://open.spotify.com/track/1GKYjJhl3Zf4Gfv0JNq7pY) | [John Moreland](https://open.spotify.com/artist/5MPWTD6J1H9XqYEOb4QkdH) | [High on Tulsa Heat](https://open.spotify.com/album/4e4Ke2z3IegAHOAPPEu09H) | 3:41 |
 
-Snapshot ID: `ODcsOTVjZWI3MTk1OWQ4NmU3Nzg1Mjg2ZmEwMjkyNjQ1ZjM3MDNmMThkMw==`
+Snapshot ID: `AAAAV5XOtxlZ2G53hShvoCkmRfNwPxjT`

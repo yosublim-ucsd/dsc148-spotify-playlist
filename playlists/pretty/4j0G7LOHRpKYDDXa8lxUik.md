@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/4j0G7LOHRpKYDDXa8lxUik.md) - [plain]
 | 49 | [Better Love Next Time](https://open.spotify.com/track/2RwLs2dPoY8Tt1FumMvimx) | [Dr\. Hook](https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN) | [Dr\. Hook \- The Best Of](https://open.spotify.com/album/7duyaPactGiBSLDpyx2moF) | 3:00 |
 | 50 | [Him](https://open.spotify.com/track/5rMthFHPxRDi4Uxg06iK6H) | [Rupert Holmes](https://open.spotify.com/artist/0TqIPD4IS1w4e30R38B3vj) | [Partners In Crime](https://open.spotify.com/album/163iYwl7Kdm9ayTnD4VyfN) | 4:06 |
 
-Snapshot ID: `Myw5ZmIzOGEyNjM1Nzg2OTQ2YjlhMDE4NjAyN2I5MTE4ODUyZGEzNDky`
+Snapshot ID: `AAAAA5+ziiY1eGlGuaAYYCe5EYhS2jSS`

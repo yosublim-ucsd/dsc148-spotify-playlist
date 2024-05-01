@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/76VB9ZPpcap220Osx9Ktjj.md) - [plain]
 
 > <a href="https://www.rammstein.de/en/tickets/">Rammstein Tour Dates</a>
 
-[Rammstein](https://open.spotify.com/user/rammsteinofficial) - 92,095 likes - 22 songs - 1 hr 36 min
+[Rammstein](https://open.spotify.com/user/rammsteinofficial) - 92,108 likes - 22 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/76VB9ZPpcap220Osx9Ktjj.md) - [plain]
 | 21 | [Ich will](https://open.spotify.com/track/3X0K6fII7VIwL1URPrp8Ko) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Mutter](https://open.spotify.com/album/1CtTTpKbHU8KbHRB4LmBbv) | 3:37 |
 | 22 | [Adieu](https://open.spotify.com/track/56SLMIzWKrEOWIQ5LCzKXV) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 4:38 |
 
-Snapshot ID: `MTMzLDA5Y2ZjN2MwZGY4YmVjY2U5MDlkNjk3N2U1ZDM0ZDRlMzkxMWUxNTI=`
+Snapshot ID: `AAAAhQnPx8Dfi+zOkJ1pd+XTTU45EeFS`

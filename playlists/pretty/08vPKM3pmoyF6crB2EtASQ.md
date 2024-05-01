@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/08vPKM3pmoyF6crB2EtASQ.md) - [plain]
 
 > Sometimes only music can describe that feeling...
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,110 likes - 33 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,108 likes - 33 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/08vPKM3pmoyF6crB2EtASQ.md) - [plain]
 | 32 | [Slip](https://open.spotify.com/track/0OY2KqGxYAUizKfjwsPrbp) | [Elliot Moss](https://open.spotify.com/artist/2xGCGoulmU85qYdpb2Z4xx) | [Highspeeds](https://open.spotify.com/album/2zbAhCVJW1VtT1BYjjlJnw) | 4:58 |
 | 33 | [Silence for You](https://open.spotify.com/track/5yiFg93aFwiP6fLDjhHynF) | [Mononoke](https://open.spotify.com/artist/7JDpmpWfaFoeSTeKP5l881) | [Silence for You](https://open.spotify.com/album/6NUw70on5YtmI7rmWk0HiW) | 3:18 |
 
-Snapshot ID: `MTYzLGEyMTJhYjQ4NWYxZTU5NWI5ZjViODkwNTEyMzEzYjFkZTk1NjJiYWM=`
+Snapshot ID: `AAAAo6ISq0hfHllbn1uJBRIxOx3pVius`

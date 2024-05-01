@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/4ftQXs8PU4QMqPLMaJG7QT.md) - [plain]
 | 28 | [After Lifeless Years](https://open.spotify.com/track/19eO2GzRSPaIPWtxT7V6An) | [Sylosis](https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl) | [Conclusion Of An Age](https://open.spotify.com/album/0442rz3Kjfi8RUIwbWr8n1) | 4:57 |
 | 29 | [Hate Creation](https://open.spotify.com/track/0yv1H7yE8paU52xsxs3d4S) | [Whitechapel](https://open.spotify.com/artist/3OfWQqB4QqBJiUKgbrzNiI) | [Metal Blade Records 2012 Summer Sampler](https://open.spotify.com/album/4S7C3xaUwjVu86ZIUc7OMk) | 3:28 |
 
-Snapshot ID: `NSw4NTA0NWQzMjU2YTQ1YmNhNTQ4ZDdmMjMzYjA2OGI3NTBkYTk3ZTQx`
+Snapshot ID: `AAAABYUEXTJWpFvKVI1/IzsGi3UNqX5B`

@@ -28,4 +28,4 @@ pretty - [cumulative](/playlists/cumulative/2EjRsHG8m4bGCrhCoJ1ykn.md) - [plain]
 | 18 | [Empire](https://open.spotify.com/track/6c19BYdxx9Asmwsbwm25W4) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [This World Oft Can Be](https://open.spotify.com/album/7frpcazncBU4SEUGBABp40) | 2:52 |
 | 19 | [Oxford Town / Cumberland Gap](https://open.spotify.com/track/5YXWrTkKqXWdYZLxhEWAmk) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU) | [Shaken by a Low Sound](https://open.spotify.com/album/6uFn0hAG96lR9aINZ1N8y8) | 2:20 |
 
-Snapshot ID: `MzQsYWU1MDM2MjQ5MWU3NDhiYWVjYTUyYjczNDA0ODcyODg3YTA3NWRkNA==`
+Snapshot ID: `AAAAIq5QNiSR50i67KUrc0BIcoh6B13U`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvFcCTKoddA.md) - [plain]
 
 > Découvrez les créateurs de demain.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,737 likes - 10 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,736 likes - 10 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,4 +19,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvFcCTKoddA.md) - [plain]
 | 9 | [La salle d'attente de ta vie](https://open.spotify.com/episode/6Lf3wmKqLJgFzYCAUp7yi0) | [Garce Therapy](https://open.spotify.com/show/1YQ5Yuzt8nuPY1s76T261Y) | [Garce Therapy](https://open.spotify.com/album/1YQ5Yuzt8nuPY1s76T261Y) | 24:22 |
 | 10 | [Analyse de société\(+ma life\) : être une femme maghrébine et sortir avec un rebeu](https://open.spotify.com/episode/4FELqDBlUsSRictVSyNYft) | [Garce Therapy](https://open.spotify.com/show/1YQ5Yuzt8nuPY1s76T261Y) | [Garce Therapy](https://open.spotify.com/album/1YQ5Yuzt8nuPY1s76T261Y) | 54:19 |
 
-Snapshot ID: `MTcxNDA0MDg0OCwwMDAwMDAwMDY4Y2QyM2VjZDI5N2U3ZTFlNTQzZTNkNWM2MzUzOTcw`
+Snapshot ID: `ZiowEAAAAABozSPs0pfn4eVD49XGNTlw`

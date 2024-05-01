@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/0TmNZR8QmL60k1gWWa37fg.md) - [plain]
 | 27 | [Carol of the Bells](https://open.spotify.com/track/2jLjMwY8thbmBhis9CsjFe) | [Mannheim Steamroller](https://open.spotify.com/artist/0EeHVtSdrYibpGDVHjWEpe) | [Mannheim Steamroller Christmas Symphony II](https://open.spotify.com/album/5eoDnNf0YWYPH9KmFnLyaM) | 3:56 |
 | 28 | [Amazing Grace](https://open.spotify.com/track/6sMKUs0782Jo7SKYYso7tk) | [Cherokee National Youth Choir](https://open.spotify.com/artist/7BZ3hZC5J0I8sZyiJ8SzKF) | [Precious Memories](https://open.spotify.com/album/2P1LjBw8UMOZhw31mjufyO) | 2:17 |
 
-Snapshot ID: `ODQsYTgwODY1ODkxMTJmMjY4NDg2YzdiMGQ1YzU5OGI0YmIwM2E5ZDAzZA==`
+Snapshot ID: `AAAAVKgIZYkRLyaEhsew1cWYtLsDqdA9`

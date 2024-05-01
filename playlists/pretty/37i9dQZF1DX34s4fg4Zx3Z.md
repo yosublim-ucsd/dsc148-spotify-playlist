@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Như thanh long trong mì tôm, đây là những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: Tuấn Võ
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,464 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,470 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [Show Me The Way](https://open.spotify.com/track/0CpDf9mXIupaGtXDgEXFiq) | [Tổng Đài](https://open.spotify.com/artist/2N84GU99DEBAAHT2B9uG8j), [Bệt Band](https://open.spotify.com/artist/4uqZAHbX45ygzxhxkRwTwR) | [Show Me The Way](https://open.spotify.com/album/3w9MvgS8ZP3im23SZQF4i8) | 3:30 |
 | 100 | [Easy Pretty Luv](https://open.spotify.com/track/6d9cplBoSCSNvwRA51gJMv) | [prettyXIX](https://open.spotify.com/artist/28XrDF0G35BpyybcGaQTzU), [VCC Left Hand](https://open.spotify.com/artist/3QjJx8Yp2mXYoHtiPI7VMI), [V\#](https://open.spotify.com/artist/3XevJv2rTKu5WYtD0LW6om) | [Easy Pretty Luv](https://open.spotify.com/album/7iEwa14guJYpKkUSAP3bLt) | 3:45 |
 
-Snapshot ID: `MTcxNDAxMjAzMCwwMDAwMDAwMGJlZTJlYmZjZDJlMjJhZWY5Nzk2ZGE1ODI4MDlhZmI4`
+Snapshot ID: `Zim/fgAAAAC+4uv80uIq75eW2lgoCa+4`

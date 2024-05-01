@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJnfwk84BX.md) - [plain]
 
 > Trilhas sonoras e grandes clássicos para te ajudar a relaxar durante a leitura.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,204 likes - 117 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,207 likes - 117 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJnfwk84BX.md) - [plain]
 | 116 | [](https://open.spotify.com/track/2CqYEUz87EmtXLpu5QhjrQ) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/5ha7u3ly8G0bEDLxidwWRD) | 0:00 |
 | 117 | [Violin Sonata in C Minor, BWV 1024: III\. Affettuoso](https://open.spotify.com/track/251kv4zkWTOOVfIl0Xe5Ny) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Johannes Pramsohler](https://open.spotify.com/artist/3vrMRlMsFCU2SZTDA9gnse), [Philippe Grisvard](https://open.spotify.com/artist/0QNKqcJExzI83diFSAv8Se) | [Bach & Entourage: Violin Sonatas by Bach, Pisendel, Krebs & Graun](https://open.spotify.com/album/5gS8NxA7q24fLiiSSppKOm) | 2:14 |
 
-Snapshot ID: `MTY4ODQ4NjYzNSwwMDAwMDAwMGFjYTcwMDMyNDEyNTMwMzUzNDMxODJkNmQ4N2Q5YjEy`
+Snapshot ID: `ZKRC6wAAAACspwAyQSUwNTQxgtbYfZsS`

@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/7hjaw2oDqkMS2uDk5vmzAu.md) - [plain]
 | 49 | [Body And Soul](https://open.spotify.com/track/2W0aHErMSTAP2NTBAJlIrZ) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin), [Chris Anderson](https://open.spotify.com/artist/7GqvcADuInnGBhPzJphrpO) | [None But The Lonely Heart](https://open.spotify.com/album/3AIPq30cOmfWnDQgc1OHxI) | 6:24 |
 | 50 | [Chelsea bridge](https://open.spotify.com/track/2Jy6tT44Ay0m5kTUQs2GJB) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Gerry Mulligan Meets Ben Webster](https://open.spotify.com/album/4zNw4NpLg78Rgog4Ath5aM) | 7:23 |
 
-Snapshot ID: `OCw3ZGNkNGRhNTY4YzM4MWVhYjJjYTQyOGZkYjhlOTgyMmQ2MWQ5YmE0`
+Snapshot ID: `AAAACH3NTaVow4HqsspCj9uOmCLWHZuk`

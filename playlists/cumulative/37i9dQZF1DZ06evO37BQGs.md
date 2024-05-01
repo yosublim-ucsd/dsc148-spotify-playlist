@@ -2,7 +2,7 @@
 
 ### [This Is Hundred Reasons](https://open.spotify.com/playlist/37i9dQZF1DZ06evO37BQGs)
 
-> This Is Hundred Reasons\. Los temas esenciales, todos en una lista.
+> This is Hundred Reasons\. The essential tracks, all in one playlist.
 
 76 songs - 4 hr 26 min
 

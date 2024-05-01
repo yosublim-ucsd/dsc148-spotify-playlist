@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS1oWUQvc2D.md) - [plain]
 
 > <a href="spotify:artist:4Bv3GYUzNM11yYGQslJOkp">Mr\. ID</a>'s favorite tracks\. Updated regularly\. Curated by Mr\. ID\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,334 likes - 50 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,351 likes - 50 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS1oWUQvc2D.md) - [plain]
 | 49 | [Amour Yasben](https://open.spotify.com/track/4MX8HbyXHU9Djm8MqLynpL) | [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp), [Salah Hammadi](https://open.spotify.com/artist/18GUnebbbqAkij3dkKCS2T) | [The Universe of Buddha Bar](https://open.spotify.com/album/4p6iAl1zIqZD3RBa7p1snm) | 5:38 |
 | 50 | [U Be Mine](https://open.spotify.com/track/61Fnb0tQStoCN4pmgOmSC4) | [Creange](https://open.spotify.com/artist/4sgCy7pEsQkmFxGCZq9zlI) | [U Be Mine](https://open.spotify.com/album/29eLwbFkfYeLrxYMnHlqpy) | 6:11 |
 
-Snapshot ID: `MTcxNDEyMzE0MSwwMDAwMDAwMDNiNjUzYTIyMTNlOGM5N2U5Yzc2NjIzZTliMjliNzA2`
+Snapshot ID: `ZitxhQAAAAA7ZToiE+jJfpx2Yj6bKbcG`

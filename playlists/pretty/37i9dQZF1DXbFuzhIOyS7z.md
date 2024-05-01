@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 
 > インスタ音楽メディア『<a href="https://www.instagram.com/playlist\_of/">PLAYLIST</a>』が失恋をテーマに選曲。<br/>音楽はいつでもあなたに寄り添ってくれるから今はこのプレイリストを聴いてたくさん泣こう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,951 likes - 40 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,958 likes - 40 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 | 39 | [帰り道](https://open.spotify.com/track/7mQJ3n2lMRHhXzFdsqW1pe) | [reGretGirl](https://open.spotify.com/artist/5uvz2VwV3ubUy1Tm1UOrLs) | [帰り道](https://open.spotify.com/album/1iI78vLMSTUE5lXJcvKreo) | 3:56 |
 | 40 | [名残](https://open.spotify.com/track/18rFzIFmbIlICaLtOhNkDD) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [CIRCUS](https://open.spotify.com/album/7qQegy1ol3L6QZmBdp3TzC) | 2:48 |
 
-Snapshot ID: `MTcxNDA0MTYzNiwwMDAwMDAwMGRiMGRjOWNmYjU4MzkwYzNkNjE5OGNjZjU2OGQ2NzRl`
+Snapshot ID: `ZiozJAAAAADbDcnPtYOQw9YZjM9WjWdO`

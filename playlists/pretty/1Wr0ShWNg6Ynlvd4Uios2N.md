@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/1Wr0ShWNg6Ynlvd4Uios2N.md) - [plain]
 | 46 | [An Antidote for Strychnine](https://open.spotify.com/track/61UxmQLsqs1e9mFjg6v9vC) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [In League with Dragons](https://open.spotify.com/album/6Xw8Mujzvzu7gMeizXOHc6) | 6:02 |
 | 47 | [Birth of Serpents](https://open.spotify.com/track/1DAEwwPwLwTX3toXj0pjgt) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [All Eternals Deck](https://open.spotify.com/album/4BO39f8LC0mZ6NEfBakDs2) | 3:07 |
 
-Snapshot ID: `NDgsZjIyMzgyZDZlM2UxNzgwZWI5MWNlOGI3M2E4ZjJlOGY0MWIyMDk3NA==`
+Snapshot ID: `AAAAMPIjgtbj4XgOuRzotzqPLo9Bsgl0`

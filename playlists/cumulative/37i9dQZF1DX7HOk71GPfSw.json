@@ -8032,6 +8032,24 @@
     {
       "album": {
         "name": "crush",
+        "url": "https://open.spotify.com/album/5ARqIQFQKhOkOtELUq2ACK"
+      },
+      "artists": [
+        {
+          "name": "2hollis",
+          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146225,
+      "name": "crush",
+      "url": "https://open.spotify.com/track/7oUMu1A4dgci1erq7TfeBi"
+    },
+    {
+      "album": {
+        "name": "crush",
         "url": "https://open.spotify.com/album/7lXKPK9lVPJWnvnfj2fKNr"
       },
       "artists": [

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 
 > Discover your favorite new chill pop songs\. Cover: Luke Hemmings
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,333,651 likes - 102 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,333,568 likes - 102 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 | 101 | [With Or Without You](https://open.spotify.com/track/0uIvgiRfJHFZY1sue0cpvm) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [With Or Without You](https://open.spotify.com/album/6WeGMxTWqWb8ApAmjrrhpI) | 2:51 |
 | 102 | [Worth It.](https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:06 |
 
-Snapshot ID: `MTcxNDEwNDAwMCwwMDAwMDAwMDU2YmZlMGZlMDY3YWIzZDExNTI1YTUxNDNiNWUxZjll`
+Snapshot ID: `ZismwAAAAABWv+D+Bnqz0RUlpRQ7Xh+e`

@@ -1,7 +1,7 @@
 {
-  "2024-04-30": 390255,
+  "2024-05-01": 390226,
   "date_first_scraped": "2023-09-29",
-  "description": "Pearl Jam au top des meilleurs morceaux rock du moment.",
+  "description": "Shaka Ponk au top des meilleurs morceaux rock du moment.",
   "name": "Top of the Rock",
   "tracks": [
     {
@@ -803,7 +803,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 156349,
       "name": "Everything I Do Is For You",
       "url": "https://open.spotify.com/track/1BO9znQb8BbJ5W8KPAqgWE"
@@ -1438,6 +1438,24 @@
     },
     {
       "album": {
+        "name": "La vie est belle",
+        "url": "https://open.spotify.com/album/4EZPqR5zgSI7w7khsuPJAh"
+      },
+      "artists": [
+        {
+          "name": "MDNS",
+          "url": "https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178161,
+      "name": "La vie est belle",
+      "url": "https://open.spotify.com/track/70wrE9rvgtQ5kR0UrdgT1o"
+    },
+    {
+      "album": {
         "name": "Landmines",
         "url": "https://open.spotify.com/album/4qbFtX3gAZCiNDkkDMYGCR"
       },
@@ -1507,6 +1525,24 @@
       "duration_ms": 258573,
       "name": "Lazerlove",
       "url": "https://open.spotify.com/track/7rMAh5pNlYmkNGn1kTByol"
+    },
+    {
+      "album": {
+        "name": "Danse Animale",
+        "url": "https://open.spotify.com/album/0hLoVhobG9NV1MLLiBiUxV"
+      },
+      "artists": [
+        {
+          "name": "The Odds",
+          "url": "https://open.spotify.com/artist/1Tcb7Fen1mZVvGdGNnPJX0"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203845,
+      "name": "Le D\u00e9tail",
+      "url": "https://open.spotify.com/track/6xq0ORaot5bKXnefWzMIo6"
     },
     {
       "album": {
@@ -1647,7 +1683,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 181377,
       "name": "Man Of The Hour",
       "url": "https://open.spotify.com/track/40jXLuZysjEEqfAwXg6moM"
@@ -2302,6 +2338,24 @@
     },
     {
       "album": {
+        "name": "SklogW II (On n'a pas l'cul sorti des ronces)",
+        "url": "https://open.spotify.com/album/6SHc5RUIva7X6KtRH9O4Qd"
+      },
+      "artists": [
+        {
+          "name": "Matmatah",
+          "url": "https://open.spotify.com/artist/4bhynkwu2d1ZbjPTNBkI2t"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201933,
+      "name": "SklogW II (On n'a pas l'cul sorti des ronces)",
+      "url": "https://open.spotify.com/track/1HeIznyDz46oLHuSmy57sX"
+    },
+    {
+      "album": {
         "name": "Sliding Doors",
         "url": "https://open.spotify.com/album/5t77HLDFCo7yztX2rfj0Sr"
       },
@@ -2421,7 +2475,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 224444,
       "name": "Spiralling Out",
       "url": "https://open.spotify.com/track/48wvfkGuiM5x1S7ZPSOIGd"

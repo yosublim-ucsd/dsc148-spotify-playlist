@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 
 > Glass Animals along with the hottest alternative songs right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 569,193 likes - 72 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 569,300 likes - 72 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 | 71 | [What About The Children](https://open.spotify.com/track/4bGTNdEbmrDlvqYJKRKJxR) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [JPEG RAW](https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV) | 4:39 |
 | 72 | [symptom of life](https://open.spotify.com/track/63SFAhNnOER587HfPOq4cO) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [symptom of life](https://open.spotify.com/album/7geRIwdu4x2plurupRu4GA) | 3:09 |
 
-Snapshot ID: `MTcxNDEwNDAwMCwwMDAwMDAwMDU4NzUxMTNkNWM5ZmJiNzJkZDU2MzlhNGE0ZTlmYzIx`
+Snapshot ID: `ZismwAAAAABYdRE9XJ+7ct1WOaSk6fwh`

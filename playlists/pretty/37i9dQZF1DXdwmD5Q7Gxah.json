@@ -1,29 +1,13 @@
 {
   "description": "guarantee you'll find a new song to listen to on repeat. cover: chappell roan",
-  "num_followers": 1143649,
+  "num_followers": 1144112,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDQwMzYwNSwwMDAwMDAwMGYzNjUwYzI3YjEzNGY5ZmQzYTM4NjAzMWQwNDU4MzVj",
+  "snapshot_id": "ZjFFqAAAAAApsBbppsgvzL86H+XjCJBD",
   "tracks": [
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Coyote, You're My Star",
-        "url": "https://open.spotify.com/album/61wuHnPthO5vApg52y9n30"
-      },
-      "artists": [
-        {
-          "name": "Dana and Alden",
-          "url": "https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr"
-        }
-      ],
-      "duration_ms": 125867,
-      "name": "Coyote, You're My Star",
-      "url": "https://open.spotify.com/track/2tZ4GQajl2yetk2EA8SvMW"
-    },
     {
       "added_at": "2024-04-16 17:45:28",
       "album": {
@@ -111,6 +95,22 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
+        "name": "Crybaby",
+        "url": "https://open.spotify.com/album/5Wm0HVhzfIZa0Euf4CNXv7"
+      },
+      "artists": [
+        {
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        }
+      ],
+      "duration_ms": 174918,
+      "name": "Crybaby",
+      "url": "https://open.spotify.com/track/7gcjgCVdyvXgbme0Q47Pfr"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
         "name": "Two Star & The Dream Police",
         "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
       },
@@ -123,6 +123,38 @@
       "duration_ms": 174824,
       "name": "Candy",
       "url": "https://open.spotify.com/track/6TeJroHNM4rXP4GluTvKXV"
+    },
+    {
+      "added_at": "2024-04-30 19:16:14",
+      "album": {
+        "name": "Within and Without",
+        "url": "https://open.spotify.com/album/1TwAADd8Z8C1GeeCSaXTNr"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "duration_ms": 287720,
+      "name": "Eyes Be Closed",
+      "url": "https://open.spotify.com/track/3Qp1ja1oYotWn5K0XBRrUV"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Coyote, You're My Star",
+        "url": "https://open.spotify.com/album/61wuHnPthO5vApg52y9n30"
+      },
+      "artists": [
+        {
+          "name": "Dana and Alden",
+          "url": "https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr"
+        }
+      ],
+      "duration_ms": 125867,
+      "name": "Coyote, You're My Star",
+      "url": "https://open.spotify.com/track/2tZ4GQajl2yetk2EA8SvMW"
     },
     {
       "added_at": "2024-04-29 15:13:25",
@@ -139,22 +171,6 @@
       "duration_ms": 218504,
       "name": "Erase / Rewind",
       "url": "https://open.spotify.com/track/3JfkNCiXjHEVkbFfCQ417E"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "fair",
-        "url": "https://open.spotify.com/album/6DiW98ZoKsnnx0IerRi2Q0"
-      },
-      "artists": [
-        {
-          "name": "dog eyes",
-          "url": "https://open.spotify.com/artist/4LfvbRzg2KRaJbr5Nw2yOc"
-        }
-      ],
-      "duration_ms": 146352,
-      "name": "fair",
-      "url": "https://open.spotify.com/track/2pQoTEXycAOQEfZRei7fmC"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -175,18 +191,34 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Crybaby",
-        "url": "https://open.spotify.com/album/5Wm0HVhzfIZa0Euf4CNXv7"
+        "name": "fair",
+        "url": "https://open.spotify.com/album/6DiW98ZoKsnnx0IerRi2Q0"
       },
       "artists": [
         {
-          "name": "Cults",
-          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+          "name": "dog eyes",
+          "url": "https://open.spotify.com/artist/4LfvbRzg2KRaJbr5Nw2yOc"
         }
       ],
-      "duration_ms": 174918,
-      "name": "Crybaby",
-      "url": "https://open.spotify.com/track/7gcjgCVdyvXgbme0Q47Pfr"
+      "duration_ms": 146352,
+      "name": "fair",
+      "url": "https://open.spotify.com/track/2pQoTEXycAOQEfZRei7fmC"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Maine/The Sink",
+        "url": "https://open.spotify.com/album/15uBXJ6ezZjmpbqKYiy2xb"
+      },
+      "artists": [
+        {
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+        }
+      ],
+      "duration_ms": 293389,
+      "name": "Maine",
+      "url": "https://open.spotify.com/track/3pf3hHjBJP6E4zAaSDrl8r"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -219,6 +251,22 @@
       "duration_ms": 219498,
       "name": "Hammer",
       "url": "https://open.spotify.com/track/6Krb3n3QGEubvJjIEMs4Rq"
+    },
+    {
+      "added_at": "2024-04-30 19:25:28",
+      "album": {
+        "name": "Oh My God",
+        "url": "https://open.spotify.com/album/0bdXzGk8WryoeH9fL8Fn8n"
+      },
+      "artists": [
+        {
+          "name": "Fog Lake",
+          "url": "https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H"
+        }
+      ],
+      "duration_ms": 67412,
+      "name": "Oh My God",
+      "url": "https://open.spotify.com/track/6nmDCN2I4r02OdlUsd1vVV"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -347,22 +395,6 @@
       "duration_ms": 234231,
       "name": "Crying Over U",
       "url": "https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Maine/The Sink",
-        "url": "https://open.spotify.com/album/15uBXJ6ezZjmpbqKYiy2xb"
-      },
-      "artists": [
-        {
-          "name": "hey, nothing",
-          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
-        }
-      ],
-      "duration_ms": 293389,
-      "name": "Maine",
-      "url": "https://open.spotify.com/track/3pf3hHjBJP6E4zAaSDrl8r"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1205,22 +1237,6 @@
       "url": "https://open.spotify.com/track/0BnQ1jQWb6Th7e0jMQhB3F"
     },
     {
-      "added_at": "2024-02-13 21:05:23",
-      "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
-    },
-    {
       "added_at": "2024-03-08 05:00:00",
       "album": {
         "name": "DOING IT AGAIN BABY",
@@ -1337,54 +1353,6 @@
       "url": "https://open.spotify.com/track/4GTNljZipQMiMorVaaU6sA"
     },
     {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "The Rot",
-        "url": "https://open.spotify.com/album/42HRGEN5ltCezgopFl609S"
-      },
-      "artists": [
-        {
-          "name": "Abby Sage",
-          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
-        }
-      ],
-      "duration_ms": 210157,
-      "name": "Three Floors, Three Doors",
-      "url": "https://open.spotify.com/track/3uwHIuMc53EssxvxQlVbil"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Suckerpunch",
-        "url": "https://open.spotify.com/album/23Kwa0jNDhxqpPNk2fOp03"
-      },
-      "artists": [
-        {
-          "name": "Dreamer Boy",
-          "url": "https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D"
-        }
-      ],
-      "duration_ms": 181552,
-      "name": "Suckerpunch",
-      "url": "https://open.spotify.com/track/0qAQSimwmmOw6WYdP4Vov8"
-    },
-    {
-      "added_at": "2024-02-27 19:07:18",
-      "album": {
-        "name": "47",
-        "url": "https://open.spotify.com/album/4nUKO0SAphfqEcvarF8b9t"
-      },
-      "artists": [
-        {
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
-        }
-      ],
-      "duration_ms": 177254,
-      "name": "Alone At Last",
-      "url": "https://open.spotify.com/track/3WcoEtoORwkNP1h6V1CGCE"
-    },
-    {
       "added_at": "2024-02-16 05:41:10",
       "album": {
         "name": "ask nicely",
@@ -1447,22 +1415,6 @@
       "duration_ms": 230400,
       "name": "if u want",
       "url": "https://open.spotify.com/track/569FvGfRTQHIU9N9PWJP4b"
-    },
-    {
-      "added_at": "2024-02-27 19:07:18",
-      "album": {
-        "name": "little vice",
-        "url": "https://open.spotify.com/album/7qdwpXcHWL1rlRGxYbkrPl"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 185346,
-      "name": "alone",
-      "url": "https://open.spotify.com/track/0610vGi3JMAOPgldBBq9XF"
     },
     {
       "added_at": "2024-02-21 05:00:00",
@@ -1553,20 +1505,20 @@
       "url": "https://open.spotify.com/track/1V8W9BmMStQInKnD5T2btq"
     },
     {
-      "added_at": "2024-02-16 05:41:10",
+      "added_at": "2024-02-27 19:07:18",
       "album": {
-        "name": "Summer Rain",
-        "url": "https://open.spotify.com/album/3OYtcP4ZW7XxlrkTsh9z62"
+        "name": "47",
+        "url": "https://open.spotify.com/album/4nUKO0SAphfqEcvarF8b9t"
       },
       "artists": [
         {
-          "name": "Olive Jones",
-          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
         }
       ],
-      "duration_ms": 259005,
-      "name": "Summer Rain",
-      "url": "https://open.spotify.com/track/4AxMrysTzBOsFg94g3H7Mh"
+      "duration_ms": 177254,
+      "name": "Alone At Last",
+      "url": "https://open.spotify.com/track/3WcoEtoORwkNP1h6V1CGCE"
     },
     {
       "added_at": "2024-01-12 03:47:20",

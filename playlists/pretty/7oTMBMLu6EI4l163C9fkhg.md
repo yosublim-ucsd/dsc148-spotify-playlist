@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7oTMBMLu6EI4l163C9fkhg.md) - [plain]
 
 > Remember the glory days when boy bands and girl groups ruled the radio? Listen to this playlist and bring the Spice Girls, Hanson, and Destiny's Child back!
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,030 likes - 41 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,026 likes - 41 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/7oTMBMLu6EI4l163C9fkhg.md) - [plain]
 | 40 | [Miss You More](https://open.spotify.com/track/0YyhV1noXR0009qoIhIGTn) | [BBMAK](https://open.spotify.com/artist/7y1GT7SdgGiFLWoktv2TSw) | [The Princess Diaries](https://open.spotify.com/album/1c5BgBSydwiq6fSygewmY2) | 4:14 |
 | 41 | [I Adore Mi Amor](https://open.spotify.com/track/2IcvNE6okbSq18lajo3SYE) | [Color Me Badd](https://open.spotify.com/artist/1QtIfAa6y7w2JhxYJhYeUG) | [Billboard: \#1 Hits Of The 90's](https://open.spotify.com/album/3UTqjsuiNuQ9uxxXyS8qa1) | 4:51 |
 
-Snapshot ID: `Nyw4ZWQ3OWNlZGI2YzU4YTI5MjEwNmIwZDFkMmE2MDAxYWE1NDdjODA5`
+Snapshot ID: `AAAAB47XnO22xYopIQaw0dKmABqlR8gJ`

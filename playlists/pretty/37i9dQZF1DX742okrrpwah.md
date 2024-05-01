@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Justice au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,901 likes - 99 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,881 likes - 99 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 98 | [Rafale](https://open.spotify.com/track/1fMzkfQrHBIfyRkYolvBfL) | [15 15](https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u) | [SAPLIN](https://open.spotify.com/album/0igZQxAzvj4TjQ55cCGB1w) | 2:57 |
 | 99 | [Fraude](https://open.spotify.com/track/1XEObD9HtkjC61Yf0fKZbG) | [Rohff](https://open.spotify.com/artist/32UhRcgdXO6LdLhOpfIdxp), [AP du 113](https://open.spotify.com/artist/39DAWghKRMpF6aKbD3yZqU), [Intouchable](https://open.spotify.com/artist/53CLuRLy1sdzcBYKqNAfKw) | [Fraude](https://open.spotify.com/album/4kpZfrYTuA6DD2mTHbLLHd) | 3:20 |
 
-Snapshot ID: `MTcxNDEyMTM5NCwwMDAwMDAwMDRmNzVjODFhYTVhNGU0NDc1NTk5OWNkNzBkYWFiZmYx`
+Snapshot ID: `ZitqsgAAAABPdcgapaTkR1WZnNcNqr/x`

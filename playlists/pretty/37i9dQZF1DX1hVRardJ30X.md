@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Wisin
 
-[Spotify](https://open.spotify.com/user/spotify) - 583,672 likes - 51 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 583,630 likes - 51 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 50 | [AIRE](https://open.spotify.com/track/3tdbrXujlOuWK62lhxBhVV) | [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9) | [AIRE](https://open.spotify.com/album/7pTcUd0Du1SMJNLv8h8x04) | 3:39 |
 | 51 | [No Soy Asi](https://open.spotify.com/track/7fNy4qOkeZmHTxAOYcOZEU) | [VETZ](https://open.spotify.com/artist/5pr50gK7fNi2urdJUE5dd2) | [No Soy Asi](https://open.spotify.com/album/7j2GqZtQpSbswu7Py2gS0G) | 2:37 |
 
-Snapshot ID: `MTcxNDE0NDk1MCwwMDAwMDAwMGEzMTYwY2IyZGUzZWI0YzI5Njk4OTM5NjZiZGE2NzVl`
+Snapshot ID: `ZivGtgAAAACjFgyy3j60wpaYk5Zr2mde`

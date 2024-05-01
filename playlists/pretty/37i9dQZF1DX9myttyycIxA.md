@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Chanel Beads
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,778 likes - 102 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,789 likes - 102 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 101 | [Medicine](https://open.spotify.com/track/4sINCbrGzO8ycv5qkzxe7d) | [Mali Velasquez](https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP) | [Medicine](https://open.spotify.com/album/34V75CfwJ7raA6wjQDpKPb) | 4:49 |
 | 102 | [Pitbull](https://open.spotify.com/track/7GerEWizPhfbNmWJgQOU5b) | [Hana Eid](https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr) | [Pitbull](https://open.spotify.com/album/7uYegA5tZ2wvo7GfDsgmbf) | 3:27 |
 
-Snapshot ID: `MTcxNDE0NjA4NCwwMDAwMDAwMDg5NDU5MDEzZTdhMmM5Y2RmYzQxMDY2MzVhMWJlZDZm`
+Snapshot ID: `ZivLJAAAAACJRZAT56LJzfxBBmNaG+1v`

@@ -2,7 +2,7 @@
 
 ### [This Is Dharius](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Bunfq)
 
-> This Is Dharius\. Sus mejores éxitos, todos en una playlist.
+> This is Dharius\. The essential tracks, all in one playlist.
 
 54 songs - 3 hr 33 min
 

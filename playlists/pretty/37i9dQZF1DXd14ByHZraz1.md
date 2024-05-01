@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: Rooftime
 
-[Spotify](https://open.spotify.com/user/spotify) - 682,353 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 682,239 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 49 | [Looking At You \(feat\. Kruizz\)](https://open.spotify.com/track/16QrxDPNwSJM7oIj5xwZP9) | [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f), [MYKRIS](https://open.spotify.com/artist/74FoBhis1hShJt1oBnmXkC), [Behmer](https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9), [Kruizz](https://open.spotify.com/artist/6IIxNeTmyWkRrcCPqUt4k0) | [Looking At You \(feat\. Kruizz\)](https://open.spotify.com/album/55lcfTtyhfPTptxe738Pno) | 2:35 |
 | 50 | [QUE TÚ QUIERES](https://open.spotify.com/track/5ADDkBla6hmJsvvPxeV8Pg) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [QUE TÚ QUIERES](https://open.spotify.com/album/5QoP5tRJwXuFVmWOR1iGPH) | 2:12 |
 
-Snapshot ID: `MTcxNDEwMDU4MCwwMDAwMDAwMGNiN2MxM2YyNTFkYzIxNzg5NWI1MjBhZTQwMmE2Mzlj`
+Snapshot ID: `ZisZZAAAAADLfBPyUdwheJW1IK5AKmOc`

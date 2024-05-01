@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Listen to Arab women, at full volume. Cover: Dana Salah\n\n\n",
+  "description": "Listen to Arab women, at full volume. Cover: Aseel Hameem\n\n\n",
   "name": "EQUAL Arabia",
   "tracks": [
     {
@@ -6769,6 +6769,24 @@
     },
     {
       "album": {
+        "name": "Moushtaqa",
+        "url": "https://open.spotify.com/album/3GZ6qeNYqCh7mLEUbDxz9f"
+      },
+      "artists": [
+        {
+          "name": "Aseel Hameem",
+          "url": "https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263132,
+      "name": "Moushtaqa",
+      "url": "https://open.spotify.com/track/4FpyysKYlKXHrG65ZmaK39"
+    },
+    {
+      "album": {
         "name": "MSH 3AYZAK",
         "url": "https://open.spotify.com/album/1UhM55r4MlBnSV2RYSXTkm"
       },
@@ -8852,7 +8870,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 325891,
       "name": "Warda Hamra",
       "url": "https://open.spotify.com/track/2Etq4FJfvStNpbqToz6McT"

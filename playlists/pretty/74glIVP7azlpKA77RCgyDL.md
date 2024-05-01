@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: GEL
 
-[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,536 likes - 95 songs - 5 hr 46 min
+[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,537 likes - 95 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 | 94 | [Shame and its Afterbirth](https://open.spotify.com/track/70tCzTXSThhKWtk1njrMOm) | [Vitriol](https://open.spotify.com/artist/7E4LULB8UkUOTEBbpTbLma) | [Shame and its Afterbirth](https://open.spotify.com/album/6tgUVPW5ncqIDCJGnDHh6S) | 6:43 |
 | 95 | [Paranoia](https://open.spotify.com/track/5WQOU9N0eVbFP448Mw7fhn) | [Kill Dyll](https://open.spotify.com/artist/1r5YzslA0QwyIZISgHJrU7) | [Paranoia](https://open.spotify.com/album/7be4xm8QKyrU69PnkD3XTF) | 1:30 |
 
-Snapshot ID: `MzA3NCxjZWI5NjE1ZjI5YjAwZTZjNDVjZjcyY2YwOTEwZmYxZTlmYmEyNTgy`
+Snapshot ID: `AAAMAs65YV8psA5sRc9yzwkQ/x6fuiWC`

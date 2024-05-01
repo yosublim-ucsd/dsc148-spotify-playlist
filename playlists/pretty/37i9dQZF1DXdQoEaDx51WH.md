@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQoEaDx51WH.md) - [plain]
 
 > All\-new tracks by Coke Studio Pakistan Season 14.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,757 likes - 14 songs - 1 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,770 likes - 14 songs - 1 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,4 +23,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQoEaDx51WH.md) - [plain]
 | 13 | [Tu Jhoom](https://open.spotify.com/track/0X5jMLCYWZjuXHRc1zp0G6) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl), [Naseebo Lal](https://open.spotify.com/artist/4sAweKU7CjDZ1bUEb6VF6a) | [Tu Jhoom](https://open.spotify.com/album/61yLyqdz6hdZiAHMk4Bxxi) | 6:37 |
 | 14 | [Shuru Karein](https://open.spotify.com/track/19DH8oyJuWXX8RAWS8QK0z) | [Romail Ali Khan](https://open.spotify.com/artist/1RhkYKt3R7Jv9wyunsdBQl) | [Shuru Karein](https://open.spotify.com/album/44q7Lygf65CE45WtnkaAnV) | 2:26 |
 
-Snapshot ID: `MTY4NjgzNzEzNCwwMDAwMDAwMGM4YThmNGM4NzAwMTk1MTNlYmVmNmZhZTNjYTQxMTFh`
+Snapshot ID: `ZIsXjgAAAADIqPTIcAGVE+vvb648pBEa`

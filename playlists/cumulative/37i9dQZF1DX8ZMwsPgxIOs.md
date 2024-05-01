@@ -2,7 +2,7 @@
 
 ### [Techno State](https://open.spotify.com/playlist/37i9dQZF1DX8ZMwsPgxIOs)
 
-> Techno is a state of mind\. Cover: Daniel Avery
+> Techno is a state of mind\. Cover: Eli Brown
 
 353 songs - 1 day 3 hr 27 min
 

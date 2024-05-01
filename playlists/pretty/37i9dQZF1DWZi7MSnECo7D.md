@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: Bemti
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,883 likes - 66 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,732 likes - 66 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 65 | [Terra do Nunca Mais](https://open.spotify.com/track/7Kt4Z5D10KiBFzBu1PPeAM) | [Bratislava](https://open.spotify.com/artist/3I8XI4F1zuQYD6JwRmbLbY) | [Terra do Nunca Mais](https://open.spotify.com/album/4IVbk8x030ph7yTku23iEP) | 3:30 |
 | 66 | [Horas Iguais](https://open.spotify.com/track/3Ya1g8ylZheWcFhyF5RzKM) | [Lúcio Maia](https://open.spotify.com/artist/0uu17DoK7kT8DWzO9CLA5O) | [Horas Iguais](https://open.spotify.com/album/3XATFGhrDvTibddYrjAXpJ) | 3:14 |
 
-Snapshot ID: `MTcxNDEwMDU4MCwwMDAwMDAwMGQ4ODc0M2U3ZmQwZjdhMGMxMDdhMDhjOTkxYWJlY2E0`
+Snapshot ID: `ZisZZAAAAADYh0Pn/Q96DBB6CMmRq+yk`

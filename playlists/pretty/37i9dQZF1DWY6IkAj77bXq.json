@@ -1,12 +1,12 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 70700,
+  "num_followers": 70743,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDM1MjY1OCwwMDAwMDAwMDQ1OTU4YzgyMTFjZmM5YzhjZjk3NjRiYjkyODRkOGI5",
+  "snapshot_id": "Zi7yEgAAAABFlYyCEc/JyM+XZLuShNi5",
   "tracks": [
     {
       "added_at": "2024-04-29 01:04:18",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-04-29 01:04:18",
       "album": {
-        "name": "Cloudy Texture",
-        "url": "https://open.spotify.com/album/2dd61B0M71AQOsG7bKgcRE"
-      },
-      "artists": [
-        {
-          "name": "Laura Dawson",
-          "url": "https://open.spotify.com/artist/1IM8iJAfKOjMCKp7UJGAP9"
-        }
-      ],
-      "duration_ms": 189250,
-      "name": "Placebo",
-      "url": "https://open.spotify.com/track/1a20QUimSwgqSjWYFFUF1G"
-    },
-    {
-      "added_at": "2024-04-29 01:04:18",
-      "album": {
         "name": "Gentle Nightfall",
         "url": "https://open.spotify.com/album/6ePyVnMKgYbqkFoZMwgpuB"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 178869,
       "name": "Gentle Nightfall",
       "url": "https://open.spotify.com/track/7LitEEkRqT4kkwgMlmzeik"
+    },
+    {
+      "added_at": "2024-04-29 01:04:18",
+      "album": {
+        "name": "Cloudy Texture",
+        "url": "https://open.spotify.com/album/2dd61B0M71AQOsG7bKgcRE"
+      },
+      "artists": [
+        {
+          "name": "Laura Dawson",
+          "url": "https://open.spotify.com/artist/1IM8iJAfKOjMCKp7UJGAP9"
+        }
+      ],
+      "duration_ms": 189250,
+      "name": "Placebo",
+      "url": "https://open.spotify.com/track/1a20QUimSwgqSjWYFFUF1G"
     },
     {
       "added_at": "2024-04-29 01:04:18",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-04-29 01:04:18",
       "album": {
-        "name": "A Silent Moon",
-        "url": "https://open.spotify.com/album/614CGNxEe7t1cwpRQjit8H"
-      },
-      "artists": [
-        {
-          "name": "Atmosferion",
-          "url": "https://open.spotify.com/artist/0iwtwRDn1bcb5lbOsFfoFc"
-        }
-      ],
-      "duration_ms": 188893,
-      "name": "A Silent Moon",
-      "url": "https://open.spotify.com/track/4j4ZWRfaWnFou23po51hpn"
-    },
-    {
-      "added_at": "2024-04-29 01:04:18",
-      "album": {
         "name": "Paracosm",
         "url": "https://open.spotify.com/album/4nQQetCS5JZ4wOYgdsT9Bv"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 193043,
       "name": "Paracosm",
       "url": "https://open.spotify.com/track/6pkMeMeBHzcw7pp722OMfk"
+    },
+    {
+      "added_at": "2024-04-29 01:04:18",
+      "album": {
+        "name": "A Silent Moon",
+        "url": "https://open.spotify.com/album/614CGNxEe7t1cwpRQjit8H"
+      },
+      "artists": [
+        {
+          "name": "Atmosferion",
+          "url": "https://open.spotify.com/artist/0iwtwRDn1bcb5lbOsFfoFc"
+        }
+      ],
+      "duration_ms": 188893,
+      "name": "A Silent Moon",
+      "url": "https://open.spotify.com/track/4j4ZWRfaWnFou23po51hpn"
     },
     {
       "added_at": "2024-04-29 01:04:18",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-04-29 01:04:18",
       "album": {
-        "name": "mOther World",
-        "url": "https://open.spotify.com/album/321AxcKuWjreiEDNC1P1un"
-      },
-      "artists": [
-        {
-          "name": "Mike Molloy",
-          "url": "https://open.spotify.com/artist/3FGoJUomSsiNmeAzx0ID1r"
-        }
-      ],
-      "duration_ms": 124458,
-      "name": "mOther World",
-      "url": "https://open.spotify.com/track/6lgPtFewwEd6nvvBDqilWe"
-    },
-    {
-      "added_at": "2024-04-29 01:04:18",
-      "album": {
         "name": "Oh so Quiet",
         "url": "https://open.spotify.com/album/7hA3Z4F90GoBPxsNz8DZj4"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 190666,
       "name": "Oh so Quiet",
       "url": "https://open.spotify.com/track/4VRWsEwCyHInmiS7AV0hn9"
+    },
+    {
+      "added_at": "2024-04-29 01:04:18",
+      "album": {
+        "name": "mOther World",
+        "url": "https://open.spotify.com/album/321AxcKuWjreiEDNC1P1un"
+      },
+      "artists": [
+        {
+          "name": "Mike Molloy",
+          "url": "https://open.spotify.com/artist/3FGoJUomSsiNmeAzx0ID1r"
+        }
+      ],
+      "duration_ms": 124458,
+      "name": "mOther World",
+      "url": "https://open.spotify.com/track/6lgPtFewwEd6nvvBDqilWe"
     },
     {
       "added_at": "2024-04-29 01:04:18",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2024-04-29 01:04:18",
       "album": {
+        "name": "Incorniciato",
+        "url": "https://open.spotify.com/album/1ZWLzTAIhCe71mmmy8DbWq"
+      },
+      "artists": [
+        {
+          "name": "Adelina Palm",
+          "url": "https://open.spotify.com/artist/5EUJpZPU6Oo6v9E5I21qFe"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Incorniciato",
+      "url": "https://open.spotify.com/track/4hIl75AXfZMQfyTFa5geXQ"
+    },
+    {
+      "added_at": "2024-04-29 01:04:18",
+      "album": {
         "name": "Desiderio",
         "url": "https://open.spotify.com/album/3G2m9ypP5NGaKtwkIfncuh"
       },
@@ -1451,18 +1467,18 @@
     {
       "added_at": "2024-04-29 01:04:18",
       "album": {
-        "name": "Incorniciato",
-        "url": "https://open.spotify.com/album/1ZWLzTAIhCe71mmmy8DbWq"
+        "name": "Nebulae",
+        "url": "https://open.spotify.com/album/6L1zv90N3x8xOzXASWr8jj"
       },
       "artists": [
         {
-          "name": "Adelina Palm",
-          "url": "https://open.spotify.com/artist/5EUJpZPU6Oo6v9E5I21qFe"
+          "name": "Hello Artemisia!",
+          "url": "https://open.spotify.com/artist/5A05k3XjnB2j83Vw8Iigx3"
         }
       ],
-      "duration_ms": 164571,
-      "name": "Incorniciato",
-      "url": "https://open.spotify.com/track/4hIl75AXfZMQfyTFa5geXQ"
+      "duration_ms": 189272,
+      "name": "Niobe",
+      "url": "https://open.spotify.com/track/0OEUIVHPNUXHoIgt4qxZW3"
     },
     {
       "added_at": "2024-04-29 01:04:18",
@@ -1495,22 +1511,6 @@
       "duration_ms": 238192,
       "name": "Monument",
       "url": "https://open.spotify.com/track/4Uah7cyX4bQKjb3eo0tDLp"
-    },
-    {
-      "added_at": "2024-04-29 01:04:18",
-      "album": {
-        "name": "Nebulae",
-        "url": "https://open.spotify.com/album/6L1zv90N3x8xOzXASWr8jj"
-      },
-      "artists": [
-        {
-          "name": "Hello Artemisia!",
-          "url": "https://open.spotify.com/artist/5A05k3XjnB2j83Vw8Iigx3"
-        }
-      ],
-      "duration_ms": 189272,
-      "name": "Niobe",
-      "url": "https://open.spotify.com/track/0OEUIVHPNUXHoIgt4qxZW3"
     },
     {
       "added_at": "2024-04-29 01:04:18",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2024-04-29 01:04:18",
       "album": {
-        "name": "Above All Else",
-        "url": "https://open.spotify.com/album/2uvqVzVwjdETh4Ri15e55A"
-      },
-      "artists": [
-        {
-          "name": "Sir Edmund",
-          "url": "https://open.spotify.com/artist/6rkmVXhzb4urpPOUeEnqtH"
-        }
-      ],
-      "duration_ms": 175050,
-      "name": "Above All Else",
-      "url": "https://open.spotify.com/track/70UplT5viFgy9Ul5GGXIvo"
-    },
-    {
-      "added_at": "2024-04-29 01:04:18",
-      "album": {
         "name": "Psybient (Psychedelic Ambient Music)",
         "url": "https://open.spotify.com/album/0hXQHpXhx1EupvlaZC7tvM"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 196777,
       "name": "Vivid Imagination",
       "url": "https://open.spotify.com/track/4wV6irpJa9f21iaadadfrG"
+    },
+    {
+      "added_at": "2024-04-29 01:04:18",
+      "album": {
+        "name": "Above All Else",
+        "url": "https://open.spotify.com/album/2uvqVzVwjdETh4Ri15e55A"
+      },
+      "artists": [
+        {
+          "name": "Sir Edmund",
+          "url": "https://open.spotify.com/artist/6rkmVXhzb4urpPOUeEnqtH"
+        }
+      ],
+      "duration_ms": 175050,
+      "name": "Above All Else",
+      "url": "https://open.spotify.com/track/70UplT5viFgy9Ul5GGXIvo"
     },
     {
       "added_at": "2024-04-29 01:04:18",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2024-04-29 01:04:18",
       "album": {
-        "name": "Catch the Breeze",
-        "url": "https://open.spotify.com/album/5W1mWHI2pGdchMs77OPKM6"
-      },
-      "artists": [
-        {
-          "name": "The Future Sound of XYZ",
-          "url": "https://open.spotify.com/artist/3gqmTTI15kx2XMhxdfxwyY"
-        }
-      ],
-      "duration_ms": 223994,
-      "name": "Catch the Breeze",
-      "url": "https://open.spotify.com/track/6NBmxK1yoYz7lRKM3Ecc52"
-    },
-    {
-      "added_at": "2024-04-29 01:04:18",
-      "album": {
         "name": "Eternal Moonlight",
         "url": "https://open.spotify.com/album/46bBeEuSZl2dA6Ntb6CBDK"
       },
@@ -1847,6 +1831,38 @@
       "duration_ms": 218239,
       "name": "Restful Whispers",
       "url": "https://open.spotify.com/track/6C5c20UUEJhT8tFhY3kDPe"
+    },
+    {
+      "added_at": "2024-04-29 01:04:18",
+      "album": {
+        "name": "Liberation",
+        "url": "https://open.spotify.com/album/2isUstKIlkgHwH2O1gwW2E"
+      },
+      "artists": [
+        {
+          "name": "Erlah",
+          "url": "https://open.spotify.com/artist/06tUglXC9xjsC8FN7m3gOP"
+        }
+      ],
+      "duration_ms": 196748,
+      "name": "Liberation",
+      "url": "https://open.spotify.com/track/4HyKtaIP1Lozq8Bs8JKQKa"
+    },
+    {
+      "added_at": "2024-04-29 01:04:18",
+      "album": {
+        "name": "Catch the Breeze",
+        "url": "https://open.spotify.com/album/5W1mWHI2pGdchMs77OPKM6"
+      },
+      "artists": [
+        {
+          "name": "The Future Sound of XYZ",
+          "url": "https://open.spotify.com/artist/3gqmTTI15kx2XMhxdfxwyY"
+        }
+      ],
+      "duration_ms": 223994,
+      "name": "Catch the Breeze",
+      "url": "https://open.spotify.com/track/6NBmxK1yoYz7lRKM3Ecc52"
     },
     {
       "added_at": "2024-04-29 01:04:18",
@@ -1911,22 +1927,6 @@
       "duration_ms": 178928,
       "name": "Heavenly",
       "url": "https://open.spotify.com/track/2gx4p6ukiBy7SO4qRUI5NG"
-    },
-    {
-      "added_at": "2024-04-29 01:04:18",
-      "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/589ZsN7OR27RrA5q3ltkyv"
-      },
-      "artists": [
-        {
-          "name": "Yorokobi",
-          "url": "https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC"
-        }
-      ],
-      "duration_ms": 126230,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/1XZhYDzpkGogafOyTDhZtn"
     }
   ],
   "unique_name": "Sanaci\u00f3n Profunda",

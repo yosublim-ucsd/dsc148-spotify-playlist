@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. Plastilina en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,634 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,614 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [El Duelo](https://open.spotify.com/track/3nlf4g0OB1A7M6ISaS9EVm) | [La Habitación Roja](https://open.spotify.com/artist/1PVE74Pf9ejCjOzdxlsHC6) | [El Duelo](https://open.spotify.com/album/6M6LkeliPuL5ztll8vqux9) | 4:23 |
 | 50 | [Tu Segundo Nombre \(Karma\)](https://open.spotify.com/track/3Orlfid5vxAYaz37tMHDOC) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Tu Segundo Nombre \(Karma\)](https://open.spotify.com/album/2z3VZ4Ip0z4wILXe5xurUB) | 2:49 |
 
-Snapshot ID: `MTcxNDEwMDQwMCwwMDAwMDAwMGM4MDFkOGQ0NjUyYWNiZTY5MmIwYTA0MjhkOTQ0YTFk`
+Snapshot ID: `ZisYsAAAAADIAdjUZSrL5pKwoEKNlEod`

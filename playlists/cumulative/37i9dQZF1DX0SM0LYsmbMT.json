@@ -4612,7 +4612,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 110232,
       "name": "Auro",
       "url": "https://open.spotify.com/track/5VIh5WeeOatqdcuQFSOCtC"
@@ -11508,6 +11508,24 @@
       "duration_ms": 132891,
       "name": "Catching Bugs",
       "url": "https://open.spotify.com/track/1yUnku9iBoXnF7uOruq4Cl"
+    },
+    {
+      "album": {
+        "name": "Catching Up",
+        "url": "https://open.spotify.com/album/6he0y4JvNkd4waD0Gm2BWq"
+      },
+      "artists": [
+        {
+          "name": "Aurora 10",
+          "url": "https://open.spotify.com/artist/7ztuxOIQFdrMJ8pCpopMeK"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Catching Up",
+      "url": "https://open.spotify.com/track/29mfgThswjC445STQmW3ts"
     },
     {
       "album": {

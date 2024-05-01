@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/49MqbWUSYMpxaUzog7MDqG.md) - [plain]
 
 > Chill out and relax with a moody mix of modern classics ranging from R&amp;B to Indie to Pop\. Cover: David Kushner
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 22,985 likes - 269 songs - 15 hr 46 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 22,983 likes - 269 songs - 15 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -278,4 +278,4 @@ pretty - [cumulative](/playlists/cumulative/49MqbWUSYMpxaUzog7MDqG.md) - [plain]
 | 268 | [Get It Together \- Télépopmusik Lofi Flip](https://open.spotify.com/track/0JfWDfnnfkGa30FXFnogyl) | [uChill](https://open.spotify.com/artist/7tG1DhpZCWx7wvgNqC73ce), [702](https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo), [Télépopmusik](https://open.spotify.com/artist/3aKCo8gLJfuPYtr88aWKjF) | [Get It Together \(Télépopmusik Lofi Flip\)](https://open.spotify.com/album/57mmXGq1pgO0OaLU235fzN) | 3:36 |
 | 269 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 |
 
-Snapshot ID: `MzU1MywyNjQ0NWE1MzFkYzdlY2E5ZjUxZTQzM2M0MjdhZTQ1MWEyMzliODYx`
+Snapshot ID: `AAAN4SZEWlMdx+yp9R5DPEJ65FGiObhh`

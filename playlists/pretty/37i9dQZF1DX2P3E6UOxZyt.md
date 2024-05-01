@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2024 全新陣容出列！MEET THE FUTURE 見証未來巨星！Cover: 鄒序 \(Hogan\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,194 likes - 33 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,195 likes - 33 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 32 | [3am \- Demo Ver.](https://open.spotify.com/track/7u8RM7nUKUk93CYsEp8Krr) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [3am \- Demo Ver.](https://open.spotify.com/album/2C5ob9OfPO3J5wMETcOD5R) | 2:36 |
 | 33 | [another time](https://open.spotify.com/track/4vHvm27vjR1BoaokJS16XV) | [鄒序](https://open.spotify.com/artist/7lk9vXaiJOXeKd2ms7Ohh0) | [another time](https://open.spotify.com/album/7HDHQ9hnmUjceC9AwMcvKE) | 3:30 |
 
-Snapshot ID: `MTcxNDA2MDgwMCwwMDAwMDAwMDY1ZjdhNmQ5N2RlYzQ4YTA2ZTAzYzEzMjljMTI0NWIw`
+Snapshot ID: `Zip+AAAAAABl96bZfexIoG4DwTKcEkWw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6KYoPTmN7cdEUBhbm1TJ7k.md) - [plain]
 
 > FAHRVERGNÜGEN! <a href="http://www.rammstein.com">RAMMSTEIN</a>
 
-[Rammstein](https://open.spotify.com/user/rammsteinofficial) - 3,741 likes - 11 songs - 47 min 39 sec
+[Rammstein](https://open.spotify.com/user/rammsteinofficial) - 3,742 likes - 11 songs - 47 min 39 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,4 +20,4 @@ pretty - [cumulative](/playlists/cumulative/6KYoPTmN7cdEUBhbm1TJ7k.md) - [plain]
 | 10 | [Waidmanns Heil](https://open.spotify.com/track/2qiNfSncVqWp4Do6D4a3Le) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Liebe ist für alle da \(Special Edition\)](https://open.spotify.com/album/29J0MchD0OWNeiMNbPDwfa) | 3:32 |
 | 11 | [Los](https://open.spotify.com/track/6IUhPMJf4iJQ3Go1CkHDsa) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Reise, Reise](https://open.spotify.com/album/74ydDCcXTco741y42ceRJ5) | 4:23 |
 
-Snapshot ID: `MTcsODc4MmQ3MmFlN2UxMGZhNGU2NGUzNTUzM2EzNzZiMjc4YjU3ZmJlMg==`
+Snapshot ID: `AAAAEYeC1yrn4Q+k5k41Uzo3ayeLV/vi`

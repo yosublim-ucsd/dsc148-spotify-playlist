@@ -1,12 +1,12 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: DJ Sliink",
-  "num_followers": 82400,
+  "num_followers": 82419,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDEwNDAwMCwwMDAwMDAwMGNhYzZhOThiNzFmZWMzOWQ4ZGI1ZDYwNjYwODUwNWNi",
+  "snapshot_id": "ZismwAAAAADKxqmLcf7DnY211gZghQXL",
   "tracks": [
     {
       "added_at": "2024-04-26 04:00:00",
@@ -715,6 +715,22 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
+        "name": "Vibe (If I Back It Up)",
+        "url": "https://open.spotify.com/album/6oJ0HiLrr0wWLz9IUJf4w0"
+      },
+      "artists": [
+        {
+          "name": "Cookiee Kawaii",
+          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
+        }
+      ],
+      "duration_ms": 83940,
+      "name": "Vibe (If I Back It Up)",
+      "url": "https://open.spotify.com/track/4gOgQTv9RYYFZ1uQNnlk3q"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
         "name": "K Toven",
         "url": "https://open.spotify.com/album/5vj3vuWumdZW2kOsBc9oXA"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 126581,
       "name": "K Toven",
       "url": "https://open.spotify.com/track/0iCsRcu5mugWVlCMpD7wb1"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Vibe (If I Back It Up)",
-        "url": "https://open.spotify.com/album/6oJ0HiLrr0wWLz9IUJf4w0"
-      },
-      "artists": [
-        {
-          "name": "Cookiee Kawaii",
-          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
-        }
-      ],
-      "duration_ms": 83940,
-      "name": "Vibe (If I Back It Up)",
-      "url": "https://open.spotify.com/track/4gOgQTv9RYYFZ1uQNnlk3q"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
+        "name": "HOW 2 BUILD A BETTER BOY",
+        "url": "https://open.spotify.com/album/0JmTHqE4g2KcRW3HhPVdOs"
+      },
+      "artists": [
+        {
+          "name": "Moore Kismet",
+          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+        }
+      ],
+      "duration_ms": 197895,
+      "name": "HOW 2 BUILD A BETTER BOY",
+      "url": "https://open.spotify.com/track/4y6sSlM6Jm4du7SEGhLFSW"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
         "name": "Da Girls (Dance Mix)",
         "url": "https://open.spotify.com/album/6sXiCimlYj6lHEowy0khmz"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 146400,
       "name": "Da Girls - Dance Mix",
       "url": "https://open.spotify.com/track/6tOKaJyfdulCnW70cmCUHx"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "HOW 2 BUILD A BETTER BOY",
-        "url": "https://open.spotify.com/album/0JmTHqE4g2KcRW3HhPVdOs"
-      },
-      "artists": [
-        {
-          "name": "Moore Kismet",
-          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
-        }
-      ],
-      "duration_ms": 197895,
-      "name": "HOW 2 BUILD A BETTER BOY",
-      "url": "https://open.spotify.com/track/4y6sSlM6Jm4du7SEGhLFSW"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1343,6 +1343,26 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
+        "name": "Day Ones",
+        "url": "https://open.spotify.com/album/4STghfPx4foktyWk2TCJWq"
+      },
+      "artists": [
+        {
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+        },
+        {
+          "name": "SAFE",
+          "url": "https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz"
+        }
+      ],
+      "duration_ms": 162089,
+      "name": "Day Ones",
+      "url": "https://open.spotify.com/track/77oV9hbYmMtPGmVxk6qRqp"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
         "name": "Birthday",
         "url": "https://open.spotify.com/album/3r1BJLmb0IU2HrQAVy0FXs"
       },
@@ -1363,26 +1383,6 @@
       "duration_ms": 140298,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/5sRBO1ghaklkYi0oZPe4yW"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Day Ones",
-        "url": "https://open.spotify.com/album/4STghfPx4foktyWk2TCJWq"
-      },
-      "artists": [
-        {
-          "name": "DJ Sliink",
-          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
-        },
-        {
-          "name": "SAFE",
-          "url": "https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz"
-        }
-      ],
-      "duration_ms": 162089,
-      "name": "Day Ones",
-      "url": "https://open.spotify.com/track/77oV9hbYmMtPGmVxk6qRqp"
     },
     {
       "added_at": "2024-04-26 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover: Armin van Buuren, D.O.D
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 272,135 likes - 200 songs - 10 hr 38 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 272,091 likes - 200 songs - 10 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 199 | [Suzanne's Groove](https://open.spotify.com/track/43wPkKQ5SB5xAVCPTjX6Iq) | [Smokey Bubblin' B](https://open.spotify.com/artist/1iXq8vdKgJp43m1vhiAmUM) | [Suzanne's Groove](https://open.spotify.com/album/1kCsXYg5AIsSBKrIBjvkRN) | 2:39 |
 | 200 | [Immortal](https://open.spotify.com/track/0nzVN0Ln1nnN5eSSUSmztb) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Visions, Vol\. 1](https://open.spotify.com/album/4u118aJAyUdQmQAmyTdSyb) | 3:30 |
 
-Snapshot ID: `NTM1NDYsYzY5NjRkZTdjNWM0NTExMDkxZGY4N2ZkYzhhYjcyMjc0Njg5NzAzMA==`
+Snapshot ID: `AADRKsaWTefFxFEQkd+H/circidGiXAw`

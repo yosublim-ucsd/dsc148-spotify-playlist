@@ -18,4 +18,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLq8FgDUnAg.md) - [plain]
 | 8 | [S1.E7 Talisia Misiedjan x Life Dreamers](https://open.spotify.com/episode/6OgIdb3LtUDCq0KP5JY0Yq) | [Life Dreamers ](https://open.spotify.com/show/77cvo3CV67sUwKHluaCG99) | [Life Dreamers ](https://open.spotify.com/album/77cvo3CV67sUwKHluaCG99) | 53:43 |
 | 9 | [S1.E1 Timor Steffens x Life Dreamers](https://open.spotify.com/episode/2zjXDH6Gv1l7ZCDJP4DS2L) | [Life Dreamers ](https://open.spotify.com/show/77cvo3CV67sUwKHluaCG99) | [Life Dreamers ](https://open.spotify.com/album/77cvo3CV67sUwKHluaCG99) | 1:01:46 |
 
-Snapshot ID: `MTY4NjgzNTk4NywwMDAwMDAwMGU4ZmJjYjJjNzQ2NmVlYmIzZDZkZGU3MDQyOTQ2M2I1`
+Snapshot ID: `ZIsTEwAAAADo+8ssdGbuuz1t3nBClGO1`

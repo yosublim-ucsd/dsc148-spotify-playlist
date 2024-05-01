@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7i3B1C2tQh92HbABZwzHVm.md) - [plain]
 
 > MAHLZEIT <a href="http://www.rammstein.com">RAMMSTEIN</a>
 
-[Rammstein](https://open.spotify.com/user/rammsteinofficial) - 1,914 likes - 11 songs - 44 min 7 sec
+[Rammstein](https://open.spotify.com/user/rammsteinofficial) - 1,915 likes - 11 songs - 44 min 7 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,4 +20,4 @@ pretty - [cumulative](/playlists/cumulative/7i3B1C2tQh92HbABZwzHVm.md) - [plain]
 | 10 | [Wilder Wein](https://open.spotify.com/track/0k8wzX5KxN3mM5Y0pjqRGj) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [XXI \- Klavier](https://open.spotify.com/album/6rK4qSVdrNCNnQwRCEFsw9) | 3:31 |
 | 11 | [Tier](https://open.spotify.com/track/0S2UfCA5A275xChEi9a6vU) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag) | 3:46 |
 
-Snapshot ID: `MTQsOWQxZmNjZTkwMWUwZjIwZWE2MWI0OTYxMGZjMTNmYjFiMWNjMjNmOQ==`
+Snapshot ID: `AAAADp0fzOkB4PIOphtJYQ/BP7GxzCP5`

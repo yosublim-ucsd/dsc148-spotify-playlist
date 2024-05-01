@@ -1,12 +1,12 @@
 {
   "description": "Celebrate, amplify, and support LGBTQ+ API musicians. Cover: Deb Never.",
-  "num_followers": 8698,
+  "num_followers": 8699,
   "original_name": "API Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4ODE2OTU0MCwwMDAwMDAwMGZiZjQ3ZGVmNDFmZTMzODdiYzJmMWRkZDllMTBlNTZk",
+  "snapshot_id": "ZJ9sRAAAAAD79H3vQf4zh7wvHd2eEOVt",
   "tracks": [
     {
       "added_at": "2023-06-30 23:59:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "Cry, Baby",
-        "url": "https://open.spotify.com/album/5hqZIXEQrx1qd5t85v5Rzw"
-      },
-      "artists": [
-        {
-          "name": "TRACE",
-          "url": "https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW"
-        }
-      ],
-      "duration_ms": 235630,
-      "name": "Could I Break Your Heart",
-      "url": "https://open.spotify.com/track/6CdyxDDTj4t1lH6WcRAywe"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
         "name": "out!",
         "url": "https://open.spotify.com/album/6pJwhmtkfyJ4nVsENdViPp"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 160226,
       "name": "out!",
       "url": "https://open.spotify.com/track/7BB8XTZKAuFkgQavowZUxN"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
+        "name": "Cry, Baby",
+        "url": "https://open.spotify.com/album/5hqZIXEQrx1qd5t85v5Rzw"
+      },
+      "artists": [
+        {
+          "name": "TRACE",
+          "url": "https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW"
+        }
+      ],
+      "duration_ms": 235630,
+      "name": "Could I Break Your Heart",
+      "url": "https://open.spotify.com/track/6CdyxDDTj4t1lH6WcRAywe"
     },
     {
       "added_at": "2023-06-30 23:59:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "You Matter",
-        "url": "https://open.spotify.com/album/731OCmxzYhwwkRpxbt1Onq"
-      },
-      "artists": [
-        {
-          "name": "Telly Leung",
-          "url": "https://open.spotify.com/artist/7jY4WHm9t4mWwBjg0bTB4N"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "You Matter",
-      "url": "https://open.spotify.com/track/1arOj3xVlQB9veK0piJnC4"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
         "name": "I Won't Envy 2.0",
         "url": "https://open.spotify.com/album/0JheY5BmWW4pAisFjXQHwN"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 220821,
       "name": "I Won't Envy 2.0",
       "url": "https://open.spotify.com/track/5JSf63q1rGXbCzn2HbtmpY"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
+        "name": "You Matter",
+        "url": "https://open.spotify.com/album/731OCmxzYhwwkRpxbt1Onq"
+      },
+      "artists": [
+        {
+          "name": "Telly Leung",
+          "url": "https://open.spotify.com/artist/7jY4WHm9t4mWwBjg0bTB4N"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "You Matter",
+      "url": "https://open.spotify.com/track/1arOj3xVlQB9veK0piJnC4"
     },
     {
       "added_at": "2023-06-30 23:59:00",

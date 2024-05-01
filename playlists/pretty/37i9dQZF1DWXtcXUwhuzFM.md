@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa JVG.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,306 likes - 111 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,313 likes - 111 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 110 | [New Horizons](https://open.spotify.com/track/4saLuuTipK1TVmu5sKxNBq) | [Db Mokk](https://open.spotify.com/artist/2vq15rXwss3IG5i0zF6gmb), [Lyd14](https://open.spotify.com/artist/4ExXsMNYJjGYRV02EQnvKU) | [New Horizons](https://open.spotify.com/album/1e5sxd78j8h9Cd6dGwle7f) | 4:05 |
 | 111 | [Hulluna Suhun](https://open.spotify.com/track/0fsXm61dyu3fqTmbs2Yr3h) | [Matias](https://open.spotify.com/artist/5ucze4m8WzRcBq3OQURnaq) | [Hulluna Suhun](https://open.spotify.com/album/4nncj4KquSzgZ0i1aS2ocX) | 2:52 |
 
-Snapshot ID: `MTcxNDM3MjI2MSwwMDAwMDAwMDExYzNhMWQ4ODZlZDEzM2Q4N2E0NjA0NDY1NzkzY2Fj`
+Snapshot ID: `Zi8+pQAAAAARw6HYhu0TPYekYERleTys`

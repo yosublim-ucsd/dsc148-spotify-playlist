@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: ZICO, JENNIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,461 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,589 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 79 | [Into the Fire](https://open.spotify.com/track/7MtC5CHn69OJYTzmA9fmQC) | [CHANSUNG](https://open.spotify.com/artist/0Xysc1acrmF3w8vMvmSUPW), [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh), [Changmin Lee](https://open.spotify.com/artist/4nccw03u1XLPVaMMAysdv9) | [Into the Fire](https://open.spotify.com/album/1RYTxkxZisCvw2cEDe57V6) | 3:43 |
 | 80 | [Drama](https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Drama \- The 4th Mini Album](https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs) | 3:34 |
 
-Snapshot ID: `MTcxNDEyMjAwMCwwMDAwMDAwMGQwMmM5MmY4YzJlNTQwMWRjNTgxOWY5ZTA4MDM3Y2Y1`
+Snapshot ID: `ZittEAAAAADQLJL4wuVAHcWBn54IA3z1`

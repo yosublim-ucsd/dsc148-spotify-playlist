@@ -1,12 +1,12 @@
 {
   "description": "Keep your night easy and light with this acoustic mix.",
-  "num_followers": 1246541,
+  "num_followers": 1246343,
   "original_name": "Evening Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY5Nzc3NDQwMCwwMDAwMDAwMDMxMmIxOGYxMzBjNmY4MGVlYmI0NWUyODNmMGJhY2I0",
+  "snapshot_id": "ZTH7QAAAAAAxKxjxMMb4Duu0Xig/C6y0",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Wild Parts",
-        "url": "https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam"
-      },
-      "artists": [
-        {
-          "name": "Maddie Medley",
-          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
-        }
-      ],
-      "duration_ms": 239979,
-      "name": "Wild Parts",
-      "url": "https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "All Night Pharmacy",
         "url": "https://open.spotify.com/album/7rnzB9PcNqoE3A0JrYXh3s"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 255760,
       "name": "The Dream Song",
       "url": "https://open.spotify.com/track/4VzC9UCasqtH2lMsYNyLbF"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Wild Parts",
+        "url": "https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam"
+      },
+      "artists": [
+        {
+          "name": "Maddie Medley",
+          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
+        }
+      ],
+      "duration_ms": 239979,
+      "name": "Wild Parts",
+      "url": "https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Sub Rosa",
-        "url": "https://open.spotify.com/album/208D0gsXCpr6urKKD9l4Pu"
-      },
-      "artists": [
-        {
-          "name": "Arum Rae",
-          "url": "https://open.spotify.com/artist/4aqcilLiGfXetHrTuC8DG9"
-        }
-      ],
-      "duration_ms": 244570,
-      "name": "Should I",
-      "url": "https://open.spotify.com/track/7bUDoZirLuxyxQEsLEQv6s"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Patchwork Heart",
         "url": "https://open.spotify.com/album/74fsUTkt92NugL0NSAN9Wk"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 239152,
       "name": "Patchwork Heart",
       "url": "https://open.spotify.com/track/3ZfHhFVluSjgm9CNyuRvfp"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Sub Rosa",
+        "url": "https://open.spotify.com/album/208D0gsXCpr6urKKD9l4Pu"
+      },
+      "artists": [
+        {
+          "name": "Arum Rae",
+          "url": "https://open.spotify.com/artist/4aqcilLiGfXetHrTuC8DG9"
+        }
+      ],
+      "duration_ms": 244570,
+      "name": "Should I",
+      "url": "https://open.spotify.com/track/7bUDoZirLuxyxQEsLEQv6s"
     },
     {
       "added_at": "2023-10-20 04:00:00",

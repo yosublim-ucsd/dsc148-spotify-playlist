@@ -4,7 +4,7 @@
 
 > New & best K\-Electronic music is here\. \(Cover: BÉBE YANA\)
 
-109 songs - 6 hr 26 min
+110 songs - 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Bi\-elijah](https://open.spotify.com/track/7ew0KJ2Z6d2wpoYFTriF8C) | [Y2K92](https://open.spotify.com/artist/5wXWhMZL137p0cgWaZSry9) | [The Songs for the NOT\-YETs](https://open.spotify.com/album/0bsjvYwdHUzneE7xRDHngX) | 4:47 | 2024-04-05 |  |
 | [BOOM \- Minit Remix, Bonus Track](https://open.spotify.com/track/03YS92LnXaaMSxPiz8ZEiM) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02), [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m) | [iScreaM Vol.2 : Ridin' Remixes](https://open.spotify.com/album/2hgdXJ0nks91XuWstwLwuN) | 3:17 | 2024-04-05 |  |
 | [Bring Me On](https://open.spotify.com/track/5RZVt5SZKOy6xA5ZJ9Nvzc) | [LMNTRX](https://open.spotify.com/artist/3EQhBwReP6TxlTT9z8yIjD), [CIRE](https://open.spotify.com/artist/4cqhNd5e30i06T1YWl2uiJ), [Arkins](https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH) | [Bring Me On](https://open.spotify.com/album/3HDGnj2sxPt7xkKpUGr4Jf) | 2:38 | 2024-04-05 |  |
-| [Catch Me If You Can](https://open.spotify.com/track/3pwUWPoXCyCk3s4TiAMxk3) | [Division One \(KR\)](https://open.spotify.com/artist/75J7BYbQY3qfVdQh1BMPbZ) | [Catch Me If You Can](https://open.spotify.com/album/27NAxJQBKFRNNC3mpcunGv) | 2:41 | 2024-04-05 |  |
+| [Catch Me If You Can](https://open.spotify.com/track/3pwUWPoXCyCk3s4TiAMxk3) | [Division One \(KR\)](https://open.spotify.com/artist/75J7BYbQY3qfVdQh1BMPbZ) | [Catch Me If You Can](https://open.spotify.com/album/27NAxJQBKFRNNC3mpcunGv) | 2:41 | 2024-04-05 | 2024-05-01 |
 | [CHEMISTRY \(ROMderful Remix\)](https://open.spotify.com/track/4IakLOd0LViDhdsWKQkPio) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2), [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [THE RMXS: VOL\. 1](https://open.spotify.com/album/1U9kCtpLIvR3ahateASXvW) | 3:02 | 2024-04-18 |  |
 | [Closer To The End \(with Bemo Rouge\)](https://open.spotify.com/track/6Covx7dIBduWl1I8c6fWHk) | [CREAM](https://open.spotify.com/artist/1d1dWkQxaKGW8mnZLmo4dr), [Pure 100%](https://open.spotify.com/artist/1j6Xsh5L64ZW29gJ7CIhsP), [Bemo Rouge](https://open.spotify.com/artist/08N8C1mcv3mrsKenBfITNG) | [Closer To The End \(with Bemo Rouge\)](https://open.spotify.com/album/1YHIIG6j2r81coRe1SS99e) | 2:51 | 2024-04-05 |  |
 | [Come With Me \- Dannic Edit](https://open.spotify.com/track/7qhC28InmQySEMyCDEwk46) | [Arkins](https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH), [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc) | [Click Click Bang](https://open.spotify.com/album/2u3w9ksDmQ82UJOfw8CB2j) | 3:34 | 2024-04-05 | 2024-04-19 |
@@ -90,6 +90,7 @@
 | [Phantom \- IMLAY Remix](https://open.spotify.com/track/20UwEhgJgMbdYeFfoaTqlX) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz), [IMLAY](https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2) | [iScreaM Vol.23 : Phantom Remixes](https://open.spotify.com/album/0LeX49Jo3D797EqjQZ56fB) | 3:10 | 2024-04-05 |  |
 | [Phantom \- Pierre Blanche Remix](https://open.spotify.com/track/2sqOAZK3yegHFbab4Z4479) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz), [Pierre Blanche](https://open.spotify.com/artist/7sQcLctmMlBV6eBvdcnNgo) | [iScreaM Vol.23 : Phantom Remixes](https://open.spotify.com/album/0LeX49Jo3D797EqjQZ56fB) | 4:04 | 2024-04-05 |  |
 | [Power \- Dash Berlin Remix](https://open.spotify.com/track/2ddwXrg3E3IZcXeUImlv7F) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Power \(Remixes\)](https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51) | 5:00 | 2024-04-05 |  |
+| [Power \- IMLAY Remix](https://open.spotify.com/track/3swlav6jHllgTqg04ViBB1) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Power \(Remixes\)](https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51) | 3:18 | 2024-04-18 |  |
 | [Power \- R3HAB Remix](https://open.spotify.com/track/6Xyq0b0CnpANv9XfsCohn4) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Power \(Remixes\)](https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51) | 3:21 | 2024-04-05 |  |
 | [Power \- SHAUN Remix](https://open.spotify.com/track/2fLgM0XJuxmtiwz5KrrOkn) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Power \(Remixes\)](https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51) | 4:16 | 2024-04-05 |  |
 | [Queendom \- Demicat Remix](https://open.spotify.com/track/76fqR3nf37J4WQ3K8NrXMM) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM), [Demicat](https://open.spotify.com/artist/3Geym1qRlviofLxjf1L0BK) | [iScreaM Vol.11 : Queendom Remix](https://open.spotify.com/album/7uCTBsGC6JHlwmmrOCIUBw) | 3:14 | 2024-04-05 |  |

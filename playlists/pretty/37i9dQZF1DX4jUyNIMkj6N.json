@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 201347,
+  "num_followers": 201368,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDEyMTQwMiwwMDAwMDAwMDI2MWM5M2QzODI5N2RhMjc5OGQ2ZmEwNjI1M2U5NTc3",
+  "snapshot_id": "ZitqugAAAAAmHJPTgpfaJ5jW+gYlPpV3",
   "tracks": [
     {
       "added_at": "2024-04-18 22:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "I Live After I Died",
-        "url": "https://open.spotify.com/album/5DWxhZD9yeRu7OOEXO1B6i"
-      },
-      "artists": [
-        {
-          "name": "Sofia Dragt",
-          "url": "https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv"
-        }
-      ],
-      "duration_ms": 164083,
-      "name": "I Live After I Died",
-      "url": "https://open.spotify.com/track/3U07sD3nUajfqjZp5p629l"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
         "name": "Malory",
         "url": "https://open.spotify.com/album/139qxM4hgaUdqp8UuJS3E7"
       },
@@ -643,18 +627,18 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "Viking Fair",
-        "url": "https://open.spotify.com/album/22FZK52VbGzyPtzBpBK5D4"
+        "name": "I Live After I Died",
+        "url": "https://open.spotify.com/album/5DWxhZD9yeRu7OOEXO1B6i"
       },
       "artists": [
         {
-          "name": "forfedre",
-          "url": "https://open.spotify.com/artist/56lSAnlEsyFYGXvdzXyICW"
+          "name": "Sofia Dragt",
+          "url": "https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv"
         }
       ],
-      "duration_ms": 67112,
-      "name": "Viking Fair",
-      "url": "https://open.spotify.com/track/4WDhZnRugs36yOeqdvNMAP"
+      "duration_ms": 164083,
+      "name": "I Live After I Died",
+      "url": "https://open.spotify.com/track/3U07sD3nUajfqjZp5p629l"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -691,6 +675,22 @@
       "duration_ms": 172007,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/0hDJJXO8NM86PlPZcZh2ID"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
+        "name": "Viking Fair",
+        "url": "https://open.spotify.com/album/22FZK52VbGzyPtzBpBK5D4"
+      },
+      "artists": [
+        {
+          "name": "forfedre",
+          "url": "https://open.spotify.com/artist/56lSAnlEsyFYGXvdzXyICW"
+        }
+      ],
+      "duration_ms": 67112,
+      "name": "Viking Fair",
+      "url": "https://open.spotify.com/track/4WDhZnRugs36yOeqdvNMAP"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -967,6 +967,22 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
+        "name": "v\u00e1r",
+        "url": "https://open.spotify.com/album/4Fy4CcZQ4WpfmRjfNmQMZF"
+      },
+      "artists": [
+        {
+          "name": "Fay Wildhagen",
+          "url": "https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P"
+        }
+      ],
+      "duration_ms": 231586,
+      "name": "v\u00e1r",
+      "url": "https://open.spotify.com/track/34iSLP2Qs7dH4BZqP0Bj9U"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
         "name": "Skuggor av oss",
         "url": "https://open.spotify.com/album/68Z3DsQCy4w1vTHHCB5E3x"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 189697,
       "name": "Skuggor av oss",
       "url": "https://open.spotify.com/track/7mLnXV14Oqu0H4Svh1DWvG"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
-        "name": "v\u00e1r",
-        "url": "https://open.spotify.com/album/4Fy4CcZQ4WpfmRjfNmQMZF"
-      },
-      "artists": [
-        {
-          "name": "Fay Wildhagen",
-          "url": "https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P"
-        }
-      ],
-      "duration_ms": 231586,
-      "name": "v\u00e1r",
-      "url": "https://open.spotify.com/track/34iSLP2Qs7dH4BZqP0Bj9U"
     }
   ],
   "unique_name": "Nordic Folk",

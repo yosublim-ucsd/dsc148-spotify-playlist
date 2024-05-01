@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NzmbtQKQMoPcOfesYLda8.md) - [plain]
 
 > ESSENTIALS <a href="http://www.rammstein.com">RAMMSTEIN</a>
 
-[Rammstein](https://open.spotify.com/user/rammsteinofficial) - 144,922 likes - 24 songs - 1 hr 42 min
+[Rammstein](https://open.spotify.com/user/rammsteinofficial) - 144,913 likes - 24 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/0NzmbtQKQMoPcOfesYLda8.md) - [plain]
 | 23 | [Waidmanns Heil](https://open.spotify.com/track/2qiNfSncVqWp4Do6D4a3Le) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Liebe ist für alle da \(Special Edition\)](https://open.spotify.com/album/29J0MchD0OWNeiMNbPDwfa) | 3:32 |
 | 24 | [Reise, Reise](https://open.spotify.com/track/6bvTzuFABmFnAAmVZ3nlMh) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Reise, Reise](https://open.spotify.com/album/74ydDCcXTco741y42ceRJ5) | 4:11 |
 
-Snapshot ID: `MzEyLGFmZTdhZTc1M2FkMDc0OTU0YjM0Mjk3NWE5YzdiOTU3YmM1YmRmZTM=`
+Snapshot ID: `AAABOK/nrnU60HSVSzQpdanHuVe8W9/j`

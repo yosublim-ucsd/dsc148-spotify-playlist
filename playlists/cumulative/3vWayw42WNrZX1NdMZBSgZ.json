@@ -4859,6 +4859,24 @@
     },
     {
       "album": {
+        "name": "Eres",
+        "url": "https://open.spotify.com/album/2LaaA8ZLvRJ9JUWNaZetNP"
+      },
+      "artists": [
+        {
+          "name": "Draco Rosa",
+          "url": "https://open.spotify.com/artist/4Vo7jk7sjpIFMk14dedex5"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271333,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/5LOQ20KYRzR10z9TLmtIe5"
+    },
+    {
+      "album": {
         "name": "Eres T\u00fa (Mam\u00e1)",
         "url": "https://open.spotify.com/album/1eH1Mj3U77XVcDnFtvqS3B"
       },

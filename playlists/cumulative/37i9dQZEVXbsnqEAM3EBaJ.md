@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-1,380 songs - 4 day 1 hr 3 min
+1,381 songs - 4 day 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -414,7 +414,7 @@
 | [Foxglove Through The Clearcut \- Acoustic](https://open.spotify.com/track/4EfROdTKT8NTmJg8gxgXQi) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Foxglove Through The Clearcut \(Acoustic\)](https://open.spotify.com/album/1TUrfRrI0YybA6OKkZo6lB) | 5:05 | 2023-03-03 | 2023-03-11 |
 | [Frances Farmer Will Have Her Revenge On Seattle \- Live In Los Angeles, Great Western Forum \- December 30, 1993](https://open.spotify.com/track/1KxYekYpnaLDTMtqOv1xqx) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \(30th Anniversary Super Deluxe\)](https://open.spotify.com/album/68uIz7DtgDoPUFTKxdzL9t) | 4:07 | 2023-10-27 | 2023-11-26 |
 | [Frances Farmer Will Have Her Revenge On Seattle \- Live In Seattle, Seattle Center Arena \- January 7, 1994](https://open.spotify.com/track/3N8SPI3gLlikVYJL1d7Xpn) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero 30th Live](https://open.spotify.com/album/59l8Nwhl8l7mmxiVv9Bzbk) | 3:53 | 2023-10-20 | 2023-10-29 |
-| [Frecuencias Estelares para Elevar Tu Vibración](https://open.spotify.com/track/10AF4BfNSKT1nV6imaxlEC) | [Iván Donalson](https://open.spotify.com/artist/13AiWNMLpKYo0wSPSAiBUg) | [Vibraciones Superiores](https://open.spotify.com/album/42Ed8WBO3fkq08LkjqHnI5) | 9:57 | 2024-04-19 |  |
+| [Frecuencias Estelares para Elevar Tu Vibración](https://open.spotify.com/track/10AF4BfNSKT1nV6imaxlEC) | [Iván Donalson](https://open.spotify.com/artist/13AiWNMLpKYo0wSPSAiBUg) | [Vibraciones Superiores](https://open.spotify.com/album/42Ed8WBO3fkq08LkjqHnI5) | 9:57 | 2024-04-19 | 2024-05-01 |
 | [Free To Decide \- Paris Demo](https://open.spotify.com/track/3Z4lCM5i4f6yJVwoqgSlIa) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed \(Deluxe Edition\)](https://open.spotify.com/album/0cg6OTD0VxMSAzQghLeecH) | 5:09 | 2023-09-15 | 2023-10-07 |
 | [Freefall \- M\-Project Remix \(Remodel\)](https://open.spotify.com/track/0ztkf2w6bmtzzpSs9luuOs) | [UFO](https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s) | [Freefall](https://open.spotify.com/album/1KvZxJl5SCOf7Yqc2qo7c7) | 4:15 | 2024-03-22 | 2024-04-19 |
 | [Friendly Fire](https://open.spotify.com/track/1rAzOr3zpUDRtN2zsqGHiG) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Friendly Fire](https://open.spotify.com/album/601IEigQO3enlyrbn4SpNM) | 2:56 | 2024-02-23 | 2024-03-24 |
@@ -752,6 +752,7 @@
 | [Middle Ground \(feat\. Mickey Guyton\)](https://open.spotify.com/track/3UK3ZCRxqV3FOEMnGxeFZa) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Middle Ground](https://open.spotify.com/album/2y7JhzeECTwg2pXAwtLg8p) | 3:39 | 2023-08-25 | 2023-09-10 |
 | [Midsummer's Eve \(feat\. Tina Guo\)](https://open.spotify.com/track/6NYVHxzpSsvq4vy3EweKrD) | [Kamelot](https://open.spotify.com/artist/7gTbq5nTZGQIUgjEGXQpOS), [Tina Guo](https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV) | [The Awakening](https://open.spotify.com/album/5DluQzwyljDIzV0i5XSqfE) | 4:27 | 2023-03-24 | 2023-03-31 |
 | [Migajas](https://open.spotify.com/track/3nIBgni4vxvdUuZgKcTDZU) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Migajas](https://open.spotify.com/album/78bbs8PS1CzwdnE5K8niS3) | 2:45 | 2023-05-12 | 2023-06-03 |
+| [Milagros Manifiestos e Inmediatos](https://open.spotify.com/track/7duROuHOocOtgP5hlLPNS5) | [Iván Donalson](https://open.spotify.com/artist/13AiWNMLpKYo0wSPSAiBUg) | [Vibraciones Superiores](https://open.spotify.com/album/42Ed8WBO3fkq08LkjqHnI5) | 9:57 | 2024-04-26 |  |
 | [Miracle](https://open.spotify.com/track/5BAQNOeOEhgKsOGCEqZBCv) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Miracle](https://open.spotify.com/album/7xLrIwFcJTpViGlOwrpREK) | 2:59 | 2023-10-13 | 2023-11-14 |
 | [Misery \(feat\. Atreyu\)](https://open.spotify.com/track/3PcbdPfxHNUo8LeWPEBnQT) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf), [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Misery \(feat\. Atreyu\)](https://open.spotify.com/album/0oIW9gCsZ1g3IXZcEZEPCm) | 3:12 | 2023-09-01 | 2023-09-30 |
 | [MMM Simile \- Instrumental](https://open.spotify.com/track/3TZ9ZqA9qfra8i63cpDQvZ) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [\[Hwa Sa Show Vol.3\] MMM Simile](https://open.spotify.com/album/2xPznUnpJGiaIP1QrQnYAT) | 5:25 | 2023-03-03 | 2023-03-19 |

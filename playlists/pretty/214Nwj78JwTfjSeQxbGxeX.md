@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/214Nwj78JwTfjSeQxbGxeX.md) - [plain]
 | 27 | [New Year's Eve](https://open.spotify.com/track/4AbPzgwsQSx52Zp9cwOIBB) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [Jerry Christmas](https://open.spotify.com/album/0xhPJTVviXMgXmyTbhl6WK) | 3:55 |
 | 28 | [New Year's Greetings](https://open.spotify.com/track/6IlVrmuGFjNKPlGOhR1J9J) | [The Triffids](https://open.spotify.com/artist/2kTn692duPSkqN6czSilyk) | [The Black Swan](https://open.spotify.com/album/4Nzg5wRf8goFXHeq6tK6Xz) | 5:45 |
 
-Snapshot ID: `NDcsYjZjZjg4MGM1NTBhOGEwMDgwODA1NjcxNjZiMGMxODgxZmE2MTg3Mg==`
+Snapshot ID: `AAAAL7bPiAxVCooAgIBWcWawwYgfphhy`

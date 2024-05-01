@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b vibes for your most relaxed moods\. Cover: Bryson Tiller
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,339,937 likes - 158 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,340,009 likes - 158 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 157 | [ORANGE WINE](https://open.spotify.com/track/6mvFSD5KNfWyQIsBrIRst2) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV) | [DIAMONDS & FREAKS](https://open.spotify.com/album/6do2sjAIStoojPhTMV3ETT) | 3:06 |
 | 158 | [Pull Up](https://open.spotify.com/track/4NhTEjDsRmEkvcWY1MRF9X) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 3:01 |
 
-Snapshot ID: `MTcxNDEwNDAwMCwwMDAwMDAwMGFjZDE4ZDlmYTc2N2FkMWI1M2UzMWEzNWQxOThmNTc4`
+Snapshot ID: `ZismwAAAAACs0Y2fp2etG1PjGjXRmPV4`

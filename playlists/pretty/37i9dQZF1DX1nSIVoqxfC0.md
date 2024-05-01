@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nSIVoqxfC0.md) - [plain]
 
 > <a href="spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z">Tiësto</a>'s best songs, remixes and compilations.
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,492 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,584 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nSIVoqxfC0.md) - [plain]
 | 99 | [Zero 76 \- Original Mix](https://open.spotify.com/track/49QZutJ2Cc6wcjm6elYZYd) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [Club Life \- Volume One Las Vegas \(Continuous DJ Mix\)](https://open.spotify.com/album/1Ufqq0yg7gEyRQ70ofgKXe) | 5:00 |
 | 100 | [Paradise](https://open.spotify.com/track/25QlMgHaJEpIGZEiml3u90) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dyro](https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9) | [Club Life, Vol\. 3 \- Stockholm](https://open.spotify.com/album/5pbsUGC9LpIf2r9QSfJpGZ) | 5:14 |
 
-Snapshot ID: `MTcxMjg3MjgwMCwwMDAwMDAwMDc4YTJhYmUyNjAyOTk0NjExOGU5YjJhOWQzNjZjYjg2`
+Snapshot ID: `ZhhdYAAAAAB4oqviYCmUYRjpsqnTZsuG`

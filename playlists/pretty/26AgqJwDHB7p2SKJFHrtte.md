@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/26AgqJwDHB7p2SKJFHrtte.md) - [plain]
 | 26 | [Daydreaming](https://open.spotify.com/track/1Km4GzVSGS7IUKrHEH25i1) | [Dark Dark Dark](https://open.spotify.com/artist/3UORxcctdWi6drku1qOrol) | [Wild Go](https://open.spotify.com/album/6uutsHv9uFMmGVD9z2KEgt) | 4:48 |
 | 27 | [Something Beautiful](https://open.spotify.com/track/7GuLQABAOtHgdebC50HGIl) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [Closer](https://open.spotify.com/album/6Kq1wGlsadyj4jQhjTO6CE) | 3:58 |
 
-Snapshot ID: `NTgsZDI5YmM5Y2Y0YWIzZTk5YTE1YWQ5ZTc5NTRjNTk5MTNhN2JiM2I1YQ==`
+Snapshot ID: `AAAAOtKbyc9Ks+maFa2eeVTFmROnuzta`

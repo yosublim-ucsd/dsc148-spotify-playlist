@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68l5gg4hq38.md) - [plain]
 
 > <a href="spotify:artist:3y1SoTOdrmRNTBVph5T0VZ">Laurent Garnier</a>'s favorite tracks\. Updated regularly\. Curated by Laurent Garnier\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,725 likes - 50 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,754 likes - 50 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68l5gg4hq38.md) - [plain]
 | 49 | [Clapper](https://open.spotify.com/track/0LonWxxFfxQXqeek6dEpGp) | [K\-Lone](https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU) | [Clapper](https://open.spotify.com/album/3bmOBbbqe2LkzZcQkZ1RfQ) | 6:01 |
 | 50 | [Elders](https://open.spotify.com/track/3BVeBmyFEJVvqZndA0n1GJ) | [Kloke](https://open.spotify.com/artist/2cggyYmdk2HP87tYGtw3La) | [MINDGAME 3](https://open.spotify.com/album/7JZJOPbYKIek3URthSzG9e) | 5:28 |
 
-Snapshot ID: `MTcxMzg3ODc1MiwwMDAwMDAwMDQ4ZDQ5NzI5MTk0NmNmYTAwZmY4ZmFkNjNkMzQwYzQw`
+Snapshot ID: `Zie24AAAAABI1JcpGUbPoA/4+tY9NAxA`

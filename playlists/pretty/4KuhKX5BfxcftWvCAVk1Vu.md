@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/4KuhKX5BfxcftWvCAVk1Vu.md) - [plain]
 | 67 | [Strawberries](https://open.spotify.com/track/0ESvfrHfNuAtkZp8SMJBOY) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Boys \(Side B\)](https://open.spotify.com/album/0FpgHDHjnDWxVk48Eff0wE) | 3:39 |
 | 68 | [Peach Fuzz](https://open.spotify.com/track/4eAC7BMiGocHOAnZYxWTjc) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [By and By](https://open.spotify.com/album/1wohWQ8y4RpdANgxZDa4MF) | 3:44 |
 
-Snapshot ID: `OTYsZWE3YTU0MDQ1NDA5OTFjN2U5YmJjOTdiNTZkMzJhMDFmNGE1NjJiMw==`
+Snapshot ID: `AAAAYOp6VARUCZHH6bvJe1bTKgH0pWKz`

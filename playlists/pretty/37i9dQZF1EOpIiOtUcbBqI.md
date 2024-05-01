@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOpIiOtUcbBqI.md) - [plain]
 | 20 | [Zombie](https://open.spotify.com/track/4s0dJmVknlUl7V6oK3puzZ) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us: The Demon](https://open.spotify.com/album/3JX0hnu8b55RtbtEdUSYor) | 3:29 |
 | 21 | [Day6 Talks The Book of Us: Gravity, Becoming a Band & Playing Live Instrument](https://open.spotify.com/episode/7mWhbmtOjumyYYyhEEUuVH) | [Zach Sang Show](https://open.spotify.com/show/6QRSZ1xqP5uUMgmHw3gBPL) | [Zach Sang Show](https://open.spotify.com/album/6QRSZ1xqP5uUMgmHw3gBPL) | 50:33 |
 
-Snapshot ID: `MjY3NzQ5MDYsMDAwMDAwMDAzODFjZTBiOWIzZjA3OTRmM2I4YTQ1YTM3ODhkYTdjYg==`
+Snapshot ID: `AZiNegAAAAA4HOC5s/B5TzuKRaN4jafL`

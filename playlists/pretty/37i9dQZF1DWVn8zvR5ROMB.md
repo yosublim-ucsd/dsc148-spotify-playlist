@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring MacKenzie Porter, Lee Brice featuring Nate Smith and Hailey Whitters and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,130 likes - 79 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,257 likes - 79 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 78 | [Family First](https://open.spotify.com/track/6Wwr6c7cF6xPvqTbGGBk9I) | [Eric Ethridge](https://open.spotify.com/artist/6h3SuFXFhINbYsVyIgaKLS) | [Family First](https://open.spotify.com/album/3UpphRVmpfImtobnjhFn3p) | 4:00 |
 | 79 | [Man Upstairs](https://open.spotify.com/track/0Ys0iML8dhgaZDhYu60oHM) | [Tim Dugger](https://open.spotify.com/artist/4H5rgUb0jilQ5sVsLFK4bj) | [Man Upstairs](https://open.spotify.com/album/5C8Gd9hHE6ZmXELGEB7QKK) | 3:19 |
 
-Snapshot ID: `MTcxNDEwNDAwMCwwMDAwMDAwMDUzN2YyMzcwYTI3MTc1NmY3NTU5YTM1NDQzZjk0MGM2`
+Snapshot ID: `ZismwAAAAABTfyNwonF1b3VZo1RD+UDG`

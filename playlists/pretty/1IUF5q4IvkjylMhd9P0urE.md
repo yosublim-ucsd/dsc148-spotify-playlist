@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IUF5q4IvkjylMhd9P0urE.md) - [plain]
 
 > Our favourite new music, updated monthly by the XL team.
 
-[XL Recordings](https://open.spotify.com/user/xlrecordings) - 15,665 likes - 93 songs - 5 hr 25 min
+[XL Recordings](https://open.spotify.com/user/xlrecordings) - 15,667 likes - 93 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/1IUF5q4IvkjylMhd9P0urE.md) - [plain]
 | 92 | [I Care](https://open.spotify.com/track/558xYpvwBcoM9JmJEuYXfT) | [Fabiana Palladino](https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P), [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [I Care](https://open.spotify.com/album/7kP2k3n4sb0iYbRVE918tY) | 4:18 |
 | 93 | [The Window](https://open.spotify.com/track/5sf9YLJBGMTrCBEpUZOwrc) | [Ruthven](https://open.spotify.com/artist/2FxdltjRC96gWJ7tMUadnz) | [The Window](https://open.spotify.com/album/440GQ9ihDk0JBKq944vsvw) | 4:17 |
 
-Snapshot ID: `NjI3MixjOTkwOTJhZDlkN2Q2ODkwNzBmMjVmYjJhOGZhNDBlZTEzZjE4NGVh`
+Snapshot ID: `AAAYgMmQkq2dfWiQcPJfsqj6QO4T8YTq`

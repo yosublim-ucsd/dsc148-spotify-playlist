@@ -19,4 +19,4 @@ pretty - [cumulative](/playlists/cumulative/4nGMejqlEJh82huRHZ19cE.md) - [plain]
 | 9 | [Dynamite](https://open.spotify.com/track/0kST1BXkSUTaNauJrXimM6) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Dynamite](https://open.spotify.com/album/5cwRGLMYSP0n5ypCCJn2Wy) | 3:23 |
 | 10 | [Livin' On A Prayer](https://open.spotify.com/track/3X7abqSXC4xrxuC1ykpWcY) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Bon Jovi Greatest Hits](https://open.spotify.com/album/3Ad4QdO0EJr1c2livr9cmm) | 4:10 |
 
-Snapshot ID: `NSxkNmJiODRkZDhiMmM3ODA1MDFkN2IxMTgxZDJlNTE1ODI1MjQ3MGEx`
+Snapshot ID: `AAAABda7hN2LLHgFAdexGB0uUVglJHCh`

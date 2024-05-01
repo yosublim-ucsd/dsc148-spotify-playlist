@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Normani, Myke Towers, Teddy Swims, Laufey and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,158,603 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,158,494 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Stay Awhile \(feat\. Ari Lennox\)](https://open.spotify.com/track/0AXquxdT6Twsrc0qIYXbJd) | [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Stay Awhile](https://open.spotify.com/album/0tfkIiHMLsE0aJTR38Yq6i) | 4:00 |
 | 100 | [Vitamins](https://open.spotify.com/track/2fLDKaSvow0ciPW60ibLil) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Vitamins](https://open.spotify.com/album/7i9RLUQeVGAyonCjKDrP12) | 2:32 |
 
-Snapshot ID: `MTcxNDEwNDQ0OCwwMDAwMDAwMDlmM2RmMjU3N2E0MzRkYTNkNTBjNzJjZWI1NzA2ZWU2`
+Snapshot ID: `ZisogAAAAACfPfJXekNNo9UMcs61cG7m`

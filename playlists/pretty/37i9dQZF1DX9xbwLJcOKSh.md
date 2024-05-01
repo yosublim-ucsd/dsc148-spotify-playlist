@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 
 > 作曲、編曲、プロデュースワークを中心に活動。ジャンルを超えた表現で三木鶏郎広告音楽賞等、数々のアワードを受賞。
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,890 likes - 72 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,895 likes - 72 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 | 71 | [ランカとボビーのSMS小隊の歌](https://open.spotify.com/track/1FbziiIJNJIRJLJD0oOUEk) | [ランカ・リー with ボビー・マルゴ](https://open.spotify.com/artist/1HDrVcFaTLJZOCy0OTpcuN) | [「マクロスF」ランカとボビーのSMS小隊の歌 など。](https://open.spotify.com/album/79YQDWWXD3zzLwXUSS71ky) | 1:00 |
 | 72 | [おてもやん](https://open.spotify.com/track/19kZmy3DQQxLbsHdAot5I6) | [Sayuri Ishikawa](https://open.spotify.com/artist/1tYbvS6Nkq4Rxvx8ZRTzJP) | [民 ～Tami～](https://open.spotify.com/album/7fOVjAaS7rqZFoVpyr6wZK) | 3:36 |
 
-Snapshot ID: `MTY5NjUyMjgzOCwwMDAwMDAwMDUwMWU1ZGFhYWVkNDI2YWJiNjhmYjhkYmI2YmNmN2Mz`
+Snapshot ID: `ZR7iVgAAAABQHl2qrtQmq7aPuNu2vPfD`

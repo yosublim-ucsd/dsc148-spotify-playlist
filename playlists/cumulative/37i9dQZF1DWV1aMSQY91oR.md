@@ -4,7 +4,7 @@
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: JT
 
-2,176 songs - 4 day 8 hr 55 min
+2,177 songs - 4 day 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [4 Sho](https://open.spotify.com/track/4Bq7zzEFrI79hzIFqN4KUm) | [LUM](https://open.spotify.com/artist/1bY66d1Rv5q5KMJYP1lIQd), [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [4 Sho](https://open.spotify.com/album/54yng3O1nadb0F3pYDM3vU) | 2:45 | 2023-09-29 | 2023-10-07 |
 | [4 X 4](https://open.spotify.com/track/6aLWXhxqvUFMK1jQg4PYoV) | [Blasian Baddie](https://open.spotify.com/artist/3oSZai3UjeOWTzeDGXnlU3), [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV) | [4 X 4](https://open.spotify.com/album/1xmgCv1s493rz6BDoMYwun) | 2:28 | 2023-04-28 | 2023-05-06 |
 | [410](https://open.spotify.com/track/0R1AZYXc34nfMaiengrkRc) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [Offgrid](https://open.spotify.com/artist/7F8zSmymsU25wRm0x7R05Y) | [410](https://open.spotify.com/album/0kUrdWYhWYGz71c0jaGnJe) | 3:54 | 2024-04-12 | 2024-04-27 |
-| [44ever](https://open.spotify.com/track/40DarBiyfVPEC6OQid9jv6) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [44ever](https://open.spotify.com/album/3l1waWo8qk4IVtyuzKD4bx) | 1:55 | 2024-04-19 |  |
+| [44ever](https://open.spotify.com/track/40DarBiyfVPEC6OQid9jv6) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [44ever](https://open.spotify.com/album/3l1waWo8qk4IVtyuzKD4bx) | 1:55 | 2024-04-19 | 2024-05-01 |
 | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx) | 3:10 | 2023-04-07 | 2023-04-15 |
 | [4th Quarter](https://open.spotify.com/track/3lwxlvXfLP6rrBfbIzedk8) | [PARIS.](https://open.spotify.com/artist/5emuVqKy5SWNqFfvvnCxqE) | [4th Quarter](https://open.spotify.com/album/36p4WkVI7ibTNqOnzph6sy) | 2:32 | 2024-04-05 | 2024-04-13 |
 | [50/50](https://open.spotify.com/track/1DwW4mn2dVLJxGJzdvAcls) | [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki) | [50/50](https://open.spotify.com/album/1Fv4D4aMB6GPfOTDe4Gh0F) | 1:40 | 2024-02-16 | 2024-02-24 |
@@ -561,6 +561,7 @@
 | [ETA \(feat\. Luciano\)](https://open.spotify.com/track/422qTU33m36TliSm27uONY) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [DO NOT DISTURB](https://open.spotify.com/album/45wG3jFqzHeQIX8QsXJO5e) | 2:40 | 2024-03-15 | 2024-03-23 |
 | [Eternals](https://open.spotify.com/track/1n5aEuSLaByu7aNpLAiWkI) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [Eternals](https://open.spotify.com/album/4vU0Hm7nknq0zK0nPgGWi0) | 2:27 | 2023-05-05 | 2023-05-13 |
 | [Eulogy](https://open.spotify.com/track/7xJWGfDc84YaMb50OzNRnP) | [Keysha Freshh](https://open.spotify.com/artist/5dOPo7YOqsRrH0cqw8ol3u) | [Eulogy](https://open.spotify.com/album/14Ewo2Sl4sBze2RTuC6FKf) | 3:16 | 2023-10-06 | 2023-10-14 |
+| [euphoria](https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [euphoria](https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN) | 6:23 | 2024-04-30 |  |
 | [Eurostar \(feat\. Central Cee\)](https://open.spotify.com/track/3Iy4j2lCqW8BXGkFk21U6F) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 3:07 | 2023-06-30 | 2023-07-15 |
 | [Even Steven](https://open.spotify.com/track/5ALq8ehwN3lfquhL3nwJy0) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H) | [Even Steven](https://open.spotify.com/album/1KfHS5NmM3wpmHhwVUZE9W) | 3:24 | 2023-05-12 | 2023-05-20 |
 | [EVERY BIG THING](https://open.spotify.com/track/7lZevODXZBcDRKTXSgYk2Q) | [Devontée](https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d) | [EVERY BIG THING](https://open.spotify.com/album/4ud1e53Hkis6wTzmwjXp4q) | 2:51 | 2023-06-09 | 2023-06-17 |

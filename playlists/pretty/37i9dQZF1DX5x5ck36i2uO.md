@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,727 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,732 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 49 | [Flowers \(feat.Justhis\)](https://open.spotify.com/track/1S1nLBl7wUQUfIF9tfSEMR) | [Mad Clown](https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Piece of mine](https://open.spotify.com/album/3UJRHoUkXc5Gt1Ej6qMwJ4) | 3:55 |
 | 50 | [Bon Voyage \(feat\. Chanju\)](https://open.spotify.com/track/2MCAPrrP862gcn7b2S4rQc) | [J'Kyun](https://open.spotify.com/artist/0WIKW2eVuPbK5vQ0AIDtMQ), [Marco](https://open.spotify.com/artist/2ICc0GizInje0MEB4tSJCh), [chanju](https://open.spotify.com/artist/2te4fM51pD1aQhRF0uDFp0) | [Bon Voyage](https://open.spotify.com/album/35uNZ0fDncQPGEhDSdB7Av) | 3:11 |
 
-Snapshot ID: `MTcxMjMwOTQzNCwwMDAwMDAwMGYwZmJkZDdiMGQyNGE1NjliNTlhYmJiZWM0ODE0MGY5`
+Snapshot ID: `Zg/EugAAAADw+917DSSlabWau77EgUD5`

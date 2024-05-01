@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Rayvanny, Iyanya, Ziibeats, Zaba
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,593 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,658 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 74 | [Down](https://open.spotify.com/track/0M9O5WAGgXg6S7f2WjU3dD) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [ZiiBeats](https://open.spotify.com/artist/1u5KBiGGlipkOJL7DQPLM4) | [Down](https://open.spotify.com/album/2nRCzZ8OwYBgSmjcF8wYbY) | 2:42 |
 | 75 | [Ndembe Ndembe](https://open.spotify.com/track/6j2HEYoVmkqzyaAqs6sopH) | [Bytar Beast](https://open.spotify.com/artist/5uCIQxTHZlW51VhsXAZ6P4), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Jaivah](https://open.spotify.com/artist/6MKLtjYnjCD7u87mPsvJo3) | [Ndembe Ndembe](https://open.spotify.com/album/6D8BUghs6xR4dnjD2Mjbcq) | 4:02 |
 
-Snapshot ID: `MTcxNDA4OTU0MCwwMDAwMDAwMDFhMTJkY2FiYzEwYmEwOWI0MDQ3M2ZmYmY5ZGY1YmU2`
+Snapshot ID: `ZiruRAAAAAAaEtyrwQugm0BHP/v531vm`

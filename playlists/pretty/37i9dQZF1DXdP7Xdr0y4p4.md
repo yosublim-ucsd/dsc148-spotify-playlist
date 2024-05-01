@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 
 > An essential list of recent hits of SoGo\.  Cover:  <a href="https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA">The Browns</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,739 likes - 80 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,753 likes - 80 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 | 17 | [Matchless \(feat\. Point Of Grace\)](https://open.spotify.com/track/1iiheCt1EQk8br6NV3f7Y1) | [Tiffany Coburn](https://open.spotify.com/artist/7G6drNZysjZcTxmpTo2vGt), [Point Of Grace](https://open.spotify.com/artist/5y1gFSVnE4DGxUxHeKrGk6) | [You Are More](https://open.spotify.com/album/0HpHgwxC0aBokDhE018SUO) | 3:28 |
 | 18 | [Plenty Good Room](https://open.spotify.com/track/06aouHeZQx45YdKPCnxgt6) | [Lynda Randle](https://open.spotify.com/artist/5WWuo8k0komiDBmtec6gHI) | [Plenty Good Room](https://open.spotify.com/album/5YRDhVX5npZe6l8s8NcKyA) | 3:57 |
 | 19 | [Great Is His Faithfulness](https://open.spotify.com/track/5DQ1iZR8EKRFezKYiRxYaA) | [The Collingsworth Family](https://open.spotify.com/artist/4B43yyRlfQgDEhDPq35wUc), [Olivia Collingsworth](https://open.spotify.com/artist/0Kp8BEwvYuGMcuKu5aEuCC) | [Great Is His Faithfulness](https://open.spotify.com/album/7HfV6ry5U4qHaQlq6lSfzt) | 4:48 |
-| 20 | [How Great Thou Art](https://open.spotify.com/track/51SwrmMlPDLYWsBD62rXb6) | [John Berry](https://open.spotify.com/artist/0l5OmkXhNcXtfa1W9dTon6) | [How Great Thou Art](https://open.spotify.com/album/6MzRNdhppIWTDn8DvZZLwU) | 3:30 |
-| 21 | [Wake Up](https://open.spotify.com/track/1psN7GabVAeaBo0lTaDNUM) | [Ernie Haase & Signature Sound](https://open.spotify.com/artist/3Qp9Qtdb5G8QYHWfe5qxi0) | [Wake Up](https://open.spotify.com/album/2YUHflr83aTEzmqzpAWH57) | 3:38 |
+| 20 | [Wake Up](https://open.spotify.com/track/1psN7GabVAeaBo0lTaDNUM) | [Ernie Haase & Signature Sound](https://open.spotify.com/artist/3Qp9Qtdb5G8QYHWfe5qxi0) | [Wake Up](https://open.spotify.com/album/2YUHflr83aTEzmqzpAWH57) | 3:38 |
+| 21 | [How Great Thou Art](https://open.spotify.com/track/51SwrmMlPDLYWsBD62rXb6) | [John Berry](https://open.spotify.com/artist/0l5OmkXhNcXtfa1W9dTon6) | [How Great Thou Art](https://open.spotify.com/album/6MzRNdhppIWTDn8DvZZLwU) | 3:30 |
 | 22 | [Good in the Good Times](https://open.spotify.com/track/6m6CBaVU3KKztFkmz28m1I) | [Down East Boys](https://open.spotify.com/artist/0Zg0qh2ZQsBDm68196Ofln) | [The Stories We Tell](https://open.spotify.com/album/4GJxoLRAleQBeEb6CSR2oI) | 3:01 |
 | 23 | [Give Me Jesus](https://open.spotify.com/track/1A0hWOgHJZhfmU0Jz27XsB) | [Lynda Randle](https://open.spotify.com/artist/5WWuo8k0komiDBmtec6gHI), [Kimberly Schlapman](https://open.spotify.com/artist/7ySCRbA1659u0QQUsDekoI) | [Give Me Jesus](https://open.spotify.com/album/2AWZoRFVr5aZTl374dbufg) | 3:17 |
 | 24 | [Future Glory](https://open.spotify.com/track/7GQc1aEfq2S1OLeDKsUPKr) | [Karen Peck & New River](https://open.spotify.com/artist/7F1556VoxW6M06EOc2AnA5) | [2: 22](https://open.spotify.com/album/1ZNaOaKQont8Mh7nIZlDN7) | 3:14 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 | 79 | [The Broken Ones](https://open.spotify.com/track/4Efe7Jg9SAHOIh3fuXHbtF) | [The Talleys](https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC) | [Stages](https://open.spotify.com/album/02FDhQ9v3H9QSGrs4WjFzf) | 3:39 |
 | 80 | [Bloodline](https://open.spotify.com/track/3U2JjBaBY7ZktpsJqSAQSr) | [11th Hour](https://open.spotify.com/artist/1HtIwustFdmwPcgO3IuShY) | [Steppin' Out](https://open.spotify.com/album/3NFSXzJ9OzpDryjlgDHBdP) | 3:15 |
 
-Snapshot ID: `MTY4NjkyMDMyOSwwMDAwMDAwMDQ2ZTEzNjY2MzY5YTI0YTMyNDMzNWU3NGVlOGJiNzRi`
+Snapshot ID: `ZIxciQAAAABG4TZmNpokoyQzXnTui7dL`

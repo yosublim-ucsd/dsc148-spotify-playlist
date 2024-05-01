@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 
 > <a href="spotify:artist:0bGDTQ78MVgI5Snqo9KJZw">Qrion</a>'s favorite tracks\. Updated regularly\. Curated by Qrion\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,661 likes - 80 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,656 likes - 80 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 | 79 | [Echo](https://open.spotify.com/track/32fmwlkq7srmOAb5N0vdyj) | [RSCL](https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3), [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY), [Julia Kleijn](https://open.spotify.com/artist/6iOYJDZYumYVmzxPbyfg5W) | [Echo](https://open.spotify.com/album/3oVQAqfrzIg4S5pF74au4x) | 2:14 |
 | 80 | [Your Intent \- Live from The Poetry Club, Glasgow](https://open.spotify.com/track/2uIOAcbBXOqQoulrbiHCD5) | [Jordin Post](https://open.spotify.com/artist/0bXDktUgihGHdyqpwF86TG) | [Anjunabeats Worldwide 11 \(Live from The Poetry Club, Glasgow\)](https://open.spotify.com/album/1qbJD6oNvNagngK3QHIKKS) | 4:34 |
 
-Snapshot ID: `MTcxNDE0MzYwMCwwMDAwMDAwMGRkNDNjY2VjYWJmMzFmMmFjYTczMGM3YTYwMzE4ZDBm`
+Snapshot ID: `ZivBcAAAAADdQ8zsq/MfKspzDHpgMY0P`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 
 > Funky & groovy tunes for poolside chilling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,862 likes - 165 songs - 9 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,895 likes - 165 songs - 9 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 164 | [Hard to Get](https://open.spotify.com/track/5y8AZ1jWdnPHrQoyhswqFw) | [Thomas Ford](https://open.spotify.com/artist/4prjwjwLedf54KWAs54ErF) | [Hard to Get](https://open.spotify.com/album/4TTi9VEk5HZmsnsywsOIuQ) | 3:03 |
 | 165 | [Drowning in Your Love \- Gold Edit](https://open.spotify.com/track/2wi5SH9O2HrLIZpivx4xzE) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7), [Kartell](https://open.spotify.com/artist/3E4UsjXgFv2GdwshMkkJze) | [Drowning in Your Love \(Gold Edit\)](https://open.spotify.com/album/3cSZQigbAfpOfBcaDRaFaF) | 3:47 |
 
-Snapshot ID: `MTcxNDA4MjQ2MCwwMDAwMDAwMGZhNDZlOTk5NWI5M2QxNGJhNTA4NjBlNDEyYjM0ZjZj`
+Snapshot ID: `ZirSnAAAAAD6RumZW5PRS6UIYOQSs09s`

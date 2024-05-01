@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Hozier
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,480 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,474 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [The Weeping](https://open.spotify.com/track/2PwSwr3KmNRdI4RLnMBxyB) | [Bess Atwell](https://open.spotify.com/artist/6Pim5E5Lm03COsjHj2aEiK) | [The Weeping](https://open.spotify.com/album/6EMlBxT1YwUbDS06D4LUvV) | 5:08 |
 | 100 | [Sometimes the Darts Hit the Wall](https://open.spotify.com/track/2NOIMtgcRNmQ2n93ZbyukF) | [Noah Derksen](https://open.spotify.com/artist/31wEHfLGUKIlJAayR6K936) | [Nothing Lasts Forever \(B\-Sides\)](https://open.spotify.com/album/3RtPgB29r2QpPfK5L6H00j) | 3:43 |
 
-Snapshot ID: `MTcxNDEwNDAwMCwwMDAwMDAwMGQ0Y2FlYTJkMDA5Y2I1YmIyZDQwZTc3YjBhNjYwOThm`
+Snapshot ID: `ZismwAAAAADUyuotAJy1uy1A53sKZgmP`

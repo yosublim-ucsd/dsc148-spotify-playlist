@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7yza99mVQaqnk4Hqs4T3kq.md) - [plain]
 
 > Companion playlist for the Metallica documentaries.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,869 likes - 30 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,872 likes - 30 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/7yza99mVQaqnk4Hqs4T3kq.md) - [plain]
 | 29 | [Night Of The Blade](https://open.spotify.com/track/5zsiVdb0xIZaShQj6klzBA) | [Tokyo Blade](https://open.spotify.com/artist/6F9tjDKhGtXlm9M4s30KD5) | [Night Of The Blade](https://open.spotify.com/album/5IzEuqTBnUA3DTU41G1VQc) | 4:04 |
 | 30 | [Call of the Dark Ones](https://open.spotify.com/track/3eXgAsug7GIYYET25z1utZ) | [Cloven Hoof](https://open.spotify.com/artist/3OD7fkHK24rI5G6yoaHzmw) | [Resist or Serve](https://open.spotify.com/album/5wtlQI6lePfe0icGiAMniy) | 4:11 |
 
-Snapshot ID: `NDksNjEwNTczNGMxODZkOGYzYzQ1MzA0YzAyODYzMzhlZTM0Mzc0NzU0YQ==`
+Snapshot ID: `AAAAMWEFc0wYbY88RTBMAoYzjuNDdHVK`

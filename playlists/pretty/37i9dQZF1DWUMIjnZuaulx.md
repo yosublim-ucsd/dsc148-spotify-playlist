@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover: <a href="spotify:artist:03qM4LmPCrR7CuHTE0WAIW">CeCe Winans</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,962 likes - 100 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,071 likes - 100 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 99 | [Something Good \- Live](https://open.spotify.com/track/4lde92LAgTpa5SSWhQa8me) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj), [Revival Today Worship](https://open.spotify.com/artist/3VoLng4VXiHIKe4MnsnDf1) | [Something Good \(Live\)](https://open.spotify.com/album/2EswB7liAxLfbUC0yZDR8J) | 6:34 |
 | 100 | [Sing Hallelujah \(with Natalie Grant\) \- Live](https://open.spotify.com/track/0LPrib5LGVzGhnrM6J8kl9) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Cover The Earth \(Live In New York\)](https://open.spotify.com/album/0n1rSUSza9mlKU1g6xD9l9) | 8:24 |
 
-Snapshot ID: `MTcxNDEwNDA2MCwwMDAwMDAwMDhkYTljNDBhN2Y2NWIxNGMwYzQ5ZDQyODZhZTlkZjMw`
+Snapshot ID: `Zism/AAAAACNqcQKf2WxTAxJ1Chq6d8w`

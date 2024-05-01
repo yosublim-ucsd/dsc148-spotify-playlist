@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 
 > Lo nuevo y lo más destacado de la electrónica nacional\. Portada: Mariano Mellino
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,307 likes - 87 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,318 likes - 87 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 | 86 | [Falling Down](https://open.spotify.com/track/2FWJrwpwtUQUG6vT2mi9Cf) | [8Kays](https://open.spotify.com/artist/6VJ8RuUWKIgm5p5uEvZCfQ), [Juan Hansen](https://open.spotify.com/artist/1ZFLYus27fzqEV3d6RBrxo) | [Falling Down EP](https://open.spotify.com/album/7kiNRVQrP22zuJOf6I3N81) | 4:08 |
 | 87 | [Meeting Point \- D\-Nox Remix](https://open.spotify.com/track/4g53k0FrUSwpvLATYB30zU) | [Antrim](https://open.spotify.com/artist/271h29FBgospHlk0pFn8fS), [D\-Nox](https://open.spotify.com/artist/1TqcQwnBqloJrKkGs4l4LT) | [Meeting Point \(D\-Nox Remix\)](https://open.spotify.com/album/7IhMRflcXPZYJNfS5QjdHH) | 3:44 |
 
-Snapshot ID: `MTcxNDEwMDQwMCwwMDAwMDAwMDBjNzVmZTBiOTExMzZlYWEzN2RjNzQzNTg1NmVmY2M0`
+Snapshot ID: `ZisYsAAAAAAMdf4LkRNuqjfcdDWFbvzE`

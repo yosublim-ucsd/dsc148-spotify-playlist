@@ -19,4 +19,4 @@ pretty - [cumulative](/playlists/cumulative/4lwqQxljF1Rge3X4eMzdza.md) - [plain]
 | 9 | [The Spiteful Chant](https://open.spotify.com/track/12bCgkFnyyTI8B1OmmRhbx) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Section.80](https://open.spotify.com/album/13WjgUEEAQp0d9JqojlWp1) | 5:20 |
 | 10 | [Money Trees](https://open.spotify.com/track/0UtnpKaReKUg2GquaSxCyD) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/748dZDqSZy6aPXKcI9H80u) | 6:26 |
 
-Snapshot ID: `MTQsMTM3MzFlNDAyMDJmNTdkYjNhNzRlNTdkOGNiYWEyMGM1ZmMwNThhYw==`
+Snapshot ID: `AAAADhNzHkAgL1fbOnTlfYy6ogxfwFis`

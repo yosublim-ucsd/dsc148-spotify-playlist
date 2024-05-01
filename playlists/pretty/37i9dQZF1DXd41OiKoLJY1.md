@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Kat Jaranilla\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,471 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,463 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 99 | [Sugal](https://open.spotify.com/track/5XGN5ak6S9M43xEQonNnvy) | [RCHRD](https://open.spotify.com/artist/3XEPhTiqZhOcAyueu5DlmO) | [Sugal](https://open.spotify.com/album/5FMtsjJq9BYUZjVYI4GBWG) | 3:27 |
 | 100 | [OPN Freestyle](https://open.spotify.com/track/6TNNps3sXhlAv1YbJMXf35) | [kirko wip](https://open.spotify.com/artist/3NROsMbidZWr6aE34HpFSp) | [OPN Freestyle](https://open.spotify.com/album/4OZZs5wmlLfmWiMk1yoRHf) | 1:32 |
 
-Snapshot ID: `MTcxNDA2MDgyNSwwMDAwMDAwMDIxZDE2ZDc2Mzc2ODQ2OWVhN2Q5NzIzMWNkZDYyZmJi`
+Snapshot ID: `Zip+GQAAAAAh0W12N2hGnqfZcjHN1i+7`

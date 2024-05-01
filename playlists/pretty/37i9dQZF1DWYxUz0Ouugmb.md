@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 
 > Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Jasmine Nadya
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,276 likes - 27 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,253 likes - 27 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 | 26 | [Bodoh](https://open.spotify.com/track/3sC5zNoeqCirdTFtuvpJ0D) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Bodoh](https://open.spotify.com/album/0W6CtBfGyNGW7fwiUwL81Z) | 4:08 |
 | 27 | [CAN I](https://open.spotify.com/track/7CX5DuU2TbX3eA0PFGysr7) | [Abeliano](https://open.spotify.com/artist/5MVMpQxOa7Ax5ps1J6E2uE) | [CAN I](https://open.spotify.com/album/3yRgWoSiDOQQZmieXeXL75) | 3:46 |
 
-Snapshot ID: `MTcxNDA2NTQ5MSwwMDAwMDAwMDEwYWE5Nzc2M2UyZjgyMzg2MWIxNDE1NWZkMGQ2ZjUz`
+Snapshot ID: `ZiqQUwAAAAAQqpd2Pi+COGGxQVX9DW9T`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6uXTkT8st0AzDKBGr4Rqdo.md) - [plain]
 
 > 
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 9,641 likes - 29 songs - 1 hr 30 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 9,640 likes - 29 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/6uXTkT8st0AzDKBGr4Rqdo.md) - [plain]
 | 28 | [Murder On The Dancefloor \- David Guetta Remix](https://open.spotify.com/track/3g5KZyz7LmG7xsAe6c4O5b) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Murder On The Dancefloor \(David Guetta Remix\)](https://open.spotify.com/album/3WqgCHY7LbKrnsM1PXm5Sk) | 2:54 |
 | 29 | [Let Me Calm Down \(feat\. J\. Cole\) \- Extended Version](https://open.spotify.com/track/0HNZ08vNP0aFR1GsihiV3l) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Let Me Calm Down \(Extended Version\)](https://open.spotify.com/album/5neOV0Pp5J3MY05E6oyaI5) | 4:19 |
 
-Snapshot ID: `MTExOSxjZjMyZTEyNzFjNTViNDU3NjJhMGZkMGNjYTM5NDliZjI0NDIxZTli`
+Snapshot ID: `AAAEX88y4SccVbRXYqD9DMo5Sb8kQh6b`

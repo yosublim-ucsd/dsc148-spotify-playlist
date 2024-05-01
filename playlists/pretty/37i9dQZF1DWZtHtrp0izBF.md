@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtHtrp0izBF.md) - [plain]
 
 > 1\-2\-3, 5\-6\-7, now you're dancing salsa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,804 likes - 50 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,893 likes - 50 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtHtrp0izBF.md) - [plain]
 | 49 | [Conteo Regresivo \- Salsa Version](https://open.spotify.com/track/5YfqVqJwjxiyhxvofbCnHp) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Contraste En Salsa](https://open.spotify.com/album/0GxUdSpTj1PeJlqq0knC5I) | 4:26 |
 | 50 | [Sobredosis](https://open.spotify.com/track/5WNfNohnH5zSjz9odihLM9) | [Alberto Barros](https://open.spotify.com/artist/33ZuRLa8CHXZVPJXdQCcul) | [Tributo a La Salsa Colombiana](https://open.spotify.com/album/49m397xV5kOZlernc0Iq2d) | 4:07 |
 
-Snapshot ID: `MTcxMDg1OTM5NywwMDAwMDAwMDg3NTRhOTc2ZmU5NWNhOGVlYThjNzFmNTUzYTQxZWEw`
+Snapshot ID: `ZfmkhQAAAACHVKl2/pXKjuqMcfVTpB6g`

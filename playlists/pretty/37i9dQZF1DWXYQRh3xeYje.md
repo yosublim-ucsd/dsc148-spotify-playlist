@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYQRh3xeYje.md) - [plain]
 
 > Early Noise 2020選出アーティストVaundyの楽曲を1つのプレイリストで。All the essentials from Early Noise \(RADAR\) 2020 artist, Vaundy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,407 likes - 59 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,447 likes - 59 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYQRh3xeYje.md) - [plain]
 | 58 | [Modern Loneliness \- Vaundy Remix](https://open.spotify.com/track/1wHdWpoAQA8BfYpDSpz309) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [\~how i'm feeling\~ \(the extras\)](https://open.spotify.com/album/1J2s2YBN58niYSzgkvCIM7) | 3:30 |
 | 59 | [ASH feat\. Vaundy](https://open.spotify.com/track/6DqmRsI9FxY5OR6yFo3QR1) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD), [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [ASH feat\. Vaundy](https://open.spotify.com/album/3HXFZKcgK3kvQISiCQ3QCx) | 3:48 |
 
-Snapshot ID: `MTcwOTA0NjAwMCwwMDAwMDAwMDJlYzQyYjlkYjc2OGY3YjdjNzkwMDE3ODc5NWQ3YjE0`
+Snapshot ID: `Zd348AAAAAAuxCudt2j3t8eQAXh5XXsU`

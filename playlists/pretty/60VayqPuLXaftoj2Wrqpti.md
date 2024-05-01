@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 
 > Explore this week's new additions to KEXP's rotation! You can tune in 24/7 to independent, listener powered KEXP through our website and mobile apps\. Learn more and join our community <a href="https://www.kexp.org/">HERE</a>.
 
-[KEXP](https://open.spotify.com/user/kexp_official) - 658 likes - 78 songs - 4 hr 46 min
+[KEXP](https://open.spotify.com/user/kexp_official) - 661 likes - 78 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 | 77 | [Superman](https://open.spotify.com/track/6y1mxmQSfAeX5EcxXUJF2o) | [Wonder 45](https://open.spotify.com/artist/6k1Qbba3pn2wHLu7A2m95Q) | [Superman](https://open.spotify.com/album/2Gx9T8ta4d1A9iHfITvW4G) | 4:24 |
 | 78 | [Lily of the Nile](https://open.spotify.com/track/2DtckGUL2N0SGOVECdJ6AH) | [Zsela](https://open.spotify.com/artist/7IYuY1VszmoEUu4o3tNgC6) | [Lily of the Nile](https://open.spotify.com/album/47BJF734FYCJ3IIB2WDRaA) | 3:51 |
 
-Snapshot ID: `ODMsYWUxZDhiMTM2ODAzMzEwNDlkOTk0MzE2NjUxOGExYzkwYmU1Y2I0Nw==`
+Snapshot ID: `AAAAU64dixNoAzEEnZlDFmUYockL5ctH`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain]
 
 > The best TikTok Gym playlist\. Your new Release Radar\. Anime Hardstyle, AOT, anime phonk, tatli depression, zyzz, xqc, attack on titan, JCORE
 
-[ig @godmodearc](https://open.spotify.com/user/shihu) - 54,290 likes - 238 songs - 11 hr 40 min
+[ig @godmodearc](https://open.spotify.com/user/shihu) - 54,277 likes - 238 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -247,4 +247,4 @@ pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain]
 | 237 | [OVERDO$E](https://open.spotify.com/track/2QUAM6GL6MpxUgMg50VUWG) | [Pharmacist](https://open.spotify.com/artist/6VlPp1wb53ANKMIwZPJfM0) | [OVERDO$E](https://open.spotify.com/album/0MfyfjvC5cZUu3E3g1gvDe) | 3:01 |
 | 238 | [BULK UP](https://open.spotify.com/track/6gtJPqupZVeNW3ndIAUEYP) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI), [Yuta Imai](https://open.spotify.com/artist/3sMoBcuGm33knrJxEoJY5k) | [BULK UP](https://open.spotify.com/album/4dv0ZbKYHvxXo5llc1XWRh) | 3:12 |
 
-Snapshot ID: `Mzg1MCxjNDZiNGE1YmM1ZWFlZjc5MzU0NzA5YTEwNmI1MzBhNTY2ZjYzYjUz`
+Snapshot ID: `AAAPCsRrSlvF6u95NUcJoQa1MKVm9jtT`

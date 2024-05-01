@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > Essential new pop tracks\. Cover: ROSIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,986 likes - 99 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,030 likes - 99 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 98 | [Always](https://open.spotify.com/track/31HK5kxZbGVVX6EhtU5FWK) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Always](https://open.spotify.com/album/2gIWzyA5azGmtUtuNOuCeG) | 3:01 |
 | 99 | [DIRTY LITTLE FANTASY](https://open.spotify.com/track/6n9e5YQaVZVwjGVwkeiVP0) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [DIRTY LITTLE FANTASY](https://open.spotify.com/album/6QMuvYDuJ6LJbFsdAjKhBb) | 2:04 |
 
-Snapshot ID: `MTcxNDE0NTE5NSwwMDAwMDAwMGNiN2E1OTZmMmNhNzMwNjQ2M2JlZmNkNmZhYTNkZDM0`
+Snapshot ID: `ZivHqwAAAADLellvLKcwZGO+/Nb6o900`

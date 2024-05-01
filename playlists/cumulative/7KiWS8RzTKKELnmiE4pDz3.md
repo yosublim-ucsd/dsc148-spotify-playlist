@@ -4,7 +4,7 @@
 
 > 
 
-673 songs - 1 day 8 hr 2 min
+675 songs - 1 day 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Drank Head](https://open.spotify.com/track/44OjMPqUb5G9da3myAJGXh) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Thot Breaker](https://open.spotify.com/album/67c9XHAeXUcTVgXWYVNlEf) | 3:53 | 2022-07-28 | 2023-04-12 |
 | [dream hollywood \(k suave\)](https://open.spotify.com/track/416hYURzddnHWH8lMNUoXd) | [sem](https://open.spotify.com/artist/2qUcgTpHYclRajlkjgLsyn) | [dream hollywood \(k suave\)](https://open.spotify.com/album/0YHLvhrQcqUB8rQPBPevvb) | 2:04 | 2023-03-20 | 2023-05-09 |
 | [drugs\_over\_love](https://open.spotify.com/track/0Rp8IydDMk6iNIE3wV3ocb) | [user00xman](https://open.spotify.com/artist/4YkU1TtBH2NqSJC7QQzaQj) | [lost\_files\_3](https://open.spotify.com/album/5HGQR05KWcd2FQ5EoA7Ri9) | 2:59 | 2022-11-07 | 2023-04-24 |
+| [Dsco](https://open.spotify.com/track/1OKkG3vxEuBBwLw1gCqdNW) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [Velocity: Design: Comfort.](https://open.spotify.com/album/0eUUQ4rly8Q8PyJPWLgde2) | 3:11 | 2024-04-30 |  |
 | [Dëmon tied](https://open.spotify.com/track/00G8RCi9pouKt0K5vQQmzE) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 2:43 | 2023-03-12 |  |
 | [El Libro](https://open.spotify.com/track/0lHk3B6BOt43VTHJuODZr8) | [Los Tres Caballeros](https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F) | [Los Tres Caballeros](https://open.spotify.com/album/0g3tdBXHTP9VgftkbXnVPI) | 2:48 | 2024-02-14 |  |
 | [Enough Ammo \(Remix\) \[feat\. Young Nudy\]](https://open.spotify.com/track/3KhzBmmD2uvj46uU4GUZXx) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [After TTBR](https://open.spotify.com/album/6VyWxik4npLtHuYKJ66zsa) | 2:57 | 2024-03-04 | 2024-04-24 |
@@ -362,6 +363,7 @@
 | [Me And My Bitch](https://open.spotify.com/track/1Kz0tgMRWsbLzEuzRaU1vP) | [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [No Idols](https://open.spotify.com/album/3GncI0ExXYyWnIzZe9oxRQ) | 3:05 | 2024-03-26 |  |
 | [Me N My Kup](https://open.spotify.com/track/0hhNTyH6RJJGItHeSMCof3) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 3:54 | 2023-10-14 |  |
 | [Mic Line](https://open.spotify.com/track/0pu6JO1sPqW1TxE0nQC080) | [Monsta Island Czars](https://open.spotify.com/artist/6cN2ZI3Rsi0K6SXANDlZvc), [King Ghidra](https://open.spotify.com/artist/21IYa0bMpDZiSFY9x0y02q) | [Escape from Monsta Island](https://open.spotify.com/album/2DPjykMKiZZrL6mKPHM4hX) | 3:13 | 2023-10-03 | 2024-03-05 |
+| [Milk \- 2021 Remaster](https://open.spotify.com/track/7Jq4cV3F5puQfUAxL4sHL8) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [You Will Never Know Why \(2021 Remaster\)](https://open.spotify.com/album/0kmPn6M3cue7rec6Unw6BD) | 4:25 | 2024-04-30 |  |
 | [Millions](https://open.spotify.com/track/43YQDj1KOPMFAUcTEPKy4p) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [So Much Fun \(Deluxe\)](https://open.spotify.com/album/24jAbLMFzCTlIv3kQ94HwK) | 2:37 | 2023-11-29 |  |
 | [Mirror](https://open.spotify.com/track/5xoYormSTltk6F9SlQV6mm) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 4:16 | 2023-07-10 | 2023-12-14 |
 | [Mistress](https://open.spotify.com/track/4WSbFi3yvVmaS2JGYu0h7P) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Season 3 \(Deluxe\)](https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi) | 2:51 | 2022-07-08 | 2024-04-24 |
@@ -575,7 +577,7 @@
 | [SWAG LIKE OHIO PT.2 \(feat\. Lil B\)](https://open.spotify.com/track/0rJ4zjiG51JPL0XhbbJ62i) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Lil B](https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5) | [MANSION MUSIK](https://open.spotify.com/album/0F166z0TRwmSRuHBOId890) | 3:00 | 2023-01-20 | 2023-04-24 |
 | [Swag Overload](https://open.spotify.com/track/6XfdWZJTAv750YyMGSjO3y) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [XTENDED](https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK) | 2:32 | 2022-10-31 | 2023-05-09 |
 | [Sweet \(feat\. Fousheé\)](https://open.spotify.com/track/2X3noddA1Gi8OmJVRP4eYC) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [How Do You Sleep At Night?](https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF) | 2:12 | 2023-10-03 | 2024-03-05 |
-| [Sydney Sweeney](https://open.spotify.com/track/4NE3atZAntDJAdReIar6bN) | [Ceru](https://open.spotify.com/artist/6asghv8lFCRDHUGMUPoRWe) | [Sydney Sweeney](https://open.spotify.com/album/6EJm1GLrf3LRFMotzaD1ji) | 2:17 | 2024-02-08 |  |
+| [Sydney Sweeney](https://open.spotify.com/track/4NE3atZAntDJAdReIar6bN) | [Ceru](https://open.spotify.com/artist/6asghv8lFCRDHUGMUPoRWe) | [Sydney Sweeney](https://open.spotify.com/album/6EJm1GLrf3LRFMotzaD1ji) | 2:17 | 2024-02-08 | 2024-05-01 |
 | [Take Care](https://open.spotify.com/track/5sIRKku7AvqAjXhwarDo3X) | [Duwap Kaine](https://open.spotify.com/artist/5fBcVfTWenqUDOYR5SjzEQ) | [Remember Who Started The Wave](https://open.spotify.com/album/6nysREY0T9gDFJoQY1sAEr) | 2:44 | 2023-01-07 | 2023-04-12 |
 | [Take It \(Look Nice\)](https://open.spotify.com/track/4KCMYCy2e1rXqrtHT3xrSF) | [Larry League](https://open.spotify.com/artist/1s2VYzJ4Z4vFnp2yLYaLQe) | [Larry Leaks](https://open.spotify.com/album/6DXdOvjqHKwzF8nRUTbQvj) | 2:41 | 2024-04-01 |  |
 | [Take It To Trial](https://open.spotify.com/track/5oIc9JH730QeKxjtjkXv2y) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [Rr](https://open.spotify.com/album/4WxOXS9ss9F4pTxXsEM3nH) | 2:04 | 2022-07-10 | 2023-12-14 |
@@ -662,7 +664,7 @@
 | [What You Got \- Radio Edit](https://open.spotify.com/track/73s0ZgbwGPE2f6NrbnPeWR) | [Jerm](https://open.spotify.com/artist/5JSpdSi1RHQ3KgNovJBJhF), [SSGKⲟbe](https://open.spotify.com/artist/3KnFGmNMtL6zcGbpcuYxFH) | [Sapphire.](https://open.spotify.com/album/22HA1nornnauA428zn6gHB) | 1:58 | 2022-07-22 | 2023-12-14 |
 | [WHAT'S\_IN\_IT](https://open.spotify.com/track/2jaocRB7aIKvfzKazb4Wh7) | [Jerm](https://open.spotify.com/artist/5JSpdSi1RHQ3KgNovJBJhF), [Riсh Amiri](https://open.spotify.com/artist/72bqhCHwdLkYsCI6KS33Fj), [Dⲟm Corleo](https://open.spotify.com/artist/6kgQSuTUg3M66NKuu2gzQh) | [JERM\_X](https://open.spotify.com/album/0hCSTaxoPwXy91tCT5t073) | 2:40 | 2023-02-26 | 2023-12-14 |
 | [When I](https://open.spotify.com/track/4QUsmmXmINYXwh7UsiMX2j) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [The Lo\-Fis](https://open.spotify.com/album/6m5qlaMzLtNsQDj3DQY5ji) | 1:00 | 2023-06-18 | 2023-12-14 |
-| [Where we left Off](https://open.spotify.com/track/189jnLyHbPJKr5bp11qdDi) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Nothing more Nothing LESS](https://open.spotify.com/album/0oQ0ObULWWC4LItIkL9hM0) | 3:47 | 2022-05-03 | 2023-12-14 |
+| [Where we left Off](https://open.spotify.com/track/189jnLyHbPJKr5bp11qdDi) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Nothing more Nothing LESS](https://open.spotify.com/album/0oQ0ObULWWC4LItIkL9hM0) | 3:47 | 2022-05-03 |  |
 | [Whiplash'd](https://open.spotify.com/track/4dlsntjrHwjQlDPCFHfqgW) | [Xavier Wulf](https://open.spotify.com/artist/3uo0ix4Y67XHVWBhXXIY1S) | [Whiplash'd](https://open.spotify.com/album/7lirv2kkhnhhHm2TV1Pk8u) | 1:50 | 2022-09-19 | 2023-05-09 |
 | [Wholeworldslatt \(feat\. Veeze\)](https://open.spotify.com/track/3fyWuJpGOok9xs2TxniPIn) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [s\*x m\*ney dr\*gs](https://open.spotify.com/album/6vKVBLTsQW5wXOzmOIkPVZ) | 3:25 | 2023-07-12 | 2023-12-14 |
 | [Why Tf?!](https://open.spotify.com/track/4yuwWhW2dUREUILWnDFLiR) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Dont Get Took Off 3](https://open.spotify.com/album/3x2ZDCI5fNsZRsLS7H73gq) | 2:01 | 2023-01-03 | 2023-04-12 |

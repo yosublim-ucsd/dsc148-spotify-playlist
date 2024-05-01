@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-271 songs - 22 hr 27 min
+272 songs - 22 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Melancholy Movement](https://open.spotify.com/track/0BGXoqBGIrgT1gjODZ7vrO) | [Celer](https://open.spotify.com/artist/6nDeZk1AU320DQaj8pD80O) | [In Light Of Blues](https://open.spotify.com/album/6lublxQLiB9wNHvcMRM6vD) | 3:07 | 2022-07-01 |  |
 | [Melting Refuge](https://open.spotify.com/track/72yOEueBpwoPF7zBWtvREm) | [Ecker & Meulyzer](https://open.spotify.com/artist/0LmTH1Y1gidIP6T9yTtSPU) | [Carbon](https://open.spotify.com/album/1V2Ek9fnWQhDGApxedbg3J) | 4:25 | 2022-01-21 |  |
 | [Melts All Your Memories](https://open.spotify.com/track/34TdrxZdriLN477LSDuw5I) | [Vanity Productions](https://open.spotify.com/artist/05mBiI86tCefGxbtQZnnDI) | [Shadow Box](https://open.spotify.com/album/26OHC71oOiOsh5Sna4qw4T) | 8:38 | 2022-01-21 |  |
-| [Mend](https://open.spotify.com/track/116HZtuidLUHpGNIIgDcR9) | [Klara Lewis](https://open.spotify.com/artist/0kyeczWICSebymos0FqJvt), [Simon Fisher Turner](https://open.spotify.com/artist/3rmHfhqEmC3pO89AMSP7Wt) | [Care](https://open.spotify.com/album/7pfidngS6ZbAUZ9UM2EicP) | 10:04 | 2022-01-21 | 2024-04-30 |
+| [Mend](https://open.spotify.com/track/116HZtuidLUHpGNIIgDcR9) | [Klara Lewis](https://open.spotify.com/artist/0kyeczWICSebymos0FqJvt), [Simon Fisher Turner](https://open.spotify.com/artist/3rmHfhqEmC3pO89AMSP7Wt) | [Care](https://open.spotify.com/album/7pfidngS6ZbAUZ9UM2EicP) | 10:04 | 2022-01-21 |  |
 | [Mir](https://open.spotify.com/track/0IGrAZzfpOkV2ECNy4Sz5P) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Mur](https://open.spotify.com/album/5mA73OzLoiOQZK3no4z9OE) | 11:28 | 2023-04-21 | 2024-04-19 |
 | [Mir](https://open.spotify.com/track/3wyNQNDrg9ntkIZe6RaO4v) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Mur](https://open.spotify.com/album/15liRgZ2vwwF9UuCyF4WKL) | 11:28 | 2022-01-21 | 2023-03-26 |
 | [Moments In Love](https://open.spotify.com/track/5GTjzlFM8t2xB9RJGVkmvd) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Grafts \(Expanded Reissue\)](https://open.spotify.com/album/2sB7YlLZuBhoQjovV8bZTW) | 10:17 | 2022-01-21 |  |
@@ -162,7 +162,7 @@
 | [Northern Spirit](https://open.spotify.com/track/723CVJbxvyZCQlGCVQkXCJ) | [Alyas](https://open.spotify.com/artist/0RRYSk01k1iJQbsi83Oh2S) | [Northern Spirit](https://open.spotify.com/album/3z9ysNmG6n81nNSaziusQL) | 4:06 | 2022-01-28 |  |
 | [notes of a crocodile](https://open.spotify.com/track/7DgYQpSRq8oKdstt80n0A4) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [fragments](https://open.spotify.com/album/67EzhMUZJBwTnXpnnSY6Jx) | 1:29 | 2022-01-21 | 2023-10-06 |
 | [Nuuk \(Air\)](https://open.spotify.com/track/2w9LpnDMhMxbeVkvZgFcoK) | [Thomas Köner](https://open.spotify.com/artist/02H68OmCeljWgjoVQVOB1v) | [Nuuk](https://open.spotify.com/album/039YorrtuXDmdZHXhryqJc) | 4:50 | 2022-01-21 |  |
-| [Of Becoming and Dying](https://open.spotify.com/track/3gxKrtlTm56lMm8Ng2vS02) | [Lucy Railton](https://open.spotify.com/artist/7Gqr7VNPRfacOcjlqORrq9), [Kit Downes](https://open.spotify.com/artist/5KAxF8BtuqO5emnRCjorwk) | [Subaerial](https://open.spotify.com/album/3rCc5K1LiTTrlWN3YxFwaM) | 3:47 | 2022-01-21 |  |
+| [Of Becoming and Dying](https://open.spotify.com/track/3gxKrtlTm56lMm8Ng2vS02) | [Lucy Railton](https://open.spotify.com/artist/7Gqr7VNPRfacOcjlqORrq9), [Kit Downes](https://open.spotify.com/artist/5KAxF8BtuqO5emnRCjorwk) | [Subaerial](https://open.spotify.com/album/3rCc5K1LiTTrlWN3YxFwaM) | 3:47 | 2022-01-21 | 2024-05-01 |
 | [Omega Point](https://open.spotify.com/track/4XA0OvqLrFe1FGWViLJpnc) | [AstroPilot](https://open.spotify.com/artist/2z658O7sY52T18CIOqUcws) | [Omega Point](https://open.spotify.com/album/2mWhF37EQc2KKXzKXiSHY2) | 3:39 | 2023-09-08 |  |
 | [Once](https://open.spotify.com/track/2ytljnf7K8GiXdqFEWgC9w) | [Klara Lewis](https://open.spotify.com/artist/0kyeczWICSebymos0FqJvt) | [Too](https://open.spotify.com/album/0ehlpK5bslOMgNPXNGDQun) | 5:42 | 2022-01-21 | 2022-07-16 |
 | [outsider, but it's slowed & reverb](https://open.spotify.com/track/575uqViRxCYY9VgLnKIQrj) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [outsider](https://open.spotify.com/album/2PRLjH4JNrD8DGIROH2XB0) | 2:43 | 2023-04-07 |  |
@@ -271,7 +271,7 @@
 | [Wasa Stone Trio](https://open.spotify.com/track/3CJv88R1gtnn1xrC2NOW5G) | [CTM](https://open.spotify.com/artist/7yaj7l8QczhEsLttuFDaRz), [August Rosenbaum](https://open.spotify.com/artist/60jACvCiMkGWezYS8VZXQ4) | [Celeste](https://open.spotify.com/album/5KVMzzZ01MJxw5Sd9qvdCY) | 2:15 | 2022-01-21 |  |
 | [Waves \- Oliver Doerell & Helga Raimondi Rework](https://open.spotify.com/track/5oXGS29Qa8Pv7ITfKLm9X4) | [Vetle Nærø](https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf) | [Waves \(Oliver Doerell & Helga Raimondi Rework\)](https://open.spotify.com/album/5t2W6cCG2GjfC1gRVZv1eB) | 5:14 | 2022-01-28 |  |
 | [Where Lonely Embers Glow](https://open.spotify.com/track/2wnL9GReYcMbMA29ILdhdS) | [Dead Melodies](https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu) | [Memento](https://open.spotify.com/album/1ZbO6GlyoIo9nXdHe7dPZH) | 6:51 | 2022-04-01 |  |
-| [Where Shadows Cross](https://open.spotify.com/track/01PSwIYcSK1go1pMU4WpCK) | [Warmth](https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d), [Fionnlagh](https://open.spotify.com/artist/5EG6Uwsagvsrl6ukTGuqeh) | [Where Shadows Cross](https://open.spotify.com/album/1dk1O5iKnW1rcNogvKlqOi) | 2:36 | 2023-10-06 |  |
+| [Where Shadows Cross](https://open.spotify.com/track/01PSwIYcSK1go1pMU4WpCK) | [Warmth](https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d), [Fionnlagh](https://open.spotify.com/artist/5EG6Uwsagvsrl6ukTGuqeh) | [Where Shadows Cross](https://open.spotify.com/album/1dk1O5iKnW1rcNogvKlqOi) | 2:36 | 2023-10-06 | 2024-05-01 |
 | [Wingbeats Source III: Piano and Wings](https://open.spotify.com/track/1nxNCdh7SLOxFny6EmmzL3) | [Hidden Orchestra](https://open.spotify.com/artist/4Rj2COYs5hQsw8rYIxSviz) | [Wingbeats](https://open.spotify.com/album/1daolYgECDn9hgAKsWuX2n) | 2:36 | 2022-07-22 | 2023-04-29 |
 | [Wingbeats Source III: Piano and Wings](https://open.spotify.com/track/2fIGv43HCZ6tilfVfovu2e) | [Hidden Orchestra](https://open.spotify.com/artist/4Rj2COYs5hQsw8rYIxSviz) | [Wingbeats](https://open.spotify.com/album/2gOZAH0hCwU3Zl8Ohm9YCA) | 2:36 | 2022-02-04 |  |
 | [Wingbeats Source III: Piano and Wings](https://open.spotify.com/track/6iqq6toY0z6qzTLBSMNOrr) | [Hidden Orchestra](https://open.spotify.com/artist/4Rj2COYs5hQsw8rYIxSviz) | [Wingbeats](https://open.spotify.com/album/3nDGt0nkTrs5ApCxb2FucN) | 2:36 | 2023-04-21 | 2024-04-19 |
@@ -279,5 +279,6 @@
 | [Woods of Admittance](https://open.spotify.com/track/7BEizNL6QesTGhUY7znR1B) | [Sebastian Mullaert](https://open.spotify.com/artist/5cKPK8DCxX1R5PwQOU1huv), [Tonhalle\-Orchester Zürich](https://open.spotify.com/artist/6XB7gCSvNN5AkoAhEFv7Cg) | [Natthall](https://open.spotify.com/album/7u22N4Jgi0wp8Qb2B6FtxI) | 5:09 | 2022-01-21 |  |
 | [Your Shadow Tells the Story of What We Could Have Been](https://open.spotify.com/track/0Gz0Dui1sOIEMBq5R0ZJoD) | [Frönäs](https://open.spotify.com/artist/23IOctRIyDVxUQWmKrufGk) | [That Light, As the Door Closed](https://open.spotify.com/album/4XUsuXNUUuuCTIDjeUhjNL) | 11:34 | 2022-01-21 |  |
 | [Öskufall](https://open.spotify.com/track/3S11oqCytN74MIuTsXOKBD) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y) | [Obsidian](https://open.spotify.com/album/1z8Ljm0ST8ICL9lkJNZSev) | 5:00 | 2022-01-21 |  |
+| [空 \(emptiness or sky\)](https://open.spotify.com/track/5Ly1vhDgzs1YJJGdkA8GNu) | [Yamaneko](https://open.spotify.com/artist/003Lrmd4Hy04kSf0wZm3xm) | [Escape Artists Never Die](https://open.spotify.com/album/2SeuyahrgV7gkJzMxCStkk) | 3:17 | 2023-12-01 |  |
 
 \*This playlist was first scraped on 2022-01-25. Prior content cannot be recovered.

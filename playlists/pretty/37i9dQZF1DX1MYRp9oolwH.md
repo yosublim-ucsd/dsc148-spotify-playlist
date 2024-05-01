@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : The Family Star
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,345 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,394 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 49 | [Paravasame Paravasame \(From "Narayana And Co"\)](https://open.spotify.com/track/10UULk3rJivW6YHsP60Una) | [Dr\. Josyabhatla](https://open.spotify.com/artist/3Td73fmcg2F9mAWwDMhwHL), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [K\. Pranati](https://open.spotify.com/artist/61FZ2SvbuC5wJcoEWxYwOP) | [Paravasame Paravasame \(From "Narayana And Co"\)](https://open.spotify.com/album/30i3MJ3Be1LT24JHRcbzFQ) | 4:18 |
 | 50 | [Kalaya Nijama](https://open.spotify.com/track/449KstCGC8xXHe8M0MFheQ) | [Mohith Rahmanic](https://open.spotify.com/artist/2yDSpzLmRIgYdUDSmMK1X9), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [Lakshmi Priyanka](https://open.spotify.com/artist/2K08CRxFYB4vypKb79x62A) | [Calling Sahasra](https://open.spotify.com/album/7z8mz9k3KufJtJ7Iep32je) | 3:40 |
 
-Snapshot ID: `MTcxMzQzMjg1MSwwMDAwMDAwMGZkZmRkM2NkY2M3YTQ5YWJkNjE0OTE2MjEwYWRkZjdm`
+Snapshot ID: `ZiDpEwAAAAD9/dPNzHpJq9YUkWIQrd9/`

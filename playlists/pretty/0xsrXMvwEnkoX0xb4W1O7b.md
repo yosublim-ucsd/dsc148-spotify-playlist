@@ -20,4 +20,4 @@ pretty - [cumulative](/playlists/cumulative/0xsrXMvwEnkoX0xb4W1O7b.md) - [plain]
 | 10 | [Stirb nicht vor mir \(Don't Die Before I Do\)](https://open.spotify.com/track/0xv6NzfBHZhbZ5MWLzdh3T) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rosenrot](https://open.spotify.com/album/3PrS5X3QNdDUlBIE4bz6J2) | 4:05 |
 | 11 | [Puppe](https://open.spotify.com/track/2iFgHPoa7FNHwgLnjXzu7F) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 4:33 |
 
-Snapshot ID: `MTUsZTViZWNjZTBiNDlkNjBiMTZmMDNiM2Q5MTQzYTA3YjEzM2E0YTk1OQ==`
+Snapshot ID: `AAAAD+W+zOC0nWCxbwOz2RQ6B7EzpKlZ`

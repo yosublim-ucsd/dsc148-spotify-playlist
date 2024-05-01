@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,480 likes - 84 songs - 4 hr 30 min
+[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,482 likes - 84 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 67 | [Akureyri](https://open.spotify.com/track/5ELjObPQmX3gG06NukBFzr) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Akureyri](https://open.spotify.com/album/4y9gHmuFooWHYOnDmSXcjN) | 3:14 |
 | 68 | [Turn The Page](https://open.spotify.com/track/038YxoOvHJKyFiXhqlVkil) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [Turn The Page](https://open.spotify.com/album/3v8EL9UazZlDhvn6mERMoq) | 4:22 |
 | 69 | [Can't Come Back](https://open.spotify.com/track/4iB93144GBYUfBuNmIkoCX) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Can't Come Back](https://open.spotify.com/album/6J7wuzk1peBKgaohiSCuN6) | 2:34 |
-| 70 | [TASMANIA](https://open.spotify.com/track/55dOfbCMfALGDSI8e8HWhN) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm), [Lupita's Friends](https://open.spotify.com/artist/7gGKjAXKRyDUhSUhFDIaAW) | [TASMANIA](https://open.spotify.com/album/7DgPVNfr6xKejQTGSXYyu8) | 3:09 |
+| 70 | [Tasmania](https://open.spotify.com/track/55dOfbCMfALGDSI8e8HWhN) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm), [Lupita's Friends](https://open.spotify.com/artist/7gGKjAXKRyDUhSUhFDIaAW) | [Tasmania](https://open.spotify.com/album/7DgPVNfr6xKejQTGSXYyu8) | 3:09 |
 | 71 | [Tormenta](https://open.spotify.com/track/2gllHxMLYezYl0Tv54f27s) | [Agoney](https://open.spotify.com/artist/4jKvQ93sRiKroRRaAI6Fqk) | [Tormenta](https://open.spotify.com/album/4lh5sOBIEGLFNL48uDuQhf) | 3:20 |
 | 72 | [Stratocarte](https://open.spotify.com/track/2h8PMO2V40LE6xXq3oX9pO) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Lo Que Dicen Por Ahí](https://open.spotify.com/album/4n3njIqx8KJR8lo7wnXo75) | 3:07 |
 | 73 | [MALONA](https://open.spotify.com/track/4pwbCOjyz62GpHI2UwkUOw) | [Edu Requejo](https://open.spotify.com/artist/6ZNFH9pfiRpTSgJaKQBb8M), [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [MALONA](https://open.spotify.com/album/1BEpXQ1topBEWGB5xkJ9JN) | 2:20 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 83 | [pacto\_bonus\_track](https://open.spotify.com/track/1brzr0qgELat2wblkMjYKV) | [Espineli](https://open.spotify.com/artist/74l577inT1nnMPPMajMv2f), [sistema de entretenimiento](https://open.spotify.com/artist/4Fps5rcLi7YIfOcmTKHpHv) | [pacto\_bonus\_track](https://open.spotify.com/album/6Zok5UUSaBUufeKpc1EsjL) | 2:08 |
 | 84 | [Baby Bae](https://open.spotify.com/track/54wDGsOEUJhbVDYwsutlUz) | [Mala Cotton](https://open.spotify.com/artist/17mQMqtiJVWFebnFbcHo8C) | [Baby Bae](https://open.spotify.com/album/45fTQ0FXbv3SwocA2Fmj9E) | 2:57 |
 
-Snapshot ID: `MzgwMTksZGYyZjI2M2Y2YTI2YTg5ZjU2NWI1MjdkODhlYTYzMTk4ZmZhYjQ3OQ==`
+Snapshot ID: `AACUg98vJj9qJqifVltSfYjqYxmP+rR5`

@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/3fqSEmStIKS8s3mCCRQFid.md) - [plain]
 | 21 | [Gun Shy](https://open.spotify.com/track/111mIPeTIvA4qqvMW9gThQ) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Widowspeak](https://open.spotify.com/album/69CsrGDi3Vt6IhVFTagpgq) | 3:53 |
 | 22 | [Sinking Man \- The Walking Dead Soundtrack](https://open.spotify.com/track/2xC8hhXv0bs9idCEQLs6Un) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [The Walking Dead \(AMC’s Original Soundtrack – Vol\. 1\)](https://open.spotify.com/album/6m6doB3yM5Fehx4wukSvEs) | 2:46 |
 
-Snapshot ID: `NTIsNjVhNGRlMDEwY2Y5YTUzYTdkYTJlYmQyNjU3MGMzNTUyMjVlMzBjZQ==`
+Snapshot ID: `AAAANGWk3gEM+aU6faLr0mVww1UiXjDO`

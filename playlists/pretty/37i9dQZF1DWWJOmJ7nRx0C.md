@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The rock songs you need to know\. Turn it  ⬆️ Cover: <b>Mötley Crüe</b>
 
-[Spotify](https://open.spotify.com/user/spotify) - 928,153 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 928,147 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 74 | [Dearly Departed \(feat\. Bert McCracken\)](https://open.spotify.com/track/5j6F769jqaBlfBXSm5obT2) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [Bert McCracken](https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0) | [Dearly Departed \(feat\. Bert McCracken\)](https://open.spotify.com/album/7vkizSiGOH5kexkIRcfxwT) | 3:16 |
 | 75 | [The Flowering](https://open.spotify.com/track/460bVuH1Az7OH4bC87PoWY) | [Better Lovers](https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze) | [The Flowering](https://open.spotify.com/album/0k4ADzUDIVFkMBxV17xoi3) | 3:09 |
 
-Snapshot ID: `MTcxNDEwNDAwMCwwMDAwMDAwMGE1ZWUyNjZhMTdkZmYzYjQyOGIxMDljODk0M2E0ZGUz`
+Snapshot ID: `ZismwAAAAACl7iZqF9/ztCixCciUOk3j`

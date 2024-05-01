@@ -1,5 +1,5 @@
 {
-  "2024-04-30": 40,
+  "2024-05-01": 40,
   "date_first_scraped": "2023-10-18",
   "description": "",
   "name": "Worldly",
@@ -10470,6 +10470,28 @@
     },
     {
       "album": {
+        "name": "Quelle Dr\u00f4le De Vie",
+        "url": "https://open.spotify.com/album/6JqS4XWZRI3jmzZavSJFW8"
+      },
+      "artists": [
+        {
+          "name": "Leo Basel",
+          "url": "https://open.spotify.com/artist/22z7h9kTVlxhAv83bX23lR"
+        },
+        {
+          "name": "Marc Bellaiche",
+          "url": "https://open.spotify.com/artist/5h24N20GMbAxwpO7gxUnyQ"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397139,
+      "name": "Quelle Dr\u00f4le De Vie (Remix)",
+      "url": "https://open.spotify.com/track/0jqNCUw1eDTtCJO8ckCCE2"
+    },
+    {
+      "album": {
         "name": "On Another Level",
         "url": "https://open.spotify.com/album/3AftCQAH0WzS0sEcni5ToS"
       },
@@ -12941,6 +12963,24 @@
       "duration_ms": 224026,
       "name": "Universo em Desencanto",
       "url": "https://open.spotify.com/track/6URjzNvVL7i3H1jNrIPsjc"
+    },
+    {
+      "album": {
+        "name": "The Dancing Devils of Djibouti",
+        "url": "https://open.spotify.com/album/4KwTC2RgaJoBSvmYauNaqg"
+      },
+      "artists": [
+        {
+          "name": "Groupe RTD",
+          "url": "https://open.spotify.com/artist/1pVWzEPoVWeAG98sfUyBsm"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408381,
+      "name": "Uurkan Kaadonaya (I Want You)",
+      "url": "https://open.spotify.com/track/5dbE70S212LvwKxYvvRicF"
     },
     {
       "album": {

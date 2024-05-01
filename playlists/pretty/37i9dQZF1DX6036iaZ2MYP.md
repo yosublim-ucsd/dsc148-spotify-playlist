@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Adekunle Gold
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,945 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,032 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [I FEEL FOR YA](https://open.spotify.com/track/1pPphDvF5z2BeUyAD1qgxn) | [Dejour](https://open.spotify.com/artist/2qPE1cHelmMHiIqKHhQdK4), [Its Natascha](https://open.spotify.com/artist/6r5nslEUXZRMW9qpxKvxV6) | [I FEEL FOR YA](https://open.spotify.com/album/5tyizixpYddHZy0omGyLse) | 2:16 |
 | 50 | [À nous](https://open.spotify.com/track/2ipzfPstCSpD2Bw7OyX1mR) | [Curtis Kane](https://open.spotify.com/artist/7LGeqJcTk3qJ23m7ROwIw6) | [À nous](https://open.spotify.com/album/3LPkK10CkC69Dqqas6BcQW) | 3:18 |
 
-Snapshot ID: `MTcxNDA4MjQwMCwwMDAwMDAwMDU5OThkYmEwNGMxOTJmMDQ5ODc3MTFkZDcyZjMyMWRj`
+Snapshot ID: `ZirSYAAAAABZmNugTBkvBJh3Ed1y8yHc`

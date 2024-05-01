@@ -26,4 +26,4 @@ pretty - [cumulative](/playlists/cumulative/4njfFyb4EgzewhH9kTQuwN.md) - [plain]
 | 16 | [Snowgirl](https://open.spotify.com/track/2DQPsSc1vpVcjzaUTUoqXw) | [Erica Skogen](https://open.spotify.com/artist/66zWWWUsiyAqXwd2dsdf9S) | [Stories About People](https://open.spotify.com/album/3oehmzOkhR4iT4BvDdHVq4) | 4:34 |
 | 17 | [Happy Birthday Mollie](https://open.spotify.com/track/71wLrX4QjDfNO8BlVxRi4F) | [The Birthday Bunch](https://open.spotify.com/artist/0DLUrbFqDNVA1G5c3Dq3Ot) | [Happy Birthday Mollie](https://open.spotify.com/album/2IxelaUcBNFkES9UL88am1) | 0:30 |
 
-Snapshot ID: `NDAsZTcxZmYwYTU0MDgwZjFhY2E3NGQwYmY3NzFlYjc5MDNhY2EyOGMyNw==`
+Snapshot ID: `AAAAKOcf8KVAgPGsp00L93HreQOsoown`

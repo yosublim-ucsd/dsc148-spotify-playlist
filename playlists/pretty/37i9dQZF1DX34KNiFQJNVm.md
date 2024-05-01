@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Mari Fernandez, Anitta, Chefin e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,903,101 likes - 74 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,903,096 likes - 74 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Página De Ex \- Ao Vivo No RJ](https://open.spotify.com/track/2kFaWbpzQzpaJ0H6PskR6k) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Mari No Barzinho \(Ao Vivo No RJ\)](https://open.spotify.com/album/6iBPOik18bu37n3mLNGwbx) | 2:41 |
+| 1 | [Página De Ex \- Ao Vivo](https://open.spotify.com/track/2kFaWbpzQzpaJ0H6PskR6k) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Mari No Barzinho \(Ao Vivo No RJ\)](https://open.spotify.com/album/6iBPOik18bu37n3mLNGwbx) | 2:41 |
 | 2 | [Grip](https://open.spotify.com/track/52kROkm8RbJsYLM5taByIP) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Generation](https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY) | 1:50 |
 | 3 | [Anjinha \- Ao Vivo](https://open.spotify.com/track/2syyc37CTvZ1hF61lrHhsV) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [O Maior Piseiro do Mundo \(Ao Vivo\)](https://open.spotify.com/album/2IkG9gGiTDm0dah8GAwIPV) | 2:26 |
 | 4 | [Coração de Vaqueiro](https://open.spotify.com/track/1BSsJm88q13n15TgJqvqBp) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S), [Iguinho e Lulinha](https://open.spotify.com/artist/45MLFvHRAGIOvnslTnzS8C), [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Coração de Vaqueiro](https://open.spotify.com/album/4Al6Lvg48mCHN0V1nKx358) | 3:42 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 25 | [Backslide](https://open.spotify.com/track/62aSL7D64td5wr09L6iFiV) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Backslide](https://open.spotify.com/album/4bwNLICcbpG5VpFGG1J2pD) | 3:00 |
 | 26 | [Me Negou Amor](https://open.spotify.com/track/09mOPN87bR1Tx1M0iVg9WP) | [MC Leozinho ZS](https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8), [Zain](https://open.spotify.com/artist/1OCu3xpRtpqgbk6aoxoxJp) | [Notas Da Alma](https://open.spotify.com/album/22nXEmTaA9Tms0eVHM5dct) | 2:16 |
 | 27 | [Não me deixe só](https://open.spotify.com/track/64QVkG7vRtjGDkaGZc8zAb) | [Krawk](https://open.spotify.com/artist/7a99I3BHPvsv4aBVNqb4g4), [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Não me deixe só](https://open.spotify.com/album/0m9UDriPUMgHGHFQSpXoCK) | 3:53 |
-| 28 | [Cena de Crime](https://open.spotify.com/track/4uqb0zbgC2LbYcggMyIxqC) | [Mc Jean](https://open.spotify.com/artist/7iT64TaHLjA4wDm53frq3B), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [Mc Dena](https://open.spotify.com/artist/4J2dAJV1pnSqZIXUhN9615) | [Cena de Crime](https://open.spotify.com/album/6a14tM6rRfKWPa4yL9qlTe) | 5:28 |
+| 28 | [Cena de Crime](https://open.spotify.com/track/4uqb0zbgC2LbYcggMyIxqC) | [Mc Jean](https://open.spotify.com/artist/7iT64TaHLjA4wDm53frq3B), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mc Dena](https://open.spotify.com/artist/4J2dAJV1pnSqZIXUhN9615), [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv) | [Cena de Crime](https://open.spotify.com/album/6a14tM6rRfKWPa4yL9qlTe) | 5:28 |
 | 29 | [Zero Mancada](https://open.spotify.com/track/15KUKRhAslOR4amIQQ00WP) | [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS) | [Zero Mancada](https://open.spotify.com/album/1Q3zBjvYzDxyIoJaMZlJKL) | 1:33 |
 | 30 | [Escolhido](https://open.spotify.com/track/4xFDst4aIWoG6pNcLYP7AU) | [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ), [Mc Tikão](https://open.spotify.com/artist/4nUFa8jPQkxf3CTj5XzAly), [LV](https://open.spotify.com/artist/3f6CmIIWksZbvLr5Of18BY) | [Escolhido](https://open.spotify.com/album/3Vbc3lixLR9LFqki1fKYsE) | 2:13 |
 | 31 | [Fera Indomada \(Perfume\)](https://open.spotify.com/track/7yKoBs5o4XmNzkP2rPcxaR) | [DJ Zullu](https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Fera Indomada \(Perfume\)](https://open.spotify.com/album/7sWnWXIwxmfM2175sp5P7N) | 3:21 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 73 | [Big Time Nothing](https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Big Time Nothing](https://open.spotify.com/album/5Cn1ahgwgul033qDq87n1X) | 2:58 |
 | 74 | [Neverender](https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Hyperdrama](https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86) | 4:26 |
 
-Snapshot ID: `MTcxNDEzNjY0NCwwMDAwMDAwMDBlMDAzM2RlYTI1MDgzMjJkODdiZWZhNWYwZDZkYWMx`
+Snapshot ID: `ZiumRAAAAAAOADPeolCDIth776Xw1trB`

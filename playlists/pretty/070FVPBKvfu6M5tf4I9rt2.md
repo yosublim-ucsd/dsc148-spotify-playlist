@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/070FVPBKvfu6M5tf4I9rt2.md) - [plain]
 | 29 | [One Of Them Damn Days](https://open.spotify.com/track/4p1T99HN7UIstgP8DnLMzu) | [John Hiatt](https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV) | [Mystic Pinball](https://open.spotify.com/album/49BkeULEYD5Lc2MHC5aynC) | 2:46 |
 | 30 | [A Quitter Never Wins](https://open.spotify.com/track/3VeC7Pcwg9qFSnxNX3aQ37) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Lie To Me](https://open.spotify.com/album/2VNyF8hG22dvrga7pUbyix) | 5:56 |
 
-Snapshot ID: `NyxhNDM3MzFlODI2ZTRhNGNmN2I4YjRjZDA1MGY0MTRiOTFhZmJiZTAx`
+Snapshot ID: `AAAAB6Q3Megm5KTPe4tM0FD0FLka+74B`

@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/1apRF10Iufr0NBBiF1u7E5.md) - [plain]
 | 37 | [Your Kisses Are Wasted On Me](https://open.spotify.com/track/04F1PAQMZ7AFmVgPiTjLEm) | [The Pipettes](https://open.spotify.com/artist/1xS9wRaWvtlxsmERNuNJF2) | [We Are The Pipettes](https://open.spotify.com/album/3Fe3c2fnt8tZ16yn5fLRVu) | 2:11 |
 | 38 | [I'm So Happy](https://open.spotify.com/track/6XmPqDKUxVQf59djYNqOeI) | [Salem Al Fakir](https://open.spotify.com/artist/2MRmHQ6G4vEIIlMYbMLlQ5) | [Ignore This](https://open.spotify.com/album/7sKI0nbdgb0lDo8qXx6hkG) | 4:13 |
 
-Snapshot ID: `Myw2NjNjNzY2MjA4ODlmNjI1YTI4MjkxOTYzNGM1NzQ5MjE4YzQ0YTg3`
+Snapshot ID: `AAAAA2Y8dmIIifYlooKRljTFdJIYxEqH`

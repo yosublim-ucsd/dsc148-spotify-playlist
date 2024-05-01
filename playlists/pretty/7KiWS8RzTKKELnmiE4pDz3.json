@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "NzI5OCxmOWQ0MzgwYTkwMmMzOGExYjdlMGYwNzA5YzEwODc2OWJiMWQwOTYz",
+  "snapshot_id": "AAAchuFH8hREGSohS7aD05a8nxO97iwN",
   "tracks": [
     {
       "added_at": "2022-09-26 20:53:27",
@@ -607,22 +607,6 @@
       "duration_ms": 164623,
       "name": "Secure the Vibe (feat. Young Thug)",
       "url": "https://open.spotify.com/track/0Zh07yxAYHbGrjd0wFd0be"
-    },
-    {
-      "added_at": "2024-02-08 20:16:24",
-      "album": {
-        "name": "Sydney Sweeney",
-        "url": "https://open.spotify.com/album/6EJm1GLrf3LRFMotzaD1ji"
-      },
-      "artists": [
-        {
-          "name": "Ceru",
-          "url": "https://open.spotify.com/artist/6asghv8lFCRDHUGMUPoRWe"
-        }
-      ],
-      "duration_ms": 137768,
-      "name": "Sydney Sweeney",
-      "url": "https://open.spotify.com/track/4NE3atZAntDJAdReIar6bN"
     },
     {
       "added_at": "2024-02-14 19:09:03",
@@ -1451,6 +1435,54 @@
       "duration_ms": 186200,
       "name": "Love For The Streets",
       "url": "https://open.spotify.com/track/7k5lDslyLbcykzUOPGEdKR"
+    },
+    {
+      "added_at": "2024-04-30 13:26:17",
+      "album": {
+        "name": "Velocity: Design: Comfort.",
+        "url": "https://open.spotify.com/album/0eUUQ4rly8Q8PyJPWLgde2"
+      },
+      "artists": [
+        {
+          "name": "Sweet Trip",
+          "url": "https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM"
+        }
+      ],
+      "duration_ms": 191133,
+      "name": "Dsco",
+      "url": "https://open.spotify.com/track/1OKkG3vxEuBBwLw1gCqdNW"
+    },
+    {
+      "added_at": "2024-04-30 13:31:19",
+      "album": {
+        "name": "Nothing more Nothing LESS",
+        "url": "https://open.spotify.com/album/0oQ0ObULWWC4LItIkL9hM0"
+      },
+      "artists": [
+        {
+          "name": "Summrs",
+          "url": "https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN"
+        }
+      ],
+      "duration_ms": 227620,
+      "name": "Where we left Off",
+      "url": "https://open.spotify.com/track/189jnLyHbPJKr5bp11qdDi"
+    },
+    {
+      "added_at": "2024-04-30 21:36:40",
+      "album": {
+        "name": "You Will Never Know Why (2021 Remaster)",
+        "url": "https://open.spotify.com/album/0kmPn6M3cue7rec6Unw6BD"
+      },
+      "artists": [
+        {
+          "name": "Sweet Trip",
+          "url": "https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM"
+        }
+      ],
+      "duration_ms": 265749,
+      "name": "Milk - 2021 Remaster",
+      "url": "https://open.spotify.com/track/7Jq4cV3F5puQfUAxL4sHL8"
     }
   ],
   "unique_name": "main ",

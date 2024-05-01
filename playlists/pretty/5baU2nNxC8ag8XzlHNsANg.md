@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5baU2nNxC8ag8XzlHNsANg.md) - [plain]
 
 > All your favorite hits from the decade you love most!
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,397 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,398 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/5baU2nNxC8ag8XzlHNsANg.md) - [plain]
 | 74 | [Over And Over \- Album Version / Explicit](https://open.spotify.com/track/6zrKRVtq4cjkZLXzjpS4Ij) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Suit](https://open.spotify.com/album/2OngzqI3AHJL8k3XlTWEam) | 4:13 |
 | 75 | [Get It Poppin' \(feat\. Nelly\) \- Radio Version](https://open.spotify.com/track/3zdDxhDo5SycC7XSAPfdjv) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Get It Poppin' \(feat\. Nelly\) \[Radio Version\]](https://open.spotify.com/album/6vKZKCLOg4Yc8VuxFEowtY) | 3:31 |
 
-Snapshot ID: `MTYwLDliZGYxOGQ2ODFkNjk4YjM0ODM2MDIzYTdlMDYyMjk0MjUwNTQ2NWE=`
+Snapshot ID: `AAAAoJvfGNaB1pizSDYCOn4GIpQlBUZa`

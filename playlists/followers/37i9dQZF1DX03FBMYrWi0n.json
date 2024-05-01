@@ -1,5 +1,5 @@
 {
-  "2024-04-30": 4530,
+  "2024-05-01": 4542,
   "date_first_scraped": "2023-02-11",
   "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: Alix Fernz",
   "name": "ALT_QC",
@@ -1399,7 +1399,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-17",
+      "date_removed": null,
       "duration_ms": 302250,
       "name": "K9",
       "url": "https://open.spotify.com/track/6vKKnSBuPeE7ZQLfwjW4re"
@@ -2989,7 +2989,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 207013,
       "name": "Viendras-tu pleurer?",
       "url": "https://open.spotify.com/track/6lBb5vtkIdpJ2LxQX9NisN"

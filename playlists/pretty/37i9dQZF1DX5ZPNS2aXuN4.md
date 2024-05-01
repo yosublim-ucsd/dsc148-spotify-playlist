@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZPNS2aXuN4.md) - [plain]
 
 > An introduction to the music of Bartok, Hungary's greatest composer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,138 likes - 60 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,150 likes - 60 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZPNS2aXuN4.md) - [plain]
 | 59 | [Piano Quintet, BB 33: Vivace \(Scherzando\)](https://open.spotify.com/track/4TLf79n584bHDXPaldbkhK) | [Béla Bartók](https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd), [Jenő Jandó](https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7), [Kodály Quartet](https://open.spotify.com/artist/1LP6gYZMSGJNpso6MWoOWr) | [Bartok: Rhapsodies Nos\. 1 and 2 / Piano Quintet](https://open.spotify.com/album/3kCU85cmmphen7BpsJRfqS) | 8:47 |
 | 60 | [2 Pictures, Op.10 \(Sz\. 46\): 2\. Dorftanz](https://open.spotify.com/track/3PoKD0XdeKoqeVgabNpBW9) | [Béla Bartók](https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd), [Detroit Symphony Orchestra](https://open.spotify.com/artist/1TuMl6QKOFwgQZzzhzuds4), [Antal Doráti](https://open.spotify.com/artist/3kBrUZAp2FVhkN5bcTu0QL) | [Szymanowski: Symphonies Nos\. 1 & 2 / Bartok: Two Pictures](https://open.spotify.com/album/2sRhdZUAexHRvvdy0jUHJc) | 9:10 |
 
-Snapshot ID: `MTY4NjgzNTgzMiwwMDAwMDAwMDYwZTg1ZTZlYmZlNjdlZGNhZjI3OTBmMDQ3MmE1NzZi`
+Snapshot ID: `ZIsSeAAAAABg6F5uv+Z+3K8nkPBHKldr`

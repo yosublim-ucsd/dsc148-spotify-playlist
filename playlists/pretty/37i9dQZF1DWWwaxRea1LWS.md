@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > \#SpotifyTBT is all about Parklife this week\. Cover: Blur
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,268,167 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,267,991 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 | 49 | [Sparky's Dream](https://open.spotify.com/track/1tpjZwsodyFBEo6kxrxLQr) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Grand Prix](https://open.spotify.com/album/2RsAmyJvP12dxBkBQoKP8L) | 3:17 |
 | 50 | [Just When You're Thinkin' Things Over](https://open.spotify.com/track/0uqn625244juq4sKbo9iXw) | [The Charlatans](https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd) | [The Charlatans](https://open.spotify.com/album/3w929DsUH49KkQ8FNLo2wE) | 4:51 |
 
-Snapshot ID: `MTcxNDA2MzY1NCwwMDAwMDAwMDM3MjQ0NDJjZjk0MzIzNGRjMzdlMmU1NTBkNjdkNDdm`
+Snapshot ID: `ZiqJJgAAAAA3JEQs+UMjTcN+LlUNZ9R/`

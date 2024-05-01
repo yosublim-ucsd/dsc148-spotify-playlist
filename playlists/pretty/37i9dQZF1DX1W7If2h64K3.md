@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1W7If2h64K3.md) - [plain]
 
 > Discover the music of Schumann.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,876 likes - 60 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,906 likes - 60 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1W7If2h64K3.md) - [plain]
 | 59 | [Five Pieces in Folk\-Style Op\. 102: Vanitas vanitatum mit Humor](https://open.spotify.com/track/5wxWCCzIbN24JyyoQ95kAD) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Anne Gastinel](https://open.spotify.com/artist/5MODxzUZOCkd6YRLMH5RVC), [Claire Désert](https://open.spotify.com/artist/0ekU4rxJFrjDFLfOawba94) | [Romantique](https://open.spotify.com/album/1BnT4knOzjmwLAK58YIoiN) | 3:18 |
 | 60 | [8 Fantasiestücke, Op.12: 3\. Warum?](https://open.spotify.com/track/4pFOsIjzXXk99LKaPLcc0n) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Alfred Brendel](https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA) | [Alfred Brendel: Steinway Legends](https://open.spotify.com/album/6FnGOwQWk5sSh2huJd53iI) | 2:22 |
 
-Snapshot ID: `MTY4NjkxODk4NiwwMDAwMDAwMDUxMzlkMThhOTEwNWY4NDAxNzk5MTMwNmI0ZThmZDU0`
+Snapshot ID: `ZIxXSgAAAABROdGKkQX4QBeZEwa06P1U`

@@ -1,5 +1,5 @@
 {
-  "2024-04-30": 126029,
+  "2024-05-01": 126011,
   "date_first_scraped": "2022-01-22",
   "description": "Brand new music from Monstercat, all in one place.",
   "name": "New Music Weekly | Monstercat",
@@ -9501,6 +9501,24 @@
       "duration_ms": 476659,
       "name": "Other Side - Factor B's In Loving Memory Remix",
       "url": "https://open.spotify.com/track/3QzeTO4Ylxcl8mAqjyUyHq"
+    },
+    {
+      "album": {
+        "name": "OUR STARS",
+        "url": "https://open.spotify.com/album/26T9baKkEEWN03XeiMSvvN"
+      },
+      "artists": [
+        {
+          "name": "THIRST",
+          "url": "https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147200,
+      "name": "OUR STARS",
+      "url": "https://open.spotify.com/track/5jKmm01l9eMLiQusd6qpKi"
     },
     {
       "album": {

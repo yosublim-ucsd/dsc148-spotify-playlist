@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/0kfqBZx9obUKiLVDwTqGly.md) - [plain]
 | 57 | [Pipeline](https://open.spotify.com/track/1DQ3YAmtMIqF6v9LEtEGHN) | [Bruce Johnston](https://open.spotify.com/artist/0yiSGGu3grpaH56F9znIeU) | [Going Public](https://open.spotify.com/album/7x5517dgXDj2NgIaaHoWZc) | 4:36 |
 | 58 | [Me](https://open.spotify.com/track/6qifiTswRLATDCVEhi8KYR) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Music For Cars EP](https://open.spotify.com/album/5eZGfcFOJcxGIDPwkLT4Bp) | 4:34 |
 
-Snapshot ID: `MjIsN2FjMzAzYTgxMmYxNGY4NTcxZmI1NWVkNTVlYzIwOTk4N2IxYzdhYQ==`
+Snapshot ID: `AAAAFnrDA6gS8U+FcftV7VXsIJmHsceq`

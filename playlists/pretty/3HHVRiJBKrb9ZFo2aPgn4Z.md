@@ -27,4 +27,4 @@ pretty - [cumulative](/playlists/cumulative/3HHVRiJBKrb9ZFo2aPgn4Z.md) - [plain]
 | 17 | [Wait for It](https://open.spotify.com/track/7EqpEBPOohgk7NnKvBGFWo) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN), [Original Broadway Cast of Hamilton](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 3:13 |
 | 18 | [Cherry Wine \- Live](https://open.spotify.com/track/1C042FLYy7rP3MfnkOcnha) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 4:00 |
 
-Snapshot ID: `MjEsYTA0OWRhMDg0MTc0MjE4M2MxMzU3NDE2YzBhNjc1YWNjMjRlMjBjMA==`
+Snapshot ID: `AAAAFaBJ2ghBdCGDwTV0FsCmdazCTiDA`

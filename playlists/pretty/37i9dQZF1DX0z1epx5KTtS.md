@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > African dance party music from Paris to Abidjan\. Photo : Tam Sir
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,776 likes - 40 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,834 likes - 40 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 39 | [Youroukou Mélangé](https://open.spotify.com/track/4ar6OBUWx8WlYq56Z9U0wD) | [Safarel Obiang](https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK), [Ulrich Jordan](https://open.spotify.com/artist/1ukqKaYicuXndWwwhkkHiy), [Maa Bio](https://open.spotify.com/artist/07Zs2joCc5igkrjHAeYAEb) | [Youroukou Mélangé](https://open.spotify.com/album/49Z04lZjYqvbQRvUSk4X8R) | 4:02 |
 | 40 | [Maman poulet](https://open.spotify.com/track/2BMveQq03kTLs6CaJYQQq0) | [Abomé Léléfant](https://open.spotify.com/artist/5MU4VD6BQR9h0TK5pQOqDO) | [Maman poulet](https://open.spotify.com/album/16ZC88xnGYV9nR4RgFs01d) | 2:37 |
 
-Snapshot ID: `MTcxNDA4MjQwMCwwMDAwMDAwMGVlNzdmMzIwZjNlZmExNjQwNGUwNDgyNDZkYWU4Nzc5`
+Snapshot ID: `ZirSYAAAAADud/Mg8++hZATgSCRtrod5`

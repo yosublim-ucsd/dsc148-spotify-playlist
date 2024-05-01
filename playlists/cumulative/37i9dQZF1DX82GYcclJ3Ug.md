@@ -4,7 +4,7 @@
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Nilüfer Yanya
 
-1,807 songs - 4 day 1 hr 2 min
+1,808 songs - 4 day 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1524,6 +1524,7 @@
 | [that b\*tch don't even kno my name...](https://open.spotify.com/track/5RgGQDoWdFGPRUxbb4olwx) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [that b\*tch don't even kno my name...](https://open.spotify.com/album/2fzAi6TqQrDhv6heenILWU) | 2:18 | 2024-03-29 | 2024-04-19 |
 | [That's Where I Am](https://open.spotify.com/track/4f1KkbXHnfIVZ9vmIExByJ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [That's Where I Am](https://open.spotify.com/album/1gBMpfSlQWoMIsR48U7DLr) | 4:12 | 2022-04-08 | 2022-06-04 |
 | [The Antidote](https://open.spotify.com/track/2LnsEYFfPwk6ueO2OCBNLA) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [The Antidote](https://open.spotify.com/album/5Hv9wT0F9Mq2HPcA3Ce1Rl) | 3:15 | 2021-11-26 | 2022-03-12 |
+| [THE BADDEST](https://open.spotify.com/track/7i3PuOJHEfUVy2msxd6WJk) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [THE BADDEST](https://open.spotify.com/album/6BgLfOqQsgYdaVbPDQAuzL) | 2:23 | 2024-04-30 |  |
 | [The Break](https://open.spotify.com/track/6TTtHaVNst2NugJEuCLqoY) | [Blame My Youth](https://open.spotify.com/artist/48sKVtcDwCMxPbqCzAQMbP) | [The Break / Running](https://open.spotify.com/album/0A1HZy3DkvXRFANsBf9vah) | 2:52 | 2024-03-08 |  |
 | [The Break](https://open.spotify.com/track/7MpX5zBhcr3wZrHgs3rCM0) | [Blame My Youth](https://open.spotify.com/artist/48sKVtcDwCMxPbqCzAQMbP) | [The Break](https://open.spotify.com/album/5BnBXjYHPfWhjXlDhqOUpx) | 2:52 | 2024-01-12 | 2024-02-17 |
 | [The Bridge](https://open.spotify.com/track/7MTHpsxtKVJaBL6e9WXzqD) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 3:01 | 2023-05-26 | 2023-07-01 |

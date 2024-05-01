@@ -1,5 +1,5 @@
 {
-  "2024-04-30": 2287258,
+  "2024-05-01": 2287195,
   "date_first_scraped": "2021-12-30",
   "description": "Songs so beautiful, they'll stop you in your tracks.",
   "name": "The Most Beautiful Songs in the World",
@@ -606,6 +606,24 @@
     },
     {
       "album": {
+        "name": "Bright Future",
+        "url": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158065,
+      "name": "Cell Phone Says",
+      "url": "https://open.spotify.com/track/2qUoLYCGQGJPlEM99tKd3t"
+    },
+    {
+      "album": {
         "name": "Chemical Vernacular",
         "url": "https://open.spotify.com/album/23habkRVeCpzhW4EMqISYM"
       },
@@ -779,7 +797,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 186266,
       "name": "Derby's Dose",
       "url": "https://open.spotify.com/track/3XWtrpRAyfF6ZoHAsdlao1"
@@ -1195,6 +1213,24 @@
       "duration_ms": 245000,
       "name": "Future History",
       "url": "https://open.spotify.com/track/2S1K6UlJ0hSOGcG8gCgt9m"
+    },
+    {
+      "album": {
+        "name": "Garden Of England",
+        "url": "https://open.spotify.com/album/1l3RkCJDJQQcEe3He0VPhZ"
+      },
+      "artists": [
+        {
+          "name": "Mitch Sanders",
+          "url": "https://open.spotify.com/artist/7HedZ72Eue9RBASoQXqQWf"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273133,
+      "name": "Garden Of England",
+      "url": "https://open.spotify.com/track/3niX005MakToUal5nk3x9M"
     },
     {
       "album": {
@@ -2451,7 +2487,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 193905,
       "name": "Midnight Sun - Acoustic Version",
       "url": "https://open.spotify.com/track/5EDuUGbmpvQKGZX1XPxje0"
@@ -2491,6 +2527,24 @@
       "duration_ms": 221875,
       "name": "Mountaineer",
       "url": "https://open.spotify.com/track/6qgiIu9Up7oDWfQnaajvy3"
+    },
+    {
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92040,
+      "name": "Movie Star",
+      "url": "https://open.spotify.com/track/6aRmjhWmg9pAioffjegxtp"
     },
     {
       "album": {
@@ -3173,7 +3227,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 257213,
       "name": "Revolution 0",
       "url": "https://open.spotify.com/track/0FUGzUqkqRktGBvIeM3p2X"
@@ -3469,6 +3523,24 @@
       "duration_ms": 190319,
       "name": "Songs in the Kitchen",
       "url": "https://open.spotify.com/track/190G1tt4vK1kMexFTuA1ob"
+    },
+    {
+      "album": {
+        "name": "Fabric",
+        "url": "https://open.spotify.com/album/52BL4F70LbWQ9MqVSAHDca"
+      },
+      "artists": [
+        {
+          "name": "Lily Lyons",
+          "url": "https://open.spotify.com/artist/5YKAGYFz84gLEI7rAFpIpX"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237893,
+      "name": "Spinning Sides",
+      "url": "https://open.spotify.com/track/3Yq5XCfKbKGLuIqlxs4LKJ"
     },
     {
       "album": {
@@ -3847,7 +3919,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 186168,
       "name": "This Is How We Move",
       "url": "https://open.spotify.com/track/5bQV0NEKpqCd3Erpau30VL"

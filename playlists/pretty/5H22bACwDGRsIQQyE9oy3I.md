@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/5H22bACwDGRsIQQyE9oy3I.md) - [plain]
 | 24 | [Cowards Corner](https://open.spotify.com/track/5gUSRYRFyBoQktrWSJQbJ9) | [Lisa O'Neill](https://open.spotify.com/artist/3fZ2IQpHixtBtUtDo7MWpV) | [Same Cloth or Not](https://open.spotify.com/album/2im3tg0rhKBfMuxhxoHsdM) | 3:20 |
 | 25 | [Twisted Arrow](https://open.spotify.com/track/4xh62kQM4xv3eJPAiAfqZ3) | [Arborist](https://open.spotify.com/artist/73NsXu8p63LKM2s24QwxAr), [Kim Deal](https://open.spotify.com/artist/4JzQKxgdLmyqbplHxVL8xY) | [Twisted Arrow](https://open.spotify.com/album/0ZvAV6Ke1hiYbTZ4KdMxNv) | 4:04 |
 
-Snapshot ID: `NTEsNjFiZTk1MjVkZDJiMjk2YjRlMzRkZGI5ODgxNjcxM2Q2MTBjNDA0YQ==`
+Snapshot ID: `AAAAM2G+lSXdKylrTjTduYgWcT1hDEBK`

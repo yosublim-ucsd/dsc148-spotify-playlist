@@ -1,12 +1,12 @@
 {
   "description": "The perfect mixtape for an anime fight scene. Also, check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>.",
-  "num_followers": 1064460,
+  "num_followers": 1065571,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDEwNzY2MCwwMDAwMDAwMGQzYzc2OWZjZDcyNTgzYmY0ZmMyOGFiMjZhYzUyNzc2",
+  "snapshot_id": "Zis1DAAAAADTx2n81yWDv0/CirJqxSd2",
   "tracks": [
     {
       "added_at": "2024-04-26 05:01:00",
@@ -187,18 +187,22 @@
     {
       "added_at": "2024-04-26 05:01:00",
       "album": {
-        "name": "STOKELEY",
-        "url": "https://open.spotify.com/album/0z0z4DcXhHiobX5ZKAw8Qn"
+        "name": "WET DREAMS (w/ Nimstarr)",
+        "url": "https://open.spotify.com/album/4LXyWIoaWrDD2WeWrfDHmg"
       },
       "artists": [
         {
-          "name": "Ski Mask The Slump God",
-          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "Nimstarr",
+          "url": "https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf"
         }
       ],
-      "duration_ms": 138426,
-      "name": "Unbothered",
-      "url": "https://open.spotify.com/track/5hwUsRKvnO5yThjVrxHQVt"
+      "duration_ms": 124711,
+      "name": "WET DREAMS (w/ Nimstarr)",
+      "url": "https://open.spotify.com/track/4as0bvI0a6VSgjWObsvwhi"
     },
     {
       "added_at": "2024-04-26 05:01:00",
@@ -219,22 +223,18 @@
     {
       "added_at": "2024-04-26 05:01:00",
       "album": {
-        "name": "WET DREAMS (w/ Nimstarr)",
-        "url": "https://open.spotify.com/album/4LXyWIoaWrDD2WeWrfDHmg"
+        "name": "STOKELEY",
+        "url": "https://open.spotify.com/album/0z0z4DcXhHiobX5ZKAw8Qn"
       },
       "artists": [
         {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        },
-        {
-          "name": "Nimstarr",
-          "url": "https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf"
+          "name": "Ski Mask The Slump God",
+          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
         }
       ],
-      "duration_ms": 124711,
-      "name": "WET DREAMS (w/ Nimstarr)",
-      "url": "https://open.spotify.com/track/4as0bvI0a6VSgjWObsvwhi"
+      "duration_ms": 138426,
+      "name": "Unbothered",
+      "url": "https://open.spotify.com/track/5hwUsRKvnO5yThjVrxHQVt"
     },
     {
       "added_at": "2024-04-26 05:01:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-04-26 05:01:00",
       "album": {
-        "name": "paranoia",
-        "url": "https://open.spotify.com/album/6jS7gC4DBGC5GLA99RFwEx"
-      },
-      "artists": [
-        {
-          "name": "KENTENSHI",
-          "url": "https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j"
-        }
-      ],
-      "duration_ms": 117408,
-      "name": "paranoia",
-      "url": "https://open.spotify.com/track/7w4t6sPVdboBZpa5prmUuj"
-    },
-    {
-      "added_at": "2024-04-26 05:01:00",
-      "album": {
         "name": "masquerade",
         "url": "https://open.spotify.com/album/1hfRW8Q9CbSzVaKCbaFMxB"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 144535,
       "name": "masquerade",
       "url": "https://open.spotify.com/track/0RYHqnmtNRfbYxP6Dn8Vse"
+    },
+    {
+      "added_at": "2024-04-26 05:01:00",
+      "album": {
+        "name": "paranoia",
+        "url": "https://open.spotify.com/album/6jS7gC4DBGC5GLA99RFwEx"
+      },
+      "artists": [
+        {
+          "name": "KENTENSHI",
+          "url": "https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j"
+        }
+      ],
+      "duration_ms": 117408,
+      "name": "paranoia",
+      "url": "https://open.spotify.com/track/7w4t6sPVdboBZpa5prmUuj"
     },
     {
       "added_at": "2024-04-26 05:01:00",
@@ -387,6 +387,22 @@
     {
       "added_at": "2024-04-26 05:01:00",
       "album": {
+        "name": "MARCELINE",
+        "url": "https://open.spotify.com/album/0NBvXFLdqzROOO4O5KhhNf"
+      },
+      "artists": [
+        {
+          "name": "Lil God Dan",
+          "url": "https://open.spotify.com/artist/20kAERGCnqfyGydzop8bfg"
+        }
+      ],
+      "duration_ms": 155054,
+      "name": "MARCELINE",
+      "url": "https://open.spotify.com/track/17zEBtrjKKa2hwk9CxWIkX"
+    },
+    {
+      "added_at": "2024-04-26 05:01:00",
+      "album": {
         "name": "Shakira!",
         "url": "https://open.spotify.com/album/2fCklc5HvH4eeu2ilTEvvM"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 149577,
       "name": "Shakira!",
       "url": "https://open.spotify.com/track/1zCQXSnLkfXq3TzMLr6pWf"
-    },
-    {
-      "added_at": "2024-04-26 05:01:00",
-      "album": {
-        "name": "MARCELINE",
-        "url": "https://open.spotify.com/album/0NBvXFLdqzROOO4O5KhhNf"
-      },
-      "artists": [
-        {
-          "name": "Lil God Dan",
-          "url": "https://open.spotify.com/artist/20kAERGCnqfyGydzop8bfg"
-        }
-      ],
-      "duration_ms": 155054,
-      "name": "MARCELINE",
-      "url": "https://open.spotify.com/track/17zEBtrjKKa2hwk9CxWIkX"
     },
     {
       "added_at": "2024-04-26 05:01:00",
@@ -507,42 +507,6 @@
     {
       "added_at": "2024-04-26 05:01:00",
       "album": {
-        "name": "Righteous",
-        "url": "https://open.spotify.com/album/3V94UgGEHH6Au9bH1J4MnS"
-      },
-      "artists": [
-        {
-          "name": "Mo Beats",
-          "url": "https://open.spotify.com/artist/2Hil1oktsE7Wic4X5cBGK3"
-        }
-      ],
-      "duration_ms": 163910,
-      "name": "Righteous",
-      "url": "https://open.spotify.com/track/2zG8L9QM7FnlKkLQYirIxh"
-    },
-    {
-      "added_at": "2024-04-26 05:01:00",
-      "album": {
-        "name": "Bunny Girl",
-        "url": "https://open.spotify.com/album/2qUV5ZCrwyCRvkC6otWBJl"
-      },
-      "artists": [
-        {
-          "name": "1nonly",
-          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
-        },
-        {
-          "name": "Ciscaux",
-          "url": "https://open.spotify.com/artist/5qVVvbyUOpNdgTGvNxzcMW"
-        }
-      ],
-      "duration_ms": 166896,
-      "name": "Bunny Girl",
-      "url": "https://open.spotify.com/track/7KVBqGLGhrEejVokzYd8vF"
-    },
-    {
-      "added_at": "2024-04-26 05:01:00",
-      "album": {
         "name": "LA ESPADA",
         "url": "https://open.spotify.com/album/251w9v57Ijs1ZCAiwW0hjs"
       },
@@ -555,6 +519,22 @@
       "duration_ms": 177230,
       "name": "LA ESPADA",
       "url": "https://open.spotify.com/track/2KYNQpVdHsqC84TgJa5T7O"
+    },
+    {
+      "added_at": "2024-04-26 05:01:00",
+      "album": {
+        "name": "Righteous",
+        "url": "https://open.spotify.com/album/3V94UgGEHH6Au9bH1J4MnS"
+      },
+      "artists": [
+        {
+          "name": "Mo Beats",
+          "url": "https://open.spotify.com/artist/2Hil1oktsE7Wic4X5cBGK3"
+        }
+      ],
+      "duration_ms": 163910,
+      "name": "Righteous",
+      "url": "https://open.spotify.com/track/2zG8L9QM7FnlKkLQYirIxh"
     },
     {
       "added_at": "2024-04-26 05:01:00",
@@ -591,6 +571,26 @@
       "duration_ms": 107620,
       "name": "Riders",
       "url": "https://open.spotify.com/track/6wk8RkIpZ6mbQigwKPr1oW"
+    },
+    {
+      "added_at": "2024-04-26 05:01:00",
+      "album": {
+        "name": "Bunny Girl",
+        "url": "https://open.spotify.com/album/2qUV5ZCrwyCRvkC6otWBJl"
+      },
+      "artists": [
+        {
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+        },
+        {
+          "name": "Ciscaux",
+          "url": "https://open.spotify.com/artist/5qVVvbyUOpNdgTGvNxzcMW"
+        }
+      ],
+      "duration_ms": 166896,
+      "name": "Bunny Girl",
+      "url": "https://open.spotify.com/track/7KVBqGLGhrEejVokzYd8vF"
     },
     {
       "added_at": "2024-04-26 05:01:00",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2024-04-26 05:01:00",
       "album": {
+        "name": "MAMBO",
+        "url": "https://open.spotify.com/album/2BTaK3AfGOQCHEy7ivSSw7"
+      },
+      "artists": [
+        {
+          "name": "DIRTYXAN",
+          "url": "https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB"
+        }
+      ],
+      "duration_ms": 127925,
+      "name": "MAMBO",
+      "url": "https://open.spotify.com/track/4U69c6x6vG2ULgUd6tRapG"
+    },
+    {
+      "added_at": "2024-04-26 05:01:00",
+      "album": {
         "name": "Hazbin Hotel (Alastor)",
         "url": "https://open.spotify.com/album/7rS5lhEZReBAAKaSn6HRJL"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 202947,
       "name": "Hazbin Hotel (Alastor)",
       "url": "https://open.spotify.com/track/5odD3zy396AEVrtYSIcxOW"
-    },
-    {
-      "added_at": "2024-04-26 05:01:00",
-      "album": {
-        "name": "MAMBO",
-        "url": "https://open.spotify.com/album/2BTaK3AfGOQCHEy7ivSSw7"
-      },
-      "artists": [
-        {
-          "name": "DIRTYXAN",
-          "url": "https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB"
-        }
-      ],
-      "duration_ms": 127925,
-      "name": "MAMBO",
-      "url": "https://open.spotify.com/track/4U69c6x6vG2ULgUd6tRapG"
     }
   ],
   "unique_name": "sh\u014dnen",

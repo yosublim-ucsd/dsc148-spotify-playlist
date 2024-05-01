@@ -4856,7 +4856,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 167423,
       "name": "Holy Water",
       "url": "https://open.spotify.com/track/2fHQbsR78hCAf7iJHQvzjk"
@@ -13082,6 +13082,28 @@
       "duration_ms": 153163,
       "name": "You Wouldn't Understand",
       "url": "https://open.spotify.com/track/1GVI17KHbG7sblOmYuNQI9"
+    },
+    {
+      "album": {
+        "name": "Echoes of Farewell",
+        "url": "https://open.spotify.com/album/744YhwL1S9OvtUY6QkAPPc"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Elani Boshoff",
+          "url": "https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169375,
+      "name": "You're Gone",
+      "url": "https://open.spotify.com/track/7AU8HVGvd3Jua9oLVSUgE1"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Lyodra
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,028 likes - 115 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,035 likes - 115 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 114 | [Say My Name feat\. Daichi Yamamoto](https://open.spotify.com/track/3UpOKtq2M8zIEJwWKlzY5X) | [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX) | [Found in Tokyo](https://open.spotify.com/album/1CLhqua3C3qKKJiM4gtIuj) | 3:58 |
 | 115 | [Home](https://open.spotify.com/track/3KH7uTsH53MNReg0xtMVAT) | [GAZEKATE](https://open.spotify.com/artist/4F8TQLHmLbfQbaewX40glp) | [Home](https://open.spotify.com/album/0KWcS368MdPtgQlImvyY7k) | 4:57 |
 
-Snapshot ID: `MTcxNDEwNDAwMCwwMDAwMDAwMGMzZWEzNWYzNzFiN2Y1YjgzMGNiZWZkMmZlMzNkNDM5`
+Snapshot ID: `ZismwAAAAADD6jXzcbf1uDDL79L+M9Q5`

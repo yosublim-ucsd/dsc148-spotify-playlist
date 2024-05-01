@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 
 > Chill tunes for mellow moods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,441 likes - 60 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,450 likes - 60 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 | 59 | [Frozen Away](https://open.spotify.com/track/4hboEacHpNTLg2xPmAfjR3) | [altopalo](https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE) | [Blur // Frozen Away](https://open.spotify.com/album/2fqV2w0MSDUocsbpI0OSaa) | 2:48 |
 | 60 | [Together Alone](https://open.spotify.com/track/3EIrhX6rhOZZ9tageWD5Om) | [Nuit Oceān](https://open.spotify.com/artist/4qhCtPKoctC2e4ADsXifH4) | [Island \- EP](https://open.spotify.com/album/0Tfyv7ejRsl3zr8xm16XAr) | 3:05 |
 
-Snapshot ID: `MTY4NjkxODA3OCwwMDAwMDAwMDA0MzFiYmMzZmZkYWI3ZTRjNzNkZGQ4YzMyNTA0Yjg0`
+Snapshot ID: `ZIxTvgAAAAAEMbvD/9q35Mc93YwyUEuE`

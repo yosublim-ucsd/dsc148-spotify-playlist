@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Sawyer Hill
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,821 likes - 115 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,856 likes - 115 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 114 | [Crimes](https://open.spotify.com/track/5HAUHSAlOOw9wyoLV2wvzO) | [Gloom Girl MFG](https://open.spotify.com/artist/2UXI5X9jhT0bwCO13Gb3LL) | [Crimes](https://open.spotify.com/album/4X2WwnZ54aV4nhTcD0BX7M) | 2:37 |
 | 115 | [Let It Go](https://open.spotify.com/track/5YDJAG4rfagJ1hjhtLGffk) | [American Culture](https://open.spotify.com/artist/6OaSE468GGX1xWqex449FP), [Midwife](https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa) | [Let It Go](https://open.spotify.com/album/1Fc7tzB2bYIllsmJz2X4yf) | 5:21 |
 
-Snapshot ID: `MTcxNDEwNzkzMywwMDAwMDAwMDk5MDUxNGRiNzE1NjI2MGU2Y2ZjNGEyM2VkOTEzNWQ0`
+Snapshot ID: `Zis2HQAAAACZBRTbcVYmDmz8SiPtkTXU`

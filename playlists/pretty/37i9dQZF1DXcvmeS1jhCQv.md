@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > New tunes from Ireland for your discovery\. Cover: CARSTEN2X, Joe Butler
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,318 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,322 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 79 | [Naive](https://open.spotify.com/track/09m9mc9HLJ83WGFhIyaXth) | [Melina Malone](https://open.spotify.com/artist/605KmpfOyF5FrdSfQkHnq3) | [Aphrodite](https://open.spotify.com/album/48s5QZAFQiv86wOCGDwjAz) | 4:17 |
 | 80 | [What Can I Do](https://open.spotify.com/track/60fPbVgMVPyeupXThhwYsr) | [Seán Parnell](https://open.spotify.com/artist/4T2113mnfHPC18oWfR1n5u) | [What Can I Do](https://open.spotify.com/album/1gwzS5aSIiElQqOrjyY671) | 3:50 |
 
-Snapshot ID: `MTcxNDA4NjAwMCwwMDAwMDAwMGQwMjFkNTZkYTMzMWVlYjZhODMwOGMzNGU0YzNkNmNi`
+Snapshot ID: `ZirgcAAAAADQIdVtozHutqgwjDTkw9bL`

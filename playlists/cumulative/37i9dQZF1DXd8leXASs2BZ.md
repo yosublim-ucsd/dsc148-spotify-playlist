@@ -2,9 +2,9 @@
 
 ### [+81 Connect FRESH](https://open.spotify.com/playlist/37i9dQZF1DXd8leXASs2BZ)
 
-> Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: AMO
+> Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Kaneee, Kohjiya, Yvng Patra
 
-412 songs - 19 hr 5 min
+413 songs - 19 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Care free](https://open.spotify.com/track/7fAg5vKDq5jBOBpAoYExV6) | [SugLawd Familiar](https://open.spotify.com/artist/6xiT2jISLeWrj8udndxqW4), [Oichi](https://open.spotify.com/artist/6b9pWhWVeTIH0p0px5KnXn), [XF MENEW](https://open.spotify.com/artist/3YF6gmNp1tjvTJp4MkLoWH) | [Care free](https://open.spotify.com/album/0DsApSEvCkKXGQom5mqKJ0) | 2:44 | 2023-12-22 | 2024-03-20 |
 | [Champion belt](https://open.spotify.com/track/4YmKp2Ab0JzOEpVLHnQUVf) | [seek](https://open.spotify.com/artist/5ZOyIC4fdzLPNqbGhLW0wp) | [CountDown](https://open.spotify.com/album/5bbYsaWfqX4bFPCUxpYSOz) | 2:24 | 2023-12-26 | 2024-02-14 |
 | [Champion belt](https://open.spotify.com/track/6vrOErSduGYLHtzMuuKrCZ) | [seek](https://open.spotify.com/artist/5ZOyIC4fdzLPNqbGhLW0wp) | [CountDown](https://open.spotify.com/album/0chXe9DAQPAj9x8BtUQsd5) | 2:24 | 2023-12-26 | 2023-12-30 |
+| [Champions](https://open.spotify.com/track/07n4Wa9DmDyZyeyoba6dtA) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8) | [Champions](https://open.spotify.com/album/2AlTOHvsl8jYqVxGgsvXqe) | 4:37 | 2024-04-30 |  |
 | [CheckMate](https://open.spotify.com/track/5CbBaIi8ATyn3fJ8PnfYgN) | [Ashley](https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ) | [CheckMate](https://open.spotify.com/album/4P33EqCD2BlfS5d57VgGRw) | 2:26 | 2023-12-07 | 2024-03-06 |
 | [Cheddar cheese \- Remix\-](https://open.spotify.com/track/2Fgi2wKzUoHAWRUD0HV1NL) | [Vega KfK](https://open.spotify.com/artist/0CuFgaQzA173GenlMNWZ8u), [E.V.P](https://open.spotify.com/artist/5D9NPQT1XN44peiYNVPfQc), [Hijvc Kid](https://open.spotify.com/artist/1s6kw5kqBkiaD5rjeqAhtH), [Tam yellie](https://open.spotify.com/artist/3vKzwMNdPspIkYPVvG557F) | [Cheddar cheese \(\-Remix\-\)](https://open.spotify.com/album/0LnHszTXui4fuQtct8wfvY) | 2:49 | 2024-03-05 | 2024-04-19 |
 | [Cheddar cheese \- Remix\-](https://open.spotify.com/track/61P2ej4ecrMhNjO8t241gE) | [Vega KfK](https://open.spotify.com/artist/0CuFgaQzA173GenlMNWZ8u), [E.V.P](https://open.spotify.com/artist/5D9NPQT1XN44peiYNVPfQc), [Hijvc Kid](https://open.spotify.com/artist/1s6kw5kqBkiaD5rjeqAhtH), [Tam yellie](https://open.spotify.com/artist/3vKzwMNdPspIkYPVvG557F) | [Cheddar cheese \(\-Remix\-\)](https://open.spotify.com/album/6e6JnkN75BTzyYRRFgwSMh) | 2:49 | 2024-04-16 | 2024-04-24 |
@@ -394,7 +395,7 @@
 | [±](https://open.spotify.com/track/72VqxxCtgZPGSnQbO1qzZx) | [Only U](https://open.spotify.com/artist/7p5yGL3yNq2pqUUKvt2vnt), [Tim Pepperoni](https://open.spotify.com/artist/6XBb171OKsU4jQ5RfERNVo), [Puckafall](https://open.spotify.com/artist/4sk5D1u9uIWDjupHAdxjwg) | [TORiO](https://open.spotify.com/album/0Fb6tnrpnyeOjKYVlWSDKj) | 2:57 | 2023-12-07 | 2024-04-10 |
 | [かかってこい](https://open.spotify.com/track/3hxxNZevvcy6DVYliyNgiK) | [PAZU](https://open.spotify.com/artist/5JoowYOfIQTHsYWHu68O6q) | [LIVE IN YAMADA](https://open.spotify.com/album/3ARpKk257vA0zEzybcN4DB) | 2:39 | 2024-04-16 |  |
 | [どうでもいいかもね](https://open.spotify.com/track/5WkrqCGgSmTKGo7NYim4yo) | [J.Peter](https://open.spotify.com/artist/0bARf1n7M10zgVaZiyLqCg) | [どうでもいいかもね](https://open.spotify.com/album/5sFsKUsXoDbI9BhUJ6VNvW) | 1:58 | 2024-04-16 |  |
-| [はじまり](https://open.spotify.com/track/7rwUoZOOd2BdXKLVVLivuq) | [さよならGOODVIBRATION](https://open.spotify.com/artist/1sq0xWw6UczynlAaJrsiIy) | [はじまり](https://open.spotify.com/album/2O2y83KzYQ5haSzJ5WL6MD) | 2:10 | 2024-04-16 |  |
+| [はじまり](https://open.spotify.com/track/7rwUoZOOd2BdXKLVVLivuq) | [さよならGOODVIBRATION](https://open.spotify.com/artist/1sq0xWw6UczynlAaJrsiIy) | [はじまり](https://open.spotify.com/album/2O2y83KzYQ5haSzJ5WL6MD) | 2:10 | 2024-04-16 | 2024-05-01 |
 | [ぶっ生き返す](https://open.spotify.com/track/0AGcDWKAaClin5VepgC5NS) | [夜猫族](https://open.spotify.com/artist/0cXfVqFUDlUCSKJ7e1wfYJ), [XakiMichele](https://open.spotify.com/artist/0besGoEYPqYySQsScpUqVl), [tip jam](https://open.spotify.com/artist/2ZEpXsofiBwEhDv21FAqEe), [Tade Dust](https://open.spotify.com/artist/5c6lWvTCMWDYRraVAEIm9G) | [ぶっ生き返す](https://open.spotify.com/album/3K1EI1TiKSHcTCEHKiv4RV) | 2:49 | 2024-04-24 |  |
 | [オレたちが気になる](https://open.spotify.com/track/1QU79bN3pSRH4RIs6tC3W5) | [Young zetton](https://open.spotify.com/artist/5goD1jyNCWx6AnsSwsvzhS), [炒炒](https://open.spotify.com/artist/7ACr4V99K9o7WZrPIFlys0), [D\-KARAT](https://open.spotify.com/artist/2RiJGoRLhaoP2CG6AM1ViK) | [Zee PACK vol.2](https://open.spotify.com/album/18kC3R78bY1I0LpsvWTvMR) | 3:23 | 2024-04-16 |  |
 | [マCド](https://open.spotify.com/track/7ouT7XQWAVoirfDsd7BShU) | [PAIN](https://open.spotify.com/artist/3KaeBQyUIIn9LWaAn9kkG0) | [マCド](https://open.spotify.com/album/7gs6ngxb1Ofp0s2W9cqylX) | 1:40 | 2024-04-24 |  |

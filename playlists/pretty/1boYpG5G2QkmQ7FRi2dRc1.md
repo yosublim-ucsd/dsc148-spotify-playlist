@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-[Martin Garrix](https://open.spotify.com/user/martingarrix) - 293,017 likes - 30 songs - 1 hr 40 min
+[Martin Garrix](https://open.spotify.com/user/martingarrix) - 292,985 likes - 30 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 | 29 | [You Got This](https://open.spotify.com/track/2bLkBJsKRgSwkvLyjCQpM6) | [Sascha Funke](https://open.spotify.com/artist/1dDTkRz9WVOQr63enjJ1Yd) | [You Got This](https://open.spotify.com/album/5OUxZxJ0VW8FBGeRjtIjHF) | 6:33 |
 | 30 | [Willow](https://open.spotify.com/track/2OzWNBl541iIac1PHtITkH) | [Wallace](https://open.spotify.com/artist/2VosWday4AoFOXDJgYoDjm) | [Willow](https://open.spotify.com/album/05VxiJ0izjxADnX677K9UY) | 6:08 |
 
-Snapshot ID: `MjA0MSwwNjkyMTM2ZGNhZDIwMDU5YjliODE3NWJmMDBhNDliZWI2MTNiMzI3`
+Snapshot ID: `AAAH+QaSE23K0gBZubgXW/AKSb62E7Mn`

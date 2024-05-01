@@ -1,5 +1,5 @@
 {
-  "2024-04-30": 498952,
+  "2024-05-01": 498957,
   "date_first_scraped": "2022-04-20",
   "description": "The best in house music",
   "name": "House Supreme",
@@ -5564,6 +5564,24 @@
     },
     {
       "album": {
+        "name": "Weapons of Peace",
+        "url": "https://open.spotify.com/album/4KDdTK5jvpYextPXiDGF0x"
+      },
+      "artists": [
+        {
+          "name": "Slow Motion",
+          "url": "https://open.spotify.com/artist/6jmHuLfbWlq34KedQ7mA5I"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304000,
+      "name": "Now Is Gone",
+      "url": "https://open.spotify.com/track/7f0Wj4VRdNj8aPC3s9NcbH"
+    },
+    {
+      "album": {
         "name": "Now Or Never (Gregor Salto Remixes)",
         "url": "https://open.spotify.com/album/3Gx4XYnvDECJEMRfEi0n2p"
       },
@@ -8625,7 +8643,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 160000,
       "name": "What Is Love",
       "url": "https://open.spotify.com/track/1IQ2Ry6SQplU6weACgZJ0X"

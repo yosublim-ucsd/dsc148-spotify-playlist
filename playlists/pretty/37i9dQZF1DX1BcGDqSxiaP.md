@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BcGDqSxiaP.md) - [plain]
 
 > Releases from the legendary Blues label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,959 likes - 52 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,965 likes - 52 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BcGDqSxiaP.md) - [plain]
 | 51 | [It's My Life, Baby](https://open.spotify.com/track/2FYMDZQN3ExwEkcJx7gnKL) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [Guitar Slinger](https://open.spotify.com/album/2y4i1Oo4Kgj1NRz2wfPz5c) | 4:10 |
 | 52 | [Don't Take Advantage Of Me](https://open.spotify.com/track/1vY0DlMigFsTeaF8J7DdLD) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [Guitar Slinger](https://open.spotify.com/album/2y4i1Oo4Kgj1NRz2wfPz5c) | 5:24 |
 
-Snapshot ID: `MTY4NjgzNzExOCwwMDAwMDAwMDRkZGNiMjJlOWVmZWZlYjMzMzVkMjBlMTRiNTVlOWFh`
+Snapshot ID: `ZIsXfgAAAABN3LIunv7+szNdIOFLVemq`

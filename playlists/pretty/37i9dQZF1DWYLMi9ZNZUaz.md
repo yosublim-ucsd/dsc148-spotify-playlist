@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: RPT MCK
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,061 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,054 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 49 | [Thương](https://open.spotify.com/track/0sMc56aynx4DJwJtElVOSf) | [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F), [Vũ Phụng Tiên](https://open.spotify.com/artist/70ULEgr5A3zBL12foM4bnj) | [Thương](https://open.spotify.com/album/0eVRpLCwnAcVnlZM52DN5m) | 3:05 |
 | 50 | [Lớn Rồi](https://open.spotify.com/track/0FjmyK9Z2ymS5HbUvrdeL5) | [DSK](https://open.spotify.com/artist/0KqWWEbDa21psQwESpf3pD) | [Lớn Rồi](https://open.spotify.com/album/1aV6gmvYoIWNjzS7yOo4mG) | 3:21 |
 
-Snapshot ID: `MTcxMzQxNTMzNywwMDAwMDAwMDk2NjdiZDFmODFjZTA1NWU3NDk1NDQ0YzRiODkxYzEy`
+Snapshot ID: `ZiCkqQAAAACWZ70fgc4FXnSVRExLiRwS`

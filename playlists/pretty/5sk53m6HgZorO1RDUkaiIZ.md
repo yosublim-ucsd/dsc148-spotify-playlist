@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/5sk53m6HgZorO1RDUkaiIZ.md) - [plain]
 | 158 | [Kyoto](https://open.spotify.com/track/2djY65hifu2a4R2WqcXqKL) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Kyoto](https://open.spotify.com/album/6gdjvua6iksIJZgmD5FpRp) | 4:30 |
 | 159 | [Crystal City](https://open.spotify.com/track/6Yqzw3U3RYFtIu9YnI1Ugj) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Frost God](https://open.spotify.com/album/6Qj9L5tOFscNgKwi0Ab0TT) | 4:05 |
 
-Snapshot ID: `MTc1NSw0Yjc2MmU2NDY2ZjQ2ZmVkMjI5YTQ0MjY2YjJhMjNjYjBhOTA0OTcz`
+Snapshot ID: `AAAG20t2LmRm9G/tIppEJmsqI8sKkElz`

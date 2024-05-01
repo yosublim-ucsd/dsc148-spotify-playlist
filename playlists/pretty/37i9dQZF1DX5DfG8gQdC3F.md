@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from PARTYNEXTDOOR, Normani, Anitta & Sam Smith, MacKenzie Porter and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,586 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,606 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [home](https://open.spotify.com/track/26JqmHoDGUmQMe4HVooNr3) | [ellis](https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN) | [home](https://open.spotify.com/album/0PodyzJN3eL2uFAZbrXxxc) | 4:23 |
 | 100 | [I Don't Miss You](https://open.spotify.com/track/24infhEthjRFtRysglZ1vj) | [Sophia Fracassi](https://open.spotify.com/artist/7MPa3OSyGyLNq9CedDr2LT) | [I Don't Miss You](https://open.spotify.com/album/3kpMwx0xTK3gpjoqW8MGWS) | 2:37 |
 
-Snapshot ID: `MTcxNDEwNDQ0NSwwMDAwMDAwMDJiMTZkMTVlZjI5MTY2M2EwM2NhNmM5NGE0MjAyYTA3`
+Snapshot ID: `ZisofQAAAAArFtFe8pFmOgPKbJSkICoH`

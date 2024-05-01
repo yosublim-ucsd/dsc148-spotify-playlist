@@ -27,4 +27,4 @@ pretty - [cumulative](/playlists/cumulative/57clV3IPw1TXSWdzzDVDwp.md) - [plain]
 | 17 | [Let Me Go](https://open.spotify.com/track/4waAOpgaQ6WvWLir6xowWD) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Lovers \- EP](https://open.spotify.com/album/2WBVJp2HWIEPoP7l2RdP1o) | 3:43 |
 | 18 | [Funeral](https://open.spotify.com/track/5c5dgEF3gb9ZLtrqQyHg2h) | [Mavrick](https://open.spotify.com/artist/2l9yw8Eb7B9bziBHtOmUVC) | [Funeral](https://open.spotify.com/album/5blhA83wMzUY7Jd3vaCw1j) | 4:00 |
 
-Snapshot ID: `MzIsNWE1ZDY3NmY1NzEyYmM2NDhjOTA0OTZhZjYyNjkxNDNlMjczNGYwOQ==`
+Snapshot ID: `AAAAIFpdZ29XErxkjJBJavYmkUPic08J`

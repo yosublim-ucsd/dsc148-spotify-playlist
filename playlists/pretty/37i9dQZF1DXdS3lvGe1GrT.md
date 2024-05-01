@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Bloomsday
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,172 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,211 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 99 | [Simple](https://open.spotify.com/track/25ODmLEb3AI2ZTaYUXFACi) | [Jia\*](https://open.spotify.com/artist/23B8icZGpSGzcedCDa2Cjy) | [Look Around / Simple](https://open.spotify.com/album/5OGV9LPH8d63btJ904hLwi) | 2:24 |
 | 100 | [Intro, Dream](https://open.spotify.com/track/6h3eqlgYSMVbxQvNsfIwN3) | [Nico Paulo](https://open.spotify.com/artist/5qmzeW1wvVq0c2lFK1MieD) | [Nico Paulo](https://open.spotify.com/album/4hxJYEOKb1NGphLaJb0QuN) | 1:47 |
 
-Snapshot ID: `MTcxMzkzMTIwMCwwMDAwMDAwMDFlNmY1MGMxZjVlOGMyMzIyOTZmMDliOWRjNmQ5NjNl`
+Snapshot ID: `ZiiDwAAAAAAeb1DB9ejCMilvCbncbZY+`

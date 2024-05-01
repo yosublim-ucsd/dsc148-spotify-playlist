@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Tucker Wetmore
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,557 likes - 200 songs - 10 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,660 likes - 200 songs - 10 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 199 | [Meant To Miss You](https://open.spotify.com/track/4hr2zxu8CIvtnBgYEiFvIK) | [Josh Melton](https://open.spotify.com/artist/5l5SDQs2xyEidWQOw3ro6T) | [Meant To Miss You](https://open.spotify.com/album/0TT653HyJDZRoqzAoHGd5T) | 3:20 |
 | 200 | [Drink Em Up](https://open.spotify.com/track/6mTdWZ1l1pNBtoetnlhlMY) | [The Washboard Union](https://open.spotify.com/artist/2YftJBwNPaJJMK5ORcHq8k) | [Drink Em Up](https://open.spotify.com/album/3wgOnaECqpgR1vGJ894llo) | 3:11 |
 
-Snapshot ID: `MTcxNDEwNDAwMCwwMDAwMDAwMDVlNzVhMjcyYzRlZmIxOTU0NmQyZDIwMmI4MjM1OTM4`
+Snapshot ID: `ZismwAAAAABedaJyxO+xlUbS0gK4I1k4`

@@ -348,7 +348,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-24",
+      "date_removed": null,
       "duration_ms": 246612,
       "name": "Before I Go",
       "url": "https://open.spotify.com/track/5tqZBgS6Db32QHXquR1QvM"
@@ -388,6 +388,24 @@
       "duration_ms": 128800,
       "name": "BET ON ME",
       "url": "https://open.spotify.com/track/38WZNUb790bT6zuXWoGgkO"
+    },
+    {
+      "album": {
+        "name": "H.U.E.",
+        "url": "https://open.spotify.com/album/1vIJNSPpYHqjNPFoQVea0x"
+      },
+      "artists": [
+        {
+          "name": "NOISEMAKER",
+          "url": "https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233879,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/5UW8UdlVS8MGbfD2ULYcO3"
     },
     {
       "album": {
@@ -1130,7 +1148,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 179813,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/1dBr4hC9Idh0QpD5UFQNax"
@@ -1274,7 +1292,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 214858,
       "name": "Flower Bed",
       "url": "https://open.spotify.com/track/04qHub06DBGakVjjIYq5Bd"
@@ -1642,6 +1660,24 @@
       "duration_ms": 227800,
       "name": "I Refuse",
       "url": "https://open.spotify.com/track/0rlVGQ1dhCbxXqy6Z79I32"
+    },
+    {
+      "album": {
+        "name": "I'll be there",
+        "url": "https://open.spotify.com/album/2XV1p7LViusogXzUiB338X"
+      },
+      "artists": [
+        {
+          "name": "MAN WITH A MISSION",
+          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278433,
+      "name": "I'll be there",
+      "url": "https://open.spotify.com/track/0lfcOko3BkbcOOQvIJVUG0"
     },
     {
       "album": {
@@ -2358,7 +2394,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 233045,
       "name": "Me Against Myself",
       "url": "https://open.spotify.com/track/3k6kqDASuLfQPxoNXA10kZ"
@@ -3942,7 +3978,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-29",
+      "date_removed": null,
       "duration_ms": 210945,
       "name": "SWEET DREAMS",
       "url": "https://open.spotify.com/track/65at5xnnXAoWMeF7i0xKaZ"
@@ -4750,7 +4786,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 215366,
       "name": "\u30ab\u30df\u30ca\u30ea\u30d0\u30ca",
       "url": "https://open.spotify.com/track/7HF0Lb4ax3JsRz7WHdaN8X"

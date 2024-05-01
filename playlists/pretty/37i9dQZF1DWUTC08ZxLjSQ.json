@@ -1,13 +1,189 @@
 {
-  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover:Sine. Artwork: Isu Kim",
-  "num_followers": 8751,
+  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Seera band. Artwork: Isu Kim",
+  "num_followers": 8758,
   "original_name": "Fresh Finds Arabia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcwODQ1OTI2MCwwMDAwMDAwMDQyOWFhNDM5NmQyZDE2ZWVmYjE2ZDYzYWRmZDY3YzYz",
+  "snapshot_id": "ZjFO7AAAAABt3aSHjeu72A7i5Fancxmn",
   "tracks": [
+    {
+      "added_at": "2024-04-30 20:05:00",
+      "album": {
+        "name": "Aalam Al Ahlam",
+        "url": "https://open.spotify.com/album/0Bpu81JbeYcjSDdlk17Wwy"
+      },
+      "artists": [
+        {
+          "name": "Seera",
+          "url": "https://open.spotify.com/artist/2F1QgtQgZA2gx2ovc1bEkc"
+        }
+      ],
+      "duration_ms": 301493,
+      "name": "Aalam Al Ahlam",
+      "url": "https://open.spotify.com/track/5qC4xHoM6d1cKUTG22ONOp"
+    },
+    {
+      "added_at": "2024-04-30 20:05:00",
+      "album": {
+        "name": "came here 4 fun",
+        "url": "https://open.spotify.com/album/5AvFSf697HQ1JvGFM3hurz"
+      },
+      "artists": [
+        {
+          "name": "Albader",
+          "url": "https://open.spotify.com/artist/1RnDhsfDlMPFJhTOgiKwb0"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "came here 4 fun",
+      "url": "https://open.spotify.com/track/0oSPHFigMEOS67fo6bbo3Y"
+    },
+    {
+      "added_at": "2024-04-30 20:05:00",
+      "album": {
+        "name": "This Place",
+        "url": "https://open.spotify.com/album/2OUgUQAkf2YU9U4140A5fh"
+      },
+      "artists": [
+        {
+          "name": "Maryam Turkey",
+          "url": "https://open.spotify.com/artist/6ozaRZ7avFAylAHplxjKMz"
+        }
+      ],
+      "duration_ms": 171373,
+      "name": "This Place",
+      "url": "https://open.spotify.com/track/7lk1CT7tdr1dBw2Aq6swoG"
+    },
+    {
+      "added_at": "2024-04-30 20:05:00",
+      "album": {
+        "name": "Night n Day",
+        "url": "https://open.spotify.com/album/6GWsijVQIFTc5MKIsazt66"
+      },
+      "artists": [
+        {
+          "name": "Chase",
+          "url": "https://open.spotify.com/artist/2QGv8ZbI72ZIpY9GUifmbp"
+        }
+      ],
+      "duration_ms": 118110,
+      "name": "Night n Day",
+      "url": "https://open.spotify.com/track/12GvebbxR0WMf79NwMBphn"
+    },
+    {
+      "added_at": "2024-04-30 20:05:00",
+      "album": {
+        "name": "Ad3i",
+        "url": "https://open.spotify.com/album/6mU2iJOgc4uFmZCeXg5ksP"
+      },
+      "artists": [
+        {
+          "name": "Esra",
+          "url": "https://open.spotify.com/artist/3n7kNeG8hcdoPSLDSPMne5"
+        }
+      ],
+      "duration_ms": 196250,
+      "name": "Ad3i",
+      "url": "https://open.spotify.com/track/7gUPXOyNzWB3AVIHkZ0hDt"
+    },
+    {
+      "added_at": "2024-04-30 20:05:00",
+      "album": {
+        "name": "Liga",
+        "url": "https://open.spotify.com/album/6jIUOAlsBqHeCIRWH6KbXz"
+      },
+      "artists": [
+        {
+          "name": "Connan",
+          "url": "https://open.spotify.com/artist/2rwkjlKZ4WoJXfkqUt3L45"
+        }
+      ],
+      "duration_ms": 130530,
+      "name": "Liga",
+      "url": "https://open.spotify.com/track/4iwxGcPrnMklAFdImT3iaE"
+    },
+    {
+      "added_at": "2024-04-30 20:05:00",
+      "album": {
+        "name": "Leh (\u0644\u064a\u0634)",
+        "url": "https://open.spotify.com/album/6BmoWEvQAaZsdhxfnSHuT2"
+      },
+      "artists": [
+        {
+          "name": "Norhan",
+          "url": "https://open.spotify.com/artist/4GEoaIvEquHnb4yy28scNj"
+        }
+      ],
+      "duration_ms": 186953,
+      "name": "Leh (\u0644\u064a\u0634)",
+      "url": "https://open.spotify.com/track/2jPcIPZC1ib88HgCtCxTlO"
+    },
+    {
+      "added_at": "2024-04-30 20:05:00",
+      "album": {
+        "name": "Ala Wain",
+        "url": "https://open.spotify.com/album/4WUgYuFGOsueuMDqjVnbxi"
+      },
+      "artists": [
+        {
+          "name": "Majaz",
+          "url": "https://open.spotify.com/artist/6SMbDiMWTUPhoyEhPwzn0H"
+        }
+      ],
+      "duration_ms": 217802,
+      "name": "Ala Wain",
+      "url": "https://open.spotify.com/track/5VKc8PPiqkei1pIsBYTCTs"
+    },
+    {
+      "added_at": "2024-04-30 20:05:00",
+      "album": {
+        "name": "Jiddo",
+        "url": "https://open.spotify.com/album/0SladTRgQhrI8r1zZt62gY"
+      },
+      "artists": [
+        {
+          "name": "Mvndila",
+          "url": "https://open.spotify.com/artist/4xChDGJOSeebJva9pcvmSJ"
+        }
+      ],
+      "duration_ms": 144404,
+      "name": "Jiddo",
+      "url": "https://open.spotify.com/track/6pczaXrplw78wIo3D9zuLM"
+    },
+    {
+      "added_at": "2024-04-30 20:05:00",
+      "album": {
+        "name": "Kolchi 3arf",
+        "url": "https://open.spotify.com/album/5Nu77x2QkREvxts4nQntom"
+      },
+      "artists": [
+        {
+          "name": "Odeys",
+          "url": "https://open.spotify.com/artist/5nt1POu9Ic7eODvynu0tyf"
+        }
+      ],
+      "duration_ms": 209144,
+      "name": "Kolchi 3arf",
+      "url": "https://open.spotify.com/track/3xmhvhO1q0KkpT2bk6ibfu"
+    },
+    {
+      "added_at": "2024-04-30 20:05:00",
+      "album": {
+        "name": "Laa",
+        "url": "https://open.spotify.com/album/1AoAHD9U2WcFPt0TTJ9yhu"
+      },
+      "artists": [
+        {
+          "name": "Rust",
+          "url": "https://open.spotify.com/artist/1XzT6srnxzyGocVsjgrdWR"
+        }
+      ],
+      "duration_ms": 196471,
+      "name": "Laa",
+      "url": "https://open.spotify.com/track/1xyE7A0oSKNdUcRmCau56F"
+    },
     {
       "added_at": "2024-02-20 20:01:00",
       "album": {
@@ -671,182 +847,6 @@
       "duration_ms": 221146,
       "name": "Last Time That I Saw You",
       "url": "https://open.spotify.com/track/1hspuwdjIRtcmTi7QkC7fM"
-    },
-    {
-      "added_at": "2024-02-20 20:01:00",
-      "album": {
-        "name": "Needless",
-        "url": "https://open.spotify.com/album/2VwLQ9E20MkOMiPFY7DruA"
-      },
-      "artists": [
-        {
-          "name": "Ziad",
-          "url": "https://open.spotify.com/artist/0pyVNHbpZ6oiTYTYPLp7aj"
-        }
-      ],
-      "duration_ms": 136153,
-      "name": "Needless",
-      "url": "https://open.spotify.com/track/0jg7Ae67TGs8uDFhsW6Xri"
-    },
-    {
-      "added_at": "2024-02-20 20:01:00",
-      "album": {
-        "name": "WORK",
-        "url": "https://open.spotify.com/album/7rFFhUon9lIWtvSSH5XYHy"
-      },
-      "artists": [
-        {
-          "name": "Zahraa",
-          "url": "https://open.spotify.com/artist/2dEne6fzRqdfeUce061gtr"
-        }
-      ],
-      "duration_ms": 164722,
-      "name": "WORK",
-      "url": "https://open.spotify.com/track/72gAZIf8wnbOuz1GqGUtGF"
-    },
-    {
-      "added_at": "2024-02-20 20:01:00",
-      "album": {
-        "name": "Limit",
-        "url": "https://open.spotify.com/album/36z227Nye8ncY8O22fA5lc"
-      },
-      "artists": [
-        {
-          "name": "Seina",
-          "url": "https://open.spotify.com/artist/6p4bXL1UgsPhxAbHWiD7ic"
-        },
-        {
-          "name": "Idrissi",
-          "url": "https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF"
-        }
-      ],
-      "duration_ms": 270967,
-      "name": "Limit",
-      "url": "https://open.spotify.com/track/5pSMiWiNHzftxYS4LWzjm0"
-    },
-    {
-      "added_at": "2024-02-20 20:01:00",
-      "album": {
-        "name": "Toque Del Sol",
-        "url": "https://open.spotify.com/album/4OezapuJwbIXSoyUKlDFcn"
-      },
-      "artists": [
-        {
-          "name": "ReqTeq",
-          "url": "https://open.spotify.com/artist/0F0tiuO58aU8k6KORsYrnv"
-        },
-        {
-          "name": "Tha\u00efs Sala",
-          "url": "https://open.spotify.com/artist/6xPRuXtCzd7gQH4yOSgZyB"
-        }
-      ],
-      "duration_ms": 270508,
-      "name": "Toque Del Sol",
-      "url": "https://open.spotify.com/track/58eEvagJwKhcmHbG40AuEg"
-    },
-    {
-      "added_at": "2024-02-20 20:01:00",
-      "album": {
-        "name": "Greedy",
-        "url": "https://open.spotify.com/album/4F6PiOx1sG3nj2qsENKwow"
-      },
-      "artists": [
-        {
-          "name": "Nawal",
-          "url": "https://open.spotify.com/artist/4I7cv8uAvHYwNrMgHer9bV"
-        },
-        {
-          "name": "NBL",
-          "url": "https://open.spotify.com/artist/5mEoje9uiOkieG0o7eKZ5D"
-        }
-      ],
-      "duration_ms": 199207,
-      "name": "Greedy",
-      "url": "https://open.spotify.com/track/5rS361ITtlivgOlz9PcxM7"
-    },
-    {
-      "added_at": "2024-02-20 20:01:00",
-      "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/0QLX3k01xXv49q31TXZqlL"
-      },
-      "artists": [
-        {
-          "name": "Fonzo",
-          "url": "https://open.spotify.com/artist/4n2TYibag10VGUrfO7rQoF"
-        }
-      ],
-      "duration_ms": 440655,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/0F2pGe4qohDKXtvwEeMV7l"
-    },
-    {
-      "added_at": "2024-02-20 20:01:00",
-      "album": {
-        "name": "Rather Try",
-        "url": "https://open.spotify.com/album/14CEaWYYQN7bEqnYu21syi"
-      },
-      "artists": [
-        {
-          "name": "Ziad",
-          "url": "https://open.spotify.com/artist/0pyVNHbpZ6oiTYTYPLp7aj"
-        }
-      ],
-      "duration_ms": 157846,
-      "name": "Rather Try",
-      "url": "https://open.spotify.com/track/7D09Q387brpXrH6w1eXYdY"
-    },
-    {
-      "added_at": "2024-02-20 20:01:00",
-      "album": {
-        "name": "annoying",
-        "url": "https://open.spotify.com/album/1MTScNFunNBwxgJkO9tZEv"
-      },
-      "artists": [
-        {
-          "name": "Raad Barhoush",
-          "url": "https://open.spotify.com/artist/0sZ9TETarthZmQqqJY2KII"
-        }
-      ],
-      "duration_ms": 144744,
-      "name": "annoying",
-      "url": "https://open.spotify.com/track/7E7OEz8Pe7h92jotkdKFgN"
-    },
-    {
-      "added_at": "2024-02-20 20:01:00",
-      "album": {
-        "name": "Design",
-        "url": "https://open.spotify.com/album/5i4xmITMRcWdNIR7Ib8hGT"
-      },
-      "artists": [
-        {
-          "name": "Chase",
-          "url": "https://open.spotify.com/artist/2QGv8ZbI72ZIpY9GUifmbp"
-        },
-        {
-          "name": "Salim B",
-          "url": "https://open.spotify.com/artist/3tFLmb0PpdE1gcx5yC8r2A"
-        }
-      ],
-      "duration_ms": 186763,
-      "name": "Design",
-      "url": "https://open.spotify.com/track/4bPAZODVFGiXJGlqQC27qr"
-    },
-    {
-      "added_at": "2024-02-20 20:01:00",
-      "album": {
-        "name": "HYDR",
-        "url": "https://open.spotify.com/album/2vOm3Yvo9VjTU73WJRfLyA"
-      },
-      "artists": [
-        {
-          "name": "Mvndila",
-          "url": "https://open.spotify.com/artist/4xChDGJOSeebJva9pcvmSJ"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "sxcbnda",
-      "url": "https://open.spotify.com/track/6RK9RIMO12fdRKVfzxN5JH"
     }
   ],
   "unique_name": "Fresh Finds Arabia",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4LIb2PKCU2q36oMfA4eNHl.md) - [plain]
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-[Anjunadeep](https://open.spotify.com/user/anjunadeep) - 42,168 likes - 40 songs - 2 hr 36 min
+[Anjunadeep](https://open.spotify.com/user/anjunadeep) - 42,169 likes - 40 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/4LIb2PKCU2q36oMfA4eNHl.md) - [plain]
 | 39 | [Lonely Star](https://open.spotify.com/track/6RnK2EgZ6AfSFwjXaYyfrk) | [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ), [Mario Hammer And The Lonely Robot](https://open.spotify.com/artist/1inotkeSInj9u2UUeENFH5) | [Happiness EP](https://open.spotify.com/album/4rORjkZD4qJYHjiIMJrhFy) | 4:02 |
 | 40 | [here / present](https://open.spotify.com/track/3p1JAGAqMNUUkM4ABUw9Ih) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [if I can be honest](https://open.spotify.com/album/3u1zyY9ivPRbLi9Am9FkJ8) | 4:58 |
 
-Snapshot ID: `MjU1NSwxMWJmNWQyOTgyZTQxNjIzNzBkY2ZmNjViYmE2MDAwZTA2Mjk3MjUz`
+Snapshot ID: `AAAJ+xG/XSmC5BYjcNz/ZbumAA4GKXJT`

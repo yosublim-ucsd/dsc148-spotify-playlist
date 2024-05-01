@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Portada: Kenia OS
 
-[Spotify](https://open.spotify.com/user/spotify) - 882,435 likes - 64 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 882,219 likes - 64 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 63 | [El Chipote Chillon](https://open.spotify.com/track/28Nr9Y2yKh5QLhyLpPRwQW) | [Chino la Rabia](https://open.spotify.com/artist/5eTqST9Gmh11HlBeSZei7K) | [El Chipote Chillon](https://open.spotify.com/album/0xy82aynaPUug46fPtJDzi) | 3:03 |
 | 64 | [La noche ha caído](https://open.spotify.com/track/6pDFqwzICSf2mUxhgPFNNa) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [La noche ha caído](https://open.spotify.com/album/0miT8Ozcj2HXC5QSTDuoVP) | 4:10 |
 
-Snapshot ID: `MTcxNDM1NDE2MywwMDAwMDAwMDM2Yjk0NmU0OWQ0ZDk4Y2ZmZmQ5NzhiNzU4Y2ZmOGM1`
+Snapshot ID: `Zi738wAAAAA2uUbknU2Yz//ZeLdYz/jF`

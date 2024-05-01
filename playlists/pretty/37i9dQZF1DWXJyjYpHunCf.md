@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Shaya Zamora
 
-[Spotify](https://open.spotify.com/user/spotify) - 907,226 likes - 84 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 907,463 likes - 84 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 | 83 | [All We Ever Knew](https://open.spotify.com/track/5wrGviDHdJ2MYgDRow14cu) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [All We Ever Knew](https://open.spotify.com/album/2DxrFMvkLvj3CiTapFkXhX) | 3:45 |
 | 84 | [Like Gold](https://open.spotify.com/track/6Od2OWvoT4embWAgIGeFRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:44 |
 
-Snapshot ID: `MTcxMzQ5OTIwMCwwMDAwMDAwMDI1YmQ0YjI5YmUzNWVmOGY5MDliMjk1NWE2NmE5ZDY4`
+Snapshot ID: `ZiHsQAAAAAAlvUspvjXvj5CbKVWmap1o`

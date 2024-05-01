@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/0sDO43KAaJUWIYassTKWYf.md) - [plain]
 | 38 | [The Libertine](https://open.spotify.com/track/0e1YU6MxxsDRr1AvIpZnc5) | [Patrick Wolf](https://open.spotify.com/artist/6s92YZUPkTK1HL1WIGrPKE) | [Sundark and Riverlight](https://open.spotify.com/album/2flDVPf3Zo7igod40wQNlk) | 4:20 |
 | 39 | [Something That Lasts](https://open.spotify.com/track/3eiZs0DXRNB26pmzxSyUSe) | [Alexander Wolfe](https://open.spotify.com/artist/13N2h4wklImTgtgO3JU7B0) | [Skeletons](https://open.spotify.com/album/1xCXWZj0Xl4Vy8CAgIUaG7) | 3:56 |
 
-Snapshot ID: `OTQsZWE3YTk5MWExMDBjYjkwMzgxODA4NDA4MGQxZjRiOTEwMGQyNzdiYw==`
+Snapshot ID: `AAAAXup6mRoQDLkDgYCECA0fS5EA0ne8`

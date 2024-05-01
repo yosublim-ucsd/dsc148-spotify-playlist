@@ -1,5 +1,5 @@
 {
-  "2024-04-30": 57439,
+  "2024-05-01": 57434,
   "date_first_scraped": "2021-12-28",
   "description": "Check out the latest hits from Sandalwood!\nCover : Karataka Damanaka\n",
   "name": "Latest Kannada",
@@ -1743,6 +1743,32 @@
       "duration_ms": 213069,
       "name": "Arerere Ragale",
       "url": "https://open.spotify.com/track/5LllDa78w4rq9z1tC9chiC"
+    },
+    {
+      "album": {
+        "name": "Music Shop Murthy (Kannada)",
+        "url": "https://open.spotify.com/album/6lEoYPwueup3UcOlv1TtjX"
+      },
+      "artists": [
+        {
+          "name": "Pavan",
+          "url": "https://open.spotify.com/artist/3DsYnBCj82o1618kqGdGKp"
+        },
+        {
+          "name": "Vishwajeet Deshpande",
+          "url": "https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U"
+        },
+        {
+          "name": "Kishore Viswakarma",
+          "url": "https://open.spotify.com/artist/6dUfgmTa1L9pT6ix9sf8ul"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193352,
+      "name": "Arerey Kaalave",
+      "url": "https://open.spotify.com/track/5VOxovcjOy9Fu3OgitRuRb"
     },
     {
       "album": {
@@ -6600,6 +6626,32 @@
     },
     {
       "album": {
+        "name": "Edhe Goodali (From \"Jasti Preeti\")",
+        "url": "https://open.spotify.com/album/03JoWmapDRRRz2VQGigtJh"
+      },
+      "artists": [
+        {
+          "name": "Badri Prasad",
+          "url": "https://open.spotify.com/artist/1Q40wizO6hrVtooWsgSSbG"
+        },
+        {
+          "name": "Vineeth Raj Menon",
+          "url": "https://open.spotify.com/artist/6oqmm7nNRyAfBdevvHaJ7d"
+        },
+        {
+          "name": "Arun Manav",
+          "url": "https://open.spotify.com/artist/0HyGVOYeaqf5AD6RpRIfyX"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225968,
+      "name": "Edhe Goodali (From \"Jasti Preeti\")",
+      "url": "https://open.spotify.com/track/7kEEUfYAGQEGkGOY3FJG0P"
+    },
+    {
+      "album": {
         "name": "Edho Namma Horata (From \"Dandi\")",
         "url": "https://open.spotify.com/album/1ypYAcGQJ14oJOLAgwhigy"
       },
@@ -7127,7 +7179,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 231944,
       "name": "Ella Neenene - From \"KTM\"",
       "url": "https://open.spotify.com/track/7tsSE42pB6dV3dqRfz1dx7"
@@ -12157,7 +12209,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 203692,
       "name": "Kaayutha Ondu (from \"Crush\")",
       "url": "https://open.spotify.com/track/4mNhOPItz1N88sZYHb76zn"
@@ -15655,7 +15707,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 248480,
       "name": "Matte Matte Midiyade (from \"Sanju\")",
       "url": "https://open.spotify.com/track/6nrpuS8gewqFv8yA4eVvF1"
@@ -16657,7 +16709,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 247999,
       "name": "Munjaane Manjannu (From \"Jog101\") (Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/6sigw1lx66FL21ni9GzZVi"
@@ -24465,7 +24517,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 236184,
       "name": "Soul of Shakhahaari (Title Track) - From \"Shakhahaari\"",
       "url": "https://open.spotify.com/track/3DWtEObUfssRvORPVL6Fqz"

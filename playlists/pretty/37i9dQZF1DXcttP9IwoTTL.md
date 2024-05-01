@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 
 > <a href="spotify:artist:3AN049igIAaoX0fjTCkpnf">Jennifer Cardini</a>'s favorite tracks\. Updated regularly\. Curated by Jennifer Cardini\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,391 likes - 70 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,401 likes - 70 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 | 69 | [Outwhere](https://open.spotify.com/track/4arueRX7ucRDwdGfju10Dq) | [Pistaccio](https://open.spotify.com/artist/0CPQ7sB3QkGynlGx0yy82i) | [Message from Gaia](https://open.spotify.com/album/7vuM3inmz1oxMfSF3Vze0W) | 4:26 |
 | 70 | [Regret 4 Nothing](https://open.spotify.com/track/1Iunmy3NbRdtwYGgNnFpwE) | [Male Tears](https://open.spotify.com/artist/4URGzwxaOCq4ASrH5QlNqa) | [Regret 4 Nothing](https://open.spotify.com/album/0d2JKU3NmR6DL58vTUd0b1) | 4:18 |
 
-Snapshot ID: `MTcxNDE3Njc0MiwwMDAwMDAwMGNkNzI0Y2Y0Nzc0MWJlOTA4M2I1NGM0ODkzNDQ2MjIw`
+Snapshot ID: `ZixC5gAAAADNckz0d0G+kIO1TEiTRGIg`

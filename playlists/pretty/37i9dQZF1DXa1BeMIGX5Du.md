@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 550,789 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 550,895 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 | 99 | [hold me, never let go](https://open.spotify.com/track/6QC5Dtp38M05T536UONe6J) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [Her Favorite Flowers](https://open.spotify.com/album/5rFnAfQqhy7sFGSq15gN7g) | 3:13 |
 | 100 | [Falling in Love at a Coffee Shop](https://open.spotify.com/track/5MrgVJzR1du1gz8XWe4m28) | [Landon Pigg](https://open.spotify.com/artist/1whjlG0NSaQytgDIWz10GS) | [Coffee Shop](https://open.spotify.com/album/3yaXu0H76jxRdBPVx1Zikk) | 4:30 |
 
-Snapshot ID: `MTcxNDA1MzYwMCwwMDAwMDAwMDk5NTQ4ZjBlOTQwZWY2OTAyNDg4ZGIwZTg2ODFmMTlj`
+Snapshot ID: `Ziph4AAAAACZVI8OlA72kCSI2w6GgfGc`

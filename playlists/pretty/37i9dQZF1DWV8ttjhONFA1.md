@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 
 > El nuevo sonido argentino lo encontrás acá\. Foto: Santi Muk
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,323 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,331 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 | 99 | [Lejos de Todo](https://open.spotify.com/track/6cdvRh5aYQdPdfr18T5Zmc) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Lejos de Todo](https://open.spotify.com/album/4T4AjXYchVi4s3JVTN2GbX) | 2:54 |
 | 100 | [Vale Todo](https://open.spotify.com/track/40Za1VS1b5mkWSHrlSu6Db) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf), [Facundo Castaño Montoya](https://open.spotify.com/artist/4dXtpo9qIdpfR8renHkzqW) | [Deseo](https://open.spotify.com/album/51wJqhiJ1Ja7Zpn56rY9hz) | 2:46 |
 
-Snapshot ID: `MTcxNDEwMDQwMCwwMDAwMDAwMDU0ODE5NTc3NzU1YTcxNjc0NGE5ZGZiNjk3ZTk4MGFk`
+Snapshot ID: `ZisYsAAAAABUgZV3dVpxZ0Sp37aX6YCt`

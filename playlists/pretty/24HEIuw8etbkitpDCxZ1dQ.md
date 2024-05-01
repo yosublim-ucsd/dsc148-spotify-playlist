@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/24HEIuw8etbkitpDCxZ1dQ.md) - [plain]
 | 60 | [Like a Snowman](https://open.spotify.com/track/1na6ALkyHB6uEO58GOlFZB) | [Tracey Thorn](https://open.spotify.com/artist/7xFnmid57ZE6iWEXdEXO3b) | [Tinsel and Lights](https://open.spotify.com/album/0cFIrHKVHZEEWqI8w4tcAs) | 2:38 |
 | 61 | [Dans För Två](https://open.spotify.com/track/6w4o6fS6MLelzJU8Gfjg8e) | [Tvärvägen](https://open.spotify.com/artist/5Ms2wJn8fZ2TbJGkaLgNCF) | [Staring Directly Into the Sun](https://open.spotify.com/album/5jmGz6ggQWnhCNjkEfYCcL) | 3:13 |
 
-Snapshot ID: `NSxkNDc1ZTI5YjQ1MTcwODc1NjA4NGY3OGU1YmE4NzEzZWQ2OTVkMTc5`
+Snapshot ID: `AAAABdR14ptFFwh1YIT3jluocT7WldF5`

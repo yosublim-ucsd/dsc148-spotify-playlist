@@ -2,7 +2,7 @@
 
 ### [This Is Panteon Rococo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0xEkN2)
 
-> This Is Panteon Rococo\. Sus mejores éxitos, todos en una playlist.
+> This Is Panteon Rococo\. Los temas esenciales, todos en una lista.
 
 60 songs - 3 hr 56 min
 

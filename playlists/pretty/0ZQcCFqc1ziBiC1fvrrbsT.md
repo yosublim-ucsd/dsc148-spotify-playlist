@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 10,673 likes - 27 songs - 1 hr 35 min
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 10,678 likes - 27 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 | 26 | [Look Of Disgust](https://open.spotify.com/track/15INAmWafq4ERjga2LzPWV) | [Museum Of Love](https://open.spotify.com/artist/2nIzOTNOvPxPlgzB4GQHPc) | [After Us / Look Of Disgust](https://open.spotify.com/album/2mPe9wAeOjXWGis2kJH6Co) | 2:59 |
 | 27 | [World Got Great](https://open.spotify.com/track/642o7DG0AXhpFA1MIyYTYQ) | [Les Savy Fav](https://open.spotify.com/artist/5DZBnxCYzs32O2bbqK8KNg) | [World Got Great](https://open.spotify.com/album/0ai3YPYrikkktmeqwZJLJ4) | 3:26 |
 
-Snapshot ID: `NTgyNSwwMjlkNGNjN2I5NGM3OGI1NjBjOGRmMWJjZDFiMDg4ODBjZjg1ODhk`
+Snapshot ID: `AAAWwQKdTMe5THi1YMjfG80bCIgM+FiN`

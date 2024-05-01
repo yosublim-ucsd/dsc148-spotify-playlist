@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain]
 
 > Western orientated Hardcore Music by Japanese Artists
 
-[Alice.SE](https://open.spotify.com/user/megustager) - 545 likes - 477 songs - 1 day 9 hr 19 min
+[Alice.SE](https://open.spotify.com/user/megustager) - 546 likes - 477 songs - 1 day 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -486,4 +486,4 @@ pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain]
 | 476 | [Movin'](https://open.spotify.com/track/3bfvb1tJO1RnfuvErCSjE4) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [Movin'](https://open.spotify.com/album/4g5awkletRkNllUUG1Sl2L) | 3:23 |
 | 477 | [Dekanchcore](https://open.spotify.com/track/7go5G1aRkybbFhEJwfwI90) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG), [Joe Fight](https://open.spotify.com/artist/3C463rGXXXCWI9NzlMFS6u) | [Dekanchcore](https://open.spotify.com/album/61KFGVG1fX1lotNOeljBJZ) | 2:41 |
 
-Snapshot ID: `NTcxLDFiMGY1OWMzODYxZDJhMjg2OGRmYTBlYTlkMDA2YzI0NjZkODk1MWI=`
+Snapshot ID: `AAACOxsPWcOGHSooaN+g6p0AbCRm2JUb`

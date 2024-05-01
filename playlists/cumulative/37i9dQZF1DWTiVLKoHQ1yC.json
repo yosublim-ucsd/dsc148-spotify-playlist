@@ -339,6 +339,24 @@
     },
     {
       "album": {
+        "name": "Breathe Again",
+        "url": "https://open.spotify.com/album/3nqZYGzQjrJ9O0xahgUWAT"
+      },
+      "artists": [
+        {
+          "name": "Sam Wiseman",
+          "url": "https://open.spotify.com/artist/5bHmaSbFRcjgoZy7GWml47"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161818,
+      "name": "Breathe Again",
+      "url": "https://open.spotify.com/track/3YNQtS5pBv48TULWojiNXD"
+    },
+    {
+      "album": {
         "name": "Beautiful Nothing EP",
         "url": "https://open.spotify.com/album/0wCK3Fxrd3f7KhSeMNr1WT"
       },
@@ -1574,7 +1592,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 449149,
       "name": "L'ow\u00e8 L'ow\u00e8",
       "url": "https://open.spotify.com/track/2kvJDwV4Mfm2ItUUMmkzSx"

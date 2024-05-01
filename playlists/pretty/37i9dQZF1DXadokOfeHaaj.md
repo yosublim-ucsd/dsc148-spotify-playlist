@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 
 > The best new indie dance music\. Cover: Porij
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,629 likes - 69 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,639 likes - 69 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 | 68 | [Attention \- Moscoman Remix](https://open.spotify.com/track/0Sx8gyhFV4B7bnj8xh8kpt) | [Cagedbaby](https://open.spotify.com/artist/2sbZiktyjJtAAWs3LHeHzO), [Dorothys Fortress](https://open.spotify.com/artist/6VLxD1WKg1ykIzBC9nuDAN), [Moscoman](https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ) | [Attention](https://open.spotify.com/album/5dHNiXlC7nUK0KGvWymFqs) | 7:02 |
 | 69 | [Ayekouma \(Carnival Mix\)](https://open.spotify.com/track/05OgEjdxfVGXaGTLBvi6SD) | [Falle Nioke](https://open.spotify.com/artist/2WIUWjEtviW09sdJlb2G1J), [Ghost Culture](https://open.spotify.com/artist/4M6Kt4GVjpLYpygyNOHwdt) | [Ayekouma](https://open.spotify.com/album/4TBLyw6xmc1l8FISAT5P8D) | 3:21 |
 
-Snapshot ID: `MTcxMjg4MDA2MCwwMDAwMDAwMDJmZWFkMjdkOWQxNGY5ZDAwYTY0ODgzNTQ2NzczMmI2`
+Snapshot ID: `Zhh5vAAAAAAv6tJ9nRT50ApkiDVGdzK2`

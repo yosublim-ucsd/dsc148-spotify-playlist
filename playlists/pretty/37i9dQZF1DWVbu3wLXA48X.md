@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Crumb
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,709 likes - 88 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,695 likes - 88 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 87 | [Dark](https://open.spotify.com/track/7ISN0i74VnNtGFd6nIfhfT) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Dark](https://open.spotify.com/album/5bpI3ZiTcaJzxAIwZb7de1) | 3:13 |
 | 88 | [Black Sand](https://open.spotify.com/track/7rL4ouaj7AqQM9kgQ5aQrY) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mahal](https://open.spotify.com/album/32yQDx3IeVTHLPxT07PFDy) | 4:38 |
 
-Snapshot ID: `MTcxNDM0Njg2NiwwMDAwMDAwMGYzZDVkZjM2NjQwZjhlMWZmYWEzNGY5YmQ0ODBkZTQ5`
+Snapshot ID: `Zi7bcgAAAADz1d82ZA+OH/qjT5vUgN5J`

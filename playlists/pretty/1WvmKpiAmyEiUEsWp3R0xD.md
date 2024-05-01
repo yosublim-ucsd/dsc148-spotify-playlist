@@ -24,4 +24,4 @@ pretty - [cumulative](/playlists/cumulative/1WvmKpiAmyEiUEsWp3R0xD.md) - [plain]
 | 14 | [Hot & Heavy](https://open.spotify.com/track/6SIooImkHGKCIwgUZ3WDvD) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Home Video](https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1) | 4:10 |
 | 15 | [Fallen Fruit](https://open.spotify.com/track/5iUnomffoLeQsdlY2k5TDU) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:58 |
 
-Snapshot ID: `MTcsZjY5ODQzZGFkODE1NWYyZjAxZWZhMDhjZDJjMWI3YzBlZjE4ZjdlMg==`
+Snapshot ID: `AAAAEfaYQ9rYFV8vAe+gjNLBt8DvGPfi`

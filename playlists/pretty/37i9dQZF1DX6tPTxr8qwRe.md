@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > Dark, hard hitting pop\. Cover: PEGGY
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,335 likes - 71 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,346 likes - 71 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 70 | [Eve](https://open.spotify.com/track/4VWJqXO2lnHTPrDze7zeQe) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [Eve](https://open.spotify.com/album/1WcyjfjfTXfv1LaqLtJGqZ) | 3:21 |
 | 71 | [Pretty Distraction](https://open.spotify.com/track/6cPh0IceWYeMEeYmbSgIMG) | [SkyDxddy](https://open.spotify.com/artist/2xe5FZM6bB4k1KhfTZBBSx) | [Pretty Distraction](https://open.spotify.com/album/3KGO7t6s7VEAmJntA0R59Q) | 2:55 |
 
-Snapshot ID: `MTcxNDQzNDk3NywwMDAwMDAwMDFjMGRiNDJjNjVlNTYyZGU2NWI5NDc4YmU3Y2RhNTE3`
+Snapshot ID: `ZjAzoQAAAAAcDbQsZeVi3mW5R4vnzaUX`

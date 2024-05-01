@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 李榮浩 \(Ronghao Li\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,727 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,719 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 12 | [寂寞而已](https://open.spotify.com/track/3vUk021iSWo8UQajmjBLL7) | [Ricky Hsiao](https://open.spotify.com/artist/0E6oEhZZtQvj811iXQFLrB) | [寂寞而已](https://open.spotify.com/album/03KZdAmIbygv24RUgb7dVi) | 4:26 |
 | 13 | [总会有人 \(男版\)](https://open.spotify.com/track/5T9ZeccGPOOX7J4YGGwqE3) | [承桓](https://open.spotify.com/artist/3ZYhFl4nztqc9vx35vKdUI) | [总会有人 \(男版\)](https://open.spotify.com/album/5qzeqSbvzypeOc2IBS7Zyf) | 3:19 |
 | 14 | [芬蘭距離](https://open.spotify.com/track/1OvQbBToQ5gMPs7bwqUbbz) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [《不夠善良的我們 : 戲劇音樂設計專輯》](https://open.spotify.com/album/0pH2VtQLa0T3G3ZoHSFgeC) | 5:49 |
-| 15 | [請你別愛我](https://open.spotify.com/track/2WDU1x885QLDs8Mnup2AmG) | [陳零九](https://open.spotify.com/artist/3C0lqJQVV41oBNNDCaRPsi) | [請你別愛我](https://open.spotify.com/album/3bzrUgJOTjGwlE2PAFI7A0) | 2:30 |
+| 15 | [請你別愛我](https://open.spotify.com/track/2WDU1x885QLDs8Mnup2AmG) | [Nine Chen](https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6) | [請你別愛我](https://open.spotify.com/album/3bzrUgJOTjGwlE2PAFI7A0) | 2:30 |
 | 16 | [I Hate Myself Sometimes](https://open.spotify.com/track/5znau6BqFcgBkyQGcOutil) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM), [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [I Hate Myself Sometimes](https://open.spotify.com/album/7HSZCDvflTWrGFVuoDeLX7) | 2:54 |
 | 17 | [愛你的兩個我](https://open.spotify.com/track/0O8Oi6BdJN7DVCx7f2p5cB) | [郭家瑋](https://open.spotify.com/artist/5EZkv9iiDdCJvhSQaRMj2X) | [愛你的兩個我](https://open.spotify.com/album/1OuGTXCkVZbZKQNY1yazaC) | 3:59 |
 | 18 | [3am \- Demo Ver.](https://open.spotify.com/track/7u8RM7nUKUk93CYsEp8Krr) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [3am \- Demo Ver.](https://open.spotify.com/album/2C5ob9OfPO3J5wMETcOD5R) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 49 | [不小心](https://open.spotify.com/track/2cDFfwX8PR8ZKeK5oeNyQa) | [冰球樂團](https://open.spotify.com/artist/4GsjZQZJ3viOq4Uw8wZDbW), [宋芸樺](https://open.spotify.com/artist/0cklR29Gsyww5YnriK9xJm) | [不小心](https://open.spotify.com/album/3BlayTLYXjOMRFToMgQAQq) | 3:55 |
 | 50 | [dumb af](https://open.spotify.com/track/4dTQ7OmJjdV6YmsqNoVo0A) | [JOYCE 就以斯](https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv), [Dena](https://open.spotify.com/artist/7oBIFoqEP2zwnJa2HL6h0l) | [dumb af](https://open.spotify.com/album/4xZkNcLXomLf8pc5eM8z59) | 2:54 |
 
-Snapshot ID: `MTcxNDQwNjQwMCwwMDAwMDAwMDZkODI4ZjQ2ZWU5MzZhMjZjYmM3YmRjMDgwOWJlYmIz`
+Snapshot ID: `Zi/EAAAAAABtgo9G7pNqJsvHvcCAm+uz`

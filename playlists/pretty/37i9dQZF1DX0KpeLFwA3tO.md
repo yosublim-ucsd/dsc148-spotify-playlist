@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Lambrini Girls
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,705 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,761 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [CAR](https://open.spotify.com/track/0dJmlOm0zHBwoFoBEQxZrA) | [Carpool](https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit) | [CAR](https://open.spotify.com/album/3QDbEAuj3BIjfwAqKlXyNa) | 3:08 |
 | 100 | [Trouble Breathing](https://open.spotify.com/track/7nKW5AAHoJXfvLXRWEeR0N) | [Casa Loma](https://open.spotify.com/artist/1bDZuX59AqwYMj9wbQnXVk), [Hot Rod Circuit](https://open.spotify.com/artist/209McJAEbNbvQXsnuNJZJw) | [Trouble Breathing](https://open.spotify.com/album/2nGod4tclcjIXMmvyp4HAv) | 2:48 |
 
-Snapshot ID: `MTcxNDEyNTI2OSwwMDAwMDAwMDMyYmEyNTU2ODVmMjZmMmQ4MGMxNjEyNzY4ZjUxZjZj`
+Snapshot ID: `Zit51QAAAAAyuiVWhfJvLYDBYSdo9R9s`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > 20 new tracks added by Wisp to celebrate her new EP Pandora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,065 likes - 90 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,243 likes - 90 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 89 | [her blood filled my lungs](https://open.spotify.com/track/5AthAxFm5eN0pLtpiCRbYr) | [anvii](https://open.spotify.com/artist/1YgLJNdUly3ovPX5AV1REZ) | [\(y\)our ephemeral nature](https://open.spotify.com/album/607js0mkeZV2yuYgfOoDuk) | 3:13 |
 | 90 | [Baggage](https://open.spotify.com/track/6sENeBQkymXyZDmwSXUVFS) | [TTSSFU](https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG) | [Baggage](https://open.spotify.com/album/5Bf4XBYCI8Bo9GLHCaNoBR) | 4:52 |
 
-Snapshot ID: `MTcxNDQxMzM4NiwwMDAwMDAwMDMyYTFmMTlhMDdmZmI0NzE4NWNjZmZiYjg4YmY1Y2I4`
+Snapshot ID: `Zi/fSgAAAAAyofGaB/+0cYXM/7uIv1y4`

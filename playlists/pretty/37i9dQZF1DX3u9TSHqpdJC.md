@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new pop music by independent artists and labels\. Cover: Mercer Henderson\. Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,346 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,360 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 99 | [God Invented The Radio](https://open.spotify.com/track/3uxywHpCVUxrc7EyySg6mY) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [God Invented The Radio](https://open.spotify.com/album/3LkiwCrtp8bTaArEta60Au) | 2:17 |
 | 100 | [wreck](https://open.spotify.com/track/2vU4N94Z1BS9TPKYMoQPKx) | [Dalton Mauldin](https://open.spotify.com/artist/7HLQqnULw9QStkYa6mEEh8) | [wreck](https://open.spotify.com/album/2RS3dR9XAsMRbglQ6azUT9) | 3:14 |
 
-Snapshot ID: `MTcxMzk1NzcwMiwwMDAwMDAwMGM1NzY0NmRkMzkwMTYyMjQ1NDdkNDJiNjdkZDhhNTU2`
+Snapshot ID: `ZijrRgAAAADFdkbdOQFiJFR9QrZ92KVW`

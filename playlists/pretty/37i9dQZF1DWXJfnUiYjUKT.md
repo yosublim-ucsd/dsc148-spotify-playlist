@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Normani
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,984 likes - 99 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,918 likes - 99 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 98 | [Stay Awhile \(feat\. Ari Lennox\)](https://open.spotify.com/track/0AXquxdT6Twsrc0qIYXbJd) | [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Stay Awhile](https://open.spotify.com/album/0tfkIiHMLsE0aJTR38Yq6i) | 4:00 |
 | 99 | [Vitamins](https://open.spotify.com/track/2fLDKaSvow0ciPW60ibLil) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Vitamins](https://open.spotify.com/album/7i9RLUQeVGAyonCjKDrP12) | 2:32 |
 
-Snapshot ID: `MTcxNDEwNDAwMCwwMDAwMDAwMDJjZmM0YzAyZjUxZjhlYzkwNjNmNTEwNDAyYzQ5YjUy`
+Snapshot ID: `ZismwAAAAAAs/EwC9R+OyQY/UQQCxJtS`

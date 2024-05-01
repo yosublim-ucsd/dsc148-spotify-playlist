@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5cdRxEiQmawJaraYYEF7Di.md) - [plain]
 
 > Infectiously happy hits from years past blended with the best of today's chart toppers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 661 likes - 53 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 662 likes - 53 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/5cdRxEiQmawJaraYYEF7Di.md) - [plain]
 | 52 | [Radioactive](https://open.spotify.com/track/0Yo8GhK9HEaeIZetPARrW9) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Hear Me EP](https://open.spotify.com/album/2BpefuTI1blqoO2Vu2Sm1o) | 3:08 |
 | 53 | [Mirrors](https://open.spotify.com/track/03gqZZavMKhWbSjdQvpF6O) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Mirrors](https://open.spotify.com/album/2OMDL0qyQF7nk2tRJE8RmD) | 8:05 |
 
-Snapshot ID: `MTMyLDg5OThjZDAyZjk0OTliOWI4OTU1NWFmZDk2Y2MzN2UyZTc1MGFjYzg=`
+Snapshot ID: `AAAAhImYzQL5SZubiVVa/ZbMN+LnUKzI`

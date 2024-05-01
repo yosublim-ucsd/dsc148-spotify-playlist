@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/55qEVSpVEAIfzxOaNGffTE.md) - [plain]
 
 > <a href="https://lindemann.band">New Album &quot;F &amp; M&quot;</a>
 
-[Lindemann](https://open.spotify.com/user/f0b50l23esx6sbox1wxbfjvm6) - 25,723 likes - 29 songs - 1 hr 55 min
+[Lindemann](https://open.spotify.com/user/f0b50l23esx6sbox1wxbfjvm6) - 25,719 likes - 29 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/55qEVSpVEAIfzxOaNGffTE.md) - [plain]
 | 28 | [G\-Spot Michael](https://open.spotify.com/track/0w7FHwjyq0nnxjotU9SdyV) | [Lindemann](https://open.spotify.com/artist/65A714FqhSPjoFZeffQbTv) | [Fish On](https://open.spotify.com/album/0uqwMefoKph2UuaylhIlCT) | 3:38 |
 | 29 | [Praise Abort \- Live](https://open.spotify.com/track/3r3vaW0DHspjjsw02wmpJo) | [Lindemann](https://open.spotify.com/artist/65A714FqhSPjoFZeffQbTv) | [Praise Abort \(Live in Moscow\)](https://open.spotify.com/album/7IUUjBQq3dPPNgYrchndOd) | 5:01 |
 
-Snapshot ID: `MzIsNWY0MmNkMmZhZWE3NzFlZDU4MjBjMjBhMTI4OTIxNjYzYjczMGNhYw==`
+Snapshot ID: `AAAAIF9CzS+up3HtWCDCChKJIWY7cwys`

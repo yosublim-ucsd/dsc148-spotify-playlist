@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1517hhPIVwA9EN41krpZo3.md) - [plain]
 
 > Check out the top streamed indie tracks of 2016!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,479 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,478 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/1517hhPIVwA9EN41krpZo3.md) - [plain]
 | 49 | [Doubt \(Summer Edit\)](https://open.spotify.com/track/5ffwgrvw4tVlhFcI8efviN) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Doubt \(Summer Edit\)](https://open.spotify.com/album/5Iz89vLs781T7u1xOgIPSZ) | 3:46 |
 | 50 | [Honey](https://open.spotify.com/track/0hTMUZ7vuxVLzihQDNV0b3) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Honey](https://open.spotify.com/album/4T23BJHEBBQfdfkN19T5hv) | 4:08 |
 
-Snapshot ID: `MTAsYTA2YWQ1ZDM5Yzk4NTZiODAwZDU1NGMzZGVlNDhkNjc3MDQ5MzA1Nw==`
+Snapshot ID: `AAAACqBq1dOcmFa4ANVUw97kjWdwSTBX`

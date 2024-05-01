@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3sJ6SlgRo56Oa7YhHcLK5l.md) - [plain]
 
 > What artists have been your favorite new finds this year? Check out a sampling of our favorites here, and don’t forget to check back for updates! For your own list, head over to <a href="http://spoti.fi/1JQhkfk">http://spoti.fi/1JQhkfk</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,190 likes - 20 songs - 1 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,185 likes - 20 songs - 1 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/3sJ6SlgRo56Oa7YhHcLK5l.md) - [plain]
 | 19 | [Don't Wait](https://open.spotify.com/track/1MFzHakkiqSmdPu1CkUy8b) | [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [Hey Hey](https://open.spotify.com/album/15BrywAiOpPChy5HWgphHz) | 3:35 |
 | 20 | [Doe\-Active](https://open.spotify.com/track/70uFpDLFGH9DbDwv450YJe) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Doe\-Active](https://open.spotify.com/album/5k0pyF1B4ab25iu5JcG3lB) | 3:25 |
 
-Snapshot ID: `NDYsZWJkMzkyOGNmZDAyMzlmNjY2OTU0NmZlYTMwYjIxNzYxZGEzNTcyZg==`
+Snapshot ID: `AAAALuvTkoz9Ajn2ZpVG/qMLIXYdo1cv`

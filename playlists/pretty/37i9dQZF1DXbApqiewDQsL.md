@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > Get ready for <a href="spotify:genre:0JQ5DAqbMKFEJHdEnquSi1">BelicoFest</a> with the setlist of Gerardo Ortiz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,245 likes - 27 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,265 likes - 27 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 26 | [Aquiles Afirmo](https://open.spotify.com/track/5L92JAcxJMVmLlKIWHhLCY) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Entre Dios y El Diablo \(Deluxe Version\)](https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN) | 3:18 |
 | 27 | [Tranquilito](https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Décimo Aniversario](https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca) | 2:44 |
 
-Snapshot ID: `MTcxMzk2Njc5MCwwMDAwMDAwMGQ0ZjY2YjA0ZDM3M2FiMTAxYmU2YjliYTgwZTkyYmY0`
+Snapshot ID: `ZikOxgAAAADU9msE03OrEBvmubqA6Sv0`

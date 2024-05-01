@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 
 > Celebrating women at the centre of innovation in electronic music\. Cover: Hayla
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,384 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,396 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 99 | [deathrow bby](https://open.spotify.com/track/4HkHmWX6tSbyMIybuForxR) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Ambrosia](https://open.spotify.com/album/6RucaVwbVouUrU5uBAzFe8) | 2:15 |
 | 100 | [Si Te Portas Bonito](https://open.spotify.com/track/5Qa679CkfZaEEsLGUBfXFp) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f) | 5:01 |
 
-Snapshot ID: `MTcxNDEwNDAwMCwwMDAwMDAwMGQ3NmU1MTBkZDVmZDQ1OGZmOWRjYWY2MTAxMGVjNzk5`
+Snapshot ID: `ZismwAAAAADXblEN1f1Fj/ncr2EBDseZ`

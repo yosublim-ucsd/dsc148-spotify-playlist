@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: Arooj Aftab
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,679 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,733 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 99 | [Rocket](https://open.spotify.com/track/1mkO4VYl6YYBoomp76vzor) | [Padre Tóxico](https://open.spotify.com/artist/5uxLOvJty3MKT7ftXvmTkZ), [Awon](https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf), [Elements](https://open.spotify.com/artist/3RbYUZat7wvSdQ6dnr9XR9) | [Rocket](https://open.spotify.com/album/7a2kbMUk3guDoGUJkOrz8Z) | 2:29 |
 | 100 | [Black Music Is Forever](https://open.spotify.com/track/3QOzZlO6rVNGHm4jbLxOO5) | [Concurrence](https://open.spotify.com/artist/6c0qXMbMuod4Gi8HYnM5cW), [Dara Tucker](https://open.spotify.com/artist/5pSRNxDFAIW18vu0im7kql) | [Black Music Is Forever](https://open.spotify.com/album/6PvWUmmhfr7Bdo8q8ka4wR) | 1:29 |
 
-Snapshot ID: `MTcxNDEwNDA2MCwwMDAwMDAwMDBjZGIxNmRjMmVjOThjMDU4ZDA5MTkyYjA1MTEwNDRk`
+Snapshot ID: `Zism/AAAAAAM2xbcLsmMBY0JGSsFEQRN`

@@ -1,12 +1,12 @@
 {
-  "description": "This is \u9b3c\u982d\u660e\u91cc. The essential tracks, all in one playlist.",
+  "description": "This is Akari Kito. The essential tracks, all in one playlist.",
   "num_followers": 2167,
-  "original_name": "This Is \u9b3c\u982d\u660e\u91cc",
+  "original_name": "This Is Akari Kito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDI2MjQwMCwwMDAwMDAwMGMzZjIzMTM2ZTkwNjVlMDI4ZTY4YzMwMDE5MTNkOGM3",
+  "snapshot_id": "Zi7jAAAAAACDRjZ0/iZ0mZI75feIKFzR",
   "tracks": [
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 209693,
-      "name": "Swinging Heart",
-      "url": "https://open.spotify.com/track/0yAegrVbCDH2i3VVKzwpqu"
+      "duration_ms": 259000,
+      "name": "\u541b\u306e\u82b1\u3092\u7948\u308d\u3046",
+      "url": "https://open.spotify.com/track/0ME3fGpjFjsZ1avHbZ2Lin"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 259000,
-      "name": "\u541b\u306e\u82b1\u3092\u7948\u308d\u3046",
-      "url": "https://open.spotify.com/track/0ME3fGpjFjsZ1avHbZ2Lin"
+      "duration_ms": 209693,
+      "name": "Swinging Heart",
+      "url": "https://open.spotify.com/track/0yAegrVbCDH2i3VVKzwpqu"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Michikusa",
-        "url": "https://open.spotify.com/album/4lHjeSfvndzpJcpUQBPYRS"
-      },
-      "artists": [
-        {
-          "name": "Akari Kito",
-          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
-        }
-      ],
-      "duration_ms": 277986,
-      "name": "Haremachinote",
-      "url": "https://open.spotify.com/track/7Dqkjap4ckvMiDYoPnO0aU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tiny Light Live at \u540d\u53e4\u5c4b\u5e02\u516c\u4f1a\u5802 2020/10/3",
         "url": "https://open.spotify.com/album/1rocMcQTcgdGA8tJTRP7zl"
       },
@@ -569,6 +553,6 @@
       "url": "https://open.spotify.com/track/7lGqrHJq4niQ5F2GLqNYlE"
     }
   ],
-  "unique_name": "This Is \u9b3c\u982d\u660e\u91cc",
+  "unique_name": "This Is Akari Kito",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3r997y"
 }

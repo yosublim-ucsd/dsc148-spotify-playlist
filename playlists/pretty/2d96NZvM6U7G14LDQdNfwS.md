@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/2d96NZvM6U7G14LDQdNfwS.md) - [plain]
 | 40 | [Gold In The Air](https://open.spotify.com/track/4zWCsM4lzJp6ou1YYOCgZI) | [Jesse Woods](https://open.spotify.com/artist/0yCYrNUvVe4VVz7xSZ1xei) | [Get Your Burdens Lifted](https://open.spotify.com/album/1pJEmROQATXPxCplIOsIBN) | 3:21 |
 | 41 | [Dungtitled \(In a Major\)](https://open.spotify.com/track/3OgkfYg13Jj96E982moWje) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [And Their Refinement of the Decline](https://open.spotify.com/album/6cHPEbPryLpH5VX5Eb1Vvo) | 5:54 |
 
-Snapshot ID: `NjIsNzViYTdhNjgyNmJjODhkM2YxMjFmMWVkMTQxYzFlYTIxOTEzNmRhZQ==`
+Snapshot ID: `AAAAPnW6emgmvIjT8SHx7RQcHqIZE22u`

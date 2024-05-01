@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/6tLfPD2P9syvBV8rgO2Yq1.md) - [plain]
 | 19 | [It Won't Be Like This For Long](https://open.spotify.com/track/4gzeYkzuzxuzAUTsGcdjqA) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Learn To Live](https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK) | 3:39 |
 | 20 | [Angel Like You](https://open.spotify.com/track/3yjtMjmcij9yxbxOeMqDGB) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [10,000 Towns](https://open.spotify.com/album/6JXJKuUgJ3AKpU9gh9RJs6) | 3:25 |
 
-Snapshot ID: `MywzMjFjYWJiYmMxZGRjNGU5ZTc2MmM1MDgzZTZmMjJlOWNiZjU0MmI3`
+Snapshot ID: `AAAAAzIcq7vB3cTp52LFCD5vIunL9UK3`

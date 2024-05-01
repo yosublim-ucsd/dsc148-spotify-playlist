@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Stephane Wrembel
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,335 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,357 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [Eagle's Point](https://open.spotify.com/track/4kFkOrYHCljDpsjhhwh40U) | [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB), [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu), [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Eagle's Point](https://open.spotify.com/album/7mXAox1GEs9UWIydmhZ3JW) | 7:35 |
 | 50 | [V.E\. Swing](https://open.spotify.com/track/54xfUT8y18L2fGNbnJdxU9) | [Monty Alexander](https://open.spotify.com/artist/30V1rKijENF5MFcGidInfh) | [V.E\. Swing](https://open.spotify.com/album/17tVXEx7wzWdVOlAX1jyu8) | 4:24 |
 
-Snapshot ID: `MTcxNDA4MjQwMCwwMDAwMDAwMDM5OWJlMTY5OGIyNWNlMmEzMzlkZmJlMDg1YmQxODA0`
+Snapshot ID: `ZirSYAAAAAA5m+FpiyXOKjOd++CFvRgE`

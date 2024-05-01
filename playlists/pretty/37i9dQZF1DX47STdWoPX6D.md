@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 
 > In honor of our beloved friend and Kuya Dj Efechto\. This a collection of songs he loved, that influenced him, and tracks he produced or scratched on\. Turn your system to the Red for Efechto\.  Guest curated by Propaganda.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,188 likes - 23 songs - 1 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,198 likes - 23 songs - 1 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 | 22 | [Slow Cook](https://open.spotify.com/track/1TiRT6v0vb4P60XxSZx0Kd) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t) | [Crooked](https://open.spotify.com/album/3HmkL2AENDW4XO9Da0NGy9) | 3:58 |
 | 23 | [So Far To Go](https://open.spotify.com/track/3dKyy0EeMsELoLKyX86F0o) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [The Shining Instrumental](https://open.spotify.com/album/2ZcZ21vMvMSt1JFhCe1SME) | 5:36 |
 
-Snapshot ID: `MTY4NjkyMDM0NywwMDAwMDAwMGVkMWNjMzEwZDBhYTRhYWQ2NmQ2MGZhMjE2MGI2ZTcw`
+Snapshot ID: `ZIxcmwAAAADtHMMQ0KpKrWbWD6IWC25w`

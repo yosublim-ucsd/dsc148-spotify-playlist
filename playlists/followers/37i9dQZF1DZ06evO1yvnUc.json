@@ -1,9 +1,27 @@
 {
-  "2024-04-30": 99236,
+  "2024-05-01": 99327,
   "date_first_scraped": "2023-06-30",
-  "description": "This is PARTYNEXTDOOR. The essential tracks, all in one playlist.",
+  "description": "This Is PARTYNEXTDOOR. Los temas esenciales, todos en una lista.",
   "name": "This Is PARTYNEXTDOOR",
   "tracks": [
+    {
+      "album": {
+        "name": "PARTYNEXTDOOR 4 (P4)",
+        "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 44000,
+      "name": "A M o t h e r' s P r a y e r",
+      "url": "https://open.spotify.com/track/299AmQtsNlK76d5FymHzOe"
+    },
     {
       "album": {
         "name": "PARTYMOBILE",
@@ -17,7 +35,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-28",
+      "date_removed": null,
       "duration_ms": 152480,
       "name": "ANOTHER DAY",
       "url": "https://open.spotify.com/track/3SQz76liYsbuuXyNLSLQu1"
@@ -129,7 +147,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 262081,
       "name": "C o n t r o l",
       "url": "https://open.spotify.com/track/2LHtu3z8Xa9AToxLRlLm1g"
@@ -429,7 +447,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 256117,
       "name": "H e r O l d F r i e n d s",
       "url": "https://open.spotify.com/track/4SBZis6PQh5N40Zv9ro3Ti"
@@ -683,7 +701,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 190111,
       "name": "No Fuss",
       "url": "https://open.spotify.com/track/7BAreLM0Yif723pgS8Kydl"

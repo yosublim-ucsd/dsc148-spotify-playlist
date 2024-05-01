@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover:Sine. Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Seera band. Artwork: Isu Kim",
   "name": "Fresh Finds Arabia",
   "tracks": [
     {
@@ -113,6 +113,42 @@
     },
     {
       "album": {
+        "name": "Aalam Al Ahlam",
+        "url": "https://open.spotify.com/album/0Bpu81JbeYcjSDdlk17Wwy"
+      },
+      "artists": [
+        {
+          "name": "Seera",
+          "url": "https://open.spotify.com/artist/2F1QgtQgZA2gx2ovc1bEkc"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301493,
+      "name": "Aalam Al Ahlam",
+      "url": "https://open.spotify.com/track/5qC4xHoM6d1cKUTG22ONOp"
+    },
+    {
+      "album": {
+        "name": "Ad3i",
+        "url": "https://open.spotify.com/album/6mU2iJOgc4uFmZCeXg5ksP"
+      },
+      "artists": [
+        {
+          "name": "Esra",
+          "url": "https://open.spotify.com/artist/3n7kNeG8hcdoPSLDSPMne5"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196250,
+      "name": "Ad3i",
+      "url": "https://open.spotify.com/track/7gUPXOyNzWB3AVIHkZ0hDt"
+    },
+    {
+      "album": {
         "name": "Afkar Galbi",
         "url": "https://open.spotify.com/album/75PZWlpBqgRcZa1LHCSmvk"
       },
@@ -146,6 +182,24 @@
       "duration_ms": 172000,
       "name": "AISHA",
       "url": "https://open.spotify.com/track/2lOUDx7ExAuaxGYozG2wIv"
+    },
+    {
+      "album": {
+        "name": "Ala Wain",
+        "url": "https://open.spotify.com/album/4WUgYuFGOsueuMDqjVnbxi"
+      },
+      "artists": [
+        {
+          "name": "Majaz",
+          "url": "https://open.spotify.com/artist/6SMbDiMWTUPhoyEhPwzn0H"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217802,
+      "name": "Ala Wain",
+      "url": "https://open.spotify.com/track/5VKc8PPiqkei1pIsBYTCTs"
     },
     {
       "album": {
@@ -196,7 +250,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 144744,
       "name": "annoying",
       "url": "https://open.spotify.com/track/7E7OEz8Pe7h92jotkdKFgN"
@@ -647,6 +701,24 @@
     },
     {
       "album": {
+        "name": "came here 4 fun",
+        "url": "https://open.spotify.com/album/5AvFSf697HQ1JvGFM3hurz"
+      },
+      "artists": [
+        {
+          "name": "Albader",
+          "url": "https://open.spotify.com/artist/1RnDhsfDlMPFJhTOgiKwb0"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "came here 4 fun",
+      "url": "https://open.spotify.com/track/0oSPHFigMEOS67fo6bbo3Y"
+    },
+    {
+      "album": {
         "name": "Can't Imagine",
         "url": "https://open.spotify.com/album/1IfPSY68gmTfFziU03FBlh"
       },
@@ -936,7 +1008,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 186763,
       "name": "Design",
       "url": "https://open.spotify.com/track/4bPAZODVFGiXJGlqQC27qr"
@@ -1430,7 +1502,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 199207,
       "name": "Greedy",
       "url": "https://open.spotify.com/track/5rS361ITtlivgOlz9PcxM7"
@@ -2027,6 +2099,24 @@
     },
     {
       "album": {
+        "name": "Jiddo",
+        "url": "https://open.spotify.com/album/0SladTRgQhrI8r1zZt62gY"
+      },
+      "artists": [
+        {
+          "name": "Mvndila",
+          "url": "https://open.spotify.com/artist/4xChDGJOSeebJva9pcvmSJ"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144404,
+      "name": "Jiddo",
+      "url": "https://open.spotify.com/track/6pczaXrplw78wIo3D9zuLM"
+    },
+    {
+      "album": {
         "name": "Kalam Kteer",
         "url": "https://open.spotify.com/album/7ticL8OnOkr0oJ9VdssO3a"
       },
@@ -2139,6 +2229,24 @@
     },
     {
       "album": {
+        "name": "Kolchi 3arf",
+        "url": "https://open.spotify.com/album/5Nu77x2QkREvxts4nQntom"
+      },
+      "artists": [
+        {
+          "name": "Odeys",
+          "url": "https://open.spotify.com/artist/5nt1POu9Ic7eODvynu0tyf"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209144,
+      "name": "Kolchi 3arf",
+      "url": "https://open.spotify.com/track/3xmhvhO1q0KkpT2bk6ibfu"
+    },
+    {
+      "album": {
         "name": "LA (\u0644\u0627)",
         "url": "https://open.spotify.com/album/1Alkct9C7loHYfTxYonwrk"
       },
@@ -2154,6 +2262,24 @@
       "duration_ms": 147343,
       "name": "LA (\u0644\u0627)",
       "url": "https://open.spotify.com/track/3Kj7uJJ1R4lf7axD772aK3"
+    },
+    {
+      "album": {
+        "name": "Laa",
+        "url": "https://open.spotify.com/album/1AoAHD9U2WcFPt0TTJ9yhu"
+      },
+      "artists": [
+        {
+          "name": "Rust",
+          "url": "https://open.spotify.com/artist/1XzT6srnxzyGocVsjgrdWR"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196471,
+      "name": "Laa",
+      "url": "https://open.spotify.com/track/1xyE7A0oSKNdUcRmCau56F"
     },
     {
       "album": {
@@ -2211,6 +2337,24 @@
     },
     {
       "album": {
+        "name": "Leh (\u0644\u064a\u0634)",
+        "url": "https://open.spotify.com/album/6BmoWEvQAaZsdhxfnSHuT2"
+      },
+      "artists": [
+        {
+          "name": "Norhan",
+          "url": "https://open.spotify.com/artist/4GEoaIvEquHnb4yy28scNj"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186953,
+      "name": "Leh (\u0644\u064a\u0634)",
+      "url": "https://open.spotify.com/track/2jPcIPZC1ib88HgCtCxTlO"
+    },
+    {
+      "album": {
         "name": "Leh Ya Hana ?",
         "url": "https://open.spotify.com/album/4uWS5ntd91UbXbekxpDdLN"
       },
@@ -2226,6 +2370,24 @@
       "duration_ms": 234775,
       "name": "Leh Ya Hana ?",
       "url": "https://open.spotify.com/track/4ZblA6ehlUEGgy3cpENRrx"
+    },
+    {
+      "album": {
+        "name": "Liga",
+        "url": "https://open.spotify.com/album/6jIUOAlsBqHeCIRWH6KbXz"
+      },
+      "artists": [
+        {
+          "name": "Connan",
+          "url": "https://open.spotify.com/artist/2rwkjlKZ4WoJXfkqUt3L45"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130530,
+      "name": "Liga",
+      "url": "https://open.spotify.com/track/4iwxGcPrnMklAFdImT3iaE"
     },
     {
       "album": {
@@ -2262,7 +2424,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 270967,
       "name": "Limit",
       "url": "https://open.spotify.com/track/5pSMiWiNHzftxYS4LWzjm0"
@@ -2850,10 +3012,28 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 136153,
       "name": "Needless",
       "url": "https://open.spotify.com/track/0jg7Ae67TGs8uDFhsW6Xri"
+    },
+    {
+      "album": {
+        "name": "Night n Day",
+        "url": "https://open.spotify.com/album/6GWsijVQIFTc5MKIsazt66"
+      },
+      "artists": [
+        {
+          "name": "Chase",
+          "url": "https://open.spotify.com/artist/2QGv8ZbI72ZIpY9GUifmbp"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118110,
+      "name": "Night n Day",
+      "url": "https://open.spotify.com/track/12GvebbxR0WMf79NwMBphn"
     },
     {
       "album": {
@@ -3530,7 +3710,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 157846,
       "name": "Rather Try",
       "url": "https://open.spotify.com/track/7D09Q387brpXrH6w1eXYdY"
@@ -3592,7 +3772,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 440655,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/0F2pGe4qohDKXtvwEeMV7l"
@@ -4086,7 +4266,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 174000,
       "name": "sxcbnda",
       "url": "https://open.spotify.com/track/6RK9RIMO12fdRKVfzxN5JH"
@@ -4277,6 +4457,24 @@
     },
     {
       "album": {
+        "name": "This Place",
+        "url": "https://open.spotify.com/album/2OUgUQAkf2YU9U4140A5fh"
+      },
+      "artists": [
+        {
+          "name": "Maryam Turkey",
+          "url": "https://open.spotify.com/artist/6ozaRZ7avFAylAHplxjKMz"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171373,
+      "name": "This Place",
+      "url": "https://open.spotify.com/track/7lk1CT7tdr1dBw2Aq6swoG"
+    },
+    {
+      "album": {
         "name": "tiiiies",
         "url": "https://open.spotify.com/album/0K6fJ8QAHZeXIa4YsjAuji"
       },
@@ -4332,7 +4530,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 270508,
       "name": "Toque Del Sol",
       "url": "https://open.spotify.com/track/58eEvagJwKhcmHbG40AuEg"
@@ -4596,7 +4794,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 164722,
       "name": "WORK",
       "url": "https://open.spotify.com/track/72gAZIf8wnbOuz1GqGUtGF"

@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/5eRHTcvWyEU0MEzNOiR2j1.md) - [plain]
 | 78 | [Alla för sig](https://open.spotify.com/track/7z5yXEOW7XnpAOQgJQUGDB) | [Jonas Lundqvist](https://open.spotify.com/artist/5zGcn4MRRQ6nB88eyh9TX7) | [Så e de me de](https://open.spotify.com/album/6DHcDjMrGSIjYHmZWOBa79) | 4:18 |
 | 79 | [Elaborinth](https://open.spotify.com/track/5Sw2tsW3UOjRf1Fta5Q6CI) | [Vulkan](https://open.spotify.com/artist/7hUmeNCy16IbVdufW26t2H) | [Mask of Air](https://open.spotify.com/album/2y3TrMOSOeJDd8yBB7hAC0) | 9:07 |
 
-Snapshot ID: `NCxhODU2MmIzMDFmNGEwY2MwMzA2ZWVkODk0NjhmODE3NWZhN2VhMDRk`
+Snapshot ID: `AAAABKhWKzAfSgzAMG7tiUaPgXX6fqBN`

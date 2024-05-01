@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>\. Cover: Hasan Raheem
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,243 likes - 80 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,254 likes - 80 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 79 | [Runway](https://open.spotify.com/track/2NLcqznWuHrzuifJlGI0Ca) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv) | [Runway](https://open.spotify.com/album/2aDTEntkuIzNx5TAjiLfKb) | 2:54 |
 | 80 | [Love Again](https://open.spotify.com/track/5Deg8uiLYB1f4jDwsLcc8E) | [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Toshi](https://open.spotify.com/artist/3oa0mere2rG4b7cdsX7SFv) | [Love Again](https://open.spotify.com/album/5D1ji60nDNYmSGb5ql6cE5) | 2:33 |
 
-Snapshot ID: `MTcxNDExMjAzNSwwMDAwMDAwMDE4Njg1ODAxMDgyYmJlZTU4MjdjZTE1OTFjZjc4NmI0`
+Snapshot ID: `ZitGIwAAAAAYaFgBCCu+5YJ84Vkc94a0`

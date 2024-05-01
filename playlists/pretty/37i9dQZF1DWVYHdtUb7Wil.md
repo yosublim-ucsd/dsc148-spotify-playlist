@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYHdtUb7Wil.md) - [plain]
 
 > Kick back to these chilled out essentials.
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,639 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,641 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYHdtUb7Wil.md) - [plain]
 | 99 | [I Don't Mind](https://open.spotify.com/track/0at5hkjMAFk4sfZHsnoXW6) | [Boox Kid](https://open.spotify.com/artist/5XJ5KmNIiZk1osArMaqY11) | [Reflections](https://open.spotify.com/album/49uJfS8oHRKeNlu8nBwR81) | 4:06 |
 | 100 | [King Size Bed](https://open.spotify.com/track/5ARG0eQKOYOsFAdFeUuXrm) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [King Size Bed](https://open.spotify.com/album/2zyhZS6ViIAqZbTD1IssVy) | 2:44 |
 
-Snapshot ID: `MTcxNDA1MzYwMCwwMDAwMDAwMDdkMjQwYjFkYjg3ZWZkNWEyN2M4MGQxNmE2NjViMjBj`
+Snapshot ID: `Ziph4AAAAAB9JAsduH79WifIDRamZbIM`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Maan
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,131 likes - 99 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,157 likes - 99 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 67 | [Gay Angels](https://open.spotify.com/track/5mSQQxIDPifvWSC9mbwa4g) | [Loren Kramar](https://open.spotify.com/artist/3LDUvPQ97zYOzFliNk9GmV) | [Glovemaker](https://open.spotify.com/album/1TVPSW6xID9fd5whE8pfA1) | 5:59 |
 | 68 | [Glas](https://open.spotify.com/track/70T7J9cUIvTuoB4K82zsPf) | [Sammie Sedano](https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT) | [Glas](https://open.spotify.com/album/0loodexikCgWDHbTLqNyZM) | 4:41 |
 | 69 | [Sweetness](https://open.spotify.com/track/06XbwFE5HC7qJaF7ihvZDy) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Sweetness](https://open.spotify.com/album/1KUuc0hHQkpURbaw07xgFS) | 4:11 |
-| 70 | [Cologne](https://open.spotify.com/track/2Ktp3GYFKr8saM8ZIOA0c0) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Chay](https://open.spotify.com/artist/7raLcXMf4Vx5CB3LQlaa2O) | [Cologne](https://open.spotify.com/album/15tGMmeZdGAWoMaATu6Jel) | 2:57 |
+| 70 | [Cologne](https://open.spotify.com/track/2Ktp3GYFKr8saM8ZIOA0c0) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Chay](https://open.spotify.com/artist/2XoghdjwGfmXzPGFXLs1at) | [Cologne](https://open.spotify.com/album/15tGMmeZdGAWoMaATu6Jel) | 2:57 |
 | 71 | [Lately I](https://open.spotify.com/track/0gLFMd2AWX4C0KIipkixxj) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Lately I](https://open.spotify.com/album/1nnAQnkffXQRxlBs52PhIj) | 3:07 |
 | 72 | [Misschien Is Ooit Wel Nu](https://open.spotify.com/track/3rGpDPBdkLEmjFj9JwqvpH) | [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi) | [Misschien Is Ooit Wel Nu](https://open.spotify.com/album/2i7QZ4WZ7FQe6Uqbz8D643) | 3:26 |
 | 73 | [Neva Neva](https://open.spotify.com/track/2mI9snG6nJeQ9cJVahpaDv) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Neva Neva](https://open.spotify.com/album/4POtqjeMTeIMq5SM4LN18B) | 3:18 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 98 | [Work](https://open.spotify.com/track/190Jy5UvDjBbbpnfDFFOc1) | [Fat White Family](https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4) | [Work](https://open.spotify.com/album/1Hb73vhOjThgS4BxhJ4KWz) | 4:29 |
 | 99 | [Knife Edge](https://open.spotify.com/track/53rYNxof2dWXRnH0bqKiQ2) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Confidenza \(Original Soundtrack\)](https://open.spotify.com/album/2DpwYA58Qs00nRl59i4eiL) | 3:19 |
 
-Snapshot ID: `MTcxNDExODIzMywwMDAwMDAwMDFhYjRjN2E0YmY2MDBiZmRiNDU5YjY5OGIzNDc1NDcy`
+Snapshot ID: `ZiteWQAAAAAatMekv2AL/bRZtpizR1Ry`

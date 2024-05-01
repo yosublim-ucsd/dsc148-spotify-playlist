@@ -1,5 +1,5 @@
 {
-  "2024-04-30": 9017,
+  "2024-05-01": 9014,
   "date_first_scraped": "2022-06-10",
   "description": "Driving songs acoustic style! Sit back and enjoy the ride!",
   "name": "Acoustic Driving Songs",
@@ -739,7 +739,7 @@
       ],
       "date_added": "2020-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 209496,
       "name": "Don\u2019t Look Back In Anger - Acoustic",
       "url": "https://open.spotify.com/track/3PkHsRaRZSkIEVc3UmJu16"
@@ -1849,6 +1849,28 @@
       "duration_ms": 175280,
       "name": "Issues - Acoustic",
       "url": "https://open.spotify.com/track/7M8d1oa1Rfvik0RRHT12wt"
+    },
+    {
+      "album": {
+        "name": "I\u2019d Do Anything for Love (But I Won\u2019t Do That) [Acoustic]",
+        "url": "https://open.spotify.com/album/6keIY7MeHgs7YqtAVSilyv"
+      },
+      "artists": [
+        {
+          "name": "John Adams",
+          "url": "https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi"
+        },
+        {
+          "name": "Jae Hall",
+          "url": "https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193493,
+      "name": "I\u2019d Do Anything for Love (But I Won\u2019t Do That) - Acoustic",
+      "url": "https://open.spotify.com/track/6FwHlZaHRx2q6d9p3m2mzo"
     },
     {
       "album": {
@@ -3249,7 +3271,7 @@
       ],
       "date_added": "2023-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 176463,
       "name": "Sweet Child O' Mine - Acoustic Version",
       "url": "https://open.spotify.com/track/7p6wCoyhLOd3njCFK9hYVP"

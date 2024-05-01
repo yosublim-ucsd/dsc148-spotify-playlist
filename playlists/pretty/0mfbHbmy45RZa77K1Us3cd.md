@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0mfbHbmy45RZa77K1Us3cd.md) - [plain]
 
 > Hit songs from the top 22 most streamed artists on the UnitedMasters platform in 2022.
 
-[unitedmasters](https://open.spotify.com/user/unitedmasters) - 7,909 likes - 22 songs - 59 min 7 sec
+[unitedmasters](https://open.spotify.com/user/unitedmasters) - 7,908 likes - 22 songs - 59 min 7 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/0mfbHbmy45RZa77K1Us3cd.md) - [plain]
 | 21 | [Face no Book](https://open.spotify.com/track/5LIIVNlJGqtFrfe9pl3Gw2) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei) | [Face no Book](https://open.spotify.com/album/0FFzC5WmgTApZK7RgJTPZw) | 2:25 |
 | 22 | [Want Me! \(Remix\)](https://open.spotify.com/track/1m8opZQaWAq8IguAft6RYq) | [Cl4pers](https://open.spotify.com/artist/7J2iS8AJGjC7om2vgBXdDJ), [K\. Trill](https://open.spotify.com/artist/22AqdEbpMp70pDH2chesK2), [Gwalla Cobain](https://open.spotify.com/artist/1KM16UQRdfAI4przf4O0NK) | [Want Me! \(Remix\)](https://open.spotify.com/album/7FU51VzuhCuyTMlDQMDqqP) | 1:31 |
 
-Snapshot ID: `MzMxLGMwM2RiZTZjMjY1ZGM0MzE1ZTE3YzY2NmFhNDFjZjY2NGNiYWUwYTA=`
+Snapshot ID: `AAABS8A9vmwmXcQxXhfGZqpBz2ZMuuCg`

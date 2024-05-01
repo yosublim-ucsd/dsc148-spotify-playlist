@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB?si=CD\-0PtcBRSKfmvNyKerzaA">Zoë Modiga</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,000 likes - 60 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,066 likes - 60 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 59 | [African Ontology](https://open.spotify.com/track/56Se3mc2uBst7dLCe3qiwX) | [Steve Dyer](https://open.spotify.com/artist/61aqbPYgQBxkHz5zs4L1YO) | [Revision](https://open.spotify.com/album/54kfgK7hTKoAWTSSmZoC3I) | 7:41 |
 | 60 | [Joburg Poem](https://open.spotify.com/track/2HOgtaksnuNreoo6xogBHL) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [MABUTA](https://open.spotify.com/artist/4Z6IP9yKpOBbitoDKeMIFI) | [Finish The Sun](https://open.spotify.com/album/2aDnrY3VewxtdyuMCuDAAD) | 3:56 |
 
-Snapshot ID: `MTcxNDA4NjA2MCwwMDAwMDAwMDNkZWI0ZWJlOGI0NzgzMTYxODJkYzFhYTg5YWQ3MGMy`
+Snapshot ID: `ZirgrAAAAAA9606+i0eDFhgtwaqJrXDC`

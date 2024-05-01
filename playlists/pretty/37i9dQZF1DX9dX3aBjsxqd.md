@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9dX3aBjsxqd.md) - [plain]
 
 > Relax to these mellow cello melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,653 likes - 66 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,812 likes - 66 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9dX3aBjsxqd.md) - [plain]
 | 65 | [Cello Concerto in C Major, G\. 477: II\. Largo](https://open.spotify.com/track/752Lx7hhyxDhcigfANv8n8) | [Luigi Boccherini](https://open.spotify.com/artist/2l4vGfFV7e46yO8lxfxR76), [Tim Hugh](https://open.spotify.com/artist/1O6njeMdZ3Jm2lnR9s5lEk), [Scottish Chamber Orchestra](https://open.spotify.com/artist/45y5kS0Nhm3v7Do6W5dbcS), [Anthony Halstead](https://open.spotify.com/artist/2SSWdLQmVLFOZ2tTm2PqHS) | [Boccherini: Cello Concertos Nos\. 4, 6\-8](https://open.spotify.com/album/3HjfKxKfRjX6gaStv5KjXW) | 6:29 |
 | 66 | [Manon Lescaut / Act 2: Intermezzo](https://open.spotify.com/track/7sHqiCvIAmbeCDRp1GudSt) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [Metropolitan Opera Orchestra](https://open.spotify.com/artist/5wn7ofJrDNHlKovbljawzS), [James Levine](https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa) | [Puccini: Manon Lescaut](https://open.spotify.com/album/3m9TM6VUXA930miVWBJsZl) | 5:15 |
 
-Snapshot ID: `MTcwMzE3MjgxNiwwMDAwMDAwMGE2Njk4NjQ1NDJhMDgxNWM3YzVjZTA4NzI4Y2I4ZDdm`
+Snapshot ID: `ZYRa0AAAAACmaYZFQqCBXHxc4Icoy41/`

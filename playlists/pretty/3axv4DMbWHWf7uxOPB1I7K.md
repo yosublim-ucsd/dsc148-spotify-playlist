@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/3axv4DMbWHWf7uxOPB1I7K.md) - [plain]
 | 49 | [Lowdown](https://open.spotify.com/track/20MxJN12WEqU5eWsuCrwM5) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [My Time: A Boz Scaggs Anthology \(1969\-1997\)](https://open.spotify.com/album/3urpKmhg4HyYuEmODNdTdo) | 5:16 |
 | 50 | [Show Me The Way \- Album Edit](https://open.spotify.com/track/5idYJ3r39buaxy44NMgmFb) | [Peter Frampton](https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W) | [True Power\-Ballads / 3CD set](https://open.spotify.com/album/01KB6ccwWZ1iVufgXMoOuX) | 3:15 |
 
-Snapshot ID: `MTUsNzdmYWM5Yzc5NjI1NzgyODRlNTBhNDUzOWZiYmMwYmYyZmYyZWRiOA==`
+Snapshot ID: `AAAAD3f6yceWJXgoTlCkU5+7wL8v8u24`

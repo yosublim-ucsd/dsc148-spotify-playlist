@@ -1,12 +1,12 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: The Oozes",
-  "num_followers": 191223,
+  "num_followers": 191295,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4NjgzNjQyOSwwMDAwMDAwMDVmYzM5MGM2ZjU2NzUyNTYzNGM0ZGEyZTA0NTg0N2Rl",
+  "snapshot_id": "ZIsUzQAAAABfw5DG9WdSVjTE2i4EWEfe",
   "tracks": [
     {
       "added_at": "2023-05-25 14:38:53",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "The Royal They",
-        "url": "https://open.spotify.com/album/4oJvLQk4aJ8feombYas5YH"
-      },
-      "artists": [
-        {
-          "name": "The Royal They",
-          "url": "https://open.spotify.com/artist/6PScjU4Y5AJ8EZp2aW4TA2"
-        }
-      ],
-      "duration_ms": 183994,
-      "name": "Full Metal Black",
-      "url": "https://open.spotify.com/track/2MQsDtg1jb4qI5OcurHMI0"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Congregation",
         "url": "https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 160185,
       "name": "At The Core",
       "url": "https://open.spotify.com/track/0Yurp3rkIdKpLtva5cU0Nh"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "The Royal They",
+        "url": "https://open.spotify.com/album/4oJvLQk4aJ8feombYas5YH"
+      },
+      "artists": [
+        {
+          "name": "The Royal They",
+          "url": "https://open.spotify.com/artist/6PScjU4Y5AJ8EZp2aW4TA2"
+        }
+      ],
+      "duration_ms": 183994,
+      "name": "Full Metal Black",
+      "url": "https://open.spotify.com/track/2MQsDtg1jb4qI5OcurHMI0"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "In Birth",
-        "url": "https://open.spotify.com/album/1OAxny9o7MDCz7oZTVfLAV"
-      },
-      "artists": [
-        {
-          "name": "Witch Fever",
-          "url": "https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1"
-        }
-      ],
-      "duration_ms": 176794,
-      "name": "In Birth",
-      "url": "https://open.spotify.com/track/7wOxLKY5IPuK5bpCO4QY7p"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Make Yr Life",
         "url": "https://open.spotify.com/album/1cToLlfIfMju4zS9TXS0RZ"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 197052,
       "name": "Tinder Girl",
       "url": "https://open.spotify.com/track/4v8Ld3zwasdQvBZtVJgO0H"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "In Birth",
+        "url": "https://open.spotify.com/album/1OAxny9o7MDCz7oZTVfLAV"
+      },
+      "artists": [
+        {
+          "name": "Witch Fever",
+          "url": "https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1"
+        }
+      ],
+      "duration_ms": 176794,
+      "name": "In Birth",
+      "url": "https://open.spotify.com/track/7wOxLKY5IPuK5bpCO4QY7p"
     },
     {
       "added_at": "2023-05-25 14:38:53",

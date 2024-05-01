@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,085 likes - 101 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,084 likes - 101 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 15 | [一起寂寞 Lonely Duet](https://open.spotify.com/track/4f62bZPnqVJycmFJQVsAA9) | [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy), [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [一起寂寞 Lonely Duet](https://open.spotify.com/album/4G3e7irPXOurk3SQHkq3a9) | 3:41 |
 | 16 | [Awesome](https://open.spotify.com/track/6ner7QTRDbJU5tJG0u4emU) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [Awesome](https://open.spotify.com/album/5DbOURVQo14fdvTfVZ92Qh) | 2:47 |
 | 17 | [不再可以](https://open.spotify.com/track/6GsZOW5IBV20TP2V4j4rAr) | [Janice Yan](https://open.spotify.com/artist/3r5bFY2H54Y0YGIDzAo1xp) | [Changing Room](https://open.spotify.com/album/7u2tfOPAU2ZzHCEPKPKtX3) | 4:00 |
-| 18 | [請你別愛我](https://open.spotify.com/track/2WDU1x885QLDs8Mnup2AmG) | [陳零九](https://open.spotify.com/artist/3C0lqJQVV41oBNNDCaRPsi) | [請你別愛我](https://open.spotify.com/album/3bzrUgJOTjGwlE2PAFI7A0) | 2:30 |
+| 18 | [請你別愛我](https://open.spotify.com/track/2WDU1x885QLDs8Mnup2AmG) | [Nine Chen](https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6) | [請你別愛我](https://open.spotify.com/album/3bzrUgJOTjGwlE2PAFI7A0) | 2:30 |
 | 19 | [魔法](https://open.spotify.com/track/1C5DoIcsnOZ9SLxIWREedM) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus) | [魔法](https://open.spotify.com/album/4hKnbjet7BKrgKIinnwx4z) | 3:16 |
 | 20 | [美好的可能](https://open.spotify.com/track/2IrIHhR2I0djNzAXVKWTHm) | [林鴻宇](https://open.spotify.com/artist/3cNu9TadMUtDkoVd5db2qB) | [美好的可能](https://open.spotify.com/album/6Sm2Kmg8Rby9rSqXB27KTY) | 4:35 |
 | 21 | [我想我願意 \(電視劇《驕陽伴我》片尾曲\)](https://open.spotify.com/track/7LEKeXpffMyiLPFW957rH8) | [王錚亮](https://open.spotify.com/artist/3mCdK5iQjk98thTdx2UAUN), [林凡](https://open.spotify.com/artist/1YmWActCNjKmuIz1TSgSRx) | [我想我願意 \(電視劇《驕陽伴我》片尾曲\)](https://open.spotify.com/album/3P8SmlZnoFho5whbNfDnI3) | 4:28 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 100 | [难养的花](https://open.spotify.com/track/6otkljphB7hCDDe2cpmknq) | [苏星婕](https://open.spotify.com/artist/19nBOLVLKxrijWEvjpXFI8) | [难养的花](https://open.spotify.com/album/3klD6yaF5Mw6TrBMud5QyN) | 2:45 |
 | 101 | [名字](https://open.spotify.com/track/2xP7OHLvsj2XJgVb5qbFUK) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [名字](https://open.spotify.com/album/57aoNt9kmpzov7sBNSmPNq) | 4:26 |
 
-Snapshot ID: `MTcxNDM2NzI1MCwwMDAwMDAwMDk5YjEwOTYxNTY3MTU0NjI4Nzk3NWJkMDY3ODY1MzE1`
+Snapshot ID: `Zi8rEgAAAACZsQlhVnFUYoeXW9BnhlMV`

@@ -1,12 +1,12 @@
 {
   "description": "2017 highlights from the home of indie music.",
-  "num_followers": 149093,
+  "num_followers": 149112,
   "original_name": "Best of Indie 2017",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMDc2NzMxMSwwMDAwMDAwMGNjOWIzMWI3NTMxMDNjYTg1N2NhYWI5MWY3ZDliYTI4",
+  "snapshot_id": "Zfg8zwAAAADMmzG3UxA8qFfKq5H32boo",
   "tracks": [
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
+        "name": "The OOZ",
+        "url": "https://open.spotify.com/album/7D0onfXwlFnOvm1gF3nEdw"
+      },
+      "artists": [
+        {
+          "name": "King Krule",
+          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+        }
+      ],
+      "duration_ms": 263440,
+      "name": "Dum Surfer",
+      "url": "https://open.spotify.com/track/6ze4DiPZGgAbluSM9DzfPa"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
         "name": "Foreign Hands (George's Version)",
         "url": "https://open.spotify.com/album/11OoifQTfRnad4m4ocQdZs"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 228653,
       "name": "Hot Thoughts",
       "url": "https://open.spotify.com/track/48yvsxGXnJBxy8nXgGbs4S"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
-        "name": "The OOZ",
-        "url": "https://open.spotify.com/album/7D0onfXwlFnOvm1gF3nEdw"
-      },
-      "artists": [
-        {
-          "name": "King Krule",
-          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
-        }
-      ],
-      "duration_ms": 263440,
-      "name": "Dum Surfer",
-      "url": "https://open.spotify.com/track/6ze4DiPZGgAbluSM9DzfPa"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/1FhmTMNe8AziAPkB29114F"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 252230,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/4EpZ4eYuZOwPSSwyqpdHnJ"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
         "name": "Find Yourself",
         "url": "https://open.spotify.com/album/4Lq6ZcbdRAIWVb5dU02KRj"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 176439,
       "name": "Find Yourself",
       "url": "https://open.spotify.com/track/75bpVVgp0HCT9Ad6uIFGvH"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/1FhmTMNe8AziAPkB29114F"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 252230,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/4EpZ4eYuZOwPSSwyqpdHnJ"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "This Old Dog",
-        "url": "https://open.spotify.com/album/6XzoFb3hP14jVQeCMRdVJR"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 181586,
-      "name": "Still Beating",
-      "url": "https://open.spotify.com/track/2N4idqj9TT3HnH2OFT9j0v"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Best Friend",
         "url": "https://open.spotify.com/album/51pSyGziPFv8ajzF7ilUAr"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 262231,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/47Bg6IrMed1GPbxRgwH2aC"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "This Old Dog",
+        "url": "https://open.spotify.com/album/6XzoFb3hP14jVQeCMRdVJR"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 181586,
+      "name": "Still Beating",
+      "url": "https://open.spotify.com/track/2N4idqj9TT3HnH2OFT9j0v"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1539,6 +1539,22 @@
       "duration_ms": 206853,
       "name": "In Cold Blood",
       "url": "https://open.spotify.com/track/3bmxsQVFi8k7qfM5ULU8Me"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Gold Angel",
+        "url": "https://open.spotify.com/album/7dmut1QlXEvQsfkGhgWCcb"
+      },
+      "artists": [
+        {
+          "name": "Minke",
+          "url": "https://open.spotify.com/artist/4fTWIwXX49PpfrhxBHfkkw"
+        }
+      ],
+      "duration_ms": 261693,
+      "name": "Gold Angel",
+      "url": "https://open.spotify.com/track/6NaRzSvVxqv2DC2eg039gB"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1591,6 +1607,26 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
+        "name": "Loving Is Easy (feat. Benny Sings)",
+        "url": "https://open.spotify.com/album/4D6BtgzCwuJx9omikqA8Rg"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        },
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "duration_ms": 155720,
+      "name": "Loving Is Easy (feat. Benny Sings)",
+      "url": "https://open.spotify.com/track/5EYi2rH4LYs6M21ZLOyQTx"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
         "name": "Sleep Well Beast",
         "url": "https://open.spotify.com/album/6zG9PHw8dlMLIyRE9TEGGk"
       },
@@ -1603,38 +1639,6 @@
       "duration_ms": 338973,
       "name": "Guilty Party",
       "url": "https://open.spotify.com/track/25RriQgYitvlhOso7ckY2r"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
-        "name": "Everybody Works",
-        "url": "https://open.spotify.com/album/5veFXVIAu56PInc8MRiMzo"
-      },
-      "artists": [
-        {
-          "name": "Jay Som",
-          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
-        }
-      ],
-      "duration_ms": 225253,
-      "name": "Baybee",
-      "url": "https://open.spotify.com/track/6w1yJF1bOcznEmOkjTXAk4"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
-        "name": "Retrospect",
-        "url": "https://open.spotify.com/album/7od5erHuDrLwWySdecKpcJ"
-      },
-      "artists": [
-        {
-          "name": "Vistas",
-          "url": "https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc"
-        }
-      ],
-      "duration_ms": 204004,
-      "name": "Retrospect - Single Version",
-      "url": "https://open.spotify.com/track/1YlOdKPa0LBTqOnFAxWPLQ"
     }
   ],
   "unique_name": "Best of Indie 2017",

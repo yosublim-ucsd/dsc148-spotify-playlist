@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: Queen of Tears\(눈물의 여왕\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,509,224 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,509,279 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 99 | [Sunset Kiss](https://open.spotify.com/track/5uAPDJnAl6Iide6UfzXZ3J) | [MONE](https://open.spotify.com/artist/2XJnHK08g01FSgC9xavdwo) | [The Escape of the Seven OST Special Track](https://open.spotify.com/album/5JZyqZsqZmuYo7fnwMAnDZ) | 3:06 |
 | 100 | [BLOOD ON MY HANDS \(Feat\. Paul Blanco & DeVita\)](https://open.spotify.com/track/2tWlrQ5VAwVcVmTdxeqa5J) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [Ballerina \(Music from The Netflix Film\)](https://open.spotify.com/album/11HqjJX3c1LsSrCmUUBjI5) | 3:31 |
 
-Snapshot ID: `MTcxMzg2MTcyMywwMDAwMDAwMGIyZmIyZWU2MWRjOTIyYThhMjE3NmUxZGU4YmMwOTNj`
+Snapshot ID: `Zid0WwAAAACy+y7mHckiqKIXbh3ovAk8`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 
 > A pastoral, uplifting pan\-African café sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,986 likes - 100 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,090 likes - 100 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 | 99 | [Sohlangana Khona](https://open.spotify.com/track/3Et506glSw4IsWezo1M95d) | [Vusa Mkhaya](https://open.spotify.com/artist/1Zcfa6xRf2ZShaD9lcVR8E) | [Africa: Finding Graceland](https://open.spotify.com/album/79ZDZrcYdFjb19vnacPD6V) | 5:09 |
 | 100 | [Folly Cagni](https://open.spotify.com/track/490jbuzW3XPHTXg3nhqbJ8) | [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h) | [Jamm](https://open.spotify.com/album/4sh5kAaYaucu6sFbAakF2y) | 3:08 |
 
-Snapshot ID: `MTcwMzIwMzI2MCwwMDAwMDAwMDg3ODU5MjZjZmM3YjcwMmYzZDMyNDY1NGM3OGZkNmVj`
+Snapshot ID: `ZYTRvAAAAACHhZJs/HtwLz0yRlTHj9bs`

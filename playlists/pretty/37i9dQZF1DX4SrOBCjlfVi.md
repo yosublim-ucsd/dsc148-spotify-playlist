@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring YG, Gucci Mane, A Boogie and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,748 likes - 49 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,833 likes - 49 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 48 | [Tears](https://open.spotify.com/track/6eMgAr99mgRleYua3CEv3j) | [Project Youngin](https://open.spotify.com/artist/0zSnym91x3cA9RTp3wHff0) | [Bigger Blessings](https://open.spotify.com/album/1oPjt4ZaOkLeVJHOiipMzj) | 2:46 |
 | 49 | [Oochie Walla](https://open.spotify.com/track/53GH14fEjEF853rdlLBjHz) | [Mama Million](https://open.spotify.com/artist/5m041e3yWuwwFh9p0bYK2j) | [Oochie Walla](https://open.spotify.com/album/2pYN4zhwOI2uyRzNhnaiez) | 1:53 |
 
-Snapshot ID: `MTcxNDEwNDAwMCwwMDAwMDAwMGE3NjExODM5NjU1NWE1MzRmZTZmMDVkZDMxZjlkNTRh`
+Snapshot ID: `ZismwAAAAACnYRg5ZVWlNP5vBd0x+dVK`

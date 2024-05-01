@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/3wjPs3pZiBROjNC2sgWJbN.md) - [plain]
 | 69 | [I Won't Leave You Lonely](https://open.spotify.com/track/1duv1TxQLmY2DuXdilI18Y) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 4:12 |
 | 70 | [Tom's Diner \- 7" Version](https://open.spotify.com/track/4sutLmjkVKRN6pOAMo2joC) | [DNA](https://open.spotify.com/artist/2rGm8R7YDTbqDCVlNssQyL), [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw), [Neal Slateford](https://open.spotify.com/artist/4a09epliVikRqsBczNwZb2), [Nick Batt](https://open.spotify.com/artist/1VOvPysGbgHhsfKA6NaKnl) | [The Best Of Suzanne Vega \- Tried And True](https://open.spotify.com/album/7dC869HdAWI9T2jmNy7zqO) | 3:47 |
 
-Snapshot ID: `MjE0OCxkZTUwMmY5OGI0ZjZhMTRkNDJlMjQzNTY4M2VjYWY0MDhkMTQ1MTk2`
+Snapshot ID: `AAAIZN5QL5i09qFNQuJDVoPsr0CNFFGW`

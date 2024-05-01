@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/3JX984v2WSM9LZQGVkE1Pu.md) - [plain]
 | 50 | [People](https://open.spotify.com/track/3bA4rrllsTANmDuq4aiNYZ) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Standards \(Great Songs/Great Performances\)](https://open.spotify.com/album/6lcm7Ifpy8qDxYh1dDTHvP) | 2:40 |
 | 51 | [Rose Room](https://open.spotify.com/track/0T8cHn2JguAVRRSUSEh31K) | [Buddy DeFranco](https://open.spotify.com/artist/4PGmuM1NRpb2AynvthlC6y) | [A Night Out With Verve](https://open.spotify.com/album/7vFnfXmZsvKqY22UHy2yXC) | 4:02 |
 
-Snapshot ID: `MzA0LDQ4OTgwMDcyZWJhOGExYTQ3NGRkMjk3NmI4OGE3ZjQ5OGUwMjIzOTI=`
+Snapshot ID: `AAABMEiYAHLrqKGkdN0pdriKf0mOAiOS`

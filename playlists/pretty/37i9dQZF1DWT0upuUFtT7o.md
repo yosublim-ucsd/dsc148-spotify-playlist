@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Cover: Ugly \(UK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,805 likes - 101 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,841 likes - 101 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 100 | [Whitewashed Tombs](https://open.spotify.com/track/7bnuh2k8jthZbpM7HSVK9o) | [Possum Pants](https://open.spotify.com/artist/0RcNujaryUmSz4EaNJzzXT) | [Whitewashed Tombs](https://open.spotify.com/album/2FdnSaqK1Bvxvmg1ou4sed) | 4:03 |
 | 101 | [LOSTWITHOUTMARIA](https://open.spotify.com/track/5vHRQOgc2tQb4h7KrBQUmS) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [LOSTWITHOUTMARIA](https://open.spotify.com/album/19JU2xfgLz08uhItsL9mrT) | 2:34 |
 
-Snapshot ID: `MTcxMzk3MzUxOSwwMDAwMDAwMDVkZjAzYzhkYTVhYjZjMGMyYjVkYjQ1ODc1OWQyOTMz`
+Snapshot ID: `ZikpDwAAAABd8DyNpatsDCtdtFh1nSkz`

@@ -1,12 +1,12 @@
 {
   "description": "Los temas esenciales de la escena independiente nacional. Furland en portada. ",
-  "num_followers": 150036,
+  "num_followers": 150098,
   "original_name": "Indie Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzIzMDgwNiwwMDAwMDAwMGFiM2IzZWQ3ODgxYTIxZmM2ZDMwMTgwZTdmNGE0ZDA3",
+  "snapshot_id": "Zh3T1gAAAACrOz7XiBoh/G0wGA5/Sk0H",
   "tracks": [
     {
       "added_at": "2023-09-01 16:42:45",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Saga Mama",
-        "url": "https://open.spotify.com/album/7rWjUHoF1VDRseBSYNLWjE"
-      },
-      "artists": [
-        {
-          "name": "Jessy Bulbo",
-          "url": "https://open.spotify.com/artist/2icB5yGi569VGjYogZtSvT"
-        }
-      ],
-      "duration_ms": 175080,
-      "name": "Maldito",
-      "url": "https://open.spotify.com/track/4AuYIbNIESLMG3h5gTLXho"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Muchacha",
         "url": "https://open.spotify.com/album/47RB07x4FAdJZhkyNTEbPH"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 180200,
       "name": "Muchacha",
       "url": "https://open.spotify.com/track/2AAyhPcURpf7LqoqsiKZ1N"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Saga Mama",
+        "url": "https://open.spotify.com/album/7rWjUHoF1VDRseBSYNLWjE"
+      },
+      "artists": [
+        {
+          "name": "Jessy Bulbo",
+          "url": "https://open.spotify.com/artist/2icB5yGi569VGjYogZtSvT"
+        }
+      ],
+      "duration_ms": 175080,
+      "name": "Maldito",
+      "url": "https://open.spotify.com/track/4AuYIbNIESLMG3h5gTLXho"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Hipnosis",
-        "url": "https://open.spotify.com/album/2W0ZOxbxmxvzeWl1xSRjXR"
-      },
-      "artists": [
-        {
-          "name": "Chetes",
-          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
-        }
-      ],
-      "duration_ms": 374626,
-      "name": "Arena",
-      "url": "https://open.spotify.com/track/4ikqBzdldCYqaY56KFqD2B"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "A Casa Voy - EP",
         "url": "https://open.spotify.com/album/6BWzhtLuDftRsj1AD5EtM4"
       },
@@ -1383,18 +1367,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Lluvia",
-        "url": "https://open.spotify.com/album/07g3BVeM6QhWXfdLvRLlvy"
+        "name": "Hipnosis",
+        "url": "https://open.spotify.com/album/2W0ZOxbxmxvzeWl1xSRjXR"
       },
       "artists": [
         {
-          "name": "Baltazar",
-          "url": "https://open.spotify.com/artist/3bCoSxfUHJwe7ztAkZN7NW"
+          "name": "Chetes",
+          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
         }
       ],
-      "duration_ms": 254889,
-      "name": "Lluvia",
-      "url": "https://open.spotify.com/track/2I9OiNVmN2VyRXyd6b3iXI"
+      "duration_ms": 374626,
+      "name": "Arena",
+      "url": "https://open.spotify.com/track/4ikqBzdldCYqaY56KFqD2B"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1411,6 +1395,22 @@
       "duration_ms": 213626,
       "name": "Chubaca Tiene un Secreto",
       "url": "https://open.spotify.com/track/7KhY4LpnabTWYCoShC9k0Z"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Lluvia",
+        "url": "https://open.spotify.com/album/07g3BVeM6QhWXfdLvRLlvy"
+      },
+      "artists": [
+        {
+          "name": "Baltazar",
+          "url": "https://open.spotify.com/artist/3bCoSxfUHJwe7ztAkZN7NW"
+        }
+      ],
+      "duration_ms": 254889,
+      "name": "Lluvia",
+      "url": "https://open.spotify.com/track/2I9OiNVmN2VyRXyd6b3iXI"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Antolog\u00eda",
-        "url": "https://open.spotify.com/album/5UDoOYylqlJqoitSCg2Cps"
-      },
-      "artists": [
-        {
-          "name": "Hey Chica!",
-          "url": "https://open.spotify.com/artist/0YmDnVrTRCTPHYkOyK5m7T"
-        }
-      ],
-      "duration_ms": 191520,
-      "name": "Curse the Space",
-      "url": "https://open.spotify.com/track/2Ryk5DzBoaJsIVtAUFfd95"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Gazapo",
         "url": "https://open.spotify.com/album/52KdB5pIsS20pJ7XdsneFT"
       },
@@ -1627,18 +1611,34 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "A Casa Voy - EP",
-        "url": "https://open.spotify.com/album/6BWzhtLuDftRsj1AD5EtM4"
+        "name": "Antolog\u00eda",
+        "url": "https://open.spotify.com/album/5UDoOYylqlJqoitSCg2Cps"
       },
       "artists": [
         {
-          "name": "Furland",
-          "url": "https://open.spotify.com/artist/6Tf0naaPUrHxhByC152BiQ"
+          "name": "Hey Chica!",
+          "url": "https://open.spotify.com/artist/0YmDnVrTRCTPHYkOyK5m7T"
         }
       ],
-      "duration_ms": 326426,
-      "name": "Robot",
-      "url": "https://open.spotify.com/track/1kQyVGpK1b2Uq1fCpWgDjQ"
+      "duration_ms": 191520,
+      "name": "Curse the Space",
+      "url": "https://open.spotify.com/track/2Ryk5DzBoaJsIVtAUFfd95"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "La Fiesta de la Forma",
+        "url": "https://open.spotify.com/album/5HRqHWTveNLtgJ1jOqmDey"
+      },
+      "artists": [
+        {
+          "name": "Los Reyes del Falsete",
+          "url": "https://open.spotify.com/artist/3fSY3Q7ElfLbI1cR3RyOXd"
+        }
+      ],
+      "duration_ms": 411960,
+      "name": "Mi Chica",
+      "url": "https://open.spotify.com/track/7tIFZKrcPgzNUKBEU3Dvkc"
     }
   ],
   "unique_name": "Indie Mexicano: Cl\u00e1sicos",

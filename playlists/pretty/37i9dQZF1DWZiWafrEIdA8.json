@@ -1,12 +1,12 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \ub2f9\uc2e0\uc744 \uc704\ub85c\ud558\ub294 \uac00\uc0ac\uc640 \ub530\ub73b\ud55c \ube44\ud2b8.",
-  "num_followers": 9305,
+  "num_followers": 9306,
   "original_name": "\ud790\ub9c1 \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzc2MjQ2MSwwMDAwMDAwMGUyNjdjOTc1NDE1NjQ1N2FkODNjMGUyODQyMTllMjEw",
+  "snapshot_id": "ZiXwnQAAAADiZ8l1QVZFetg8DihCGeIQ",
   "tracks": [
     {
       "added_at": "2024-04-22 05:07:41",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-04-22 05:07:41",
       "album": {
+        "name": "BITCOIN",
+        "url": "https://open.spotify.com/album/4MVFegneeORtADZG9KOfYl"
+      },
+      "artists": [
+        {
+          "name": "TimeFeveR",
+          "url": "https://open.spotify.com/artist/3jswVC5CJkKeDp8ugPH42m"
+        }
+      ],
+      "duration_ms": 202062,
+      "name": "BITCOIN (prod. HOWOW)",
+      "url": "https://open.spotify.com/track/1nTYsc4p0VNzfywsy7gpBl"
+    },
+    {
+      "added_at": "2024-04-22 05:07:41",
+      "album": {
         "name": "Show Me the Money 6 Episode 3",
         "url": "https://open.spotify.com/album/1Z1RxcM9xR2IRWgF8ANmGa"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 263123,
       "name": "Brrr Get$",
       "url": "https://open.spotify.com/track/4kiD38roQQBlqEGMyTJXXh"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
-        "name": "BITCOIN",
-        "url": "https://open.spotify.com/album/4MVFegneeORtADZG9KOfYl"
-      },
-      "artists": [
-        {
-          "name": "TimeFeveR",
-          "url": "https://open.spotify.com/artist/3jswVC5CJkKeDp8ugPH42m"
-        }
-      ],
-      "duration_ms": 202062,
-      "name": "BITCOIN (prod. HOWOW)",
-      "url": "https://open.spotify.com/track/1nTYsc4p0VNzfywsy7gpBl"
     },
     {
       "added_at": "2024-04-22 05:07:41",
@@ -943,6 +943,26 @@
     {
       "added_at": "2024-04-22 05:07:41",
       "album": {
+        "name": "Thank U",
+        "url": "https://open.spotify.com/album/3c6PzqYExZUGOzCY2YyQex"
+      },
+      "artists": [
+        {
+          "name": "Kim Mi Jeong",
+          "url": "https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA"
+        },
+        {
+          "name": "Lee Aram",
+          "url": "https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1"
+        }
+      ],
+      "duration_ms": 163744,
+      "name": "Thank U (Feat.Lee Aram)",
+      "url": "https://open.spotify.com/track/2ra21UPWO6BHN8HlguhDFR"
+    },
+    {
+      "added_at": "2024-04-22 05:07:41",
+      "album": {
         "name": "Marigold Tapes",
         "url": "https://open.spotify.com/album/125PdGOGePXb8q7sAwCMLk"
       },
@@ -983,26 +1003,6 @@
     {
       "added_at": "2024-04-22 05:07:41",
       "album": {
-        "name": "Thank U",
-        "url": "https://open.spotify.com/album/3c6PzqYExZUGOzCY2YyQex"
-      },
-      "artists": [
-        {
-          "name": "Kim Mi Jeong",
-          "url": "https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA"
-        },
-        {
-          "name": "Lee Aram",
-          "url": "https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1"
-        }
-      ],
-      "duration_ms": 163744,
-      "name": "Thank U (Feat.Lee Aram)",
-      "url": "https://open.spotify.com/track/2ra21UPWO6BHN8HlguhDFR"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
         "name": "2002",
         "url": "https://open.spotify.com/album/3IPBA2JydAHsrYe77rDyIa"
       },
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2024-04-22 05:07:41",
       "album": {
-        "name": "GOD DID",
-        "url": "https://open.spotify.com/album/7tgqhnlcveT91qRcoPnjpG"
+        "name": "GENERATION",
+        "url": "https://open.spotify.com/album/1QuuarCDtB9FLdciO1iT0b"
       },
       "artists": [
         {
-          "name": "Uneducated Kid",
-          "url": "https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM"
+          "name": "HOMIES",
+          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
         }
       ],
-      "duration_ms": 177109,
-      "name": "GOD DID (Feat. Thug Min) [Prod. TOIL]",
-      "url": "https://open.spotify.com/track/5LjLkUUh0curHF39ZdoQwz"
+      "duration_ms": 241840,
+      "name": "Way it is",
+      "url": "https://open.spotify.com/track/35BWbBYVPZATgmUQvkwbAM"
     }
   ],
   "unique_name": "\ud790\ub9c1 \ud799\ud569",

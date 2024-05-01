@@ -14,4 +14,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVu3lAQuOIjU.md) - [plain]
 | 4 | [Songs 4 Us, by The\-Dream \| Chapter 20](https://open.spotify.com/episode/6gFrTbW8amcVOlNR3vjvYY) | [Black Girl Songbook ](https://open.spotify.com/show/20Ifo2kqrmLweDY87KC0dr) | [Black Girl Songbook ](https://open.spotify.com/album/20Ifo2kqrmLweDY87KC0dr) | 1:07:38 |
 | 5 | [Black People Love Coldplay ft\. Edith \(MM@TA\) & Christine \(ZULU\)](https://open.spotify.com/episode/6SVSkaG2FVbT4rNB8A8rnf) | [Black People Love Paramore](https://open.spotify.com/show/0aNC945DJjS2GbgAqRc1v3) | [Black People Love Paramore](https://open.spotify.com/album/0aNC945DJjS2GbgAqRc1v3) | 1:02:16 |
 
-Snapshot ID: `MTY4NjkyMTM4MSwwMDAwMDAwMDI0OGZkNjBkMzRkOGEyOGJiNDg2NGQ5NDcwODI0ODYz`
+Snapshot ID: `ZIxgpQAAAAAkj9YNNNiii7SGTZRwgkhj`

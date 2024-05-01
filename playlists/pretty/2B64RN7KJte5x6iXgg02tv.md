@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/2B64RN7KJte5x6iXgg02tv.md) - [plain]
 | 19 | [Don't Disconnect](https://open.spotify.com/track/3vKbgg4UdNZV2Bu5OiHA7T) | [Sarah Jaffe](https://open.spotify.com/artist/1z2SrszsRmq47kDhBAnyNS) | [Don't Disconnect](https://open.spotify.com/album/4dKkAxZwUOWfPfDLJGpVB4) | 4:54 |
 | 20 | [Afterglow](https://open.spotify.com/track/7kD1HNMUQgA8DsT06GBXo5) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Every Open Eye](https://open.spotify.com/album/1icGjif3DwL3PGKrKfuYh1) | 3:14 |
 
-Snapshot ID: `MTQ2LDIzZGY2OTU2OTQxMzllNjM0MmJlZjk3YzU0M2JlZTU4ZjE3OWE2YWY=`
+Snapshot ID: `AAAAkiPfaVaUE55jQr75fFQ77ljxeaav`

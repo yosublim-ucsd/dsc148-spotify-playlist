@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/0jJQDST7bzwAYlN19tFLXw.md) - [plain]
 | 20 | [Home](https://open.spotify.com/track/7bkUOZXh8FDTcQmeAP9r6n) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Country Love](https://open.spotify.com/album/7hMWp3HxPi3PGnjTe7eRt8) | 3:50 |
 | 21 | [Apologize](https://open.spotify.com/track/5Q87J0EX7neuWEqybXQhfr) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Doin' My Thing](https://open.spotify.com/album/13pqUKo7eRvMKFGpfCGyEF) | 2:52 |
 
-Snapshot ID: `MjEsYTQ3NDBhMzgzM2YxNDg0MTFhNjk5NzRjNTA1YzY2YmU0YjlmZWY0Nw==`
+Snapshot ID: `AAAAFaR0Cjgz8UhBGmmXTFBcZr5Ln+9H`

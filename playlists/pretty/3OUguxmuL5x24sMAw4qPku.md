@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/3OUguxmuL5x24sMAw4qPku.md) - [plain]
 | 56 | [Silent Way](https://open.spotify.com/track/2Uj2BjZXVv9WvYFEVl8TDi) | [Milo Greene](https://open.spotify.com/artist/5euJsEvfrlfhYDorMR40OF) | [Milo Greene](https://open.spotify.com/album/15wQEsBsbl14I4m1yEuR8w) | 3:23 |
 | 57 | [Drive Darling](https://open.spotify.com/track/5LTgXILxa4dCIyjzoWmSjf) | [BOY](https://open.spotify.com/artist/7I7ObCLzhAnOchc4fCQiRX) | [Mutual Friends](https://open.spotify.com/album/5wyBVut9wFVvYad6XEkY5n) | 4:24 |
 
-Snapshot ID: `MzAyLDRjYWVjN2U1ZTA1ODJlY2MyZTQwM2IwMTNiYjRmYWY5YWNjMTRhNDk=`
+Snapshot ID: `AAABLkyux+XgWC7MLkA7ATu0+vmswUpJ`

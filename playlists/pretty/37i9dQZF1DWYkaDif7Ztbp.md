@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now!  Cover:  <a href="https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF?si=Mh1hzhagR2\-Ci5kxnSfveg">Joeboy </a>  and   <a href="https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh?si=Wjm0yfSZQaegkp3L5JyZpA">Qing Madi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,581,473 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,581,722 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 | 49 | [KATIGORI](https://open.spotify.com/track/7iHv6PzRxx4x8KYb6XRFfm) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KATIGORI/PIANO](https://open.spotify.com/album/0ns15ZLBSXJXFHTbcRTjM3) | 2:58 |
 | 50 | [Ololufe \(feat\. Wande Coal\)](https://open.spotify.com/track/0x3sDnom0itB72oEVrRE7v) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [S2](https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM) | 3:30 |
 
-Snapshot ID: `MTcxNDA4OTY2MCwwMDAwMDAwMGJmZjM1YmE2ZDA0ZWRkNjc0MTM2MDQzMjUyM2YwNDcx`
+Snapshot ID: `ZiruvAAAAAC/81um0E7dZ0E2BDJSPwRx`

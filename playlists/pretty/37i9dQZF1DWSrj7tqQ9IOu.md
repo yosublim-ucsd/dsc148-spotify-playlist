@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover : Christine and the Queens
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,007 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,002 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Saint\-Germain](https://open.spotify.com/track/0xjRkSgHG8A14Z2q5TdEiy) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [Saint\-Germain](https://open.spotify.com/album/5v60CETbGHisBr29z93w3S) | 3:10 |
 | 50 | [Sacha](https://open.spotify.com/track/4Iw28yS7pa8k4pcMF9R3YR) | [Bonnie Banane](https://open.spotify.com/artist/5krZkab66mF2eexXFJv0A6) | [Nini](https://open.spotify.com/album/0KhnZoRrVjk9tkMkviirvh) | 3:11 |
 
-Snapshot ID: `MTcxNDA4MjQ2MCwwMDAwMDAwMDZmOTU1ZGI0MGY0MzcxODdlNmIxOGUyNzMwNWZiZjYx`
+Snapshot ID: `ZirSnAAAAABvlV20D0Nxh+axjicwX79h`

@@ -11628,7 +11628,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 136988,
       "name": "GG",
       "url": "https://open.spotify.com/track/63SDCmsnESL8xoY12YZPsc"
@@ -23287,6 +23287,32 @@
     },
     {
       "album": {
+        "name": "PANAMERA",
+        "url": "https://open.spotify.com/album/6Fo3srFW1Zo9UMp8NLaiKd"
+      },
+      "artists": [
+        {
+          "name": "Bres",
+          "url": "https://open.spotify.com/artist/3KqadO00DMt4lSqyEE5CTr"
+        },
+        {
+          "name": "Onad",
+          "url": "https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV"
+        },
+        {
+          "name": "Ioannis",
+          "url": "https://open.spotify.com/artist/2oQftHHbzwW2lMNxh5W5iw"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "PANAMERA",
+      "url": "https://open.spotify.com/track/2oUCvF9yZhXmfvhaGIHGUb"
+    },
+    {
+      "album": {
         "name": "Pandora",
         "url": "https://open.spotify.com/album/5zx6yjMEp0TVohDeBjvpBN"
       },
@@ -25996,7 +26022,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 168749,
       "name": "REPORTAGE",
       "url": "https://open.spotify.com/track/7nD3EmNXEg6RI7kRS8Wjdu"
@@ -33828,7 +33854,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 165944,
       "name": "Zurbaran",
       "url": "https://open.spotify.com/track/5p3F8ZyKGGGp4IZYRBr4pI"

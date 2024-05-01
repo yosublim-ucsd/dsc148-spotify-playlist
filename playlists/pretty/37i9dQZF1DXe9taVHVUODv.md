@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9taVHVUODv.md) - [plain]
 
 > Murder is so 1987\. Listen to the music from and inspired by Blumhouse TV's <i>Totally Killer</i>, now streaming on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,258 likes - 24 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,296 likes - 24 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9taVHVUODv.md) - [plain]
 | 23 | [Rapture](https://open.spotify.com/track/6F2vo4sxRNQ58VYe3pdiaL) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits: Blondie](https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW) | 4:59 |
 | 24 | [Little Bit 'O Soul \[From The Amazon Original Movie “Totally Killer”\]](https://open.spotify.com/track/01d3ikcS8fpRKTBgOLcwqO) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Little Bit 'O Soul \[From The Amazon Original Movie “Totally Killer”\]](https://open.spotify.com/album/3CiQoxlWPtdMJwLIVQyAPM) | 2:40 |
 
-Snapshot ID: `MTY5NjU2NDgwMCwwMDAwMDAwMGI4Y2E2MGJlNzBlZjkyMGYwNmQ0MDlkMjQxMDcxYzU3`
+Snapshot ID: `ZR+GQAAAAAC4ymC+cO+SDwbUCdJBBxxX`

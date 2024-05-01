@@ -2,7 +2,7 @@
 
 ### [This Is Ingrid Andress](https://open.spotify.com/playlist/37i9dQZF1DZ06evO07shWw)
 
-> This Is Ingrid Andress\. Los temas esenciales, todos en una lista.
+> This is Ingrid Andress\. The essential tracks, all in one playlist.
 
 37 songs - 2 hr 4 min
 

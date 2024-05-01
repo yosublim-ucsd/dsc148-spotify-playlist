@@ -28,4 +28,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOzWgMvuIQ4pQ.md) - [plain]
 | 18 | [Somethin' I'm Good At](https://open.spotify.com/track/6DRsEO5yuEGBF87qpyMB4d) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Brett Eldredge](https://open.spotify.com/album/1NUKNYLtePSiZnQj0QeZlo) | 3:37 |
 | 19 | [\#127 \- Brett Eldredge](https://open.spotify.com/episode/4mRdxRiJqLM5ubtlBCgyWu) | [Bobbycast](https://open.spotify.com/show/7zgK2qWutftJ75ODQy5wuH) | [Bobbycast](https://open.spotify.com/album/7zgK2qWutftJ75ODQy5wuH) | 1:13:40 |
 
-Snapshot ID: `MjY3NzQ5MTUsMDAwMDAwMDBjMTIwODAyZjNiZjA1ZjZlY2Y5ZTllNDBkMDg2ZTQwNQ==`
+Snapshot ID: `AZiNgwAAAADBIIAvO/Bfbs+enkDQhuQF`

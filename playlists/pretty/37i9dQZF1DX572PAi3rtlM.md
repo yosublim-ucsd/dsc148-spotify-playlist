@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 
 > Italian funk, disco and jazz, recent and old\. Hand\-picked by actual Italians\. 🌙
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,880 likes - 76 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,888 likes - 76 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 | 75 | [Hai capito o no? \- Live](https://open.spotify.com/track/1xBMyLQh9cxjwRdwUqdLxC) | [Ron](https://open.spotify.com/artist/3vuKNU7lgoecqjnArUKom6) | [Tutti cuori viaggianti](https://open.spotify.com/album/0U1L7YV4j7Jd3VDqoDBCmM) | 3:40 |
 | 76 | [La spiaggia incantata \(Seq.1, Titoli di testa\)](https://open.spotify.com/track/0q8GmIh3nYVnHWdr8KI5nf) | [Carlo Rustichelli](https://open.spotify.com/artist/4zPqGt9888ogJunfNtXubd) | [L'isola di Arturo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2O2AnAOBMbWyX99vnl73m1) | 2:02 |
 
-Snapshot ID: `MTcwNTU3NDM4NCwwMDAwMDAwMGJmZDhiM2M5MmEwNjkwNTdlYzcwYTNkY2VkNWEzZTg4`
+Snapshot ID: `Zaj/8AAAAAC/2LPJKgaQV+xwo9ztWj6I`

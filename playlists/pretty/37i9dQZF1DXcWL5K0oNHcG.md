@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: CHERISE\. Artwork: Joy Yamusangie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,573 likes - 61 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,630 likes - 61 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 60 | [1\-0](https://open.spotify.com/track/6K6RV21WP5Kj0oelvC56kI) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [1\-0](https://open.spotify.com/album/48aa23wkmx3JUSwWK2dTjQ) | 4:41 |
 | 61 | [Theodor Marmalade](https://open.spotify.com/track/4ySeqHdrig51vL16wHLND6) | [Apifera](https://open.spotify.com/artist/7zgoELe3akRCheZJ8XnDpr) | [Theodor Marmalade](https://open.spotify.com/album/7Ilc7jpSMIg99Oy9uZuvbF) | 3:43 |
 
-Snapshot ID: `MTcxMzkzMTIwMCwwMDAwMDAwMDhlNjcyYjFmMWYwNzM4YmQ1NTMzZDJiNGZjNDI2OTk1`
+Snapshot ID: `ZiiDwAAAAACOZysfHwc4vVUz0rT8QmmV`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Dana and Alden
 
-[Spotify](https://open.spotify.com/user/spotify) - 923,637 likes - 100 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 923,770 likes - 100 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Bass Duo \#1](https://open.spotify.com/track/1SqfaarqpHcceW6eMc2luH) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Edgar Meyer](https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD) | [But Who's Gonna Play the Melody?](https://open.spotify.com/album/1wq4WlOpndhRd3nhjIFO38) | 5:15 |
 | 100 | [Speak To Me](https://open.spotify.com/track/7wc9v9f1agzyv4nckk0peS) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Speak To Me](https://open.spotify.com/album/3hgjPy2aH5DGegCfdebMeM) | 4:14 |
 
-Snapshot ID: `MTcxNDEwNDA2MCwwMDAwMDAwMGYxMmNhMzc0NTYyZTE0OWYyOTgwMmY3OTg2ZjgzZWI3`
+Snapshot ID: `Zism/AAAAADxLKN0Vi4UnymAL3mG+D63`

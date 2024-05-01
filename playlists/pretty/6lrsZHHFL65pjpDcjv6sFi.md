@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/6lrsZHHFL65pjpDcjv6sFi.md) - [plain]
 | 31 | [Nebe Macou](https://open.spotify.com/track/6M6kmy45IiAoZoks5rNHvk) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Top étoiles, vol\. 2](https://open.spotify.com/album/3MSgJbyTBt6bzgRbv7kVM0) | 4:59 |
 | 32 | [Lost at Sea](https://open.spotify.com/track/267Wgt8nw2xaaYgjWFBj8k) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [Singing from the Grave](https://open.spotify.com/album/0zTW5KPhvQtZwyhcsjfzMv) | 4:26 |
 
-Snapshot ID: `NCw3MDAzMTFmNjM1OTc2YjUwM2MxNjA5YjQyYzRhMmQwNjlmODAxM2Zl`
+Snapshot ID: `AAAABHADEfY1l2tQPBYJtCxKLQafgBP+`

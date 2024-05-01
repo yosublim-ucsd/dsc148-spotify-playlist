@@ -4,14 +4,15 @@
 
 > 
 
-776 songs - 2 day 12 hr 51 min
+777 songs - 2 day 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Big Brain](https://open.spotify.com/track/5xYqhuCklpSTQK4APsGs1k) | [Nico Mauskovic](https://open.spotify.com/artist/1kd1gSZF2EkPZDJCbhPjen) | [Club Coco](https://open.spotify.com/album/6oBPgqrxkG0SrBJIq6xLHK) | 3:07 | 2021-06-03 |  |
 | [A Gira](https://open.spotify.com/track/70mpYOq7kaEVOZD6IIJAaw) | [Trio Ternura](https://open.spotify.com/artist/6J4hJ6O6WJmBTlIL3wJBcT) | [Trio Ternura \(Compacto 1973\)](https://open.spotify.com/album/0LtKGt7sB3pSrduK8trZD8) | 3:03 | 2020-11-18 |  |
 | [A muto](https://open.spotify.com/track/75agN5R0pxJxG4RZ3StZM8) | [Esa](https://open.spotify.com/artist/6H2hxPJDMotYBcaMOxVg5q) | [The Best of Esa](https://open.spotify.com/album/40HWaJUhDY4iiHgGD7uijg) | 7:05 | 2019-07-14 |  |
-| [A Place Called Tarot \(Tarot Suite\)](https://open.spotify.com/track/6qunWG4X42q2LALYA9tdpp) | [Tantra](https://open.spotify.com/artist/6urc5hhviGE72zYtdNgbN3) | [Disco Recharge \(The Complete Expanded Collection\)](https://open.spotify.com/album/01AepugeEoimCqlJJl8eEW) | 15:41 | 2024-03-18 |  |
+| [A Place Called Tarot \(Tarot Suite\)](https://open.spotify.com/track/6qunWG4X42q2LALYA9tdpp) | [Tantra](https://open.spotify.com/artist/6urc5hhviGE72zYtdNgbN3) | [Disco Recharge \(The Complete Expanded Collection\)](https://open.spotify.com/album/01AepugeEoimCqlJJl8eEW) | 15:41 | 2024-03-18 | 2024-05-01 |
+| [A Place Called Tarot \- Idjut Boys Re\-Edit](https://open.spotify.com/track/1MZvOLu9qjQDQMmoPeluHR) | [Tantra](https://open.spotify.com/artist/6urc5hhviGE72zYtdNgbN3) | [A Place Called Tarot & Hungry](https://open.spotify.com/album/3KOBvUfoOhfONzVKBZq2nD) | 10:55 | 2024-04-30 |  |
 | [A Rã](https://open.spotify.com/track/0wrx7YMUJXIcThebT8XDz5) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [Quem É Quem](https://open.spotify.com/album/6GEO5pSp3ojwIm9vZqTtRd) | 2:31 | 2021-05-06 |  |
 | [A Time for Healing](https://open.spotify.com/track/3HZsUhzOr9gn24nJKHKEs8) | [The Kahil El'Zabar Quartet](https://open.spotify.com/artist/3JcDUAPSxt5xvyaXbU4Tdh) | [A Time for Healing](https://open.spotify.com/album/4SjSZfSNn7q2UyrzsfAJKj) | 13:09 | 2023-05-09 |  |
 | [A.E.I.O.U.](https://open.spotify.com/track/3SmPAYgr8V7avYYuoJ0AfE) | [Di Melo](https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe), [Cotonete](https://open.spotify.com/artist/7vRJDtEvLW2MZ4ISs1Zddy) | [A.E.I.O.U.](https://open.spotify.com/album/0fI3qm2UDO6tL4fW5kVHoQ) | 6:30 | 2020-02-12 |  |

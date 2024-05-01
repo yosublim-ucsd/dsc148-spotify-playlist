@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: merci, mercy
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,833 likes - 101 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,891 likes - 101 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 100 | [Close My Eyes](https://open.spotify.com/track/0CQ4LqiyejeeXRDCce1Mp4) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [Close My Eyes](https://open.spotify.com/album/1dsCW9E6mNZxcxfp0zgTH4) | 2:49 |
 | 101 | [Can't Get Enough \(feat\. Sean Paul\) \- Dutty Remix](https://open.spotify.com/track/5Bb1giXHdhdmjGCTmU4kno) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Can't Get Enough \(feat\. Sean Paul\) \[Dutty Remix\]](https://open.spotify.com/album/2DLOoOsgsI1bhX0VF3BQ59) | 3:08 |
 
-Snapshot ID: `MTcxNDEwMDM2MywwMDAwMDAwMGM2MDEzNWI0MGYyM2QxMDgzZDVkNzZlYTgxMzBkNTZl`
+Snapshot ID: `ZisYiwAAAADGATW0DyPRCD1dduqBMNVu`

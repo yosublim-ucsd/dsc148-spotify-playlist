@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 
 > The Official Trap Nation Playlist
 
-[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,016,305 likes - 155 songs - 7 hr 56 min
+[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,016,116 likes - 155 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 | 154 | [SAXO FUNK](https://open.spotify.com/track/3mX7vRytOrduB8IysTVvhO) | [808iuli](https://open.spotify.com/artist/4jM6R2LK78dVTqHVUoA4li), [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id) | [SAXO FUNK](https://open.spotify.com/album/0ROadDFBk9rZyvNRMcLNuP) | 1:45 |
 | 155 | [SATANS SMILE](https://open.spotify.com/track/5HSNpr6gaEof5aeuF39yYg) | [ICHIRO](https://open.spotify.com/artist/5MUljcWL3VylwkBxs9xw0p) | [SATANS SMILE](https://open.spotify.com/album/5gecBZfK5LRcRYnyyI5xO8) | 1:30 |
 
-Snapshot ID: `MTQ2MDgsZmFlZGViY2M4OWU3OWYxMmNmZmQxYjk5NjdlYTk3NDljMTdmZWFlOQ==`
+Snapshot ID: `AAA5EPrt68yJ558Sz/0bmWfql0nBf+rp`

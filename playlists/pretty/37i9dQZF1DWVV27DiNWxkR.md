@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVV27DiNWxkR.md) - [plain]
 
 > The premier alternative melancholia playlist, featuring Mitski
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,761,776 likes - 123 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,762,657 likes - 123 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVV27DiNWxkR.md) - [plain]
 | 122 | [Used To Be Lonely](https://open.spotify.com/track/3vhjvHdXDMiK0yEk6AyIVa) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Used To Be Lonely](https://open.spotify.com/album/4MryjyEP1nBZnTehFeQAxg) | 3:48 |
 | 123 | [I Know The End](https://open.spotify.com/track/3cr3oAP4bQFNjZBV7ElKaB) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s) | 5:44 |
 
-Snapshot ID: `MTcxNDQzMjk2OSwwMDAwMDAwMDk5YmU2OWE4ZTEzZDhlODM3ZGI5MGVjZDhlOGIxOWM1`
+Snapshot ID: `ZjAryQAAAACZvmmo4T2Og325Ds2OixnF`

@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sai Abhyankar
 
-269 songs - 15 hr 33 min
+270 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Kanatha Kanavukal](https://open.spotify.com/track/2lg7V9oIEcJsM0BUhmXJHd) | [Anju Brahmasmi](https://open.spotify.com/artist/5AagsC9yXI74DxvZUWRUF4) | [Kanatha Kanavukal](https://open.spotify.com/album/1GAz6fflwItlD6NAQvtpaG) | 3:38 | 2023-06-22 | 2024-01-06 |
 | [Kanavin Azhagi](https://open.spotify.com/track/7ij3EIOUwmt8cp6O8BktQ4) | [Satwik Aradhya](https://open.spotify.com/artist/7pe68lUGRTFDmAxisdfNaE), [Sathwik Padiyar](https://open.spotify.com/artist/1b9bFx1BDk5oFuhox0BMQX) | [Kanavin Azhagi](https://open.spotify.com/album/6pF6ByVbKZqppfsGfmQAEw) | 2:59 | 2023-03-21 | 2023-09-26 |
 | [KANAVINIL KANDEN](https://open.spotify.com/track/775KkS3dsQanEqCXG7CHc7) | [Vijay Paul](https://open.spotify.com/artist/1UejoJ7qg2WChIRQ73F9Po), [Jessica](https://open.spotify.com/artist/36gWgA59mpRifFhGKRLzye) | [KANAVINIL KANDEN](https://open.spotify.com/album/0sF6LR0lxJp7WPu3zSshas) | 3:47 | 2024-04-04 |  |
+| [Kanavondru Kanmunne](https://open.spotify.com/track/40UdAtoDxy5pr8T3WxgJzk) | [Rozario](https://open.spotify.com/artist/3y0YUGmWKQZyVnhUNYPchz), [Rithvi Ramesh](https://open.spotify.com/artist/4lah4fQGDTcyB6C9sAEQSq), [Suraj Vishnu](https://open.spotify.com/artist/2XmHvywesi5fnKBdo0IRW5) | [Kanavondru Kanmunne](https://open.spotify.com/album/1Znw9BvpfIXyn7OTZdzGiG) | 3:15 | 2024-04-30 |  |
 | [Kanmani Unnal](https://open.spotify.com/track/5JtYr05Ba4xdeXZl9DJVS2) | [K.B.Unnikrishnan](https://open.spotify.com/artist/6ZLP7uzqBuqHabxmL7vU6M) | [Kanmani Unnal](https://open.spotify.com/album/2oTtWk00SueRwfXCQnehkz) | 3:00 | 2024-02-12 |  |
 | [Kanmaniye](https://open.spotify.com/track/5NWb5AM9bLVl16uvti29M1) | [A.R Sai Shravanya](https://open.spotify.com/artist/67hmOl78H5aT3rs6PcO6CR), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Kanmaniye](https://open.spotify.com/album/2OApM7LsS0c25pXRFhfCSp) | 1:56 | 2024-04-18 |  |
 | [Kanmoodiye](https://open.spotify.com/track/2IkUztqsbiqVPZutx7SPqX) | [Kishawn](https://open.spotify.com/artist/7apJKSnsatIWY5brBenbA0), [Sheyel Rajahselvam](https://open.spotify.com/artist/0tuS7DqEUTKWxChYOAn4ix) | [Kanmoodiye](https://open.spotify.com/album/5ME9QeRHBoS38pspVVNsVb) | 2:40 | 2023-05-08 | 2023-07-25 |
@@ -179,7 +180,7 @@
 | [Ovvoru Ponnukkum \- DEAFFROGS RECORDS](https://open.spotify.com/track/7f8jsmd782N8XsqUwk9fV2) | [Voltage B](https://open.spotify.com/artist/1sPbhUJNlDdgq2x9r4if18) | [Ovvoru Ponnukkum \(DEAFFROGS RECORDS\)](https://open.spotify.com/album/4FqX3n33fZ6QbXhd7H9wRV) | 3:19 | 2024-02-23 | 2024-03-09 |
 | [Paavai](https://open.spotify.com/track/0Dy51XHPjIcOuVsCgFbtNF) | [Marshall Robinson](https://open.spotify.com/artist/4ApGv767BWZI3MojIwGt0H), [Sreekanth Hariharan](https://open.spotify.com/artist/6EI5lmCSICOvroaH1bTwEj), [Priyanka NK](https://open.spotify.com/artist/2ur0GHc7zvYZXe0WjIKd2K) | [Paavai](https://open.spotify.com/album/730TPIYVhOi5veCbw3yxc3) | 3:35 | 2024-03-16 |  |
 | [Pachai Theeyee](https://open.spotify.com/track/6Fk5Qx8BEqWXQscWFwO1ws) | [Joshua Surya](https://open.spotify.com/artist/23A4fV8TTszu4fVRgMkO9s), [Siva Suriya Prakash](https://open.spotify.com/artist/1KfAw91V43kU6vHZBPGaHJ), [Darloo](https://open.spotify.com/artist/5Ouj8oMhaXmvLHJvP4PhZ7), [Stan & Sam](https://open.spotify.com/artist/2zeEeBkAKWjSVenQDBHsGM) | [Pachai Theeyee](https://open.spotify.com/album/2OdFUCAvA9dVqO40q9VvFJ) | 3:32 | 2023-07-19 | 2023-09-05 |
-| [Peela Peter](https://open.spotify.com/track/5wDRGaS2eaKGdgECfGkmJy) | [Krish Manoj](https://open.spotify.com/artist/4QBfnrSmAZ9qCU14uPnxDT) | [Peela Peter](https://open.spotify.com/album/44ALmEIFiFmhyP0w9l50mP) | 1:34 | 2024-01-31 |  |
+| [Peela Peter](https://open.spotify.com/track/5wDRGaS2eaKGdgECfGkmJy) | [Krish Manoj](https://open.spotify.com/artist/4QBfnrSmAZ9qCU14uPnxDT) | [Peela Peter](https://open.spotify.com/album/44ALmEIFiFmhyP0w9l50mP) | 1:34 | 2024-01-31 | 2024-05-01 |
 | [Pen Nilave](https://open.spotify.com/track/3AruoZeeOUr0cdtDz2pwuq) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Pen Nilave](https://open.spotify.com/album/1RtPUHI8LICX4dPGnuYG9l) | 3:18 | 2024-02-09 |  |
 | [Piriyaadhe](https://open.spotify.com/track/2sPa31owePFGZi8je18YkE) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [Piriyaadhe](https://open.spotify.com/album/6kQd4SMnVuHWvQ0XMRFiWh) | 1:27 | 2023-09-12 | 2023-12-12 |
 | [Pogaathey](https://open.spotify.com/track/5F5DIAIAKeInyl3WndDM6l) | [Shriram Sachi](https://open.spotify.com/artist/4jzvkble6InbXIYDQRERSd) | [Pogaathey](https://open.spotify.com/album/5kLSRW1b4xRvzgM6pQdNpx) | 1:58 | 2024-01-16 | 2024-02-22 |

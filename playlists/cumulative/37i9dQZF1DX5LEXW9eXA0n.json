@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover:\bColde(\ucf5c\ub4dc)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover: LEE CHANGSUB(\uc774\ucc3d\uc12d)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -1329,6 +1329,24 @@
     },
     {
       "album": {
+        "name": "As always",
+        "url": "https://open.spotify.com/album/6tMA69q44j87tm123uSouo"
+      },
+      "artists": [
+        {
+          "name": "LEE CHANGSUB",
+          "url": "https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229573,
+      "name": "As always",
+      "url": "https://open.spotify.com/track/2vwbkdH4deV947bonfeKI4"
+    },
+    {
+      "album": {
         "name": "As Autumn Brings Cold Wind",
         "url": "https://open.spotify.com/album/45hrhqXvP86clCVmptlKBA"
       },
@@ -1686,7 +1704,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 249506,
       "name": "Beautiful Day",
       "url": "https://open.spotify.com/track/3ibqggc2Vnb0PHRggh2Wbf"
@@ -6040,7 +6058,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 232002,
       "name": "Goodbye (2023)",
       "url": "https://open.spotify.com/track/4K6gyjsl6AZsvsryJctOs8"
@@ -7550,7 +7568,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 262000,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/2HzeslUSiNrdKHjCmNTZqd"
@@ -7782,7 +7800,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 227272,
       "name": "I need to hold you",
       "url": "https://open.spotify.com/track/5XbXOUPOklCEw9dJtgNwd4"
@@ -7970,7 +7988,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 217853,
       "name": "I Still Miss You",
       "url": "https://open.spotify.com/track/5ZD5Ir6kdXkAuETilQy25q"
@@ -9027,6 +9045,24 @@
     },
     {
       "album": {
+        "name": "In time",
+        "url": "https://open.spotify.com/album/0t3Gv2sSwVBWaGvdkJV03Q"
+      },
+      "artists": [
+        {
+          "name": "\uc815\uc624\uc6d4",
+          "url": "https://open.spotify.com/artist/4zLM2qGVz8TX11ycCgwxk8"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293828,
+      "name": "In time",
+      "url": "https://open.spotify.com/track/5CXvW4e3hz3NIH3k6GRnDI"
+    },
+    {
+      "album": {
         "name": "[Vol.51] You Hee yul's Sketchbook : 28th Voice 'Sketchbook X YOUNHA'",
         "url": "https://open.spotify.com/album/4opF5I4YD6RE1qzSFAMK4D"
       },
@@ -9666,7 +9702,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 179150,
       "name": "Just Another Day",
       "url": "https://open.spotify.com/track/1DsZiNbPwS6WyHdm6P9RZi"
@@ -10798,7 +10834,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 229933,
       "name": "Looking for you",
       "url": "https://open.spotify.com/track/5ub0sMPEBU7J5yXrd7xFEF"
@@ -13046,7 +13082,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 240280,
       "name": "NO WHERE, NOW HERE",
       "url": "https://open.spotify.com/track/28l1FPRsb1TcvotgqZjbAL"
@@ -13588,7 +13624,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 248413,
       "name": "One Man",
       "url": "https://open.spotify.com/track/1hFTr9dmT578FKelJDCVFc"
@@ -13686,7 +13722,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 299160,
       "name": "Only",
       "url": "https://open.spotify.com/track/7li0cs7VNPzKTepvKWYHCf"
@@ -14807,6 +14843,24 @@
     },
     {
       "album": {
+        "name": "Roommates",
+        "url": "https://open.spotify.com/album/5Azd14om1goQJ4koUxhmvS"
+      },
+      "artists": [
+        {
+          "name": "Junggigo",
+          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150520,
+      "name": "Roommates",
+      "url": "https://open.spotify.com/track/2FAamYOzmodzpf7x4Yl8UI"
+    },
+    {
+      "album": {
         "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
         "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
       },
@@ -14912,7 +14966,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 237000,
       "name": "Sad promise",
       "url": "https://open.spotify.com/track/1R8QjyMqO9UEh18FqCG1vu"
@@ -18438,7 +18492,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 173666,
       "name": "Timing",
       "url": "https://open.spotify.com/track/6XqsQdaD86eKPnk6ZrAg8n"
@@ -21414,7 +21468,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 220080,
       "name": "\ub0b4\uc77c\uc774 \uc544\ub984\ub2f5\ub3c4\ub85d (\uc878\uc5c5\uc2dd \ub178\ub798)",
       "url": "https://open.spotify.com/track/0OITGPkCdFYTkCLvgdcAV2"
@@ -21844,7 +21898,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 222853,
       "name": "\uc54c\uc9c0 \ubabb\ud558\ub294 \ub108\uc5d0\uac8c",
       "url": "https://open.spotify.com/track/3lCdUc9VIBKL527AS3xerq"

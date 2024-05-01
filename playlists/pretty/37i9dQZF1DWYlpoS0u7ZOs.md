@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 
 > A new wave of rock music\. Cover: Jools
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,838 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,840 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 49 | [Sunshine](https://open.spotify.com/track/7aiIXYnCNaXElgQJwvSx7m) | [PROJECTOR](https://open.spotify.com/artist/25loVbwSp0xXNu4Ds1lTa9) | [Sunshine](https://open.spotify.com/album/3pW5GoeE8FJ26p55jBrxFb) | 3:07 |
 | 50 | [Des Goblin](https://open.spotify.com/track/1k9Z2Jqlac9H71IBW67Xeg) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Des Goblin](https://open.spotify.com/album/1ln1r9VxOpYkRve5YWt2iB) | 4:16 |
 
-Snapshot ID: `MTcxNDA4ODE2NSwwMDAwMDAwMDdmMmZlY2IzMzEyMzgwODBlNDFiNzMxODhhNmJmM2Nk`
+Snapshot ID: `Ziro5QAAAAB/L+yzMSOAgOQbcxiKa/PN`

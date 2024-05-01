@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/317l1YGA14Vl2sRaVL8INT.md) - [plain]
 
 > Its pop punk, its the best
 
-[Hopeless Records](https://open.spotify.com/user/hopelessrecords) - 43,725 likes - 103 songs - 5 hr 43 min
+[Hopeless Records](https://open.spotify.com/user/hopelessrecords) - 43,722 likes - 103 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/317l1YGA14Vl2sRaVL8INT.md) - [plain]
 | 102 | [Year Of The Vulture](https://open.spotify.com/track/0eFtkwEavaYhrmkSl95gmS) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Year Of The Vulture](https://open.spotify.com/album/23gZgC86I9dErLpppoGD7q) | 2:28 |
 | 103 | [GIRL$](https://open.spotify.com/track/1VKDQlo1k2ObpufovXHagN) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [GIRL$](https://open.spotify.com/album/5PiG8SxQgviIgBa3Pb3Shn) | 2:12 |
 
-Snapshot ID: `Njg2MCwzYzNjODA2MThlNDg0NmRiZWI5NWM1YmVlMTMzODRmNjM5MDc0ZTM2`
+Snapshot ID: `AAAazDw8gGGOSEbb65XFvuEzhPY5B042`

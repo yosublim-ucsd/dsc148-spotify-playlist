@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,104 songs - 6 day 12 hr 51 min
+4,105 songs - 6 day 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,7 +238,7 @@
 | [August](https://open.spotify.com/track/7gN1MJGsdP0L2ENMjWw9zi) | [Richie Rych](https://open.spotify.com/artist/4DAnH7C46v8Z0xhaw5ktTo) | [August](https://open.spotify.com/album/2XANU3KjgZaGcrncErOD1a) | 2:06 | 2020-09-26 | 2021-05-14 |
 | [August \- Vacant](https://open.spotify.com/track/0f9mCjcefox0H8ucJkvSqa) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [August \- Vacant](https://open.spotify.com/album/1b94gdhIXWmoj1RIwi3yXs) | 2:35 | 2019-08-30 | 2019-12-20 |
 | [auras](https://open.spotify.com/track/0c6yUkSXOx7GseW24IbS0V) | [digitalluc](https://open.spotify.com/artist/4WT5TNNUvgRLjAiWce3K5z) | [auras](https://open.spotify.com/album/5hVjFNVS0blgqbkSt5efzh) | 1:45 | 2020-02-01 | 2020-05-12 |
-| [Auro](https://open.spotify.com/track/5VIh5WeeOatqdcuQFSOCtC) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [Auro](https://open.spotify.com/album/1vKwUJl0j45w0PuTPY29eK) | 1:50 | 2024-04-25 |  |
+| [Auro](https://open.spotify.com/track/5VIh5WeeOatqdcuQFSOCtC) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [Auro](https://open.spotify.com/album/1vKwUJl0j45w0PuTPY29eK) | 1:50 | 2024-04-25 | 2024-05-01 |
 | [Aurora](https://open.spotify.com/track/1ENTPp49YJwNf5B3p8Uj6p) | [Lito Akari](https://open.spotify.com/artist/4ATIy1cxe2gE276vbRv2Hu) | [Aurora](https://open.spotify.com/album/3Gz2itWD41DBawX5ALIDvc) | 1:36 | 2023-01-20 | 2023-11-14 |
 | [Aurora](https://open.spotify.com/track/37epo0IlVLqTNr6Ci8kLSq) | [milligon](https://open.spotify.com/artist/62h3mAlyYduSmprbNEdKKD), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Aurora](https://open.spotify.com/album/1LMvx21eGyqHtp7HHkWSwq) | 1:55 | 2021-10-01 | 2023-01-27 |
 | [Aurora](https://open.spotify.com/track/5QXvre4KBjK3eIIGLxxRU6) | [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr), [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2) | [Aurora](https://open.spotify.com/album/02ZPHbsCswRxYlrRSqP8dv) | 2:11 | 2021-09-25 | 2021-11-12 |
@@ -583,6 +583,7 @@
 | [Catch the Wind](https://open.spotify.com/track/6cUMztYsgtLDy11HjjxXru) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Catch the Wind](https://open.spotify.com/album/409xo8qXrU9EhBy1HUcH6f) | 2:53 | 2020-07-18 | 2021-02-01 |
 | [Catch\-A\-Bus](https://open.spotify.com/track/7JKjSDSNoOxneR1kghcG7W) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [Catch\-A\-Bus](https://open.spotify.com/album/5k9TvCsay2ZIMOwn1fxq2Q) | 2:08 | 2021-08-22 | 2023-02-17 |
 | [Catching Bugs](https://open.spotify.com/track/1yUnku9iBoXnF7uOruq4Cl) | [t.Stratt](https://open.spotify.com/artist/6jkU1cVfoUEXpohv6NJO6v), [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb) | [Latenite Joints 011](https://open.spotify.com/album/0YYXhAQa9UG6Vdwn0dmqzG) | 2:12 | 2021-02-20 | 2021-06-25 |
+| [Catching Up](https://open.spotify.com/track/29mfgThswjC445STQmW3ts) | [Aurora 10](https://open.spotify.com/artist/7ztuxOIQFdrMJ8pCpopMeK) | [Catching Up](https://open.spotify.com/album/6he0y4JvNkd4waD0Gm2BWq) | 2:08 | 2024-04-25 |  |
 | [Caterpillar](https://open.spotify.com/track/4jdQy8mSJyVY3KaoTKSS2Y) | [Jazzbois](https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul) | [Caterpillar](https://open.spotify.com/album/32rGvU3BrFUlryfw3yA5EU) | 3:06 | 2023-11-13 | 2023-11-24 |
 | [Cavaquinho](https://open.spotify.com/track/05bT4XYxT4fnBgfrpvu6Rw) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU), [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Cavaquinho](https://open.spotify.com/album/3lzaTrd6xnDq33RyIETTfS) | 2:18 | 2023-04-06 | 2023-08-11 |
 | [Cavernas Agua](https://open.spotify.com/track/00rvAn9PRUxJhWeTYetQek) | [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Cavernas Agua](https://open.spotify.com/album/0qsRlxZnIg4PwLshkfcG5f) | 2:26 | 2024-02-08 | 2024-03-08 |

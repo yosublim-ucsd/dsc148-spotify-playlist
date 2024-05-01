@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDiwzsFdvXP.md) - [plain]
 
 > Explore food culture through a Black lens\. Updates once a month.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,965 likes - 9 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,964 likes - 9 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,4 +18,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDiwzsFdvXP.md) - [plain]
 | 8 | [Chronicling centuries of black cookbooks, Toni Tipton\-Martin brings these recipes to the page in Jubilee](https://open.spotify.com/episode/48PMfPMV8iVgqKGJ6OUBpl) | [Salt & Spine](https://open.spotify.com/show/1UfofPPEAGqPxviLm0sfWN) | [Salt & Spine](https://open.spotify.com/album/1UfofPPEAGqPxviLm0sfWN) | 51:59 |
 | 9 | [Episode 65: Michael W\. Twitty on Culinary History and More](https://open.spotify.com/episode/57eGYcwnqG3TEM2UfZuON7) | [A Hungry Society](https://open.spotify.com/show/3XwaXfuQ9jCUpWCILCWbYr) | [A Hungry Society](https://open.spotify.com/album/3XwaXfuQ9jCUpWCILCWbYr) | 53:47 |
 
-Snapshot ID: `MTY4NjgzNDQxMCwwMDAwMDAwMDI0MDQ3OTFlMmI4YjRiOTczNmMxNTViYzQzYzQ1YzE5`
+Snapshot ID: `ZIsM6gAAAAAkBHkeK4tLlzbBVbxDxFwZ`

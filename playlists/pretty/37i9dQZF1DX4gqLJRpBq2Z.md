@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4gqLJRpBq2Z.md) - [plain]
 
 > All the music from Barracuda Queens..\. now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,111 likes - 22 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,114 likes - 22 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4gqLJRpBq2Z.md) - [plain]
 | 21 | [Block Rockin' Beats](https://open.spotify.com/track/2wPFy7SAFnt9Nj2TipWcqb) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Brotherhood \(Deluxe\)](https://open.spotify.com/album/0koZYtM93uGBsPaD2uqa8A) | 4:54 |
 | 22 | [Panis Angelicus](https://open.spotify.com/track/4DCVBVcybvzYhSBI7Uyb8q) | [Adolf Fredrik Girls Choir](https://open.spotify.com/artist/2WLxI4rvr5ErulviUpsPp1) | [Lady Bird \- Soundtrack from the Motion Picture](https://open.spotify.com/album/6uFGiNNxdkOm03Nd3cEHxG) | 3:33 |
 
-Snapshot ID: `MTY4NTkzNzYwMCwwMDAwMDAwMDJmODRmZjlmN2EzOGYwYTc5MjIxYWE2ZDg1OGNkNjE3`
+Snapshot ID: `ZH1dwAAAAAAvhP+fejjwp5Ihqm2FjNYX`

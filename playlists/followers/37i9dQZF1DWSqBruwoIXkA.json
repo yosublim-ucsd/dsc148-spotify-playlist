@@ -1,5 +1,5 @@
 {
-  "2024-04-30": 1758549,
+  "2024-05-01": 1758537,
   "date_first_scraped": "2021-12-21",
   "description": "you don't get to tell me about sad! Cover: Alexander Stewart",
   "name": "sad hour",
@@ -7750,6 +7750,24 @@
     },
     {
       "album": {
+        "name": "Queen of Tears (Original Television Soundtrack), Pt.4",
+        "url": "https://open.spotify.com/album/0B0JmGO8lQYuqxn02gcFvx"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244186,
+      "name": "Love You With All My Heart",
+      "url": "https://open.spotify.com/track/0UaaFmF3xUwMjnuAHBq7qL"
+    },
+    {
+      "album": {
         "name": "Love's The Worst EP",
         "url": "https://open.spotify.com/album/5eeijGABYrckBfojHf6zio"
       },
@@ -11543,7 +11561,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 134262,
       "name": "trust issues",
       "url": "https://open.spotify.com/track/5jQVx40dbpDsstcwlhpk9u"

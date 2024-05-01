@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Conociendo Rusia en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,258 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,271 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 29 | [Cura Cura](https://open.spotify.com/track/3X7NQiWsrlCV9fFqpd5jBV) | [Ruïnosa y las Strippers de Rahola](https://open.spotify.com/artist/6JcoLHQLRlm12My6cACmlT) | [Cura Cura](https://open.spotify.com/album/5HEEjoO4E1WE6T7zgo8z5H) | 3:52 |
 | 30 | [Fax](https://open.spotify.com/track/5SODEL6YnaJqng9sIiiTjx) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [Fax](https://open.spotify.com/album/2coynF5NZJ4v9qa1XLZELQ) | 3:11 |
 | 31 | [Mirihi](https://open.spotify.com/track/5LZOvmMXll7f24gflG6k2X) | [Issak](https://open.spotify.com/artist/7nVoXDJbbTOX6Ng6qDoxqZ) | [Mirihi](https://open.spotify.com/album/00WDW6hxgP05pgLC6OfUjq) | 3:01 |
-| 32 | [Esta es Una Noche de Rock & Roll](https://open.spotify.com/track/4nJ2SE3AZm9qNh5hXH03uR) | [Zirrosis](https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ) | [Esta es Una Noche de Rock & Roll](https://open.spotify.com/album/6DK1XCDO0wA5W9kDauT88D) | 3:00 |
+| 32 | [Esta es una Noche de Rock & Roll](https://open.spotify.com/track/4nJ2SE3AZm9qNh5hXH03uR) | [Zirrosis](https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ) | [Esta es una Noche de Rock & Roll](https://open.spotify.com/album/6DK1XCDO0wA5W9kDauT88D) | 3:00 |
 | 33 | [Y no lo ves](https://open.spotify.com/track/5ds91qYmtz0fSPwQgUBIJi) | [Embusteros](https://open.spotify.com/artist/6f7lvc6nLaTvShpNCJNveE) | [Y no lo ves](https://open.spotify.com/album/59pD3E1YOQ2vTDxHAL2v8z) | 2:51 |
 | 34 | [José el labrador](https://open.spotify.com/track/7fnrkpw8z7yO71K4UGEgxm) | [Los Fibos](https://open.spotify.com/artist/1Kcaj61FM0mFYwh4ZCN4Lw), [Mellon Collie](https://open.spotify.com/artist/5nWkSrKwhtPiS3UWWNmlPk) | [José el labrador](https://open.spotify.com/album/5oj5wQqGSJPKGhjzlLY7SY) | 5:10 |
 | 35 | [¿Qué Fue del Siglo XX?](https://open.spotify.com/track/63Uc28zqnzxjhjW6qFK4Lh) | [Nat Simons](https://open.spotify.com/artist/6iabh4Ty1lWNv3FLST7Dhn) | [¿Qué Fue del Siglo XX?](https://open.spotify.com/album/3kvwk7Kkm2EoKJDM8apte7) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Solo ante el peligro](https://open.spotify.com/track/6ZqIZLqSBlNmY7H4J14ikj) | [Celtas Cortos](https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP) | [El mundo del revés](https://open.spotify.com/album/4Q0YkTaNHufFcXxNHVrEun) | 3:45 |
 | 50 | [Acostumbro](https://open.spotify.com/track/4Moib4qVc8eHCF3KzKMFiR) | [Albertucho](https://open.spotify.com/artist/1kcjyRBcnuC94JVRshXjI6), [Reincidentes](https://open.spotify.com/artist/6AZ89uxvjtR2Cpe1hE3kpX) | [Acostumbro](https://open.spotify.com/album/5ZlOHBfyc6GFOKzhVJeNx1) | 2:22 |
 
-Snapshot ID: `MTcxNDEyMDIyMSwwMDAwMDAwMGY2OTM2MjcxNTQzNDU4ODY0NmNiNmQ3YzEwYjk4ZTRj`
+Snapshot ID: `ZitmHQAAAAD2k2JxVDRYhkbLbXwQuY5M`

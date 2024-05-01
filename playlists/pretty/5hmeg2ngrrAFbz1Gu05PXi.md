@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5hmeg2ngrrAFbz1Gu05PXi.md) - [plain]
 
 > Get into the flow and stay focused while writing code, with music curated by the JetBrains team\. www.jetbrains.com
 
-[JetBrains](https://open.spotify.com/user/31wtooekigsgd6objezm7wf3kdrm) - 4,695 likes - 100 songs - 8 hr 21 min
+[JetBrains](https://open.spotify.com/user/31wtooekigsgd6objezm7wf3kdrm) - 4,698 likes - 100 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/5hmeg2ngrrAFbz1Gu05PXi.md) - [plain]
 | 99 | [Dissolve](https://open.spotify.com/track/0Qm14E0Scc9hpGPwhowHEP) | [Liquid Stranger](https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k) | [Dissolve](https://open.spotify.com/album/3Gg6RFUbthCb0a6y3Nxssq) | 6:32 |
 | 100 | [Forgotten Empires Never Forget](https://open.spotify.com/track/3TKvD8kF23lMZG8CL1H3Ub) | [Bluetech](https://open.spotify.com/artist/5yUtOYdnxxWdcIoZM1dx68) | [The 4 Horsemen of the Electrocalypse: The White Horse](https://open.spotify.com/album/37HCblJExHkDL2VW2Y9yJE) | 5:16 |
 
-Snapshot ID: `MzM3LGIxZTdlZWYxOGVjYmUwNmNmODQ3OTYzNGZjZjI0N2FhNTljYzFiY2I=`
+Snapshot ID: `AAABUbHn7vGOy+Bs+EeWNPzyR6pZzBvL`

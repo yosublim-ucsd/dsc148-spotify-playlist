@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/2WIkzIBRwM9wRD9innJ8b7.md) - [plain]
 | 19 | [Pass Out \- Radio Edit](https://open.spotify.com/track/3X6I31MGo4GwICW7Ur3nLx) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [I Give It A Year \(Original Soundtrack\)](https://open.spotify.com/album/6lgf17LyB0S78u40c2WEMo) | 3:58 |
 | 20 | [Money and the Power](https://open.spotify.com/track/2d6MFEO69kPWRAAPOzpyz2) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [Almost Home](https://open.spotify.com/album/1cBqX0i5HrfVCEft6N8CyW) | 3:27 |
 
-Snapshot ID: `NCwzOTU4MGY5MzA5MTRmMzYyOTA4NTc0YTczMzFlOTE0ZDA5OWNkNDdk`
+Snapshot ID: `AAAABDlYD5MJFPNikIV0pzMekU0JnNR9`

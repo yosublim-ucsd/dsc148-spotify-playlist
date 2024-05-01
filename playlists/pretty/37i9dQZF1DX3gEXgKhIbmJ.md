@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 
 > pra entrar e ficar na onda
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,496 likes - 58 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,510 likes - 58 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 | 57 | [Ditando o Ritmo](https://open.spotify.com/track/3SLrH1NHFunOjvK9wLCz31) | [J\. Sosa](https://open.spotify.com/artist/3XiiUWVj1hgtF7cKvQUuKF), [LaNaz](https://open.spotify.com/artist/34tCjQmwaWsjfyYjqpfaMb) | [Ditando o Ritmo](https://open.spotify.com/album/5bt85BUeiWwI4lbjMe9LQH) | 2:08 |
 | 58 | [DDD](https://open.spotify.com/track/3bGfAvx3HB78IsKl9NBrPz) | [matheuscria](https://open.spotify.com/artist/7agslq9itQRRisLd2aCR1f), [Shigueru](https://open.spotify.com/artist/0rxJWcxlicSQkWkNGXumXE) | [DDD](https://open.spotify.com/album/2FQj4XiG8Dhf8rOw4BKC8z) | 2:24 |
 
-Snapshot ID: `MTcxNDM5OTU5NSwwMDAwMDAwMGIwMzBlNmRjMTVhZjlkYjRjYWZkODBmODYyNmRiNGEx`
+Snapshot ID: `Zi+pawAAAACwMObcFa+dtMr9gPhibbSh`

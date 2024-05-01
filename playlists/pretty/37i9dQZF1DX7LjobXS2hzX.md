@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 
 > Voici les hits du moment\. Photo: David Guetta, OneRepublic
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,439 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,456 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 | 74 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 |
 | 75 | [Comfy](https://open.spotify.com/track/0gPL03fI5mxdNLrQv59qZ6) | [P'tit Belliveau](https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM), [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Comfy](https://open.spotify.com/album/47C8DEWeRHnXunIn1sQHZb) | 3:09 |
 
-Snapshot ID: `MTcxNDEwNDAwMCwwMDAwMDAwMDA0OTQyM2U5NGY1MjI2ODc3YjhkYzM0M2M5NWZkMTI5`
+Snapshot ID: `ZismwAAAAAAElCPpT1Imh3uNw0PJX9Ep`

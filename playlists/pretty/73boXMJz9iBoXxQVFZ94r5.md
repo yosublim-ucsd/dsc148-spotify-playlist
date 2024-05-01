@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/73boXMJz9iBoXxQVFZ94r5.md) - [plain]
 
 > If you travel the world and the seven seas, cashing six figure checks in all currencies, this playlist is a perfect companion for that business class seat or limo ride...
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,787 likes - 23 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,784 likes - 23 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/73boXMJz9iBoXxQVFZ94r5.md) - [plain]
 | 22 | [Int'l Players Anthem \(I Choose You\) \(feat\. Outkast\)](https://open.spotify.com/track/0WANZVN6yCkSn1TZ1kDglP) | [UGK](https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw), [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [UGK \(Underground Kingz\)](https://open.spotify.com/album/3dxyUXJed1U3Nznhis1juU) | 4:19 |
 | 23 | [These Things Happen](https://open.spotify.com/track/4jGqZyJhgM89rnIzCV2qZz) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [These Things Happen](https://open.spotify.com/album/6wDc63NhKy2PyXdbhkRmrl) | 2:24 |
 
-Snapshot ID: `NywzZTg0MDY1NmY0OGMzMzYxOWYzZjhhNzg2NzMwZWMwYjdkZTE5NzAy`
+Snapshot ID: `AAAABz6EBlb0jDNhnz+KeGcw7At94ZcC`

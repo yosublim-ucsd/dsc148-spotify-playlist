@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Teddy Swims
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,496 likes - 85 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,516 likes - 85 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 84 | [Is This What I Have Missed?](https://open.spotify.com/track/5KC38Vcyg9ENH5vFXp6Emr) | [Jerome Blazé](https://open.spotify.com/artist/4Xugx9BOIAE45eFzvzEN6e), [Sarah Levins](https://open.spotify.com/artist/41vUggffwqhoHiEowUYDV0), [James Tarbotton](https://open.spotify.com/artist/3dVUI8pDbGY5DhtVyNvZJg) | [Is This What I Have Missed?](https://open.spotify.com/album/1Zhpr53VUfT6jq7CQqUSfi) | 4:14 |
 | 85 | [Looking Out For An Angel](https://open.spotify.com/track/6YoqDVcO4imk69vM9gHdz9) | [June Jones](https://open.spotify.com/artist/68MzdZEcqsklRZH1tttYk8) | [Looking Out For An Angel](https://open.spotify.com/album/2e6N6Htog3F59851fDIdbv) | 3:17 |
 
-Snapshot ID: `MTcxNDA5OTYwOCwwMDAwMDAwMDIyYmFkNjk5N2FkMTVlMmU0ZWJkM2IxMGY0NjIzYjY1`
+Snapshot ID: `ZisVmAAAAAAiutaZetFeLk69OxD0Yjtl`

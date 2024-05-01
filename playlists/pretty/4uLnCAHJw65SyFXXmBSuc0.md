@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/4uLnCAHJw65SyFXXmBSuc0.md) - [plain]
 | 19 | [Ready to Start](https://open.spotify.com/track/1F2Ca0Cfo7DcdieWlZEqzc) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Suburbs Deluxe](https://open.spotify.com/album/76Rnn8D33IjnJxv4hQdmRX) | 4:15 |
 | 20 | [Next Year](https://open.spotify.com/track/1WwWjG2FGbBK6IkBBTknao) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 4:36 |
 
-Snapshot ID: `MjUsNTk0ODg5NzY5MTE5M2IwODY5OGY1ZmRhNjAwNWY1YjVjZDU2NjhhZQ==`
+Snapshot ID: `AAAAGVlIiXaRGTsIaY9f2mAF9bXNVmiu`

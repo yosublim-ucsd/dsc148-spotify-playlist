@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/4fFfXVLYv59XIfPdUvMqKC.md) - [plain]
 | 26 | [This Is Another Life](https://open.spotify.com/track/0kBpXc8wi9R84G37OnCAYo) | [Case Studies](https://open.spotify.com/artist/1PmRKCMrPoAz1uuVO8XLii) | [This Is Another Life](https://open.spotify.com/album/0cyo7qxMwR9XY4HxxuLITU) | 3:10 |
 | 27 | [Like The Sea \(Bonus Track\)](https://open.spotify.com/track/6rySBpZVn7HZR7wqgNFxIB) | [Case Studies](https://open.spotify.com/artist/1PmRKCMrPoAz1uuVO8XLii) | [This Is Another Life](https://open.spotify.com/album/0cyo7qxMwR9XY4HxxuLITU) | 5:22 |
 
-Snapshot ID: `NSwyNGRlY2IyZGQyNzE2Njc0YzIxODNiODVlMDU2YTBiZTUwNmM4NWVl`
+Snapshot ID: `AAAABSTeyy3ScWZ0whg7heBWoL5QbIXu`

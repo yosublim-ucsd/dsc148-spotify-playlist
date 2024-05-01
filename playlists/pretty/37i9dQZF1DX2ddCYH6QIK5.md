@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: Heavent, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,971 likes - 79 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,966 likes - 79 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 78 | [Hold Me](https://open.spotify.com/track/7BUp4RbEmzgrcIorrde4Yv) | [Julian Brown](https://open.spotify.com/artist/79Mk7W8bdPKLU00RCdGQZD) | [Hold Me](https://open.spotify.com/album/59tosTdJvAjD5bQwa0y55r) | 3:10 |
 | 79 | [Do You Hear The Cries?](https://open.spotify.com/track/41Fk07EHUltBQGrbpaGT2y) | [YOSHUA](https://open.spotify.com/artist/4Xp5aWIHSWfjZl8cGg7wIn) | [Until All Of Us Are Free](https://open.spotify.com/album/5lyFym0CDO04ux3adSNNTb) | 3:28 |
 
-Snapshot ID: `MTcxMzk1MjgwMCwwMDAwMDAwMDFiNTc2MDQyYjRiNThmY2I0OTg3MmVkMjEyMTAyODFk`
+Snapshot ID: `ZijYIAAAAAAbV2BCtLWPy0mHLtISECgd`

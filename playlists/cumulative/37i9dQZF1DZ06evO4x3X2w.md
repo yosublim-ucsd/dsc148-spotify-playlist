@@ -2,7 +2,7 @@
 
 ### [This Is Aerosmith](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4x3X2w)
 
-> This is Aerosmith\. Todos os maiores hits em uma só playlist.
+> This is Aerosmith\. The essential tracks, all in one playlist.
 
 104 songs - 7 hr 40 min
 

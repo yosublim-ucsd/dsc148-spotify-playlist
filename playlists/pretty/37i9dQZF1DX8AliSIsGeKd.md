@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Christian Löffler
 
-[Spotify](https://open.spotify.com/user/spotify) - 640,043 likes - 90 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 640,171 likes - 90 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Firestorm](https://open.spotify.com/track/0QUPLWShszbfDg83cvj6CV) | [Robert Babicz](https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB) | [Kelch 12](https://open.spotify.com/album/0ewyPn3Dv4NMtwU7bLW3W6) | 5:34 |
 | 90 | [Vigil \- Hammer Remix](https://open.spotify.com/track/4NnV0b2rp6FFZWwKPMm4K0) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Hammer](https://open.spotify.com/artist/3KtaBB3asBs44O4h3xx2V0) | [Vigil \(Hammer Remix\)](https://open.spotify.com/album/5IOJJpOA3KgyvbVKLwuFcb) | 4:28 |
 
-Snapshot ID: `MTcxNDA4MjQwMCwwMDAwMDAwMGJjNTZhODgxNDk2N2NlNmM2MjcxMzUxOTM2ZTJlYTNj`
+Snapshot ID: `ZirSYAAAAAC8VqiBSWfObGJxNRk24uo8`

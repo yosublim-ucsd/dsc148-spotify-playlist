@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/5zyeLrOc31CPX7uk9xNL7y.md) - [plain]
 | 19 | [It's Just Another New Year's Eve](https://open.spotify.com/track/2qLpjfKEi5csSMHhSZJEct) | [Magnus Carlsson](https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB) | [En ny jul](https://open.spotify.com/album/2QBBSjczxo3VqQfzamJ8ef) | 3:09 |
 | 20 | [Let's Start The New Year Right](https://open.spotify.com/track/09TUE6AYHuZdsZVCfiRoBE) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [The Best Of Bing Crosby Christmas](https://open.spotify.com/album/0dHZw5Y4nhRFjA9wGgxaUS) | 2:33 |
 
-Snapshot ID: `MTYsNTcwNDZiNGM0Nzc4OWFlNzZjNmUyM2QyOTRiZjZjYThjYmU0ODc3NA==`
+Snapshot ID: `AAAAEFcEa0xHeJrnbG4j0pS/bKjL5Id0`

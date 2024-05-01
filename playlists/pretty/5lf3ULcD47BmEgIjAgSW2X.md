@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/5lf3ULcD47BmEgIjAgSW2X.md) - [plain]
 | 102 | [Misty](https://open.spotify.com/track/2D9papWEja9CtBv0ohV0I4) | [Ray Bryant Trio](https://open.spotify.com/artist/2bOo3sgzNcQcS9525WR9Ku) | [Little Susie](https://open.spotify.com/album/6R5r64n6AWc1Ta9syvOFiL) | 4:04 |
 | 103 | [I've Grown Accustomed to Her Face](https://open.spotify.com/track/7jb1yv3CBoMHCM00EnuY1J) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu), [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr), [Percy Heath](https://open.spotify.com/artist/0vKbTTNdtagd8xiERj6Szb), [Connie Kay](https://open.spotify.com/artist/7txdgV9R0IGjkZ8R6rPake) | [Easy Living](https://open.spotify.com/album/1yOIliIaKT4sqqD5f0Y5Z6) | 4:15 |
 
-Snapshot ID: `NDQzLGFlYzQ4YTk0NjA5ZWE1NDdiZTNiMTdmNDk5YmYzNmQ5OTRmMTBmZDQ=`
+Snapshot ID: `AAABu67EipRgnqVHvjsX9Jm/NtmU8Q/U`

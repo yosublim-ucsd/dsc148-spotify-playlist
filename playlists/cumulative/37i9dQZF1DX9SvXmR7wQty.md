@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Les Cowboys Fringants
 
-2,483 songs - 5 day 12 hr 45 min
+2,484 songs - 5 day 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1660,6 +1660,7 @@
 | [On va\-tu prendre une marche?](https://open.spotify.com/track/1aV7wsrT4v13cRtL5lgOuf) | [Sara Dufour](https://open.spotify.com/artist/3MSqVr13Lkb9iCiigUOm4S) | [On va\-tu prendre une marche?](https://open.spotify.com/album/2vd6ICtPmTK6UO4lgyF8hX) | 3:06 | 2023-09-08 | 2023-09-16 |
 | [ON VEUT DU ROCK AND ROLL](https://open.spotify.com/track/67t14XAtkgchkqWhYjlyTM) | [Stage Lacroix](https://open.spotify.com/artist/7tkE0AJ82mOghkNbBF1LpQ) | [ON VEUT DU ROCK AND ROLL](https://open.spotify.com/album/6WFtXnLkhAA0bM7AggOxTe) | 4:33 | 2022-10-14 | 2022-10-29 |
 | [On voudrait](https://open.spotify.com/track/353yen1tiVmrd5w49rFUQi) | [Richard Séguin](https://open.spotify.com/artist/4uaplzxgAkmohdv30bAFZo) | [Les liens les lieux](https://open.spotify.com/album/2Jj2Jqb4peRyI1xjflggkl) | 4:23 | 2022-09-09 | 2022-09-24 |
+| [On y va](https://open.spotify.com/track/4Q8b4DRrRRpxRSurGIEo7g) | [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [On y va](https://open.spotify.com/album/1ovpt5YRiwmrx0rmRuKikm) | 2:35 | 2024-04-26 |  |
 | [One Night Thing](https://open.spotify.com/track/6EoPV2i2JNh3gK0dxxCaAc) | [Cshmr](https://open.spotify.com/artist/4ZNir8YWJxjx6xcZ2xOMak) | [SVINT, Volume 1](https://open.spotify.com/album/4u2MFO6rdp94e3OYVWEc1v) | 2:55 | 2021-12-31 | 2022-01-08 |
 | [One Thing](https://open.spotify.com/track/0Bs56JlclotElvFYTRWhIc) | [MTO Hutsu](https://open.spotify.com/artist/115caDn8rzO6GlMLH6KANa), [FlipTunesMusic](https://open.spotify.com/artist/1E4zec6yKQRB9yh28vKrwG) | [One Thing](https://open.spotify.com/album/6djrlFJHxIB0GJt9LEhi5n) | 3:25 | 2022-04-01 | 2022-04-16 |
 | [Onirisme](https://open.spotify.com/track/2z1T0cX0Ejfn2cBHkfDwaE) | [Dope.Gng](https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE), [Twani](https://open.spotify.com/artist/6Msx0U86zJHArfvDk6zO9Q), [Latitude 45](https://open.spotify.com/artist/6okG8kU8o6PpE3OFeWahxJ) | [Onirisme](https://open.spotify.com/album/3d32bUlwtdWbqjLIS7GuQf) | 3:03 | 2022-05-13 | 2022-05-28 |
@@ -1804,7 +1805,7 @@
 | [Polymorphe](https://open.spotify.com/track/1szVCzng0CIp1LdNVV0JfP) | [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Polymorphe](https://open.spotify.com/album/1Mi10Z1Hh8DAQikC7n8KYI) | 3:36 | 2023-03-17 | 2023-04-15 |
 | [Pool](https://open.spotify.com/track/4rtStE7kciNRNuJPaqTrWR) | [Kibcha](https://open.spotify.com/artist/1r8ynsGGZtzzS8oVzsT7Hl), [Bawza](https://open.spotify.com/artist/6qnJ0A1QJ8eMdR5AaZ26YU) | [Pool](https://open.spotify.com/album/29nIkQ0s7iVt6fueCpDNCA) | 3:50 | 2022-07-01 | 2022-07-16 |
 | [Porcelaine](https://open.spotify.com/track/7J7EsDTsrRjqhPKKMQBJmf) | [Léa Jarry](https://open.spotify.com/artist/4J8nCSHWHbf4a5YUkRy9Da) | [Porcelaine](https://open.spotify.com/album/1m38qHondfJDG8bgAn8H3u) | 2:57 | 2023-07-14 | 2023-07-22 |
-| [Port d'arme](https://open.spotify.com/track/3RdzJ2qCGDEFkSGe9jFgCJ) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT), [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [DZ D’AMERIQUE](https://open.spotify.com/album/6AYsObXMfjrgj5qaH4zLRA) | 3:02 | 2024-04-19 |  |
+| [Port d'arme](https://open.spotify.com/track/3RdzJ2qCGDEFkSGe9jFgCJ) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT), [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [DZ D’AMERIQUE](https://open.spotify.com/album/6AYsObXMfjrgj5qaH4zLRA) | 3:02 | 2024-04-19 | 2024-05-01 |
 | [Porte](https://open.spotify.com/track/1XkvgJQShm0CpIWe6UbTHH) | [Salimo](https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur) | [Pour de Vrai](https://open.spotify.com/album/5JcvPcv2DJ51OEdOKrfZrw) | 3:03 | 2022-11-04 | 2022-11-26 |
 | [Position](https://open.spotify.com/track/3Zw66L4FvI9YUUx17OReRD) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Prime](https://open.spotify.com/album/2dF2ZByoSuH2ZZrzoGpjzQ) | 2:21 | 2024-02-16 | 2024-04-19 |
 | [Post mortem](https://open.spotify.com/track/60TztDj0niSWokNuDrAlx8) | [Bkay](https://open.spotify.com/artist/5JoE2pt6hYEd4g4qq5rQHl) | [Post mortem](https://open.spotify.com/album/0oT0z4MkqXDQlGsmK7fh6a) | 3:30 | 2022-02-11 | 2022-02-19 |

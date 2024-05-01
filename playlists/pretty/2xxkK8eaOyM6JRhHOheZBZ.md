@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/2xxkK8eaOyM6JRhHOheZBZ.md) - [plain]
 | 74 | [Arise](https://open.spotify.com/track/3s8MAvQMapYjpRsjySrbjV) | [Incarnit](https://open.spotify.com/artist/5u61WPaGPfqUWDkI8vQ2OT) | [Incarnit](https://open.spotify.com/album/6GEeDJQAoS3SEsAWKrNSMG) | 4:59 |
 | 75 | [Witches Sabbath](https://open.spotify.com/track/6Y8m1jnWUksCjwWIZ4hlg0) | [In Solitude](https://open.spotify.com/artist/5CNR5mJJPAhMamFWQ9xJxD) | [Heavy Metal Killers](https://open.spotify.com/album/5ZF0RLfxFOTncpd4Q6YM0H) | 5:07 |
 
-Snapshot ID: `NCxhNDE2ZmUzNGI4ZTRlYmRmYjViYjZhM2UyN2RlNjRjNWNmN2JmMGI2`
+Snapshot ID: `AAAABKQW/jS45OvftbtqPifeZMXPe/C2`

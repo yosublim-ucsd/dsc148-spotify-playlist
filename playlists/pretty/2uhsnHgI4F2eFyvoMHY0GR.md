@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2uhsnHgI4F2eFyvoMHY0GR.md) - [plain]
 
 > Rock your workday lyric free with classic rock favorites, meditative heavy metal, and art rock wonders.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,708 likes - 42 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,705 likes - 42 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/2uhsnHgI4F2eFyvoMHY0GR.md) - [plain]
 | 41 | [Cecilia Ann](https://open.spotify.com/track/0mjB1LNY9TS6lOXbyoARls) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Bossanova](https://open.spotify.com/album/60cRh5MCFNOrFeQykKnDej) | 2:06 |
 | 42 | [Flipside](https://open.spotify.com/track/7JLke4EKgoBuMzepM6p1ho) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Last Splash](https://open.spotify.com/album/2yg43md1L9Ti9ysWYqhDji) | 1:59 |
 
-Snapshot ID: `MTE4LGJjZWQ1ZDAxNzA0ZDU5OTZmZDJmYWZiMDdhNGVhMWFlNzRlMjQyYjc=`
+Snapshot ID: `AAAAdrztXQFwTVmW/S+vsHpOoa504kK3`

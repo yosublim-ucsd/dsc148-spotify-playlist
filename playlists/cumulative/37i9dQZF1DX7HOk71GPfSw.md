@@ -4,7 +4,7 @@
 
 > "b\*tch i'm taylor swift" \-Porter Robinson
 
-2,040 songs - 3 day 20 hr 46 min
+2,041 songs - 3 day 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,6 +409,7 @@
 | [Crimson](https://open.spotify.com/track/5wbJcabQPxly1VtLaJw8xb) | [Hunnygloss](https://open.spotify.com/artist/7onlSHoWhsACf62nMcr780) | [Crimson](https://open.spotify.com/album/3wU9qKcAkD39ocxbb7yd7p) | 3:09 | 2023-06-02 | 2023-08-12 |
 | [crowd \- umru remix](https://open.spotify.com/track/3kNVyfDTEGtFCAa2H1mr7v) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2), [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx) | [crowd \(umru remix\)](https://open.spotify.com/album/3yVJH5Mpvw8ZWr3xM14U1G) | 2:27 | 2020-10-30 | 2020-12-11 |
 | [Crumbs](https://open.spotify.com/track/4SBTecHxEs2ayXLiqs7Kmz) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Crumbs](https://open.spotify.com/album/2GYTn1Jzit4e1GC80h9yzQ) | 3:13 | 2022-11-18 | 2023-01-25 |
+| [crush](https://open.spotify.com/track/7oUMu1A4dgci1erq7TfeBi) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [crush](https://open.spotify.com/album/5ARqIQFQKhOkOtELUq2ACK) | 2:26 | 2024-04-30 |  |
 | [crush](https://open.spotify.com/track/3cZV4gjyIpMeTkNV3CfBbm) | [kmoe](https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz) | [crush](https://open.spotify.com/album/7lXKPK9lVPJWnvnfj2fKNr) | 2:30 | 2023-02-10 | 2023-09-23 |
 | [crush](https://open.spotify.com/track/6kLhilDX44nCibecCJldjP) | [Planet 1999](https://open.spotify.com/artist/0aoBUiGI5wrK7DOWJAzAKe) | [crush](https://open.spotify.com/album/4fq2gOSbxepdB6R0mvviv4) | 2:28 | 2022-04-01 | 2022-07-01 |
 | [crushed](https://open.spotify.com/track/5BBFCwbOKDKkCaXCejreha) | [Holliday Howe](https://open.spotify.com/artist/0iV4UAD683ZDnqSHhshF9x) | [crushed](https://open.spotify.com/album/3rcuMtvnKnQ4iiPr7N5VWh) | 4:17 | 2021-01-08 | 2021-02-10 |

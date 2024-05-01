@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/7dtmhKnycd3REPNNixXGHO?si=N7ETgHdLSnaj8cg2O3zMWA">Juanita du Plessis</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,688 likes - 60 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,709 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 59 | [Buffel Van Buffelsfontein](https://open.spotify.com/track/5GJpKxfcdkXtZvC62fPLXU) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Buffel Van Buffelsfontein](https://open.spotify.com/album/1ymtneTgrVB8wGgrit6N3Z) | 2:56 |
 | 60 | [Kinders van die Warrelwind \(Remix\)](https://open.spotify.com/track/0XGFXFb3cNh6hUfWPYNUP0) | [Dirk Van Der Westhuizen](https://open.spotify.com/artist/35nSKL5p684i0vXrFvcgGz) | [Kinders van die Warrelwind \(Remix\)](https://open.spotify.com/album/2KOtOUE6rZ50sgTOEU9iHx) | 4:05 |
 
-Snapshot ID: `MTcxNDA4MjQwMCwwMDAwMDAwMDMxNTBhNDgzMTkxMjJhY2E0MzVkOWZkMzQ2MzllNTUz`
+Snapshot ID: `ZirSYAAAAAAxUKSDGRIqykNdn9NGOeVT`

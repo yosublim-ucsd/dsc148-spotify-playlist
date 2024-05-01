@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSPhLAnCjoM.md) - [plain]
 
 > "Faut que tu m'aimes" de Styleto est le Grand Hit de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,006,785 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,006,693 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSPhLAnCjoM.md) - [plain]
 | 39 | [Heures sup](https://open.spotify.com/track/0DbiWBF8ihZgovInamLwTx) | [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM) | [Une autre vie](https://open.spotify.com/album/3kOhzA5Vb2pp8nPf1BR1iA) | 3:19 |
 | 40 | [Les longueurs \- Edit](https://open.spotify.com/track/5TH1qlhAzrCE2EgfJlkXAV) | [Pascal Obispo](https://open.spotify.com/artist/6XPs6CAjfdxIFrVVUFRrAS), [Alexia Gredy](https://open.spotify.com/artist/2LZ44MLhhXG2SlHhWUOGXg) | [Les longueurs \(Edit\)](https://open.spotify.com/album/6sPxIi31QDF9wq61tFA1C4) | 3:11 |
 
-Snapshot ID: `MTcxNDA4MjQ2MCwwMDAwMDAwMGQ2NzkzNzRiMzA0ODcwMjZjY2ZlYzFhODE4NWNiNzY3`
+Snapshot ID: `ZirSnAAAAADWeTdLMEhwJsz+wagYXLdn`

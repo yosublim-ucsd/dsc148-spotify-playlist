@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu terpopuler dari dekade 2010an. Cover: Astrid",
-  "num_followers": 241417,
+  "num_followers": 241487,
   "original_name": "Ngetren di 2010an",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ4OTQ1MSwwMDAwMDAwMDliZTk4YzRjODE2ODU1Njg2NGZjYjUzMDMxN2Q2OTI1",
+  "snapshot_id": "ZjBhdwAAAACMB+bvAZ0QegAOTToi3ziC",
   "tracks": [
     {
       "added_at": "2024-04-19 01:17:31",
@@ -27,8 +27,8 @@
     {
       "added_at": "2024-04-19 01:17:31",
       "album": {
-        "name": "King of Soundtrack",
-        "url": "https://open.spotify.com/album/4Wujmvou9cOqxARmnq1XjA"
+        "name": "OST. 5 CM",
+        "url": "https://open.spotify.com/album/0RJPZrRDqTohoFBcPQrm8b"
       },
       "artists": [
         {
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d"
         }
       ],
-      "duration_ms": 285693,
-      "name": "Sumpah dan Cinta Matiku",
-      "url": "https://open.spotify.com/track/2dWRApexXwC6HIpX0HvZxc"
+      "duration_ms": 250755,
+      "name": "Rahasia Hati",
+      "url": "https://open.spotify.com/track/3t5Zxy3PFLD1lvKR9YOdBh"
     },
     {
       "added_at": "2024-04-19 01:17:31",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-04-19 01:17:31",
       "album": {
-        "name": "OST. 5 CM",
-        "url": "https://open.spotify.com/album/0RJPZrRDqTohoFBcPQrm8b"
-      },
-      "artists": [
-        {
-          "name": "Nidji",
-          "url": "https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d"
-        }
-      ],
-      "duration_ms": 250755,
-      "name": "Rahasia Hati",
-      "url": "https://open.spotify.com/track/3t5Zxy3PFLD1lvKR9YOdBh"
-    },
-    {
-      "added_at": "2024-04-19 01:17:31",
-      "album": {
         "name": "Gajah",
         "url": "https://open.spotify.com/album/0d5mFusjnb62TQWBft3zc6"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 283142,
       "name": "Kekasih Bayangan",
       "url": "https://open.spotify.com/track/3BErcieh7kIQIMq64vEbCY"
+    },
+    {
+      "added_at": "2024-04-19 01:17:31",
+      "album": {
+        "name": "King of Soundtrack",
+        "url": "https://open.spotify.com/album/4Wujmvou9cOqxARmnq1XjA"
+      },
+      "artists": [
+        {
+          "name": "Nidji",
+          "url": "https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d"
+        }
+      ],
+      "duration_ms": 285693,
+      "name": "Sumpah dan Cinta Matiku",
+      "url": "https://open.spotify.com/track/2dWRApexXwC6HIpX0HvZxc"
     },
     {
       "added_at": "2024-04-19 01:17:31",

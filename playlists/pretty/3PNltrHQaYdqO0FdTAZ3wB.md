@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/3PNltrHQaYdqO0FdTAZ3wB.md) - [plain]
 | 59 | [Live Dying](https://open.spotify.com/track/2sjbb8TeaYPrxEAYUOkm0G) | [Klogr](https://open.spotify.com/artist/6Gn4VIUEDwR4rVOqdfOWVT) | [Till You Decay](https://open.spotify.com/album/7up0FyWZ4QNaq4U0PdA013) | 4:20 |
 | 60 | [Drunk and Depraved](https://open.spotify.com/track/6eI1v8bgMZCoWN5rTEobmA) | [The Last Band](https://open.spotify.com/artist/3H7IRKCzWlBJPo8Yt9LjZW) | [Mean Machine](https://open.spotify.com/album/6cmb44P1w4JlEsr2Zy0uVw) | 5:00 |
 
-Snapshot ID: `NSwzNzZiNjU2YjYxM2UwMDBhMWQ5MjZlYjkyZDk2ZjYzMDM2ZDI2M2Jh`
+Snapshot ID: `AAAABTdrZWthPgAKHZJuuS2W9jA20mO6`

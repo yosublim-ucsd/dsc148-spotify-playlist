@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 
 > La casa del trap chileno al mando de Ak4:20
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,824 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,863 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 99 | [On God](https://open.spotify.com/track/5LuePRU2YArXpkCoU0cXaX) | [C\. Flee](https://open.spotify.com/artist/2ai7pfLQa1AFe6Pl8USsim), [Keed Baby](https://open.spotify.com/artist/5QSZ4mP3ycTPK4b0VJNmK4), [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs) | [On God](https://open.spotify.com/album/1vociHnTa4dFb6K5qYwrIp) | 2:57 |
 | 100 | [Mafia Chilena: NEWYORK GABANA](https://open.spotify.com/track/6m9AQlbsgXtkdzInoGovOi) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs) | [Mafia Chilena: NEWYORK GABANA](https://open.spotify.com/album/3koKjQhDGFhnic9KXMsmn0) | 1:59 |
 
-Snapshot ID: `MTcxNDEwMDQwMCwwMDAwMDAwMDVhOGM0NmEyZTc5YTI4NGI0YWI5ZWRjZjg4OTZlZDk5`
+Snapshot ID: `ZisYsAAAAABajEai55ooS0q57c+Ilu2Z`

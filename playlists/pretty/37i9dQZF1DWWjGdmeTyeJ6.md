@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Ley Soul\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,190,816 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,190,954 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 34 | [Don't Ask](https://open.spotify.com/track/1tZ7VK5bmv0svHV5Ge3xVI) | [Wax Bentayga](https://open.spotify.com/artist/0iMvVDnhJLnTrUVcsJHBbv) | [Don't Ask](https://open.spotify.com/album/0bb3PplllwgVpxJo4UZhMs) | 2:38 |
 | 35 | [Hornworm Metamorphosis](https://open.spotify.com/track/4MCM8icHb3i2vCXEmwpvvq) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Hornworm Metamorphosis](https://open.spotify.com/album/0mv1O7gvOmPxfHgsgMpguK) | 1:44 |
 | 36 | [GIBBERISH](https://open.spotify.com/track/5mVH76OjsBkg7vyvxk56NE) | [Tangerine Cassette](https://open.spotify.com/artist/4iPGbAiNjBqWiCvQoTA31n) | [GIBBERISH](https://open.spotify.com/album/3GBJyXKYfHRAErVreiHsfK) | 2:15 |
-| 37 | [Need You Now](https://open.spotify.com/track/5X21uANL3TPmskQEphYNgR) | [tanvi](https://open.spotify.com/artist/2oq1PXgnTtflp9kw08ddB3) | [Need You Now](https://open.spotify.com/album/5ZbC2gZrQ6WAC1AroTczip) | 2:54 |
+| 37 | [Need You Now](https://open.spotify.com/track/5X21uANL3TPmskQEphYNgR) | [tanvi everywhere](https://open.spotify.com/artist/4Hj3jD4pOEhrf5Ntol1ttj) | [Need You Now](https://open.spotify.com/album/5ZbC2gZrQ6WAC1AroTczip) | 2:54 |
 | 38 | [He's Dancing So Well \(I'm Better\)](https://open.spotify.com/track/0JnV1e4sPig5UFzrO8S6iG) | [Asbjørn](https://open.spotify.com/artist/47rOF45mpciP0KFUlBqKUX) | [He's Dancing So Well \(I'm Better\)](https://open.spotify.com/album/7J738KJmycLtjRfN2Uk9FQ) | 3:00 |
 | 39 | [The Rules Pt\. 2](https://open.spotify.com/track/4wy48jOtMCKeSlPT9UhFx6) | [ReUp Reedy](https://open.spotify.com/artist/3pNZLl18qy2KqKBra9JW4l) | [The Rules Pt\. 2](https://open.spotify.com/album/7FdtjWOoQCVn12Eim4JMmO) | 2:31 |
 | 40 | [spiderman](https://open.spotify.com/track/4egsNbOOKxuyfXgmMzhOJ0) | [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [spiderman](https://open.spotify.com/album/4SaeXlHe7uTbg6wPxOq79v) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 99 | [High With Your Lover](https://open.spotify.com/track/6WRCSTFIlK0quhnICyHiNy) | [Sweet Bill](https://open.spotify.com/artist/5kFZGxVFIgurSkmj5V5uo2) | [High With Your Lover](https://open.spotify.com/album/3WRbEHjN0ePquqEtlc6vPE) | 3:55 |
 | 100 | [Volverme Amar](https://open.spotify.com/track/0ik9ayovWhJWxhwXPtaGUc) | [Henao](https://open.spotify.com/artist/2tAOr6Bu4b1JDQjRZcMdML) | [Volverme Amar](https://open.spotify.com/album/20mCBhOBx82QuOJ2BsHfgp) | 2:10 |
 
-Snapshot ID: `MTcxNDM5OTE3OSwwMDAwMDAwMGRlYWEzNGFkYzRjM2Y4YjExYzliMDU5NTJhYzkwYTU5`
+Snapshot ID: `Zi+nywAAAADeqjStxMP4sRybBZUqyQpZ`

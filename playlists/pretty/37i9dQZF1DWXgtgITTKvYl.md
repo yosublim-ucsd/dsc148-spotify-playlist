@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 
 > A collection of the best recent Prog Rock tracks\. Cover: Steve Vai
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,879 likes - 76 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,910 likes - 76 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 75 | [Rise, Naianasha \(Cut The Cord\)](https://open.spotify.com/track/1wjRnRqstnMDmO3CbOL6AL) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Rise, Naianasha \(Cut The Cord\)](https://open.spotify.com/album/2zGZlGvfC5yrZO6YXhIF8p) | 5:19 |
 | 76 | [Sand Castles](https://open.spotify.com/track/61b16dlE40IM8FM6Gu9hH1) | [Head First](https://open.spotify.com/artist/0afcetY24N4RXaaw7KgNaG) | [Sand Castles](https://open.spotify.com/album/0oeoxRoLlixMZXxM6G60es) | 5:15 |
 
-Snapshot ID: `MTY4NjkxODQzMCwwMDAwMDAwMGNhMzEyOGJiOTVlZjFkNDkzODA2ZTVhNzcyMWUyYmEz`
+Snapshot ID: `ZIxVHgAAAADKMSi7le8dSTgG5adyHiuj`

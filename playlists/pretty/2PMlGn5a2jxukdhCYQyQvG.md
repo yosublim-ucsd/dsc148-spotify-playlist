@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/2PMlGn5a2jxukdhCYQyQvG.md) - [plain]
 | 22 | [Vår kärlek](https://open.spotify.com/track/7knrIkdroV8De0YFaLEXyO) | [Tomas Andersson Wij](https://open.spotify.com/artist/2j8XNrT8TQH4JMeyEMJYfL) | [Stjärnorna i oss](https://open.spotify.com/album/3Y4rgJpTx96M0D741TuZ5d) | 1:51 |
 | 23 | [Skepp av kärlek](https://open.spotify.com/track/5FQAcL4impVeJyC37QbdZp) | [Totta Näslund](https://open.spotify.com/artist/09J3FFqSQVVQlrakhizg9v) | [Totta 7: Soul!/På Drift](https://open.spotify.com/album/5ljn6N5m53yEkK4yxGIYtX) | 4:57 |
 
-Snapshot ID: `Myw1ZjgzOTIzMWQ5MzNmMDRjNmI2ODg5Yzc4MTZhZjZhMDY4MDYzNTRk`
+Snapshot ID: `AAAAA1+DkjHZM/BMa2iJx4Fq9qBoBjVN`

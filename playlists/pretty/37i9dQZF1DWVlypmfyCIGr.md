@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 倖田來未
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,148 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,160 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [ヒナゲシ](https://open.spotify.com/track/0oHhxTCMPByXBRQfy2MiHS) | [shimamo](https://open.spotify.com/artist/2NbtPKvGZ9Ss2KkbMtUhNm) | [ヒナゲシ](https://open.spotify.com/album/5MqmrYvhB4oJ5O8eB3VFEf) | 4:09 |
 | 80 | [依依恋恋](https://open.spotify.com/track/19pTvYZOVnpQ3JelYi29iL) | [KOKONA](https://open.spotify.com/artist/6tBcaQjumOUb3hld4awMk4) | [依依恋恋](https://open.spotify.com/album/3NLGincGLHNiGKCUUTCWdy) | 4:27 |
 
-Snapshot ID: `MTcxMzc5ODAwMCwwMDAwMDAwMGE5NmFkNDk5YzhhMTYyYWYzN2IwZjg5MTY4MmUxMDk0`
+Snapshot ID: `ZiZ7cAAAAACpatSZyKFirzew+JFoLhCU`

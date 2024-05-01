@@ -28,4 +28,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOFqEFWXePNks.md) - [plain]
 | 18 | [i'm so tired...](https://open.spotify.com/track/4vjpLMyL3ZO6aphdYr8XYw) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 2:42 |
 | 19 | [Can't Help Falling in Lauv \(the interview\)](https://open.spotify.com/episode/7knx5NKZHw29x0DumCviNI) | [Switched on Pop](https://open.spotify.com/show/1sgWaKtQxwfjUpZnnK8r7J) | [Switched on Pop](https://open.spotify.com/album/1sgWaKtQxwfjUpZnnK8r7J) | 35:45 |
 
-Snapshot ID: `MjY3ODI1NjMsMDAwMDAwMDA4YWI4ZTMxNzVmNGY0ODAyZmMwMTkxZDVjNzAzZTU5Ng==`
+Snapshot ID: `AZirYwAAAACKuOMXX09IAvwBkdXHA+WW`

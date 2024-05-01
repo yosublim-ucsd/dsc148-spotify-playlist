@@ -2,9 +2,9 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Listen to the hottest songs from LGBTQIA+ artists\. Cover: Kehlani
+> Listen to the hottest songs from LGBTQIA+ artists\. Cover: Nemo
 
-1,152 songs - 2 day 14 hr 24 min
+1,154 songs - 2 day 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,7 +371,7 @@
 | [Getaway \(feat\. Tegan and Sara\)](https://open.spotify.com/track/3GyyChTq6IZR8wtyTHh3eY) | [VINCINT](https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd), [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Getaway \(feat\. Tegan and Sara\)](https://open.spotify.com/album/4fOK0ocCuJ7ezk0qzMOULg) | 3:16 | 2021-12-17 | 2022-01-29 |
 | [Getting Used To](https://open.spotify.com/track/3bQFa2vK0P38iUrwYGc3Ul) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [Getting Used To](https://open.spotify.com/album/5wnt2FQ51s2p5jnqHIXNOg) | 2:51 | 2022-04-29 | 2022-06-10 |
 | [ghosts](https://open.spotify.com/track/7Ei5XSaRRBMl92xujvRgOy) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [inferno](https://open.spotify.com/album/5nEnJBGqhO81HTESoWTnq7) | 3:40 | 2023-09-12 | 2023-09-26 |
-| [Gimme](https://open.spotify.com/track/2M220rNo8EQw2qp0HWtlPf) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [Gimme](https://open.spotify.com/album/3pio7v2Ug2K4qt4lIRFnza) | 2:24 | 2024-03-12 |  |
+| [Gimme](https://open.spotify.com/track/2M220rNo8EQw2qp0HWtlPf) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [Gimme](https://open.spotify.com/album/3pio7v2Ug2K4qt4lIRFnza) | 2:24 | 2024-03-12 | 2024-05-01 |
 | [Girl From The Internet](https://open.spotify.com/track/2mKCMCSH5bNulbg8mU4E2c) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Girl From The Internet](https://open.spotify.com/album/3LjOdj3EPCm6UdyIwzXRnm) | 3:06 | 2021-12-17 | 2022-01-29 |
 | [GIRLS](https://open.spotify.com/track/4qXXw4xhTLGS7UR5l9Lbnr) | [Betta Lemme](https://open.spotify.com/artist/1WZLagiBdNltn918sr8kkw) | [GIRLS](https://open.spotify.com/album/4PGTZhtRo9xokQYxGmBNue) | 3:24 | 2021-12-17 | 2022-01-29 |
 | [Girls](https://open.spotify.com/track/0zZcMcF9JQ6OXuT9BVG4lC) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Unthinkable](https://open.spotify.com/album/1Nvd2bGAy6ofku8h1kOt16) | 2:31 | 2022-05-20 | 2022-07-22 |
@@ -752,7 +752,7 @@
 | [One Family](https://open.spotify.com/track/5PrgFbvr1PCc9LqgR7Xwba) | [Andrei Ursu](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [Fiesta'23](https://open.spotify.com/album/2CyfPASgWOgA8WMJXopZjV) | 2:40 | 2023-11-29 | 2024-01-11 |
 | [One Family](https://open.spotify.com/track/1QLT25obDU2eN1WTvIFFos) | [wrs](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [One Family](https://open.spotify.com/album/36TL3ctbmlUUGjNGcZt3qW) | 2:40 | 2023-06-01 | 2023-07-12 |
 | [One More Night](https://open.spotify.com/track/7cR4WZEjKT9PU2heOK8cnx) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [One More Night](https://open.spotify.com/album/5pxTLRkOvxwalmPF2xxdng) | 2:44 | 2024-03-12 | 2024-04-19 |
-| [One More Night](https://open.spotify.com/track/7h3SmdSMPWiqeMJdX1YKLO) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [One More Night](https://open.spotify.com/album/25XqmGzypcKDWVpwqZ5cIZ) | 2:44 | 2024-04-16 |  |
+| [One More Night](https://open.spotify.com/track/7h3SmdSMPWiqeMJdX1YKLO) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [One More Night](https://open.spotify.com/album/25XqmGzypcKDWVpwqZ5cIZ) | 2:44 | 2024-04-16 | 2024-05-01 |
 | [One Of Us](https://open.spotify.com/track/5CqrCMMhS8QzBfzks0vel8) | [Goodwerks](https://open.spotify.com/artist/1xoy2fP09MR6o1FW3jzCyM), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Broken Glass, Vol\. 5](https://open.spotify.com/album/1GNtlaf1suRPWz351bNiVc) | 3:34 | 2023-08-08 | 2023-09-13 |
 | [One Of Your Girls](https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:01 | 2023-10-24 | 2023-11-30 |
 | [One That Got Away](https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [One That Got Away](https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond) | 3:52 | 2023-05-09 | 2023-06-02 |
@@ -970,6 +970,7 @@
 | [Sweet Talker](https://open.spotify.com/track/6FRxFke9VsjXmibGgSeKki) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Sweet Talker](https://open.spotify.com/album/301gSTTWjmjIa1M6Hx4hPT) | 2:56 | 2021-12-17 | 2022-01-15 |
 | [Swing of Things](https://open.spotify.com/track/57crzxYpDCaPcXx3cBSARW) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Swing of Things](https://open.spotify.com/album/7xUFaD8ssuDYgx0IycGSdO) | 2:58 | 2021-12-17 | 2022-01-29 |
 | [System Collapse](https://open.spotify.com/track/0pbTfU1gQizQiMawII79vv) | [Javiera Luna Fantin](https://open.spotify.com/artist/5UaZW5vsM6iaHVnvF5TA1I) | [System Collapse](https://open.spotify.com/album/75B9XnvgNRxcKp1GPhRNJF) | 3:38 | 2023-03-31 | 2023-04-14 |
+| [Sám](https://open.spotify.com/track/4DYUH42RaIlbw5BOyCKZQ2) | [ADONXS](https://open.spotify.com/artist/2Wipb14FDfbuu8b8LWpiNM) | [Sám](https://open.spotify.com/album/1GuSjk4uLoEQk2AbXv0TJL) | 3:04 | 2024-04-30 |  |
 | [Súper Heroína](https://open.spotify.com/track/4FstWFuCTeZn9Ms5FKx4KD) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP) | [The Early Years](https://open.spotify.com/album/4dWM9PaeRtWEJBxIrGfyYD) | 3:30 | 2023-06-01 | 2023-07-12 |
 | [T'aggio vuluto bene](https://open.spotify.com/track/62GSCLUoW8SWXh9v3xLaiZ) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [endly](https://open.spotify.com/artist/1cqb0IqRUO8HCpKFdMsdvI) | [T'aggio vuluto bene](https://open.spotify.com/album/0JFgZQDWr2NSXQ5vlU7vpe) | 2:36 | 2024-03-12 |  |
 | [Talk Too Much](https://open.spotify.com/track/1ekAgx1qOdnVoSlmkHghKq) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 3:16 | 2023-10-10 | 2023-11-30 |
@@ -1103,6 +1104,7 @@
 | [Won't Be Alone](https://open.spotify.com/track/5tLyvmyHxucSqDE3cqXC8m) | [Sinclair](https://open.spotify.com/artist/0IbWNNqUJWp6qjQePARgTp) | [Won't Be Alone](https://open.spotify.com/album/1Si7K6TpLdKuM4BLWTcHXB) | 4:05 | 2022-01-14 | 2022-07-19 |
 | [WONDER \[with Sara Bareilles\]](https://open.spotify.com/track/1Smt0FqrlAkz6V1iEsUFvi) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW), [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [WONDER \[with Sara Bareilles\]](https://open.spotify.com/album/0eIIEDeDBsCUmxRYkVqQJ2) | 3:44 | 2021-12-17 | 2022-01-29 |
 | [Won’t Give Up](https://open.spotify.com/track/7iTqDHIAOL0n9wvwGdcTvZ) | [Pattie Gonia](https://open.spotify.com/artist/05KFXGAWQkQv7f5lUGgtVD), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Quinn Christopherson](https://open.spotify.com/artist/0tzC81XDBWtTPfJyUg6O2j) | [Won’t Give Up](https://open.spotify.com/album/1mbW7KLqK1KYVVhUHerePT) | 4:11 | 2024-01-10 | 2024-03-13 |
+| [World's End](https://open.spotify.com/track/4vUF4Iw4grur04S5yOm5Vs) | [Mavi Phoenix](https://open.spotify.com/artist/0Lt05xaSe2ACmAiSkIdcSm) | [World's End](https://open.spotify.com/album/1SMSn40SBGpox80IyftsEO) | 2:37 | 2024-04-30 |  |
 | [Worms](https://open.spotify.com/track/5PlGxNgE62io6OBc1BsIaq) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Worms](https://open.spotify.com/album/1iMYhGsjfZIDKuiF73D6cI) | 2:28 | 2023-03-07 | 2024-01-11 |
 | [WORMS \(In My Brain\)](https://open.spotify.com/track/3HR5tgVaFRhomFbI2f6R8x) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [MY BRAIN AFTER THERAPY](https://open.spotify.com/album/7seqztJ0fn7NCs4YD7cCag) | 3:23 | 2023-03-31 | 2023-04-14 |
 | [WOT?](https://open.spotify.com/track/3reDMknQne3fFioU5DGjxn) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [WOT?](https://open.spotify.com/album/1ZR2wheKOl3LfjIMeldl7E) | 2:56 | 2023-11-14 | 2023-11-30 |

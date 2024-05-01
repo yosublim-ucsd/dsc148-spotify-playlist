@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7g3zHOim2XylTlM7Oittr8.md) - [plain]
 
 > Enjoy the top streamed country songs of 2016 right here! Cover: Dan + Shay
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,370 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,369 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/7g3zHOim2XylTlM7Oittr8.md) - [plain]
 | 49 | [Vice](https://open.spotify.com/track/63lHuquEopEUiwPy6VLxlb) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Vice](https://open.spotify.com/album/05SWmzwgUEUayiPJx1GvSk) | 3:59 |
 | 50 | [It Don't Hurt Like It Used To](https://open.spotify.com/track/0iA1unTbTbDOWUSlbwJ1pS) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Summer Forever](https://open.spotify.com/album/3OkqAak6KhIQExElXif7UW) | 3:04 |
 
-Snapshot ID: `Niw0YTQ1MDRhMDllYjA5N2I4N2NiZDU4N2E5ZDg1YTdjNjI1OTAwZDU5`
+Snapshot ID: `AAAABkpFBKCesJe4fL1Yep2Fp8YlkA1Z`

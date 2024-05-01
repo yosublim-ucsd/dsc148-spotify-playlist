@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover: Maan
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,894 likes - 70 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,902 likes - 70 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 69 | [Tankstation](https://open.spotify.com/track/3N8l96fR93JyiKJhc8qxFY) | [Hiigo](https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX) | [Tankstation](https://open.spotify.com/album/4eu8csS8j5wIwZuTVIRes3) | 3:22 |
 | 70 | [Duizend Lichtjes \- Radio Edit](https://open.spotify.com/track/36Vn9lLTJKD8gly99Fg3w9) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0), [Glen Faria](https://open.spotify.com/artist/0O0Hr8JCTPqXyPLdN6kzdC) | [Duizend Lichtjes \(Radio Edit\)](https://open.spotify.com/album/3ltI4E6dNJNlfM2gF1EUdl) | 2:31 |
 
-Snapshot ID: `MTcxNDA4MjQwMCwwMDAwMDAwMDY2M2M2MGZmMGQ3YzJhNjdkNWEwNWFjYWFmMzUwNzYy`
+Snapshot ID: `ZirSYAAAAABmPGD/DXwqZ9WgWsqvNQdi`

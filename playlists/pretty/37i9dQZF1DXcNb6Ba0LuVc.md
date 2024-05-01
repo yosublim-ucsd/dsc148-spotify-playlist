@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 
 > Uplifting instrumental beats to brighten your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,271 likes - 216 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,420 likes - 216 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -225,4 +225,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 | 215 | [Verão](https://open.spotify.com/track/72rhfLBwRG8Px3dFDtdGWc) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Verão](https://open.spotify.com/album/2KAExA9jGiDulUnV1NAom4) | 2:35 |
 | 216 | [Golden](https://open.spotify.com/track/4wNhZBHX5nljSBTCbf4Z0x) | [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi), [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T) | [Golden](https://open.spotify.com/album/2FqmKUkGYBuudgPtF1X1eL) | 2:13 |
 
-Snapshot ID: `MTcxMDkyMjk1NywwMDAwMDAwMGY4OTMwMTA4NmZmM2NmMDhjZDBmNmZhOTE3NzhhNGFl`
+Snapshot ID: `ZfqczQAAAAD4kwEIb/PPCM0Pb6kXeKSu`

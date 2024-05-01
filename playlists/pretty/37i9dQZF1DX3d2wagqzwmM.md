@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds\. Cover: Hardwell
 
-[Spotify](https://open.spotify.com/user/spotify) - 510,334 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,641 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,18 +75,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 65 | [Spitfire](https://open.spotify.com/track/7j9J5wZI8xVd9H8iy8fHES) | [NWYR](https://open.spotify.com/artist/558dSyN1mMqsKrEBcKJ2p0), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Spitfire](https://open.spotify.com/album/3uVzRplKnlKereBzUsE4zG) | 2:44 |
 | 66 | [The Chant](https://open.spotify.com/track/16NC74ajzZCjs4RbA1Zxwn) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Accepted Concept](https://open.spotify.com/album/5026e5pinYOgls5mjv1duU) | 2:51 |
 | 67 | [Lost In The Music](https://open.spotify.com/track/7oZOV66eOcLjv7a9YEt5NW) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Lost In The Music](https://open.spotify.com/album/4302kKfB2VwUA3mUA84mUr) | 2:59 |
-| 68 | [Pull Me In](https://open.spotify.com/track/6YJFwZR6mxp8bU38WB3HeX) | [Nifra](https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A), [EKE](https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I) | [Pull Me In](https://open.spotify.com/album/0HpxpO57kgacGm4dSkBdjP) | 2:27 |
-| 69 | [I Wanna Dance](https://open.spotify.com/track/4bcSR43b8OvRabgkXfrWK1) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [I Wanna Dance](https://open.spotify.com/album/7f6x4rUCzkq3BLI2xd2Azo) | 2:22 |
+| 68 | [I Wanna Dance](https://open.spotify.com/track/4bcSR43b8OvRabgkXfrWK1) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [I Wanna Dance](https://open.spotify.com/album/7f6x4rUCzkq3BLI2xd2Azo) | 2:22 |
+| 69 | [Pull Me In](https://open.spotify.com/track/6YJFwZR6mxp8bU38WB3HeX) | [Nifra](https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A), [EKE](https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I) | [Pull Me In](https://open.spotify.com/album/0HpxpO57kgacGm4dSkBdjP) | 2:27 |
 | 70 | [Flight 303](https://open.spotify.com/track/3VSwrup744za8NcJwdlbbL) | [MR.BLACK](https://open.spotify.com/artist/7tGP2lCt2Xkoc3BCN13NWU) | [Tranceformation](https://open.spotify.com/album/20n8FSFvvV8YiaYB5huDTL) | 2:34 |
 | 71 | [Dark Water](https://open.spotify.com/track/2hjIST3yMZbyfesqNDO8Fy) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U), [JESSCA](https://open.spotify.com/artist/4ZUkMKPfAdbnBHuZZyjXf9) | [Dark Water](https://open.spotify.com/album/79RBEFYqd3CZZZ3iqQuRRK) | 3:26 |
 | 72 | [Flight 643 \- KAAZE Remix](https://open.spotify.com/track/7eV5PavCAxbKD026Xc1GYk) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Flight 643 \(KAAZE Remix\)](https://open.spotify.com/album/7sAyXdVwggkULcfRrjlgBV) | 2:39 |
 | 73 | [Friends](https://open.spotify.com/track/0TqBVW2OXLf6UaNmBZtARL) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Friends](https://open.spotify.com/album/3h5fxBPJ7aZHYvKpxYiR2Y) | 3:07 |
 | 74 | [Atmosphere](https://open.spotify.com/track/4f36yOtuLrOVxfWopiDjiw) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Atmosphere](https://open.spotify.com/album/5Z34tqOAHVByFmFK6hyhyg) | 2:44 |
-| 75 | [All The Way](https://open.spotify.com/track/2QeYHejze0Pqo0blCxwvZt) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [All The Way](https://open.spotify.com/album/1X8xAhvwyc3WKtAh3XXXhE) | 2:08 |
-| 76 | [Alone](https://open.spotify.com/track/7vSx1uzjLF2elseUEFDDgu) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [Alone](https://open.spotify.com/album/3z7h4c33zeC577R9EWwksj) | 4:11 |
+| 75 | [Alone](https://open.spotify.com/track/7vSx1uzjLF2elseUEFDDgu) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [Alone](https://open.spotify.com/album/3z7h4c33zeC577R9EWwksj) | 4:11 |
+| 76 | [All The Way](https://open.spotify.com/track/2QeYHejze0Pqo0blCxwvZt) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [All The Way](https://open.spotify.com/album/1X8xAhvwyc3WKtAh3XXXhE) | 2:08 |
 | 77 | [Careful What You Wish For \(feat\. Alida\) \[Club Mix\]](https://open.spotify.com/track/50uVUAAKVcn35SHQ1Dtjbd) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Alida](https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0) | [Careful What You Wish For \(feat\. Alida\) \[Club Mix\]](https://open.spotify.com/album/5d7j6vrBghNkNy6FiU7imF) | 2:52 |
 | 78 | [Living On Video \(feat\. DTale\) \[Festival Mix\]](https://open.spotify.com/track/25s0xJhSEJhpiyRPVnsvtU) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [DTale](https://open.spotify.com/artist/6kNzhTpSxGfG0dxqMuraWy) | [Living On Video \(feat\. DTale\) \[Festival Mix\]](https://open.spotify.com/album/3ilMBUiEE7oTOExAPwkV84) | 3:01 |
 | 79 | [Party Everyday](https://open.spotify.com/track/2PVnAqyfcnCfYJFxULjOPA) | [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc) | [Party Everyday](https://open.spotify.com/album/5dmTMnwiRqi6r4bsPwlus6) | 2:52 |
 | 80 | [Let Me Be Your Fantasy](https://open.spotify.com/track/4fGOsBz3c3d3CXAmc1kLob) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [Let Me Be Your Fantasy](https://open.spotify.com/album/7xgkEBwCZmK4dOkh2648dV) | 2:56 |
 
-Snapshot ID: `MTcxNDA4MjQwMCwwMDAwMDAwMDJlOTU5NTZhNDczODgwZTdlNThmOGMxY2VhNzQzOGYy`
+Snapshot ID: `ZirSYAAAAAAulZVqRziA5+WPjBzqdDjy`

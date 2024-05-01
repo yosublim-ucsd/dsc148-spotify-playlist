@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: Professor Stranger
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,446 likes - 102 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,463 likes - 102 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 101 | [Mysterious World](https://open.spotify.com/track/4yJtj2FogrwPGHDN6m55To) | [Mr\. Castle](https://open.spotify.com/artist/1fv1tv4Mz0L1OTQRyjeV4R) | [Mysterious World](https://open.spotify.com/album/1VJ2WFOmoH0TbKnMfwaQ1z) | 3:21 |
 | 102 | [Breathe In, Breathe Out](https://open.spotify.com/track/2tf69mAQzbEupQygqyO0a2) | [Rangleklods](https://open.spotify.com/artist/1p2jAzBu31C2CoORbhZROz) | [Breathe In, Breathe Out](https://open.spotify.com/album/4bTmFYuvM6UeFiyT12aSww) | 4:26 |
 
-Snapshot ID: `MTcxNDE0OTYxMywwMDAwMDAwMDJhNGViM2ZlODZiMjFhNDY1YmM4ZDlkNjhkMmRjYTI3`
+Snapshot ID: `ZivY7QAAAAAqTrP+hrIaRlvI2daNLcon`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 76,434 likes - 300 songs - 10 hr 44 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 76,421 likes - 300 songs - 10 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 | 299 | [Letter for Rod](https://open.spotify.com/track/2hOiKEe46CiFlHaSPRro0K) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk), [IzaBeats](https://open.spotify.com/artist/4DtFzX8vn47Rdc5c4fHcEk), [FaOut](https://open.spotify.com/artist/4yRJjgsEvPRqZOyNBOfZ9V) | [Summer](https://open.spotify.com/album/6ydRwauwNu1Rp3csgxskeb) | 1:44 |
 | 300 | [Cocktail Dress](https://open.spotify.com/track/3GxOzZdzJ7H1k57eNuFKRa) | [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S) | [Martini Lounge](https://open.spotify.com/album/6h3fYgUgMNNa5Hr3bNlaBa) | 2:32 |
 
-Snapshot ID: `MTkyMyxhYjgxNjJiMjZlZWE3YzM5MGRhZjQwNjE5MGNjMmFiNGFlNzhhNjBm`
+Snapshot ID: `AAAHg6uBYrJu6nw5Da9AYZDMKrSueKYP`

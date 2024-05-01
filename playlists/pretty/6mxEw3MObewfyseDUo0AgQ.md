@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/6mxEw3MObewfyseDUo0AgQ.md) - [plain]
 | 65 | [Control](https://open.spotify.com/track/3SKzTIl9mW0DadTys9SFo3) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [BADLANDS \(Deluxe\)](https://open.spotify.com/album/5OZJflQcQCdZLQjtUudCin) | 3:34 |
 | 66 | [summer depression](https://open.spotify.com/track/3nLrXBLYDtrpZc0urulRU4) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [summer depression](https://open.spotify.com/album/3Og07YAU7WXqMvVppYp9xC) | 2:31 |
 
-Snapshot ID: `NzcsOTdhZTMzMmUwMmMwMmRkMzdlMDAwYzgzY2Q4Yjc4Njk1ZTJjYWQ1ZQ==`
+Snapshot ID: `AAAATZeuMy4CwC3TfgAMg82LeGleLK1e`

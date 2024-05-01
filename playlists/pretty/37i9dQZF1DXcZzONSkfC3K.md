@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZzONSkfC3K.md) - [plain]
 
 > Salsa que representa Puerto Rico\. Portada: El Gran Combo De Puerto Rico
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,713 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,706 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZzONSkfC3K.md) - [plain]
 | 49 | [Que Bonita Bandera](https://open.spotify.com/track/6kp4npBzshDFMNDJhC0uRH) | [Stretch And Bobbito](https://open.spotify.com/artist/4gFujhX9cvrVpq2U5hOAQj), [The M19s Band](https://open.spotify.com/artist/4XjdMgBFds1IcaeshYjDgE), [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C), [Danny Rivera](https://open.spotify.com/artist/3LZUHg9BIh2U5ol71qrVGL), [Jeimy Osorio](https://open.spotify.com/artist/7HNDChAMfH5OKlcFHUJrBv), [Mireya](https://open.spotify.com/artist/6nmhKuSX86VY9oD1rNPF06), [Chamir Bonano](https://open.spotify.com/artist/0n7fusANHiFjz3vTvMaBe0) | [Que Bonita Bandera](https://open.spotify.com/album/49hdJ2sefH3emVv9UHltI9) | 4:50 |
 | 50 | [Anacaona](https://open.spotify.com/track/7wYjQQeClyDQAug88iyMco) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u) | [Ponte Duro The Fania All Stars Story](https://open.spotify.com/album/4934XFQ9ZYdoK3R42MEwcv) | 7:17 |
 
-Snapshot ID: `MTcxNDEwNDA2MCwwMDAwMDAwMDE1YjA4NGE0MDcxOTdkMWZiNGI4NjlkNjc3ZWFkNzYy`
+Snapshot ID: `Zism/AAAAAAVsISkBxl9H7S4adZ36tdi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Sorriso Maroto
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,895 likes - 75 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,947 likes - 75 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 74 | [Curto Circuito / Ponto Fraco / Amor De Manhã \- Ao Vivo](https://open.spotify.com/track/7dJp2ddguIzoNFAE2QWBUL) | [Akatu](https://open.spotify.com/artist/1AuDtbIuaPj9LHnOUMT3C8), [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7) | [Curto Circuito / Ponto Fraco / Amor De Manhã \(Ao Vivo\)](https://open.spotify.com/album/2pYHP2oOcMOaMm9suX34l6) | 4:53 |
 | 75 | [Problema Emocional / Brilho No Olhar \- Ao Vivo](https://open.spotify.com/track/7dI9v9Wh3gFDX6QgcCbCGX) | [Grupo Fala Comigo](https://open.spotify.com/artist/12Crqy29kQcqbkELcZaEVq), [Tiee](https://open.spotify.com/artist/1runhgZ4PyzxBhg0Nrc1F8) | [Roda De Samba Fala Comigo Convida Tiee \(Ao Vivo / Vol.2\)](https://open.spotify.com/album/565t9GiCfNywZEhcsZR3ak) | 3:06 |
 
-Snapshot ID: `MTcxNDEwMDQ2MCwwMDAwMDAwMGQ3MmNmZjVjM2U3MDRmYzkwMDEyYWZhYmJhZWRhZjI3`
+Snapshot ID: `ZisY7AAAAADXLP9cPnBPyQASr6u67a8n`

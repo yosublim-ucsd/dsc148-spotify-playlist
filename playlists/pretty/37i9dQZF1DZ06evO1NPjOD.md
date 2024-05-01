@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 
 ### [This Is City Girls](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1NPjOD)
 
-> This is: City Girls\. Alle wichtigen Tracks in einer Playlist.
+> This Is City Girls\. Les titres incontournables, réunis dans une seule et même playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,292 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,294 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 | 49 | [Three Point Stance \(feat\. City Girls & Megan Thee Stallion\)](https://open.spotify.com/track/5g7pNBb6ySnFUJknKiCkEE) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Three Point Stance \(feat\. City Girls & Megan Thee Stallion\)](https://open.spotify.com/album/3ul0AuKohmiolGCIKrEuly) | 3:22 |
 | 50 | [All Nite](https://open.spotify.com/track/4xoZXWjiCqdz7cdGNJh0QD) | [DJ E\-Feezy](https://open.spotify.com/artist/2MI9v4Ou3eiDZ1XvZgn5QP), [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Renni Rucci](https://open.spotify.com/artist/5RnUS48fC3nHEjbKeb8TPz) | [All Nite](https://open.spotify.com/album/7qveTIG4L8JXa93nwBd8A5) | 4:19 |
 
-Snapshot ID: `MTcxNDI2MjQwMCwwMDAwMDAwMDE2Y2VmOGViY2Y2NjM0OGYwZWI2ZDBkMTViMjUwNWI0`
+Snapshot ID: `Zi7jAAAAAABwSBo4un14zF7MGnj62q6V`

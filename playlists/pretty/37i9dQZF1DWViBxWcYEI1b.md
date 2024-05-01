@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 
 > For those with a taste for both the new and the classic\. Cover: Billianne
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,324 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,303 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 99 | [Harder To Love](https://open.spotify.com/track/4aVezSe1eAxdn8QAMN44jS) | [Liam Barrack](https://open.spotify.com/artist/6J3nuRRUXPFTFGcWcOJvtG) | [Harder To Love](https://open.spotify.com/album/5mqDXhMQaCgyQ2zRFOTAr1) | 3:25 |
 | 100 | [Way Too Young](https://open.spotify.com/track/04GnO4JiMFACIZnJlC1Psh) | [Pelch](https://open.spotify.com/artist/1sJoi3cOOQf2J21k7K8FjV) | [That's How The Story Goes](https://open.spotify.com/album/0Wf3BGIP5Q5dEfuILQe1D3) | 2:18 |
 
-Snapshot ID: `MTcxNDEwNDA2MCwwMDAwMDAwMDM4ZDkyYmM3YmMwNzY0Yzk1ZmY5MWM3NWIzMzMyM2E0`
+Snapshot ID: `Zism/AAAAAA42SvHvAdkyV/5HHWzMyOk`

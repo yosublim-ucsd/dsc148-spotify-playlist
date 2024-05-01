@@ -20,4 +20,4 @@ pretty - [cumulative](/playlists/cumulative/0GIcfETqsfW9HpPGjAv8eU.md) - [plain]
 | 10 | [Denny's](https://open.spotify.com/track/1LFXkONrtbQm4B6FbXcQtx) | [The King's Busketeers](https://open.spotify.com/artist/59LOExQz4tvCg7iUiDdbxL) | [Denny's](https://open.spotify.com/album/476J11dq56w95t0nwMV8nd) | 4:29 |
 | 11 | [Girls Against God](https://open.spotify.com/track/6kQlUiaTUyRW8fYQ2xDhpx) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 4:40 |
 
-Snapshot ID: `MTIsOWEwZWFlYzE5NDA0OGQyYjZiNTUzNDUxZjMwOWQ0Njg0ODU1ZGRiNA==`
+Snapshot ID: `AAAADJoOrsGUBI0ra1U0UfMJ1GhIVd20`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: yuji
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,931 likes - 85 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,067 likes - 85 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 84 | [COMPANY](https://open.spotify.com/track/1gEGaXAQLRklf5N7iXKLYl) | [kasper](https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH) | [COMPANY](https://open.spotify.com/album/7B71AsG7c4FEcJpiL1trv1) | 2:58 |
 | 85 | [Feelings For You](https://open.spotify.com/track/6mWiNbLn42n9owATnMSVau) | [EDDI](https://open.spotify.com/artist/1bRHF6zV7n8uymi2ReMRQG) | [Feelings For You](https://open.spotify.com/album/5WVPOwHNsiXEXtQFigEuaR) | 1:59 |
 
-Snapshot ID: `MTcxNDA2NDQwMCwwMDAwMDAwMGJjZTJkZTc4ODc2NzA2Zjg3ZDgwNjhjMWQ5ODFhMmI3`
+Snapshot ID: `ZiqMEAAAAAC84t54h2cG+H2AaMHZgaK3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1yXxWD7WGcm.md) - [plain]
 
 > Les classiques du zouk\. Photo : Fanny J
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,549 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,633 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1yXxWD7WGcm.md) - [plain]
 | 49 | [Siwo](https://open.spotify.com/track/0femCfvGe5cE3kyRnRd9jK) | [Jocelyne Beroard](https://open.spotify.com/artist/5YZXvHrAg6BE549FF4x6jB) | [Siwo](https://open.spotify.com/album/1rAvDlrzslwA4SEffA2rYv) | 4:29 |
 | 50 | [C'est mieux comme ça](https://open.spotify.com/track/4pmEFYqVjUyingztgPX5wa) | [LS](https://open.spotify.com/artist/2odwdpceWkPMQ3RgoBhige) | [Kimberlite Zouk, Vol\. 2](https://open.spotify.com/album/71I43KmcfLu1R9rofwzaQ1) | 4:15 |
 
-Snapshot ID: `MTcxMzQ3NzYwMCwwMDAwMDAwMDg4OTkwZDNjM2Q1ODI5ODkzOTdmODkzM2JlYTU2OWNi`
+Snapshot ID: `ZiGX4AAAAACImQ08PVgpiTl/iTO+pWnL`

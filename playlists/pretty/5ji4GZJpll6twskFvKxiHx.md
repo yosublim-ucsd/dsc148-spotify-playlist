@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/5ji4GZJpll6twskFvKxiHx.md) - [plain]
 | 49 | [Something About You \- ODESZA Remix](https://open.spotify.com/track/6vjWim6xU6tPjA42GxSp1U) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [Something About You \(The Remixes\)](https://open.spotify.com/album/0WJIPz25jMYUpLMTM37eA6) | 5:43 |
 | 50 | [PILLOWTALK](https://open.spotify.com/track/0PDUDa38GO8lMxLCRc4lL1) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Mind Of Mine \(Deluxe Edition\)](https://open.spotify.com/album/5amj9zNeZ3B2EdpBgXrOZ0) | 3:22 |
 
-Snapshot ID: `MyxlMDdlZTQ1Mjc4ZWVjZDI4NThhYThmYzY2Y2E0MGIwZWY2NTY2ODdk`
+Snapshot ID: `AAAAA+B+5FJ47s0oWKqPxmykCw72Vmh9`

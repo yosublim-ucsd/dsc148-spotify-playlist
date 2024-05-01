@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5Co3nToduGTXXF1ra9gXB3.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 385 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 386 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/5Co3nToduGTXXF1ra9gXB3.md) - [plain]
 | 49 | [Hungry Heart](https://open.spotify.com/track/0cb6dNWQ3hfmZjcmDecCMy) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The River](https://open.spotify.com/album/07cCVkVJqWtao9YzGTEQ5H) | 3:18 |
 | 50 | [Sweetheart](https://open.spotify.com/track/5lHCW9ULjtgmgB1LmLBfCy) | [Franke & The Knockouts](https://open.spotify.com/artist/5l6cEOynnkfX7PS7zCMRU0) | [Franke & The Knockouts \[Original Recording Remastered\]](https://open.spotify.com/album/7I0383pbnkJA1ZypW7Ydn9) | 4:11 |
 
-Snapshot ID: `Myw5YTRkYTg4MmE1NDkzYjI4NTRjY2JkM2E0ZGUzYjAzMTEzZGM5NTAx`
+Snapshot ID: `AAAAA5pNqIKlSTsoVMy9Ok3jsDET3JUB`

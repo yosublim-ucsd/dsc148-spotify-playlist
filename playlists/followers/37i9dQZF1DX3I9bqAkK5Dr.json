@@ -1,5 +1,5 @@
 {
-  "2024-04-30": 32409,
+  "2024-05-01": 32411,
   "date_first_scraped": "2023-05-19",
   "description": "Check out the emerging independent tracks from these Telugu Artists!! Cover : Sravana Bhargavi",
   "name": "Telugu Indie",
@@ -381,6 +381,24 @@
       "duration_ms": 207158,
       "name": "Boys in the house",
       "url": "https://open.spotify.com/track/71bnrJcJTmnagiUXwT2ufb"
+    },
+    {
+      "album": {
+        "name": "Bujji Pilla",
+        "url": "https://open.spotify.com/album/1BcqiyIpH3Z2DjccL5XJLQ"
+      },
+      "artists": [
+        {
+          "name": "Achu",
+          "url": "https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275454,
+      "name": "Bujji Pilla",
+      "url": "https://open.spotify.com/track/0Ot37vSbeGkAVQi1mGqvou"
     },
     {
       "album": {
@@ -4029,7 +4047,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 233224,
       "name": "Prementhundo Gundellona",
       "url": "https://open.spotify.com/track/6cbwIQH2hhj4oKuF7YCInf"

@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/5Ir6gs0eXKyPj3Qin8uEun.md) - [plain]
 | 19 | [Takin' It to the Streets](https://open.spotify.com/track/1UBxiGQ2blRKft3csoK9H8) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Best of The Doobies](https://open.spotify.com/album/32xyhzHlGGsDvs1E7qihRA) | 3:39 |
 | 20 | [Bad Penny Blues](https://open.spotify.com/track/4NQKjxwF4QmsMzPDBAozlu) | [Humphrey Lyttelton](https://open.spotify.com/artist/64rUsDFcuATcV1JyYn26mf) | [Original Hits \- Jazz](https://open.spotify.com/album/7w0BBD1iMMRbULd1MmV9Zv) | 2:44 |
 
-Snapshot ID: `NDQsMDc1ZGI3MGM4NzZmNDcwODZlYTI3NjJkOWE5N2RjMDdkZTkwMDBiOQ==`
+Snapshot ID: `AAAALAddtwyHb0cIbqJ2LZqX3AfekAC5`

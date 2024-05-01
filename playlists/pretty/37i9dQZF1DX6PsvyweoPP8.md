@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,190 likes - 87 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,132 likes - 87 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 86 | [SUANDO O VIDRO](https://open.spotify.com/track/4td6SxFnMIRnfGlryoZYjn) | [Igão](https://open.spotify.com/artist/5SholNdfQZrHBSrOJ6C34X), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [EHXIS](https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka) | [Fotos de Ontem](https://open.spotify.com/album/1m29A0rgwF3EQktfu9rv7s) | 3:20 |
 | 87 | [Você já é meu](https://open.spotify.com/track/1cByBn960B0t7A5TMGIFm3) | [Izy Castelano](https://open.spotify.com/artist/2rAYpmc0WnoH9zOcDMQwjq), [Nina](https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY) | [Garotas como eu](https://open.spotify.com/album/6YahacLZscu28rWWU55ZEM) | 2:57 |
 
-Snapshot ID: `MTcxNDEwMDQ2MCwwMDAwMDAwMDUxODgxZjA2OWEzZWZkOWI4MDIyYjBkMzVmOWQyY2Nh`
+Snapshot ID: `ZisY7AAAAABRiB8Gmj79m4AisNNfnSzK`

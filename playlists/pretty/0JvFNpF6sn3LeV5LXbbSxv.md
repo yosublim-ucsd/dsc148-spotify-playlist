@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0JvFNpF6sn3LeV5LXbbSxv.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 666 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 664 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/0JvFNpF6sn3LeV5LXbbSxv.md) - [plain]
 | 49 | [Blue \(Da Ba Dee\)](https://open.spotify.com/track/5FgtdSf7I5lClThz2ptWvl) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF) | [Europop](https://open.spotify.com/album/65DySolRDG1LNSvRXcWQWN) | 4:43 |
 | 50 | [Desert Rose](https://open.spotify.com/track/0QFqIyJJ5BdOHyKBVW90I6) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [The Very Best Of Sting And The Police](https://open.spotify.com/album/5vLIfhDpTmdyQ0YrlnXzSr) | 4:46 |
 
-Snapshot ID: `NTIsOWZmMzU4YzFjNDEzODBhMzIyNjE5Zjc4YWIxZTk5YWU0MjdiMTI0Ng==`
+Snapshot ID: `AAAANJ/zWMHEE4CjImGfeKsema5CexJG`

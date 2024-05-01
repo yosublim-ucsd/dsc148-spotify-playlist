@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UoY5WYA1QF.md) - [plain]
 
 > Desde Juliantla, Guerrero, las inmortales del Rey del Jaripeo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,896 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,986 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UoY5WYA1QF.md) - [plain]
 | 99 | [Asi Te Quiero](https://open.spotify.com/track/4w0k7oGaTLMAmBQ3NUU7Ws) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Lo Mejor de Joan Sebastian](https://open.spotify.com/album/46jBoLgiPCu6mesWfEdxW3) | 3:18 |
 | 100 | [Bandido de Amores](https://open.spotify.com/track/4ZcQtsMR1XcaE4NZm22Y2T) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Corridos Con Banda](https://open.spotify.com/album/07SkzDa8j8u3PdP042nIs8) | 2:59 |
 
-Snapshot ID: `MTY4NjkyMDMzMiwwMDAwMDAwMGI5OWViZDEzYjE4MzFkMWFjMjI5MDk4NGFlNDRmM2Iw`
+Snapshot ID: `ZIxcjAAAAAC5nr0TsYMdGsIpCYSuRPOw`

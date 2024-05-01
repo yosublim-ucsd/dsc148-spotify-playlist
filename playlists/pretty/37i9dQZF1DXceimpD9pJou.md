@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: <a href="spotify:artist:2gaFnEQydJdWNkT17NLZm3">Su Presencia</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,735 likes - 100 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,757 likes - 100 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [CUENTA SALDA](https://open.spotify.com/track/2x4ibHr7WAWcIs9kLuhgBd) | [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe), [El Varón Jonatan](https://open.spotify.com/artist/5t31e0PQ4BNPmxs29YHj7t) | [CUENTA SALDA](https://open.spotify.com/album/7KCaBmbKsw0jcmRrRKKM5M) | 3:11 |
 | 100 | [Donde Llegamos](https://open.spotify.com/track/106Q2GallyGpWbn4aMDCGX) | [Abreu By Grace](https://open.spotify.com/artist/4JQzi8lZSdndfH8xLRdhTL), [MR\. Yeison](https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6), [JRMusic JayRicky](https://open.spotify.com/artist/4je6RyF9YH23F3UpnIpVfx), [Kendall Hill](https://open.spotify.com/artist/1xp2zmNuEMZwwO7WIZlVqZ), [Marvin Gil](https://open.spotify.com/artist/66VYzufuTnUBmvRMjgouVS), [Carlito Codigo](https://open.spotify.com/artist/5UteEvNs5R2nAmmv55R9bR) | [Donde Llegamos](https://open.spotify.com/album/0evKwRFDi8M2J2ZVtaFzIH) | 4:18 |
 
-Snapshot ID: `MTcxNDEwNDAwMCwwMDAwMDAwMDdkZDk3Y2Y0ZDg0MGY2OTE3ZjRhMTZhMDEyY2JiNGUw`
+Snapshot ID: `ZismwAAAAAB92Xz02ED2kX9KFqASy7Tg`

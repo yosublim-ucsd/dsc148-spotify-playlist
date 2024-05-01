@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie you should know\. Cover: Elsa y Elmar
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,755 likes - 56 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,675 likes - 56 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 55 | [la noche del viernes](https://open.spotify.com/track/28jSqIffzDrb03shMCAPp9) | [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz) | [la noche del viernes](https://open.spotify.com/album/6Q2IqXwMVZvkDw4bZ4y1ls) | 3:02 |
 | 56 | [Cuadriculado](https://open.spotify.com/track/2DCUiwZcxvT5VrpUyCITAh) | [Javypablo](https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq) | [Cuadriculado](https://open.spotify.com/album/5lOF69vy9TfGYX6E8C8LgX) | 2:49 |
 
-Snapshot ID: `MTcxNDE2MzAxMCwwMDAwMDAwMDUxOTNkMjY3NTg0ZDQ0YzkzMTA1YTJkMWYzNjY2MTZl`
+Snapshot ID: `ZiwNQgAAAABRk9JnWE1EyTEFotHzZmFu`

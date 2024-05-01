@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > SOM EN NORRLÄNDSK SAMURAI MED ETTAN LÖS OCH PEPPARSPRAJ!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,175 likes - 101 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,291 likes - 101 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 100 | [GAMMAL I GEMET](https://open.spotify.com/track/2EbK8nlyOYm6MHvkALytMW) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [GAMMAL I GEMET](https://open.spotify.com/album/1EqJfYrvI9T3FbvKWyPWkz) | 2:39 |
 | 101 | [SHITFACED](https://open.spotify.com/track/2NbLfZbmGWosfWn0vjfS9z) | [BR0D3R](https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow), [FESTEN](https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h), [Kattastrof](https://open.spotify.com/artist/3n82Yo7bU7Bj2yHBScFuKJ) | [SHITFACED](https://open.spotify.com/album/4Yu6PpOE59v5N7Jt80LOlt) | 3:01 |
 
-Snapshot ID: `MTcxNDA4MjQwMCwwMDAwMDAwMGZlNTNhNmIxN2I4ZTE3MjgzNTQ5NWM0MmViMGY0Zjhh`
+Snapshot ID: `ZirSYAAAAAD+U6axe44XKDVJXELrD0+K`

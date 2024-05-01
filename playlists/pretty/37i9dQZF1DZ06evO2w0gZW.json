@@ -1,12 +1,12 @@
 {
-  "description": "This is Mariah Carey. The essential tracks, all in one playlist.",
-  "num_followers": 465810,
+  "description": "This is Mariah Carey. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 465811,
   "original_name": "This Is Mariah Carey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDI2MjQwMCwwMDAwMDAwMDM1YTIyZjFmYTM4N2UxMzcyZjRjZTI1MmY1MjFmNDhm",
+  "snapshot_id": "Zi7jAAAAAADXQ0/nhQSxDhpQv1XXtIrq",
   "tracks": [
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's A Wrap",
-        "url": "https://open.spotify.com/album/2qsPqj28ZqwQDXLTQsAOsY"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 164666,
-      "name": "It's A Wrap - Sped Up",
-      "url": "https://open.spotify.com/track/4Py8h4C5kdNmH74gDzZoeI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "#1's",
         "url": "https://open.spotify.com/album/4brWwgz4lEG49fVDXajWvL"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 263933,
       "name": "I'll Be There (feat. Trey Lorenz) - Live at MTV Unplugged, Kaufman Astoria Studios, New York - March 1992",
       "url": "https://open.spotify.com/track/5t1OvYkhjQzWrxlE3UcDb6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's A Wrap",
+        "url": "https://open.spotify.com/album/2qsPqj28ZqwQDXLTQsAOsY"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 164666,
+      "name": "It's A Wrap - Sped Up",
+      "url": "https://open.spotify.com/track/4Py8h4C5kdNmH74gDzZoeI"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 213226,
-      "name": "Underneath the Stars",
-      "url": "https://open.spotify.com/track/1kkbUvmqZiNmWCR9TLd4tO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "E=MC2",
         "url": "https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 181026,
       "name": "I'll Be Lovin' U Long Time",
       "url": "https://open.spotify.com/track/1PzVLh1uoq5pAUnqNQElQq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 213226,
+      "name": "Underneath the Stars",
+      "url": "https://open.spotify.com/track/1kkbUvmqZiNmWCR9TLd4tO"
     },
     {
       "added_at": null,

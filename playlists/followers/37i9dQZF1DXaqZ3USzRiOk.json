@@ -1,5 +1,5 @@
 {
-  "2024-04-30": 180133,
+  "2024-05-01": 180200,
   "date_first_scraped": "2022-06-02",
   "description": "Yo soy tu sangre, mi viejo, soy tu silencio y tu tiempo...",
   "name": "Las Rancheras de Pap\u00e1",
@@ -883,7 +883,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 231093,
       "name": "Cucurrucucu Paloma",
       "url": "https://open.spotify.com/track/4SYjzX3PaRgTxPlwI9lAJx"
@@ -1315,7 +1315,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 227150,
       "name": "El Hombre Que Nos Hizo",
       "url": "https://open.spotify.com/track/2DsVJPOH293xXFFsYg1h8u"

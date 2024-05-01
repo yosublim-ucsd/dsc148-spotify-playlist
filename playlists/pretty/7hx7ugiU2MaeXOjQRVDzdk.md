@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/7hx7ugiU2MaeXOjQRVDzdk.md) - [plain]
 | 19 | [Aw Naw](https://open.spotify.com/track/7rsx1VArixiJxsFrDM7j4A) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [Aw Naw](https://open.spotify.com/album/46jUCGfB5XVSmhnleSs0Oy) | 3:09 |
 | 20 | [Buzzkill](https://open.spotify.com/track/3UJvgGaBEJcDqz61mbvqAp) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Spring Break...Here To Party](https://open.spotify.com/album/54ZCcmTHjghuPkzFYJzPGf) | 3:37 |
 
-Snapshot ID: `MTAsNGU5NWZjZmQ5NjczODg0NWMyYjBiNTA5OTVmM2Y5YjIyNjU2ZDczMw==`
+Snapshot ID: `AAAACk6V/P2Wc4hFwrC1CZXz+bImVtcz`

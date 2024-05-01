@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7smcyWmMxpr2nqnefrh792.md) - [plain]
 
 > The greatest tunes inspired by a time when Punk was Punk and parents were nervous.
 
-[Epitaph Records](https://open.spotify.com/user/epitaphrecords) - 5,691 likes - 44 songs - 2 hr 6 min
+[Epitaph Records](https://open.spotify.com/user/epitaphrecords) - 5,690 likes - 44 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/7smcyWmMxpr2nqnefrh792.md) - [plain]
 | 43 | [Crucified](https://open.spotify.com/track/5TzujOwXTA6XdN17mo8wpk) | [Agnostic Front](https://open.spotify.com/artist/3zDvanHxaETiHltPkKKYhT) | [Something's Gotta Give](https://open.spotify.com/album/41VrNLnQFFvhhga4iURHNQ) | 3:25 |
 | 44 | [No Worries](https://open.spotify.com/track/6jTEMEb03yyQAqnGepk5Kp) | [Hepcat](https://open.spotify.com/artist/79pQC5STz5lsGdkJ0NHmGp) | [Right On Time](https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu) | 3:39 |
 
-Snapshot ID: `NzcyLDdhYThiOTk2NDg1OTJiN2FiN2QzMzE2NzZkNmEwMDlkMTdjODYyODA=`
+Snapshot ID: `AAADBHqouZZIWSt6t9MxZ21qAJ0XyGKA`

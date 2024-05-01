@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcKbRenf7f0wN.md) - [plain]
 | 29 | [Carmilla](https://open.spotify.com/track/5E8cgAEL8kAIZjILldgsP7) | [Theatres Des Vampires](https://open.spotify.com/artist/4vNrZHCyGyELnv8tAgZZRt) | [Moonlight Waltz](https://open.spotify.com/album/0ppeRRkXMNWE49MAH4jfwe) | 4:59 |
 | 30 | [Quicksand Minds](https://open.spotify.com/track/5bs34ByrfVdukNYmR4YcZ5) | [Strange Boutique](https://open.spotify.com/artist/6BkDDb5YvbZoCq7Aw5flsh) | [The Loved One](https://open.spotify.com/album/3VokfqKpUHvCvkyQMf0evs) | 5:03 |
 
-Snapshot ID: `MCwwMDAwMDAwMDVkOThmYTM4MGU5Y2ZlYjdmNjFiNGMzNzY1MTc1NDcz`
+Snapshot ID: `AAAAAAAAAABdmPo4Dpz+t/YbTDdlF1Rz`

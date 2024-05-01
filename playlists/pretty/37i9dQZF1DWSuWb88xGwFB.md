@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,147 likes - 75 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,164 likes - 75 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 | 74 | [Master Blaster \(Turn It Up\)](https://open.spotify.com/track/4VxHkPiLhUwK4s7q2WpLN4) | [Joint Venture](https://open.spotify.com/artist/3zgNoLwSZuO6ibqfilnnU2) | [Master Blaster \(Turn It Up\)](https://open.spotify.com/album/4WEycFfBXOHo3nbBjzy7Ew) | 15:38 |
 | 75 | [Set My Spirit Free](https://open.spotify.com/track/04RY88ENJbbJIbKgpCvyHk) | [Kings Of Tomorrow](https://open.spotify.com/artist/2b8d0BREA7r3nbVhD649yX) | [Set My Spirit Free / Czar](https://open.spotify.com/album/0tOqlita8PHDWvWXhnVPSt) | 7:48 |
 
-Snapshot ID: `MTY4NjgzNTU0MSwwMDAwMDAwMDkzNTFiZTQ3MTU5MDA2OTMzZjM2NDk3YWY0M2JkZGU1`
+Snapshot ID: `ZIsRVQAAAACTUb5HFZAGkz82SXr0O93l`

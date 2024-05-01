@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0rsqS3HgjHgpjcvfZX8OmF.md) - [plain]
 
 > The best and latest rock and alternative\. Cover: St\. Vincent
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 9,951 likes - 80 songs - 4 hr 42 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 9,950 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/0rsqS3HgjHgpjcvfZX8OmF.md) - [plain]
 | 79 | [Kid](https://open.spotify.com/track/24TzmWrz2HHWV3UO5PlvNb) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Kid](https://open.spotify.com/album/5LqoF8G9MsNme4b8DpBExe) | 3:28 |
 | 80 | [Your Side of Town](https://open.spotify.com/track/3XV77GNuIPYff6T7bzjYy9) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Your Side of Town](https://open.spotify.com/album/5yFMpRYQntO822gUiwoVzC) | 3:07 |
 
-Snapshot ID: `Njk2NSw0Y2FhMDZiYTE0YWZiMjkyYjM4NWZhNTVkNTczYTYyMDJjY2Q3ZjQy`
+Snapshot ID: `AAAbNUyqBroUr7KSs4X6VdVzpiAszX9C`

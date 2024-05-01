@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Anderson Freire
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,755 likes - 49 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,725 likes - 49 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 28 | [You Make Everything Beautiful](https://open.spotify.com/track/6fLhGYIjcaxTpzrzoDtBq2) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9) | [Unsung Hero \(The Inspired By Soundtrack\)](https://open.spotify.com/album/3pldpOkIoJqYnkuOTWTipi) | 3:05 |
 | 29 | [deep love of Jesus \- acoustic](https://open.spotify.com/track/1r9MkiXxluA6yzyYscQRhM) | [Hillside Recording](https://open.spotify.com/artist/1Pr6QC1iOpXLx1shPTBBhN), [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE) | [deep love of Jesus](https://open.spotify.com/album/1JITp8QQsnpGVcZ061PCPD) | 3:51 |
 | 30 | [Grande É o Senhor](https://open.spotify.com/track/5kRbuUv8904cbMwhGmQsE3) | [Bereia Music](https://open.spotify.com/artist/2uylz2eDUc2XW6eFWoR3N4), [Lucas Goes](https://open.spotify.com/artist/6FS6gCbdyM0guva0tNopay) | [Grande É o Senhor](https://open.spotify.com/album/3w8C9IwPG42g22aOFflszr) | 4:13 |
-| 31 | [Filho Amado \- Ao Vivo](https://open.spotify.com/track/1vDHkzR6aAzIGQPYWd4ezy) | [Ramon e Rafael](https://open.spotify.com/artist/0ivA4QP4IYhr99InHqVOLV) | [Filho Amado \(Ao Vivo\)](https://open.spotify.com/album/1Ajc4Iy9jJr4wPJBRid92c) | 6:41 |
+| 31 | [Filho Amado \- Ao Vivo](https://open.spotify.com/track/1vDHkzR6aAzIGQPYWd4ezy) | [Ramon e Rafael](https://open.spotify.com/artist/0ivA4QP4IYhr99InHqVOLV) | [Filho Amado \(Ao Vivo\)](https://open.spotify.com/album/1Ajc4Iy9jJr4wPJBRid92c) | 5:26 |
 | 32 | [Eu Confiarei \- Acústico](https://open.spotify.com/track/5PcUWa9cWbyQN7NH1aFKdN) | [Felipe Rodrigues](https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS) | [Saudade \(Acústico\)](https://open.spotify.com/album/4Z1DP7xIRjjfpb2FvZyWdv) | 4:34 |
 | 33 | [Ei, Mãe](https://open.spotify.com/track/2ZNXs784ZYxWKlDOc3olXb) | [Marias](https://open.spotify.com/artist/6yDG1IZDMLxh1M82PFOLgM), [Nai Lopes](https://open.spotify.com/artist/5t6uGEJEod3b2Lgy5HFN6J), [Juju Andrade](https://open.spotify.com/artist/4xPUYXSWFPeH8IxeIVHw3l) | [Ei, Mãe](https://open.spotify.com/album/1srtmjAoYEkriWc8nWgpfO) | 2:33 |
 | 34 | [Milagre](https://open.spotify.com/track/5rO6nPcLmYcZN66HuMQ5e0) | [Brenda Danese](https://open.spotify.com/artist/1z5wjo6tdolaXhYZsT9T5r) | [Milagre](https://open.spotify.com/album/4lQCeaTs2kyUOuXW6xrKIQ) | 4:12 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 48 | [Quem Impedirá \- Ao Vivo](https://open.spotify.com/track/7uE1SbMel7bj36ZkwbMCuB) | [Siloé Music](https://open.spotify.com/artist/5LSZWUUeqVk0kctoZYKjoL) | [Quem Impedirá \(Ao Vivo\)](https://open.spotify.com/album/2m1Vnx8DMf8ZKNMPDff8x8) | 6:08 |
 | 49 | [É Sobre Você](https://open.spotify.com/track/2eXo5uXj3d9HNETnJoZKHT) | [C2 Worship](https://open.spotify.com/artist/3xQrMBzbnawW2TOl2hPEj3) | [É Sobre Você](https://open.spotify.com/album/5EGXt9FDzgktK50doHaQVr) | 5:34 |
 
-Snapshot ID: `MTcxNDEwMjc2MSwwMDAwMDAwMDQ0MDM1YTE0M2IzMjM0OWE4M2VjN2YyMWMyOTA5YmE3`
+Snapshot ID: `Zish6QAAAABEA1oUOzI0moPsfyHCkJun`

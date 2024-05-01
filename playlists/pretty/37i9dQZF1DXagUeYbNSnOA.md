@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Lismar\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,335 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,336 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [marzo 23](https://open.spotify.com/track/2IDF0hkMW3SI57SnQ6QHc7) | [FE7O](https://open.spotify.com/artist/4mEBEtZA2zrvg4JOcpCLxL) | [marzo 23](https://open.spotify.com/album/5up7CtexCgsxlybai1oDqU) | 2:56 |
 | 50 | [lo único que quería este verano](https://open.spotify.com/track/7AcWGIqtd7MDMe6f1eSi79) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [lo único que quería este verano](https://open.spotify.com/album/4Oh1JcGS5Ws13ZXVGxtXO4) | 3:24 |
 
-Snapshot ID: `MTcxMzk5MTgwMywwMDAwMDAwMDliZDYyZTg3MmI5MzlhM2NmYTgwOTc0OTg4YjZlMGJh`
+Snapshot ID: `ZilwewAAAACb1i6HK5OaPPqAl0mItuC6`

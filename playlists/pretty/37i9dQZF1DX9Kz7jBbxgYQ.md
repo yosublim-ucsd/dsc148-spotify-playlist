@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 
 > Home to the best of South Asian Indie scene\. Cover: KhoslaRaghu
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,366 likes - 94 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,447 likes - 94 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 | 93 | [Rok Na Paya](https://open.spotify.com/track/4YuFsqg0XZdOvsspVcoyeF) | [Swastik The Band](https://open.spotify.com/artist/740SYcL7Hl2TatDM2wYV8V) | [Rok Na Paya](https://open.spotify.com/album/1tWrFRHjlm4O3WOQgZwEXo) | 3:48 |
 | 94 | [Lamhey](https://open.spotify.com/track/5Z2GQ0eBKoatNYqbGayihP) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Lamhey](https://open.spotify.com/album/1jZWNePo4dPSElLKJ0I2zA) | 2:28 |
 
-Snapshot ID: `MTcxNDExNTM2MCwwMDAwMDAwMDI2ZTE3NzYzMWIxMTA5MTYzMGJlNTRhNjJjMGU2ZjQ0`
+Snapshot ID: `ZitTIAAAAAAm4XdjGxEJFjC+VKYsDm9E`

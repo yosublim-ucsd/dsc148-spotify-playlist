@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 
 > أحدث الاغاني العراقية\. غلاف: علي صابر
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,739 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,786 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 | 49 | [Kol Hayaty](https://open.spotify.com/track/4WHn7lvzx5azWQsfw8yB9J) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Kol Hayaty](https://open.spotify.com/album/4dqxjgz2aeyDoXUdIGlw8G) | 2:58 |
 | 50 | [Aldniya Ensan \- الدنيا انسان](https://open.spotify.com/track/2Md6cxHaMwtsnB37B4rZHu) | [Jalal Al Zain](https://open.spotify.com/artist/2FJoZRKDb3AokC3SITAV8E) | [Aldniya Ensan \(الدنيا انسان\)](https://open.spotify.com/album/26R0thF36RaW86bcONy7KN) | 4:29 |
 
-Snapshot ID: `MTcxNDEzOTM2NSwwMDAwMDAwMGE1NDViNDkxODBhZGU1ZGVmYjg5MWNiYjAwZGMyNmM0`
+Snapshot ID: `Ziuw5QAAAAClRbSRgK3l3vuJHLsA3CbE`

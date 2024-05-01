@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Slow Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,145 likes - 105 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,181 likes - 105 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 104 | [wringer](https://open.spotify.com/track/4HVAv8fRUKKPzNBjNK9Lqi) | [poolblood](https://open.spotify.com/artist/6TaXt2ECGxZ0MteLXaYsYs) | [wringer](https://open.spotify.com/album/6Xh4SndtEUOmMtYyflvaMn) | 3:06 |
 | 105 | [Never Said](https://open.spotify.com/track/3j8ZZlpKzdhDdcn2EWDhmB) | [Los Saints](https://open.spotify.com/artist/65kpk2PLBzVkgtG47hus0g) | [Never Said](https://open.spotify.com/album/1ObJHkOfVc1Q7qmwaa7TI5) | 2:33 |
 
-Snapshot ID: `MTcxMzkzMTIwMCwwMDAwMDAwMGEwNTUwMGJmMGE0ZmViMzJjMDMyMGVlMzhjNGU2Y2U1`
+Snapshot ID: `ZiiDwAAAAACgVQC/Ck/rMsAyDuOMTmzl`

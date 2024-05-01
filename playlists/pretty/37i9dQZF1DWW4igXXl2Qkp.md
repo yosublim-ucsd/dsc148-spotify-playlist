@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop music by independent artists and labels\. Cover: Chow Lee
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,886 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,948 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 74 | [Damn\. \(mandem pleaded\)](https://open.spotify.com/track/6sn9fDRvaNOHgjgGi6uxfv) | [Namani](https://open.spotify.com/artist/6AVWyEvyKJJwQjDHU8Eqaj) | [Damn\. \(mandem pleaded\)](https://open.spotify.com/album/6H9m32fNl4LSPhjiT1OyJ9) | 1:48 |
 | 75 | [Big Bank](https://open.spotify.com/track/61IrD4hmjsM5myqBWmeZc7) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv), [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq), [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC) | [Pigeons & Planes presents: See You Next Year 2](https://open.spotify.com/album/2HmJbK4LHezgshv0V4m9bi) | 2:42 |
 
-Snapshot ID: `MTcxMzk3NDQwMCwwMDAwMDAwMDJkMTQ4MTZlMzBiMzFkMWNlZWMxNmI1N2IyZWUwZTk3`
+Snapshot ID: `ZiksgAAAAAAtFIFuMLMdHO7Ba1ey7g6X`

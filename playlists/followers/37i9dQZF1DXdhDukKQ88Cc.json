@@ -1,5 +1,5 @@
 {
-  "2024-04-30": 145856,
+  "2024-05-01": 145898,
   "date_first_scraped": "2023-09-26",
   "description": "hit rap og andet i den vibe \ud83d\udea8 nyt fra: ICEKIID, Lamin / Anton Westerlin, Merro8, MAS & Hans Philip \ud83d\udea8",
   "name": "100 DK",
@@ -2713,6 +2713,24 @@
       "duration_ms": 147485,
       "name": "Stemmer",
       "url": "https://open.spotify.com/track/315V2iBZNxBDQxTgbDXRF4"
+    },
+    {
+      "album": {
+        "name": "Svaneflex",
+        "url": "https://open.spotify.com/album/0dOVDYCMrGpRngvk16BPmU"
+      },
+      "artists": [
+        {
+          "name": "Sondergaard",
+          "url": "https://open.spotify.com/artist/059d96CtYS9700ezKQWsFz"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122577,
+      "name": "Svaneflex",
+      "url": "https://open.spotify.com/track/5HPCoFIPcckTMWF0wc6ncG"
     },
     {
       "album": {

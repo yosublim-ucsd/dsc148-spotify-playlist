@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/056jpfChuMP5D1NMMaDXRR.md) - [plain]
 
 > Companion playlist for the Metallica documentaries.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,247 likes - 30 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,246 likes - 30 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/056jpfChuMP5D1NMMaDXRR.md) - [plain]
 | 29 | [Fight Fire With Fire \(Live at The Hollywood Palladium, Los Angeles, CA – March 10th, 1985\)](https://open.spotify.com/track/15c7cEnSAzYop0bzGWQHrE) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Deluxe Remaster\)](https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr) | 4:38 |
 | 30 | [Seek & Destroy \(Live at Espace Balard, Paris, France – February 9th, 1984\)](https://open.spotify.com/track/2TBi9kCzlIQNEsed36GipV) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Deluxe Remaster\)](https://open.spotify.com/album/7GttoSWxEi5lZvIWeSrh6n) | 7:21 |
 
-Snapshot ID: `MzAsNzY0MmZkYWYwYWY0ZTZhY2RmZDViZjI1NWM4Yjk2ZTdlNjk3YWFjMw==`
+Snapshot ID: `AAAAHnZC/a8K9Oas39W/JVyLlufml6rD`

@@ -1,17 +1,17 @@
 {
   "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Motive",
-  "num_followers": 1341346,
+  "num_followers": 1341293,
   "original_name": "NKVT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDMwNjI2NSwwMDAwMDAwMDQ1YmZhZmNhYTc5Zjg0YTdjMmM4MWRhMTFhNDE2ZTIw",
+  "snapshot_id": "ZjDXTwAAAABYexqwpnIlMd66XeWoSSZB",
   "tracks": [
     {
       "added_at": "2024-04-28 12:11:05",
       "album": {
-        "name": "taycan, Vol. 1",
+        "name": "taycan v1",
         "url": "https://open.spotify.com/album/4FNyPHSqsqmgMdc6s9Fv1W"
       },
       "artists": [
@@ -23,6 +23,22 @@
       "duration_ms": 164195,
       "name": "nept\u00fcn",
       "url": "https://open.spotify.com/track/7FFBcQzDcvwbcAVV8SqgsT"
+    },
+    {
+      "added_at": "2024-04-25 21:00:00",
+      "album": {
+        "name": "#1",
+        "url": "https://open.spotify.com/album/2P4oefrZZ6uOFsrykOusie"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        }
+      ],
+      "duration_ms": 123519,
+      "name": "Sezen Aksu",
+      "url": "https://open.spotify.com/track/0GuWyPyj4MVvT4qYsl6BOS"
     },
     {
       "added_at": "2024-04-25 21:00:00",
@@ -43,18 +59,18 @@
     {
       "added_at": "2024-04-25 21:00:00",
       "album": {
-        "name": "#1",
-        "url": "https://open.spotify.com/album/2P4oefrZZ6uOFsrykOusie"
+        "name": "anlatamam",
+        "url": "https://open.spotify.com/album/3At9Fy28V8N8zkV1kN0Ybf"
       },
       "artists": [
         {
-          "name": "Lvbel C5",
-          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+          "name": "Muti",
+          "url": "https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r"
         }
       ],
-      "duration_ms": 123519,
-      "name": "Sezen Aksu",
-      "url": "https://open.spotify.com/track/0GuWyPyj4MVvT4qYsl6BOS"
+      "duration_ms": 122833,
+      "name": "anlatamam",
+      "url": "https://open.spotify.com/track/6n5sAwgI535CMAr36INv9L"
     },
     {
       "added_at": "2024-04-25 21:00:00",
@@ -79,22 +95,6 @@
       "duration_ms": 157073,
       "name": "Beni Yarg\u0131lama",
       "url": "https://open.spotify.com/track/5QUk45sRjlcPrAAksKQbW1"
-    },
-    {
-      "added_at": "2024-04-25 21:00:00",
-      "album": {
-        "name": "anlatamam",
-        "url": "https://open.spotify.com/album/3At9Fy28V8N8zkV1kN0Ybf"
-      },
-      "artists": [
-        {
-          "name": "Muti",
-          "url": "https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r"
-        }
-      ],
-      "duration_ms": 122833,
-      "name": "anlatamam",
-      "url": "https://open.spotify.com/track/6n5sAwgI535CMAr36INv9L"
     },
     {
       "added_at": "2024-04-25 21:00:00",

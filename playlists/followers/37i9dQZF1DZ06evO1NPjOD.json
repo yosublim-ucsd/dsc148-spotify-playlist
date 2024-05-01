@@ -1,7 +1,7 @@
 {
-  "2024-04-30": 37292,
+  "2024-05-01": 37294,
   "date_first_scraped": "2022-10-29",
-  "description": "This is City Girls. The essential tracks, all in one playlist.",
+  "description": "This is: City Girls. Alle wichtigen Tracks in einer Playlist.",
   "name": "This Is City Girls",
   "tracks": [
     {
@@ -69,6 +69,36 @@
       "duration_ms": 158332,
       "name": "Act Up",
       "url": "https://open.spotify.com/track/3A2yGHWIzmGEIolwonU69h"
+    },
+    {
+      "album": {
+        "name": "All Nite",
+        "url": "https://open.spotify.com/album/7qveTIG4L8JXa93nwBd8A5"
+      },
+      "artists": [
+        {
+          "name": "DJ E-Feezy",
+          "url": "https://open.spotify.com/artist/2MI9v4Ou3eiDZ1XvZgn5QP"
+        },
+        {
+          "name": "Kamaiyah",
+          "url": "https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Renni Rucci",
+          "url": "https://open.spotify.com/artist/5RnUS48fC3nHEjbKeb8TPz"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259456,
+      "name": "All Nite",
+      "url": "https://open.spotify.com/track/4xoZXWjiCqdz7cdGNJh0QD"
     },
     {
       "album": {
@@ -583,7 +613,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 170413,
       "name": "How To Pimp A N**ga",
       "url": "https://open.spotify.com/track/36B9SXT9Pf8mL3F5RyqSAX"

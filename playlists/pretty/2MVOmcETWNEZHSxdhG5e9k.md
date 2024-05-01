@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/2MVOmcETWNEZHSxdhG5e9k.md) - [plain]
 | 70 | [Malaga \- Original Mix](https://open.spotify.com/track/0o3xdNut7NLMwHibznJQdF) | [Talamanca](https://open.spotify.com/artist/6T10DjLBN7wT5gtnPnhmEk), [Vitodito](https://open.spotify.com/artist/16mF4YXC1sZZWNjZoJoxd2) | [Encanta's Winter Picks \- 2015](https://open.spotify.com/album/5bOV5hnnvNNKDugKf0wHOS) | 7:20 |
 | 71 | [City Lights \- Original Mix](https://open.spotify.com/track/3Dce37lwGGXcg9EeYj80rQ) | [Sundriver](https://open.spotify.com/artist/3OKbvWLskv2IPnpFiL1BRr) | [Anjunabeats Volume 6](https://open.spotify.com/album/7uMIeJwmYHWB5UmQCJxtzr) | 5:15 |
 
-Snapshot ID: `ODIsMjU4ZmYzZTlmYmM0OTBhODdiZGE5MGJiYTM0YzA1N2UyYWU4NmFiYw==`
+Snapshot ID: `AAAAUiWP8+n7xJCoe9qQu6NMBX4q6Gq8`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,992 likes - 99 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,037 likes - 99 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 98 | [SHINE \(with SiR\)](https://open.spotify.com/track/79cQ8BxtYKsb8nAp8LfcZB) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [SHINE \(with SiR\)](https://open.spotify.com/album/41oaGXdQll9lAxJAwoZrlm) | 2:59 |
 | 99 | [Coming Back Now](https://open.spotify.com/track/0iVleE93Ri2uTUntiAJR4e) | [Swisha T](https://open.spotify.com/artist/1KNGrimbkpYFO5jKiBSCLZ), [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg) | [Coming Back Now](https://open.spotify.com/album/2vDp6OYV6bJ0ChZK37hQIX) | 3:10 |
 
-Snapshot ID: `MTcxNDEwNDA2MCwwMDAwMDAwMDc1NjQzODIyMWVlZjQwZTc2ZGQ3YWUxNWZhZGVjNjM1`
+Snapshot ID: `Zism/AAAAAB1ZDgiHu9A523XrhX63sY1`

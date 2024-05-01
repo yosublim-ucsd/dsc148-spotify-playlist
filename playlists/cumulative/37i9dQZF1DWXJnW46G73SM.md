@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف: رامي جمال
 
-930 songs - 2 day 4 hr 36 min
+931 songs - 2 day 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -403,6 +403,7 @@
 | [Maat El Kalam](https://open.spotify.com/track/75CTXFuRMEA6gX7D56Ivlo) | [Mohamed Mohie](https://open.spotify.com/artist/0kx1MvP6InHp52v64yCRx4) | [Maat El Kalam](https://open.spotify.com/album/3hginZfdRtOqnDuOEeeG3w) | 3:28 | 2022-03-03 | 2022-06-24 |
 | [Mabahrbsh](https://open.spotify.com/track/5HSq2VMchKdVRXR9B1jpgr) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Mabahrbsh](https://open.spotify.com/album/4T7NjcvE00AM4tNqYpIYu5) | 4:05 | 2022-03-14 | 2022-07-08 |
 | [Mabhtmesh](https://open.spotify.com/track/442OhScPDEPFjZ2Hou2j7S) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Mabhtmesh](https://open.spotify.com/album/6UVU26B9pUXpcrwD7i4GbD) | 3:32 | 2022-05-03 | 2022-08-13 |
+| [Mabrok Ya Ebn El Mahzoza](https://open.spotify.com/track/7wPn81S330EtQ8WzcCoCHX) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Mabrok Ya Ebn El Mahzoza](https://open.spotify.com/album/7Elizm9OIjwoEW9mvE5sSv) | 3:42 | 2024-04-30 |  |
 | [Mabsoot](https://open.spotify.com/track/7x3iSfgVP4170n4Q5DmAML) | [Hassan Piso](https://open.spotify.com/artist/42Au6oWabtKUVZhuLG2iP5) | [Mabsoot](https://open.spotify.com/album/3KG0yJp7bS3tLv2wRUmG9N) | 2:30 | 2023-08-11 | 2023-08-24 |
 | [Magash Mennek](https://open.spotify.com/track/7jTV5xzP8f252w6xS6isRv) | [Ahmed Batshan](https://open.spotify.com/artist/3mw4hDoLzTBOieeN9XZBIz) | [Magash Mennek](https://open.spotify.com/album/5ut1qAv97kxgJcnR1XbnMN) | 3:26 | 2022-11-24 | 2023-02-03 |
 | [Magrouh](https://open.spotify.com/track/6vjFrVERogNuQbyjGhJf0w) | [Ali Al Sagheer](https://open.spotify.com/artist/0pQ3EwYr7woD1Vb3iFb9tw) | [Magrouh](https://open.spotify.com/album/7HIVTi69bteqVYPuiDIPNh) | 2:38 | 2024-02-23 |  |

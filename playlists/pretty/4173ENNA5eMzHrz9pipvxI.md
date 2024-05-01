@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Mike Williams
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,171 likes - 21 songs - 1 hr 0 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,168 likes - 21 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 20 | [Helemaal Lijp](https://open.spotify.com/track/0VNAth0hBrDD4NX8vCCR3Z) | [Sjaak](https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm), [Natte Visstick](https://open.spotify.com/artist/5hUbXqyif2dZ3ArU1v9Rli) | [Helemaal Lijp](https://open.spotify.com/album/3odKISArvCYnzDiAIM7jPp) | 2:48 |
 | 21 | [Cotton Candy Clouds \(feat\. Trevor Dering\) \[BEAUZ Remix\]](https://open.spotify.com/track/5hOlKZBNH1f6YwtIScUvEJ) | [Valntn](https://open.spotify.com/artist/1sdnOXw9epamqw5ERPK8T5), [Sweater Beats](https://open.spotify.com/artist/62Jfwxon19ZOT9eSL6bvtY), [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Trevor Dering](https://open.spotify.com/artist/2CBKZUJVsx1kf3xqanzKSR) | [Cotton Candy Clouds \(feat\. Trevor Dering\) \[BEAUZ Remix\]](https://open.spotify.com/album/646MiF1Ulxw59wxRVO5SmX) | 2:05 |
 
-Snapshot ID: `NzUyMSw4YzBiZjk4OTBmMjM4NjYxMWVhNzM3ZmMzZjExN2VjNmUzY2Y1ZWE1`
+Snapshot ID: `AAAdYYwL+YkPI4ZhHqc3/D8Rfsbjz16l`

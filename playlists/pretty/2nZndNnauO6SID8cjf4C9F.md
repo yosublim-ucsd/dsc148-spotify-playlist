@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nZndNnauO6SID8cjf4C9F.md) - [plain]
 
 > MMG top picks chosen by Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,761 likes - 40 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,760 likes - 40 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/2nZndNnauO6SID8cjf4C9F.md) - [plain]
 | 39 | [MC Hammer](https://open.spotify.com/track/60Zvnyx75hKXeZysWBlEIl) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [The Albert Anastasia EP](https://open.spotify.com/album/64Ag1BoE93IZC1UyFQHKIQ) | 4:00 |
 | 40 | [Money Maker](https://open.spotify.com/track/4aX8n2fDEfOB2JRijB6vXy) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [The Albert Anastasia EP](https://open.spotify.com/album/64Ag1BoE93IZC1UyFQHKIQ) | 2:34 |
 
-Snapshot ID: `NywyYzA1YjhkNTc2ZmFiYWNlZmNhNjdkYTdhNjBmNTVmZTE0NTE5MTJl`
+Snapshot ID: `AAAABywFuNV2+rrO/KZ9p6YPVf4UUZEu`

@@ -1294,7 +1294,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 165225,
       "name": "En C\u00e1mara Lenta",
       "url": "https://open.spotify.com/track/7zwpqUQKWIYQetrh8E3T5g"
@@ -1720,6 +1720,24 @@
       "duration_ms": 247386,
       "name": "Las Joyas De Mi Vida",
       "url": "https://open.spotify.com/track/5920sskaak2DMq8An3I5Jz"
+    },
+    {
+      "album": {
+        "name": "Lejos De Mi Patria",
+        "url": "https://open.spotify.com/album/4dynrrbbGJ1A2GJHz2RomU"
+      },
+      "artists": [
+        {
+          "name": "La Trayectoria de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/6W0JZjdYsh3DBquwYtqlFQ"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251477,
+      "name": "Lejos De Mi Patria",
+      "url": "https://open.spotify.com/track/31Aox0MJgkIlafftLu9KN4"
     },
     {
       "album": {

@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DKm9RA9zpe.md) - [plain]
 | 90 | [idc](https://open.spotify.com/track/36AZDSTxco9AVnKk4PPHZA) | [Moné 모네](https://open.spotify.com/artist/5zav84wOhhcJpvYEOi5tWS) | [JTBC SuperBand Episode 14](https://open.spotify.com/album/4LYM8qCKUgogyBTx1pnVzF) | 5:52 |
 | 91 | [Old And Wise](https://open.spotify.com/track/0Hm0XdBJQRf1TwtF2rBVfm) | [Purple Rain](https://open.spotify.com/artist/4Myaw7YiDO14r4JhxeXIiL) | [JTBC SuperBand Episode 14](https://open.spotify.com/album/4LYM8qCKUgogyBTx1pnVzF) | 7:51 |
 
-Snapshot ID: `MTY4NjgzNTE5OSwwMDAwMDAwMGY4MDkwZmQ5ZTNiYjExNjZhZWJiNWMxZDhiMTYzMGRj`
+Snapshot ID: `ZIsP/wAAAAD4CQ/Z47sRZq67XB2LFjDc`

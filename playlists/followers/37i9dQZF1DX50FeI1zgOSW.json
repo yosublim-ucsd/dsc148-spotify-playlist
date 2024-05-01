@@ -1,5 +1,5 @@
 {
-  "2024-04-30": 10309,
+  "2024-05-01": 10348,
   "date_first_scraped": "2023-05-19",
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Sai Abhyankar",
   "name": "RADAR Tamil",
@@ -4081,6 +4081,24 @@
       "duration_ms": 168945,
       "name": "Rawberry",
       "url": "https://open.spotify.com/track/75G1vgDH5uaNklFyy3hvtn"
+    },
+    {
+      "album": {
+        "name": "Roja Poo Mala",
+        "url": "https://open.spotify.com/album/5i62N7TBuOwbdjVPltBWAh"
+      },
+      "artists": [
+        {
+          "name": "Gana Gowtham",
+          "url": "https://open.spotify.com/artist/4uLvyDqG9a9ar8wk20issC"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225746,
+      "name": "Roja Poo Mala",
+      "url": "https://open.spotify.com/track/7jPBS4dd6Xma0a8GTf2JkA"
     },
     {
       "album": {

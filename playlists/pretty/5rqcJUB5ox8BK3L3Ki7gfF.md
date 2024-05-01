@@ -21,4 +21,4 @@ pretty - [cumulative](/playlists/cumulative/5rqcJUB5ox8BK3L3Ki7gfF.md) - [plain]
 | 11 | [All Good \(feat\. Newkid\)](https://open.spotify.com/track/08PDXzaWUuFRzlgJ6IG67V) | [Lorentz & Sakarias](https://open.spotify.com/artist/2OvrB1ySg1P7YWsiMl7Giu), [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Himlen är som mörkast när stjärnorna lyser starkast](https://open.spotify.com/album/0YY3fFCBmIjhtduKY1004p) | 3:33 |
 | 12 | [Skinny Love](https://open.spotify.com/track/0xJtHBdhpdLuClaSQYddI4) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Skinny Love](https://open.spotify.com/album/4N50QyWU1zcBJBDMsppgHm) | 3:20 |
 
-Snapshot ID: `MTQsZjgzYzM0OTcxMzkxOWJhMzVlZjI2OTcwNDY2YWVjZTc5OGU0ZjAwYw==`
+Snapshot ID: `AAAADvg8NJcTkZujXvJpcEZq7OeY5PAM`

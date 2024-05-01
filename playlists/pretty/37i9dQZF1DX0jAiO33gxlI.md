@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Rincon Sapiência
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,174 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,145 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [Pode Se Envolver](https://open.spotify.com/track/5bIStDozcJatCWbsbh6a8d) | [Slim Rimografia](https://open.spotify.com/artist/4nvBf0lV2z3i1dDtuZjOxp) | [Pode Se Envolver](https://open.spotify.com/album/1YyPwoPQ5TIxUBSWB0O0Sc) | 2:10 |
 | 75 | [Passatempo](https://open.spotify.com/track/3BJjqTDGdozGdUX9fK6hYp) | [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu) | [Passatempo](https://open.spotify.com/album/7dIb6HSPB9LPkZ0bbKaagf) | 2:49 |
 
-Snapshot ID: `MTcxNDEwMDQ2MCwwMDAwMDAwMDA5ZDk4MWY1MDViYzVlNzY2NTc3YjAwZWViYWNhNWRh`
+Snapshot ID: `ZisY7AAAAAAJ2YH1BbxedmV3sA7rrKXa`

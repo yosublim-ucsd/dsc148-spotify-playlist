@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 
 > Relax to acoustic versions of your favorite rock songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 974,279 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 974,300 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 | 49 | [Chocolate \- Acoustic Version](https://open.spotify.com/track/2yyj5YLcGKcddBaQBNsulz) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Sex EP](https://open.spotify.com/album/10CzC8El7gcizNUMFUjAyM) | 3:58 |
 | 50 | [Sweet Disaster \- Acoustic](https://open.spotify.com/track/1LxkuDFjNbWlOcT3LCkR8l) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Sweet Disaster \(Acoustic\)](https://open.spotify.com/album/3bqkh8NHd97KW9Agy0of7Y) | 3:24 |
 
-Snapshot ID: `MTcwNTA4MjM3NiwwMDAwMDAwMDEzMjM3NDM4MTE5MzVlMDg5YTMyMjI4NWJhNzA5YTVm`
+Snapshot ID: `ZaF+CAAAAAATI3Q4EZNeCJoyIoW6cJpf`

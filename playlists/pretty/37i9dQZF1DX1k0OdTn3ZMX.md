@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 
 > nü\-metal revival is happening here and now with P.O.D.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,385 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,513 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 | 49 | [One Chance](https://open.spotify.com/track/49daGksZza7w4YQPn7aeRV) | [BLACKGOLD](https://open.spotify.com/artist/3IWxZuMgQKWrNn1S20D1qa) | [One Chance](https://open.spotify.com/album/2MheuKWB6STo8lJ2zyi1nC) | 3:46 |
 | 50 | [Delusion](https://open.spotify.com/track/77ULrGUHNgSAobFyxObL11) | [DEAR MOTHER](https://open.spotify.com/artist/1i6SXeSvmfhKqHTAxQx5rg) | [Necessary Darkness](https://open.spotify.com/album/3F9I77amZjv9FRrCBoe4zE) | 3:47 |
 
-Snapshot ID: `MTcxNDEwNDA2MCwwMDAwMDAwMDNiMmUyNWU5NWUxYmNmYzFiZDdmNTkxMDRjMjVjMzhh`
+Snapshot ID: `Zism/AAAAAA7LiXpXhvPwb1/WRBMJcOK`

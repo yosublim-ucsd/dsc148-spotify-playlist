@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: Knocked Loose & Poppy
 
-[Spotify](https://open.spotify.com/user/spotify) - 709,283 likes - 60 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 709,282 likes - 60 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 3 | [Action! Not Words \- Rough Mix Version](https://open.spotify.com/track/0AQpu60F021SyCDGsLiLH5) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Pyromania \(Super Deluxe\)](https://open.spotify.com/album/75QVg7IDnVXir5SDsZXGMB) | 4:10 |
 | 4 | [Bleeders](https://open.spotify.com/track/3KprCokhFBVLLGyQVu5XaN) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Bleeders](https://open.spotify.com/album/3U2tS7mIbIbj3Vg7lREEOc) | 4:34 |
 | 5 | [Spiral \(Justice\)](https://open.spotify.com/track/3f95iIG1WUugaLqDlYJKUy) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Spiral \(Justice\)](https://open.spotify.com/album/5mqAL0DGoGcOgd5S65LqYy) | 3:16 |
-| 6 | [Medicate Me \(feat\. Dayseeker\)](https://open.spotify.com/track/1EusMjYm7PZftlZn87vPWE) | [Rain City Drive](https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7), [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Medicate Me \(feat\. Dayseeker\)](https://open.spotify.com/album/5IVuTn7LffwxIzCx2Ii3Bp) | 2:47 |
+| 6 | [Medicate Me](https://open.spotify.com/track/1EusMjYm7PZftlZn87vPWE) | [Rain City Drive](https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7), [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Medicate Me](https://open.spotify.com/album/5IVuTn7LffwxIzCx2Ii3Bp) | 2:47 |
 | 7 | [Frankenstein](https://open.spotify.com/track/1Z1HcQkT4nwp5A5FVircal) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Frankenstein](https://open.spotify.com/album/7EZhg2zWZkIQa0hDYnj868) | 4:14 |
 | 8 | [Elevate](https://open.spotify.com/track/5xSUwN5ZFBuoLWV4UnWVta) | [Born Of Osiris](https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt) | [Elevate](https://open.spotify.com/album/3Nmi023OjclW3imkrnGXuG) | 3:13 |
 | 9 | [The Apostate](https://open.spotify.com/track/43prVGcPa8NSVXShxTeLwe) | [Rotting Christ](https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ) | [The Apostate](https://open.spotify.com/album/3EomF1WCBWvzJ7LcADuI05) | 5:01 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 50 | [PARAS!TE](https://open.spotify.com/track/0EErE0B3oJVfwnAW1gEbjJ) | [Awake Again](https://open.spotify.com/artist/2dwdtOjnNg7wIZoUpPjY5m) | [A Promise of Better Days](https://open.spotify.com/album/5mTSz82dwm0REGfj4QdJUA) | 3:18 |
 | 51 | [Clout Chaser](https://open.spotify.com/track/6j3EEJcl9cRAjqJqml7Weq) | [ACxDC](https://open.spotify.com/artist/7duxL9B1FGhyVngPJzMJpt), [Elliot Morrow](https://open.spotify.com/artist/1gYCosVNQfdoNjqGK92iOS) | [G.O.A.T.](https://open.spotify.com/album/59wygLsGZ7PGnxoZvOujQU) | 1:24 |
 | 52 | [Ro](https://open.spotify.com/track/0PLlt8c9uwpfsvqVOvUTxO) | [Wormwood](https://open.spotify.com/artist/2CltEmcrT4ypj6WxaBej5c) | [Ro](https://open.spotify.com/album/22KkGoDnvWopgMDAficdbq) | 10:11 |
-| 53 | [You Can't Kill Me](https://open.spotify.com/track/7gg77ywX9Y0n6NPIIETWus) | [Fallbrawl](https://open.spotify.com/artist/18wR81FdOtaNaA5LW22GaP), [Paleface Swiss](https://open.spotify.com/artist/6Ms6d5LeChr270J2jRTEUb) | [You Can't Kill Me](https://open.spotify.com/album/4Py8B7e3C250JIyIzKdIAb) | 3:46 |
+| 53 | [You Can't Kill Me](https://open.spotify.com/track/7gg77ywX9Y0n6NPIIETWus) | [Fallbrawl](https://open.spotify.com/artist/18wR81FdOtaNaA5LW22GaP), [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [You Can't Kill Me](https://open.spotify.com/album/4Py8B7e3C250JIyIzKdIAb) | 3:46 |
 | 54 | [And The Mirror Cracked](https://open.spotify.com/track/4tyJoCt91o1imfOEFcdzCF) | [Disillusion](https://open.spotify.com/artist/0WB89hYs9ZY6HpuK59lJIQ) | [Back to Times of Splendor \- EP](https://open.spotify.com/album/4WkmUufgOqsE35z6VaQnCF) | 8:27 |
 | 55 | [A Pact Unholy](https://open.spotify.com/track/4MBmYj5gVW2Whs5JcJencD) | [Cognitive](https://open.spotify.com/artist/0Hlqz8aUm8vneFH4NFxepf) | [A Pact Unholy](https://open.spotify.com/album/4qIQgVLQaWBfvbUu3KyYZE) | 3:25 |
 | 56 | [Cursed To Nothing But Patience](https://open.spotify.com/track/4vGTvHETrahcOWG731AgTy) | [Arð](https://open.spotify.com/artist/4S2dRXa3gZiBerZ0L4aGUe) | [Cursed To Nothing But Patience](https://open.spotify.com/album/2K2k941ygiWZxeOgi0h0sD) | 9:11 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 59 | [Spectre](https://open.spotify.com/track/2KAcLzH1Z5UQ3ZKBnVwZ9m) | [SiX BY SiX](https://open.spotify.com/artist/45wuUMkDtCGWwyDn4kh0TC) | [Beyond Shadowland](https://open.spotify.com/album/4WFBHXfXZFzMgGKFvgkOmk) | 3:59 |
 | 60 | [Decapitator \(Live\)](https://open.spotify.com/track/3ysE8sMfXYLqGPgwYNWuai) | [Triumph of Death](https://open.spotify.com/artist/0VX4XhUk0zxEqpCO3oe2PJ) | [Decapitator \(Live In Houston, Texas 2023\)](https://open.spotify.com/album/3RdgrX3A2GPsKyfm65AdNL) | 2:04 |
 
-Snapshot ID: `MTcxNDEwNDAwMCwwMDAwMDAwMDQ5MzAxOGI4NTIyYWFmZDFjZTdlYjZiNjI3M2U3ZGM4`
+Snapshot ID: `ZismwAAAAABJMBi4Uiqv0c5+trYnPn3I`

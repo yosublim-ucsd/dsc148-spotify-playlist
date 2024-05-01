@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/7wiCMbRM2F6PQYGLwnJ7GJ.md) - [plain]
 | 37 | [Confident](https://open.spotify.com/track/65xGo48KiS0ONsGo9KrI66) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Confident](https://open.spotify.com/album/6aNHJClUdo0x0DPUseI6gq) | 4:08 |
 | 38 | [Ready for the Weekend](https://open.spotify.com/track/5a5m24wvvTRBeFDWbWKhE3) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [THIS IS..\. ICONA POP](https://open.spotify.com/album/0H5CjpfXeCeWlfyBRI9Kid) | 2:42 |
 
-Snapshot ID: `MTQzLDZiMmUxMGVhNGExODNjMjg0MjY4OWM0NDFkMzQ4ODQwNTllNDljNWY=`
+Snapshot ID: `AAAAj2suEOpKGDwoQmicRB00iEBZ5Jxf`

@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/6juf9A1KL8naPZFa2YngsM.md) - [plain]
 | 24 | [You Will Be Loved Again](https://open.spotify.com/track/1WPgIbYONt8j7804FMVyka) | [The Peggy Lee Band](https://open.spotify.com/artist/1hlImRLr5wgG7I8nPQ0ZnE) | [Invitation](https://open.spotify.com/album/6FAkbfW9fMwzR6hWCGDA7r) | 4:17 |
 | 25 | [Diamonds And Pearls](https://open.spotify.com/track/5IZ9bSLdTQlh3bFevTcnnl) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [January](https://open.spotify.com/album/5nizuls1o8fJQ0S5xR3WZM) | 5:45 |
 
-Snapshot ID: `NTEsZjM5YjM4NmE3NTMyM2JlYmM3YmU2OGM0ZWFhYTk2ODdkZjBhMzY2ZA==`
+Snapshot ID: `AAAAM/ObOGp1Mjvrx75oxOqqloffCjZt`

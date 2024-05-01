@@ -28,4 +28,4 @@ pretty - [cumulative](/playlists/cumulative/5FJw9Ub8bn4QHeM5URBAWZ.md) - [plain]
 | 18 | [Drunk Walk Home](https://open.spotify.com/track/0r7UEhhOH1DJQYVPJ1NwOQ) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bury Me At Makeout Creek](https://open.spotify.com/album/472GvzwE3EZ0i2EEaly5mX) | 2:35 |
 | 19 | [\(I'd Go The\) Whole Wide World](https://open.spotify.com/track/3FkP6u9dRgH1sJtlCoy7bB) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [Pool It!](https://open.spotify.com/album/3PAXAQRjNdu46OTGgnrGpG) | 2:56 |
 
-Snapshot ID: `MjAsNGFhMjE0YWVkOWUxOTAxMTY5NWExMjNhYzNmYzM0MWFlODAxOTk1Mw==`
+Snapshot ID: `AAAAFEqiFK7Z4ZARaVoSOsP8NBroAZlT`

@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/0EzAAkPQtUY7rrbXN8iydd.md) - [plain]
 | 43 | [Wage Wars Get Rich Die Handsome](https://open.spotify.com/track/0xrvkq5EEpHZWKmacINtuh) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Wage Wars Get Rich Die Handsome](https://open.spotify.com/album/1NwWEsaGkDshr7vA7uOOlN) | 2:30 |
 | 44 | [Training Montage](https://open.spotify.com/track/5iRsq1n0jQSA2Cyk9KZayI) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Wage Wars Get Rich Die Handsome](https://open.spotify.com/album/1NwWEsaGkDshr7vA7uOOlN) | 4:28 |
 
-Snapshot ID: `NDQsN2IzZWFhN2VhZWZjMWNmNDE2YTRmZTEwNWU4NDZjOWQ1OWI3MzM3MA==`
+Snapshot ID: `AAAALHs+qn6u/Bz0FqT+EF6EbJ1ZtzNw`

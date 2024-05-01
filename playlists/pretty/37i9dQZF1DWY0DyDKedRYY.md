@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 > The most exciting new music, featuring Tucker Wetmore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,749 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,720 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 | 49 | [Good Stuff](https://open.spotify.com/track/15uPQvxN5wjdpO8THuhuNP) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh) | [One Million Love Songs](https://open.spotify.com/album/6ktuNkWlfl4kh4Nf6GLBDP) | 3:03 |
 | 50 | [Obvious](https://open.spotify.com/track/5qN9j62fq0YbWQd57bzf0U) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [Obvious](https://open.spotify.com/album/1pd5hBZ4YjFENk3HedtdZt) | 3:29 |
 
-Snapshot ID: `MTcxMzE4ODUwMiwwMDAwMDAwMDk4NWEzZDY2NWE2ZTQzNmE0MWQwNDAyMWM2Yjk3OGM4`
+Snapshot ID: `Zh0ulgAAAACYWj1mWm5DakHQQCHGuXjI`

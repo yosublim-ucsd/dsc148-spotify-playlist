@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/27hnSuEcFg6wr5C5t3J5eL.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 433 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 432 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/27hnSuEcFg6wr5C5t3J5eL.md) - [plain]
 | 49 | [Gin And Juice \(feat\. Dat Nigga Daz\)](https://open.spotify.com/track/0WKYRFtH6KKbaNWjsxqm70) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Daz Dillinger](https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4) | [Doggystyle](https://open.spotify.com/album/7f9KDGqY7X2VLBM5aA66KM) | 3:31 |
 | 50 | [Never Lie](https://open.spotify.com/track/62utntNdsx80hraXA5ha0Q) | [Immature](https://open.spotify.com/artist/4XDxFeclKBCFPb30yQlRUH) | [Playtyme Is Over](https://open.spotify.com/album/0d4d4zjBNWxA0qLZS83GVW) | 4:13 |
 
-Snapshot ID: `Myw5NzM2ZmY1NjgzNzRjZDIzOWFkMWI3YjVmY2U5ZTA1NGI0MTU1ZGVl`
+Snapshot ID: `AAAAA5c2/1aDdM0jmtG3tfzp4FS0FV3u`

@@ -2,7 +2,7 @@
 
 ### [This Is imase](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2RWBWx)
 
-> This Is imase\. Los temas esenciales, todos en una lista.
+> This is: imase\. Alle wichtigen Tracks in einer Playlist.
 
 23 songs - 1 hr 19 min
 

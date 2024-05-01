@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/7dRuhLsXe96SgjYtPvMEcL.md) - [plain]
 | 27 | [Bruises](https://open.spotify.com/track/4mdyVTV7Tr5YDFnD2kvSM4) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Does You Inspire You](https://open.spotify.com/album/3JuIBAoHi6gUmS3tgF4CPg) | 4:01 |
 | 28 | [Surrounded by Your Friends](https://open.spotify.com/track/3FN6J8ChXjMK0XQ2WKocWX) | [Hooray For Earth](https://open.spotify.com/artist/6nWFpsxlVUMJW6epD1DAan) | [MOMO](https://open.spotify.com/album/1hR1sAVMY4kYKWYbBkyT5V) | 3:24 |
 
-Snapshot ID: `MTMsODZiMGFlOTZhMzAwMGYzNjczMTJkZDI2NmYyNWYxZjA5ODc2YjQxMw==`
+Snapshot ID: `AAAADYawrpajAA82cxLdJm8l8fCYdrQT`

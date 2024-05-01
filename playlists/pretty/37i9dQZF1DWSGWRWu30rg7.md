@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  Abe Lubis
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,080 likes - 90 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,070 likes - 90 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 89 | [Man Against The Moon](https://open.spotify.com/track/5Ll0QRcEWVkPGhvSsjVlGU) | [MERAK](https://open.spotify.com/artist/2Q9Lb3zljHgEJWCRyu6QcD) | [Man Against The Moon](https://open.spotify.com/album/3H7aA8Zw6WP8kbq77l1Ylh) | 4:10 |
 | 90 | [VAIN](https://open.spotify.com/track/1JpQCtR3TSYuGPSLy7pOro) | [Dylan Pearce](https://open.spotify.com/artist/7KKvQnTOtvJJITks84EYjx), [Xyanu](https://open.spotify.com/artist/06dzWNEeA2LYjFwJSZ4iOl) | [VAIN](https://open.spotify.com/album/2khAO9DfFEaANmDXsmqezU) | 3:51 |
 
-Snapshot ID: `MTcxNDEwNDAwMCwwMDAwMDAwMDY2ZWFkMGFkMGE3Y2I2MGEyNGQxNzg5NjViYjM3YjU3`
+Snapshot ID: `ZismwAAAAABm6tCtCny2CiTReJZbs3tX`

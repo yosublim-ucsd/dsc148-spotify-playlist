@@ -190,4 +190,4 @@ pretty - [cumulative](/playlists/cumulative/6MtNKlWguIlTJ6Q7WAcDtU.md) - [plain]
 | 180 | [Crazy for Now](https://open.spotify.com/track/6mb8lSO21puiutnP0QaiKa) | [Jason Jones](https://open.spotify.com/artist/32TM9Rz05jQBV9h1V178Uw) | [Jason Jones](https://open.spotify.com/album/5apOZ3JDvEziu7IpOZHe81) | 3:50 |
 | 181 | [Luckenback, Texas \(Back To The Basics Of Love\)](https://open.spotify.com/track/358es0yw75vcLpITtaZVjX) | [Radney Foster](https://open.spotify.com/artist/5g9qBduN6VR3dzHA8eCTEW), [Roger Creager](https://open.spotify.com/artist/1DyywGnuzXGEzlZMXBcc0j) | [Texas Fed, Texas Bred: Redefining Country Music, Vol\. 1](https://open.spotify.com/album/23zJXehAqFqSjWOHX3dcra) | 4:31 |
 
-Snapshot ID: `NDAsNzZlZTM4MmVkOGJiNjUyOWRlNTlhZTc5NjE5OTI1OTlkYzRmMWNjMw==`
+Snapshot ID: `AAAAKHbuOC7Yu2Up3lmueWGZJZncTxzD`

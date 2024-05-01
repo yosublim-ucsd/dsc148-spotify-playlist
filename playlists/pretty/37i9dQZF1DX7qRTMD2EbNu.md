@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: Free The youth
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,524 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,565 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 79 | [Odoyewu](https://open.spotify.com/track/3Nidip6EU716wV8YrByf9C) | [B.Brefo](https://open.spotify.com/artist/5gWzR7oAi40m2VBOgGAtkv) | [Odoyewu](https://open.spotify.com/album/4e9TAxvTG5hksWplHtqo4j) | 2:51 |
 | 80 | [Suffer Get](https://open.spotify.com/track/0x6bFjcw9BxBUTkbyKfpMV) | [Twitch 4EVA](https://open.spotify.com/artist/1U9hi0kw9OcJiw7xvwE6go) | [Suffer Get](https://open.spotify.com/album/6Jxs8nw9G2zNLYEXgP1PTR) | 2:25 |
 
-Snapshot ID: `MTcxNDA4OTY2MCwwMDAwMDAwMGI1YzNmYWEyZWZmODNmYzA1ZjBhOTMxNzNlODRmMzkz`
+Snapshot ID: `ZiruvAAAAAC1w/qi7/g/wF8Kkxc+hPOT`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42rTd7wQPNO.md) - [plain]
 
 > The soundtrack to your weekend in the desert, curated by our favorite Coastal Cowgirl Daisy Kent
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,953 likes - 131 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,221 likes - 131 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42rTd7wQPNO.md) - [plain]
 | 130 | [Long Haul](https://open.spotify.com/track/7nERlpaH7QghaO7jC60Xtu) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Coyote Cry](https://open.spotify.com/album/5uQt9PVJIZvYjOL43EkOId) | 3:51 |
 | 131 | [Leaning On You](https://open.spotify.com/track/1BsEKaermhlrzSQpouxlmM) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:21 |
 
-Snapshot ID: `MTcxMzU1MzI5NSwwMDAwMDAwMDM4NjQ1NDU1YjBiYmI3MmViNjM0OWIxM2YyYTMwZGI5`
+Snapshot ID: `ZiK/jwAAAAA4ZFRVsLu3LrY0mxPyow25`

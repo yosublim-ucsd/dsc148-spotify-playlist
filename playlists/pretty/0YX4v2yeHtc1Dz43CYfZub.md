@@ -20,4 +20,4 @@ pretty - [cumulative](/playlists/cumulative/0YX4v2yeHtc1Dz43CYfZub.md) - [plain]
 | 10 | [Avalanche \(Slow\)](https://open.spotify.com/track/3DNqd6qoi8mwe0ROgQupP7) | [Zola Jesus](https://open.spotify.com/artist/78OKNrjc3BvniYTqvpOp6P), [JG Thirlwell](https://open.spotify.com/artist/50ltjTwfFz7h59pSAvxJeB), [Mivos Quartet](https://open.spotify.com/artist/4K3g1qJ73PGZgIQgAcgjQj) | [Versions](https://open.spotify.com/album/0A9pNEPGVCvpdgD7zYEck1) | 4:55 |
 | 11 | [Hallogallo](https://open.spotify.com/track/5ten0WtejUB4F0lGVFStyE) | [NEU!](https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf) | [NEU!](https://open.spotify.com/album/217KPSzsO021HXtXJI2G11) | 10:07 |
 
-Snapshot ID: `OCxjZTNkY2Q3YTYxZTYzMTlkODA2NDRlMmVlNmE4NGE5OTY4NDNlNTcw`
+Snapshot ID: `AAAACM49zXph5jGdgGROLuaoSploQ+Vw`

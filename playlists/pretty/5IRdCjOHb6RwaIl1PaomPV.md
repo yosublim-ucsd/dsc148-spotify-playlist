@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. New music from Kito &amp; Chrome Sparks, plus the latest cuts from Snow Strippers, evilgiane, and more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,725 likes - 100 songs - 5 hr 16 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,722 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 | 99 | [Rockin My World](https://open.spotify.com/track/6HW2JkmIH0XbAdG2hrQY2n) | [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Intercession Before Charlotte](https://open.spotify.com/album/5eT8m1zk15Bbb0FeyAZB49) | 3:01 |
 | 100 | [Set Me Free, I’m an Animal](https://open.spotify.com/track/7pgFijqqgOgTiTsy64oCZm) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Set Me Free, I'm an Animal](https://open.spotify.com/album/3qMQ2uQGoDllUYlW4jGV2h) | 3:36 |
 
-Snapshot ID: `NjQ2NixhNDZlMDk0MjNhZTkxODEyZDUzMjY5OWQ1MzU5YzgwZDY2NzhlZTUz`
+Snapshot ID: `AAAZQqRuCUI66RgS1TJpnVNZyA1meO5T`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 
 > Turn this on, and relax to certified good chill indie and beyond.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,466,144 likes - 140 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,465,937 likes - 140 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 | 139 | [Float](https://open.spotify.com/track/7MOy3ezBGiYpvc2jBwXZ3m) | [The Altons](https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu) | [Float](https://open.spotify.com/album/1dtZKbO951kCjsBPSEvw95) | 4:00 |
 | 140 | [Satellites](https://open.spotify.com/track/67zg0RXCLGmf934W2H2ooM) | [Chartreuse](https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW), [Orlando Weeks](https://open.spotify.com/artist/5K9Px0eeCuYatmBGFfhSOA) | [Satellites](https://open.spotify.com/album/5wvHPnrNyTIQmZuqEPUgLO) | 4:00 |
 
-Snapshot ID: `MTcxMjg5NDQwMCwwMDAwMDAwMGY1YTk2MmFkMzU0Nzk1YmRkNDBiMTRhZWQwNWM2ZmI3`
+Snapshot ID: `ZhixwAAAAAD1qWKtNUeVvdQLFK7QXG+3`

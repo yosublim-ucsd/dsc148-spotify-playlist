@@ -1,31 +1,31 @@
 {
   "description": "The newest Hip-Hop, refreshed weekly. Cover: JT",
-  "num_followers": 8129,
+  "num_followers": 8136,
   "original_name": "All New Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDEwNDAwMCwwMDAwMDAwMGY4MjY1NmVhYzNhN2ZmMGVhNzg0MWI1YjZhYWE4YWY3",
+  "snapshot_id": "ZjFBTAAAAABobwUFvARBgrs4c6A73w05",
   "tracks": [
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-30 19:06:52",
       "album": {
-        "name": "OKAY",
-        "url": "https://open.spotify.com/album/7AmtY0qyLuqkGXYu7lOLjL"
+        "name": "euphoria",
+        "url": "https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN"
       },
       "artists": [
         {
-          "name": "JT",
-          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 164074,
-      "name": "OKAY",
-      "url": "https://open.spotify.com/track/0e1KTuawmiFLiK0Lh3nNtM"
+      "duration_ms": 383639,
+      "name": "euphoria",
+      "url": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-30 19:06:52",
       "album": {
         "name": "Push Ups",
         "url": "https://open.spotify.com/album/06me0leRR3AuF4IFiEytml"
@@ -41,7 +41,23 @@
       "url": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-30 19:06:52",
+      "album": {
+        "name": "OKAY",
+        "url": "https://open.spotify.com/album/7AmtY0qyLuqkGXYu7lOLjL"
+      },
+      "artists": [
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "duration_ms": 164074,
+      "name": "OKAY",
+      "url": "https://open.spotify.com/track/0e1KTuawmiFLiK0Lh3nNtM"
+    },
+    {
+      "added_at": "2024-04-30 19:06:52",
       "album": {
         "name": "KNOCKA",
         "url": "https://open.spotify.com/album/1Yd0XLd4MGjZfp4gQ9hVda"
@@ -57,7 +73,7 @@
       "url": "https://open.spotify.com/track/7hBZnHzSqQxBi4KoMoiWfx"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-30 19:06:52",
       "album": {
         "name": "Cry No More (feat. Stormzy & Tay Keith)",
         "url": "https://open.spotify.com/album/33hSbrSSZZfaXtmEnphHgG"
@@ -81,7 +97,7 @@
       "url": "https://open.spotify.com/track/1RAwKDC2VKpxLy6es0KZTJ"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-30 19:06:52",
       "album": {
         "name": "Back To Back (feat. Future & Southside)",
         "url": "https://open.spotify.com/album/4nOq0yHDsHVyxBTXjTgKZD"
@@ -105,7 +121,7 @@
       "url": "https://open.spotify.com/track/4VS68hFMSdb6adNtXIBGIz"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-30 19:06:52",
       "album": {
         "name": "Champagne Moments",
         "url": "https://open.spotify.com/album/2Nu6FUe5OFNFVDBtGPoR8E"
@@ -121,7 +137,7 @@
       "url": "https://open.spotify.com/track/3pD67h2Hd1Jd1pMZFYVXHC"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-30 19:06:52",
       "album": {
         "name": "HOMAGE (feat. Kodak Black)",
         "url": "https://open.spotify.com/album/7BUO6iB8gQ0bOeLBSNMvQv"
@@ -141,7 +157,7 @@
       "url": "https://open.spotify.com/track/7d385YmjS53AFzloIRmfL9"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-30 19:06:52",
       "album": {
         "name": "FTCU (SLEEZEMIX)",
         "url": "https://open.spotify.com/album/71bR0ikZ38YGg6RDwhYiU2"
@@ -169,7 +185,7 @@
       "url": "https://open.spotify.com/track/2oTFuT1tKLHlTJsnBSJJiN"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-30 19:06:52",
       "album": {
         "name": "Show Off",
         "url": "https://open.spotify.com/album/2BBUWFsbsrP2u0HRjNjfQ2"
@@ -185,7 +201,7 @@
       "url": "https://open.spotify.com/track/2DDvCHlhzgslY0hUQS5JGR"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-30 19:06:52",
       "album": {
         "name": "WE STILL DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP"
@@ -209,7 +225,7 @@
       "url": "https://open.spotify.com/track/6J9ULUfgdVZfWnofbtLkfh"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-30 19:06:52",
       "album": {
         "name": "Famous Girl",
         "url": "https://open.spotify.com/album/45wtTSPu9kEpYp0CQjYtWF"
@@ -225,7 +241,7 @@
       "url": "https://open.spotify.com/track/62KYfsqveMHjmwZbU69OH7"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-30 19:06:52",
       "album": {
         "name": "Might Delete Later",
         "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
@@ -241,7 +257,7 @@
       "url": "https://open.spotify.com/track/1yfKakY4rvI17lk20ekuRA"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-30 19:06:52",
       "album": {
         "name": "Luke's View",
         "url": "https://open.spotify.com/album/6T2kT5B08MBR8hinkL33IG"
@@ -257,7 +273,7 @@
       "url": "https://open.spotify.com/track/3kbZZTCsqBdJFfQAYCYdPb"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-30 19:06:52",
       "album": {
         "name": "Best For Me",
         "url": "https://open.spotify.com/album/5XhWXulYKeVMBHXLxGZN44"
@@ -277,7 +293,7 @@
       "url": "https://open.spotify.com/track/3rZgLwQOX9N2up8JQhKi61"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-30 19:06:52",
       "album": {
         "name": "3 Words, 8 Letters (Deluxe)",
         "url": "https://open.spotify.com/album/7EqanwvZAYatBvIjswwWiM"
@@ -293,7 +309,7 @@
       "url": "https://open.spotify.com/track/1ebg0yVS5GNqij8WWznfyu"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-30 19:06:52",
       "album": {
         "name": "WE STILL DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP"
@@ -317,7 +333,7 @@
       "url": "https://open.spotify.com/track/0cGn4vxyoBftN61XUv2aQk"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-30 19:06:52",
       "album": {
         "name": "Stay Awhile",
         "url": "https://open.spotify.com/album/0tfkIiHMLsE0aJTR38Yq6i"
@@ -337,7 +353,7 @@
       "url": "https://open.spotify.com/track/0AXquxdT6Twsrc0qIYXbJd"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-30 19:06:52",
       "album": {
         "name": "Define My Name",
         "url": "https://open.spotify.com/album/5nabWI5Yf9uYtDS79CXVHu"
@@ -357,7 +373,7 @@
       "url": "https://open.spotify.com/track/4LDx21eeTurv7b1slX4rFl"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-30 19:06:52",
       "album": {
         "name": "PRINCESS POP THAT",
         "url": "https://open.spotify.com/album/0aMQ5jGWMxqIOB5JjhOU3a"
@@ -373,7 +389,7 @@
       "url": "https://open.spotify.com/track/3VVi7ffS2iJYvfGhvzbyqD"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-30 19:06:52",
       "album": {
         "name": "Precision",
         "url": "https://open.spotify.com/album/1DNvuu85Qyu95qxWCY8jTO"
@@ -389,7 +405,7 @@
       "url": "https://open.spotify.com/track/0jYYthUDGsJrYMCrtdHYtJ"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-30 19:06:52",
       "album": {
         "name": "L'Angelo del Male",
         "url": "https://open.spotify.com/album/6hv38luXAPIi4ieI63KfFb"
@@ -409,7 +425,7 @@
       "url": "https://open.spotify.com/track/162P3KqGAc1bPwk6ZBfrpY"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-30 19:06:52",
       "album": {
         "name": "Let's Go (Remix)",
         "url": "https://open.spotify.com/album/1Ecv7ghGqYhfdQzYZnOgG2"
@@ -429,7 +445,7 @@
       "url": "https://open.spotify.com/track/55i5Hdv7VkcQtXCn1zyvKg"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-30 19:06:52",
       "album": {
         "name": "TakeDat",
         "url": "https://open.spotify.com/album/0QGR0lxeErBfwbuYFDGsFx"
@@ -445,7 +461,7 @@
       "url": "https://open.spotify.com/track/6fJCA6KjZLUHb87LV62hVT"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-30 19:06:52",
       "album": {
         "name": "Suffer In Silence",
         "url": "https://open.spotify.com/album/1qJghQpnRM2sRbhX3lWXHz"
@@ -461,7 +477,7 @@
       "url": "https://open.spotify.com/track/0gkV6O56gE1siaDAJenaLZ"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-30 19:06:52",
       "album": {
         "name": "Kelowna",
         "url": "https://open.spotify.com/album/4j0rUtyuBfQUixdyPR29IB"
@@ -477,7 +493,7 @@
       "url": "https://open.spotify.com/track/4qQXyneWW84vaXPQwQ6ctt"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-30 19:06:52",
       "album": {
         "name": "Bless",
         "url": "https://open.spotify.com/album/5J380O739v6VvloJG1Vg5n"
@@ -501,7 +517,7 @@
       "url": "https://open.spotify.com/track/2FI2cZGlZ1nmRt2IkjnoMi"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-30 19:06:52",
       "album": {
         "name": "head.rap (ft. Madison McFerrin, Ogi, Jordan Ward)",
         "url": "https://open.spotify.com/album/0u3PlMuxnHdhKTuKnPnDWL"
@@ -533,7 +549,7 @@
       "url": "https://open.spotify.com/track/5RlDYfphEpQaft5JDQfQko"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-30 19:06:52",
       "album": {
         "name": "Femme Fatale (feat. Coi Leray & Kaliii)",
         "url": "https://open.spotify.com/album/2S0pVYtrczvAfcw8d8BHUc"
@@ -557,7 +573,7 @@
       "url": "https://open.spotify.com/track/3kFRPjcHAlQrfHytP6kR61"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-30 19:06:52",
       "album": {
         "name": "Rio Grande",
         "url": "https://open.spotify.com/album/1KQNMs6pSnaIuyBVi3r0Gh"
@@ -573,7 +589,7 @@
       "url": "https://open.spotify.com/track/2mqYYL6mGOyvmyhfwk9zmi"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-30 19:06:52",
       "album": {
         "name": "Ehhthang Ehhthang",
         "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
@@ -593,7 +609,7 @@
       "url": "https://open.spotify.com/track/7mOC6phfrfz3jfigg1aGsE"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-30 19:06:52",
       "album": {
         "name": "Giants Of The Fall",
         "url": "https://open.spotify.com/album/0Je2clWtq4qMFi00s0bGpH"
@@ -617,7 +633,7 @@
       "url": "https://open.spotify.com/track/57RzX9szVUX5gsfPQNc72M"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-30 19:06:52",
       "album": {
         "name": "That's All, That's It",
         "url": "https://open.spotify.com/album/1oalRkbONNcLrFFN7jDfvG"
@@ -637,7 +653,7 @@
       "url": "https://open.spotify.com/track/3rbiKvmWjsDcuEobPjVOuY"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-30 19:06:52",
       "album": {
         "name": "Stush",
         "url": "https://open.spotify.com/album/1LIsi3N1n8ukUCpui4UtBW"
@@ -657,23 +673,7 @@
       "url": "https://open.spotify.com/track/4yKqmCY6k6HxyDXdMurC28"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "44ever",
-        "url": "https://open.spotify.com/album/3l1waWo8qk4IVtyuzKD4bx"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        }
-      ],
-      "duration_ms": 115819,
-      "name": "44ever",
-      "url": "https://open.spotify.com/track/40DarBiyfVPEC6OQid9jv6"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-30 19:06:52",
       "album": {
         "name": "RATED M",
         "url": "https://open.spotify.com/album/2MJUzyBiMUcB337R8FqOVB"
@@ -689,7 +689,7 @@
       "url": "https://open.spotify.com/track/3yPNKo4aZFo1zUcQTLoAPs"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-30 19:06:52",
       "album": {
         "name": "R.I.C.O.",
         "url": "https://open.spotify.com/album/67YBVlnEXCvoBsr6lSI231"
@@ -709,7 +709,7 @@
       "url": "https://open.spotify.com/track/1xwwiCARYUFeKtmPoT048O"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-30 19:06:52",
       "album": {
         "name": "The Coldest",
         "url": "https://open.spotify.com/album/0V2BZLpJjyk4eey1BOC9st"
@@ -729,7 +729,7 @@
       "url": "https://open.spotify.com/track/2VIVXA60Iqi3PWKeaifYR7"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-30 19:06:52",
       "album": {
         "name": "FAMOUS.",
         "url": "https://open.spotify.com/album/4JeveqBfuL7HgGLuCns8hG"
@@ -745,7 +745,7 @@
       "url": "https://open.spotify.com/track/3wB3bTTyrU0C3wnuNLLDRt"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-30 19:06:52",
       "album": {
         "name": "Wait",
         "url": "https://open.spotify.com/album/0XD3rUpXYK4MMhOFJFFKIh"
@@ -769,7 +769,7 @@
       "url": "https://open.spotify.com/track/7GiqRi0aUGWCzasSUNfOyl"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-30 19:06:52",
       "album": {
         "name": "Dennis Daughter (Deluxe Version)",
         "url": "https://open.spotify.com/album/3ey0JVQZp7VBFWHEs7z6X1"
@@ -785,7 +785,7 @@
       "url": "https://open.spotify.com/track/4l7iSP0OBLK2qfxpJ4SzLZ"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-30 19:06:52",
       "album": {
         "name": "Yes, I\u2019m Sad (More Therapy) [Deluxe]",
         "url": "https://open.spotify.com/album/5Dh3UotXHFlJnJLAdtSsbQ"
@@ -801,7 +801,7 @@
       "url": "https://open.spotify.com/track/52jt47ioeyedpNFEzXcRQT"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-30 19:06:52",
       "album": {
         "name": "Who Decides War",
         "url": "https://open.spotify.com/album/7eadCbsmeguNADwk91fHM2"
@@ -821,7 +821,7 @@
       "url": "https://open.spotify.com/track/043OcdbUW2bCfxH3zgxIDj"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-30 19:06:52",
       "album": {
         "name": "DON'T GROW UP TOO SOON",
         "url": "https://open.spotify.com/album/31DPAfBVeHDM3bTxc5wI2v"
@@ -849,7 +849,23 @@
       "url": "https://open.spotify.com/track/5G8y6DhzM6YMorFC0rh8RK"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-30 19:06:52",
+      "album": {
+        "name": "BBE",
+        "url": "https://open.spotify.com/album/4P15AVqGcbL9zWTZ03EBfC"
+      },
+      "artists": [
+        {
+          "name": "Snotty Nose Rez Kids",
+          "url": "https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "BBE",
+      "url": "https://open.spotify.com/track/1C4sXv58De3qibMjjPyNaB"
+    },
+    {
+      "added_at": "2024-04-30 19:06:52",
       "album": {
         "name": "Supply & Demand",
         "url": "https://open.spotify.com/album/3ApvAZdo5jth2o0jb8Z7bO"
@@ -869,7 +885,7 @@
       "url": "https://open.spotify.com/track/6kxQ5mO8YEIRLcIHJKWWcU"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-30 19:06:52",
       "album": {
         "name": "Woah",
         "url": "https://open.spotify.com/album/5iLz5wK66OytSzwEhofKS4"
@@ -893,23 +909,7 @@
       "url": "https://open.spotify.com/track/7nVMc3yvUE5B2QjFzHVTHg"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "BBE",
-        "url": "https://open.spotify.com/album/4P15AVqGcbL9zWTZ03EBfC"
-      },
-      "artists": [
-        {
-          "name": "Snotty Nose Rez Kids",
-          "url": "https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5"
-        }
-      ],
-      "duration_ms": 162580,
-      "name": "BBE",
-      "url": "https://open.spotify.com/track/1C4sXv58De3qibMjjPyNaB"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-30 19:06:52",
       "album": {
         "name": "Scarlet 2 CLAUDE",
         "url": "https://open.spotify.com/album/2IUoE0jqkViW6gGfqLcjG2"
@@ -925,7 +925,7 @@
       "url": "https://open.spotify.com/track/3Vlt0DKYBK0h3Vf92nywhp"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-30 19:06:52",
       "album": {
         "name": "Baddies",
         "url": "https://open.spotify.com/album/6wj8Zd0xmL1zPc4m6AFSH1"
@@ -941,7 +941,7 @@
       "url": "https://open.spotify.com/track/72ZVTeHKV9Uzkk8qtYbkss"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-30 19:06:52",
       "album": {
         "name": "KiKi (What Would Drizzy Say?)",
         "url": "https://open.spotify.com/album/3OuaEHWzoAJ903v3E9VZW4"
@@ -957,7 +957,7 @@
       "url": "https://open.spotify.com/track/1H0IdGNAKBXQnPD7SBZJfo"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-30 19:06:52",
       "album": {
         "name": "2 Piece",
         "url": "https://open.spotify.com/album/4ETZDoRT2DmjIb3L2IUo57"

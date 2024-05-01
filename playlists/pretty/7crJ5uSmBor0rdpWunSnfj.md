@@ -11,4 +11,4 @@ pretty - [cumulative](/playlists/cumulative/7crJ5uSmBor0rdpWunSnfj.md) - [plain]
 | 1 | [Need More Bandages](https://open.spotify.com/track/41oZm63yeOM8FHjk4lpdfD) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Bleed Out](https://open.spotify.com/album/20KGjm5xRROTqP0UY1EVRg) | 3:41 |
 | 2 | [Sometimes](https://open.spotify.com/track/6oLgJATx3ECZ7Pcghmz38L) | [Nick Lutsko](https://open.spotify.com/artist/0gEenHtJ9puwA63nbY2TAE) | [Swords](https://open.spotify.com/album/2oTWDmzqeri1WOvpSH5J4g) | 3:48 |
 
-Snapshot ID: `Niw0Zjk4ZTQ2YzRjNTIwYmRkYWVmZmVhNWVjZjEyZjM3OWViZjEzYTA5`
+Snapshot ID: `AAAABk+Y5GxMUgvdrv/qXs8S83nr8ToJ`

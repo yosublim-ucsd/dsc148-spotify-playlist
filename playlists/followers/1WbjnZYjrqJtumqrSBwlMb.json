@@ -1,5 +1,5 @@
 {
-  "2024-04-30": 14,
+  "2024-05-01": 14,
   "date_first_scraped": "2024-04-06",
   "description": "Objectively good music",
   "name": "The True Benny Mix",
@@ -12521,6 +12521,28 @@
       "duration_ms": 237853,
       "name": "Sideline Story",
       "url": "https://open.spotify.com/track/5pIn0ZiclQOMzoFUlgDY0f"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220779,
+      "name": "Silent Hill",
+      "url": "https://open.spotify.com/track/3tYTyAt1q6BFBiGyYVOLhi"
     },
     {
       "album": {

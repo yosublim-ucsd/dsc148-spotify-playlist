@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 41,412 likes - 92 songs - 4 hr 39 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 41,427 likes - 92 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 91 | [wait!](https://open.spotify.com/track/4A5keAmZ9i9Zyxf2BuaOdY) | [ARIA](https://open.spotify.com/artist/5pRlKxATEYXaSwYkFbkmMm) | [wait!](https://open.spotify.com/album/6428kiJBgzK0er1gAnRMyd) | 2:02 |
 | 92 | [Thinking About You](https://open.spotify.com/track/7jpVSe0XMjHusocY3z488J) | [C\. James](https://open.spotify.com/artist/77Y0VaGhTLxtpZ0nLbD2oD) | [Thinking About You](https://open.spotify.com/album/7rKyTVjPHjGAWzBpBYU4Gq) | 2:28 |
 
-Snapshot ID: `NjA0NSw5MTMwNGY2ZjYxZDM3OTc2ZmFkMTc1NDAxZGM1NTllNjZjYmM5OTA4`
+Snapshot ID: `AAAXnZEwT29h03l2+tF1QB3FWeZsvJkI`

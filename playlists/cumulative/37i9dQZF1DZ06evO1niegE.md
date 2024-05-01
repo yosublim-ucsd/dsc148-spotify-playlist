@@ -2,7 +2,7 @@
 
 ### [This Is RENEE](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1niegE)
 
-> This Is RENEE\. Sus mejores éxitos, todos en una playlist.
+> This Is RENEE\. Les titres incontournables, réunis dans une seule et même playlist.
 
 52 songs - 2 hr 44 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 
 > Cruise to the smooth grooves of these yacht rock tunes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,548,177 likes - 130 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,548,450 likes - 130 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 | 129 | [O.C.O.E\. \(Official Cat Of The Eighties\)](https://open.spotify.com/track/4O9Af9tLDms3pGri4MjsIw) | [Pages](https://open.spotify.com/artist/4xoTZnaFX7xWz76sVSgg7u) | [Pages](https://open.spotify.com/album/3jq51cWLTtOgUN7x44fKvp) | 5:00 |
 | 130 | [We Had a Love so Strong](https://open.spotify.com/track/51tZTDbwuDQigLX5grQVZ0) | [Randy Crawford](https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz) | [Windsong](https://open.spotify.com/album/32YyTpcXjKX63IG2slJqrS) | 2:50 |
 
-Snapshot ID: `MTcxMTYzNDQ1OCwwMDAwMDAwMGUwMjhkNGJhNjBhM2I4NTUwNTc3NjI0NjNkZGNjOTk2`
+Snapshot ID: `ZgV4GgAAAADgKNS6YKO4VQV3YkY93MmW`

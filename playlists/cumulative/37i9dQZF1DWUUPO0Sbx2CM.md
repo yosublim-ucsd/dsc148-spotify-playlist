@@ -4,12 +4,12 @@
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-404 songs - 22 hr 27 min
+405 songs - 22 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Adoration](https://open.spotify.com/track/4JEZLVhxcUs3LDJlShOVKc) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a) | [Adoration](https://open.spotify.com/album/66aPP7iMWgeSRJ6mx0hKYI) | 1:53 | 2023-02-08 | 2023-02-27 |
-| [Adored](https://open.spotify.com/track/3HUhWUt20d0L1Jh6BNdK1t) | [Nissim Black](https://open.spotify.com/artist/04QgfIIHBRS0b6XiY3kYYy) | [Adored](https://open.spotify.com/album/75bljkIQXx0Ved3xr62xZH) | 3:26 | 2023-02-07 |  |
+| [Adored](https://open.spotify.com/track/3HUhWUt20d0L1Jh6BNdK1t) | [Nissim Black](https://open.spotify.com/artist/04QgfIIHBRS0b6XiY3kYYy) | [Adored](https://open.spotify.com/album/75bljkIQXx0Ved3xr62xZH) | 3:26 | 2023-02-07 | 2024-05-01 |
 | [Agradecido](https://open.spotify.com/track/07ImVpWJfK77AqgKtAQAme) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Agradecido](https://open.spotify.com/album/5xdEIdeZPrbIrnNjaDa2LQ) | 3:20 | 2021-10-31 | 2022-07-29 |
 | [Ain't No Grave](https://open.spotify.com/track/7xirNNSKhl1H9U9TKRNSYL) | [Bryan Boliver](https://open.spotify.com/artist/2xdw8Aa0DRetWarKBDZlwi) | [Ain't No Grave](https://open.spotify.com/album/7KIpxDdQ4W7VoMV7MBXHIh) | 3:28 | 2021-10-31 | 2022-05-15 |
 | [Air](https://open.spotify.com/track/3KC9SU1P7i6hkYzqHIVJ4I) | [Jeremy James Whitaker](https://open.spotify.com/artist/41FAFO0sEodQajiyqTtNX3) | [Air](https://open.spotify.com/album/7CIqAhw7c0iQaiBRdgLrBN) | 4:22 | 2021-10-31 | 2022-05-26 |
@@ -173,6 +173,7 @@
 | [Hills & Horizons](https://open.spotify.com/track/2V4l1eFzP7imN2HrWmDHxy) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Hills & Horizons](https://open.spotify.com/album/6kxY4y9rGrWpnhofahze9h) | 3:32 | 2023-02-07 |  |
 | [Hold Me](https://open.spotify.com/track/6PxIGrqOlGUc5aQjqIsdG5) | [Vanessa Campagna](https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM) | [Hold Me](https://open.spotify.com/album/6OKYLvwDv9IW8wvkvEKKoB) | 3:20 | 2023-02-08 | 2023-03-18 |
 | [Hold Me Close](https://open.spotify.com/track/1XEjjhgrYx2dVpnJV6IwLG) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Hold Me Close](https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj) | 2:28 | 2023-02-07 |  |
+| [Hold On](https://open.spotify.com/track/23VrO89DkfhYigoLPvEnm7) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [Hold On](https://open.spotify.com/album/0WP1SzAIHrXKAaNbCG8fYV) | 4:09 | 2023-02-07 |  |
 | [Hold On](https://open.spotify.com/track/4mTSFX7iAk4JN3IHu1qghA) | [Verses](https://open.spotify.com/artist/37Rqopn1vLADPjy3kxp2bb) | [Hold On](https://open.spotify.com/album/2qJLcPbOmq2x6Cj0vOs9l5) | 3:54 | 2021-10-31 | 2022-05-06 |
 | [Hold You Tight](https://open.spotify.com/track/71hZRkkUaEMEKGVbHCGiby) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Hold You Tight](https://open.spotify.com/album/1gOje0Ha92U5qcg5FM4HxR) | 2:55 | 2023-02-07 |  |
 | [Holding Me Down](https://open.spotify.com/track/6LiFdQTu27Hq7nZfCFUxof) | [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [Holding Me Down](https://open.spotify.com/album/4vEgr4lrtJcFgHcaknUy7Q) | 3:15 | 2021-10-31 | 2023-02-08 |

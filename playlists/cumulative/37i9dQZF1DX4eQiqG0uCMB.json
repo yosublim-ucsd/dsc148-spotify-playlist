@@ -282,7 +282,7 @@
       },
       "artists": [
         {
-          "name": "Fave",
+          "name": "FAVE",
           "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
         }
       ],
@@ -424,7 +424,7 @@
       },
       "artists": [
         {
-          "name": "Fave",
+          "name": "FAVE",
           "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
         }
       ],
@@ -1636,7 +1636,7 @@
           "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
         },
         {
-          "name": "Fave",
+          "name": "FAVE",
           "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
         }
       ],
@@ -3376,7 +3376,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 227448,
       "name": "Mukulu",
       "url": "https://open.spotify.com/track/5kYxdQaX15bCWOltfEUmvM"
@@ -3522,6 +3522,24 @@
       "duration_ms": 153684,
       "name": "Next To You (feat. Vedo)",
       "url": "https://open.spotify.com/track/3YoJLY6wG8qs9DdaGaCQbX"
+    },
+    {
+      "album": {
+        "name": "Ngibongiseni",
+        "url": "https://open.spotify.com/album/1ilhz6oSQGPBZjepOGvr72"
+      },
+      "artists": [
+        {
+          "name": "Sjava",
+          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Ngibongiseni",
+      "url": "https://open.spotify.com/track/1uJ9tdJnrJcTf6ormmHvPU"
     },
     {
       "album": {

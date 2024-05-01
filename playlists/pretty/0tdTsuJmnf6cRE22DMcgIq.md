@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0tdTsuJmnf6cRE22DMcgIq.md) - [plain]
 
 > The American Music Awards is the world’s biggest fan\-voted award show\. This year, hosts Gigi Hadid and Jay Pharoah will share the stage with performers Bruno Mars, Twenty One Pilots, The Chainsmokers, and many more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,415 likes - 35 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,414 likes - 35 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/0tdTsuJmnf6cRE22DMcgIq.md) - [plain]
 | 34 | [This Town](https://open.spotify.com/track/5dTJMpqiELczVuHJP3OAEu) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [This Town](https://open.spotify.com/album/02TJBSiAtYZK35RaoOkvpG) | 3:52 |
 | 35 | [Locked out of Heaven](https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:53 |
 
-Snapshot ID: `NDMsYzc5ZmE0ZTI1ZmEzYzg2Y2ZmMmUzZmFhNzlkMDNhOTAzMmQwNzYwNA==`
+Snapshot ID: `AAAAK8efpOJfo8hs/y4/qnnQOpAy0HYE`

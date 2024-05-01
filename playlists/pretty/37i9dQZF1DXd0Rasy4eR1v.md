@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Freshest of Pakistani discoveries\. Cover \- Aashir Wajahat
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,959 likes - 90 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,968 likes - 90 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 89 | [Khushi](https://open.spotify.com/track/7uEFslk7REdahSCkcBlB4W) | [Arsalan Hasan](https://open.spotify.com/artist/1uyfPuXn3J7LMOYh39lLv2) | [Khushi](https://open.spotify.com/album/2zML24DAsHmf5pd0icMpy3) | 3:16 |
 | 90 | [Channa](https://open.spotify.com/track/6VuwpdZ0mA8x8CMAfuc7xr) | [Shany Haider](https://open.spotify.com/artist/0oNaaHupBSFSQHZPXiGICF) | [Channa](https://open.spotify.com/album/5rXwPdtt73hvH9xJof0Pbv) | 2:49 |
 
-Snapshot ID: `MTcxMzU3NDgwMCwwMDAwMDAwMGY5MTc5NGMzNmU2YjE2MzUxNTRjODcxMjcyODIxYjQ2`
+Snapshot ID: `ZiMTkAAAAAD5F5TDbmsWNRVMhxJyghtG`

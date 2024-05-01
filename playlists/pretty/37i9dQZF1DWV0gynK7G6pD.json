@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDEwNDA2MCwwMDAwMDAwMDYxM2FmZGU4ZDJjMmQ3Y2U3NDUwNGM5Mjg2ZjUyMGIz",
+  "snapshot_id": "Zism/AAAAABhOv3o0sLXznRQTJKG9SCz",
   "tracks": [
     {
       "added_at": "2024-04-26 04:01:00",
@@ -750,6 +750,22 @@
         {
           "name": "The Choir of The Queen's College Oxford",
           "url": "https://open.spotify.com/artist/11hvMHAaE2dSXCMJ22DL8d"
+        },
+        {
+          "name": "Academy of Ancient Music",
+          "url": "https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf"
+        },
+        {
+          "name": "Rowan Pierce",
+          "url": "https://open.spotify.com/artist/7p30UwzclZ4gn5IahmILsP"
+        },
+        {
+          "name": "Helen Charlston",
+          "url": "https://open.spotify.com/artist/4pLQBB3y9xr8EhZj5u9rlW"
+        },
+        {
+          "name": "Guy Cutting",
+          "url": "https://open.spotify.com/artist/4DMSS2cnmCkowbr653iO2b"
         }
       ],
       "duration_ms": 128546,

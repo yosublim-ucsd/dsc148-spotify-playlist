@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/2wHQqJDXcWgQ4GLdVCfb8G.md) - [plain]
 | 49 | [Goody Two Shoes](https://open.spotify.com/track/4gic8wdcwH3kPjfHAPITLK) | [Adam Ant](https://open.spotify.com/artist/3QP0XPDwbvGivqDAaJ5f5G) | [The Very Best Of](https://open.spotify.com/album/3MlJ1QPKiWyUqGrlTzk19g) | 3:29 |
 | 50 | [Rock the Casbah](https://open.spotify.com/track/6rL4PYIVHyMIYo9xvGc5ot) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [The Essential Clash](https://open.spotify.com/album/1L1154DrG8gnmYwQAcuUns) | 3:40 |
 
-Snapshot ID: `MyxkMTA0OTUwNzA0NzRmMWYzYTg3Mjc2MzAxMmU0NmI4YjY0OGEzNmQy`
+Snapshot ID: `AAAAA9EElQcEdPHzqHJ2MBLka4tkijbS`

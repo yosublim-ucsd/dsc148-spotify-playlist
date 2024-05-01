@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/7LBFMuT8Ool5VxAbDMWjtA.md) - [plain]
 | 43 | [Leprosy](https://open.spotify.com/track/6Fdhk6Xp0ER0mvftQPNBzU) | [White Ring](https://open.spotify.com/artist/64AV09dDdCGBGv11QlGOJN) | [Gate of Grief](https://open.spotify.com/album/2laic9BwkaHT1kXWrIt28p) | 2:38 |
 | 44 | [Грустная сука](https://open.spotify.com/track/18hIrODUziu3KyUxeDKlcq) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8) | [Сладкая жизнь](https://open.spotify.com/album/1x5XZhwID74j0tqkcU6hCy) | 3:19 |
 
-Snapshot ID: `NjksNzMwZjFmNmY4MzJhYTAzNzVlYWUxZGZkM2Y4ZmNkMjg5ZTM4ZGRmZg==`
+Snapshot ID: `AAAARXMPH2+DKqA3Xq4d/T+PzSieON3/`

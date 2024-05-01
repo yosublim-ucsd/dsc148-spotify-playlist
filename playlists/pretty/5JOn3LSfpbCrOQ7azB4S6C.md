@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5JOn3LSfpbCrOQ7azB4S6C.md) - [plain]
 
 > The latest singles on Spotify all in one playlist\. Updated weekly.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,484 likes - 80 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,483 likes - 80 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/5JOn3LSfpbCrOQ7azB4S6C.md) - [plain]
 | 79 | [Gondor](https://open.spotify.com/track/5bvReyZ1x6dq0nkyKgHIjY) | [Sonjagon](https://open.spotify.com/artist/04J2NMDn1bKO4vwT9jQqty) | [I Am Terra The Earth](https://open.spotify.com/album/0uT5JYOZHOHSzMCS5IVWyn) | 5:14 |
 | 80 | [Governor](https://open.spotify.com/track/0l3EAxaJbPkDqCWg8FpdeM) | [Majestee of Sweden](https://open.spotify.com/artist/1d90xBxKelVchnzy51yq7O) | [Governor \- Single](https://open.spotify.com/album/4UPJbo5p3xH5qTDaj5IU1c) | 3:38 |
 
-Snapshot ID: `MTE2MyxmM2MxNTc0MmJjMDE0OTFiMjQyNzA1NmQ0NzllMTQwNWUyOTkwYzBk`
+Snapshot ID: `AAAEi/PBV0K8AUkbJCcFbUeeFAXimQwN`

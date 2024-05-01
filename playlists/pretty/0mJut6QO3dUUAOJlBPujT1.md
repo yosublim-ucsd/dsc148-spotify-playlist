@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/0mJut6QO3dUUAOJlBPujT1.md) - [plain]
 | 21 | [Freak](https://open.spotify.com/track/14Xvmlddpqqwyn8kHAqBsh) | [Urban Cone](https://open.spotify.com/artist/3WOOglGBDGvr6c2WBeMAWn) | [Our Youth Pt\. 1](https://open.spotify.com/album/3MONX4Hj0WpAhI8sngAR7u) | 3:12 |
 | 22 | [The Truest Faith](https://open.spotify.com/track/7JcBBMclUj0cIpr7q9g5ha) | [Korallreven](https://open.spotify.com/artist/4j24CFa4A1jAMKNHrwXV0f) | [An Album by Korallreven](https://open.spotify.com/album/1uFtAptWReOmBK0nUQ5D3c) | 4:25 |
 
-Snapshot ID: `NixiMzg4ZjQ5NTJlYTY2ZGMwYjU1MDZlZTNmMjdkZTVkNGRiNzY2MWU3`
+Snapshot ID: `AAAABrOI9JUupm3AtVBu4/J95dTbdmHn`

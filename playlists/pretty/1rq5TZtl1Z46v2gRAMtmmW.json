@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 29563,
+  "num_followers": 29569,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzcwOSxlMWQ3M2U1NmQ1YjRkYmZiYWMzNTJlYzc4ODE0YjUwNzdlY2IyMmFh",
+  "snapshot_id": "AAAOgC3ORKWDX2CGouzAuNsc2UgVQY9p",
   "tracks": [
     {
       "added_at": "2024-02-20 17:59:46",
@@ -23,6 +23,26 @@
       "duration_ms": 201339,
       "name": "Mahal",
       "url": "https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ"
+    },
+    {
+      "added_at": "2024-04-30 09:27:30",
+      "album": {
+        "name": "Sweet Devotion",
+        "url": "https://open.spotify.com/album/2XklQanfpAEHwnSM6pk8vT"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "Caroline Byrne",
+          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
+        }
+      ],
+      "duration_ms": 334595,
+      "name": "Sweet Devotion",
+      "url": "https://open.spotify.com/track/7MxsDJl8a1piNsqGwheXKS"
     },
     {
       "added_at": "2024-04-24 16:43:39",
@@ -735,26 +755,6 @@
       "duration_ms": 311671,
       "name": "Thirsty",
       "url": "https://open.spotify.com/track/2Buoe3DXKE5VL5w0JCeuQz"
-    },
-    {
-      "added_at": "2023-11-24 11:41:28",
-      "album": {
-        "name": "Reworks: Vol2",
-        "url": "https://open.spotify.com/album/3mPD0KqR6ACKk1IUt2jJE3"
-      },
-      "artists": [
-        {
-          "name": "James Heather",
-          "url": "https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu"
-        },
-        {
-          "name": "Nailah Hunter",
-          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
-        }
-      ],
-      "duration_ms": 230500,
-      "name": "Oizys - Nailah Hunter Rework",
-      "url": "https://open.spotify.com/track/5DcscpafyYnOPyOZFzH55k"
     }
   ],
   "unique_name": "Ninja Tune // New Releases",

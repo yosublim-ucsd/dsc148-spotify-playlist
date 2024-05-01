@@ -191,4 +191,4 @@ pretty - [cumulative](/playlists/cumulative/0kVaFpvoi0O4IbyJyEZckU.md) - [plain]
 | 181 | [Make It, Take It](https://open.spotify.com/track/0gDUudKTuVDDEZUlg4Sbd1) | [Amanda Blank](https://open.spotify.com/artist/6cMBAd7j8KLD9TnjfwQ91E) | [I Love You](https://open.spotify.com/album/7ew0GiLWOpq1fGTNivLv9N) | 2:25 |
 | 182 | [POWER](https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 4:52 |
 
-Snapshot ID: `NTIsYjJjYzEwMjFkMjNhZjRmYjVlOTc5NzcyNzEwOWI3ZGRlMWZiNDY5MQ==`
+Snapshot ID: `AAAANLLMECHSOvT7XpeXcnEJt93h+0aR`

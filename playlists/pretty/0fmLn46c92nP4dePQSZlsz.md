@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0fmLn46c92nP4dePQSZlsz.md) - [plain]
 
 > Secretly's collection of the best new music from independent artists and labels everywhere\. Updates bi\-weekly\. Cover star: <a href="https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik?si=ii79IxucQ1W1kS2\-4zUCxg">Cassandra Jenkins</a>
 
-[Secretly Group](https://open.spotify.com/user/secretlygroup) - 17,039 likes - 70 songs - 4 hr 9 min
+[Secretly Group](https://open.spotify.com/user/secretlygroup) - 17,041 likes - 70 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/0fmLn46c92nP4dePQSZlsz.md) - [plain]
 | 69 | [Toiler on the Creek](https://open.spotify.com/track/7mEfQUtcUHEIsYT7HM7g7K) | [Dabrye](https://open.spotify.com/artist/1tVRa7YiCwE6hTGsqqb4Te) | [Toiler on the Creek](https://open.spotify.com/album/75KqMzQkrM2cGDo5TtFx7T) | 1:54 |
 | 70 | [MARMALADE](https://open.spotify.com/track/3bxoy0Lp2tyVHyGkvXrxuR) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [MARMALADE](https://open.spotify.com/album/4lWWDxJjFkPcn8hUeGGtwK) | 2:11 |
 
-Snapshot ID: `MzY2MSwxNjIxM2FlZDgwYjYxODM0N2E5ZGY5Y2Q1ODY5YzU2NzhlN2YyYjYx`
+Snapshot ID: `AAAOTRYhOu2Athg0ep35zVhpxWeOfyth`

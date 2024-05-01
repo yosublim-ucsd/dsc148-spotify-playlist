@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/25wn6E4IiaAaTH6HBnGJ8y.md) - [plain]
 
 > bangers
 
-[Carson Howard](https://open.spotify.com/user/21yj6grazxctqzqdtvfi7nkzy) - 5,869 likes - 245 songs - 15 hr 15 min
+[Carson Howard](https://open.spotify.com/user/21yj6grazxctqzqdtvfi7nkzy) - 5,868 likes - 245 songs - 15 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -254,4 +254,4 @@ pretty - [cumulative](/playlists/cumulative/25wn6E4IiaAaTH6HBnGJ8y.md) - [plain]
 | 244 | [Thru My Hair](https://open.spotify.com/track/0SL3t6hWTxesu7A3z2prmV) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [¿Téo?](https://open.spotify.com/album/5ZMyvrspO5En45LxoipYkS) | 1:40 |
 | 245 | [When It Lands](https://open.spotify.com/track/16ro1is6DmDKkarlJMBbzV) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [How to: Friend, Love, Freefall](https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3) | 4:29 |
 
-Snapshot ID: `MTExNSw5MjU3Nzk5OGFhYzMyYjVlMmE2NjU5OTk1OGQ1OWNlYzk1ZjE2Yzhm`
+Snapshot ID: `AAAEW5JXeZiqwyteKmZZmVjVnOyV8WyP`

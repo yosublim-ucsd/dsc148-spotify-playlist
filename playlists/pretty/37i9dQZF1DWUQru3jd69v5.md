@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Emanuelino in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,081 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,066 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 49 | [La prima volta](https://open.spotify.com/track/2XaPXOCQOgu6Wsqfttj2B7) | [Dot Valentino](https://open.spotify.com/artist/4kDz1hBY5vGKKH5QYdS9uA) | [La prima volta](https://open.spotify.com/album/0gRJJRS5weZSIrJnIlF7y0) | 2:42 |
 | 50 | [clean 05](https://open.spotify.com/track/1WvrKCtAYSvS5j7hA2TnVl) | [SABBA](https://open.spotify.com/artist/3VBJcv1Z6tD8sD1bmIA6cN) | [clean 05](https://open.spotify.com/album/0CIkQZkctL6dFXCwT3awqb) | 2:55 |
 
-Snapshot ID: `MTcxNDM5OTE0MCwwMDAwMDAwMGZmYWVjODUwZTgwNWVkNDg3MGFkZjBmMGJiZDUzNzhk`
+Snapshot ID: `Zi+npAAAAAD/rshQ6AXtSHCt8PC71TeN`

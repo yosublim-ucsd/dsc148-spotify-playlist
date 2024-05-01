@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/3ig6dNeLSOHeTpuqpaFhDT.md) - [plain]
 | 25 | [Sweet Creature](https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 3:44 |
 | 26 | [If You Should Try To Kiss Her](https://open.spotify.com/track/4RE5XmTFux3rumRegxnzLA) | [Dressy Bessy](https://open.spotify.com/artist/2md9ACWJGf5hCkmOdEIBse) | [Pink Hearts, Yellow Moons](https://open.spotify.com/album/37rjKZLvRqZUOuJDQfpJfd) | 2:44 |
 
-Snapshot ID: `MjksYTE0YTUxOWE0NjIwNWZiMTU5NTZkOWY2YTg4MGYzMTIwMTZjNTFlZQ==`
+Snapshot ID: `AAAAHaFKUZpGIF+xWVbZ9qiA8xIBbFHu`

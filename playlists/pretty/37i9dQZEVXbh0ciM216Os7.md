@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbh0ciM216Os7.md) - [plain]
 | 26 | [The Cleansing](https://open.spotify.com/track/5iODmMKclILMRCQZcuZz0C) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu), [Will Ramos](https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa) | [The Cleansing](https://open.spotify.com/album/4ibZ4TjoERMmx7fsVVYnaO) | 8:00 |
 | 27 | [Whatever I Want](https://open.spotify.com/track/7rqk79yeKltd7v172uyRYR) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [Whatever I Want](https://open.spotify.com/album/6B3BnWn87tLTujzqkQMEhP) | 2:47 |
 | 28 | [Infrared](https://open.spotify.com/track/6g8jmyE3kZDFIAhRBxnKT4) | [Don Blake](https://open.spotify.com/artist/6lks21dylDxQNSLH3LpHE4), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1) | [Infrared](https://open.spotify.com/album/5ZW1pWSNoVPRtCmnm0Y9Df) | 3:00 |
-| 29 | [La Chanson des vieux amants](https://open.spotify.com/track/0qKnv6qXPNNj3Pe4nlKPk3) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Sayonara Meu Amor](https://open.spotify.com/album/2fYT8L1AXkcaGFxLUyavIS) | 6:55 |
+| 29 | [La chanson des vieux amants](https://open.spotify.com/track/0qKnv6qXPNNj3Pe4nlKPk3) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Sayonara Meu Amor](https://open.spotify.com/album/2fYT8L1AXkcaGFxLUyavIS) | 6:55 |
 | 30 | [Just Friends](https://open.spotify.com/track/3qsyNf2a5PP4GwNdgxp3GZ) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T), [Jack Sheldon](https://open.spotify.com/artist/0AP9ck0QA9iqnCWJ16G7qj) | [Just Friends](https://open.spotify.com/album/0q31nokt6Hp8O0WyVX167C) | 2:30 |
 
-Snapshot ID: `MCwwMDAwMDAwMDVmZTc3NTM0ZjM0YjYxZGEwZGU2ODIwNTMzM2U4ZTU2`
+Snapshot ID: `AAAAAAAAAABf53U080th2g3mggUzPo5W`

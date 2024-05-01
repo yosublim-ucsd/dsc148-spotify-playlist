@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ibzo2Gjliu.md) - [plain]
 
 > ¡Los éxitos pop de Luismi!
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,220 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,369 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ibzo2Gjliu.md) - [plain]
 | 49 | [Dormir contigo](https://open.spotify.com/track/0REKETXT8fkn2C863KKlO4) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Amarte Es Un Placer](https://open.spotify.com/album/59hPa94rgOLoOBKHz98i7n) | 4:13 |
 | 50 | [América, América](https://open.spotify.com/track/3Byrr4mWMxKC6JhNw51MCs) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Grandes Éxitos](https://open.spotify.com/album/0NwQIWxyE13WaqiiHC9kIA) | 4:33 |
 
-Snapshot ID: `MTY4NjgzNjM5NiwwMDAwMDAwMDc1ZjE3NjBkYzEwNWVmOWFjM2E0MGRlNmQ4NTRiMTgy`
+Snapshot ID: `ZIsUrAAAAAB18XYNwQXvmsOkDebYVLGC`

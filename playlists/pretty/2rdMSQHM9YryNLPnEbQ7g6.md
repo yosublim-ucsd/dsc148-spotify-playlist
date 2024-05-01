@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2rdMSQHM9YryNLPnEbQ7g6.md) - [plain]
 
 > A collection to remember and honor the music and life of Joe Cocker.
 
-[Spotify](https://open.spotify.com/user/spotify) - 271 likes - 47 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 272 likes - 47 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/2rdMSQHM9YryNLPnEbQ7g6.md) - [plain]
 | 46 | [Many Rivers To Cross](https://open.spotify.com/track/6hCryBiJoTptc4pi60KC3b) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [Ultimate Collection](https://open.spotify.com/album/2WxfIFYZNUeCUcHI3DqNeW) | 3:43 |
 | 47 | [N'Oubliez Jamais \- Edit](https://open.spotify.com/track/0O2GrLCWELwPas47sX70nb) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [The Ultimate Collection 1968\-2003](https://open.spotify.com/album/7kJxjkRxiAy0NeFIaRqcKV) | 4:43 |
 
-Snapshot ID: `NjQsZTk5OWI5N2UzYmZmMGJiZTUzNDE1ZWI3Mzg3MGZmZGE4ODU1ODg4Mw==`
+Snapshot ID: `AAAAQOmZuX47/wu+U0Fetzhw/9qIVYiD`

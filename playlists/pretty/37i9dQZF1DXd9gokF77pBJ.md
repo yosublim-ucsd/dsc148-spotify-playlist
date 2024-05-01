@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 
 > <a href="spotify:artist:37fxVoFAMzet5CiiDg7SL7">CC:DISCO's </a> favourite tracks\. Updated regularly\. Curated by CC:DISCO!\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,469 likes - 56 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,483 likes - 56 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 | 55 | [Fall Back](https://open.spotify.com/track/7lI7o9J4vsr6Tby9as2PpD) | [Anna Prior](https://open.spotify.com/artist/5MEm3oZhv8zkqd8iepxnCP) | [Fall Back](https://open.spotify.com/album/75NO0lXfsAevfeIpyjBuMU) | 5:18 |
 | 56 | [ROOM IN THE ROOM \(demo\)](https://open.spotify.com/track/3YQypbPxlj4ncIS0kdehZD) | [Anita Blay](https://open.spotify.com/artist/6alRwoOf9EuuE7MNC0Zs9y) | [ROOM IN THE ROOM \(demo\)](https://open.spotify.com/album/2BfSjK6FxwXrPnRCy54Xml) | 3:20 |
 
-Snapshot ID: `MTcxMzQ5MDExMSwwMDAwMDAwMGQwMzA4YzEyMGY2ZTE5OWQ5Zjk1YzJlNDM0NmViNjU1`
+Snapshot ID: `ZiHIvwAAAADQMIwSD24ZnZ+VwuQ0brZV`

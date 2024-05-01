@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:0OQ8y7heASb1vEX5WXvjCr">Aaron Cole</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,606 likes - 101 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,610 likes - 101 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 100 | [Different](https://open.spotify.com/track/6kBwIGIDg6SvQYyKhGv6Y2) | [Chandler Letner](https://open.spotify.com/artist/2ArkBVGieVsFCjv7XS589P) | [Different](https://open.spotify.com/album/6LeJzyrUK2wumPXnbEBexI) | 4:28 |
 | 101 | [Red Letter Blueprint](https://open.spotify.com/track/1jTUo8zxmyiLwkaDjkj45w) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Red Letter Blueprint](https://open.spotify.com/album/6sdTmbOCQejn4phKQn47a0) | 3:52 |
 
-Snapshot ID: `MTcxNDE0NTYyOSwwMDAwMDAwMDUzMTU3N2E2ZDc0NmNkMWZiZTBhNWYwNGIzNzRlOGY1`
+Snapshot ID: `ZivJXQAAAABTFXem10bNH74KXwSzdOj1`

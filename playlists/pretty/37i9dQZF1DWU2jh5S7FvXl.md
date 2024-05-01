@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2jh5S7FvXl.md) - [plain]
 
 > deadmau5 takes over Dance Favourites to celebrate Canadian artists and 25 years of his career ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,063 likes - 52 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,073 likes - 52 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2jh5S7FvXl.md) - [plain]
 | 51 | [Monophobia](https://open.spotify.com/track/1mekHae3Rj2GQPM670FRJV) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Rob Swire](https://open.spotify.com/artist/2VfRuL9E1z49otsiZIUJsN) | [mau5ville: Level 1](https://open.spotify.com/album/1yBN874PWfaHCseLnGww9z) | 3:34 |
 | 52 | [The Longest Road \- deadmau5 Remix Edit](https://open.spotify.com/track/77w8cBOdasP7aNcPD9Dec8) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b), [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [The Longest Road](https://open.spotify.com/album/2WLFwif81NStLAwtQQtsFs) | 3:59 |
 
-Snapshot ID: `MTcxNDEwNDAwMCwwMDAwMDAwMGY1NGE5YjAyYmVlMGFjOGI1NzhlNWZhMmYyYmFjZTlh`
+Snapshot ID: `ZismwAAAAAD1SpsCvuCsi1eOX6Lyus6a`

@@ -1162,7 +1162,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 151077,
       "name": "@champagnepapi",
       "url": "https://open.spotify.com/track/1y62mw3mC3mtVOOtjrVVl1"
@@ -13928,6 +13928,28 @@
       "duration_ms": 142920,
       "name": "IKEA (intro)",
       "url": "https://open.spotify.com/track/369UJeRvrV88tPihhNIWlF"
+    },
+    {
+      "album": {
+        "name": "ILE LAT?",
+        "url": "https://open.spotify.com/album/5pzf4AhTd7kPFC0W1Bh5Ti"
+      },
+      "artists": [
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        },
+        {
+          "name": "Sobel",
+          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "ILE LAT?",
+      "url": "https://open.spotify.com/track/4sOUVcGZo8MiSoIKybdXMC"
     },
     {
       "album": {
@@ -30852,7 +30874,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 181045,
       "name": "Stan",
       "url": "https://open.spotify.com/track/33FD8jBm5LZaQ2jJS3vXzm"
@@ -33906,7 +33928,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 169903,
       "name": "Ty Wiesz",
       "url": "https://open.spotify.com/track/0QfTXFJdnx42T8DeTWWwN6"

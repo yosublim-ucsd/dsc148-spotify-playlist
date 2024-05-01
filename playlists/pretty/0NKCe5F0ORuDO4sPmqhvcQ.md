@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,765 likes - 130 songs - 7 hr 20 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,762 likes - 130 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 129 | [Okay Fine](https://open.spotify.com/track/67lB1vjJCFRmf9vNGWXSeg) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [The Unexplained](https://open.spotify.com/album/6jSRRKhBd0hMSzoSwqihRl) | 3:40 |
 | 130 | [Wide Awake](https://open.spotify.com/track/3Xan57kXn4YNZCK91l8qZe) | [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97), [sød ven](https://open.spotify.com/artist/6Gt5kTPVe7tuYK44gRPVdJ) | [Wide Awake](https://open.spotify.com/album/0AavjOVECKCakzcwPQ7D8B) | 4:08 |
 
-Snapshot ID: `MTA2OTIsNDUxYzkwZTM3NTc3Nzc2MmVmYzI2MTIwOGJkMDg3YjE0ODkwNGExNA==`
+Snapshot ID: `AAApxEUckON1d3di78JhIIvQh7FIkEoU`

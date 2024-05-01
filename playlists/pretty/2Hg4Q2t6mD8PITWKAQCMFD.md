@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Hg4Q2t6mD8PITWKAQCMFD.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,646 likes - 25 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,644 likes - 25 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/2Hg4Q2t6mD8PITWKAQCMFD.md) - [plain]
 | 24 | [Story of My Life](https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 4:05 |
 | 25 | [Money On My Mind](https://open.spotify.com/track/6vgdsUtEcdRJtXbr1w9RT1) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Money On My Mind](https://open.spotify.com/album/4f5kwPSnB6CrpqQiI6IPvL) | 3:14 |
 
-Snapshot ID: `OCxjMTcwOThiZGY0NmYyNzhkNTNkYjM2ODQxMTM1NjlkNzcxNTY4NWYx`
+Snapshot ID: `AAAACMFwmL30byeNU9s2hBE1addxVoXx`

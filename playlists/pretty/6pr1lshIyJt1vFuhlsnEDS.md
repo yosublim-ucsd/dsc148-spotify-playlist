@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6pr1lshIyJt1vFuhlsnEDS.md) - [plain]
 
 > <a>https://bit.ly/2WYLxJM </a>
 
-[Metodi Hristov](https://open.spotify.com/user/metodihristov) - 1,194 likes - 56 songs - 3 hr 59 min
+[Metodi Hristov](https://open.spotify.com/user/metodihristov) - 1,193 likes - 56 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/6pr1lshIyJt1vFuhlsnEDS.md) - [plain]
 | 55 | [Black Triangles \(Metodi Hristov Remix\)](https://open.spotify.com/track/649rERDKx5gDY1wiWu3mlx) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5), [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [Black Triangles \(Metodi Hristov Remix\)](https://open.spotify.com/album/1nxRk5EwgQi6HsonJUL2gP) | 5:44 |
 | 56 | [This Is Why \- Radio Edit](https://open.spotify.com/track/03wdmJSjGOKyPjyDyi174l) | [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [Afraid of the Time](https://open.spotify.com/album/2YF493Mn9nfimBiveq5lZ5) | 4:36 |
 
-Snapshot ID: `MTkyNSw5MzZlNWUxNjI0MTgxOTZmODNiNWQ0ZDAxY2VjMzYzMjExNjg1MThh`
+Snapshot ID: `AAAHhZNuXhYkGBlvg7XU0BzsNjIRaFGK`

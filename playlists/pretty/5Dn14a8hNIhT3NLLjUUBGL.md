@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/5Dn14a8hNIhT3NLLjUUBGL.md) - [plain]
 | 73 | [Nobody's Fool](https://open.spotify.com/track/0A6QCNP3PkD14Zk2RHLYsJ) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Four The Record](https://open.spotify.com/album/6AS4XOMFu0IT7Cm5hH0A3p) | 3:43 |
 | 74 | [Scotty Doesn't Know](https://open.spotify.com/track/1LkoYGxmYpO6QSEvY5C0Zl) | [Lustra](https://open.spotify.com/artist/3IJ770I1QPmwVp7yug0eJ4) | [Left for Dead](https://open.spotify.com/album/3MCqjuNms0vjGyUDQ92Ivs) | 2:55 |
 
-Snapshot ID: `MyxlMDcyMDg1MTk5OTg3NjdkN2VlYjU0OTI4YjI5MDE3ZTdhNTE1Yzk5`
+Snapshot ID: `AAAAA+ByCFGZmHZ9futUkospAX56UVyZ`

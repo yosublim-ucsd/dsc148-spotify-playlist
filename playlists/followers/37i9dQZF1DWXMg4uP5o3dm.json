@@ -1,5 +1,5 @@
 {
-  "2024-04-30": 478685,
+  "2024-05-01": 478723,
   "date_first_scraped": "2021-12-21",
   "description": "alternative meets electronic Cover: Artemas",
   "name": "Alternative Beats",
@@ -115,6 +115,24 @@
       "duration_ms": 221298,
       "name": "All Of The Noise - Big Data Remix",
       "url": "https://open.spotify.com/track/2YcteWkaxwqXSsCULUJumU"
+    },
+    {
+      "album": {
+        "name": "ALL OF U [EP]",
+        "url": "https://open.spotify.com/album/4dJEcGZ5XMModoY5aFfRKX"
+      },
+      "artists": [
+        {
+          "name": "NOISY",
+          "url": "https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212630,
+      "name": "ALL OF U",
+      "url": "https://open.spotify.com/track/0RLBKt0Ry0j7T6QFu9mRLo"
     },
     {
       "album": {
@@ -281,7 +299,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 252603,
       "name": "Armatron",
       "url": "https://open.spotify.com/track/05x6pBQelgwQJs3ZeVfdEC"
@@ -741,7 +759,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 192478,
       "name": "Cape Life",
       "url": "https://open.spotify.com/track/7u6GFqgcCl8xXge6GEiTs9"
@@ -1047,7 +1065,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 172733,
       "name": "DANCEFLOOR",
       "url": "https://open.spotify.com/track/1Pvq76uvP8iMC7K0BXNE1c"
@@ -1311,7 +1329,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 195520,
       "name": "DESIRE",
       "url": "https://open.spotify.com/track/3uX2pHEVOthQ63a1IaNwBr"
@@ -3086,6 +3104,24 @@
     },
     {
       "album": {
+        "name": "Knock Yourself Out XD",
+        "url": "https://open.spotify.com/album/6a6vazlfojF2pu0VXhmn4r"
+      },
+      "artists": [
+        {
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168275,
+      "name": "Knock Yourself Out XD",
+      "url": "https://open.spotify.com/track/7sVPmzAf2TagX4anSxasuo"
+    },
+    {
+      "album": {
         "name": "Knockoff",
         "url": "https://open.spotify.com/album/58BlShV5R0UwB7IRyZf96n"
       },
@@ -3493,7 +3529,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 171380,
       "name": "molotov",
       "url": "https://open.spotify.com/track/6mKS8wregZJldi45FZIwHe"
@@ -3927,7 +3963,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 163492,
       "name": "One Night",
       "url": "https://open.spotify.com/track/1XvUJqINdj0IiYyvodOBsR"

@@ -2491,6 +2491,32 @@
     },
     {
       "album": {
+        "name": "Fire (From \"Je Jatt Vigarh Gya\")",
+        "url": "https://open.spotify.com/album/1NDXK9oOpMzt2WAzsSRXhs"
+      },
+      "artists": [
+        {
+          "name": "Ninja",
+          "url": "https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT"
+        },
+        {
+          "name": "Avvy Sra",
+          "url": "https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN"
+        },
+        {
+          "name": "Happy Raikoti",
+          "url": "https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136363,
+      "name": "Fire (From \"Je Jatt Vigarh Gya\")",
+      "url": "https://open.spotify.com/track/7FEoHQ0OvfyYFkg2poZcPJ"
+    },
+    {
+      "album": {
         "name": "Foes To Fans",
         "url": "https://open.spotify.com/album/0iQ3tA1tOHAwbSfOkhHMCy"
       },
@@ -2852,7 +2878,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 206846,
       "name": "GEMZ",
       "url": "https://open.spotify.com/track/5MaJjEwY5IM3v1t6UOIxms"

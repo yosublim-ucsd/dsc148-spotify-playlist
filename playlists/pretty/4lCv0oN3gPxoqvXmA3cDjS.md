@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/4lCv0oN3gPxoqvXmA3cDjS.md) - [plain]
 | 19 | [La La La](https://open.spotify.com/track/52gvlDnre9craz9dKGObp8) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [La La La](https://open.spotify.com/album/7L2vCH0rBeI5pKefCgWcV9) | 3:40 |
 | 20 | [Treasure](https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 2:58 |
 
-Snapshot ID: `Myw4MTdmODI1ZmMwZTA0MjkwNDM0MzEyMjhjNDk0MDBiOGExOTE5MThm`
+Snapshot ID: `AAAAA4F/gl/A4EKQQ0MSKMSUALihkZGP`

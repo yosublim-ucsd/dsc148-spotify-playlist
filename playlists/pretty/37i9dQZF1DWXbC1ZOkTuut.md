@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de Música Mexicana\. Hit shuffle for a mixed listening experience\. Cover: Thalia
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,927 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,935 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 | 99 | [Lo Que No Sabían de Balta \(En Vivo\)](https://open.spotify.com/track/5PyjETNqm2TqFBcOfU6EJz) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Los Intocables Del Norte](https://open.spotify.com/artist/33eHQlFrBesRCBTaieDr7z) | [Culiacán Deluxe 2 \(En Vivo\)](https://open.spotify.com/album/2SHMDC2lIlkSyEKhIBvuFU) | 4:21 |
 | 100 | [El Zapata \(En Vivo\)](https://open.spotify.com/track/2I6NDO6Y43LseIqBj5v3oC) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Culiacán Deluxe 2 \(En Vivo\)](https://open.spotify.com/album/2SHMDC2lIlkSyEKhIBvuFU) | 4:32 |
 
-Snapshot ID: `MTcxNDEwNDAwMCwwMDAwMDAwMDc5OGQxMzRkODkxN2Y5Njg3ZTMzYzY3ZjhhMjI2ZmYw`
+Snapshot ID: `ZismwAAAAAB5jRNNiRf5aH4zxn+KIm/w`

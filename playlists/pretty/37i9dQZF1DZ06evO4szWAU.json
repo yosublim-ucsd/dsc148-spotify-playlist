@@ -1,12 +1,12 @@
 {
-  "description": "This is Willie Col\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 67161,
+  "description": "This Is Willie Col\u00f3n. Los temas esenciales, todos en una lista.",
+  "num_followers": 67194,
   "original_name": "This Is Willie Col\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDI2MjQwMCwwMDAwMDAwMGQzZjE1NmQ0OTUzMjI3MDdhYWQ1Njg0MDBlZDc2ZmQw",
+  "snapshot_id": "Zi7jAAAAAAC0lUPFabhvEFd8bN++IgR0",
   "tracks": [
     {
       "added_at": null,
@@ -311,6 +311,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Juicio",
+        "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 369120,
+      "name": "Aguanile",
+      "url": "https://open.spotify.com/track/0pX477ap2l86BbHfKTncpM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/4zAgB7K2I3oeUufUpSHwOZ"
       },
@@ -415,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tiempo pa' Matar",
+        "url": "https://open.spotify.com/album/12fkmxSR5zWnxJqCyxDIy5"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 299373,
+      "name": "Tiempo Pa\u2019 Matar",
+      "url": "https://open.spotify.com/track/6LC8pFSA5K9zJVSWiVQwf8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Siembra",
         "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
       },
@@ -431,22 +467,6 @@
       "duration_ms": 347280,
       "name": "Buscando Guayaba",
       "url": "https://open.spotify.com/track/51pnSx6vfBzV8lkLLNFFpy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tiempo pa' Matar",
-        "url": "https://open.spotify.com/album/12fkmxSR5zWnxJqCyxDIy5"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 299373,
-      "name": "Tiempo Pa\u2019 Matar",
-      "url": "https://open.spotify.com/track/6LC8pFSA5K9zJVSWiVQwf8"
     },
     {
       "added_at": null,
@@ -511,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Demasiado Corazon",
+        "url": "https://open.spotify.com/album/2IgZZffWbFgLioltFU54VE"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 230208,
+      "name": "Demasiado Corazon",
+      "url": "https://open.spotify.com/track/203xPsmlzOYbPoUv4WL2kM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Metiendo Mano",
         "url": "https://open.spotify.com/album/3oOEQ4KB3ZegkjEvfHjiYn"
       },
@@ -527,22 +563,6 @@
       "duration_ms": 296240,
       "name": "Plantaci\u00f3n Adentro",
       "url": "https://open.spotify.com/track/2OBZVLhtWun61t4Q94HcVR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Demasiado Corazon",
-        "url": "https://open.spotify.com/album/2IgZZffWbFgLioltFU54VE"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 230208,
-      "name": "Demasiado Corazon",
-      "url": "https://open.spotify.com/track/203xPsmlzOYbPoUv4WL2kM"
     },
     {
       "added_at": null,
@@ -808,9 +828,9 @@
           "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
         }
       ],
-      "duration_ms": 325080,
-      "name": "Siembra",
-      "url": "https://open.spotify.com/track/362GCFRPvy9wChpMudJMAx"
+      "duration_ms": 331440,
+      "name": "Mar\u00eda Lionza",
+      "url": "https://open.spotify.com/track/5MyPzq1IsxS1x7FkhdpJUF"
     },
     {
       "added_at": null,
@@ -888,9 +908,9 @@
           "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
         }
       ],
-      "duration_ms": 331440,
-      "name": "Mar\u00eda Lionza",
-      "url": "https://open.spotify.com/track/5MyPzq1IsxS1x7FkhdpJUF"
+      "duration_ms": 325080,
+      "name": "Siembra",
+      "url": "https://open.spotify.com/track/362GCFRPvy9wChpMudJMAx"
     },
     {
       "added_at": null,
@@ -967,22 +987,6 @@
       "duration_ms": 354600,
       "name": "Paname\u00f1a",
       "url": "https://open.spotify.com/track/1c7GpIXR8F85rFxFj90Z63"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coraz\u00f3n Guerrero",
-        "url": "https://open.spotify.com/album/49qrC2ziwxKumQm96y3cO5"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "Casanova",
-      "url": "https://open.spotify.com/track/6dQBpbW4zmZZwWuAB1Xiwc"
     },
     {
       "added_at": null,

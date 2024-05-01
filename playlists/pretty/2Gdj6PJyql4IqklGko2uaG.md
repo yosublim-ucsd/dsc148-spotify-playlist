@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Gdj6PJyql4IqklGko2uaG.md) - [plain]
 
 > A playlist of Rammstein classics covered by other artists.
 
-[Rammstein](https://open.spotify.com/user/rammsteinofficial) - 1,231 likes - 20 songs - 1 hr 23 min
+[Rammstein](https://open.spotify.com/user/rammsteinofficial) - 1,229 likes - 20 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/2Gdj6PJyql4IqklGko2uaG.md) - [plain]
 | 19 | [My Country](https://open.spotify.com/track/6T3yZcKsF83AoUxSpph9Hg) | [The BossHoss](https://open.spotify.com/artist/1sICjVlCMOCah0snHXWUz0) | [Liberty Of Action \(Black Edition\)](https://open.spotify.com/album/33yYCVLmaMM28FVSZWTC47) | 4:07 |
 | 20 | [Reise, Reise](https://open.spotify.com/track/2fdnPuO1lLOYYN0jSeWWdf) | [Fleshgod Apocalypse](https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML) | [Veleno \(Deluxe Version\)](https://open.spotify.com/album/62P7Dy1U56YzWR8DUPLlEp) | 4:41 |
 
-Snapshot ID: `NTgsMWM3YWQ5MzYxMTk1OTAwM2QwMTM1NjQxMzBkZmMyYTVhYTUwZTQxZA==`
+Snapshot ID: `AAAAOhx62TYRlZAD0BNWQTDfwqWqUOQd`

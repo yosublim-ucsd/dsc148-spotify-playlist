@@ -1,12 +1,12 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 75271,
+  "num_followers": 75273,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcwMTM0OTIwMCwwMDAwMDAwMGEzNTM0ZjI2MThjZmJlOWY0M2ZmMDk2YjM0NjZjZjJh",
+  "snapshot_id": "ZWiHUAAAAACjU08mGM++n0P/CWs0Zs8q",
   "tracks": [
     {
       "added_at": "2023-11-30 13:00:00",
@@ -415,18 +415,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Smile At The Party",
-        "url": "https://open.spotify.com/album/4zCDxfU1VLsXp8mCRTlBO7"
+        "name": "Caught Up In The Wire, No More",
+        "url": "https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC"
       },
       "artists": [
         {
-          "name": "The Happiest Kind of Sad",
-          "url": "https://open.spotify.com/artist/6Pv3lH3WAj3SC3a5ansh6q"
+          "name": "Tay Oskee",
+          "url": "https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW"
         }
       ],
-      "duration_ms": 266709,
-      "name": "Smile At The Party",
-      "url": "https://open.spotify.com/track/3cMd8PtCloqArDY3drMqq8"
+      "duration_ms": 223712,
+      "name": "Think About You",
+      "url": "https://open.spotify.com/track/767atfZ4xBNA5SiPUGzgxJ"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -467,18 +467,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Caught Up In The Wire, No More",
-        "url": "https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC"
+        "name": "Smile At The Party",
+        "url": "https://open.spotify.com/album/4zCDxfU1VLsXp8mCRTlBO7"
       },
       "artists": [
         {
-          "name": "Tay Oskee",
-          "url": "https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW"
+          "name": "The Happiest Kind of Sad",
+          "url": "https://open.spotify.com/artist/6Pv3lH3WAj3SC3a5ansh6q"
         }
       ],
-      "duration_ms": 223712,
-      "name": "Think About You",
-      "url": "https://open.spotify.com/track/767atfZ4xBNA5SiPUGzgxJ"
+      "duration_ms": 266709,
+      "name": "Smile At The Party",
+      "url": "https://open.spotify.com/track/3cMd8PtCloqArDY3drMqq8"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
+        "name": "All Over Again",
+        "url": "https://open.spotify.com/album/3rOw0UUyB5dtP8Mj4qzPYL"
+      },
+      "artists": [
+        {
+          "name": "Miller Roberts",
+          "url": "https://open.spotify.com/artist/1J88SHfougnAYWOnonDtvL"
+        }
+      ],
+      "duration_ms": 223445,
+      "name": "All Over Again",
+      "url": "https://open.spotify.com/track/5Em45mUmCF0n4Q6faQxxhK"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
         "name": "5am Paradise (Acoustic) [Sunrise Version]",
         "url": "https://open.spotify.com/album/4dquJ7BPyzZ0XiGH2eDVd4"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 203300,
       "name": "5am Paradise (Acoustic) - Sunrise Version",
       "url": "https://open.spotify.com/track/1JS7SJxALtgTPIbf2OArnE"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "All Over Again",
-        "url": "https://open.spotify.com/album/3rOw0UUyB5dtP8Mj4qzPYL"
-      },
-      "artists": [
-        {
-          "name": "Miller Roberts",
-          "url": "https://open.spotify.com/artist/1J88SHfougnAYWOnonDtvL"
-        }
-      ],
-      "duration_ms": 223445,
-      "name": "All Over Again",
-      "url": "https://open.spotify.com/track/5Em45mUmCF0n4Q6faQxxhK"
     },
     {
       "added_at": "2023-11-30 13:00:00",

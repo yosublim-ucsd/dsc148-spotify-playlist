@@ -4,7 +4,7 @@
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV?si=zpfrracLRqydGxDfjqcRtg">HONEYMOAN</a>
 
-716 songs - 1 day 16 hr 54 min
+717 songs - 1 day 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,7 +270,7 @@
 | [Holding On To You](https://open.spotify.com/track/7eUpf4w7JE323DhRnjIysS) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Holding On To You](https://open.spotify.com/album/7EPsqTKceMEh9IE4DPjggo) | 2:34 | 2024-02-29 | 2024-04-29 |
 | [Holiday](https://open.spotify.com/track/47FQ1T5hp4JdF9Kp18dBy4) | [Cece Vee](https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp) | [This Wasteland](https://open.spotify.com/album/1aI37UoJ0bqeUyG42Vhl3u) | 2:31 | 2023-07-06 | 2023-08-05 |
 | [Hollow](https://open.spotify.com/track/1lUany9gir3JNqywMxvSVy) | [We Are All Fossils](https://open.spotify.com/artist/15vQbVx84dPqYBWX2XK8kw) | [Hollow](https://open.spotify.com/album/7gQky4elzyKHb9hLax9poM) | 3:07 | 2024-04-12 |  |
-| [Holy Water](https://open.spotify.com/track/2fHQbsR78hCAf7iJHQvzjk) | [KYLE ZION](https://open.spotify.com/artist/5tqv4v6LBSfDbMYIX4zzTv) | [Holy Water](https://open.spotify.com/album/2D0GdNMz5bFn9aYM1YzLDE) | 2:47 | 2024-04-05 |  |
+| [Holy Water](https://open.spotify.com/track/2fHQbsR78hCAf7iJHQvzjk) | [KYLE ZION](https://open.spotify.com/artist/5tqv4v6LBSfDbMYIX4zzTv) | [Holy Water](https://open.spotify.com/album/2D0GdNMz5bFn9aYM1YzLDE) | 2:47 | 2024-04-05 | 2024-05-01 |
 | [HOME](https://open.spotify.com/track/73wKP5eAiTwpB1cjNXUaph) | [James Deacon](https://open.spotify.com/artist/7GobSJDCoe66J6XytXZfLx) | [HOME](https://open.spotify.com/album/0iHU2P0uBhtUtAEbOE4wNv) | 3:17 | 2022-11-03 | 2023-01-27 |
 | [Home](https://open.spotify.com/track/1yQO5Dt6SZkXBPHAsRC80M) | [Just Mia](https://open.spotify.com/artist/69yCMdp9f50YlB42gYrC3H) | [Home](https://open.spotify.com/album/6pwaBv6eLgpCy61j1X18MI) | 3:28 | 2023-04-14 | 2023-06-23 |
 | [Home Grown Flowers](https://open.spotify.com/track/2W7JDgHdqoH32MMOxCzLYu) | [We Are All Fossils](https://open.spotify.com/artist/15vQbVx84dPqYBWX2XK8kw) | [Home Grown Flowers](https://open.spotify.com/album/7kzhGEkq46mfCiGXaTe6Sg) | 3:39 | 2022-08-25 | 2022-12-02 |
@@ -714,6 +714,7 @@
 | [You too hot for this shit](https://open.spotify.com/track/03Hczw8b6SVCbKXovqvonC) | [Ghostly Gav](https://open.spotify.com/artist/2Ynv2c4aZWXo9lC6Q8qppv) | [Pretty Dope](https://open.spotify.com/album/4xR8bCYh7r2RUGHAivBA1y) | 2:22 | 2023-08-11 | 2023-09-02 |
 | [You Were My First Everything](https://open.spotify.com/track/5OJ2WzKRqklsfAeiayVbqQ) | [Henry Ate](https://open.spotify.com/artist/54wEBpZEvBl4YK94yhCkvn), [Karma](https://open.spotify.com/artist/5rnNxf9vfxKljGcBFycUM6) | [You Were My First Everything](https://open.spotify.com/album/1CiLpifvEAWG0GWUbSvxa4) | 4:29 | 2024-03-29 | 2024-04-20 |
 | [You Wouldn't Understand](https://open.spotify.com/track/1GVI17KHbG7sblOmYuNQI9) | [Marcus Harvey](https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6) | [You Still Don't Know Me](https://open.spotify.com/album/4A7UfGpc5sgcx0ajwjtfLO) | 2:33 | 2021-10-14 | 2022-11-25 |
+| [You're Gone](https://open.spotify.com/track/7AU8HVGvd3Jua9oLVSUgE1) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Elani Boshoff](https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9) | [Echoes of Farewell](https://open.spotify.com/album/744YhwL1S9OvtUY6QkAPPc) | 2:49 | 2024-04-26 |  |
 | [You're Not Here](https://open.spotify.com/track/6TaF5av6uuDxtWayS9buWB) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Monique Burger](https://open.spotify.com/artist/3GOf6SKBeQM7EQvRtSrBDQ) | [You're Not Here](https://open.spotify.com/album/0h2hJCS8yQxHBhN52Po1A6) | 3:00 | 2023-04-06 | 2023-06-23 |
 | [You're over Me](https://open.spotify.com/track/4s3IyR6U98K18L5Fw5YrxG) | [Louise Carver](https://open.spotify.com/artist/3MGKwPbzEu5ZFlDAJA75uD) | [You're over Me](https://open.spotify.com/album/4QshjexDZvv7fpHNK6f5NX) | 3:03 | 2022-09-22 | 2022-12-02 |
 | [You've Been On My Mind](https://open.spotify.com/track/0S4nrCR1kjMp8y32OEd5Ch) | [Rhys Davids](https://open.spotify.com/artist/3zkCmXCBcpPtF3UqPTNMNv) | [You've Been On My Mind](https://open.spotify.com/album/5yj3b959cOSR2JGaiPqPxH) | 2:21 | 2023-09-01 | 2023-09-08 |

@@ -4,7 +4,7 @@
 
 > nothing but the stink of old moist carpet, the madness of mono\-yellow, the endless background noise of fluorescent lights at maximum hum\-buzz, and approximately six hundred million square miles of randomly segmented empty rooms to be trapped in
 
-108 songs - 5 hr 38 min
+110 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,8 @@
 | [michael has been fired from his job, michael has been burnt to death](https://open.spotify.com/track/18SpEqxrBDvVmznrlDMxhE) | [No Love In The House Of Gold](https://open.spotify.com/artist/5gqzWJS2sbYm3zoKFsC38L) | [atlantis part 2](https://open.spotify.com/album/1rgyl3sbS5ViSSuvnXU734) | 4:54 | 2021-07-25 |  |
 | [Mindtrap](https://open.spotify.com/track/2Qe71atbPn2gsp7onYa9ti) | [fortaliax](https://open.spotify.com/artist/4kG4UmmOfM7uwKIwLs42XH) | [Mindtrap](https://open.spotify.com/album/5biwYJmVPoPfzwAsDBfLbC) | 3:01 | 2024-04-13 |  |
 | [Moon Age](https://open.spotify.com/track/3kY0UrW29gqCYmcI1dZLu6) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Stratosphere](https://open.spotify.com/album/35QrvQ2SlbEwZD8oq2yxBH) | 1:06 | 2020-12-11 |  |
+| [myloveilove](https://open.spotify.com/track/43mQOs2HsT3tCIcOLCZT6m) | [Bogdan Raczynski](https://open.spotify.com/artist/2bYCvT1nqpbbspU5DZG5nA) | [myloveilove](https://open.spotify.com/album/6y14NIgQfyw7hiIcjv3CHW) | 1:49 | 2024-04-30 |  |
+| [MyLoveILove](https://open.spotify.com/track/5IpsQfU48SK621NrxWZ2p0) | [Bogdan Raczynski](https://open.spotify.com/artist/2bYCvT1nqpbbspU5DZG5nA) | [MyLoveILove](https://open.spotify.com/album/4jFIqtkmFs5gRCKW3aNuit) | 2:01 | 2024-04-30 |  |
 | [nevermind, everything's ok](https://open.spotify.com/track/6ALOEBRrJZZ1lpAHbr1VOA) | [dreamcorp.](https://open.spotify.com/artist/0UIto5RF21KnI9X46G0Lau) | [dreams](https://open.spotify.com/album/0iOX2i9TIzAfZZHjF1x1Cm) | 3:18 | 2022-10-15 |  |
 | [No Hope](https://open.spotify.com/track/7ryRKN9WKLHVkKWXNCZfZk) | [1991](https://open.spotify.com/artist/4zvj6YIQxg7KzWo2ubjZNs) | [High\-Tech High\-Life](https://open.spotify.com/album/3Yc4Qy3VGS4IJOJGYwKpjR) | 3:30 | 2020-09-26 |  |
 | [Nocturne in E\-flat Major, Op\. 9: No\. 2](https://open.spotify.com/track/0SXimxdL7qJcnzv3mAEPPT) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Bo](https://open.spotify.com/artist/7hlTtVz10Vlmp9oDPHwjUE) | [Nocturne in E\-flat Major, Op\. 9: No\. 2](https://open.spotify.com/album/4rJGCE3Njwhqf2eoR2uTgG) | 0:52 | 2020-05-19 |  |

@@ -7415,6 +7415,24 @@
     },
     {
       "album": {
+        "name": "Mabrok Ya Ebn El Mahzoza",
+        "url": "https://open.spotify.com/album/7Elizm9OIjwoEW9mvE5sSv"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Saad",
+          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222362,
+      "name": "Mabrok Ya Ebn El Mahzoza",
+      "url": "https://open.spotify.com/track/7wPn81S330EtQ8WzcCoCHX"
+    },
+    {
+      "album": {
         "name": "Mabsoot",
         "url": "https://open.spotify.com/album/3KG0yJp7bS3tLv2wRUmG9N"
       },

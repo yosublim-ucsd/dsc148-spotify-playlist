@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92WbCyxmvRU.md) - [plain]
 
 > Spotifyで人気のソニックシリーズ楽曲を50曲収録したオフィシャルプレイリスト！/Official playlist of 50 popular Sonic series songs on Spotify! \(C\)SEGA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,470 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,757 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92WbCyxmvRU.md) - [plain]
 | 49 | [Rogues Gallery \- Mirage Saloon Zone Act 2](https://open.spotify.com/track/6oF8Hci3tInfRroAzXiVQV) | [Tee Lopes](https://open.spotify.com/artist/5ZOKvzD4GQ7Yg2CS4CVbRb) | [Sonic Mania Original Sound Track \(Selected Edition\)](https://open.spotify.com/album/5GL6hqg5z1jg4lGRsacoL8) | 2:28 |
 | 50 | [E.G.G.M.A.N.](https://open.spotify.com/track/6E3fGYPLWtd1vB0jHaErBR) | [Paul Shortino](https://open.spotify.com/artist/2kzqD9K5B3MRbVB1YW0qTr), [Jun Senoue](https://open.spotify.com/artist/04jFPnV89o5zz9qix9wAVZ) | [Sonic The Hedgehog ”Passion & Pride” Anthems with Attitude from the Sonic Adventure Era \(Vox Collection\)](https://open.spotify.com/album/7akUmj5CWjqs1e6eS4SXXp) | 3:23 |
 
-Snapshot ID: `MTcxMzUzODgwMCwwMDAwMDAwMGRiZmJjNTgyOTExZWNlOWU5NjYzNDQzYWRjODA2ZGQ5`
+Snapshot ID: `ZiKG8AAAAADb+8WCkR7OnpZjRDrcgG3Z`

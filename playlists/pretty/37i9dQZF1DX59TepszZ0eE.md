@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/21fiKdzTbnSKNmYUnyggga?si=k2\_K6pJqTdyARlv\_VNY97w>The Fellowship</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,403 likes - 105 songs - 10 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,509 likes - 105 songs - 10 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 104 | [Jesu Uyi Nkosi](https://open.spotify.com/track/0AcxpSjr50ixt53BrWvyLb) | [Reginald Jabu](https://open.spotify.com/artist/7JH7vnM5DFedm2lcpddAj4) | [Jesu Uyi Nkosi](https://open.spotify.com/album/1zRntt8ENA6kRNG3T2pZqY) | 4:39 |
 | 105 | [Apha’Kum \(Live at Mosaiek Theatre, 2023\)](https://open.spotify.com/track/5XMRW2JA70QNg11AOftT2V) | [Omega Khunou](https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3) | [Apha’Kum \(Live at Mosaiek Theatre, 2023\)](https://open.spotify.com/album/6GfjzpCcMHWlpL0NUleD15) | 7:19 |
 
-Snapshot ID: `MTcxNDA4OTY2MCwwMDAwMDAwMDkzZTNmNWQwNGJlZjBmNDU0OGM5NzQ1MzdmYzIxYjY5`
+Snapshot ID: `ZiruvAAAAACT4/XQS+8PRUjJdFN/whtp`

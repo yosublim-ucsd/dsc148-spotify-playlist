@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/15ngsvOmlTkARCg7ipoNvG.md) - [plain]
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-[IW Music](https://open.spotify.com/user/ikwong1979) - 18,847 likes - 1,049 songs - 21 hr 54 min
+[IW Music](https://open.spotify.com/user/ikwong1979) - 18,841 likes - 1,049 songs - 21 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1058,4 +1058,4 @@ pretty - [cumulative](/playlists/cumulative/15ngsvOmlTkARCg7ipoNvG.md) - [plain]
 | 1048 | [Surrender](https://open.spotify.com/track/31OhD0GfRA1LYHmKXOtjPX) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Surrender](https://open.spotify.com/album/0stB3kqBTVYPmcy22vQktC) | 1:56 |
 | 1049 | [The Holly And The Ivy \- Ambient Version](https://open.spotify.com/track/3ABnQf0SFfBZIL3AiePmcS) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [The Holly And The Ivy \(Ambient Version\)](https://open.spotify.com/album/344goY86bloznV29PaIhhV) | 1:01 |
 
-Snapshot ID: `OTM5OCw2YWYyZWM1YjM0YjMxMTBlM2UzNGExN2U1NWY4YmI1ODYzZjhmOGEz`
+Snapshot ID: `AAAktmry7Fs0sxEOPjShflX4u1hj+Pij`

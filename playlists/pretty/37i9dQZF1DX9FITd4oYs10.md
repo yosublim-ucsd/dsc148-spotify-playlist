@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 
 > Os brabos do hip hop nacional\. Foto: Racionais MCs
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,940 likes - 60 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,935 likes - 60 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 59 | [O Vagabundo e a Dama](https://open.spotify.com/track/5Ct7Q1XhI6J2NThehcgb05) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE) | [Desorientado](https://open.spotify.com/album/0P8XE4f89zBztayYjJj4pa) | 5:07 |
 | 60 | [Facetime](https://open.spotify.com/track/5JsxOLyWOMbcprA8WsIinN) | [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Prin$](https://open.spotify.com/album/6kMO9hl1EuG7fVJgCGPpLw) | 3:00 |
 
-Snapshot ID: `MTcwODcxMTIyOSwwMDAwMDAwMGZjZjNjNzRiNjcwNDc4YzA4MDg2OTEyYzg3NTYwNTI3`
+Snapshot ID: `ZdjdPQAAAAD888dLZwR4wICGkSyHVgUn`

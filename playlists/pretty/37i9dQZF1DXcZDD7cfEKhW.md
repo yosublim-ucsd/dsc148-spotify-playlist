@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 
 > Remixed pop and <a href="spotify:genre:edm\_dance">dance</a> collabs\. Cover: Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,381,063 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,380,867 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 | 74 | [TRUSTFALL \- Drove Remix](https://open.spotify.com/track/0JylJPPllrXMwbogQGNOej) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI) | [TRUSTFALL \(The Remixes\)](https://open.spotify.com/album/2P3cfwf0rwwG3xMZ4EMgP6) | 3:31 |
 | 75 | [Sweetest Pie \- David Guetta Dance Remix](https://open.spotify.com/track/5xUJYQA7f6WU77N8VDASBH) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Sweetest Pie \(David Guetta Remixes\)](https://open.spotify.com/album/3dOimtCkfFTZEgII99rZFl) | 2:23 |
 
-Snapshot ID: `MTcxMzI4NDgyNywwMDAwMDAwMGU5OTA3NDhiYjc0MTljYTY0MjcyMzQyZTIxMTAxNTQw`
+Snapshot ID: `Zh6m2wAAAADpkHSLt0GcpkJyNC4hEBVA`

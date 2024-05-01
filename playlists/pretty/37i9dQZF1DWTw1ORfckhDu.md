@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Ege Zulu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,778 likes - 70 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,782 likes - 70 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 69 | [Ikivihree](https://open.spotify.com/track/1yjoucRYzZYCikibvUhxH6) | [M.A](https://open.spotify.com/artist/7masbwBVM0UBxIs0495YkJ) | [Liminaalitila](https://open.spotify.com/album/2fXhOnL34YGID3PrUGZpTP) | 4:21 |
 | 70 | [Jumala on muija](https://open.spotify.com/track/73oMNbt5BkihL2uAs0qpWA) | [BÄMÄ](https://open.spotify.com/artist/1nDMB5M5uBTt0SQWFgZtc1), [Marja\-Sisko Aalto](https://open.spotify.com/artist/5mgV0qvKeC2iSdHMQhjMtL) | [Jumala on muija](https://open.spotify.com/album/44LdOELOcVN9OcDoEo2EeC) | 2:37 |
 
-Snapshot ID: `MTcxNDA3ODgwMCwwMDAwMDAwMDY5MzVmMmM0MjI5YjMxMTk2YTE2MzRkNzYxMzA3MzBm`
+Snapshot ID: `ZirEUAAAAABpNfLEIpsxGWoWNNdhMHMP`

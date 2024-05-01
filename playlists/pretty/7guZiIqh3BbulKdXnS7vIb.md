@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7guZiIqh3BbulKdXnS7vIb.md) - [plain]
 
 > Hit the road with over 5 hours of classics from The Rolling Stones and many more! Cover: The Tragically Hip
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 7,905 likes - 91 songs - 6 hr 18 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 7,904 likes - 91 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/7guZiIqh3BbulKdXnS7vIb.md) - [plain]
 | 90 | [The Show Must Go On \- Live at The O2, London, UK / 04/07/2018](https://open.spotify.com/track/4SUeMT5PlPXNw44TBk5zOR) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [The Show Must Go On \(Live at The O2, London, UK / 04/07/2018\)](https://open.spotify.com/album/1JQooEtZjWWPcYcCTphf10) | 4:17 |
 | 91 | [Instant Karma! \(We All Shine On\) \- Ultimate Mix](https://open.spotify.com/track/7iFAmqShDyQJ3mGtCSFf44) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Instant Karma! \(We All Shine On\) \[Ultimate Mix\]](https://open.spotify.com/album/11PbNeILuOF2AK1qpS3ozg) | 3:22 |
 
-Snapshot ID: `MTA4NCw1MWE1YWZmMDEzZGRmNzkwODliODk1Y2UxYjg3ZmNjYTZkMjA4MDhj`
+Snapshot ID: `AAAEPFGlr/AT3feQibiVzhuH/MptIICM`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist\. Cover: AYLIVA, Apache 207
 
-[Spotify](https://open.spotify.com/user/spotify) - 797,997 likes - 96 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 798,173 likes - 96 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 95 | [Lemonade](https://open.spotify.com/track/7MmYhz9abvtVCNw1d6MErJ) | [Donata](https://open.spotify.com/artist/6rC5q8dgyXjvNUICucB075) | [Alchemy](https://open.spotify.com/album/1wNlv96WxMkdQMLWqLwvz1) | 3:59 |
 | 96 | [IMAGE](https://open.spotify.com/track/2NyGXyPzrLfygByT9dfAfc) | [Die Atzen](https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu), [Samu](https://open.spotify.com/artist/3GPAoP1ylBNdYDEsWZxk1L) | [IMAGE](https://open.spotify.com/album/7omCc11UEQ8CdF92BHosmW) | 2:14 |
 
-Snapshot ID: `MTcxNDExNzIwMywwMDAwMDAwMDY2MTIwM2MyZTlkOWRiNTljNDNkMjZlNWU0ZDZmMGEz`
+Snapshot ID: `ZitaUwAAAABmEgPC6dnbWcQ9JuXk1vCj`

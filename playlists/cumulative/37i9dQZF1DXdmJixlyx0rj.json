@@ -608,7 +608,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 161280,
       "name": "Catch Me If You Can",
       "url": "https://open.spotify.com/track/3pwUWPoXCyCk3s4TiAMxk3"
@@ -1754,6 +1754,24 @@
       "duration_ms": 300000,
       "name": "Power - Dash Berlin Remix",
       "url": "https://open.spotify.com/track/2ddwXrg3E3IZcXeUImlv7F"
+    },
+    {
+      "album": {
+        "name": "Power (Remixes)",
+        "url": "https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198133,
+      "name": "Power - IMLAY Remix",
+      "url": "https://open.spotify.com/track/3swlav6jHllgTqg04ViBB1"
     },
     {
       "album": {

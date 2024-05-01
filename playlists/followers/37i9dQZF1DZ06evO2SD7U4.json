@@ -1,7 +1,7 @@
 {
-  "2024-04-30": 3757,
+  "2024-05-01": 3757,
   "date_first_scraped": "2023-01-14",
-  "description": "This Is Botellita De Jerez. Los temas esenciales, todos en una lista.",
+  "description": "This Is Botellita De Jerez. Sus mejores \u00e9xitos, todos en una playlist.",
   "name": "This Is Botellita De Jerez",
   "tracks": [
     {
@@ -323,7 +323,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 213200,
       "name": "El Chin Pun Cuaz",
       "url": "https://open.spotify.com/track/4huuYKuzBzWDFXWhbDdUyV"
@@ -737,7 +737,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 370493,
       "name": "La Valona de la Conquista",
       "url": "https://open.spotify.com/track/4HDDb63OphLhe87KxZ61SS"

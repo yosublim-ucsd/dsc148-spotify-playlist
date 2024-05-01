@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/1aGNMszxAH7iQy0tq9KDJX.md) - [plain]
 | 22 | [Bulletproof Heart](https://open.spotify.com/track/2EGF4JrisrJ4D4HOdTyYEO) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Danger Days: The True Lives of the Fabulous Killjoys](https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr) | 4:56 |
 | 23 | [Alien Boy](https://open.spotify.com/track/58GydyrmBCL2dSAQWbTDHE) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 2:44 |
 
-Snapshot ID: `MjUsOWU2Nzg2MTA0NDQyYjRjMmRlMDNmOGJhMzE0ZTFjMzRkZDQyMjY2OA==`
+Snapshot ID: `AAAAGZ5nhhBEQrTC3gP4ujFOHDTdQiZo`

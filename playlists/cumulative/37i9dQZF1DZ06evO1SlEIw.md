@@ -2,7 +2,7 @@
 
 ### [This Is Linked Horizon](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1SlEIw)
 
-> This Is Linked Horizon\. Los temas esenciales, todos en una lista.
+> This is Linked Horizon\. أغانٍ رائعة في قائمة أغانٍ واحدة.
 
 36 songs - 3 hr 0 min
 

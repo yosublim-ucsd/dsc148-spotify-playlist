@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/7uVQFBe7HHB2LQRMiU1XI9.md) - [plain]
 | 100 | [God Lifts Up the Lowly](https://open.spotify.com/track/6d6vJugNByKNYb2TZMIdhT) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Transangelic Exodus](https://open.spotify.com/album/0qH9x299SJCF03WuVXgXAN) | 3:49 |
 | 101 | [Sax Rohmer \#1](https://open.spotify.com/track/4UAyiRDthWvQpXsDb4BebY) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Heretic Pride](https://open.spotify.com/album/6MUZjh882oNqHYbVhDpTTy) | 3:42 |
 
-Snapshot ID: `MTAzLGFiNTQzYWRmNjZhNzI3YWQ2OWEzYjlmMzg1ODc5ZGQxMGM2ODM2MDk=`
+Snapshot ID: `AAAAZ6tUOt9mpyetaaO584WHndEMaDYJ`

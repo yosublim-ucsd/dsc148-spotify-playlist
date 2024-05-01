@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MkAygND7Vq.md) - [plain]
 
 > Four friends\. One trip\. No Luck\. Listen to music from and inspired by Joy Ride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,881 likes - 30 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,901 likes - 30 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MkAygND7Vq.md) - [plain]
 | 29 | [I Love You Bitch](https://open.spotify.com/track/3WjCwQWPM8ggvyEwUPFBZ5) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:28 |
 | 30 | [A Thousand Miles](https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Be Not Nobody](https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld) | 3:57 |
 
-Snapshot ID: `MTY4OTcwNjM1NSwwMDAwMDAwMDM1ZGQyYjEyZTQ3YzMyNDE1M2UyMTQyZDI1ZTkxMmQy`
+Snapshot ID: `ZLbfcwAAAAA13SsS5HwyQVPiFC0l6RLS`

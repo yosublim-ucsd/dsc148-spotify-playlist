@@ -4,7 +4,7 @@
 
 > The best new music every Friday\. Cover: Hovvdy
 
-6,935 songs - 16 day 20 hr 55 min
+6,936 songs - 16 day 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1768,7 +1768,7 @@
 | [Elegant Girl Inc.](https://open.spotify.com/track/6ZHm8eEr2hsFAfeAGln4mE) | [Blonder](https://open.spotify.com/artist/0AhjcWvgOYE0lPpuTMh1i9) | [Elegant Girl Inc.](https://open.spotify.com/album/0xXk9kktrlTpgDesk18MZm) | 2:23 | 2019-05-26\* | 2019-06-28 |
 | [Elevation](https://open.spotify.com/track/0mp1m9SCHCdlDRRSQmGEua) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [SAINT WKND](https://open.spotify.com/artist/4vO1cl2ndGrUPSl6IYTHs6), [Olivia Nelson](https://open.spotify.com/artist/4QJrAwNc5j17E5N2PxpqGj) | [Elevation](https://open.spotify.com/album/2JCgPaCdVb05EksjhaPhoH) | 3:45 | 2019-07-05 | 2019-08-13 |
 | [Elizabeth Taylor](https://open.spotify.com/track/3ugqcqDDIuBGovoWueX1zP) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO) | [Elizabeth Taylor](https://open.spotify.com/album/59gCtHmNtSL4NzjIXYGL5g) | 3:15 | 2021-11-12 | 2022-01-08 |
-| [Ella's From Somewhere Else](https://open.spotify.com/track/1qqCcsSkBTM9K9Apf5oiZs) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Ella's From Somewhere Else](https://open.spotify.com/album/45NBgUikLmoNXxxKHJiHt9) | 6:04 | 2024-04-05 |  |
+| [Ella's From Somewhere Else](https://open.spotify.com/track/1qqCcsSkBTM9K9Apf5oiZs) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Ella's From Somewhere Else](https://open.spotify.com/album/45NBgUikLmoNXxxKHJiHt9) | 6:04 | 2024-04-05 | 2024-05-01 |
 | [elsie](https://open.spotify.com/track/5dSAVONexmt8XipPux7QjZ) | [Martin Luke Brown](https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE) | [elsie](https://open.spotify.com/album/4pWfJR7DS0DMbpU4dh3U4Y) | 3:23 | 2023-02-03 | 2023-03-11 |
 | [Elvis](https://open.spotify.com/track/7DYSMXzMaHMTIfUm21SN4s) | [Talisco](https://open.spotify.com/artist/0ZR3khgseh3xy3s8iBYWrI) | [Elvis](https://open.spotify.com/album/67dLz2xGDTPGmOOd8rLuCm) | 3:00 | 2019-07-05 | 2019-08-13 |
 | [Email](https://open.spotify.com/track/1LYhf2viBn1zBtwVVJkOhR) | [Renny Conti](https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY) | [might.bail](https://open.spotify.com/album/1yILUjt9D5hNNmktCqR3rU) | 4:05 | 2022-08-12 | 2022-09-10 |
@@ -2716,6 +2716,7 @@
 | [Home](https://open.spotify.com/track/6scchkS0NryAmHAI1DAn3u) | [j solomon](https://open.spotify.com/artist/1EinrMuAa4zkiBYq6NDZg4) | [Home](https://open.spotify.com/album/0Pg31KK4XLYNdxakShPn3R) | 3:38 | 2023-01-20 | 2023-02-25 |
 | [Home](https://open.spotify.com/track/6zuvB7LsseXwZX5uPg85NP) | [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [Home](https://open.spotify.com/album/7I9rSYvAxc5lcyriRGAG0T) | 2:01 | 2020-03-26 | 2020-05-01 |
 | [Home \(From Barbie The Album\)](https://open.spotify.com/track/1GPrL6feCYodRiYlZkXs5I) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Home \(From Barbie The Album\)](https://open.spotify.com/album/1sNwCxUQOJNIPiWhXu6YBF) | 3:46 | 2023-07-21 | 2023-08-26 |
+| [Home \- Single Version](https://open.spotify.com/track/4gXSQjrANdHYBxJpJO8Gcv) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Home](https://open.spotify.com/album/0qXKhQkHGuiUXs7sweomWd) | 3:16 | 2024-04-30 |  |
 | [Home \- Toro y Moi Remix](https://open.spotify.com/track/6YuKgMxa0XH6CC2khScuUV) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Suddenly Remixes](https://open.spotify.com/album/1lulYXHFBSYd8Y1hbaPXzE) | 3:11 | 2021-03-14 | 2021-04-24 |
 | [Home By Now](https://open.spotify.com/track/5nnPrQFYUQijEz4lwMX4dC) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Home By Now](https://open.spotify.com/album/6ua077NQRY18YA0Yhk5rVt) | 4:28 | 2022-05-27 | 2022-06-26 |
 | [Home Maker \(Edit\)](https://open.spotify.com/track/5rFtI5SpdK3VT7vmd0GAhs) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Home Maker](https://open.spotify.com/album/65DXmlrnWyJwqelAyE4JrU) | 3:52 | 2022-03-18 | 2022-04-29 |

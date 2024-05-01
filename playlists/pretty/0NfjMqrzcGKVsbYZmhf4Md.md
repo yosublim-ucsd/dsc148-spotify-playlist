@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NfjMqrzcGKVsbYZmhf4Md.md) - [plain]
 
 > All songs about drinking, cheating, heartaches and everything else going on in a classic honky tonk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,839 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,836 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/0NfjMqrzcGKVsbYZmhf4Md.md) - [plain]
 | 49 | [Heartaches By the Number](https://open.spotify.com/track/4imYTftUBGtMP4DKfJRYyf) | [Ray Price](https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP) | [Greatest Hits](https://open.spotify.com/album/1iIdCS3AKg1XSovy1KsfXX) | 2:57 |
 | 50 | [The Storm Within My Heart \- Single Version](https://open.spotify.com/track/31ogzMddHY8kXi5lanJqBs) | [Billy Walker](https://open.spotify.com/artist/0wOnokuOcSoYAUZN6jmpDc) | [Billy Walker: Columbia Hits](https://open.spotify.com/album/0llaheBCCsjIKMKeST5fmm) | 2:24 |
 
-Snapshot ID: `MTEsZmY1ZjllYjEwYTU5NDIxNzE0NGZmOGYwNTUyMDRlOWE2ZjE2MzlkYg==`
+Snapshot ID: `AAAAC/9fnrEKWUIXFE/48FUgTppvFjnb`

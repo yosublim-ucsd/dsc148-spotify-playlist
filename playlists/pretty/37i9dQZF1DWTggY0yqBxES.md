@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: AG Club
 
-[Spotify](https://open.spotify.com/user/spotify) - 944,422 likes - 100 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 944,429 likes - 100 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 99 | [BBE](https://open.spotify.com/track/1C4sXv58De3qibMjjPyNaB) | [Snotty Nose Rez Kids](https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5) | [BBE](https://open.spotify.com/album/4P15AVqGcbL9zWTZ03EBfC) | 2:42 |
 | 100 | [Don't Check 4 Me \(feat\. Duckwrth & Saba\)](https://open.spotify.com/track/3MJhp4duKazKhnp0Of1mom) | [Nascent](https://open.spotify.com/artist/5727wMPGcNsG22DBboWpX6), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Don't Check 4 Me \(feat\. Duckwrth & Saba\)](https://open.spotify.com/album/45YCAdhDcais6gYe6cDIks) | 2:28 |
 
-Snapshot ID: `MTcxNDEwNDAwMCwwMDAwMDAwMDM5Y2NkMzgzZTg1YTAwNzFhYmZjMmY5ODNmNGE0ZjA1`
+Snapshot ID: `ZismwAAAAAA5zNOD6FoAcav8L5g/Sk8F`

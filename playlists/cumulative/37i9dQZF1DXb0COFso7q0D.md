@@ -2,7 +2,7 @@
 
 ### [Los Que Mandan \- Música Mexicana](https://open.spotify.com/playlist/37i9dQZF1DXb0COFso7q0D)
 
-> The playlist sin fronteras, powering <a href="spotify:genre:0JQ5DAqbMKFEJHdEnquSi1">BelicoFest</a>🔥Click on the links to enjoy the setlists of <a href="spotify:playlist:37i9dQZF1DWVHIYChxh9sq">Oscar Maydon</a>,<a href="spotify:playlist:37i9dQZF1DWZ2jQBazXjNj">Luis R Conriquez</a> & <a href="spotify:playlist:37i9dQZF1DXbApqiewDQsL">Gerardo Ortiz </a>
+> The playlist sin fronteras.
 
 583 songs - 1 day 6 hr 16 min
 

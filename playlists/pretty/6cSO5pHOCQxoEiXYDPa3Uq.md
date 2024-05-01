@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/6cSO5pHOCQxoEiXYDPa3Uq.md) - [plain]
 | 44 | [The Deceiver](https://open.spotify.com/track/2Xecssw8Pt8JDHW64zSIzK) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Born of Sirius](https://open.spotify.com/album/08ncjQXYQlmpHGM7cuJryd) | 4:44 |
 | 45 | [Live To Burn](https://open.spotify.com/track/6owUwD6NE8P2nifETgABKu) | [Start A Fire](https://open.spotify.com/artist/1SvcuehmDEoXL0y5Vtte8Z) | [Live To Burn \(1\)](https://open.spotify.com/album/2FFWuIMhNDEHMSrVWsvmJi) | 4:41 |
 
-Snapshot ID: `NCxiYmI4M2NlMmNkNTIxYWQwNGM4YTg5YTQyOWIxODVlNTJiNTAwYTUx`
+Snapshot ID: `AAAABLu4POLNUhrQTIqJpCmxheUrUApR`

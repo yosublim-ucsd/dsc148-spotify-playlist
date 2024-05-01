@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0EMU2v4In7YduH1ICRz6xr.md) - [plain]
 
 > ITZY&\#x27;s performance list of THE 1ST WORLD TOUR &lt;CHECKMATE&gt; in JAPAN
 
-[ITZYOfficial](https://open.spotify.com/user/annakimmy2018) - 2,759 likes - 24 songs - 1 hr 15 min
+[ITZYOfficial](https://open.spotify.com/user/annakimmy2018) - 2,762 likes - 24 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/0EMU2v4In7YduH1ICRz6xr.md) - [plain]
 | 23 | [Boys Like You](https://open.spotify.com/track/34y2pV3RGFiCHSP12bNHVk) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Boys Like You](https://open.spotify.com/album/1KYgerdWcEqB7KbppYtdXU) | 3:43 |
 | 24 | [NOBODY LIKE YOU](https://open.spotify.com/track/4YUqGDMd1yJAa5i2ShysI6) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ME](https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U) | 3:17 |
 
-Snapshot ID: `MzcsNjYwM2U1NDU0NmU2NjA1MjY1NjM1MDk0ZDlkMzg1YTNjYTU3NTU0NA==`
+Snapshot ID: `AAAAJWYD5UVG5mBSZWNQlNnThaPKV1VE`

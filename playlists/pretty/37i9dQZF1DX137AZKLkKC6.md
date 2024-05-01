@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX137AZKLkKC6.md) - [plain]
 
 > Las grandes del Despecho y el Género Popular\. Foto: Nico Hernández
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,515 likes - 85 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,483 likes - 85 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX137AZKLkKC6.md) - [plain]
 | 84 | [Matemos Las Ganas](https://open.spotify.com/track/4DFy4AEko2E5Vwtj24nSuQ) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Matemos Las Ganas](https://open.spotify.com/album/3T8h8FCiTVaB81R2mzlYgG) | 3:02 |
 | 85 | [Que Mal Te Ves Sin Mí](https://open.spotify.com/track/7zHo6F8N4z4SOl9eBmLqpn) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [No Pongan Esas Canciones](https://open.spotify.com/album/36AXhk3xVtjYKGHhV4NfKu) | 3:17 |
 
-Snapshot ID: `MTcxNDExNDM4MCwwMDAwMDAwMDhmNmQ0ZjAyOGU0ZTEyYjBjMWYyODhjYjczZmY2MTZj`
+Snapshot ID: `ZitPTAAAAACPbU8Cjk4SsMHyiMtz/2Fs`

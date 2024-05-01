@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1RKtKRcejWjN6ZOkghImIV.md) - [plain]
 
 > Slipknot, Mudvayne, Hatebreed\. Turn the volume all the way up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,363 likes - 20 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,361 likes - 20 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/1RKtKRcejWjN6ZOkghImIV.md) - [plain]
 | 19 | [The Crimson](https://open.spotify.com/track/48UYVUCksbY7aSdInFrU8l) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Best Of Atreyu](https://open.spotify.com/album/3SHsNR8ItEoC91NfCMsAFb) | 4:01 |
 | 20 | [Scum Of The Earth](https://open.spotify.com/track/4bZGXFm9l0086jT9YpwjSQ) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Sinister Urge](https://open.spotify.com/album/5fR1RSnZRp9ofg5LSa5P4C) | 2:55 |
 
-Snapshot ID: `NSw5NDRhZTQ1MDNhOWQzN2U3NDc5NTNiNDdmYWE1ODFlMjg3ODZiN2Jh`
+Snapshot ID: `AAAABZRK5FA6nTfnR5U7R/qlgeKHhre6`

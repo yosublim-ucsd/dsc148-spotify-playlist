@@ -2,7 +2,7 @@
 
 ### [This Is Fernanda Brum](https://open.spotify.com/playlist/37i9dQZF1DZ06evO04d0Xi)
 
-> This Is Fernanda Brum\. Los temas esenciales, todos en una lista.
+> This is Fernanda Brum\. The essential tracks, all in one playlist.
 
 70 songs - 5 hr 45 min
 

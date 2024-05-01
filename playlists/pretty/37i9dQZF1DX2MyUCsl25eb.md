@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 969,145 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 969,155 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 | 99 | [What If \- Aaron Taylor Remix](https://open.spotify.com/track/7fiA9bJUQN1cIQcppLkhQP) | [JERUB](https://open.spotify.com/artist/2eG0Kf7mNIbn0SMiA2LjBd), [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [What If \(Aaron Taylor Remix\)](https://open.spotify.com/album/3dtHEHM6X0MB33WqbW0Mz2) | 2:25 |
 | 100 | [Somebody To You](https://open.spotify.com/track/191IBMSr4SVrnSyh3lPipY) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Somebody To You](https://open.spotify.com/album/63TNvVXQSYamQKLQVROrkd) | 4:10 |
 
-Snapshot ID: `MTcxNDEwNDA2MCwwMDAwMDAwMGZjMjEwMGVjMDk4MTgyNTJlNjc4NGRhYzJhNjVmZDBj`
+Snapshot ID: `Zism/AAAAAD8IQDsCYGCUuZ4TawqZf0M`

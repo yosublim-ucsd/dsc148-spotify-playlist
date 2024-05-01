@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/2G5Wlqt6clkHH2KFK2LS5Q.md) - [plain]
 | 23 | [Woman To Woman](https://open.spotify.com/track/6Vt6io1zYTIwkzfpbKvPym) | [Shirley Brown](https://open.spotify.com/artist/5EORJzqrFf7pwweCv9fUnV) | [Soul Sisters](https://open.spotify.com/album/0JocbLvQrb8RSWxxwBNfkA) | 3:54 |
 | 24 | [Keep Me In Mind](https://open.spotify.com/track/56wGOS3UEO4L5cucWOhWHh) | [Boy George](https://open.spotify.com/artist/2BWfZGPtsjRlRp7JTDqI45) | [Sold](https://open.spotify.com/album/6B4RhkHgm341clE9eX8x0I) | 4:05 |
 
-Snapshot ID: `NjEsNGEwZjJkZTI2OGRmOGI2ODJjNDlmZDgyMDBmY2JiNGQwNmIzY2RmMg==`
+Snapshot ID: `AAAAPUoPLeJo34toLEn9ggD8u00Gs83y`

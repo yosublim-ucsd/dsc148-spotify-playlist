@@ -25,4 +25,4 @@ pretty - [cumulative](/playlists/cumulative/6ACpzjOhWH3V8nw5hvxpYE.md) - [plain]
 | 15 | [Riches and Wonders](https://open.spotify.com/track/0KMtMleAGw7Kn4pSRYPAy0) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [All Hail West Texas \(Remastered\)](https://open.spotify.com/album/3yreM49ULtR2xW4fSENo3K) | 3:58 |
 | 16 | [Condition 11:11](https://open.spotify.com/track/1ze24O8m1ZIbrxLafPCcMk) | [Defiance, Ohio](https://open.spotify.com/artist/275dFoyS7o1g1O4rFgy3Ix) | [The Great Depression](https://open.spotify.com/album/3ZVDkyDZpPah8FnbWJXQXG) | 3:07 |
 
-Snapshot ID: `MTcsZTZjZmQ1ZmNkYzM2NTI2YTRlNDMxMmYwYjJkOTlhNWZjOWU4MjJiMg==`
+Snapshot ID: `AAAAEebP1fzcNlJqTkMS8LLZml/J6CKy`

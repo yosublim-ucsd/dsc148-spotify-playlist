@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,152 likes - 159 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,250 likes - 159 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 | 158 | [Raconteur](https://open.spotify.com/track/06qPEPcQwF1tZWWxRvDVPI) | [Elijah Stone](https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu) | [Raconteur](https://open.spotify.com/album/3XWGX9Y84mIXoSYAUXRN0u) | 2:17 |
 | 159 | [La Condesa](https://open.spotify.com/track/2AGOxoYeqI7nFJMA2AmG27) | [Chico Getz](https://open.spotify.com/artist/2PDfdIdjY7tHMa20yxpBhW) | [La Condesa](https://open.spotify.com/album/3l9FBpt6oDAkq9UMGgBQwZ) | 3:14 |
 
-Snapshot ID: `MTcxMzUyMzAwMSwwMDAwMDAwMDU2NmFjZmQ0ODgxNjJiMWY3OGQwZmYzYTI2MmQ4MmQ2`
+Snapshot ID: `ZiJJOQAAAABWas/UiBYrH3jQ/zomLYLW`

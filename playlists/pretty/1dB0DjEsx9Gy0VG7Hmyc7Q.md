@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/1dB0DjEsx9Gy0VG7Hmyc7Q.md) - [plain]
 | 26 | [Tell the World \(feat\. Mali Music\)](https://open.spotify.com/track/5Kjq2vqB77H1KhGshxVph4) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [Gravity](https://open.spotify.com/album/4hVibj0u1CY78Qc3UyQLiq) | 3:36 |
 | 27 | [Happy Birthday](https://open.spotify.com/track/1CuEEiZwbcoGLwe0TKAcvH) | [Altered Images](https://open.spotify.com/artist/07h7JMfYWswTq4qpinC5q4) | [80s 100 Hits](https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF) | 2:58 |
 
-Snapshot ID: `MzYsMTkwMWVkMDFjOGJjODQ2YTY3NTNkMzVmMDBhYTJjYmFhMzcwYWI2Yg==`
+Snapshot ID: `AAAAJBkB7QHIvIRqZ1PTXwCqLLqjcKtr`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: BENNETT
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,105 likes - 79 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,339 likes - 79 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 78 | [The Bad Touch \- Remix](https://open.spotify.com/track/6IoctBjlR8SeHa3Ad4ZhlI) | [AHM](https://open.spotify.com/artist/4GIxVHRG8N5puZrn8cyNpY), [EJ3000](https://open.spotify.com/artist/6dpX7szxr75uXCxiqhp7Cu) | [The Bad Touch \(Remix\)](https://open.spotify.com/album/0UqizI4DvsfSMNAqImYWUo) | 2:19 |
 | 79 | [Let You Down](https://open.spotify.com/track/1jN6NS1WhjCzRG7cicfmMj) | [Martin Trevy](https://open.spotify.com/artist/0i3OcVzzb5UEdC4j4hRQte) | [Let You Down](https://open.spotify.com/album/4ivH3UndNFGUjhHQVLqmoj) | 2:42 |
 
-Snapshot ID: `MTcxNDA4MjQwMCwwMDAwMDAwMGE5Mjg2MzZmNThkY2M5NDI4OWI3OTVhNDliM2Q5OTA1`
+Snapshot ID: `ZirSYAAAAACpKGNvWNzJQom3laSbPZkF`

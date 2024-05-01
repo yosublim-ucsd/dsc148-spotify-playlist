@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's Country crop\. Cover: Jessie Murph
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,797 likes - 85 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,876 likes - 85 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 84 | [Bitter Winds](https://open.spotify.com/track/4X9UTklC74F5hnlVjrPbnN) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Bitter Winds](https://open.spotify.com/album/3IMFjhO4GoOADq0tFXhvGg) | 4:21 |
 | 85 | [She Fell in Love](https://open.spotify.com/track/3J2VvjaVqkPsyya4ga99dW) | [Alex Mather](https://open.spotify.com/artist/5MtAaF6q3qHVfXfoUdBokw), [Richie Allen](https://open.spotify.com/artist/2QycgFiuMbf6EiyqH9jeyY) | [She Fell in Love](https://open.spotify.com/album/7pofaNDz7zTwCqiGge13HD) | 3:12 |
 
-Snapshot ID: `MTcxNDA5MjgzOSwwMDAwMDAwMDZhMjNiM2QzMTgxMjBkMTYyZWYzMGJmYmQ3NDJkMzZk`
+Snapshot ID: `Zir7JwAAAABqI7PTGBINFi7zC/vXQtNt`

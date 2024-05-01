@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover:  <a href="https://open.spotify.com/artist/0Es1TBdBiQPIdwQWLJelte?si=YCmF44OES4aPXREYeQ5CWw">Josiah De Disciple</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 742,714 likes - 50 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 743,433 likes - 50 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 49 | [Gabriella \(feat\. Officixl RSA\)](https://open.spotify.com/track/3s2qeMcvlTLdhkXy5VIUBA) | [Pcee](https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4), [Officixl Rsa](https://open.spotify.com/artist/1BC2o2RW9sGr2NB8jXlYQv) | [Mama](https://open.spotify.com/album/1ZfjnouoAbgcSM5aHR9H3J) | 6:23 |
 | 50 | [Yini Ngathi \(Insane\)](https://open.spotify.com/track/7Gc7tNSocAypLct0MYYzmk) | [Felo Le Tee](https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [Keynote](https://open.spotify.com/artist/5it8lnSTlpMfnKnrMrfZzE) | [Yini Ngathi](https://open.spotify.com/album/3JiFfwtbTsNzQO2Of6xk5W) | 5:47 |
 
-Snapshot ID: `MTcxNDM4MjkxMiwwMDAwMDAwMDkyMjA0YWUzN2MyZDZiMDc5YjMzYmVkNzQxMDA3NWI0`
+Snapshot ID: `Zi9oQAAAAACSIErjfC1rB5szvtdBAHW0`

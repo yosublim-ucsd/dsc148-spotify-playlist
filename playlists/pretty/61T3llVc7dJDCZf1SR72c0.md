@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/61T3llVc7dJDCZf1SR72c0.md) - [plain]
 | 27 | [Never](https://open.spotify.com/track/4IUMNDQmNL70HXudrew4OQ) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Yugen](https://open.spotify.com/album/0kK61choezyv9hdcrmeh1r) | 4:48 |
 | 28 | [Irresistible](https://open.spotify.com/track/3EAUSlUzVTLhxLn8Fhpz5V) | [Deafheaven](https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9) | [Sunbather](https://open.spotify.com/album/2kKXGWaCEl06EKZ4DxBJIT) | 3:13 |
 
-Snapshot ID: `MTEsODAxMWUyMjc5NTY2NzU4MTIyZWQyNTQxZWU4NTllNjNhNDM0YjhmNg==`
+Snapshot ID: `AAAAC4AR4ieVZnWBIu0lQe6FnmOkNLj2`

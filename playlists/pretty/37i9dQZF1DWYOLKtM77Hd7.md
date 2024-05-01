@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOLKtM77Hd7.md) - [plain]
 
 > 'Tis the season to enjoy these classic Christmas songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,909 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,885 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOLKtM77Hd7.md) - [plain]
 | 49 | [We Wish You A Merry Christmas](https://open.spotify.com/track/6h3MR7BSXsxUgypreO85Mp) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [A Christmas Together \- John Denver & The Muppets](https://open.spotify.com/album/0ybUMi0SERu1UqtTivSSFb) | 1:05 |
 | 50 | [Blue Christmas](https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Christmas Album](https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N) | 2:09 |
 
-Snapshot ID: `MTcwMjk1OTY0OCwwMDAwMDAwMDRkZTcxODJlYTAwNzM1YmI4NzUxOTQwOWM3OGUyZTRj`
+Snapshot ID: `ZYEaIAAAAABN5xguoAc1u4dRlAnHji5M`

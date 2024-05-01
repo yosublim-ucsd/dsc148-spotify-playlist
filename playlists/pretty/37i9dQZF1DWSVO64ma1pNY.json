@@ -1,12 +1,12 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 296670,
+  "num_followers": 296661,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcwOTc0MjYzNiwwMDAwMDAwMDI2NWM0MDFmZmQ4YzgzMTg4Y2M4ZDhiNzkzZWYyYTFh",
+  "snapshot_id": "ZeiaLAAAAAAmXEAf/YyDGIzI2LeT7yoa",
   "tracks": [
     {
       "added_at": "2024-03-06 16:30:36",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-03-06 16:30:36",
       "album": {
-        "name": "Handwritten (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3et3fAEh76eTu4O99WTtfY"
-      },
-      "artists": [
-        {
-          "name": "The Gaslight Anthem",
-          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
-        }
-      ],
-      "duration_ms": 207546,
-      "name": "\"45\"",
-      "url": "https://open.spotify.com/track/5LQN7c99Q8gvmh6xJcTZgj"
-    },
-    {
-      "added_at": "2024-03-06 16:30:36",
-      "album": {
         "name": "Won\u2019t Stand Down",
         "url": "https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 209061,
       "name": "Won\u2019t Stand Down",
       "url": "https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz"
+    },
+    {
+      "added_at": "2024-03-06 16:30:36",
+      "album": {
+        "name": "Handwritten (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3et3fAEh76eTu4O99WTtfY"
+      },
+      "artists": [
+        {
+          "name": "The Gaslight Anthem",
+          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
+        }
+      ],
+      "duration_ms": 207546,
+      "name": "\"45\"",
+      "url": "https://open.spotify.com/track/5LQN7c99Q8gvmh6xJcTZgj"
     },
     {
       "added_at": "2024-03-06 16:30:36",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-03-06 16:30:36",
       "album": {
-        "name": "When You Think It's Right It's Always Wrong",
-        "url": "https://open.spotify.com/album/1IZxAgVHBH8Z3iBsh8EBxd"
-      },
-      "artists": [
-        {
-          "name": "Post Profit",
-          "url": "https://open.spotify.com/artist/0nLFDUWGeYyJ88FNXnx4Xg"
-        }
-      ],
-      "duration_ms": 246336,
-      "name": "Smother!",
-      "url": "https://open.spotify.com/track/3fbqRfChbrtlPOg1imoOsN"
-    },
-    {
-      "added_at": "2024-03-06 16:30:36",
-      "album": {
         "name": "Engage",
         "url": "https://open.spotify.com/album/4jfEoGpdTLAlWXvRP6Vr7f"
       },
@@ -1515,18 +1499,18 @@
     {
       "added_at": "2024-03-06 16:30:36",
       "album": {
-        "name": "B/W Rainbow",
-        "url": "https://open.spotify.com/album/2UrIwY8TCUCBe5VXVCStoO"
+        "name": "When You Think It's Right It's Always Wrong",
+        "url": "https://open.spotify.com/album/1IZxAgVHBH8Z3iBsh8EBxd"
       },
       "artists": [
         {
-          "name": "Stuck in the Sound",
-          "url": "https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy"
+          "name": "Post Profit",
+          "url": "https://open.spotify.com/artist/0nLFDUWGeYyJ88FNXnx4Xg"
         }
       ],
-      "duration_ms": 162000,
-      "name": "B/W Rainbow",
-      "url": "https://open.spotify.com/track/4Mao9J2KxOWkqp9u1LULTd"
+      "duration_ms": 246336,
+      "name": "Smother!",
+      "url": "https://open.spotify.com/track/3fbqRfChbrtlPOg1imoOsN"
     },
     {
       "added_at": "2024-03-06 16:30:36",
@@ -1559,6 +1543,22 @@
       "duration_ms": 204499,
       "name": "Parallax Error",
       "url": "https://open.spotify.com/track/361VLQqrej2KgPNvjK344Q"
+    },
+    {
+      "added_at": "2024-03-06 16:30:36",
+      "album": {
+        "name": "B/W Rainbow",
+        "url": "https://open.spotify.com/album/2UrIwY8TCUCBe5VXVCStoO"
+      },
+      "artists": [
+        {
+          "name": "Stuck in the Sound",
+          "url": "https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "B/W Rainbow",
+      "url": "https://open.spotify.com/track/4Mao9J2KxOWkqp9u1LULTd"
     },
     {
       "added_at": "2024-03-06 16:30:36",

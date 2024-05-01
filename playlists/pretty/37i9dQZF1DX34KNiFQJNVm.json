@@ -1,12 +1,12 @@
 {
   "description": "Os lan\u00e7amentos dessa semana incluem Mari Fernandez, Anitta, Chefin e muito mais!",
-  "num_followers": 1903101,
+  "num_followers": 1903096,
   "original_name": "Novidades da Semana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxNDEzNjY0NCwwMDAwMDAwMDBlMDAzM2RlYTI1MDgzMjJkODdiZWZhNWYwZDZkYWMx",
+  "snapshot_id": "ZiumRAAAAAAOADPeolCDIth776Xw1trB",
   "tracks": [
     {
       "added_at": "2024-04-26 13:04:03",
@@ -21,7 +21,7 @@
         }
       ],
       "duration_ms": 161610,
-      "name": "P\u00e1gina De Ex - Ao Vivo No RJ",
+      "name": "P\u00e1gina De Ex - Ao Vivo",
       "url": "https://open.spotify.com/track/2kFaWbpzQzpaJ0H6PskR6k"
     },
     {
@@ -592,12 +592,12 @@
           "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
         },
         {
-          "name": "Mc Kadu",
-          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
-        },
-        {
           "name": "Mc Dena",
           "url": "https://open.spotify.com/artist/4J2dAJV1pnSqZIXUhN9615"
+        },
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
         }
       ],
       "duration_ms": 328000,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 
 > music from the underworld\. featuring a 10 track co\-curation from <a href="spotify:artist:0I7VmE5LkRmWoHltutTUh9">asteria</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,805 likes - 100 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,792 likes - 100 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 | 99 | [PARTY!](https://open.spotify.com/track/7MrFdGOmZB33NZRQUnMYKn) | [cade clair](https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm), [cW](https://open.spotify.com/artist/2RWEvEloRDEO2tiOL6JEjh) | [PARTY!](https://open.spotify.com/album/7Fs2cOXsv97ZlKYgw7R2r2) | 1:53 |
 | 100 | [Won't Last Long](https://open.spotify.com/track/5yeNAyTWcAXGlRUinVjmjQ) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [Pröz](https://open.spotify.com/artist/2Iu7bGRaGHmvTuVWp8wMzX) | [Myspace Addiction](https://open.spotify.com/album/2Q2ZtKYsGAtTdnqSPWaA1S) | 2:35 |
 
-Snapshot ID: `MTcxNDEwNzYwMCwwMDAwMDAwMDg2Y2Q5ZGYxMmExYTMyNTYzZTJlZGFkNzhlMGM5M2Mw`
+Snapshot ID: `Zis00AAAAACGzZ3xKhoyVj4u2teODJPA`

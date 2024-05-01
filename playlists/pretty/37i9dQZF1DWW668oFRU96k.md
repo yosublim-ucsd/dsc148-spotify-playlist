@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: The Chainsmokers x Fridayy
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,867 likes - 94 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,833 likes - 94 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 93 | [Holoban](https://open.spotify.com/track/0hjJoQN4xIsUQr5tJU6mTM) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [Holoban](https://open.spotify.com/album/3ePY1PKYkLYZqTZ6mwXRU4) | 2:33 |
 | 94 | [Numbin' My Feelings](https://open.spotify.com/track/3VCYw8SMFvbE644z69raqW) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM), [Lee McKing](https://open.spotify.com/artist/6gjwMfbDEX2vTmjsbiHJHK) | [Numbin' My Feelings](https://open.spotify.com/album/5HPBGMfxTV1PbNyrxi4ZaT) | 3:06 |
 
-Snapshot ID: `MTcxNDA2MDgwMCwwMDAwMDAwMDY3ZWFjNzU1ZmMwNzFlZWM5NjY2OWIyNGVjNGM4NTFk`
+Snapshot ID: `Zip+AAAAAABn6sdV/Ace7JZmmyTsTIUd`

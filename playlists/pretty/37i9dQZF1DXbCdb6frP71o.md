@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbCdb6frP71o.md) - [plain]
 
 > Devotional tracks for an immersive Ramadan\. Cover: Atif Aslam
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,194 likes - 66 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,193 likes - 66 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbCdb6frP71o.md) - [plain]
 | 65 | [Gunahon Ki Aadat](https://open.spotify.com/track/5GcpxpfYqlIWnm4fZc3mgv) | [Alhajj Muhammad Owais Raza Qadri](https://open.spotify.com/artist/52UAPLpDG9yHAp9ezBPpoE), [Islamic Naats](https://open.spotify.com/artist/0rNHahVtqe44Y5qGHkVz1K) | [Best Of Muhammad Owais Raza Qadri](https://open.spotify.com/album/5wsRFYCxPWiOi3dOoVpMb0) | 5:22 |
 | 66 | [Faslon Ko Takalluf Hai](https://open.spotify.com/track/2iFS7fBDgUpfmknAAA4iLR) | [Mohsin Abbas Haider](https://open.spotify.com/artist/3AkuJRCDsbBy5tftVMtJOT) | [Faslon Ko Takalluf Hai](https://open.spotify.com/album/1ntrUgjwWMkZC8PZmXLAfm) | 4:34 |
 
-Snapshot ID: `MTcxMjIyNjg5MSwwMDAwMDAwMGVjMThiMzcwY2FhNDNlYTdhNDNhMTAxNDY4ZDg2ODYx`
+Snapshot ID: `Zg6CSwAAAADsGLNwyqQ+p6Q6EBRo2Ghh`

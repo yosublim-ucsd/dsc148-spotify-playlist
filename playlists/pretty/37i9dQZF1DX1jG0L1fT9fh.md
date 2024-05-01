@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jG0L1fT9fh.md) - [plain]
 
 > Enjoy music from "KENGAN ASHURA"! "音楽で辿る、Netflixオリジナルアニメシリーズ「ケンガンアシュラ」の世界。
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,156 likes - 40 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,180 likes - 40 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jG0L1fT9fh.md) - [plain]
 | 39 | [死闘](https://open.spotify.com/track/3VLswtkkz6KthJVuMW6Qt5) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o) | [ケンガンアシュラ オリジナル・サウンドトラック](https://open.spotify.com/album/6TX05waIEC6vIKHe51I7vV) | 2:32 |
 | 40 | [Eccentric Parade](https://open.spotify.com/track/6KSvtbmrUA5gYiFfvgP1Ve) | [鈴木暁也](https://open.spotify.com/artist/1KwSxMK9zQzeJD8j8ugFyG) | [ケンガンアシュラ オリジナル・サウンドトラック](https://open.spotify.com/album/6TX05waIEC6vIKHe51I7vV) | 3:37 |
 
-Snapshot ID: `MTY4NjkxODM2MSwwMDAwMDAwMGQ2ZjUxMjk3YjA5OGNlNDE0YjZjNDU4MmRkOWNjM2Y5`
+Snapshot ID: `ZIxU2QAAAADW9RKXsJjOQUtsRYLdnMP5`

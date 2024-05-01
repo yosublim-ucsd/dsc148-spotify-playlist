@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover: Sista Afia
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,765 likes - 85 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,770 likes - 85 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 84 | [360](https://open.spotify.com/track/1cc0t6E1dXtbiCG36dORhP) | [Ghetto Boy](https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [360](https://open.spotify.com/album/35BwMj0VAg3BCwB78CO7wa) | 3:08 |
 | 85 | [Not Good Alone](https://open.spotify.com/track/5AuTu4aIJDB1pBEvEMN9Es) | [Slim Kofi](https://open.spotify.com/artist/5pHHQo1zsnAkbnIhEKuMU6), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [JC Machin](https://open.spotify.com/artist/2FEnjKB2FwfbtfpCkUlEvi) | [Not Good Alone](https://open.spotify.com/album/7pjqxEIqprQ26c3bqGOrKL) | 3:04 |
 
-Snapshot ID: `MTcxNDA4OTY2MCwwMDAwMDAwMGU4NTBmMWJjNGM5MjkzYTZmM2VhNTdjM2YxOTVlMDRj`
+Snapshot ID: `ZiruvAAAAADoUPG8TJKTpvPqV8PxleBM`

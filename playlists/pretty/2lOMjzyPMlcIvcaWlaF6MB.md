@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/2lOMjzyPMlcIvcaWlaF6MB.md) - [plain]
 | 25 | [I Never Shall Forget The Day \- Live](https://open.spotify.com/track/76rWrw7S1WMugXWOshM85j) | [Gaither](https://open.spotify.com/artist/1rKNroS04wbR4kgHIGBghY), [The Speer Family](https://open.spotify.com/artist/09jjYjayn8aDcjgeKiAn0r), [Janet Paschal](https://open.spotify.com/artist/0zRYgjw7RxECPWbPuMxdFl) | [Ryman Gospel Reunion \(Live\)](https://open.spotify.com/album/16xExsbPMsEYXkte3apJtb) | 2:38 |
 | 26 | [Marry Song \- Live Acoustic](https://open.spotify.com/track/0vykpAq2QuuFMzIr776Cno) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Acoustic at The Ryman \(Live\)](https://open.spotify.com/album/6N3W6VPGBBxZcYajhZB75a) | 4:14 |
 
-Snapshot ID: `MTAsYjg1MzQxMzZiMTViMjMxZTg3NDU0NGQ2MjAwNjZlNGUyZWMxMzZlMw==`
+Snapshot ID: `AAAACrhTQTaxWyMeh0VE1iAGbk4uwTbj`

@@ -1,12 +1,12 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 229847,
+  "num_followers": 230004,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg3ODI1MywwMDAwMDAwMDBhM2IzNGUzMzgzYWI2NmE2OWVlMWRhYTRkYzA2Y2U4",
+  "snapshot_id": "ZhhyrQAAAAAKOzTjODq2amnuHapNwGzo",
   "tracks": [
     {
       "added_at": "2020-12-08 19:02:01",
@@ -435,22 +435,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Pure Instrumental Memories",
-        "url": "https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq"
-      },
-      "artists": [
-        {
-          "name": "Paul Mauriat",
-          "url": "https://open.spotify.com/artist/5Oj26LEf8jdgR2woWEjlhi"
-        }
-      ],
-      "duration_ms": 145680,
-      "name": "Love In Every Room",
-      "url": "https://open.spotify.com/track/4NH0mwtg3ne8gn4wDRI2S3"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Franck Pourcel : Originals, vol. 8",
         "url": "https://open.spotify.com/album/3BU3eWnOF9Dvv4NZpFgUdL"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 146407,
       "name": "Spanish Harlem - Nuits d'Espagne",
       "url": "https://open.spotify.com/track/1mSekIWPPecpKKsfGOioiY"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Pure Instrumental Memories",
+        "url": "https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq"
+      },
+      "artists": [
+        {
+          "name": "Paul Mauriat",
+          "url": "https://open.spotify.com/artist/5Oj26LEf8jdgR2woWEjlhi"
+        }
+      ],
+      "duration_ms": 145680,
+      "name": "Love In Every Room",
+      "url": "https://open.spotify.com/track/4NH0mwtg3ne8gn4wDRI2S3"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -703,22 +703,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Bonanza - 50 Fabulous Guitar Favourites",
-        "url": "https://open.spotify.com/album/4yzCxCEXI3sJzFb6xpybx9"
-      },
-      "artists": [
-        {
-          "name": "Al Caiola",
-          "url": "https://open.spotify.com/artist/1kiuYnpzdoWeSpdHObdhQ6"
-        }
-      ],
-      "duration_ms": 160679,
-      "name": "Guns of Navarone",
-      "url": "https://open.spotify.com/track/0AlMluXtq8LyWmLKxq9kOs"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Best of Pop Concerto Orchestra",
         "url": "https://open.spotify.com/album/6IZbPZFoJUgXtrNJ2LVOcQ"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 156773,
       "name": "Lady Milady",
       "url": "https://open.spotify.com/track/2V98PvQvwRMGsJTyDmbY41"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Bonanza - 50 Fabulous Guitar Favourites",
+        "url": "https://open.spotify.com/album/4yzCxCEXI3sJzFb6xpybx9"
+      },
+      "artists": [
+        {
+          "name": "Al Caiola",
+          "url": "https://open.spotify.com/artist/1kiuYnpzdoWeSpdHObdhQ6"
+        }
+      ],
+      "duration_ms": 160679,
+      "name": "Guns of Navarone",
+      "url": "https://open.spotify.com/track/0AlMluXtq8LyWmLKxq9kOs"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1415,18 +1415,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Emociones Sin L\u00edmite Volumen 1",
-        "url": "https://open.spotify.com/album/3PDBK5dKDsYY42NOIh8STL"
+        "name": "La M\u00fasica En El Deporte Mundial",
+        "url": "https://open.spotify.com/album/0EaplqaM8Rqt2AaNeZXkcn"
       },
       "artists": [
         {
-          "name": "Bebu Silvetti",
-          "url": "https://open.spotify.com/artist/4KZwQdGgLn54iXbmFEN8WJ"
+          "name": "J. Torregrosa",
+          "url": "https://open.spotify.com/artist/0JxM7pf4IWQd8TdoQR0Zwe"
+        },
+        {
+          "name": "Pl\u00e1cido Domingo",
+          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
         }
       ],
-      "duration_ms": 355653,
-      "name": "Lluvia De Primavera",
-      "url": "https://open.spotify.com/track/09y50L3Xj8ubckOkjvfmzY"
+      "duration_ms": 199213,
+      "name": "El Mundial - Instrumental",
+      "url": "https://open.spotify.com/track/3ot35nXnnTewSLf2k57Sga"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1463,22 +1467,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "La M\u00fasica En El Deporte Mundial",
-        "url": "https://open.spotify.com/album/0EaplqaM8Rqt2AaNeZXkcn"
+        "name": "Emociones Sin L\u00edmite Volumen 1",
+        "url": "https://open.spotify.com/album/3PDBK5dKDsYY42NOIh8STL"
       },
       "artists": [
         {
-          "name": "J. Torregrosa",
-          "url": "https://open.spotify.com/artist/0JxM7pf4IWQd8TdoQR0Zwe"
-        },
-        {
-          "name": "Pl\u00e1cido Domingo",
-          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
+          "name": "Bebu Silvetti",
+          "url": "https://open.spotify.com/artist/4KZwQdGgLn54iXbmFEN8WJ"
         }
       ],
-      "duration_ms": 199213,
-      "name": "El Mundial - Instrumental",
-      "url": "https://open.spotify.com/track/3ot35nXnnTewSLf2k57Sga"
+      "duration_ms": 355653,
+      "name": "Lluvia De Primavera",
+      "url": "https://open.spotify.com/track/09y50L3Xj8ubckOkjvfmzY"
     },
     {
       "added_at": "2020-12-08 19:02:01",

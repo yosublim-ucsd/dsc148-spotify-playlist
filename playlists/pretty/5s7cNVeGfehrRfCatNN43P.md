@@ -24,4 +24,4 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 | 14 | [Dust](https://open.spotify.com/track/63ovddHrcXezSAjE8sSBwO) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Dust](https://open.spotify.com/album/6Z0Ql9KvDQjMUOniIx0R5S) | 2:49 |
 | 15 | [Benny](https://open.spotify.com/track/09JUir78ynEmNxcLfsMu1G) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [boy](https://open.spotify.com/album/3Ry4DmajssDWHmThH2KseJ) | 2:52 |
 
-Snapshot ID: `MjcxMCxjMGQ0NTE1ZmM4MjgwZGExNjE5ZDgzYjVhM2Q1NzNhNDZlMjY2YWEw`
+Snapshot ID: `AAAKlsDUUV/IKA2hYZ2DtaPVc6RuJmqg`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: AYLIVA, Apache 207
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,882 likes - 114 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,888 likes - 114 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 113 | [riddle](https://open.spotify.com/track/3lfSTK2JmCLTVuz6vl6aDW) | [sanna](https://open.spotify.com/artist/31BTzG2olQWOHbn1nh1E94) | [riddle](https://open.spotify.com/album/1ZRZazfXEQkeVruAqxQncr) | 3:20 |
 | 114 | [Lemonade](https://open.spotify.com/track/7MmYhz9abvtVCNw1d6MErJ) | [Donata](https://open.spotify.com/artist/6rC5q8dgyXjvNUICucB075) | [Alchemy](https://open.spotify.com/album/1wNlv96WxMkdQMLWqLwvz1) | 3:59 |
 
-Snapshot ID: `MTcxNDEwOTc4NSwwMDAwMDAwMDE4ODU3NDJjNjBkOTNjOTM4MzhkMDRiZmE3YTAzNmIx`
+Snapshot ID: `Zis9WQAAAAAYhXQsYNk8k4ONBL+noDax`

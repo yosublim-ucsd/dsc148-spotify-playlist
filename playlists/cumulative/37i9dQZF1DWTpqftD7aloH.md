@@ -4,7 +4,7 @@
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-292 songs - 1 day 3 hr 48 min
+293 songs - 1 day 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Grande É O Senhor \- Ao Vivo](https://open.spotify.com/track/0DR8OCMH9Vv966ZOdWykGp) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Memórias 2 \(Ao Vivo\)](https://open.spotify.com/album/1sngh1DpFlv5KdnRch5ECO) | 4:06 | 2023-06-23 | 2024-04-20 |
 | [Grandes Coisas \- Ao Vivo](https://open.spotify.com/track/6oUMdwHNYiBcf8oWrx2hj1) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Uma Nova História \(ao Vivo\)](https://open.spotify.com/album/6fEAuJNkuAFCUJms25Konq) | 4:57 | 2022-09-09 |  |
 | [Gratidão \(Gratitude\)](https://open.spotify.com/track/3sR3rQ3iBgTEDpZQ8fgrxv) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm) | [Gratidão \(Gratitude\)](https://open.spotify.com/album/0mP7as70Wcc6A7ZoOGZx9q) | 4:35 | 2024-04-26 |  |
-| [Grato Sou](https://open.spotify.com/track/66Z9NK2ydHCRf8nzVTkdiE) | [Israel Soares](https://open.spotify.com/artist/0qK2qFPXIi5KKpOVQSFfA5), [Bob Jonathan](https://open.spotify.com/artist/1YzJ5MfR1MifWecgW9KG5s) | [Grato Sou](https://open.spotify.com/album/3liy8YW701jQR0tCWZIjwC) | 4:26 | 2024-04-19 |  |
+| [Grato Sou](https://open.spotify.com/track/66Z9NK2ydHCRf8nzVTkdiE) | [Israel Soares](https://open.spotify.com/artist/0qK2qFPXIi5KKpOVQSFfA5), [Bob Jonathan](https://open.spotify.com/artist/1YzJ5MfR1MifWecgW9KG5s) | [Grato Sou](https://open.spotify.com/album/3liy8YW701jQR0tCWZIjwC) | 4:26 | 2024-04-19 | 2024-05-01 |
 | [Graves Into Gardens \(Live\)](https://open.spotify.com/track/0pNizrRmvu5S16fH6ccm0v) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3AYUzOtIQoLrxDZNwaPErh) | 7:32 | 2022-09-09 | 2023-01-14 |
 | [Grita! \(Shout!\) \- Ao Vivo](https://open.spotify.com/track/37h3VwFhtyxPp3jHD5sVXv) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Deixa Vir \- Vol II \(Ao Vivo\)](https://open.spotify.com/album/5qjk2btAEazVwm5MtrMcSE) | 4:41 | 2024-01-05 | 2024-04-20 |
 | [Hino da Vitória](https://open.spotify.com/track/2MHtGSaW12T738131nTj0d) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Muito Louvor](https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw) | 3:47 | 2022-09-09 | 2024-04-20 |
@@ -140,6 +140,7 @@
 | [Lindo És + Só Quero Ver Você \- Ao Vivo](https://open.spotify.com/track/35IN0nKkbuQh4DMxIv4R1E) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P) | [Livres ao Vivo em São Paulo](https://open.spotify.com/album/1nOKQhet5BeWlwtzkNbc8C) | 7:27 | 2022-09-09 |  |
 | [Living Hope](https://open.spotify.com/track/6nVm313QmsPlNllntTart1) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 5:27 | 2022-09-09 | 2023-01-14 |
 | [Lord, I Need You](https://open.spotify.com/track/4EHWldZTas5KUyFtT0rQlY) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [All The People Said Amen](https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu) | 3:25 | 2022-09-09 | 2023-01-14 |
+| [Louve \- Ao Vivo](https://open.spotify.com/track/2BtYfou9MvzgQ8CfmMhaWM) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O), [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ), [Eliezer de Tarsis](https://open.spotify.com/artist/7swIpYfKi5yjFe1J2LQCnL) | [Louve \(Ao Vivo\)](https://open.spotify.com/album/7geG63BdCpln7c2JcpFrKI) | 4:57 | 2024-04-26 |  |
 | [Lugar Secreto](https://open.spotify.com/track/7Dp0unlUzhQtk60rVq5mMC) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Céu](https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9) | 7:02 | 2022-09-09 |  |
 | [Maranata \- Ao Vivo](https://open.spotify.com/track/21UUN3OEpS7Lr8YiN4xh4N) | [Ministério Avivah](https://open.spotify.com/artist/5Ip7ix7yIh34uZbY1Ppws9), [Fernanda Madaloni](https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ) | [Maranata](https://open.spotify.com/album/5Xb81Si0VxpVIWL1LJUJ5b) | 6:24 | 2022-09-09 |  |
 | [Maravilhado \- Ao Vivo](https://open.spotify.com/track/7nE1e60VdkncBBxQkqGxRY) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Maravilhado \(Ao Vivo\)](https://open.spotify.com/album/6GUZILTmS0r3OpUavt7qam) | 7:34 | 2023-04-28 | 2023-05-06 |

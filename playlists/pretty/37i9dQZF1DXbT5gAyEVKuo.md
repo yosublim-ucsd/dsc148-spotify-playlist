@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,563 likes - 49 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,589 likes - 49 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 48 | [Miracle Worker \- Live](https://open.spotify.com/track/5OsbxrGblsMoytfevbmwyK) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0), [Rich Tolbert Jr.](https://open.spotify.com/artist/4fwBB2MOFR0Yr5KmnQURfb) | [Miracle Worker](https://open.spotify.com/album/1K7jpP3wzsmp2JldSCnQWX) | 6:42 |
 | 49 | [Maintain \(feat\. Chantae Cann\) \(Live\)](https://open.spotify.com/track/7oPr7tHtMifbFJrkoXe8aO) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Chantae Cann](https://open.spotify.com/artist/1cPLFQV7MAWQiaDW5SlUMR) | [Sessions \- EP](https://open.spotify.com/album/5baBTN8eqOMrGY9wnLWDpi) | 4:09 |
 
-Snapshot ID: `MTY4NjkyMDE2OSwwMDAwMDAwMDE0YmNjNzc4Y2YwZjVhNzUyMDZiNzExMjIzYjYyNDQx`
+Snapshot ID: `ZIxb6QAAAAAUvMd4zw9adSBrcRIjtiRB`

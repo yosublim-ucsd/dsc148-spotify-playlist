@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6cSrBkF4TPHetlU033IopA.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 186 likes - 197 songs - 9 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 185 likes - 197 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -206,4 +206,4 @@ pretty - [cumulative](/playlists/cumulative/6cSrBkF4TPHetlU033IopA.md) - [plain]
 | 196 | [Yakety Yak](https://open.spotify.com/track/7w67q73FajskdoT2jCBVNO) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [The Complete UK Upsetter Singles Collection Volume 1](https://open.spotify.com/album/79AJxMUxuoQZeqekjHQmtQ) | 2:39 |
 | 197 | [The Tackro](https://open.spotify.com/track/3ZidDfI1V127vhYngBhUj0) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9), [The Upsetters](https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b) | [The Complete UK Upsetter Singles Collection Volume 1](https://open.spotify.com/album/79AJxMUxuoQZeqekjHQmtQ) | 3:02 |
 
-Snapshot ID: `NSw2N2Y2NjdiODliNjc3MzEyZDNmNWU4ZGFjMWFkNTJjYTYzMTg1MWEy`
+Snapshot ID: `AAAABWf2Z7ibZ3MS0/Xo2sGtUspjGFGi`

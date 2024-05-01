@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kclJOu5DS4uRvmBK0jdb0.md) - [plain]
 
 > SPORT FREI! <a href="http://www.rammstein.com">RAMMSTEIN</a>
 
-[Rammstein](https://open.spotify.com/user/rammsteinofficial) - 7,028 likes - 11 songs - 44 min 51 sec
+[Rammstein](https://open.spotify.com/user/rammsteinofficial) - 7,033 likes - 11 songs - 44 min 51 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,4 +20,4 @@ pretty - [cumulative](/playlists/cumulative/0kclJOu5DS4uRvmBK0jdb0.md) - [plain]
 | 10 | [Spring](https://open.spotify.com/track/0Z8q59waoxGjcRZDC3ffhH) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rosenrot](https://open.spotify.com/album/3PrS5X3QNdDUlBIE4bz6J2) | 5:24 |
 | 11 | [Morgenstern](https://open.spotify.com/track/0gf9HMeZDXRexbuM5CihZg) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Reise, Reise](https://open.spotify.com/album/74ydDCcXTco741y42ceRJ5) | 3:59 |
 
-Snapshot ID: `MTYsM2EwMTkxZWVmNjFjMGI0YzVmMWY2NjQxZTdkYTVkOTA1NmY5MzVhNw==`
+Snapshot ID: `AAAAEDoBke72HAtMXx9mQefaXZBW+TWn`

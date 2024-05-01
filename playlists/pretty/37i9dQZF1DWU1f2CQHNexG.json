@@ -1,12 +1,12 @@
 {
   "description": "Dancing to electro-pop like a robot from 1984. Cover: Bronski Beat",
-  "num_followers": 135898,
+  "num_followers": 136017,
   "original_name": "Synthpop Classics ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc3NjMzMywwMDAwMDAwMGZkOGRiZThlYjNjZDhmOWQ5MWZmZDlmYTRjNmExYzdk",
+  "snapshot_id": "ZhbkjQAAAAD9jb6Os82PnZH/2fpMahx9",
   "tracks": [
     {
       "added_at": "2024-04-10 19:12:13",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-04-10 19:12:13",
       "album": {
-        "name": "Tinderbox",
-        "url": "https://open.spotify.com/album/4JLLAw7R40SnvwkUt9B63N"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 231573,
-      "name": "Cities In Dust",
-      "url": "https://open.spotify.com/track/2xq9cLlOPyLoi8kLlR4miz"
-    },
-    {
-      "added_at": "2024-04-10 19:12:13",
-      "album": {
         "name": "I Feel for You",
         "url": "https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 343400,
       "name": "I Feel for You",
       "url": "https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7"
+    },
+    {
+      "added_at": "2024-04-10 19:12:13",
+      "album": {
+        "name": "Tinderbox",
+        "url": "https://open.spotify.com/album/4JLLAw7R40SnvwkUt9B63N"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 231573,
+      "name": "Cities In Dust",
+      "url": "https://open.spotify.com/track/2xq9cLlOPyLoi8kLlR4miz"
     },
     {
       "added_at": "2024-04-10 19:12:13",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-04-10 19:12:13",
       "album": {
-        "name": "Wonderland",
-        "url": "https://open.spotify.com/album/5ZYUz8XDkYqiSUWdglkhtZ"
-      },
-      "artists": [
-        {
-          "name": "Erasure",
-          "url": "https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89"
-        }
-      ],
-      "duration_ms": 197760,
-      "name": "Who Needs Love Like That",
-      "url": "https://open.spotify.com/track/5hBQzpIVTuImm4uQCs84kB"
-    },
-    {
-      "added_at": "2024-04-10 19:12:13",
-      "album": {
         "name": "Construction Time Again",
         "url": "https://open.spotify.com/album/4PACSjpgl1unuvybxtiZqo"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 261066,
       "name": "Everything Counts",
       "url": "https://open.spotify.com/track/1mb5bblw96UieIjCPlWyEw"
+    },
+    {
+      "added_at": "2024-04-10 19:12:13",
+      "album": {
+        "name": "Wonderland",
+        "url": "https://open.spotify.com/album/5ZYUz8XDkYqiSUWdglkhtZ"
+      },
+      "artists": [
+        {
+          "name": "Erasure",
+          "url": "https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89"
+        }
+      ],
+      "duration_ms": 197760,
+      "name": "Who Needs Love Like That",
+      "url": "https://open.spotify.com/track/5hBQzpIVTuImm4uQCs84kB"
     },
     {
       "added_at": "2024-04-10 19:12:13",

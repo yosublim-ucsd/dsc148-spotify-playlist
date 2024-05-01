@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 
 > New York salsa...it's home.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,480 likes - 116 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,506 likes - 116 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 | 115 | [Cuidate Bien](https://open.spotify.com/track/21S3WhtvG7PROrdaPS9nwB) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Exitos de Oscar D'Leon Con la Critica](https://open.spotify.com/album/64oV3qY9joPQ4kk9cVsEDx) | 3:35 |
 | 116 | [Me Fallaste](https://open.spotify.com/track/0UTGkzthd36MpJIY2IPMRG) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Íconos 25 Éxitos](https://open.spotify.com/album/6cg3Rd3wui2QivKa8pbLMr) | 5:03 |
 
-Snapshot ID: `MTcxNDEwNDAwMCwwMDAwMDAwMGZkNWVjMDljOTk0YTZhYTA0ZGNhODJkZTljODNkYTAy`
+Snapshot ID: `ZismwAAAAAD9XsCcmUpqoE3Kgt6cg9oC`

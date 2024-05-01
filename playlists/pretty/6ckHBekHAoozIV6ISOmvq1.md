@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ckHBekHAoozIV6ISOmvq1.md) - [plain]
 
 > See also <a href="spotify:playlist:2z6FM4scrQ5lpsKId0jeki">Intro</a>, <a href="spotify:playlist:1Z5SNtd1IWRRw3ESZfJZKe">Pulse</a>, <a href="spotify:playlist:2xfCdpmPmRtGgNyuk1zawd">Edge</a>, <a href="spotify:playlist:4pVcfz3aYYdCTMdwGHwJJs">♀Filter</a> or <a href="spotify:playlist:18NVIhicUeOGx6Ag3x491U">2023</a>; or the Sounds of <a href="spotify:playlist:0evPZ6WIgSKYY2gnlfXIdA">Renaissance</a>, <a href="spotify:playlist:5WjxMg3QfWAmDH7I2MpMoT">Troubadour</a>, <a href="spotify:playlist:0K86fmE0c0SFgz9GpwhwLm">Early Music</a>, <a href="spotify:playlist:0nqJegaRD3nkCjyIwg7mry">Trouvère</a>, <a href="spotify:playlist:0AVJ1UKXMQf244cvu4np0k">Minnesang</a>, <a href="spotify:playlist:2uc2oq6wQ8ZLSPmPr4qtte">Early Music Ensemble</a>, <a href="spotify:playlist:511MabrP35Zp3tqYh2G4iJ">Medieval Ensemble</a>, <a href="spotify:playlist:6zc2HFPnDWeqqsBHhYEQER">Trecento</a>, <a href="spotify:playlist:2UKjnmVx8ROXrNxIAeaE7M">Ars subtilior</a> or <a href="spotify:playlist:5uQQu2RC80Ku5AjSpCtrJF">Madrigal</a>; or much more at <a href="http://everynoise.com">everynoise.com</a>.
 
-[The Sounds of Spotify](https://open.spotify.com/user/thesoundsofspotify) - 558 likes - 191 songs - 17 hr 3 min
+[The Sounds of Spotify](https://open.spotify.com/user/thesoundsofspotify) - 557 likes - 191 songs - 17 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -200,4 +200,4 @@ pretty - [cumulative](/playlists/cumulative/6ckHBekHAoozIV6ISOmvq1.md) - [plain]
 | 190 | [Ges pel temps fer e brau](https://open.spotify.com/track/7kqbNJWxL10X9IeDALucDU) | [Peire Vidal](https://open.spotify.com/artist/10lcTgYU9YAZSKs9QvJqAQ), [Márta Sebestyén](https://open.spotify.com/artist/7a2ZWlXXc4f27qkHXWBQD3), [Dániel Gryllus](https://open.spotify.com/artist/2d2SDltSKfxgdFdBTiQUQK), [Eva Maros](https://open.spotify.com/artist/4e2YXfxNoCmgn0XTrx0tIW), [Andras Kecskes](https://open.spotify.com/artist/79QEbc7qhkmklPtBOJrltk), [Zoltan Falvy](https://open.spotify.com/artist/2oSSmLZjXukOhZqmALwmkj), [Béla Zsoldos](https://open.spotify.com/artist/3IUckqpnqx5vn15rXu4g27), [Fraternitas Musicorum](https://open.spotify.com/artist/5XHu4KW7ljJNixWT5ufj3L), [Gergely Sarkozy](https://open.spotify.com/artist/7Lpo9sL8sBsTd5Cjft6VbF) | [A Troubadour in Hungary](https://open.spotify.com/album/7uQcSjZJTl9QEeEuyyEJnk) | 4:38 |
 | 191 | [Non Perch' i' speri, donna \(ballata\) \- 2000 Remastered Version](https://open.spotify.com/track/4tqr1ci28QJJk9O80mI8oc) | [Lorenzo Masini](https://open.spotify.com/artist/0vD2veljrr8p0j6bcMtkUD), [Michel Piguet/Ricercare\-Ensemblefür Alte Music Zürich](https://open.spotify.com/artist/5EFdrhVXNxgIg6ZjDQREVh) | [Music at the time of the Crusades](https://open.spotify.com/album/2xGAb6Mlwz75OVj5hmGQM3) | 4:03 |
 
-Snapshot ID: `NTg5NixmOGE1ODI3ZTEzNTYzMjU1NjMxYTlmNDI2YzZiODVlNDViMTc4YTI3`
+Snapshot ID: `AAAXCPilgn4TVjJVYxqfQmxrheRbF4on`

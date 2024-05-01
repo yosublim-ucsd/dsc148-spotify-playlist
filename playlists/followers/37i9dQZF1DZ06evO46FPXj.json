@@ -1,7 +1,7 @@
 {
-  "2024-04-30": 6457,
+  "2024-05-01": 6460,
   "date_first_scraped": "2022-05-30",
-  "description": "This is Autechre. The essential tracks, all in one playlist.",
+  "description": "This Is Autechre. Sus mejores \u00e9xitos, todos en una playlist.",
   "name": "This Is Autechre",
   "tracks": [
     {
@@ -1587,7 +1587,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-23",
+      "date_removed": null,
       "duration_ms": 375800,
       "name": "Glitch",
       "url": "https://open.spotify.com/track/6xOB01LjZWSM3Qop1CQE37"
@@ -2343,7 +2343,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 220200,
       "name": "Nine",
       "url": "https://open.spotify.com/track/3WOTGJo6xmDxJICPcteIn9"

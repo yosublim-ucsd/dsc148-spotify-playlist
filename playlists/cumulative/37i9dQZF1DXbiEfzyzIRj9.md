@@ -2,7 +2,7 @@
 
 ### [Altar JP](https://open.spotify.com/playlist/37i9dQZF1DXbiEfzyzIRj9)
 
-> 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: salute
+> 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: salute, Rina Sawayama
 
 675 songs - 2 day 2 hr 23 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BxHamIEkKV.md) - [plain]
 
 > Smart, engaging podcasts that go beyond the headlines.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,002 likes - 4 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,001 likes - 4 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,4 +13,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BxHamIEkKV.md) - [plain]
 | 3 | [The Long Awaited Brexit Deal Is Finally Here](https://open.spotify.com/episode/3p0RTlOIDoFKYL7FXahnbA) | [Consider This from NPR](https://open.spotify.com/show/3Z6JdCS2d0eFEpXHKI6WqH) | [Consider This from NPR](https://open.spotify.com/album/3Z6JdCS2d0eFEpXHKI6WqH) | 12:26 |
 | 4 | [Trump and the economy: The administration’s biggest victories also exacerbated our divides](https://open.spotify.com/episode/27cbthZCG4dLzdj0aKydMo) | [The Trump Trials: Sidebar](https://open.spotify.com/show/7d3VDv4ekyUrfTaIB4hbqW) | [The Trump Trials: Sidebar](https://open.spotify.com/album/7d3VDv4ekyUrfTaIB4hbqW) | 27:30 |
 
-Snapshot ID: `MTY4NjgzNDgzNCwwMDAwMDAwMGI3NWYzYTc0MzExZGI0NWU5Y2U3Yjg4ODQ2ZWRjZjk4`
+Snapshot ID: `ZIsOkgAAAAC3Xzp0MR20XpznuIhG7c+Y`

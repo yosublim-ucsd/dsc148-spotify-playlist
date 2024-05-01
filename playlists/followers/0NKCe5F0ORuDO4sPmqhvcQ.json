@@ -1,5 +1,5 @@
 {
-  "2024-04-30": 20765,
+  "2024-05-01": 20762,
   "date_first_scraped": "2021-12-21",
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
   "name": "Moving Castle Monthly",
@@ -11939,6 +11939,28 @@
       "duration_ms": 198260,
       "name": "White Lie",
       "url": "https://open.spotify.com/track/05W5WSaPyW5GCiNY5gOuyH"
+    },
+    {
+      "album": {
+        "name": "Wide Awake",
+        "url": "https://open.spotify.com/album/0AavjOVECKCakzcwPQ7D8B"
+      },
+      "artists": [
+        {
+          "name": "Last Heroes",
+          "url": "https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97"
+        },
+        {
+          "name": "s\u00f8d ven",
+          "url": "https://open.spotify.com/artist/6Gt5kTPVe7tuYK44gRPVdJ"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Wide Awake",
+      "url": "https://open.spotify.com/track/3Xan57kXn4YNZCK91l8qZe"
     },
     {
       "album": {

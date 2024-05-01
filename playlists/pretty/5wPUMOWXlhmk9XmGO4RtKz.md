@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5wPUMOWXlhmk9XmGO4RtKz.md) - [plain]
 
 > Some nice little jams to make the ride smooth\. To quote Dom Kennedy &quot;Pleeze Make It Home Safe&quot; \(also closing song\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,680 likes - 40 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,676 likes - 40 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/5wPUMOWXlhmk9XmGO4RtKz.md) - [plain]
 | 39 | [Lotus Flower Bomb \(feat\. Miguel\)](https://open.spotify.com/track/3MAgQuClHcAV8E9CbeBS6f) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Ambition](https://open.spotify.com/album/0jCVC8ndYYOooEY2YTO1l6) | 3:33 |
 | 40 | [My Love \(feat\. Drake\)](https://open.spotify.com/track/0EUIyt95ZhgeXKMbKSa92q) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [My Love \(feat\. Drake\)](https://open.spotify.com/album/5vbBGw32GC0W9uiEpTPvsT) | 4:08 |
 
-Snapshot ID: `MTY3LDYwNmRhNTcyMDhhN2U3NDNiMDJhNzQ4MTFmODQ4NmRjYTczYmQ1MTg=`
+Snapshot ID: `AAAAp2BtpXIIp+dDsCp0gR+EhtynO9UY`

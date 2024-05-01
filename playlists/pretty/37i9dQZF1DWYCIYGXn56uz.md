@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: bnkr44
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,819 likes - 56 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,949 likes - 56 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 55 | [JAKARTA](https://open.spotify.com/track/6i1GnFUtvsb2yRX8PtrDqs) | [OCCHI](https://open.spotify.com/artist/1gxSzslBaKRwyT69Q8PJKU), [Pepe](https://open.spotify.com/artist/4KVkkOO0DSrpPzla5vEnsE) | [JAKARTA](https://open.spotify.com/album/6o66691lBA17fu0kiLhK8F) | 3:18 |
 | 56 | [CAMILLA](https://open.spotify.com/track/44QM4Y4EC2EuDjNrCFdvCh) | [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0) | [CAMILLA](https://open.spotify.com/album/4WpCQAr30YolcLGQN6zHqA) | 2:29 |
 
-Snapshot ID: `MTcxNDQyODA2MCwwMDAwMDAwMDQ1YTBhZDZmY2Q5ODI3NzY5ZWNhNzVmYTA0NDRjMGFl`
+Snapshot ID: `ZjAYnAAAAABFoK1vzZgndp7KdfoERMCu`

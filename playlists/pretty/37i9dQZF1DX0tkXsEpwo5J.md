@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tkXsEpwo5J.md) - [plain]
 
 > ¡Canciones para sonreír durante el día seleccionadas por Caloncho! 🌻
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,801 likes - 30 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,752 likes - 30 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tkXsEpwo5J.md) - [plain]
 | 29 | [Ánimo](https://open.spotify.com/track/7ze0MX6Gwoosk1QPia2GGZ) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Ánimo](https://open.spotify.com/album/4wVGGSFFjp7AhOs7LsdquC) | 2:37 |
 | 30 | [Surfin'](https://open.spotify.com/track/7k7syXYFuHNfY06Z2rftoh) | [Ernest Ranglin](https://open.spotify.com/artist/6RTCb5pWKinqlUyG2qacit) | [Below The Bassline](https://open.spotify.com/album/2kqIgldmnjbg8VDpBf4JRX) | 5:43 |
 
-Snapshot ID: `MTcxMTA4NzIwMCwwMDAwMDAwMDk4Yjc5NTExZTMxMDhhODQ4ZGY2ZjI1YmQ1MjJiODMy`
+Snapshot ID: `Zf0eYAAAAACYt5UR4xCKhI328lvVIrgy`

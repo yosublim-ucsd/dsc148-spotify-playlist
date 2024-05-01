@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/2rusQ7rLIMFYI2WaTpaaZr.md) - [plain]
 | 26 | [Burn The Whole Thing Down](https://open.spotify.com/track/5lDUkt7u5rbaeiLBzeV2lD) | [Joshua Bond](https://open.spotify.com/artist/5AIhkZ0Ki4M6XXKpaNC6AV) | [Drink From The Creek](https://open.spotify.com/album/5XMr9XYlME8dQCRcczSTjv) | 4:26 |
 | 27 | [Save the People](https://open.spotify.com/track/2gIJJuiRMrmAM4Lo7jFJSw) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Aquarium Drunkard's Lagniappe Session](https://open.spotify.com/album/5kBjhTQFxJKU9dl64yBr4w) | 2:57 |
 
-Snapshot ID: `MjksNDdiZWIyMjE5OTM3NDA2Y2JlMWM5ZjY4NTU1OTgyN2Y1ZTdlYzgwMg==`
+Snapshot ID: `AAAAHUe+siGZN0BsvhyfaFVZgn9efsgC`

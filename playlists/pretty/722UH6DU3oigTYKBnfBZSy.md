@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/722UH6DU3oigTYKBnfBZSy.md) - [plain]
 | 49 | [Keep the Fire Burnin'](https://open.spotify.com/track/07wMk0CZVZRMqhF66r40Z8) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Good Trouble](https://open.spotify.com/album/2jfKXB9MYWMcVnxa1dBXnR) | 3:54 |
 | 50 | [Do You Believe In Love](https://open.spotify.com/track/1Flq3q4sDw3EYqk8Z9agIe) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Greatest Hits: Huey Lewis And The News](https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj) | 3:27 |
 
-Snapshot ID: `Myw5NTg4ZjJjYjEwYjlkNWIyNDRjY2EyMTAzNjcwMmY0YjhkM2RmMzZm`
+Snapshot ID: `AAAAA5WI8ssQudWyRMyiEDZwL0uNPfNv`

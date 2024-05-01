@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX48bLeZRpmd.md) - [plain]
 
 > Enjoy music & episodes from "The Quintessential Quintuplets"! / かわいさ500%の五つ子ラブコメ！アニメ『五等分の花嫁』プレイリスト！©春場ねぎ・講談社／「五等分の花嫁∽」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,078 likes - 56 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,113 likes - 56 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX48bLeZRpmd.md) - [plain]
 | 55 | [ごぶんのいち \- PandaBoY Tropical House Edit](https://open.spotify.com/track/33JisBeW2wD7aRh3YslH0x) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [五等分の花嫁](https://open.spotify.com/album/3GTf370mImQEnd9WNDszoh) | 4:40 |
 | 56 | [五等分の気持ち \- PandaBoY Five Flowers Dance Edit](https://open.spotify.com/track/1W3zNwneeowozdFmUwkyjB) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [五等分の花嫁](https://open.spotify.com/album/3GTf370mImQEnd9WNDszoh) | 3:48 |
 
-Snapshot ID: `MTcxNDMxNjQwMCwwMDAwMDAwMDliNDNjMDg1NzZiMWQ0MzMzZjQxZDMxOGQxODYyMjM0`
+Snapshot ID: `Zi5kcAAAAACbQ8CFdrHUMz9B0xjRhiI0`

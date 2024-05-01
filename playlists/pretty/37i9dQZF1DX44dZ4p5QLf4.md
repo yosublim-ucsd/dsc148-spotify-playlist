@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > A blend of new songs and artists in the soul space\. Cover: FKJ
 
-[Spotify](https://open.spotify.com/user/spotify) - 480,040 likes - 80 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 480,083 likes - 80 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 79 | [Love Island](https://open.spotify.com/track/2kiBow1qzFxXlCutSslC2R) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Love Island](https://open.spotify.com/album/3R1JtNGHhtszF5n6wMxswQ) | 2:23 |
 | 80 | [Just Expectationz](https://open.spotify.com/track/10GbMfN6Bt4V9k1blNBjzz) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Just Expectationz](https://open.spotify.com/album/4fuHL63s4VtjWQLy5QqlTa) | 3:48 |
 
-Snapshot ID: `MTcxNDA4MjQwMCwwMDAwMDAwMGFkMzE3NThlMjk2M2EwM2FhMGY5YWEwZWNkYTI1YjFm`
+Snapshot ID: `ZirSYAAAAACtMXWOKWOgOqD5qg7Nolsf`

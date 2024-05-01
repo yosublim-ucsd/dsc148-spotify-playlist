@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > Nieuw deze week \- Nouveautés de la semaine\. Cover: Teddy Swims
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,755 likes - 95 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,767 likes - 95 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 94 | [Ajala](https://open.spotify.com/track/7vRQeQcvAuf35fgKMou99k) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Ajala](https://open.spotify.com/album/1kAexOnDyQcgwvMM3mFkjX) | 4:21 |
 | 95 | [Knife Edge](https://open.spotify.com/track/53rYNxof2dWXRnH0bqKiQ2) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Confidenza \(Original Soundtrack\)](https://open.spotify.com/album/2DpwYA58Qs00nRl59i4eiL) | 3:19 |
 
-Snapshot ID: `MTcxNDExNzg5OCwwMDAwMDAwMGZlMWYyMWRmYTlhZDgyMWUxNWMwYTZhODRhYWU5MGQ5`
+Snapshot ID: `ZitdCgAAAAD+HyHfqa2CHhXApqhKrpDZ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Nxv0V4YqRFTnmLyuKFKJk.md) - [plain]
 
 > Driving Songs • Best of Dad Rock
 
-[Topsify](https://open.spotify.com/user/topsify) - 60,497 likes - 100 songs - 6 hr 51 min
+[Topsify](https://open.spotify.com/user/topsify) - 60,489 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/3Nxv0V4YqRFTnmLyuKFKJk.md) - [plain]
 | 99 | [Let's Dance \- 2018 Remaster](https://open.spotify.com/track/3ix6K4wZY29bCujrSznwFZ) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance \(2018 Remaster\)](https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV) | 7:37 |
 | 100 | [Sweet About Me](https://open.spotify.com/track/5wznxkB792LjSRdbZ1J1zo) | [Gabriella Cilmi](https://open.spotify.com/artist/5v2GEv1pQaCp6oeOQROdKE) | [Lessons To Be Learned](https://open.spotify.com/album/4Bc2LrXbkvNCH99ZSFzhhD) | 3:22 |
 
-Snapshot ID: `OTAzLGVkZDkxZTAzODZhYzA1N2Q3M2FiYzViYWRkN2E0MTFkOTJlMmI0MzU=`
+Snapshot ID: `AAADh+3ZHgOGrAV9c6vFut16QR2S4rQ1`

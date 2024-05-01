@@ -2,7 +2,7 @@
 
 ### [Soft 00s](https://open.spotify.com/playlist/37i9dQZF1DXdGHPXiRsW3u)
 
-> Mellow songs from the 2000s.
+> Mellow songs from the 2000s\. Cover: Keane
 
 295 songs - 19 hr 37 min
 

@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/5Q9dGaDLzwijaWkI4yFfSk.md) - [plain]
 | 44 | [Outrage](https://open.spotify.com/track/1QzAVlIpyUfaEW8LR9FfFy) | [Sister Sin](https://open.spotify.com/artist/3MdnMzNMNENgdrx91CvGR8) | [True Sound of the Underground](https://open.spotify.com/album/1FkNCsifWGxqhVbSupRkVO) | 3:27 |
 | 45 | [Det Vackraste](https://open.spotify.com/track/7L2AdLrMaBwkRaIn5tv5gw) | [Skumdum](https://open.spotify.com/artist/5s6MpxYo0TqzCuNIqVIRFS) | [What We Did Best](https://open.spotify.com/album/6bnVgn4BzsaWzdplPWGPUp) | 2:13 |
 
-Snapshot ID: `NSxkYWMwZmIwZDg3ZGRhMTUyMDAyYjQ3ZDBiMjU0M2VmNmU3NTc0NGNi`
+Snapshot ID: `AAAABdrA+w2H3aFSACtH0LJUPvbnV0TL`

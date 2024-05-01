@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 ### [Altar JP](https://open.spotify.com/playlist/37i9dQZF1DXbiEfzyzIRj9)
 
-> 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: salute
+> 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: salute, Rina Sawayama
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,058 likes - 100 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,048 likes - 100 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 99 | [Raving In The Simulation](https://open.spotify.com/track/1pHpiufpAu6JQU33lVBLZd) | [Jacotanu](https://open.spotify.com/artist/0eWrRwbeLfOkcmIYwbA09T), [Genick](https://open.spotify.com/artist/59JrOdJYiD9hbd5QjX0XKO), [ピーナッツくん](https://open.spotify.com/artist/3ssBfPaamcxmTrzSXcc2cb), [嚩ᴴᴬᴷᵁ](https://open.spotify.com/artist/7Mza9mcYZcEBJblRUgSzxM) | [THE RAVING SIMULATOR](https://open.spotify.com/album/1T3pKpskphembmpSgQHVJ9) | 3:54 |
 | 100 | [She's On My Mind](https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 3:01 |
 
-Snapshot ID: `MTcxNDA2MDgwMCwwMDAwMDAwMGRjZWE2YzFmYTM3YTUwMDk5MDc1Yjk5NmQzYTJkZDAx`
+Snapshot ID: `ZjCo+gAAAACUooq3MJEKQ8Z4FOPTl3Zp`

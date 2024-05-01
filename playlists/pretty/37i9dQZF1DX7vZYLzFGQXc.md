@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent & rising talents are here\. \(Cover: Milena\(밀레나\)\)\(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,762 likes - 101 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,790 likes - 101 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 100 | [window](https://open.spotify.com/track/1TUTaj5t7Ghv5iamv5Nqnd) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [window](https://open.spotify.com/album/1h8rLkHTOrBSanTPipIFwo) | 3:47 |
 | 101 | [Like a Neighbor](https://open.spotify.com/track/0jTkMJs9sUY3IAXNLfaDqh) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Like Good Neighbors OST](https://open.spotify.com/album/6SQnmOQOCVoHKGtBkpuZUV) | 3:14 |
 
-Snapshot ID: `MTcxMzM0MzQ0MCwwMDAwMDAwMGMzMjAzZmE2Yzg1MGEwZWM3NGQzMDg3Y2NlMGY5M2M2`
+Snapshot ID: `Zh+L0AAAAADDID+myFCg7HTTCHzOD5PG`

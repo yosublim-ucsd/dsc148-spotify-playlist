@@ -22,4 +22,4 @@ pretty - [cumulative](/playlists/cumulative/1ytWBX3wdQRWyUiQP7YBkr.md) - [plain]
 | 12 | [God Lifts Up the Lowly](https://open.spotify.com/track/6d6vJugNByKNYb2TZMIdhT) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Transangelic Exodus](https://open.spotify.com/album/0qH9x299SJCF03WuVXgXAN) | 3:49 |
 | 13 | [Take Me to War \(Live\)](https://open.spotify.com/track/2xkaif8YfSnfK8tf4NJ8mE) | [The Crane Wives](https://open.spotify.com/artist/5U6leWxYKsuTkd4kXcF1a6) | [Take Me to War \(Live\)](https://open.spotify.com/album/79yEdSTEvZdpR8RHg0KPv6) | 3:41 |
 
-Snapshot ID: `MTQsMzdhNzEzMjk5YjBlMjJiM2JiZmJiYzMxMDBhYzUxYWIwNDNmNGYwNQ==`
+Snapshot ID: `AAAADjenEymbDiKzu/u8MQCsUasEP08F`

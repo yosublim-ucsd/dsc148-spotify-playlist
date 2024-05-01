@@ -1,12 +1,12 @@
 {
   "description": "Mejor seguimos cantando, como cantaba el abuelo. \u00a1Garganta pa' que te quiero, si no pa' cantarle al pueblo!",
-  "num_followers": 76968,
+  "num_followers": 76944,
   "original_name": "La Dinast\u00eda de... Los Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjY4MzQxOSwwMDAwMDAwMDg4ZjlkMWMxMDY5NGUwMjRjYjQ5MGY5YWM4ZWQ3NjUy",
+  "snapshot_id": "ZhV5mwAAAACI+dHBBpTgJMtJD5rI7XZS",
   "tracks": [
     {
       "added_at": "2024-04-09 17:23:39",
@@ -623,26 +623,6 @@
     {
       "added_at": "2024-04-09 17:23:39",
       "album": {
-        "name": "Mis Duetos",
-        "url": "https://open.spotify.com/album/1jSkqqoREpC4oEERkILwAG"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        },
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 214213,
-      "name": "Perd\u00f3n (with Alejandro Fern\u00e1ndez) - Remasterizado 2005",
-      "url": "https://open.spotify.com/track/7yXN5WniQqoKxtFIRQeRkk"
-    },
-    {
-      "added_at": "2024-04-09 17:23:39",
-      "album": {
         "name": "Hecho En M\u00e9xico",
         "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
       },
@@ -663,18 +643,22 @@
     {
       "added_at": "2024-04-09 17:23:39",
       "album": {
-        "name": "Dos Mundos Revoluci\u00f3n En Vivo (Live At El Lunario En La Ciudad De M\u00e9xico/2010)",
-        "url": "https://open.spotify.com/album/00toeVbLBW5ZFWTzKZfQ9n"
+        "name": "Mis Duetos",
+        "url": "https://open.spotify.com/album/1jSkqqoREpC4oEERkILwAG"
       },
       "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        },
         {
           "name": "Alejandro Fern\u00e1ndez",
           "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 257773,
-      "name": "Vamos A Darnos Tiempo - Live At El Lunario En La Ciudad De M\u00e9xico/2010",
-      "url": "https://open.spotify.com/track/6DnpQbM6kELQYZ3jXCayo3"
+      "duration_ms": 214213,
+      "name": "Perd\u00f3n (with Alejandro Fern\u00e1ndez) - Remasterizado 2005",
+      "url": "https://open.spotify.com/track/7yXN5WniQqoKxtFIRQeRkk"
     },
     {
       "added_at": "2024-04-09 17:23:39",
@@ -691,6 +675,22 @@
       "duration_ms": 244133,
       "name": "Nube Viajera",
       "url": "https://open.spotify.com/track/6L4fL5BzvvkDLTHs67Uqo6"
+    },
+    {
+      "added_at": "2024-04-09 17:23:39",
+      "album": {
+        "name": "Dos Mundos Revoluci\u00f3n En Vivo (Live At El Lunario En La Ciudad De M\u00e9xico/2010)",
+        "url": "https://open.spotify.com/album/00toeVbLBW5ZFWTzKZfQ9n"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 257773,
+      "name": "Vamos A Darnos Tiempo - Live At El Lunario En La Ciudad De M\u00e9xico/2010",
+      "url": "https://open.spotify.com/track/6DnpQbM6kELQYZ3jXCayo3"
     },
     {
       "added_at": "2024-04-09 17:23:39",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-04-09 17:23:39",
       "album": {
-        "name": "Confidencias Reales (En Vivo Desde El Teatro Real)",
-        "url": "https://open.spotify.com/album/1Psmz14dcKR0QEyoUeGxXP"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 257106,
-      "name": "Hoy Decid\u00ed Olvidarte (Aunque No Est\u00e9s Conmigo) - En Vivo Desde El Teatro Real",
-      "url": "https://open.spotify.com/track/19AnCk8PLWof2cQmTenZof"
-    },
-    {
-      "added_at": "2024-04-09 17:23:39",
-      "album": {
         "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
         "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 261000,
       "name": "Qu\u00e9 L\u00e1stima",
       "url": "https://open.spotify.com/track/0NvO81WDJmJ1aorQ4Of2i9"
+    },
+    {
+      "added_at": "2024-04-09 17:23:39",
+      "album": {
+        "name": "Confidencias Reales (En Vivo Desde El Teatro Real)",
+        "url": "https://open.spotify.com/album/1Psmz14dcKR0QEyoUeGxXP"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 257106,
+      "name": "Hoy Decid\u00ed Olvidarte (Aunque No Est\u00e9s Conmigo) - En Vivo Desde El Teatro Real",
+      "url": "https://open.spotify.com/track/19AnCk8PLWof2cQmTenZof"
     },
     {
       "added_at": "2024-04-09 17:23:39",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-04-09 17:23:39",
       "album": {
-        "name": "Un Azteca en el Azteca (En Vivo)",
-        "url": "https://open.spotify.com/album/4geCevoFyJ8TvKJdNfSIRb"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 186586,
-      "name": "M\u00e1talas - En Vivo [Un Azteca en el Azteca]",
-      "url": "https://open.spotify.com/track/45Nu3gKPEA1rvvUu7VVgyt"
-    },
-    {
-      "added_at": "2024-04-09 17:23:39",
-      "album": {
         "name": "Rompiendo Fronteras",
         "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 186773,
       "name": "Inocente",
       "url": "https://open.spotify.com/track/6cwPxkPg5Cf1Rb1mS4MZXY"
+    },
+    {
+      "added_at": "2024-04-09 17:23:39",
+      "album": {
+        "name": "Un Azteca en el Azteca (En Vivo)",
+        "url": "https://open.spotify.com/album/4geCevoFyJ8TvKJdNfSIRb"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 186586,
+      "name": "M\u00e1talas - En Vivo [Un Azteca en el Azteca]",
+      "url": "https://open.spotify.com/track/45Nu3gKPEA1rvvUu7VVgyt"
     },
     {
       "added_at": "2024-04-09 17:23:39",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-04-09 17:23:39",
       "album": {
-        "name": "Un Azteca en el Azteca (En Vivo)",
-        "url": "https://open.spotify.com/album/4geCevoFyJ8TvKJdNfSIRb"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 236426,
-      "name": "Ac\u00e1 Entre Nos - En Vivo [Un Azteca en el Azteca]",
-      "url": "https://open.spotify.com/track/42sXKjLh6v97XWojhwckLR"
-    },
-    {
-      "added_at": "2024-04-09 17:23:39",
-      "album": {
         "name": "Hecho En M\u00e9xico",
         "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 245040,
       "name": "Por Tu Adi\u00f3s",
       "url": "https://open.spotify.com/track/2Uv19wAiksXZcFM84R00KQ"
+    },
+    {
+      "added_at": "2024-04-09 17:23:39",
+      "album": {
+        "name": "Un Azteca en el Azteca (En Vivo)",
+        "url": "https://open.spotify.com/album/4geCevoFyJ8TvKJdNfSIRb"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 236426,
+      "name": "Ac\u00e1 Entre Nos - En Vivo [Un Azteca en el Azteca]",
+      "url": "https://open.spotify.com/track/42sXKjLh6v97XWojhwckLR"
     },
     {
       "added_at": "2024-04-09 17:23:39",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2024-04-09 17:23:39",
       "album": {
-        "name": "Vicente Fern\u00e1ndez Le Canta a los Grandes Compositores de M\u00e9xico",
-        "url": "https://open.spotify.com/album/56sdl31mYCqHyb9lUwRvNM"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 145732,
-      "name": "La Media Vuelta",
-      "url": "https://open.spotify.com/track/66h0377lmeIXWMvisrAO90"
-    },
-    {
-      "added_at": "2024-04-09 17:23:39",
-      "album": {
         "name": "Mis Duetos",
         "url": "https://open.spotify.com/album/1jSkqqoREpC4oEERkILwAG"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 212720,
       "name": "Aunque Mal Paguen Ellas (with Roberto Carlos) - Remasterizado 2005",
       "url": "https://open.spotify.com/track/0k5Dw1ZT0rS8qw9e4laIlY"
+    },
+    {
+      "added_at": "2024-04-09 17:23:39",
+      "album": {
+        "name": "Vicente Fern\u00e1ndez Le Canta a los Grandes Compositores de M\u00e9xico",
+        "url": "https://open.spotify.com/album/56sdl31mYCqHyb9lUwRvNM"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 145732,
+      "name": "La Media Vuelta",
+      "url": "https://open.spotify.com/track/66h0377lmeIXWMvisrAO90"
     },
     {
       "added_at": "2024-04-09 17:23:39",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2024-04-09 17:23:39",
       "album": {
-        "name": "Sigue la Dinast\u00eda",
-        "url": "https://open.spotify.com/album/56aw5dJng1qL9HUPeMj0B3"
-      },
-      "artists": [
-        {
-          "name": "Alex Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
-        }
-      ],
-      "duration_ms": 209546,
-      "name": "Para Nada",
-      "url": "https://open.spotify.com/track/3HqDtfyluJxxNR9oWshJGp"
-    },
-    {
-      "added_at": "2024-04-09 17:23:39",
-      "album": {
         "name": "M\u00e1s Rom\u00e1ntico Que Nunca",
         "url": "https://open.spotify.com/album/2P1SMhhZQQSSDuG6E68Cud"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 210306,
       "name": "Flores Negras",
       "url": "https://open.spotify.com/track/5w4lrTtCsUDxYGmLkrXtDo"
+    },
+    {
+      "added_at": "2024-04-09 17:23:39",
+      "album": {
+        "name": "Sigue la Dinast\u00eda",
+        "url": "https://open.spotify.com/album/56aw5dJng1qL9HUPeMj0B3"
+      },
+      "artists": [
+        {
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
+        }
+      ],
+      "duration_ms": 209546,
+      "name": "Para Nada",
+      "url": "https://open.spotify.com/track/3HqDtfyluJxxNR9oWshJGp"
     },
     {
       "added_at": "2024-04-09 17:23:39",

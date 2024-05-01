@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: Pretty Girl
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,476 likes - 80 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,510 likes - 80 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 79 | [Bueno](https://open.spotify.com/track/2fiZFsUa2pMlHZEOvRu8KL) | [STÜM](https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd) | [Bueno](https://open.spotify.com/album/7IFuNgbybstjuIAZ90xbNZ) | 4:15 |
 | 80 | [Something Doesn't Feel Right](https://open.spotify.com/track/0YUpNzr5Sx7J7PCPVsG6Uc) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Carry Me Higher](https://open.spotify.com/album/21q5qrGNBSI1ihI0TT5348) | 5:50 |
 
-Snapshot ID: `MTcxNDQzNzY4OSwwMDAwMDAwMDA3OWNjMzY4MDQzNDBhMDMzZTgyM2Q2MGNmNzZmZDQ3`
+Snapshot ID: `ZjA+OQAAAAAHnMNoBDQKAz6CPWDPdv1H`

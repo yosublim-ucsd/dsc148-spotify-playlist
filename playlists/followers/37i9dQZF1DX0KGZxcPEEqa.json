@@ -1,5 +1,5 @@
 {
-  "2024-04-30": 195341,
+  "2024-05-01": 195384,
   "date_first_scraped": "2022-05-09",
   "description": "Digging deep into the history of 10s pop: Cover: Ariana Grande.",
   "name": "Deep Dive: 10s Pop",
@@ -4169,7 +4169,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-30",
       "duration_ms": 186333,
       "name": "Gemini Feed",
       "url": "https://open.spotify.com/track/5KmwE6KlFaQn4Une3LTrhs"
@@ -12853,7 +12853,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 233247,
       "name": "Tilted",
       "url": "https://open.spotify.com/track/6lL22DLq2riNjSaFQLSvdw"

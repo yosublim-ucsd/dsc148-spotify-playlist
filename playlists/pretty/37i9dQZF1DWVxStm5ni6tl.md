@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: CON THE ARTIST
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,530 likes - 70 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,571 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 69 | [S3XUAL](https://open.spotify.com/track/5PQnTbM1FWwiIRB0j95llD) | [Romee Maye](https://open.spotify.com/artist/0VhRXgQCufsCJwD5v0htHr) | [S3XUAL](https://open.spotify.com/album/7IcXR5T4wFQBDRGVq2jNI6) | 3:00 |
 | 70 | [tunnel](https://open.spotify.com/track/43tIV7UcEW6XrvhtRBJGd6) | [blesse](https://open.spotify.com/artist/5MGjRHDmuH8M7tuk7NVmge) | [tunnel](https://open.spotify.com/album/6kMXx28hPek2EZx81pRSQz) | 4:01 |
 
-Snapshot ID: `MTcxMzkzMTIwMCwwMDAwMDAwMGZiM2Y0ZTNlNzViYmY3NDk2NzNjODc2NTgwNjU3MjQz`
+Snapshot ID: `ZiiDwAAAAAD7P04+dbv3SWc8h2WAZXJD`

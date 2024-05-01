@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Justice, St\. Vincent, Teddy Swims and more! cover: Justice
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,486 likes - 92 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,506 likes - 92 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 91 | [CONTINUE](https://open.spotify.com/track/3QNHL2BQxUqOGCP78KdT6l) | [梅田サイファー](https://open.spotify.com/artist/6jGXROxZ2l5mTSyfVqjLn2), [KOPERU](https://open.spotify.com/artist/4Bt4T2lyR5VbORTf9qCrp7), [peko](https://open.spotify.com/artist/4FXJy6E3hz7rbsdoKnKtLg), [KBD](https://open.spotify.com/artist/37N9Y4NAPygkVMVzuDGxQT), [KennyDoes](https://open.spotify.com/artist/0bPWFJWNIvStegSnt43THc) | [CONTINUE](https://open.spotify.com/album/1Cz1eqmS1ICak263CcanlE) | 3:38 |
 | 92 | [この道の果てで](https://open.spotify.com/track/03EwCDF5uJ4yJYDAFo7Gzi) | [Bubble Baby](https://open.spotify.com/artist/4g3C4VejuB09XqHyNhs1AC) | [この道の果てで](https://open.spotify.com/album/1lDTvRGWIzxSjdmvrPpfAX) | 4:23 |
 
-Snapshot ID: `MTcxNDEyOTQzMSwwMDAwMDAwMDg5MzM1ODk2NTZkM2VhOGViMjgwY2RkNjYyNzNjMTc3`
+Snapshot ID: `ZiuKFwAAAACJM1iWVtPqjrKAzdZic8F3`

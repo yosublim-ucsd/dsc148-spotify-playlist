@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Walker County, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,645 likes - 140 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,673 likes - 140 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 139 | [Wish You Back](https://open.spotify.com/track/16URet9mbYzRbBGaWuR4KG) | [Clayton Johnson](https://open.spotify.com/artist/4cybx8xQKafXgZFGGHdJN9) | [Wish You Back](https://open.spotify.com/album/6yKAiysoQNviwoDrNv5r6x) | 2:58 |
 | 140 | [Red Light](https://open.spotify.com/track/4QZZi7Oo8XYwiCMU3kZetX) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH) | [Songs From A Breakup](https://open.spotify.com/album/7JlXQn8KNUP71CO0cQoxyq) | 3:05 |
 
-Snapshot ID: `MTcxMzkzMTIwMCwwMDAwMDAwMDY1ODBjZDM3ZWFmM2Q1Mzk2N2Q0YjY5MTNiY2E1ZmE1`
+Snapshot ID: `ZiiDwAAAAABlgM036vPVOWfUtpE7yl+l`

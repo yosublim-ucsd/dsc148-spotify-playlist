@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > The freshest pop sounds\. Cover: Teddy Swims
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,616 likes - 70 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,610 likes - 70 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 69 | [hurt people](https://open.spotify.com/track/49bYOKCM7bc4rgtxh0hxLg) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [hurt people](https://open.spotify.com/album/69ZEIS1kDJhmKemxug7aP8) | 2:23 |
 | 70 | [Unlove You](https://open.spotify.com/track/09aMmvVWk5n7kmsj2NS12a) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Unlove You](https://open.spotify.com/album/61RGgh2zxHHsIzyhqMZEzq) | 2:46 |
 
-Snapshot ID: `MTcxNDA5NDczNCwwMDAwMDAwMDAxNjVkNjY1ODQzNWViZjNlMzcwNjc0YTFmMjQxODI0`
+Snapshot ID: `ZisCjgAAAAABZdZlhDXr8+NwZ0ofJBgk`

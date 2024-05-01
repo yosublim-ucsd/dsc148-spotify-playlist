@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0SOay3RkjojjevrF5lHMON.md) - [plain]
 
 > All <a href="http://www.rammstein.com">RAMMSTEIN</a>, all the time.
 
-[Rammstein](https://open.spotify.com/user/rammsteinofficial) - 306,836 likes - 252 songs - 19 hr 15 min
+[Rammstein](https://open.spotify.com/user/rammsteinofficial) - 306,809 likes - 252 songs - 19 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -261,4 +261,4 @@ pretty - [cumulative](/playlists/cumulative/0SOay3RkjojjevrF5lHMON.md) - [plain]
 | 251 | [Adios](https://open.spotify.com/track/3zPvL6ZCSVAHvSZXNoAbkl) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Mutter](https://open.spotify.com/album/1CtTTpKbHU8KbHRB4LmBbv) | 3:48 |
 | 252 | [Nebel](https://open.spotify.com/track/6DxTbdswlgfUp2mJ3vtptB) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Mutter](https://open.spotify.com/album/1CtTTpKbHU8KbHRB4LmBbv) | 4:54 |
 
-Snapshot ID: `OTAsZTBjNTUyNjlmMzBkYTYyM2QzNGYwMGVkOTQ0NDdkMTJkYzZkOGE1OA==`
+Snapshot ID: `AAAAWuDFUmnzDaYj008A7ZREfRLcbYpY`

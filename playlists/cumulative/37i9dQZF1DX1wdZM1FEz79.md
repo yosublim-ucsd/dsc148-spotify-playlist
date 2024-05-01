@@ -4,7 +4,7 @@
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover:10cm\) \(감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-497 songs - 1 day 5 hr 35 min
+498 songs - 1 day 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Beach Again \(Acoustic Ver.\)](https://open.spotify.com/track/2XenAqDhO1owVxsYeRET65) | [Lee Sang Soon](https://open.spotify.com/artist/2k5qXj4B0cMlBbLJOVQMUJ) | [DU RI JYU WA X LINDA X Let's Dance](https://open.spotify.com/album/00dzK05LKQYLmnNtQIENmB) | 4:21 | 2021-12-10 | 2022-07-24 |
 | [Beautiful Day](https://open.spotify.com/track/45EAhyaxuIPCvDtEuTi9yS) | [카페모카](https://open.spotify.com/artist/5BF4JZwqktSwyAEmpjLLN0), [묘수](https://open.spotify.com/artist/6pngmJoXCOOg9nzhR7ezjF) | [Beautiful Day](https://open.spotify.com/album/7oZqnesBop8zn4D8QEZFIZ) | 2:52 | 2022-03-10 | 2022-04-21 |
 | [Because I Love You](https://open.spotify.com/track/1v1xZWe4flQJlntJXAIVI8) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka), [Kang Seungwon](https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm) | [Because I Love You](https://open.spotify.com/album/1tbWNmbqbGMTX2ioNCndau) | 3:40 | 2022-06-09 | 2022-07-28 |
-| [because I'm stupid?](https://open.spotify.com/track/0SsFfnxcn6fLOVAQ65yYTy) | [KIXO](https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS) | [because I'm stupid?](https://open.spotify.com/album/7J2sWecxwHLRhtiLtFDVWk) | 2:31 | 2023-03-27 |  |
+| [because I'm stupid?](https://open.spotify.com/track/0SsFfnxcn6fLOVAQ65yYTy) | [KIXO](https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS) | [because I'm stupid?](https://open.spotify.com/album/7J2sWecxwHLRhtiLtFDVWk) | 2:31 | 2023-03-27 | 2024-05-01 |
 | [Begin Again Open MIC EPISODE\. 13 \- Cactus](https://open.spotify.com/track/7HyFV9XyVMu8ZbbOMvMPgO) | [CAR, THE GARDEN](https://open.spotify.com/artist/0gqEtTORPrOqWJWElLvDQ3) | [Begin Again Open MIC EPISODE\. 13 \- Cactus](https://open.spotify.com/album/3QdHo5KB3EKyc0uapPsPJ0) | 3:19 | 2022-01-13 | 2022-07-14 |
 | [Behind the camera](https://open.spotify.com/track/1RAX3WtuQY3TyktqzAdUH8) | [eSNa](https://open.spotify.com/artist/2jfAd4z4B5dR7yhhwTOulQ) | [Behind the camera](https://open.spotify.com/album/7JPpktvZ0OGvK0m3TkMQbY) | 3:58 | 2022-07-04 | 2022-08-10 |
 | [Best regards](https://open.spotify.com/track/3owGb3JGbkRAWZjnCBj3Ic) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Best regards](https://open.spotify.com/album/68ZALvGpKI9Q8VEHUtodNN) | 3:18 | 2022-03-07 | 2022-04-21 |
@@ -306,6 +306,7 @@
 | [Peter!](https://open.spotify.com/track/3v4CroW7hEKfKo9pl3Utct) | [BIRA](https://open.spotify.com/artist/6EYGOF6cZKxAyiBwATdvBp) | [Peter!](https://open.spotify.com/album/204BOh5SG0ywRT5EBqZ2YN) | 2:51 | 2022-03-31 | 2022-04-21 |
 | [Picture](https://open.spotify.com/track/6xcordVjgvZhK1sEm1MNa2) | [Budung](https://open.spotify.com/artist/4RtxNIrPXlf3cTtIsuEWMi) | [Let’s take a step to a brighter place](https://open.spotify.com/album/33myALTzpif1l5ApybO8pk) | 3:35 | 2022-03-31 | 2022-04-14 |
 | [Picture](https://open.spotify.com/track/56oE2VjbGEgGSiBk1keP5d) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [Picture](https://open.spotify.com/album/7IIlgeMAaSxO2JwhetHFMf) | 4:11 | 2022-04-12 | 2022-04-20 |
+| [Playlist](https://open.spotify.com/track/04NgqZ5Wq2BDq4iMJlUyC5) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4) | [Playlist](https://open.spotify.com/album/2nuDgXGMLk7qQYwnuh6Jsu) | 2:46 | 2024-04-30 |  |
 | [pounding trembling](https://open.spotify.com/track/1vkrW27KEye650Rf7AZfr0) | [Gawon](https://open.spotify.com/artist/5HlsOSLKz3NaCFAjpizas1) | [pounding trembling](https://open.spotify.com/album/2qFCc7RMflhZJWEjbEhk8d) | 3:00 | 2022-03-31 | 2022-04-15 |
 | [Pretty Pretty \(Feat\. Jeon Eun Jin\)](https://open.spotify.com/track/2CiOAB6OUvEjovg3SO14jT) | [Mocasom](https://open.spotify.com/artist/25COVJc3wnHfXjaLLtiDCt), [Jeon Eun Jin](https://open.spotify.com/artist/67lzkCTgtpkhb56aGYXJEY) | [Pretty Pretty](https://open.spotify.com/album/60IpwbclgHC75dUAOkZQuC) | 3:54 | 2022-05-11 | 2022-06-10 |
 | [Q&A](https://open.spotify.com/track/1mG5hk6tXxutyKYkCqIayG) | [Oh So Yeon](https://open.spotify.com/artist/0myzJ6Vyf7To1kWoJTseat) | [Q&A](https://open.spotify.com/album/5nodure6zxJnC1LFr61ca1) | 3:51 | 2022-03-09 | 2022-04-11 |

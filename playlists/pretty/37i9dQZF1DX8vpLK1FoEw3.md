@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vpLK1FoEw3.md) - [plain]
 
 > pra superar idiotas q ferem só colada no paredão mô \#MeuSpotify com Pabllo Vittar
 
-[Spotify](https://open.spotify.com/user/spotify) - 632,908 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 632,735 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vpLK1FoEw3.md) - [plain]
 | 49 | [É Que Eu Não Te Esqueci](https://open.spotify.com/track/4hHnpHLwSnIzbFly1DEjvP) | [Danieze Santiago](https://open.spotify.com/artist/166XjvNMa051GH0GR18P2g) | [4 Estações](https://open.spotify.com/album/1C6lrC9i1WpwrokaBJ84Gq) | 2:40 |
 | 50 | [È Sério](https://open.spotify.com/track/33rtIrtyKxJHcaIDcwUF0I) | [Banda Encantu's](https://open.spotify.com/artist/1f1sZAhZSx4WDTruYgzyJU) | [È Sério](https://open.spotify.com/album/1yiPPTeuhoff0ozm0DanzH) | 3:35 |
 
-Snapshot ID: `MTcxMzk3NTkyMywwMDAwMDAwMDEzMTYzZDFjZDc3Y2YxMDg0MThlZWM2NGVjNTAwM2Fj`
+Snapshot ID: `ZikycwAAAAATFj0c13zxCEGO7GTsUAOs`

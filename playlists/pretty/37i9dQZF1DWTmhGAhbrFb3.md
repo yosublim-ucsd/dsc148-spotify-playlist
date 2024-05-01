@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmhGAhbrFb3.md) - [plain]
 
 > Música ambiental para noches tranquilas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 510,292 likes - 142 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,189 likes - 142 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmhGAhbrFb3.md) - [plain]
 | 141 | [The Broken](https://open.spotify.com/track/5zYA6XdGJbTF5zJGbLyjL3) | [Juni](https://open.spotify.com/artist/68kbxgcI5HmdfhnfW3vkbv) | [The Broken](https://open.spotify.com/album/18FKM6nTXUBpyKRE5185Fb) | 3:03 |
 | 142 | [Phonaesthetics](https://open.spotify.com/track/6HpMcAZZhc9wNitIohrY76) | [Devin Echo](https://open.spotify.com/artist/2FMBuPowBpiUWnwcpJ41DM) | [Phonaesthetics](https://open.spotify.com/album/3FkiWVSOevq1nrao1UQFUG) | 2:36 |
 
-Snapshot ID: `MTcxMzgyNzI5NCwwMDAwMDAwMGUyMTY1ODhmMTg3MDBhNDNjZTI0M2ZlY2I1MzYxMjUw`
+Snapshot ID: `Zibt3gAAAADiFliPGHAKQ84kP+y1NhJQ`
