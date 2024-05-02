@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,614 songs - 4 day 14 hr 59 min
+1,615 songs - 4 day 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -498,6 +498,7 @@
 | [Fondness](https://open.spotify.com/track/6imvrMl7lgBPWsl4P7gkdC) | [Late June](https://open.spotify.com/artist/5zMJZTfga0uJURmLLymnoh) | [Fondness](https://open.spotify.com/album/2wcnjCjXyIGM7huGhwNGfg) | 2:22 | 2020-03-16 | 2021-12-20 |
 | [Fooling Myself](https://open.spotify.com/track/46cuPz9v6oKpDlCrg4QaAw) | [Lakehouse](https://open.spotify.com/artist/3yF5PXUJ5XFfLIB0ByFLBK) | [Lakehouse](https://open.spotify.com/album/6cc1rvaVhvDMRnmG4GGog0) | 4:07 | 2020-03-16 | 2022-04-24 |
 | [For The Weak \(with Freddii\)](https://open.spotify.com/track/6IVOIIsAZzJzZVMzPvngMl) | [LILO](https://open.spotify.com/artist/0N4H4yivPGcRmkdqRrLeyA), [Freddii](https://open.spotify.com/artist/5FIydByYlH4IGhHWZP7E1m) | [For The Weak \(with Freddii\)](https://open.spotify.com/album/1KhCbHdbsF9XaYskU5HtM6) | 3:13 | 2021-12-17 | 2021-12-24 |
+| [Forever](https://open.spotify.com/track/1SZY0ap716x9Aj6qQPlx0p) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [Forever](https://open.spotify.com/album/7mqqTxnLpwQsJPrb6nohC2) | 4:13 | 2024-04-19 |  |
 | [Forever \(feat\. Ben Stevenson\)](https://open.spotify.com/track/0f3VCprEO3u4j93FtHxTbj) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Ben Stevenson](https://open.spotify.com/artist/06ZVnBRVWngP7hMjnJsWRq) | [Red // Blue](https://open.spotify.com/album/45hTiiH7JpJx1P5TN6iDDG) | 3:49 | 2020-05-18 | 2020-07-03 |
 | [Forever in My Mind](https://open.spotify.com/track/2xZ9aPo57bpZO1yAAnBI6s) | [Delta Vaults](https://open.spotify.com/artist/0PDSaYCvDaf0LGdTr7BANU) | [Forever in My Mind](https://open.spotify.com/album/292MhRLW28A7dFbQyYMLpP) | 2:37 | 2022-12-28 | 2023-01-06 |
 | [Forever Sun](https://open.spotify.com/track/7mCvVkAN54xuYfmQbk7Pdo) | [Blonde Maze](https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y) | [Forever Sun](https://open.spotify.com/album/0P08zM3Kv5hmJeFWDgD2Hy) | 2:38 | 2022-07-01 | 2022-12-29 |
@@ -514,7 +515,7 @@
 | [Frangipani](https://open.spotify.com/track/4I7u21ZlgZzCR0cmv30PuN) | [Kaiyan](https://open.spotify.com/artist/2LTLYlJsnetSUuVQEnVNrE) | [Hinterland Rhapsody / Frangipani](https://open.spotify.com/album/7AmGcLQgkmIGfnhfKamEsS) | 4:21 | 2022-05-25 | 2022-07-29 |
 | [Free](https://open.spotify.com/track/0dF4YiBOZK45rPynM4No12) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [Free](https://open.spotify.com/album/3rBaD95XtCe7VDlsm6JmE8) | 3:55 | 2021-08-06 | 2022-07-29 |
 | [Friction](https://open.spotify.com/track/4R5rqIqYBUtHueqsnoT1n0) | [High Math](https://open.spotify.com/artist/71fMNJGcp7GFz0ZxBvohtt) | [Friction](https://open.spotify.com/album/3RMRv768S5F0SBa8EKVAx7) | 4:04 | 2020-05-18 | 2020-07-18 |
-| [Friday Lake](https://open.spotify.com/track/6maRenLzXyL8x72a2gTDMY) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Friday Lake](https://open.spotify.com/album/17u0E5PLaCn1SJMPXj8Ova) | 3:16 | 2024-03-22 |  |
+| [Friday Lake](https://open.spotify.com/track/6maRenLzXyL8x72a2gTDMY) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Friday Lake](https://open.spotify.com/album/17u0E5PLaCn1SJMPXj8Ova) | 3:16 | 2024-03-22 | 2024-05-02 |
 | [Friends](https://open.spotify.com/track/0BwDF0PRX9skmZ0BUWmLOF) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Friends](https://open.spotify.com/album/7merJnzS4bvQD6Nv7PaA39) | 3:06 | 2023-04-21 | 2024-04-19 |
 | [Friends In Secret](https://open.spotify.com/track/6k92XAMEfiEPoslrJ9PkjY) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Juvenile](https://open.spotify.com/album/2oopzm9cOcnL5H4iYRMKlR) | 6:08 | 2022-07-01 | 2022-08-27 |
 | [Friends In Secret](https://open.spotify.com/track/7LMn9rFcRyxRSn59jzITh1) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Juvenile](https://open.spotify.com/album/0XgNTaWLxBBaZHJ2Kog2N0) | 6:08 | 2020-10-24 | 2022-07-19 |

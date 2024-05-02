@@ -1,15 +1,15 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
-  "num_followers": 67065,
+  "num_followers": 67060,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "AAAPVl5/WGGxDfKYipPYxLEGgcJ5jdOJ",
+  "snapshot_id": "AAAPWA50hV08Wy5F8xdzH5CBnSd807D6",
   "tracks": [
     {
-      "added_at": "2024-04-30 10:42:58",
+      "added_at": "2024-05-01 09:04:23",
       "album": {
         "name": "RITUAL (evocation)",
         "url": "https://open.spotify.com/album/4DLnLBvf6aKhABSsGMVpET"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/1mtkcUtTvtscfzIlOmcPBW"
     },
     {
-      "added_at": "2024-04-24 12:05:35",
+      "added_at": "2024-05-01 09:04:23",
       "album": {
         "name": "Running",
         "url": "https://open.spotify.com/album/4C1HvmMvjDuVTammFGIADL"
@@ -57,10 +57,10 @@
       "url": "https://open.spotify.com/track/1EqavzBokG9fKmRfK6VJGp"
     },
     {
-      "added_at": "2024-04-24 12:05:35",
+      "added_at": "2024-05-01 09:04:23",
       "album": {
-        "name": "Work",
-        "url": "https://open.spotify.com/album/1Hb73vhOjThgS4BxhJ4KWz"
+        "name": "Forgiveness Is Yours",
+        "url": "https://open.spotify.com/album/7KRpvNDUvx7Sr9qVFPZJj6"
       },
       "artists": [
         {
@@ -70,10 +70,46 @@
       ],
       "duration_ms": 269189,
       "name": "Work",
-      "url": "https://open.spotify.com/track/190Jy5UvDjBbbpnfDFFOc1"
+      "url": "https://open.spotify.com/track/4Mwpfw9r64IBnq8czrEaFo"
     },
     {
-      "added_at": "2024-04-24 12:05:35",
+      "added_at": "2024-05-01 09:04:23",
+      "album": {
+        "name": "Drinking the Dusk Away / Only the Moon Knows",
+        "url": "https://open.spotify.com/album/7clPtGzsrPBrQCpkRNYjDd"
+      },
+      "artists": [
+        {
+          "name": "Alex Izenberg",
+          "url": "https://open.spotify.com/artist/0gFVZqXqhdX8Obteqob5vE"
+        }
+      ],
+      "duration_ms": 202333,
+      "name": "Drinking the Dusk Away",
+      "url": "https://open.spotify.com/track/0kd0HiLMEAmDP3qMbdLK2q"
+    },
+    {
+      "added_at": "2024-05-01 09:04:23",
+      "album": {
+        "name": "Affection",
+        "url": "https://open.spotify.com/album/41fPjriqD2ycjCAE8TfmuT"
+      },
+      "artists": [
+        {
+          "name": "Bullion",
+          "url": "https://open.spotify.com/artist/6vcPgFOkMWBoY6Ks6eMEWj"
+        },
+        {
+          "name": "Panda Bear",
+          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
+        }
+      ],
+      "duration_ms": 162640,
+      "name": "A City\u2019s Never",
+      "url": "https://open.spotify.com/track/3U04LDPkBGu7AwFAeQ7Ot2"
+    },
+    {
+      "added_at": "2024-05-01 09:04:23",
       "album": {
         "name": "Moments Die",
         "url": "https://open.spotify.com/album/4g3THqLL3e4LQjglICSQl1"
@@ -93,23 +129,27 @@
       "url": "https://open.spotify.com/track/19DhgwtEahVgIKQmZNVs9Y"
     },
     {
-      "added_at": "2024-04-29 14:23:55",
+      "added_at": "2024-05-01 09:04:23",
       "album": {
-        "name": "Drinking the Dusk Away / Only the Moon Knows",
-        "url": "https://open.spotify.com/album/7clPtGzsrPBrQCpkRNYjDd"
+        "name": "Dig feat. Rhian Teasdale",
+        "url": "https://open.spotify.com/album/3G4A8L6xxq7iGLRts9sTSw"
       },
       "artists": [
         {
-          "name": "Alex Izenberg",
-          "url": "https://open.spotify.com/artist/0gFVZqXqhdX8Obteqob5vE"
+          "name": "Orlando Weeks",
+          "url": "https://open.spotify.com/artist/5K9Px0eeCuYatmBGFfhSOA"
+        },
+        {
+          "name": "Rhian Teasdale",
+          "url": "https://open.spotify.com/artist/3ceorkSx0PQZbkvQvWpXIF"
         }
       ],
-      "duration_ms": 202333,
-      "name": "Drinking the Dusk Away",
-      "url": "https://open.spotify.com/track/0kd0HiLMEAmDP3qMbdLK2q"
+      "duration_ms": 167386,
+      "name": "Dig feat. Rhian Teasdale",
+      "url": "https://open.spotify.com/track/4VE5B2N4TCHvK5ZZ3dSI6c"
     },
     {
-      "added_at": "2024-04-29 14:23:55",
+      "added_at": "2024-05-01 09:04:23",
       "album": {
         "name": "Drinking the Dusk Away / Only the Moon Knows",
         "url": "https://open.spotify.com/album/7clPtGzsrPBrQCpkRNYjDd"
@@ -125,7 +165,55 @@
       "url": "https://open.spotify.com/track/4trxvoXoZVIylRpv6eZRNa"
     },
     {
-      "added_at": "2024-04-24 12:05:35",
+      "added_at": "2024-05-01 09:04:23",
+      "album": {
+        "name": "La Bomba",
+        "url": "https://open.spotify.com/album/2KtK583Hq65HDEkgE0c5qn"
+      },
+      "artists": [
+        {
+          "name": "Los Bitchos",
+          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
+        }
+      ],
+      "duration_ms": 134720,
+      "name": "La Bomba",
+      "url": "https://open.spotify.com/track/4DVogoYzvFrFOtUMQIamJf"
+    },
+    {
+      "added_at": "2024-05-01 09:04:23",
+      "album": {
+        "name": "I'm All Fucked Up",
+        "url": "https://open.spotify.com/album/5o25j9hctz6Y0B2KFBXujQ"
+      },
+      "artists": [
+        {
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+        }
+      ],
+      "duration_ms": 273460,
+      "name": "I'm All Fucked Up",
+      "url": "https://open.spotify.com/track/1gWIrsjqpmN57sMfq5NcuO"
+    },
+    {
+      "added_at": "2024-05-01 09:04:23",
+      "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/3AzFwWmqAI4gfqqlN2M5Jb"
+      },
+      "artists": [
+        {
+          "name": "Wu-Lu",
+          "url": "https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd"
+        }
+      ],
+      "duration_ms": 264217,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/0Z9RNKpfnETjRxqgKCbJZt"
+    },
+    {
+      "added_at": "2024-05-01 09:04:23",
       "album": {
         "name": "We Have Sex / Introduction To Why I Did It",
         "url": "https://open.spotify.com/album/5bhu41ez9JezoYxiCn01DT"
@@ -149,7 +237,7 @@
       "url": "https://open.spotify.com/track/3zoYFpp1YUZbGyryryvKDa"
     },
     {
-      "added_at": "2024-04-24 12:05:35",
+      "added_at": "2024-05-01 09:04:23",
       "album": {
         "name": "Your Day Will Come",
         "url": "https://open.spotify.com/album/5VJTZMk9joIX2t80S9e6ov"
@@ -165,7 +253,7 @@
       "url": "https://open.spotify.com/track/1y5OVG464f99HsWCVeXHtQ"
     },
     {
-      "added_at": "2024-04-24 12:05:35",
+      "added_at": "2024-05-01 09:04:23",
       "album": {
         "name": "Moonlit Kind",
         "url": "https://open.spotify.com/album/3o9NZmhjuWFBFmdm0Jb6c6"
@@ -181,7 +269,7 @@
       "url": "https://open.spotify.com/track/5ImXWbJsAhqf8efRUFdWLR"
     },
     {
-      "added_at": "2024-04-24 12:05:35",
+      "added_at": "2024-05-01 09:04:23",
       "album": {
         "name": "XO SKELETON",
         "url": "https://open.spotify.com/album/4Uiq57boKVYu31j88BeLm9"
@@ -197,7 +285,7 @@
       "url": "https://open.spotify.com/track/3eMXCmEnmQCvT7KrdT729j"
     },
     {
-      "added_at": "2024-04-24 12:05:35",
+      "added_at": "2024-05-01 09:04:23",
       "album": {
         "name": "Need",
         "url": "https://open.spotify.com/album/3Abt74kzbKOP0htNAiMbmZ"
@@ -217,7 +305,7 @@
       "url": "https://open.spotify.com/track/4ZYnZmc6JN9W8pdNwxX4lE"
     },
     {
-      "added_at": "2024-04-24 12:05:35",
+      "added_at": "2024-05-01 09:04:23",
       "album": {
         "name": "Raat Ki Rani",
         "url": "https://open.spotify.com/album/595nZRWp2upqW6m8ZWA6Tx"
@@ -233,7 +321,7 @@
       "url": "https://open.spotify.com/track/5bYvn1VEE4f4kjug81vwmE"
     },
     {
-      "added_at": "2024-04-24 12:05:35",
+      "added_at": "2024-05-01 09:04:23",
       "album": {
         "name": "sentiment",
         "url": "https://open.spotify.com/album/0QhdOeubTOElMLAVK52uQu"
@@ -253,7 +341,7 @@
       "url": "https://open.spotify.com/track/268XYupMBlKQBHb3m4BIRS"
     },
     {
-      "added_at": "2024-04-24 12:05:35",
+      "added_at": "2024-05-01 09:04:23",
       "album": {
         "name": "We Have Sex / Introduction To Why I Did It",
         "url": "https://open.spotify.com/album/5bhu41ez9JezoYxiCn01DT"
@@ -281,7 +369,7 @@
       "url": "https://open.spotify.com/track/4MvwfdgnZMq2Nlgg6ou99v"
     },
     {
-      "added_at": "2024-04-24 12:05:35",
+      "added_at": "2024-05-01 09:04:23",
       "album": {
         "name": "Starburster",
         "url": "https://open.spotify.com/album/1KkyOpscmbPAQzLNZDyI6o"
@@ -297,7 +385,7 @@
       "url": "https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV"
     },
     {
-      "added_at": "2024-04-24 12:05:35",
+      "added_at": "2024-05-01 09:04:23",
       "album": {
         "name": "Glad I Found You",
         "url": "https://open.spotify.com/album/5zB2w539G0UD6sGpnevP07"
@@ -317,7 +405,7 @@
       "url": "https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK"
     },
     {
-      "added_at": "2024-04-24 12:05:35",
+      "added_at": "2024-05-01 09:04:23",
       "album": {
         "name": "Reaching Out",
         "url": "https://open.spotify.com/album/0tYyc7yXpSEv4W7FQF0ADO"
@@ -333,7 +421,7 @@
       "url": "https://open.spotify.com/track/2GSMDvRIBADQEl2DS8XqPs"
     },
     {
-      "added_at": "2024-04-24 12:05:35",
+      "added_at": "2024-05-01 09:04:23",
       "album": {
         "name": "So Medieval",
         "url": "https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C"
@@ -349,7 +437,7 @@
       "url": "https://open.spotify.com/track/7LQDZxNGroDz0eg0Vyb2av"
     },
     {
-      "added_at": "2024-04-24 12:05:35",
+      "added_at": "2024-05-01 09:04:23",
       "album": {
         "name": "Rag",
         "url": "https://open.spotify.com/album/1Kxp2Qox5nEOGaYuHvthwH"
@@ -365,7 +453,7 @@
       "url": "https://open.spotify.com/track/3iTvYySsyOjPVR3Oiw17Zq"
     },
     {
-      "added_at": "2024-04-24 12:05:35",
+      "added_at": "2024-05-01 09:04:23",
       "album": {
         "name": "If I don't make it, I love u",
         "url": "https://open.spotify.com/album/1DG8mBYMlAQNC9pA21zWAH"
@@ -381,7 +469,7 @@
       "url": "https://open.spotify.com/track/3OEnErw6z4DGjfiWefhg75"
     },
     {
-      "added_at": "2024-04-24 12:05:35",
+      "added_at": "2024-05-01 09:04:23",
       "album": {
         "name": "Only One",
         "url": "https://open.spotify.com/album/0fzG0DP1dF2MEGyuhZHj5w"
@@ -397,7 +485,7 @@
       "url": "https://open.spotify.com/track/5MXegzzvDfUSfwpf8a0FCq"
     },
     {
-      "added_at": "2024-04-24 12:05:35",
+      "added_at": "2024-05-01 09:04:23",
       "album": {
         "name": "On The Lips",
         "url": "https://open.spotify.com/album/2EaFjK4isYVM689kcpyIAY"
@@ -417,7 +505,7 @@
       "url": "https://open.spotify.com/track/0ot8VA36fmxBlIqa5xbnf7"
     },
     {
-      "added_at": "2024-04-24 12:05:35",
+      "added_at": "2024-05-01 09:04:23",
       "album": {
         "name": "Just Like Everybody Else",
         "url": "https://open.spotify.com/album/7LLntYU7uZWDGWcvfPFWTa"
@@ -433,7 +521,7 @@
       "url": "https://open.spotify.com/track/7oOR6Uy2q7s7YWhsIwchEY"
     },
     {
-      "added_at": "2024-04-24 12:05:35",
+      "added_at": "2024-05-01 09:04:23",
       "album": {
         "name": "Air Drumming Fix You",
         "url": "https://open.spotify.com/album/5fVebLQz6IcyjQPFzcuhqS"
@@ -449,7 +537,7 @@
       "url": "https://open.spotify.com/track/4pO4S5dLphqavzoByuZikz"
     },
     {
-      "added_at": "2024-04-24 12:05:35",
+      "added_at": "2024-05-01 09:04:23",
       "album": {
         "name": "I Don't Wanna Be Too Cool (Expanded Edition)",
         "url": "https://open.spotify.com/album/7qD6zHziXQcG4pjLzv3SXY"
@@ -465,7 +553,7 @@
       "url": "https://open.spotify.com/track/14c1AiazzlXcmURe3IaURi"
     },
     {
-      "added_at": "2024-04-24 12:05:35",
+      "added_at": "2024-05-01 09:04:23",
       "album": {
         "name": "Trust / More Data To Survive",
         "url": "https://open.spotify.com/album/1RXhUN6z2OIHbNXk20ucrq"
@@ -485,7 +573,7 @@
       "url": "https://open.spotify.com/track/2EgWtwJIsyyUezh8U5xikt"
     },
     {
-      "added_at": "2024-04-24 12:05:35",
+      "added_at": "2024-05-01 09:04:23",
       "album": {
         "name": "The Sunset Violent",
         "url": "https://open.spotify.com/album/1QZRsLKs258z4wowfNzJLK"
@@ -501,7 +589,7 @@
       "url": "https://open.spotify.com/track/4U9mK38K54AZ0pMwfpfIH7"
     },
     {
-      "added_at": "2024-04-24 12:05:35",
+      "added_at": "2024-05-01 09:04:23",
       "album": {
         "name": "Ad vitam \u00e6ternamour",
         "url": "https://open.spotify.com/album/0rNuS4eL7BuiEa0alvN0cL"
@@ -517,7 +605,7 @@
       "url": "https://open.spotify.com/track/1vTMluwsprRGt8vvkw21Mz"
     },
     {
-      "added_at": "2024-04-24 12:05:35",
+      "added_at": "2024-05-01 09:04:23",
       "album": {
         "name": "Crashing",
         "url": "https://open.spotify.com/album/5b0JlVQMaHGTpLwmz7bVkD"
@@ -533,7 +621,7 @@
       "url": "https://open.spotify.com/track/01wbcVhScz3VGUJIVOZUF0"
     },
     {
-      "added_at": "2024-04-24 12:05:35",
+      "added_at": "2024-05-01 09:04:23",
       "album": {
         "name": "\"I wish I was special\"",
         "url": "https://open.spotify.com/album/3rJQ7dqGmegTLe6o5HrAhW"
@@ -549,7 +637,7 @@
       "url": "https://open.spotify.com/track/5sG8EHMSFeKdMrDkl5iJtA"
     },
     {
-      "added_at": "2024-04-24 12:05:35",
+      "added_at": "2024-05-01 09:04:23",
       "album": {
         "name": "City Warm Heart",
         "url": "https://open.spotify.com/album/5iNljgQzhCShhX58EmQA52"
@@ -565,7 +653,7 @@
       "url": "https://open.spotify.com/track/3nqjxIyCFr72mrgbUvxX0y"
     },
     {
-      "added_at": "2024-04-24 12:05:35",
+      "added_at": "2024-05-01 09:04:23",
       "album": {
         "name": "Wesley's Convertible Tape For The South",
         "url": "https://open.spotify.com/album/0D4vapicUq5zYcJ6cdoDcb"
@@ -581,7 +669,7 @@
       "url": "https://open.spotify.com/track/4yNAvVWyqF9jj0vtuo9lx1"
     },
     {
-      "added_at": "2024-04-24 12:05:35",
+      "added_at": "2024-05-01 09:04:23",
       "album": {
         "name": "Bright Future",
         "url": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
@@ -597,7 +685,7 @@
       "url": "https://open.spotify.com/track/3zGhR60NOVSgtzNEQNcHav"
     },
     {
-      "added_at": "2024-04-24 12:05:35",
+      "added_at": "2024-05-01 09:04:23",
       "album": {
         "name": "How We See The Light",
         "url": "https://open.spotify.com/album/6xrZ6CmKzXvEpxqad5yR0f"
@@ -613,7 +701,7 @@
       "url": "https://open.spotify.com/track/4i2lt1nfGMH13ZB7sZylwu"
     },
     {
-      "added_at": "2024-04-24 12:05:35",
+      "added_at": "2024-05-01 09:04:23",
       "album": {
         "name": "New World (Flow) [Remixes]",
         "url": "https://open.spotify.com/album/30qsuwtGY7vQv1QiTsl15G"
@@ -637,7 +725,7 @@
       "url": "https://open.spotify.com/track/1tWLqewVTJDHP8Aw9kCeOA"
     },
     {
-      "added_at": "2024-04-24 12:05:35",
+      "added_at": "2024-05-01 09:04:23",
       "album": {
         "name": "Boys",
         "url": "https://open.spotify.com/album/3WD2Esqx5d8U6kjiiTLLkU"
@@ -653,7 +741,7 @@
       "url": "https://open.spotify.com/track/1wzz6n18rGB4G7Jlz1MKIr"
     },
     {
-      "added_at": "2024-04-24 12:05:35",
+      "added_at": "2024-05-01 09:04:23",
       "album": {
         "name": "Something in the Room She Moves",
         "url": "https://open.spotify.com/album/0SVglM3r51P5teNFrQ9WOE"
@@ -669,7 +757,7 @@
       "url": "https://open.spotify.com/track/4q1wNhAe6axDOjReaCmOA3"
     },
     {
-      "added_at": "2024-04-24 12:05:35",
+      "added_at": "2024-05-01 09:04:23",
       "album": {
         "name": "Follow The Light",
         "url": "https://open.spotify.com/album/6v2rqiNIvp8wpwjuM52ea6"
@@ -685,7 +773,7 @@
       "url": "https://open.spotify.com/track/17076c3jEyuTYHYnMN6P1G"
     },
     {
-      "added_at": "2024-04-24 12:05:35",
+      "added_at": "2024-05-01 09:04:23",
       "album": {
         "name": "Today You Become Man",
         "url": "https://open.spotify.com/album/5u5MRqvsG4AAgHwRJ8fVFk"
@@ -701,7 +789,7 @@
       "url": "https://open.spotify.com/track/5tKjMXxWxcF3CIj4TRHprl"
     },
     {
-      "added_at": "2024-04-24 12:05:35",
+      "added_at": "2024-05-01 09:04:23",
       "album": {
         "name": "Looking For Light",
         "url": "https://open.spotify.com/album/5YyLTEs0dZzZTB30KfX7uY"
@@ -717,7 +805,7 @@
       "url": "https://open.spotify.com/track/0CAV31ae8oJauV3w75dEn5"
     },
     {
-      "added_at": "2024-04-24 12:05:35",
+      "added_at": "2024-05-01 09:04:23",
       "album": {
         "name": "I Would Call You (But I Never Know What To Say)",
         "url": "https://open.spotify.com/album/1Lry2RHQBKaBIgEgOBEYeI"
@@ -733,7 +821,7 @@
       "url": "https://open.spotify.com/track/64xVeqmdRUugG5z9un81GU"
     },
     {
-      "added_at": "2024-04-24 12:05:35",
+      "added_at": "2024-05-01 09:04:23",
       "album": {
         "name": "You Lucky One",
         "url": "https://open.spotify.com/album/6y56Tcg6amPU1fPnf4ndbF"
@@ -749,7 +837,7 @@
       "url": "https://open.spotify.com/track/4hLJcpz3p66r7HkpmpE43l"
     },
     {
-      "added_at": "2024-04-24 12:05:35",
+      "added_at": "2024-05-01 09:04:23",
       "album": {
         "name": "Sharaf",
         "url": "https://open.spotify.com/album/2GKefvE7TDOQb2cE5jtdxV"
@@ -765,7 +853,7 @@
       "url": "https://open.spotify.com/track/1w6FRH8lmdijeojN9Vq272"
     },
     {
-      "added_at": "2024-04-24 12:05:35",
+      "added_at": "2024-05-01 09:04:23",
       "album": {
         "name": "Embarrassed Dog",
         "url": "https://open.spotify.com/album/4WQJQbKm9POFMDat9js98A"
@@ -781,7 +869,7 @@
       "url": "https://open.spotify.com/track/3gSOdj4d5OKbF8waDFoBHx"
     },
     {
-      "added_at": "2024-04-24 12:05:35",
+      "added_at": "2024-05-01 09:04:23",
       "album": {
         "name": "Boys",
         "url": "https://open.spotify.com/album/3WD2Esqx5d8U6kjiiTLLkU"
@@ -795,142 +883,6 @@
       "duration_ms": 293000,
       "name": "Purple Land",
       "url": "https://open.spotify.com/track/0C4JrmSbikxCq5QrlkwJdg"
-    },
-    {
-      "added_at": "2024-04-24 12:05:35",
-      "album": {
-        "name": "Butterfly Phase",
-        "url": "https://open.spotify.com/album/1vlOlNdyXki50uJjsPErZW"
-      },
-      "artists": [
-        {
-          "name": "Kelly Moran",
-          "url": "https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy"
-        }
-      ],
-      "duration_ms": 170920,
-      "name": "Butterfly Phase",
-      "url": "https://open.spotify.com/track/1mGCf4gmVqKmaN41BVmoNe"
-    },
-    {
-      "added_at": "2024-04-24 12:05:35",
-      "album": {
-        "name": "God's Country",
-        "url": "https://open.spotify.com/album/4ymxAnpNkFo2spUPzjouAR"
-      },
-      "artists": [
-        {
-          "name": "Lambrini Girls",
-          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
-        }
-      ],
-      "duration_ms": 135541,
-      "name": "God's Country",
-      "url": "https://open.spotify.com/track/4UccUaOQ6lU7kAffOVgz1d"
-    },
-    {
-      "added_at": "2024-04-24 12:05:35",
-      "album": {
-        "name": "krillin",
-        "url": "https://open.spotify.com/album/15V7baihpBBfFTTtxxOmgB"
-      },
-      "artists": [
-        {
-          "name": "They Are Gutting a Body of Water",
-          "url": "https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj"
-        },
-        {
-          "name": "Greg Mendez",
-          "url": "https://open.spotify.com/artist/3pGNoAJX3UVctU6X8eG55h"
-        },
-        {
-          "name": "SUN ORGAN",
-          "url": "https://open.spotify.com/artist/13ZwcU5VGUsd4nB6hsUYCp"
-        }
-      ],
-      "duration_ms": 135154,
-      "name": "krillin",
-      "url": "https://open.spotify.com/track/6kOT10pPFsgJEWQCW1X8FO"
-    },
-    {
-      "added_at": "2024-04-24 12:05:35",
-      "album": {
-        "name": "Suffer One",
-        "url": "https://open.spotify.com/album/7siwxOUsQ0YEllA61QaCHU"
-      },
-      "artists": [
-        {
-          "name": "Adult Jazz",
-          "url": "https://open.spotify.com/artist/5as7SW1R7ACUdkVtmcG7TG"
-        }
-      ],
-      "duration_ms": 302920,
-      "name": "Suffer One",
-      "url": "https://open.spotify.com/track/0Kg30B2rdLeb2Lau5uZIXQ"
-    },
-    {
-      "added_at": "2024-04-24 12:05:35",
-      "album": {
-        "name": "Hello",
-        "url": "https://open.spotify.com/album/169ybGzGpv1UjjWJ37ckhx"
-      },
-      "artists": [
-        {
-          "name": "Friedberg",
-          "url": "https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/3nh0eAFCTAx01aIuq8YTqR"
-    },
-    {
-      "added_at": "2024-04-24 12:05:35",
-      "album": {
-        "name": "Umbrella Tree",
-        "url": "https://open.spotify.com/album/0tqj67OS0gdFcknGMDCjem"
-      },
-      "artists": [
-        {
-          "name": "Dura Mater",
-          "url": "https://open.spotify.com/artist/1cA9T4W714BiqPU1PaTz9P"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Umbrella Tree",
-      "url": "https://open.spotify.com/track/6sxVrDXBrdL80ZQKtqUxHb"
-    },
-    {
-      "added_at": "2024-04-24 12:05:35",
-      "album": {
-        "name": "Peachy",
-        "url": "https://open.spotify.com/album/2Dqc68VzkJXtidhaG7ebEN"
-      },
-      "artists": [
-        {
-          "name": "The Rhythm Method",
-          "url": "https://open.spotify.com/artist/6kcYJnJl7asHdgQdrviOFb"
-        }
-      ],
-      "duration_ms": 254690,
-      "name": "Have A Go Heroes",
-      "url": "https://open.spotify.com/track/5l0JnjmP0KSnvFKvZtfYdD"
-    },
-    {
-      "added_at": "2024-04-24 12:05:35",
-      "album": {
-        "name": "4316",
-        "url": "https://open.spotify.com/album/34bqbMY0btmOeoUV8uYEdK"
-      },
-      "artists": [
-        {
-          "name": "Isobel Campbell",
-          "url": "https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq"
-        }
-      ],
-      "duration_ms": 199493,
-      "name": "4316",
-      "url": "https://open.spotify.com/track/4hLEz7utDDK8MNr1tO0qJJ"
     }
   ],
   "unique_name": "Domino Sound System",

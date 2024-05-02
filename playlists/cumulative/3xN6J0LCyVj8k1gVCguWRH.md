@@ -2,7 +2,7 @@
 
 ### [Obama’s Summer Playlist 2024](https://open.spotify.com/playlist/3xN6J0LCyVj8k1gVCguWRH)
 
-> What Will the 2024 Song of the Summer Be!? Find out with the perfect soundtrack for the sweatiest season! Includes Summer 2023 edition &amp;amp; bonus tracks.
+> What Will the 2024 Song of the Summer Be!? Find out with the perfect soundtrack for the sweatiest season! A predicttion playlist that Includes Summer 2023 edition &amp; bonus tracks.
 
 3,303 songs - 7 day 19 hr 30 min
 
@@ -1759,7 +1759,7 @@
 | [Love You Like I Should](https://open.spotify.com/track/6FdKvkZQMWLSz1l7rdpvBt) | [Monday Morning](https://open.spotify.com/artist/5tcO5UDnbwkxIuyJBQVv0l) | [Love You Like I Should](https://open.spotify.com/album/6TceQz9I4iukwAigxHAOKB) | 2:55 | 2021-07-02 | 2021-07-18 |
 | [Love Yourself](https://open.spotify.com/track/575i3AsDrLGOEEWCiqiV8s) | [Marvin Shadex](https://open.spotify.com/artist/1vzUnGYSfbkAz4HAsbAnph) | [Love Yourself](https://open.spotify.com/album/4g6NaEmfh690Uj1VHSET65) | 3:32 | 2022-11-04 | 2022-11-27 |
 | [Love, Love, Love](https://open.spotify.com/track/458NMueA6uZrGgjNP7mG8y) | [Line Mari](https://open.spotify.com/artist/0nNy8WWsrdE7XpH82Ign9e) | [Love, Love, Love](https://open.spotify.com/album/6g7Ljujgzlkus3lmfH6pHa) | 2:37 | 2024-02-04 | 2024-02-12 |
-| [LOVE\. FEAT\. ZACARI.](https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 3:33 | 2024-03-24 |  |
+| [LOVE\. FEAT\. ZACARI.](https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 3:33 | 2024-03-24 | 2024-05-02 |
 | [Lovely News](https://open.spotify.com/track/7oHRnnH8wdnwb5jkSgcb0O) | [I Hear Jimmy](https://open.spotify.com/artist/5J1J4Fgcs49xIWDtBjD1xZ), [UGENE NGHT](https://open.spotify.com/artist/7uYudqa6w4ALOkoMBAClqo) | [Lovely News](https://open.spotify.com/album/6uOZQjuqWO9aUN8dhwnBXj) | 3:16 | 2023-03-22 | 2023-04-13 |
 | [Lovesick](https://open.spotify.com/track/0xNVyPIljoayAOyaCevI2x) | [Jost Music](https://open.spotify.com/artist/4JLjGlT5l6gtKKvP8qRb2g), [LeftLukas](https://open.spotify.com/artist/0xDrFDK7IK6kgDAdyYhNeH) | [Lovesick](https://open.spotify.com/album/0F9KuJCpVBVtTuzMvG2IlM) | 2:31 | 2020-12-04 | 2020-12-19 |
 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 | 2023-12-01 |  |

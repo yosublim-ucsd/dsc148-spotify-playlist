@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Believers Never Die - Greatest Hits",
+        "url": "https://open.spotify.com/album/2FkdqW19xrKlDfeZjWf4Gt"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216053,
+      "name": "\"From Now On We Are Enemies\"",
+      "url": "https://open.spotify.com/track/2hC4LPebn0xctVGsVPOwJX"
+    },
+    {
+      "album": {
         "name": "Infinity On High",
         "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
       },
@@ -88,7 +106,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 203413,
       "name": "Alone Together",
       "url": "https://open.spotify.com/track/5MsZIaCYY6Tsdph0LiB0hE"
@@ -680,7 +698,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 244720,
       "name": "Just One Yesterday",
       "url": "https://open.spotify.com/track/5OMCffelD9cnJCgG3xnHzU"
@@ -716,7 +734,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-01",
+      "date_removed": null,
       "duration_ms": 211026,
       "name": "Miss Missing You",
       "url": "https://open.spotify.com/track/05Z77MHLPcBA2Wd5eDSJzl"
@@ -936,7 +954,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-30",
+      "date_removed": null,
       "duration_ms": 210426,
       "name": "Tell That Mick He Just Made My List of Things to Do Today",
       "url": "https://open.spotify.com/track/6mCjOSXkABONouTVa6PQOy"
@@ -972,7 +990,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 244960,
       "name": "The Phoenix",
       "url": "https://open.spotify.com/track/7jwDuO7UZvWs77KNj9HbvF"

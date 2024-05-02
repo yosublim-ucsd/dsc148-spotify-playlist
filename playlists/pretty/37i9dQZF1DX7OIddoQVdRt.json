@@ -1,6 +1,6 @@
 {
   "description": "Experience the powerful messages and sounds of the current hits and classic Gospel songs.  Cover: <a href=\"spotify:artist:5YxebzzreNswbtYC1td4cx\">Tasha Cobbs Leonard</a>",
-  "num_followers": 621294,
+  "num_followers": 621310,
   "original_name": "Spread the Gospel",
   "owner": {
     "name": "Spotify",
@@ -803,8 +803,8 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "The Moment (Live)",
-        "url": "https://open.spotify.com/album/3eUR0CKGUe8P2JyY06eqhO"
+        "name": "Hymns (Live)",
+        "url": "https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 441386,
-      "name": "The Moment - Live",
-      "url": "https://open.spotify.com/track/4ZpWNJauplyo3AnV8LlJdw"
+      "duration_ms": 262124,
+      "name": "Burdens Down - Live",
+      "url": "https://open.spotify.com/track/7x7pUk4nHoFyLIr5EJR97X"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -967,8 +967,8 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "Hymns (Live)",
-        "url": "https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u"
+        "name": "The Moment (Live)",
+        "url": "https://open.spotify.com/album/3eUR0CKGUe8P2JyY06eqhO"
       },
       "artists": [
         {
@@ -976,9 +976,9 @@
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 262124,
-      "name": "Burdens Down - Live",
-      "url": "https://open.spotify.com/track/7x7pUk4nHoFyLIr5EJR97X"
+      "duration_ms": 441386,
+      "name": "The Moment - Live",
+      "url": "https://open.spotify.com/track/4ZpWNJauplyo3AnV8LlJdw"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "One True Gospel",
-        "url": "https://open.spotify.com/album/1NkrJOPXOSTuRuUJ2RUY7z"
-      },
-      "artists": [
-        {
-          "name": "Bubby Fann",
-          "url": "https://open.spotify.com/artist/6FmlEqf0M3IFiorZyjUX8U"
-        },
-        {
-          "name": "Praise Beyond",
-          "url": "https://open.spotify.com/artist/09kRpFrA2rzmzo1udMADxs"
-        }
-      ],
-      "duration_ms": 370907,
-      "name": "One True Gospel",
-      "url": "https://open.spotify.com/track/4uBE9zsTXLWYtUuBCt3BSr"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
         "name": "Glory / Stranger",
         "url": "https://open.spotify.com/album/6Rq7AnztYvLhwCNebrR2XT"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 210122,
       "name": "Glory / Stranger",
       "url": "https://open.spotify.com/track/1LfqzX9IZ9sosa60nG4byU"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
+        "name": "One True Gospel",
+        "url": "https://open.spotify.com/album/1NkrJOPXOSTuRuUJ2RUY7z"
+      },
+      "artists": [
+        {
+          "name": "Bubby Fann",
+          "url": "https://open.spotify.com/artist/6FmlEqf0M3IFiorZyjUX8U"
+        },
+        {
+          "name": "Praise Beyond",
+          "url": "https://open.spotify.com/artist/09kRpFrA2rzmzo1udMADxs"
+        }
+      ],
+      "duration_ms": 370907,
+      "name": "One True Gospel",
+      "url": "https://open.spotify.com/track/4uBE9zsTXLWYtUuBCt3BSr"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -1519,6 +1519,26 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
+        "name": "Bless Me",
+        "url": "https://open.spotify.com/album/6f19JEkhgyhpGnwZjedANL"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 272348,
+      "name": "Bless Me",
+      "url": "https://open.spotify.com/track/7lc2czeQDUCODiwbGQOA2o"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
         "name": "Imprint (Live in Memphis)",
         "url": "https://open.spotify.com/album/2J5NM9D4nvG4qyqVxRyuGk"
       },
@@ -1555,26 +1575,6 @@
       "duration_ms": 747716,
       "name": "Not Holding Back",
       "url": "https://open.spotify.com/track/3648FGKvPaB9jJ6SszwiXD"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
-        "name": "Bless Me",
-        "url": "https://open.spotify.com/album/6f19JEkhgyhpGnwZjedANL"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 272348,
-      "name": "Bless Me",
-      "url": "https://open.spotify.com/track/7lc2czeQDUCODiwbGQOA2o"
     },
     {
       "added_at": "2024-02-02 06:37:59",

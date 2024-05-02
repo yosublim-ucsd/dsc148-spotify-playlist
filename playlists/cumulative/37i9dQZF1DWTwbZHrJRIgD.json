@@ -2699,6 +2699,32 @@
     },
     {
       "album": {
+        "name": "Mashwara",
+        "url": "https://open.spotify.com/album/5WcGuU8M3bqnMUrKwM7pzH"
+      },
+      "artists": [
+        {
+          "name": "Surya Singh",
+          "url": "https://open.spotify.com/artist/39l29T5muGAMa7ARnBGyNQ"
+        },
+        {
+          "name": "Shreyas Puranik",
+          "url": "https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d"
+        },
+        {
+          "name": "Siddharth - Garima",
+          "url": "https://open.spotify.com/artist/6k6TIai4KyKG1DeIMftSmJ"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Mashwara",
+      "url": "https://open.spotify.com/track/1Yiwkdc1Jv5NjXThjL541E"
+    },
+    {
+      "album": {
         "name": "Dil Bechara (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5zrZPXoYsu772sB3CwVuxr"
       },

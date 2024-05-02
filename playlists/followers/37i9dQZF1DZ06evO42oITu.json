@@ -1,7 +1,7 @@
 {
-  "2024-05-01": 347144,
+  "2024-05-02": 347217,
   "date_first_scraped": "2022-08-06",
-  "description": "This is Eric Clapton. The essential tracks, all in one playlist.",
+  "description": "This Is Eric Clapton. Los temas esenciales, todos en una lista.",
   "name": "This Is Eric Clapton",
   "tracks": [
     {
@@ -613,7 +613,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-30",
+      "date_removed": null,
       "duration_ms": 150626,
       "name": "For Your Love - 2015 Remaster",
       "url": "https://open.spotify.com/track/6o21UfW2RHkzzleZGLfFpK"
@@ -1048,6 +1048,24 @@
     },
     {
       "album": {
+        "name": "To Save a Child",
+        "url": "https://open.spotify.com/album/2AFTCoFxo67KJgTKZtmDWi"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Hoochie Coochie Man - Live",
+      "url": "https://open.spotify.com/track/5TdnTZU72fkiKMimTLYUOt"
+    },
+    {
+      "album": {
         "name": "Moon River / How Could We Know",
         "url": "https://open.spotify.com/album/1qEvo5oupbjyJt2tdgnAZT"
       },
@@ -1413,7 +1431,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 264333,
       "name": "Knockin' On Heaven's Door",
       "url": "https://open.spotify.com/track/7fIZpIYzxzSV9s7oc6u1IA"
@@ -2069,7 +2087,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 275520,
       "name": "Ride the River",
       "url": "https://open.spotify.com/track/3sDSFcI1b35KqEEd0bDzBu"
@@ -2741,7 +2759,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-30",
+      "date_removed": null,
       "duration_ms": 516533,
       "name": "Three O'Clock Blues",
       "url": "https://open.spotify.com/track/6lWxIJH0CyUtmFaIAeVmTQ"
@@ -2899,7 +2917,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 265546,
       "name": "Worried Life Blues",
       "url": "https://open.spotify.com/track/2fdhU7kBO3WVYkWJnYAlO3"

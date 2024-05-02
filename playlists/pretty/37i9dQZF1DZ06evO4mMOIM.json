@@ -1,12 +1,12 @@
 {
   "description": "This is Glassjaw. The essential tracks, all in one playlist.",
-  "num_followers": 1864,
+  "num_followers": 1865,
   "original_name": "This Is Glassjaw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zi7jAAAAAAAZrPdeDrWmGLi4/xkKWXe9",
+  "snapshot_id": "ZjA0gAAAAADC077r9Eax24H10oEkR04C",
   "tracks": [
     {
       "added_at": null,
@@ -192,9 +192,9 @@
           "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
         }
       ],
-      "duration_ms": 283746,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/1RwBjcl5kuSR7YAb6KudBj"
+      "duration_ms": 202013,
+      "name": "Vanilla Poltergeist Snake",
+      "url": "https://open.spotify.com/track/49DtpkyPIzyo4yJh02mxZQ"
     },
     {
       "added_at": null,
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
         }
       ],
-      "duration_ms": 202013,
-      "name": "Vanilla Poltergeist Snake",
-      "url": "https://open.spotify.com/track/49DtpkyPIzyo4yJh02mxZQ"
+      "duration_ms": 283746,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/1RwBjcl5kuSR7YAb6KudBj"
     },
     {
       "added_at": null,
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
         }
       ],
-      "duration_ms": 141759,
-      "name": "citizen",
-      "url": "https://open.spotify.com/track/5ou2Ve0jHZB3TBIFJN568a"
+      "duration_ms": 265839,
+      "name": "new white extremity",
+      "url": "https://open.spotify.com/track/7behUBBwhex459VBTOH0wT"
     },
     {
       "added_at": null,
@@ -423,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mark",
-        "url": "https://open.spotify.com/album/2pfCN9kQcKaYADLWEYH9Sl"
+        "name": "Coloring Book",
+        "url": "https://open.spotify.com/album/2X1G1CjQbDTYVPHzmacsry"
       },
       "artists": [
         {
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
         }
       ],
-      "duration_ms": 219133,
-      "name": "El Mark",
-      "url": "https://open.spotify.com/track/6qzrABvo4DnUiDlg3nuJsf"
+      "duration_ms": 322106,
+      "name": "Daytona White",
+      "url": "https://open.spotify.com/track/5tFZsDPwf4WNkIxq5i18Od"
     },
     {
       "added_at": null,
@@ -448,15 +448,15 @@
           "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
         }
       ],
-      "duration_ms": 265839,
-      "name": "new white extremity",
-      "url": "https://open.spotify.com/track/7behUBBwhex459VBTOH0wT"
+      "duration_ms": 141759,
+      "name": "citizen",
+      "url": "https://open.spotify.com/track/5ou2Ve0jHZB3TBIFJN568a"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Coloring Book",
-        "url": "https://open.spotify.com/album/2X1G1CjQbDTYVPHzmacsry"
+        "name": "El Mark",
+        "url": "https://open.spotify.com/album/2pfCN9kQcKaYADLWEYH9Sl"
       },
       "artists": [
         {
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
         }
       ],
-      "duration_ms": 322106,
-      "name": "Daytona White",
-      "url": "https://open.spotify.com/track/5tFZsDPwf4WNkIxq5i18Od"
+      "duration_ms": 219133,
+      "name": "El Mark",
+      "url": "https://open.spotify.com/track/6qzrABvo4DnUiDlg3nuJsf"
     },
     {
       "added_at": null,
@@ -503,6 +503,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coloring Book",
+        "url": "https://open.spotify.com/album/2X1G1CjQbDTYVPHzmacsry"
+      },
+      "artists": [
+        {
+          "name": "Glassjaw",
+          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
+        }
+      ],
+      "duration_ms": 415613,
+      "name": "Stations of the New Cross",
+      "url": "https://open.spotify.com/track/5O7oghNlSQe2DqLQejogQO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Material Control",
+        "url": "https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ"
+      },
+      "artists": [
+        {
+          "name": "Glassjaw",
+          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
+        }
+      ],
+      "duration_ms": 184586,
+      "name": "golgotha",
+      "url": "https://open.spotify.com/track/4sZuIfdLBqNXSUuNaAhw5j"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Mark",
         "url": "https://open.spotify.com/album/2pfCN9kQcKaYADLWEYH9Sl"
       },
@@ -528,25 +560,9 @@
           "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
         }
       ],
-      "duration_ms": 184586,
-      "name": "golgotha",
-      "url": "https://open.spotify.com/track/4sZuIfdLBqNXSUuNaAhw5j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coloring Book",
-        "url": "https://open.spotify.com/album/2X1G1CjQbDTYVPHzmacsry"
-      },
-      "artists": [
-        {
-          "name": "Glassjaw",
-          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
-        }
-      ],
-      "duration_ms": 415613,
-      "name": "Stations of the New Cross",
-      "url": "https://open.spotify.com/track/5O7oghNlSQe2DqLQejogQO"
+      "duration_ms": 158426,
+      "name": "closer",
+      "url": "https://open.spotify.com/track/5uJpSKo6cFDwnvncugsC61"
     },
     {
       "added_at": null,
@@ -563,22 +579,6 @@
       "duration_ms": 344560,
       "name": "Oxycodone",
       "url": "https://open.spotify.com/track/0wZqLhJhaAxlDr8tVvpj9O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Material Control",
-        "url": "https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ"
-      },
-      "artists": [
-        {
-          "name": "Glassjaw",
-          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
-        }
-      ],
-      "duration_ms": 158426,
-      "name": "closer",
-      "url": "https://open.spotify.com/track/5uJpSKo6cFDwnvncugsC61"
     }
   ],
   "unique_name": "This Is Glassjaw",

@@ -1,5 +1,5 @@
 {
-  "2024-05-01": 181685,
+  "2024-05-02": 181894,
   "date_first_scraped": "2022-05-26",
   "description": "Snuggling in for the evening with a nice soundtrack",
   "name": "Mellow Evening",
@@ -1447,7 +1447,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 176746,
       "name": "Goodnight",
       "url": "https://open.spotify.com/track/69jstgacdd40OwG9cLl45r"
@@ -3143,6 +3143,24 @@
       "duration_ms": 321256,
       "name": "Someone Like You - Spotify Singles",
       "url": "https://open.spotify.com/track/2t96CFKbjUUd6Fc1OXQiKv"
+    },
+    {
+      "album": {
+        "name": "Something You Can Hold",
+        "url": "https://open.spotify.com/album/4pcO6I05CFVRHzNtLx9Gvs"
+      },
+      "artists": [
+        {
+          "name": "Mason Ramsey",
+          "url": "https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179217,
+      "name": "Something You Can Hold",
+      "url": "https://open.spotify.com/track/3qqlyGEO02ZoW8OwYhuMq8"
     },
     {
       "album": {

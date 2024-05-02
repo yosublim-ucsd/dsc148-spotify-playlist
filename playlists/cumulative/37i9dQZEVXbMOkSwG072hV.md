@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-2,268 songs - 4 day 21 hr 53 min
+2,269 songs - 4 day 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -587,6 +587,7 @@
 | [Do not touch](https://open.spotify.com/track/5gq7xM6eI16osBO2U581NL) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Masterpiece](https://open.spotify.com/album/3qmO83vO1SsdmP1Y0ljhSQ) | 3:05 | 2023-08-08 | 2023-09-13 |
 | [Do Seu Lado](https://open.spotify.com/track/1a1CZOOOgsm1bGf0G92Zrn) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [O Mais Novo Romântico](https://open.spotify.com/album/6bUVIZIeTsNvW9QyWsaqYj) | 3:07 | 2023-08-29 | 2023-09-06 |
 | [Do Ya Wanna Taste It](https://open.spotify.com/track/5XW4BwCrfYpci5zMbJxs4N) | [Wig Wam](https://open.spotify.com/artist/5EzPaejJ1QA4wkTLV37e60) | [Non Stop Rock'n Roll](https://open.spotify.com/album/4LC0EgGdIMtdpsssOLCJ1T) | 2:56 | 2022-02-22 | 2022-03-16 |
+| [DO ZERO](https://open.spotify.com/track/2QlQbnVEQqXQWGJc3tJYDf) | [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [MAGIC SHOW](https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW) | 2:38 | 2024-05-01 |  |
 | [Doce Vampiro](https://open.spotify.com/track/5toSzfFqh7gfTLGWW3Z8Zv) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Rita Lee](https://open.spotify.com/album/1WN3eZOVfULIjZfxdsfoMO) | 4:28 | 2023-05-11 | 2023-05-18 |
 | [Dog Days Are Over](https://open.spotify.com/track/456WNXWhDwYOSf5SpTuqxd) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Version\)](https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5) | 4:12 | 2023-05-19 | 2023-06-06 |
 | [DOGTOOTH](https://open.spotify.com/track/6OfOzTitafSnsaunQLuNFw) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 2:41 | 2023-04-18 | 2023-04-21 |
@@ -1108,7 +1109,7 @@
 | [Lovezinho](https://open.spotify.com/track/6ktQusG4d85cZm6zrr5ioY) | [Treyce](https://open.spotify.com/artist/2CxOaVqRvTLZAZ7nFnJhsU), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi), [Tainá Costa](https://open.spotify.com/artist/7qbMZFoPRwWU9m3Xi1KV83), [MK no Beat](https://open.spotify.com/artist/7HJI3KV7QYdzMHYM9WC1LC) | [Lovezinho](https://open.spotify.com/album/5kxrV1fKIo1j4WZXWEauu3) | 2:31 | 2023-02-16 | 2023-03-07 |
 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 | 2023-11-28 | 2023-12-13 |
 | [Lua](https://open.spotify.com/track/6r6wTVl7sBndpdlzBSEYnF) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Boiadeira Internacional \(Ao Vivo\)](https://open.spotify.com/album/1eLF8DMP6DQrGcJXqqIlAa) | 3:26 | 2024-03-05 | 2024-03-20 |
-| [Lua](https://open.spotify.com/track/60cnRRDftZPrzn2iFutTkV) | [Nilson Neto](https://open.spotify.com/artist/2D9AauR2GiC99uhbtBJJeN) | [Lua](https://open.spotify.com/album/1dhcAYQFx87r5idiAXFtoS) | 2:39 | 2024-04-16 |  |
+| [Lua](https://open.spotify.com/track/60cnRRDftZPrzn2iFutTkV) | [Nilson Neto](https://open.spotify.com/artist/2D9AauR2GiC99uhbtBJJeN) | [Lua](https://open.spotify.com/album/1dhcAYQFx87r5idiAXFtoS) | 2:39 | 2024-04-16 | 2024-05-02 |
 | [Lucky](https://open.spotify.com/track/7MQ5qQZkeVI4eBOYEXm75v) | [Adrian Milanio](https://open.spotify.com/artist/0WU77FbXaPSbcMcrOSJQXc) | [Where You Wanna Go](https://open.spotify.com/album/2ZTIEsWdfacwU4xcEpq8vB) | 3:03 | 2023-01-24 | 2023-02-01 |
 | [Lula 2022](https://open.spotify.com/track/3J3oeKeRYWzYRuPKoOxzdY) | [Maderada](https://open.spotify.com/artist/4Y8oZmeJmbpooOF0uD1NRp) | [Lula 2022](https://open.spotify.com/album/0gwfNewnKwiQCuk4CXAnE3) | 3:16 | 2022-10-03 | 2022-10-11 |
 | [Lula Lá 2022](https://open.spotify.com/track/6JppDQy0FW1nRAc5gCvoJI) | [Esquerda Festiva](https://open.spotify.com/artist/19kP8LcEBcxfaxKOW0URAK) | [LULA PRESIDENTE](https://open.spotify.com/album/02jwUb2nHJuvWTAnfXB4j7) | 1:50 | 2022-11-02 | 2022-11-09 |

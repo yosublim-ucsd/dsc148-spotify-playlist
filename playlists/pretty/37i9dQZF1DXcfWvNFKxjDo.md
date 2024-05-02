@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: BENNETT
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,339 likes - 79 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,500 likes - 79 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 23 | [Myself & I](https://open.spotify.com/track/1IzFil1hKqcupa8VYdM5v6) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4), [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [Myself & I](https://open.spotify.com/album/2fLUohwRK04Kyenhm5nwwg) | 3:23 |
 | 24 | [All the Things She Said](https://open.spotify.com/track/6FxRH7N7Q86i6aixaSYYzx) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [KOPPY](https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO) | [All the Things She Said](https://open.spotify.com/album/6GxNLOlFGgl6J3cvLGN81l) | 2:45 |
 | 25 | [Stand By Me \- Remix](https://open.spotify.com/track/0Up0F4fnhzw3mGllq00HPv) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3), [Dichotomy Of Two](https://open.spotify.com/artist/3yhaW5uG4RLVsZMr2N4csD), [Beeza](https://open.spotify.com/artist/2iCcmhKGA6Pg98ZVH1wDW7) | [Stand By Me \(Remix\)](https://open.spotify.com/album/7Lg2IvCuoXrjMNhRt25753) | 4:40 |
-| 26 | [Suavamente](https://open.spotify.com/track/2iqQ0Pk82ozDZjXWBvTnan) | [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Suavamente](https://open.spotify.com/album/2GYBxxYz9NNOSkjZNIXZXy) | 2:32 |
+| 26 | [Suavemente](https://open.spotify.com/track/2iqQ0Pk82ozDZjXWBvTnan) | [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Suavemente](https://open.spotify.com/album/2GYBxxYz9NNOSkjZNIXZXy) | 2:32 |
 | 27 | [Shadows Of The Night \- GIGI DAG Mix](https://open.spotify.com/track/5n3jPpWweeAWjSEIONrcXS) | [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un), [Boostedkids](https://open.spotify.com/artist/2PMTEy2vzCh81UZTpjK7fZ), [GIGI DAG](https://open.spotify.com/artist/5dnmJca9sE7eYfwKyeWVI0) | [Shadows Of The Night \(GIGI DAG Mix\)](https://open.spotify.com/album/5X1zTvAgAce4WDfP2vRBbi) | 2:42 |
 | 28 | [Danza Kuduro \- Tiësto Remix](https://open.spotify.com/track/7mdDd1a4TtNGqDW1lXc14o) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Danza Kuduro \(Tiësto Remix\)](https://open.spotify.com/album/6Kd4z1ibE3aDC6lXOs3eMV) | 3:39 |
 | 29 | [Summertime Blues \(feat\. Nathan Nicholson\)](https://open.spotify.com/track/6q36Cqt2d3O5jqrQR9uXCp) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Summertime Blues \(feat\. Nathan Nicholson\)](https://open.spotify.com/album/7ddG8bsJLWEgVNONjhnT8z) | 4:11 |

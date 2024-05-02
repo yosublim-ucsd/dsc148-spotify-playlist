@@ -4,7 +4,7 @@
 
 > 
 
-227 songs - 13 hr 29 min
+228 songs - 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Salvation in Love](https://open.spotify.com/track/5GOGXozSEjBJNYiv4WVqyM) | [Sibewest](https://open.spotify.com/artist/1GkZqUh9gC1kOFSwIFG5Hs) | [Salvation in Love](https://open.spotify.com/album/2pCvklmT4fb002cTbhfAWV) | 3:56 | 2018-11-27 |  |
 | [Same World Next Dimension](https://open.spotify.com/track/3lUMvdNMOhxx8GgaWzJwuL) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Future Love Story](https://open.spotify.com/album/7wzFvKcmHu81lko3S4md1n) | 4:43 | 2020-02-14 |  |
 | [See Me](https://open.spotify.com/track/11qtTUPmfsLPt8RVrhlYqZ) | [Skeler](https://open.spotify.com/artist/7ks4LdnBvp6HUsmVJiKgsB) | [See Me](https://open.spotify.com/album/4I6zWSUDUhlt8QeeMmLRqq) | 3:28 | 2018-11-27 |  |
+| [Sepia](https://open.spotify.com/track/4wueJoyWF7x6sO41ddk6IL) | [vinter](https://open.spotify.com/artist/6t2jsqfuSymmmvx1cQfKGs) | [Sepia](https://open.spotify.com/album/2fRde6F0mW6nNZfPpOMLHd) | 2:01 | 2024-05-01 |  |
 | [Sierra](https://open.spotify.com/track/3v9rHY8Ilui7YID4UaSCp9) | [KTrek](https://open.spotify.com/artist/1ghwrzwYwjMLzbzghLWQOV) | [Sierra](https://open.spotify.com/album/5HU7fz45Pyjwj27M7pD0gc) | 3:20 | 2020-12-27 |  |
 | [Silence](https://open.spotify.com/track/7vrfNSPtCZFzNy5XTb5eju) | [Sibewest](https://open.spotify.com/artist/1GkZqUh9gC1kOFSwIFG5Hs) | [Silence](https://open.spotify.com/album/4qYbcHFIQyBAjSPL3uMfM7) | 3:26 | 2021-04-03 |  |
 | [Slow Drift](https://open.spotify.com/track/5jy9axQdjfOuDYGbIpX7WE) | [CRXSS](https://open.spotify.com/artist/1IQERBgPfRnsJ5b8RWTyZo), [Xyla](https://open.spotify.com/artist/2iaMZQyl8mOWr1eCMpRTqN) | [Slow Drift](https://open.spotify.com/album/3mVbkQbsyLR2KBz8yyhfJZ) | 2:48 | 2023-03-07 |  |

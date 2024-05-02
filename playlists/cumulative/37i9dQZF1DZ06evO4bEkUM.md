@@ -2,7 +2,7 @@
 
 ### [This Is Paramore](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4bEkUM)
 
-> This Is Paramore\. Los temas esenciales, todos en una lista.
+> This is Paramore\. The essential tracks, all in one playlist.
 
 63 songs - 3 hr 45 min
 

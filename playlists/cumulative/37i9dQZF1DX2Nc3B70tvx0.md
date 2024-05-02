@@ -4,7 +4,7 @@
 
 > The best in modern indie\. Cover: mk.gee
 
-2,163 songs - 5 day 10 hr 4 min
+2,164 songs - 5 day 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1819,6 +1819,7 @@
 | [Talk](https://open.spotify.com/track/1upVvXlWQUwAPuLN3oh8lk) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Talk](https://open.spotify.com/album/2UqdKTiPEdLx7IqEeZ7CWV) | 2:38 | 2022-04-01 | 2022-05-13 |
 | [Talk 2 Me](https://open.spotify.com/track/5k5ZVVrn8Pu6ltw3wKuPCO) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Talk 2 Me](https://open.spotify.com/album/34oV9Sr1zgCSfdQ0wP4iSI) | 2:19 | 2021-10-22 | 2022-04-19 |
 | [Talk About It](https://open.spotify.com/track/3mIK4mZ6dZbKNXU6yofkxB) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Talk About It](https://open.spotify.com/album/4VCxXlazmRGUPkMyir90Jr) | 3:24 | 2021-07-19 | 2022-04-04 |
+| [Talk is Cheap](https://open.spotify.com/track/2dmsUyyoTUpAzTb0tsbAIZ) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Talk is Cheap](https://open.spotify.com/album/3d4sgxBiKhNW1CHd7YdALH) | 4:30 | 2024-05-01 |  |
 | [Talk to You](https://open.spotify.com/track/5YIAMIFBXGXsyJwJmqUMZo) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Talk to You](https://open.spotify.com/album/5qRQGtoghlIqXPd7iQPJNG) | 3:34 | 2021-09-03 | 2022-04-02 |
 | [Talk Words](https://open.spotify.com/track/1QloOO4c5p6DkvnjcHDSSb) | [Bickle](https://open.spotify.com/artist/1xFMeZFEf4ZUfuKwrfs5lB) | [Talk Words](https://open.spotify.com/album/34rTpkluJXJnTmFojki6lQ) | 3:33 | 2021-08-13 | 2022-03-09 |
 | [Tangerine](https://open.spotify.com/track/5VGEgFZfWBoEOGb3Vlo3rU) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:20 | 2020-09-04 | 2020-12-04 |

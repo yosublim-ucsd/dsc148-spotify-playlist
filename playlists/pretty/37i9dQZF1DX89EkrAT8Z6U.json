@@ -1,6 +1,6 @@
 {
   "description": "The perfect mixtape for an anime fight scene. Also, check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>.",
-  "num_followers": 1065571,
+  "num_followers": 1066545,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-04-26 05:01:00",
       "album": {
-        "name": "paranoia",
-        "url": "https://open.spotify.com/album/6jS7gC4DBGC5GLA99RFwEx"
-      },
-      "artists": [
-        {
-          "name": "KENTENSHI",
-          "url": "https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j"
-        }
-      ],
-      "duration_ms": 117408,
-      "name": "paranoia",
-      "url": "https://open.spotify.com/track/7w4t6sPVdboBZpa5prmUuj"
-    },
-    {
-      "added_at": "2024-04-26 05:01:00",
-      "album": {
         "name": "CODE MISTAKE",
         "url": "https://open.spotify.com/album/02V5iAi2paX4K7Z20R5lvl"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 165303,
       "name": "CODE MISTAKE",
       "url": "https://open.spotify.com/track/39iRz0h1eZOyXzch8tKQit"
+    },
+    {
+      "added_at": "2024-04-26 05:01:00",
+      "album": {
+        "name": "paranoia",
+        "url": "https://open.spotify.com/album/6jS7gC4DBGC5GLA99RFwEx"
+      },
+      "artists": [
+        {
+          "name": "KENTENSHI",
+          "url": "https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j"
+        }
+      ],
+      "duration_ms": 117408,
+      "name": "paranoia",
+      "url": "https://open.spotify.com/track/7w4t6sPVdboBZpa5prmUuj"
     },
     {
       "added_at": "2024-04-26 05:01:00",
@@ -403,6 +403,26 @@
     {
       "added_at": "2024-04-26 05:01:00",
       "album": {
+        "name": "HOT DEMON B!TCHES NEAR U ! ! !",
+        "url": "https://open.spotify.com/album/5kcBHP5GH7fsOJLwVfXmx3"
+      },
+      "artists": [
+        {
+          "name": "CORPSE",
+          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
+        },
+        {
+          "name": "Night Lovell",
+          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "HOT DEMON B!TCHES NEAR U ! ! !",
+      "url": "https://open.spotify.com/track/7v4pPS4A7NgY7bxFA3Etv3"
+    },
+    {
+      "added_at": "2024-04-26 05:01:00",
+      "album": {
         "name": "Shakira!",
         "url": "https://open.spotify.com/album/2fCklc5HvH4eeu2ilTEvvM"
       },
@@ -439,42 +459,6 @@
     {
       "added_at": "2024-04-26 05:01:00",
       "album": {
-        "name": "The Law of Recognition",
-        "url": "https://open.spotify.com/album/6ZvIedykZIKjNhYoPxozOB"
-      },
-      "artists": [
-        {
-          "name": "KYSLINGO",
-          "url": "https://open.spotify.com/artist/2JdZlNYqYJ8xY0a5nFlXdO"
-        }
-      ],
-      "duration_ms": 129142,
-      "name": "The Law of Recognition",
-      "url": "https://open.spotify.com/track/4DPYOF6Tvptit1xDUbOo8o"
-    },
-    {
-      "added_at": "2024-04-26 05:01:00",
-      "album": {
-        "name": "HOT DEMON B!TCHES NEAR U ! ! !",
-        "url": "https://open.spotify.com/album/5kcBHP5GH7fsOJLwVfXmx3"
-      },
-      "artists": [
-        {
-          "name": "CORPSE",
-          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
-        },
-        {
-          "name": "Night Lovell",
-          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "HOT DEMON B!TCHES NEAR U ! ! !",
-      "url": "https://open.spotify.com/track/7v4pPS4A7NgY7bxFA3Etv3"
-    },
-    {
-      "added_at": "2024-04-26 05:01:00",
-      "album": {
         "name": "She Bad",
         "url": "https://open.spotify.com/album/0M6oyngsJDKXdyeuk1kTG7"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 105534,
       "name": "She Bad",
       "url": "https://open.spotify.com/track/0VjBlyHOKvMwbSdMmyiFEp"
+    },
+    {
+      "added_at": "2024-04-26 05:01:00",
+      "album": {
+        "name": "The Law of Recognition",
+        "url": "https://open.spotify.com/album/6ZvIedykZIKjNhYoPxozOB"
+      },
+      "artists": [
+        {
+          "name": "KYSLINGO",
+          "url": "https://open.spotify.com/artist/2JdZlNYqYJ8xY0a5nFlXdO"
+        }
+      ],
+      "duration_ms": 129142,
+      "name": "The Law of Recognition",
+      "url": "https://open.spotify.com/track/4DPYOF6Tvptit1xDUbOo8o"
     },
     {
       "added_at": "2024-04-26 05:01:00",
@@ -519,6 +519,26 @@
       "duration_ms": 177230,
       "name": "LA ESPADA",
       "url": "https://open.spotify.com/track/2KYNQpVdHsqC84TgJa5T7O"
+    },
+    {
+      "added_at": "2024-04-26 05:01:00",
+      "album": {
+        "name": "Bunny Girl",
+        "url": "https://open.spotify.com/album/2qUV5ZCrwyCRvkC6otWBJl"
+      },
+      "artists": [
+        {
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+        },
+        {
+          "name": "Ciscaux",
+          "url": "https://open.spotify.com/artist/5qVVvbyUOpNdgTGvNxzcMW"
+        }
+      ],
+      "duration_ms": 166896,
+      "name": "Bunny Girl",
+      "url": "https://open.spotify.com/track/7KVBqGLGhrEejVokzYd8vF"
     },
     {
       "added_at": "2024-04-26 05:01:00",
@@ -559,42 +579,6 @@
     {
       "added_at": "2024-04-26 05:01:00",
       "album": {
-        "name": "Riders",
-        "url": "https://open.spotify.com/album/4wYMrn6j9KBrYtek968NoK"
-      },
-      "artists": [
-        {
-          "name": "onimanxd",
-          "url": "https://open.spotify.com/artist/6LsSeFRnEOLIJHCpIhlP9b"
-        }
-      ],
-      "duration_ms": 107620,
-      "name": "Riders",
-      "url": "https://open.spotify.com/track/6wk8RkIpZ6mbQigwKPr1oW"
-    },
-    {
-      "added_at": "2024-04-26 05:01:00",
-      "album": {
-        "name": "Bunny Girl",
-        "url": "https://open.spotify.com/album/2qUV5ZCrwyCRvkC6otWBJl"
-      },
-      "artists": [
-        {
-          "name": "1nonly",
-          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
-        },
-        {
-          "name": "Ciscaux",
-          "url": "https://open.spotify.com/artist/5qVVvbyUOpNdgTGvNxzcMW"
-        }
-      ],
-      "duration_ms": 166896,
-      "name": "Bunny Girl",
-      "url": "https://open.spotify.com/track/7KVBqGLGhrEejVokzYd8vF"
-    },
-    {
-      "added_at": "2024-04-26 05:01:00",
-      "album": {
         "name": "E-GIRLS ARE RUINING MY LIFE!",
         "url": "https://open.spotify.com/album/1wrJvDOGOMQKn2v0iRiSJT"
       },
@@ -615,22 +599,18 @@
     {
       "added_at": "2024-04-26 05:01:00",
       "album": {
-        "name": "die",
-        "url": "https://open.spotify.com/album/2Gnp1bVMf1pZqI1crlEPfY"
+        "name": "Riders",
+        "url": "https://open.spotify.com/album/4wYMrn6j9KBrYtek968NoK"
       },
       "artists": [
         {
-          "name": "lucidbeatz",
-          "url": "https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou"
-        },
-        {
-          "name": "Key Kelly",
-          "url": "https://open.spotify.com/artist/7tlCdVZ037kAOuupObsQss"
+          "name": "onimanxd",
+          "url": "https://open.spotify.com/artist/6LsSeFRnEOLIJHCpIhlP9b"
         }
       ],
-      "duration_ms": 99560,
-      "name": "die",
-      "url": "https://open.spotify.com/track/4ZIam3omF73NPEKufXiTvi"
+      "duration_ms": 107620,
+      "name": "Riders",
+      "url": "https://open.spotify.com/track/6wk8RkIpZ6mbQigwKPr1oW"
     },
     {
       "added_at": "2024-04-26 05:01:00",
@@ -647,6 +627,26 @@
       "duration_ms": 149145,
       "name": "Hatchback",
       "url": "https://open.spotify.com/track/18lkWhwmY0fVVv40eCxohv"
+    },
+    {
+      "added_at": "2024-04-26 05:01:00",
+      "album": {
+        "name": "die",
+        "url": "https://open.spotify.com/album/2Gnp1bVMf1pZqI1crlEPfY"
+      },
+      "artists": [
+        {
+          "name": "lucidbeatz",
+          "url": "https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou"
+        },
+        {
+          "name": "Key Kelly",
+          "url": "https://open.spotify.com/artist/7tlCdVZ037kAOuupObsQss"
+        }
+      ],
+      "duration_ms": 99560,
+      "name": "die",
+      "url": "https://open.spotify.com/track/4ZIam3omF73NPEKufXiTvi"
     },
     {
       "added_at": "2024-04-26 05:01:00",
@@ -703,18 +703,18 @@
     {
       "added_at": "2024-04-26 05:01:00",
       "album": {
-        "name": "Bombs Away",
-        "url": "https://open.spotify.com/album/6PRHLaFlr8VEpIW5oQGmGL"
+        "name": "Let\u2019s Ride",
+        "url": "https://open.spotify.com/album/7AHgpws4jUS12JxsqorrJO"
       },
       "artists": [
         {
-          "name": "Shotgun Willy",
-          "url": "https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w"
+          "name": "Khantrast",
+          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
         }
       ],
-      "duration_ms": 146000,
-      "name": "Bombs Away",
-      "url": "https://open.spotify.com/track/6ihzpb4wOYkZut6iEC1MHE"
+      "duration_ms": 120981,
+      "name": "Let\u2019s Ride",
+      "url": "https://open.spotify.com/track/2ZNGVeQUOXsKqRgMVmyr3r"
     },
     {
       "added_at": "2024-04-26 05:01:00",
@@ -739,18 +739,18 @@
     {
       "added_at": "2024-04-26 05:01:00",
       "album": {
-        "name": "Let\u2019s Ride",
-        "url": "https://open.spotify.com/album/7AHgpws4jUS12JxsqorrJO"
+        "name": "Bombs Away",
+        "url": "https://open.spotify.com/album/6PRHLaFlr8VEpIW5oQGmGL"
       },
       "artists": [
         {
-          "name": "Khantrast",
-          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
+          "name": "Shotgun Willy",
+          "url": "https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w"
         }
       ],
-      "duration_ms": 120981,
-      "name": "Let\u2019s Ride",
-      "url": "https://open.spotify.com/track/2ZNGVeQUOXsKqRgMVmyr3r"
+      "duration_ms": 146000,
+      "name": "Bombs Away",
+      "url": "https://open.spotify.com/track/6ihzpb4wOYkZut6iEC1MHE"
     },
     {
       "added_at": "2024-04-26 05:01:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-04-26 05:01:00",
       "album": {
-        "name": "7AM",
-        "url": "https://open.spotify.com/album/6Mf15O3wMv52ySP3aSTre1"
-      },
-      "artists": [
-        {
-          "name": "Adrian",
-          "url": "https://open.spotify.com/artist/5uK6fW2LmljRHZEmHKv9tA"
-        }
-      ],
-      "duration_ms": 145950,
-      "name": "7AM",
-      "url": "https://open.spotify.com/track/3HoSi38l1e6E1K1lHWUCeV"
-    },
-    {
-      "added_at": "2024-04-26 05:01:00",
-      "album": {
         "name": "DONNA",
         "url": "https://open.spotify.com/album/7cDWmwbJr4u0i2tmLV63xI"
       },
@@ -987,6 +971,22 @@
     {
       "added_at": "2024-04-26 05:01:00",
       "album": {
+        "name": "7AM",
+        "url": "https://open.spotify.com/album/6Mf15O3wMv52ySP3aSTre1"
+      },
+      "artists": [
+        {
+          "name": "Adrian",
+          "url": "https://open.spotify.com/artist/5uK6fW2LmljRHZEmHKv9tA"
+        }
+      ],
+      "duration_ms": 145950,
+      "name": "7AM",
+      "url": "https://open.spotify.com/track/3HoSi38l1e6E1K1lHWUCeV"
+    },
+    {
+      "added_at": "2024-04-26 05:01:00",
+      "album": {
         "name": "My Swisher Sweet, But My Sig Sauer",
         "url": "https://open.spotify.com/album/48J35hJTQeahYPNJ7t4Q0B"
       },
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-04-26 05:01:00",
       "album": {
-        "name": "S1KE",
-        "url": "https://open.spotify.com/album/5YKJ7mPmmNEGFkczGfM2nx"
-      },
-      "artists": [
-        {
-          "name": "Ariis",
-          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
-        }
-      ],
-      "duration_ms": 114666,
-      "name": "S1KE",
-      "url": "https://open.spotify.com/track/353nsW8dzFIYX3hZfn2fUL"
-    },
-    {
-      "added_at": "2024-04-26 05:01:00",
-      "album": {
         "name": "5 by 5",
         "url": "https://open.spotify.com/album/61o4baUvcSo98fr0noiyRe"
       },
@@ -1039,18 +1023,18 @@
     {
       "added_at": "2024-04-26 05:01:00",
       "album": {
-        "name": "Dalai Lama",
-        "url": "https://open.spotify.com/album/78gNxj2hj39is15hwP82IC"
+        "name": "S1KE",
+        "url": "https://open.spotify.com/album/5YKJ7mPmmNEGFkczGfM2nx"
       },
       "artists": [
         {
-          "name": "Shotgun Willy",
-          "url": "https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w"
+          "name": "Ariis",
+          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
         }
       ],
-      "duration_ms": 135433,
-      "name": "Dalai Lama",
-      "url": "https://open.spotify.com/track/3OXPEU3MLoJTWQmozs4IVc"
+      "duration_ms": 114666,
+      "name": "S1KE",
+      "url": "https://open.spotify.com/track/353nsW8dzFIYX3hZfn2fUL"
     },
     {
       "added_at": "2024-04-26 05:01:00",
@@ -1071,6 +1055,22 @@
       "duration_ms": 182176,
       "name": "BREATHE",
       "url": "https://open.spotify.com/track/2qmn3UsrMtbt3orqjZSDVh"
+    },
+    {
+      "added_at": "2024-04-26 05:01:00",
+      "album": {
+        "name": "Dalai Lama",
+        "url": "https://open.spotify.com/album/78gNxj2hj39is15hwP82IC"
+      },
+      "artists": [
+        {
+          "name": "Shotgun Willy",
+          "url": "https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w"
+        }
+      ],
+      "duration_ms": 135433,
+      "name": "Dalai Lama",
+      "url": "https://open.spotify.com/track/3OXPEU3MLoJTWQmozs4IVc"
     },
     {
       "added_at": "2024-04-26 05:01:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-04-26 05:01:00",
       "album": {
-        "name": "Good Morning Vietnam",
-        "url": "https://open.spotify.com/album/0GwpHZ7HAeJ1XsQzJTjESf"
-      },
-      "artists": [
-        {
-          "name": "Shotgun Willy",
-          "url": "https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w"
-        }
-      ],
-      "duration_ms": 139666,
-      "name": "Good Morning Vietnam",
-      "url": "https://open.spotify.com/track/61XDPnhHACR7xypgbp8bG8"
-    },
-    {
-      "added_at": "2024-04-26 05:01:00",
-      "album": {
         "name": "Dead on Arrival",
         "url": "https://open.spotify.com/album/0PBdPsVuk89l7nPv5IJFLx"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 172800,
       "name": "Dead on Arrival",
       "url": "https://open.spotify.com/track/2wYJ7AszuzxSdb0yOjirKQ"
+    },
+    {
+      "added_at": "2024-04-26 05:01:00",
+      "album": {
+        "name": "Good Morning Vietnam",
+        "url": "https://open.spotify.com/album/0GwpHZ7HAeJ1XsQzJTjESf"
+      },
+      "artists": [
+        {
+          "name": "Shotgun Willy",
+          "url": "https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w"
+        }
+      ],
+      "duration_ms": 139666,
+      "name": "Good Morning Vietnam",
+      "url": "https://open.spotify.com/track/61XDPnhHACR7xypgbp8bG8"
     },
     {
       "added_at": "2024-04-26 05:01:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-04-26 05:01:00",
       "album": {
-        "name": "Vito / Bad Boy",
-        "url": "https://open.spotify.com/album/4IXrqCGVS85NcXevhpSuZy"
-      },
-      "artists": [
-        {
-          "name": "Headband Andy",
-          "url": "https://open.spotify.com/artist/1yGHqqvb0V7V4u2PBaprSm"
-        }
-      ],
-      "duration_ms": 152762,
-      "name": "Vito / Bad Boy",
-      "url": "https://open.spotify.com/track/6jo3Sv2PWgX7oX2gSsvbI5"
-    },
-    {
-      "added_at": "2024-04-26 05:01:00",
-      "album": {
         "name": "Nikes",
         "url": "https://open.spotify.com/album/15mUcH1QPGllxiAjJUJQJn"
       },
@@ -1307,6 +1291,22 @@
     {
       "added_at": "2024-04-26 05:01:00",
       "album": {
+        "name": "Vito / Bad Boy",
+        "url": "https://open.spotify.com/album/4IXrqCGVS85NcXevhpSuZy"
+      },
+      "artists": [
+        {
+          "name": "Headband Andy",
+          "url": "https://open.spotify.com/artist/1yGHqqvb0V7V4u2PBaprSm"
+        }
+      ],
+      "duration_ms": 152762,
+      "name": "Vito / Bad Boy",
+      "url": "https://open.spotify.com/track/6jo3Sv2PWgX7oX2gSsvbI5"
+    },
+    {
+      "added_at": "2024-04-26 05:01:00",
+      "album": {
         "name": "MAMBO",
         "url": "https://open.spotify.com/album/2BTaK3AfGOQCHEy7ivSSw7"
       },
@@ -1323,26 +1323,18 @@
     {
       "added_at": "2024-04-26 05:01:00",
       "album": {
-        "name": "Hazbin Hotel (Alastor)",
-        "url": "https://open.spotify.com/album/7rS5lhEZReBAAKaSn6HRJL"
+        "name": "BLACKED OUT",
+        "url": "https://open.spotify.com/album/6NNH2nFEZqwaHWONf8qTvJ"
       },
       "artists": [
         {
-          "name": "Daddyphatsnaps",
-          "url": "https://open.spotify.com/artist/6xini6REf0CP8muuVvDa91"
-        },
-        {
-          "name": "OmarCameUp",
-          "url": "https://open.spotify.com/artist/5p9aalXlIMSGKmey78Ah5v"
-        },
-        {
-          "name": "JT Music",
-          "url": "https://open.spotify.com/artist/5qvrAlKjc0Sqrqz6v2wBGk"
+          "name": "777villain",
+          "url": "https://open.spotify.com/artist/1W1JrFrwTTyv081hWOQJa7"
         }
       ],
-      "duration_ms": 202947,
-      "name": "Hazbin Hotel (Alastor)",
-      "url": "https://open.spotify.com/track/5odD3zy396AEVrtYSIcxOW"
+      "duration_ms": 133392,
+      "name": "BLACKED OUT",
+      "url": "https://open.spotify.com/track/11YEKSSOXXw0rXVCZgHKi6"
     }
   ],
   "unique_name": "sh\u014dnen",

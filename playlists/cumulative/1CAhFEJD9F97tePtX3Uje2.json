@@ -3381,6 +3381,24 @@
     },
     {
       "album": {
+        "name": "Sepia",
+        "url": "https://open.spotify.com/album/2fRde6F0mW6nNZfPpOMLHd"
+      },
+      "artists": [
+        {
+          "name": "vinter",
+          "url": "https://open.spotify.com/artist/6t2jsqfuSymmmvx1cQfKGs"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121447,
+      "name": "Sepia",
+      "url": "https://open.spotify.com/track/4wueJoyWF7x6sO41ddk6IL"
+    },
+    {
+      "album": {
         "name": "Sierra",
         "url": "https://open.spotify.com/album/5HU7fz45Pyjwj27M7pD0gc"
       },

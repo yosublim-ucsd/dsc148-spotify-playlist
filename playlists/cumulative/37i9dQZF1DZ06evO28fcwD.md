@@ -2,9 +2,9 @@
 
 ### [This Is Ladysmith Black Mambazo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO28fcwD)
 
-> This is Ladysmith Black Mambazo\. The essential tracks, all in one playlist.
+> This Is Ladysmith Black Mambazo\. Los temas esenciales, todos en una lista.
 
-139 songs - 9 hr 14 min
+140 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [All Women Are Beautiful](https://open.spotify.com/track/5M6ayqZlReaOFQdnuIa2tQ) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Songs of Peace & Love for Kids & Parents Around the World](https://open.spotify.com/album/31FxGtQiNwg7OUkEZ2WA9Q) | 2:50 | 2021-12-29 | 2022-10-11 |
 | [Amazing Grace](https://open.spotify.com/track/1uC21NUDWcl11P8jgEaqop) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Favourites](https://open.spotify.com/album/5j95AoT8sEKEPEv3Hv1F4q) | 3:27 | 2021-12-28 | 2022-10-11 |
 | [Amazing Grace](https://open.spotify.com/track/0bA7InqHdTe6uwta4HNwOM) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Favourites \(Special Edition\)](https://open.spotify.com/album/3T8BcKcFCzyeMRft0Yeglt) | 3:29 | 2022-10-10 | 2023-07-21 |
-| [Amen](https://open.spotify.com/track/6AeCDWexqzKoNhfYt1GS7N) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Always With Us](https://open.spotify.com/album/0NP4VoQSMcTYoUxjl7SKJe) | 3:41 | 2021-12-28 |  |
+| [Amen](https://open.spotify.com/track/6AeCDWexqzKoNhfYt1GS7N) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Always With Us](https://open.spotify.com/album/0NP4VoQSMcTYoUxjl7SKJe) | 3:41 | 2021-12-28 | 2024-05-02 |
 | [ANCESTRAL CALL](https://open.spotify.com/track/5HowYlbTc3sSkpqj1mhcZ7) | [ANATII](https://open.spotify.com/artist/6dX1EJC9XFlM8Ql1wGHC55), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [ANCESTRAL CALL](https://open.spotify.com/album/3HFjhGuXbIuZIML0Q49h0l) | 2:46 | 2023-09-18 | 2024-04-06 |
 | [Awu Wemadoda](https://open.spotify.com/track/1xitjCzTxasyA9WBZMuKV9) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Walking in the Footsteps of Our Fathers](https://open.spotify.com/album/5PRZaO2vN4ENcXrFmCpT5r) | 3:22 | 2021-12-28 |  |
 | [Awu Wemadoda \- Club Mix](https://open.spotify.com/track/2GlEeBVT9pTy2Kqoeq48dP) | [Spencer Brown](https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK), [Wilt Claybourne](https://open.spotify.com/artist/0r7cF3rN56BbPaJVYIXMz9), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Awu Wemadoda](https://open.spotify.com/album/5DWZDoLZrKRPwrImMehQu5) | 3:55 | 2023-08-03 |  |
@@ -146,6 +146,7 @@
 | [World in Union](https://open.spotify.com/track/5wJDPbRPw9IR8bEDl6717a) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [PJ Powers](https://open.spotify.com/artist/0iMXaQINPQNgHWFlEvU0No) | [The Star and the Wiseman](https://open.spotify.com/album/2D1Ph5BioeCgToYvGS6fbO) | 3:49 | 2022-10-05 | 2022-10-26 |
 | [World in Union](https://open.spotify.com/track/790XDH73LTNcrorlJtVF8L) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [PJ Powers](https://open.spotify.com/artist/0iMXaQINPQNgHWFlEvU0No) | [The Star and the Wiseman](https://open.spotify.com/album/6ua556UHIvk1qNJBw6kDng) | 3:49 | 2022-10-25 |  |
 | [World in Union \(Feat\. P.J\. Powers\)](https://open.spotify.com/track/3oAgsBnNGfbSBvxfYwmIWP) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [PJ Powers](https://open.spotify.com/artist/0iMXaQINPQNgHWFlEvU0No) | [The Star and the Wiseman](https://open.spotify.com/album/5Wz50gdXoYlkDGwvq7mn11) | 3:49 | 2021-12-28 | 2022-10-06 |
+| [Woza kuJesu](https://open.spotify.com/track/0V31OIh6JVkfEMY3RhbuZM) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Ezulwini Siyakhona](https://open.spotify.com/album/2VOZDi18mx1k4feiFSXOD6) | 4:10 | 2024-05-02 |  |
 | [Yesterday \(feat\. Bebe Rexha\) vs\. Lift Me Up \(feat\. Nico & Vinz, Ladysmith Black Mambazo\) \- Listenin' Continuous Mix](https://open.spotify.com/track/1L2DLOdfG1jHh7XYewDptW) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Nico & Vinz](https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn), [Nico Sereba](https://open.spotify.com/artist/0uF5eJUZAvklB3QRceobhZ), [Sibongisenni Shabalala](https://open.spotify.com/artist/3mIqgltzfG834hWi9SNv5u), [Vincent "Vinzy V" Dery](https://open.spotify.com/artist/5Yz0EEDmU5nMl5fGmc6iZ9) | [Listen Again](https://open.spotify.com/album/7bpWEp24oHgUs08ImjakfU) | 2:44 | 2021-12-28 |  |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

@@ -1,5 +1,5 @@
 {
-  "2024-05-01": 238976,
+  "2024-05-02": 238968,
   "date_first_scraped": "2021-12-21",
   "description": "Bold and pioneering. LGBTQIA+ artists and allies at the centre of electronic music culture. Cover: COBRAH",
   "name": "Club Resistance",
@@ -213,6 +213,24 @@
       "duration_ms": 209550,
       "name": "Black",
       "url": "https://open.spotify.com/track/1MyTViq9p2q2OsOa5a7z70"
+    },
+    {
+      "album": {
+        "name": "Black Sheep +",
+        "url": "https://open.spotify.com/album/53oR2UVkw0JyoVQDNQWyof"
+      },
+      "artists": [
+        {
+          "name": "Cakes da Killa",
+          "url": "https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190941,
+      "name": "Black Sheep",
+      "url": "https://open.spotify.com/track/7jd8Ht6bN0zx5jOzwOQ8dx"
     },
     {
       "album": {
@@ -1563,7 +1581,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 188220,
       "name": "ICU (feat. Nomi Ruiz)",
       "url": "https://open.spotify.com/track/2qT5wU3DiOItGKaLK0EHWT"
@@ -2401,7 +2419,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 600386,
       "name": "Raw Silk Uncut Wood",
       "url": "https://open.spotify.com/track/5wVB3rkTxCGLV9xBj0GGAl"
@@ -2935,6 +2953,28 @@
       "duration_ms": 193351,
       "name": "The Meek Shall Inherit the Earth",
       "url": "https://open.spotify.com/track/37DiVgAJiRdNUtydPxMExw"
+    },
+    {
+      "album": {
+        "name": "Club Shy (extended)",
+        "url": "https://open.spotify.com/album/1ojjeSCH0gg7T5StxFJx7g"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "Cosha",
+          "url": "https://open.spotify.com/artist/5P8FHUS4EuE2FXskLnqkAg"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222682,
+      "name": "thicc",
+      "url": "https://open.spotify.com/track/7tNUNRjg5Q5JaGg5Q0zK0o"
     },
     {
       "album": {

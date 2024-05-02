@@ -4,7 +4,7 @@
 
 > Cumbia pa' volar la chapa con Damas Gratis.
 
-260 songs - 14 hr 45 min
+261 songs - 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [El avion](https://open.spotify.com/track/5YkgW3IIZxSvDl3GO9x4VA) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i) | [La Lata](https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP) | 2:36 | 2024-04-19 | 2024-04-24 |
 | [El Barrio](https://open.spotify.com/track/56HxJH9N2DcRj0taX9mjb5) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [El Mas Berrako](https://open.spotify.com/artist/4QCMJeV5aPlZCswgzTyX2X), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [El Barrio](https://open.spotify.com/album/74nNhOfUeGDK98WrqaOlGd) | 2:35 | 2023-05-26 | 2024-03-06 |
 | [El Fogón](https://open.spotify.com/track/3y8Pe96NSEaReDgrRYPSaO) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i) | [Podran Imitarnos, Jamás Igualarnos](https://open.spotify.com/album/6219k00SRfp4PcsgTv2BCX) | 2:50 | 2023-05-26 | 2024-03-06 |
+| [El grandote](https://open.spotify.com/track/3OGpJ3WLq256b71EQQS7aW) | [Mc Caco](https://open.spotify.com/artist/3JjXQTP555FgptpoAcUCsD) | [CD1](https://open.spotify.com/album/3nvl4wG6RklqOwlZdJ06oQ) | 2:26 | 2024-04-27 |  |
 | [El humo de mi fasito](https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [100% Negro Cumbiero](https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf) | 3:32 | 2023-05-26 | 2024-04-19 |
 | [El Mamado del Auto](https://open.spotify.com/track/59a51WlcUh2OiYm3HZQuXk) | [Los Dragones](https://open.spotify.com/artist/0FtOEaKA25lR6G48iP1Jnt) | [Salvaje](https://open.spotify.com/album/1CBTqGy6fo7NzRcHGxe9lP) | 3:31 | 2023-05-26 | 2024-03-06 |
 | [El Manual](https://open.spotify.com/track/0qC3X3ffPny4BZCV0rNR6U) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [El Manual](https://open.spotify.com/album/5jso2UmnuNZvTRNAZXMerw) | 2:08 | 2023-05-26 | 2023-09-23 |
@@ -118,7 +119,7 @@
 | [L\-Gante \- El Apache Ness \- Perro Primo](https://open.spotify.com/track/7xPuaedCi3GLu5TmtuUkt9) | [El Apache Ness](https://open.spotify.com/artist/5lPewWWLzFoRj13tTLgeF8), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA) | [L\-Gante \- El Apache Ness \- Perro Primo](https://open.spotify.com/album/0GnWjEYxMShvTyDeBynKBs) | 3:23 | 2023-05-26 | 2023-10-27 |
 | [La Bomba](https://open.spotify.com/track/0VK2WShGGSlD8wCD9DSxup) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ) | [Puro Movimiento](https://open.spotify.com/album/6D53J2Fx7FANdtNngTsWCi) | 4:53 | 2023-05-26 | 2024-02-15 |
 | [La cajita feliz](https://open.spotify.com/track/7xonDv1Le9tMf7F4ZXTzTT) | [Mc Caco](https://open.spotify.com/artist/3JjXQTP555FgptpoAcUCsD) | [CD1](https://open.spotify.com/album/3nvl4wG6RklqOwlZdJ06oQ) | 2:43 | 2024-04-19 |  |
-| [La cola less](https://open.spotify.com/track/64R5nJZvyvIynP0bPnLYgV) | [Altos Cumbieros](https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM) | [Altos Cumbieros \- Cumbia Villera](https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF) | 3:43 | 2024-04-19 |  |
+| [La cola less](https://open.spotify.com/track/64R5nJZvyvIynP0bPnLYgV) | [Altos Cumbieros](https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM) | [Altos Cumbieros \- Cumbia Villera](https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF) | 3:43 | 2024-04-19 | 2024-05-02 |
 | [La colorada](https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:13 | 2023-05-26 |  |
 | [LA COLORADA](https://open.spotify.com/track/7MGOmc1KMZvV0o8iuT8CgE) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [LA COLORADA](https://open.spotify.com/album/6AcR4JanfYZfbneCfpNYG9) | 3:13 | 2024-02-02 | 2024-02-10 |
 | [La Cumbia De Los Trapos](https://open.spotify.com/track/79yOF3p0RbIAnrxxF8wiPS) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [Cumbia Villera](https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd) | 4:11 | 2023-05-26 | 2024-04-19 |

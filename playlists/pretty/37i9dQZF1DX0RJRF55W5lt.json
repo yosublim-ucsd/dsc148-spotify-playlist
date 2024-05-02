@@ -1,6 +1,6 @@
 {
   "description": "Classic anthems from a classic era. Cover: Wookie",
-  "num_followers": 543769,
+  "num_followers": 543919,
   "original_name": "UK Garage Classics",
   "owner": {
     "name": "Spotify",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-03-22 16:22:21",
       "album": {
-        "name": "Wookie (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6GV8kkTilYLCQ8qA39yYzk"
-      },
-      "artists": [
-        {
-          "name": "Wookie",
-          "url": "https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv"
-        }
-      ],
-      "duration_ms": 306250,
-      "name": "What Going On",
-      "url": "https://open.spotify.com/track/2VrXykLzmEd5KFf5QfHe3L"
-    },
-    {
-      "added_at": "2024-03-22 16:22:21",
-      "album": {
         "name": "Western End (Birmingham Crew) Remix",
         "url": "https://open.spotify.com/album/6GKoCNWIUhuhC5qrreWw7x"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 320173,
       "name": "Western End (Birmingham Crew) - Remix",
       "url": "https://open.spotify.com/track/5142HCfH9wINV6AhO47RGF"
+    },
+    {
+      "added_at": "2024-03-22 16:22:21",
+      "album": {
+        "name": "Wookie (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6GV8kkTilYLCQ8qA39yYzk"
+      },
+      "artists": [
+        {
+          "name": "Wookie",
+          "url": "https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv"
+        }
+      ],
+      "duration_ms": 306250,
+      "name": "What Going On",
+      "url": "https://open.spotify.com/track/2VrXykLzmEd5KFf5QfHe3L"
     },
     {
       "added_at": "2024-03-22 16:22:21",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-03-22 16:22:21",
       "album": {
-        "name": "Is This Real",
-        "url": "https://open.spotify.com/album/3ae504ho747nwloxNn2CH8"
-      },
-      "artists": [
-        {
-          "name": "Sunship",
-          "url": "https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau"
-        }
-      ],
-      "duration_ms": 303000,
-      "name": "Cheque One-Two",
-      "url": "https://open.spotify.com/track/2P3UUkbX6dR9DFNLFnuP8a"
-    },
-    {
-      "added_at": "2024-03-22 16:22:21",
-      "album": {
         "name": "4X4, Vol. 1",
         "url": "https://open.spotify.com/album/4HZ7uAsCJu2KwI0AfSOGXk"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 343222,
       "name": "Oh Baby",
       "url": "https://open.spotify.com/track/5lWkKEIg07sX9l8HcIU4Y9"
+    },
+    {
+      "added_at": "2024-03-22 16:22:21",
+      "album": {
+        "name": "Is This Real",
+        "url": "https://open.spotify.com/album/3ae504ho747nwloxNn2CH8"
+      },
+      "artists": [
+        {
+          "name": "Sunship",
+          "url": "https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau"
+        }
+      ],
+      "duration_ms": 303000,
+      "name": "Cheque One-Two",
+      "url": "https://open.spotify.com/track/2P3UUkbX6dR9DFNLFnuP8a"
     },
     {
       "added_at": "2024-03-22 16:22:21",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-03-22 16:22:21",
       "album": {
-        "name": "UK Garage Beats V2",
-        "url": "https://open.spotify.com/album/7KLkeK27wbHpuuUaHNr1Yr"
-      },
-      "artists": [
-        {
-          "name": "Sticky",
-          "url": "https://open.spotify.com/artist/2M9VekPKghfVcZKgiugbNH"
-        }
-      ],
-      "duration_ms": 309105,
-      "name": "Triplets",
-      "url": "https://open.spotify.com/track/5K2nfj6reBygjD9gcI7AIH"
-    },
-    {
-      "added_at": "2024-03-22 16:22:21",
-      "album": {
         "name": "UK Garage Classics - Best of Jeremy Sylvester, Vol. 3",
         "url": "https://open.spotify.com/album/5xZ01zf5Pb93RJnt46sAuT"
       },
@@ -1179,6 +1163,22 @@
     {
       "added_at": "2024-03-22 16:22:21",
       "album": {
+        "name": "UK Garage Beats V2",
+        "url": "https://open.spotify.com/album/7KLkeK27wbHpuuUaHNr1Yr"
+      },
+      "artists": [
+        {
+          "name": "Sticky",
+          "url": "https://open.spotify.com/artist/2M9VekPKghfVcZKgiugbNH"
+        }
+      ],
+      "duration_ms": 309105,
+      "name": "Triplets",
+      "url": "https://open.spotify.com/track/5K2nfj6reBygjD9gcI7AIH"
+    },
+    {
+      "added_at": "2024-03-22 16:22:21",
+      "album": {
         "name": "Wookie (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6GV8kkTilYLCQ8qA39yYzk"
       },
@@ -1191,6 +1191,22 @@
       "duration_ms": 328243,
       "name": "Down On Me",
       "url": "https://open.spotify.com/track/3aFmm5TVUHInC0ruWkjUJ4"
+    },
+    {
+      "added_at": "2024-03-22 16:22:21",
+      "album": {
+        "name": "Pick Me Up",
+        "url": "https://open.spotify.com/album/51HxoBrnXMvUuneVRRV5gl"
+      },
+      "artists": [
+        {
+          "name": "R.I.P Productions",
+          "url": "https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB"
+        }
+      ],
+      "duration_ms": 403006,
+      "name": "Pick Me Up - Licenced Mix",
+      "url": "https://open.spotify.com/track/57sbI1IH9J5TBN2utbIoWM"
     },
     {
       "added_at": "2024-03-22 16:22:21",
@@ -1223,22 +1239,6 @@
       "duration_ms": 438173,
       "name": "Shut The Door",
       "url": "https://open.spotify.com/track/6grf2vEapt8Fq61RuZQtS2"
-    },
-    {
-      "added_at": "2024-03-22 16:22:21",
-      "album": {
-        "name": "Pick Me Up",
-        "url": "https://open.spotify.com/album/51HxoBrnXMvUuneVRRV5gl"
-      },
-      "artists": [
-        {
-          "name": "R.I.P Productions",
-          "url": "https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB"
-        }
-      ],
-      "duration_ms": 403006,
-      "name": "Pick Me Up - Licenced Mix",
-      "url": "https://open.spotify.com/track/57sbI1IH9J5TBN2utbIoWM"
     },
     {
       "added_at": "2024-03-22 16:22:21",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2024-03-22 16:22:21",
       "album": {
+        "name": "House Tracks for the Dancefloor, Vol. One",
+        "url": "https://open.spotify.com/album/4NONAXdztl5tL39YurSOj9"
+      },
+      "artists": [
+        {
+          "name": "Todd Edwards",
+          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
+        }
+      ],
+      "duration_ms": 372480,
+      "name": "Dancing for Heaven - Club",
+      "url": "https://open.spotify.com/track/70YTThyJzwfYhy8old5EAu"
+    },
+    {
+      "added_at": "2024-03-22 16:22:21",
+      "album": {
         "name": "Flava On Wax EP",
         "url": "https://open.spotify.com/album/0QLbaiCdqJI4OwZoVqEu3S"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 543466,
       "name": "Spin Spin Sugar - Armand's Dark Garage Mix",
       "url": "https://open.spotify.com/track/2nGICSgZtRkfvuvDgmVVVz"
-    },
-    {
-      "added_at": "2024-03-22 16:22:21",
-      "album": {
-        "name": "Club Asylum Sampler, Vol. 1",
-        "url": "https://open.spotify.com/album/6fonnepHRdzo5l0fminGAq"
-      },
-      "artists": [
-        {
-          "name": "Club Asylum",
-          "url": "https://open.spotify.com/artist/5TpyNFaq1IDeWEkHZOMAIH"
-        }
-      ],
-      "duration_ms": 314148,
-      "name": "Club Lonely",
-      "url": "https://open.spotify.com/track/4TSKJlNqqGbyHB9mSmRpUt"
     }
   ],
   "unique_name": "UK Garage Classics",

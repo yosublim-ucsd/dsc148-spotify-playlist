@@ -1,12 +1,12 @@
 {
-  "description": "This is Pedro Cap\u00f3. The essential tracks, all in one playlist.",
-  "num_followers": 62948,
+  "description": "This Is Pedro Cap\u00f3. Los temas esenciales, todos en una lista.",
+  "num_followers": 62973,
   "original_name": "This Is Pedro Cap\u00f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zi7jAAAAAADpkq7TIokhlh9LA3EtX3nt",
+  "snapshot_id": "ZjA0gAAAAACK4+URkSqOIHgYrQ7oxmMU",
   "tracks": [
     {
       "added_at": null,
@@ -863,6 +863,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Find Your Voice Episode 4: Pedro Cap\u00f3",
+        "url": "https://open.spotify.com/album/1rs0PIlOMkLDxgUSJGZUm6"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 110273,
+      "name": "La Tierra del Olvido - Find Your Voice",
+      "url": "https://open.spotify.com/track/35kREytXpHJBHbr6YmqAgP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PAUSA",
         "url": "https://open.spotify.com/album/3hS1wzvOJuioDs9VV6HW3R"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 218665,
       "name": "Cae de Una",
       "url": "https://open.spotify.com/track/3NG3wfTRRPiGLxysGXG5RU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Find Your Voice Episode 4: Pedro Cap\u00f3",
-        "url": "https://open.spotify.com/album/1rs0PIlOMkLDxgUSJGZUm6"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 110273,
-      "name": "La Tierra del Olvido - Find Your Voice",
-      "url": "https://open.spotify.com/track/35kREytXpHJBHbr6YmqAgP"
     },
     {
       "added_at": null,

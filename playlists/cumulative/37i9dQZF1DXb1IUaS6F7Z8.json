@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Devil's Dozen",
+        "url": "https://open.spotify.com/album/0HAn7KPVICSQy36HHeqWVo"
+      },
+      "artists": [
+        {
+          "name": "Fiddler's Green",
+          "url": "https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181120,
+      "name": "Bottoms Up",
+      "url": "https://open.spotify.com/track/0PVMlDrq7OTZPUyve5Of0D"
+    },
+    {
+      "album": {
         "name": "Bullhead",
         "url": "https://open.spotify.com/album/4e4gqnGXeLQIpccdoN95kE"
       },
@@ -286,7 +304,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 265431,
       "name": "Cider Holiday",
       "url": "https://open.spotify.com/track/0cYC4yBogMCYktHDiHN9y5"

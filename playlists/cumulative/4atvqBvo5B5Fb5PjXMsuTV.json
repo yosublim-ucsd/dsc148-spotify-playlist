@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-04-26",
   "description": "Updated daily, with the latest popular singles!",
-  "name": "NEW SINGLES RELEASES | UPDATED 01 MAY",
+  "name": "NEW SINGLES RELEASES | UPDATED 02 MAY",
   "tracks": [
     {
       "album": {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 192320,
       "name": "45 Degrees",
       "url": "https://open.spotify.com/track/06RgMdmBK2VcjnpkxyjNEZ"
@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "Big Cat Tattoos",
+        "url": "https://open.spotify.com/album/14jGpYUFZ5lNXoJKVdhbOU"
+      },
+      "artists": [
+        {
+          "name": "Hamish Hawk",
+          "url": "https://open.spotify.com/artist/3t3q007skKvwNaodwZx8W8"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191700,
+      "name": "Big Cat Tattoos",
+      "url": "https://open.spotify.com/track/4bra2iYM2um2eYNZUHXFiV"
+    },
+    {
+      "album": {
         "name": "Bleeders",
         "url": "https://open.spotify.com/album/3U2tS7mIbIbj3Vg7lREEOc"
       },
@@ -150,6 +168,24 @@
       "duration_ms": 274320,
       "name": "Bleeders",
       "url": "https://open.spotify.com/track/3KprCokhFBVLLGyQVu5XaN"
+    },
+    {
+      "album": {
+        "name": "Botoxxx",
+        "url": "https://open.spotify.com/album/4yuhs9GqdOJxBcm1f22ZAZ"
+      },
+      "artists": [
+        {
+          "name": "Isabella Lovestory",
+          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163486,
+      "name": "Botoxxx",
+      "url": "https://open.spotify.com/track/2TOscIenZ5PxE2Uw25CE9T"
     },
     {
       "album": {
@@ -200,10 +236,36 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 123137,
       "name": "CELE",
       "url": "https://open.spotify.com/track/12UteowW5rG89ULd7DCzDM"
+    },
+    {
+      "album": {
+        "name": "Charade (feat. Vincente Void & Hash Gordon)",
+        "url": "https://open.spotify.com/album/3j3LJ6aa4oA1SXGJnN9rB0"
+      },
+      "artists": [
+        {
+          "name": "Omerta",
+          "url": "https://open.spotify.com/artist/0OYajuHduapwq21Xh1WLwo"
+        },
+        {
+          "name": "Vincente Void",
+          "url": "https://open.spotify.com/artist/7dG9i6mXD95KlPRLW5Mspl"
+        },
+        {
+          "name": "Hash Gordon",
+          "url": "https://open.spotify.com/artist/60uraf0ie3HSrCD0W6o9Wk"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307119,
+      "name": "Charade (feat. Vincente Void & Hash Gordon)",
+      "url": "https://open.spotify.com/track/1DtT0SdnHV3rGR8qKESC8l"
     },
     {
       "album": {
@@ -247,6 +309,24 @@
     },
     {
       "album": {
+        "name": "Contingency/Necessity (Modality of Fate)",
+        "url": "https://open.spotify.com/album/3QR8LjYYmzDFvUjPe2pIIp"
+      },
+      "artists": [
+        {
+          "name": "How To Dress Well",
+          "url": "https://open.spotify.com/artist/4jLcgJjDGmW0HmvbSf6lEI"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235417,
+      "name": "Contingency/Necessity (Modality of Fate)",
+      "url": "https://open.spotify.com/track/5JG967CjnqHz3GloV8W8XB"
+    },
+    {
+      "album": {
         "name": "Criminals",
         "url": "https://open.spotify.com/album/3BmwWzziWO2nNg2y8mptj2"
       },
@@ -258,7 +338,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 263357,
       "name": "Criminals",
       "url": "https://open.spotify.com/track/2XNOqWrhYTZXjxoWYAlY3L"
@@ -353,6 +433,24 @@
     },
     {
       "album": {
+        "name": "double tap",
+        "url": "https://open.spotify.com/album/7aG3DisFd9OPX2EWB8loFs"
+      },
+      "artists": [
+        {
+          "name": "wolfacejoeyy",
+          "url": "https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124919,
+      "name": "double tap",
+      "url": "https://open.spotify.com/track/1JE37zGKjFiEBM82rUPECy"
+    },
+    {
+      "album": {
         "name": "Dust",
         "url": "https://open.spotify.com/album/6Z0Ql9KvDQjMUOniIx0R5S"
       },
@@ -386,7 +484,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 301169,
       "name": "Echowrecked",
       "url": "https://open.spotify.com/track/3Xg3h3obEtvxm5loPPv2IT"
@@ -531,6 +629,28 @@
     },
     {
       "album": {
+        "name": "Filho da Noite",
+        "url": "https://open.spotify.com/album/63K61G3WTZrRUHZzAUPqHn"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236666,
+      "name": "Filho da Noite",
+      "url": "https://open.spotify.com/track/40IXmplKTcyWPr9HNCik7e"
+    },
+    {
+      "album": {
         "name": "first",
         "url": "https://open.spotify.com/album/221i5359034bFqW1N8IA52"
       },
@@ -546,7 +666,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 162073,
       "name": "first",
       "url": "https://open.spotify.com/track/333aAlAYq1oeVlR29KsZrg"
@@ -601,6 +721,24 @@
     },
     {
       "album": {
+        "name": "Gemini",
+        "url": "https://open.spotify.com/album/1tO3KS7vrBnBmgoJmtA9Q5"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e9lica Garcia",
+          "url": "https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194292,
+      "name": "Gemini",
+      "url": "https://open.spotify.com/track/53eIEM1DF3zNjxPdaIrqa4"
+    },
+    {
+      "album": {
         "name": "Get Lit",
         "url": "https://open.spotify.com/album/5RanHiETaj1Cd50lUxCbde"
       },
@@ -620,7 +758,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 206397,
       "name": "Get Lit",
       "url": "https://open.spotify.com/track/22U208xCU1Vhw7jVlhnMZu"
@@ -686,6 +824,24 @@
       "duration_ms": 175360,
       "name": "How It Ends",
       "url": "https://open.spotify.com/track/3X7afM4V4ZMLNVmwBgqWzp"
+    },
+    {
+      "album": {
+        "name": "Human Disdain",
+        "url": "https://open.spotify.com/album/1gD6vlx23EQLoMJCLERpqi"
+      },
+      "artists": [
+        {
+          "name": "Bodysnatcher",
+          "url": "https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178360,
+      "name": "Human Disdain",
+      "url": "https://open.spotify.com/track/4d8ntpM9o8y9QTiYQ73osG"
     },
     {
       "album": {
@@ -762,10 +918,28 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 150000,
       "name": "ILE LAT?",
       "url": "https://open.spotify.com/track/4sOUVcGZo8MiSoIKybdXMC"
+    },
+    {
+      "album": {
+        "name": "Kimbara",
+        "url": "https://open.spotify.com/album/2lrh7eGF5BhF70i5VPJ3Nu"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189816,
+      "name": "Kimbara",
+      "url": "https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk"
     },
     {
       "album": {
@@ -798,7 +972,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 273490,
       "name": "Kravitz",
       "url": "https://open.spotify.com/track/3ydiQXwguW4FTjZYCpWDLE"
@@ -888,7 +1062,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 214185,
       "name": "Morse code",
       "url": "https://open.spotify.com/track/638D2nYQKHTUmQc7Xt3soK"
@@ -935,6 +1109,24 @@
     },
     {
       "album": {
+        "name": "No Biggie",
+        "url": "https://open.spotify.com/album/1urYBW5vhEnfX0zzdKvpoX"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181466,
+      "name": "No Biggie",
+      "url": "https://open.spotify.com/track/3o4FOm8UEvjbTignWbKxYr"
+    },
+    {
+      "album": {
         "name": "nothing like uuu",
         "url": "https://open.spotify.com/album/128pEVu7AFfVkyiIw9lN33"
       },
@@ -968,7 +1160,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 172819,
       "name": "N\u00f3",
       "url": "https://open.spotify.com/track/49emwrCApbNt5SVvSc32d4"
@@ -1044,6 +1236,32 @@
       "duration_ms": 234626,
       "name": "QWERTY (Live in Tokyo, 2006)",
       "url": "https://open.spotify.com/track/1ZUCprAO5NeQvI6yIqCtNX"
+    },
+    {
+      "album": {
+        "name": "REEKYOD",
+        "url": "https://open.spotify.com/album/51gVU7RqmDPn2suWlglhyy"
+      },
+      "artists": [
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        },
+        {
+          "name": "Black Thought",
+          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
+        },
+        {
+          "name": "Your Old Droog",
+          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156035,
+      "name": "REEKYOD",
+      "url": "https://open.spotify.com/track/4PpnDYRLipOJnxlT2Ewl6a"
     },
     {
       "album": {
@@ -1260,7 +1478,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 215466,
       "name": "The Last Year",
       "url": "https://open.spotify.com/track/2gs4GCStX8lwS8XIrrv63g"
@@ -1282,6 +1500,24 @@
       "duration_ms": 233505,
       "name": "The Phoenix",
       "url": "https://open.spotify.com/track/2q2Faxm7CvQSS6DBCW2AKm"
+    },
+    {
+      "album": {
+        "name": "The Wish",
+        "url": "https://open.spotify.com/album/0YEztVFIx6n2CnDMwMoaOp"
+      },
+      "artists": [
+        {
+          "name": "Ra Ra Riot",
+          "url": "https://open.spotify.com/artist/6FIrstf3kHEg3zBOyLpvxD"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222600,
+      "name": "The Wish",
+      "url": "https://open.spotify.com/track/1q6vdhh29f5R9VgVRSv0J6"
     },
     {
       "album": {
@@ -1321,6 +1557,24 @@
     },
     {
       "album": {
+        "name": "Velvet Black",
+        "url": "https://open.spotify.com/album/2cihSHL24MaJO9Q4fk2UXt"
+      },
+      "artists": [
+        {
+          "name": "Umbra Vitae",
+          "url": "https://open.spotify.com/artist/340Q4BNeDs4ePSpBii4yRa"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296973,
+      "name": "Velvet Black",
+      "url": "https://open.spotify.com/track/1VxbU9vkaZMrT9myAfxrR0"
+    },
+    {
+      "album": {
         "name": "W OCZY",
         "url": "https://open.spotify.com/album/5P3tyjmAjGE3oJNoaxxCMt"
       },
@@ -1340,7 +1594,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 167190,
       "name": "W OCZY",
       "url": "https://open.spotify.com/track/3KqxRjYLEs1twNChvKUDAk"
@@ -1380,7 +1634,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 206937,
       "name": "Why Aren't You Dancing?",
       "url": "https://open.spotify.com/track/7xNQbooHAWyxVcS2yfq3JL"

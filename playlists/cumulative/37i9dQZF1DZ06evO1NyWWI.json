@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-18",
-  "description": "This is Led Zeppelin. The essential tracks, all in one playlist.",
+  "description": "This Is Led Zeppelin. Los temas esenciales, todos en una lista.",
   "name": "This Is Led Zeppelin",
   "tracks": [
     {
@@ -160,7 +160,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 255701,
       "name": "Custard Pie - Remaster",
       "url": "https://open.spotify.com/track/5HlLgmHL8qafp46jMtlxZJ"
@@ -952,7 +952,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-02",
+      "date_removed": null,
       "duration_ms": 336835,
       "name": "Trampled Under Foot - Remaster",
       "url": "https://open.spotify.com/track/4lPJoKw24HizeIcDLqaWeE"

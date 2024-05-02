@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover: DAWgeek, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels in India. Cover: Hemanshi, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -9367,6 +9367,24 @@
     },
     {
       "album": {
+        "name": "Jahan Aab Hai Beheta",
+        "url": "https://open.spotify.com/album/0Rk3Lb5oXMNGt06jQ4JTLG"
+      },
+      "artists": [
+        {
+          "name": "HEMANSHI",
+          "url": "https://open.spotify.com/artist/2xdamRjIF9E9zAI11rT0Vx"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175428,
+      "name": "Jahan Aab Hai Beheta",
+      "url": "https://open.spotify.com/track/6RfWSpfzJYU9mgwE94N6dn"
+    },
+    {
+      "album": {
         "name": "Jahan Bhi Ho",
         "url": "https://open.spotify.com/album/5OuOH7YESHSGV4O53GZIiK"
       },
@@ -14326,6 +14344,24 @@
       "duration_ms": 225600,
       "name": "Muntazir",
       "url": "https://open.spotify.com/track/3PonH7yz2s72SOlmpe15g1"
+    },
+    {
+      "album": {
+        "name": "Muraad",
+        "url": "https://open.spotify.com/album/6J27YZ11yoPf6a0QRclhUf"
+      },
+      "artists": [
+        {
+          "name": "Euphony Official",
+          "url": "https://open.spotify.com/artist/1cH1yASHWrohYwnhIig9vp"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290256,
+      "name": "Muraad",
+      "url": "https://open.spotify.com/track/000hNwOPD6Cf59vbDpWpzh"
     },
     {
       "album": {
@@ -21282,7 +21318,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 242769,
       "name": "Tum",
       "url": "https://open.spotify.com/track/27Z3Ez48so7wcbrcX45Hw2"
@@ -23044,7 +23080,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 296907,
       "name": "Yaqiin",
       "url": "https://open.spotify.com/track/302XZ38qI9EdECiDxQYOi3"

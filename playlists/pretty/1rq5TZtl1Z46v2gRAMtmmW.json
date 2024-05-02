@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 29569,
+  "num_followers": 29573,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAAOgC3ORKWDX2CGouzAuNsc2UgVQY9p",
+  "snapshot_id": "AAAOhpaSJKYizH+IUXWOY5B87lqMkBdm",
   "tracks": [
     {
       "added_at": "2024-02-20 17:59:46",
@@ -23,6 +23,38 @@
       "duration_ms": 201339,
       "name": "Mahal",
       "url": "https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ"
+    },
+    {
+      "added_at": "2024-05-01 15:57:55",
+      "album": {
+        "name": "Kimbara",
+        "url": "https://open.spotify.com/album/2lrh7eGF5BhF70i5VPJ3Nu"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 189816,
+      "name": "Kimbara",
+      "url": "https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk"
+    },
+    {
+      "added_at": "2024-05-01 16:33:23",
+      "album": {
+        "name": "Himmel / Swarm",
+        "url": "https://open.spotify.com/album/63Fj5OB3G8u7LZsYADylFd"
+      },
+      "artists": [
+        {
+          "name": "Ebbb",
+          "url": "https://open.spotify.com/artist/2LikjKVyI5gqANlB9S7DNW"
+        }
+      ],
+      "duration_ms": 209844,
+      "name": "Himmel",
+      "url": "https://open.spotify.com/track/2VSkFvTEK9R7AsrWRLp8ON"
     },
     {
       "added_at": "2024-04-30 09:27:30",
@@ -723,38 +755,6 @@
       "duration_ms": 163627,
       "name": "Pluto ( a 2 )",
       "url": "https://open.spotify.com/track/0cLufjoaDFrrLnNWH0fMvd"
-    },
-    {
-      "added_at": "2023-10-27 16:06:15",
-      "album": {
-        "name": "4#TRAX",
-        "url": "https://open.spotify.com/album/1d4UulScUQloV42jkZN4cn"
-      },
-      "artists": [
-        {
-          "name": "Machinedrum",
-          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
-        }
-      ],
-      "duration_ms": 199413,
-      "name": "CAPONE",
-      "url": "https://open.spotify.com/track/60JxtEarjwfNA43NSUAS69"
-    },
-    {
-      "added_at": "2023-10-27 16:06:28",
-      "album": {
-        "name": "DJ Friendly",
-        "url": "https://open.spotify.com/album/0wrBtOddeFuzNoYO6aLFlx"
-      },
-      "artists": [
-        {
-          "name": "Elkka",
-          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
-        }
-      ],
-      "duration_ms": 311671,
-      "name": "Thirsty",
-      "url": "https://open.spotify.com/track/2Buoe3DXKE5VL5w0JCeuQz"
     }
   ],
   "unique_name": "Ninja Tune // New Releases",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjYER0JjzBA.md) - [plain]
 
 > The tracklist to your holiday movie soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,514 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,517 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjYER0JjzBA.md) - [plain]
 | 29 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 |
 | 30 | [Thankful Heart](https://open.spotify.com/track/10gNJKknyceHIU2jEwUq1t) | [Scrooge](https://open.spotify.com/artist/2kXLMOzLGIsJunZCUFwKh7) | [The Muppet Christmas Carol \(Special Anniversary Edition\)](https://open.spotify.com/album/63DYbHrvwaBaWVjqQkNvT0) | 2:16 |
 | 31 | [Last Christmas](https://open.spotify.com/track/38p8YDx5gepOiK4SnEfoB4) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [George Michael & Wham! Last Christmas: The Original Motion Picture Soundtrack](https://open.spotify.com/album/3rLjiJI34bHFNIFqeK3y9s) | 4:24 |
-| 32 | [Winter In St\. Louis](https://open.spotify.com/track/4hR1I8PGsnERdIDW8izZeZ) | [MGM Studio Orchestra](https://open.spotify.com/artist/2EjrRJZBrUhYqcgmYF69N1), [Georgie Stoll](https://open.spotify.com/artist/2tP6jN57QfGI0IOUhShSUq) | [Meet Me In St\. Louis \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/29vvOZZDLLZavty2hkZySE) | 0:46 |
+| 32 | [Winter In St\. Louis](https://open.spotify.com/track/4hR1I8PGsnERdIDW8izZeZ) | [MGM Studio Orchestra](https://open.spotify.com/artist/2EjrRJZBrUhYqcgmYF69N1), [Georgie Stoll](https://open.spotify.com/artist/39rVQIaWUoD7Uuzw6u5Tnn) | [Meet Me In St\. Louis \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/29vvOZZDLLZavty2hkZySE) | 0:46 |
 | 33 | [Santa Baby](https://open.spotify.com/track/1vZKP9XURuqMp1SpXGnoyb) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [The Essential Eartha Kitt](https://open.spotify.com/album/3YYxlTrYciDHu3j7E5wGrZ) | 3:26 |
 | 34 | [One More Sleep ’til Christmas](https://open.spotify.com/track/4ZEUe2d1foQdbsNdgQXZlS) | [Kermit](https://open.spotify.com/artist/2lKVLoBlDFcONGT1XhQsIw) | [The Muppet Christmas Carol \(Special Anniversary Edition\)](https://open.spotify.com/album/63DYbHrvwaBaWVjqQkNvT0) | 2:50 |
 | 35 | [What's This?](https://open.spotify.com/track/3fytQQcjEOWXlvI9BDXVcK) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Nightmare Before Christmas Special Edition](https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86) | 3:05 |

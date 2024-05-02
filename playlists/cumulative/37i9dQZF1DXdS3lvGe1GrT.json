@@ -675,6 +675,24 @@
     },
     {
       "album": {
+        "name": "All Of You",
+        "url": "https://open.spotify.com/album/4iRhSgdZhzbvI9CvcdvxjD"
+      },
+      "artists": [
+        {
+          "name": "Alex Siegel",
+          "url": "https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201230,
+      "name": "All Of You",
+      "url": "https://open.spotify.com/track/2xjiLpJGh1xrj98DJaNhgR"
+    },
+    {
+      "album": {
         "name": "Melancholy Angel",
         "url": "https://open.spotify.com/album/6sGoUGk21aPgZPy1XGCF6G"
       },
@@ -1688,7 +1706,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 235382,
       "name": "awe",
       "url": "https://open.spotify.com/track/20liuVONukHV5oK7kghgOI"
@@ -2816,7 +2834,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 197333,
       "name": "Brusco",
       "url": "https://open.spotify.com/track/5KOPS6Q50l66RgQR8MjSh2"
@@ -8313,6 +8331,24 @@
     },
     {
       "album": {
+        "name": "grips",
+        "url": "https://open.spotify.com/album/71uZd2dScWHUmpKLV3QyWX"
+      },
+      "artists": [
+        {
+          "name": "Pem",
+          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178331,
+      "name": "grips",
+      "url": "https://open.spotify.com/track/3OdyOQKTsqiUs25V1aXUsR"
+    },
+    {
+      "album": {
         "name": "Grow",
         "url": "https://open.spotify.com/album/0ku5ZJkVcgX4haWpm8mHxM"
       },
@@ -10300,7 +10336,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 107566,
       "name": "Intro, Dream",
       "url": "https://open.spotify.com/track/6h3eqlgYSMVbxQvNsfIwN3"
@@ -11024,7 +11060,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 177843,
       "name": "Kindergarten Heart",
       "url": "https://open.spotify.com/track/4sfkyrxPn0YOCohtvBRPJo"
@@ -12880,7 +12916,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 168000,
       "name": "misty harbor.memo",
       "url": "https://open.spotify.com/track/094txiQqH7G4AoaPBeA4aE"
@@ -13302,6 +13338,24 @@
       "duration_ms": 221866,
       "name": "Mutual Friends",
       "url": "https://open.spotify.com/track/70UulySjKVnV67gJRi9XzI"
+    },
+    {
+      "album": {
+        "name": "my best friend sam",
+        "url": "https://open.spotify.com/album/6egCLcpXKE9FRjdgDu036n"
+      },
+      "artists": [
+        {
+          "name": "Izzy Heltai",
+          "url": "https://open.spotify.com/artist/609L5isoR1bZrX1oB0y6dF"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181377,
+      "name": "my best friend sam",
+      "url": "https://open.spotify.com/track/1jqzTIrfSISp24djilzthX"
     },
     {
       "album": {
@@ -15643,6 +15697,24 @@
     },
     {
       "album": {
+        "name": "Reminded",
+        "url": "https://open.spotify.com/album/2psY8GbynyEElP4GMTQUif"
+      },
+      "artists": [
+        {
+          "name": "Carlina de Place",
+          "url": "https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Reminded",
+      "url": "https://open.spotify.com/track/4ebHQo1dExU3ZhXIa40alP"
+    },
+    {
+      "album": {
         "name": "toxic ties & troubled minds",
         "url": "https://open.spotify.com/album/5x6eyMAnZ3fUu26mgqE9kP"
       },
@@ -16403,6 +16475,24 @@
     },
     {
       "album": {
+        "name": "I Miss the Sky",
+        "url": "https://open.spotify.com/album/1Ffa7l8Fh6kPl4LV8KGste"
+      },
+      "artists": [
+        {
+          "name": "Hayden Everett",
+          "url": "https://open.spotify.com/artist/6sIPNR4ZDctKr2OSiAVtBc"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219954,
+      "name": "Seize The Sun",
+      "url": "https://open.spotify.com/track/2kuYksbeaWWT6nc7YhWmW1"
+    },
+    {
+      "album": {
         "name": "Shake Til the Fever is Gone",
         "url": "https://open.spotify.com/album/1i53wNV08T2tEylh9jOcDV"
       },
@@ -16666,7 +16756,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 144003,
       "name": "Simple",
       "url": "https://open.spotify.com/track/25ODmLEb3AI2ZTaYUXFACi"
@@ -18380,10 +18470,28 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 139024,
       "name": "The Bell Jar",
       "url": "https://open.spotify.com/track/1LUek8Od6zrrcPxhXrkNIz"
+    },
+    {
+      "album": {
+        "name": "the cards",
+        "url": "https://open.spotify.com/album/4l73qnloX4HsFd42X5aDwv"
+      },
+      "artists": [
+        {
+          "name": "Sydney Sprague",
+          "url": "https://open.spotify.com/artist/6kclOkS27VyWBtdnNq5GHs"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124575,
+      "name": "the cards",
+      "url": "https://open.spotify.com/track/1T1xEv50uNtLsBb7qtKtB7"
     },
     {
       "album": {
@@ -21588,6 +21696,24 @@
       "duration_ms": 171639,
       "name": "Your Melody",
       "url": "https://open.spotify.com/track/5oehlLTugy2jajet81l7W3"
+    },
+    {
+      "album": {
+        "name": "your patience, it ran so high",
+        "url": "https://open.spotify.com/album/5bB1lXjiYwFlkLnhghRSDZ"
+      },
+      "artists": [
+        {
+          "name": "harf.",
+          "url": "https://open.spotify.com/artist/12dcW7121xWHkU7xCBvyUX"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "your patience, it ran so high",
+      "url": "https://open.spotify.com/track/1t50oz5M1NFhvuuR2lB6jq"
     },
     {
       "album": {

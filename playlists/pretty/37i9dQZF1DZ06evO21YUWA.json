@@ -1,12 +1,12 @@
 {
-  "description": "This is Harold Budd. The essential tracks, all in one playlist.",
-  "num_followers": 5049,
+  "description": "This Is Harold Budd. Los temas esenciales, todos en una lista.",
+  "num_followers": 5050,
   "original_name": "This Is Harold Budd",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zi7jAAAAAAARaf7huVQsTsRFJ9MUuhXT",
+  "snapshot_id": "ZjA0gAAAAAAKL5R5QP7sciZOJhOIy2Mz",
   "tracks": [
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In The Mist",
-        "url": "https://open.spotify.com/album/3J8bwfrUYrzmuE0IqFLhUS"
+        "name": "Budd Box (Spotify Only)",
+        "url": "https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 137026,
-      "name": "The Panther of Small Favors",
-      "url": "https://open.spotify.com/track/4HdqbNllRPg0mTaZNuCeWv"
+      "duration_ms": 122933,
+      "name": "Rub With Ashes",
+      "url": "https://open.spotify.com/track/7lSSrxiRidWKKEzczh0hTv"
     },
     {
       "added_at": null,
@@ -831,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Budd Box (Spotify Only)",
-        "url": "https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP"
+        "name": "In The Mist",
+        "url": "https://open.spotify.com/album/3J8bwfrUYrzmuE0IqFLhUS"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 122933,
-      "name": "Rub With Ashes",
-      "url": "https://open.spotify.com/track/7lSSrxiRidWKKEzczh0hTv"
+      "duration_ms": 137026,
+      "name": "The Panther of Small Favors",
+      "url": "https://open.spotify.com/track/4HdqbNllRPg0mTaZNuCeWv"
     },
     {
       "added_at": null,

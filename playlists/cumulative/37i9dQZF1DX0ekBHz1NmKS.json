@@ -2571,6 +2571,24 @@
     },
     {
       "album": {
+        "name": "B\u00e4ttre i neon",
+        "url": "https://open.spotify.com/album/0WEOl4abVPI5HKdcrZXmGG"
+      },
+      "artists": [
+        {
+          "name": "Galleriet",
+          "url": "https://open.spotify.com/artist/32ThSpM7Ukigtw16EIYYT7"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "B\u00e4ttre i neon",
+      "url": "https://open.spotify.com/track/2Tq07wfcTsx5jr5E3Oo2uc"
+    },
+    {
+      "album": {
         "name": "C R A Z Y",
         "url": "https://open.spotify.com/album/7Mc3Raq0decyTuPvkzHiF4"
       },
@@ -13384,7 +13402,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 159069,
       "name": "Mycket b\u00e4ttre",
       "url": "https://open.spotify.com/track/3eCfXw6wt5ejoEt4sBrv9C"

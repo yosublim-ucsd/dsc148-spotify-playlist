@@ -606,7 +606,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 218880,
       "name": "BLUE GIANT - \u300eBLUE GIANT\u300f\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u3088\u308a",
       "url": "https://open.spotify.com/track/1EKIT1QnEWYUlN3h20zZQF"
@@ -3433,6 +3433,28 @@
     },
     {
       "album": {
+        "name": "Shamanite",
+        "url": "https://open.spotify.com/album/0c9JSYQsWHsTTai1JVzxAc"
+      },
+      "artists": [
+        {
+          "name": "EXOTIC SKATES",
+          "url": "https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP"
+        },
+        {
+          "name": "MONKY",
+          "url": "https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281952,
+      "name": "Shamanite",
+      "url": "https://open.spotify.com/track/16f2bdMXq1AxIjl5XRym5Z"
+    },
+    {
+      "album": {
         "name": "Making Us Alive (Live)",
         "url": "https://open.spotify.com/album/6XKlNZcHNiWIh0T1bKcr6y"
       },
@@ -4973,6 +4995,24 @@
     },
     {
       "album": {
+        "name": "\u30b9\u30a4\u30fc\u30c8\u30ec\u30b9\u30dd\u30f3\u30b9\u30d5\u30ed\u30e0\u30c9\u30c3\u30b0\u30b9",
+        "url": "https://open.spotify.com/album/2nt5QzT7q4UT2yK09rEWvu"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "\u30b9\u30a4\u30fc\u30c8\u30ec\u30b9\u30dd\u30f3\u30b9\u30d5\u30ed\u30e0\u30c9\u30c3\u30b0\u30b9",
+      "url": "https://open.spotify.com/track/5p2Nq9Z0JfI12PrjAfj1YX"
+    },
+    {
+      "album": {
         "name": "What's Jazz? -STYLE-",
         "url": "https://open.spotify.com/album/3Zs9er59VPuJsLowxvwnR0"
       },
@@ -5202,7 +5242,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 307000,
       "name": "\u591c\u685c\u7518\u96e8",
       "url": "https://open.spotify.com/track/37Eq9ydmweeCgA5Wlq1OME"

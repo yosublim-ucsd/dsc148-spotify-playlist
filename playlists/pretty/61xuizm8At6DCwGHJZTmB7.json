@@ -1,41 +1,13 @@
 {
   "description": "Worship 2024 | <a href=\"https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC?si=FLMGbM6MRYy3pa0DmxGIzA\">UPPERROOM</a> is taking over Worship 2024 with their new album, 'Moments: 013 (Live)'! Made by <a href=\"spotify:user:sozoofficial\">SOZO Playlists</a>! ",
-  "num_followers": 117062,
+  "num_followers": 117075,
   "original_name": "Worship 2024",
   "owner": {
     "name": "SOZO Playlists ",
     "url": "https://open.spotify.com/user/sozoofficial"
   },
-  "snapshot_id": "AAAe3OwPlq+m833GUTRB5ZgJMktgANZx",
+  "snapshot_id": "AAAe3R7E7Iewk7JxBIafF4zToJ+X4yuE",
   "tracks": [
-    {
-      "added_at": "2024-04-26 04:10:46",
-      "album": {
-        "name": "Moments: 013 (Live)",
-        "url": "https://open.spotify.com/album/1SWM0tZNei6sWT0e8JGiRe"
-      },
-      "artists": [
-        {
-          "name": "UPPERROOM",
-          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
-        },
-        {
-          "name": "Eniola Abioye",
-          "url": "https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6"
-        },
-        {
-          "name": "Joel Figueroa",
-          "url": "https://open.spotify.com/artist/3QRS0RlYKcQFdr7X4pcE4V"
-        },
-        {
-          "name": "Elyssa Smith",
-          "url": "https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF"
-        }
-      ],
-      "duration_ms": 371891,
-      "name": "Living Sacrifice - Live",
-      "url": "https://open.spotify.com/track/6aQEAaWO8wAXJ7aWm130XM"
-    },
     {
       "added_at": "2024-03-22 19:27:18",
       "album": {
@@ -99,6 +71,34 @@
       "duration_ms": 401920,
       "name": "Abandoned - Live",
       "url": "https://open.spotify.com/track/3lH3L5Qyz2xQHxAeq7BycZ"
+    },
+    {
+      "added_at": "2024-04-26 04:10:46",
+      "album": {
+        "name": "Moments: 013 (Live)",
+        "url": "https://open.spotify.com/album/1SWM0tZNei6sWT0e8JGiRe"
+      },
+      "artists": [
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Eniola Abioye",
+          "url": "https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6"
+        },
+        {
+          "name": "Joel Figueroa",
+          "url": "https://open.spotify.com/artist/3QRS0RlYKcQFdr7X4pcE4V"
+        },
+        {
+          "name": "Elyssa Smith",
+          "url": "https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF"
+        }
+      ],
+      "duration_ms": 371891,
+      "name": "Living Sacrifice - Live",
+      "url": "https://open.spotify.com/track/6aQEAaWO8wAXJ7aWm130XM"
     },
     {
       "added_at": "2024-03-22 19:27:18",

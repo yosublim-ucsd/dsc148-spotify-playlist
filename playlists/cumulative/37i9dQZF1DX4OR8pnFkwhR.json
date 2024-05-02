@@ -3087,6 +3087,24 @@
     },
     {
       "album": {
+        "name": "CREAM",
+        "url": "https://open.spotify.com/album/7aIFDiXgaMPn8PztKrwcAZ"
+      },
+      "artists": [
+        {
+          "name": "\u30dc\u30bf\u30cb\u30ab\u30eb\u306a\u66ae\u3089\u3057\u3002",
+          "url": "https://open.spotify.com/artist/14K2FbpG5vkdJZiMx5JPh5"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211961,
+      "name": "CREAM",
+      "url": "https://open.spotify.com/track/1gMYcZj1y84jxRCGQBNqoU"
+    },
+    {
+      "album": {
         "name": "Cropping",
         "url": "https://open.spotify.com/album/1vVhayWOCyooUqJSG5uboX"
       },
@@ -4758,7 +4776,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 259065,
       "name": "Fever",
       "url": "https://open.spotify.com/track/50bQfnQ9OXxDLc158BoAOR"
@@ -4934,7 +4952,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 214858,
       "name": "Flower Bed",
       "url": "https://open.spotify.com/track/04qHub06DBGakVjjIYq5Bd"
@@ -6930,7 +6948,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 183666,
       "name": "IAI",
       "url": "https://open.spotify.com/track/4YXWRCYxpJnxgZlJmwrvKe"
@@ -9284,6 +9302,24 @@
       "duration_ms": 204833,
       "name": "Mole Dancer",
       "url": "https://open.spotify.com/track/6k3ly6qAbRNXmQXmupnMeV"
+    },
+    {
+      "album": {
+        "name": "MOOD",
+        "url": "https://open.spotify.com/album/5WnS7LbJHYGL1m3rrxDKwi"
+      },
+      "artists": [
+        {
+          "name": "NIKO NIKO TAN TAN",
+          "url": "https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "MOOD",
+      "url": "https://open.spotify.com/track/3q8MkPRdCg4wmKtLn3eRMw"
     },
     {
       "album": {
@@ -11800,6 +11836,24 @@
       "duration_ms": 204868,
       "name": "Restart?",
       "url": "https://open.spotify.com/track/64INceHue7dl31QMDLLirn"
+    },
+    {
+      "album": {
+        "name": "Stand up",
+        "url": "https://open.spotify.com/album/1Mv2KO4XWpqSgtWej7xAJb"
+      },
+      "artists": [
+        {
+          "name": "umitachi",
+          "url": "https://open.spotify.com/artist/6M3JzDIG1BTMQ7eDTrIJTI"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113800,
+      "name": "revenge",
+      "url": "https://open.spotify.com/track/2lwHHCBquik2hf0k4gp6AO"
     },
     {
       "album": {
@@ -16380,7 +16434,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 181594,
       "name": "Young Boy",
       "url": "https://open.spotify.com/track/0pmE2OAqk0YIoQBHUfR2Pw"
@@ -16770,7 +16824,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 179919,
       "name": "\u3042\u3057\u305f\u5929\u6c17\u306b\u306a\u3042\u308c",
       "url": "https://open.spotify.com/track/3d3ZMeF3gMgBNA9Wy16MEu"
@@ -18501,6 +18555,42 @@
     },
     {
       "album": {
+        "name": "\u30a2\u30aa\u30a4\u30cf\u30eb",
+        "url": "https://open.spotify.com/album/2O8vfiV6slbOX3Wiywfgsj"
+      },
+      "artists": [
+        {
+          "name": "Conton Candy",
+          "url": "https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233191,
+      "name": "\u30a2\u30aa\u30a4\u30cf\u30eb",
+      "url": "https://open.spotify.com/track/66ydmKAjLJwzo9smBmqHzN"
+    },
+    {
+      "album": {
+        "name": "Correspondances",
+        "url": "https://open.spotify.com/album/7bHqPAAsC9LBhk1HhMYG6z"
+      },
+      "artists": [
+        {
+          "name": "CHO CO PA CO CHO CO QUIN QUIN",
+          "url": "https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "\u30a2\u30c0\u30f3\u306e\u6d77\u8fba",
+      "url": "https://open.spotify.com/track/2Sw8R2PBZQ6qvtpsEMu9ND"
+    },
+    {
+      "album": {
         "name": "\u30a2\u30d5\u30bf\u30fc\u30aa\u30fc\u30eb",
         "url": "https://open.spotify.com/album/7nSsrf3EM08XVnRjG4R3mw"
       },
@@ -18674,7 +18764,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 301315,
       "name": "\u30a8\u30b9\u30b1\u30fc\u30d7\u30b3\u30fc\u30eb",
       "url": "https://open.spotify.com/track/04nGeOWrNdKrwgOZG6ktFT"
@@ -21293,6 +21383,28 @@
     },
     {
       "album": {
+        "name": "\u30e4\u30d0\u3044\u306a",
+        "url": "https://open.spotify.com/album/4vOk4ViilWFM1MUCO94oU8"
+      },
+      "artists": [
+        {
+          "name": "Kaneee",
+          "url": "https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09"
+        },
+        {
+          "name": "Daichi Yamamoto",
+          "url": "https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149619,
+      "name": "\u30e4\u30d0\u3044\u306a",
+      "url": "https://open.spotify.com/track/1acXpvOjQiCDgEkPLPFupe"
+    },
+    {
+      "album": {
         "name": "\u30e6\u30e1\u306e\u306f\u3058\u307e\u308a\u3002",
         "url": "https://open.spotify.com/album/3b3WoVqAc6zcXApOjchHvj"
       },
@@ -23590,6 +23702,24 @@
       "duration_ms": 288184,
       "name": "\u5e38\u6642",
       "url": "https://open.spotify.com/track/4z6WOaHmQH6IB5MiU2ZTOh"
+    },
+    {
+      "album": {
+        "name": "\u5e73\u51e1",
+        "url": "https://open.spotify.com/album/46jjRprxRiD5KSY30STH0V"
+      },
+      "artists": [
+        {
+          "name": "\u30df\u30e4\u30b1\u6b66\u5668",
+          "url": "https://open.spotify.com/artist/463Nb39aQCqo5DJFqTkHHv"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235120,
+      "name": "\u5e73\u51e1",
+      "url": "https://open.spotify.com/track/7eVeabv308KnK233LO3OG8"
     },
     {
       "album": {
@@ -26288,7 +26418,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 192462,
       "name": "\u7a7a\u3068\u3076\u6771\u4eac",
       "url": "https://open.spotify.com/track/1Z09qAdhbdRF40re5pjW0S"

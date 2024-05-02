@@ -4,7 +4,7 @@
 
 > 
 
-675 songs - 1 day 8 hr 10 min
+678 songs - 1 day 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,6 +388,7 @@
 | [Myself!](https://open.spotify.com/track/1OIsxL4PVsEE9rSrdu93Co) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Golden Child, Chapter 2](https://open.spotify.com/album/5QohyYxe1zRYpTmkWJTNYb) | 2:03 | 2022-11-02 | 2023-04-12 |
 | [Mysëlf](https://open.spotify.com/track/2kimLa9Di1xK5MpZSxJhRy) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 2:30 | 2023-03-22 | 2023-12-14 |
 | [Nah Mean](https://open.spotify.com/track/3W2FgXliJL6SCGIrJ7vKNv) | [Desire](https://open.spotify.com/artist/3KPcAghCkTbiBpuAsZnWv3), [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [3AM Vibes](https://open.spotify.com/album/3orPhMBlpm0MQDS9ZuZxsI) | 2:04 | 2022-12-23 | 2023-12-14 |
+| [Need for Speed](https://open.spotify.com/track/7DHRqkAR1C6KWD08uKolQx) | [K Suave](https://open.spotify.com/artist/04a6mc5vUtj2pMzteToeH7) | [Midnight in Malibu](https://open.spotify.com/album/4y8rrv9UMZGS9vBx0VVOFp) | 3:09 | 2024-05-02 |  |
 | [Need It](https://open.spotify.com/track/5yphqi9NLM4r8e4litl07S) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [Flex Musix \(FLXTRA\)](https://open.spotify.com/album/0KLk3N51EO7CG7d9MdQ2XE) | 1:37 | 2024-02-16 |  |
 | [Never](https://open.spotify.com/track/0xX2DrW4nMot1KgwvW5ahh) | [Jerm](https://open.spotify.com/artist/5JSpdSi1RHQ3KgNovJBJhF), [ZaySkillz](https://open.spotify.com/artist/5JUrIP5DHSQXe9TF11fjzS), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Sapphire.](https://open.spotify.com/album/22HA1nornnauA428zn6gHB) | 2:55 | 2022-07-17 | 2023-12-14 |
 | [Never Die \(feat\. Lil Wayne\)](https://open.spotify.com/track/5uTQKPRk3rfOOt97WIHf8f) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Magic 3](https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz) | 3:10 | 2024-03-04 | 2024-04-24 |
@@ -520,6 +521,7 @@
 | [Same Yung Nigga \(feat\. Playboi Carti\)](https://open.spotify.com/track/1q9jq5X5vwmewjOa2mHtQ1) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Drip or Drown 2](https://open.spotify.com/album/1oUzjom2A9xtyRM1SdOAGj) | 3:00 | 2024-01-02 | 2024-04-24 |
 | [Save Me](https://open.spotify.com/track/0PzncLHHW8Utar5zZwW6zG) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [The Leek, Vol\. 1](https://open.spotify.com/album/7EqMqgEZ40knsZwfnVxA48) | 3:34 | 2023-01-07 | 2023-04-12 |
 | [Savior \- Interlude](https://open.spotify.com/track/5G4uLkFKdEZLcuNyeomQmE) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 2:32 | 2023-07-10 | 2023-12-14 |
+| [SCIENTISTS & ENGINEERS \(feat\. Future & Eryn Allen Kane\)](https://open.spotify.com/track/1UsPflAuWTNteFUPJAJe8E) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [MICHAEL](https://open.spotify.com/album/2mBH7RhAS6vRKkSlA7IRIJ) | 4:13 | 2024-05-02 |  |
 | [Second Day Out](https://open.spotify.com/track/0HoWwOa0XVeUFsmYz1sJok) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Second Day Out](https://open.spotify.com/album/0P02ahe5RNTDXEKXIbQmMv) | 1:36 | 2023-01-11 | 2023-12-14 |
 | [Secure the Vibe \(feat\. Young Thug\)](https://open.spotify.com/track/0Zh07yxAYHbGrjd0wFd0be) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Drip Season 2](https://open.spotify.com/album/3vObc2h4jNdpjUoA1XlxCQ) | 2:44 | 2023-12-15 |  |
 | [See Y'all Again](https://open.spotify.com/track/2WvptDpqPBo6rNBJxK48h6) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [After TTBR](https://open.spotify.com/album/6VyWxik4npLtHuYKJ66zsa) | 3:05 | 2024-03-04 |  |
@@ -544,6 +546,7 @@
 | [Snotty Rock!](https://open.spotify.com/track/3PiH2mknilvIyEQaUgqZ3M) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [SNOTTY WORLD](https://open.spotify.com/album/4WsroDqYcqI1DpRgRAwqF2) | 2:08 | 2022-10-28 | 2023-05-09 |
 | [Snotty Run!](https://open.spotify.com/track/5hLQyZcmPXrWsCcmvG1iuT) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [Snotty World \(Deluxe\)](https://open.spotify.com/album/5Fy36L5DnmGWWmAQsq4Ido) | 1:46 | 2022-10-24 | 2023-12-14 |
 | [So Messy](https://open.spotify.com/track/5xKWzb7qzaRvTQ8OSfmOWR) | [GOONIE](https://open.spotify.com/artist/2Z8HHweJsQ0WDusmOsqozg) | [So Messy](https://open.spotify.com/album/5pcdj525dihZGZFEvwIVVe) | 2:02 | 2023-02-28 | 2023-12-14 |
+| [SoHo Freestyle](https://open.spotify.com/track/4fs8ivWpMFLziD20LglPmZ) | [Pivot Gang](https://open.spotify.com/artist/0kDgxQlVYVecF6MCNWJTYE), [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Two Piece Tour Pack](https://open.spotify.com/album/7ACNmhUl7NLo0Gn4WPaE4A) | 3:34 | 2024-05-01 |  |
 | [Song 32](https://open.spotify.com/track/0EgmhYPgButfoBvtnidyR0) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Song 32](https://open.spotify.com/album/3WyY9vsAcsEngOhfOl3aby) | 2:42 | 2022-09-20 | 2023-05-09 |
 | [Sorry Bout That](https://open.spotify.com/track/4VHkjPgAis9JNfc1URn7zZ) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [4L](https://open.spotify.com/album/05QOSu1AEcQxM5jvZFuann) | 3:06 | 2021-10-08 |  |
 | [SOS](https://open.spotify.com/track/5pMmWfuL0FTGshYt7HVJ8P) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [ABBA Gold](https://open.spotify.com/album/2cKZfaz7GiGtZEeQNj1RyR) | 3:21 | 2024-04-27 |  |

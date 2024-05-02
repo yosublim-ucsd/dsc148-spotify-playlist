@@ -2,7 +2,7 @@
 
 ### [Capricornio](https://open.spotify.com/playlist/37i9dQZF1DWXGJi6950c0r)
 
-> A mí no me importa el dinero, tengo lo que yo más quiero \#ZodiacoSpotify Foto: Ricky Martin
+> Con esfuerzo y dedicación, viene la celebración.
 
 38 songs - 2 hr 32 min
 

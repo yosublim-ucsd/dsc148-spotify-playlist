@@ -688,7 +688,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 199413,
       "name": "CAPONE",
       "url": "https://open.spotify.com/track/60JxtEarjwfNA43NSUAS69"
@@ -1969,6 +1969,24 @@
     },
     {
       "album": {
+        "name": "Himmel / Swarm",
+        "url": "https://open.spotify.com/album/63Fj5OB3G8u7LZsYADylFd"
+      },
+      "artists": [
+        {
+          "name": "Ebbb",
+          "url": "https://open.spotify.com/artist/2LikjKVyI5gqANlB9S7DNW"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209844,
+      "name": "Himmel",
+      "url": "https://open.spotify.com/track/2VSkFvTEK9R7AsrWRLp8ON"
+    },
+    {
+      "album": {
         "name": "Holsten",
         "url": "https://open.spotify.com/album/0eO4RioDxCnbqFNO6O1hs2"
       },
@@ -2446,6 +2464,24 @@
       "duration_ms": 229088,
       "name": "Kenneth",
       "url": "https://open.spotify.com/track/4ps9Hugwa38njNmedG9c4K"
+    },
+    {
+      "album": {
+        "name": "Kimbara",
+        "url": "https://open.spotify.com/album/2lrh7eGF5BhF70i5VPJ3Nu"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189816,
+      "name": "Kimbara",
+      "url": "https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk"
     },
     {
       "album": {
@@ -4382,7 +4418,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 311671,
       "name": "Thirsty",
       "url": "https://open.spotify.com/track/2Buoe3DXKE5VL5w0JCeuQz"

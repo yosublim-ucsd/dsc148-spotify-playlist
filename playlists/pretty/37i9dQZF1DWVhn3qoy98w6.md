@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles\. Foto: nusar3000, Six Sex.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,315 likes - 75 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,347 likes - 75 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 48 | [Tu Canción Favorita](https://open.spotify.com/track/6Av51WEIZ8LVxH9U0FHhjR) | [shakeitmila](https://open.spotify.com/artist/6SZq6mW5RGGMuqvgz6y5mx) | [Tu Canción Favorita](https://open.spotify.com/album/3V5cU9WbeSxuYqPZuL6yiL) | 2:20 |
 | 49 | [EAQMQ](https://open.spotify.com/track/0CF2C9BKVel8u16wbeK2wk) | [DIAZZ TM](https://open.spotify.com/artist/0RcY4NqjmxH9C3fxmV896d), [Jordán](https://open.spotify.com/artist/5lysF0N87Tl3AXSeAdAhLx) | [BUENOS DIAZZ](https://open.spotify.com/album/3llr45ttI3jTfMDbRjuXx2) | 2:32 |
 | 50 | [Los Lobos](https://open.spotify.com/track/45n0oFp1UuH7RtECZWsx9U) | [Whisky Caravan](https://open.spotify.com/artist/2sNzYvtWH9mUVsYTiMi4Dz) | [Los Lobos](https://open.spotify.com/album/4YOfztcRazIXLMEaiUvtvE) | 4:12 |
-| 51 | [Decir Adiós](https://open.spotify.com/track/3VyfgRmWDJZ3EjyYoIZ4LN) | [Querido](https://open.spotify.com/artist/3ulrDH2Ccc1FPggTGbvxho) | [Querido](https://open.spotify.com/album/1hR8gcSui81EbJe7pHQLPb) | 4:52 |
+| 51 | [Decir Adiós](https://open.spotify.com/track/3VyfgRmWDJZ3EjyYoIZ4LN) | [Querido](https://open.spotify.com/artist/3ulrDH2Ccc1FPggTGbvxho) | [Decir Adiós](https://open.spotify.com/album/1hR8gcSui81EbJe7pHQLPb) | 4:52 |
 | 52 | [En Mi Funeral](https://open.spotify.com/track/61yR48Zcy36cYo0EFw2QRy) | [D3ny4l](https://open.spotify.com/artist/0b4Sy4H3VYXSzkzLpPwQRv) | [En Mi Funeral](https://open.spotify.com/album/1JaFfSq8s5x083sGffF1d5) | 3:07 |
 | 53 | [ALTA VELOCITAT](https://open.spotify.com/track/6KhXPJHBmNj5uQPDSSLkC4) | [Sara Roy](https://open.spotify.com/artist/71OOfmrGnQoJqrUIq133qs) | [ALTA VELOCITAT](https://open.spotify.com/album/4J0YteMbsFbygyJssHxtJg) | 2:30 |
 | 54 | [China](https://open.spotify.com/track/6PJJjJCv18WR724YFd7mNm) | [Jara Pol](https://open.spotify.com/artist/1ZIwEYympp5ztnQYDlIxHg) | [AKIRA](https://open.spotify.com/album/55vb8fcsVKgEe0BOKF4hPN) | 2:16 |

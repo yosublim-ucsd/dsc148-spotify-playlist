@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Slow Motion
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,170,952 likes - 70 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,170,911 likes - 70 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 10 | [Champagne Bottle](https://open.spotify.com/track/31eW4SdIrJId1bnkxSCXb2) | [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC), [Mazzocchi](https://open.spotify.com/artist/3nMnwaOd4MPONzv5i46Wza) | [Champagne Bottle](https://open.spotify.com/album/3NMmBvaC3sZePl51vd6iof) | 1:58 |
 | 11 | [Flute](https://open.spotify.com/track/2PA7dRQno5zcM65bocvu08) | [Voltech](https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o) | [Flute](https://open.spotify.com/album/6pWeipE5YJialIcLkicui8) | 2:47 |
 | 12 | [Inside \- Edit](https://open.spotify.com/track/0tLyDJaFJchA95KqqHcCZ9) | [Sharam Jey](https://open.spotify.com/artist/0k4tYg6N84bhZcd6tfNWXt), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Amazondas](https://open.spotify.com/artist/0kCVx9wT8OVupc7rvLzo3Y) | [Inside](https://open.spotify.com/album/1Mss70p4SsVGvj6N4bkkwM) | 3:38 |
-| 13 | [Suavamente](https://open.spotify.com/track/2iqQ0Pk82ozDZjXWBvTnan) | [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Suavamente](https://open.spotify.com/album/2GYBxxYz9NNOSkjZNIXZXy) | 2:32 |
+| 13 | [Suavemente](https://open.spotify.com/track/2iqQ0Pk82ozDZjXWBvTnan) | [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Suavemente](https://open.spotify.com/album/2GYBxxYz9NNOSkjZNIXZXy) | 2:32 |
 | 14 | [Redline](https://open.spotify.com/track/2SccLSKaSbPI8ei4V0kTnw) | [Reezer](https://open.spotify.com/artist/0A0qH0k5vzwUrAAjcxZsN0) | [Redline](https://open.spotify.com/album/0aXKQ2PXqOWt7I1b2zHNc9) | 3:11 |
 | 15 | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1) | 2:55 |
 | 16 | [REALITY](https://open.spotify.com/track/2FH95vGwiMrLK3UtqnOLUd) | [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg) | [REALITY](https://open.spotify.com/album/6aEaeRTSchD9QgL21EfjII) | 4:08 |

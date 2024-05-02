@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: 土岐麻子
 
-2,427 songs - 6 day 11 hr 55 min
+2,428 songs - 6 day 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -499,7 +499,7 @@
 | [Hey Song](https://open.spotify.com/track/0tjzgMwPAAkL4xAY3g74FS) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Hey Song](https://open.spotify.com/album/5zrsUKzB8ULxQAavQLs8He) | 3:31 | 2023-08-22 | 2023-11-21 |
 | [hibi](https://open.spotify.com/track/0M0qI3VHgCzlCGFd9mrEuD) | [Erika Nishi](https://open.spotify.com/artist/7J7NV5RglXhb1GoGj0sS1R), [Schuwa Schuwa](https://open.spotify.com/artist/3Zcl5m1Mre2ZlfVU7xYSC8) | [hibi](https://open.spotify.com/album/2Kvoj2kXXwg6kG52i9xoEQ) | 4:29 | 2024-04-23 | 2024-05-01 |
 | [High Five](https://open.spotify.com/track/1bFGGcm9ttACXufVIAoJVV) | [Miisha Shimizu](https://open.spotify.com/artist/2ITl7YzD1Hm6NVojBhKkOp) | [High Five](https://open.spotify.com/album/0tbxmJoW2zvNON0TKj2tPv) | 3:13 | 2022-05-29 | 2022-11-04 |
-| [Higher](https://open.spotify.com/track/79TlP0sKVFyCHazSXYKeI6) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Anytime Anywhere](https://open.spotify.com/album/0yiK7Xlg6Fbhn7UtxrWzxa) | 3:43 | 2024-01-30 |  |
+| [Higher](https://open.spotify.com/track/79TlP0sKVFyCHazSXYKeI6) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Anytime Anywhere](https://open.spotify.com/album/0yiK7Xlg6Fbhn7UtxrWzxa) | 3:43 | 2024-01-30 | 2024-05-02 |
 | [Higher](https://open.spotify.com/track/5fvVRGba4CPOHRMnBRMqBQ) | [MONONKVL](https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM) | [Higher](https://open.spotify.com/album/33puTLfeTdH7qtYckm305L) | 3:54 | 2022-06-07 | 2022-07-28 |
 | [Higher Love](https://open.spotify.com/track/5AyIYrq6MV7uuLRGFqtXPK) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [Higher Love](https://open.spotify.com/album/1CjyXicCmGeuLVs3DT4Kl2) | 5:34 | 2022-05-29 | 2022-07-27 |
 | [Highway](https://open.spotify.com/track/6CxLWEMIvFEWG7XdSXlBIf) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [Highway](https://open.spotify.com/album/0yslKFGYXbLlV9KV9NpkRZ) | 3:14 | 2024-02-27 | 2024-03-13 |
@@ -2094,6 +2094,7 @@
 | [惑星](https://open.spotify.com/track/4p1KQXtxQBTbcq9iFYPtG5) | [ELAIZA](https://open.spotify.com/artist/45dMXQSIdhCQd5RUqDSpka) | [失楽園](https://open.spotify.com/album/5SOsP8jPuEZ7RDGcNl2Nvr) | 4:12 | 2022-06-02 | 2022-07-28 |
 | [想うということ](https://open.spotify.com/track/6xrr46UKL7xgNpFAdP39PB) | [Asagaya Romantics](https://open.spotify.com/artist/2h0iLKaNExZIpQsp4jpf8x) | [想うということ](https://open.spotify.com/album/0gGycLeZb40DxSr1dohdiH) | 3:18 | 2024-01-09 | 2024-01-17 |
 | [愛 need your love](https://open.spotify.com/track/7BBaJjWYEfEGFuUyM9zCyB) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [愛 need your love](https://open.spotify.com/album/7aNVI1dGbfpGZUQV0zkPRa) | 3:46 | 2023-11-28 | 2023-11-30 |
+| [愛が灯る](https://open.spotify.com/track/1928Lw8TiJYbS0QrLnfWRR) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [愛が灯る](https://open.spotify.com/album/7x7aD8dOcULUeoJT5CNcPr) | 3:19 | 2024-04-30 |  |
 | [愛さ生まり島](https://open.spotify.com/track/30ZrfAG2MkVujIE6xAdoy9) | [Rimi Natsukawa](https://open.spotify.com/artist/2AAMBmrNdim79LRSv1kKFn) | [会いたい \~かなさんどぉ\~](https://open.spotify.com/album/3u6FMj8KMrGbyV4ArlkPSd) | 4:37 | 2022-06-21 | 2022-06-29 |
 | [愛でほっぺ丼](https://open.spotify.com/track/3DmZS7Ua6MGW213lObJPoo) | [眉村ちあき](https://open.spotify.com/artist/4DjusI9WuKLk3cmsJGtl8T) | [愛でほっぺ丼](https://open.spotify.com/album/6z8cwZTM2VfMZcmHNMBZls) | 4:00 | 2022-06-02 | 2022-07-16 |
 | [愛のしるし](https://open.spotify.com/track/7Huzhd3UpthiZIf1UzRcGA) | [森七菜](https://open.spotify.com/artist/1IDjyCsCk5Xjy7RA7AQ8vy) | [愛のしるし](https://open.spotify.com/album/0E6klzABzldGWMc7DVYaEh) | 2:50 | 2022-08-09 | 2023-02-24 |

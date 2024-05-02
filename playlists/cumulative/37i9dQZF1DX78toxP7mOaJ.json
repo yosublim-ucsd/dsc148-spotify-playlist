@@ -3576,7 +3576,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 240630,
       "name": "BUTCHER'S BIN",
       "url": "https://open.spotify.com/track/05N99aG3BJQXVUPnTyde8l"
@@ -6202,7 +6202,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 328533,
       "name": "Demons",
       "url": "https://open.spotify.com/track/5WWgJlfoCLVheLcg0kUjAk"
@@ -7030,7 +7030,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 193000,
       "name": "Drive It All Over Me",
       "url": "https://open.spotify.com/track/11MSFxbaaiw9Ji2wWrskDl"
@@ -7970,7 +7970,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 221000,
       "name": "Fat Vampire",
       "url": "https://open.spotify.com/track/4I0JFzDSny3aMdYVrrBn96"
@@ -10730,7 +10730,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 208014,
       "name": "homesick.",
       "url": "https://open.spotify.com/track/2MjVUXgZcEQ2jPoQ8RB0or"
@@ -11404,7 +11404,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 224818,
       "name": "I hate when GIRLS die",
       "url": "https://open.spotify.com/track/2Zj1mz5b791QYiY388iBC5"
@@ -12782,7 +12782,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 172085,
       "name": "Just Like",
       "url": "https://open.spotify.com/track/1deniAR9BR8JhNG1679O63"
@@ -13243,6 +13243,24 @@
     },
     {
       "album": {
+        "name": "LEECHES (PLAY DEAD!)",
+        "url": "https://open.spotify.com/album/3xu19lAUjYda3wSieB6bhq"
+      },
+      "artists": [
+        {
+          "name": "Suzie True",
+          "url": "https://open.spotify.com/artist/4COdM5vE5byEogAXp1cghR"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "LEECHES (PLAY DEAD!)",
+      "url": "https://open.spotify.com/track/3d8jzlgadqM4KgaSBt8sce"
+    },
+    {
+      "album": {
         "name": "PRINCE OF THE UNDERGROUND",
         "url": "https://open.spotify.com/album/2VIABGmLDRn9twkThfT8Yz"
       },
@@ -13654,6 +13672,24 @@
       "duration_ms": 203957,
       "name": "Litterbug",
       "url": "https://open.spotify.com/track/3EyHqaFiAPjzDWzdM2NNaO"
+    },
+    {
+      "album": {
+        "name": "Little Flame",
+        "url": "https://open.spotify.com/album/4gWQWunCeVa63YYcCLGUgb"
+      },
+      "artists": [
+        {
+          "name": "Die Spitz",
+          "url": "https://open.spotify.com/artist/0zfZmpHTu0MlkkNr5KHeXE"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274838,
+      "name": "Little Flame",
+      "url": "https://open.spotify.com/track/2tiz3ZvuvP1LN6orWYJvww"
     },
     {
       "album": {
@@ -15696,7 +15732,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 172746,
       "name": "New Winds",
       "url": "https://open.spotify.com/track/5GHXwCaBSGE90ZboDYoyT2"
@@ -17376,6 +17412,24 @@
       "duration_ms": 176914,
       "name": "Pity",
       "url": "https://open.spotify.com/track/5vZKWdVTRrK4H8Itsi0wZO"
+    },
+    {
+      "album": {
+        "name": "Plant Pot Song",
+        "url": "https://open.spotify.com/album/57Xwk8VAERpxv7fYtXoRT1"
+      },
+      "artists": [
+        {
+          "name": "Indoor Foxes",
+          "url": "https://open.spotify.com/artist/6wsisvgmHy85OWQWa4TeBo"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189226,
+      "name": "Plant Pot Song",
+      "url": "https://open.spotify.com/track/5GYlldi6Qa1Px83vRKCuDj"
     },
     {
       "album": {

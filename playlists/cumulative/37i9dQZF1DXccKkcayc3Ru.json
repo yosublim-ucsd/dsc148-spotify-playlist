@@ -897,6 +897,24 @@
     },
     {
       "album": {
+        "name": "Life Record",
+        "url": "https://open.spotify.com/album/6B53SALx6Dw3XlLu3xHXOw"
+      },
+      "artists": [
+        {
+          "name": "TOCCHI",
+          "url": "https://open.spotify.com/artist/482miinoHCI8iYjETbUr79"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224377,
+      "name": "\u3053\u308c\u3060\u3051\u3067\u5341\u5206\u306a\u306e\u306b",
+      "url": "https://open.spotify.com/track/68FK1XsKnXg4BYG5m1f3qy"
+    },
+    {
+      "album": {
         "name": "HUG",
         "url": "https://open.spotify.com/album/76DxOsTwHzuGyD27vEYWKJ"
       },

@@ -1,5 +1,5 @@
 {
-  "2024-05-01": 161316,
+  "2024-05-02": 161403,
   "date_first_scraped": "2022-05-26",
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
   "name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
@@ -9619,7 +9619,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-18",
+      "date_removed": null,
       "duration_ms": 204480,
       "name": "Time is Over",
       "url": "https://open.spotify.com/track/4sY67ZLLwkuh5wn5sdwRHa"
@@ -11961,7 +11961,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 212480,
       "name": "\u30ac\u30fc\u30ea\u30fc\u30dc\u30fc\u30a4",
       "url": "https://open.spotify.com/track/0oRSPM7JaC60w4yuTjiMNX"

@@ -4564,7 +4564,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 244950,
       "name": "GOOD DAY",
       "url": "https://open.spotify.com/track/4DvepWnbBJzTb0jZZTqgPG"
@@ -10384,6 +10384,24 @@
       "duration_ms": 213000,
       "name": "Say It",
       "url": "https://open.spotify.com/track/65Z2lFJMMVdHpBCL0k5Qub"
+    },
+    {
+      "album": {
+        "name": "Say Something",
+        "url": "https://open.spotify.com/album/31JAgjW1z3qZaOsNarS1P4"
+      },
+      "artists": [
+        {
+          "name": "BRIDGE",
+          "url": "https://open.spotify.com/artist/05LTJdcIWfHyQXC1za07k8"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128888,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/0P8ndUdukXaLD07VY5Kkmk"
     },
     {
       "album": {

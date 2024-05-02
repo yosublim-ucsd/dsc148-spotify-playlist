@@ -1300,7 +1300,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 226200,
       "name": "Main Ladega Anthem (From \"Main Ladega\")",
       "url": "https://open.spotify.com/track/4npgHx2tbLa8qwPDwkiyDj"
@@ -1628,6 +1628,36 @@
       "duration_ms": 178604,
       "name": "Proper Patola",
       "url": "https://open.spotify.com/track/39ujbBjTwwqUFySaCYDMMT"
+    },
+    {
+      "album": {
+        "name": "Pushpa Pushpa (From \"Pushpa 2 The Rule\") [HINDI]",
+        "url": "https://open.spotify.com/album/2B8A82Xt4J6AXZRXfFOQGh"
+      },
+      "artists": [
+        {
+          "name": "Mika Singh",
+          "url": "https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13"
+        },
+        {
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+        },
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Raqueeb Alam",
+          "url": "https://open.spotify.com/artist/5DJ9Jdt2tfopA7eKuHCO4h"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256040,
+      "name": "Pushpa Pushpa (From \"Pushpa 2 The Rule\") [HINDI]",
+      "url": "https://open.spotify.com/track/1o0bFBGkxgxCnu6mg2YrP1"
     },
     {
       "album": {

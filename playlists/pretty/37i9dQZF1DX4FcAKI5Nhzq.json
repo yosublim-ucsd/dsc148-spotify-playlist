@@ -1,12 +1,12 @@
 {
   "description": "Future K-Pop hits! Cover: 82MAJOR",
-  "num_followers": 804952,
+  "num_followers": 805178,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zi9p4AAAAACc4o7V9ozQ1ofCLrkGIMPG",
+  "snapshot_id": "ZjHxOgAAAACe7EW1pf4/PmunsuKJGxj8",
   "tracks": [
     {
       "added_at": "2024-04-29 09:35:28",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/5fvQ0kElOryRWFaXQMORqT"
     },
     {
+      "added_at": "2024-05-01 07:37:30",
+      "album": {
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/19aLPZvIMIwom1XAdNOSSi"
+      },
+      "artists": [
+        {
+          "name": "JINJIN (ASTRO)",
+          "url": "https://open.spotify.com/artist/3U8ZnKIeY7sgQkIHjQDlHA"
+        }
+      ],
+      "duration_ms": 211500,
+      "name": "Fly (Duet with. MOONBIN(ASTRO))",
+      "url": "https://open.spotify.com/track/7bf7daBFnsOVCn9soOJoPG"
+    },
+    {
       "added_at": "2024-04-29 09:35:28",
       "album": {
         "name": "YUQ1",
@@ -39,6 +55,62 @@
       "duration_ms": 171080,
       "name": "FREAK",
       "url": "https://open.spotify.com/track/6ERs9uORCo1MfV0m9ixCuv"
+    },
+    {
+      "added_at": "2024-05-01 07:37:30",
+      "album": {
+        "name": "Affection",
+        "url": "https://open.spotify.com/album/7CH227zOs9JlxNtQ8Z6EK4"
+      },
+      "artists": [
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        }
+      ],
+      "duration_ms": 200160,
+      "name": "\ubc24\uc0c8",
+      "url": "https://open.spotify.com/track/6ounBpJVh2WXum1HEiMWan"
+    },
+    {
+      "added_at": "2024-04-29 09:35:28",
+      "album": {
+        "name": "HOW?",
+        "url": "https://open.spotify.com/album/2p5IDUbayBHcmcgSNIQx6V"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "duration_ms": 179040,
+      "name": "Earth, Wind & Fire",
+      "url": "https://open.spotify.com/track/0Tq7v8YAmwdnAYBwyR1pZ4"
+    },
+    {
+      "added_at": "2024-05-01 07:37:30",
+      "album": {
+        "name": "Diminished",
+        "url": "https://open.spotify.com/album/6YX73BggU7ueaQzV9PKXiO"
+      },
+      "artists": [
+        {
+          "name": "twlv",
+          "url": "https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "REDDY",
+          "url": "https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v"
+        }
+      ],
+      "duration_ms": 166750,
+      "name": "YES (feat. Jay Park, REDDY)",
+      "url": "https://open.spotify.com/track/7LlIANXlJFhzDHGqugugTp"
     },
     {
       "added_at": "2024-04-29 09:35:28",
@@ -57,6 +129,22 @@
       "url": "https://open.spotify.com/track/1K68S3pjjU9C4zbmxmY2yj"
     },
     {
+      "added_at": "2024-05-01 07:37:30",
+      "album": {
+        "name": "Jay Park Season 1",
+        "url": "https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 219742,
+      "name": "Your/My",
+      "url": "https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY"
+    },
+    {
       "added_at": "2024-04-29 09:35:28",
       "album": {
         "name": "BABYMONS7ER",
@@ -71,22 +159,6 @@
       "duration_ms": 170356,
       "name": "SHEESH",
       "url": "https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR"
-    },
-    {
-      "added_at": "2024-04-29 09:35:28",
-      "album": {
-        "name": "HOW?",
-        "url": "https://open.spotify.com/album/2p5IDUbayBHcmcgSNIQx6V"
-      },
-      "artists": [
-        {
-          "name": "BOYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
-        }
-      ],
-      "duration_ms": 179040,
-      "name": "Earth, Wind & Fire",
-      "url": "https://open.spotify.com/track/0Tq7v8YAmwdnAYBwyR1pZ4"
     },
     {
       "added_at": "2024-04-29 09:35:28",
@@ -635,30 +707,6 @@
     {
       "added_at": "2024-04-29 09:35:28",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3DSGgDuYRFGpmZjvm4sP3S"
-      },
-      "artists": [
-        {
-          "name": "Lil Moshpit",
-          "url": "https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy"
-        },
-        {
-          "name": "Paul Blanco",
-          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
-        },
-        {
-          "name": "Okasian",
-          "url": "https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO"
-        }
-      ],
-      "duration_ms": 143000,
-      "name": "Ugly - Spotify Singles",
-      "url": "https://open.spotify.com/track/1hewNMWyHhb2zLZMOIPVWq"
-    },
-    {
-      "added_at": "2024-04-29 09:35:28",
-      "album": {
         "name": "Only One",
         "url": "https://open.spotify.com/album/3CDMv5m8ffHTAXidBmY2XQ"
       },
@@ -707,22 +755,6 @@
     {
       "added_at": "2024-04-29 09:35:28",
       "album": {
-        "name": "Borderline",
-        "url": "https://open.spotify.com/album/3oKhPahFFjuFVbZfWprIkB"
-      },
-      "artists": [
-        {
-          "name": "YooA",
-          "url": "https://open.spotify.com/artist/4ur1jCwyNlhgd0viJkOtcQ"
-        }
-      ],
-      "duration_ms": 168653,
-      "name": "Rooftop",
-      "url": "https://open.spotify.com/track/2t3F6nsQqEw60KT8ma8dm4"
-    },
-    {
-      "added_at": "2024-04-29 09:35:28",
-      "album": {
         "name": "2 Kids On The Block - Part.3",
         "url": "https://open.spotify.com/album/7IbrzIkXcdevPIE4HnnFuR"
       },
@@ -743,38 +775,6 @@
       "duration_ms": 206173,
       "name": "PITAPA (Feat. pH-1, JUNNY)",
       "url": "https://open.spotify.com/track/1riVuC1J7WRgJhG5WrtXI4"
-    },
-    {
-      "added_at": "2024-04-29 09:35:28",
-      "album": {
-        "name": "Command C+Me (Korean Ver.)",
-        "url": "https://open.spotify.com/album/2MuSBLDI1BsUd7KG95WVKs"
-      },
-      "artists": [
-        {
-          "name": "JUN. K",
-          "url": "https://open.spotify.com/artist/4m69UKabjuuaoayREZud9h"
-        }
-      ],
-      "duration_ms": 171053,
-      "name": "Command C+Me (Korean Ver.)",
-      "url": "https://open.spotify.com/track/1TJC8umuPVI4Y0eFn5ROwe"
-    },
-    {
-      "added_at": "2024-04-29 09:35:28",
-      "album": {
-        "name": "HOUSE OF TRICKY : Trial And Error",
-        "url": "https://open.spotify.com/album/4JyXIbXVhgzCa7DU0K6V1O"
-      },
-      "artists": [
-        {
-          "name": "xikers",
-          "url": "https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht"
-        }
-      ],
-      "duration_ms": 189441,
-      "name": "We Don\u2019t Stop",
-      "url": "https://open.spotify.com/track/67ZvVtW278IHsAxnzglQt4"
     },
     {
       "added_at": "2024-04-29 09:35:28",
@@ -851,38 +851,6 @@
       "duration_ms": 182120,
       "name": "Easy",
       "url": "https://open.spotify.com/track/3Ved7PW54ZocefCpclZHcX"
-    },
-    {
-      "added_at": "2024-04-29 09:35:28",
-      "album": {
-        "name": "Falling Slowly",
-        "url": "https://open.spotify.com/album/4lG2OGvs8iKdosM1ehaZ4s"
-      },
-      "artists": [
-        {
-          "name": "DAESUNG",
-          "url": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
-        }
-      ],
-      "duration_ms": 237480,
-      "name": "Falling Slowly",
-      "url": "https://open.spotify.com/track/7efGmCE7FPDKmwyWnbcU0p"
-    },
-    {
-      "added_at": "2024-04-29 09:35:28",
-      "album": {
-        "name": "Lullaby",
-        "url": "https://open.spotify.com/album/7LbNOe1dTRHpP9hh48Merc"
-      },
-      "artists": [
-        {
-          "name": "HWANG MIN HYUN",
-          "url": "https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf"
-        }
-      ],
-      "duration_ms": 229373,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/5btyWod77lGbqKjEGRBvGw"
     },
     {
       "added_at": "2024-04-29 09:35:28",

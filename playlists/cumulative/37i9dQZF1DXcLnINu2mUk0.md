@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: João Maia Ferreira e Alex D'Alva.
 
-601 songs - 1 day 8 hr 3 min
+602 songs - 1 day 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -368,6 +368,7 @@
 | [Neblina](https://open.spotify.com/track/49SML6eNRInpgHhoZ0hRto) | [Trista](https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw) | [Neblina](https://open.spotify.com/album/0Mu3iU0aG1gwstlUxsiDdw) | 3:23 | 2024-02-16 |  |
 | [Negritude](https://open.spotify.com/track/4rgoNviXWceudmqv6B0ul2) | [Euryy](https://open.spotify.com/artist/0mYDvl1DdVl3KHSWckVwUp), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu), [MEM](https://open.spotify.com/artist/6Hfk8OlN3fiMSad3IxCNTy) | [Negritude](https://open.spotify.com/album/5fFdfNqLJPrhi1s98xlrsE) | 3:17 | 2023-06-22 | 2023-07-07 |
 | [Nha Love](https://open.spotify.com/track/6VlC9B6pTO5BNZozsm2j7w) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Nha Love](https://open.spotify.com/album/1inJQsJMoKg8QOzG5Ff02T) | 3:14 | 2023-04-27 | 2023-05-26 |
+| [NIAGARA](https://open.spotify.com/track/0FF1VE2GNCkHQWVu4Yh98M) | [Zalo](https://open.spotify.com/artist/401NM4m2Jvdjk0jH0B9YgL) | [NIAGARA](https://open.spotify.com/album/5DcpE1LAHLT7G9g1Fm1BG3) | 2:33 | 2024-04-25 |  |
 | [NIKES](https://open.spotify.com/track/6X8jYXB1nCKWdwKqdzkT4D) | [Lukky Boy](https://open.spotify.com/artist/5FlnhIR9qfozOYH8bfoeEF), [Dysae](https://open.spotify.com/artist/4tBin3wXRG4NDEbiHVpOLR) | [NIKES](https://open.spotify.com/album/2eoUv4LT4XjeD7a6voLFZ5) | 3:30 | 2023-02-17 | 2023-03-11 |
 | [Ninguém](https://open.spotify.com/track/2BoLPJf73XYyYExfYuOmRy) | [TYKID](https://open.spotify.com/artist/2F0NhKmoGrt2ImepX5Eze4) | [Ninguém](https://open.spotify.com/album/06zv7JC49c7rEuqLxV4rW1) | 3:12 | 2023-11-10 | 2023-11-18 |
 | [NO MO Parties](https://open.spotify.com/track/0NDkqCKa5lLfz0yUfH4vCZ) | [BiDU](https://open.spotify.com/artist/0g4pI2zFfWsjyvugZT0fBg) | [NO MO Parties](https://open.spotify.com/album/10ZSwv9JsEhXYfWsniwvEh) | 3:47 | 2023-03-03 | 2023-03-25 |
@@ -448,7 +449,7 @@
 | [Quem Tu Mereces](https://open.spotify.com/track/2qNu8tgL3PPubm8NzSQzb9) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3), [Kuptz](https://open.spotify.com/artist/5LzaJ0lNZxQBkZxzOqJYkd) | [Quem Tu Mereces](https://open.spotify.com/album/2tQ4nC33veFyfLbI0EwSo7) | 3:32 | 2024-02-09 |  |
 | [Quero Encontrar](https://open.spotify.com/track/13JbJ8nKqkuBg2uQG5BQHT) | [Burrz](https://open.spotify.com/artist/0jWbSiF3EIlsqIe1DjUnoh) | [Quero Encontrar](https://open.spotify.com/album/3egfgENT37TGdFDnzOROqh) | 3:00 | 2024-03-08 | 2024-04-19 |
 | [Quero Mais](https://open.spotify.com/track/6kQDYX5I2cP8oVx1RfWaxs) | [Reyz](https://open.spotify.com/artist/17NgBeR3LCYGxecmH0PTOl) | [Quero Mais](https://open.spotify.com/album/7fRIESyi6XlgpQVpnCXXk6) | 3:09 | 2023-06-08 | 2023-06-30 |
-| [Quero Ouvir](https://open.spotify.com/track/1VffI1MMgSsWDm1F6yEbzi) | [Xadrek Tchama](https://open.spotify.com/artist/5kKmFvn2U5YOQuuZACnVku) | [Quero Ouvir](https://open.spotify.com/album/3aSiD5EokYVlNJLnth3X8p) | 2:55 | 2024-04-18 |  |
+| [Quero Ouvir](https://open.spotify.com/track/1VffI1MMgSsWDm1F6yEbzi) | [Xadrek Tchama](https://open.spotify.com/artist/5kKmFvn2U5YOQuuZACnVku) | [Quero Ouvir](https://open.spotify.com/album/3aSiD5EokYVlNJLnth3X8p) | 2:55 | 2024-04-18 | 2024-05-02 |
 | [Quero\-te a Ti](https://open.spotify.com/track/6GILBGEhDI9k3VeAfgzxyw) | [FdAN](https://open.spotify.com/artist/20Ee6qv5FGmTxGbcs9tLm3) | [Quero\-te a Ti](https://open.spotify.com/album/1ZmBfvpD4fzZ8058BCVhKW) | 2:45 | 2023-07-27 | 2023-08-18 |
 | [Química](https://open.spotify.com/track/6HhCHim3sSAWiamanjMkv6) | [MDO \(Menino de Ouro\)](https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1) | [Química](https://open.spotify.com/album/5SArc0nP1ExSLHburSbLab) | 2:32 | 2024-04-25 |  |
 | [Rain](https://open.spotify.com/track/65GMCfqsrFRDSX7OWNoJeS) | [mishlawi](https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Rain](https://open.spotify.com/album/1Pa6gereIqgxt2gsqw8mkr) | 3:42 | 2022-07-07 | 2022-09-17 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Bad Religion. The essential tracks, all in one playlist.",
-  "num_followers": 75808,
+  "num_followers": 75826,
   "original_name": "This Is Bad Religion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zi7jAAAAAAC/iAQg4IzgSJoinFVNQfQt",
+  "snapshot_id": "ZjA0gAAAAAAmnYUqEzYsZfrvebMga+ub",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recipe For Hate",
-        "url": "https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 122813,
-      "name": "Recipe For Hate",
-      "url": "https://open.spotify.com/track/56V6F89n5wnU80jsZ9Rbqn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "True North",
         "url": "https://open.spotify.com/album/64wdVyEDGVxfRsanjWxy2z"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 115826,
       "name": "True North",
       "url": "https://open.spotify.com/track/58lZHE1P9WuNtoKJl9EoC7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recipe For Hate",
+        "url": "https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 122813,
+      "name": "Recipe For Hate",
+      "url": "https://open.spotify.com/track/56V6F89n5wnU80jsZ9Rbqn"
     },
     {
       "added_at": null,

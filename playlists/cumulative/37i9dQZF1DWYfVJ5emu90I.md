@@ -4,7 +4,7 @@
 
 > Heavy beats for midnight drifting in Tokyo.
 
-151 songs - 7 hr 22 min
+152 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Best Way 2 Die](https://open.spotify.com/track/1ZLqz5HjWXvx5Tjq8z8DZB) | [DJ CHARI](https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p), [DJ TATSUKI](https://open.spotify.com/artist/22CyfYzF7NMyITy8gKIYT5), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [YOUNGBONG](https://open.spotify.com/artist/1hvu40N8E6jm8OtwgCo6q1) | [Best Way 2 Die](https://open.spotify.com/album/0IPHOMKradmfeCU67d5pSZ) | 3:34 | 2022-11-19 |  |
 | [Beyond The Lines](https://open.spotify.com/track/32Ml2Ne1O7r26vPi5M27yB) | [JNKMN](https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L), [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N), [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd), [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [SPARTA](https://open.spotify.com/artist/1W67SONdxO66SPaqsC1TmA) | [Beyond The Lines](https://open.spotify.com/album/34Pey73JMexQK3Gwj13Y94) | 3:17 | 2022-11-19 | 2024-04-19 |
 | [Billy mandy](https://open.spotify.com/track/2y1FW35164P31qh04sjRt5) | [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM), [noma](https://open.spotify.com/artist/5lL3ZTc535xQeLqXH9cB3V) | [Doll](https://open.spotify.com/album/2zedgwCyhZLjsabfx6LEli) | 2:27 | 2022-11-19 | 2024-04-19 |
-| [Bless You](https://open.spotify.com/track/2K383ZayXoAnwZv9APSGx3) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [COMBO](https://open.spotify.com/album/2bhJ2iTDEnNwMpb2vwcY6P) | 2:10 | 2024-04-24 |  |
+| [Bless You](https://open.spotify.com/track/2K383ZayXoAnwZv9APSGx3) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [COMBO](https://open.spotify.com/album/2bhJ2iTDEnNwMpb2vwcY6P) | 2:10 | 2024-04-24 | 2024-05-02 |
 | [BRAND NEW](https://open.spotify.com/track/1BVsrwJGA5Uf1DNiHKWPCW) | [Won](https://open.spotify.com/artist/5cNZg8qn03Tuqe9xfLbeN5), [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [YamieZimmer](https://open.spotify.com/artist/7aqyXIegZ72uUh7d1AXR3z) | [BRAND NEW](https://open.spotify.com/album/4QPBhQbCWxO3uvPbi4v5w3) | 2:50 | 2022-11-19 | 2024-02-07 |
 | [BRAND NEW](https://open.spotify.com/track/1d4bUyO0JCNvuwaycbYUG8) | [₩](https://open.spotify.com/artist/5QkamTXwLqr5Ja8RCiu3XF), [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [YamieZimmer](https://open.spotify.com/artist/7aqyXIegZ72uUh7d1AXR3z) | [BRAND NEW](https://open.spotify.com/album/5JYgaLjiX0ozaQctcGsf5A) | 2:50 | 2024-02-27 | 2024-04-24 |
 | [Codatronca](https://open.spotify.com/track/2sNfsMEVjAX6vgexFiINEx) | [Spada](https://open.spotify.com/artist/2bkUNcBS4bP8AIodraQqz7) | [Codatronca](https://open.spotify.com/album/3c9sv1uCmgvPfQioCs03pi) | 3:14 | 2022-11-19 | 2023-05-24 |
@@ -158,6 +158,7 @@
 | [YAJU](https://open.spotify.com/track/1MfRRNBWo54y4ZF23SivXg) | [rirugiliyangugili](https://open.spotify.com/artist/2ojo5MBGfvdfO3Iql07wu9), [Yokai Jaki](https://open.spotify.com/artist/1KWYZKBQJ1ClZWnEpOPAYp) | [YAJU](https://open.spotify.com/album/634B4kQFuSotpTdv8fTvBB) | 2:12 | 2022-11-19 | 2023-05-24 |
 | [YAPPA](https://open.spotify.com/track/0Z0SFVUgp96U4BkrsSYII0) | [SKOLOR](https://open.spotify.com/artist/5h8iTRYvWcWxXcDkefed0n) | [YAPPA](https://open.spotify.com/album/2kclqoWmIj9o6ydLvime3D) | 2:03 | 2022-11-19 | 2023-09-15 |
 | [ぶっ生き返す](https://open.spotify.com/track/0AGcDWKAaClin5VepgC5NS) | [夜猫族](https://open.spotify.com/artist/0cXfVqFUDlUCSKJ7e1wfYJ), [XakiMichele](https://open.spotify.com/artist/0besGoEYPqYySQsScpUqVl), [tip jam](https://open.spotify.com/artist/2ZEpXsofiBwEhDv21FAqEe), [Tade Dust](https://open.spotify.com/artist/5c6lWvTCMWDYRraVAEIm9G) | [ぶっ生き返す](https://open.spotify.com/album/3K1EI1TiKSHcTCEHKiv4RV) | 2:49 | 2024-04-24 |  |
+| [ヤバいな](https://open.spotify.com/track/1acXpvOjQiCDgEkPLPFupe) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [ヤバいな](https://open.spotify.com/album/4vOk4ViilWFM1MUCO94oU8) | 2:29 | 2024-05-01 |  |
 | [借り物 GOLD Tesla](https://open.spotify.com/track/516qLLDr8BVG6nMw48bvPy) | [SHO](https://open.spotify.com/artist/5LB9PUYILc91y1BHtqJL4d) | [借り物 GOLD Tesla](https://open.spotify.com/album/2IFNXdoTkrm7Ca1lvDnq5K) | 2:44 | 2024-02-27 | 2024-04-24 |
 
 \*This playlist was first scraped on 2022-11-25. Prior content cannot be recovered.

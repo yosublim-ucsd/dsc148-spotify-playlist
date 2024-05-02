@@ -1,12 +1,12 @@
 {
   "description": "This is Thursday. The essential tracks, all in one playlist.",
-  "num_followers": 4080,
+  "num_followers": 4085,
   "original_name": "This Is Thursday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zi7jAAAAAACbPhu6ePifcnmdO2okLLYp",
+  "snapshot_id": "ZjA0gAAAAACoHnaRFktLS7c3TisPYMAy",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Devoluci\u00f3n",
-        "url": "https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 285226,
-      "name": "Sparks Against the Sun",
-      "url": "https://open.spotify.com/track/3Z6YLC5MoKWjqepMsH7k6k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A City By The Light Divided",
         "url": "https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B"
       },
@@ -411,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
+        "name": "No Devoluci\u00f3n",
+        "url": "https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT"
       },
       "artists": [
         {
@@ -420,9 +404,9 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 266653,
-      "name": "Streaks in the Sky",
-      "url": "https://open.spotify.com/track/6gHLLRQFPezsdsDieIVbJ5"
+      "duration_ms": 285226,
+      "name": "Sparks Against the Sun",
+      "url": "https://open.spotify.com/track/3Z6YLC5MoKWjqepMsH7k6k"
     },
     {
       "added_at": null,
@@ -451,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Devoluci\u00f3n",
-        "url": "https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT"
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
       },
       "artists": [
         {
@@ -460,9 +444,9 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 219653,
-      "name": "A Darker Forest",
-      "url": "https://open.spotify.com/track/52rlffXbQz0acv4hYV3YDr"
+      "duration_ms": 266653,
+      "name": "Streaks in the Sky",
+      "url": "https://open.spotify.com/track/6gHLLRQFPezsdsDieIVbJ5"
     },
     {
       "added_at": null,
@@ -479,6 +463,22 @@
       "duration_ms": 250853,
       "name": "Friends In The Armed Forces",
       "url": "https://open.spotify.com/track/4IALJqOdZE5pwUaL6ag1Ko"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Devoluci\u00f3n",
+        "url": "https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 219653,
+      "name": "A Darker Forest",
+      "url": "https://open.spotify.com/track/52rlffXbQz0acv4hYV3YDr"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Devoluci\u00f3n",
-        "url": "https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 292573,
-      "name": "No Answers",
-      "url": "https://open.spotify.com/track/1bOU4Dk4iw4N2XXP3JRm0P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Common Existence (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 181826,
       "name": "As He Climbed The Dark Mountain",
       "url": "https://open.spotify.com/track/0CraZjvIB4XJ87tC7N5Zcn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Devoluci\u00f3n",
+        "url": "https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 292573,
+      "name": "No Answers",
+      "url": "https://open.spotify.com/track/1bOU4Dk4iw4N2XXP3JRm0P"
     },
     {
       "added_at": null,
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 202598,
-      "name": "Resuscitation of a Dead Man",
-      "url": "https://open.spotify.com/track/6V2cc0uw6vMEDGsCEF6N1k"
+      "duration_ms": 243760,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/4LKXbWFPS9uTbkziBl3L7g"
     },
     {
       "added_at": null,
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 243760,
-      "name": "Last Call",
-      "url": "https://open.spotify.com/track/4LKXbWFPS9uTbkziBl3L7g"
+      "duration_ms": 202598,
+      "name": "Resuscitation of a Dead Man",
+      "url": "https://open.spotify.com/track/6V2cc0uw6vMEDGsCEF6N1k"
     },
     {
       "added_at": null,

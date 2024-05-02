@@ -4,7 +4,7 @@
 
 > Breathe deep, close your eyes, immerse yourself...\. Water and rain sounds mixed with Tibetan meditation bowls and ambient music, to help you find inner balance.
 
-116 songs - 5 hr 46 min
+121 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Alternating Current](https://open.spotify.com/track/30le0rSu3t2XDWUqVJpksU) | [Heriela](https://open.spotify.com/artist/4Z39bNE8YlLs57YzOp6bWY) | [Alternating Current](https://open.spotify.com/album/31yaFYn1OpYbqEUlcL1ssU) | 4:02 | 2023-02-13 |  |
 | [Archipelago \(432 Hz\)](https://open.spotify.com/track/1QFfumreyLnZ4qtxCx6cpK) | [Drömlandskap](https://open.spotify.com/artist/02S4ky4seZriPGxQ2JWQqe) | [Archipelago](https://open.spotify.com/album/5WSFpBbwZiS1BVXyO6eU21) | 2:48 | 2022-12-12 |  |
 | [Aura Bowls](https://open.spotify.com/track/13SfgjQv7gtBhewnS4Vcp3) | [Drone\-Dax](https://open.spotify.com/artist/1aNjBrjn3QJrMcfE6jcwdZ) | [Droning Bowls](https://open.spotify.com/album/7Mm1anxbwaKYrq3xHEmjLL) | 2:14 | 2022-12-12 | 2023-09-02 |
+| [Bathing in Sound Bowls](https://open.spotify.com/track/3nAaKu83XNXyd3QzZmIIJ5) | [Larrek](https://open.spotify.com/artist/6VFekblOut967g4jD8w46E) | [Bathing in Sound Bowls](https://open.spotify.com/album/3jF4K2BvsF0JNtcDqK5H1O) | 3:12 | 2024-05-01 |  |
 | [Bheetar dekho](https://open.spotify.com/track/5h0CaDOGz03xtjBEERCpKi) | [Zensi Rohr](https://open.spotify.com/artist/0hNw8GAS4OY89yOgEwj73C) | [Chup rahen](https://open.spotify.com/album/3wwWKjuWGGcAGZ4jcAhxka) | 4:11 | 2023-02-13 | 2024-01-26 |
 | [Bhitrī Baccā](https://open.spotify.com/track/7BMqSdQgPmIBEbPO0nB58e) | [Shaolin Healing Bowls](https://open.spotify.com/artist/732WtPnj4sgGImwVF8Y9rW) | [Bhitrī Baccā](https://open.spotify.com/album/51Tegpp8tF2mM5r7irV2vD) | 3:03 | 2023-10-13 | 2023-10-17 |
 | [Bodhisattva \(Sound Bath\)](https://open.spotify.com/track/1VpB6JKz3hN1sAZVLtgVie) | [Dakpa Nepali](https://open.spotify.com/artist/6ehZfyyber5F5KyAUtlYob) | [Dakpa Nepali](https://open.spotify.com/album/1ebhcZPcYlwJ7uQhIn3YvT) | 3:28 | 2022-12-12 |  |
@@ -33,6 +34,7 @@
 | [Devine Waves](https://open.spotify.com/track/38pWBkFjXOqZ5f6bGOj1L4) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Devine Waves](https://open.spotify.com/album/7987vByLF9HkepU0VIabSG) | 2:21 | 2022-12-12 | 2023-09-02 |
 | [Dormire Bowls](https://open.spotify.com/track/2jYioAcAHOTxS4IPu0zZxO) | [Temple of Schrawa](https://open.spotify.com/artist/246BPwHoKsivpZL7i7Q1Lt) | [Dormire Bowls](https://open.spotify.com/album/2Xh3s8zADoWWZ5Qzzch0sl) | 2:59 | 2022-12-12 |  |
 | [Dreaming Singing Bowls](https://open.spotify.com/track/2YCBtr5II3Vx7AL3q5DlMM) | [Kayce Laine](https://open.spotify.com/artist/7cFbIyFpJivCMZjpiy3yBb) | [Dreaming Singing Bowls](https://open.spotify.com/album/1NydFdGbNmkxrHC26krN0y) | 2:41 | 2024-03-20 |  |
+| [Drifting Away](https://open.spotify.com/track/2OcR4AVhkv1aQl51LOrv7L) | [Hans Jacob](https://open.spotify.com/artist/6gT2Bu1wTc1uHC5NcJV0gQ) | [Drifting Away](https://open.spotify.com/album/1r1ROhlKfkqa4ulXennJPg) | 3:23 | 2024-05-01 |  |
 | [Ecos de Meditación \(Nature\)](https://open.spotify.com/track/1iIpF6fS9mkf275Gun2wl7) | [Esmeraldas](https://open.spotify.com/artist/1mIhqTBJzWF8W2iWSuuO8f) | [Renacer en Calma](https://open.spotify.com/album/7rhUJ9JlU3L2j4TZdyFoLW) | 2:40 | 2023-08-02 |  |
 | [Emotional Healing Singing Bowls](https://open.spotify.com/track/2Bpj8ZnUoULU0wTu3cXnBs) | [Divijata Ash](https://open.spotify.com/artist/5CRHdG2bIiKcAsRwAmJqwg) | [Trul Khor](https://open.spotify.com/album/6EPg16Obi0b5ccQ9qGE5Jp) | 3:27 | 2022-12-12 |  |
 | [Empty Sky](https://open.spotify.com/track/5VyH1pUqv4e9WsW4PWQUHC) | [Chris Lukas](https://open.spotify.com/artist/2PYNWD01lteVriJrx1nzz9) | [I know a secret](https://open.spotify.com/album/1tD6EUliMH0tw0fW9b9eOS) | 2:26 | 2022-12-12 |  |
@@ -52,6 +54,7 @@
 | [Heavenly Harmony](https://open.spotify.com/track/51HmqenuPlvudo20PcSxqB) | [Underwater Sound](https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq) | [Heavenly Harmony](https://open.spotify.com/album/0UNyqJLmNwlDwb5IxXaGeo) | 3:12 | 2023-08-02 |  |
 | [Heavenly Harmony \(with Ocean Waves\)](https://open.spotify.com/track/5a6nLJZ0vJITEDPvddKgvN) | [Underwater Sound](https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq) | [Heavenly Harmony](https://open.spotify.com/album/0UNyqJLmNwlDwb5IxXaGeo) | 3:16 | 2023-02-13 |  |
 | [Heavenly Lakes](https://open.spotify.com/track/40g7lkBDUGABMbWzqcSxAv) | [Namtso Healing](https://open.spotify.com/artist/1WcNbQEr7rUYmTZ8wX79nT) | [Sacred River](https://open.spotify.com/album/7Jxz7WCwSPpawViRRIgiqC) | 3:03 | 2022-12-12 |  |
+| [Here I Am](https://open.spotify.com/track/3kW6tdVcGknHS7C8bqOJJg) | [Larrek](https://open.spotify.com/artist/6VFekblOut967g4jD8w46E) | [Here I Am](https://open.spotify.com/album/2Lurpx1blPvhRn30iFvHn6) | 3:08 | 2024-05-01 |  |
 | [Himalayan fall](https://open.spotify.com/track/6OcxaeuLwvO4CD8Ns4my1P) | [Aura Lynx](https://open.spotify.com/artist/44mPTx3kx8S0Qj5SyliYIK) | [Himalayan fall](https://open.spotify.com/album/3wiNGfzTvMAYHyEPrLimVw) | 2:46 | 2022-12-12 |  |
 | [Immortal Grounds \(Tibetan Bowls & Babbling Brook\)](https://open.spotify.com/track/3OOrH4Rsxde5KZW4kxhBrV) | [Relaxing Tibetan Singing Bowls](https://open.spotify.com/artist/7eWhSlk1SPRRFkt9l6QE7R) | [Immortal Grounds \(Tibetan Bowls\)](https://open.spotify.com/album/7mNJ2OhKnOiIuOAa61YzAb) | 3:00 | 2022-12-12 | 2024-03-21 |
 | [Inner Light Drone](https://open.spotify.com/track/4dSeijjBdhY6mpDAYKcIvY) | [Medi Mindler](https://open.spotify.com/artist/2ltLAvYUvTFOgaovdZYUbr) | [Inner Light](https://open.spotify.com/album/4kvUcCrtts59ZVaRzIYHeV) | 2:09 | 2022-12-12 | 2023-04-07 |
@@ -78,6 +81,7 @@
 | [Peaceful Forest](https://open.spotify.com/track/1xSyi9us6iDJ5jKsKMFC5Z) | [Lotus Mind](https://open.spotify.com/artist/4WJQ14cSIRntdUhIbMZ6vh) | [Deep Focus Meditation](https://open.spotify.com/album/5zRMotDPBIeygM03tP2pv1) | 2:54 | 2023-01-13 |  |
 | [Place to rest](https://open.spotify.com/track/7IBYtHBUBCHzKfl5hcojdq) | [Himalayan Meditation](https://open.spotify.com/artist/2XMxTDifaHaXbbKHC1AmvH) | [Place to rest](https://open.spotify.com/album/5uyPLvnu3CnZLFjUKTQ8TA) | 3:00 | 2023-08-02 |  |
 | [Pristine Serenity](https://open.spotify.com/track/2CttcShYdFruE99bOglV8x) | [Calmatics](https://open.spotify.com/artist/37sS66WbTIbdn4ewquyWhw) | [Pristine Serenity](https://open.spotify.com/album/6AcVoBF3DeDJyDy8OrQXEM) | 2:40 | 2022-12-12 |  |
+| [Protection](https://open.spotify.com/track/2vhazMk9Olu6ztnxcKZwzI) | [JourneyBox](https://open.spotify.com/artist/0ocsTfx1K6pwl9U26u9sc1) | [Onyx](https://open.spotify.com/album/4yp6yie77sPKeKRh14SRVi) | 4:01 | 2024-05-01 |  |
 | [Pure Mind \(Nature\)](https://open.spotify.com/track/4y8QlJtSkm8z8k9Xn46v60) | [Yoo Woon](https://open.spotify.com/artist/0edoMxbwiiVrAXcJmTk4ml) | [Pure Mind](https://open.spotify.com/album/6EV5DP2pL2Eo4LAXHtMOnT) | 2:33 | 2023-01-13 |  |
 | [Quiet Explorer](https://open.spotify.com/track/5QCepve7pVYDH3r81mx2tC) | [Devon Fall](https://open.spotify.com/artist/7dUjQYaR5Qa3fS8w5CN3pN) | [Quiet Explorer](https://open.spotify.com/album/3vKpYojebacZJInuEd09Cl) | 3:07 | 2024-03-20 |  |
 | [Rain Lulang](https://open.spotify.com/track/0it6dOQ7wKLCQMHn3nOWNO) | [Calmiosure](https://open.spotify.com/artist/6ECnZS2L9Yn6KY0KzBOkLf) | [Rain Lulang](https://open.spotify.com/album/1AkqHDGkLmGOhfCROXqkg5) | 3:17 | 2022-12-12 |  |
@@ -117,6 +121,7 @@
 | [Tibetan Meditation Sound \(Sound Bath\)](https://open.spotify.com/track/5w9QsXkeT7nJ0kv3adurH6) | [Elof Sunflower](https://open.spotify.com/artist/6BncFvDvMh4Z9JZ04ujVpa) | [Mindful Meditation](https://open.spotify.com/album/1RkIzOVRLMe6VJezRD32c6) | 3:26 | 2022-12-12 | 2024-01-26 |
 | [Tobias \- Sohn Aelia \- Herinneringen \(Sound Bath\).wav](https://open.spotify.com/track/5SFH2CpaArQW2iO9MWRhIW) | [Sohn Aelia](https://open.spotify.com/artist/58PoZ2UB30eX8jppZ6B87i) | [Herinneringen](https://open.spotify.com/album/4venH2zVkTvqtDlefzOWin) | 3:05 | 2023-04-26 | 2023-08-03 |
 | [Transcend Ego 432 Hz](https://open.spotify.com/track/6OH0oW8GbQkmn5NthSMu3x) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Solfeggio Frequencies: Aligning for Change](https://open.spotify.com/album/2F3sPtIXbBmr6cknoZAWLE) | 3:34 | 2023-01-13 |  |
+| [Upacāra](https://open.spotify.com/track/3a3t7X0PgYf1VHRWLz5dRx) | [Shaolin Healing Bowls](https://open.spotify.com/artist/732WtPnj4sgGImwVF8Y9rW) | [Upacāra](https://open.spotify.com/album/2dJJS3ttvs73KgJOb1NBLz) | 3:08 | 2024-05-01 |  |
 | [Utopia](https://open.spotify.com/track/7BtonY4mBApPSoWPA4ftVc) | [Himalayan Meditation](https://open.spotify.com/artist/2XMxTDifaHaXbbKHC1AmvH) | [Utopia](https://open.spotify.com/album/62FbjoNa0papLrwew0aMMG) | 3:08 | 2023-10-13 | 2024-01-26 |
 | [Voltana Stream](https://open.spotify.com/track/6sIR6twFo9BbQBIdJJIyko) | [Bellezza Eterna](https://open.spotify.com/artist/3ekUIJNMmdW9bAYSKDzNNk) | [Voltana Stream](https://open.spotify.com/album/01TlxZRNxaF43CoWk8JnRF) | 2:28 | 2022-12-12 |  |
 | [Waterfall Rhythm](https://open.spotify.com/track/6d3wdsVgFYKoep39EG79II) | [Sven Dawa Sherpa](https://open.spotify.com/artist/33ZHRfd906t180hJyP1y2A) | [Waterfall Rhythm](https://open.spotify.com/album/3NLKDYBXb8Uu1j8FVnABR4) | 1:50 | 2022-12-12 | 2023-09-02 |

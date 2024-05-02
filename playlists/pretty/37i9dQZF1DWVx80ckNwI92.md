@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 
 > The future of African Indie and Alternative\. Cover: Spoek Mathambo
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,516 likes - 66 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,518 likes - 66 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

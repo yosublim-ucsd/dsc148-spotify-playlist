@@ -2,14 +2,15 @@
 
 ### [RADAR Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX0dUsjwqfaGM)
 
-> Thế hệ nghệ sĩ mới\. Ảnh bìa: Teddie J
+> Thế hệ nghệ sĩ mới\. Ảnh bìa: SIXTYUPTOWN
 
-103 songs - 6 hr 0 min
+104 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [7711 \(bảy bảy một một\) \[Acoustic Ver\]](https://open.spotify.com/track/57oEOsLQGQto9vUvMVB3Vy) | [Minh Đinh](https://open.spotify.com/artist/4NfuHLESitkh66LOZeyzsu) | [7711 \(bảy bảy một một\) \[Acoustic Ver\]](https://open.spotify.com/album/703wXKqIsuE8ltDw4p112m) | 3:13 | 2023-04-13 |  |
 | [7711\(bảy bảy một một\) \- Acoustic](https://open.spotify.com/track/6BqI12kwPo7f1D6hHFq9Mc) | [Minh Đinh](https://open.spotify.com/artist/4NfuHLESitkh66LOZeyzsu) | [7711\(bảy bảy một một\) \[Acoustic\]](https://open.spotify.com/album/1i9f50j6IwhHwnFwnoNLAz) | 3:13 | 2023-07-25 | 2024-04-19 |
+| [anh chưa quên được em \(2AM Freestyle\)](https://open.spotify.com/track/2wKRXynEFTZRAbCzxaLv6F) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay), [Larria.](https://open.spotify.com/artist/1qdb7jDQjPd8WWpayCRh5V) | [anh chưa quên được em \(2AM Freestyle\)](https://open.spotify.com/album/6IotTHyZ9lQvylBqTEvhFY) | 2:32 | 2024-05-02 |  |
 | [baby bên ngoài lạnh lắm](https://open.spotify.com/track/51OTmsWRlrHHKssnx5AZj6) | [kidsai](https://open.spotify.com/artist/6kkA6laUMR0hzML9YY98CQ), [Young Draco](https://open.spotify.com/artist/601J3nke3wUjbOx0hWY9uA), [Blunt](https://open.spotify.com/artist/3wQDIUs8dMGv8fmHMpTLm7) | [baby bên ngoài lạnh lắm](https://open.spotify.com/album/6txNspO1Mna3FI3LZO7Acb) | 3:12 | 2023-09-14 | 2023-11-22 |
 | [Bad Performance](https://open.spotify.com/track/3zama7xcVNrWj6nLCw9a2x) | [Coldzy](https://open.spotify.com/artist/401ikVSob52311M6Fwnunt) | [Bad Performance](https://open.spotify.com/album/2CKrFtn7APctaOCi10UZ4S) | 3:42 | 2023-04-13 |  |
 | [Biết Sao Được](https://open.spotify.com/track/5oksT9bmSgHN9gaKvmpgXp) | [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7), [Coldzy](https://open.spotify.com/artist/401ikVSob52311M6Fwnunt), [Lý Bực](https://open.spotify.com/artist/1pqC3oSnMeSmehSgahdji5) | [Biết Sao Được](https://open.spotify.com/album/5Pl9ObSp8EPfkdehTqrTel) | 3:01 | 2022-09-09 | 2024-04-03 |

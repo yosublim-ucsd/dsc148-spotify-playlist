@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Feyj\u00e3o, Gilberto Gil",
-  "num_followers": 343556,
+  "num_followers": 343581,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,18 @@
     {
       "added_at": "2024-04-29 19:36:14",
       "album": {
-        "name": "Codinome Beija-Flor",
-        "url": "https://open.spotify.com/album/2aoPktEuK22sa3LfIzXVBv"
+        "name": "Novela",
+        "url": "https://open.spotify.com/album/7n5kZhxjk76GU7ssMkgjOd"
       },
       "artists": [
         {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        },
-        {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+          "name": "C\u00e9u",
+          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
         }
       ],
-      "duration_ms": 149000,
-      "name": "Codinome Beija-Flor",
-      "url": "https://open.spotify.com/track/1xvxg4ozT4BraLO662IEwA"
+      "duration_ms": 160231,
+      "name": "Cremosa",
+      "url": "https://open.spotify.com/track/0Zq70S17PSVxiRewtTtzy2"
     },
     {
       "added_at": "2024-04-29 19:36:14",
@@ -383,18 +379,22 @@
     {
       "added_at": "2024-04-29 19:36:14",
       "album": {
-        "name": "Novela",
-        "url": "https://open.spotify.com/album/7n5kZhxjk76GU7ssMkgjOd"
+        "name": "Codinome Beija-Flor",
+        "url": "https://open.spotify.com/album/2aoPktEuK22sa3LfIzXVBv"
       },
       "artists": [
         {
-          "name": "C\u00e9u",
-          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        },
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
         }
       ],
-      "duration_ms": 160231,
-      "name": "Cremosa",
-      "url": "https://open.spotify.com/track/0Zq70S17PSVxiRewtTtzy2"
+      "duration_ms": 149000,
+      "name": "Codinome Beija-Flor",
+      "url": "https://open.spotify.com/track/1xvxg4ozT4BraLO662IEwA"
     },
     {
       "added_at": "2024-04-29 19:36:14",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-04-29 19:36:14",
       "album": {
-        "name": "Se o Meu Peito Fosse o Mundo (Lado A)",
-        "url": "https://open.spotify.com/album/1Gek78mZmJYLX2dVejnAN4"
-      },
-      "artists": [
-        {
-          "name": "Jota.p\u00ea",
-          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
-        }
-      ],
-      "duration_ms": 177099,
-      "name": "Um, Dois, Tr\u00eas",
-      "url": "https://open.spotify.com/track/4TB1pJy7ReBCbJtO1b4U7i"
-    },
-    {
-      "added_at": "2024-04-29 19:36:14",
-      "album": {
         "name": "Faz Parte Do Meu Show",
         "url": "https://open.spotify.com/album/4YyhntF13f93ty7GdhyjI1"
       },
@@ -507,6 +491,42 @@
       "duration_ms": 163426,
       "name": "Faz Parte Do Meu Show",
       "url": "https://open.spotify.com/track/2c9cy32pkhuznDXIN0eWMG"
+    },
+    {
+      "added_at": "2024-04-29 19:36:14",
+      "album": {
+        "name": "Se o Meu Peito Fosse o Mundo (Lado A)",
+        "url": "https://open.spotify.com/album/1Gek78mZmJYLX2dVejnAN4"
+      },
+      "artists": [
+        {
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        }
+      ],
+      "duration_ms": 177099,
+      "name": "Um, Dois, Tr\u00eas",
+      "url": "https://open.spotify.com/track/4TB1pJy7ReBCbJtO1b4U7i"
+    },
+    {
+      "added_at": "2024-04-29 19:36:14",
+      "album": {
+        "name": "Gerando na Alta",
+        "url": "https://open.spotify.com/album/4BSFDWZXGcfjqteEakRbvb"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9u",
+          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+        },
+        {
+          "name": "anaiis",
+          "url": "https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl"
+        }
+      ],
+      "duration_ms": 248485,
+      "name": "Gerando na Alta",
+      "url": "https://open.spotify.com/track/2VkyGDJt5GufPlriJfDkNJ"
     },
     {
       "added_at": "2024-04-29 19:36:14",
@@ -563,26 +583,6 @@
     {
       "added_at": "2024-04-29 19:36:14",
       "album": {
-        "name": "Gerando na Alta",
-        "url": "https://open.spotify.com/album/4BSFDWZXGcfjqteEakRbvb"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9u",
-          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
-        },
-        {
-          "name": "anaiis",
-          "url": "https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl"
-        }
-      ],
-      "duration_ms": 248485,
-      "name": "Gerando na Alta",
-      "url": "https://open.spotify.com/track/2VkyGDJt5GufPlriJfDkNJ"
-    },
-    {
-      "added_at": "2024-04-29 19:36:14",
-      "album": {
         "name": "Pago Pra Ver",
         "url": "https://open.spotify.com/album/0NBS6JybiWavZoRw4vgwOD"
       },
@@ -599,26 +599,6 @@
       "duration_ms": 272559,
       "name": "Pago Pra Ver",
       "url": "https://open.spotify.com/track/51i39xBUMKudsDCPqjQF1h"
-    },
-    {
-      "added_at": "2024-04-29 19:36:14",
-      "album": {
-        "name": "Ao Arrepio da Lei",
-        "url": "https://open.spotify.com/album/1UwTMohdeycHtJFsRJ4nCY"
-      },
-      "artists": [
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        },
-        {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
-        }
-      ],
-      "duration_ms": 219744,
-      "name": "Ao Arrepio da Lei",
-      "url": "https://open.spotify.com/track/4xsVg1mKcHTHa9gxqeuiNA"
     },
     {
       "added_at": "2024-04-29 19:36:14",
@@ -643,6 +623,26 @@
       "duration_ms": 185777,
       "name": "ESTRELA",
       "url": "https://open.spotify.com/track/0ATewX9eHprIqyQvcIjUVD"
+    },
+    {
+      "added_at": "2024-04-29 19:36:14",
+      "album": {
+        "name": "Ao Arrepio da Lei",
+        "url": "https://open.spotify.com/album/1UwTMohdeycHtJFsRJ4nCY"
+      },
+      "artists": [
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        },
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        }
+      ],
+      "duration_ms": 219744,
+      "name": "Ao Arrepio da Lei",
+      "url": "https://open.spotify.com/track/4xsVg1mKcHTHa9gxqeuiNA"
     },
     {
       "added_at": "2024-04-29 19:36:14",
@@ -683,6 +683,26 @@
     {
       "added_at": "2024-04-29 19:36:14",
       "album": {
+        "name": "Coment\u00e1rio a Respeito de John",
+        "url": "https://open.spotify.com/album/6WOf0ipvapNBTYVxG1SF54"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        },
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        }
+      ],
+      "duration_ms": 205215,
+      "name": "Coment\u00e1rio a Respeito de John",
+      "url": "https://open.spotify.com/track/1WtlomCakUltiZqz4TsV6R"
+    },
+    {
+      "added_at": "2024-04-29 19:36:14",
+      "album": {
         "name": "Paisagem",
         "url": "https://open.spotify.com/album/6QJfLIoORUht7DGSfZmcNo"
       },
@@ -703,22 +723,22 @@
     {
       "added_at": "2024-04-29 19:36:14",
       "album": {
-        "name": "Coment\u00e1rio a Respeito de John",
-        "url": "https://open.spotify.com/album/6WOf0ipvapNBTYVxG1SF54"
+        "name": "OUTONO",
+        "url": "https://open.spotify.com/album/37qt44UvPlfYZMc7TvqqMF"
       },
       "artists": [
         {
-          "name": "Vanessa Da Mata",
-          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+          "name": "Francisco, el Hombre",
+          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
         },
         {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+          "name": "Pato Fu",
+          "url": "https://open.spotify.com/artist/4NSbUIfUAkaedUIm8eJ631"
         }
       ],
-      "duration_ms": 205215,
-      "name": "Coment\u00e1rio a Respeito de John",
-      "url": "https://open.spotify.com/track/1WtlomCakUltiZqz4TsV6R"
+      "duration_ms": 229549,
+      "name": "OUTONO",
+      "url": "https://open.spotify.com/track/3bqDCnOGSSv2ELoAs7tfeZ"
     },
     {
       "added_at": "2024-04-29 19:36:14",
@@ -747,26 +767,6 @@
       "duration_ms": 264154,
       "name": "Tigresa - Ao Vivo no Coala Festival 2022",
       "url": "https://open.spotify.com/track/5LE9mtdwNWyZ1eLkfCB972"
-    },
-    {
-      "added_at": "2024-04-29 19:36:14",
-      "album": {
-        "name": "OUTONO",
-        "url": "https://open.spotify.com/album/37qt44UvPlfYZMc7TvqqMF"
-      },
-      "artists": [
-        {
-          "name": "Francisco, el Hombre",
-          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
-        },
-        {
-          "name": "Pato Fu",
-          "url": "https://open.spotify.com/artist/4NSbUIfUAkaedUIm8eJ631"
-        }
-      ],
-      "duration_ms": 229549,
-      "name": "OUTONO",
-      "url": "https://open.spotify.com/track/3bqDCnOGSSv2ELoAs7tfeZ"
     },
     {
       "added_at": "2024-04-29 19:36:14",
@@ -927,6 +927,26 @@
     {
       "added_at": "2024-04-29 19:36:14",
       "album": {
+        "name": "4M\u00e3os - Lado A",
+        "url": "https://open.spotify.com/album/3w631ZORm6ls05KgU8QeRH"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        },
+        {
+          "name": "George Israel",
+          "url": "https://open.spotify.com/artist/2z7Zy2gyTP3vyTJK52jK0T"
+        }
+      ],
+      "duration_ms": 191832,
+      "name": "Em cada pra sempre",
+      "url": "https://open.spotify.com/track/0kPzRt0WtGRSQk0BFRAKq5"
+    },
+    {
+      "added_at": "2024-04-29 19:36:14",
+      "album": {
         "name": "N\u00f3s e o Mar",
         "url": "https://open.spotify.com/album/2D17MtpiNuMjRABN5GpviU"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 233273,
       "name": "O Barquinho",
       "url": "https://open.spotify.com/track/1wfW4rHqRsodDpnH1fOD5R"
-    },
-    {
-      "added_at": "2024-04-29 19:36:14",
-      "album": {
-        "name": "4M\u00e3os - Lado A",
-        "url": "https://open.spotify.com/album/3w631ZORm6ls05KgU8QeRH"
-      },
-      "artists": [
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        },
-        {
-          "name": "George Israel",
-          "url": "https://open.spotify.com/artist/2z7Zy2gyTP3vyTJK52jK0T"
-        }
-      ],
-      "duration_ms": 191832,
-      "name": "Em cada pra sempre",
-      "url": "https://open.spotify.com/track/0kPzRt0WtGRSQk0BFRAKq5"
     },
     {
       "added_at": "2024-04-29 19:36:14",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-04-29 19:36:14",
       "album": {
-        "name": "Riviera",
-        "url": "https://open.spotify.com/album/5qYjtEuTWrnTUl27exa4kA"
-      },
-      "artists": [
-        {
-          "name": "Toco",
-          "url": "https://open.spotify.com/artist/2lVC2nWo4KJE4p6EySdfkL"
-        }
-      ],
-      "duration_ms": 189666,
-      "name": "Clube",
-      "url": "https://open.spotify.com/track/1OpcS7nQ6xy74NAbqRnbuW"
-    },
-    {
-      "added_at": "2024-04-29 19:36:14",
-      "album": {
         "name": "O Amor Mata Sim",
         "url": "https://open.spotify.com/album/1xbBPaoeswYFhlas5WJxih"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 179215,
       "name": "O Amor Mata Sim",
       "url": "https://open.spotify.com/track/2RGHqHbXDiP4iMu12oImWA"
+    },
+    {
+      "added_at": "2024-04-29 19:36:14",
+      "album": {
+        "name": "Riviera",
+        "url": "https://open.spotify.com/album/5qYjtEuTWrnTUl27exa4kA"
+      },
+      "artists": [
+        {
+          "name": "Toco",
+          "url": "https://open.spotify.com/artist/2lVC2nWo4KJE4p6EySdfkL"
+        }
+      ],
+      "duration_ms": 189666,
+      "name": "Clube",
+      "url": "https://open.spotify.com/track/1OpcS7nQ6xy74NAbqRnbuW"
     },
     {
       "added_at": "2024-04-29 19:36:14",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2024-04-29 19:36:14",
       "album": {
+        "name": "como anda vc?",
+        "url": "https://open.spotify.com/album/15oBLYyaixTAaOXdFXj9wA"
+      },
+      "artists": [
+        {
+          "name": "Sim\u00e3o",
+          "url": "https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34"
+        }
+      ],
+      "duration_ms": 162402,
+      "name": "como anda vc?",
+      "url": "https://open.spotify.com/track/1UjTUHboHZ5g5Ar54hw5Fa"
+    },
+    {
+      "added_at": "2024-04-29 19:36:14",
+      "album": {
         "name": "2023",
         "url": "https://open.spotify.com/album/0NwDg971pu7KeDgnbrueEq"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 142921,
       "name": "quentinha",
       "url": "https://open.spotify.com/track/0Gvql6QqmLyGWoveIvDjiS"
-    },
-    {
-      "added_at": "2024-04-29 19:36:14",
-      "album": {
-        "name": "como anda vc?",
-        "url": "https://open.spotify.com/album/15oBLYyaixTAaOXdFXj9wA"
-      },
-      "artists": [
-        {
-          "name": "Sim\u00e3o",
-          "url": "https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34"
-        }
-      ],
-      "duration_ms": 162402,
-      "name": "como anda vc?",
-      "url": "https://open.spotify.com/track/1UjTUHboHZ5g5Ar54hw5Fa"
     },
     {
       "added_at": "2024-04-29 19:36:14",

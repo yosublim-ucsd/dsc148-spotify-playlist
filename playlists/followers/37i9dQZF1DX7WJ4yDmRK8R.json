@@ -1,5 +1,5 @@
 {
-  "2024-05-01": 376346,
+  "2024-05-02": 376455,
   "date_first_scraped": "2021-12-21",
   "description": "This is the best of ska, new and classic. Cover: La Floripondio",
   "name": "The Essential Ska",
@@ -1935,7 +1935,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 124296,
       "name": "If I Could Only Listen to My Heart",
       "url": "https://open.spotify.com/track/0bIcOHJmmumvvdsHmnFEy1"
@@ -3881,7 +3881,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-24",
+      "date_removed": null,
       "duration_ms": 188733,
       "name": "Stuff",
       "url": "https://open.spotify.com/track/5Rj6Dg1fqFSmw2zhJFp3gh"

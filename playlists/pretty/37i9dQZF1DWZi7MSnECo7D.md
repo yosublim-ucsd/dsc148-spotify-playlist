@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: Bemti
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,732 likes - 66 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,684 likes - 66 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

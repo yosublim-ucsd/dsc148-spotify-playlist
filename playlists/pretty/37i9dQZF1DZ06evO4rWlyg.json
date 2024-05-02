@@ -1,12 +1,12 @@
 {
   "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
-  "num_followers": 132914,
+  "num_followers": 132937,
   "original_name": "This Is Bj\u00f6rk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zi7jAAAAAADZUlqW5ZvVOVy2p/NVvd6f",
+  "snapshot_id": "ZjA0gAAAAAAIjttIpPod6QEqhJNS3s9R",
   "tracks": [
     {
       "added_at": null,
@@ -591,6 +591,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bastards",
+        "url": "https://open.spotify.com/album/3KOU8rmLKgULTogBAz1px4"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "Omar Souleyman",
+          "url": "https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK"
+        }
+      ],
+      "duration_ms": 399080,
+      "name": "Crystalline - Omar Souleyman Remix",
+      "url": "https://open.spotify.com/track/1Vi97HM3mDyEQuUoHw4KxS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ovule (feat. Shygirl) [Sega Bodega Remix]",
         "url": "https://open.spotify.com/album/45HMht7xfaJqcFgS3o6g1m"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 224827,
       "name": "Ovule (feat. Shygirl) [Sega Bodega Remix]",
       "url": "https://open.spotify.com/track/2WMS4GaMShMxX5yl7VVFK0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bastards",
-        "url": "https://open.spotify.com/album/3KOU8rmLKgULTogBAz1px4"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        },
-        {
-          "name": "Omar Souleyman",
-          "url": "https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK"
-        }
-      ],
-      "duration_ms": 399080,
-      "name": "Crystalline - Omar Souleyman Remix",
-      "url": "https://open.spotify.com/track/1Vi97HM3mDyEQuUoHw4KxS"
     },
     {
       "added_at": null,

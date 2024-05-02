@@ -2,7 +2,7 @@
 
 ### [This Is Intocable](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0wUpCE)
 
-> This Is Intocable\. Sus mejores éxitos, todos en una playlist.
+> This is Intocable\. The essential tracks, all in one playlist.
 
 68 songs - 4 hr 1 min
 

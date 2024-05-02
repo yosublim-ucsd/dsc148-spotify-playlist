@@ -1,12 +1,12 @@
 {
-  "description": "This Is Lefty Sm. Los temas esenciales, todos en una lista.",
-  "num_followers": 166326,
+  "description": "This is Lefty Sm. The essential tracks, all in one playlist.",
+  "num_followers": 166435,
   "original_name": "This Is Lefty Sm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zi7jAAAAAAC2/5QFOFAlhUd8l5WLmvlf",
+  "snapshot_id": "ZjA0gAAAAAA+lucs6fw1zmW3bYu+HoPq",
   "tracks": [
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ando Al Mill\u00f3n",
-        "url": "https://open.spotify.com/album/29bVXHNrBMnTNXBkEMRVWn"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 235789,
-      "name": "Ando Al Mill\u00f3n",
-      "url": "https://open.spotify.com/track/5CCmSrzQUFq6rvRQ7XyDY9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ahora Estoy Mejor",
         "url": "https://open.spotify.com/album/5BsrTRp4TvgUwRLsvlyKuF"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 274172,
       "name": "Ahora Estoy Mejor",
       "url": "https://open.spotify.com/track/0Wg5AVKIIrnGq25aYU7Inp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ando Al Mill\u00f3n",
+        "url": "https://open.spotify.com/album/29bVXHNrBMnTNXBkEMRVWn"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 235789,
+      "name": "Ando Al Mill\u00f3n",
+      "url": "https://open.spotify.com/track/5CCmSrzQUFq6rvRQ7XyDY9"
     },
     {
       "added_at": null,
@@ -899,22 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sirenas Lloran",
-        "url": "https://open.spotify.com/album/1rxvqLEQcxnTj1krmAFWC8"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 265945,
-      "name": "Sirenas Lloran",
-      "url": "https://open.spotify.com/track/5t2ct5VNHfUxIXXBmW7Xl9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Voy Por El Oro",
         "url": "https://open.spotify.com/album/758TpUvJbvcx7esTYZZcz9"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 310750,
       "name": "Voy Por El Oro",
       "url": "https://open.spotify.com/track/5C3siAP7m7PCQgxFaDFYNR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sirenas Lloran",
+        "url": "https://open.spotify.com/album/1rxvqLEQcxnTj1krmAFWC8"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 265945,
+      "name": "Sirenas Lloran",
+      "url": "https://open.spotify.com/track/5t2ct5VNHfUxIXXBmW7Xl9"
     },
     {
       "added_at": null,

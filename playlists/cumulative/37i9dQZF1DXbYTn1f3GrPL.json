@@ -1219,6 +1219,24 @@
     },
     {
       "album": {
+        "name": "Fire Lily",
+        "url": "https://open.spotify.com/album/7vwV0V7Xn0c9f5WGNTJhZ8"
+      },
+      "artists": [
+        {
+          "name": "A Whisper",
+          "url": "https://open.spotify.com/artist/0Bkqn0CjFIb96nVfStI6dy"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148478,
+      "name": "Fire Lily",
+      "url": "https://open.spotify.com/track/2uSAha9mpw97lxp4Gpp2HK"
+    },
+    {
+      "album": {
         "name": "Weightless",
         "url": "https://open.spotify.com/album/66LNQCSB1ZGGljErprVkVm"
       },
@@ -2344,6 +2362,24 @@
       "duration_ms": 237007,
       "name": "My Hands",
       "url": "https://open.spotify.com/track/2hsYfmLXWdRWqB2i4LAhp1"
+    },
+    {
+      "album": {
+        "name": "Mystic Rivers",
+        "url": "https://open.spotify.com/album/2J5LFFXdwIVXxLSmm3wxej"
+      },
+      "artists": [
+        {
+          "name": "Malmkvist",
+          "url": "https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191250,
+      "name": "Mystic Rivers",
+      "url": "https://open.spotify.com/track/24qUwzHcqj4x9JIJ5FP5JO"
     },
     {
       "album": {

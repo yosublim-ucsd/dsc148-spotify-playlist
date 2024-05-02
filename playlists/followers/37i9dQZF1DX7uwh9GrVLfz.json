@@ -1,5 +1,5 @@
 {
-  "2024-05-01": 118797,
+  "2024-05-02": 118821,
   "date_first_scraped": "2022-05-15",
   "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: GOOD4NOTHING",
   "name": "Punk Japan",
@@ -3576,6 +3576,24 @@
     },
     {
       "album": {
+        "name": "Hourglass",
+        "url": "https://open.spotify.com/album/4hKowDy7jzTEp0SQU3NjY6"
+      },
+      "artists": [
+        {
+          "name": "waterweed",
+          "url": "https://open.spotify.com/artist/3xo2d6Mjw5Gkb14HFOwFkQ"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160533,
+      "name": "Hourglass",
+      "url": "https://open.spotify.com/track/0hx0wgbkX6Rl7gRkySR1X0"
+    },
+    {
+      "album": {
         "name": "Blooming Harvest",
         "url": "https://open.spotify.com/album/38OJkyqzjzBFpguQksifKn"
       },
@@ -4091,7 +4109,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 115520,
       "name": "Japanese Cherry",
       "url": "https://open.spotify.com/track/0rtQpVwfZW6ESBMc3XX5Gg"
@@ -6765,6 +6783,24 @@
       "duration_ms": 132426,
       "name": "Punk Rock Princess",
       "url": "https://open.spotify.com/track/6Bg2rAfxpfWtRYVykDeMv7"
+    },
+    {
+      "album": {
+        "name": "Punky Blue Kids",
+        "url": "https://open.spotify.com/album/0xUvDlxHN41wOvOJTqsCEW"
+      },
+      "artists": [
+        {
+          "name": "DNA GAINZ",
+          "url": "https://open.spotify.com/artist/0bOGtsbotnQiTIHQMehEZx"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156997,
+      "name": "Punky Blue Kids",
+      "url": "https://open.spotify.com/track/6dHNYfZg0EFi9UsDWSxDRh"
     },
     {
       "album": {
@@ -10477,7 +10513,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 135320,
       "name": "\u3053\u3053\u306b\u3044\u305f\u624d\u80fd",
       "url": "https://open.spotify.com/track/4GBBbMpBEz4isZYAvJk3Qr"
@@ -12768,6 +12804,28 @@
     },
     {
       "album": {
+        "name": "PHANTOM THIEF",
+        "url": "https://open.spotify.com/album/1dKTplcG27brsvmz1knC7R"
+      },
+      "artists": [
+        {
+          "name": "BEAT THE WAKE",
+          "url": "https://open.spotify.com/artist/22JbIJefclLqku5QztFI7T"
+        },
+        {
+          "name": "THE BIG FANLADY",
+          "url": "https://open.spotify.com/artist/11ptp74Lc6z7GsyZ1RxlQo"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224373,
+      "name": "\u602a\u76d7\u30e0\u30fc\u30f3",
+      "url": "https://open.spotify.com/track/7EvNY3frNl7NIewW3NjVcE"
+    },
+    {
+      "album": {
         "name": "OS\u30b8\u30e3\u30f3\u30af\u30b7\u30e7\u30f3",
         "url": "https://open.spotify.com/album/1EAMPUJLRdeEK8bk5Ov13G"
       },
@@ -13701,7 +13759,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 177183,
       "name": "\u7dbe\u6ce2",
       "url": "https://open.spotify.com/track/6vzL7QdszbQn6zzZtRTkOL"

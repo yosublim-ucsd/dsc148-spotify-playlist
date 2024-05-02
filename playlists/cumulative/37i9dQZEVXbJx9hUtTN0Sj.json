@@ -1801,6 +1801,24 @@
     },
     {
       "album": {
+        "name": "DO NOT COPY MY FLOW",
+        "url": "https://open.spotify.com/album/0u0hx57yVlOJJ55XNbXTjJ"
+      },
+      "artists": [
+        {
+          "name": "174Domzy",
+          "url": "https://open.spotify.com/artist/4Se2ViO6aaQgvjUpv5ikc6"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112347,
+      "name": "DO NOT COPY MY FLOW",
+      "url": "https://open.spotify.com/track/12CXDdYB8F138toCenq6Ev"
+    },
+    {
+      "album": {
         "name": "Dominique (Techno Edit)",
         "url": "https://open.spotify.com/album/22S3vRZXfVXSwDHO80mdoD"
       },
@@ -1852,7 +1870,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 246758,
       "name": "Don't You Cry",
       "url": "https://open.spotify.com/track/0sEkSDwCxjik95zgWLuzd5"
@@ -2126,7 +2144,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-30",
+      "date_removed": null,
       "duration_ms": 158260,
       "name": "Fatigu\u00e9",
       "url": "https://open.spotify.com/track/7xWedF510xKrMoLrhHHRMn"
@@ -2246,7 +2264,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 235354,
       "name": "Fisherrr - Remix",
       "url": "https://open.spotify.com/track/1rrV4ymf3Tp3xuLgB4zCRN"
@@ -2892,7 +2910,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 133770,
       "name": "i like the way you kiss me",
       "url": "https://open.spotify.com/track/2GUJVz8cDtBePu2hd9oYZx"
@@ -3050,6 +3068,24 @@
     {
       "album": {
         "name": "Liefde Voor Muziek 2024",
+        "url": "https://open.spotify.com/album/5YRT0dX5PaoK06qFJYCi5S"
+      },
+      "artists": [
+        {
+          "name": "Jasper Steverlinck",
+          "url": "https://open.spotify.com/artist/5M9Q9H6jHj5txCVX5KSM8V"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192760,
+      "name": "I'm Not Fine - uit Liefde Voor Muziek",
+      "url": "https://open.spotify.com/track/20HY0TkAnhzXEKTqy5ojTR"
+    },
+    {
+      "album": {
+        "name": "Liefde Voor Muziek 2024",
         "url": "https://open.spotify.com/album/677eSqSSdBt21RJdl1aQXx"
       },
       "artists": [
@@ -3060,7 +3096,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 192760,
       "name": "I'm Not Fine - uit Liefde Voor Muziek",
       "url": "https://open.spotify.com/track/7kCSouTuZ629TUazEhPbll"
@@ -4078,10 +4114,28 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 144320,
       "name": "Mama Said - uit Liefde Voor Muziek",
       "url": "https://open.spotify.com/track/41ZZUb6oKVoqoPYSQDfyp5"
+    },
+    {
+      "album": {
+        "name": "Liefde Voor Muziek 2024",
+        "url": "https://open.spotify.com/album/5YRT0dX5PaoK06qFJYCi5S"
+      },
+      "artists": [
+        {
+          "name": "Jasper Steverlinck",
+          "url": "https://open.spotify.com/artist/5M9Q9H6jHj5txCVX5KSM8V"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144320,
+      "name": "Mama Said - uit Liefde Voor Muziek",
+      "url": "https://open.spotify.com/track/5D5cARsw6wckHbATZIxgfN"
     },
     {
       "album": {
@@ -4671,6 +4725,24 @@
     },
     {
       "album": {
+        "name": "That's Not How Dreams Are Made - uit Liefde Voor Muziek",
+        "url": "https://open.spotify.com/album/3eae1X148L8JtXMS4l0Hh1"
+      },
+      "artists": [
+        {
+          "name": "Laura Tesoro",
+          "url": "https://open.spotify.com/artist/2vmZupMPxLgT8MNNXTRfa2"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174911,
+      "name": "Oya L\u00e9l\u00e9 - uit Liefde Voor Muziek",
+      "url": "https://open.spotify.com/track/2z7wiLusgnSDKLgGEdyCo3"
+    },
+    {
+      "album": {
         "name": "Oya L\u00e9l\u00e9 - uit Liefde Voor Muziek",
         "url": "https://open.spotify.com/album/5cgkj4OLPZOhfyapRg9SJc"
       },
@@ -4682,7 +4754,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 174911,
       "name": "Oya L\u00e9l\u00e9 - uit Liefde Voor Muziek",
       "url": "https://open.spotify.com/track/4PycBRIwfVhh9c7NPatrX5"
@@ -4774,7 +4846,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-01",
+      "date_removed": null,
       "duration_ms": 183157,
       "name": "PATT (Party All The Time) - Adam Beyer, Layton Giordani & Green Velvet Remix",
       "url": "https://open.spotify.com/track/6DFHSmlrZLDZnXV5kTTMF6"

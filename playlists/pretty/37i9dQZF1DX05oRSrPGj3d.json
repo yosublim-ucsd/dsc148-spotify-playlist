@@ -1,6 +1,6 @@
 {
   "description": "Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars. Cover: Willie Nelson",
-  "num_followers": 260752,
+  "num_followers": 260832,
   "original_name": "Heart Of Texas",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Randy Rogers Band",
-        "url": "https://open.spotify.com/album/5tvHSuAIkmG9UD8jAmnXup"
-      },
-      "artists": [
-        {
-          "name": "Randy Rogers Band",
-          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
-        }
-      ],
-      "duration_ms": 318666,
-      "name": "In My Arms Instead",
-      "url": "https://open.spotify.com/track/4hFSl2YfBUCY7RgZ8OhwCO"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Blink You'll Miss It",
         "url": "https://open.spotify.com/album/3fWz8gQUrBBsf7y7q1znTq"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 212819,
       "name": "Damn Good Goodbye",
       "url": "https://open.spotify.com/track/1tPAhtdVRtRexRdH9QXOSP"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Randy Rogers Band",
+        "url": "https://open.spotify.com/album/5tvHSuAIkmG9UD8jAmnXup"
+      },
+      "artists": [
+        {
+          "name": "Randy Rogers Band",
+          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
+        }
+      ],
+      "duration_ms": 318666,
+      "name": "In My Arms Instead",
+      "url": "https://open.spotify.com/track/4hFSl2YfBUCY7RgZ8OhwCO"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "She's Like Texas",
-        "url": "https://open.spotify.com/album/3GQWEiCkBX2tyr0D1Y60au"
-      },
-      "artists": [
-        {
-          "name": "Josh Abbott Band",
-          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
-        }
-      ],
-      "duration_ms": 235253,
-      "name": "She's Like Texas",
-      "url": "https://open.spotify.com/track/7k0ahlHosIWblaaIsEqJ8M"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Wildcard",
         "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 241786,
       "name": "Tequila Does",
       "url": "https://open.spotify.com/track/2fmHMSaIadDzLPT4Im3Mze"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "She's Like Texas",
+        "url": "https://open.spotify.com/album/3GQWEiCkBX2tyr0D1Y60au"
+      },
+      "artists": [
+        {
+          "name": "Josh Abbott Band",
+          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
+        }
+      ],
+      "duration_ms": 235253,
+      "name": "She's Like Texas",
+      "url": "https://open.spotify.com/track/7k0ahlHosIWblaaIsEqJ8M"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Cross Canadian Ragweed",
-        "url": "https://open.spotify.com/album/2Mpixk51qfZm5hQ6soEbjI"
-      },
-      "artists": [
-        {
-          "name": "Cross Canadian Ragweed",
-          "url": "https://open.spotify.com/artist/5Vz7hlMWR4OFye64dYoGm0"
-        }
-      ],
-      "duration_ms": 319200,
-      "name": "17",
-      "url": "https://open.spotify.com/track/1ooQIGKHYJ9aKVsUynDpSN"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "The Highway Kind",
         "url": "https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 239763,
       "name": "The Highway Kind",
       "url": "https://open.spotify.com/track/1DBoVgENKo0xEOAsQS3TK3"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Cross Canadian Ragweed",
+        "url": "https://open.spotify.com/album/2Mpixk51qfZm5hQ6soEbjI"
+      },
+      "artists": [
+        {
+          "name": "Cross Canadian Ragweed",
+          "url": "https://open.spotify.com/artist/5Vz7hlMWR4OFye64dYoGm0"
+        }
+      ],
+      "duration_ms": 319200,
+      "name": "17",
+      "url": "https://open.spotify.com/track/1ooQIGKHYJ9aKVsUynDpSN"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Three Days",
-        "url": "https://open.spotify.com/album/2lGigUytoUfyQOWqA5DIC4"
+        "name": "Old No. 1",
+        "url": "https://open.spotify.com/album/0tBjzfZrOEXzj1wcM5HphZ"
       },
       "artists": [
         {
-          "name": "Pat Green",
-          "url": "https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX"
+          "name": "Guy Clark",
+          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
         }
       ],
-      "duration_ms": 297493,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/2HieRfsSSwQA1JUtfmRNgo"
+      "duration_ms": 296520,
+      "name": "L.A. Freeway",
+      "url": "https://open.spotify.com/track/0HFu4LUT4kKxwIPFnS7UGz"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Old No. 1",
-        "url": "https://open.spotify.com/album/0tBjzfZrOEXzj1wcM5HphZ"
+        "name": "Three Days",
+        "url": "https://open.spotify.com/album/2lGigUytoUfyQOWqA5DIC4"
       },
       "artists": [
         {
-          "name": "Guy Clark",
-          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
+          "name": "Pat Green",
+          "url": "https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX"
         }
       ],
-      "duration_ms": 296520,
-      "name": "L.A. Freeway",
-      "url": "https://open.spotify.com/track/0HFu4LUT4kKxwIPFnS7UGz"
+      "duration_ms": 297493,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/2HieRfsSSwQA1JUtfmRNgo"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Three Days",
-        "url": "https://open.spotify.com/album/2lGigUytoUfyQOWqA5DIC4"
-      },
-      "artists": [
-        {
-          "name": "Pat Green",
-          "url": "https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Texas On My Mind",
-      "url": "https://open.spotify.com/track/1q2lZdxH80D9UwM57J4pzX"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "No Vacancy",
         "url": "https://open.spotify.com/album/4FLvEcu5X5ZUzsWP3Lbh8O"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 315924,
       "name": "Beer, Bait and Ammo",
       "url": "https://open.spotify.com/track/7irS1d9sepVtxIrGQKc0Vy"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Three Days",
+        "url": "https://open.spotify.com/album/2lGigUytoUfyQOWqA5DIC4"
+      },
+      "artists": [
+        {
+          "name": "Pat Green",
+          "url": "https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Texas On My Mind",
+      "url": "https://open.spotify.com/track/1q2lZdxH80D9UwM57J4pzX"
     },
     {
       "added_at": "2024-04-26 04:00:00",

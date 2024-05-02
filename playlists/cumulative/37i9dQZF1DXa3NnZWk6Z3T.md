@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-355 songs - 20 hr 35 min
+356 songs - 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Casi Algo](https://open.spotify.com/track/1L7rHSD7MeEJc9hhNO4OY7) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo) | [Casi Algo](https://open.spotify.com/album/6xOQIgmaXLE1LyZtn5gYuw) | 3:12 | 2023-06-16 |  |
 | [Celebration](https://open.spotify.com/track/25TsNPHlxwbF8e7vb0Ccim) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Ape in Pink Marble](https://open.spotify.com/album/4B1W5FeDz8Z1jsYAZV4MdU) | 2:56 | 2022-04-07 | 2022-04-21 |
 | [Cenizas y Miel](https://open.spotify.com/track/7j5n02hf4Biqj1rA6AhFiJ) | [Pachará](https://open.spotify.com/artist/1b2gJhPNbVGtx6N13ZfPfI) | [Cenizas y Miel](https://open.spotify.com/album/5oo725EgblR5xePh1O4GXt) | 3:11 | 2021-12-09 |  |
-| [Cha Cha Cha](https://open.spotify.com/track/1acq8b2Bxx9TXlxuw2uvA5) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [El Arcas](https://open.spotify.com/artist/2A8nxnQZ6rbT30DYgBiEKR) | [Música para verse bien](https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ) | 5:17 | 2024-03-14 |  |
+| [Cha Cha Cha](https://open.spotify.com/track/1acq8b2Bxx9TXlxuw2uvA5) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [El Arcas](https://open.spotify.com/artist/2A8nxnQZ6rbT30DYgBiEKR) | [Música para verse bien](https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ) | 5:17 | 2024-03-14 | 2024-05-02 |
 | [Chachachá \- acústico](https://open.spotify.com/track/7lFcRLIrpzjPd2Ytp13Ml3) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Chachachá \(acústico\)](https://open.spotify.com/album/79immCdVvW18wwjtgnfiHK) | 3:28 | 2022-12-30 |  |
 | [Cigarrito y Café](https://open.spotify.com/track/4zCcsSId3HZ6DvjFcxmg2l) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [Cigarrito y Café](https://open.spotify.com/album/40BCKQLAweweUfSrr4Pyhj) | 2:51 | 2021-12-09 |  |
 | [Ciudad Hembra \(La Habana\)](https://open.spotify.com/track/6swmCwTX7kHTHCBhWCY41f) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Kelvis Ochoa](https://open.spotify.com/artist/3Q2MVC1NWIzEyUytnlFBKm) | [Ciudad Hembra \(La Habana\)](https://open.spotify.com/album/4q4EcWgffH5Cr6Ylfzk9pp) | 3:32 | 2021-12-09 |  |
@@ -297,6 +297,7 @@
 | [Sin Vergüenza](https://open.spotify.com/track/4bhJA7OPeieBHWfHMgNV0Q) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ), [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid) | [Sin Vergüenza](https://open.spotify.com/album/1es98oWk5HeScQbQo4nX3Z) | 4:01 | 2021-12-09 | 2023-10-27 |
 | [Sin Vergüenza](https://open.spotify.com/track/52LqScn3sNgUk9nfMLN6yS) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ), [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid) | [Sin Vergüenza](https://open.spotify.com/album/2Ct6wEvggnGK0Res4HIlCD) | 4:01 | 2023-11-10 | 2024-04-19 |
 | [Sofá de Cuero](https://open.spotify.com/track/6dNYrFxETEqQjnmF1HtBTj) | [Jah Chango](https://open.spotify.com/artist/0JL51D0tX8800NfzXLaNqM), [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Sofá de Cuero](https://open.spotify.com/album/6InJpyc0Y7eyBv3Rhm49n7) | 3:04 | 2022-04-07 | 2022-04-21 |
+| [Sola](https://open.spotify.com/track/3fqCowFYUnGI63qmxrrmmS) | [Nana Bersa](https://open.spotify.com/artist/7IzUZBSNYIuW7R5neM3AVq) | [Cariño](https://open.spotify.com/album/5BRqHpMjkqHfdlFa2O397S) | 3:25 | 2024-03-14 |  |
 | [Solamente una Vez](https://open.spotify.com/track/6SUX8bUvKWeiJJoWad3bVH) | [Ozomatli](https://open.spotify.com/artist/1An0HCtDktvCBDdFEu7HC0), [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Non\-Stop: Mexico to Jamaica](https://open.spotify.com/album/2uvbuOxYzDgGI5oz6jvYE3) | 2:28 | 2021-12-09 | 2022-07-23 |
 | [Solo Mía](https://open.spotify.com/track/7bLfGfZ8FQ7uZ3iLJIQISf) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Solo Mía](https://open.spotify.com/album/6BLn7cwwQkJbvjWFxLNmzc) | 4:15 | 2021-12-09 |  |
 | [Somos Algo](https://open.spotify.com/track/2tGIjytBp6wBcPxiBrDu90) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Grandes Éxitos del Boleroglam Vol\. 1](https://open.spotify.com/album/35GNEh5IcebaEJ3Lv2ZJSU) | 3:53 | 2021-12-09 |  |

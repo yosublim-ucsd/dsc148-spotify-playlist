@@ -2,9 +2,9 @@
 
 ### [Fresh Finds India](https://open.spotify.com/playlist/37i9dQZF1DXaRf94BiB7fV)
 
-> The best new music by independent artists and labels in India\. Cover: DAWgeek, Artwork: Isu Kim
+> The best new music by independent artists and labels in India\. Cover: Hemanshi, Artwork: Isu Kim
 
-1,195 songs - 2 day 21 hr 42 min
+1,197 songs - 2 day 21 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -479,6 +479,7 @@
 | [Jahaan](https://open.spotify.com/track/3ihDGqDqKiOVGQ4SylT6l5) | [Raveena Paul](https://open.spotify.com/artist/3JShaTOiYkvAT6XoaU38se), [Neel Chhabra](https://open.spotify.com/artist/0s1CMA4Jfj8dXPcrZ3v6CX) | [Jahaan](https://open.spotify.com/album/6UwIvo6YWz0324HBjGLCl6) | 3:43 | 2023-11-29 | 2024-01-11 |
 | [Jahaan](https://open.spotify.com/track/4AEWM5JhXduGreZMOn46ni) | [Raveena Paul](https://open.spotify.com/artist/3JShaTOiYkvAT6XoaU38se), [Neel Chhabra](https://open.spotify.com/artist/0s1CMA4Jfj8dXPcrZ3v6CX) | [Jahaan](https://open.spotify.com/album/5bhr1CfHRDlEy9XAdctVfU) | 3:43 | 2023-05-03 | 2024-01-03 |
 | [Jahan](https://open.spotify.com/track/3gFPps7o8YaGqnSlyMfdA6) | [Ketan Mohite](https://open.spotify.com/artist/0g8F74eyvNS6cgmGEoXrPA), [Bruno Merz](https://open.spotify.com/artist/2xcDcnoSHONk8fwbIdUh12), [Annanda Prasanna Pattanaik](https://open.spotify.com/artist/7ng6i4rv93jjM4Oj3j5Dyx) | [Jahan](https://open.spotify.com/album/6ID9SbGeejYkqrjBbWRwIG) | 3:26 | 2022-01-12 | 2022-01-17 |
+| [Jahan Aab Hai Beheta](https://open.spotify.com/track/6RfWSpfzJYU9mgwE94N6dn) | [HEMANSHI](https://open.spotify.com/artist/2xdamRjIF9E9zAI11rT0Vx) | [Jahan Aab Hai Beheta](https://open.spotify.com/album/0Rk3Lb5oXMNGt06jQ4JTLG) | 2:55 | 2024-05-01 |  |
 | [Jahan Bhi Ho](https://open.spotify.com/track/2JBtmxNroYCUwI3JnP4PzT) | [Navya Sharma](https://open.spotify.com/artist/1kLD6MGLE1x617E5NrXw1N) | [Jahan Bhi Ho](https://open.spotify.com/album/5OuOH7YESHSGV4O53GZIiK) | 3:45 | 2023-04-26 | 2023-07-27 |
 | [Jannat](https://open.spotify.com/track/2ZphNIcogHnUFbGACH9GQK) | [Victor Gurung](https://open.spotify.com/artist/7v2IJbq8uj3tn19Q2tiQac) | [Jannat](https://open.spotify.com/album/5Y7QWdTulBzSLiiCsUvcgG) | 3:00 | 2022-06-22 | 2022-07-28 |
 | [Jashn](https://open.spotify.com/track/5QTpBl1X9WFvntRYw1c6mA) | [Roshan Bhat](https://open.spotify.com/artist/21qGWaUNzb7MiK33Gvmm0T) | [Jashn](https://open.spotify.com/album/30vKbJ7IGqCQgl5dBPAiFM) | 3:44 | 2023-08-02 | 2023-10-19 |
@@ -730,6 +731,7 @@
 | [Mujhmein Kahin](https://open.spotify.com/track/1iEM6oNajes3mguj8dnLXz) | [Piyush Bhisekar](https://open.spotify.com/artist/3HUf0l1HSBzHw0F5UhBOpA) | [Mujhmein Kahin](https://open.spotify.com/album/2R7fqIDqqv3thMXTf5vGY9) | 3:25 | 2023-01-25 | 2023-05-24 |
 | [Mumkin Nahin](https://open.spotify.com/track/5CyrICnw8h6OdoSXXFJLjD) | [Khanabadosh](https://open.spotify.com/artist/7dnbgJ1rgMrXMxORusmKuz) | [Mumkin Nahin](https://open.spotify.com/album/28i4DE2jz2pvm5v9sIHe7w) | 3:52 | 2022-07-06 | 2023-01-12 |
 | [Muntazir](https://open.spotify.com/track/3PonH7yz2s72SOlmpe15g1) | [Gagan Baderiya](https://open.spotify.com/artist/0288VNkaL5hm0SBDGEv5uq), [Debasish Mishra](https://open.spotify.com/artist/6py2MHhbiiwkAtcyAZmFAO), [Nesz](https://open.spotify.com/artist/2G3O79IP2hfuZjJ7RyjZWj) | [Muntazir](https://open.spotify.com/album/1VxmU9VcPqLGyoZl3GbLhp) | 3:45 | 2023-05-24 | 2023-08-24 |
+| [Muraad](https://open.spotify.com/track/000hNwOPD6Cf59vbDpWpzh) | [Euphony Official](https://open.spotify.com/artist/1cH1yASHWrohYwnhIig9vp) | [Muraad](https://open.spotify.com/album/6J27YZ11yoPf6a0QRclhUf) | 4:50 | 2024-05-01 |  |
 | [Murky Waters](https://open.spotify.com/track/1u7B9MawFxR9krbYw2C2Ea) | [Abhinav Jethi](https://open.spotify.com/artist/23z3fxHdDsyshuK1YHMtps) | [Murky Waters](https://open.spotify.com/album/6pRr78a8o3ITAvhSWlT9QA) | 3:41 | 2024-02-28 | 2024-04-24 |
 | [Musaafir](https://open.spotify.com/track/4iFATNM9mKsseLJfkuUsSs) | [Harshad Sathe](https://open.spotify.com/artist/4OZYKo1JT2WIPoXRtGau9f) | [Musaafir](https://open.spotify.com/album/43gj7UBjec8jOYluHHrmnx) | 3:10 | 2022-02-02 | 2022-02-22 |
 | [Musafir](https://open.spotify.com/track/7x9ULDeUBNrjd0LHoxEj2b) | [Azadd](https://open.spotify.com/artist/03iLvvBbav8KGD0s6j8bPA) | [Musafir](https://open.spotify.com/album/4NtwxIBRIAexcEHkfT9zip) | 2:36 | 2022-07-20 | 2022-12-01 |
@@ -1081,7 +1083,7 @@
 | [Tuhi Meri Bhalobasa](https://open.spotify.com/track/5ZebnfCMXP7mQsY2khgTwK) | [Sayak Ghosal](https://open.spotify.com/artist/5eOcyjra7QZ3EjVq0fQbK2), [Meghna Biswas](https://open.spotify.com/artist/7lNFK2ggVoq8jpMwHBES2B), [Jhonti Chakraborty](https://open.spotify.com/artist/07aQgurm052E1ftFaNOzRe) | [Tuhi Meri Bhalobasa](https://open.spotify.com/album/7mza7vU0awmeeLUoA3IH8U) | 5:13 | 2022-10-19 | 2023-01-26 |
 | [Tujhe Dhoondta Hu](https://open.spotify.com/track/4YP3jBkuSFV7swUbmBJXHl) | [Vincent Boral](https://open.spotify.com/artist/0ZWcvDl5x0q79wjTREH2IH) | [Tujhe Dhoondta Hu](https://open.spotify.com/album/3YaHnIHaF3uqdgS8kqM68H) | 1:10 | 2024-02-21 | 2024-04-19 |
 | [Tujhse Kyun](https://open.spotify.com/track/1Zr3VZ3LE1vpiVn1qeb1vv) | [Hrishi Upadhyay](https://open.spotify.com/artist/585BzSK8bK1sCDSyb0iumj) | [Tujhse Kyun](https://open.spotify.com/album/1zGP2nED5lg4VfgWpdbiCb) | 3:56 | 2022-10-06 | 2023-03-29 |
-| [Tum](https://open.spotify.com/track/27Z3Ez48so7wcbrcX45Hw2) | [Akash Chopra](https://open.spotify.com/artist/2opKS25hOaAFziQ5PWNAWT), [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Tum](https://open.spotify.com/album/0Mr8UTBefgjZlfPWlrtmOR) | 4:02 | 2024-02-14 |  |
+| [Tum](https://open.spotify.com/track/27Z3Ez48so7wcbrcX45Hw2) | [Akash Chopra](https://open.spotify.com/artist/2opKS25hOaAFziQ5PWNAWT), [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Tum](https://open.spotify.com/album/0Mr8UTBefgjZlfPWlrtmOR) | 4:02 | 2024-02-14 | 2024-05-02 |
 | [Tum Ho](https://open.spotify.com/track/5UirC0o9Js7nRHaRqtGFOZ) | [Raag Band](https://open.spotify.com/artist/3I0lCu1g031YUn4ypQAN4O) | [Tum Ho](https://open.spotify.com/album/6TifwMZTxUpUlDXFwyokT9) | 3:28 | 2024-01-17 | 2024-04-04 |
 | [Tum Ho Meri Jaan](https://open.spotify.com/track/11zUhzzHI3v67391OHYLxZ) | [Dhruv Kapoor](https://open.spotify.com/artist/25RpK0wKK891C05JinG9ii) | [Tum Ho Meri Jaan \- Single](https://open.spotify.com/album/2a9ZIaQ32AVovWT2j6ejPN) | 3:11 | 2022-07-27 | 2023-01-12 |
 | [Tum Ho Meri Jaan](https://open.spotify.com/track/1ep3GANsKxGfv3cnBtQH2e) | [Dhruv Kapoor](https://open.spotify.com/artist/25RpK0wKK891C05JinG9ii) | [Tum Ho Meri Jaan](https://open.spotify.com/album/2OGhq1iqXwWJzQJC7tffzy) | 3:11 | 2022-01-12 | 2022-03-10 |
@@ -1170,7 +1172,7 @@
 | [Yaadein Banate Hai](https://open.spotify.com/track/7flzvsf1mEhBQD3yFeUbMj) | [Saptak Chatterjee](https://open.spotify.com/artist/7rcHjaw38oHqxTjwQUnlRc) | [Yaadein Banate Hai](https://open.spotify.com/album/36p3T8WOvQ1Pc4S9mGEugS) | 3:42 | 2022-01-19 | 2022-03-17 |
 | [Yaadein Banate Hai](https://open.spotify.com/track/3yHsC7RMagRODyvYTgtod8) | [Saptak Chatterjee](https://open.spotify.com/artist/7rcHjaw38oHqxTjwQUnlRc), [Vipasha Malhotra](https://open.spotify.com/artist/0SV9O7Y4ub6JXoPiLoDBzp) | [Yaadein Banate Hai](https://open.spotify.com/album/5zDquK6p9c5CNssv6Cfk0z) | 3:38 | 2022-02-16 | 2022-03-17 |
 | [Yahan](https://open.spotify.com/track/4yq61v0vaI2MpifznBCpBh) | [Vasu Raina](https://open.spotify.com/artist/5wwyvQQMsmzSUZo6FBoWJL) | [Yahan](https://open.spotify.com/album/4NVB7RqJMhWow5gY1oBCdd) | 4:02 | 2021-12-01 | 2022-01-13 |
-| [Yaqiin](https://open.spotify.com/track/302XZ38qI9EdECiDxQYOi3) | [Vasu Raina](https://open.spotify.com/artist/5wwyvQQMsmzSUZo6FBoWJL) | [Yaqiin](https://open.spotify.com/album/3e3XRFamcIO1TNF5PPbEE0) | 4:56 | 2024-01-10 |  |
+| [Yaqiin](https://open.spotify.com/track/302XZ38qI9EdECiDxQYOi3) | [Vasu Raina](https://open.spotify.com/artist/5wwyvQQMsmzSUZo6FBoWJL) | [Yaqiin](https://open.spotify.com/album/3e3XRFamcIO1TNF5PPbEE0) | 4:56 | 2024-01-10 | 2024-05-02 |
 | [Ye Jhootha Samaa](https://open.spotify.com/track/0YQTrdP63BTZwjzaEHInx3) | [Antariksh](https://open.spotify.com/artist/4RzIOJu74yNYeSHL3ri60l), [Shruti Dhasmana](https://open.spotify.com/artist/6IWgkz5oMp5pJwM7T3drvr), [Abhay Sharma](https://open.spotify.com/artist/3MoObXWEFyxfYPWGCsViX3) | [Ye Jhootha Samaa](https://open.spotify.com/album/1AuAAzaGUeskDBb6tLeCAV) | 5:01 | 2022-07-06 | 2022-09-09 |
 | [Ye Kaisa Sheher Hai](https://open.spotify.com/track/5DzgfCZFMlHxss6C9xkReN) | [Goyell Saab](https://open.spotify.com/artist/2CN4nSMtSdnMyn6IGAttPF) | [Ye Kaisa Sheher Hai](https://open.spotify.com/album/5OFbPz6w8Q0I4YKOBdwwYH) | 2:49 | 2023-01-25 | 2023-03-23 |
 | [Ye Shaamein](https://open.spotify.com/track/7g4qvUQ4URhFVf5h02RxvS) | [Vikaas Vishwakarma](https://open.spotify.com/artist/3MusGpFITCdtSHEeugBc6e), [Ram Chauhan](https://open.spotify.com/artist/3uu3xaa9nGYPpd0hKS3UBd), [Pragati Shahi](https://open.spotify.com/artist/72HKawCTohKafEmA1GEbzq) | [Ye Shaamein](https://open.spotify.com/album/5nGZZK1RhQT1J6tsdogrew) | 3:38 | 2023-10-18 | 2024-02-01 |

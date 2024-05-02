@@ -1,5 +1,5 @@
 {
-  "2024-05-01": 102514,
+  "2024-05-02": 102512,
   "date_first_scraped": "2023-02-08",
   "description": "Music to help you concentrate during your homework.",
   "name": "Piano Study",
@@ -807,7 +807,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 113000,
       "name": "Fin de l'\u00e9t\u00e9",
       "url": "https://open.spotify.com/track/6jm8T38DHANT7c2xvIZpx6"
@@ -1197,7 +1197,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 143812,
       "name": "Kj\u00e6reste",
       "url": "https://open.spotify.com/track/5b8dvbC8nIGMmagzqXbaTD"

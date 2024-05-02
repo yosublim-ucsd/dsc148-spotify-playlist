@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 
 ### [التوب](https://open.spotify.com/playlist/37i9dQZF1DXd3AhRYJnfcl)
 
-> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: <a href="https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt?si=tGU\_3\-pJStasaf5gqFdSoQ"> حسن شاكوش </a> و <a href="https://open.spotify.com/artist/4kYlR8TU22EJ77zl3NfmeM?si=2xdChv98SCSSWdf30er7fg"> <br/>حمادة مجدي
+> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: <a href="https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt?si=tGU\_3\-pJStasaf5gqFdSoQ"> حسن شاكوش </a> و <a href="https://open.spotify.com/artist/4kYlR8TU22EJ77zl3NfmeM?si=\_ivm6J9XTtyL\-shrVgP4CA"> حماده مجدي </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,955 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,107 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 | 49 | [Ba3tzrlek](https://open.spotify.com/track/4pnApCJBljUP7YQdCxGEbI) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Ba3tzrlek](https://open.spotify.com/album/4JDSRQMIQdhad4iatxB5bU) | 4:09 |
 | 50 | [معلش](https://open.spotify.com/track/0XbZAACv4UZAU5mKOCLa9T) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy), [Zap Tharwat](https://open.spotify.com/artist/3yLKIh0kKryfCRygWN5wFv) | [معلش](https://open.spotify.com/album/1g4TNTbMuiYAwCngqj36h1) | 3:57 |
 
-Snapshot ID: `ZjDOfAAAAABWbc2k3K6ReLJRkrcpE518`
+Snapshot ID: `ZjH/LAAAAADLwHY8A6vSvFC+Zddwvbr8`

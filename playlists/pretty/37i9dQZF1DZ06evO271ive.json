@@ -1,12 +1,12 @@
 {
-  "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 12255,
+  "description": "This is Sexyy Red. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 12319,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zi7jAAAAAADNPE4L+AugvwjAt6rehxaq",
+  "snapshot_id": "ZjA0gAAAAAB4qqBNSFgzVGy8XglaFhKa",
   "tracks": [
     {
       "added_at": null,
@@ -227,26 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pound Town (and Tay Keith)",
-        "url": "https://open.spotify.com/album/0xN8AKSa1FlAKuKe6BdD6A"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "Tay Keith",
-          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
-        }
-      ],
-      "duration_ms": 129429,
-      "name": "Pound Town (and Tay Keith)",
-      "url": "https://open.spotify.com/track/4KSRdah26ypIXVNZPHmzO3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DIRTY NACHOS",
         "url": "https://open.spotify.com/album/6BpbaxnD9tN5sZTmEkmLh3"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 186991,
       "name": "DAMN SHORTY (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/3ghMzjSfLHEriTZRej6JHm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pound Town (and Tay Keith)",
+        "url": "https://open.spotify.com/album/0xN8AKSa1FlAKuKe6BdD6A"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Tay Keith",
+          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
+        }
+      ],
+      "duration_ms": 129429,
+      "name": "Pound Town (and Tay Keith)",
+      "url": "https://open.spotify.com/track/4KSRdah26ypIXVNZPHmzO3"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Throwin' It",
-        "url": "https://open.spotify.com/album/4YR9YTU8b8PmQqDDkh9HKN"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 149472,
-      "name": "Throwin' It",
-      "url": "https://open.spotify.com/track/1EC19TqO0rHpqwMHJrzOgk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FYM",
         "url": "https://open.spotify.com/album/4lHjS8UkaC9Kc1pL5KloqG"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 160175,
       "name": "FYM",
       "url": "https://open.spotify.com/track/05Z64r07QHoEetD74fmpcu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Throwin' It",
+        "url": "https://open.spotify.com/album/4YR9YTU8b8PmQqDDkh9HKN"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 149472,
+      "name": "Throwin' It",
+      "url": "https://open.spotify.com/track/1EC19TqO0rHpqwMHJrzOgk"
     },
     {
       "added_at": null,

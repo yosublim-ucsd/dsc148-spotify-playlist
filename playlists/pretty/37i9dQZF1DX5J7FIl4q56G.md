@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: Knocked Loose & Poppy
 
-[Spotify](https://open.spotify.com/user/spotify) - 709,282 likes - 60 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 709,336 likes - 60 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 26 | [Love Like Snow](https://open.spotify.com/track/6EmzV9CjJ3EvMYFZFPsQRu) | [CANDY](https://open.spotify.com/artist/4oWlenweHbPcDXKvyNUbBl), [MIRSY](https://open.spotify.com/artist/50fFX3XOP6kJJNVkIeeQ8f), [mmph](https://open.spotify.com/artist/3FigIEWJYmIeHGP7IYDaq2) | [Love Like Snow](https://open.spotify.com/album/58cwGOiEAG3q0onyb2zxM1) | 2:53 |
 | 27 | [Who You Were](https://open.spotify.com/track/0KIeTb1BJat07H7yWhUjeB) | [AWOL](https://open.spotify.com/artist/7GmixEjYEfCEw0Kxr1TM6U) | [Tear 'Em To Bits](https://open.spotify.com/album/4zK4HlpZEhlk876TKidah0) | 3:01 |
 | 28 | [Violet Seizures](https://open.spotify.com/track/49YvPdQCiJ3R1OwQqc3iJl) | [Inter Arma](https://open.spotify.com/artist/5ZG7r3Jg0Y1hGQRMQ8hdRs) | [New Heaven](https://open.spotify.com/album/0HB3RzsvBPT3s0MzSjbdU7) | 6:30 |
-| 29 | [Summerlovin](https://open.spotify.com/track/4jhEO2UR8DXMaxUodujNho) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF), [Olli Herman](https://open.spotify.com/artist/0mAgWpSQehdhqT6iSb8Bel), [Reckless Love](https://open.spotify.com/artist/0Nkyv1Zj8Xh7Lux3KzIQCl), [Popeda](https://open.spotify.com/artist/2bEPloIrEwXQwm9myrXW2P) | [Summerlovin](https://open.spotify.com/album/7IWuQugr7xAz3slvKrVbPS) | 3:55 |
+| 29 | [Summerlovin](https://open.spotify.com/track/4jhEO2UR8DXMaxUodujNho) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF), [Olli Herman](https://open.spotify.com/artist/0mAgWpSQehdhqT6iSb8Bel) | [Summerlovin](https://open.spotify.com/album/7IWuQugr7xAz3slvKrVbPS) | 3:55 |
 | 30 | [From Unknown Heights You Shall Fall](https://open.spotify.com/track/5Vh37vGVM4aG4kUCDEwQMc) | [Deicide](https://open.spotify.com/artist/2K3GorTixXKAiwe2t9lO89) | [Banished By Sin](https://open.spotify.com/album/6s8xggL2f3l0N6KGkrn0vz) | 3:25 |
 | 31 | [The Bird People Of Nordland](https://open.spotify.com/track/4lr06v7WIVyly82zwc9IVe) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [It Beckons Us All](https://open.spotify.com/album/5ywwP5EswnVYfYQESmbORn) | 7:27 |
 | 32 | [淨化 Purge \(feat\. Devin Townsend\)](https://open.spotify.com/track/6h8ySBBKCcHUMkZTjndjMp) | [OU](https://open.spotify.com/artist/3jErOJR4avnhfZuyHogWRb), [Devin Townsend](https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN) | [淨化 Purge \(feat\. Devin Townsend\)](https://open.spotify.com/album/1fkuJldm9mSDfapwQKiZXf) | 5:02 |

@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/5nz3AAoDyHSidelqd2fnci.md) - [plain]
 
 > 
 
-[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 45 min 20 sec
+[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 44 min 20 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Oh, There's Legwork](https://open.spotify.com/track/3HRi4HCsplWZzuimEDcPMF) | [None More Black](https://open.spotify.com/artist/3UV2I2q5F2wTsCjcK3tlhf) | [Loud About Loathing \(Ep\)](https://open.spotify.com/album/678S1q6ZBQL4EYjY0b6w6M) | 3:17 |
-| 2 | [Faces In Disguise](https://open.spotify.com/track/5KPhsNfpwNSVAXclO4u5P6) | [Sunny Day Real Estate](https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or) | [The Rising Tide](https://open.spotify.com/album/6qF8IcGGO3Y4YuNx33DJA2) | 6:02 |
-| 3 | [Every Rose Has Its Thorn \- 2003 Remaster](https://open.spotify.com/track/43GS3mtezoIFiuIZCLLiDY) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Open Up And Say...Ahh! \(20th Anniversary Edition\)](https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd) | 4:20 |
-| 4 | [La Joya Del Pacífico](https://open.spotify.com/track/0aHps38kFw6Aqg9sJpD97d) | [Joe Vasconcellos](https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce) | [Vivo](https://open.spotify.com/album/79FV3umAXbluM0QSFIbeAC) | 3:43 |
-| 5 | [Lugares Que Hablan 2021 \- Banda Sonora Original de la serie "Lugares que Hablan"](https://open.spotify.com/track/6b2RN1OQ0SQ97HXWN7DmDS) | [Angel Parra Orrego](https://open.spotify.com/artist/33XTgiMGZUjMR6SnwE2qUy) | [Soundtracks](https://open.spotify.com/album/3gPTAqe1C9M0APYGlaDO2q) | 1:19 |
-| 6 | [Am I Evil \(Bonus Track\)](https://open.spotify.com/track/3bQji1D79jL8vi99piHltp) | [Sour](https://open.spotify.com/artist/6fR2DcLSltqmOiBIczCpSX) | [Punk Goes Metal \(Extended Version\)](https://open.spotify.com/album/6uyqrSmGc6nCicqLVcp1HA) | 4:53 |
-| 7 | [The Disease](https://open.spotify.com/track/0uXI7oOZGNzaRhyCBJ2TNH) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [The Cleansing](https://open.spotify.com/album/0SopA0aoJmUDwWyOC2uJlk) | 4:22 |
-| 8 | [I Wanna Die in Los Angeles](https://open.spotify.com/track/0CDKEvcZFbZO1YTgpZxZno) | [Dead To Me](https://open.spotify.com/artist/0WwbVkYbderW7JeP79ApoL) | [I Wanna Die in Los Angeles](https://open.spotify.com/album/4uJeecYvf6JU7EF9LtLIw9) | 2:22 |
-| 9 | [Amor a distancia](https://open.spotify.com/track/5N1lE0e19I5Ypwvfs0ezBc) | [Negro Jacinto](https://open.spotify.com/artist/1vmU64v5EuGkNp3eaYesik), [Juan Bisso](https://open.spotify.com/artist/3w287fUWzCfiWUA5qKyJeo) | [Amor a distancia](https://open.spotify.com/album/7oANQFqVu4ThIKQ8F1zkfE) | 3:26 |
-| 10 | [When I See You Smile](https://open.spotify.com/track/0tKjVEJlX3IZ5L1rEJc5hh) | [Bad English](https://open.spotify.com/artist/5fhMbh4PVSLSODF2fhWwqt) | [Bad English](https://open.spotify.com/album/0oNZnqsNbKKMKedFNNRs69) | 4:17 |
-| 11 | [Self\-destructor](https://open.spotify.com/track/5HeivWMgipA2LeBHrUhEip) | [Good Looks](https://open.spotify.com/artist/0ba3O2a1JNxb3oXbF74KcG) | [Self\-destructor](https://open.spotify.com/album/36n5CV0n4NVyeJiIjPxkOn) | 4:45 |
-| 12 | [Cartoon Network](https://open.spotify.com/track/50RWxzGwOwWheC6qE2CQLb) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir) | [Cartoon Network](https://open.spotify.com/album/6yT07itJwwCGcqbJhLl5yG) | 2:28 |
+| 1 | [Hey There Mr\. Brooks](https://open.spotify.com/track/6dzgSgf7jNysk0m37mrQq0) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Stand Up And Scream](https://open.spotify.com/album/57iXTZZW4VLkrBoErSsI5y) | 4:09 |
+| 2 | [The Logical Song](https://open.spotify.com/track/5Z4EgTCCoObfO1WfrvrQ9v) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [The Very Best Of Supertramp](https://open.spotify.com/album/3kv1eLaL0W9Uci9mZGryzS) | 4:09 |
+| 3 | [Lullaby \- Remastered](https://open.spotify.com/track/0ZYdUkAQmKHsaKRmq8tWSE) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy) | 4:08 |
+| 4 | [FLINSKY](https://open.spotify.com/track/6AJMc5INWfrIhsGugFx1tV) | [Galo Barker](https://open.spotify.com/artist/0K7CHaWKAmKYaPFBnAW9q9), [ALBOROTO](https://open.spotify.com/artist/5v1PFXHSjczI3YZDPvASj7) | [DEMO KID](https://open.spotify.com/album/30sMDtANxzl5FdWfCCITrh) | 1:10 |
+| 5 | [Bark at the Moon](https://open.spotify.com/track/2E7W1X4maFFcjHrVrFA7Vs) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Bark At The Moon \(Expanded Edition\)](https://open.spotify.com/album/537qKeG5gbEvKJpQ4Qmszn) | 4:17 |
+| 6 | [Canción de Lejos](https://open.spotify.com/track/2zpX1lQX2uMQtZu9OrLyUB) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Canción De Lejos](https://open.spotify.com/album/6mEv2ZSIvmq8hMtnBDPpCK) | 4:08 |
+| 7 | [Your Way With Words Is Through Silence](https://open.spotify.com/track/1sfYgIFEvgWAFsSnbiBKxr) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [And Their Name Was Treason](https://open.spotify.com/album/4UlUTVHQgmjBbptRHWUI5T) | 3:53 |
+| 8 | [Panama \- 2015 Remaster](https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 3:30 |
+| 9 | [A Song For The Hopeless](https://open.spotify.com/track/1CnlE8WnbWMpvHKMZGarUG) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [Overcome](https://open.spotify.com/album/65F5C4fjYjnGOGcJjk5iaq) | 4:15 |
+| 10 | [Twenty First Century Boy](https://open.spotify.com/track/4FxiAllpIaZMFIKHdAROWH) | [Sigue Sigue Sputnik](https://open.spotify.com/artist/6GKVXdXGEOPzpilArcqBun) | [Flaunt It](https://open.spotify.com/album/5UzShGWJIpOfH98tnk2qQl) | 5:10 |
+| 11 | [Don't Ask](https://open.spotify.com/track/1tZ7VK5bmv0svHV5Ge3xVI) | [Wax Bentayga](https://open.spotify.com/artist/0iMvVDnhJLnTrUVcsJHBbv) | [Don't Ask](https://open.spotify.com/album/0bb3PplllwgVpxJo4UZhMs) | 2:38 |
+| 12 | [Seven Seas Of Rhye \- Remastered 2011](https://open.spotify.com/track/5u99eyhU43QoLeXXG6caoL) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits \(Remastered\)](https://open.spotify.com/album/3VWrUk4vBznMYXGMPc7dRB) | 2:47 |
 
-Snapshot ID: `AAAAZmQfh0oYF33QIJazoKutTKS917k6`
+Snapshot ID: `AAAAZzAMJQVcbHffQGwCcobH1MtZEADI`

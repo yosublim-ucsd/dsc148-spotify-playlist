@@ -1,5 +1,5 @@
 {
-  "2024-05-01": 8248162,
+  "2024-05-02": 8248907,
   "date_first_scraped": "2019-05-26",
   "description": "The biggest songs of the 2010s. Cover: Billie Eilish",
   "name": "All Out 2010s",
@@ -3893,7 +3893,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 183290,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62"
@@ -7067,7 +7067,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2023-03-30",
+      "date_removed": null,
       "duration_ms": 195706,
       "name": "In the Name of Love",
       "url": "https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S"

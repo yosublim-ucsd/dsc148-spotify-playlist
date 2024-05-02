@@ -3097,6 +3097,32 @@
     },
     {
       "album": {
+        "name": "New Energy",
+        "url": "https://open.spotify.com/album/3i2C52xQrpGrhw9kudEXSF"
+      },
+      "artists": [
+        {
+          "name": "Matrix & Futurebound",
+          "url": "https://open.spotify.com/artist/41iVQ05he8SrfIWbZQ58N7"
+        },
+        {
+          "name": "Blaine Stranger",
+          "url": "https://open.spotify.com/artist/4ZKZR4BBx5EaP4T3slUd1j"
+        },
+        {
+          "name": "Tom Cane",
+          "url": "https://open.spotify.com/artist/5iFDzfBI6aebgrb9ljJhme"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215172,
+      "name": "New Energy",
+      "url": "https://open.spotify.com/track/7lg5Ub6z08aSDkPhhMbnGO"
+    },
+    {
+      "album": {
         "name": "No Excuses",
         "url": "https://open.spotify.com/album/1r6fzHMhZcd35ZkpKPRRWE"
       },
@@ -4130,7 +4156,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 224232,
       "name": "Supersonic - Basstripper Remix",
       "url": "https://open.spotify.com/track/0vMIb12OsAkLzYuuWixnka"

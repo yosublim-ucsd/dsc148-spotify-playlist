@@ -1,12 +1,12 @@
 {
   "description": "This Is Los Tucanes De Tijuana. Los temas esenciales, todos en una lista.",
-  "num_followers": 298825,
+  "num_followers": 298894,
   "original_name": "This Is Los Tucanes De Tijuana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zi7jAAAAAABwNIPPjEosCiYZMrCayOBs",
+  "snapshot_id": "ZjA0gAAAAAD1I/hhVE2+l2mPUhz7e7Y8",
   "tracks": [
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos A Quema Ropa",
-        "url": "https://open.spotify.com/album/6roTGjh0yLNKpZil7EZCVK"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 197040,
-      "name": "El MZ",
-      "url": "https://open.spotify.com/track/3PBqV2WG8gGZbZJP3EbU8i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Imperio",
         "url": "https://open.spotify.com/album/4n0IYzVbxLFckUKpurk6kN"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 191613,
       "name": "El Regreso Del Chapo",
       "url": "https://open.spotify.com/track/4baEwCzla3yCyz21uhOFLp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos A Quema Ropa",
+        "url": "https://open.spotify.com/album/6roTGjh0yLNKpZil7EZCVK"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 197040,
+      "name": "El MZ",
+      "url": "https://open.spotify.com/track/3PBqV2WG8gGZbZJP3EbU8i"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lista Negra",
-        "url": "https://open.spotify.com/album/4DszgJmZkatLJFbLvTyklT"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 156493,
-      "name": "El Agricultor",
-      "url": "https://open.spotify.com/track/7C3bObRIUeOGPDWlhSKEvw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos De Primera Plana",
         "url": "https://open.spotify.com/album/368bh2s0aVeChSmOHvmXxz"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 173386,
       "name": "El Pesado",
       "url": "https://open.spotify.com/track/1INJtwan6KATEWHapjTtHZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lista Negra",
+        "url": "https://open.spotify.com/album/4DszgJmZkatLJFbLvTyklT"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 156493,
+      "name": "El Agricultor",
+      "url": "https://open.spotify.com/track/7C3bObRIUeOGPDWlhSKEvw"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mundo De Amor",
-        "url": "https://open.spotify.com/album/4j3lGLBvF4xIcIvRtavqUt"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 185440,
-      "name": "6 Pies Boca Abajo",
-      "url": "https://open.spotify.com/track/7ou8urgcLm23xBQhGfKF1g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tucanes De Plata ... Tucanazos Censurados",
         "url": "https://open.spotify.com/album/2weY5cDV6Cynr1LqZE1ouf"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 207893,
       "name": "Se Desgran\u00f3 La Mazorca",
       "url": "https://open.spotify.com/track/0sjpjZQYvnssMQ34lUpfpY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mundo De Amor",
+        "url": "https://open.spotify.com/album/4j3lGLBvF4xIcIvRtavqUt"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 185440,
+      "name": "6 Pies Boca Abajo",
+      "url": "https://open.spotify.com/track/7ou8urgcLm23xBQhGfKF1g"
     },
     {
       "added_at": null,

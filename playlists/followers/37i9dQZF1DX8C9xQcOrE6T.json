@@ -1,5 +1,5 @@
 {
-  "2024-05-01": 5316705,
+  "2024-05-02": 5317401,
   "date_first_scraped": "2022-04-19",
   "description": "All your favorite Disney hits, including songs from Wish.",
   "name": "Disney Hits",
@@ -1542,6 +1542,28 @@
     },
     {
       "album": {
+        "name": "Wish (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0E1E9rycn3meGC321pYwmZ"
+      },
+      "artists": [
+        {
+          "name": "Wish - Cast",
+          "url": "https://open.spotify.com/artist/5OLl3QAQOcnab5ofRR05jM"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174786,
+      "name": "I'm A Star",
+      "url": "https://open.spotify.com/track/0F1TCjZ7rnMnK4Y4O5byP7"
+    },
+    {
+      "album": {
         "name": "I'm A Star (From \"Wish\")",
         "url": "https://open.spotify.com/album/5d9Zsbx6BAiZcVgy2TWVG8"
       },
@@ -1557,7 +1579,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 174786,
       "name": "I'm A Star - From \"Wish\"",
       "url": "https://open.spotify.com/track/7HphtEcMxf0ViBb8wtU8Re"
@@ -1950,6 +1972,36 @@
     },
     {
       "album": {
+        "name": "Wish (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0E1E9rycn3meGC321pYwmZ"
+      },
+      "artists": [
+        {
+          "name": "Ariana DeBose",
+          "url": "https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs"
+        },
+        {
+          "name": "Angelique Cabral",
+          "url": "https://open.spotify.com/artist/4sEFD7V049ZiliYdmXR9fJ"
+        },
+        {
+          "name": "Wish - Cast",
+          "url": "https://open.spotify.com/artist/5OLl3QAQOcnab5ofRR05jM"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200573,
+      "name": "Knowing What I Know Now",
+      "url": "https://open.spotify.com/track/1mN6jJnnHZeWaXDv8Rsoi4"
+    },
+    {
+      "album": {
         "name": "Knowing What I Know Now (From \"Wish\")",
         "url": "https://open.spotify.com/album/2U1roLuS984WZ0iAYRVNl6"
       },
@@ -1973,7 +2025,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 200586,
       "name": "Knowing What I Know Now - From \"Wish\"",
       "url": "https://open.spotify.com/track/1uyTVf2kc69fe1i8frN3Lf"
@@ -3378,6 +3430,28 @@
     },
     {
       "album": {
+        "name": "Wish (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0E1E9rycn3meGC321pYwmZ"
+      },
+      "artists": [
+        {
+          "name": "Chris Pine",
+          "url": "https://open.spotify.com/artist/5ueYs7bR3niiOeZdOSge5e"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194173,
+      "name": "This Is The Thanks I Get?!",
+      "url": "https://open.spotify.com/track/4CArBYFhVovvWYu9FW23mr"
+    },
+    {
+      "album": {
         "name": "This Is The Thanks I Get?! (From \"Wish\")",
         "url": "https://open.spotify.com/album/68aJkU3aeRGUW2p4lGnVzL"
       },
@@ -3393,10 +3467,32 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 194160,
       "name": "This Is The Thanks I Get?! - From \"Wish\"",
       "url": "https://open.spotify.com/track/5jzCoRQd6YsKNWy4S3SUsx"
+    },
+    {
+      "album": {
+        "name": "Wish (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0E1E9rycn3meGC321pYwmZ"
+      },
+      "artists": [
+        {
+          "name": "Ariana DeBose",
+          "url": "https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205466,
+      "name": "This Wish",
+      "url": "https://open.spotify.com/track/2srilwiYAXsMkmwny0RUQ3"
     },
     {
       "album": {
@@ -3419,10 +3515,36 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 165173,
       "name": "This Wish (Reprise)",
       "url": "https://open.spotify.com/track/468xdCSM8P7WST9MV67RrB"
+    },
+    {
+      "album": {
+        "name": "Wish (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0E1E9rycn3meGC321pYwmZ"
+      },
+      "artists": [
+        {
+          "name": "Ariana DeBose",
+          "url": "https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs"
+        },
+        {
+          "name": "Wish - Cast",
+          "url": "https://open.spotify.com/artist/5OLl3QAQOcnab5ofRR05jM"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165186,
+      "name": "This Wish (Reprise)",
+      "url": "https://open.spotify.com/track/03dh3HGB2NPjAkL72HUsqD"
     },
     {
       "album": {
@@ -3441,7 +3563,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 205480,
       "name": "This Wish - From \"Wish\"",
       "url": "https://open.spotify.com/track/5yvHjO06WHe7ETlgirLjbw"
@@ -3744,6 +3866,32 @@
     },
     {
       "album": {
+        "name": "Wish (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0E1E9rycn3meGC321pYwmZ"
+      },
+      "artists": [
+        {
+          "name": "Ariana DeBose",
+          "url": "https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs"
+        },
+        {
+          "name": "Wish - Cast",
+          "url": "https://open.spotify.com/artist/5OLl3QAQOcnab5ofRR05jM"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147933,
+      "name": "Welcome To Rosas",
+      "url": "https://open.spotify.com/track/0Rl0MTCd5rMNxUbxCayrbn"
+    },
+    {
+      "album": {
         "name": "Welcome To Rosas (From \"Wish\")",
         "url": "https://open.spotify.com/album/4q3CESoBemRptRaga5teAx"
       },
@@ -3763,7 +3911,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 147946,
       "name": "Welcome To Rosas - From \"Wish\"",
       "url": "https://open.spotify.com/track/2WjNeDXYk0EdyCSpK9hi5x"
@@ -3815,10 +3963,36 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 190720,
       "name": "What's My Name",
       "url": "https://open.spotify.com/track/53xAT6jud1w0NqlBjSW4VB"
+    },
+    {
+      "album": {
+        "name": "What's My Name (Red Version) [From \"Descendants: The Rise of Red\"/Soundtrack Version]",
+        "url": "https://open.spotify.com/album/2UGytdqtYVoyPeBa5UTP7u"
+      },
+      "artists": [
+        {
+          "name": "China Anne McClain",
+          "url": "https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV"
+        },
+        {
+          "name": "Kylie Cantrall",
+          "url": "https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146642,
+      "name": "What's My Name (Red Version) - From \"Descendants: The Rise of Red\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/1duJTDSFuK3sB0NwNr0QRg"
     },
     {
       "album": {

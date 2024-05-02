@@ -1,5 +1,5 @@
 {
-  "2024-05-01": 311120,
+  "2024-05-02": 311120,
   "date_first_scraped": "2022-01-01",
   "description": "Relax with deep house and electronica.",
   "name": "Afterhours",
@@ -1411,7 +1411,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-28",
+      "date_removed": null,
       "duration_ms": 253500,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/5uDNFpDhvw65Jwc7F4UJJg"
@@ -4375,7 +4375,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 330545,
       "name": "Parallels",
       "url": "https://open.spotify.com/track/0YDIy9Ixkh7dH36GanI1YJ"

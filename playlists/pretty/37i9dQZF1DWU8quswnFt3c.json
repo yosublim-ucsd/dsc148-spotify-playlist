@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume from across the world. Cover: Laufey",
-  "num_followers": 924484,
+  "num_followers": 925118,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-04-17 18:59:13",
       "album": {
-        "name": "The Day That I Met You",
-        "url": "https://open.spotify.com/album/2w5BVD5WObeg5FkJxBgmES"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 165080,
-      "name": "The Day That I Met You",
-      "url": "https://open.spotify.com/track/2G31WfcBUlMGZ8lpJ0bfA1"
-    },
-    {
-      "added_at": "2024-04-17 18:59:13",
-      "album": {
         "name": "Arcadia",
         "url": "https://open.spotify.com/album/2AVn0YgzBtqsa0d6R5QD95"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 263280,
       "name": "Arcadia",
       "url": "https://open.spotify.com/track/5mqVdt50q0fYvyz3gd6eKe"
+    },
+    {
+      "added_at": "2024-04-17 18:59:13",
+      "album": {
+        "name": "The Day That I Met You",
+        "url": "https://open.spotify.com/album/2w5BVD5WObeg5FkJxBgmES"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 165080,
+      "name": "The Day That I Met You",
+      "url": "https://open.spotify.com/track/2G31WfcBUlMGZ8lpJ0bfA1"
     },
     {
       "added_at": "2024-04-17 18:59:13",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-04-17 18:59:13",
       "album": {
-        "name": "La Haine",
-        "url": "https://open.spotify.com/album/3CYYNa8FPHvnVbUc5sz1Ba"
-      },
-      "artists": [
-        {
-          "name": "Ekin Beril",
-          "url": "https://open.spotify.com/artist/1sJ90imre0sj4Kj4a8xyXp"
-        }
-      ],
-      "duration_ms": 201409,
-      "name": "La Haine",
-      "url": "https://open.spotify.com/track/5xxKSUKBn3YciHGkhrXcLu"
-    },
-    {
-      "added_at": "2024-04-17 18:59:13",
-      "album": {
         "name": "Sconosciuti superstar",
         "url": "https://open.spotify.com/album/4DFhDSOSXmgIXXFd2VUNzg"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 155840,
       "name": "Acqua ossigenata",
       "url": "https://open.spotify.com/track/3Q8UZcTEBbaVcg9RhShnY0"
+    },
+    {
+      "added_at": "2024-04-17 18:59:13",
+      "album": {
+        "name": "La Haine",
+        "url": "https://open.spotify.com/album/3CYYNa8FPHvnVbUc5sz1Ba"
+      },
+      "artists": [
+        {
+          "name": "Ekin Beril",
+          "url": "https://open.spotify.com/artist/1sJ90imre0sj4Kj4a8xyXp"
+        }
+      ],
+      "duration_ms": 201409,
+      "name": "La Haine",
+      "url": "https://open.spotify.com/track/5xxKSUKBn3YciHGkhrXcLu"
     },
     {
       "added_at": "2024-04-17 18:59:13",

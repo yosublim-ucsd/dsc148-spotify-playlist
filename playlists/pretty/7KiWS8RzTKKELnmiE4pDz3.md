@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 86 songs - 4 hr 47 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 90 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,5 +94,9 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 84 | [Dsco](https://open.spotify.com/track/1OKkG3vxEuBBwLw1gCqdNW) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [Velocity: Design: Comfort.](https://open.spotify.com/album/0eUUQ4rly8Q8PyJPWLgde2) | 3:11 |
 | 85 | [Where we left Off](https://open.spotify.com/track/189jnLyHbPJKr5bp11qdDi) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Nothing more Nothing LESS](https://open.spotify.com/album/0oQ0ObULWWC4LItIkL9hM0) | 3:47 |
 | 86 | [Milk \- 2021 Remaster](https://open.spotify.com/track/7Jq4cV3F5puQfUAxL4sHL8) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [You Will Never Know Why \(2021 Remaster\)](https://open.spotify.com/album/0kmPn6M3cue7rec6Unw6BD) | 4:25 |
+| 87 | [SoHo Freestyle](https://open.spotify.com/track/4fs8ivWpMFLziD20LglPmZ) | [Pivot Gang](https://open.spotify.com/artist/0kDgxQlVYVecF6MCNWJTYE), [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Two Piece Tour Pack](https://open.spotify.com/album/7ACNmhUl7NLo0Gn4WPaE4A) | 3:34 |
+| 88 | [Need for Speed](https://open.spotify.com/track/7DHRqkAR1C6KWD08uKolQx) | [K Suave](https://open.spotify.com/artist/04a6mc5vUtj2pMzteToeH7) | [Midnight in Malibu](https://open.spotify.com/album/4y8rrv9UMZGS9vBx0VVOFp) | 3:09 |
+| 89 | [Need for Speed](https://open.spotify.com/track/7DHRqkAR1C6KWD08uKolQx) | [K Suave](https://open.spotify.com/artist/04a6mc5vUtj2pMzteToeH7) | [Midnight in Malibu](https://open.spotify.com/album/4y8rrv9UMZGS9vBx0VVOFp) | 3:09 |
+| 90 | [SCIENTISTS & ENGINEERS \(feat\. Future & Eryn Allen Kane\)](https://open.spotify.com/track/1UsPflAuWTNteFUPJAJe8E) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [MICHAEL](https://open.spotify.com/album/2mBH7RhAS6vRKkSlA7IRIJ) | 4:13 |
 
-Snapshot ID: `AAAchuFH8hREGSohS7aD05a8nxO97iwN`
+Snapshot ID: `AAAciuFtkVgXUmS+frOhvrXQmWtSLOmk`

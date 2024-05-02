@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Mari Fernandez, Anitta, Chefin e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,903,096 likes - 74 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,903,502 likes - 74 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 54 | [Now Is Gone](https://open.spotify.com/track/7f0Wj4VRdNj8aPC3s9NcbH) | [Slow Motion](https://open.spotify.com/artist/6jmHuLfbWlq34KedQ7mA5I) | [Weapons of Peace](https://open.spotify.com/album/4KDdTK5jvpYextPXiDGF0x) | 5:04 |
 | 55 | [Sounds Of The Underground](https://open.spotify.com/track/0P3C9C9qhNjVs7SIypjRBO) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Khouri](https://open.spotify.com/artist/41gBrGxvxCloe8iijf1iDQ), [Schillist](https://open.spotify.com/artist/2qvWyc9Z0oHK156P65vH4d) | [Sounds Of The Underground](https://open.spotify.com/album/6MdmxZIhUVUt7vPxhuFLRs) | 3:42 |
 | 56 | [Champagne Bottle](https://open.spotify.com/track/31eW4SdIrJId1bnkxSCXb2) | [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC), [Mazzocchi](https://open.spotify.com/artist/3nMnwaOd4MPONzv5i46Wza) | [Champagne Bottle](https://open.spotify.com/album/3NMmBvaC3sZePl51vd6iof) | 1:58 |
-| 57 | [Suavamente](https://open.spotify.com/track/2iqQ0Pk82ozDZjXWBvTnan) | [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Suavamente](https://open.spotify.com/album/2GYBxxYz9NNOSkjZNIXZXy) | 2:32 |
+| 57 | [Suavemente](https://open.spotify.com/track/2iqQ0Pk82ozDZjXWBvTnan) | [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Suavemente](https://open.spotify.com/album/2GYBxxYz9NNOSkjZNIXZXy) | 2:32 |
 | 58 | [Outro Nível](https://open.spotify.com/track/0dVTlXBI0B4mMYeQqhcwgw) | [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Milbeats](https://open.spotify.com/artist/6oQfW0xYBhMqOMt5cJ4oSV), [Tru3 Beats](https://open.spotify.com/artist/0EfqQGxQlYlEBs6irSlBDX) | [Outro Nível](https://open.spotify.com/album/0NwFbXBUpK5XRrZ3OstHFK) | 2:30 |
 | 59 | [Alma Purificada](https://open.spotify.com/track/1hZtQ68m4oReMZfcy4RbB9) | [Predella](https://open.spotify.com/artist/3lMQtpA4i6FrIe6DmDfDVa), [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO), [Ari](https://open.spotify.com/artist/6EkinzGVGybboT2maC1VyE), [Ribb](https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE) | [A Arte de Samplear](https://open.spotify.com/album/4nwI31yt1AdCGpkR2xo1Zj) | 3:44 |
 | 60 | [Quer ou Não Quer?](https://open.spotify.com/track/6P3pUqOjoXYxsYEeqdHriP) | [Manocchio](https://open.spotify.com/artist/6eF2txpySndQt339aJjQE2), [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Quer ou Não Quer?](https://open.spotify.com/album/2RrbFaJycZn6RiUgDTNyJK) | 3:30 |

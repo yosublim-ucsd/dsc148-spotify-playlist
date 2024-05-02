@@ -1387,6 +1387,24 @@
     },
     {
       "album": {
+        "name": "Girl I Love You",
+        "url": "https://open.spotify.com/album/4hAf0zZXenvIJvQvecUjeV"
+      },
+      "artists": [
+        {
+          "name": "I Wayne",
+          "url": "https://open.spotify.com/artist/3HQIkVkhoARQMb0XlvyUKL"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253143,
+      "name": "Girl I Love You",
+      "url": "https://open.spotify.com/track/66kyTVEzClMpjQ5FeddhCu"
+    },
+    {
+      "album": {
         "name": "God Flo",
         "url": "https://open.spotify.com/album/4x4obAcTr9ET8r5U3XMw0u"
       },
@@ -2016,7 +2034,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 231543,
       "name": "Jah Live",
       "url": "https://open.spotify.com/track/2z5cwp5bP6Ee0OkqZIMhUO"

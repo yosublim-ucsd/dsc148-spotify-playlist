@@ -1,13 +1,29 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Bloomsday",
-  "num_followers": 67211,
+  "num_followers": 67420,
   "original_name": "Fresh Finds Folk ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZiiDwAAAAAAeb1DB9ejCMilvCbncbZY+",
+  "snapshot_id": "ZjG+QAAAAADC10DI1GoReKkM+ScVfiuz",
   "tracks": [
+    {
+      "added_at": "2024-05-01 04:00:00",
+      "album": {
+        "name": "grips",
+        "url": "https://open.spotify.com/album/71uZd2dScWHUmpKLV3QyWX"
+      },
+      "artists": [
+        {
+          "name": "Pem",
+          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
+        }
+      ],
+      "duration_ms": 178331,
+      "name": "grips",
+      "url": "https://open.spotify.com/track/3OdyOQKTsqiUs25V1aXUsR"
+    },
     {
       "added_at": "2024-04-24 04:00:00",
       "album": {
@@ -23,6 +39,102 @@
       "duration_ms": 189829,
       "name": "Virtual Hug",
       "url": "https://open.spotify.com/track/4eSsPJbJQ5hLYjg90FiRCD"
+    },
+    {
+      "added_at": "2024-05-01 04:00:00",
+      "album": {
+        "name": "Reminded",
+        "url": "https://open.spotify.com/album/2psY8GbynyEElP4GMTQUif"
+      },
+      "artists": [
+        {
+          "name": "Carlina de Place",
+          "url": "https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Reminded",
+      "url": "https://open.spotify.com/track/4ebHQo1dExU3ZhXIa40alP"
+    },
+    {
+      "added_at": "2024-05-01 04:00:00",
+      "album": {
+        "name": "I Miss the Sky",
+        "url": "https://open.spotify.com/album/1Ffa7l8Fh6kPl4LV8KGste"
+      },
+      "artists": [
+        {
+          "name": "Hayden Everett",
+          "url": "https://open.spotify.com/artist/6sIPNR4ZDctKr2OSiAVtBc"
+        }
+      ],
+      "duration_ms": 219954,
+      "name": "Seize The Sun",
+      "url": "https://open.spotify.com/track/2kuYksbeaWWT6nc7YhWmW1"
+    },
+    {
+      "added_at": "2024-05-01 04:00:00",
+      "album": {
+        "name": "my best friend sam",
+        "url": "https://open.spotify.com/album/6egCLcpXKE9FRjdgDu036n"
+      },
+      "artists": [
+        {
+          "name": "Izzy Heltai",
+          "url": "https://open.spotify.com/artist/609L5isoR1bZrX1oB0y6dF"
+        }
+      ],
+      "duration_ms": 181377,
+      "name": "my best friend sam",
+      "url": "https://open.spotify.com/track/1jqzTIrfSISp24djilzthX"
+    },
+    {
+      "added_at": "2024-05-01 04:00:00",
+      "album": {
+        "name": "the cards",
+        "url": "https://open.spotify.com/album/4l73qnloX4HsFd42X5aDwv"
+      },
+      "artists": [
+        {
+          "name": "Sydney Sprague",
+          "url": "https://open.spotify.com/artist/6kclOkS27VyWBtdnNq5GHs"
+        }
+      ],
+      "duration_ms": 124575,
+      "name": "the cards",
+      "url": "https://open.spotify.com/track/1T1xEv50uNtLsBb7qtKtB7"
+    },
+    {
+      "added_at": "2024-05-01 04:00:00",
+      "album": {
+        "name": "your patience, it ran so high",
+        "url": "https://open.spotify.com/album/5bB1lXjiYwFlkLnhghRSDZ"
+      },
+      "artists": [
+        {
+          "name": "harf.",
+          "url": "https://open.spotify.com/artist/12dcW7121xWHkU7xCBvyUX"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "your patience, it ran so high",
+      "url": "https://open.spotify.com/track/1t50oz5M1NFhvuuR2lB6jq"
+    },
+    {
+      "added_at": "2024-05-01 04:00:00",
+      "album": {
+        "name": "All Of You",
+        "url": "https://open.spotify.com/album/4iRhSgdZhzbvI9CvcdvxjD"
+      },
+      "artists": [
+        {
+          "name": "Alex Siegel",
+          "url": "https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS"
+        }
+      ],
+      "duration_ms": 201230,
+      "name": "All Of You",
+      "url": "https://open.spotify.com/track/2xjiLpJGh1xrj98DJaNhgR"
     },
     {
       "added_at": "2024-04-24 04:00:00",
@@ -759,22 +871,6 @@
       "duration_ms": 223266,
       "name": "Please",
       "url": "https://open.spotify.com/track/2nGo49pmg4s4ZLWOj3MsbH"
-    },
-    {
-      "added_at": "2024-03-14 14:54:58",
-      "album": {
-        "name": "awe",
-        "url": "https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl"
-      },
-      "artists": [
-        {
-          "name": "Pem",
-          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
-        }
-      ],
-      "duration_ms": 235382,
-      "name": "awe",
-      "url": "https://open.spotify.com/track/20liuVONukHV5oK7kghgOI"
     },
     {
       "added_at": "2024-03-27 04:00:00",
@@ -1519,102 +1615,6 @@
       "duration_ms": 279773,
       "name": "Is There A World?",
       "url": "https://open.spotify.com/track/3zWjljKhpIvBMXJc8aNnnV"
-    },
-    {
-      "added_at": "2024-02-28 05:00:00",
-      "album": {
-        "name": "Kindergarten Heart",
-        "url": "https://open.spotify.com/album/3H7nFcNvSTRr5e1hOU3neJ"
-      },
-      "artists": [
-        {
-          "name": "Shaina Hayes",
-          "url": "https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ"
-        }
-      ],
-      "duration_ms": 177843,
-      "name": "Kindergarten Heart",
-      "url": "https://open.spotify.com/track/4sfkyrxPn0YOCohtvBRPJo"
-    },
-    {
-      "added_at": "2024-02-28 05:00:00",
-      "album": {
-        "name": "The Bell Jar",
-        "url": "https://open.spotify.com/album/4ZbxxQPdwBFmFHsq3JAjLK"
-      },
-      "artists": [
-        {
-          "name": "Chrissy",
-          "url": "https://open.spotify.com/artist/3QwRBjTeM46BQmREpCiL6f"
-        }
-      ],
-      "duration_ms": 139024,
-      "name": "The Bell Jar",
-      "url": "https://open.spotify.com/track/1LUek8Od6zrrcPxhXrkNIz"
-    },
-    {
-      "added_at": "2024-02-28 05:00:00",
-      "album": {
-        "name": "memos from misty harbor drive",
-        "url": "https://open.spotify.com/album/1cynxBW6aRD5vxCkoBgKDo"
-      },
-      "artists": [
-        {
-          "name": "Wilfred",
-          "url": "https://open.spotify.com/artist/7dZa7l5PsnUBItVQFPp6ym"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "misty harbor.memo",
-      "url": "https://open.spotify.com/track/094txiQqH7G4AoaPBeA4aE"
-    },
-    {
-      "added_at": "2024-02-07 05:00:00",
-      "album": {
-        "name": "Brusco",
-        "url": "https://open.spotify.com/album/3CYGeefAutX7xZVBPhX4uc"
-      },
-      "artists": [
-        {
-          "name": "Juno Willo",
-          "url": "https://open.spotify.com/artist/6nPeloQYD2WuhzUJawHZke"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Brusco",
-      "url": "https://open.spotify.com/track/5KOPS6Q50l66RgQR8MjSh2"
-    },
-    {
-      "added_at": "2024-02-21 15:28:25",
-      "album": {
-        "name": "Look Around / Simple",
-        "url": "https://open.spotify.com/album/5OGV9LPH8d63btJ904hLwi"
-      },
-      "artists": [
-        {
-          "name": "Jia*",
-          "url": "https://open.spotify.com/artist/23B8icZGpSGzcedCDa2Cjy"
-        }
-      ],
-      "duration_ms": 144003,
-      "name": "Simple",
-      "url": "https://open.spotify.com/track/25ODmLEb3AI2ZTaYUXFACi"
-    },
-    {
-      "added_at": "2024-02-28 05:00:00",
-      "album": {
-        "name": "Nico Paulo",
-        "url": "https://open.spotify.com/album/4hxJYEOKb1NGphLaJb0QuN"
-      },
-      "artists": [
-        {
-          "name": "Nico Paulo",
-          "url": "https://open.spotify.com/artist/5qmzeW1wvVq0c2lFK1MieD"
-        }
-      ],
-      "duration_ms": 107566,
-      "name": "Intro, Dream",
-      "url": "https://open.spotify.com/track/6h3eqlgYSMVbxQvNsfIwN3"
     }
   ],
   "unique_name": "Fresh Finds Folk ",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Justice, St\. Vincent, Teddy Swims and more! cover: Justice
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,506 likes - 92 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,509 likes - 92 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

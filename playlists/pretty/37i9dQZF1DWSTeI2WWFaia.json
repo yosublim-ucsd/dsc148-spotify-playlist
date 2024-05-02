@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Joyner Lucas",
-  "num_followers": 1591736,
+  "num_followers": 1591693,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -739,22 +739,18 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "A Forsaken Lover's Plea",
-        "url": "https://open.spotify.com/album/02MmFj3ONHFwvZMfZXWtPy"
+        "name": "Stand Tall",
+        "url": "https://open.spotify.com/album/2FUM8dpooyuVtEoWyLxwh8"
       },
       "artists": [
         {
-          "name": "Chuck Strangers",
-          "url": "https://open.spotify.com/artist/1o1szEyRkKUmDfqHOsU9b5"
-        },
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
         }
       ],
-      "duration_ms": 180588,
-      "name": "Polish Jazz",
-      "url": "https://open.spotify.com/track/60D2JqdH4iixYCW5KQFNyR"
+      "duration_ms": 129498,
+      "name": "Stand Tall",
+      "url": "https://open.spotify.com/track/4kia4JAVdfeMtCPrVoC5UH"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -795,18 +791,22 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Stand Tall",
-        "url": "https://open.spotify.com/album/2FUM8dpooyuVtEoWyLxwh8"
+        "name": "A Forsaken Lover's Plea",
+        "url": "https://open.spotify.com/album/02MmFj3ONHFwvZMfZXWtPy"
       },
       "artists": [
         {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+          "name": "Chuck Strangers",
+          "url": "https://open.spotify.com/artist/1o1szEyRkKUmDfqHOsU9b5"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
         }
       ],
-      "duration_ms": 129498,
-      "name": "Stand Tall",
-      "url": "https://open.spotify.com/track/4kia4JAVdfeMtCPrVoC5UH"
+      "duration_ms": 180588,
+      "name": "Polish Jazz",
+      "url": "https://open.spotify.com/track/60D2JqdH4iixYCW5KQFNyR"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -847,6 +847,30 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
+        "name": "Giants Of The Fall",
+        "url": "https://open.spotify.com/album/0Je2clWtq4qMFi00s0bGpH"
+      },
+      "artists": [
+        {
+          "name": "Guilty Simpson",
+          "url": "https://open.spotify.com/artist/0Zji66LHK0QCC8AUMuyp3h"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Kong The Artisan",
+          "url": "https://open.spotify.com/artist/5bPN5M1j5Je82NV1Vcp3qE"
+        }
+      ],
+      "duration_ms": 181196,
+      "name": "Giants Of The Fall",
+      "url": "https://open.spotify.com/track/57RzX9szVUX5gsfPQNc72M"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
         "name": "Everybody Can't Go",
         "url": "https://open.spotify.com/album/13IanJ8zx7YcCJ5yIvArIq"
       },
@@ -871,30 +895,6 @@
       "duration_ms": 345297,
       "name": "Griselda Express (with Westside Gunn, Conway The Machine & Rick Hyde)",
       "url": "https://open.spotify.com/track/3WanwKuwk826e61JQwejQQ"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Giants Of The Fall",
-        "url": "https://open.spotify.com/album/0Je2clWtq4qMFi00s0bGpH"
-      },
-      "artists": [
-        {
-          "name": "Guilty Simpson",
-          "url": "https://open.spotify.com/artist/0Zji66LHK0QCC8AUMuyp3h"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Kong The Artisan",
-          "url": "https://open.spotify.com/artist/5bPN5M1j5Je82NV1Vcp3qE"
-        }
-      ],
-      "duration_ms": 181196,
-      "name": "Giants Of The Fall",
-      "url": "https://open.spotify.com/track/57RzX9szVUX5gsfPQNc72M"
     },
     {
       "added_at": "2024-04-26 04:00:00",

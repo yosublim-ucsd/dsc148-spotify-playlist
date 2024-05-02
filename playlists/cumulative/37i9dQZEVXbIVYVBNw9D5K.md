@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-908 songs - 1 day 21 hr 14 min
+910 songs - 1 day 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,6 +274,7 @@
 | [Dünyaya Bedel](https://open.spotify.com/track/7EkTXLhxIusS6lSKlSymbA) | [mor ve ötesi](https://open.spotify.com/artist/5ixQSDvAMa5O758xG8MWXT) | [Sirenler](https://open.spotify.com/album/1bN6NwrpjgzYH01Fy5gagf) | 5:48 | 2022-01-22 | 2022-01-25 |
 | [Dünyaya Bedel](https://open.spotify.com/track/0uUUq6JFqKK6Z6YtSERs9V) | [mor ve ötesi](https://open.spotify.com/artist/5ixQSDvAMa5O758xG8MWXT) | [Dünyaya Bedel](https://open.spotify.com/album/5nR50GyAETn1aaGzhFUfYA) | 5:52 | 2021-12-25 | 2021-12-27 |
 | [Düşer Aklıma](https://open.spotify.com/track/5Qf8dlJ2zZTfztx7o7kbDN) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Düşer Aklıma](https://open.spotify.com/album/2OwUIyWE9jUyI5YQPgD5xo) | 2:40 | 2022-01-25 | 2023-06-17 |
+| [Düşer O](https://open.spotify.com/track/7cCreOFQhqqhCm82twJg0u) | [İzel](https://open.spotify.com/artist/0QSrUuv6y5Woazd3LAjbSH) | [Aşk En Büyüktür Her Zaman](https://open.spotify.com/album/0eRqafbQDWjvYjcmOykgrd) | 4:59 | 2024-05-01 |  |
 | [Düşmanlarıma](https://open.spotify.com/track/4J4lG15GFgZ1C1oTwpTosE) | [Kum](https://open.spotify.com/artist/5SCxkbhdPRgE0BRLjODMxw) | [Her Şey Çok Güzel Olacak](https://open.spotify.com/album/0EStCExL4IcV47ZFqwj4Tf) | 2:02 | 2021-12-18 | 2021-12-19 |
 | [E E E](https://open.spotify.com/track/5x2BVZLFZWMfJsbrEyuLdb) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU) | [C5MODE](https://open.spotify.com/album/7wl0FR75O4TFKi6QaM4gFu) | 1:40 | 2022-03-20 | 2022-03-22 |
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2021-10-17 | 2021-10-21 |
@@ -493,7 +494,7 @@
 | [Kaybolurum Gülüşünde](https://open.spotify.com/track/67ZwIUIM4se0mV5OT5ugsB) | [İkilem](https://open.spotify.com/artist/4hjJDrv2KkIEW1AslTEtv3) | [Kaybolurum Gülüşünde](https://open.spotify.com/album/7ympkjgI6ge8PPZi16jK44) | 3:21 | 2021-05-08 | 2021-11-14 |
 | [Kazılı Kuyum](https://open.spotify.com/track/5DJEXxOutnFD5GEUVk88yE) | [Yüzyüzeyken Konuşuruz](https://open.spotify.com/artist/7gobcoscOfsY0nOeqqFzvU) | [Kazılı Kuyum](https://open.spotify.com/album/4L3KecBdi6B1G1xX2F4xZT) | 3:28 | 2021-03-27\* | 2021-04-26 |
 | [Kediler Aslan Olmaz](https://open.spotify.com/track/0iQGwVx3GbJaVuLNthKToL) | [Norm Ender](https://open.spotify.com/artist/3S6gaE89XewFAvZqsMuJDJ) | [Kediler Aslan Olmaz](https://open.spotify.com/album/031vHIyVJmPlsn5AmvZygD) | 2:58 | 2021-11-21 | 2021-11-23 |
-| [Kehribar](https://open.spotify.com/track/3wtOAcctakLBwmzbCkRSHR) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN) | [Kehribar](https://open.spotify.com/album/2vJqCgVaPM5YpMlp9laiEX) | 2:48 | 2023-10-16 |  |
+| [Kehribar](https://open.spotify.com/track/3wtOAcctakLBwmzbCkRSHR) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN) | [Kehribar](https://open.spotify.com/album/2vJqCgVaPM5YpMlp9laiEX) | 2:48 | 2023-10-16 | 2024-05-02 |
 | [Kendileri](https://open.spotify.com/track/2zI5Vxd2X12f0S9LiQcyOy) | [Soner Sarıkabadayı](https://open.spotify.com/artist/4T83el9VQDI0zOyU9zcYNq) | [Kendileri](https://open.spotify.com/album/0QhYO4WJX2UvdQ9NHhn0c4) | 2:58 | 2023-01-02 | 2023-02-05 |
 | [Kendime Yalan Söyledim](https://open.spotify.com/track/5hYb9RIvqvk8J6mjMNL4pc) | [Seksendört](https://open.spotify.com/artist/7IgzsWd4tWIn70uh6dAq8d) | [Akiyor Zaman](https://open.spotify.com/album/5t6JANuspt8XBIFDlbZYYq) | 4:27 | 2021-10-12 | 2022-01-22 |
 | [Kennedy'i Ben Vurdum](https://open.spotify.com/track/3MrnZlzlrR17CCustVoya8) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [Kennedy'i Ben Vurdum](https://open.spotify.com/album/0OPWTDbvr7QTG1EIP2iVwq) | 2:18 | 2024-03-02 |  |
@@ -803,6 +804,7 @@
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2021-03-27\* | 2021-04-26 |
 | [The Face of Vision](https://open.spotify.com/track/7cGoaJCRVhU3dH8M5RwrUb) | [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA) | [The Face of Vision](https://open.spotify.com/album/3g0WjXnhgC5eldeXQyuJ9r) | 2:21 | 2021-12-30 | 2022-01-06 |
 | [Tiki Taka Flow](https://open.spotify.com/track/3WY8ZHo8BfZqOaLmCYyBJo) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Tiki Taka Flow](https://open.spotify.com/album/3DlqxCDQFdrHspa5Fo4R5I) | 2:50 | 2021-10-03 | 2021-10-11 |
+| [Tiryakinim](https://open.spotify.com/track/5NEqpPrKdN5kkn66GPO5z1) | [Bayhan](https://open.spotify.com/artist/7yiLonxrJVgZKSbjo0gh6V) | [Tiryakinim](https://open.spotify.com/album/5RBSDuy54EfefItjc5Mfcl) | 3:19 | 2024-05-01 |  |
 | [Toprak Yağmura \(Akustik\)](https://open.spotify.com/track/4sCt5tJL9SMAODyiEiVBDd) | [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [Dolunay](https://open.spotify.com/album/2hWWX2M4ZD4PVyaPTmkfaV) | 3:56 | 2021-11-16 | 2021-12-04 |
 | [toz duman](https://open.spotify.com/track/5rS3b5yHagEQGI7HqDusZ5) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [toz duman](https://open.spotify.com/album/1QkfSEPKAm4fbr8WZyHhZv) | 2:47 | 2021-05-30 | 2021-10-31 |
 | [Trankobuskas \- Remix](https://open.spotify.com/track/3Zy6uq4X0w6O8UMwJbzv9o) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Trankobuskas \(Remix\)](https://open.spotify.com/album/4Hss7kjHJp7L2EyovjOnEj) | 2:02 | 2022-02-12 | 2022-06-13 |
@@ -848,7 +850,7 @@
 | [Yalanı Bırak](https://open.spotify.com/track/755Pja1zaA687Vql25NHwP) | [Sakiler](https://open.spotify.com/artist/25gzpFRLdteuie1gW4a4hK), [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i) | [Yalanı Bırak](https://open.spotify.com/album/7gfAc3QLyKuRUioINjKHfi) | 2:57 | 2022-11-22 | 2023-04-15 |
 | [Yallah](https://open.spotify.com/track/7zxHknEJ9gfaL8Ln6UqYUX) | [Montiego](https://open.spotify.com/artist/1pMFoni6A1enu9OBmaanG2), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Yallah](https://open.spotify.com/album/57TckZyIR5Gc6vab60RBpm) | 2:24 | 2022-02-05 | 2022-05-26 |
 | [YAN YANA](https://open.spotify.com/track/3IRtLsu2orU0gBnh6aEm5T) | [Uğur Öztürk](https://open.spotify.com/artist/20KmGoOPKwrKLDN0s7pRsI), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE) | [YAN YANA](https://open.spotify.com/album/6XxwfM0hPQUoGOoblA5Su8) | 3:34 | 2023-05-27 | 2023-06-04 |
-| [Yana Yana](https://open.spotify.com/track/7p0ODIG60DRkcTiVlJPgck) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Yana Yana](https://open.spotify.com/album/0LhcOfHLFQlBQhqGtRPIZy) | 2:27 | 2023-02-04 |  |
+| [Yana Yana](https://open.spotify.com/track/7p0ODIG60DRkcTiVlJPgck) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Yana Yana](https://open.spotify.com/album/0LhcOfHLFQlBQhqGtRPIZy) | 2:27 | 2023-02-04 | 2024-05-02 |
 | [Yandı İçim](https://open.spotify.com/track/7MyRfqDBr6vXMgzjys2vmz) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Yandı İçim](https://open.spotify.com/album/7dRnmuXYuZzaeaXFKNuu8D) | 4:03 | 2021-09-19 | 2021-09-26 |
 | [Yandırdın Beni](https://open.spotify.com/track/1corFz8NVeSVGgt0X44sCs) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS), [FRO](https://open.spotify.com/artist/0FFa4QdxeEcPI6xd0pPxeI) | [Yandırdın Beni](https://open.spotify.com/album/3x4zkK1aC5OgeAoTXCQxj8) | 3:52 | 2021-08-22 | 2021-08-30 |
 | [Yanlış](https://open.spotify.com/track/4syfTeyd4GqV2l8qAz7sEa) | [Tuğçe Kandemir](https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN) | [Yanlış](https://open.spotify.com/album/7F5XFNNcmntqkZ7gAvEgqi) | 3:41 | 2023-02-16 | 2023-03-08 |

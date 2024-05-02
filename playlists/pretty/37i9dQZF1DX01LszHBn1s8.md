@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > everybody at the bar getting tipsy 🤠🍻🍸🥃
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,510 likes - 934 songs - 2 day 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,516 likes - 934 songs - 2 day 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -831,6 +831,24 @@
     },
     {
       "album": {
+        "name": "COLOURS",
+        "url": "https://open.spotify.com/album/5Q1cKPuB4vPk8bIdfZH7Fm"
+      },
+      "artists": [
+        {
+          "name": "Solar",
+          "url": "https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160680,
+      "name": "But I",
+      "url": "https://open.spotify.com/track/3kHF06mERCHSLIq1AuSNdZ"
+    },
+    {
+      "album": {
         "name": "But I'm Trying to Tell You How Much I Love You \ub09c \uac00\ub054 \ub108\uc5d0\uac8c \uc0c1\ucc98\ub97c \uc8fc\uace0 \uc2f6\uc5b4",
         "url": "https://open.spotify.com/album/56iipvHudhRYvKLpT36aPz"
       },
@@ -2530,7 +2548,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 189157,
       "name": "HATE ME (feat. youra) (prod. WOOGIE)",
       "url": "https://open.spotify.com/track/5L2dd0GWhy2rXeGp0g5pnT"

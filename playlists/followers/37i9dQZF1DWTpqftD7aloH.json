@@ -1,5 +1,5 @@
 {
-  "2024-05-01": 349162,
+  "2024-05-02": 349278,
   "date_first_scraped": "2022-09-15",
   "description": "No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo. ",
   "name": "Louvando no Tr\u00e2nsito",
@@ -2277,7 +2277,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 266432,
       "name": "Grato Sou",
       "url": "https://open.spotify.com/track/66Z9NK2ydHCRf8nzVTkdiE"
@@ -2659,6 +2659,32 @@
       "duration_ms": 205666,
       "name": "Lord, I Need You",
       "url": "https://open.spotify.com/track/4EHWldZTas5KUyFtT0rQlY"
+    },
+    {
+      "album": {
+        "name": "Louve (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7geG63BdCpln7c2JcpFrKI"
+      },
+      "artists": [
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+        },
+        {
+          "name": "Samuel Messias",
+          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
+        },
+        {
+          "name": "Eliezer de Tarsis",
+          "url": "https://open.spotify.com/artist/7swIpYfKi5yjFe1J2LQCnL"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297625,
+      "name": "Louve - Ao Vivo",
+      "url": "https://open.spotify.com/track/2BtYfou9MvzgQ8CfmMhaWM"
     },
     {
       "album": {

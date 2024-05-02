@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAABf53U080th2g3mggUzPo5W",
+  "snapshot_id": "AAAAAAAAAADEy3ggnNTHuQpiI6txIXla",
   "tracks": [
     {
       "added_at": "2024-04-26 04:00:00",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Footloose (Metal Version)",
-        "url": "https://open.spotify.com/album/1MNlG8z5kcNISKEQPIRQHq"
-      },
-      "artists": [
-        {
-          "name": "Leo",
-          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
-        }
-      ],
-      "duration_ms": 247954,
-      "name": "Footloose (Metal Version)",
-      "url": "https://open.spotify.com/track/33svAVV1mn1pdaW74KMjLk"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Dust",
         "url": "https://open.spotify.com/album/6Z0Ql9KvDQjMUOniIx0R5S"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 169505,
       "name": "Dust",
       "url": "https://open.spotify.com/track/63ovddHrcXezSAjE8sSBwO"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Footloose (Metal Version)",
+        "url": "https://open.spotify.com/album/1MNlG8z5kcNISKEQPIRQHq"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "duration_ms": 247954,
+      "name": "Footloose (Metal Version)",
+      "url": "https://open.spotify.com/track/33svAVV1mn1pdaW74KMjLk"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -347,6 +347,26 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
+        "name": "SVO",
+        "url": "https://open.spotify.com/album/3mFe97BWusyjTlu8J2jhLA"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 173610,
+      "name": "Overtime (feat. Kacey Musgraves)",
+      "url": "https://open.spotify.com/track/1OBYxViWFgN1x9s8fkl1FB"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
         "name": "I Got Away",
         "url": "https://open.spotify.com/album/4tmcDtMGL64zZSwIzWdVzf"
       },
@@ -435,26 +455,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "The Curtain - Live From Dordrecht, Het Energiehuis / 2014 (Bonus Version)",
-        "url": "https://open.spotify.com/album/00ZEz3M7Buqb9m5qMO7fbZ"
-      },
-      "artists": [
-        {
-          "name": "Snarky Puppy",
-          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
-        },
-        {
-          "name": "Metropole Orkest",
-          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
-        }
-      ],
-      "duration_ms": 880348,
-      "name": "The Curtain - Live From Dordrecht, Het Energiehuis / 2014 - Bonus Version",
-      "url": "https://open.spotify.com/track/4YBnMQ5ncZUq9HmztP4YVF"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Philip Glass: Etudes for Piano",
         "url": "https://open.spotify.com/album/21eHvMd4t8nr6wtooccK6H"
       },
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Evolve",
-        "url": "https://open.spotify.com/album/0WEz9Ie0cx9AFaiM40bi4Q"
-      },
-      "artists": [
-        {
-          "name": "Phish",
-          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
-        }
-      ],
-      "duration_ms": 252160,
-      "name": "Evolve",
-      "url": "https://open.spotify.com/track/6M7LYr6R248JrG3eoA0Xui"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "The Cleansing",
         "url": "https://open.spotify.com/album/4ibZ4TjoERMmx7fsVVYnaO"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 480566,
       "name": "The Cleansing",
       "url": "https://open.spotify.com/track/5iODmMKclILMRCQZcuZz0C"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/0WEz9Ie0cx9AFaiM40bi4Q"
+      },
+      "artists": [
+        {
+          "name": "Phish",
+          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
+        }
+      ],
+      "duration_ms": 252160,
+      "name": "Evolve",
+      "url": "https://open.spotify.com/track/6M7LYr6R248JrG3eoA0Xui"
     },
     {
       "added_at": "2024-04-26 04:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "Una fusi\u00f3n moderna de m\u00fasica Cristiana que alimenta el alma.",
-  "num_followers": 409892,
+  "num_followers": 409988,
   "original_name": "Creo En Ti",
   "owner": {
     "name": "Spotify",
@@ -235,18 +235,18 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "T\u00fa",
-        "url": "https://open.spotify.com/album/1rsthZYWA3LRLAo9rTUztl"
+        "name": "De Vuelta al Jardin",
+        "url": "https://open.spotify.com/album/3Wqr5yNRTsQJQg1buZDYmZ"
       },
       "artists": [
         {
-          "name": "Dariann Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ"
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 319763,
-      "name": "T\u00fa",
-      "url": "https://open.spotify.com/track/3VDTYrLawIMXGFDWycvZ6E"
+      "duration_ms": 299600,
+      "name": "Como Dijiste",
+      "url": "https://open.spotify.com/track/7BY5JRklkQUu4e0tlZDBy7"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -267,6 +267,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "T\u00fa",
+        "url": "https://open.spotify.com/album/1rsthZYWA3LRLAo9rTUztl"
+      },
+      "artists": [
+        {
+          "name": "Dariann Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ"
+        }
+      ],
+      "duration_ms": 319763,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/3VDTYrLawIMXGFDWycvZ6E"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "Cerca Est\u00e1s",
         "url": "https://open.spotify.com/album/2YW7RI9hOb9hiDzUWeCRVz"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 212523,
       "name": "Cerca Est\u00e1s",
       "url": "https://open.spotify.com/track/7j4GJDmCiUEPZSu420sNul"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "De Vuelta al Jardin",
-        "url": "https://open.spotify.com/album/3Wqr5yNRTsQJQg1buZDYmZ"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 299600,
-      "name": "Como Dijiste",
-      "url": "https://open.spotify.com/track/7BY5JRklkQUu4e0tlZDBy7"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -671,6 +671,26 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "Lo Peor de Mi",
+        "url": "https://open.spotify.com/album/5UFzpt6lNQaxCOI6tVkAsn"
+      },
+      "artists": [
+        {
+          "name": "Onell Diaz",
+          "url": "https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2"
+        },
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "duration_ms": 280450,
+      "name": "Lo Peor de Mi",
+      "url": "https://open.spotify.com/track/53E2uYu1w4yMbZyh1UD4Hs"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "Todo Pasar\u00e1",
         "url": "https://open.spotify.com/album/2qYzPWIFw6k0lix800JNyL"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 225900,
       "name": "Todo Pasar\u00e1",
       "url": "https://open.spotify.com/track/79MIBZkxaab6Pqv1Jsb49G"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "Lo Peor de Mi",
-        "url": "https://open.spotify.com/album/5UFzpt6lNQaxCOI6tVkAsn"
-      },
-      "artists": [
-        {
-          "name": "Onell Diaz",
-          "url": "https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2"
-        },
-        {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
-        }
-      ],
-      "duration_ms": 280450,
-      "name": "Lo Peor de Mi",
-      "url": "https://open.spotify.com/track/53E2uYu1w4yMbZyh1UD4Hs"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -807,26 +807,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "No Te Olvides",
-        "url": "https://open.spotify.com/album/1GZFd6QKMYeS72xziUk0ue"
-      },
-      "artists": [
-        {
-          "name": "Onell Diaz",
-          "url": "https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2"
-        },
-        {
-          "name": "Inlight",
-          "url": "https://open.spotify.com/artist/58j6JUyjaD09A7mRuF1Gcc"
-        }
-      ],
-      "duration_ms": 249133,
-      "name": "No Te Olvides",
-      "url": "https://open.spotify.com/track/3IkRM0J6C71Bc7to3zJJHx"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "Todo Lo Haces Nuevo",
         "url": "https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy"
       },
@@ -879,6 +859,26 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "No Te Olvides",
+        "url": "https://open.spotify.com/album/1GZFd6QKMYeS72xziUk0ue"
+      },
+      "artists": [
+        {
+          "name": "Onell Diaz",
+          "url": "https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2"
+        },
+        {
+          "name": "Inlight",
+          "url": "https://open.spotify.com/artist/58j6JUyjaD09A7mRuF1Gcc"
+        }
+      ],
+      "duration_ms": 249133,
+      "name": "No Te Olvides",
+      "url": "https://open.spotify.com/track/3IkRM0J6C71Bc7to3zJJHx"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "Vive en M\u00ed",
         "url": "https://open.spotify.com/album/0OWlPKpTVq2bLYj80Drs1x"
       },
@@ -911,26 +911,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "All Of My Best Friends",
-        "url": "https://open.spotify.com/album/4aE1FP44EEzmDbUXpJY7h3"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        },
-        {
-          "name": "Aodh\u00e1n King",
-          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
-        }
-      ],
-      "duration_ms": 209920,
-      "name": "Need Your Love - Live",
-      "url": "https://open.spotify.com/track/6AowVmxZ6G2zikw5MeqfOG"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "Yo Te Seguir\u00e9",
         "url": "https://open.spotify.com/album/2RS2t8yes056MiafG5dGQE"
       },
@@ -947,38 +927,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Madre Mia",
-        "url": "https://open.spotify.com/album/7yMwoDM1HP0ik1v522O8bj"
+        "name": "All Of My Best Friends",
+        "url": "https://open.spotify.com/album/4aE1FP44EEzmDbUXpJY7h3"
       },
       "artists": [
         {
-          "name": "Onell Diaz",
-          "url": "https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2"
-        }
-      ],
-      "duration_ms": 238278,
-      "name": "Madre Mia",
-      "url": "https://open.spotify.com/track/0qzHSacEttHiStDJBgCUqT"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "No Lo Has Visto A\u00fan",
-        "url": "https://open.spotify.com/album/30BsuKRAa8cxAsVkghAbFK"
-      },
-      "artists": [
-        {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
         },
         {
-          "name": "Lilly Goodman",
-          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
+          "name": "Aodh\u00e1n King",
+          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
         }
       ],
-      "duration_ms": 245163,
-      "name": "No Lo Has Visto A\u00fan",
-      "url": "https://open.spotify.com/track/4C7cPjGcerqjg0cy9hW33k"
+      "duration_ms": 209920,
+      "name": "Need Your Love - Live",
+      "url": "https://open.spotify.com/track/6AowVmxZ6G2zikw5MeqfOG"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1007,6 +971,26 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "No Lo Has Visto A\u00fan",
+        "url": "https://open.spotify.com/album/30BsuKRAa8cxAsVkghAbFK"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        },
+        {
+          "name": "Lilly Goodman",
+          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
+        }
+      ],
+      "duration_ms": 245163,
+      "name": "No Lo Has Visto A\u00fan",
+      "url": "https://open.spotify.com/track/4C7cPjGcerqjg0cy9hW33k"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "En Esto Creo (Live)",
         "url": "https://open.spotify.com/album/5krvA7IxNpPXSPFZdZUedg"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 228160,
       "name": "Vivo Est\u00e1s - Live",
       "url": "https://open.spotify.com/track/4CmLgGj4bE4I3ElkuiS9Ph"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Amor Real",
+        "url": "https://open.spotify.com/album/4OPPnlefSRGfeI0WkI8xCo"
+      },
+      "artists": [
+        {
+          "name": "Blanca",
+          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
+        }
+      ],
+      "duration_ms": 232826,
+      "name": "Amor Real",
+      "url": "https://open.spotify.com/track/69KmU0fC0eWkiWgvpw8B5q"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Amor Real",
-        "url": "https://open.spotify.com/album/4OPPnlefSRGfeI0WkI8xCo"
+        "name": "Madre Mia",
+        "url": "https://open.spotify.com/album/7yMwoDM1HP0ik1v522O8bj"
       },
       "artists": [
         {
-          "name": "Blanca",
-          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
+          "name": "Onell Diaz",
+          "url": "https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2"
         }
       ],
-      "duration_ms": 232826,
-      "name": "Amor Real",
-      "url": "https://open.spotify.com/track/69KmU0fC0eWkiWgvpw8B5q"
+      "duration_ms": 238278,
+      "name": "Madre Mia",
+      "url": "https://open.spotify.com/track/0qzHSacEttHiStDJBgCUqT"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1091,6 +1091,22 @@
       "duration_ms": 382026,
       "name": "Cantamos A \u00c9l",
       "url": "https://open.spotify.com/track/77QumYYpnP6uONSEJxSFug"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "En Esto Creo (Live)",
+        "url": "https://open.spotify.com/album/5krvA7IxNpPXSPFZdZUedg"
+      },
+      "artists": [
+        {
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+        }
+      ],
+      "duration_ms": 411360,
+      "name": "Mi Roca - Live",
+      "url": "https://open.spotify.com/track/5u7yVQIBrav9jqv6aFvmEZ"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1163,22 +1179,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "En Esto Creo (Live)",
-        "url": "https://open.spotify.com/album/5krvA7IxNpPXSPFZdZUedg"
-      },
-      "artists": [
-        {
-          "name": "Hillsong en Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
-        }
-      ],
-      "duration_ms": 411360,
-      "name": "Mi Roca - Live",
-      "url": "https://open.spotify.com/track/5u7yVQIBrav9jqv6aFvmEZ"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "Volver a Ti",
         "url": "https://open.spotify.com/album/2vERRM9qaKZN3UB7lP29Mz"
       },
@@ -1191,6 +1191,38 @@
       "duration_ms": 250720,
       "name": "Volver a Ti",
       "url": "https://open.spotify.com/track/3VZsvgWzGJ7O72hcY0xMAa"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Mareas",
+        "url": "https://open.spotify.com/album/0dGj2ahWYeX4njm5g6B1ia"
+      },
+      "artists": [
+        {
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
+        }
+      ],
+      "duration_ms": 233437,
+      "name": "Mareas (todo a su tiempo)",
+      "url": "https://open.spotify.com/track/2ynsNq1lSzrpxUJIiSFT0O"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "El Eco De Su Voz",
+        "url": "https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7"
+      },
+      "artists": [
+        {
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+        }
+      ],
+      "duration_ms": 331253,
+      "name": "La Imagen De Dios",
+      "url": "https://open.spotify.com/track/4xTj1CezTYAkR4qPsqPH1w"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1215,22 +1247,6 @@
       "duration_ms": 248651,
       "name": "Vives en M\u00ed",
       "url": "https://open.spotify.com/track/1X56o48bRC91kiEY4X4faS"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "Mareas",
-        "url": "https://open.spotify.com/album/0dGj2ahWYeX4njm5g6B1ia"
-      },
-      "artists": [
-        {
-          "name": "Paula Prieto",
-          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
-        }
-      ],
-      "duration_ms": 233437,
-      "name": "Mareas (todo a su tiempo)",
-      "url": "https://open.spotify.com/track/2ynsNq1lSzrpxUJIiSFT0O"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1319,22 +1335,6 @@
       "duration_ms": 472946,
       "name": "Dios de Lo Imposible",
       "url": "https://open.spotify.com/track/39BnqwYj7f8hzrbVP7GZ5L"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "El Eco De Su Voz",
-        "url": "https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7"
-      },
-      "artists": [
-        {
-          "name": "Hillsong en Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
-        }
-      ],
-      "duration_ms": 331253,
-      "name": "La Imagen De Dios",
-      "url": "https://open.spotify.com/track/4xTj1CezTYAkR4qPsqPH1w"
     }
   ],
   "unique_name": "Creo En Ti",

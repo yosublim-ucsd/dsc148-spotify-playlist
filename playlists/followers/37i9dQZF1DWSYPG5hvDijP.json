@@ -1,5 +1,5 @@
 {
-  "2024-05-01": 3218,
+  "2024-05-02": 3270,
   "date_first_scraped": "2023-03-30",
   "description": "New Hip Hop from India.",
   "name": "Taaza hai bro!",
@@ -1119,6 +1119,28 @@
       "duration_ms": 152245,
       "name": "Capital",
       "url": "https://open.spotify.com/track/2rWXHzfYluOCWfEch3D9YH"
+    },
+    {
+      "album": {
+        "name": "CBSC",
+        "url": "https://open.spotify.com/album/72Nm3gnzz382jyxKRd9A4m"
+      },
+      "artists": [
+        {
+          "name": "The Siege",
+          "url": "https://open.spotify.com/artist/5HrGNVmY12srDtUFxDd49Z"
+        },
+        {
+          "name": "Devoni\u00e0n",
+          "url": "https://open.spotify.com/artist/1b4GDmWjhd45UxxkTEeSJ8"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82758,
+      "name": "CBSC",
+      "url": "https://open.spotify.com/track/08PHYM5cB7FytGe9W6uAsv"
     },
     {
       "album": {
@@ -3075,7 +3097,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 240333,
       "name": "KULFA-KAR-MA",
       "url": "https://open.spotify.com/track/4RnHapKw9jDMaND7srX9Se"

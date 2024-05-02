@@ -1,5 +1,5 @@
 {
-  "2024-05-01": 121128,
+  "2024-05-02": 121255,
   "date_first_scraped": "2023-03-30",
   "description": "Set the bars high with Malayalam Hip-Hop!\nCover : Neeraj Madhav",
   "name": "Hip-Hop Malayalam",
@@ -2432,6 +2432,24 @@
     },
     {
       "album": {
+        "name": "PADACHATTA",
+        "url": "https://open.spotify.com/album/68leHkjIczj2JdUiLXWwhT"
+      },
+      "artists": [
+        {
+          "name": "BABY JEAN",
+          "url": "https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165428,
+      "name": "PADACHATTA",
+      "url": "https://open.spotify.com/track/459AwIU1HpMK4vje1vWXzx"
+    },
+    {
+      "album": {
         "name": "Vattam",
         "url": "https://open.spotify.com/album/5pw3Lltk18Hhrao0QGHJ1P"
       },
@@ -3165,6 +3183,10 @@
         {
           "name": "Hanumankind",
           "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        },
+        {
+          "name": "Vinayak Sasikumar",
+          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
         }
       ],
       "date_added": "2024-04-19",

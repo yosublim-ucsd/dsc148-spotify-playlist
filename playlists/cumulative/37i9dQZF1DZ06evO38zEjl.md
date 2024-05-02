@@ -2,7 +2,7 @@
 
 ### [This Is Jon Hassell](https://open.spotify.com/playlist/37i9dQZF1DZ06evO38zEjl)
 
-> This is Jon Hassell\. The essential tracks, all in one playlist.
+> This is Jon Hassell\. Todos os maiores hits em uma só playlist.
 
 130 songs - 12 hr 59 min
 
@@ -50,13 +50,13 @@
 | [Divine S.O.S](https://open.spotify.com/track/5f8iTVIIHWjBPdu4X5ympV) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Maarifa Street](https://open.spotify.com/album/47OJ22T2drD6DY3vMLWQ1D) | 7:15 | 2022-06-30 | 2022-10-01 |
 | [Dreaming](https://open.spotify.com/track/02QTbDphw88yuDpYRiX6yu) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Listening To Pictures \(Pentimento Volume One\)](https://open.spotify.com/album/6kLpWP9Enlx10Jceh1M8Rf) | 6:09 | 2023-02-15 |  |
 | [Dreaming](https://open.spotify.com/track/20x7Yl5RbR4KVXbm3zrfJT) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Listening To Pictures \(Pentimento Volume One\)](https://open.spotify.com/album/09rCHELhjgKrNyoWePQHm9) | 6:09 | 2022-05-29 | 2023-02-16 |
-| [Emerald City](https://open.spotify.com/track/09bEaFophDjQMFCUcHSjL6) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Psychogeography \(Zones Of Feeling\)](https://open.spotify.com/album/1pEsxrM0zpGCkHAXZtskVZ) | 5:08 | 2023-04-08 |  |
+| [Emerald City](https://open.spotify.com/track/09bEaFophDjQMFCUcHSjL6) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Psychogeography \(Zones Of Feeling\)](https://open.spotify.com/album/1pEsxrM0zpGCkHAXZtskVZ) | 5:08 | 2023-04-08 | 2024-05-02 |
 | [Empire I](https://open.spotify.com/track/2i9UYFJDHwoLSRiib3recu) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Aka / Darbari / Java](https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK) | 2:00 | 2022-05-29 |  |
 | [Empire II](https://open.spotify.com/track/6Ra8gN2dkT41IcGa6NX4HO) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Aka / Darbari / Java](https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK) | 4:53 | 2022-05-30 |  |
 | [Empire III](https://open.spotify.com/track/0WLUAMAW1FsplcSNeTHzKg) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Aka / Darbari / Java](https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK) | 7:09 | 2022-05-29 | 2024-04-30 |
 | [Empire IV](https://open.spotify.com/track/4ZRIdK87L5YOfVZoywWV60) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Aka / Darbari / Java](https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK) | 5:13 | 2022-05-29 | 2024-04-13 |
 | [Empire V](https://open.spotify.com/track/0KB13CC3lwVUmO8B324xBF) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Aka / Darbari / Java](https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK) | 3:40 | 2022-05-29 |  |
-| [Favela](https://open.spotify.com/track/5c5stvn9idPulAh0dy4xHD) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Psychogeography \(Zones Of Feeling\)](https://open.spotify.com/album/1pEsxrM0zpGCkHAXZtskVZ) | 5:55 | 2023-04-14 | 2024-02-17 |
+| [Favela](https://open.spotify.com/track/5c5stvn9idPulAh0dy4xHD) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Psychogeography \(Zones Of Feeling\)](https://open.spotify.com/album/1pEsxrM0zpGCkHAXZtskVZ) | 5:55 | 2023-04-14 |  |
 | [Fearless](https://open.spotify.com/track/0E5Qd7mge1e9gfkCKfGOUR) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Seeing Through Sound \(Pentimento Volume Two\)](https://open.spotify.com/album/6nh4xd1H0yQU7pb3DcUSiy) | 8:02 | 2022-05-29 | 2022-08-13 |
 | [Fearless](https://open.spotify.com/track/4Tru6czY37f4dPCRpLrxK3) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Fearless](https://open.spotify.com/album/4Keo1capq90Jwzf1ZsKUdd) | 8:02 | 2022-08-12 |  |
 | [Flash of the Spirit \(Laughter\)](https://open.spotify.com/track/1KvWa9WllBJcqmqOhr7YdR) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Farafina](https://open.spotify.com/artist/5UMmGAarEnn9bIua1CuYWL) | [Flash of the Spirit](https://open.spotify.com/album/1kq5wytZSTx0mQvxkg5fW0) | 5:45 | 2022-05-30 | 2023-12-14 |

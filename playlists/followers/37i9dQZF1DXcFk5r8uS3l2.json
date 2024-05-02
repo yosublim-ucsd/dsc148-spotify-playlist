@@ -1,5 +1,5 @@
 {
-  "2024-05-01": 442367,
+  "2024-05-02": 442428,
   "date_first_scraped": "2021-12-21",
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Amythyst Kiah",
   "name": "Blues Roots",
@@ -4109,7 +4109,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 235311,
       "name": "Nobody's Wrong",
       "url": "https://open.spotify.com/track/5OPwCl6o8mJUOAti1sz1Ac"
@@ -5739,6 +5739,24 @@
       "duration_ms": 156158,
       "name": "The Breeze",
       "url": "https://open.spotify.com/track/0Oou2wDOZJFrNqRbDgOFir"
+    },
+    {
+      "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/2Uu2kajlPFeYfXD1A2wHtj"
+      },
+      "artists": [
+        {
+          "name": "Kyshona",
+          "url": "https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255426,
+      "name": "The Echo",
+      "url": "https://open.spotify.com/track/02ZdAwm1DkhRcYeYFWEyrJ"
     },
     {
       "album": {

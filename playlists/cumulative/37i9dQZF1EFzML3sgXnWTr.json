@@ -427,6 +427,28 @@
     },
     {
       "album": {
+        "name": "Venduti",
+        "url": "https://open.spotify.com/album/0sAh6LuYBSiFz3PVSkWCbF"
+      },
+      "artists": [
+        {
+          "name": "Boomdabash",
+          "url": "https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6"
+        },
+        {
+          "name": "Emma",
+          "url": "https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214789,
+      "name": "Graffiti (feat. Emma)",
+      "url": "https://open.spotify.com/track/7bXzLHaVFzhpbuM4wewmIj"
+    },
+    {
+      "album": {
         "name": "Guardare gi\u00f9",
         "url": "https://open.spotify.com/album/7sjHSwxgGeW1VhT8mBKluB"
       },

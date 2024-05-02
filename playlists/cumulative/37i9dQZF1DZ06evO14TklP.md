@@ -2,7 +2,7 @@
 
 ### [This Is Ebony](https://open.spotify.com/playlist/37i9dQZF1DZ06evO14TklP)
 
-> This is Ebony\. The essential tracks, all in one playlist.
+> This Is Ebony\. Los temas esenciales, todos en una lista.
 
 54 songs - 2 hr 36 min
 

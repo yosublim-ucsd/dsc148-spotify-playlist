@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mwFQ6.md) - [plain]
 
 ### [This Is Adam Brand](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2mwFQ6)
 
-> This is Adam Brand\. The essential tracks, all in one playlist.
+> This Is Adam Brand\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,410 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,411 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mwFQ6.md) - [plain]
 | 49 | [I Was Here](https://open.spotify.com/track/1vvu0yPPYvHl7vUMnhGkGM) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [There Will Be Love](https://open.spotify.com/album/6jXEYlmvahy2vkjPPYwbPi) | 3:21 |
 | 50 | [We're Makin' Up](https://open.spotify.com/track/6ymZbNbEFLTLkEfqMHpJAN) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get Loud](https://open.spotify.com/album/55v8wSxTXUkuuZq9BaUe51) | 3:03 |
 
-Snapshot ID: `Zi7jAAAAAAAz3r618yN7lEUoRUNzM5Cv`
+Snapshot ID: `ZjA0gAAAAADXB0Uo96t6D1A/KwTF+ZDF`

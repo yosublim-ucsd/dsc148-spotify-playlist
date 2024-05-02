@@ -1,5 +1,5 @@
 {
-  "2024-05-01": 33421,
+  "2024-05-02": 33457,
   "date_first_scraped": "2022-01-09",
   "description": "Ba\u011f\u0131ms\u0131z yerli sahneden en taze ke\u015fifler. Kapak: zei  \u00c7izim: Isu Kim",
   "name": "Fresh Finds T\u00fcrkiye",
@@ -821,6 +821,24 @@
       "duration_ms": 207714,
       "name": "A\u015fk Bi' Sinema Filmi",
       "url": "https://open.spotify.com/track/7i969BmbTJ1J7fQrq0F64I"
+    },
+    {
+      "album": {
+        "name": "A\u015fk Kozmik bi' G\u00fc\u00e7t\u00fcr",
+        "url": "https://open.spotify.com/album/0u0EzndlpfO018EqK7CFWk"
+      },
+      "artists": [
+        {
+          "name": "Ye\u015fim Farah",
+          "url": "https://open.spotify.com/artist/1e0Dfiy3bhhrleJTYBvSmV"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "A\u015fk Kozmik bi' G\u00fc\u00e7t\u00fcr",
+      "url": "https://open.spotify.com/track/1q1yntAnh8dh8o6KLrUD0Y"
     },
     {
       "album": {
@@ -1941,7 +1959,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 164666,
       "name": "bombo\u015f",
       "url": "https://open.spotify.com/track/4DFEzwojXD5Zr92a3bIy3g"
@@ -3831,6 +3849,24 @@
       "duration_ms": 210674,
       "name": "Geceden Kareler",
       "url": "https://open.spotify.com/track/6YLL52Mw0FjEYmL9izGleP"
+    },
+    {
+      "album": {
+        "name": "Eve D\u00f6n\u00fc\u015f",
+        "url": "https://open.spotify.com/album/4H4MiPYSzfPZz7IaCB1ecv"
+      },
+      "artists": [
+        {
+          "name": "Ezgi Ala\u015f",
+          "url": "https://open.spotify.com/artist/3MPYl70VF5QlFVTOTRC9PZ"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Gel",
+      "url": "https://open.spotify.com/track/5nxkHUeDTroFO0ixYI4hcf"
     },
     {
       "album": {
@@ -8730,6 +8766,42 @@
     },
     {
       "album": {
+        "name": "Senden Bahsetmi\u015fim",
+        "url": "https://open.spotify.com/album/1qpUzJ1fuZwoVNFf1dvQL6"
+      },
+      "artists": [
+        {
+          "name": "Kali Vibes",
+          "url": "https://open.spotify.com/artist/4UwfCi35podDiPvUEBRnrS"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125970,
+      "name": "Senden Bahsetmi\u015fim",
+      "url": "https://open.spotify.com/track/6hn4ILacu6RyUkRdJuOBpA"
+    },
+    {
+      "album": {
+        "name": "Senden Gidemem",
+        "url": "https://open.spotify.com/album/0VJQV79BgX1ozBtJ7I0xIg"
+      },
+      "artists": [
+        {
+          "name": "Berkay Korkmaz",
+          "url": "https://open.spotify.com/artist/0uYsfrCuR7k6FkfTsyqTbl"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "Senden Gidemem",
+      "url": "https://open.spotify.com/track/2XkspCqwES3i1EW4zrMCU4"
+    },
+    {
+      "album": {
         "name": "Sendin",
         "url": "https://open.spotify.com/album/0qZWqS6RliVn1GfQYlJ2hk"
       },
@@ -9448,6 +9520,24 @@
     },
     {
       "album": {
+        "name": "Telefon",
+        "url": "https://open.spotify.com/album/5kgS6zLpdMksmsMEymZdyQ"
+      },
+      "artists": [
+        {
+          "name": "Dekolte",
+          "url": "https://open.spotify.com/artist/4p2oENWnvlHUyTNlide7LK"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205333,
+      "name": "Telefon",
+      "url": "https://open.spotify.com/track/1bUHg0Z7RvY9fMsktsChXm"
+    },
+    {
+      "album": {
         "name": "Temmuz",
         "url": "https://open.spotify.com/album/4E8MCW0WVuE029SdLM2kRm"
       },
@@ -9499,7 +9589,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 212210,
       "name": "Terk Ettin",
       "url": "https://open.spotify.com/track/1iGdWwh6UYVjMTCjKb0CQb"
@@ -10177,7 +10267,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 145116,
       "name": "Yan",
       "url": "https://open.spotify.com/track/5f2aNJj7NcQFnX51czbYUQ"
@@ -10339,7 +10429,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 206400,
       "name": "Yaralar Alm\u0131\u015fs\u0131n",
       "url": "https://open.spotify.com/track/3iRdBxfpTFe6mA6c2pt087"
@@ -10739,7 +10829,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 205048,
       "name": "Yok Olsun Ard\u0131ndan",
       "url": "https://open.spotify.com/track/25Ke89So0V4URYtmv0DFt5"

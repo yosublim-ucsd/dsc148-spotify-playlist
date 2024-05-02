@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WUSS8.md) - [plain]
 
 ### [This Is Angelique Kidjo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2WUSS8)
 
-> This is Angelique Kidjo\. The essential tracks, all in one playlist.
+> This Is Angelique Kidjo\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,032 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,034 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WUSS8.md) - [plain]
 | 49 | [Lonlon Ravel's Bolero \- Live](https://open.spotify.com/track/6rFMgbTxcAGRowwfZfzmfB) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Branford Marsalis](https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH) | [Spirit Rising \(Live\)](https://open.spotify.com/album/0eWhzAxYEfHZ5nni4b3038) | 4:14 |
 | 50 | [Free & Equal](https://open.spotify.com/track/5fbj7p7obnBArZzPLdFiGM) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Mother Nature](https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5) | 3:09 |
 
-Snapshot ID: `Zi7jAAAAAACEdpmp2rezrsuSPrFBBJJm`
+Snapshot ID: `Zi7jAAAAAADiGloWU/1U26iKWr0G/h7e`

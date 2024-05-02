@@ -1,5 +1,5 @@
 {
-  "2024-05-01": 1290,
+  "2024-05-02": 1304,
   "date_first_scraped": "2024-04-02",
   "description": "\u5b9f\u5199\u6620\u753b\u300c<a href=\"https://gaga.ne.jp/buzzynoise_movie/\">\u30d0\u30b8\u30fc\u30ce\u30a4\u30ba</a>\u300d5\u67083\u65e5\u516c\u958b\uff01\u4f5c\u8005 \u3080\u3064\u304d\u6f64\u306b\u3088\u308b\u9078\u66f2\u306e\u30aa\u30d5\u30a3\u30b7\u30e3\u30eb\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u304c\u5230\u7740\u3002/ The official playlist selected by Mutsuki Jun. ",
   "name": "BUZZY NOISE \u30d0\u30b8\u30fc\u30ce\u30a4\u30ba",
@@ -877,6 +877,24 @@
       "duration_ms": 285000,
       "name": "Tokyo",
       "url": "https://open.spotify.com/track/60To99qb1JAoQ0F6iclxQn"
+    },
+    {
+      "album": {
+        "name": "moana",
+        "url": "https://open.spotify.com/album/6Ju7NMuS9QupJ6etSGLLA2"
+      },
+      "artists": [
+        {
+          "name": "\u8e0a\u3063\u3066\u3070\u304b\u308a\u306e\u56fd",
+          "url": "https://open.spotify.com/artist/0FA31wmImS3Px3LyRxtiS2"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218120,
+      "name": "Twilight",
+      "url": "https://open.spotify.com/track/4bDDipRrNxUKcsyG39lQGw"
     },
     {
       "album": {

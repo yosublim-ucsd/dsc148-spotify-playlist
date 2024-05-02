@@ -2427,6 +2427,24 @@
     },
     {
       "album": {
+        "name": "Mariposa",
+        "url": "https://open.spotify.com/album/4LnnHaLA7KByCKgrcyNtFc"
+      },
+      "artists": [
+        {
+          "name": "Girls Go Ska",
+          "url": "https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302000,
+      "name": "Mariposa",
+      "url": "https://open.spotify.com/track/156aNcRPFoLlW2WzpD8apD"
+    },
+    {
+      "album": {
         "name": "Never Give Up, Never Surrender!",
         "url": "https://open.spotify.com/album/5saSpOkCXnzGl3AqWegvDn"
       },
@@ -2694,6 +2712,24 @@
       "duration_ms": 240186,
       "name": "No Place Like (Not Being) Home",
       "url": "https://open.spotify.com/track/4EJXrKHEbQp63JiMHUN4I3"
+    },
+    {
+      "album": {
+        "name": "No Reason",
+        "url": "https://open.spotify.com/album/6mFhGt5JwBlBpLPKQiupRd"
+      },
+      "artists": [
+        {
+          "name": "Madness",
+          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189266,
+      "name": "No Reason",
+      "url": "https://open.spotify.com/track/4vUG5WQAurJPNA5u5NLKPP"
     },
     {
       "album": {
@@ -3112,7 +3148,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 167457,
       "name": "Ranking Full Stop",
       "url": "https://open.spotify.com/track/64LfShvHappqFPT3Ftwbjq"
@@ -3880,7 +3916,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 188733,
       "name": "Stuff",
       "url": "https://open.spotify.com/track/5Rj6Dg1fqFSmw2zhJFp3gh"

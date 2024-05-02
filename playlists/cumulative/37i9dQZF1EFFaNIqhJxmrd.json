@@ -1401,6 +1401,24 @@
     },
     {
       "album": {
+        "name": "IVE SWITCH",
+        "url": "https://open.spotify.com/album/5IEMUcisVV23gFbC471rTy"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161280,
+      "name": "RESET",
+      "url": "https://open.spotify.com/track/2peKpF1i9muFKph6JtBTvN"
+    },
+    {
+      "album": {
         "name": "Same Old",
         "url": "https://open.spotify.com/album/59YQpTemLWyGdL6oQMPq6w"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 
 > Les essentiels du hip\-hop québécois des dernières années\. Photo: Dead Obies
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,123 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,124 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 | 30 | [Invisible](https://open.spotify.com/track/7tS8pETnFbdRElpCePcvpg) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [L'album noir](https://open.spotify.com/album/24ELiFOvFYXOESU0ovA28B) | 3:29 |
 | 31 | [Blacklights](https://open.spotify.com/track/0oFmVpZmt2Z3jS0wPvLrFZ) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [Love suprême](https://open.spotify.com/album/4ZvgOLI5Wozf7RAxneTx9x) | 3:43 |
 | 32 | [Makeup](https://open.spotify.com/track/21RgjCszrzZBePdEBDgubQ) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Zay](https://open.spotify.com/album/2jXXgAO8DRfHewBk849PSp) | 3:37 |
-| 33 | [Diamant](https://open.spotify.com/track/60XNFbjWEmcxxG1Mjm3OyF) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [On Frap](https://open.spotify.com/album/4WacgaqV5Fj3kjvr9Azv2k) | 3:07 |
-| 34 | [Bando](https://open.spotify.com/track/3TockaqZaBW4hPSP5UqdzE) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM), [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU) | [Cerbère](https://open.spotify.com/album/4FXtD2a2crSUwtpZsrgsfA) | 3:57 |
-| 35 | [Krève](https://open.spotify.com/track/08jHhrkEDsMwHWIDEI7jD7) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Indélébile](https://open.spotify.com/album/3PeHK6ZLGxxjMOoNjFcLOf) | 2:46 |
-| 36 | [Pour la vie](https://open.spotify.com/track/3uMyq8MxiJlrKJAEhRiOBZ) | [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU) | [Sourire kabyle](https://open.spotify.com/album/5bjl2OsXC5O59ctm9UJXK9) | 3:04 |
+| 33 | [Bando](https://open.spotify.com/track/3TockaqZaBW4hPSP5UqdzE) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM), [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU) | [Cerbère](https://open.spotify.com/album/4FXtD2a2crSUwtpZsrgsfA) | 3:57 |
+| 34 | [Diamant](https://open.spotify.com/track/60XNFbjWEmcxxG1Mjm3OyF) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [On Frap](https://open.spotify.com/album/4WacgaqV5Fj3kjvr9Azv2k) | 3:07 |
+| 35 | [Pour la vie](https://open.spotify.com/track/3uMyq8MxiJlrKJAEhRiOBZ) | [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU) | [Sourire kabyle](https://open.spotify.com/album/5bjl2OsXC5O59ctm9UJXK9) | 3:04 |
+| 36 | [Krève](https://open.spotify.com/track/08jHhrkEDsMwHWIDEI7jD7) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Indélébile](https://open.spotify.com/album/3PeHK6ZLGxxjMOoNjFcLOf) | 2:46 |
 | 37 | [Femme fatale](https://open.spotify.com/track/4EqRnOWaV7JoK1Z6EZzVU9) | [Sadik](https://open.spotify.com/artist/1wvJJTHOmvX4WcL5dQOLqs), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [Vagalam](https://open.spotify.com/artist/7D9iwRE47u5S0sjtItNtaH) | [Monarque](https://open.spotify.com/album/4dnkodXsUuDEIEZ5WfYqHb) | 3:14 |
 | 38 | [La route est longue](https://open.spotify.com/track/3yXbhZkrEVcGKW2d4NRwh4) | [Gros Big](https://open.spotify.com/artist/5lRXcS3hdIRzUO1mbJkvJ0) | [Gros Big](https://open.spotify.com/album/4Q36ml6qUFGkfS43RopXOq) | 4:00 |
 | 39 | [Chacun son récit](https://open.spotify.com/track/2465tuccWnYlZzvebuBJOB) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Blacklist](https://open.spotify.com/album/3ZoYcp29VE8yLSWsS7kQA2) | 3:51 |

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Nos vemos del 6 al 10 de Marzo! Cinco d\u00edas de m\u00fasica en recintos ic\u00f3nicos de la CDMX. Compra tus boletos <a href=\"https://lnk.bio/pitchforkcdmx\"> aqu\u00ed</a>. ",
-  "num_followers": 39336,
+  "num_followers": 39330,
   "original_name": "Pitchfork Music Festival CDMX",
   "owner": {
     "name": "Spotify",
@@ -587,8 +587,8 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Supermercado",
-        "url": "https://open.spotify.com/album/2d9sRDbb3g46M3pufQwsiK"
+        "name": "Junior",
+        "url": "https://open.spotify.com/album/25IaAzyPkNm8CR2ZVugP9N"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4"
         }
       ],
-      "duration_ms": 242800,
-      "name": "Le grand \u00e9cart",
-      "url": "https://open.spotify.com/track/5qlF09NGhK3NMONkhM1PLU"
+      "duration_ms": 277539,
+      "name": "Domino",
+      "url": "https://open.spotify.com/track/5C9gmvBVdhEAHAqlpFGHqk"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -683,8 +683,8 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Junior",
-        "url": "https://open.spotify.com/album/25IaAzyPkNm8CR2ZVugP9N"
+        "name": "Supermercado",
+        "url": "https://open.spotify.com/album/2d9sRDbb3g46M3pufQwsiK"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4"
         }
       ],
-      "duration_ms": 277539,
-      "name": "Domino",
-      "url": "https://open.spotify.com/track/5C9gmvBVdhEAHAqlpFGHqk"
+      "duration_ms": 242800,
+      "name": "Le grand \u00e9cart",
+      "url": "https://open.spotify.com/track/5qlF09NGhK3NMONkhM1PLU"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -715,8 +715,8 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Sol",
-        "url": "https://open.spotify.com/album/5shelU7wuKNdL7PUvNbqiF"
+        "name": "FYT",
+        "url": "https://open.spotify.com/album/7GnxsWoQIn4gjwASblM82j"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
         }
       ],
-      "duration_ms": 188500,
-      "name": "Sol",
-      "url": "https://open.spotify.com/track/2ep4KuxvHiQUXUZpmMzczS"
+      "duration_ms": 147173,
+      "name": "FYT",
+      "url": "https://open.spotify.com/track/2yzQ3QoQKTTWdeweOCvZ2H"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -827,6 +827,54 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
+        "name": "i/O",
+        "url": "https://open.spotify.com/album/049Ce5l3IGtVIYsHiwqA70"
+      },
+      "artists": [
+        {
+          "name": "Mengers",
+          "url": "https://open.spotify.com/artist/2VbAt1al6lMiIM04IFZ90n"
+        }
+      ],
+      "duration_ms": 195037,
+      "name": "i/O",
+      "url": "https://open.spotify.com/track/7f95Umg9PDh3UIdQgCTOaj"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "Sol",
+        "url": "https://open.spotify.com/album/5shelU7wuKNdL7PUvNbqiF"
+      },
+      "artists": [
+        {
+          "name": "Noa Sainz",
+          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
+        }
+      ],
+      "duration_ms": 188500,
+      "name": "Sol",
+      "url": "https://open.spotify.com/track/2ep4KuxvHiQUXUZpmMzczS"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "Ring",
+        "url": "https://open.spotify.com/album/67jSVxuCF5y7rPizT4mLP7"
+      },
+      "artists": [
+        {
+          "name": "Glasser",
+          "url": "https://open.spotify.com/artist/2M45qKMZX16QUyOiKyluI0"
+        }
+      ],
+      "duration_ms": 219440,
+      "name": "Mirrorage",
+      "url": "https://open.spotify.com/track/1DBJlY3yRIqaScNNnkZbUy"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
         "name": "We Buy Diabetic Test Strips",
         "url": "https://open.spotify.com/album/3xtJ7J0TyOaMqslZdKGkoh"
       },
@@ -851,54 +899,6 @@
       "duration_ms": 180772,
       "name": "The Gods Must Be Crazy",
       "url": "https://open.spotify.com/track/4pzB7F1F79CpuACW6hO6D3"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
-        "name": "FYT",
-        "url": "https://open.spotify.com/album/7GnxsWoQIn4gjwASblM82j"
-      },
-      "artists": [
-        {
-          "name": "Noa Sainz",
-          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
-        }
-      ],
-      "duration_ms": 147173,
-      "name": "FYT",
-      "url": "https://open.spotify.com/track/2yzQ3QoQKTTWdeweOCvZ2H"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
-        "name": "i/O",
-        "url": "https://open.spotify.com/album/049Ce5l3IGtVIYsHiwqA70"
-      },
-      "artists": [
-        {
-          "name": "Mengers",
-          "url": "https://open.spotify.com/artist/2VbAt1al6lMiIM04IFZ90n"
-        }
-      ],
-      "duration_ms": 195037,
-      "name": "i/O",
-      "url": "https://open.spotify.com/track/7f95Umg9PDh3UIdQgCTOaj"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
-        "name": "Ring",
-        "url": "https://open.spotify.com/album/67jSVxuCF5y7rPizT4mLP7"
-      },
-      "artists": [
-        {
-          "name": "Glasser",
-          "url": "https://open.spotify.com/artist/2M45qKMZX16QUyOiKyluI0"
-        }
-      ],
-      "duration_ms": 219440,
-      "name": "Mirrorage",
-      "url": "https://open.spotify.com/track/1DBJlY3yRIqaScNNnkZbUy"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Habits EP",
-        "url": "https://open.spotify.com/album/0GMbhSy7bxfov0ZbiJcoMm"
-      },
-      "artists": [
-        {
-          "name": "NOIA",
-          "url": "https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA"
-        }
-      ],
-      "duration_ms": 181203,
-      "name": "Itaca Tropical",
-      "url": "https://open.spotify.com/track/06hXume0bdbFHdbdl7BTbG"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
         "name": "Ahora Veo M\u00e1s Claro",
         "url": "https://open.spotify.com/album/1ZOLew9YSk4dR2ZDi9poYD"
       },
@@ -987,6 +971,22 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
+        "name": "Habits EP",
+        "url": "https://open.spotify.com/album/0GMbhSy7bxfov0ZbiJcoMm"
+      },
+      "artists": [
+        {
+          "name": "NOIA",
+          "url": "https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA"
+        }
+      ],
+      "duration_ms": 181203,
+      "name": "Itaca Tropical",
+      "url": "https://open.spotify.com/track/06hXume0bdbFHdbdl7BTbG"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
         "name": "GOLLY",
         "url": "https://open.spotify.com/album/06QqjEJoq3YWDdG0FJXKU3"
       },
@@ -999,6 +999,38 @@
       "duration_ms": 325725,
       "name": "Pantitl\u00e1n",
       "url": "https://open.spotify.com/track/0d0HTxy6Exc4mzaDjdj8mh"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "Crux",
+        "url": "https://open.spotify.com/album/2GvEyAvxiEyNu0Os14cZk7"
+      },
+      "artists": [
+        {
+          "name": "Glasser",
+          "url": "https://open.spotify.com/artist/2M45qKMZX16QUyOiKyluI0"
+        }
+      ],
+      "duration_ms": 242735,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/1kCj1xjrJSldhN6bSfkDLF"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "Hallucinogen",
+        "url": "https://open.spotify.com/album/5Olw4XubTcqIBtKt3U8poM"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "duration_ms": 140381,
+      "name": "Hallucinogen",
+      "url": "https://open.spotify.com/track/5OKRhphQqMrtWLMfcbiail"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -1031,50 +1063,18 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Hallucinogen",
-        "url": "https://open.spotify.com/album/5Olw4XubTcqIBtKt3U8poM"
+        "name": "Parted Plains",
+        "url": "https://open.spotify.com/album/2CY7iodG7q2mC8C6GbMeTq"
       },
       "artists": [
         {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+          "name": "Ami Dang",
+          "url": "https://open.spotify.com/artist/1DAqw4sYHPmgHQ6gzOVDig"
         }
       ],
-      "duration_ms": 140381,
-      "name": "Hallucinogen",
-      "url": "https://open.spotify.com/track/5OKRhphQqMrtWLMfcbiail"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
-        "name": "Crux",
-        "url": "https://open.spotify.com/album/2GvEyAvxiEyNu0Os14cZk7"
-      },
-      "artists": [
-        {
-          "name": "Glasser",
-          "url": "https://open.spotify.com/artist/2M45qKMZX16QUyOiKyluI0"
-        }
-      ],
-      "duration_ms": 242735,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/1kCj1xjrJSldhN6bSfkDLF"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
-        "name": "gisela",
-        "url": "https://open.spotify.com/album/2bAuw1nc2csrMfpTFeatCR"
-      },
-      "artists": [
-        {
-          "name": "NOIA",
-          "url": "https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA"
-        }
-      ],
-      "duration_ms": 190293,
-      "name": "reveal yourself",
-      "url": "https://open.spotify.com/track/0YjRE5ut3J4exRx40kLtg6"
+      "duration_ms": 224697,
+      "name": "Love-liesse",
+      "url": "https://open.spotify.com/track/6AODhOVcNWM2V92aINFwVM"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Parted Plains",
-        "url": "https://open.spotify.com/album/2CY7iodG7q2mC8C6GbMeTq"
-      },
-      "artists": [
-        {
-          "name": "Ami Dang",
-          "url": "https://open.spotify.com/artist/1DAqw4sYHPmgHQ6gzOVDig"
-        }
-      ],
-      "duration_ms": 224697,
-      "name": "Love-liesse",
-      "url": "https://open.spotify.com/track/6AODhOVcNWM2V92aINFwVM"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
         "name": "Pulpos",
         "url": "https://open.spotify.com/album/1nJyg4XvniLvxu2ibVfP1r"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 230000,
       "name": "Pulpos - Los Alan Anaya Remix",
       "url": "https://open.spotify.com/track/6tUVqheajV2blIRHvRX5Ob"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "gisela",
+        "url": "https://open.spotify.com/album/2bAuw1nc2csrMfpTFeatCR"
+      },
+      "artists": [
+        {
+          "name": "NOIA",
+          "url": "https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA"
+        }
+      ],
+      "duration_ms": 190293,
+      "name": "reveal yourself",
+      "url": "https://open.spotify.com/track/0YjRE5ut3J4exRx40kLtg6"
     }
   ],
   "unique_name": "Pitchfork Music Festival CDMX",

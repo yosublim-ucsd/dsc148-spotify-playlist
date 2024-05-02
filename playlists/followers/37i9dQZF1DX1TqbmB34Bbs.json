@@ -1,5 +1,5 @@
 {
-  "2024-05-01": 18539,
+  "2024-05-02": 18540,
   "date_first_scraped": "2022-05-30",
   "description": "Illest hardcore K-hip hop tracks are here. (Cover: QM) (\uacf5\uaca9\ub825 \uc0c1\uc2b9 \uad6d\ub0b4 \ud799\ud569\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "K`illin'",
@@ -1047,7 +1047,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 245655,
       "name": "9ucci REMIX (Feat. Paloalto, Jessi, UNEDUCATED KID, The Quiett)",
       "url": "https://open.spotify.com/track/6o1qOsDj7z7WLnI4tz7HvW"
@@ -1697,7 +1697,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 233060,
       "name": "AIYA",
       "url": "https://open.spotify.com/track/1scswYxDmooSV19whJfGYI"
@@ -11365,7 +11365,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 198659,
       "name": "Hyperstar",
       "url": "https://open.spotify.com/track/2eMgUo649JZjeZiGBECUtZ"
@@ -12925,6 +12925,24 @@
       "duration_ms": 267120,
       "name": "La D\u00e9cima (feat. Han Yo Han)",
       "url": "https://open.spotify.com/track/4bsRHAHrF7nFKBQq16cCO0"
+    },
+    {
+      "album": {
+        "name": "Ladidadi",
+        "url": "https://open.spotify.com/album/1NblktVkuE0ZF9XU4vEiXM"
+      },
+      "artists": [
+        {
+          "name": "DON MALIK",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        }
+      ],
+      "date_added": "2024-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123228,
+      "name": "Ladidadi!",
+      "url": "https://open.spotify.com/track/5CF0DkZosBF1XC0dNJX5NR"
     },
     {
       "album": {

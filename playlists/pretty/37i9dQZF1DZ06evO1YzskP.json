@@ -1,12 +1,12 @@
 {
   "description": "This is La Receta. The essential tracks, all in one playlist.",
-  "num_followers": 23376,
+  "num_followers": 23402,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zi7jAAAAAAD2gVot0k4Hyup646YCrXvJ",
+  "snapshot_id": "ZjA0gAAAAADIg4TwD5qsWb4hu8woOeVE",
   "tracks": [
     {
       "added_at": null,
@@ -295,22 +295,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHV FLX",
-        "url": "https://open.spotify.com/album/570wwrCeTevXqtkNrQvdyM"
+        "name": "Fotos Hot",
+        "url": "https://open.spotify.com/album/4zD9ojAyJyG2On7waxHdn1"
       },
       "artists": [
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        },
-        {
-          "name": "Estilo Sencillo",
-          "url": "https://open.spotify.com/artist/0PG3h5k6cYdVbyKgHGMHc5"
         }
       ],
-      "duration_ms": 144426,
-      "name": "CHV FLX",
-      "url": "https://open.spotify.com/track/68UNONImrqa50dkBqTBSV8"
+      "duration_ms": 177786,
+      "name": "Fotos Hot",
+      "url": "https://open.spotify.com/track/1vnDr3JmeBIYPOCCntE76H"
     },
     {
       "added_at": null,
@@ -347,18 +343,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fotos Hot",
-        "url": "https://open.spotify.com/album/4zD9ojAyJyG2On7waxHdn1"
+        "name": "CHV FLX",
+        "url": "https://open.spotify.com/album/570wwrCeTevXqtkNrQvdyM"
       },
       "artists": [
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "Estilo Sencillo",
+          "url": "https://open.spotify.com/artist/0PG3h5k6cYdVbyKgHGMHc5"
         }
       ],
-      "duration_ms": 177786,
-      "name": "Fotos Hot",
-      "url": "https://open.spotify.com/track/1vnDr3JmeBIYPOCCntE76H"
+      "duration_ms": 144426,
+      "name": "CHV FLX",
+      "url": "https://open.spotify.com/track/68UNONImrqa50dkBqTBSV8"
     },
     {
       "added_at": null,
@@ -571,18 +571,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Pap\u00e1 De Los Pitufos",
-        "url": "https://open.spotify.com/album/4tCX1DeFaQHlEMKTvPH6D9"
+        "name": "Listos Pal\u00b4 Top\u00f3n",
+        "url": "https://open.spotify.com/album/4Yx50RINop4qGfr4cNG8xn"
       },
       "artists": [
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "Johan Bastidas",
+          "url": "https://open.spotify.com/artist/6WPJr4bXdrSAZ4Tyh1JC3u"
         }
       ],
-      "duration_ms": 149946,
-      "name": "El Pap\u00e1 De Los Pitufos",
-      "url": "https://open.spotify.com/track/15gZrMqODqLIm2SPegEHRU"
+      "duration_ms": 136973,
+      "name": "Listos Pal\u00b4 Top\u00f3n",
+      "url": "https://open.spotify.com/track/339rM4AlAy4uUmfuu5Tk7s"
     },
     {
       "added_at": null,
@@ -619,22 +623,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Listos Pal\u00b4 Top\u00f3n",
-        "url": "https://open.spotify.com/album/4Yx50RINop4qGfr4cNG8xn"
+        "name": "El Pap\u00e1 De Los Pitufos",
+        "url": "https://open.spotify.com/album/4tCX1DeFaQHlEMKTvPH6D9"
       },
       "artists": [
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        },
-        {
-          "name": "Johan Bastidas",
-          "url": "https://open.spotify.com/artist/6WPJr4bXdrSAZ4Tyh1JC3u"
         }
       ],
-      "duration_ms": 136973,
-      "name": "Listos Pal\u00b4 Top\u00f3n",
-      "url": "https://open.spotify.com/track/339rM4AlAy4uUmfuu5Tk7s"
+      "duration_ms": 149946,
+      "name": "El Pap\u00e1 De Los Pitufos",
+      "url": "https://open.spotify.com/track/15gZrMqODqLIm2SPegEHRU"
     },
     {
       "added_at": null,
@@ -763,26 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El JP (En Vivo)",
-        "url": "https://open.spotify.com/album/1BTAMCG3jmqI8eCZuc9wFl"
-      },
-      "artists": [
-        {
-          "name": "Grupo Mente Maestra",
-          "url": "https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2"
-        },
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 202120,
-      "name": "El JP (En Vivo)",
-      "url": "https://open.spotify.com/track/2cJpo5bZUYlHF6pWNfkyOV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mauricio MG",
         "url": "https://open.spotify.com/album/7IlEh5bGSPO3OM68Tjcxbw"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 155746,
       "name": "Mauricio MG",
       "url": "https://open.spotify.com/track/7pLa01jnr3LYNq6b3jDi1Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El JP (En Vivo)",
+        "url": "https://open.spotify.com/album/1BTAMCG3jmqI8eCZuc9wFl"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mente Maestra",
+          "url": "https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2"
+        },
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 202120,
+      "name": "El JP (En Vivo)",
+      "url": "https://open.spotify.com/track/2cJpo5bZUYlHF6pWNfkyOV"
     },
     {
       "added_at": null,
@@ -855,8 +855,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Finta De Fresitas",
-        "url": "https://open.spotify.com/album/72mTKDr3PmqRBCwUbH29Ta"
+        "name": "Orson Iv\u00e1n",
+        "url": "https://open.spotify.com/album/6bWPt5uVi4IbLXzEZcIUQE"
       },
       "artists": [
         {
@@ -864,9 +864,9 @@
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 175866,
-      "name": "Finta De Fresitas",
-      "url": "https://open.spotify.com/track/7EsdZUTmBOPWrWttIBkeQh"
+      "duration_ms": 170013,
+      "name": "Orson Iv\u00e1n",
+      "url": "https://open.spotify.com/track/3o64JodEf12s50KqFTickz"
     },
     {
       "added_at": null,
@@ -887,8 +887,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Orson Iv\u00e1n",
-        "url": "https://open.spotify.com/album/6bWPt5uVi4IbLXzEZcIUQE"
+        "name": "Finta De Fresitas",
+        "url": "https://open.spotify.com/album/72mTKDr3PmqRBCwUbH29Ta"
       },
       "artists": [
         {
@@ -896,9 +896,9 @@
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 170013,
-      "name": "Orson Iv\u00e1n",
-      "url": "https://open.spotify.com/track/3o64JodEf12s50KqFTickz"
+      "duration_ms": 175866,
+      "name": "Finta De Fresitas",
+      "url": "https://open.spotify.com/track/7EsdZUTmBOPWrWttIBkeQh"
     },
     {
       "added_at": null,

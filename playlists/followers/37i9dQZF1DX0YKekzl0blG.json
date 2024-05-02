@@ -1,5 +1,5 @@
 {
-  "2024-05-01": 703298,
+  "2024-05-02": 703363,
   "date_first_scraped": "2021-12-28",
   "description": "All the indelible tunes from the other side of the 00s. Cover: LCD Soundsystem",
   "name": "Alternative 00s",
@@ -2509,7 +2509,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 181906,
       "name": "Move Your Feet",
       "url": "https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW"
@@ -4277,6 +4277,24 @@
       "duration_ms": 158546,
       "name": "Up The Bracket",
       "url": "https://open.spotify.com/track/5j3KU7D9dxolJu0kS2WHY4"
+    },
+    {
+      "album": {
+        "name": "Up the Bracket",
+        "url": "https://open.spotify.com/album/4iddETnfRjPwoPCo9PjeyX"
+      },
+      "artists": [
+        {
+          "name": "The Libertines",
+          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158546,
+      "name": "Up the Bracket",
+      "url": "https://open.spotify.com/track/6dgNSYxHgPruJtgISdi61C"
     },
     {
       "album": {

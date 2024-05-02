@@ -1,5 +1,5 @@
 {
-  "2024-05-01": 464768,
+  "2024-05-02": 464771,
   "date_first_scraped": "2023-07-29",
   "description": "This Is Jennifer Lopez. Los temas esenciales, todos en una lista.",
   "name": "This Is Jennifer Lopez",
@@ -671,7 +671,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 331293,
       "name": "Escap\u00e9monos - Salsa Version",
       "url": "https://open.spotify.com/track/4oGs2MK6C35jMJhaT151yg"
@@ -1665,7 +1665,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 246426,
       "name": "Waiting for Tonight",
       "url": "https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX"

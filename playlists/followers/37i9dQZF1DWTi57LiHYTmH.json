@@ -1,5 +1,5 @@
 {
-  "2024-05-01": 49014,
+  "2024-05-02": 49350,
   "date_first_scraped": "2023-08-17",
   "description": "A calm and cosy classical soundtrack to all activities. ",
   "name": "Classical in the Background",
@@ -1205,6 +1205,28 @@
       "duration_ms": 96240,
       "name": "Children's Album No. 1 \"Pictures of Childhood\": No. 1, Andantino",
       "url": "https://open.spotify.com/track/1xky6QliZ0gPbdnatVdb4Q"
+    },
+    {
+      "album": {
+        "name": "Corea: Children's Song No. 1",
+        "url": "https://open.spotify.com/album/4v9sxGj2nTgRz1FQi2GoXE"
+      },
+      "artists": [
+        {
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+        },
+        {
+          "name": "Sean Shibe",
+          "url": "https://open.spotify.com/artist/4EFuBkf11kth7fbFXIpre5"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111178,
+      "name": "Children's Song No. 1 (Arr. for guitar by Forbes Henderson)",
+      "url": "https://open.spotify.com/track/6rpfMfLTgzfw7VzebK5Q9u"
     },
     {
       "album": {
@@ -3945,7 +3967,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 150493,
       "name": "Satie: 3 Gymnop\u00e9dies: No. 3, Lent et grave",
       "url": "https://open.spotify.com/track/4b1ZzDtdGeDpXaPw4DViZ8"

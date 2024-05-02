@@ -28,7 +28,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 237660,
       "name": "$tr33t$",
       "url": "https://open.spotify.com/track/1Qksl8s59ywSHo1exDdEqd"
@@ -1972,6 +1972,28 @@
       "duration_ms": 135529,
       "name": "MAS GUSTO KITA",
       "url": "https://open.spotify.com/track/2c5CsVc89pz3gc11BnWVLL"
+    },
+    {
+      "album": {
+        "name": "MINAHALAGAD",
+        "url": "https://open.spotify.com/album/1N6eO3cWQ1LXAJux7E21fD"
+      },
+      "artists": [
+        {
+          "name": "Because",
+          "url": "https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv"
+        },
+        {
+          "name": "Hev Abi",
+          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251455,
+      "name": "MINAHALAGAD",
+      "url": "https://open.spotify.com/track/0k9bmRFeWAKCJm0OtIrbd1"
     },
     {
       "album": {

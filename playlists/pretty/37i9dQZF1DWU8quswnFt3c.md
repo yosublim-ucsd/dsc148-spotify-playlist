@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume from across the world\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 924,484 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 925,118 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,12 +44,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 34 | [Naram Kaalja \(From "Amar Singh Chamkila"\)](https://open.spotify.com/track/5NsZ8Yi8cPOkcns2WsHfnG) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Richa Sharma](https://open.spotify.com/artist/2hgViyN0RqyQQpfjIb0g3W), [Pooja Tiwari](https://open.spotify.com/artist/5MDvAeupq312AkEWTGblZf), [Yashika Sikka](https://open.spotify.com/artist/0lve5IC1Fy0kxyzy8deBih), [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Naram Kaalja \(From "Amar Singh Chamkila"\)](https://open.spotify.com/album/7CY8xqvfpEIZJAnsWJKLbC) | 5:07 |
 | 35 | [The Girl That I Used To Be](https://open.spotify.com/track/1YuiSjDArp53gCzIOOYTLK) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [The Girl That I Used To Be](https://open.spotify.com/album/4tNsUBJJ9sI3BW24tKS332) | 3:11 |
 | 36 | [Drunk On A Flight](https://open.spotify.com/track/61gNWcpFdezb20Oc4uMrr6) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq) | 3:02 |
-| 37 | [The Day That I Met You](https://open.spotify.com/track/2G31WfcBUlMGZ8lpJ0bfA1) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [The Day That I Met You](https://open.spotify.com/album/2w5BVD5WObeg5FkJxBgmES) | 2:45 |
-| 38 | [Arcadia](https://open.spotify.com/track/5mqVdt50q0fYvyz3gd6eKe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Arcadia](https://open.spotify.com/album/2AVn0YgzBtqsa0d6R5QD95) | 4:23 |
+| 37 | [Arcadia](https://open.spotify.com/track/5mqVdt50q0fYvyz3gd6eKe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Arcadia](https://open.spotify.com/album/2AVn0YgzBtqsa0d6R5QD95) | 4:23 |
+| 38 | [The Day That I Met You](https://open.spotify.com/track/2G31WfcBUlMGZ8lpJ0bfA1) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [The Day That I Met You](https://open.spotify.com/album/2w5BVD5WObeg5FkJxBgmES) | 2:45 |
 | 39 | [Distance](https://open.spotify.com/track/1IlBPaXuM7Fl6tiH9CPQlQ) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [The Switch](https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY) | 3:51 |
 | 40 | [reflektory](https://open.spotify.com/track/18DsvCkv4DnTSfWDUynIxz) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik) | [Sanatorium](https://open.spotify.com/album/2fyAniBCpsGLEMTiQKM9CA) | 3:00 |
-| 41 | [La Haine](https://open.spotify.com/track/5xxKSUKBn3YciHGkhrXcLu) | [Ekin Beril](https://open.spotify.com/artist/1sJ90imre0sj4Kj4a8xyXp) | [La Haine](https://open.spotify.com/album/3CYYNa8FPHvnVbUc5sz1Ba) | 3:21 |
-| 42 | [Acqua ossigenata](https://open.spotify.com/track/3Q8UZcTEBbaVcg9RhShnY0) | [Angelica](https://open.spotify.com/artist/3aFnXkfp5Z2Ac9DLorgJ4S) | [Sconosciuti superstar](https://open.spotify.com/album/4DFhDSOSXmgIXXFd2VUNzg) | 2:35 |
+| 41 | [Acqua ossigenata](https://open.spotify.com/track/3Q8UZcTEBbaVcg9RhShnY0) | [Angelica](https://open.spotify.com/artist/3aFnXkfp5Z2Ac9DLorgJ4S) | [Sconosciuti superstar](https://open.spotify.com/album/4DFhDSOSXmgIXXFd2VUNzg) | 2:35 |
+| 42 | [La Haine](https://open.spotify.com/track/5xxKSUKBn3YciHGkhrXcLu) | [Ekin Beril](https://open.spotify.com/artist/1sJ90imre0sj4Kj4a8xyXp) | [La Haine](https://open.spotify.com/album/3CYYNa8FPHvnVbUc5sz1Ba) | 3:21 |
 | 43 | [Ojitos verdes](https://open.spotify.com/track/4phlKk4QBU36zO9IxfB3Ou) | [Las Migas](https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3) | [Rumberas](https://open.spotify.com/album/6SgGpYDWCLWEH2wfeVXhd8) | 3:35 |
 | 44 | [Looonely](https://open.spotify.com/track/1lBxGvrnW7wUVfPNurc9Wj) | [Cheer Chen](https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T), [toe](https://open.spotify.com/artist/0rpKM0MniNkXM1SLSglYUZ), [OOG](https://open.spotify.com/artist/5UG5vVkxLw3HdVJrrxgFqD) | [越洋電話, Vol\. 1](https://open.spotify.com/album/4PsbzDRyyoTbZ9TfN68l97) | 3:55 |
 | 45 | [Someday](https://open.spotify.com/track/410mwoO5DZfBXZCFw01UvW) | [ANNÉ](https://open.spotify.com/artist/0mI2naVcev6UnXkXKmG4kf) | [Someday](https://open.spotify.com/album/3kUYNvZYmBL4M3Hjqh88UT) | 4:43 |

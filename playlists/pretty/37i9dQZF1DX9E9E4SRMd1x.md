@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9E9E4SRMd1x.md) - [plain]
 
 > Los temas inmortales de Selena en voces de nuevos intérpretes
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,623 likes - 27 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,635 likes - 27 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

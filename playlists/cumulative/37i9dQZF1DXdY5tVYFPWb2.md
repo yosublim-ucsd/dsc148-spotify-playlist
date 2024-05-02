@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-825 songs - 2 day 6 hr 18 min
+827 songs - 2 day 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Drive’n The Rain](https://open.spotify.com/track/5PixDfOQbLTEG2YFPcXA1e) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [PLASMA](https://open.spotify.com/album/4gqRmcXiuzlxB9nEnFiK4y) | 6:16 | 2022-07-27 | 2023-08-25 |
 | [Eastern Railroad](https://open.spotify.com/track/1ePjUavUg94dF598YFLiwt) | [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [NEVER ENDING SUMMER REMIX](https://open.spotify.com/album/0ZbNM7icPjo2rt0l56xGWW) | 3:54 | 2022-09-27 | 2022-10-05 |
 | [Eclipse](https://open.spotify.com/track/3xUemE6fdgQKwymzvCjHJt) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Eclipse](https://open.spotify.com/album/3awnnhSoffzFbLrQs0QnKA) | 3:37 | 2023-11-21 | 2024-02-14 |
-| [Eclipse](https://open.spotify.com/track/6wcI81d5Tg6hAFS3jRwAF1) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Eclipse](https://open.spotify.com/album/6w4q3aezkBoa7LTr9TdKng) | 3:37 | 2024-04-16 |  |
+| [Eclipse](https://open.spotify.com/track/6wcI81d5Tg6hAFS3jRwAF1) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Eclipse](https://open.spotify.com/album/6w4q3aezkBoa7LTr9TdKng) | 3:37 | 2024-04-16 | 2024-05-02 |
 | [eden](https://open.spotify.com/track/7lXEPbQO0zQSWVRPxmHuuY) | [Maharajan](https://open.spotify.com/artist/5N22lbGgYS8PIR9or5LIIF) | [ちがう](https://open.spotify.com/album/5dUP4yDeeOuClON4hiqVCO) | 3:50 | 2023-12-12 |  |
 | [ENDLESS](https://open.spotify.com/track/1OrplXMoRRaHS7D9pIn5e1) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [IMAGINE](https://open.spotify.com/album/3PqSE7humFjBigvsUK48U2) | 3:51 | 2022-05-24 |  |
 | [ENJOY THE RIDE](https://open.spotify.com/track/68yPKpoph3amKSGRZLXlkf) | [FRONTIER BACKYARD](https://open.spotify.com/artist/5MW5Dg53vAA4Rorq0I51xy), [Neil and Iraiza](https://open.spotify.com/artist/6rAA6xJe1O2ubeZj6xIB2y), [ALL STARS](https://open.spotify.com/artist/1bNTB1MJpFa6LauIlZCInr) | [ENJOY THE RIDE](https://open.spotify.com/album/7IbyAfAKOMdzWQXLMTkMFP) | 3:21 | 2024-01-09 | 2024-01-24 |
@@ -440,7 +440,7 @@
 | [Sputnik](https://open.spotify.com/track/3cH0raQ4UUqY3NvXcD2O7J) | [Monenai](https://open.spotify.com/artist/3Z0IWHS1zD8VAjNoNqq4sB) | [Sputnik](https://open.spotify.com/album/3ykYCB44Y0EmZ7e6JK8HcS) | 3:18 | 2023-05-30 | 2023-06-16 |
 | [SQUALL](https://open.spotify.com/track/6GDLmddnNU6v6AoyqnlvXD) | [LUA](https://open.spotify.com/artist/6Kn5qpqJoHEY2D8uvgUQut) | [SQUALL](https://open.spotify.com/album/665nMWjjVtin2BIuiy61SW) | 4:06 | 2022-08-02 | 2022-08-17 |
 | [Stardust](https://open.spotify.com/track/0BvOFRB4G7QCwChRG8skCq) | [Orland](https://open.spotify.com/artist/36aO6QRP6K44OdvTkDDs27) | [Stardust](https://open.spotify.com/album/0lNpnhKSPpNL5PLtV24J28) | 4:26 | 2022-11-22 | 2022-11-30 |
-| [STARLIGHT](https://open.spotify.com/track/1jN4iYlI3s1EVDnzhHL1LT) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [STARLIGHT](https://open.spotify.com/album/2SFu5LR3Dd4v4ms8YQULUd) | 3:07 | 2022-06-28 |  |
+| [STARLIGHT](https://open.spotify.com/track/1jN4iYlI3s1EVDnzhHL1LT) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [STARLIGHT](https://open.spotify.com/album/2SFu5LR3Dd4v4ms8YQULUd) | 3:07 | 2022-06-28 | 2024-05-02 |
 | [STARLIGHT](https://open.spotify.com/track/7gg611kXgkFXDwEdAAYSOD) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [STARLIGHT](https://open.spotify.com/album/3goLdwlEKJatLLNgVkRcxf) | 3:07 | 2022-07-27 | 2023-05-13 |
 | [STARLIGHT](https://open.spotify.com/track/5Gy2K8tW4bc4TAov7pfEKd) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [PRIVATE](https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O) | 3:08 | 2023-05-16 | 2024-03-24 |
 | [Stay Here](https://open.spotify.com/track/08vLS0rSzEDZvnIb24PTzj) | [Asilo](https://open.spotify.com/artist/72lfhTlPxWHRqGnIdr9Jxh) | [Stay Here](https://open.spotify.com/album/7a8HyqmcdL2LuScqOxGu45) | 3:33 | 2023-08-22 | 2023-08-24 |
@@ -480,6 +480,7 @@
 | [SUTEKI](https://open.spotify.com/track/7ukJqd6fmFIPckkIilunXy) | [BLACK BERRY TIMES](https://open.spotify.com/artist/4J8XXHJfFASivijCfQwIj7) | [SUTEKI](https://open.spotify.com/album/4jr9rEDlBFhKjRq7MeJXQr) | 3:17 | 2023-09-05 | 2023-09-20 |
 | [Sweet Escape \(feat\. ひかり\)](https://open.spotify.com/track/6Whj4AAx1Y2xSCJhpRvTpt) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [Sweet Escape \(feat\. ひかり\)](https://open.spotify.com/album/6QWulBLmOcERqXcs2tSxh6) | 3:53 | 2022-08-09 | 2023-02-01 |
 | [Sweet Escape feat\. ひかり \- Jafunk Remix](https://open.spotify.com/track/0rnE60QykoMiOgtmN0OxlN) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [Sweet Escape \(feat\. ひかり\) \[Jafunk Remix\]](https://open.spotify.com/album/48YB5mSWFYupUc0NbKkKie) | 3:37 | 2023-07-25 | 2024-02-07 |
+| [Sweet Sweet \- feat\. 土岐麻子](https://open.spotify.com/track/0nwBOeANdTYkamtj8lHp0U) | [THREE1989](https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn), [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [Sweet Sweet \(feat\. 土岐麻子\)](https://open.spotify.com/album/1thBf4gOv73FiEe21Jro2y) | 4:10 | 2024-05-01 |  |
 | [Swimming Pool](https://open.spotify.com/track/7bY52sKxTY4fcCnodr3sLL) | [Schuwa Schuwa](https://open.spotify.com/artist/3Zcl5m1Mre2ZlfVU7xYSC8) | [Swimming Pool](https://open.spotify.com/album/4BZAAHsQfitbhKkoAXdgZe) | 4:27 | 2023-08-15 | 2023-09-06 |
 | [Take That ! feat\. TENDRE](https://open.spotify.com/track/0v2Kv316ccVrrL3BDDqRHm) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [Take That ! feat\. TENDRE](https://open.spotify.com/album/3Krjqn3TYEyvQ4JC0TF7xX) | 3:35 | 2023-03-07 | 2023-03-09 |
 | [Take That ! feat\. TENDRE](https://open.spotify.com/track/64ygTL7d8g37JIp4rcRZ26) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [Take That ! feat\. TENDRE](https://open.spotify.com/album/72MRQEQStg151kpzKoTM7q) | 3:35 | 2023-03-07 | 2023-03-22 |
@@ -661,6 +662,7 @@
 | [トドメの一撃 \(feat\. Cory Wong\)](https://open.spotify.com/track/7p2X86CP7JrIjbVEsZHU0h) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [トドメの一撃 \(feat\. Cory Wong\)](https://open.spotify.com/album/7jUTLJgcOL6z7ou8TVVh24) | 5:10 | 2024-04-16 |  |
 | [ナイトグルーヴ](https://open.spotify.com/track/5nnEGWycHraBQ0EhfOFToK) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Groove it](https://open.spotify.com/album/4GQsvPVVp3eMNIJdIc7bKZ) | 3:34 | 2023-11-10 |  |
 | [ナイトダイバー](https://open.spotify.com/track/1YsAzyAXLHSAywueN4jVT0) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [ナイトダイバー](https://open.spotify.com/album/2LC3a3j1xtw6bqFkRLBqWt) | 3:48 | 2022-05-24 | 2022-07-26 |
+| [ニュアンスで伝えて feat\. ヒグチアイ](https://open.spotify.com/track/5rObPaxkppROxPy9Xfqps6) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38), [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [ニュアンスで伝えて feat\. ヒグチアイ](https://open.spotify.com/album/4K1j8f2cfggPo3vfrK4Nus) | 3:43 | 2024-05-01 |  |
 | [ネオン](https://open.spotify.com/track/2vsTYBymdaF7WqQdlgKBu0) | [NORISTRY](https://open.spotify.com/artist/3sXpaXq06MLtZIMPjeIBDU) | [ネオン](https://open.spotify.com/album/72ghjGswM1Zyw4jQwAVBqd) | 3:23 | 2022-08-02 | 2022-08-10 |
 | [ハイウェイ](https://open.spotify.com/track/5SKE1TrwANySMAHwX7uXEJ) | [Qnel](https://open.spotify.com/artist/3BPOGmjOCeLb5xwdz17OuF), [釜中健伍](https://open.spotify.com/artist/2WVWgwJ4K9EIhINZle0ulC) | [ハイウェイ](https://open.spotify.com/album/3VF4vOGBB5KBrUJEzztGRX) | 3:57 | 2023-11-14 | 2023-11-23 |
 | [バックミラー](https://open.spotify.com/track/4IR9jERbGJSHna9dbErOXQ) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [バックミラー](https://open.spotify.com/album/6CjRbmZievz0W5E2D5b7rc) | 3:29 | 2023-11-10 | 2024-04-28 |

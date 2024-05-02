@@ -1,5 +1,5 @@
 {
-  "2024-05-01": 57434,
+  "2024-05-02": 57431,
   "date_first_scraped": "2021-12-28",
   "description": "Check out the latest hits from Sandalwood!\nCover : Karataka Damanaka\n",
   "name": "Latest Kannada",
@@ -6623,32 +6623,6 @@
       "duration_ms": 260167,
       "name": "Edeyalli Eno Ondu",
       "url": "https://open.spotify.com/track/4QHpfMt55h09MnwqjJSzU5"
-    },
-    {
-      "album": {
-        "name": "Edhe Goodali (From \"Jasti Preeti\")",
-        "url": "https://open.spotify.com/album/03JoWmapDRRRz2VQGigtJh"
-      },
-      "artists": [
-        {
-          "name": "Badri Prasad",
-          "url": "https://open.spotify.com/artist/1Q40wizO6hrVtooWsgSSbG"
-        },
-        {
-          "name": "Vineeth Raj Menon",
-          "url": "https://open.spotify.com/artist/6oqmm7nNRyAfBdevvHaJ7d"
-        },
-        {
-          "name": "Arun Manav",
-          "url": "https://open.spotify.com/artist/0HyGVOYeaqf5AD6RpRIfyX"
-        }
-      ],
-      "date_added": "2024-04-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 225968,
-      "name": "Edhe Goodali (From \"Jasti Preeti\")",
-      "url": "https://open.spotify.com/track/7kEEUfYAGQEGkGOY3FJG0P"
     },
     {
       "album": {
@@ -27073,6 +27047,32 @@
       "duration_ms": 303000,
       "name": "Yedeya Daniya Haadu - From \" Jalapaatha \"",
       "url": "https://open.spotify.com/track/1ygvbhLXCvAc9vDSFjUXvZ"
+    },
+    {
+      "album": {
+        "name": "Yedhe Goodali (From \"Jasti Preeti\")",
+        "url": "https://open.spotify.com/album/03JoWmapDRRRz2VQGigtJh"
+      },
+      "artists": [
+        {
+          "name": "Badri Prasad",
+          "url": "https://open.spotify.com/artist/1Q40wizO6hrVtooWsgSSbG"
+        },
+        {
+          "name": "Vineeth Raj Menon",
+          "url": "https://open.spotify.com/artist/6oqmm7nNRyAfBdevvHaJ7d"
+        },
+        {
+          "name": "Arun Manav",
+          "url": "https://open.spotify.com/artist/0HyGVOYeaqf5AD6RpRIfyX"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225968,
+      "name": "Yedhe Goodali (From \"Jasti Preeti\")",
+      "url": "https://open.spotify.com/track/7kEEUfYAGQEGkGOY3FJG0P"
     },
     {
       "album": {

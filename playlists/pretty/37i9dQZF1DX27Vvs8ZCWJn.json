@@ -1,6 +1,6 @@
 {
   "description": "Cl\u00e1sicas rom\u00e1nticas, melodiosas, apacibles.",
-  "num_followers": 92431,
+  "num_followers": 92530,
   "original_name": "bohemia tranqui",
   "owner": {
     "name": "Spotify",
@@ -121,22 +121,6 @@
       "url": "https://open.spotify.com/track/48svUiwMMYQRPyesVEnof1"
     },
     {
-      "added_at": "2021-12-25 17:56:56",
-      "album": {
-        "name": "El Arte De Roberto Carlos",
-        "url": "https://open.spotify.com/album/37tQCsC8s4sNLCEDG9hGvC"
-      },
-      "artists": [
-        {
-          "name": "Roberto Carlos",
-          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
-        }
-      ],
-      "duration_ms": 232200,
-      "name": "El Gato Que Est\u00e1 Triste y Azul - Un Gato Nel Blu",
-      "url": "https://open.spotify.com/track/0X1XgxtHG9hULAw296CCgz"
-    },
-    {
       "added_at": "2023-12-12 20:14:21",
       "album": {
         "name": "The Thief in Marrakesh Got Caught in Amsterdam Trying to Escape",
@@ -151,6 +135,22 @@
       "duration_ms": 180373,
       "name": "The Thief in Marrakesh",
       "url": "https://open.spotify.com/track/3PLlvksV9NfmoGiZXEqunJ"
+    },
+    {
+      "added_at": "2021-12-25 17:56:56",
+      "album": {
+        "name": "El Arte De Roberto Carlos",
+        "url": "https://open.spotify.com/album/37tQCsC8s4sNLCEDG9hGvC"
+      },
+      "artists": [
+        {
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "El Gato Que Est\u00e1 Triste y Azul - Un Gato Nel Blu",
+      "url": "https://open.spotify.com/track/0X1XgxtHG9hULAw296CCgz"
     },
     {
       "added_at": "2021-12-25 17:56:56",

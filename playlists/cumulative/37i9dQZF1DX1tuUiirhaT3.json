@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Age Of Aquarius",
+        "url": "https://open.spotify.com/album/13HLxNIMNASDLJPfbxgdQ0"
+      },
+      "artists": [
+        {
+          "name": "Inner Calmness",
+          "url": "https://open.spotify.com/artist/6z2B2eDqa7fRZM8Kvb2BXT"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128186,
+      "name": "Age Of Aquarius",
+      "url": "https://open.spotify.com/track/0sVgpWZoO7OJ38LGKF4X7O"
+    },
+    {
+      "album": {
         "name": "Alma",
         "url": "https://open.spotify.com/album/0AFaIkFlm0NkNax3Vbc4SD"
       },
@@ -414,7 +432,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 246822,
       "name": "Aves Aristophanis",
       "url": "https://open.spotify.com/track/0hf4OAdQiOvMlMcRsYoHqK"
@@ -1051,6 +1069,24 @@
     },
     {
       "album": {
+        "name": "Creek",
+        "url": "https://open.spotify.com/album/4lQBLD35irfnMat8Kl1KKS"
+      },
+      "artists": [
+        {
+          "name": "Pandita",
+          "url": "https://open.spotify.com/artist/5NHNkxz16BTQyS2oUuymzl"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Creek",
+      "url": "https://open.spotify.com/track/52FiVYd5REYqd7qjPvn1cR"
+    },
+    {
+      "album": {
         "name": "Creek Of Wonder",
         "url": "https://open.spotify.com/album/4OBLtNZOdzSkQRvok1BDew"
       },
@@ -1206,7 +1242,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 153574,
       "name": "Dreaming in Ripples",
       "url": "https://open.spotify.com/track/2zAv5GHvNjAsI4mjyoorl4"
@@ -1224,7 +1260,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 171695,
       "name": "Dreamland",
       "url": "https://open.spotify.com/track/211hZI5K811BcZfTja8AlB"
@@ -1786,7 +1822,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 185156,
       "name": "Friendly Fall",
       "url": "https://open.spotify.com/track/5h2vwZOiGeBXbV1FwiZKaQ"
@@ -2513,6 +2549,24 @@
     },
     {
       "album": {
+        "name": "Limitless",
+        "url": "https://open.spotify.com/album/5JHxlZRNjQflM3FxfTQN2x"
+      },
+      "artists": [
+        {
+          "name": "Erlah",
+          "url": "https://open.spotify.com/artist/06tUglXC9xjsC8FN7m3gOP"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187183,
+      "name": "Limitless",
+      "url": "https://open.spotify.com/track/134IZUB0mbknPiuF6cYlgf"
+    },
+    {
+      "album": {
         "name": "Lion's Breath",
         "url": "https://open.spotify.com/album/3ckIgZZx3CZ6ItmoB6ETGd"
       },
@@ -2766,7 +2820,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 171428,
       "name": "Meditation Rain",
       "url": "https://open.spotify.com/track/05ZOl73J8mzcUcW4JNKYy5"
@@ -2806,6 +2860,24 @@
       "duration_ms": 160512,
       "name": "Meditation: Waves Pads",
       "url": "https://open.spotify.com/track/0giLrtDJbkxXJSqe6Xdo1v"
+    },
+    {
+      "album": {
+        "name": "Mendocino Rest (Forest)",
+        "url": "https://open.spotify.com/album/155r1CDT3MsxkbM5JhSYYN"
+      },
+      "artists": [
+        {
+          "name": "Asha Ward",
+          "url": "https://open.spotify.com/artist/2CvaBwhJi75nuaWjpB1IeV"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155200,
+      "name": "Mendocino Rest (Forest)",
+      "url": "https://open.spotify.com/track/1FVKJv0aLxNPeBiJAF8xE0"
     },
     {
       "album": {
@@ -3000,7 +3072,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 244620,
       "name": "Move With the World",
       "url": "https://open.spotify.com/track/4rdGFY7PaFbiYdtt0XFFcb"
@@ -4051,6 +4123,24 @@
     },
     {
       "album": {
+        "name": "Sanctuary Solace",
+        "url": "https://open.spotify.com/album/612Lseim2IwO0aBM1CkFXB"
+      },
+      "artists": [
+        {
+          "name": "Brett McLaughlin",
+          "url": "https://open.spotify.com/artist/0vQpcjQ759LHyXKgSdHweo"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169532,
+      "name": "Sanctuary Solace",
+      "url": "https://open.spotify.com/track/1ar2UwQUdy0F2nLPsD5vcI"
+    },
+    {
+      "album": {
         "name": "Sand Drawing",
         "url": "https://open.spotify.com/album/4fKJSTrxTgMu1Qdu62Z4YN"
       },
@@ -4116,10 +4206,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 198000,
       "name": "Sandy Beaches",
       "url": "https://open.spotify.com/track/1EdUVLHbFfHcTvKVXDBjcR"
+    },
+    {
+      "album": {
+        "name": "Sanguine",
+        "url": "https://open.spotify.com/album/0yJ6y7fatKw6R47DIhCQxj"
+      },
+      "artists": [
+        {
+          "name": "Mei Wyatt",
+          "url": "https://open.spotify.com/artist/3dlas5ivLc1UoaGKlWz7ak"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179159,
+      "name": "Sanguine",
+      "url": "https://open.spotify.com/track/0jhlHVGBceEn76z6M7uTuC"
     },
     {
       "album": {
@@ -4566,7 +4674,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 161796,
       "name": "Soothing the Ocean",
       "url": "https://open.spotify.com/track/2dGwmaVEeKceZET2Tw1UvK"
@@ -4602,7 +4710,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 201600,
       "name": "Springtime Bird",
       "url": "https://open.spotify.com/track/3VW0JyEfyYHqmhiZORcdTr"
@@ -4717,6 +4825,24 @@
     },
     {
       "album": {
+        "name": "Subconscious",
+        "url": "https://open.spotify.com/album/1ADe3vM4fsKXc4Y8BoYQha"
+      },
+      "artists": [
+        {
+          "name": "Leslie Moon",
+          "url": "https://open.spotify.com/artist/4tQUh1G51SSoB10CD2RHoA"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Subconscious",
+      "url": "https://open.spotify.com/track/3LHQMVeHaBZssmU1DnjJq5"
+    },
+    {
+      "album": {
         "name": "Liquid Universe",
         "url": "https://open.spotify.com/album/4MkMpficPrQ8RnElrfp8Iq"
       },
@@ -4800,7 +4926,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 172968,
       "name": "Surrounded",
       "url": "https://open.spotify.com/track/3bl88Ud8z2uuG72gS900Yy"
@@ -5326,7 +5452,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 200400,
       "name": "Vila",
       "url": "https://open.spotify.com/track/2M78TKNx5DGgXKfCPTHIXK"
@@ -5348,6 +5474,24 @@
       "duration_ms": 194500,
       "name": "Visioning",
       "url": "https://open.spotify.com/track/0yRHbvtu0x4MbIRKgIlXUl"
+    },
+    {
+      "album": {
+        "name": "Warmly Ways",
+        "url": "https://open.spotify.com/album/4BeZWc4QRlCSqrna5Za2e0"
+      },
+      "artists": [
+        {
+          "name": "Arch",
+          "url": "https://open.spotify.com/artist/3DeXMhW341Jkl4APFrFCmL"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153934,
+      "name": "Warmly Ways",
+      "url": "https://open.spotify.com/track/3ikoePNJ4pK9SVwckwaJiA"
     },
     {
       "album": {
@@ -5614,7 +5758,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 248727,
       "name": "Yantra 432hz",
       "url": "https://open.spotify.com/track/2PCp2VuoWNGTGZiY6oVEU3"
@@ -5650,7 +5794,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 157500,
       "name": "Zephyr",
       "url": "https://open.spotify.com/track/003fWGezqoXij6iO4VUUEB"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 
 > 
 
-[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 345 likes - 227 songs - 13 hr 29 min
+[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 345 likes - 228 songs - 13 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -235,5 +235,6 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 | 225 | [Tel Aviv \(Lvst Remix\)](https://open.spotify.com/track/3LFAHDElPcGRmRoQBSnqGF) | [Skeler](https://open.spotify.com/artist/7ks4LdnBvp6HUsmVJiKgsB), [Lvst](https://open.spotify.com/artist/37tqE9Ue451lRMSdcy8BA5) | [Tel Aviv \(Lvst Remix\)](https://open.spotify.com/album/34ODEhPO5R9WWY64OjhDAq) | 3:38 |
 | 226 | [Metadata](https://open.spotify.com/track/4h3K5he5ItFqJB1MVHMKJV) | [Willix](https://open.spotify.com/artist/6xWCdgEVD3rUXv3AYA4VPj), [ZØMB](https://open.spotify.com/artist/79NIVAOefeJgwo0QIIZ9t2) | [Metadata](https://open.spotify.com/album/4iLsgAr1wbuz1B8MkGc6wf) | 1:48 |
 | 227 | [Autumn Wind](https://open.spotify.com/track/0vwMdWKwS4mjeKiYvEq5Vc) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Autumn Wind](https://open.spotify.com/album/6sJ0X7UrBbVkh0VRuMCzaJ) | 2:09 |
+| 228 | [Sepia](https://open.spotify.com/track/4wueJoyWF7x6sO41ddk6IL) | [vinter](https://open.spotify.com/artist/6t2jsqfuSymmmvx1cQfKGs) | [Sepia](https://open.spotify.com/album/2fRde6F0mW6nNZfPpOMLHd) | 2:01 |
 
-Snapshot ID: `AAAA8x0WvrV5NNEKlW8pc+60FxmeaL7f`
+Snapshot ID: `AAAA9IG3YgVRMu5vZig4zummaiTiRr8Y`

@@ -4,7 +4,7 @@
 
 > 100% good vibes.
 
-513 songs - 1 day 10 hr 23 min
+514 songs - 1 day 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,7 +280,7 @@
 | [Lauren \(I Can't Stay Forever\)](https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH) | [Lauren \(I Can't Stay Forever\)](https://open.spotify.com/album/3L1NLn5rcrmV4uVqgaoTI7) | 3:20 | 2024-01-05 |  |
 | [Lemonade](https://open.spotify.com/track/0TNLwNkf1hOdf7Q4OsgsMI) | [Mercer](https://open.spotify.com/artist/7aSsnDTH11xS2yIn6cNtsF) | [Lemonade](https://open.spotify.com/album/413GcBg16RTuZckZyfL5cq) | 3:15 | 2022-04-06 | 2022-04-16 |
 | [Let Go](https://open.spotify.com/track/7qcSgxqwo2HWEKBHy7Rj6I) | [L'Étranger](https://open.spotify.com/artist/2dUL2pPThe3zZWRTWvGN9m) | [Let Go](https://open.spotify.com/album/3BDoH104fPr6Q2Qy1Oc2Bh) | 3:53 | 2023-01-16 | 2023-05-23 |
-| [Let It Go \(with Marc E\. Bassy\)](https://open.spotify.com/track/3TvNcBtucVO8flCgst1ESc) | [Louie Vega](https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Let It Go \(with Marc E\. Bassy\)](https://open.spotify.com/album/3yAuFFA0zd9J0sJi3JGpvt) | 3:24 | 2022-04-15 |  |
+| [Let It Go \(with Marc E\. Bassy\)](https://open.spotify.com/track/3TvNcBtucVO8flCgst1ESc) | [Louie Vega](https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Let It Go \(with Marc E\. Bassy\)](https://open.spotify.com/album/3yAuFFA0zd9J0sJi3JGpvt) | 3:24 | 2022-04-15 | 2024-05-02 |
 | [Let It Happen \- Soulwax Remix](https://open.spotify.com/track/5Z1E4jrUzitOQRczI8gfSL) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Currents B\-Sides & Remixes](https://open.spotify.com/album/04uXkrNhFJ1iWEo88MGPva) | 9:16 | 2022-04-15 | 2023-11-17 |
 | [Let You Go](https://open.spotify.com/track/0KG7XrgM20KEmJrKsyFDAm) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Diplo](https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY) | 3:54 | 2022-07-20 | 2023-11-17 |
 | [Let You Go \(feat\. Kareen Lomax\)](https://open.spotify.com/track/3Ql8FoHiDuU5aKCekZInYR) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Diplo](https://open.spotify.com/album/2Lm2otWdTB4ChDfvbRXHIu) | 3:54 | 2022-03-11 | 2022-06-28 |
@@ -350,6 +350,7 @@
 | [No Stress](https://open.spotify.com/track/1TVqsu1lmZU7DodZiPKIe9) | [Garden City Movement](https://open.spotify.com/artist/3HrczLBDJXJu6dJWEMbKHa), [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [No Stress](https://open.spotify.com/album/55dCvmQtu0fiK8GiTYvjUA) | 3:31 | 2022-04-06 | 2022-07-05 |
 | [Nobody Else Will Do](https://open.spotify.com/track/7523LoHW3sgiFG0GJcrV0C) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Nobody Else Will Do](https://open.spotify.com/album/6FQnPSIRDTKDxvZuFAH9qY) | 3:33 | 2023-09-01 | 2023-10-06 |
 | [Nobody Scared](https://open.spotify.com/track/0XW3UfxGKohQPt7FxaCuHU) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Nobody Scared](https://open.spotify.com/album/3ssYNO0NqPUMYJFjk9qtAW) | 3:39 | 2021-12-03 | 2022-07-27 |
+| [Not Giving You Up](https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Not Giving You Up](https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM) | 2:52 | 2024-04-19 |  |
 | [On My Mind \- Radio Mix](https://open.spotify.com/track/14K2ewiWrVf9qTRoT804Xm) | [Sandy's Groove](https://open.spotify.com/artist/1rQ5LaR4qHhLJ4BncWFTOd) | [On My Mind](https://open.spotify.com/album/1wUQMc1v5gj9n5cqYlLup6) | 4:00 | 2021-12-03 | 2022-07-10 |
 | [One More \(feat\. Nile Rodgers\)](https://open.spotify.com/track/5bZlKUqFIf0uM3MW03bhlG) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [One More \(feat\. Nile Rodgers\)](https://open.spotify.com/album/4K0AuBe1Mhq8ocmC0bDn6T) | 3:16 | 2021-12-03 | 2022-07-28 |
 | [One More Chance](https://open.spotify.com/track/2fs9HGUstxf0r1nbUsX9pr) | [Melle Brown](https://open.spotify.com/artist/0sD8M4PoVLNDJ82fi6oG5e) | [One More Chance](https://open.spotify.com/album/0Br04dEwKsxbvjQnBKqKC5) | 4:09 | 2022-05-30 | 2023-05-23 |

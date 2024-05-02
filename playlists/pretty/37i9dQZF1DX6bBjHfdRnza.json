@@ -1,12 +1,12 @@
 {
   "description": "The best new dance & electronic by independent artists and labels. Cover: BRUX. Artwork by Rewina Beshue.",
-  "num_followers": 174063,
+  "num_followers": 174263,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZiwXvwAAAACz5RSJ7Esv8wGeSLyg3GLB",
+  "snapshot_id": "ZjJ1cwAAAACcDk6LxT9pou/zGWauiVI8",
   "tracks": [
     {
       "added_at": "2024-04-24 16:38:08",
@@ -23,6 +23,22 @@
       "duration_ms": 225985,
       "name": "EMBERS",
       "url": "https://open.spotify.com/track/21Cx6z51SqNTZaiB221atC"
+    },
+    {
+      "added_at": "2024-05-01 17:01:39",
+      "album": {
+        "name": "Journey LP",
+        "url": "https://open.spotify.com/album/3ZdMf6kjyZbRCZ5dZQyOWW"
+      },
+      "artists": [
+        {
+          "name": "Ruze",
+          "url": "https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP"
+        }
+      ],
+      "duration_ms": 195937,
+      "name": "Mister DJ",
+      "url": "https://open.spotify.com/track/3g7fzHY2ieDM7RaAYbItLK"
     },
     {
       "added_at": "2024-03-27 17:04:34",
@@ -57,40 +73,68 @@
       "url": "https://open.spotify.com/track/71mh0Jiw6oJrUndhwWyqVi"
     },
     {
-      "added_at": "2024-04-26 21:08:15",
+      "added_at": "2024-05-01 17:01:39",
       "album": {
-        "name": "Nothing Feels The Same",
-        "url": "https://open.spotify.com/album/2PBO8ZKmkZ6PU6Jlhf6o8o"
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/0gQyJuBWFaessWNz0rvzvb"
       },
       "artists": [
         {
-          "name": "Love,Shaun",
-          "url": "https://open.spotify.com/artist/4qvKSBd9PKGZQ7cmWdOllu"
+          "name": "Atura",
+          "url": "https://open.spotify.com/artist/5nn0cIrXfm1pZ7jKFFexei"
         }
       ],
-      "duration_ms": 181951,
-      "name": "Nothing Feels The Same",
-      "url": "https://open.spotify.com/track/66P0qP5U9ymSHio61L0Buy"
+      "duration_ms": 229444,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/2s1WrQ4gYF1sf6A532AiNn"
     },
     {
       "added_at": "2024-04-24 16:38:08",
       "album": {
-        "name": "Monkeys",
-        "url": "https://open.spotify.com/album/7h9a3rwRZrAMqQ5jDT0iIU"
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/6H5RoOEjdjk5K5xOdDMd6l"
       },
       "artists": [
         {
-          "name": "Gee Lane",
-          "url": "https://open.spotify.com/artist/4r7DlvmonxB4JiqgJNm5eJ"
-        },
-        {
-          "name": "Mabreezee",
-          "url": "https://open.spotify.com/artist/4ixydE8BVYzM2P1mFrBWac"
+          "name": "Enzo is Burning",
+          "url": "https://open.spotify.com/artist/2KIWGryAlZJj1PwpdRTDCB"
         }
       ],
-      "duration_ms": 227000,
-      "name": "Monkeys",
-      "url": "https://open.spotify.com/track/18atwa0TRUm873rlrvgY4Y"
+      "duration_ms": 207026,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/4eTOiOcfn4CRhkuJuqXD86"
+    },
+    {
+      "added_at": "2024-01-24 18:00:00",
+      "album": {
+        "name": "FIRST ENCOUNTER",
+        "url": "https://open.spotify.com/album/4rOqXdpoXvE1PH59Jf88be"
+      },
+      "artists": [
+        {
+          "name": "BOABOA",
+          "url": "https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o"
+        }
+      ],
+      "duration_ms": 169354,
+      "name": "Boy, Empty",
+      "url": "https://open.spotify.com/track/0SNuOUnmzWghN3oPcaduCA"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "FUKUMEAN - VIP",
+        "url": "https://open.spotify.com/album/7aAjTtiChV4b5ZNFFWi63m"
+      },
+      "artists": [
+        {
+          "name": "HMWME",
+          "url": "https://open.spotify.com/artist/6iUsKG741oVA0KXtElIpOo"
+        }
+      ],
+      "duration_ms": 155163,
+      "name": "FUKUMEAN - VIP",
+      "url": "https://open.spotify.com/track/2KWiozG67VXI7AF71mp4yV"
     },
     {
       "added_at": "2024-04-10 18:23:48",
@@ -113,36 +157,232 @@
       "url": "https://open.spotify.com/track/1p3WGFpyLQaz3bpcneiTRD"
     },
     {
-      "added_at": "2024-03-29 04:00:00",
+      "added_at": "2024-03-27 17:04:34",
       "album": {
-        "name": "FUKUMEAN - VIP",
-        "url": "https://open.spotify.com/album/7aAjTtiChV4b5ZNFFWi63m"
+        "name": "Warm The Room EP",
+        "url": "https://open.spotify.com/album/6XHIfFyCpIKW4eaKSfm9MY"
       },
       "artists": [
         {
-          "name": "HMWME",
-          "url": "https://open.spotify.com/artist/6iUsKG741oVA0KXtElIpOo"
+          "name": "Vales",
+          "url": "https://open.spotify.com/artist/4ivi3u9exYoKCz1c01QfqE"
         }
       ],
-      "duration_ms": 155163,
-      "name": "FUKUMEAN - VIP",
-      "url": "https://open.spotify.com/track/2KWiozG67VXI7AF71mp4yV"
+      "duration_ms": 198095,
+      "name": "Warm The Room",
+      "url": "https://open.spotify.com/track/3o3RBrOBpe1OkJpoSRwDqo"
     },
     {
-      "added_at": "2024-01-24 18:00:00",
+      "added_at": "2024-04-26 21:08:15",
       "album": {
-        "name": "FIRST ENCOUNTER",
-        "url": "https://open.spotify.com/album/4rOqXdpoXvE1PH59Jf88be"
+        "name": "One (Edit)",
+        "url": "https://open.spotify.com/album/3tixmIEv4JBngTWmWZFvor"
       },
       "artists": [
         {
-          "name": "BOABOA",
-          "url": "https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o"
+          "name": "briqs",
+          "url": "https://open.spotify.com/artist/2fimBXXBJgpNOdq7Jk1osw"
         }
       ],
-      "duration_ms": 169354,
-      "name": "Boy, Empty",
-      "url": "https://open.spotify.com/track/0SNuOUnmzWghN3oPcaduCA"
+      "duration_ms": 240245,
+      "name": "One - Edit",
+      "url": "https://open.spotify.com/track/6EW5n7EQKoBd306OB8penN"
+    },
+    {
+      "added_at": "2024-04-03 23:31:06",
+      "album": {
+        "name": "JUMP",
+        "url": "https://open.spotify.com/album/1Kl9pOglEGhjWgCHIoqO58"
+      },
+      "artists": [
+        {
+          "name": "me n \u00fc",
+          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
+        }
+      ],
+      "duration_ms": 181904,
+      "name": "JUMP",
+      "url": "https://open.spotify.com/track/1EsZpe7WpvsZ1GxkMDt6I3"
+    },
+    {
+      "added_at": "2024-05-01 17:01:39",
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/0VjkSfmdNXZuDZvgFYVxsz"
+      },
+      "artists": [
+        {
+          "name": "Nicche",
+          "url": "https://open.spotify.com/artist/7FCu24EoM4fwOTxQ2I13h8"
+        }
+      ],
+      "duration_ms": 247582,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/2PSHoaWofpoYYoNrXUSbeL"
+    },
+    {
+      "added_at": "2024-05-01 17:01:39",
+      "album": {
+        "name": "Deep Eyes",
+        "url": "https://open.spotify.com/album/1Y6CiZf5ZPvfuIfqKV2t5A"
+      },
+      "artists": [
+        {
+          "name": "canary yellow",
+          "url": "https://open.spotify.com/artist/6dGWL8hxc3I833xMD6ycBv"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "Deep Eyes",
+      "url": "https://open.spotify.com/track/4XTz4wAITZlLjOYtxYXv4Q"
+    },
+    {
+      "added_at": "2024-04-26 21:08:15",
+      "album": {
+        "name": "holy ghost",
+        "url": "https://open.spotify.com/album/0H9k8NduBG5dcan4V1FJ6m"
+      },
+      "artists": [
+        {
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+        }
+      ],
+      "duration_ms": 152678,
+      "name": "holy ghost",
+      "url": "https://open.spotify.com/track/5IcmUnL95u4YFo6hhIbPZV"
+    },
+    {
+      "added_at": "2024-04-26 21:08:15",
+      "album": {
+        "name": "At Night I Think Of You",
+        "url": "https://open.spotify.com/album/4q9t94AWB5uKwDprvQr9XM"
+      },
+      "artists": [
+        {
+          "name": "Tr\u00e8s Mortimer",
+          "url": "https://open.spotify.com/artist/3zGzbXr9Q8zS9xictKAnt7"
+        }
+      ],
+      "duration_ms": 181911,
+      "name": "At Night I Think Of You",
+      "url": "https://open.spotify.com/track/1pQKGS37CbpXavYhOC2WGm"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Make You Look",
+        "url": "https://open.spotify.com/album/6U0fhe2i6Ra6xhXKqsd6kM"
+      },
+      "artists": [
+        {
+          "name": "Dee Mad",
+          "url": "https://open.spotify.com/artist/6ofHQpykLy6SINDBBKqoOI"
+        }
+      ],
+      "duration_ms": 136551,
+      "name": "Make You Look",
+      "url": "https://open.spotify.com/track/1JV2huNb9YzUfRzJVA0ato"
+    },
+    {
+      "added_at": "2024-05-01 17:01:39",
+      "album": {
+        "name": "Everything's Gonna Be Fine",
+        "url": "https://open.spotify.com/album/7C6emRYpSMajc4kds3tLxJ"
+      },
+      "artists": [
+        {
+          "name": "Tsu Nami",
+          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "Everything's Gonna Be Fine",
+      "url": "https://open.spotify.com/track/0w2InymNC1tOdBOOYfGd63"
+    },
+    {
+      "added_at": "2024-04-24 16:38:08",
+      "album": {
+        "name": "Sur",
+        "url": "https://open.spotify.com/album/3BrhfDb3hrcIid09vbtDjw"
+      },
+      "artists": [
+        {
+          "name": "Kloyd",
+          "url": "https://open.spotify.com/artist/2KF47WT2Ju9B5tFlNU7Uz7"
+        }
+      ],
+      "duration_ms": 334000,
+      "name": "Sur",
+      "url": "https://open.spotify.com/track/3YQZGmQ0ZetJLe0R3oHY04"
+    },
+    {
+      "added_at": "2024-04-26 21:08:15",
+      "album": {
+        "name": "Tusen Takk",
+        "url": "https://open.spotify.com/album/4yEGt45nj21TdlnUtdVm3N"
+      },
+      "artists": [
+        {
+          "name": "V. Christie",
+          "url": "https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm"
+        }
+      ],
+      "duration_ms": 220444,
+      "name": "Tusen Takk",
+      "url": "https://open.spotify.com/track/7rFTbmyonDoQaiPI0bmAbF"
+    },
+    {
+      "added_at": "2024-04-24 16:38:08",
+      "album": {
+        "name": "Monkeys",
+        "url": "https://open.spotify.com/album/7h9a3rwRZrAMqQ5jDT0iIU"
+      },
+      "artists": [
+        {
+          "name": "Gee Lane",
+          "url": "https://open.spotify.com/artist/4r7DlvmonxB4JiqgJNm5eJ"
+        },
+        {
+          "name": "Mabreezee",
+          "url": "https://open.spotify.com/artist/4ixydE8BVYzM2P1mFrBWac"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Monkeys",
+      "url": "https://open.spotify.com/track/18atwa0TRUm873rlrvgY4Y"
+    },
+    {
+      "added_at": "2024-04-24 16:38:08",
+      "album": {
+        "name": "Your",
+        "url": "https://open.spotify.com/album/1MXLc70HeKb8l4xGgOnAw3"
+      },
+      "artists": [
+        {
+          "name": "DJ Football",
+          "url": "https://open.spotify.com/artist/4XPalh4iMml1meSDMvyoKf"
+        }
+      ],
+      "duration_ms": 176517,
+      "name": "Your",
+      "url": "https://open.spotify.com/track/3npxOIjktGR2efNexj8vES"
+    },
+    {
+      "added_at": "2024-05-01 17:01:39",
+      "album": {
+        "name": "MY LOVER'S MIND",
+        "url": "https://open.spotify.com/album/04bqoDJgId1vDqzPbgk5Is"
+      },
+      "artists": [
+        {
+          "name": "DRIIA",
+          "url": "https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys"
+        }
+      ],
+      "duration_ms": 203200,
+      "name": "MY LOVER'S MIND",
+      "url": "https://open.spotify.com/track/4RkLa4Nq85JWnDLtYHG9hq"
     },
     {
       "added_at": "2024-04-26 21:08:15",
@@ -163,22 +403,6 @@
       "duration_ms": 155200,
       "name": "Heaven (feat. Marlene)",
       "url": "https://open.spotify.com/track/0JpPjzoVsd8Zi4yiowKQK6"
-    },
-    {
-      "added_at": "2024-04-24 16:38:08",
-      "album": {
-        "name": "Your",
-        "url": "https://open.spotify.com/album/1MXLc70HeKb8l4xGgOnAw3"
-      },
-      "artists": [
-        {
-          "name": "DJ Football",
-          "url": "https://open.spotify.com/artist/4XPalh4iMml1meSDMvyoKf"
-        }
-      ],
-      "duration_ms": 176517,
-      "name": "Your",
-      "url": "https://open.spotify.com/track/3npxOIjktGR2efNexj8vES"
     },
     {
       "added_at": "2024-04-24 16:38:08",
@@ -217,22 +441,6 @@
       "url": "https://open.spotify.com/track/3AfHjDjQcA8yyMyCMCZ77V"
     },
     {
-      "added_at": "2024-03-27 17:04:34",
-      "album": {
-        "name": "Warm The Room EP",
-        "url": "https://open.spotify.com/album/6XHIfFyCpIKW4eaKSfm9MY"
-      },
-      "artists": [
-        {
-          "name": "Vales",
-          "url": "https://open.spotify.com/artist/4ivi3u9exYoKCz1c01QfqE"
-        }
-      ],
-      "duration_ms": 198095,
-      "name": "Warm The Room",
-      "url": "https://open.spotify.com/track/3o3RBrOBpe1OkJpoSRwDqo"
-    },
-    {
       "added_at": "2024-04-26 21:08:15",
       "album": {
         "name": "In The End",
@@ -249,68 +457,20 @@
       "url": "https://open.spotify.com/track/2uTqPpiBfdI4LatYsbKfY8"
     },
     {
-      "added_at": "2024-04-03 23:31:06",
+      "added_at": "2024-04-10 18:23:48",
       "album": {
-        "name": "JUMP",
-        "url": "https://open.spotify.com/album/1Kl9pOglEGhjWgCHIoqO58"
+        "name": "Cigarette",
+        "url": "https://open.spotify.com/album/6JJUx5ImjU5D10N4mpLs7f"
       },
       "artists": [
         {
-          "name": "me n \u00fc",
-          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
+          "name": "Lucky Yu",
+          "url": "https://open.spotify.com/artist/7EVJloAqLSz0LiDi3308dL"
         }
       ],
-      "duration_ms": 181904,
-      "name": "JUMP",
-      "url": "https://open.spotify.com/track/1EsZpe7WpvsZ1GxkMDt6I3"
-    },
-    {
-      "added_at": "2024-04-24 16:38:08",
-      "album": {
-        "name": "Sur",
-        "url": "https://open.spotify.com/album/3BrhfDb3hrcIid09vbtDjw"
-      },
-      "artists": [
-        {
-          "name": "Kloyd",
-          "url": "https://open.spotify.com/artist/2KF47WT2Ju9B5tFlNU7Uz7"
-        }
-      ],
-      "duration_ms": 334000,
-      "name": "Sur",
-      "url": "https://open.spotify.com/track/3YQZGmQ0ZetJLe0R3oHY04"
-    },
-    {
-      "added_at": "2024-04-26 21:08:15",
-      "album": {
-        "name": "Tusen Takk",
-        "url": "https://open.spotify.com/album/4yEGt45nj21TdlnUtdVm3N"
-      },
-      "artists": [
-        {
-          "name": "V. Christie",
-          "url": "https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm"
-        }
-      ],
-      "duration_ms": 220444,
-      "name": "Tusen Takk",
-      "url": "https://open.spotify.com/track/7rFTbmyonDoQaiPI0bmAbF"
-    },
-    {
-      "added_at": "2024-04-26 21:08:15",
-      "album": {
-        "name": "holy ghost",
-        "url": "https://open.spotify.com/album/0H9k8NduBG5dcan4V1FJ6m"
-      },
-      "artists": [
-        {
-          "name": "Nikita, the Wicked",
-          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
-        }
-      ],
-      "duration_ms": 152678,
-      "name": "holy ghost",
-      "url": "https://open.spotify.com/track/5IcmUnL95u4YFo6hhIbPZV"
+      "duration_ms": 210461,
+      "name": "Cigarette",
+      "url": "https://open.spotify.com/track/5xiiqiCNaFVAged8VtyEnM"
     },
     {
       "added_at": "2024-04-24 16:38:08",
@@ -353,22 +513,6 @@
       "url": "https://open.spotify.com/track/5X21uANL3TPmskQEphYNgR"
     },
     {
-      "added_at": "2024-04-26 21:08:15",
-      "album": {
-        "name": "One (Edit)",
-        "url": "https://open.spotify.com/album/3tixmIEv4JBngTWmWZFvor"
-      },
-      "artists": [
-        {
-          "name": "briqs",
-          "url": "https://open.spotify.com/artist/2fimBXXBJgpNOdq7Jk1osw"
-        }
-      ],
-      "duration_ms": 240245,
-      "name": "One - Edit",
-      "url": "https://open.spotify.com/track/6EW5n7EQKoBd306OB8penN"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Spine",
@@ -383,70 +527,6 @@
       "duration_ms": 251111,
       "name": "Spine",
       "url": "https://open.spotify.com/track/6IZBSemFcZQfKiNsFY12Ac"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Make You Look",
-        "url": "https://open.spotify.com/album/6U0fhe2i6Ra6xhXKqsd6kM"
-      },
-      "artists": [
-        {
-          "name": "Dee Mad",
-          "url": "https://open.spotify.com/artist/6ofHQpykLy6SINDBBKqoOI"
-        }
-      ],
-      "duration_ms": 136551,
-      "name": "Make You Look",
-      "url": "https://open.spotify.com/track/1JV2huNb9YzUfRzJVA0ato"
-    },
-    {
-      "added_at": "2024-04-26 21:08:15",
-      "album": {
-        "name": "At Night I Think Of You",
-        "url": "https://open.spotify.com/album/4q9t94AWB5uKwDprvQr9XM"
-      },
-      "artists": [
-        {
-          "name": "Tr\u00e8s Mortimer",
-          "url": "https://open.spotify.com/artist/3zGzbXr9Q8zS9xictKAnt7"
-        }
-      ],
-      "duration_ms": 181911,
-      "name": "At Night I Think Of You",
-      "url": "https://open.spotify.com/track/1pQKGS37CbpXavYhOC2WGm"
-    },
-    {
-      "added_at": "2024-04-24 16:38:08",
-      "album": {
-        "name": "there she goes!",
-        "url": "https://open.spotify.com/album/1Tecp6YGtuur5HZ0317Er2"
-      },
-      "artists": [
-        {
-          "name": "niina",
-          "url": "https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh"
-        }
-      ],
-      "duration_ms": 117120,
-      "name": "there she goes!",
-      "url": "https://open.spotify.com/track/0rAcqehC5wtS5PfgoP6NOJ"
-    },
-    {
-      "added_at": "2024-04-10 18:23:48",
-      "album": {
-        "name": "Cigarette",
-        "url": "https://open.spotify.com/album/6JJUx5ImjU5D10N4mpLs7f"
-      },
-      "artists": [
-        {
-          "name": "Lucky Yu",
-          "url": "https://open.spotify.com/artist/7EVJloAqLSz0LiDi3308dL"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "Cigarette",
-      "url": "https://open.spotify.com/track/5xiiqiCNaFVAged8VtyEnM"
     },
     {
       "added_at": "2024-03-15 16:23:10",
@@ -465,6 +545,38 @@
       "url": "https://open.spotify.com/track/1YaD5RptFvZSFkSgcYONHJ"
     },
     {
+      "added_at": "2024-04-26 21:08:15",
+      "album": {
+        "name": "Nothing Feels The Same",
+        "url": "https://open.spotify.com/album/2PBO8ZKmkZ6PU6Jlhf6o8o"
+      },
+      "artists": [
+        {
+          "name": "Love,Shaun",
+          "url": "https://open.spotify.com/artist/4qvKSBd9PKGZQ7cmWdOllu"
+        }
+      ],
+      "duration_ms": 181951,
+      "name": "Nothing Feels The Same",
+      "url": "https://open.spotify.com/track/66P0qP5U9ymSHio61L0Buy"
+    },
+    {
+      "added_at": "2024-04-24 16:38:08",
+      "album": {
+        "name": "there she goes!",
+        "url": "https://open.spotify.com/album/1Tecp6YGtuur5HZ0317Er2"
+      },
+      "artists": [
+        {
+          "name": "niina",
+          "url": "https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh"
+        }
+      ],
+      "duration_ms": 117120,
+      "name": "there she goes!",
+      "url": "https://open.spotify.com/track/0rAcqehC5wtS5PfgoP6NOJ"
+    },
+    {
       "added_at": "2024-03-27 17:04:34",
       "album": {
         "name": "Oxygn",
@@ -481,20 +593,20 @@
       "url": "https://open.spotify.com/track/0WuABxcSEkrj5cjkxaeiXG"
     },
     {
-      "added_at": "2024-04-24 16:38:08",
+      "added_at": "2024-05-01 17:01:39",
       "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/6H5RoOEjdjk5K5xOdDMd6l"
+        "name": "Pompy EP",
+        "url": "https://open.spotify.com/album/0rcbFoSRNctFmjELqqMTcP"
       },
       "artists": [
         {
-          "name": "Enzo is Burning",
-          "url": "https://open.spotify.com/artist/2KIWGryAlZJj1PwpdRTDCB"
+          "name": "Jamie Coins",
+          "url": "https://open.spotify.com/artist/3M8bulps82wsKgS3DBpx1m"
         }
       ],
-      "duration_ms": 207026,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/4eTOiOcfn4CRhkuJuqXD86"
+      "duration_ms": 199038,
+      "name": "Pompy - Radio Mix",
+      "url": "https://open.spotify.com/track/3twnkPU1T4k0n3caKFBGTG"
     },
     {
       "added_at": "2024-04-17 18:58:43",
@@ -645,6 +757,22 @@
       "url": "https://open.spotify.com/track/0ZQiRX0H2xcxMXovA2Lj8z"
     },
     {
+      "added_at": "2024-03-20 17:46:37",
+      "album": {
+        "name": "Die For You",
+        "url": "https://open.spotify.com/album/1DdU3xbZUfE7KaGjpfWAgx"
+      },
+      "artists": [
+        {
+          "name": "Killen.",
+          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
+        }
+      ],
+      "duration_ms": 245035,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/3H2PFJYTxPH03IwYygXnlW"
+    },
+    {
       "added_at": "2024-04-17 18:58:43",
       "album": {
         "name": "Higher",
@@ -691,6 +819,22 @@
       "duration_ms": 233409,
       "name": "Together",
       "url": "https://open.spotify.com/track/5BehfMdJifpFKpqJ48bGcr"
+    },
+    {
+      "added_at": "2024-04-17 18:58:43",
+      "album": {
+        "name": "Deep in my Feelings",
+        "url": "https://open.spotify.com/album/7e8nAJzJVhWqXK9YPc5aYP"
+      },
+      "artists": [
+        {
+          "name": "SOBSTORY",
+          "url": "https://open.spotify.com/artist/62PBdD7isGPH0H71lLUqa9"
+        }
+      ],
+      "duration_ms": 238599,
+      "name": "Deep in my Feelings",
+      "url": "https://open.spotify.com/track/2W8Jz6Qr8bXJSJLimbEByo"
     },
     {
       "added_at": "2024-04-17 18:58:43",
@@ -801,70 +945,6 @@
       "url": "https://open.spotify.com/track/4nqlGW7mq3SAOLkz2LSJIh"
     },
     {
-      "added_at": "2024-04-03 23:31:06",
-      "album": {
-        "name": "The Fourth",
-        "url": "https://open.spotify.com/album/13MW9o0s84udOZGTHEfk7z"
-      },
-      "artists": [
-        {
-          "name": "Gee Lane",
-          "url": "https://open.spotify.com/artist/4r7DlvmonxB4JiqgJNm5eJ"
-        }
-      ],
-      "duration_ms": 281860,
-      "name": "The Fourth",
-      "url": "https://open.spotify.com/track/0c8M0FzN0V25GUSxtHR3Nh"
-    },
-    {
-      "added_at": "2024-04-03 23:31:06",
-      "album": {
-        "name": "Electric Lady",
-        "url": "https://open.spotify.com/album/10S0a7X3we80b485CAYkTm"
-      },
-      "artists": [
-        {
-          "name": "Soul Legend",
-          "url": "https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Electric Lady",
-      "url": "https://open.spotify.com/track/1DNcDsegUfObITkgEKe42C"
-    },
-    {
-      "added_at": "2024-01-17 17:00:00",
-      "album": {
-        "name": "WORK",
-        "url": "https://open.spotify.com/album/7LPdj3geNctVBgnFWBgyjr"
-      },
-      "artists": [
-        {
-          "name": "Tr\u00e8s Mortimer",
-          "url": "https://open.spotify.com/artist/3zGzbXr9Q8zS9xictKAnt7"
-        }
-      ],
-      "duration_ms": 244761,
-      "name": "WORK",
-      "url": "https://open.spotify.com/track/6CbZAYh6bOfahHkptyvc59"
-    },
-    {
-      "added_at": "2024-03-20 17:46:37",
-      "album": {
-        "name": "Die For You",
-        "url": "https://open.spotify.com/album/1DdU3xbZUfE7KaGjpfWAgx"
-      },
-      "artists": [
-        {
-          "name": "Killen.",
-          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
-        }
-      ],
-      "duration_ms": 245035,
-      "name": "Die For You",
-      "url": "https://open.spotify.com/track/3H2PFJYTxPH03IwYygXnlW"
-    },
-    {
       "added_at": "2024-04-17 18:58:43",
       "album": {
         "name": "Someone Tonight",
@@ -879,22 +959,6 @@
       "duration_ms": 172174,
       "name": "Someone Tonight",
       "url": "https://open.spotify.com/track/55WUwu0CXcffSI8yY057ui"
-    },
-    {
-      "added_at": "2024-04-17 18:58:43",
-      "album": {
-        "name": "Deep in my Feelings",
-        "url": "https://open.spotify.com/album/7e8nAJzJVhWqXK9YPc5aYP"
-      },
-      "artists": [
-        {
-          "name": "SOBSTORY",
-          "url": "https://open.spotify.com/artist/62PBdD7isGPH0H71lLUqa9"
-        }
-      ],
-      "duration_ms": 238599,
-      "name": "Deep in my Feelings",
-      "url": "https://open.spotify.com/track/2W8Jz6Qr8bXJSJLimbEByo"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1217,22 +1281,6 @@
       "url": "https://open.spotify.com/track/1FMx9xm0tf53HCh1T6TXK0"
     },
     {
-      "added_at": "2024-03-20 17:46:37",
-      "album": {
-        "name": "The Game",
-        "url": "https://open.spotify.com/album/4iVnaLmLr65RfBmzommKb1"
-      },
-      "artists": [
-        {
-          "name": "Nicky Elisabeth",
-          "url": "https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE"
-        }
-      ],
-      "duration_ms": 189773,
-      "name": "The Game",
-      "url": "https://open.spotify.com/track/0Rm3QhTh5GZoXdg5wI6MB4"
-    },
-    {
       "added_at": "2024-03-27 17:04:34",
       "album": {
         "name": "your time.",
@@ -1449,22 +1497,6 @@
       "url": "https://open.spotify.com/track/4JoCdrZ7cMCTPKAxL1hvNJ"
     },
     {
-      "added_at": "2024-03-20 17:46:37",
-      "album": {
-        "name": "Break / Saw U",
-        "url": "https://open.spotify.com/album/3B9VRmFZ4TK6jgRsgextA5"
-      },
-      "artists": [
-        {
-          "name": "SWIM",
-          "url": "https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V"
-        }
-      ],
-      "duration_ms": 246856,
-      "name": "Break",
-      "url": "https://open.spotify.com/track/21qh7wOW9qljk3A7tMAyLM"
-    },
-    {
       "added_at": "2024-03-27 17:04:34",
       "album": {
         "name": "House Nation",
@@ -1517,22 +1549,6 @@
       "url": "https://open.spotify.com/track/3PV5cTNXSfUpdLpEoYtSTS"
     },
     {
-      "added_at": "2024-03-20 17:46:37",
-      "album": {
-        "name": "want_from_me_",
-        "url": "https://open.spotify.com/album/7EXmQAqleD3zy1EAryBFlr"
-      },
-      "artists": [
-        {
-          "name": "digital fireplace",
-          "url": "https://open.spotify.com/artist/696WUVvyb2Ny27wYQ9Ocye"
-        }
-      ],
-      "duration_ms": 255926,
-      "name": "want_from_me_",
-      "url": "https://open.spotify.com/track/6MUxAavp7dckUYZq9njGcr"
-    },
-    {
       "added_at": "2024-03-15 16:23:10",
       "album": {
         "name": "Dance With U",
@@ -1563,22 +1579,6 @@
       "duration_ms": 156279,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/2IETnaGnIPYIEIZadmdFD2"
-    },
-    {
-      "added_at": "2024-01-31 17:37:47",
-      "album": {
-        "name": "That's My Shit",
-        "url": "https://open.spotify.com/album/15C7YUmMrXy00kJB4Rlp5V"
-      },
-      "artists": [
-        {
-          "name": "Biicla",
-          "url": "https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ"
-        }
-      ],
-      "duration_ms": 115963,
-      "name": "That's My Shit",
-      "url": "https://open.spotify.com/track/0V3mQisaCvNV2EOxn1N29C"
     },
     {
       "added_at": "2024-01-10 18:34:55",

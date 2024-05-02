@@ -4,7 +4,7 @@
 
 > Bright, sunny, catchy tunes put a smile on your face\. Cover \- Baar Baar Dekho
 
-209 songs - 12 hr 40 min
+210 songs - 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Mann Dhaaga](https://open.spotify.com/track/5JPWH4s8MuHymY00XBBVLH) | [Yashraj Mukhate](https://open.spotify.com/artist/1Ki1jGLoZSYLza3HnudAhI), [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Mann Dhaaga](https://open.spotify.com/album/4AfUNbpD7wEuCm1wQ0dOb1) | 3:15 | 2024-02-28 | 2024-03-20 |
 | [Mannat](https://open.spotify.com/track/26elzgFl8tvajnDfeoY1YF) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86) | [Dard](https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM) | 2:39 | 2023-11-22 |  |
 | [Manzoor Hai](https://open.spotify.com/track/77Mo1my3vQVqu4wRmVIeCa) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Shraddha Pandit](https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa) | [Manzoor Hai](https://open.spotify.com/album/16HWh1K1lhTTpMDHUoLxIT) | 3:59 | 2023-11-16 | 2023-12-07 |
+| [Mashwara](https://open.spotify.com/track/1Yiwkdc1Jv5NjXThjL541E) | [Surya Singh](https://open.spotify.com/artist/39l29T5muGAMa7ARnBGyNQ), [Shreyas Puranik](https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d), [Siddharth \- Garima](https://open.spotify.com/artist/6k6TIai4KyKG1DeIMftSmJ) | [Mashwara](https://open.spotify.com/album/5WcGuU8M3bqnMUrKwM7pzH) | 2:52 | 2024-05-01 |  |
 | [Maskhari](https://open.spotify.com/track/3AeOPuf7VfwUsxeQNN9Vsv) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Hriday Gattani](https://open.spotify.com/artist/0xWGBvlwCBHAgXyR7TmPwp) | [Dil Bechara \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zrZPXoYsu772sB3CwVuxr) | 3:15 | 2022-03-09 | 2023-02-21 |
 | [Matargashti](https://open.spotify.com/track/5GeBgck1MU2tlIkMpsn8uT) | [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS) | [Tamasha](https://open.spotify.com/album/2CUXo26JAWIbQx0EVMnjpA) | 5:28 | 2022-03-09 |  |
 | [Mere Liye Tum Kaafi Ho](https://open.spotify.com/track/73whmTgxzRFLhPbRMkDnjj) | [Ayushmann Khurrana](https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy) | [Shubh Mangal Zyada Saavdhan](https://open.spotify.com/album/1qvic7ic93zptwsWs2nvhU) | 2:12 | 2023-04-19 |  |

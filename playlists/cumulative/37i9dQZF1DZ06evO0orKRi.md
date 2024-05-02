@@ -2,7 +2,7 @@
 
 ### [This Is Slim Dusty](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0orKRi)
 
-> This is Slim Dusty\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is Slim Dusty\. The essential tracks, all in one playlist.
 
 54 songs - 2 hr 54 min
 

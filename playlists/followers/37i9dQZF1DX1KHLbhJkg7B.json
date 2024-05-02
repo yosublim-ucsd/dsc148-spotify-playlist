@@ -1,5 +1,5 @@
 {
-  "2024-05-01": 110585,
+  "2024-05-02": 110651,
   "date_first_scraped": "2022-01-02",
   "description": "Unique versions of hit songs by other artists. Cover: HARDY's HIXTAPE",
   "name": "Country Covers",
@@ -3735,7 +3735,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-24",
+      "date_removed": null,
       "duration_ms": 240386,
       "name": "Listen To The Radio",
       "url": "https://open.spotify.com/track/6n9PvbAoQtDe3AEMbS8v70"
@@ -4689,7 +4689,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 229496,
       "name": "Palace - Cover",
       "url": "https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3"

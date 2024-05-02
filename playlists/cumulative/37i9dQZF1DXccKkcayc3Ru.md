@@ -4,7 +4,7 @@
 
 > 実写映画「<a href="https://gaga.ne.jp/buzzynoise\_movie/">バジーノイズ</a>」5月3日公開！作者 むつき潤による選曲のオフィシャル・プレイリストが到着。/ The official playlist selected by Mutsuki Jun.
 
-67 songs - 4 hr 27 min
+68 songs - 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Thirteen](https://open.spotify.com/track/4pxLVJTgFKw8TcDMvvFPWt) | [Khaki](https://open.spotify.com/artist/0z60oOEtiYBZkMkZ93pxZd) | [Janome](https://open.spotify.com/album/0viwS3LdMWPYmwxM2KaSWo) | 3:33 | 2024-04-19 |  |
 | [Tokyo](https://open.spotify.com/track/60To99qb1JAoQ0F6iclxQn) | [ame\_no\_parade](https://open.spotify.com/artist/5KSkFct0RkJYwStW7FGt28) | [New generation](https://open.spotify.com/album/1V62xDo8GwQEK6WX7Z2Rcz) | 4:45 | 2024-04-20 |  |
 | [Twilight](https://open.spotify.com/track/4bDDipRrNxUKcsyG39lQGw) | [踊ってばかりの国](https://open.spotify.com/artist/0FA31wmImS3Px3LyRxtiS2) | [moana](https://open.spotify.com/album/6Ju7NMuS9QupJ6etSGLLA2) | 3:38 | 2024-04-30 |  |
+| [これだけで十分なのに](https://open.spotify.com/track/68FK1XsKnXg4BYG5m1f3qy) | [TOCCHI](https://open.spotify.com/artist/482miinoHCI8iYjETbUr79) | [Life Record](https://open.spotify.com/album/6B53SALx6Dw3XlLu3xHXOw) | 3:44 | 2024-05-01 |  |
 | [ひとりの夜を抜け](https://open.spotify.com/track/0jKFkKHQWNCvjoBUG751Oq) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [HUG](https://open.spotify.com/album/76DxOsTwHzuGyD27vEYWKJ) | 3:01 | 2024-04-01 | 2024-04-19 |
 | [ひとりの夜を抜け](https://open.spotify.com/track/2UeUOkNWgb1DkVUZcACduO) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [ひとりの夜を抜け](https://open.spotify.com/album/3BFVT73jpTPm86G3tPtzVj) | 3:01 | 2024-04-18 |  |
 | [アンビバレント](https://open.spotify.com/track/5WDKR3hzbHiXWgbMPyOcLk) | [Keyakizaka46](https://open.spotify.com/artist/03E7w8NrBr4lNCK33TQyil) | [アンビバレント \(Special Edition\)](https://open.spotify.com/album/1zY5V7Y2Y0n0tbN3qSBPet) | 4:33 | 2024-04-08 |  |

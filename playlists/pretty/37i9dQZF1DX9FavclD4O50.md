@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FavclD4O50.md) - [plain]
 
 > Eerie pieces created by waving hands around Leon Theremin's otherworldly instrument\. Clara Rockmore on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,467 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,474 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FavclD4O50.md) - [plain]
 | 32 | [Mysterons Theme](https://open.spotify.com/track/0sliCazBkrrX6OqVkqaW9F) | [Radio Science Orchestra](https://open.spotify.com/artist/68zs0SPQL8kAKrWmiYOaci) | [Mysterons Theme](https://open.spotify.com/album/6Rc5C6X5t1U7zojgkkyVDq) | 2:28 |
 | 33 | [Moritz Eggert: The Son Of the Daughter Of Dracula Versus The Incredible Frankenstein Monster \(From Outer Space\)](https://open.spotify.com/track/1CL8DcTGkqmXwO8au6LNZQ) | [Moritz Eggert](https://open.spotify.com/artist/5kEOPoyE7tFJVX5mEkJ791), [Barbara Buchholz](https://open.spotify.com/artist/5PKeaAkMpVKmfw9ArG4US3), [Lydia Kavina](https://open.spotify.com/artist/08GqAbGBPbwT33PIeW0QZv), [Kammerensemble Neue Musik Berlin](https://open.spotify.com/artist/1N6kZMavwtrER7WWYwleuI) | [touch! don touch! music for theremin](https://open.spotify.com/album/5PK2qYVj42440Mlb2aYNZH) | 8:45 |
 | 34 | [Keler Tsoler](https://open.spotify.com/track/4UqGOyOoFBHe5JuIhEc7K5) | [Armen Ra](https://open.spotify.com/artist/0YHZ5h5Xm50R5bW5ISx08A) | [Plays the Theremin](https://open.spotify.com/album/2m3gsqca2ZhFNLppQ7Ciwq) | 5:10 |
-| 35 | [It is ok to be sad and dark](https://open.spotify.com/track/47ETRprpN3ztAywwUAc6Zj) | [Kepa Lehtinen](https://open.spotify.com/artist/22No3IMhBvteEfpCo3y9gz) | [It is ok to be sad and dark](https://open.spotify.com/album/1WwjYpIOkMNQdnjZEtZ7TW) | 2:36 |
-| 36 | [Berlin Ghost Opera](https://open.spotify.com/track/707014S3juTp8VeyuI5t2C) | [Javier Díez Ena & His Theremins](https://open.spotify.com/artist/5TA6P5gISjtzFu3BXogfrM) | [Theremonial \(Dark & Exotic Theremin Music\)](https://open.spotify.com/album/6SCpra08I6g6Ahqof19Ck7) | 3:07 |
+| 35 | [Berlin Ghost Opera](https://open.spotify.com/track/707014S3juTp8VeyuI5t2C) | [Javier Díez Ena & His Theremins](https://open.spotify.com/artist/5TA6P5gISjtzFu3BXogfrM) | [Theremonial \(Dark & Exotic Theremin Music\)](https://open.spotify.com/album/6SCpra08I6g6Ahqof19Ck7) | 3:07 |
+| 36 | [It is ok to be sad and dark](https://open.spotify.com/track/47ETRprpN3ztAywwUAc6Zj) | [Kepa Lehtinen](https://open.spotify.com/artist/22No3IMhBvteEfpCo3y9gz) | [It is ok to be sad and dark](https://open.spotify.com/album/1WwjYpIOkMNQdnjZEtZ7TW) | 2:36 |
 | 37 | [Concerto for 2 Violins in D minor, BWV 1043: 2nd movement](https://open.spotify.com/track/0vxhF01eweNLunXafcXtP2) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Erick Friedman](https://open.spotify.com/artist/4xaVVQxKoP1ZhamR8rUFOT), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR) | [Music In and On The Air](https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1) | 8:34 |
 | 38 | [Nousta\-Needad \(Ascent\-Descent\)](https://open.spotify.com/track/38MgLHj3Z6gEu7XNObMvZx) | [Carolina Eyck](https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI), [American Contemporary Music Ensemble](https://open.spotify.com/artist/6nTDqfwF5uJYfoxQeJaTeO) | [Fantasias for Theremin and String Quartet](https://open.spotify.com/album/2GCBMMIQ718Uw1dgTtrFbF) | 7:39 |
 | 39 | [Theremin in the Rain](https://open.spotify.com/track/1LWMnApLb8gugGjEuufAQ1) | [Gordon Monahan](https://open.spotify.com/artist/4hM8esOTyFH8grxXR27Afm) | [Theremin in the Rain](https://open.spotify.com/album/6n5vZ6yqWTMD5bv1Ybu3K1) | 3:57 |

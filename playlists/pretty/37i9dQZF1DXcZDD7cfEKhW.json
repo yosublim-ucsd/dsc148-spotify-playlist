@@ -1,6 +1,6 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Ariana Grande",
-  "num_followers": 3380867,
+  "num_followers": 3380892,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
@@ -959,26 +959,6 @@
     {
       "added_at": "2024-04-16 16:27:07",
       "album": {
-        "name": "Got Me Started (Bag Raiders Remix)",
-        "url": "https://open.spotify.com/album/3LSSfe6q1TZDAr4fYZt3jX"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        },
-        {
-          "name": "Bag Raiders",
-          "url": "https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46"
-        }
-      ],
-      "duration_ms": 221762,
-      "name": "Got Me Started - Bag Raiders Remix",
-      "url": "https://open.spotify.com/track/3DDLRC6c693OtavNQlFHJg"
-    },
-    {
-      "added_at": "2024-04-16 16:27:07",
-      "album": {
         "name": "Moth To A Flame (Adriatique Remix)",
         "url": "https://open.spotify.com/album/0lyIECV269U9MTTCc3gOkC"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 389956,
       "name": "Moth To A Flame (feat. The Weeknd) - Adriatique Remix",
       "url": "https://open.spotify.com/track/1G3kwVs3JHqN5UPiFXcAID"
+    },
+    {
+      "added_at": "2024-04-16 16:27:07",
+      "album": {
+        "name": "Got Me Started (Bag Raiders Remix)",
+        "url": "https://open.spotify.com/album/3LSSfe6q1TZDAr4fYZt3jX"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        },
+        {
+          "name": "Bag Raiders",
+          "url": "https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46"
+        }
+      ],
+      "duration_ms": 221762,
+      "name": "Got Me Started - Bag Raiders Remix",
+      "url": "https://open.spotify.com/track/3DDLRC6c693OtavNQlFHJg"
     },
     {
       "added_at": "2024-04-16 16:27:07",

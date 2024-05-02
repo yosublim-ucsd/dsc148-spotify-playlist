@@ -2,7 +2,7 @@
 
 ### [This Is Kodak Black](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2oTcyc)
 
-> This is Kodak Black\. The essential tracks, all in one playlist.
+> This is Kodak Black\. Todos os maiores hits em uma só playlist.
 
 108 songs - 5 hr 41 min
 

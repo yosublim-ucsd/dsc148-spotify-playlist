@@ -2,7 +2,7 @@
 
 ### [Jasmine](https://open.spotify.com/playlist/37i9dQZF1DX5IOhx43PGIa)
 
-> Illuminating Asian artists everywhere\. Cover: Luke Chiang.
+> Happy Asian Pacific Islander Heritage Month!! Celebrate with us and check out our stories ⬆️ Cover: Luke Chiang.
 
 772 songs - 1 day 15 hr 50 min
 

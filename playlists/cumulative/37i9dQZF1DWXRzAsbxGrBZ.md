@@ -4,7 +4,7 @@
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-131 songs - 14 hr 42 min
+132 songs - 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Day And Night \(Mmawe\) \- Original Mix](https://open.spotify.com/track/1dxD8L9rjsFBTIoYHjkVqM) | [Chymamusique](https://open.spotify.com/artist/0nzV2U3TuoZhNqZFW564NI) | [3 By 3](https://open.spotify.com/album/4T4acJ3hbsdQG6lvuJIOqV) | 6:32 | 2022-09-14 | 2023-03-18 |
 | [Deep Asence \- Original Mix](https://open.spotify.com/track/1gIWkyb8qK4Ia7pSUAQGmC) | [Kek'star](https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4) | [Deep Asence \(Original Mix\)](https://open.spotify.com/album/4Q9M2BEfaTKHMfDIDduaNq) | 5:59 | 2024-04-25 | 2024-04-28 |
 | [Deep Within](https://open.spotify.com/track/0voE1Kh5SUOiTUiSq4XbYS) | [Tebza De SouL](https://open.spotify.com/artist/32vL21CG5wHt2GTj0flFyG) | [Deep Within](https://open.spotify.com/album/6OcILwpGGNkbvXlzB6KECP) | 7:16 | 2024-03-15 | 2024-04-19 |
-| [Deep Within](https://open.spotify.com/track/5I2QPKhv9d28heg8tzlvMt) | [Tebza De SouL](https://open.spotify.com/artist/32vL21CG5wHt2GTj0flFyG) | [Deep Within](https://open.spotify.com/album/3AwIbt10sltXXgVPBJKYCi) | 7:16 | 2023-03-17 |  |
+| [Deep Within](https://open.spotify.com/track/5I2QPKhv9d28heg8tzlvMt) | [Tebza De SouL](https://open.spotify.com/artist/32vL21CG5wHt2GTj0flFyG) | [Deep Within](https://open.spotify.com/album/3AwIbt10sltXXgVPBJKYCi) | 7:16 | 2023-03-17 | 2024-05-02 |
 | [Different You](https://open.spotify.com/track/7DKC7x1wGVEhex4r5b0FDC) | [DJ Hloni](https://open.spotify.com/artist/0zsgveyOjZ0R4EVtx4NjNu), [MacZito](https://open.spotify.com/artist/2thqWGNDvNBDTetSDqquhC), [YBE](https://open.spotify.com/artist/5M7Y8ONhBfgoR2nC5VuJvz) | [Different You](https://open.spotify.com/album/0EoAED2djxx2kPF6RgWk89) | 6:59 | 2022-09-14 | 2022-11-18 |
 | [Do 4 Love](https://open.spotify.com/track/59NwccvTdS0bjuQ0akCojn) | [Artwork Sounds](https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR), [CocoSA](https://open.spotify.com/artist/0bLlqsMSB60BBRtsqcap0j) | [Back 2 Basics](https://open.spotify.com/album/54A8PyTjNlFchRt3KBjEa9) | 7:19 | 2022-11-10 | 2023-03-18 |
 | [Don't 4get To Call Me](https://open.spotify.com/track/289Qw6pCjcz8FnaPNGLuvP) | [OUT OF ORDER](https://open.spotify.com/artist/0EahDneISdyQpDqNzU9XZC), [C\-Blak](https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5) | [OOO: AFRO](https://open.spotify.com/album/4YNw1RfxL1PBwTcx0D0JCx) | 7:46 | 2022-11-10 |  |
@@ -118,6 +118,7 @@
 | [The God Flex](https://open.spotify.com/track/3IlH84mTg9aqoeHtLfrvjM) | [Jazzuelle](https://open.spotify.com/artist/2jDw8yQFISqLWdK63ITATu) | [Abiogenesis EP](https://open.spotify.com/album/2qg3O0ZMHlbzaAAtv5q36v) | 7:18 | 2022-09-14 | 2023-03-18 |
 | [The Inglourious](https://open.spotify.com/track/0NysUzy6N98PijkZVNcgE8) | [Devine Maestro](https://open.spotify.com/artist/2IAkss2FMBjXDA0hdno7bg), [Synth\-O\-Ven](https://open.spotify.com/artist/2rKAtDYA8XKQYtZkkKD1Pn) | [The Inglourious](https://open.spotify.com/album/17LsNERMz4XHdUgpkvyV5X) | 6:39 | 2022-09-14 |  |
 | [The Savior \- Original Mix](https://open.spotify.com/track/7BiStjhoLseP9zJC6mjkI5) | [Zhane](https://open.spotify.com/artist/0fPkUCch0uK79Ny9XZoO4p) | [The Savior](https://open.spotify.com/album/5B6J3s8r9Qi3NyNGRfi3zc) | 6:51 | 2023-03-23 | 2024-04-26 |
+| [The Whole Thing](https://open.spotify.com/track/7mqUZHdBzKmUQfDkmnltu6) | [Black Villain](https://open.spotify.com/artist/3CUEUOOinhiFpSHYUNB43W), [!Sooks](https://open.spotify.com/artist/4JbbqXJHtza12SQPxlzuVI), [Lunga SA](https://open.spotify.com/artist/5wr1vRS4fvNtOEG1S4zEAQ) | [The Whole Thing](https://open.spotify.com/album/7qoxtXsuuOr65DwxQUmrx1) | 6:52 | 2024-04-25 |  |
 | [thinking 'bout you](https://open.spotify.com/track/3rpMcYjuP9GZ1Ijoau4iUS) | [Thabang Phaleng](https://open.spotify.com/artist/5AO6CbpKmGPMLYn5pS7Lp5), [Trust SA](https://open.spotify.com/artist/173xrrCL3L2xcLYY4hLG9I) | [Thinking 'bout you](https://open.spotify.com/album/0YPe7RdoxqfrtfExs73nRk) | 6:17 | 2022-09-29 | 2023-03-25 |
 | [This Is The Way \(We Dance\)](https://open.spotify.com/track/0AtwabAxUMflTI3UCbglEq) | [D\-tip](https://open.spotify.com/artist/47uLLyDQtL91fBca6JDKSF), [Sir Vee The Great](https://open.spotify.com/artist/54Dv7ivRbifKAIo3fKLlyI) | [This Is The Way \(We Dance\)](https://open.spotify.com/album/1Rn5VSLmJWNMIgb1mBxWuK) | 5:37 | 2023-11-09 | 2024-04-26 |
 | [This Must Be Deep \- Original Mix](https://open.spotify.com/track/3olGCkuKopIHUxulYAVPJN) | [Kek'star](https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4), [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU) | [This Must Be Deep](https://open.spotify.com/album/21VsxLl65DU4n6GfbVL3xE) | 6:33 | 2022-09-29 | 2023-03-18 |

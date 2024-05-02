@@ -4,11 +4,11 @@
 
 > The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: HELLMERRY, Al James
 
-143 songs - 8 hr 9 min
+144 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [$tr33t$](https://open.spotify.com/track/1Qksl8s59ywSHo1exDdEqd) | [Just Hush](https://open.spotify.com/artist/3KovZIDNYgQY8chiNZo2ZF), [Third Flo'](https://open.spotify.com/artist/4oq3ZPun2GUPkUBo8BzuTW), [Toney Chrome](https://open.spotify.com/artist/07umKW3OWa1Kul8FDGgokH), [Jo$h Papers](https://open.spotify.com/artist/2jYpMImUc829yIVfP0azJV) | [$tr33t$](https://open.spotify.com/album/6EwBlz4PQtfzko9D8ibO0E) | 3:57 | 2024-03-27 |  |
+| [$tr33t$](https://open.spotify.com/track/1Qksl8s59ywSHo1exDdEqd) | [Just Hush](https://open.spotify.com/artist/3KovZIDNYgQY8chiNZo2ZF), [Third Flo'](https://open.spotify.com/artist/4oq3ZPun2GUPkUBo8BzuTW), [Toney Chrome](https://open.spotify.com/artist/07umKW3OWa1Kul8FDGgokH), [Jo$h Papers](https://open.spotify.com/artist/2jYpMImUc829yIVfP0azJV) | [$tr33t$](https://open.spotify.com/album/6EwBlz4PQtfzko9D8ibO0E) | 3:57 | 2024-03-27 | 2024-05-02 |
 | ['97 Jay\-Z](https://open.spotify.com/track/6KdGHRlQ7PUuVplvNySZHH) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | ['97 Jay\-Z](https://open.spotify.com/album/31fonibdBz5jRaUpxe31kp) | 2:40 | 2023-12-06 | 2024-01-25 |
 | [3 AM](https://open.spotify.com/track/7CrpqsFrk3PdqMFSW7nlDV) | [Baby Blood](https://open.spotify.com/artist/43mQpC11b5yKRPDURZOC76) | [3 AM](https://open.spotify.com/album/4c1eaKMLG6YMdQ8f08tXgY) | 2:56 | 2023-09-20 | 2023-11-23 |
 | [4:AM](https://open.spotify.com/track/4OaVpRQJWIgMTecpLSmhnn) | [HELLMERRY](https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc) | [4:AM](https://open.spotify.com/album/2KbChrlOoIu1vhxwCiNpXo) | 3:48 | 2023-09-20 | 2024-03-14 |
@@ -99,6 +99,7 @@
 | [Maria Hiwaga](https://open.spotify.com/track/7rRpt0FcGdDxyhiFcSlswH) | [Sassa Gurl](https://open.spotify.com/artist/52D0Fi29GcObaFnweqsV6d) | [Maria Hiwaga](https://open.spotify.com/album/6VCDr1sghqqQSje8YbYSqn) | 3:07 | 2023-09-20 | 2024-03-14 |
 | [Marikit Sa Dilim](https://open.spotify.com/track/2n0OFvWzkojBD1kVIOeGqe) | [Juan Caoile](https://open.spotify.com/artist/6kyw9sh7ryjy1GQdPYH3Yd), [Kyleswish](https://open.spotify.com/artist/1EMaB1ZnRpeXWruJZMtaUa), [Jawz](https://open.spotify.com/artist/6zCxAxzt79PCyDcFIJRfyg) | [Marikit Sa Dilim](https://open.spotify.com/album/5lvADzxNwgth5Y5EZdHx7l) | 3:52 | 2024-02-14 |  |
 | [MAS GUSTO KITA](https://open.spotify.com/track/2c5CsVc89pz3gc11BnWVLL) | [Baby Blood](https://open.spotify.com/artist/43mQpC11b5yKRPDURZOC76) | [LUVXIC](https://open.spotify.com/album/2yqjOt3MA5dJvRb2hlhn6o) | 2:15 | 2023-12-13 | 2024-02-01 |
+| [MINAHALAGAD](https://open.spotify.com/track/0k9bmRFeWAKCJm0OtIrbd1) | [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [MINAHALAGAD](https://open.spotify.com/album/1N6eO3cWQ1LXAJux7E21fD) | 4:11 | 2024-05-01 |  |
 | [Mood](https://open.spotify.com/track/27kaeLB6wRVvsaORS8O96F) | [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm), [Muric](https://open.spotify.com/artist/48K8I2AZGPknyk914KtMzO) | [Mood](https://open.spotify.com/album/1KCy0t9OekxUxwTxfIHrbA) | 3:50 | 2023-09-20 | 2024-02-22 |
 | [Mossa Downtown](https://open.spotify.com/track/5kA5QMEgxW3VwwvAFjpgr4) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T), [gins&melodies](https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK) | [Mossa Downtown](https://open.spotify.com/album/2iqWQbp5duKqkI22C7rwtU) | 2:45 | 2023-09-20 | 2023-12-14 |
 | [My Everything](https://open.spotify.com/track/5ZU0vdfJhQn2fgaIYicHlj) | [CK YG](https://open.spotify.com/artist/57yOAX6apIrclpBG736Uy2), [Young Blood Neet](https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU) | [My Everything](https://open.spotify.com/album/0XJqY30CK6xUBs73xGHUAw) | 4:28 | 2024-02-21 |  |

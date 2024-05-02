@@ -4,7 +4,7 @@
 
 > This is Qlank\. The essential tracks, all in one playlist.
 
-79 songs - 4 hr 48 min
+80 songs - 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Caldera](https://open.spotify.com/track/0T1P5ngGzqMhLWV6gRevha) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Caldera](https://open.spotify.com/album/5881VqXsgmHR7Ib16nzl9b) | 3:10 | 2024-01-03 |  |
 | [Cell Phone](https://open.spotify.com/track/4vrxiotFxYfjEB11oRAfqN) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Cell Phone](https://open.spotify.com/album/178yvgtt01oNSUQwL36bud) | 2:50 | 2024-03-25 | 2024-04-03 |
 | [Chai Tea](https://open.spotify.com/track/7BCIfos9MNom10BdK2domq) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Toolbox EP](https://open.spotify.com/album/2F8YY6Wq2c8qp8JJ0R8kae) | 3:48 | 2024-01-04 |  |
+| [Crown \- Qlank Remix](https://open.spotify.com/track/0ejt8Oi2qMU2KU8uoZZsJg) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Tyler Graves](https://open.spotify.com/artist/5bFKudtw20QjmAFeA1hBLq), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Crown Remixes](https://open.spotify.com/album/1rVdfi3hGxWVjAW95TwqYM) | 4:15 | 2024-05-02 |  |
 | [Dance Again](https://open.spotify.com/track/3xnqyNhS24WPwuGg5Ktjn2) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Dance Again](https://open.spotify.com/album/2U9dJGCEwVPQ10Mv48XTi6) | 3:41 | 2024-01-03 | 2024-04-22 |
 | [DGAF](https://open.spotify.com/track/06Z345gYT6n333z9XYXsiY) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [New Times EP](https://open.spotify.com/album/4eRgsarMzUN0FQX1FWzwl0) | 4:17 | 2024-01-03 | 2024-04-19 |
 | [Dimensions](https://open.spotify.com/track/6HIoWv3bdIih39MoMwop4z) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Dimensions](https://open.spotify.com/album/5ifn2Tcd0wWwzeKJXxpxLM) | 3:52 | 2024-01-24 | 2024-03-23 |
@@ -84,7 +85,7 @@
 | [What Do You Want](https://open.spotify.com/track/1hlvdQsSjseGv329xcH1ua) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y), [DirtyFun](https://open.spotify.com/artist/34COAQQm9sxxuIiNYyIClG) | [What Do You Want](https://open.spotify.com/album/4QAe5aqE5D2Aq2PWLF6kbV) | 3:26 | 2024-02-23 | 2024-02-26 |
 | [Who R U](https://open.spotify.com/track/1d537C0yp0ZscVNI8yfqvr) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Machine EP](https://open.spotify.com/album/3GphtxLMyfK9FDcxoh8c53) | 3:50 | 2024-01-07 |  |
 | [Wild](https://open.spotify.com/track/6kpRAcNQkOLz32LiSAp68I) | [ANGELZ](https://open.spotify.com/artist/7tbMem2T4rnyYKXiUYJPCn), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Sacrosanct](https://open.spotify.com/album/6Bpq6zlpy2N95575OLGt19) | 3:54 | 2024-01-03 |  |
-| [XTC](https://open.spotify.com/track/7EhWwj8p9Onker9p9R2bHI) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [New Times EP](https://open.spotify.com/album/4eRgsarMzUN0FQX1FWzwl0) | 4:05 | 2024-01-03 |  |
+| [XTC](https://open.spotify.com/track/7EhWwj8p9Onker9p9R2bHI) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [New Times EP](https://open.spotify.com/album/4eRgsarMzUN0FQX1FWzwl0) | 4:05 | 2024-01-03 | 2024-05-02 |
 | [You Right](https://open.spotify.com/track/58GOSPgDqiSblEpGD9gFda) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [You Right](https://open.spotify.com/album/7IkoF4tW0xPX9tVF9LxbnT) | 3:45 | 2024-01-03 |  |
 | [Yup](https://open.spotify.com/track/53URohpgcBoGfGsmG0iqpv) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Yup](https://open.spotify.com/album/1vU1lIYBioS4MTWvECBnSp) | 3:48 | 2024-01-03 |  |
 

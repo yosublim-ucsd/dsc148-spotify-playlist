@@ -1,5 +1,5 @@
 {
-  "2024-05-01": 91146,
+  "2024-05-02": 91222,
   "date_first_scraped": "2021-12-28",
   "description": "Home to the Desi Pop Bops. Cover - Asim Azhar. For more desi bangers check out <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa\">Desi Hits</a>. ",
   "name": "Desi Pop",
@@ -354,6 +354,24 @@
     },
     {
       "album": {
+        "name": "BEMATLAB",
+        "url": "https://open.spotify.com/album/5FxaP7bs11XrDUAza4z5es"
+      },
+      "artists": [
+        {
+          "name": "Asim Azhar",
+          "url": "https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199607,
+      "name": "Apna Tu Kehnda",
+      "url": "https://open.spotify.com/track/67uhJboca6cVx4QCdQVvvf"
+    },
+    {
+      "album": {
         "name": "Approved",
         "url": "https://open.spotify.com/album/1bV0yl7ESEK6bnIUS0vIuu"
       },
@@ -597,6 +615,28 @@
       "duration_ms": 171600,
       "name": "Bella - Remix",
       "url": "https://open.spotify.com/track/08tD6v1NxBVogoCMEAjfcy"
+    },
+    {
+      "album": {
+        "name": "BEMATLAB",
+        "url": "https://open.spotify.com/album/5FxaP7bs11XrDUAza4z5es"
+      },
+      "artists": [
+        {
+          "name": "Asim Azhar",
+          "url": "https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS"
+        },
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228205,
+      "name": "Bematlab",
+      "url": "https://open.spotify.com/track/1p6AnftoxhGTuei5RnsvIy"
     },
     {
       "album": {
@@ -2141,6 +2181,28 @@
       "duration_ms": 222538,
       "name": "Karde Haan",
       "url": "https://open.spotify.com/track/6e5uhj7F0fDpXmZGRR7K20"
+    },
+    {
+      "album": {
+        "name": "BEMATLAB",
+        "url": "https://open.spotify.com/album/5FxaP7bs11XrDUAza4z5es"
+      },
+      "artists": [
+        {
+          "name": "Asim Azhar",
+          "url": "https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS"
+        },
+        {
+          "name": "Talhah Yunus",
+          "url": "https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240714,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/5mowfsyfcMHPljgxVMjtQL"
     },
     {
       "album": {
@@ -4589,6 +4651,28 @@
       "duration_ms": 194857,
       "name": "Ykwim",
       "url": "https://open.spotify.com/track/6qS40yL7kXVoChI8SSCQIQ"
+    },
+    {
+      "album": {
+        "name": "BEMATLAB",
+        "url": "https://open.spotify.com/album/5FxaP7bs11XrDUAza4z5es"
+      },
+      "artists": [
+        {
+          "name": "Asim Azhar",
+          "url": "https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS"
+        },
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/5SOKLE8PuKhC6zVURF8VZG"
     },
     {
       "album": {

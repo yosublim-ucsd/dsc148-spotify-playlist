@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0TXhxoo7C4jisEGDp8fiUS">Kalli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-145 songs - 7 hr 27 min
+147 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Killing Me](https://open.spotify.com/track/0KOMWYw0mEKMvSCUYXkBS7) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Nico Santos](https://open.spotify.com/album/51LrCn7WwuMfGwQufI1Esl) | 3:30 | 2024-01-29 |  |
 | [Knock](https://open.spotify.com/track/56oCkcfexBeYD4q4jEJJBV) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Dye My Hair](https://open.spotify.com/album/72OGxvqzD8lVsmT0HsaEPS) | 3:20 | 2024-01-29 |  |
 | [Kopfsache](https://open.spotify.com/track/6hvyb2fpuk8SOtIEs022wm) | [LiZZA](https://open.spotify.com/artist/7wiUyQkeFf7MvAEGpF7wzR) | [Kopfsache](https://open.spotify.com/album/2tkPSTwRNIA2X8FSZkCAq9) | 3:37 | 2024-01-29 |  |
+| [Kreis \(feat\. Bausa\)](https://open.spotify.com/track/7eQUk2rv2k38e2ATgzbCTO) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV) | [Gute Nacht](https://open.spotify.com/album/6HXofmpALQ71a6Ri5WKegT) | 4:05 | 2024-05-01 |  |
 | [Lass mich los](https://open.spotify.com/track/2fbIOC7TEm1tAJwMDAvFhA) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Gute Nacht](https://open.spotify.com/album/6HXofmpALQ71a6Ri5WKegT) | 5:37 | 2024-01-29 |  |
 | [life was a beach](https://open.spotify.com/track/6NvcOlh7gtas2XCW2KACYo) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Only Love, L \(More Love Edition\)](https://open.spotify.com/album/0wNhZkLrI9nBQMyT9sjiBK) | 2:54 | 2024-01-29 |  |
 | [Like A Fool](https://open.spotify.com/track/0iSVVvnXgiAcdS8tZPjZeR) | [Joana Kesenci](https://open.spotify.com/artist/4ZaUXNaebEQrSWFq4att4m) | [Like A Fool](https://open.spotify.com/album/4cIl8a2elDYzGIN8Xeje50) | 3:32 | 2024-01-29 |  |
@@ -150,6 +151,7 @@
 | [What I Want](https://open.spotify.com/track/3vXjK5wWAK9sbKsl9OkbuH) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [What I Want](https://open.spotify.com/album/6vDRxpxvwxb2HHFsc1TM36) | 2:50 | 2024-01-31 |  |
 | [What I Want](https://open.spotify.com/track/4wkJyqVVMqbqukgBbnrxOJ) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [What I Want](https://open.spotify.com/album/5EleSz4c26Lq9NneJABLgn) | 2:54 | 2024-01-29 | 2024-02-01 |
 | [Where You Are](https://open.spotify.com/track/4XFJmvM7x2Wkz6kXJr5LmO) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Where You Are](https://open.spotify.com/album/25Bk5lhRcppzuyAqaqXuws) | 2:28 | 2024-01-29 |  |
+| [Wie du](https://open.spotify.com/track/4bkpxaHmnLp96IjthFx6Eq) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Gute Nacht](https://open.spotify.com/album/6HXofmpALQ71a6Ri5WKegT) | 4:08 | 2024-05-01 |  |
 | [Wieder 2015](https://open.spotify.com/track/2nrjPUW9lqxEcCr2YKz9AY) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Für den Himmel durch die Hölle \(Deluxe Edition\)](https://open.spotify.com/album/5HeOz6InVkwkXkacIGgHRa) | 3:05 | 2024-01-29 |  |
 | [Wiedersehen](https://open.spotify.com/track/5k7tMgpIMQxhao6NA5ZbLG) | [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr) | [Von Herzen](https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC) | 3:23 | 2024-01-29 |  |
 | [Would I Lie To You](https://open.spotify.com/track/11tOKHaQx8Lg1Ou4AcNoOa) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Ride](https://open.spotify.com/album/7dPtQ96HtsmPSq8oWsmkJv) | 3:24 | 2024-01-29 |  |

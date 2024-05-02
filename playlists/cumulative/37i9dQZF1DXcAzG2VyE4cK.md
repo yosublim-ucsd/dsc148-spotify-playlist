@@ -2,7 +2,7 @@
 
 ### [Acuario](https://open.spotify.com/playlist/37i9dQZF1DXcAzG2VyE4cK)
 
-> ¿A quién le importa lo que yo haga? \#ZodiacoSpotify Foto: Karol G
+> Soy como quiero ser.
 
 39 songs - 2 hr 33 min
 

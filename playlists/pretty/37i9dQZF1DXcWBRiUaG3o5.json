@@ -1,6 +1,6 @@
 {
   "description": "Keep your night easy and light with this acoustic mix.",
-  "num_followers": 1246343,
+  "num_followers": 1246280,
   "original_name": "Evening Acoustic",
   "owner": {
     "name": "Spotify",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "All Night Pharmacy",
+        "url": "https://open.spotify.com/album/7rnzB9PcNqoE3A0JrYXh3s"
+      },
+      "artists": [
+        {
+          "name": "Nathan Reich",
+          "url": "https://open.spotify.com/artist/3kyJ9Dtcfsww8eXKdmLvtf"
+        }
+      ],
+      "duration_ms": 255760,
+      "name": "The Dream Song",
+      "url": "https://open.spotify.com/track/4VzC9UCasqtH2lMsYNyLbF"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Ain't No Grave",
         "url": "https://open.spotify.com/album/599qJxheGI6EVVZE2LD2nj"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 198313,
       "name": "Ain't No Grave (Sparse)",
       "url": "https://open.spotify.com/track/2aSP07jHAlACdY9tphgkA8"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "All Night Pharmacy",
-        "url": "https://open.spotify.com/album/7rnzB9PcNqoE3A0JrYXh3s"
-      },
-      "artists": [
-        {
-          "name": "Nathan Reich",
-          "url": "https://open.spotify.com/artist/3kyJ9Dtcfsww8eXKdmLvtf"
-        }
-      ],
-      "duration_ms": 255760,
-      "name": "The Dream Song",
-      "url": "https://open.spotify.com/track/4VzC9UCasqtH2lMsYNyLbF"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Sang About It",
-        "url": "https://open.spotify.com/album/4mczmDqhr8dVQIQP8mdBJZ"
-      },
-      "artists": [
-        {
-          "name": "Ethan Tasch",
-          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
-        }
-      ],
-      "duration_ms": 133786,
-      "name": "Sang About It",
-      "url": "https://open.spotify.com/track/7r6SeYvJXds6JAxpeeISmg"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Granny Music",
         "url": "https://open.spotify.com/album/725p6TJKBuQ5CPK6pT9S2Q"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 214013,
       "name": "Millionaire",
       "url": "https://open.spotify.com/track/3NTgl4lHbIJw8p3bDanEa0"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Sang About It",
+        "url": "https://open.spotify.com/album/4mczmDqhr8dVQIQP8mdBJZ"
+      },
+      "artists": [
+        {
+          "name": "Ethan Tasch",
+          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
+        }
+      ],
+      "duration_ms": 133786,
+      "name": "Sang About It",
+      "url": "https://open.spotify.com/track/7r6SeYvJXds6JAxpeeISmg"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Zebra",
-        "url": "https://open.spotify.com/album/6QmnGl7Bj5U4bbXVQSbR37"
-      },
-      "artists": [
-        {
-          "name": "COLETON RUBIN",
-          "url": "https://open.spotify.com/artist/7Krl9mcONPsEv1stFtsWL7"
-        }
-      ],
-      "duration_ms": 185146,
-      "name": "Zebra",
-      "url": "https://open.spotify.com/track/0TazAJfiga0yScZ8rT61rD"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/42PYcXkN5YS40eOmFFU2XW"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 177098,
       "name": "I Can\u2019t Hide",
       "url": "https://open.spotify.com/track/56wQ8oN1RxGkTDw1lV7RSM"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Zebra",
+        "url": "https://open.spotify.com/album/6QmnGl7Bj5U4bbXVQSbR37"
+      },
+      "artists": [
+        {
+          "name": "COLETON RUBIN",
+          "url": "https://open.spotify.com/artist/7Krl9mcONPsEv1stFtsWL7"
+        }
+      ],
+      "duration_ms": 185146,
+      "name": "Zebra",
+      "url": "https://open.spotify.com/track/0TazAJfiga0yScZ8rT61rD"
     },
     {
       "added_at": "2023-10-20 04:00:00",

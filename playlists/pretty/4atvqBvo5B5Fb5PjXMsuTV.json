@@ -1,13 +1,241 @@
 {
   "description": "Updated daily, with the latest popular singles!",
   "num_followers": 77,
-  "original_name": "NEW SINGLES RELEASES | UPDATED 01 MAY",
+  "original_name": "NEW SINGLES RELEASES | UPDATED 02 MAY",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAIETQ2YFL3YScRXuZ0wDMdaU7TFjwi",
+  "snapshot_id": "AAAIFjPqmPeB/87EJE4LHZNzC1qiWy4+",
   "tracks": [
+    {
+      "added_at": "2024-05-01 22:02:02",
+      "album": {
+        "name": "No Biggie",
+        "url": "https://open.spotify.com/album/1urYBW5vhEnfX0zzdKvpoX"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "duration_ms": 181466,
+      "name": "No Biggie",
+      "url": "https://open.spotify.com/track/3o4FOm8UEvjbTignWbKxYr"
+    },
+    {
+      "added_at": "2024-05-01 22:02:02",
+      "album": {
+        "name": "The Wish",
+        "url": "https://open.spotify.com/album/0YEztVFIx6n2CnDMwMoaOp"
+      },
+      "artists": [
+        {
+          "name": "Ra Ra Riot",
+          "url": "https://open.spotify.com/artist/6FIrstf3kHEg3zBOyLpvxD"
+        }
+      ],
+      "duration_ms": 222600,
+      "name": "The Wish",
+      "url": "https://open.spotify.com/track/1q6vdhh29f5R9VgVRSv0J6"
+    },
+    {
+      "added_at": "2024-05-01 22:02:02",
+      "album": {
+        "name": "Kimbara",
+        "url": "https://open.spotify.com/album/2lrh7eGF5BhF70i5VPJ3Nu"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 189816,
+      "name": "Kimbara",
+      "url": "https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk"
+    },
+    {
+      "added_at": "2024-05-01 22:02:02",
+      "album": {
+        "name": "Human Disdain",
+        "url": "https://open.spotify.com/album/1gD6vlx23EQLoMJCLERpqi"
+      },
+      "artists": [
+        {
+          "name": "Bodysnatcher",
+          "url": "https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm"
+        }
+      ],
+      "duration_ms": 178360,
+      "name": "Human Disdain",
+      "url": "https://open.spotify.com/track/4d8ntpM9o8y9QTiYQ73osG"
+    },
+    {
+      "added_at": "2024-05-01 22:02:02",
+      "album": {
+        "name": "Contingency/Necessity (Modality of Fate)",
+        "url": "https://open.spotify.com/album/3QR8LjYYmzDFvUjPe2pIIp"
+      },
+      "artists": [
+        {
+          "name": "How To Dress Well",
+          "url": "https://open.spotify.com/artist/4jLcgJjDGmW0HmvbSf6lEI"
+        }
+      ],
+      "duration_ms": 235417,
+      "name": "Contingency/Necessity (Modality of Fate)",
+      "url": "https://open.spotify.com/track/5JG967CjnqHz3GloV8W8XB"
+    },
+    {
+      "added_at": "2024-05-01 22:02:02",
+      "album": {
+        "name": "double tap",
+        "url": "https://open.spotify.com/album/7aG3DisFd9OPX2EWB8loFs"
+      },
+      "artists": [
+        {
+          "name": "wolfacejoeyy",
+          "url": "https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z"
+        }
+      ],
+      "duration_ms": 124919,
+      "name": "double tap",
+      "url": "https://open.spotify.com/track/1JE37zGKjFiEBM82rUPECy"
+    },
+    {
+      "added_at": "2024-05-01 22:02:02",
+      "album": {
+        "name": "Gemini",
+        "url": "https://open.spotify.com/album/1tO3KS7vrBnBmgoJmtA9Q5"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e9lica Garcia",
+          "url": "https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG"
+        }
+      ],
+      "duration_ms": 194292,
+      "name": "Gemini",
+      "url": "https://open.spotify.com/track/53eIEM1DF3zNjxPdaIrqa4"
+    },
+    {
+      "added_at": "2024-05-01 22:02:02",
+      "album": {
+        "name": "Velvet Black",
+        "url": "https://open.spotify.com/album/2cihSHL24MaJO9Q4fk2UXt"
+      },
+      "artists": [
+        {
+          "name": "Umbra Vitae",
+          "url": "https://open.spotify.com/artist/340Q4BNeDs4ePSpBii4yRa"
+        }
+      ],
+      "duration_ms": 296973,
+      "name": "Velvet Black",
+      "url": "https://open.spotify.com/track/1VxbU9vkaZMrT9myAfxrR0"
+    },
+    {
+      "added_at": "2024-05-01 10:01:59",
+      "album": {
+        "name": "Filho da Noite",
+        "url": "https://open.spotify.com/album/63K61G3WTZrRUHZzAUPqHn"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        }
+      ],
+      "duration_ms": 236666,
+      "name": "Filho da Noite",
+      "url": "https://open.spotify.com/track/40IXmplKTcyWPr9HNCik7e"
+    },
+    {
+      "added_at": "2024-05-01 10:01:59",
+      "album": {
+        "name": "REEKYOD",
+        "url": "https://open.spotify.com/album/51gVU7RqmDPn2suWlglhyy"
+      },
+      "artists": [
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        },
+        {
+          "name": "Black Thought",
+          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
+        },
+        {
+          "name": "Your Old Droog",
+          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
+        }
+      ],
+      "duration_ms": 156035,
+      "name": "REEKYOD",
+      "url": "https://open.spotify.com/track/4PpnDYRLipOJnxlT2Ewl6a"
+    },
+    {
+      "added_at": "2024-05-01 10:01:59",
+      "album": {
+        "name": "Botoxxx",
+        "url": "https://open.spotify.com/album/4yuhs9GqdOJxBcm1f22ZAZ"
+      },
+      "artists": [
+        {
+          "name": "Isabella Lovestory",
+          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
+        }
+      ],
+      "duration_ms": 163486,
+      "name": "Botoxxx",
+      "url": "https://open.spotify.com/track/2TOscIenZ5PxE2Uw25CE9T"
+    },
+    {
+      "added_at": "2024-05-01 10:01:59",
+      "album": {
+        "name": "Charade (feat. Vincente Void & Hash Gordon)",
+        "url": "https://open.spotify.com/album/3j3LJ6aa4oA1SXGJnN9rB0"
+      },
+      "artists": [
+        {
+          "name": "Omerta",
+          "url": "https://open.spotify.com/artist/0OYajuHduapwq21Xh1WLwo"
+        },
+        {
+          "name": "Vincente Void",
+          "url": "https://open.spotify.com/artist/7dG9i6mXD95KlPRLW5Mspl"
+        },
+        {
+          "name": "Hash Gordon",
+          "url": "https://open.spotify.com/artist/60uraf0ie3HSrCD0W6o9Wk"
+        }
+      ],
+      "duration_ms": 307119,
+      "name": "Charade (feat. Vincente Void & Hash Gordon)",
+      "url": "https://open.spotify.com/track/1DtT0SdnHV3rGR8qKESC8l"
+    },
+    {
+      "added_at": "2024-05-01 10:01:59",
+      "album": {
+        "name": "Big Cat Tattoos",
+        "url": "https://open.spotify.com/album/14jGpYUFZ5lNXoJKVdhbOU"
+      },
+      "artists": [
+        {
+          "name": "Hamish Hawk",
+          "url": "https://open.spotify.com/artist/3t3q007skKvwNaodwZx8W8"
+        }
+      ],
+      "duration_ms": 191700,
+      "name": "Big Cat Tattoos",
+      "url": "https://open.spotify.com/track/4bra2iYM2um2eYNZUHXFiV"
+    },
     {
       "added_at": "2024-04-30 22:02:15",
       "album": {
@@ -219,248 +447,8 @@
       "duration_ms": 229026,
       "name": "Everything At Once",
       "url": "https://open.spotify.com/track/21gA87I4UP9oGRcwJg0ZWT"
-    },
-    {
-      "added_at": "2024-04-30 10:02:01",
-      "album": {
-        "name": "CELE",
-        "url": "https://open.spotify.com/album/0qGHCqFkDG7Orsrh2df7sd"
-      },
-      "artists": [
-        {
-          "name": "Zeamsone",
-          "url": "https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY"
-        }
-      ],
-      "duration_ms": 123137,
-      "name": "CELE",
-      "url": "https://open.spotify.com/track/12UteowW5rG89ULd7DCzDM"
-    },
-    {
-      "added_at": "2024-04-30 10:02:01",
-      "album": {
-        "name": "N\u00f3",
-        "url": "https://open.spotify.com/album/47IqykpFwqKhoH1he7GXYJ"
-      },
-      "artists": [
-        {
-          "name": "Th\u1eafng",
-          "url": "https://open.spotify.com/artist/1oD9fKbb7qQ2nhn9JJC24F"
-        },
-        {
-          "name": "Datmaniac",
-          "url": "https://open.spotify.com/artist/56su1iNcOlGUPEtBoOoJ5D"
-        }
-      ],
-      "duration_ms": 172819,
-      "name": "N\u00f3",
-      "url": "https://open.spotify.com/track/49emwrCApbNt5SVvSc32d4"
-    },
-    {
-      "added_at": "2024-04-30 10:02:01",
-      "album": {
-        "name": "The Last Year",
-        "url": "https://open.spotify.com/album/0c576Mju3GRgkxR4YcUmtT"
-      },
-      "artists": [
-        {
-          "name": "Jessica Pratt",
-          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
-        }
-      ],
-      "duration_ms": 215466,
-      "name": "The Last Year",
-      "url": "https://open.spotify.com/track/2gs4GCStX8lwS8XIrrv63g"
-    },
-    {
-      "added_at": "2024-04-30 10:02:01",
-      "album": {
-        "name": "Why Aren't You Dancing?",
-        "url": "https://open.spotify.com/album/10AFHiIJfgEtxRn6EcFC73"
-      },
-      "artists": [
-        {
-          "name": "Grady",
-          "url": "https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R"
-        }
-      ],
-      "duration_ms": 206937,
-      "name": "Why Aren't You Dancing?",
-      "url": "https://open.spotify.com/track/7xNQbooHAWyxVcS2yfq3JL"
-    },
-    {
-      "added_at": "2024-04-30 10:02:01",
-      "album": {
-        "name": "W OCZY",
-        "url": "https://open.spotify.com/album/5P3tyjmAjGE3oJNoaxxCMt"
-      },
-      "artists": [
-        {
-          "name": "Mi\u0142y ATZ",
-          "url": "https://open.spotify.com/artist/1PKW5LFWjU0jJGK2dYS1IE"
-        },
-        {
-          "name": "Miroff",
-          "url": "https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD"
-        },
-        {
-          "name": "SHD\u00d8W",
-          "url": "https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt"
-        }
-      ],
-      "duration_ms": 167190,
-      "name": "W OCZY",
-      "url": "https://open.spotify.com/track/3KqxRjYLEs1twNChvKUDAk"
-    },
-    {
-      "added_at": "2024-04-30 10:02:01",
-      "album": {
-        "name": "Echowrecked",
-        "url": "https://open.spotify.com/album/1LLoVUJPRsAd2CHl296Tjj"
-      },
-      "artists": [
-        {
-          "name": "Kelly Jones",
-          "url": "https://open.spotify.com/artist/4kqfrYqOQRR0Yun2xc4deB"
-        },
-        {
-          "name": "Stereophonics",
-          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
-        }
-      ],
-      "duration_ms": 301169,
-      "name": "Echowrecked",
-      "url": "https://open.spotify.com/track/3Xg3h3obEtvxm5loPPv2IT"
-    },
-    {
-      "added_at": "2024-04-29 22:02:21",
-      "album": {
-        "name": "Get Lit",
-        "url": "https://open.spotify.com/album/5RanHiETaj1Cd50lUxCbde"
-      },
-      "artists": [
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        },
-        {
-          "name": "George Clinton",
-          "url": "https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA"
-        },
-        {
-          "name": "D Smoke",
-          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
-        }
-      ],
-      "duration_ms": 206397,
-      "name": "Get Lit",
-      "url": "https://open.spotify.com/track/22U208xCU1Vhw7jVlhnMZu"
-    },
-    {
-      "added_at": "2024-04-29 22:02:21",
-      "album": {
-        "name": "Morse code",
-        "url": "https://open.spotify.com/album/3lvMRU32335nDOsG0Gtzsz"
-      },
-      "artists": [
-        {
-          "name": "UKISS",
-          "url": "https://open.spotify.com/artist/2GB76Lm833jVI5kLvKEB7Z"
-        }
-      ],
-      "duration_ms": 214185,
-      "name": "Morse code",
-      "url": "https://open.spotify.com/track/638D2nYQKHTUmQc7Xt3soK"
-    },
-    {
-      "added_at": "2024-04-29 22:02:21",
-      "album": {
-        "name": "45 Degrees",
-        "url": "https://open.spotify.com/album/1x4z3Ez6F8D9phPqXDnGYu"
-      },
-      "artists": [
-        {
-          "name": "LAUREL",
-          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
-        }
-      ],
-      "duration_ms": 192320,
-      "name": "45 Degrees",
-      "url": "https://open.spotify.com/track/06RgMdmBK2VcjnpkxyjNEZ"
-    },
-    {
-      "added_at": "2024-04-29 22:02:21",
-      "album": {
-        "name": "Kravitz",
-        "url": "https://open.spotify.com/album/58gxd7R2ovmIDehM0oslBt"
-      },
-      "artists": [
-        {
-          "name": "Mabe Fratti",
-          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
-        }
-      ],
-      "duration_ms": 273490,
-      "name": "Kravitz",
-      "url": "https://open.spotify.com/track/3ydiQXwguW4FTjZYCpWDLE"
-    },
-    {
-      "added_at": "2024-04-29 22:02:21",
-      "album": {
-        "name": "first",
-        "url": "https://open.spotify.com/album/221i5359034bFqW1N8IA52"
-      },
-      "artists": [
-        {
-          "name": "WaMi",
-          "url": "https://open.spotify.com/artist/1qanQeBBRpAXORMg7BdCol"
-        },
-        {
-          "name": "maeshima soshi",
-          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
-        }
-      ],
-      "duration_ms": 162073,
-      "name": "first",
-      "url": "https://open.spotify.com/track/333aAlAYq1oeVlR29KsZrg"
-    },
-    {
-      "added_at": "2024-04-29 10:01:54",
-      "album": {
-        "name": "ILE LAT?",
-        "url": "https://open.spotify.com/album/5pzf4AhTd7kPFC0W1Bh5Ti"
-      },
-      "artists": [
-        {
-          "name": "Oki",
-          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
-        },
-        {
-          "name": "Sobel",
-          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "ILE LAT?",
-      "url": "https://open.spotify.com/track/4sOUVcGZo8MiSoIKybdXMC"
-    },
-    {
-      "added_at": "2024-04-29 10:01:54",
-      "album": {
-        "name": "Criminals",
-        "url": "https://open.spotify.com/album/3BmwWzziWO2nNg2y8mptj2"
-      },
-      "artists": [
-        {
-          "name": "Rivers of Nihil",
-          "url": "https://open.spotify.com/artist/3UJmyt9ApeZTmOlMvBNGLN"
-        }
-      ],
-      "duration_ms": 263357,
-      "name": "Criminals",
-      "url": "https://open.spotify.com/track/2XNOqWrhYTZXjxoWYAlY3L"
     }
   ],
-  "unique_name": "NEW SINGLES RELEASES | UPDATED 01 MAY",
+  "unique_name": "NEW SINGLES RELEASES | UPDATED 02 MAY",
   "url": "https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV"
 }

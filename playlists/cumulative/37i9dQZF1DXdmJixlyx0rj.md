@@ -4,7 +4,7 @@
 
 > New & best K\-Electronic music is here\. \(Cover: BÉBE YANA\)
 
-110 songs - 6 hr 29 min
+111 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Don't Call Me \- ESAI Remix](https://open.spotify.com/track/0IOwemmG89kd7zavZz6bvS) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR), [ESAI](https://open.spotify.com/artist/1mv8s2gObjHHdnlSGVW1pE) | [iScreaM Vol.7 : Don't Call Me Remixes](https://open.spotify.com/album/2dw5OhTWlveInSayuXHYik) | 3:01 | 2024-04-05 |  |
 | [Don't Call Me \- Fox Stevenson Remix](https://open.spotify.com/track/41w4ZjkJpDIOUizWS6KlSm) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR), [Fox Stevenso](https://open.spotify.com/artist/3msitL77yg0GifOf5jvd23), [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy) | [iScreaM Vol.7 : Don't Call Me Remixes](https://open.spotify.com/album/2dw5OhTWlveInSayuXHYik) | 3:23 | 2024-04-05 |  |
 | [Down Low](https://open.spotify.com/track/7uHs6HMb42GyRZ5WVsY6Ra) | [Fahjah](https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id), [Oing](https://open.spotify.com/artist/2u5jpW3Xbb26uME8g5ixiB) | [Down Low](https://open.spotify.com/album/2vrXkjvERniroEr8z178xX) | 2:16 | 2024-04-05 |  |
+| [EGO \(Feat\. June One\)](https://open.spotify.com/track/4tkn2ku7YCNkuiVUEgE1GC) | [swimrabbit](https://open.spotify.com/artist/7klsHI12mBDasOWDaVt5tY), [June One](https://open.spotify.com/artist/0aWV0dhiGN7C4U2NnsgAqQ) | [EGO/INNOCENCE](https://open.spotify.com/album/2eDQ2WiQ4CwTJzpAcrnst9) | 3:36 | 2024-04-18 |  |
 | [Eternity](https://open.spotify.com/track/21aWaqbf26P6EFLXRL8NlV) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS), [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq) | [Eternity](https://open.spotify.com/album/4CUPFwbH6LkM6jo2aEVAcg) | 2:14 | 2024-04-05 |  |
 | [Euphoric Forest](https://open.spotify.com/track/6h3RLwnbGwcZoUdtFaRbMy) | [DIDI HAN](https://open.spotify.com/artist/2j74J6dIUd8X3x6UKH3pZF) | [Forest](https://open.spotify.com/album/4C45OQeWsIvj1QNb4aHiMs) | 7:04 | 2024-04-05 |  |
 | [Fabulous \- GINJO Remix, Bonus Track](https://open.spotify.com/track/6U2cbwRR7YeNM2H49opI7J) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [GINJO](https://open.spotify.com/artist/75vTLAnhUDaUwzjPCKvaJM) | [iScreaM Vol.30 : To\. X Remixes](https://open.spotify.com/album/6kR9Gky1BBCFn17lA6ZO9x) | 4:44 | 2024-04-05 |  |
@@ -90,7 +91,7 @@
 | [Phantom \- IMLAY Remix](https://open.spotify.com/track/20UwEhgJgMbdYeFfoaTqlX) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz), [IMLAY](https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2) | [iScreaM Vol.23 : Phantom Remixes](https://open.spotify.com/album/0LeX49Jo3D797EqjQZ56fB) | 3:10 | 2024-04-05 |  |
 | [Phantom \- Pierre Blanche Remix](https://open.spotify.com/track/2sqOAZK3yegHFbab4Z4479) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz), [Pierre Blanche](https://open.spotify.com/artist/7sQcLctmMlBV6eBvdcnNgo) | [iScreaM Vol.23 : Phantom Remixes](https://open.spotify.com/album/0LeX49Jo3D797EqjQZ56fB) | 4:04 | 2024-04-05 |  |
 | [Power \- Dash Berlin Remix](https://open.spotify.com/track/2ddwXrg3E3IZcXeUImlv7F) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Power \(Remixes\)](https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51) | 5:00 | 2024-04-05 |  |
-| [Power \- IMLAY Remix](https://open.spotify.com/track/3swlav6jHllgTqg04ViBB1) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Power \(Remixes\)](https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51) | 3:18 | 2024-04-18 |  |
+| [Power \- IMLAY Remix](https://open.spotify.com/track/3swlav6jHllgTqg04ViBB1) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Power \(Remixes\)](https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51) | 3:18 | 2024-04-18 | 2024-05-02 |
 | [Power \- R3HAB Remix](https://open.spotify.com/track/6Xyq0b0CnpANv9XfsCohn4) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Power \(Remixes\)](https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51) | 3:21 | 2024-04-05 |  |
 | [Power \- SHAUN Remix](https://open.spotify.com/track/2fLgM0XJuxmtiwz5KrrOkn) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Power \(Remixes\)](https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51) | 4:16 | 2024-04-05 |  |
 | [Queendom \- Demicat Remix](https://open.spotify.com/track/76fqR3nf37J4WQ3K8NrXMM) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM), [Demicat](https://open.spotify.com/artist/3Geym1qRlviofLxjf1L0BK) | [iScreaM Vol.11 : Queendom Remix](https://open.spotify.com/album/7uCTBsGC6JHlwmmrOCIUBw) | 3:14 | 2024-04-05 |  |

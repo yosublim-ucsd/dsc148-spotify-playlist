@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-715 songs - 1 day 17 hr 16 min
+716 songs - 1 day 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -434,6 +434,7 @@
 | [Nimbus](https://open.spotify.com/track/00uWPR2Xr54sF4MS2hnZ1m) | [Cloudcage](https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA), [Feathervane](https://open.spotify.com/artist/7j32fTp3oaXsRUmnIQixaX) | [Nimbus](https://open.spotify.com/album/48HBe77kw2NQ0s5ohCCRyx) | 3:30 | 2022-11-11 | 2023-02-08 |
 | [Nirvana](https://open.spotify.com/track/7detTFsv31gyHyCTeMTMi8) | [Candyland](https://open.spotify.com/artist/3wzxasxU7kQxHPr0ky5rJq) | [Nirvana](https://open.spotify.com/album/3xfdjH3nHygrPDO1TlVIOK) | 3:15 | 2022-03-18 | 2022-06-01 |
 | [Nirvana \- Tisoki Remix](https://open.spotify.com/track/3xxKLNhN0uADJtSF53kULp) | [Candyland](https://open.spotify.com/artist/3wzxasxU7kQxHPr0ky5rJq), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [Nirvana \(Tisoki Remix\)](https://open.spotify.com/album/0Kz8iQFEkPIyqgxBspHPzL) | 2:58 | 2022-12-01 | 2023-03-02 |
+| [Nite Mode](https://open.spotify.com/track/4VZM7lUyMpZOYs218ZmRii) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Trip Trop](https://open.spotify.com/artist/6LmNUSHJnlW7mtrLO4ovKX), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Nite Mode](https://open.spotify.com/album/40Vru2ZPCcWG3ajA1sXxgz) | 3:01 | 2024-05-01 |  |
 | [No Control](https://open.spotify.com/track/57OlQTDHonsUTAAC75H76e) | [Ghost](https://open.spotify.com/artist/53b5NwFZLCZySuNmbRvR0l), [MADREX](https://open.spotify.com/artist/4hI1zpze5eNa4V2MwkpLAr), [DAINA](https://open.spotify.com/artist/1dS4Jq6et9it9hW9Xj1QRX) | [No Control](https://open.spotify.com/album/1tfTOFgCNCObyeKhlyHatu) | 2:58 | 2021-11-26 | 2022-03-03 |
 | [NO FEAR](https://open.spotify.com/track/0xy1H3TnhU478kNe7E8Wxc) | [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [NO FEAR](https://open.spotify.com/album/36SmlBYQsx9egrbscTMe9D) | 2:54 | 2023-08-01 | 2023-12-14 |
 | [No Rules](https://open.spotify.com/track/1npTTol6bjMu5d92nSSAzQ) | [Foxela](https://open.spotify.com/artist/1R2OPNS7EkGLKcDjyGnpEu), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [No Rules](https://open.spotify.com/album/33U85hMhMP9VCxoB2psDpm) | 2:22 | 2023-09-06 | 2024-01-11 |

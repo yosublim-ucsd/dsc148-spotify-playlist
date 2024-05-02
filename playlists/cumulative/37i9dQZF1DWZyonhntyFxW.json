@@ -885,6 +885,36 @@
     },
     {
       "album": {
+        "name": "BERKA (feat. R3 \u0631\u0639)",
+        "url": "https://open.spotify.com/album/7Hhjjf6ZxGHKk6j32p4Nsl"
+      },
+      "artists": [
+        {
+          "name": "HADY MOAMER",
+          "url": "https://open.spotify.com/artist/0jPg8Ugy7n2JrD9jBaBptD"
+        },
+        {
+          "name": "TUL8TE",
+          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
+        },
+        {
+          "name": "Tayeb Santo",
+          "url": "https://open.spotify.com/artist/2aYaylPPW2iNQvlwFgO6hD"
+        },
+        {
+          "name": "R3 | \u0631\u0639",
+          "url": "https://open.spotify.com/artist/5rm4Qg2CNX57RjHgePA4E4"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230654,
+      "name": "BERKA (feat. R3 \u0631\u0639)",
+      "url": "https://open.spotify.com/track/0O1mIPgvTHHsrwauEf8htm"
+    },
+    {
+      "album": {
         "name": "Madina",
         "url": "https://open.spotify.com/album/5XLUPYK6v0Mbnu95pbh3Tp"
       },
@@ -2206,7 +2236,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 125062,
       "name": "Hashesh",
       "url": "https://open.spotify.com/track/3fLlbxAckoknuMDb91V1Ub"
@@ -2268,7 +2298,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 135249,
       "name": "Howa Keda",
       "url": "https://open.spotify.com/track/3Ge5cR5bN86RjCd6uiwXSB"
@@ -2476,6 +2506,24 @@
       "duration_ms": 163405,
       "name": "kawabes",
       "url": "https://open.spotify.com/track/1cJ8RNwEcWs2XgN9RNgHgg"
+    },
+    {
+      "album": {
+        "name": "Kaza Haga",
+        "url": "https://open.spotify.com/album/1ZLQ1HRSdS9SpjUuQLxagw"
+      },
+      "artists": [
+        {
+          "name": "Slyver PV",
+          "url": "https://open.spotify.com/artist/6WCzZyJR1Kt9X1oare81V8"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174447,
+      "name": "Kaza Haga",
+      "url": "https://open.spotify.com/track/1O5LEAhDtlAXzamXEyuTP9"
     },
     {
       "album": {

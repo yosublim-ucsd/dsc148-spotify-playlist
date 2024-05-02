@@ -1,6 +1,6 @@
 {
   "description": "Las voces que inmortalizaron las canciones del Divo de Ju\u00e1rez.",
-  "num_followers": 321896,
+  "num_followers": 321968,
   "original_name": "Cancionero Juan Gabriel",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Cristian Castro En Primera Fila - D\u00eda 1",
-        "url": "https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0"
-      },
-      "artists": [
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 239733,
-      "name": "Ma\u00f1ana, Ma\u00f1ana - Primera Fila - Live Version",
-      "url": "https://open.spotify.com/track/72SShJccmTCXDqPf6J8h38"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
         "name": "Buenos D\u00edas Se\u00f1or Sol",
         "url": "https://open.spotify.com/album/24HuJNzk4nHDvGhJ5nANUQ"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 165560,
       "name": "Buenos D\u00edas Se\u00f1or Sol",
       "url": "https://open.spotify.com/track/1KGat1UmiOwHtpqt2JxTnX"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "Cristian Castro En Primera Fila - D\u00eda 1",
+        "url": "https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 239733,
+      "name": "Ma\u00f1ana, Ma\u00f1ana - Primera Fila - Live Version",
+      "url": "https://open.spotify.com/track/72SShJccmTCXDqPf6J8h38"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "En Vivo Desde El R\u00edo Nilo",
-        "url": "https://open.spotify.com/album/0scZRkf8k4yVXsb13tU3pt"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 163133,
-      "name": "Te Sigo Amando - En Vivo",
-      "url": "https://open.spotify.com/track/6wYjK1VnoNKRszV9YFTC0D"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
         "name": "Mi Tributo a Juan Gabriel",
         "url": "https://open.spotify.com/album/1ZM8dXmYIl3fQ97HDzf9C1"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 230693,
       "name": "He Venido a Pedirte Perd\u00f3n",
       "url": "https://open.spotify.com/track/7ebni0Sdf9dV2xzsQMSg7I"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "En Vivo Desde El R\u00edo Nilo",
+        "url": "https://open.spotify.com/album/0scZRkf8k4yVXsb13tU3pt"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 163133,
+      "name": "Te Sigo Amando - En Vivo",
+      "url": "https://open.spotify.com/track/6wYjK1VnoNKRszV9YFTC0D"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -603,18 +603,18 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Me Gustas Mucho",
-        "url": "https://open.spotify.com/album/6xaWBpwLosRZ89dL5JXJeM"
+        "name": "Mi Tributo a Juan Gabriel",
+        "url": "https://open.spotify.com/album/1ZM8dXmYIl3fQ97HDzf9C1"
       },
       "artists": [
         {
-          "name": "Lucero",
-          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
         }
       ],
-      "duration_ms": 169200,
-      "name": "Me Gustas Mucho",
-      "url": "https://open.spotify.com/track/2SiqNX6CoQ2l8nwmxVJtzV"
+      "duration_ms": 431533,
+      "name": "Medley: Caray / Esta Noche Voy a Verla / Juntos",
+      "url": "https://open.spotify.com/track/0lyyfkIsFODWphGaSs2DFQ"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -635,18 +635,18 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Juan Gabriel y Lo Mas Romantico De",
-        "url": "https://open.spotify.com/album/2nC10KHMdLet5RLY2FRN4v"
+        "name": "Me Gustas Mucho",
+        "url": "https://open.spotify.com/album/6xaWBpwLosRZ89dL5JXJeM"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "Lucero",
+          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
         }
       ],
-      "duration_ms": 179400,
-      "name": "Te Lo Pido por Favor",
-      "url": "https://open.spotify.com/track/55kXjMfJUBYt4GahHegcUG"
+      "duration_ms": 169200,
+      "name": "Me Gustas Mucho",
+      "url": "https://open.spotify.com/track/2SiqNX6CoQ2l8nwmxVJtzV"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -699,18 +699,18 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Mi Tributo a Juan Gabriel",
-        "url": "https://open.spotify.com/album/1ZM8dXmYIl3fQ97HDzf9C1"
+        "name": "Juan Gabriel y Lo Mas Romantico De",
+        "url": "https://open.spotify.com/album/2nC10KHMdLet5RLY2FRN4v"
       },
       "artists": [
         {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 431533,
-      "name": "Medley: Caray / Esta Noche Voy a Verla / Juntos",
-      "url": "https://open.spotify.com/track/0lyyfkIsFODWphGaSs2DFQ"
+      "duration_ms": 179400,
+      "name": "Te Lo Pido por Favor",
+      "url": "https://open.spotify.com/track/55kXjMfJUBYt4GahHegcUG"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -743,6 +743,22 @@
       "duration_ms": 159493,
       "name": "Ya Lo Pasado Pasado (En Vivo) - En el Palacio de Bellas Artes",
       "url": "https://open.spotify.com/track/7bAZfbX3ElF6b3deYNBKlF"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "Mi Tributo a Juan Gabriel",
+        "url": "https://open.spotify.com/album/1ZM8dXmYIl3fQ97HDzf9C1"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 284306,
+      "name": "Con Tu Amor",
+      "url": "https://open.spotify.com/track/0t1JM3dU361khOLMA0URZB"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -795,22 +811,6 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Juan Gabriel y Lo Mas Romantico De",
-        "url": "https://open.spotify.com/album/2nC10KHMdLet5RLY2FRN4v"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 150100,
-      "name": "Si Quieres Verme Llorar",
-      "url": "https://open.spotify.com/track/54fKo3mRZqO1nriQ8j3sqr"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
         "name": "Juan Gabriel - 40 Aniversario",
         "url": "https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah"
       },
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Mi Tributo a Juan Gabriel",
-        "url": "https://open.spotify.com/album/1ZM8dXmYIl3fQ97HDzf9C1"
+        "name": "Juan Gabriel y Lo Mas Romantico De",
+        "url": "https://open.spotify.com/album/2nC10KHMdLet5RLY2FRN4v"
       },
       "artists": [
         {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 284306,
-      "name": "Con Tu Amor",
-      "url": "https://open.spotify.com/track/0t1JM3dU361khOLMA0URZB"
+      "duration_ms": 150100,
+      "name": "Si Quieres Verme Llorar",
+      "url": "https://open.spotify.com/track/54fKo3mRZqO1nriQ8j3sqr"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
+        "name": "Juan Gabriel, el Divo y Sus Divas",
+        "url": "https://open.spotify.com/album/3xCWhY4rgMsS2eLBajXuid"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 194760,
+      "name": "No Tengo Dinero",
+      "url": "https://open.spotify.com/track/2F4LFkeiKg5OLvohNkBN5D"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
         "name": "El Noa Noa",
         "url": "https://open.spotify.com/album/5s0gfLof0X7EZcRGCmKOVp"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 219426,
       "name": "El Noa Noa",
       "url": "https://open.spotify.com/track/6zK5tOGHpOmkYwf28ur9oU"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
-        "name": "Juan Gabriel, el Divo y Sus Divas",
-        "url": "https://open.spotify.com/album/3xCWhY4rgMsS2eLBajXuid"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 194760,
-      "name": "No Tengo Dinero",
-      "url": "https://open.spotify.com/track/2F4LFkeiKg5OLvohNkBN5D"
     },
     {
       "added_at": "2023-05-05 18:26:22",

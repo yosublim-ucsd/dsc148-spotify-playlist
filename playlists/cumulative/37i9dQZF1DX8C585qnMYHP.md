@@ -4,7 +4,7 @@
 
 > The best new music by Experimental independent artists and labels\. LI YILEI  cover\. Artwork by Thami Nabil
 
-1,694 songs - 5 day 15 hr 20 min
+1,696 songs - 5 day 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [al8](https://open.spotify.com/track/551kEgRlD41qyCNXvNWgQ0) | [MON/KU](https://open.spotify.com/artist/4SpTEmOFzoqGQYI53t13Df) | [MOMOKO blooms in 1.26D](https://open.spotify.com/album/0EsiR4QsUoThy4LCFRE4gg) | 5:40 | 2023-04-05 | 2023-07-19 |
 | [Alborada do alén](https://open.spotify.com/track/5vxqhMfBHfKy4uOMnlGgsy) | [Moura](https://open.spotify.com/artist/0gUTcqiogophrLtO9UNPYW), [Elena Vázquez](https://open.spotify.com/artist/1wE27L8WdKipJoDTpqL8NB) | [Axexan, espreitan](https://open.spotify.com/album/7ESdKLT2LfrMzBF5tUzzbK) | 3:06 | 2022-06-08 | 2022-08-04 |
 | [Alcyone](https://open.spotify.com/track/4krxkDBSFWRhvogjeVgN6Q) | [AINO](https://open.spotify.com/artist/7vU8gqDFkKNP0hYtLERGiu) | [Pleiades](https://open.spotify.com/album/3020KpkLo9yLDjngEMEMIi) | 8:28 | 2023-07-18 | 2024-01-11 |
+| [Algor Mortis](https://open.spotify.com/track/5m9aliUs9oOoUlII8rbv6U) | [Arhkota](https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ), [Lubna Maher](https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb), [Frida Vasquez de la Sota](https://open.spotify.com/artist/39SpwjdckK2WcdQZ7ByzZO) | [Benti](https://open.spotify.com/album/5n7fPX5kqDYOI5LUo2aq0l) | 3:54 | 2024-05-01 |  |
 | [Alien 3](https://open.spotify.com/track/0p1mXyTLG962tEKo6g5NBb) | [Mandy, Indiana](https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u) | [Alien 3](https://open.spotify.com/album/1oiHh5cTcLLZBbYXa2Oht8) | 6:17 | 2021-02-26 | 2021-02-27 |
 | [Alien Farmer](https://open.spotify.com/track/383StcK6uDHtzkVUFfogqf) | [alice does computer music](https://open.spotify.com/artist/2rqLxilEsPgtee23MzJHPR) | [Shoegaze 5G](https://open.spotify.com/album/2dhQlDl7K30O6qoVXAaIlY) | 2:36 | 2023-08-16 | 2023-10-19 |
 | [All I Do Is Lust](https://open.spotify.com/track/5GMGCdHkGaU91Ha2GpS5mD) | [Heather Leigh](https://open.spotify.com/artist/6hbrLZHacHcXTeJ8wWqBQp) | [Glory Days](https://open.spotify.com/album/4TRBB7APnDw6tQDPf6J1RW) | 2:21 | 2021-01-21 | 2021-02-28 |
@@ -1112,7 +1113,7 @@
 | [Prelude](https://open.spotify.com/track/4No0agrt2GaZ2Q1kEyrs76) | [Henry Carlyle](https://open.spotify.com/artist/7tk321sYcT5PEH3044fdVv) | [I Float](https://open.spotify.com/album/7EXDMrAW7bVSSO2pz6UAym) | 3:06 | 2023-03-15 | 2023-04-13 |
 | [Pressure](https://open.spotify.com/track/1m4VTEIOiIMEeidzm9z4Zt) | [58918012](https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus) | [Lost Album](https://open.spotify.com/album/3dQUZig6JH9AP8kj96lpNv) | 9:36 | 2021-06-04 | 2021-08-05 |
 | [Prithee](https://open.spotify.com/track/5WwKfaTLFUsVyskww7NYcB) | [Louise Bock](https://open.spotify.com/artist/6XxCAYpTFwc5Nje9moTmVn) | [Sketch for WinterVII \- Abyss: For Cello](https://open.spotify.com/album/3ZTTkaDD4BeNLjtgIWfaTE) | 6:35 | 2020-10-30\* | 2021-01-15 |
-| [Processional](https://open.spotify.com/track/3leOjmmcUGrjEwpkxVQn3R) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Are You There God? It’s Me, @](https://open.spotify.com/album/3yH4aVY5yxzxaijksQOOJk) | 3:14 | 2024-03-06 |  |
+| [Processional](https://open.spotify.com/track/3leOjmmcUGrjEwpkxVQn3R) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Are You There God? It’s Me, @](https://open.spotify.com/album/3yH4aVY5yxzxaijksQOOJk) | 3:14 | 2024-03-06 | 2024-05-02 |
 | [Processional](https://open.spotify.com/track/4M8Wki6etujAJFSRau8OWC) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Are You There God? It’s Me, @](https://open.spotify.com/album/6hPdOR9ap5zByvKiKV6XRp) | 3:14 | 2024-03-06 |  |
 | [Promises](https://open.spotify.com/track/7jbt4qgjVkr1mdGEjXnPHM) | [Sunareht](https://open.spotify.com/artist/4E2w3DKsTpmnbxLApe9p5O), [Le Dom](https://open.spotify.com/artist/4XAj4OqOBRYiYqeliUTS8P) | [Promises](https://open.spotify.com/album/7y6QonZa3omz4lgMqLwOON) | 3:46 | 2024-01-10 |  |
 | [Prostheses](https://open.spotify.com/track/2G3o08KHMTvNRjaMh7vDdQ) | [Baal & Mortimer](https://open.spotify.com/artist/7a8Hpo0Wwq02QVqqcWe23d) | [Deixis](https://open.spotify.com/album/2WUCcVLZ6Jaw0nx5mksrrG) | 2:51 | 2020-10-30\* | 2021-01-15 |
@@ -1125,7 +1126,7 @@
 | [Qatidiq](https://open.spotify.com/track/0dWw6EOCJSuMIMKfab6POv) | [\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|](https://open.spotify.com/artist/2i9OpWjVeuDPilnZ0mgM1L) | [Qatidiq](https://open.spotify.com/album/4joQGA8INvAg2UPH88sBvY) | 4:12 | 2021-04-15 | 2021-06-18 |
 | [Quadra](https://open.spotify.com/track/57sCAykHpKeAidVax6lyXg) | [Will August Park](https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf) | [Middle Life](https://open.spotify.com/album/3iFls0guteswZXMy1HmNRo) | 3:22 | 2021-08-12 | 2022-01-20 |
 | [Quakenbrück \- version](https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu) | [Bitchin Bajas](https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I) | [QUAKENBRÜCK \[Version\]](https://open.spotify.com/album/6LkHBWg8yy3FUH0cA88Tn7) | 4:39 | 2022-03-30 | 2024-01-11 |
-| [Quiero Ser Sexy \- zpectrum Remix](https://open.spotify.com/track/5q9qM0TFg3LIPrTlABApZO) | [SoFTT](https://open.spotify.com/artist/2gpYstJ2WNS3mNwzuyPOB2), [zpectrum](https://open.spotify.com/artist/0sZKl4bfwAsv7l0zcuqWnp) | [Quiero Ser Sexy \(zpectrum Remix\)](https://open.spotify.com/album/2isQc3qviqIbL0ZV30odHX) | 5:18 | 2024-04-03 |  |
+| [Quiero Ser Sexy \- zpectrum Remix](https://open.spotify.com/track/5q9qM0TFg3LIPrTlABApZO) | [SoFTT](https://open.spotify.com/artist/2gpYstJ2WNS3mNwzuyPOB2), [zpectrum](https://open.spotify.com/artist/0sZKl4bfwAsv7l0zcuqWnp) | [Quiero Ser Sexy \(zpectrum Remix\)](https://open.spotify.com/album/2isQc3qviqIbL0ZV30odHX) | 5:18 | 2024-04-03 | 2024-05-02 |
 | [Quoios](https://open.spotify.com/track/4y8gzDsw2Qx9XtP9q6glkt) | [Slikback](https://open.spotify.com/artist/0NwRAG9DawUqqgur9925fA) | [Quoios](https://open.spotify.com/album/3oDEH2fdmbF4dH37SdEsgg) | 3:38 | 2021-05-21 | 2021-07-29 |
 | [R\_NICEGUYS](https://open.spotify.com/track/3w2LZUKZaZkpZz52dyICyJ) | [HØST](https://open.spotify.com/artist/3kBjr6g7vth9Ak4ZxEdyXN) | [R\_NICEGUYS](https://open.spotify.com/album/3uPnVWcOnU39RXM3xcEr6V) | 3:40 | 2022-09-14 | 2022-09-22 |
 | [Race Against Time](https://open.spotify.com/track/4dhcHdzjgfRqnBcuXZBI3m) | [Life'S Track](https://open.spotify.com/artist/5EjwJwdW7mzwncDIQKyk9N) | [Race Against Time](https://open.spotify.com/album/57mratemnWGj4vrURWVPeo) | 6:00 | 2020-10-30\* | 2021-01-15 |
@@ -1454,6 +1455,7 @@
 | [There Is So Much Left To Find!](https://open.spotify.com/track/1woL2xufPJSJRBih0xEKcl) | [Parasol](https://open.spotify.com/artist/3tywWXsWJSKYn89uZbqaYw) | [There Is So Much Left To Find!](https://open.spotify.com/album/5B4uEg6QahQdAsUWsRLXly) | 3:17 | 2022-01-19 | 2022-03-21 |
 | [There's Nothing Left 2 Make U Stay](https://open.spotify.com/track/2HAGLGli9HjV6Ds9Jbam5J) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [There's Nothing Left 2 Make U Stay](https://open.spotify.com/album/4nsKuyeJwIRmhlt2WxggLI) | 1:54 | 2020-11-20 | 2021-01-15 |
 | [These Are Heavy Things](https://open.spotify.com/track/4pupPSHAUxLmgN0s2hiEAj) | [Low Altitude](https://open.spotify.com/artist/0e8l4k008v3EwUopLVq2hq) | [Waves](https://open.spotify.com/album/0LY7LfnH8SE6f1hOVwTKNf) | 3:36 | 2022-03-30 | 2022-06-08 |
+| [thieves](https://open.spotify.com/track/34ZXYNErf3WC4tgO0PAnUx) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [thieves](https://open.spotify.com/album/0Xs1Xc5yUxPlYFOKyJ0UV7) | 2:58 | 2024-05-01 |  |
 | [thing about a boy](https://open.spotify.com/track/1aOmzJa2WQndveXvOedH36) | [Oyatan](https://open.spotify.com/artist/6aQQEOm7P00EQEIt8b13om), [Manta](https://open.spotify.com/artist/3cjopyEw6LDKNzySlKlC4L) | [Wouldn’t It Be Easy?](https://open.spotify.com/album/5lSRQqXZTgiK1kYqXSOs9t) | 2:29 | 2023-08-30 | 2023-10-19 |
 | [This Continuous Spectrum](https://open.spotify.com/track/1FsbjSt2No83JReQ6wKk9l) | [Jessica Moss](https://open.spotify.com/artist/0mXuTfa0qloI8dL4G41V5n) | [Galaxy Heart](https://open.spotify.com/album/2ukv6orp6lcGR52Nw9OVsW) | 3:32 | 2022-10-05 | 2022-11-10 |
 | [This Shame Should Not Be Mine](https://open.spotify.com/track/5U7mdyOJpqtc9G3ViWq3jz) | [GGGOLDDD](https://open.spotify.com/artist/6ggf9cwxdhYNLFPhf4CazJ) | [This Shame Should Not Be Mine](https://open.spotify.com/album/2FSmKCoj9A6Pa28gacTaQt) | 3:57 | 2022-03-30 | 2022-06-30 |

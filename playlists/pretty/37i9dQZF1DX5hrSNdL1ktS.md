@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 El Malilla en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,772 likes - 100 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,378 likes - 100 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 48 | [Escopeta](https://open.spotify.com/track/4WH7YQluvR1YSHlkdmiDQB) | [Alnz G](https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf) | [Escopeta](https://open.spotify.com/album/7vlsFMkdqFtmvFz0dL9Enc) | 2:19 |
 | 49 | [Combiaton](https://open.spotify.com/track/1h3It2uHrJAShvEzTRjP70) | [Dj Drewther](https://open.spotify.com/artist/2k0GqjU0ypOK1ishkR8Ppx), [Casper Mx](https://open.spotify.com/artist/0QjuV8gi45r33s5vwgIyIn) | [Combiaton](https://open.spotify.com/album/1q3zeAg3m4ccvrAhZz7mqt) | 2:19 |
 | 50 | [Brattiputy](https://open.spotify.com/track/4NRvhgXpBfLCPjdDbZHjp7) | [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [Jey F](https://open.spotify.com/artist/72JO7MqhlJuMCwkx4w8Afr), [El Gudi](https://open.spotify.com/artist/4bBHOk8nEyfPGCZsDEEZsB), [Alan Dazmel](https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm), [Oviña](https://open.spotify.com/artist/3cJuFQQKreRtCtbQZ83Sam) | [Brattiputy](https://open.spotify.com/album/2jmAx9Pl6bp05KnJvBNV1f) | 3:50 |
-| 51 | [Puca](https://open.spotify.com/track/1Hz556DMMqFV43gLBv0BaL) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR), [DIJIMM](https://open.spotify.com/artist/5c72pW2K8J8LDaNerAdUbH) | [Puca](https://open.spotify.com/album/4qPrZWMaDvMIvdCqUql1sp) | 3:01 |
+| 51 | [Puca](https://open.spotify.com/track/1Hz556DMMqFV43gLBv0BaL) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Puca](https://open.spotify.com/album/4qPrZWMaDvMIvdCqUql1sp) | 3:01 |
 | 52 | [Ñero Session 9](https://open.spotify.com/track/25436Um1IRszqdgUJhbeEp) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [Ñero Session 9](https://open.spotify.com/album/3TSe0oswvNGwkq9N0qUt0L) | 2:31 |
 | 53 | [Espantan \- Remix](https://open.spotify.com/track/2EocM6oTLy6WUBTCipObqj) | [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Alnz G](https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf), [Tensec](https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ) | [Espantan \(Remix\)](https://open.spotify.com/album/0JRUGOfvqo7A2l6NYPnjY5) | 3:38 |
 | 54 | [Lopa Lopa](https://open.spotify.com/track/3wN2LYSmcj80zzXkHfbmTd) | [Jencko el Shinobi](https://open.spotify.com/artist/0AiOQ82ODy99sd6kJ15Cmf), [Alnz G](https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf), [Tensec](https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB) | [Lopa Lopa](https://open.spotify.com/album/3sZWtxmRdPNyd15r7XyoI8) | 2:22 |

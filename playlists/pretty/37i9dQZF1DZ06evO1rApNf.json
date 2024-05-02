@@ -1,12 +1,12 @@
 {
-  "description": "This is Mau y Ricky. The essential tracks, all in one playlist.",
-  "num_followers": 124018,
+  "description": "This Is Mau y Ricky. Los temas esenciales, todos en una lista.",
+  "num_followers": 124024,
   "original_name": "This Is Mau y Ricky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zi7jAAAAAAAA3uTfR/8EKfhvq8MU7pw7",
+  "snapshot_id": "ZjA0gAAAAABzyRUNGSmr8DrrOECdmfhP",
   "tracks": [
     {
       "added_at": null,
@@ -303,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vas a Destrozarme (Versi\u00f3n Eden Mu\u00f1oz)",
-        "url": "https://open.spotify.com/album/1Beic6eSv6o8vl2UxU0WZo"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 177654,
-      "name": "Vas a Destrozarme - Versi\u00f3n Eden Mu\u00f1oz",
-      "url": "https://open.spotify.com/track/7IwfGFVmoBYKODOqGqKN3r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sigo Buscandote",
         "url": "https://open.spotify.com/album/791xP0ZKGxYQtZo5CbUOXM"
       },
@@ -359,6 +339,22 @@
       "duration_ms": 200960,
       "name": "Recuerdo",
       "url": "https://open.spotify.com/track/5cgXYVjt3tEaM8l3wZiSiV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vas a Destrozarme",
+        "url": "https://open.spotify.com/album/62SCTCXiiOVJWw7oxCoa4E"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 174480,
+      "name": "Vas a Destrozarme",
+      "url": "https://open.spotify.com/track/0T58JhPBoafZ05W1rIYSKP"
     },
     {
       "added_at": null,

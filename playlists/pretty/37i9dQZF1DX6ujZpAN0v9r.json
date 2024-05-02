@@ -1,6 +1,6 @@
 {
   "description": "The essential beautiful noise: sweet and sour fuzz to warm your heart. Slowdive on cover",
-  "num_followers": 600619,
+  "num_followers": 600824,
   "original_name": "Shoegaze Classics",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Pure Mood",
-        "url": "https://open.spotify.com/album/6nbPtKlhPst5q52OuVgPhb"
-      },
-      "artists": [
-        {
-          "name": "Ringo Deathstarr",
-          "url": "https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg"
-        }
-      ],
-      "duration_ms": 259957,
-      "name": "Stare at the Sun",
-      "url": "https://open.spotify.com/track/5pvmhSKAEGovYtUQW8xqJp"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Whirlpool (Expanded Edition)",
         "url": "https://open.spotify.com/album/5Sc59oKieHPFvruoxBgmSp"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 253000,
       "name": "Guilt",
       "url": "https://open.spotify.com/track/21v5LW9SrY0dEbU0CicuHk"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Pure Mood",
+        "url": "https://open.spotify.com/album/6nbPtKlhPst5q52OuVgPhb"
+      },
+      "artists": [
+        {
+          "name": "Ringo Deathstarr",
+          "url": "https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg"
+        }
+      ],
+      "duration_ms": 259957,
+      "name": "Stare at the Sun",
+      "url": "https://open.spotify.com/track/5pvmhSKAEGovYtUQW8xqJp"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1105,22 +1105,6 @@
       "url": "https://open.spotify.com/track/0ZNj4TIIcZwrAI1l7GgZMT"
     },
     {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Blue Line Baby",
-        "url": "https://open.spotify.com/album/7kHUFjQmaulpVgXQWTQFmj"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 270853,
-      "name": "Blue Line Baby",
-      "url": "https://open.spotify.com/track/24pzZtbPLW1bv6IF8WHl5U"
-    },
-    {
       "added_at": "2023-07-17 18:59:20",
       "album": {
         "name": "Still In A Dream: A Story Of Shoegaze 1988-1995",
@@ -1135,6 +1119,22 @@
       "duration_ms": 221853,
       "name": "Square Wave",
       "url": "https://open.spotify.com/track/2clQfhmmnq7jUBWjloMGsW"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Blue Line Baby",
+        "url": "https://open.spotify.com/album/7kHUFjQmaulpVgXQWTQFmj"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 270853,
+      "name": "Blue Line Baby",
+      "url": "https://open.spotify.com/track/24pzZtbPLW1bv6IF8WHl5U"
     },
     {
       "added_at": "2021-06-03 02:39:04",

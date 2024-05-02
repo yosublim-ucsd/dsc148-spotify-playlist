@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > Your weekly rock update\. Cover: Dear Rouge
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,040 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,035 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 7 | [Dogs Of War](https://open.spotify.com/track/1AuwWGznBvI76jOF8cZ4E4) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dogs Of War](https://open.spotify.com/album/5vjqRLo7DxbwVwfiO0DpCz) | 4:04 |
 | 8 | [Backslide](https://open.spotify.com/track/62aSL7D64td5wr09L6iFiV) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Backslide](https://open.spotify.com/album/4bwNLICcbpG5VpFGG1J2pD) | 3:00 |
 | 9 | [Still Life](https://open.spotify.com/track/3Rmo63pS3ZAM03dJ9lVErM) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Miracle](https://open.spotify.com/album/7DkhdPN2rSpYG0tXqDljIh) | 3:44 |
-| 10 | [Crusade](https://open.spotify.com/track/5Cehdi33jkkJBcfyP7LTVj) | [The Anti\-Queens](https://open.spotify.com/artist/1CX0fdiDs9n9HSJs1PRSy3) | [Crusade](https://open.spotify.com/album/4SHTdvwHxhUV7wQZodOj8K) | 2:37 |
+| 10 | [Crusade](https://open.spotify.com/track/5Cehdi33jkkJBcfyP7LTVj) | [The Anti\-Queens](https://open.spotify.com/artist/1CX0fdiDs9n9HSJs1PRSy3), [Tracy A from Cross Dog](https://open.spotify.com/artist/5ghXYMJz9yLdHRnSkncEuv) | [Crusade](https://open.spotify.com/album/4SHTdvwHxhUV7wQZodOj8K) | 2:37 |
 | 11 | [Community Service](https://open.spotify.com/track/3hLhWdCESb8Npvhn3izAeC) | [Sham Family](https://open.spotify.com/artist/35pfnH3vn7DIc0hGC6JdcW) | [Community Service](https://open.spotify.com/album/3VDlI3NjjdqqKliEdWr9QP) | 3:34 |
 | 12 | [99](https://open.spotify.com/track/7DOazUUfiRn9Nq6jiCCIxX) | [SUCKERPUNCH!](https://open.spotify.com/artist/02tk2pnlF7dDfwMVhth4pp), [trxvis](https://open.spotify.com/artist/1ytozhc77a6qMKUxWTpprm) | [99](https://open.spotify.com/album/62vIo3Eoa6bDTxibXgUkzg) | 2:42 |
 | 13 | [Wormhole](https://open.spotify.com/track/43zhUXZKH2TTZtfVMKYvJV) | [Aversions](https://open.spotify.com/artist/65fB37pXWPMPJrNg1ZJOpR) | [Wormhole](https://open.spotify.com/album/19K2hDQkyG6zOmyBN6qqE3) | 4:58 |

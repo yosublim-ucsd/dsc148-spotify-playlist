@@ -1,12 +1,12 @@
 {
-  "description": "This is Kidz Bop Kids. The essential tracks, all in one playlist.",
-  "num_followers": 173176,
+  "description": "This Is Kidz Bop Kids. Los temas esenciales, todos en una lista.",
+  "num_followers": 173161,
   "original_name": "This Is Kidz Bop Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zi7jAAAAAADwmjgaPm99P9MmDdGCNLwp",
+  "snapshot_id": "ZjA0gAAAAADF8wZZdtUq0f/m55KWJGnW",
   "tracks": [
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 119788,
-      "name": "Mood",
-      "url": "https://open.spotify.com/track/788x9mdQZYIdw0sDZQn8St"
+      "duration_ms": 184956,
+      "name": "Levitating",
+      "url": "https://open.spotify.com/track/0jElcVB3zyu75HmlrbA8XE"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 166413,
-      "name": "Good 4 U",
-      "url": "https://open.spotify.com/track/2WiPuzLGu2LKOjYQ2SMLcf"
+      "duration_ms": 119788,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/788x9mdQZYIdw0sDZQn8St"
     },
     {
       "added_at": null,
@@ -363,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "KIDZ BOP 2022",
+        "url": "https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 166413,
+      "name": "Good 4 U",
+      "url": "https://open.spotify.com/track/2WiPuzLGu2LKOjYQ2SMLcf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "KIDZ BOP 40",
         "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 169746,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/0rzOBbw7Zg4yyN22wwJzvJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KIDZ BOP 2022",
-        "url": "https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 172158,
-      "name": "Bang!",
-      "url": "https://open.spotify.com/track/3lbzNC9c0ZAqwaZ4Yo5B6c"
     },
     {
       "added_at": null,
@@ -423,6 +423,22 @@
       "duration_ms": 146233,
       "name": "Kings & Queens",
       "url": "https://open.spotify.com/track/4wbEBmAhxOchkSdfltzavr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIDZ BOP 2022",
+        "url": "https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 172158,
+      "name": "Bang!",
+      "url": "https://open.spotify.com/track/3lbzNC9c0ZAqwaZ4Yo5B6c"
     },
     {
       "added_at": null,
@@ -507,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TOO MUCH",
-        "url": "https://open.spotify.com/album/22BHyOK36cLz85X5AbAoku"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 130848,
-      "name": "TOO MUCH",
-      "url": "https://open.spotify.com/track/5m9mT86dI2PKotZYjt9m98"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIDZ BOP 38",
         "url": "https://open.spotify.com/album/45kCF1eONbksVLaWkorZLF"
       },
@@ -535,6 +535,22 @@
       "duration_ms": 169000,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/02hItgiP8fFBLHCJ4fhhUy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TOO MUCH",
+        "url": "https://open.spotify.com/album/22BHyOK36cLz85X5AbAoku"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 130848,
+      "name": "TOO MUCH",
+      "url": "https://open.spotify.com/track/5m9mT86dI2PKotZYjt9m98"
     },
     {
       "added_at": null,
@@ -587,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "greedy",
-        "url": "https://open.spotify.com/album/1DeAVIlDfXSfpPjvUuKks4"
+        "name": "KIDZ BOP All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8"
       },
       "artists": [
         {
@@ -596,9 +612,9 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 129504,
-      "name": "greedy",
-      "url": "https://open.spotify.com/track/0iLxPWv05NhSpVJttYibEt"
+      "duration_ms": 206413,
+      "name": "Party In The USA - Redo Version",
+      "url": "https://open.spotify.com/track/5tvBQ9zlAxMzAt7GI7ik2n"
     },
     {
       "added_at": null,
@@ -615,6 +631,22 @@
       "duration_ms": 216888,
       "name": "Running Up That Hill",
       "url": "https://open.spotify.com/track/0hjkyfTOQQFxyRwaG3iyaU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "greedy",
+        "url": "https://open.spotify.com/album/1DeAVIlDfXSfpPjvUuKks4"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 129504,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/0iLxPWv05NhSpVJttYibEt"
     },
     {
       "added_at": null,
@@ -683,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/50bMFXY8AbOMdSXvfu9CAl"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 180630,
-      "name": "Stick Season",
-      "url": "https://open.spotify.com/track/3rnzQyGibuUqEJgVKL7lew"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't Start Now",
         "url": "https://open.spotify.com/album/54UHaOt4fxjAcL086ztENq"
       },
@@ -711,6 +727,22 @@
       "duration_ms": 184000,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/02CNxEPvl0KhM3a0DL6MS5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/50bMFXY8AbOMdSXvfu9CAl"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 180630,
+      "name": "Stick Season",
+      "url": "https://open.spotify.com/track/3rnzQyGibuUqEJgVKL7lew"
     },
     {
       "added_at": null,
@@ -731,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rain On Me",
-        "url": "https://open.spotify.com/album/3o7jSgGFBcmCDAB9Fh5UfV"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 184466,
-      "name": "Rain On Me",
-      "url": "https://open.spotify.com/track/2GcdfWGil49CTVzkOuvoNa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "yes, and?",
         "url": "https://open.spotify.com/album/1Tu30xev5rUpBZnFuKV4rR"
       },
@@ -759,6 +775,22 @@
       "duration_ms": 194581,
       "name": "yes, and?",
       "url": "https://open.spotify.com/track/2ExRKRMFnX4rsGxZSeJ4sD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rain On Me",
+        "url": "https://open.spotify.com/album/3o7jSgGFBcmCDAB9Fh5UfV"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 184466,
+      "name": "Rain On Me",
+      "url": "https://open.spotify.com/track/2GcdfWGil49CTVzkOuvoNa"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is ZZ Top. The essential tracks, all in one playlist.",
-  "num_followers": 239151,
+  "num_followers": 239211,
   "original_name": "This Is ZZ Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zi7jAAAAAABSyXlJPvG8UDhbDSCHbwCp",
+  "snapshot_id": "ZjA0gAAAAADfpl+jr3qYJsFoy6KvhNZ/",
   "tracks": [
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Futura (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3BS9MUmVKghsOa7Y3otqpE"
+        "name": "Deguello",
+        "url": "https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 177400,
-      "name": "Chartreuse",
-      "url": "https://open.spotify.com/track/6Q1zqRC5160b9hIlSaZndu"
+      "duration_ms": 288400,
+      "name": "Cheap Sunglasses",
+      "url": "https://open.spotify.com/track/2te8SC3btY8aSBtOLTQFie"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deguello",
-        "url": "https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ"
+        "name": "La Futura (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3BS9MUmVKghsOa7Y3otqpE"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 288400,
-      "name": "Cheap Sunglasses",
-      "url": "https://open.spotify.com/track/2te8SC3btY8aSBtOLTQFie"
+      "duration_ms": 177400,
+      "name": "Chartreuse",
+      "url": "https://open.spotify.com/track/6Q1zqRC5160b9hIlSaZndu"
     },
     {
       "added_at": null,
@@ -619,18 +619,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rhythmeen",
-        "url": "https://open.spotify.com/album/6KEVrQEdQexnQgwpHn1lDI"
+        "name": "Sixteen Tons (feat. Jeff Beck) [Live From London]",
+        "url": "https://open.spotify.com/album/65FLVEvkrT0X2wukXA20ge"
       },
       "artists": [
         {
           "name": "ZZ Top",
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        },
+        {
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
         }
       ],
-      "duration_ms": 296933,
-      "name": "She's Just Killing Me",
-      "url": "https://open.spotify.com/track/0ih7vuNB91mvoJ7D6raq0q"
+      "duration_ms": 197734,
+      "name": "Sixteen Tons (feat. Jeff Beck) - Live from London",
+      "url": "https://open.spotify.com/track/1lzngZJeLBOU5pcg663kiu"
     },
     {
       "added_at": null,
@@ -651,22 +655,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sixteen Tons (feat. Jeff Beck) [Live From London]",
-        "url": "https://open.spotify.com/album/65FLVEvkrT0X2wukXA20ge"
+        "name": "Rhythmeen",
+        "url": "https://open.spotify.com/album/6KEVrQEdQexnQgwpHn1lDI"
       },
       "artists": [
         {
           "name": "ZZ Top",
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        },
-        {
-          "name": "Jeff Beck",
-          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
         }
       ],
-      "duration_ms": 197734,
-      "name": "Sixteen Tons (feat. Jeff Beck) - Live from London",
-      "url": "https://open.spotify.com/track/1lzngZJeLBOU5pcg663kiu"
+      "duration_ms": 296933,
+      "name": "She's Just Killing Me",
+      "url": "https://open.spotify.com/track/0ih7vuNB91mvoJ7D6raq0q"
     },
     {
       "added_at": null,
@@ -735,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "RAW (\u2018That Little Ol' Band From Texas\u2019 Original Soundtrack)",
-        "url": "https://open.spotify.com/album/1ffoQmr9pU3NXGz15QwKZw"
+        "name": "ZZ Top's First Album",
+        "url": "https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 281586,
-      "name": "La Grange",
-      "url": "https://open.spotify.com/track/2YgjwTiG85B2tvqmdRNpba"
+      "duration_ms": 168653,
+      "name": "Squank",
+      "url": "https://open.spotify.com/track/2lyncEvIY8JHCZBN5PxEfb"
     },
     {
       "added_at": null,
@@ -767,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ZZ Top's First Album",
-        "url": "https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx"
+        "name": "RAW (\u2018That Little Ol' Band From Texas\u2019 Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1ffoQmr9pU3NXGz15QwKZw"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 168653,
-      "name": "Squank",
-      "url": "https://open.spotify.com/track/2lyncEvIY8JHCZBN5PxEfb"
+      "duration_ms": 281586,
+      "name": "La Grange",
+      "url": "https://open.spotify.com/track/2YgjwTiG85B2tvqmdRNpba"
     },
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tejas",
-        "url": "https://open.spotify.com/album/4orn4y9tLpEC0I3Mk5Y11K"
+        "name": "ZZ Top's First Album",
+        "url": "https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 209626,
-      "name": "Asleep in the Desert (Instrumental)",
-      "url": "https://open.spotify.com/track/4PCPSEEKOsqr7vhX19dExv"
+      "duration_ms": 207706,
+      "name": "Certified Blues",
+      "url": "https://open.spotify.com/track/2WecIwijceRnfYDxwUGJPK"
     }
   ],
   "unique_name": "This Is ZZ Top",

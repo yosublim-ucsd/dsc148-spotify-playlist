@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jnAPF7Iiqp.md) - [plain]
 
 > Running or raving? We've got a load of drum & bass to help with that!
 
-[Spotify](https://open.spotify.com/user/spotify) - 651,592 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 651,696 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jnAPF7Iiqp.md) - [plain]
 | 35 | [Pray For Me \(feat\. Joe Killington\)](https://open.spotify.com/track/3NvttPtSmUTY0EHZiF9fgs) | [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU), [Mefjus](https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj), [Joe Killington](https://open.spotify.com/artist/0QvtEuDIDAsKpfuOe2a237) | [Pray For Me \(feat\. Joe Killington\)](https://open.spotify.com/album/7hG2MhIyTEPSf5zZV3FaBW) | 4:05 |
 | 36 | [Good Morning \(feat\. Kojey Radical & Nile Rodgers\)](https://open.spotify.com/track/4L0T3usCoeUO85dJeuxbBf) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Good Morning \(feat\. Kojey Radical & Nile Rodgers\)](https://open.spotify.com/album/2uDherRYol1u5bCpwwyklG) | 2:53 |
 | 37 | [Breathe](https://open.spotify.com/track/69RnaDZLYLZq8ZFBExlvAl) | [Culture Shock](https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE) | [Breathe](https://open.spotify.com/album/3itZ3OkLhQwzwxvSwKBtOw) | 3:02 |
-| 38 | [Eyes on Fire](https://open.spotify.com/track/5yqfGzzZ3Qk6VIarH3R6D3) | [LEOWI](https://open.spotify.com/artist/1qoalO0xHFgZRn4JhRuq7Y), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ), [ECHO](https://open.spotify.com/artist/5Spgsyg6iHiNNu3Bqg32cI) | [Eyes on Fire](https://open.spotify.com/album/3xVljo5XeygaCFRzaCbdvn) | 2:25 |
-| 39 | [Stubborn](https://open.spotify.com/track/2mDwqmYCoKNQoqZkgnkJxv) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [IYAMAH](https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1) | [Stubborn](https://open.spotify.com/album/2KTdiiifLmx1WVnyVjP9aT) | 2:13 |
+| 38 | [Stubborn](https://open.spotify.com/track/2mDwqmYCoKNQoqZkgnkJxv) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [IYAMAH](https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1) | [Stubborn](https://open.spotify.com/album/2KTdiiifLmx1WVnyVjP9aT) | 2:13 |
+| 39 | [Eyes on Fire](https://open.spotify.com/track/5yqfGzzZ3Qk6VIarH3R6D3) | [LEOWI](https://open.spotify.com/artist/1qoalO0xHFgZRn4JhRuq7Y), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ), [ECHO](https://open.spotify.com/artist/5Spgsyg6iHiNNu3Bqg32cI) | [Eyes on Fire](https://open.spotify.com/album/3xVljo5XeygaCFRzaCbdvn) | 2:25 |
 | 40 | [Baddest](https://open.spotify.com/track/2W2vodjw341bqlgTNPx8mb) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Baddest](https://open.spotify.com/album/3FCkjCs6WETYazRGWU8F9c) | 3:43 |
 | 41 | [Feel Like That](https://open.spotify.com/track/2GlzL3MAoqg6sKFEC3tKFQ) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w) | [Feel Like That](https://open.spotify.com/album/3VrM26Y9zVHzAVHov5uzWE) | 2:39 |
 | 42 | [Mixed Emotions](https://open.spotify.com/track/0q6ppTEMn4KiqpHJbutH4V) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Mixed Emotions](https://open.spotify.com/album/1kTl2ygZj7mfXPSJwoVpaD) | 3:44 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jnAPF7Iiqp.md) - [plain]
 | 47 | [Loca](https://open.spotify.com/track/04ttAGx5UtdhWyhkiOa5Ls) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Loca](https://open.spotify.com/album/0WVC6CKv5i5Hh3OWqXlat8) | 2:14 |
 | 48 | [Galvanize](https://open.spotify.com/track/1do4bX9hOYyP53We3hzC9g) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg) | [Galvanize](https://open.spotify.com/album/3u2AACBpssZuJtCYW3MvhE) | 3:25 |
 | 49 | [Bad Gyalz](https://open.spotify.com/track/1sdfHsJC1KytSyhhGpZ2kv) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Bad Gyalz](https://open.spotify.com/album/0KgiN6gpmIFwjxSIJE3qrb) | 2:39 |
-| 50 | [Supersonic \- Basstripper Remix](https://open.spotify.com/track/0vMIb12OsAkLzYuuWixnka) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr), [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Supersonic \(Basstripper Remix\)](https://open.spotify.com/album/2QJuzV5qlzbQtFJhRRmgNG) | 3:44 |
+| 50 | [New Energy](https://open.spotify.com/track/7lg5Ub6z08aSDkPhhMbnGO) | [Matrix & Futurebound](https://open.spotify.com/artist/41iVQ05he8SrfIWbZQ58N7), [Blaine Stranger](https://open.spotify.com/artist/4ZKZR4BBx5EaP4T3slUd1j), [Tom Cane](https://open.spotify.com/artist/5iFDzfBI6aebgrb9ljJhme) | [New Energy](https://open.spotify.com/album/3i2C52xQrpGrhw9kudEXSF) | 3:35 |
 
 Snapshot ID: `Zg7OigAAAAD/37pBBN424GmCDfMdA6/F`

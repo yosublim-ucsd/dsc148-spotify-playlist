@@ -2,7 +2,7 @@
 
 ### [This Is Ziggy Marley](https://open.spotify.com/playlist/37i9dQZF1DZ06evO09XVCM)
 
-> This is Ziggy Marley\. The essential tracks, all in one playlist.
+> This Is Ziggy Marley\. Los temas esenciales, todos en una lista.
 
 59 songs - 3 hr 50 min
 

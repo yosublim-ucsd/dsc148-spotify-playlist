@@ -1,7 +1,7 @@
 {
-  "2024-05-01": 65488,
+  "2024-05-02": 65516,
   "date_first_scraped": "2023-11-11",
-  "description": "This is Belinda. The essential tracks, all in one playlist.",
+  "description": "This is: Belinda. Alle wichtigen Tracks in einer Playlist.",
   "name": "This Is Belinda",
   "tracks": [
     {
@@ -301,7 +301,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-30",
+      "date_removed": null,
       "duration_ms": 183381,
       "name": "Cactus",
       "url": "https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy"
@@ -1045,7 +1045,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 188280,
       "name": "Paso, Paso",
       "url": "https://open.spotify.com/track/0rUm6IbXJzwwenvxE72ntm"

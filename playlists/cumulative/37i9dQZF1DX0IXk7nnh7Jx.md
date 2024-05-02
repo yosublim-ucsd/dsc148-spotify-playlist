@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="spotify:artist:19TPpTWkgX13Qc2stbqVoP">Terrian</a>
 
-523 songs - 1 day 7 hr 2 min
+524 songs - 1 day 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Coming Back](https://open.spotify.com/track/2wNRIrTy0HPWNziz0S4qp4) | [John Jin Han](https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl) | [Coming Back](https://open.spotify.com/album/0ZMC35dN3tfvrgD19tA3mt) | 4:04 | 2023-03-16 |  |
 | [Communion](https://open.spotify.com/track/797iTBEDnnkVfhBPNC17af) | [Gable Price and Friends](https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp), [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [Fractioned Heart](https://open.spotify.com/album/4dPbUeI5mJoGjaUebBpIFL) | 4:58 | 2020-12-18 | 2023-02-19 |
 | [confession](https://open.spotify.com/track/5Qz5MH0tnp5Hu1WNc7ZC13) | [Allie Paige](https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl), [bamblume](https://open.spotify.com/artist/3ksErgBScGFWxtkUADzJPv) | [confession](https://open.spotify.com/album/0p4tXSrdjADZe81kIprf8i) | 3:21 | 2023-02-24 | 2023-04-09 |
-| [Conversations](https://open.spotify.com/track/2M346INkn9O8aiIjbvaeSe) | [Sansone](https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU) | [Conversations](https://open.spotify.com/album/1L6zwURHsBkNY1d5InJNjk) | 3:06 | 2024-01-26 |  |
+| [Conversations](https://open.spotify.com/track/2M346INkn9O8aiIjbvaeSe) | [Sansone](https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU) | [Conversations](https://open.spotify.com/album/1L6zwURHsBkNY1d5InJNjk) | 3:06 | 2024-01-26 | 2024-05-02 |
 | [Cover Me](https://open.spotify.com/track/0kgaxUdgR0wOgVxnpyllLY) | [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9) | [Kingdom Come](https://open.spotify.com/album/22NJqbQbKWrHhi3gyPZeeb) | 4:41 | 2023-02-24 | 2023-04-09 |
 | [Crane Lake](https://open.spotify.com/track/2NiXrSahkXwPb30oHDEo25) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Before Our Time](https://open.spotify.com/album/4Iapc5RLmgiXzUy9k44YBc) | 3:20 | 2020-12-18 | 2022-07-29 |
 | [Daffodil Floors](https://open.spotify.com/track/3FKs8DcaMPhltqeueu94GT) | [Mandi Mapes](https://open.spotify.com/artist/4VIZatfDlVCKdndcziajoA) | [Daffodil Floors](https://open.spotify.com/album/0wdAvZLNJMOBTSmjwUVspn) | 4:26 | 2023-02-19 | 2023-04-09 |
@@ -361,6 +361,7 @@
 | [Radiant Reason](https://open.spotify.com/track/7fkDrV2fvORVEiUkmWEi6R) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [Kings Kaleidoscope](https://open.spotify.com/album/7em1z6RFOEdURjAEuJE352) | 4:01 | 2023-08-11 |  |
 | [REASON](https://open.spotify.com/track/0KtITVpLZZGJyUxeJRYxzT) | [J Vessel](https://open.spotify.com/artist/2jWuaPjpJpIwXhWY6y0JQp) | [REASON](https://open.spotify.com/album/2QC30uOXwPkSpt2QyN4Kt0) | 3:13 | 2023-08-11 |  |
 | [Reciprocate](https://open.spotify.com/track/6CpRE5o5sXPajgPP6O1tjS) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [Songs from the Valley](https://open.spotify.com/album/1kv20nppb2CdJLMMQ8D7AN) | 3:17 | 2020-12-18 | 2023-02-19 |
+| [Redeemer](https://open.spotify.com/track/6oQfpfupIUkA37REnhJ3O6) | [Yahosh Bonner](https://open.spotify.com/artist/0S2PueVg0I0JvOtqP9ICIS) | [Redeemer](https://open.spotify.com/album/04MQoYfbB7Z2I3qBxL2fg1) | 4:32 | 2024-01-26 |  |
 | [Refuge](https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp) | [Grant Leslie](https://open.spotify.com/artist/0ROcoHoVwoXQe33cszx7A6) | [Refuge](https://open.spotify.com/album/2rPhIcGwjnoNlXRpM454LH) | 4:37 | 2020-12-18 | 2023-02-19 |
 | [Remedy](https://open.spotify.com/track/0hJZ9B9GpjIa7QT1AVWlOI) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a) | [Remedy](https://open.spotify.com/album/4u3rrpmyCCK5J5xKxgHGxl) | 2:04 | 2023-02-21 | 2023-04-09 |
 | [Remember This](https://open.spotify.com/track/02O2UvHTQuPdhGqhVgaucv) | [Justin Jarvis](https://open.spotify.com/artist/3ETXmapfkZXZWXBHvUl9xj) | [Remember This](https://open.spotify.com/album/0JhbHC4SI9YSrpecbTYndw) | 4:47 | 2020-12-18 | 2022-07-29 |

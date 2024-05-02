@@ -1,5 +1,5 @@
 {
-  "2024-05-01": 179899,
+  "2024-05-02": 179999,
   "date_first_scraped": "2022-04-20",
   "description": "Come alive with this progressive & melodic house selection.",
   "name": "Melodic & Euphoric",
@@ -337,6 +337,24 @@
       "duration_ms": 332146,
       "name": "Beyond Control",
       "url": "https://open.spotify.com/track/5pK2Elt8xOENwe8xAGfASw"
+    },
+    {
+      "album": {
+        "name": "Breathe Again",
+        "url": "https://open.spotify.com/album/3nqZYGzQjrJ9O0xahgUWAT"
+      },
+      "artists": [
+        {
+          "name": "Sam Wiseman",
+          "url": "https://open.spotify.com/artist/5bHmaSbFRcjgoZy7GWml47"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161818,
+      "name": "Breathe Again",
+      "url": "https://open.spotify.com/track/3YNQtS5pBv48TULWojiNXD"
     },
     {
       "album": {
@@ -1575,7 +1593,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 449149,
       "name": "L'ow\u00e8 L'ow\u00e8",
       "url": "https://open.spotify.com/track/2kvJDwV4Mfm2ItUUMmkzSx"

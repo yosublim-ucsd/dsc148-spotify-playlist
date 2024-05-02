@@ -2,7 +2,7 @@
 
 ### [This Is Raveena](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1kFZpD)
 
-> This is Raveena。アーティストの代表曲をひとつのプレイリストに。
+> This is Raveena\. Todos os maiores hits em uma só playlist.
 
 33 songs - 2 hr 2 min
 

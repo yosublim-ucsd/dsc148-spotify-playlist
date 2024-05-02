@@ -1,5 +1,5 @@
 {
-  "2024-05-01": 1013354,
+  "2024-05-02": 1013693,
   "date_first_scraped": "2022-02-25",
   "description": "New music from Black artists every Friday. Cover: <a href=\"spotify:artist:687cZJR45JO7jhk1LHIbgq\">Tems</a> ",
   "name": "This Is Frequency",
@@ -6867,6 +6867,24 @@
       "duration_ms": 150834,
       "name": "Black Punk",
       "url": "https://open.spotify.com/track/00mQ7YTqP92vZU4jW4Zdxh"
+    },
+    {
+      "album": {
+        "name": "Black Sheep +",
+        "url": "https://open.spotify.com/album/53oR2UVkw0JyoVQDNQWyof"
+      },
+      "artists": [
+        {
+          "name": "Cakes da Killa",
+          "url": "https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190941,
+      "name": "Black Sheep",
+      "url": "https://open.spotify.com/track/7jd8Ht6bN0zx5jOzwOQ8dx"
     },
     {
       "album": {
@@ -17487,6 +17505,24 @@
       "duration_ms": 249831,
       "name": "Ethiopia - Boddhi Satva Ancestral Soul Dub",
       "url": "https://open.spotify.com/track/7CKDVz4lP7qJz6M2y3ZlYU"
+    },
+    {
+      "album": {
+        "name": "euphoria",
+        "url": "https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383639,
+      "name": "euphoria",
+      "url": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q"
     },
     {
       "album": {
@@ -40507,7 +40543,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 170118,
       "name": "One Day",
       "url": "https://open.spotify.com/track/0w39hcmQv902JMN5ZL862C"
@@ -61025,7 +61061,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 165320,
       "name": "Where I Started From",
       "url": "https://open.spotify.com/track/2AJOWe9PCIhG3wg716Goii"

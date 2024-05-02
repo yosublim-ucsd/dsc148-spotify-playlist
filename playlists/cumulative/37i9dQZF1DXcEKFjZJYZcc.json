@@ -5261,6 +5261,24 @@
     },
     {
       "album": {
+        "name": "Wind In My Hair",
+        "url": "https://open.spotify.com/album/2voHslwBPDj7eM3WJmy9pJ"
+      },
+      "artists": [
+        {
+          "name": "Carl Moir",
+          "url": "https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125610,
+      "name": "Wind In My Hair",
+      "url": "https://open.spotify.com/track/4N82ErjM4xuWYsRfPBqACk"
+    },
+    {
+      "album": {
         "name": "Winter in Paris",
         "url": "https://open.spotify.com/album/41fefhQAFIJF80a6NAsuUe"
       },

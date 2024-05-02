@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 79950,
+  "num_followers": 79962,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
@@ -923,26 +923,6 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "SEGREDO VERS\u00c3O BH",
-        "url": "https://open.spotify.com/album/7Mkqs7f1Ut0cXuKUz3TKMs"
-      },
-      "artists": [
-        {
-          "name": "Dj Vr Silva",
-          "url": "https://open.spotify.com/artist/0IT4DLPp12S9xBzobzce1I"
-        },
-        {
-          "name": "Karui",
-          "url": "https://open.spotify.com/artist/6pJDaYMxmgvbKfRXFkAVYw"
-        }
-      ],
-      "duration_ms": 156922,
-      "name": "SEGREDO VERS\u00c3O BH",
-      "url": "https://open.spotify.com/track/7KJ3zD65Na61RsIcqfEfQr"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
         "name": "Sou Eu (Speed)",
         "url": "https://open.spotify.com/album/0ImQiX9qXLJPxNm70WS0F6"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 125270,
       "name": "Sou Eu - Speed",
       "url": "https://open.spotify.com/track/7oJz4UAl1txNYgzbJGIE3H"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
+        "name": "SEGREDO VERS\u00c3O BH",
+        "url": "https://open.spotify.com/album/7Mkqs7f1Ut0cXuKUz3TKMs"
+      },
+      "artists": [
+        {
+          "name": "Dj Vr Silva",
+          "url": "https://open.spotify.com/artist/0IT4DLPp12S9xBzobzce1I"
+        },
+        {
+          "name": "Karui",
+          "url": "https://open.spotify.com/artist/6pJDaYMxmgvbKfRXFkAVYw"
+        }
+      ],
+      "duration_ms": 156922,
+      "name": "SEGREDO VERS\u00c3O BH",
+      "url": "https://open.spotify.com/track/7KJ3zD65Na61RsIcqfEfQr"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -1151,22 +1151,18 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "Pe\u00e7a",
-        "url": "https://open.spotify.com/album/7E3g8qsgfOfCeLkipm0PSt"
+        "name": "Me Deixei Levar",
+        "url": "https://open.spotify.com/album/2Buy6we9bBklwZmo9nrNBc"
       },
       "artists": [
         {
-          "name": "soiff",
-          "url": "https://open.spotify.com/artist/1WDWki77tJepD82NpS4xIk"
-        },
-        {
-          "name": "uhENZX",
-          "url": "https://open.spotify.com/artist/52fAfxMuT0da9zgXHlixmz"
+          "name": "7Seven",
+          "url": "https://open.spotify.com/artist/2p5u1gM4gSvT7rM6zbjfV1"
         }
       ],
-      "duration_ms": 135418,
-      "name": "Pe\u00e7a - Speed",
-      "url": "https://open.spotify.com/track/5IpBsqWPLu7PEeT2nwc8gV"
+      "duration_ms": 96082,
+      "name": "Me Deixei Levar - Speed",
+      "url": "https://open.spotify.com/track/1R2tR76ixjc4upkRz5LDNh"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -1187,18 +1183,22 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "Me Deixei Levar",
-        "url": "https://open.spotify.com/album/2Buy6we9bBklwZmo9nrNBc"
+        "name": "Pe\u00e7a",
+        "url": "https://open.spotify.com/album/7E3g8qsgfOfCeLkipm0PSt"
       },
       "artists": [
         {
-          "name": "7Seven",
-          "url": "https://open.spotify.com/artist/2p5u1gM4gSvT7rM6zbjfV1"
+          "name": "soiff",
+          "url": "https://open.spotify.com/artist/1WDWki77tJepD82NpS4xIk"
+        },
+        {
+          "name": "uhENZX",
+          "url": "https://open.spotify.com/artist/52fAfxMuT0da9zgXHlixmz"
         }
       ],
-      "duration_ms": 96082,
-      "name": "Me Deixei Levar - Speed",
-      "url": "https://open.spotify.com/track/1R2tR76ixjc4upkRz5LDNh"
+      "duration_ms": 135418,
+      "name": "Pe\u00e7a - Speed",
+      "url": "https://open.spotify.com/track/5IpBsqWPLu7PEeT2nwc8gV"
     },
     {
       "added_at": "2023-12-27 14:18:14",

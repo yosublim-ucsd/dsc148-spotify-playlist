@@ -1,5 +1,5 @@
 {
-  "2024-05-01": 734170,
+  "2024-05-02": 734143,
   "date_first_scraped": "2022-10-06",
   "description": "The best NCS songs that are copyright free and safe music for gaming, live streaming, studying. Official playlist from NoCopyrightSounds. Cover: Don Diablo",
   "name": "NCS Releases",
@@ -207,7 +207,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 157500,
       "name": "AKTIV",
       "url": "https://open.spotify.com/track/1Ss0ujwVKBM2j6VrKtgj3W"
@@ -539,7 +539,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 180800,
       "name": "Ark",
       "url": "https://open.spotify.com/track/270aqOuRwQS2xfNc3cj5VA"
@@ -1433,7 +1433,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 221250,
       "name": "Calling For You",
       "url": "https://open.spotify.com/track/5AvbixdcGe6TOwfte5lB3A"
@@ -3131,7 +3131,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 140733,
       "name": "Everything I Got",
       "url": "https://open.spotify.com/track/2B0W32QOhCV21u5JHJym7y"
@@ -5086,6 +5086,24 @@
     },
     {
       "album": {
+        "name": "In Bonfires Green",
+        "url": "https://open.spotify.com/album/3zIWr5HZdX2G1JEmOCt9by"
+      },
+      "artists": [
+        {
+          "name": "Psylla",
+          "url": "https://open.spotify.com/artist/0glz26CRdAXpDqL31326C8"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212932,
+      "name": "In Bonfires Green",
+      "url": "https://open.spotify.com/track/0fBsWX8BBEibjZutjIKQpI"
+    },
+    {
+      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/4Mf0mMMSrcaZWoLvG5u0Rc"
       },
@@ -6975,7 +6993,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 212846,
       "name": "Now I'm Broken",
       "url": "https://open.spotify.com/track/4OLocUfu6pPMK6DMDkgD08"
@@ -7749,7 +7767,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 171627,
       "name": "Pick Up The Pieces",
       "url": "https://open.spotify.com/track/65iqcLmrli2xc7L84ylh4w"

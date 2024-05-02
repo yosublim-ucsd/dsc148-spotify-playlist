@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Seera band\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,758 likes - 51 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,946 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 48 | [Maneyama](https://open.spotify.com/track/3iqXIZ2kihfbHNfFJJYzI2) | [ReqTeq](https://open.spotify.com/artist/0F0tiuO58aU8k6KORsYrnv), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Maneyama](https://open.spotify.com/album/5f6gUbbRKSt16q6zJIWe9L) | 4:40 |
 | 49 | [Fakes](https://open.spotify.com/track/7nyeq7E5Jpv5cQ4QguS56T) | [SADEK](https://open.spotify.com/artist/6vg5qux1lfSkhZsx3c6wph) | [Fakes](https://open.spotify.com/album/1px0420jzqz1jzM71MU5Mc) | 3:28 |
 | 50 | [Banadi](https://open.spotify.com/track/3Vxvl8NrojI3EgMQYmtWFp) | [HIYA](https://open.spotify.com/artist/1FnryusWztu8TJm7fQqOg1) | [Banadi](https://open.spotify.com/album/6xXjDipYBxLRoHYePD3v8m) | 2:49 |
-| 51 | [Last Time That I Saw You](https://open.spotify.com/track/1hspuwdjIRtcmTi7QkC7fM) | [Abra Salem](https://open.spotify.com/artist/5FO7kzy6wVe7lGKOOGZ1y6) | [Last Time That I Saw You](https://open.spotify.com/album/58RWGR3hxvhVELh5hOpFrn) | 3:41 |
 
-Snapshot ID: `ZjFO7AAAAABt3aSHjeu72A7i5Fancxmn`
+Snapshot ID: `ZjHwVQAAAABz9Tc1658wOsk3Iuvdp2fK`

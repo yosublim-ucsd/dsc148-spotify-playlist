@@ -1,5 +1,5 @@
 {
-  "2024-05-01": 1,
+  "2024-05-02": 1,
   "date_first_scraped": "2023-02-09",
   "description": "",
   "name": "main ",
@@ -3189,6 +3189,24 @@
       "duration_ms": 179155,
       "name": "drugs_over_love",
       "url": "https://open.spotify.com/track/0Rp8IydDMk6iNIE3wV3ocb"
+    },
+    {
+      "album": {
+        "name": "Velocity: Design: Comfort.",
+        "url": "https://open.spotify.com/album/0eUUQ4rly8Q8PyJPWLgde2"
+      },
+      "artists": [
+        {
+          "name": "Sweet Trip",
+          "url": "https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191133,
+      "name": "Dsco",
+      "url": "https://open.spotify.com/track/1OKkG3vxEuBBwLw1gCqdNW"
     },
     {
       "album": {
@@ -6903,6 +6921,24 @@
       "duration_ms": 193106,
       "name": "Mic Line",
       "url": "https://open.spotify.com/track/0pu6JO1sPqW1TxE0nQC080"
+    },
+    {
+      "album": {
+        "name": "You Will Never Know Why (2021 Remaster)",
+        "url": "https://open.spotify.com/album/0kmPn6M3cue7rec6Unw6BD"
+      },
+      "artists": [
+        {
+          "name": "Sweet Trip",
+          "url": "https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265749,
+      "name": "Milk - 2021 Remaster",
+      "url": "https://open.spotify.com/track/7Jq4cV3F5puQfUAxL4sHL8"
     },
     {
       "album": {
@@ -10971,7 +11007,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 137768,
       "name": "Sydney Sweeney",
       "url": "https://open.spotify.com/track/4NE3atZAntDJAdReIar6bN"
@@ -12645,7 +12681,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 227620,
       "name": "Where we left Off",
       "url": "https://open.spotify.com/track/189jnLyHbPJKr5bp11qdDi"

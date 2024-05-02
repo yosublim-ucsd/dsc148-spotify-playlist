@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/6pr1lshIyJt1vFuhlsnEDS.md) - [plain]
 
 > <a>https://bit.ly/2WYLxJM </a>
 
-[Metodi Hristov](https://open.spotify.com/user/metodihristov) - 1,193 likes - 56 songs - 3 hr 59 min
+[Metodi Hristov](https://open.spotify.com/user/metodihristov) - 1,195 likes - 56 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Robot](https://open.spotify.com/track/1ozpkbaIyJ4lL2pUHbzTRW) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Robot](https://open.spotify.com/album/1qqb2o1QPUWO4mK2y5WV8A) | 3:25 |
+| 1 | [Roar](https://open.spotify.com/track/1FubT3w22RMHC3vreAL7cH) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Roar](https://open.spotify.com/album/0BPXNEhv63ppBbjcR47Xyp) | 5:55 |
 | 2 | [Bonafide \- Metodi Hristov Remix](https://open.spotify.com/track/6dTiQl2Amw6FOyMswCeiZO) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO), [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [Bonafide \(Metodi Hristov Remix\)](https://open.spotify.com/album/1jv047M2GaNKAI73hl1Zqg) | 3:42 |
 | 3 | [The Right Time](https://open.spotify.com/track/1ygl1hhDhUoLDeInUgySPn) | [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [The Right Time](https://open.spotify.com/album/50GqIBJiO21dYZHHV5ZZX7) | 3:35 |
-| 4 | [When I Push \- Edit](https://open.spotify.com/track/5poZz8srlh8P5XjKsHKXj7) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [When I Push \(Edit\)](https://open.spotify.com/album/1mvCo6lKqirk2mq56tiMRy) | 3:33 |
-| 5 | [You Are](https://open.spotify.com/track/3fS8JMnxqxDDMld1aMetAY) | [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [The Right Time](https://open.spotify.com/album/50GqIBJiO21dYZHHV5ZZX7) | 3:35 |
-| 6 | [New Generation \- Space 92 Remix](https://open.spotify.com/track/5R83UKYem3OpSmWCvE3Yax) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [New Generation \(Space 92 Remix\)](https://open.spotify.com/album/77RCWyzeOsqkIH0QFNdrjH) | 3:55 |
-| 7 | [Subliminal](https://open.spotify.com/track/5yw9xC9iNS018nMBzVVfFV) | [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1), [Anna Tur](https://open.spotify.com/artist/3AV9wkRe9dDJjE1vk6ZwdH) | [Subliminal](https://open.spotify.com/album/5inBpgjiF2lUUqk5HHgsMJ) | 3:42 |
-| 8 | [Roar](https://open.spotify.com/track/1FubT3w22RMHC3vreAL7cH) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Roar](https://open.spotify.com/album/0BPXNEhv63ppBbjcR47Xyp) | 5:55 |
+| 4 | [Robot](https://open.spotify.com/track/1ozpkbaIyJ4lL2pUHbzTRW) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Robot](https://open.spotify.com/album/1qqb2o1QPUWO4mK2y5WV8A) | 3:25 |
+| 5 | [When I Push \- Edit](https://open.spotify.com/track/5poZz8srlh8P5XjKsHKXj7) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [When I Push \(Edit\)](https://open.spotify.com/album/1mvCo6lKqirk2mq56tiMRy) | 3:33 |
+| 6 | [You Are](https://open.spotify.com/track/3fS8JMnxqxDDMld1aMetAY) | [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [The Right Time](https://open.spotify.com/album/50GqIBJiO21dYZHHV5ZZX7) | 3:35 |
+| 7 | [New Generation \- Space 92 Remix](https://open.spotify.com/track/5R83UKYem3OpSmWCvE3Yax) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [New Generation \(Space 92 Remix\)](https://open.spotify.com/album/77RCWyzeOsqkIH0QFNdrjH) | 3:55 |
+| 8 | [Subliminal](https://open.spotify.com/track/5yw9xC9iNS018nMBzVVfFV) | [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1), [Anna Tur](https://open.spotify.com/artist/3AV9wkRe9dDJjE1vk6ZwdH) | [Subliminal](https://open.spotify.com/album/5inBpgjiF2lUUqk5HHgsMJ) | 3:42 |
 | 9 | [PATT \(Party All The Time\) \- Adam Beyer, Layton Giordani & Green Velvet Remix](https://open.spotify.com/track/6DFHSmlrZLDZnXV5kTTMF6) | [Sharam](https://open.spotify.com/artist/7rVEQZBDtYmToQaYOQJCm2), [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [PATT \(Party All The Time\) \[Adam Beyer, Layton Giordani & Green Velvet Remix\]](https://open.spotify.com/album/5GqWIHTVjceZXGpzIc1a2J) | 3:03 |
 | 10 | [The Chosen](https://open.spotify.com/track/56IDx1YZczUBwoF1akoEd7) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [The Chosen](https://open.spotify.com/album/65grCGKrfvYxtWMyl66Jmo) | 4:13 |
 | 11 | [In My Dreams](https://open.spotify.com/track/0wxSwJfhXiph0NPFGEzqIy) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [In My Dreams](https://open.spotify.com/album/7mPn8nZRodInZ399Dd7ee4) | 3:35 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/6pr1lshIyJt1vFuhlsnEDS.md) - [plain]
 | 55 | [Black Triangles \(Metodi Hristov Remix\)](https://open.spotify.com/track/649rERDKx5gDY1wiWu3mlx) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5), [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [Black Triangles \(Metodi Hristov Remix\)](https://open.spotify.com/album/1nxRk5EwgQi6HsonJUL2gP) | 5:44 |
 | 56 | [This Is Why \- Radio Edit](https://open.spotify.com/track/03wdmJSjGOKyPjyDyi174l) | [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [Afraid of the Time](https://open.spotify.com/album/2YF493Mn9nfimBiveq5lZ5) | 4:36 |
 
-Snapshot ID: `AAAHhZNuXhYkGBlvg7XU0BzsNjIRaFGK`
+Snapshot ID: `AAAHh7f5BZlH5bbDJGyrnpLzbMxzSWuL`

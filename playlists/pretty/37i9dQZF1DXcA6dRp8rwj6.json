@@ -1,6 +1,6 @@
 {
   "description": "The hottest Hip-Hop of today all over the world. (Cover: Drake)",
-  "num_followers": 438325,
+  "num_followers": 438344,
   "original_name": "Beats & Rhymes",
   "owner": {
     "name": "Spotify",
@@ -556,12 +556,12 @@
       },
       "artists": [
         {
-          "name": "Sol ChYld",
-          "url": "https://open.spotify.com/artist/43NRWiAqxHBNVOUqmPFHMz"
-        },
-        {
           "name": "Nathanie",
           "url": "https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P"
+        },
+        {
+          "name": "Sol ChYld",
+          "url": "https://open.spotify.com/artist/43NRWiAqxHBNVOUqmPFHMz"
         }
       ],
       "duration_ms": 179104,

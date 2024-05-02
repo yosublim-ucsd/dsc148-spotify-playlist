@@ -2,7 +2,7 @@
 
 ### [This Is Alkaline Trio](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Df5sI)
 
-> This Is Alkaline Trio\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is Alkaline Trio\. The essential tracks, all in one playlist.
 
 111 songs - 5 hr 55 min
 

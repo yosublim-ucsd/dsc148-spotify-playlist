@@ -1,5 +1,5 @@
 {
-  "2024-05-01": 33413,
+  "2024-05-02": 33443,
   "date_first_scraped": "2023-03-30",
   "description": "Yo Hai Haryanvi Hip-Hop! Cover: Dhanda Nyoliwala",
   "name": "Hip-Hop Haryanvi",
@@ -79,6 +79,24 @@
       "duration_ms": 197375,
       "name": "24 Carat",
       "url": "https://open.spotify.com/track/6i7wtqo9gPCc0XMs6j1PF8"
+    },
+    {
+      "album": {
+        "name": "ON TOP",
+        "url": "https://open.spotify.com/album/6t6C4S2tWC8icUdNYIYHaC"
+      },
+      "artists": [
+        {
+          "name": "Jaggi",
+          "url": "https://open.spotify.com/artist/3xKm7gBOnRxMwTHucbePnJ"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115856,
+      "name": "24 Parche",
+      "url": "https://open.spotify.com/track/0AZJ1kTo2H9IbvBS3wNrRF"
     },
     {
       "album": {
@@ -553,7 +571,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 178400,
       "name": "Badnam Rahn De",
       "url": "https://open.spotify.com/track/3UbPkYdJ6JYyMhIrMOmOmX"
@@ -3988,6 +4006,32 @@
     },
     {
       "album": {
+        "name": "Saiyaan Ji",
+        "url": "https://open.spotify.com/album/3dXkflPMFhUZ2XtHO5yMS5"
+      },
+      "artists": [
+        {
+          "name": "Renuka Panwar",
+          "url": "https://open.spotify.com/artist/2wDTo0nO2ZKJN7VUeGmuyg"
+        },
+        {
+          "name": "Gahlyan Shaab",
+          "url": "https://open.spotify.com/artist/4z3TlWgciIpxnyBogoBmTF"
+        },
+        {
+          "name": "Khushi Verma",
+          "url": "https://open.spotify.com/artist/6VK3DHQtrpLI82AdK9fcwY"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142857,
+      "name": "Saiyaan Ji",
+      "url": "https://open.spotify.com/track/5wjtFrZ9Kekm2Ib96C9dIM"
+    },
+    {
+      "album": {
         "name": "Sajan Ji",
         "url": "https://open.spotify.com/album/3iaBNIPxe33bVQq4lSdNk8"
       },
@@ -4047,7 +4091,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 161320,
       "name": "Scorpio",
       "url": "https://open.spotify.com/track/3rXYmSlhnrbQRq6DmH63Zz"

@@ -1,5 +1,5 @@
 {
-  "2024-05-01": 38138,
+  "2024-05-02": 38136,
   "date_first_scraped": "2023-11-30",
   "description": "nothing but the stink of old moist carpet, the madness of mono-yellow, the endless background noise of fluorescent lights at maximum hum-buzz, and approximately six hundred million square miles of randomly segmented empty rooms to be trapped in",
   "name": "the backrooms",
@@ -1155,6 +1155,42 @@
       "duration_ms": 66266,
       "name": "Moon Age",
       "url": "https://open.spotify.com/track/3kY0UrW29gqCYmcI1dZLu6"
+    },
+    {
+      "album": {
+        "name": "myloveilove",
+        "url": "https://open.spotify.com/album/6y14NIgQfyw7hiIcjv3CHW"
+      },
+      "artists": [
+        {
+          "name": "Bogdan Raczynski",
+          "url": "https://open.spotify.com/artist/2bYCvT1nqpbbspU5DZG5nA"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109573,
+      "name": "myloveilove",
+      "url": "https://open.spotify.com/track/43mQOs2HsT3tCIcOLCZT6m"
+    },
+    {
+      "album": {
+        "name": "MyLoveILove",
+        "url": "https://open.spotify.com/album/4jFIqtkmFs5gRCKW3aNuit"
+      },
+      "artists": [
+        {
+          "name": "Bogdan Raczynski",
+          "url": "https://open.spotify.com/artist/2bYCvT1nqpbbspU5DZG5nA"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121026,
+      "name": "MyLoveILove",
+      "url": "https://open.spotify.com/track/5IpsQfU48SK621NrxWZ2p0"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 76,421 likes - 300 songs - 10 hr 44 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 76,416 likes - 300 songs - 10 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 | 68 | [Sap Green](https://open.spotify.com/track/7uaFkXXFrkRUFRXnhnsqnn) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Sling Dilly](https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9) | [Sap Green](https://open.spotify.com/album/7KZDCmPLTdS0z0TNBaUeDi) | 1:41 |
 | 69 | [Horizon](https://open.spotify.com/track/2TJgsH5EI1abX9Z7k8Ld2e) | [Acco](https://open.spotify.com/artist/3Zro0pGcmNIHBkm2pY0DW4) | [Horizon](https://open.spotify.com/album/5b3Qmtd9MlKk4mDEIxJIyM) | 2:10 |
 | 70 | [End of Day](https://open.spotify.com/track/6m0DOx89R24VpU4O2pyfE1) | [Sweeps](https://open.spotify.com/artist/1ZqVxe4j6KEwGA1WyJkw8t), [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q), [Flanør](https://open.spotify.com/artist/6ig96HpkSAXYvt69GBHYWl), [Strehlow](https://open.spotify.com/artist/1pUWzVmu8ACMnIAu9BsOHm) | [End of Day](https://open.spotify.com/album/0wo2J087E8qvvs7CeAJ79y) | 2:03 |
-| 71 | [Pass Me By](https://open.spotify.com/track/3KC1C9nuRmhYDp8GxHFJHi) | [Rosia!](https://open.spotify.com/artist/1CWzJQYVTc2Sdkz9Thq4Zu), [Gyûki](https://open.spotify.com/artist/0f1wG4nrFzA7sc92lDeItL) | [Scratch That](https://open.spotify.com/album/4kmNyLfxa5oDt05NPzBlPQ) | 2:11 |
+| 71 | [Pass Me By](https://open.spotify.com/track/3KC1C9nuRmhYDp8GxHFJHi) | [Rosia!](https://open.spotify.com/artist/1CWzJQYVTc2Sdkz9Thq4Zu), [Gyûki](https://open.spotify.com/artist/0f1wG4nrFzA7sc92lDeItL) | [Scratch That!](https://open.spotify.com/album/4kmNyLfxa5oDt05NPzBlPQ) | 2:11 |
 | 72 | [fresh taste](https://open.spotify.com/track/3WcKKirtoJ6Jh8fmyqjnkj) | [chill.exe](https://open.spotify.com/artist/34JrELkAIMQcrtVqaA2WQl) | [fresh taste](https://open.spotify.com/album/6xJlA1uT9QDdanxguygatE) | 2:13 |
 | 73 | [in every breath](https://open.spotify.com/track/41Cq3Fh3z5af19TiXKYsT4) | [Oh, My.](https://open.spotify.com/artist/1f5I28sZb2efjRLXO1jX0h) | [in every breath](https://open.spotify.com/album/0flcf0qx7VSZlJun6LBBhG) | 2:08 |
 | 74 | [The Path Of Ways](https://open.spotify.com/track/2bgkUDBKIAKhh0ELunIAyq) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi), [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q) | [The Path Of Ways](https://open.spotify.com/album/7G6fUFnzUsTSu0Z7nSRNKW) | 3:00 |

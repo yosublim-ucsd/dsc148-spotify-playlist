@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,306 songs - 2 day 23 hr 58 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,307 songs - 3 day 0 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1314,5 +1314,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1304 | [Hallucinate](https://open.spotify.com/track/5byappNwH0EEjPqmh6NMtU) | [Luminite](https://open.spotify.com/artist/56uBktjCLyONyLAgE7VBq1) | [Hallunicate](https://open.spotify.com/album/1AP57nFJb3dlPJSWWb17wN) | 2:20 |
 | 1305 | [Fighter](https://open.spotify.com/track/7IzOtrRXV2juIwMrxXrjPJ) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE) | [Fighter](https://open.spotify.com/album/3CI3INdJtK8htyC1zGgcaa) | 3:49 |
 | 1306 | [Lose Control](https://open.spotify.com/track/3qaGhSwwIkEBjcNzsAfkyw) | [Tomsky](https://open.spotify.com/artist/12NNDc1Q7rwbppTMf8UAif), [D.O.N](https://open.spotify.com/artist/42c4pJO8Opk39FSraBPUDC) | [Lose Control](https://open.spotify.com/album/3drQTkX4rK3SZ4cstDAmxs) | 3:03 |
+| 1307 | [Redlining](https://open.spotify.com/track/4PJXYVezQfxD6q2NdiV0yI) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2), [Weaver](https://open.spotify.com/artist/5VjIurP1GxiyS5A0yRHiyW) | [Redlining](https://open.spotify.com/album/50RtHvmzP6URhq1ynCr4eS) | 3:05 |
 
-Snapshot ID: `AAAFR3bgQE5Q7au5M8ZnODssL9IYDNXm`
+Snapshot ID: `AAAFSHoQ+nrmrTKhDtD8NLGzYQHzS78J`

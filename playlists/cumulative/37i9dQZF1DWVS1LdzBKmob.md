@@ -4,7 +4,7 @@
 
 > Crystal singing bowls, frequencies and gongs to lift you up and transcend.
 
-118 songs - 8 hr 26 min
+120 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Angelic Rays](https://open.spotify.com/track/4G4omzP32mLXToXpBvAuQR) | [Crystal Voices](https://open.spotify.com/artist/1jFFGDV4GwVwWres1suUPC) | [Sounds Of Light \- The Pure Tones Of Crystal Singing Bowls](https://open.spotify.com/album/0SNmay1Uzlo1mbp9OYUmj0) | 8:51 | 2022-01-06 | 2024-01-23 |
 | [Aura](https://open.spotify.com/track/5kv8YaBfm2SZQk8YRPjXy5) | [Spirit Garden](https://open.spotify.com/artist/21ADT1cKkGhiB070brX819) | [Aura Sound Bath](https://open.spotify.com/album/5aIwEEosN0woun4BzkMawo) | 3:06 | 2022-12-13 |  |
 | [Balance](https://open.spotify.com/track/4ssTYVGgSfy3Ri0ZZDfQVY) | [Aura Tones](https://open.spotify.com/artist/1CVsQlEnzZI4Xf8UecToZi) | [Balance](https://open.spotify.com/album/2er4p4jHPWafXpign0UCau) | 9:56 | 2022-01-06 | 2022-12-14 |
+| [Bathing in Sound Bowls](https://open.spotify.com/track/3nAaKu83XNXyd3QzZmIIJ5) | [Larrek](https://open.spotify.com/artist/6VFekblOut967g4jD8w46E) | [Bathing in Sound Bowls](https://open.spotify.com/album/3jF4K2BvsF0JNtcDqK5H1O) | 3:12 | 2024-05-01 |  |
 | [Be Well! Quartz Crystal Bowls for Brow, Throat & Heart Chakras](https://open.spotify.com/track/7K8naQAjxQ3HGqn6EPcOga) | [Phil Cory](https://open.spotify.com/artist/6VwEvHieOj07W7mIVdjnNi) | [Be Well! Quartz Crystal Bowls for Brow, Throat & Heart Chakras](https://open.spotify.com/album/3b2jyAktZMNpB1AgcnfMiM) | 9:11 | 2022-01-06 | 2024-01-23 |
 | [Bells And Bowls \(Sound Bath\)](https://open.spotify.com/track/1mdZ5UDRrnO90fYjcanj2Y) | [Tibetanian](https://open.spotify.com/artist/2w4slIer7XY7fDEehJLONJ) | [Tibetan Bowls](https://open.spotify.com/album/5BFMmN1aL37Zd8NMZWqSzs) | 2:44 | 2022-07-14 |  |
 | [Bodhisattva \(Sound Bath\)](https://open.spotify.com/track/1VpB6JKz3hN1sAZVLtgVie) | [Dakpa Nepali](https://open.spotify.com/artist/6ehZfyyber5F5KyAUtlYob) | [Dakpa Nepali](https://open.spotify.com/album/1ebhcZPcYlwJ7uQhIn3YvT) | 3:28 | 2022-07-14 |  |
@@ -101,6 +102,7 @@
 | [Soil](https://open.spotify.com/track/0dy1qrmvBmk1QOJHSHSJsA) | [Beyond Observable](https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq) | [Treetop Whisperer](https://open.spotify.com/album/0M8YvEoSYX5WXvk29XApUN) | 3:10 | 2023-04-06 | 2024-03-01 |
 | [Solar Plexus Chakra \(Manipura\) \- 3 Octaves E](https://open.spotify.com/track/163wIVMDQwvwLleCgvCTfJ) | [Yeshi Namdak](https://open.spotify.com/artist/1Q024x44ggYq9bvRsaRPri) | [7 Chakra Meditation with Tibetan Bowls](https://open.spotify.com/album/2c8pxiKmUpGVvIjEWChg9X) | 2:50 | 2022-01-06 |  |
 | [Sonic Massage \- Singing Bowl Only](https://open.spotify.com/track/6MBi5eimnlk2NWOqlfJuUC) | [Ben Scott](https://open.spotify.com/artist/6Wg54IsLeFHsxjRlhQnMXd) | [Tibetan Chakra Meditations](https://open.spotify.com/album/0gvC6ZI3rJ3G6r5fB6qjzb) | 2:49 | 2022-01-06 |  |
+| [Soul Elevation](https://open.spotify.com/track/5Pfn4dkyAIJoFz9ulqAkc5) | [Natura Relax](https://open.spotify.com/artist/084iu69ZxshixVfB7rcRg7), [Enchanted Sounds](https://open.spotify.com/artist/2c6l8ejTfqwvp2G2YAzq9M) | [Hang Drum Meditation](https://open.spotify.com/album/3cxLTdp6xaC6OG3iC16rZn) | 1:15 | 2024-05-01 |  |
 | [Soul in Harmony](https://open.spotify.com/track/31yC95ewyxC6HzeKtmt3go) | [Jasmine Soft](https://open.spotify.com/artist/1VK5l4RiFvFSypcRxg8a0l) | [Tam Tam Gong Bath: Pure Healing Meditation](https://open.spotify.com/album/6oF7GoyOelYXe2G7tykDZS) | 4:10 | 2022-01-06 | 2024-03-01 |
 | [Sound Bath Escape](https://open.spotify.com/track/6fOHkDRcx1Wm7Akrx4f3cp) | [The Tibetan Singing Bowls](https://open.spotify.com/artist/4gZYpXjnmCFu1Qzxz947v9) | [Sound Bath Escape](https://open.spotify.com/album/3rL8zuwDNsmKcOBCRgaXCb) | 2:24 | 2022-02-22 |  |
 | [Sound Bath with Gong](https://open.spotify.com/track/48Qgj3Paj34o0nKiULGcl5) | [Jasmine Soft](https://open.spotify.com/artist/1VK5l4RiFvFSypcRxg8a0l) | [Tam Tam Gong Bath: Pure Healing Meditation](https://open.spotify.com/album/6oF7GoyOelYXe2G7tykDZS) | 4:02 | 2022-01-06 | 2024-03-01 |

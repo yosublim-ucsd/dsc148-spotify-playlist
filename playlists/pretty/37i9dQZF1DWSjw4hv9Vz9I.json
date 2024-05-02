@@ -1,6 +1,6 @@
 {
   "description": "A neo-classic sound for the road. Cover: Thee Sacred Souls",
-  "num_followers": 133913,
+  "num_followers": 133954,
   "original_name": "Retro Road Trip",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "How Do You Do",
-        "url": "https://open.spotify.com/album/2AsTehQMH82xr6phI9c42V"
-      },
-      "artists": [
-        {
-          "name": "Mayer Hawthorne",
-          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
-        }
-      ],
-      "duration_ms": 218413,
-      "name": "The Walk",
-      "url": "https://open.spotify.com/track/7tBZa65xUKMMan9tIMPqbi"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
         "name": "Pocket Music",
         "url": "https://open.spotify.com/album/5Y7du83uUhCUXobupkRCjN"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 266704,
       "name": "San Francisco Street",
       "url": "https://open.spotify.com/track/5pjWzUc1tVcewUTdDJd6Ce"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "How Do You Do",
+        "url": "https://open.spotify.com/album/2AsTehQMH82xr6phI9c42V"
+      },
+      "artists": [
+        {
+          "name": "Mayer Hawthorne",
+          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
+        }
+      ],
+      "duration_ms": 218413,
+      "name": "The Walk",
+      "url": "https://open.spotify.com/track/7tBZa65xUKMMan9tIMPqbi"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -917,38 +917,6 @@
       "url": "https://open.spotify.com/track/0SQs0HOHIQpnYzqCN1PSrU"
     },
     {
-      "added_at": "2022-02-11 05:02:00",
-      "album": {
-        "name": "Written All over My Heart",
-        "url": "https://open.spotify.com/album/5h7705xYVr69s40Mva8SFF"
-      },
-      "artists": [
-        {
-          "name": "Paul Caldwell",
-          "url": "https://open.spotify.com/artist/14mcXN2C0EoRrt96ddtL4L"
-        }
-      ],
-      "duration_ms": 192745,
-      "name": "Written All over My Heart",
-      "url": "https://open.spotify.com/track/7BYaW4xBFqsReDyV3KUfDU"
-    },
-    {
-      "added_at": "2022-12-13 18:45:33",
-      "album": {
-        "name": "Fighting for Peace",
-        "url": "https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos"
-      },
-      "artists": [
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 202058,
-      "name": "Fighting for Peace",
-      "url": "https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g"
-    },
-    {
       "added_at": "2021-07-13 21:11:09",
       "album": {
         "name": "More",
@@ -967,6 +935,38 @@
       "duration_ms": 195350,
       "name": "More",
       "url": "https://open.spotify.com/track/7BX9aFLw77aY1bEWXvCSu4"
+    },
+    {
+      "added_at": "2022-12-13 18:45:33",
+      "album": {
+        "name": "Fighting for Peace",
+        "url": "https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos"
+      },
+      "artists": [
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 202058,
+      "name": "Fighting for Peace",
+      "url": "https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g"
+    },
+    {
+      "added_at": "2022-02-11 05:02:00",
+      "album": {
+        "name": "Written All over My Heart",
+        "url": "https://open.spotify.com/album/5h7705xYVr69s40Mva8SFF"
+      },
+      "artists": [
+        {
+          "name": "Paul Caldwell",
+          "url": "https://open.spotify.com/artist/14mcXN2C0EoRrt96ddtL4L"
+        }
+      ],
+      "duration_ms": 192745,
+      "name": "Written All over My Heart",
+      "url": "https://open.spotify.com/track/7BYaW4xBFqsReDyV3KUfDU"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "Hopeful",
-        "url": "https://open.spotify.com/album/53jDVUiYTI5UpC7DGeJrdz"
+        "name": "Motenko",
+        "url": "https://open.spotify.com/album/5ELfBcQ6SDwwH7HuPi8evQ"
       },
       "artists": [
         {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+          "name": "Motenko",
+          "url": "https://open.spotify.com/artist/6GiZj3j9eJreWT3gDJXZWP"
         }
       ],
-      "duration_ms": 316360,
-      "name": "Hopeful",
-      "url": "https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV"
+      "duration_ms": 276546,
+      "name": "The Thief",
+      "url": "https://open.spotify.com/track/0ROXERrNsGt3O3mXFgjOK2"
     },
     {
       "added_at": "2023-07-11 18:58:28",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "Motenko",
-        "url": "https://open.spotify.com/album/5ELfBcQ6SDwwH7HuPi8evQ"
+        "name": "Hopeful",
+        "url": "https://open.spotify.com/album/53jDVUiYTI5UpC7DGeJrdz"
       },
       "artists": [
         {
-          "name": "Motenko",
-          "url": "https://open.spotify.com/artist/6GiZj3j9eJreWT3gDJXZWP"
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
         }
       ],
-      "duration_ms": 276546,
-      "name": "The Thief",
-      "url": "https://open.spotify.com/track/0ROXERrNsGt3O3mXFgjOK2"
+      "duration_ms": 316360,
+      "name": "Hopeful",
+      "url": "https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV"
     },
     {
       "added_at": "2021-10-08 04:01:00",
@@ -1688,9 +1688,9 @@
           "url": "https://open.spotify.com/artist/5CwHjbHcbe0EEOd7aISldo"
         }
       ],
-      "duration_ms": 217200,
-      "name": "Feeling Free",
-      "url": "https://open.spotify.com/track/3pYlvZaghr2UqTuONM2hAs"
+      "duration_ms": 208853,
+      "name": "If This Ain't Love (Don't Know What Is)",
+      "url": "https://open.spotify.com/track/6rNR0H7NFjTmYyarLLToIp"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1772,9 +1772,9 @@
           "url": "https://open.spotify.com/artist/5CwHjbHcbe0EEOd7aISldo"
         }
       ],
-      "duration_ms": 208853,
-      "name": "If This Ain't Love (Don't Know What Is)",
-      "url": "https://open.spotify.com/track/6rNR0H7NFjTmYyarLLToIp"
+      "duration_ms": 217200,
+      "name": "Feeling Free",
+      "url": "https://open.spotify.com/track/3pYlvZaghr2UqTuONM2hAs"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1921,26 +1921,6 @@
       "url": "https://open.spotify.com/track/3SVMfyNJqhdZuMnw8T1wNG"
     },
     {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Rolling Through California (feat. Miko Marks)",
-        "url": "https://open.spotify.com/album/3Qp3x5KwXzWzi4DqSD57o2"
-      },
-      "artists": [
-        {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
-        },
-        {
-          "name": "Miko Marks",
-          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
-        }
-      ],
-      "duration_ms": 219546,
-      "name": "Rolling Through California (feat. Miko Marks)",
-      "url": "https://open.spotify.com/track/6IjR1Pab1JWRm4T8gHfoef"
-    },
-    {
       "added_at": "2021-07-13 21:11:09",
       "album": {
         "name": "EmOGs",
@@ -1959,6 +1939,26 @@
       "duration_ms": 257973,
       "name": "EmOGs",
       "url": "https://open.spotify.com/track/2qz1vGLzlQf0Xc2dlfhOEA"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Rolling Through California (feat. Miko Marks)",
+        "url": "https://open.spotify.com/album/3Qp3x5KwXzWzi4DqSD57o2"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        },
+        {
+          "name": "Miko Marks",
+          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
+        }
+      ],
+      "duration_ms": 219546,
+      "name": "Rolling Through California (feat. Miko Marks)",
+      "url": "https://open.spotify.com/track/6IjR1Pab1JWRm4T8gHfoef"
     },
     {
       "added_at": "2022-01-14 05:01:00",

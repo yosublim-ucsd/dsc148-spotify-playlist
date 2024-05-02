@@ -1,5 +1,5 @@
 {
-  "2024-05-01": 0,
+  "2024-05-02": 0,
   "date_first_scraped": "2023-03-03",
   "description": "Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.",
   "name": "Release Radar (@pipemanuel10)",
@@ -8201,7 +8201,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 597692,
       "name": "Frecuencias Estelares para Elevar Tu Vibraci\u00f3n",
       "url": "https://open.spotify.com/track/10AF4BfNSKT1nV6imaxlEC"
@@ -15083,6 +15083,24 @@
       "duration_ms": 165447,
       "name": "Migajas",
       "url": "https://open.spotify.com/track/3nIBgni4vxvdUuZgKcTDZU"
+    },
+    {
+      "album": {
+        "name": "Vibraciones Superiores",
+        "url": "https://open.spotify.com/album/42Ed8WBO3fkq08LkjqHnI5"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Donalson",
+          "url": "https://open.spotify.com/artist/13AiWNMLpKYo0wSPSAiBUg"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 597204,
+      "name": "Milagros Manifiestos e Inmediatos",
+      "url": "https://open.spotify.com/track/7duROuHOocOtgP5hlLPNS5"
     },
     {
       "album": {

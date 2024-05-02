@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > hit rap og andet i den vibe 🚨 nyt fra: ICEKIID, Lamin / Anton Westerlin, Merro8, MAS & Hans Philip 🚨
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,898 likes - 63 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,924 likes - 63 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

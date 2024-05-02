@@ -1,6 +1,6 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Ezra Collective",
-  "num_followers": 310866,
+  "num_followers": 310937,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2024-04-18 23:00:00",
       "album": {
-        "name": "Rising",
-        "url": "https://open.spotify.com/album/6TdOE1Wti5pSRxOW6Y9xT0"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Myra",
-          "url": "https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK"
-        }
-      ],
-      "duration_ms": 431293,
-      "name": "Rising",
-      "url": "https://open.spotify.com/track/7wf5JNpQcrsPTwN4h1lKCU"
-    },
-    {
-      "added_at": "2024-04-18 23:00:00",
-      "album": {
         "name": "Lady (Ezra Collective Version)",
         "url": "https://open.spotify.com/album/3OuYAZDQ1dxL3GQcYbzc0Q"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 347266,
       "name": "Lady - Ezra Collective Version",
       "url": "https://open.spotify.com/track/3pOT3YM1WPFsCyQIRgSBNP"
+    },
+    {
+      "added_at": "2024-04-18 23:00:00",
+      "album": {
+        "name": "Rising",
+        "url": "https://open.spotify.com/album/6TdOE1Wti5pSRxOW6Y9xT0"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Myra",
+          "url": "https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK"
+        }
+      ],
+      "duration_ms": 431293,
+      "name": "Rising",
+      "url": "https://open.spotify.com/track/7wf5JNpQcrsPTwN4h1lKCU"
     },
     {
       "added_at": "2024-04-18 23:00:00",
@@ -407,8 +407,8 @@
     {
       "added_at": "2024-04-18 23:00:00",
       "album": {
-        "name": "Chasing the Drum - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/1skZcEagq9Q9DHgeuHYb9F"
+        "name": "Black Classical Music",
+        "url": "https://open.spotify.com/album/2A5yzYdLTVTLQaCp4CTKwG"
       },
       "artists": [
         {
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
         }
       ],
-      "duration_ms": 221986,
-      "name": "Chasing the Drum - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/0kJ4GK8E5eDy7WYUQ5fUT5"
+      "duration_ms": 191893,
+      "name": "Turquoise Galaxy",
+      "url": "https://open.spotify.com/track/71vcxMgWBvsUbwtRBzk2Vd"
     },
     {
       "added_at": "2024-04-18 23:00:00",
@@ -455,6 +455,22 @@
       "duration_ms": 177133,
       "name": "Kiss Me Before I Forget (feat. Lianne La Havas)",
       "url": "https://open.spotify.com/track/08DfXlU9bWDIlai62OJJIG"
+    },
+    {
+      "added_at": "2024-04-18 23:00:00",
+      "album": {
+        "name": "Where I'm Meant To Be",
+        "url": "https://open.spotify.com/album/0nhfG8lPabvjTN0ACcwBux"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "duration_ms": 434346,
+      "name": "Welcome To My World",
+      "url": "https://open.spotify.com/track/0caY5TK4dj5OrTWgqeRT8y"
     },
     {
       "added_at": "2024-04-18 23:00:00",
@@ -531,22 +547,6 @@
     {
       "added_at": "2024-04-18 23:00:00",
       "album": {
-        "name": "Where I'm Meant To Be",
-        "url": "https://open.spotify.com/album/0nhfG8lPabvjTN0ACcwBux"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        }
-      ],
-      "duration_ms": 434346,
-      "name": "Welcome To My World",
-      "url": "https://open.spotify.com/track/0caY5TK4dj5OrTWgqeRT8y"
-    },
-    {
-      "added_at": "2024-04-18 23:00:00",
-      "album": {
         "name": "Friday Film Special",
         "url": "https://open.spotify.com/album/1y2j8nfXPs2J440mCouYIv"
       },
@@ -591,8 +591,8 @@
     {
       "added_at": "2024-04-18 23:00:00",
       "album": {
-        "name": "Black Classical Music",
-        "url": "https://open.spotify.com/album/2A5yzYdLTVTLQaCp4CTKwG"
+        "name": "Chasing the Drum - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1skZcEagq9Q9DHgeuHYb9F"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
         }
       ],
-      "duration_ms": 191893,
-      "name": "Turquoise Galaxy",
-      "url": "https://open.spotify.com/track/71vcxMgWBvsUbwtRBzk2Vd"
+      "duration_ms": 221986,
+      "name": "Chasing the Drum - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/0kJ4GK8E5eDy7WYUQ5fUT5"
     },
     {
       "added_at": "2024-04-18 23:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-04-18 23:00:00",
       "album": {
-        "name": "Never Doubt",
-        "url": "https://open.spotify.com/album/7JBHfFH8n8HNHvwZTgMmr3"
-      },
-      "artists": [
-        {
-          "name": "Blue Lab Beats",
-          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
-        }
-      ],
-      "duration_ms": 250399,
-      "name": "Never Doubt",
-      "url": "https://open.spotify.com/track/2n3IsOUF3qp6tHHozmEKGy"
-    },
-    {
-      "added_at": "2024-04-18 23:00:00",
-      "album": {
         "name": "Earth",
         "url": "https://open.spotify.com/album/1L9EOt6qghU2kFVXItfI3S"
       },
@@ -723,22 +707,6 @@
       "duration_ms": 203581,
       "name": "Earth",
       "url": "https://open.spotify.com/track/33SjP7IwTNrPEpZAn16Bzf"
-    },
-    {
-      "added_at": "2024-04-18 23:00:00",
-      "album": {
-        "name": "Everything Is Going to Be OK",
-        "url": "https://open.spotify.com/album/0LIjSRLoTlpMB2vHJHX86M"
-      },
-      "artists": [
-        {
-          "name": "GoGo Penguin",
-          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
-        }
-      ],
-      "duration_ms": 287992,
-      "name": "Everything Is Going to Be OK",
-      "url": "https://open.spotify.com/track/4JPj5HzPn5sRfwzqH9HMgX"
     },
     {
       "added_at": "2024-04-18 23:00:00",
@@ -771,6 +739,38 @@
       "duration_ms": 222653,
       "name": "Hocus Pocus",
       "url": "https://open.spotify.com/track/6Bidjfsyq4qbpwRCl2Cd85"
+    },
+    {
+      "added_at": "2024-04-18 23:00:00",
+      "album": {
+        "name": "Everything Is Going to Be OK",
+        "url": "https://open.spotify.com/album/0LIjSRLoTlpMB2vHJHX86M"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        }
+      ],
+      "duration_ms": 287992,
+      "name": "Everything Is Going to Be OK",
+      "url": "https://open.spotify.com/track/4JPj5HzPn5sRfwzqH9HMgX"
+    },
+    {
+      "added_at": "2024-04-18 23:00:00",
+      "album": {
+        "name": "Never Doubt",
+        "url": "https://open.spotify.com/album/7JBHfFH8n8HNHvwZTgMmr3"
+      },
+      "artists": [
+        {
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        }
+      ],
+      "duration_ms": 250399,
+      "name": "Never Doubt",
+      "url": "https://open.spotify.com/track/2n3IsOUF3qp6tHHozmEKGy"
     },
     {
       "added_at": "2024-04-18 23:00:00",
@@ -963,18 +963,22 @@
     {
       "added_at": "2024-04-18 23:00:00",
       "album": {
-        "name": "FIELDNOTES PT III",
-        "url": "https://open.spotify.com/album/1mN1K7R6kn8FqBP2OY613q"
+        "name": "Chasing Days (Sam Redmore Remix)",
+        "url": "https://open.spotify.com/album/4pSclrufz705aSbj4gASWM"
       },
       "artists": [
         {
-          "name": "Ego Ella May",
-          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
+          "name": "Izo FitzRoy",
+          "url": "https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r"
+        },
+        {
+          "name": "Sam Redmore",
+          "url": "https://open.spotify.com/artist/3McygTbX192HcFzSHa9mA6"
         }
       ],
-      "duration_ms": 191707,
-      "name": "Take It Easy (Miles' Song)",
-      "url": "https://open.spotify.com/track/2wL4LR49SRUAaKvZMiUvob"
+      "duration_ms": 322812,
+      "name": "Chasing Days - Sam Redmore Remix",
+      "url": "https://open.spotify.com/track/4VO19I7PqB0YbR5r4Nbv26"
     },
     {
       "added_at": "2024-04-18 23:00:00",
@@ -999,22 +1003,18 @@
     {
       "added_at": "2024-04-18 23:00:00",
       "album": {
-        "name": "Chasing Days (Sam Redmore Remix)",
-        "url": "https://open.spotify.com/album/4pSclrufz705aSbj4gASWM"
+        "name": "FIELDNOTES PT III",
+        "url": "https://open.spotify.com/album/1mN1K7R6kn8FqBP2OY613q"
       },
       "artists": [
         {
-          "name": "Izo FitzRoy",
-          "url": "https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r"
-        },
-        {
-          "name": "Sam Redmore",
-          "url": "https://open.spotify.com/artist/3McygTbX192HcFzSHa9mA6"
+          "name": "Ego Ella May",
+          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
         }
       ],
-      "duration_ms": 322812,
-      "name": "Chasing Days - Sam Redmore Remix",
-      "url": "https://open.spotify.com/track/4VO19I7PqB0YbR5r4Nbv26"
+      "duration_ms": 191707,
+      "name": "Take It Easy (Miles' Song)",
+      "url": "https://open.spotify.com/track/2wL4LR49SRUAaKvZMiUvob"
     },
     {
       "added_at": "2024-04-18 23:00:00",
@@ -1139,34 +1139,18 @@
     {
       "added_at": "2024-04-18 23:00:00",
       "album": {
-        "name": "Whatever You Want",
-        "url": "https://open.spotify.com/album/3LcMJUKvD40lP4a3AjQVzc"
+        "name": "Late Night People",
+        "url": "https://open.spotify.com/album/5pN3T9hCW6y9OKAgJnEYYo"
       },
       "artists": [
         {
-          "name": "Lucy Rose",
-          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
         }
       ],
-      "duration_ms": 220552,
-      "name": "Whatever You Want",
-      "url": "https://open.spotify.com/track/1RrxcexvncFGK8gniFrvty"
-    },
-    {
-      "added_at": "2024-04-18 23:00:00",
-      "album": {
-        "name": "Mother Tongue",
-        "url": "https://open.spotify.com/album/2E94ztb8o0S5aHE8kEbS1c"
-      },
-      "artists": [
-        {
-          "name": "Maya Law",
-          "url": "https://open.spotify.com/artist/0Q6WpoERCZSlOanipDVEI6"
-        }
-      ],
-      "duration_ms": 204217,
-      "name": "Mother Tongue",
-      "url": "https://open.spotify.com/track/26nbjJWqDmzzZyMetpzjOP"
+      "duration_ms": 334000,
+      "name": "Late Night People",
+      "url": "https://open.spotify.com/track/69y3XAgRaXrtO5h9YvpPHJ"
     },
     {
       "added_at": "2024-04-18 23:00:00",
@@ -1195,18 +1179,34 @@
     {
       "added_at": "2024-04-18 23:00:00",
       "album": {
-        "name": "Late Night People",
-        "url": "https://open.spotify.com/album/5pN3T9hCW6y9OKAgJnEYYo"
+        "name": "Mother Tongue",
+        "url": "https://open.spotify.com/album/2E94ztb8o0S5aHE8kEbS1c"
       },
       "artists": [
         {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+          "name": "Maya Law",
+          "url": "https://open.spotify.com/artist/0Q6WpoERCZSlOanipDVEI6"
         }
       ],
-      "duration_ms": 334000,
-      "name": "Late Night People",
-      "url": "https://open.spotify.com/track/69y3XAgRaXrtO5h9YvpPHJ"
+      "duration_ms": 204217,
+      "name": "Mother Tongue",
+      "url": "https://open.spotify.com/track/26nbjJWqDmzzZyMetpzjOP"
+    },
+    {
+      "added_at": "2024-04-18 23:00:00",
+      "album": {
+        "name": "Whatever You Want",
+        "url": "https://open.spotify.com/album/3LcMJUKvD40lP4a3AjQVzc"
+      },
+      "artists": [
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+        }
+      ],
+      "duration_ms": 220552,
+      "name": "Whatever You Want",
+      "url": "https://open.spotify.com/track/1RrxcexvncFGK8gniFrvty"
     },
     {
       "added_at": "2024-04-18 23:00:00",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2024-04-18 23:00:00",
       "album": {
+        "name": "In The Fire",
+        "url": "https://open.spotify.com/album/4hU4FUzK08HZ3hwM7XZZIE"
+      },
+      "artists": [
+        {
+          "name": "Yakul",
+          "url": "https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO"
+        }
+      ],
+      "duration_ms": 237046,
+      "name": "In The Fire",
+      "url": "https://open.spotify.com/track/7MUiVyNZdipLltGWBmXHXN"
+    },
+    {
+      "added_at": "2024-04-18 23:00:00",
+      "album": {
         "name": "Homesick",
         "url": "https://open.spotify.com/album/7yw4bZ9kbrQapS8V0Z32Ww"
       },
@@ -1371,18 +1387,18 @@
     {
       "added_at": "2024-04-18 23:00:00",
       "album": {
-        "name": "Epilectric",
-        "url": "https://open.spotify.com/album/7GTH6EnsEwhgwgVSn3MupB"
+        "name": "Wallflower",
+        "url": "https://open.spotify.com/album/55zeJMwqGYlju0shEdhG4A"
       },
       "artists": [
         {
-          "name": "Summers Sons",
-          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
+          "name": "Re:um",
+          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
         }
       ],
-      "duration_ms": 188240,
-      "name": "Epilectric",
-      "url": "https://open.spotify.com/track/488UKsrIC3lBvZdjzTQExW"
+      "duration_ms": 181124,
+      "name": "Wallflower",
+      "url": "https://open.spotify.com/track/60ZR3PxtOjGXa6LVQlSdSr"
     },
     {
       "added_at": "2024-04-18 23:00:00",
@@ -1403,34 +1419,18 @@
     {
       "added_at": "2024-04-18 23:00:00",
       "album": {
-        "name": "Unlikely",
-        "url": "https://open.spotify.com/album/7IvIOtYOfkdk0lWIUY2YSZ"
+        "name": "Epilectric",
+        "url": "https://open.spotify.com/album/7GTH6EnsEwhgwgVSn3MupB"
       },
       "artists": [
         {
-          "name": "Bel Cobain",
-          "url": "https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F"
+          "name": "Summers Sons",
+          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
         }
       ],
-      "duration_ms": 167903,
-      "name": "Unlikely",
-      "url": "https://open.spotify.com/track/1wFgK8jcX27P6YUkxbeMBP"
-    },
-    {
-      "added_at": "2024-04-18 23:00:00",
-      "album": {
-        "name": "In The Fire",
-        "url": "https://open.spotify.com/album/4hU4FUzK08HZ3hwM7XZZIE"
-      },
-      "artists": [
-        {
-          "name": "Yakul",
-          "url": "https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO"
-        }
-      ],
-      "duration_ms": 237046,
-      "name": "In The Fire",
-      "url": "https://open.spotify.com/track/7MUiVyNZdipLltGWBmXHXN"
+      "duration_ms": 188240,
+      "name": "Epilectric",
+      "url": "https://open.spotify.com/track/488UKsrIC3lBvZdjzTQExW"
     }
   ],
   "unique_name": "Jazz UK",

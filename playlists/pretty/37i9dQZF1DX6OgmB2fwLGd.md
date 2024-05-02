@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > Shotgun Willy, born and raised on the internet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,396,470 likes - 100 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,396,449 likes - 100 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Nothing like you](https://open.spotify.com/track/7tHXd3CsT7VGZAJ5Jkqt61) | [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [Nothing like you](https://open.spotify.com/album/128pEVu7AFfVkyiIw9lN33) | 1:52 |
-| 2 | [Affiliations](https://open.spotify.com/track/3dBXJCFQy5VzP3y6sZJKB3) | [EBK Young Joc](https://open.spotify.com/artist/4lPU30QB53QTUVhkjcb0WS), [ALLBLACK](https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD), [TLG Dooda](https://open.spotify.com/artist/6ccIoUe0YFANnBMT6Utygw), [EBK Trey B](https://open.spotify.com/artist/7oXvysW3peGY3AEa17WoFt), [EBK Lil Sleaze](https://open.spotify.com/artist/3EcV9JbK3RCHWnNyBaIipD) | [Hotboiiz:4L](https://open.spotify.com/album/2g0gYRnewHwt4unRqznlRo) | 1:11 |
-| 3 | [BIG DOG SH\*T \(feat\. Lil RT\)](https://open.spotify.com/track/3wOgRFB76sCuD29N6Jz4mI) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN), [Lil RT](https://open.spotify.com/artist/1Go9MuDulQ4qHPE4H4rU3H) | [BIG DOG SH\*T](https://open.spotify.com/album/2VnEwCFWbSj7irTuUye8ES) | 2:32 |
+| 1 | [Affiliations](https://open.spotify.com/track/3dBXJCFQy5VzP3y6sZJKB3) | [EBK Young Joc](https://open.spotify.com/artist/4lPU30QB53QTUVhkjcb0WS), [ALLBLACK](https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD), [TLG Dooda](https://open.spotify.com/artist/6ccIoUe0YFANnBMT6Utygw), [EBK Trey B](https://open.spotify.com/artist/7oXvysW3peGY3AEa17WoFt), [EBK Lil Sleaze](https://open.spotify.com/artist/3EcV9JbK3RCHWnNyBaIipD) | [Hotboiiz:4L](https://open.spotify.com/album/2g0gYRnewHwt4unRqznlRo) | 1:11 |
+| 2 | [BIG DOG SH\*T \(feat\. Lil RT\)](https://open.spotify.com/track/3wOgRFB76sCuD29N6Jz4mI) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN), [Lil RT](https://open.spotify.com/artist/1Go9MuDulQ4qHPE4H4rU3H) | [BIG DOG SH\*T](https://open.spotify.com/album/2VnEwCFWbSj7irTuUye8ES) | 2:32 |
+| 3 | [Nothing like you](https://open.spotify.com/track/7tHXd3CsT7VGZAJ5Jkqt61) | [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [Nothing like you](https://open.spotify.com/album/128pEVu7AFfVkyiIw9lN33) | 1:52 |
 | 4 | [If We Being Rëal](https://open.spotify.com/track/2NQsRx1Zz1lwKU7JvwZfRW) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093 \(P2\)](https://open.spotify.com/album/7aUeYDjGYo8wMKcpeGFRbg) | 2:52 |
 | 5 | [NO IDEA \#jerseyclub \- Ziahfyah & Indo2x Remix](https://open.spotify.com/track/7gNXY29SaVv9rN4z2oQhvz) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Indo2x](https://open.spotify.com/artist/3WQnwswrc0FaQ6AqenFuFE), [Ziahfyah](https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl) | [NO IDEA \#jerseyclub \(Ziahfyah & Indo2x Remix\)](https://open.spotify.com/album/5mO75nU1r7JvkCO8oOmHhF) | 2:36 |
 | 6 | [a gentle gigg...](https://open.spotify.com/track/1goQhPlu2xq4GT8ZM2eiu7) | [seiji oda](https://open.spotify.com/artist/02hku5R1SCUiTPydXMdKBp), [Jake Chapman](https://open.spotify.com/artist/61vqterkbDdQxQ1IO0Oybx) | [a gentle gigg...](https://open.spotify.com/album/2dKS8Oj7T9u7U3UzAtVbJk) | 1:54 |
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 82 | [<3x girl](https://open.spotify.com/track/1npX7CetlIG1TxCfO7gOU4) | [wrldn3ro](https://open.spotify.com/artist/2gSkItFlSf0KffnpO3yUF9) | [<3x girl](https://open.spotify.com/album/3pifeOOGTYKlts7FEgyBXG) | 0:57 |
 | 83 | [Blue Devils](https://open.spotify.com/track/0RdezItMSxU1nA9lk8E1lG) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c) | [Blue Devils](https://open.spotify.com/album/0g4VdNNkD4sweCZEPcmAXy) | 2:09 |
 | 84 | [22 hours](https://open.spotify.com/track/3RdB9x6VjjxTsp3YfiBaJ3) | [b4u](https://open.spotify.com/artist/5DjaUPqQpwjqpoYKeGcULR) | [still feels like](https://open.spotify.com/album/4v0qd6jPgkGfGAKfogxCuN) | 1:36 |
-| 85 | [H1M WONDER](https://open.spotify.com/track/5h6ltqklsMyCO13Yl86Lgf) | [h1mward](https://open.spotify.com/artist/2nQJ3BJ6fuF2eFHWEaKE2H) | [H1M WONDER](https://open.spotify.com/album/1koHUerstUM6yntvj5oVZH) | 1:53 |
+| 85 | [No Letting Go](https://open.spotify.com/track/5h6ltqklsMyCO13Yl86Lgf) | [h1mward](https://open.spotify.com/artist/2nQJ3BJ6fuF2eFHWEaKE2H) | [No Letting Go](https://open.spotify.com/album/1koHUerstUM6yntvj5oVZH) | 1:53 |
 | 86 | [ONE IN A MILLION](https://open.spotify.com/track/0we7yhOp1144AJcgZb16H9) | [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4) | [ONE IN A MILLION](https://open.spotify.com/album/64yxYFtETKnCagb6pnFdS9) | 1:59 |
 | 87 | [40](https://open.spotify.com/track/6sZE18zA8OJpr3h5VDboWH) | [evilgiane](https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV), [xaviersobased](https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd), [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [40](https://open.spotify.com/album/2I05gcZaTo8nNuUC6PSwnt) | 1:04 |
 | 88 | [HATE ME](https://open.spotify.com/track/4VGqcmT6DYi4kFFWmzFvRp) | [CLIP](https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl) | [HATE ME](https://open.spotify.com/album/2COd1Ghgd8JN4q69fpf6OO) | 2:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 99 | [Mozzarella](https://open.spotify.com/track/6LSyrl1b9cS5Mj4Eh7dRnX) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29) | [Mozzarella](https://open.spotify.com/album/5XS2sDLBks5lLsQlD4uEuq) | 2:50 |
 | 100 | [Ozone](https://open.spotify.com/track/6ZC74JZp5NDi6Q1ZCra1NC) | [Kid Trunks](https://open.spotify.com/artist/57SA5Qv24Vydwd6bJnV8fI) | [Ozone](https://open.spotify.com/album/2Z69mCE7augMMEWRCckD9K) | 3:54 |
 
-Snapshot ID: `ZjFFEwAAAABx6NzkjvbdnKfLGFh1vapC`
+Snapshot ID: `ZjKVfgAAAADGyHJPV4PAKaKDfnYc0Nl6`

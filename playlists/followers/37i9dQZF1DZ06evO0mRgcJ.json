@@ -1,5 +1,5 @@
 {
-  "2024-05-01": 442,
+  "2024-05-02": 443,
   "date_first_scraped": "2024-01-30",
   "description": "This is Los Desvelados. The essential tracks, all in one playlist.",
   "name": "This Is Los Desvelados",
@@ -669,7 +669,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-30",
+      "date_removed": null,
       "duration_ms": 249978,
       "name": "HUMILDE Y RANCHERO",
       "url": "https://open.spotify.com/track/1AfJbVYMxJpwy8VKmtViS5"
@@ -879,7 +879,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 226649,
       "name": "NOS ACOPLAMOS MACIZO",
       "url": "https://open.spotify.com/track/6uCvstfQgLatfcz8y87W2x"

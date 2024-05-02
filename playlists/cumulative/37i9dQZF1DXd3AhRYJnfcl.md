@@ -2,7 +2,7 @@
 
 ### [التوب](https://open.spotify.com/playlist/37i9dQZF1DXd3AhRYJnfcl)
 
-> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: <a href="https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt?si=tGU\_3\-pJStasaf5gqFdSoQ"> حسن شاكوش </a> و <a href="https://open.spotify.com/artist/4kYlR8TU22EJ77zl3NfmeM?si=2xdChv98SCSSWdf30er7fg"> <br/>حمادة مجدي
+> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: <a href="https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt?si=tGU\_3\-pJStasaf5gqFdSoQ"> حسن شاكوش </a> و <a href="https://open.spotify.com/artist/4kYlR8TU22EJ77zl3NfmeM?si=\_ivm6J9XTtyL\-shrVgP4CA"> حماده مجدي </a>
 
 278 songs - 16 hr 13 min
 

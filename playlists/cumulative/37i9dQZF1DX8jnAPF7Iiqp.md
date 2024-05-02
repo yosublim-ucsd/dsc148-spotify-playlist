@@ -4,7 +4,7 @@
 
 > Running or raving? We've got a load of drum & bass to help with that!
 
-225 songs - 14 hr 28 min
+226 songs - 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Never Be Alone](https://open.spotify.com/track/3MD8JCmgBjJPcLHuTjbhkI) | [Deadline](https://open.spotify.com/artist/4ODNQly5SX6AWp8P5mRzGq), [Alexa Harley](https://open.spotify.com/artist/7vgZqCNS2Nah7tlpo7ZjC4) | [Never Be Alone](https://open.spotify.com/album/5mF94MWiuY16Gmn3xNAcsU) | 3:33 | 2021-12-21 | 2022-07-24 |
 | [Never Let Me Go](https://open.spotify.com/track/6ZPpy9nlOq2xDw054bjoS9) | [Artino](https://open.spotify.com/artist/6W0lKsGxmXkou02Srd3eC9), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Never Let Me Go / Hall Of Fame](https://open.spotify.com/album/4wpwsPqMBHzhaDMBQy3pZS) | 4:08 | 2021-12-21 | 2022-07-26 |
 | [New Beginning](https://open.spotify.com/track/2YbpRcRomPCdnChIcgQo0D) | [Maduk](https://open.spotify.com/artist/6TaaqqCMRMSpvNHClfnbEL), [Lexurus](https://open.spotify.com/artist/3iEPGgJzNDexM0WPqpcvMB), [RIENK](https://open.spotify.com/artist/1EDTEfdQZ9nRsyZjfRNEfo) | [New Beginning](https://open.spotify.com/album/0D7sxVgZTL9DerUPMp96t6) | 4:09 | 2021-12-21 | 2022-07-29 |
+| [New Energy](https://open.spotify.com/track/7lg5Ub6z08aSDkPhhMbnGO) | [Matrix & Futurebound](https://open.spotify.com/artist/41iVQ05he8SrfIWbZQ58N7), [Blaine Stranger](https://open.spotify.com/artist/4ZKZR4BBx5EaP4T3slUd1j), [Tom Cane](https://open.spotify.com/artist/5iFDzfBI6aebgrb9ljJhme) | [New Energy](https://open.spotify.com/album/3i2C52xQrpGrhw9kudEXSF) | 3:35 | 2024-04-04 |  |
 | [No Excuses](https://open.spotify.com/track/3gw91o4at6nDzewF9Hxzs7) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D) | [No Excuses](https://open.spotify.com/album/1r6fzHMhZcd35ZkpKPRRWE) | 3:42 | 2022-07-05 |  |
 | [No Tomorrow](https://open.spotify.com/track/4KaYnQBP5CUorQKKuKmRUO) | [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU), [Mefjus](https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj), [Sophie Lindinger](https://open.spotify.com/artist/3b3qQWQgIMIyHcYSMY4P3g) | [No Tomorrow](https://open.spotify.com/album/703rIQ63KazLUQbBUSlCx1) | 4:31 | 2021-12-21 | 2023-04-12 |
 | [Not Alone](https://open.spotify.com/track/2460FCYtdrrcTChzU7G7aT) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Not Alone](https://open.spotify.com/album/3uAGplw7cRRx927H35iokm) | 4:58 | 2022-11-25 | 2023-04-12 |
@@ -199,7 +200,7 @@
 | [Streetside](https://open.spotify.com/track/48nIqwRQyLtqEcGzJWykLL) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Streetside](https://open.spotify.com/album/138qbOSq6Wy6ubheDW8HBK) | 3:39 | 2023-04-11 | 2024-04-19 |
 | [Streetside](https://open.spotify.com/track/4HcmKnUwCKsloslonqMzCN) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Streetside](https://open.spotify.com/album/0EOl5Udxu7CxJ5u3XbkRnN) | 3:39 | 2021-12-21 | 2023-05-19 |
 | [Stubborn](https://open.spotify.com/track/2mDwqmYCoKNQoqZkgnkJxv) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [IYAMAH](https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1) | [Stubborn](https://open.spotify.com/album/2KTdiiifLmx1WVnyVjP9aT) | 2:13 | 2024-02-23 |  |
-| [Supersonic \- Basstripper Remix](https://open.spotify.com/track/0vMIb12OsAkLzYuuWixnka) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr), [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Supersonic \(Basstripper Remix\)](https://open.spotify.com/album/2QJuzV5qlzbQtFJhRRmgNG) | 3:44 | 2024-02-23 |  |
+| [Supersonic \- Basstripper Remix](https://open.spotify.com/track/0vMIb12OsAkLzYuuWixnka) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr), [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Supersonic \(Basstripper Remix\)](https://open.spotify.com/album/2QJuzV5qlzbQtFJhRRmgNG) | 3:44 | 2024-02-23 | 2024-05-02 |
 | [Sweeter](https://open.spotify.com/track/3u787rFfUvg3kMK7tNyjiV) | [Nu:Tone](https://open.spotify.com/artist/7pDBRy9uWy1zq5b0uXIABQ) | [Sweeter / Do It Right](https://open.spotify.com/album/5rvjAb7aB99PUfE8hhdjce) | 4:28 | 2021-12-21 | 2022-07-25 |
 | [Tears](https://open.spotify.com/track/0cgadjpgkwNfjJ9Hb70CUj) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx) | [Tears](https://open.spotify.com/album/0fO1jtd2UuR2iAbGL00Pzy) | 4:46 | 2022-11-25 | 2023-04-12 |
 | [Tell Me](https://open.spotify.com/track/0GYx2bTObKXVCAEebCaK2w) | [Holy Goof](https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Tell Me](https://open.spotify.com/album/3S6SjOrePX9qDWgcgWxiUc) | 4:01 | 2023-04-11 | 2023-09-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Masdo
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,847 likes - 104 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,844 likes - 104 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

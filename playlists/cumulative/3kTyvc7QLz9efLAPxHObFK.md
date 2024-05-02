@@ -4,7 +4,7 @@
 
 > 
 
-1,307 songs - 3 day 0 hr 1 min
+1,308 songs - 3 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -947,6 +947,7 @@
 | [Recollection](https://open.spotify.com/track/3UjNsqmIr8Po865AdeJy2a) | [Getty](https://open.spotify.com/artist/3CKAJHc0KjoFAbaqvvJ5kK) | [Recollection](https://open.spotify.com/album/1XF6BI5mXtxvzcGLELkjjA) | 2:41 | 2024-03-08 |  |
 | [RED to RED](https://open.spotify.com/track/3EAsYoXpHkkDd9XuFkXrex) | [REDALiCE](https://open.spotify.com/artist/3m63JSv6jhLEKNXcEd5EUK) | [CROWN](https://open.spotify.com/album/48h2hNZyq3hyH6cZh0oVoI) | 2:26 | 2023-05-20 |  |
 | [Redline Grinders \- 175 BPM Mix](https://open.spotify.com/track/3RJvhG0qUm9kW65VAxGQr4) | [Daniel Seven](https://open.spotify.com/artist/4zRiD4QO1sRhP4BnHGhNkW) | [Ravekick 003 \- Vinylization \(DJ Mix\)](https://open.spotify.com/album/0kBA28oAr85nu1OrXjG7X0) | 2:59 | 2022-12-19 |  |
+| [Redlining](https://open.spotify.com/track/4PJXYVezQfxD6q2NdiV0yI) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2), [Weaver](https://open.spotify.com/artist/5VjIurP1GxiyS5A0yRHiyW) | [Redlining](https://open.spotify.com/album/50RtHvmzP6URhq1ynCr4eS) | 3:05 | 2024-05-01 |  |
 | [Regret](https://open.spotify.com/track/7dmcE6BfsMoXQdhOLbkVuY) | [Hellsystem](https://open.spotify.com/artist/53EHsN2X6QI9xsmunKAW85) | [Regret](https://open.spotify.com/album/5HVU1Uxdmo0t4dpGxPnobg) | 2:28 | 2023-03-31 |  |
 | [Reignite](https://open.spotify.com/track/66WTBnBeDPlXFnVyAlQnLu) | [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym), [JTS](https://open.spotify.com/artist/1n9qeXgQufKhjWdgKFd3no) | [Reignite](https://open.spotify.com/album/0oRTBTIuo0YkHMTazIjuYo) | 4:20 | 2022-05-31 |  |
 | [Reload](https://open.spotify.com/track/25zILlagMmi16cFCsL5QtR) | [Synergy](https://open.spotify.com/artist/7s83dhuGTbXkYUEDXCisbK) | [Reload](https://open.spotify.com/album/4M6c70SdokQgF2Rk4TydLZ) | 3:54 | 2024-01-19 |  |

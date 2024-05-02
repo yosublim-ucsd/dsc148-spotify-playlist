@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa JVG.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,313 likes - 111 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,322 likes - 111 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 38 | [Ajetaan](https://open.spotify.com/track/0weXiYeg3XZ2kI44tBPX9d) | [Reino Nordin](https://open.spotify.com/artist/5cvT1YrzMiVuHMg22UKIk5) | [Ajetaan](https://open.spotify.com/album/462haR8GjHQp7ACMapFi8i) | 3:01 |
 | 39 | [Backslide](https://open.spotify.com/track/62aSL7D64td5wr09L6iFiV) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Backslide](https://open.spotify.com/album/4bwNLICcbpG5VpFGG1J2pD) | 3:00 |
 | 40 | [Bored](https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched: The Goddess Edition](https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb) | 3:33 |
-| 41 | [Summerlovin](https://open.spotify.com/track/4jhEO2UR8DXMaxUodujNho) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF), [Olli Herman](https://open.spotify.com/artist/0mAgWpSQehdhqT6iSb8Bel), [Reckless Love](https://open.spotify.com/artist/0Nkyv1Zj8Xh7Lux3KzIQCl), [Popeda](https://open.spotify.com/artist/2bEPloIrEwXQwm9myrXW2P) | [Summerlovin](https://open.spotify.com/album/7IWuQugr7xAz3slvKrVbPS) | 3:55 |
+| 41 | [Summerlovin](https://open.spotify.com/track/4jhEO2UR8DXMaxUodujNho) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF), [Olli Herman](https://open.spotify.com/artist/0mAgWpSQehdhqT6iSb8Bel) | [Summerlovin](https://open.spotify.com/album/7IWuQugr7xAz3slvKrVbPS) | 3:55 |
 | 42 | [end game](https://open.spotify.com/track/3YyyTcNUwJU4fS01fppkkZ) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [end game](https://open.spotify.com/album/28Al1lPpcToVKiM8EnNuXz) | 2:26 |
 | 43 | [Benny](https://open.spotify.com/track/09JUir78ynEmNxcLfsMu1G) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [boy](https://open.spotify.com/album/3Ry4DmajssDWHmThH2KseJ) | 2:52 |
 | 44 | [Lyhyt yö](https://open.spotify.com/track/2Tn638aOyEjJywHCSgX8FE) | [Pekka Ruuska](https://open.spotify.com/artist/5uO0iSpH2o5KCJfJI3oF2p) | [Lyhyt yö](https://open.spotify.com/album/0pEpibqNmoffHj0mlOA0SX) | 3:57 |

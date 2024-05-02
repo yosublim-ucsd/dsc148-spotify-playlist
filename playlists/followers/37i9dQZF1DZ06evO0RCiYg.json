@@ -1,7 +1,7 @@
 {
-  "2024-05-01": 479334,
+  "2024-05-02": 479437,
   "date_first_scraped": "2023-07-29",
-  "description": "This is Black Eyed Peas. The essential tracks, all in one playlist.",
+  "description": "This Is Black Eyed Peas. Los temas esenciales, todos en una lista.",
   "name": "This Is Black Eyed Peas",
   "tracks": [
     {
@@ -235,7 +235,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-20",
+      "date_removed": null,
       "duration_ms": 216760,
       "name": "Boom Boom Pow - Radio Edit",
       "url": "https://open.spotify.com/track/19o5hmeKzaX5PauBO3lTHh"
@@ -337,7 +337,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-01",
       "duration_ms": 200191,
       "name": "DOUBLE D'Z",
       "url": "https://open.spotify.com/track/4u6G3AHLpiNZdpijHa07SV"
