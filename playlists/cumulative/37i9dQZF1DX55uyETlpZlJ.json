@@ -241,6 +241,28 @@
     },
     {
       "album": {
+        "name": "Amma",
+        "url": "https://open.spotify.com/album/6LoIoj7lzUFF4lNld1TQWQ"
+      },
+      "artists": [
+        {
+          "name": "Pavana V Kashyap",
+          "url": "https://open.spotify.com/artist/1KqqYAhcih9exiT1rEUQlQ"
+        },
+        {
+          "name": "Paluz45",
+          "url": "https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126231,
+      "name": "Amma",
+      "url": "https://open.spotify.com/track/1cknWsTf04j4n2FoGUV7DS"
+    },
+    {
+      "album": {
         "name": "Amma (Amma enda aa kshana)",
         "url": "https://open.spotify.com/album/4XY7NzBNYyhP9KcJViDWKo"
       },

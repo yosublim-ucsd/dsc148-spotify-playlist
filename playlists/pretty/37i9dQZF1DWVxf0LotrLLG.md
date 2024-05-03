@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2024\. Hit shuffle for a mixed listening experience\. Cover: Jay Wheeler
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,766 likes - 271 songs - 14 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,790 likes - 271 songs - 14 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

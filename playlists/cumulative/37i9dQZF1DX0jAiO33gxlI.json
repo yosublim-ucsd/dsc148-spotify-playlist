@@ -185,6 +185,36 @@
     },
     {
       "album": {
+        "name": "Cabra",
+        "url": "https://open.spotify.com/album/51Qzu6VHdTydpqVqpjDpH4"
+      },
+      "artists": [
+        {
+          "name": "Dalsin",
+          "url": "https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk"
+        },
+        {
+          "name": "Predella",
+          "url": "https://open.spotify.com/artist/3lMQtpA4i6FrIe6DmDfDVa"
+        },
+        {
+          "name": "Gioprod",
+          "url": "https://open.spotify.com/artist/7wSJDGjIeffNmJg8pge4fH"
+        },
+        {
+          "name": "Toepper",
+          "url": "https://open.spotify.com/artist/2GF7qsjsk8GXGYezCljjNF"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228571,
+      "name": "90 Com Dolly",
+      "url": "https://open.spotify.com/track/6eHIGgOWmFATMaTxdXJKR9"
+    },
+    {
+      "album": {
         "name": "A Culpa \u00e9 do Papato (feat. Luccas Carlos)",
         "url": "https://open.spotify.com/album/2Z9sZUUnic6MXyuB5Fq0wc"
       },
@@ -4433,6 +4463,28 @@
     },
     {
       "album": {
+        "name": "Empenho",
+        "url": "https://open.spotify.com/album/4k2PkpPhcJU8fDWk42nNTk"
+      },
+      "artists": [
+        {
+          "name": "Scooby",
+          "url": "https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd"
+        },
+        {
+          "name": "991Didi",
+          "url": "https://open.spotify.com/artist/4Gi0bQFqrTkn6d6xAH0AIr"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172137,
+      "name": "Empenho",
+      "url": "https://open.spotify.com/track/3qj4MgWO0oAIFJzTuGDdvJ"
+    },
+    {
+      "album": {
         "name": "Enigma",
         "url": "https://open.spotify.com/album/79cZaharrnC66Lu0ffL6xX"
       },
@@ -4464,7 +4516,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 179541,
       "name": "Enigma",
       "url": "https://open.spotify.com/track/4MT2KdPYfTBdKpuZLyU7eC"
@@ -5478,6 +5530,32 @@
       "duration_ms": 186000,
       "name": "Fogo na Pista",
       "url": "https://open.spotify.com/track/0h3a7Km9Ldz1B1NnET4Qb8"
+    },
+    {
+      "album": {
+        "name": "Fogo no Baile",
+        "url": "https://open.spotify.com/album/6a8cDGyA5Rt2BWlTXE4NMO"
+      },
+      "artists": [
+        {
+          "name": "Nego Max",
+          "url": "https://open.spotify.com/artist/4vhqJq13FVSNiYEyXqt2g8"
+        },
+        {
+          "name": "Rincon Sapi\u00eancia",
+          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
+        },
+        {
+          "name": "EME Lab",
+          "url": "https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216756,
+      "name": "Fogo no Baile",
+      "url": "https://open.spotify.com/track/0ifLamNsWmb1Dt0bjoNreU"
     },
     {
       "album": {
@@ -7026,7 +7104,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 174117,
       "name": "Kitanda",
       "url": "https://open.spotify.com/track/0a8hgOo76TMTb2gqbhjE0g"
@@ -9940,7 +10018,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 289090,
       "name": "O Pre\u00e7o da Guerra",
       "url": "https://open.spotify.com/track/3kfLTBsbfEXKD7VkZ3uwIu"
@@ -10456,7 +10534,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 129600,
       "name": "Pato",
       "url": "https://open.spotify.com/track/664XNRE1DIZR4YMn4cwdRP"
@@ -10924,6 +11002,32 @@
       "duration_ms": 96000,
       "name": "Perfil #93 - Vers\u00edculo 1",
       "url": "https://open.spotify.com/track/1Ta53AM8Vrd7WHpBid85su"
+    },
+    {
+      "album": {
+        "name": "Perfil #94 - Fases",
+        "url": "https://open.spotify.com/album/6Hg2LrIcgSxUWFlpqUfG2m"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Gabe O.",
+          "url": "https://open.spotify.com/artist/2MHy3p4PeBgsb7WMIftgpM"
+        },
+        {
+          "name": "Neckklace",
+          "url": "https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154533,
+      "name": "Perfil #94 - Fases",
+      "url": "https://open.spotify.com/track/5FTMn4GVhkENcRn6xc86KM"
     },
     {
       "album": {
@@ -11507,6 +11611,24 @@
     },
     {
       "album": {
+        "name": "Praise",
+        "url": "https://open.spotify.com/album/5OIkEAE0C0IHiVIQe4YQRU"
+      },
+      "artists": [
+        {
+          "name": "Kain",
+          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159026,
+      "name": "Praise",
+      "url": "https://open.spotify.com/track/1R4Vo02hRTKffcLGGE1Huu"
+    },
+    {
+      "album": {
         "name": "Bittersweet Memories",
         "url": "https://open.spotify.com/album/3lSrcatiOSMpYbT4tGPmZh"
       },
@@ -11530,7 +11652,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 169998,
       "name": "Prefiro Morrer",
       "url": "https://open.spotify.com/track/4xCS953UbI8PZLlLBFVe71"
@@ -14733,6 +14855,28 @@
     },
     {
       "album": {
+        "name": "Quem Sempre Teve Tudo Nunca Vai Entender",
+        "url": "https://open.spotify.com/album/74GaGdc29jGaedDAw0uuIB"
+      },
+      "artists": [
+        {
+          "name": "On\u00e3",
+          "url": "https://open.spotify.com/artist/44phALa8kYqCc9vHuQyuRl"
+        },
+        {
+          "name": "Dinho",
+          "url": "https://open.spotify.com/artist/6T0EkNbGdhqyb5N5uMAI9p"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130666,
+      "name": "T\u00f4 na Infra",
+      "url": "https://open.spotify.com/track/468w3VU0SVztk1M1mACFGN"
+    },
+    {
+      "album": {
         "name": "Uh La La La",
         "url": "https://open.spotify.com/album/5AfkBGu5GtdriVaRHcA1pS"
       },
@@ -15110,7 +15254,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 132176,
       "name": "Vim do Gueto",
       "url": "https://open.spotify.com/track/4vHxcRyIUnWwoh2I8QSdBp"

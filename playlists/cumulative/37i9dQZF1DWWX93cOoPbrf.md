@@ -2,7 +2,7 @@
 
 ### [Corridos 2024](https://open.spotify.com/playlist/37i9dQZF1DWWX93cOoPbrf)
 
-> Lo más fresco de la cosecha 2024\. Tito Double P, Jaziel Nuñez en portada.
+> Lo más fresco de la cosecha 2024\. Adrian Chaparro y Los Dos Carnales en portada.
 
 1,103 songs - 2 day 8 hr 36 min
 

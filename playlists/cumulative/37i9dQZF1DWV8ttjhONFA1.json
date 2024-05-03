@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: Santi Muk",
+  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: Delfina Campos.",
   "name": "Indie Argentina",
   "tracks": [
     {
@@ -332,6 +332,24 @@
       "duration_ms": 228000,
       "name": "Bailemos",
       "url": "https://open.spotify.com/track/3SAwclJKzyaTe435Xeu8vB"
+    },
+    {
+      "album": {
+        "name": "balada para el fin del mundo",
+        "url": "https://open.spotify.com/album/5oMb9DNJOLnVtawJVhmIs1"
+      },
+      "artists": [
+        {
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161080,
+      "name": "balada para el fin del mundo",
+      "url": "https://open.spotify.com/track/3EANbFz0CCNWUhFfpYNhsZ"
     },
     {
       "album": {
@@ -812,7 +830,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 196150,
       "name": "Desaparecer",
       "url": "https://open.spotify.com/track/6PDPcB56TilUyxwSzi1qIi"
@@ -902,7 +920,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 239091,
       "name": "Diganselo",
       "url": "https://open.spotify.com/track/5uSWHen9UxDjsMjDuGNBcf"
@@ -1589,6 +1607,24 @@
     },
     {
       "album": {
+        "name": "La Herencia",
+        "url": "https://open.spotify.com/album/59G7P0Q82nplbSoazFBZG8"
+      },
+      "artists": [
+        {
+          "name": "FLORIAN",
+          "url": "https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184626,
+      "name": "La Herencia",
+      "url": "https://open.spotify.com/track/6mS0cjqTQwo6Uc4SysXY7E"
+    },
+    {
+      "album": {
         "name": "La Ma\u00f1ana",
         "url": "https://open.spotify.com/album/1S6f9Loz5vafrp1fE4MehB"
       },
@@ -1712,7 +1748,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 174610,
       "name": "Lejos de Todo",
       "url": "https://open.spotify.com/track/6cdvRh5aYQdPdfr18T5Zmc"
@@ -2170,6 +2206,28 @@
       "duration_ms": 210763,
       "name": "NO TE ALEJES",
       "url": "https://open.spotify.com/track/4Nx5BIyMer4DjxbE5aJh1v"
+    },
+    {
+      "album": {
+        "name": "no te suelto",
+        "url": "https://open.spotify.com/album/0ObPGkq7o2XU6n38Mnh2aS"
+      },
+      "artists": [
+        {
+          "name": "Martina Brito",
+          "url": "https://open.spotify.com/artist/1g9OkXK7eB3DnWuVnUXpNJ"
+        },
+        {
+          "name": "Santi Celli",
+          "url": "https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "no te suelto",
+      "url": "https://open.spotify.com/track/3Q8vjtUXxkpCivLrRm84wf"
     },
     {
       "album": {
@@ -3349,6 +3407,24 @@
     },
     {
       "album": {
+        "name": "uno atr\u00e1s de otro",
+        "url": "https://open.spotify.com/album/4aCkfE1H6jAmgSHlSp0zwN"
+      },
+      "artists": [
+        {
+          "name": "lisandro skar",
+          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "uno atr\u00e1s de otro",
+      "url": "https://open.spotify.com/track/3ANyWzAhn7gcXjyqK2DjWv"
+    },
+    {
+      "album": {
         "name": "Deseo",
         "url": "https://open.spotify.com/album/51wJqhiJ1Ja7Zpn56rY9hz"
       },
@@ -3364,7 +3440,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 166202,
       "name": "Vale Todo",
       "url": "https://open.spotify.com/track/40Za1VS1b5mkWSHrlSu6Db"

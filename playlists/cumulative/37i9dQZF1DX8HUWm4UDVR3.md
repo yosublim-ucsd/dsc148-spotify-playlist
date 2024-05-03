@@ -2,9 +2,9 @@
 
 ### [Couleur Pop](https://open.spotify.com/playlist/37i9dQZF1DX8HUWm4UDVR3)
 
-> La pop française annonce la couleur\. Photo : Satine
+> La pop française annonce la couleur\. Photo : Anaïs MVA
 
-178 songs - 8 hr 48 min
+179 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Julia](https://open.spotify.com/track/7M45CXpMcsjxAVZxqpmzrH) | [chien noir](https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP) | [Apollo](https://open.spotify.com/album/14VtQBdVFJ8RqjH4YsqZL7) | 2:53 | 2023-10-12 | 2024-01-26 |
 | [L'amour l'enfer](https://open.spotify.com/track/6gRBB7g9JpPEctr8lIIUlV) | [Princesse](https://open.spotify.com/artist/6btazhSPWJjAUX7Qvk8CEw), [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [Jolis monstres](https://open.spotify.com/album/6TmUb13Fk8tz1i6YZ5H0qr) | 2:52 | 2023-10-05 | 2024-03-01 |
 | [L'an prochain](https://open.spotify.com/track/5KcrRKstOkD5USI4wA2hEV) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9), [Jules Jaconelli](https://open.spotify.com/artist/5vQd9dKRdEZFKuMjtF4qoJ) | [L'an prochain](https://open.spotify.com/album/6kExkDePwNliVyZfXLRscx) | 3:20 | 2023-07-27 | 2023-09-22 |
-| [L'Atlantique](https://open.spotify.com/track/2M9JOD1W6AUSkbnpsDaWce) | [Opaline](https://open.spotify.com/artist/0Mp2rPC1xoRs63od7dflGV) | [L'Atlantique](https://open.spotify.com/album/7uzRSsf4pJDhkYqaSBDZ0W) | 2:46 | 2024-02-15 |  |
+| [L'Atlantique](https://open.spotify.com/track/2M9JOD1W6AUSkbnpsDaWce) | [Opaline](https://open.spotify.com/artist/0Mp2rPC1xoRs63od7dflGV) | [L'Atlantique](https://open.spotify.com/album/7uzRSsf4pJDhkYqaSBDZ0W) | 2:46 | 2024-02-15 | 2024-05-03 |
 | [L'été](https://open.spotify.com/track/3BsWBBgjhc9Iaqh74ffpTf) | [Pépite](https://open.spotify.com/artist/0oA0cg7ajEwV0EXKCAlQ63) | [L'été](https://open.spotify.com/album/7xTNZ0EmI8hmzZLFwQRUAB) | 3:20 | 2023-10-05 | 2023-11-25 |
 | [La vie est longue](https://open.spotify.com/track/2McsyeHX5S2SyUFfb73J5Z) | [Juicy Cola](https://open.spotify.com/artist/6u9m2Ocxutj8gv7UJdwiWJ), [Orilia](https://open.spotify.com/artist/5NerLamEpJvx6k2iquvXHK) | [La vie est longue](https://open.spotify.com/album/1N83q5bGAu09JywfzvlYi3) | 2:37 | 2024-04-11 |  |
 | [Langue de P\*\*\*](https://open.spotify.com/track/3i9Pggk53qDhoMSV5CPmUk) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Langue de P\*\*\*](https://open.spotify.com/album/4CiDivdp3Wgi3isf1Soywy) | 2:44 | 2023-07-27 | 2023-10-13 |
@@ -183,6 +183,7 @@
 | [Vent violent](https://open.spotify.com/track/08B3fIzo8bmYNlGgeZMzCM) | [Fleur Copin](https://open.spotify.com/artist/7LcMjf96A3Do8qhgjnn8Fy) | [Vent violent](https://open.spotify.com/album/2ZmUpBmqmuRf2Ev6opeojO) | 2:13 | 2023-09-28 | 2023-10-20 |
 | [Vital](https://open.spotify.com/track/6TmFRumBFH5pe47ifSk6xH) | [Tessa Galli](https://open.spotify.com/artist/2gwcCVXHaxheagUuFstHvI) | [Vital](https://open.spotify.com/album/78JSV318gx3LZyLYnbGqqP) | 2:52 | 2023-09-07 | 2023-10-06 |
 | [XS](https://open.spotify.com/track/08Jrszz3ir62gPhy9wfU4i) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [XS](https://open.spotify.com/album/52JamK8WdjuILo8uhev83g) | 2:36 | 2023-07-27 | 2023-12-22 |
+| [Ça changera](https://open.spotify.com/track/5djeUP858B1W5UlLfyT4c1) | [Opaline](https://open.spotify.com/artist/0Mp2rPC1xoRs63od7dflGV) | [Ça changera](https://open.spotify.com/album/2U31luRWbjNaqhej8fQa9q) | 3:03 | 2024-05-02 |  |
 | [Ça ira](https://open.spotify.com/track/4fzoguCLFCgt2ldzSkLkL4) | [Gaëlle](https://open.spotify.com/artist/7IEKUdw3xG4W1DpxvLL0di) | [Ça ira](https://open.spotify.com/album/18sxQrfpUxfwygD6RTtcju) | 2:38 | 2023-12-14 | 2024-02-02 |
 | [État normal](https://open.spotify.com/track/5gpNCEmwRtF9WmlVc3y9RJ) | [Venus VNR](https://open.spotify.com/artist/1VNVb5UAADT5TLDjQ1oGZW) | [État normal](https://open.spotify.com/album/0JwKhFsPG4KIkGZeQy0YWY) | 2:18 | 2024-01-25 | 2024-04-19 |
 | [être moi\-même](https://open.spotify.com/track/1QkNQXYEKusDSWe592C98z) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [premiers chocs](https://open.spotify.com/album/5jUJHvqGAbvklfgPy9z2gy) | 2:40 | 2024-01-11 | 2024-04-19 |

@@ -2,9 +2,9 @@
 
 ### [RADAR Al Sur](https://open.spotify.com/playlist/37i9dQZF1DX6nghHfwjiMg)
 
-> El futuro está acá\. Foto: Soui Uno
+> El futuro está acá.
 
-163 songs - 8 hr 29 min
+166 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,9 +41,11 @@
 | [Chica del Verano](https://open.spotify.com/track/6ydFgO4uHX1YH2LD3R51E5) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Chica del Verano](https://open.spotify.com/album/1kTIfj6JPV9HdNIKHtS541) | 3:38 | 2021-11-11 | 2022-07-29 |
 | [Chica del Verano](https://open.spotify.com/track/1utTQCIQFdqCrA9KjjLub3) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Una Caricia](https://open.spotify.com/album/3pLaIMdYteZIVFexcu8ViK) | 3:41 | 2022-06-27 | 2023-06-02 |
 | [City Girls](https://open.spotify.com/track/4m6hHJ9GlMAZO0w7IqDT6j) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [City Girls](https://open.spotify.com/album/0dTActaxiyZbWiN4qctJI4) | 2:55 | 2021-11-11 | 2022-05-23 |
+| [Como Lo Hizo? \- En Vivo](https://open.spotify.com/track/0Hz6aSrhpX96XElSwq7Eb5) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc), [La banda de Carlitos](https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo) | [La Muela \- LBC](https://open.spotify.com/album/0wmTMFAyJNcLL6PbaVOWEB) | 3:51 | 2024-05-02 |  |
 | [Cosa Suya](https://open.spotify.com/track/1Z74xogis6AXH1khWQRJ95) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [Azul Es Donde Siempre Estoy](https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M) | 2:33 | 2023-10-05 |  |
 | [Cuarto Creciente](https://open.spotify.com/track/2Qqaf2keyqm5IHbWVsVFjq) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 2:58 | 2022-09-01 | 2023-06-02 |
 | [Cura' de Espanto](https://open.spotify.com/track/1hzSaPNL2XsYUa3nGfIbjZ) | [AFTER](https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Cura' de Espanto](https://open.spotify.com/album/5yrDNsjle7n0sRrZpdfIp9) | 1:58 | 2023-06-01 |  |
+| [De Nada](https://open.spotify.com/track/4B5Xj6lJfVsXLzzzZE1Fdf) | [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE) | [De Nada](https://open.spotify.com/album/746z1LiHVs93wlgNoxLyk3) | 3:17 | 2024-05-02 |  |
 | [Desvelo](https://open.spotify.com/track/5ZB7rbNjnJ8lMZ4KTuh55F) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Desvelo](https://open.spotify.com/album/5Ik4DBNjzxeCdawBwHyxFI) | 4:34 | 2021-11-11 | 2023-06-02 |
 | [Dime](https://open.spotify.com/track/07K6fgUdBPCL5ZzhRdu8H0) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [AQUA](https://open.spotify.com/album/1GNzrbGnSOWd5HsbSgsMtq) | 3:13 | 2023-06-01 |  |
 | [Dime](https://open.spotify.com/track/2msCd7i6rtFqM8lU9lnJdm) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [AQUA](https://open.spotify.com/album/0UTvRc4RJLiFok8MG4KbWC) | 3:13 | 2023-06-01 | 2024-04-19 |
@@ -160,6 +162,7 @@
 | [Tal Como Soy](https://open.spotify.com/track/5rw5RHbmi7BLGJqpDjbCSr) | [ADIONE](https://open.spotify.com/artist/1I2pJ2vYfZH0WND1diKJ1l) | [Tal Como Soy](https://open.spotify.com/album/7LATzEUfsgsZ7UAw731bGS) | 3:37 | 2021-11-11 | 2022-06-27 |
 | [Te Mentiria](https://open.spotify.com/track/5MOF8J0yJVHdKE3gRgpM6r) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Te Mentiria](https://open.spotify.com/album/5ZhZaBJaiJPoPre9hzZ75K) | 3:06 | 2021-11-11 | 2022-06-28 |
 | [Te Trae'](https://open.spotify.com/track/6nvQadx2zZK3MW8BYkc7BO) | [Henak](https://open.spotify.com/artist/6IwHTQehlMdwxwZ8zUJqf0) | [Te Trae'](https://open.spotify.com/album/6PskyBe7xL7YyxVReJmMw8) | 4:36 | 2021-11-11 | 2023-06-02 |
+| [Teléfono](https://open.spotify.com/track/0TLcJzMSrDwOlGFzx6sgCP) | [Valentina](https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR), [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC) | [Teléfono](https://open.spotify.com/album/2JNMOZnl8uXLora1UHkK3q) | 2:53 | 2024-05-02 |  |
 | [TIERRA ZANTA](https://open.spotify.com/track/73zQG7t3tZDyePEflVSqJJ) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Victor Heredia](https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X) | [BIEN O MAL](https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl) | 3:57 | 2023-06-01 |  |
 | [Tira Pa Tra](https://open.spotify.com/track/7e3eBgoH6HuhYrNMQavcgf) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Tira Pa Tra](https://open.spotify.com/album/6GP8fr8B8GjMPbfwbbk0UN) | 2:55 | 2023-06-01 |  |
 | [Todo el Tiempo](https://open.spotify.com/track/0u1Ng1yrU52juwW92L7yB8) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [Todo el Tiempo](https://open.spotify.com/album/64cLuVI6XFdGcbEyas3J4E) | 3:14 | 2023-10-05 |  |

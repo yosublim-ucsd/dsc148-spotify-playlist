@@ -8817,6 +8817,28 @@
     },
     {
       "album": {
+        "name": "COBALT: SOMUCHMoRE",
+        "url": "https://open.spotify.com/album/6Z0u6ZZA5DISPvzMXbfGx8"
+      },
+      "artists": [
+        {
+          "name": "Len",
+          "url": "https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s"
+        },
+        {
+          "name": "BXKS",
+          "url": "https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151741,
+      "name": "HOTnKOLD (feat. BXKS)",
+      "url": "https://open.spotify.com/track/02Vl9QdBH7GvFbaBzhXHMW"
+    },
+    {
+      "album": {
         "name": "Now Leaving West Feldwood",
         "url": "https://open.spotify.com/album/7m10seswHmxu6oSrXNvths"
       },
@@ -16872,7 +16894,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 225484,
       "name": "R.L.M",
       "url": "https://open.spotify.com/track/7xrp1M7PQfRh5fsT8dOGnj"

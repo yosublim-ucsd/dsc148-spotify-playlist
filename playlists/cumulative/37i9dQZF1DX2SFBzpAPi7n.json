@@ -6437,6 +6437,24 @@
     },
     {
       "album": {
+        "name": "Normal Love",
+        "url": "https://open.spotify.com/album/1Y2OnLgXy5Pa7m0YHY5PGQ"
+      },
+      "artists": [
+        {
+          "name": "wYte",
+          "url": "https://open.spotify.com/artist/6ku0yqiBqUvtZ16Pi3soDC"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204666,
+      "name": "Normal Love",
+      "url": "https://open.spotify.com/track/5S3kJyqUmYgF0sbD00Ao8K"
+    },
+    {
+      "album": {
         "name": "not even close",
         "url": "https://open.spotify.com/album/6udZp5kz6Qs86hCjjRy1zN"
       },
@@ -9354,6 +9372,24 @@
       "duration_ms": 260836,
       "name": "SWIMMING",
       "url": "https://open.spotify.com/track/6y8BCw8EyaGOcjGpgqOnMx"
+    },
+    {
+      "album": {
+        "name": "System Error",
+        "url": "https://open.spotify.com/album/1CszyO6eUiSOXJgQRwl8cf"
+      },
+      "artists": [
+        {
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202400,
+      "name": "System Error",
+      "url": "https://open.spotify.com/track/3ugIDVprXVn0yoIeHjIgNm"
     },
     {
       "album": {

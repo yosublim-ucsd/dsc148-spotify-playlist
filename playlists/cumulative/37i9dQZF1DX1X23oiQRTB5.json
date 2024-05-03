@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Werenoi au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
+  "description": "Tiakola au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
   "name": "PVNCHLNRS",
   "tracks": [
     {
@@ -336,7 +336,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 176146,
       "name": "Aller sans retour",
       "url": "https://open.spotify.com/track/4RTtj1vGu82hjp3cDtiqOj"
@@ -1174,6 +1174,28 @@
       "duration_ms": 191984,
       "name": "Daddy chocolat",
       "url": "https://open.spotify.com/track/4IbDTrLxImTJfZePAX2nKB"
+    },
+    {
+      "album": {
+        "name": "Fractur\u00e9",
+        "url": "https://open.spotify.com/album/1jU9sWL9lFP09SE1BbL5Pw"
+      },
+      "artists": [
+        {
+          "name": "Rimkus",
+          "url": "https://open.spotify.com/artist/4S19VrKiaA2usxsnqr5kA8"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238474,
+      "name": "Danger",
+      "url": "https://open.spotify.com/track/1q5sxBrlmNh7GqkniehNLh"
     },
     {
       "album": {
@@ -3286,7 +3308,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 144933,
       "name": "Mignon tout plein",
       "url": "https://open.spotify.com/track/6ndhj3a2GDg2YiS1AvBVTC"
@@ -4264,6 +4286,24 @@
       "duration_ms": 176086,
       "name": "Roule un autre - A COLORS SHOW",
       "url": "https://open.spotify.com/track/7FKZix4pk2qf4SZVMOYich"
+    },
+    {
+      "album": {
+        "name": "RR Phantom",
+        "url": "https://open.spotify.com/album/6biiy3ANhJ4vl57sXa9MxY"
+      },
+      "artists": [
+        {
+          "name": "Timal",
+          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "RR Phantom",
+      "url": "https://open.spotify.com/track/2ZEHv7uVlIJA1fUZNWP1YQ"
     },
     {
       "album": {

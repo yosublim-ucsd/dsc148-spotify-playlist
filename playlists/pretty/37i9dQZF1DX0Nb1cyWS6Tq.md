@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 
 > Come closer and see..\. into the dark\. The Cure on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 766,186 likes - 80 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 766,739 likes - 80 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,16 +76,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 66 | [A Failure](https://open.spotify.com/track/7m7tomE2aqrzEBuVpflp2l) | [Lycia](https://open.spotify.com/artist/6D2FZCqwDafnI49jrFYROE) | [In Flickers](https://open.spotify.com/album/3bBAVkxSwk1ZzNH1873nUI) | 4:57 |
 | 67 | [Pale Empress](https://open.spotify.com/track/0MpED5lINAluPXp1zoS0Zq) | [The Merry Thoughts](https://open.spotify.com/artist/0nGkRbjHNrPwbjseJ2pckm) | [New Alternatives II](https://open.spotify.com/album/7LaYAOE7PbtbE8gTRyZgHL) | 3:37 |
 | 68 | [Just a Lifetime](https://open.spotify.com/track/7Bqz2cjdtsdFyMYiAdZdnK) | [The Legendary Pink Dots](https://open.spotify.com/artist/55XX7sgmxtVFNJnHrQMXh5) | [The Crushed Velvet Apocalypse](https://open.spotify.com/album/5nEQkSEKzKHefdY6w9nxKm) | 7:46 |
-| 69 | [North, South, East and West](https://open.spotify.com/track/6XaBRidK04H7lOHWgLkfdU) | [The Church](https://open.spotify.com/artist/2ZfogSsOWP4mVfEqfpLXCt) | [Starfish](https://open.spotify.com/album/3gz1CZk5wFg2inBuUWDa8x) | 4:49 |
-| 70 | [Gothic Girl](https://open.spotify.com/track/5FFvaskWpkLIgBdNhlSIOG) | [The 69 Eyes](https://open.spotify.com/artist/0Z1UczcSjwKNuv4HgdjH3b) | [Gothic Essential Tracks](https://open.spotify.com/album/540DrBi3W4doXmlMpmohj5) | 4:28 |
+| 69 | [Gothic Girl](https://open.spotify.com/track/5FFvaskWpkLIgBdNhlSIOG) | [The 69 Eyes](https://open.spotify.com/artist/0Z1UczcSjwKNuv4HgdjH3b) | [Gothic Essential Tracks](https://open.spotify.com/album/540DrBi3W4doXmlMpmohj5) | 4:28 |
+| 70 | [North, South, East and West](https://open.spotify.com/track/6XaBRidK04H7lOHWgLkfdU) | [The Church](https://open.spotify.com/artist/2ZfogSsOWP4mVfEqfpLXCt) | [Starfish](https://open.spotify.com/album/3gz1CZk5wFg2inBuUWDa8x) | 4:49 |
 | 71 | [Rumours](https://open.spotify.com/track/0g2OVqfjNDKHm9NVehyinS) | [The Beauty of Gemina](https://open.spotify.com/artist/3ooh46u3DrqxPbxtMH4oqU) | [At the End of the Sea](https://open.spotify.com/album/7z00FuZO5yHWL5VSjvcq1S) | 3:55 |
 | 72 | [Wild World](https://open.spotify.com/track/55neF1EoL53WKfaYfV9QBL) | [Love Is Colder Than Death](https://open.spotify.com/artist/4Csr2RlQUb4MODz2R3Usn7) | [Teignmouth](https://open.spotify.com/album/3yaUYGJ1ol0Katez71WNSc) | 4:21 |
 | 73 | [Is Vic There?](https://open.spotify.com/track/6qqg5rTgBcUsP5NcYmzi6X) | [Department S](https://open.spotify.com/artist/0tEV531O5iaWJiH7Yjzf8j) | [Demon \- The Singles Collection](https://open.spotify.com/album/4aBwfMZUkIQ2pJ7QNDuFpi) | 3:05 |
 | 74 | [Blood Be Fluid](https://open.spotify.com/track/7HyrigNQ5MIr19G4ECFNeH) | [Julia Romana](https://open.spotify.com/artist/3syw2pWKHP7n8VnXhCFn3d) | [Blood Be Fluid](https://open.spotify.com/album/1ECmQ3a1oTSozVhc49eiID) | 3:47 |
 | 75 | [Do You Take This Man?](https://open.spotify.com/track/6U9BfQ8LYv2ofWsvZX1yyx) | [Diamanda Galás](https://open.spotify.com/artist/42AURgCa94xz79E0fxE3Ay) | [The Sporting Life](https://open.spotify.com/album/6jPJjdMdP3XPvdE8z9jS11) | 6:09 |
 | 76 | [Shining Road](https://open.spotify.com/track/1XeQKXz0WF8Opaz0mzQczK) | [Cranes](https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP) | [Loved](https://open.spotify.com/album/2indFH0tGfNSPt7MnIXKX0) | 3:51 |
-| 77 | [Labyrinths](https://open.spotify.com/track/3MSS1cV8cPv9U85K17SBWM) | [The KVB](https://open.spotify.com/artist/0BzJFLqchxKNQyEwswwQ40) | [Labyrinths](https://open.spotify.com/album/5gzIaepgrsbnhLsIgp57vG) | 3:24 |
-| 78 | [Shimmering, Warm & Bright](https://open.spotify.com/track/2agj6uHYuUwlQoOjEuiM7n) | [bel canto](https://open.spotify.com/artist/5Bz8k8phXRsAtBB6xrIR83) | [Shimmering, Warm and Bright](https://open.spotify.com/album/6d2yDqhmiZi054fXscl4Sn) | 3:17 |
+| 77 | [Shimmering, Warm & Bright](https://open.spotify.com/track/2agj6uHYuUwlQoOjEuiM7n) | [bel canto](https://open.spotify.com/artist/5Bz8k8phXRsAtBB6xrIR83) | [Shimmering, Warm and Bright](https://open.spotify.com/album/6d2yDqhmiZi054fXscl4Sn) | 3:17 |
+| 78 | [Labyrinths](https://open.spotify.com/track/3MSS1cV8cPv9U85K17SBWM) | [The KVB](https://open.spotify.com/artist/0BzJFLqchxKNQyEwswwQ40) | [Labyrinths](https://open.spotify.com/album/5gzIaepgrsbnhLsIgp57vG) | 3:24 |
 | 79 | [Bird Song](https://open.spotify.com/track/1fkjuY5vauCjIPqhGD0RFR) | [Lene Lovich](https://open.spotify.com/artist/1yFJnlNMiBUBplMaOP5CMX) | [Lucky Number \(The Best Of\)](https://open.spotify.com/album/7pltfJ1ItmrO7VHmV9Y0jD) | 4:28 |
 | 80 | [Bella Donna](https://open.spotify.com/track/7ELpiKwEBL3tBoGFgqnZBw) | [The Legendary Pink Dots](https://open.spotify.com/artist/55XX7sgmxtVFNJnHrQMXh5) | [Maria Dimension](https://open.spotify.com/album/4JIs8fvvujGkjy5ieyYOYG) | 4:07 |
 

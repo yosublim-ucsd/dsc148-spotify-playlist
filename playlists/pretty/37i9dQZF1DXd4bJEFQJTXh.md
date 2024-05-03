@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4bJEFQJTXh.md) - [plain]
 
 > Turn down the lights, snack on some popcorn, and enjoy these tracks from your family's favorite films.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,594 likes - 143 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,806 likes - 143 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

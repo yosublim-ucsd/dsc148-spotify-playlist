@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KQrbsfHQvG.md) - [plain]
 
 > Get up\. Stand up\. Be the revolution.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,317 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,350 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KQrbsfHQvG.md) - [plain]
 | 70 | [Election Year, Pt\. 1](https://open.spotify.com/track/7epVTPb3PIFW56MqFkqHYK) | [KillRadio](https://open.spotify.com/artist/3ClupI4Qihar6Edme6SMFr) | [Election Year, Pt\. 1](https://open.spotify.com/album/67VTZ5lbwheDEkSfTv1noT) | 4:08 |
 | 71 | [Too Real](https://open.spotify.com/track/2wLAE0dOBrxmKFql0qpsw5) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Too Real](https://open.spotify.com/album/5vdQmnjcwSpFDnO5lRaDuh) | 4:04 |
 | 72 | [Rise](https://open.spotify.com/track/7yniOnkRyjMmFXleGkG1ON) | [Sixx:A.M.](https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6) | [Prayers for the Damned](https://open.spotify.com/album/0hMPPqOR9n6XSia99Rw6t7) | 3:53 |
-| 73 | [Don't Wait \(ft\. Sam Carter\)](https://open.spotify.com/track/0qOyIp7uxZedcUIVp6BWmT) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The Panic](https://open.spotify.com/album/6MiQ7JVsKlOBJFJzWQZ2Kz) | 3:16 |
-| 74 | [Mirrors](https://open.spotify.com/track/4oFyfXZgrirMQCwjhXGnj6) | [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG) | [Fear](https://open.spotify.com/album/4fu1vGlLFL0UVFnqZh6OB1) | 3:06 |
-| 75 | [Our House \(The Mess We Made\)](https://open.spotify.com/track/5bl2pNsPhMT37RkDUa57Ab) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Our House \(The Mess We Made\)](https://open.spotify.com/album/26sg6kzIjBRBeBV2dl6wzj) | 3:40 |
+| 73 | [Our House \(The Mess We Made\)](https://open.spotify.com/track/5bl2pNsPhMT37RkDUa57Ab) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Our House \(The Mess We Made\)](https://open.spotify.com/album/26sg6kzIjBRBeBV2dl6wzj) | 3:40 |
+| 74 | [Don't Wait \(ft\. Sam Carter\)](https://open.spotify.com/track/0qOyIp7uxZedcUIVp6BWmT) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The Panic](https://open.spotify.com/album/6MiQ7JVsKlOBJFJzWQZ2Kz) | 3:16 |
+| 75 | [Mirrors](https://open.spotify.com/track/4oFyfXZgrirMQCwjhXGnj6) | [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG) | [Fear](https://open.spotify.com/album/4fu1vGlLFL0UVFnqZh6OB1) | 3:06 |
 
 Snapshot ID: `ZJUY/AAAAABN3gRwoGSwnFnqVNDl5hVt`

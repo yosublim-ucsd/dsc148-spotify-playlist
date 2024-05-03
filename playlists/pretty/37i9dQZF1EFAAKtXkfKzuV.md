@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 | 35 | [Normal Fühlen](https://open.spotify.com/track/6iCHAxZFmGJu2bsGVUFhh8) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Besser kann ich es nicht erklären](https://open.spotify.com/album/2x3GbNC5I3eFx4ZrFJjvsy) | 3:10 |
 | 36 | [Already Like a Dream](https://open.spotify.com/track/6EAykoten3uraXpmENYs1v) | [Sandé](https://open.spotify.com/artist/1LPyiIK0Tgl0WtfiNmbE25), [Janessa Evrist](https://open.spotify.com/artist/0BjorBfcjRUoE0tw5v3bkU) | [Already Like a Dream](https://open.spotify.com/album/4Ozvy9OUU73knL1bnAkXYd) | 2:00 |
 | 37 | [Famous for a Day](https://open.spotify.com/track/0zPUSpMCNSn1ItUPANkCCs) | [LA Vision](https://open.spotify.com/artist/02qlwM8fpqep7vX8KKEFmK), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [Famous for a Day](https://open.spotify.com/album/6GmcBZbFsGYXBEKLYb5o6M) | 2:51 |
-| 38 | [feuer im kamin](https://open.spotify.com/track/4wvGfjOtOBw3vxMPj35wgY) | [Revelle](https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA) | [immer nur liebe](https://open.spotify.com/album/2D1YT6jEDEITABsSXuU0MY) | 3:01 |
-| 39 | [Nicht Ich](https://open.spotify.com/track/0mmxpWqh2KJgrjWMqNkgB7) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Nur zu Besuch](https://open.spotify.com/album/38PyRSmGyULdi6JSIwfh8R) | 3:41 |
+| 38 | [Nicht Ich](https://open.spotify.com/track/0mmxpWqh2KJgrjWMqNkgB7) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Nur zu Besuch](https://open.spotify.com/album/38PyRSmGyULdi6JSIwfh8R) | 3:41 |
+| 39 | [feuer im kamin](https://open.spotify.com/track/4wvGfjOtOBw3vxMPj35wgY) | [Revelle](https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA) | [immer nur liebe](https://open.spotify.com/album/2D1YT6jEDEITABsSXuU0MY) | 3:01 |
 | 40 | [Pull Me Out](https://open.spotify.com/track/7DL3XQ3XiSQJ1j34poGCsx) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Nico Santos \(Special Edition\)](https://open.spotify.com/album/62lOkmFDHhhMcaYrolIJVF) | 2:47 |
 | 41 | [SAD](https://open.spotify.com/track/78miAo3Fob7E0bm3mHNuqQ) | [ELI](https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR) | [SAD](https://open.spotify.com/album/1MNE05lqlI864EcgstSQyf) | 2:41 |
 | 42 | [Diese eine Melodie](https://open.spotify.com/track/7DwX8Th7ZptXoiXXwFjCib) | [Alex Lys](https://open.spotify.com/artist/5WLNhK4QDt7xgX45A9VGec) | [Diese eine Melodie](https://open.spotify.com/album/1EmOdYjJP6yu5BjSfkyvaK) | 2:55 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 | 62 | [Flimmerlicht](https://open.spotify.com/track/7J2aP9q1HDpq7edb4b7sK5) | [48 Stunden](https://open.spotify.com/artist/0lzjvvk1UkMwgbpDYlpE7M) | [Der Letzte Sommer](https://open.spotify.com/album/3i9sd6fOlY6b6EVrs6lzT6) | 4:04 |
 | 63 | [Superstars \(Tonight\) \- Original](https://open.spotify.com/track/67U3q4t5IS3hq4uzpn1avq) | [Rush Hour](https://open.spotify.com/artist/5NlrkQ9wUg4sDUZ0DcgNfq) | [Superstars \(Tonight\)](https://open.spotify.com/album/2sUMawAATz5SuhOfkjlYxw) | 4:45 |
 
-Snapshot ID: `AbQM6AAAAACOdiGd16ksFlvsjvF7SaJd`
+Snapshot ID: `AbQSxAAAAACD5CPX3x88N832IOotq/9S`

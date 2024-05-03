@@ -2,7 +2,7 @@
 
 ### [This Is Jordan Davis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4d4SIi)
 
-> This is Jordan Davis\. The essential tracks, all in one playlist.
+> This is Jordan Davis\. De viktigste sporene samlet i én spilleliste.
 
 43 songs - 2 hr 15 min
 

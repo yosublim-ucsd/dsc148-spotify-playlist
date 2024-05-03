@@ -1,131 +1,47 @@
 {
   "description": "Les meilleurs titres du moment et plus encore en version acoustique.",
-  "num_followers": 242249,
+  "num_followers": 242266,
   "original_name": "Hit Acoustique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZiGX4AAAAAAlq99DGuJwovPQxFLTbsvo",
+  "snapshot_id": "ZjQM4AAAAAD8FmsUbjq9MVsieyrRzbJD",
   "tracks": [
     {
-      "added_at": "2024-04-18 22:00:00",
+      "added_at": "2024-05-02 22:00:00",
       "album": {
-        "name": "Whatever (The Remixes)",
-        "url": "https://open.spotify.com/album/4wqObiiJfSvC0W52YG1X0s"
+        "name": "Gold (Acoustic Version)",
+        "url": "https://open.spotify.com/album/1sSiCaSrHOKFRUhrBOjsFi"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+          "name": "Loi",
+          "url": "https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE"
         }
       ],
-      "duration_ms": 225117,
-      "name": "Whatever (with Ava Max) - Acoustic",
-      "url": "https://open.spotify.com/track/2ItCGswdKXWP6fF5FZFFKe"
+      "duration_ms": 199384,
+      "name": "Gold - Acoustic Version",
+      "url": "https://open.spotify.com/track/4kv0HqEYUX4lvTEzO6KGzw"
     },
     {
-      "added_at": "2024-04-18 22:00:00",
+      "added_at": "2024-05-02 22:00:00",
       "album": {
-        "name": "Beautiful Things (Alternate Versions)",
-        "url": "https://open.spotify.com/album/5KZ5cuVY1oLvHI1ecqoUJP"
+        "name": "greedy (remixes)",
+        "url": "https://open.spotify.com/album/0dIpV8isK5mSDnSm8odPWW"
       },
       "artists": [
         {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 201248,
-      "name": "Beautiful Things - Acoustic",
-      "url": "https://open.spotify.com/track/7rJkmoGkKjLMIPI9qUQnSy"
+      "duration_ms": 142363,
+      "name": "greedy acoustic",
+      "url": "https://open.spotify.com/track/7LoyqdrF51XVflrSKFHH1a"
     },
     {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
-        "name": "Secret (sad orchestra)",
-        "url": "https://open.spotify.com/album/1nzeYc8gvWMvGvmJeXLRx0"
-      },
-      "artists": [
-        {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
-        }
-      ],
-      "duration_ms": 188693,
-      "name": "Secret - sad orchestra",
-      "url": "https://open.spotify.com/track/5PbI70YyDqhCYCN2QArxG5"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
-        "name": "Lose Control (Piano Version)",
-        "url": "https://open.spotify.com/album/7t3cSCBzxSoYxwhNzEKtZT"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 206426,
-      "name": "Lose Control - Piano Version",
-      "url": "https://open.spotify.com/track/2tOx1437MGd5HrHINnydWB"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
-        "name": "Is It Love (Orchestral Version)",
-        "url": "https://open.spotify.com/album/1R3WqFfbwCstl1DsOFUMAT"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 249062,
-      "name": "Is It Love - Orchestral Version",
-      "url": "https://open.spotify.com/track/2lRhyOicN7ePTFC2fI5XiD"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
-        "name": "I'm Good (Blue) [Acoustic]",
-        "url": "https://open.spotify.com/album/4WekVlSrFGks8g7BW9xvfY"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 138024,
-      "name": "I'm Good (Blue) - Acoustic",
-      "url": "https://open.spotify.com/track/2MV9MRVSXNTIS3ny31cx9c"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
-        "name": "Ceux qu'on \u00e9tait",
-        "url": "https://open.spotify.com/album/4JdvSrnVF0r39NGMm1Xree"
-      },
-      "artists": [
-        {
-          "name": "Pierre Garnier",
-          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
-        }
-      ],
-      "duration_ms": 200813,
-      "name": "Ceux qu'on \u00e9tait - Version acoustique",
-      "url": "https://open.spotify.com/track/03Nu6igh7gtptMbgJrcdrk"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
+      "added_at": "2024-05-02 22:00:00",
       "album": {
         "name": "Gimme Love (Sofiane Pamart Remix)",
         "url": "https://open.spotify.com/album/1pD0juD4fXUUIDsgGt9xrI"
@@ -145,91 +61,7 @@
       "url": "https://open.spotify.com/track/6QLU9PDrb6DwJauVvExLSu"
     },
     {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
-        "name": "greedy (remixes)",
-        "url": "https://open.spotify.com/album/0dIpV8isK5mSDnSm8odPWW"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 142363,
-      "name": "greedy acoustic",
-      "url": "https://open.spotify.com/track/7LoyqdrF51XVflrSKFHH1a"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
-        "name": "\u00e0 2 \u00e0 3",
-        "url": "https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d"
-      },
-      "artists": [
-        {
-          "name": "Vianney",
-          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
-        },
-        {
-          "name": "Kendji Girac",
-          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
-        }
-      ],
-      "duration_ms": 195987,
-      "name": "Le feu - Acoustique",
-      "url": "https://open.spotify.com/track/5X6yOF0RbcjNe3kFcdhp3X"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
-        "name": "Training Season (Acoustic Version)",
-        "url": "https://open.spotify.com/album/5fqAByatp1mCnkckiH8jYy"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 236492,
-      "name": "Training Season - Acoustic Version",
-      "url": "https://open.spotify.com/track/1Zp65ER4CfD0a7ylF87Z1F"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
-        "name": "Bitter Sweet Love (Acoustic)",
-        "url": "https://open.spotify.com/album/37L0qyd3pFSABQ4OfKi8Tf"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 163598,
-      "name": "Bitter Sweet Love - Acoustic",
-      "url": "https://open.spotify.com/track/0OKRjdVDhc7IM6bbhkMxjJ"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
-        "name": "Gold (Acoustic Version)",
-        "url": "https://open.spotify.com/album/1sSiCaSrHOKFRUhrBOjsFi"
-      },
-      "artists": [
-        {
-          "name": "Loi",
-          "url": "https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE"
-        }
-      ],
-      "duration_ms": 199384,
-      "name": "Gold - Acoustic Version",
-      "url": "https://open.spotify.com/track/4kv0HqEYUX4lvTEzO6KGzw"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
+      "added_at": "2024-05-02 22:00:00",
       "album": {
         "name": "Beau (feat. Julien Dor\u00e9) [Version acoustique]",
         "url": "https://open.spotify.com/album/56nhvJWil0JYTO4v0MBEht"
@@ -249,7 +81,123 @@
       "url": "https://open.spotify.com/track/5reKvqw1x4bKPk7BcatWiU"
     },
     {
-      "added_at": "2024-04-18 22:00:00",
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
+        "name": "Beautiful Things (Alternate Versions)",
+        "url": "https://open.spotify.com/album/5KZ5cuVY1oLvHI1ecqoUJP"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 201248,
+      "name": "Beautiful Things - Acoustic",
+      "url": "https://open.spotify.com/track/7rJkmoGkKjLMIPI9qUQnSy"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
+        "name": "I'm Good (Blue) [Acoustic]",
+        "url": "https://open.spotify.com/album/4WekVlSrFGks8g7BW9xvfY"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 138024,
+      "name": "I'm Good (Blue) - Acoustic",
+      "url": "https://open.spotify.com/track/2MV9MRVSXNTIS3ny31cx9c"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
+        "name": "Training Season (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5fqAByatp1mCnkckiH8jYy"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 236492,
+      "name": "Training Season - Acoustic Version",
+      "url": "https://open.spotify.com/track/1Zp65ER4CfD0a7ylF87Z1F"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
+        "name": "Lose Control (Piano Version)",
+        "url": "https://open.spotify.com/album/7t3cSCBzxSoYxwhNzEKtZT"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 206426,
+      "name": "Lose Control - Piano Version",
+      "url": "https://open.spotify.com/track/2tOx1437MGd5HrHINnydWB"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
+        "name": "Is It Love (Orchestral Version)",
+        "url": "https://open.spotify.com/album/1R3WqFfbwCstl1DsOFUMAT"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 249062,
+      "name": "Is It Love - Orchestral Version",
+      "url": "https://open.spotify.com/track/2lRhyOicN7ePTFC2fI5XiD"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
+        "name": "Whatever (The Remixes)",
+        "url": "https://open.spotify.com/album/4wqObiiJfSvC0W52YG1X0s"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        }
+      ],
+      "duration_ms": 225117,
+      "name": "Whatever (with Ava Max) - Acoustic",
+      "url": "https://open.spotify.com/track/2ItCGswdKXWP6fF5FZFFKe"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
+        "name": "Ceux qu'on \u00e9tait",
+        "url": "https://open.spotify.com/album/4JdvSrnVF0r39NGMm1Xree"
+      },
+      "artists": [
+        {
+          "name": "Pierre Garnier",
+          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
+        }
+      ],
+      "duration_ms": 200813,
+      "name": "Ceux qu'on \u00e9tait - Version acoustique",
+      "url": "https://open.spotify.com/track/03Nu6igh7gtptMbgJrcdrk"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
       "album": {
         "name": "Anti-Hero (Acoustic Version)",
         "url": "https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv"
@@ -265,23 +213,23 @@
       "url": "https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F"
     },
     {
-      "added_at": "2024-04-18 22:00:00",
+      "added_at": "2024-05-02 22:00:00",
       "album": {
-        "name": "I Ain\u2019t Worried - Acoustic (Music From The Motion Picture \"Top Gun: Maverick\")",
-        "url": "https://open.spotify.com/album/7lR2Xqpmvr2r05DQENflBG"
+        "name": "Secret (sad orchestra)",
+        "url": "https://open.spotify.com/album/1nzeYc8gvWMvGvmJeXLRx0"
       },
       "artists": [
         {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
         }
       ],
-      "duration_ms": 149233,
-      "name": "I Ain\u2019t Worried - Acoustic",
-      "url": "https://open.spotify.com/track/29kUiQdEvB9q7joHiYZNJ3"
+      "duration_ms": 188693,
+      "name": "Secret - sad orchestra",
+      "url": "https://open.spotify.com/track/5PbI70YyDqhCYCN2QArxG5"
     },
     {
-      "added_at": "2024-04-18 22:00:00",
+      "added_at": "2024-05-02 22:00:00",
       "album": {
         "name": "Nothing Matters (Acoustic)",
         "url": "https://open.spotify.com/album/6AhAFk2kmCi42LgIND7KHW"
@@ -297,7 +245,59 @@
       "url": "https://open.spotify.com/track/2EgvsPaH1zIQqMXnQiTtqo"
     },
     {
-      "added_at": "2024-04-18 22:00:00",
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
+        "name": "\u00e0 2 \u00e0 3",
+        "url": "https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d"
+      },
+      "artists": [
+        {
+          "name": "Vianney",
+          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
+        },
+        {
+          "name": "Kendji Girac",
+          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+        }
+      ],
+      "duration_ms": 195987,
+      "name": "Le feu - Acoustique",
+      "url": "https://open.spotify.com/track/5X6yOF0RbcjNe3kFcdhp3X"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
+        "name": "Bitter Sweet Love (Acoustic)",
+        "url": "https://open.spotify.com/album/37L0qyd3pFSABQ4OfKi8Tf"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 163598,
+      "name": "Bitter Sweet Love - Acoustic",
+      "url": "https://open.spotify.com/track/0OKRjdVDhc7IM6bbhkMxjJ"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
+        "name": "I Ain\u2019t Worried - Acoustic (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "url": "https://open.spotify.com/album/7lR2Xqpmvr2r05DQENflBG"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 149233,
+      "name": "I Ain\u2019t Worried - Acoustic",
+      "url": "https://open.spotify.com/track/29kUiQdEvB9q7joHiYZNJ3"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
       "album": {
         "name": "In the Stars [(French Version) [Acoustique]]",
         "url": "https://open.spotify.com/album/3LNJA1b8J3s59MELa8u5BV"
@@ -313,7 +313,7 @@
       "url": "https://open.spotify.com/track/3ZHKBOIFBtFM0HFpAwQRbe"
     },
     {
-      "added_at": "2024-04-18 22:00:00",
+      "added_at": "2024-05-02 22:00:00",
       "album": {
         "name": "Tattoo (Acoustic)",
         "url": "https://open.spotify.com/album/6EtQsunaDhISsreHCSplVY"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/5V2wCtKTQEQlWr0igELU4x"
     },
     {
-      "added_at": "2024-04-18 22:00:00",
+      "added_at": "2024-05-02 22:00:00",
       "album": {
         "name": "THIS YEAR (Blessings) [Acoustic Version]",
         "url": "https://open.spotify.com/album/3Zqrx0J4rWBHXpv4HZIlea"
@@ -349,7 +349,7 @@
       "url": "https://open.spotify.com/track/3TawMDALb9pwBKoBWkZWLE"
     },
     {
-      "added_at": "2024-04-18 22:00:00",
+      "added_at": "2024-05-02 22:00:00",
       "album": {
         "name": "Et Bam",
         "url": "https://open.spotify.com/album/4bk60BI5rfcvl392wkXZwJ"
@@ -365,7 +365,7 @@
       "url": "https://open.spotify.com/track/1bizPvtC2qar0gSJBt3NMd"
     },
     {
-      "added_at": "2024-04-18 22:00:00",
+      "added_at": "2024-05-02 22:00:00",
       "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
@@ -381,7 +381,7 @@
       "url": "https://open.spotify.com/track/3MnewZrZDqej6thgEx3OB1"
     },
     {
-      "added_at": "2024-04-18 22:00:00",
+      "added_at": "2024-05-02 22:00:00",
       "album": {
         "name": "Lovers In A Past Life (with Rag'n'Bone Man) [Acoustic]",
         "url": "https://open.spotify.com/album/69qYAZY38cFMWCp3KbcvH4"
@@ -401,7 +401,7 @@
       "url": "https://open.spotify.com/track/5lC9PmD9LGzqO1ejuLYkym"
     },
     {
-      "added_at": "2024-04-18 22:00:00",
+      "added_at": "2024-05-02 22:00:00",
       "album": {
         "name": "The Ballet Girl EP - Part 2",
         "url": "https://open.spotify.com/album/3LGjHu7cfkesscGwoUP5gV"
@@ -417,7 +417,7 @@
       "url": "https://open.spotify.com/track/0dsqEnxjtvkUan8zePPjLT"
     },
     {
-      "added_at": "2024-04-18 22:00:00",
+      "added_at": "2024-05-02 22:00:00",
       "album": {
         "name": "Kill Bill (Acoustic)",
         "url": "https://open.spotify.com/album/1P1hvg624kDZJ841ZAZzWy"
@@ -433,7 +433,7 @@
       "url": "https://open.spotify.com/track/5ReIs3aH4wfBjp93QOtWAl"
     },
     {
-      "added_at": "2024-04-18 22:00:00",
+      "added_at": "2024-05-02 22:00:00",
       "album": {
         "name": "Daylight (Reimagined)",
         "url": "https://open.spotify.com/album/3HGXJ3VnxgW0KEEzQy5GCZ"
@@ -449,7 +449,7 @@
       "url": "https://open.spotify.com/track/38rp6FLYxF43GhnLcb99wu"
     },
     {
-      "added_at": "2024-04-18 22:00:00",
+      "added_at": "2024-05-02 22:00:00",
       "album": {
         "name": "Desire (with Sam Smith) [Acoustic]",
         "url": "https://open.spotify.com/album/15fFDWyVcxknsTGmJ2q354"
@@ -469,7 +469,7 @@
       "url": "https://open.spotify.com/track/5EUZq2pJJi1X2yRHzAeDWJ"
     },
     {
-      "added_at": "2024-04-18 22:00:00",
+      "added_at": "2024-05-02 22:00:00",
       "album": {
         "name": "Emiliana",
         "url": "https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp"
@@ -485,7 +485,7 @@
       "url": "https://open.spotify.com/track/5o2eHgbRzQbeZKMFfgy1nn"
     },
     {
-      "added_at": "2024-04-18 22:00:00",
+      "added_at": "2024-05-02 22:00:00",
       "album": {
         "name": "Strangers (sad acoustic version)",
         "url": "https://open.spotify.com/album/5IbJJqixgNWbwpipRhOagt"
@@ -501,7 +501,7 @@
       "url": "https://open.spotify.com/track/3FdmZW1QbdYwV1Iqomtbrt"
     },
     {
-      "added_at": "2024-04-18 22:00:00",
+      "added_at": "2024-05-02 22:00:00",
       "album": {
         "name": "Mon amour",
         "url": "https://open.spotify.com/album/6FguEmDlsEN93BBiEbwsRn"
@@ -517,7 +517,7 @@
       "url": "https://open.spotify.com/track/5N7IYups0hGrlVcvj0bmHG"
     },
     {
-      "added_at": "2024-04-18 22:00:00",
+      "added_at": "2024-05-02 22:00:00",
       "album": {
         "name": "Unwritten (Acoustic)",
         "url": "https://open.spotify.com/album/5IgXJH8tVqL41YPoAKQnNN"
@@ -533,7 +533,7 @@
       "url": "https://open.spotify.com/track/1asIbRzmsjHJtGxGm0Euxm"
     },
     {
-      "added_at": "2024-04-18 22:00:00",
+      "added_at": "2024-05-02 22:00:00",
       "album": {
         "name": "Bad Habits (Acoustic Version)",
         "url": "https://open.spotify.com/album/6m1jYE77JZX8aJpO5ei2V7"
@@ -549,7 +549,7 @@
       "url": "https://open.spotify.com/track/0IkK4SEryuCtbQjm5LRLMZ"
     },
     {
-      "added_at": "2024-04-18 22:00:00",
+      "added_at": "2024-05-02 22:00:00",
       "album": {
         "name": "Overdrive (feat. Norma Jean Martine) [Acoustic Version]",
         "url": "https://open.spotify.com/album/2NDVKadwJzVmaA0TMXzP3G"
@@ -569,7 +569,7 @@
       "url": "https://open.spotify.com/track/2C48i664TyRtr77PBzW6cS"
     },
     {
-      "added_at": "2024-04-18 22:00:00",
+      "added_at": "2024-05-02 22:00:00",
       "album": {
         "name": "Where Are You Now (Acoustic)",
         "url": "https://open.spotify.com/album/4Am155SZjwvCP6zPnnVZqH"
@@ -589,7 +589,7 @@
       "url": "https://open.spotify.com/track/4jU6qkh8stB9uqXEPMqnJL"
     },
     {
-      "added_at": "2024-04-18 22:00:00",
+      "added_at": "2024-05-02 22:00:00",
       "album": {
         "name": "Cold Heart (Acoustic)",
         "url": "https://open.spotify.com/album/78pahaG6oQu93YqFLVYGEv"
@@ -609,7 +609,7 @@
       "url": "https://open.spotify.com/track/0k6LV1ohcK2hlNPwu1nVw9"
     },
     {
-      "added_at": "2024-04-18 22:00:00",
+      "added_at": "2024-05-02 22:00:00",
       "album": {
         "name": "1000 Forms Of Fear (Deluxe Version)",
         "url": "https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH"
@@ -625,7 +625,7 @@
       "url": "https://open.spotify.com/track/0udoMICxzaUbNUT8EVRq8B"
     },
     {
-      "added_at": "2024-04-18 22:00:00",
+      "added_at": "2024-05-02 22:00:00",
       "album": {
         "name": "Wish You The Best EP",
         "url": "https://open.spotify.com/album/46ksJlfXcOQTlSUo7EWIYE"
@@ -641,7 +641,7 @@
       "url": "https://open.spotify.com/track/3rOGAAipcIGs9p75v9wDPq"
     },
     {
-      "added_at": "2024-04-18 22:00:00",
+      "added_at": "2024-05-02 22:00:00",
       "album": {
         "name": "Lavender Haze (Acoustic Version)",
         "url": "https://open.spotify.com/album/6eKdbTio5viiwJ5FE5J8wU"
@@ -657,7 +657,7 @@
       "url": "https://open.spotify.com/track/05kJkr80XEaZeN8kxyQoFp"
     },
     {
-      "added_at": "2024-04-18 22:00:00",
+      "added_at": "2024-05-02 22:00:00",
       "album": {
         "name": "Trip Tape",
         "url": "https://open.spotify.com/album/707cK3j40hIquI15sOcYXP"
@@ -673,7 +673,7 @@
       "url": "https://open.spotify.com/track/1X6Kmaa2Yq70vF0cIQ6V0f"
     },
     {
-      "added_at": "2024-04-18 22:00:00",
+      "added_at": "2024-05-02 22:00:00",
       "album": {
         "name": "SNAP PACK",
         "url": "https://open.spotify.com/album/3CVEB0FPk25Ds64ALgxjH7"
@@ -689,7 +689,7 @@
       "url": "https://open.spotify.com/track/6OQ84LoCVGxLkH95LOjIC1"
     },
     {
-      "added_at": "2024-04-18 22:00:00",
+      "added_at": "2024-05-02 22:00:00",
       "album": {
         "name": "Take On Me (2017 Acoustic)",
         "url": "https://open.spotify.com/album/475VP8QRLP0eQ5wfeyrCS1"
@@ -705,7 +705,7 @@
       "url": "https://open.spotify.com/track/6NK9sI0Lnsiwn6I0MbWWxn"
     },
     {
-      "added_at": "2024-04-18 22:00:00",
+      "added_at": "2024-05-02 22:00:00",
       "album": {
         "name": "Control (Acoustic Versions)",
         "url": "https://open.spotify.com/album/0GfYuFknkNUEPIbmV9rCef"
@@ -721,7 +721,7 @@
       "url": "https://open.spotify.com/track/7LsJd6JUzWy3SUvy33g6yQ"
     },
     {
-      "added_at": "2024-04-18 22:00:00",
+      "added_at": "2024-05-02 22:00:00",
       "album": {
         "name": "Can't Tame Her (Acoustic)",
         "url": "https://open.spotify.com/album/7kSvTMG6BOS7O7yHyKeGpg"
@@ -737,7 +737,7 @@
       "url": "https://open.spotify.com/track/1fuD35YHKBFQTIy61hbwo4"
     },
     {
-      "added_at": "2024-04-18 22:00:00",
+      "added_at": "2024-05-02 22:00:00",
       "album": {
         "name": "Love Nwantiti (Acoustic Version)",
         "url": "https://open.spotify.com/album/246C6Xn7fypfU7vQ8m1YP6"
@@ -753,7 +753,7 @@
       "url": "https://open.spotify.com/track/450u5gGMGwQXmtLSR7AN2s"
     },
     {
-      "added_at": "2024-04-18 22:00:00",
+      "added_at": "2024-05-02 22:00:00",
       "album": {
         "name": "How Do I Say Goodbye",
         "url": "https://open.spotify.com/album/1F0usgSkjLQNKW7wRsNvRY"
@@ -769,7 +769,7 @@
       "url": "https://open.spotify.com/track/7fAoDr6naastKUtqo75SNm"
     },
     {
-      "added_at": "2024-04-18 22:00:00",
+      "added_at": "2024-05-02 22:00:00",
       "album": {
         "name": "Eyes Closed (Piano Version)",
         "url": "https://open.spotify.com/album/6dhAJ4oigNFSv4paZnZHmW"
@@ -785,7 +785,7 @@
       "url": "https://open.spotify.com/track/1C0Uqh9cRMLPw9WpZzL4Z1"
     },
     {
-      "added_at": "2024-04-18 22:00:00",
+      "added_at": "2024-05-02 22:00:00",
       "album": {
         "name": "Rescue Me (Acoustic)",
         "url": "https://open.spotify.com/album/4FKJzm7dX080AbyIJd6VKZ"
@@ -801,7 +801,7 @@
       "url": "https://open.spotify.com/track/3LS8Asffy5knMgZu4wrePz"
     },
     {
-      "added_at": "2024-04-18 22:00:00",
+      "added_at": "2024-05-02 22:00:00",
       "album": {
         "name": "Sweet but Psycho (Acoustic)",
         "url": "https://open.spotify.com/album/2oKx85K5SRVksSS9aN1Lon"
@@ -817,7 +817,7 @@
       "url": "https://open.spotify.com/track/10WVEHOf1FZf5XgK6dUWvN"
     },
     {
-      "added_at": "2024-04-18 22:00:00",
+      "added_at": "2024-05-02 22:00:00",
       "album": {
         "name": "Light Switch (Acoustic)",
         "url": "https://open.spotify.com/album/0H6pdORxZ735HztupqklPx"
@@ -833,7 +833,7 @@
       "url": "https://open.spotify.com/track/42nDnUAPjhZFlj5wt2BjJm"
     },
     {
-      "added_at": "2024-04-18 22:00:00",
+      "added_at": "2024-05-02 22:00:00",
       "album": {
         "name": "Forget Me (Piano Acoustic)",
         "url": "https://open.spotify.com/album/2RhXMRkU9R9LW0bNxcuVX0"

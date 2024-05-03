@@ -787,6 +787,28 @@
     },
     {
       "album": {
+        "name": "Be Like You",
+        "url": "https://open.spotify.com/album/6Wk8G1q5fH2LvUBGrpQrfN"
+      },
+      "artists": [
+        {
+          "name": "Longo",
+          "url": "https://open.spotify.com/artist/6myydsPHqq4xmZD7DWzRjI"
+        },
+        {
+          "name": "Marco Lollis",
+          "url": "https://open.spotify.com/artist/1gjNDmsEJhBAftfWPXIBzI"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167250,
+      "name": "Be Like You",
+      "url": "https://open.spotify.com/track/3kH93b7yojG4FKOpNiFCMo"
+    },
+    {
+      "album": {
         "name": "Be There 4 U",
         "url": "https://open.spotify.com/album/3OvBVGiRVQoJCuCeACNAYl"
       },
@@ -892,6 +914,24 @@
       "duration_ms": 286000,
       "name": "Better",
       "url": "https://open.spotify.com/track/1cw4mrBVhHbYzLzzKXOUxb"
+    },
+    {
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/23TwGNiTdCvHnZXqm4tJsp"
+      },
+      "artists": [
+        {
+          "name": "1111",
+          "url": "https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211748,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/6xmMBY754l7guTzNokbzos"
     },
     {
       "album": {
@@ -3231,6 +3271,32 @@
     },
     {
       "album": {
+        "name": "Heartbreak",
+        "url": "https://open.spotify.com/album/37B1K70ov6LUqjIvuWsonh"
+      },
+      "artists": [
+        {
+          "name": "James Carter",
+          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+        },
+        {
+          "name": "Lavern",
+          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
+        },
+        {
+          "name": "SHELLS",
+          "url": "https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144253,
+      "name": "Heartbreak",
+      "url": "https://open.spotify.com/track/0Gbpzzf8oLuFNSLYAvov3I"
+    },
+    {
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/7jCx1Huyomf6QE1P3iAU19"
       },
@@ -3944,6 +4010,28 @@
       "duration_ms": 174222,
       "name": "i feel too much",
       "url": "https://open.spotify.com/track/6AGbz4qiwUkr2Dtr7h6mBi"
+    },
+    {
+      "album": {
+        "name": "I FOUND LOVE",
+        "url": "https://open.spotify.com/album/3MkrZ1fsG8z8eeweengGbr"
+      },
+      "artists": [
+        {
+          "name": "Angrybaby",
+          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
+        },
+        {
+          "name": "Alida",
+          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175741,
+      "name": "I FOUND LOVE",
+      "url": "https://open.spotify.com/track/1GHwT5K4Rl1es95fuSIMKZ"
     },
     {
       "album": {
@@ -6422,6 +6510,46 @@
       "duration_ms": 140826,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/3Z8pXlydvG00cjalDZgiUq"
+    },
+    {
+      "album": {
+        "name": "On My Own",
+        "url": "https://open.spotify.com/album/0NQddsB7zwntWpH9RVvYPt"
+      },
+      "artists": [
+        {
+          "name": "V. Christie",
+          "url": "https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206222,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/6muKIQgJPJRk5D9p07MHp5"
+    },
+    {
+      "album": {
+        "name": "One & Only",
+        "url": "https://open.spotify.com/album/4PHRaB8XYh78hPcP1silAU"
+      },
+      "artists": [
+        {
+          "name": "CHEEKS",
+          "url": "https://open.spotify.com/artist/3yeAenPW5DfjuousCOdek9"
+        },
+        {
+          "name": "CRONIN",
+          "url": "https://open.spotify.com/artist/6FJuV645kRPPrMRHLjPq7M"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "One & Only",
+      "url": "https://open.spotify.com/track/3eLnhLSIY20UnHy8dXZapc"
     },
     {
       "album": {
@@ -8953,6 +9081,24 @@
     },
     {
       "album": {
+        "name": "There4u",
+        "url": "https://open.spotify.com/album/3svFFEHHgnWtAria3P8VlK"
+      },
+      "artists": [
+        {
+          "name": "Attic Beats",
+          "url": "https://open.spotify.com/artist/6oGLvkrXYxzfmCdG2Tuadi"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103880,
+      "name": "There4u",
+      "url": "https://open.spotify.com/track/1rdZrsMxYN7tbDsHvXpbf9"
+    },
+    {
+      "album": {
         "name": "These Words",
         "url": "https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq"
       },
@@ -9843,6 +9989,32 @@
     },
     {
       "album": {
+        "name": "Warmth (feat. Jono Dorr)",
+        "url": "https://open.spotify.com/album/5x66mF9DXl6adqFN3wbZhr"
+      },
+      "artists": [
+        {
+          "name": "DVBBS",
+          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
+        },
+        {
+          "name": "Boaz van de Beatz",
+          "url": "https://open.spotify.com/artist/7Gl7G1JK7feTWHy1YJExfw"
+        },
+        {
+          "name": "Jono Dorr",
+          "url": "https://open.spotify.com/artist/1yNrXpRb1GV0K8oeZCzNVa"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219289,
+      "name": "Warmth (feat. Jono Dorr)",
+      "url": "https://open.spotify.com/track/4n0VL14tXWTWk8gFs40dZv"
+    },
+    {
+      "album": {
         "name": "WASTED ON ME",
         "url": "https://open.spotify.com/album/5e08LQuzV5wcQlCcp9rs2g"
       },
@@ -10342,6 +10514,24 @@
       "duration_ms": 231176,
       "name": "without ur love",
       "url": "https://open.spotify.com/track/4EZWt3NPTOoY9LBk7GuFmC"
+    },
+    {
+      "album": {
+        "name": "Without you",
+        "url": "https://open.spotify.com/album/5GdjeCRJRztpVeS9LteoYc"
+      },
+      "artists": [
+        {
+          "name": "EBEN",
+          "url": "https://open.spotify.com/artist/02J7bo06ZZ1XmSGochlWak"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137240,
+      "name": "Without you",
+      "url": "https://open.spotify.com/track/5RWdq2jT298p5iKTuEsiL0"
     },
     {
       "album": {

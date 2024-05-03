@@ -2,9 +2,9 @@
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> The best French indie tracks right now\. Cover : Christine and the Queens
+> The best French indie tracks right now\. Cover : L'Impératrice
 
-489 songs - 1 day 2 hr 47 min
+491 songs - 1 day 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [C'est La Vie](https://open.spotify.com/track/65h2qZ7sBG9GcRSgSlobvy) | [Hyphen Hyphen](https://open.spotify.com/artist/5KQuLhckFhcox1K9UCgLuV) | [C'est La vie](https://open.spotify.com/album/2DpWqMGAYZlpIJhNpTZN9u) | 2:51 | 2023-01-19 | 2023-02-10 |
 | [C'est mon truc](https://open.spotify.com/track/0VW89sbCVJaGb4iGeNrOEv) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [Zélie c'est quoi ?](https://open.spotify.com/album/51UJNhfVEsYfjukIag27Y2) | 3:05 | 2023-02-23 | 2024-03-01 |
 | [C'est OK](https://open.spotify.com/track/1YRLb0tT7RyTkicGKsUnfY) | [Clea Vincent](https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu) | [C'est OK](https://open.spotify.com/album/5KknyKEbHqlAEfkB64HGHe) | 3:04 | 2023-11-02 | 2023-12-08 |
+| [C'est ton truc](https://open.spotify.com/track/21cdxCXMIgweW3yZuWNn5V) | [Adamé](https://open.spotify.com/artist/0sERWA25W58jwsWqspklGe) | [C'est ton truc](https://open.spotify.com/album/4Id8NPFlQigLDmpob64QPo) | 2:50 | 2024-05-02 |  |
 | [call it a night](https://open.spotify.com/track/2vgfNCFLKRfCsOuLzA1AaD) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [call it a night](https://open.spotify.com/album/5ghiXxNIxCM24yk7uAvWC6) | 2:56 | 2022-12-15 | 2023-01-06 |
 | [Call My Name](https://open.spotify.com/track/4fxgbRNGXQt2icHi18N3SK) | [Hyphen Hyphen](https://open.spotify.com/artist/5KQuLhckFhcox1K9UCgLuV) | [Call My Name](https://open.spotify.com/album/6TTgpPYJs0Z11waheHHA7K) | 3:40 | 2022-12-01 | 2023-01-06 |
 | [Calvin](https://open.spotify.com/track/4FZXNjy9tRM2qrwpEs46Wc) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Calvin](https://open.spotify.com/album/7lN3wA0cM16Sdg1qdF86Yn) | 3:03 | 2022-12-15 | 2023-04-07 |
@@ -96,7 +97,7 @@
 | [Crush \(feat\. Anaïs Demoustier\)](https://open.spotify.com/track/3dDwRbHzCvT2ToXjv8jkfQ) | [Requin Chagrin](https://open.spotify.com/artist/7hstPLRSo0ipNnICMpTN5g), [Anaïs Demoustier](https://open.spotify.com/artist/0nWAZSp0jv8b7RDmrbW4Eh) | [Crush \(feat\. Anaïs Demoustier\)](https://open.spotify.com/album/01XHesceKpZaMt3cmXVKHv) | 3:18 | 2022-08-25 | 2023-02-17 |
 | [Dans ma tête](https://open.spotify.com/track/1N065mYphUNO3ImHmMpC1t) | [Nell Widmer](https://open.spotify.com/artist/3Wt1O2klP0ptRHnUwBjQx2) | [Dans ma tête](https://open.spotify.com/album/7cWdOBIkhsd1nYcvXBl22L) | 2:42 | 2023-05-04 | 2024-02-02 |
 | [Dans mes rêves](https://open.spotify.com/track/4mVY5qhPe2PWDvf7E2Sn0d) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [Dans mes rêves](https://open.spotify.com/album/41ldBOE9Pjc0hWdfNJc0ha) | 3:43 | 2021-12-16 | 2022-03-25 |
-| [Danza Marilù \(feat\. Fabiana Martone\)](https://open.spotify.com/track/6JZOZWEpu1hcTCz28rnQwJ) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Fabiana Martone](https://open.spotify.com/artist/0HmuQ7f7dXY5W6wK4rA8j1) | [Danza Marilù \(feat\. Fabiana Martone\)](https://open.spotify.com/album/7orjo51zaXJFjbpVy2qWjf) | 4:04 | 2024-04-04 |  |
+| [Danza Marilù \(feat\. Fabiana Martone\)](https://open.spotify.com/track/6JZOZWEpu1hcTCz28rnQwJ) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Fabiana Martone](https://open.spotify.com/artist/0HmuQ7f7dXY5W6wK4rA8j1) | [Danza Marilù \(feat\. Fabiana Martone\)](https://open.spotify.com/album/7orjo51zaXJFjbpVy2qWjf) | 4:04 | 2024-04-04 | 2024-05-03 |
 | [DARLING\. N6.23](https://open.spotify.com/track/2TeFJiZe6eFIM2aAjp8leW) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266) | [SEASONS](https://open.spotify.com/album/0ySU41tw4sVCQVWnmb9XmL) | 4:02 | 2023-12-08 |  |
 | [Day & Night](https://open.spotify.com/track/7B2RswVcMbBs70dFyxVGak) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Opening Soon](https://open.spotify.com/album/5YX88yWrZXIXhyPTpNQhHb) | 4:03 | 2023-08-31 |  |
 | [De passage](https://open.spotify.com/track/4a0upuCaLwcfL7TBYAGfGu) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [De passage](https://open.spotify.com/album/7qUUnF1DQdPRJhIeoWd3XB) | 3:06 | 2023-11-23 |  |
@@ -265,6 +266,7 @@
 | [Lost and found](https://open.spotify.com/track/6MMEa398lg04laP9v8Q1YM) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [Lost and found](https://open.spotify.com/album/4V5EXwlVZyDgqx5RHLik1z) | 4:02 | 2024-02-15 | 2024-04-19 |
 | [Lost and found](https://open.spotify.com/track/3o5inGcKklTC2NwrCSUhQl) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [Lost and found](https://open.spotify.com/album/3AVDhfJj8lyxdhLgSia94h) | 4:02 | 2023-09-21 |  |
 | [Love](https://open.spotify.com/track/2DdwX6AeNWHtM2MDVBwosk) | [Nusky & Vaati](https://open.spotify.com/artist/4hQg3HQhXpqDWA0xi8rplg), [Clea Vincent](https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu) | [Love](https://open.spotify.com/album/0w4szfJWUyvDX0zHhGHUPS) | 4:10 | 2022-06-30 | 2023-01-13 |
+| [Love from the Other Side](https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Love from the Other Side](https://open.spotify.com/album/7Fbph706oR8vaTPcYYvp9n) | 4:09 | 2024-05-02 |  |
 | [Love! love! love!](https://open.spotify.com/track/0VUrBTBFYX8tkGUbWJ5wkD) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [BLOWSOM & friends](https://open.spotify.com/album/3ixRxq63i9d7drvJJf8UGs) | 3:22 | 2023-01-05 | 2023-04-14 |
 | [Loving Soft](https://open.spotify.com/track/59ZKmw2qa1w0IWcYZxk25s) | [Please](https://open.spotify.com/artist/07xx8lFWESVjZnqCpm43ku) | [Loving Soft](https://open.spotify.com/album/6cS7DGBdv2IRcTOF4Ed7e3) | 3:54 | 2023-01-26 | 2023-03-10 |
 | [Ma plus belle aventure](https://open.spotify.com/track/6O0kgPvEUySOADRg4eNuvh) | [Bleu Toucan](https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r) | [Ma plus belle aventure](https://open.spotify.com/album/3pHIOSWVoT7vaYswR0rLQO) | 3:17 | 2022-02-03 | 2022-09-16 |
@@ -374,7 +376,7 @@
 | [rien dire](https://open.spotify.com/track/7nAU7YNFqUCb91FkTDVEUD) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [rien dire](https://open.spotify.com/album/2Kl3eV9Yo13AR4mgAXgWQu) | 3:02 | 2022-09-29 | 2022-11-18 |
 | [Romantisme](https://open.spotify.com/track/3wmhe1o4IMfLw3NOxfmxwu) | [Bolivard](https://open.spotify.com/artist/4I9Jjqu3WodJ5v8VOoeWyE) | [Romantisme](https://open.spotify.com/album/1AuDZxt0M2s86a7EzhIFJl) | 3:49 | 2024-04-04 |  |
 | [Run](https://open.spotify.com/track/6mcP1kDZE3Iqn9ps7wtYbf) | [Gurth](https://open.spotify.com/artist/3Jp2CVbWo0yJs60rPyIlTb), [Diane Sagnier](https://open.spotify.com/artist/7grNqGVCIRH4ZM3UR1QAay), [Pangol](https://open.spotify.com/artist/24GK68qM53IIPkK3NEYHd4) | [Run](https://open.spotify.com/album/55nrtrhYbidS1MWC7bchos) | 3:29 | 2024-02-23 |  |
-| [Sacha](https://open.spotify.com/track/4Iw28yS7pa8k4pcMF9R3YR) | [Bonnie Banane](https://open.spotify.com/artist/5krZkab66mF2eexXFJv0A6) | [Nini](https://open.spotify.com/album/0KhnZoRrVjk9tkMkviirvh) | 3:11 | 2024-04-04 |  |
+| [Sacha](https://open.spotify.com/track/4Iw28yS7pa8k4pcMF9R3YR) | [Bonnie Banane](https://open.spotify.com/artist/5krZkab66mF2eexXFJv0A6) | [Nini](https://open.spotify.com/album/0KhnZoRrVjk9tkMkviirvh) | 3:11 | 2024-04-04 | 2024-05-03 |
 | [Saint\-Germain](https://open.spotify.com/track/0xjRkSgHG8A14Z2q5TdEiy) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [Saint\-Germain](https://open.spotify.com/album/5v60CETbGHisBr29z93w3S) | 3:10 | 2024-04-04 |  |
 | [SAN FRANCISCO \(BABY!\)](https://open.spotify.com/track/05QklCPuKAyDce74SWqf6I) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [SAN FRANCISCO \(BABY!\)](https://open.spotify.com/album/4QdUQ164R3oomzrOz72IIg) | 3:15 | 2023-09-07 | 2023-10-06 |
 | [Sans toi](https://open.spotify.com/track/26mUo1w8cTYVEk89JQVNqs) | [Chillpac](https://open.spotify.com/artist/3k8dN7ttBtz3ce20RS6BQl), [Clé](https://open.spotify.com/artist/6ngMTk9g830xvD6sl48tmQ) | [Sans toi](https://open.spotify.com/album/2jqDiAzXCYAdez5EDVnUcR) | 3:15 | 2022-07-28 | 2023-02-03 |

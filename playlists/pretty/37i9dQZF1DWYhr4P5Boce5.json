@@ -1,6 +1,6 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 202486,
+  "num_followers": 202514,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "My Tribe",
-        "url": "https://open.spotify.com/album/6BiS5wWmp1iWnRsxkq4BzD"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 201526,
-      "name": "Look At Love",
-      "url": "https://open.spotify.com/track/6LyEFiIuByViEKcbZBAebw"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "Beautiful",
         "url": "https://open.spotify.com/album/4cb9hipQR0owfDfjieuOsb"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 226155,
       "name": "Beautiful (feat. India.Arie)",
       "url": "https://open.spotify.com/track/1P5jyUv4YzTUWTorHAQjgf"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "My Tribe",
+        "url": "https://open.spotify.com/album/6BiS5wWmp1iWnRsxkq4BzD"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 201526,
+      "name": "Look At Love",
+      "url": "https://open.spotify.com/track/6LyEFiIuByViEKcbZBAebw"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Just Too Good",
-        "url": "https://open.spotify.com/album/6ZbkWzwtQiNTCWNu7uTTbd"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 203268,
-      "name": "Just Too Good",
-      "url": "https://open.spotify.com/track/23hRAQiS0XqnGIz1Oyb1gR"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "Every Falling Tear",
         "url": "https://open.spotify.com/album/57KfddAY3ffu3A3F7M5b0h"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 246461,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/40WDnUnzQL4XTo81vUJlKt"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "Just Too Good",
+        "url": "https://open.spotify.com/album/6ZbkWzwtQiNTCWNu7uTTbd"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 203268,
+      "name": "Just Too Good",
+      "url": "https://open.spotify.com/track/23hRAQiS0XqnGIz1Oyb1gR"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "You Are My Love",
-        "url": "https://open.spotify.com/album/6zfH3FOHE3dDog2yUZRBJx"
-      },
-      "artists": [
-        {
-          "name": "Jervis Campbell",
-          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
-        }
-      ],
-      "duration_ms": 203120,
-      "name": "You Are My Love",
-      "url": "https://open.spotify.com/track/2a7DHOlWYlXf9jVkT8LV54"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "Carry Me",
         "url": "https://open.spotify.com/album/4xjAeY5J7q6iHlRWEF07b0"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 177658,
       "name": "What A Mystery",
       "url": "https://open.spotify.com/track/2FYSON92zpz3iiDAmG2IMg"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "You Are My Love",
+        "url": "https://open.spotify.com/album/6zfH3FOHE3dDog2yUZRBJx"
+      },
+      "artists": [
+        {
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+        }
+      ],
+      "duration_ms": 203120,
+      "name": "You Are My Love",
+      "url": "https://open.spotify.com/track/2a7DHOlWYlXf9jVkT8LV54"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
+        "name": "Colton Dixon",
+        "url": "https://open.spotify.com/album/3mHEOWMp4xyuH3B290E34B"
+      },
+      "artists": [
+        {
+          "name": "Colton Dixon",
+          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
+        }
+      ],
+      "duration_ms": 200538,
+      "name": "Can't Quit You",
+      "url": "https://open.spotify.com/track/1rDFKjc3N1o8REMY9jVBPh"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
         "name": "Church Girls Love R&B - Girls Trip ll",
         "url": "https://open.spotify.com/album/6v5VS3app0uhJ8NLXuZ0jY"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 275135,
       "name": "OMM (On My Mind) [Remix]",
       "url": "https://open.spotify.com/track/5NSk2v3d5O32aJPBnWQ2b3"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
-        "name": "Colton Dixon",
-        "url": "https://open.spotify.com/album/3mHEOWMp4xyuH3B290E34B"
-      },
-      "artists": [
-        {
-          "name": "Colton Dixon",
-          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
-        }
-      ],
-      "duration_ms": 200538,
-      "name": "Can't Quit You",
-      "url": "https://open.spotify.com/track/1rDFKjc3N1o8REMY9jVBPh"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Let Me Be There",
-        "url": "https://open.spotify.com/album/6YY0XIec51PuwdYo1Gp5tW"
-      },
-      "artists": [
-        {
-          "name": "Gaither Vocal Band",
-          "url": "https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o"
-        }
-      ],
-      "duration_ms": 185095,
-      "name": "Laughter In The Rain",
-      "url": "https://open.spotify.com/track/4iDZKkjeZQEWFigMdMSZMa"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "South Florida (Remix)",
         "url": "https://open.spotify.com/album/74wMNGzBXYobjUUhZIvg0E"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 165000,
       "name": "South Florida (Remix)",
       "url": "https://open.spotify.com/track/7rcXtR06BJ0D6xU9wmwgkI"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "Let Me Be There",
+        "url": "https://open.spotify.com/album/6YY0XIec51PuwdYo1Gp5tW"
+      },
+      "artists": [
+        {
+          "name": "Gaither Vocal Band",
+          "url": "https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o"
+        }
+      ],
+      "duration_ms": 185095,
+      "name": "Laughter In The Rain",
+      "url": "https://open.spotify.com/track/4iDZKkjeZQEWFigMdMSZMa"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
+        "name": "2nd Happy",
+        "url": "https://open.spotify.com/album/4qo16UyarKgPkXdSZkNK0s"
+      },
+      "artists": [
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "duration_ms": 225890,
+      "name": "2nd Happy",
+      "url": "https://open.spotify.com/track/5q38R7YPq4uHSpVTUYye1k"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
         "name": "Good Love (feat. Kim Burrell)",
         "url": "https://open.spotify.com/album/4kMIVmOYqpCXgstb0z1ks7"
       },
@@ -1775,22 +1791,6 @@
       "duration_ms": 248066,
       "name": "Good Love (feat. Kim Burrell)",
       "url": "https://open.spotify.com/track/3uYPITWb2G39R0KY3TpYQz"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
-        "name": "2nd Happy",
-        "url": "https://open.spotify.com/album/4qo16UyarKgPkXdSZkNK0s"
-      },
-      "artists": [
-        {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
-        }
-      ],
-      "duration_ms": 225890,
-      "name": "2nd Happy",
-      "url": "https://open.spotify.com/track/5q38R7YPq4uHSpVTUYye1k"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Kundi",
-        "url": "https://open.spotify.com/album/7kKQg3ltXjslGxkhXEzG5Q"
-      },
-      "artists": [
-        {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Kundi",
-      "url": "https://open.spotify.com/track/7lEbed8bJ3kVRXSv4eJUwW"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "IOU",
         "url": "https://open.spotify.com/album/0OoN6mpdxCzQs6Iq5b26aF"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 218454,
       "name": "IOU",
       "url": "https://open.spotify.com/track/042ILs7k3vS7HDtUgBU8nl"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "Kundi",
+        "url": "https://open.spotify.com/album/7kKQg3ltXjslGxkhXEzG5Q"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Kundi",
+      "url": "https://open.spotify.com/track/7lEbed8bJ3kVRXSv4eJUwW"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "All I Want",
-        "url": "https://open.spotify.com/album/7ptnSU6WA3tFnVe7VG87dh"
-      },
-      "artists": [
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        }
-      ],
-      "duration_ms": 158295,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/4MxehknPShDdVgRciNtJTp"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "fall (when we fell in love)",
         "url": "https://open.spotify.com/album/10n7mUKnfNJKUWcm6Bu6jm"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 157990,
       "name": "fall (when we fell in love)",
       "url": "https://open.spotify.com/track/36d1svoAknjikN8IgUXSbD"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "All I Want",
+        "url": "https://open.spotify.com/album/7ptnSU6WA3tFnVe7VG87dh"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 158295,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/4MxehknPShDdVgRciNtJTp"
     },
     {
       "added_at": "2024-02-05 17:58:02",

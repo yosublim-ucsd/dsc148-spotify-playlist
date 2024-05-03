@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 32444,
+  "num_followers": 32447,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjA0gAAAAABfj5JLnqn2lwVgx5k2sOwY",
+  "snapshot_id": "ZjGGAAAAAAA3sEPbw5XYoIp6c7IXUKLr",
   "tracks": [
     {
       "added_at": null,
@@ -295,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sessions",
-        "url": "https://open.spotify.com/album/7yaedwQjo5ai0h1EEI9ymx"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 188053,
-      "name": "Sessions",
-      "url": "https://open.spotify.com/track/03gHIjYCwrOia5nNwg7jmT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SLICK ALMIGHTY",
         "url": "https://open.spotify.com/album/5Kz4xbbXLmUuRUhGzBgsSF"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 204750,
       "name": "Drench Gang (feat. G Herbo)",
       "url": "https://open.spotify.com/track/2s8jq5UcAjIsRCo4VYvQrW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sessions",
+        "url": "https://open.spotify.com/album/7yaedwQjo5ai0h1EEI9ymx"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 188053,
+      "name": "Sessions",
+      "url": "https://open.spotify.com/track/03gHIjYCwrOia5nNwg7jmT"
     },
     {
       "added_at": null,
@@ -711,6 +711,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "UNDERWORLD",
+        "url": "https://open.spotify.com/album/1G4tRpGjmTkmE3jSAtKkvV"
+      },
+      "artists": [
+        {
+          "name": "Skrilla",
+          "url": "https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 181080,
+      "name": "Swerve (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/27MFaiM3gYDvknS6FYEUVC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Still Swervin",
         "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
       },
@@ -751,26 +771,6 @@
       "duration_ms": 167965,
       "name": "DON'T LEAVE ME (feat. G Herbo & Lil Durk)",
       "url": "https://open.spotify.com/track/2n1XN46reBpu5I9wDwzZMP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "UNDERWORLD",
-        "url": "https://open.spotify.com/album/1G4tRpGjmTkmE3jSAtKkvV"
-      },
-      "artists": [
-        {
-          "name": "Skrilla",
-          "url": "https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 181080,
-      "name": "Swerve (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/27MFaiM3gYDvknS6FYEUVC"
     },
     {
       "added_at": null,
@@ -859,22 +859,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "FOR CERTAIN (Deluxe)",
-        "url": "https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc"
+        "name": "The Coldest",
+        "url": "https://open.spotify.com/album/0V2BZLpJjyk4eey1BOC9st"
       },
       "artists": [
         {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
         },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
         }
       ],
-      "duration_ms": 131224,
-      "name": "BESITO (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/1JTJws1FmfNRrF90bns0TT"
+      "duration_ms": 202788,
+      "name": "Mike Jack (feat. G Herbo & Rob49)",
+      "url": "https://open.spotify.com/track/5PqtvOUAjO6XXSbGcvA7Oo"
     },
     {
       "added_at": null,
@@ -911,6 +915,26 @@
       "duration_ms": 218880,
       "name": "TO THE MOON (feat. Fivio Foreign, Russ Millions & Sam Tompkins) - Drill Remix",
       "url": "https://open.spotify.com/track/3rF1pPjaDjWuIUCTXpMGIv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FOR CERTAIN (Deluxe)",
+        "url": "https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 131224,
+      "name": "BESITO (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/1JTJws1FmfNRrF90bns0TT"
     },
     {
       "added_at": null,
@@ -1007,46 +1031,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Coldest",
-        "url": "https://open.spotify.com/album/0V2BZLpJjyk4eey1BOC9st"
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/475bx5gQq2PATODjuDmXJ8"
       },
       "artists": [
         {
-          "name": "Skilla Baby",
-          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+          "name": "SheedTs",
+          "url": "https://open.spotify.com/artist/6YOu8dp0Y0Nev97d8OjqIQ"
         },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Rob49",
-          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
         }
       ],
-      "duration_ms": 202788,
-      "name": "Mike Jack (feat. G Herbo & Rob49)",
-      "url": "https://open.spotify.com/track/5PqtvOUAjO6XXSbGcvA7Oo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Humble Beast (Deluxe)",
-        "url": "https://open.spotify.com/album/46Shwm91xl9opm3MadNEGn"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 161753,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/4HNFreT8wNv9oOFC5RQew9"
+      "duration_ms": 176027,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/47AnQOnGJsW36cWmYtKB5u"
     }
   ],
   "unique_name": "This Is G Herbo",

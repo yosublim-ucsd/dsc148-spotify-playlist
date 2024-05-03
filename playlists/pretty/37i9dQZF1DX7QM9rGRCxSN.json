@@ -1,6 +1,6 @@
 {
   "description": "Belleza y distorsi\u00f3n imaginada por bandas iberoamericanas. Estrella del Sol en portada.",
-  "num_followers": 30546,
+  "num_followers": 30563,
   "original_name": "Shoegaze & Dreampop en espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Todo Va a Estar Bien",
-        "url": "https://open.spotify.com/album/0GoEGXpVjqIcPJOZIqlhtw"
-      },
-      "artists": [
-        {
-          "name": "Bilbao",
-          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
-        }
-      ],
-      "duration_ms": 195500,
-      "name": "Todo Va a Estar Bien",
-      "url": "https://open.spotify.com/track/64jBAvPvYBRU1m4chLxbtT"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "BILLY",
         "url": "https://open.spotify.com/album/1ivkMDnb2NCYgRUtNmwrk7"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 252633,
       "name": "BILLY",
       "url": "https://open.spotify.com/track/1g4B7jOmIU52X1PzEiKqST"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Todo Va a Estar Bien",
+        "url": "https://open.spotify.com/album/0GoEGXpVjqIcPJOZIqlhtw"
+      },
+      "artists": [
+        {
+          "name": "Bilbao",
+          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
+        }
+      ],
+      "duration_ms": 195500,
+      "name": "Todo Va a Estar Bien",
+      "url": "https://open.spotify.com/track/64jBAvPvYBRU1m4chLxbtT"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Almost Reach the Sun",
-        "url": "https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS"
-      },
-      "artists": [
-        {
-          "name": "Trementina",
-          "url": "https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X"
-        }
-      ],
-      "duration_ms": 237087,
-      "name": "Lazy Lovers",
-      "url": "https://open.spotify.com/track/223R25sVUNY4QCvA7XjkNk"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "Ausencia",
         "url": "https://open.spotify.com/album/4OAE4XgmFZfiqBmu4UbYDG"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 100036,
       "name": "Ansiedad",
       "url": "https://open.spotify.com/track/57hPi0hmEHQNMhzpyp9E8P"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Almost Reach the Sun",
+        "url": "https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS"
+      },
+      "artists": [
+        {
+          "name": "Trementina",
+          "url": "https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X"
+        }
+      ],
+      "duration_ms": 237087,
+      "name": "Lazy Lovers",
+      "url": "https://open.spotify.com/track/223R25sVUNY4QCvA7XjkNk"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -811,18 +811,18 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Ojal\u00e1 te mueras",
-        "url": "https://open.spotify.com/album/3ZKgeMOkbDDGRi29v9JFzO"
+        "name": "Dolor",
+        "url": "https://open.spotify.com/album/2hZiihQIxQYOEuQPKOnhbd"
       },
       "artists": [
         {
-          "name": "Menta",
-          "url": "https://open.spotify.com/artist/6LlGOJmoJ97bhGx3UX2URn"
+          "name": "Aura Blum",
+          "url": "https://open.spotify.com/artist/4eToagOiA1nEzs7s8PMjgq"
         }
       ],
-      "duration_ms": 247583,
-      "name": "Ojal\u00e1 te mueras",
-      "url": "https://open.spotify.com/track/2CWW9NiH9URcRnpRbS28nf"
+      "duration_ms": 196408,
+      "name": "Dolor",
+      "url": "https://open.spotify.com/track/22FpzpT8WmbasbUsw0FNiI"
     }
   ],
   "unique_name": "Shoegaze & Dreampop en espa\u00f1ol",

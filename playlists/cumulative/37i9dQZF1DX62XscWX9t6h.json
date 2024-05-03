@@ -3234,7 +3234,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 226404,
       "name": "Whaya",
       "url": "https://open.spotify.com/track/7rbtfZPksHs4rl5cZTgU7s"
@@ -3516,6 +3516,24 @@
       "duration_ms": 228200,
       "name": "\u0428\u043e \u0437-\u043f\u043e\u0434 \u0434\u0443\u0431\u0430",
       "url": "https://open.spotify.com/track/52Wl3PQGfyvMJm5JQu0acD"
+    },
+    {
+      "album": {
+        "name": "Correspondances",
+        "url": "https://open.spotify.com/album/7bHqPAAsC9LBhk1HhMYG6z"
+      },
+      "artists": [
+        {
+          "name": "CHO CO PA CO CHO CO QUIN QUIN",
+          "url": "https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "\u30a2\u30c0\u30f3\u306e\u6d77\u8fba",
+      "url": "https://open.spotify.com/track/2Sw8R2PBZQ6qvtpsEMu9ND"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX62XscWX9t6h"

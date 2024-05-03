@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Luke Hemmings op de cover van Fresh Pop! ",
+  "description": "SERA op de cover van Fresh Pop! ",
   "name": "Fresh Pop",
   "tracks": [
     {
@@ -128,7 +128,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 206581,
       "name": "2053",
       "url": "https://open.spotify.com/track/6qI5XzPWAYbnxkepQBjyyn"
@@ -804,7 +804,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
@@ -1104,7 +1104,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 220264,
       "name": "Blue ft. Berre",
       "url": "https://open.spotify.com/track/6W851KE7s5gwJvEk8L9h2q"
@@ -1306,7 +1306,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 172000,
       "name": "broken by you",
       "url": "https://open.spotify.com/track/472jZF9DQbbJlp6Zg58aai"
@@ -1620,6 +1620,28 @@
       "duration_ms": 131937,
       "name": "club heaven",
       "url": "https://open.spotify.com/track/1nO6DT2QIYTxwLGrfQvIt3"
+    },
+    {
+      "album": {
+        "name": "Cocoon",
+        "url": "https://open.spotify.com/album/3BYNvCPN2QOHwyG6HcBRKT"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        },
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197945,
+      "name": "Cocoon",
+      "url": "https://open.spotify.com/track/1HiTSSMkRcKzeCEbTlZySu"
     },
     {
       "album": {
@@ -2352,7 +2374,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 208253,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/14uRu4FrDuBKrd4PEwc8ha"
@@ -3014,6 +3036,24 @@
       "duration_ms": 185552,
       "name": "Feather",
       "url": "https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID"
+    },
+    {
+      "album": {
+        "name": "Feel Again",
+        "url": "https://open.spotify.com/album/1Ivs2XzyHSUHUYXFbFghUp"
+      },
+      "artists": [
+        {
+          "name": "Isabel van Gelder",
+          "url": "https://open.spotify.com/artist/4FAFRhpZUK7DnI1VWX2STP"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195500,
+      "name": "Feel Again",
+      "url": "https://open.spotify.com/track/6ZqFEJmQokxWJ2dwzJZ3RR"
     },
     {
       "album": {
@@ -3944,7 +3984,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 181417,
       "name": "Head Head Honcho",
       "url": "https://open.spotify.com/track/0rW8JS6v94ggHMBiAI2PNf"
@@ -4381,6 +4421,24 @@
     },
     {
       "album": {
+        "name": "Hurt Me",
+        "url": "https://open.spotify.com/album/36Wlc2fxWoilGfYwd7SaC4"
+      },
+      "artists": [
+        {
+          "name": "SERA",
+          "url": "https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185476,
+      "name": "Hurt Me",
+      "url": "https://open.spotify.com/track/2rkf3F19As1KUykfS45TQv"
+    },
+    {
+      "album": {
         "name": "Hush Hush",
         "url": "https://open.spotify.com/album/1WfDg3nWWNCF79qK0kTlmB"
       },
@@ -4612,7 +4670,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 182443,
       "name": "I Don't Wanna Dance",
       "url": "https://open.spotify.com/track/330ssf1QuLQjoaoyZbyrPI"
@@ -4796,6 +4854,24 @@
       "duration_ms": 192746,
       "name": "I Want It All",
       "url": "https://open.spotify.com/track/66qkBxuwjKxEbvLxo4tY0C"
+    },
+    {
+      "album": {
+        "name": "I Will Go There",
+        "url": "https://open.spotify.com/album/6rmoINRdaMiAsPKrAeJMlt"
+      },
+      "artists": [
+        {
+          "name": "Krezip",
+          "url": "https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205120,
+      "name": "I Will Go There",
+      "url": "https://open.spotify.com/track/4k7HwknBn8gSBRgqgIMvba"
     },
     {
       "album": {
@@ -6110,7 +6186,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 221709,
       "name": "Make You Mine",
       "url": "https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL"
@@ -6272,7 +6348,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 179534,
       "name": "Memories",
       "url": "https://open.spotify.com/track/2VDTqhsSzrRxsbjvv4KLPl"
@@ -6934,7 +7010,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 187013,
       "name": "Nu Ik Niet Meer Over Je Schrijf",
       "url": "https://open.spotify.com/track/2wvPA1ZpNEtewvbngmbOXY"
@@ -7959,6 +8035,24 @@
     },
     {
       "album": {
+        "name": "Sacrifice Tomorrow",
+        "url": "https://open.spotify.com/album/0GVkcfu3pkAdakG3oIt5cu"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145622,
+      "name": "Sacrifice Tomorrow",
+      "url": "https://open.spotify.com/track/5H4y5thHDJUAxwiclrSXc1"
+    },
+    {
+      "album": {
         "name": "SAD B!TCH",
         "url": "https://open.spotify.com/album/1YKrir8bqPzZKr6RyL2GTZ"
       },
@@ -7992,6 +8086,24 @@
       "duration_ms": 218577,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq"
+    },
+    {
+      "album": {
+        "name": "Save Yourself",
+        "url": "https://open.spotify.com/album/0qE9OIMQ7segzpUxdaV5KG"
+      },
+      "artists": [
+        {
+          "name": "F\u00c4M",
+          "url": "https://open.spotify.com/artist/0GRkFcHaRm50dImpZMc8eG"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195572,
+      "name": "Save Yourself",
+      "url": "https://open.spotify.com/track/4McCCgQlZm7dOOarZRtpRI"
     },
     {
       "album": {
@@ -8468,7 +8580,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 144920,
       "name": "So Good",
       "url": "https://open.spotify.com/track/2XTSjtPIN0PzfJEfdceNaN"
@@ -9140,7 +9252,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 174723,
       "name": "Teardrops",
       "url": "https://open.spotify.com/track/2SYovto91rjt4Dh5w330JJ"
@@ -9327,6 +9439,24 @@
     },
     {
       "album": {
+        "name": "Radical Optimism",
+        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217783,
+      "name": "These Walls",
+      "url": "https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py"
+    },
+    {
+      "album": {
         "name": "Think Like a Man",
         "url": "https://open.spotify.com/album/4pNE931yJKwQvvJw0JJRzj"
       },
@@ -9378,6 +9508,24 @@
       "duration_ms": 196260,
       "name": "To Love Someone",
       "url": "https://open.spotify.com/track/3PsHulD1zewglcTPcEPnlk"
+    },
+    {
+      "album": {
+        "name": "To The Moon",
+        "url": "https://open.spotify.com/album/2G2P07ht3IeibH1sa9p08r"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148665,
+      "name": "To The Moon",
+      "url": "https://open.spotify.com/track/24N1h7w6arNjmwuUFk0lc4"
     },
     {
       "album": {
@@ -10074,7 +10222,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 190750,
       "name": "Who Do I Call Now? (Hellbent)",
       "url": "https://open.spotify.com/track/26uXIvU5DdJLPUIj8pK9w7"

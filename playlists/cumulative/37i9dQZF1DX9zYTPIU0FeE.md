@@ -4,7 +4,7 @@
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB?si=CD\-0PtcBRSKfmvNyKerzaA">Zoë Modiga</a>
 
-214 songs - 22 hr 55 min
+216 songs - 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [No Hope After 1](https://open.spotify.com/track/3sXTg8HJL6TdpNtADdlDIW) | [Fernando Damon](https://open.spotify.com/artist/33NVhommONkAqw8HnexI5K), [Robin Fassie](https://open.spotify.com/artist/5Z5yBH3PAZ2Qpp5DFHZn2d) | [Surrender](https://open.spotify.com/album/4BB8QBZatr1sYCBeiXLzVg) | 3:25 | 2022-04-28 | 2023-04-12 |
 | [Nomayoyo \(Ingoma ka Mkhulu\)](https://open.spotify.com/track/37FQ84wNKmipnbUxstpTbG) | [Thandi Ntuli](https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy), [Carlos Niño](https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu) | [Nomayoyo \(Ingoma ka Mkhulu\)](https://open.spotify.com/album/10WxliCdK3RkTdJ2lg0b6H) | 5:34 | 2023-10-05 | 2023-10-30 |
 | [Nomusa](https://open.spotify.com/track/2I9C5gWjddBpmxRABM5kGB) | [Ndikho Xaba](https://open.spotify.com/artist/7tJTfmFXNe9VJqBnHrurUh) | [Ndikho Xaba and the Natives](https://open.spotify.com/album/4J2J6DHFterE3raQXslAZl) | 8:47 | 2023-11-01 | 2023-11-17 |
+| [Now Open Your Eyes](https://open.spotify.com/track/21buPEKxr5cOPlJCOI1SpZ) | [Melorie Jane](https://open.spotify.com/artist/5NE7Re2uiABrj44sckzUAy) | [Hold the Stars](https://open.spotify.com/album/6j3fXlcMFcY3DeQYBhDROO) | 6:57 | 2024-05-02 |  |
 | [Ntab'ezimnyama](https://open.spotify.com/track/7lg6eea6HeZbJOT01pKS4m) | [Buhlebendalo](https://open.spotify.com/artist/1Nu3lDd06uk8y73zM6r6MW) | [Deeply Rooted](https://open.spotify.com/album/4lOWybiZPn6y3T47b6b8JZ) | 4:45 | 2022-04-28 | 2023-03-18 |
 | [Ntate Gwangwa's Stroll](https://open.spotify.com/track/4eM3xpiSyUFX1Of3EYyoM2) | [Malcolm Jiyane Tree\-O](https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH) | [Ntate Gwangwa's Stroll](https://open.spotify.com/album/3D0v4FYzpWX2bpWcujxyBQ) | 7:02 | 2022-04-28 | 2023-10-19 |
 | [Ntate Gwangwa's Stroll](https://open.spotify.com/track/7BPHefiIEjHBVRJ9JGzeWh) | [Malcolm Jiyane Tree\-O](https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH) | [UMDALI](https://open.spotify.com/album/6P9Zd5TpULDQd28yr50MlY) | 7:02 | 2023-10-13 | 2024-03-22 |
@@ -211,6 +212,7 @@
 | [Wadada](https://open.spotify.com/track/5GvAP2rW6vPSqAdNsUI4Oq) | [Tumi Mogorosi](https://open.spotify.com/artist/4GOLjcxxywS6GSCI24fsf6) | [Group Theory: Black Music](https://open.spotify.com/album/27dEFff0ZxZ4EI6Fatqap1) | 4:45 | 2022-07-07 |  |
 | [Water from an Ancient Well \- Single Edit](https://open.spotify.com/track/3Bvd6K9tTXq51kJxtL9sbj) | [Abdullah Ibrahim](https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ), [Noah Jackson](https://open.spotify.com/artist/5n3YSxzEv2ZTuEpCNAsUDe), [Cleave Guyton Jr.](https://open.spotify.com/artist/705SGaMmdej3DZJ8cJdMLC) | [Water from an Ancient Well](https://open.spotify.com/album/1uv54Z6J6BygVGHWYzFHN0) | 4:04 | 2024-01-11 |  |
 | [Water Signs](https://open.spotify.com/track/2nsw0NQR8x2HCjgSZ4cnUV) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy), [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on), [Simon Manana](https://open.spotify.com/artist/3q7fjTvf2EjwCnFKHr86x9), [Gontse Makhene](https://open.spotify.com/artist/3V7WKFF6UrGdI4jV6nBhHD), [Micca Manganye](https://open.spotify.com/artist/3UtkXcZLR9l1xzjTvp1aae) | [Water Signs](https://open.spotify.com/album/4yVOwDT9cBY7j30TQcA89d) | 6:18 | 2023-02-03 | 2024-01-26 |
+| [Water Spirits: Izinkonjana](https://open.spotify.com/track/4dCaP48I6Gy52R3fT5Xq7D) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft) | [Water Spirits: Izinkonjana](https://open.spotify.com/album/3oGThAQ0T3tY3S6tGGsxnl) | 6:34 | 2024-05-02 |  |
 | [Where The Heart Is](https://open.spotify.com/track/43COSQ9QZsY47ZariNFRnS) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [MABUTA](https://open.spotify.com/artist/4Z6IP9yKpOBbitoDKeMIFI) | [Finish The Sun](https://open.spotify.com/album/2aDnrY3VewxtdyuMCuDAAD) | 5:27 | 2022-04-28 | 2024-01-26 |
 | [Words](https://open.spotify.com/track/4sstxwYHtvwJqTfvgZ0rBZ) | [Sibusiso Mash Mashiloane](https://open.spotify.com/artist/5yJ0HJIMqayqNQjm8gTHKI) | [IZIBONGO](https://open.spotify.com/album/7gVaa0qRHW4ZNaSGDqkEWg) | 6:52 | 2023-08-25 |  |
 | [Wozani Nonke Sizothandaza](https://open.spotify.com/track/5JlzEk3QTex3bOELO59xi1) | [Herbie Tsoaeli](https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn) | [At This Point in Time: Voices in Volumes](https://open.spotify.com/album/0Nm6Bc09bsazARFqzfemzr) | 8:04 | 2022-04-28 | 2024-03-22 |

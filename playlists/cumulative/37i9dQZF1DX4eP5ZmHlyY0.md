@@ -4,7 +4,7 @@
 
 > 日本で活躍するボーイズグループを特集。cover: JO1
 
-213 songs - 12 hr 28 min
+214 songs - 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Nova Flame \~One of the BE:ST\-01 JUNON\~](https://open.spotify.com/track/3BA92nG2AdECdOBsWAfVPo) | [JUNON](https://open.spotify.com/artist/1EWFvN7t1373R3BrGZOLsn) | [Masterplan](https://open.spotify.com/album/58yBNtbNsOEaps6kZW8XhR) | 2:39 | 2024-04-23 |  |
 | [Okie Dokie!](https://open.spotify.com/track/58LIpK5Tj6lX9L6e3dOev1) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Road to A](https://open.spotify.com/album/4j5ZiAKLouJYnyLOAzyBRo) | 3:33 | 2023-12-19 | 2024-04-04 |
 | [ONE DAY](https://open.spotify.com/track/6j9Viekj6TmxbUXVcbf6BJ) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [ONE DAY](https://open.spotify.com/album/0n8TRWzkuPoAbKKZXm42wy) | 3:54 | 2024-04-09 | 2024-04-24 |
-| [Parade](https://open.spotify.com/track/1DCISG31avGG9oQK3gnDxh) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Parade](https://open.spotify.com/album/4mRG6P1L3qX4kR2TFXlFP0) | 3:11 | 2024-03-05 |  |
+| [Parade](https://open.spotify.com/track/1DCISG31avGG9oQK3gnDxh) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Parade](https://open.spotify.com/album/4mRG6P1L3qX4kR2TFXlFP0) | 3:11 | 2024-03-05 | 2024-05-03 |
 | [Peppermint Yum](https://open.spotify.com/track/0KQ72rfmW02tMsipMs7xrU) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS), [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) | [Peppermint Yum](https://open.spotify.com/album/16R9nHpSohQdu9oSbCUMxn) | 3:00 | 2023-12-21 | 2024-02-14 |
 | [PHOTOGENIC](https://open.spotify.com/track/1KZZGKxtges95QLiiCQ1pU) | [THE JET BOY BANGERZ from EXILE TRIBE](https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi) | [PHOTOGENIC](https://open.spotify.com/album/2K0VX8by8hTI9YEJZvsJpZ) | 3:42 | 2023-11-28 | 2024-02-01 |
 | [PHOTOGENIC](https://open.spotify.com/track/7mvliituEQSOeGnbE3BPla) | [THE JET BOY BANGERZ from EXILE TRIBE](https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi) | [PHOTOGENIC](https://open.spotify.com/album/2wZeycukWcubBPrRLKsO3G) | 3:43 | 2024-01-31 | 2024-02-14 |
@@ -215,6 +215,7 @@
 | [旅立ちの鐘](https://open.spotify.com/track/6eftqGjcyB4Mfs9MoM0tdw) | [20th Century](https://open.spotify.com/artist/3LJ6xDae4k9J6ephrhB1xD) | [旅立ちの鐘](https://open.spotify.com/album/1daK7g4CFGbGURS9fJktDX) | 4:41 | 2024-04-09 | 2024-04-24 |
 | [東京](https://open.spotify.com/track/31xA4TPoXLmhcTlatMWZWm) | [林 和希](https://open.spotify.com/artist/2QT3HyGIWurcFoP3sbtK6E) | [東京](https://open.spotify.com/album/48eBSK3qJMk0VMbVZPQc7r) | 4:02 | 2024-02-20 | 2024-03-06 |
 | [沈丁花](https://open.spotify.com/track/79TdseXlAiANFOTstIwejv) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [沈丁花](https://open.spotify.com/album/6oIaKTyZjmZS995rPf08jS) | 3:51 | 2023-11-23 | 2024-01-03 |
+| [無責任でええじゃないかLOVE](https://open.spotify.com/track/3HVa5vaMiHGib4ztB7sCLR) | [KAMIGATA BOYZ](https://open.spotify.com/artist/5TjFUvRq3BNyDsCgLWvxKF) | [無責任でええじゃないかLOVE](https://open.spotify.com/album/7uhQhoDa2Q9uQxEeESSXIw) | 3:53 | 2024-05-02 |  |
 | [産まれた頃の自分に戻って](https://open.spotify.com/track/3V6hdL8IDDBeyDD2V5mKa8) | [大野雄大 \(from Da\-iCE\)](https://open.spotify.com/artist/4YX4877oTbkuhiKnanhWux) | [産まれた頃の自分に戻って](https://open.spotify.com/album/1S87TvVflyxo4odBE0V7bx) | 4:19 | 2024-01-31 | 2024-02-07 |
 | [空、冬の曙 \- feat\. B.I.G.JOE](https://open.spotify.com/track/5u24JFPjw0JruDhYOj0NwG) | [SHO HENDRIX](https://open.spotify.com/artist/2lHnlMAxMtNovGYneMhyQh), [B.I.G\. JOE](https://open.spotify.com/artist/6MmLC4AtBTepgbIEv9n0GH) | [DOZEN ROSES](https://open.spotify.com/album/0ySLEnWBafEqbFuXaAwYTs) | 3:47 | 2023-11-23 | 2023-12-08 |
 | [質問](https://open.spotify.com/track/5AfYh0cCMZ1f5u4sOFGbQD) | [香取慎吾](https://open.spotify.com/artist/23aPUZaR8bESXN4UD3T2Sx) | [質問](https://open.spotify.com/album/1BMlh1yTh5NaqmMZgHfHFV) | 3:17 | 2024-02-15 | 2024-03-06 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Die nuutste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/7dtmhKnycd3REPNNixXGHO?si=N7ETgHdLSnaj8cg2O3zMWA\">Juanita du Plessis</a>  ",
+  "description": "Die nuutste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS?si=62hSF9dAQXG3eYeMqJPrVQ\">Die Piesangskille</a>  ",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -1869,6 +1869,24 @@
     },
     {
       "album": {
+        "name": "Bosveld Dans",
+        "url": "https://open.spotify.com/album/7K7LqdCep5KSEnpaRyYnA0"
+      },
+      "artists": [
+        {
+          "name": "WG NEL",
+          "url": "https://open.spotify.com/artist/62J5bvFwPxJf52xjGcHTd4"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194433,
+      "name": "Bosveld Dans",
+      "url": "https://open.spotify.com/track/489YLHaA5sh1CD7awfMRTD"
+    },
+    {
+      "album": {
         "name": "Sing Hoop Weerklink",
         "url": "https://open.spotify.com/album/38dU50ugb1c3kWmrdJqUg8"
       },
@@ -2040,6 +2058,24 @@
       "duration_ms": 248668,
       "name": "Brandstigter",
       "url": "https://open.spotify.com/track/5uyYASO5URsSfqQT59NpKH"
+    },
+    {
+      "album": {
+        "name": "Brandy",
+        "url": "https://open.spotify.com/album/5EbmIwQO3XsvbAwJ7kPH5U"
+      },
+      "artists": [
+        {
+          "name": "JD Mars",
+          "url": "https://open.spotify.com/artist/2Eopk6EY4hhcgEAox3od5o"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200515,
+      "name": "Brandy",
+      "url": "https://open.spotify.com/track/0lkUAEUhLWZUIk2QbpIYfI"
     },
     {
       "album": {
@@ -2394,6 +2430,24 @@
       "duration_ms": 242666,
       "name": "Coco Pops en Kaas",
       "url": "https://open.spotify.com/track/47a7yKmqL4y49StvHnrT0Y"
+    },
+    {
+      "album": {
+        "name": "Converse",
+        "url": "https://open.spotify.com/album/2fvn55Fl1ORQJTUOO5eH7J"
+      },
+      "artists": [
+        {
+          "name": "Die Piesangskille",
+          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157356,
+      "name": "Converse",
+      "url": "https://open.spotify.com/track/2pJ03ZzcJs9dVl3bUbWbDC"
     },
     {
       "album": {
@@ -2958,7 +3012,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 165773,
       "name": "Die Bok Se Klok",
       "url": "https://open.spotify.com/track/5Zg3o5ueU6avDXIW4wzff9"
@@ -3128,6 +3182,24 @@
       "duration_ms": 213507,
       "name": "Die Groot 5",
       "url": "https://open.spotify.com/track/6WxhGhjofeekFGv2cAev2d"
+    },
+    {
+      "album": {
+        "name": "Die Kortste Hier",
+        "url": "https://open.spotify.com/album/7bQzKeNQdvwiiPmOh4yAo8"
+      },
+      "artists": [
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Die Kortste Hier",
+      "url": "https://open.spotify.com/track/5xO82P7iaRC0LoUc2pz21l"
     },
     {
       "album": {
@@ -4365,6 +4437,24 @@
     },
     {
       "album": {
+        "name": "Ek Sal As Jy Sal",
+        "url": "https://open.spotify.com/album/32Xj2PR28FeaDWkMNlIJ3k"
+      },
+      "artists": [
+        {
+          "name": "Christia Visser",
+          "url": "https://open.spotify.com/artist/0AVwVUxhRdEKiuLNGAxmtu"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204495,
+      "name": "Ek Sal As Jy Sal",
+      "url": "https://open.spotify.com/track/7KTDrecKlqAUNRjhkIQ5aj"
+    },
+    {
+      "album": {
         "name": "Ek Soek Nogsteeds Vir Jou (Awd Remix)",
         "url": "https://open.spotify.com/album/6c3a4QMcmYlVcyNTWRrFGL"
       },
@@ -4622,6 +4712,24 @@
       "duration_ms": 194372,
       "name": "Eko",
       "url": "https://open.spotify.com/track/3N4BPsXcTa16m8uydbVwzu"
+    },
+    {
+      "album": {
+        "name": "Elke Liewe Ding",
+        "url": "https://open.spotify.com/album/7qU2Oc3eVrLclwU0rAgye4"
+      },
+      "artists": [
+        {
+          "name": "Eloff",
+          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223264,
+      "name": "Elke Liewe Ding",
+      "url": "https://open.spotify.com/track/23z91Leg9k5yVesT8pQB4z"
     },
     {
       "album": {
@@ -5258,6 +5366,24 @@
       "duration_ms": 225620,
       "name": "Grondpad (Remix)",
       "url": "https://open.spotify.com/track/517fb3CYQCiAPhuL8VvlcT"
+    },
+    {
+      "album": {
+        "name": "Dis Tyd",
+        "url": "https://open.spotify.com/album/3tvP8cHiZYfmM9qroubQ1S"
+      },
+      "artists": [
+        {
+          "name": "Arnold de Wet",
+          "url": "https://open.spotify.com/artist/7maSsKGnUoRwDEnFSjzcMn"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168322,
+      "name": "Groter As Die Berge",
+      "url": "https://open.spotify.com/track/0KmGtqzCBuOtOTROhS5y3U"
     },
     {
       "album": {
@@ -7181,6 +7307,24 @@
     },
     {
       "album": {
+        "name": "Kaalvoet in die re\u00ebn dans",
+        "url": "https://open.spotify.com/album/14Vs0brM8R94pOCKVR8zBk"
+      },
+      "artists": [
+        {
+          "name": "Rea Le Roux",
+          "url": "https://open.spotify.com/artist/0Nj4m42HGyiWVW9LyECOp6"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220759,
+      "name": "Kaalvoet in die re\u00ebn dans",
+      "url": "https://open.spotify.com/track/0pHDAUFJtBuUG9g6xjinMh"
+    },
+    {
+      "album": {
         "name": "Kaap",
         "url": "https://open.spotify.com/album/6Tn9J9QxGzgktcULy6CWLF"
       },
@@ -7442,6 +7586,24 @@
       "duration_ms": 173142,
       "name": "Katryn",
       "url": "https://open.spotify.com/track/0cNvN35zCMzzhQMXaXPuG7"
+    },
+    {
+      "album": {
+        "name": "Katryn",
+        "url": "https://open.spotify.com/album/4JV0GUHV7tdrkWoIudqof8"
+      },
+      "artists": [
+        {
+          "name": "Zondagkraal",
+          "url": "https://open.spotify.com/artist/0k9d7PDNcw5uY0JlHmjTy7"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231035,
+      "name": "Katryn",
+      "url": "https://open.spotify.com/track/6EpiwZ97F7a1QGJjrFgNQa"
     },
     {
       "album": {
@@ -11447,6 +11609,24 @@
     },
     {
       "album": {
+        "name": "Oor Dit",
+        "url": "https://open.spotify.com/album/1KRKF2K05Qu3HM5ouGu6Ga"
+      },
+      "artists": [
+        {
+          "name": "Brigite Duvenhage",
+          "url": "https://open.spotify.com/artist/0UBwRVPVLHsViFuFcpiPB4"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169325,
+      "name": "Oor Dit",
+      "url": "https://open.spotify.com/track/3uCPjOIHjnchVXLRh2mOLQ"
+    },
+    {
+      "album": {
         "name": "Opsoek Na Liefde",
         "url": "https://open.spotify.com/album/1quI6r74xYBDLjb3BOy6IX"
       },
@@ -11762,6 +11942,24 @@
       "duration_ms": 187724,
       "name": "Perdekrag",
       "url": "https://open.spotify.com/track/0t8WiKkrUDGjcnBnOYBZDU"
+    },
+    {
+      "album": {
+        "name": "PhD",
+        "url": "https://open.spotify.com/album/0BkyEu11RsVyCI4h1GDiJ7"
+      },
+      "artists": [
+        {
+          "name": "David Divaad",
+          "url": "https://open.spotify.com/artist/12wFNvoFCVg9SwMWbmJism"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207585,
+      "name": "PhD",
+      "url": "https://open.spotify.com/track/6LE7G8movXuzVMfmBLvtWr"
     },
     {
       "album": {
@@ -12804,6 +13002,24 @@
       "duration_ms": 185268,
       "name": "Selfbeheer",
       "url": "https://open.spotify.com/track/0Iv5MLuR8yVpiAXE9BCrKX"
+    },
+    {
+      "album": {
+        "name": "Sensasie",
+        "url": "https://open.spotify.com/album/0RKqSMGcP2wqdPixfOpR5j"
+      },
+      "artists": [
+        {
+          "name": "Groot Geraas",
+          "url": "https://open.spotify.com/artist/22mvNtn2L9hIK5vyVKL9ZC"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196290,
+      "name": "Sensasie",
+      "url": "https://open.spotify.com/track/4OuEbk18BRN19Gh851IqBt"
     },
     {
       "album": {
@@ -14811,6 +15027,24 @@
     },
     {
       "album": {
+        "name": "Tolgevang",
+        "url": "https://open.spotify.com/album/3QJKilrYn9ZvZXs8CLZNyc"
+      },
+      "artists": [
+        {
+          "name": "Early B",
+          "url": "https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160235,
+      "name": "Tolgevang",
+      "url": "https://open.spotify.com/track/1WWiozUfi9d26DcAjOthSs"
+    },
+    {
+      "album": {
         "name": "Dead Club City",
         "url": "https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7"
       },
@@ -14906,6 +15140,24 @@
       "duration_ms": 222837,
       "name": "Treffers vir Tannies",
       "url": "https://open.spotify.com/track/7BlZyyyaCjZeuRNRdb98ig"
+    },
+    {
+      "album": {
+        "name": "Om Die Vuur",
+        "url": "https://open.spotify.com/album/1Vh5NQKuddyxp4Zz6kd9Ws"
+      },
+      "artists": [
+        {
+          "name": "Ricus Nel",
+          "url": "https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222056,
+      "name": "Tr\u00eak Uit Jou Baadjie",
+      "url": "https://open.spotify.com/track/7GZYrBCgqBVQeqCB5HglVb"
     },
     {
       "album": {
@@ -16145,6 +16397,24 @@
     },
     {
       "album": {
+        "name": "Vrede in Vrede",
+        "url": "https://open.spotify.com/album/3Cjy8U76mWlVfy39HEJPhE"
+      },
+      "artists": [
+        {
+          "name": "Carlien Coetzer",
+          "url": "https://open.spotify.com/artist/5r83esg0sreh8tQiIXrjir"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200275,
+      "name": "Vrede in Vrede",
+      "url": "https://open.spotify.com/track/1CnVSOckNNV0R8QumpitKL"
+    },
+    {
+      "album": {
         "name": "Vreesloos",
         "url": "https://open.spotify.com/album/7r8ttzOMdqZBS1BtfCJJHn"
       },
@@ -16744,6 +17014,24 @@
       "duration_ms": 232384,
       "name": "Weer En Weer",
       "url": "https://open.spotify.com/track/06p4VAEejFAq9t19iU0wJl"
+    },
+    {
+      "album": {
+        "name": "Wees Net Beter",
+        "url": "https://open.spotify.com/album/0eGLX2V8HCU77UB8sQRmuk"
+      },
+      "artists": [
+        {
+          "name": "Janis Kelber",
+          "url": "https://open.spotify.com/artist/5r6vYX5N7yykrz95gWj3WS"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204816,
+      "name": "Wees Net Beter",
+      "url": "https://open.spotify.com/track/3SMun4H8Fy86MLw2jgUZBu"
     },
     {
       "album": {

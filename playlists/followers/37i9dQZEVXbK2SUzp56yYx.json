@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 1476,
+  "2024-05-03": 1480,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Belarus.",
   "name": "Viral 50 - Belarus",
@@ -527,7 +527,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 219075,
       "name": "Colette",
       "url": "https://open.spotify.com/track/1IRsOywO7Usgt8BfIx7VtX"
@@ -639,7 +639,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 120165,
       "name": "DICE AND ROLL",
       "url": "https://open.spotify.com/track/6yMGcFkUPJWW7Mwy5pY6GC"
@@ -693,7 +693,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 136096,
       "name": "Dove - Doll Ver.",
       "url": "https://open.spotify.com/track/3f37c6bbxasKuyxDiPYHiQ"
@@ -765,7 +765,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-24",
+      "date_removed": null,
       "duration_ms": 85889,
       "name": "ennui",
       "url": "https://open.spotify.com/track/5IzHotEzoROmnZke7WFSO3"
@@ -1502,6 +1502,24 @@
     },
     {
       "album": {
+        "name": "Hide (CS01 Version)",
+        "url": "https://open.spotify.com/album/245oQswZLETcE6V7aEdNWG"
+      },
+      "artists": [
+        {
+          "name": "Dorian Concept",
+          "url": "https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181175,
+      "name": "Hide - CS01 Version",
+      "url": "https://open.spotify.com/track/1WZGaNYzreZrvteuUEfp8X"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl"
       },
@@ -1567,7 +1585,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 142535,
       "name": "i like the way you kiss me",
       "url": "https://open.spotify.com/track/0BfqNd034HDk5kHqxsZ4HK"
@@ -2307,7 +2325,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 162880,
       "name": "Midas Touch",
       "url": "https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V"
@@ -4042,6 +4060,32 @@
     },
     {
       "album": {
+        "name": "WE STILL DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252920,
+      "name": "We Still Don't Trust You",
+      "url": "https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN"
+    },
+    {
+      "album": {
         "name": "What I Want",
         "url": "https://open.spotify.com/album/0equCatWbHF6wgpR7Lxh0Q"
       },
@@ -4053,7 +4097,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 182000,
       "name": "What I Want",
       "url": "https://open.spotify.com/track/77VtR2l9SUqNgN4mDRDEDt"
@@ -5035,7 +5079,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 145263,
       "name": "\u0417\u0430\u0432\u0438\u0434\u0443\u044e\u0442",
       "url": "https://open.spotify.com/track/3PBY7potBfbBcruV1svC2g"
@@ -5327,7 +5371,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-29",
+      "date_removed": null,
       "duration_ms": 172201,
       "name": "\u041a\u043e\u0441\u043c\u043e\u0441",
       "url": "https://open.spotify.com/track/4JixnVQQ2NU9ejlzanYKVa"
@@ -5856,6 +5900,24 @@
     },
     {
       "album": {
+        "name": "\u041e\u043f\u0438\u0430\u043d\u0430\u0440\u0438\u0443\u043c",
+        "url": "https://open.spotify.com/album/0ysUVI697JZwF53TUG0ujP"
+      },
+      "artists": [
+        {
+          "name": "pxnguin",
+          "url": "https://open.spotify.com/artist/50IRqlllbhbFuGugTTbern"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150511,
+      "name": "\u041e\u043f\u0438\u0430\u043d\u0430\u0440\u0438\u0443\u043c",
+      "url": "https://open.spotify.com/track/2QQyzKzcfg851nT9hAdtWx"
+    },
+    {
+      "album": {
         "name": "\u041e\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u043b\u043e\u0441\u044c",
         "url": "https://open.spotify.com/album/47QiX3vtKyBKyERL5mFm6v"
       },
@@ -5889,6 +5951,24 @@
       "duration_ms": 145335,
       "name": "\u041e\u0442\u0441\u0442\u043e\u0439",
       "url": "https://open.spotify.com/track/0fLAJS1gQfORDIT8YNYLkF"
+    },
+    {
+      "album": {
+        "name": "\u0421\u043c\u0438\u0440\u0438\u0441\u044c \u0438 \u0440\u0430\u0441\u0441\u043b\u0430\u0431\u044c\u0441\u044f",
+        "url": "https://open.spotify.com/album/6MtWkVH4nIqwo5fiM4J6xF"
+      },
+      "artists": [
+        {
+          "name": "Valentin Strykalo",
+          "url": "https://open.spotify.com/artist/2zYmwYLeJvcr8vRQe5pQRa"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215666,
+      "name": "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439",
+      "url": "https://open.spotify.com/track/2d6RNeK2Q0z5c3UxQ66FTR"
     },
     {
       "album": {
@@ -6161,6 +6241,24 @@
       "duration_ms": 160444,
       "name": "\u041f\u0440\u043e\u0449\u0430\u0439",
       "url": "https://open.spotify.com/track/3UbEuHhnV3kwJi5bgnhlml"
+    },
+    {
+      "album": {
+        "name": "NEW COAST",
+        "url": "https://open.spotify.com/album/6Nr4uGiXVByenlaGIlvogL"
+      },
+      "artists": [
+        {
+          "name": "Whole Lotta Swag",
+          "url": "https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140500,
+      "name": "\u0420\u0430\u0437\u043d\u0438\u0446\u0430",
+      "url": "https://open.spotify.com/track/7eraH0QBa5UrNKyN9a8d75"
     },
     {
       "album": {

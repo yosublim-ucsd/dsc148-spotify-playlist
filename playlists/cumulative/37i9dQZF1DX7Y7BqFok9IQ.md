@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Slash
 
-291 songs - 18 hr 28 min
+293 songs - 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,9 +13,10 @@
 | [6AM](https://open.spotify.com/track/2BfsuErJSI9t2TZb4kUW4h) | [Kris Barras Band](https://open.spotify.com/artist/241MOvr69jR2U48FW5WbKv) | [Light It Up](https://open.spotify.com/album/2MofpH5ZRvvVjF8MnjpqTA) | 3:45 | 2020-10-16 |  |
 | [Ain't None Watered Down](https://open.spotify.com/track/3vlkTPYYJ91dZyQYAci4rD) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Ain't None Watered Down](https://open.spotify.com/album/3wdCBshRudtkeU21nlGgk2) | 3:12 | 2022-08-12 | 2023-04-15 |
 | [All Alone](https://open.spotify.com/track/0y4hx5uMm5RYImWtXVl21y) | [John The Conqueror](https://open.spotify.com/artist/1PEYH4hqPi7Wqa4qNV4184) | [John The Conqueror](https://open.spotify.com/album/0HCt8hhIqeTaXrGpShR2J4) | 3:49 | 2020-10-16 | 2024-04-19 |
-| [All Alone](https://open.spotify.com/track/4QcFM4sEayM4QjvIQjF3bE) | [John The Conqueror](https://open.spotify.com/artist/1PEYH4hqPi7Wqa4qNV4184) | [John The Conqueror](https://open.spotify.com/album/5J05LEDQP5q6wzJWuXO1Sp) | 3:49 | 2020-10-16 |  |
+| [All Alone](https://open.spotify.com/track/4QcFM4sEayM4QjvIQjF3bE) | [John The Conqueror](https://open.spotify.com/artist/1PEYH4hqPi7Wqa4qNV4184) | [John The Conqueror](https://open.spotify.com/album/5J05LEDQP5q6wzJWuXO1Sp) | 3:49 | 2020-10-16 | 2024-05-03 |
 | [All I See Is You](https://open.spotify.com/track/6dNvCU9OcpWbDTR47d1ECP) | [Wight Lighters](https://open.spotify.com/artist/1MekQ13GRqKYQYrcJCx988) | [All I See Is You](https://open.spotify.com/album/5wl0osC3IOVFcFoFO02FMD) | 4:20 | 2022-06-10 |  |
 | [All I've Got is You](https://open.spotify.com/track/0DdDbFj0v5UlXC8j2CxJg6) | [J.D\. Simo](https://open.spotify.com/artist/443OoeHtWnNdDNKN4xgkeg) | [All I've Got is You](https://open.spotify.com/album/1ZsdIxjdTXmPS7QLWKRtBA) | 2:41 | 2020-10-16 |  |
+| [All Night Long](https://open.spotify.com/track/2IHd4inCaMQTGBM5l0p9YF) | [The Karma Effect](https://open.spotify.com/artist/2D1hmJmCscHyl2PzaIu9J1) | [Promised Land](https://open.spotify.com/album/4hlHbBAzgvjs0w0J7VXDjU) | 3:31 | 2024-05-03 |  |
 | [Alright](https://open.spotify.com/track/5h30PUy2sOIFysmZmCGlMK) | [Dirty Streets](https://open.spotify.com/artist/34iizXl7oXappF8Fpl27ST) | [Alright](https://open.spotify.com/album/1rV0bbF8kXoT2xrEBUbTgX) | 2:55 | 2022-04-29 |  |
 | [Any Way the Wind Blows](https://open.spotify.com/track/7rYi1fmfdWnC2dZJ3acnoW) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [WAYS](https://open.spotify.com/album/061tBOltEwYjdHA9zKpC0m) | 3:01 | 2020-10-16 | 2023-03-04 |
 | [Are You](https://open.spotify.com/track/32xYsLJbczsr2s4aR0Snft) | [The Delta Saints](https://open.spotify.com/artist/5vCQg5Rpc7l4cPDRuR7Hdz) | [Are You](https://open.spotify.com/album/4Chn5PYIqtpsD3LD1SjB8s) | 3:40 | 2020-10-16 |  |
@@ -276,6 +277,7 @@
 | [Ugly Brain \- Single Version](https://open.spotify.com/track/1WmrvibTXEP4DyrHIB8yMx) | [Mike Ross](https://open.spotify.com/artist/5czSB0z5jZnHr9zV37RU1h) | [Ugly Brain](https://open.spotify.com/album/4rV80Z4nWe7AevC3yAAbFM) | 4:36 | 2023-04-14 |  |
 | [Waiting For Your Man](https://open.spotify.com/track/1WYzyPQIEAGd8pZU6RlGdK) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [Waiting For Your Man](https://open.spotify.com/album/05WV45ZfdyQxM2cJ4NRgkd) | 3:35 | 2022-04-08 | 2023-04-15 |
 | [Wanting and Waiting](https://open.spotify.com/track/2tshfSpT1vLHlMZ88btPOj) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Wanting and Waiting](https://open.spotify.com/album/7nNsP5Tgq1bsQDXBOXVzhw) | 4:15 | 2024-01-12 |  |
+| [Way Down We Go](https://open.spotify.com/track/3fqYPxHqA3RiEk0hr4Z4zJ) | [Rev Theory](https://open.spotify.com/artist/10n5DVRlZbjbZ5ffpwpn6l), [Art Of Dying](https://open.spotify.com/artist/28DlNBW2UlEVVgTuCcYtTe), [ashpvnk](https://open.spotify.com/artist/3dA0yRUHt4EC9GAbVqJZf3) | [Way Down We Go](https://open.spotify.com/album/3KTad48fjnInjRtIlACP9r) | 3:18 | 2024-05-03 |  |
 | [We Cry](https://open.spotify.com/track/35HnL14kTLJ0KdPoqcON3T) | [Xander and the Peace Pirates](https://open.spotify.com/artist/1fhcphVzvwgQduKI7OUDjy) | [We Cry](https://open.spotify.com/album/4ZgDYzqKszgekC7eS1Vlnh) | 4:51 | 2022-04-01 |  |
 | [Well Wasted](https://open.spotify.com/track/4S8WK43eMxManxzewCswet) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Well Wasted](https://open.spotify.com/album/26rXDFayFu0pANaa174xu7) | 3:25 | 2020-10-16 | 2023-03-04 |
 | [Well Well Well](https://open.spotify.com/track/7K89YBfukxKcrm4hOVKQpk) | [Gráinne Duffy](https://open.spotify.com/artist/6Uz1iG3enjltFOqqwAhQ2Y) | [Dirt Woman Blues](https://open.spotify.com/album/3pEr5QdlF89ufMoOHASyum) | 4:07 | 2023-05-19 |  |
@@ -288,7 +290,7 @@
 | [Wild](https://open.spotify.com/track/5X32g7xtJOlgmX6hNXebXa) | [Baba Jenkins](https://open.spotify.com/artist/1cxWflvijU9B2d7x5SMhez) | [Wild](https://open.spotify.com/album/6GvNg6DywdIaWDTLaDFG1e) | 3:39 | 2022-07-22 |  |
 | [Wild Child](https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 2:44 | 2022-03-11 | 2024-02-03 |
 | [Wild Child](https://open.spotify.com/track/0dgAZ1j5irH1FlA5WrpHW4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Wild Child](https://open.spotify.com/album/3qq1cgY9TrPmzscvmON5Vb) | 2:44 | 2022-03-11 | 2022-08-18 |
-| [Wild Honey](https://open.spotify.com/track/5Td3hpekZcEKaWhicS8hxg) | [The Karma Effect](https://open.spotify.com/artist/2D1hmJmCscHyl2PzaIu9J1) | [Wild Honey](https://open.spotify.com/album/6HNPRYLIeMyMsQ3bOyxinV) | 4:06 | 2024-03-01 |  |
+| [Wild Honey](https://open.spotify.com/track/5Td3hpekZcEKaWhicS8hxg) | [The Karma Effect](https://open.spotify.com/artist/2D1hmJmCscHyl2PzaIu9J1) | [Wild Honey](https://open.spotify.com/album/6HNPRYLIeMyMsQ3bOyxinV) | 4:06 | 2024-03-01 | 2024-05-03 |
 | [Will We Ever](https://open.spotify.com/track/2hYQpTCX3z4LybxKKRhaBO) | [Willie and the Bandits](https://open.spotify.com/artist/0TBTCmsm3UDvlFvksSiEWD) | [Will We Ever](https://open.spotify.com/album/4Sea3LyXNqJPZ2EH8s0dy6) | 4:25 | 2021-11-12 |  |
 | [With You I Go](https://open.spotify.com/track/7AcxvtAFKqcXeWbr7UVbvU) | [Black Country Communion](https://open.spotify.com/artist/7by60V2ChbeiVhwXK5Jk6l), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Jason Bonham](https://open.spotify.com/artist/5T6YKEZhM6rVwCEm5PLKL8), [Glenn Hughes](https://open.spotify.com/artist/50FDiYHYqGJkaCuK4JhAYw), [Derek Sherinian](https://open.spotify.com/artist/4ZCINPmMmZUh4H1qNqzIxq) | [With You I Go](https://open.spotify.com/album/1xFP6uey8FkpaZ1GJZhXiY) | 5:04 | 2024-02-02 |  |
 | [Woman](https://open.spotify.com/track/4qnZ9FXxM1MOoWGY4gQMzJ) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [Bad Luck & The Blues](https://open.spotify.com/album/1OxQxV6EUi0D0v0OayR7Is) | 3:29 | 2023-08-25 |  |

@@ -4,7 +4,7 @@
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK?si=HZkN5B1KStCZHEbI87xDLA"> Wakadinali </a>
 
-222 songs - 11 hr 29 min
+223 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Put On](https://open.spotify.com/track/6Ia18AqCQfxwpjZeRFgiRW) | [Timmy Blanco](https://open.spotify.com/artist/1Vn2QDLkrVV4M1Y85dePup), [Bout Paper Boyz](https://open.spotify.com/artist/2EXPwSRAffYH1zNCalvcaB) | [Put On](https://open.spotify.com/album/2kFKZPI547giFHReFIQ0c8) | 2:31 | 2023-10-19 | 2024-04-16 |
 | [Queens Speech](https://open.spotify.com/track/39KWRJHeOCPrxjZtat72zD) | [FEMI ONE](https://open.spotify.com/artist/1Kg4nxeTD9wP3082jp1nkH), [Shanty Bobo](https://open.spotify.com/artist/5DHVUoC4CvknkFAOkyJ88N) | [Dem Kutoka Mwiki](https://open.spotify.com/album/1JD29V2kKZBTOebnyqXgOc) | 3:26 | 2023-04-27 | 2024-02-23 |
 | [Quill2thmfwrld](https://open.spotify.com/track/7snV7SDZmfCjS9Sm099RRG) | [Jakk Quill](https://open.spotify.com/artist/6QqOXzlH2dcYNAHeGgZcLm) | [SEARCHING FOR UTOPIA](https://open.spotify.com/album/7IbrgLFXo4lzo7UvK4xqZe) | 5:19 | 2023-08-04 | 2024-02-10 |
+| [Riswa 4](https://open.spotify.com/track/4pvrbIrBj18UKnsEi3QZf1) | [Dyana Cods](https://open.spotify.com/artist/1TMFrPAmqxTK5rVS8ujqMR), [Sewersydaa](https://open.spotify.com/artist/6CxcUeJaPy4qYjudhmDJaf) | [Rong Manners](https://open.spotify.com/album/11VRCN8jmGgrfzD7b1hoF4) | 2:03 | 2024-05-02 |  |
 | [RITHO](https://open.spotify.com/track/2M32pG0Wr1eT5RdKoAzykL) | [LIL FELLY](https://open.spotify.com/artist/5V32E4hgOemIeK7Shk7uXR), [Scar Mkadinali](https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7) | [RITHO](https://open.spotify.com/album/2MnJFS59N80lemAi2QELvF) | 5:15 | 2024-02-09 |  |
 | [Rock Da Mic](https://open.spotify.com/track/2KWZbfHQ2u9V09QiCnAL00) | [AMiR](https://open.spotify.com/artist/4XRD4l8f4sJSMSgFnmBsyj) | [Rock Da Mic](https://open.spotify.com/album/2IDw3STsuEWk0oyA3yzBaB) | 2:14 | 2024-03-07 |  |
 | [ROLL THE DICE \(Prod\. Gesaffelstein\)](https://open.spotify.com/track/7CAg4N1S926AymvuLjnJcy) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL), [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [ROLL THE DICE \(Prod\. Gesaffelstein\)](https://open.spotify.com/album/6P4c5OMZZQZVJLQJrYgjbd) | 2:44 | 2023-05-11 | 2023-10-27 |
@@ -174,7 +175,7 @@
 | [Shrapa Ranks](https://open.spotify.com/track/0uDl3s52h57l0addjFIbte) | [Asum Garvey](https://open.spotify.com/artist/5RzBJUlfg5ps6jEJz98Ga7), [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y) | [Shrapa Ranks](https://open.spotify.com/album/6G7e4Jh3iaQmRkFwWEc57Q) | 2:01 | 2023-05-05 | 2024-01-27 |
 | [Sikutambui](https://open.spotify.com/track/4Gl3dMkubYB2rEn3tOfduY) | [Wakadinali](https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK) | [NDANI YA COCKPIT 3](https://open.spotify.com/album/4p5Ob7OdZxOp4rzHF12qKk) | 3:44 | 2023-08-25 |  |
 | [Sikutambui](https://open.spotify.com/track/5v8L1VibzgRfDCyPdPxGbv) | [Wakadinali](https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK) | [NDANI YA COCKPIT 3](https://open.spotify.com/album/3NvCDHqPpNi1y3lVhmAAsy) | 3:44 | 2023-04-27 | 2023-07-08 |
-| [Similani](https://open.spotify.com/track/0eYHEDUKHrdPxNpxETNL6c) | [Kaa La Moto](https://open.spotify.com/artist/7jvdp7S94qyfvChivF4ua9), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Similani](https://open.spotify.com/album/1FTLLUkn2LSv4VVH1T1LUH) | 3:22 | 2023-11-17 |  |
+| [Similani](https://open.spotify.com/track/0eYHEDUKHrdPxNpxETNL6c) | [Kaa La Moto](https://open.spotify.com/artist/7jvdp7S94qyfvChivF4ua9), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Similani](https://open.spotify.com/album/1FTLLUkn2LSv4VVH1T1LUH) | 3:22 | 2023-11-17 | 2024-05-03 |
 | [Situation Sticky](https://open.spotify.com/track/4UMUYdkPJTXml0XOXiH1AR) | [On Safari](https://open.spotify.com/artist/7C4Sna90V9C5gRrtZNh8kZ), [Bryvvn](https://open.spotify.com/artist/1YcGi2JIfTzbotFBDiysfS), [7AY](https://open.spotify.com/artist/3MiRH0LK3bcno7nZa6QtLm), [Prince.Wasabi](https://open.spotify.com/artist/2Gaxo8kmFvgNJvNmg6ZsGH), [CHozenAfitra](https://open.spotify.com/artist/3ezTcPg7Z7zY1p1XbVuRiQ), [Vandrel](https://open.spotify.com/artist/6nYKLho6i0KRNEEqffoJfv) | [Situation Sticky](https://open.spotify.com/album/20aSo6Bl2IP2Qku5aFAx5i) | 3:35 | 2022-06-30 | 2022-11-11 |
 | [Smash](https://open.spotify.com/track/2Azllbj8lN32T84iCwKhfd) | [Dope\-I\-Mean](https://open.spotify.com/artist/2oZxeOa6ShBENROOYB5TsW), [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y) | [Smash](https://open.spotify.com/album/5Ga0YvnWe3Me0N0CLDnM4x) | 2:58 | 2023-04-06 | 2023-11-04 |
 | [So Gone Gfix](https://open.spotify.com/track/6oI7qnO61ysdOFBDemA13S) | [Vinc On The Beat](https://open.spotify.com/artist/1zAkmlAKP4fCnJnAymX4r9), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [So Gone Gfix](https://open.spotify.com/album/1P0SXdYFMgygK9hqjdEzEI) | 2:41 | 2023-06-29 | 2023-12-01 |

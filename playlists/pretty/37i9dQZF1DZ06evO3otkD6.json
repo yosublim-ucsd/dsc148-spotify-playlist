@@ -1,12 +1,12 @@
 {
-  "description": "This Is Belinda. Los temas esenciales, todos en una lista.",
-  "num_followers": 65516,
+  "description": "This is Belinda. The essential tracks, all in one playlist.",
+  "num_followers": 65540,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjA0gAAAAABDGVE6kJbLOR4ThVwBCRfl",
+  "snapshot_id": "ZjGGAAAAAABxRJCiUs1juwXoh7HmKsUk",
   "tracks": [
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Utopia 2",
-        "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 204666,
-      "name": "Ni Freud Ni Tu Mama",
-      "url": "https://open.spotify.com/track/2SHu2n8MmP3ym3LpuyTrUf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Traguito",
         "url": "https://open.spotify.com/album/1OfaHu7z6jOeVkoZsEVl0H"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 184185,
       "name": "Un Traguito",
       "url": "https://open.spotify.com/track/5OSrMt5y9dExB2J5vMdTVk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Utopia 2",
+        "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 204666,
+      "name": "Ni Freud Ni Tu Mama",
+      "url": "https://open.spotify.com/track/2SHu2n8MmP3ym3LpuyTrUf"
     },
     {
       "added_at": null,
@@ -907,22 +907,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los D\u00fao 2",
-        "url": "https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19"
+        "name": "Lo Esencial de Belinda",
+        "url": "https://open.spotify.com/album/5NjGthIX2h39NsmaiecLc4"
       },
       "artists": [
         {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+          "name": "Martin",
+          "url": "https://open.spotify.com/artist/2y0r48kt0NajnkfFELASlI"
         },
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 238120,
-      "name": "Te Sigo Amando",
-      "url": "https://open.spotify.com/track/5QmjF6TMAAym2u3hb8o1ym"
+      "duration_ms": 194080,
+      "name": "Amigos por Siempre",
+      "url": "https://open.spotify.com/track/5xSljhyINjp7c3g0Qi20NS"
     },
     {
       "added_at": null,
@@ -947,22 +947,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Esencial de Belinda",
-        "url": "https://open.spotify.com/album/5NjGthIX2h39NsmaiecLc4"
+        "name": "Los D\u00fao 2",
+        "url": "https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19"
       },
       "artists": [
         {
-          "name": "Martin",
-          "url": "https://open.spotify.com/artist/2y0r48kt0NajnkfFELASlI"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         },
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 194080,
-      "name": "Amigos por Siempre",
-      "url": "https://open.spotify.com/track/5xSljhyINjp7c3g0Qi20NS"
+      "duration_ms": 238120,
+      "name": "Te Sigo Amando",
+      "url": "https://open.spotify.com/track/5QmjF6TMAAym2u3hb8o1ym"
     },
     {
       "added_at": null,
@@ -1003,6 +1003,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aventuras En El Tiempo",
+        "url": "https://open.spotify.com/album/0TpcSvWBE1qXWGvtybMfAq"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        }
+      ],
+      "duration_ms": 160173,
+      "name": "Aventuras En El Tiempo",
+      "url": "https://open.spotify.com/track/0lh18hhI9vxejLA6fjwynz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Belinda",
         "url": "https://open.spotify.com/album/572O2aMDzsHhr48257pOZM"
       },
@@ -1035,26 +1055,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aventuras En El Tiempo",
-        "url": "https://open.spotify.com/album/0TpcSvWBE1qXWGvtybMfAq"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Christopher von Uckermann",
-          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
-        }
-      ],
-      "duration_ms": 160173,
-      "name": "Aventuras En El Tiempo",
-      "url": "https://open.spotify.com/track/0lh18hhI9vxejLA6fjwynz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Quiero Maxi Single",
         "url": "https://open.spotify.com/album/6YZ2lSsfCVzabCnAOLNs7H"
       },
@@ -1075,6 +1075,26 @@
       "duration_ms": 205775,
       "name": "Te Quiero (feat. Belinda) - Spanglish",
       "url": "https://open.spotify.com/track/5vD1PU8G39zpTB0J4LWJhm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Madrid X Marbella",
+        "url": "https://open.spotify.com/album/2coM4rvjL0SLDKoCwjtu8y"
+      },
+      "artists": [
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 194576,
+      "name": "Madrid X Marbella",
+      "url": "https://open.spotify.com/track/3DiE3kg9WyLw0s8Sa7aTPE"
     },
     {
       "added_at": null,
@@ -1111,26 +1131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Madrid X Marbella",
-        "url": "https://open.spotify.com/album/2coM4rvjL0SLDKoCwjtu8y"
-      },
-      "artists": [
-        {
-          "name": "Juan Mag\u00e1n",
-          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 194576,
-      "name": "Madrid X Marbella",
-      "url": "https://open.spotify.com/track/3DiE3kg9WyLw0s8Sa7aTPE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Cheetah Girls 2",
         "url": "https://open.spotify.com/album/10ATF34xwqoGlmm5vsgOSG"
       },
@@ -1151,22 +1151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eden",
-        "url": "https://open.spotify.com/album/33nYUqCHeO8jyrvctV5Fr0"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 160979,
-      "name": "Eden",
-      "url": "https://open.spotify.com/track/17ndjs5jsTO1X15raRZV0u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Utopia 2",
         "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
       },
@@ -1183,22 +1167,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Esencial de Belinda",
-        "url": "https://open.spotify.com/album/5NjGthIX2h39NsmaiecLc4"
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/33nYUqCHeO8jyrvctV5Fr0"
       },
       "artists": [
-        {
-          "name": "Martin",
-          "url": "https://open.spotify.com/artist/2y0r48kt0NajnkfFELASlI"
-        },
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 188280,
-      "name": "Paso, Paso",
-      "url": "https://open.spotify.com/track/0rUm6IbXJzwwenvxE72ntm"
+      "duration_ms": 160979,
+      "name": "Eden",
+      "url": "https://open.spotify.com/track/17ndjs5jsTO1X15raRZV0u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Catarsis",
+        "url": "https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "duration_ms": 216520,
+      "name": "I Love You... Te Quiero",
+      "url": "https://open.spotify.com/track/7FFFRavnUPwKhidY259LMD"
     }
   ],
   "unique_name": "This Is Belinda",

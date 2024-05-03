@@ -1,6 +1,6 @@
 {
   "description": "Classic and new soul music for the perfect dinner vibe.",
-  "num_followers": 140442,
+  "num_followers": 140454,
   "original_name": "Soul Dinner",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-04-16 09:12:16",
       "album": {
-        "name": "The Man In The Street: The Complete Yellow Stax Solo Singles (1968-1974)",
-        "url": "https://open.spotify.com/album/0mRmuRVY94yZmwcItjpg5b"
-      },
-      "artists": [
-        {
-          "name": "William Bell",
-          "url": "https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR"
-        }
-      ],
-      "duration_ms": 142746,
-      "name": "I Forgot To Be Your Lover",
-      "url": "https://open.spotify.com/track/3a19dv4IRhGjkyvgdUxEDu"
-    },
-    {
-      "added_at": "2024-04-16 09:12:16",
-      "album": {
         "name": "Breezin'",
         "url": "https://open.spotify.com/album/1ei5QjnfB7PHINJOH8Gft5"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 341733,
       "name": "Breezin'",
       "url": "https://open.spotify.com/track/1m3BAsNsQAaSNMD2M6vlKY"
+    },
+    {
+      "added_at": "2024-04-16 09:12:16",
+      "album": {
+        "name": "The Man In The Street: The Complete Yellow Stax Solo Singles (1968-1974)",
+        "url": "https://open.spotify.com/album/0mRmuRVY94yZmwcItjpg5b"
+      },
+      "artists": [
+        {
+          "name": "William Bell",
+          "url": "https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR"
+        }
+      ],
+      "duration_ms": 142746,
+      "name": "I Forgot To Be Your Lover",
+      "url": "https://open.spotify.com/track/3a19dv4IRhGjkyvgdUxEDu"
     },
     {
       "added_at": "2024-04-16 09:12:16",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-04-16 09:12:16",
       "album": {
-        "name": "Adventures In Paradise",
-        "url": "https://open.spotify.com/album/0OoRiTZs9hsRz7KxB8JkSX"
-      },
-      "artists": [
-        {
-          "name": "Minnie Riperton",
-          "url": "https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj"
-        }
-      ],
-      "duration_ms": 250866,
-      "name": "Baby, This Love I Have",
-      "url": "https://open.spotify.com/track/397fxHew7NyjryGWGr1Imy"
-    },
-    {
-      "added_at": "2024-04-16 09:12:16",
-      "album": {
         "name": "You're All I Need",
         "url": "https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 138533,
       "name": "Ain't Nothing Like The Real Thing",
       "url": "https://open.spotify.com/track/37soQoNhEEIrhhYgHWK1xU"
+    },
+    {
+      "added_at": "2024-04-16 09:12:16",
+      "album": {
+        "name": "Adventures In Paradise",
+        "url": "https://open.spotify.com/album/0OoRiTZs9hsRz7KxB8JkSX"
+      },
+      "artists": [
+        {
+          "name": "Minnie Riperton",
+          "url": "https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj"
+        }
+      ],
+      "duration_ms": 250866,
+      "name": "Baby, This Love I Have",
+      "url": "https://open.spotify.com/track/397fxHew7NyjryGWGr1Imy"
     },
     {
       "added_at": "2024-04-16 09:12:16",
@@ -703,18 +703,22 @@
     {
       "added_at": "2024-04-16 09:12:16",
       "album": {
-        "name": "Capitol Gold: The Best Of Minnie Riperton",
-        "url": "https://open.spotify.com/album/1Zc6fY5TjkirFsQIeX7KFL"
+        "name": "Black Radio",
+        "url": "https://open.spotify.com/album/1yqUCdbw73DpnHBVDwNa3X"
       },
       "artists": [
         {
-          "name": "Minnie Riperton",
-          "url": "https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj"
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
         }
       ],
-      "duration_ms": 238693,
-      "name": "Inside My Love - Remastered 1993",
-      "url": "https://open.spotify.com/track/1HdNTlZrGTlgxDn31GB6Sv"
+      "duration_ms": 307626,
+      "name": "Afro Blue",
+      "url": "https://open.spotify.com/track/7e0j6jReCfN5KJkDNLHyHQ"
     },
     {
       "added_at": "2024-04-16 09:12:16",
@@ -751,6 +755,22 @@
     {
       "added_at": "2024-04-16 09:12:16",
       "album": {
+        "name": "Capitol Gold: The Best Of Minnie Riperton",
+        "url": "https://open.spotify.com/album/1Zc6fY5TjkirFsQIeX7KFL"
+      },
+      "artists": [
+        {
+          "name": "Minnie Riperton",
+          "url": "https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj"
+        }
+      ],
+      "duration_ms": 238693,
+      "name": "Inside My Love - Remastered 1993",
+      "url": "https://open.spotify.com/track/1HdNTlZrGTlgxDn31GB6Sv"
+    },
+    {
+      "added_at": "2024-04-16 09:12:16",
+      "album": {
         "name": "Bettye Swann",
         "url": "https://open.spotify.com/album/1oHCwJLBDoKDOfdznsRjNs"
       },
@@ -763,26 +783,6 @@
       "duration_ms": 226240,
       "name": "Then You Can Tell Me Goodbye",
       "url": "https://open.spotify.com/track/1bDjWyTOXs0sxQMC1mchSM"
-    },
-    {
-      "added_at": "2024-04-16 09:12:16",
-      "album": {
-        "name": "Black Radio",
-        "url": "https://open.spotify.com/album/1yqUCdbw73DpnHBVDwNa3X"
-      },
-      "artists": [
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 307626,
-      "name": "Afro Blue",
-      "url": "https://open.spotify.com/track/7e0j6jReCfN5KJkDNLHyHQ"
     },
     {
       "added_at": "2024-04-16 09:12:16",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2024-04-16 09:12:16",
       "album": {
+        "name": "The Way I See It",
+        "url": "https://open.spotify.com/album/5qWdVsgBbJJVrnDYQrx6IP"
+      },
+      "artists": [
+        {
+          "name": "Raphael Saadiq",
+          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
+        }
+      ],
+      "duration_ms": 184413,
+      "name": "Love That Girl",
+      "url": "https://open.spotify.com/track/3XTYgwvbBsNonoauUvZgo6"
+    },
+    {
+      "added_at": "2024-04-16 09:12:16",
+      "album": {
         "name": "Soul Power",
         "url": "https://open.spotify.com/album/7BlqkOOBcVqUwLEhC0Rxq6"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 213026,
       "name": "He Called Me Baby",
       "url": "https://open.spotify.com/track/3zIiZrCROmhS9ERPdEHXYa"
-    },
-    {
-      "added_at": "2024-04-16 09:12:16",
-      "album": {
-        "name": "The Way I See It",
-        "url": "https://open.spotify.com/album/5qWdVsgBbJJVrnDYQrx6IP"
-      },
-      "artists": [
-        {
-          "name": "Raphael Saadiq",
-          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
-        }
-      ],
-      "duration_ms": 184413,
-      "name": "Love That Girl",
-      "url": "https://open.spotify.com/track/3XTYgwvbBsNonoauUvZgo6"
     },
     {
       "added_at": "2024-04-16 09:12:16",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-04-16 09:12:16",
       "album": {
-        "name": "Just Being Myself",
-        "url": "https://open.spotify.com/album/4Pusa4MZ3mEmXKOOWE9nFs"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        }
-      ],
-      "duration_ms": 270200,
-      "name": "You're Gonna Need Me",
-      "url": "https://open.spotify.com/track/5ezYm2LkW25YhkkTp7bC9u"
-    },
-    {
-      "added_at": "2024-04-16 09:12:16",
-      "album": {
         "name": "The Essential Bill Withers",
         "url": "https://open.spotify.com/album/36qxAJDnXvbjD2UVAkawwZ"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 222533,
       "name": "Use Me",
       "url": "https://open.spotify.com/track/1k2ybm1oz7rVPchTKCgMMz"
+    },
+    {
+      "added_at": "2024-04-16 09:12:16",
+      "album": {
+        "name": "Just Being Myself",
+        "url": "https://open.spotify.com/album/4Pusa4MZ3mEmXKOOWE9nFs"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        }
+      ],
+      "duration_ms": 270200,
+      "name": "You're Gonna Need Me",
+      "url": "https://open.spotify.com/track/5ezYm2LkW25YhkkTp7bC9u"
     },
     {
       "added_at": "2024-04-16 09:12:16",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2024-04-16 09:12:16",
       "album": {
-        "name": "Tellin' It",
-        "url": "https://open.spotify.com/album/2YIPkqK0TbyK8F2TFHlsIQ"
-      },
-      "artists": [
-        {
-          "name": "Ann Peebles",
-          "url": "https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB"
-        }
-      ],
-      "duration_ms": 178280,
-      "name": "Come to Mama",
-      "url": "https://open.spotify.com/track/1VqtcL6HZpGhotRh2ODceP"
-    },
-    {
-      "added_at": "2024-04-16 09:12:16",
-      "album": {
         "name": "Family Dinner - Vol. 1",
         "url": "https://open.spotify.com/album/7uveEcuLgfEecFLxABRKnO"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 455640,
       "name": "Something",
       "url": "https://open.spotify.com/track/2U52Hp8zYnG2kvt2de0M2L"
+    },
+    {
+      "added_at": "2024-04-16 09:12:16",
+      "album": {
+        "name": "Tellin' It",
+        "url": "https://open.spotify.com/album/2YIPkqK0TbyK8F2TFHlsIQ"
+      },
+      "artists": [
+        {
+          "name": "Ann Peebles",
+          "url": "https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB"
+        }
+      ],
+      "duration_ms": 178280,
+      "name": "Come to Mama",
+      "url": "https://open.spotify.com/track/1VqtcL6HZpGhotRh2ODceP"
     },
     {
       "added_at": "2024-04-16 09:12:16",
@@ -1995,26 +1995,6 @@
     {
       "added_at": "2024-04-16 09:12:16",
       "album": {
-        "name": "Better Be Home Soon",
-        "url": "https://open.spotify.com/album/2QPGw53TKSAFkCRjFG7CnJ"
-      },
-      "artists": [
-        {
-          "name": "Budjerah",
-          "url": "https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE"
-        },
-        {
-          "name": "WILSN",
-          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
-        }
-      ],
-      "duration_ms": 180750,
-      "name": "Better Be Home Soon",
-      "url": "https://open.spotify.com/track/3b68h9ti9sdMo4rTrEvijZ"
-    },
-    {
-      "added_at": "2024-04-16 09:12:16",
-      "album": {
         "name": "Loose Fit",
         "url": "https://open.spotify.com/album/50CjNUYxGgbXKVHkVQyGIZ"
       },
@@ -2051,6 +2031,26 @@
       "duration_ms": 316866,
       "name": "Black Gold",
       "url": "https://open.spotify.com/track/0Y1qnAow1UCOZuVfK47sPl"
+    },
+    {
+      "added_at": "2024-04-16 09:12:16",
+      "album": {
+        "name": "Better Be Home Soon",
+        "url": "https://open.spotify.com/album/2QPGw53TKSAFkCRjFG7CnJ"
+      },
+      "artists": [
+        {
+          "name": "Budjerah",
+          "url": "https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE"
+        },
+        {
+          "name": "WILSN",
+          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
+        }
+      ],
+      "duration_ms": 180750,
+      "name": "Better Be Home Soon",
+      "url": "https://open.spotify.com/track/3b68h9ti9sdMo4rTrEvijZ"
     },
     {
       "added_at": "2024-04-16 09:12:16",
@@ -2123,22 +2123,6 @@
     {
       "added_at": "2024-04-16 09:12:16",
       "album": {
-        "name": "Baltimore",
-        "url": "https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 298000,
-      "name": "The Family",
-      "url": "https://open.spotify.com/track/14wpG5eRZwU73l6TYrvgkT"
-    },
-    {
-      "added_at": "2024-04-16 09:12:16",
-      "album": {
         "name": "Another Side",
         "url": "https://open.spotify.com/album/1eSgEDszxXr6haafSVkK7u"
       },
@@ -2151,6 +2135,22 @@
       "duration_ms": 214506,
       "name": "You've Become a Habit",
       "url": "https://open.spotify.com/track/373YZS4hMUPxFTHMG4TAFh"
+    },
+    {
+      "added_at": "2024-04-16 09:12:16",
+      "album": {
+        "name": "Baltimore",
+        "url": "https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 298000,
+      "name": "The Family",
+      "url": "https://open.spotify.com/track/14wpG5eRZwU73l6TYrvgkT"
     },
     {
       "added_at": "2024-04-16 09:12:16",
@@ -2271,18 +2271,18 @@
     {
       "added_at": "2024-04-16 09:12:16",
       "album": {
-        "name": "Chaka",
-        "url": "https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC"
+        "name": "A Nickel And A Nail And Ace Of Spades",
+        "url": "https://open.spotify.com/album/1RF1M8KE0XofOsRutwqLmK"
       },
       "artists": [
         {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+          "name": "O.V. Wright",
+          "url": "https://open.spotify.com/artist/2eRG04xbRiI1AzY8uTCySk"
         }
       ],
-      "duration_ms": 261200,
-      "name": "Sleep on It",
-      "url": "https://open.spotify.com/track/2GZMuah5B0211TmKFUZAmT"
+      "duration_ms": 222533,
+      "name": "A Nickel And A Nail",
+      "url": "https://open.spotify.com/track/7y7r4FS4Uw5T0IfTraNlnE"
     },
     {
       "added_at": "2024-04-16 09:12:16",
@@ -2303,18 +2303,18 @@
     {
       "added_at": "2024-04-16 09:12:16",
       "album": {
-        "name": "A Nickel And A Nail And Ace Of Spades",
-        "url": "https://open.spotify.com/album/1RF1M8KE0XofOsRutwqLmK"
+        "name": "Chaka",
+        "url": "https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC"
       },
       "artists": [
         {
-          "name": "O.V. Wright",
-          "url": "https://open.spotify.com/artist/2eRG04xbRiI1AzY8uTCySk"
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
         }
       ],
-      "duration_ms": 222533,
-      "name": "A Nickel And A Nail",
-      "url": "https://open.spotify.com/track/7y7r4FS4Uw5T0IfTraNlnE"
+      "duration_ms": 261200,
+      "name": "Sleep on It",
+      "url": "https://open.spotify.com/track/2GZMuah5B0211TmKFUZAmT"
     },
     {
       "added_at": "2024-04-16 09:12:16",
@@ -2355,6 +2355,22 @@
     {
       "added_at": "2024-04-16 09:12:16",
       "album": {
+        "name": "The Best Of Gwen McCrae",
+        "url": "https://open.spotify.com/album/5lQbk0FmNLk0JpP8JPz0Hq"
+      },
+      "artists": [
+        {
+          "name": "Gwen McCrae",
+          "url": "https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU"
+        }
+      ],
+      "duration_ms": 174026,
+      "name": "90% of Me Is You",
+      "url": "https://open.spotify.com/track/4dz8fFVtr8dPMqGThk5Cbs"
+    },
+    {
+      "added_at": "2024-04-16 09:12:16",
+      "album": {
         "name": "A Donny Hathaway Collection",
         "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
       },
@@ -2383,22 +2399,6 @@
       "duration_ms": 228533,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/5nqhwqequdKtOc5G0gQxRS"
-    },
-    {
-      "added_at": "2024-04-16 09:12:16",
-      "album": {
-        "name": "The Best Of Gwen McCrae",
-        "url": "https://open.spotify.com/album/5lQbk0FmNLk0JpP8JPz0Hq"
-      },
-      "artists": [
-        {
-          "name": "Gwen McCrae",
-          "url": "https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU"
-        }
-      ],
-      "duration_ms": 174026,
-      "name": "90% of Me Is You",
-      "url": "https://open.spotify.com/track/4dz8fFVtr8dPMqGThk5Cbs"
     },
     {
       "added_at": "2024-04-16 09:12:16",
@@ -2471,18 +2471,18 @@
     {
       "added_at": "2024-04-16 09:12:16",
       "album": {
-        "name": "Loose Fit",
-        "url": "https://open.spotify.com/album/50CjNUYxGgbXKVHkVQyGIZ"
+        "name": "Never My Love: The Anthology",
+        "url": "https://open.spotify.com/album/4kINvyMdIqyuXAtpoCKGIO"
       },
       "artists": [
         {
-          "name": "Ruben Hein",
-          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
         }
       ],
-      "duration_ms": 223000,
-      "name": "Rosie",
-      "url": "https://open.spotify.com/track/5gY5mb97G1JZFB8eved6rR"
+      "duration_ms": 230758,
+      "name": "I Believe to My Soul",
+      "url": "https://open.spotify.com/track/44mCqqpRD4QPn93kM2WGdE"
     },
     {
       "added_at": "2024-04-16 09:12:16",
@@ -2503,18 +2503,18 @@
     {
       "added_at": "2024-04-16 09:12:16",
       "album": {
-        "name": "Never My Love: The Anthology",
-        "url": "https://open.spotify.com/album/4kINvyMdIqyuXAtpoCKGIO"
+        "name": "Loose Fit",
+        "url": "https://open.spotify.com/album/50CjNUYxGgbXKVHkVQyGIZ"
       },
       "artists": [
         {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+          "name": "Ruben Hein",
+          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
         }
       ],
-      "duration_ms": 230758,
-      "name": "I Believe to My Soul",
-      "url": "https://open.spotify.com/track/44mCqqpRD4QPn93kM2WGdE"
+      "duration_ms": 223000,
+      "name": "Rosie",
+      "url": "https://open.spotify.com/track/5gY5mb97G1JZFB8eved6rR"
     },
     {
       "added_at": "2024-04-16 09:12:16",
@@ -2535,22 +2535,6 @@
     {
       "added_at": "2024-04-16 09:12:16",
       "album": {
-        "name": "Woodstock Generation",
-        "url": "https://open.spotify.com/album/4ozDtdDznuECwLlFboqv0W"
-      },
-      "artists": [
-        {
-          "name": "James Carr",
-          "url": "https://open.spotify.com/artist/59fzcTUsoozikLmRY1SwHS"
-        }
-      ],
-      "duration_ms": 150306,
-      "name": "The Dark End Of The Street",
-      "url": "https://open.spotify.com/track/1qboV1rrtiCburWz7E07lB"
-    },
-    {
-      "added_at": "2024-04-16 09:12:16",
-      "album": {
         "name": "The Bleeding Edge",
         "url": "https://open.spotify.com/album/27EWlKpIxk0YCcpc3pI6ge"
       },
@@ -2563,6 +2547,22 @@
       "duration_ms": 338080,
       "name": "Let's Straighten It Out",
       "url": "https://open.spotify.com/track/31RB0e7i3uPJfY5qz06ZHO"
+    },
+    {
+      "added_at": "2024-04-16 09:12:16",
+      "album": {
+        "name": "Woodstock Generation",
+        "url": "https://open.spotify.com/album/4ozDtdDznuECwLlFboqv0W"
+      },
+      "artists": [
+        {
+          "name": "James Carr",
+          "url": "https://open.spotify.com/artist/59fzcTUsoozikLmRY1SwHS"
+        }
+      ],
+      "duration_ms": 150306,
+      "name": "The Dark End Of The Street",
+      "url": "https://open.spotify.com/track/1qboV1rrtiCburWz7E07lB"
     },
     {
       "added_at": "2024-04-16 09:12:16",

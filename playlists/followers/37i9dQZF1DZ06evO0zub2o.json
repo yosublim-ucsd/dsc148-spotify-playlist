@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 281221,
+  "2024-05-03": 281289,
   "date_first_scraped": "2022-05-31",
   "description": "This Is Pantera. Los temas esenciales, todos en una lista.",
   "name": "This Is Pantera",
@@ -719,7 +719,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 276573,
       "name": "Rise",
       "url": "https://open.spotify.com/track/1GgdgDHlEdmwbCZLLzV4Ik"
@@ -953,7 +953,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-01",
+      "date_removed": null,
       "duration_ms": 315120,
       "name": "Walk",
       "url": "https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR"

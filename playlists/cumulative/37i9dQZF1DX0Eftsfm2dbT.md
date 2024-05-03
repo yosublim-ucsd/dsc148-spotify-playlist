@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: LEX, LANA
 
-689 songs - 1 day 11 hr 35 min
+690 songs - 1 day 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -658,6 +658,7 @@
 | [チャラくないワンナイト](https://open.spotify.com/track/1v9J5QOMejdUCE6oSoUXGo) | [Taeyoung Boy](https://open.spotify.com/artist/6U9PA9nXDmzmlpSwR9KJ2n), [JNKMN](https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L) | [チャラくないワンナイト](https://open.spotify.com/album/7oKEGCLaTgkAhEuqy8s3hZ) | 2:56 | 2024-04-24 |  |
 | [チーム友達](https://open.spotify.com/track/36gWxkPpsHBF5SUhW3EGaA) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [チーム友達](https://open.spotify.com/album/0PDx6CYUwXxQo2i6iwFb1x) | 2:32 | 2024-02-12 | 2024-02-14 |
 | [チーム友達 \- Dirty Kansai Remix](https://open.spotify.com/track/7L23oYq9gQRjoxX8UlARLX) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu), [Young Coco](https://open.spotify.com/artist/69392PoCHBv32GuUOrurm6), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [チーム友達 \(Dirty Kansai Remix\)](https://open.spotify.com/album/6KqsbAQf7MTlQCxE1hHla2) | 3:38 | 2024-03-11 |  |
+| [チーム友達 \- Watson Remix](https://open.spotify.com/track/76GhMomsx1wQszZdwI3vRC) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [チーム友達 \(The Remixes\)](https://open.spotify.com/album/5ycBDji1NL6udbr8liTQo7) | 2:19 | 2024-05-02 |  |
 | [チーム友達 \- 東海 Remix](https://open.spotify.com/track/4IvowW1NWTpXKUGSCZwW0K) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu), [SOCKS](https://open.spotify.com/artist/2pJg8flIdE3z4C9mJBgRuw), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH), [MaRI](https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi), [DJ RYOW](https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn) | [チーム友達 \(東海 Remix\)](https://open.spotify.com/album/1ghhtRYZ7LLs6d5Hq1rFOY) | 2:45 | 2024-04-09 |  |
 | [ビリケン](https://open.spotify.com/track/4uw7rnFgYs9g3pdexIIL7L) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [ビリケン](https://open.spotify.com/album/5Um8TaZJ6QluqpqlMMs2db) | 2:30 | 2023-10-12 | 2023-11-30 |
 | [ベストテン](https://open.spotify.com/track/1gRSHbFFmceJLjIeXqnBG9) | [VaVa](https://open.spotify.com/artist/5JlRv2tBZk1f4c7UULHkUY) | [ベストテン](https://open.spotify.com/album/4eQR7jJBpSDyugWzuLFXzp) | 2:41 | 2024-04-02 | 2024-04-24 |

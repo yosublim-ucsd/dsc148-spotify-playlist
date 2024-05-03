@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "99",
+        "url": "https://open.spotify.com/album/6bkEpHoEIvTulTI8tMg7q7"
+      },
+      "artists": [
+        {
+          "name": "FUG\u014c",
+          "url": "https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183613,
+      "name": "99",
+      "url": "https://open.spotify.com/track/7L1nVvtFdiW4FlEK9tmJ6x"
+    },
+    {
+      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/44WOydQRUhz1JihfRZT6Zi"
       },
@@ -1102,6 +1120,24 @@
       "duration_ms": 278318,
       "name": "MASA MUDA",
       "url": "https://open.spotify.com/track/0eSwUxNz2EFlGC7Wn5Lsra"
+    },
+    {
+      "album": {
+        "name": "Maybe",
+        "url": "https://open.spotify.com/album/3GcOuTugF2f79Nt2d0sVEo"
+      },
+      "artists": [
+        {
+          "name": "Prou.",
+          "url": "https://open.spotify.com/artist/1GvFTATYqJu2L23GMjCG2o"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248245,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/3LuOx25ap0CTXnI8Ie2qsU"
     },
     {
       "album": {

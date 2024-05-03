@@ -1183,6 +1183,24 @@
     },
     {
       "album": {
+        "name": "Do You Ever Miss Me?",
+        "url": "https://open.spotify.com/album/5ICwCxcILQJZYiIzlyEUMV"
+      },
+      "artists": [
+        {
+          "name": "Felipe Gordon",
+          "url": "https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346865,
+      "name": "Do You Ever Miss Me?",
+      "url": "https://open.spotify.com/track/0AEhSTrYsduKZCN5N6EAE7"
+    },
+    {
+      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/3A86ZfahL8jBCWGT1Put5n"
       },

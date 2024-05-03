@@ -1,12 +1,12 @@
 {
-  "description": "This is Cynthia Luz. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 81358,
+  "description": "This is Cynthia Luz. The essential tracks, all in one playlist.",
+  "num_followers": 81356,
   "original_name": "This Is Cynthia Luz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjA0gAAAAABmz8po8RLwjhfEAsA45R8n",
+  "snapshot_id": "ZjGGAAAAAABtWS489ampZuOEGvFqwMdO",
   "tracks": [
     {
       "added_at": null,
@@ -675,38 +675,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poesia Ac\u00fastica Ep. Jeri",
-        "url": "https://open.spotify.com/album/2uRGu55z10V7As9MSJ4k6x"
+        "name": "As 25 Horas de Le Mans",
+        "url": "https://open.spotify.com/album/0bH3nq5jLOk2PwSqUA3A5Z"
       },
       "artists": [
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Menestrel",
-          "url": "https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "JayA Luuck",
-          "url": "https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp"
-        },
         {
           "name": "Froid",
           "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
         },
         {
-          "name": "Salve Malak",
-          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         }
       ],
-      "duration_ms": 262978,
-      "name": "Poesia Ac\u00fastica Ep. Jeri",
-      "url": "https://open.spotify.com/track/634FkL4BoX3y0bPjmRvW0E"
+      "duration_ms": 194965,
+      "name": "As 25 Horas de Le Mans",
+      "url": "https://open.spotify.com/track/4I5M8Y32OkiQ3YIakP0HTN"
     },
     {
       "added_at": null,
@@ -739,22 +723,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "As 25 Horas de Le Mans",
-        "url": "https://open.spotify.com/album/0bH3nq5jLOk2PwSqUA3A5Z"
+        "name": "Poesia Ac\u00fastica Ep. Jeri",
+        "url": "https://open.spotify.com/album/2uRGu55z10V7As9MSJ4k6x"
       },
       "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Menestrel",
+          "url": "https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "JayA Luuck",
+          "url": "https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp"
+        },
         {
           "name": "Froid",
           "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
         },
         {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
         }
       ],
-      "duration_ms": 194965,
-      "name": "As 25 Horas de Le Mans",
-      "url": "https://open.spotify.com/track/4I5M8Y32OkiQ3YIakP0HTN"
+      "duration_ms": 262978,
+      "name": "Poesia Ac\u00fastica Ep. Jeri",
+      "url": "https://open.spotify.com/track/634FkL4BoX3y0bPjmRvW0E"
     },
     {
       "added_at": null,

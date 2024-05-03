@@ -1,6 +1,6 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 296654,
+  "num_followers": 296650,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,6 @@
     {
       "added_at": "2024-03-06 16:30:36",
       "album": {
-        "name": "Bad Vibrations (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5rSgMFmmuaKQxma4bSEviU"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 200676,
-      "name": "Paranoia",
-      "url": "https://open.spotify.com/track/3HhaSocKwTptze7PySNZlW"
-    },
-    {
-      "added_at": "2024-03-06 16:30:36",
-      "album": {
         "name": "A Lesson In Romantics",
         "url": "https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 216000,
       "name": "Jamie All Over",
       "url": "https://open.spotify.com/track/05qCCJQJiOwvPQBb7akf1R"
+    },
+    {
+      "added_at": "2024-03-06 16:30:36",
+      "album": {
+        "name": "Bad Vibrations (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5rSgMFmmuaKQxma4bSEviU"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 200676,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/3HhaSocKwTptze7PySNZlW"
     },
     {
       "added_at": "2024-03-06 16:30:36",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-03-06 16:30:36",
       "album": {
-        "name": "S!CK",
-        "url": "https://open.spotify.com/album/2NFOsuWL7fH1UpFGTWeHcs"
-      },
-      "artists": [
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
-        }
-      ],
-      "duration_ms": 192734,
-      "name": "S!CK",
-      "url": "https://open.spotify.com/track/5ofXHXnmlZ4zqFWCo6oGOB"
-    },
-    {
-      "added_at": "2024-03-06 16:30:36",
-      "album": {
         "name": "Duality",
         "url": "https://open.spotify.com/album/5AKycvv2TUUh9h0KIletJt"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 199253,
       "name": "Why Worry",
       "url": "https://open.spotify.com/track/39ShyO1yBCiEoEXHX9ie0F"
+    },
+    {
+      "added_at": "2024-03-06 16:30:36",
+      "album": {
+        "name": "S!CK",
+        "url": "https://open.spotify.com/album/2NFOsuWL7fH1UpFGTWeHcs"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "duration_ms": 192734,
+      "name": "S!CK",
+      "url": "https://open.spotify.com/track/5ofXHXnmlZ4zqFWCo6oGOB"
     },
     {
       "added_at": "2024-03-06 16:30:36",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2024-03-06 16:30:36",
       "album": {
-        "name": "Typhoons",
-        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
+        "name": "Seventeen",
+        "url": "https://open.spotify.com/album/48xEEpRoIOOex883iHkGhT"
       },
       "artists": [
         {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+          "name": "Ally Nicholas",
+          "url": "https://open.spotify.com/artist/3F2at4eIx4GXByVo0hGJaX"
         }
       ],
-      "duration_ms": 190133,
-      "name": "Who Needs Friends",
-      "url": "https://open.spotify.com/track/7AXoSHtReIvoJPi5XKXecl"
+      "duration_ms": 150685,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/66nHiuTgSTKCwNxWSwYNLG"
     },
     {
       "added_at": "2024-03-06 16:30:36",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2024-03-06 16:30:36",
       "album": {
-        "name": "Seventeen",
-        "url": "https://open.spotify.com/album/48xEEpRoIOOex883iHkGhT"
+        "name": "Typhoons",
+        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
       },
       "artists": [
         {
-          "name": "Ally Nicholas",
-          "url": "https://open.spotify.com/artist/3F2at4eIx4GXByVo0hGJaX"
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
         }
       ],
-      "duration_ms": 150685,
-      "name": "Seventeen",
-      "url": "https://open.spotify.com/track/66nHiuTgSTKCwNxWSwYNLG"
+      "duration_ms": 190133,
+      "name": "Who Needs Friends",
+      "url": "https://open.spotify.com/track/7AXoSHtReIvoJPi5XKXecl"
     },
     {
       "added_at": "2024-03-06 16:30:36",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-03-06 16:30:36",
       "album": {
-        "name": "curious/furious",
-        "url": "https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 184905,
-      "name": "curious/furious",
-      "url": "https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5"
-    },
-    {
-      "added_at": "2024-03-06 16:30:36",
-      "album": {
         "name": "Hi-Fi Serious",
         "url": "https://open.spotify.com/album/4A66a0jsW9AJB6Com7AX4U"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 223266,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/7yUrBn4yvBBfwXXfHTE2Wd"
+    },
+    {
+      "added_at": "2024-03-06 16:30:36",
+      "album": {
+        "name": "curious/furious",
+        "url": "https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 184905,
+      "name": "curious/furious",
+      "url": "https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5"
     },
     {
       "added_at": "2024-03-06 16:30:36",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-03-06 16:30:36",
       "album": {
-        "name": "Dying To Believe",
-        "url": "https://open.spotify.com/album/3SDfbxgSuFhGUyGlKybsZx"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 181854,
-      "name": "Dying To Believe",
-      "url": "https://open.spotify.com/track/4AsFzsLJK8PIw3q8btZjCy"
-    },
-    {
-      "added_at": "2024-03-06 16:30:36",
-      "album": {
         "name": "Fortress",
         "url": "https://open.spotify.com/album/0qnxV6pF12u35kEVqlujBH"
       },
@@ -1419,6 +1403,22 @@
     {
       "added_at": "2024-03-06 16:30:36",
       "album": {
+        "name": "Dying To Believe",
+        "url": "https://open.spotify.com/album/3SDfbxgSuFhGUyGlKybsZx"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 181854,
+      "name": "Dying To Believe",
+      "url": "https://open.spotify.com/track/4AsFzsLJK8PIw3q8btZjCy"
+    },
+    {
+      "added_at": "2024-03-06 16:30:36",
+      "album": {
         "name": "Red Button",
         "url": "https://open.spotify.com/album/2suM9XsrtQEpuJtGzlnqih"
       },
@@ -1431,6 +1431,22 @@
       "duration_ms": 173853,
       "name": "Red Button",
       "url": "https://open.spotify.com/track/6VMJxZCFot154zVGSbATZG"
+    },
+    {
+      "added_at": "2024-03-06 16:30:36",
+      "album": {
+        "name": "Engage",
+        "url": "https://open.spotify.com/album/4jfEoGpdTLAlWXvRP6Vr7f"
+      },
+      "artists": [
+        {
+          "name": "Rain Check",
+          "url": "https://open.spotify.com/artist/7i7xFAtYaCxJTAejGDQYSj"
+        }
+      ],
+      "duration_ms": 186374,
+      "name": "Engage",
+      "url": "https://open.spotify.com/track/4QtSh92l7h3THw1yZcpMjr"
     },
     {
       "added_at": "2024-03-06 16:30:36",
@@ -1463,22 +1479,6 @@
       "duration_ms": 345133,
       "name": "Buddha For Mary",
       "url": "https://open.spotify.com/track/0PBW0dslhDROHvWlkYxKLq"
-    },
-    {
-      "added_at": "2024-03-06 16:30:36",
-      "album": {
-        "name": "Engage",
-        "url": "https://open.spotify.com/album/4jfEoGpdTLAlWXvRP6Vr7f"
-      },
-      "artists": [
-        {
-          "name": "Rain Check",
-          "url": "https://open.spotify.com/artist/7i7xFAtYaCxJTAejGDQYSj"
-        }
-      ],
-      "duration_ms": 186374,
-      "name": "Engage",
-      "url": "https://open.spotify.com/track/4QtSh92l7h3THw1yZcpMjr"
     },
     {
       "added_at": "2024-03-06 16:30:36",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-03-06 16:30:36",
       "album": {
-        "name": "B/W Rainbow",
-        "url": "https://open.spotify.com/album/2UrIwY8TCUCBe5VXVCStoO"
-      },
-      "artists": [
-        {
-          "name": "Stuck in the Sound",
-          "url": "https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "B/W Rainbow",
-      "url": "https://open.spotify.com/track/4Mao9J2KxOWkqp9u1LULTd"
-    },
-    {
-      "added_at": "2024-03-06 16:30:36",
-      "album": {
         "name": "Right After I Smoke This...",
         "url": "https://open.spotify.com/album/2pvRSA7JQIgKa1lAvruUlB"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 142760,
       "name": "Medication",
       "url": "https://open.spotify.com/track/4WFjp4EEmScRkNSiAsrEj1"
+    },
+    {
+      "added_at": "2024-03-06 16:30:36",
+      "album": {
+        "name": "B/W Rainbow",
+        "url": "https://open.spotify.com/album/2UrIwY8TCUCBe5VXVCStoO"
+      },
+      "artists": [
+        {
+          "name": "Stuck in the Sound",
+          "url": "https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "B/W Rainbow",
+      "url": "https://open.spotify.com/track/4Mao9J2KxOWkqp9u1LULTd"
     },
     {
       "added_at": "2024-03-06 16:30:36",

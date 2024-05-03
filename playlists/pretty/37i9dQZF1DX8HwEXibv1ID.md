@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 
 > Instrumental and vocal versions of the incredible Cole Porter\. Cover: Cole Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,135 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,166 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 | 48 | [Ça, C'est l'Amour](https://open.spotify.com/track/6O847erzexsdRhzlMJaFa0) | [John Barrowman](https://open.spotify.com/artist/2J3lGdyoJc3p5ceinyjCFQ) | [John Barrowman Swings Cole Porter](https://open.spotify.com/album/3aunFH2Gzswretr3rWLB9k) | 2:23 |
 | 49 | [Wunderbar](https://open.spotify.com/track/19jXz8ZNh5rj9Lmt3l6iVn) | [Wilbur De Paris](https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo) | [Plays Cole Porter](https://open.spotify.com/album/1dDLqWvkXcaMoGsa1EgjP5) | 4:36 |
 | 50 | [Just One Of Those Things](https://open.spotify.com/track/307sTSd6uNMwnCWJzybLy4) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The One And Only](https://open.spotify.com/album/2h2bi5subCD6Y1JLy9TbS3) | 2:15 |
-| 51 | [It's All Right With Me](https://open.spotify.com/track/2jr6t4mra4tM2dwp0QePpp) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Worktime \(RVG\)](https://open.spotify.com/album/7czLtW2CezNLEoLjLgbosC) | 6:09 |
-| 52 | [Goodbye Little Dream, Goodbye](https://open.spotify.com/track/28oUQEAgmiZX5LhZTYXqQW) | [Susannah McCorkle](https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu) | [Easy To Love: The Songs Of Cole Porter](https://open.spotify.com/album/3NnFEdQ57OGL55VSFa045Q) | 3:09 |
+| 51 | [Goodbye Little Dream, Goodbye](https://open.spotify.com/track/28oUQEAgmiZX5LhZTYXqQW) | [Susannah McCorkle](https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu) | [Easy To Love: The Songs Of Cole Porter](https://open.spotify.com/album/3NnFEdQ57OGL55VSFa045Q) | 3:09 |
+| 52 | [It's All Right With Me](https://open.spotify.com/track/2jr6t4mra4tM2dwp0QePpp) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Worktime \(RVG\)](https://open.spotify.com/album/7czLtW2CezNLEoLjLgbosC) | 6:09 |
 | 53 | [Why Shouldn't I?](https://open.spotify.com/track/5TZUTN9vUjjxy4vDDxhlKm) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [My Funny Valentine: The Best Of Chet Baker](https://open.spotify.com/album/1N1slntg5Bz5fe9S5S1R3t) | 3:34 |
 | 54 | [Too Darn Hot](https://open.spotify.com/track/7k3m2CrQlUdSq4f9H8BxOp) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC), [The Marty Paich Orchestra](https://open.spotify.com/artist/0FAwCZTimDLgBoxY1vyH3p) | [Let's Dance Jazz \(Jazz Club\)](https://open.spotify.com/album/0VG1QP6ZxoPRd1lUBSvk57) | 2:45 |
 | 55 | [Why Can't You Behave?](https://open.spotify.com/track/5Jo0cCx3upXviXMXWes8XA) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [The Columbia Years \(1943\-1952\): The Complete Recordings: Volume 9](https://open.spotify.com/album/0QkSQIesTKSWIhtWOq2nvj) | 3:17 |

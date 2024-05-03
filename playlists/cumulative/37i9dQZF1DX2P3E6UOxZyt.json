@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "2024 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8a3c\u672a\u4f86\u5de8\u661f\uff01Cover: \u9112\u5e8f (Hogan)",
+  "description": "2024 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8a3c\u672a\u4f86\u5de8\u661f\uff01Cover: Majin",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -168,7 +168,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 210000,
       "name": "another time",
       "url": "https://open.spotify.com/track/4vHvm27vjR1BoaokJS16XV"
@@ -894,7 +894,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 186000,
       "name": "EDEN feat. Sabrina \u80e1\u6042\u821e",
       "url": "https://open.spotify.com/track/373Dpde9za64jysTww7guV"
@@ -2666,7 +2666,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 267986,
       "name": "Pretense",
       "url": "https://open.spotify.com/track/1iGilBtLO9t5Wm6hs4I7pj"
@@ -3276,7 +3276,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 173793,
       "name": "The Same Title \u72d7\u8840",
       "url": "https://open.spotify.com/track/0pXsKHPFzl8XYAXsfxFzpi"
@@ -3294,7 +3294,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 100027,
       "name": "The Way",
       "url": "https://open.spotify.com/track/7BsxnZQIlqEUL7h2haDK9z"
@@ -3730,6 +3730,28 @@
       "duration_ms": 139471,
       "name": "Yao",
       "url": "https://open.spotify.com/track/624aGEB7aBIR02KQQYxXAN"
+    },
+    {
+      "album": {
+        "name": "1Majin Nation",
+        "url": "https://open.spotify.com/album/2kJYCOovUBZ0on2ig5HInZ"
+      },
+      "artists": [
+        {
+          "name": "Majin",
+          "url": "https://open.spotify.com/artist/6iQuZJoGAkn0UZcayx5fTl"
+        },
+        {
+          "name": "\u6591\u6bd4Bambii",
+          "url": "https://open.spotify.com/artist/68NTWax6QLwQtHEqGXouyR"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163263,
+      "name": "Yellow Hoodie \u9ec3\u8272\u5e3d\u8e22 feat. \u6591\u6bd4Bambii",
+      "url": "https://open.spotify.com/track/6LlUQCMpwWbDgnez3VXZPF"
     },
     {
       "album": {
@@ -4229,6 +4251,24 @@
     },
     {
       "album": {
+        "name": "\u4e5f\u8a31\u554a",
+        "url": "https://open.spotify.com/album/1cXfItPZayCCJkJw91P2iY"
+      },
+      "artists": [
+        {
+          "name": "\u9112\u5e8f",
+          "url": "https://open.spotify.com/artist/7lk9vXaiJOXeKd2ms7Ohh0"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236684,
+      "name": "\u4e5f\u8a31\u554a",
+      "url": "https://open.spotify.com/track/1VKgjzjtYNMb0fe8zbLjAa"
+    },
+    {
+      "album": {
         "name": "\u4e5f\u8a31\u662f\u4f60\u62ef\u6551\u4e86\u6211",
         "url": "https://open.spotify.com/album/3S6julQkPoIutwzonlMkzw"
       },
@@ -4602,6 +4642,24 @@
       "duration_ms": 196750,
       "name": "\u4f60\u8aaa\u9019\u53eb\u5929\u79e4\u5ea7\u4f46\u4f60\u559c\u6b61",
       "url": "https://open.spotify.com/track/5vYF35h9hdvYWfCL3Zb8Xj"
+    },
+    {
+      "album": {
+        "name": "Diamond In The Rough",
+        "url": "https://open.spotify.com/album/6zPGNuCikxTQLI8ZQuHNsQ"
+      },
+      "artists": [
+        {
+          "name": "\u674e\u6d69\u744b Howard Lee",
+          "url": "https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182981,
+      "name": "\u4f60\u8b93\u6211",
+      "url": "https://open.spotify.com/track/3JNMGo4GhXVFtqO2KNtxbm"
     },
     {
       "album": {
@@ -5066,6 +5124,28 @@
       "duration_ms": 182857,
       "name": "\u53ea\u8981\u59b3\u559c\u6b61",
       "url": "https://open.spotify.com/track/451RJJ6kEmtr4uM3Ygw0Be"
+    },
+    {
+      "album": {
+        "name": "\u53f0\u5317\u53f0\u4e2d",
+        "url": "https://open.spotify.com/album/1YvQC0cXwcOhPGiXh0mh7k"
+      },
+      "artists": [
+        {
+          "name": "Sabrina \u80e1\u6042\u821e",
+          "url": "https://open.spotify.com/artist/378nUaqWlvNG3xRIszxzLs"
+        },
+        {
+          "name": "JOYCE \u5c31\u4ee5\u65af",
+          "url": "https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234915,
+      "name": "\u53f0\u5317\u53f0\u4e2d",
+      "url": "https://open.spotify.com/track/3zvRViL04ZsktvY46SizbH"
     },
     {
       "album": {
@@ -6994,7 +7074,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-26",
+      "date_removed": null,
       "duration_ms": 134794,
       "name": "\u6307\u91dd",
       "url": "https://open.spotify.com/track/4M8lN6T68TfZHSKlkddFY1"

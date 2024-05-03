@@ -1,6 +1,6 @@
 {
   "description": "Na m\u00fasica eletr\u00f4nica underground brasileira, nos vemos no front.",
-  "num_followers": 11425,
+  "num_followers": 11428,
   "original_name": "Front BR",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Feel Me",
-        "url": "https://open.spotify.com/album/28dybAb1bHM81bMOIPM9QW"
-      },
-      "artists": [
-        {
-          "name": "Aninha",
-          "url": "https://open.spotify.com/artist/6dCjFLvBI3cNlTIUWSXRrf"
-        }
-      ],
-      "duration_ms": 351451,
-      "name": "Feel Me - Original mix",
-      "url": "https://open.spotify.com/track/2UKEv5MMX7TYHcc92TJHP5"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "Kin Sharuba",
         "url": "https://open.spotify.com/album/4Kz5eYBKdAIu8RzgMODvFi"
       },
@@ -543,18 +527,18 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Nocturnal Fear",
-        "url": "https://open.spotify.com/album/5SKJOj2pql5vvHUz2TYtmP"
+        "name": "Feel Me",
+        "url": "https://open.spotify.com/album/28dybAb1bHM81bMOIPM9QW"
       },
       "artists": [
         {
-          "name": "RHR",
-          "url": "https://open.spotify.com/artist/2Q01XKiycTMJqmeGbGcxX6"
+          "name": "Aninha",
+          "url": "https://open.spotify.com/artist/6dCjFLvBI3cNlTIUWSXRrf"
         }
       ],
-      "duration_ms": 336400,
-      "name": "Colapso",
-      "url": "https://open.spotify.com/track/0GnU3VwY3jlVvOIm8mSwPb"
+      "duration_ms": 351451,
+      "name": "Feel Me - Original mix",
+      "url": "https://open.spotify.com/track/2UKEv5MMX7TYHcc92TJHP5"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -575,6 +559,22 @@
       "duration_ms": 409258,
       "name": "Flame of the Pine Cone - Spaniol's Blue Note Remix",
       "url": "https://open.spotify.com/track/5juJXWm2B17gJBvMq7Gr6r"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Nocturnal Fear",
+        "url": "https://open.spotify.com/album/5SKJOj2pql5vvHUz2TYtmP"
+      },
+      "artists": [
+        {
+          "name": "RHR",
+          "url": "https://open.spotify.com/artist/2Q01XKiycTMJqmeGbGcxX6"
+        }
+      ],
+      "duration_ms": 336400,
+      "name": "Colapso",
+      "url": "https://open.spotify.com/track/0GnU3VwY3jlVvOIm8mSwPb"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -707,6 +707,22 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
+        "name": "Kengaral Eletrohits, Vol. 1",
+        "url": "https://open.spotify.com/album/2iN0VnUvrVr8VVsW9iiEgk"
+      },
+      "artists": [
+        {
+          "name": "Mari Herzer",
+          "url": "https://open.spotify.com/artist/3EZyY0T4MFZqjpqRODdtbw"
+        }
+      ],
+      "duration_ms": 329500,
+      "name": "Autoconstru\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/3JDNY92MkmvZUnMIu8zxaU"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
         "name": "Bajolo Vol. I",
         "url": "https://open.spotify.com/album/6fh8K2jIvzokVcWbr7kkhx"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 311129,
       "name": "Fixity - Original Mix",
       "url": "https://open.spotify.com/track/6qLbhDQaerJfb8q9AdoP70"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Kengaral Eletrohits, Vol. 1",
-        "url": "https://open.spotify.com/album/2iN0VnUvrVr8VVsW9iiEgk"
-      },
-      "artists": [
-        {
-          "name": "Mari Herzer",
-          "url": "https://open.spotify.com/artist/3EZyY0T4MFZqjpqRODdtbw"
-        }
-      ],
-      "duration_ms": 329500,
-      "name": "Autoconstru\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/3JDNY92MkmvZUnMIu8zxaU"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Easytiiger__001",
-        "url": "https://open.spotify.com/album/1mMoc1fxau0gi4TETJqoFt"
-      },
-      "artists": [
-        {
-          "name": "Mootron",
-          "url": "https://open.spotify.com/artist/3PpdTKOWOfHbQxB7Q2bFYv"
-        }
-      ],
-      "duration_ms": 386181,
-      "name": "No Rave",
-      "url": "https://open.spotify.com/track/1d4372BADKlOLV7BwBJ6T9"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/4NEJkZSWPNuRJV6sagTbsg"
       },
@@ -875,18 +859,34 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Espelho",
-        "url": "https://open.spotify.com/album/1cNxz3fo05EMxvqloj6Mn1"
+        "name": "Easytiiger__001",
+        "url": "https://open.spotify.com/album/1mMoc1fxau0gi4TETJqoFt"
       },
       "artists": [
         {
-          "name": "Vermelho Wonder",
-          "url": "https://open.spotify.com/artist/1uJaXZr3h2FXfMTzQmhHpu"
+          "name": "Mootron",
+          "url": "https://open.spotify.com/artist/3PpdTKOWOfHbQxB7Q2bFYv"
         }
       ],
-      "duration_ms": 320000,
-      "name": "Espelho (Malka Synthpop Rework)",
-      "url": "https://open.spotify.com/track/6aFLnRoJcUtnk1C5ZYGwL9"
+      "duration_ms": 386181,
+      "name": "No Rave",
+      "url": "https://open.spotify.com/track/1d4372BADKlOLV7BwBJ6T9"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "CurraL 001",
+        "url": "https://open.spotify.com/album/0sEEFnpLE5L0X3y5ZHqd1C"
+      },
+      "artists": [
+        {
+          "name": "Bruno Afterall",
+          "url": "https://open.spotify.com/artist/7JdigJ1leJusGEZ4ZzrpM6"
+        }
+      ],
+      "duration_ms": 376000,
+      "name": "Guarapan",
+      "url": "https://open.spotify.com/track/5GL0TndOjy07iDPx4YY25v"
     }
   ],
   "unique_name": "Front BR",

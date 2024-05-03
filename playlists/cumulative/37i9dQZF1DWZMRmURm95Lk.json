@@ -650,7 +650,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 131088,
       "name": "BASTA SESSION N\u00b02",
       "url": "https://open.spotify.com/track/3qcWtvg42r81IaMmPRGMcV"
@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 187000,
       "name": "Carattere",
       "url": "https://open.spotify.com/track/1fjTchtUOqEz2PhBqgLH5p"
@@ -2066,7 +2066,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 102746,
       "name": "Deep Underground",
       "url": "https://open.spotify.com/track/0m8s5SJxrCPSujGlGXrclY"
@@ -2276,7 +2276,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 304560,
       "name": "Disegni nella mente",
       "url": "https://open.spotify.com/track/6CTfiEvB6f6B36XATiv43W"
@@ -2530,7 +2530,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 208259,
       "name": "FANCULO CI SIAMO ANCHE NOI",
       "url": "https://open.spotify.com/track/5eKafeqVlztOFHhHNRQgdO"
@@ -4100,6 +4100,36 @@
       "duration_ms": 207609,
       "name": "La maggior parte",
       "url": "https://open.spotify.com/track/2hFGej35hhWApmQQFasOjV"
+    },
+    {
+      "album": {
+        "name": "La messa della jungle",
+        "url": "https://open.spotify.com/album/4xGIOY51kMml9RxDAEcdi5"
+      },
+      "artists": [
+        {
+          "name": "DJ Aladyn",
+          "url": "https://open.spotify.com/artist/6hH8ovbtjiM8DxpLiANSY8"
+        },
+        {
+          "name": "Tormento",
+          "url": "https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L"
+        },
+        {
+          "name": "Lion D",
+          "url": "https://open.spotify.com/artist/6dV7tQuFIXDX8nbGkWCSnz"
+        },
+        {
+          "name": "Esa AKA El Presidente",
+          "url": "https://open.spotify.com/artist/2QL6HBdEZXOj8CpoEB9Sa9"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206477,
+      "name": "La messa della jungle",
+      "url": "https://open.spotify.com/track/5DEzlaUOjKf5s1yVn75o69"
     },
     {
       "album": {
@@ -6793,6 +6823,36 @@
     },
     {
       "album": {
+        "name": "Prima che sfaso",
+        "url": "https://open.spotify.com/album/4gFaHLGVGSvGMuezPz6BlS"
+      },
+      "artists": [
+        {
+          "name": "DJ Skizo",
+          "url": "https://open.spotify.com/artist/22ZKZgLocbcA5rGu5KgXBZ"
+        },
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        },
+        {
+          "name": "Nerone",
+          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
+        },
+        {
+          "name": "Dj Ghost aka Steeni",
+          "url": "https://open.spotify.com/artist/6ztRFZRLvogVldoYGP8PGO"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151409,
+      "name": "Prima che sfaso",
+      "url": "https://open.spotify.com/track/591GgFJ87VKpYRnsdKtNn4"
+    },
+    {
+      "album": {
         "name": "GARA 7",
         "url": "https://open.spotify.com/album/1UZUZ2zX7x2g1SGL4gGzxX"
       },
@@ -7190,7 +7250,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 227388,
       "name": "Rap in vena",
       "url": "https://open.spotify.com/track/7INUbNSkLTxJiqZ1FhNcxa"
@@ -8262,6 +8322,28 @@
       "duration_ms": 192530,
       "name": "Sound Fi Dead",
       "url": "https://open.spotify.com/track/2uACaAvI5voYrCcqmZEK7D"
+    },
+    {
+      "album": {
+        "name": "Sour Cream",
+        "url": "https://open.spotify.com/album/79nA84bRrXJuDAp4VjH16Z"
+      },
+      "artists": [
+        {
+          "name": "Jangy Leeon",
+          "url": "https://open.spotify.com/artist/1WTZw0SzZvDGPqO9uYkFx7"
+        },
+        {
+          "name": "Dj MS",
+          "url": "https://open.spotify.com/artist/2zx8hW1HdhkTCMa6V2GGNa"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191524,
+      "name": "Sour Cream",
+      "url": "https://open.spotify.com/track/3m47zKE5YlyHTmWj19C9ZJ"
     },
     {
       "album": {
@@ -9390,7 +9472,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 210093,
       "name": "Vero cuoio",
       "url": "https://open.spotify.com/track/3wSmk7RYfGH68HXgexMdM8"
@@ -9430,7 +9512,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 281960,
       "name": "Via da qua",
       "url": "https://open.spotify.com/track/3wR9T5duDxx2B8lAt2glZ2"

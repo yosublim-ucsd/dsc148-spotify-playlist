@@ -1,12 +1,12 @@
 {
-  "description": "This is Carlos Rafael Rivera. The essential tracks, all in one playlist.",
+  "description": "This is Carlos Rafael Rivera. Todos os maiores hits em uma s\u00f3 playlist.",
   "num_followers": 476,
   "original_name": "This Is Carlos Rafael Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjA0gAAAAADve4d8ySp57R/P0mVCOHXr",
+  "snapshot_id": "ZjGGAAAAAACqpEtloYAkvRhgUwi9d+oi",
   "tracks": [
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 144739,
-      "name": "The Remsen",
-      "url": "https://open.spotify.com/track/51qQvPxeHMUvHaMnwZxU3b"
+      "duration_ms": 116015,
+      "name": "Mad",
+      "url": "https://open.spotify.com/track/5UvOMRZ9OLfWlHAF72qo6y"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 116015,
-      "name": "Mad",
-      "url": "https://open.spotify.com/track/5UvOMRZ9OLfWlHAF72qo6y"
+      "duration_ms": 144739,
+      "name": "The Remsen",
+      "url": "https://open.spotify.com/track/51qQvPxeHMUvHaMnwZxU3b"
     }
   ],
   "unique_name": "This Is Carlos Rafael Rivera",

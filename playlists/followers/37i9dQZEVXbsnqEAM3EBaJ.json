@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 0,
+  "2024-05-03": 0,
   "date_first_scraped": "2023-03-03",
   "description": "Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.",
   "name": "Release Radar (@pipemanuel10)",
@@ -8199,6 +8199,24 @@
           "url": "https://open.spotify.com/artist/13AiWNMLpKYo0wSPSAiBUg"
         }
       ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 595027,
+      "name": "Frecuencias del \u00c1rbol de Luz",
+      "url": "https://open.spotify.com/track/3jp0Lig4UeEPeEUFmZkzxy"
+    },
+    {
+      "album": {
+        "name": "Vibraciones Superiores",
+        "url": "https://open.spotify.com/album/42Ed8WBO3fkq08LkjqHnI5"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Donalson",
+          "url": "https://open.spotify.com/artist/13AiWNMLpKYo0wSPSAiBUg"
+        }
+      ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
       "date_removed": "2024-05-01",
@@ -15097,7 +15115,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 597204,
       "name": "Milagros Manifiestos e Inmediatos",
       "url": "https://open.spotify.com/track/7duROuHOocOtgP5hlLPNS5"
@@ -27573,10 +27591,28 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 300487,
       "name": "Wreckage",
       "url": "https://open.spotify.com/track/083LM23MmqS8HTTYZQrYxG"
+    },
+    {
+      "album": {
+        "name": "Wreckage",
+        "url": "https://open.spotify.com/album/6dsMavDobkP4axjNiv6HAN"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300487,
+      "name": "Wreckage",
+      "url": "https://open.spotify.com/track/4WnQyfhJn0O0LY3SPlxReB"
     },
     {
       "album": {

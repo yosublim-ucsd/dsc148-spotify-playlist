@@ -1,13 +1,29 @@
 {
   "description": "Explore all things indie rock right now. Featuring music from Hana Vu",
-  "num_followers": 827102,
+  "num_followers": 827087,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZismwAAAAACH1OubEF7cNytAcCV3hQjb",
+  "snapshot_id": "ZjRhQAAAAABArlpI9sSBKpwlG0ZoVLds",
   "tracks": [
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Romanticism",
+        "url": "https://open.spotify.com/album/6I7Al2K8HxKvyJcook1ZR8"
+      },
+      "artists": [
+        {
+          "name": "Hana Vu",
+          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
+        }
+      ],
+      "duration_ms": 234234,
+      "name": "Airplane",
+      "url": "https://open.spotify.com/track/5U0vVExqpq4pOEhs2ODuA9"
+    },
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
@@ -23,6 +39,86 @@
       "duration_ms": 177475,
       "name": "Like I Say (I runaway)",
       "url": "https://open.spotify.com/track/2D3oVAd8nHrqJH8UAfvtTT"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Sour Patch",
+        "url": "https://open.spotify.com/album/6CLdVHeb9EBQU0pnHdcyMO"
+      },
+      "artists": [
+        {
+          "name": "Ruby Waters",
+          "url": "https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd"
+        }
+      ],
+      "duration_ms": 201735,
+      "name": "Sour Patch",
+      "url": "https://open.spotify.com/track/4I0XnxrpkwD7CvJuUm9DgB"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Everything At Once",
+        "url": "https://open.spotify.com/album/1yvvWZTMtXLD3gupUcZ5SX"
+      },
+      "artists": [
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "duration_ms": 229026,
+      "name": "Everything At Once",
+      "url": "https://open.spotify.com/track/21gA87I4UP9oGRcwJg0ZWT"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Can't Be Still",
+        "url": "https://open.spotify.com/album/1x8CYRugVpcyD4JEeJtRa0"
+      },
+      "artists": [
+        {
+          "name": "illuminati hotties",
+          "url": "https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O"
+        }
+      ],
+      "duration_ms": 178362,
+      "name": "Can't Be Still",
+      "url": "https://open.spotify.com/track/38aNl1TpX3wSrl0yqBhvOX"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "PRATTS & PAIN",
+        "url": "https://open.spotify.com/album/2cNAVNktNuv4fzSLJCuoDE"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 166973,
+      "name": "Claw Foot",
+      "url": "https://open.spotify.com/track/25Ydf3tBonBtvs3NhwYop7"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Bad Dream",
+        "url": "https://open.spotify.com/album/3Ksfxxd3u2IABEqECQ8UWw"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 210904,
+      "name": "Bad Dream",
+      "url": "https://open.spotify.com/track/4G7LYlnVgPWVmjXERE8NnB"
     },
     {
       "added_at": "2024-04-19 04:02:35",
@@ -41,6 +137,90 @@
       "url": "https://open.spotify.com/track/1c1iyuIpgPr7FBbMBkQEzJ"
     },
     {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Streetwise",
+        "url": "https://open.spotify.com/album/62gfDniQmmdW6ttPGDukYv"
+      },
+      "artists": [
+        {
+          "name": "Pretty Sick",
+          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+        },
+        {
+          "name": "xmal",
+          "url": "https://open.spotify.com/artist/20DDNwdmrT61u9Wat7cv7H"
+        }
+      ],
+      "duration_ms": 126620,
+      "name": "Streetwise",
+      "url": "https://open.spotify.com/track/5SDW0aLSetWzFS1676VgXQ"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Knives For Aries",
+        "url": "https://open.spotify.com/album/2EL0n7jffmOwkdEvm60kwi"
+      },
+      "artists": [
+        {
+          "name": "Roar",
+          "url": "https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD"
+        }
+      ],
+      "duration_ms": 126246,
+      "name": "Difluoroethane",
+      "url": "https://open.spotify.com/track/6wqlEKnSMVq37ZipY04pMp"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "A Dream Is All We Know",
+        "url": "https://open.spotify.com/album/3ZEIxul2SC2AslVuGZGO68"
+      },
+      "artists": [
+        {
+          "name": "The Lemon Twigs",
+          "url": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
+        }
+      ],
+      "duration_ms": 151560,
+      "name": "Peppermint Roses",
+      "url": "https://open.spotify.com/track/4wY7dEwv9w2BvnVXbICYMT"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Do You?",
+        "url": "https://open.spotify.com/album/4XjrrQbXfmeDOhHJLc49AN"
+      },
+      "artists": [
+        {
+          "name": "Daniel Nunnelee",
+          "url": "https://open.spotify.com/artist/0rNsySWLw0GRzrj2Kh6jBs"
+        }
+      ],
+      "duration_ms": 199815,
+      "name": "Do You?",
+      "url": "https://open.spotify.com/track/2gkvkeDHP6Ek6fiIHcjdbV"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "BEG",
+        "url": "https://open.spotify.com/album/3hRu8uw81oSlAXkGY3LqaZ"
+      },
+      "artists": [
+        {
+          "name": "Cam Rao",
+          "url": "https://open.spotify.com/artist/0reunFOO4l81BNysaJUCPV"
+        }
+      ],
+      "duration_ms": 148148,
+      "name": "BEG",
+      "url": "https://open.spotify.com/track/1CyHaB9SvOTOBRmOI3O23A"
+    },
+    {
       "added_at": "2024-04-26 04:00:00",
       "album": {
         "name": "Crybaby",
@@ -55,22 +235,6 @@
       "duration_ms": 174918,
       "name": "Crybaby",
       "url": "https://open.spotify.com/track/7gcjgCVdyvXgbme0Q47Pfr"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Bad Dream",
-        "url": "https://open.spotify.com/album/3Ksfxxd3u2IABEqECQ8UWw"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        }
-      ],
-      "duration_ms": 210904,
-      "name": "Bad Dream",
-      "url": "https://open.spotify.com/track/4G7LYlnVgPWVmjXERE8NnB"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -139,22 +303,6 @@
     {
       "added_at": "2024-04-19 04:02:35",
       "album": {
-        "name": "22",
-        "url": "https://open.spotify.com/album/52Eck1XEduHma9YBzTPwj1"
-      },
-      "artists": [
-        {
-          "name": "Hana Vu",
-          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
-        }
-      ],
-      "duration_ms": 198903,
-      "name": "22",
-      "url": "https://open.spotify.com/track/7jECqeVkbeYMvKNsYJvjY4"
-    },
-    {
-      "added_at": "2024-04-19 04:02:35",
-      "album": {
         "name": "Night Cap",
         "url": "https://open.spotify.com/album/6kEkf9OtDTnzwjIlMhf484"
       },
@@ -183,6 +331,26 @@
       "duration_ms": 162291,
       "name": "My Fun",
       "url": "https://open.spotify.com/track/306xT15GTuDs3NyopIANrh"
+    },
+    {
+      "added_at": "2024-04-19 04:02:35",
+      "album": {
+        "name": "I Wanna Be There",
+        "url": "https://open.spotify.com/album/1WGweDVmiqhd84jdjORVh5"
+      },
+      "artists": [
+        {
+          "name": "Evangeline",
+          "url": "https://open.spotify.com/artist/1gxczmVzWKNJLz61uI27zJ"
+        },
+        {
+          "name": "Max Shrager",
+          "url": "https://open.spotify.com/artist/5DbrQHRmMsVz8YtsDqmOrq"
+        }
+      ],
+      "duration_ms": 161640,
+      "name": "I Wanna Be There",
+      "url": "https://open.spotify.com/track/33odLHXBUeIkfv9Y8kUVrE"
     },
     {
       "added_at": "2024-04-19 04:02:35",
@@ -219,26 +387,6 @@
       "duration_ms": 263760,
       "name": "Your Desire in Food",
       "url": "https://open.spotify.com/track/22DaMb0Q6nde3ozb2qMDYl"
-    },
-    {
-      "added_at": "2024-04-19 04:02:35",
-      "album": {
-        "name": "I Wanna Be There",
-        "url": "https://open.spotify.com/album/1WGweDVmiqhd84jdjORVh5"
-      },
-      "artists": [
-        {
-          "name": "Evangeline",
-          "url": "https://open.spotify.com/artist/1gxczmVzWKNJLz61uI27zJ"
-        },
-        {
-          "name": "Max Shrager",
-          "url": "https://open.spotify.com/artist/5DbrQHRmMsVz8YtsDqmOrq"
-        }
-      ],
-      "duration_ms": 161640,
-      "name": "I Wanna Be There",
-      "url": "https://open.spotify.com/track/33odLHXBUeIkfv9Y8kUVrE"
     },
     {
       "added_at": "2024-04-19 04:02:35",
@@ -517,22 +665,6 @@
       "url": "https://open.spotify.com/track/1XXyubI3J3GRqpmVQPcBCT"
     },
     {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "How Can I Love Her More?",
-        "url": "https://open.spotify.com/album/4AflCecOU26ScUgd34omyk"
-      },
-      "artists": [
-        {
-          "name": "The Lemon Twigs",
-          "url": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
-        }
-      ],
-      "duration_ms": 167586,
-      "name": "How Can I Love Her More?",
-      "url": "https://open.spotify.com/track/5ZH5HVHFtxf7opSL8Tvo6r"
-    },
-    {
       "added_at": "2024-04-05 04:00:00",
       "album": {
         "name": "Shipwreck",
@@ -679,22 +811,6 @@
       "duration_ms": 142000,
       "name": "loser 4 u",
       "url": "https://open.spotify.com/track/7kBUCVQmWVtIvEOCARmg8W"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Hammer",
-        "url": "https://open.spotify.com/album/0PwrCiCW0SetmMMx1Uf1ap"
-      },
-      "artists": [
-        {
-          "name": "Hana Vu",
-          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
-        }
-      ],
-      "duration_ms": 219498,
-      "name": "Hammer",
-      "url": "https://open.spotify.com/track/6Krb3n3QGEubvJjIEMs4Rq"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1173,22 +1289,6 @@
       "url": "https://open.spotify.com/track/6EzoxXeQ1Or9xGds2AApJ9"
     },
     {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Your Mother's Name",
-        "url": "https://open.spotify.com/album/0oTmJI1vJfW5D7zH9fGByM"
-      },
-      "artists": [
-        {
-          "name": "Susannah Joffe",
-          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
-        }
-      ],
-      "duration_ms": 139086,
-      "name": "Die Your Daughter",
-      "url": "https://open.spotify.com/track/5Ey7icpjKCGpi5oJi7VLdu"
-    },
-    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Dope Sick",
@@ -1547,102 +1647,6 @@
       "duration_ms": 164819,
       "name": "MONKI",
       "url": "https://open.spotify.com/track/30eZI7pnpdWKgk1UmUAxoF"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Weird",
-        "url": "https://open.spotify.com/album/7n95zSWEhljBwhZnbteffk"
-      },
-      "artists": [
-        {
-          "name": "Hana Eid",
-          "url": "https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr"
-        }
-      ],
-      "duration_ms": 216234,
-      "name": "Weird",
-      "url": "https://open.spotify.com/track/6fDLQn0vtJR94V55oBANZC"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Brain Damage",
-        "url": "https://open.spotify.com/album/6mOOrpYBo204Mkki7UadkF"
-      },
-      "artists": [
-        {
-          "name": "Joywave",
-          "url": "https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Brain Damage",
-      "url": "https://open.spotify.com/track/0HKnAO33C9ScjOzTZzqEVb"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Bored",
-        "url": "https://open.spotify.com/album/5hkpKoYQ8CE93Uv9zbHXFf"
-      },
-      "artists": [
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 175120,
-      "name": "Bored",
-      "url": "https://open.spotify.com/track/7HyJAC5Z0JDS7rq7gbK7EW"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Girls That Play",
-        "url": "https://open.spotify.com/album/1X71C3gwouR1BOm8WA2LFx"
-      },
-      "artists": [
-        {
-          "name": "Etta Marcus",
-          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
-        }
-      ],
-      "duration_ms": 202302,
-      "name": "Girls That Play",
-      "url": "https://open.spotify.com/track/6LFKTSenkUPdjtoGk5VIN0"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "PRATTS & PAIN",
-        "url": "https://open.spotify.com/album/64vC3GWaE8ryklQD2fNosa"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 185213,
-      "name": "Foam",
-      "url": "https://open.spotify.com/track/4lfuRRTLD4UFkSVVArVVaK"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Wall Of Eyes",
-        "url": "https://open.spotify.com/album/6PdPOv5ybKZ9ZuGMk5iGZd"
-      },
-      "artists": [
-        {
-          "name": "The Smile",
-          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
-        }
-      ],
-      "duration_ms": 314440,
-      "name": "Read The Room",
-      "url": "https://open.spotify.com/track/4WlKWgWG030Cpatn5P6uGE"
     }
   ],
   "unique_name": "Today's Indie Rock",

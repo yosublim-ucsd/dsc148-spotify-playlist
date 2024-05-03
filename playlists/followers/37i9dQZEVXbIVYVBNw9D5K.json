@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 813007,
+  "2024-05-03": 813112,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Turkey.",
   "name": "Top 50 - Turkey",
@@ -5158,6 +5158,24 @@
     },
     {
       "album": {
+        "name": "A\u015fk En B\u00fcy\u00fckt\u00fcr Her Zaman",
+        "url": "https://open.spotify.com/album/0eRqafbQDWjvYjcmOykgrd"
+      },
+      "artists": [
+        {
+          "name": "\u0130zel",
+          "url": "https://open.spotify.com/artist/0QSrUuv6y5Woazd3LAjbSH"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299247,
+      "name": "D\u00fc\u015fer O",
+      "url": "https://open.spotify.com/track/7cCreOFQhqqhCm82twJg0u"
+    },
+    {
+      "album": {
         "name": "Her \u015eey \u00c7ok G\u00fczel Olacak",
         "url": "https://open.spotify.com/album/0EStCExL4IcV47ZFqwj4Tf"
       },
@@ -9519,7 +9537,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 168975,
       "name": "Kehribar",
       "url": "https://open.spotify.com/track/3wtOAcctakLBwmzbCkRSHR"
@@ -15620,6 +15638,24 @@
     },
     {
       "album": {
+        "name": "Tiryakinim",
+        "url": "https://open.spotify.com/album/5RBSDuy54EfefItjc5Mfcl"
+      },
+      "artists": [
+        {
+          "name": "Bayhan",
+          "url": "https://open.spotify.com/artist/7yiLonxrJVgZKSbjo0gh6V"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199821,
+      "name": "Tiryakinim",
+      "url": "https://open.spotify.com/track/5NEqpPrKdN5kkn66GPO5z1"
+    },
+    {
+      "album": {
         "name": "Dolunay",
         "url": "https://open.spotify.com/album/2hWWX2M4ZD4PVyaPTmkfaV"
       },
@@ -16537,7 +16573,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 147905,
       "name": "Yana Yana",
       "url": "https://open.spotify.com/track/7p0ODIG60DRkcTiVlJPgck"

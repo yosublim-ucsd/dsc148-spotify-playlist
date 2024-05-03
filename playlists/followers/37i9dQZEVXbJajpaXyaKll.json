@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 126360,
+  "2024-05-03": 126359,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Argentina.",
   "name": "Viral 50 - Argentina",
@@ -3583,7 +3583,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 172125,
       "name": "Me Lo Merezco",
       "url": "https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88"
@@ -3777,7 +3777,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 177375,
       "name": "Mil Preguntas",
       "url": "https://open.spotify.com/track/4YntVuBqggRsASIbBoWT3F"
@@ -4495,6 +4495,24 @@
       "duration_ms": 144846,
       "name": "Pedro",
       "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
+    },
+    {
+      "album": {
+        "name": "Mi spendo tutto",
+        "url": "https://open.spotify.com/album/07YwhHKHa6yKzAGPajfes5"
+      },
+      "artists": [
+        {
+          "name": "Raffaella Carr\u00e0",
+          "url": "https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203426,
+      "name": "Pedro",
+      "url": "https://open.spotify.com/track/7AEfPUY8gHoEzQja4OOO49"
     },
     {
       "album": {
@@ -5795,6 +5813,24 @@
       "duration_ms": 192517,
       "name": "TU Y YO",
       "url": "https://open.spotify.com/track/00THZGfbizNvMUkJsQs74K"
+    },
+    {
+      "album": {
+        "name": "Tumba",
+        "url": "https://open.spotify.com/album/3QTNjyEdEAt9Fa6Ix39Res"
+      },
+      "artists": [
+        {
+          "name": "Thomy DJ",
+          "url": "https://open.spotify.com/artist/1owf6hAeplDLF3a8lwI6kY"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180543,
+      "name": "Tumba",
+      "url": "https://open.spotify.com/track/5Ywg69AnG1CLLGEXne1MVy"
     },
     {
       "album": {

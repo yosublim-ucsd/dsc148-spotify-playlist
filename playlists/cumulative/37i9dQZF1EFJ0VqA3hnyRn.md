@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-255 songs - 15 hr 12 min
+256 songs - 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Bikini Body](https://open.spotify.com/track/0mM39ptTtRKkeSfwsFKFxt) | [Dawin](https://open.spotify.com/artist/46GXASE9LHzyssNqKOInUu), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [Sunday](https://open.spotify.com/album/4wixCIPVwEHSNKSpv0UVVd) | 3:47 | 2024-02-07 |  |
 | [Billy Crystal](https://open.spotify.com/track/5kteG7fLexn7VkwfEflFT1) | [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [Rock City](https://open.spotify.com/artist/2aq1Srn4VzSQayH4mnyM6v) | [Trunk Muzik 0\-60](https://open.spotify.com/album/6Vg7HgTCyGdcRikqPGhPl4) | 3:59 | 2024-02-07 |  |
 | [Birthday](https://open.spotify.com/track/3eKNhLFP3smSZTsyXFZchJ) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Zaytoven](https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41) | ["A"](https://open.spotify.com/album/7JZi4kTfYCJcqOzVbKAYh5) | 3:24 | 2024-02-07 |  |
-| [BIRTHDAY DANCE](https://open.spotify.com/track/6ZEfk4fuYEBBDuplPsH5Gn) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [BIRTHDAY DANCE](https://open.spotify.com/album/5xiibvMpHtyR7YjZbl0arD) | 2:40 | 2024-02-22 |  |
+| [BIRTHDAY DANCE](https://open.spotify.com/track/0WkfQ4SJqsKrixNQNYSMsq) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [DISC TWO \(SCRATCHED UP\)](https://open.spotify.com/album/2Dl2fPxFNqw7d3oFhHqHc3) | 2:24 | 2024-05-02 |  |
+| [BIRTHDAY DANCE](https://open.spotify.com/track/6ZEfk4fuYEBBDuplPsH5Gn) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [BIRTHDAY DANCE](https://open.spotify.com/album/5xiibvMpHtyR7YjZbl0arD) | 2:40 | 2024-02-22 | 2024-05-03 |
 | [Birthday Girl](https://open.spotify.com/track/7IoLdpqB5igE13t12SKV8g) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 | 2024-02-07 |  |
 | [Blessed \(with Tyga\)](https://open.spotify.com/track/3eKLbe124mzIRFPuwCnJAD) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [ALPHA](https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq) | 2:25 | 2024-02-07 |  |
 | [Blood, Sweat, Tears](https://open.spotify.com/track/4EpDZxSApKaod3PVqT5ben) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Honest](https://open.spotify.com/album/5rbqupVSYwvEmXBUnFtUf7) | 4:23 | 2024-02-07 |  |

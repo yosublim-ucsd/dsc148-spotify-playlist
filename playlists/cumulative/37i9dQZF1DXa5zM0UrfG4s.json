@@ -1077,6 +1077,28 @@
     },
     {
       "album": {
+        "name": "Da vi var to",
+        "url": "https://open.spotify.com/album/5kubT1Uexezpd5eejqQDgZ"
+      },
+      "artists": [
+        {
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+        },
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187790,
+      "name": "Da vi var to",
+      "url": "https://open.spotify.com/track/66mAcIc3VtfVTgae4gVeBV"
+    },
+    {
+      "album": {
         "name": "Dagsfylla",
         "url": "https://open.spotify.com/album/01a07OQoUKeb6FfsTfbNTt"
       },
@@ -2022,7 +2044,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 170135,
       "name": "Evig vandring",
       "url": "https://open.spotify.com/track/7Hk8n5KY7Npva23Nk03bOr"
@@ -2138,7 +2160,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-29",
+      "date_removed": null,
       "duration_ms": 212360,
       "name": "Flammer og Bensin",
       "url": "https://open.spotify.com/track/6OxAgEwnw2mWW2e3HS7Mkz"
@@ -3656,7 +3678,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 152822,
       "name": "Jeg fortjener en \u00f8l",
       "url": "https://open.spotify.com/track/12MOqhpW8IsWO5xiCqjJdU"

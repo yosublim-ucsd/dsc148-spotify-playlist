@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring MacKenzie Porter, Lee Brice featuring Nate Smith and Hailey Whitters and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,368 likes - 79 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,518 likes - 79 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -223,6 +223,24 @@
     },
     {
       "album": {
+        "name": "FERITE",
+        "url": "https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164177,
+      "name": "Ancora Qua",
+      "url": "https://open.spotify.com/track/30TvIcbkoDh6j7hhKjs4Jg"
+    },
+    {
+      "album": {
         "name": "Angelina Jolie",
         "url": "https://open.spotify.com/album/6sE81aPV364gLYtUBwgzwR"
       },
@@ -1466,6 +1484,24 @@
       "duration_ms": 164847,
       "name": "HONEY (feat. Lazza & Capo Plaza)",
       "url": "https://open.spotify.com/track/2HIv4bKTCULRZ2eZIkVB3N"
+    },
+    {
+      "album": {
+        "name": "FERITE",
+        "url": "https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183439,
+      "name": "I Miss U",
+      "url": "https://open.spotify.com/track/52vA7mR6kKFJTaMzRUKMmk"
     },
     {
       "album": {

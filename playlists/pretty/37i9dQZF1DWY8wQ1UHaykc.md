@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8wQ1UHaykc.md) - [plain]
 
 > Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Astrid
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,580 likes - 126 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,679 likes - 126 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

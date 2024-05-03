@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Afro diaspora cuts from around the globe. Vibe & whine to this! Cover: Tems",
+  "description": "Afro diaspora cuts from around the globe. Vibe & whine to this! Cover: Mike Akox",
   "name": "Afro Fusion",
   "tracks": [
     {
@@ -122,7 +122,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 203000,
       "name": "90s Baby",
       "url": "https://open.spotify.com/track/5NR97sgM467Ok0oVOC3rTZ"
@@ -3494,7 +3494,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 212000,
       "name": "INTOXYCATED (feat. Dave)",
       "url": "https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV"
@@ -4682,6 +4682,24 @@
       "duration_ms": 157714,
       "name": "Lonely At The Top - Remix",
       "url": "https://open.spotify.com/track/04caQq1IeChrnBnvch1FQf"
+    },
+    {
+      "album": {
+        "name": "Lost Time",
+        "url": "https://open.spotify.com/album/5wLzXVlWQ80chM0kiIYR2X"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172687,
+      "name": "Lost Time",
+      "url": "https://open.spotify.com/track/0XGuj5C0hLW8UGwjFbWzrL"
     },
     {
       "album": {
@@ -8156,7 +8174,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 136268,
       "name": "Temptation",
       "url": "https://open.spotify.com/track/6TrkF1hbn1qLMdR2Ly3ZGj"
@@ -8878,6 +8896,28 @@
       "duration_ms": 170000,
       "name": "Vibes",
       "url": "https://open.spotify.com/track/6jIbe78Jfq9sdHiyBLzYku"
+    },
+    {
+      "album": {
+        "name": "Vision (Remix)",
+        "url": "https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        },
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Vision - Remix",
+      "url": "https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW"
     },
     {
       "album": {

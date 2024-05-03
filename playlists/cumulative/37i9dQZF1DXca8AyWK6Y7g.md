@@ -2,9 +2,9 @@
 
 ### [young & free](https://open.spotify.com/playlist/37i9dQZF1DXca8AyWK6Y7g)
 
-> you can 💋 a hundred boys in bars!!!!  📷 Chappell Roan
+> Watch this be the wrong thing\. CLASSIC!  📷 Gracie Abrams
 
-2,030 songs - 4 day 6 hr 11 min
+2,032 songs - 4 day 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -654,6 +654,7 @@
 | [Garden On The Kitchen Floor](https://open.spotify.com/track/0OfyukXnVEUlPYCisGPda5) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Garden On The Kitchen Floor](https://open.spotify.com/album/3W527nPkx45Y4Bk49kbS2x) | 3:39 | 2022-06-17 | 2022-09-24 |
 | [Gemini](https://open.spotify.com/track/1krkdhVVnJWMVJPgsSod8H) | [Brynn Cartelli](https://open.spotify.com/artist/4NIPR04MgEH0K5uv8Gn7ek) | [Gemini](https://open.spotify.com/album/7tR4JqtjMggHZFWi64rons) | 3:11 | 2022-05-20 | 2022-09-24 |
 | [gentle](https://open.spotify.com/track/7LhVGZrF9jgkT97CaKTlds) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [closer to closure](https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1) | 3:18 | 2022-05-27 | 2023-08-12 |
+| [Gentleman](https://open.spotify.com/track/7mQCONtuyTnXtRLrjalQTF) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Gentleman](https://open.spotify.com/album/7jMBkYuzUijl15SBT1lP34) | 2:48 | 2024-05-03 |  |
 | [Get Better](https://open.spotify.com/track/6ItblmqN41mj5y3FUC3ooJ) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Get Better](https://open.spotify.com/album/385j5opAYD0SP2UHmeeKFU) | 2:51 | 2023-04-22 | 2023-05-24 |
 | [Get Happy \(NVDES Edit\) \[feat\. Blu DeTiger\]](https://open.spotify.com/track/2BwmVotuzB5dBokJzgeqLf) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC), [NVDES](https://open.spotify.com/artist/5L6tkH3jDmFBX9dYdFFQXy) | [Get Happy \(NVDES Edit\) \[feat\. Blu DeTiger\]](https://open.spotify.com/album/1eYHNv4azTXo1Gpzfe2OKl) | 2:55 | 2020-07-18 | 2021-05-28 |
 | [Get Him Away From Me](https://open.spotify.com/track/19V22p018Mt3sk6I95Xd5E) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Get Him Away From Me](https://open.spotify.com/album/4oa3dUC5H3hAe6moQ6hAY2) | 3:47 | 2022-04-15 | 2022-05-08 |
@@ -856,7 +857,7 @@
 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 | 2021-11-19 | 2022-09-03 |
 | [I Blame The World](https://open.spotify.com/track/3SrSjUKxAJ6Cq1vpe1mqCZ) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [I Blame The World](https://open.spotify.com/album/7mIYNERWd8SdGObD8GrO2F) | 3:17 | 2022-04-08 |  |
 | [i can't do anything right](https://open.spotify.com/track/1P76yNLdadQMDblQsmMXvB) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [this is what i get](https://open.spotify.com/album/3dwsGxoPZWWyJzpxKnz1cn) | 2:16 | 2022-11-18 | 2022-12-24 |
-| [i can't get my shit together](https://open.spotify.com/track/5QQH0yRUbD4fYqNWKiPX9I) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [i can't get my shit together](https://open.spotify.com/album/4Q1JfWQoV1zWHLejdhpyey) | 2:53 | 2023-11-10 |  |
+| [i can't get my shit together](https://open.spotify.com/track/5QQH0yRUbD4fYqNWKiPX9I) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [i can't get my shit together](https://open.spotify.com/album/4Q1JfWQoV1zWHLejdhpyey) | 2:53 | 2023-11-10 | 2024-05-03 |
 | [I Can't Go Back To The Way It Was \(Intro\)](https://open.spotify.com/track/4gpfihcTO7NKPFsn3Vl4fq) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [I Can't Go Back To The Way It Was \(Intro\)](https://open.spotify.com/album/0oU6UlaM28lOTkWJFz5kmB) | 1:35 | 2023-01-20 | 2023-01-28 |
 | [i can't help it](https://open.spotify.com/track/0LQGDAv1siMLMfBeeAdodG) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what falling out of love feels like \(392Hz\)](https://open.spotify.com/album/5PtDyeWcF9Z0exa9vKqHIV) | 2:57 | 2022-11-11 | 2022-11-13 |
 | [i can't help it](https://open.spotify.com/track/1HkRnB3c6aVMJxAryrsMsc) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [i can't help it](https://open.spotify.com/album/1vJ1jmaxBT3tHp54igkrmK) | 2:57 | 2022-08-26 | 2022-10-13 |
@@ -898,7 +899,7 @@
 | [I Want Your Sex](https://open.spotify.com/track/4ktiAkz6PcWG8FOjd6bKZy) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS) | [I Want Your Sex](https://open.spotify.com/album/7CcE3Eoh6Dgd9k8BMMeGin) | 3:02 | 2023-01-13 | 2023-01-14 |
 | [i wanted to call her but i'm tragic and she's overseas \(8 months\)](https://open.spotify.com/track/2q2nBiMnBRyLlXilJmmk88) | [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m), [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ) | [i wanted to call her but i'm tragic and she's overseas \(8 months\)](https://open.spotify.com/album/3TDS9sPYNXyWn8Hul9wzZk) | 3:06 | 2021-04-23 | 2021-11-20 |
 | [I Wish I Didn't Love You](https://open.spotify.com/track/6JuD8oygJeA3kfUH7BqXZg) | [Ashley Mehta](https://open.spotify.com/artist/0SkdOD7lcoBZaLOh2dsMsA) | [I Wish I Didn't Love You](https://open.spotify.com/album/106vwzEKRQeu6OqP7KOk2p) | 3:09 | 2023-03-03 | 2024-01-13 |
-| [I Woke Up](https://open.spotify.com/track/7CSJbewzvnIblizU3aDuIr) | [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [I Woke Up](https://open.spotify.com/album/40s29e7Y7S6ZlaYyYf520J) | 2:38 | 2024-02-09 |  |
+| [I Woke Up](https://open.spotify.com/track/7CSJbewzvnIblizU3aDuIr) | [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [I Woke Up](https://open.spotify.com/album/40s29e7Y7S6ZlaYyYf520J) | 2:38 | 2024-02-09 | 2024-05-03 |
 | [I Won't Bite](https://open.spotify.com/track/3NJe9t6oxZgzErlBrWDuKx) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [I Won't Bite](https://open.spotify.com/album/6qn9Deaiebh89YVpukAhcX) | 4:17 | 2022-03-04 | 2022-03-26 |
 | [I Would Probably Hate You](https://open.spotify.com/track/6cZRlGzpks6vcWAidMAb88) | [Jules Paymer](https://open.spotify.com/artist/5RsYo1rckHPH2ERWm3tGeS) | [I Would Probably Hate You](https://open.spotify.com/album/7iM4xNI1QxQP3MuCLGQDCA) | 3:00 | 2022-06-06 | 2022-07-29 |
 | [I Wouldn't Love Me](https://open.spotify.com/track/6UaXAuHztXaCePnBNZdUPS) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [I Wouldn't Love Me](https://open.spotify.com/album/7l2SSvHuReN5yS6gdf8FFZ) | 2:16 | 2023-06-23 | 2023-09-16 |
@@ -1481,6 +1482,7 @@
 | [Right Back \- Basenji Remix](https://open.spotify.com/track/1zFBRDYr5U9ekpvM1IK7so) | [Miquela](https://open.spotify.com/artist/7licaqhcEBQUzz9FownRaJ), [Basenji](https://open.spotify.com/artist/4FH1qQ5KcTtomryu4O5pgX) | [Right Back \(Club 404 Edits\)](https://open.spotify.com/album/1lIVSWUzSPfuPdpqK89AYf) | 3:14 | 2019-06-27 | 2019-09-14 |
 | [Right Where You Like](https://open.spotify.com/track/4ZxwGZzFXsXBhmpddnnrql) | [Andrea Chahayed](https://open.spotify.com/artist/2V6GNbrXanLBlMLCx5nXZN) | [Right Where You Like](https://open.spotify.com/album/16JcuVXVJSpyRYr55MSp0d) | 2:52 | 2021-08-18 | 2022-01-08 |
 | [RIP](https://open.spotify.com/track/6sy5XzSPzBB5JuJ9berpu3) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [AWW!](https://open.spotify.com/album/12I0nO2QVc1NMLvKqZp3W8) | 3:17 | 2021-11-05 | 2022-01-15 |
+| [Risk](https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Risk](https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw) | 3:11 | 2024-05-03 |  |
 | [Rockstar](https://open.spotify.com/track/538txyi52ZOwzWxIQsCT12) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Rockstar](https://open.spotify.com/album/3jhePBQL0zg0dXac7CUAvf) | 3:13 | 2023-02-10 | 2023-03-25 |
 | [roll the dice](https://open.spotify.com/track/2TX7IPBBgfq4zL4TSZTp0D) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [roll the dice](https://open.spotify.com/album/54S0bDLXUsFIzxBssBkrul) | 2:14 | 2021-03-28 | 2021-10-20 |
 | [Roller Coasters Make Me Sad](https://open.spotify.com/track/15D8qDyRL6NuyxxmQRWosK) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Roller Coasters Make Me Sad](https://open.spotify.com/album/16M3QY0xlHJ1CtnmEwbiy1) | 3:11 | 2023-02-24 | 2023-04-23 |

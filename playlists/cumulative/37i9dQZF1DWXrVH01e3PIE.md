@@ -2,9 +2,9 @@
 
 ### [Trapperz Argentina](https://open.spotify.com/playlist/37i9dQZF1DWXrVH01e3PIE)
 
-> Bhavi, Seven Kayne, Milo J, Tiago PZK, KHEA & Neo Pistea en la casa del Trap Argentino.
+> Rei en la casa del Trap Argentino.
 
-279 songs - 13 hr 31 min
+281 songs - 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [En Mi Cama](https://open.spotify.com/track/1vkSHRmOF2iasL6QHBrfOR) | [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx) | [En Mi Cama](https://open.spotify.com/album/1Cykk8jHHi6X75vHGBixeb) | 2:22 | 2024-03-29 |  |
 | [Es Hoy](https://open.spotify.com/track/5H4HVd8d7dtT81qs1WMKbI) | [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [Es Hoy](https://open.spotify.com/album/1BVxzFI3LW4TqpKzX7Uz9o) | 2:59 | 2022-01-21 | 2022-06-18 |
 | [eternidad](https://open.spotify.com/track/0WPkqQuAj8qox8Tmkxlv7o) | [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [eternidad](https://open.spotify.com/album/6VNyKs6MzAYGmIs276uNJH) | 2:43 | 2022-10-06 | 2023-01-14 |
+| [Factos](https://open.spotify.com/track/031uMsGKA6CFboZDCX3xSu) | [Nissa](https://open.spotify.com/artist/2bqyNDhVFDuK4wZUrZh6xy), [ENEZ 4R](https://open.spotify.com/artist/3OHwlQfXYEFe5ynRosykmE) | [Factos](https://open.spotify.com/album/4GAfjkvxRN1ZvGvUnOEavK) | 2:02 | 2024-05-03 |  |
 | [FANTASTICO](https://open.spotify.com/track/1CkgsitdwO2QQJcrZaXCKi) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [FANTASTICO](https://open.spotify.com/album/2TNyG3m9RQhbcZKkw0TtTu) | 2:29 | 2023-03-17 | 2023-07-07 |
 | [FANTASTICO](https://open.spotify.com/track/4MXvgHbIRDW4iB4PmMvvJc) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [ABDUCCION](https://open.spotify.com/album/1pVQsEYJ0eBV3Prih46o91) | 2:29 | 2023-06-23 | 2023-09-16 |
 | [Finesse](https://open.spotify.com/track/5jRs6APlrIx42hBfmbXSCS) | [Muerejoven](https://open.spotify.com/artist/2yGXs7AlyNVetlMvwsFXGk), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la) | [Finesse](https://open.spotify.com/album/4y2eGTZ4KUQcP57ijZ3uDI) | 2:53 | 2022-01-21 | 2022-11-19 |
@@ -163,7 +164,7 @@
 | [Necio \(feat\. LIT killah\)](https://open.spotify.com/track/4Bn4JToBJGy47OEqB4AWtq) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Back To The Game](https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h) | 3:38 | 2022-11-24 |  |
 | [Neymar Jr](https://open.spotify.com/track/2uSaWBsTaYdcKMd1ITO9Er) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Arcones](https://open.spotify.com/artist/1Pf4laSttup4Nd1itUUqV3) | [Neymar Jr](https://open.spotify.com/album/1GYvbPA4RvK86h7oTXhaMY) | 2:33 | 2023-04-14 | 2024-04-27 |
 | [Nike](https://open.spotify.com/track/4bhrb6cU8a6t2RYWuNUT5O) | [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS) | [Música de Barrio](https://open.spotify.com/album/3yXHx5bO1DX9pk114uWe6n) | 2:59 | 2023-11-17 |  |
-| [NO PARA](https://open.spotify.com/track/1d5YgbhNxmvqdzf1aqcYDO) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf) | [NO PARA](https://open.spotify.com/album/2Yir8cApTfiPzWE4HwMRq5) | 2:39 | 2023-08-04 |  |
+| [NO PARA](https://open.spotify.com/track/1d5YgbhNxmvqdzf1aqcYDO) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf) | [NO PARA](https://open.spotify.com/album/2Yir8cApTfiPzWE4HwMRq5) | 2:39 | 2023-08-04 | 2024-05-03 |
 | [No Pares](https://open.spotify.com/track/0kj0n7ZfZG3qY1hJMtkhx7) | [Muerejoven](https://open.spotify.com/artist/2yGXs7AlyNVetlMvwsFXGk) | [No Pares](https://open.spotify.com/album/5tGoiLVYEX5aPACbG0Isb4) | 2:09 | 2023-09-01 | 2023-11-25 |
 | [No Puedo](https://open.spotify.com/track/6MbSMSXrSlvsyHf4kcaLQi) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 2:55 | 2022-01-21 |  |
 | [NO QUIERO HACERTE ESPERAR](https://open.spotify.com/track/0C5nMyoKtZhLLCj0hP4sb2) | [Sixto Yegros](https://open.spotify.com/artist/2mddrRrlMf3ykcKyh1jlSs), [Knak](https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C), [BAXIAN](https://open.spotify.com/artist/6tvnVXgayn0Qd29pt0633X), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf) | [LA RECETA DEL FLOW](https://open.spotify.com/album/5JuAmZktmDauKMWAUpYR88) | 3:42 | 2023-12-08 | 2024-04-19 |
@@ -192,6 +193,7 @@
 | [Poka Luz](https://open.spotify.com/track/05h2p4OlGsBFNeVMLrKuJE) | [Después de la fiesta](https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p), [Knak](https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C), [Tadu Vázquez](https://open.spotify.com/artist/71scL1K5Nu1Z7FgBkg3Gjk) | [Poka Luz](https://open.spotify.com/album/1M7xS9mJ9jOxFKCWKqvMhy) | 1:46 | 2023-03-17 | 2023-11-18 |
 | [POPPIN](https://open.spotify.com/track/75gbMEbyvjLQzzrxxdHxq5) | [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB) | [POPPIN](https://open.spotify.com/album/0clgDev21YPnsZ074VqHuY) | 2:35 | 2024-03-29 |  |
 | [Por el Aire](https://open.spotify.com/track/2r2v9AjM48KaWvcG0IyXt7) | [Diamante Ayala](https://open.spotify.com/artist/2a3t7z8U1cpR0PEq1WB68d), [iberre og](https://open.spotify.com/artist/6ZS3sAG3hC7noyONwaXLUh) | [Por el Aire](https://open.spotify.com/album/0s4xkWvxZQant3mg4KAoa0) | 3:33 | 2022-01-21 | 2022-03-12 |
+| [Premium](https://open.spotify.com/track/3XB1ccS8WJXTG3QbDqiK8J) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [Premium](https://open.spotify.com/album/1jyyGmiWCqNtxMN7HhVQhD) | 2:17 | 2024-05-03 |  |
 | [Pro Player](https://open.spotify.com/track/3WJnf9Xe51wEmCPzrYFihE) | [R Climent](https://open.spotify.com/artist/7qNTiLJpuCUFJ8G7Jf5fzP), [Frijo](https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7) | [Pro Player](https://open.spotify.com/album/7yJYBoYjDduMIj5FFYPxhL) | 3:09 | 2023-10-20 | 2024-03-09 |
 | [Puestos Pal Millón](https://open.spotify.com/track/5qBVWOBdNAIRimwp79OHJ7) | [Fili Wey](https://open.spotify.com/artist/77pCqwW8HaKBjkTHe395eo), [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS) | [Puestos Pal Millón](https://open.spotify.com/album/6rY2sf7BkUmRRhmFzOZoQY) | 2:54 | 2023-09-29 | 2023-10-21 |
 | [PUFF](https://open.spotify.com/track/2Asa5boIOZADugCzoy0lRS) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [PUFF](https://open.spotify.com/album/6jb35yKFOV9HY6QeKKaa69) | 2:20 | 2022-05-27 |  |
@@ -204,7 +206,7 @@
 | [Rompediscoteka](https://open.spotify.com/track/5IdLmgNH1r8QQbELC1GueB) | [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS) | [Rompediscoteka](https://open.spotify.com/album/22pOSKsw95pibnK4OZq2Om) | 3:02 | 2022-04-01 | 2023-03-02 |
 | [ROMPEDISCOTEKA](https://open.spotify.com/track/65pH9RioD4Kw4laCZdWexI) | [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS) | [ROMPEDISCOTEKA](https://open.spotify.com/album/0vmEOqbr8asBKT1OlmSgNb) | 3:02 | 2023-02-24 | 2023-03-18 |
 | [RPSNT](https://open.spotify.com/track/1IhWFLPAiD30fCt2YoIa5Y) | [Osx Mob](https://open.spotify.com/artist/6uJE0vxnT7UNCgBHOCZ7WV), [Spekter](https://open.spotify.com/artist/2hliiu43MCbFQnDtfXKXsm) | [RPSNT](https://open.spotify.com/album/1y1CLAGu91YqmrlWP04xo0) | 2:48 | 2022-01-21 | 2022-03-05 |
-| [Sabio](https://open.spotify.com/track/0Rul56oJRTpYSUFodXo3Ge) | [El Doctor](https://open.spotify.com/artist/1p9IEVolgFCEjlFwEGTjPG), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Sabio](https://open.spotify.com/album/4U081d9PgMAMylCphc5v6p) | 4:00 | 2023-11-24 |  |
+| [Sabio](https://open.spotify.com/track/0Rul56oJRTpYSUFodXo3Ge) | [El Doctor](https://open.spotify.com/artist/1p9IEVolgFCEjlFwEGTjPG), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Sabio](https://open.spotify.com/album/4U081d9PgMAMylCphc5v6p) | 4:00 | 2023-11-24 | 2024-05-03 |
 | [Salsa Suprema](https://open.spotify.com/track/0A4F5SYr1vmvNJ9mdA7fJQ) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [Salsa Suprema](https://open.spotify.com/album/7hKtv2HaJdDylmlykXCcEX) | 2:32 | 2023-01-27 | 2023-09-16 |
 | [Sangre](https://open.spotify.com/track/3ODrnuH1Qx2iX6P7MEo3lF) | [MP El Juvenil](https://open.spotify.com/artist/15vXM78j1GTjXVKzk8i5P3), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic) | [Sangre](https://open.spotify.com/album/7jxepQCHjYw27f7DWpApSW) | 2:47 | 2022-01-21 | 2022-04-02 |
 | [Se Que No](https://open.spotify.com/track/5f9nATgIwnc5YVVeTo8H3m) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [7 Secretos](https://open.spotify.com/album/1DHS9kMaklrQAiiOxUAzmO) | 2:33 | 2022-04-05 | 2024-03-23 |

@@ -2,9 +2,9 @@
 
 ### [Texas Country Now](https://open.spotify.com/playlist/37i9dQZF1DX3Ee0ngF5ZVQ)
 
-> New and trending tracks from Texas Country icons and rising stars\. Cover: Josh Abbott Band
+> New and trending tracks from Texas Country icons and rising stars\. Cover: Kaitlin Butts
 
-616 songs - 1 day 12 hr 41 min
+618 songs - 1 day 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [All We Are Is Memories](https://open.spotify.com/track/5v2UMwQWKZOIBD4d7CFN5a) | [Houston Bernard](https://open.spotify.com/artist/47sMYU4wkPXThnOUOSqbXl) | [All We Are Is Memories](https://open.spotify.com/album/5Hz5PIPFSlJdTr9HJXmbGc) | 4:00 | 2021-12-17 | 2022-03-19 |
 | [All You Got](https://open.spotify.com/track/5e0QbyoJLhQUVtwmVqUqkI) | [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ) | [All You Got](https://open.spotify.com/album/6t9hCUzNZ79wpGmXv4NAZg) | 3:13 | 2022-01-28 | 2022-07-29 |
 | [Alone In Your Mind](https://open.spotify.com/track/3q3hYhGxZNfPav2qgPewP7) | [Larissa Boyd](https://open.spotify.com/artist/76BLe6Ojs4hwzg9xOkOagD) | [Alone In Your Mind](https://open.spotify.com/album/5HgZ4NjsrD5Yfr51CaElbn) | 4:52 | 2021-12-17 | 2022-07-29 |
-| [Amy's Back In Austin](https://open.spotify.com/track/6zQYNHtuXmHkfYVJNzOYRG) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv), [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [Amy's Back In Austin](https://open.spotify.com/album/51EfDF9ysbbelIVF20ygZC) | 4:17 | 2023-12-15 |  |
+| [Amy's Back In Austin](https://open.spotify.com/track/6zQYNHtuXmHkfYVJNzOYRG) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv), [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [Amy's Back In Austin](https://open.spotify.com/album/51EfDF9ysbbelIVF20ygZC) | 4:17 | 2023-12-15 | 2024-05-03 |
 | [Anderson County](https://open.spotify.com/track/13x5ByGTp5k2Eu1nFCM0cc) | [Chad Cooke Band](https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H) | [FREE](https://open.spotify.com/album/3rSKjvRVAGtNE038X3pjXb) | 3:07 | 2022-11-04 | 2023-01-06 |
 | [Anderson County](https://open.spotify.com/track/75VAQ0SRTBKzqzAZuIepN8) | [Chad Cooke Band](https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H) | [Anderson County](https://open.spotify.com/album/7qT9Yz0XXRIQBvSHAYz8FI) | 3:07 | 2022-09-09 | 2022-11-07 |
 | [Another You](https://open.spotify.com/track/3OKan3IZFHAYCPd0DlsD96) | [Drew Fish Band](https://open.spotify.com/artist/0zYSaMFTNzN0Y8a8Zv5oD5) | [Another You](https://open.spotify.com/album/0dcheBteHIIiY9n6DBjTSI) | 4:27 | 2022-03-18 | 2022-07-29 |
@@ -262,6 +262,7 @@
 | [How The Hurtin' Goes](https://open.spotify.com/track/0kx8fHSdEZPDaSommWNjfa) | [Curtis Grimes](https://open.spotify.com/artist/21NiIObyfGUR3UPql6UrkP) | [How The Hurtin' Goes](https://open.spotify.com/album/2ncmrKQvRbxIkds4J4o3Ly) | 2:50 | 2023-09-01 | 2023-12-10 |
 | [Human](https://open.spotify.com/track/5AihIu9yF3flkw1jFMyfwW) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Human The Double Album](https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb) | 3:41 | 2021-12-17 |  |
 | [Hummingbird](https://open.spotify.com/track/1mLZIGyDYLUtQ3HYhyYnJy) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [Hummingbird](https://open.spotify.com/album/13P3sBbbxn9kVJp5vR3v60) | 4:45 | 2022-06-03 | 2023-09-02 |
+| [Hunt You Down](https://open.spotify.com/track/6ANjnskHNgakdZnhWO6nob) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Hunt You Down](https://open.spotify.com/album/3ZmBeTs68BAwCeUOknXaQ7) | 3:24 | 2024-05-03 |  |
 | [Hurt No More](https://open.spotify.com/track/3qJ5OBunIPNIvU4WAI6RYh) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Hurt No More](https://open.spotify.com/album/2XYMwjnmcRzpGAPmJQrQyG) | 3:34 | 2022-10-28 | 2023-06-28 |
 | [Hurt No More](https://open.spotify.com/track/4vdMdvjrwdm3CR5oobcBIS) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Pecos & the Rooftops](https://open.spotify.com/album/16iK92ILyZrvxH3HuDDgtH) | 3:34 | 2023-06-23 | 2024-04-19 |
 | [I Ain't Drinkin' anymore](https://open.spotify.com/track/6A1ohNxfXzVD2r2KzMVkUo) | [Sister C](https://open.spotify.com/artist/1qhDoPY1tOHZzwXOnj2cE6) | [I Ain't Drinkin' anymore](https://open.spotify.com/album/5upiiDN439Eryn5bmTLhwy) | 3:17 | 2024-02-23 |  |
@@ -470,7 +471,7 @@
 | [Southern Land](https://open.spotify.com/track/1gw7UEQMT2kM1H1zOSV4MJ) | [Trent Willmon](https://open.spotify.com/artist/42mKjKqNCSgHbxaBFcotDi) | [Southern Land](https://open.spotify.com/album/1mS6CmS6mZbQyM1orsTb2M) | 4:03 | 2023-01-20 | 2023-06-03 |
 | [Speed](https://open.spotify.com/track/60BoWg2kyax4s2Pyjgaqsi) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Speed](https://open.spotify.com/album/2hdi5HXVz9vF7b7gUXJ3E4) | 4:30 | 2023-03-10 | 2023-09-02 |
 | [Spinnin'](https://open.spotify.com/track/0k1MIumc7GxFeiQsKgRBys) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Wandering Star](https://open.spotify.com/album/5OClY7oERkbh7dckrDsWab) | 4:13 | 2023-10-27 |  |
-| [Start over Somewhere](https://open.spotify.com/track/7kdic1HVv2OjJH8dYpNdRP) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [Start over Somewhere](https://open.spotify.com/album/06ZzHXrAtmH0Jhfptoz1Zc) | 4:06 | 2024-03-01 |  |
+| [Start over Somewhere](https://open.spotify.com/track/7kdic1HVv2OjJH8dYpNdRP) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [Start over Somewhere](https://open.spotify.com/album/06ZzHXrAtmH0Jhfptoz1Zc) | 4:06 | 2024-03-01 | 2024-05-03 |
 | [Starts in a Bar](https://open.spotify.com/track/5Qpq6TsAObkMLfB7q1z4Qc) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Built Different](https://open.spotify.com/album/5GfNph4mi2Ira5Sm7jrwqZ) | 2:59 | 2023-09-01 |  |
 | [State You Left Me In](https://open.spotify.com/track/4wU7mkrYRl8FJe0zsDhS2W) | [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp) | [State You Left Me In](https://open.spotify.com/album/3FWfYCQli8A63gkKDs0wNd) | 5:25 | 2023-03-17 |  |
 | [Stay](https://open.spotify.com/track/37s7g1BDBh9n8dSF2iWBNd) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Stay](https://open.spotify.com/album/4j8zbgOMEK1MdNCMfZFBhg) | 3:24 | 2024-01-19 |  |
@@ -540,6 +541,7 @@
 | [Time of The Rambler](https://open.spotify.com/track/5jvph0QWRjgxRq2jM0bGZO) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC) | [Time of The Rambler](https://open.spotify.com/album/52fzMuwSfWE2y7AxN8Yq0G) | 3:13 | 2023-11-03 | 2023-11-18 |
 | [To Be Loved By You](https://open.spotify.com/track/5Ykc3Wr4L4wef5QDdaaxM7) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [To Be Loved By You](https://open.spotify.com/album/6Vtd35xUUyiFApy5kFdqVu) | 3:18 | 2021-12-17 | 2022-01-08 |
 | [Tomorrow's Out Of Sight](https://open.spotify.com/track/37CikqHaMorBEZg3hRx9P8) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Tomorrow's Out Of Sight](https://open.spotify.com/album/2fnlrAlHt9poTfrMSsUSCt) | 3:34 | 2024-02-16 |  |
+| [Too Far Gone](https://open.spotify.com/track/2iQceHt3nbUcMFMkEaGALw) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Too Far Gone](https://open.spotify.com/album/68Gyl40TuMxbnD78RyMFyK) | 4:48 | 2024-05-03 |  |
 | [Too Many Honky Tonks](https://open.spotify.com/track/2GCLQ7aeFcAWM0Mc8x8a2U) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [Too Many Honky Tonks](https://open.spotify.com/album/5OxoWGOhNG6g8qOTMFfCl8) | 3:13 | 2023-09-29 |  |
 | [Too Much Texas](https://open.spotify.com/track/3hEWrpdstTH1OLaQdBZWG0) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [Too Much Texas](https://open.spotify.com/album/09QxnbZzFjWyoZVStprhUJ) | 2:37 | 2022-03-18 | 2022-07-28 |
 | [Took the Fall](https://open.spotify.com/track/2tyvDKEqNzMGztpRJBbazY) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Took the Fall](https://open.spotify.com/album/4xRrlIj4QSLvwM2DSIykY4) | 3:36 | 2022-10-14 | 2023-05-27 |

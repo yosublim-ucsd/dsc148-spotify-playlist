@@ -959,6 +959,26 @@
     {
       "added_at": "2024-05-01 20:41:09",
       "album": {
+        "name": "SUELTA",
+        "url": "https://open.spotify.com/album/3VIOBR1Mddc8t58effsNgq"
+      },
+      "artists": [
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "Axel Caram",
+          "url": "https://open.spotify.com/artist/2PkjYgKhHI4qofYoxWB9ZP"
+        }
+      ],
+      "duration_ms": 163800,
+      "name": "SUELTA",
+      "url": "https://open.spotify.com/track/69i9cSF10GKohRuyhqNcOf"
+    },
+    {
+      "added_at": "2024-05-01 20:41:09",
+      "album": {
         "name": "Hora de Salir",
         "url": "https://open.spotify.com/album/4HAKrFKWngyiF8OsEdoS09"
       },
@@ -995,26 +1015,6 @@
       "duration_ms": 226725,
       "name": "El Plan",
       "url": "https://open.spotify.com/track/1QViKg2J40k0w7phvi5k2Q"
-    },
-    {
-      "added_at": "2024-05-01 20:41:09",
-      "album": {
-        "name": "SUELTA",
-        "url": "https://open.spotify.com/album/3VIOBR1Mddc8t58effsNgq"
-      },
-      "artists": [
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        },
-        {
-          "name": "Axel Caram",
-          "url": "https://open.spotify.com/artist/2PkjYgKhHI4qofYoxWB9ZP"
-        }
-      ],
-      "duration_ms": 163800,
-      "name": "SUELTA",
-      "url": "https://open.spotify.com/track/69i9cSF10GKohRuyhqNcOf"
     },
     {
       "added_at": "2024-05-01 20:41:09",
@@ -1327,30 +1327,6 @@
     {
       "added_at": "2024-05-01 20:41:09",
       "album": {
-        "name": "Perreo Sayayin",
-        "url": "https://open.spotify.com/album/1qrH5OQu539WRe9dRVTyeX"
-      },
-      "artists": [
-        {
-          "name": "Go Golden Junk",
-          "url": "https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC"
-        },
-        {
-          "name": "Smi-Lee",
-          "url": "https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA"
-        },
-        {
-          "name": "Profeta Yao Yao",
-          "url": "https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb"
-        }
-      ],
-      "duration_ms": 110412,
-      "name": "Perreo Sayayin",
-      "url": "https://open.spotify.com/track/70UWCayDDTHobS9NbRrvMA"
-    },
-    {
-      "added_at": "2024-05-01 20:41:09",
-      "album": {
         "name": "Karol G",
         "url": "https://open.spotify.com/album/6q7tig0nfFlh7kkjmdO3jA"
       },
@@ -1375,22 +1351,26 @@
     {
       "added_at": "2024-05-01 20:41:09",
       "album": {
-        "name": "Me Dice Daddy",
-        "url": "https://open.spotify.com/album/2tGkd9dkjlnis2J1JDS0bs"
+        "name": "Perreo Sayayin",
+        "url": "https://open.spotify.com/album/1qrH5OQu539WRe9dRVTyeX"
       },
       "artists": [
         {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+          "name": "Go Golden Junk",
+          "url": "https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC"
         },
         {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+          "name": "Smi-Lee",
+          "url": "https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA"
+        },
+        {
+          "name": "Profeta Yao Yao",
+          "url": "https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb"
         }
       ],
-      "duration_ms": 183320,
-      "name": "Me Dice Daddy",
-      "url": "https://open.spotify.com/track/36xfruxRxaqzHF6CQPHcYz"
+      "duration_ms": 110412,
+      "name": "Perreo Sayayin",
+      "url": "https://open.spotify.com/track/70UWCayDDTHobS9NbRrvMA"
     },
     {
       "added_at": "2024-05-01 20:41:09",
@@ -1423,6 +1403,26 @@
       "duration_ms": 159937,
       "name": "RAYBEN CAP 7: BELLAKACOQUETTE (feat. Profeta Yao Yao & Cachirula)",
       "url": "https://open.spotify.com/track/2PliTxLuOKE7RykFqDeDGb"
+    },
+    {
+      "added_at": "2024-05-01 20:41:09",
+      "album": {
+        "name": "Me Dice Daddy",
+        "url": "https://open.spotify.com/album/2tGkd9dkjlnis2J1JDS0bs"
+      },
+      "artists": [
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 183320,
+      "name": "Me Dice Daddy",
+      "url": "https://open.spotify.com/track/36xfruxRxaqzHF6CQPHcYz"
     },
     {
       "added_at": "2024-05-01 20:41:09",
@@ -1471,30 +1471,6 @@
     {
       "added_at": "2024-05-01 20:41:09",
       "album": {
-        "name": "BYK",
-        "url": "https://open.spotify.com/album/5deurIxzSAsbzN8oyzPSLC"
-      },
-      "artists": [
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        },
-        {
-          "name": "Santana the Golden Boy",
-          "url": "https://open.spotify.com/artist/7w2wcIXdCu7lfY4h5jbbrv"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        }
-      ],
-      "duration_ms": 220266,
-      "name": "BYK",
-      "url": "https://open.spotify.com/track/6roXwAFXzYm5pkr7z0ihVb"
-    },
-    {
-      "added_at": "2024-05-01 20:41:09",
-      "album": {
         "name": "SI T\u00da ME LLAMAS",
         "url": "https://open.spotify.com/album/1FuG5aVjhS1mnmcArhYqFv"
       },
@@ -1515,6 +1491,30 @@
       "duration_ms": 182608,
       "name": "SI T\u00da ME LLAMAS",
       "url": "https://open.spotify.com/track/70BfpMR5l7JIFGpBJ9CZIe"
+    },
+    {
+      "added_at": "2024-05-01 20:41:09",
+      "album": {
+        "name": "BYK",
+        "url": "https://open.spotify.com/album/5deurIxzSAsbzN8oyzPSLC"
+      },
+      "artists": [
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        },
+        {
+          "name": "Santana the Golden Boy",
+          "url": "https://open.spotify.com/artist/7w2wcIXdCu7lfY4h5jbbrv"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        }
+      ],
+      "duration_ms": 220266,
+      "name": "BYK",
+      "url": "https://open.spotify.com/track/6roXwAFXzYm5pkr7z0ihVb"
     },
     {
       "added_at": "2024-05-01 20:41:09",
@@ -1703,26 +1703,6 @@
     {
       "added_at": "2024-05-01 20:41:09",
       "album": {
-        "name": "Rompe La Discoteca",
-        "url": "https://open.spotify.com/album/73gxcM9ox886mJZrRQPDhi"
-      },
-      "artists": [
-        {
-          "name": "Dj Bekman",
-          "url": "https://open.spotify.com/artist/3PHuVxvrf7wtssAIDL3D8F"
-        },
-        {
-          "name": "Kale \u201cLa Evoluci\u00f3n\u201d",
-          "url": "https://open.spotify.com/artist/57T1dRrwZqZJbR6VC6wDRz"
-        }
-      ],
-      "duration_ms": 216032,
-      "name": "Rompe La Discoteca",
-      "url": "https://open.spotify.com/track/0eQWSNIz6EqM0DybEyOsJR"
-    },
-    {
-      "added_at": "2024-05-01 20:41:09",
-      "album": {
         "name": "Buz\u00f3n de Voz",
         "url": "https://open.spotify.com/album/4BkaOPT7FUQj23tVW5AE3T"
       },
@@ -1739,6 +1719,26 @@
       "duration_ms": 164223,
       "name": "R\u00f3mpelo",
       "url": "https://open.spotify.com/track/2DTKvhMEE6pTJAKu3uv6Ks"
+    },
+    {
+      "added_at": "2024-05-01 20:41:09",
+      "album": {
+        "name": "Rompe La Discoteca",
+        "url": "https://open.spotify.com/album/73gxcM9ox886mJZrRQPDhi"
+      },
+      "artists": [
+        {
+          "name": "Dj Bekman",
+          "url": "https://open.spotify.com/artist/3PHuVxvrf7wtssAIDL3D8F"
+        },
+        {
+          "name": "Kale \u201cLa Evoluci\u00f3n\u201d",
+          "url": "https://open.spotify.com/artist/57T1dRrwZqZJbR6VC6wDRz"
+        }
+      ],
+      "duration_ms": 216032,
+      "name": "Rompe La Discoteca",
+      "url": "https://open.spotify.com/track/0eQWSNIz6EqM0DybEyOsJR"
     },
     {
       "added_at": "2024-05-01 20:41:09",
@@ -1811,26 +1811,6 @@
     {
       "added_at": "2024-05-01 20:41:09",
       "album": {
-        "name": "Baja Sube Sube",
-        "url": "https://open.spotify.com/album/2LxhsDsrjtvVjqi7GMBTsM"
-      },
-      "artists": [
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        }
-      ],
-      "duration_ms": 211404,
-      "name": "Baja Sube Sube",
-      "url": "https://open.spotify.com/track/6XlNE8CrehIYsI2ZivGn7I"
-    },
-    {
-      "added_at": "2024-05-01 20:41:09",
-      "album": {
         "name": "Barby Bellaka",
         "url": "https://open.spotify.com/album/1MvKvhWkQ942ln0WbWz3PR"
       },
@@ -1851,6 +1831,26 @@
       "duration_ms": 162493,
       "name": "Barby Bellaka",
       "url": "https://open.spotify.com/track/0lElx1mc1PV0oZYlCRehU9"
+    },
+    {
+      "added_at": "2024-05-01 20:41:09",
+      "album": {
+        "name": "Baja Sube Sube",
+        "url": "https://open.spotify.com/album/2LxhsDsrjtvVjqi7GMBTsM"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "duration_ms": 211404,
+      "name": "Baja Sube Sube",
+      "url": "https://open.spotify.com/track/6XlNE8CrehIYsI2ZivGn7I"
     },
     {
       "added_at": "2024-05-01 20:41:09",
@@ -1983,26 +1983,6 @@
     {
       "added_at": "2024-05-01 20:41:09",
       "album": {
-        "name": "SUELTA SOLTERA",
-        "url": "https://open.spotify.com/album/5AAZooAUX4mK4pyFoyMTGd"
-      },
-      "artists": [
-        {
-          "name": "King Savagge",
-          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
-        },
-        {
-          "name": "Aqua VS",
-          "url": "https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p"
-        }
-      ],
-      "duration_ms": 152727,
-      "name": "SUELTA SOLTERA",
-      "url": "https://open.spotify.com/track/1CkmF0SMrATEAusAqm77v0"
-    },
-    {
-      "added_at": "2024-05-01 20:41:09",
-      "album": {
         "name": "Lopa Lopa",
         "url": "https://open.spotify.com/album/3sZWtxmRdPNyd15r7XyoI8"
       },
@@ -2023,6 +2003,26 @@
       "duration_ms": 142895,
       "name": "Lopa Lopa",
       "url": "https://open.spotify.com/track/3wN2LYSmcj80zzXkHfbmTd"
+    },
+    {
+      "added_at": "2024-05-01 20:41:09",
+      "album": {
+        "name": "SUELTA SOLTERA",
+        "url": "https://open.spotify.com/album/5AAZooAUX4mK4pyFoyMTGd"
+      },
+      "artists": [
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        },
+        {
+          "name": "Aqua VS",
+          "url": "https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "SUELTA SOLTERA",
+      "url": "https://open.spotify.com/track/1CkmF0SMrATEAusAqm77v0"
     },
     {
       "added_at": "2024-05-01 20:41:09",
@@ -2067,22 +2067,30 @@
     {
       "added_at": "2024-05-01 20:41:09",
       "album": {
-        "name": "L-GANTE | Mission 19",
-        "url": "https://open.spotify.com/album/5moYjalNC0bbzVArARZog3"
+        "name": "SUPER ESTRELLAS",
+        "url": "https://open.spotify.com/album/09qxG7QLNUM8SHYXX878Xe"
       },
       "artists": [
         {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
         },
         {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+          "name": "Los Menores",
+          "url": "https://open.spotify.com/artist/51YrdVc67EHkCDRJMHxJal"
+        },
+        {
+          "name": "Sleezy O",
+          "url": "https://open.spotify.com/artist/4lKCm9X9aPxuejrckz6b4n"
+        },
+        {
+          "name": "Lexy walter",
+          "url": "https://open.spotify.com/artist/4QAzgy5wBNe1RmxORakECG"
         }
       ],
-      "duration_ms": 170568,
-      "name": "L-GANTE | Mission 19",
-      "url": "https://open.spotify.com/track/0DI87pDl42R0tPsCrR1rYd"
+      "duration_ms": 220000,
+      "name": "3 x 3 (feat. Lexy Walter)",
+      "url": "https://open.spotify.com/track/7nQFKhrS6eN6xyQwnp3hjK"
     },
     {
       "added_at": "2024-05-01 20:41:09",
@@ -2111,30 +2119,22 @@
     {
       "added_at": "2024-05-01 20:41:09",
       "album": {
-        "name": "SUPER ESTRELLAS",
-        "url": "https://open.spotify.com/album/09qxG7QLNUM8SHYXX878Xe"
+        "name": "L-GANTE | Mission 19",
+        "url": "https://open.spotify.com/album/5moYjalNC0bbzVArARZog3"
       },
       "artists": [
         {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
         },
         {
-          "name": "Los Menores",
-          "url": "https://open.spotify.com/artist/51YrdVc67EHkCDRJMHxJal"
-        },
-        {
-          "name": "Sleezy O",
-          "url": "https://open.spotify.com/artist/4lKCm9X9aPxuejrckz6b4n"
-        },
-        {
-          "name": "Lexy walter",
-          "url": "https://open.spotify.com/artist/4QAzgy5wBNe1RmxORakECG"
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
         }
       ],
-      "duration_ms": 220000,
-      "name": "3 x 3 (feat. Lexy Walter)",
-      "url": "https://open.spotify.com/track/7nQFKhrS6eN6xyQwnp3hjK"
+      "duration_ms": 170568,
+      "name": "L-GANTE | Mission 19",
+      "url": "https://open.spotify.com/track/0DI87pDl42R0tPsCrR1rYd"
     },
     {
       "added_at": "2024-05-01 20:41:09",
@@ -2199,6 +2199,30 @@
     {
       "added_at": "2024-05-01 20:41:09",
       "album": {
+        "name": "Marroneo",
+        "url": "https://open.spotify.com/album/3oVJ70hDWAgy1NQx6p0fGA"
+      },
+      "artists": [
+        {
+          "name": "Chino El Gorila",
+          "url": "https://open.spotify.com/artist/3F1DM59crNsFkIY0ydIlO6"
+        },
+        {
+          "name": "Alnz G",
+          "url": "https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf"
+        },
+        {
+          "name": "Aivan Beatz",
+          "url": "https://open.spotify.com/artist/0AAFjvGFVnBqs85PXiMAvb"
+        }
+      ],
+      "duration_ms": 221481,
+      "name": "Marroneo",
+      "url": "https://open.spotify.com/track/3V012HJBXI5lpCildeHAFA"
+    },
+    {
+      "added_at": "2024-05-01 20:41:09",
+      "album": {
         "name": "PARTY DE MALEANTES (RMX)",
         "url": "https://open.spotify.com/album/5kZF7dNdOpXm66JJ4Taxp2"
       },
@@ -2227,30 +2251,6 @@
       "duration_ms": 308366,
       "name": "PARTY DE MALEANTES - RMX",
       "url": "https://open.spotify.com/track/3lMXF0Sn0X1n1CBJn3pNYM"
-    },
-    {
-      "added_at": "2024-05-01 20:41:09",
-      "album": {
-        "name": "Marroneo",
-        "url": "https://open.spotify.com/album/3oVJ70hDWAgy1NQx6p0fGA"
-      },
-      "artists": [
-        {
-          "name": "Chino El Gorila",
-          "url": "https://open.spotify.com/artist/3F1DM59crNsFkIY0ydIlO6"
-        },
-        {
-          "name": "Alnz G",
-          "url": "https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf"
-        },
-        {
-          "name": "Aivan Beatz",
-          "url": "https://open.spotify.com/artist/0AAFjvGFVnBqs85PXiMAvb"
-        }
-      ],
-      "duration_ms": 221481,
-      "name": "Marroneo",
-      "url": "https://open.spotify.com/track/3V012HJBXI5lpCildeHAFA"
     }
   ],
   "unique_name": "CHAKAL\u00d3N ",

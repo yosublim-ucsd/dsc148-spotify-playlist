@@ -337,6 +337,28 @@
     },
     {
       "album": {
+        "name": "Bailando",
+        "url": "https://open.spotify.com/album/2KLKBHAzU1KgxKQsB9S4FE"
+      },
+      "artists": [
+        {
+          "name": "Bante",
+          "url": "https://open.spotify.com/artist/4AUecIjIQVp9N21mVvi2mj"
+        },
+        {
+          "name": "Space Fear",
+          "url": "https://open.spotify.com/artist/6IXNeDq3vqabaZwqpnYIql"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198425,
+      "name": "Bailando",
+      "url": "https://open.spotify.com/track/1ntXDWAJHVCAQbVNSVShYI"
+    },
+    {
+      "album": {
         "name": "Bailar Riddim",
         "url": "https://open.spotify.com/album/3L07N9QtjRLysBgtx8aesx"
       },
@@ -536,7 +558,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 177786,
       "name": "Benjam\u00edn Carri\u00f3n",
       "url": "https://open.spotify.com/track/4wxoAvFshEHA6JL1ymeFNf"
@@ -1428,6 +1450,28 @@
       "duration_ms": 195000,
       "name": "Di Nobo",
       "url": "https://open.spotify.com/track/7dWz63Qt1CFhg8nnlCMwk8"
+    },
+    {
+      "album": {
+        "name": "Diablo (Que Rico)",
+        "url": "https://open.spotify.com/album/60lk6qlz0jEjiXkCdUOsUl"
+      },
+      "artists": [
+        {
+          "name": "Twolate",
+          "url": "https://open.spotify.com/artist/1IRtNLR91uUQxQzh9veJhh"
+        },
+        {
+          "name": "Elilluminari",
+          "url": "https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151874,
+      "name": "Diablo (Que Rico)",
+      "url": "https://open.spotify.com/track/4qbjFXrNrMU4U5fvBjMUBz"
     },
     {
       "album": {
@@ -2436,7 +2480,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 143333,
       "name": "La Negra",
       "url": "https://open.spotify.com/track/5V2emIkSLAecBdvMebSUno"
@@ -2682,7 +2726,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 201720,
       "name": "Libre",
       "url": "https://open.spotify.com/track/6mCu7S5fBIlaF81L17ZDoM"
@@ -2920,6 +2964,28 @@
       "duration_ms": 145766,
       "name": "Marianela (Que Pasa)",
       "url": "https://open.spotify.com/track/5bZjb7xKqLqa58QiUBcVvl"
+    },
+    {
+      "album": {
+        "name": "Matadora (Radio Edit)",
+        "url": "https://open.spotify.com/album/0Zmw4jLJ56fa35F7xzeizV"
+      },
+      "artists": [
+        {
+          "name": "Maahez",
+          "url": "https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ"
+        },
+        {
+          "name": "Jenn Morel",
+          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Matadora - Radio Edit",
+      "url": "https://open.spotify.com/track/0kIIoDPOIges2ZRGZIc6YC"
     },
     {
       "album": {
@@ -3654,7 +3720,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 163144,
       "name": "Resistencia",
       "url": "https://open.spotify.com/track/7ek1DEzAizK2hYsOI1xQsN"
@@ -3715,6 +3781,28 @@
     },
     {
       "album": {
+        "name": "Ritmo 305",
+        "url": "https://open.spotify.com/album/51YCaYg8W5r9aVolOc8Mk5"
+      },
+      "artists": [
+        {
+          "name": "Mel\u00e9",
+          "url": "https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX"
+        },
+        {
+          "name": "Thomas Garcia",
+          "url": "https://open.spotify.com/artist/0pOf0CQbzWVo2rgrH9h0Rq"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215813,
+      "name": "Ritmo 305",
+      "url": "https://open.spotify.com/track/7M8EtNKLCdCEqPs1vwqHvE"
+    },
+    {
+      "album": {
         "name": "Rosa",
         "url": "https://open.spotify.com/album/1E3ZQ6io0107ZazD7ZPYhy"
       },
@@ -3726,10 +3814,32 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 171998,
       "name": "Rosa",
       "url": "https://open.spotify.com/track/2ThQHv5qNDg1QtNb3gFJv9"
+    },
+    {
+      "album": {
+        "name": "rosa blanca",
+        "url": "https://open.spotify.com/album/4NGRy9UvvUGKhdwCGlis7k"
+      },
+      "artists": [
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        },
+        {
+          "name": "Pastel",
+          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154869,
+      "name": "rosa blanca",
+      "url": "https://open.spotify.com/track/6gBJ4VpnAtnJXnOorPikov"
     },
     {
       "album": {
@@ -4106,7 +4216,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 166299,
       "name": "The Sound",
       "url": "https://open.spotify.com/track/5OM3s2BBEPrVjZAnBtFgAv"
@@ -4790,6 +4900,32 @@
       "duration_ms": 184761,
       "name": "XTC",
       "url": "https://open.spotify.com/track/7oPB4kg8YwmofthqXzSFIB"
+    },
+    {
+      "album": {
+        "name": "Ya Me Voy",
+        "url": "https://open.spotify.com/album/5XM1OYppqZmJhUsP5tx3Mt"
+      },
+      "artists": [
+        {
+          "name": "Gettoblaster",
+          "url": "https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG"
+        },
+        {
+          "name": "Franklyn Watts",
+          "url": "https://open.spotify.com/artist/4cS1RS2vIhO2NStH2ktLYn"
+        },
+        {
+          "name": "Fuzzy Cufflinxxx",
+          "url": "https://open.spotify.com/artist/3KnbVIg4fT1t8hbNdAJt19"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205161,
+      "name": "Ya Me Voy",
+      "url": "https://open.spotify.com/track/3Mg9pxQT9X6tyPrxU81gy7"
     },
     {
       "album": {

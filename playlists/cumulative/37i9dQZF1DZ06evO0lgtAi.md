@@ -2,7 +2,7 @@
 
 ### [This Is Tainy](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0lgtAi)
 
-> This Is Tainy\. Los temas esenciales, todos en una lista.
+> This is Tainy\. Todos os maiores hits em uma só playlist.
 
 75 songs - 3 hr 58 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0VfNiwAYFUG5TFaVRKtkNF">Nija</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,676 likes - 129 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,675 likes - 129 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,8 +111,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 101 | [Try Again](https://open.spotify.com/track/0STqc1tADAVkJvpbkd1fol) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [The Album](https://open.spotify.com/album/0BwUN4oXLzs95nE8GO1vrI) | 2:58 |
 | 102 | [Be the One](https://open.spotify.com/track/0g1u0CXybYSVLho9gvtLMC) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [2Sides \(Side 1\)](https://open.spotify.com/album/1RaqQTAjpuj7N5GEIA87OC) | 2:41 |
 | 103 | [Secrets](https://open.spotify.com/track/6MdNiXqTGsDvgGCRUjXxWy) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [Good Company](https://open.spotify.com/album/0wLgtwKkMwsrm0WeN68WgZ) | 3:09 |
-| 104 | [Sanctuary \(feat\. Big K.R.I.T.\)](https://open.spotify.com/track/5hYijRB4AJYveUDXBrbslS) | [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [Trouble in Paradise](https://open.spotify.com/album/0xqUuEVN3srOCA51CprgIk) | 3:37 |
-| 105 | [LMK](https://open.spotify.com/track/3NaYHkZmo48PEkbRQMyXAT) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Grudges](https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2) | 3:33 |
+| 104 | [LMK](https://open.spotify.com/track/3NaYHkZmo48PEkbRQMyXAT) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Grudges](https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2) | 3:33 |
+| 105 | [Sanctuary \(feat\. Big K.R.I.T.\)](https://open.spotify.com/track/5hYijRB4AJYveUDXBrbslS) | [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [Trouble in Paradise](https://open.spotify.com/album/0xqUuEVN3srOCA51CprgIk) | 3:37 |
 | 106 | [Ay Ay Ay \(feat\. Pitbull\)](https://open.spotify.com/track/2SOIEQ6Fcmh4OQyl2B48k8) | [Kim Viera](https://open.spotify.com/artist/4cmSUhjO83qNmK2AvxKQ41), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Ay Ay Ay \(feat\. Pitbull\)](https://open.spotify.com/album/3NdO3HPZSoq5qDQCmtgU51) | 2:52 |
 | 107 | [On Call](https://open.spotify.com/track/7rFaSZTvuNiTr5M02IyQaY) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Don't Say I Didn't Warn You](https://open.spotify.com/album/6unv1JfAfjWTkcn0zBnGiY) | 2:21 |
 | 108 | [Focus](https://open.spotify.com/track/797eFgfqbDNdvXXqKOl74E) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Grudges](https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2) | 3:16 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 128 | [Aya](https://open.spotify.com/track/5ns3kffO7Y8hh3lZyoXMCF) | [Medusa](https://open.spotify.com/artist/4vPPFsG4hJ9JrtrgUrzsYh) | [Aya](https://open.spotify.com/album/23x8pIyTKI3MggMSdShflL) | 2:55 |
 | 129 | [I AM LOLA](https://open.spotify.com/track/4kH4Lb90dhFdWaruTrrx86) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Dennis Daughter](https://open.spotify.com/album/6MhWcjVKMVa7QbIELyjaUe) | 3:14 |
 
-Snapshot ID: `AbQM4QAAAACUo+IBqPTYrDYCBLNs/G9Q`
+Snapshot ID: `AbQSugAAAAC5LFqEWaRTTODtyDkHNJ9c`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "you can \ud83d\udc8b a hundred boys in bars!!!!  \ud83d\udcf7 Chappell Roan",
+  "description": "Watch this be the wrong thing. CLASSIC!  \ud83d\udcf7 Gracie Abrams",
   "name": "young & free",
   "tracks": [
     {
@@ -12221,6 +12221,24 @@
     },
     {
       "album": {
+        "name": "Gentleman",
+        "url": "https://open.spotify.com/album/7jMBkYuzUijl15SBT1lP34"
+      },
+      "artists": [
+        {
+          "name": "Mckenna Grace",
+          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168800,
+      "name": "Gentleman",
+      "url": "https://open.spotify.com/track/7mQCONtuyTnXtRLrjalQTF"
+    },
+    {
+      "album": {
         "name": "Get Better",
         "url": "https://open.spotify.com/album/385j5opAYD0SP2UHmeeKFU"
       },
@@ -15976,7 +15994,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 173551,
       "name": "i can't get my shit together",
       "url": "https://open.spotify.com/track/5QQH0yRUbD4fYqNWKiPX9I"
@@ -16744,7 +16762,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 158888,
       "name": "I Woke Up",
       "url": "https://open.spotify.com/track/7CSJbewzvnIblizU3aDuIr"
@@ -27688,6 +27706,24 @@
       "duration_ms": 197045,
       "name": "RIP",
       "url": "https://open.spotify.com/track/6sy5XzSPzBB5JuJ9berpu3"
+    },
+    {
+      "album": {
+        "name": "Risk",
+        "url": "https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191566,
+      "name": "Risk",
+      "url": "https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY"
     },
     {
       "album": {

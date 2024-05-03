@@ -2566,7 +2566,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 286795,
       "name": "La Soledad",
       "url": "https://open.spotify.com/track/07c2XkjJl0nMgMhYsxyPww"
@@ -2606,7 +2606,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 260424,
       "name": "La Virgencita",
       "url": "https://open.spotify.com/track/7v8ctlF8xN0uFVJFTgEhG5"
@@ -4803,6 +4803,28 @@
     },
     {
       "album": {
+        "name": "Si Regresas",
+        "url": "https://open.spotify.com/album/5hSPjucZjmNTdvuJ4Th9xW"
+      },
+      "artists": [
+        {
+          "name": "Noche de Brujas",
+          "url": "https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl"
+        },
+        {
+          "name": "Rodrigo Tapari",
+          "url": "https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203846,
+      "name": "Si Regresas",
+      "url": "https://open.spotify.com/track/56MNKndcWxFCIlgpDtd8Fd"
+    },
+    {
+      "album": {
         "name": "Si Te Vas (Vivo)",
         "url": "https://open.spotify.com/album/3P9PZxc8N5rAXTQfqWS3sM"
       },
@@ -5262,6 +5284,36 @@
       "duration_ms": 150101,
       "name": "Tu Despertador",
       "url": "https://open.spotify.com/track/30GjEhGOgIcZwqMUi0x9sW"
+    },
+    {
+      "album": {
+        "name": "Tu Eres",
+        "url": "https://open.spotify.com/album/17YtuICFuZ4z4LbUBJNlz1"
+      },
+      "artists": [
+        {
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        },
+        {
+          "name": "RDO",
+          "url": "https://open.spotify.com/artist/4lgID4CKQnPvzaOBDYHIzV"
+        },
+        {
+          "name": "Agrupaci\u00f3n Marilyn",
+          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
+        },
+        {
+          "name": "Araus Danesi",
+          "url": "https://open.spotify.com/artist/7nsDjXt3xtyKr2ms1bb5aK"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Tu Eres",
+      "url": "https://open.spotify.com/track/312WnZTBmcnwjuwrcQqVDZ"
     },
     {
       "album": {

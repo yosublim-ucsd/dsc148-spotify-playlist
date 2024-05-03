@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Perreo, bellakeo, taconazo y placoceo\. Semana top para disfrutar del feriado y del día de lxs niñxs\. Myke Towers y Bad Bunny en cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 833,842 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 834,029 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

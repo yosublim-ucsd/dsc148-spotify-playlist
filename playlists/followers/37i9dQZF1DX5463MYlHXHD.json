@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 564122,
+  "2024-05-03": 564296,
   "date_first_scraped": "2023-05-28",
   "description": "Cumbia pa' volar la chapa con Damas Gratis.",
   "name": "Cumbia de Barrio",
@@ -1504,6 +1504,24 @@
     },
     {
       "album": {
+        "name": "CD1",
+        "url": "https://open.spotify.com/album/3nvl4wG6RklqOwlZdJ06oQ"
+      },
+      "artists": [
+        {
+          "name": "Mc Caco",
+          "url": "https://open.spotify.com/artist/3JjXQTP555FgptpoAcUCsD"
+        }
+      ],
+      "date_added": "2024-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146471,
+      "name": "El grandote",
+      "url": "https://open.spotify.com/track/3OGpJ3WLq256b71EQQS7aW"
+    },
+    {
+      "album": {
         "name": "100% Negro Cumbiero",
         "url": "https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf"
       },
@@ -2369,7 +2387,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 223920,
       "name": "La cola less",
       "url": "https://open.spotify.com/track/64R5nJZvyvIynP0bPnLYgV"

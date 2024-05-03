@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 6481,
+  "2024-05-03": 6484,
   "date_first_scraped": "2021-12-29",
   "description": "This is Timaya. The essential tracks, all in one playlist.",
   "name": "This Is Timaya",
@@ -87,7 +87,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 206160,
       "name": "Ah Blem Blem",
       "url": "https://open.spotify.com/track/3FLmb7sK9KJeMoQtdq85QL"
@@ -1733,7 +1733,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 216920,
       "name": "Sexy Ladies",
       "url": "https://open.spotify.com/track/7eEsqGqIlG8dliuPYEg89g"

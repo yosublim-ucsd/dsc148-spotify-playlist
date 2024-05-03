@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. lozeak",
+  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. house of protection",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -5545,6 +5545,24 @@
     },
     {
       "album": {
+        "name": "Going Down",
+        "url": "https://open.spotify.com/album/6jjXS29r3Y0VbYMBhyDq0O"
+      },
+      "artists": [
+        {
+          "name": "Raven Numan",
+          "url": "https://open.spotify.com/artist/5q0maXiCoZPaoULNxL8gDI"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263862,
+      "name": "Going Down",
+      "url": "https://open.spotify.com/track/79U3vQSqh7ONz2kunmB6Ri"
+    },
+    {
+      "album": {
         "name": "GOOD MOOD (feat. grandson)",
         "url": "https://open.spotify.com/album/5zIeHlDj7AcQzKaTF2x1Ty"
       },
@@ -7470,6 +7488,24 @@
       "duration_ms": 194000,
       "name": "IT'S GONNA BE A LONG DAY",
       "url": "https://open.spotify.com/track/2AlXN2KTcdA6meQMrVluJu"
+    },
+    {
+      "album": {
+        "name": "It's Supposed To Hurt",
+        "url": "https://open.spotify.com/album/0dc1Zy69cvE8jnt1apdrLE"
+      },
+      "artists": [
+        {
+          "name": "House of Protection",
+          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212086,
+      "name": "It's Supposed To Hurt",
+      "url": "https://open.spotify.com/track/0nPWNzcryh5oyJA5uZaepT"
     },
     {
       "album": {
@@ -14652,6 +14688,24 @@
       "duration_ms": 159821,
       "name": "Witch Hunt",
       "url": "https://open.spotify.com/track/4TFXmB2WOm1G5CnVcejVQb"
+    },
+    {
+      "album": {
+        "name": "witches in the street",
+        "url": "https://open.spotify.com/album/02lOUJsNVavV9729X3VzQw"
+      },
+      "artists": [
+        {
+          "name": "Leo IV",
+          "url": "https://open.spotify.com/artist/0sL7q6u63eg3AuYPwImbhN"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107200,
+      "name": "witches in the street",
+      "url": "https://open.spotify.com/track/5kk5nQcXJdXyP2IeYSH3Kh"
     },
     {
       "album": {

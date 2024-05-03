@@ -1,6 +1,6 @@
 {
   "description": "unwind with these alternative favorites and new discoveries.",
-  "num_followers": 460353,
+  "num_followers": 460428,
   "original_name": "License To Chill",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-04-26 17:02:38",
       "album": {
-        "name": "A/B",
-        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 269893,
-      "name": "All the Pretty Girls",
-      "url": "https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6"
-    },
-    {
-      "added_at": "2024-04-26 17:02:38",
-      "album": {
         "name": "Run Your Mouth",
         "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 160000,
       "name": "Run Your Mouth",
       "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
+    },
+    {
+      "added_at": "2024-04-26 17:02:38",
+      "album": {
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 269893,
+      "name": "All the Pretty Girls",
+      "url": "https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6"
     },
     {
       "added_at": "2024-04-26 17:02:38",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-04-26 17:02:38",
       "album": {
-        "name": "I Forgot To Be Your Lover",
-        "url": "https://open.spotify.com/album/0QfT7WOAHM5CPZPL9ci2E1"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 147985,
-      "name": "I Forgot To Be Your Lover",
-      "url": "https://open.spotify.com/track/756ziR2z4iXkK35qwBLUiY"
-    },
-    {
-      "added_at": "2024-04-26 17:02:38",
-      "album": {
         "name": "This Is Why",
         "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 261868,
       "name": "Liar",
       "url": "https://open.spotify.com/track/7EUhSxz4srS8pqh1cENbLB"
+    },
+    {
+      "added_at": "2024-04-26 17:02:38",
+      "album": {
+        "name": "I Forgot To Be Your Lover",
+        "url": "https://open.spotify.com/album/0QfT7WOAHM5CPZPL9ci2E1"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 147985,
+      "name": "I Forgot To Be Your Lover",
+      "url": "https://open.spotify.com/track/756ziR2z4iXkK35qwBLUiY"
     },
     {
       "added_at": "2024-04-26 17:02:38",
@@ -583,18 +583,18 @@
     {
       "added_at": "2024-04-26 17:02:38",
       "album": {
-        "name": "No Strings",
-        "url": "https://open.spotify.com/album/4LDOFx1Km6O5vYbN5Z3iFb"
+        "name": "Heartbeat Highway",
+        "url": "https://open.spotify.com/album/1mBlpKV5enWAZdQxBqZ96r"
       },
       "artists": [
         {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
         }
       ],
-      "duration_ms": 213080,
-      "name": "No Strings",
-      "url": "https://open.spotify.com/track/2EVPJwUDXYldA6gAv00Tj6"
+      "duration_ms": 221217,
+      "name": "Heartbeat Highway",
+      "url": "https://open.spotify.com/track/2YbJ0qJ5uqOPfLGvqMLkaK"
     },
     {
       "added_at": "2024-04-26 17:02:38",
@@ -615,18 +615,18 @@
     {
       "added_at": "2024-04-26 17:02:38",
       "album": {
-        "name": "Heartbeat Highway",
-        "url": "https://open.spotify.com/album/1mBlpKV5enWAZdQxBqZ96r"
+        "name": "No Strings",
+        "url": "https://open.spotify.com/album/4LDOFx1Km6O5vYbN5Z3iFb"
       },
       "artists": [
         {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
         }
       ],
-      "duration_ms": 221217,
-      "name": "Heartbeat Highway",
-      "url": "https://open.spotify.com/track/2YbJ0qJ5uqOPfLGvqMLkaK"
+      "duration_ms": 213080,
+      "name": "No Strings",
+      "url": "https://open.spotify.com/track/2EVPJwUDXYldA6gAv00Tj6"
     },
     {
       "added_at": "2024-04-26 17:02:38",
@@ -923,6 +923,26 @@
     {
       "added_at": "2024-04-26 17:02:38",
       "album": {
+        "name": "MAGIC",
+        "url": "https://open.spotify.com/album/1GD5LEi9PqcG53COfp3LsQ"
+      },
+      "artists": [
+        {
+          "name": "meija",
+          "url": "https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1"
+        },
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "MAGIC",
+      "url": "https://open.spotify.com/track/3hB6fPgud6yt1MRKHJ58Mg"
+    },
+    {
+      "added_at": "2024-04-26 17:02:38",
+      "album": {
         "name": "Alone in the Mountains",
         "url": "https://open.spotify.com/album/7oGOnYxXUMTH8BGooDqsC4"
       },
@@ -951,26 +971,6 @@
       "duration_ms": 231721,
       "name": "Indigo Puff",
       "url": "https://open.spotify.com/track/3pJQY7UuX0DcE8pgLZhCjf"
-    },
-    {
-      "added_at": "2024-04-26 17:02:38",
-      "album": {
-        "name": "MAGIC",
-        "url": "https://open.spotify.com/album/1GD5LEi9PqcG53COfp3LsQ"
-      },
-      "artists": [
-        {
-          "name": "meija",
-          "url": "https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1"
-        },
-        {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "MAGIC",
-      "url": "https://open.spotify.com/track/3hB6fPgud6yt1MRKHJ58Mg"
     },
     {
       "added_at": "2024-04-26 17:02:38",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2024-04-26 17:02:38",
       "album": {
+        "name": "Never Had to Leave",
+        "url": "https://open.spotify.com/album/2JBomcPj6tIDhtLBfP4MV7"
+      },
+      "artists": [
+        {
+          "name": "Matt Maeson",
+          "url": "https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn"
+        }
+      ],
+      "duration_ms": 221626,
+      "name": "Cry Baby",
+      "url": "https://open.spotify.com/track/3epaLFj2ClmXnvcuxHsih5"
+    },
+    {
+      "added_at": "2024-04-26 17:02:38",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6XI7j88Hmfye0TXQgp0DcU"
       },
@@ -1291,22 +1307,6 @@
     {
       "added_at": "2024-04-26 17:02:38",
       "album": {
-        "name": "Never Had to Leave",
-        "url": "https://open.spotify.com/album/2JBomcPj6tIDhtLBfP4MV7"
-      },
-      "artists": [
-        {
-          "name": "Matt Maeson",
-          "url": "https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn"
-        }
-      ],
-      "duration_ms": 221626,
-      "name": "Cry Baby",
-      "url": "https://open.spotify.com/track/3epaLFj2ClmXnvcuxHsih5"
-    },
-    {
-      "added_at": "2024-04-26 17:02:38",
-      "album": {
         "name": "Set Yourself Free",
         "url": "https://open.spotify.com/album/47OXVPMtjTrnDwnuptinJr"
       },
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-04-26 17:02:38",
       "album": {
-        "name": "Temporary Love",
-        "url": "https://open.spotify.com/album/1cRv0odNNvTSxVnNFmeusc"
-      },
-      "artists": [
-        {
-          "name": "The Brinks",
-          "url": "https://open.spotify.com/artist/4fLpQdr6R7gqNGY7xpr7Jz"
-        }
-      ],
-      "duration_ms": 205129,
-      "name": "Temporary Love",
-      "url": "https://open.spotify.com/track/2U6hcDLZHYRSd9Up0mMe9W"
-    },
-    {
-      "added_at": "2024-04-26 17:02:38",
-      "album": {
         "name": "West Coast",
         "url": "https://open.spotify.com/album/4cSgASAuWJQ9igHuwMlCQ6"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 251872,
       "name": "West Coast",
       "url": "https://open.spotify.com/track/6zvbty1Vv0uR5Zajlx43gk"
+    },
+    {
+      "added_at": "2024-04-26 17:02:38",
+      "album": {
+        "name": "Temporary Love",
+        "url": "https://open.spotify.com/album/1cRv0odNNvTSxVnNFmeusc"
+      },
+      "artists": [
+        {
+          "name": "The Brinks",
+          "url": "https://open.spotify.com/artist/4fLpQdr6R7gqNGY7xpr7Jz"
+        }
+      ],
+      "duration_ms": 205129,
+      "name": "Temporary Love",
+      "url": "https://open.spotify.com/track/2U6hcDLZHYRSd9Up0mMe9W"
     },
     {
       "added_at": "2024-04-26 17:02:38",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-04-26 17:02:38",
       "album": {
-        "name": "I See You",
-        "url": "https://open.spotify.com/album/3dDqhWFE1ev9y7mnkEEG1p"
-      },
-      "artists": [
-        {
-          "name": "MISSIO",
-          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
-        }
-      ],
-      "duration_ms": 228735,
-      "name": "I See You",
-      "url": "https://open.spotify.com/track/3EqHFfCSbX4Z1pX8JQ0c0r"
-    },
-    {
-      "added_at": "2024-04-26 17:02:38",
-      "album": {
         "name": "Guitar Beat",
         "url": "https://open.spotify.com/album/0OU7x2IHQ9NgHgYTWYrXRw"
       },
@@ -1467,18 +1451,18 @@
     {
       "added_at": "2024-04-26 17:02:38",
       "album": {
-        "name": "Fly",
-        "url": "https://open.spotify.com/album/4UBSEvuaR4v2zJkC0aroby"
+        "name": "I See You",
+        "url": "https://open.spotify.com/album/3dDqhWFE1ev9y7mnkEEG1p"
       },
       "artists": [
         {
-          "name": "Chicano Batman",
-          "url": "https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN"
+          "name": "MISSIO",
+          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
         }
       ],
-      "duration_ms": 206533,
-      "name": "Fly",
-      "url": "https://open.spotify.com/track/32sk0nAe4tnJxSjyGylWpj"
+      "duration_ms": 228735,
+      "name": "I See You",
+      "url": "https://open.spotify.com/track/3EqHFfCSbX4Z1pX8JQ0c0r"
     },
     {
       "added_at": "2024-04-26 17:02:38",
@@ -1495,6 +1479,22 @@
       "duration_ms": 218760,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/38D7NvjAcztFI1FKetw08V"
+    },
+    {
+      "added_at": "2024-04-26 17:02:38",
+      "album": {
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/4UBSEvuaR4v2zJkC0aroby"
+      },
+      "artists": [
+        {
+          "name": "Chicano Batman",
+          "url": "https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN"
+        }
+      ],
+      "duration_ms": 206533,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/32sk0nAe4tnJxSjyGylWpj"
     },
     {
       "added_at": "2024-04-26 17:02:38",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-04-26 17:02:38",
       "album": {
-        "name": "Nearer My God",
-        "url": "https://open.spotify.com/album/6l3mTuQHtjeqoyYWkTxld8"
-      },
-      "artists": [
-        {
-          "name": "Foxing",
-          "url": "https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR"
-        }
-      ],
-      "duration_ms": 215693,
-      "name": "Nearer My God",
-      "url": "https://open.spotify.com/track/1tSVf4MEdh8kVwKCmZw6uc"
-    },
-    {
-      "added_at": "2024-04-26 17:02:38",
-      "album": {
         "name": "Everything Will Be Ok Eventually",
         "url": "https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 294071,
       "name": "Better",
       "url": "https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA"
+    },
+    {
+      "added_at": "2024-04-26 17:02:38",
+      "album": {
+        "name": "Nearer My God",
+        "url": "https://open.spotify.com/album/6l3mTuQHtjeqoyYWkTxld8"
+      },
+      "artists": [
+        {
+          "name": "Foxing",
+          "url": "https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR"
+        }
+      ],
+      "duration_ms": 215693,
+      "name": "Nearer My God",
+      "url": "https://open.spotify.com/track/1tSVf4MEdh8kVwKCmZw6uc"
     },
     {
       "added_at": "2024-04-26 17:02:38",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2024-04-26 17:02:38",
       "album": {
+        "name": "Stay Out Of It",
+        "url": "https://open.spotify.com/album/2p70Xer2HAT9Ro0qiBVHOc"
+      },
+      "artists": [
+        {
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+        }
+      ],
+      "duration_ms": 185317,
+      "name": "Stay Out Of It",
+      "url": "https://open.spotify.com/track/1f8G4jvkONnLMxJMx7V2Ck"
+    },
+    {
+      "added_at": "2024-04-26 17:02:38",
+      "album": {
         "name": "Tilt At The Wind No More",
         "url": "https://open.spotify.com/album/7p6kas933fJItm9YDJew2A"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 226884,
       "name": "Trouble With This Bed",
       "url": "https://open.spotify.com/track/5wLhOIYBr7i5k8MPaXJYjh"
-    },
-    {
-      "added_at": "2024-04-26 17:02:38",
-      "album": {
-        "name": "Stay Out Of It",
-        "url": "https://open.spotify.com/album/2p70Xer2HAT9Ro0qiBVHOc"
-      },
-      "artists": [
-        {
-          "name": "Michigander",
-          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
-        }
-      ],
-      "duration_ms": 185317,
-      "name": "Stay Out Of It",
-      "url": "https://open.spotify.com/track/1f8G4jvkONnLMxJMx7V2Ck"
     },
     {
       "added_at": "2024-04-26 17:02:38",
@@ -2047,18 +2047,18 @@
     {
       "added_at": "2024-04-26 17:02:38",
       "album": {
-        "name": "I Remember Way Too Much (Acoustic Version)",
-        "url": "https://open.spotify.com/album/0Jyta4WQVQakKAKNGJnCQH"
+        "name": "Dear Me",
+        "url": "https://open.spotify.com/album/0qklq3waVgaH4eNeO19ZQY"
       },
       "artists": [
         {
-          "name": "MOD SUN",
-          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
+          "name": "OWEL",
+          "url": "https://open.spotify.com/artist/3RrcX2SqUoy1et8LXNZv4S"
         }
       ],
-      "duration_ms": 222540,
-      "name": "I Remember Way Too Much - Acoustic Version",
-      "url": "https://open.spotify.com/track/0cqHnXoMyt3ZMCb4IpPy4d"
+      "duration_ms": 274148,
+      "name": "Too Young to Fall in Love",
+      "url": "https://open.spotify.com/track/3wmtNax868lLyQPbBy36BP"
     }
   ],
   "unique_name": "License To Chill",

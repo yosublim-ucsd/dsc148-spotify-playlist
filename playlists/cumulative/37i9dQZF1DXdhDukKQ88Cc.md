@@ -2,13 +2,13 @@
 
 ### [100 DK](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> hit rap og andet i den vibe 🚨 nyt fra: ICEKIID, Lamin / Anton Westerlin, Merro8, MAS & Hans Philip 🚨
+> hit rap og andet i den vibe 🚨 nyt fra album fra Merro8 🚨
 
-165 songs - 7 hr 10 min
+166 songs - 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [2 Kanoner](https://open.spotify.com/track/0cqiuOOf7cZvp3dTq1AQmA) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [2 Kanoner](https://open.spotify.com/album/3OJwewaRbFMwueVlJpfssy) | 2:40 | 2024-04-18 |  |
+| [2 Kanoner](https://open.spotify.com/track/0cqiuOOf7cZvp3dTq1AQmA) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [2 Kanoner](https://open.spotify.com/album/3OJwewaRbFMwueVlJpfssy) | 2:40 | 2024-04-18 | 2024-05-03 |
 | [2 Kanoner](https://open.spotify.com/track/19Lap3pvucrN4aEBmmBZRn) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [2 Kanoner](https://open.spotify.com/album/1OkJRJq4oFJgzaCOIcA04p) | 2:40 | 2023-09-21 | 2024-04-19 |
 | [4 LIFE](https://open.spotify.com/track/3oR0iJiqjO5onYOs8ThQa1) | [ZK](https://open.spotify.com/artist/4uvOZHqwKYuWz1ywTBN5En) | [4 LIFE](https://open.spotify.com/album/2ZSarbwHOnvmj19c4jiVey) | 2:28 | 2023-09-21 |  |
 | [555 \(feat\. KESI\)](https://open.spotify.com/track/2s0v4Q14vbu2jUpuNTBcww) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Kiko Club](https://open.spotify.com/album/1CnKG0vmRTZkG0oxwIZnc3) | 2:37 | 2024-01-04 | 2024-02-10 |
@@ -28,6 +28,7 @@
 | [Black Ops](https://open.spotify.com/track/7J1DgyE3mGoazGOHqZ2Kh2) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [Black Ops](https://open.spotify.com/album/5NjzqSjhoAgxoN3uNk3YHT) | 2:36 | 2024-04-11 |  |
 | [Boys I D Blå](https://open.spotify.com/track/6qnfvfy3dte9Hk5sJRLILN) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Boys I D Blå](https://open.spotify.com/album/5beXTxct0Rdq5EwWr5tsVB) | 2:13 | 2023-09-21 | 2024-01-19 |
 | [CARTIER LINSER](https://open.spotify.com/track/32gKenhuc62phw2Uyxyinl) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [AFRO DANSKER II](https://open.spotify.com/album/5MmOH7BCOPYClCydMLGqWW) | 2:26 | 2024-04-25 |  |
+| [CHAMPIONS LEAGUE](https://open.spotify.com/track/45YtsGktecYqg2o9yeFJ5o) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [OCHO](https://open.spotify.com/album/7bSS66ds9pxf2To3wbRpMl) | 1:45 | 2024-05-02 |  |
 | [Chanel Freestyle](https://open.spotify.com/track/5LAsl3k0Vas49Pnoj9GJr3) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Chanel Freestyle](https://open.spotify.com/album/19GP2Hpfv764Wi35GNrbvz) | 2:06 | 2024-04-25 |  |
 | [Chocola](https://open.spotify.com/track/0ZtqiH3Law79itqfAzHApC) | [Sleiman](https://open.spotify.com/artist/2HTE5rhkzmNb4IiGrop13q), [AWADA](https://open.spotify.com/artist/08Mi8yWtTfL2aWlZIG135P) | [Chocola](https://open.spotify.com/album/6OEqU0UOYKlqn099nLP1oM) | 2:12 | 2023-11-10 | 2024-04-26 |
 | [Company](https://open.spotify.com/track/6Nb9knmY0K5SXDU0IZRcGK) | [Toko](https://open.spotify.com/artist/2orDgazBVzvwOVZa0QQUvI), [Fouli](https://open.spotify.com/artist/1IWMpdsWQeTckTQSGVNj8N) | [Company](https://open.spotify.com/album/0wiQ5yItDLDmfKBxPlBFhR) | 2:24 | 2023-11-10 |  |

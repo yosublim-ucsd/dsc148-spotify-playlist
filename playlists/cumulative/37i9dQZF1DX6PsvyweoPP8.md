@@ -4,7 +4,7 @@
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-216 songs - 10 hr 33 min
+217 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Não Demora](https://open.spotify.com/track/2upeA1eDVdtH4t7zUdGULn) | [Mati](https://open.spotify.com/artist/6q4OTLGMcroTVXFFKSkzzC), [Ni Munhoz](https://open.spotify.com/artist/3e0wWnjJSczRhvjFKT7kQZ) | [Não Demora](https://open.spotify.com/album/0NtFR23BCN7A9jCfbaj54z) | 2:46 | 2022-03-18 | 2023-11-14 |
 | [Não Tenho Tempo](https://open.spotify.com/track/42Lqgo4o80uHEKKtaGOkj1) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR) | [Não Tenho Tempo](https://open.spotify.com/album/0DU5qPWKr1bR86WsRjiiPP) | 2:05 | 2023-11-24 |  |
 | [O Tempo](https://open.spotify.com/track/31oOBluQP0TkfUprY5V1Pg) | [Viped](https://open.spotify.com/artist/6lL3PBXaqTkAznwSvfySSi), [BlackMura](https://open.spotify.com/artist/1CENG2Rr3cDIP6HKNGe7Nd), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM) | [O Tempo](https://open.spotify.com/album/6XhdOkOS1GRBKVwaD5Oxsw) | 2:45 | 2022-12-23 | 2023-01-28 |
+| [ODONTO](https://open.spotify.com/track/1igEF1TAmrJMHVjEuSxII3) | [Bezin](https://open.spotify.com/artist/4AnMglEwY1PN8UbURN3YiW), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN) | [ODONTO](https://open.spotify.com/album/3NXeur7OH6URG3TOR5ATp1) | 3:20 | 2024-05-03 |  |
 | [Onda \(feat\. ONNiKA\)](https://open.spotify.com/track/07Vl5YpY7TKQZj5lyRTffv) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [aksacyber](https://open.spotify.com/artist/6ZuEUOMlg4hIf2zxKlaBHp), [Hayllan](https://open.spotify.com/artist/2yhEwEWqj6fNjUPh4h1YA3), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988) | [Onda \(feat\. ONNiKA\)](https://open.spotify.com/album/2H1CglzsIVwjDxGxkkmH2j) | 3:18 | 2022-03-18 | 2022-08-13 |
 | [Onlyfans](https://open.spotify.com/track/3Ob5HUMYpLLwxdOC9wwxY6) | [MC Raul SP](https://open.spotify.com/artist/0Vha4dHyT8uLOl6JzNrvBj), [DJ Will SP](https://open.spotify.com/artist/5ZDKkdnT7uHSssChZh6V5M) | [Onlyfans](https://open.spotify.com/album/6V3Gt5CKd9kFgtX182U1yq) | 2:40 | 2022-12-31 | 2023-02-25 |
 | [Oriental](https://open.spotify.com/track/2p84551ijesweM1w0xQsd8) | [SV](https://open.spotify.com/artist/6fgtFTpCDLz7xDyS6OVQgh), [RUXN](https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i) | [Oriental](https://open.spotify.com/album/1b4y5zvXbOQrFfQaBFeTio) | 2:38 | 2023-03-24 | 2023-07-01 |

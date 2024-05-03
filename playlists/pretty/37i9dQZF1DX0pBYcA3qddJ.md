@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,010 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,016 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 55 | [Satellite](https://open.spotify.com/track/1ImhD5W20BYmmA9GYlBvOk) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [WELL DONE](https://open.spotify.com/album/3ZYrXylEYlFvr3HDv1wJqJ) | 3:30 |
 | 56 | [IKAROS](https://open.spotify.com/track/4ct5cffZGIcSJ6P8iEToG2) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 3:38 |
 | 57 | [雪解けの朝](https://open.spotify.com/track/4V9PhPpzQ00RJjJaqRkgpq) | [荒井桃子](https://open.spotify.com/artist/6ZLhlVDG7KglxlYkMuLwvr) | [雪解けの朝](https://open.spotify.com/album/0gvr1J3aClpX0holnRIFbp) | 3:42 |
-| 58 | [Now Is The Hour \(The New Look: Season 1 \(Apple TV+ Original Series Soundtrack\)\)](https://open.spotify.com/track/2Xm5Iz7jDPK0mqxbHHp5Mr) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Now Is The Hour \(The New Look: Season 1 \(Apple TV+ Original Series Soundtrack\)\)](https://open.spotify.com/album/4GJeD72vDjBoOjNYmBF7Vo) | 2:32 |
-| 59 | [Sadko: Hindu Song \(arr\. N\. Mercz\): Hindu Song from the Opera 'Sadko'](https://open.spotify.com/track/5WpGVggkaT3phJEwrVG3EC) | [Nora Mercz](https://open.spotify.com/artist/4VmX4klHDDn0mIyG7pQ8tb), [Nikolai Rimsky\-Korsakov](https://open.spotify.com/artist/2kXJ68O899XvWOBdpzlXgs), [Janos Balint](https://open.spotify.com/artist/7BLZsD2sdXgqkg7K3Natw6) | [Flute and Harp](https://open.spotify.com/album/33MNfDsswl60MN5B526hI2) | 3:32 |
+| 58 | [Sadko: Hindu Song \(arr\. N\. Mercz\): Hindu Song from the Opera 'Sadko'](https://open.spotify.com/track/5WpGVggkaT3phJEwrVG3EC) | [Nora Mercz](https://open.spotify.com/artist/4VmX4klHDDn0mIyG7pQ8tb), [Nikolai Rimsky\-Korsakov](https://open.spotify.com/artist/2kXJ68O899XvWOBdpzlXgs), [Janos Balint](https://open.spotify.com/artist/7BLZsD2sdXgqkg7K3Natw6) | [Flute and Harp](https://open.spotify.com/album/33MNfDsswl60MN5B526hI2) | 3:32 |
+| 59 | [Now Is The Hour \(The New Look: Season 1 \(Apple TV+ Original Series Soundtrack\)\)](https://open.spotify.com/track/2Xm5Iz7jDPK0mqxbHHp5Mr) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Now Is The Hour \(The New Look: Season 1 \(Apple TV+ Original Series Soundtrack\)\)](https://open.spotify.com/album/4GJeD72vDjBoOjNYmBF7Vo) | 2:32 |
 | 60 | [Polovetsian Dances from Prince Igor: Introduzione](https://open.spotify.com/track/1KeJxSvW6pLU1ieRfQOMca) | [Alexander Borodin](https://open.spotify.com/artist/34MYamymtmnsmpwbqydd7I), [George Szell](https://open.spotify.com/artist/2CFaOiHKik5FgNGzZJ08sx), [The Cleveland Orchestra](https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz) | [Mussorgsky: Pictures at an Exhibition \- Expanded Edition](https://open.spotify.com/album/5kxCGK9XhXVD9AX9wje6om) | 2:16 |
 | 61 | [It's Impressive](https://open.spotify.com/track/7lQnGrQI7m1qzS9Z89GtTi) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [It's Impressive](https://open.spotify.com/album/74vSgLGwSVRkDJQHGN4qLp) | 2:05 |
 | 62 | [a new romance](https://open.spotify.com/track/0LGbC0S4fcUIcaEk08Hc8r) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Néo\-Romance](https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1) | 3:10 |

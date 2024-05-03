@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,307 songs - 3 day 0 hr 1 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,309 songs - 3 day 0 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1311,9 +1311,11 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1301 | [GONNA GO INSANE](https://open.spotify.com/track/3h9oX6vlIJZc7nW0BcJJ7Q) | [Malice](https://open.spotify.com/artist/0endjvK01uydkCL84mD3Z5) | [GONNA GO INSANE](https://open.spotify.com/album/37XKFLN2pTxHVllNG8G0CV) | 2:15 |
 | 1302 | [LA DI DA](https://open.spotify.com/track/6l07fK093JBCIh6enC4cof) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [DJane HouseKat](https://open.spotify.com/artist/64tnAMgE8bc2zTMBcBsLdx) | [LA DI DA](https://open.spotify.com/album/2WquxpybBSGTu5fqYIYIrR) | 2:59 |
 | 1303 | [For The Weak](https://open.spotify.com/track/4JRcvV0QmTx3aN6e7nAteP) | [Required](https://open.spotify.com/artist/1g05P4Ua1FzC0cQxSlgmyu) | [For The Weak](https://open.spotify.com/album/3TPGiZltbGCSEAXVt6JZr9) | 2:10 |
-| 1304 | [Hallucinate](https://open.spotify.com/track/5byappNwH0EEjPqmh6NMtU) | [Luminite](https://open.spotify.com/artist/56uBktjCLyONyLAgE7VBq1) | [Hallunicate](https://open.spotify.com/album/1AP57nFJb3dlPJSWWb17wN) | 2:20 |
+| 1304 | [Hallucinate](https://open.spotify.com/track/5byappNwH0EEjPqmh6NMtU) | [Luminite](https://open.spotify.com/artist/56uBktjCLyONyLAgE7VBq1) | [Hallucinate](https://open.spotify.com/album/1AP57nFJb3dlPJSWWb17wN) | 2:20 |
 | 1305 | [Fighter](https://open.spotify.com/track/7IzOtrRXV2juIwMrxXrjPJ) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE) | [Fighter](https://open.spotify.com/album/3CI3INdJtK8htyC1zGgcaa) | 3:49 |
 | 1306 | [Lose Control](https://open.spotify.com/track/3qaGhSwwIkEBjcNzsAfkyw) | [Tomsky](https://open.spotify.com/artist/12NNDc1Q7rwbppTMf8UAif), [D.O.N](https://open.spotify.com/artist/42c4pJO8Opk39FSraBPUDC) | [Lose Control](https://open.spotify.com/album/3drQTkX4rK3SZ4cstDAmxs) | 3:03 |
 | 1307 | [Redlining](https://open.spotify.com/track/4PJXYVezQfxD6q2NdiV0yI) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2), [Weaver](https://open.spotify.com/artist/5VjIurP1GxiyS5A0yRHiyW) | [Redlining](https://open.spotify.com/album/50RtHvmzP6URhq1ynCr4eS) | 3:05 |
+| 1308 | [To the Top](https://open.spotify.com/track/1s5OCXuJ5D7g9qJ1YCJjX6) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY) | [To the Top](https://open.spotify.com/album/086aM68IMih2Kx6l54jMLP) | 2:29 |
+| 1309 | [Freaky Boy](https://open.spotify.com/track/0tole2T6k9IZQOrHYXUJjX) | [Ender](https://open.spotify.com/artist/4dm7VRRO7tspAt2XuwEMNw) | [Freaky Boy](https://open.spotify.com/album/3VX183SSIxltAqqIZv34IA) | 2:37 |
 
-Snapshot ID: `AAAFSHoQ+nrmrTKhDtD8NLGzYQHzS78J`
+Snapshot ID: `AAAFSlYyeBMg7/JV0yQPsXNV8Byycpy+`

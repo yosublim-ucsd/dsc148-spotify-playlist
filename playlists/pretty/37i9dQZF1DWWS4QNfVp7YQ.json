@@ -1,6 +1,6 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 74587,
+  "num_followers": 74622,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
@@ -331,46 +331,6 @@
     {
       "added_at": "2024-03-08 06:00:00",
       "album": {
-        "name": "vaMos",
-        "url": "https://open.spotify.com/album/4nrtKr0c1QbQDyr8llymgr"
-      },
-      "artists": [
-        {
-          "name": "Dj Rocka",
-          "url": "https://open.spotify.com/artist/6FZI89BrWDIRqUOW64CgNJ"
-        },
-        {
-          "name": "Dj Zetian",
-          "url": "https://open.spotify.com/artist/2Mf7rgGLrAbgnMqnANKnmy"
-        },
-        {
-          "name": "Dj Monst3r5",
-          "url": "https://open.spotify.com/artist/2DAs7dxh1jqGtGmK9DWeAe"
-        }
-      ],
-      "duration_ms": 171432,
-      "name": "vaMos",
-      "url": "https://open.spotify.com/track/4bgV7f02Yt2wIdKRVwVYSn"
-    },
-    {
-      "added_at": "2024-03-08 06:00:00",
-      "album": {
-        "name": "Chiquetere vs Rockstar Tribal Mix",
-        "url": "https://open.spotify.com/album/2NBtKwtr7Nd38M6wKlRYDn"
-      },
-      "artists": [
-        {
-          "name": "Dj Gecko",
-          "url": "https://open.spotify.com/artist/6nYkQZXt1BPbVrmd4vAXJZ"
-        }
-      ],
-      "duration_ms": 203303,
-      "name": "Chiquetere vs Rockstar Tribal Mix",
-      "url": "https://open.spotify.com/track/4vPRVHNmPf310sQRYJmSQO"
-    },
-    {
-      "added_at": "2024-03-08 06:00:00",
-      "album": {
         "name": "Ya Se Tardaron",
         "url": "https://open.spotify.com/album/4wKTQKjevGrmYplMzNAaVm"
       },
@@ -391,6 +351,46 @@
       "duration_ms": 175652,
       "name": "Ya Se Tardaron",
       "url": "https://open.spotify.com/track/4CJokP3z9dm9oPOocuCbed"
+    },
+    {
+      "added_at": "2024-03-08 06:00:00",
+      "album": {
+        "name": "Chiquetere vs Rockstar Tribal Mix",
+        "url": "https://open.spotify.com/album/2NBtKwtr7Nd38M6wKlRYDn"
+      },
+      "artists": [
+        {
+          "name": "Dj Gecko",
+          "url": "https://open.spotify.com/artist/6nYkQZXt1BPbVrmd4vAXJZ"
+        }
+      ],
+      "duration_ms": 203303,
+      "name": "Chiquetere vs Rockstar Tribal Mix",
+      "url": "https://open.spotify.com/track/4vPRVHNmPf310sQRYJmSQO"
+    },
+    {
+      "added_at": "2024-03-08 06:00:00",
+      "album": {
+        "name": "vaMos",
+        "url": "https://open.spotify.com/album/4nrtKr0c1QbQDyr8llymgr"
+      },
+      "artists": [
+        {
+          "name": "Dj Rocka",
+          "url": "https://open.spotify.com/artist/6FZI89BrWDIRqUOW64CgNJ"
+        },
+        {
+          "name": "Dj Zetian",
+          "url": "https://open.spotify.com/artist/2Mf7rgGLrAbgnMqnANKnmy"
+        },
+        {
+          "name": "Dj Monst3r5",
+          "url": "https://open.spotify.com/artist/2DAs7dxh1jqGtGmK9DWeAe"
+        }
+      ],
+      "duration_ms": 171432,
+      "name": "vaMos",
+      "url": "https://open.spotify.com/track/4bgV7f02Yt2wIdKRVwVYSn"
     },
     {
       "added_at": "2024-03-08 06:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "Experience the powerful messages and sounds of the current hits and classic Gospel songs.  Cover: <a href=\"spotify:artist:5YxebzzreNswbtYC1td4cx\">Tasha Cobbs Leonard</a>",
-  "num_followers": 621310,
+  "num_followers": 621355,
   "original_name": "Spread the Gospel",
   "owner": {
     "name": "Spotify",
@@ -1343,6 +1343,26 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
+        "name": "One True Gospel",
+        "url": "https://open.spotify.com/album/1NkrJOPXOSTuRuUJ2RUY7z"
+      },
+      "artists": [
+        {
+          "name": "Bubby Fann",
+          "url": "https://open.spotify.com/artist/6FmlEqf0M3IFiorZyjUX8U"
+        },
+        {
+          "name": "Praise Beyond",
+          "url": "https://open.spotify.com/artist/09kRpFrA2rzmzo1udMADxs"
+        }
+      ],
+      "duration_ms": 370907,
+      "name": "One True Gospel",
+      "url": "https://open.spotify.com/track/4uBE9zsTXLWYtUuBCt3BSr"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
         "name": "Glory / Stranger",
         "url": "https://open.spotify.com/album/6Rq7AnztYvLhwCNebrR2XT"
       },
@@ -1363,26 +1383,6 @@
       "duration_ms": 210122,
       "name": "Glory / Stranger",
       "url": "https://open.spotify.com/track/1LfqzX9IZ9sosa60nG4byU"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
-        "name": "One True Gospel",
-        "url": "https://open.spotify.com/album/1NkrJOPXOSTuRuUJ2RUY7z"
-      },
-      "artists": [
-        {
-          "name": "Bubby Fann",
-          "url": "https://open.spotify.com/artist/6FmlEqf0M3IFiorZyjUX8U"
-        },
-        {
-          "name": "Praise Beyond",
-          "url": "https://open.spotify.com/artist/09kRpFrA2rzmzo1udMADxs"
-        }
-      ],
-      "duration_ms": 370907,
-      "name": "One True Gospel",
-      "url": "https://open.spotify.com/track/4uBE9zsTXLWYtUuBCt3BSr"
     },
     {
       "added_at": "2024-02-02 06:37:59",

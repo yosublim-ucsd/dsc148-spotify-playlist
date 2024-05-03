@@ -250,7 +250,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-02",
+      "date_removed": null,
       "duration_ms": 263126,
       "name": "1984 (Native)",
       "url": "https://open.spotify.com/track/3UIo3a6H48FKF0JmtDtrYE"
@@ -1186,7 +1186,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-30",
+      "date_removed": null,
       "duration_ms": 210218,
       "name": "All the Way",
       "url": "https://open.spotify.com/track/5Z6ZEZlVbXQyUaKicZZtFG"
@@ -2132,7 +2132,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 245920,
       "name": "Bad Enough",
       "url": "https://open.spotify.com/track/4M7leyVO3RWRqWeMyKO69L"
@@ -3386,7 +3386,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-29",
+      "date_removed": null,
       "duration_ms": 217893,
       "name": "Burn",
       "url": "https://open.spotify.com/track/0yN6WW3Icvw3847Xab21zt"
@@ -3928,7 +3928,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 320493,
       "name": "Carolina",
       "url": "https://open.spotify.com/track/3uX0hLfztbtbZOs88lhHyh"
@@ -3968,6 +3968,24 @@
       "duration_ms": 344600,
       "name": "Carolina (Live)",
       "url": "https://open.spotify.com/track/3GjLml3zhjUYluVFKKfXRE"
+    },
+    {
+      "album": {
+        "name": "The Native Sessions (Live from ATX)",
+        "url": "https://open.spotify.com/album/6Bnkf6pLIoR6k69HYodCjG"
+      },
+      "artists": [
+        {
+          "name": "NIGHT TRAVELER",
+          "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344600,
+      "name": "Carolina (Live)",
+      "url": "https://open.spotify.com/track/6ef58mr8YRgbLS3ZDyqG2n"
     },
     {
       "album": {
@@ -5876,7 +5894,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 241413,
       "name": "Dreams You Don't Forget (Live)",
       "url": "https://open.spotify.com/track/00IstdhGzkOzGZc1ybWFty"
@@ -7182,7 +7200,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-30",
+      "date_removed": null,
       "duration_ms": 169293,
       "name": "Feel Every Bit",
       "url": "https://open.spotify.com/track/41P0qqBtGdJUeGr85AnHot"
@@ -8012,7 +8030,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 200000,
       "name": "Freezing Blue",
       "url": "https://open.spotify.com/track/7xRBmiQpqZG3MDnHAbTAKh"
@@ -10376,7 +10394,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-25",
+      "date_removed": null,
       "duration_ms": 202000,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/3ACAmxuzuT9cyKTtCZ4WGn"
@@ -10902,7 +10920,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 210909,
       "name": "I've Been Missing You",
       "url": "https://open.spotify.com/track/6vdWx67Wz7DdXQjjBGanjH"
@@ -11960,7 +11978,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 226746,
       "name": "Keep Me Close",
       "url": "https://open.spotify.com/track/4iGXkFkUTl55yoVmvXJr8D"
@@ -12086,7 +12104,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 318666,
       "name": "Killer",
       "url": "https://open.spotify.com/track/30zEgiKpb4okXlh7HyORAn"
@@ -12400,7 +12418,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-29",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Late Night Radio",
       "url": "https://open.spotify.com/track/50VEjYVEuVfbhCpf2tAU9l"
@@ -12970,7 +12988,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 298628,
       "name": "Looking for Love",
       "url": "https://open.spotify.com/track/5UvcNAtYa3davlDx7FoHXG"
@@ -15010,7 +15028,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-30",
+      "date_removed": null,
       "duration_ms": 255200,
       "name": "Need Somebody",
       "url": "https://open.spotify.com/track/0Qj9HL6oSKjxP2U2vlIKFv"
@@ -15800,7 +15818,7 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-02",
+      "date_removed": null,
       "duration_ms": 206624,
       "name": "Notice",
       "url": "https://open.spotify.com/track/2l4RX5GHXaoJdKbRZkFji8"
@@ -17322,7 +17340,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 316733,
       "name": "Portland",
       "url": "https://open.spotify.com/track/1bm0PeowTV4ZvCdqHIwZcs"

@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 2443,
+  "2024-05-03": 2452,
   "date_first_scraped": "2023-12-09",
   "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Kaneee, Kohjiya, Yvng Patra",
   "name": "+81 Connect FRESH",
@@ -213,7 +213,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 165500,
       "name": "4 MY CULT",
       "url": "https://open.spotify.com/track/1fKeLutFtUHBleFW010cNp"
@@ -2474,6 +2474,28 @@
     },
     {
       "album": {
+        "name": "First Things First",
+        "url": "https://open.spotify.com/album/7EH9sCXWXIhRpwbL7UEdgu"
+      },
+      "artists": [
+        {
+          "name": "illrain",
+          "url": "https://open.spotify.com/artist/5hKqsv6CY9THdbxdhwTdIS"
+        },
+        {
+          "name": "ARuM",
+          "url": "https://open.spotify.com/artist/2W46oY5sDSCWXrZq8sljQx"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "First Things First",
+      "url": "https://open.spotify.com/track/75gwKkGmyfcZuQSO3t1h4T"
+    },
+    {
+      "album": {
         "name": "FIVESTAR",
         "url": "https://open.spotify.com/album/2HYoIDXWh8tOug8AypoIXi"
       },
@@ -3133,7 +3155,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 232350,
       "name": "GONG",
       "url": "https://open.spotify.com/track/1yXrDx1K5K8c9yaX9Dh73C"
@@ -3173,6 +3195,28 @@
       "duration_ms": 108382,
       "name": "GREED",
       "url": "https://open.spotify.com/track/3dE7eI6ZuzhXeJb3SJ6JBS"
+    },
+    {
+      "album": {
+        "name": "Greedy",
+        "url": "https://open.spotify.com/album/1OXZd1LjaWwOgM1Cv0Bsc9"
+      },
+      "artists": [
+        {
+          "name": "Loar",
+          "url": "https://open.spotify.com/artist/1x75eUguNz9MqxUp03iiPj"
+        },
+        {
+          "name": "Rommy Montana",
+          "url": "https://open.spotify.com/artist/6EeUJT7hjgVaVKk0ucsmLM"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140732,
+      "name": "Greedy",
+      "url": "https://open.spotify.com/track/4dBc8A0FixpmuDzE0eujtp"
     },
     {
       "album": {
@@ -3992,6 +4036,24 @@
     },
     {
       "album": {
+        "name": "JASON",
+        "url": "https://open.spotify.com/album/4Rr2Xjh1Qq5JnoTbMtivAZ"
+      },
+      "artists": [
+        {
+          "name": "Hezron",
+          "url": "https://open.spotify.com/artist/1f9ZbrwYAXYyFCf3PGDWfq"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148831,
+      "name": "JASON",
+      "url": "https://open.spotify.com/track/0Z1QwAiYkCnNsnTa214NU7"
+    },
+    {
+      "album": {
         "name": "Jerky",
         "url": "https://open.spotify.com/album/6zQpms0oM4KwVmhLvw6hRZ"
       },
@@ -4145,7 +4207,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 201398,
       "name": "Josetsusha!",
       "url": "https://open.spotify.com/track/5MCTIDVidknIGlI9atECh4"
@@ -5943,7 +6005,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 186181,
       "name": "Rarri",
       "url": "https://open.spotify.com/track/6tiguQlJ1ZYIfBFGPkJ0GL"
@@ -6553,6 +6615,24 @@
       "duration_ms": 172153,
       "name": "SHIBUSHO",
       "url": "https://open.spotify.com/track/5u2VnI3PrZfcxPYLDfxWwr"
+    },
+    {
+      "album": {
+        "name": "Shibuya",
+        "url": "https://open.spotify.com/album/1NsL5PKYTDjobVKxuSeMvc"
+      },
+      "artists": [
+        {
+          "name": "Linobu",
+          "url": "https://open.spotify.com/artist/2Wkn5p94WJzu4HoIF7jA1a"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125142,
+      "name": "Shibuya",
+      "url": "https://open.spotify.com/track/4Um8NyP5SrQIfDFeDd2pQ3"
     },
     {
       "album": {
@@ -8212,6 +8292,28 @@
     },
     {
       "album": {
+        "name": "\u30e4\u30d0\u3044\u306a",
+        "url": "https://open.spotify.com/album/4vOk4ViilWFM1MUCO94oU8"
+      },
+      "artists": [
+        {
+          "name": "Kaneee",
+          "url": "https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09"
+        },
+        {
+          "name": "Daichi Yamamoto",
+          "url": "https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149619,
+      "name": "\u30e4\u30d0\u3044\u306a",
+      "url": "https://open.spotify.com/track/1acXpvOjQiCDgEkPLPFupe"
+    },
+    {
+      "album": {
         "name": "\u4f55\u6642\u3060\u3063\u3066",
         "url": "https://open.spotify.com/album/5R4Rxi6a87Va4MMDsgxlyL"
       },
@@ -8366,6 +8468,24 @@
     },
     {
       "album": {
+        "name": "\u606f\u3092\u6bba\u3057\u3066",
+        "url": "https://open.spotify.com/album/0pc8wHvUetqmHMgwCQgqmz"
+      },
+      "artists": [
+        {
+          "name": "Albert Connor",
+          "url": "https://open.spotify.com/artist/6fTbznllQRT5HmxfZdiRlc"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144078,
+      "name": "\u606f\u3092\u6bba\u3057\u3066",
+      "url": "https://open.spotify.com/track/5h6WueMCPmruUVZcWLacxK"
+    },
+    {
+      "album": {
         "name": "\u65c5\u4eba",
         "url": "https://open.spotify.com/album/36naEtqDrEaNKKy8UScRQ0"
       },
@@ -8497,7 +8617,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 183232,
       "name": "\u7b2c\u6551\u6761",
       "url": "https://open.spotify.com/track/5sluiMnosRaynnGPuuI4ON"
@@ -8533,7 +8653,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 201538,
       "name": "\u8776\u8702",
       "url": "https://open.spotify.com/track/2ozaxzKYS3g4kN1tOWJB8p"
@@ -8630,6 +8750,28 @@
     },
     {
       "album": {
+        "name": "\u9ec4\u8272",
+        "url": "https://open.spotify.com/album/0TfaHWQ8E8hmEuVitvXE43"
+      },
+      "artists": [
+        {
+          "name": "Kay-on",
+          "url": "https://open.spotify.com/artist/2F81r2H2weMXa83CD2VD9H"
+        },
+        {
+          "name": "R-shitei",
+          "url": "https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192138,
+      "name": "\u9ec4\u8272",
+      "url": "https://open.spotify.com/track/7Lew3PsdlHJTsiYxIfkIL7"
+    },
+    {
+      "album": {
         "name": "DEPRESSION",
         "url": "https://open.spotify.com/album/5EdC14wRGONZubPxsFIK5C"
       },
@@ -8645,7 +8787,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 194988,
       "name": "\u9f3b\u30bb\u30ec\u30d6",
       "url": "https://open.spotify.com/track/1DfVsbZZ5hAuKrqKWF6Q3J"

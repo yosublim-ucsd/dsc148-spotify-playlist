@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 381474,
+  "2024-05-03": 381458,
   "date_first_scraped": "2023-08-09",
   "description": "Una selecci\u00f3n musical para los sentimientos tenues y taciturnos.",
   "name": "Melancol\u00eda Indie",
@@ -4305,7 +4305,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 208237,
       "name": "Into Black",
       "url": "https://open.spotify.com/track/5d8pKJxoDlYX2SoFR6RCsm"
@@ -4381,6 +4381,24 @@
       "duration_ms": 200563,
       "name": "It's All About You",
       "url": "https://open.spotify.com/track/4RfIfFS2D4E9tVjuHFlAJF"
+    },
+    {
+      "album": {
+        "name": "It's Not Just Me, It's Everybody",
+        "url": "https://open.spotify.com/album/0OFDZTYgwiuv7a4CZEVAsR"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376520,
+      "name": "It's Not Just Me, It's Everybody",
+      "url": "https://open.spotify.com/track/2OcLJRW0pTyYAxT43N5ccm"
     },
     {
       "album": {
@@ -7031,7 +7049,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-28",
+      "date_removed": null,
       "duration_ms": 153600,
       "name": "Seahorse",
       "url": "https://open.spotify.com/track/4ZKZcRKlWxRtQlocxtWVQu"
@@ -7067,7 +7085,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 230680,
       "name": "See Me",
       "url": "https://open.spotify.com/track/4akuE3uBD4t5HTXaAEm88t"

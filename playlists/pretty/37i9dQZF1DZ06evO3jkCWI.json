@@ -1,12 +1,12 @@
 {
   "description": "This Is Los Invasores De Nuevo Le\u00f3n. Los temas esenciales, todos en una lista.",
-  "num_followers": 159244,
+  "num_followers": 159308,
   "original_name": "This Is Los Invasores De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjA0gAAAAAAC0LXYGNkDJrdql5+YEtdG",
+  "snapshot_id": "ZjGGAAAAAAC5+Lg3j6WFlxMBGw1kRUK0",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta El Final",
-        "url": "https://open.spotify.com/album/3uJX93KsrS6PxobrPQfPc9"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 177626,
-      "name": "Moneda Sin Valor",
-      "url": "https://open.spotify.com/track/0s6eS6S8Dsr7VFdYUYo5Lu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sin Presumir",
         "url": "https://open.spotify.com/album/6wlLXm68UHg0WeTzY04BHi"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 135026,
       "name": "Qu\u00e9 M\u00e1s Quieres de M\u00ed",
       "url": "https://open.spotify.com/track/1tk8qoiqnM3rsg64xvpRlN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hasta El Final",
+        "url": "https://open.spotify.com/album/3uJX93KsrS6PxobrPQfPc9"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 177626,
+      "name": "Moneda Sin Valor",
+      "url": "https://open.spotify.com/track/0s6eS6S8Dsr7VFdYUYo5Lu"
     },
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Vida O Muerte",
-        "url": "https://open.spotify.com/album/1LNsca8XvZVZ0SzFlYuU5V"
+        "name": "21 Black Jack",
+        "url": "https://open.spotify.com/album/5ZyR9EAtVpj70b11dZYmNC"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 153733,
-      "name": "La Costumbre",
-      "url": "https://open.spotify.com/track/1lhPvRuwUY0BIgxx98cOL2"
+      "duration_ms": 191173,
+      "name": "A Ver Si Capea",
+      "url": "https://open.spotify.com/track/1seRvngYgRfDeCbIkJOMQK"
     },
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "21 Black Jack",
-        "url": "https://open.spotify.com/album/5ZyR9EAtVpj70b11dZYmNC"
+        "name": "De Vida O Muerte",
+        "url": "https://open.spotify.com/album/1LNsca8XvZVZ0SzFlYuU5V"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 191173,
-      "name": "A Ver Si Capea",
-      "url": "https://open.spotify.com/track/1seRvngYgRfDeCbIkJOMQK"
+      "duration_ms": 153733,
+      "name": "La Costumbre",
+      "url": "https://open.spotify.com/track/1lhPvRuwUY0BIgxx98cOL2"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Boleros De Oro",
-        "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 158893,
-      "name": "La Vieja Banca",
-      "url": "https://open.spotify.com/track/48sgC9LwPwCUBR4MpuVW0R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "20 Rancheras",
         "url": "https://open.spotify.com/album/0Sj2tO0uGkHE7EVasrPeIC"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 151333,
       "name": "Mi Flor De Naranjo",
       "url": "https://open.spotify.com/track/7ddmuD2oPlMXJHzgUQMnOf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "15 Boleros De Oro",
+        "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 158893,
+      "name": "La Vieja Banca",
+      "url": "https://open.spotify.com/track/48sgC9LwPwCUBR4MpuVW0R"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Boleros De Oro",
-        "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 140333,
-      "name": "Te Sorprend\u00ed Llorando",
-      "url": "https://open.spotify.com/track/4rqLedkzIcDNbSo8bnRGZY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos De Pegue",
         "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 193706,
       "name": "Lucio Pe\u00f1a",
       "url": "https://open.spotify.com/track/2szJfT5bYhIB0jdjsgpWNj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "15 Boleros De Oro",
+        "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 140333,
+      "name": "Te Sorprend\u00ed Llorando",
+      "url": "https://open.spotify.com/track/4rqLedkzIcDNbSo8bnRGZY"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Boleros De Oro",
-        "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 193133,
-      "name": "Qu\u00e9 Valor De Mujer",
-      "url": "https://open.spotify.com/track/4GT3fRkjpQO8uXEWe0A4oB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tiempo Al Tiempo",
         "url": "https://open.spotify.com/album/1LVdQN6LXJlhIxl2IeEcne"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 202733,
       "name": "Que Poca",
       "url": "https://open.spotify.com/track/4XKtNegKyGMCdgIdCxfcMQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "15 Boleros De Oro",
+        "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 193133,
+      "name": "Qu\u00e9 Valor De Mujer",
+      "url": "https://open.spotify.com/track/4GT3fRkjpQO8uXEWe0A4oB"
     },
     {
       "added_at": null,

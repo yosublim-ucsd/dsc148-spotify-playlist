@@ -1,12 +1,12 @@
 {
-  "description": "This Is The Doors. Los temas esenciales, todos en una lista.",
-  "num_followers": 647581,
+  "description": "This is The Doors. The essential tracks, all in one playlist.",
+  "num_followers": 647682,
   "original_name": "This Is The Doors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjA0gAAAAADbMkp85LynYrWclJxnoI2l",
+  "snapshot_id": "ZjGGAAAAAABa+zP/4ex834mF9Q2NARqt",
   "tracks": [
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 169533,
-      "name": "Love Street",
-      "url": "https://open.spotify.com/track/5Q2Im8o4RthlAMkvUMYwGj"
+      "duration_ms": 133200,
+      "name": "Hello, I Love You",
+      "url": "https://open.spotify.com/track/3bWGaqVeYKMlLss40mPgNn"
     },
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 133200,
-      "name": "Hello, I Love You",
-      "url": "https://open.spotify.com/track/3bWGaqVeYKMlLss40mPgNn"
+      "duration_ms": 169533,
+      "name": "Love Street",
+      "url": "https://open.spotify.com/track/5Q2Im8o4RthlAMkvUMYwGj"
     },
     {
       "added_at": null,

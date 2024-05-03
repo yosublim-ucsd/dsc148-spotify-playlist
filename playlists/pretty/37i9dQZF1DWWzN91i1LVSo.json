@@ -1,6 +1,6 @@
 {
   "description": "a fresh & mellow mix from some of today's best singer-songwriters. Cover: Bre Kennedy",
-  "num_followers": 123935,
+  "num_followers": 123929,
   "original_name": "Chill Singer-Songwriter",
   "owner": {
     "name": "Spotify",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
-        "name": "Learning",
-        "url": "https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG"
-      },
-      "artists": [
-        {
-          "name": "Debbii Dawson",
-          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
-        }
-      ],
-      "duration_ms": 136250,
-      "name": "Eulogy For Nobody",
-      "url": "https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
         "name": "Can't See Straight (Acoustic)",
         "url": "https://open.spotify.com/album/0FeiXtVLwH2i5Bes9MKeWj"
       },
@@ -691,6 +675,22 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
+        "name": "Learning",
+        "url": "https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG"
+      },
+      "artists": [
+        {
+          "name": "Debbii Dawson",
+          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
+        }
+      ],
+      "duration_ms": 136250,
+      "name": "Eulogy For Nobody",
+      "url": "https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
         "name": "No One's Gonna Love You (Stockholm Version)",
         "url": "https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY"
       },
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
-        "name": "Over the Moon",
-        "url": "https://open.spotify.com/album/3mYz8u9eL7mRUoyKSN2Oef"
-      },
-      "artists": [
-        {
-          "name": "Lily Meola",
-          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
-        }
-      ],
-      "duration_ms": 256980,
-      "name": "Over the Moon",
-      "url": "https://open.spotify.com/track/2JFSlL1Xsy2j7T5HdRCxpp"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
         "name": "last one standing",
         "url": "https://open.spotify.com/album/6Z9jGoHDJ1Uaw5PXK35AoV"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 150537,
       "name": "crutches",
       "url": "https://open.spotify.com/track/2uYrwng9hHkJzUSfA2DyEq"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
+        "name": "Over the Moon",
+        "url": "https://open.spotify.com/album/3mYz8u9eL7mRUoyKSN2Oef"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "duration_ms": 256980,
+      "name": "Over the Moon",
+      "url": "https://open.spotify.com/track/2JFSlL1Xsy2j7T5HdRCxpp"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/7Gw4m9PhmzpBp3MjKa6V4d"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 222650,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/7N1tjTxJe6k5wakOqpNbCj"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
         "name": "Music Box",
         "url": "https://open.spotify.com/album/3l3xNSj9nQGYJ4ZPXBWVmf"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 183209,
       "name": "Change of Mind - Acoustic",
       "url": "https://open.spotify.com/track/4yBAsLe5P3cEWOFmIeUaRb"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/7Gw4m9PhmzpBp3MjKa6V4d"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 222650,
-      "name": "Kaleidoscope",
-      "url": "https://open.spotify.com/track/7N1tjTxJe6k5wakOqpNbCj"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
-        "name": "Devil On My Shoulder",
-        "url": "https://open.spotify.com/album/1ZSDwevftMUQ8SqGx6clvZ"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Cutler",
-          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
-        }
-      ],
-      "duration_ms": 212493,
-      "name": "Devil On My Shoulder",
-      "url": "https://open.spotify.com/track/1jLUaPGjk5zwV9kXUt4Jt1"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
         "name": "Pull",
         "url": "https://open.spotify.com/album/0DlOrKbGDCl6Z20bvUyzVv"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 196615,
       "name": "Pull",
       "url": "https://open.spotify.com/track/6G2h2rRW81Bc7y2KNCmPiZ"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
+        "name": "Devil On My Shoulder",
+        "url": "https://open.spotify.com/album/1ZSDwevftMUQ8SqGx6clvZ"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "duration_ms": 212493,
+      "name": "Devil On My Shoulder",
+      "url": "https://open.spotify.com/track/1jLUaPGjk5zwV9kXUt4Jt1"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -1317,20 +1317,20 @@
       "url": "https://open.spotify.com/track/6FnCRa4EVBmzHaLxKKGsCb"
     },
     {
-      "added_at": "2024-02-23 16:54:41",
+      "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Open Your Heart",
-        "url": "https://open.spotify.com/album/6XRsffXJqRWhRjTrymXmw2"
+        "name": "Wienerschnitzel",
+        "url": "https://open.spotify.com/album/7FZN0h766incX3y7P8T8qi"
       },
       "artists": [
         {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+          "name": "slimdan",
+          "url": "https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu"
         }
       ],
-      "duration_ms": 224701,
-      "name": "Open Your Heart",
-      "url": "https://open.spotify.com/track/6TRJINYsux28IglskjOSRy"
+      "duration_ms": 176398,
+      "name": "Wienerschnitzel",
+      "url": "https://open.spotify.com/track/6lVrA85eMUpoQfPp9indBC"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
+        "name": "Open Your Heart",
+        "url": "https://open.spotify.com/album/6XRsffXJqRWhRjTrymXmw2"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 224701,
+      "name": "Open Your Heart",
+      "url": "https://open.spotify.com/track/6TRJINYsux28IglskjOSRy"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
         "name": "More Like You",
         "url": "https://open.spotify.com/album/2zX0uZRqO9wEG6Wq79T5jw"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 219720,
       "name": "More Like You",
       "url": "https://open.spotify.com/track/1UpFb9izAOYlcxWTOQzGf6"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Wienerschnitzel",
-        "url": "https://open.spotify.com/album/7FZN0h766incX3y7P8T8qi"
-      },
-      "artists": [
-        {
-          "name": "slimdan",
-          "url": "https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu"
-        }
-      ],
-      "duration_ms": 176398,
-      "name": "Wienerschnitzel",
-      "url": "https://open.spotify.com/track/6lVrA85eMUpoQfPp9indBC"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
-        "name": "In Plain Sight",
-        "url": "https://open.spotify.com/album/5ucZskRXstBtzif13kXYM0"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 156802,
-      "name": "In Plain Sight",
-      "url": "https://open.spotify.com/track/266v6l2hpwcRVrmMxNZkp4"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
         "name": "Things I Chose To Remember",
         "url": "https://open.spotify.com/album/1bxlSBesh71i89ZitdykUX"
       },
@@ -1431,18 +1415,18 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
-        "name": "fast forward",
-        "url": "https://open.spotify.com/album/0p5weycPUThEvVxrdyMNrs"
+        "name": "In Plain Sight",
+        "url": "https://open.spotify.com/album/5ucZskRXstBtzif13kXYM0"
       },
       "artists": [
         {
-          "name": "zachy",
-          "url": "https://open.spotify.com/artist/7MWQhu1TA9OE4Lps563bN4"
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
         }
       ],
-      "duration_ms": 127878,
-      "name": "fast forward",
-      "url": "https://open.spotify.com/track/046316TMJn8PQ3QD3WSBEf"
+      "duration_ms": 156802,
+      "name": "In Plain Sight",
+      "url": "https://open.spotify.com/track/266v6l2hpwcRVrmMxNZkp4"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -1459,6 +1443,22 @@
       "duration_ms": 92453,
       "name": "call me when you land",
       "url": "https://open.spotify.com/track/1jfH3q06PG0Jo0Lb0jD4lB"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
+        "name": "fast forward",
+        "url": "https://open.spotify.com/album/0p5weycPUThEvVxrdyMNrs"
+      },
+      "artists": [
+        {
+          "name": "zachy",
+          "url": "https://open.spotify.com/artist/7MWQhu1TA9OE4Lps563bN4"
+        }
+      ],
+      "duration_ms": 127878,
+      "name": "fast forward",
+      "url": "https://open.spotify.com/track/046316TMJn8PQ3QD3WSBEf"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
-        "name": "Halfway There",
-        "url": "https://open.spotify.com/album/5QUryCIUy22JuF9uaTDkFI"
+        "name": "The Things We Talk About",
+        "url": "https://open.spotify.com/album/0yacmHDg4T7bXiDtcf3Jlb"
       },
       "artists": [
         {
-          "name": "Kathleen Regan",
-          "url": "https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf"
+          "name": "Billianne",
+          "url": "https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC"
         }
       ],
-      "duration_ms": 194365,
-      "name": "Halfway There",
-      "url": "https://open.spotify.com/track/2DNtJvsZW8rM6PvR6pDx1s"
+      "duration_ms": 217727,
+      "name": "Waiting for this Love to Die",
+      "url": "https://open.spotify.com/track/34E2VmDjfqvmNayzDnBUBp"
     }
   ],
   "unique_name": "Chill Singer-Songwriter",

@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 215855,
+  "2024-05-03": 215939,
   "date_first_scraped": "2022-01-26",
   "description": "Fresh jazz by independent artists every Wednesday. Cover: CHERISE. Artwork: Joy Yamusangie.",
   "name": "Fresh Finds Jazz",
@@ -555,7 +555,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 200875,
       "name": "80 Summers",
       "url": "https://open.spotify.com/track/5gK9lwZXKT4H1r95OkZd9q"
@@ -2515,7 +2515,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 173133,
       "name": "Beautiful Dreamer",
       "url": "https://open.spotify.com/track/3NPzHaUQnWmoSU1cPjnZLT"
@@ -4449,7 +4449,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 501456,
       "name": "Chester",
       "url": "https://open.spotify.com/track/6his7KKdPVSHQ9aUU2v62m"
@@ -4719,7 +4719,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 408000,
       "name": "Cliff Dunes",
       "url": "https://open.spotify.com/track/1CuS7IbOOGvajoiK11lLMD"
@@ -5595,7 +5595,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 379456,
       "name": "D de Donaire",
       "url": "https://open.spotify.com/track/7oEoRFnE2Cm7bLGuk1YETN"
@@ -9355,7 +9355,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 159056,
       "name": "Garden View",
       "url": "https://open.spotify.com/track/5bkcJEtnUJeapsTXwo0S6z"
@@ -9585,7 +9585,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 317000,
       "name": "Glow",
       "url": "https://open.spotify.com/track/4sWb33DsxhA4nR0LGmLjs7"
@@ -9803,6 +9803,24 @@
       "duration_ms": 336533,
       "name": "Green Cocoa",
       "url": "https://open.spotify.com/track/1gp8Q3O5hyjHgvUwsiRN5r"
+    },
+    {
+      "album": {
+        "name": "Green Over Green",
+        "url": "https://open.spotify.com/album/6t5I097aK3agOjdPxdjest"
+      },
+      "artists": [
+        {
+          "name": "Milan93",
+          "url": "https://open.spotify.com/artist/5FPtZ4IXvHYp8MsjAevEWg"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211293,
+      "name": "Green Over Green",
+      "url": "https://open.spotify.com/track/6ipsnH3vLzLhRDJXKrp9j1"
     },
     {
       "album": {
@@ -10213,7 +10231,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 339132,
       "name": "Hello,,Dawn,Unknown",
       "url": "https://open.spotify.com/track/0Pa558A0T3tokMRruGEMIt"
@@ -10793,6 +10811,24 @@
       "duration_ms": 344506,
       "name": "I Promise",
       "url": "https://open.spotify.com/track/3ZdtrWDu1HzzkOahFCVfbe"
+    },
+    {
+      "album": {
+        "name": "I See Ghosts",
+        "url": "https://open.spotify.com/album/5Dx7r8Vth91TChvdt8DX8n"
+      },
+      "artists": [
+        {
+          "name": "Dizraeli",
+          "url": "https://open.spotify.com/artist/3xjNFu3aAWJie7LQzDoYNa"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226226,
+      "name": "I See Ghosts",
+      "url": "https://open.spotify.com/track/1zdwLnHyYQAvXEwd5LKnU8"
     },
     {
       "album": {
@@ -11477,6 +11513,24 @@
       "duration_ms": 330703,
       "name": "Indigenous",
       "url": "https://open.spotify.com/track/21Wq1u9enKeGnozpLji3hZ"
+    },
+    {
+      "album": {
+        "name": "From the Fire",
+        "url": "https://open.spotify.com/album/7ptQbHpvZEg0citdCX0OAK"
+      },
+      "artists": [
+        {
+          "name": "Audrey Powne",
+          "url": "https://open.spotify.com/artist/7haSdjsYwJxGe9suoweTLm"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354253,
+      "name": "Indigo",
+      "url": "https://open.spotify.com/track/2rhjVZhL4FhkireS5Vl5z3"
     },
     {
       "album": {
@@ -12969,7 +13023,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 168977,
       "name": "KOSMOCHOOJUWA",
       "url": "https://open.spotify.com/track/7Mre23VuQDkvaLxXRKcECe"
@@ -15375,7 +15429,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 254025,
       "name": "Millennial Blues",
       "url": "https://open.spotify.com/track/4cWadzVZdZ1Xuj1BLoMJJY"
@@ -15987,7 +16041,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 290519,
       "name": "Motion",
       "url": "https://open.spotify.com/track/3nOqSknOTK1xN0ZwxSu2tv"
@@ -16005,7 +16059,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 539133,
       "name": "Moving On",
       "url": "https://open.spotify.com/track/4jTOEKRSmjIzeB8uFI5d07"
@@ -16489,7 +16543,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 281708,
       "name": "Nguinya Mulema",
       "url": "https://open.spotify.com/track/3rjMaIg9VeSOjOCrzHyrm4"
@@ -18006,6 +18060,24 @@
     },
     {
       "album": {
+        "name": "Pandora",
+        "url": "https://open.spotify.com/album/3gAKkrKCi1tmDozOpVckVL"
+      },
+      "artists": [
+        {
+          "name": "Il Mago Del Gelato",
+          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211818,
+      "name": "Pandora",
+      "url": "https://open.spotify.com/track/0tR48664h2XserXZXARvf7"
+    },
+    {
+      "album": {
         "name": "Group Theory: Black Music",
         "url": "https://open.spotify.com/album/4bLUzO4dszMKwyzY4jXsXA"
       },
@@ -18279,6 +18351,24 @@
       "duration_ms": 206382,
       "name": "Peach",
       "url": "https://open.spotify.com/track/1RpPfo58S3aT99FQMAs7MY"
+    },
+    {
+      "album": {
+        "name": "peck",
+        "url": "https://open.spotify.com/album/2jE7FF1qfuF1zvsJJtdlUm"
+      },
+      "artists": [
+        {
+          "name": "oreglo",
+          "url": "https://open.spotify.com/artist/52ZhJRTVz14RYXJY9CTmkt"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228332,
+      "name": "peck - radio edit",
+      "url": "https://open.spotify.com/track/4JqTYxZpWO7l6U4NxpJ8Zi"
     },
     {
       "album": {
@@ -19359,7 +19449,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 243161,
       "name": "Ramble In The Rainbow",
       "url": "https://open.spotify.com/track/3WYs9M0Cn1h9D6bHlfBjYW"
@@ -19993,7 +20083,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 431293,
       "name": "Rising",
       "url": "https://open.spotify.com/track/7wf5JNpQcrsPTwN4h1lKCU"
@@ -23111,7 +23201,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 265239,
       "name": "Sunday In The Park",
       "url": "https://open.spotify.com/track/2lQ0Slml8MWZyTsWlKK2rh"

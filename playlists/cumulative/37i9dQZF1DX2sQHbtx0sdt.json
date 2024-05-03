@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-05",
-  "description": "New and trending hip-hop from around the world. Cover: Baby Gang",
+  "description": "New and trending hip-hop from around the world. Cover: Lithe",
   "name": "Global Hip-Hop",
   "tracks": [
     {
@@ -266,6 +266,28 @@
       "duration_ms": 240816,
       "name": "5xL",
       "url": "https://open.spotify.com/track/30UnJokpMXLsuUAiLyPG4Z"
+    },
+    {
+      "album": {
+        "name": "9x19/300BLK (with Pressure 9X19)",
+        "url": "https://open.spotify.com/album/427d3CxZHdeioa6SYe8iP7"
+      },
+      "artists": [
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        },
+        {
+          "name": "Pressure 9X19",
+          "url": "https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244957,
+      "name": "9x19/300BLK (with Pressure 9X19)",
+      "url": "https://open.spotify.com/track/3XbOduHVOK9fjsaPKmgzSV"
     },
     {
       "album": {
@@ -1056,7 +1078,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 139386,
       "name": "BINBO",
       "url": "https://open.spotify.com/track/5LCy0CEMxHKctk1HIQMvbJ"
@@ -2607,6 +2629,32 @@
     },
     {
       "album": {
+        "name": "Facetime",
+        "url": "https://open.spotify.com/album/6QjxDM65CxMIPYPSPIYc7Y"
+      },
+      "artists": [
+        {
+          "name": "Chani Nattan",
+          "url": "https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp"
+        },
+        {
+          "name": "Inderpal Moga",
+          "url": "https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN"
+        },
+        {
+          "name": "Miss Pooja",
+          "url": "https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144923,
+      "name": "Facetime",
+      "url": "https://open.spotify.com/track/0nyVkDUGF76hjC9vhTqyJY"
+    },
+    {
+      "album": {
         "name": "Fall Back / Selfish Game",
         "url": "https://open.spotify.com/album/2GHbc54y99znaPCsyzvLjR"
       },
@@ -3347,6 +3395,24 @@
     },
     {
       "album": {
+        "name": "Porque Puedo",
+        "url": "https://open.spotify.com/album/1yHXJzuDKUHwR0kM0oah82"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164776,
+      "name": "Heavyweight",
+      "url": "https://open.spotify.com/track/75GbllGszQynPdm2qj78Lu"
+    },
+    {
+      "album": {
         "name": "Hebs",
         "url": "https://open.spotify.com/album/0yNWGKvITLUfl9wufIjo4W"
       },
@@ -3610,7 +3676,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 149500,
       "name": "I Will",
       "url": "https://open.spotify.com/track/27sKtH0PZpASkN8H3ZJOQf"
@@ -3756,7 +3822,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 183106,
       "name": "J'fais plaisir \u00e0 la zone",
       "url": "https://open.spotify.com/track/64nnRXRBDbgDCVILmMqSeK"
@@ -4986,6 +5052,24 @@
       "duration_ms": 140733,
       "name": "Mood Swings",
       "url": "https://open.spotify.com/track/124nj3QzqpccVdLbiFHPeB"
+    },
+    {
+      "album": {
+        "name": "Motorola Money",
+        "url": "https://open.spotify.com/album/5mtguVYb0VQeR77Hix7bJG"
+      },
+      "artists": [
+        {
+          "name": "tg.blk",
+          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110738,
+      "name": "Motorola Money",
+      "url": "https://open.spotify.com/track/5r9N2Z8MjZf1kWjH8azEai"
     },
     {
       "album": {
@@ -6234,7 +6318,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 178480,
       "name": "Rio Grande",
       "url": "https://open.spotify.com/track/2mqYYL6mGOyvmyhfwk9zmi"
@@ -6436,7 +6520,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 210201,
       "name": "Say Goodbye 2.0 (feat. Motive & Yung Kafa & K\u00fcc\u00fck Efendi)",
       "url": "https://open.spotify.com/track/5bFz7S7cxnLMaNrdS11r37"
@@ -6745,6 +6829,28 @@
     },
     {
       "album": {
+        "name": "SPOT!",
+        "url": "https://open.spotify.com/album/3K3C9JjwCGQAzj3Bu7BUaI"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167706,
+      "name": "SPOT!",
+      "url": "https://open.spotify.com/track/1SS0WlKhJewviwEDZ6dWj0"
+    },
+    {
+      "album": {
         "name": "Sprinter",
         "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
       },
@@ -6822,7 +6928,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 153070,
       "name": "Supply & Demand",
       "url": "https://open.spotify.com/track/6kxQ5mO8YEIRLcIHJKWWcU"
@@ -6966,6 +7072,28 @@
       "duration_ms": 154500,
       "name": "Tea Over Henny",
       "url": "https://open.spotify.com/track/0HlvdfwfrZjL6KAkrIGKI4"
+    },
+    {
+      "album": {
+        "name": "Team Tomodachi (The Remixes)",
+        "url": "https://open.spotify.com/album/4hokL8rbdOwPYy5pkYhiem"
+      },
+      "artists": [
+        {
+          "name": "Yuki Chiba",
+          "url": "https://open.spotify.com/artist/6zOzMb66GICS4gVDtd1yvR"
+        },
+        {
+          "name": "Duke Deuce",
+          "url": "https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140238,
+      "name": "Team Tomodachi - Duke Deuce Remix",
+      "url": "https://open.spotify.com/track/4P5J8Vjjoa5iTCiZoQJARh"
     },
     {
       "album": {

@@ -2577,6 +2577,24 @@
     },
     {
       "album": {
+        "name": "Enfrente",
+        "url": "https://open.spotify.com/album/4CNy6VgZdz0YW4hKFWbKpa"
+      },
+      "artists": [
+        {
+          "name": "CPM 22",
+          "url": "https://open.spotify.com/artist/2Jw4Lrfjnyv2QsDoBgnrAP"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224477,
+      "name": "Enfrente",
+      "url": "https://open.spotify.com/track/3wmOTnWCQhf6URs91lxjFi"
+    },
+    {
+      "album": {
         "name": "Enquanto houver um tempo e um troco",
         "url": "https://open.spotify.com/album/2kSJgaX9BAuPjvUir1EbCJ"
       },
@@ -4881,6 +4899,24 @@
     },
     {
       "album": {
+        "name": "Nada de n\u00f3s dois",
+        "url": "https://open.spotify.com/album/3TvHK5dU5TQ7iywXf9EmHW"
+      },
+      "artists": [
+        {
+          "name": "Hevo 84",
+          "url": "https://open.spotify.com/artist/1WDHJzp45TMMfm9YxVPZTG"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201712,
+      "name": "Nada de n\u00f3s dois",
+      "url": "https://open.spotify.com/track/4Qaj8bQDsIUe621dwvh4K9"
+    },
+    {
+      "album": {
         "name": "Ao Vivo Em Paranava\u00ed",
         "url": "https://open.spotify.com/album/5nkSPHjYCHACWayk7NhYmd"
       },
@@ -5152,7 +5188,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 197413,
       "name": "Nossa Amizade",
       "url": "https://open.spotify.com/track/3OiDED20S9xhjGL0TZ6mb5"
@@ -6722,7 +6758,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 186666,
       "name": "Quintal de Ilus\u00f5es",
       "url": "https://open.spotify.com/track/1rtbQCSZnoqekCaYzFrgFT"
@@ -8236,10 +8272,28 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 200517,
       "name": "Um Drink no Inferno",
       "url": "https://open.spotify.com/track/1ZIL3n6FyzFWOz0fHb0SUu"
+    },
+    {
+      "album": {
+        "name": "Paulo Miklos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0HC3ob9uPttytd4XObdUdv"
+      },
+      "artists": [
+        {
+          "name": "Paulo Miklos",
+          "url": "https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195255,
+      "name": "Um Misto de Todas as Coisas - Ao Vivo",
+      "url": "https://open.spotify.com/track/14sAbxIENb9GRkguBkD40p"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 
 > The very best of the alternative rock scene\. New and recent favorites\. Cover: The Mysterines
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,589 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,595 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 75 | [Save Me](https://open.spotify.com/track/0T7qIJqGElHJzaGvvZ7t9z) | [Eliza & The Delusionals](https://open.spotify.com/artist/5XOV5b7cxUgB9PcoLBn69l) | [Save Me](https://open.spotify.com/album/2lBm3SmDXPY6ybRqXZjr2R) | 3:23 |
 | 76 | [Common Chaos](https://open.spotify.com/track/231wGywsY9is10w83qwrwC) | [IRONTOM](https://open.spotify.com/artist/4KY9rCrokaoFzvMfX98u1q) | [Common Chaos](https://open.spotify.com/album/7pzoanQ2Iwvk9FbJcqtKwo) | 2:51 |
 | 77 | [Eye For An Eye](https://open.spotify.com/track/7HWbp4lGZ3vsG4n0BRWiUt) | [Loose Lips](https://open.spotify.com/artist/0n5RkUf3LWm4kBn5i1OeND) | [Eye For An Eye](https://open.spotify.com/album/3REjMVpoGBmy5bh0cs8bKY) | 3:04 |
-| 78 | [City Is Taken](https://open.spotify.com/track/1qXito2dtA0Br1900gfR2z) | [BODEGA](https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5) | [Cultural Consumer III](https://open.spotify.com/album/1MGErYezO4pfiLNCnslNob) | 3:33 |
-| 79 | [Respecter](https://open.spotify.com/track/40mdIBvQMIVrUJv2oZMvNe) | [Taipei Houston](https://open.spotify.com/artist/1jnyf6lf0zcETB79xWnHF4) | [Once Bit Never Bored](https://open.spotify.com/album/5tPb1hNoIz58BWNrEmelY9) | 3:54 |
+| 78 | [Respecter](https://open.spotify.com/track/40mdIBvQMIVrUJv2oZMvNe) | [Taipei Houston](https://open.spotify.com/artist/1jnyf6lf0zcETB79xWnHF4) | [Once Bit Never Bored](https://open.spotify.com/album/5tPb1hNoIz58BWNrEmelY9) | 3:54 |
+| 79 | [City Is Taken](https://open.spotify.com/track/1qXito2dtA0Br1900gfR2z) | [BODEGA](https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5) | [Cultural Consumer III](https://open.spotify.com/album/1MGErYezO4pfiLNCnslNob) | 3:33 |
 | 80 | [Chewing Glass](https://open.spotify.com/track/4uQeaos1wK3UDNtlYasgys) | [James and the Cold Gun](https://open.spotify.com/artist/5YFIVhzlaYH9Yadjw9gSUx) | [Chewing Glass](https://open.spotify.com/album/3X5tZI8clJZkaQFkR4ICsv) | 3:01 |
 | 81 | [Head First](https://open.spotify.com/track/24Wc1dCou67Mgn0vi5LK5z) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Head First](https://open.spotify.com/album/5Au7ooskCj2MPG0VTnDfV7) | 3:32 |
 | 82 | [Torpedo](https://open.spotify.com/track/5y7IIUePVxDXk0dkPv9Sf5) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Torpedo](https://open.spotify.com/album/45FNVeKY799LKTNL4SmaGx) | 3:44 |

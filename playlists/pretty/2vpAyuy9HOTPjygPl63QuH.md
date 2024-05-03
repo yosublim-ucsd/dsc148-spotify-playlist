@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house &amp; techno music \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 10,115 likes - 43 songs - 2 hr 14 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 10,135 likes - 54 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,5 +51,16 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 41 | [Bling Bling](https://open.spotify.com/track/28A80M5fuAmM45KhIhkfSb) | [Kapuzen](https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN) | [Bling Bling](https://open.spotify.com/album/6jEOSx9MvT9fsgmNluB0Tm) | 2:04 |
 | 42 | [Where Did You Go](https://open.spotify.com/track/5G7l7Ixdx85zX5lOgowD47) | [Davani](https://open.spotify.com/artist/4VNjcNqE8auPGUDqUw3USz) | [Where Did You Go](https://open.spotify.com/album/58XMJ5Ok20dBlDNcIP9YWE) | 4:03 |
 | 43 | [BAMBAERA](https://open.spotify.com/track/7ziZXtKZ1zSoLnpUKOtcrv) | [MIZAK](https://open.spotify.com/artist/3jDPRJm3fQLCP9BHvt04k7) | [BAMBAERA](https://open.spotify.com/album/6kd3IvfLFn6xFAoYV23ZA9) | 3:16 |
+| 44 | [Lights Out](https://open.spotify.com/track/4oR6yz2BTLjJzMtAkOORJR) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Lights Out](https://open.spotify.com/album/3J3PqlFWWo5MN30DHPwOzB) | 3:38 |
+| 45 | [PUSH!](https://open.spotify.com/track/0lfvI1YN8LKHQip6kOh1U1) | [BURNR](https://open.spotify.com/artist/7bi8ABpXgK2DpE5nRaWdZ5) | [PUSH!](https://open.spotify.com/album/6izfTXXLAxUwPFHnUQgRTP) | 3:03 |
+| 46 | [Low](https://open.spotify.com/track/3PwhytWfZi2IFkL2EltgKf) | [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a), [JKATZ](https://open.spotify.com/artist/30tRnXvnAGLdXFTVond1S7) | [Low](https://open.spotify.com/album/2Zu0jZHHt8xYws9Ct96qci) | 2:58 |
+| 47 | [Heard About Me](https://open.spotify.com/track/03o5rOWq2f6gFWjKGH6yFZ) | [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0) | [Heard About Me](https://open.spotify.com/album/6GNkxyXSRpfzRzOCN27Gi5) | 3:03 |
+| 48 | [On Again](https://open.spotify.com/track/5vASuVQkngtFoCOczem52V) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [On Again](https://open.spotify.com/album/7nvs25pVNGNgouWAm1Kb86) | 3:48 |
+| 49 | [Sippin' Yak \- Morgan Seatree Remix](https://open.spotify.com/track/4E3klPai3AIiVkpkUuut63) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Morgan Seatree](https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh) | [Sippin' Yak \(Morgan Seatree Remix\)](https://open.spotify.com/album/38UUAqsrWCiqKgoSKjGNME) | 2:19 |
+| 50 | [Delusion](https://open.spotify.com/track/0GHIX92gSuhxlQXAJ3MTiV) | [George Z](https://open.spotify.com/artist/5IewgFvCqYIYpf660mYVqo), [AMC](https://open.spotify.com/artist/1f2wJCif8ETiI7Ogv3G8kv) | [Delusion](https://open.spotify.com/album/1hyaFCbuevWkrFZ5S0437P) | 2:56 |
+| 51 | [Miss Honey](https://open.spotify.com/track/2dMaxY5owSC7WJcbLnh2ob) | [Galo](https://open.spotify.com/artist/4v0KJDTlY8yFHSZAFmMj3L) | [Miss Honey](https://open.spotify.com/album/5MyUBoWxaP0AkkKTOerx2r) | 4:18 |
+| 52 | [Bell Hoppa](https://open.spotify.com/track/3ZCgx0fzTZQuGHYdpnTnh7) | [Zack Darza](https://open.spotify.com/artist/1lTlUGVbQ7f7NQ5vHeg6xm) | [Bell Hoppa](https://open.spotify.com/album/0CCMb4oGSFcRlSWgS7TA7M) | 3:19 |
+| 53 | [Never Refuse](https://open.spotify.com/track/2Mvbmu1UM6GENmebxkZeXH) | [NuKey](https://open.spotify.com/artist/2tmve58Sh3f0WZN76W30x3) | [Never Refuse](https://open.spotify.com/album/3PJzJBbRIh33MhdnDW9phd) | 2:41 |
+| 54 | [Vibrate \- Radio Edit](https://open.spotify.com/track/3zRw5GB5LI83tWPrPkr5TF) | [Josh Kalker](https://open.spotify.com/artist/7n0DQFWxlcRBMF5TbW80MF) | [Vibrate](https://open.spotify.com/album/6OQP11NTR6y4pGHz0Lqcdc) | 3:26 |
 
-Snapshot ID: `AAAh9KTUzu480l9mscLaJAm/1KgBpqvE`
+Snapshot ID: `AAAh/4mVZmGun4cOmB/sg9HPEqk8vsmo`

@@ -21863,6 +21863,32 @@
     },
     {
       "album": {
+        "name": "Pushpa Pushpa (From \"Pushpa 2 The Rule\") [KANNADA]",
+        "url": "https://open.spotify.com/album/5r3CYnvwlkcdUJ7noko7w8"
+      },
+      "artists": [
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Varadaraj Chikkaballapura",
+          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256018,
+      "name": "Pushpa Pushpa (From \"Pushpa 2 The Rule\") [KANNADA]",
+      "url": "https://open.spotify.com/track/6RkQfVg0kZts7v5cPikfSn"
+    },
+    {
+      "album": {
         "name": "Pushpa Pushpa (From \"Vedha\")",
         "url": "https://open.spotify.com/album/74woB4U6hp1oY2LNKr9cdp"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Get your kids singing along with this fun playlist! They're sure to know these kid-friendly classics.",
-  "num_followers": 382938,
+  "num_followers": 382988,
   "original_name": "Sing Along",
   "owner": {
     "name": "Spotify",
@@ -619,26 +619,18 @@
     {
       "added_at": "2022-07-25 13:31:43",
       "album": {
-        "name": "Frozen (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/67qORPwmXFeB8AR6wD9XHX"
+        "name": "Cocomelon Kids Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/2a2nYyaG1motO7PVwMA0wE"
       },
       "artists": [
         {
-          "name": "Kristen Bell",
-          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
-        },
-        {
-          "name": "Agatha Lee Monn",
-          "url": "https://open.spotify.com/artist/6kHu5ICQRBZdsAHjAjQlmp"
-        },
-        {
-          "name": "Katie Lopez",
-          "url": "https://open.spotify.com/artist/5Kkhk21siwbW3BfZUwpykJ"
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
-      "duration_ms": 206506,
-      "name": "Do You Want To Build A Snowman?",
-      "url": "https://open.spotify.com/track/6Oiyl1qV9r2rbWsD6pCMLt"
+      "duration_ms": 129762,
+      "name": "Itsy Bitsy Spider",
+      "url": "https://open.spotify.com/track/4l9Rzfhif755mKMZi0D7SN"
     },
     {
       "added_at": "2022-07-25 13:31:43",
@@ -707,6 +699,30 @@
     {
       "added_at": "2022-07-25 13:31:43",
       "album": {
+        "name": "Frozen (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/67qORPwmXFeB8AR6wD9XHX"
+      },
+      "artists": [
+        {
+          "name": "Kristen Bell",
+          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
+        },
+        {
+          "name": "Agatha Lee Monn",
+          "url": "https://open.spotify.com/artist/6kHu5ICQRBZdsAHjAjQlmp"
+        },
+        {
+          "name": "Katie Lopez",
+          "url": "https://open.spotify.com/artist/5Kkhk21siwbW3BfZUwpykJ"
+        }
+      ],
+      "duration_ms": 206506,
+      "name": "Do You Want To Build A Snowman?",
+      "url": "https://open.spotify.com/track/6Oiyl1qV9r2rbWsD6pCMLt"
+    },
+    {
+      "added_at": "2022-07-25 13:31:43",
+      "album": {
         "name": "Blippi Tunes, Vol. 1",
         "url": "https://open.spotify.com/album/2Q6P6UWGxdZxsUZZgzikmJ"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 75028,
       "name": "ABC's",
       "url": "https://open.spotify.com/track/1HVy2hV1wg27NB6LCVBxPi"
-    },
-    {
-      "added_at": "2022-07-25 13:31:43",
-      "album": {
-        "name": "Cocomelon Kids Hits, Vol. 1",
-        "url": "https://open.spotify.com/album/2a2nYyaG1motO7PVwMA0wE"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 129762,
-      "name": "Itsy Bitsy Spider",
-      "url": "https://open.spotify.com/track/4l9Rzfhif755mKMZi0D7SN"
     },
     {
       "added_at": "2022-07-25 13:31:43",

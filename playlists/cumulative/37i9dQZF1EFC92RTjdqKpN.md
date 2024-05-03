@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-173 songs - 9 hr 26 min
+174 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Between You & Me](https://open.spotify.com/track/1WWbIgfKb32V0lTu63sFEt) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Betty](https://open.spotify.com/album/1HZ53O7uBXyyYCaD7jY8I6) | 3:15 | 2024-02-27 |  |
 | [Bitter](https://open.spotify.com/track/6ZjCRZdl4KgePxwpkZ3Y8d) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Cherry Blossom](https://open.spotify.com/album/3fshReYna7OJ7cl3Rn8h2W) | 2:57 | 2024-02-27 |  |
 | [blah blah blah](https://open.spotify.com/track/14DUyQybUWcWgZAxmVnWUJ) | [Reiley](https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8) | [blah blah blah](https://open.spotify.com/album/26Bub5fNcLKdDVgfRAlEei) | 2:37 | 2024-02-27 |  |
-| [Blink](https://open.spotify.com/track/7u67nRNyab7vOith2vFFQ4) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Real Love](https://open.spotify.com/album/1YhcpiP7LF8VOdrqowhui4) | 3:15 | 2024-02-27 |  |
+| [Blink](https://open.spotify.com/track/5HDZMVzjLIZ4Vqonax2qEK) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Real Love](https://open.spotify.com/album/0poYRqxEk5KDZREbJXv3lL) | 3:15 | 2024-05-02 |  |
+| [Blink](https://open.spotify.com/track/7u67nRNyab7vOith2vFFQ4) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Real Love](https://open.spotify.com/album/1YhcpiP7LF8VOdrqowhui4) | 3:15 | 2024-02-27 | 2024-05-03 |
 | [Body On Me ft\. Chris Brown](https://open.spotify.com/track/1Bjpfvw2dhivyludgB0fyt) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Body On Me ft\. Chris Brown](https://open.spotify.com/album/4FJK77Oqgnuaz8MMMeJE3f) | 3:45 | 2024-02-27 |  |
 | [Bread and Butter](https://open.spotify.com/track/0LqUfE92cErfQ5pzGvpYa2) | [Jordan McGraw](https://open.spotify.com/artist/29wdR87Jh14i39ruPMMXYx) | [Jordan McGraw](https://open.spotify.com/album/5qhVf2cU941gVM5unOUPLj) | 2:45 | 2024-02-27 |  |
 | [Burn](https://open.spotify.com/track/1yvIUHWMU3UM8StH7I0Tlq) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Burn](https://open.spotify.com/album/6iAUobi1fcxy60buZZBiqK) | 2:19 | 2024-02-27 |  |

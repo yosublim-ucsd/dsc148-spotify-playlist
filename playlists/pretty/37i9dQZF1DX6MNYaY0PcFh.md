@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,885 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,916 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 53 | [Baby Sweet](https://open.spotify.com/track/5jgD38CwcAkTzJOqvQYH42) | [intouch](https://open.spotify.com/artist/3Ikgdt3VgIO7o76F1SBnkR) | [Baby Sweet](https://open.spotify.com/album/6qb0k3YKuLker2JeKL7iZG) | 2:53 |
 | 54 | [Henney & Coke](https://open.spotify.com/track/4GhHZmuz8WBif4eoHExyxi) | [Deadly Habitz](https://open.spotify.com/artist/5E0HN7sUup8JieEBZyO1sy) | [Lost City Archives, Vol\. 7](https://open.spotify.com/album/6lJ2oCvaXjbDRKrY1ZBSZp) | 4:05 |
 | 55 | [Free Ur Mind](https://open.spotify.com/track/5pIwVJad2bBODwo9wTP37U) | [ENiGMA Dubz](https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Mixtape 2: \#Vibes](https://open.spotify.com/album/2T7Xk2YrswY4ZrcBvQPYJc) | 2:45 |
-| 56 | [Closer \- Demuja Remix](https://open.spotify.com/track/24zUiEtz0CVKe47Om9BJLA) | [Mood II Swing](https://open.spotify.com/artist/1ioarahrQVnmKor7JmN5Av), [Carole Sylvan](https://open.spotify.com/artist/3mNSkNn2TgentVDRuoS729), [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1) | [Closer \(Demuja Remix\)](https://open.spotify.com/album/2l9XlXUuy5Et0t4rHiAbEo) | 3:56 |
-| 57 | [I Could \- Open Up Mix](https://open.spotify.com/track/4BDfygrHURRAI5EK3RxDqu) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [One Night, One Time](https://open.spotify.com/album/50dOkOrN2iLEaWBdGR0Osc) | 4:34 |
+| 56 | [I Could \- Open Up Mix](https://open.spotify.com/track/4BDfygrHURRAI5EK3RxDqu) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [One Night, One Time](https://open.spotify.com/album/50dOkOrN2iLEaWBdGR0Osc) | 4:34 |
+| 57 | [Closer \- Demuja Remix](https://open.spotify.com/track/24zUiEtz0CVKe47Om9BJLA) | [Mood II Swing](https://open.spotify.com/artist/1ioarahrQVnmKor7JmN5Av), [Carole Sylvan](https://open.spotify.com/artist/3mNSkNn2TgentVDRuoS729), [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1) | [Closer \(Demuja Remix\)](https://open.spotify.com/album/2l9XlXUuy5Et0t4rHiAbEo) | 3:56 |
 | 58 | [Pressure](https://open.spotify.com/track/15UU4ZRs2H51EerpEoGhZ7) | [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [Pressure](https://open.spotify.com/album/1BfBUqYMPQF0N3GGM5QJEU) | 2:37 |
 | 59 | [Friday Nights](https://open.spotify.com/track/4QQsSlu26MlInYyO9jXusj) | [EV](https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX) | [Friday Nights](https://open.spotify.com/album/0NhGRpBH1IEt6BQ69QSFDZ) | 3:25 |
 | 60 | [Liquor By The Litre \(feat\. P Money & Laurena Volanté\) \[Murder He Wrote Remix\]](https://open.spotify.com/track/5ljicPY5xrI5f80r9MEWXM) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Murder He Wrote](https://open.spotify.com/artist/4n11sJzNp7JjBQw9sDze9Z), [Laurena Volanté](https://open.spotify.com/artist/7KI4ye1U84lYhq78qm1hCu) | [Liquor By The Litre \(feat\. P Money & Laurena Volanté\) \[Murder He Wrote Remix\]](https://open.spotify.com/album/3KEZEvcyPrKBj423pUPLYl) | 3:26 |

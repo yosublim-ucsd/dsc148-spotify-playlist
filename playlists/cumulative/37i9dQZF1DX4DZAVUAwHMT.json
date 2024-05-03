@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: The Mysterines",
+  "description": "The UK's biggest rock playlist. Cover: The Last Dinner Party",
   "name": "The Rock List",
   "tracks": [
     {
@@ -128,6 +128,24 @@
       "duration_ms": 165282,
       "name": "21ST CENTURY BITCH",
       "url": "https://open.spotify.com/track/6b4gtrHODf0L93GxIKEotN"
+    },
+    {
+      "album": {
+        "name": "21st Century Suffragette",
+        "url": "https://open.spotify.com/album/2C2ISiaMskaxrMTnAQUd1z"
+      },
+      "artists": [
+        {
+          "name": "GIRLBAND!",
+          "url": "https://open.spotify.com/artist/3QSwq9CQMjqe01RtbKqz0F"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146651,
+      "name": "21st Century Suffragette",
+      "url": "https://open.spotify.com/track/1g2T1BUfAh6U7aOioCiRIX"
     },
     {
       "album": {
@@ -434,7 +452,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 123293,
       "name": "Abyss - from Kaiju No. 8",
       "url": "https://open.spotify.com/track/2kLWSmKHhfUBepkIA9oNe5"
@@ -1934,6 +1952,32 @@
       "duration_ms": 246029,
       "name": "Circles",
       "url": "https://open.spotify.com/track/2Wr5ZcuK4MXLZu49rl2djK"
+    },
+    {
+      "album": {
+        "name": "City Lights",
+        "url": "https://open.spotify.com/album/02BmWPTStBXitd8WJkbWQA"
+      },
+      "artists": [
+        {
+          "name": "The WAEVE",
+          "url": "https://open.spotify.com/artist/20QMfH6fgt9vssg2s5xww6"
+        },
+        {
+          "name": "Graham Coxon",
+          "url": "https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC"
+        },
+        {
+          "name": "Rose Elinor Dougall",
+          "url": "https://open.spotify.com/artist/6T1GNMxXuljv0C0ZRR60CC"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260133,
+      "name": "City Lights",
+      "url": "https://open.spotify.com/track/0EeqdkR4Wec3YlSaupYv6X"
     },
     {
       "album": {
@@ -3706,7 +3750,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 186466,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/5HuLnaRoHZTcgu2GMAbLGJ"
@@ -4767,6 +4811,24 @@
     },
     {
       "album": {
+        "name": "Undefeated",
+        "url": "https://open.spotify.com/album/5htcBxqWfEWaZ7CCETXcH9"
+      },
+      "artists": [
+        {
+          "name": "Frank Turner",
+          "url": "https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145973,
+      "name": "International Hide and Seek Champions",
+      "url": "https://open.spotify.com/track/7brqlMfN4OHSCFPqWLpk4d"
+    },
+    {
+      "album": {
         "name": "Into the Trap",
         "url": "https://open.spotify.com/album/43ZIULcetVrO3ieqLnrjoE"
       },
@@ -4836,6 +4898,24 @@
       "duration_ms": 207808,
       "name": "It Won't Be Like This Forever",
       "url": "https://open.spotify.com/track/748NBl59GV0pfENbadjSxE"
+    },
+    {
+      "album": {
+        "name": "It's Supposed To Hurt",
+        "url": "https://open.spotify.com/album/0dc1Zy69cvE8jnt1apdrLE"
+      },
+      "artists": [
+        {
+          "name": "House of Protection",
+          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212086,
+      "name": "It's Supposed To Hurt",
+      "url": "https://open.spotify.com/track/0nPWNzcryh5oyJA5uZaepT"
     },
     {
       "album": {
@@ -5046,6 +5126,24 @@
       "duration_ms": 140560,
       "name": "Kamikaze (feat. Jason Williamson)",
       "url": "https://open.spotify.com/track/3GIfxO4nC66ctxemNbsnja"
+    },
+    {
+      "album": {
+        "name": "kill the girl",
+        "url": "https://open.spotify.com/album/6POWvEgFWeIkFq35tMWUpH"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150235,
+      "name": "kill the girl",
+      "url": "https://open.spotify.com/track/5z5Tph3uXkhy9CWANGbv7h"
     },
     {
       "album": {
@@ -5959,6 +6057,24 @@
     },
     {
       "album": {
+        "name": "Metaverse",
+        "url": "https://open.spotify.com/album/6Ae0axgHydUkFfR4IIs8Up"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134373,
+      "name": "Metaverse",
+      "url": "https://open.spotify.com/track/56awJyqhhuQW0p0bu1yTCo"
+    },
+    {
+      "album": {
         "name": "Midas",
         "url": "https://open.spotify.com/album/09kwvU6IzvXzqZhmIqjT2R"
       },
@@ -6402,7 +6518,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 194443,
       "name": "Not Like The Rest",
       "url": "https://open.spotify.com/track/4KwYHGWMQelyzc6a5RXP4a"
@@ -7212,7 +7328,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 169065,
       "name": "poser",
       "url": "https://open.spotify.com/track/4gBuBzYl2X0j38iKbo02Rl"
@@ -8618,7 +8734,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 198640,
       "name": "Strut",
       "url": "https://open.spotify.com/track/3X1pxBnEv3yyD4XfAWYugU"
@@ -8726,7 +8842,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 145732,
       "name": "Sugar Sandwich",
       "url": "https://open.spotify.com/track/0YjWw115kqMWebWvXKC7is"

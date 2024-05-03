@@ -476,7 +476,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 206145,
       "name": "All Alone",
       "url": "https://open.spotify.com/track/0OX8m4MzzXlra5JQ9jTqi8"
@@ -3987,6 +3987,24 @@
     },
     {
       "album": {
+        "name": "Feeling Good (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/6YQtpgkFSYr9sF8fTsHbMs"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239299,
+      "name": "Feeling Good - triple j Like A Version",
+      "url": "https://open.spotify.com/track/4kY3cAWzzKVn3ZmYfOOJul"
+    },
+    {
+      "album": {
         "name": "Fine Brown Frame",
         "url": "https://open.spotify.com/album/6nPUg45JLv3xKxAXVfeD6B"
       },
@@ -6232,7 +6250,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 177214,
       "name": "If I Didn't Care",
       "url": "https://open.spotify.com/track/3wZWkqbqKCyJwBYv35Pyh6"
@@ -6330,6 +6348,24 @@
       "duration_ms": 288080,
       "name": "If You Believe",
       "url": "https://open.spotify.com/track/35KUEip7Py2OYvw4j9YyzD"
+    },
+    {
+      "album": {
+        "name": "If You Could See Me Now",
+        "url": "https://open.spotify.com/album/5uHXt2UHrUqoq8KpEG0Gqu"
+      },
+      "artists": [
+        {
+          "name": "Zara McFarlane",
+          "url": "https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340644,
+      "name": "If You Could See Me Now",
+      "url": "https://open.spotify.com/track/6C5hPfo53PLkPRB4wfFGdv"
     },
     {
       "album": {
@@ -7946,7 +7982,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 285602,
       "name": "Lonely House",
       "url": "https://open.spotify.com/track/39htlA0YRdydszy3Hnhjrt"
@@ -10889,6 +10925,40 @@
     },
     {
       "album": {
+        "name": "Shadows",
+        "url": "https://open.spotify.com/album/4NUNwTCIUQjNwK53HhhZqg"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Joe Dyson",
+          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
+        },
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        },
+        {
+          "name": "Jonathan Michel",
+          "url": "https://open.spotify.com/artist/2G2WfpJo95sdb8Djp7xzd8"
+        },
+        {
+          "name": "Sean Mason",
+          "url": "https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189267,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/1MyPG6X9Keh9Nx3U9ynegk"
+    },
+    {
+      "album": {
         "name": "Show Me The Way To Go Home",
         "url": "https://open.spotify.com/album/3TB8tp42bL60PNtMsWuhGM"
       },
@@ -11234,6 +11304,24 @@
       "duration_ms": 299714,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/4bARvqqbSKzJxChDEPyTZf"
+    },
+    {
+      "album": {
+        "name": "Summer Me, Winter Me (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0Kra5Q1eSEG9RKBfeaVtId"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273711,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/1DM6Y08ZEwciBCfM9DuGck"
     },
     {
       "album": {
@@ -11860,7 +11948,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 305581,
       "name": "Summer Me, Winter Me",
       "url": "https://open.spotify.com/track/4Kx1kfAPsEM6Mw2cow70ez"
@@ -12378,7 +12466,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 133868,
       "name": "That's All",
       "url": "https://open.spotify.com/track/3itB2xTfBKKuYFMXCNPRuq"
@@ -14756,6 +14844,24 @@
       "duration_ms": 283377,
       "name": "Willow Weep For Me",
       "url": "https://open.spotify.com/track/4VO3tcKdrr7xiyu7bGZGyo"
+    },
+    {
+      "album": {
+        "name": "Without A Chance",
+        "url": "https://open.spotify.com/album/2xlJC2yi53Z84z817kJjRZ"
+      },
+      "artists": [
+        {
+          "name": "Hayley Sales",
+          "url": "https://open.spotify.com/artist/5aWJMTxBqrjjDPryNDNfMb"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228840,
+      "name": "Without A Chance",
+      "url": "https://open.spotify.com/track/0VUEGVGAi8GaHRCkxBM4ww"
     },
     {
       "album": {

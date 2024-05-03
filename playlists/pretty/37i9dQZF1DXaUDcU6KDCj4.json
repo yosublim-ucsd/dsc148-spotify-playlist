@@ -1,13 +1,265 @@
 {
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Iron & Wine",
-  "num_followers": 790203,
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Jessica Pratt ",
+  "num_followers": 790308,
   "original_name": "Fresh Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZismwAAAAAAO2XcqATcpQt6MWBvxEKxk",
+  "snapshot_id": "ZjRhQAAAAAAbokft6JPk28hyFDBncXAd",
   "tracks": [
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "The Last Year",
+        "url": "https://open.spotify.com/album/0c576Mju3GRgkxR4YcUmtT"
+      },
+      "artists": [
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+        }
+      ],
+      "duration_ms": 215466,
+      "name": "The Last Year",
+      "url": "https://open.spotify.com/track/2gs4GCStX8lwS8XIrrv63g"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Risk",
+        "url": "https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 191566,
+      "name": "Risk",
+      "url": "https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "No Boat No Aeroplane",
+        "url": "https://open.spotify.com/album/3yk8qLTSEPhdfKQVQCMFXd"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 312464,
+      "name": "No Boat No Aeroplane",
+      "url": "https://open.spotify.com/track/3VwB0Pt5DczMEIzSaao8yH"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Too Much Of A Good Thing",
+        "url": "https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 171618,
+      "name": "Too Much Of A Good Thing",
+      "url": "https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Anyways, I Love You",
+        "url": "https://open.spotify.com/album/5w70Zf3CLvt9irzZl000s8"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "duration_ms": 226400,
+      "name": "Anyways, I Love You",
+      "url": "https://open.spotify.com/track/7lJr8BW2zK9hQph3e0TJ9s"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "God Needs The Devil",
+        "url": "https://open.spotify.com/album/6m9iHuaCahIjbToXBybxnl"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 192133,
+      "name": "God Needs The Devil",
+      "url": "https://open.spotify.com/track/3nEotpBFeXq0OJstuHzwDP"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Soul's a Camera",
+        "url": "https://open.spotify.com/album/5hYcHA3o1lPUBmq5s5ulFf"
+      },
+      "artists": [
+        {
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+        }
+      ],
+      "duration_ms": 203133,
+      "name": "Soul's a Camera",
+      "url": "https://open.spotify.com/track/46Bmi3ALpKbKSI9AzRRg2b"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Scared of the Dark",
+        "url": "https://open.spotify.com/album/5ZbN2Qdtckm45fbMUCBHsK"
+      },
+      "artists": [
+        {
+          "name": "Colby Acuff",
+          "url": "https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC"
+        }
+      ],
+      "duration_ms": 210951,
+      "name": "Scared of the Dark",
+      "url": "https://open.spotify.com/track/2YJAJWHMixHd9XAV5kI9ZM"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "What Lovers Do",
+        "url": "https://open.spotify.com/album/1CuyyyV12THOAVoBAKiRTM"
+      },
+      "artists": [
+        {
+          "name": "Billy Raffoul",
+          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
+        },
+        {
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+        }
+      ],
+      "duration_ms": 126407,
+      "name": "What Lovers Do",
+      "url": "https://open.spotify.com/track/2RYn22DOInD8RwPE41xEuV"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Back For The Funeral",
+        "url": "https://open.spotify.com/album/0XgBUadqi7WXDReJAetsCX"
+      },
+      "artists": [
+        {
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+        }
+      ],
+      "duration_ms": 192701,
+      "name": "Back For The Funeral",
+      "url": "https://open.spotify.com/track/3YIQtNLONCMhdVHAz4axNK"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Conversation Starter",
+        "url": "https://open.spotify.com/album/0RAUOFUaAMhzRgtMcoUGEC"
+      },
+      "artists": [
+        {
+          "name": "Odie Leigh",
+          "url": "https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU"
+        }
+      ],
+      "duration_ms": 169939,
+      "name": "Conversation Starter",
+      "url": "https://open.spotify.com/track/17KBwzyuzwyGbPath94zzX"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Warning Streets",
+        "url": "https://open.spotify.com/album/6580C3gXlJYMI6ISa7t110"
+      },
+      "artists": [
+        {
+          "name": "Caiola",
+          "url": "https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV"
+        },
+        {
+          "name": "Barney Cortez",
+          "url": "https://open.spotify.com/artist/4wKwoVNNPlgxD8JP1P66IA"
+        }
+      ],
+      "duration_ms": 225378,
+      "name": "Warning Streets",
+      "url": "https://open.spotify.com/track/2uZGgqvTLdAYRVCbQuP9Gj"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "I'll Find A Way (To Carry It All)",
+        "url": "https://open.spotify.com/album/4wSsREguKiYzErGexb5NBz"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "duration_ms": 261786,
+      "name": "I'll Find A Way (To Carry It All)",
+      "url": "https://open.spotify.com/track/4WP2lTksH5pxmm8uPqpG3d"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Afraid",
+        "url": "https://open.spotify.com/album/5XEB2cwnwp8SFSmHgql9yV"
+      },
+      "artists": [
+        {
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+        }
+      ],
+      "duration_ms": 244322,
+      "name": "Afraid",
+      "url": "https://open.spotify.com/track/6EWVIxPbH2i5sdzYkAvpp6"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "The Witch",
+        "url": "https://open.spotify.com/album/1tawEN40gmanTIG2QaN3BC"
+      },
+      "artists": [
+        {
+          "name": "Kaia Kater",
+          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
+        },
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "duration_ms": 205956,
+      "name": "The Witch",
+      "url": "https://open.spotify.com/track/1SdFf1MOh8F3bQ1zSxWgw6"
+    },
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
@@ -2259,246 +2511,6 @@
       "duration_ms": 155000,
       "name": "Sierra Vista",
       "url": "https://open.spotify.com/track/14P8LhjbdysoOL12T5gAOe"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Deeper Well",
-        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 177293,
-      "name": "The Architect",
-      "url": "https://open.spotify.com/track/78SjYKRXdivtTDHBzaehnm"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 182282,
-      "name": "Coyote, My Little Brother - Spotify Singles",
-      "url": "https://open.spotify.com/track/63K1QJkBcXG0qvipbEIqY0"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "You Lucky One",
-        "url": "https://open.spotify.com/album/6y56Tcg6amPU1fPnf4ndbF"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        }
-      ],
-      "duration_ms": 294851,
-      "name": "You Lucky One",
-      "url": "https://open.spotify.com/track/4hLJcpz3p66r7HkpmpE43l"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "365",
-        "url": "https://open.spotify.com/album/66IzG6BBgOOTIwyTGZlIcU"
-      },
-      "artists": [
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 187440,
-      "name": "365",
-      "url": "https://open.spotify.com/track/1QCkXXmlsduoitdYRT9HD6"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Rare Disease",
-        "url": "https://open.spotify.com/album/4P2NQ1wYESDt51NGx9ZbW2"
-      },
-      "artists": [
-        {
-          "name": "Anna Bates",
-          "url": "https://open.spotify.com/artist/4JLqUtfyFvInfcLILCOIJx"
-        }
-      ],
-      "duration_ms": 152971,
-      "name": "Rare Disease",
-      "url": "https://open.spotify.com/track/677s1ukItuq66rf0yiQ1Hw"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Sister Moon",
-        "url": "https://open.spotify.com/album/24xlNlPvcR1JLo72OImkAK"
-      },
-      "artists": [
-        {
-          "name": "Andrea von Kampen",
-          "url": "https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY"
-        }
-      ],
-      "duration_ms": 180866,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/4jEqacaM4TBSlYVp68e214"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Paperweight",
-        "url": "https://open.spotify.com/album/2bONWaTmE30VRymaDGMdca"
-      },
-      "artists": [
-        {
-          "name": "The Secret Sisters",
-          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
-        }
-      ],
-      "duration_ms": 194233,
-      "name": "Paperweight",
-      "url": "https://open.spotify.com/track/3meqXVybYf6CCIeH312Efn"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Knowing U Exist",
-        "url": "https://open.spotify.com/album/50e9zfmHABJ6zaAK8HcIZm"
-      },
-      "artists": [
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 143223,
-      "name": "Knowing U Exist",
-      "url": "https://open.spotify.com/track/2d8kfISfGgiksl9Bl8kEXH"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Dead Set",
-        "url": "https://open.spotify.com/album/43iMtHxInmUT7KitV9wS3j"
-      },
-      "artists": [
-        {
-          "name": "Max McNown",
-          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
-        }
-      ],
-      "duration_ms": 168156,
-      "name": "Dead Set",
-      "url": "https://open.spotify.com/track/6I3wMXAzckUMLsBKeTOuCE"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Half-Life",
-        "url": "https://open.spotify.com/album/3iZvq1kYywbEi0Nc9W4IJ0"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 193520,
-      "name": "Half-Life",
-      "url": "https://open.spotify.com/track/5McAjCZNHeAo4Tw7oW7c4e"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Worst Case Scenario",
-        "url": "https://open.spotify.com/album/5IDMf5wH24WxyNRZmGL02o"
-      },
-      "artists": [
-        {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
-        }
-      ],
-      "duration_ms": 206699,
-      "name": "Worst Case Scenario",
-      "url": "https://open.spotify.com/track/6FYzRAZxBYuKTGWMmLVi6I"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 153850,
-      "name": "Buffalo Replaced - Spotify Singles",
-      "url": "https://open.spotify.com/track/2Io4hOyIeXESirgQWXMlDB"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Andrew",
-        "url": "https://open.spotify.com/album/303DcpyTMUuP6Nv4sopaRv"
-      },
-      "artists": [
-        {
-          "name": "Ben Platt",
-          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
-        }
-      ],
-      "duration_ms": 240107,
-      "name": "Andrew",
-      "url": "https://open.spotify.com/track/0tjVLOoRskePkqXGyP43Y5"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "little me",
-        "url": "https://open.spotify.com/album/6bBQRzc5Tdky59N3hquGQm"
-      },
-      "artists": [
-        {
-          "name": "Maddie Zahm",
-          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "little me",
-      "url": "https://open.spotify.com/track/6I7ll3WgE3HkiszO7r0Cwy"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Deeper Well",
-        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 191413,
-      "name": "Sway",
-      "url": "https://open.spotify.com/track/6f2unaaUhIqTkbHsWMbGcm"
     }
   ],
   "unique_name": "Fresh Folk",

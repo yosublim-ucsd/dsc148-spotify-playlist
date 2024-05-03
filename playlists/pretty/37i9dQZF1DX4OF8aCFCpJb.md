@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 
 > Det bästa från den svenska reggaescenen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,918 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,923 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 46 | [Pirret](https://open.spotify.com/track/5ign6ygkGPmRsfJiRnU84g) | [Antonio D](https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG) | [Pirret](https://open.spotify.com/album/5zvIrBTquTxatX4YerGuzM) | 4:20 |
 | 47 | [Kär Och Galen](https://open.spotify.com/track/07F0ahK3fL9OMp6rDFAU6q) | [Jezper](https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF) | [Kär Och Galen](https://open.spotify.com/album/6yzMLFDLgqVkH488i7X2UN) | 3:21 |
 | 48 | [Orginalo](https://open.spotify.com/track/5EsssUXKQWbRPSZ7M1i9kN) | [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY) | [Orginalo](https://open.spotify.com/album/0a1g53YRYvik2nmVEKqBZq) | 3:06 |
-| 49 | [Amazing](https://open.spotify.com/track/1eYbcnHmpUc9VHV9kxz7Ft) | [Robinholta](https://open.spotify.com/artist/0xsZpPENdV56KIViR6yFDc) | [Amazing](https://open.spotify.com/album/6yxiQgMgZThmXBz2iaQFtP) | 2:20 |
-| 50 | [Brandman](https://open.spotify.com/track/1CFhm4s7I9zgEEAGuHHDme) | [Angelica Mava](https://open.spotify.com/artist/3DI6xghRL08MvjfQ5M73Zk) | [Brandman](https://open.spotify.com/album/5hiLVs9YzZJEukAAgq9p3f) | 3:56 |
+| 49 | [Brandman](https://open.spotify.com/track/1CFhm4s7I9zgEEAGuHHDme) | [Angelica Mava](https://open.spotify.com/artist/3DI6xghRL08MvjfQ5M73Zk) | [Brandman](https://open.spotify.com/album/5hiLVs9YzZJEukAAgq9p3f) | 3:56 |
+| 50 | [Amazing](https://open.spotify.com/track/1eYbcnHmpUc9VHV9kxz7Ft) | [Robinholta](https://open.spotify.com/artist/0xsZpPENdV56KIViR6yFDc) | [Amazing](https://open.spotify.com/album/6yxiQgMgZThmXBz2iaQFtP) | 2:20 |
 
 Snapshot ID: `ZepG8AAAAACu3e0GhIlQWJiHT308UV0B`

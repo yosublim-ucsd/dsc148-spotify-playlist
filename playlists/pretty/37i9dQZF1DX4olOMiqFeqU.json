@@ -1,6 +1,6 @@
 {
   "description": "100% Pinoy hits from your favorite artists! Cover: Sarah Geronimo",
-  "num_followers": 2370940,
+  "num_followers": 2371282,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-04-17 05:50:07",
       "album": {
-        "name": "panaginip",
-        "url": "https://open.spotify.com/album/1nDqiuWaIdg3553bRee5bA"
-      },
-      "artists": [
-        {
-          "name": "iluna",
-          "url": "https://open.spotify.com/artist/1CFjJMSXKmctvTXBA6uQkE"
-        }
-      ],
-      "duration_ms": 332406,
-      "name": "panaginip",
-      "url": "https://open.spotify.com/track/1AuxZd50Dpaz0cCWphYryh"
-    },
-    {
-      "added_at": "2024-04-17 05:50:07",
-      "album": {
         "name": "Sila",
         "url": "https://open.spotify.com/album/0qwujayb77utSpftsXjdP3"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 326000,
       "name": "Sila",
       "url": "https://open.spotify.com/track/2IMODbij0lZ5CuAjZi0IDE"
+    },
+    {
+      "added_at": "2024-04-17 05:50:07",
+      "album": {
+        "name": "panaginip",
+        "url": "https://open.spotify.com/album/1nDqiuWaIdg3553bRee5bA"
+      },
+      "artists": [
+        {
+          "name": "iluna",
+          "url": "https://open.spotify.com/artist/1CFjJMSXKmctvTXBA6uQkE"
+        }
+      ],
+      "duration_ms": 332406,
+      "name": "panaginip",
+      "url": "https://open.spotify.com/track/1AuxZd50Dpaz0cCWphYryh"
     },
     {
       "added_at": "2024-04-17 05:50:07",

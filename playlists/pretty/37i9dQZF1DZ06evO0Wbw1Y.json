@@ -1,12 +1,12 @@
 {
-  "description": "This Is Ventino. Los temas esenciales, todos en una lista.",
-  "num_followers": 28496,
+  "description": "This is Ventino. The essential tracks, all in one playlist.",
+  "num_followers": 28499,
   "original_name": "This Is Ventino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjA0gAAAAADUWWOsFlDdKOXMsTCOcyJz",
+  "snapshot_id": "ZjGGAAAAAAByqDP/egM3yUHFvBfnGISW",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Variar",
-        "url": "https://open.spotify.com/album/6T4lNaOLKBbWGjg65ZaXtw"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 179084,
-      "name": "Para Variar",
-      "url": "https://open.spotify.com/track/4bJ4ysT06LxZ7utoLnqHA0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Andan Diciendo",
         "url": "https://open.spotify.com/album/4QnRBgWvHDjy8i1buxbHxh"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 221345,
       "name": "Andan Diciendo",
       "url": "https://open.spotify.com/track/0wt2PeQ8AeBlx6WbgoM97r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para Variar",
+        "url": "https://open.spotify.com/album/6T4lNaOLKBbWGjg65ZaXtw"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 179084,
+      "name": "Para Variar",
+      "url": "https://open.spotify.com/track/4bJ4ysT06LxZ7utoLnqHA0"
     },
     {
       "added_at": null,
@@ -279,74 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cu\u00e1nto Me Duele",
-        "url": "https://open.spotify.com/album/2JptMMyCWEp3DlNRdVYKwo"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 233755,
-      "name": "Cu\u00e1nto Me Duele",
-      "url": "https://open.spotify.com/track/2sqYGwxcC33aD3rh35hlOK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ventino: El Precio De La Gloria (Banda Sonora Original De La Serie De Televisi\u00f3n)",
-        "url": "https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        },
-        {
-          "name": "Caracol Televisi\u00f3n",
-          "url": "https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm"
-        }
-      ],
-      "duration_ms": 154475,
-      "name": "Besos En La Herida - Banda Sonora Original De La Serie De Televisi\u00f3n",
-      "url": "https://open.spotify.com/track/5QI8Y9bkk1xse08JUDueuQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ya Te Perdon\u00e9",
-        "url": "https://open.spotify.com/album/77Q8ibYOEtlkhMeS33xatG"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 221848,
-      "name": "Ya Te Perdon\u00e9",
-      "url": "https://open.spotify.com/track/17J2patkIezB1LxcBbDpDl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ventino",
-        "url": "https://open.spotify.com/album/4pAoxsmYFDVqf8jWBihOKz"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 208468,
-      "name": "Apaga Y V\u00e1monos",
-      "url": "https://open.spotify.com/track/0sZmIHELeJT1lp6Hli4C3P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inevitables",
         "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
       },
@@ -376,15 +308,15 @@
           "url": "https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm"
         }
       ],
-      "duration_ms": 143737,
-      "name": "Qu\u00e9 F\u00e1cil - Banda Sonora Original De La Serie De Televisi\u00f3n",
-      "url": "https://open.spotify.com/track/0C53fChbzpahAVM3rg46wM"
+      "duration_ms": 154475,
+      "name": "Besos En La Herida - Banda Sonora Original De La Serie De Televisi\u00f3n",
+      "url": "https://open.spotify.com/track/5QI8Y9bkk1xse08JUDueuQ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Otra Noche",
-        "url": "https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27"
+        "name": "Cu\u00e1nto Me Duele",
+        "url": "https://open.spotify.com/album/2JptMMyCWEp3DlNRdVYKwo"
       },
       "artists": [
         {
@@ -392,9 +324,77 @@
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 218656,
-      "name": "Prometo Olvidarte",
-      "url": "https://open.spotify.com/track/5ONHx9f5hz0N0sAa5GCanh"
+      "duration_ms": 233755,
+      "name": "Cu\u00e1nto Me Duele",
+      "url": "https://open.spotify.com/track/2sqYGwxcC33aD3rh35hlOK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ventino",
+        "url": "https://open.spotify.com/album/4pAoxsmYFDVqf8jWBihOKz"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 208468,
+      "name": "Apaga Y V\u00e1monos",
+      "url": "https://open.spotify.com/track/0sZmIHELeJT1lp6Hli4C3P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ya Te Perdon\u00e9",
+        "url": "https://open.spotify.com/album/77Q8ibYOEtlkhMeS33xatG"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 221848,
+      "name": "Ya Te Perdon\u00e9",
+      "url": "https://open.spotify.com/track/17J2patkIezB1LxcBbDpDl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ventino: El Precio De La Gloria (Banda Sonora Original De La Serie De Televisi\u00f3n)",
+        "url": "https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        },
+        {
+          "name": "Caracol Televisi\u00f3n",
+          "url": "https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm"
+        }
+      ],
+      "duration_ms": 143737,
+      "name": "Qu\u00e9 F\u00e1cil - Banda Sonora Original De La Serie De Televisi\u00f3n",
+      "url": "https://open.spotify.com/track/0C53fChbzpahAVM3rg46wM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inevitables",
+        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 179311,
+      "name": "Dos Tequilas",
+      "url": "https://open.spotify.com/track/0orovNGEQw3Uufl1aLV62j"
     },
     {
       "added_at": null,
@@ -415,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inevitables",
-        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
+        "name": "Otra Noche",
+        "url": "https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 150356,
-      "name": "Mi\u00e9nteme",
-      "url": "https://open.spotify.com/track/0k7bgW9dTHoQTuR3YfJ5h0"
+      "duration_ms": 218656,
+      "name": "Prometo Olvidarte",
+      "url": "https://open.spotify.com/track/5ONHx9f5hz0N0sAa5GCanh"
     },
     {
       "added_at": null,
@@ -451,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fr\u00edo",
-        "url": "https://open.spotify.com/album/52fZOIMpznnGr5pwXm2aMA"
+        "name": "Inevitables",
+        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
       },
       "artists": [
         {
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 170253,
-      "name": "Fr\u00edo",
-      "url": "https://open.spotify.com/track/1p9vRub1lRUQDdFNxzJfCu"
+      "duration_ms": 150356,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/0k7bgW9dTHoQTuR3YfJ5h0"
     },
     {
       "added_at": null,
@@ -483,8 +483,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inevitables",
-        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
+        "name": "Fr\u00edo",
+        "url": "https://open.spotify.com/album/52fZOIMpznnGr5pwXm2aMA"
       },
       "artists": [
         {
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 179311,
-      "name": "Dos Tequilas",
-      "url": "https://open.spotify.com/track/0orovNGEQw3Uufl1aLV62j"
+      "duration_ms": 170253,
+      "name": "Fr\u00edo",
+      "url": "https://open.spotify.com/track/1p9vRub1lRUQDdFNxzJfCu"
     },
     {
       "added_at": null,
@@ -519,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Dejo Entrar",
-        "url": "https://open.spotify.com/album/7Il8qjMFGj4QT1XLih4Qcp"
+        "name": "Inevitables",
+        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
       },
       "artists": [
         {
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 192845,
-      "name": "Te Dejo Entrar",
-      "url": "https://open.spotify.com/track/39ME7Co4Z5ETWFhAGBqMhh"
+      "duration_ms": 151893,
+      "name": "El Problema",
+      "url": "https://open.spotify.com/track/3L68zrHCPFrVtVOmQg1SKR"
     },
     {
       "added_at": null,
@@ -547,6 +547,22 @@
       "duration_ms": 177057,
       "name": "Yo Te Quiero M\u00e1s",
       "url": "https://open.spotify.com/track/69WQFSP8koVnREo2xapcnZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Dejo Entrar",
+        "url": "https://open.spotify.com/album/7Il8qjMFGj4QT1XLih4Qcp"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 192845,
+      "name": "Te Dejo Entrar",
+      "url": "https://open.spotify.com/track/39ME7Co4Z5ETWFhAGBqMhh"
     },
     {
       "added_at": null,
@@ -578,27 +594,15 @@
         {
           "name": "Ventino",
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 151893,
-      "name": "El Problema",
-      "url": "https://open.spotify.com/track/3L68zrHCPFrVtVOmQg1SKR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Se Me Ve Tan Mal (NSMVTM)",
-        "url": "https://open.spotify.com/album/4ID82VAEREMMsWImgAF5zZ"
-      },
-      "artists": [
+        },
         {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+          "name": "Sr Pablo",
+          "url": "https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq"
         }
       ],
-      "duration_ms": 165473,
-      "name": "No Se Me Ve Tan Mal (NSMVTM)",
-      "url": "https://open.spotify.com/track/1y8K3PNIaUOq8dZah76jl5"
+      "duration_ms": 167606,
+      "name": "Contracorriente",
+      "url": "https://open.spotify.com/track/5ze6uwfM4IziOIspbBmN3N"
     },
     {
       "added_at": null,
@@ -623,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Combustible",
-        "url": "https://open.spotify.com/album/1zNoHpkZ3BCvkW1LJfTONC"
+        "name": "No Se Me Ve Tan Mal (NSMVTM)",
+        "url": "https://open.spotify.com/album/4ID82VAEREMMsWImgAF5zZ"
       },
       "artists": [
         {
@@ -632,29 +636,9 @@
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 166805,
-      "name": "Combustible",
-      "url": "https://open.spotify.com/track/7B887UeJFfm4uZrWHdVLx2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Inevitables",
-        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        },
-        {
-          "name": "Sr Pablo",
-          "url": "https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq"
-        }
-      ],
-      "duration_ms": 167606,
-      "name": "Contracorriente",
-      "url": "https://open.spotify.com/track/5ze6uwfM4IziOIspbBmN3N"
+      "duration_ms": 165473,
+      "name": "No Se Me Ve Tan Mal (NSMVTM)",
+      "url": "https://open.spotify.com/track/1y8K3PNIaUOq8dZah76jl5"
     },
     {
       "added_at": null,
@@ -675,6 +659,22 @@
       "duration_ms": 216709,
       "name": "Don Juan",
       "url": "https://open.spotify.com/track/3rlzrcfNvBwVKmRT2PM85c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inevitables",
+        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 166805,
+      "name": "Combustible",
+      "url": "https://open.spotify.com/track/1wb2CvisZL74qpzVbY31M0"
     },
     {
       "added_at": null,

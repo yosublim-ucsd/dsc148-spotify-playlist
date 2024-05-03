@@ -4,7 +4,7 @@
 
 > Un poco de esto, un poco de lo otro.
 
-97 songs - 5 hr 42 min
+99 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Fiel \- House Remix](https://open.spotify.com/track/4BGlE1u1ptkteX1sxQCzSA) | [Guille Preda](https://open.spotify.com/artist/7KXLbxjmLRmsWAal7N4HnJ), [Benja Murano](https://open.spotify.com/artist/60iQQCqxRxnfGVn7O0ijl4) | [Clubbin' Vol.1 \(House Remix\)](https://open.spotify.com/album/06zabyw045BqqS9MSfl8oL) | 3:48 | 2023-11-29 | 2024-03-29 |
 | [Fuck el Police \- Remix](https://open.spotify.com/track/2v5gBze24GL5nWbZgvaEAk) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi) | [Fuck el Police \(Remix\)](https://open.spotify.com/album/3CHiQzPxbqvfkkm2QM3BlM) | 4:21 | 2023-11-29 |  |
 | [Fuletón](https://open.spotify.com/track/7hSuuBdqAYoH4P3PNDYN71) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [4X4](https://open.spotify.com/album/0APgiKpmc3KQf638E2cG29) | 2:45 | 2023-11-29 |  |
-| [Gata Only \- Techengue](https://open.spotify.com/track/0E6vWWwX6Hg6T67KbHBW13) | [ThomyDomé](https://open.spotify.com/artist/5qqUYMzxKlvDnSgAMIePLd) | [Gata Only \(Techengue\)](https://open.spotify.com/album/1jyrigpkwzXAdy4IuThiKQ) | 2:15 | 2024-03-28 |  |
+| [Gata Only \- J.PATRON Remix](https://open.spotify.com/track/5EYZeP0HXssaa3tvfTiKxf) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris MJ](https://open.spotify.com/artist/73Zc3IZtfAoO8EgWWMALaP), [J.Patron](https://open.spotify.com/artist/4KIR9I8szkZCxEw9Ncdmdo) | [Gata Only \(J.PATRON Remix\)](https://open.spotify.com/album/49WGsbEmxU7zzRua0qa5wT) | 3:54 | 2024-05-03 |  |
+| [Gata Only \- Techengue](https://open.spotify.com/track/0E6vWWwX6Hg6T67KbHBW13) | [ThomyDomé](https://open.spotify.com/artist/5qqUYMzxKlvDnSgAMIePLd) | [Gata Only \(Techengue\)](https://open.spotify.com/album/1jyrigpkwzXAdy4IuThiKQ) | 2:15 | 2024-03-28 | 2024-05-03 |
 | [GTA.mp3](https://open.spotify.com/track/3bRWGhpeNUkJfFydelSwBk) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [GTA.mp3](https://open.spotify.com/album/7AVLk5G6gJXtgqaUJDKyF2) | 2:31 | 2023-11-29 |  |
 | [hARAkiRi \- ZECCA Remix](https://open.spotify.com/track/4a0hluoQQqJyyq7o6wviQ2) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [ZECCA](https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA) | [hARAkiRi](https://open.spotify.com/album/6VuH8ZmkPPEElUaQKpU373) | 3:06 | 2023-11-29 |  |
 | [Hecha pa mi\-\(House\)](https://open.spotify.com/track/22Xjt0DLl0EghF9cFClEK2) | [Matideckerdj](https://open.spotify.com/artist/5MitgCjpWz3CWPnjNNuenW), [Nico Rosevear](https://open.spotify.com/artist/26MmkX8y0qDkxJOWa9hmPt) | [Hecha pa mi\-\(House\)](https://open.spotify.com/album/7pHKasAft1ml3JJ35Ba9WD) | 2:58 | 2023-11-29 |  |
@@ -84,6 +85,7 @@
 | [Parcera](https://open.spotify.com/track/56oomeTRgamzypt6iObrvA) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Parcera](https://open.spotify.com/album/1zli9BhqCmdNUeLXd2JFQm) | 2:32 | 2023-11-29 |  |
 | [Pepas \- Tiësto Remix](https://open.spotify.com/track/1bFgMkoazsyZGSflpCzYm6) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Pepas \(Tiësto Remix\)](https://open.spotify.com/album/5Auj1vFNdvZDtyV0rqfVIQ) | 3:43 | 2023-11-29 |  |
 | [PROVENZA \- REMIX](https://open.spotify.com/track/7DmP5W2DbhXC7uKYbYXtIm) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 3:07 | 2023-11-29 |  |
+| [PROVENZA \- Sistek Remix](https://open.spotify.com/track/2SYfJeselsgIJ1yK0NgCto) | [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA \(Sistek Remix\)](https://open.spotify.com/album/2pbds46rDlZp6BjwcOi7vl) | 3:48 | 2024-05-03 |  |
 | [Puesto Pa Ella](https://open.spotify.com/track/4heJPU1pSWjYLPrWbAT4zW) | [Conrado](https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e), [ThomyDomé](https://open.spotify.com/artist/5qqUYMzxKlvDnSgAMIePLd), [Tomi Reig](https://open.spotify.com/artist/3WVT8Ru2pGghiLHCYBDtmY) | [Plan Tech](https://open.spotify.com/album/0OuINqJYAV1NRLK870kbSW) | 3:04 | 2024-03-01 |  |
 | [Punto G \- House Remix](https://open.spotify.com/track/6U3ctIALaOd2GPRlAqbxOn) | [SANTI VIVOT](https://open.spotify.com/artist/4OyA3f3rSUhFEIKFeWFZuk), [Santi Dome](https://open.spotify.com/artist/62ysFsCfzsF4LLRmOphXhM) | [Punto G \(House Remix\)](https://open.spotify.com/album/2lbodYej2auVKBpIzpA4J5) | 2:11 | 2023-11-29 |  |
 | [Quédate \- Tiësto Remix](https://open.spotify.com/track/79wDq3jpGu0yew1ngQpAAi) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Quédate \(Tiësto Remix\)](https://open.spotify.com/album/5IZcEkLkf0oQNFlgFGocxr) | 3:52 | 2023-11-29 |  |

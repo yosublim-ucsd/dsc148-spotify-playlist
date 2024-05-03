@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 1679938,
+  "2024-05-03": 1680184,
   "date_first_scraped": "2021-12-28",
   "description": "The most essential R&B songs from the '10s. Cover: Solange",
   "name": "I Love My '10s R&B",
@@ -1151,7 +1151,7 @@
       ],
       "date_added": "2022-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-01",
+      "date_removed": null,
       "duration_ms": 177922,
       "name": "Godspeed",
       "url": "https://open.spotify.com/track/34xTFwjPQ1dC6uJmleno7x"
@@ -2207,7 +2207,7 @@
       ],
       "date_added": "2022-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 268813,
       "name": "Pink Matter",
       "url": "https://open.spotify.com/track/1fOkmYW3ZFkkjIdOZSf596"

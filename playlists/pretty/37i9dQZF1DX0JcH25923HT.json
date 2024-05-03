@@ -1,6 +1,6 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 441923,
+  "num_followers": 442186,
   "original_name": "Trap viejito",
   "owner": {
     "name": "Spotify",
@@ -2223,6 +2223,34 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
+        "name": "Viernes 13",
+        "url": "https://open.spotify.com/album/40dw575mb3ge8Rz84fJlAs"
+      },
+      "artists": [
+        {
+          "name": "KAKTOV",
+          "url": "https://open.spotify.com/artist/4G8DaRnN7oPFkEJXwX2i94"
+        },
+        {
+          "name": "Fat Nick",
+          "url": "https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx"
+        },
+        {
+          "name": "Dillom",
+          "url": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Viernes 13",
+      "url": "https://open.spotify.com/track/1WRIN4Liz3nmoE5njV8aNO"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
         "name": "Mente Gitana",
         "url": "https://open.spotify.com/album/3r4ZGro2e0Vb4x3JyNFViY"
       },
@@ -2259,54 +2287,26 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Viernes 13",
-        "url": "https://open.spotify.com/album/40dw575mb3ge8Rz84fJlAs"
+        "name": "Como Soy",
+        "url": "https://open.spotify.com/album/6aDcL8v3iXacgkHL7DGu0G"
       },
       "artists": [
         {
-          "name": "KAKTOV",
-          "url": "https://open.spotify.com/artist/4G8DaRnN7oPFkEJXwX2i94"
+          "name": "Pacho El Antifeka",
+          "url": "https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn"
         },
         {
-          "name": "Fat Nick",
-          "url": "https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx"
-        },
-        {
-          "name": "Dillom",
-          "url": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
-        },
-        {
-          "name": "Omar Varela",
-          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Viernes 13",
-      "url": "https://open.spotify.com/track/1WRIN4Liz3nmoE5njV8aNO"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
-        "name": "Haters (Remix)",
-        "url": "https://open.spotify.com/album/7eh4EPAHsOFpon6iG7q75Q"
-      },
-      "artists": [
-        {
-          "name": "J Alvarez",
-          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         },
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Almighty",
-          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
         }
       ],
-      "duration_ms": 328706,
-      "name": "Haters - Remix",
-      "url": "https://open.spotify.com/track/1XuH3RXp7sCFPNof6xvFlm"
+      "duration_ms": 312232,
+      "name": "Como Soy",
+      "url": "https://open.spotify.com/track/6l2UmWFHtPqgWq0hnqlfJT"
     }
   ],
   "unique_name": "Trap viejito",

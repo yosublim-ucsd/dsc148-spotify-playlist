@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Motion & good vibes! Cover: Yssi SB",
+  "description": "Motion & good vibes! Cover: Ronnie Flex",
   "name": "La Vida Loca",
   "tracks": [
     {
@@ -938,6 +938,28 @@
       "duration_ms": 164040,
       "name": "Annemaria (feat. Luca Gilliot)",
       "url": "https://open.spotify.com/track/1sjoT3INjAPDbwcyy66tNa"
+    },
+    {
+      "album": {
+        "name": "ANTONI ANTONI",
+        "url": "https://open.spotify.com/album/0pKw0LiqXPX5uawfPIFjrT"
+      },
+      "artists": [
+        {
+          "name": "ASHI",
+          "url": "https://open.spotify.com/artist/0UGCSjBTzOrOIl5Yng2wHr"
+        },
+        {
+          "name": "LA$$A",
+          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124525,
+      "name": "ANTONI ANTONI",
+      "url": "https://open.spotify.com/track/1is22v0wd43nx93pyNopTg"
     },
     {
       "album": {
@@ -4887,6 +4909,24 @@
     },
     {
       "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/0Dh59MYnNmPWhcjLZvKQwb"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140188,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/0NZjYegFmcAKsoAXWzdDUr"
+    },
+    {
+      "album": {
         "name": "Devam",
         "url": "https://open.spotify.com/album/57cfV5MDVuiNjDnwoTgbm1"
       },
@@ -5440,6 +5480,28 @@
       "duration_ms": 185500,
       "name": "Don't Leave",
       "url": "https://open.spotify.com/track/19fCpJYZVtBKyOtIvEnDv0"
+    },
+    {
+      "album": {
+        "name": "Done With Me",
+        "url": "https://open.spotify.com/album/3O0i0NCY5Cm1r3gJJPWc8a"
+      },
+      "artists": [
+        {
+          "name": "Bokoesam",
+          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
+        },
+        {
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197351,
+      "name": "Done With Me",
+      "url": "https://open.spotify.com/track/1oTWwkoxxqAqdMSCRwuStJ"
     },
     {
       "album": {
@@ -8524,6 +8586,24 @@
       "duration_ms": 156774,
       "name": "In De Stad",
       "url": "https://open.spotify.com/track/30lf4XnHp3frvhhdkaTLPP"
+    },
+    {
+      "album": {
+        "name": "IN DIE BAK",
+        "url": "https://open.spotify.com/album/7amaiETFhArUc2iRhpEk70"
+      },
+      "artists": [
+        {
+          "name": "Chip Charlez",
+          "url": "https://open.spotify.com/artist/2gnD9CeLx3IlYO2zz0DEqH"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113000,
+      "name": "IN DIE BAK",
+      "url": "https://open.spotify.com/track/6nJm5nYyx40MN9mdNJOI9g"
     },
     {
       "album": {
@@ -14404,7 +14484,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 162767,
       "name": "PERRO NEGRO",
       "url": "https://open.spotify.com/track/7iQXYTyuG13aoeHxGG28Nh"
@@ -16390,7 +16470,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 178648,
       "name": "Silence",
       "url": "https://open.spotify.com/track/0Md7RdBvEkiA49Y2MNX8Hq"
@@ -16830,7 +16910,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 133714,
       "name": "Spijbelaar",
       "url": "https://open.spotify.com/track/16goKPajUOPBGaOVOTRGWY"
@@ -20894,7 +20974,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 144000,
       "name": "Zij Wil Mij",
       "url": "https://open.spotify.com/track/0UBHy0chqmMoShrhc3F2f4"

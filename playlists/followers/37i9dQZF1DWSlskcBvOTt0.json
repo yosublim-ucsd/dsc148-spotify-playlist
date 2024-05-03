@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 462689,
+  "2024-05-03": 462852,
   "date_first_scraped": "2022-04-20",
   "description": "Hypnotic melodic <a href=\"spotify:genre:house\">house</a> and <a href=\"spotify:genre:techno\">techno</a> to light up the night.",
   "name": "Tantra",
@@ -499,6 +499,28 @@
       "duration_ms": 412068,
       "name": "Alright",
       "url": "https://open.spotify.com/track/1ZU33JIKd1rsR8cxPElos1"
+    },
+    {
+      "album": {
+        "name": "Always And Forever",
+        "url": "https://open.spotify.com/album/4x9Emr96LSwtycsHDI9FZi"
+      },
+      "artists": [
+        {
+          "name": "Haska",
+          "url": "https://open.spotify.com/artist/0oNrNJk1WEVKDpbz4bw54T"
+        },
+        {
+          "name": "Chocolate Puma",
+          "url": "https://open.spotify.com/artist/5Aw0IGM5JS3FuTgtRsDWGA"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "Always And Forever",
+      "url": "https://open.spotify.com/track/70xiVqEhLeTwSh9fusgV7W"
     },
     {
       "album": {
@@ -7113,7 +7135,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 207519,
       "name": "Luna Love",
       "url": "https://open.spotify.com/track/0NawKK9pbi1hDWl0i3Eo7A"
@@ -8176,7 +8198,7 @@
       "artists": [
         {
           "name": "Marten Lou",
-          "url": "https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK"
+          "url": "https://open.spotify.com/artist/3eh0ESJAEiOgjjKAqwsztS"
         }
       ],
       "date_added": "2023-10-20",

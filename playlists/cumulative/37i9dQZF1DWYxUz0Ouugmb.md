@@ -2,9 +2,9 @@
 
 ### [RADAR Indonesia ](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Jasmine Nadya
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Satine Zaneta
 
-216 songs - 13 hr 53 min
+217 songs - 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [PULANG](https://open.spotify.com/track/1gt5nseAiBxo6fgGJ0cOtt) | [ENVY\*](https://open.spotify.com/artist/0wMJryVOHUmtw8y05i7puj) | [THE GRAND CHASE](https://open.spotify.com/album/5LyYbjOZxOorwRmB7aqOei) | 3:54 | 2024-01-25 | 2024-03-29 |
 | [Putra Petir](https://open.spotify.com/track/1YLuNkA0rSZkJiQJqnWYkP) | [The Panturas](https://open.spotify.com/artist/1eblwVFP5H4whVZrYmXQLl) | [Putra Petir](https://open.spotify.com/album/6NCzDjlMh8oLKEaW6HbJAX) | 2:21 | 2021-11-25 | 2022-03-25 |
 | [Queen of The South](https://open.spotify.com/track/65Y2vY9zirG11USMyryRqu) | [The Panturas](https://open.spotify.com/artist/1eblwVFP5H4whVZrYmXQLl) | [Queen of The South](https://open.spotify.com/album/6Y0eJDOJccyw6nmrGFNFwk) | 3:23 | 2021-11-25 | 2022-03-25 |
+| [Raja dan Ratu](https://open.spotify.com/track/7FZyTvbYGvyDBo0XSDDuXu) | [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l) | [Raja dan Ratu](https://open.spotify.com/album/4nHoAM5p4eDehGmgQQQvKI) | 3:53 | 2024-05-02 |  |
 | [Rela](https://open.spotify.com/track/1azXDEz0VyJzPUfjq3dxJZ) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Rela](https://open.spotify.com/album/3pAIePTL43Po9BwgPJn2m0) | 3:59 | 2022-03-24 | 2023-04-14 |
 | [reverie](https://open.spotify.com/track/2Wip5AS4ofsLpRoYK4433A) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B) | [reverie](https://open.spotify.com/album/5N2Upnzz1c39IygJXUHTsJ) | 3:27 | 2022-03-24 | 2023-04-14 |
 | [Rindu Tapi Malu \- Live At Ska Reggae](https://open.spotify.com/track/3T1Fyxl2WPQLmEv8JKFxO2) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Rindu Tapi Malu \(Live At Ska Reggae\)](https://open.spotify.com/album/5XMn6JEGTJJDP4JuzjGUCj) | 4:15 | 2024-02-15 | 2024-03-29 |

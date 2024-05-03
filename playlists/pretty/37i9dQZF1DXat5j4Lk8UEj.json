@@ -1,6 +1,6 @@
 {
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & the Night Sweats",
-  "num_followers": 488041,
+  "num_followers": 488051,
   "original_name": "Folk Rock Favorites",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Orange Blood",
-        "url": "https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 248560,
-      "name": "Lemon Tree",
-      "url": "https://open.spotify.com/track/0AJQjFdtEEr0rVoCGauYRU"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Not Dead Yet",
         "url": "https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 177366,
       "name": "Not Dead Yet",
       "url": "https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Orange Blood",
+        "url": "https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 248560,
+      "name": "Lemon Tree",
+      "url": "https://open.spotify.com/track/0AJQjFdtEEr0rVoCGauYRU"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "It's Been a While",
-        "url": "https://open.spotify.com/album/2hXnzYHalL5s1lcRvIicCf"
-      },
-      "artists": [
-        {
-          "name": "Shane Smith & the Saints",
-          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
-        }
-      ],
-      "duration_ms": 246840,
-      "name": "It's Been a While",
-      "url": "https://open.spotify.com/track/72tyEYz2P2KJgA7DYAMj1t"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Hold On For Dear Life",
         "url": "https://open.spotify.com/album/444WoeLyPkIMYr92NHEcz4"
       },
@@ -627,18 +611,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "People Are My Drug",
-        "url": "https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl"
+        "name": "It's Been a While",
+        "url": "https://open.spotify.com/album/2hXnzYHalL5s1lcRvIicCf"
       },
       "artists": [
         {
-          "name": "Phil Cook",
-          "url": "https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E"
+          "name": "Shane Smith & the Saints",
+          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
         }
       ],
-      "duration_ms": 241746,
-      "name": "Miles Away",
-      "url": "https://open.spotify.com/track/6wRH2lAr8v0n1prHEwZe85"
+      "duration_ms": 246840,
+      "name": "It's Been a While",
+      "url": "https://open.spotify.com/track/72tyEYz2P2KJgA7DYAMj1t"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -659,18 +643,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Suffering",
-        "url": "https://open.spotify.com/album/14eVN7m47S442flao2wtFa"
+        "name": "People Are My Drug",
+        "url": "https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl"
       },
       "artists": [
         {
-          "name": "Drew Holcomb & The Neighbors",
-          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+          "name": "Phil Cook",
+          "url": "https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E"
         }
       ],
-      "duration_ms": 200133,
-      "name": "Suffering",
-      "url": "https://open.spotify.com/track/5rWxb6qPOhz2qpYDLL7D0H"
+      "duration_ms": 241746,
+      "name": "Miles Away",
+      "url": "https://open.spotify.com/track/6wRH2lAr8v0n1prHEwZe85"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -687,6 +671,22 @@
       "duration_ms": 319706,
       "name": "Don't Tell Our Friends About Me",
       "url": "https://open.spotify.com/track/4ktZEbOKEnx5svwITaKwqK"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Suffering",
+        "url": "https://open.spotify.com/album/14eVN7m47S442flao2wtFa"
+      },
+      "artists": [
+        {
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+        }
+      ],
+      "duration_ms": 200133,
+      "name": "Suffering",
+      "url": "https://open.spotify.com/track/5rWxb6qPOhz2qpYDLL7D0H"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Officer of Love",
-        "url": "https://open.spotify.com/album/7JQPBE6v0PxayunYaJ0CiT"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 239805,
-      "name": "Officer of Love",
-      "url": "https://open.spotify.com/track/4KhBvLbRr58rHPF24bdL9Q"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Heroes",
         "url": "https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 206013,
       "name": "Cool Jam",
       "url": "https://open.spotify.com/track/20kSLZz8XyhV6ocOyrLU8B"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Officer of Love",
+        "url": "https://open.spotify.com/album/7JQPBE6v0PxayunYaJ0CiT"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 239805,
+      "name": "Officer of Love",
+      "url": "https://open.spotify.com/track/4KhBvLbRr58rHPF24bdL9Q"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Good Time",
-        "url": "https://open.spotify.com/album/7ewBMKLhrJ21P2nlAgUuPW"
-      },
-      "artists": [
-        {
-          "name": "Grace Potter",
-          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
-        }
-      ],
-      "duration_ms": 333280,
-      "name": "Good Time",
-      "url": "https://open.spotify.com/track/5vKzUzEaNEH6iLfQAAXGcP"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Are You Listening?",
         "url": "https://open.spotify.com/album/5ampvyxkZxEpNRy9dE322O"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 198120,
       "name": "Are You Listening?",
       "url": "https://open.spotify.com/track/3ulWqq1RCWMHQlX2hrAPa7"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Good Time",
+        "url": "https://open.spotify.com/album/7ewBMKLhrJ21P2nlAgUuPW"
+      },
+      "artists": [
+        {
+          "name": "Grace Potter",
+          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
+        }
+      ],
+      "duration_ms": 333280,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/5vKzUzEaNEH6iLfQAAXGcP"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Ain\u2019t Lookin\u2019",
-        "url": "https://open.spotify.com/album/2zQpWa9zKMqAPLYHwcskJL"
-      },
-      "artists": [
-        {
-          "name": "The Wild Feathers",
-          "url": "https://open.spotify.com/artist/5YENCIQVzziCFdoVWc26Bn"
-        }
-      ],
-      "duration_ms": 202146,
-      "name": "Ain\u2019t Lookin\u2019",
-      "url": "https://open.spotify.com/track/3RKHWmV9e2sagLCOyaZ2OB"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "The Records Were Ours",
         "url": "https://open.spotify.com/album/4BXUB780HfPgYfi9lerlR9"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 185862,
       "name": "The Records Were Ours",
       "url": "https://open.spotify.com/track/4UdsKKXEUAFqufpanvpdsW"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Ain\u2019t Lookin\u2019",
+        "url": "https://open.spotify.com/album/2zQpWa9zKMqAPLYHwcskJL"
+      },
+      "artists": [
+        {
+          "name": "The Wild Feathers",
+          "url": "https://open.spotify.com/artist/5YENCIQVzziCFdoVWc26Bn"
+        }
+      ],
+      "duration_ms": 202146,
+      "name": "Ain\u2019t Lookin\u2019",
+      "url": "https://open.spotify.com/track/3RKHWmV9e2sagLCOyaZ2OB"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1423,38 +1423,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Roots And Wings",
-        "url": "https://open.spotify.com/album/2TyE0FB5qnlf4aPmgHBE7A"
-      },
-      "artists": [
-        {
-          "name": "The Wallflowers",
-          "url": "https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB"
-        }
-      ],
-      "duration_ms": 234694,
-      "name": "Roots And Wings",
-      "url": "https://open.spotify.com/track/5MmUghS4gZ3H7RdZf2KE3g"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Difference Of Opinion",
-        "url": "https://open.spotify.com/album/3wf7IxOIpJKiXbGC8qbntI"
-      },
-      "artists": [
-        {
-          "name": "Adam Newling",
-          "url": "https://open.spotify.com/artist/6P727EkBvvBKIrMHEu83eT"
-        }
-      ],
-      "duration_ms": 220456,
-      "name": "Difference Of Opinion",
-      "url": "https://open.spotify.com/track/1xJnjKBzXEpAoqtyM8Srtf"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Game For Guessing (feat. Robert Ellis)",
         "url": "https://open.spotify.com/album/2QmCRzZ6vaOZS2lnuH2KWx"
       },
@@ -1475,6 +1443,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Difference Of Opinion",
+        "url": "https://open.spotify.com/album/3wf7IxOIpJKiXbGC8qbntI"
+      },
+      "artists": [
+        {
+          "name": "Adam Newling",
+          "url": "https://open.spotify.com/artist/6P727EkBvvBKIrMHEu83eT"
+        }
+      ],
+      "duration_ms": 220456,
+      "name": "Difference Of Opinion",
+      "url": "https://open.spotify.com/track/1xJnjKBzXEpAoqtyM8Srtf"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Never Makes a Sound",
         "url": "https://open.spotify.com/album/1oG3x0lHgddWOoJ3UhzWXY"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 240260,
       "name": "Never Makes a Sound",
       "url": "https://open.spotify.com/track/6ws3nglPZiK1lCgU9ZpfQV"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Roots And Wings",
+        "url": "https://open.spotify.com/album/2TyE0FB5qnlf4aPmgHBE7A"
+      },
+      "artists": [
+        {
+          "name": "The Wallflowers",
+          "url": "https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB"
+        }
+      ],
+      "duration_ms": 234694,
+      "name": "Roots And Wings",
+      "url": "https://open.spotify.com/track/5MmUghS4gZ3H7RdZf2KE3g"
     },
     {
       "added_at": "2024-03-22 04:00:00",

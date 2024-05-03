@@ -4,7 +4,7 @@
 
 > 回家的路上，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-421 songs - 1 day 6 hr 21 min
+425 songs - 1 day 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [diminished](https://open.spotify.com/track/1rs16sDxwrpRetsZd1PCwe) | [Enno Cheng](https://open.spotify.com/artist/0mVEQWHpQc30NdVqwtj8WJ) | [diminished](https://open.spotify.com/album/3hDI8XUZf45xWzAMM38d4r) | 3:54 | 2023-07-10 | 2023-07-18 |
 | [Don’t Blow Away](https://open.spotify.com/track/5ZG1HDy7TYzQFUGQ9wQvs2) | [Bii](https://open.spotify.com/artist/1AIrEsIWKWiJJ6lfkLmtWK) | [Don’t Blow Away](https://open.spotify.com/album/2HLOi336hZEySin334MKne) | 4:19 | 2022-06-06 | 2022-07-17 |
 | [Feel Wronged ?](https://open.spotify.com/track/0zcLffyaoRviYLL0L0F7Ej) | [Princess Ai](https://open.spotify.com/artist/71l6Wfk7PaTVPAOH7ln56V) | [Feel Wronged ?](https://open.spotify.com/album/5Pab7v1HR3rqyr2lQRaQaO) | 4:32 | 2022-06-06 | 2022-07-17 |
+| [Forever Song](https://open.spotify.com/track/1mLjTk3fkciP9aFs4sD8Oi) | [Jess Lee](https://open.spotify.com/artist/02Cz717BTulFiQXUuIXH6n) | [Forever Song](https://open.spotify.com/album/5iXTrFf55Ics2UnFvINfQk) | 4:52 | 2024-05-03 |  |
 | [Get Over Yourself](https://open.spotify.com/track/129olKGvd7F7LrEwXKoVGg) | [Janice Yan](https://open.spotify.com/artist/3r5bFY2H54Y0YGIDzAo1xp), [蕭秉治](https://open.spotify.com/artist/0Ej4GfzIcW3dWP0rC5d4x1) | [Get Over Yourself](https://open.spotify.com/album/10wfMAYvs29jcb3M4W5LTa) | 3:50 | 2023-07-17 | 2023-07-25 |
 | [hard to let you go](https://open.spotify.com/track/3QzvC0v07VV76tZ8SoIUce) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [hard to let you go](https://open.spotify.com/album/7jvNKoYPvnHVF1dVM7l7m2) | 4:40 | 2023-05-01 | 2023-10-18 |
 | [hard to let you go](https://open.spotify.com/track/5DNGbLPU0fQVWPWToqCodN) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [hard to let you go](https://open.spotify.com/album/4HOIWcEoOQG86JJR40y4Wu) | 4:40 | 2023-11-13 | 2024-04-19 |
@@ -126,7 +127,7 @@
 | [分手放手 \- WBL系列影集第一季<永遠的第一名>片尾曲](https://open.spotify.com/track/36aoTpIIIJ3XAl6GrcHo5f) | [ALEX CHOU](https://open.spotify.com/artist/0zXp1zis13q1a2uCJgN9nq) | [分手放手 \(WBL系列影集第一季<永遠的第一名>片尾曲\)](https://open.spotify.com/album/7L95m2WhWUYwzGbIWlDygj) | 4:10 | 2022-06-27 | 2022-07-27 |
 | [分開不是你的錯 \- 《滾石摘星號》選手創作單曲](https://open.spotify.com/track/3udZQ4W2qLsPLB29DJ81xu) | [何祖伶](https://open.spotify.com/artist/7eag3DCx32BbcdpdfqRfev), [駱羿](https://open.spotify.com/artist/5ZoX8ncekVM9CivshtDB6k) | [分開不是你的錯](https://open.spotify.com/album/0SNi8BBm8SG5fEjsMlCf2y) | 4:07 | 2024-01-29 | 2024-02-06 |
 | [別來有恙](https://open.spotify.com/track/3gaSYokySgAnoFXlnLgwIk) | [Bae Lin](https://open.spotify.com/artist/2vRNbO0y4DgqQOEEhRSqdI) | [別來有恙](https://open.spotify.com/album/6o02ti4hIe3bJBoijnnlcg) | 5:33 | 2022-06-06 | 2022-07-10 |
-| [別再想見我](https://open.spotify.com/track/7xv1df9mhiy8JyPvaUW61f) | [許光漢](https://open.spotify.com/artist/3hhUgkTf3fFYGogFMbV5Wv) | [別再想見我](https://open.spotify.com/album/0wH1j5vCOautchAN4S6DbX) | 4:30 | 2022-06-06 |  |
+| [別再想見我](https://open.spotify.com/track/7xv1df9mhiy8JyPvaUW61f) | [許光漢](https://open.spotify.com/artist/3hhUgkTf3fFYGogFMbV5Wv) | [別再想見我](https://open.spotify.com/album/0wH1j5vCOautchAN4S6DbX) | 4:30 | 2022-06-06 | 2024-05-03 |
 | [剩下的烟火](https://open.spotify.com/track/0MV6HnT2gk6yYVsHYQ88FN) | [孫文琦](https://open.spotify.com/artist/5w8ia7ibggqMHx3EFvAnJo) | [剩下的烟火](https://open.spotify.com/album/1wiOcrwaK9JMh79Ukt3cP8) | 4:01 | 2024-01-01 | 2024-01-09 |
 | [勇气](https://open.spotify.com/track/5rY7xc2h5Imj6iFn97h8Qj) | [棉子](https://open.spotify.com/artist/6Y4Ur76H9vh8gw4QADaUKp) | [勇气](https://open.spotify.com/album/0CVoVI7UnycE7lcKcKqoeU) | 4:01 | 2022-06-06 |  |
 | [匆匆\(舞劇《朱自清》主題曲\)](https://open.spotify.com/track/3cdudO4RfPsYfia9aVJKgh) | [Yisa Yu](https://open.spotify.com/artist/75CM5fojYdKYD0xYSFh22Z) | [匆匆\(舞劇《朱自清》主題曲\)](https://open.spotify.com/album/4Y26FrufaEEVNUVXP0gQxA) | 5:24 | 2022-06-20 | 2022-07-08 |
@@ -190,7 +191,7 @@
 | [孤獨娛樂](https://open.spotify.com/track/1DuFU3yhIFi8kYwI3BlmnA) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [重拾\_快樂](https://open.spotify.com/album/3KEUzl4MC7mw0tNypb2WUm) | 3:59 | 2023-04-24 |  |
 | [完整的我](https://open.spotify.com/track/6b4lo9VraG23VigqszlKuI) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [我好嗎? \- 太陽如常升起](https://open.spotify.com/album/13EgeVmtvcqQIdJJix6QzM) | 4:49 | 2022-06-06 | 2022-07-20 |
 | [寂寞侵袭](https://open.spotify.com/track/653KKZJEPl2HyHO7RQtpEm) | [曲肖冰](https://open.spotify.com/artist/610mSNmaKYT5CWAdlpvbtg) | [寂寞侵袭](https://open.spotify.com/album/1hEMY7EARfFgXVaOZG6y6J) | 4:19 | 2024-04-08 | 2024-04-15 |
-| [寂寞而已](https://open.spotify.com/track/3vUk021iSWo8UQajmjBLL7) | [Ricky Hsiao](https://open.spotify.com/artist/0E6oEhZZtQvj811iXQFLrB) | [寂寞而已](https://open.spotify.com/album/03KZdAmIbygv24RUgb7dVi) | 4:26 | 2024-04-29 |  |
+| [寂寞而已](https://open.spotify.com/track/3vUk021iSWo8UQajmjBLL7) | [Ricky Hsiao](https://open.spotify.com/artist/0E6oEhZZtQvj811iXQFLrB) | [寂寞而已](https://open.spotify.com/album/03KZdAmIbygv24RUgb7dVi) | 4:26 | 2024-04-29 | 2024-05-03 |
 | [寒假](https://open.spotify.com/track/5MsEofZcBoFi5tHyENkAzB) | [ToNick](https://open.spotify.com/artist/3oONGjPFxkb1rqTtFx8fl2) | [寒假](https://open.spotify.com/album/5WNsWyvTl7eIiknIljmOX1) | 4:15 | 2024-03-11 | 2024-03-19 |
 | [將故事寫成我們](https://open.spotify.com/track/3Vl7IqSQsAsfScssywTDny) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [將故事寫成我們](https://open.spotify.com/album/1HfahU2Hx8p8jq9IHkD4Mq) | 5:35 | 2022-06-06 | 2023-01-11 |
 | [將故事寫成我們](https://open.spotify.com/track/3APYQVgmEDZ6sPbpLo7Hog) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [將故事寫成我們](https://open.spotify.com/album/3pL1szWrTXdQyudT0F3ET1) | 5:36 | 2023-01-23 | 2024-04-19 |
@@ -260,7 +261,7 @@
 | [我懂你的獨特](https://open.spotify.com/track/46x0cqQBjOT1T16N6XTGwm) | [Miu Chu](https://open.spotify.com/artist/06KOetaeFEz0gabCnqvCxz) | [我懂你的獨特](https://open.spotify.com/album/44L1wbLh5ZwXqOQMAs78BT) | 4:25 | 2022-08-08 | 2023-02-07 |
 | [我是如此相信](https://open.spotify.com/track/01blZNS5FgyRsPJAXxvxvo) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/4stTYRQWkrNj9BOJCwuXUT) | 4:25 | 2024-01-22 | 2024-04-19 |
 | [我是如此相信](https://open.spotify.com/track/3BpiSlF0Z4CZQxcObv7erK) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 4:25 | 2022-07-25 | 2024-01-11 |
-| [我是如此相信\(電影《天火》主題曲\)](https://open.spotify.com/track/0qgZJeru7Sw3wRBOGV6H89) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [我是如此相信\(電影《天火》主題曲\)](https://open.spotify.com/album/6QxYLlLu4gVBeNs1wZoKoZ) | 4:26 | 2022-06-06 |  |
+| [我是如此相信\(電影《天火》主題曲\)](https://open.spotify.com/track/0qgZJeru7Sw3wRBOGV6H89) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [我是如此相信\(電影《天火》主題曲\)](https://open.spotify.com/album/6QxYLlLu4gVBeNs1wZoKoZ) | 4:26 | 2022-06-06 | 2024-05-03 |
 | [我有一棵樹](https://open.spotify.com/track/4DmX1Cv5VmwhJPvuS6DV3i) | [Sam Lee](https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i) | [我有一棵樹](https://open.spotify.com/album/7fm8CMLMEw9eruzmxep88m) | 4:19 | 2023-03-06 | 2023-03-14 |
 | [我經過風暴 \(電影《我經過風暴》同名主題推廣曲\)](https://open.spotify.com/track/3R3p01v4bLwTrAhmcFibdm) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [我經過風暴 \(電影《我經過風暴》同名主題推廣曲\)](https://open.spotify.com/album/6Vtt3GalP0vso0Xykfztfi) | 3:20 | 2023-08-21 | 2023-08-29 |
 | [我要你有我 \(電影《倒數說愛你》主題曲\)](https://open.spotify.com/track/7E6tbfDJnKWhKX43s6anwy) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [我要你有我 \(電影《倒數說愛你》主題曲\)](https://open.spotify.com/album/4DLOHuUtnxPFzTvDTqmtBl) | 4:22 | 2023-04-17 | 2023-08-01 |
@@ -297,7 +298,9 @@
 | [最後一次](https://open.spotify.com/track/11W5Rb3oJgdsjVjbSIRYA9) | [Kelly Pan](https://open.spotify.com/artist/2hJxcuFTgP89GdmCVXfXyi) | [最後一次](https://open.spotify.com/album/1Kk3DZ5m4U8hyswoyvnaJo) | 4:19 | 2022-06-20 | 2023-06-20 |
 | [最悲傷的事 \- 《比悲傷更悲傷的故事》影集版 主題曲](https://open.spotify.com/track/1uFmbLzPHHoweD5HEKg240) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [最悲傷的事 \(《比悲傷更悲傷的故事》影集版 主題曲\)](https://open.spotify.com/album/5wwMx4hWNkUijoyTVdXwln) | 4:57 | 2022-06-06 |  |
 | [最美的地方](https://open.spotify.com/track/4NFWjLRDqcCdOGmMRg4hmL) | [HAOR](https://open.spotify.com/artist/1vhgWOwfVcKVTGTsfHmoBx) | [最美的地方](https://open.spotify.com/album/6KWYn8amTApFMCwpuABBF5) | 3:58 | 2023-04-24 | 2023-05-02 |
+| [最近的遠方](https://open.spotify.com/track/4bZLFvymNNYoltTTGWjUX5) | [黃偉晉](https://open.spotify.com/artist/1LfGS4Ko1gqgvZ8f1hAG7D), [Nine Chen](https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6) | [最近的遠方](https://open.spotify.com/album/0OjGjTluCDRQFsw2BEyuuL) | 3:50 | 2024-05-03 |  |
 | [會找到我](https://open.spotify.com/track/1xclVAVV2GqqIyMB9JAZAf) | [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [會找到我](https://open.spotify.com/album/2R2RBaPMBLThbU5YZlA6cc) | 3:48 | 2023-07-17 | 2023-09-16 |
+| [會記得我出現](https://open.spotify.com/track/6faPHyHWpPs2b3JQRLkNtu) | [Evangeline Wong](https://open.spotify.com/artist/7sEIHkZXRzGa3OBUCCxzU5) | [會記得我出現](https://open.spotify.com/album/7dxC2cd9koDEdHKmsIJRQC) | 3:33 | 2024-05-03 |  |
 | [月心說](https://open.spotify.com/track/4jAVdVZUiPUQQKeKBDxedz) | [Xian Zi](https://open.spotify.com/artist/2CBuGdj5Nmgx1VfrgLnGoJ) | [月心說](https://open.spotify.com/album/0tX5D7Kj42NQCLDXk5kiAy) | 3:51 | 2023-03-21 | 2023-03-28 |
 | [有一種悲傷 \- 電影《比悲傷更悲傷的故事》主題曲](https://open.spotify.com/track/3ayrHkyorPEpeOBvZ76SwG) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [有一種悲傷 \(電影《比悲傷更悲傷的故事》主題曲\)](https://open.spotify.com/album/68NAOLFISOsBsyMLA2fUPf) | 3:57 | 2022-07-11 |  |
 | [未发送](https://open.spotify.com/track/0IKt70sonEjlSzcMEjdFYo) | [阿冗](https://open.spotify.com/artist/3dTgjg7lzUGiD3NwcGCK1n) | [未发送](https://open.spotify.com/album/1Ez536BFu6IGYAe9HMKMoh) | 3:35 | 2022-06-06 |  |
@@ -327,7 +330,7 @@
 | [現在的你](https://open.spotify.com/track/3H1ZkY8mI234yITtPT0gMk) | [庭竹](https://open.spotify.com/artist/3ZWV6vCWv9OJ4WKZHgFwGV), [Evangeline Wong](https://open.spotify.com/artist/7sEIHkZXRzGa3OBUCCxzU5) | [現在的你 \(cover\)](https://open.spotify.com/album/47XLzznbBb4i9c98hquSKm) | 4:03 | 2024-03-25 | 2024-04-01 |
 | [男二號](https://open.spotify.com/track/1YTr9bx7g2JMwjApb72tes) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [男二號](https://open.spotify.com/album/1XhaXOXcCJIprINnCyMgxP) | 4:47 | 2022-06-27 | 2022-07-27 |
 | [當我們不在一起](https://open.spotify.com/track/2IrxQL5LAsqdXNOkDP4sAP) | [Quarterback](https://open.spotify.com/artist/0x1cerphBlEKCJL8Mqs6y3) | [當我們不在一起](https://open.spotify.com/album/2aodkqwQyt6hPuMDMwL3Cd) | 4:24 | 2022-08-08 | 2023-04-04 |
-| [當我變成我們](https://open.spotify.com/track/0llQRKKNRIr7yKtzZOPdcH) | [GBOYSWAG](https://open.spotify.com/artist/2QOj4jFuDei3DWSkDHfWTm) | [跳舞在米蘭](https://open.spotify.com/album/73CTYTtgLkPNLFycnNd64I) | 4:10 | 2023-04-17 |  |
+| [當我變成我們](https://open.spotify.com/track/0llQRKKNRIr7yKtzZOPdcH) | [GBOYSWAG](https://open.spotify.com/artist/2QOj4jFuDei3DWSkDHfWTm) | [跳舞在米蘭](https://open.spotify.com/album/73CTYTtgLkPNLFycnNd64I) | 4:10 | 2023-04-17 | 2024-05-03 |
 | [痛苦擁抱 \- 愛奇藝原創華劇《不良執念清除師》主題曲](https://open.spotify.com/track/5oUZN458Yyp8cQCrUZaxqx) | [Ozone](https://open.spotify.com/artist/1Lu3G3NqWACIUAcq9r30t1) | [愛奇藝原創華劇《不良執念清除師》原聲帶](https://open.spotify.com/album/4lQN080kPobeTivUu7G96A) | 3:07 | 2023-04-24 | 2023-07-16 |
 | [白](https://open.spotify.com/track/2ZkItS8KXNhClXoCbhnmrt) | [张远](https://open.spotify.com/artist/3PutidTQajzWO1gTetJReW) | [白](https://open.spotify.com/album/027ntAADdGdUp829qqUiAm) | 3:46 | 2024-03-04 | 2024-03-12 |
 | [白鸽](https://open.spotify.com/track/0qrzbXs43YrxdaSAhLUA5v) | [你的上好佳](https://open.spotify.com/artist/1k06YlN2x0BDLE7EeBpGap) | [白鸽](https://open.spotify.com/album/2xtp5cx9nv9lJ4r6xhDLgV) | 3:28 | 2022-08-08 | 2023-02-01 |
@@ -352,6 +355,7 @@
 | [縫補傷的人](https://open.spotify.com/track/3jEEH8chKE09e8ONgxo1Hw) | [Ricky Hsiao](https://open.spotify.com/artist/0E6oEhZZtQvj811iXQFLrB) | [縫補傷的人](https://open.spotify.com/album/2QmNxNAagoEXqjiF0MIkkC) | 4:31 | 2024-04-15 |  |
 | [翅膀](https://open.spotify.com/track/6xcEl6mdZGvLCyYRCzWD41) | [Vivian Hsu](https://open.spotify.com/artist/6cP65fCRmCJQejKYSnVb47) | [翅膀](https://open.spotify.com/album/72Dy4BgvYSW7vcEnKGxYql) | 3:52 | 2023-03-13 | 2023-03-21 |
 | [老友記](https://open.spotify.com/track/3ffgi8gpFtn14bFe2YUCd5) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [老友記](https://open.spotify.com/album/25KO2kiQPQiUVwLL5ksyiT) | 4:46 | 2022-06-06 | 2022-06-27 |
+| [聽妳的話](https://open.spotify.com/track/3ctGHaya8OJZCfEZfXh8ig) | [GENBLUE 幻藍小熊](https://open.spotify.com/artist/73QQqobizk6EGabqlA5GKz) | [聽妳的話](https://open.spotify.com/album/5MTAZxBnw5KSKqw0mL9T39) | 4:19 | 2024-05-03 |  |
 | [聽見下雨的聲音](https://open.spotify.com/track/0nt1LAZjaTjrf30S8hdRDU) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [哎呦 不錯哦](https://open.spotify.com/album/1aYDr6muZPmwYvstDnIbeH) | 4:39 | 2022-07-25 | 2024-01-09 |
 | [聽見下雨的聲音](https://open.spotify.com/track/41xbDSEbEqCxqA7gVhIKM4) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [哎呦，不錯哦](https://open.spotify.com/album/3vkhunM2UohkqFQaHOfzbl) | 4:39 | 2024-01-15 | 2024-04-19 |
 | [聽見下雨的聲音](https://open.spotify.com/track/6jxW7qkub1YP51eQVElqUG) | [魏嘉瑩 Arrow Wei](https://open.spotify.com/artist/5JIZFQ7EMAp257CdzKemXO), [Queen Wei](https://open.spotify.com/artist/31o2LJ3ZpFgb4WMZzC1gOR) | [聽見下雨的聲音](https://open.spotify.com/album/15h50Ym2gyEfp7rL0qksXH) | 5:58 | 2022-06-06 | 2022-07-27 |

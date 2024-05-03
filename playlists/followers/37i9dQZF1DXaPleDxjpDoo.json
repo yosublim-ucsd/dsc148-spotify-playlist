@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 302161,
+  "2024-05-03": 302506,
   "date_first_scraped": "2022-09-17",
   "description": "Bathe in Ambient and nature sounds and reconnect to nature, with the Japanese practice of shinrin yoku.",
   "name": "Forest Bathing",
@@ -89,7 +89,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 140181,
       "name": "Alpha Sound Bath",
       "url": "https://open.spotify.com/track/1o2AMc7LXyell5edk3rpYG"
@@ -147,6 +147,24 @@
       "duration_ms": 257743,
       "name": "Angelic Waves",
       "url": "https://open.spotify.com/track/3uj0rDeSdN9xWN3GXQ53DS"
+    },
+    {
+      "album": {
+        "name": "Arboreal Honor",
+        "url": "https://open.spotify.com/album/5hW2eMTTdFCkXJWGC7VLjr"
+      },
+      "artists": [
+        {
+          "name": "Andrea Forejtek",
+          "url": "https://open.spotify.com/artist/7yITKvbdNPCTDbF5Uzd9NW"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200045,
+      "name": "Arboreal Honor",
+      "url": "https://open.spotify.com/track/0MRSyPSHOUjasV1PegUcZY"
     },
     {
       "album": {
@@ -259,7 +277,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 201896,
       "name": "Being",
       "url": "https://open.spotify.com/track/1EEDHsrBnIEwgv3Tx0f4mU"
@@ -475,7 +493,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 193811,
       "name": "Contemplation",
       "url": "https://open.spotify.com/track/1QRCpFQK9RytODMp2mpdG3"
@@ -493,7 +511,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 247200,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/1z2QFjVmDqQYyriK5q7DzS"
@@ -519,6 +537,24 @@
       "duration_ms": 195340,
       "name": "Deep Blue",
       "url": "https://open.spotify.com/track/66XGxK7oj3XzAkhVbqSYpb"
+    },
+    {
+      "album": {
+        "name": "Atlantis Particles",
+        "url": "https://open.spotify.com/album/3xhT73OL0KfhYRmWbYj98a"
+      },
+      "artists": [
+        {
+          "name": "Rand Aldo",
+          "url": "https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Deep Space Garden",
+      "url": "https://open.spotify.com/track/3DrrA2PA9xFP6XibZRAAKd"
     },
     {
       "album": {
@@ -594,6 +630,24 @@
     },
     {
       "album": {
+        "name": "Earth Awakening",
+        "url": "https://open.spotify.com/album/2qGZ8rZTyz6QxbrpjPcwKu"
+      },
+      "artists": [
+        {
+          "name": "Yin Gaya",
+          "url": "https://open.spotify.com/artist/10xvJcC8M3vs3V2QtTzBML"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167727,
+      "name": "Earth Awakening",
+      "url": "https://open.spotify.com/track/7rUqZmAjXBf0qeGbL1tEL2"
+    },
+    {
+      "album": {
         "name": "Emberly Path",
         "url": "https://open.spotify.com/album/2E7vitCgw71paDzGHMukLQ"
       },
@@ -609,6 +663,24 @@
       "duration_ms": 179807,
       "name": "Emberly Path",
       "url": "https://open.spotify.com/track/6LQiwabLqjy1jEJEACKcyj"
+    },
+    {
+      "album": {
+        "name": "Equity Diversity",
+        "url": "https://open.spotify.com/album/1l5ZAy94wwHd3upfB8Ado3"
+      },
+      "artists": [
+        {
+          "name": "Deepest Minds",
+          "url": "https://open.spotify.com/artist/52ErOF8aEknX03YCwcj6Vp"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169583,
+      "name": "Equity Diversity",
+      "url": "https://open.spotify.com/track/0jYqHTrKh7xtoi8Vagfc51"
     },
     {
       "album": {
@@ -771,7 +843,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 170086,
       "name": "Forest Awakens",
       "url": "https://open.spotify.com/track/5byEWvYqXJvyvIthJtIpHn"
@@ -998,6 +1070,24 @@
     },
     {
       "album": {
+        "name": "Healing Countryside",
+        "url": "https://open.spotify.com/album/1cG1utR9gvZ4j6fSJzOhC2"
+      },
+      "artists": [
+        {
+          "name": "Quiet Point",
+          "url": "https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Healing Countryside",
+      "url": "https://open.spotify.com/track/5BbLgkV7B13HtQe4NQkQRl"
+    },
+    {
+      "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/3x2d2u4oJ8Ip0Ucq7oZdlp"
       },
@@ -1103,7 +1193,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 198058,
       "name": "Izza Bella",
       "url": "https://open.spotify.com/track/04SBXh7gAhybrSgCADK81Y"
@@ -1283,7 +1373,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 161733,
       "name": "Magical Forest",
       "url": "https://open.spotify.com/track/609XrJO5zvw5K1H2l4NtwW"
@@ -1355,7 +1445,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 248071,
       "name": "Misty Rain",
       "url": "https://open.spotify.com/track/2dENOeBmXx4wOkwExLJj3F"
@@ -1413,6 +1503,24 @@
       "duration_ms": 228194,
       "name": "Morning Forest",
       "url": "https://open.spotify.com/track/4U8vdmjWXCy2kfwY86I7Eh"
+    },
+    {
+      "album": {
+        "name": "Morning light",
+        "url": "https://open.spotify.com/album/2MPQP2mJFRopO0dyvhkLWz"
+      },
+      "artists": [
+        {
+          "name": "Rani Williams",
+          "url": "https://open.spotify.com/artist/028c02Vw8VUBiITiYeRXQU"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140374,
+      "name": "Morning light",
+      "url": "https://open.spotify.com/track/1XkWUG4p9pmqJe2UD8mcw0"
     },
     {
       "album": {
@@ -1715,7 +1823,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 178666,
       "name": "Peaceful Forest",
       "url": "https://open.spotify.com/track/36ZHnIzeY7Iq079ZLPQMSC"
@@ -1787,7 +1895,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 160000,
       "name": "Pristine Serenity",
       "url": "https://open.spotify.com/track/2CttcShYdFruE99bOglV8x"
@@ -1866,6 +1974,24 @@
     },
     {
       "album": {
+        "name": "Sanguine",
+        "url": "https://open.spotify.com/album/0yJ6y7fatKw6R47DIhCQxj"
+      },
+      "artists": [
+        {
+          "name": "Mei Wyatt",
+          "url": "https://open.spotify.com/artist/3dlas5ivLc1UoaGKlWz7ak"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179159,
+      "name": "Sanguine",
+      "url": "https://open.spotify.com/track/0jhlHVGBceEn76z6M7uTuC"
+    },
+    {
+      "album": {
         "name": "Secrets of the Forest",
         "url": "https://open.spotify.com/album/1MMXk8aJ4rCi8tBrKXa433"
       },
@@ -1935,7 +2061,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 162060,
       "name": "Sentiment - Sound Bath",
       "url": "https://open.spotify.com/track/6NCBhoJxrycWkrkjM3TgFP"
@@ -1953,7 +2079,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 187169,
       "name": "Shimmering Forest",
       "url": "https://open.spotify.com/track/6BLWC1NLcKc53MzfSQRvPG"
@@ -1989,10 +2115,28 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 169714,
       "name": "Sitting Still",
       "url": "https://open.spotify.com/track/6BtENACq8EIL1oeqEJVbdR"
+    },
+    {
+      "album": {
+        "name": "Skygazer",
+        "url": "https://open.spotify.com/album/5ULiUWVen8QAD2LLHcpOQ0"
+      },
+      "artists": [
+        {
+          "name": "Ra Kuyou",
+          "url": "https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169163,
+      "name": "Skygazer",
+      "url": "https://open.spotify.com/track/58O4KUkOrPi7fOBmGRaOpv"
     },
     {
       "album": {
@@ -2007,7 +2151,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 174000,
       "name": "Somos Tierra",
       "url": "https://open.spotify.com/track/7AVLKd5agjTZWrfjxBTMHX"
@@ -2033,6 +2177,24 @@
       "duration_ms": 141312,
       "name": "Song for Milkweed (asclepias, a genus of herbaceous, perennial, flowering plants)",
       "url": "https://open.spotify.com/track/6kiL320opeuGmB8d4O7a3c"
+    },
+    {
+      "album": {
+        "name": "Songbird Shrine",
+        "url": "https://open.spotify.com/album/418V4m0E3V8o4ISbh8dS5n"
+      },
+      "artists": [
+        {
+          "name": "Aviaries",
+          "url": "https://open.spotify.com/artist/6LnYKrYDcRXSfquJEbRThj"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172909,
+      "name": "Songbird Shrine",
+      "url": "https://open.spotify.com/track/0XVodTArKi2jRSyWmFLYX1"
     },
     {
       "album": {
@@ -2209,7 +2371,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 233035,
       "name": "The River",
       "url": "https://open.spotify.com/track/6X3i3AioYNdSP3BQQyUjGm"
@@ -2252,6 +2414,24 @@
     },
     {
       "album": {
+        "name": "Tibetan Babax",
+        "url": "https://open.spotify.com/album/4ouMZo7TSttQGj7erVpgl0"
+      },
+      "artists": [
+        {
+          "name": "Sarah Loca",
+          "url": "https://open.spotify.com/artist/5jZXtbPYjWhoom78Eh14Wd"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138947,
+      "name": "Tibetan Babax",
+      "url": "https://open.spotify.com/track/5vPZ1FYmRWZUwk9fj5x450"
+    },
+    {
+      "album": {
         "name": "Treetop Dreamers",
         "url": "https://open.spotify.com/album/5YQsZOrmwOlqKrc4NlDRlw"
       },
@@ -2281,7 +2461,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 187918,
       "name": "Tributary Balance",
       "url": "https://open.spotify.com/track/6iCoaYHHA82MZZnxi6nt9h"
@@ -2396,6 +2576,24 @@
     },
     {
       "album": {
+        "name": "Wave Son",
+        "url": "https://open.spotify.com/album/4icmQJ3f32Xcz6FniCqQJE"
+      },
+      "artists": [
+        {
+          "name": "Sam Bucciana",
+          "url": "https://open.spotify.com/artist/4A7ZW9rJIvRiyu3pgxQW1j"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158541,
+      "name": "Wave Son",
+      "url": "https://open.spotify.com/track/1zISOcapD0WOYWovAxE9Si"
+    },
+    {
+      "album": {
         "name": "Whispering Canopy",
         "url": "https://open.spotify.com/album/1QxW5XiqepKAqVMGaIlgxG"
       },
@@ -2447,6 +2645,24 @@
       "duration_ms": 182600,
       "name": "With the Flow",
       "url": "https://open.spotify.com/track/25ZH9ibNeaF3U5rK02Y2Up"
+    },
+    {
+      "album": {
+        "name": "Woodland Bath",
+        "url": "https://open.spotify.com/album/4ppwYlf1YUQZuaD9icWHoD"
+      },
+      "artists": [
+        {
+          "name": "Binaural Delta Sleep",
+          "url": "https://open.spotify.com/artist/1BhL6JmVQYO2USLM1HbzKd"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148615,
+      "name": "Woodland Bath",
+      "url": "https://open.spotify.com/track/2ZvX4lwsVoODY65iuuebZX"
     },
     {
       "album": {

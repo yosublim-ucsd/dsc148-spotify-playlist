@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Diamante El\u00e9ctrico",
-  "num_followers": 85508,
+  "num_followers": 85518,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
+        "name": "Sed",
+        "url": "https://open.spotify.com/album/0G7nexrpLnddOAHIoyEIxn"
+      },
+      "artists": [
+        {
+          "name": "Lucio Feuillet",
+          "url": "https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy"
+        }
+      ],
+      "duration_ms": 299116,
+      "name": "Sed",
+      "url": "https://open.spotify.com/track/5NIiEaXpBzGAUVNPwWqZJg"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
         "name": "Pnmt Corrosion",
         "url": "https://open.spotify.com/album/0xOHxNbGBa4EwxHddofv96"
       },
@@ -851,18 +867,22 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Sed",
-        "url": "https://open.spotify.com/album/0G7nexrpLnddOAHIoyEIxn"
+        "name": "Tierra",
+        "url": "https://open.spotify.com/album/4hONbMfBNGtrslvAqe2wX4"
       },
       "artists": [
         {
-          "name": "Lucio Feuillet",
-          "url": "https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy"
+          "name": "Mad Tree",
+          "url": "https://open.spotify.com/artist/7ozAaEiZsgJUvQ8TDm6X1h"
+        },
+        {
+          "name": "Mateo Par\u00eds",
+          "url": "https://open.spotify.com/artist/5g4xkc9ZvfAUuP5UJxvCBG"
         }
       ],
-      "duration_ms": 299116,
-      "name": "Sed",
-      "url": "https://open.spotify.com/track/5NIiEaXpBzGAUVNPwWqZJg"
+      "duration_ms": 183539,
+      "name": "Desierto",
+      "url": "https://open.spotify.com/track/3Amv0UJc2xJ7YZuhCCSM5i"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -895,26 +915,6 @@
       "duration_ms": 327296,
       "name": "La Fuente",
       "url": "https://open.spotify.com/track/2c6niSBI2M7gqVK1tWwEhu"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
-        "name": "Tierra",
-        "url": "https://open.spotify.com/album/4hONbMfBNGtrslvAqe2wX4"
-      },
-      "artists": [
-        {
-          "name": "Mad Tree",
-          "url": "https://open.spotify.com/artist/7ozAaEiZsgJUvQ8TDm6X1h"
-        },
-        {
-          "name": "Mateo Par\u00eds",
-          "url": "https://open.spotify.com/artist/5g4xkc9ZvfAUuP5UJxvCBG"
-        }
-      ],
-      "duration_ms": 183539,
-      "name": "Desierto",
-      "url": "https://open.spotify.com/track/3Amv0UJc2xJ7YZuhCCSM5i"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -987,18 +987,18 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Cisne",
-        "url": "https://open.spotify.com/album/7f7pQzEZjRdDZZDEtqWgl3"
+        "name": "Dallas",
+        "url": "https://open.spotify.com/album/50IXZEy0pidYPuFaGAfpOI"
       },
       "artists": [
         {
-          "name": "V for Volume",
-          "url": "https://open.spotify.com/artist/2Sgo9dXRK6VKbAAMhmb3Zz"
+          "name": "Oh'laville",
+          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
         }
       ],
-      "duration_ms": 154000,
-      "name": "Cisne",
-      "url": "https://open.spotify.com/track/3HEjxQXUOFV8cWLaGDR27g"
+      "duration_ms": 226451,
+      "name": "Dallas",
+      "url": "https://open.spotify.com/track/5gWDL9ifXbf7InGMldaWOm"
     },
     {
       "added_at": "2023-10-07 00:35:47",

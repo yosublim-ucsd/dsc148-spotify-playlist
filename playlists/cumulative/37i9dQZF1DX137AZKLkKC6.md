@@ -2,9 +2,9 @@
 
 ### [La + Popular](https://open.spotify.com/playlist/37i9dQZF1DX137AZKLkKC6)
 
-> Las grandes del Despecho y el Género Popular\. Foto: Nico Hernández
+> Las grandes del Despecho y el Género Popular\. Foto: Luis Alfonso, Ciro Quiñonez, Pipe Bueno y Jessi Uribe
 
-239 songs - 12 hr 17 min
+240 songs - 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [Mis Borracheras](https://open.spotify.com/track/5pSv10cnwgc4J1237PebIK) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Mis Borracheras](https://open.spotify.com/album/2pB6pJ5wfo5O8f3Qwc1gEI) | 2:47 | 2024-04-05 |  |
 | [MLP](https://open.spotify.com/track/0crUc5ee412RCaQH6ePBWt) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [MLP](https://open.spotify.com/album/1yD5svvZbyAeJ5RlrEpqGA) | 2:28 | 2024-01-26 |  |
 | [Morí](https://open.spotify.com/track/20Iw28nojWZVqPFYEdH8ag) | [Pancho Uresti](https://open.spotify.com/artist/7bNmosifuMqLwui79Cjqcd) | [Morí](https://open.spotify.com/album/3xTefPNi5demDd4X2s4nch) | 3:30 | 2023-04-14 | 2023-05-13 |
-| [Mujeres Divinas](https://open.spotify.com/track/1aonRnI6HP31i30Gcbsuj6) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [México en Mi Voz](https://open.spotify.com/album/3K6llo2F2tGmc8d2dww0xE) | 3:19 | 2023-09-15 |  |
+| [Mujeres Divinas](https://open.spotify.com/track/1aonRnI6HP31i30Gcbsuj6) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [México en Mi Voz](https://open.spotify.com/album/3K6llo2F2tGmc8d2dww0xE) | 3:19 | 2023-09-15 | 2024-05-03 |
 | [Muy Bandida](https://open.spotify.com/track/3COF1HSdwbzRrWCbEjEbdq) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [De Regreso al Dolor](https://open.spotify.com/album/5RIKYvJcZknT4zBYZJxFfV) | 3:01 | 2024-04-05 |  |
 | [Muy Bandida](https://open.spotify.com/track/74Q5KgYnmaaD4onOW77Deu) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [De Regreso al Dolor](https://open.spotify.com/album/5g86joQp94OGhGhKrzU9Yc) | 3:01 | 2022-08-12 | 2024-04-19 |
 | [Nace Un Borracho](https://open.spotify.com/track/6SnO4yCCYtz2rffMpEAlro) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [AYAYAY! \(Deluxe\)](https://open.spotify.com/album/6JsZWQ0iaOn0GbirYWqwCi) | 2:56 | 2022-08-12 |  |
@@ -194,6 +194,7 @@
 | [Qué Mal Te Ves Sin Mí](https://open.spotify.com/track/1gthSsDhrDJ1MvAa8Vc71I) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [No Pongan Esas Canciones](https://open.spotify.com/album/1kXg9vlPq2LBFtgrO4pbEk) | 3:19 | 2023-12-01 | 2024-04-19 |
 | [Qué Pensaste](https://open.spotify.com/track/1qde1NqHQno17MdNziaYmN) | [Grupo Dominio](https://open.spotify.com/artist/3AIAbiLXeCSSSqYqo8zMAi), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Qué Pensaste](https://open.spotify.com/album/1375E6oaMeXeSJM7Y0zWes) | 3:20 | 2023-12-01 | 2024-02-10 |
 | [Quédate](https://open.spotify.com/track/2h7pX9EhOdpFSM0PEO9NYn) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Quédate](https://open.spotify.com/album/6Jf2rqjSUSC6dYTwks1g9n) | 4:07 | 2023-05-12 | 2023-07-28 |
+| [REGALADA $ALES CARA \- Remix](https://open.spotify.com/track/1HVl85DZpMA6u3jyFPNlWN) | [Ciro Quiñonez](https://open.spotify.com/artist/5xaXYXef87CBDufNh0kHnK), [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [REGALADA $ALES CARA \(Remix\)](https://open.spotify.com/album/1p3k0cIW6rYOpcWSwCnEEy) | 4:13 | 2024-05-03 |  |
 | [Renuncio](https://open.spotify.com/track/3bilLSXa7DLZVsjLMi2eaQ) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Renuncio](https://open.spotify.com/album/1DZeF0T2EnATyKIqdiuA5I) | 3:24 | 2023-03-31 | 2023-06-03 |
 | [Repítela](https://open.spotify.com/track/6syqaRHW4FsOgdGgoWvAb1) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Repítela](https://open.spotify.com/album/1S3Ao9VsfFF9v8azLqaM29) | 3:29 | 2022-08-12 |  |
 | [Resultó Muy Perra \(Me Dejó Solito\)](https://open.spotify.com/track/0JfDDmD5vuNYpwQj4FCxdj) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Resultó Muy Perra \(Me Dejó Solito\)](https://open.spotify.com/album/2VKqdkvlANFAc3AhrYFeyj) | 2:24 | 2022-08-12 | 2023-02-18 |

@@ -4,7 +4,7 @@
 
 > Relax to the calming sounds of choral music.
 
-121 songs - 9 hr 8 min
+122 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Scene Suspended \(Arr\. Lawson\)](https://open.spotify.com/track/2GBt4i5xZqpbJPlmnYFFOC) | [Voces8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc), [Eleanor Turner](https://open.spotify.com/artist/2iWdlFp0AxoJNj3QH18at4) | [Ambient Focus](https://open.spotify.com/album/0qqX7dkOe7FIwO8XueRHrm) | 3:58 | 2022-11-10 | 2022-11-13 |
 | [Se Per Havervi, Oime](https://open.spotify.com/track/0IMNOXsmeMpgWbog4bc3fg) | [Nordic Chamber Choir \- Nicol Matt](https://open.spotify.com/artist/2wH2k1sMCZnxgTq0oFikB9) | [O Magnum Mysterium](https://open.spotify.com/album/5nowbH2Rx5SK1qJTM0fpKf) | 4:26 | 2021-07-21 | 2022-09-16 |
 | [Seeing the Star](https://open.spotify.com/track/7pCg4v0hmeFwFo0JB2sBYm) | [Ben Ponniah](https://open.spotify.com/artist/33wLV9BIpFpqat4MPMjVER), [The Chapel Choir of Pembroke College, Cambridge](https://open.spotify.com/artist/6DPxkITuYSrDAPdhISWO35), [The Pembroke College Girls’ Choir](https://open.spotify.com/artist/1yOR9zLmkleTdu93bcuQRT), [Anna Lapwood](https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP) | [Seeing the Star](https://open.spotify.com/album/3N5Lknwmt35GmNVpTEAM8c) | 2:17 | 2022-09-30 |  |
+| [Shenandoah](https://open.spotify.com/track/3GSRFohtLOIGDDsTi0C42D) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Westminster Choir](https://open.spotify.com/artist/7bOkvwxa2SjdbvMvNawSMZ), [James Jordan](https://open.spotify.com/artist/61UExWH2clZAUQFKTL6i26), [Gregory Stout](https://open.spotify.com/artist/6NGNTe5X77kALLYzhRFaX9) | [A Serenity of Soul \(Westminster Choir 100th Anniversary Recording\)](https://open.spotify.com/album/1PhbZD3IgHBuFx7jE3IABb) | 4:35 | 2024-05-03 |  |
 | [Shimmering "Ave generosa"](https://open.spotify.com/track/3IvUo0t6f14nnRQW6YZA5T) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G), [Ensemble LaCappella](https://open.spotify.com/artist/4DaArcYtQ5y51HX41Qx9dk) | [Shimmering](https://open.spotify.com/album/4xIyRTcQ1M3E4nbQIvZf05) | 5:08 | 2022-01-21 |  |
 | [Shimmering \- Ace generosa](https://open.spotify.com/track/7JZlmBfgc2UnHwM9G8LycA) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G), [LaCappella](https://open.spotify.com/artist/3SJpGtjBkNg4I0dPIIdOd0) | [Lacappella: Shimmering \(Works by Ola Gjeilo, Simon Wawer, Eriks Esenvalds, Clytus Gottwald, Robert Schumann\)](https://open.spotify.com/album/2RjDaK63dArZPmsbavZSmb) | 5:13 | 2022-07-22 | 2024-04-19 |
 | [Sicut Cervus](https://open.spotify.com/track/6uVYUhDfJdwV5IcLRR4KpV) | [The Cathedral Singers](https://open.spotify.com/artist/6GCii6lkUhkzTrznRyCuVh) | [Catholic Classics, Vol\. 11: Catholic Communion Classics](https://open.spotify.com/album/4WhG2ySCLtOWHj0Gz3tmHQ) | 3:09 | 2021-07-21 |  |

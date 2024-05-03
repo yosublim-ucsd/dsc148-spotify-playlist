@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91332Zfaziz.md) - [plain]
 
 > Drawn together\. Driven apart\. Listen to the music from and inspired by Normal People, all episodes streaming on Hulu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,584 likes - 62 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,635 likes - 62 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

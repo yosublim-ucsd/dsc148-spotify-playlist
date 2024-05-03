@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op zondag met deze zachte pop liedjes.
 
-180 songs - 10 hr 19 min
+181 songs - 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [I Wanna See You Smile](https://open.spotify.com/track/5A7m1ZdTNhZAZ19Hl5H3F2) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [I Wanna See You Smile](https://open.spotify.com/album/2ZMs2qoPYNuPvqXoXOWt4S) | 3:19 | 2024-04-18 |  |
 | [I Wanna See You Smile](https://open.spotify.com/track/5DWf4L3ZK5PILo7t2Ruw9G) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [A Safe Place To Be](https://open.spotify.com/album/7JEhar1mBnpipI7lki4Icq) | 3:19 | 2022-12-22 | 2024-04-19 |
 | [I Will](https://open.spotify.com/track/55iAa62IUSZPvDomtdTXtf) | [The Road](https://open.spotify.com/artist/27unjjQ1Ul3vWmGF034xWA), [BROWN & GRAY](https://open.spotify.com/artist/5uVK02OMlf0TvVe7iNHaGN) | [I Will](https://open.spotify.com/album/7dDoxxE2cbTMHdgd9ddiAj) | 2:49 | 2023-12-14 |  |
+| [I Will Go There \- Piano Version](https://open.spotify.com/track/7tzccZ7KQOgQIhIdNkTqeM) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [I Will Go There](https://open.spotify.com/album/6rmoINRdaMiAsPKrAeJMlt) | 3:10 | 2024-05-02 |  |
 | [I Won't](https://open.spotify.com/track/5ygnERCqjbRRvDxAUMGlsO) | [Etham](https://open.spotify.com/artist/5fywYLnKJi950Y5yMqavxm) | [I Won't](https://open.spotify.com/album/0etuLc4PdQ5CG4YAINSnbs) | 3:35 | 2023-04-28 |  |
 | [i'll be there](https://open.spotify.com/track/0tdXJ2JYencFfW1QjZ0drx) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [i'll be there](https://open.spotify.com/album/13SZlBbp3KydSTvZ3cahvr) | 3:17 | 2022-12-22 |  |
 | [idlm](https://open.spotify.com/track/3CfI0vmUAQ7dlUvBdGZZ1D) | [St\. Solaire](https://open.spotify.com/artist/5QsBtdXbeZMaAjXd7GBPL8) | [idlm](https://open.spotify.com/album/33IfCg2Ou1Z56s2DnjhirV) | 2:33 | 2023-01-16 |  |
@@ -186,7 +187,7 @@
 | [Worth It](https://open.spotify.com/track/1j6fqlqbmYyEOWj839SEHg) | [Mell & Vintage Future](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Worth It](https://open.spotify.com/album/6L9Q8C3EGLKZPJAabDC4fr) | 2:40 | 2022-12-22 |  |
 | [You](https://open.spotify.com/track/5eNfh2WZrReCBJIGssyW4G) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [You](https://open.spotify.com/album/70RuuZgBUfzBzxREbvIigs) | 3:00 | 2022-12-22 | 2023-04-14 |
 | [You Are Not Alone](https://open.spotify.com/track/0LLc1wJdpQMpgMKCF8y2TF) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [You Are Not Alone](https://open.spotify.com/album/6dRPKSUv4bXPTthz9aB47E) | 3:28 | 2022-12-22 | 2024-04-05 |
-| [You Don't Even Know Me](https://open.spotify.com/track/25ySqlmqGYbg7EH687XaVR) | [The Jordan](https://open.spotify.com/artist/7uV6WztwBfEmbGrVPANEaW) | [You Don't Even Know Me](https://open.spotify.com/album/0KyjORfPI4rvjc4vnFq5O5) | 3:27 | 2022-12-22 |  |
+| [You Don't Even Know Me](https://open.spotify.com/track/25ySqlmqGYbg7EH687XaVR) | [The Jordan](https://open.spotify.com/artist/7uV6WztwBfEmbGrVPANEaW) | [You Don't Even Know Me](https://open.spotify.com/album/0KyjORfPI4rvjc4vnFq5O5) | 3:27 | 2022-12-22 | 2024-05-03 |
 | [You Make It Real](https://open.spotify.com/track/4Xvcx48q8khat7M1YUYaYW) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Songs For You, Truths For Me](https://open.spotify.com/album/0pAVneHUj7ApOZZPPZBVyN) | 3:31 | 2022-12-22 | 2023-02-17 |
 
 \*This playlist was first scraped on 2023-01-14. Prior content cannot be recovered.

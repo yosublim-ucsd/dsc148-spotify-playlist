@@ -1,12 +1,12 @@
 {
-  "description": "This is Cassiane. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 33561,
+  "description": "This Is Cassiane. Los temas esenciales, todos en una lista.",
+  "num_followers": 33569,
   "original_name": "This Is Cassiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjA0gAAAAADaZWPYbi0i4ALYSvsGlKk7",
+  "snapshot_id": "ZjGGAAAAAAC0uFokgZ6h3m0Qdg4ZkBWm",
   "tracks": [
     {
       "added_at": null,
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 315837,
-      "name": "Forte Campe\u00e3o",
-      "url": "https://open.spotify.com/track/46yEehuyQ361ecO1zjaRIP"
+      "duration_ms": 248314,
+      "name": "Deus Tem Poder",
+      "url": "https://open.spotify.com/track/39QAy80uCoPxx7ed7wdLDd"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Recompensa",
+        "url": "https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 340125,
+      "name": "Dia Inesquec\u00edvel",
+      "url": "https://open.spotify.com/track/0t8RFvYHiLd5AEVPS5Iobp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mem\u00f3rias do Cora\u00e7\u00e3o - Vol. 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/67vcrkrTm7ttX6WVDcGPjw"
       },
@@ -819,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recompensa",
-        "url": "https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 340125,
-      "name": "Dia Inesquec\u00edvel",
-      "url": "https://open.spotify.com/track/0t8RFvYHiLd5AEVPS5Iobp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Harpa Vol.1",
         "url": "https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc"
       },
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 433562,
-      "name": "Fala Jesus Querido",
-      "url": "https://open.spotify.com/track/5hGUUFuZ4OfGTbpVJrYE1o"
+      "duration_ms": 247942,
+      "name": "A Alma Abatida",
+      "url": "https://open.spotify.com/track/512xriilWCODMzkyhFaR4O"
     },
     {
       "added_at": null,
@@ -912,9 +912,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 247942,
-      "name": "A Alma Abatida",
-      "url": "https://open.spotify.com/track/512xriilWCODMzkyhFaR4O"
+      "duration_ms": 433562,
+      "name": "Fala Jesus Querido",
+      "url": "https://open.spotify.com/track/5hGUUFuZ4OfGTbpVJrYE1o"
     },
     {
       "added_at": null,

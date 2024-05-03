@@ -4,12 +4,12 @@
 
 > From India to MENA, these hits will make you dance.
 
-58 songs - 3 hr 38 min
+59 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/3ZVKI8jix6PjEFx2xFBFhz) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7IfUPFe5MSwcAp2Vw8ohF5) | 0:00 | 2023-01-24 | 2023-11-28 |
-| [3 Sneen](https://open.spotify.com/track/6ZddaoTZy0vqf4vTmqUbJs) | [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [3 Sneen](https://open.spotify.com/album/6IOqUxSF8Il0r0aXFTt4rt) | 3:01 | 2023-01-24 |  |
+| [3 Sneen](https://open.spotify.com/track/6ZddaoTZy0vqf4vTmqUbJs) | [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [3 Sneen](https://open.spotify.com/album/6IOqUxSF8Il0r0aXFTt4rt) | 3:01 | 2023-01-24 | 2024-05-03 |
 | [Aameen 2.0](https://open.spotify.com/track/2qbNhg5R639B4SP2ROwTbU) | [Hashmat Sultana](https://open.spotify.com/artist/6ez5nZKCRO9HY08CWrHZok) | [Aameen 2.0](https://open.spotify.com/album/3XP44vQpUA7i5rw4fbuNZL) | 4:26 | 2023-01-24 |  |
 | [Angel](https://open.spotify.com/track/5s6w6LGupX78gmYBnD6PyX) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP) | [Angel](https://open.spotify.com/album/6ayXe6K6BCesXlSeYFFowA) | 2:55 | 2023-01-24 |  |
 | [Bhoora Bhoora](https://open.spotify.com/track/5bzK0v8khbUIe0PYLcKL3E) | [Pav Dharia](https://open.spotify.com/artist/0j2LQCxHNcJdkuJRa8KEp5), [Emperor TZZZARRR](https://open.spotify.com/artist/1uvWNcWID6KLkbLYDgw6Vv) | [Bhoora Bhoora](https://open.spotify.com/album/54c0hF6EJzvirDvfwXKe3n) | 3:09 | 2024-03-13 |  |
@@ -50,6 +50,7 @@
 | [Proper Patola](https://open.spotify.com/track/39ujbBjTwwqUFySaCYDMMT) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ) | [Namaste England \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6qokplIH6RyEbm9Q2DiBQB) | 2:58 | 2023-01-24 |  |
 | [Psycho Saiyaan \(From "Saaho"\)](https://open.spotify.com/track/3ZjMdVOWxQ53FKrmkgCv95) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Psycho Saiyaan \(From "Saaho"\)](https://open.spotify.com/album/1sywArD1z0FvcfsN1MK9GE) | 2:46 | 2023-01-24 |  |
 | [Shukran Allah \(From "Kurbaan"\)](https://open.spotify.com/track/2NLV2sSMKbHYyqezZiqXj0) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm) | [Sonu Nigam: Best of Me](https://open.spotify.com/album/6t6xffp18j87wZRLXOwHa7) | 4:50 | 2023-01-24 |  |
+| [Telagena \(Gerua \- Arabic Version\) \[From "Dilwale"\]](https://open.spotify.com/track/5eA1snpFbKfoUICqvYSg63) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Adel Ebrahim](https://open.spotify.com/artist/54orihTp212ScJ6Ldx71QL), [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2) | [Telagena \(Gerua \- Arabic Version\) \[From "Dilwale"\]](https://open.spotify.com/album/0QzBLvMpcBtLnHocP7CNZX) | 5:50 | 2024-03-13 |  |
 | [The Naari Naari Song \(From "Made in China"\)](https://open.spotify.com/track/0VhKdIMXZ3INkyDoIyPy5l) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [The Naari Naari Song \(From "Made in China"\)](https://open.spotify.com/album/6C6MkQFaFZpyMnH5aVdqqL) | 3:17 | 2023-01-24 |  |
 | [Tishnalabi](https://open.spotify.com/track/5ygNuIlV7wBy7ZGyE3Rj7w) | [Bhoomi Trivedi](https://open.spotify.com/artist/16IWQKGP5XiiKxalXZuIMZ) | [Tishnalabi](https://open.spotify.com/album/2TMBDDCyp31FECU4jd4ibl) | 3:05 | 2023-01-24 |  |
 | [Urvashi](https://open.spotify.com/track/5w99VDAT9vFmcEiOGG2eYU) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Best Of Indian Pop 2018](https://open.spotify.com/album/2oJZbv4jn5rlVw6CNganYn) | 3:35 | 2023-01-24 |  |

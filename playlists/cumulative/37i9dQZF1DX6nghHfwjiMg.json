@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "El futuro est\u00e1 ac\u00e1. Foto: Soui Uno",
+  "description": "El futuro est\u00e1 ac\u00e1.",
   "name": "RADAR Al Sur",
   "tracks": [
     {
@@ -647,6 +647,28 @@
     },
     {
       "album": {
+        "name": "La Muela - LBC",
+        "url": "https://open.spotify.com/album/0wmTMFAyJNcLL6PbaVOWEB"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        },
+        {
+          "name": "La banda de Carlitos",
+          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231680,
+      "name": "Como Lo Hizo? - En Vivo",
+      "url": "https://open.spotify.com/track/0Hz6aSrhpX96XElSwq7Eb5"
+    },
+    {
+      "album": {
         "name": "Azul Es Donde Siempre Estoy",
         "url": "https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M"
       },
@@ -706,6 +728,24 @@
       "duration_ms": 118956,
       "name": "Cura' de Espanto",
       "url": "https://open.spotify.com/track/1hzSaPNL2XsYUa3nGfIbjZ"
+    },
+    {
+      "album": {
+        "name": "De Nada",
+        "url": "https://open.spotify.com/album/746z1LiHVs93wlgNoxLyk3"
+      },
+      "artists": [
+        {
+          "name": "Magui Olave",
+          "url": "https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197565,
+      "name": "De Nada",
+      "url": "https://open.spotify.com/track/4B5Xj6lJfVsXLzzzZE1Fdf"
     },
     {
       "album": {
@@ -3018,6 +3058,28 @@
       "duration_ms": 276000,
       "name": "Te Trae'",
       "url": "https://open.spotify.com/track/6nvQadx2zZK3MW8BYkc7BO"
+    },
+    {
+      "album": {
+        "name": "Tel\u00e9fono",
+        "url": "https://open.spotify.com/album/2JNMOZnl8uXLora1UHkK3q"
+      },
+      "artists": [
+        {
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR"
+        },
+        {
+          "name": "Valentina Marquez",
+          "url": "https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173296,
+      "name": "Tel\u00e9fono",
+      "url": "https://open.spotify.com/track/0TLcJzMSrDwOlGFzx6sgCP"
     },
     {
       "album": {

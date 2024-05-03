@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Budjerah
 
-768 songs - 1 day 17 hr 17 min
+772 songs - 1 day 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [FOOL 4 U](https://open.spotify.com/track/28a8bRus9o9qT6OwSfIHWy) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [AFTER DINNER WE TALK DREAMS: THE SIDE DISHES](https://open.spotify.com/album/7t3CYSKXmlMDUMGwOhbOQ0) | 2:17 | 2022-06-17 |  |
 | [Fools](https://open.spotify.com/track/029JPfM163NTS6fA0Pldws) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Nights Like This](https://open.spotify.com/album/7xyaGyDfDSP6h05f7vM7oq) | 3:44 | 2019-08-27\* | 2020-02-12 |
 | [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:39 | 2022-07-08 |  |
+| [Forbidden Fruit](https://open.spotify.com/track/0JNcgsLk3Zdxgu75aGppmH) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Forbidden Fruit](https://open.spotify.com/album/1259gMBnBGDuCkAlLcJEyj) | 2:22 | 2024-05-03 |  |
 | [Forget You](https://open.spotify.com/track/2S3wdZxAuixiNbXbknlIUN) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [Forget You](https://open.spotify.com/album/2IZUTQgdCkWtazXjExCJ09) | 3:01 | 2024-01-18 |  |
 | [Forgive Myself](https://open.spotify.com/track/4upXlYzMHIwAd8fR2cp6sp) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Forgive Myself](https://open.spotify.com/album/4zYpRSmCxbwKtFaoHhezsG) | 2:53 | 2020-05-29 | 2021-05-12 |
 | [Forgot About](https://open.spotify.com/track/3JnRyp1X0N1QxiaMwnXlEs) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Forgot About](https://open.spotify.com/album/1KdLuqgmPBrrOtkqFDDvxe) | 3:38 | 2021-05-15 |  |
@@ -349,6 +350,7 @@
 | [iiii](https://open.spotify.com/track/6G5vHzGiuNWAjLEOZCGuj7) | [RÊVERIE](https://open.spotify.com/artist/1U5XdE0McaAPAu1zA2AC1T) | [iiii](https://open.spotify.com/album/1eEyO0qyLFyM8gUWjfaiUj) | 2:09 | 2019-12-10 | 2020-03-25 |
 | [Imagination](https://open.spotify.com/track/1tHTm4TblBppg2Kck3Z9OZ) | [Kat Holland](https://open.spotify.com/artist/3LbG3YJCzxwKicBdQOgTFl) | [Imagination](https://open.spotify.com/album/2uAJIuuTdJgP4PqXtgKyMu) | 3:07 | 2021-01-15 |  |
 | [Imagine U](https://open.spotify.com/track/6rsuqpfWuNMpaektrYV906) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Imagine U](https://open.spotify.com/album/2LKCG9YgHEhDeYUP7F6aYo) | 3:09 | 2020-04-12 | 2021-05-12 |
+| [Immortal Queen \(feat\. Chaka Khan\)](https://open.spotify.com/track/3L5AK36OlaswwPI0WduBJg) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 3:19 | 2024-05-03 |  |
 | [In Between \(feat\. Jude York\)](https://open.spotify.com/track/2AGVgk4Irtuxo651StzYPa) | [Dami Im](https://open.spotify.com/artist/2wSrZOe6YVo6XoKma22sdY), [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [In Between \(feat\. Jude York\)](https://open.spotify.com/album/06MrUCBDlGZMsvSlpUPjAs) | 2:50 | 2023-05-19 |  |
 | [In Bloom \(feat\. Georgia Lines\)](https://open.spotify.com/track/06SCbxyjwwX6hj9eMLsYHi) | [Pacific Heights](https://open.spotify.com/artist/0Yty2T0fXIPw6hAzEGV9mK), [Georgia Lines](https://open.spotify.com/artist/6mLG8h9CeWZ2QsuHIgka3c) | [In Bloom \(feat\. Georgia Lines\)](https://open.spotify.com/album/2uHzfyr7PQmAMZ9bmpxmxE) | 3:51 | 2021-03-06 |  |
 | [In My Room](https://open.spotify.com/track/4S4Mfvv03M1cHgIOJcbUCL) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [In My Room](https://open.spotify.com/album/71VX8yv9T2hNIYVZJVUWVp) | 2:13 | 2019-11-25 | 2021-05-12 |
@@ -581,6 +583,7 @@
 | [running in place](https://open.spotify.com/track/3bGJaTfUpcbSNeJgFdxI9s) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [running in place](https://open.spotify.com/album/5WohdQVT7eFimhNjlMeXt3) | 2:45 | 2021-04-28 |  |
 | [Running On My Mind](https://open.spotify.com/track/0xEW9gPv5wNuS84pXGG3lc) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Running On My Mind](https://open.spotify.com/album/117stOgbjnRoJjARCJjADm) | 2:36 | 2020-05-29 | 2021-05-12 |
 | [Sabotage \(feat\. CHIKA\)](https://open.spotify.com/track/7mGNbYBInkLQwPHicUgWQ5) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6), [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [Sabotage \(feat\. CHIKA\)](https://open.spotify.com/album/1EHJCMK3kqXhvkGSNOt4T9) | 3:44 | 2019-10-28 | 2020-02-12 |
+| [Sacrifice Tomorrow](https://open.spotify.com/track/5H4y5thHDJUAxwiclrSXc1) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Sacrifice Tomorrow](https://open.spotify.com/album/0GVkcfu3pkAdakG3oIt5cu) | 2:25 | 2024-05-03 |  |
 | [Sad Girl Summer](https://open.spotify.com/track/45vKP0cRjVu9UxNIWVHDoj) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Sad Girl Summer](https://open.spotify.com/album/01RDRSabinKcm0bjdo3tJw) | 2:44 | 2020-07-03 | 2021-05-12 |
 | [Sad Song](https://open.spotify.com/track/0fjdTZFuBkKxpm9tQ8q8qD) | [EBEN](https://open.spotify.com/artist/0mZsmXegjYM7hNw0QGE5b7) | [Sad Song](https://open.spotify.com/album/3Drj0EVrIr6D4OSiuGbB20) | 2:55 | 2020-04-24 | 2021-05-12 |
 | [Safe Place](https://open.spotify.com/track/473mm8ZCEemFD8p2RnP9nz) | [PARADISE RISING](https://open.spotify.com/artist/0bGLIWZrNjcM3mIwPqxBNo), [Kiana V](https://open.spotify.com/artist/1DZGAZcaTA32eLJELEsjXY) | [semilucent](https://open.spotify.com/album/0pQOeB5lxMJ8OhNZE2Jv9a) | 2:43 | 2020-07-31 | 2021-05-12 |
@@ -688,6 +691,7 @@
 | [There's Only One \(feat\. Genesis Owusu\)](https://open.spotify.com/track/3FypeFOz4MXOMaC20j1mBg) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh), [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [There's Only One \(feat\. Genesis Owusu\)](https://open.spotify.com/album/3cF60RkN3triEWe9tt5ARt) | 3:09 | 2022-02-18 |  |
 | [These Are The Days](https://open.spotify.com/track/3aJs1TqxQh1Y2SNL8Vt1ZA) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf) | 3:50 | 2023-05-12 |  |
 | [These Days](https://open.spotify.com/track/4AJFUuMaJFsRlz1C4GzAWk) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [These Days](https://open.spotify.com/album/1WzqNwKJqMtMZA8rnWY1XS) | 3:23 | 2020-05-28 | 2021-05-12 |
+| [These Walls](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:37 | 2024-05-03 |  |
 | [Think About It](https://open.spotify.com/track/1CkkV6YIEUTfxprPkg86Rh) | [Jim Junior](https://open.spotify.com/artist/31Xf3cuuJ63CRNoxbW3rdu) | [Think About It](https://open.spotify.com/album/5iTYPTP83OuJ7MfiQ9hhBe) | 3:32 | 2019-08-27\* | 2019-11-11 |
 | [Thinking Bout Me](https://open.spotify.com/track/2SUlt0qfsmE7lyUuSpKWcK) | [Cecily](https://open.spotify.com/artist/4wR8IGlAgXfIRFPUezlq6H) | [Thinking Bout Me](https://open.spotify.com/album/1t1LUPgT2V2ytlbNz7yNV8) | 2:56 | 2019-08-27\* | 2019-11-11 |
 | [This Is On You](https://open.spotify.com/track/2oeYjGXqPooFVy64aoqrJP) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [This Is On You](https://open.spotify.com/album/1BTAYKbh1kQaNRJ2TSC8I6) | 3:15 | 2019-09-20 | 2021-05-12 |

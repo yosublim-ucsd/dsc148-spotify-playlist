@@ -845,6 +845,24 @@
     },
     {
       "album": {
+        "name": "Boas Novas",
+        "url": "https://open.spotify.com/album/7rdv5rmXPxT1PjG8GzN6Eg"
+      },
+      "artists": [
+        {
+          "name": "CAIQ",
+          "url": "https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126077,
+      "name": "Boas Novas",
+      "url": "https://open.spotify.com/track/7HFJFzYJIBTYoT9oyhtplR"
+    },
+    {
+      "album": {
         "name": "Boaz e Rute",
         "url": "https://open.spotify.com/album/6P5wzuo9oWlAl6QWswi157"
       },
@@ -2422,7 +2440,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 132686,
       "name": "Eu Pe\u00e7o Pro Meu Pai",
       "url": "https://open.spotify.com/track/0gGh2Y3yfWOSQG7qYGAq0U"
@@ -4915,6 +4933,24 @@
     },
     {
       "album": {
+        "name": "O Mesmo Deus",
+        "url": "https://open.spotify.com/album/1aHIcMetRa3z0i8YUd0uAo"
+      },
+      "artists": [
+        {
+          "name": "Thiag\u00e3o",
+          "url": "https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208500,
+      "name": "O Mesmo Deus",
+      "url": "https://open.spotify.com/track/2iiTw2HUFAig6U5QhihQo8"
+    },
+    {
+      "album": {
         "name": "O Pai Espera Voc\u00ea Voltar",
         "url": "https://open.spotify.com/album/0BrQP6UrR3NBzDPeW6aQCj"
       },
@@ -5532,7 +5568,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 142628,
       "name": "Por Toda Cidade",
       "url": "https://open.spotify.com/track/2zObZH6sreWK9SyS2pVnsW"
@@ -8136,7 +8172,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 231575,
       "name": "\u00c9 Voc\u00ea",
       "url": "https://open.spotify.com/track/3dQXxShR7tRJF7of1tmPQ7"

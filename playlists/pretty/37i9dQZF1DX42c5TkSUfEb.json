@@ -1,6 +1,6 @@
 {
   "description": "La playlist id\u00e9ale pour se d\u00e9tendre en musique.",
-  "num_followers": 762249,
+  "num_followers": 762334,
   "original_name": "Au calme",
   "owner": {
     "name": "Spotify",
@@ -955,6 +955,22 @@
     {
       "added_at": "2024-04-15 15:13:03",
       "album": {
+        "name": "RESONATE AUGMENTED",
+        "url": "https://open.spotify.com/album/28U9b6LfdddUlU9t0GbupS"
+      },
+      "artists": [
+        {
+          "name": "Papooz",
+          "url": "https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm"
+        }
+      ],
+      "duration_ms": 177256,
+      "name": "DON'T TALK TO STRANGERS",
+      "url": "https://open.spotify.com/track/5DTMuygjZMlcsOBJBQhpvO"
+    },
+    {
+      "added_at": "2024-04-15 15:13:03",
+      "album": {
         "name": "Sonatine",
         "url": "https://open.spotify.com/album/7AcWGi1C89qBpeUduBwoDb"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 233666,
       "name": "Sonatine",
       "url": "https://open.spotify.com/track/0A0QXR6AT2UuhlrrLhDMn0"
-    },
-    {
-      "added_at": "2024-04-15 15:13:03",
-      "album": {
-        "name": "RESONATE AUGMENTED",
-        "url": "https://open.spotify.com/album/28U9b6LfdddUlU9t0GbupS"
-      },
-      "artists": [
-        {
-          "name": "Papooz",
-          "url": "https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm"
-        }
-      ],
-      "duration_ms": 177256,
-      "name": "DON'T TALK TO STRANGERS",
-      "url": "https://open.spotify.com/track/5DTMuygjZMlcsOBJBQhpvO"
     },
     {
       "added_at": "2024-04-15 15:13:03",
@@ -1423,38 +1423,6 @@
     {
       "added_at": "2024-04-15 15:13:03",
       "album": {
-        "name": "Et Bam",
-        "url": "https://open.spotify.com/album/4bk60BI5rfcvl392wkXZwJ"
-      },
-      "artists": [
-        {
-          "name": "Mentissa",
-          "url": "https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS"
-        }
-      ],
-      "duration_ms": 215093,
-      "name": "Et Bam - Acoustic Version",
-      "url": "https://open.spotify.com/track/1bizPvtC2qar0gSJBt3NMd"
-    },
-    {
-      "added_at": "2024-04-15 15:13:03",
-      "album": {
-        "name": "I Know, I Know",
-        "url": "https://open.spotify.com/album/4Igy7nnJ4KXVI0RShJHMNf"
-      },
-      "artists": [
-        {
-          "name": "Dekker",
-          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
-        }
-      ],
-      "duration_ms": 180619,
-      "name": "I Know, I Know",
-      "url": "https://open.spotify.com/track/6lROAnjIlzlaFPzUYjhygu"
-    },
-    {
-      "added_at": "2024-04-15 15:13:03",
-      "album": {
         "name": "un \u00e9clair",
         "url": "https://open.spotify.com/album/0el34t2unKQygmPNV8vQ6D"
       },
@@ -1483,6 +1451,38 @@
       "duration_ms": 202226,
       "name": "Ose",
       "url": "https://open.spotify.com/track/5QnYsX5buzmH9GuZ92hzhx"
+    },
+    {
+      "added_at": "2024-04-15 15:13:03",
+      "album": {
+        "name": "I Know, I Know",
+        "url": "https://open.spotify.com/album/4Igy7nnJ4KXVI0RShJHMNf"
+      },
+      "artists": [
+        {
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "duration_ms": 180619,
+      "name": "I Know, I Know",
+      "url": "https://open.spotify.com/track/6lROAnjIlzlaFPzUYjhygu"
+    },
+    {
+      "added_at": "2024-04-15 15:13:03",
+      "album": {
+        "name": "Et Bam",
+        "url": "https://open.spotify.com/album/4bk60BI5rfcvl392wkXZwJ"
+      },
+      "artists": [
+        {
+          "name": "Mentissa",
+          "url": "https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS"
+        }
+      ],
+      "duration_ms": 215093,
+      "name": "Et Bam - Acoustic Version",
+      "url": "https://open.spotify.com/track/1bizPvtC2qar0gSJBt3NMd"
     },
     {
       "added_at": "2024-04-15 15:13:03",

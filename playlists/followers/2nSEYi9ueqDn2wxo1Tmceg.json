@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 67060,
+  "2024-05-03": 67059,
   "date_first_scraped": "2022-06-10",
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
   "name": "Domino Sound System",
@@ -133,10 +133,32 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 199493,
       "name": "4316",
       "url": "https://open.spotify.com/track/4hLEz7utDDK8MNr1tO0qJJ"
+    },
+    {
+      "album": {
+        "name": "Affection",
+        "url": "https://open.spotify.com/album/41fPjriqD2ycjCAE8TfmuT"
+      },
+      "artists": [
+        {
+          "name": "Bullion",
+          "url": "https://open.spotify.com/artist/6vcPgFOkMWBoY6Ks6eMEWj"
+        },
+        {
+          "name": "Panda Bear",
+          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162640,
+      "name": "A City\u2019s Never",
+      "url": "https://open.spotify.com/track/3U04LDPkBGu7AwFAeQ7Ot2"
     },
     {
       "album": {
@@ -2217,7 +2239,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 170920,
       "name": "Butterfly Phase",
       "url": "https://open.spotify.com/track/1mGCf4gmVqKmaN41BVmoNe"
@@ -3591,6 +3613,28 @@
       "duration_ms": 253792,
       "name": "Didn't Know You Then",
       "url": "https://open.spotify.com/track/6oyDy1XJfGKBjvwdQMWpOX"
+    },
+    {
+      "album": {
+        "name": "Dig feat. Rhian Teasdale",
+        "url": "https://open.spotify.com/album/3G4A8L6xxq7iGLRts9sTSw"
+      },
+      "artists": [
+        {
+          "name": "Orlando Weeks",
+          "url": "https://open.spotify.com/artist/5K9Px0eeCuYatmBGFfhSOA"
+        },
+        {
+          "name": "Rhian Teasdale",
+          "url": "https://open.spotify.com/artist/3ceorkSx0PQZbkvQvWpXIF"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167386,
+      "name": "Dig feat. Rhian Teasdale",
+      "url": "https://open.spotify.com/track/4VE5B2N4TCHvK5ZZ3dSI6c"
     },
     {
       "album": {
@@ -5707,7 +5751,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 135541,
       "name": "God's Country",
       "url": "https://open.spotify.com/track/4UccUaOQ6lU7kAffOVgz1d"
@@ -6109,7 +6153,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 254690,
       "name": "Have A Go Heroes",
       "url": "https://open.spotify.com/track/5l0JnjmP0KSnvFKvZtfYdD"
@@ -6243,7 +6287,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 219000,
       "name": "Hello",
       "url": "https://open.spotify.com/track/3nh0eAFCTAx01aIuq8YTqR"
@@ -7067,6 +7111,24 @@
       "duration_ms": 222172,
       "name": "I Would Call You (But I Never Know What To Say)",
       "url": "https://open.spotify.com/track/64xVeqmdRUugG5z9un81GU"
+    },
+    {
+      "album": {
+        "name": "I'm All Fucked Up",
+        "url": "https://open.spotify.com/album/5o25j9hctz6Y0B2KFBXujQ"
+      },
+      "artists": [
+        {
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273460,
+      "name": "I'm All Fucked Up",
+      "url": "https://open.spotify.com/track/1gWIrsjqpmN57sMfq5NcuO"
     },
     {
       "album": {
@@ -8291,10 +8353,28 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 135154,
       "name": "krillin",
       "url": "https://open.spotify.com/track/6kOT10pPFsgJEWQCW1X8FO"
+    },
+    {
+      "album": {
+        "name": "La Bomba",
+        "url": "https://open.spotify.com/album/2KtK583Hq65HDEkgE0c5qn"
+      },
+      "artists": [
+        {
+          "name": "Los Bitchos",
+          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134720,
+      "name": "La Bomba",
+      "url": "https://open.spotify.com/track/4DVogoYzvFrFOtUMQIamJf"
     },
     {
       "album": {
@@ -12940,6 +13020,24 @@
     },
     {
       "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/3AzFwWmqAI4gfqqlN2M5Jb"
+      },
+      "artists": [
+        {
+          "name": "Wu-Lu",
+          "url": "https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264217,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/0Z9RNKpfnETjRxqgKCbJZt"
+    },
+    {
+      "album": {
         "name": "Sisyphus",
         "url": "https://open.spotify.com/album/4bniwpGQ3K2eEfNI7yUBXF"
       },
@@ -13627,7 +13725,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 302920,
       "name": "Suffer One",
       "url": "https://open.spotify.com/track/0Kg30B2rdLeb2Lau5uZIXQ"
@@ -15299,7 +15397,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 220000,
       "name": "Umbrella Tree",
       "url": "https://open.spotify.com/track/6sxVrDXBrdL80ZQKtqUxHb"
@@ -16377,10 +16475,28 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 269189,
       "name": "Work",
       "url": "https://open.spotify.com/track/190Jy5UvDjBbbpnfDFFOc1"
+    },
+    {
+      "album": {
+        "name": "Forgiveness Is Yours",
+        "url": "https://open.spotify.com/album/7KRpvNDUvx7Sr9qVFPZJj6"
+      },
+      "artists": [
+        {
+          "name": "Fat White Family",
+          "url": "https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269189,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/4Mwpfw9r64IBnq8czrEaFo"
     },
     {
       "album": {

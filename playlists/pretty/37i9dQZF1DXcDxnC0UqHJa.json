@@ -1,6 +1,6 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: Norah Jones & Remi Wolf",
-  "num_followers": 460642,
+  "num_followers": 460651,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Live Forever: A Tribute To Billy Joe Shaver",
-        "url": "https://open.spotify.com/album/357DuDjcyqJ0wHxX4uPPL4"
+        "name": "Cheers",
+        "url": "https://open.spotify.com/album/2GiTle0hAv3No98jIKe9pb"
       },
       "artists": [
         {
-          "name": "Nathaniel Rateliff",
-          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
         }
       ],
-      "duration_ms": 171480,
-      "name": "You Asked Me To",
-      "url": "https://open.spotify.com/track/3REizsPkpELxQkvl9EZNiE"
+      "duration_ms": 246722,
+      "name": "Cheers",
+      "url": "https://open.spotify.com/track/0ZWylHSASM1tHUiPy5ob48"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Cheers",
-        "url": "https://open.spotify.com/album/2GiTle0hAv3No98jIKe9pb"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        }
-      ],
-      "duration_ms": 246722,
-      "name": "Cheers",
-      "url": "https://open.spotify.com/track/0ZWylHSASM1tHUiPy5ob48"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr"
       },
@@ -1395,6 +1379,30 @@
       "duration_ms": 189799,
       "name": "The Partisan - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2xMzN3uUtCxyHpR5L8Tril"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "There Is A War [Feat. Kevin Morby & Sam Cohen]",
+        "url": "https://open.spotify.com/album/0lk3T7UZlCQBhVZeizAWbP"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+        },
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        },
+        {
+          "name": "Sam Cohen",
+          "url": "https://open.spotify.com/artist/4c2FMMHkUGurATiPhTKqHP"
+        }
+      ],
+      "duration_ms": 222996,
+      "name": "There Is A War [Feat. Kevin Morby & Sam Cohen]",
+      "url": "https://open.spotify.com/track/6OmnOaeTaE6KGtsEaw6Lit"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1503,30 +1511,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "There Is A War [Feat. Kevin Morby & Sam Cohen]",
-        "url": "https://open.spotify.com/album/0lk3T7UZlCQBhVZeizAWbP"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff",
-          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
-        },
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        },
-        {
-          "name": "Sam Cohen",
-          "url": "https://open.spotify.com/artist/4c2FMMHkUGurATiPhTKqHP"
-        }
-      ],
-      "duration_ms": 222996,
-      "name": "There Is A War [Feat. Kevin Morby & Sam Cohen]",
-      "url": "https://open.spotify.com/track/6OmnOaeTaE6KGtsEaw6Lit"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Revival",
         "url": "https://open.spotify.com/album/0r9WibVLIn1tZ7FxSKH3yn"
       },
@@ -1559,6 +1543,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Live Forever: A Tribute To Billy Joe Shaver",
+        "url": "https://open.spotify.com/album/357DuDjcyqJ0wHxX4uPPL4"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+        }
+      ],
+      "duration_ms": 171480,
+      "name": "You Asked Me To",
+      "url": "https://open.spotify.com/track/3REizsPkpELxQkvl9EZNiE"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Radio Redhead, Vol. 1",
         "url": "https://open.spotify.com/album/3C8WLr8zTMyJCdo5sYMRG9"
       },
@@ -1571,22 +1571,6 @@
       "duration_ms": 259077,
       "name": "Dancing on My Own",
       "url": "https://open.spotify.com/track/0yxOcUVUgmck4FySMWbSea"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Ohio / After The Gold Rush",
-        "url": "https://open.spotify.com/album/0DstfAvDUGVokiUpr8k2ci"
-      },
-      "artists": [
-        {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
-        }
-      ],
-      "duration_ms": 294142,
-      "name": "After The Gold Rush",
-      "url": "https://open.spotify.com/track/0YDtSXyLnPVYSl31N3bF54"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1611,6 +1595,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Ohio / After The Gold Rush",
+        "url": "https://open.spotify.com/album/0DstfAvDUGVokiUpr8k2ci"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "duration_ms": 294142,
+      "name": "After The Gold Rush",
+      "url": "https://open.spotify.com/track/0YDtSXyLnPVYSl31N3bF54"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "American Pie",
         "url": "https://open.spotify.com/album/4cmRLJRiZqkeOKZUE9iztd"
       },
@@ -1623,6 +1623,22 @@
       "duration_ms": 254820,
       "name": "American Pie",
       "url": "https://open.spotify.com/track/3Z92ubrhBZe72FKAiW5dhh"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "So Low",
+        "url": "https://open.spotify.com/album/2NBpiTeWOyrP088gUj6J2y"
+      },
+      "artists": [
+        {
+          "name": "Lowland Hum",
+          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
+        }
+      ],
+      "duration_ms": 264930,
+      "name": "Sledgehammer",
+      "url": "https://open.spotify.com/track/7cWTvfOdnO2slD9Xm7DK87"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1679,22 +1695,6 @@
       "duration_ms": 168779,
       "name": "Black Eyed Dog",
       "url": "https://open.spotify.com/track/0ZRZ1iLy8QVnRs7SiSPIJ9"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "So Low",
-        "url": "https://open.spotify.com/album/2NBpiTeWOyrP088gUj6J2y"
-      },
-      "artists": [
-        {
-          "name": "Lowland Hum",
-          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
-        }
-      ],
-      "duration_ms": 264930,
-      "name": "Sledgehammer",
-      "url": "https://open.spotify.com/track/7cWTvfOdnO2slD9Xm7DK87"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Green Rocky Road",
-        "url": "https://open.spotify.com/album/3Mk2rCfx4ywDJ5sg5C0jk8"
-      },
-      "artists": [
-        {
-          "name": "Bria Salmena",
-          "url": "https://open.spotify.com/artist/5OlCrYhc9fZxibnKwahGr8"
-        }
-      ],
-      "duration_ms": 201985,
-      "name": "Green Rocky Road",
-      "url": "https://open.spotify.com/track/62VuzDNl5RZIlhzs0XDQzY"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "We Don't Eat",
         "url": "https://open.spotify.com/album/0F9QZJSssWELg5ZTJp1NQy"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 215589,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/35dMUmp6Jh3AE9IaqM0Osn"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Green Rocky Road",
+        "url": "https://open.spotify.com/album/3Mk2rCfx4ywDJ5sg5C0jk8"
+      },
+      "artists": [
+        {
+          "name": "Bria Salmena",
+          "url": "https://open.spotify.com/artist/5OlCrYhc9fZxibnKwahGr8"
+        }
+      ],
+      "duration_ms": 201985,
+      "name": "Green Rocky Road",
+      "url": "https://open.spotify.com/track/62VuzDNl5RZIlhzs0XDQzY"
     },
     {
       "added_at": "2024-04-19 04:00:00",

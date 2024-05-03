@@ -1,13 +1,29 @@
 {
-  "description": "This Is imase. Todas as faixas essenciais numa \u00fanica playlist.",
-  "num_followers": 18951,
+  "description": "This is imase. The essential tracks, all in one playlist.",
+  "num_followers": 18971,
   "original_name": "This Is imase",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjA0gAAAAACDBCDFjnxzuLwfLb+DB/uX",
+  "snapshot_id": "ZjGGAAAAAABKsfGZdzkdz7XxkM+aTz5T",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "POP CUBE",
+        "url": "https://open.spotify.com/album/3mlVZ7OTZgKJJAr275tHZX"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 210600,
+      "name": "NIGHT DANCER",
+      "url": "https://open.spotify.com/track/3gmn76fCtpDazGMnN0QMHX"
+    },
     {
       "added_at": null,
       "album": {

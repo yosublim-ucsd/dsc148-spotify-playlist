@@ -1,6 +1,6 @@
 {
   "description": "El ritmo cumbiero que te mueve el coraz\u00f3n. \nFoto: Leo Mattioli.",
-  "num_followers": 240974,
+  "num_followers": 241112,
   "original_name": "Cumbia Santafesina",
   "owner": {
     "name": "Spotify",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Exitos de oro",
-        "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
-      },
-      "artists": [
-        {
-          "name": "Los Leales",
-          "url": "https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv"
-        }
-      ],
-      "duration_ms": 176786,
-      "name": "Un Velero Llamado Libertad",
-      "url": "https://open.spotify.com/track/6KHBf0ZrN0y5T6mlxuTbRW"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "Grupo Trinidad y Sus Cantantes",
         "url": "https://open.spotify.com/album/561huq2PdxoEwR2L7NYMw3"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 457826,
       "name": "Pechos Calientes / Mojada por Dentro / El No Va a Venir / Voy a Morir Dentro Tuyo",
       "url": "https://open.spotify.com/track/4wvQj6T8Ut1oixkIr7r0S3"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "Exitos de oro",
+        "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
+      },
+      "artists": [
+        {
+          "name": "Los Leales",
+          "url": "https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv"
+        }
+      ],
+      "duration_ms": 176786,
+      "name": "Un Velero Llamado Libertad",
+      "url": "https://open.spotify.com/track/6KHBf0ZrN0y5T6mlxuTbRW"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -1075,18 +1075,22 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "A Pura Sangre",
-        "url": "https://open.spotify.com/album/6aK9E9vV53gVuZjzF2wnWz"
+        "name": "Se que me extra\u00f1a / El no es mejor que yo / Anda / Vienes a pedir Perd\u00f3n / La Morocha",
+        "url": "https://open.spotify.com/album/7z9ypqgQPktGexQMhC9B0U"
       },
       "artists": [
         {
-          "name": "Sergio Torres y Los Due\u00f1os Del Swing",
-          "url": "https://open.spotify.com/artist/61wjkDrxSXXH1yUOczhJmT"
+          "name": "Los Amantes",
+          "url": "https://open.spotify.com/artist/0q3fDLNtzfvjdbkeYteCsq"
+        },
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
         }
       ],
-      "duration_ms": 294093,
-      "name": "Si Tu No Estas",
-      "url": "https://open.spotify.com/track/6cZ1wwLjxLgLqLlX6zuVkl"
+      "duration_ms": 415610,
+      "name": "Se que me extra\u00f1a / El no es mejor que yo / Anda / Vienes a pedir Perd\u00f3n / La Morocha",
+      "url": "https://open.spotify.com/track/2j4MmBMy3cifR0MZrr6ndu"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -1107,22 +1111,18 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Se que me extra\u00f1a / El no es mejor que yo / Anda / Vienes a pedir Perd\u00f3n / La Morocha",
-        "url": "https://open.spotify.com/album/7z9ypqgQPktGexQMhC9B0U"
+        "name": "A Pura Sangre",
+        "url": "https://open.spotify.com/album/6aK9E9vV53gVuZjzF2wnWz"
       },
       "artists": [
         {
-          "name": "Los Amantes",
-          "url": "https://open.spotify.com/artist/0q3fDLNtzfvjdbkeYteCsq"
-        },
-        {
-          "name": "Uriel Lozano",
-          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+          "name": "Sergio Torres y Los Due\u00f1os Del Swing",
+          "url": "https://open.spotify.com/artist/61wjkDrxSXXH1yUOczhJmT"
         }
       ],
-      "duration_ms": 415610,
-      "name": "Se que me extra\u00f1a / El no es mejor que yo / Anda / Vienes a pedir Perd\u00f3n / La Morocha",
-      "url": "https://open.spotify.com/track/2j4MmBMy3cifR0MZrr6ndu"
+      "duration_ms": 294093,
+      "name": "Si Tu No Estas",
+      "url": "https://open.spotify.com/track/6cZ1wwLjxLgLqLlX6zuVkl"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Abr\u00e1zame",
-        "url": "https://open.spotify.com/album/7lIRBo7Uvkxfo6qYASWBcw"
-      },
-      "artists": [
-        {
-          "name": "Marcos Castell\u00f3 Kaniche",
-          "url": "https://open.spotify.com/artist/1g31gW7m6FH9LljAfobGh8"
-        }
-      ],
-      "duration_ms": 175026,
-      "name": "No Me Doli\u00f3",
-      "url": "https://open.spotify.com/track/0CsuYDjeRALnsoncHcqt16"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "Desn\u00fadame",
         "url": "https://open.spotify.com/album/5j2YmyNql60Htp1WRFDOXv"
       },
@@ -1231,22 +1215,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "20 a\u00f1os de cumbia - Los mejores exitos de 1990 - 2010",
-        "url": "https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU"
-      },
-      "artists": [
-        {
-          "name": "Mario Luis con los Angeles Colombianos",
-          "url": "https://open.spotify.com/artist/7tB6buXGRGgBaZftFGMCMy"
-        }
-      ],
-      "duration_ms": 220840,
-      "name": "Cosas del amor",
-      "url": "https://open.spotify.com/track/4Gd1XTVJtxzGdrr87WY2h8"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "A Pura Sangre",
         "url": "https://open.spotify.com/album/6aK9E9vV53gVuZjzF2wnWz"
       },
@@ -1263,18 +1231,34 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Dime Quien",
-        "url": "https://open.spotify.com/album/5JGEI3LM5WuF2EIbSS4JQw"
+        "name": "Abr\u00e1zame",
+        "url": "https://open.spotify.com/album/7lIRBo7Uvkxfo6qYASWBcw"
       },
       "artists": [
         {
-          "name": "La San Francisco",
-          "url": "https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr"
+          "name": "Marcos Castell\u00f3 Kaniche",
+          "url": "https://open.spotify.com/artist/1g31gW7m6FH9LljAfobGh8"
         }
       ],
-      "duration_ms": 163800,
-      "name": "Dime Quien",
-      "url": "https://open.spotify.com/track/7AKR1lkC72e7oD722zkKbz"
+      "duration_ms": 175026,
+      "name": "No Me Doli\u00f3",
+      "url": "https://open.spotify.com/track/0CsuYDjeRALnsoncHcqt16"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "20 a\u00f1os de cumbia - Los mejores exitos de 1990 - 2010",
+        "url": "https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU"
+      },
+      "artists": [
+        {
+          "name": "Mario Luis con los Angeles Colombianos",
+          "url": "https://open.spotify.com/artist/7tB6buXGRGgBaZftFGMCMy"
+        }
+      ],
+      "duration_ms": 220840,
+      "name": "Cosas del amor",
+      "url": "https://open.spotify.com/track/4Gd1XTVJtxzGdrr87WY2h8"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -1295,6 +1279,22 @@
       "duration_ms": 204500,
       "name": "Te Sorprender\u00e1s",
       "url": "https://open.spotify.com/track/7yvr8Inl4NbQHR2a8KmKHy"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "Dime Quien",
+        "url": "https://open.spotify.com/album/5JGEI3LM5WuF2EIbSS4JQw"
+      },
+      "artists": [
+        {
+          "name": "La San Francisco",
+          "url": "https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr"
+        }
+      ],
+      "duration_ms": 163800,
+      "name": "Dime Quien",
+      "url": "https://open.spotify.com/track/7AKR1lkC72e7oD722zkKbz"
     },
     {
       "added_at": "2024-04-26 03:00:00",

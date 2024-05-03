@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWW4igXXl2Qkp)
 
-> The best new hip\-hop music by independent artists and labels\. Cover: Destin Laurel
+> The best new hip\-hop music by independent artists and labels\. Cover: <a href="spotify:artist:33hj9n9Y19jGhXk8m7ezKR">Destin Laurel</a>
 
 1,187 songs - 2 day 3 hr 29 min
 

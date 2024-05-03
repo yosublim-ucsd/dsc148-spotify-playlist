@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! ERRE TRES en portada. ",
-  "num_followers": 13773,
+  "num_followers": 13772,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
@@ -379,38 +379,6 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "No Le Da",
-        "url": "https://open.spotify.com/album/11SF9gtSSELyyrWnPoWdhf"
-      },
-      "artists": [
-        {
-          "name": "SFDK",
-          "url": "https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ"
-        }
-      ],
-      "duration_ms": 182160,
-      "name": "No Le Da",
-      "url": "https://open.spotify.com/track/1C4ib4NrEVno8VkHXDtvRY"
-    },
-    {
-      "added_at": "2024-04-26 06:00:00",
-      "album": {
-        "name": "Amor de \u00d1eros",
-        "url": "https://open.spotify.com/album/1yLQGi8faWEaBa5uKMVSvU"
-      },
-      "artists": [
-        {
-          "name": "Solitario Soldado",
-          "url": "https://open.spotify.com/artist/1iXMM6jVHyxeES7W3xxBUG"
-        }
-      ],
-      "duration_ms": 131725,
-      "name": "Amor de \u00d1eros",
-      "url": "https://open.spotify.com/track/6l2meq89gz3CPj3fRWlLv6"
-    },
-    {
-      "added_at": "2024-04-26 06:00:00",
-      "album": {
         "name": "Tributos",
         "url": "https://open.spotify.com/album/0dEUXKP7jRiyUDny8TbivE"
       },
@@ -431,6 +399,38 @@
       "duration_ms": 213097,
       "name": "Tributos",
       "url": "https://open.spotify.com/track/6QtAJqBqwwsbQBG0shnhQr"
+    },
+    {
+      "added_at": "2024-04-26 06:00:00",
+      "album": {
+        "name": "Amor de \u00d1eros",
+        "url": "https://open.spotify.com/album/1yLQGi8faWEaBa5uKMVSvU"
+      },
+      "artists": [
+        {
+          "name": "Solitario Soldado",
+          "url": "https://open.spotify.com/artist/1iXMM6jVHyxeES7W3xxBUG"
+        }
+      ],
+      "duration_ms": 131725,
+      "name": "Amor de \u00d1eros",
+      "url": "https://open.spotify.com/track/6l2meq89gz3CPj3fRWlLv6"
+    },
+    {
+      "added_at": "2024-04-26 06:00:00",
+      "album": {
+        "name": "No Le Da",
+        "url": "https://open.spotify.com/album/11SF9gtSSELyyrWnPoWdhf"
+      },
+      "artists": [
+        {
+          "name": "SFDK",
+          "url": "https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ"
+        }
+      ],
+      "duration_ms": 182160,
+      "name": "No Le Da",
+      "url": "https://open.spotify.com/track/1C4ib4NrEVno8VkHXDtvRY"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
+        "name": "Recuerda",
+        "url": "https://open.spotify.com/album/46Npdj6F3ebBB4SuUI5GLE"
+      },
+      "artists": [
+        {
+          "name": "Solitario Mondragon",
+          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Recuerda",
+      "url": "https://open.spotify.com/track/1bJFy4c5zO2e5hPeaJ5Jru"
+    },
+    {
+      "added_at": "2024-04-26 06:00:00",
+      "album": {
         "name": "Tantas Veces",
         "url": "https://open.spotify.com/album/0CYK2EbQOcDwGopjlqcPRM"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 149408,
       "name": "Tantas Veces",
       "url": "https://open.spotify.com/track/2qwioaV8uut5qa1R09Bjrj"
-    },
-    {
-      "added_at": "2024-04-26 06:00:00",
-      "album": {
-        "name": "Recuerda",
-        "url": "https://open.spotify.com/album/46Npdj6F3ebBB4SuUI5GLE"
-      },
-      "artists": [
-        {
-          "name": "Solitario Mondragon",
-          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Recuerda",
-      "url": "https://open.spotify.com/track/1bJFy4c5zO2e5hPeaJ5Jru"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
+        "name": "Bendecida Y Afortunada",
+        "url": "https://open.spotify.com/album/0dY4wGJFYDPrqDE7Yq3oID"
+      },
+      "artists": [
+        {
+          "name": "Kei Linch",
+          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
+        }
+      ],
+      "duration_ms": 159836,
+      "name": "Bendecida Y Afortunada",
+      "url": "https://open.spotify.com/track/2sWhuwbONrY9CVRlGyhYQ2"
+    },
+    {
+      "added_at": "2024-04-26 06:00:00",
+      "album": {
         "name": "BOURDAIN",
         "url": "https://open.spotify.com/album/2QEtBF7Ulcg7TyqgttMEa4"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 201372,
       "name": "BOURDAIN",
       "url": "https://open.spotify.com/track/6t7woVzUeTVRpXHP4Xxa4N"
-    },
-    {
-      "added_at": "2024-04-26 06:00:00",
-      "album": {
-        "name": "Bendecida Y Afortunada",
-        "url": "https://open.spotify.com/album/0dY4wGJFYDPrqDE7Yq3oID"
-      },
-      "artists": [
-        {
-          "name": "Kei Linch",
-          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
-        }
-      ],
-      "duration_ms": 159836,
-      "name": "Bendecida Y Afortunada",
-      "url": "https://open.spotify.com/track/2sWhuwbONrY9CVRlGyhYQ2"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -951,6 +951,26 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
+        "name": "El Principio",
+        "url": "https://open.spotify.com/album/4EuEto6ohaUw9ycUf1oTrD"
+      },
+      "artists": [
+        {
+          "name": "Santo Dinero",
+          "url": "https://open.spotify.com/artist/6CU1phuKZ3rraHv35m5ehB"
+        },
+        {
+          "name": "Geassassin",
+          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+        }
+      ],
+      "duration_ms": 304500,
+      "name": "El Principio",
+      "url": "https://open.spotify.com/track/1sSEPjwkbwoW5NUjI4Faw5"
+    },
+    {
+      "added_at": "2024-04-26 06:00:00",
+      "album": {
         "name": "La Gangsta",
         "url": "https://open.spotify.com/album/5LinuS1Upb1B51fuUm3v8l"
       },
@@ -987,26 +1007,6 @@
       "duration_ms": 207000,
       "name": "El Calent\u00f3n",
       "url": "https://open.spotify.com/track/6Je2hSFlM37PxmZxao2LbQ"
-    },
-    {
-      "added_at": "2024-04-26 06:00:00",
-      "album": {
-        "name": "El Principio",
-        "url": "https://open.spotify.com/album/4EuEto6ohaUw9ycUf1oTrD"
-      },
-      "artists": [
-        {
-          "name": "Santo Dinero",
-          "url": "https://open.spotify.com/artist/6CU1phuKZ3rraHv35m5ehB"
-        },
-        {
-          "name": "Geassassin",
-          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
-        }
-      ],
-      "duration_ms": 304500,
-      "name": "El Principio",
-      "url": "https://open.spotify.com/track/1sSEPjwkbwoW5NUjI4Faw5"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -1067,38 +1067,6 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "Arrogancia",
-        "url": "https://open.spotify.com/album/1pHzCc4E40jbyAjdqWcphR"
-      },
-      "artists": [
-        {
-          "name": "Under Side 821",
-          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
-        }
-      ],
-      "duration_ms": 333403,
-      "name": "Arrogancia",
-      "url": "https://open.spotify.com/track/0vyOD96BnDNa3MMpVmVI5k"
-    },
-    {
-      "added_at": "2024-04-26 06:00:00",
-      "album": {
-        "name": "Qu\u00e9mele",
-        "url": "https://open.spotify.com/album/6kIMIdFssq2DDjCAgK38sY"
-      },
-      "artists": [
-        {
-          "name": "Crudo Means Raw",
-          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
-        }
-      ],
-      "duration_ms": 122553,
-      "name": "Qu\u00e9mele",
-      "url": "https://open.spotify.com/track/0aPwGpjIaaZsPiUglNVAuN"
-    },
-    {
-      "added_at": "2024-04-26 06:00:00",
-      "album": {
         "name": "3 RAP",
         "url": "https://open.spotify.com/album/7aEo9W4GQzMs5xNXVDBnFD"
       },
@@ -1115,22 +1083,18 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "LA VIDA ES TAN DURA",
-        "url": "https://open.spotify.com/album/7lmYMSoJZ252EmcVmRrjrP"
+        "name": "Qu\u00e9mele",
+        "url": "https://open.spotify.com/album/6kIMIdFssq2DDjCAgK38sY"
       },
       "artists": [
         {
-          "name": "Flor De Rap",
-          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
-        },
-        {
-          "name": "Cheo Gallego",
-          "url": "https://open.spotify.com/artist/5VdG4Pm8hryqK7jAkdFlIo"
+          "name": "Crudo Means Raw",
+          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
         }
       ],
-      "duration_ms": 160000,
-      "name": "LA VIDA ES TAN DURA",
-      "url": "https://open.spotify.com/track/4B8pr92VVnxeN4rkPUQETn"
+      "duration_ms": 122553,
+      "name": "Qu\u00e9mele",
+      "url": "https://open.spotify.com/track/0aPwGpjIaaZsPiUglNVAuN"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -1155,6 +1119,42 @@
       "duration_ms": 199997,
       "name": "Millo",
       "url": "https://open.spotify.com/track/24AF2GjSvGI0RRXTTUnE6d"
+    },
+    {
+      "added_at": "2024-04-26 06:00:00",
+      "album": {
+        "name": "LA VIDA ES TAN DURA",
+        "url": "https://open.spotify.com/album/7lmYMSoJZ252EmcVmRrjrP"
+      },
+      "artists": [
+        {
+          "name": "Flor De Rap",
+          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
+        },
+        {
+          "name": "Cheo Gallego",
+          "url": "https://open.spotify.com/artist/5VdG4Pm8hryqK7jAkdFlIo"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "LA VIDA ES TAN DURA",
+      "url": "https://open.spotify.com/track/4B8pr92VVnxeN4rkPUQETn"
+    },
+    {
+      "added_at": "2024-04-26 06:00:00",
+      "album": {
+        "name": "Arrogancia",
+        "url": "https://open.spotify.com/album/1pHzCc4E40jbyAjdqWcphR"
+      },
+      "artists": [
+        {
+          "name": "Under Side 821",
+          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
+        }
+      ],
+      "duration_ms": 333403,
+      "name": "Arrogancia",
+      "url": "https://open.spotify.com/track/0vyOD96BnDNa3MMpVmVI5k"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "Camino Firme",
-        "url": "https://open.spotify.com/album/3s8KDsVChQg4ScUGBvADPY"
-      },
-      "artists": [
-        {
-          "name": "ElReghosg",
-          "url": "https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3"
-        }
-      ],
-      "duration_ms": 142417,
-      "name": "Camino Firme",
-      "url": "https://open.spotify.com/track/5Rhv15mmbFlFIu3b4LPAHa"
-    },
-    {
-      "added_at": "2024-04-26 06:00:00",
-      "album": {
         "name": "Cuervos",
         "url": "https://open.spotify.com/album/0XSlJq1I6jb5EpZt7WZJS2"
       },
@@ -1239,6 +1223,42 @@
       "duration_ms": 234482,
       "name": "Cuervos",
       "url": "https://open.spotify.com/track/5AobkOUXrsRz0oQpMpkLDO"
+    },
+    {
+      "added_at": "2024-04-26 06:00:00",
+      "album": {
+        "name": "Camino Firme",
+        "url": "https://open.spotify.com/album/3s8KDsVChQg4ScUGBvADPY"
+      },
+      "artists": [
+        {
+          "name": "ElReghosg",
+          "url": "https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3"
+        }
+      ],
+      "duration_ms": 142417,
+      "name": "Camino Firme",
+      "url": "https://open.spotify.com/track/5Rhv15mmbFlFIu3b4LPAHa"
+    },
+    {
+      "added_at": "2024-04-26 06:00:00",
+      "album": {
+        "name": "Linda como siempre",
+        "url": "https://open.spotify.com/album/6ZW8e7vagrNeqwiFcli0CX"
+      },
+      "artists": [
+        {
+          "name": "XXL Irione",
+          "url": "https://open.spotify.com/artist/4xqLeiTEE5VmPu5nQFWjHY"
+        },
+        {
+          "name": "Picky Lejano Oeste",
+          "url": "https://open.spotify.com/artist/4YqH71D6jgcThVcJepW7sC"
+        }
+      ],
+      "duration_ms": 191977,
+      "name": "Linda como siempre",
+      "url": "https://open.spotify.com/track/2LhSnFBianHUfisgAgUMh7"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -1287,26 +1307,6 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "Linda como siempre",
-        "url": "https://open.spotify.com/album/6ZW8e7vagrNeqwiFcli0CX"
-      },
-      "artists": [
-        {
-          "name": "XXL Irione",
-          "url": "https://open.spotify.com/artist/4xqLeiTEE5VmPu5nQFWjHY"
-        },
-        {
-          "name": "Picky Lejano Oeste",
-          "url": "https://open.spotify.com/artist/4YqH71D6jgcThVcJepW7sC"
-        }
-      ],
-      "duration_ms": 191977,
-      "name": "Linda como siempre",
-      "url": "https://open.spotify.com/track/2LhSnFBianHUfisgAgUMh7"
-    },
-    {
-      "added_at": "2024-04-26 06:00:00",
-      "album": {
         "name": "Easy To Hate",
         "url": "https://open.spotify.com/album/0ZF33hMiwMqDHu8IadpggZ"
       },
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "\u00c1rtico",
-        "url": "https://open.spotify.com/album/1hnmPNhozqh1HUAlGwqgqz"
-      },
-      "artists": [
-        {
-          "name": "Dante",
-          "url": "https://open.spotify.com/artist/2hDnlqxEGmcq74MAfO9iEX"
-        }
-      ],
-      "duration_ms": 202162,
-      "name": "Cuando te miro",
-      "url": "https://open.spotify.com/track/4uzd952ca0XsLnYb5r5jMy"
-    },
-    {
-      "added_at": "2024-04-26 06:00:00",
-      "album": {
         "name": "La Vecindad del Vago",
         "url": "https://open.spotify.com/album/6pLUrQbiNsFi1E0dyiQt3y"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 256459,
       "name": "La Vecindad del Vago",
       "url": "https://open.spotify.com/track/3YCLPJO5N84aDccTRv73Lm"
+    },
+    {
+      "added_at": "2024-04-26 06:00:00",
+      "album": {
+        "name": "\u00c1rtico",
+        "url": "https://open.spotify.com/album/1hnmPNhozqh1HUAlGwqgqz"
+      },
+      "artists": [
+        {
+          "name": "Dante",
+          "url": "https://open.spotify.com/artist/2hDnlqxEGmcq74MAfO9iEX"
+        }
+      ],
+      "duration_ms": 202162,
+      "name": "Cuando te miro",
+      "url": "https://open.spotify.com/track/4uzd952ca0XsLnYb5r5jMy"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -1591,30 +1591,6 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "DE POR VIDA",
-        "url": "https://open.spotify.com/album/0wSQj9XhYYFhaVIVi1UewS"
-      },
-      "artists": [
-        {
-          "name": "Doble Porcion",
-          "url": "https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408"
-        },
-        {
-          "name": "Ma\u00f1as Ru-Fino",
-          "url": "https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe"
-        },
-        {
-          "name": "M\u00e9tricas Fr\u00edas",
-          "url": "https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k"
-        }
-      ],
-      "duration_ms": 184665,
-      "name": "De Por Vida",
-      "url": "https://open.spotify.com/track/0cwKWN0s1HWpDCKT9GQN77"
-    },
-    {
-      "added_at": "2024-04-26 06:00:00",
-      "album": {
         "name": "No Est\u00e1s II",
         "url": "https://open.spotify.com/album/4tWQ9A0rlk3iGszgOLeVu0"
       },
@@ -1655,6 +1631,30 @@
       "duration_ms": 160000,
       "name": "MI PROP\u00d3SITO",
       "url": "https://open.spotify.com/track/1rXAnGCgbEYwCKxbVQfaEc"
+    },
+    {
+      "added_at": "2024-04-26 06:00:00",
+      "album": {
+        "name": "DE POR VIDA",
+        "url": "https://open.spotify.com/album/0wSQj9XhYYFhaVIVi1UewS"
+      },
+      "artists": [
+        {
+          "name": "Doble Porcion",
+          "url": "https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408"
+        },
+        {
+          "name": "Ma\u00f1as Ru-Fino",
+          "url": "https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe"
+        },
+        {
+          "name": "M\u00e9tricas Fr\u00edas",
+          "url": "https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k"
+        }
+      ],
+      "duration_ms": 184665,
+      "name": "De Por Vida",
+      "url": "https://open.spotify.com/track/0cwKWN0s1HWpDCKT9GQN77"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -2051,22 +2051,22 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "1000 Colores",
-        "url": "https://open.spotify.com/album/0qttaG6CIHzpLgX15dl8qT"
+        "name": "Geassassin X la Celestina, Vol. X Parte I",
+        "url": "https://open.spotify.com/album/1iS9vCqGgK1OEo2NufOjL4"
       },
       "artists": [
         {
-          "name": "Cuauh",
-          "url": "https://open.spotify.com/artist/3nVY2YFUkLFklG2qTfbPVc"
+          "name": "Geassassin",
+          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
         },
         {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+          "name": "La Celestina",
+          "url": "https://open.spotify.com/artist/4z2nLiLZGEJXchuGSz372L"
         }
       ],
-      "duration_ms": 215189,
-      "name": "1000 Colores",
-      "url": "https://open.spotify.com/track/59jrNHkwH8uLIvlwQldUX6"
+      "duration_ms": 173294,
+      "name": "No Pain",
+      "url": "https://open.spotify.com/track/2TWNJoaX3RoADj9gxr55Ed"
     }
   ],
   "unique_name": "Rimas Frescas ",

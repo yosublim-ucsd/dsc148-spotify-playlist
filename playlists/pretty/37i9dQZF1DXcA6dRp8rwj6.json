@@ -1,13 +1,113 @@
 {
-  "description": "The hottest Hip-Hop of today all over the world. (Cover: Drake)",
-  "num_followers": 438344,
+  "description": "The hottest Hip-Hop of today all over the world. (Cover: Kendrick Lamar)",
+  "num_followers": 438516,
   "original_name": "Beats & Rhymes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zi3RxAAAAACLu0SGHQtnIrAz7vck++3G",
+  "snapshot_id": "ZjO4gAAAAADtND+sjiyDU21xHBHXdtYH",
   "tracks": [
+    {
+      "added_at": "2024-05-02 16:00:00",
+      "album": {
+        "name": "euphoria",
+        "url": "https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 383639,
+      "name": "euphoria",
+      "url": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q"
+    },
+    {
+      "added_at": "2024-04-28 04:34:12",
+      "album": {
+        "name": "Push Ups",
+        "url": "https://open.spotify.com/album/06me0leRR3AuF4IFiEytml"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 232774,
+      "name": "Push Ups",
+      "url": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
+    },
+    {
+      "added_at": "2024-05-02 16:00:00",
+      "album": {
+        "name": "psyche: red",
+        "url": "https://open.spotify.com/album/62ctzdjOJcWjfI6FPEqD6F"
+      },
+      "artists": [
+        {
+          "name": "DPR CREAM",
+          "url": "https://open.spotify.com/artist/7bPplWv4cZ1q26UY2Wmcvw"
+        }
+      ],
+      "duration_ms": 230741,
+      "name": "darling",
+      "url": "https://open.spotify.com/track/4QxLZ3njPT7IwnRinZn2tF"
+    },
+    {
+      "added_at": "2024-05-02 16:00:00",
+      "album": {
+        "name": "\u3082\u3046\u4e00\u5ea6\u30ad\u30b9\u3092\u3057\u3066",
+        "url": "https://open.spotify.com/album/2vBJrNRG3j0CYzqV5iD8gs"
+      },
+      "artists": [
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF"
+        },
+        {
+          "name": "JP THE WAVY",
+          "url": "https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9"
+        }
+      ],
+      "duration_ms": 157200,
+      "name": "\u3082\u3046\u4e00\u5ea6\u30ad\u30b9\u3092\u3057\u3066",
+      "url": "https://open.spotify.com/track/3mdyNzxy8EfEhitWY71KL2"
+    },
+    {
+      "added_at": "2024-05-02 16:00:00",
+      "album": {
+        "name": "BEAT by 82",
+        "url": "https://open.spotify.com/album/5PNr1szmjWGuXxHAesSljM"
+      },
+      "artists": [
+        {
+          "name": "82MAJOR",
+          "url": "https://open.spotify.com/artist/1wDstpO8XQNU6GV0S92663"
+        }
+      ],
+      "duration_ms": 183160,
+      "name": "Choke",
+      "url": "https://open.spotify.com/track/5fvQ0kElOryRWFaXQMORqT"
+    },
+    {
+      "added_at": "2024-05-02 16:00:00",
+      "album": {
+        "name": "MILLION DOLLAR BABY",
+        "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 155151,
+      "name": "MILLION DOLLAR BABY",
+      "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
+    },
     {
       "added_at": "2024-04-28 04:34:12",
       "album": {
@@ -39,22 +139,6 @@
       "duration_ms": 150144,
       "name": "KNOCKA",
       "url": "https://open.spotify.com/track/7hBZnHzSqQxBi4KoMoiWfx"
-    },
-    {
-      "added_at": "2024-04-28 04:34:12",
-      "album": {
-        "name": "Push Ups",
-        "url": "https://open.spotify.com/album/06me0leRR3AuF4IFiEytml"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 232774,
-      "name": "Push Ups",
-      "url": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
     },
     {
       "added_at": "2024-04-28 04:34:12",
@@ -1871,134 +1955,6 @@
       "duration_ms": 221927,
       "name": "2 Proud",
       "url": "https://open.spotify.com/track/5EhDe41LrlpFrOLMB8kx3X"
-    },
-    {
-      "added_at": "2024-04-28 04:34:12",
-      "album": {
-        "name": "S.H.O.T.T.A.",
-        "url": "https://open.spotify.com/album/53BUO883zRxzLTHppZAc9P"
-      },
-      "artists": [
-        {
-          "name": "Spence Lee",
-          "url": "https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa"
-        },
-        {
-          "name": "Slim Jxmmi",
-          "url": "https://open.spotify.com/artist/7EEiVZvj6RCEtVX2F2pyxu"
-        }
-      ],
-      "duration_ms": 141639,
-      "name": "SRT (feat. Slim Jxmmi)",
-      "url": "https://open.spotify.com/track/4tfUSfavhddmL6tmfjRdwc"
-    },
-    {
-      "added_at": "2024-04-28 04:34:12",
-      "album": {
-        "name": "Reminisce",
-        "url": "https://open.spotify.com/album/0AuZ8ODGhm85yIAW3cbZSC"
-      },
-      "artists": [
-        {
-          "name": "Dtrue",
-          "url": "https://open.spotify.com/artist/6UYPzNMXXBGcGywqMUwqn2"
-        }
-      ],
-      "duration_ms": 132923,
-      "name": "Reminisce",
-      "url": "https://open.spotify.com/track/07JXEGlEQmMWIrH9Kn6swl"
-    },
-    {
-      "added_at": "2024-04-28 04:34:12",
-      "album": {
-        "name": "DEATH",
-        "url": "https://open.spotify.com/album/1RjBJ7J8LLOdzKt7xA0Qji"
-      },
-      "artists": [
-        {
-          "name": "Lil Skies",
-          "url": "https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo"
-        }
-      ],
-      "duration_ms": 184109,
-      "name": "DEATH",
-      "url": "https://open.spotify.com/track/43YI0FF74feONzcXkUEI9R"
-    },
-    {
-      "added_at": "2024-04-28 04:34:12",
-      "album": {
-        "name": "Superman",
-        "url": "https://open.spotify.com/album/4iJ7AXwW3ljCGt2adO26o4"
-      },
-      "artists": [
-        {
-          "name": "Mark Battles",
-          "url": "https://open.spotify.com/artist/24SwsBq76FnNeXW9Do4wPI"
-        }
-      ],
-      "duration_ms": 113313,
-      "name": "Superman",
-      "url": "https://open.spotify.com/track/6znLgQRXhiM0OcrfO9caWh"
-    },
-    {
-      "added_at": "2024-04-28 04:34:12",
-      "album": {
-        "name": "HATE ME",
-        "url": "https://open.spotify.com/album/5XlxyRqG5mr7eG6My0QkVT"
-      },
-      "artists": [
-        {
-          "name": "Lil Peep",
-          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
-        }
-      ],
-      "duration_ms": 198053,
-      "name": "Looking For You",
-      "url": "https://open.spotify.com/track/7C8RxsVy6MsOef3B5lk7TI"
-    },
-    {
-      "added_at": "2024-04-28 04:34:12",
-      "album": {
-        "name": "Forever & Ever & Ever & Even After That",
-        "url": "https://open.spotify.com/album/2VZ32TB1aCoNseOeImafsb"
-      },
-      "artists": [
-        {
-          "name": "KYLE",
-          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
-        }
-      ],
-      "duration_ms": 215198,
-      "name": "Forever & Ever & Ever & Even After That",
-      "url": "https://open.spotify.com/track/3BlXpC1PXYYbTxIulMLbP5"
-    },
-    {
-      "added_at": "2024-04-28 04:34:12",
-      "album": {
-        "name": "CATCH UP",
-        "url": "https://open.spotify.com/album/73ycvNiwdFSVWPkuRb0fIp"
-      },
-      "artists": [
-        {
-          "name": "CYBER RUI",
-          "url": "https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2"
-        },
-        {
-          "name": "Ash-B",
-          "url": "https://open.spotify.com/artist/78l5b6jXVHHTrRCzSx1ku4"
-        },
-        {
-          "name": "DLEN",
-          "url": "https://open.spotify.com/artist/7FGUs03W7LYSEdn4lL7eTg"
-        },
-        {
-          "name": "DJ FRIP a.k.a. BeatLab",
-          "url": "https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7"
-        }
-      ],
-      "duration_ms": 181823,
-      "name": "CATCH UP",
-      "url": "https://open.spotify.com/track/1pun3MQ7dbrzs2magIwseo"
     }
   ],
   "unique_name": "Beats & Rhymes",

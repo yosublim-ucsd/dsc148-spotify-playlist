@@ -2126,7 +2126,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 191000,
       "name": "Parade",
       "url": "https://open.spotify.com/track/1DCISG31avGG9oQK3gnDxh"
@@ -3800,6 +3800,24 @@
       "duration_ms": 231609,
       "name": "\u6c88\u4e01\u82b1",
       "url": "https://open.spotify.com/track/79TdseXlAiANFOTstIwejv"
+    },
+    {
+      "album": {
+        "name": "\u7121\u8cac\u4efb\u3067\u3048\u3048\u3058\u3083\u306a\u3044\u304bLOVE",
+        "url": "https://open.spotify.com/album/7uhQhoDa2Q9uQxEeESSXIw"
+      },
+      "artists": [
+        {
+          "name": "KAMIGATA BOYZ",
+          "url": "https://open.spotify.com/artist/5TjFUvRq3BNyDsCgLWvxKF"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233726,
+      "name": "\u7121\u8cac\u4efb\u3067\u3048\u3048\u3058\u3083\u306a\u3044\u304bLOVE",
+      "url": "https://open.spotify.com/track/3HVa5vaMiHGib4ztB7sCLR"
     },
     {
       "album": {

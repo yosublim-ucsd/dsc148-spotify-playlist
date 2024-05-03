@@ -1,6 +1,6 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe",
-  "num_followers": 299718,
+  "num_followers": 299905,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
+        "name": "ZaZa Vibes",
+        "url": "https://open.spotify.com/album/18XSFBvoDjWRmApQZIDzkD"
+      },
+      "artists": [
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Sempe",
+      "url": "https://open.spotify.com/track/7AbLGIOzFkx6jHq5en5xiH"
+    },
+    {
+      "added_at": "2024-04-11 12:18:53",
+      "album": {
         "name": "WORLD BEST",
         "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
       },
@@ -555,18 +571,18 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
-        "name": "ZaZa Vibes",
-        "url": "https://open.spotify.com/album/18XSFBvoDjWRmApQZIDzkD"
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
       },
       "artists": [
         {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 171428,
-      "name": "Sempe",
-      "url": "https://open.spotify.com/track/7AbLGIOzFkx6jHq5en5xiH"
+      "duration_ms": 231618,
+      "name": "Ye",
+      "url": "https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -587,22 +603,6 @@
       "duration_ms": 126206,
       "name": "THIS YEAR (Blessings)",
       "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"
-    },
-    {
-      "added_at": "2024-04-11 12:18:53",
-      "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 231618,
-      "name": "Ye",
-      "url": "https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -743,26 +743,6 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
-        "name": "Love Don't Cost A Dime (Re-Up)",
-        "url": "https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "Love Don't Cost A Dime (Re-Up)",
-      "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
-    },
-    {
-      "added_at": "2024-04-11 12:18:53",
-      "album": {
         "name": "Playboy",
         "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 232155,
       "name": "Diana",
       "url": "https://open.spotify.com/track/6g8vNyogMW32lhHlNcDiwX"
+    },
+    {
+      "added_at": "2024-04-11 12:18:53",
+      "album": {
+        "name": "Love Don't Cost A Dime (Re-Up)",
+        "url": "https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Love Don't Cost A Dime (Re-Up)",
+      "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
-        "name": "AFROBOY",
-        "url": "https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1"
-      },
-      "artists": [
-        {
-          "name": "Kouz1",
-          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
-        }
-      ],
-      "duration_ms": 191827,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY"
-    },
-    {
-      "added_at": "2024-04-11 12:18:53",
-      "album": {
         "name": "No Wahala (Remix)",
         "url": "https://open.spotify.com/album/1CuCITWTEr6lE2q3MraOSG"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 178413,
       "name": "No Wahala - Remix",
       "url": "https://open.spotify.com/track/4yaPPFIafaVaMRHZ5IHkbA"
+    },
+    {
+      "added_at": "2024-04-11 12:18:53",
+      "album": {
+        "name": "AFROBOY",
+        "url": "https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1"
+      },
+      "artists": [
+        {
+          "name": "Kouz1",
+          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
+        }
+      ],
+      "duration_ms": 191827,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
-        "name": "Happy Birthday",
-        "url": "https://open.spotify.com/album/18kwUyynFKyNEJYZe2d4xg"
+        "name": "Real Man",
+        "url": "https://open.spotify.com/album/3GZNX1TLAGQu3FyE3J6F2w"
       },
       "artists": [
         {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+          "name": "Korede Bello",
+          "url": "https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Happy Birthday",
-      "url": "https://open.spotify.com/track/0nlERwr8m4Ks1RYYuTVm0C"
+      "duration_ms": 175098,
+      "name": "Real Man",
+      "url": "https://open.spotify.com/track/765zfCJsXtDDPInx1smYLo"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
-        "name": "Real Man",
-        "url": "https://open.spotify.com/album/3GZNX1TLAGQu3FyE3J6F2w"
+        "name": "Happy Birthday",
+        "url": "https://open.spotify.com/album/18kwUyynFKyNEJYZe2d4xg"
       },
       "artists": [
         {
-          "name": "Korede Bello",
-          "url": "https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa"
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
         }
       ],
-      "duration_ms": 175098,
-      "name": "Real Man",
-      "url": "https://open.spotify.com/track/765zfCJsXtDDPInx1smYLo"
+      "duration_ms": 184000,
+      "name": "Happy Birthday",
+      "url": "https://open.spotify.com/track/0nlERwr8m4Ks1RYYuTVm0C"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
-        "name": "Tiempo",
-        "url": "https://open.spotify.com/album/5wE1hFbC5twYBXK1KALpQQ"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 171813,
-      "name": "Tiempo",
-      "url": "https://open.spotify.com/track/5H6SZcjJzBNsB2VzKW2Ivd"
-    },
-    {
-      "added_at": "2024-04-11 12:18:53",
-      "album": {
         "name": "Waistline",
         "url": "https://open.spotify.com/album/6EdcTJXFmTNBtPbujaXYJ6"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 165154,
       "name": "Waistline",
       "url": "https://open.spotify.com/track/0wd6imcxxLZhP7cTzyBeua"
+    },
+    {
+      "added_at": "2024-04-11 12:18:53",
+      "album": {
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/5wE1hFbC5twYBXK1KALpQQ"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 171813,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/5H6SZcjJzBNsB2VzKW2Ivd"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -1907,6 +1907,22 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
+        "name": "Terminator",
+        "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 155897,
+      "name": "Terminator",
+      "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
+    },
+    {
+      "added_at": "2024-04-11 12:18:53",
+      "album": {
         "name": "Catch Me If You Can",
         "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
       },
@@ -1923,22 +1939,6 @@
       "duration_ms": 160799,
       "name": "One Woman",
       "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
-    },
-    {
-      "added_at": "2024-04-11 12:18:53",
-      "album": {
-        "name": "Terminator",
-        "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 155897,
-      "name": "Terminator",
-      "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -2407,6 +2407,26 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
+        "name": "Truth Be Told",
+        "url": "https://open.spotify.com/album/5YZ4AHdhfiAtn3bhoF6Igs"
+      },
+      "artists": [
+        {
+          "name": "Young T & Bugsey",
+          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 237480,
+      "name": "Nice (feat. Blxst)",
+      "url": "https://open.spotify.com/track/13ikSMNMyLUSqkzbqEHzdu"
+    },
+    {
+      "added_at": "2024-04-11 12:18:53",
+      "album": {
         "name": "No Fear (feat. Damian Marley & Nicky Jam)",
         "url": "https://open.spotify.com/album/5iNZBIAKC2ohCuxiZwuevw"
       },
@@ -2427,26 +2447,6 @@
       "duration_ms": 210922,
       "name": "No Fear (feat. Damian Marley & Nicky Jam)",
       "url": "https://open.spotify.com/track/5B1QxXc3XWgJ3dg2ULj7Aa"
-    },
-    {
-      "added_at": "2024-04-11 12:18:53",
-      "album": {
-        "name": "Truth Be Told",
-        "url": "https://open.spotify.com/album/5YZ4AHdhfiAtn3bhoF6Igs"
-      },
-      "artists": [
-        {
-          "name": "Young T & Bugsey",
-          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
-        },
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        }
-      ],
-      "duration_ms": 237480,
-      "name": "Nice (feat. Blxst)",
-      "url": "https://open.spotify.com/track/13ikSMNMyLUSqkzbqEHzdu"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -2555,26 +2555,6 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
-        "name": "Imaranma",
-        "url": "https://open.spotify.com/album/48uIaP1oyoy7X5DqMc8SYq"
-      },
-      "artists": [
-        {
-          "name": "C-Mart",
-          "url": "https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk"
-        },
-        {
-          "name": "Nelson Freitas",
-          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
-        }
-      ],
-      "duration_ms": 202232,
-      "name": "Imaranma",
-      "url": "https://open.spotify.com/track/0NFNiWzFvNjJDSRlMbI9lC"
-    },
-    {
-      "added_at": "2024-04-11 12:18:53",
-      "album": {
         "name": "Foreigner",
         "url": "https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ"
       },
@@ -2607,6 +2587,26 @@
       "duration_ms": 154772,
       "name": "Vitamine - (Remix) feat. Ya Levis",
       "url": "https://open.spotify.com/track/0cuBU0NjEZImmFEFn7kVsb"
+    },
+    {
+      "added_at": "2024-04-11 12:18:53",
+      "album": {
+        "name": "Imaranma",
+        "url": "https://open.spotify.com/album/48uIaP1oyoy7X5DqMc8SYq"
+      },
+      "artists": [
+        {
+          "name": "C-Mart",
+          "url": "https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk"
+        },
+        {
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+        }
+      ],
+      "duration_ms": 202232,
+      "name": "Imaranma",
+      "url": "https://open.spotify.com/track/0NFNiWzFvNjJDSRlMbI9lC"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -2787,30 +2787,6 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
-        "name": "Keep On Going",
-        "url": "https://open.spotify.com/album/49G044qCj857V1GK5M8jhn"
-      },
-      "artists": [
-        {
-          "name": "JR Kenna",
-          "url": "https://open.spotify.com/artist/2ZwZZINTWJqycmO64P77kN"
-        },
-        {
-          "name": "Hussla D",
-          "url": "https://open.spotify.com/artist/5fsptY9U01KKG6YbjrSnaf"
-        },
-        {
-          "name": "Maikal X",
-          "url": "https://open.spotify.com/artist/4tTonvkbofY3aKwUKiUwGA"
-        }
-      ],
-      "duration_ms": 189201,
-      "name": "Keep On Going",
-      "url": "https://open.spotify.com/track/7xqZdTUOHGOy0brFTCIDoA"
-    },
-    {
-      "added_at": "2024-04-11 12:18:53",
-      "album": {
         "name": "Love Is Alive (Original)",
         "url": "https://open.spotify.com/album/5jHvcU6ffhv4Fuu4MuWjUh"
       },
@@ -2851,6 +2827,30 @@
       "duration_ms": 141711,
       "name": "LEADER!",
       "url": "https://open.spotify.com/track/60VJ0CZ1bV5Ln2n3H1Xo1F"
+    },
+    {
+      "added_at": "2024-04-11 12:18:53",
+      "album": {
+        "name": "Keep On Going",
+        "url": "https://open.spotify.com/album/49G044qCj857V1GK5M8jhn"
+      },
+      "artists": [
+        {
+          "name": "JR Kenna",
+          "url": "https://open.spotify.com/artist/2ZwZZINTWJqycmO64P77kN"
+        },
+        {
+          "name": "Hussla D",
+          "url": "https://open.spotify.com/artist/5fsptY9U01KKG6YbjrSnaf"
+        },
+        {
+          "name": "Maikal X",
+          "url": "https://open.spotify.com/artist/4tTonvkbofY3aKwUKiUwGA"
+        }
+      ],
+      "duration_ms": 189201,
+      "name": "Keep On Going",
+      "url": "https://open.spotify.com/track/7xqZdTUOHGOy0brFTCIDoA"
     },
     {
       "added_at": "2024-04-11 12:18:53",

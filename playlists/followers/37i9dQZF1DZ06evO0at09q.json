@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 55,
+  "2024-05-03": 55,
   "date_first_scraped": "2024-01-03",
   "description": "This is Qlank. The essential tracks, all in one playlist.",
   "name": "This Is Qlank",
@@ -273,6 +273,32 @@
       "duration_ms": 228571,
       "name": "Chai Tea",
       "url": "https://open.spotify.com/track/7BCIfos9MNom10BdK2domq"
+    },
+    {
+      "album": {
+        "name": "Crown Remixes",
+        "url": "https://open.spotify.com/album/1rVdfi3hGxWVjAW95TwqYM"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "Tyler Graves",
+          "url": "https://open.spotify.com/artist/5bFKudtw20QjmAFeA1hBLq"
+        },
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255937,
+      "name": "Crown - Qlank Remix",
+      "url": "https://open.spotify.com/track/0ejt8Oi2qMU2KU8uoZZsJg"
     },
     {
       "album": {
@@ -1553,7 +1579,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 245760,
       "name": "XTC",
       "url": "https://open.spotify.com/track/7EhWwj8p9Onker9p9R2bHI"

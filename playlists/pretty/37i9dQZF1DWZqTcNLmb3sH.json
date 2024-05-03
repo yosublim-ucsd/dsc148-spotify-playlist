@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Karataka Damanaka\n",
-  "num_followers": 57431,
+  "num_followers": 57438,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zi940wAAAACiKbzS6GEI4oekAz+XviVN",
+  "snapshot_id": "ZjNsmQAAAAA9uRljyAMZGlsYVxSWul8P",
   "tracks": [
     {
       "added_at": "2024-03-14 12:22:29",
@@ -95,6 +95,30 @@
       "duration_ms": 225968,
       "name": "Yedhe Goodali (From \"Jasti Preeti\")",
       "url": "https://open.spotify.com/track/7kEEUfYAGQEGkGOY3FJG0P"
+    },
+    {
+      "added_at": "2024-05-02 10:36:09",
+      "album": {
+        "name": "Pushpa Pushpa (From \"Pushpa 2 The Rule\") [KANNADA]",
+        "url": "https://open.spotify.com/album/5r3CYnvwlkcdUJ7noko7w8"
+      },
+      "artists": [
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Varadaraj Chikkaballapura",
+          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
+        }
+      ],
+      "duration_ms": 256018,
+      "name": "Pushpa Pushpa (From \"Pushpa 2 The Rule\") [KANNADA]",
+      "url": "https://open.spotify.com/track/6RkQfVg0kZts7v5cPikfSn"
     },
     {
       "added_at": "2024-04-08 10:57:58",

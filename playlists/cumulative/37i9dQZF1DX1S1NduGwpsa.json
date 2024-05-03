@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Stephane Wrembel",
+  "description": "The best jazz new releases. Cover: Kimberose",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -2502,7 +2502,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 193933,
       "name": "Diamond in the Rough",
       "url": "https://open.spotify.com/track/3yXgz87vtMu3UmXWhElkgS"
@@ -3174,6 +3174,24 @@
       "duration_ms": 204640,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/7FazaEyS23gRqSFHocOQva"
+    },
+    {
+      "album": {
+        "name": "Feeling Good (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/6YQtpgkFSYr9sF8fTsHbMs"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239299,
+      "name": "Feeling Good - triple j Like A Version",
+      "url": "https://open.spotify.com/track/4kY3cAWzzKVn3ZmYfOOJul"
     },
     {
       "album": {
@@ -6473,6 +6491,24 @@
     },
     {
       "album": {
+        "name": "Mississippi Goddam",
+        "url": "https://open.spotify.com/album/6RxEkkZCUtNwCvFsv2pm97"
+      },
+      "artists": [
+        {
+          "name": "Ashley Henry",
+          "url": "https://open.spotify.com/artist/64bpQRbx4Nw2r7oIg1SAzw"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211030,
+      "name": "Mississippi Goddam",
+      "url": "https://open.spotify.com/track/4Wt6CQv405BTx52dHQbxPn"
+    },
+    {
+      "album": {
         "name": "La Septi\u00e8me Reine",
         "url": "https://open.spotify.com/album/33gLfX0wqcpYOhmZViuXAO"
       },
@@ -7610,7 +7646,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 239725,
       "name": "Phoenix",
       "url": "https://open.spotify.com/track/0Ktu7sLKIYFCvQsz4Tci6b"
@@ -9990,7 +10026,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 244235,
       "name": "Tu vu\u00f2 fa l'americano",
       "url": "https://open.spotify.com/track/5BcMCTCIF480WGz1vwihWp"
@@ -10222,6 +10258,24 @@
       "duration_ms": 352160,
       "name": "Venezuela",
       "url": "https://open.spotify.com/track/5MiroiiGhMht59cRjD3Ldj"
+    },
+    {
+      "album": {
+        "name": "La dolce vita",
+        "url": "https://open.spotify.com/album/6b1x97Y8WE5huaTIuKnY83"
+      },
+      "artists": [
+        {
+          "name": "Stefano Di Battista",
+          "url": "https://open.spotify.com/artist/3VPgBrIwuucYkLoZ2yHMjK"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260324,
+      "name": "Via con me",
+      "url": "https://open.spotify.com/track/7EggHwX77M5DNM1KTsDEys"
     },
     {
       "album": {

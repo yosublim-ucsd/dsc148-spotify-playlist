@@ -2,7 +2,7 @@
 
 ### [The Sound of Formosa](https://open.spotify.com/playlist/37i9dQZF1DXbploA264Kx0)
 
-> Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: I Mean Us
+> Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: 孫盛希 \(Shi Shi\)
 
 141 songs - 8 hr 18 min
 

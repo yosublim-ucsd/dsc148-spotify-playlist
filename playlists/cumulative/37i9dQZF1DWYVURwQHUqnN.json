@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Photo: Jul x DYSTINCT",
+  "description": "Photo: Heuss L'enfoir\u00e9 x Werenoi",
   "name": "Best Life",
   "tracks": [
     {
@@ -136,10 +136,28 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 173493,
       "name": "Besoin",
       "url": "https://open.spotify.com/track/1TlGKRboZU1UKvAtSs5EBP"
+    },
+    {
+      "album": {
+        "name": "BEST LIFE",
+        "url": "https://open.spotify.com/album/1PiRihgoNqGMv3XC7nbSvY"
+      },
+      "artists": [
+        {
+          "name": "Still Fresh",
+          "url": "https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128640,
+      "name": "BEST LIFE",
+      "url": "https://open.spotify.com/track/7zjsolz1zSuSldI0nzS1Cf"
     },
     {
       "album": {
@@ -1093,6 +1111,28 @@
     },
     {
       "album": {
+        "name": "M\u00e9lanine",
+        "url": "https://open.spotify.com/album/0ovXNQjta5DdP31OAMlKXO"
+      },
+      "artists": [
+        {
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+        },
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "M\u00e9lanine",
+      "url": "https://open.spotify.com/track/7GCU3DlRW3s65f6JjNBrM4"
+    },
+    {
+      "album": {
         "name": "NI",
         "url": "https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad"
       },
@@ -1232,6 +1272,24 @@
       "duration_ms": 166914,
       "name": "On est pr\u00eat",
       "url": "https://open.spotify.com/track/3roPtG7hZaqEqbJIqt412J"
+    },
+    {
+      "album": {
+        "name": "Otra",
+        "url": "https://open.spotify.com/album/7CDNVS0VbByb886MZVPeuF"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Otra",
+      "url": "https://open.spotify.com/track/0x9KqMgyO6SzBf4fLH9gsX"
     },
     {
       "album": {
@@ -1378,7 +1436,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 155878,
       "name": "Piranha (feat. Vacra)",
       "url": "https://open.spotify.com/track/74x0GjLf1nolNFBYY8gddI"
@@ -1578,10 +1636,32 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 189829,
       "name": "Saiyan",
       "url": "https://open.spotify.com/track/63jpYDOn7xGEPzpUxViZu2"
+    },
+    {
+      "album": {
+        "name": "Sakina",
+        "url": "https://open.spotify.com/album/7upDCAsLkh57rRHPUZUao8"
+      },
+      "artists": [
+        {
+          "name": "Benab",
+          "url": "https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY"
+        },
+        {
+          "name": "Ricky Rich",
+          "url": "https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194049,
+      "name": "Sakina",
+      "url": "https://open.spotify.com/track/0GOS11A3ETbua6u0YsqDQ9"
     },
     {
       "album": {

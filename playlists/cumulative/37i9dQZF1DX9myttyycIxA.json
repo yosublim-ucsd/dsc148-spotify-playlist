@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Underground indie rock gems. Cover: Chanel Beads",
+  "description": "Underground indie rock gems. Cover: Sunday (1994)",
   "name": "undercurrents",
   "tracks": [
     {
@@ -2461,6 +2461,24 @@
     },
     {
       "album": {
+        "name": "Sunday (1994)",
+        "url": "https://open.spotify.com/album/2zRqf218fxEGXLDdYnEuOl"
+      },
+      "artists": [
+        {
+          "name": "Sunday (1994)",
+          "url": "https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283404,
+      "name": "Blonde",
+      "url": "https://open.spotify.com/track/2xu5nRMqxuXSdHPFUglucc"
+    },
+    {
+      "album": {
         "name": "Wild Heart",
         "url": "https://open.spotify.com/album/3vYaHUkO7laqYdwUQbnsIP"
       },
@@ -3024,7 +3042,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 249000,
       "name": "bullseye",
       "url": "https://open.spotify.com/track/68KvsTrt7PLsbYstmELdN7"
@@ -4102,6 +4120,24 @@
       "duration_ms": 208306,
       "name": "COMATOSE",
       "url": "https://open.spotify.com/track/0WPWiuKkA0nA0uSpzB61CJ"
+    },
+    {
+      "album": {
+        "name": "Come Home",
+        "url": "https://open.spotify.com/album/1tG9PcKCeJnTmvnlxSPelR"
+      },
+      "artists": [
+        {
+          "name": "Oh Callaghan",
+          "url": "https://open.spotify.com/artist/5MpYC7bCBrqmbQYdZzlDF8"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197222,
+      "name": "Come Home",
+      "url": "https://open.spotify.com/track/0O6Nk9Pj3XrmW7aY7Ib5hW"
     },
     {
       "album": {
@@ -5734,6 +5770,24 @@
       "duration_ms": 216266,
       "name": "Done With Bits",
       "url": "https://open.spotify.com/track/774M4GIZvPo7obQwAW4B8X"
+    },
+    {
+      "album": {
+        "name": "Dotted Line",
+        "url": "https://open.spotify.com/album/7z2dD1HHgimIFA2r0SHhVW"
+      },
+      "artists": [
+        {
+          "name": "Why Bonnie",
+          "url": "https://open.spotify.com/artist/4FAX5kglTvU5WiFq7yPNb9"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216292,
+      "name": "Dotted Line",
+      "url": "https://open.spotify.com/track/34BIaCvkZLDXSmWVbbFcID"
     },
     {
       "album": {
@@ -8232,7 +8286,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 119891,
       "name": "Good God",
       "url": "https://open.spotify.com/track/1Tqk6l1J3ANlVUpCG3Sdlo"
@@ -12980,7 +13034,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 289761,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/4sINCbrGzO8ycv5qkzxe7d"
@@ -15259,6 +15313,24 @@
     },
     {
       "album": {
+        "name": "Picture It",
+        "url": "https://open.spotify.com/album/6YpQUgFqCQfXOCbgdsPVqD"
+      },
+      "artists": [
+        {
+          "name": "Margaux",
+          "url": "https://open.spotify.com/artist/2ycbMlovjNV5gks2r8Vtsp"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211093,
+      "name": "Picture It",
+      "url": "https://open.spotify.com/track/4kqo78GnFFHu4zccofhUGa"
+    },
+    {
+      "album": {
         "name": "Pictures of You",
         "url": "https://open.spotify.com/album/4VykpJKWx1lQ0b4r9cRCTP"
       },
@@ -15332,7 +15404,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 207600,
       "name": "Pitbull",
       "url": "https://open.spotify.com/track/7GerEWizPhfbNmWJgQOU5b"
@@ -15574,7 +15646,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 136153,
       "name": "pretty scars",
       "url": "https://open.spotify.com/track/7dTs49ZdEWuHvyrbjrZyDa"
@@ -16208,7 +16280,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 196533,
       "name": "Root Canal",
       "url": "https://open.spotify.com/track/41QKSwPaV7ADagGinXHeTv"
@@ -17959,6 +18031,24 @@
     },
     {
       "album": {
+        "name": "Sour Patch",
+        "url": "https://open.spotify.com/album/6CLdVHeb9EBQU0pnHdcyMO"
+      },
+      "artists": [
+        {
+          "name": "Ruby Waters",
+          "url": "https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201735,
+      "name": "Sour Patch",
+      "url": "https://open.spotify.com/track/4I0XnxrpkwD7CvJuUm9DgB"
+    },
+    {
+      "album": {
         "name": "Cradle",
         "url": "https://open.spotify.com/album/4YzM91c3bPY56P14PuyI7j"
       },
@@ -19022,7 +19112,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 167213,
       "name": "T-Shirt",
       "url": "https://open.spotify.com/track/4nbUCgADOoOzz8bU8SXkk0"
@@ -20162,7 +20252,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 270344,
       "name": "Tired Boy",
       "url": "https://open.spotify.com/track/1eaRpdsgUxH5AY0W9W3Mcc"
@@ -20670,6 +20760,24 @@
       "duration_ms": 165662,
       "name": "TV on TV",
       "url": "https://open.spotify.com/track/1IODMOg2Un0yxLdAKof5pT"
+    },
+    {
+      "album": {
+        "name": "Twilight Living",
+        "url": "https://open.spotify.com/album/09SiuB29IpmdEeoGjkhS0p"
+      },
+      "artists": [
+        {
+          "name": "Superfan",
+          "url": "https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227626,
+      "name": "Twilight Living",
+      "url": "https://open.spotify.com/track/5eSJivBPBv5cJDd8rC3TZS"
     },
     {
       "album": {

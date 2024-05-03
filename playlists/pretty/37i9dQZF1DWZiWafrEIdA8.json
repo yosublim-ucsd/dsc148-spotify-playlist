@@ -1,6 +1,6 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \ub2f9\uc2e0\uc744 \uc704\ub85c\ud558\ub294 \uac00\uc0ac\uc640 \ub530\ub73b\ud55c \ube44\ud2b8.",
-  "num_followers": 9302,
+  "num_followers": 9298,
   "original_name": "\ud790\ub9c1 \ud799\ud569",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-04-22 05:07:41",
       "album": {
+        "name": "BITCOIN",
+        "url": "https://open.spotify.com/album/4MVFegneeORtADZG9KOfYl"
+      },
+      "artists": [
+        {
+          "name": "TimeFeveR",
+          "url": "https://open.spotify.com/artist/3jswVC5CJkKeDp8ugPH42m"
+        }
+      ],
+      "duration_ms": 202062,
+      "name": "BITCOIN (prod. HOWOW)",
+      "url": "https://open.spotify.com/track/1nTYsc4p0VNzfywsy7gpBl"
+    },
+    {
+      "added_at": "2024-04-22 05:07:41",
+      "album": {
         "name": "SHOW ME THE MONEY 11 Final",
         "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 192437,
       "name": "ORIGINAL (Feat. Sion) (Prod. R.Tee)",
       "url": "https://open.spotify.com/track/4mIVK08PK5UB8R196Cx64r"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
-        "name": "BITCOIN",
-        "url": "https://open.spotify.com/album/4MVFegneeORtADZG9KOfYl"
-      },
-      "artists": [
-        {
-          "name": "TimeFeveR",
-          "url": "https://open.spotify.com/artist/3jswVC5CJkKeDp8ugPH42m"
-        }
-      ],
-      "duration_ms": 202062,
-      "name": "BITCOIN (prod. HOWOW)",
-      "url": "https://open.spotify.com/track/1nTYsc4p0VNzfywsy7gpBl"
     },
     {
       "added_at": "2024-04-22 05:07:41",
@@ -835,6 +835,30 @@
     {
       "added_at": "2024-04-22 05:07:41",
       "album": {
+        "name": "Primary and Pphk Pt.1",
+        "url": "https://open.spotify.com/album/5CCVroCLwjRk4GDTwCaX4t"
+      },
+      "artists": [
+        {
+          "name": "Primary",
+          "url": "https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep"
+        },
+        {
+          "name": "Pphk",
+          "url": "https://open.spotify.com/artist/7Aj5YhBa3fybV1CotHRftv"
+        },
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Seat Belt (Feat. Dynamic Duo)",
+      "url": "https://open.spotify.com/track/2WcMriAJ84pN5ZW8cBiUnQ"
+    },
+    {
+      "added_at": "2024-04-22 05:07:41",
+      "album": {
         "name": "Show Me The Money 9 Semi Final",
         "url": "https://open.spotify.com/album/0plEgZoHiIXfQQ8eJYir1V"
       },
@@ -859,26 +883,38 @@
     {
       "added_at": "2024-04-22 05:07:41",
       "album": {
-        "name": "Primary and Pphk Pt.1",
-        "url": "https://open.spotify.com/album/5CCVroCLwjRk4GDTwCaX4t"
+        "name": "Marigold Tapes",
+        "url": "https://open.spotify.com/album/125PdGOGePXb8q7sAwCMLk"
       },
       "artists": [
         {
-          "name": "Primary",
-          "url": "https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep"
-        },
-        {
-          "name": "Pphk",
-          "url": "https://open.spotify.com/artist/7Aj5YhBa3fybV1CotHRftv"
-        },
-        {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+          "name": "E SENS",
+          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
         }
       ],
-      "duration_ms": 248000,
-      "name": "Seat Belt (Feat. Dynamic Duo)",
-      "url": "https://open.spotify.com/track/2WcMriAJ84pN5ZW8cBiUnQ"
+      "duration_ms": 229463,
+      "name": "sleep tight",
+      "url": "https://open.spotify.com/track/3W2PPFdSBQeK96qQwKBnhH"
+    },
+    {
+      "added_at": "2024-04-22 05:07:41",
+      "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/3zCvTkjs4RaVAV5AF4LayZ"
+      },
+      "artists": [
+        {
+          "name": "VINXEN",
+          "url": "https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q"
+        },
+        {
+          "name": "Kim Jong Wan of NELL",
+          "url": "https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH"
+        }
+      ],
+      "duration_ms": 240562,
+      "name": "Star(feat.Nell)",
+      "url": "https://open.spotify.com/track/6kbOu1oRTxRxRTBrGxIYzK"
     },
     {
       "added_at": "2024-04-22 05:07:41",
@@ -919,42 +955,6 @@
       "duration_ms": 186533,
       "name": "Y earned (Feat. Gaeko, SOLE) (Prod. Primary, plusNONE)",
       "url": "https://open.spotify.com/track/5HbN3PIXPQiHRb3MKuqGO5"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
-        "name": "Star",
-        "url": "https://open.spotify.com/album/3zCvTkjs4RaVAV5AF4LayZ"
-      },
-      "artists": [
-        {
-          "name": "VINXEN",
-          "url": "https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q"
-        },
-        {
-          "name": "Kim Jong Wan of NELL",
-          "url": "https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH"
-        }
-      ],
-      "duration_ms": 240562,
-      "name": "Star(feat.Nell)",
-      "url": "https://open.spotify.com/track/6kbOu1oRTxRxRTBrGxIYzK"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
-        "name": "Marigold Tapes",
-        "url": "https://open.spotify.com/album/125PdGOGePXb8q7sAwCMLk"
-      },
-      "artists": [
-        {
-          "name": "E SENS",
-          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
-        }
-      ],
-      "duration_ms": 229463,
-      "name": "sleep tight",
-      "url": "https://open.spotify.com/track/3W2PPFdSBQeK96qQwKBnhH"
     },
     {
       "added_at": "2024-04-22 05:07:41",

@@ -1,6 +1,6 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 158264,
+  "num_followers": 158300,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-04-29 04:22:24",
       "album": {
-        "name": "The Lost Petals",
-        "url": "https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 121695,
-      "name": "Once More",
-      "url": "https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz"
-    },
-    {
-      "added_at": "2024-04-29 04:22:24",
-      "album": {
         "name": "bet",
         "url": "https://open.spotify.com/album/6bJmksvW1u7i1mh78WeQB9"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 188000,
       "name": "bet",
       "url": "https://open.spotify.com/track/4R96Fg25lU1Sfsvqf1XNLa"
+    },
+    {
+      "added_at": "2024-04-29 04:22:24",
+      "album": {
+        "name": "The Lost Petals",
+        "url": "https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 121695,
+      "name": "Once More",
+      "url": "https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz"
     },
     {
       "added_at": "2024-04-29 04:22:24",
@@ -611,26 +611,6 @@
     {
       "added_at": "2024-04-29 04:22:24",
       "album": {
-        "name": "IT'S YOU (feat. keshi)",
-        "url": "https://open.spotify.com/album/1LtaBRxkVaAnoTSQQsWjJF"
-      },
-      "artists": [
-        {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
-        },
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 173426,
-      "name": "IT'S YOU (feat. keshi)",
-      "url": "https://open.spotify.com/track/5SMCxRA6hB2jEhroaYfw6N"
-    },
-    {
-      "added_at": "2024-04-29 04:22:24",
-      "album": {
         "name": "Feels (feat. Khalid)",
         "url": "https://open.spotify.com/album/7zbaDQ3uGL5GyIyeUVkktz"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 221974,
       "name": "Feels (feat. Khalid)",
       "url": "https://open.spotify.com/track/6LZ9FO9UsGIcTKbShnfNsG"
+    },
+    {
+      "added_at": "2024-04-29 04:22:24",
+      "album": {
+        "name": "IT'S YOU (feat. keshi)",
+        "url": "https://open.spotify.com/album/1LtaBRxkVaAnoTSQQsWjJF"
+      },
+      "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        },
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 173426,
+      "name": "IT'S YOU (feat. keshi)",
+      "url": "https://open.spotify.com/track/5SMCxRA6hB2jEhroaYfw6N"
     },
     {
       "added_at": "2024-04-29 04:22:24",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-04-29 04:22:24",
       "album": {
-        "name": "Maybe Baby",
-        "url": "https://open.spotify.com/album/0kwjPVEuW7YoMpeDCpd5Nw"
-      },
-      "artists": [
-        {
-          "name": "Sade Susanto",
-          "url": "https://open.spotify.com/artist/1yYhzl7KYtjfeMFqmocPt3"
-        }
-      ],
-      "duration_ms": 158675,
-      "name": "Maybe Baby",
-      "url": "https://open.spotify.com/track/2HltyHR6c797UOdw42knuC"
-    },
-    {
-      "added_at": "2024-04-29 04:22:24",
-      "album": {
         "name": "My Dream",
         "url": "https://open.spotify.com/album/2kPTfyJIe5EVluRWipHW1K"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 199200,
       "name": "My Dream",
       "url": "https://open.spotify.com/track/0n6hyfHWcUktnmmIOJFp2D"
+    },
+    {
+      "added_at": "2024-04-29 04:22:24",
+      "album": {
+        "name": "Maybe Baby",
+        "url": "https://open.spotify.com/album/0kwjPVEuW7YoMpeDCpd5Nw"
+      },
+      "artists": [
+        {
+          "name": "Sade Susanto",
+          "url": "https://open.spotify.com/artist/1yYhzl7KYtjfeMFqmocPt3"
+        }
+      ],
+      "duration_ms": 158675,
+      "name": "Maybe Baby",
+      "url": "https://open.spotify.com/track/2HltyHR6c797UOdw42knuC"
     },
     {
       "added_at": "2024-04-29 04:22:24",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-04-29 04:22:24",
       "album": {
-        "name": "Chill",
-        "url": "https://open.spotify.com/album/6eDc1WXXQhsyvRgb3DduaR"
-      },
-      "artists": [
-        {
-          "name": "Julia Wu",
-          "url": "https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv"
-        }
-      ],
-      "duration_ms": 243529,
-      "name": "Chill",
-      "url": "https://open.spotify.com/track/6o0PuBbbFNdnkKVJEQ3G6Y"
-    },
-    {
-      "added_at": "2024-04-29 04:22:24",
-      "album": {
         "name": "NOT TOO DEEP (feat. 6LACK)",
         "url": "https://open.spotify.com/album/7vunoY8kfwitFWcNaPzqNj"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 288412,
       "name": "NOT TOO DEEP (feat. 6LACK)",
       "url": "https://open.spotify.com/track/2u925ft5mxwxYLhMQ7Sr72"
+    },
+    {
+      "added_at": "2024-04-29 04:22:24",
+      "album": {
+        "name": "Chill",
+        "url": "https://open.spotify.com/album/6eDc1WXXQhsyvRgb3DduaR"
+      },
+      "artists": [
+        {
+          "name": "Julia Wu",
+          "url": "https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv"
+        }
+      ],
+      "duration_ms": 243529,
+      "name": "Chill",
+      "url": "https://open.spotify.com/track/6o0PuBbbFNdnkKVJEQ3G6Y"
     },
     {
       "added_at": "2024-04-29 04:22:24",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2024-04-29 04:22:24",
       "album": {
+        "name": "Whatever This Is",
+        "url": "https://open.spotify.com/album/7dRN2VuLb4m1CDTHDHwz7h"
+      },
+      "artists": [
+        {
+          "name": "Fern.",
+          "url": "https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF"
+        }
+      ],
+      "duration_ms": 187058,
+      "name": "Whatever This Is",
+      "url": "https://open.spotify.com/track/0fSBuNmLlfkzulls16EA6T"
+    },
+    {
+      "added_at": "2024-04-29 04:22:24",
+      "album": {
         "name": "Message in a bottle",
         "url": "https://open.spotify.com/album/62jK0rJBJN3bJNF1fSdYqC"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 174667,
       "name": "Message in a bottle",
       "url": "https://open.spotify.com/track/4onEVnBCmCJhP0H0ctqPLG"
-    },
-    {
-      "added_at": "2024-04-29 04:22:24",
-      "album": {
-        "name": "Whatever This Is",
-        "url": "https://open.spotify.com/album/7dRN2VuLb4m1CDTHDHwz7h"
-      },
-      "artists": [
-        {
-          "name": "Fern.",
-          "url": "https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF"
-        }
-      ],
-      "duration_ms": 187058,
-      "name": "Whatever This Is",
-      "url": "https://open.spotify.com/track/0fSBuNmLlfkzulls16EA6T"
     },
     {
       "added_at": "2024-04-29 04:22:24",

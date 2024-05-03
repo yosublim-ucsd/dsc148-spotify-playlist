@@ -4,7 +4,7 @@
 
 > Rock out while you game.
 
-504 songs - 1 day 6 hr 8 min
+505 songs - 1 day 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,7 @@
 | [Hail to the King](https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 5:05 | 2020-06-29 | 2022-02-26 |
 | [Hammer](https://open.spotify.com/track/5kqr6EkKEafBGKxzjdXOVP) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Hammer](https://open.spotify.com/album/1OjpWJvSUT8Svr3ZYWtCSD) | 3:40 | 2022-04-22 | 2022-05-21 |
 | [Happy Song](https://open.spotify.com/track/1yYE8EyuIV0rrvQ1bA2Fyf) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:59 | 2020-06-29 | 2022-02-26 |
-| [Hate Me Too](https://open.spotify.com/track/0P9Yw78LZrptziYwD6O0Ed) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Hate Me Too](https://open.spotify.com/album/2lQvl1mfxJecbdNBnTwYuG) | 3:30 | 2023-06-23 |  |
+| [Hate Me Too](https://open.spotify.com/track/0P9Yw78LZrptziYwD6O0Ed) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Hate Me Too](https://open.spotify.com/album/2lQvl1mfxJecbdNBnTwYuG) | 3:30 | 2023-06-23 | 2024-05-03 |
 | [Hated](https://open.spotify.com/track/2NRa4W3rH4e5GKQMN5Qwyr) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Aggressive](https://open.spotify.com/album/5nQE80zQR1NqKDBo4oE4EJ) | 3:31 | 2022-07-28 | 2024-04-19 |
 | [Hated](https://open.spotify.com/track/5N0ToFp1DWQnG3EX24TNPs) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Hated](https://open.spotify.com/album/4ycu5JHwGIkT3YtPiSGRXn) | 3:31 | 2020-06-29 | 2022-07-29 |
 | [Hayloft II](https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Inside \(Deluxe\)](https://open.spotify.com/album/03EqExvZuxLK86huLxGIa2) | 3:35 | 2022-02-25 | 2022-04-20 |
@@ -320,6 +320,7 @@
 | [Novocaine](https://open.spotify.com/track/7ylI3Csj3EG4HPVf11L2jz) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp), [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Novocaine](https://open.spotify.com/album/7dMhiwQNwLVNmqUdRCQ8My) | 4:55 | 2024-03-08 |  |
 | [Nowhere Generation](https://open.spotify.com/track/74zUPQTB6HMnfS1cagJnd8) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation](https://open.spotify.com/album/0NaOsrcxpNfSIPtTkazQdI) | 3:52 | 2021-08-12 |  |
 | [Numb](https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora](https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3) | 3:05 | 2020-06-29 | 2022-02-26 |
+| [Numb](https://open.spotify.com/track/2rzoY8Gzj9iC0jPwPRQgZP) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Paper Hearts](https://open.spotify.com/album/4di62gnBZPDefkKwMBLXPb) | 3:35 | 2024-04-19 |  |
 | [Oblivion](https://open.spotify.com/track/3Ye5icBka8ODjcaEQakPvZ) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 2:41 | 2022-04-22 | 2022-05-21 |
 | [One + One](https://open.spotify.com/track/2kA6hOxNu2QINgkh6dYiEs) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [Is 4 Lovers](https://open.spotify.com/album/6H9QBo21NFBgN9Thf84pK7) | 3:46 | 2022-04-22 | 2022-05-14 |
 | [One Hell of a Team \(Inspired by "Hazbin Hotel"\)](https://open.spotify.com/track/0cRGA4WwyzoOdnOcui7d1e) | [AmaLee](https://open.spotify.com/artist/4sf4DrAOkheqktxTyKm7tO), [Divide Music](https://open.spotify.com/artist/50iN4QFD9Z9S1KAzDLvAju) | [One Hell of a Team \(Inspired by "Hazbin Hotel"\)](https://open.spotify.com/album/4CFzl6z4I2HfIH1gPow3bw) | 3:50 | 2022-06-16 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Jasmine Nadya",
+  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Satine Zaneta",
   "name": "RADAR Indonesia ",
   "tracks": [
     {
@@ -2720,6 +2720,24 @@
       "duration_ms": 203866,
       "name": "Queen of The South",
       "url": "https://open.spotify.com/track/65Y2vY9zirG11USMyryRqu"
+    },
+    {
+      "album": {
+        "name": "Raja dan Ratu",
+        "url": "https://open.spotify.com/album/4nHoAM5p4eDehGmgQQQvKI"
+      },
+      "artists": [
+        {
+          "name": "Ashira Zamita",
+          "url": "https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233959,
+      "name": "Raja dan Ratu",
+      "url": "https://open.spotify.com/track/7FZyTvbYGvyDBo0XSDDuXu"
     },
     {
       "album": {

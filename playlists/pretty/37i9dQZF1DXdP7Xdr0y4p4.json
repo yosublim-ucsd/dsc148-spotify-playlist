@@ -1,6 +1,6 @@
 {
   "description": "An essential list of recent hits of SoGo.  Cover:  <a href=\"https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA\">The Browns</a>",
-  "num_followers": 13759,
+  "num_followers": 13765,
   "original_name": "Streets Of Gold",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "The Stories We Tell",
+        "url": "https://open.spotify.com/album/4GJxoLRAleQBeEb6CSR2oI"
+      },
+      "artists": [
+        {
+          "name": "Down East Boys",
+          "url": "https://open.spotify.com/artist/0Zg0qh2ZQsBDm68196Ofln"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Good in the Good Times",
+      "url": "https://open.spotify.com/track/6m6CBaVU3KKztFkmz28m1I"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "Great Is His Faithfulness",
         "url": "https://open.spotify.com/album/7HfV6ry5U4qHaQlq6lSfzt"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 210161,
       "name": "How Great Thou Art",
       "url": "https://open.spotify.com/track/51SwrmMlPDLYWsBD62rXb6"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "The Stories We Tell",
-        "url": "https://open.spotify.com/album/4GJxoLRAleQBeEb6CSR2oI"
-      },
-      "artists": [
-        {
-          "name": "Down East Boys",
-          "url": "https://open.spotify.com/artist/0Zg0qh2ZQsBDm68196Ofln"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Good in the Good Times",
-      "url": "https://open.spotify.com/track/6m6CBaVU3KKztFkmz28m1I"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Glorious Appearing",
-        "url": "https://open.spotify.com/album/3kPtp2JB1FsCW7ntRNt99W"
-      },
-      "artists": [
-        {
-          "name": "The Hoppers",
-          "url": "https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7"
-        }
-      ],
-      "duration_ms": 228997,
-      "name": "Glorious Appearing",
-      "url": "https://open.spotify.com/track/2CGX7JVKELwjNgs4FppLEU"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Sings Greatest Country Gospel Hits",
         "url": "https://open.spotify.com/album/5fEKQptqnEDc4dj9pHH8Db"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 157500,
       "name": "Pass Me Not Oh Gentle Saviour",
       "url": "https://open.spotify.com/track/6vgQpJaxOKsgLgZLzMI3kq"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Glorious Appearing",
+        "url": "https://open.spotify.com/album/3kPtp2JB1FsCW7ntRNt99W"
+      },
+      "artists": [
+        {
+          "name": "The Hoppers",
+          "url": "https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7"
+        }
+      ],
+      "duration_ms": 228997,
+      "name": "Glorious Appearing",
+      "url": "https://open.spotify.com/track/2CGX7JVKELwjNgs4FppLEU"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "Give Me Jesus",
+        "url": "https://open.spotify.com/album/4FAKPSnfJM5NuV5MzfyLpB"
+      },
+      "artists": [
+        {
+          "name": "The Talleys",
+          "url": "https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC"
+        }
+      ],
+      "duration_ms": 220760,
+      "name": "Give Me Jesus",
+      "url": "https://open.spotify.com/track/41fDllXABcR51KZivo6uTx"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "Grace Ain't Fair (Acoustic Version)",
         "url": "https://open.spotify.com/album/45ijAsVgyLl4kDnTAUeh17"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 198099,
       "name": "These Are The Days",
       "url": "https://open.spotify.com/track/5R8RKqIh4EKQKY5U5Q8K8y"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "Give Me Jesus",
-        "url": "https://open.spotify.com/album/4FAKPSnfJM5NuV5MzfyLpB"
-      },
-      "artists": [
-        {
-          "name": "The Talleys",
-          "url": "https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC"
-        }
-      ],
-      "duration_ms": 220760,
-      "name": "Give Me Jesus",
-      "url": "https://open.spotify.com/track/41fDllXABcR51KZivo6uTx"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Lord's Prayer",
-        "url": "https://open.spotify.com/album/1GTIjIET5P7s2oXtT3sBcs"
-      },
-      "artists": [
-        {
-          "name": "Lauren Talley",
-          "url": "https://open.spotify.com/artist/3jbm4F4B8joagW1U4xiLRg"
-        }
-      ],
-      "duration_ms": 235328,
-      "name": "Lord's Prayer",
-      "url": "https://open.spotify.com/track/3GprG1XzOUavCgzEqyj84v"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "The World Needs a Song",
         "url": "https://open.spotify.com/album/0GdNxipb3VVA8WDXQ3QMLb"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 222064,
       "name": "I Bring You Jesus",
       "url": "https://open.spotify.com/track/6hOlJaU7E3SycdVXQN2taI"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Lord's Prayer",
+        "url": "https://open.spotify.com/album/1GTIjIET5P7s2oXtT3sBcs"
+      },
+      "artists": [
+        {
+          "name": "Lauren Talley",
+          "url": "https://open.spotify.com/artist/3jbm4F4B8joagW1U4xiLRg"
+        }
+      ],
+      "duration_ms": 235328,
+      "name": "Lord's Prayer",
+      "url": "https://open.spotify.com/track/3GprG1XzOUavCgzEqyj84v"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -879,18 +879,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "I Don't Belong",
-        "url": "https://open.spotify.com/album/2HNsusLhbziwmwMfBMI6tC"
+        "name": "In Your Hands",
+        "url": "https://open.spotify.com/album/6XEgkVMyUuHhAgs3Z9wh5d"
       },
       "artists": [
         {
-          "name": "The Talleys",
-          "url": "https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC"
+          "name": "Zane & Donna King",
+          "url": "https://open.spotify.com/artist/49ez4RKPnnHvNyLPfIgcer"
         }
       ],
-      "duration_ms": 291693,
-      "name": "I Don't Belong",
-      "url": "https://open.spotify.com/track/2b83n18SCOfBVHSAXUdFr7"
+      "duration_ms": 199382,
+      "name": "In Your Hands",
+      "url": "https://open.spotify.com/track/5jv8q8RMsCZLsLoughuYcK"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -911,18 +911,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "In Your Hands",
-        "url": "https://open.spotify.com/album/6XEgkVMyUuHhAgs3Z9wh5d"
+        "name": "I Don't Belong",
+        "url": "https://open.spotify.com/album/2HNsusLhbziwmwMfBMI6tC"
       },
       "artists": [
         {
-          "name": "Zane & Donna King",
-          "url": "https://open.spotify.com/artist/49ez4RKPnnHvNyLPfIgcer"
+          "name": "The Talleys",
+          "url": "https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC"
         }
       ],
-      "duration_ms": 199382,
-      "name": "In Your Hands",
-      "url": "https://open.spotify.com/track/5jv8q8RMsCZLsLoughuYcK"
+      "duration_ms": 291693,
+      "name": "I Don't Belong",
+      "url": "https://open.spotify.com/track/2b83n18SCOfBVHSAXUdFr7"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "The World Needs a Song",
+        "url": "https://open.spotify.com/album/4E9MITR2tZPyaUOPQpmUOJ"
+      },
+      "artists": [
+        {
+          "name": "The Lore Family",
+          "url": "https://open.spotify.com/artist/4LumramOIgEFgFyNkYeb94"
+        }
+      ],
+      "duration_ms": 191056,
+      "name": "The World Needs a Song",
+      "url": "https://open.spotify.com/track/2m03vLyMsBkWaEYwJOfP5T"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "Come and Dine",
         "url": "https://open.spotify.com/album/7y5dsM3Tre13QHcSG1L8tC"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 207533,
       "name": "Welcome To The Family",
       "url": "https://open.spotify.com/track/0PsajF6Y12NRWPWBIfBgHG"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "The World Needs a Song",
-        "url": "https://open.spotify.com/album/4E9MITR2tZPyaUOPQpmUOJ"
-      },
-      "artists": [
-        {
-          "name": "The Lore Family",
-          "url": "https://open.spotify.com/artist/4LumramOIgEFgFyNkYeb94"
-        }
-      ],
-      "duration_ms": 191056,
-      "name": "The World Needs a Song",
-      "url": "https://open.spotify.com/track/2m03vLyMsBkWaEYwJOfP5T"
     },
     {
       "added_at": "2023-04-14 06:27:38",

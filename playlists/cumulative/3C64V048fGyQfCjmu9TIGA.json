@@ -3885,6 +3885,24 @@
     },
     {
       "album": {
+        "name": "New Beginning",
+        "url": "https://open.spotify.com/album/0y9RVnTvpZa3LTlUUaD7l4"
+      },
+      "artists": [
+        {
+          "name": "SWV",
+          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94440,
+      "name": "Use Your Heart - Interlude",
+      "url": "https://open.spotify.com/track/3e2Bo9TD1mtlqysEJa7Mep"
+    },
+    {
+      "album": {
         "name": "High Times - Singles 1992-2006",
         "url": "https://open.spotify.com/album/0H0vrl0pFZ2u8CrSeuPCLO"
       },

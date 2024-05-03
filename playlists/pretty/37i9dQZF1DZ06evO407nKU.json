@@ -1,12 +1,12 @@
 {
-  "description": "This Is Perdidos De Sinaloa. Los temas esenciales, todos en una lista.",
-  "num_followers": 48371,
+  "description": "This is Perdidos De Sinaloa. The essential tracks, all in one playlist.",
+  "num_followers": 48384,
   "original_name": "This Is Perdidos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjA0gAAAAAAhHQAwLgwOunKibHqDbvsq",
+  "snapshot_id": "ZjGGAAAAAAC0Viy2jXQvmzf2Ic2Exugm",
   "tracks": [
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ayer Ped\u00ed",
-        "url": "https://open.spotify.com/album/16wXgjMSLDvU6xgfq68QMR"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 182158,
-      "name": "Ayer Ped\u00ed",
-      "url": "https://open.spotify.com/track/1gwUbm3lF2PLacBv4OoXgs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dariel Party, Vol. 1",
         "url": "https://open.spotify.com/album/7q7VCZFD7JAVKztbMysdk3"
       },
@@ -423,8 +407,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy Lo Que Soy",
-        "url": "https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK"
+        "name": "Ayer Ped\u00ed",
+        "url": "https://open.spotify.com/album/16wXgjMSLDvU6xgfq68QMR"
       },
       "artists": [
         {
@@ -432,9 +416,9 @@
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
         }
       ],
-      "duration_ms": 247200,
-      "name": "Queda Restringido",
-      "url": "https://open.spotify.com/track/3ipC7qMwC2TN4zNucgJYTB"
+      "duration_ms": 182158,
+      "name": "Ayer Ped\u00ed",
+      "url": "https://open.spotify.com/track/1gwUbm3lF2PLacBv4OoXgs"
     },
     {
       "added_at": null,
@@ -451,6 +435,22 @@
       "duration_ms": 217849,
       "name": "Lo Que Yo Sentia",
       "url": "https://open.spotify.com/track/5BIpx4Z3ubZDJU2vRJIRR4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soy Lo Que Soy",
+        "url": "https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 247200,
+      "name": "Queda Restringido",
+      "url": "https://open.spotify.com/track/3ipC7qMwC2TN4zNucgJYTB"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tres Botes",
-        "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 237182,
-      "name": "Si Tu Quieres",
-      "url": "https://open.spotify.com/track/2TbeBA72jmvoAXnBvnezKB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Estas Perdida",
         "url": "https://open.spotify.com/album/1CEut7ULUXYNOWoqC4Z2Nb"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 197007,
       "name": "Nuestro Adios",
       "url": "https://open.spotify.com/track/1zLX72SYG0YsB4IEKaBYx1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tres Botes",
+        "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 237182,
+      "name": "Si Tu Quieres",
+      "url": "https://open.spotify.com/track/2TbeBA72jmvoAXnBvnezKB"
     },
     {
       "added_at": null,
@@ -707,6 +707,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Callando Bocas",
+        "url": "https://open.spotify.com/album/0S3nvq7AR2ioU0taCOrr7z"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "Uziel Payan",
+          "url": "https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ"
+        },
+        {
+          "name": "Carlitos Vazquez",
+          "url": "https://open.spotify.com/artist/422pahsi4ueAte8FSyZ3FB"
+        }
+      ],
+      "duration_ms": 160307,
+      "name": "Callando Bocas",
+      "url": "https://open.spotify.com/track/6Vxa29uUkgRWmZEj8PyJnz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dar\u00eda Todo Por Ti",
         "url": "https://open.spotify.com/album/3mvFCw4U3GRlGEfljcgZWw"
       },
@@ -743,30 +767,6 @@
       "duration_ms": 194500,
       "name": "Me Muero",
       "url": "https://open.spotify.com/track/2mLkhK3qmTTY4rqPNSL1MM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Callando Bocas",
-        "url": "https://open.spotify.com/album/0S3nvq7AR2ioU0taCOrr7z"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        },
-        {
-          "name": "Uziel Payan",
-          "url": "https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ"
-        },
-        {
-          "name": "Carlitos Vazquez",
-          "url": "https://open.spotify.com/artist/422pahsi4ueAte8FSyZ3FB"
-        }
-      ],
-      "duration_ms": 160307,
-      "name": "Callando Bocas",
-      "url": "https://open.spotify.com/track/6Vxa29uUkgRWmZEj8PyJnz"
     },
     {
       "added_at": null,
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 148302,
-      "name": "Carta Abierta - En Vivo",
-      "url": "https://open.spotify.com/track/6fR8JchZYueUVGY5NojnMs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo Desde Los Mochis",
         "url": "https://open.spotify.com/album/5xYYZzaRo7UfM28KoIYz7W"
       },
@@ -883,6 +867,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 148302,
+      "name": "Carta Abierta - En Vivo",
+      "url": "https://open.spotify.com/track/6fR8JchZYueUVGY5NojnMs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rosas",
         "url": "https://open.spotify.com/album/3hZlM7TdcIkHMyBiUB2dbh"
       },
@@ -895,38 +895,6 @@
       "duration_ms": 287135,
       "name": "Rosas",
       "url": "https://open.spotify.com/track/6eWEXLzMHL4frTepZXwziY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 202826,
-      "name": "Juro Por Dios - En Vivo",
-      "url": "https://open.spotify.com/track/3RT87P7CZdHibJViDNbQ66"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vuelvo A Emborracharme",
-        "url": "https://open.spotify.com/album/0NclQA7R8qZWp2ARikl4iQ"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 192294,
-      "name": "Me Gusta Tal Cual",
-      "url": "https://open.spotify.com/track/6Bicjkygoy4ZQ8nAeFF9we"
     },
     {
       "added_at": null,
@@ -947,6 +915,38 @@
       "duration_ms": 200565,
       "name": "Tonieladas",
       "url": "https://open.spotify.com/track/7aIlm2O6MRpMgfHkhVVyN0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vuelvo A Emborracharme",
+        "url": "https://open.spotify.com/album/0NclQA7R8qZWp2ARikl4iQ"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 192294,
+      "name": "Me Gusta Tal Cual",
+      "url": "https://open.spotify.com/track/6Bicjkygoy4ZQ8nAeFF9we"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 202826,
+      "name": "Juro Por Dios - En Vivo",
+      "url": "https://open.spotify.com/track/3RT87P7CZdHibJViDNbQ66"
     },
     {
       "added_at": null,

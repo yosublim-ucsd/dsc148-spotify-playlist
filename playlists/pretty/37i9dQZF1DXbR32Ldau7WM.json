@@ -1,6 +1,6 @@
 {
   "description": "The biggest rock artists in Japan right now!  Cover: I Don't Like Mondays.",
-  "num_followers": 282232,
+  "num_followers": 282291,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
@@ -447,18 +447,18 @@
     {
       "added_at": "2024-04-30 15:49:41",
       "album": {
-        "name": "Sleep Walking Orchestra",
-        "url": "https://open.spotify.com/album/565KNcvUbOCDBIdCNFqiWl"
+        "name": "\u5fd8\u30ec\u30ca\u5504",
+        "url": "https://open.spotify.com/album/4kRc9bI5HWHzFOqvTRnDHW"
       },
       "artists": [
         {
-          "name": "BUMP OF CHICKEN",
-          "url": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy"
+          "name": "Macaroni Empitsu",
+          "url": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ"
         }
       ],
-      "duration_ms": 235659,
-      "name": "Sleep Walking Orchestra",
-      "url": "https://open.spotify.com/track/0vMBqdJIkmflvFk728hKH7"
+      "duration_ms": 176406,
+      "name": "\u5fd8\u30ec\u30ca\u5504",
+      "url": "https://open.spotify.com/track/4wjephTaBH2vOoRz4vlPnE"
     },
     {
       "added_at": "2024-04-30 15:49:41",
@@ -479,18 +479,18 @@
     {
       "added_at": "2024-04-30 15:49:41",
       "album": {
-        "name": "\u5fd8\u30ec\u30ca\u5504",
-        "url": "https://open.spotify.com/album/4kRc9bI5HWHzFOqvTRnDHW"
+        "name": "Sleep Walking Orchestra",
+        "url": "https://open.spotify.com/album/565KNcvUbOCDBIdCNFqiWl"
       },
       "artists": [
         {
-          "name": "Macaroni Empitsu",
-          "url": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ"
+          "name": "BUMP OF CHICKEN",
+          "url": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy"
         }
       ],
-      "duration_ms": 176406,
-      "name": "\u5fd8\u30ec\u30ca\u5504",
-      "url": "https://open.spotify.com/track/4wjephTaBH2vOoRz4vlPnE"
+      "duration_ms": 235659,
+      "name": "Sleep Walking Orchestra",
+      "url": "https://open.spotify.com/track/0vMBqdJIkmflvFk728hKH7"
     },
     {
       "added_at": "2024-04-30 15:49:41",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-04-30 15:49:41",
       "album": {
-        "name": "Relay\uff5e\u675c\u306e\u8a69",
-        "url": "https://open.spotify.com/album/3zn9dmuMkn7RKaVmWQgMR1"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
-          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
-        }
-      ],
-      "duration_ms": 239494,
-      "name": "Relay\uff5e\u675c\u306e\u8a69",
-      "url": "https://open.spotify.com/track/00L4r4akuKxe9s1Vr0v58j"
-    },
-    {
-      "added_at": "2024-04-30 15:49:41",
-      "album": {
         "name": "BRING YOUR BOARD!!",
         "url": "https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 199826,
       "name": "\u30b8\u30bf\u30fc\u30d0\u30b0",
       "url": "https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg"
+    },
+    {
+      "added_at": "2024-04-30 15:49:41",
+      "album": {
+        "name": "Relay\uff5e\u675c\u306e\u8a69",
+        "url": "https://open.spotify.com/album/3zn9dmuMkn7RKaVmWQgMR1"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "duration_ms": 239494,
+      "name": "Relay\uff5e\u675c\u306e\u8a69",
+      "url": "https://open.spotify.com/track/00L4r4akuKxe9s1Vr0v58j"
     },
     {
       "added_at": "2024-04-30 15:49:41",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-04-30 15:49:41",
       "album": {
-        "name": "\u751f\u6d3b\u306e\u30cb\u30e5\u30fc\u30b9",
-        "url": "https://open.spotify.com/album/2pccOr7xk2EmlL2FAid7Gz"
-      },
-      "artists": [
-        {
-          "name": "Cody\u30fbLee(\u674e)",
-          "url": "https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX"
-        }
-      ],
-      "duration_ms": 296119,
-      "name": "\u6211\u611b\u4f60",
-      "url": "https://open.spotify.com/track/7jXoUqjqJVQGHDBs9ZGy08"
-    },
-    {
-      "added_at": "2024-04-30 15:49:41",
-      "album": {
         "name": "andymori",
         "url": "https://open.spotify.com/album/0Yid4tl2WsTnDK0P9kRy9z"
       },
@@ -1147,6 +1131,22 @@
     {
       "added_at": "2024-04-30 15:49:41",
       "album": {
+        "name": "\u751f\u6d3b\u306e\u30cb\u30e5\u30fc\u30b9",
+        "url": "https://open.spotify.com/album/2pccOr7xk2EmlL2FAid7Gz"
+      },
+      "artists": [
+        {
+          "name": "Cody\u30fbLee(\u674e)",
+          "url": "https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX"
+        }
+      ],
+      "duration_ms": 296119,
+      "name": "\u6211\u611b\u4f60",
+      "url": "https://open.spotify.com/track/7jXoUqjqJVQGHDBs9ZGy08"
+    },
+    {
+      "added_at": "2024-04-30 15:49:41",
+      "album": {
         "name": "\u5927\u56e3\u5186",
         "url": "https://open.spotify.com/album/3E7zFmPjS6pzIqkqfbsu9f"
       },
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2024-04-30 15:49:41",
       "album": {
-        "name": "\u30c9\u30e9\u30a4\u30d6\u30fb\u30de\u30a4\u30fb\u30a4\u30c7\u30a2",
-        "url": "https://open.spotify.com/album/1hyXLEpA9pZfWenpqUUE5Q"
+        "name": "\u8d16\u7f6a",
+        "url": "https://open.spotify.com/album/7dlmEwKRp2afa4Le7CKQ2f"
       },
       "artists": [
         {
-          "name": "Tempalay",
-          "url": "https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP"
+          "name": "SID",
+          "url": "https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE"
         }
       ],
-      "duration_ms": 217820,
-      "name": "\u30c9\u30e9\u30a4\u30d6\u30fb\u30de\u30a4\u30fb\u30a4\u30c7\u30a2",
-      "url": "https://open.spotify.com/track/4kprPDP5JqxcBLqKXjhMTJ"
+      "duration_ms": 237176,
+      "name": "\u8d16\u7f6a",
+      "url": "https://open.spotify.com/track/5nCNu4qC9WoVK5RLkvNJEL"
     },
     {
       "added_at": "2024-04-30 15:49:41",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2024-04-30 15:49:41",
       "album": {
-        "name": "\u8d16\u7f6a",
-        "url": "https://open.spotify.com/album/7dlmEwKRp2afa4Le7CKQ2f"
+        "name": "\u30c9\u30e9\u30a4\u30d6\u30fb\u30de\u30a4\u30fb\u30a4\u30c7\u30a2",
+        "url": "https://open.spotify.com/album/1hyXLEpA9pZfWenpqUUE5Q"
       },
       "artists": [
         {
-          "name": "SID",
-          "url": "https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE"
+          "name": "Tempalay",
+          "url": "https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP"
         }
       ],
-      "duration_ms": 237176,
-      "name": "\u8d16\u7f6a",
-      "url": "https://open.spotify.com/track/5nCNu4qC9WoVK5RLkvNJEL"
+      "duration_ms": 217820,
+      "name": "\u30c9\u30e9\u30a4\u30d6\u30fb\u30de\u30a4\u30fb\u30a4\u30c7\u30a2",
+      "url": "https://open.spotify.com/track/4kprPDP5JqxcBLqKXjhMTJ"
     },
     {
       "added_at": "2024-04-30 15:49:41",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-04-30 15:49:41",
       "album": {
-        "name": "LOVE ROCKETS",
-        "url": "https://open.spotify.com/album/0wN4mrkQyl961vNqhchf7N"
-      },
-      "artists": [
-        {
-          "name": "The Birthday",
-          "url": "https://open.spotify.com/artist/58zME34zPsQx58YXCyFryH"
-        }
-      ],
-      "duration_ms": 261385,
-      "name": "LOVE ROCKETS",
-      "url": "https://open.spotify.com/track/6stn0schvLBMoRHsDeYiIi"
-    },
-    {
-      "added_at": "2024-04-30 15:49:41",
-      "album": {
         "name": "FOOLs",
         "url": "https://open.spotify.com/album/7sUJFlz84jJ2vbLFDePctW"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 236666,
       "name": "\u5e73\u6210\u30da\u30a4\u30f3",
       "url": "https://open.spotify.com/track/65mHu2GHtlQ8Fy3akl6hgX"
+    },
+    {
+      "added_at": "2024-04-30 15:49:41",
+      "album": {
+        "name": "LOVE ROCKETS",
+        "url": "https://open.spotify.com/album/0wN4mrkQyl961vNqhchf7N"
+      },
+      "artists": [
+        {
+          "name": "The Birthday",
+          "url": "https://open.spotify.com/artist/58zME34zPsQx58YXCyFryH"
+        }
+      ],
+      "duration_ms": 261385,
+      "name": "LOVE ROCKETS",
+      "url": "https://open.spotify.com/track/6stn0schvLBMoRHsDeYiIi"
     },
     {
       "added_at": "2024-04-30 15:49:41",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-04-30 15:49:41",
       "album": {
-        "name": "\u3044\u3051\u306a\u3044fool logic",
-        "url": "https://open.spotify.com/album/2FGXwd9HF1RNw7C3XIQLW4"
-      },
-      "artists": [
-        {
-          "name": "UNISON SQUARE GARDEN",
-          "url": "https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "\u3044\u3051\u306a\u3044fool logic",
-      "url": "https://open.spotify.com/track/7bssqLtlFKC3DZXoUCzsAo"
-    },
-    {
-      "added_at": "2024-04-30 15:49:41",
-      "album": {
         "name": "\u899a\u609f\u3092\u6c7a\u3081\u308d!",
         "url": "https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 154918,
       "name": "\u30b8\u30e3\u30fc\u30b8 - 2024 ver.",
       "url": "https://open.spotify.com/track/171bhWJsrmK35Llx2IhHgS"
+    },
+    {
+      "added_at": "2024-04-30 15:49:41",
+      "album": {
+        "name": "\u3044\u3051\u306a\u3044fool logic",
+        "url": "https://open.spotify.com/album/2FGXwd9HF1RNw7C3XIQLW4"
+      },
+      "artists": [
+        {
+          "name": "UNISON SQUARE GARDEN",
+          "url": "https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "\u3044\u3051\u306a\u3044fool logic",
+      "url": "https://open.spotify.com/track/7bssqLtlFKC3DZXoUCzsAo"
     },
     {
       "added_at": "2024-04-30 15:49:41",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-04-30 15:49:41",
       "album": {
-        "name": "ENIGMASIS",
-        "url": "https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 260079,
-      "name": "VICTOSPIN",
-      "url": "https://open.spotify.com/track/27BZgUvxWTBoiOXBoAxNn3"
-    },
-    {
-      "added_at": "2024-04-30 15:49:41",
-      "album": {
         "name": "FLOWERS",
         "url": "https://open.spotify.com/album/4CacH47pYRZPbFvTgXUibk"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 245666,
       "name": "\u9752\u3044\u306e\u3002",
       "url": "https://open.spotify.com/track/2wksGIcdJ5C0XPZLeTnSMM"
+    },
+    {
+      "added_at": "2024-04-30 15:49:41",
+      "album": {
+        "name": "ENIGMASIS",
+        "url": "https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 260079,
+      "name": "VICTOSPIN",
+      "url": "https://open.spotify.com/track/27BZgUvxWTBoiOXBoAxNn3"
     },
     {
       "added_at": "2024-04-30 15:49:41",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-04-30 15:49:41",
       "album": {
-        "name": "Songs",
-        "url": "https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU"
-      },
-      "artists": [
-        {
-          "name": "Age Factory",
-          "url": "https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "SONGS",
-      "url": "https://open.spotify.com/track/0l93cYkJLTiSgHSBGful5p"
-    },
-    {
-      "added_at": "2024-04-30 15:49:41",
-      "album": {
         "name": "10-FEET\u5165\u308a\u53e3\u306e10\u66f2 2",
         "url": "https://open.spotify.com/album/3aTZAzTcYFO4fl35mqwdLw"
       },
@@ -1507,18 +1491,18 @@
     {
       "added_at": "2024-04-30 15:49:41",
       "album": {
-        "name": "\u30cf\u30eb\u30b8\u30aa\u30f3",
-        "url": "https://open.spotify.com/album/49qXfXRHzvvCaGOnSTFCST"
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU"
       },
       "artists": [
         {
-          "name": "MY FIRST STORY",
-          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
+          "name": "Age Factory",
+          "url": "https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo"
         }
       ],
-      "duration_ms": 238586,
-      "name": "\u30cf\u30eb\u30b8\u30aa\u30f3",
-      "url": "https://open.spotify.com/track/71I3KFTKzYz1qi3SBctusp"
+      "duration_ms": 167000,
+      "name": "SONGS",
+      "url": "https://open.spotify.com/track/0l93cYkJLTiSgHSBGful5p"
     },
     {
       "added_at": "2024-04-30 15:49:41",
@@ -1551,6 +1535,22 @@
       "duration_ms": 238543,
       "name": "\u30b1\u30e2\u30ce\u30df\u30c1",
       "url": "https://open.spotify.com/track/4lpFErPc45W6HYnpoaxCdl"
+    },
+    {
+      "added_at": "2024-04-30 15:49:41",
+      "album": {
+        "name": "\u30cf\u30eb\u30b8\u30aa\u30f3",
+        "url": "https://open.spotify.com/album/49qXfXRHzvvCaGOnSTFCST"
+      },
+      "artists": [
+        {
+          "name": "MY FIRST STORY",
+          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
+        }
+      ],
+      "duration_ms": 238586,
+      "name": "\u30cf\u30eb\u30b8\u30aa\u30f3",
+      "url": "https://open.spotify.com/track/71I3KFTKzYz1qi3SBctusp"
     },
     {
       "added_at": "2024-04-30 15:49:41",
@@ -1603,26 +1603,6 @@
     {
       "added_at": "2024-04-30 15:49:41",
       "album": {
-        "name": "10-feat",
-        "url": "https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma"
-      },
-      "artists": [
-        {
-          "name": "10-FEET",
-          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
-        },
-        {
-          "name": "WANIMA",
-          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
-        }
-      ],
-      "duration_ms": 236013,
-      "name": "VIBES BY VIBES",
-      "url": "https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp"
-    },
-    {
-      "added_at": "2024-04-30 15:49:41",
-      "album": {
         "name": "Bu-ikikaesu",
         "url": "https://open.spotify.com/album/6dxTTn3tLurox31zSM0X1K"
       },
@@ -1635,6 +1615,22 @@
       "duration_ms": 327920,
       "name": "Koino Mega Lover",
       "url": "https://open.spotify.com/track/2FGJsygiQplOyghzm99BWZ"
+    },
+    {
+      "added_at": "2024-04-30 15:49:41",
+      "album": {
+        "name": "COLD DISC",
+        "url": "https://open.spotify.com/album/14tPmXY2n8LjZezKrMDhCQ"
+      },
+      "artists": [
+        {
+          "name": "Straightener",
+          "url": "https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG"
+        }
+      ],
+      "duration_ms": 182880,
+      "name": "\u30b7\u30fc\u30b0\u30e9\u30b9",
+      "url": "https://open.spotify.com/track/75ydSk3JU7hqJFhyGQyhPZ"
     }
   ],
   "unique_name": "Big in Japan",

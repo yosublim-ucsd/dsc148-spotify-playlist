@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-04",
-  "description": "A selection of new, quality electro sounds from your favorite EDM acts! Cover: The Chainsmokers x Fridayy",
+  "description": "A selection of new, quality electro sounds from your favorite EDM acts! Cover: Alan Walker x Kylie Cantrall",
   "name": "Electro Mix",
   "tracks": [
     {
@@ -178,7 +178,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 221754,
       "name": "16",
       "url": "https://open.spotify.com/track/1DaiV2h1XWvqpyxJ25Q6Cs"
@@ -1268,7 +1268,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 175620,
       "name": "Another Dimension",
       "url": "https://open.spotify.com/track/6bu9yE3D2FUamqfXpd8VPD"
@@ -1994,7 +1994,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 135483,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/4QhkYKhpFkUYRj3vqLm3pl"
@@ -4086,7 +4086,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 141235,
       "name": "Dancin' Alone",
       "url": "https://open.spotify.com/track/3XS09b4KdP200Iqjdd5cZo"
@@ -4142,6 +4142,32 @@
       "duration_ms": 177500,
       "name": "Dark Skies",
       "url": "https://open.spotify.com/track/4s8podsVXaBJZcMl7t8OhK"
+    },
+    {
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/582kKnarKgUt5Rl4mEUKGi"
+      },
+      "artists": [
+        {
+          "name": "SABAI",
+          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
+        },
+        {
+          "name": "Hoang",
+          "url": "https://open.spotify.com/artist/2KjxvxgJvbwweNVRMSuIRG"
+        },
+        {
+          "name": "Ridgely",
+          "url": "https://open.spotify.com/artist/0OE65qjIKHqSyU7YWpOQrv"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221241,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/2DBQ8aFDngZ68WCa7by4WG"
     },
     {
       "album": {
@@ -10384,7 +10410,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 139295,
       "name": "Japan",
       "url": "https://open.spotify.com/track/7qNygeEbpGjda2SQHdAwnv"
@@ -10967,6 +10993,28 @@
     },
     {
       "album": {
+        "name": "Let Me Love You (Until You Learn to Love Yourself)",
+        "url": "https://open.spotify.com/album/7DuhZ7D7lR3RaRNts46yyd"
+      },
+      "artists": [
+        {
+          "name": "Voster & Gallardo",
+          "url": "https://open.spotify.com/artist/6an7Tt4XKUfDucWZUXflvl"
+        },
+        {
+          "name": "DJ TORA",
+          "url": "https://open.spotify.com/artist/3hBt6RvhQQlRIeDiNH2HeS"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189230,
+      "name": "Let Me Love You (Until You Learn to Love Yourself)",
+      "url": "https://open.spotify.com/track/6fj8Aj1t5Yh9Vpyo5EbR30"
+    },
+    {
+      "album": {
         "name": "Let You Down (with Gabry Ponte)",
         "url": "https://open.spotify.com/album/5q9af3Svt28pk3shfKA9qX"
       },
@@ -11030,10 +11078,32 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 158145,
       "name": "Let's Go - Alok Remix",
       "url": "https://open.spotify.com/track/6FyWLxwCe1d1Fik2PZ3bGp"
+    },
+    {
+      "album": {
+        "name": "Levels",
+        "url": "https://open.spotify.com/album/4LDt2ZaLkgBX0rxaViedvc"
+      },
+      "artists": [
+        {
+          "name": "Beau James",
+          "url": "https://open.spotify.com/artist/6eiaPy1PcWNzcbJrROzWoz"
+        },
+        {
+          "name": "HEY SIRI",
+          "url": "https://open.spotify.com/artist/49TJOIND3JBgUlbE5Ljq3k"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156363,
+      "name": "Levels",
+      "url": "https://open.spotify.com/track/3GDaY82J0fhgTOF11Q3Ggp"
     },
     {
       "album": {
@@ -11640,7 +11710,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 209600,
       "name": "Lost (Meant To Be)",
       "url": "https://open.spotify.com/track/7HPMTFu90wrp31dNAQ7EgF"
@@ -12669,6 +12739,28 @@
     },
     {
       "album": {
+        "name": "Miles on It",
+        "url": "https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168355,
+      "name": "Miles on It",
+      "url": "https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"
+    },
+    {
+      "album": {
         "name": "MIND YOUR BUSINESS",
         "url": "https://open.spotify.com/album/3ecBg8wGhu2TrZxFmEFA7h"
       },
@@ -12998,6 +13090,32 @@
       "duration_ms": 177434,
       "name": "Moonflower",
       "url": "https://open.spotify.com/track/3YNBlrHJPfuSyz0EgXIv9a"
+    },
+    {
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/204uhd5Yr7mUtfydYTnBDQ"
+      },
+      "artists": [
+        {
+          "name": "Ian Asher",
+          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
+        },
+        {
+          "name": "SB19",
+          "url": "https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP"
+        },
+        {
+          "name": "Terry Zhong",
+          "url": "https://open.spotify.com/artist/6gmZPYIcqdjmkauB2krvSg"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168102,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/7cens2GI2PTemvKNnpjxs8"
     },
     {
       "album": {
@@ -13394,6 +13512,24 @@
       "duration_ms": 188091,
       "name": "My Body // Your Body (with Muni Long)",
       "url": "https://open.spotify.com/track/0d6YLzBCBfs2v23oiB0o07"
+    },
+    {
+      "album": {
+        "name": "MY LIFE",
+        "url": "https://open.spotify.com/album/2FDkRqlUOjPN8jc2AYQRya"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214772,
+      "name": "MY LIFE",
+      "url": "https://open.spotify.com/track/1Fy3dclV9os643JfeEmNkz"
     },
     {
       "album": {
@@ -14584,7 +14720,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 186971,
       "name": "Numbin' My Feelings",
       "url": "https://open.spotify.com/track/3VCYw8SMFvbE644z69raqW"
@@ -15488,7 +15624,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 175628,
       "name": "Outside Of Love",
       "url": "https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40"
@@ -16052,7 +16188,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 161666,
       "name": "Promise",
       "url": "https://open.spotify.com/track/7lmKzGSg0mGYUdsfmshKmH"
@@ -16192,6 +16328,24 @@
       "duration_ms": 248571,
       "name": "Push It",
       "url": "https://open.spotify.com/track/2HAVzWKbG539XNDlWz3FX5"
+    },
+    {
+      "album": {
+        "name": "Attitude",
+        "url": "https://open.spotify.com/album/10BUVVtnO0rZlbQBPJTrfj"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165640,
+      "name": "Q&A",
+      "url": "https://open.spotify.com/track/4AYpLGpfO28geKxxxZ3ztu"
     },
     {
       "album": {
@@ -17592,7 +17746,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 174381,
       "name": "Scars I Got",
       "url": "https://open.spotify.com/track/2Bo9OuZaA0nxJ4K5Sld56U"
@@ -20035,6 +20189,32 @@
     },
     {
       "album": {
+        "name": "The Weekend (feat. Ruth Royall)",
+        "url": "https://open.spotify.com/album/14aKD3L9dAOGCRfcHIqXtf"
+      },
+      "artists": [
+        {
+          "name": "Mollie Collins",
+          "url": "https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu"
+        },
+        {
+          "name": "Jamezy",
+          "url": "https://open.spotify.com/artist/6HlduQEYuiszCOxwfhUBem"
+        },
+        {
+          "name": "Ruth Royall",
+          "url": "https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "The Weekend (feat. Ruth Royall)",
+      "url": "https://open.spotify.com/track/2u3vWA61Vw0pFuOrR6alWc"
+    },
+    {
+      "album": {
         "name": "The World In My Head",
         "url": "https://open.spotify.com/album/4viBQpuOzuGFnAWlvz4mll"
       },
@@ -20571,6 +20751,32 @@
     },
     {
       "album": {
+        "name": "Tumbi",
+        "url": "https://open.spotify.com/album/33a1IEmCPfRDVtQJwEJsl2"
+      },
+      "artists": [
+        {
+          "name": "Arkins",
+          "url": "https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH"
+        },
+        {
+          "name": "Castle J",
+          "url": "https://open.spotify.com/artist/4q3a3Tyj21xvY85TBpkR6H"
+        },
+        {
+          "name": "SAGA",
+          "url": "https://open.spotify.com/artist/7j2DecJrsHe2QRQQSpqx70"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "Tumbi",
+      "url": "https://open.spotify.com/track/0xDMjnRqtXKUAFYufQHxdK"
+    },
+    {
+      "album": {
         "name": "Turn It All Around",
         "url": "https://open.spotify.com/album/4er7Vijfkv3xtSlKRv0OKs"
       },
@@ -20791,6 +20997,28 @@
     },
     {
       "album": {
+        "name": "Universe of Dreams",
+        "url": "https://open.spotify.com/album/6a8seTzPumlrwI50dLGyEx"
+      },
+      "artists": [
+        {
+          "name": "Fancy Floss",
+          "url": "https://open.spotify.com/artist/36Qux635tnV9mSMJNOGUGo"
+        },
+        {
+          "name": "Emy Smith",
+          "url": "https://open.spotify.com/artist/0DW8BLr0ZHcqNn3EHuFzeE"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Universe of Dreams",
+      "url": "https://open.spotify.com/track/6J1pHqUPqV3FiVVkF7rQO9"
+    },
+    {
+      "album": {
         "name": "Unstoppable",
         "url": "https://open.spotify.com/album/01onMvpJIQJ8KEznfzLC3U"
       },
@@ -20806,6 +21034,28 @@
       "duration_ms": 188724,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/1sLFzxbXKvOeTkDgnsKbXI"
+    },
+    {
+      "album": {
+        "name": "Unsure",
+        "url": "https://open.spotify.com/album/6ll7yKhF7Iq3c04eLbwC3P"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Kylie Cantrall",
+          "url": "https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168999,
+      "name": "Unsure",
+      "url": "https://open.spotify.com/track/0QUavh8qOxWeGutYZHgymz"
     },
     {
       "album": {
@@ -21023,6 +21273,36 @@
     },
     {
       "album": {
+        "name": "Villain (Take the Shot)",
+        "url": "https://open.spotify.com/album/6LJxZqBmT4zPDvUch3AnoH"
+      },
+      "artists": [
+        {
+          "name": "VALORANT",
+          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
+        },
+        {
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+        },
+        {
+          "name": "ARB4",
+          "url": "https://open.spotify.com/artist/7e2hk3B42soSKnZhzCkOD8"
+        },
+        {
+          "name": "Eytan Peled",
+          "url": "https://open.spotify.com/artist/2l5HhbsV4oSidBDY8hrmoj"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189368,
+      "name": "Villain (Take the Shot)",
+      "url": "https://open.spotify.com/track/77QKSu2wdtQE9ipgsPOOTI"
+    },
+    {
+      "album": {
         "name": "Voyage Voyage",
         "url": "https://open.spotify.com/album/5uy4i6ebA5lKrsWvQ6J2Oy"
       },
@@ -21192,6 +21472,32 @@
       "duration_ms": 133714,
       "name": "Want U (For My Own)",
       "url": "https://open.spotify.com/track/3dFtdPB9z5Pb9dGj1W5hcr"
+    },
+    {
+      "album": {
+        "name": "Warmth (feat. Jono Dorr)",
+        "url": "https://open.spotify.com/album/5x66mF9DXl6adqFN3wbZhr"
+      },
+      "artists": [
+        {
+          "name": "DVBBS",
+          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
+        },
+        {
+          "name": "Boaz van de Beatz",
+          "url": "https://open.spotify.com/artist/7Gl7G1JK7feTWHy1YJExfw"
+        },
+        {
+          "name": "Jono Dorr",
+          "url": "https://open.spotify.com/artist/1yNrXpRb1GV0K8oeZCzNVa"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219289,
+      "name": "Warmth (feat. Jono Dorr)",
+      "url": "https://open.spotify.com/track/4n0VL14tXWTWk8gFs40dZv"
     },
     {
       "album": {

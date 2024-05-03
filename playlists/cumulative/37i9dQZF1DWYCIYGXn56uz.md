@@ -2,9 +2,9 @@
 
 ### [GENERAZIONE Z](https://open.spotify.com/playlist/37i9dQZF1DWYCIYGXn56uz)
 
-> ✨giovane✨pop✨z✨ Cover: bnkr44
+> ✨giovane✨pop✨z✨ Cover: Sarah Toscano
 
-384 songs - 17 hr 45 min
+390 songs - 18 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [26 modi](https://open.spotify.com/track/3E7QmXDtooIiTwERTy9mQU) | [Federica\_](https://open.spotify.com/artist/75CdCbwT6Q6eGmtO1ya04g) | [26 modi](https://open.spotify.com/album/5cwb5WacM5mr8mASyaTe4Y) | 3:06 | 2023-03-23 | 2023-06-23 |
 | [4ever](https://open.spotify.com/track/3AFk1sRGNVSMQRlGGjKFWH) | [Blake el Diablo](https://open.spotify.com/artist/3f0oZnKV2b5N8TDBnSGEOL) | [4ever](https://open.spotify.com/album/3E2Zx1fkrNW15jOFv3xav2) | 2:43 | 2023-06-08 | 2023-07-07 |
 | [5 MINUTI](https://open.spotify.com/track/35KwZkxsrcJiDJlloj4oHZ) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [5 MINUTI](https://open.spotify.com/album/4KGPs5mBpd4p3b2hGYLH9V) | 2:47 | 2023-03-23 | 2023-05-19 |
-| [9000 KM](https://open.spotify.com/track/3K0W8Y4UWjDPTRkNbfmsbe) | [Uale](https://open.spotify.com/artist/65DfdXpvkdrTY49gfs3LAC) | [9000 KM](https://open.spotify.com/album/1aB8x8m7r9h2kETprJQJWL) | 2:27 | 2024-04-11 |  |
+| [9000 KM](https://open.spotify.com/track/3K0W8Y4UWjDPTRkNbfmsbe) | [Uale](https://open.spotify.com/artist/65DfdXpvkdrTY49gfs3LAC) | [9000 KM](https://open.spotify.com/album/1aB8x8m7r9h2kETprJQJWL) | 2:27 | 2024-04-11 | 2024-05-03 |
 | [A Modo Nostro \(feat\. Mose\)](https://open.spotify.com/track/4u8ADeOiiWXSvvI3v8OOrb) | [Matteo E Io](https://open.spotify.com/artist/4Zx1FdnVj10w170XV0GzvO), [Mose](https://open.spotify.com/artist/6MxxMir5Ey3h9QxsGDfg4L) | [A Modo Nostro \(feat\. Mose\)](https://open.spotify.com/album/3lEdKxz9XtJfmkjAgLJYRN) | 2:19 | 2023-11-16 | 2023-12-08 |
 | [a Nessuno](https://open.spotify.com/track/5fU20jhQlPyoxuFwHEjA0a) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [La mia stanza](https://open.spotify.com/album/2PyTVVc89tYsUmS5INdW4b) | 3:13 | 2023-05-04 | 2023-05-26 |
 | [A Squarciagola](https://open.spotify.com/track/1broDLBCr9ZXrMW3RjLa5J) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [A Squarciagola](https://open.spotify.com/album/2r8ADr19yoR2gsgshFH1SV) | 3:04 | 2023-11-02 | 2023-12-13 |
@@ -59,6 +59,7 @@
 | [BOULEVARD](https://open.spotify.com/track/68ptyloCwRwBybEte88mxp) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [BOULEVARD](https://open.spotify.com/album/216MCmKzpLIcu8rMpCHWUZ) | 2:55 | 2023-11-30 | 2024-02-02 |
 | [Bruciasse Il Cielo](https://open.spotify.com/track/6abfPlw55MvGAUEpG56R2y) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Bruciasse Il Cielo](https://open.spotify.com/album/287CrEdqq6UiWAMeteSZsk) | 3:57 | 2023-11-09 | 2024-04-19 |
 | [Buchi ai lobi](https://open.spotify.com/track/1EK9LRcQxtUiZUxXevX1nP) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp), [Gorbaciof](https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF) | [Buchi ai lobi](https://open.spotify.com/album/0yBYqUOcJsCNiYRvTv1E5p) | 2:26 | 2023-11-23 | 2024-01-12 |
+| [Bugiarda Vera](https://open.spotify.com/track/6pEqnTgOlfY8D1etxnii0Y) | [Wemme Flow](https://open.spotify.com/artist/7H5agcXkVZfGrisEOqZ8ny), [Zenit](https://open.spotify.com/artist/5f6ADyb6sglbANxDJdnAqN) | [Bugiarda Vera](https://open.spotify.com/album/4d7cd9KHMS6OiaBTJKck3l) | 2:00 | 2024-05-02 |  |
 | [Cado](https://open.spotify.com/track/1zPBSgyezsh0BBTv8CPa1L) | [LDA](https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf), [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [Cado](https://open.spotify.com/album/2HgX6tuQ1Qjl8gZAZkKdW4) | 3:03 | 2023-03-23 | 2023-05-26 |
 | [Caffè sulla Via Lattea](https://open.spotify.com/track/75rJXt1sAMNfK5zOtgZVtk) | [LUNAR](https://open.spotify.com/artist/5yE4UZ5hln5jeJs40vlvEK) | [Caffè sulla Via Lattea](https://open.spotify.com/album/4NA8oWAIBxQrWHMdR3kfWu) | 2:45 | 2023-11-30 | 2023-12-22 |
 | [Cambiami La Vita](https://open.spotify.com/track/0PnPBuAw3Vm1TsZiHqkKb0) | [Diego Lazzari](https://open.spotify.com/artist/64ni8l4f1uyxljOKU0EugH) | [Cambiami La Vita](https://open.spotify.com/album/1xeUPCllh2Zy5zRSx568mi) | 2:55 | 2023-03-23 | 2023-07-07 |
@@ -173,6 +174,7 @@
 | [Io ti conosco](https://open.spotify.com/track/7A9fo9j49DRPLPOGnfE2Ud) | [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [Io ti conosco](https://open.spotify.com/album/0bdyF5AN6DdgwCAEvBrmqW) | 3:06 | 2023-11-23 | 2023-12-16 |
 | [JAKARTA](https://open.spotify.com/track/6i1GnFUtvsb2yRX8PtrDqs) | [OCCHI](https://open.spotify.com/artist/1gxSzslBaKRwyT69Q8PJKU), [Pepe](https://open.spotify.com/artist/4KVkkOO0DSrpPzla5vEnsE) | [JAKARTA](https://open.spotify.com/album/6o66691lBA17fu0kiLhK8F) | 3:18 | 2024-04-18 |  |
 | [KARMA \(Prod\. JARO\)](https://open.spotify.com/track/03Wz7SdrLcfP0f2waHHWtx) | [Ascanio](https://open.spotify.com/artist/4OrY83Csdp97sYybqjZTzI), [JARO](https://open.spotify.com/artist/0LotWLxGlnhsrHsnzzFRw3) | [KARMA \(Prod\. JARO\)](https://open.spotify.com/album/3V2h9lYkkoihli6Ff6GAb6) | 2:20 | 2023-03-23 | 2023-07-07 |
+| [KISS ME](https://open.spotify.com/track/5ZQYi3ZE7rjb5QNUPka4qJ) | [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9) | [KISS ME](https://open.spotify.com/album/6mDpv5NPTlDcipRqLLgNnw) | 2:59 | 2024-05-02 |  |
 | [L'alba nei tuoi occhi](https://open.spotify.com/track/5VkcrS1JpxjT5Oj7oxnLbc) | [Anto Paga](https://open.spotify.com/artist/2EdLV4ftq7Ks8dR7roTHrq) | [L'alba nei tuoi occhi](https://open.spotify.com/album/5a1huDt2DR5i8B8uZtHwR5) | 2:13 | 2023-03-23 | 2023-05-05 |
 | [L'amore](https://open.spotify.com/track/190VoJtCTqxLE6QlHY83fW) | [Sina](https://open.spotify.com/artist/2BYuUplSlEUC7pg9W05d3F) | [L'amore](https://open.spotify.com/album/3O3bGsrKhF06wffdqtWPop) | 3:08 | 2023-05-25 | 2023-06-09 |
 | [L'Isola Delle Rose](https://open.spotify.com/track/5pFKuNJdKLyMceZuopqVFF) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [L'Isola Delle Rose](https://open.spotify.com/album/0dedUKXYTEmxuhkF5yZPj3) | 3:07 | 2023-03-23 | 2023-04-14 |
@@ -254,6 +256,7 @@
 | [ODIAMI](https://open.spotify.com/track/2e8mCMd3Dihg0EkFzeRS61) | [NDG](https://open.spotify.com/artist/6VSx5Yd2AO0fhm0h6xxeGi) | [ODIAMI](https://open.spotify.com/album/02kvSxum7hIbUSSmmc3qxh) | 2:48 | 2024-01-18 | 2024-02-23 |
 | [Odio = Amore = Odio](https://open.spotify.com/track/3MfvnEIuliMldEn77dey1e) | [Werdn](https://open.spotify.com/artist/3nHhNTw0xLkmgPbbTJ3HqC), [Sbale](https://open.spotify.com/artist/4aAiKU8UocJHjZfxjQuaCU) | [Odio = Amore = Odio](https://open.spotify.com/album/7pgcQo9sr2qGvw8oR0THxu) | 2:50 | 2023-10-05 | 2023-11-10 |
 | [Ogni Volta Che Ti Penso](https://open.spotify.com/track/7rOLgYuO5vBxVCWITRTJyP) | [Ludwig](https://open.spotify.com/artist/5RXnKYBIxi8zcFNCz03T71) | [Ogni Volta Che Ti Penso](https://open.spotify.com/album/2GSCcTIlSByimd2Q3GVtJ6) | 3:15 | 2023-03-23 | 2023-09-22 |
+| [orbite](https://open.spotify.com/track/3eboBUzt4ERBUuU89ZKZqH) | [Neverbh](https://open.spotify.com/artist/7DsVmuKz4Cgg42Sfp5S7oN) | [orbite](https://open.spotify.com/album/265FfsrwMJXFcwgsVbvPuU) | 2:19 | 2024-05-02 |  |
 | [ORIGAMI ALL'ALBA \- CLARA](https://open.spotify.com/track/3X6QTmtaKukOu5lISJYi4g) | [Matteo Paolillo](https://open.spotify.com/artist/1bzx15Bv1ioIaewP85ad5J), [Lolloflow](https://open.spotify.com/artist/6od7hFnrVLa1zCuSyQimic), [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [ORIGAMI ALL'ALBA](https://open.spotify.com/album/282p191UnQOp3i5NREMfYL) | 2:33 | 2023-03-23 | 2023-11-24 |
 | [ORIGAMI ALL'ALBA \- MATTEO & LOLLOFLOW](https://open.spotify.com/track/3LQvmsjDPQH5jpqRRx5fAe) | [Matteo Paolillo \- Icaro](https://open.spotify.com/artist/1bzx15Bv1ioIaewP85ad5J), [Lolloflow](https://open.spotify.com/artist/6od7hFnrVLa1zCuSyQimic) | [ORIGAMI ALL'ALBA](https://open.spotify.com/album/282p191UnQOp3i5NREMfYL) | 2:36 | 2023-03-23 | 2023-05-19 |
 | [ORO](https://open.spotify.com/track/3f6m6RH8jUn5vKUtiXAoMc) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [ORO](https://open.spotify.com/album/6XV7d3iJxLHdHUGDYy5GlG) | 2:19 | 2023-07-13 | 2023-09-15 |
@@ -304,6 +307,7 @@
 | [ROMA](https://open.spotify.com/track/1RTrSZow3zzUQ1Q2B95d3z) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [ROMA](https://open.spotify.com/album/4dW1fBOZW6iy5ndUTX5hOI) | 2:30 | 2023-03-23 | 2024-04-19 |
 | [ROMANTICA E BUGIARDA](https://open.spotify.com/track/3jZojGbxzsJTihyb1VVrFE) | [Astol](https://open.spotify.com/artist/13LaDWlkqsIjVkIA9Hdciy), [Biondo](https://open.spotify.com/artist/7vlwS8BMw7yyothJwoY74p) | [ROMANTICA E BUGIARDA](https://open.spotify.com/album/0WE9QOW9r88g2gcPQRADbm) | 2:53 | 2023-06-15 | 2023-09-22 |
 | [RONDINI](https://open.spotify.com/track/5qt5YZOEUCejoPMrXFXRQq) | [Berna](https://open.spotify.com/artist/62uNuiJTDTVObzXP4gQLXT) | [RONDINI](https://open.spotify.com/album/5MLv3tlurdcQwChX4olC7K) | 2:27 | 2023-04-06 | 2023-04-14 |
+| [Rosso Lampone](https://open.spotify.com/track/4h51AEffPE9igl8J52OoTd) | [LDA](https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf) | [Rosso Lampone](https://open.spotify.com/album/7pp6PeV2wB12Xi0tgGB5uf) | 2:48 | 2024-05-02 |  |
 | [ROSSOFUOCO](https://open.spotify.com/track/5B5p5w9QV0QFBsnASmtL24) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [ROSSOFUOCO](https://open.spotify.com/album/4r6P74TpYpXFgHam09a8KA) | 2:42 | 2023-11-08 |  |
 | [RUMORE](https://open.spotify.com/track/21ue7kSKtFBqGQNV23uGW8) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [LA NOTTE](https://open.spotify.com/album/0ffV9Lc7faWdmmvEKHHpiA) | 2:39 | 2023-09-28 | 2023-10-06 |
 | [RUMORE](https://open.spotify.com/track/7fxAFWmMsl86C60gW5yooG) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [RUMORE](https://open.spotify.com/album/6Lo4MzfKF6e0mwnEGtdGgd) | 2:39 | 2023-09-12 | 2023-10-04 |
@@ -349,6 +353,7 @@
 | [TI AMO E NON LO SAI](https://open.spotify.com/track/5qJxdzS42qg8quay4i4kZE) | [Berna](https://open.spotify.com/artist/62uNuiJTDTVObzXP4gQLXT) | [TI AMO E NON LO SAI](https://open.spotify.com/album/2o6QoLo9MSGFa6vRYwFYLU) | 2:28 | 2023-06-08 | 2023-06-16 |
 | [ti sei scordata del mio compleanno](https://open.spotify.com/track/2qlC6uXZjQOkfkEdOHRxVN) | [Biondo](https://open.spotify.com/artist/7vlwS8BMw7yyothJwoY74p) | [cattive abitudini](https://open.spotify.com/album/7CVTvlGG8yvKuMu8kU1LTr) | 2:05 | 2023-09-07 | 2023-11-10 |
 | [Toccare la luna](https://open.spotify.com/track/0P0OENNOGNpzra0Ma1Ur9t) | [LUNAR](https://open.spotify.com/artist/5yE4UZ5hln5jeJs40vlvEK) | [Notturno](https://open.spotify.com/album/2NVlFPygfMDfSxlcFXUAKu) | 2:24 | 2023-04-13 | 2023-05-16 |
+| [TORNA DA ME](https://open.spotify.com/track/5UtkpmA9E1DzIGfGC0lWH1) | [Astol](https://open.spotify.com/artist/13LaDWlkqsIjVkIA9Hdciy), [Daniel Cosmic](https://open.spotify.com/artist/5p2rzrGXWBA6AK1ybT2rCh) | [TORNA DA ME](https://open.spotify.com/album/18ciwYY6FlDYQVCX2Jqli4) | 2:46 | 2024-05-02 |  |
 | [TORNERAI](https://open.spotify.com/track/2LfKtUw3HazdlUl1k5tDcw) | [Petit](https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde) | [TORNERAI](https://open.spotify.com/album/7geUvKup79dU463axKiEzG) | 3:04 | 2024-03-06 |  |
 | [TOUCHÉ](https://open.spotify.com/track/2x5H6jg0wEXYR9a5Gxxbjq) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [TOUCHÉ](https://open.spotify.com/album/54PgfzlzOhf2WwN8AUeS4y) | 2:12 | 2023-11-09 | 2024-01-05 |
 | [TRA LA GENTE](https://open.spotify.com/track/0VmdKZCuVJ8LVQBwKrgfuQ) | [Luca Re](https://open.spotify.com/artist/2TvgTSCaWT7JFeVYggKeu8) | [UMORE 02](https://open.spotify.com/album/3qHLK79NjRXMyU8gwZThYK) | 3:21 | 2023-06-08 | 2023-06-16 |
@@ -380,6 +385,7 @@
 | [vedo un mostro o vedo me](https://open.spotify.com/track/4uoK4Y6afYn7ryZ4N6eZgV) | [Biondo](https://open.spotify.com/artist/7vlwS8BMw7yyothJwoY74p) | [vedo un mostro o vedo me](https://open.spotify.com/album/4sZrwlUpqe5dgCo92FAn6e) | 2:06 | 2023-06-29 | 2023-07-28 |
 | [VELENO](https://open.spotify.com/track/2K7bv4Q0FNNKPt4PPPCjOi) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [VELENO](https://open.spotify.com/album/5yyaogWQcARbLR0FGz1wel) | 3:18 | 2024-03-14 |  |
 | [VENERE](https://open.spotify.com/track/0fvbaAcjKIjHtdZbtOEL9e) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [VENERE](https://open.spotify.com/album/1xBryxKD1ss7DvPDrjD5ql) | 2:48 | 2023-11-23 | 2024-01-12 |
+| [Vent'anni](https://open.spotify.com/track/3b9qwv1l4WW2Yipz8aLWgR) | [Angie](https://open.spotify.com/artist/7vFaBCvPdgAsrWJiv5NI3Z) | [Vent'anni](https://open.spotify.com/album/3EYZS9x81k6jtpAWhHmnm0) | 2:33 | 2024-05-02 |  |
 | [Via da me](https://open.spotify.com/track/2SFFxjmuvx91Yt4gCnLTO2) | [Aiden](https://open.spotify.com/artist/1nP7zdpk1ok53IBGhMwhb3), [Pi Greco](https://open.spotify.com/artist/1gIiepAFE8pnPuyWnlVQ6b) | [Via da me](https://open.spotify.com/album/7KWbI2xW8wVSwWQUyKcXFQ) | 3:03 | 2023-10-05 | 2023-11-10 |
 | [Viole e Violini](https://open.spotify.com/track/60ir328nxqnjOLXxvsqmHm) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [Viole e Violini](https://open.spotify.com/album/6FPMkD4uAvcGVYxLQ0bm7Y) | 2:50 | 2023-12-12 | 2024-03-15 |
 | [Vita morte e miracoli](https://open.spotify.com/track/6lg1cQeODHXiQv5xAiLVT2) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Voglia di vivere](https://open.spotify.com/album/6Tr2x4RP8M4ikPNrXQeFOS) | 2:40 | 2023-05-18 | 2023-06-09 |

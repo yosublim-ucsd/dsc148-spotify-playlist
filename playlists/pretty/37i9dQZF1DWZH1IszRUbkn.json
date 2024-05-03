@@ -1,6 +1,6 @@
 {
   "description": "Canta juntos con tus artistas favoritos.",
-  "num_followers": 408,
+  "num_followers": 414,
   "original_name": "Cantando con tus Favoritos",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
+        "name": "Viva Kids, Vol. 1",
+        "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 175333,
+      "name": "Vamos a Jugar",
+      "url": "https://open.spotify.com/track/4qRrtwjr7wKWniPuFr2Cu9"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
         "name": "Junior Express - Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 193109,
       "name": "Ritmo Rob\u00f3tico",
       "url": "https://open.spotify.com/track/4zywwK3a4ATbKfHQX1dMdV"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
-        "name": "Viva Kids, Vol. 1",
-        "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        }
-      ],
-      "duration_ms": 175333,
-      "name": "Vamos a Jugar",
-      "url": "https://open.spotify.com/track/4qRrtwjr7wKWniPuFr2Cu9"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -655,38 +655,6 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Un Mundo De Canciones",
-        "url": "https://open.spotify.com/album/36XYzswEBwXqGIjawO5juU"
-      },
-      "artists": [
-        {
-          "name": "CantaJuego",
-          "url": "https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe"
-        }
-      ],
-      "duration_ms": 103613,
-      "name": "El Zapatero",
-      "url": "https://open.spotify.com/track/77rZyXXSmwMw5GVpQHw4vd"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
-        "name": "La Casita de Patylu",
-        "url": "https://open.spotify.com/album/3xfTZePmvXmlPTlaUeDHuT"
-      },
-      "artists": [
-        {
-          "name": "Patylu",
-          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
-        }
-      ],
-      "duration_ms": 234880,
-      "name": "La Bruja de Nueva York",
-      "url": "https://open.spotify.com/track/7atPDraoeT4FjHRDM82VOr"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
         "name": "Porque yo te quiero",
         "url": "https://open.spotify.com/album/3jCec881nyRs6s5w0uHr9R"
       },
@@ -703,6 +671,22 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
+        "name": "Un Mundo De Canciones",
+        "url": "https://open.spotify.com/album/36XYzswEBwXqGIjawO5juU"
+      },
+      "artists": [
+        {
+          "name": "CantaJuego",
+          "url": "https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe"
+        }
+      ],
+      "duration_ms": 103613,
+      "name": "El Zapatero",
+      "url": "https://open.spotify.com/track/77rZyXXSmwMw5GVpQHw4vd"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
         "name": "Viva Kids, Vol. 1",
         "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 156453,
       "name": "Osito Carpintero",
       "url": "https://open.spotify.com/track/4x9TXDIjvz3RElsuPiEVqE"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "La Casita de Patylu",
+        "url": "https://open.spotify.com/album/3xfTZePmvXmlPTlaUeDHuT"
+      },
+      "artists": [
+        {
+          "name": "Patylu",
+          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
+        }
+      ],
+      "duration_ms": 234880,
+      "name": "La Bruja de Nueva York",
+      "url": "https://open.spotify.com/track/7atPDraoeT4FjHRDM82VOr"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -783,22 +783,6 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Miss Patylu Vol. 2",
-        "url": "https://open.spotify.com/album/7EEXPQpy2rAwofhzj8FZ4U"
-      },
-      "artists": [
-        {
-          "name": "Patylu",
-          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
-        }
-      ],
-      "duration_ms": 152198,
-      "name": "Sana Sana",
-      "url": "https://open.spotify.com/track/3Lp1uOs9bgSDV4UtxSnqBF"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
         "name": "Violetta",
         "url": "https://open.spotify.com/album/00tqLzALXmAgUDMN7kycOS"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 177346,
       "name": "Juntos Somos Mas",
       "url": "https://open.spotify.com/track/1pJia6Nw9TNRs71V2R7fKT"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "Miss Patylu Vol. 2",
+        "url": "https://open.spotify.com/album/7EEXPQpy2rAwofhzj8FZ4U"
+      },
+      "artists": [
+        {
+          "name": "Patylu",
+          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
+        }
+      ],
+      "duration_ms": 152198,
+      "name": "Sana Sana",
+      "url": "https://open.spotify.com/track/3Lp1uOs9bgSDV4UtxSnqBF"
     },
     {
       "added_at": "2020-04-27 15:43:16",

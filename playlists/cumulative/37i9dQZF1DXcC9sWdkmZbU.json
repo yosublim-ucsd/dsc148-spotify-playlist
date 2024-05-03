@@ -475,6 +475,28 @@
     },
     {
       "album": {
+        "name": "God Of The Impossible",
+        "url": "https://open.spotify.com/album/6bhOniVs3hIEyo5fuTAty0"
+      },
+      "artists": [
+        {
+          "name": "Gateway Kids Worship",
+          "url": "https://open.spotify.com/artist/5spb8btR2z1lSREzcyg56E"
+        },
+        {
+          "name": "William Kelly",
+          "url": "https://open.spotify.com/artist/4OQbdlMOq7jqEhJJXAZi11"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277917,
+      "name": "God Of The Impossible",
+      "url": "https://open.spotify.com/track/7ikT2DFrI6wZOsSIfYF9wX"
+    },
+    {
+      "album": {
         "name": "Capitol Kids! Hits",
         "url": "https://open.spotify.com/album/0NYwFMOCc1aQjeXtZ2L3T3"
       },

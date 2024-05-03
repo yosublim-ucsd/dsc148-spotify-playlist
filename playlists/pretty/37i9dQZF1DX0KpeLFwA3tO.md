@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Lambrini Girls
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,792 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,822 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 11 | [World Got Great](https://open.spotify.com/track/642o7DG0AXhpFA1MIyYTYQ) | [Les Savy Fav](https://open.spotify.com/artist/5DZBnxCYzs32O2bbqK8KNg) | [World Got Great](https://open.spotify.com/album/0ai3YPYrikkktmeqwZJLJ4) | 3:26 |
 | 12 | [Real Juicer Hours](https://open.spotify.com/track/4kYRF4sBAMZ0sakzzHUrXm) | [Action/Adventure](https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF) | [Real Juicer Hours](https://open.spotify.com/album/2VbFJpOnrtadCG8PFEiWme) | 3:13 |
 | 13 | [Bran's Motto](https://open.spotify.com/track/3DUJLy8ezFXRF1wyf2NgoT) | [Grumpster](https://open.spotify.com/artist/6aUzts6HmxY9CVr6U5hILq) | [Grumpster](https://open.spotify.com/album/467duXwDKrYXjtjWAMJL5X) | 2:46 |
-| 14 | [Crusade](https://open.spotify.com/track/6Y3KOBfO1yEx4KJjtJ2DaX) | [The Anti\-Queens](https://open.spotify.com/artist/1CX0fdiDs9n9HSJs1PRSy3) | [Crusade](https://open.spotify.com/album/4BpK6Z7097WrmZ9VGcBASC) | 2:37 |
+| 14 | [Crusade \(feat\. Tracy A from Cross Dog\)](https://open.spotify.com/track/6Y3KOBfO1yEx4KJjtJ2DaX) | [The Anti\-Queens](https://open.spotify.com/artist/1CX0fdiDs9n9HSJs1PRSy3), [Tracy A from Cross Dog](https://open.spotify.com/artist/5ghXYMJz9yLdHRnSkncEuv) | [Crusade](https://open.spotify.com/album/4BpK6Z7097WrmZ9VGcBASC) | 2:37 |
 | 15 | [Tell Me](https://open.spotify.com/track/5XrqgIJlDmBO91NBOYVobR) | [MakeWar](https://open.spotify.com/artist/0dZUiHIO2BUomz0xwglFiW) | [Tell Me](https://open.spotify.com/album/3mq5ioFujOe6Hef9OqORmm) | 3:17 |
 | 16 | [Who You Were](https://open.spotify.com/track/0KIeTb1BJat07H7yWhUjeB) | [AWOL](https://open.spotify.com/artist/7GmixEjYEfCEw0Kxr1TM6U) | [Tear 'Em To Bits](https://open.spotify.com/album/4zK4HlpZEhlk876TKidah0) | 3:01 |
 | 17 | [kool\-aid](https://open.spotify.com/track/0ga279jRPt6sSXX3K9bf4e) | [Sessions](https://open.spotify.com/artist/4EYXC856iZB8nZSNWkcD9J) | [kool\-aid](https://open.spotify.com/album/62aTO7RzPq8ComYCEioldz) | 4:02 |

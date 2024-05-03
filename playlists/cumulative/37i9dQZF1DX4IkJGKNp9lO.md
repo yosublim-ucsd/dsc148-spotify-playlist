@@ -4,7 +4,7 @@
 
 > 
 
-312 songs - 14 hr 41 min
+314 songs - 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Bomb utan krut](https://open.spotify.com/track/180ouOZ0Ak5WYx94BVZHVH) | [Kardinal Synd](https://open.spotify.com/artist/32KVyD0F48q3QNpSET788O), [Ammy Olofsson](https://open.spotify.com/artist/6fzvWpP8Rjfu7O76BHLwJy) | [Kardinalens femte](https://open.spotify.com/album/6yaIFYUFz7UsNBM1kXqeMD) | 2:44 | 2024-03-28 | 2024-04-19 |
 | [Bomb utan krut](https://open.spotify.com/track/7ofwvKzo8GTswhhxWFyNE4) | [Kardinal Synd](https://open.spotify.com/artist/32KVyD0F48q3QNpSET788O), [Ammy Olofsson](https://open.spotify.com/artist/6fzvWpP8Rjfu7O76BHLwJy) | [Bomb utan krut](https://open.spotify.com/album/01iMoiFsQIDJV67bOe82dD) | 2:44 | 2024-04-18 |  |
 | [Boostade Egon](https://open.spotify.com/track/2RRW47cZhJO0GS7QMtMB6x) | [De Lyckliga Kompisarna](https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd) | [Pengar Har Inga Ögon](https://open.spotify.com/album/1ueBZ7RDpKS1kv4VYTaZRY) | 1:08 | 2021-12-14 |  |
+| [Boulder Dash](https://open.spotify.com/track/6Pg9ifIvNc6yOyXuGJI7LA) | [Korslagda Kukar](https://open.spotify.com/artist/7uW0TRg4ie6mixKsuLEuAv) | [Boulder Dash](https://open.spotify.com/album/1rZebCDKD6CnEwQih6iAHl) | 3:34 | 2024-05-02 |  |
 | [Brinner](https://open.spotify.com/track/1cE7wFI32Z7Uq4ttGJ2rcv) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Alla sover](https://open.spotify.com/album/5idoXT28PizdHPL2inrMnF) | 2:47 | 2021-12-14 | 2022-07-29 |
 | [Brinner](https://open.spotify.com/track/30UvZ7ZoerQChs2wLgTuqR) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Alla sover](https://open.spotify.com/album/6Ey1sBXBiOW7Y3QCyenE0v) | 2:47 | 2021-12-14 | 2024-04-19 |
 | [Börja om](https://open.spotify.com/track/3U3G16vBDC8C21ZthEWizZ) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI) | [Becksvart](https://open.spotify.com/album/10j4eMKww3Vibu641umgr5) | 2:42 | 2021-12-14 | 2024-03-29 |
@@ -159,7 +160,7 @@
 | [Leviatan](https://open.spotify.com/track/0ycZqaqz68u8u7nYLUdQaE) | [Ett Dödens Maskineri](https://open.spotify.com/artist/5OnVR7BCOmGxkkbjZcOQQ7) | [Sveriges Humanitära Ruiner](https://open.spotify.com/album/2l8g1TjEZFsSdPh96Jb6Uo) | 2:15 | 2021-12-14 |  |
 | [Lilla Björn Och Lilla Tiger](https://open.spotify.com/track/4UTTtBZGgpaNCkYH1E3lIO) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Tecken I Tiden](https://open.spotify.com/album/3KYVzrsazBDbsbkbDQBXAd) | 3:09 | 2021-12-14 | 2024-04-19 |
 | [Lilla Björn Och Lilla Tiger](https://open.spotify.com/track/5sgmvV6EOKw66cVmrBVlGy) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Tecken i tiden](https://open.spotify.com/album/41KuCx8jBaZ4jzsFZRonvO) | 3:09 | 2021-12-14 | 2022-07-28 |
-| [Lisa](https://open.spotify.com/track/34LbkBmXcOH2NaBJWm4I8L) | [Skumdum](https://open.spotify.com/artist/5s6MpxYo0TqzCuNIqVIRFS) | [Demons From The Past](https://open.spotify.com/album/6L76NkyJbhwhLLzFTQ36JU) | 2:28 | 2021-12-14 |  |
+| [Lisa](https://open.spotify.com/track/34LbkBmXcOH2NaBJWm4I8L) | [Skumdum](https://open.spotify.com/artist/5s6MpxYo0TqzCuNIqVIRFS) | [Demons From The Past](https://open.spotify.com/album/6L76NkyJbhwhLLzFTQ36JU) | 2:28 | 2021-12-14 | 2024-05-03 |
 | [Lisa](https://open.spotify.com/track/3eh8uUhn2VGZA2WCpewFj8) | [Skumdum](https://open.spotify.com/artist/5s6MpxYo0TqzCuNIqVIRFS) | [Demons From the Past](https://open.spotify.com/album/7MPicF3ZYteZYXCSveQ0Eb) | 2:28 | 2021-12-14 | 2024-04-19 |
 | [Lite sne](https://open.spotify.com/track/78OGaloEbDptQzd8vl8vDE) | [Krigsstigen](https://open.spotify.com/artist/5ZF0a9S7KDBjgr5BUZDVHC) | [Lite sne](https://open.spotify.com/album/0ALw6RtBaizdypw99L98K3) | 2:52 | 2023-11-09 |  |
 | [Livet Är För Kort För Sorgliga Sånger](https://open.spotify.com/track/4czzFVzjMmXz1KoLytN7so) | [Gatans Lag](https://open.spotify.com/artist/1DbBWYISy3xIJBHlenLGj2) | [Från Fest Till Arrest](https://open.spotify.com/album/0hGGrj5SISsG2angc6a80I) | 3:15 | 2021-12-14 | 2022-07-29 |
@@ -174,6 +175,7 @@
 | [Lyckliga land](https://open.spotify.com/track/2vQw6ZkLNtnN6oh78ZS0CU) | [Iguana party](https://open.spotify.com/artist/0KnMJRO7zyMJ0Ny8K0P84Q) | [Lyckliga land](https://open.spotify.com/album/4tyfsQMJDa2ubymtwdmjBK) | 3:21 | 2021-12-14 | 2022-07-29 |
 | [Lägga Puzzel Med En Hammare](https://open.spotify.com/track/3hmlOXOplj48M0hTyZj6j7) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Lägga Puzzel Med En Hammare](https://open.spotify.com/album/2Urh64pMy3gF3ahcVKidJP) | 2:53 | 2021-12-14 | 2024-04-24 |
 | [Låt dom brinna](https://open.spotify.com/track/4FzIbuIVlRWjcb27PUtjqm) | [Slaveriet](https://open.spotify.com/artist/3yCXFddAsqxzxRlSbkm43L) | [Ett småskaligt krig](https://open.spotify.com/album/730Lj8aZVdswCX0sLaqNNb) | 2:18 | 2024-03-28 |  |
+| [LÅT MIG DÖ](https://open.spotify.com/track/3xsfRcllce9q5KSo5KYHKc) | [Knifven](https://open.spotify.com/artist/3XjDzkzNYvDrUU23wbQwYi) | [Linköping!](https://open.spotify.com/album/3jkDhyKS24VVhvUU93Ul11) | 1:14 | 2024-05-02 |  |
 | [Mamma pappa barn](https://open.spotify.com/track/3SDQawERiP8UyxFE88A9hj) | [Ebba Grön](https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9) | [Ebba Grön 1978 \- 1982](https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R) | 2:57 | 2021-12-14 |  |
 | [Martin I Skitlandet](https://open.spotify.com/track/21BF181yxyzkT8QbHvc16W) | [De Lyckliga Kompisarna](https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd) | [Pengar Har Inga Ögon](https://open.spotify.com/album/1ueBZ7RDpKS1kv4VYTaZRY) | 2:16 | 2021-12-14 |  |
 | [Masspsykos](https://open.spotify.com/track/5ae5eUFZPTUhtIhXAnXtSu) | [Psykbryt](https://open.spotify.com/artist/2eL5agdfgaWDNetbgiuE8e) | [Ursäkta röran \- vi river allt](https://open.spotify.com/album/5tKwHsShJjIiGBvnipyFeW) | 2:36 | 2021-12-14 | 2024-04-19 |
@@ -313,7 +315,7 @@
 | [Äganderätt?](https://open.spotify.com/track/0xiDWdGTuCKSuPwgZ9B22F) | [Gymnastiken](https://open.spotify.com/artist/2Y0hhrOobEr0wh8JbCBiI2) | [Ännu En Gång](https://open.spotify.com/album/6E7agzpUqkobH8BXLbct0F) | 2:35 | 2021-12-14 |  |
 | [Älska Mig](https://open.spotify.com/track/3iSt8hTzeb5SKdHLVwTFcc) | [Köttgrottorna](https://open.spotify.com/artist/0EiobxY3kj3acd0HaoS9xY) | [Sanningens Morgon](https://open.spotify.com/album/4L8BOlcLg6VbsLeT9bbdXm) | 3:05 | 2021-12-14 | 2023-04-30 |
 | [Älska Mig](https://open.spotify.com/track/6t7INXbHQUZiubnZ232MoE) | [Köttgrottorna](https://open.spotify.com/artist/0EiobxY3kj3acd0HaoS9xY) | [Sanningens Morgon](https://open.spotify.com/album/1B6iEAikOQLI4PmePPzL9A) | 3:05 | 2023-04-13 | 2024-04-19 |
-| [Älska Mig](https://open.spotify.com/track/3UQTJo6Hck0rknKPIX0tDa) | [Köttgrottorna](https://open.spotify.com/artist/0EiobxY3kj3acd0HaoS9xY) | [Far Åt Helvete](https://open.spotify.com/album/6LT6QbifZJaNnYbNYwHxJU) | 3:07 | 2021-12-14 |  |
+| [Älska Mig](https://open.spotify.com/track/3UQTJo6Hck0rknKPIX0tDa) | [Köttgrottorna](https://open.spotify.com/artist/0EiobxY3kj3acd0HaoS9xY) | [Far Åt Helvete](https://open.spotify.com/album/6LT6QbifZJaNnYbNYwHxJU) | 3:07 | 2021-12-14 | 2024-05-03 |
 | [Ändras och förändra](https://open.spotify.com/track/3ThgiJYysAuWrabao04nAj) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI) | [Ändras och förändra](https://open.spotify.com/album/1CBwaG5G67eyftT3LhOAOA) | 2:05 | 2023-04-13 | 2023-11-22 |
 | [Är Det Bra?](https://open.spotify.com/track/1GiQ8Fo9WxhCZQTtA9GoM4) | [Sten & Stalin](https://open.spotify.com/artist/7xS4Uw7T0pNePx7S238bM9) | [Värdelös](https://open.spotify.com/album/4j1KS0IccBP03iFKJpj0qp) | 2:53 | 2024-03-28 | 2024-04-19 |
 | [Är det bra?](https://open.spotify.com/track/5MUKNZ1vPkuLvxPT7Q3QtQ) | [Sten & Stalin](https://open.spotify.com/artist/7xS4Uw7T0pNePx7S238bM9) | [Värdelös](https://open.spotify.com/album/3hyMLQZD8Obgjo5KTalhyb) | 2:53 | 2021-12-14 | 2022-07-29 |

@@ -8763,6 +8763,24 @@
     },
     {
       "album": {
+        "name": "Freaky Boy",
+        "url": "https://open.spotify.com/album/3VX183SSIxltAqqIZv34IA"
+      },
+      "artists": [
+        {
+          "name": "Ender",
+          "url": "https://open.spotify.com/artist/4dm7VRRO7tspAt2XuwEMNw"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157156,
+      "name": "Freaky Boy",
+      "url": "https://open.spotify.com/track/0tole2T6k9IZQOrHYXUJjX"
+    },
+    {
+      "album": {
         "name": "Free To Fly",
         "url": "https://open.spotify.com/album/5ZKF5IHJdvfZnucWmk906y"
       },
@@ -10141,7 +10159,7 @@
     },
     {
       "album": {
-        "name": "Hallunicate",
+        "name": "Hallucinate",
         "url": "https://open.spotify.com/album/1AP57nFJb3dlPJSWWb17wN"
       },
       "artists": [
@@ -23994,6 +24012,24 @@
       "duration_ms": 182400,
       "name": "To The Ones We Hate The Most",
       "url": "https://open.spotify.com/track/674xk8ZDWT9a5qqYizvOjE"
+    },
+    {
+      "album": {
+        "name": "To the Top",
+        "url": "https://open.spotify.com/album/086aM68IMih2Kx6l54jMLP"
+      },
+      "artists": [
+        {
+          "name": "Sghenny",
+          "url": "https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149853,
+      "name": "To the Top",
+      "url": "https://open.spotify.com/track/1s5OCXuJ5D7g9qJ1YCJjX6"
     },
     {
       "album": {

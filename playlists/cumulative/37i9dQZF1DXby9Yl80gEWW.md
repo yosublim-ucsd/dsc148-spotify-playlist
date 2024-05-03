@@ -4,7 +4,7 @@
 
 > A taste of the very best bluegrass instrumentals, classic and new.
 
-258 songs - 15 hr 53 min
+259 songs - 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Finch In The Pantry](https://open.spotify.com/track/5R6gLpBqAD6P7PzKMdIvLc) | [The Arcadian Wild](https://open.spotify.com/artist/4tHZV2ZowPkzOvX4eG1inY) | [Finch In The Pantry](https://open.spotify.com/album/5GXqDQAqbb4sJ63OGZAaSh) | 3:51 | 2022-07-29 | 2024-04-19 |
 | [Fine Times at Our House](https://open.spotify.com/track/1v0N9HBqKKCJfhCLV9GuIb) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Nine Pin](https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs) | 2:17 | 2022-07-29 | 2022-09-12 |
 | [Fine Times at Our House](https://open.spotify.com/track/3J7cN5yWjtDVLO45gtdJOf) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Nine Pin](https://open.spotify.com/album/5L8YBDqmTSCUoXrRcEwaMG) | 2:17 | 2021-12-03 | 2022-07-27 |
+| [Finnland](https://open.spotify.com/track/7kHx77L2UCm27Q25nSzPxH) | [Daniel Grindstaff](https://open.spotify.com/artist/7vaq3DIBu61yGPpwHbl5Ln) | [Finnland](https://open.spotify.com/album/7jDOLHnqIVhW2rvEO9tLB8) | 2:45 | 2024-04-12 |  |
 | [Firewood](https://open.spotify.com/track/19e3bfpKwSnvw4JEFQTihp) | [April Verch](https://open.spotify.com/artist/2sWyhLJwYCBTziE9dhsew8), [Cody Walters](https://open.spotify.com/artist/5dh7cV8PwHgi7aw1VN5KZj) | [Firewood](https://open.spotify.com/album/01p20IYbDXu5GZuKZQ5s6H) | 3:30 | 2023-07-14 | 2023-09-14 |
 | [Firewood](https://open.spotify.com/track/5wWACwkc0PchNpyBOzE0xx) | [April Verch](https://open.spotify.com/artist/2sWyhLJwYCBTziE9dhsew8), [Cody Walters](https://open.spotify.com/artist/5dh7cV8PwHgi7aw1VN5KZj) | [Passages and Partings](https://open.spotify.com/album/6GdhqVOKnuALlouLCqtZlx) | 3:30 | 2024-02-02 | 2024-04-19 |
 | [First And Last Waltz](https://open.spotify.com/track/0jA97ZNgPqfcg9QesgEzXC) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [Why Should The Fire Die?](https://open.spotify.com/album/6l61p7zbizBUjQWY10LWmb) | 1:53 | 2021-12-03 |  |
@@ -111,7 +112,7 @@
 | [Future Man](https://open.spotify.com/track/0wCxFPw156RcqRyZeo96NB) | [Strength In Numbers](https://open.spotify.com/artist/7JrYMXoj7ke3GqLEivVgYJ) | [Telluride Sessions](https://open.spotify.com/album/280qrGpx4WYkwsL7lMKarM) | 5:09 | 2021-12-03 | 2022-07-23 |
 | [Get Lost](https://open.spotify.com/track/2xoQ9YNPQLEB4U0CluiqMF) | [Wyatt Ellis](https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB), [Jake Workman](https://open.spotify.com/artist/2pTYJ8ZHeRNixhBRxXZUvx) | [Get Lost](https://open.spotify.com/album/0fKAf9b8w95vvx189vGbPM) | 4:27 | 2024-01-26 |  |
 | [Going Out…](https://open.spotify.com/track/0Ak9D9HV7XLSrljdrOPtUj) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [Celebrants](https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq) | 3:04 | 2023-03-24 |  |
-| [Golden](https://open.spotify.com/track/4UvzGgR2uGRwqq6QDGQzl8) | [Ethan Setiawan](https://open.spotify.com/artist/4PiLSMo2ZPdBLhSNv1Rggn) | [Golden](https://open.spotify.com/album/4BSggug7Bz1IigGofkmIAv) | 6:12 | 2023-04-07 |  |
+| [Golden](https://open.spotify.com/track/4UvzGgR2uGRwqq6QDGQzl8) | [Ethan Setiawan](https://open.spotify.com/artist/4PiLSMo2ZPdBLhSNv1Rggn) | [Golden](https://open.spotify.com/album/4BSggug7Bz1IigGofkmIAv) | 6:12 | 2023-04-07 | 2024-05-03 |
 | [Golden Pond](https://open.spotify.com/track/2T0FSlZIf2IYtbH1y2DEvJ) | [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF) | [Stealing Second](https://open.spotify.com/album/63sHuqQ8uMSC6BTuOIp39I) | 3:12 | 2021-12-03 |  |
 | [Good to Go](https://open.spotify.com/track/0UMa1yjIaKjDUqGpNWER9Q) | [Bill Emerson](https://open.spotify.com/artist/5Y1fDUKYkFE1M4ALzFGdfF) | [Banjo Man](https://open.spotify.com/album/7B2u2hjEQowl7eBkCNwgHz) | 3:37 | 2022-07-22 | 2023-01-17 |
 | [Good to Go](https://open.spotify.com/track/5K7AhhV2f94CfqUFZtlAMu) | [Bill Emerson](https://open.spotify.com/artist/5Y1fDUKYkFE1M4ALzFGdfF) | [Banjo Man](https://open.spotify.com/album/3NAwKnXQXJ9Zpb7NS2DPdL) | 3:37 | 2021-12-03 | 2022-07-27 |

@@ -1,13 +1,45 @@
 {
-  "description": "Where R&B lives. Cover: PARTYNEXTDOOR",
-  "num_followers": 6141493,
+  "description": "Where R&B lives. Cover: 4batz",
+  "num_followers": 6141805,
   "original_name": "RNB X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zism/AAAAABTt5ddrl61zsC86cIYo7m6",
+  "snapshot_id": "ZjRhQAAAAAB3l9Fbqq7KkPXKs4nHeX/f",
   "tracks": [
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "u made me a st4r",
+        "url": "https://open.spotify.com/album/49JXgb1wGpDCdhnHglwpqr"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        }
+      ],
+      "duration_ms": 129849,
+      "name": "act iv: fckin u (18+)",
+      "url": "https://open.spotify.com/track/1DUsjpq8Vp4NqfqQfJchYG"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "MILLION DOLLAR BABY",
+        "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 155151,
+      "name": "MILLION DOLLAR BABY",
+      "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
+    },
     {
       "added_at": "2024-04-26 04:01:00",
       "album": {
@@ -201,6 +233,22 @@
       "url": "https://open.spotify.com/track/7jEpRsSusmGqKFISucMnV7"
     },
     {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Here We Go (Uh Oh)",
+        "url": "https://open.spotify.com/album/6GzjzeW0x2sSVA6jMCK03p"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 216507,
+      "name": "Here We Go (Uh Oh)",
+      "url": "https://open.spotify.com/track/6SSSGEgfuqTP75xaNOwsTo"
+    },
+    {
       "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "SOS",
@@ -215,6 +263,22 @@
       "duration_ms": 201800,
       "name": "Snooze",
       "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "u made me a st4r",
+        "url": "https://open.spotify.com/album/49JXgb1wGpDCdhnHglwpqr"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        }
+      ],
+      "duration_ms": 141106,
+      "name": "act vii: all we do is argue, argue",
+      "url": "https://open.spotify.com/track/2RhJkFgd31XIT3wHPcrUJM"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -537,22 +601,6 @@
       "url": "https://open.spotify.com/track/1zgHn1EqUyA0HqNYMdJ5ia"
     },
     {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "put yo gun 2 use ontheradar freestyle",
-        "url": "https://open.spotify.com/album/3Q24WaPqlNQVBI0aM7g0n3"
-      },
-      "artists": [
-        {
-          "name": "4batz",
-          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
-        }
-      ],
-      "duration_ms": 121602,
-      "name": "put yo gun 2 use ontheradar freestyle",
-      "url": "https://open.spotify.com/track/2zDIscsZmt8z44nf3UFMxh"
-    },
-    {
       "added_at": "2024-01-26 21:56:05",
       "album": {
         "name": "DISC TWO (SCRATCHED UP)",
@@ -711,22 +759,6 @@
     {
       "added_at": "2024-01-26 21:56:05",
       "album": {
-        "name": "What I Didn\u2019t Tell You (Deluxe)",
-        "url": "https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ"
-      },
-      "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "duration_ms": 159244,
-      "name": "Double Back",
-      "url": "https://open.spotify.com/track/7Fz8TyKSzhetD7zLYbrPgf"
-    },
-    {
-      "added_at": "2024-01-26 21:56:05",
-      "album": {
         "name": "That's You",
         "url": "https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV"
       },
@@ -807,38 +839,6 @@
       "duration_ms": 199615,
       "name": "Self",
       "url": "https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Thee Sacred Souls",
-        "url": "https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 190546,
-      "name": "Can I Call You Rose?",
-      "url": "https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS"
-    },
-    {
-      "added_at": "2024-01-26 21:56:05",
-      "album": {
-        "name": "Electric Dusk",
-        "url": "https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 189202,
-      "name": "Treasure In The Hills",
-      "url": "https://open.spotify.com/track/64TJKMfx0QxpuR7rTXL05c"
     },
     {
       "added_at": "2024-01-26 21:56:05",

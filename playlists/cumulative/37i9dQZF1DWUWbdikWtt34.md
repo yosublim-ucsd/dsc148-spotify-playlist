@@ -2,9 +2,9 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Hari Putra
+> Dendang Dangdut teratas\. Cover: Riri Chantika
 
-168 songs - 13 hr 1 min
+169 songs - 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Bojo Setyo](https://open.spotify.com/track/63TwHyUBMkvBbeeHr07sOG) | [Rita Tila](https://open.spotify.com/artist/1PqPEonRY2xQMSYXSzxWeh) | [Bojo Setyo](https://open.spotify.com/album/2lD4cA2RppQkk2JR9dO0W2) | 4:48 | 2023-09-07 |  |
 | [Buih Jadi Permadani \(Versi Keroncong\)](https://open.spotify.com/track/37SfZOslPgeHutnlEA3NYG) | [Hetty Koes Endang](https://open.spotify.com/artist/5EITOMadvjqpslJ4Y5j5z6) | [Buih Jadi Permadani \(Versi Keroncong\)](https://open.spotify.com/album/0EUqNrL3d60KeopNKysRIz) | 4:41 | 2023-10-05 |  |
 | [Bukan Cinta Biasa](https://open.spotify.com/track/0SGLXPkGAHAzmNMUZICurK) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Bukan Cinta Biasa](https://open.spotify.com/album/0Zhnf3VQis3LBvnyeP2OxH) | 5:17 | 2023-09-28 |  |
+| [Bukan Ku Tak Sudi \- \(Live Ska Reggae\)](https://open.spotify.com/track/2RZJ97Bl5WfrbnBYNG9e9r) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Bukan Ku Tak Sudi \(Live Ska Reggae\)](https://open.spotify.com/album/6pnHrH876sQ5cAQsHSm4I3) | 4:17 | 2024-05-02 |  |
 | [Cincin Kepalsuan](https://open.spotify.com/track/7h16Oq3zKrQmY0NurK5DlT) | [Riri Chantika](https://open.spotify.com/artist/45QLgbqjuDQzHSagWxx7VX) | [Cincin Kepalsuan](https://open.spotify.com/album/15FkTQrMpQpIsNtWsOlZH7) | 6:56 | 2023-07-21 |  |
 | [Cinta Dalam Khayalan](https://open.spotify.com/track/7A42dJ9KKGtRGE4s3xTzjv) | [Rhoma Irama](https://open.spotify.com/artist/4rlC2lgVD1tfilqgJxEPIW), [Elvy Sukaesih](https://open.spotify.com/artist/0yXW1N9QI9cp5Lw2Wdle8Q) | [Cinta Dalam Khayalan](https://open.spotify.com/album/75MaREwGLzVsd5kqHhdVnO) | 4:58 | 2022-10-13 | 2023-07-14 |
 | [Cinta Sejati](https://open.spotify.com/track/5Hr4r6S8DND2ef1BsUqsEU) | [Selfi Yamma](https://open.spotify.com/artist/6EnWjs5UyF9P3HMs9vhL2p) | [Cinta Sejati](https://open.spotify.com/album/0oc1EyhEHfUj79vJgxVDZu) | 3:43 | 2023-06-29 |  |
@@ -44,7 +45,7 @@
 | [Dawai](https://open.spotify.com/track/4lhPpYQw7bFdDtbIc1vAe7) | [Ficky Felari](https://open.spotify.com/artist/1D7Op74O2J91xxiPs90nsr) | [Dawai](https://open.spotify.com/album/3tic5vMOsBs33sStkVUvta) | 4:39 | 2024-03-22 |  |
 | [Demi Kowe](https://open.spotify.com/track/4g3vLzLkRxMEecxiIl12so) | [Jihan Audy](https://open.spotify.com/artist/7KlMqMCZbUE9rYpa95R2CV) | [Demi Kowe](https://open.spotify.com/album/2DF8m8378NlyK2vRmwpBfj) | 4:39 | 2021-08-23 | 2023-07-14 |
 | [Di Arsy\-Mu](https://open.spotify.com/track/4GvHn9ArvWi0eB6lvq1Rzk) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Di Arsy\-Mu](https://open.spotify.com/album/4vLuDMMcmt8JeSIYMyTCM7) | 5:46 | 2023-07-27 | 2023-12-15 |
-| [Dia Di Surgamu \- Acoustic Version](https://open.spotify.com/track/7nqvYltUiiX5IdYDUNEaEw) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Dia Di Surgamu \(Acoustic Version\)](https://open.spotify.com/album/2clUQg1AMiGoQL42AHTwMY) | 4:23 | 2024-03-14 |  |
+| [Dia Di Surgamu \- Acoustic Version](https://open.spotify.com/track/7nqvYltUiiX5IdYDUNEaEw) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Dia Di Surgamu \(Acoustic Version\)](https://open.spotify.com/album/2clUQg1AMiGoQL42AHTwMY) | 4:23 | 2024-03-14 | 2024-05-03 |
 | [Disana Menanti Disini Menunggu](https://open.spotify.com/track/2duwSgIaCDp6hKV106uhPf) | [Via Vallen](https://open.spotify.com/artist/74YCcIyS1oSkCUJFh5ksRl) | [Disana Menanti Disini Menunggu](https://open.spotify.com/album/2wAZfFwKQClDtenYYVPQ66) | 4:53 | 2021-08-23 |  |
 | [Disitu Aku Merasa Sedih](https://open.spotify.com/track/2n5utIK3llw4Y10fQ6laKC) | [Shinta Arsinta](https://open.spotify.com/artist/2K1Wy4PPyo0ni0EZxPwNCa) | [Disitu Aku Merasa Sedih](https://open.spotify.com/album/11UlNWNVYs4Aso5PhO00Xd) | 4:46 | 2023-09-14 |  |
 | [Ditikam Cinta](https://open.spotify.com/track/02k03yFtDFPU4dOXYwoteY) | [Kresya Della](https://open.spotify.com/artist/0FkYDky9lfX1KkylPcqEu1) | [Ditikam Cinta](https://open.spotify.com/album/06yiibXjrtnrbWCCNjvcVB) | 3:32 | 2024-02-15 |  |
@@ -53,7 +54,7 @@
 | [Ditinggal Rabi](https://open.spotify.com/track/4sYOxiEbp2oz4WCTIxin5O) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Ditinggal Rabi](https://open.spotify.com/album/3ktlwW2CVWwqhq17PK4Cl6) | 4:36 | 2021-08-23 | 2022-07-29 |
 | [Edan Turun](https://open.spotify.com/track/1BWvBsPoBT8rciQPQBBjgw) | [Trio Macan](https://open.spotify.com/artist/2AGgCwZcIbShC78asA0loE) | [Edan Turun](https://open.spotify.com/album/5Dpm6QGDrTVpKDRlj1SEqm) | 3:36 | 2021-08-23 | 2023-11-04 |
 | [Egois](https://open.spotify.com/track/4avHigwVYoL7TD48EhcNFK) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Egois](https://open.spotify.com/album/4wnJOz5Oeg9tVK7MonAwnt) | 4:17 | 2021-08-23 |  |
-| [Engkaulah Satu Satunya](https://open.spotify.com/track/3X97NvosSuHgjrAfEfSsuh) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Engkaulah Satu Satunya](https://open.spotify.com/album/0giR3EIZHM5fkbLHLKTcXg) | 5:49 | 2023-03-30 |  |
+| [Engkaulah Satu Satunya](https://open.spotify.com/track/3X97NvosSuHgjrAfEfSsuh) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Engkaulah Satu Satunya](https://open.spotify.com/album/0giR3EIZHM5fkbLHLKTcXg) | 5:49 | 2023-03-30 | 2024-05-03 |
 | [Fitria](https://open.spotify.com/track/5nAet8ZdFgzvwPqlxBssUd) | [Yus Yunus](https://open.spotify.com/artist/5m0zFgjEwcPZhaWWcqgzzi) | [Fitria](https://open.spotify.com/album/7dfP256Xm5TJCGaYn9ykKQ) | 5:44 | 2023-03-30 | 2023-08-25 |
 | [Garam Rasanya Gula](https://open.spotify.com/track/14XsJn6NhFfRhjt3DLCov2) | [Nabilla Gomes](https://open.spotify.com/artist/6ivuhvyIqTHWSUXinAOcyQ) | [Garam Rasanya Gula](https://open.spotify.com/album/1ZfC7jspXMGt9eWOKW8G37) | 4:18 | 2021-08-23 | 2023-07-14 |
 | [Gerhana Dalam Cinta \- Live Ska Reggae](https://open.spotify.com/track/3MYekiBFtjZ7SwXskTznfP) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Ochi Alvira](https://open.spotify.com/artist/0IDoFKt8JOLluarIdWJ5aZ) | [Gerhana Dalam Cinta \(Live Ska Reggae\)](https://open.spotify.com/album/4RjS7Q0ABbNKdPiHeTRIjB) | 5:38 | 2023-07-13 | 2023-11-04 |
@@ -73,7 +74,7 @@
 | [Jakarta Kalimantan](https://open.spotify.com/track/2xN7UiLrcbu5w5Gn52Kqiy) | [Sinka Sisuka](https://open.spotify.com/artist/4kFQEmcuWSQUX91Q1KQflA) | [Jakarta Kalimantan](https://open.spotify.com/album/2x8MraY8UBPMfTxVDUQ8fq) | 3:50 | 2021-08-23 | 2023-02-17 |
 | [Karena Cinta](https://open.spotify.com/track/7AaUPhQLNiEnWQyewSQKXy) | [Iis Dahlia](https://open.spotify.com/artist/5O7fzBpuk6ECxw6qY36Hky) | [Karena Cinta](https://open.spotify.com/album/7jcUXWfAU8Epw4051E8PZC) | 5:19 | 2023-06-22 | 2023-12-01 |
 | [Kartonyono Medot Janji](https://open.spotify.com/track/6bnCgtR9tDcADREMONA91t) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Kartonyono Medot Janji](https://open.spotify.com/album/0WlqBbLuZrAOgh6asdiign) | 4:30 | 2021-08-23 | 2024-02-16 |
-| [Kau Tawarkan Setia](https://open.spotify.com/track/1OvqS8BSe9fd89WLb6B2vR) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Kau Tawarkan Setia](https://open.spotify.com/album/1N2X1b2rkqK6XGUjjdyDfv) | 4:24 | 2023-04-13 |  |
+| [Kau Tawarkan Setia](https://open.spotify.com/track/1OvqS8BSe9fd89WLb6B2vR) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Kau Tawarkan Setia](https://open.spotify.com/album/1N2X1b2rkqK6XGUjjdyDfv) | 4:24 | 2023-04-13 | 2024-05-03 |
 | [Kau Tercipta Bukan Untukku](https://open.spotify.com/track/2q9f86CdlaXOr6vD3HJK6R) | [Nella Kharisma](https://open.spotify.com/artist/2GwILMQr37VYZiTgC5fXUq) | [Sebelas Duabelas](https://open.spotify.com/album/6deRNyvv7AgrJWaA9xx5u8) | 4:21 | 2021-08-23 |  |
 | [Kau Tercipta Untukku](https://open.spotify.com/track/0NfWMu3zA2v4ymR2pWiXV9) | [Nella Kharisma](https://open.spotify.com/artist/2GwILMQr37VYZiTgC5fXUq) | [Kau Tercipta Untukku](https://open.spotify.com/album/1zpXdr3kkwZF8RKMz4vi72) | 4:07 | 2021-08-23 | 2023-06-30 |
 | [Keabadian Cinta](https://open.spotify.com/track/24VgSe9g5MPcGbKCaaGXuU) | [Sridevi DA5](https://open.spotify.com/artist/7KM65RnfkPrC4zzLoKuQ0s), [Kier King](https://open.spotify.com/artist/532wLz7g4D1MycSKoesiq9) | [Keabadian Cinta](https://open.spotify.com/album/7HBmefgCHAcjAJcqNZhrD4) | 4:23 | 2024-01-25 |  |
@@ -155,7 +156,7 @@
 | [Tak Lalekne Kowe](https://open.spotify.com/track/5Qj0PtT0uCwEX3IuWiHLt9) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tak Lalekne Kowe](https://open.spotify.com/album/7Mrs9ngZquGRsZSkR1HIE7) | 5:41 | 2021-08-23 | 2023-09-15 |
 | [Tak Mungkin Kembali](https://open.spotify.com/track/3NCPT1Ll3BC2OiaCbYkwgz) | [Ikke Nurjanah](https://open.spotify.com/artist/14eVM8s1mDJhnC4etvhFNn) | [Tak Mungkin Kembali](https://open.spotify.com/album/0jO3LcdJTkucjLxGF3M0yx) | 5:20 | 2021-08-23 | 2024-02-16 |
 | [Tak Punya Hati](https://open.spotify.com/track/5GDPHPrTe5NwtQKKZASCT5) | [Cut Rani Auliza](https://open.spotify.com/artist/56MsGGbdOtGbcSoOKc5N7V) | [Tak Punya Hati](https://open.spotify.com/album/1s4YQT0dv9lhPJWjd3hA3s) | 5:46 | 2023-11-03 |  |
-| [Tanya Hatimu](https://open.spotify.com/track/22mwaQkDEwU2W1y99VazbD) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Tanya Hatimu](https://open.spotify.com/album/1gAg60OyhZl1W7VjmfjrXL) | 4:30 | 2023-10-12 |  |
+| [Tanya Hatimu](https://open.spotify.com/track/22mwaQkDEwU2W1y99VazbD) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Tanya Hatimu](https://open.spotify.com/album/1gAg60OyhZl1W7VjmfjrXL) | 4:30 | 2023-10-12 | 2024-05-03 |
 | [Tatu](https://open.spotify.com/track/6Mp5wge6ri9XgqcQqMJVyb) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tatu](https://open.spotify.com/album/2u8kGA8Duva5Dxruf7NyxH) | 4:46 | 2021-08-23 | 2023-02-05 |
 | [Tatu](https://open.spotify.com/track/55XnOFlzoXBcx1Ov0UvzeL) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tatu](https://open.spotify.com/album/45mzuK7vN3XolfmyyEoOh3) | 4:54 | 2023-02-02 | 2024-04-05 |
 | [Teman Rasa Pacar](https://open.spotify.com/track/5YKKjMpfYK8cJTjgZGR7uo) | [Lyia](https://open.spotify.com/artist/2w8C6RExCnRBZJfxHZFKhV) | [Teman Rasa Pacar](https://open.spotify.com/album/3UTEm6Sl8r3dDiNFmZmDNq) | 3:50 | 2023-11-30 |  |

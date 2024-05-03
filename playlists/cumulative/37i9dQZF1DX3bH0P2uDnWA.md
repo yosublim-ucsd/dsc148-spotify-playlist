@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-368 songs - 20 hr 57 min
+369 songs - 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Friend Like Me \- Electro Swing Mix](https://open.spotify.com/track/1O3RcayIzF1Ng6H9XMGwNq) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Ashley Slater](https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62) | [Friend Like Me \(Electro Swing Mix\)](https://open.spotify.com/album/3JAdcQ8GFH43mvbfkISLpK) | 2:58 | 2023-02-24 | 2024-03-02 |
 | [Future Looks Like You](https://open.spotify.com/track/4LrJYsHcIC1l2U4Lenn4Rp) | [Balduin](https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Chris Weeks](https://open.spotify.com/artist/1L1rPFMZ3V9GktNny7JkVO) | [Future Looks Like You](https://open.spotify.com/album/19fVKHO3Bk6F17KBOLqJ3v) | 2:34 | 2024-04-05 |  |
 | [Get A Move On!](https://open.spotify.com/track/3AgEOAo3dvkjtsBmeTGRjg) | [Mr\. Scruff](https://open.spotify.com/artist/2B0PgHZi2zaDqjKe86Gaip), [Sneaky](https://open.spotify.com/artist/7Diblz3UML0a0ArC3OgLxG) | [Keep It Unreal \(10th Anniversary Analogue Remaster Edition\)](https://open.spotify.com/album/39lUJE0esEoBZpcYiEvede) | 7:34 | 2020-10-30 |  |
-| [Get Buckwild](https://open.spotify.com/track/4dAqc7s8G4uoMaKxiXPifD) | [C@ in the H@](https://open.spotify.com/artist/3i8iBVmVqwEg6l1oIv8Bjo) | [Get Buckwild](https://open.spotify.com/album/1xtWfOtLhsn8mg6chiQWAv) | 3:11 | 2024-01-19 |  |
+| [Get Buckwild](https://open.spotify.com/track/4dAqc7s8G4uoMaKxiXPifD) | [C@ in the H@](https://open.spotify.com/artist/3i8iBVmVqwEg6l1oIv8Bjo) | [Get Buckwild](https://open.spotify.com/album/1xtWfOtLhsn8mg6chiQWAv) | 3:11 | 2024-01-19 | 2024-05-03 |
 | [Get Down Tonight \- Electro Swing Mix](https://open.spotify.com/track/6vAMo6PBPXkDOmTjGBj83J) | [Elle & The Pocket Belles](https://open.spotify.com/artist/0MbDNDhsDB35CyvApzybJt) | [Get Down Tonight](https://open.spotify.com/album/6ePhttNF2MzZMbs79OLkax) | 3:00 | 2024-01-19 |  |
 | [Get This \(Bang Bang\)](https://open.spotify.com/track/2onY73tr2izCSmNhXNcTAe) | [Klischée](https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB) | [Get This \(Bang Bang\)](https://open.spotify.com/album/4W2pWGsNTTLkbMtSEOi4CW) | 3:45 | 2021-04-02 | 2023-05-27 |
 | [Ghost \(Radio Edit\)](https://open.spotify.com/track/0AT362ge2dIyCYm7soFow4) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Alanna Lyes](https://open.spotify.com/artist/7BljoID3up8yhSHHNKhSBy) | [Ghost \(Electro Swing\)](https://open.spotify.com/album/3HGg38lIZgz0v4v8LKeIzN) | 2:47 | 2022-10-12 | 2023-11-07 |
@@ -141,6 +141,7 @@
 | [Horny \- Electro Swing Version](https://open.spotify.com/track/5KdJVf0tqurkIDdBEbIJVG) | [Pisk](https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc), [Nastazya](https://open.spotify.com/artist/1Nzd9pxwORjLCFWOfYxBsy) | [Horny](https://open.spotify.com/album/0LW05xK1vo6bD99JLZV52P) | 3:30 | 2020-10-30 | 2023-03-11 |
 | [Hybrid](https://open.spotify.com/track/5AGlnxhdjDxAWlb3xs1Abn) | [Swingrowers](https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B) | [Hybrid](https://open.spotify.com/album/0ujiG266DU9S5hLjYtXY0q) | 3:02 | 2020-10-30 | 2022-05-14 |
 | [I Don't Wanna Sleep](https://open.spotify.com/track/40BzIhFZ1IY4RdjqAtjnGI) | [Atom Smith](https://open.spotify.com/artist/6ExlnA1FV2yvFCVlurHsc2), [Emma Lea](https://open.spotify.com/artist/6DmqHeHxcu5cQicAfz7aDJ) | [I Don't Wanna Sleep](https://open.spotify.com/album/5ZMXexnnnNTS7AiTUI54FP) | 3:28 | 2023-06-23 |  |
+| [I Got You](https://open.spotify.com/track/3ooGeElnvxdmtJ01sF9dAm) | [C@ in the H@](https://open.spotify.com/artist/3i8iBVmVqwEg6l1oIv8Bjo), [Emma Lea](https://open.spotify.com/artist/6DmqHeHxcu5cQicAfz7aDJ) | [I Got You](https://open.spotify.com/album/498Hxp0NqZ9dpVb3X67LgU) | 3:25 | 2024-05-03 |  |
 | [I Wanna Be Evil](https://open.spotify.com/track/1RI9qORG9QtCSgsMFpGNPE) | [Kid Kasino](https://open.spotify.com/artist/0JC4o7RAl3GNs1MbThyuoD), [Shea](https://open.spotify.com/artist/04dvqs3z04paTr2YeAmpe0) | [Trick Or Treat](https://open.spotify.com/album/7yzrXpa29EJsD8PV9uIMCg) | 3:33 | 2022-10-12 | 2023-11-07 |
 | [In the Mood](https://open.spotify.com/track/6NBwYT8zIO8MP1n82BKkij) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [In the Mood](https://open.spotify.com/album/2ptZi2qJDNiJS8oalULVdT) | 2:31 | 2023-03-24 |  |
 | [In the Pub](https://open.spotify.com/track/4b4z3GQPXfoeL2Yj0TVngR) | [MVTRIIIX](https://open.spotify.com/artist/6GLNZ4AhvB6M0JkT9Zjw16) | [Yearning](https://open.spotify.com/album/0el4P0rtIJ46J1Vfceel3r) | 2:16 | 2023-12-15 |  |

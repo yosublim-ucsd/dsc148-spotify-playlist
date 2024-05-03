@@ -2358,7 +2358,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 138293,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/4cYZRebfwTsVNERxTm29Rb"
@@ -3340,6 +3340,24 @@
       "duration_ms": 232946,
       "name": "Open Your Eyes",
       "url": "https://open.spotify.com/track/2Vn92UPSmDMynFENzpe2zP"
+    },
+    {
+      "album": {
+        "name": "Being No One, Going Nowhere",
+        "url": "https://open.spotify.com/album/2Atz9f2tBNGwjQEuOsYayk"
+      },
+      "artists": [
+        {
+          "name": "STRFKR",
+          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232946,
+      "name": "Open Your Eyes",
+      "url": "https://open.spotify.com/track/6Xsb9aRVcplkXY4MPDOaS5"
     },
     {
       "album": {

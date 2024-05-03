@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 
 > The world series of Ska\. Cover: Mad Caddies
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,261 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,296 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 71 | [Guapa](https://open.spotify.com/track/6ZnlFcQA6Ghn8NYEgTu4Dl) | [Los Tres Puntos](https://open.spotify.com/artist/1dgExV84g1pE4Z2ALzB36P) | [Si Oh !](https://open.spotify.com/album/2H6VK5tsOqYwURh7BsLsiB) | 2:31 |
 | 72 | [Baby](https://open.spotify.com/track/2I28vXWi5vdx0OsPKbE0G5) | [Mad Caddies](https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6) | [Baby](https://open.spotify.com/album/0vgWeDW5tiwfTii8qhrZYc) | 2:53 |
 | 73 | [Don't Worry, Be Happy](https://open.spotify.com/track/1fCwJr4ICgKcJOVqnY1Dtb) | [The Busters](https://open.spotify.com/artist/2wCh75gIAQ5Ed9UGiqLBMB) | [Ruder Than Rude](https://open.spotify.com/album/5fYmxYffEECoKcstBe37qU) | 2:57 |
-| 74 | [Ocean Avenue](https://open.spotify.com/track/6OeFGjI6HJK5OC3k8KFoWz) | [Millington](https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp) | [Brass Emo, Vol\. 2](https://open.spotify.com/album/79iZ4ozQkY3FyBj5fWDg0a) | 3:13 |
-| 75 | [Clandestino](https://open.spotify.com/track/05tdpvaKfMHgHUL7d8JOBw) | [Los Fastidios](https://open.spotify.com/artist/7mj1qBxQNKorkNUCHXjOw9) | [The Sound Of Revolution](https://open.spotify.com/album/7zlwVsTrNivVfNBTPBzQw9) | 3:25 |
+| 74 | [Clandestino](https://open.spotify.com/track/05tdpvaKfMHgHUL7d8JOBw) | [Los Fastidios](https://open.spotify.com/artist/7mj1qBxQNKorkNUCHXjOw9) | [The Sound Of Revolution](https://open.spotify.com/album/7zlwVsTrNivVfNBTPBzQw9) | 3:25 |
+| 75 | [Ocean Avenue](https://open.spotify.com/track/6OeFGjI6HJK5OC3k8KFoWz) | [Millington](https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp) | [Brass Emo, Vol\. 2](https://open.spotify.com/album/79iZ4ozQkY3FyBj5fWDg0a) | 3:13 |
 | 76 | [La Manifestacion](https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9) | [Skampida](https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno) | [Inflammable](https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al) | 2:51 |
 | 77 | [The One And Only](https://open.spotify.com/track/04MkrjtWql5a9UTTMzB2zW) | [Makua Rothman](https://open.spotify.com/artist/2NPXqPjxbsbSAkO9PA61lN) | [The One And Only](https://open.spotify.com/album/7DK4Yb70kirgEI1JMK3Mje) | 3:03 |
 | 78 | [Mudik](https://open.spotify.com/track/3u7pq1wcyrms1poAnD5HuR) | [Shaggydog](https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r) | [Mudik](https://open.spotify.com/album/3x0dxk1UNE1cAk2jmLrAUQ) | 4:15 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 83 | [Blessed with a Melody](https://open.spotify.com/track/2VOPWmLCCfSKDtxiQBxKsx) | [JJ Sansaverino](https://open.spotify.com/artist/7iCr7BWLxsxFffDaIvUXdy), [Maxi Priest](https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7) | [Blessed with a Melody](https://open.spotify.com/album/06rxIyt9gHCan4NA9puzRL) | 4:27 |
 | 84 | [Wir sind wieder wer](https://open.spotify.com/track/1jFiU9ubsJmoLY0vXALxKb) | [100 Kilo Herz](https://open.spotify.com/artist/6sKOC3XdcoRZHh70zwnWFg) | [Wir sind wieder wer](https://open.spotify.com/album/5RvndlPhi6eqt0QxN2hP0q) | 3:27 |
 | 85 | [Tengo Miedo](https://open.spotify.com/track/0Ie0046Cnewwp8bKCZlDPA) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl) | [Estacional](https://open.spotify.com/album/5wU8q6gfYE2aQDxTMRULGt) | 3:17 |
-| 86 | [Como un Rayo](https://open.spotify.com/track/0h19BHLtwLka1kBoJSITle) | [Gato López](https://open.spotify.com/artist/07HWPf2PLYzx38I3lJIsCH), [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl), [Salida Nula](https://open.spotify.com/artist/6PhjQPENxSE6grsBqEq1Ph), [Sinaia](https://open.spotify.com/artist/0B1wJktoH76W0tLHB75BTG) | [Como un Rayo](https://open.spotify.com/album/5pIR00URS8Wn6g5UZBGzSd) | 2:37 |
-| 87 | [Bella ciao](https://open.spotify.com/track/5UyQfZSiHhlgEkIHODofsM) | [Skassapunka](https://open.spotify.com/artist/2YkorgCq6sZ6nIcIxaOTsG) | [Rudes Against](https://open.spotify.com/album/4yj9wYRWK5oPOy4cmVMB8j) | 2:48 |
+| 86 | [Bella ciao](https://open.spotify.com/track/5UyQfZSiHhlgEkIHODofsM) | [Skassapunka](https://open.spotify.com/artist/2YkorgCq6sZ6nIcIxaOTsG) | [Rudes Against](https://open.spotify.com/album/4yj9wYRWK5oPOy4cmVMB8j) | 2:48 |
+| 87 | [Como un Rayo](https://open.spotify.com/track/0h19BHLtwLka1kBoJSITle) | [Gato López](https://open.spotify.com/artist/07HWPf2PLYzx38I3lJIsCH), [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl), [Salida Nula](https://open.spotify.com/artist/6PhjQPENxSE6grsBqEq1Ph), [Sinaia](https://open.spotify.com/artist/0B1wJktoH76W0tLHB75BTG) | [Como un Rayo](https://open.spotify.com/album/5pIR00URS8Wn6g5UZBGzSd) | 2:37 |
 | 88 | [Chupasangre](https://open.spotify.com/track/30AQGfDqWCrN6KwHnNIFdv) | [Tomo Como Rey](https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD) | [Chupasangre](https://open.spotify.com/album/6QuNQyIrZQGzzzx072piNU) | 3:16 |
 | 89 | [Behin Eta Berriz](https://open.spotify.com/track/7aThCw2poPhq4ydLBS8Mt3) | [Esne Beltza](https://open.spotify.com/artist/2XPWNtVJSENbUVjYZSPnUP), [Chambao](https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R) | [Behin Eta Berriz](https://open.spotify.com/album/68fXEXnGqM6UL0Z2QXGZK1) | 3:14 |
 | 90 | [Sally Brown](https://open.spotify.com/track/08hvKlzfjR1uXbDsUdFtXE) | [Bad Manners](https://open.spotify.com/artist/0GShYlUdyLahdsvgKdselx) | [Return Of The Ugly](https://open.spotify.com/album/6HOvTf2kejA6S1lh0rCTCD) | 3:02 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 97 | [Devil With a Microphone](https://open.spotify.com/track/4oZEIKV1jFpaanyl9DneOF) | [Random Hand](https://open.spotify.com/artist/0qyNkAVhhlJ4DvfYypl1Bb) | [Random Hand](https://open.spotify.com/album/5IUr8JaIyJvTN4nU293VHC) | 3:12 |
 | 98 | [Old Friend](https://open.spotify.com/track/2d6CaL5eZWaplfSvPok5e8) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [All The Moon Stompers](https://open.spotify.com/album/5G6FHjebFlPzZ3i5iOeeot) | 2:53 |
 | 99 | [Rudie Can't Fail \- Remastered](https://open.spotify.com/track/2otV4r71lH2kMmniSmKrmG) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sound System](https://open.spotify.com/album/48xJ1Xj8V4snc0am3T0SoF) | 3:28 |
-| 100 | [Don't Stop Me Now](https://open.spotify.com/track/69Eq4fi8N7JvSazDTC7Us5) | [Joe Samba](https://open.spotify.com/artist/4edOA7e3jDgmddqyrb93DJ) | [Don't Stop Me Now](https://open.spotify.com/album/67fHb4XQlWTiH9WWjtmaC4) | 3:09 |
+| 100 | [The Rascal King](https://open.spotify.com/track/5Rz724YJlp4orgEvWIWfKg) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Best Of/20th Century](https://open.spotify.com/album/1D4YdkoQS2sJEcPRjLhgXx) | 2:45 |
 
 Snapshot ID: `ZiIIYAAAAADPCiMH33r6FebvrzSdOjU5`

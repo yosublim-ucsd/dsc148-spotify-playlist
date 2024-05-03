@@ -2,7 +2,7 @@
 
 ### [Netflix Kids Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXcDZqCc9qf3b)
 
-> Groove to music from your Netflix Kids favorites! Cover: Hot Wheels: Let's Race
+> Groove to music from your Netflix Kids favorites! Cover: Thelma the Unicorn
 
 128 songs - 5 hr 14 min
 

@@ -1,6 +1,6 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 79813,
+  "num_followers": 79845,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
@@ -387,22 +387,18 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
-        "name": "Look At Me",
-        "url": "https://open.spotify.com/album/4W0Gyfy905bzv92GLkyoat"
+        "name": "Comin' From Where I'm From",
+        "url": "https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em"
       },
       "artists": [
         {
-          "name": "Cory Wong",
-          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
-        },
-        {
-          "name": "Allen Stone",
-          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+          "name": "Anthony Hamilton",
+          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
         }
       ],
-      "duration_ms": 233056,
-      "name": "Look At Me",
-      "url": "https://open.spotify.com/track/3MmyrLEMNBwGicrY8x7jTs"
+      "duration_ms": 273893,
+      "name": "Cornbread, Fish & Collard Greens",
+      "url": "https://open.spotify.com/track/7km1tntASwmtyzGr8vaT0e"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -423,18 +419,22 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
-        "name": "Comin' From Where I'm From",
-        "url": "https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em"
+        "name": "Look At Me",
+        "url": "https://open.spotify.com/album/4W0Gyfy905bzv92GLkyoat"
       },
       "artists": [
         {
-          "name": "Anthony Hamilton",
-          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
+          "name": "Cory Wong",
+          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+        },
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
         }
       ],
-      "duration_ms": 273893,
-      "name": "Cornbread, Fish & Collard Greens",
-      "url": "https://open.spotify.com/track/7km1tntASwmtyzGr8vaT0e"
+      "duration_ms": 233056,
+      "name": "Look At Me",
+      "url": "https://open.spotify.com/track/3MmyrLEMNBwGicrY8x7jTs"
     },
     {
       "added_at": "2024-03-08 13:51:25",

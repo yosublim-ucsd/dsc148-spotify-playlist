@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcISkz62UgzG.md) - [plain]
 
 > Listen to Selena's latest releases, plus all her essential hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,311,266 likes - 52 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,311,363 likes - 52 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

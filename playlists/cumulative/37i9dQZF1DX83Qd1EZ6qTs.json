@@ -177,6 +177,24 @@
     },
     {
       "album": {
+        "name": "Lagrima",
+        "url": "https://open.spotify.com/album/0EphHGiWwMpfirdRG3gp3J"
+      },
+      "artists": [
+        {
+          "name": "Fausto Palma",
+          "url": "https://open.spotify.com/artist/6NWmBPZdw4rP461AyF197Q"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159582,
+      "name": "Delirio de Ale",
+      "url": "https://open.spotify.com/track/7LeCJLskRnBq1Bz0l98tC3"
+    },
+    {
+      "album": {
         "name": "Taaleem",
         "url": "https://open.spotify.com/album/3mjbUgpIzaDUbT3uTGFARj"
       },
@@ -642,7 +660,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 771373,
       "name": "Tabla",
       "url": "https://open.spotify.com/track/23YNrB4uagVVZICUBU3Jur"

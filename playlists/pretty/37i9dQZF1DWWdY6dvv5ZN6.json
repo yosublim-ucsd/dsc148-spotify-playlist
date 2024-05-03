@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les artistes \u00e0 l'affiche du Festival International de Jazz de Montr\u00e9al / Discover this year's Montreal Jazz Fest lineup",
-  "num_followers": 1859,
+  "num_followers": 1867,
   "original_name": "Festival International de Jazz de Montr\u00e9al 2024",
   "owner": {
     "name": "Spotify",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
-        "name": "Casa Guilhermina",
-        "url": "https://open.spotify.com/album/6mnkadX4JLnvPxDGWnQ0Bu"
-      },
-      "artists": [
-        {
-          "name": "Ana Moura",
-          "url": "https://open.spotify.com/artist/5HjL8Wcg8TdKTABDci2mB7"
-        }
-      ],
-      "duration_ms": 177633,
-      "name": "Andorinhas",
-      "url": "https://open.spotify.com/track/7uVSiur2qbRT0py1aeJuC8"
-    },
-    {
-      "added_at": "2024-04-24 15:03:49",
-      "album": {
         "name": "Distrust the Magician",
         "url": "https://open.spotify.com/album/61I73dAC8MzN56vo2FX4SO"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 337520,
       "name": "Distrust the Magician",
       "url": "https://open.spotify.com/track/4EczFi15YP46BSa8u1p95v"
+    },
+    {
+      "added_at": "2024-04-24 15:03:49",
+      "album": {
+        "name": "Casa Guilhermina",
+        "url": "https://open.spotify.com/album/6mnkadX4JLnvPxDGWnQ0Bu"
+      },
+      "artists": [
+        {
+          "name": "Ana Moura",
+          "url": "https://open.spotify.com/artist/5HjL8Wcg8TdKTABDci2mB7"
+        }
+      ],
+      "duration_ms": 177633,
+      "name": "Andorinhas",
+      "url": "https://open.spotify.com/track/7uVSiur2qbRT0py1aeJuC8"
     },
     {
       "added_at": "2024-04-24 15:03:49",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
-        "name": "Hill Country Love",
-        "url": "https://open.spotify.com/album/6nziuDYeLmZtW4BdypRzfH"
-      },
-      "artists": [
-        {
-          "name": "Cedric Burnside",
-          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
-        }
-      ],
-      "duration_ms": 184252,
-      "name": "Hill Country Love",
-      "url": "https://open.spotify.com/track/1vqVw25zn0ZBYSJAjyTOYM"
-    },
-    {
-      "added_at": "2024-04-24 15:03:49",
-      "album": {
         "name": "More Better",
         "url": "https://open.spotify.com/album/2umzUVhmjlQSt2aydhVofA"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 208500,
       "name": "All The Same",
       "url": "https://open.spotify.com/track/0JYFPzLH2RaghCVOFfnJsF"
+    },
+    {
+      "added_at": "2024-04-24 15:03:49",
+      "album": {
+        "name": "Hill Country Love",
+        "url": "https://open.spotify.com/album/6nziuDYeLmZtW4BdypRzfH"
+      },
+      "artists": [
+        {
+          "name": "Cedric Burnside",
+          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
+        }
+      ],
+      "duration_ms": 184252,
+      "name": "Hill Country Love",
+      "url": "https://open.spotify.com/track/1vqVw25zn0ZBYSJAjyTOYM"
     },
     {
       "added_at": "2024-04-24 15:03:49",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
-        "name": "Sunday In The Park",
-        "url": "https://open.spotify.com/album/1w1S6RX4jzdXED0fTIgoWL"
-      },
-      "artists": [
-        {
-          "name": "Sammy Jackson",
-          "url": "https://open.spotify.com/artist/76N35MYZrrMLTfbBADPM1y"
-        }
-      ],
-      "duration_ms": 265239,
-      "name": "Sunday In The Park",
-      "url": "https://open.spotify.com/track/2lQ0Slml8MWZyTsWlKK2rh"
-    },
-    {
-      "added_at": "2024-04-24 15:03:49",
-      "album": {
         "name": "Agadez",
         "url": "https://open.spotify.com/album/3rTt2Gu71ktKEzfDumvuYG"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 274771,
       "name": "Adounia",
       "url": "https://open.spotify.com/track/0oF0943hvTFkA9oNyjedeV"
+    },
+    {
+      "added_at": "2024-04-24 15:03:49",
+      "album": {
+        "name": "Sunday In The Park",
+        "url": "https://open.spotify.com/album/1w1S6RX4jzdXED0fTIgoWL"
+      },
+      "artists": [
+        {
+          "name": "Sammy Jackson",
+          "url": "https://open.spotify.com/artist/76N35MYZrrMLTfbBADPM1y"
+        }
+      ],
+      "duration_ms": 265239,
+      "name": "Sunday In The Park",
+      "url": "https://open.spotify.com/track/2lQ0Slml8MWZyTsWlKK2rh"
     },
     {
       "added_at": "2024-04-24 15:03:49",
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
+        "name": "Diagnosis",
+        "url": "https://open.spotify.com/album/5fHr8JbVLdLHNJa91q9EUd"
+      },
+      "artists": [
+        {
+          "name": "Sen Morimoto",
+          "url": "https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl"
+        }
+      ],
+      "duration_ms": 171800,
+      "name": "If the Answer Isn't Love",
+      "url": "https://open.spotify.com/track/4yJ1Q6up6HjWxT42p7w6fv"
+    },
+    {
+      "added_at": "2024-04-24 15:03:49",
+      "album": {
         "name": "Y\u2019all Don\u2019t (Really) Care About Black Women",
         "url": "https://open.spotify.com/album/746qWwUCILB8ZILy6wkXFZ"
       },
@@ -1767,22 +1783,6 @@
       "duration_ms": 297631,
       "name": "Woman Of The Ghetto - Reimagined",
       "url": "https://open.spotify.com/track/0LLrnRUnjl1NxREWcp6bCO"
-    },
-    {
-      "added_at": "2024-04-24 15:03:49",
-      "album": {
-        "name": "Diagnosis",
-        "url": "https://open.spotify.com/album/5fHr8JbVLdLHNJa91q9EUd"
-      },
-      "artists": [
-        {
-          "name": "Sen Morimoto",
-          "url": "https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl"
-        }
-      ],
-      "duration_ms": 171800,
-      "name": "If the Answer Isn't Love",
-      "url": "https://open.spotify.com/track/4yJ1Q6up6HjWxT42p7w6fv"
     },
     {
       "added_at": "2024-04-24 15:03:49",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
-        "name": "Patche",
-        "url": "https://open.spotify.com/album/6tIv6FfXjJiAwTt6X07pAr"
-      },
-      "artists": [
-        {
-          "name": "Patche",
-          "url": "https://open.spotify.com/artist/2l5zAkA5ErSzEplCC0gDu1"
-        }
-      ],
-      "duration_ms": 342040,
-      "name": "Motorik",
-      "url": "https://open.spotify.com/track/5kUVK0faZee9yLpM3WNDYB"
-    },
-    {
-      "added_at": "2024-04-24 15:03:49",
-      "album": {
         "name": "Refract",
         "url": "https://open.spotify.com/album/5AI0KCzgLqhLxjRSF3ZhJW"
       },
@@ -2143,6 +2127,22 @@
       "duration_ms": 251153,
       "name": "Inward, Curve",
       "url": "https://open.spotify.com/track/5bMpTLFznBHWKFf5e9vFMt"
+    },
+    {
+      "added_at": "2024-04-24 15:03:49",
+      "album": {
+        "name": "Patche",
+        "url": "https://open.spotify.com/album/6tIv6FfXjJiAwTt6X07pAr"
+      },
+      "artists": [
+        {
+          "name": "Patche",
+          "url": "https://open.spotify.com/artist/2l5zAkA5ErSzEplCC0gDu1"
+        }
+      ],
+      "duration_ms": 342040,
+      "name": "Motorik",
+      "url": "https://open.spotify.com/track/5kUVK0faZee9yLpM3WNDYB"
     },
     {
       "added_at": "2024-04-24 15:03:49",
@@ -2211,22 +2211,6 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
-        "name": "Latiendo la tierra",
-        "url": "https://open.spotify.com/album/2VIPMRFRCsZNH5diTJQ86G"
-      },
-      "artists": [
-        {
-          "name": "No\u00e9 Lira",
-          "url": "https://open.spotify.com/artist/6YQWwm6FdB2tSglKV6jSz4"
-        }
-      ],
-      "duration_ms": 263000,
-      "name": "R\u00edndete",
-      "url": "https://open.spotify.com/track/57JCZcoy9vmp6oAqIEGBIo"
-    },
-    {
-      "added_at": "2024-04-24 15:03:49",
-      "album": {
         "name": "The Essential Stanley Clarke",
         "url": "https://open.spotify.com/album/4658fdGxRPiSvcWb464SyS"
       },
@@ -2239,6 +2223,22 @@
       "duration_ms": 468906,
       "name": "School Days",
       "url": "https://open.spotify.com/track/3bD0v2Jhj7pyXTiOqrJZ4c"
+    },
+    {
+      "added_at": "2024-04-24 15:03:49",
+      "album": {
+        "name": "Latiendo la tierra",
+        "url": "https://open.spotify.com/album/2VIPMRFRCsZNH5diTJQ86G"
+      },
+      "artists": [
+        {
+          "name": "No\u00e9 Lira",
+          "url": "https://open.spotify.com/artist/6YQWwm6FdB2tSglKV6jSz4"
+        }
+      ],
+      "duration_ms": 263000,
+      "name": "R\u00edndete",
+      "url": "https://open.spotify.com/track/57JCZcoy9vmp6oAqIEGBIo"
     },
     {
       "added_at": "2024-04-24 15:03:49",
@@ -2439,30 +2439,6 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
-        "name": "Time Poem: La joie de l'\u00e9ph\u00e9m\u00e8re",
-        "url": "https://open.spotify.com/album/0L4xHZpUhhkzRtMfPXYHjp"
-      },
-      "artists": [
-        {
-          "name": "Marianne Trudel",
-          "url": "https://open.spotify.com/artist/3ZjyAwXvUuU6JtYjI6XeZb"
-        },
-        {
-          "name": "John Hollenbeck",
-          "url": "https://open.spotify.com/artist/59tdGIxFYXNsHrRMOn2Wr8"
-        },
-        {
-          "name": "R\u00e9mi-Jean Leblanc",
-          "url": "https://open.spotify.com/artist/1v5jtskP3izbwtQMFBJnis"
-        }
-      ],
-      "duration_ms": 429943,
-      "name": "Les vagues",
-      "url": "https://open.spotify.com/track/7n3hKwI0VUjfNUYyus9B22"
-    },
-    {
-      "added_at": "2024-04-24 15:03:49",
-      "album": {
         "name": "Rez-de-chauss\u00e9e",
         "url": "https://open.spotify.com/album/70mCGq6gSILnx4mJDbBh8p"
       },
@@ -2491,6 +2467,30 @@
       "duration_ms": 171824,
       "name": "Downtown Uproar",
       "url": "https://open.spotify.com/track/30qquZJYIxT4YZPzayXPB8"
+    },
+    {
+      "added_at": "2024-04-24 15:03:49",
+      "album": {
+        "name": "Time Poem: La joie de l'\u00e9ph\u00e9m\u00e8re",
+        "url": "https://open.spotify.com/album/0L4xHZpUhhkzRtMfPXYHjp"
+      },
+      "artists": [
+        {
+          "name": "Marianne Trudel",
+          "url": "https://open.spotify.com/artist/3ZjyAwXvUuU6JtYjI6XeZb"
+        },
+        {
+          "name": "John Hollenbeck",
+          "url": "https://open.spotify.com/artist/59tdGIxFYXNsHrRMOn2Wr8"
+        },
+        {
+          "name": "R\u00e9mi-Jean Leblanc",
+          "url": "https://open.spotify.com/artist/1v5jtskP3izbwtQMFBJnis"
+        }
+      ],
+      "duration_ms": 429943,
+      "name": "Les vagues",
+      "url": "https://open.spotify.com/track/7n3hKwI0VUjfNUYyus9B22"
     },
     {
       "added_at": "2024-04-24 15:03:49",
@@ -2571,6 +2571,22 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
+        "name": "Happy Man",
+        "url": "https://open.spotify.com/album/2VA7RFoMB4Q8SqxKCqB6J8"
+      },
+      "artists": [
+        {
+          "name": "Stephen Barry Band",
+          "url": "https://open.spotify.com/artist/0tTpq4BOjoXAWWUv0bxvTv"
+        }
+      ],
+      "duration_ms": 233893,
+      "name": "Tired of Crying",
+      "url": "https://open.spotify.com/track/0j1WeRuOS2wnoCtUavJ9g7"
+    },
+    {
+      "added_at": "2024-04-24 15:03:49",
+      "album": {
         "name": "Ukubonga Gratitude",
         "url": "https://open.spotify.com/album/4fVRmnxsA4BvkBs7Da4vKR"
       },
@@ -2587,22 +2603,6 @@
       "duration_ms": 376720,
       "name": "Ilanga Selishonile",
       "url": "https://open.spotify.com/track/4ykTT0e3nJBeLEygPaHcMp"
-    },
-    {
-      "added_at": "2024-04-24 15:03:49",
-      "album": {
-        "name": "Happy Man",
-        "url": "https://open.spotify.com/album/2VA7RFoMB4Q8SqxKCqB6J8"
-      },
-      "artists": [
-        {
-          "name": "Stephen Barry Band",
-          "url": "https://open.spotify.com/artist/0tTpq4BOjoXAWWUv0bxvTv"
-        }
-      ],
-      "duration_ms": 233893,
-      "name": "Tired of Crying",
-      "url": "https://open.spotify.com/track/0j1WeRuOS2wnoCtUavJ9g7"
     },
     {
       "added_at": "2024-04-24 15:03:49",

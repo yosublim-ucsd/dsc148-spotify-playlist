@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang Dangdut teratas. Cover: Hari Putra",
+  "description": "Dendang Dangdut teratas. Cover: Riri Chantika",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -421,6 +421,24 @@
     },
     {
       "album": {
+        "name": "Bukan Ku Tak Sudi (Live Ska Reggae)",
+        "url": "https://open.spotify.com/album/6pnHrH876sQ5cAQsHSm4I3"
+      },
+      "artists": [
+        {
+          "name": "Maulana Ardiansyah",
+          "url": "https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257937,
+      "name": "Bukan Ku Tak Sudi - (Live Ska Reggae)",
+      "url": "https://open.spotify.com/track/2RZJ97Bl5WfrbnBYNG9e9r"
+    },
+    {
+      "album": {
         "name": "Cincin Kepalsuan",
         "url": "https://open.spotify.com/album/15FkTQrMpQpIsNtWsOlZH7"
       },
@@ -696,7 +714,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 263026,
       "name": "Dia Di Surgamu - Acoustic Version",
       "url": "https://open.spotify.com/track/7nqvYltUiiX5IdYDUNEaEw"
@@ -858,7 +876,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 349830,
       "name": "Engkaulah Satu Satunya",
       "url": "https://open.spotify.com/track/3X97NvosSuHgjrAfEfSsuh"
@@ -1230,7 +1248,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 264355,
       "name": "Kau Tawarkan Setia",
       "url": "https://open.spotify.com/track/1OvqS8BSe9fd89WLb6B2vR"
@@ -2746,7 +2764,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 270162,
       "name": "Tanya Hatimu",
       "url": "https://open.spotify.com/track/22mwaQkDEwU2W1y99VazbD"

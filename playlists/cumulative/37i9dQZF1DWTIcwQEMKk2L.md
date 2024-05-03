@@ -4,7 +4,7 @@
 
 > 愜意放鬆，使自己沉浸在這些動人而優美的鋼琴曲之中。
 
-134 songs - 6 hr 8 min
+135 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Last Song](https://open.spotify.com/track/5YfZknxIgQayJKaMn5Z11G) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Secret Piano](https://open.spotify.com/album/7axzWd20YVmQ4BVmOA6TpA) | 1:55 | 2023-11-20 |  |
 | [Libélula](https://open.spotify.com/track/5EaqAJx6JpnQkJ7HM9X3hC) | [Coralia del Villar](https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P) | [Libélula](https://open.spotify.com/album/42ZESTdaAFvHlErpRd2KzT) | 2:45 | 2023-11-20 |  |
 | [Limitation \(Scaled Down Version\)](https://open.spotify.com/track/4ZTvGA5KudTVKbhmaH3CLb) | [Vincent & A Secret](https://open.spotify.com/artist/56GQPPkhPG3G9LgFEo7Ae6) | [P.S\. I'm Still Here](https://open.spotify.com/album/3c1UFkkA7goX16ZYoHawV1) | 2:12 | 2023-11-20 | 2024-01-19 |
-| [Looking Forward, Looking Backward](https://open.spotify.com/track/3W67I10IdSjH3ViNhYzzZu) | [Robin Bennich](https://open.spotify.com/artist/1GfrQqvl1vPBIgZZJTDAvM) | [Looking Forward, Looking Backward](https://open.spotify.com/album/06NR2OTQUhdiltkVeGI50x) | 2:57 | 2023-11-20 |  |
+| [Looking Forward, Looking Backward](https://open.spotify.com/track/3W67I10IdSjH3ViNhYzzZu) | [Robin Bennich](https://open.spotify.com/artist/1GfrQqvl1vPBIgZZJTDAvM) | [Looking Forward, Looking Backward](https://open.spotify.com/album/06NR2OTQUhdiltkVeGI50x) | 2:57 | 2023-11-20 | 2024-05-03 |
 | [Love For Sale](https://open.spotify.com/track/3lW5Ck2tvHZPQwOWEF0GF8) | [Andy Luma](https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof) | [Cherokee](https://open.spotify.com/album/5tlafy4PFxdDv5vxuXNlDR) | 2:23 | 2024-03-04 |  |
 | [L’herbe verte](https://open.spotify.com/track/1Pjy5zOeaXPieqUfiSdGEb) | [Marceau Sartre](https://open.spotify.com/artist/3WUn0TYXefhcLNOs4BMW6l) | [L’herbe verte](https://open.spotify.com/album/5rPSm5zRMNh2iDrcWY0QAI) | 2:21 | 2023-11-20 |  |
 | [Magari](https://open.spotify.com/track/3cbYtmntj3mAHLoM1CEfzZ) | [Riccardo Lettiere](https://open.spotify.com/artist/5umUIBjnV8j12Qu5Zeni2x) | [Magari](https://open.spotify.com/album/7jIDxPIv8IFMdVIsiZ2Sg5) | 1:48 | 2023-12-04 | 2023-12-16 |
@@ -108,6 +108,7 @@
 | [Reggimi](https://open.spotify.com/track/6YLD5UAaxYG9w4D7rI6PaQ) | [Natalino Serafin](https://open.spotify.com/artist/57OZxCSUWvp2RgCCaz1AJh) | [Reggimi](https://open.spotify.com/album/3HAfEplO7S9T5qMWhs6YPR) | 2:37 | 2023-11-20 |  |
 | [Reminiscence](https://open.spotify.com/track/4JX3QGip45EV6Ne0uvV9NK) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [As The Years Go By](https://open.spotify.com/album/5aeUh8jEe9W9IUQJU0Q3Bd) | 2:32 | 2023-11-20 |  |
 | [Sagittabondo](https://open.spotify.com/track/6L73Pb4dv5p9OOlY1ja32c) | [Maura Bellucci](https://open.spotify.com/artist/7EJf6TnQIBHlzkCmMx6oFW) | [Sagittabondo](https://open.spotify.com/album/5xA0kiXHUSL1wFWY52fu5O) | 2:13 | 2024-01-29 |  |
+| [Sasha](https://open.spotify.com/track/5Cea1kGzMWhmpyZF7G8mxY) | [Camilla Selezneva](https://open.spotify.com/artist/0pbW0nhIY4JDlqMJU5G7eX) | [Sasha](https://open.spotify.com/album/3XAxROyOq3avBUuqs2V2jI) | 2:25 | 2024-04-29 |  |
 | [Say You Wont Let Go](https://open.spotify.com/track/4eyOZVDzYlVslh6POZ9AVP) | [Ronald Emery](https://open.spotify.com/artist/6QZfFu9pzOaYtvkCAJP22j) | [Piano Hits Chill](https://open.spotify.com/album/7lQ9Sx3i7oqYDLfjEJnOnS) | 3:50 | 2023-11-20 |  |
 | [See you in the morning](https://open.spotify.com/track/4ujJJwrejs0lGkVU23ls5j) | [Wendy Salisbury](https://open.spotify.com/artist/2tP4FhLAccVfVh3vaL1Aek) | [See you in the morning](https://open.spotify.com/album/1oS4DdHemsUapv1o5Uur7T) | 2:40 | 2024-04-08 |  |
 | [Silhouette](https://open.spotify.com/track/4Eq7aF59snLVoxPKUAHhUz) | [Robert Gafforelli](https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7) | [Oddities](https://open.spotify.com/album/5xl48qsYt6IMQlXSKESZsW) | 3:32 | 2023-11-20 |  |

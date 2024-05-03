@@ -14845,6 +14845,28 @@
     },
     {
       "album": {
+        "name": "\u30c1\u30fc\u30e0\u53cb\u9054 (The Remixes)",
+        "url": "https://open.spotify.com/album/5ycBDji1NL6udbr8liTQo7"
+      },
+      "artists": [
+        {
+          "name": "\u5343\u8449\u96c4\u559c",
+          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
+        },
+        {
+          "name": "Watson",
+          "url": "https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139823,
+      "name": "\u30c1\u30fc\u30e0\u53cb\u9054 - Watson Remix",
+      "url": "https://open.spotify.com/track/76GhMomsx1wQszZdwI3vRC"
+    },
+    {
+      "album": {
         "name": "\u30c1\u30fc\u30e0\u53cb\u9054 (\u6771\u6d77 Remix)",
         "url": "https://open.spotify.com/album/1ghhtRYZ7LLs6d5Hq1rFOY"
       },

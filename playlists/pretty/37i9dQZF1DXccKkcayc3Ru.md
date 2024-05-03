@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccKkcayc3Ru.md) - [plain]
 
 > 実写映画「<a href="https://gaga.ne.jp/buzzynoise\_movie/">バジーノイズ</a>」5月3日公開！作者 むつき潤による選曲のオフィシャル・プレイリストが到着。/ The official playlist selected by Mutsuki Jun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,304 likes - 60 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,345 likes - 60 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccKkcayc3Ru.md) - [plain]
 | 48 | [死ぬのがいいわ](https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | 3:05 |
 | 49 | [永遠のブルー](https://open.spotify.com/track/3zSgE6oQiPLO28dZkvKGbX) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [12 hugs \(like butterflies\)](https://open.spotify.com/album/1wNDOs0Zmqrm7dhgnneflC) | 3:51 |
 | 50 | [ロックンロールは鳴り止まないっ](https://open.spotify.com/track/35VEMDOASF9TfAbl3U64Eu) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [友だちを殺してまで。](https://open.spotify.com/album/4t1mPPWuh9l6dBURwzZicw) | 3:52 |
-| 51 | [Q](https://open.spotify.com/track/2gUZMWbJCCVsJFxPbQFFDN) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [Q](https://open.spotify.com/album/5PDrKfXanutCbajW1uu5jO) | 4:24 |
+| 51 | [Q](https://open.spotify.com/track/2gUZMWbJCCVsJFxPbQFFDN) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [Q](https://open.spotify.com/album/5PDrKfXanutCbajW1uu5jO) | 4:20 |
 | 52 | [COSMOS](https://open.spotify.com/track/5wiL2smHaFTMLFtRNQCTHj) | [OTOGIVANASHI](https://open.spotify.com/artist/44D2YJddv2yvBrrnCEJrN7) | [CULTURE CLUB](https://open.spotify.com/album/0gTp1SZuGULqQlaecIJ6IY) | 4:55 |
 | 53 | [Twilight](https://open.spotify.com/track/4bDDipRrNxUKcsyG39lQGw) | [踊ってばかりの国](https://open.spotify.com/artist/0FA31wmImS3Px3LyRxtiS2) | [moana](https://open.spotify.com/album/6Ju7NMuS9QupJ6etSGLLA2) | 3:38 |
 | 54 | [世界各国の夜](https://open.spotify.com/track/46SeB4xDa6GFG5KvdaislT) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ) | [世界各国の夜](https://open.spotify.com/album/0qvZD8eYRscYqR4N9DwC3Q) | 3:18 |

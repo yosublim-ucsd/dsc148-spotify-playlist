@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Marc Anthony
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,185 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,207 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 28 | [Me Declaro Borrach@](https://open.spotify.com/track/5QU0XzQJ6Zus6nHP5AAmCx) | [Cinthya Montero](https://open.spotify.com/artist/1LrqLthgNpmF9iDxOyxMlk), [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [Me Declaro Borrach@](https://open.spotify.com/album/5CDEA02p0n6uRaVmDOkwCd) | 3:08 |
 | 29 | [Llegaste tarde](https://open.spotify.com/track/1EWRHKVtyXnlURgWuYnbJe) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Llegaste tarde](https://open.spotify.com/album/1ClMxJtyMQNXLwCGufwP0Z) | 4:49 |
 | 30 | [Entre Paréntesis](https://open.spotify.com/track/5fsRGEBhO4laf2hzCVL0Qo) | [Rocío Quiroz](https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn) | [Entre Paréntesis](https://open.spotify.com/album/45Z1KNPXv556kTip0oDz47) | 2:41 |
-| 31 | [Mambo Cayetano](https://open.spotify.com/track/4Hd2Ketu3gTDPDjUYkakdN) | [Chico Che Chico](https://open.spotify.com/artist/5FnZQzuk4Ggfe4Uab7iAWd), [La Sonora Dinamita](https://open.spotify.com/artist/6x46FyOXEWX0ousDjTffil) | [Mambo Cayetano](https://open.spotify.com/album/3n6JCmxLVqnF4J4eaxEuA0) | 3:29 |
+| 31 | [Mambo Cayetano](https://open.spotify.com/track/4Hd2Ketu3gTDPDjUYkakdN) | [Chico Che Chico](https://open.spotify.com/artist/5FnZQzuk4Ggfe4Uab7iAWd), [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Mambo Cayetano](https://open.spotify.com/album/3n6JCmxLVqnF4J4eaxEuA0) | 3:29 |
 | 32 | [Enamorada](https://open.spotify.com/track/6rW6jBW7Vk5I3dOsm6wFVy) | [Taxi Orquesta](https://open.spotify.com/artist/52X2I7wOk4uHJEKd1HNSCb), [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Enamorada](https://open.spotify.com/album/09WvrF0ZLIM3o7akWcCvwj) | 3:24 |
 | 33 | [El Farsante](https://open.spotify.com/track/2NU9AmoSeamXEqIiH8DkOl) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [El Farsante](https://open.spotify.com/album/6EzQJiZWUNBuP9eO1jhnmv) | 2:44 |
 | 34 | [La Muy Muy](https://open.spotify.com/track/4KU7bb0onnNk9xE3kTQjca) | [Anddy Caicedo](https://open.spotify.com/artist/0Emz7Y7utBVunAblbfCdrC) | [Legado](https://open.spotify.com/album/6w6c6I4boXtlAaFKqe2skJ) | 5:47 |

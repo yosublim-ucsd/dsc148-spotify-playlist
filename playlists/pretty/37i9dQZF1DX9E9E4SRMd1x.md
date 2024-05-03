@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9E9E4SRMd1x.md) - [plain]
 
 > Los temas inmortales de Selena en voces de nuevos intérpretes
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,635 likes - 27 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,666 likes - 27 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9E9E4SRMd1x.md) - [plain]
 | 12 | [Como La Flor](https://open.spotify.com/track/6o5ZlCDb85cE8jrhkYysiE) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch), [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Enamorada de Ti](https://open.spotify.com/album/6QT2jnwcvYH2H3fEbXeu0l) | 2:55 |
 | 13 | [Si Una Vez](https://open.spotify.com/track/22oUsXhc9Wiuwt9rtdCoXI) | [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp) | [Cruzando Territorio](https://open.spotify.com/album/6aSSTYI49aaMJMfYXjgG14) | 2:46 |
 | 14 | [Viviras Selena](https://open.spotify.com/track/2pXb4Rtjt4RfmdlxqUYCdG) | [Pete Astudillo](https://open.spotify.com/artist/5wB9uZHnYDudrgfxOXUsjY), [Emilio Navaira](https://open.spotify.com/artist/5ADSZA6X6nJBe7pTgcE6nA), [Jennifer Y Los Jetz](https://open.spotify.com/artist/6RNtyMrzRxg0Ojr0bmS3j7), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [Barrio Boyzz](https://open.spotify.com/artist/2pEJhUF93gQGPdWJnusnZp), [Graciela Beltran](https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl) | [Movie Soundtrack](https://open.spotify.com/album/6tgYUMd4BkJnE88UfrUSDO) | 5:03 |
-| 15 | [Techno Cumbia \- Bonus Track](https://open.spotify.com/track/2hP42jZE0C1Rbmd2PjAIag) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Hay Amor](https://open.spotify.com/album/2yvdvfj2gjnAEWfBHSpq7u) | 3:33 |
-| 16 | [Como la Flor](https://open.spotify.com/track/1LhM7E1xSAvplBmUIsQoCb) | [Ozomatli](https://open.spotify.com/artist/1An0HCtDktvCBDdFEu7HC0) | [Non\-Stop: Mexico to Jamaica](https://open.spotify.com/album/2uvbuOxYzDgGI5oz6jvYE3) | 3:40 |
+| 15 | [Como la Flor](https://open.spotify.com/track/1LhM7E1xSAvplBmUIsQoCb) | [Ozomatli](https://open.spotify.com/artist/1An0HCtDktvCBDdFEu7HC0) | [Non\-Stop: Mexico to Jamaica](https://open.spotify.com/album/2uvbuOxYzDgGI5oz6jvYE3) | 3:40 |
+| 16 | [Techno Cumbia \- Bonus Track](https://open.spotify.com/track/2hP42jZE0C1Rbmd2PjAIag) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Hay Amor](https://open.spotify.com/album/2yvdvfj2gjnAEWfBHSpq7u) | 3:33 |
 | 17 | [No Me Queda Más](https://open.spotify.com/track/1t9zwdo2o8oMhJ2XKg6Wkg) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4) | [No Me Queda Más](https://open.spotify.com/album/20jQHVaLcviRyRzQ5dhjBL) | 3:23 |
 | 18 | [Selena](https://open.spotify.com/track/3aLfVYYjd0GQrBsccS7w92) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0) | [Reyna](https://open.spotify.com/album/6gurGGQvCTVdFZZh1Abs3c) | 3:25 |
 | 19 | [Buenos Amigos](https://open.spotify.com/track/2gTlal0EmSkFAdmJkhLGIw) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch), [Alvaro Torres](https://open.spotify.com/artist/7p5DVejD1eXP8GO6clYQlE) | [La Leyenda \(Version Deluxe\)](https://open.spotify.com/album/2UbcZhoI1lrKnmRsfk2KGF) | 4:44 |

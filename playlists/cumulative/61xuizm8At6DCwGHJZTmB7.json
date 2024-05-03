@@ -1401,6 +1401,28 @@
     },
     {
       "album": {
+        "name": "Chapel Sessions",
+        "url": "https://open.spotify.com/album/48TX3EHXrOPBEV12dtOcOD"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship",
+          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
+        },
+        {
+          "name": "David Mwonga",
+          "url": "https://open.spotify.com/artist/30KkTXsoA1Jd9opfLIiXk1"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347730,
+      "name": "Christ Is Enough - Chapel Sessions",
+      "url": "https://open.spotify.com/track/78gqctl22FWZYSS0TzbQGv"
+    },
+    {
+      "album": {
         "name": "Greater Things",
         "url": "https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz"
       },
@@ -6318,6 +6340,28 @@
       "duration_ms": 271145,
       "name": "Our God Will Go Before Us - Live",
       "url": "https://open.spotify.com/track/5bDsETW4IEzLsfBcMus0Ez"
+    },
+    {
+      "album": {
+        "name": "Outnumbered (Live)",
+        "url": "https://open.spotify.com/album/5hgMAQ7rrWZBFRbUddgOfu"
+      },
+      "artists": [
+        {
+          "name": "Lakewood Music",
+          "url": "https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK"
+        },
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305120,
+      "name": "Outnumbered - Live",
+      "url": "https://open.spotify.com/track/2Dt3MmWoQKytfShbkCjIYw"
     },
     {
       "album": {

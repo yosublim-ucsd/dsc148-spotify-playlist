@@ -1088,7 +1088,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 201202,
       "name": "On God!",
       "url": "https://open.spotify.com/track/3AcH92WhF4cBsbUvoDgu30"
@@ -1424,6 +1424,28 @@
       "duration_ms": 242813,
       "name": "Stand by Me",
       "url": "https://open.spotify.com/track/5pztwVl6brVgqYjYQ93us6"
+    },
+    {
+      "album": {
+        "name": "Start My Day",
+        "url": "https://open.spotify.com/album/2RWRzcJMnE9iVcnilSp6gs"
+      },
+      "artists": [
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        },
+        {
+          "name": "Zion I Kings",
+          "url": "https://open.spotify.com/artist/3fvdJGrr5hUYtqoYJkhvCj"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195082,
+      "name": "Start My Day",
+      "url": "https://open.spotify.com/track/2UvXKCd5cMV3vEKyKcSxCs"
     },
     {
       "album": {

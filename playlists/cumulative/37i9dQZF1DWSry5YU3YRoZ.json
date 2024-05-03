@@ -713,6 +713,24 @@
     },
     {
       "album": {
+        "name": "love letter",
+        "url": "https://open.spotify.com/album/2MAYUIIxX2LI0eL7VsETMW"
+      },
+      "artists": [
+        {
+          "name": "RYU MIN HEE",
+          "url": "https://open.spotify.com/artist/0Le2D9d1fECvdS0fYWkyjg"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197146,
+      "name": "love letter",
+      "url": "https://open.spotify.com/track/2skufhVn9rdAkD1eVLbEXs"
+    },
+    {
+      "album": {
         "name": "Love poem",
         "url": "https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH"
       },
@@ -958,7 +976,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 200862,
       "name": "Star",
       "url": "https://open.spotify.com/track/7GGTWjlLnoDIm9DMY9I9cI"

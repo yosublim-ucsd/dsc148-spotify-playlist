@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Dos Monos
 
-1,565 songs - 4 day 0 hr 40 min
+1,565 songs - 4 day 0 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Bokushika Shiranai](https://open.spotify.com/track/1ldYh94lEkyY2CEfWkpcKT) | [Nerd Magnet](https://open.spotify.com/artist/5GMWMP2vINSe4wq4mS5xle) | [Bokushika Shiranai](https://open.spotify.com/album/0BWxrCZbuUpQHGW9URPFdi) | 3:34 | 2023-09-26 | 2023-10-04 |
 | [Bones](https://open.spotify.com/track/1cPjAAWfHK6X6Z1aCIvRKu) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [Bones](https://open.spotify.com/album/2TS85JeTN0ufeIKtMDzYtW) | 3:59 | 2023-01-31 | 2023-02-02 |
 | [Bones](https://open.spotify.com/track/2KpBeEYWN5dnpZdgJ8ZiUO) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [Bones](https://open.spotify.com/album/1xgcfc5ogp9i9jRapwNnea) | 3:59 | 2023-01-31 | 2023-03-15 |
-| [Booorn!!](https://open.spotify.com/track/48oPAi5Va2Qm3ep6q6506R) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [Booorn!!](https://open.spotify.com/album/5EQ83ifAXP6CnqWmb4oZm3) | 3:42 | 2023-05-30 |  |
+| [Booorn!!](https://open.spotify.com/track/48oPAi5Va2Qm3ep6q6506R) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [Booorn!!](https://open.spotify.com/album/5EQ83ifAXP6CnqWmb4oZm3) | 4:09 | 2023-05-30 |  |
 | [BORDER](https://open.spotify.com/track/4vRqGi0BbbecchqNA5PJMK) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [BORDER](https://open.spotify.com/album/21ptDmeuxNhWWmM0Hkp4y9) | 2:55 | 2023-06-06 | 2023-09-06 |
 | [BOSSA TIME](https://open.spotify.com/track/006WrHfwZ3cgSthmExQDZu) | [Neibiss](https://open.spotify.com/artist/0aTXphzBvPlvIirCBLEaTG) | [BOSSA TIME](https://open.spotify.com/album/3QXgU2OMgl7zjFTgd0gi3b) | 3:26 | 2023-08-29 | 2023-09-28 |
 | [bottoⅧ](https://open.spotify.com/track/0CMxmQmnMhPGLUu0yW2Ooo) | [野口文](https://open.spotify.com/artist/2trWL7YWxfnXWQPoQXZLha) | [botto](https://open.spotify.com/album/49TkMwgkpHNDtVFTbZ8HQN) | 1:44 | 2023-09-19 | 2024-05-01 |
@@ -845,7 +845,7 @@
 | [Sunny Side Egg](https://open.spotify.com/track/3h8K0h8I8GjCn1VzCdv9eN) | [SeN](https://open.spotify.com/artist/55dIWAXagR1CvaSgATGUE1) | [Sunny Side Egg](https://open.spotify.com/album/4DUcRpWvxNq5btNZ9FH9gU) | 3:39 | 2024-04-23 | 2024-05-01 |
 | [Super Loud](https://open.spotify.com/track/7Btt53bVQzP6LWm1bD7NLi) | [Analogfish](https://open.spotify.com/artist/5KvfVmM9oHCiIy88GOG58h) | [Super Loud](https://open.spotify.com/album/5xyyySZaoIUYX6FdSTiQnZ) | 4:02 | 2023-10-10 | 2023-11-10 |
 | [Superior](https://open.spotify.com/track/4XJud2E6edl441erVAdBgh) | [Lillies and Remains](https://open.spotify.com/artist/6002lb7vby2t0KYnGJYKg0) | [SUPERIOR](https://open.spotify.com/album/6fOqerz5ZX2SJ2VuMp7mub) | 3:54 | 2023-07-11 | 2023-07-29 |
-| [Superman](https://open.spotify.com/track/3R0VkHQ4az4AhbZP2KHFfF) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [Superman](https://open.spotify.com/album/6TNjfpFlH6GqH8ZIUp7ziV) | 3:29 | 2023-11-02 |  |
+| [Superman](https://open.spotify.com/track/3R0VkHQ4az4AhbZP2KHFfF) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [Superman](https://open.spotify.com/album/6TNjfpFlH6GqH8ZIUp7ziV) | 3:34 | 2023-11-02 |  |
 | [Supremacy](https://open.spotify.com/track/1mwaixNVz7ifI0VwzSmGfw) | [S.A.R.](https://open.spotify.com/artist/34PVGf86Ys8Iso5hGXQcaW) | [Supremacy](https://open.spotify.com/album/4cU0lQpW1s0HXysHPklbYi) | 3:14 | 2023-07-25 | 2023-07-27 |
 | [Supremacy](https://open.spotify.com/track/5YdQ2ekqb2i17sCZELI3VC) | [S.A.R.](https://open.spotify.com/artist/34PVGf86Ys8Iso5hGXQcaW) | [Supremacy](https://open.spotify.com/album/7dVYDyMKuta1QkHwOJpjze) | 3:14 | 2023-07-25 | 2023-08-16 |
 | [SURF'S UP](https://open.spotify.com/track/7jIpZOpsPbGJ2HGJgaFksy) | [Neibiss](https://open.spotify.com/artist/0aTXphzBvPlvIirCBLEaTG) | [SURF'S UP](https://open.spotify.com/album/2hlpQtydkLGcojGw5yJibr) | 3:36 | 2023-08-03 | 2023-08-29 |
@@ -1282,7 +1282,7 @@
 | [五次元Surfin'](https://open.spotify.com/track/5dJFzvOC7t0FVOO75ZmQrD) | [Kinoko Hotel](https://open.spotify.com/artist/54kSq4Nz99jYuneoUIPXpS) | [マリアンヌの教典](https://open.spotify.com/album/3xGA3YgNAnCwZtjEjMLejm) | 4:09 | 2023-06-13 | 2023-06-21 |
 | [人だった](https://open.spotify.com/track/3jhKiB4cDLkQeE6rReB6bO) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [導き、捧げて e.p](https://open.spotify.com/album/2egre7puOZtnfnwlhKUEJ7) | 3:43 | 2024-01-09 | 2024-01-11 |
 | [人人](https://open.spotify.com/track/7ibofG1HKoyv6YjXS4e2Jn) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH) | [人人](https://open.spotify.com/album/2VNVhFpsxdjI4xG8jBzAIh) | 4:21 | 2023-12-05 | 2023-12-07 |
-| [今世紀最大の夢](https://open.spotify.com/track/7LoraRHT6Un4WbAoiBVtYV) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [今世紀最大の夢](https://open.spotify.com/album/1kpFuWgqpwrpXOXaDxVyua) | 5:10 | 2024-01-16 |  |
+| [今世紀最大の夢](https://open.spotify.com/track/7LoraRHT6Un4WbAoiBVtYV) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [今世紀最大の夢](https://open.spotify.com/album/1kpFuWgqpwrpXOXaDxVyua) | 5:06 | 2024-01-16 |  |
 | [今日はひとりでいようね](https://open.spotify.com/track/5Ouw9H4ioGNTdANf6qYOWi) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [石のような自由](https://open.spotify.com/album/4Fmt0D1UfjV3s4SAnP7cep) | 5:21 | 2023-12-19 | 2024-01-17 |
 | [会いたい](https://open.spotify.com/track/5VPbNf4LkDv7reM1SDsFyH) | [ラッキーセベン](https://open.spotify.com/artist/6i96AnwBuNfWOyMz7OHYWx) | [会いたい](https://open.spotify.com/album/4M4391JYcKGO5GBhl5bbbd) | 4:27 | 2023-09-14 | 2023-10-15 |
 | [伝えたい](https://open.spotify.com/track/5PMH2m73WhuCs10kw0s2Bz) | [中川理沙](https://open.spotify.com/artist/4MyrgJ1rFn4ZxeKIH49jDO) | [動物の庭](https://open.spotify.com/album/42oeZcCANlpXLzGq1nAunm) | 4:45 | 2023-10-03 | 2023-10-18 |

@@ -1,6 +1,6 @@
 {
   "description": "Melodik T\u00fcrk\u00e7e \u015fark\u0131larla yaz boyu sahildesin \ud83c\udfd6\ufe0f",
-  "num_followers": 102776,
+  "num_followers": 102785,
   "original_name": "K\u0131y\u0131 Boyu",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-02-22 21:00:00",
       "album": {
-        "name": "K\u00f6t\u00fc \u015eeyler",
-        "url": "https://open.spotify.com/album/6t2h7vZo0l0afyMHSALUR5"
-      },
-      "artists": [
-        {
-          "name": "Son Feci Bisiklet",
-          "url": "https://open.spotify.com/artist/4q2SZIdLq6YTc9cZLCclWc"
-        }
-      ],
-      "duration_ms": 179946,
-      "name": "Galiba Sevmiyorlar",
-      "url": "https://open.spotify.com/track/3AtWz3xBxCLeJlt7CXuHEB"
-    },
-    {
-      "added_at": "2024-02-22 21:00:00",
-      "album": {
         "name": "Turuncu",
         "url": "https://open.spotify.com/album/1phjztIsbUr26BqjYWh2QO"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 226400,
       "name": "Kumsalda",
       "url": "https://open.spotify.com/track/44P48IXl8neXU8K3YAKabd"
+    },
+    {
+      "added_at": "2024-02-22 21:00:00",
+      "album": {
+        "name": "K\u00f6t\u00fc \u015eeyler",
+        "url": "https://open.spotify.com/album/6t2h7vZo0l0afyMHSALUR5"
+      },
+      "artists": [
+        {
+          "name": "Son Feci Bisiklet",
+          "url": "https://open.spotify.com/artist/4q2SZIdLq6YTc9cZLCclWc"
+        }
+      ],
+      "duration_ms": 179946,
+      "name": "Galiba Sevmiyorlar",
+      "url": "https://open.spotify.com/track/3AtWz3xBxCLeJlt7CXuHEB"
     },
     {
       "added_at": "2024-02-22 21:00:00",
@@ -797,22 +797,6 @@
       "url": "https://open.spotify.com/track/2lfIKSkxC1z8Q7JzTufWFo"
     },
     {
-      "added_at": "2024-02-22 21:00:00",
-      "album": {
-        "name": "Ele G\u00fcne Kar\u015f\u0131 Yapayaln\u0131z",
-        "url": "https://open.spotify.com/album/0NyY9YsGb9YniAs5h6Eva4"
-      },
-      "artists": [
-        {
-          "name": "MF\u00d6",
-          "url": "https://open.spotify.com/artist/2jbrqAuwSdvwcMTbtvncND"
-        }
-      ],
-      "duration_ms": 237514,
-      "name": "Bodrum",
-      "url": "https://open.spotify.com/track/33xcUviev85baFUelQYX9y"
-    },
-    {
       "added_at": "2024-04-26 13:41:41",
       "album": {
         "name": "Ar\u015fipel",
@@ -827,6 +811,22 @@
       "duration_ms": 151066,
       "name": "Ar\u015fipel",
       "url": "https://open.spotify.com/track/6QvhGN8zxlXhPDskvLtTaJ"
+    },
+    {
+      "added_at": "2024-02-22 21:00:00",
+      "album": {
+        "name": "Ele G\u00fcne Kar\u015f\u0131 Yapayaln\u0131z",
+        "url": "https://open.spotify.com/album/0NyY9YsGb9YniAs5h6Eva4"
+      },
+      "artists": [
+        {
+          "name": "MF\u00d6",
+          "url": "https://open.spotify.com/artist/2jbrqAuwSdvwcMTbtvncND"
+        }
+      ],
+      "duration_ms": 237514,
+      "name": "Bodrum",
+      "url": "https://open.spotify.com/track/33xcUviev85baFUelQYX9y"
     },
     {
       "added_at": "2024-02-22 21:00:00",

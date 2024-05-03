@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Real nasty house. Cover: ero808",
+  "description": "Real nasty house. Cover: Eleganto",
   "name": "Nasty Bits",
   "tracks": [
     {
@@ -438,7 +438,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 185669,
       "name": "andale",
       "url": "https://open.spotify.com/track/6knkWNw6xJA1AMKqtMBd29"
@@ -2174,7 +2174,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 129642,
       "name": "Bricks",
       "url": "https://open.spotify.com/track/7Fh5Q7Hg1H7CX1jVQY2Dgm"
@@ -2276,7 +2276,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 148538,
       "name": "BUBBLEGUM",
       "url": "https://open.spotify.com/track/3VQWkf0zg6397V3ql6mwMq"
@@ -3809,6 +3809,24 @@
     },
     {
       "album": {
+        "name": "One Of A Kind",
+        "url": "https://open.spotify.com/album/51qnbLBwQgEtihtp0xEUkP"
+      },
+      "artists": [
+        {
+          "name": "Eleganto",
+          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228750,
+      "name": "Does It Seem",
+      "url": "https://open.spotify.com/track/6LtdHK1U2li7mFcHl0agoN"
+    },
+    {
+      "album": {
         "name": "DOJA",
         "url": "https://open.spotify.com/album/2F0MtotAFhIaMTIk4cLVuL"
       },
@@ -4036,7 +4054,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 128690,
       "name": "Drop",
       "url": "https://open.spotify.com/track/5iscY6uoraOqqKurX7G8S9"
@@ -6811,6 +6829,28 @@
     },
     {
       "album": {
+        "name": "I Just Wanna",
+        "url": "https://open.spotify.com/album/5ghrKBTszcAkPeMWrzcl8K"
+      },
+      "artists": [
+        {
+          "name": "Kriss Reeve",
+          "url": "https://open.spotify.com/artist/5oS267l8pGKqJmh9ZhCYGS"
+        },
+        {
+          "name": "CHOCO",
+          "url": "https://open.spotify.com/artist/5G3xTFJKwRceJK9SBNCk2f"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168281,
+      "name": "I Just Wanna",
+      "url": "https://open.spotify.com/track/3PfFnAMDnkuDrTdXuz8W2L"
+    },
+    {
+      "album": {
         "name": "I Know",
         "url": "https://open.spotify.com/album/4PEATKNNKmWcSoRLyVQDRS"
       },
@@ -8004,6 +8044,24 @@
       "duration_ms": 232380,
       "name": "Lit",
       "url": "https://open.spotify.com/track/5iRHH6jgRk0JLTX0lmMRwk"
+    },
+    {
+      "album": {
+        "name": "Little Luv",
+        "url": "https://open.spotify.com/album/6kIQiqvRdTriDaBxfWfceo"
+      },
+      "artists": [
+        {
+          "name": "Cheyenne Giles",
+          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196190,
+      "name": "Little Luv",
+      "url": "https://open.spotify.com/track/2pWXBBrVw4tqfCcmt4I3Gs"
     },
     {
       "album": {
@@ -9239,6 +9297,32 @@
     },
     {
       "album": {
+        "name": "Nite Mode",
+        "url": "https://open.spotify.com/album/40Vru2ZPCcWG3ajA1sXxgz"
+      },
+      "artists": [
+        {
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        },
+        {
+          "name": "Trip Trop",
+          "url": "https://open.spotify.com/artist/6LmNUSHJnlW7mtrLO4ovKX"
+        },
+        {
+          "name": "Britt Lari",
+          "url": "https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181300,
+      "name": "Nite Mode",
+      "url": "https://open.spotify.com/track/4VZM7lUyMpZOYs218ZmRii"
+    },
+    {
+      "album": {
         "name": "No Balance",
         "url": "https://open.spotify.com/album/6E1CcygWnu22e8wNXrovR8"
       },
@@ -10374,7 +10458,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 211163,
       "name": "Policia",
       "url": "https://open.spotify.com/track/6AqlZeTJGRHuRKUAbc9kqP"
@@ -11177,6 +11261,24 @@
     },
     {
       "album": {
+        "name": "Riff",
+        "url": "https://open.spotify.com/album/4YREza2vW92hx1aumCceSf"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Riff",
+      "url": "https://open.spotify.com/track/7xG6aGSYbas8SWYNtAJrPM"
+    },
+    {
+      "album": {
         "name": "Right Away",
         "url": "https://open.spotify.com/album/1SYHVmR9FkQxkETjFEDgNe"
       },
@@ -11386,6 +11488,24 @@
       "duration_ms": 259775,
       "name": "Rollin' in my Ride",
       "url": "https://open.spotify.com/track/1mV5ZTsAdpUhYyRxDNNPR0"
+    },
+    {
+      "album": {
+        "name": "rubber bands",
+        "url": "https://open.spotify.com/album/7uw3ectXrPfxkrN9o9xx8M"
+      },
+      "artists": [
+        {
+          "name": "WATEVA",
+          "url": "https://open.spotify.com/artist/68D0OoPnJ7buwHp1YGrckH"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163809,
+      "name": "rubber bands",
+      "url": "https://open.spotify.com/track/5x0yLQDsZDr1UNZKF97yI0"
     },
     {
       "album": {
@@ -11988,7 +12108,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 190498,
       "name": "Silent",
       "url": "https://open.spotify.com/track/5MvvEKnfgMVLLBkzsgStpD"
@@ -12466,7 +12586,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 185625,
       "name": "Strut",
       "url": "https://open.spotify.com/track/02IzZ88gNb3RUhmk43wkLD"
@@ -12616,7 +12736,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 181874,
       "name": "Supah Fly",
       "url": "https://open.spotify.com/track/4zndIOEwqNne000JFuaGoD"
@@ -12784,6 +12904,24 @@
       "duration_ms": 134000,
       "name": "Table Dancers",
       "url": "https://open.spotify.com/track/7eFUHxT7pJiJXOmUydFMJW"
+    },
+    {
+      "album": {
+        "name": "Taka Taka",
+        "url": "https://open.spotify.com/album/4Vs1zr6tJ8d2l3lfTdu9sO"
+      },
+      "artists": [
+        {
+          "name": "BUTTER",
+          "url": "https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155550,
+      "name": "Taka Taka",
+      "url": "https://open.spotify.com/track/0NVYKISyo8GbUJ6ArFyKCy"
     },
     {
       "album": {
@@ -14058,6 +14196,24 @@
       "duration_ms": 236065,
       "name": "UNTZ [NYC Rage Fest]",
       "url": "https://open.spotify.com/track/3kQWSyGNJCa5JuL4YgFWgE"
+    },
+    {
+      "album": {
+        "name": "Up is Down",
+        "url": "https://open.spotify.com/album/6oEri5AEs70JB2Gf4IsALb"
+      },
+      "artists": [
+        {
+          "name": "Zingara",
+          "url": "https://open.spotify.com/artist/5LxbXRVEMOw6i1WSa2YQn1"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205975,
+      "name": "Up is Down",
+      "url": "https://open.spotify.com/track/0xWGZsahvCkVoYE40DVnAZ"
     },
     {
       "album": {

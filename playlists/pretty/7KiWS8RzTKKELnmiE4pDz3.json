@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAciuFtkVgXUmS+frOhvrXQmWtSLOmk",
+  "snapshot_id": "AAAcjJWa4QKflwUqrAQK2tN33+bso3AE",
   "tracks": [
     {
       "added_at": "2022-09-26 20:53:27",
@@ -1563,6 +1563,42 @@
       "duration_ms": 253663,
       "name": "SCIENTISTS & ENGINEERS (feat. Future & Eryn Allen Kane)",
       "url": "https://open.spotify.com/track/1UsPflAuWTNteFUPJAJe8E"
+    },
+    {
+      "added_at": "2024-05-02 12:53:48",
+      "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 174560,
+      "name": "Metro Spider (with Young Thug)",
+      "url": "https://open.spotify.com/track/2VtgzixdB967bHDNu5A1nh"
+    },
+    {
+      "added_at": "2024-05-02 23:32:13",
+      "album": {
+        "name": "Thinking Out Loud",
+        "url": "https://open.spotify.com/album/3jNB3NFlcze1sc2BuK4Rlj"
+      },
+      "artists": [
+        {
+          "name": "Young Dolph",
+          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
+        }
+      ],
+      "duration_ms": 118491,
+      "name": "Eddie Cane",
+      "url": "https://open.spotify.com/track/4ayIDD3cOVqsSLblJmmPP1"
     }
   ],
   "unique_name": "main ",

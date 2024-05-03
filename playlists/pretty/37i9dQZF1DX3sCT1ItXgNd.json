@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Sebasti\u00e1n Yatra, Aitana",
-  "num_followers": 961319,
+  "num_followers": 961410,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
@@ -183,6 +183,22 @@
     {
       "added_at": "2024-04-25 22:01:00",
       "album": {
+        "name": "Faltas T\u00fa",
+        "url": "https://open.spotify.com/album/0ZNk0pIBMIIDgutlALp6ia"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 201836,
+      "name": "Faltas T\u00fa",
+      "url": "https://open.spotify.com/track/4mIc3AQWkqLb2LVjkVKv4K"
+    },
+    {
+      "added_at": "2024-04-25 22:01:00",
+      "album": {
         "name": "Casanova",
         "url": "https://open.spotify.com/album/0igR3TtSOtN4dCTFH9wA71"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 243806,
       "name": "Casanova",
       "url": "https://open.spotify.com/track/0qZhK4gFB5c1Wxsnd6WA8U"
-    },
-    {
-      "added_at": "2024-04-25 22:01:00",
-      "album": {
-        "name": "Faltas T\u00fa",
-        "url": "https://open.spotify.com/album/0ZNk0pIBMIIDgutlALp6ia"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 201836,
-      "name": "Faltas T\u00fa",
-      "url": "https://open.spotify.com/track/4mIc3AQWkqLb2LVjkVKv4K"
     },
     {
       "added_at": "2024-04-25 22:01:00",
@@ -295,6 +295,22 @@
     {
       "added_at": "2024-04-25 22:01:00",
       "album": {
+        "name": "Bailando Bachata",
+        "url": "https://open.spotify.com/album/6NthM7pMQaf9oO8KO4zrNe"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 170809,
+      "name": "Bailando Bachata",
+      "url": "https://open.spotify.com/track/0nKu6ysQjldXxABnxMu7kL"
+    },
+    {
+      "added_at": "2024-04-25 22:01:00",
+      "album": {
         "name": "Mamasota",
         "url": "https://open.spotify.com/album/4QVQv92wU7pvi5zTOStXel"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 216424,
       "name": "Mamasota",
       "url": "https://open.spotify.com/track/2X8PYX9YX49hA0YeFnWTGZ"
-    },
-    {
-      "added_at": "2024-04-25 22:01:00",
-      "album": {
-        "name": "Bailando Bachata",
-        "url": "https://open.spotify.com/album/6NthM7pMQaf9oO8KO4zrNe"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 170809,
-      "name": "Bailando Bachata",
-      "url": "https://open.spotify.com/track/0nKu6ysQjldXxABnxMu7kL"
     },
     {
       "added_at": "2024-04-25 22:01:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-04-25 22:01:00",
       "album": {
-        "name": "Tarde",
-        "url": "https://open.spotify.com/album/4S33ZpEVs5S2RqcqkM4KGF"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 162181,
-      "name": "Tarde",
-      "url": "https://open.spotify.com/track/1rGqazNAf6UvmnAC7a5M3B"
-    },
-    {
-      "added_at": "2024-04-25 22:01:00",
-      "album": {
         "name": "Ojos Verdes",
         "url": "https://open.spotify.com/album/4EeOwzI5OcHYrETtQqkmQk"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 142410,
       "name": "Ojos Verdes",
       "url": "https://open.spotify.com/track/2RmtEc2ZNDCzAU3vH0AbKx"
+    },
+    {
+      "added_at": "2024-04-25 22:01:00",
+      "album": {
+        "name": "Tarde",
+        "url": "https://open.spotify.com/album/4S33ZpEVs5S2RqcqkM4KGF"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 162181,
+      "name": "Tarde",
+      "url": "https://open.spotify.com/track/1rGqazNAf6UvmnAC7a5M3B"
     },
     {
       "added_at": "2024-04-25 22:01:00",
@@ -439,26 +439,6 @@
     {
       "added_at": "2024-04-25 22:01:00",
       "album": {
-        "name": "FINAL (Vol.2)",
-        "url": "https://open.spotify.com/album/5LHd4piJoHcz4CXhjsFKxx"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        }
-      ],
-      "duration_ms": 186366,
-      "name": "La Botella",
-      "url": "https://open.spotify.com/track/5zkZazxkRze7ub2fT8Xv8u"
-    },
-    {
-      "added_at": "2024-04-25 22:01:00",
-      "album": {
         "name": "Bahamas",
         "url": "https://open.spotify.com/album/2t2TGRu7yTlcXjMbdBZmbS"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 223728,
       "name": "Bahamas",
       "url": "https://open.spotify.com/track/3BWpv2yBYqreJmcPiHkuVC"
+    },
+    {
+      "added_at": "2024-04-25 22:01:00",
+      "album": {
+        "name": "FINAL (Vol.2)",
+        "url": "https://open.spotify.com/album/5LHd4piJoHcz4CXhjsFKxx"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "duration_ms": 186366,
+      "name": "La Botella",
+      "url": "https://open.spotify.com/track/5zkZazxkRze7ub2fT8Xv8u"
     },
     {
       "added_at": "2024-04-25 22:01:00",
@@ -615,6 +615,26 @@
     {
       "added_at": "2024-04-25 22:01:00",
       "album": {
+        "name": "Roma",
+        "url": "https://open.spotify.com/album/4DnvHbATghPcy74q4jdFtR"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 207666,
+      "name": "Roma",
+      "url": "https://open.spotify.com/track/400MKqqBq8rsrKSk2l4bgZ"
+    },
+    {
+      "added_at": "2024-04-25 22:01:00",
+      "album": {
         "name": "COBARDE",
         "url": "https://open.spotify.com/album/5OZzcXlWpCUFz5sNa09zy6"
       },
@@ -647,26 +667,6 @@
       "duration_ms": 176881,
       "name": "Palabra Prohibida",
       "url": "https://open.spotify.com/track/4sRulaggpSTT3mLCZsaJ5v"
-    },
-    {
-      "added_at": "2024-04-25 22:01:00",
-      "album": {
-        "name": "Roma",
-        "url": "https://open.spotify.com/album/4DnvHbATghPcy74q4jdFtR"
-      },
-      "artists": [
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        },
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 207666,
-      "name": "Roma",
-      "url": "https://open.spotify.com/track/400MKqqBq8rsrKSk2l4bgZ"
     },
     {
       "added_at": "2024-04-25 22:01:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-04-25 22:01:00",
       "album": {
-        "name": "Coraz\u00f3n Quemado",
-        "url": "https://open.spotify.com/album/3Z4oiCXucKORyireiaaYev"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        }
-      ],
-      "duration_ms": 185473,
-      "name": "Coraz\u00f3n Quemado",
-      "url": "https://open.spotify.com/track/6IGEcJDI3vTApF34vv5OT7"
-    },
-    {
-      "added_at": "2024-04-25 22:01:00",
-      "album": {
         "name": "\u00c1NGEL",
         "url": "https://open.spotify.com/album/3g5VwrXN4bKoU9UKux5k5N"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 187240,
       "name": "Ella",
       "url": "https://open.spotify.com/track/1DPtfQYOFB9IAEk1o4qBmS"
+    },
+    {
+      "added_at": "2024-04-25 22:01:00",
+      "album": {
+        "name": "La Romana",
+        "url": "https://open.spotify.com/album/2zn0zFvTLqWtrFM4qIZhBd"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        }
+      ],
+      "duration_ms": 155853,
+      "name": "La Romana",
+      "url": "https://open.spotify.com/track/6SwuM3zEorFitaGONgDFbb"
     },
     {
       "added_at": "2024-04-25 22:01:00",
@@ -791,18 +791,18 @@
     {
       "added_at": "2024-04-25 22:01:00",
       "album": {
-        "name": "La Romana",
-        "url": "https://open.spotify.com/album/2zn0zFvTLqWtrFM4qIZhBd"
+        "name": "Coraz\u00f3n Quemado",
+        "url": "https://open.spotify.com/album/3Z4oiCXucKORyireiaaYev"
       },
       "artists": [
         {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
         }
       ],
-      "duration_ms": 155853,
-      "name": "La Romana",
-      "url": "https://open.spotify.com/track/6SwuM3zEorFitaGONgDFbb"
+      "duration_ms": 185473,
+      "name": "Coraz\u00f3n Quemado",
+      "url": "https://open.spotify.com/track/6IGEcJDI3vTApF34vv5OT7"
     },
     {
       "added_at": "2024-04-25 22:01:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "La playlist che \u00e8 come andare ai concerti. Novit\u00e0 rock, indie e punk dall'Italia! Cara Calma in cover.",
+  "description": "La playlist che \u00e8 come andare ai concerti. Novit\u00e0 rock, indie e punk dall'Italia! Gaia Morelli in cover.",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -78,6 +78,24 @@
       "duration_ms": 218790,
       "name": "118 (feat. Claudio Santamaria)",
       "url": "https://open.spotify.com/track/7bgmhnVEmCFrMB3Byr0r9R"
+    },
+    {
+      "album": {
+        "name": "146",
+        "url": "https://open.spotify.com/album/6NYAhD1vD29I8D8fJyXG6a"
+      },
+      "artists": [
+        {
+          "name": "MILLE",
+          "url": "https://open.spotify.com/artist/2X5RjwWkxAg9WBce3BLoJj"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206587,
+      "name": "146",
+      "url": "https://open.spotify.com/track/1mu2TX3eKAjbPZQa93okGE"
     },
     {
       "album": {
@@ -384,7 +402,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 194120,
       "name": "adesso",
       "url": "https://open.spotify.com/track/2JgIA29erF0M21VHHR4MtH"
@@ -1014,7 +1032,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 205426,
       "name": "Artiminime",
       "url": "https://open.spotify.com/track/1wutWLkqvpzL6HkN8pgfJt"
@@ -1706,7 +1724,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 178114,
       "name": "Brescia inferno",
       "url": "https://open.spotify.com/track/6yS1MHKoyUkZJALqJulkDt"
@@ -2456,7 +2474,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 222545,
       "name": "Carpet Ceiling",
       "url": "https://open.spotify.com/track/2pAzqee5GrHB4mmFX4QsrV"
@@ -3434,7 +3452,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 400000,
       "name": "Costruirei",
       "url": "https://open.spotify.com/track/6O5VObrsnYMTgMQjWUbUO3"
@@ -5177,6 +5195,24 @@
     },
     {
       "album": {
+        "name": "Rosa",
+        "url": "https://open.spotify.com/album/5AUyQJxULxwsYneVdHgahN"
+      },
+      "artists": [
+        {
+          "name": "Zolle",
+          "url": "https://open.spotify.com/artist/7jnxvV5QpmpVb8ghZlHwKG"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189160,
+      "name": "Fiocco",
+      "url": "https://open.spotify.com/track/0yBaJyBsYUCZ81DJxwua3k"
+    },
+    {
+      "album": {
         "name": "Fiorella Mannoia",
         "url": "https://open.spotify.com/album/4U9pCqXjim96u5NtzHhLfF"
       },
@@ -6076,7 +6112,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 223780,
       "name": "Grattacieli",
       "url": "https://open.spotify.com/track/6wgHODpq324HUhYl0BCNN0"
@@ -6094,7 +6130,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 168000,
       "name": "Green Visitors",
       "url": "https://open.spotify.com/track/7lj6v3abp8qOfaW6dq6Et7"
@@ -7358,7 +7394,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 165697,
       "name": "jealous.",
       "url": "https://open.spotify.com/track/6itqtWRy9lzxbJJ58ydUuw"
@@ -7420,6 +7456,24 @@
       "duration_ms": 159716,
       "name": "Jello",
       "url": "https://open.spotify.com/track/53nhFKZZoeAtWPbSq3RxS4"
+    },
+    {
+      "album": {
+        "name": "Jim",
+        "url": "https://open.spotify.com/album/5vUJm75YH4gFr1U5daztsr"
+      },
+      "artists": [
+        {
+          "name": "I Hate My Village",
+          "url": "https://open.spotify.com/artist/7eXKbj6KaS8vlLeF0IVgX7"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190239,
+      "name": "Jim",
+      "url": "https://open.spotify.com/track/5njkPi9zdqTuNaK4gYmn4b"
     },
     {
       "album": {
@@ -8786,7 +8840,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 117693,
       "name": "Mani E Calcolatrici (Elderly In A Hurry)",
       "url": "https://open.spotify.com/track/55CHtuKxC6ksrKxVDOCjpi"
@@ -9705,6 +9759,24 @@
     },
     {
       "album": {
+        "name": "Canti, Vol. I",
+        "url": "https://open.spotify.com/album/0QLCMuuiun3i2T6hsufBlo"
+      },
+      "artists": [
+        {
+          "name": "ONDAKEIKI",
+          "url": "https://open.spotify.com/artist/2sb3erMdYBN1W2jGtL14BG"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434000,
+      "name": "Nel Tempio Blu",
+      "url": "https://open.spotify.com/track/7IcLUN0igVIWMHuvVp3GwZ"
+    },
+    {
+      "album": {
         "name": "Nero",
         "url": "https://open.spotify.com/album/2qqvvjJQjNslhqEcI5GIjF"
       },
@@ -10505,6 +10577,24 @@
     },
     {
       "album": {
+        "name": "Odio cantare",
+        "url": "https://open.spotify.com/album/6UpP1ZI5035IGbZgBPGKnL"
+      },
+      "artists": [
+        {
+          "name": "La Municip\u00e0l",
+          "url": "https://open.spotify.com/artist/1wQ8rxWLB8fPUHx49l3q5L"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237042,
+      "name": "Odio cantare",
+      "url": "https://open.spotify.com/track/4fUXe5nUnuS2kfFqBxdiBg"
+    },
+    {
+      "album": {
         "name": "RUSH! (ARE U COMING?)",
         "url": "https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8"
       },
@@ -10704,6 +10794,24 @@
       "duration_ms": 200475,
       "name": "Palle piene",
       "url": "https://open.spotify.com/track/5pUX3YSJvol5sBzAmBEIGb"
+    },
+    {
+      "album": {
+        "name": "ti ho dato tutto non cerco che questo",
+        "url": "https://open.spotify.com/album/4P8GyV9bd6XB0e04BWBu05"
+      },
+      "artists": [
+        {
+          "name": "giovanni pedersini",
+          "url": "https://open.spotify.com/artist/7st4Lxa5DqYksukGujvxpr"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188800,
+      "name": "panfilo",
+      "url": "https://open.spotify.com/track/7mblNJ7YP0qY9qRvcJX4ql"
     },
     {
       "album": {
@@ -11028,7 +11136,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 219670,
       "name": "PER FORTUNA CHE CI SONO IO",
       "url": "https://open.spotify.com/track/6jACDurC6Zhjvt6fKJstZl"
@@ -12767,6 +12875,28 @@
     },
     {
       "album": {
+        "name": "Scemi e Contenti",
+        "url": "https://open.spotify.com/album/6eRxWC6vjtEwhM3Lk5c6gw"
+      },
+      "artists": [
+        {
+          "name": "Etta",
+          "url": "https://open.spotify.com/artist/2U2hbzE2tUhswaUQipbQVB"
+        },
+        {
+          "name": "Vipra",
+          "url": "https://open.spotify.com/artist/7dgdNuafECpS8mfa8nSA0T"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180250,
+      "name": "Scemi e Contenti (feat. Vipra)",
+      "url": "https://open.spotify.com/track/5dcPv75HyHNckrd7FWDNet"
+    },
+    {
+      "album": {
         "name": "SCEMO/ABBRACCIAMI",
         "url": "https://open.spotify.com/album/20618vupO5mmUf4DoVYZAM"
       },
@@ -13737,6 +13867,24 @@
     },
     {
       "album": {
+        "name": "Stare male con te",
+        "url": "https://open.spotify.com/album/5w0KQxoLjujCdb0oHTyjww"
+      },
+      "artists": [
+        {
+          "name": "GIIN",
+          "url": "https://open.spotify.com/artist/5FqDKPJK3RSwGTW4rlBJFM"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176358,
+      "name": "Stare male con te",
+      "url": "https://open.spotify.com/track/3oE9xAVtiAw5xY6Dt0cXor"
+    },
+    {
+      "album": {
         "name": "Da cos\u00ec lontano",
         "url": "https://open.spotify.com/album/77h73NDhSPBayfCsKrVs75"
       },
@@ -13842,7 +13990,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 179194,
       "name": "STIRPE DI FARMACI",
       "url": "https://open.spotify.com/track/1NrLIDeifzsclWcfO7wzP2"
@@ -14702,7 +14850,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 205580,
       "name": "Ti Amerei",
       "url": "https://open.spotify.com/track/09EeLpRYDS8Qxk5Q7mOa1A"
@@ -16032,7 +16180,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 205818,
       "name": "VIVO",
       "url": "https://open.spotify.com/track/1AKdXiYcmFNohrmunRRPt9"

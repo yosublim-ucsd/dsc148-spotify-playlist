@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "Sentidos Congelados",
+        "url": "https://open.spotify.com/album/0wXerl0nWKYZYAaMj18oVQ"
+      },
+      "artists": [
+        {
+          "name": "Sobrecarga",
+          "url": "https://open.spotify.com/artist/49UpIRD1s5bMEhbYYTnqUD"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301200,
+      "name": "Conexi\u00f3n Par\u00eds",
+      "url": "https://open.spotify.com/track/24X9r3zeRgB4VTLz75TRw9"
+    },
+    {
+      "album": {
         "name": "Noche y D\u00eda",
         "url": "https://open.spotify.com/album/0FWccOOClD62jDsDvqj6Gl"
       },
@@ -1406,7 +1424,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 235906,
       "name": "S\u00f3lo Quiero Rock and Roll",
       "url": "https://open.spotify.com/track/5f5b4AlzF42gLjrentic5P"

@@ -1360,7 +1360,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 175373,
       "name": "Don\u2019t Kill The Groove",
       "url": "https://open.spotify.com/track/4yOVPMnul0AFigIUX0yZ22"
@@ -3509,6 +3509,24 @@
     },
     {
       "album": {
+        "name": "One Big Family",
+        "url": "https://open.spotify.com/album/2PchYg2ROw2n04u23q9fe3"
+      },
+      "artists": [
+        {
+          "name": "Oke",
+          "url": "https://open.spotify.com/artist/2iYuQedAM3oShovJ0KK1Lo"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138253,
+      "name": "One Big Family",
+      "url": "https://open.spotify.com/track/0OKHeGWzWQR2QFJsGfolum"
+    },
+    {
+      "album": {
         "name": "Ride Away",
         "url": "https://open.spotify.com/album/735E1oxxzqMBQ8mxL2ZGf1"
       },
@@ -5139,6 +5157,28 @@
     },
     {
       "album": {
+        "name": "Optimism",
+        "url": "https://open.spotify.com/album/1JDlPKa7aBeOTxmKWC3YH1"
+      },
+      "artists": [
+        {
+          "name": "Michael Gray",
+          "url": "https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz"
+        },
+        {
+          "name": "LaMay",
+          "url": "https://open.spotify.com/artist/5grXpHDL1GkY7eWz2YjOkz"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226051,
+      "name": "Virtual Cool",
+      "url": "https://open.spotify.com/track/56syPQlAsZZukc0qeqvEZJ"
+    },
+    {
+      "album": {
         "name": "Last Man Dancing",
         "url": "https://open.spotify.com/album/3xm2whAWztIc9kHD3V0DMt"
       },
@@ -5442,7 +5482,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 228829,
       "name": "You\u2019re Gonna Make Me Love Somebody Else (feat. Kelli Sae) - Michael Gray Remix",
       "url": "https://open.spotify.com/track/6co4kLDedobQeZFVSp523C"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "The R&B and good vibe tracks for your current mood. Cover: yuji",
+  "description": "The R&B and good vibe tracks for your current mood. Cover: Cupnoodle",
   "name": "mood.",
   "tracks": [
     {
@@ -3183,6 +3183,24 @@
     },
     {
       "album": {
+        "name": "EX",
+        "url": "https://open.spotify.com/album/4mWqh7YtQpM8rKOYYTncig"
+      },
+      "artists": [
+        {
+          "name": "Cupnoodle",
+          "url": "https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171500,
+      "name": "EX",
+      "url": "https://open.spotify.com/track/2jHipIIvKgwU9mfqSnyO8u"
+    },
+    {
+      "album": {
         "name": "Exist/Exit",
         "url": "https://open.spotify.com/album/3EXKr7MzMre3pcaWteHeqz"
       },
@@ -3556,7 +3574,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 119117,
       "name": "Feelings For You",
       "url": "https://open.spotify.com/track/6mWiNbLn42n9owATnMSVau"
@@ -5468,7 +5486,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 217514,
       "name": "I'm So High",
       "url": "https://open.spotify.com/track/0OsOsFGRsNsn6ncyOkr2Uo"
@@ -9228,7 +9246,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 208327,
       "name": "redlight",
       "url": "https://open.spotify.com/track/4usL9yvJ80iPtLGNgCQWKj"
@@ -10401,6 +10419,24 @@
     },
     {
       "album": {
+        "name": "Smoke and Mirrors",
+        "url": "https://open.spotify.com/album/3PJV7f6A5BtV8eiYCSZdJH"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199385,
+      "name": "Smoke and Mirrors",
+      "url": "https://open.spotify.com/track/1WUwrMCXTFxuOdxf3ltVVN"
+    },
+    {
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
@@ -11098,6 +11134,28 @@
       "duration_ms": 129875,
       "name": "SUNKISSED",
       "url": "https://open.spotify.com/track/7sDCq4JqQJeZZ1tpEVacaZ"
+    },
+    {
+      "album": {
+        "name": "Sunny When I'm With You",
+        "url": "https://open.spotify.com/album/5wlnSQbgrirIifiisWn94E"
+      },
+      "artists": [
+        {
+          "name": "Ysanygo",
+          "url": "https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ"
+        },
+        {
+          "name": "Purplecat",
+          "url": "https://open.spotify.com/artist/2oxXzHzL7FaXIE29VwWPvN"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Sunny When I'm With You",
+      "url": "https://open.spotify.com/track/28ZIuMr3gGVhdZO12SvAvB"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "All the indie gems from 2023 that may have flown under your radar! Cover: The Last Dinner Party",
-  "num_followers": 19311,
+  "num_followers": 19306,
   "original_name": "Indie songs from 2023 you may have missed",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
+        "name": "I Like It",
+        "url": "https://open.spotify.com/album/2dOegifzkyE9ZrdwW33tq4"
+      },
+      "artists": [
+        {
+          "name": "Teenage Dads",
+          "url": "https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw"
+        }
+      ],
+      "duration_ms": 181443,
+      "name": "I Like It",
+      "url": "https://open.spotify.com/track/3ouCBumDkGHdhIAHavtvya"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
         "name": "Salt",
         "url": "https://open.spotify.com/album/1i029CHfpOok9L5nC1JWO2"
       },
@@ -703,22 +719,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "I Like It",
-        "url": "https://open.spotify.com/album/2dOegifzkyE9ZrdwW33tq4"
-      },
-      "artists": [
-        {
-          "name": "Teenage Dads",
-          "url": "https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw"
-        }
-      ],
-      "duration_ms": 181443,
-      "name": "I Like It",
-      "url": "https://open.spotify.com/track/3ouCBumDkGHdhIAHavtvya"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "Everyone's Crushed",
         "url": "https://open.spotify.com/album/0IzgQa9rNXzaEdj0bmHvpr"
       },
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "I Need Therapy 2.4 (alt_demo)",
-        "url": "https://open.spotify.com/album/6YQvIFdk95oCIGcO4sCI05"
-      },
-      "artists": [
-        {
-          "name": "JACOT\u00c9NE",
-          "url": "https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd"
-        }
-      ],
-      "duration_ms": 126450,
-      "name": "I Need Therapy 2.4 (alt_demo)",
-      "url": "https://open.spotify.com/track/3kHfDibfmgiZR5eLodqjx8"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "Flowers At Your Feet",
         "url": "https://open.spotify.com/album/2SAtIfz2jFRAn36xCUT8xd"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 161360,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/4Z1olDl8aym5xZYZAat672"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "I Need Therapy 2.4 (alt_demo)",
+        "url": "https://open.spotify.com/album/6YQvIFdk95oCIGcO4sCI05"
+      },
+      "artists": [
+        {
+          "name": "JACOT\u00c9NE",
+          "url": "https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd"
+        }
+      ],
+      "duration_ms": 126450,
+      "name": "I Need Therapy 2.4 (alt_demo)",
+      "url": "https://open.spotify.com/track/3kHfDibfmgiZR5eLodqjx8"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "I LOVE THE INTERNET",
-        "url": "https://open.spotify.com/album/4e2OFPbCzqEQfRIKnk1NoG"
-      },
-      "artists": [
-        {
-          "name": "Pam Rabbit",
-          "url": "https://open.spotify.com/artist/60jJZhMQOPHeCvoBosXVWU"
-        }
-      ],
-      "duration_ms": 150533,
-      "name": "npc",
-      "url": "https://open.spotify.com/track/4Pr1T6HsveEYhcg4TqQVpB"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "GIZMO",
         "url": "https://open.spotify.com/album/7mUxu7byX5w4tdgKuUWuX1"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 112400,
       "name": "Don't Give Up",
       "url": "https://open.spotify.com/track/7M3WfnNGtgWsY0h3KEpWUP"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "I LOVE THE INTERNET",
+        "url": "https://open.spotify.com/album/4e2OFPbCzqEQfRIKnk1NoG"
+      },
+      "artists": [
+        {
+          "name": "Pam Rabbit",
+          "url": "https://open.spotify.com/artist/60jJZhMQOPHeCvoBosXVWU"
+        }
+      ],
+      "duration_ms": 150533,
+      "name": "npc",
+      "url": "https://open.spotify.com/track/4Pr1T6HsveEYhcg4TqQVpB"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "pink dress",
-        "url": "https://open.spotify.com/album/2By8efmDvVvtVaWyJdyx0s"
-      },
-      "artists": [
-        {
-          "name": "Humble the Great",
-          "url": "https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP"
-        }
-      ],
-      "duration_ms": 173329,
-      "name": "pink dress",
-      "url": "https://open.spotify.com/track/2MBuWN9LjsJSKyGlWSJOXo"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "Around Around Around",
         "url": "https://open.spotify.com/album/2MYklOw9nV8QDGB3AZM51P"
       },
@@ -1039,18 +1023,18 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "& the Charm",
-        "url": "https://open.spotify.com/album/6gRl7N6UQKKmXCv3nhYlMu"
+        "name": "pink dress",
+        "url": "https://open.spotify.com/album/2By8efmDvVvtVaWyJdyx0s"
       },
       "artists": [
         {
-          "name": "Avalon Emerson",
-          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
+          "name": "Humble the Great",
+          "url": "https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP"
         }
       ],
-      "duration_ms": 219833,
-      "name": "Astrology Poisoning",
-      "url": "https://open.spotify.com/track/2vYd15dPYelxBESvyviVbf"
+      "duration_ms": 173329,
+      "name": "pink dress",
+      "url": "https://open.spotify.com/track/2MBuWN9LjsJSKyGlWSJOXo"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1083,6 +1067,22 @@
       "duration_ms": 170213,
       "name": "Opposites don't attract",
       "url": "https://open.spotify.com/track/4WuBRsw8NvN8gAjiQGfVhM"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "& the Charm",
+        "url": "https://open.spotify.com/album/6gRl7N6UQKKmXCv3nhYlMu"
+      },
+      "artists": [
+        {
+          "name": "Avalon Emerson",
+          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
+        }
+      ],
+      "duration_ms": 219833,
+      "name": "Astrology Poisoning",
+      "url": "https://open.spotify.com/track/2vYd15dPYelxBESvyviVbf"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
+        "name": "Pain",
+        "url": "https://open.spotify.com/album/2lWIcMPOiABeVkejfvHzoE"
+      },
+      "artists": [
+        {
+          "name": "Theo Bleak",
+          "url": "https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk"
+        }
+      ],
+      "duration_ms": 180693,
+      "name": "Raining All The Time",
+      "url": "https://open.spotify.com/track/3Jvbp6UtnfNCTZqvlnAAbI"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
         "name": "Art By You",
         "url": "https://open.spotify.com/album/0m6ojmveTN9yM8NkAsiuAe"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 202945,
       "name": "water comes out of my eyes",
       "url": "https://open.spotify.com/track/4hQB5oBSXXncJnZACjgeVg"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
-        "name": "Pain",
-        "url": "https://open.spotify.com/album/2lWIcMPOiABeVkejfvHzoE"
-      },
-      "artists": [
-        {
-          "name": "Theo Bleak",
-          "url": "https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk"
-        }
-      ],
-      "duration_ms": 180693,
-      "name": "Raining All The Time",
-      "url": "https://open.spotify.com/track/3Jvbp6UtnfNCTZqvlnAAbI"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
+        "name": "Granny Music",
+        "url": "https://open.spotify.com/album/725p6TJKBuQ5CPK6pT9S2Q"
+      },
+      "artists": [
+        {
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
+        }
+      ],
+      "duration_ms": 214013,
+      "name": "Millionaire",
+      "url": "https://open.spotify.com/track/3NTgl4lHbIJw8p3bDanEa0"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
         "name": "A Bowl of Unripe Fruit",
         "url": "https://open.spotify.com/album/4fNncV3kbiDqfmJ6KBUR5d"
       },
@@ -1443,22 +1459,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "Granny Music",
-        "url": "https://open.spotify.com/album/725p6TJKBuQ5CPK6pT9S2Q"
-      },
-      "artists": [
-        {
-          "name": "Girl Scout",
-          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
-        }
-      ],
-      "duration_ms": 214013,
-      "name": "Millionaire",
-      "url": "https://open.spotify.com/track/3NTgl4lHbIJw8p3bDanEa0"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "Darling",
         "url": "https://open.spotify.com/album/5RPzyXi3rpoPtRhF5QaseW"
       },
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "you, green",
-        "url": "https://open.spotify.com/album/3n22PGmZoD2DTEr9AuBws4"
-      },
-      "artists": [
-        {
-          "name": "Sfven",
-          "url": "https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb"
-        }
-      ],
-      "duration_ms": 167078,
-      "name": "sideline, red wine lover",
-      "url": "https://open.spotify.com/track/4tCwtpj5QR1FLpCevAuGx3"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "ROACH",
         "url": "https://open.spotify.com/album/05PlYzA6iAlIjPclb5dUcb"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 200158,
       "name": "Shortstop",
       "url": "https://open.spotify.com/track/6NdmT2the0cqnj8ot18ryX"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "you, green",
+        "url": "https://open.spotify.com/album/3n22PGmZoD2DTEr9AuBws4"
+      },
+      "artists": [
+        {
+          "name": "Sfven",
+          "url": "https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb"
+        }
+      ],
+      "duration_ms": 167078,
+      "name": "sideline, red wine lover",
+      "url": "https://open.spotify.com/track/4tCwtpj5QR1FLpCevAuGx3"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1587,6 +1587,38 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
+        "name": "French Bath",
+        "url": "https://open.spotify.com/album/5XTxZ2RQerQJ1qramOYJOw"
+      },
+      "artists": [
+        {
+          "name": "May Rio",
+          "url": "https://open.spotify.com/artist/1SlT1K1OULPzNSwmieTA2w"
+        }
+      ],
+      "duration_ms": 161533,
+      "name": "NYC UMTs",
+      "url": "https://open.spotify.com/track/466O2QshkvjRtjC3sjqWMC"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "Census Designated",
+        "url": "https://open.spotify.com/album/0TsaSQLM21To1HMz2ou5yI"
+      },
+      "artists": [
+        {
+          "name": "Jane Remover",
+          "url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu"
+        }
+      ],
+      "duration_ms": 360511,
+      "name": "Census Designated",
+      "url": "https://open.spotify.com/track/5IhT2qYheXI0O2dHMmAb6B"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
         "name": "Mucho Peor - Spotify Singles",
         "url": "https://open.spotify.com/album/0TT1zlm2slQsgLfVq5UWcf"
       },
@@ -1611,38 +1643,6 @@
       "duration_ms": 211791,
       "name": "Mucho Peor - Spotify Singles",
       "url": "https://open.spotify.com/track/3hV8mynJ4tgoClJdqR9ARM"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
-        "name": "Census Designated",
-        "url": "https://open.spotify.com/album/0TsaSQLM21To1HMz2ou5yI"
-      },
-      "artists": [
-        {
-          "name": "Jane Remover",
-          "url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu"
-        }
-      ],
-      "duration_ms": 360511,
-      "name": "Census Designated",
-      "url": "https://open.spotify.com/track/5IhT2qYheXI0O2dHMmAb6B"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
-        "name": "French Bath",
-        "url": "https://open.spotify.com/album/5XTxZ2RQerQJ1qramOYJOw"
-      },
-      "artists": [
-        {
-          "name": "May Rio",
-          "url": "https://open.spotify.com/artist/1SlT1K1OULPzNSwmieTA2w"
-        }
-      ],
-      "duration_ms": 161533,
-      "name": "NYC UMTs",
-      "url": "https://open.spotify.com/track/466O2QshkvjRtjC3sjqWMC"
     },
     {
       "added_at": "2023-11-29 16:17:10",

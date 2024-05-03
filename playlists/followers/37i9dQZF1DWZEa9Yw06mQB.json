@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 385468,
+  "2024-05-03": 385565,
   "date_first_scraped": "2022-07-19",
   "description": "Los cl\u00e1sicos de hoy y siempre.",
   "name": "Mix Universal",
@@ -2845,7 +2845,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 270066,
       "name": "Last Train to London",
       "url": "https://open.spotify.com/track/6xE6ZWzK1YDDSYzqOCoQlz"
@@ -5565,7 +5565,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-09",
+      "date_removed": null,
       "duration_ms": 169840,
       "name": "You're The One That I Want - From \u201cGrease\u201d",
       "url": "https://open.spotify.com/track/0B9x2BRHqj3Qer7biM3pU3"

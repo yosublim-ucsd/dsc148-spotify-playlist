@@ -4,7 +4,7 @@
 
 > Evadez\-vous tout en douceur...
 
-157 songs - 8 hr 16 min
+158 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Broken Love](https://open.spotify.com/track/2sru5unW8B5KguId0rGVA0) | [RAZZ](https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l), [Jay Tastic](https://open.spotify.com/artist/1XpsXLUdznEbE60XLLdndG) | [Broken Love](https://open.spotify.com/album/7loqEPn2MK5ckcn3SMGghh) | 2:36 | 2024-01-05 | 2024-01-26 |
 | [Buscando Money](https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [Buscando Money](https://open.spotify.com/album/2kPKfMNrvUMOFVrFVENqrl) | 2:30 | 2024-02-09 | 2024-03-02 |
 | [Buscando Money](https://open.spotify.com/track/6vsKOJPjdxlYgRs8McgtCQ) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [Buscando Money](https://open.spotify.com/album/2dJSAvaObagSOskW5umnny) | 2:30 | 2024-02-23 | 2024-04-09 |
-| [Chasing Cars](https://open.spotify.com/track/1ByxuN2e68C9mAx85Vcumt) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Chasing Cars](https://open.spotify.com/album/5XWrAQqR08TOq4dl2Q4uOZ) | 4:38 | 2022-12-20 |  |
+| [Chasing Cars](https://open.spotify.com/track/1ByxuN2e68C9mAx85Vcumt) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Chasing Cars](https://open.spotify.com/album/5XWrAQqR08TOq4dl2Q4uOZ) | 4:38 | 2022-12-20 | 2024-05-03 |
 | [City of Love](https://open.spotify.com/track/3Cg22mWYpcDrCLWsgTaUwk) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [Nounours](https://open.spotify.com/artist/6FrEkw1iC6ljhne96c7a46) | [City of Love](https://open.spotify.com/album/6VBal2Bi7nsqo6RnXsdqBt) | 2:59 | 2022-12-20 | 2023-10-24 |
 | [Coming Over \- filous Remix](https://open.spotify.com/track/0dnPhZsmQTLH4vkLF3mInE) | [James Hersey](https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS), [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9) | [Coming Over \(filous Remix\)](https://open.spotify.com/album/43w7TPv4JtNTLfiEXBGsbF) | 3:18 | 2023-05-12 | 2023-10-14 |
 | [Coming Over \- filous Remix](https://open.spotify.com/track/0uIDxM4fdk9zHQzbhr5Jgq) | [James Hersey](https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS), [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9) | [Coming Over \(filous Remix\)](https://open.spotify.com/album/2RBt9kaHM6m0YqzOl5W13I) | 3:18 | 2024-04-18 |  |
@@ -146,6 +146,7 @@
 | [The Future](https://open.spotify.com/track/6HXdL92qb3doVllJ5yChnd) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [The Future](https://open.spotify.com/album/6fx6KRK3aaWihej7lWLO5s) | 3:44 | 2023-01-26 | 2023-05-13 |
 | [The Ghost in Your Smile](https://open.spotify.com/track/63FttXBXFyghH7q9CVIjcW) | [Gnarly Gibbs](https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ) | [The Ghost in Your Smile](https://open.spotify.com/album/3XanT5R6MH4AeDbSn5hJVa) | 3:14 | 2022-12-20 | 2024-01-06 |
 | [The Journey](https://open.spotify.com/track/7Js278ET3O52ymQd8LU5bq) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv) | [Soul Vibrations](https://open.spotify.com/album/1U8SQTNw2R6XgQ4RGfe8kF) | 3:51 | 2023-05-12 |  |
+| [The Last Bit Of Us \- Chuksie Remix](https://open.spotify.com/track/2JKUZyGj5w34lXFWORSj7i) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y), [Chuksie](https://open.spotify.com/artist/323SE5PFfnWu57IFUofLi9) | [The Last Bit Of Us \(Chuksie Remix\)](https://open.spotify.com/album/4kHODiVz8K6JJbMpZBcc3L) | 2:39 | 2024-05-02 |  |
 | [The Way It Is](https://open.spotify.com/track/6pSNRgtbbqRYgpwkVQqi3Z) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [The Way It Is](https://open.spotify.com/album/6eryNpfVWsLGm36OeISOaY) | 3:10 | 2022-12-20 | 2023-05-13 |
 | [The Way You Are](https://open.spotify.com/track/6GA2IIhY0nAvcEJeUAHJVp) | [Luca](https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4) | [The Way You Are](https://open.spotify.com/album/3ogCo42IAW95ttl6LwrBUL) | 3:06 | 2024-02-16 |  |
 | [Time For Reason](https://open.spotify.com/track/4s7QgMMyMlol6ccHoSwyyQ) | [Xad](https://open.spotify.com/artist/60fosQLJjKs0sFcKEYKdzG), [Robertson](https://open.spotify.com/artist/0RCvK1v4c4eoyieCb41Ums) | [Time For Reason](https://open.spotify.com/album/2QfLANVm2mt6wsX041LGhw) | 3:32 | 2022-12-20 | 2023-05-13 |

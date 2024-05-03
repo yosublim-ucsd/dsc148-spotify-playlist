@@ -1,12 +1,12 @@
 {
   "description": "This is girl in red. The essential tracks, all in one playlist.",
-  "num_followers": 249572,
+  "num_followers": 249596,
   "original_name": "This Is girl in red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjA0gAAAAAByKpW+x8p353KYQ9jk17SG",
+  "snapshot_id": "ZjGGAAAAAAB2SbpED5JGyXwcz/YvIyFl",
   "tracks": [
     {
       "added_at": null,
@@ -207,8 +207,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "DOING IT AGAIN BABY",
-        "url": "https://open.spotify.com/album/1ER3PB0CgzxRprzl67AAhz"
+        "name": "4am",
+        "url": "https://open.spotify.com/album/5MBdFr25fkVqYMDCGWyvTT"
       },
       "artists": [
         {
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
         }
       ],
-      "duration_ms": 145272,
-      "name": "DOING IT AGAIN BABY",
-      "url": "https://open.spotify.com/track/2DBRVoyZs0Q2kj0ePAVEEZ"
+      "duration_ms": 110861,
+      "name": "4am",
+      "url": "https://open.spotify.com/track/75enpZYDT6k0PNKu6SJ4W5"
     },
     {
       "added_at": null,
@@ -239,8 +239,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "4am",
-        "url": "https://open.spotify.com/album/5MBdFr25fkVqYMDCGWyvTT"
+        "name": "DOING IT AGAIN BABY",
+        "url": "https://open.spotify.com/album/1ER3PB0CgzxRprzl67AAhz"
       },
       "artists": [
         {
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
         }
       ],
-      "duration_ms": 110861,
-      "name": "4am",
-      "url": "https://open.spotify.com/track/75enpZYDT6k0PNKu6SJ4W5"
+      "duration_ms": 145272,
+      "name": "DOING IT AGAIN BABY",
+      "url": "https://open.spotify.com/track/2DBRVoyZs0Q2kj0ePAVEEZ"
     },
     {
       "added_at": null,

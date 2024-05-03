@@ -5579,6 +5579,28 @@
     },
     {
       "album": {
+        "name": "Lo-Fi Luv",
+        "url": "https://open.spotify.com/album/7nHwxLUEzSadUIzY6HMJCc"
+      },
+      "artists": [
+        {
+          "name": "Projota",
+          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
+        },
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178984,
+      "name": "Lo-Fi Luv",
+      "url": "https://open.spotify.com/track/6YNjPwlCijPuqYz8MVo2Mt"
+    },
+    {
+      "album": {
         "name": "Logo Eu",
         "url": "https://open.spotify.com/album/7cemVuH5gIFyxX2a4bQO2b"
       },
@@ -8922,6 +8944,32 @@
       "duration_ms": 193333,
       "name": "Posse",
       "url": "https://open.spotify.com/track/6uNwBWfI3DOTqAmSEtE4lV"
+    },
+    {
+      "album": {
+        "name": "Poucas Conversas",
+        "url": "https://open.spotify.com/album/6QH9k6OiI29N7GTLsTZdA4"
+      },
+      "artists": [
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        },
+        {
+          "name": "Andressinha",
+          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
+        },
+        {
+          "name": "2050",
+          "url": "https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134328,
+      "name": "Poucas Conversas",
+      "url": "https://open.spotify.com/track/3KEsLLv7ZgEmwYlUhVdzcm"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 
 > Soothing, minimalist ambient for deep sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,908,112 likes - 246 songs - 11 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,908,349 likes - 246 songs - 11 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 62 | [Elfic Mantra](https://open.spotify.com/track/089t8knhOvdhOaMphM09Ch) | [Solstice Soundwave](https://open.spotify.com/artist/3Cd3adDx2xIATvRvypEoGG) | [Elfic Mantra](https://open.spotify.com/album/5YzrnkkE3mbDTmtYcXKusG) | 3:18 |
 | 63 | [Nebula](https://open.spotify.com/track/5DMEco2E2eRUt9f0N9kScd) | [Mentitoso](https://open.spotify.com/artist/6GOKThcohv3HZKEhYIrGTL) | [Nebula](https://open.spotify.com/album/0yK9IQgNcdpnNfiS8APSBb) | 2:58 |
 | 64 | [Vibrational Feeling](https://open.spotify.com/track/2cEFXCkHlUL2ZF3fr7jvZ4) | [Helios Relaxing Space](https://open.spotify.com/artist/0tenBmuzRDNG5Qn0a295jB) | [Raise Vibration](https://open.spotify.com/album/1qxPnzyY4QJ04MyIQ60xAm) | 7:45 |
-| 65 | [Viaje a la Serenidad Interior](https://open.spotify.com/track/0gSgvkA2ALIdMmYKWgwsfx) | [Siame](https://open.spotify.com/artist/6ZimDumlcobtV1cSRoIdo0), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX), [Sleeping Eye](https://open.spotify.com/artist/7dMgnhd87CgdkOoh9V5p1t) | [Viaje a la Serenidad Interior](https://open.spotify.com/album/6fMohNmsajrIKNYYisZhkH) | 2:09 |
+| 65 | [Viaje a la Serenidad Interior](https://open.spotify.com/track/0gSgvkA2ALIdMmYKWgwsfx) | [Siame](https://open.spotify.com/artist/6ZimDumlcobtV1cSRoIdo0), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX), [Buneba](https://open.spotify.com/artist/4kckQx25UOWOjUMposE6ek) | [Viaje a la Serenidad Interior](https://open.spotify.com/album/6fMohNmsajrIKNYYisZhkH) | 2:09 |
 | 66 | [Assurance](https://open.spotify.com/track/4ASQPo6agPNTVlOfQaL8Uu) | [Jon Stefans](https://open.spotify.com/artist/6sZVV2BKsU8SF4x9Bj9Ypa) | [Assurance](https://open.spotify.com/album/5VvBWGfaKUrN89ksUvIex8) | 2:56 |
 | 67 | [Ecliptic](https://open.spotify.com/track/0gEuNNs7DLiv4EBdbdGOfE) | [Altered Source](https://open.spotify.com/artist/2iRhuolbUq4A4UP0Pz9SVI) | [Ecliptic](https://open.spotify.com/album/2jFwfEjZfKPF0L7sG04MWy) | 3:17 |
 | 68 | [Sapphire](https://open.spotify.com/track/0POsUHXKVnilLquumLz5sM) | [Onedin](https://open.spotify.com/artist/7KrGMuULLxPvuxjbfmUSyj) | [Sapphire](https://open.spotify.com/album/0F8pfPl2Z37eUCDnzpcuaQ) | 2:57 |

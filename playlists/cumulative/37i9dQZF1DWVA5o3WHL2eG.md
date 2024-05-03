@@ -4,7 +4,7 @@
 
 > Women at full volume\. Cover: Esther Graf
 
-1,450 songs - 3 day 2 hr 46 min
+1,452 songs - 3 day 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -493,6 +493,7 @@
 | [Gold](https://open.spotify.com/track/2TfZHFObZQoaJaItrIbraW) | [VERO](https://open.spotify.com/artist/3NzQ9y1pY5O0vJ6kjPyfGR) | [Gold](https://open.spotify.com/album/5VBTeAYI3bm8qPHGNvbpiy) | 2:24 | 2022-05-31 | 2022-07-06 |
 | [gold junge](https://open.spotify.com/track/7hULHmycFmInX4qSucxMNd) | [IUMA](https://open.spotify.com/artist/3sQkqWv3GPcfimQ2bobl2a) | [gold junge](https://open.spotify.com/album/0C4SR1CjMjx4X3HWbi4A1D) | 3:12 | 2023-01-03 | 2023-02-01 |
 | [Golden Child](https://open.spotify.com/track/7zly5twd2G3tWW7facoUQB) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Golden Child](https://open.spotify.com/album/4ZxJonyYAqmrqTBa2FFRUt) | 7:06 | 2024-02-06 | 2024-03-06 |
+| [GOLDEN DAYS](https://open.spotify.com/track/4ILpHcE56e3JDNpNp0MpRN) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [GOLDEN DAYS](https://open.spotify.com/album/2ki5n6obbcJSlGr7DpZkWB) | 3:13 | 2024-05-01 |  |
 | [Goldener Strom](https://open.spotify.com/track/0gAi1LwYw6Pd0vBd27K7tC) | [Rosa Anschütz](https://open.spotify.com/artist/1kjoxeQwJmoCfXT6j58MTm) | [Goldener Strom](https://open.spotify.com/album/4kDvgfDBfmAtCgadMM3LsK) | 2:54 | 2022-05-31 | 2022-07-06 |
 | [Golf Coupé](https://open.spotify.com/track/2tRpnq9Wvl4jPiO4mUgAPk) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [Golf Coupé](https://open.spotify.com/album/5WPi1LUinz4TBLT1oSOIxw) | 2:47 | 2024-01-09 | 2024-02-07 |
 | [Good Sex](https://open.spotify.com/track/6Gp05KXNNL8E2q8aggDVG9) | [Zemine](https://open.spotify.com/artist/7zB3RuBgX3ssVdhKBQOEjJ) | [Butterfly](https://open.spotify.com/album/6YBtOk7MkPWkzN20YonHxd) | 2:06 | 2023-10-03 | 2023-11-08 |
@@ -1306,6 +1307,7 @@
 | [Utopia](https://open.spotify.com/track/4202xIEzuXea2CqyZMaz2F) | [Power Plush](https://open.spotify.com/artist/5oFIcDSdVrn8T3Ldes4Ebn) | [Utopia](https://open.spotify.com/album/2IrRVfGOPj1pDEhwvu4hYV) | 3:32 | 2023-01-03 | 2023-02-01 |
 | [Vacationland](https://open.spotify.com/track/245DYs091A36gATihfLvAt) | [Ava Vegas](https://open.spotify.com/artist/5ql0vsOE9XzHXwi8xP4yes) | [Desert Songs](https://open.spotify.com/album/49089IB7YqMF2BHblPRO3L) | 2:55 | 2023-05-02 | 2023-06-07 |
 | [Velvet Blue](https://open.spotify.com/track/58LP7YZDOmPXdMroezL9mx) | [Ray Lozano](https://open.spotify.com/artist/1lqO9zpSZ9iEkgEgJqc443) | [Velvet Blue](https://open.spotify.com/album/4qSzQ5mn5XnineMIWl2xPA) | 1:04 | 2023-02-28 | 2023-04-05 |
+| [Vergleiche](https://open.spotify.com/track/0HsuCKvms8l9GxRABl6S13) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG), [MELE](https://open.spotify.com/artist/6Lk699bosWcOqCMFLJFrPp) | [Meere](https://open.spotify.com/album/25G3mIHCrSMheIv5qkPCRF) | 2:53 | 2024-05-01 |  |
 | [Verliebt](https://open.spotify.com/track/7fmXUVYmTQaS1bQRGNLpmW) | [Juli Holz](https://open.spotify.com/artist/7M7vQv8K3CLzWRK6urf1aJ) | [Verliebt](https://open.spotify.com/album/4FZi3s1p5rWhryOw6HKyVo) | 4:44 | 2023-08-01 | 2023-09-06 |
 | [Verliebt](https://open.spotify.com/track/46js6V1sFA6QwINdtO00r9) | [Nessa](https://open.spotify.com/artist/0To8tjDBkD8g2KMw2oGKT0) | [Verliebt](https://open.spotify.com/album/3fF0G5h70G8Eng17dvBqHB) | 2:50 | 2024-02-06 | 2024-03-06 |
 | [Verlieren](https://open.spotify.com/track/2tsWZUMOTJR3wXze5SKW2D) | [Ish](https://open.spotify.com/artist/7nNyZMVQQgGf5UVDcJ52yI) | [Verlieren](https://open.spotify.com/album/4rG1lto3LDuSRdDaD4iAsb) | 2:57 | 2022-10-04 | 2022-11-08 |

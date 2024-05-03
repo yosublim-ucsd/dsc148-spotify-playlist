@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z">Tiësto</a>'s best songs, remixes and compilations.
 
-355 songs - 1 day 0 hr 13 min
+356 songs - 1 day 0 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [Maximal Crazy \(Original Mix\)](https://open.spotify.com/track/7aT2HFws6awkUXdrBAtIqR) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Club Life \- Volume 2 Miami](https://open.spotify.com/album/5P21DkmdD7MiWR05Mde1Cc) | 4:29 | 2020-10-20\* | 2024-01-05 |
 | [Meet Her \- Tiësto vs\. Da Hool](https://open.spotify.com/track/2ObP6OLXWzrmdVvgIFjjc2) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Da Hool](https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW) | [Meet Her \(Tiësto vs\. Da Hool\)](https://open.spotify.com/album/3FkgnEt5ecJiAGlFvPNZQT) | 2:12 | 2023-11-23 |  |
 | [Miami \(Original Mix\)](https://open.spotify.com/track/0GXyu2iFC3ECfK8c4CF9xN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Club Life \- Volume 2 Miami](https://open.spotify.com/album/5P21DkmdD7MiWR05Mde1Cc) | 2:04 | 2020-10-20\* | 2023-04-20 |
+| [Mockingbird](https://open.spotify.com/track/2x4JC9TxW2LACuuxbsncfG) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Mockingbird](https://open.spotify.com/album/22dOSFgcI8e3gJbHpG5gYg) | 2:34 | 2024-05-02 |  |
 | [Mwaki \- Tiësto's VIP Mix](https://open.spotify.com/track/3bYSuNFC8UqtpTRKBcDtZf) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Mwaki \(Tiësto's VIP Mix\)](https://open.spotify.com/album/3pbFWOxjxLdlyxapT21PLe) | 2:40 | 2023-12-28 |  |
 | [My City’s On Fire \- Tiësto Remix](https://open.spotify.com/track/7lCJbb2VDyle5quhXkngaU) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [My City’s On Fire \(Tiësto Remix\)](https://open.spotify.com/album/4YcIHURDogM3fNg5e11YeP) | 2:21 | 2022-10-13 |  |
 | [My Whistle](https://open.spotify.com/track/6EJrL8d1vpO87Z79g8vuKn) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG) | [Electro House Anthems: Best of 2019 \(Presented by Spinnin' Records\)](https://open.spotify.com/album/2lmXdc2qmZjWbHhfgi3pmN) | 2:35 | 2022-11-10 | 2022-11-14 |

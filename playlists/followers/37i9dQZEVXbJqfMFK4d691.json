@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 104865,
+  "2024-05-03": 104887,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Bolivia.",
   "name": "Top 50 - Bolivia",
@@ -10649,7 +10649,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-01",
+      "date_removed": null,
       "duration_ms": 186455,
       "name": "Primera Cita",
       "url": "https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF"
@@ -14369,7 +14369,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 161647,
       "name": "Ya me enter\u00e9",
       "url": "https://open.spotify.com/track/6xUTpgnxMzxM5JhWeLCKMB"

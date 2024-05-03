@@ -1,7 +1,7 @@
 {
-  "2024-05-02": 129285,
+  "2024-05-03": 129571,
   "date_first_scraped": "2022-05-13",
-  "description": "A selection of the finest Hip-Hop tracks from the illest Arab Rappers. Cover: Shabjdeed & Al Nather",
+  "description": "A selection of the finest Hip-Hop tracks from the illest Arab Rappers. Cover: Tageel",
   "name": "Arab Hip-Hop",
   "tracks": [
     {
@@ -163,6 +163,28 @@
       "duration_ms": 167415,
       "name": "3almdar",
       "url": "https://open.spotify.com/track/2yi5HVJ7QZl1mJq3UwsZHx"
+    },
+    {
+      "album": {
+        "name": "3andy Saheb",
+        "url": "https://open.spotify.com/album/2HYmYflHK4DpNoInSWekSR"
+      },
+      "artists": [
+        {
+          "name": "El Sawareekh",
+          "url": "https://open.spotify.com/artist/5rNrRYsRVaRJDQhA1PEC6t"
+        },
+        {
+          "name": "Abo El Anwar",
+          "url": "https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168940,
+      "name": "3andy Sahb",
+      "url": "https://open.spotify.com/track/5wUv8kas7QKIrUeSLOfdYd"
     },
     {
       "album": {
@@ -509,7 +531,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 185142,
       "name": "Alhamdullah",
       "url": "https://open.spotify.com/track/2SPbO7VAo7JPHV1aQVNNn4"
@@ -1825,6 +1847,24 @@
       "duration_ms": 158586,
       "name": "El Mabda2",
       "url": "https://open.spotify.com/track/6m8vcn1JPflk8xBoFsaPDP"
+    },
+    {
+      "album": {
+        "name": "EL Moled (Red Bull Sada sot)",
+        "url": "https://open.spotify.com/album/1DETVyDIOnE9AFtzI6LJqG"
+      },
+      "artists": [
+        {
+          "name": "Lege-Cy",
+          "url": "https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159845,
+      "name": "EL Moled",
+      "url": "https://open.spotify.com/track/2AwcETrfQJe4PgC8SyO1tZ"
     },
     {
       "album": {
@@ -3399,7 +3439,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 145321,
       "name": "Klashat",
       "url": "https://open.spotify.com/track/1gk3xYnAX39GZp6pKJYCgb"
@@ -3866,6 +3906,46 @@
     },
     {
       "album": {
+        "name": "Kitab",
+        "url": "https://open.spotify.com/album/1ao9V5no6rbr7QGNFUE5LI"
+      },
+      "artists": [
+        {
+          "name": "Tageel",
+          "url": "https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182106,
+      "name": "Loop",
+      "url": "https://open.spotify.com/track/2Pi4fHuWK9k8Wg2NvUx9dn"
+    },
+    {
+      "album": {
+        "name": "OMW",
+        "url": "https://open.spotify.com/album/3lllRihvhGpSdxuJzn1oOQ"
+      },
+      "artists": [
+        {
+          "name": "Mc Artisan",
+          "url": "https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S"
+        },
+        {
+          "name": "Didine Canon 16",
+          "url": "https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/3yB9fJ2xV09wfOHRVP9AAB"
+    },
+    {
+      "album": {
         "name": "MIXDEEP",
         "url": "https://open.spotify.com/album/25gV823TIXt2rIf9G9Mt01"
       },
@@ -4077,7 +4157,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 160000,
       "name": "MARADONA",
       "url": "https://open.spotify.com/track/1GxUG5xWcY2R9hQ3NcE5ya"
@@ -4161,7 +4241,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 156415,
       "name": "Matafetch",
       "url": "https://open.spotify.com/track/0ZGmHDAUSgGV5mCUbtYFe7"
@@ -4263,7 +4343,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 165925,
       "name": "Meen (feat. Rafiek)",
       "url": "https://open.spotify.com/track/6mtov0T6NivlQZMNqnCK8B"
@@ -4499,7 +4579,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 116525,
       "name": "Msayfeen",
       "url": "https://open.spotify.com/track/0VXGvZD6v5ZfE1OwIkSZBB"
@@ -4677,7 +4757,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 273454,
       "name": "NIKEY",
       "url": "https://open.spotify.com/track/3pkKb7bj2eVQjNaHOGzYSf"
@@ -4743,6 +4823,24 @@
       "duration_ms": 178549,
       "name": "Ok wait",
       "url": "https://open.spotify.com/track/7IvCjYPYqZgtyEf9k7ofuG"
+    },
+    {
+      "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/5ZkU2Bpyms27ABdDTnVfqR"
+      },
+      "artists": [
+        {
+          "name": "Bo9al",
+          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219607,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/1bCiTfGvySuWQiOVwghr5J"
     },
     {
       "album": {
@@ -5035,7 +5133,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 270000,
       "name": "Rad Saree3",
       "url": "https://open.spotify.com/track/1vcb5OCIZ7X7WfomgPgH4y"
@@ -5164,6 +5262,32 @@
     },
     {
       "album": {
+        "name": "Rehab",
+        "url": "https://open.spotify.com/album/3zsV6gi1HFVr3j4EiPWJED"
+      },
+      "artists": [
+        {
+          "name": "Yo Asel",
+          "url": "https://open.spotify.com/artist/4DWssq4DfReHOpK7BEVPgo"
+        },
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        },
+        {
+          "name": "Abduh",
+          "url": "https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196521,
+      "name": "Rehab",
+      "url": "https://open.spotify.com/track/4GGWAVyhrHWysVj3wyk523"
+    },
+    {
+      "album": {
         "name": "Rigle Bihum",
         "url": "https://open.spotify.com/album/1JXLXotTfpNY59BUnX4IjW"
       },
@@ -5179,6 +5303,24 @@
       "duration_ms": 157763,
       "name": "Rigle Bihum",
       "url": "https://open.spotify.com/track/0EKwe45yFDdC93exb5wYbU"
+    },
+    {
+      "album": {
+        "name": "HEPTA",
+        "url": "https://open.spotify.com/album/3JQgobucm5cegRkCt202JN"
+      },
+      "artists": [
+        {
+          "name": "Hleem Taj Alser",
+          "url": "https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Rio",
+      "url": "https://open.spotify.com/track/0Z3PUi6pnShr7HmhjYkhkV"
     },
     {
       "album": {
@@ -5273,7 +5415,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 157714,
       "name": "Room 308",
       "url": "https://open.spotify.com/track/6GC7pryduyi07Jzf3IG3J0"
@@ -5396,6 +5538,24 @@
     },
     {
       "album": {
+        "name": "San Siro",
+        "url": "https://open.spotify.com/album/5QOytCFrVEvxxeR3zGsjfP"
+      },
+      "artists": [
+        {
+          "name": "LFERDA",
+          "url": "https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204350,
+      "name": "San Siro",
+      "url": "https://open.spotify.com/track/0WuTPXry9d1aV446dafoO1"
+    },
+    {
+      "album": {
         "name": "Satan",
         "url": "https://open.spotify.com/album/6f7EvfMo0wuGvlcz87trL4"
       },
@@ -5509,7 +5669,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 484797,
       "name": "Seven Bullets",
       "url": "https://open.spotify.com/track/5dU7mZmnQyaUxHlEQwtWM9"
@@ -5535,6 +5695,24 @@
       "duration_ms": 134701,
       "name": "Sham3 3id El Milad",
       "url": "https://open.spotify.com/track/0kcmuRtga0TXoKTOcfLRXr"
+    },
+    {
+      "album": {
+        "name": "SHED F TARFO",
+        "url": "https://open.spotify.com/album/6MMlotsbFacSgj8QFi1TSf"
+      },
+      "artists": [
+        {
+          "name": "TURK",
+          "url": "https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156736,
+      "name": "SHED F TARFO",
+      "url": "https://open.spotify.com/track/7p9fo8NM2SrquqIn1rhYNH"
     },
     {
       "album": {
@@ -5585,7 +5763,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 216000,
       "name": "Shkoon",
       "url": "https://open.spotify.com/track/76oxojNipN7ol8ALGuNA0Y"
@@ -5780,6 +5958,24 @@
     },
     {
       "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/5PerU9NkGwnrhzvyZkswGp"
+      },
+      "artists": [
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102810,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/6PUgP7EVd2kuemrvGiJT8n"
+    },
+    {
+      "album": {
         "name": "Gala",
         "url": "https://open.spotify.com/album/5thNlwr5FFcXWjtZAlfRH0"
       },
@@ -5886,6 +6082,24 @@
     },
     {
       "album": {
+        "name": "HEPTA",
+        "url": "https://open.spotify.com/album/3JQgobucm5cegRkCt202JN"
+      },
+      "artists": [
+        {
+          "name": "Hleem Taj Alser",
+          "url": "https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193604,
+      "name": "Storm",
+      "url": "https://open.spotify.com/track/3eXWngGDvtPMFcBPfuWqW7"
+    },
+    {
+      "album": {
         "name": "STR3",
         "url": "https://open.spotify.com/album/6LSlkHgM2GkAtNNHJo16kx"
       },
@@ -5979,7 +6193,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 204426,
       "name": "SULTAN",
       "url": "https://open.spotify.com/track/7AghOMSZrtR7DkfWxLuRDs"
@@ -6146,6 +6360,28 @@
     },
     {
       "album": {
+        "name": "Kitab",
+        "url": "https://open.spotify.com/album/1ao9V5no6rbr7QGNFUE5LI"
+      },
+      "artists": [
+        {
+          "name": "Tageel",
+          "url": "https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5"
+        },
+        {
+          "name": "Big Murk",
+          "url": "https://open.spotify.com/artist/09z2RmcpMLbrhbosjfYphT"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138857,
+      "name": "TATA",
+      "url": "https://open.spotify.com/track/0Ddh6Jf2iYNR6mOo5pT1Oq"
+    },
+    {
+      "album": {
         "name": "TAY9 (Spotify Singles)",
         "url": "https://open.spotify.com/album/3fMQ4kuJGfwQThWWYTo322"
       },
@@ -6161,7 +6397,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 229776,
       "name": "TAY9 - Spotify Singles",
       "url": "https://open.spotify.com/track/33vKgJAIkPU3AOcsAmggGG"
@@ -6359,6 +6595,28 @@
       "duration_ms": 206511,
       "name": "TODO BEN\u00c9 - Spotify Singles",
       "url": "https://open.spotify.com/track/5NN51zQh6lnnXPuIQu1cFd"
+    },
+    {
+      "album": {
+        "name": "Tokyo",
+        "url": "https://open.spotify.com/album/7KJZT60Lr10dTwuELMdazt"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Santa",
+          "url": "https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj"
+        },
+        {
+          "name": "Abo El Anwar",
+          "url": "https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155601,
+      "name": "Tokyo",
+      "url": "https://open.spotify.com/track/70cb9QgHrSZcfQGXCCgPBX"
     },
     {
       "album": {
@@ -6631,7 +6889,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 119629,
       "name": "Vida Loca",
       "url": "https://open.spotify.com/track/4WKcS5bpZNwg31wcGpO2o0"
@@ -7601,7 +7859,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 123503,
       "name": "\u0634\u0641\u062a",
       "url": "https://open.spotify.com/track/6NAlHGjMcLv1JBfmJCabKs"
@@ -7641,7 +7899,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 161118,
       "name": "\u0634\u0646\u0648 \u064a\u0627 \u0635\u0627\u062d\u0628\u064a",
       "url": "https://open.spotify.com/track/1sbLYOyEE4U6Zxmv7XtTj0"

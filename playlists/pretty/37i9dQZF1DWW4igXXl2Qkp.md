@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 ### [Fresh Finds Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWW4igXXl2Qkp)
 
-> The best new hip\-hop music by independent artists and labels\. Cover: Destin Laurel
+> The best new hip\-hop music by independent artists and labels\. Cover: <a href="spotify:artist:33hj9n9Y19jGhXk8m7ezKR">Destin Laurel</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,164 likes - 75 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,265 likes - 75 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 74 | [Cut & Paste](https://open.spotify.com/track/1cQWY7njTuPQ3Z9UIoVUB4) | [Wynne](https://open.spotify.com/artist/3fhz0PcZrd3o3xB8APuoPX), [WowGr8](https://open.spotify.com/artist/07YZUR8pPljCvpxt15BsAc) | [Cut & Paste](https://open.spotify.com/album/00tAQiwOopsj6EyPJtM3AU) | 2:41 |
 | 75 | [Get Silly](https://open.spotify.com/track/4Q0r5VG1yRm7zOfocZ6PV9) | [Lisha G](https://open.spotify.com/artist/5nwxAowdUQSK1tuyVHD5lJ), [Trini Viv](https://open.spotify.com/artist/0BdYblPVnK3wnWREfBQ712) | [Get Silly](https://open.spotify.com/album/6UHPycxz2SmBwotdKBwsYy) | 1:51 |
 
-Snapshot ID: `ZjJs4wAAAAAjt07op9XEmWk2aylu8mwq`
+Snapshot ID: `ZjPOcwAAAABrM8nh5paV41zYqw6xNyB0`

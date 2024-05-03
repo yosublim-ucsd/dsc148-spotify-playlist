@@ -2,7 +2,7 @@
 
 ### [Bollywood Acoustic](https://open.spotify.com/playlist/37i9dQZF1DWSwxyU5zGZYe)
 
-> Best acoustic melodies from Bollywood
+> Tender, thoughtful & stripped down versions of your favourite Bollywood songs.
 
 139 songs - 8 hr 22 min
 

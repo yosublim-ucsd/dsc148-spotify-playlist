@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-20",
-  "description": "Lagu-lagu terkini yang sedang beranjak menjadi hit. Cover: Mahen",
+  "description": "Lagu-lagu terkini yang sedang beranjak menjadi hit. Cover: Nabila Taqiyyah",
   "name": "Naik Daun",
   "tracks": [
     {
@@ -410,7 +410,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 239262,
       "name": "Berdua Saja",
       "url": "https://open.spotify.com/track/5zmVsZlhkxjveLeLxkIP5e"
@@ -454,6 +454,28 @@
       "duration_ms": 199375,
       "name": "Berlalu",
       "url": "https://open.spotify.com/track/5BoOfotbJbhCJ05l3Gw2bV"
+    },
+    {
+      "album": {
+        "name": "Bermuara",
+        "url": "https://open.spotify.com/album/14CzP48sGOaDXL2aTwUUgd"
+      },
+      "artists": [
+        {
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+        },
+        {
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287465,
+      "name": "Bermuara",
+      "url": "https://open.spotify.com/track/2EijGQoEilhHWlQWMoS9Jc"
     },
     {
       "album": {
@@ -757,6 +779,24 @@
     },
     {
       "album": {
+        "name": "Cerah",
+        "url": "https://open.spotify.com/album/6I38L8dsQN18LrIQlTVpCr"
+      },
+      "artists": [
+        {
+          "name": "Hyndia",
+          "url": "https://open.spotify.com/artist/6rz8KB9pctNbwzJVvRb4sK"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253023,
+      "name": "Cerah",
+      "url": "https://open.spotify.com/track/0i0Yv9X7PiYQ2koVWruJ6K"
+    },
+    {
+      "album": {
         "name": "Cerita Tiba Tiba",
         "url": "https://open.spotify.com/album/32knHChZrwD05dXjg3Ul1u"
       },
@@ -928,6 +968,24 @@
       "duration_ms": 232166,
       "name": "Dag Dig Dug",
       "url": "https://open.spotify.com/track/1VbdFxbe3Bt41FGVe4gI8x"
+    },
+    {
+      "album": {
+        "name": "5 Diri",
+        "url": "https://open.spotify.com/album/38Ch8G5h02oXgRbL04Pbbn"
+      },
+      "artists": [
+        {
+          "name": "Restu",
+          "url": "https://open.spotify.com/artist/2gMmi7vPvdivhlvnNb4dGz"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185739,
+      "name": "Dan Ku",
+      "url": "https://open.spotify.com/track/7gdIfi2lsEXEqt1yJFt7yt"
     },
     {
       "album": {
@@ -1306,7 +1364,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 269000,
       "name": "Halo Jakarta",
       "url": "https://open.spotify.com/track/0wTdu8sKRKWFaIUxnNjpU4"
@@ -1328,6 +1386,24 @@
       "duration_ms": 220136,
       "name": "Hanya Kau Yang Ku Mau",
       "url": "https://open.spotify.com/track/4kCDVwxtziXxhBbviPijUl"
+    },
+    {
+      "album": {
+        "name": "Hanya Lolongan",
+        "url": "https://open.spotify.com/album/7nYVMupxePZbCAczopKbWr"
+      },
+      "artists": [
+        {
+          "name": "Nabila Taqiyyah",
+          "url": "https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229448,
+      "name": "Hanya Lolongan",
+      "url": "https://open.spotify.com/track/3gedUqUJEgNoDqDaQZwTUo"
     },
     {
       "album": {
@@ -1639,6 +1715,24 @@
     },
     {
       "album": {
+        "name": "Jahat Sekali",
+        "url": "https://open.spotify.com/album/7uGeYMbJ1fAcPRywmZbVFv"
+      },
+      "artists": [
+        {
+          "name": "Kezia",
+          "url": "https://open.spotify.com/artist/2CcuEDxpgMLXTjNf1sci2b"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212657,
+      "name": "Jahat Sekali",
+      "url": "https://open.spotify.com/track/2CazsQWcpzxqTq1sjHiV6x"
+    },
+    {
+      "album": {
         "name": "Jalan Terbaik",
         "url": "https://open.spotify.com/album/2WrbuH0yPWAAc2oQ59J9Et"
       },
@@ -1744,6 +1838,24 @@
       "duration_ms": 270000,
       "name": "Jutaan Salah, Milyaran Maaf",
       "url": "https://open.spotify.com/track/2sKcTM22jfcWz5EoQxEcZU"
+    },
+    {
+      "album": {
+        "name": "Harapan",
+        "url": "https://open.spotify.com/album/7qKEG7EhkXFNfwGdxgPp77"
+      },
+      "artists": [
+        {
+          "name": "Stevan Pasaribu",
+          "url": "https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239379,
+      "name": "Kaji Ulang",
+      "url": "https://open.spotify.com/track/0aJr8TCz4PONyaZZLnI8RV"
     },
     {
       "album": {
@@ -1860,6 +1972,28 @@
       "duration_ms": 229718,
       "name": "Kasar",
       "url": "https://open.spotify.com/track/7pPzSbQlg1b8VQFnUFyHQ7"
+    },
+    {
+      "album": {
+        "name": "Kasian",
+        "url": "https://open.spotify.com/album/6Tx905hXzlQb53nciXKlXH"
+      },
+      "artists": [
+        {
+          "name": "Refo Dan Fauna",
+          "url": "https://open.spotify.com/artist/6ILCDTreFre4EDfBZxCGxi"
+        },
+        {
+          "name": "Sheryl Sheinafia",
+          "url": "https://open.spotify.com/artist/1lfMGY3PXMmj6qgwiPqp06"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Kasian",
+      "url": "https://open.spotify.com/track/1lbwSWK60uOB2QSdRLCt79"
     },
     {
       "album": {
@@ -2225,7 +2359,7 @@
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 259303,
+      "duration_ms": 256695,
       "name": "Laki-Laki Bukan Pengecut",
       "url": "https://open.spotify.com/track/2iZzXW2wD6x6vyr4RSD0Wp"
     },
@@ -2500,7 +2634,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 258670,
       "name": "Maka Diturunkanlah Hujan",
       "url": "https://open.spotify.com/track/7910f0STGFRvvIUmnizkBA"
@@ -2800,7 +2934,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 294463,
       "name": "Menentukan Pilihan (feat. Oslo Ibrahim)",
       "url": "https://open.spotify.com/track/3swsQmpaXe8Px6VymVmMFF"
@@ -2992,6 +3126,24 @@
       "duration_ms": 280540,
       "name": "Orang Yang Berbeda",
       "url": "https://open.spotify.com/track/5ckkWPG0Y9kgyGKW5kCGWN"
+    },
+    {
+      "album": {
+        "name": "Pada Akhirnya, Berkawan Berlalu",
+        "url": "https://open.spotify.com/album/3WzgPEAKYBpH4avi8eJNDk"
+      },
+      "artists": [
+        {
+          "name": "Mitty Zasia",
+          "url": "https://open.spotify.com/artist/7w5TB54pRaR6R4Fdx7OqRz"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253411,
+      "name": "Pada Akhirnya, Berkawan Berlalu",
+      "url": "https://open.spotify.com/track/2AEBdOleejb5T6Gl2VALsb"
     },
     {
       "album": {
@@ -3233,6 +3385,24 @@
     },
     {
       "album": {
+        "name": "Raja dan Ratu",
+        "url": "https://open.spotify.com/album/4nHoAM5p4eDehGmgQQQvKI"
+      },
+      "artists": [
+        {
+          "name": "Ashira Zamita",
+          "url": "https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233959,
+      "name": "Raja dan Ratu",
+      "url": "https://open.spotify.com/track/7FZyTvbYGvyDBo0XSDDuXu"
+    },
+    {
+      "album": {
         "name": "Relakan",
         "url": "https://open.spotify.com/album/0SUZ4oGGWQN1pn0Mbfer8L"
       },
@@ -3244,7 +3414,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 264360,
       "name": "Relakan",
       "url": "https://open.spotify.com/track/1PWhHGFq93yZnZKUQxiSya"
@@ -3533,6 +3703,24 @@
     },
     {
       "album": {
+        "name": "MARKERS AND SUCH PENS FLASHDISKS",
+        "url": "https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q"
+      },
+      "artists": [
+        {
+          "name": "Sal Priadi",
+          "url": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231187,
+      "name": "Semua lagu cinta",
+      "url": "https://open.spotify.com/track/4s8W4gutSQnFIDNThqUPSI"
+    },
+    {
+      "album": {
         "name": "Senandung Dibatas Mimpi",
         "url": "https://open.spotify.com/album/6MeReYOMahdO7ZNcWsKvTz"
       },
@@ -3794,7 +3982,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 265569,
       "name": "Sirna - Stripped Version",
       "url": "https://open.spotify.com/track/4MVZLoVciI76PPNppc15gn"
@@ -3912,7 +4100,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 214622,
       "name": "Sweet Hurting",
       "url": "https://open.spotify.com/track/2WFmtZWu1lV7emNPeWxBtB"
@@ -4428,7 +4616,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 250985,
       "name": "Tersiksa Rindu",
       "url": "https://open.spotify.com/track/23FTinurKTixmSYBDS3bgq"
@@ -4464,7 +4652,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 191223,
       "name": "The Girl That I Used To Be",
       "url": "https://open.spotify.com/track/1YuiSjDArp53gCzIOOYTLK"
@@ -4548,6 +4736,24 @@
       "duration_ms": 249280,
       "name": "tiba-tiba jumat lagi",
       "url": "https://open.spotify.com/track/5H1AMIgdjQCHMwLTZ72Z9U"
+    },
+    {
+      "album": {
+        "name": "Too Much Of A Good Thing",
+        "url": "https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171618,
+      "name": "Too Much Of A Good Thing",
+      "url": "https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7"
     },
     {
       "album": {
@@ -4714,7 +4920,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 270594,
       "name": "Your Favorite Food",
       "url": "https://open.spotify.com/track/4yWaGVdcT6VhMyUY7kjV3d"

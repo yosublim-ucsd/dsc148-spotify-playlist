@@ -1,12 +1,12 @@
 {
-  "description": "This is The Offspring. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 385311,
+  "description": "This is The Offspring. The essential tracks, all in one playlist.",
+  "num_followers": 385399,
   "original_name": "This Is The Offspring",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjA0gAAAAAAc0HeZvn6DwM3DlHsQIs/o",
+  "snapshot_id": "ZjGGAAAAAAAtbzsaITL7hatffLq02YZ2",
   "tracks": [
     {
       "added_at": null,
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let The Bad Times Roll (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5HDj9yjtyhPduBMVax56pg"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 201266,
-      "name": "Behind Your Walls",
-      "url": "https://open.spotify.com/track/0bfpMVuGjXbkZonmvymDSv"
+      "duration_ms": 228240,
+      "name": "Defy You",
+      "url": "https://open.spotify.com/track/5VBVIcMh6CWy8szP3U0Ttp"
     },
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5HDj9yjtyhPduBMVax56pg"
+        "name": "Let The Bad Times Roll (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 228240,
-      "name": "Defy You",
-      "url": "https://open.spotify.com/track/5VBVIcMh6CWy8szP3U0Ttp"
+      "duration_ms": 201266,
+      "name": "Behind Your Walls",
+      "url": "https://open.spotify.com/track/0bfpMVuGjXbkZonmvymDSv"
     },
     {
       "added_at": null,

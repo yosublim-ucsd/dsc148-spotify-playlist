@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 644133,
+  "2024-05-03": 644765,
   "date_first_scraped": "2023-07-29",
   "description": "This is Madonna. The essential tracks, all in one playlist.",
   "name": "This Is Madonna",
@@ -199,7 +199,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 225333,
       "name": "Burning Up",
       "url": "https://open.spotify.com/track/48YZhmKL3aZKhQUfpvkelu"
@@ -847,7 +847,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-29",
+      "date_removed": null,
       "duration_ms": 298164,
       "name": "Medell\u00edn (with Maluma)",
       "url": "https://open.spotify.com/track/6mfu6jyFgvnXeTPQrYNs8d"

@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-322 songs - 14 hr 8 min
+323 songs - 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Blinding Lights](https://open.spotify.com/track/7JAo7wy8BzmP9smtTJ3fuU) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu) | [Blinding Lights](https://open.spotify.com/album/5K1nRHJ9JrwHAGXKc0yrZD) | 2:10 | 2023-09-22 | 2024-04-15 |
 | [Blinding Lights](https://open.spotify.com/track/0wI0S42Cg41DVGqIIVimTM) | [Revelries](https://open.spotify.com/artist/7KigP1NA8s7IiVIxP5ndwJ), [Victoria Voss](https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I) | [Blinding Lights](https://open.spotify.com/album/1RinMQThKCHcrk6hMf6QiN) | 2:56 | 2023-09-22 |  |
 | [Bloom](https://open.spotify.com/track/4hHvZD1pcvG8rxUkhau6Is) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Bloom](https://open.spotify.com/album/1Po5dB5KhCrqfvg7ViH7aB) | 2:59 | 2023-09-22 |  |
+| [Boulevard of Broken Dreams](https://open.spotify.com/track/2gBcHHTMTuh0BPgDl8WpAK) | [Sunday](https://open.spotify.com/artist/5vFf9aCTZJfrRjuszHhxcd), [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu), [Velvety](https://open.spotify.com/artist/5vj8jozcvNuHvgw68Lwvyh) | [Boulevard of Broken Dreams](https://open.spotify.com/album/2b5muXfNBzuAwMmBqv6PYp) | 2:01 | 2024-05-02 |  |
 | [Breathe](https://open.spotify.com/track/76lTObcVr6Z6e6Tqezk2N1) | [Jako Diaz](https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz), [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4), [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Breathe](https://open.spotify.com/album/2oONqv7gpHaweACmIxM75A) | 3:34 | 2023-12-17 | 2024-01-21 |
 | [Breathe](https://open.spotify.com/track/4D0wSYUVDWZbp9uKYJPxDp) | [Thymaz](https://open.spotify.com/artist/2K9tlBARPJt7YCIzjWqQXC) | [Breathe](https://open.spotify.com/album/4ci5K21jFgJHxH4SEIljpx) | 2:34 | 2023-09-22 |  |
 | [Brighter Than The Sun](https://open.spotify.com/track/3WHu4o2jxoeIZq7YqyojhM) | [MAESTRI](https://open.spotify.com/artist/1j3mntc3HJeQXRj7dSdvE4), [2FarAway](https://open.spotify.com/artist/0m0DFcA4Bg5HemIW0vQ4U3), [GHALIA](https://open.spotify.com/artist/7G25QOtyexazRpK1ZYqhOc) | [Brighter Than The Sun](https://open.spotify.com/album/505KMTrlprZnZOjEY6DIGb) | 2:15 | 2024-02-18 | 2024-03-25 |

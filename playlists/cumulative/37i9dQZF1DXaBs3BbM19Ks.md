@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaBs3BbM19Ks.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaBs3BbM19Ks) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaBs3BbM19Ks)
 
-### [Modo Señora](https://open.spotify.com/playlist/37i9dQZF1DXaBs3BbM19Ks)
+### [Modo Señora: Día de las Madres](https://open.spotify.com/playlist/37i9dQZF1DXaBs3BbM19Ks)
 
-> Bonitas, orgullosas y empoderadas, así somos las señoras.
+> Bonitas, orgullosas y empoderadas, así somos las mamás 🌷
 
 167 songs - 11 hr 4 min
 

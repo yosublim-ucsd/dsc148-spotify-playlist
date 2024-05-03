@@ -292,7 +292,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 146974,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/3qCCQas6tIP15Yjgu3gl9S"
@@ -1881,6 +1881,36 @@
     },
     {
       "album": {
+        "name": "Festival",
+        "url": "https://open.spotify.com/album/4oxdUH6eGKuQWF2H4vcHF5"
+      },
+      "artists": [
+        {
+          "name": "Yssi SB",
+          "url": "https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8"
+        },
+        {
+          "name": "Diquenza",
+          "url": "https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV"
+        },
+        {
+          "name": "Henkie T",
+          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
+        },
+        {
+          "name": "Dopebwoy",
+          "url": "https://open.spotify.com/artist/3kw9wqwYyvRCI6Q2rqsfNS"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146778,
+      "name": "Festival",
+      "url": "https://open.spotify.com/track/7Jvfgj6mmATe6hq7dSdseM"
+    },
+    {
+      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax"
       },
@@ -1896,6 +1926,24 @@
       "duration_ms": 200454,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn"
+    },
+    {
+      "album": {
+        "name": "Fly Like Me",
+        "url": "https://open.spotify.com/album/4JNpgGiRlMT6DYwyVjg1Jb"
+      },
+      "artists": [
+        {
+          "name": "Chef'Special",
+          "url": "https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182066,
+      "name": "Fly Like Me",
+      "url": "https://open.spotify.com/track/6CtVJEoNheHMtlDaJoXboX"
     },
     {
       "album": {
@@ -3921,6 +3969,28 @@
     },
     {
       "album": {
+        "name": "Queen Of My Castle",
+        "url": "https://open.spotify.com/album/5g6FHRdXl51AAOmlJaHfk9"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        },
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156290,
+      "name": "Queen Of My Castle",
+      "url": "https://open.spotify.com/track/5AkKovjix5SPXurPaV1p69"
+    },
+    {
+      "album": {
         "name": "Radio",
         "url": "https://open.spotify.com/album/3PkxPaBID8mGOWIY8uxG0L"
       },
@@ -4362,7 +4432,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 187832,
       "name": "Speed Of Light",
       "url": "https://open.spotify.com/track/42bzmBc47mF1HTOi8baDb5"
@@ -5488,7 +5558,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 171932,
       "name": "Waterdicht",
       "url": "https://open.spotify.com/track/1guLggb4orDoc7Dmh2cSuL"

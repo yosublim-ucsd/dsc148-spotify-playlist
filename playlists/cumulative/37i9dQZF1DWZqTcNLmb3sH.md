@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Karataka Damanaka
 
-1,152 songs - 2 day 22 hr 12 min
+1,153 songs - 2 day 22 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -931,6 +931,7 @@
 | [Preethiya Maye \(From "Cicada"\)](https://open.spotify.com/track/3Cn8oH0ECkHGvlqObtYuZO) | [Anila Rajeev](https://open.spotify.com/artist/7mi6f1vSUFgxYOQVcsWWx6), [Sreejith Edavana](https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg) | [Preethiya Maye \(From "Cicada"\)](https://open.spotify.com/album/1Jsjpd7MwSz0gleVFxcRFZ) | 1:56 | 2024-01-22 | 2024-02-29 |
 | [PS Anthem \(From “PS\-2"\) \[Kannada\]](https://open.spotify.com/track/0xf1Yhdwv1HTuv6oyHrRn3) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Nakul Abhyankar](https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD), [Nabyla Maan](https://open.spotify.com/artist/11MBLpYXQnyoJN5wJ9NQhW) | [PS Anthem \(From “PS\-2"\) \[Kannada\] \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/4dXfycka0T079aL7HYORMB) | 3:03 | 2023-04-17 | 2023-05-05 |
 | [Punyathma](https://open.spotify.com/track/4rd12OcvAEDHuKEVbGYx80) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [V\. Harikrishna](https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX) | [Kaatera \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1M0g0GyRjhdh84FV1gRfgY) | 3:03 | 2024-02-01 |  |
+| [Pushpa Pushpa \(From "Pushpa 2 The Rule"\) \[KANNADA\]](https://open.spotify.com/track/6RkQfVg0kZts7v5cPikfSn) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Varadaraj Chikkaballapura](https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo) | [Pushpa Pushpa \(From "Pushpa 2 The Rule"\) \[KANNADA\]](https://open.spotify.com/album/5r3CYnvwlkcdUJ7noko7w8) | 4:16 | 2024-05-02 |  |
 | [Pushpa Pushpa \(From "Vedha"\)](https://open.spotify.com/track/2vAt6CnFCqoyemVnE7oniI) | [Karunaada Chakravarthy Dr\. Shivarajkumar](https://open.spotify.com/artist/2jPfBNUaETfuNamenAdJil), [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ) | [Pushpa Pushpa \(From "Vedha"\)](https://open.spotify.com/album/74woB4U6hp1oY2LNKr9cdp) | 3:35 | 2022-12-11 | 2023-02-04 |
 | [Pushpavati \(From "Kranti"\)](https://open.spotify.com/track/4N9kWGZh8QGjsXK2q79EHF) | [V\. Hari Krishna](https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX), [Aishwarya Rangarajan](https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO), [Yogaraj Bhat](https://open.spotify.com/artist/09Vx5BBfyoDuot8jRhMVd1) | [Pushpavati \(From "Kranti"\)](https://open.spotify.com/album/6SxEMY4PKpgNMXNsBsh8Si) | 4:04 | 2022-12-26 | 2023-04-27 |
 | [Ra Ra Rai \(From "Baby Missing"\)](https://open.spotify.com/track/2UllA9Yp6d8oCytt7aLexh) | [Sparsh Arther](https://open.spotify.com/artist/4FaHRt1uJNf8imZo85dre4), [Darshan](https://open.spotify.com/artist/6uWHYCLn74ApUKkWLPXTX9), [Shri Sastha](https://open.spotify.com/artist/48o6CxQdWZwIagBSllp2hu), [V Nagendra Prasad](https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU) | [Ra Ra Rai \(From "Baby Missing"\)](https://open.spotify.com/album/2ec7Z3fP3BnWTQt6MBObnA) | 3:08 | 2023-01-20 | 2023-03-04 |

@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 1464809,
+  "2024-05-03": 1464904,
   "date_first_scraped": "2021-12-28",
   "description": "Take it easy with these laid back tracks from the eighties...",
   "name": "Easy 80s",
@@ -2477,8 +2477,8 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
-      "duration_ms": 266960,
+      "date_removed": null,
+      "duration_ms": 266226,
       "name": "Orinoco Flow",
       "url": "https://open.spotify.com/track/0Fyj9w0HVfjoxm9S8nGClt"
     },
@@ -3025,7 +3025,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 266200,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/6Ycf7Ch2VlEKlORbz7yfpJ"

@@ -2,9 +2,9 @@
 
 ### [La Crème](https://open.spotify.com/playlist/37i9dQZF1DX8f2x5zbH0oM)
 
-> La playlist au\-delà des genres\. Photo : Shaboozey
+> La playlist au\-delà des genres\. Photo : WILLOW
 
-115 songs - 6 hr 31 min
+116 songs - 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Lover’s Rock](https://open.spotify.com/track/7eLIyJ632oXGozoLiGB1Ik) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Lover’s Rock](https://open.spotify.com/album/7oeGRapHeKODWlsNGdOZ8Z) | 2:28 | 2024-04-04 |  |
 | [MADE 4 U](https://open.spotify.com/track/5yetn3rXSPBP8fl5d5zExV) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [MADE 4 U](https://open.spotify.com/album/0WlcKSVRN8XsTDN4yXsMWZ) | 4:09 | 2023-12-22 | 2024-03-23 |
 | [Me Myself and I](https://open.spotify.com/track/2SOzoXrQ0r8RXzaSXAnxx5) | [Clay and Friends](https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm) | [Me Myself and I](https://open.spotify.com/album/1yUFwiHCSBCNuoa21PltAI) | 2:33 | 2023-12-07 |  |
-| [Milk Town / Mr\. Carter](https://open.spotify.com/track/1sXeTMn9R8JlyG5JWVtZFQ) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Milk Town / Mr\. Carter](https://open.spotify.com/album/3yWm9a3y2UxbjInLPhDU4D) | 1:17 | 2024-04-04 |  |
+| [Milk Town / Mr\. Carter](https://open.spotify.com/track/1sXeTMn9R8JlyG5JWVtZFQ) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Milk Town / Mr\. Carter](https://open.spotify.com/album/3yWm9a3y2UxbjInLPhDU4D) | 1:17 | 2024-04-04 | 2024-05-03 |
 | [Moments Die](https://open.spotify.com/track/19DhgwtEahVgIKQmZNVs9Y) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5), [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Moments Die](https://open.spotify.com/album/4g3THqLL3e4LQjglICSQl1) | 4:06 | 2024-04-22 |  |
 | [Mood Swings](https://open.spotify.com/track/124nj3QzqpccVdLbiFHPeB) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 2:20 | 2024-02-09 | 2024-03-23 |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-12-07 | 2024-02-24 |
@@ -87,6 +87,7 @@
 | [Preciosa](https://open.spotify.com/track/1aeih1sP1g0ooHHkxrfA29) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Preciosa](https://open.spotify.com/album/0gq9bgTdNrmc9SlpuaZ0eD) | 2:53 | 2024-03-08 | 2024-03-30 |
 | [Rockin My World](https://open.spotify.com/track/6HW2JkmIH0XbAdG2hrQY2n) | [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Intercession Before Charlotte](https://open.spotify.com/album/5eT8m1zk15Bbb0FeyAZB49) | 3:01 | 2024-04-04 |  |
 | [Run Your Mouth](https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Run Your Mouth](https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP) | 2:40 | 2024-04-04 | 2024-04-23 |
+| [run!](https://open.spotify.com/track/7oqUxlU0mEv4fGt1CZ727y) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [empathogen](https://open.spotify.com/album/5jsfwcWxZIPtF5aaWx0mlL) | 3:08 | 2024-05-02 |  |
 | [sapon](https://open.spotify.com/track/5hNK7NeURb8ZVYBD2vZuiU) | [Flavien Berger](https://open.spotify.com/artist/5PyU5aVBI66v0pkCIvEJfu) | [sapon](https://open.spotify.com/album/1Dlo15YbEjGlLb0vTAfMBV) | 3:10 | 2023-12-07 |  |
 | [Shelter](https://open.spotify.com/track/4lNw3j77c9G4YuZp7QlPWb) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [Shelter](https://open.spotify.com/album/50xN7YSNYBK1qwRb0pfldN) | 6:25 | 2023-12-07 | 2024-02-10 |
 | [Shotput](https://open.spotify.com/track/6RmWk7p9QY8VMGHdgq4Ulh) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Shotput](https://open.spotify.com/album/4d6gnwGphGyx6ZPZRbs5Ir) | 2:50 | 2024-03-22 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This Is Montell Fish. Los temas esenciales, todos en una lista.",
-  "num_followers": 54453,
+  "num_followers": 54472,
   "original_name": "This Is Montell Fish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjA0gAAAAABHk89RzYCm8Pe4+dK33i6N",
+  "snapshot_id": "ZjGGAAAAAABF1AVQXrZUwk+i0IaZzU1p",
   "tracks": [
     {
       "added_at": null,
@@ -927,22 +927,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Light Will Find You",
-        "url": "https://open.spotify.com/album/3v5s77G4gqRKHNV6iG7wv7"
+        "name": "Imagination",
+        "url": "https://open.spotify.com/album/7vnT0JGQIOvhmkvPuvO0Fe"
       },
       "artists": [
-        {
-          "name": "Antoine Bradford",
-          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
-        },
         {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 227864,
-      "name": "Break of Dawn",
-      "url": "https://open.spotify.com/track/3gNLSsQTbAhihMPqWAX2Bk"
+      "duration_ms": 128000,
+      "name": "Imagination",
+      "url": "https://open.spotify.com/track/3A1XomhhNVD16MmJ24nK1Q"
     }
   ],
   "unique_name": "This Is Montell Fish",

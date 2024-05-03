@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 7605,
+  "2024-05-03": 7617,
   "date_first_scraped": "2022-10-26",
   "description": "This is Hawthorne Heights. The essential tracks, all in one playlist.",
   "name": "This Is Hawthorne Heights",
@@ -259,7 +259,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-22",
+      "date_removed": null,
       "duration_ms": 192173,
       "name": "Corps Of Corpses",
       "url": "https://open.spotify.com/track/5JteFKFxIHvcEEQhx2bkTT"
@@ -857,7 +857,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 194250,
       "name": "Skylark",
       "url": "https://open.spotify.com/track/3q2Mv8Dqv1rvL4zkf462ob"

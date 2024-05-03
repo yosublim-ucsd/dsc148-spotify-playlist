@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 
 > Left of center indie/alternative LGBTQIA+ artists\. Cover: The Japanese House
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,151 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,213 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 68 | [You!](https://open.spotify.com/track/1QrFCs420kYCvpv6T9CGLq) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM) | [You!](https://open.spotify.com/album/6u7QZYyppacDEeQvZnxRK1) | 2:55 |
 | 69 | [Boom](https://open.spotify.com/track/4ePoI4pCJV9METwC3vXLT4) | [Martha Hill](https://open.spotify.com/artist/4Kc5DsSHbP83BQiY1btHjR) | [Boom](https://open.spotify.com/album/1U7pRYqBHJcFhr8oRqyVvL) | 3:11 |
 | 70 | [Man in Your Eyes](https://open.spotify.com/track/2YkfUvBYoCQXYJN5hE2Oi8) | [Blue Mena](https://open.spotify.com/artist/0OVCaaj4RxjhMe7vHsPPCa) | [Multi Adolescence](https://open.spotify.com/album/5Q7BRGEFzlIlEjiBzqWxNz) | 2:28 |
-| 71 | [Warm Blanket](https://open.spotify.com/track/1PZz5Xx3A98S7vQH9HDWpD) | [Worriers](https://open.spotify.com/artist/55Z2PiiE80rBOkkL1wyNPD) | [Warm Blanket](https://open.spotify.com/album/0sIS7juiZ3tedOqliEmxvM) | 3:19 |
-| 72 | [Ruby Off The Rails](https://open.spotify.com/track/0TaViAtX3IcIJ3Osa5Mofc) | [Sarah and the Safe Word](https://open.spotify.com/artist/4YguD206MPuadAlhnGppL3) | [Ruby Off The Rails](https://open.spotify.com/album/2S8Nzw6qzyQXwPFLJW4WSL) | 3:23 |
+| 71 | [Ruby Off The Rails](https://open.spotify.com/track/0TaViAtX3IcIJ3Osa5Mofc) | [Sarah and the Safe Word](https://open.spotify.com/artist/4YguD206MPuadAlhnGppL3) | [Ruby Off The Rails](https://open.spotify.com/album/2S8Nzw6qzyQXwPFLJW4WSL) | 3:23 |
+| 72 | [Warm Blanket](https://open.spotify.com/track/1PZz5Xx3A98S7vQH9HDWpD) | [Worriers](https://open.spotify.com/artist/55Z2PiiE80rBOkkL1wyNPD) | [Warm Blanket](https://open.spotify.com/album/0sIS7juiZ3tedOqliEmxvM) | 3:19 |
 | 73 | [I Know Your Present](https://open.spotify.com/track/3ii9uGCjFToAW2KnjxV34P) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [I Know Your Present](https://open.spotify.com/album/709nDzklqvM2wkTRF7Gqkt) | 3:49 |
 | 74 | [Rockstar](https://open.spotify.com/track/5MErJ4WyrDRZvu7HloRNKr) | [Maple St.](https://open.spotify.com/artist/4gGRM0ctqeTWqer59nW0S9) | [Rockstar](https://open.spotify.com/album/5ro6fuWkVRLbMSEAdQBNy9) | 3:32 |
 | 75 | [Over And Over](https://open.spotify.com/track/18eGaEQVsoJrLuCjCabbXJ) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Don’t Even Worry](https://open.spotify.com/album/4O2OauH8V7xGJ0yru5xndT) | 2:32 |

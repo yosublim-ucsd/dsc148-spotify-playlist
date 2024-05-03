@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DX9lHz01BIpXP)
 
-> Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC?si=0xn0w0l4Ry25AXy2NFJmFQ">Benjamen</a>
+> Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG?si=5\-3ltZAmQIajFl12I2zImA">Early B</a>
 
-136 songs - 7 hr 8 min
+137 songs - 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Sê Net](https://open.spotify.com/track/5j6SZZCXd6h1N1bb00eaOu) | [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG), [Bliksemstraal](https://open.spotify.com/artist/0tZgg5DzLolw3cT7We6RQ0) | [Funky\-Kaans](https://open.spotify.com/album/4dCrzyFLnOoCrMCEfLZ6qa) | 3:21 | 2022-09-08 | 2022-12-02 |
 | [T\. D\. K\. S](https://open.spotify.com/track/7qbLm0IBfu31Tpq6W45XfH) | [MJoyner](https://open.spotify.com/artist/5SvCMCMj7dkqVnylp7xEdv), [TY Mxjor](https://open.spotify.com/artist/6jRREpnzwzBkDjT6QPtlLv) | [T\. D\. K\. S](https://open.spotify.com/album/6fdkcLJyX2csmHE6byABjX) | 3:30 | 2022-09-08 | 2024-02-23 |
 | [There It Is](https://open.spotify.com/track/5HVvJfVSUPUPpDwMJk4ATS) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [There It Is](https://open.spotify.com/album/3lSkOBovZW9Ex1crkCF54B) | 3:03 | 2022-09-08 | 2023-09-16 |
+| [Tolgevang](https://open.spotify.com/track/1WWiozUfi9d26DcAjOthSs) | [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG) | [Tolgevang](https://open.spotify.com/album/3QJKilrYn9ZvZXs8CLZNyc) | 2:40 | 2024-05-02 |  |
 | [Trap In Die Hood](https://open.spotify.com/track/1knJxiQusxbgHW0oKjwOym) | [Cee Jay Zondagh](https://open.spotify.com/artist/4VmAlrF7izp3l9EaOzSedM) | [Big Cee](https://open.spotify.com/album/59W9gdp4g28mnEy5KAXnmz) | 3:25 | 2023-03-23 |  |
 | [Tydmors](https://open.spotify.com/track/4caeJAVvSuY3U52Vxd5ssJ) | [Teezy](https://open.spotify.com/artist/2B7WOsddEAWCjKagux8qAt), [Lil L.K](https://open.spotify.com/artist/6mh3tF5l6me7DnPOLeTW1o) | [Voel Jy My?](https://open.spotify.com/album/7bsIWINVoobb2OF6rewxmx) | 2:45 | 2023-04-20 | 2023-05-06 |
 | [VAAK](https://open.spotify.com/track/0bnaAVz6aptalheXgeQSC1) | [JAYD?N](https://open.spotify.com/artist/54ngOPG4z2cf7NgtItNAG5), [Ello\-Jay](https://open.spotify.com/artist/2PDHdUgudDmPTRwh1HJAXp) | [VAAK](https://open.spotify.com/album/2IKuJJg4ytGVCdJu5cT4CI) | 2:09 | 2022-12-08 | 2024-01-19 |

@@ -195,6 +195,24 @@
     },
     {
       "album": {
+        "name": "Keteke",
+        "url": "https://open.spotify.com/album/7997TGx8F6QVwHdpYcV8hO"
+      },
+      "artists": [
+        {
+          "name": "KODA",
+          "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227208,
+      "name": "Aseda",
+      "url": "https://open.spotify.com/track/7AIplY4MAG0TBQMTeQkHuH"
+    },
+    {
+      "album": {
         "name": "Aseda",
         "url": "https://open.spotify.com/album/7M7BxTDWlHdM85VKItKein"
       },
@@ -224,7 +242,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 486295,
       "name": "Awake",
       "url": "https://open.spotify.com/track/4ppSvQRAPYr3sRP9KQPBaD"
@@ -1200,7 +1218,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 253622,
       "name": "Odo",
       "url": "https://open.spotify.com/track/7JtwmAKntQQBWVEc6EGGmj"
@@ -1342,6 +1360,24 @@
       "duration_ms": 275551,
       "name": "Ote Me Mu",
       "url": "https://open.spotify.com/track/1AKRHTiYjgX3hyXFSQYXvf"
+    },
+    {
+      "album": {
+        "name": "Owawani",
+        "url": "https://open.spotify.com/album/74ZFgjpDnKg8sF6kmIH4yq"
+      },
+      "artists": [
+        {
+          "name": "Nana Yaw Ofori-Atta",
+          "url": "https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Owawani",
+      "url": "https://open.spotify.com/track/0Tqoobs4tDE4MylAjg34yd"
     },
     {
       "album": {

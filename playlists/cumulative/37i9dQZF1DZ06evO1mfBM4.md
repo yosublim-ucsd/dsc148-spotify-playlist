@@ -2,7 +2,7 @@
 
 ### [This Is Luis Miguel](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1mfBM4)
 
-> This is Luis Miguel\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This Is Luis Miguel\. Los temas esenciales, todos en una lista.
 
 54 songs - 3 hr 15 min
 

@@ -4,12 +4,13 @@
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-145 songs - 9 hr 47 min
+147 songs - 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [7942](https://open.spotify.com/track/0xzKYFkaAz6ghf4b5DFWNb) | [20 Years of Age](https://open.spotify.com/artist/0KaZcu3pEVHfYOnB62eLFp) | [7942](https://open.spotify.com/album/6fURT60sqPccrtfa0bhgpO) | 3:58 | 2022-05-26 | 2023-01-20 |
 | [7942](https://open.spotify.com/track/5KKExY5gsSnK8OUKMgeSOO) | [20 Years of Age](https://open.spotify.com/artist/0KaZcu3pEVHfYOnB62eLFp) | [7942](https://open.spotify.com/album/0Fj7skkiFSSaRHjY50cRnK) | 3:58 | 2022-05-26 | 2022-07-29 |
+| [99](https://open.spotify.com/track/7L1nVvtFdiW4FlEK9tmJ6x) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [99](https://open.spotify.com/album/6bkEpHoEIvTulTI8tMg7q7) | 3:03 | 2024-05-03 |  |
 | [Afterglow](https://open.spotify.com/track/38wNASXJl6tNRoVFpnctt9) | [Oakë](https://open.spotify.com/artist/5FFEE3urupCaWwOzfAfV4I) | [Afterglow](https://open.spotify.com/album/44WOydQRUhz1JihfRZT6Zi) | 3:29 | 2023-02-16 |  |
 | [Algorithm](https://open.spotify.com/track/0i8K9oyDQSg5tPZUTHPwhX) | [HeeJin](https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks) | [<K>](https://open.spotify.com/album/69pBx0bi45GYip7oXcHbzu) | 3:08 | 2024-01-06 |  |
 | [Algorithm](https://open.spotify.com/track/2tGjh54bikVc5x3dl1pUKx) | [HeeJin](https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks) | [<K>](https://open.spotify.com/album/04UMoeGtpAK6TyqRLllHqs) | 3:08 | 2024-02-29 | 2024-04-19 |
@@ -64,6 +65,7 @@
 | [Manila](https://open.spotify.com/track/74IGeughWZR1GnipPWuKoB) | [ONE CLICK STRAIGHT](https://open.spotify.com/artist/457BGAQIRpxlvY5gcbDjUQ) | [Manila](https://open.spotify.com/album/0aj0Z3Z8NnVg7gmdXKtGNO) | 3:35 | 2023-05-18 | 2024-04-19 |
 | [Manila](https://open.spotify.com/track/32OLhhBNdDypGemTbxDavN) | [ONE CLICK STRAIGHT](https://open.spotify.com/artist/457BGAQIRpxlvY5gcbDjUQ) | [Manila](https://open.spotify.com/album/0W2sFOFR8ZRKjJ520qFyR6) | 3:35 | 2022-05-26 |  |
 | [MASA MUDA](https://open.spotify.com/track/0eSwUxNz2EFlGC7Wn5Lsra) | [Laura Pradipta](https://open.spotify.com/artist/3DjOjSvtE3thRSMBeBR4kH) | [MASA MUDA](https://open.spotify.com/album/53E46YfYxg4Wbogp1ihzSV) | 4:38 | 2022-07-30 |  |
+| [Maybe](https://open.spotify.com/track/3LuOx25ap0CTXnI8Ie2qsU) | [Prou.](https://open.spotify.com/artist/1GvFTATYqJu2L23GMjCG2o) | [Maybe](https://open.spotify.com/album/3GcOuTugF2f79Nt2d0sVEo) | 4:08 | 2024-05-03 |  |
 | [Mejikuhibiniu](https://open.spotify.com/track/0wBdb4pmz0hyyI0M6ilZTy) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv), [Laze](https://open.spotify.com/artist/1IqTdUbQ33vM6tbV1fiWKZ) | [Mejikuhibiniu](https://open.spotify.com/album/5ErP3mluV25TH2ncKKcWM4) | 3:46 | 2022-05-26 |  |
 | [Memories](https://open.spotify.com/track/20AYTqY5fkCDvNN1EJytyh) | [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Chords & Melodies](https://open.spotify.com/album/0AXZJQdtYuxOqn50svT1eB) | 4:19 | 2022-08-30 | 2023-02-17 |
 | [Memories](https://open.spotify.com/track/2CpsluedxDXHfOiqIVGg6N) | [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Chords & Melodies](https://open.spotify.com/album/5eO2X97XMmGxuDNyPSFa0Z) | 4:19 | 2022-05-26 | 2022-09-30 |

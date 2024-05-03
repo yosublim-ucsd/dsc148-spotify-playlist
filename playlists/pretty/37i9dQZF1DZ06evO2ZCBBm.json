@@ -1,12 +1,12 @@
 {
   "description": "This is The Used. The essential tracks, all in one playlist.",
-  "num_followers": 43036,
+  "num_followers": 43043,
   "original_name": "This Is The Used",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjA0gAAAAACS7RFONrPcJXRQzVchrkNS",
+  "snapshot_id": "ZjGGAAAAAAALoOozua0qsuuNCQixDnIY",
   "tracks": [
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Used",
-        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 200333,
-      "name": "Bulimic",
-      "url": "https://open.spotify.com/track/7F3siFl1KHijy9icZP3Idd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lies for the Liars",
         "url": "https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 193733,
       "name": "Paralyzed",
       "url": "https://open.spotify.com/track/7I106tELU6iawFLUJcBUx5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Used",
+        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 200333,
+      "name": "Bulimic",
+      "url": "https://open.spotify.com/track/7F3siFl1KHijy9icZP3Idd"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Used",
-        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 175133,
-      "name": "Maybe Memories",
-      "url": "https://open.spotify.com/track/4I4uCtlWg6I7OyuGZE4wqn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Artwork (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3998jgjlz1fvCo57NoN07p"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 197866,
       "name": "Blood on My Hands",
       "url": "https://open.spotify.com/track/5hNeatT8kKThMjqGNi9SZk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Used",
+        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 175133,
+      "name": "Maybe Memories",
+      "url": "https://open.spotify.com/track/4I4uCtlWg6I7OyuGZE4wqn"
     },
     {
       "added_at": null,

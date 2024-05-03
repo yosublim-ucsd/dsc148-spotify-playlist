@@ -4,7 +4,7 @@
 
 > All in us! ITZY is back!
 
-162 songs - 8 hr 33 min
+163 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Mirror](https://open.spotify.com/track/7hwBAcUNcMFqNL2ZdyUexn) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) | 4:18 | 2022-07-22 | 2024-04-19 |
 | [Mr\. Vampire](https://open.spotify.com/track/3uI6jqO0fFBoFryc8SJOXw) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [BORN TO BE](https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz) | 2:50 | 2024-01-08 | 2024-04-19 |
 | [Mr\. Vampire](https://open.spotify.com/track/4mlMihXnpCz6d05rI5hQV0) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [BORN TO BE](https://open.spotify.com/album/5ivYXhv1TJHN4xik0kKvlC) | 2:50 | 2024-01-08 |  |
+| [No Biggie](https://open.spotify.com/track/3o4FOm8UEvjbTignWbKxYr) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [No Biggie](https://open.spotify.com/album/1urYBW5vhEnfX0zzdKvpoX) | 3:01 | 2024-05-02 |  |
 | [NOBODY LIKE YOU](https://open.spotify.com/track/4YUqGDMd1yJAa5i2ShysI6) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ME](https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U) | 3:17 | 2022-07-22 | 2024-04-19 |
 | [NOBODY LIKE YOU](https://open.spotify.com/track/7JSaztudhBzfGiudI1QMJl) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [It'z Me](https://open.spotify.com/album/2gertXS08whDTzBWfmewPO) | 3:17 | 2022-04-20 |  |
 | [None of My Business](https://open.spotify.com/track/4vfQRnIqR3GTERQGDS0pwZ) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [KILL MY DOUBT](https://open.spotify.com/album/1q8taEnX2IOwf5PaTjXdN1) | 3:22 | 2024-01-08 |  |

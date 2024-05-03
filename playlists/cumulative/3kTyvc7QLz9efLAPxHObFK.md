@@ -4,7 +4,7 @@
 
 > 
 
-1,308 songs - 3 day 0 hr 4 min
+1,310 songs - 3 day 0 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -435,6 +435,7 @@
 | [Forget the Real World](https://open.spotify.com/track/52BmlGYyXjcQLqBISvN7Nd) | [Remzcore](https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp), [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2) | [Forget the Real World](https://open.spotify.com/album/2cAXdmY5D2Yd3XBw8eEd3F) | 3:48 | 2022-11-21 |  |
 | [Foutue Babylone](https://open.spotify.com/track/5wwabiQyDJSOmz8165DBON) | [JKLL](https://open.spotify.com/artist/3BzXxsczLsf5AjlmIAFyT7), [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Foutue Babylone](https://open.spotify.com/album/0gsdd1nsSRvU0GEebaNHT9) | 3:36 | 2022-11-21 |  |
 | [Freaks](https://open.spotify.com/track/5ar09Jwqg3MwPpAip6WaBk) | [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [Freaks](https://open.spotify.com/album/1qsunA2Wk6W5M3IMnuyS3a) | 3:52 | 2022-09-06 |  |
+| [Freaky Boy](https://open.spotify.com/track/0tole2T6k9IZQOrHYXUJjX) | [Ender](https://open.spotify.com/artist/4dm7VRRO7tspAt2XuwEMNw) | [Freaky Boy](https://open.spotify.com/album/3VX183SSIxltAqqIZv34IA) | 2:37 | 2024-05-03 |  |
 | [Free To Fly](https://open.spotify.com/track/4atzHpbNPrr1fheYMoF2VX) | [Jade Key](https://open.spotify.com/artist/3gbNZrDSnpKK7PZ1x3i4hb), [Charmae](https://open.spotify.com/artist/6YwsIfJahtVO1AUlVumEs8) | [Free To Fly](https://open.spotify.com/album/5ZKF5IHJdvfZnucWmk906y) | 3:16 | 2022-02-14 |  |
 | [FREE YOUR MIND](https://open.spotify.com/track/0w7JbHxSw9d665gSID8Iwy) | [DEEZL](https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L) | [FREE YOUR MIND](https://open.spotify.com/album/35H7GvoK81gzlkSIcfIRyC) | 3:19 | 2023-03-21 |  |
 | [Freefall](https://open.spotify.com/track/68rTesSbIv3t9ZyVS5uB8H) | [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp) | [Freefall](https://open.spotify.com/album/38B6vkObxeceeFylF5w9cE) | 3:33 | 2022-09-06 |  |
@@ -502,7 +503,7 @@
 | [Half A World Away \- Extended Mix](https://open.spotify.com/track/1hEmubqn4eVIcCurMkG5QJ) | [Riko](https://open.spotify.com/artist/6VZ658qB3goLJXy084ROQs), [James K](https://open.spotify.com/artist/7Jv5fZ5LAjqSao6oxMSurl) | [Half A World Away](https://open.spotify.com/album/38PcAJrC4c6mDZvheNY8mk) | 5:38 | 2023-07-21 |  |
 | [Halloween Is Chaos](https://open.spotify.com/track/1DezXswFktyqHS8fBA6lzs) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO), [北小路ヒスイ](https://open.spotify.com/artist/79hRBKERka4hkPcsH5wE8x) | [HALLOWEEN IS CHAOS](https://open.spotify.com/album/1gJdi0jiZTaEk2idFDymBo) | 3:59 | 2022-08-14 |  |
 | [Hallucin8](https://open.spotify.com/track/3Joto9tBAWwMH7ZJcc12Gk) | [Mind Compressor](https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n), [Antenora](https://open.spotify.com/artist/72SQfmyjszuSw1SNoNWpvz) | [Hallucin8](https://open.spotify.com/album/0Y86mWehTSHloLiKT0wtIo) | 2:57 | 2024-04-19 |  |
-| [Hallucinate](https://open.spotify.com/track/5byappNwH0EEjPqmh6NMtU) | [Luminite](https://open.spotify.com/artist/56uBktjCLyONyLAgE7VBq1) | [Hallunicate](https://open.spotify.com/album/1AP57nFJb3dlPJSWWb17wN) | 2:20 | 2024-04-26 |  |
+| [Hallucinate](https://open.spotify.com/track/5byappNwH0EEjPqmh6NMtU) | [Luminite](https://open.spotify.com/artist/56uBktjCLyONyLAgE7VBq1) | [Hallucinate](https://open.spotify.com/album/1AP57nFJb3dlPJSWWb17wN) | 2:20 | 2024-04-26 |  |
 | [Hard 2 The Core](https://open.spotify.com/track/0SHuuJh45TfuSIkRl2kHX5) | [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV) | [Hard 2 The Core](https://open.spotify.com/album/0a7UPxBDJTJk5VZl5BRrvZ) | 2:56 | 2023-05-12 |  |
 | [Hard Pounding \- Radio Edit](https://open.spotify.com/track/2xv7HQHi3NV5TqyVPBAgco) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO), [D Noizer](https://open.spotify.com/artist/1cofRSH6vY5s9xOHc0NBHU) | [Hard Pounding](https://open.spotify.com/album/79XnwCb2lT7bZ4A83RhH4j) | 3:06 | 2024-04-13 |  |
 | [Hard uit me plaat](https://open.spotify.com/track/6AtTrmYEkzJ8uMUj8J8Vmt) | [Nosferatu](https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY), [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6), [Brutaal](https://open.spotify.com/artist/2L75XehpwmdRiCRtT8ctiU) | [Demonic Playgrounds](https://open.spotify.com/album/23jLMFzSBYcGYrdu1f85NC) | 2:42 | 2022-09-06 |  |
@@ -1166,6 +1167,7 @@
 | [TO THE DEATH](https://open.spotify.com/track/3Bm5dSOqvqbBHEFNm6JjpW) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [TO THE DEATH](https://open.spotify.com/album/6GCfqgLxi4IiTk6NjqLMiN) | 3:21 | 2023-06-24 |  |
 | [To The Ground](https://open.spotify.com/track/1wAXCdoOGFRhjhK9gKfvbh) | [Mutilator](https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN) | [To The Ground](https://open.spotify.com/album/6LfUya1W5rCy63DO5yBf1U) | 2:56 | 2022-10-27 |  |
 | [To The Ones We Hate The Most](https://open.spotify.com/track/674xk8ZDWT9a5qqYizvOjE) | [Yuta Imai](https://open.spotify.com/artist/3sMoBcuGm33knrJxEoJY5k) | [To The Ones We Hate The Most](https://open.spotify.com/album/688JArJhRJy7vomsbj7sMd) | 3:02 | 2022-02-22 |  |
+| [To the Top](https://open.spotify.com/track/1s5OCXuJ5D7g9qJ1YCJjX6) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY) | [To the Top](https://open.spotify.com/album/086aM68IMih2Kx6l54jMLP) | 2:29 | 2024-05-02 |  |
 | [Tokyo Drift](https://open.spotify.com/track/0VP8dYPm6cytBsj7zCy83r) | [RAYZEN](https://open.spotify.com/artist/2x7wHChcawAYikCTKfhjId) | [Tokyo Drift](https://open.spotify.com/album/6pBaH3FOjvi19ZSIWzAwJv) | 2:15 | 2024-04-17 |  |
 | [Tokyo Midnight](https://open.spotify.com/track/3MW6Xx6gp17o4WSuxLj3PN) | [Yuta Imai](https://open.spotify.com/artist/3sMoBcuGm33knrJxEoJY5k), [Mami](https://open.spotify.com/artist/4H4hbdqo6CUw5q77Wv6U0O) | [Tokyo Midnight](https://open.spotify.com/album/5K16ZQvBXmuIT23ZSnnYwO) | 2:56 | 2023-11-26 |  |
 | [Tomorrow Night \- Long ver](https://open.spotify.com/track/0k1dXe3Fq6JUlWdonHcRy8) | [REDALiCE](https://open.spotify.com/artist/3m63JSv6jhLEKNXcEd5EUK) | [CROWN](https://open.spotify.com/album/48h2hNZyq3hyH6cZh0oVoI) | 3:33 | 2023-05-13 |  |

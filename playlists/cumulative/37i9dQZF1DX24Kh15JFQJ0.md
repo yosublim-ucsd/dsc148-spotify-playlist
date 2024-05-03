@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Sawyer Brown
 
-278 songs - 16 hr 19 min
+280 songs - 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Out of My Mind \(Country\)](https://open.spotify.com/track/1cEM4aYMmGdm6j8SRimVHG) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Out of My Mind \(Country\)](https://open.spotify.com/album/1EuPbXPAp6kO8qQSxvuJmn) | 3:19 | 2023-07-14 |  |
 | [Patsy Cline Crazy](https://open.spotify.com/track/4Wcnc8p86AI1d2mgDuAGNy) | [Deborah Allen](https://open.spotify.com/artist/0WO15UbgUyKKtn1anzZP5u) | [Patsy Cline Crazy](https://open.spotify.com/album/5o1ZeqUoGfSzaPuC84jDjt) | 3:49 | 2022-02-25 |  |
 | [Plans](https://open.spotify.com/track/243xVaJ0uGwvzFpZS3EXxc) | [FIREROSE](https://open.spotify.com/artist/2hUvYMF6MBxiZVXjiglBPX), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [Plans](https://open.spotify.com/album/6bPToqWK7UeSk6rvI2wEAq) | 3:39 | 2023-08-18 |  |
+| [Pretty Dang Good](https://open.spotify.com/track/35HIkkB8nnZcTqy1mwhz8Y) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Pretty Dang Good](https://open.spotify.com/album/19bExMYQXy9nlNNIr5LXkf) | 2:54 | 2024-05-03 |  |
 | [Pride](https://open.spotify.com/track/6rrGwk0tMib7jcDm4iKTVE) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Pride](https://open.spotify.com/album/5j2EBpH7Ihjnz5ZN9ApSdh) | 3:42 | 2024-03-29 |  |
 | [Prisoner of the Highway \(feat\. Jason Aldean\)](https://open.spotify.com/track/2RRE3hNrMaEu2DQPff2N1s) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ), [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [The Duets](https://open.spotify.com/album/1ru2yPj8ayXP2xAHQ3hbbb) | 4:02 | 2021-10-15 |  |
 | [Put It In A Song](https://open.spotify.com/track/33JXc7HJY4mZcCuGESBgtD) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Put It In A Song](https://open.spotify.com/album/4enHcau3yyps8zTLjImeuH) | 3:35 | 2024-04-12 |  |
@@ -275,6 +276,7 @@
 | [Where Have You Gone](https://open.spotify.com/track/1BdqRVyZeZrCWnbR5zsUz5) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Where Have You Gone](https://open.spotify.com/album/2VK5OGhlI6yJUSvQ1VMb6J) | 4:46 | 2021-10-15 |  |
 | [Where Her Heart Has Always Been \(Written for Mama’s funeral with an old recording of her reading from the Bible\)](https://open.spotify.com/track/0YhPTrNqHLOVp1zNpXtgP6) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Where Her Heart Has Always Been \(Written for Mama’s funeral with an old recording of her reading from the Bible\)](https://open.spotify.com/album/6tEbgG4tbB7nYNNzgRcPji) | 3:27 | 2021-10-15 |  |
 | [Where I Am Today](https://open.spotify.com/track/2QOk1rpS1exoxLCbcQHGW8) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [The Way I Wanna Go](https://open.spotify.com/album/60ev0o8cT8GbqMIYtfIssT) | 3:29 | 2021-10-15 |  |
+| [Where That Came From](https://open.spotify.com/track/6vNJDp8znmaQp2vAXHRPGd) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Where That Came From](https://open.spotify.com/album/0ijAqKhMaahw0WCyuntRlB) | 3:11 | 2024-05-03 |  |
 | [Why Me](https://open.spotify.com/track/4fnDSVPmxFOlo05eGTM8qb) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Willie Nelson Family](https://open.spotify.com/album/2gSxAG6hqMBsvyBZ0ZnJwt) | 2:12 | 2021-11-19 | 2022-03-12 |
 | [Why Things Happen](https://open.spotify.com/track/04FGSzMOj2Axx91BaeD8kz) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ), [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [Bettie James Gold Edition](https://open.spotify.com/album/4qLuvW8Tyfzr8c79VM531V) | 3:16 | 2023-11-03 | 2024-04-19 |
 | [Why Things Happen](https://open.spotify.com/track/0ZONNSdfFeiIjBX25ZKRbj) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ), [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [Bettie James](https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h) | 3:16 | 2021-10-15 |  |

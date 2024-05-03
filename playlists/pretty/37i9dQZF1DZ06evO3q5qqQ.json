@@ -1,12 +1,12 @@
 {
-  "description": "This Is Grupo Arriesgado. Los temas esenciales, todos en una lista.",
-  "num_followers": 107632,
+  "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
+  "num_followers": 107623,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjA0gAAAAAAiLX03VfnUDzheBSf46q7F",
+  "snapshot_id": "ZjGGAAAAAADYVtyrbahdUX7baY3lgLWJ",
   "tracks": [
     {
       "added_at": null,
@@ -139,30 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El R\u00e1pido (En vivo)",
-        "url": "https://open.spotify.com/album/29fxzSLm7MgZ8rJz4fJOef"
-      },
-      "artists": [
-        {
-          "name": "Gordo Arce",
-          "url": "https://open.spotify.com/artist/00v3sw4z0wRS94vVPNQLU7"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "KC Music",
-          "url": "https://open.spotify.com/artist/7akKJbX2GFFxz73zaL3zZ0"
-        }
-      ],
-      "duration_ms": 208405,
-      "name": "El R\u00e1pido - En vivo",
-      "url": "https://open.spotify.com/track/130anijBVOTasF32ZHwuJi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Se\u00f1or De La Monta\u00f1a",
         "url": "https://open.spotify.com/album/3yJ7amzvZuunZNifBM6KNl"
       },
@@ -183,6 +159,30 @@
       "duration_ms": 145600,
       "name": "El Se\u00f1or De La Monta\u00f1a",
       "url": "https://open.spotify.com/track/1rjI7wcOffMI560HsHU5q7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El R\u00e1pido (En vivo)",
+        "url": "https://open.spotify.com/album/29fxzSLm7MgZ8rJz4fJOef"
+      },
+      "artists": [
+        {
+          "name": "Gordo Arce",
+          "url": "https://open.spotify.com/artist/00v3sw4z0wRS94vVPNQLU7"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "KC Music",
+          "url": "https://open.spotify.com/artist/7akKJbX2GFFxz73zaL3zZ0"
+        }
+      ],
+      "duration_ms": 208405,
+      "name": "El R\u00e1pido - En vivo",
+      "url": "https://open.spotify.com/track/130anijBVOTasF32ZHwuJi"
     },
     {
       "added_at": null,
@@ -287,26 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Se Preparen",
-        "url": "https://open.spotify.com/album/6im0kyzVwpV1ozVymkze6H"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "Gordo Arce",
-          "url": "https://open.spotify.com/artist/00v3sw4z0wRS94vVPNQLU7"
-        }
-      ],
-      "duration_ms": 163750,
-      "name": "Que Se Preparen",
-      "url": "https://open.spotify.com/track/6AGjRofC1oygn6XgS8sRDc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bien Belicones (En vivo)",
         "url": "https://open.spotify.com/album/0lroHqTkfmsxY3OYhRWZda"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 150200,
       "name": "Bien Belicones (En vivo)",
       "url": "https://open.spotify.com/track/6PAUJwzFJgtL6eFZzcg6Ne"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Se Preparen",
+        "url": "https://open.spotify.com/album/6im0kyzVwpV1ozVymkze6H"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Gordo Arce",
+          "url": "https://open.spotify.com/artist/00v3sw4z0wRS94vVPNQLU7"
+        }
+      ],
+      "duration_ms": 163750,
+      "name": "Que Se Preparen",
+      "url": "https://open.spotify.com/track/6AGjRofC1oygn6XgS8sRDc"
     },
     {
       "added_at": null,
@@ -471,6 +471,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Amor No Es Para Todos",
+        "url": "https://open.spotify.com/album/3yDNbHOaUo0r9yafxBkAJl"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 142341,
+      "name": "El Amor No Es Para Todos",
+      "url": "https://open.spotify.com/track/3oazxJTMSqk0KCupesUq7B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Precio De La Soledad",
         "url": "https://open.spotify.com/album/2eJw7c1smx7ycjTqcBgI5I"
       },
@@ -503,26 +523,6 @@
       "duration_ms": 172000,
       "name": "Prohibido (En vivo)",
       "url": "https://open.spotify.com/track/1WBk7QTwuuFbBnSCEEpk8D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Amor No Es Para Todos",
-        "url": "https://open.spotify.com/album/3yDNbHOaUo0r9yafxBkAJl"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 142341,
-      "name": "El Amor No Es Para Todos",
-      "url": "https://open.spotify.com/track/3oazxJTMSqk0KCupesUq7B"
     },
     {
       "added_at": null,
@@ -579,26 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rancherik Asterik",
-        "url": "https://open.spotify.com/album/4oXl05OItqFoGP7f80mnGD"
-      },
-      "artists": [
-        {
-          "name": "La Cuadrilla Oficial",
-          "url": "https://open.spotify.com/artist/7dGKr4Wpnd2RP4Tas8aGfI"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 134826,
-      "name": "Rancherik Asterik",
-      "url": "https://open.spotify.com/track/61xXO8u6IwE1o2cDv66V83"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Mollete (En Vivo)",
         "url": "https://open.spotify.com/album/6NHKYhMdtDI52ztF4mkeBA"
       },
@@ -619,18 +599,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mes De Las Madres",
-        "url": "https://open.spotify.com/album/5wUs3Gjy7H6Pvq873lvoDN"
+        "name": "Rancherik Asterik",
+        "url": "https://open.spotify.com/album/4oXl05OItqFoGP7f80mnGD"
       },
       "artists": [
+        {
+          "name": "La Cuadrilla Oficial",
+          "url": "https://open.spotify.com/artist/7dGKr4Wpnd2RP4Tas8aGfI"
+        },
         {
           "name": "Grupo Arriesgado",
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 175673,
-      "name": "El Chapio",
-      "url": "https://open.spotify.com/track/67awu82DAAtJGUtvfbSZM8"
+      "duration_ms": 134826,
+      "name": "Rancherik Asterik",
+      "url": "https://open.spotify.com/track/61xXO8u6IwE1o2cDv66V83"
     },
     {
       "added_at": null,
@@ -655,22 +639,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Rey Del Desierto",
-        "url": "https://open.spotify.com/album/4JCudJFhG9tWtQSpeeUMo2"
+        "name": "El Mes De Las Madres",
+        "url": "https://open.spotify.com/album/5wUs3Gjy7H6Pvq873lvoDN"
       },
       "artists": [
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        },
         {
           "name": "Grupo Arriesgado",
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 179733,
-      "name": "El Rey Del Desierto",
-      "url": "https://open.spotify.com/track/1iO6pfHqWdge88EyhGaqFE"
+      "duration_ms": 175673,
+      "name": "El Chapio",
+      "url": "https://open.spotify.com/track/67awu82DAAtJGUtvfbSZM8"
     },
     {
       "added_at": null,
@@ -703,6 +683,26 @@
       "duration_ms": 132328,
       "name": "Aqui En Mi Corazon Tu Mandas",
       "url": "https://open.spotify.com/track/6j77T5GjC6j3oT0R45hddU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Rey Del Desierto",
+        "url": "https://open.spotify.com/album/4JCudJFhG9tWtQSpeeUMo2"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 179733,
+      "name": "El Rey Del Desierto",
+      "url": "https://open.spotify.com/track/1iO6pfHqWdge88EyhGaqFE"
     },
     {
       "added_at": null,
@@ -755,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Charla",
-        "url": "https://open.spotify.com/album/61QqtB8p8Eua07ha7IgRKr"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "Panchito Arredondo",
-          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
-        }
-      ],
-      "duration_ms": 230426,
-      "name": "La Charla",
-      "url": "https://open.spotify.com/track/6CMJ82WDjcJzJOzID4Rtog"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Son Cosas De La Peda",
         "url": "https://open.spotify.com/album/1JIFXZFu0d8ZPUiyq531zE"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 155199,
       "name": "Son Cosas De La Peda",
       "url": "https://open.spotify.com/track/7r4zmKeD4bTlj9Sg1KjWSz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Charla",
+        "url": "https://open.spotify.com/album/61QqtB8p8Eua07ha7IgRKr"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+        }
+      ],
+      "duration_ms": 230426,
+      "name": "La Charla",
+      "url": "https://open.spotify.com/track/6CMJ82WDjcJzJOzID4Rtog"
     },
     {
       "added_at": null,
@@ -827,6 +827,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A La Sombra De Un \u00c1rbol, Vol. II (En Vivo)",
+        "url": "https://open.spotify.com/album/5E7iMK7m675htoXMQigyeM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 189738,
+      "name": "Chuyito y el Mayo (En Vivo)",
+      "url": "https://open.spotify.com/track/7jjlHbcXCJOHJ2h7ilpQyx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soy El Alucin Remix",
         "url": "https://open.spotify.com/album/5TTfRmCIRqGfopCFS38EK6"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 125225,
       "name": "Soy El Alucin Remix",
       "url": "https://open.spotify.com/track/2TLkItiSWsEoJqb3ROSzKn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A La Sombra De Un \u00c1rbol, Vol. II (En Vivo)",
-        "url": "https://open.spotify.com/album/5E7iMK7m675htoXMQigyeM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 189738,
-      "name": "Chuyito y el Mayo (En Vivo)",
-      "url": "https://open.spotify.com/track/7jjlHbcXCJOHJ2h7ilpQyx"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 
 > Your favorite artists, caught in the act! Recorded Live...just like you were there\. Cover: Luke Combs
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,285 likes - 130 songs - 9 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,336 likes - 130 songs - 9 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

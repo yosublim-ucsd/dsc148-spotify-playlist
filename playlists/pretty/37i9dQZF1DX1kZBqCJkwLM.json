@@ -1,6 +1,6 @@
 {
   "description": "Dope, Asian, and Femme. Cover: YOASOBI",
-  "num_followers": 85387,
+  "num_followers": 85383,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,26 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
+        "name": "trust (feat. RINI)",
+        "url": "https://open.spotify.com/album/2p01yIsIKueoaEQ8SKG7Bh"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        },
+        {
+          "name": "RINI",
+          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
+        }
+      ],
+      "duration_ms": 197557,
+      "name": "trust (feat. RINI)",
+      "url": "https://open.spotify.com/track/6GJv5FTWGHWgl4uPdpc6O2"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
         "name": "The Weekend",
         "url": "https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq"
       },
@@ -867,22 +887,18 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "trust (feat. RINI)",
-        "url": "https://open.spotify.com/album/2p01yIsIKueoaEQ8SKG7Bh"
+        "name": "EAT / DIRT",
+        "url": "https://open.spotify.com/album/5sSHtc1O80DaV60NDKPnYu"
       },
       "artists": [
         {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        },
-        {
-          "name": "RINI",
-          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
+          "name": "Zoe Ko",
+          "url": "https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ"
         }
       ],
-      "duration_ms": 197557,
-      "name": "trust (feat. RINI)",
-      "url": "https://open.spotify.com/track/6GJv5FTWGHWgl4uPdpc6O2"
+      "duration_ms": 137500,
+      "name": "EAT",
+      "url": "https://open.spotify.com/track/3CRDDASiC4gwTYUOOdnMxt"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -931,22 +947,6 @@
       "duration_ms": 177845,
       "name": "Lover Like Me",
       "url": "https://open.spotify.com/track/33H4jpDv7tK6UxPukAiabA"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "EAT / DIRT",
-        "url": "https://open.spotify.com/album/5sSHtc1O80DaV60NDKPnYu"
-      },
-      "artists": [
-        {
-          "name": "Zoe Ko",
-          "url": "https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ"
-        }
-      ],
-      "duration_ms": 137500,
-      "name": "EAT",
-      "url": "https://open.spotify.com/track/3CRDDASiC4gwTYUOOdnMxt"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Skin",
-        "url": "https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7"
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/3EpDQMIbcSrvkU9g2drqz3"
       },
       "artists": [
         {
-          "name": "Joy Crookes",
-          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+          "name": "Audrey Mika",
+          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
         }
       ],
-      "duration_ms": 282110,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/7hDxkJFn3UsZgoWzDkyubD"
+      "duration_ms": 197223,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/39LmkwLmeETbr80Uy7HIVU"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/3EpDQMIbcSrvkU9g2drqz3"
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7"
       },
       "artists": [
         {
-          "name": "Audrey Mika",
-          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
         }
       ],
-      "duration_ms": 197223,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/39LmkwLmeETbr80Uy7HIVU"
+      "duration_ms": 282110,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/7hDxkJFn3UsZgoWzDkyubD"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Oops! Ur Single Now",
-        "url": "https://open.spotify.com/album/1UXUSIB2VlwmeCdkQncGtC"
-      },
-      "artists": [
-        {
-          "name": "Rhea Raj",
-          "url": "https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1"
-        }
-      ],
-      "duration_ms": 122600,
-      "name": "Oops! Ur Single Now",
-      "url": "https://open.spotify.com/track/5RBGrAXylxMWJhCEGWb4AS"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Apollo 8",
         "url": "https://open.spotify.com/album/6ktVSiT3MwRj9z5CJjC2df"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 173008,
       "name": "Rings of Saturn",
       "url": "https://open.spotify.com/track/6B2smPDLlM2Ms59jSB4pVH"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Oops! Ur Single Now",
+        "url": "https://open.spotify.com/album/1UXUSIB2VlwmeCdkQncGtC"
+      },
+      "artists": [
+        {
+          "name": "Rhea Raj",
+          "url": "https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1"
+        }
+      ],
+      "duration_ms": 122600,
+      "name": "Oops! Ur Single Now",
+      "url": "https://open.spotify.com/track/5RBGrAXylxMWJhCEGWb4AS"
     },
     {
       "added_at": "2024-04-26 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nt6DdNdydo.md) - [plain]
 
 > Where swing meets blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,365 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,393 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nt6DdNdydo.md) - [plain]
 | 33 | [Ravin' At The Haven](https://open.spotify.com/track/1RSqMNhk8G61L50P8CYzFN) | [Eddie "Lockjaw" Davis](https://open.spotify.com/artist/0gNn3uUyIEErdQthThI51i) | [The Ultimate Jazz Archive 24 \(1 Of 4\)](https://open.spotify.com/album/5qexDsh1yWVL4Ot6rbr9il) | 2:25 |
 | 34 | [Skeet's California Sunshine](https://open.spotify.com/track/2ewbTqjVof485O4tVrNXsd) | [Floyd Dixon](https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M) | [Summer Blues Essentials](https://open.spotify.com/album/2n5OaC1GrgHfCQ2T2XpH9U) | 2:39 |
 | 35 | [Don't Leave Me Baby](https://open.spotify.com/track/4o7M4lcfWchslXl2Lmr1hG) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [The Aladdin Records Story](https://open.spotify.com/album/6u6jOi6YuLSVQkhRHK3rvM) | 3:00 |
-| 36 | [Saturday Night Fish Fry \- Pts\. 1 & 2](https://open.spotify.com/track/0LHfPA0hWcu40eP3O3pb8N) | [Louis Jordan](https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2) | [Jack, You're Dead: The Essential Blue Archive](https://open.spotify.com/album/2s0dl1Uf59BlayS3m47FDy) | 5:24 |
+| 36 | [Caldonia](https://open.spotify.com/track/3BRWIwvtwSeKzcwUfNF1i9) | [Louis Jordan](https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2) | [Jack, You're Dead: The Essential Blue Archive](https://open.spotify.com/album/2s0dl1Uf59BlayS3m47FDy) | 2:43 |
 | 37 | [Jump, Jive, An' Wail \- Remastered 1996](https://open.spotify.com/track/1avf1M4btPbNGiIUXeNSvt) | [Louis Prima & Keely Smith](https://open.spotify.com/artist/1VNfHD8QBVfKnAeHUh42jv), [Sam Butera & The Witnesses](https://open.spotify.com/artist/70njzKgLbLbWkCPhKEu2oV) | [Jump, Jive An' Wail: The Essential](https://open.spotify.com/album/2FIAcPHPr2NHqszrKQXj8w) | 3:29 |
 | 38 | [I'm Going To Have Myself A Ball](https://open.spotify.com/track/1959fuoNuBSXULOrA4xJi5) | [Tiny Bradshaw](https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa) | [Walk That Mess!](https://open.spotify.com/album/5YK3ihvqFAPUDhsv6fcMTR) | 2:44 |
 | 39 | [Shake That Thing](https://open.spotify.com/track/2XacJ1d8YqhSrxxUFykEOY) | [Wynonie Harris](https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn) | [More Greatest Hits \- Good Rockin' Tonight](https://open.spotify.com/album/1d0AzcPC6aD8jmDmhCYRuP) | 2:16 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nt6DdNdydo.md) - [plain]
 | 43 | [All Night Long](https://open.spotify.com/track/6fNlsbMIQh1794kBZ4bavY) | [Joe Houston Orchestra](https://open.spotify.com/artist/7dhUARf3tXiAm57gKqhi2o) | [Great R&B Instrumentals](https://open.spotify.com/album/0zq9zlmuv2FcOOwmNqh7cL) | 2:39 |
 | 44 | [Teenage Baby](https://open.spotify.com/track/0W3NQBKaw2ncqUefnqCq8a) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [The Complete Imperial Recordings: 1950\-1954](https://open.spotify.com/album/2aFmMoshdIDguX9ds0mMe2) | 2:04 |
 | 45 | [450 Pound Woman](https://open.spotify.com/track/66v57SIfLYJYGYu2WkWiSJ) | [Floyd Dixon](https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M) | [Wake Up And Live!](https://open.spotify.com/album/3g1sF0zm03qghoAmMlGcpt) | 2:19 |
-| 46 | [Caldonia](https://open.spotify.com/track/3BRWIwvtwSeKzcwUfNF1i9) | [Louis Jordan](https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2) | [Jack, You're Dead: The Essential Blue Archive](https://open.spotify.com/album/2s0dl1Uf59BlayS3m47FDy) | 2:43 |
+| 46 | [Saturday Night Fish Fry \- Pts\. 1 & 2](https://open.spotify.com/track/0LHfPA0hWcu40eP3O3pb8N) | [Louis Jordan](https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2) | [Jack, You're Dead: The Essential Blue Archive](https://open.spotify.com/album/2s0dl1Uf59BlayS3m47FDy) | 5:24 |
 | 47 | [Bloodshot Eyes](https://open.spotify.com/track/3T4py44BDlu7wO3pqrxWl9) | [Wynonie Harris](https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn) | [Greatest Hits](https://open.spotify.com/album/0Dwycst55CZdI6R6kXhN8c) | 2:42 |
 | 48 | [Ain't Nobody Here but Us Chickens](https://open.spotify.com/track/25F0nPXUD6si9DalVWNp6m) | [Louis Jordan](https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2) | [Jack, You're Dead: The Essential Blue Archive](https://open.spotify.com/album/2s0dl1Uf59BlayS3m47FDy) | 3:05 |
 | 49 | [Big Fat Mama](https://open.spotify.com/track/03DRiEEHelUfdyDW2Z5y9e) | [Roy Milton](https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig) | [Information Blues](https://open.spotify.com/album/5a43mcGKhwab4Ns4MJ0cAJ) | 2:44 |

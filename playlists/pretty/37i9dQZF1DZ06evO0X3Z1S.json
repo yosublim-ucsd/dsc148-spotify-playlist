@@ -1,12 +1,12 @@
 {
   "description": "This is Jonas Blue. The essential tracks, all in one playlist.",
-  "num_followers": 85039,
+  "num_followers": 85051,
   "original_name": "This Is Jonas Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjA0gAAAAAC9K0AOEVVr8ogKZSzn3+y3",
+  "snapshot_id": "ZjGGAAAAAABP6MVshRLUPn7TnHpVXwxl",
   "tracks": [
     {
       "added_at": null,
@@ -843,6 +843,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Wanna Dance",
+        "url": "https://open.spotify.com/album/3niF8tyjfJw8pmfc6VYKGa"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "duration_ms": 184582,
+      "name": "I Wanna Dance",
+      "url": "https://open.spotify.com/track/1CW7tYkpJ95c7bQkRf6CcK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Angles",
         "url": "https://open.spotify.com/album/6P1o32YYDNmuzAM7S8A1Ro"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 165120,
       "name": "Angles",
       "url": "https://open.spotify.com/track/1YIhmgvi4tTDD1VAiWQsIP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Wanna Dance",
-        "url": "https://open.spotify.com/album/3niF8tyjfJw8pmfc6VYKGa"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        }
-      ],
-      "duration_ms": 184582,
-      "name": "I Wanna Dance",
-      "url": "https://open.spotify.com/track/1CW7tYkpJ95c7bQkRf6CcK"
     },
     {
       "added_at": null,

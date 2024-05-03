@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 
 > Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,714 likes - 100 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,724 likes - 100 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 17 | [Always Will Be](https://open.spotify.com/track/2e5TtXZgMvWnnVAv5zQuHX) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Always Will Be](https://open.spotify.com/album/5vX74Wne2jfdf4KjAaHT3x) | 3:50 |
 | 18 | [We Have Overcome](https://open.spotify.com/track/5kw4tBzuZmZpmlzDHjAuAn) | [Rivers & Robots](https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4) | [All Things New](https://open.spotify.com/album/3jXUhc7v2rGvSJss6cxt6a) | 4:24 |
 | 19 | [Tracking Aeroplanes](https://open.spotify.com/track/4J4yJ9VpPIIsRDf9w4cPG7) | [The Echelon Effect](https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2) | [Field Recordings](https://open.spotify.com/album/0TNUVnjYHwbsilNnbweuZa) | 7:48 |
-| 20 | [Jump](https://open.spotify.com/track/69HLrdOQMAseHsTTmklKob) | [NONAH](https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI) | [Jump](https://open.spotify.com/album/21kxczu3QQWSkJ8imKBHcH) | 3:33 |
-| 21 | [Leaving Safe Places](https://open.spotify.com/track/5atbh6Zl7HLrtu50KNEjAc) | [Random Forest](https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia) | [Awakening](https://open.spotify.com/album/5ZepsoS1zp9MHxH27TQqgm) | 4:06 |
+| 20 | [Leaving Safe Places](https://open.spotify.com/track/5atbh6Zl7HLrtu50KNEjAc) | [Random Forest](https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia) | [Awakening](https://open.spotify.com/album/5ZepsoS1zp9MHxH27TQqgm) | 4:06 |
+| 21 | [Jump](https://open.spotify.com/track/69HLrdOQMAseHsTTmklKob) | [NONAH](https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI) | [Jump](https://open.spotify.com/album/21kxczu3QQWSkJ8imKBHcH) | 3:33 |
 | 22 | [Holy, Holy, Holy](https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d) | [Holy, Holy, Holy](https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB) | 2:26 |
 | 23 | [Like a Fire \(feat\. Steffany Gretzinger\)](https://open.spotify.com/track/67CPUTw6oKStnmrIc0En6p) | [Sean Feucht](https://open.spotify.com/artist/3DJuBJtjHdjAXlpIZCltTR), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [The Things We Did at First](https://open.spotify.com/album/3VS7ZrBjKzBWB7rYca7ALh) | 6:32 |
 | 24 | [Kyrie Eleison \(It's Mercy We Need\)](https://open.spotify.com/track/39Zb3y5PrBJuVRwRw6zNIl) | [Elias Dummer](https://open.spotify.com/artist/5gGNIhEw4JfZ7AS6tVjJbi), [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Kyrie Eleison \(It's Mercy We Need\)](https://open.spotify.com/album/2mB4e81cL77ixkv9EJqFMF) | 4:21 |

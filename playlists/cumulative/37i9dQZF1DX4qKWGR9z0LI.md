@@ -4,7 +4,7 @@
 
 > Lo último y lo mejor de la salsa\. Cover: Marc Anthony
 
-271 songs - 20 hr 2 min
+272 songs - 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Como Olvidarte](https://open.spotify.com/track/4BqXG8Al1bDML9J8Ywapt7) | [Josimar y Su Yambú](https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Como Olvidarte](https://open.spotify.com/album/32uPouQihQTzUcgZCPXJY9) | 3:08 | 2024-01-26 |  |
 | [Como Te Hago Entender](https://open.spotify.com/track/588fZDQv1c7F3iP68Pp3My) | [Roberto Roena Y Su Apollo Sound](https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry) | [Mi Musica](https://open.spotify.com/album/2jEEoXy1jY7qzWbjWzAI7o) | 5:44 | 2022-01-01 |  |
 | [Como Yo](https://open.spotify.com/track/3rwerGOgNZKWfmYL3XmtkZ) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m), [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC), [Pacho El Antifeka](https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn) | [Como Yo](https://open.spotify.com/album/7HRYUCNLII08iipd9PtESG) | 3:52 | 2022-01-01 | 2022-03-15 |
+| [Con Dinero y Sin Dinero](https://open.spotify.com/track/1wn4CZoE0MWbeV7yy03yyw) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [TROPICALIA](https://open.spotify.com/album/0MwcYv6ItA0eercc8IAwHJ) | 3:40 | 2024-05-03 |  |
 | [Con la Punta del Pie](https://open.spotify.com/track/4rt2zpNhFBayp948Pi6liZ) | [La Gloria Matancera](https://open.spotify.com/artist/4dCNiyQXmtiWA157q3uFyj) | [Pare Cochero](https://open.spotify.com/album/1tABZ6rAzFtf9fizgXslIU) | 3:37 | 2022-01-01 |  |
 | [Con Mi Amiga](https://open.spotify.com/track/0FbZzSZ48zfYrXFhJMJZ6Y) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Esa Soy Yo](https://open.spotify.com/album/0RLzeH2Sc7cbzCoUq5V4Lk) | 3:49 | 2022-05-20 | 2024-04-19 |
 | [Con Mi Amiga](https://open.spotify.com/track/2bIIQIXgi5blVkSZ7Y2uTh) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Esa Soy Yo](https://open.spotify.com/album/5qPa8E6bhoC1iCGaJOvhzW) | 3:49 | 2022-01-01 | 2022-07-29 |
@@ -161,7 +162,7 @@
 | [Me Voy Pa'Cali](https://open.spotify.com/track/1OPOCKhIXHs8mg0TikYyjI) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Salsabor 2](https://open.spotify.com/album/3injVZQOTM5r4G8Issf5Kz) | 4:05 | 2022-01-21 | 2022-01-30 |
 | [Medley](https://open.spotify.com/track/0WwVA5yRSxSUBM3macPfJK) | [Louie Ramirez](https://open.spotify.com/artist/3ZRoChGFOnnQgeTiMo0o8L), [Ray De La Paz](https://open.spotify.com/artist/7vCuHLeYJEynulecY53BwH) | [Otra Noche Caliente](https://open.spotify.com/album/7zeeEkM8eS4wWZARO6QMaM) | 7:19 | 2022-01-01 | 2022-11-13 |
 | [Mi Confesión](https://open.spotify.com/track/4ogtFmfPM9dRoQpNXVxq78) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O), [Caceres](https://open.spotify.com/artist/2hh9vTDXej21Upds5nlJTn) | [Mi Confesión](https://open.spotify.com/album/0QrjJ4xZ1YOMRglUhSUxSq) | 3:18 | 2023-07-21 |  |
-| [Mi Propiedad Privada](https://open.spotify.com/track/3DAxwWtA3N41eNZ9pCsQnl) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Mi Propiedad Privada](https://open.spotify.com/album/5wzCExW5NvwRMvDRav2taR) | 4:12 | 2022-01-01 |  |
+| [Mi Propiedad Privada](https://open.spotify.com/track/3DAxwWtA3N41eNZ9pCsQnl) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Mi Propiedad Privada](https://open.spotify.com/album/5wzCExW5NvwRMvDRav2taR) | 4:12 | 2022-01-01 | 2024-05-03 |
 | [Mira \- Versión Salsa](https://open.spotify.com/track/4nYuL6R1SuWAOJRwAWasct) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Mira](https://open.spotify.com/album/2wrbLhESYlyhzIlhJ1Lo8X) | 3:36 | 2022-01-01 |  |
 | [Mis Ojos Lloran por Tí](https://open.spotify.com/track/1hvtQqJSaRAWP0PCW3P80Q) | [You Salsa](https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU) | [Mis Ojos Lloran por Tí](https://open.spotify.com/album/1Yfa4XmFw6Y7L7YIKSPG7R) | 4:18 | 2022-01-01 | 2023-12-19 |
 | [Monedita](https://open.spotify.com/track/19OGn2xyLjXy0bS2YHX5vr) | [Moa Rivera](https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz) | [Monedita](https://open.spotify.com/album/5Y3WVzzLA0II8bmccD6wcT) | 2:40 | 2024-04-05 |  |

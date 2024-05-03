@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 
 > Na música eletrônica underground brasileira, nos vemos no front.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,425 likes - 50 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,428 likes - 50 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 | 26 | [Me Destrói \- Stroka Remix](https://open.spotify.com/track/0hBrepTEx9hxqs6xXeNh6R) | [Thiago Pethit](https://open.spotify.com/artist/11bqiv12xCing2jMbszqOD), [Stroka](https://open.spotify.com/artist/53DrlPptHzk8iT1xoJDYX5) | [Me Destrói \(Stroka Remix\)](https://open.spotify.com/album/0UqwQYgvQzQUPIFPAhrIgW) | 5:07 |
 | 27 | [Criptogramas](https://open.spotify.com/track/3DDPknKZvBbb98U1zEDN0w) | [Vermelho Wonder](https://open.spotify.com/artist/1uJaXZr3h2FXfMTzQmhHpu) | [Criptogramas](https://open.spotify.com/album/3VcGCItNhMLK3PG6bthKVu) | 5:33 |
 | 28 | [Sobre Tum Tum Ta](https://open.spotify.com/track/52zdd6JFOv7k95Zrk1Eb46) | [Entropia\-Entalpia](https://open.spotify.com/artist/2SJ1flrpAzQqdayHjbRe2e) | [Nódulo](https://open.spotify.com/album/43JSvwecrejD1GqA0KGiWb) | 7:33 |
-| 29 | [Feel Me \- Original mix](https://open.spotify.com/track/2UKEv5MMX7TYHcc92TJHP5) | [Aninha](https://open.spotify.com/artist/6dCjFLvBI3cNlTIUWSXRrf) | [Feel Me](https://open.spotify.com/album/28dybAb1bHM81bMOIPM9QW) | 5:51 |
-| 30 | [Kin Sharuba](https://open.spotify.com/track/0zZeLc3JJ0sMuHy0MGPxS7) | [Carrot Green](https://open.spotify.com/artist/56LbkVrwiOOlCLoIPVeEhY) | [Kin Sharuba](https://open.spotify.com/album/4Kz5eYBKdAIu8RzgMODvFi) | 7:49 |
-| 31 | [Colapso](https://open.spotify.com/track/0GnU3VwY3jlVvOIm8mSwPb) | [RHR](https://open.spotify.com/artist/2Q01XKiycTMJqmeGbGcxX6) | [Nocturnal Fear](https://open.spotify.com/album/5SKJOj2pql5vvHUz2TYtmP) | 5:36 |
-| 32 | [Flame of the Pine Cone \- Spaniol's Blue Note Remix](https://open.spotify.com/track/5juJXWm2B17gJBvMq7Gr6r) | [ITAI](https://open.spotify.com/artist/1J1zcThVxqIOB7XdjqKsmq), [Spaniol](https://open.spotify.com/artist/379N7T3a4nmax4XPxffDn1) | [Flame of the Pine Cone](https://open.spotify.com/album/5qWaHba39117j2eCaKiHIW) | 6:49 |
+| 29 | [Kin Sharuba](https://open.spotify.com/track/0zZeLc3JJ0sMuHy0MGPxS7) | [Carrot Green](https://open.spotify.com/artist/56LbkVrwiOOlCLoIPVeEhY) | [Kin Sharuba](https://open.spotify.com/album/4Kz5eYBKdAIu8RzgMODvFi) | 7:49 |
+| 30 | [Feel Me \- Original mix](https://open.spotify.com/track/2UKEv5MMX7TYHcc92TJHP5) | [Aninha](https://open.spotify.com/artist/6dCjFLvBI3cNlTIUWSXRrf) | [Feel Me](https://open.spotify.com/album/28dybAb1bHM81bMOIPM9QW) | 5:51 |
+| 31 | [Flame of the Pine Cone \- Spaniol's Blue Note Remix](https://open.spotify.com/track/5juJXWm2B17gJBvMq7Gr6r) | [ITAI](https://open.spotify.com/artist/1J1zcThVxqIOB7XdjqKsmq), [Spaniol](https://open.spotify.com/artist/379N7T3a4nmax4XPxffDn1) | [Flame of the Pine Cone](https://open.spotify.com/album/5qWaHba39117j2eCaKiHIW) | 6:49 |
+| 32 | [Colapso](https://open.spotify.com/track/0GnU3VwY3jlVvOIm8mSwPb) | [RHR](https://open.spotify.com/artist/2Q01XKiycTMJqmeGbGcxX6) | [Nocturnal Fear](https://open.spotify.com/album/5SKJOj2pql5vvHUz2TYtmP) | 5:36 |
 | 33 | [Maelström](https://open.spotify.com/track/7MwBYwSqHHawXItyk1gRpC) | [Wielki](https://open.spotify.com/artist/69q5CZV9Zg5GaKi5gOMonB) | [Maelström](https://open.spotify.com/album/7qAo2jVa8XixAGpGVkhLDT) | 8:07 |
 | 34 | [Baile do Tai Tai](https://open.spotify.com/track/2NdwBjodJX5zHUdSQWfPyh) | [Jaca Beats](https://open.spotify.com/artist/0JjiErN6IoSLDRsoSCAUBD), [holandês](https://open.spotify.com/artist/34ITSPuNhuQlfKKAPAocpL) | [Conexao Riocife](https://open.spotify.com/album/6tTaBjchGgTfDQBn5Bw3bp) | 5:04 |
 | 35 | [Corpo Fechado](https://open.spotify.com/track/3JtseE56PXDVUvZUqwbx5K) | [Gezender](https://open.spotify.com/artist/1oNqcSKUrJbsXHri4XS31a), [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t) | [Corpo](https://open.spotify.com/album/3sRnGBAdriBmqGZH52snaz) | 5:03 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 | 37 | [Chá de trombeta](https://open.spotify.com/track/1pw1Jq2XPSyQNgdz3xplV5) | [Entropia\-Entalpia](https://open.spotify.com/artist/2SJ1flrpAzQqdayHjbRe2e), [Fel C](https://open.spotify.com/artist/2y6nJKuBcPdakXmgggiGo4), [Bica](https://open.spotify.com/artist/3ZlQplsw3GzQQximvP0vgU) | [Chá de trombeta](https://open.spotify.com/album/3v6CT4nFEl2aUw0E5CY2Zp) | 7:00 |
 | 38 | [Sem Sono](https://open.spotify.com/track/0tnTG94G8PnaWUUkX79zqx) | [Martinelli](https://open.spotify.com/artist/3iSJjv1yv9EwpaTIfiuJ4L) | [Sem Sono](https://open.spotify.com/album/1nHAqV2yyqPui5o8v13T5t) | 5:37 |
 | 39 | [Passa a Lata de Lólo](https://open.spotify.com/track/3j3Qy9Xc8Lpy5xxZ0nwgRq) | [Diaz](https://open.spotify.com/artist/0iT0OQnrYcfJ5nCee7jbGX) | [Kengaral Eletrohits, Vol\. 2](https://open.spotify.com/album/3mZE3yhkIMY9dwZdJBWAPC) | 4:07 |
-| 40 | [Vou Pra Longe \(Floatin'\)](https://open.spotify.com/track/7KxarymbMmEiz8Cae7RwMZ) | [Carrot Green](https://open.spotify.com/artist/56LbkVrwiOOlCLoIPVeEhY) | [Bajolo Vol\. I](https://open.spotify.com/album/6fh8K2jIvzokVcWbr7kkhx) | 6:24 |
-| 41 | [Fixity \- Original Mix](https://open.spotify.com/track/6qLbhDQaerJfb8q9AdoP70) | [Mau Maioli](https://open.spotify.com/artist/68xQyTJpYadNytY09qeyuS) | [VA IFN 001 \- Techno Concept](https://open.spotify.com/album/4lwp9JmCU7CxpDPp1HF0L6) | 5:11 |
-| 42 | [Autoconstrução](https://open.spotify.com/track/3JDNY92MkmvZUnMIu8zxaU) | [Mari Herzer](https://open.spotify.com/artist/3EZyY0T4MFZqjpqRODdtbw) | [Kengaral Eletrohits, Vol\. 1](https://open.spotify.com/album/2iN0VnUvrVr8VVsW9iiEgk) | 5:29 |
+| 40 | [Autoconstrução](https://open.spotify.com/track/3JDNY92MkmvZUnMIu8zxaU) | [Mari Herzer](https://open.spotify.com/artist/3EZyY0T4MFZqjpqRODdtbw) | [Kengaral Eletrohits, Vol\. 1](https://open.spotify.com/album/2iN0VnUvrVr8VVsW9iiEgk) | 5:29 |
+| 41 | [Vou Pra Longe \(Floatin'\)](https://open.spotify.com/track/7KxarymbMmEiz8Cae7RwMZ) | [Carrot Green](https://open.spotify.com/artist/56LbkVrwiOOlCLoIPVeEhY) | [Bajolo Vol\. I](https://open.spotify.com/album/6fh8K2jIvzokVcWbr7kkhx) | 6:24 |
+| 42 | [Fixity \- Original Mix](https://open.spotify.com/track/6qLbhDQaerJfb8q9AdoP70) | [Mau Maioli](https://open.spotify.com/artist/68xQyTJpYadNytY09qeyuS) | [VA IFN 001 \- Techno Concept](https://open.spotify.com/album/4lwp9JmCU7CxpDPp1HF0L6) | 5:11 |
 | 43 | [Odara](https://open.spotify.com/track/3rAsJNy8H7u0wO5yoeRfNL) | [Gabto](https://open.spotify.com/artist/2rHQ2hZZmJeJlkPp5OzzuP) | [V.A\. Odara Vol.1 \- Arde Mas Aguenta](https://open.spotify.com/album/3WP0lbkJsGiL9I3wWQXlmt) | 6:16 |
 | 44 | [Festa](https://open.spotify.com/track/3MkIMJ0ZoGmDlJ6tWcBKEd) | [Zopelar](https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb) | [Charme](https://open.spotify.com/album/60cvpqPVesp2srVcNCFKJV) | 3:58 |
 | 45 | [Minguante](https://open.spotify.com/track/0F7pdPtwD1hAgYcgvE07P0) | [Kika Deeke](https://open.spotify.com/artist/2h4JqVoUA7Td1SqC5fHaAE) | [Quando o Tempo dá um Tempo](https://open.spotify.com/album/394surSicOxNpbQV6tMSDC) | 5:08 |
 | 46 | [Incarne](https://open.spotify.com/track/0VR1N3yDJhBiqT9lqlqAAa) | [Tin Man](https://open.spotify.com/artist/1pnPHRg5i0WzPwGqtIoadK), [Davis](https://open.spotify.com/artist/5eF6YOSwkaoA4qUp3J6SYc), [Zopelar](https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb) | [Incarne](https://open.spotify.com/album/4Zg2HeCfAX1Yb6arpZxv3s) | 8:03 |
 | 47 | [If I Never See U Again](https://open.spotify.com/track/6FBnLm4SdbDt2NNpBK2hSF) | [nørus](https://open.spotify.com/artist/11V5ILUaU0e00lfttXHEpz) | [Our Spacial Place](https://open.spotify.com/album/1HaMtLVKUBmCP8td9QkNz3) | 7:20 |
-| 48 | [No Rave](https://open.spotify.com/track/1d4372BADKlOLV7BwBJ6T9) | [Mootron](https://open.spotify.com/artist/3PpdTKOWOfHbQxB7Q2bFYv) | [Easytiiger\_\_001](https://open.spotify.com/album/1mMoc1fxau0gi4TETJqoFt) | 6:26 |
-| 49 | [Shine \- Dance Version](https://open.spotify.com/track/26vXePs7JGUKyJuQC2JEOM) | [Mau Maioli](https://open.spotify.com/artist/68xQyTJpYadNytY09qeyuS) | [Shine](https://open.spotify.com/album/4NEJkZSWPNuRJV6sagTbsg) | 7:12 |
-| 50 | [Espelho \(Malka Synthpop Rework\)](https://open.spotify.com/track/6aFLnRoJcUtnk1C5ZYGwL9) | [Vermelho Wonder](https://open.spotify.com/artist/1uJaXZr3h2FXfMTzQmhHpu) | [Espelho](https://open.spotify.com/album/1cNxz3fo05EMxvqloj6Mn1) | 5:20 |
+| 48 | [Shine \- Dance Version](https://open.spotify.com/track/26vXePs7JGUKyJuQC2JEOM) | [Mau Maioli](https://open.spotify.com/artist/68xQyTJpYadNytY09qeyuS) | [Shine](https://open.spotify.com/album/4NEJkZSWPNuRJV6sagTbsg) | 7:12 |
+| 49 | [No Rave](https://open.spotify.com/track/1d4372BADKlOLV7BwBJ6T9) | [Mootron](https://open.spotify.com/artist/3PpdTKOWOfHbQxB7Q2bFYv) | [Easytiiger\_\_001](https://open.spotify.com/album/1mMoc1fxau0gi4TETJqoFt) | 6:26 |
+| 50 | [Guarapan](https://open.spotify.com/track/5GL0TndOjy07iDPx4YY25v) | [Bruno Afterall](https://open.spotify.com/artist/7JdigJ1leJusGEZ4ZzrpM6) | [CurraL 001](https://open.spotify.com/album/0sEEFnpLE5L0X3y5ZHqd1C) | 6:16 |
 
 Snapshot ID: `ZU2dZAAAAAADg7ZxM2BkLgmIDYeH2v8k`

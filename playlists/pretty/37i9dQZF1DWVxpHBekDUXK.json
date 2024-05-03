@@ -1,6 +1,6 @@
 {
   "description": "When someone you love becomes a memory... find solace in these songs.",
-  "num_followers": 146389,
+  "num_followers": 146401,
   "original_name": "Coping With Loss",
   "owner": {
     "name": "Spotify",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-09-29 21:35:53",
       "album": {
-        "name": "Cheap Seats",
-        "url": "https://open.spotify.com/album/6Fni93NDS4tJcpK9khTdkK"
-      },
-      "artists": [
-        {
-          "name": "Alabama",
-          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
-        }
-      ],
-      "duration_ms": 247786,
-      "name": "Angels Among Us",
-      "url": "https://open.spotify.com/track/1SfVovWx4f5U5eYKjGxSGR"
-    },
-    {
-      "added_at": "2023-09-29 21:35:53",
-      "album": {
         "name": "The Blue Mask",
         "url": "https://open.spotify.com/album/1CkMvvVcMdvMAYIz4Zhzax"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 323933,
       "name": "My House",
       "url": "https://open.spotify.com/track/2bkwHzn1H2CxyLmmymaKHo"
+    },
+    {
+      "added_at": "2023-09-29 21:35:53",
+      "album": {
+        "name": "Cheap Seats",
+        "url": "https://open.spotify.com/album/6Fni93NDS4tJcpK9khTdkK"
+      },
+      "artists": [
+        {
+          "name": "Alabama",
+          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
+        }
+      ],
+      "duration_ms": 247786,
+      "name": "Angels Among Us",
+      "url": "https://open.spotify.com/track/1SfVovWx4f5U5eYKjGxSGR"
     },
     {
       "added_at": "2023-09-29 21:35:53",

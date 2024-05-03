@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 805178,
+  "2024-05-03": 805283,
   "date_first_scraped": "2020-10-13",
   "description": "Future K-Pop hits! Cover: 82MAJOR",
   "name": "K-Pop Rising",
@@ -3569,7 +3569,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 171053,
       "name": "Command C+Me (Korean Ver.)",
       "url": "https://open.spotify.com/track/1TJC8umuPVI4Y0eFn5ROwe"
@@ -5629,7 +5629,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 237480,
       "name": "Falling Slowly",
       "url": "https://open.spotify.com/track/7efGmCE7FPDKmwyWnbcU0p"
@@ -6033,6 +6033,24 @@
       "duration_ms": 228426,
       "name": "Floral Sense",
       "url": "https://open.spotify.com/track/7kqCeZ0OmIWDXoo6h9GMpw"
+    },
+    {
+      "album": {
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/19aLPZvIMIwom1XAdNOSSi"
+      },
+      "artists": [
+        {
+          "name": "JINJIN (ASTRO)",
+          "url": "https://open.spotify.com/artist/3U8ZnKIeY7sgQkIHjQDlHA"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211500,
+      "name": "Fly (Duet with. MOONBIN(ASTRO))",
+      "url": "https://open.spotify.com/track/7bf7daBFnsOVCn9soOJoPG"
     },
     {
       "album": {
@@ -10585,7 +10603,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 229373,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/5btyWod77lGbqKjEGRBvGw"
@@ -14165,7 +14183,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 168653,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/2t3F6nsQqEw60KT8ma8dm4"
@@ -17735,7 +17753,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 143000,
       "name": "Ugly - Spotify Singles",
       "url": "https://open.spotify.com/track/1hewNMWyHhb2zLZMOIPVWq"
@@ -18563,7 +18581,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 189441,
       "name": "We Don\u2019t Stop",
       "url": "https://open.spotify.com/track/67ZvVtW278IHsAxnzglQt4"
@@ -19442,6 +19460,32 @@
     },
     {
       "album": {
+        "name": "Diminished",
+        "url": "https://open.spotify.com/album/6YX73BggU7ueaQzV9PKXiO"
+      },
+      "artists": [
+        {
+          "name": "twlv",
+          "url": "https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "REDDY",
+          "url": "https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166750,
+      "name": "YES (feat. Jay Park, REDDY)",
+      "url": "https://open.spotify.com/track/7LlIANXlJFhzDHGqugugTp"
+    },
+    {
+      "album": {
         "name": "Yes or No",
         "url": "https://open.spotify.com/album/5O1y2JYcAX1wnNuotm6qWF"
       },
@@ -19621,6 +19665,24 @@
       "duration_ms": 190786,
       "name": "Young, Dumb, Stupid",
       "url": "https://open.spotify.com/track/2s2PGt2yeQly8auhPuHGIn"
+    },
+    {
+      "album": {
+        "name": "Jay Park Season 1",
+        "url": "https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219742,
+      "name": "Your/My",
+      "url": "https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY"
     },
     {
       "album": {
@@ -19851,6 +19913,24 @@
       "duration_ms": 197373,
       "name": "\ubbf8\uccd0\ubc84\ub9ac\uaca0\ub2e4 (MAD)",
       "url": "https://open.spotify.com/track/7n1yuwnzs5jTEitJ7eecS8"
+    },
+    {
+      "album": {
+        "name": "Affection",
+        "url": "https://open.spotify.com/album/7CH227zOs9JlxNtQ8Z6EK4"
+      },
+      "artists": [
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200160,
+      "name": "\ubc24\uc0c8",
+      "url": "https://open.spotify.com/track/6ounBpJVh2WXum1HEiMWan"
     },
     {
       "album": {

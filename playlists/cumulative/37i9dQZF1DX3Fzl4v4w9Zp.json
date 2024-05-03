@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Keep your finger on the pulse of Americana. Cover: Marcus King",
+  "description": "Keep your finger on the pulse of Americana. Cover: Emily Nenni",
   "name": "The Pulse of Americana",
   "tracks": [
     {
@@ -272,7 +272,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 236000,
       "name": "Ahead Of The Game",
       "url": "https://open.spotify.com/track/0lZHfXYmrWmnemBF3rAorq"
@@ -420,6 +420,24 @@
       "duration_ms": 228346,
       "name": "All Again",
       "url": "https://open.spotify.com/track/5tbPAlC6DtO9LvqbN3GJ8D"
+    },
+    {
+      "album": {
+        "name": "The Boy",
+        "url": "https://open.spotify.com/album/1yTD8c5Vwp7lT2K7bJskOd"
+      },
+      "artists": [
+        {
+          "name": "Mark Knopfler",
+          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315853,
+      "name": "All Comers",
+      "url": "https://open.spotify.com/track/4fY5LUhcDZkiqoSLReX12Z"
     },
     {
       "album": {
@@ -1898,7 +1916,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 271120,
       "name": "Changes",
       "url": "https://open.spotify.com/track/2uyBQqSCIcix0yr47NzTnC"
@@ -7197,6 +7215,24 @@
     },
     {
       "album": {
+        "name": "Anniversary",
+        "url": "https://open.spotify.com/album/3L2N9iWhyf3e3BeCJNXOSJ"
+      },
+      "artists": [
+        {
+          "name": "Adeem the Artist",
+          "url": "https://open.spotify.com/artist/28ZFEGg2RNdrtoaFqxA6vj"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233813,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/3878vJyS8co3IApl8L9VDe"
+    },
+    {
+      "album": {
         "name": "Kentucky Blue",
         "url": "https://open.spotify.com/album/5vLD7cTnfTa8407z7ljNsX"
       },
@@ -7935,6 +7971,24 @@
     },
     {
       "album": {
+        "name": "pennies",
+        "url": "https://open.spotify.com/album/5KoS25Q6ga74Sywxam6S1X"
+      },
+      "artists": [
+        {
+          "name": "Juniper",
+          "url": "https://open.spotify.com/artist/2vUurb7JcES3VO0gkx1yGW"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218368,
+      "name": "pennies",
+      "url": "https://open.spotify.com/track/6OQcAx1KceBqCEsWniAKMh"
+    },
+    {
+      "album": {
         "name": "Outside Child",
         "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
       },
@@ -8665,6 +8719,24 @@
     },
     {
       "album": {
+        "name": "Drive & Cry",
+        "url": "https://open.spotify.com/album/3Y0isvmf5SGx5n4TX9pWk2"
+      },
+      "artists": [
+        {
+          "name": "Emily Nenni",
+          "url": "https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203973,
+      "name": "Rootin\u2019 For You",
+      "url": "https://open.spotify.com/track/5oUu7vNtAdMQCund3kWJDF"
+    },
+    {
+      "album": {
         "name": "Smoky Mountains",
         "url": "https://open.spotify.com/album/2giuHTYPbL8hSugmqDcvAz"
       },
@@ -8926,6 +8998,24 @@
       "duration_ms": 309098,
       "name": "Save the World",
       "url": "https://open.spotify.com/track/6ZSDpQ9SjjH0zvbj6DQtWT"
+    },
+    {
+      "album": {
+        "name": "Scared of the Dark",
+        "url": "https://open.spotify.com/album/5ZbN2Qdtckm45fbMUCBHsK"
+      },
+      "artists": [
+        {
+          "name": "Colby Acuff",
+          "url": "https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210951,
+      "name": "Scared of the Dark",
+      "url": "https://open.spotify.com/track/2YJAJWHMixHd9XAV5kI9ZM"
     },
     {
       "album": {
@@ -9194,7 +9284,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 195906,
       "name": "Socialite Blues",
       "url": "https://open.spotify.com/track/0TiN8H2JV2IwIOFBN6j0DJ"
@@ -10510,7 +10600,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 252298,
       "name": "The Sacred Now",
       "url": "https://open.spotify.com/track/1lAv7oakRuwnzrqjFyxSqx"
@@ -10836,7 +10926,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 157152,
       "name": "This Will Be Our Year",
       "url": "https://open.spotify.com/track/2oy3hJGwD5aJSlFy4OnAkL"

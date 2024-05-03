@@ -1,12 +1,12 @@
 {
-  "description": "This Is Banda Rafaga. Los temas esenciales, todos en una lista.",
-  "num_followers": 6731,
+  "description": "This is Banda Rafaga. The essential tracks, all in one playlist.",
+  "num_followers": 6739,
   "original_name": "This Is Banda Rafaga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjA0gAAAAABIkdUrW6+90NkKOrdcNan3",
+  "snapshot_id": "ZjGGAAAAAABiaAE/dV2JWg9cp9WHzjDW",
   "tracks": [
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Medias Negras",
-        "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 201613,
-      "name": "Se Termino Lo Nuestro",
-      "url": "https://open.spotify.com/track/6VNEA24QBwFvuDIZw6zrYH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Banda Rafaga en Vivo! Desde Tepic, Nayarit",
         "url": "https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 175250,
       "name": "Quiero Que Me Vuelas Queder - En Vivo",
       "url": "https://open.spotify.com/track/2DooiJlsHLN4pUnxHgAkqK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Medias Negras",
+        "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 201613,
+      "name": "Se Termino Lo Nuestro",
+      "url": "https://open.spotify.com/track/6VNEA24QBwFvuDIZw6zrYH"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Medias Negras",
-        "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 186592,
-      "name": "25 Horas al Dia",
-      "url": "https://open.spotify.com/track/2AiYgkx1P9mmZNvC64sfnW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Banda Rafaga en Vivo! Desde Tepic, Nayarit",
         "url": "https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 357500,
       "name": "Frios Enemigos/noche de Banda - En Vivo",
       "url": "https://open.spotify.com/track/3awZnjk2w7QRDXYudcvBA3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Medias Negras",
+        "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 186592,
+      "name": "25 Horas al Dia",
+      "url": "https://open.spotify.com/track/2AiYgkx1P9mmZNvC64sfnW"
     },
     {
       "added_at": null,

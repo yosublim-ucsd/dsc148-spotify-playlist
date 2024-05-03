@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 490304,
+  "2024-05-03": 490287,
   "date_first_scraped": "2023-09-07",
   "description": "Entspannung pur oder viel los? Hier findest du die passenden Beats f\u00fcr deine Pl\u00e4ne!",
   "name": "Wochenende",
@@ -2551,7 +2551,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-01",
+      "date_removed": null,
       "duration_ms": 172000,
       "name": "Sunset Wave",
       "url": "https://open.spotify.com/track/3kD8Ed75AXHuzNmny7BUiO"
@@ -2723,7 +2723,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 149374,
       "name": "Through the Fire",
       "url": "https://open.spotify.com/track/0pJT9XkLwjXnYBi84DTKeL"

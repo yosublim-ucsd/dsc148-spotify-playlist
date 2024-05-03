@@ -1,12 +1,12 @@
 {
   "description": "This is James Newton Howard. The essential tracks, all in one playlist.",
-  "num_followers": 13352,
+  "num_followers": 13356,
   "original_name": "This Is James Newton Howard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjA0gAAAAABw562QzSEeTBSw8DADF0wS",
+  "snapshot_id": "ZjGGAAAAAABzC0GP5ipH/lvaMq4H+mky",
   "tracks": [
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fantastic Beasts: The Crimes Of Grindelwald (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0x0bcLcDHfb8j93LslpznF"
-      },
-      "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        }
-      ],
-      "duration_ms": 152106,
-      "name": "Newt and Leta",
-      "url": "https://open.spotify.com/track/5LXNEJZVclEbFOFwEcgSlm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Night After Night (Music from the Movies of M. Night Shyamalan)",
         "url": "https://open.spotify.com/album/6bZ512Kffdbv911Mbxi1ui"
       },
@@ -579,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Hunger Games: Mockingjay, Part 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3a0RwfCB9NRoS6RcNAU9eK"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "duration_ms": 196626,
+      "name": "Primrose - From \"The Hunger Games: Mockingjay, Part 2\" Soundtrack",
+      "url": "https://open.spotify.com/track/7LYllitjUEHCcCbuUlqEVF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fantastic Beasts and Where to Find Them (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0eEZX45VOaWms7TTjVn7dQ"
       },
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hunger Games: Mockingjay, Part 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3a0RwfCB9NRoS6RcNAU9eK"
+        "name": "Fantastic Beasts: The Crimes Of Grindelwald (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0x0bcLcDHfb8j93LslpznF"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
         }
       ],
-      "duration_ms": 196626,
-      "name": "Primrose - From \"The Hunger Games: Mockingjay, Part 2\" Soundtrack",
-      "url": "https://open.spotify.com/track/7LYllitjUEHCcCbuUlqEVF"
+      "duration_ms": 152106,
+      "name": "Newt and Leta",
+      "url": "https://open.spotify.com/track/5LXNEJZVclEbFOFwEcgSlm"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Hidden Life (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1JyFpFS3gUIS5F5NCZRsk7"
-      },
-      "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        }
-      ],
-      "duration_ms": 150440,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/0ByRFYqhIaKQqWXShfoOTw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Dark Knight (Collectors Edition) [Original Motion Picture Soundtrack]",
         "url": "https://open.spotify.com/album/3vARhx9vwOve3Xdu06vM8S"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 402360,
       "name": "A Watchful Guardian",
       "url": "https://open.spotify.com/track/3r3fWKSW1Vh71iXtDNpNbc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Hidden Life (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1JyFpFS3gUIS5F5NCZRsk7"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "duration_ms": 150440,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/0ByRFYqhIaKQqWXShfoOTw"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Raya and the Last Dragon (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3JqX5g07TbeiF0NEK7eYl0"
-      },
-      "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        }
-      ],
-      "duration_ms": 131271,
-      "name": "Running on Raindrops",
-      "url": "https://open.spotify.com/track/39Ji2TlTj6OWZBHKIyN6yp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fantastic Beasts and Where to Find Them (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0eEZX45VOaWms7TTjVn7dQ"
       },
@@ -819,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Last Airbender (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/2CLXLGYK0WMl2Zq8c3oV1S"
+        "name": "Raya and the Last Dragon (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3JqX5g07TbeiF0NEK7eYl0"
       },
       "artists": [
         {
@@ -828,9 +812,9 @@
           "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
         }
       ],
-      "duration_ms": 392853,
-      "name": "Flow Like Water",
-      "url": "https://open.spotify.com/track/4WxGBy9U0nZe602M06XMxE"
+      "duration_ms": 131271,
+      "name": "Running on Raindrops",
+      "url": "https://open.spotify.com/track/39Ji2TlTj6OWZBHKIyN6yp"
     },
     {
       "added_at": null,
@@ -851,6 +835,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Last Airbender (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/2CLXLGYK0WMl2Zq8c3oV1S"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "duration_ms": 392853,
+      "name": "Flow Like Water",
+      "url": "https://open.spotify.com/track/4WxGBy9U0nZe602M06XMxE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "King Kong",
         "url": "https://open.spotify.com/album/1Skgydum2XQAOurr30tw0a"
       },
@@ -867,8 +867,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roman J. Israel, Esq. (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5lTpJffQUPSCm0VLiWHI8b"
+        "name": "Blood Diamond (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2YwDj8TchnUvnxekoIcQ0X"
       },
       "artists": [
         {
@@ -876,9 +876,9 @@
           "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
         }
       ],
-      "duration_ms": 183053,
-      "name": "Maple Glazed Donut",
-      "url": "https://open.spotify.com/track/5eTLTRb0rOuCOVulfHBALq"
+      "duration_ms": 115906,
+      "name": "Archer & Solomon Hike",
+      "url": "https://open.spotify.com/track/4mbA69qFwC1NhffvpsUt5u"
     }
   ],
   "unique_name": "This Is James Newton Howard",

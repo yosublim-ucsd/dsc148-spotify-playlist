@@ -3184,7 +3184,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 161000,
       "name": "El Singon",
       "url": "https://open.spotify.com/track/3QtkrsXH8G5CO2m4CZp3lu"
@@ -4201,6 +4201,24 @@
     },
     {
       "album": {
+        "name": "HAY ANABEL",
+        "url": "https://open.spotify.com/album/0nd23OVrFDVQyVegVKOycQ"
+      },
+      "artists": [
+        {
+          "name": "Lomiiel",
+          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102827,
+      "name": "HAY ANABEL",
+      "url": "https://open.spotify.com/track/5QqRzTmpc1Hoj1DTrvcEw9"
+    },
+    {
+      "album": {
         "name": "HAY LUPITA",
         "url": "https://open.spotify.com/album/1gGvVUNqBHKn1ct3FX5EVM"
       },
@@ -4837,6 +4855,24 @@
     },
     {
       "album": {
+        "name": "La Cara Tatuada",
+        "url": "https://open.spotify.com/album/5atij5G5g1Yy8qB0koZnv2"
+      },
+      "artists": [
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150508,
+      "name": "La Cara Tatuada",
+      "url": "https://open.spotify.com/track/2aTrjrPsNa3NtGtKMNc6Cw"
+    },
+    {
+      "album": {
         "name": "La Chanty",
         "url": "https://open.spotify.com/album/4LaMGTV57IEdXK59JAUT3Z"
       },
@@ -4906,7 +4942,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 132480,
       "name": "La Cocolita",
       "url": "https://open.spotify.com/track/7F5PZ4KnpcNbKDnthUM646"
@@ -4964,7 +5000,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 185945,
       "name": "La De Atras",
       "url": "https://open.spotify.com/track/4Pv6amKV2994HruJAdvS9L"
@@ -5723,6 +5759,32 @@
     },
     {
       "album": {
+        "name": "Lo Leo",
+        "url": "https://open.spotify.com/album/5r2vagQRqvu11rnr8XMppq"
+      },
+      "artists": [
+        {
+          "name": "EL YALA",
+          "url": "https://open.spotify.com/artist/1I3kOJZqxQso79tnP71dwU"
+        },
+        {
+          "name": "Ricko",
+          "url": "https://open.spotify.com/artist/6iMwEtMtogBXXnBUOowaIj"
+        },
+        {
+          "name": "Hansel El De La H",
+          "url": "https://open.spotify.com/artist/6gwlllidzu0wkRNkXKGDfG"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149454,
+      "name": "Lo Leo",
+      "url": "https://open.spotify.com/track/6HC8YpEQBTX9jUYNtztymL"
+    },
+    {
+      "album": {
         "name": "Loco Mio",
         "url": "https://open.spotify.com/album/6Cvm8XJPef2VaEalHUPE0a"
       },
@@ -6037,6 +6099,24 @@
     },
     {
       "album": {
+        "name": "Ma Buena",
+        "url": "https://open.spotify.com/album/5TBoLfHDZneDC1MqavM5s6"
+      },
+      "artists": [
+        {
+          "name": "Yaisel LM",
+          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152653,
+      "name": "Ma Buena",
+      "url": "https://open.spotify.com/track/21HDTbRS49Oy3tWKg3JDAB"
+    },
+    {
+      "album": {
         "name": "Ma Me Mi Mo Mu",
         "url": "https://open.spotify.com/album/3RS3rgFdBFjsOzxWhezRU3"
       },
@@ -6218,6 +6298,28 @@
       "duration_ms": 160000,
       "name": "Malo Malo",
       "url": "https://open.spotify.com/track/4Lp6g21jhwdJ0omSrBeLNk"
+    },
+    {
+      "album": {
+        "name": "Mama Me Lo Cont\u00f3",
+        "url": "https://open.spotify.com/album/0Drt5kUH8KMjWQZTBdfwZ9"
+      },
+      "artists": [
+        {
+          "name": "Crazy Design",
+          "url": "https://open.spotify.com/artist/3rQXUpppnyxRkQNxoLFtUV"
+        },
+        {
+          "name": "Fifty Flow",
+          "url": "https://open.spotify.com/artist/47zQ9o1JZNxwqXeDyVggmM"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139194,
+      "name": "Mama Me Lo Cont\u00f3",
+      "url": "https://open.spotify.com/track/5mexRSBqKNkfH3IQhJC5ug"
     },
     {
       "album": {
@@ -6717,6 +6819,32 @@
     },
     {
       "album": {
+        "name": "Menor Remix",
+        "url": "https://open.spotify.com/album/3uPOfvJohS2C8TJf03Lap8"
+      },
+      "artists": [
+        {
+          "name": "Quimico Ultra Mega",
+          "url": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
+        },
+        {
+          "name": "Papaa Tyga",
+          "url": "https://open.spotify.com/artist/7CE95BHNdEgoaQw0GPCHqC"
+        },
+        {
+          "name": "Flow 28",
+          "url": "https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160776,
+      "name": "Menor Remix",
+      "url": "https://open.spotify.com/track/1wrjITAnVKxl3i3BN0DYZv"
+    },
+    {
+      "album": {
         "name": "Mensaje Directo (DM)",
         "url": "https://open.spotify.com/album/49xNNfmQRUICPKH1uX0yc9"
       },
@@ -7022,6 +7150,32 @@
     {
       "album": {
         "name": "Mueve la Cadera",
+        "url": "https://open.spotify.com/album/48w6yf6IKlOp3zu6CNYa3w"
+      },
+      "artists": [
+        {
+          "name": "D\u00b4Flow Aka La Maldad",
+          "url": "https://open.spotify.com/artist/5w84GjBkeOt0pRHp2nEWEG"
+        },
+        {
+          "name": "La Mas Doll",
+          "url": "https://open.spotify.com/artist/0PPgD3dY7wrxsMe021mByK"
+        },
+        {
+          "name": "Puyalo Pantera",
+          "url": "https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131908,
+      "name": "Mueve la Cadera",
+      "url": "https://open.spotify.com/track/0zYSaz7P0qU6q6rEpOAEiO"
+    },
+    {
+      "album": {
+        "name": "Mueve la Cadera",
         "url": "https://open.spotify.com/album/66ZcBTNw5EkcVq5Z9LQCHC"
       },
       "artists": [
@@ -7278,6 +7432,24 @@
       "duration_ms": 187000,
       "name": "Ni Un Chin - REMIX",
       "url": "https://open.spotify.com/track/23dIBhGzASEo7kVEHmCYrZ"
+    },
+    {
+      "album": {
+        "name": "Nicol Maria",
+        "url": "https://open.spotify.com/album/4iFtaecvB7VL77OsarOL8F"
+      },
+      "artists": [
+        {
+          "name": "Kreizy K",
+          "url": "https://open.spotify.com/artist/2dPvLIh80mtyuOpolaT7iN"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116330,
+      "name": "Nicol Maria",
+      "url": "https://open.spotify.com/track/0fNCnN1TkOLqxU46OxVGAl"
     },
     {
       "album": {
@@ -7789,6 +7961,24 @@
     },
     {
       "album": {
+        "name": "NEW AIR'S",
+        "url": "https://open.spotify.com/album/3HUCThS7hjZsAsWhDdhGeU"
+      },
+      "artists": [
+        {
+          "name": "Lomiiel",
+          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108413,
+      "name": "PA' QUE BAILES",
+      "url": "https://open.spotify.com/track/2t6MAiKwBnsXV6os21BBet"
+    },
+    {
+      "album": {
         "name": "Paketum",
         "url": "https://open.spotify.com/album/2lN8KHVPTWKxvxpy0qbjz2"
       },
@@ -7844,7 +8034,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 106299,
       "name": "PAOLA",
       "url": "https://open.spotify.com/track/5uuLrl0o3r8bbRUZecm4w9"
@@ -8293,6 +8483,28 @@
     },
     {
       "album": {
+        "name": "PILA D CUERO",
+        "url": "https://open.spotify.com/album/1BvuRAGSIYOWrN0W58FsRu"
+      },
+      "artists": [
+        {
+          "name": "Maldy",
+          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
+        },
+        {
+          "name": "Angel Dior",
+          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174246,
+      "name": "PILA D CUERO",
+      "url": "https://open.spotify.com/track/1evHuVvlijZAdCUHAG7ASm"
+    },
+    {
+      "album": {
         "name": "Pila De Bobo",
         "url": "https://open.spotify.com/album/1On0JZyLXH2zNLQfpA5RMf"
       },
@@ -8330,7 +8542,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 116166,
       "name": "PILA DE PEPA",
       "url": "https://open.spotify.com/track/3PkRwytTorb18EY2du8ASK"
@@ -8440,7 +8652,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 252221,
       "name": "PLAKATA",
       "url": "https://open.spotify.com/track/3LyM4jvcbsKx8Ps0R2qPSV"
@@ -8792,6 +9004,28 @@
       "duration_ms": 211301,
       "name": "Prendi",
       "url": "https://open.spotify.com/track/4UkFMIoki83SK2KGjZg41B"
+    },
+    {
+      "album": {
+        "name": "Primera Vez",
+        "url": "https://open.spotify.com/album/5vR2dE2qSOcHDBLZopEYSo"
+      },
+      "artists": [
+        {
+          "name": "Aleica",
+          "url": "https://open.spotify.com/artist/0JyS4TI8NZcjQJl1Y5jscE"
+        },
+        {
+          "name": "Yoan Retro",
+          "url": "https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104661,
+      "name": "Primera Vez",
+      "url": "https://open.spotify.com/track/1IjhElJFljp4h3rirzM080"
     },
     {
       "album": {
@@ -10827,6 +11061,24 @@
     },
     {
       "album": {
+        "name": "Te Fundite",
+        "url": "https://open.spotify.com/album/0QSpqpyM1THgTLquLTzH2U"
+      },
+      "artists": [
+        {
+          "name": "Onguito Wa",
+          "url": "https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106691,
+      "name": "Te Fundite",
+      "url": "https://open.spotify.com/track/76o41mVsPbAYt00ZQG5a5r"
+    },
+    {
+      "album": {
         "name": "Te la robe",
         "url": "https://open.spotify.com/album/6m2znuMx5QTfbxzJIykRHY"
       },
@@ -11274,7 +11526,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 117475,
       "name": "Tiki Tiki",
       "url": "https://open.spotify.com/track/3GXImr51MZx1OorAaVFvsc"

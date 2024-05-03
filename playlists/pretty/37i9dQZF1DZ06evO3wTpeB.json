@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Aka Mind. The essential tracks, all in one playlist.",
-  "num_followers": 3901,
+  "num_followers": 3902,
   "original_name": "This Is Ali Aka Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjA0gAAAAAC4c0blSg8eCY3Je5LVM/7h",
+  "snapshot_id": "ZjGGAAAAAAA1PnqxCsktb8g8rCg3cKeX",
   "tracks": [
     {
       "added_at": null,
@@ -367,6 +367,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "So Sad",
+        "url": "https://open.spotify.com/album/4rHZ28db6Aczqmj65FlFZe"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        }
+      ],
+      "duration_ms": 217511,
+      "name": "So Sad",
+      "url": "https://open.spotify.com/track/73ODDFaktSXfNuRQP4mnRK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Palabras del Alma",
         "url": "https://open.spotify.com/album/4JTGFe7NhpEVSInPEasMhV"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 193760,
       "name": "Hoy Quiero Confesarles",
       "url": "https://open.spotify.com/track/3FKYwSwP5G8SDRUqCeozMJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "So Sad",
-        "url": "https://open.spotify.com/album/4rHZ28db6Aczqmj65FlFZe"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        }
-      ],
-      "duration_ms": 217511,
-      "name": "So Sad",
-      "url": "https://open.spotify.com/track/73ODDFaktSXfNuRQP4mnRK"
     },
     {
       "added_at": null,
@@ -443,26 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Palabras del Alma",
-        "url": "https://open.spotify.com/album/4JTGFe7NhpEVSInPEasMhV"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "ALI Prod.",
-          "url": "https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu"
-        }
-      ],
-      "duration_ms": 205293,
-      "name": "Yo Me Identifico",
-      "url": "https://open.spotify.com/track/25fyXzQ48jehni3yxFT2mt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rap Conciencia",
         "url": "https://open.spotify.com/album/6CVQjIWT0jNTyFVcsJfksR"
       },
@@ -483,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Agradezco",
-        "url": "https://open.spotify.com/album/1JQCufwGdnzm28qdVW2xxp"
+        "name": "Palabras del Alma",
+        "url": "https://open.spotify.com/album/4JTGFe7NhpEVSInPEasMhV"
       },
       "artists": [
         {
@@ -492,17 +472,13 @@
           "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
         },
         {
-          "name": "Proof",
-          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
-        },
-        {
           "name": "ALI Prod.",
           "url": "https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu"
         }
       ],
-      "duration_ms": 188924,
-      "name": "Agradezco",
-      "url": "https://open.spotify.com/track/0bzXvilLiJGEe0ACmeFi5Z"
+      "duration_ms": 205293,
+      "name": "Yo Me Identifico",
+      "url": "https://open.spotify.com/track/25fyXzQ48jehni3yxFT2mt"
     },
     {
       "added_at": null,
@@ -527,6 +503,30 @@
       "duration_ms": 149911,
       "name": "Listen Up",
       "url": "https://open.spotify.com/track/7KAkj1lp5elDoWvENK7pcc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Agradezco",
+        "url": "https://open.spotify.com/album/1JQCufwGdnzm28qdVW2xxp"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        },
+        {
+          "name": "ALI Prod.",
+          "url": "https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu"
+        }
+      ],
+      "duration_ms": 188924,
+      "name": "Agradezco",
+      "url": "https://open.spotify.com/track/0bzXvilLiJGEe0ACmeFi5Z"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Manjit",
-        "url": "https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        }
-      ],
-      "duration_ms": 169194,
-      "name": "Recreo",
-      "url": "https://open.spotify.com/track/0vzTHnDY9h03jTosxJbE8V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yo Quise",
         "url": "https://open.spotify.com/album/77SgnkVqnSZXF5gdgmhXBR"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 212980,
       "name": "Yo Quise",
       "url": "https://open.spotify.com/track/7LM6uu4KYVoduR9ESEf6Ym"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Manjit",
+        "url": "https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        }
+      ],
+      "duration_ms": 169194,
+      "name": "Recreo",
+      "url": "https://open.spotify.com/track/0vzTHnDY9h03jTosxJbE8V"
     },
     {
       "added_at": null,
@@ -1059,6 +1059,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mestizo",
+        "url": "https://open.spotify.com/album/3q3CUqz2XqQwDOFjmWphbw"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "ALI Prod.",
+          "url": "https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu"
+        },
+        {
+          "name": "Unknown Mizery de Babylon Warchild",
+          "url": "https://open.spotify.com/artist/56o7VNkbWKgVZpmvSe2jqu"
+        }
+      ],
+      "duration_ms": 193066,
+      "name": "Resiste",
+      "url": "https://open.spotify.com/track/6NXti8tVz8vE6udH1UJkYD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M\u00e1s Parchao!",
         "url": "https://open.spotify.com/album/6ZeEYlpPusVUyBpnI22zkW"
       },
@@ -1083,30 +1107,6 @@
       "duration_ms": 252920,
       "name": "Eternos",
       "url": "https://open.spotify.com/track/4J8IyRiBrpCxirMM9tsmgQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mestizo",
-        "url": "https://open.spotify.com/album/3q3CUqz2XqQwDOFjmWphbw"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "ALI Prod.",
-          "url": "https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu"
-        },
-        {
-          "name": "Unknown Mizery de Babylon Warchild",
-          "url": "https://open.spotify.com/artist/56o7VNkbWKgVZpmvSe2jqu"
-        }
-      ],
-      "duration_ms": 193066,
-      "name": "Resiste",
-      "url": "https://open.spotify.com/track/6NXti8tVz8vE6udH1UJkYD"
     }
   ],
   "unique_name": "This Is Ali Aka Mind",

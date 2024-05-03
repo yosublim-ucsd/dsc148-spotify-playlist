@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 102232,
+  "2024-05-03": 102290,
   "date_first_scraped": "2021-12-28",
   "description": "Positive, uplifting piano to make you feel good. ",
   "name": "Feel Good Piano",
@@ -5259,6 +5259,24 @@
       "duration_ms": 126517,
       "name": "White Garden",
       "url": "https://open.spotify.com/track/7odH627CfIdqmlV0M7HeWb"
+    },
+    {
+      "album": {
+        "name": "Wind In My Hair",
+        "url": "https://open.spotify.com/album/2voHslwBPDj7eM3WJmy9pJ"
+      },
+      "artists": [
+        {
+          "name": "Carl Moir",
+          "url": "https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125610,
+      "name": "Wind In My Hair",
+      "url": "https://open.spotify.com/track/4N82ErjM4xuWYsRfPBqACk"
     },
     {
       "album": {

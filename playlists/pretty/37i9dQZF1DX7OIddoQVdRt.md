@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 
 > Experience the powerful messages and sounds of the current hits and classic Gospel songs\.  Cover: <a href="spotify:artist:5YxebzzreNswbtYC1td4cx">Tasha Cobbs Leonard</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 621,310 likes - 88 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 621,355 likes - 88 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 67 | [Home](https://open.spotify.com/track/5WOKwfCJmwbu46UX75Hgps) | [Keyla Richardson](https://open.spotify.com/artist/4Tujzymm8906E7KnLSZPDW) | [Home](https://open.spotify.com/album/7iLY9qLmJN2Wq4q9hgwPqN) | 4:22 |
 | 68 | [Speak to the Mountain](https://open.spotify.com/track/1CE3Q5aLGdqreI7rnLPV0C) | [Angela Moss Poole](https://open.spotify.com/artist/703jiLLQUIFP7fmC1UZtox) | [Angela Moss Poole](https://open.spotify.com/album/2mRhKxYagOrfePiLCoLSqm) | 3:48 |
 | 69 | [Lifted Up](https://open.spotify.com/track/080UdKu38T2X7BkTb9jV9u) | [VaShawn Mitchell](https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA) | [Lifted Up](https://open.spotify.com/album/4fQDmcyjsy74Ae0ykQmdDd) | 4:29 |
-| 70 | [Glory / Stranger](https://open.spotify.com/track/1LfqzX9IZ9sosa60nG4byU) | [The Fisk Jubilee Singers](https://open.spotify.com/artist/0UGSKGxAJfltNONQ4AtETL), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Shannon Sanders](https://open.spotify.com/artist/44DNDJwAygYFhD3Pd7jOuI) | [Glory / Stranger](https://open.spotify.com/album/6Rq7AnztYvLhwCNebrR2XT) | 3:30 |
-| 71 | [One True Gospel](https://open.spotify.com/track/4uBE9zsTXLWYtUuBCt3BSr) | [Bubby Fann](https://open.spotify.com/artist/6FmlEqf0M3IFiorZyjUX8U), [Praise Beyond](https://open.spotify.com/artist/09kRpFrA2rzmzo1udMADxs) | [One True Gospel](https://open.spotify.com/album/1NkrJOPXOSTuRuUJ2RUY7z) | 6:10 |
+| 70 | [One True Gospel](https://open.spotify.com/track/4uBE9zsTXLWYtUuBCt3BSr) | [Bubby Fann](https://open.spotify.com/artist/6FmlEqf0M3IFiorZyjUX8U), [Praise Beyond](https://open.spotify.com/artist/09kRpFrA2rzmzo1udMADxs) | [One True Gospel](https://open.spotify.com/album/1NkrJOPXOSTuRuUJ2RUY7z) | 6:10 |
+| 71 | [Glory / Stranger](https://open.spotify.com/track/1LfqzX9IZ9sosa60nG4byU) | [The Fisk Jubilee Singers](https://open.spotify.com/artist/0UGSKGxAJfltNONQ4AtETL), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Shannon Sanders](https://open.spotify.com/artist/44DNDJwAygYFhD3Pd7jOuI) | [Glory / Stranger](https://open.spotify.com/album/6Rq7AnztYvLhwCNebrR2XT) | 3:30 |
 | 72 | [He Can Handle It \(Radio Edit\) \- Live](https://open.spotify.com/track/68tLwIOp5nOnrHWmVzyr5C) | [Crystal Aikin](https://open.spotify.com/artist/5AfDeAE9DebBuxecThmRsf) | [He Can Handle It \(Live\)](https://open.spotify.com/album/7GNErp8ltR2S4yb7I0fmvp) | 4:09 |
 | 73 | [Back To Life](https://open.spotify.com/track/3PLh6BC6aaX0E7PALvt0EE) | [Deitrick Haddon & Voices of Unity](https://open.spotify.com/artist/5zZlKIiS2kimwWToti9k5I) | [Back To Life](https://open.spotify.com/album/0elzbB6iZvy5pY00RWGz8E) | 4:54 |
 | 74 | [Overflow](https://open.spotify.com/track/6BMKu4bu0kDdPYviP1Umrz) | [Bryan Andrew Wilson](https://open.spotify.com/artist/1QgAQ6qXAMN1Gkxk0AEy7i), [Roderick Giles & Grace](https://open.spotify.com/artist/5jMr6s2EqsG4U4HQROzA8e) | [Overflow](https://open.spotify.com/album/7gggTmjWOAI4VtzBKDhSz4) | 4:25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 
 > Pop style reggae for a sunny summer vibe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 806,991 likes - 65 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 807,392 likes - 65 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,10 +12,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 | 2 | [Show Me](https://open.spotify.com/track/2tCPIp83mRXvVTytTAf1W4) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:27 |
 | 3 | [You Can't Hurry Love](https://open.spotify.com/track/7zVz2u9UQJl6lJxaQuqQoJ) | [Pinky Dread](https://open.spotify.com/artist/0Y876qrI6O3kItxH3ycwaQ) | [You Can't Hurry Love](https://open.spotify.com/album/3yBpB9HYVUEiLSLoHI1Chc) | 2:34 |
 | 4 | [Is This Love](https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya](https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a) | 3:52 |
-| 5 | [Neva Neva](https://open.spotify.com/track/2mI9snG6nJeQ9cJVahpaDv) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Neva Neva](https://open.spotify.com/album/4POtqjeMTeIMq5SM4LN18B) | 3:18 |
-| 6 | [Food For Thought](https://open.spotify.com/track/3YKbh8t03W3XzFR5SNM3Bu) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [UB45](https://open.spotify.com/album/5i2LoUAn14jJLH1tZ6jNgo) | 3:59 |
-| 7 | [Ocean Demon](https://open.spotify.com/track/6qCPI0PZMSJgIptC1HzobL) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Ocean Demon](https://open.spotify.com/album/0afWv8C27pDRT8Ytp7AQSO) | 4:20 |
-| 8 | [Blue Jeans \- Album Mix](https://open.spotify.com/track/0JUJEu66hmWMJsDDAP3IWk) | [Natty Bong](https://open.spotify.com/artist/212Jq222D4QnciSA0uWrVN) | [Flower Tattoos](https://open.spotify.com/album/3hRSarAnkIfFBobtATegjN) | 4:10 |
+| 5 | [Food For Thought](https://open.spotify.com/track/3YKbh8t03W3XzFR5SNM3Bu) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [UB45](https://open.spotify.com/album/5i2LoUAn14jJLH1tZ6jNgo) | 3:59 |
+| 6 | [Ocean Demon](https://open.spotify.com/track/6qCPI0PZMSJgIptC1HzobL) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Ocean Demon](https://open.spotify.com/album/0afWv8C27pDRT8Ytp7AQSO) | 4:20 |
+| 7 | [Blue Jeans \- Album Mix](https://open.spotify.com/track/0JUJEu66hmWMJsDDAP3IWk) | [Natty Bong](https://open.spotify.com/artist/212Jq222D4QnciSA0uWrVN) | [Flower Tattoos](https://open.spotify.com/album/3hRSarAnkIfFBobtATegjN) | 4:10 |
+| 8 | [Neva Neva](https://open.spotify.com/track/2mI9snG6nJeQ9cJVahpaDv) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Neva Neva](https://open.spotify.com/album/4POtqjeMTeIMq5SM4LN18B) | 3:18 |
 | 9 | [Do It Right](https://open.spotify.com/track/4uuWMM30p5K10k7amGqJXM) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Cali Roots Riddim 2023](https://open.spotify.com/album/2VV4AwkAHaWRJ3noJY6aWT) | 3:44 |
 | 10 | [Light My Fire \(feat\. Gwen Stefani & Shenseea\)](https://open.spotify.com/track/1egbEbrblp5ujK8mABDl10) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Light My Fire](https://open.spotify.com/album/5LOqQ3f3DtEMKo8d7aOIXt) | 3:22 |
 | 11 | [Here Comes the Sun](https://open.spotify.com/track/23Bxv0YiYXpv3OPkv3Jbmx) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Celebrating Nina: A Reggae Tribute to Nina Simone](https://open.spotify.com/album/0QjYnaPCjDUqpBYx3ijRhF) | 3:21 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 | 64 | [Make Love](https://open.spotify.com/track/0FQJrnW7nH6P2LJsPk4aqX) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Look For The Good](https://open.spotify.com/album/1PuBipBX8qqeUN3FOPIexs) | 5:35 |
 | 65 | [I Wonder](https://open.spotify.com/track/5ZCNcQRCQfqdE9gAJir3Hg) | [Iseo & Dodosound](https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc) | [I Wonder](https://open.spotify.com/album/7yHdGR9ZJLR7Gm56tWdKh8) | 2:39 |
 
-Snapshot ID: `Zism/AAAAADsVfOJAMHAHm9lvU5brqVv`
+Snapshot ID: `ZjO4eAAAAACao9tTsBencmcSGfBmlan4`

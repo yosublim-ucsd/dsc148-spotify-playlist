@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover: Joris Voorn  and AVIRA",
+  "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover: Fedde Le Grand",
   "name": "Armada Today",
   "tracks": [
     {
@@ -1660,7 +1660,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 198688,
       "name": "Big Fun (Remastered)",
       "url": "https://open.spotify.com/track/37vkp7meAAGF6KxtaqAILs"
@@ -6601,6 +6601,36 @@
     },
     {
       "album": {
+        "name": "We All Move Together (Remixes)",
+        "url": "https://open.spotify.com/album/4uQCLjkZ10Su9JicEEVynb"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        },
+        {
+          "name": "Dantiez",
+          "url": "https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma"
+        },
+        {
+          "name": "Hugo Cantarra",
+          "url": "https://open.spotify.com/artist/7bI21Y9xsFRFVtt3cWf73n"
+        },
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223414,
+      "name": "Good Life (Remastered) - Dantiez & Hugo Cantarra Remix",
+      "url": "https://open.spotify.com/track/4RHHbPOygDY1AFIRkdA0jF"
+    },
+    {
+      "album": {
         "name": "The Best Of Inner City",
         "url": "https://open.spotify.com/album/1MhjZLn5ZKLok20AJq0YAB"
       },
@@ -6616,7 +6646,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 196363,
       "name": "Good Life - Remastered",
       "url": "https://open.spotify.com/track/00wt3lu6MmnEoCsMOCIUpP"
@@ -8512,10 +8542,36 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 187086,
       "name": "I'm A Believer - Low Steppa Remix",
       "url": "https://open.spotify.com/track/1MBkog19OvjxQBSdolgzct"
+    },
+    {
+      "album": {
+        "name": "We All Move Together (Remixes)",
+        "url": "https://open.spotify.com/album/4uQCLjkZ10Su9JicEEVynb"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        },
+        {
+          "name": "ZebrA OctobrA",
+          "url": "https://open.spotify.com/artist/3vly3a9FHPXxpfiTDUiWdd"
+        },
+        {
+          "name": "Low Steppa",
+          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187086,
+      "name": "I'm A Believer - Low Steppa Remix",
+      "url": "https://open.spotify.com/track/1w9lwGSusUot35M9JVAzQW"
     },
     {
       "album": {
@@ -8626,6 +8682,32 @@
       "duration_ms": 190384,
       "name": "I'm Sorry",
       "url": "https://open.spotify.com/track/3l1cyMgi27bv1KIP10cqOW"
+    },
+    {
+      "album": {
+        "name": "I'm The Only One (Incl. Sebb Junior Remix)",
+        "url": "https://open.spotify.com/album/2voCn9HR3ZBR5GreiV8ND7"
+      },
+      "artists": [
+        {
+          "name": "Lello Russo",
+          "url": "https://open.spotify.com/artist/2S4bnqELtcWR0H7obaRkb2"
+        },
+        {
+          "name": "Alex Rai",
+          "url": "https://open.spotify.com/artist/4Pi9OzOLPwj1sdhpk6xQtr"
+        },
+        {
+          "name": "Venessa Jackson",
+          "url": "https://open.spotify.com/artist/6JDjuDf9o67pNcq97V6fhy"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248914,
+      "name": "I'm The Only One",
+      "url": "https://open.spotify.com/track/3vZELslHncID3iBfQM4TEY"
     },
     {
       "album": {
@@ -8831,6 +8913,28 @@
     },
     {
       "album": {
+        "name": "If You Go",
+        "url": "https://open.spotify.com/album/0Z3S8PmbTOh4ynFe4LcBUa"
+      },
+      "artists": [
+        {
+          "name": "The Magician",
+          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
+        },
+        {
+          "name": "Griff Clawson",
+          "url": "https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154046,
+      "name": "If You Go",
+      "url": "https://open.spotify.com/track/0NYQEukEdw00iXR7qsxoaB"
+    },
+    {
+      "album": {
         "name": "If You Only Knew",
         "url": "https://open.spotify.com/album/6ohs6rGqxkgMOilitkE6Ks"
       },
@@ -8872,7 +8976,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 210528,
       "name": "Immortal",
       "url": "https://open.spotify.com/track/0nzVN0Ln1nnN5eSSUSmztb"
@@ -10698,10 +10802,36 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 210337,
       "name": "Living In A Dream - Sam Divine Remix",
       "url": "https://open.spotify.com/track/2u5EC1LZIs6kyWzxW8f4JX"
+    },
+    {
+      "album": {
+        "name": "We All Move Together (Remixes)",
+        "url": "https://open.spotify.com/album/4uQCLjkZ10Su9JicEEVynb"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        },
+        {
+          "name": "Steffanie Christi'an",
+          "url": "https://open.spotify.com/artist/7kY9ne2m81JVEziwNj9tTF"
+        },
+        {
+          "name": "Sam Divine",
+          "url": "https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210337,
+      "name": "Living In A Dream - Sam Divine Remix",
+      "url": "https://open.spotify.com/track/6nsbeYgK4UM6x3ZX6jA8P3"
     },
     {
       "album": {
@@ -13276,7 +13406,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 158600,
       "name": "One Last Call",
       "url": "https://open.spotify.com/track/4JNzccE5ZScrztydSzruE1"
@@ -17537,6 +17667,32 @@
     },
     {
       "album": {
+        "name": "We All Move Together (Remixes)",
+        "url": "https://open.spotify.com/album/4uQCLjkZ10Su9JicEEVynb"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        },
+        {
+          "name": "Steffanie Christi'an",
+          "url": "https://open.spotify.com/artist/7kY9ne2m81JVEziwNj9tTF"
+        },
+        {
+          "name": "CINTHIE",
+          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227036,
+      "name": "Stop & Stare - Cinthie Remix",
+      "url": "https://open.spotify.com/track/2tRHEP4lWiN8WA7fmEQrjg"
+    },
+    {
+      "album": {
         "name": "Stop & Stare (Cinthie Remix)",
         "url": "https://open.spotify.com/album/4XWcwJmRusEYwFZ8EANWsj"
       },
@@ -17564,7 +17720,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 227036,
       "name": "Stop & Stare - Cinthie Remix",
       "url": "https://open.spotify.com/track/2mCXjD2S7fxqgNGHt0nGOU"
@@ -18270,7 +18426,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 159000,
       "name": "Suzanne's Groove",
       "url": "https://open.spotify.com/track/43wPkKQ5SB5xAVCPTjX6Iq"
@@ -18581,6 +18737,32 @@
     },
     {
       "album": {
+        "name": "We All Move Together (Remixes)",
+        "url": "https://open.spotify.com/album/4uQCLjkZ10Su9JicEEVynb"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        },
+        {
+          "name": "Steffanie Christi'an",
+          "url": "https://open.spotify.com/artist/7kY9ne2m81JVEziwNj9tTF"
+        },
+        {
+          "name": "Jordan Nocturne",
+          "url": "https://open.spotify.com/artist/2yXuTkmZAi1D8vXJrRA72W"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153836,
+      "name": "That Feeling - Jordan Nocturne Remix",
+      "url": "https://open.spotify.com/track/0iVDETLNxhzOmLyRJRTZVg"
+    },
+    {
+      "album": {
         "name": "Believe / That Feeling (Gerd Janson & Jordan Nocturne Remixes)",
         "url": "https://open.spotify.com/album/1C7EqSEHZ9aFmPSksNbgqO"
       },
@@ -18608,7 +18790,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 153836,
       "name": "That Feeling - Jordan Nocturne Remix",
       "url": "https://open.spotify.com/track/3azVD1RnD6Btdla8HFYeiD"
@@ -20945,6 +21127,36 @@
     },
     {
       "album": {
+        "name": "We All Move Together (Remixes)",
+        "url": "https://open.spotify.com/album/4uQCLjkZ10Su9JicEEVynb"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        },
+        {
+          "name": "Idris Elba",
+          "url": "https://open.spotify.com/artist/0wi7qglMjD1ucDG8UCzagm"
+        },
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        {
+          "name": "Latroit",
+          "url": "https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "We All Move Together - Kevin Saunderson x Latroit Remix",
+      "url": "https://open.spotify.com/track/2bX7q92x5GHN9yYfJLRVD2"
+    },
+    {
+      "album": {
         "name": "We Can Dance Again",
         "url": "https://open.spotify.com/album/5qpl9mVFukRjC5PO42Gk4C"
       },
@@ -21038,7 +21250,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 148900,
       "name": "We No Speak Americano (feat. DCUP) - Luca-Dante Spadafora & Niklas Dee Remix",
       "url": "https://open.spotify.com/track/5yfTyl2GvU6R85QO7tEo2t"
@@ -21078,6 +21290,28 @@
       "duration_ms": 220957,
       "name": "We Were Once Kings",
       "url": "https://open.spotify.com/track/2N6euoPS5FbKPHcQE8nuwf"
+    },
+    {
+      "album": {
+        "name": "Weekend Love",
+        "url": "https://open.spotify.com/album/5tVct9zbyZZUF50wb3rlpN"
+      },
+      "artists": [
+        {
+          "name": "Will Clarke",
+          "url": "https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi"
+        },
+        {
+          "name": "House Gospel Choir",
+          "url": "https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224875,
+      "name": "Weekend Love",
+      "url": "https://open.spotify.com/track/1ZmgRaIKH95RpfP59UkkCS"
     },
     {
       "album": {
@@ -21760,6 +21994,32 @@
       "duration_ms": 175570,
       "name": "Yes or No",
       "url": "https://open.spotify.com/track/2rqTZrpsqlbzIz3wQ7s2Q1"
+    },
+    {
+      "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/2UiE40jBlxj78yq7atA4nw"
+      },
+      "artists": [
+        {
+          "name": "Schak",
+          "url": "https://open.spotify.com/artist/7gA8yMxRoBujfmpDLuLPvx"
+        },
+        {
+          "name": "Will Atkinson",
+          "url": "https://open.spotify.com/artist/5FXLHhKgStv36wfwXMhTWt"
+        },
+        {
+          "name": "Abi Flynn",
+          "url": "https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192812,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/4xiat1EP72FQvPzB7hcqSf"
     },
     {
       "album": {

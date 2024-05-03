@@ -767,6 +767,24 @@
     },
     {
       "album": {
+        "name": "Pillole",
+        "url": "https://open.spotify.com/album/5CuD3SN7QvcOFz9DS67ziO"
+      },
+      "artists": [
+        {
+          "name": "ReiNo",
+          "url": "https://open.spotify.com/artist/79fU3KsB7u6FmLjNwzMP40"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209525,
+      "name": "Pillole",
+      "url": "https://open.spotify.com/track/3zpxG02AtzVVBSejsmqNiK"
+    },
+    {
+      "album": {
         "name": "Poison (Hazbin Hotel Original Soundtrack)",
         "url": "https://open.spotify.com/album/6dB85sDBpcpU4s5kwU7etB"
       },
@@ -1659,6 +1677,24 @@
     },
     {
       "album": {
+        "name": "\u041c\u0410\u0419 \u041c\u0410\u0419",
+        "url": "https://open.spotify.com/album/7FLL81YdbJHC7OB0ntas4C"
+      },
+      "artists": [
+        {
+          "name": "LOVV66",
+          "url": "https://open.spotify.com/artist/5A9NWhs9ydYZPGgvcWI8Ms"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109714,
+      "name": "\u041c\u0410\u0419 \u041c\u0410\u0419",
+      "url": "https://open.spotify.com/track/2t33vDAERvsbqTLQuphuwA"
+    },
+    {
+      "album": {
         "name": "\u041a\u0435\u0442\u0430\u043c\u0438\u043d\u043e\u0432\u0430\u044f \u042f\u043c\u0430 2",
         "url": "https://open.spotify.com/album/4HPtCceldRKrNLeJcBuSWk"
       },
@@ -1826,7 +1862,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 124243,
       "name": "\u041d\u0435 \u0441\u0435\u0439 \u043b\u044e\u0431\u043e\u0432\u044c",
       "url": "https://open.spotify.com/track/0ApDx6cHuU1pZlO5UIus1a"
@@ -1960,6 +1996,24 @@
       "duration_ms": 207321,
       "name": "\u041e\u0442\u043f\u0443\u0441\u043a\u0430\u0439",
       "url": "https://open.spotify.com/track/1yrQI5Ycgi7xU9P4i98NXL"
+    },
+    {
+      "album": {
+        "name": "\u0421\u043c\u0438\u0440\u0438\u0441\u044c \u0438 \u0440\u0430\u0441\u0441\u043b\u0430\u0431\u044c\u0441\u044f",
+        "url": "https://open.spotify.com/album/6MtWkVH4nIqwo5fiM4J6xF"
+      },
+      "artists": [
+        {
+          "name": "Valentin Strykalo",
+          "url": "https://open.spotify.com/artist/2zYmwYLeJvcr8vRQe5pQRa"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215666,
+      "name": "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439",
+      "url": "https://open.spotify.com/track/2d6RNeK2Q0z5c3UxQ66FTR"
     },
     {
       "album": {
@@ -2730,7 +2784,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 108923,
       "name": "\u0426\u0435\u043b\u0443\u044e",
       "url": "https://open.spotify.com/track/22Gx9ozLJwjo4fBgoSw7y9"
@@ -2748,7 +2802,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 133475,
       "name": "\u0427\u0435\u0442\u044b\u0440\u0435 \u0442\u0440\u0438\u0434\u0446\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/4GBfKfnvmcTcNrlJcV4OLV"

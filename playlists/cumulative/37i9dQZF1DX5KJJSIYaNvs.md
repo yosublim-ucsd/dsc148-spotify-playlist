@@ -2,9 +2,9 @@
 
 ### [EQUAL India](https://open.spotify.com/playlist/37i9dQZF1DX5KJJSIYaNvs)
 
-> Listen to women at full volume\. Cover \- Alka Yagnik
+> Listen to women at full volume\. Cover \- Natania, Subhi & Shalmali
 
-302 songs - 17 hr 52 min
+303 songs - 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Bajre Da Sitta](https://open.spotify.com/track/5LDvAJwWczQ4DOjKIEtWZs) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR) | [Bajre Da Sitta](https://open.spotify.com/album/2Z58gr9ZIZdHOC2tL7tbYa) | 2:44 | 2022-02-01 | 2023-01-04 |
 | [Balma \(feat\. Aastha Gill\)](https://open.spotify.com/track/1afsdE2fV1sq37wvPHH0EU) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ) | [Balma \(feat\. Aastha Gill\)](https://open.spotify.com/album/38AVJUS2z5C5ltLyiACFum) | 2:46 | 2022-08-03 | 2023-01-04 |
 | [Barkha](https://open.spotify.com/track/1bkU3lIlioHhMGQoeZASbv) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Barkha](https://open.spotify.com/album/0t8oQvb7XfGFYWX0Biu8eP) | 4:21 | 2023-07-25 | 2024-04-19 |
-| [Barkha](https://open.spotify.com/track/0uYiSskLUJ6s7acqyUWX68) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Barkha](https://open.spotify.com/album/6ccAHAXH8lV27buSFuvx69) | 4:21 | 2023-07-24 |  |
+| [Barkha](https://open.spotify.com/track/0uYiSskLUJ6s7acqyUWX68) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Barkha](https://open.spotify.com/album/6ccAHAXH8lV27buSFuvx69) | 4:21 | 2023-07-24 | 2024-05-03 |
 | [Barood Wargi](https://open.spotify.com/track/5BWIrdXMuMewFbyXBntyjA) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9) | [Barood Wargi](https://open.spotify.com/album/3mELIQNKJF2jSZmPL086Jm) | 3:51 | 2022-02-01 | 2022-03-08 |
 | [Barsaat Aa Gayi](https://open.spotify.com/track/1JBm3IDx7yiXnB4LrnQ7k5) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq) | [Barsaat Aa Gayi](https://open.spotify.com/album/2UhvMG2lTLXYnmNZAfukNo) | 3:40 | 2023-06-14 | 2023-07-28 |
 | [Beda Paar](https://open.spotify.com/track/4efU3uJn1mLTFNGXBVHuHR) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3), [Ram Sampath](https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx), [Prashant Pandey](https://open.spotify.com/artist/7vCsTTACb2iT4fvBMnwp5w) | [Laapataa Ladies](https://open.spotify.com/album/6RRszKfdIZFMYabAL8vDGB) | 2:26 | 2024-02-14 |  |
@@ -144,6 +144,7 @@
 | [Laire Lallaire](https://open.spotify.com/track/3OZDBy9vENUlhWE5xSXa1s) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Laire Lallaire](https://open.spotify.com/album/7bYUu8JrwhW9GwCvNcwhoe) | 3:47 | 2021-12-10 | 2022-01-05 |
 | [Laut Aao Na](https://open.spotify.com/track/4ByPoS1tU7Gvbimkj29GQu) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Laut Aao Na](https://open.spotify.com/album/6zNjyPHHO10rc7L1Yxr41O) | 3:47 | 2024-02-13 |  |
 | [Let's Talk](https://open.spotify.com/track/0SF1PYDHRXxN8oCuYHraps) | [Raashi Sood](https://open.spotify.com/artist/0ZEiDnkNsdY6IXWUjWuBU2) | [Let's Talk](https://open.spotify.com/album/52pzhhnKRFK4ZaeKw84TRa) | 2:19 | 2023-07-14 | 2023-07-26 |
+| [Lonely](https://open.spotify.com/track/0ikNx5sUNCl3yxIolX3On7) | [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs) | [Sorry, I'm Late](https://open.spotify.com/album/23wKdXfLP77QJSM18JOVUJ) | 3:16 | 2024-05-02 |  |
 | [Love Like That \(feat\. Ali Sethi\)](https://open.spotify.com/track/6vBuBiZkJDabpSEZqZFYNS) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Love Like That \(feat\. Ali Sethi\)](https://open.spotify.com/album/370o1v7cPpNPuFnOGEgVCN) | 2:40 | 2024-01-12 | 2024-03-12 |
 | [Maa Banne Wali Hoon \(From "Dukaan"\)](https://open.spotify.com/track/08YlAqZduy1qx3uOqtfCDz) | [Shreyas Puranik](https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d), [Siddharth \- Garima](https://open.spotify.com/artist/6k6TIai4KyKG1DeIMftSmJ), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Aishwarya Bhandari](https://open.spotify.com/artist/1eymZReguIMWssA0Skxa68) | [Maa Banne Wali Hoon \(From "Dukaan"\)](https://open.spotify.com/album/76897QRBrXfpHcfdU58VTu) | 3:53 | 2024-03-11 | 2024-03-20 |
 | [Machhli](https://open.spotify.com/track/6mbYKnJVdaDkZjCxV0dbIq) | [Pawni Pandey](https://open.spotify.com/artist/3hmboaiYDw7hqBWQZ5TJQX), [Shahid Mallya](https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8) | [Machhli](https://open.spotify.com/album/0oFtiR6mimLJdsiUdCCRnj) | 2:48 | 2022-01-04 | 2022-02-02 |

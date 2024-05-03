@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 665916,
+  "2024-05-03": 666132,
   "date_first_scraped": "2022-02-10",
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Jesse & Joy en portada.",
   "name": "Top M\u00e9xico",
@@ -9014,6 +9014,24 @@
     },
     {
       "album": {
+        "name": "La Guerita",
+        "url": "https://open.spotify.com/album/2LcCq1U716IqmlzlwSLAct"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184165,
+      "name": "La Guerita",
+      "url": "https://open.spotify.com/track/7AuloEFqtDCrlcPTF2uP9q"
+    },
+    {
+      "album": {
         "name": "La Intenci\u00f3n",
         "url": "https://open.spotify.com/album/3tKHDHYrbcCFDC1yDeLOx2"
       },
@@ -10207,7 +10225,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 212849,
       "name": "Luis Miguel",
       "url": "https://open.spotify.com/track/1DGI8N7EJRegRvFN6V7u8j"
@@ -15484,7 +15502,7 @@
     },
     {
       "album": {
-        "name": "Rompe La Dompe",
+        "name": "ROMPE LA DOMPE",
         "url": "https://open.spotify.com/album/3qmauw54W5zniG20b5q4iJ"
       },
       "artists": [
@@ -15505,7 +15523,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 165634,
-      "name": "Rompe La Dompe",
+      "name": "ROMPE LA DOMPE",
       "url": "https://open.spotify.com/track/2OWv3lRR8PtOVuHWzQNRs2"
     },
     {

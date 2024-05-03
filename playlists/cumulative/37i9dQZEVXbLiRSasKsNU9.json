@@ -384,7 +384,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-01",
+      "date_removed": null,
       "duration_ms": 236147,
       "name": "10 Minutes",
       "url": "https://open.spotify.com/track/2Tfv41qZ0U3ahZiKiDBa4a"
@@ -6005,6 +6005,24 @@
     },
     {
       "album": {
+        "name": "Ben Sana Gelemem",
+        "url": "https://open.spotify.com/album/6VotTGGtlSzAuy8q5JCSsV"
+      },
+      "artists": [
+        {
+          "name": "Mela Bedel",
+          "url": "https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192475,
+      "name": "Ben Sana Gelemem",
+      "url": "https://open.spotify.com/track/3gdY5WFt7i6BWVLie3t6hQ"
+    },
+    {
+      "album": {
         "name": "Benden Bir Tane Daha Yok",
         "url": "https://open.spotify.com/album/1hFtzZ9LgsPTjKdiTAAil0"
       },
@@ -7538,6 +7556,28 @@
       "duration_ms": 173720,
       "name": "Bunga Hati",
       "url": "https://open.spotify.com/track/4AfhlJghKIWkXa8sfFEXVd"
+    },
+    {
+      "album": {
+        "name": "BUNKER/PREROLL",
+        "url": "https://open.spotify.com/album/1bPxMZGxchRlhmtuAwfn81"
+      },
+      "artists": [
+        {
+          "name": "mynameisntjmack",
+          "url": "https://open.spotify.com/artist/7HY1ISUuRotG01FVu0PKWh"
+        },
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "BUNKER/PREROLL",
+      "url": "https://open.spotify.com/track/4nPeNi0XkuoYcuIshqcYVn"
     },
     {
       "album": {
@@ -23042,10 +23082,28 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 224841,
       "name": "Karma's A Bitch",
       "url": "https://open.spotify.com/track/3LwEb2gndSporUInoVxUFB"
+    },
+    {
+      "album": {
+        "name": "Karma's A Bitch",
+        "url": "https://open.spotify.com/album/2jKuxjlCcnU7BaoeDkvjUj"
+      },
+      "artists": [
+        {
+          "name": "Brit Smith",
+          "url": "https://open.spotify.com/artist/3c4w2ooGWx3cycO7ZcxNCF"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224860,
+      "name": "Karma's A Bitch",
+      "url": "https://open.spotify.com/track/34tDhqHhkxwDp4llQ5PxVj"
     },
     {
       "album": {
@@ -23634,7 +23692,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 147692,
       "name": "kompa pasi\u00f3n",
       "url": "https://open.spotify.com/track/1EwIdgeVfiXTIDfFHpgqfI"
@@ -29402,7 +29460,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 162880,
       "name": "Midas Touch",
       "url": "https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V"
@@ -46638,7 +46696,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 476736,
       "name": "Tu \u00e9s + \u00c1guas Purificadoras - Ao vivo",
       "url": "https://open.spotify.com/track/2xVe3wMbesHcOhqW8OoyS8"

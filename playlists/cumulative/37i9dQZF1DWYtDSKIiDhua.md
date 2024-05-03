@@ -2,9 +2,9 @@
 
 ### [mood.](https://open.spotify.com/playlist/37i9dQZF1DWYtDSKIiDhua)
 
-> The R&B and good vibe tracks for your current mood\. Cover: yuji
+> The R&B and good vibe tracks for your current mood\. Cover: Cupnoodle
 
-697 songs - 1 day 13 hr 39 min
+700 songs - 1 day 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [everything](https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF) | 3:27 | 2022-06-08 | 2022-08-26 |
 | [Everything I Wanted](https://open.spotify.com/track/2oagxwVFw5R0eiw8loRELR) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Everything I Wanted](https://open.spotify.com/album/6WsbH7xi21fFkyFpJQmCFY) | 3:13 | 2024-01-18 |  |
 | [Everything’s Beautiful](https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Everything’s Beautiful](https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt) | 2:50 | 2024-01-25 | 2024-02-16 |
+| [EX](https://open.spotify.com/track/2jHipIIvKgwU9mfqSnyO8u) | [Cupnoodle](https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2) | [EX](https://open.spotify.com/album/4mWqh7YtQpM8rKOYYTncig) | 2:51 | 2024-05-02 |  |
 | [Exist/Exit](https://open.spotify.com/track/5qsiT41U9Ym4ISiLQHfgs0) | [NYK](https://open.spotify.com/artist/009SHiJ9rvFm3vNwL4SjZx) | [Exist/Exit](https://open.spotify.com/album/3EXKr7MzMre3pcaWteHeqz) | 3:33 | 2023-08-24 | 2023-09-15 |
 | [Expat Living](https://open.spotify.com/track/2nRUk1Qbef1wGeX8tdCYCR) | [just Min](https://open.spotify.com/artist/30WOLSr0UBs8AKHEIbQB1B) | [Expat Living](https://open.spotify.com/album/6kGFNA77LeZa67JCMvJVfE) | 3:04 | 2023-09-21 | 2023-10-14 |
 | [EXPIRATION DATE](https://open.spotify.com/track/6BMAOOrAC6LxdYjVbkk7h9) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [EXPIRATION DATE](https://open.spotify.com/album/7eDx4ejqsr5RcTmPaM7Hfs) | 2:41 | 2022-06-08 | 2022-09-23 |
@@ -186,7 +187,7 @@
 | [Feel The Same](https://open.spotify.com/track/0b7U8X4OjpeJ3HHK7Cw6DN) | [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB), [ANNÉ](https://open.spotify.com/artist/0mI2naVcev6UnXkXKmG4kf) | [Feel The Same](https://open.spotify.com/album/5ccdTJgc6HTvHCGfrranhV) | 2:52 | 2024-02-15 |  |
 | [Feelin'](https://open.spotify.com/track/2KBlnIRT9BiUqIcf9E6V6S) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc) | [Feelin'](https://open.spotify.com/album/0DFzivEqYeYcURlXDRzHks) | 3:01 | 2022-10-28 | 2022-11-11 |
 | [Feeling Good Today](https://open.spotify.com/track/5AmBayKvA8e1HdhintEELx) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Feeling Good Today](https://open.spotify.com/album/0iQLhH3cu8txsiJOTt3bzR) | 1:26 | 2024-02-08 | 2024-02-16 |
-| [Feelings For You](https://open.spotify.com/track/6mWiNbLn42n9owATnMSVau) | [EDDI](https://open.spotify.com/artist/1bRHF6zV7n8uymi2ReMRQG) | [Feelings For You](https://open.spotify.com/album/5WVPOwHNsiXEXtQFigEuaR) | 1:59 | 2024-02-08 |  |
+| [Feelings For You](https://open.spotify.com/track/6mWiNbLn42n9owATnMSVau) | [EDDI](https://open.spotify.com/artist/1bRHF6zV7n8uymi2ReMRQG) | [Feelings For You](https://open.spotify.com/album/5WVPOwHNsiXEXtQFigEuaR) | 1:59 | 2024-02-08 | 2024-05-03 |
 | [Fever](https://open.spotify.com/track/5nDSIB3JHYgCvZQSG1JwrV) | [Jooyoung](https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Sphere](https://open.spotify.com/album/4e9WFFgUKF98b0JKokADNX) | 3:00 | 2024-01-25 | 2024-04-12 |
 | [Fine With Me](https://open.spotify.com/track/4gh7H3A9DUImxhzeDjk7fu) | [Slodown](https://open.spotify.com/artist/3bdade2XqS9F4378nhCNcl) | [Under The Rose](https://open.spotify.com/album/4AftlAP5Qsw1CJAyRDz3rT) | 4:32 | 2022-06-08 | 2022-09-23 |
 | [Fire In The Sky](https://open.spotify.com/track/3zpGIFghtnVlwMXWyKW474) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 3:21 | 2022-06-08 | 2022-07-15 |
@@ -284,7 +285,7 @@
 | [I Wish you Roses](https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [I Wish you Roses](https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi) | 3:45 | 2023-01-19 | 2023-08-25 |
 | [I'm Blessed](https://open.spotify.com/track/0U8JJXyvA1ufQd1CJLTl1E) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [I'm Blessed](https://open.spotify.com/album/5EWpB07ahlO57i3zRRaIsK) | 3:38 | 2024-02-08 |  |
 | [I'm okay](https://open.spotify.com/track/1f4Lv8yuJXpqgnsUDQGw2w) | [Rocketman](https://open.spotify.com/artist/4PSlXQjt2u6ua1YxEsHfsQ) | [I'm okay](https://open.spotify.com/album/4J2IveoFpn7XFUQNCkn7TM) | 4:00 | 2023-03-23 | 2023-04-01 |
-| [I'm So High](https://open.spotify.com/track/0OsOsFGRsNsn6ncyOkr2Uo) | [Assia Keva](https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8) | [2004](https://open.spotify.com/album/2mz2plCCh1VzUymmWMGjCg) | 3:37 | 2023-10-19 |  |
+| [I'm So High](https://open.spotify.com/track/0OsOsFGRsNsn6ncyOkr2Uo) | [Assia Keva](https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8) | [2004](https://open.spotify.com/album/2mz2plCCh1VzUymmWMGjCg) | 3:37 | 2023-10-19 | 2024-05-03 |
 | [I've Been Waiting For So Long](https://open.spotify.com/track/2UOn7uM2hmqPaVee9yoDQL) | [Blackout On Mars](https://open.spotify.com/artist/77Rsubft2DC13eDnMHV8gW), [Peace Lo](https://open.spotify.com/artist/0NiSYetyXtCKWhDZXfqydC) | [I've Been Waiting For So Long](https://open.spotify.com/album/49zicyaNRnOcLYYx0Cd4Ab) | 3:37 | 2023-06-15 | 2023-09-08 |
 | [I'VE SEEN THIS MOVIE BEFORE Pt.2](https://open.spotify.com/track/6bZ6d4DqovVDecNAluId9h) | [hyejin](https://open.spotify.com/artist/5zLd9DhI6ebR8fvwunp4bX), [Aleebi](https://open.spotify.com/artist/5eo2IBMqyII25TtyBJ4359), [kasper](https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH) | [I'VE SEEN THIS MOVIE BEFORE Pt.2](https://open.spotify.com/album/3qJp0l4TtjzUNXQ3cJnMPh) | 3:28 | 2023-05-04 | 2023-06-09 |
 | [I.L.S.M](https://open.spotify.com/track/6aiLq4d0ePpfjy2hbuyoee) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [I.L.S.M \(I Love Sadness More\)](https://open.spotify.com/album/1yOU9gLssu44JoIstpba0f) | 3:05 | 2022-11-17 | 2022-12-17 |
@@ -476,7 +477,7 @@
 | [R e s e n t m e n t](https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e s e n t m e n t](https://open.spotify.com/album/6mHQX0imf1GfctUD5cQEWi) | 3:44 | 2023-07-07 | 2023-07-21 |
 | [Ready](https://open.spotify.com/track/1hWi7x6YYkpCt6aRlC2r6R) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Ready](https://open.spotify.com/album/4VEmS1AQqFKNhCCtmp2R0E) | 3:01 | 2023-07-07 | 2023-07-21 |
 | [Real Thing \(feat\. Tori Kelly\)](https://open.spotify.com/track/4Nk5iJrw4u7vJ6nGXosuxk) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Pink Moon](https://open.spotify.com/album/5MxLgiQF7yvC7SVMghxPZ1) | 3:15 | 2022-06-08 | 2022-09-30 |
-| [redlight](https://open.spotify.com/track/4usL9yvJ80iPtLGNgCQWKj) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW) | [redlight](https://open.spotify.com/album/1tTkSbF12n40Ul5ksW24QH) | 3:28 | 2023-04-20 |  |
+| [redlight](https://open.spotify.com/track/4usL9yvJ80iPtLGNgCQWKj) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW) | [redlight](https://open.spotify.com/album/1tTkSbF12n40Ul5ksW24QH) | 3:28 | 2023-04-20 | 2024-05-03 |
 | [Remedy](https://open.spotify.com/track/4Cc4Sa0GajmkLpTkyv4BJc) | [Elang Defrianto](https://open.spotify.com/artist/2GaPhI05VetWfykxH7L3oP) | [Remedy](https://open.spotify.com/album/5bv4IudQKEqHVVCgsQ6yMh) | 3:10 | 2022-09-01 | 2022-09-30 |
 | [Remedy](https://open.spotify.com/track/6Oa0nJwDOkclkCQsiZh6ge) | [Khally](https://open.spotify.com/artist/4PqeHxPLqzI2yCNerkPrES) | [Daydream](https://open.spotify.com/album/2oMoazj0HGsegjfPDyfrvh) | 3:31 | 2023-01-26 | 2023-07-21 |
 | [Restless Love](https://open.spotify.com/track/6upgCPd0Z70zA0PNdfoHOc) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [Restless Love](https://open.spotify.com/album/1KEGwBbnXAnbBjPWkeC1Pl) | 3:50 | 2022-06-08 | 2022-09-30 |
@@ -536,6 +537,7 @@
 | [slow mo](https://open.spotify.com/track/1bY35fcWF9bgKlsGH9KN99) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [Rovv](https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy), [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [slow mo](https://open.spotify.com/album/6Ewz44oazyppjk3cb8StcE) | 2:47 | 2022-06-08 | 2022-06-17 |
 | [Slow Motion \(feat\. Wizkid\)](https://open.spotify.com/track/1OdxQvBNOgCDE3SyqoEDha) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 2:48 | 2023-02-23 | 2023-03-04 |
 | [Smoke \(feat\. Lucky Daye\)](https://open.spotify.com/track/3unpulZnIiKRZ4MCymHfXx) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Smoke \(feat\. Lucky Daye\)](https://open.spotify.com/album/24myqNnAEPwBjGfhEm6WJA) | 3:06 | 2023-03-23 | 2023-04-15 |
+| [Smoke and Mirrors](https://open.spotify.com/track/1WUwrMCXTFxuOdxf3ltVVN) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Smoke and Mirrors](https://open.spotify.com/album/3PJV7f6A5BtV8eiYCSZdJH) | 3:19 | 2024-05-02 |  |
 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 | 2023-02-03 |  |
 | [So Cool](https://open.spotify.com/track/4fpLhoSs1BMmx4ZzTkxZif) | [Jay Lau](https://open.spotify.com/artist/5Q5cRFXh72YfaeTrJGsBjX) | [Begin](https://open.spotify.com/album/0uQM8N2OIq4ZKGhwhYEHo2) | 3:08 | 2023-03-16 | 2023-04-01 |
 | [Softest Touch](https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Softest Touch](https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi) | 2:44 | 2023-03-31 |  |
@@ -572,6 +574,7 @@
 | [Sun/Son](https://open.spotify.com/track/1WD5d42tRqdLyfaoTtUlHB) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sun/Son](https://open.spotify.com/album/7yFCk6DfTK0AqZRVkwYZ24) | 2:56 | 2024-01-04 | 2024-03-16 |
 | [Sundown](https://open.spotify.com/track/1FwhukU3ZPJrjKkBqKOftx) | [Keev](https://open.spotify.com/artist/2KS5HYsDqrlhrMDLcxWoAK) | [HWY7](https://open.spotify.com/album/1pKMIAcku1t7GJPZxR5R4r) | 2:45 | 2022-09-22 | 2022-12-09 |
 | [SUNKISSED](https://open.spotify.com/track/7sDCq4JqQJeZZ1tpEVacaZ) | [daynim](https://open.spotify.com/artist/5TJfVhMs1wOBcLLl56fiu6) | [SUNKISSED](https://open.spotify.com/album/6mBIlbMvGJwMT4FwDGdcgg) | 2:09 | 2022-11-03 | 2022-11-11 |
+| [Sunny When I'm With You](https://open.spotify.com/track/28ZIuMr3gGVhdZO12SvAvB) | [Ysanygo](https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ), [Purplecat](https://open.spotify.com/artist/2oxXzHzL7FaXIE29VwWPvN) | [Sunny When I'm With You](https://open.spotify.com/album/5wlnSQbgrirIifiisWn94E) | 3:00 | 2024-05-02 |  |
 | [SUNSET WITH YOU](https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 3:23 | 2022-06-08 | 2022-07-15 |
 | [superficial energy](https://open.spotify.com/track/2wmbk7U26XVNsS89UUffe5) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [superficial energy](https://open.spotify.com/album/14clBGWaMoyRGVfI3o7nlQ) | 2:55 | 2022-08-25 | 2022-09-16 |
 | [Superglue](https://open.spotify.com/track/4sqlU5E6WJnctc2z5nwWWV) | [Tripov](https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h) | [Honest Opinions](https://open.spotify.com/album/1cSFQc6e8l2gnxfojHxs8s) | 3:25 | 2023-05-04 | 2023-05-12 |

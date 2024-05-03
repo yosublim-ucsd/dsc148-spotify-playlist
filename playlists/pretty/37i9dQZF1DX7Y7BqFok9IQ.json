@@ -1,13 +1,53 @@
 {
   "description": "The best of modern blues rock. Cover: Slash",
-  "num_followers": 202978,
+  "num_followers": 203076,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zism/AAAAABPNPAJkGpXfKwTUxFtArYb",
+  "snapshot_id": "ZjRhfAAAAAAL+W08WgtrBDJAaG6upkW2",
   "tracks": [
+    {
+      "added_at": "2024-05-03 04:01:00",
+      "album": {
+        "name": "Promised Land",
+        "url": "https://open.spotify.com/album/4hlHbBAzgvjs0w0J7VXDjU"
+      },
+      "artists": [
+        {
+          "name": "The Karma Effect",
+          "url": "https://open.spotify.com/artist/2D1hmJmCscHyl2PzaIu9J1"
+        }
+      ],
+      "duration_ms": 211469,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/2IHd4inCaMQTGBM5l0p9YF"
+    },
+    {
+      "added_at": "2024-05-03 04:01:00",
+      "album": {
+        "name": "Way Down We Go",
+        "url": "https://open.spotify.com/album/3KTad48fjnInjRtIlACP9r"
+      },
+      "artists": [
+        {
+          "name": "Rev Theory",
+          "url": "https://open.spotify.com/artist/10n5DVRlZbjbZ5ffpwpn6l"
+        },
+        {
+          "name": "Art Of Dying",
+          "url": "https://open.spotify.com/artist/28DlNBW2UlEVVgTuCcYtTe"
+        },
+        {
+          "name": "ashpvnk",
+          "url": "https://open.spotify.com/artist/3dA0yRUHt4EC9GAbVqJZf3"
+        }
+      ],
+      "duration_ms": 198703,
+      "name": "Way Down We Go",
+      "url": "https://open.spotify.com/track/3fqYPxHqA3RiEk0hr4Z4zJ"
+    },
     {
       "added_at": "2024-04-26 04:01:00",
       "album": {
@@ -79,22 +119,6 @@
       "duration_ms": 275026,
       "name": "Dragging Me Down",
       "url": "https://open.spotify.com/track/1tC3Lk0Bh7wFPctiowuxJb"
-    },
-    {
-      "added_at": "2024-03-01 05:01:00",
-      "album": {
-        "name": "Wild Honey",
-        "url": "https://open.spotify.com/album/6HNPRYLIeMyMsQ3bOyxinV"
-      },
-      "artists": [
-        {
-          "name": "The Karma Effect",
-          "url": "https://open.spotify.com/artist/2D1hmJmCscHyl2PzaIu9J1"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Wild Honey",
-      "url": "https://open.spotify.com/track/5Td3hpekZcEKaWhicS8hxg"
     },
     {
       "added_at": "2024-02-23 05:01:00",
@@ -1151,22 +1175,6 @@
       "duration_ms": 164645,
       "name": "Bomb Through the Breeze",
       "url": "https://open.spotify.com/track/2lYTIEA8KJQWysrhXDogcD"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "John The Conqueror",
-        "url": "https://open.spotify.com/album/5J05LEDQP5q6wzJWuXO1Sp"
-      },
-      "artists": [
-        {
-          "name": "John The Conqueror",
-          "url": "https://open.spotify.com/artist/1PEYH4hqPi7Wqa4qNV4184"
-        }
-      ],
-      "duration_ms": 229720,
-      "name": "All Alone",
-      "url": "https://open.spotify.com/track/4QcFM4sEayM4QjvIQjF3bE"
     },
     {
       "added_at": "2022-08-26 04:02:00",

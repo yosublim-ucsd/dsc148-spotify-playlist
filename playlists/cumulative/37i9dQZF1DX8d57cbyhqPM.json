@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-01",
-  "description": "Du Congo, au monde. \ud83c\udf0d Photo: Naza",
+  "description": "Du Congo, au monde. \ud83c\udf0d Photo: Dadju et Tayc",
   "name": "Biso Na Biso",
   "tracks": [
     {
@@ -802,6 +802,32 @@
       "duration_ms": 153913,
       "name": "Bina Nanu B\u00e9b\u00e9 (feat. De Panama)",
       "url": "https://open.spotify.com/track/2K8ERVVjWyWLxKFNo5fhYz"
+    },
+    {
+      "album": {
+        "name": "Birthday Girl",
+        "url": "https://open.spotify.com/album/4buoDQD7ANAJOPayKcD3Ka"
+      },
+      "artists": [
+        {
+          "name": "DJ Boat",
+          "url": "https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ"
+        },
+        {
+          "name": "Gino J",
+          "url": "https://open.spotify.com/artist/4cAltlzViWaH9SL0RKlrED"
+        },
+        {
+          "name": "Afrisounds",
+          "url": "https://open.spotify.com/artist/7xRBFwkWrKG1Ql2OOOLT1A"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167631,
+      "name": "Birthday Girl",
+      "url": "https://open.spotify.com/track/0MOAgbKBi56AfAEiGPm3YX"
     },
     {
       "album": {
@@ -2417,6 +2443,24 @@
     },
     {
       "album": {
+        "name": "Fondili",
+        "url": "https://open.spotify.com/album/6nMH7VGRdE4HOSRRr2jdaQ"
+      },
+      "artists": [
+        {
+          "name": "Gaz Mawete",
+          "url": "https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261428,
+      "name": "Fondili",
+      "url": "https://open.spotify.com/track/7FTTX6qzR4TSPeyOxo2N2b"
+    },
+    {
+      "album": {
         "name": "Formule 7",
         "url": "https://open.spotify.com/album/3QioaSF8lar1qnvwhMKDM6"
       },
@@ -2864,7 +2908,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 237866,
       "name": "I love you",
       "url": "https://open.spotify.com/track/2QcTf5lLMrrWTiElDInpTb"
@@ -2904,7 +2948,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 255845,
       "name": "INDIGO",
       "url": "https://open.spotify.com/track/5JlG5WJSZ0b1mHWtXyXYig"
@@ -2998,7 +3042,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 165078,
       "name": "Japonais",
       "url": "https://open.spotify.com/track/4L6GFaHKWwJBeaD6FEKaXh"
@@ -3625,6 +3669,28 @@
     },
     {
       "album": {
+        "name": "LIKOFI (Sur la route du casino de Paris)",
+        "url": "https://open.spotify.com/album/5XYZN6ccj0rwlGhynBvm3g"
+      },
+      "artists": [
+        {
+          "name": "Roga Roga",
+          "url": "https://open.spotify.com/artist/2L1TvC8zgIymRxaa32TWug"
+        },
+        {
+          "name": "Extra Musica",
+          "url": "https://open.spotify.com/artist/5b93AJQpEWNI8b1X6Nu99K"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237180,
+      "name": "LIKOFI - Sur la route du casino de Paris",
+      "url": "https://open.spotify.com/track/0h0m07uXsifK4JN351Q485"
+    },
+    {
+      "album": {
         "name": "Tokooos II",
         "url": "https://open.spotify.com/album/2Tcx5XnaqhO7ooOH00iA6M"
       },
@@ -3782,6 +3848,28 @@
       "duration_ms": 218280,
       "name": "Lolita",
       "url": "https://open.spotify.com/track/50P2sl58J2SGimBtMAuYmz"
+    },
+    {
+      "album": {
+        "name": "Longue Vie",
+        "url": "https://open.spotify.com/album/7dU2wGGbOoazZyCHYa8KQW"
+      },
+      "artists": [
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120973,
+      "name": "Longue Vie",
+      "url": "https://open.spotify.com/track/4YJsPEuHqSk7UVG4uOpbYg"
     },
     {
       "album": {
@@ -4604,7 +4692,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 274868,
       "name": "Muziko (Remix)",
       "url": "https://open.spotify.com/track/0myEyvPyNgmMwVTHkWlXwX"
@@ -4644,6 +4732,24 @@
       "duration_ms": 300094,
       "name": "Mwinda",
       "url": "https://open.spotify.com/track/3qSfVR5ujV1SaomRSARWim"
+    },
+    {
+      "album": {
+        "name": "My Only One",
+        "url": "https://open.spotify.com/album/3nlZ0VXSrePBcGPgCWmAwa"
+      },
+      "artists": [
+        {
+          "name": "Shakis Boy",
+          "url": "https://open.spotify.com/artist/76BjGpzdV5DL1IEDOQDKFP"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205775,
+      "name": "My Only One",
+      "url": "https://open.spotify.com/track/7bT1DUc6dkvINve4z6zoNK"
     },
     {
       "album": {
@@ -4694,7 +4800,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 187733,
       "name": "Na lingi ye seko",
       "url": "https://open.spotify.com/track/7GucUpV4mTCyPaevmI3ipa"
@@ -6232,7 +6338,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 244904,
       "name": "Sikoyo (feat. Branko & F\u00e9d\u00e9ration Internationale du Bruit)",
       "url": "https://open.spotify.com/track/6nqe6iXrpAntPHHHNsK7nR"

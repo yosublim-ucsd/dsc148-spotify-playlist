@@ -378,7 +378,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-01",
+      "date_removed": null,
       "duration_ms": 147988,
       "name": "A Cerveja Abre Sozinha - Ao Vivo",
       "url": "https://open.spotify.com/track/4jbTB2Kj4CrZCjngkQUQS2"
@@ -2690,7 +2690,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -3758,7 +3758,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-01",
+      "date_removed": null,
       "duration_ms": 124511,
       "name": "Canudinho - Ao Vivo",
       "url": "https://open.spotify.com/track/1OwoPY7wYgKQIyl9maWmSM"
@@ -6098,7 +6098,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-01",
+      "date_removed": null,
       "duration_ms": 173370,
       "name": "Dois Fugitivos - Ao Vivo",
       "url": "https://open.spotify.com/track/4YKujFSyakVjLdH1sDllVc"
@@ -6712,7 +6712,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 185138,
       "name": "Embalo",
       "url": "https://open.spotify.com/track/5cAeyKBtzlQ0EIwPFcIYhT"
@@ -7184,7 +7184,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
@@ -8531,6 +8531,28 @@
     },
     {
       "album": {
+        "name": "Filho da Noite",
+        "url": "https://open.spotify.com/album/63K61G3WTZrRUHZzAUPqHn"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236666,
+      "name": "Filho da Noite",
+      "url": "https://open.spotify.com/track/40IXmplKTcyWPr9HNCik7e"
+    },
+    {
+      "album": {
         "name": "Fim da Noite",
         "url": "https://open.spotify.com/album/1QYG4qfUKrTSEGadNN1TWI"
       },
@@ -8948,7 +8970,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-01",
+      "date_removed": null,
       "duration_ms": 166189,
       "name": "Fronteira - Ao Vivo",
       "url": "https://open.spotify.com/track/2IvsDK2p7Kq3aDrVtESDIg"
@@ -9470,7 +9492,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 110858,
       "name": "Grip",
       "url": "https://open.spotify.com/track/52kROkm8RbJsYLM5taByIP"
@@ -13540,7 +13562,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 149538,
       "name": "Mtg Forr\u00f3 e Desmantelo",
       "url": "https://open.spotify.com/track/106SKHXoytRADjpxHBkJpV"
@@ -15478,7 +15500,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-01",
+      "date_removed": null,
       "duration_ms": 163575,
       "name": "Passada de M\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/2AZAvTFeYKJAIojPagTGin"
@@ -17976,7 +17998,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 83267,
       "name": "Savage Funk",
       "url": "https://open.spotify.com/track/5ZfMBw3QdSMAHSEDa8FoA0"

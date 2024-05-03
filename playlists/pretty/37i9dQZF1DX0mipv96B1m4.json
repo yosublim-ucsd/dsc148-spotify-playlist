@@ -1,6 +1,6 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 1118,
+  "num_followers": 1119,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
@@ -83,22 +83,6 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Tosobola",
-        "url": "https://open.spotify.com/album/7gaDRnjC2iS7GoqTTqmX7p"
-      },
-      "artists": [
-        {
-          "name": "Sheebah",
-          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
-        }
-      ],
-      "duration_ms": 161684,
-      "name": "Tosobola",
-      "url": "https://open.spotify.com/track/7wAH1MV2G19AMfWLvjabJq"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
         "name": "Nalonda Nemala",
         "url": "https://open.spotify.com/album/5I9F9BPPANye5vrYjahOIG"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 182021,
       "name": "Nalonda Nemala",
       "url": "https://open.spotify.com/track/1MgMK2l4zjRKl56tvdqXih"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
+        "name": "Tosobola",
+        "url": "https://open.spotify.com/album/7gaDRnjC2iS7GoqTTqmX7p"
+      },
+      "artists": [
+        {
+          "name": "Sheebah",
+          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
+        }
+      ],
+      "duration_ms": 161684,
+      "name": "Tosobola",
+      "url": "https://open.spotify.com/track/7wAH1MV2G19AMfWLvjabJq"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "My Bed",
-        "url": "https://open.spotify.com/album/7MoasxIIh6VkzbVYTuv8dO"
-      },
-      "artists": [
-        {
-          "name": "John Frog",
-          "url": "https://open.spotify.com/artist/08th4TGHS3uaStTDqOoyrE"
-        }
-      ],
-      "duration_ms": 167428,
-      "name": "My Bed",
-      "url": "https://open.spotify.com/track/7lD0Y8t0dYmsjKcYlW08gc"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
         "name": "Gemazima",
         "url": "https://open.spotify.com/album/02QbNNia59RV4jwu00khDg"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 181342,
       "name": "Gemazima",
       "url": "https://open.spotify.com/track/6ctNl82yEypzLqeeMzrTkL"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
+        "name": "My Bed",
+        "url": "https://open.spotify.com/album/7MoasxIIh6VkzbVYTuv8dO"
+      },
+      "artists": [
+        {
+          "name": "John Frog",
+          "url": "https://open.spotify.com/artist/08th4TGHS3uaStTDqOoyrE"
+        }
+      ],
+      "duration_ms": 167428,
+      "name": "My Bed",
+      "url": "https://open.spotify.com/track/7lD0Y8t0dYmsjKcYlW08gc"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -535,6 +535,26 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
+        "name": "Feel Me",
+        "url": "https://open.spotify.com/album/5UclCEq9PPTybmhQt1aX2R"
+      },
+      "artists": [
+        {
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        },
+        {
+          "name": "Karole Kasita",
+          "url": "https://open.spotify.com/artist/1RDiu2gDimIlyTwYha6OM0"
+        }
+      ],
+      "duration_ms": 196963,
+      "name": "Gyal A Bubble",
+      "url": "https://open.spotify.com/track/1gi6SX3ZHw1IMEtPCL6iwj"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
         "name": "Offline",
         "url": "https://open.spotify.com/album/4BtgtXxG8BujT1B8qVZNRL"
       },
@@ -587,26 +607,6 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Feel Me",
-        "url": "https://open.spotify.com/album/5UclCEq9PPTybmhQt1aX2R"
-      },
-      "artists": [
-        {
-          "name": "Daddy Andre",
-          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
-        },
-        {
-          "name": "Karole Kasita",
-          "url": "https://open.spotify.com/artist/1RDiu2gDimIlyTwYha6OM0"
-        }
-      ],
-      "duration_ms": 196963,
-      "name": "Gyal A Bubble",
-      "url": "https://open.spotify.com/track/1gi6SX3ZHw1IMEtPCL6iwj"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
         "name": "Doctor",
         "url": "https://open.spotify.com/album/1I0QbEiprX6Z7xVKTSd8B4"
       },
@@ -619,26 +619,6 @@
       "duration_ms": 193859,
       "name": "Doctor",
       "url": "https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
-        "name": "Bounce",
-        "url": "https://open.spotify.com/album/2gA3mT3UlvQDgOFWlskO9X"
-      },
-      "artists": [
-        {
-          "name": "Selecta Jeff",
-          "url": "https://open.spotify.com/artist/0jpbFVpDj9GtjCCEBdp5Yu"
-        },
-        {
-          "name": "Kanyere",
-          "url": "https://open.spotify.com/artist/3CGuPNyjmRVGi6veE8GymO"
-        }
-      ],
-      "duration_ms": 170721,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/3ckYKLN77N5JhabWiFmLnM"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -679,6 +659,26 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
+        "name": "Bounce",
+        "url": "https://open.spotify.com/album/2gA3mT3UlvQDgOFWlskO9X"
+      },
+      "artists": [
+        {
+          "name": "Selecta Jeff",
+          "url": "https://open.spotify.com/artist/0jpbFVpDj9GtjCCEBdp5Yu"
+        },
+        {
+          "name": "Kanyere",
+          "url": "https://open.spotify.com/artist/3CGuPNyjmRVGi6veE8GymO"
+        }
+      ],
+      "duration_ms": 170721,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/3ckYKLN77N5JhabWiFmLnM"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
         "name": "Sikyegomba",
         "url": "https://open.spotify.com/album/3i1lB4GFhWfD21E5kqLQ8Y"
       },
@@ -715,6 +715,26 @@
       "duration_ms": 175072,
       "name": "Bajooga",
       "url": "https://open.spotify.com/track/0dQT7ywj5hjhHoLcJYhN3k"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
+        "name": "Semi Final",
+        "url": "https://open.spotify.com/album/0YRa3fnnHj4KWfamSubtl0"
+      },
+      "artists": [
+        {
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        },
+        {
+          "name": "Dush",
+          "url": "https://open.spotify.com/artist/1jIysipyPAKkHyIQvIZwBQ"
+        }
+      ],
+      "duration_ms": 172721,
+      "name": "Semi Final",
+      "url": "https://open.spotify.com/track/3UqJPo5PgQTS6kdMRMnczm"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -763,42 +783,6 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Semi Final",
-        "url": "https://open.spotify.com/album/0YRa3fnnHj4KWfamSubtl0"
-      },
-      "artists": [
-        {
-          "name": "Daddy Andre",
-          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
-        },
-        {
-          "name": "Dush",
-          "url": "https://open.spotify.com/artist/1jIysipyPAKkHyIQvIZwBQ"
-        }
-      ],
-      "duration_ms": 172721,
-      "name": "Semi Final",
-      "url": "https://open.spotify.com/track/3UqJPo5PgQTS6kdMRMnczm"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
-        "name": "My Woman",
-        "url": "https://open.spotify.com/album/5is3qhNCcJMaAY60deK5io"
-      },
-      "artists": [
-        {
-          "name": "Vian Music",
-          "url": "https://open.spotify.com/artist/4ypzQUeTPb3HIRRriCEGmm"
-        }
-      ],
-      "duration_ms": 193541,
-      "name": "My Woman",
-      "url": "https://open.spotify.com/track/2blpLXK920nbgZZSs3Kjlx"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
         "name": "Bikole",
         "url": "https://open.spotify.com/album/18zHLNTQCuz0UfCnVndtlw"
       },
@@ -819,26 +803,38 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Nkwatewa",
-        "url": "https://open.spotify.com/album/6kgT8uvBzofMYLxeqx6rBe"
+        "name": "My Woman",
+        "url": "https://open.spotify.com/album/5is3qhNCcJMaAY60deK5io"
       },
       "artists": [
         {
-          "name": "selecta jef",
-          "url": "https://open.spotify.com/artist/2t5Ttmw4e2ELZmxD2vfsTv"
-        },
+          "name": "Vian Music",
+          "url": "https://open.spotify.com/artist/4ypzQUeTPb3HIRRriCEGmm"
+        }
+      ],
+      "duration_ms": 193541,
+      "name": "My Woman",
+      "url": "https://open.spotify.com/track/2blpLXK920nbgZZSs3Kjlx"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
+        "name": "Bwonjagala",
+        "url": "https://open.spotify.com/album/6YZJxiQl1xFwi8Wgu0Dg3Q"
+      },
+      "artists": [
         {
           "name": "Daddy Andre",
           "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
         },
         {
-          "name": "Bebe Cool",
-          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
+          "name": "Fille",
+          "url": "https://open.spotify.com/artist/5SqLkoaEA3HOgPkesCQkKx"
         }
       ],
-      "duration_ms": 181890,
-      "name": "Nkwatewa",
-      "url": "https://open.spotify.com/track/4fvpUiaak8u4jjcW9WQCJg"
+      "duration_ms": 178834,
+      "name": "Bwonjagala",
+      "url": "https://open.spotify.com/track/0lEioGELKR2846vLXkzvUM"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -883,6 +879,22 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
+        "name": "Enjoy Life",
+        "url": "https://open.spotify.com/album/45h7kl0iBa3zMI2kyr6Rk0"
+      },
+      "artists": [
+        {
+          "name": "Liam Peaty",
+          "url": "https://open.spotify.com/artist/69TPgkTotm19AwHFyqiK7L"
+        }
+      ],
+      "duration_ms": 216056,
+      "name": "Enjoy Life",
+      "url": "https://open.spotify.com/track/1mFsMghybfR05jYyfLn6Bo"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
         "name": "Misege",
         "url": "https://open.spotify.com/album/4lXTMOCiwMZ7cNiuO629Br"
       },
@@ -903,18 +915,26 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Enjoy Life",
-        "url": "https://open.spotify.com/album/45h7kl0iBa3zMI2kyr6Rk0"
+        "name": "Nkwatewa",
+        "url": "https://open.spotify.com/album/6kgT8uvBzofMYLxeqx6rBe"
       },
       "artists": [
         {
-          "name": "Liam Peaty",
-          "url": "https://open.spotify.com/artist/69TPgkTotm19AwHFyqiK7L"
+          "name": "selecta jef",
+          "url": "https://open.spotify.com/artist/2t5Ttmw4e2ELZmxD2vfsTv"
+        },
+        {
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        },
+        {
+          "name": "Bebe Cool",
+          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
         }
       ],
-      "duration_ms": 216056,
-      "name": "Enjoy Life",
-      "url": "https://open.spotify.com/track/1mFsMghybfR05jYyfLn6Bo"
+      "duration_ms": 181890,
+      "name": "Nkwatewa",
+      "url": "https://open.spotify.com/track/4fvpUiaak8u4jjcW9WQCJg"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -935,26 +955,6 @@
       "duration_ms": 186435,
       "name": "Kyekyo",
       "url": "https://open.spotify.com/track/6GRgSWl7y19yQHyUXjoYG7"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
-        "name": "Bwonjagala",
-        "url": "https://open.spotify.com/album/6YZJxiQl1xFwi8Wgu0Dg3Q"
-      },
-      "artists": [
-        {
-          "name": "Daddy Andre",
-          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
-        },
-        {
-          "name": "Fille",
-          "url": "https://open.spotify.com/artist/5SqLkoaEA3HOgPkesCQkKx"
-        }
-      ],
-      "duration_ms": 178834,
-      "name": "Bwonjagala",
-      "url": "https://open.spotify.com/track/0lEioGELKR2846vLXkzvUM"
     }
   ],
   "unique_name": "Kidandali Parte",

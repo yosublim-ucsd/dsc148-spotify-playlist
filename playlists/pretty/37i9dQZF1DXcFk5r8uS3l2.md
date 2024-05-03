@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Amythyst Kiah
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,428 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,499 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [In The Pines](https://open.spotify.com/track/5HTRW7oVRwE0ZxYkYfQ6Vo) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [In The Pines](https://open.spotify.com/album/1OzEgLG6ww4gtGzIwkNvp8) | 3:30 |
-| 2 | [Trouble \(Sunday Version\)](https://open.spotify.com/track/3ePUzOCiAf8o8q34KZA6tN) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5), [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP) | [Feel Like Going Home \(Deluxe Version\)](https://open.spotify.com/album/5dWdL988AdroD2DvuJ3wjw) | 3:05 |
-| 3 | [Numb](https://open.spotify.com/track/5rsnfjFFkwpWWKVSYOEjoH) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Numb](https://open.spotify.com/album/6VEMeSXgvoxGKNC8dHOsg5) | 2:13 |
-| 4 | [Enjoy the Ride](https://open.spotify.com/track/6dqhw83H9eKMb0qTCv17k3) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Enjoy the Ride](https://open.spotify.com/album/67A2C0Zy9gvtUPdh6BtJNE) | 3:39 |
-| 5 | [Little Heartbreak Girl](https://open.spotify.com/track/1mbtYYDO3E6kVogF9Mv9iP) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Little Heartbreak Girl](https://open.spotify.com/album/5ubfzzKMnqxjv2Wa3JGe21) | 4:18 |
-| 6 | [Stealing A Kiss](https://open.spotify.com/track/5kdZiJ0KIPEyQ42xLj61Gt) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Stealing A Kiss](https://open.spotify.com/album/5i9nk8WvKRe0d78UaCba9u) | 4:55 |
-| 7 | [ALLIIGATOR TEARS](https://open.spotify.com/track/1LSWDkZxVngIpfjvMs6Q56) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 2:59 |
-| 8 | [All About the Bones](https://open.spotify.com/track/49O8sIbwsZqrm4XTYNjns6) | [Chris Smither](https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22) | [All About the Bones](https://open.spotify.com/album/5ps4di2LHRX32ZMObGMb2n) | 3:16 |
+| 1 | [Leave the Light On](https://open.spotify.com/track/4smQ0i6j6gH4Yly2qUcuqZ) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Leave The Light On](https://open.spotify.com/album/0XzophZTU9CMVqTudEZVWo) | 3:19 |
+| 2 | [In The Pines](https://open.spotify.com/track/5HTRW7oVRwE0ZxYkYfQ6Vo) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [In The Pines](https://open.spotify.com/album/1OzEgLG6ww4gtGzIwkNvp8) | 3:30 |
+| 3 | [Trouble \(Sunday Version\)](https://open.spotify.com/track/3ePUzOCiAf8o8q34KZA6tN) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5), [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP) | [Feel Like Going Home \(Deluxe Version\)](https://open.spotify.com/album/5dWdL988AdroD2DvuJ3wjw) | 3:05 |
+| 4 | [Digging the Hole](https://open.spotify.com/track/2j3LYpiK18HPUXK4MqTq0e) | [Chris Smither](https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22) | [Digging the Hole](https://open.spotify.com/album/2NlTw9xQM5HIjCgk1rMxBx) | 2:34 |
+| 5 | [Numb](https://open.spotify.com/track/5rsnfjFFkwpWWKVSYOEjoH) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Numb](https://open.spotify.com/album/6VEMeSXgvoxGKNC8dHOsg5) | 2:13 |
+| 6 | [Little Heartbreak Girl](https://open.spotify.com/track/1mbtYYDO3E6kVogF9Mv9iP) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Little Heartbreak Girl](https://open.spotify.com/album/5ubfzzKMnqxjv2Wa3JGe21) | 4:18 |
+| 7 | [Stealing A Kiss](https://open.spotify.com/track/5kdZiJ0KIPEyQ42xLj61Gt) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Stealing A Kiss](https://open.spotify.com/album/5i9nk8WvKRe0d78UaCba9u) | 4:55 |
+| 8 | [ALLIIGATOR TEARS](https://open.spotify.com/track/1LSWDkZxVngIpfjvMs6Q56) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 2:59 |
 | 9 | [The Echo](https://open.spotify.com/track/02ZdAwm1DkhRcYeYFWEyrJ) | [Kyshona](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA) | [Legacy](https://open.spotify.com/album/2Uu2kajlPFeYfXD1A2wHtj) | 4:15 |
 | 10 | [Trouble](https://open.spotify.com/track/6R8g4UJc2jYda4wmrtz09d) | [Pointy Features](https://open.spotify.com/artist/2juH2VRAmfRlPlu1oaGsuH) | [Trouble](https://open.spotify.com/album/2l5G5XHW8TKudAcxtgAzwU) | 3:34 |
 | 11 | [Take Me to the River](https://open.spotify.com/track/0Z4Pscp8wATq2NkY7PwLOi) | [Seth Walker](https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9) | [Take Me To The River](https://open.spotify.com/album/0gSwm3mTIljhLhvQV5ScNN) | 3:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 | 99 | [How Deep Is Your Love](https://open.spotify.com/track/5O7oXGr6wariuJbTNNX4oy) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL) | [How Deep Is Your Love](https://open.spotify.com/album/4p2PP3RIx6tghBjEJZurTh) | 4:08 |
 | 100 | [Rock & Roll](https://open.spotify.com/track/5xfYZuMVGuyh9L0LcVWjzE) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Rock & Roll](https://open.spotify.com/album/74udasJvPvH9iaGBIBbcPm) | 4:50 |
 
-Snapshot ID: `ZjDzGwAAAAC0eWSAar3BgkpmPL3Os1+g`
+Snapshot ID: `ZjRhfAAAAABodsuML4jsaq3Xx0MZkMGV`

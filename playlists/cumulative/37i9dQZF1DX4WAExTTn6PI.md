@@ -4,7 +4,7 @@
 
 > Americana's artists and hits of tomorrow\. Cover: Willow Avalon
 
-214 songs - 13 hr 5 min
+217 songs - 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [cowboy take me away](https://open.spotify.com/track/46Qrlkk74beV2EUTmGKLRg) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [if i ever get there: a day at blackbird studio](https://open.spotify.com/album/4N6uVFBQiz6x4UqRmClANc) | 4:36 | 2022-11-11 |  |
 | [Dallas](https://open.spotify.com/track/4p3pm3QpJDPnqrCgWS2XPZ) | [Amanda Anne Platt & the Honeycutters](https://open.spotify.com/artist/1mpvGlHo80X6W8RX8vIQmL) | [Dallas / Reverie](https://open.spotify.com/album/79g9mgaxvBBH2352pThhaB) | 4:01 | 2022-01-28 | 2023-09-09 |
 | [Dance Floor](https://open.spotify.com/track/3vogqXUK0kbuG3RwqjborM) | [Kirby Brown](https://open.spotify.com/artist/1pe81cUBCGxM11cnOq17kr) | [Break into Blossom](https://open.spotify.com/album/5SYgXqtohMgMhevigsAb6a) | 3:55 | 2023-06-30 | 2024-04-19 |
-| [Dance Floor](https://open.spotify.com/track/5ZxAGed5sWi1aBbtItv0m8) | [Kirby Brown](https://open.spotify.com/artist/1pe81cUBCGxM11cnOq17kr) | [Dance Floor](https://open.spotify.com/album/6fOXmTIUuUngNNuHDEPfzG) | 3:55 | 2022-01-28 |  |
+| [Dance Floor](https://open.spotify.com/track/5ZxAGed5sWi1aBbtItv0m8) | [Kirby Brown](https://open.spotify.com/artist/1pe81cUBCGxM11cnOq17kr) | [Dance Floor](https://open.spotify.com/album/6fOXmTIUuUngNNuHDEPfzG) | 3:55 | 2022-01-28 | 2024-05-03 |
 | [Desperate](https://open.spotify.com/track/4CmtnIlvd5fdmJ94dSO5Ig) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [My Stupid Life](https://open.spotify.com/album/3pWiHbMUEcxA0TjNW1Ipb3) | 3:51 | 2024-01-19 |  |
 | [Dreamer](https://open.spotify.com/track/3ao3WYYhnCFzds3Iz23lrP) | [Jack Barksdale](https://open.spotify.com/artist/0Xr86XoAGFGXZTAFjr3EMt) | [Dreamer](https://open.spotify.com/album/5YO19y0xmwn6XYKh64Nc1x) | 3:50 | 2023-03-24 |  |
 | [Early Morning Rising](https://open.spotify.com/track/5RAumrYJ1PTAbrHVemrgWv) | [Kassi Valazza](https://open.spotify.com/artist/4qIi20XYGNXcVvCzBZFumH) | [Early Morning Rising](https://open.spotify.com/album/37jSSdk11uBf4rRVcJ6IIt) | 4:49 | 2023-01-13 |  |
@@ -111,6 +111,7 @@
 | [KD and Lunch Meat](https://open.spotify.com/track/6e9MVekzR3Gku26kBwGezo) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Church of Better Daze](https://open.spotify.com/album/3nvWKBg5uzny3jko5ezHJJ) | 4:20 | 2022-01-28 | 2023-06-17 |
 | [Keep It on A Burner](https://open.spotify.com/track/0qvgdi9NtjLT10yHs4C7R3) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Keep It on A Burner](https://open.spotify.com/album/11VmUQZHxtybCMWKQ1oiJO) | 4:27 | 2023-06-30 |  |
 | [Keep It on A Burner](https://open.spotify.com/track/1GixDrbWFCowHvto3zVGpJ) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Valley Of Heart's Delight](https://open.spotify.com/album/5DgZp7DBIP4yyUmBkbKDAb) | 4:27 | 2023-09-15 | 2024-04-19 |
+| [Learn to Live Alone](https://open.spotify.com/track/5wCUI4gH5s91hfRuEfYoss) | [Jim Cuddy](https://open.spotify.com/artist/1RprcCfY08k2trEW0m3aHg) | [Learn to Live Alone](https://open.spotify.com/album/62BbMZg84MuSCnWiMnSW81) | 4:33 | 2024-05-03 |  |
 | [Learn to Love You Better](https://open.spotify.com/track/1pWfVPTZXjRMSQDDz0fPNg) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK) | [Learn to Love You Better](https://open.spotify.com/album/0HfN0dvsXuFL316in0EoPu) | 3:34 | 2022-01-28 |  |
 | [Little Birds](https://open.spotify.com/track/3ePJFt2th9XXwaGFUmn2pr) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [First Time Feeling](https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu) | 3:25 | 2022-01-28 |  |
 | [Long December](https://open.spotify.com/track/71WGazywXRQQeXosPDUyRG) | [Jeremy McComb](https://open.spotify.com/artist/6HEo4zLRyevlX8TikDTH1Q) | [Long December](https://open.spotify.com/album/4RRKLgKqClGWsX9x7dnX7C) | 4:57 | 2024-01-05 |  |
@@ -136,6 +137,7 @@
 | [Mountain Brandy](https://open.spotify.com/track/5YGlfUaRKY3wGBSp6g2BdV) | [Colby T\. Helms](https://open.spotify.com/artist/41SWovnnP8qo3g7e7TTtmO) | [Tales of Misfortune](https://open.spotify.com/album/7r45qFqWDxmJOCNAPZBiuZ) | 4:36 | 2024-01-19 |  |
 | [Never Be Another You](https://open.spotify.com/track/6UsLgUJiWSop2SjSqQuoBu) | [The Watson Twins](https://open.spotify.com/artist/0XJaZaoMBv3i7FoAr7Slg4) | [Never Be Another You](https://open.spotify.com/album/7ABeZH6hlS5VXmRgakp1ys) | 3:29 | 2023-05-05 |  |
 | [New Light](https://open.spotify.com/track/3eTXEabmUmHcTbx6d9u1nq) | [Ava Earl](https://open.spotify.com/artist/4PouHBQ1thPvzhfP1LsSAQ) | [The Roses](https://open.spotify.com/album/1Qr5eJnPsGtPRVliGuqkTI) | 3:24 | 2022-01-28 | 2023-07-01 |
+| [Nightmare](https://open.spotify.com/track/3878vJyS8co3IApl8L9VDe) | [Adeem the Artist](https://open.spotify.com/artist/28ZFEGg2RNdrtoaFqxA6vj) | [Anniversary](https://open.spotify.com/album/3L2N9iWhyf3e3BeCJNXOSJ) | 3:53 | 2024-05-03 |  |
 | [No More Candy](https://open.spotify.com/track/1TRwhlZHJVd6kgFu1SgzQ7) | [Cash & Skye](https://open.spotify.com/artist/0ZwK1LsLZvFbhLU6OycrhO) | [No More Candy](https://open.spotify.com/album/2o0u8HkyHrQfy4mrD3JZjJ) | 2:50 | 2022-01-28 |  |
 | [Nobody but Me](https://open.spotify.com/track/3qMlZI2Qhj5QjwJLFNvaqc) | [Lauren Morrow](https://open.spotify.com/artist/3slELdgORMa8N7qVQDGi6W) | [People Talk](https://open.spotify.com/album/4Ae8ZeC9rPJZnnhb5ThiWa) | 3:23 | 2023-03-31 |  |
 | [Nobody Has To Know Your Mind](https://open.spotify.com/track/6S9v6Dn7CQJTmYIUAi8aWy) | [John R\. Miller](https://open.spotify.com/artist/6VPZjyyur7ltEgkFdMnvz4) | [Nobody Has To Know Your Mind](https://open.spotify.com/album/1OwskRzsQ5nIKqkinA6VIW) | 4:53 | 2023-06-16 |  |
@@ -161,6 +163,7 @@
 | [Rocketeer](https://open.spotify.com/track/1lXuPPfUPCdq7JFojUGxnH) | [Church Of Roswell](https://open.spotify.com/artist/2toNel9SL1qwF6mZQbUSGX) | [Rocketeer](https://open.spotify.com/album/2lXjjKiENrSXPFeNCNhDiQ) | 3:45 | 2022-01-28 | 2023-06-10 |
 | [Roller Coaster](https://open.spotify.com/track/742x5JWzzPYXA60xM64xwE) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Roller Coaster](https://open.spotify.com/album/17gdWDwcZffnaZfjSptALP) | 4:29 | 2022-01-28 | 2023-04-01 |
 | [Room in the City](https://open.spotify.com/track/7KzIOGMfKB4fdpNAFDvrZP) | [Kassi Valazza](https://open.spotify.com/artist/4qIi20XYGNXcVvCzBZFumH) | [Kassi Valazza Knows Nothing](https://open.spotify.com/album/3V9b0YYvqjTA5F9Xg0DeiJ) | 4:11 | 2023-05-26 |  |
+| [Rootin’ For You](https://open.spotify.com/track/5oUu7vNtAdMQCund3kWJDF) | [Emily Nenni](https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy) | [Drive & Cry](https://open.spotify.com/album/3Y0isvmf5SGx5n4TX9pWk2) | 3:23 | 2024-05-03 |  |
 | [Roses & Poppies](https://open.spotify.com/track/2gJiBNvnVfgdeb3OhAgv3F) | [The Pink Stones](https://open.spotify.com/artist/77xJf67Cuu7UPJgJoClESG) | [You Know Who](https://open.spotify.com/album/3K5MV60YpbWJCzuPvAmXV2) | 1:58 | 2023-06-30 |  |
 | [Roses & Poppies](https://open.spotify.com/track/6r9b0M8epi2KnkpCOvIjSe) | [The Pink Stones](https://open.spotify.com/artist/77xJf67Cuu7UPJgJoClESG) | [You Know Who](https://open.spotify.com/album/73H6LRe0oaKI1gUlN6iz49) | 1:58 | 2024-03-22 | 2024-04-19 |
 | [Saint Augustine](https://open.spotify.com/track/0MMyVtSevLzI9slpJVoatM) | [L.A\. Edwards](https://open.spotify.com/artist/29Hjc5nLGKpM1XFXxu9HHV) | [Saint Augustine](https://open.spotify.com/album/4LcBL38G18fEF4B2hYWDTb) | 3:23 | 2022-01-28 | 2023-04-01 |
@@ -174,7 +177,7 @@
 | [Silver Valley](https://open.spotify.com/track/2FbPOBRlg3s36jfEC2vAGj) | [David Miner](https://open.spotify.com/artist/6VumpqEj917mn0DCQMUbGJ) | [Silver Valley](https://open.spotify.com/album/6N8JvTIcevgsOAcwwfmJWo) | 4:35 | 2022-01-28 | 2023-04-01 |
 | [So Damn Lucky](https://open.spotify.com/track/4TYu2jojSGxALs2YNWnnwr) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [So Damn Lucky](https://open.spotify.com/album/5qCE1zhNO3S8Vo0nPCXdhu) | 4:03 | 2022-01-28 |  |
 | [Some Misty Morning \[Feat\. Erin Rae\]](https://open.spotify.com/track/4uLLyixpzZjyvZRFDdIPEa) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM), [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Golden State](https://open.spotify.com/album/1wKjZTg1gPmXWmcO79GVwn) | 4:25 | 2023-09-08 |  |
-| [Somewhere](https://open.spotify.com/track/5GQb6JXHTQW8Uz4xWo1lOi) | [Chris Kasper](https://open.spotify.com/artist/6Ood49EuwB8rTyIduHjSZr) | [Somewhere](https://open.spotify.com/album/2UlnHVnEnx9ZZ6nuQ4NXOH) | 3:14 | 2022-01-28 |  |
+| [Somewhere](https://open.spotify.com/track/5GQb6JXHTQW8Uz4xWo1lOi) | [Chris Kasper](https://open.spotify.com/artist/6Ood49EuwB8rTyIduHjSZr) | [Somewhere](https://open.spotify.com/album/2UlnHVnEnx9ZZ6nuQ4NXOH) | 3:14 | 2022-01-28 | 2024-05-03 |
 | [Stolen Love](https://open.spotify.com/track/6PHlD7DXAfcCW2Rvp0K3OW) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Stolen Love](https://open.spotify.com/album/4SUHzoDXhSbdakZP4Fr635) | 3:43 | 2022-01-28 | 2023-12-02 |
 | [Suburban Outlaw](https://open.spotify.com/track/1guH0XpqZzQmRkpKCY3sdb) | [Maggie Antone](https://open.spotify.com/artist/6mEP6006jfAcrzLbxyEZxp) | [Suburban Outlaw](https://open.spotify.com/album/1dpKQmczm2H9hNt4lFMlYV) | 4:56 | 2023-12-01 |  |
 | [Sugar in the Creek](https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Fits Of Laughter](https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D) | 4:11 | 2022-10-14 | 2024-03-02 |

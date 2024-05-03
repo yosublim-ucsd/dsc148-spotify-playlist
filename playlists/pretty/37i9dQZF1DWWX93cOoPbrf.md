@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 ### [Corridos 2024](https://open.spotify.com/playlist/37i9dQZF1DWWX93cOoPbrf)
 
-> Lo más fresco de la cosecha 2024\. Tito Double P, Jaziel Nuñez en portada.
+> Lo más fresco de la cosecha 2024\. Adrian Chaparro y Los Dos Carnales en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 817,304 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 817,608 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Me Dicen Pollito](https://open.spotify.com/track/4YyS1wqUv82TpRFPKfucl0) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [Me Dicen Pollito](https://open.spotify.com/album/6WDnOFc2zd7QhjC5PU1Q4l) | 4:19 |
-| 2 | [Tunechi \(with Gabito Ballesteros\)](https://open.spotify.com/track/5itIlFvG0hrl0p0FGLjcRj) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Tunechi \(with Gabito Ballesteros\)](https://open.spotify.com/album/1m0Ss9jIyWVWmyZafWaVqZ) | 3:32 |
-| 3 | [El MeZ](https://open.spotify.com/track/78TZBttrH056DlErNRrHl1) | [Alemi Bustos](https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF) | [No Conozco el Miedo](https://open.spotify.com/album/6ST9whr0v2d5ABrMDAyKKb) | 3:41 |
-| 4 | [Que truene la del barril](https://open.spotify.com/track/0G8zf71IUhMlbGm3dUv36t) | [La Premisa](https://open.spotify.com/artist/01gsBGYIsBAC1Zv6keYz5q), [Fraccion EME](https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD) | [Que truene la del barril](https://open.spotify.com/album/2sBgDy5XjP9RMnWk4Db0H6) | 2:46 |
-| 5 | [Lo Que Aprendí](https://open.spotify.com/track/2KVLgxXdnrGHwGDVLWxauQ) | [Adrian Chaparro](https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Lo Que Aprendí](https://open.spotify.com/album/2xxj4SskoPZneewIM68h8X) | 2:45 |
+| 1 | [Lo Que Aprendí](https://open.spotify.com/track/2KVLgxXdnrGHwGDVLWxauQ) | [Adrian Chaparro](https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Lo Que Aprendí](https://open.spotify.com/album/2xxj4SskoPZneewIM68h8X) | 2:45 |
+| 2 | [Me Dicen Pollito](https://open.spotify.com/track/4YyS1wqUv82TpRFPKfucl0) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [Me Dicen Pollito](https://open.spotify.com/album/6WDnOFc2zd7QhjC5PU1Q4l) | 4:19 |
+| 3 | [Tunechi \(with Gabito Ballesteros\)](https://open.spotify.com/track/5itIlFvG0hrl0p0FGLjcRj) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Tunechi \(with Gabito Ballesteros\)](https://open.spotify.com/album/1m0Ss9jIyWVWmyZafWaVqZ) | 3:32 |
+| 4 | [El MeZ](https://open.spotify.com/track/78TZBttrH056DlErNRrHl1) | [Alemi Bustos](https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF) | [No Conozco el Miedo](https://open.spotify.com/album/6ST9whr0v2d5ABrMDAyKKb) | 3:41 |
+| 5 | [Que truene la del barril](https://open.spotify.com/track/0G8zf71IUhMlbGm3dUv36t) | [La Premisa](https://open.spotify.com/artist/01gsBGYIsBAC1Zv6keYz5q), [Fraccion EME](https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD) | [Que truene la del barril](https://open.spotify.com/album/2sBgDy5XjP9RMnWk4Db0H6) | 2:46 |
 | 6 | [Rugrats](https://open.spotify.com/track/5K9DHIEhqVe0S9hSkpePzg) | [Jaque Mate](https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew), [Grupo Feroz](https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r), [Régulo Molina](https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm) | [Rugrats](https://open.spotify.com/album/6DOhBzQidUt8NmzjGhUYf3) | 3:55 |
 | 7 | [EXOTICÓN](https://open.spotify.com/track/5D679I3gCMw6maX0MQR5Vw) | [Grupo Selectivo](https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1), [Grupo Feroz](https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r) | [EXOTICÓN](https://open.spotify.com/album/7MTZomem1mbxWoBgo9u52X) | 2:38 |
 | 8 | [Derecho y Chueco \- Remix](https://open.spotify.com/track/6mqV7n0DqV2Q32lNINvOCp) | [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Alianza Records](https://open.spotify.com/artist/4anqekkqPxN6yzpLYCL7h6) | [Derecho y Chueco \(Remix\)](https://open.spotify.com/album/2onNOIdR3EEqDks8WalBKs) | 2:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [La Suma](https://open.spotify.com/track/1tzj4DDVNp6X2ltpdTGtZW) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE), [Lupe Borbon y su Blindaje 7](https://open.spotify.com/artist/7gVnPBgCu1Tce8GLBvk7kl) | [La Suma](https://open.spotify.com/album/6cpIPgg4Bv4Oc29R7uCqOR) | 3:18 |
 | 75 | [El rápido y la muerte](https://open.spotify.com/track/1IsSTMD9AL0wokF1pfxiyd) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Noel Torres](https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG) | [El rápido y la muerte](https://open.spotify.com/album/4KEAWW8uiHym3lJLk35aKb) | 2:20 |
 
-Snapshot ID: `ZitC4AAAAAA9dTXh2aMfnnLLmOrbNHTT`
+Snapshot ID: `ZjMdQAAAAADNTfn3dRSeS3qCosZ5T5cP`

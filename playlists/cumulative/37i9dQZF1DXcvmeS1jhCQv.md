@@ -4,7 +4,7 @@
 
 > New tunes from Ireland for your discovery\. Cover: CARSTEN2X, Joe Butler
 
-137 songs - 7 hr 41 min
+142 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,8 +43,9 @@
 | [Don't Feel Myself](https://open.spotify.com/track/2NNFzp2ZAbTrZOi3rV8pdN) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [Don't Feel Myself](https://open.spotify.com/album/4ur1YH9AzohGPLzjFbViS2) | 3:32 | 2024-03-29 |  |
 | [Don't Understand Why](https://open.spotify.com/track/4McagilwKb0abKxmNG6aYZ) | [TOUCAN](https://open.spotify.com/artist/62qJvoIRvMlDGOrnLvylX0) | [Don't Understand Why](https://open.spotify.com/album/55XRl8sZvsT8glN2yEfTef) | 3:16 | 2024-02-16 |  |
 | [Doomsday Blue](https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Cathexis](https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco) | 3:03 | 2024-02-05 |  |
-| [Double Cherry](https://open.spotify.com/track/2pWRAZ9e1np1iN6IbfX7tI) | [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [Double Cherry](https://open.spotify.com/album/2q6dNc37YCB2ebo0pGGlhW) | 2:57 | 2024-03-29 |  |
-| [elegy](https://open.spotify.com/track/6mD8j5V2vq7B7Ut50RcPVM) | [glasseyed](https://open.spotify.com/artist/3Y38CJx9If6ZXXTWhKUjDG) | [elegy](https://open.spotify.com/album/5Xy2nSptvYN8FODDFXiJFZ) | 3:15 | 2024-02-02 |  |
+| [Dopamine](https://open.spotify.com/track/2rwfGkp8CNAJekjGhjyTQJ) | [Lemoncello](https://open.spotify.com/artist/3TzSVg2vePWnfYCTNo3Mx6) | [Lemoncello](https://open.spotify.com/album/0WcN0V416f51MY5pr7P6VK) | 3:08 | 2024-05-02 |  |
+| [Double Cherry](https://open.spotify.com/track/2pWRAZ9e1np1iN6IbfX7tI) | [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [Double Cherry](https://open.spotify.com/album/2q6dNc37YCB2ebo0pGGlhW) | 2:57 | 2024-03-29 | 2024-05-03 |
+| [elegy](https://open.spotify.com/track/6mD8j5V2vq7B7Ut50RcPVM) | [glasseyed](https://open.spotify.com/artist/3Y38CJx9If6ZXXTWhKUjDG) | [elegy](https://open.spotify.com/album/5Xy2nSptvYN8FODDFXiJFZ) | 3:15 | 2024-02-02 | 2024-05-03 |
 | [Endless Nights](https://open.spotify.com/track/4V50U0qH1s72n2J8Kxavdu) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Victory](https://open.spotify.com/album/4T0KHJNt0mCuAyXSXfhQc3) | 3:11 | 2024-02-02 | 2024-02-16 |
 | [fall](https://open.spotify.com/track/3uXd797WQGCiuEFPz9TVtM) | [new teeth](https://open.spotify.com/artist/4QUzOO8ZbUor3180J86hMa) | [fall](https://open.spotify.com/album/5lRPg4vIBciZ0EEqRJQ4Nu) | 4:03 | 2024-02-02 | 2024-04-26 |
 | [Falling From Hell](https://open.spotify.com/track/4BZEczZvBsPhiQN17m8y4M) | [SOPHIE DOYLE RYDER](https://open.spotify.com/artist/5QCok3NH6vAlK12mUElHeZ) | [Falling From Hell](https://open.spotify.com/album/412fwKuOh9cJJ6bLKz8rkW) | 3:08 | 2024-02-02 | 2024-03-22 |
@@ -63,6 +64,7 @@
 | [INFINITY](https://open.spotify.com/track/2cBpwQbzk3MdkoaPNKpUN9) | [Rachel Mae Hannon](https://open.spotify.com/artist/4rwzqtDRqtNiXyoUuNl8Fc) | [INFINITY](https://open.spotify.com/album/078rjfb2B2LNh1FwQdngoT) | 3:05 | 2024-02-02 | 2024-03-29 |
 | [intertwined](https://open.spotify.com/track/4M4DHOpufNAUyZEQItTM5A) | [Layen\_](https://open.spotify.com/artist/2G4ZOA56VInkCSJ4q3D9ZY) | [intertwined](https://open.spotify.com/album/15gKDc6hSPIZ9Yx0AyzdeY) | 3:11 | 2024-02-02 |  |
 | [Kerosene](https://open.spotify.com/track/3TFPiUHCrjOFflFVtC4qJs) | [SAL](https://open.spotify.com/artist/7Bvp3oED3xilWSLnFBW369) | [Kerosene](https://open.spotify.com/album/4kwLx8Nn42e8XsrFN2Hdi3) | 4:29 | 2024-02-02 | 2024-04-05 |
+| [Landmine!](https://open.spotify.com/track/4YOtWmWn8sKqBNLnWnxquF) | [Curtisy](https://open.spotify.com/artist/5VMnilBpX9s4C1HBnTCX35) | [WHAT WAS THE QUESTION](https://open.spotify.com/album/2fKkKKLxeXHlKknCUckPJN) | 3:16 | 2024-05-02 |  |
 | [Like A Lesson](https://open.spotify.com/track/2MxDVhWDvd2f7ROLe8VDYe) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Like A Lesson](https://open.spotify.com/album/7htHFZFmrO9ChMSK82QLXx) | 3:19 | 2024-03-15 |  |
 | [Like I Know You](https://open.spotify.com/track/5Ivojtwe4uoTnMOqJAW6KH) | [Róisín O](https://open.spotify.com/artist/7nsv8ov54a8qlNXwhEkgkr) | [Like I Know You](https://open.spotify.com/album/5GlI2oHXf8ptPpi6ZWrrP9) | 3:25 | 2024-03-15 |  |
 | [limerence](https://open.spotify.com/track/0AChzXS7AsnWfY4YOdcKEc) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [limerence](https://open.spotify.com/album/31Y1I245ATLa9KEPNW3gpo) | 3:07 | 2024-04-11 |  |
@@ -81,7 +83,7 @@
 | [Most Days](https://open.spotify.com/track/14HFeNYXN0FobPUp5WpvON) | [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF) | [Most Days](https://open.spotify.com/album/64Y7qo4mTQ9jABbKLcrzEl) | 3:43 | 2024-02-02 | 2024-04-19 |
 | [Mother](https://open.spotify.com/track/7nMCozi8HsfejnRYCHkd3s) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Mother](https://open.spotify.com/album/5z8bo60OgWVwpKlpfDVtxt) | 4:06 | 2024-02-02 | 2024-03-02 |
 | [MYAEROPLANE](https://open.spotify.com/track/08XyqS2LV1wPzEwxLgaJ2h) | [DeCarteret](https://open.spotify.com/artist/2xpN3bfOsPsnOCzDrxXXhr) | [MYAEROPLANE](https://open.spotify.com/album/5BRCSxV8M8RxAsCd3UtPQk) | 3:31 | 2024-04-11 |  |
-| [Naive](https://open.spotify.com/track/09m9mc9HLJ83WGFhIyaXth) | [Melina Malone](https://open.spotify.com/artist/605KmpfOyF5FrdSfQkHnq3) | [Aphrodite](https://open.spotify.com/album/48s5QZAFQiv86wOCGDwjAz) | 4:17 | 2024-02-02 |  |
+| [Naive](https://open.spotify.com/track/09m9mc9HLJ83WGFhIyaXth) | [Melina Malone](https://open.spotify.com/artist/605KmpfOyF5FrdSfQkHnq3) | [Aphrodite](https://open.spotify.com/album/48s5QZAFQiv86wOCGDwjAz) | 4:17 | 2024-02-02 | 2024-05-03 |
 | [Need to Know](https://open.spotify.com/track/5HGX1TpatpMpNH7X8Dnhjc) | [Tidah](https://open.spotify.com/artist/7Hc6MSUUX0xmLt3bn3hFDT) | [Need to Know](https://open.spotify.com/album/7arildWPenXFAMVd49yYJt) | 2:31 | 2024-04-18 |  |
 | [Never Ever Ever \(feat\. shiv\)](https://open.spotify.com/track/2dbnNetIFWLA7q7Fb9QcVk) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Never Ever Ever \(feat\. shiv\)](https://open.spotify.com/album/31lcP0CvJaiFST2fvuyuOH) | 3:09 | 2024-02-02 |  |
 | [Nightmares](https://open.spotify.com/track/5sj7q2esW3Ri0SZDdk9zkW) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Nightmares](https://open.spotify.com/album/0RbyXbAchLRqDOa7a4cV8N) | 3:44 | 2024-02-02 |  |
@@ -121,7 +123,7 @@
 | [Stolen](https://open.spotify.com/track/71r6gdFkApNiV60zU6WjlI) | [Lea Heart](https://open.spotify.com/artist/18tR4JqMqRMeIQsexVMLHz) | [Stolen](https://open.spotify.com/album/4pkyc4VKlD6dTStSdWPFUX) | 3:40 | 2024-02-02 | 2024-03-15 |
 | [Stone's Throw Away](https://open.spotify.com/track/7qQEIRI6AIqzEbo9RhRyid) | [Annika Kilkenny](https://open.spotify.com/artist/6BPf3YvvXG87cFZPT9WQgx) | [Stone's Throw Away](https://open.spotify.com/album/5IZW5EYW6AGLHr0qiDGuAK) | 3:19 | 2024-03-29 |  |
 | [straight out the oven !](https://open.spotify.com/track/4RNFQj2OhHlaeQK6S3hKac) | [SPIDER](https://open.spotify.com/artist/4SKFiKjEPLdlpXSOQZhlsi) | [straight out the oven !](https://open.spotify.com/album/1xMSlBl1FaPiCJIZ8ppofk) | 3:04 | 2024-02-02 | 2024-02-16 |
-| [Sundays Are Always Quiet](https://open.spotify.com/track/5ZRKBK7ZQ7QPoIXUHp1kp4) | [NO PHOTOS](https://open.spotify.com/artist/3mvQJ3cm3cAdBedt4dSa5c) | [Sundays Are Always Quiet](https://open.spotify.com/album/69ZzM7bllu9g0C5YsMAyIo) | 3:37 | 2024-02-02 |  |
+| [Sundays Are Always Quiet](https://open.spotify.com/track/5ZRKBK7ZQ7QPoIXUHp1kp4) | [NO PHOTOS](https://open.spotify.com/artist/3mvQJ3cm3cAdBedt4dSa5c) | [Sundays Are Always Quiet](https://open.spotify.com/album/69ZzM7bllu9g0C5YsMAyIo) | 3:37 | 2024-02-02 | 2024-05-03 |
 | [Taken Out By The Wind](https://open.spotify.com/track/0d4krr4O0gFMnBCncqKNbS) | [Annika Kilkenny](https://open.spotify.com/artist/6BPf3YvvXG87cFZPT9WQgx) | [Taken Out By The Wind](https://open.spotify.com/album/1HP8SGPqIvgcmOEqiwKFz2) | 2:51 | 2024-02-02 | 2024-03-22 |
 | [Teeth](https://open.spotify.com/track/368TV7O9qxwJcDilBt68iz) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [Teeth](https://open.spotify.com/album/0rOsqiiI0Ek08YYv3jEm3U) | 3:52 | 2024-02-02 | 2024-03-02 |
 | [The First Time](https://open.spotify.com/track/6QHVGZoT5oZqIbn2TkpNW6) | [Stella and the Dreaming](https://open.spotify.com/artist/3GOfdAHQH8AfUfA2lisXp6) | [The First Time](https://open.spotify.com/album/2lMsA1YGTTt93coLMkAlFP) | 4:27 | 2024-02-16 |  |
@@ -132,9 +134,12 @@
 | [Travel Size](https://open.spotify.com/track/3Z3wrUVY4ct2PozNaPB5hv) | [Rachael Lavelle](https://open.spotify.com/artist/6fB2D85hn56JzRBTlCG0nw) | [Travel Size](https://open.spotify.com/album/2GU2ufSlyZx18xc6Ri3X5Y) | 3:30 | 2024-02-02 | 2024-02-23 |
 | [Tree Sap](https://open.spotify.com/track/1gE8YjNMyYbcuBpY6aIQrM) | [Curtisy](https://open.spotify.com/artist/5VMnilBpX9s4C1HBnTCX35) | [Tree Sap](https://open.spotify.com/album/3UEJYN35NOShY9pY7wyAvM) | 2:25 | 2024-02-02 | 2024-02-16 |
 | [Truth☆Truth](https://open.spotify.com/track/6vfJ8MiERPMLsI0g0LQfUt) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Truth☆Truth](https://open.spotify.com/album/1jntHHi1HpBdfSPuwUtmwN) | 3:44 | 2024-02-02 |  |
+| [Veins](https://open.spotify.com/track/5c31xDjXsYX1XE2Gm09fa9) | [Emma Noodles](https://open.spotify.com/artist/1zUi5dJeT7ImOnG6lEgypQ) | [Veins](https://open.spotify.com/album/5Glooco0j7yIOlwAdPxYrX) | 3:31 | 2024-05-02 |  |
+| [violence'66](https://open.spotify.com/track/4hn32lVKaO7sL631XTQbv9) | [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [violence'66](https://open.spotify.com/album/5Wr1AmrdioU5kwjdBY64ld) | 3:01 | 2024-05-02 |  |
 | [Want You Back](https://open.spotify.com/track/1pcJTIl87SVVRPlO30dBDS) | [Cosha](https://open.spotify.com/artist/5P8FHUS4EuE2FXskLnqkAg) | [Want You Back](https://open.spotify.com/album/53v4RgVbisJc0UlLgXq2uV) | 3:34 | 2024-02-02 | 2024-04-12 |
 | [Watch Me](https://open.spotify.com/track/3Zu4WIeXp4NbQZbcqv1MOr) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Watch Me](https://open.spotify.com/album/7qfq6ubyO9WY1vLFAMAC85) | 3:40 | 2024-02-02 | 2024-04-12 |
-| [What Can I Do](https://open.spotify.com/track/60fPbVgMVPyeupXThhwYsr) | [Seán Parnell](https://open.spotify.com/artist/4T2113mnfHPC18oWfR1n5u) | [What Can I Do](https://open.spotify.com/album/1gwzS5aSIiElQqOrjyY671) | 3:50 | 2024-02-02 |  |
+| [WE GOOD ?](https://open.spotify.com/track/7vqIJVpShC23VVNy1s4lJ4) | [Tnillz](https://open.spotify.com/artist/7yTJnhcEGPii2kwJKQfr9B) | [WE GOOD ?](https://open.spotify.com/album/5gUhM35mywuZIh4Uq79c4P) | 3:00 | 2024-05-02 |  |
+| [What Can I Do](https://open.spotify.com/track/60fPbVgMVPyeupXThhwYsr) | [Seán Parnell](https://open.spotify.com/artist/4T2113mnfHPC18oWfR1n5u) | [What Can I Do](https://open.spotify.com/album/1gwzS5aSIiElQqOrjyY671) | 3:50 | 2024-02-02 | 2024-05-03 |
 | [WHAT IF?](https://open.spotify.com/track/5M6eDxEy9OdZNAGvmqmyXv) | [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY), [Charlotte Dos Santos](https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM) | [PHANTOM OF THE AFTERS](https://open.spotify.com/album/5qTMbYlI0vyyAHtOhajcOy) | 3:27 | 2024-02-02 |  |
 | [Who's That Girl](https://open.spotify.com/track/6w61gKlPulkVsGTxx4hzVl) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [chameleon](https://open.spotify.com/artist/46lv0U33sExwKvxwCwaDKK), [CARSTEN2X](https://open.spotify.com/artist/0Un2To5Ct6WgajC9z1xDud) | [Who's That Girl](https://open.spotify.com/album/0oLjDXlF2nNcEdDVUyCDTo) | 2:29 | 2024-02-02 |  |
 | [Wishes](https://open.spotify.com/track/5ehWzatobIYySYrZB0HJ5K) | [Valerie Rose](https://open.spotify.com/artist/07ti3q3QcT6Xe8eCFNlZlZ) | [Wishes](https://open.spotify.com/album/0z4M9I9uvQgCX03hlCcpdC) | 2:54 | 2024-03-22 |  |

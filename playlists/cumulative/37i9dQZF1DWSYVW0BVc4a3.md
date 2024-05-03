@@ -4,7 +4,7 @@
 
 > that's how we do it
 
-898 songs - 2 day 20 hr 22 min
+902 songs - 2 day 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,6 +332,7 @@
 | [Higher](https://open.spotify.com/track/7LcLYZ330ybUVStyPovt4y) | [Cloverdale](https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB), [Ekonovah](https://open.spotify.com/artist/18HNzDVt4zxoq7Ejsxbp1x) | [Higher](https://open.spotify.com/album/0B6UE8Ksah2CtPHtk45Gu9) | 3:38 | 2022-08-18 | 2022-10-10 |
 | [Higher](https://open.spotify.com/track/4CEzuwFBhVZrsyN9dlXpbO) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3), [Yotam Avni](https://open.spotify.com/artist/4lSumeUuEBPEwWcozc0oba) | [Higher](https://open.spotify.com/album/0u2dWtIg02pLAuXDNUY2R6) | 3:31 | 2023-12-08 | 2024-01-12 |
 | [Hingo \- Radio Edit](https://open.spotify.com/track/4EjV5RZxe5AC5Q95Sz6StZ) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY), [Kashovski](https://open.spotify.com/artist/3sQmCQTAFYhnhhoBhsv81C), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Hingo \(Radio Edit\)](https://open.spotify.com/album/5NyCFRJh5W1jeshptxTaL4) | 3:37 | 2023-08-03 | 2023-08-27 |
+| [Hold Me](https://open.spotify.com/track/19szGyeH2TnWNxglxE2bEe) | [LUMI](https://open.spotify.com/artist/2GhZq7k05EWdvb4cS2RQG5) | [Who Am I](https://open.spotify.com/album/27Tl11a2cJIdxznn6mEcIS) | 2:49 | 2024-05-02 |  |
 | [Hold Me Close](https://open.spotify.com/track/7u71gydKlcIvWpvmNsfRIP) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [Hold Me Close](https://open.spotify.com/album/4z7scWiAsJN335Cttn2AaU) | 3:19 | 2022-11-17 | 2023-01-27 |
 | [Hollow](https://open.spotify.com/track/50ClhUjjjq2MzZTxP535to) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [MØØNE](https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6) | [Hollow](https://open.spotify.com/album/4DgPkTxV46MSjOAsLDJD8u) | 4:05 | 2022-12-27 | 2023-01-02 |
 | [Holmen](https://open.spotify.com/track/6BSe0z7siNCq6qbkPJm6CJ) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Holmen](https://open.spotify.com/album/4WHi9n6BQ1o6qbyUJONOWh) | 4:25 | 2024-03-21 |  |
@@ -495,6 +496,7 @@
 | [Monolith](https://open.spotify.com/track/2TBCjgsbpGpf664aA0V5B2) | [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz) | [Monolith](https://open.spotify.com/album/3fpazL83dR1sdhVixTXarD) | 6:31 | 2022-11-03 | 2022-12-02 |
 | [Monologue I](https://open.spotify.com/track/5BCSEW7cetqXBUdRMBigpl) | [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX) | [Odd Ones V2](https://open.spotify.com/album/2DiBZCWhToju8TDXaKqrks) | 4:52 | 2022-12-27 | 2023-01-27 |
 | [Moonlight](https://open.spotify.com/track/39JDdezxhax7XyjkRpM6Ds) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP), [Mandragora](https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY) | [Moonlight](https://open.spotify.com/album/5IQW0dQVimAiqZopb4JBng) | 5:37 | 2023-12-21 | 2024-02-23 |
+| [Moonlight](https://open.spotify.com/track/2uEcNtI8A8cxID8JCCIVZJ) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Moonlight](https://open.spotify.com/album/28D9umTTAsMuEWuKj5WNAi) | 3:44 | 2024-05-02 |  |
 | [Moonlight](https://open.spotify.com/track/3gVks4tc3TzqQYdDCPj7f2) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Moonlight](https://open.spotify.com/album/4UPgkPHybekr5XezWaG8fE) | 5:46 | 2024-01-18 |  |
 | [Moonlight](https://open.spotify.com/track/392KXopwSy4eW1Psl4Yerb) | [Voy.Tech](https://open.spotify.com/artist/3SocyV4VzOIF3tGxJxsM2X) | [Moonlight](https://open.spotify.com/album/5o4tktIbXOLUvRGrPyWMRT) | 3:28 | 2022-08-19 | 2022-09-05 |
 | [Moonlight \- Radio Edit](https://open.spotify.com/track/2XCHKQnCTDbfWueZzmHeX0) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY), [Angel Sanchez](https://open.spotify.com/artist/0CjuBuzouj2pTHrHba4AyC) | [Moonlight](https://open.spotify.com/album/5dJxuHqAVPrkq96UrZp8kt) | 4:48 | 2023-04-27 | 2023-08-04 |
@@ -586,6 +588,7 @@
 | [Perfect Love \- Biscits Remix](https://open.spotify.com/track/6SxpLVRmhMubmYLrvxGp22) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg), [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Perfect Love \(Biscits Remix\)](https://open.spotify.com/album/1HVIOPdgDaSIdKy79G1Dbj) | 3:11 | 2023-12-08 |  |
 | [Pet Sound](https://open.spotify.com/track/5mDlLXhBzoneaC3pvaXbNE) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [I Talk To Water](https://open.spotify.com/album/07aZK8FsMUcJkrADgMWxsi) | 5:46 | 2023-10-26 |  |
 | [Phonox](https://open.spotify.com/track/1S2HYB1DU0Qt4ScO2WpCbR) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Phonox](https://open.spotify.com/album/6QvULTM7fp7F2kYtjIDxCO) | 7:56 | 2023-10-12 | 2023-11-10 |
+| [Pick Me Up](https://open.spotify.com/track/4gr6TZahYErlvSDYmyuteG) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Pick Me Up](https://open.spotify.com/album/1cnw1OqjxMWJvONgR6NvfU) | 4:32 | 2024-05-02 |  |
 | [Pictures Of You](https://open.spotify.com/track/0QQBgAXdLm0hfk9aBJe97f) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Genesys II](https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy) | 2:55 | 2024-04-04 | 2024-04-19 |
 | [Pictures Of You](https://open.spotify.com/track/1D5ifTPFnQWDnSxSAfc1hc) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Pictures Of You](https://open.spotify.com/album/0D73jRe3U7onYOiX6jpYJO) | 2:55 | 2024-02-15 |  |
 | [Pink](https://open.spotify.com/track/7jC1ym6zymckGeBH5FlwXq) | [Avoure](https://open.spotify.com/artist/37S9qlW44AiakSF45Vra1E) | [Reflection](https://open.spotify.com/album/2KRkITw3duxYZvQxAnZTaF) | 5:02 | 2023-06-29 | 2023-08-01 |
@@ -680,6 +683,7 @@
 | [Simulation](https://open.spotify.com/track/5166Ws58cqwtQE2YR7Nyal) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Simulation](https://open.spotify.com/album/08D0nW5tIE8sRDIZruTU2V) | 3:15 | 2023-11-23 |  |
 | [Sinnerman \(Henrik Schwarz Remix\)](https://open.spotify.com/track/6R8Wd6RO7P2wQ0Lhdjx82e) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS), [Henrik Schwarz](https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R), [Ed Graves](https://open.spotify.com/artist/1Kkcm36k22FT1RWcINq4sI) | [Sinnerman \(Henrik Schwarz Remixes\)](https://open.spotify.com/album/2gExT3JhznVFoXzH193gPr) | 3:35 | 2023-03-16 | 2023-05-26 |
 | [Sippin' Yak](https://open.spotify.com/track/1LldihpfcYdxAnCigKijW2) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Sippin' Yak](https://open.spotify.com/album/4BUST0vfVrEIgGszjVd9JD) | 2:26 | 2024-03-14 |  |
+| [Sippin' Yak \- Morgan Seatree Remix](https://open.spotify.com/track/4E3klPai3AIiVkpkUuut63) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Morgan Seatree](https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh) | [Sippin' Yak \(Morgan Seatree Remix\)](https://open.spotify.com/album/38UUAqsrWCiqKgoSKjGNME) | 2:19 | 2024-05-02 |  |
 | [Sirin](https://open.spotify.com/track/0fTBC7dIy8c8rRFonamGJF) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y) | [Light For Me / Sirin](https://open.spotify.com/album/5dAVG1bgWrBZEokRk1EcRN) | 3:24 | 2023-03-02 | 2023-04-01 |
 | [Sit Back And Take It Down](https://open.spotify.com/track/5Tb0TQ1eaLuzour8Ymp6wo) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 05](https://open.spotify.com/album/5ad6LcmH6riZRxu4VzI7Vf) | 10:27 | 2023-01-12 | 2023-05-17 |
 | [Sizo](https://open.spotify.com/track/3mUJM6maruA7Bw0Pq5tQcD) | [OLING](https://open.spotify.com/artist/2saqEnwA5wcTmHPpvVM1cv) | [Sizo](https://open.spotify.com/album/05eqoFV6gWprLVsSZOlVrA) | 7:03 | 2023-04-01 | 2023-04-14 |

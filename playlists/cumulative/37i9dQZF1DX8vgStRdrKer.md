@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  <a href=https://open.spotify.com/artist/6tF26GNNvbuamuugTTBiGE?si=1KmYBCHhQCO7FRXiflcZNw>REFUGE WRSHP</a>
 
-158 songs - 13 hr 13 min
+159 songs - 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Dry Bones](https://open.spotify.com/track/0de9ygeGsHpnmpgZHOLrPJ) | [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [Dry Bones](https://open.spotify.com/album/55SIgOQ9eEOTGYxOW3fz7g) | 11:31 | 2024-02-09 |  |
 | [Eagles](https://open.spotify.com/track/0vANfTcrIRMIb0Zgt8cidA) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Eagles](https://open.spotify.com/album/2huKs1pju9CSInbq9WFAiW) | 2:26 | 2024-03-15 | 2024-04-19 |
 | [Ebenezer \- Live](https://open.spotify.com/track/1NIsNb7J8yfy9TYE1ycKMp) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [VICTORIA ORENZE](https://open.spotify.com/artist/132I30e3higEmuOlmqnP1w) | [HALLELUJAH LIVE](https://open.spotify.com/album/5xe3knii9RbZzikwkiIqBY) | 8:31 | 2023-09-15 | 2024-03-16 |
+| [El\-Roi](https://open.spotify.com/track/16AsClB7Id63bSJRp4ThqG) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [El\-Roi](https://open.spotify.com/album/6JNS9zkZHiyaTJTmBKqzHD) | 3:44 | 2024-05-03 |  |
 | [Elohim](https://open.spotify.com/track/5Q4JduIFVtirezPnU9RggG) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [By The Water](https://open.spotify.com/album/5uPncwBKPjbBEwNfBfS0vn) | 2:50 | 2023-09-15 | 2024-03-16 |
 | [Emmanuel](https://open.spotify.com/track/6c5UMnCmZBski9aytlYIra) | [Nsikan Louis](https://open.spotify.com/artist/5oS7TVro4fEqwxwRCaUW8B) | [Emmanuel](https://open.spotify.com/album/1BITuUt6zjCQP1cTcy8cgc) | 5:25 | 2024-01-05 | 2024-03-19 |
 | [Emperor of the Universe](https://open.spotify.com/track/4ewwe3fstt2FezTYwZehvo) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6) | [Emperor of the Universe](https://open.spotify.com/album/3jglQn9MUN5mI9mLwKpidK) | 16:05 | 2024-02-02 |  |
@@ -131,7 +132,7 @@
 | [Say](https://open.spotify.com/track/5HXD6yjXXItBmHxXx1cCpc) | [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Say](https://open.spotify.com/album/2yiQBODM4hCjAlUp4yIJiq) | 2:19 | 2024-04-05 | 2024-04-24 |
 | [Sing Hallelujah \(with Natalie Grant\) \- Live](https://open.spotify.com/track/0LPrib5LGVzGhnrM6J8kl9) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Cover The Earth \(Live In New York\)](https://open.spotify.com/album/0n1rSUSza9mlKU1g6xD9l9) | 8:24 | 2023-09-15 | 2024-02-05 |
 | [Spirit Chant](https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Spirit Chant](https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf) | 10:10 | 2023-09-15 | 2024-03-16 |
-| [Surrender](https://open.spotify.com/track/5SCH6LHRQH3hfmqAlnU1yo) | [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F) | [Surrender](https://open.spotify.com/album/1MXMfvad0zlEQscHvBZU9h) | 2:52 | 2024-02-09 |  |
+| [Surrender](https://open.spotify.com/track/5SCH6LHRQH3hfmqAlnU1yo) | [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F) | [Surrender](https://open.spotify.com/album/1MXMfvad0zlEQscHvBZU9h) | 2:52 | 2024-02-09 | 2024-05-03 |
 | [Talk & Do](https://open.spotify.com/track/2PXulTyeJgq6204kpwpzVM) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Talk & Do](https://open.spotify.com/album/4lqNta0wM1DiICK7PORqx9) | 2:45 | 2023-09-08 | 2023-11-03 |
 | [Tenkou! Why Feel Sorry?](https://open.spotify.com/track/1CpY1MgTJFWzXVpXU19L89) | [Emahoy Tsege Mariam Gebru](https://open.spotify.com/artist/1D86M7ewUQH1vS0QsXCmI9) | [Souvenirs](https://open.spotify.com/album/1lrApbriCFLDx2Cof0lbxx) | 4:03 | 2024-02-23 | 2024-03-31 |
 | [Testimony](https://open.spotify.com/track/3KK4GZBIXOtgfeN04QZdx0) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Testimony](https://open.spotify.com/album/34uUjQomDNO14NZwPVgfyp) | 2:57 | 2024-03-15 |  |

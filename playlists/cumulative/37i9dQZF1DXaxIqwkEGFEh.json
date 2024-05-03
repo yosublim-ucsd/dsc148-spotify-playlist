@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Strictly for the streets. Cover: Future & Metro Boomin",
+  "description": "Strictly for the streets. Cover: Nardo Wick",
   "name": "Out The Mud",
   "tracks": [
     {
@@ -1154,6 +1154,28 @@
       "duration_ms": 112631,
       "name": "Ain't Bout Nun",
       "url": "https://open.spotify.com/track/5XpJVTP6RT5jmI0Z5akW8f"
+    },
+    {
+      "album": {
+        "name": "Ain't Goin",
+        "url": "https://open.spotify.com/album/1jY60bMrbZxHcQHo9N4ZOV"
+      },
+      "artists": [
+        {
+          "name": "Trigga500k",
+          "url": "https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx"
+        },
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126627,
+      "name": "Ain't Goin",
+      "url": "https://open.spotify.com/track/4mxgBzqjxVeqsCYwJXgydM"
     },
     {
       "album": {
@@ -4065,6 +4087,24 @@
     },
     {
       "album": {
+        "name": "Carolina to New York",
+        "url": "https://open.spotify.com/album/5VrLosdMJFpyF2UArexsQu"
+      },
+      "artists": [
+        {
+          "name": "Trap Dickey",
+          "url": "https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148421,
+      "name": "Carolina to New York",
+      "url": "https://open.spotify.com/track/2iFsXp3FUEgMIby8VG0j8a"
+    },
+    {
+      "album": {
         "name": "BUSINESS IS BUSINESS",
         "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
       },
@@ -5172,7 +5212,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 152175,
       "name": "DAMN",
       "url": "https://open.spotify.com/track/289GtJ9pRvWW2vv6BHZPX4"
@@ -6098,7 +6138,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 163600,
       "name": "DOPE BOY (feat. Young Nudy)",
       "url": "https://open.spotify.com/track/1lLl9Wu4ULpHaLYypCwoi9"
@@ -10304,7 +10344,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 111482,
       "name": "How It Feel",
       "url": "https://open.spotify.com/track/7HJ9D1uLjSRyp0chTB08yS"
@@ -12697,6 +12737,24 @@
     },
     {
       "album": {
+        "name": "Letter to the Devil",
+        "url": "https://open.spotify.com/album/1vzVIXrFsau80EgjAK4pl8"
+      },
+      "artists": [
+        {
+          "name": "Finesse2tymes",
+          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145465,
+      "name": "Letter to the Devil",
+      "url": "https://open.spotify.com/track/0ycS8LLvSE22HJehLiQkDq"
+    },
+    {
+      "album": {
         "name": "AMAR",
         "url": "https://open.spotify.com/album/6UBYRLKOasEXXr8nwZ4fp8"
       },
@@ -14006,7 +14064,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 86935,
       "name": "Might Be Tweakin",
       "url": "https://open.spotify.com/track/6jAWFH2BuMQbolxhwV2MLs"
@@ -19242,7 +19300,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 155562,
       "name": "Rick & Marni",
       "url": "https://open.spotify.com/track/29XA7v3ydWWOR3EvoOVcBL"
@@ -20615,6 +20673,24 @@
     },
     {
       "album": {
+        "name": "SHININ",
+        "url": "https://open.spotify.com/album/0OhKofrYgZQvnvHbshzUtP"
+      },
+      "artists": [
+        {
+          "name": "Baby Money",
+          "url": "https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134347,
+      "name": "SHININ",
+      "url": "https://open.spotify.com/track/1KZs3o4uHiOWhq5pJY3vbz"
+    },
+    {
+      "album": {
         "name": "Shit Crazy Remix (feat. BIG30, Sett, Mac Critter)",
         "url": "https://open.spotify.com/album/6QqTgZD1V2VOM7UVPYwyqg"
       },
@@ -21346,7 +21422,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 217914,
       "name": "Smurk Carter",
       "url": "https://open.spotify.com/track/3DFkDKoILOZ3an5oJzKDNZ"
@@ -22997,6 +23073,28 @@
     },
     {
       "album": {
+        "name": "Ten/Rya Interlude (feat. Key Glock)",
+        "url": "https://open.spotify.com/album/20pQxMVlXGbERgQDZgbujD"
+      },
+      "artists": [
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360077,
+      "name": "Ten/Rya Interlude (feat. Key Glock)",
+      "url": "https://open.spotify.com/track/4ydaQVP6QIlkX0k8WDmtj2"
+    },
+    {
+      "album": {
         "name": "Texas",
         "url": "https://open.spotify.com/album/2JsQ8WWzDV4k0jLdKkHVzZ"
       },
@@ -23806,6 +23904,24 @@
       "duration_ms": 223173,
       "name": "TOPIA TWINS (feat. Rob49 & 21 Savage)",
       "url": "https://open.spotify.com/track/0lodMO0qK83vfPiiD7FMEt"
+    },
+    {
+      "album": {
+        "name": "Hardest N***a Livin'",
+        "url": "https://open.spotify.com/album/6LM4J3YClFKbHGLDxrTCOM"
+      },
+      "artists": [
+        {
+          "name": "Chicken P",
+          "url": "https://open.spotify.com/artist/1a4lUV1KZJoCAkTUMu7zlr"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146101,
+      "name": "Touchdown",
+      "url": "https://open.spotify.com/track/4y0sJA98NndKIZgakjkGkt"
     },
     {
       "album": {

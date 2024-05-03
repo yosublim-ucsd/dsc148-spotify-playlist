@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 43185,
+  "2024-05-03": 43322,
   "date_first_scraped": "2023-04-03",
   "description": "Relaxing music with soft nature sounds for meditation, sleep or to just enjoy. ",
   "name": "Soft Nature Music",
@@ -1050,6 +1050,24 @@
     },
     {
       "album": {
+        "name": "Grounding Springs",
+        "url": "https://open.spotify.com/album/7G5UgVeeGvUCn1fmuMltil"
+      },
+      "artists": [
+        {
+          "name": "Quiet Point",
+          "url": "https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Grounding Springs",
+      "url": "https://open.spotify.com/track/3srrw4VMffkHy5xyVS0xIK"
+    },
+    {
+      "album": {
         "name": "Hands In The Sky",
         "url": "https://open.spotify.com/album/56bBodScnFrZTDX0PfpeHW"
       },
@@ -1259,7 +1277,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 142660,
       "name": "Juncture",
       "url": "https://open.spotify.com/track/5kBWSTxxpQHjh2p49YM4xq"
@@ -1835,7 +1853,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-02",
+      "date_removed": null,
       "duration_ms": 196000,
       "name": "Paladin Diversum",
       "url": "https://open.spotify.com/track/60r8LX6fGaLQYjYCdBB2Kp"
@@ -2285,7 +2303,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 271384,
       "name": "Serene Dream",
       "url": "https://open.spotify.com/track/3phLyMjkzsEK6nXfIsFp7I"

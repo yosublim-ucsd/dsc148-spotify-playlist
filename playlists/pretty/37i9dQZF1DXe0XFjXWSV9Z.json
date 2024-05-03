@@ -1,6 +1,6 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 42881,
+  "num_followers": 42895,
   "original_name": "TROPILOCO",
   "owner": {
     "name": "Spotify",
@@ -135,18 +135,22 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Sonidos Gold",
-        "url": "https://open.spotify.com/album/2lBRiANHPb6WCzlwjWDF1f"
+        "name": "Mambo Mundial",
+        "url": "https://open.spotify.com/album/0iOMXDWvDL5hlWkmguFPtl"
       },
       "artists": [
         {
-          "name": "Grupo Fantasma",
-          "url": "https://open.spotify.com/artist/1EJ0KSMkpoQJHChu5AyTHE"
+          "name": "Chico Trujillo",
+          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
+        },
+        {
+          "name": "Son Rompepera",
+          "url": "https://open.spotify.com/artist/3QM4Z6Id8e3VyAoc5CbU2P"
         }
       ],
-      "duration_ms": 161426,
-      "name": "Cumbia De Los Pajaritos",
-      "url": "https://open.spotify.com/track/2qthHzKgzuQIlfSVV44FkK"
+      "duration_ms": 218560,
+      "name": "P\u00e1jaro Zinzontle",
+      "url": "https://open.spotify.com/track/511pu0YZEk21PSpghFADdy"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -171,22 +175,18 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Mambo Mundial",
-        "url": "https://open.spotify.com/album/0iOMXDWvDL5hlWkmguFPtl"
+        "name": "Sonidos Gold",
+        "url": "https://open.spotify.com/album/2lBRiANHPb6WCzlwjWDF1f"
       },
       "artists": [
         {
-          "name": "Chico Trujillo",
-          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
-        },
-        {
-          "name": "Son Rompepera",
-          "url": "https://open.spotify.com/artist/3QM4Z6Id8e3VyAoc5CbU2P"
+          "name": "Grupo Fantasma",
+          "url": "https://open.spotify.com/artist/1EJ0KSMkpoQJHChu5AyTHE"
         }
       ],
-      "duration_ms": 218560,
-      "name": "P\u00e1jaro Zinzontle",
-      "url": "https://open.spotify.com/track/511pu0YZEk21PSpghFADdy"
+      "duration_ms": 161426,
+      "name": "Cumbia De Los Pajaritos",
+      "url": "https://open.spotify.com/track/2qthHzKgzuQIlfSVV44FkK"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -513,22 +513,6 @@
       "url": "https://open.spotify.com/track/1g1kzzTZN4AIabY9e1WolT"
     },
     {
-      "added_at": "2022-01-14 04:25:25",
-      "album": {
-        "name": "Mamita Santa",
-        "url": "https://open.spotify.com/album/619zP71cN2JNAFGGyCgkzg"
-      },
-      "artists": [
-        {
-          "name": "Porter",
-          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
-        }
-      ],
-      "duration_ms": 193920,
-      "name": "Mamita Santa",
-      "url": "https://open.spotify.com/track/6NwPLDzVZuoBvCDmipbjCR"
-    },
-    {
       "added_at": "2022-02-25 04:26:16",
       "album": {
         "name": "Junchuch",
@@ -543,6 +527,22 @@
       "duration_ms": 276800,
       "name": "Junchuch",
       "url": "https://open.spotify.com/track/0NURA4GHHo6vi4hGtgo62O"
+    },
+    {
+      "added_at": "2022-01-14 04:25:25",
+      "album": {
+        "name": "Mamita Santa",
+        "url": "https://open.spotify.com/album/619zP71cN2JNAFGGyCgkzg"
+      },
+      "artists": [
+        {
+          "name": "Porter",
+          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
+        }
+      ],
+      "duration_ms": 193920,
+      "name": "Mamita Santa",
+      "url": "https://open.spotify.com/track/6NwPLDzVZuoBvCDmipbjCR"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -579,6 +579,22 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
+        "name": "Legado: Colecci\u00f3n Definitiva",
+        "url": "https://open.spotify.com/album/4MukcroENYODSNMYfyvZHW"
+      },
+      "artists": [
+        {
+          "name": "Juaneco Y Su Combo",
+          "url": "https://open.spotify.com/artist/4sTcgUXJRSvSQHei3ZQUBR"
+        }
+      ],
+      "duration_ms": 156366,
+      "name": "El Pinochito Saltarin",
+      "url": "https://open.spotify.com/track/5C7mC5BrHui4uc1RH1BGLk"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
         "name": "Nixon en la Playa",
         "url": "https://open.spotify.com/album/22ZNOoOKta5HRqL2hlO0ZA"
       },
@@ -593,20 +609,20 @@
       "url": "https://open.spotify.com/track/11iLvJ8LlvfgPCRGPtY6Ez"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
+      "added_at": "2023-03-31 17:32:57",
       "album": {
-        "name": "Legado: Colecci\u00f3n Definitiva",
-        "url": "https://open.spotify.com/album/4MukcroENYODSNMYfyvZHW"
+        "name": "Kristina",
+        "url": "https://open.spotify.com/album/5BCwHTPb0MVFbxsxtJtdIT"
       },
       "artists": [
         {
-          "name": "Juaneco Y Su Combo",
-          "url": "https://open.spotify.com/artist/4sTcgUXJRSvSQHei3ZQUBR"
+          "name": "Sanje",
+          "url": "https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx"
         }
       ],
-      "duration_ms": 156366,
-      "name": "El Pinochito Saltarin",
-      "url": "https://open.spotify.com/track/5C7mC5BrHui4uc1RH1BGLk"
+      "duration_ms": 238221,
+      "name": "Kristina",
+      "url": "https://open.spotify.com/track/4uBAgsspUqFD9mzDebn7uV"
     },
     {
       "added_at": "2022-04-09 05:03:37",
@@ -627,22 +643,6 @@
       "duration_ms": 172293,
       "name": "Diablo",
       "url": "https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk"
-    },
-    {
-      "added_at": "2023-03-31 17:32:57",
-      "album": {
-        "name": "Kristina",
-        "url": "https://open.spotify.com/album/5BCwHTPb0MVFbxsxtJtdIT"
-      },
-      "artists": [
-        {
-          "name": "Sanje",
-          "url": "https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx"
-        }
-      ],
-      "duration_ms": 238221,
-      "name": "Kristina",
-      "url": "https://open.spotify.com/track/4uBAgsspUqFD9mzDebn7uV"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -773,22 +773,6 @@
       "url": "https://open.spotify.com/track/24a7pZ4U6ISIY7NXLNnaWm"
     },
     {
-      "added_at": "2023-12-12 18:56:56",
-      "album": {
-        "name": "Yellow Laces - Another Life",
-        "url": "https://open.spotify.com/album/7JCCT2925DBAePLGnf6YQ4"
-      },
-      "artists": [
-        {
-          "name": "Travelers All Stars",
-          "url": "https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH"
-        }
-      ],
-      "duration_ms": 197645,
-      "name": "Yellow Laces",
-      "url": "https://open.spotify.com/track/2nKsFoAxQRjQz5zEvM7Hhz"
-    },
-    {
       "added_at": "2021-10-20 15:37:42",
       "album": {
         "name": "El Gran Cacique",
@@ -805,20 +789,20 @@
       "url": "https://open.spotify.com/track/5uCqb0M2YZMMvuKiXIf70a"
     },
     {
-      "added_at": "2024-01-26 16:12:23",
+      "added_at": "2023-12-12 18:56:56",
       "album": {
-        "name": "Ya",
-        "url": "https://open.spotify.com/album/7nzAbKNMTxGFlGloo6sytM"
+        "name": "Yellow Laces - Another Life",
+        "url": "https://open.spotify.com/album/7JCCT2925DBAePLGnf6YQ4"
       },
       "artists": [
         {
-          "name": "CHIFLIDO",
-          "url": "https://open.spotify.com/artist/1j2ynZu5H24PDCnVsovPL1"
+          "name": "Travelers All Stars",
+          "url": "https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH"
         }
       ],
-      "duration_ms": 140552,
-      "name": "Ya",
-      "url": "https://open.spotify.com/track/7F3girVxqXUFc75BEVrLq5"
+      "duration_ms": 197645,
+      "name": "Yellow Laces",
+      "url": "https://open.spotify.com/track/2nKsFoAxQRjQz5zEvM7Hhz"
     },
     {
       "added_at": "2022-09-30 03:44:30",
@@ -835,6 +819,22 @@
       "duration_ms": 246440,
       "name": "Ag\u00fcita de Manantial",
       "url": "https://open.spotify.com/track/4fTEJsSGo4jFc3AmULnvDt"
+    },
+    {
+      "added_at": "2024-01-26 16:12:23",
+      "album": {
+        "name": "Ya",
+        "url": "https://open.spotify.com/album/7nzAbKNMTxGFlGloo6sytM"
+      },
+      "artists": [
+        {
+          "name": "CHIFLIDO",
+          "url": "https://open.spotify.com/artist/1j2ynZu5H24PDCnVsovPL1"
+        }
+      ],
+      "duration_ms": 140552,
+      "name": "Ya",
+      "url": "https://open.spotify.com/track/7F3girVxqXUFc75BEVrLq5"
     },
     {
       "added_at": "2023-09-25 00:02:05",
@@ -867,22 +867,6 @@
       "duration_ms": 257462,
       "name": "Echo en Mexico",
       "url": "https://open.spotify.com/track/01kpcBNsQMDjkmIBbSHCrk"
-    },
-    {
-      "added_at": "2023-12-12 18:56:56",
-      "album": {
-        "name": "Yellow Laces - Another Life",
-        "url": "https://open.spotify.com/album/7JCCT2925DBAePLGnf6YQ4"
-      },
-      "artists": [
-        {
-          "name": "Travelers All Stars",
-          "url": "https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH"
-        }
-      ],
-      "duration_ms": 170895,
-      "name": "Another Life",
-      "url": "https://open.spotify.com/track/688jOdQWukxAS2bEDlDk3p"
     },
     {
       "added_at": "2023-02-14 03:09:22",
@@ -953,6 +937,22 @@
       "url": "https://open.spotify.com/track/5ze6zmZ1sEIIFPSvrNi75n"
     },
     {
+      "added_at": "2023-12-12 18:56:56",
+      "album": {
+        "name": "Yellow Laces - Another Life",
+        "url": "https://open.spotify.com/album/7JCCT2925DBAePLGnf6YQ4"
+      },
+      "artists": [
+        {
+          "name": "Travelers All Stars",
+          "url": "https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH"
+        }
+      ],
+      "duration_ms": 170895,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/688jOdQWukxAS2bEDlDk3p"
+    },
+    {
       "added_at": "2023-02-28 04:34:35",
       "album": {
         "name": "Me Estoy Poniendo Viejo",
@@ -983,22 +983,6 @@
       "duration_ms": 148360,
       "name": "Misirlou",
       "url": "https://open.spotify.com/track/0gUYUBGFojmopnkz3acWfZ"
-    },
-    {
-      "added_at": "2023-10-10 02:11:18",
-      "album": {
-        "name": "Paganismo (Deluxe)",
-        "url": "https://open.spotify.com/album/3r07WtUQn429L9DknXqYE2"
-      },
-      "artists": [
-        {
-          "name": "Sonido Gallo Negro",
-          "url": "https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo"
-        }
-      ],
-      "duration_ms": 189514,
-      "name": "Mambo Del Fierro Viejo",
-      "url": "https://open.spotify.com/track/6pv5ldwnEZDJxyn9bQqEKy"
     },
     {
       "added_at": "2023-12-20 04:46:22",
@@ -1037,6 +1021,22 @@
       "url": "https://open.spotify.com/track/7dQdBFS066ZEQfiwcZd3Rp"
     },
     {
+      "added_at": "2023-10-10 02:11:18",
+      "album": {
+        "name": "Paganismo (Deluxe)",
+        "url": "https://open.spotify.com/album/3r07WtUQn429L9DknXqYE2"
+      },
+      "artists": [
+        {
+          "name": "Sonido Gallo Negro",
+          "url": "https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo"
+        }
+      ],
+      "duration_ms": 189514,
+      "name": "Mambo Del Fierro Viejo",
+      "url": "https://open.spotify.com/track/6pv5ldwnEZDJxyn9bQqEKy"
+    },
+    {
       "added_at": "2021-10-20 15:37:42",
       "album": {
         "name": "Loco Playa",
@@ -1073,6 +1073,22 @@
       "url": "https://open.spotify.com/track/2pqg6LbsUiHdEvNkQHD8H5"
     },
     {
+      "added_at": "2022-02-12 05:43:00",
+      "album": {
+        "name": "Cumbia del Metr\u00f3nomo",
+        "url": "https://open.spotify.com/album/3gmy0O8akgbJfuagwuYPac"
+      },
+      "artists": [
+        {
+          "name": "Las Muiscas",
+          "url": "https://open.spotify.com/artist/4RHL341vneyqWQTIVq6ige"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "Cumbia del Metr\u00f3nomo",
+      "url": "https://open.spotify.com/track/7bwN33H6XD0TR0Tu7CwJRz"
+    },
+    {
       "added_at": "2023-05-25 19:15:17",
       "album": {
         "name": "Luna Villera",
@@ -1093,22 +1109,6 @@
       "url": "https://open.spotify.com/track/4ojdqJnTaFlR3FgBtY6DJN"
     },
     {
-      "added_at": "2022-02-12 05:43:00",
-      "album": {
-        "name": "Cumbia del Metr\u00f3nomo",
-        "url": "https://open.spotify.com/album/3gmy0O8akgbJfuagwuYPac"
-      },
-      "artists": [
-        {
-          "name": "Las Muiscas",
-          "url": "https://open.spotify.com/artist/4RHL341vneyqWQTIVq6ige"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "Cumbia del Metr\u00f3nomo",
-      "url": "https://open.spotify.com/track/7bwN33H6XD0TR0Tu7CwJRz"
-    },
-    {
       "added_at": "2021-10-20 15:37:42",
       "album": {
         "name": "Churro Vs. Crow",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Dale Mel\u00f3n",
-        "url": "https://open.spotify.com/album/4JaUBwYHmzxxqTiC7WOFJg"
-      },
-      "artists": [
-        {
-          "name": "Contento",
-          "url": "https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h"
-        }
-      ],
-      "duration_ms": 260678,
-      "name": "Dale Mel\u00f3n",
-      "url": "https://open.spotify.com/track/6N5InQVKjsRlof8moRIv5I"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Estraik Back",
         "url": "https://open.spotify.com/album/5RdZA6wy7EDXvrmAzdlUcY"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 231226,
       "name": "Perro Rabioso",
       "url": "https://open.spotify.com/track/1m3rYHSyIcwoeC3bKncV3D"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Dale Mel\u00f3n",
+        "url": "https://open.spotify.com/album/4JaUBwYHmzxxqTiC7WOFJg"
+      },
+      "artists": [
+        {
+          "name": "Contento",
+          "url": "https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h"
+        }
+      ],
+      "duration_ms": 260678,
+      "name": "Dale Mel\u00f3n",
+      "url": "https://open.spotify.com/track/6N5InQVKjsRlof8moRIv5I"
     },
     {
       "added_at": "2023-03-16 23:13:46",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Mientras Unos Mueren",
-        "url": "https://open.spotify.com/album/7MQr16oeHXeD734zv9LvqJ"
-      },
-      "artists": [
-        {
-          "name": "El Drag\u00f3n Criollo",
-          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
-        }
-      ],
-      "duration_ms": 224559,
-      "name": "Mientras Unos Mueren",
-      "url": "https://open.spotify.com/track/0PCCCiRUvw3lTFX6UWWGET"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Savage Love",
         "url": "https://open.spotify.com/album/0Yz7y8VcFHZru6QYpP0sDJ"
       },
@@ -1223,18 +1207,18 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Dos Santos",
-        "url": "https://open.spotify.com/album/203gWxeq8djoqOxwU45zkg"
+        "name": "Mientras Unos Mueren",
+        "url": "https://open.spotify.com/album/7MQr16oeHXeD734zv9LvqJ"
       },
       "artists": [
         {
-          "name": "Dos Santos",
-          "url": "https://open.spotify.com/artist/12Av6pjGrpX0wfTTyXNsyP"
+          "name": "El Drag\u00f3n Criollo",
+          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
         }
       ],
-      "duration_ms": 213186,
-      "name": "El Pescador",
-      "url": "https://open.spotify.com/track/2yLm7Y9foI71By8rAdYsFE"
+      "duration_ms": 224559,
+      "name": "Mientras Unos Mueren",
+      "url": "https://open.spotify.com/track/0PCCCiRUvw3lTFX6UWWGET"
     },
     {
       "added_at": "2022-02-25 02:13:50",
@@ -1255,6 +1239,22 @@
       "duration_ms": 240871,
       "name": "Para todo mal",
       "url": "https://open.spotify.com/track/4MuvBf04XjJAK9v7ndBwbY"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Dos Santos",
+        "url": "https://open.spotify.com/album/203gWxeq8djoqOxwU45zkg"
+      },
+      "artists": [
+        {
+          "name": "Dos Santos",
+          "url": "https://open.spotify.com/artist/12Av6pjGrpX0wfTTyXNsyP"
+        }
+      ],
+      "duration_ms": 213186,
+      "name": "El Pescador",
+      "url": "https://open.spotify.com/track/2yLm7Y9foI71By8rAdYsFE"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Dios",
-        "url": "https://open.spotify.com/album/4y1NSE3BTF7B08jd0v212w"
-      },
-      "artists": [
-        {
-          "name": "Mexican Institute Of Sound",
-          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
-        }
-      ],
-      "duration_ms": 193955,
-      "name": "Dios",
-      "url": "https://open.spotify.com/track/1hTGXQD56NSef0JYfJi9U1"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Invasi\u00f3n",
         "url": "https://open.spotify.com/album/0ebWSgyvKLGBKOlf2BsMPI"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 248610,
       "name": "Invasi\u00f3n",
       "url": "https://open.spotify.com/track/3s7jL9o8vvhLmw4lV3xMHW"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Dios",
+        "url": "https://open.spotify.com/album/4y1NSE3BTF7B08jd0v212w"
+      },
+      "artists": [
+        {
+          "name": "Mexican Institute Of Sound",
+          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
+        }
+      ],
+      "duration_ms": 193955,
+      "name": "Dios",
+      "url": "https://open.spotify.com/track/1hTGXQD56NSef0JYfJi9U1"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1549,22 +1549,6 @@
       "url": "https://open.spotify.com/track/0e0kgcPlS4dbyVJOEAVym9"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Que Tumba",
-        "url": "https://open.spotify.com/album/0luwH2VIVcYNZoxGESrjrr"
-      },
-      "artists": [
-        {
-          "name": "Romperayo",
-          "url": "https://open.spotify.com/artist/1Ey12Gi2P3PNPBsz39cncu"
-        }
-      ],
-      "duration_ms": 196421,
-      "name": "Que Tumba",
-      "url": "https://open.spotify.com/track/5hDj4IZig0UoK3dGzEUhGF"
-    },
-    {
       "added_at": "2022-08-13 02:09:39",
       "album": {
         "name": "El Mito del Ayahuasca",
@@ -1583,6 +1567,22 @@
       "duration_ms": 184376,
       "name": "El Mito del Ayahuasca",
       "url": "https://open.spotify.com/track/422hEiUIkdltQvJvk6xU6U"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Que Tumba",
+        "url": "https://open.spotify.com/album/0luwH2VIVcYNZoxGESrjrr"
+      },
+      "artists": [
+        {
+          "name": "Romperayo",
+          "url": "https://open.spotify.com/artist/1Ey12Gi2P3PNPBsz39cncu"
+        }
+      ],
+      "duration_ms": 196421,
+      "name": "Que Tumba",
+      "url": "https://open.spotify.com/track/5hDj4IZig0UoK3dGzEUhGF"
     },
     {
       "added_at": "2023-01-02 21:53:18",
@@ -1617,20 +1617,20 @@
       "url": "https://open.spotify.com/track/1dYgoBJEkIHfhKGebTRioT"
     },
     {
-      "added_at": "2023-12-20 03:22:44",
+      "added_at": "2022-09-03 04:03:52",
       "album": {
-        "name": "Entre Palmeras",
-        "url": "https://open.spotify.com/album/2RKnIEBWuA4z5t75lu0jxl"
+        "name": "Mamarron, Vol.1",
+        "url": "https://open.spotify.com/album/6MEwYeSu3l3mHBoJvtp2Zy"
       },
       "artists": [
         {
-          "name": "Afrosound",
-          "url": "https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv"
+          "name": "Los Cotopla Boyz",
+          "url": "https://open.spotify.com/artist/0YkRMiBfwJaxLp2WhSl9eV"
         }
       ],
-      "duration_ms": 163046,
-      "name": "Cumbia de E T: Extraterrestre",
-      "url": "https://open.spotify.com/track/41fp6eZoH6IDLBuxVWkHWx"
+      "duration_ms": 320000,
+      "name": "Dame Tu Wasap",
+      "url": "https://open.spotify.com/track/7kdiYDV1BZrowuXi6eylIw"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1681,20 +1681,20 @@
       "url": "https://open.spotify.com/track/7jLgcwhZJCengjJmow08wb"
     },
     {
-      "added_at": "2022-09-03 04:03:52",
+      "added_at": "2023-12-20 03:22:44",
       "album": {
-        "name": "Mamarron, Vol.1",
-        "url": "https://open.spotify.com/album/6MEwYeSu3l3mHBoJvtp2Zy"
+        "name": "Entre Palmeras",
+        "url": "https://open.spotify.com/album/2RKnIEBWuA4z5t75lu0jxl"
       },
       "artists": [
         {
-          "name": "Los Cotopla Boyz",
-          "url": "https://open.spotify.com/artist/0YkRMiBfwJaxLp2WhSl9eV"
+          "name": "Afrosound",
+          "url": "https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv"
         }
       ],
-      "duration_ms": 320000,
-      "name": "Dame Tu Wasap",
-      "url": "https://open.spotify.com/track/7kdiYDV1BZrowuXi6eylIw"
+      "duration_ms": 163046,
+      "name": "Cumbia de E T: Extraterrestre",
+      "url": "https://open.spotify.com/track/41fp6eZoH6IDLBuxVWkHWx"
     },
     {
       "added_at": "2021-10-20 15:37:42",

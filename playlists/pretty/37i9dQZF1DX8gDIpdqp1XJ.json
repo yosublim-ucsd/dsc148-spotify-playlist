@@ -1,12 +1,12 @@
 {
   "description": "The best of modern psychedelic rock, neo-psychedelic, and psychedelic indie. Cover: Suki Waterhouse",
-  "num_followers": 871393,
+  "num_followers": 871329,
   "original_name": "Modern Psychedelia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZhixwAAAAAAiP8PwlmNG98yYEmKvRGLE",
+  "snapshot_id": "ZjRhQAAAAAAOoJxVR8jkZadJ2wb6cmiX",
   "tracks": [
     {
       "added_at": "2024-02-22 19:43:52",
@@ -91,6 +91,22 @@
       "duration_ms": 165525,
       "name": "A Room Up In The Sky (feat. The Mar\u00edas)",
       "url": "https://open.spotify.com/track/2b6tGpbflP62TnzKx9TSDu"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "I\u2019ll Go With You",
+        "url": "https://open.spotify.com/album/2gBBIlzOC8FIjjskZNniQL"
+      },
+      "artists": [
+        {
+          "name": "La Luz",
+          "url": "https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3"
+        }
+      ],
+      "duration_ms": 184196,
+      "name": "I'll Go With You",
+      "url": "https://open.spotify.com/track/0N3N1q600sON74ul6aF9O0"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -313,22 +329,6 @@
       "url": "https://open.spotify.com/track/6ZvZ26Aq1EqyPw2zitkVLZ"
     },
     {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Poppies",
-        "url": "https://open.spotify.com/album/3CaDI5YJRgCA2gaogiOXkF"
-      },
-      "artists": [
-        {
-          "name": "La Luz",
-          "url": "https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3"
-        }
-      ],
-      "duration_ms": 212075,
-      "name": "Poppies",
-      "url": "https://open.spotify.com/track/09mdfY9whnrcj5bkPJSoj2"
-    },
-    {
       "added_at": "2024-02-16 23:08:01",
       "album": {
         "name": "Fly",
@@ -343,22 +343,6 @@
       "duration_ms": 206533,
       "name": "Fly",
       "url": "https://open.spotify.com/track/32sk0nAe4tnJxSjyGylWpj"
-    },
-    {
-      "added_at": "2024-01-02 16:16:43",
-      "album": {
-        "name": "I Killed Your Dog",
-        "url": "https://open.spotify.com/album/2O01P3dwp47dyImCnTdfyo"
-      },
-      "artists": [
-        {
-          "name": "L'Rain",
-          "url": "https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn"
-        }
-      ],
-      "duration_ms": 270875,
-      "name": "5 to 8 Hours a Day (WWwaG)",
-      "url": "https://open.spotify.com/track/0SoEbU9NN28HxNAhkLDuEe"
     },
     {
       "added_at": "2024-02-16 23:08:01",

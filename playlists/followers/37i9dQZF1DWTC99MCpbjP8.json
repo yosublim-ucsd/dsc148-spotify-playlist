@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 231067,
+  "2024-05-03": 231163,
   "date_first_scraped": "2022-05-15",
   "description": "Slow down and relax with a mix of calming piano music.",
   "name": "Calm",
@@ -4212,6 +4212,24 @@
     },
     {
       "album": {
+        "name": "Juliet Rose",
+        "url": "https://open.spotify.com/album/1z8NJlHqLWNVCkh3jbpL6T"
+      },
+      "artists": [
+        {
+          "name": "A Little Time",
+          "url": "https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122406,
+      "name": "Juliet Rose",
+      "url": "https://open.spotify.com/track/5eiXYdSRFd48jBqnQrw83h"
+    },
+    {
+      "album": {
         "name": "Winter Unflorished",
         "url": "https://open.spotify.com/album/1meKAKWKJYjC4TzeGvgxA8"
       },
@@ -5647,6 +5665,24 @@
       "duration_ms": 135000,
       "name": "Mystic Lily",
       "url": "https://open.spotify.com/track/5PaxL9G0j505GkNvmb4r4x"
+    },
+    {
+      "album": {
+        "name": "Mystic Rivers",
+        "url": "https://open.spotify.com/album/2J5LFFXdwIVXxLSmm3wxej"
+      },
+      "artists": [
+        {
+          "name": "Malmkvist",
+          "url": "https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191250,
+      "name": "Mystic Rivers",
+      "url": "https://open.spotify.com/track/24qUwzHcqj4x9JIJ5FP5JO"
     },
     {
       "album": {
@@ -8218,6 +8254,24 @@
     },
     {
       "album": {
+        "name": "Sophisticated",
+        "url": "https://open.spotify.com/album/2ybmczckxP8uMWeZVaC9rK"
+      },
+      "artists": [
+        {
+          "name": "Gaspar Becerra",
+          "url": "https://open.spotify.com/artist/11Bp9FCzawV5M3HV54FRCj"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125365,
+      "name": "Sophisticated",
+      "url": "https://open.spotify.com/track/2PgpHY9g9k6ER1qEbwwFSJ"
+    },
+    {
+      "album": {
         "name": "Sostenuto",
         "url": "https://open.spotify.com/album/5bve8ozqZzt01twy16odc3"
       },
@@ -10409,6 +10463,24 @@
       "duration_ms": 157547,
       "name": "Wildflower",
       "url": "https://open.spotify.com/track/4Z9NDrWiibsmI4tw2b2XkX"
+    },
+    {
+      "album": {
+        "name": "Wind In My Hair",
+        "url": "https://open.spotify.com/album/2voHslwBPDj7eM3WJmy9pJ"
+      },
+      "artists": [
+        {
+          "name": "Carl Moir",
+          "url": "https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125610,
+      "name": "Wind In My Hair",
+      "url": "https://open.spotify.com/track/4N82ErjM4xuWYsRfPBqACk"
     },
     {
       "album": {

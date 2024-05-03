@@ -595,6 +595,28 @@
     },
     {
       "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/0MnAzPohStGYOnAODeo205"
+      },
+      "artists": [
+        {
+          "name": "Neophyte",
+          "url": "https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p"
+        },
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/7xJwFmwgqp0VKlLXt1cXjT"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170461,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/1RZw5ReZ2prm5qYxia8ANN"
+    },
+    {
+      "album": {
         "name": "Burn MF",
         "url": "https://open.spotify.com/album/3xQTtEFddnUR8jjHR36RUh"
       },
@@ -2240,7 +2262,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 181200,
       "name": "I AM",
       "url": "https://open.spotify.com/track/6GN7ZWNNqgVZl7t3dgH6ot"

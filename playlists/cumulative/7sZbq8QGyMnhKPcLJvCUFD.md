@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-536 songs - 1 day 3 hr 24 min
+537 songs - 1 day 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -506,6 +506,7 @@
 | [Waiting](https://open.spotify.com/track/5ZsVoJMUYzanwp2MZfNOvf) | [Andrew A](https://open.spotify.com/artist/01BNEFdzawMyAXoHVdtyPx), [Barmuda](https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM) | [Waiting](https://open.spotify.com/album/0xfFT55IkgeDqA3zuvyg6z) | 3:07 | 2022-12-13 | 2023-04-28 |
 | [Walk Away](https://open.spotify.com/track/6gjgucEZ3sJnWxfiqEsEhU) | [Toxic Joy](https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to), [SRY](https://open.spotify.com/artist/1Tful0EmoUktY5EOtDsoYN) | [Walk Away](https://open.spotify.com/album/4xW14rcbvAX2Z0NTZS8SPF) | 3:18 | 2023-03-15 | 2023-08-10 |
 | [Walk Away](https://open.spotify.com/track/6RbEs9k0lpjd74vCgY93yM) | [Vaskan](https://open.spotify.com/artist/6HMkNrKr3yzi4K16zRHVZn) | [Walk Away](https://open.spotify.com/album/3GvHKJ9sVH0WnYIfvFXW6q) | 3:01 | 2023-06-30 | 2023-08-10 |
+| [Want It All](https://open.spotify.com/track/6W3aytvSWp6RfbSGtTSbjY) | [MVSTAFA](https://open.spotify.com/artist/6Z7B1Ns8xEu05hFDCCwE1f), [Mqx](https://open.spotify.com/artist/59o1kyNFOv04hcGRuWhWs9) | [Want It All](https://open.spotify.com/album/16UUTrnENXTTwnRqIuLEKf) | 2:32 | 2024-05-02 |  |
 | [War Machine](https://open.spotify.com/track/6SRBp5BQJJkuzMw9aSpb8t) | [Dryskill](https://open.spotify.com/artist/5llLxfNmypH6ujbtB5ZoVN), [Max Brhon](https://open.spotify.com/artist/5DxE39K4wk15NUk2c5zpeI) | [War Machine](https://open.spotify.com/album/2NIiZjKbDekTfPAtQSwujY) | 3:17 | 2022-10-25 | 2023-08-10 |
 | [War Zone](https://open.spotify.com/track/134KuDqugUFSbDUk0kZmLk) | [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I), [M.I.M.E](https://open.spotify.com/artist/1RdQK73ZgvXjkaBJkibE6X) | [War Zone](https://open.spotify.com/album/7rlRz6xYkbFHIGGxMOvuB2) | 3:03 | 2023-08-08 | 2023-12-14 |
 | [Waves](https://open.spotify.com/track/6qp33z152vB5FvAcjRhqvw) | [AC13](https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn), [Comma Dee](https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY) | [Waves](https://open.spotify.com/album/2XcoOnNaaDZ86i5F3RdP2g) | 4:27 | 2023-12-13 | 2024-02-28 |

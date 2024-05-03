@@ -1,12 +1,12 @@
 {
-  "description": "This Is Alejandro Fern\u00e1ndez. Los temas esenciales, todos en una lista.",
-  "num_followers": 791642,
+  "description": "This Is Alejandro Fern\u00e1ndez. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
+  "num_followers": 791753,
   "original_name": "This Is Alejandro Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjA0gAAAAADW+cTv/RjwFyjn07O9uiU0",
+  "snapshot_id": "ZjGGAAAAAACHg+0W59m3usseQz5uAgCo",
   "tracks": [
     {
       "added_at": null,
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Muy Dentro De Mi Corazon",
-        "url": "https://open.spotify.com/album/1MjXsi8NTPsYXwjhcbdolj"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 178160,
-      "name": "Es la Mujer",
-      "url": "https://open.spotify.com/track/3XZzWPnm0h00FAxiIbTvnd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Or\u00edgenes",
         "url": "https://open.spotify.com/album/7BV29ZA45jWvqMY9CuRNvl"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 194693,
       "name": "Si T\u00fa No Vuelves",
       "url": "https://open.spotify.com/track/36R1CyVJGuQSR8YwlRW3zv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Muy Dentro De Mi Corazon",
+        "url": "https://open.spotify.com/album/1MjXsi8NTPsYXwjhcbdolj"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 178160,
+      "name": "Es la Mujer",
+      "url": "https://open.spotify.com/track/3XZzWPnm0h00FAxiIbTvnd"
     },
     {
       "added_at": null,

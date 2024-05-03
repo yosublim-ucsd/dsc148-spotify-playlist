@@ -1,12 +1,12 @@
 {
-  "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
-  "num_followers": 513275,
+  "description": "This Is Bob Dylan. Los temas esenciales, todos en una lista.",
+  "num_followers": 513348,
   "original_name": "This Is Bob Dylan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zi7jAAAAAACGqz0y7BLOBNw8bkSSykKv",
+  "snapshot_id": "ZjGGAAAAAAATw3NsXS9kojhXrqXEyOyz",
   "tracks": [
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bob Dylan",
-        "url": "https://open.spotify.com/album/5k63xxy9YcKM0H9GS3vP1K"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Song to Woody",
-      "url": "https://open.spotify.com/track/0dfdXhBg11XA16XgAEtFcN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Freewheelin' Bob Dylan",
         "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 412200,
       "name": "A Hard Rain's A-Gonna Fall",
       "url": "https://open.spotify.com/track/7ny2ATvjtKszCpLpfsGnVQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bob Dylan",
+        "url": "https://open.spotify.com/album/5k63xxy9YcKM0H9GS3vP1K"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Song to Woody",
+      "url": "https://open.spotify.com/track/0dfdXhBg11XA16XgAEtFcN"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infidels",
-        "url": "https://open.spotify.com/album/66zadu7BtUnpbkT4iAkaHy"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 376160,
-      "name": "Jokerman",
-      "url": "https://open.spotify.com/track/6cuHkcRUqtQhtJ4sWCkd1q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Freewheelin' Bob Dylan",
         "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 107226,
       "name": "Oxford Town",
       "url": "https://open.spotify.com/track/7Ay1lHxhuM33NoXKsS0iom"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Infidels",
+        "url": "https://open.spotify.com/album/66zadu7BtUnpbkT4iAkaHy"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 376160,
+      "name": "Jokerman",
+      "url": "https://open.spotify.com/track/6cuHkcRUqtQhtJ4sWCkd1q"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Another Side Of Bob Dylan",
-        "url": "https://open.spotify.com/album/3q1W9iVdyuwVOGKn696Oh0"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 214440,
-      "name": "It Ain't Me Babe",
-      "url": "https://open.spotify.com/track/5nbNWAfT1S6V1vqj3snHxS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Times They Are A-Changin'",
         "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
       },
@@ -699,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Another Side Of Bob Dylan",
+        "url": "https://open.spotify.com/album/3q1W9iVdyuwVOGKn696Oh0"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 214440,
+      "name": "It Ain't Me Babe",
+      "url": "https://open.spotify.com/track/5nbNWAfT1S6V1vqj3snHxS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Oh Mercy",
         "url": "https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689"
       },
@@ -711,22 +711,6 @@
       "duration_ms": 273200,
       "name": "Man in the Long Black Coat",
       "url": "https://open.spotify.com/track/5NtOAfnwkKo7eAGq7Uap3J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music Legends Bob Dylan : The Poet's Folk Hits",
-        "url": "https://open.spotify.com/album/0Tua8H6QtqZjJjhX1P8Wwc"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 180269,
-      "name": "Man of Constant Sorrow",
-      "url": "https://open.spotify.com/track/1TEO2fqo8WfS6P1XoAnKUv"
     },
     {
       "added_at": null,
@@ -747,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Freewheelin' Bob Dylan",
+        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 271360,
+      "name": "Masters of War",
+      "url": "https://open.spotify.com/track/7xVpkVkd1klTzLJEysIR7z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE"
       },
@@ -759,6 +759,22 @@
       "duration_ms": 180800,
       "name": "Mozambique",
       "url": "https://open.spotify.com/track/1gpQMd0R3blMSn8vhXU0Uu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music Legends Bob Dylan : The Poet's Folk Hits",
+        "url": "https://open.spotify.com/album/0Tua8H6QtqZjJjhX1P8Wwc"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 180269,
+      "name": "Man of Constant Sorrow",
+      "url": "https://open.spotify.com/track/1TEO2fqo8WfS6P1XoAnKUv"
     },
     {
       "added_at": null,
@@ -823,22 +839,6 @@
       "duration_ms": 309936,
       "name": "House of the Risin' Sun",
       "url": "https://open.spotify.com/track/647lCwgfjMjzeZVEblEq09"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Time Out Of Mind",
-        "url": "https://open.spotify.com/album/185DHT5SvszXRrezx3lOjt"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 387733,
-      "name": "Not Dark Yet",
-      "url": "https://open.spotify.com/track/1qbn6QrHG8XfnqVFKgNzKP"
     }
   ],
   "unique_name": "This Is Bob Dylan",

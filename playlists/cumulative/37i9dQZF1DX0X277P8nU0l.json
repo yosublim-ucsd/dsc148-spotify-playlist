@@ -1559,6 +1559,24 @@
     },
     {
       "album": {
+        "name": "Gutter",
+        "url": "https://open.spotify.com/album/3XyMHb03KKtVk7D2mGszuz"
+      },
+      "artists": [
+        {
+          "name": "Sarah Cothran",
+          "url": "https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161562,
+      "name": "Gutter",
+      "url": "https://open.spotify.com/track/5MXEn2jPe9fZdSeasG69g4"
+    },
+    {
+      "album": {
         "name": "Gypsy Woman",
         "url": "https://open.spotify.com/album/5VzSfeb30ZJPPlxaganX9u"
       },
@@ -1868,6 +1886,24 @@
       "duration_ms": 214088,
       "name": "Imaan",
       "url": "https://open.spotify.com/track/5xvYNmS5yLJr5Z18P25DYR"
+    },
+    {
+      "album": {
+        "name": "Insecure",
+        "url": "https://open.spotify.com/album/4Dj67Y8bsAfGzUYYCOPrbw"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195106,
+      "name": "Insecure",
+      "url": "https://open.spotify.com/track/3tLVfEh8kJhMkDaxvOzK1M"
     },
     {
       "album": {
@@ -2222,7 +2258,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 209680,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/3aiMthkGe3NgAEeaQywc2E"
@@ -2680,6 +2716,24 @@
       "duration_ms": 172080,
       "name": "Nightingale",
       "url": "https://open.spotify.com/track/1eTaEGlZoe2N4B7nfsYbHW"
+    },
+    {
+      "album": {
+        "name": "If Only + No One Noticed",
+        "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236906,
+      "name": "No One Noticed",
+      "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
     },
     {
       "album": {
@@ -3364,7 +3418,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 244271,
       "name": "Sleeper",
       "url": "https://open.spotify.com/track/5UWJ898JHDe9Ong9Gnkdhd"
@@ -3788,7 +3842,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 160058,
       "name": "Teach Me",
       "url": "https://open.spotify.com/track/69C61BkstEREBdizQrgbQi"

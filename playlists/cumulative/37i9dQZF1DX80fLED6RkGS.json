@@ -3563,6 +3563,44 @@
     },
     {
       "album": {
+        "name": "Kudade (Fancy Fingers Refix)",
+        "url": "https://open.spotify.com/album/5K9DKeLWrpVl5W0GzUA5ju"
+      },
+      "artists": [
+        {
+          "name": "Fancy Fingers",
+          "url": "https://open.spotify.com/artist/6GKFK8rXiyBshmwi6CMm0y"
+        },
+        {
+          "name": "JohnnyJohnny",
+          "url": "https://open.spotify.com/artist/3ag7A8dU7kabvBIyTiIP3H"
+        },
+        {
+          "name": "Fathermoh",
+          "url": "https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA"
+        },
+        {
+          "name": "NDOVU KUU",
+          "url": "https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP"
+        },
+        {
+          "name": "Harry Craze",
+          "url": "https://open.spotify.com/artist/2lf45VLBUxoX6W9CE718cp"
+        },
+        {
+          "name": "Lilmaina",
+          "url": "https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "Kudade - Fancy Fingers Refix",
+      "url": "https://open.spotify.com/track/1R74ifptJ17EjVxpoqhBTP"
+    },
+    {
+      "album": {
         "name": "Kudonjo Kudunda",
         "url": "https://open.spotify.com/album/37hIKRBLIM3k4PIHPXrSZ9"
       },
@@ -8050,7 +8088,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 166103,
       "name": "Wivu",
       "url": "https://open.spotify.com/track/3E8paT7Cseo3B1vZlXlMku"

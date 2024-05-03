@@ -1,12 +1,12 @@
 {
   "description": "This Is Banda Los Recoditos. Los temas esenciales, todos en una lista.",
-  "num_followers": 190725,
+  "num_followers": 190748,
   "original_name": "This Is Banda Los Recoditos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjA0gAAAAABuz5xVpodHMyVfi0uqeo6m",
+  "snapshot_id": "ZjGGAAAAAADwqly68Qe1riV7dgwTyjI+",
   "tracks": [
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Toda Madre",
-        "url": "https://open.spotify.com/album/1wQmPnmTyFBI0DSAkQUmzy"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 132106,
-      "name": "Que A Toda Madre (Que A Todo Dar)",
-      "url": "https://open.spotify.com/track/2Av3o4sAszUWUS6WAEsXij"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Bandas Rom\u00e1nticas",
         "url": "https://open.spotify.com/album/02ppLOUh6pj8fV2JGEoLGN"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 161053,
       "name": "Aqu\u00ed Me Quedar\u00e9",
       "url": "https://open.spotify.com/track/485sSGINa482vFsad9LLpJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Toda Madre",
+        "url": "https://open.spotify.com/album/1wQmPnmTyFBI0DSAkQUmzy"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 132106,
+      "name": "Que A Toda Madre (Que A Todo Dar)",
+      "url": "https://open.spotify.com/track/2Av3o4sAszUWUS6WAEsXij"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Toda Madre",
-        "url": "https://open.spotify.com/album/1wQmPnmTyFBI0DSAkQUmzy"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 141280,
-      "name": "Voy A Pistear",
-      "url": "https://open.spotify.com/track/3htX61NfCT8CGg6m0VFoUJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Una Peda Con El Viejo",
         "url": "https://open.spotify.com/album/06veMmIctzxEgh8oubKTUX"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 150906,
       "name": "Una Peda Con El Viejo",
       "url": "https://open.spotify.com/track/21hGjxRr4AKTmHsh84ayOw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Toda Madre",
+        "url": "https://open.spotify.com/album/1wQmPnmTyFBI0DSAkQUmzy"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 141280,
+      "name": "Voy A Pistear",
+      "url": "https://open.spotify.com/track/3htX61NfCT8CGg6m0VFoUJ"
     },
     {
       "added_at": null,
@@ -811,6 +811,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vengo A Decirte",
+        "url": "https://open.spotify.com/album/0CnvKmPlj5MYRyWySTAODw"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 178173,
+      "name": "Es Bonito",
+      "url": "https://open.spotify.com/track/37yaX9Lb6lelIodevWgR9T"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Toda Madre",
         "url": "https://open.spotify.com/album/1wQmPnmTyFBI0DSAkQUmzy"
       },
@@ -827,8 +843,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vengo A Decirte",
-        "url": "https://open.spotify.com/album/0CnvKmPlj5MYRyWySTAODw"
+        "name": "Las Bandas Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/02ppLOUh6pj8fV2JGEoLGN"
       },
       "artists": [
         {
@@ -836,9 +852,9 @@
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 178173,
-      "name": "Es Bonito",
-      "url": "https://open.spotify.com/track/37yaX9Lb6lelIodevWgR9T"
+      "duration_ms": 139000,
+      "name": "\u00bfCu\u00e1nto Cuesta?",
+      "url": "https://open.spotify.com/track/78gyWuojzXoH8J9q9M22Vw"
     },
     {
       "added_at": null,
@@ -859,22 +875,6 @@
       "duration_ms": 191040,
       "name": "Tacones Rojos - Versi\u00f3n Banda",
       "url": "https://open.spotify.com/track/2FQU2RwRs9dBzp27a8zaSL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las Bandas Rom\u00e1nticas",
-        "url": "https://open.spotify.com/album/02ppLOUh6pj8fV2JGEoLGN"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "\u00bfCu\u00e1nto Cuesta?",
-      "url": "https://open.spotify.com/track/78gyWuojzXoH8J9q9M22Vw"
     },
     {
       "added_at": null,

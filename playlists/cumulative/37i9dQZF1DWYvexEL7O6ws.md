@@ -4,7 +4,7 @@
 
 > The label's essential tracks by Drake, PARTYNEXTDOOR, Naomi Sharon, Roy Woods, dvsn, and more\. Cover: <a href="spotify:artist:3TVXtAsR1Inumwj472S9r4">Drake</a> and Noah "40" Shebib
 
-163 songs - 10 hr 20 min
+164 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Break from Toronto](https://open.spotify.com/track/79MSEdtXuudhGhC5AtG07g) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR](https://open.spotify.com/album/4EZoN6mRXNcGxHXZC2doJH) | 1:39 | 2024-04-12 |  |
 | [Bubbly](https://open.spotify.com/track/0tfRSZFPMrZk9R92erxBea) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Bubbly](https://open.spotify.com/album/3RGpBhfGQbk6EiQ1n3QGLv) | 3:50 | 2023-06-01 | 2024-04-19 |
 | [Bubbly](https://open.spotify.com/track/2rGgIteiX209jWcsbS1MXq) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Bubbly](https://open.spotify.com/album/61EUToVfhT7of9Dnd6WP1O) | 3:50 | 2024-04-12 |  |
+| [C h e e r s](https://open.spotify.com/track/6OyOjq2nMELgQX7GspwXlR) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:54 | 2024-05-02 |  |
 | [Caught Up \(feat\. Khalid\)](https://open.spotify.com/track/1opARDDYaOeE1QUdwXmBGu) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Caught Up \(feat\. Khalid\)](https://open.spotify.com/album/3LHVZayhkrZPdryYqJ5JZu) | 4:07 | 2024-04-12 |  |
 | [Caught Up \(feat\. Khalid\)](https://open.spotify.com/track/6zEthnyBtXMlXcxAvINpqA) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Caught Up \(feat\. Khalid\)](https://open.spotify.com/album/0xTQeRp5QWWSuGFgZhwIi2) | 4:07 | 2023-06-01 | 2024-04-19 |
 | [Celebrate \(feat\. Black Sherif\)](https://open.spotify.com/track/1HEEnDxmxHvrAddczaWS48) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Great Is He \(Deluxe\)](https://open.spotify.com/album/32vNuIiZ5Q4wh6FDsq1y0o) | 3:47 | 2023-06-01 |  |
@@ -121,7 +122,7 @@
 | [Promise](https://open.spotify.com/track/463bXPAQF7xkUg7i8uUYW5) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Vanquish](https://open.spotify.com/album/05h84nlrmNAjh083dnULzt) | 3:14 | 2023-06-01 | 2023-07-16 |
 | [Push \(feat\. Omah Lay\)](https://open.spotify.com/track/13ks10TjWmDaVL4iO8R5dV) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Obsidian](https://open.spotify.com/album/4545KLMxMvi6RBnNRe58t6) | 2:42 | 2023-10-20 |  |
 | [Push Ups](https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Push Ups](https://open.spotify.com/album/06me0leRR3AuF4IFiEytml) | 3:52 | 2024-04-26 |  |
-| [put yo gun 2 use ontheradar freestyle](https://open.spotify.com/track/2zDIscsZmt8z44nf3UFMxh) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [put yo gun 2 use ontheradar freestyle](https://open.spotify.com/album/3Q24WaPqlNQVBI0aM7g0n3) | 2:01 | 2024-04-12 |  |
+| [put yo gun 2 use ontheradar freestyle](https://open.spotify.com/track/2zDIscsZmt8z44nf3UFMxh) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [put yo gun 2 use ontheradar freestyle](https://open.spotify.com/album/3Q24WaPqlNQVBI0aM7g0n3) | 2:01 | 2024-04-12 | 2024-05-03 |
 | [R e a l W o m a n](https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e a l W o m a n](https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE) | 3:14 | 2024-03-18 |  |
 | [R e s e n t m e n t](https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e s e n t m e n t](https://open.spotify.com/album/6mHQX0imf1GfctUD5cQEWi) | 3:44 | 2023-07-15 |  |
 | [Recognize \(feat\. Drake\)](https://open.spotify.com/track/1DMYEiuAgz1OKvANXiNFrN) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 5:11 | 2023-06-01 | 2024-04-19 |

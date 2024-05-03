@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 1445,
+  "2024-05-03": 1448,
   "date_first_scraped": "2022-05-30",
   "description": "This is Clara Rockmore. The essential tracks, all in one playlist.",
   "name": "This Is Clara Rockmore",
@@ -129,7 +129,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 153026,
       "name": "3 Old Viennese Dances: No. 2, Liebesleid (Arr. for Theremin & Piano)",
       "url": "https://open.spotify.com/track/5vPIY9UAHmOux60VpRV26j"
@@ -911,7 +911,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-01",
+      "date_removed": null,
       "duration_ms": 236413,
       "name": "Nocturne in C-Sharp Minor, B. 49 (Arr. for Theremin & Piano)",
       "url": "https://open.spotify.com/track/4sWMZ7MWDd2OZCD9FIEEos"
@@ -993,7 +993,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-29",
+      "date_removed": null,
       "duration_ms": 335266,
       "name": "Orchestral Suite No. 3 in D Major, BWV 1068: II. Air (Arr. for Theremin & Piano)",
       "url": "https://open.spotify.com/track/3krMUmuI784j9G2IDIZ9wc"
@@ -1103,7 +1103,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 167253,
       "name": "Porgy and Bess, Act I Scene 1: Summertime (Arr. for Theremin & Piano)",
       "url": "https://open.spotify.com/track/0jioCLgkOZzXhb5yYgdfpL"

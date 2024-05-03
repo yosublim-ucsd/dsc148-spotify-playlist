@@ -1,6 +1,6 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 61558,
+  "num_followers": 61594,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
-        "name": "Love, Luther",
-        "url": "https://open.spotify.com/album/6jef6FlX6dgn07Ofvd1gVu"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 339506,
-      "name": "Never Too Much - 12\" Version",
-      "url": "https://open.spotify.com/track/7tHT1v3DPsPCJV8U6DQOtQ"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
         "name": "The Essential Evelyn \"Champagne\" King",
         "url": "https://open.spotify.com/album/4BlJ6291OlTOAKnnXJMIQI"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 391693,
       "name": "Shame - 12\" Disco Mix",
       "url": "https://open.spotify.com/track/0QewO59ixTHz3bsa4mRHup"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "Love, Luther",
+        "url": "https://open.spotify.com/album/6jef6FlX6dgn07Ofvd1gVu"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 339506,
+      "name": "Never Too Much - 12\" Version",
+      "url": "https://open.spotify.com/track/7tHT1v3DPsPCJV8U6DQOtQ"
     },
     {
       "added_at": "2024-02-12 15:00:21",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
-        "name": "Club Columbia",
-        "url": "https://open.spotify.com/album/6g7JRPx6SdrEDLQS2fQcsI"
-      },
-      "artists": [
-        {
-          "name": "Jackie Moore",
-          "url": "https://open.spotify.com/artist/1EialtL6J5R7O0exgdgQ1w"
-        }
-      ],
-      "duration_ms": 433093,
-      "name": "This Time Baby - Special 12\" Version",
-      "url": "https://open.spotify.com/track/1Ywkbr13F7cOzwHs8QKknI"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
         "name": "The Essential Johnny Mathis",
         "url": "https://open.spotify.com/album/4KM9hhWCgasx9j7y3NogNv"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 258253,
       "name": "Begin the Beguine",
       "url": "https://open.spotify.com/track/2hLAqf6uB6QusEUHfDf5oi"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "Club Columbia",
+        "url": "https://open.spotify.com/album/6g7JRPx6SdrEDLQS2fQcsI"
+      },
+      "artists": [
+        {
+          "name": "Jackie Moore",
+          "url": "https://open.spotify.com/artist/1EialtL6J5R7O0exgdgQ1w"
+        }
+      ],
+      "duration_ms": 433093,
+      "name": "This Time Baby - Special 12\" Version",
+      "url": "https://open.spotify.com/track/1Ywkbr13F7cOzwHs8QKknI"
     },
     {
       "added_at": "2024-02-12 15:00:21",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
-        "name": "Reddy",
-        "url": "https://open.spotify.com/album/7fX7vwOqp6YRQ3ZQcJR3xI"
-      },
-      "artists": [
-        {
-          "name": "Helen Reddy",
-          "url": "https://open.spotify.com/artist/0Sq7oGrYEe0BDmb13wgjOO"
-        }
-      ],
-      "duration_ms": 399200,
-      "name": "Make Love To Me",
-      "url": "https://open.spotify.com/track/1tUNwvT6XuZU8I3yOPwkNm"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
         "name": "The Best of Candi Staton",
         "url": "https://open.spotify.com/album/3cb3mTuLI8rwHFxLozs8fg"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 317480,
       "name": "Victim",
       "url": "https://open.spotify.com/track/4YPsI3caCo9mOsqI3tc6hv"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "Reddy",
+        "url": "https://open.spotify.com/album/7fX7vwOqp6YRQ3ZQcJR3xI"
+      },
+      "artists": [
+        {
+          "name": "Helen Reddy",
+          "url": "https://open.spotify.com/artist/0Sq7oGrYEe0BDmb13wgjOO"
+        }
+      ],
+      "duration_ms": 399200,
+      "name": "Make Love To Me",
+      "url": "https://open.spotify.com/track/1tUNwvT6XuZU8I3yOPwkNm"
     },
     {
       "added_at": "2024-02-12 15:00:21",

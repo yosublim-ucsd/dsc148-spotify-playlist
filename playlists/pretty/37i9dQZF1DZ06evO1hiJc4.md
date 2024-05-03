@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hiJc4.md) - [plain]
 
 ### [This Is Labrinth](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1hiJc4)
 
-> This Is Labrinth\. Los temas esenciales, todos en una lista.
+> This is Labrinth\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,390 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,441 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hiJc4.md) - [plain]
 | 49 | [Welcome To The Kitchen](https://open.spotify.com/track/4z4gjb8B78l03WVnPvcTCN) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Alex Baranowski](https://open.spotify.com/artist/25ZtHjSjM5LJckzidujhoQ) | [The Kitchen \(Score from the Netflix Film\)](https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf) | 1:53 |
 | 50 | [Fun At The Alley](https://open.spotify.com/track/0njtFgDso6x7h9aZ8SPNET) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 2:04 |
 
-Snapshot ID: `ZjA0gAAAAABh5r2lt9QS5UHgUhwzkgmb`
+Snapshot ID: `ZjGGAAAAAACc+H8HXvUFdGcdWBk+onjk`

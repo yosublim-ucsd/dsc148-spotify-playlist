@@ -4,10 +4,11 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-941 songs - 2 day 19 hr 32 min
+942 songs - 2 day 19 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| ["I Know"](https://open.spotify.com/track/6KhrLvknvr3aSlF1qBf6nL) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Challengers \(Original Score\)](https://open.spotify.com/album/2NHhf3qtcoVPDEb03G8RFv) | 2:18 | 2024-05-02 |  |
 | [1 18\. 13 1 14 5 18\. 11 15 26 8](https://open.spotify.com/track/71352qWlxI4t5Wj3YsVvAR) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [11 5 18 2 5 18](https://open.spotify.com/album/03h9BDKxEwdYRpH5uZ2bS0) | 4:23 | 2024-04-19 |  |
 | [14](https://open.spotify.com/track/0g2E4GVRbs4XHy96dLiv9V) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [1989](https://open.spotify.com/album/41untqRtFjqcOw1gEdMIop) | 4:59 | 2019-06-19\* | 2021-05-23 |
 | [1989 \(feat\. Ludwig Kölsch\)](https://open.spotify.com/track/6rrwmDaDa3n7hgQruR3dc1) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Ludwig Kölsch](https://open.spotify.com/artist/067CLGy5KVqspnGEvIWTp8) | [1989](https://open.spotify.com/album/41untqRtFjqcOw1gEdMIop) | 0:59 | 2019-06-19\* | 2020-08-26 |
@@ -817,7 +818,7 @@
 | [The Frequency of the Universe](https://open.spotify.com/track/5KfM7YEZPwfW7ooacdlJmm) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Breathing Tides](https://open.spotify.com/album/7eNWltkpqeyaNNnbQkbOWt) | 3:45 | 2024-02-02 | 2024-04-19 |
 | [The Frontier \(High Desert Synthapella\)](https://open.spotify.com/track/2YHCMi1Jh6jeI5Y8jl4FZp) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Whities 006](https://open.spotify.com/album/65lnxFX6QyjxKTuBmnGP7P) | 2:21 | 2019-05-26\* | 2022-04-20 |
 | [The Ladder](https://open.spotify.com/track/0mThH0uqT9pmj5cCS7Oeoj) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [The Ladder](https://open.spotify.com/album/42EOGihk8LGxmFHtTHPLSi) | 5:33 | 2022-01-14 |  |
-| [The Last Dance \- Synthapella](https://open.spotify.com/track/5aK6dgeUUB12XBgOryteAa) | [Eagles & Butterflies](https://open.spotify.com/artist/7lzrNOBAdfH8f4nVAWbRfk) | [Art Imitating Life Vol\. 3](https://open.spotify.com/album/5VCPysx5j3ZDlfUBwcfAja) | 2:41 | 2019-06-19\* |  |
+| [The Last Dance \- Synthapella](https://open.spotify.com/track/5aK6dgeUUB12XBgOryteAa) | [Eagles & Butterflies](https://open.spotify.com/artist/7lzrNOBAdfH8f4nVAWbRfk) | [Art Imitating Life Vol\. 3](https://open.spotify.com/album/5VCPysx5j3ZDlfUBwcfAja) | 2:41 | 2019-06-19\* | 2024-05-03 |
 | [The Last Transmission](https://open.spotify.com/track/3CcSeZN4cDf9OExYqk4jNE) | [Mat Zo](https://open.spotify.com/artist/2n7USVO8fO8FF8zq4kG2N1) | [Self Assemble](https://open.spotify.com/album/3VTsUSpxRioGRjfsRtBVI2) | 1:36 | 2019-06-23 | 2020-10-22 |
 | [The Letter](https://open.spotify.com/track/0qtzX6ymRSirdMI0GKT4dr) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Letter EP](https://open.spotify.com/album/0pDU80aYAzmj4FsJ9916ke) | 3:55 | 2023-11-17 | 2024-04-19 |
 | [The Letter](https://open.spotify.com/track/6Drks6dbqYCZ303NPH4c6T) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Letter EP](https://open.spotify.com/album/5eYaBLIloQrnSXeJsv0nms) | 3:55 | 2020-11-07 | 2023-11-05 |

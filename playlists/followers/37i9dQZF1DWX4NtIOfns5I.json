@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 104861,
+  "2024-05-03": 105842,
   "date_first_scraped": "2023-10-07",
   "description": "where folk flowers bloom. cover: tiny habits",
   "name": "juniper",
@@ -503,7 +503,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 235133,
       "name": "Co-Pathetic",
       "url": "https://open.spotify.com/track/6eI1uc8HMy4SYp133fF94C"
@@ -1655,7 +1655,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 238706,
       "name": "How Did It End?",
       "url": "https://open.spotify.com/track/5Bedn0svl0ZD7RGmJkmKKw"
@@ -2265,6 +2265,24 @@
       "duration_ms": 246000,
       "name": "Looking For",
       "url": "https://open.spotify.com/track/26g47GCoXN75w2GAGKmr7F"
+    },
+    {
+      "album": {
+        "name": "Lose You Now",
+        "url": "https://open.spotify.com/album/1s2RfYJTmgabctpG6GJBOG"
+      },
+      "artists": [
+        {
+          "name": "Lily Fitts",
+          "url": "https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198572,
+      "name": "Lose You Now",
+      "url": "https://open.spotify.com/track/4WurkARkUZaKRXiPjYioHe"
     },
     {
       "album": {
@@ -3141,6 +3159,24 @@
       "duration_ms": 168461,
       "name": "resentme2",
       "url": "https://open.spotify.com/track/6ubGK2bazBd5iOCvRAmudE"
+    },
+    {
+      "album": {
+        "name": "Risk",
+        "url": "https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191566,
+      "name": "Risk",
+      "url": "https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY"
     },
     {
       "album": {

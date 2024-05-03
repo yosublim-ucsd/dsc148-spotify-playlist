@@ -4,7 +4,7 @@
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: kamaitachi
 
-143 songs - 8 hr 41 min
+145 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Como Esquecer De Você](https://open.spotify.com/track/3vw7tup826gbSI2dIzLZD9) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [Ao Vivo Em Paranavaí \- Vol\. 3](https://open.spotify.com/album/2BIit8ROWteatmlkMG0KEy) | 3:28 | 2023-07-21 | 2023-09-16 |
 | [Conto os Dias](https://open.spotify.com/track/3gBHnHw9GqHAPocOcNihrN) | [Lucas Mamede](https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD) | [Conto os Dias](https://open.spotify.com/album/6KMOOty14Oqm0zfWsclTXB) | 3:23 | 2023-07-21 |  |
 | [Damage Gets Done \(feat\. Brandi Carlile\)](https://open.spotify.com/track/2OLaeJRrRjFgLfTsccnzlM) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:28 | 2023-08-18 | 2023-09-02 |
-| [dear god](https://open.spotify.com/track/39HJJEgUFZcnhH4ziSqomg) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 2:12 | 2023-07-21 |  |
+| [dear god](https://open.spotify.com/track/39HJJEgUFZcnhH4ziSqomg) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 2:12 | 2023-07-21 | 2024-05-03 |
 | [Desculpa te Ligar \- Versão Estendida, Ao Vivo](https://open.spotify.com/track/2gJaKTrXgaNQzAbNRCJSkK) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Desculpa te Ligar \(Versão Estendida, Ao Vivo\)](https://open.spotify.com/album/0ZcuzvxFwJXLhiidHmPJDQ) | 3:28 | 2023-08-04 | 2023-08-19 |
 | [Destroy Myself Just For You](https://open.spotify.com/track/40Fmr4mXhz4PtrMAPTnoXB) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:26 | 2023-07-21 | 2023-08-26 |
 | [Dois Mundos](https://open.spotify.com/track/0yWPnJ50IOP1Vbzf3jYxbX) | [Fabio Cadore](https://open.spotify.com/artist/2wG1MDWKCj8pxBuDG6NNbp), [Tulio Freitas](https://open.spotify.com/artist/1jDI5QIP2tPVrFDqwQY4Dj) | [Dois Mundos](https://open.spotify.com/album/64ZYrxz7k8QunMzLd3Wrcv) | 4:17 | 2023-07-21 | 2024-03-16 |
@@ -74,6 +74,7 @@
 | [Lá Fora](https://open.spotify.com/track/3U0PI7XB2PQCI2Z4rAopZJ) | [Rafa Valle](https://open.spotify.com/artist/0OcnZHMbddFEVbOxNPG5l2) | [Lá Fora](https://open.spotify.com/album/6sSnpqf9EEo1Nz0yBwvzjx) | 3:22 | 2023-07-21 | 2023-08-26 |
 | [Mais um Trabalhador](https://open.spotify.com/track/3OPgYlZ4aCCH3VLtzEoNtZ) | [BÁRBARA SILVA](https://open.spotify.com/artist/2wtqSDlZaxdRlek9nNF5XV) | [Mais um Trabalhador](https://open.spotify.com/album/6YV5T7aupc4j63nw1e3r8d) | 3:19 | 2023-07-21 |  |
 | [Marvin \- Microfonado](https://open.spotify.com/track/56IzuFMzZfr343rQyvFdpW) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Marvin \(Microfonado\)](https://open.spotify.com/album/3AlCkEugY2m9apDEJZJS9j) | 3:39 | 2024-04-26 |  |
+| [Memórias](https://open.spotify.com/track/4rHISiwlhhO5bIdkCOjd26) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG), [Traia Véia](https://open.spotify.com/artist/0FMBXfGasuAjdpsCs7zgju) | [Memórias](https://open.spotify.com/album/0ckBKXD4UEGH9ZWo0G7cap) | 3:49 | 2024-05-03 |  |
 | [Menina Linda](https://open.spotify.com/track/1YnLOI6vNwFKUPD0Ym1zQg) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [A Bolha](https://open.spotify.com/album/02G0M9OAq48KLDJ06m6eRU) | 3:00 | 2024-04-19 |  |
 | [Menina Linda](https://open.spotify.com/track/7HUiek8MyBiLGM33NzgUSm) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [A Bolha](https://open.spotify.com/album/26Tbxt6xagipSQItYUBCeE) | 3:00 | 2023-07-21 | 2024-04-19 |
 | [Mercado](https://open.spotify.com/track/18o5wKZ5M3onKU69OZD5Cs) | [Terno Rei](https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF) | [B\-Sides Gêmeos](https://open.spotify.com/album/1ef3KBKANvCTkDauRecAa5) | 3:06 | 2023-07-21 | 2023-08-05 |
@@ -141,6 +142,7 @@
 | [The Luck You Had](https://open.spotify.com/track/1JwNYCTj60VuK5WK18PkTb) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [The Luck You Had](https://open.spotify.com/album/5ys6y6yA21dn4kIZ5ud0T2) | 4:24 | 2023-07-21 | 2023-08-26 |
 | [Tons De Blue \- Faixa Bônus](https://open.spotify.com/track/0ZYkFogckBfd6142gFg3pV) | [Suricato](https://open.spotify.com/artist/35j8oMehl8Q9mLnVmkVqMC) | [Marshmallow Flor De Sal \(Deluxe\)](https://open.spotify.com/album/5GvOW673J6ctNmV7a23nNm) | 4:01 | 2023-07-21 | 2024-04-13 |
 | [Touchline](https://open.spotify.com/track/2AZVRikFuNWo0H8P85Xzmx) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Tears Of Hercules](https://open.spotify.com/album/2sjLgnR7JeVPRayrFoYjHs) | 3:55 | 2023-07-21 | 2024-01-27 |
+| [um bar, um shot, um começo](https://open.spotify.com/track/41TEbGzlsA7vm01I7egF7I) | [Playmoboys](https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw) | [um bar, um shot, um começo](https://open.spotify.com/album/4sdSxG6ySgmn4vtessDHUH) | 3:29 | 2024-05-03 |  |
 | [VALENTINE](https://open.spotify.com/track/5mY6WIHXoBsOCSyQxrTg0E) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH! \(ARE U COMING?\)](https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8) | 3:36 | 2023-11-10 |  |
 | [Vamos Fingir](https://open.spotify.com/track/6jiJdUBGnuy2YvsxIEXCaw) | [Tuono](https://open.spotify.com/artist/3RX3nIvUvzoHh7QP0q7dvL) | [Vamos Fingir](https://open.spotify.com/album/0lhKXLSqmeibVuf9thBqP8) | 4:26 | 2023-07-21 |  |
 | [vc n é o john mayer \(rlx\)](https://open.spotify.com/track/24SPEfSSe9B2F4Nj4KKI8u) | [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [vc n é o john mayer \(rlx\)](https://open.spotify.com/album/7q4WiIKtDXeRvM49ADVaeW) | 2:27 | 2023-07-21 | 2023-09-09 |
@@ -150,6 +152,6 @@
 | [Vou Te Encontrar \- Ao Vivo](https://open.spotify.com/track/06gvb63lSSb4uAIwQIlieF) | [Paulo Miklos](https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe) | [Vou Te Encontrar \(Ao Vivo\)](https://open.spotify.com/album/5ImqZSq0E0Q5GGs9V6vvLr) | 4:30 | 2024-04-05 |  |
 | [Wake Me Up \- Ao Vivo](https://open.spotify.com/track/2iY03xBQP66ShlxLe6h70V) | [Dr\. Sin](https://open.spotify.com/artist/4YtYp2wFYIgdNsLWo6rM3D) | [Acustico Dr\. Sin 1 \(Ao Vivo\)](https://open.spotify.com/album/64pzulPMXejjXaT7OnDlXm) | 4:34 | 2024-03-22 |  |
 | [Wishbone](https://open.spotify.com/track/5kmyEZWbvN68yERmQq3PM5) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Wishbone](https://open.spotify.com/album/3epsVwCw6BGWKBa3kplHRr) | 2:52 | 2023-09-08 | 2023-10-14 |
-| [Your Song Saved My Life \- From Sing 2](https://open.spotify.com/track/4fcbxnnfUycb7fJAInJOob) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Your Song Saved My Life \(From Sing 2\)](https://open.spotify.com/album/0lgSYiY3qT4Q9myulgxhAu) | 3:30 | 2023-07-21 |  |
+| [Your Song Saved My Life \- From Sing 2](https://open.spotify.com/track/4fcbxnnfUycb7fJAInJOob) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Your Song Saved My Life \(From Sing 2\)](https://open.spotify.com/album/0lgSYiY3qT4Q9myulgxhAu) | 3:30 | 2023-07-21 | 2024-05-03 |
 
 \*This playlist was first scraped on 2023-07-23. Prior content cannot be recovered.

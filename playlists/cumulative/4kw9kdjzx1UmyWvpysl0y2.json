@@ -11619,6 +11619,28 @@
     },
     {
       "album": {
+        "name": "So High",
+        "url": "https://open.spotify.com/album/77BLeJIkcNdUQB6u1hNXOZ"
+      },
+      "artists": [
+        {
+          "name": "Codeko",
+          "url": "https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp"
+        },
+        {
+          "name": "Bertie Scott",
+          "url": "https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207804,
+      "name": "So High",
+      "url": "https://open.spotify.com/track/3PdssIeO7774PbZquBoYMA"
+    },
+    {
+      "album": {
         "name": "Someday",
         "url": "https://open.spotify.com/album/2wlgrRRWuzfOQAJ9qc7YKo"
       },

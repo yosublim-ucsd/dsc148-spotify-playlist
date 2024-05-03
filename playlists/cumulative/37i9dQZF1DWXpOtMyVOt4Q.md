@@ -4,7 +4,7 @@
 
 > Chill tunes to soundtrack your gaming session.
 
-250 songs - 14 hr 32 min
+251 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,7 @@
 | [Preferences](https://open.spotify.com/track/4RKdZ7eLRpbDaz1A3TUcWE) | [Blue Noodles](https://open.spotify.com/artist/36CY2nngJsTx73EZyW6Ixq) | [Preferences](https://open.spotify.com/album/7xEMGFzID9mX1TsyG4FOJA) | 2:19 | 2022-09-02 | 2023-06-02 |
 | [Pulse](https://open.spotify.com/track/20C59ZiRbuRZIY2Xbup9Wl) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [Pulse](https://open.spotify.com/album/3ygr62Q1IfpB70QB9D1HEy) | 2:08 | 2023-09-08 |  |
 | [pyjamas](https://open.spotify.com/track/2hUhKjunV4ryNKlQmnDqN0) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [pyjamas](https://open.spotify.com/album/1k5jnVJrROUCzvUVvrbKXT) | 2:02 | 2022-09-02 | 2023-09-09 |
-| [quiet solitude](https://open.spotify.com/track/1ZT290xMIqeRETvWmpsHO7) | [nowt](https://open.spotify.com/artist/3rJ3JaEwzwefdZMinCtdPI) | [4 am](https://open.spotify.com/album/0r33EYAdVNiPjkdMBLmLT6) | 3:37 | 2023-09-08 |  |
+| [quiet solitude](https://open.spotify.com/track/1ZT290xMIqeRETvWmpsHO7) | [nowt](https://open.spotify.com/artist/3rJ3JaEwzwefdZMinCtdPI) | [4 am](https://open.spotify.com/album/0r33EYAdVNiPjkdMBLmLT6) | 3:37 | 2023-09-08 | 2024-05-03 |
 | [Rain](https://open.spotify.com/track/2zFpMThv5f6y4OW79sUR91) | [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP), [Dagamon](https://open.spotify.com/artist/4ogcQDCfs7LYekrb22jhZf) | [Rain](https://open.spotify.com/album/7rjqHXy8vjqXkVp6LOMrXu) | 2:37 | 2023-11-29 |  |
 | [rainy season](https://open.spotify.com/track/59LPj6cPU3jod22Ai3YFoG) | [Xori](https://open.spotify.com/artist/5e4BMUzdxvt2bedcoBKrjv) | [Slumber Tape](https://open.spotify.com/album/4TtWrCfrifMbXjUeP8vuPo) | 0:52 | 2022-09-29 | 2023-09-09 |
 | [Reach For The Dead](https://open.spotify.com/track/2hgerKBJ7tetp3JfL5OZX9) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/159ORixBSSemxiualv1Woj) | 4:47 | 2019-12-16 | 2022-09-01 |
@@ -248,6 +248,7 @@
 | [waking up in the park](https://open.spotify.com/track/278zobyI14d3iaE39jGfHM) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [waking up in the park](https://open.spotify.com/album/4jGrBMzBYAxIMdwxOLvlod) | 1:08 | 2022-09-21 |  |
 | [walk](https://open.spotify.com/track/1qCgW8pAIIiDuoN1slJCd9) | [james king](https://open.spotify.com/artist/4YFBzXjMSL5zHMlUDyocli) | [hollow](https://open.spotify.com/album/7IFoewD0yAxNyLHHVqALoG) | 1:54 | 2023-09-08 |  |
 | [We Can Be Ghosts Now](https://open.spotify.com/track/4buZVQ9wDGXk8AbVeGM5E6) | [Hiatus](https://open.spotify.com/artist/421vyBBkhgRAOz4cYPvrZJ) | [Parklands](https://open.spotify.com/album/1NhIMd6O3u6F9Opm7skw9N) | 4:18 | 2019-12-16 | 2022-09-01 |
+| [We Gathered Leaves](https://open.spotify.com/track/1nTH6eMMt4MXqvu9GGLn4Y) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk), [Electricsheep42](https://open.spotify.com/artist/52VLqHXZjk0GtsvTkjFDr0) | [We Gathered Leaves](https://open.spotify.com/album/5YRDw5rO8vIUxjtgHqICji) | 1:33 | 2023-09-08 |  |
 | [What You Love You Must Love Now](https://open.spotify.com/track/2R7bTCbxSrVlHkZDaQbVs2) | [The Six Parts Seven](https://open.spotify.com/artist/3puKPIXi7bUDnPuJZOlJxL) | [Everywhere And Right Here](https://open.spotify.com/album/1hC3Tr1axplzxjGLEXSNf5) | 5:22 | 2019-12-16 | 2023-09-09 |
 | [What You Love You Must Love Now](https://open.spotify.com/track/3L0fPX8biELkH57fF3Exkd) | [The Six Parts Seven](https://open.spotify.com/artist/3puKPIXi7bUDnPuJZOlJxL) | [Everywhere And Right Here](https://open.spotify.com/album/3tpwV2Th7Q7sS7TzeE4viK) | 5:22 | 2019-12-16 | 2022-07-29 |
 | [where did you go?](https://open.spotify.com/track/3krTCz4RFiTFUE4Eyw0mIq) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [where did you go?](https://open.spotify.com/album/6hXY9yHknQ6mIca4ZOP1HG) | 1:36 | 2023-09-08 |  |

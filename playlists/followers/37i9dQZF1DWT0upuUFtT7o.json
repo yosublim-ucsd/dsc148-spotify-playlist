@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 216076,
+  "2024-05-03": 216161,
   "date_first_scraped": "2022-01-09",
   "description": "The best new indie tracks from independent artists & labels. Cover: Ugly (UK)",
   "name": "Fresh Finds Indie",
@@ -3201,7 +3201,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 174865,
       "name": "backseat",
       "url": "https://open.spotify.com/track/68CijBYyD89CISS4vDLAaq"
@@ -7294,6 +7294,24 @@
     },
     {
       "album": {
+        "name": "Chin Up",
+        "url": "https://open.spotify.com/album/5KbOCxRiuiuPHV73Nwwacn"
+      },
+      "artists": [
+        {
+          "name": "juney",
+          "url": "https://open.spotify.com/artist/545pbk2OYVDjfX8P2DTe7A"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254360,
+      "name": "Chin Up",
+      "url": "https://open.spotify.com/track/2yD1KmOZ54EI1vnS9iFO6T"
+    },
+    {
+      "album": {
         "name": "choices choices choices",
         "url": "https://open.spotify.com/album/5cMmhToNnO0pLKjdmgx9TL"
       },
@@ -9262,6 +9280,24 @@
     },
     {
       "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/572P9V0PZpvCp9FOM4wK6T"
+      },
+      "artists": [
+        {
+          "name": "Valeria Stoica",
+          "url": "https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159455,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/0ltdxjSWkeE4cmU2kRxzi1"
+    },
+    {
+      "album": {
         "name": "Daydrunk",
         "url": "https://open.spotify.com/album/47SPZuz2evHfXFP0j067j0"
       },
@@ -11197,7 +11233,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 254961,
       "name": "Eating Me Alive",
       "url": "https://open.spotify.com/track/6I1SWoRsbsSWrdVufccpwx"
@@ -14419,7 +14455,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 233573,
       "name": "Glory",
       "url": "https://open.spotify.com/track/4kjQHsISSXI4pnIVH4WvPn"
@@ -15417,7 +15453,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 177399,
       "name": "Habitual",
       "url": "https://open.spotify.com/track/1CK6BGIVMgf1NrPzRTGW4o"
@@ -16289,7 +16325,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 230751,
       "name": "Hickeys",
       "url": "https://open.spotify.com/track/7vh3ecqOXOhg0LGH35EoTq"
@@ -16635,6 +16671,24 @@
       "duration_ms": 227840,
       "name": "Hollywood Rodeo",
       "url": "https://open.spotify.com/track/0jaRqE3786Q2leLfNemzOg"
+    },
+    {
+      "album": {
+        "name": "home",
+        "url": "https://open.spotify.com/album/0PodyzJN3eL2uFAZbrXxxc"
+      },
+      "artists": [
+        {
+          "name": "ellis",
+          "url": "https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263974,
+      "name": "home",
+      "url": "https://open.spotify.com/track/26JqmHoDGUmQMe4HVooNr3"
     },
     {
       "album": {
@@ -21124,6 +21178,24 @@
     },
     {
       "album": {
+        "name": "laundry detergent",
+        "url": "https://open.spotify.com/album/0gMy51MYjFPXUqkfHYrAFo"
+      },
+      "artists": [
+        {
+          "name": "Lexie Carroll",
+          "url": "https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178513,
+      "name": "laundry detergent",
+      "url": "https://open.spotify.com/track/1pB8PSQShsmbOlsBGKwSnJ"
+    },
+    {
+      "album": {
         "name": "Lay Down",
         "url": "https://open.spotify.com/album/5lTcmVWS58boYvFkwbiI4H"
       },
@@ -22367,7 +22439,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 198533,
       "name": "lose myself in you",
       "url": "https://open.spotify.com/track/6GpSWcqSaXWNKK5j7LI4Kl"
@@ -22587,7 +22659,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 154104,
       "name": "LOSTWITHOUTMARIA",
       "url": "https://open.spotify.com/track/5vHRQOgc2tQb4h7KrBQUmS"
@@ -24206,6 +24278,28 @@
     },
     {
       "album": {
+        "name": "miss you again",
+        "url": "https://open.spotify.com/album/4wPU2yOsZ6JpOfP4lBHksd"
+      },
+      "artists": [
+        {
+          "name": "Sam Worley",
+          "url": "https://open.spotify.com/artist/1XIE58AteyxPkzXjLbcIYt"
+        },
+        {
+          "name": "Surfliner",
+          "url": "https://open.spotify.com/artist/6cUFVnJuI30MsRmv0EVC4y"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272372,
+      "name": "miss you again",
+      "url": "https://open.spotify.com/track/69gvoLX5h17LZVb8PhFkO0"
+    },
+    {
+      "album": {
         "name": "Miss Your Flight",
         "url": "https://open.spotify.com/album/2o7MAX6BtDRXnloqzUe77X"
       },
@@ -24683,7 +24777,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 188511,
       "name": "mostpreciousblood",
       "url": "https://open.spotify.com/track/4M8od0IJz9DiwZ3Dj2CxSQ"
@@ -25141,6 +25235,24 @@
       "duration_ms": 265189,
       "name": "my little room",
       "url": "https://open.spotify.com/track/3zRSjMxZpzjb2mXtRejlci"
+    },
+    {
+      "album": {
+        "name": "My Love For You",
+        "url": "https://open.spotify.com/album/6X32ulqze4sMDuHf6fx3Bg"
+      },
+      "artists": [
+        {
+          "name": "Sunnan",
+          "url": "https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337500,
+      "name": "My Love For You",
+      "url": "https://open.spotify.com/track/5ElJFlJEdBvbEELykWdZki"
     },
     {
       "album": {
@@ -25847,10 +25959,28 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 221912,
       "name": "Neverrr Everrr",
       "url": "https://open.spotify.com/track/1AEydsGON0N56XlkTR0N2U"
+    },
+    {
+      "album": {
+        "name": "New Air",
+        "url": "https://open.spotify.com/album/2XPHfWqV81ohg0QXnKBW3G"
+      },
+      "artists": [
+        {
+          "name": "Ben Seretan",
+          "url": "https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 481200,
+      "name": "New Air",
+      "url": "https://open.spotify.com/track/68k7pVlSZOlT0laynJj6GY"
     },
     {
       "album": {
@@ -26319,7 +26449,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 234174,
       "name": "No Worries",
       "url": "https://open.spotify.com/track/0HTiA0Al8NXUD5NSPvoHVH"
@@ -27185,7 +27315,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 176000,
       "name": "old friend",
       "url": "https://open.spotify.com/track/5JvKLFkeHcajMjZLfr5IxF"
@@ -29771,6 +29901,24 @@
       "duration_ms": 121159,
       "name": "Pull My Hair",
       "url": "https://open.spotify.com/track/37X6Jr8cHBOCD9tsuv25MA"
+    },
+    {
+      "album": {
+        "name": "PULL UP",
+        "url": "https://open.spotify.com/album/1brHIGC0EiM5onDMz2aCB9"
+      },
+      "artists": [
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140143,
+      "name": "PULL UP",
+      "url": "https://open.spotify.com/track/35wqLh4Ht76d4YIUU2oNXq"
     },
     {
       "album": {
@@ -32560,6 +32708,24 @@
     },
     {
       "album": {
+        "name": "shoes / my fault",
+        "url": "https://open.spotify.com/album/65vbgU0RIxw36RmR8Z3UGo"
+      },
+      "artists": [
+        {
+          "name": "harper",
+          "url": "https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127392,
+      "name": "shoes",
+      "url": "https://open.spotify.com/track/2KVf6iZG9pLrtmC5dAcZKG"
+    },
+    {
+      "album": {
         "name": "Shop Around",
         "url": "https://open.spotify.com/album/0b7hyhvArH4PRJgp39HMop"
       },
@@ -33837,6 +34003,24 @@
       "duration_ms": 234000,
       "name": "Somebody I Know",
       "url": "https://open.spotify.com/track/0SDzyn3KL8KLsyWv0A35RV"
+    },
+    {
+      "album": {
+        "name": "Somebody New",
+        "url": "https://open.spotify.com/album/1esmSMTOShTTI0OqG3rsnO"
+      },
+      "artists": [
+        {
+          "name": "Jana Mila",
+          "url": "https://open.spotify.com/artist/1roi4E4kE3vXaKxQ2n5aKB"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172146,
+      "name": "Somebody New",
+      "url": "https://open.spotify.com/track/1u4RBJArUMeEXHic7VqWjv"
     },
     {
       "album": {
@@ -35511,6 +35695,24 @@
       "duration_ms": 202000,
       "name": "Studio Rat (I can't always be what you want)",
       "url": "https://open.spotify.com/track/3lf2oLeSuk8aWBDzQGpYcz"
+    },
+    {
+      "album": {
+        "name": "Stupid",
+        "url": "https://open.spotify.com/album/5FQlINYP57lg38HzROQrlO"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Go",
+          "url": "https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210218,
+      "name": "Stupid",
+      "url": "https://open.spotify.com/track/1iYfBjjf08Wdw6KPfWf7Ox"
     },
     {
       "album": {
@@ -37859,6 +38061,24 @@
       "duration_ms": 210908,
       "name": "The Sandcastle",
       "url": "https://open.spotify.com/track/6S1i81DSaMsjU6KwlxpvzC"
+    },
+    {
+      "album": {
+        "name": "The Show",
+        "url": "https://open.spotify.com/album/6bR6Cgi8o0zWxFYv9HUwR4"
+      },
+      "artists": [
+        {
+          "name": "Cry Baby",
+          "url": "https://open.spotify.com/artist/4tWo45fN0AeqSlhhrEoVVl"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152842,
+      "name": "The Show",
+      "url": "https://open.spotify.com/track/1bHGVlH0lDtjiW6vT55bHq"
     },
     {
       "album": {
@@ -41729,7 +41949,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 243091,
       "name": "Whitewashed Tombs",
       "url": "https://open.spotify.com/track/7bnuh2k8jthZbpM7HSVK9o"

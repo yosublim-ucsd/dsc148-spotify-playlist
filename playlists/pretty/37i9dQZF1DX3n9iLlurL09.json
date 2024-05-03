@@ -1,6 +1,6 @@
 {
   "description": "2012 highlights from the home of indie music.",
-  "num_followers": 88118,
+  "num_followers": 88161,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2024-03-18 13:12:36",
       "album": {
+        "name": "Celebration Rock",
+        "url": "https://open.spotify.com/album/2sY9WYVH022ulyAYaqvXLW"
+      },
+      "artists": [
+        {
+          "name": "Japandroids",
+          "url": "https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30"
+        }
+      ],
+      "duration_ms": 289150,
+      "name": "The House That Heaven Built",
+      "url": "https://open.spotify.com/track/2dcmQJCw1INGn7yR2KHx0U"
+    },
+    {
+      "added_at": "2024-03-18 13:12:36",
+      "album": {
         "name": "Loma Vista",
         "url": "https://open.spotify.com/album/14SCnv027L0HidHq0URIDu"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 191773,
       "name": "Paint",
       "url": "https://open.spotify.com/track/2BOof6lYrGfz6BojJ0aeJd"
-    },
-    {
-      "added_at": "2024-03-18 13:12:36",
-      "album": {
-        "name": "Celebration Rock",
-        "url": "https://open.spotify.com/album/2sY9WYVH022ulyAYaqvXLW"
-      },
-      "artists": [
-        {
-          "name": "Japandroids",
-          "url": "https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30"
-        }
-      ],
-      "duration_ms": 289150,
-      "name": "The House That Heaven Built",
-      "url": "https://open.spotify.com/track/2dcmQJCw1INGn7yR2KHx0U"
     },
     {
       "added_at": "2024-03-18 13:12:36",

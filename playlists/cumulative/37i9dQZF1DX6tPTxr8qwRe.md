@@ -4,7 +4,7 @@
 
 > Dark, hard hitting pop\. Cover: PEGGY
 
-661 songs - 1 day 6 hr 21 min
+662 songs - 1 day 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,10 +328,11 @@
 | [Just Kidding](https://open.spotify.com/track/67PEFHPYzlrzRiI3VWYbbR) | [AMARA ctk100](https://open.spotify.com/artist/6g40AmE4t6z5wPuFbytdsy) | [Just Kidding](https://open.spotify.com/album/1Hqk9uklD979FtyJcMQNBK) | 2:26 | 2022-05-13 | 2022-06-18 |
 | [k](https://open.spotify.com/track/5WtdLOSLk1tuAifMaqQjX7) | [KINGS](https://open.spotify.com/artist/6YQuBpbzdPGNFnyADC9QC3) | [k](https://open.spotify.com/album/2IoAmQn8rBf4YNpGyJarxM) | 2:46 | 2023-04-28 | 2023-06-17 |
 | [Kickflip](https://open.spotify.com/track/7FkmAIBCsJvGNoaNr9a1Xe) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Sagittarius](https://open.spotify.com/album/5uIFAwpVs0gCPiaehNZQ25) | 2:42 | 2022-12-09 | 2023-04-01 |
+| [kill the girl](https://open.spotify.com/track/5z5Tph3uXkhy9CWANGbv7h) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [kill the girl](https://open.spotify.com/album/6POWvEgFWeIkFq35tMWUpH) | 2:30 | 2024-05-03 |  |
 | [Killer](https://open.spotify.com/track/3MKBHqQ5EtXnChdVF4P3ji) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Killer](https://open.spotify.com/album/3UgmPtg6ADEBPEef7RImgg) | 3:00 | 2022-10-28 | 2023-04-01 |
 | [killer queen](https://open.spotify.com/track/0qo1JukfClmpHnUOJxpFXi) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [killer queen](https://open.spotify.com/album/09h4w3F8jXAQnbYmGYktRR) | 2:58 | 2021-10-29 | 2023-01-06 |
 | [Kind of Love](https://open.spotify.com/track/27q9snUZ3LptuVJyXgrHPk) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Kind of Love](https://open.spotify.com/album/68g8IaUYJTGfMnhTr661c0) | 3:38 | 2022-01-14 | 2022-04-29 |
-| [kinda smacks](https://open.spotify.com/track/4cwi0Yd3pq1GfvHj7FLMdn) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [kinda smacks](https://open.spotify.com/album/09Aw6tRqufmeBbVjR5kHrm) | 2:16 | 2024-02-16 |  |
+| [kinda smacks](https://open.spotify.com/track/4cwi0Yd3pq1GfvHj7FLMdn) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [kinda smacks](https://open.spotify.com/album/09Aw6tRqufmeBbVjR5kHrm) | 2:16 | 2024-02-16 | 2024-05-03 |
 | [Kiss And Tell](https://open.spotify.com/track/5Zi2tbxAaZQGkFWU8QdSqU) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [Kiss And Tell](https://open.spotify.com/album/6iOn23WerrBcb3rSLRqMlT) | 2:32 | 2022-02-11 | 2022-03-30 |
 | [Kiss The Ground](https://open.spotify.com/track/4hXc50b59ywx8cdg9KlHCQ) | [Haven Madison](https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ) | [Turn Off All The Lights](https://open.spotify.com/album/4HE5bl6sodd4gAXj3COIeJ) | 2:35 | 2024-04-26 |  |
 | [Knockoff](https://open.spotify.com/track/7Bc59U2nhCp608JlIEMEGl) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Knockoff](https://open.spotify.com/album/58BlShV5R0UwB7IRyZf96n) | 3:04 | 2023-07-21 | 2024-01-05 |
@@ -544,7 +545,7 @@
 | [STEPHEN KING](https://open.spotify.com/track/0G5VxInG6PoZuSnBisMXei) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [Wasting My Nights](https://open.spotify.com/album/1X9H1qiFnjyIK5OuFv0FJF) | 2:59 | 2024-02-02 | 2024-04-27 |
 | [STFU](https://open.spotify.com/track/7KDs1jdpDww170OCpPsjV4) | [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [STFU](https://open.spotify.com/album/13xF7dlZO7Y8wUM1g4Hvrl) | 2:21 | 2022-07-22 | 2022-09-24 |
 | [Still Alive \- From the Original Motion Picture Scream VI](https://open.spotify.com/track/4Gnbk3CFlF1Qt0nTiz693B) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Still Alive \(From the Original Motion Picture Scream VI\)](https://open.spotify.com/album/50Zsh8ekKxgClUUKoVQe9q) | 3:05 | 2023-03-03 | 2023-03-18 |
-| [Stop Your Games](https://open.spotify.com/track/1t8PyStERb0VRhw8qKphO8) | [Belle Sisoski](https://open.spotify.com/artist/1bNd6DQP6ZstuJ2FsFQO6a) | [Stop Your Games](https://open.spotify.com/album/2XdJamsKdITh0KCvIV0DY2) | 4:42 | 2024-04-24 |  |
+| [Stop Your Games](https://open.spotify.com/track/1t8PyStERb0VRhw8qKphO8) | [Belle Sisoski](https://open.spotify.com/artist/1bNd6DQP6ZstuJ2FsFQO6a) | [Stop Your Games](https://open.spotify.com/album/2XdJamsKdITh0KCvIV0DY2) | 4:42 | 2024-04-24 | 2024-05-03 |
 | [Strongly Worded Letter](https://open.spotify.com/track/0ZuQFjhs929dxImCpeomRE) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [High Concept](https://open.spotify.com/album/5DSSWFgWsyelKKtMEUe1cK) | 2:18 | 2023-10-06 | 2023-12-09 |
 | [Strongly Worded Letter](https://open.spotify.com/track/5BBHMxzR3vMZNlXDEpbIT8) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Strongly Worded Letter](https://open.spotify.com/album/0iJCgwJtJgoToVKta9NXk9) | 2:18 | 2023-07-21 | 2023-10-24 |
 | [STRUT](https://open.spotify.com/track/749rod7GCmj0OVdumGfzVq) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [STRUT](https://open.spotify.com/album/2lkTWzi2FinjN6JIwP5u0y) | 1:57 | 2022-08-19 | 2023-04-01 |

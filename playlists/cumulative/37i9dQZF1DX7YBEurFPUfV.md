@@ -4,7 +4,7 @@
 
 > Les sons les plus frais du Rap Tunisien sont ici\. Cover : A.L.A
 
-55 songs - 3 hr 13 min
+57 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [9adech Men Mara](https://open.spotify.com/track/0DuaftqTbS98lnbfiEJj5V) | [Stou](https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt) | [9adech Men Mara](https://open.spotify.com/album/14LPhzMvyamhLXzaGjltuR) | 2:30 | 2024-02-24 |  |
 | [9anoun El Ghaba](https://open.spotify.com/track/5hfpH7uwzXEFZoAAKrJT55) | [G.G.A](https://open.spotify.com/artist/3Ofbm810VXiC3VaO76oMPP), [Junior Hassen](https://open.spotify.com/artist/1ZgY6ufOpB64Tn2Ha1Vrjv) | [9anoun El Ghaba](https://open.spotify.com/album/2YH2Uxm9bsfrTVndEyfgKb) | 3:42 | 2024-04-18 |  |
 | [9anoun El Ghaba](https://open.spotify.com/track/7olqWoMSAEDBNHAFpr96YG) | [G.G.A](https://open.spotify.com/artist/3Ofbm810VXiC3VaO76oMPP), [Junior Hassen](https://open.spotify.com/artist/1ZgY6ufOpB64Tn2Ha1Vrjv) | [Ghram 2](https://open.spotify.com/album/71r5bb776Z9kz8Mizn9qa8) | 3:42 | 2024-02-24 | 2024-04-19 |
+| [Amach](https://open.spotify.com/track/2QCKG199FIJrm8x8DF0BiC) | [KA7LA](https://open.spotify.com/artist/3P1ICbu02JQld1VFBoQCLA), [Norfafrica](https://open.spotify.com/artist/3UGUD4F6kDvesqDwOzXl8y) | [Amach](https://open.spotify.com/album/6Gv3VtOlgKhaSHkKt0e8U6) | 2:41 | 2024-05-02 |  |
 | [Anesto](https://open.spotify.com/track/0abJ0SKsYEoShNmWbdEHp3) | [Esserpent](https://open.spotify.com/artist/0IgVFHpTug7gJIKUqsve0q) | [Anesto](https://open.spotify.com/album/0xGNs0CD80ebpaI1C9QBLj) | 2:55 | 2024-02-24 |  |
 | [BERLIN](https://open.spotify.com/track/53m7xHYP22udP4Vsftr48p) | [Koast](https://open.spotify.com/artist/5mp19VAuofzsBViN7LHKhH), [Molka Braiek](https://open.spotify.com/artist/26FtkGdzYUskhMqPX3J7td), [XCEP](https://open.spotify.com/artist/6QvQCpbGRXw7BTBSU4VH0N) | [BERLIN](https://open.spotify.com/album/6cYneZuZvWYK36WHhznwhP) | 2:52 | 2024-02-24 |  |
 | [Bin Narin \- بين نارين](https://open.spotify.com/track/65tKzxjFZsjObi7OFuJFIy) | [Blingos](https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB) | [Bin Narin \(بين نارين\)](https://open.spotify.com/album/1HMzHpHSipGYpujRyL453I) | 3:37 | 2024-02-24 |  |
@@ -21,7 +22,7 @@
 | [Cheda Mel Bera7](https://open.spotify.com/track/33lYS6Y1Ai0A1QvnehVtSS) | [Mouka](https://open.spotify.com/artist/06z6NBx0H2PDzZqw8mPTDz), [Islem\-23](https://open.spotify.com/artist/4fdscmamdruNB8lZ1nWrTd) | [Cheda Mel Bera7](https://open.spotify.com/album/5CJTBxgZq2kElP6nqqpY2D) | 2:50 | 2024-02-24 |  |
 | [Chokran \- شكرًا](https://open.spotify.com/track/4UvU1ZONOAozisXzAcUBSw) | [Young Rz](https://open.spotify.com/artist/0ffHBfcZybwhCvRnriDBVW) | [Chokran \(شكرًا\)](https://open.spotify.com/album/2KlbzWY3dHZc23RzEE0DFF) | 3:31 | 2024-02-24 |  |
 | [Classe S](https://open.spotify.com/track/1iva2ug5cxsrWL1WrmpwrK) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Classe S](https://open.spotify.com/album/5zRg0Ogq4aITVIvPdU3FTd) | 3:58 | 2024-02-24 | 2024-04-11 |
-| [Code](https://open.spotify.com/track/66F8c3Q3fAIdemuIjAQUKD) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Code](https://open.spotify.com/album/4noQSVIRGJ1EdUdfmzItBN) | 5:17 | 2024-02-24 |  |
+| [Code](https://open.spotify.com/track/66F8c3Q3fAIdemuIjAQUKD) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Code](https://open.spotify.com/album/4noQSVIRGJ1EdUdfmzItBN) | 5:17 | 2024-02-24 | 2024-05-03 |
 | [Dmou3 Ellil](https://open.spotify.com/track/7lPKZ2HWDzWezgbSW1UDjW) | [Blidog](https://open.spotify.com/artist/7JZ59mMjiH3FG9SEKqfS8Z) | [Dmou3 Ellil](https://open.spotify.com/album/6U1llPKCElO0niX3VuM3T4) | 3:38 | 2024-02-24 |  |
 | [DRILL MENA](https://open.spotify.com/track/2BVVXtq5DYowMXCumxB85B) | [G.G.A](https://open.spotify.com/artist/3Ofbm810VXiC3VaO76oMPP), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S) | [DRILL MENA](https://open.spotify.com/album/1NhhAIb1qud4wh9Ih8xkTm) | 2:54 | 2024-02-24 |  |
 | [Fa9ou Biya](https://open.spotify.com/track/0bseLMJXgYr6M9MyVJQ35v) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Fa9ou Biya](https://open.spotify.com/album/452msNJvhHDmB8f3EEkGmF) | 3:33 | 2024-02-24 |  |
@@ -43,7 +44,7 @@
 | [MANNENI](https://open.spotify.com/track/6DTfaZr5t4Ab32OrmTlhTJ) | [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa), [Feddini](https://open.spotify.com/artist/3PEXA0COjIMn9LfNuHQmuI) | [MANNENI](https://open.spotify.com/album/2vJbcsQ4YTONc1Tkq0U0dk) | 4:00 | 2024-02-24 |  |
 | [Mata7kich](https://open.spotify.com/track/4vSMMlTaIk53HeRtn1Yhg5) | [Esserpent](https://open.spotify.com/artist/0IgVFHpTug7gJIKUqsve0q) | [Mata7kich](https://open.spotify.com/album/1J2UZknu6mll6gHAD3YtpP) | 3:15 | 2024-02-24 |  |
 | [Mel Galb](https://open.spotify.com/track/1RjZ14m5vJCa47WDmM2RHD) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Mel Galb](https://open.spotify.com/album/1V4kGcJm7sh4iX3r5hAF0O) | 3:45 | 2024-02-24 |  |
-| [Menghir Sbab](https://open.spotify.com/track/4iyabYY2AX4n7GmulnWPA6) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Menghir Sbab](https://open.spotify.com/album/5vS6p0a3VxniZIg3g98uIj) | 3:56 | 2024-02-24 |  |
+| [Menghir Sbab](https://open.spotify.com/track/4iyabYY2AX4n7GmulnWPA6) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Menghir Sbab](https://open.spotify.com/album/5vS6p0a3VxniZIg3g98uIj) | 3:56 | 2024-02-24 | 2024-05-03 |
 | [Messyeba](https://open.spotify.com/track/5PQEjCkpBTcu7ckIHzlFZm) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Messyeba](https://open.spotify.com/album/4d91F4YGzWFnzeCWW7xvRr) | 4:43 | 2024-02-24 |  |
 | [NESSI ENNOUM](https://open.spotify.com/track/79YxZIeHwjSF65yKl03ebx) | [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa), [Feddini](https://open.spotify.com/artist/3PEXA0COjIMn9LfNuHQmuI) | [NESSI ENNOUM](https://open.spotify.com/album/64MeBBw7pKbnTuQtUYJndT) | 4:35 | 2024-02-24 |  |
 | [Nesta3ref](https://open.spotify.com/track/0dIYvl9pLL5lhmTXOWkz5Q) | [2Two](https://open.spotify.com/artist/0mj273jWZNCOCMIorzMjtw), [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [Nesta3ref](https://open.spotify.com/album/5We6huHN6gtuVPYXXqNw3e) | 3:25 | 2024-02-24 |  |
@@ -55,6 +56,7 @@
 | [Sa7a](https://open.spotify.com/track/4FLgbthreXG0QiWWYeYfMf) | [NASTYSH!!T](https://open.spotify.com/artist/6qiiqFqUgHwAhMNDVR0PXz) | [Sa7a](https://open.spotify.com/album/5GBcqogPqtHNYomZqoELo7) | 3:19 | 2024-02-24 |  |
 | [Sada9tha](https://open.spotify.com/track/7DM7AOqoEAouQ6ChSTAxaD) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Sada9tha](https://open.spotify.com/album/19tu9RtMJ5uH4VJ4GZIrMq) | 3:31 | 2024-02-24 |  |
 | [Shkoon](https://open.spotify.com/track/76oxojNipN7ol8ALGuNA0Y) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Shkoon](https://open.spotify.com/album/5Et9sV7KldC7b3sxSR4uWW) | 3:36 | 2024-02-24 |  |
+| [Smile](https://open.spotify.com/track/1tH4uq1ObOtg8bOaMIot2F) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Smile](https://open.spotify.com/album/6nGD6qoBhp61FUabIjWWGV) | 3:34 | 2024-05-02 |  |
 | [SNE NMES SME](https://open.spotify.com/track/60iFivuGYfiQaI0doBvyop) | [EMP1RE](https://open.spotify.com/artist/2aFZFL6yee8SaztShh7AST) | [NOTE](https://open.spotify.com/album/3t4d4XbkJ02ohP8efP1g4L) | 3:17 | 2024-02-24 |  |
 | [Stava Bene](https://open.spotify.com/track/0uEjppwk80YQMkyW4eWleQ) | [RedStar](https://open.spotify.com/artist/5KrsMlfx8tbhq2GjZo0KP5), [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S) | [Stava Bene](https://open.spotify.com/album/2WYGHDw0lmUlgKGlsY2FTF) | 3:44 | 2024-04-18 |  |
 | [Stava Bene](https://open.spotify.com/track/19IVlD9YCOcPNaonf2YNNT) | [RedStar](https://open.spotify.com/artist/5KrsMlfx8tbhq2GjZo0KP5), [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S) | [صنع بسحر](https://open.spotify.com/album/1nVZ0Q37nv6whKbONk0Gxu) | 3:44 | 2024-02-24 | 2024-04-19 |

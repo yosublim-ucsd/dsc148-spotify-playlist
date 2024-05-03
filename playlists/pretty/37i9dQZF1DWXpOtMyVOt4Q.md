@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Chill tunes to soundtrack your gaming session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,294 likes - 50 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,334 likes - 50 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 40 | [Dead Metal](https://open.spotify.com/track/7CCPRhIy6VHd4ZmquuIggW) | [Rhys Lindsay](https://open.spotify.com/artist/1LD84W4loy082VZ4Mw7Td8) | [Exo One \(Original Game Soundtrack\)](https://open.spotify.com/album/22rQYIwZ0eL57N6FQ3ixme) | 1:05 |
 | 41 | [memories apart](https://open.spotify.com/track/76CCS9O2Wnwn6NoRuYCew9) | [knonzzz](https://open.spotify.com/artist/25UTkbnQgetv8B2pr3JGI7) | [memories apart](https://open.spotify.com/album/1rPBw0rwuxBxIw8PrR4Epm) | 1:41 |
 | 42 | [Dreaming of Her](https://open.spotify.com/track/6Nhc3IxUqXw0Tw7o3kGA27) | [mellow fox](https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE) | [Dreaming of Her](https://open.spotify.com/album/2fLyl1cNveM2ZbWZYwvoIg) | 1:25 |
-| 43 | [dark snowy night \- Slowed & Reverb Version](https://open.spotify.com/track/05GNWCE3kGfTRIh2Zld3NH) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC) | [dark snowy night](https://open.spotify.com/album/0WnATwrpuFPvyTpqxo1R5O) | 3:31 |
-| 44 | [I wish you never left](https://open.spotify.com/track/4AdLYkDiso32rnGCNyrbpZ) | [18FEARS](https://open.spotify.com/artist/3DjJgcdn3LP9xhKggrNFtV) | [I wish you never left](https://open.spotify.com/album/73FwdotjhGwThHRk2TBJ2h) | 1:50 |
+| 43 | [I wish you never left](https://open.spotify.com/track/4AdLYkDiso32rnGCNyrbpZ) | [18FEARS](https://open.spotify.com/artist/3DjJgcdn3LP9xhKggrNFtV) | [I wish you never left](https://open.spotify.com/album/73FwdotjhGwThHRk2TBJ2h) | 1:50 |
+| 44 | [dark snowy night \- Slowed & Reverb Version](https://open.spotify.com/track/05GNWCE3kGfTRIh2Zld3NH) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC) | [dark snowy night](https://open.spotify.com/album/0WnATwrpuFPvyTpqxo1R5O) | 3:31 |
 | 45 | [unconscious](https://open.spotify.com/track/0TMta5TSf2nTRhU0VUWrr8) | [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur), [Etsu](https://open.spotify.com/artist/1KevMNL4UNuuESpeV7iVrk) | [among the stars](https://open.spotify.com/album/1sa2gJbqfvcbYyjJmwCHL9) | 1:36 |
 | 46 | [star struck](https://open.spotify.com/track/3JcRY9LLi7aLBqceAbAJaC) | [alixe.](https://open.spotify.com/artist/5CqGgJNg6sTMBr8KbBCqYn) | [star struck](https://open.spotify.com/album/0lWOg0zxjpIS81tzwUB0qr) | 1:36 |
 | 47 | [mirage](https://open.spotify.com/track/7gy6sob5awFll0Pc5zPP1w) | [théos](https://open.spotify.com/artist/3zyJ0KYR7Zxowqq4T4QKru), [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [mirage](https://open.spotify.com/album/2sk4WAQuLII3lYSUWFYZuU) | 1:58 |
 | 48 | [No Time Left](https://open.spotify.com/track/1ZHRQbm7S54eSKEhKiw1rl) | [Hazy](https://open.spotify.com/artist/4zoz0st7CqesHkO58AbJtl) | [Nirvana](https://open.spotify.com/album/4YakhJKIpxIx7HGD8WI4oz) | 1:45 |
 | 49 | [one wish](https://open.spotify.com/track/4DgNUcwtWoessi8WgVqfKh) | [Unnholy](https://open.spotify.com/artist/5um0tGaoeKhLVjLjPFG0UX) | [one wish](https://open.spotify.com/album/7dMV1akU13qe0zDVhOfWJn) | 2:11 |
-| 50 | [quiet solitude](https://open.spotify.com/track/1ZT290xMIqeRETvWmpsHO7) | [nowt](https://open.spotify.com/artist/3rJ3JaEwzwefdZMinCtdPI) | [4 am](https://open.spotify.com/album/0r33EYAdVNiPjkdMBLmLT6) | 3:37 |
+| 50 | [We Gathered Leaves](https://open.spotify.com/track/1nTH6eMMt4MXqvu9GGLn4Y) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk), [Electricsheep42](https://open.spotify.com/artist/52VLqHXZjk0GtsvTkjFDr0) | [We Gathered Leaves](https://open.spotify.com/album/5YRDw5rO8vIUxjtgHqICji) | 1:33 |
 
 Snapshot ID: `ZWedSAAAAABnhRPZ7wGk94YYkv9IFHX5`

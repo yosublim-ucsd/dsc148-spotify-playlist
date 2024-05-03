@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Seera band\. Artwork: Isu Kim
 
-274 songs - 15 hr 2 min
+275 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Bafaker Kteer](https://open.spotify.com/track/74ML4fl3QH6xBpoesTHSWD) | [Reina Khoury](https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq) | [Bafaker Kteer](https://open.spotify.com/album/0q5ucPk4f2c4vkm2XjCDYi) | 3:20 | 2022-10-19 | 2022-11-10 |
 | [Bako](https://open.spotify.com/track/5nO62GzQVuXyos3rrh4v7f) | [Mvndila](https://open.spotify.com/artist/4xChDGJOSeebJva9pcvmSJ) | [Bako](https://open.spotify.com/album/57iBcfM3UGV6AaNYjDbmcc) | 3:03 | 2022-09-20 | 2022-11-24 |
 | [Balaleen](https://open.spotify.com/track/081geJirqbAxZUJE0u7ca7) | [Zatara](https://open.spotify.com/artist/5WOif35LUAZ7VfSmpELcQF) | [Balaleen](https://open.spotify.com/album/7MmRjxq4Nca5nBqSDMqNwS) | 3:12 | 2022-09-20 | 2023-01-18 |
-| [Banadi](https://open.spotify.com/track/3Vxvl8NrojI3EgMQYmtWFp) | [HIYA](https://open.spotify.com/artist/1FnryusWztu8TJm7fQqOg1) | [Banadi](https://open.spotify.com/album/6xXjDipYBxLRoHYePD3v8m) | 2:49 | 2023-09-12 |  |
+| [Banadi](https://open.spotify.com/track/3Vxvl8NrojI3EgMQYmtWFp) | [HIYA](https://open.spotify.com/artist/1FnryusWztu8TJm7fQqOg1) | [Banadi](https://open.spotify.com/album/6xXjDipYBxLRoHYePD3v8m) | 2:49 | 2023-09-12 | 2024-05-03 |
 | [Banda](https://open.spotify.com/track/1MPM80AcWKknvhIJL8nZON) | [DADO](https://open.spotify.com/artist/3JZEJB0wz9iw5yJGqfgKsg) | [Banda](https://open.spotify.com/album/2357p5LMBTSEQYjFdXshIn) | 2:15 | 2023-01-17 | 2023-05-24 |
 | [Barcelona \(End of the Line\)](https://open.spotify.com/track/0hzN7FYPW5bZpHKQpaHT1C) | [Keh Tu](https://open.spotify.com/artist/2C9VkF4uSp8rzSq8pR4bik) | [Bedroom Promises](https://open.spotify.com/album/2C4WxtfztrmcPfWbMVjBql) | 4:00 | 2023-06-06 | 2023-10-05 |
 | [Bashbah Emmbareh](https://open.spotify.com/track/2GXbUELoVg9MCAXh7ZyAwq) | [ZOHUD](https://open.spotify.com/artist/0HR4ZnnXwIRjOMYz0UP68D) | [Bashbah Emmbareh](https://open.spotify.com/album/2kmOdp6ZKij22qnBLhhcRj) | 3:34 | 2023-05-09 | 2024-01-17 |
@@ -247,6 +247,7 @@
 | [This Place](https://open.spotify.com/track/7lk1CT7tdr1dBw2Aq6swoG) | [Maryam Turkey](https://open.spotify.com/artist/6ozaRZ7avFAylAHplxjKMz) | [This Place](https://open.spotify.com/album/2OUgUQAkf2YU9U4140A5fh) | 2:51 | 2024-04-30 |  |
 | [tiiiies](https://open.spotify.com/track/4trmxD9YPtU3GxMQLqLwwf) | [Kriracha](https://open.spotify.com/artist/5TSJcirRznrsWng7uyvnGA), [Riiiiko](https://open.spotify.com/artist/6XbUbADSRCbfgMjYrPGfbN) | [tiiiies](https://open.spotify.com/album/0K6fJ8QAHZeXIa4YsjAuji) | 2:30 | 2023-01-17 | 2023-03-02 |
 | [Tmsa7](https://open.spotify.com/track/1FC0frU9acXOQvkJRGeAD2) | [Fodi](https://open.spotify.com/artist/4fhdYn7sQME3sJkPuCpYZE) | [Tmsa7](https://open.spotify.com/album/0H3iSplT0QyZQxoJ3v9NI8) | 2:08 | 2023-03-21 | 2023-09-13 |
+| [Tonight You Are Mine](https://open.spotify.com/track/5pmsNABH9nDgidXqy2sLKV) | [Ghida](https://open.spotify.com/artist/70R0r2Qd9G2lzXfqAXJXtT) | [Tonight You Are Mine](https://open.spotify.com/album/1WYHUrTkqI0xXWqbpAAAKF) | 3:46 | 2024-05-02 |  |
 | [Toque Del Sol](https://open.spotify.com/track/58eEvagJwKhcmHbG40AuEg) | [ReqTeq](https://open.spotify.com/artist/0F0tiuO58aU8k6KORsYrnv), [Thaïs Sala](https://open.spotify.com/artist/6xPRuXtCzd7gQH4yOSgZyB) | [Toque Del Sol](https://open.spotify.com/album/4OezapuJwbIXSoyUKlDFcn) | 4:30 | 2023-08-23 | 2024-05-01 |
 | [Toss & Turn](https://open.spotify.com/track/67LrUhbuB4jsc9uafg6moE) | [Yal Solan](https://open.spotify.com/artist/3K2WqXT4Flri79jhZ2VCMs) | [Toss & Turn](https://open.spotify.com/album/7LpkfIaPH6ehlMdmb5zmg4) | 2:51 | 2023-05-24 | 2024-01-17 |
 | [Uncovered](https://open.spotify.com/track/59aIHEHhiwvnlGCmwumfgH) | [Abdu B](https://open.spotify.com/artist/0ZOnIEMRVWqPDuqzJTkGbE) | [Uncovered](https://open.spotify.com/album/66ZJVQmOhlQAcF7yUDLtXg) | 2:32 | 2023-02-14 | 2023-08-02 |

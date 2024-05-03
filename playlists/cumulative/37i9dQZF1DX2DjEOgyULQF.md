@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-173 songs - 8 hr 30 min
+174 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Espira Naturesque](https://open.spotify.com/track/4rpZd4h0WnZqDr67kLE3KR) | [Miriam van Steeg](https://open.spotify.com/artist/5w21WblmOUdUPdA4YgBAnu) | [Espira](https://open.spotify.com/album/2lnksrCViusZPlkyVbxDJJ) | 3:20 | 2023-04-28 |  |
 | [Essence \(Soundbath\)](https://open.spotify.com/track/2eGtkq4fnMt2kw1lfvm8ZN) | [Devon Fall](https://open.spotify.com/artist/7dUjQYaR5Qa3fS8w5CN3pN) | [Essence](https://open.spotify.com/album/6Y5IvTe3fK2LufN9cssA5D) | 2:50 | 2023-05-26 |  |
 | [Eternals](https://open.spotify.com/track/1LZrsDo4MJaDPlOUvqp61c) | [Sweep Bliss](https://open.spotify.com/artist/55CnRvpF9JA5WhyNPemvY9) | [Eternals](https://open.spotify.com/album/6fmoSPgmDhT0vfblMgUT4z) | 2:14 | 2023-04-28 |  |
-| [Eutony](https://open.spotify.com/track/5HAdowEFhhgJw4q82GFDjt) | [Montbretia](https://open.spotify.com/artist/7A9r37hE6RLqltWm7fgZOA) | [Eutony](https://open.spotify.com/album/07AlM5Zxu1B4WYKLUtoZlP) | 2:38 | 2024-05-01 |  |
+| [Eutony](https://open.spotify.com/track/5HAdowEFhhgJw4q82GFDjt) | [Montbretia](https://open.spotify.com/artist/7A9r37hE6RLqltWm7fgZOA) | [Eutony](https://open.spotify.com/album/07AlM5Zxu1B4WYKLUtoZlP) | 2:38 | 2024-05-01 | 2024-05-03 |
 | [Everest](https://open.spotify.com/track/0zEsXbDQbh8dFoJ07XAy5Y) | [Hans Heeler](https://open.spotify.com/artist/6zzRaTxXyx1wRJH5AAXkTV) | [Everest](https://open.spotify.com/album/0JfmGuV9OldmMVK1EYYoL9) | 2:27 | 2023-08-25 |  |
 | [Fire Light](https://open.spotify.com/track/4FKjdm6uLmTiw8xYrliKAq) | [The Golden Peas](https://open.spotify.com/artist/2O29EK5hLrDu3Pr5K3r250) | [Fire Light](https://open.spotify.com/album/4EdKhnX4aWyP0AzSwnmVWd) | 2:55 | 2023-04-28 |  |
 | [Floating senses](https://open.spotify.com/track/3QeAlxO6Q3mRAdM56l0C2Q) | [Chakrasapiens](https://open.spotify.com/artist/0ifeddor0BLT2TaPLlzhjg) | [Floating senses](https://open.spotify.com/album/10eWaFvXO1b1uWhqMbctJR) | 2:35 | 2023-04-28 |  |
@@ -172,6 +172,7 @@
 | [Verdure](https://open.spotify.com/track/7iEfhRXZpaI1w7zkj9Np5U) | [Alexandra Irwin](https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV) | [Verdure](https://open.spotify.com/album/4BNcZNVXeCRvxdIEdykxOi) | 2:45 | 2023-04-28 |  |
 | [Vibo Nuovo](https://open.spotify.com/track/5MP7fS5PCPoQhQdggjW3md) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Vibo Nuovo](https://open.spotify.com/album/2rCtZcfFt7svYlB7xuAn5i) | 3:34 | 2024-02-15 | 2024-04-02 |
 | [Visie](https://open.spotify.com/track/57mmBXolEEyg7pQZfmLB3Y) | [Femke Edelijn](https://open.spotify.com/artist/2iJS3V46m6nQHD74m6pD7G) | [Visie](https://open.spotify.com/album/03IvFQYVBG3UO2m4dkLVHW) | 2:41 | 2023-04-28 |  |
+| [Wave Son](https://open.spotify.com/track/1zISOcapD0WOYWovAxE9Si) | [Sam Bucciana](https://open.spotify.com/artist/4A7ZW9rJIvRiyu3pgxQW1j) | [Wave Son](https://open.spotify.com/album/4icmQJ3f32Xcz6FniCqQJE) | 2:38 | 2024-05-01 |  |
 | [Wavy](https://open.spotify.com/track/2ZmBus1Smzpa4qRNkWd1Bu) | [Nolene Britton](https://open.spotify.com/artist/4Ii7tJkcwod6FcfQKbelmT) | [Wavy](https://open.spotify.com/album/0qGpUKxTfjjsUZJ0Hx3Jf2) | 4:02 | 2023-04-28 |  |
 | [Where I Belong](https://open.spotify.com/track/5eB7WeAkom0NaB4Q5jEfeT) | [Soft Sense](https://open.spotify.com/artist/7g5vOd93ubdidOjRwZm8R3) | [A Free Spirit](https://open.spotify.com/album/25RUQBt47toM0l7s8mvnh5) | 2:51 | 2023-04-28 |  |
 | [Wilderness \(Sound Bath\)](https://open.spotify.com/track/2MHG83f4G7CnoxuRrvDc68) | [Adam Bokesch](https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI) | [Wilderness](https://open.spotify.com/album/54Q3pJUG5p8VbES4aVTbKM) | 3:51 | 2023-04-28 |  |

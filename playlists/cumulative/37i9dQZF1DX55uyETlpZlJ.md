@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover :Rahul Dit\-O
 
-325 songs - 17 hr 39 min
+326 songs - 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [ALAG HAI](https://open.spotify.com/track/5E11KdVG38ylpaI736pJ9I) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [ALAG HAI](https://open.spotify.com/album/5gqrIFh0OfRGTwNqrV52rz) | 1:23 | 2023-09-20 | 2024-01-07 |
 | [Alladsro](https://open.spotify.com/track/5VcLXHP9BQXJpxKYRLLe5E) | [PS Praveen](https://open.spotify.com/artist/2Dl133Jk9EdG3Z8lKbTMle) | [Alladsro](https://open.spotify.com/album/1Xxq3dTXHid0SEifag64gu) | 3:56 | 2023-08-25 | 2023-09-22 |
 | [AMADA](https://open.spotify.com/track/5hyRMNjIVnHK4cvkjddsCG) | [Athmik Rai](https://open.spotify.com/artist/1iDyvK9ioAbcL0LhWlKPev), [Sukeerth Shetty](https://open.spotify.com/artist/6uqYgNPvEW86Ek9oVLXOlo), [Surabhi Bharadwaj](https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr) | [AMADA](https://open.spotify.com/album/12q9qvqT21dpZAr3z4sMY3) | 4:24 | 2024-04-01 |  |
+| [Amma](https://open.spotify.com/track/1cknWsTf04j4n2FoGUV7DS) | [Pavana V Kashyap](https://open.spotify.com/artist/1KqqYAhcih9exiT1rEUQlQ), [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04) | [Amma](https://open.spotify.com/album/6LoIoj7lzUFF4lNld1TQWQ) | 2:06 | 2024-05-02 |  |
 | [Amma \- Amma enda aa kshana](https://open.spotify.com/track/4fLupNE2qawIX7d146Wj9t) | [Pushpa Aradhya](https://open.spotify.com/artist/2hmTOugi5cKw9On1y6QZ3i), [Giridhar Divan](https://open.spotify.com/artist/0fj18YwFnSMUQ7xlrOIWVz), [Bagur Markadeya](https://open.spotify.com/artist/5v2JYszdVFwmkDBX0iQOPL) | [Amma \(Amma enda aa kshana\)](https://open.spotify.com/album/4XY7NzBNYyhP9KcJViDWKo) | 4:07 | 2023-05-16 | 2023-06-08 |
 | [AMMA \- Kaanada Daiva](https://open.spotify.com/track/6arwgiW6iaxM21qKWoRq7R) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6), [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Vishnu K N](https://open.spotify.com/artist/2xuE6nX0KkyCECdmfnqyZX) | [AMMA \(Kaanada Daiva\)](https://open.spotify.com/album/4yO2V101zBfVyWUDnLlW3w) | 3:24 | 2023-05-16 | 2023-06-17 |
 | [Amma \- The Kodava Song](https://open.spotify.com/track/0khDuovSKj6pD4QHqAUoZa) | [Pop\-J Prajeeth](https://open.spotify.com/artist/23tu7tlPGRa9m21gycHy3p), [Karan Kaverappa](https://open.spotify.com/artist/6RZUmMeOOq7bgEWC6nyps7) | [Amma \- The Kodava Song](https://open.spotify.com/album/6Ev8CV3skVwb6duG5nqg2b) | 3:27 | 2024-01-22 | 2024-02-17 |

@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 249084,
+  "2024-05-03": 249115,
   "date_first_scraped": "2023-01-14",
   "description": "The biggest Japanese rock hits right now.  Cover: \u30de\u30ab\u30ed\u30cb\u3048\u3093\u3074\u3064 \u65e5\u672c\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
   "name": "J-Rock ON!!",
@@ -3903,6 +3903,24 @@
       "duration_ms": 229000,
       "name": "FORCE LIGHT",
       "url": "https://open.spotify.com/track/3xpFEhZ5Jn10g8cZa3oqYJ"
+    },
+    {
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/5GaOq4GqX8K59X3BVH3bHf"
+      },
+      "artists": [
+        {
+          "name": "Nothing\u2019s Carved In Stone",
+          "url": "https://open.spotify.com/artist/2aUTxokSKOzwUxXBp9AAlb"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224426,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/5lMnvFpIpBxeQ26PnU61Iz"
     },
     {
       "album": {
@@ -19053,7 +19071,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 228533,
       "name": "\u30d5\u30a1\u30f3\u30d5\u30a1\u30fc\u30ec",
       "url": "https://open.spotify.com/track/4nq80DMRmRZRBW12tN3rmS"

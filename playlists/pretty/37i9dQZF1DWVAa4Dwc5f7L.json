@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Olga Ta\u00f1\u00f3n",
-  "num_followers": 379364,
+  "num_followers": 379421,
   "original_name": "Merengue Mania",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,26 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "Esta Canci\u00f3n",
+        "url": "https://open.spotify.com/album/4LUmjFFZc79AmtjhoPmhzr"
+      },
+      "artists": [
+        {
+          "name": "Tutto Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ"
+        },
+        {
+          "name": "Carlos Baute",
+          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
+        }
+      ],
+      "duration_ms": 214145,
+      "name": "Esta Canci\u00f3n",
+      "url": "https://open.spotify.com/track/27Y7e2ahXoIm3R5xhxlFan"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Bailando por el Mundo (feat. Pitbull & El Cata)",
         "url": "https://open.spotify.com/album/5nRiEq87f96f29KYC09oZU"
       },
@@ -403,26 +423,6 @@
       "duration_ms": 195240,
       "name": "Bailando por el Mundo (feat. Pitbull & El Cata)",
       "url": "https://open.spotify.com/track/3FeMpPPhGRKieT8zmlJDQz"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Esta Canci\u00f3n",
-        "url": "https://open.spotify.com/album/4LUmjFFZc79AmtjhoPmhzr"
-      },
-      "artists": [
-        {
-          "name": "Tutto Dur\u00e1n",
-          "url": "https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ"
-        },
-        {
-          "name": "Carlos Baute",
-          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
-        }
-      ],
-      "duration_ms": 214145,
-      "name": "Esta Canci\u00f3n",
-      "url": "https://open.spotify.com/track/27Y7e2ahXoIm3R5xhxlFan"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1119,26 +1119,18 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "La Reuni\u00f3n 5 : La Bailadora / El Amor M\u00e1s Grande del Planeta / Si Tu Te Vas / Tu Hombre Soy Yo / Un Idiota / Voy a Beber / Nuestro Amor / Mi Celosa Hermosa / T\u00fa Eres Ajena / Borracha (En Vivo)",
-        "url": "https://open.spotify.com/album/05Fh3kXjqRuHSZ6lDLX7zR"
+        "name": "Coleccion Diamante",
+        "url": "https://open.spotify.com/album/05ICn9Npd5HZJgKDnaMByf"
       },
       "artists": [
         {
-          "name": "La Reuni\u00f3n",
-          "url": "https://open.spotify.com/artist/2DYGASY9WYBWoUkjwqq9c4"
-        },
-        {
-          "name": "Felipe Pel\u00e1ez",
-          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
-        },
-        {
-          "name": "Eddy Herrera",
-          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
         }
       ],
-      "duration_ms": 947950,
-      "name": "La Reuni\u00f3n 5 : La Bailadora / El Amor M\u00e1s Grande del Planeta / Si Tu Te Vas / Tu Hombre Soy Yo / Un Idiota / Voy a Beber / Nuestro Amor / Mi Celosa Hermosa / T\u00fa Eres Ajena / Borracha - En Vivo",
-      "url": "https://open.spotify.com/track/4tLNxU08ccx6jrj3MK14ol"
+      "duration_ms": 255080,
+      "name": "El Hombre Divertido",
+      "url": "https://open.spotify.com/track/75ngzYAvEAuc8YvQgo76iA"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1159,18 +1151,26 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Coleccion Diamante",
-        "url": "https://open.spotify.com/album/05ICn9Npd5HZJgKDnaMByf"
+        "name": "La Reuni\u00f3n 5 : La Bailadora / El Amor M\u00e1s Grande del Planeta / Si Tu Te Vas / Tu Hombre Soy Yo / Un Idiota / Voy a Beber / Nuestro Amor / Mi Celosa Hermosa / T\u00fa Eres Ajena / Borracha (En Vivo)",
+        "url": "https://open.spotify.com/album/05Fh3kXjqRuHSZ6lDLX7zR"
       },
       "artists": [
         {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+          "name": "La Reuni\u00f3n",
+          "url": "https://open.spotify.com/artist/2DYGASY9WYBWoUkjwqq9c4"
+        },
+        {
+          "name": "Felipe Pel\u00e1ez",
+          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
+        },
+        {
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
         }
       ],
-      "duration_ms": 255080,
-      "name": "El Hombre Divertido",
-      "url": "https://open.spotify.com/track/75ngzYAvEAuc8YvQgo76iA"
+      "duration_ms": 947950,
+      "name": "La Reuni\u00f3n 5 : La Bailadora / El Amor M\u00e1s Grande del Planeta / Si Tu Te Vas / Tu Hombre Soy Yo / Un Idiota / Voy a Beber / Nuestro Amor / Mi Celosa Hermosa / T\u00fa Eres Ajena / Borracha - En Vivo",
+      "url": "https://open.spotify.com/track/4tLNxU08ccx6jrj3MK14ol"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "Serie 2000",
+        "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 265680,
+      "name": "Volver\u00e9",
+      "url": "https://open.spotify.com/track/0HFBBgkhwJMvPiEDIkEsyt"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/4nR8BybNNejawuuQzRYwap"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 258746,
       "name": "Jilila Kimbolo",
       "url": "https://open.spotify.com/track/6gdy8MNpH37iLFTRdNXfAm"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Serie 2000",
-        "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 265680,
-      "name": "Volver\u00e9",
-      "url": "https://open.spotify.com/track/0HFBBgkhwJMvPiEDIkEsyt"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "QUIERO",
-        "url": "https://open.spotify.com/album/6xIvpqSVmpAIWyXMHE5ceU"
-      },
-      "artists": [
-        {
-          "name": "Didi Hernandez",
-          "url": "https://open.spotify.com/artist/4BcT4O9HRp3BUIKTsNtwZH"
-        },
-        {
-          "name": "El Completo Rd",
-          "url": "https://open.spotify.com/artist/6pvz7OwdRHemko3hrQygJb"
-        }
-      ],
-      "duration_ms": 227646,
-      "name": "QUIERO",
-      "url": "https://open.spotify.com/track/72hrD25ipI1I6TgJeG5Lui"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "15 Exitos De Pura Candela",
         "url": "https://open.spotify.com/album/34s5SEeyOMXc9MAy3jLGo6"
       },
@@ -1531,6 +1511,26 @@
       "duration_ms": 148986,
       "name": "El Costo De La Vida",
       "url": "https://open.spotify.com/track/5BQtqpUWEWujNim7fS5T6h"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "QUIERO",
+        "url": "https://open.spotify.com/album/6xIvpqSVmpAIWyXMHE5ceU"
+      },
+      "artists": [
+        {
+          "name": "Didi Hernandez",
+          "url": "https://open.spotify.com/artist/4BcT4O9HRp3BUIKTsNtwZH"
+        },
+        {
+          "name": "El Completo Rd",
+          "url": "https://open.spotify.com/artist/6pvz7OwdRHemko3hrQygJb"
+        }
+      ],
+      "duration_ms": 227646,
+      "name": "QUIERO",
+      "url": "https://open.spotify.com/track/72hrD25ipI1I6TgJeG5Lui"
     },
     {
       "added_at": "2024-04-05 04:00:00",

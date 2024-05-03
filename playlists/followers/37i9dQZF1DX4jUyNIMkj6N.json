@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 201403,
+  "2024-05-03": 201431,
   "date_first_scraped": "2021-12-21",
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
   "name": "Nordic Folk",
@@ -2007,7 +2007,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 192500,
       "name": "Here Comes The Sun",
       "url": "https://open.spotify.com/track/3qDlYd3hhaWo1xg6AgbzhQ"
@@ -2793,7 +2793,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-22",
+      "date_removed": null,
       "duration_ms": 213106,
       "name": "Magic Stone",
       "url": "https://open.spotify.com/track/1A8uTEGcDuZJDaPWoFb2yt"
@@ -3533,7 +3533,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 189697,
       "name": "Skuggor av oss",
       "url": "https://open.spotify.com/track/7mLnXV14Oqu0H4Svh1DWvG"
@@ -4375,7 +4375,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 182346,
       "name": "Ulveham",
       "url": "https://open.spotify.com/track/1We5Dzlzbqq0mLjBVOP7om"

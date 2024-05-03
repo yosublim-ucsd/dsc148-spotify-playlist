@@ -1,12 +1,12 @@
 {
   "description": "This is Dharius. The essential tracks, all in one playlist.",
-  "num_followers": 103720,
+  "num_followers": 103803,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjA0gAAAAACQXN67g15DJ4qIWhfHA95f",
+  "snapshot_id": "ZjGGAAAAAAC7D9UDCk3yKU48u8qx28Hv",
   "tracks": [
     {
       "added_at": null,
@@ -607,6 +607,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mecha Corta",
+        "url": "https://open.spotify.com/album/08U3yHqqKgyDm0LLwH0gAA"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 210645,
+      "name": "Mecha Corta",
+      "url": "https://open.spotify.com/track/0eOv02uWpROIogqqzGLGyH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Vicio y la Fama",
         "url": "https://open.spotify.com/album/1jY2gqdDwbRbtwIIwmcxqI"
       },
@@ -679,26 +699,6 @@
       "duration_ms": 212666,
       "name": "Estilo Malandro",
       "url": "https://open.spotify.com/track/5wLF7rGxYDi8qy4ch1IKGh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mecha Corta",
-        "url": "https://open.spotify.com/album/08U3yHqqKgyDm0LLwH0gAA"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 210645,
-      "name": "Mecha Corta",
-      "url": "https://open.spotify.com/track/0eOv02uWpROIogqqzGLGyH"
     },
     {
       "added_at": null,

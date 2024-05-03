@@ -4,11 +4,11 @@
 
 > Featuring that new vintage\. Cover: Lake Street Dive
 
-400 songs - 22 hr 57 min
+402 songs - 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [4321](https://open.spotify.com/track/22ZjKxmxtMXoAnJSN9gpq5) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [4321](https://open.spotify.com/album/5cqnDDzRKXFsjpax8cY2yo) | 3:52 | 2023-11-17 |  |
+| [4321](https://open.spotify.com/track/22ZjKxmxtMXoAnJSN9gpq5) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [4321](https://open.spotify.com/album/5cqnDDzRKXFsjpax8cY2yo) | 3:52 | 2023-11-17 | 2024-05-03 |
 | [9](https://open.spotify.com/track/0pvWt9KQykseV3y14H6m9N) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [9](https://open.spotify.com/album/52Of3CIb4EXdoyldUFg7An) | 4:31 | 2021-12-03 | 2022-07-11 |
 | [about time](https://open.spotify.com/track/2khJckZKgm10rTK583uKuQ) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Takahiro Izumikawa](https://open.spotify.com/artist/4CJAJc3P508XZPuIOi1c8D) | [about time](https://open.spotify.com/album/5vMVHkJ4komTyjWLIax60u) | 3:13 | 2022-07-01 | 2023-02-16 |
 | [Addiction](https://open.spotify.com/track/5zzN7Dvt8eJI8m7egpKRdM) | [Nina Tonji](https://open.spotify.com/artist/4tDdvHgJos0AlSU3sptU1q), [Jay Adams](https://open.spotify.com/artist/6MUJd2wLr0VB7SXy9kPgJ8), [Ben Molinaro](https://open.spotify.com/artist/3DYu0keMqdZnNJ3QezVFMG) | [Don't Try](https://open.spotify.com/album/53qLFnHCxA1bDGGSyxfkAk) | 2:55 | 2022-09-09 | 2023-02-16 |
@@ -193,6 +193,7 @@
 | [In Water](https://open.spotify.com/track/2z6MgeDtMM8bpy3iJwr7QO) | [Bay Ledges](https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc) | [In Water](https://open.spotify.com/album/6oADPnUSjOQjUEl4FffwHU) | 3:47 | 2022-04-22 | 2024-03-16 |
 | [Infinite Love](https://open.spotify.com/track/4vbhm12kpJwFP9frdIlD1u) | [Lane Brothers](https://open.spotify.com/artist/5SzuidUf9uEZLC6E62BszN) | [Lane Brothers](https://open.spotify.com/album/7tjQsjnKGHN9g84C0xrwZ9) | 3:25 | 2024-02-23 |  |
 | [It Don't Matter](https://open.spotify.com/track/45IX2seKuUtWnQEzAh3JRc) | [Elise Azkoul](https://open.spotify.com/artist/6KCrTdWDzF11PcWt6uygaE) | [It Don't Matter](https://open.spotify.com/album/5CSe4p4wJpggsELemioCqj) | 3:33 | 2022-05-06 |  |
+| [It Was You](https://open.spotify.com/track/6GGH6rgZEGAg0Afy6SOXb8) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [It Was You](https://open.spotify.com/album/5xo2Vvp1ceoc71Sz7YuvWh) | 3:16 | 2024-05-03 |  |
 | [It Will Come In Time](https://open.spotify.com/track/2eqocLN1rW8h10svumB8wd) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [It Will Come In Time](https://open.spotify.com/album/3kUX1L10eOj1lSuwrfk9PM) | 2:53 | 2022-04-29 | 2023-05-13 |
 | [IT'S YOU \(feat\. keshi\)](https://open.spotify.com/track/5SMCxRA6hB2jEhroaYfw6N) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [IT'S YOU \(feat\. keshi\)](https://open.spotify.com/album/1LtaBRxkVaAnoTSQQsWjJF) | 2:53 | 2022-09-09 | 2024-02-17 |
 | [Joy](https://open.spotify.com/track/4Hn4zAkBUaNnT8m9p7cYaf) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Joy](https://open.spotify.com/album/0Pq6IzsPjGObrhLlaqn9eM) | 3:13 | 2022-01-28 | 2023-02-16 |
@@ -327,6 +328,7 @@
 | [Smooth Sailin'](https://open.spotify.com/track/3JbqwFY5q0ORO3siv5zL3A) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home](https://open.spotify.com/album/4svLfrPPk2npPVuI4kXPYg) | 3:03 | 2021-12-03 | 2022-05-08 |
 | [Smooth Sailin'](https://open.spotify.com/track/3jpeI1goQHPIwwCMxrLrwx) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 3:03 | 2021-12-03 | 2023-01-28 |
 | [so easy](https://open.spotify.com/track/2e2AzG48LNWPgLi2G5k63X) | [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X), [Notkyle](https://open.spotify.com/artist/6NbOllM9XjgO44JQyhUv6D) | [so easy](https://open.spotify.com/album/3HiTBZ5YJbmGRhoEv2wpDf) | 2:58 | 2024-03-01 | 2024-04-19 |
+| [Sober](https://open.spotify.com/track/0MaRZUe5QjY56E1pfY3hFY) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Sober](https://open.spotify.com/album/7JKGPSP7UIjxPWWo9KuqMK) | 2:42 | 2024-05-03 |  |
 | [Somebody](https://open.spotify.com/track/4cB03uRsnOSABer7gv7gPt) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Somebody](https://open.spotify.com/album/1DGXrB5U3Vyqs5UXirE7e8) | 3:19 | 2022-08-19 |  |
 | [Someone to Love](https://open.spotify.com/track/6FAoGmM3fdvOvEivi9edSd) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Someone to Love](https://open.spotify.com/album/42PFGz6vnOm79L3kYli8Z5) | 3:56 | 2022-08-26 | 2022-10-31 |
 | [Someone to Love](https://open.spotify.com/track/7wtNoo3GB6Dv7KhiLmyY7T) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Hiding in Plain Sight](https://open.spotify.com/album/7kaw62RSTT97qeCUyURCLN) | 3:56 | 2022-08-26 | 2023-02-16 |
@@ -352,7 +354,7 @@
 | [Supply & Demand](https://open.spotify.com/track/0tsUIJakq2RksuC1YixAHX) | [Wilder Woods](https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2) | [Wilder Woods](https://open.spotify.com/album/35rWm0QieUmTizxsC7dXnG) | 3:16 | 2021-12-03 | 2023-01-28 |
 | [Sweet \- Single Edit](https://open.spotify.com/track/7uYpvX8Gb7CUubdJcRt8E0) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2) | [Sweet](https://open.spotify.com/album/0qDkNJ0azvJj9glUVIku8P) | 2:38 | 2022-07-22 | 2023-02-16 |
 | [Sweet Chamomile](https://open.spotify.com/track/0RfBLmmqsSP1pir9zu46d4) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Moments in Between](https://open.spotify.com/album/31YtUUKHFaKVhlELeptm1S) | 3:28 | 2021-12-03 | 2022-10-01 |
-| [Sweet Tooth](https://open.spotify.com/track/2q3WnVVXT4xh4GA4O7cHF3) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Sweet Tooth](https://open.spotify.com/album/0m7jHaP0wjBEqrRncFTLic) | 3:07 | 2024-02-02 |  |
+| [Sweet Tooth](https://open.spotify.com/track/2q3WnVVXT4xh4GA4O7cHF3) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Sweet Tooth](https://open.spotify.com/album/0m7jHaP0wjBEqrRncFTLic) | 3:07 | 2024-02-02 | 2024-05-03 |
 | [Tears Hit The Ground](https://open.spotify.com/track/2ajCIDxKQ5x7nBCvepBDx4) | [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Love Cycle](https://open.spotify.com/album/5331y9QfIpABo07fzyWtZt) | 3:21 | 2022-02-18 | 2023-03-25 |
 | [Tell Me](https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Tell Me](https://open.spotify.com/album/5G0S0RDVw7yKKzW3krfKlV) | 3:42 | 2022-03-25 | 2023-02-16 |
 | [The Best Part](https://open.spotify.com/track/00tGCgulE0lQHeJugDDNtl) | [Eric Hutchinson](https://open.spotify.com/artist/39x8gyJjTHiBQklFgVJSV4) | [Before & After Life](https://open.spotify.com/album/0gbO5q0USgCkccD7CpCiwE) | 4:53 | 2021-12-03 | 2022-08-13 |

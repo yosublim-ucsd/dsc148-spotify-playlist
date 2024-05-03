@@ -4,7 +4,7 @@
 
 > Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra música\. Foto: Rocío Jurado
 
-99 songs - 6 hr 15 min
+100 songs - 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Bandido](https://open.spotify.com/track/2rHhKu1hW8uqyr7LSrRn8E) | [Azucar Moreno](https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3) | [Bandido](https://open.spotify.com/album/4WkxTr5s8N6LLNscUyl3oW) | 3:02 | 2022-04-28 | 2023-08-29 |
 | [Beso a beso..\. dulcemente](https://open.spotify.com/track/5jY16zDOTWeHKArHy5Rjw3) | [Paloma San Basilio](https://open.spotify.com/artist/1QcwtcwAClkmeaVofZ4zUn) | [En directo](https://open.spotify.com/album/1deWXlYT0YUbKvR56Yv4IQ) | 4:12 | 2022-04-28 |  |
 | [Blanco y Negro](https://open.spotify.com/track/2yc9sElleYDl3NXMZSgsRv) | [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR) | [Guerra Fria](https://open.spotify.com/album/7popMaqBQ73NwM0Evpn16K) | 3:53 | 2022-04-28 |  |
-| [Cariño Trianero](https://open.spotify.com/track/2N5EguFWYgUCc5uiazKLAE) | [Carmen Sevilla](https://open.spotify.com/artist/0yy9TKpNruDeQ5FbhEXLOO) | [Carmen Sevilla : Sus Grandes Exitos](https://open.spotify.com/album/6LFXCD0B5MkbSLmVfph57R) | 2:04 | 2023-08-28 |  |
+| [Cariño Trianero](https://open.spotify.com/track/2N5EguFWYgUCc5uiazKLAE) | [Carmen Sevilla](https://open.spotify.com/artist/0yy9TKpNruDeQ5FbhEXLOO) | [Carmen Sevilla : Sus Grandes Exitos](https://open.spotify.com/album/6LFXCD0B5MkbSLmVfph57R) | 2:04 | 2023-08-28 | 2024-05-03 |
 | [Como Tu Mujer](https://open.spotify.com/track/48FyOW0CTVaPLFnWmOYDzB) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Mis Mejores Canciones](https://open.spotify.com/album/3t2qZdlJXoWGeenwUPD5qQ) | 4:25 | 2022-04-28 |  |
 | [Como una Ola](https://open.spotify.com/track/4x1SuI9nPq9tWeEbaRDUsM) | [Rocío Jurado](https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9) | [15 Exitos Originales Con Rocio Jurado](https://open.spotify.com/album/2uQ2R6i42oi4qVF4JUxlMf) | 4:21 | 2022-04-28 |  |
 | [Como Yo Te Amo \- Remasterizado](https://open.spotify.com/track/3pBmaSZCoLF0drPRuf85O5) | [Rocío Jurado](https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9) | [Canciones Entrañables \(Remasterizado\)](https://open.spotify.com/album/5w7W7a6Khy2SK7WHVcnBoV) | 4:40 | 2022-04-28 |  |
@@ -45,6 +45,7 @@
 | [Eres](https://open.spotify.com/track/4TDcFkFdHnROhMYelS3x4G) | [Massiel](https://open.spotify.com/artist/7gAcNqHWOMnqnsTBjq7v0T) | [Tiempos dificiles](https://open.spotify.com/album/6lfk9pty2XTZPUeJw3Onf9) | 3:17 | 2022-04-28 |  |
 | [Ese Hombre](https://open.spotify.com/track/47WTpJKUjZ4hxNECGMAVhS) | [Rocío Jurado](https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9) | [Señora](https://open.spotify.com/album/001Z1WdZi8VxzMwhS4BXZE) | 4:29 | 2022-04-28 |  |
 | [Fina Estampa \(with Miguel Poveda\) \- Con Miguel Poveda](https://open.spotify.com/track/1xONwDb3ux0Ld2q5mswsUE) | [Maria Dolores Pradera](https://open.spotify.com/artist/58LNn3iNPmmHusH1EkyBm4), [Miguel Poveda](https://open.spotify.com/artist/0BwjxWHTct80Qp5Xk7pxZj) | [Gracias A Vosotros](https://open.spotify.com/album/0U2kCRus4ANRCL4SoDkNRO) | 3:10 | 2022-04-28 |  |
+| [Garlochi](https://open.spotify.com/track/6ONi0W50OpVUxYbWWKcFVs) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [50 Aniversario](https://open.spotify.com/album/3LA6Ox91zgyHdhllLaidTQ) | 4:03 | 2024-05-02 |  |
 | [Hazme Tuya una Vez Mas](https://open.spotify.com/track/6nRaI3IcbXMi3iHbfuiiVk) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Desde Andalucia](https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw) | 6:07 | 2022-04-28 |  |
 | [HEY](https://open.spotify.com/track/1XxRrTL5TWbR5kuY5RB0Ck) | [Tamara Jerez](https://open.spotify.com/artist/2FPHGOUBcRzwPfXwqt3Ie7) | [HEY](https://open.spotify.com/album/7EP44d7bse5iPx1xv3LWK9) | 4:43 | 2023-06-30 |  |
 | [Hoy Lo Vi Pasar](https://open.spotify.com/track/3yGTCMzOnSd66VepQCd1ZK) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Para Toda La Vida](https://open.spotify.com/album/3lcEDEeQZzC0LSbrbKT6Xd) | 3:22 | 2022-04-28 |  |
@@ -96,8 +97,8 @@
 | [Tatuaje](https://open.spotify.com/track/4bSTSglkBr2mtv9bgKR8Th) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t) | [Tatuaje](https://open.spotify.com/album/6z0xxhlPljQvIMgCrfkwTn) | 4:31 | 2023-08-28 |  |
 | [Tatuaje](https://open.spotify.com/track/1Q26vHr8z0X1MFfRPDwPDZ) | [Concha Piquer](https://open.spotify.com/artist/40AlBZ419hHc7DmwqAYeC0) | [Canciones De Oro](https://open.spotify.com/album/4uk4tv0wCcgsU4SbswJjO2) | 3:08 | 2022-04-28 | 2023-07-01 |
 | [Te amaré, te amo, y te querré](https://open.spotify.com/track/7niuvgIISf1vGrnh00cVuQ) | [Mari Trini](https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ) | [Oraciones de amor](https://open.spotify.com/album/7LO9wG4cG5xUNC01xUVwdg) | 4:41 | 2022-04-28 |  |
-| [Te Quiero Te Quiero](https://open.spotify.com/track/55ekUAzFSBgKDj2gWziFsd) | [Carmen Sevilla](https://open.spotify.com/artist/0yy9TKpNruDeQ5FbhEXLOO) | [Carmen de España](https://open.spotify.com/album/4gRMzAVEmQp1aSIkxplmpn) | 3:04 | 2023-08-28 |  |
-| [Te Quiero Te Quiero](https://open.spotify.com/track/4wOyIzfTP0i1SVfGd9yBPH) | [Carmen Sevilla](https://open.spotify.com/artist/0yy9TKpNruDeQ5FbhEXLOO) | [Carmen Sevilla : Sus Grandes Exitos](https://open.spotify.com/album/6LFXCD0B5MkbSLmVfph57R) | 3:04 | 2022-04-28 | 2023-09-09 |
+| [Te Quiero Te Quiero](https://open.spotify.com/track/55ekUAzFSBgKDj2gWziFsd) | [Carmen Sevilla](https://open.spotify.com/artist/0yy9TKpNruDeQ5FbhEXLOO) | [Carmen de España](https://open.spotify.com/album/4gRMzAVEmQp1aSIkxplmpn) | 3:04 | 2023-08-28 | 2024-05-03 |
+| [Te Quiero Te Quiero](https://open.spotify.com/track/4wOyIzfTP0i1SVfGd9yBPH) | [Carmen Sevilla](https://open.spotify.com/artist/0yy9TKpNruDeQ5FbhEXLOO) | [Carmen Sevilla : Sus Grandes Exitos](https://open.spotify.com/album/6LFXCD0B5MkbSLmVfph57R) | 3:04 | 2022-04-28 |  |
 | [Tic\-Tac](https://open.spotify.com/track/0VzwC86lO5bxf89lvaoAjk) | [Maria Del Monte](https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW) | [Todo Vuelve](https://open.spotify.com/album/3Yrbz3zB4uZYxafoXDfueO) | 3:29 | 2022-04-28 |  |
 | [Tú Me Camelas \(Tangos\)](https://open.spotify.com/track/70YaxHyHdmLACqR1TinoUi) | [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8) | [Caprichos de Mujer](https://open.spotify.com/album/5xgvEgd0SL1z7wI3jNKLV3) | 4:13 | 2022-04-28 |  |
 | [Tú, Mi Sonrisa](https://open.spotify.com/track/5tXeC35WKsGB6Zh8fP9Iyi) | [María José Santiago](https://open.spotify.com/artist/0mZJtmCjJ9xeLA4dlJLQrI), [Bertin Osborne](https://open.spotify.com/artist/3GcAxbZYbhiXlNrhxWgiQZ) | [40](https://open.spotify.com/album/18ybBQzwHh3iDQniJOEwCV) | 3:23 | 2022-04-28 | 2022-07-21 |

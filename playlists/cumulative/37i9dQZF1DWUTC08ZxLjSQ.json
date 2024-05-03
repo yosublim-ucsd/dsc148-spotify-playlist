@@ -394,7 +394,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 169034,
       "name": "Banadi",
       "url": "https://open.spotify.com/track/3Vxvl8NrojI3EgMQYmtWFp"
@@ -4512,6 +4512,24 @@
       "duration_ms": 128565,
       "name": "Tmsa7",
       "url": "https://open.spotify.com/track/1FC0frU9acXOQvkJRGeAD2"
+    },
+    {
+      "album": {
+        "name": "Tonight You Are Mine",
+        "url": "https://open.spotify.com/album/1WYHUrTkqI0xXWqbpAAAKF"
+      },
+      "artists": [
+        {
+          "name": "Ghida",
+          "url": "https://open.spotify.com/artist/70R0r2Qd9G2lzXfqAXJXtT"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226813,
+      "name": "Tonight You Are Mine",
+      "url": "https://open.spotify.com/track/5pmsNABH9nDgidXqy2sLKV"
     },
     {
       "album": {

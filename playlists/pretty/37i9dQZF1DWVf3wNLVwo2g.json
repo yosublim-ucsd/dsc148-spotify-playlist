@@ -1,6 +1,6 @@
 {
   "description": "Powerful female voices, like you've never heard before.  Cover: Miley Cyrus. ",
-  "num_followers": 5122,
+  "num_followers": 5128,
   "original_name": "Women of Spotify Singles",
   "owner": {
     "name": "Spotify",
@@ -292,22 +292,6 @@
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 149443,
-      "name": "Daisy - Spotify Singles",
-      "url": "https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N"
-    },
-    {
-      "added_at": "2023-03-21 00:56:25",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/29FXbpvWD8WQ6jiKLdhAz6"
       },
       "artists": [
@@ -319,6 +303,22 @@
       "duration_ms": 231629,
       "name": "I Fall Apart - Recorded At Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/0MVvZYjUh20I13vor30dYe"
+    },
+    {
+      "added_at": "2023-03-21 00:56:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 149443,
+      "name": "Daisy - Spotify Singles",
+      "url": "https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -612,17 +612,17 @@
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3RH0hpUJfWcCNEjuypAtGC"
+        "url": "https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn"
       },
       "artists": [
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
         }
       ],
-      "duration_ms": 189056,
-      "name": "Sexual - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7zqLBFKCBkk5IfbgKgH4VZ"
+      "duration_ms": 271825,
+      "name": "Light On - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0NIbNHfjpDZYBC9gKpVoWd"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -652,17 +652,17 @@
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn"
+        "url": "https://open.spotify.com/album/3RH0hpUJfWcCNEjuypAtGC"
       },
       "artists": [
         {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
         }
       ],
-      "duration_ms": 271825,
-      "name": "Light On - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0NIbNHfjpDZYBC9gKpVoWd"
+      "duration_ms": 189056,
+      "name": "Sexual - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7zqLBFKCBkk5IfbgKgH4VZ"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -916,22 +916,6 @@
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 261977,
-      "name": "Don't Speak - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/0gzMEfErGPaCFbQJdb2HQb"
-    },
-    {
-      "added_at": "2023-03-21 00:56:25",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4sajM6GOU3Z1lbsO99C7WD"
       },
       "artists": [
@@ -943,6 +927,22 @@
       "duration_ms": 198629,
       "name": "lovely - Spotify Singles",
       "url": "https://open.spotify.com/track/7FHDb1W6EtQq7WnoX73Rpy"
+    },
+    {
+      "added_at": "2023-03-21 00:56:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 261977,
+      "name": "Don't Speak - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/0gzMEfErGPaCFbQJdb2HQb"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -1956,22 +1956,6 @@
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 193115,
-      "name": "Miss Me More - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/7oR9f1oXlG40AgSkwfxf3M"
-    },
-    {
-      "added_at": "2023-03-21 00:56:25",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/568wiTPWt5kE0Zk3joRigo"
       },
       "artists": [
@@ -1983,6 +1967,22 @@
       "duration_ms": 189305,
       "name": "Hold Me Like You Used To - Spotify Singles",
       "url": "https://open.spotify.com/track/5HZtgJapw0QgPUZzy6ql12"
+    },
+    {
+      "added_at": "2023-03-21 00:56:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 193115,
+      "name": "Miss Me More - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/7oR9f1oXlG40AgSkwfxf3M"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -2004,22 +2004,6 @@
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1oqgK74ZGMHTWEma2fST41"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 181872,
-      "name": "LET YOU BE RIGHT - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/6Xj6AtBraaa7CrQs6fRAQQ"
-    },
-    {
-      "added_at": "2023-03-21 00:56:25",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7tkiGumdgkSm8gpsBmGDbe"
       },
       "artists": [
@@ -2031,6 +2015,22 @@
       "duration_ms": 159497,
       "name": "sex money feelings die - Recorded at Spotify Studios Stockholm",
       "url": "https://open.spotify.com/track/0MRGc7t0cM9mLlQlfM7LFI"
+    },
+    {
+      "added_at": "2023-03-21 00:56:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1oqgK74ZGMHTWEma2fST41"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 181872,
+      "name": "LET YOU BE RIGHT - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/6Xj6AtBraaa7CrQs6fRAQQ"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -2200,22 +2200,6 @@
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/56P9jRbQcFQ8KOBW17xI00"
-      },
-      "artists": [
-        {
-          "name": "Fantasia",
-          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
-        }
-      ],
-      "duration_ms": 362602,
-      "name": "It's A Man's World/Sleeping With The One I Love - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1qX2eMwJzsQdhPg2CrmC1r"
-    },
-    {
-      "added_at": "2023-03-21 00:56:25",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib"
       },
       "artists": [
@@ -2227,6 +2211,22 @@
       "duration_ms": 161941,
       "name": "Want You In My Room - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/3brtbfC3XB210HgYYDxcf2"
+    },
+    {
+      "added_at": "2023-03-21 00:56:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/56P9jRbQcFQ8KOBW17xI00"
+      },
+      "artists": [
+        {
+          "name": "Fantasia",
+          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
+        }
+      ],
+      "duration_ms": 362602,
+      "name": "It's A Man's World/Sleeping With The One I Love - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1qX2eMwJzsQdhPg2CrmC1r"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -2600,22 +2600,6 @@
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7422NfmOW8GffdVQNbM90S"
-      },
-      "artists": [
-        {
-          "name": "SHAED",
-          "url": "https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR"
-        }
-      ],
-      "duration_ms": 155120,
-      "name": "Perfume - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6jPNBp1lDOoLNYm4sd2rWq"
-    },
-    {
-      "added_at": "2023-03-21 00:56:25",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1gLPXEmEAQevLuShz5BIz0"
       },
       "artists": [
@@ -2627,6 +2611,22 @@
       "duration_ms": 283001,
       "name": "Deja Vu - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2qoa1Ok9Kyj3f3CQyxu096"
+    },
+    {
+      "added_at": "2023-03-21 00:56:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7422NfmOW8GffdVQNbM90S"
+      },
+      "artists": [
+        {
+          "name": "SHAED",
+          "url": "https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR"
+        }
+      ],
+      "duration_ms": 155120,
+      "name": "Perfume - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6jPNBp1lDOoLNYm4sd2rWq"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -2664,22 +2664,6 @@
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3QmFCfJVhXpTDwNL5ozNug"
-      },
-      "artists": [
-        {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
-        }
-      ],
-      "duration_ms": 197817,
-      "name": "Blood Rush - Spotify Singles",
-      "url": "https://open.spotify.com/track/487irnHaIRbh6VOWFf9qGs"
-    },
-    {
-      "added_at": "2023-03-21 00:56:25",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1WiF35jQ1seXSQmXA7rR8c"
       },
       "artists": [
@@ -2695,6 +2679,22 @@
       "duration_ms": 220371,
       "name": "Hurting - Recorded At AIR Studios, London",
       "url": "https://open.spotify.com/track/53uc3quxXVrb9sDUdkfYEb"
+    },
+    {
+      "added_at": "2023-03-21 00:56:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3QmFCfJVhXpTDwNL5ozNug"
+      },
+      "artists": [
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        }
+      ],
+      "duration_ms": 197817,
+      "name": "Blood Rush - Spotify Singles",
+      "url": "https://open.spotify.com/track/487irnHaIRbh6VOWFf9qGs"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -2748,22 +2748,6 @@
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4deTc6TA47HuQPM9xnZCsL"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 190920,
-      "name": "Fresh Start - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3MR2N8tO2tfp3H2LVIqjZj"
-    },
-    {
-      "added_at": "2023-03-21 00:56:25",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1aKSRHzPIuoTP2sbcT7iRi"
       },
       "artists": [
@@ -2775,6 +2759,22 @@
       "duration_ms": 197493,
       "name": "Long Live Love - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7LILyHS0z6PXDt34ZrCD0h"
+    },
+    {
+      "added_at": "2023-03-21 00:56:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4deTc6TA47HuQPM9xnZCsL"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 190920,
+      "name": "Fresh Start - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3MR2N8tO2tfp3H2LVIqjZj"
     },
     {
       "added_at": "2023-03-21 00:56:25",

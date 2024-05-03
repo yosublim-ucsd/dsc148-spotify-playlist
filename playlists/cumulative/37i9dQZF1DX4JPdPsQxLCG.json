@@ -3336,7 +3336,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 177843,
       "name": "Kindergarten Heart",
       "url": "https://open.spotify.com/track/4sfkyrxPn0YOCohtvBRPJo"
@@ -4425,6 +4425,28 @@
     },
     {
       "album": {
+        "name": "Oddly Enough",
+        "url": "https://open.spotify.com/album/2mwK3K2XDwk1U0umEjtS9b"
+      },
+      "artists": [
+        {
+          "name": "Seago",
+          "url": "https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s"
+        },
+        {
+          "name": "harper",
+          "url": "https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165662,
+      "name": "Oddly Enough",
+      "url": "https://open.spotify.com/track/0wTRA4l4kRHoG7qR29vvXi"
+    },
+    {
+      "album": {
         "name": "Such Jubilee",
         "url": "https://open.spotify.com/album/3hwYI0XK165g3EOCedgOMZ"
       },
@@ -5068,7 +5090,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 270724,
       "name": "Repeat",
       "url": "https://open.spotify.com/track/2dEfLths5RiTYBF2hEquOc"
@@ -5799,6 +5821,24 @@
     },
     {
       "album": {
+        "name": "Sour Patch",
+        "url": "https://open.spotify.com/album/6CLdVHeb9EBQU0pnHdcyMO"
+      },
+      "artists": [
+        {
+          "name": "Ruby Waters",
+          "url": "https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201735,
+      "name": "Sour Patch",
+      "url": "https://open.spotify.com/track/4I0XnxrpkwD7CvJuUm9DgB"
+    },
+    {
+      "album": {
         "name": "Learn & Burn",
         "url": "https://open.spotify.com/album/3lmNcivIUs1XFQ0jTAmfrr"
       },
@@ -6192,7 +6232,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 241985,
       "name": "Supernatural",
       "url": "https://open.spotify.com/track/5uwlYbJ8xovXnbTL0TaItp"
@@ -6246,7 +6286,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 234680,
       "name": "Sweet Disposition",
       "url": "https://open.spotify.com/track/6IIjmqaDdO6vdEBasXsCve"
@@ -6898,7 +6938,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 198511,
       "name": "Top Down",
       "url": "https://open.spotify.com/track/44Lxf5akfAz3A9Su0MFB7K"
@@ -7006,7 +7046,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-14",
+      "date_removed": null,
       "duration_ms": 171293,
       "name": "Up We Go",
       "url": "https://open.spotify.com/track/2u6CBCGo8outw3ThHk4c4l"

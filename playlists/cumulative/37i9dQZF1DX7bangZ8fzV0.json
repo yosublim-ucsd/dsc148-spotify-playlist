@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/35nSKL5p684i0vXrFvcgGz?si=QaAEx61qTWuO11dwsmougw\">Dirk Van Der Westhuizen</a>  ",
+  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t?si=qckMkXE4Rnml01O2dS1E8w\">Gerhard Steyn</a> & <a href=\"https://open.spotify.com/artist/3Wk4aDwlH1CsErepTTZVe4?si=Z6-ff9tIShiv7deQTozkSg\">Liezel Pieters</a>  ",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -604,6 +604,24 @@
       "duration_ms": 191466,
       "name": "Dagdrome in Suburbia",
       "url": "https://open.spotify.com/track/1K9B9JRjtUe6bVVOv8Bw1X"
+    },
+    {
+      "album": {
+        "name": "Dans Kwagga",
+        "url": "https://open.spotify.com/album/6EUKAwUr11udwqsy8Fxvd7"
+      },
+      "artists": [
+        {
+          "name": "JAN JAN JAN",
+          "url": "https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228874,
+      "name": "Dans Kwagga",
+      "url": "https://open.spotify.com/track/5rqe4RmTztq10pipi4b0DA"
     },
     {
       "album": {
@@ -3768,7 +3786,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 204304,
       "name": "Vuur Wat Brand",
       "url": "https://open.spotify.com/track/1c9QUvWJm52Qi0p7i5CKrB"

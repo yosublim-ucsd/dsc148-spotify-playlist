@@ -515,6 +515,28 @@
     },
     {
       "album": {
+        "name": "Bills",
+        "url": "https://open.spotify.com/album/061x6qxiNYbx7Zf2KFgnjE"
+      },
+      "artists": [
+        {
+          "name": "Davis Chris",
+          "url": "https://open.spotify.com/artist/22pJFdsUssxfZ6RB6NPztj"
+        },
+        {
+          "name": "Mr Foster",
+          "url": "https://open.spotify.com/artist/3A0mmSV3bOnB4vCgtFVntm"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131121,
+      "name": "Bills",
+      "url": "https://open.spotify.com/track/60kq7RymMAyz4FoVAxcxtu"
+    },
+    {
+      "album": {
         "name": "Bitter Taste",
         "url": "https://open.spotify.com/album/0BZOtVXIS9jshHxwLXVJhS"
       },
@@ -878,7 +900,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 224858,
       "name": "California",
       "url": "https://open.spotify.com/track/6pyzjYC9xlQDvE2kuCoo8J"
@@ -2236,7 +2258,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 127687,
       "name": "Jackpot",
       "url": "https://open.spotify.com/track/7ts8Hpf5LF6HmvyePJgysY"
@@ -3006,7 +3028,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 273291,
       "name": "My City",
       "url": "https://open.spotify.com/track/0DpJhcbwE1YtBSQEzNfX9g"
@@ -4060,6 +4082,24 @@
       "duration_ms": 187447,
       "name": "Something With Feel",
       "url": "https://open.spotify.com/track/2BUhdEhT7D11OSPw38IxDG"
+    },
+    {
+      "album": {
+        "name": "Soul Brother No. 1",
+        "url": "https://open.spotify.com/album/3xl63kJIXsLLRMgrSjoHcf"
+      },
+      "artists": [
+        {
+          "name": "The Reverend Shawn Amos",
+          "url": "https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281842,
+      "name": "Soul Brother No. 1",
+      "url": "https://open.spotify.com/track/6J2WmEc61g4OG4yBfO89kp"
     },
     {
       "album": {

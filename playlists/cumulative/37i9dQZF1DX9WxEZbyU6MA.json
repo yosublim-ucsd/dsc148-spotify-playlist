@@ -1989,6 +1989,36 @@
     },
     {
       "album": {
+        "name": "A Serenity of Soul (Westminster Choir 100th Anniversary Recording)",
+        "url": "https://open.spotify.com/album/1PhbZD3IgHBuFx7jE3IABb"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Westminster Choir",
+          "url": "https://open.spotify.com/artist/7bOkvwxa2SjdbvMvNawSMZ"
+        },
+        {
+          "name": "James Jordan",
+          "url": "https://open.spotify.com/artist/61UExWH2clZAUQFKTL6i26"
+        },
+        {
+          "name": "Gregory Stout",
+          "url": "https://open.spotify.com/artist/6NGNTe5X77kALLYzhRFaX9"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275401,
+      "name": "Shenandoah",
+      "url": "https://open.spotify.com/track/3GSRFohtLOIGDDsTi0C42D"
+    },
+    {
+      "album": {
         "name": "Shimmering",
         "url": "https://open.spotify.com/album/4xIyRTcQ1M3E4nbQIvZf05"
       },

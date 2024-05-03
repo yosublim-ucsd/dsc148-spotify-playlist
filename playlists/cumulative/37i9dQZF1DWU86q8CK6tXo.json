@@ -2986,7 +2986,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 314111,
       "name": "Black Widow",
       "url": "https://open.spotify.com/track/4TiQpZZheXn60PUPIF6QJi"
@@ -7028,7 +7028,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 225985,
       "name": "EMBERS",
       "url": "https://open.spotify.com/track/21Cx6z51SqNTZaiB221atC"
@@ -8450,7 +8450,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 194531,
       "name": "Fumar Beber",
       "url": "https://open.spotify.com/track/7iWyYpsMYA8VUuJqeRn9B3"
@@ -9104,6 +9104,24 @@
       "duration_ms": 236236,
       "name": "Go Baby",
       "url": "https://open.spotify.com/track/3NiL2JcFIncyshy4KOKA73"
+    },
+    {
+      "album": {
+        "name": "Dennis Daughter (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3ey0JVQZp7VBFWHEs7z6X1"
+      },
+      "artists": [
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183906,
+      "name": "GO GET YA MOTHA",
+      "url": "https://open.spotify.com/track/6AHjMfDel9YzCTu1Lci5iq"
     },
     {
       "album": {
@@ -18943,6 +18961,24 @@
     },
     {
       "album": {
+        "name": "Ranchero",
+        "url": "https://open.spotify.com/album/6YuTYAphtTtx15HsessRq4"
+      },
+      "artists": [
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175094,
+      "name": "Ranchero",
+      "url": "https://open.spotify.com/track/2JQlJ8NMAsc64NpK40I7FK"
+    },
+    {
+      "album": {
         "name": "loneliest b!tch in america",
         "url": "https://open.spotify.com/album/1HdkKXXUh1AP7Koj2x14Af"
       },
@@ -20320,6 +20356,24 @@
       "duration_ms": 156584,
       "name": "she knows it",
       "url": "https://open.spotify.com/track/5i0mOrc400quD5Xrd7S8ya"
+    },
+    {
+      "album": {
+        "name": "wilt",
+        "url": "https://open.spotify.com/album/3kmDFMtB0dcW12p62brgKG"
+      },
+      "artists": [
+        {
+          "name": "wilt",
+          "url": "https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161500,
+      "name": "she wants me too",
+      "url": "https://open.spotify.com/track/2wFMROal7vNCCBBUpUAe3E"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Top English songs from Asia\. Cover: Frizzell D'souza
 
-294 songs - 16 hr 57 min
+295 songs - 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Dark Blue Sky](https://open.spotify.com/track/2q7SxiB53YPRj4NTLujb0P) | [Mimansa](https://open.spotify.com/artist/1ZChq8269HWtLsjugMFR0l) | [Dark Blue Sky](https://open.spotify.com/album/1aSfpHhHhjceiFnWofOJe6) | 4:07 | 2022-03-25 | 2022-05-26 |
 | [daydream](https://open.spotify.com/track/1vRJrhhctvUFI1X44CVn8V) | [Taarini](https://open.spotify.com/artist/7ha2CwInFLU6MVnKZoH2qv) | [daydream](https://open.spotify.com/album/4JB9jTAwRLkQPG3iLBWHCs) | 3:03 | 2023-03-16 | 2023-04-19 |
 | [Dear Us](https://open.spotify.com/track/1Yt5Jo4jR1eLpxAj05vCvN) | [Jeremiah de Rozario](https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna) | [Dear Us](https://open.spotify.com/album/3cauT2XM9GVuKgnv0uUEtm) | 3:06 | 2022-03-25 | 2023-08-19 |
-| [Decent People](https://open.spotify.com/track/6VjQrUeEsmje2FqWFr5atT) | [Meera](https://open.spotify.com/artist/1a74S7m7Ce1IRYAC61gXfv), [Raag Sethi](https://open.spotify.com/artist/6peFV7z1UeYlD4aUxDhAv7) | [Smile\-ability](https://open.spotify.com/album/4lp3HLLFeCIg36292oOkmt) | 3:12 | 2024-03-26 |  |
+| [Decent People](https://open.spotify.com/track/6VjQrUeEsmje2FqWFr5atT) | [Meera](https://open.spotify.com/artist/1a74S7m7Ce1IRYAC61gXfv), [Raag Sethi](https://open.spotify.com/artist/6peFV7z1UeYlD4aUxDhAv7) | [Smile\-ability](https://open.spotify.com/album/4lp3HLLFeCIg36292oOkmt) | 3:12 | 2024-03-26 | 2024-05-03 |
 | [Deep Diving](https://open.spotify.com/track/6NslJ8DMabPbslZYKQ8Qer) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [Deep Diving](https://open.spotify.com/album/65YhubUi5rIDZmFr5FINBx) | 2:40 | 2023-08-25 | 2023-12-16 |
 | [Desert Island](https://open.spotify.com/track/4v4lyqBQuvFyIzPkrVX1xQ) | [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Desert Island](https://open.spotify.com/album/0FOG8vBG0OfDwFVfKDwf29) | 3:28 | 2022-03-25 | 2023-05-20 |
 | [DFWM](https://open.spotify.com/track/6356OPdyCg97sRoBnYyTwe) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs), [Oceantied](https://open.spotify.com/artist/755GG4WXDoBMcDlcBEwgp3) | [DFWM](https://open.spotify.com/album/2wu92Nq78NWpXjL6S2Uu0M) | 3:17 | 2022-03-25 | 2022-05-22 |
@@ -108,6 +108,7 @@
 | [Halfway](https://open.spotify.com/track/3o3GYMcTzZi3bowHsoGAbi) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Halfway](https://open.spotify.com/album/7grcqqugy7VGt4GV72oxpC) | 3:28 | 2023-07-20 |  |
 | [Have You Been Told](https://open.spotify.com/track/5Lz6NqjGEBDNsDDxnygkUJ) | [Edwin Raphael](https://open.spotify.com/artist/44DUgsrbRUlhwfLyj4ySUB) | [Have You Been Told](https://open.spotify.com/album/5pHcP8GHanM9jb6k9sDris) | 3:01 | 2022-04-11 | 2023-08-18 |
 | [Headrush](https://open.spotify.com/track/7oLdorBxa3NvbkOyoHi7Kf) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [adL](https://open.spotify.com/artist/4ERBh5R40XpUy1uk9aZzag) | [Headrush](https://open.spotify.com/album/0MExe2bXS8GwfAWLKAJPce) | 2:59 | 2022-09-26 | 2023-02-08 |
+| [Heartless](https://open.spotify.com/track/6NZVpnuEbRWkXucouWEbaq) | [Sarah Black](https://open.spotify.com/artist/42HHTJt9IDWgxElbHzZStO) | [Heartless](https://open.spotify.com/album/7oazSeCF0JivrnL8neefG7) | 2:47 | 2024-05-02 |  |
 | [Hello and Goodbye](https://open.spotify.com/track/1UXQnieFGCBAeiWM173eMX) | [Jeanne Merchant](https://open.spotify.com/artist/3JSGvZjELvoBZalvFCM6Zp), [Anshuman Sharma](https://open.spotify.com/artist/3rNr8T39bUi3dYfiqffp8w) | [Hello and Goodbye](https://open.spotify.com/album/3LpTSaMHbu8oo0CBxjgMJt) | 3:09 | 2022-08-05 | 2023-01-13 |
 | [Hey Aries](https://open.spotify.com/track/5bZzQ9JnJWLR9UE7T0Hm4I) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Hey Aries](https://open.spotify.com/album/6YscTA7rMIXvhbqHKufQBz) | 4:17 | 2023-05-19 | 2024-02-08 |
 | [High Horse](https://open.spotify.com/track/57TCZJvvp9aR2gc6NTD4OB) | [Viv & Shaz](https://open.spotify.com/artist/0HcVwSFeNSlLHDaIbod2xf), [Vivienne Pocha](https://open.spotify.com/artist/2fUE5kssQWjZs704BulUUI), [Shazneen Arethna](https://open.spotify.com/artist/7sCO08Lf7f0FHy2KEEZ5lk) | [High Horse](https://open.spotify.com/album/1BuuweRpEy3kExoCcPhZzV) | 3:39 | 2022-05-25 | 2023-01-13 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "Lo m\u00e1s pegado, lo m\u00e1s trendy, osea Dillom.",
+  "description": "Lo m\u00e1s pegado, lo m\u00e1s trendy, osea S3BZ & Spreen.",
   "name": "El Top 2024",
   "tracks": [
     {
@@ -1126,7 +1126,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 213951,
       "name": "BELLAQUERIA",
       "url": "https://open.spotify.com/track/4idfodHR51jrjpuIww8HGw"
@@ -4588,7 +4588,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 234105,
       "name": "Linda - Remix",
       "url": "https://open.spotify.com/track/7HrgGbnNKZKhBL70aFKpXk"
@@ -4780,7 +4780,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 130613,
       "name": "LUCK RA | DJ TAO Turreo Sessions #19",
       "url": "https://open.spotify.com/track/2WOEp6Kyh7CKCq4FTpUOtA"
@@ -4850,7 +4850,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 196800,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi"
@@ -4968,7 +4968,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 167419,
       "name": "L\u00e1grimas | CROSSOVER #4",
       "url": "https://open.spotify.com/track/5zDEMy7lLJ1W7vauTrH5mb"
@@ -6368,7 +6368,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 171986,
       "name": "Normal",
       "url": "https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR"
@@ -6496,7 +6496,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 221601,
       "name": "OJITOS ROJOS",
       "url": "https://open.spotify.com/track/5LsvrplQ7YCK4ROg4gym9a"
@@ -7352,7 +7352,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 145054,
       "name": "Quiero Creer",
       "url": "https://open.spotify.com/track/7HdEUquZzUzPjgSllvlJGl"
@@ -7594,6 +7594,32 @@
       "duration_ms": 206946,
       "name": "REMIX EXCLUSIVO",
       "url": "https://open.spotify.com/track/3eqCJfgJJs8iKx49KO12s3"
+    },
+    {
+      "album": {
+        "name": "Respeito",
+        "url": "https://open.spotify.com/album/5hb16jy47rIjFQRUKg2qIg"
+      },
+      "artists": [
+        {
+          "name": "Spreen",
+          "url": "https://open.spotify.com/artist/1NIDfe1B5J1EyNiJcPZsfZ"
+        },
+        {
+          "name": "S3BZS",
+          "url": "https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id"
+        },
+        {
+          "name": "Launch13",
+          "url": "https://open.spotify.com/artist/3TgsOVvQlRt3sBrIhQ7U9k"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116100,
+      "name": "Respeito",
+      "url": "https://open.spotify.com/track/14E117Ikw43Vljys3fAsNU"
     },
     {
       "album": {
@@ -8932,7 +8958,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 192517,
       "name": "TU Y YO",
       "url": "https://open.spotify.com/track/00THZGfbizNvMUkJsQs74K"
@@ -9788,6 +9814,32 @@
       "duration_ms": 148979,
       "name": "Y TE VAS",
       "url": "https://open.spotify.com/track/21RG4bCz6wb3iDCshmUGYT"
+    },
+    {
+      "album": {
+        "name": "RADIO CLUB HITS",
+        "url": "https://open.spotify.com/album/1qJCu54S0zWtGvdQq50OFq"
+      },
+      "artists": [
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        },
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        },
+        {
+          "name": "Obie Wanshot",
+          "url": "https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130409,
+      "name": "YA NI YO ME ENTIENDO",
+      "url": "https://open.spotify.com/track/3lqs3nTdYAbX4iQV6JBehz"
     },
     {
       "album": {

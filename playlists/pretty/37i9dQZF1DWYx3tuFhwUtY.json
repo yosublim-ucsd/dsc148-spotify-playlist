@@ -1,6 +1,6 @@
 {
   "description": "Buen indie rock para contar historietas...",
-  "num_followers": 138283,
+  "num_followers": 138287,
   "original_name": "Diarios de Bicicleta",
   "owner": {
     "name": "Spotify",
@@ -191,18 +191,18 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
-        "name": "HEAVY META",
-        "url": "https://open.spotify.com/album/6w5N3oL83KiitLdFcCrzTj"
+        "name": "Lonely Boy",
+        "url": "https://open.spotify.com/album/2uGi7bQZU5My0k1UGJQRz2"
       },
       "artists": [
         {
-          "name": "Ron Gallo",
-          "url": "https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg"
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 220538,
-      "name": "Young Lady, You're Scaring Me",
-      "url": "https://open.spotify.com/track/6PtIXICwmoxCgLjw2zApDs"
+      "duration_ms": 193653,
+      "name": "Lonely Boy",
+      "url": "https://open.spotify.com/track/3dOAXUx7I1qnzWzxdnsyB8"
     },
     {
       "added_at": "2023-10-23 19:19:23",
@@ -223,18 +223,18 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
-        "name": "Lonely Boy",
-        "url": "https://open.spotify.com/album/2uGi7bQZU5My0k1UGJQRz2"
+        "name": "HEAVY META",
+        "url": "https://open.spotify.com/album/6w5N3oL83KiitLdFcCrzTj"
       },
       "artists": [
         {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+          "name": "Ron Gallo",
+          "url": "https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg"
         }
       ],
-      "duration_ms": 193653,
-      "name": "Lonely Boy",
-      "url": "https://open.spotify.com/track/3dOAXUx7I1qnzWzxdnsyB8"
+      "duration_ms": 220538,
+      "name": "Young Lady, You're Scaring Me",
+      "url": "https://open.spotify.com/track/6PtIXICwmoxCgLjw2zApDs"
     },
     {
       "added_at": "2023-10-23 19:19:23",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
-        "name": "oh boi",
-        "url": "https://open.spotify.com/album/6PJNpyvjXzbPyYAYvSPJlM"
-      },
-      "artists": [
-        {
-          "name": "shego",
-          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
-        }
-      ],
-      "duration_ms": 160333,
-      "name": "oh boi",
-      "url": "https://open.spotify.com/track/2BkSglj7a3gYYm25lNNUjf"
-    },
-    {
-      "added_at": "2023-10-23 19:19:23",
-      "album": {
         "name": "Glitra",
         "url": "https://open.spotify.com/album/7GYLONcNgPmog4Zqn8sm3b"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 210360,
       "name": "Mol y Sol",
       "url": "https://open.spotify.com/track/7AlzbuJ7jtFC2roWwgXvLL"
+    },
+    {
+      "added_at": "2023-10-23 19:19:23",
+      "album": {
+        "name": "oh boi",
+        "url": "https://open.spotify.com/album/6PJNpyvjXzbPyYAYvSPJlM"
+      },
+      "artists": [
+        {
+          "name": "shego",
+          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
+        }
+      ],
+      "duration_ms": 160333,
+      "name": "oh boi",
+      "url": "https://open.spotify.com/track/2BkSglj7a3gYYm25lNNUjf"
     },
     {
       "added_at": "2023-10-23 19:19:23",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
-        "name": "Un Poco M\u00e1s de Luz",
-        "url": "https://open.spotify.com/album/1W2MjZPeWiwn5AZw3OPyKL"
-      },
-      "artists": [
-        {
-          "name": "San Pedro el Cortez",
-          "url": "https://open.spotify.com/artist/4qMybSJtpFeNmHYfJ1rXkl"
-        }
-      ],
-      "duration_ms": 344145,
-      "name": "Fukushima",
-      "url": "https://open.spotify.com/track/4nE1FtwspcXO6jJ4D5f5Bv"
-    },
-    {
-      "added_at": "2023-10-23 19:19:23",
-      "album": {
         "name": "Huesos Viejos",
         "url": "https://open.spotify.com/album/3JNj1DiE02Bq2sCgxy6VNQ"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 198530,
       "name": "Huesos Viejos",
       "url": "https://open.spotify.com/track/61Q1488cGOi0zuEGEIVHbV"
+    },
+    {
+      "added_at": "2023-10-23 19:19:23",
+      "album": {
+        "name": "Un Poco M\u00e1s de Luz",
+        "url": "https://open.spotify.com/album/1W2MjZPeWiwn5AZw3OPyKL"
+      },
+      "artists": [
+        {
+          "name": "San Pedro el Cortez",
+          "url": "https://open.spotify.com/artist/4qMybSJtpFeNmHYfJ1rXkl"
+        }
+      ],
+      "duration_ms": 344145,
+      "name": "Fukushima",
+      "url": "https://open.spotify.com/track/4nE1FtwspcXO6jJ4D5f5Bv"
     },
     {
       "added_at": "2023-10-23 19:19:23",

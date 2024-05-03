@@ -1,12 +1,12 @@
 {
-  "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 18712,
+  "description": "This Is Ken Carson. Los temas esenciales, todos en una lista.",
+  "num_followers": 18815,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjA0gAAAAAAcB4cJQlIW0GyMzUp0y+6P",
+  "snapshot_id": "ZjGGAAAAAADbfyyY+z5TkcAmVQyBZA8q",
   "tracks": [
     {
       "added_at": null,
@@ -131,26 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TEC",
-        "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 173195,
-      "name": "Fell In Love (with Ken Carson)",
-      "url": "https://open.spotify.com/track/302EsF6DE70LfngVNLlqo5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "President (feat. Ken Carson)",
         "url": "https://open.spotify.com/album/6iTOKqu4Vl8q7oPzusfOB8"
       },
@@ -171,6 +151,26 @@
       "duration_ms": 187496,
       "name": "President (feat. Ken Carson)",
       "url": "https://open.spotify.com/track/3wHQwZC88fNttgEGinZ34Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TEC",
+        "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 173195,
+      "name": "Fell In Love (with Ken Carson)",
+      "url": "https://open.spotify.com/track/302EsF6DE70LfngVNLlqo5"
     },
     {
       "added_at": null,
@@ -555,42 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homixide Lifestyle",
-        "url": "https://open.spotify.com/album/4vw2hN5xBkFXRBAfnGjUmK"
-      },
-      "artists": [
-        {
-          "name": "Homixide Gang",
-          "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU"
-        },
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Stunt",
-      "url": "https://open.spotify.com/track/5hzkAD8nloXDHk62KsVtyG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Teen X",
-        "url": "https://open.spotify.com/album/33afeafKvnHqT7p2lYgdhd"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 105508,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/6ALDTINxlHOp96KoLWYvqK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Teen X : Relapsed",
         "url": "https://open.spotify.com/album/1NwCufbDWeIm6nOKGp0Et6"
       },
@@ -607,18 +571,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Project X",
-        "url": "https://open.spotify.com/album/4Vd0qWsKeNJzsouF5Dg1yS"
+        "name": "Homixide Lifestyle",
+        "url": "https://open.spotify.com/album/4vw2hN5xBkFXRBAfnGjUmK"
       },
       "artists": [
+        {
+          "name": "Homixide Gang",
+          "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU"
+        },
         {
           "name": "Ken Carson",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 104938,
-      "name": "Who's Next",
-      "url": "https://open.spotify.com/track/0dCMTAOfCN54ik5qwQEsms"
+      "duration_ms": 178285,
+      "name": "Stunt",
+      "url": "https://open.spotify.com/track/5hzkAD8nloXDHk62KsVtyG"
     },
     {
       "added_at": null,
@@ -652,9 +620,25 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 99683,
-      "name": "Pissed Off",
-      "url": "https://open.spotify.com/track/3oFiO1MyubceRw2OheuKwJ"
+      "duration_ms": 105508,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/6ALDTINxlHOp96KoLWYvqK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Project X",
+        "url": "https://open.spotify.com/album/4Vd0qWsKeNJzsouF5Dg1yS"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 104938,
+      "name": "Who's Next",
+      "url": "https://open.spotify.com/track/0dCMTAOfCN54ik5qwQEsms"
     },
     {
       "added_at": null,
@@ -675,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Project X",
-        "url": "https://open.spotify.com/album/4Vd0qWsKeNJzsouF5Dg1yS"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 160832,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/0MyP4cSQBIkyogzz8xWwHQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Teen X : Relapsed",
         "url": "https://open.spotify.com/album/1NwCufbDWeIm6nOKGp0Et6"
       },
@@ -703,6 +671,38 @@
       "duration_ms": 77583,
       "name": "On the Low",
       "url": "https://open.spotify.com/track/5dZOZ75mViIFTs3etMFq5d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teen X",
+        "url": "https://open.spotify.com/album/33afeafKvnHqT7p2lYgdhd"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 99683,
+      "name": "Pissed Off",
+      "url": "https://open.spotify.com/track/3oFiO1MyubceRw2OheuKwJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Project X",
+        "url": "https://open.spotify.com/album/4Vd0qWsKeNJzsouF5Dg1yS"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 160832,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/0MyP4cSQBIkyogzz8xWwHQ"
     }
   ],
   "unique_name": "This Is Ken Carson",

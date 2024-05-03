@@ -1,13 +1,245 @@
 {
   "description": "New releases for the kids. Cover: Laurie Berkner",
-  "num_followers": 21482,
+  "num_followers": 21549,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zism/AAAAADVYiCe7uqXQkkHFDps6+uW",
+  "snapshot_id": "ZjRhQAAAAAAleSt4Pb7As9Q1uFSsG6Sg",
   "tracks": [
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Then There Was You (From \"The Garfield Movie\")",
+        "url": "https://open.spotify.com/album/4sTlExwGlfYbBJ4zTZP78U"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 162040,
+      "name": "Then There Was You - From \"The Garfield Movie\"",
+      "url": "https://open.spotify.com/track/40rCgFIq4lZUQcvoQR2j0t"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Better Letters",
+        "url": "https://open.spotify.com/album/1JnmYFuj3tzWN4kdCs9mJY"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "duration_ms": 115986,
+      "name": "Consonants Song 1",
+      "url": "https://open.spotify.com/track/7kPe9808Q30Qrza7xqDmRv"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Happy Mother's Day",
+        "url": "https://open.spotify.com/album/4aTeiPbvmZx2R4yujqvQTA"
+      },
+      "artists": [
+        {
+          "name": "Doggyland",
+          "url": "https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 113142,
+      "name": "Happy Mother's Day",
+      "url": "https://open.spotify.com/track/2kUaQyzvr3N406Ve62qtKM"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "TEXAS HOLD 'EM",
+        "url": "https://open.spotify.com/album/7FsXesEv0qrJEcs7FWlrFF"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 215025,
+      "name": "TEXAS HOLD 'EM",
+      "url": "https://open.spotify.com/track/0KhNXkYL4RMRKzsr51Hcnc"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Burp Song",
+        "url": "https://open.spotify.com/album/3wLfwUBjLdPVzChZSPgd9b"
+      },
+      "artists": [
+        {
+          "name": "Cooltime",
+          "url": "https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ"
+        }
+      ],
+      "duration_ms": 153851,
+      "name": "Burp Song",
+      "url": "https://open.spotify.com/track/0kuXIernaI8KweGkl2wHCr"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Five Senses",
+        "url": "https://open.spotify.com/album/5LoExnG1rVGzHWqw1ssBVS"
+      },
+      "artists": [
+        {
+          "name": "LooLoo Kids",
+          "url": "https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx"
+        }
+      ],
+      "duration_ms": 170120,
+      "name": "Five Senses",
+      "url": "https://open.spotify.com/track/1ffnhVhWBiBWnZK49LF3Cl"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "The Floor is Lava",
+        "url": "https://open.spotify.com/album/5REGyYVJa91yzssIVWdFnC"
+      },
+      "artists": [
+        {
+          "name": "Bounce Patrol",
+          "url": "https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm"
+        }
+      ],
+      "duration_ms": 159683,
+      "name": "The Floor is Lava",
+      "url": "https://open.spotify.com/track/1YaClpTY682aRMWQCQR5qD"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Count to 10 and Other Circle Time Songs",
+        "url": "https://open.spotify.com/album/5za3LQSVjtORXEBATXU9F4"
+      },
+      "artists": [
+        {
+          "name": "Kids Imagine Nation",
+          "url": "https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq"
+        }
+      ],
+      "duration_ms": 157194,
+      "name": "Count to 10",
+      "url": "https://open.spotify.com/track/5bvUICj8vjiEnBwRXRnYgQ"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Mother's Day",
+        "url": "https://open.spotify.com/album/0g4h4rHQktDw69zOx2HQU3"
+      },
+      "artists": [
+        {
+          "name": "HeyKids Nursery Rhymes",
+          "url": "https://open.spotify.com/artist/6PQtqc32h5JkNuAd6UCPYL"
+        }
+      ],
+      "duration_ms": 156076,
+      "name": "Mother's Day",
+      "url": "https://open.spotify.com/track/39VpxOJImEdTf7Xw4vYaTT"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Let's Blow a Bubble",
+        "url": "https://open.spotify.com/album/41suiiS3sQlTokya3iNbMT"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "duration_ms": 149360,
+      "name": "Let's Blow a Bubble",
+      "url": "https://open.spotify.com/track/6ZuQHIyKxQZ3SUxwMqNpyN"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/6Pm9KWHnE5ojhvGh7XxTIX"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        }
+      ],
+      "duration_ms": 103000,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/3DTQnkqvUURfjYu5kIGur3"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Me and My Mom (Mother's Day Song)",
+        "url": "https://open.spotify.com/album/0UxVLAzxF8bTkIzywp9Hb7"
+      },
+      "artists": [
+        {
+          "name": "Lingokids",
+          "url": "https://open.spotify.com/artist/4JQisAFPMKPhssPnbV8l3O"
+        }
+      ],
+      "duration_ms": 124137,
+      "name": "Me and My Mom - Mother's Day Song",
+      "url": "https://open.spotify.com/track/2KefMwZ4qTdYygfZQ8CBKa"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Little Angel, Vol. 2",
+        "url": "https://open.spotify.com/album/5hvcBoGCAjemINxJxpfkKT"
+      },
+      "artists": [
+        {
+          "name": "Little Angel",
+          "url": "https://open.spotify.com/artist/3zDwkELCCr4anWIsL5LyTn"
+        }
+      ],
+      "duration_ms": 221818,
+      "name": "Skating Together Is Fun",
+      "url": "https://open.spotify.com/track/0yRgMWkb51x8Vy9xZbxOSu"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Just a Song About Cats",
+        "url": "https://open.spotify.com/album/4HPapADgMegAH4XfVgAv20"
+      },
+      "artists": [
+        {
+          "name": "The Quokkas",
+          "url": "https://open.spotify.com/artist/41y8Sg5SccQXAn7JpkQDIg"
+        },
+        {
+          "name": "Whistle & Trick",
+          "url": "https://open.spotify.com/artist/4unAH8bJlqpucBxdCs7HCH"
+        }
+      ],
+      "duration_ms": 120386,
+      "name": "Just a Song About Cats",
+      "url": "https://open.spotify.com/track/4RE4ZtYDHLAv9XGT5fe6fU"
+    },
     {
       "added_at": "2024-04-26 04:01:00",
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 40433,
+  "2024-05-03": 40436,
   "date_first_scraped": "2022-01-01",
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Les Cowboys Fringants",
   "name": "Nouveaut\u00e9s francophones",
@@ -4869,7 +4869,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 102000,
       "name": "blue (yes, i love you)",
       "url": "https://open.spotify.com/track/7znfQHTZ1tut2V17waMNTl"
@@ -31171,6 +31171,28 @@
       "duration_ms": 194201,
       "name": "NO L\u00c8CHE",
       "url": "https://open.spotify.com/track/6D1HiF2e3Z0F8FwQ5uLxwn"
+    },
+    {
+      "album": {
+        "name": "L'\u00e9cole des Stars",
+        "url": "https://open.spotify.com/album/2irfNof1Ax0ib0KeLtnTvv"
+      },
+      "artists": [
+        {
+          "name": "Kima",
+          "url": "https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191880,
+      "name": "No makeup",
+      "url": "https://open.spotify.com/track/1jLP4Lc2B5tuPoToGnVBPN"
     },
     {
       "album": {

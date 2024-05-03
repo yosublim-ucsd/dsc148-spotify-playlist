@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2jQBazXjNj.md) - [plain]
 
 > Get ready for <a href="spotify:genre:0JQ5DAqbMKFEJHdEnquSi1">BelicoFest</a> with the setlist of Luis R Conriquez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,907 likes - 16 songs - 49 min 41 sec
+[Spotify](https://open.spotify.com/user/spotify) - 69,004 likes - 16 songs - 49 min 41 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Cover: Ugly \(UK\)
 
-2,374 songs - 5 day 10 hr 31 min
+2,375 songs - 5 day 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -988,6 +988,7 @@
 | [I Got It](https://open.spotify.com/track/7v7A2gqJVvSrSl5xOjJaOf) | [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [I Got It](https://open.spotify.com/album/1WSsUjXDaLpydWuJdZWDWb) | 3:27 | 2022-02-23 | 2022-03-17 |
 | [I Guess It's Never Enough](https://open.spotify.com/track/3UwcdHtQg3KvF4bgM02Kre) | [Goldpark](https://open.spotify.com/artist/410AZAjsHSKP8VDsYcU47z) | [I Guess It's Never Enough](https://open.spotify.com/album/17BiP5ualaag0gBolfOIXZ) | 3:30 | 2022-10-25 | 2022-12-01 |
 | [I Hate Couples](https://open.spotify.com/track/1UQyrXIoqR0CO55dKgaHJ8) | [Elizzabeth](https://open.spotify.com/artist/4vNETjUfTSTzFdkP0IXUSc) | [I Hate Couples](https://open.spotify.com/album/0xLblJK4JqMagehuCrNoGn) | 3:35 | 2022-05-04 | 2022-05-26 |
+| [I HATE IT TOO](https://open.spotify.com/track/6CCWKFDhQamC5rGxM97Erj) | [Mitchy](https://open.spotify.com/artist/4oAU4UeGuRJtYwpYSLEva5) | [I HATE IT TOO](https://open.spotify.com/album/4dAeoPXvxRL7vuoveshiPP) | 3:00 | 2024-05-02 |  |
 | [i hate this city](https://open.spotify.com/track/7obkHjtZHmdVWdDwaLsd93) | [wadfah](https://open.spotify.com/artist/4VLJF0kk8HDMK7VPDctSzo) | [i hate this city](https://open.spotify.com/album/4prQxI1y4XRu6Oq8XdQUhr) | 3:15 | 2022-06-15 | 2022-07-28 |
 | [I Hate You But I Love You A Bit More](https://open.spotify.com/track/18ZdLG1FvV7Hs109QmiAou) | [POULISH KID](https://open.spotify.com/artist/0QmhnPd2X1uWNbshpC5PHH) | [I Hate You But I Love You A Bit More](https://open.spotify.com/album/6oAoVYsA2bCs7573RIjEgl) | 3:08 | 2022-02-16 | 2022-03-03 |
 | [i haunt ur dreams](https://open.spotify.com/track/7jBAskQhyfjmbYC0o3pXdW) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [i haunt ur dreams](https://open.spotify.com/album/2MoArCdFeYXB456NLYXbPi) | 3:36 | 2022-10-12 | 2023-01-12 |

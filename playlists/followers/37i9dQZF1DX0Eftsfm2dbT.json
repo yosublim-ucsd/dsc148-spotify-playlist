@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 133849,
+  "2024-05-03": 133883,
   "date_first_scraped": "2023-09-23",
   "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 cover: LEX, LANA",
   "name": "+81 Connect: J-Hip Hop\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d",
@@ -743,7 +743,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 163124,
       "name": "Ain't Scared",
       "url": "https://open.spotify.com/track/5c3pCkHkmCOIs4ZVdyXgHs"
@@ -2221,7 +2221,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 182555,
       "name": "BUCHINUKERU",
       "url": "https://open.spotify.com/track/2TCyfVDce0Ftvz9baInjcy"
@@ -8484,6 +8484,24 @@
     },
     {
       "album": {
+        "name": "MY LIFE",
+        "url": "https://open.spotify.com/album/2FDkRqlUOjPN8jc2AYQRya"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214772,
+      "name": "MY LIFE",
+      "url": "https://open.spotify.com/track/1Fy3dclV9os643JfeEmNkz"
+    },
+    {
+      "album": {
         "name": "My own opinion",
         "url": "https://open.spotify.com/album/6sCVPlwWJEoxBsp8Ek4eVW"
       },
@@ -14565,6 +14583,28 @@
       "duration_ms": 169500,
       "name": "\u3076\u3063\u751f\u304d\u8fd4\u3059",
       "url": "https://open.spotify.com/track/0AGcDWKAaClin5VepgC5NS"
+    },
+    {
+      "album": {
+        "name": "\u307c\u3061\u307c\u3061\u3044\u3053\u304b",
+        "url": "https://open.spotify.com/album/6tYOfQypLM3RyqZoKGDCaQ"
+      },
+      "artists": [
+        {
+          "name": "WATT a.k.a. YOTTERUBUTTERU",
+          "url": "https://open.spotify.com/artist/1xM3qD3oQS9quA6J7caYGA"
+        },
+        {
+          "name": "HI-KING TAKASE",
+          "url": "https://open.spotify.com/artist/1xcYMxnEm3xG7OcGpoBTh1"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111723,
+      "name": "\u307c\u3061\u307c\u3061\u3044\u3053\u304b",
+      "url": "https://open.spotify.com/track/6CCERwzPgMBGA8JgyebMvO"
     },
     {
       "album": {

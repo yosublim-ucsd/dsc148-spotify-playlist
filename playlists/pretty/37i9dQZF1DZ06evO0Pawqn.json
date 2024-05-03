@@ -1,12 +1,12 @@
 {
-  "description": "This is Los Tiranos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 9123,
+  "description": "This Is Los Tiranos Del Norte. Los temas esenciales, todos en una lista.",
+  "num_followers": 9126,
   "original_name": "This Is Los Tiranos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjA0gAAAAAAyw/zZyyYFBoeniOTJPwnk",
+  "snapshot_id": "ZjGGAAAAAAC0Jfy9n/8Lpa2X/qBZJI5c",
   "tracks": [
     {
       "added_at": null,
@@ -351,6 +351,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Con Sangre Nortena",
+        "url": "https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 194037,
+      "name": "Para Morir Iguales",
+      "url": "https://open.spotify.com/track/4toc0zrnlmaPUTeo9YKD5w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mis 30 Mejores Canciones",
         "url": "https://open.spotify.com/album/5sZ8JHwkEV2s0Dbv0ylSmZ"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 177502,
       "name": "Extravio",
       "url": "https://open.spotify.com/track/4WpmldTXZXmy2n2SQi3HQE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con Sangre Nortena",
-        "url": "https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 194037,
-      "name": "Para Morir Iguales",
-      "url": "https://open.spotify.com/track/4toc0zrnlmaPUTeo9YKD5w"
     },
     {
       "added_at": null,
@@ -691,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis 30 Mejores Canciones",
-        "url": "https://open.spotify.com/album/5sZ8JHwkEV2s0Dbv0ylSmZ"
+        "name": "Para Mi Reina",
+        "url": "https://open.spotify.com/album/1RhzfA1RNDKFwlwwP3XTeM"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 183506,
-      "name": "De Corazon Ranchero",
-      "url": "https://open.spotify.com/track/4nARb8o7ElcHDrAoeVj6K8"
+      "duration_ms": 200150,
+      "name": "Para la Reina",
+      "url": "https://open.spotify.com/track/5Ok9Oqj5HAvIfcbfMt6vPc"
     },
     {
       "added_at": null,
@@ -723,8 +723,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Mi Reina",
-        "url": "https://open.spotify.com/album/1RhzfA1RNDKFwlwwP3XTeM"
+        "name": "Mis 30 Mejores Canciones",
+        "url": "https://open.spotify.com/album/5sZ8JHwkEV2s0Dbv0ylSmZ"
       },
       "artists": [
         {
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 200150,
-      "name": "Para la Reina",
-      "url": "https://open.spotify.com/track/5Ok9Oqj5HAvIfcbfMt6vPc"
+      "duration_ms": 183506,
+      "name": "De Corazon Ranchero",
+      "url": "https://open.spotify.com/track/4nARb8o7ElcHDrAoeVj6K8"
     },
     {
       "added_at": null,

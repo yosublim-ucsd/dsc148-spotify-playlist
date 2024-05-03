@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 0,
+  "2024-05-03": 0,
   "date_first_scraped": "2023-03-07",
   "description": "",
   "name": "import of The daily dozen (@pipemanuel10)",
@@ -320,6 +320,24 @@
     },
     {
       "album": {
+        "name": "Overcome",
+        "url": "https://open.spotify.com/album/65F5C4fjYjnGOGcJjk5iaq"
+      },
+      "artists": [
+        {
+          "name": "All That Remains",
+          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255360,
+      "name": "A Song For The Hopeless",
+      "url": "https://open.spotify.com/track/1CnlE8WnbWMpvHKMZGarUG"
+    },
+    {
+      "album": {
         "name": "Suicide Notes and Butterfly Kisses",
         "url": "https://open.spotify.com/album/6QaobPHyXC7tnPNdcPxzPK"
       },
@@ -573,7 +591,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 293880,
       "name": "Am I Evil (Bonus Track)",
       "url": "https://open.spotify.com/track/3bQji1D79jL8vi99piHltp"
@@ -631,7 +649,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 206956,
       "name": "Amor a distancia",
       "url": "https://open.spotify.com/track/5N1lE0e19I5Ypwvfs0ezBc"
@@ -1071,6 +1089,24 @@
       "duration_ms": 267826,
       "name": "Bailando Solo",
       "url": "https://open.spotify.com/track/1wGNjZQoO4Ac5zotF3aZTb"
+    },
+    {
+      "album": {
+        "name": "Bark At The Moon (Expanded Edition)",
+        "url": "https://open.spotify.com/album/537qKeG5gbEvKJpQ4Qmszn"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257120,
+      "name": "Bark at the Moon",
+      "url": "https://open.spotify.com/track/2E7W1X4maFFcjHrVrFA7Vs"
     },
     {
       "album": {
@@ -1933,7 +1969,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 248560,
       "name": "Canci\u00f3n de Lejos",
       "url": "https://open.spotify.com/track/2zpX1lQX2uMQtZu9OrLyUB"
@@ -2095,7 +2131,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 148572,
       "name": "Cartoon Network",
       "url": "https://open.spotify.com/track/50RWxzGwOwWheC6qE2CQLb"
@@ -3198,6 +3234,24 @@
     },
     {
       "album": {
+        "name": "Don't Ask",
+        "url": "https://open.spotify.com/album/0bb3PplllwgVpxJo4UZhMs"
+      },
+      "artists": [
+        {
+          "name": "Wax Bentayga",
+          "url": "https://open.spotify.com/artist/0iMvVDnhJLnTrUVcsJHBbv"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158896,
+      "name": "Don't Ask",
+      "url": "https://open.spotify.com/track/1tZ7VK5bmv0svHV5Ge3xVI"
+    },
+    {
+      "album": {
         "name": "Don't Give Up On Love",
         "url": "https://open.spotify.com/album/1GIfzALsAVoILlh1AkX6Pl"
       },
@@ -3981,7 +4035,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 260173,
       "name": "Every Rose Has Its Thorn - 2003 Remaster",
       "url": "https://open.spotify.com/track/43GS3mtezoIFiuIZCLLiDY"
@@ -4093,7 +4147,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 362960,
       "name": "Faces In Disguise",
       "url": "https://open.spotify.com/track/5KPhsNfpwNSVAXclO4u5P6"
@@ -4501,6 +4555,28 @@
       "duration_ms": 183265,
       "name": "Flicker",
       "url": "https://open.spotify.com/track/405RLkwfytmA5UIFWV69oY"
+    },
+    {
+      "album": {
+        "name": "DEMO KID",
+        "url": "https://open.spotify.com/album/30sMDtANxzl5FdWfCCITrh"
+      },
+      "artists": [
+        {
+          "name": "Galo Barker",
+          "url": "https://open.spotify.com/artist/0K7CHaWKAmKYaPFBnAW9q9"
+        },
+        {
+          "name": "ALBOROTO",
+          "url": "https://open.spotify.com/artist/5v1PFXHSjczI3YZDPvASj7"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70367,
+      "name": "FLINSKY",
+      "url": "https://open.spotify.com/track/6AJMc5INWfrIhsGugFx1tV"
     },
     {
       "album": {
@@ -5398,6 +5474,24 @@
     },
     {
       "album": {
+        "name": "Stand Up And Scream",
+        "url": "https://open.spotify.com/album/57iXTZZW4VLkrBoErSsI5y"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249800,
+      "name": "Hey There Mr. Brooks",
+      "url": "https://open.spotify.com/track/6dzgSgf7jNysk0m37mrQq0"
+    },
+    {
+      "album": {
         "name": "High Like a Plane",
         "url": "https://open.spotify.com/album/5tMVaUg3Ph1H0SPBWXSqqc"
       },
@@ -5863,7 +5957,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 142440,
       "name": "I Wanna Die in Los Angeles",
       "url": "https://open.spotify.com/track/0CDKEvcZFbZO1YTgpZxZno"
@@ -6783,7 +6877,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 223173,
       "name": "La Joya Del Pac\u00edfico",
       "url": "https://open.spotify.com/track/0aHps38kFw6Aqg9sJpD97d"
@@ -7457,10 +7551,28 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 79432,
       "name": "Lugares Que Hablan 2021 - Banda Sonora Original de la serie \"Lugares que Hablan\"",
       "url": "https://open.spotify.com/track/6b2RN1OQ0SQ97HXWN7DmDS"
+    },
+    {
+      "album": {
+        "name": "Disintegration (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248186,
+      "name": "Lullaby - Remastered",
+      "url": "https://open.spotify.com/track/0ZYdUkAQmKHsaKRmq8tWSE"
     },
     {
       "album": {
@@ -8979,7 +9091,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 197053,
       "name": "Oh, There's Legwork",
       "url": "https://open.spotify.com/track/3HRi4HCsplWZzuimEDcPMF"
@@ -9217,6 +9329,24 @@
       "duration_ms": 141714,
       "name": "PALOMINO",
       "url": "https://open.spotify.com/track/3cqhuqp6N9D3XoAsL0kCC4"
+    },
+    {
+      "album": {
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210226,
+      "name": "Panama - 2015 Remaster",
+      "url": "https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS"
     },
     {
       "album": {
@@ -10649,7 +10779,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 285386,
       "name": "Self-destructor",
       "url": "https://open.spotify.com/track/5HeivWMgipA2LeBHrUhEip"
@@ -10725,6 +10855,24 @@
       "duration_ms": 45840,
       "name": "Seven Dreaming Souls",
       "url": "https://open.spotify.com/track/7ytRLa75TL8aFrp6nOWDn7"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits (Remastered)",
+        "url": "https://open.spotify.com/album/3VWrUk4vBznMYXGMPc7dRB"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167026,
+      "name": "Seven Seas Of Rhye - Remastered 2011",
+      "url": "https://open.spotify.com/track/5u99eyhU43QoLeXXG6caoL"
     },
     {
       "album": {
@@ -12233,7 +12381,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 262640,
       "name": "The Disease",
       "url": "https://open.spotify.com/track/0uXI7oOZGNzaRhyCBJ2TNH"
@@ -12543,6 +12691,24 @@
       "duration_ms": 298333,
       "name": "The Light That Blinds",
       "url": "https://open.spotify.com/track/2nrYeIMPUyGk19p3uZR4ql"
+    },
+    {
+      "album": {
+        "name": "The Very Best Of Supertramp",
+        "url": "https://open.spotify.com/album/3kv1eLaL0W9Uci9mZGryzS"
+      },
+      "artists": [
+        {
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249666,
+      "name": "The Logical Song",
+      "url": "https://open.spotify.com/track/5Z4EgTCCoObfO1WfrvrQ9v"
     },
     {
       "album": {
@@ -13279,6 +13445,24 @@
       "duration_ms": 390426,
       "name": "Turn The Page",
       "url": "https://open.spotify.com/track/0VMqFTNtHklrQVleZz9ZSk"
+    },
+    {
+      "album": {
+        "name": "Flaunt It",
+        "url": "https://open.spotify.com/album/5UzShGWJIpOfH98tnk2qQl"
+      },
+      "artists": [
+        {
+          "name": "Sigue Sigue Sputnik",
+          "url": "https://open.spotify.com/artist/6GKVXdXGEOPzpilArcqBun"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310960,
+      "name": "Twenty First Century Boy",
+      "url": "https://open.spotify.com/track/4FxiAllpIaZMFIKHdAROWH"
     },
     {
       "album": {
@@ -14181,7 +14365,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 257440,
       "name": "When I See You Smile",
       "url": "https://open.spotify.com/track/0tKjVEJlX3IZ5L1rEJc5hh"
@@ -14603,6 +14787,24 @@
       "duration_ms": 240773,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/0P2j7ogCRvGMK4Pdw2K5ZQ"
+    },
+    {
+      "album": {
+        "name": "And Their Name Was Treason",
+        "url": "https://open.spotify.com/album/4UlUTVHQgmjBbptRHWUI5T"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233840,
+      "name": "Your Way With Words Is Through Silence",
+      "url": "https://open.spotify.com/track/1sfYgIFEvgWAFsSnbiBKxr"
     },
     {
       "album": {

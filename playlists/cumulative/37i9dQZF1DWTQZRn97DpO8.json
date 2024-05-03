@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : Arma Jackson",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : Sonny Rave",
   "name": "le miel",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 152000,
       "name": "2 SANS TOI",
       "url": "https://open.spotify.com/track/0UxendkYDaSG6uMbfMn6y8"
@@ -114,6 +114,24 @@
       "duration_ms": 229339,
       "name": "An\u00e9mone",
       "url": "https://open.spotify.com/track/67sUBaW1oE1xD19STSAXgE"
+    },
+    {
+      "album": {
+        "name": "AU COEUR DU MIEN",
+        "url": "https://open.spotify.com/album/2jm5SpD0s0eNf3lDKC1fR6"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rave",
+          "url": "https://open.spotify.com/artist/2oz0IgsR0xKABrapfXcEwy"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189085,
+      "name": "AU COEUR DU MIEN",
+      "url": "https://open.spotify.com/track/4DujAWwEGQ4FRY98rcyHff"
     },
     {
       "album": {
@@ -265,6 +283,24 @@
     },
     {
       "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/0JO5P9WMpfsqgdxL1H068R"
+      },
+      "artists": [
+        {
+          "name": "AFFA",
+          "url": "https://open.spotify.com/artist/0owJTnrvYgiIYSXsvnsSQv"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147360,
+      "name": "Bunker",
+      "url": "https://open.spotify.com/track/2qmSxS5IBfXlNw9vIwJXKB"
+    },
+    {
+      "album": {
         "name": "B\u00e9cane",
         "url": "https://open.spotify.com/album/3al3eFT8EIR0KRdUemEic7"
       },
@@ -334,7 +370,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 186000,
       "name": "Chanel Pt. 2",
       "url": "https://open.spotify.com/track/7egZBEbXibU03rGh3zpqoq"
@@ -644,6 +680,28 @@
       "duration_ms": 182786,
       "name": "Donne-moi tout",
       "url": "https://open.spotify.com/track/0iUXT3c1wN4SBt7UdzaBEc"
+    },
+    {
+      "album": {
+        "name": "Page blanche",
+        "url": "https://open.spotify.com/album/4Fpuf2WoRF5vw65QQL1JlN"
+      },
+      "artists": [
+        {
+          "name": "Eva",
+          "url": "https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO"
+        },
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224280,
+      "name": "Du feu",
+      "url": "https://open.spotify.com/track/5xJDXbJCQO4WRbmfBJ0V2B"
     },
     {
       "album": {
@@ -1943,6 +2001,24 @@
     },
     {
       "album": {
+        "name": "Pointer du doigt",
+        "url": "https://open.spotify.com/album/61EtgrsRDqVPeKdkWdJezR"
+      },
+      "artists": [
+        {
+          "name": "Blynk",
+          "url": "https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178825,
+      "name": "Pointer du doigt",
+      "url": "https://open.spotify.com/track/2ZkSqGFLWlUMwDMgTIaCSQ"
+    },
+    {
+      "album": {
         "name": "Pour Nous.",
         "url": "https://open.spotify.com/album/5OU3V3eM4vg62qEB8YoNF9"
       },
@@ -1994,7 +2070,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 194656,
       "name": "PRETTY BABY",
       "url": "https://open.spotify.com/track/1X9w07ZCQU1WZFOnOiD07s"
@@ -2012,7 +2088,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 192880,
       "name": "Pr\u00e9datrice",
       "url": "https://open.spotify.com/track/2YUGbE007BGwUEUBWRO5kk"
@@ -2320,7 +2396,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 279533,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/5JRbmX1uwh3ZgxqNo653qQ"
@@ -2381,6 +2457,24 @@
     },
     {
       "album": {
+        "name": "P\u0152\u0308SI",
+        "url": "https://open.spotify.com/album/23JAJOxVVKc64Y3x4wHOJ0"
+      },
+      "artists": [
+        {
+          "name": "Oth\u00e9lie",
+          "url": "https://open.spotify.com/artist/7e0NJkHuckuwmgxKi4aQ7S"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195630,
+      "name": "SIAMAJ",
+      "url": "https://open.spotify.com/track/5Qwqgw6FcQKzxkljmS10qT"
+    },
+    {
+      "album": {
         "name": "simplement t'aimer",
         "url": "https://open.spotify.com/album/0zqoxnsWiegundutSlDb2t"
       },
@@ -2392,7 +2486,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 206000,
       "name": "simplement t'aimer",
       "url": "https://open.spotify.com/track/5bNiFgrPbyRvpJLLXgUZJT"
@@ -2866,6 +2960,24 @@
       "duration_ms": 205488,
       "name": "Violence & Po\u00e9sie",
       "url": "https://open.spotify.com/track/3yyGilBl0qbv0Sp2StCAC1"
+    },
+    {
+      "album": {
+        "name": "GOLD DIGGER",
+        "url": "https://open.spotify.com/album/6rWakywtTCeU6sOCu0NmNI"
+      },
+      "artists": [
+        {
+          "name": "Lafleyne",
+          "url": "https://open.spotify.com/artist/2HtWjfmbuI9kqQqMfLkfvh"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185300,
+      "name": "Yonc\u00e9",
+      "url": "https://open.spotify.com/track/14kKddVV5x6y9sipuT39EW"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This Is Cultura Prof\u00e9tica. Los temas esenciales, todos en una lista.",
-  "num_followers": 228363,
+  "num_followers": 228412,
   "original_name": "This Is Cultura Prof\u00e9tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjA0gAAAAADWNjY+FyUuf6Jn0VI2dHp5",
+  "snapshot_id": "ZjGGAAAAAAB/8XQ6SsnEp3c5B7AiNmWb",
   "tracks": [
     {
       "added_at": null,
@@ -643,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ideas Nuevas",
+        "url": "https://open.spotify.com/album/5QpKkGyhZB4SixED6zbo7R"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 284373,
+      "name": "Reggea R\u00fastico",
+      "url": "https://open.spotify.com/track/34fBKRTK9eXXWF6DoUsgp4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Codigos Del Alma",
         "url": "https://open.spotify.com/album/3gpM7IpvTpE1ByLL1aR0lS"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 307720,
       "name": "La Musica",
       "url": "https://open.spotify.com/track/1UWRoVKwatWvKCMFfn6Z6P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ideas Nuevas",
-        "url": "https://open.spotify.com/album/5QpKkGyhZB4SixED6zbo7R"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 284373,
-      "name": "Reggea R\u00fastico",
-      "url": "https://open.spotify.com/track/34fBKRTK9eXXWF6DoUsgp4"
     },
     {
       "added_at": null,
@@ -711,6 +711,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ideas Nuevas",
+        "url": "https://open.spotify.com/album/5QpKkGyhZB4SixED6zbo7R"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 133933,
+      "name": "La Otra Galaxia",
+      "url": "https://open.spotify.com/track/0MHaoEf98Uug7ft75wnsBV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canci\u00f3n de Alerta",
+        "url": "https://open.spotify.com/album/28PuYwXsKVqszvz05ErQ0q"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 71333,
+      "name": "Enyoyando",
+      "url": "https://open.spotify.com/track/6ySSJb08nj05F4zqcUtFBx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "15 Aniversario en el Luna Park",
+        "url": "https://open.spotify.com/album/6g8zQxyKvT4Vus79FtKHnc"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 269080,
+      "name": "Bocanada - En Vivo",
+      "url": "https://open.spotify.com/track/7sJka3hr6kdXGrxWHIEWUm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cultura en Vivo",
         "url": "https://open.spotify.com/album/62VgrbgZu3QeB8a3p1yYz8"
       },
@@ -736,25 +784,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 133933,
-      "name": "La Otra Galaxia",
-      "url": "https://open.spotify.com/track/0MHaoEf98Uug7ft75wnsBV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "15 Aniversario en el Luna Park",
-        "url": "https://open.spotify.com/album/6g8zQxyKvT4Vus79FtKHnc"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 269080,
-      "name": "Bocanada - En Vivo",
-      "url": "https://open.spotify.com/track/7sJka3hr6kdXGrxWHIEWUm"
+      "duration_ms": 382920,
+      "name": "Ley Natural",
+      "url": "https://open.spotify.com/track/2FthRSpEy044BM8QkoqeeP"
     },
     {
       "added_at": null,
@@ -771,22 +803,6 @@
       "duration_ms": 246066,
       "name": "Despertar",
       "url": "https://open.spotify.com/track/0JgjwTH0UqqsEtJo6f3rl1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ideas Nuevas",
-        "url": "https://open.spotify.com/album/5QpKkGyhZB4SixED6zbo7R"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 382920,
-      "name": "Ley Natural",
-      "url": "https://open.spotify.com/track/2FthRSpEy044BM8QkoqeeP"
     },
     {
       "added_at": null,

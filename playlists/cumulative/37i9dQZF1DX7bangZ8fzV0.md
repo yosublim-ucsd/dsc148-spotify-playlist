@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/35nSKL5p684i0vXrFvcgGz?si=QaAEx61qTWuO11dwsmougw">Dirk Van Der Westhuizen</a>
+> Net die beste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t?si=qckMkXE4Rnml01O2dS1E8w">Gerhard Steyn</a> & <a href="https://open.spotify.com/artist/3Wk4aDwlH1CsErepTTZVe4?si=Z6\-ff9tIShiv7deQTozkSg">Liezel Pieters</a>
 
-213 songs - 11 hr 53 min
+214 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Coco Pops en Kaas](https://open.spotify.com/track/47a7yKmqL4y49StvHnrT0Y) | [Nicholis Louw](https://open.spotify.com/artist/7bia2GuWoBGpV5eV4gizJI) | [Coco Pops en Kaas](https://open.spotify.com/album/7eX7oEbmqlgWrMeWP4CAA1) | 4:02 | 2023-03-30 | 2023-05-12 |
 | [Country Girl Van Bloem](https://open.spotify.com/track/1PRL5i4psRnhOutaezVAzd) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [Country Girl Van Bloem](https://open.spotify.com/album/55fPGAUIsa23dXP1CxT23N) | 2:56 | 2023-12-14 |  |
 | [Dagdrome in Suburbia](https://open.spotify.com/track/1K9B9JRjtUe6bVVOv8Bw1X) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Dagdrome in Suburbia](https://open.spotify.com/album/7HUBQlGEE0eQ77zIT6Yz40) | 3:11 | 2023-03-09 | 2023-04-14 |
+| [Dans Kwagga](https://open.spotify.com/track/5rqe4RmTztq10pipi4b0DA) | [JAN JAN JAN](https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ) | [Dans Kwagga](https://open.spotify.com/album/6EUKAwUr11udwqsy8Fxvd7) | 3:48 | 2024-05-02 |  |
 | [Dans Met Gevaar](https://open.spotify.com/track/4EPTBSsuBCIiIjl4Dt4Aof) | [Juan Boucher](https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH) | [Dans Met Gevaar](https://open.spotify.com/album/1QDF3wxfhwDJIYrXf4vMEV) | 4:09 | 2022-12-22 | 2023-03-31 |
 | [Deur die Reën](https://open.spotify.com/track/3vhX5qgaDsAcSJ90wddxYS) | [Franja Du Plessis](https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41) | [Deur die reën](https://open.spotify.com/album/09wqRyWhW27Jt9g58PfCpw) | 3:31 | 2024-04-26 |  |
 | [Diana](https://open.spotify.com/track/6bcUztS91zHtPE9uJ2JIL2) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Diana](https://open.spotify.com/album/5UlvfJZV9qoZA6Ik3xXlbE) | 3:30 | 2023-05-25 |  |
@@ -208,7 +209,7 @@
 | [Vuil Coke](https://open.spotify.com/track/3tDxxrog40sqbYRN1xPTfx) | [FATMAN](https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3) | [Vuil Coke](https://open.spotify.com/album/1Y12kOAc9lTcGHWYXIhceh) | 3:37 | 2023-03-09 | 2024-02-02 |
 | [Vuur En Vlam](https://open.spotify.com/track/3EK9M3oCsXhMGLUpjwgvla) | [VAN WEST](https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq) | [Vuur En Vlam](https://open.spotify.com/album/2CDlluXHThuUPyHFOP7PZK) | 2:45 | 2023-01-05 |  |
 | [Vuur Op Die Water](https://open.spotify.com/track/7hnO1itqe41tDT0tuEOgVV) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Vuur Op Die Water](https://open.spotify.com/album/40vvsgbIIr5XKof5iKCBr2) | 3:36 | 2023-03-09 | 2024-04-27 |
-| [Vuur Wat Brand](https://open.spotify.com/track/1c9QUvWJm52Qi0p7i5CKrB) | [Werner Van Der Hoven](https://open.spotify.com/artist/1z3Cykt3bMtNbrY9SPGSI2) | [Hart se Taal](https://open.spotify.com/album/6enxtnG3uRmtW2gyCoONB1) | 3:24 | 2024-04-18 |  |
+| [Vuur Wat Brand](https://open.spotify.com/track/1c9QUvWJm52Qi0p7i5CKrB) | [Werner Van Der Hoven](https://open.spotify.com/artist/1z3Cykt3bMtNbrY9SPGSI2) | [Hart se Taal](https://open.spotify.com/album/6enxtnG3uRmtW2gyCoONB1) | 3:24 | 2024-04-18 | 2024-05-03 |
 | [Waar Gaan Ons Dans Vanaand?](https://open.spotify.com/track/7AAWlTqYg7pCkE4Y8lvwVB) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Waar Gaan Ons Dans Vanaand?](https://open.spotify.com/album/6bCm0EXt9yOwu5ZajLJlVd) | 3:43 | 2023-12-28 |  |
 | [Wanneer Laas](https://open.spotify.com/track/1oLfVuGQBnWcoBZWD2Xe8W) | [Tarryn Lamb](https://open.spotify.com/artist/2FmxaUJ8rqQaLvvjFkhuWe) | [Wanneer Laas](https://open.spotify.com/album/5rF1zihcBSMixLjYiOChxL) | 2:42 | 2022-11-03 | 2022-11-18 |
 | [Wat De Hel](https://open.spotify.com/track/15Mu0ea08pEgTLBRHqNF0e) | [Christia Visser](https://open.spotify.com/artist/0AVwVUxhRdEKiuLNGAxmtu) | [Wat De Hel](https://open.spotify.com/album/2p7hgHHtMXSPZf3RezI3i4) | 3:50 | 2022-09-08 | 2022-12-02 |

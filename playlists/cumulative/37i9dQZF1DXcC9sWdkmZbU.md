@@ -4,7 +4,7 @@
 
 > Worship songs for the whole family.
 
-90 songs - 5 hr 5 min
+91 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [God Gives Power Not Fear \(1 Timothy 1:7\)](https://open.spotify.com/track/4XSzE4AIVFpJk3CsPJYGUS) | [The Wonder Kids](https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI), [Mr\. Steve](https://open.spotify.com/artist/6zO8I3N6qSLXrQ39Ht0Gxu) | [Know God, No Fear: Bible Songs for Such a Time as This](https://open.spotify.com/album/2ELlJVipEutJxawdwh64ih) | 2:11 | 2022-04-12 |  |
 | [God Is for Me](https://open.spotify.com/track/4iOtTdKbyUQubznmPCV7BM) | [GroupMusic](https://open.spotify.com/artist/3ds0hlCcgdDJzoG9NgCxbF) | [Pop Praise: Celebrate](https://open.spotify.com/album/6y5JEipzGCoFRLPFZZFcy7) | 2:49 | 2022-04-12 |  |
 | [God Makes Messy Things](https://open.spotify.com/track/7ceXmbSuREX1itjzFxCyBS) | [Slugs and Bugs](https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN) | [Under Where?](https://open.spotify.com/album/6ho7NUMT9aOgWq3Z97L2Yo) | 1:32 | 2022-04-12 |  |
+| [God Of The Impossible](https://open.spotify.com/track/7ikT2DFrI6wZOsSIfYF9wX) | [Gateway Kids Worship](https://open.spotify.com/artist/5spb8btR2z1lSREzcyg56E), [William Kelly](https://open.spotify.com/artist/4OQbdlMOq7jqEhJJXAZi11) | [God Of The Impossible](https://open.spotify.com/album/6bhOniVs3hIEyo5fuTAty0) | 4:37 | 2024-05-03 |  |
 | [God's Not Dead \(Like A Lion\)](https://open.spotify.com/track/78ZVdXS1Ow5ztK5oeTgdbz) | [Capitol Kids!](https://open.spotify.com/artist/2R5LUhq3xVJxlh52uh4szt) | [Capitol Kids! Hits](https://open.spotify.com/album/0NYwFMOCc1aQjeXtZ2L3T3) | 4:14 | 2022-04-12 |  |
 | [Great Big God](https://open.spotify.com/track/5MHMX1yGMvDGZiauUayAtH) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL) | [Great Big God](https://open.spotify.com/album/7qWraaPEw6TA0siJ9nrg3E) | 2:51 | 2024-03-13 |  |
 | [Great Big God](https://open.spotify.com/track/4vLiBeWve4L9llDzGdpWsM) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Vineyard Kids](https://open.spotify.com/artist/2PwunoNd5k6WstyyC67xhH) | [Great Big God](https://open.spotify.com/album/0Y36IFn8h2NS5afQZXpnTT) | 2:51 | 2024-03-13 | 2024-04-19 |

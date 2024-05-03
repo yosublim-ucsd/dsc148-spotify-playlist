@@ -1,12 +1,12 @@
 {
   "description": "New music from Kendrick Lamar, Drake,  Future and Metro Boomin.",
-  "num_followers": 15792020,
+  "num_followers": 15796135,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjKQlQAAAABdVIlHkVDFSQ+2EAkWnYXi",
+  "snapshot_id": "ZjMPwAAAAAAnhsAGAEGTtys4jZ6RVYt+",
   "tracks": [
     {
       "added_at": "2024-05-01 18:57:25",
@@ -195,6 +195,26 @@
       "duration_ms": 169840,
       "name": "Cinderella",
       "url": "https://open.spotify.com/track/0hKtu53OlIFXVuYkZwcn3o"
+    },
+    {
+      "added_at": "2024-05-02 04:00:00",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Outlawz",
+          "url": "https://open.spotify.com/artist/2jp3Fk52x0HbymU0lNYbSC"
+        }
+      ],
+      "duration_ms": 312626,
+      "name": "Hit 'Em Up - Single Version",
+      "url": "https://open.spotify.com/track/0Z2J91b2iTGLVTZC4fKgxf"
     },
     {
       "added_at": "2024-05-01 18:57:25",

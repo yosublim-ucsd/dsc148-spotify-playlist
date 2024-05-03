@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 8811,
+  "2024-05-03": 8851,
   "date_first_scraped": "2023-10-19",
   "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:  <a href=https://open.spotify.com/artist/6tF26GNNvbuamuugTTBiGE?si=1KmYBCHhQCO7FRXiflcZNw>REFUGE WRSHP</a>",
   "name": "Redeemed",
@@ -411,7 +411,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 184337,
       "name": "Blessed Year",
       "url": "https://open.spotify.com/track/24aC5jGBkjEDpAAtaS6o5H"
@@ -1263,6 +1263,24 @@
       "duration_ms": 625166,
       "name": "Iba",
       "url": "https://open.spotify.com/track/0EWnPlQCVV2fTp0EGvLnjY"
+    },
+    {
+      "album": {
+        "name": "If All I Say Is Jesus (Green Worship Version)",
+        "url": "https://open.spotify.com/album/3a0zNYcxVl69zNcZAx8zrG"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428250,
+      "name": "If All I Say Is Jesus (Green Worship Version)",
+      "url": "https://open.spotify.com/track/18Fbap1b31YBSzvO46CDpb"
     },
     {
       "album": {

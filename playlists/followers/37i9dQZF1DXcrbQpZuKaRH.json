@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 39553,
+  "2024-05-03": 39668,
   "date_first_scraped": "2023-05-02",
   "description": "Ambient with the sound of waves for a blissful meditation.",
   "name": "Meditate by the Ocean",
@@ -604,6 +604,24 @@
     },
     {
       "album": {
+        "name": "Good Daze",
+        "url": "https://open.spotify.com/album/2muTrYZu3uE5Vdl5swmXF6"
+      },
+      "artists": [
+        {
+          "name": "Flyndon",
+          "url": "https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165500,
+      "name": "Good Daze",
+      "url": "https://open.spotify.com/track/3VR9AAUH9YIuPBqh2gefNV"
+    },
+    {
+      "album": {
         "name": "Hidden Beach",
         "url": "https://open.spotify.com/album/0pvZ5i0bmgOEw9Q63Lr0J7"
       },
@@ -619,6 +637,24 @@
       "duration_ms": 178285,
       "name": "Hidden Beach",
       "url": "https://open.spotify.com/track/15RY8ZjXcqI3Ouh3Aj4bjp"
+    },
+    {
+      "album": {
+        "name": "In The Cloud",
+        "url": "https://open.spotify.com/album/2tD7itqj8q0dq3te0y5Jen"
+      },
+      "artists": [
+        {
+          "name": "Solace Sonique",
+          "url": "https://open.spotify.com/artist/4DWW3d7aGHHC51MqYUoQZR"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168160,
+      "name": "In The Cloud",
+      "url": "https://open.spotify.com/track/22hi2nzUjxexPVcsvF54qI"
     },
     {
       "album": {
@@ -820,6 +856,24 @@
     },
     {
       "album": {
+        "name": "Molecular Vibrations",
+        "url": "https://open.spotify.com/album/2xeinigzbjt1sSsVG5Yl99"
+      },
+      "artists": [
+        {
+          "name": "Earth Tone",
+          "url": "https://open.spotify.com/artist/05MiTtnA2sTCrvI9TsTBhj"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157815,
+      "name": "Molecular Vibrations",
+      "url": "https://open.spotify.com/track/09flvILs00hWOFboghP5H7"
+    },
+    {
+      "album": {
         "name": "Ocean Healing",
         "url": "https://open.spotify.com/album/28gd2fvoaM7XH1fJEBCnEM"
       },
@@ -835,6 +889,24 @@
       "duration_ms": 212000,
       "name": "Ocean Healing",
       "url": "https://open.spotify.com/track/49nZSk6EBugEBSfNQlkr0y"
+    },
+    {
+      "album": {
+        "name": "Ocean Dynamics",
+        "url": "https://open.spotify.com/album/5Aq52DANigWA8C0nCbYIeo"
+      },
+      "artists": [
+        {
+          "name": "Zoniacs",
+          "url": "https://open.spotify.com/artist/6IiJPhO9buoldoCLSG4foO"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "Ocean Miracle",
+      "url": "https://open.spotify.com/track/6s4d29YLuiRLjFXznEzhoi"
     },
     {
       "album": {
@@ -892,6 +964,24 @@
     },
     {
       "album": {
+        "name": "On the Shores of Sleep",
+        "url": "https://open.spotify.com/album/4K048QJZG3OvfH5kwnJyHx"
+      },
+      "artists": [
+        {
+          "name": "Sol Reya",
+          "url": "https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "On the Shores of Sleep",
+      "url": "https://open.spotify.com/track/2lu5HYbm9FmSDegJchgDxf"
+    },
+    {
+      "album": {
         "name": "Osceola",
         "url": "https://open.spotify.com/album/2QlTwprjsdTQphD9D1gMBY"
       },
@@ -903,7 +993,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 165818,
       "name": "Osceola",
       "url": "https://open.spotify.com/track/44c1Fee8CMkU7407C4eiqA"
@@ -921,7 +1011,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 191750,
       "name": "Over the Horizon",
       "url": "https://open.spotify.com/track/4jOFMMEPUV5GNa3qU2rdjn"
@@ -939,7 +1029,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 204521,
       "name": "Pacifiquement",
       "url": "https://open.spotify.com/track/3ODp59g4fuL0KsTvKB1atC"
@@ -961,6 +1051,24 @@
       "duration_ms": 178000,
       "name": "Planet X",
       "url": "https://open.spotify.com/track/1VtyLawVwNXPAZAfkxxGrt"
+    },
+    {
+      "album": {
+        "name": "Pools",
+        "url": "https://open.spotify.com/album/2WqZN5meM6rPIGx1UdAEpb"
+      },
+      "artists": [
+        {
+          "name": "So Lis",
+          "url": "https://open.spotify.com/artist/79guO4ndu3WasS8qTpee8n"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181360,
+      "name": "Pools",
+      "url": "https://open.spotify.com/track/56ijwf16zEGWNI8nfGBDqM"
     },
     {
       "album": {
@@ -1202,6 +1310,24 @@
     },
     {
       "album": {
+        "name": "Segments of Blue",
+        "url": "https://open.spotify.com/album/7LoW1Uz4RIU05khYupXVss"
+      },
+      "artists": [
+        {
+          "name": "L'air",
+          "url": "https://open.spotify.com/artist/48mOczJJlQ7xa3UuJeOnAd"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172363,
+      "name": "Segments of Blue",
+      "url": "https://open.spotify.com/track/5ZBw3zzQ1LJBWnGn0SyQpq"
+    },
+    {
+      "album": {
         "name": "Sentimental",
         "url": "https://open.spotify.com/album/0ocJg4WeN8H8Rq1fKsAfw6"
       },
@@ -1289,6 +1415,24 @@
       "duration_ms": 136098,
       "name": "Sleep Under the Stars",
       "url": "https://open.spotify.com/track/52fxNMSJtgwPzbMadGr2Ie"
+    },
+    {
+      "album": {
+        "name": "Solar Dreams",
+        "url": "https://open.spotify.com/album/2dH0L3tzqAFXSZhtpzkxId"
+      },
+      "artists": [
+        {
+          "name": "Fred Russ",
+          "url": "https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147083,
+      "name": "Solar Dreams",
+      "url": "https://open.spotify.com/track/2uZHjgoCnueq1wtMczo1SW"
     },
     {
       "album": {
@@ -1501,7 +1645,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 230662,
       "name": "Walk Together",
       "url": "https://open.spotify.com/track/1V6ltUYwBd2UWfpNIDmsSr"

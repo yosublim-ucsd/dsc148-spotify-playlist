@@ -1,12 +1,12 @@
 {
-  "description": "This Is Aitana. Los temas esenciales, todos en una lista.",
-  "num_followers": 198007,
+  "description": "This is Aitana. The essential tracks, all in one playlist.",
+  "num_followers": 198036,
   "original_name": "This Is Aitana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjA0gAAAAAA+baXJSsihn8NqwaeNyDZa",
+  "snapshot_id": "ZjGGAAAAAACkvkr5YgIg8tR9f3HMANgE",
   "tracks": [
     {
       "added_at": null,
@@ -571,6 +571,66 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lo Malo (Remix)",
+        "url": "https://open.spotify.com/album/35NdeKuRZ9zxd21lvngNxf"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Ana Guerra",
+          "url": "https://open.spotify.com/artist/3MRynBsyLGzv3IQ9Fip6hO"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 184009,
+      "name": "Lo Malo - Remix",
+      "url": "https://open.spotify.com/track/7vHzOI0lrq6dXsHuQWpBpT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "alpha",
+        "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 166200,
+      "name": "Ella Bailaba",
+      "url": "https://open.spotify.com/track/08Aq3EZhoJFc4sLaUt6Ifq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "11 RAZONES",
+        "url": "https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 213179,
+      "name": "11 RAZONES",
+      "url": "https://open.spotify.com/track/4qEHMJyER7OntYTtPsIT1W"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Himno A La Alegr\u00eda",
         "url": "https://open.spotify.com/album/79GsPr84E13Bbm3VjwZ6PW"
       },
@@ -663,66 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "alpha",
-        "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 166200,
-      "name": "Ella Bailaba",
-      "url": "https://open.spotify.com/track/08Aq3EZhoJFc4sLaUt6Ifq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "11 RAZONES",
-        "url": "https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 213179,
-      "name": "11 RAZONES",
-      "url": "https://open.spotify.com/track/4qEHMJyER7OntYTtPsIT1W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo Malo (Remix)",
-        "url": "https://open.spotify.com/album/35NdeKuRZ9zxd21lvngNxf"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        },
-        {
-          "name": "Ana Guerra",
-          "url": "https://open.spotify.com/artist/3MRynBsyLGzv3IQ9Fip6hO"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 184009,
-      "name": "Lo Malo - Remix",
-      "url": "https://open.spotify.com/track/7vHzOI0lrq6dXsHuQWpBpT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Enemigos",
         "url": "https://open.spotify.com/album/1LT7cecI9sEVx569gvjyd4"
       },
@@ -759,6 +759,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "11 RAZONES",
+        "url": "https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        }
+      ],
+      "duration_ms": 167192,
+      "name": "CUANDO TE FUISTE",
+      "url": "https://open.spotify.com/track/3vrslkAmBQ4mvqfOX1Xc6Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TEL\u00c9FONO",
         "url": "https://open.spotify.com/album/3hgpPBjZ7yR1yHyrVEngZL"
       },
@@ -791,22 +811,6 @@
       "duration_ms": 168933,
       "name": "La Canci\u00f3n Que No Quiero Cantarte",
       "url": "https://open.spotify.com/track/5PHEToa3yWlCiagig8MFE9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "11 RAZONES",
-        "url": "https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 210726,
-      "name": "NO TE HAS IDO Y YA TE EXTRA\u00d1O",
-      "url": "https://open.spotify.com/track/5XJIXRAM4ivaOitRM4NuE4"
     },
     {
       "added_at": null,
@@ -915,6 +919,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La \u00daltima (Banda Sonora Original)",
+        "url": "https://open.spotify.com/album/2K8Jw6BgO5befV6LSdYXur"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 148260,
+      "name": "A la calle",
+      "url": "https://open.spotify.com/track/2LH0ang4YHYvupIFK2P7DS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spoiler",
         "url": "https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j"
       },
@@ -931,22 +951,6 @@
       "duration_ms": 174433,
       "name": "Me Quedo",
       "url": "https://open.spotify.com/track/6Nqi1fWKYXrVXmF3RtQbSf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La \u00daltima (Banda Sonora Original)",
-        "url": "https://open.spotify.com/album/2K8Jw6BgO5befV6LSdYXur"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 129350,
-      "name": "Tu culpa",
-      "url": "https://open.spotify.com/track/5uiYxDj0w8d4PjsSDPuOxd"
     },
     {
       "added_at": null,
@@ -980,9 +984,9 @@
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         }
       ],
-      "duration_ms": 148260,
-      "name": "A la calle",
-      "url": "https://open.spotify.com/track/2LH0ang4YHYvupIFK2P7DS"
+      "duration_ms": 129350,
+      "name": "Tu culpa",
+      "url": "https://open.spotify.com/track/5uiYxDj0w8d4PjsSDPuOxd"
     },
     {
       "added_at": null,

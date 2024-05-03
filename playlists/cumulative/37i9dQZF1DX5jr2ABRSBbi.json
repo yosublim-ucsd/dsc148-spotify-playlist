@@ -1330,6 +1330,10 @@
           "url": "https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ"
         },
         {
+          "name": "ai.mogen",
+          "url": "https://open.spotify.com/artist/77mYai06p9Ju6y5pyGBH4C"
+        },
+        {
           "name": "Imogen Heap",
           "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
         }
@@ -2056,6 +2060,24 @@
       "duration_ms": 206914,
       "name": "home",
       "url": "https://open.spotify.com/track/0o9e5bY7rNyjex61u11lTv"
+    },
+    {
+      "album": {
+        "name": "HOT OR NOT?",
+        "url": "https://open.spotify.com/album/2VjksdbwEU5mvDu0YIgrh7"
+      },
+      "artists": [
+        {
+          "name": "Berenika Kohoutov\u00e1",
+          "url": "https://open.spotify.com/artist/28ukt2qiT4J2XeLyZklllx"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153230,
+      "name": "HOT OR NOT?",
+      "url": "https://open.spotify.com/track/0RquT3okBjYCi2dfTYPVHv"
     },
     {
       "album": {
@@ -2957,6 +2979,24 @@
     },
     {
       "album": {
+        "name": "Ke\u010f pr\u00edde l\u00e1ska",
+        "url": "https://open.spotify.com/album/7KKdeui9xe37TrF4nbhfFK"
+      },
+      "artists": [
+        {
+          "name": "Dianah Kay",
+          "url": "https://open.spotify.com/artist/5uQDn2WcyNbtvocmhVT0nz"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236618,
+      "name": "Ke\u010f pr\u00edde l\u00e1ska",
+      "url": "https://open.spotify.com/track/4IXMwk4Br5cm1yxbGVwURP"
+    },
+    {
+      "album": {
         "name": "KIDNAP ME (feat. Forest Blunt)",
         "url": "https://open.spotify.com/album/6nVZTvLnZw8bbWF5MNs5Qk"
       },
@@ -3682,6 +3722,24 @@
       "duration_ms": 131317,
       "name": "Mamo miri",
       "url": "https://open.spotify.com/track/1SxaR2y94iRFUW6YH97fb5"
+    },
+    {
+      "album": {
+        "name": "RUN AWAY",
+        "url": "https://open.spotify.com/album/5HOG4Hu7ce3F4SDZJa2PKt"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e9la Haviar",
+          "url": "https://open.spotify.com/artist/1Nzr0ROfkxgZgm1hhLfVko"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183733,
+      "name": "Margaritas",
+      "url": "https://open.spotify.com/track/3nIghXB7CcANUAyE4Mnbkp"
     },
     {
       "album": {
@@ -8180,8 +8238,8 @@
       },
       "artists": [
         {
-          "name": "Eva Buresova",
-          "url": "https://open.spotify.com/artist/2wqjvdaJ8YYyZpJDptlFtu"
+          "name": "Eva Bure\u0161ov\u00e1",
+          "url": "https://open.spotify.com/artist/4HuOr61nsQLxbnW61S3Mlq"
         }
       ],
       "date_added": "2024-05-01",

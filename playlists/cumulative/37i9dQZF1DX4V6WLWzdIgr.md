@@ -4,7 +4,7 @@
 
 > Sedihe koyo ngene, nggak bahaya ta? 😢
 
-82 songs - 6 hr 54 min
+83 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Loro Ati Sejak Dini](https://open.spotify.com/track/0oUVBZrnc8S6qJEA8uH1On) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Loro Ati Sejak Dini](https://open.spotify.com/album/69mI0XVoKizAkiULAx4FLj) | 4:44 | 2023-08-09 |  |
 | [Los Dol](https://open.spotify.com/track/2bCnJ2aCkSh0PIcS6nL2QM) | [Mr Jono & Joni](https://open.spotify.com/artist/15rzzisy7nred7z7Wotmy6) | [Los Dol](https://open.spotify.com/album/3nMuIEIxQ2VxTBAu5N4dKs) | 5:33 | 2021-09-08 | 2023-08-10 |
 | [Lungo'O](https://open.spotify.com/track/5mKAqG9ejNhdZhkoSJIi4j) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Lungo'O](https://open.spotify.com/album/2ftYlwfINRuqjoBiQjfRx9) | 5:41 | 2023-06-12 | 2024-04-19 |
-| [LungoO](https://open.spotify.com/track/4ThWoB0h7kZFH9KI8NqdHG) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [LungoO](https://open.spotify.com/album/1ajGUwvE5wkcXvUaSyAf1V) | 5:41 | 2021-09-08 |  |
+| [LungoO](https://open.spotify.com/track/4ThWoB0h7kZFH9KI8NqdHG) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [LungoO](https://open.spotify.com/album/1ajGUwvE5wkcXvUaSyAf1V) | 5:41 | 2021-09-08 | 2024-05-03 |
 | [Matur Suwun](https://open.spotify.com/track/3vfjm9cp7EXPiwg1dM619J) | [Tri Hanna](https://open.spotify.com/artist/5gAnElZHeovABzndwUiYJO) | [Matur Suwun](https://open.spotify.com/album/3tWwVTVbfJaZxJf5dtnZzo) | 5:46 | 2021-09-08 |  |
 | [Mundur Alon Alon](https://open.spotify.com/track/79mIVkf9j6wtG23QNkKfxZ) | [ILUX](https://open.spotify.com/artist/1GqTmXUOowfkWW1Ozg44bt) | [Mundur Alon Alon](https://open.spotify.com/album/6d3P0uJ5yNcZ0jkZRmIWmU) | 4:11 | 2021-09-08 |  |
 | [Nemen](https://open.spotify.com/track/4cdLiwrmpSlke1IyjBWGJR) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Nemen](https://open.spotify.com/album/3Ie2SqHJ6vZOhusuf0ms5t) | 4:48 | 2023-07-18 |  |
@@ -66,6 +66,7 @@
 | [Ojo Nangis](https://open.spotify.com/track/55ZdI8As6tgaM1X6P8XQ4U) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Ojo Nangis](https://open.spotify.com/album/6xnklJBg3JlMENDJBdFqiR) | 5:30 | 2023-08-09 |  |
 | [Pamer Bojo](https://open.spotify.com/track/2rShm1AcEBSlydfHykf3uJ) | [Didi Kempot](https://open.spotify.com/artist/0obaLCCWO42LOegAmHhEC4) | [Pamer Bojo](https://open.spotify.com/album/1GXYjNao7KW85iSodKqNMD) | 5:01 | 2021-09-08 |  |
 | [Pelanggaran](https://open.spotify.com/track/7tkOXJNeDNCeX9Jz3K1M3l) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Pelanggaran](https://open.spotify.com/album/74dbmkxOoWQE3h4RlXfPIK) | 4:57 | 2023-09-13 |  |
+| [Piwales Tresno](https://open.spotify.com/track/0Bo51l3LBA1w0cnClTiV4S) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Piwales Tresno](https://open.spotify.com/album/7A3KCg9TnljGE3VywQRuix) | 4:19 | 2024-05-02 |  |
 | [Raiso Dadi Siji](https://open.spotify.com/track/2WamguLifm5R5oKt4kuddx) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh), [Linda Sulini](https://open.spotify.com/artist/0dbRMrhQQRU84Eh6GafP6O) | [Raiso Dadi Siji](https://open.spotify.com/album/0YX5jGnXIZ7McHkHuJzfbg) | 6:34 | 2023-08-01 |  |
 | [RAISO DADI SIJI](https://open.spotify.com/track/6Jo8Hoo4vJpXtESmBJEEJS) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh), [Linda Sulini](https://open.spotify.com/artist/0dbRMrhQQRU84Eh6GafP6O) | [RAISO DADI SIJI](https://open.spotify.com/album/0ur8PFBqXKXVdwhHFviG4J) | 6:37 | 2023-09-13 | 2024-04-19 |
 | [Rasah Bali](https://open.spotify.com/track/19k7JnQqTk55l1yV7ul3MD) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4), [Ena Vika](https://open.spotify.com/artist/6JefPJoggP4q1iCg3qJlBd) | [Rasah Bali](https://open.spotify.com/album/75hhW9Eh0uu1i3QMuw6n3e) | 4:24 | 2023-02-03 |  |

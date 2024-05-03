@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "This is r&b in Canada, elevate your aura with PARTYNEXTDOOR.",
+  "description": "This is r&b in Canada, elevate your aura with Charlotte Day Wilson.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -720,6 +720,24 @@
       "duration_ms": 228545,
       "name": "Again",
       "url": "https://open.spotify.com/track/22suMDhP7SweqGcCmbBOmK"
+    },
+    {
+      "album": {
+        "name": "AIN'T I",
+        "url": "https://open.spotify.com/album/2UGnAvXO6P1som2VnTqt9q"
+      },
+      "artists": [
+        {
+          "name": "Francesca Wexler",
+          "url": "https://open.spotify.com/artist/3Lc7WiR6p26xEQsoV8QZDa"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213050,
+      "name": "AIN'T I",
+      "url": "https://open.spotify.com/track/3XsetgxNJhAbpA0LgFUqX3"
     },
     {
       "album": {
@@ -2856,6 +2874,24 @@
       "duration_ms": 142978,
       "name": "Change My Mind",
       "url": "https://open.spotify.com/track/3T4g0Q0C4lvr1WNUW93eGg"
+    },
+    {
+      "album": {
+        "name": "Change Your Mind",
+        "url": "https://open.spotify.com/album/3BTH2AziFRHfvTEEruGyWp"
+      },
+      "artists": [
+        {
+          "name": "The Free Label",
+          "url": "https://open.spotify.com/artist/4YOL2g6AwphwsB1dOZZSOr"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230494,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/0v49IQxhKOEw2eWv7hYiCn"
     },
     {
       "album": {
@@ -6282,6 +6318,24 @@
       "duration_ms": 183355,
       "name": "Gemini Season (You Don't Know Me)",
       "url": "https://open.spotify.com/track/6NIvS0dnPIL4gK259AW7ut"
+    },
+    {
+      "album": {
+        "name": "Get to You",
+        "url": "https://open.spotify.com/album/5KgFFgn5C4IeL2CItwMCuZ"
+      },
+      "artists": [
+        {
+          "name": "Begonia",
+          "url": "https://open.spotify.com/artist/4imuw38jkxPpTDqeMZDZD6"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220585,
+      "name": "Get to You",
+      "url": "https://open.spotify.com/track/2Ka7ipcvtIMb5TsvDm4rzc"
     },
     {
       "album": {
@@ -12193,28 +12247,6 @@
     },
     {
       "album": {
-        "name": "ON MY WAY",
-        "url": "https://open.spotify.com/album/1pq94oLoPufKtOpJ3SKGMF"
-      },
-      "artists": [
-        {
-          "name": "Skip Waiters",
-          "url": "https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav"
-        },
-        {
-          "name": "Faiza",
-          "url": "https://open.spotify.com/artist/1rnl1q5bktJv9GiZTH91mD"
-        }
-      ],
-      "date_added": "2024-01-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 145777,
-      "name": "ON MY WAY",
-      "url": "https://open.spotify.com/track/3yTFX1HE96ChTBh3zSTpbj"
-    },
-    {
-      "album": {
         "name": "On My Way",
         "url": "https://open.spotify.com/album/62ei8HXiUIMF8QNG0AbZiT"
       },
@@ -12234,6 +12266,28 @@
       "duration_ms": 161337,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/284dZP2uHiNlX2NitwREww"
+    },
+    {
+      "album": {
+        "name": "ON MY WAY (feat. Faiza)",
+        "url": "https://open.spotify.com/album/1pq94oLoPufKtOpJ3SKGMF"
+      },
+      "artists": [
+        {
+          "name": "Skip Waiters",
+          "url": "https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav"
+        },
+        {
+          "name": "Faiza",
+          "url": "https://open.spotify.com/artist/1rnl1q5bktJv9GiZTH91mD"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145777,
+      "name": "ON MY WAY (feat. Faiza)",
+      "url": "https://open.spotify.com/track/3yTFX1HE96ChTBh3zSTpbj"
     },
     {
       "album": {
@@ -17150,6 +17204,24 @@
       "duration_ms": 308820,
       "name": "Texts Go Green",
       "url": "https://open.spotify.com/track/4FIgHqXd4KkOwxrGeLDYM2"
+    },
+    {
+      "album": {
+        "name": "That Girl",
+        "url": "https://open.spotify.com/album/0GXk9EgSCK9uqaboNWZSdF"
+      },
+      "artists": [
+        {
+          "name": "Jhyve",
+          "url": "https://open.spotify.com/artist/0HmsavbsOIIyKWdQOyFh2f"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166299,
+      "name": "That Girl",
+      "url": "https://open.spotify.com/track/5ZkVidLQ7NcDlPaemrTbtD"
     },
     {
       "album": {

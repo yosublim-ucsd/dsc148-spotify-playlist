@@ -174,7 +174,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-01",
+      "date_removed": null,
       "duration_ms": 374780,
       "name": "Again",
       "url": "https://open.spotify.com/track/5R3susWR1HXEfUQzNNhFo5"
@@ -324,7 +324,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 270000,
       "name": "All Things Are Possible (Live)",
       "url": "https://open.spotify.com/track/4mEl4NNDrzWLXC60nVlvnM"
@@ -3412,7 +3412,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-30",
+      "date_removed": null,
       "duration_ms": 577592,
       "name": "Kaabo",
       "url": "https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa"
@@ -5148,7 +5148,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 180779,
       "name": "Peace of Mind",
       "url": "https://open.spotify.com/track/096IkFflGf4BsKhIgSNBYz"
@@ -6554,7 +6554,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 545828,
       "name": "We Hail",
       "url": "https://open.spotify.com/track/4Kf3akI98I8rvyKK3OzNLM"
@@ -6668,6 +6668,28 @@
       "duration_ms": 240200,
       "name": "What A Beautiful Name",
       "url": "https://open.spotify.com/track/5XCtjnFMKtCT7ycDwV3Kdh"
+    },
+    {
+      "album": {
+        "name": "What the Lord Has Done",
+        "url": "https://open.spotify.com/album/5qjmj4ORlNrBKjRvlYdILX"
+      },
+      "artists": [
+        {
+          "name": "EJ Newton",
+          "url": "https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4"
+        },
+        {
+          "name": "Great Grace Music",
+          "url": "https://open.spotify.com/artist/22AZCb1o64DatHge9vhkTN"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 503380,
+      "name": "What the Lord Has Done",
+      "url": "https://open.spotify.com/track/0uBrewYuraJdPVVla0kaSP"
     },
     {
       "album": {

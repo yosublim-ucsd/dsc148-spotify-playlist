@@ -1,6 +1,6 @@
 {
   "description": "Music from \"Idle Master SideM\". \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fcSideM\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n",
-  "num_followers": 22781,
+  "num_followers": 22784,
   "original_name": "THE IDOLM@STER SideM \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc SideM",
   "owner": {
     "name": "Spotify",
@@ -875,6 +875,22 @@
     {
       "added_at": "2024-03-05 17:33:35",
       "album": {
+        "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 01 PRIDE STAR",
+        "url": "https://open.spotify.com/album/1isS51QfmONRHsnfdjpWwz"
+      },
+      "artists": [
+        {
+          "name": "315 ALLSTARS",
+          "url": "https://open.spotify.com/artist/3sMdEIxwcZJ2gF1Sjd8NHX"
+        }
+      ],
+      "duration_ms": 305400,
+      "name": "Reason!!",
+      "url": "https://open.spotify.com/track/3CLQ12T4Ff4vGX0T98r2mP"
+    },
+    {
+      "added_at": "2024-03-05 17:33:35",
+      "album": {
         "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 03",
         "url": "https://open.spotify.com/album/5ipJceUikIQdd5bgLaQsuX"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 233146,
       "name": "\u30df\u30e5\u30fc\u30b8\u30a2\u30e0\u30b8\u30ab",
       "url": "https://open.spotify.com/track/2y7Cll24OufSOnWmvdzPDe"
-    },
-    {
-      "added_at": "2024-03-05 17:33:35",
-      "album": {
-        "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 01 PRIDE STAR",
-        "url": "https://open.spotify.com/album/1isS51QfmONRHsnfdjpWwz"
-      },
-      "artists": [
-        {
-          "name": "315 ALLSTARS",
-          "url": "https://open.spotify.com/artist/3sMdEIxwcZJ2gF1Sjd8NHX"
-        }
-      ],
-      "duration_ms": 305400,
-      "name": "Reason!!",
-      "url": "https://open.spotify.com/track/3CLQ12T4Ff4vGX0T98r2mP"
     },
     {
       "added_at": "2024-03-05 17:33:35",
@@ -1099,38 +1099,6 @@
     {
       "added_at": "2024-03-05 17:33:35",
       "album": {
-        "name": "THE IDOLM@STER SideM ST@RTING LINE-09 \u795e\u901f\u4e00\u9b42",
-        "url": "https://open.spotify.com/album/0V7ZKaIhX9xTlWvhiOJ5qk"
-      },
-      "artists": [
-        {
-          "name": "\u795e\u901f\u4e00\u9b42",
-          "url": "https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd"
-        }
-      ],
-      "duration_ms": 267346,
-      "name": "\u30d0\u30fc\u30cb\u30f3\u30fb\u30af\u30fc\u30eb\u3067\u8f1d\u3044\u3066",
-      "url": "https://open.spotify.com/track/2dwYu8lDOXLrCwH2fyhrjW"
-    },
-    {
-      "added_at": "2024-03-05 17:33:35",
-      "album": {
-        "name": "THE IDOLM@STER SideM 3rd ANNIVERSARY 01",
-        "url": "https://open.spotify.com/album/0pKniFFDpwItfygikcY5BG"
-      },
-      "artists": [
-        {
-          "name": "Altessimo",
-          "url": "https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8"
-        }
-      ],
-      "duration_ms": 279333,
-      "name": "Tone's Destiny",
-      "url": "https://open.spotify.com/track/3L0J09Vkwx7OupyfRNAv22"
-    },
-    {
-      "added_at": "2024-03-05 17:33:35",
-      "album": {
         "name": "THE IDOLM@STER SideM WORLD TRE@SURE 03",
         "url": "https://open.spotify.com/album/2600B026iZThRT78I7Xjlk"
       },
@@ -1151,6 +1119,38 @@
       "duration_ms": 248333,
       "name": "Baile Apasionado",
       "url": "https://open.spotify.com/track/2OTdGu4Ar0sX2OhbSlevlq"
+    },
+    {
+      "added_at": "2024-03-05 17:33:35",
+      "album": {
+        "name": "THE IDOLM@STER SideM 3rd ANNIVERSARY 01",
+        "url": "https://open.spotify.com/album/0pKniFFDpwItfygikcY5BG"
+      },
+      "artists": [
+        {
+          "name": "Altessimo",
+          "url": "https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8"
+        }
+      ],
+      "duration_ms": 279333,
+      "name": "Tone's Destiny",
+      "url": "https://open.spotify.com/track/3L0J09Vkwx7OupyfRNAv22"
+    },
+    {
+      "added_at": "2024-03-05 17:33:35",
+      "album": {
+        "name": "THE IDOLM@STER SideM ST@RTING LINE-09 \u795e\u901f\u4e00\u9b42",
+        "url": "https://open.spotify.com/album/0V7ZKaIhX9xTlWvhiOJ5qk"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u901f\u4e00\u9b42",
+          "url": "https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd"
+        }
+      ],
+      "duration_ms": 267346,
+      "name": "\u30d0\u30fc\u30cb\u30f3\u30fb\u30af\u30fc\u30eb\u3067\u8f1d\u3044\u3066",
+      "url": "https://open.spotify.com/track/2dwYu8lDOXLrCwH2fyhrjW"
     },
     {
       "added_at": "2024-03-05 17:33:35",
@@ -1203,30 +1203,18 @@
     {
       "added_at": "2024-03-05 17:33:35",
       "album": {
-        "name": "THE IDOLM@STER SideM WORLD TRE@SURE 04",
-        "url": "https://open.spotify.com/album/5YY6uJriyD5sLakE00iPx1"
+        "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 06",
+        "url": "https://open.spotify.com/album/3FPBLf9wQsO8XR1aWQfXzA"
       },
       "artists": [
         {
-          "name": "\u5fa1\u624b\u6d17\u7fd4\u592a (CV.\u677e\u5ca1\u798e\u4e1e)",
-          "url": "https://open.spotify.com/artist/27EIW2zgQENFON94CmfVOs"
-        },
-        {
-          "name": "\u6e21\u8fba\u307f\u306e\u308a (CV.\u9ad8\u585a\u667a\u4eba)",
-          "url": "https://open.spotify.com/artist/0X5yOApIvHeL7vb0hfmT9V"
-        },
-        {
-          "name": "\u5927\u6cb3\u30bf\u30b1\u30eb (CV.\u5bfa\u5cf6\u60c7\u592a)",
-          "url": "https://open.spotify.com/artist/6xLoG0qfLd7CT1gdNaMeRd"
-        },
-        {
-          "name": "\u515c \u5927\u543e (CV.\u6d66\u5c3e\u5cb3\u5927)",
-          "url": "https://open.spotify.com/artist/36v06McO13MtRuzHchy9W5"
+          "name": "Jupiter",
+          "url": "https://open.spotify.com/artist/3lJVQgWgaTtaIQxlNEHTpE"
         }
       ],
-      "duration_ms": 220013,
-      "name": "\u5343\u5ba2\u4e07\u6765\u30cb\u30fc\u30cf\u30aa\u30b5\u30a1\u30ab\u30b9\uff01",
-      "url": "https://open.spotify.com/track/6xzS3JfLsFuXDeTsMStW6W"
+      "duration_ms": 256338,
+      "name": "\u904b\u547d\u5149\u5e74",
+      "url": "https://open.spotify.com/track/4gAniioYF8jxhfl5vEz8sC"
     },
     {
       "added_at": "2024-03-05 17:33:35",
@@ -1291,18 +1279,30 @@
     {
       "added_at": "2024-03-05 17:33:35",
       "album": {
-        "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 06",
-        "url": "https://open.spotify.com/album/3FPBLf9wQsO8XR1aWQfXzA"
+        "name": "THE IDOLM@STER SideM WORLD TRE@SURE 04",
+        "url": "https://open.spotify.com/album/5YY6uJriyD5sLakE00iPx1"
       },
       "artists": [
         {
-          "name": "Jupiter",
-          "url": "https://open.spotify.com/artist/3lJVQgWgaTtaIQxlNEHTpE"
+          "name": "\u5fa1\u624b\u6d17\u7fd4\u592a (CV.\u677e\u5ca1\u798e\u4e1e)",
+          "url": "https://open.spotify.com/artist/27EIW2zgQENFON94CmfVOs"
+        },
+        {
+          "name": "\u6e21\u8fba\u307f\u306e\u308a (CV.\u9ad8\u585a\u667a\u4eba)",
+          "url": "https://open.spotify.com/artist/0X5yOApIvHeL7vb0hfmT9V"
+        },
+        {
+          "name": "\u5927\u6cb3\u30bf\u30b1\u30eb (CV.\u5bfa\u5cf6\u60c7\u592a)",
+          "url": "https://open.spotify.com/artist/6xLoG0qfLd7CT1gdNaMeRd"
+        },
+        {
+          "name": "\u515c \u5927\u543e (CV.\u6d66\u5c3e\u5cb3\u5927)",
+          "url": "https://open.spotify.com/artist/36v06McO13MtRuzHchy9W5"
         }
       ],
-      "duration_ms": 256338,
-      "name": "\u904b\u547d\u5149\u5e74",
-      "url": "https://open.spotify.com/track/4gAniioYF8jxhfl5vEz8sC"
+      "duration_ms": 220013,
+      "name": "\u5343\u5ba2\u4e07\u6765\u30cb\u30fc\u30cf\u30aa\u30b5\u30a1\u30ab\u30b9\uff01",
+      "url": "https://open.spotify.com/track/6xzS3JfLsFuXDeTsMStW6W"
     },
     {
       "added_at": "2024-03-05 17:33:35",

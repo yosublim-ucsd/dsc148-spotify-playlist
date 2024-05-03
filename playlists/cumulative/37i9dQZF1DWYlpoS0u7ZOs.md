@@ -2,12 +2,13 @@
 
 ### [shockwave](https://open.spotify.com/playlist/37i9dQZF1DWYlpoS0u7ZOs)
 
-> A new wave of rock music\. Cover: Jools
+> A new wave of rock music\. Cover: Indoor Foxes
 
-361 songs - 19 hr 36 min
+365 songs - 19 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [21st Century Suffragette](https://open.spotify.com/track/1g2T1BUfAh6U7aOioCiRIX) | [GIRLBAND!](https://open.spotify.com/artist/3QSwq9CQMjqe01RtbKqz0F) | [21st Century Suffragette](https://open.spotify.com/album/2C2ISiaMskaxrMTnAQUd1z) | 2:26 | 2024-05-02 |  |
 | [3 Pints](https://open.spotify.com/track/4wGgBmAL1y5F2mnaogC3kB) | [the big sad](https://open.spotify.com/artist/2xfAVL8ZxOxXdCeD4SrY3D) | [3 Pints](https://open.spotify.com/album/5lY91fkQLEuwoiHw3l2dbo) | 3:12 | 2023-03-03 | 2023-07-07 |
 | [3AM](https://open.spotify.com/track/7q6sN7NKKowCDvPHS0SaCi) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [3AM](https://open.spotify.com/album/1Cmfz56eoj4qs3ZMvfvCUx) | 3:31 | 2023-01-13 | 2023-03-25 |
 | [6.0](https://open.spotify.com/track/5CuGhDqfPQKVNt09deoxwF) | [House of Women](https://open.spotify.com/artist/69hDEF4aqs1XvGs9jHlIwf) | [People Printing](https://open.spotify.com/album/2q8j2IVYrNaM5pAWug6Er1) | 2:06 | 2023-11-18 | 2024-03-16 |
@@ -84,7 +85,7 @@
 | [Dead To Me](https://open.spotify.com/track/3jZ9j6pqDnZKpwuXU2QnKV) | [Gaffa Tape Sandy](https://open.spotify.com/artist/00P2dAOymeYKFx4OSaVgw1) | [Dead to Me](https://open.spotify.com/album/7ITI3SiDikWH4ivHKBnUkF) | 2:50 | 2024-04-12 |  |
 | [Default Parody](https://open.spotify.com/track/1H92yQ4R0sreZR0kDvTE2s) | [Drahla](https://open.spotify.com/artist/1HHyE1TCzui5Lay0gwS6bR) | [Default Parody](https://open.spotify.com/album/2zHGFKgsqN5tYmpPGoxWK8) | 3:27 | 2024-01-26 | 2024-04-13 |
 | [delirious](https://open.spotify.com/track/2i6H4Pv8FAGamAIdftleDu) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [delirious](https://open.spotify.com/album/4L9LiVVUoPfPnrkve1SR3C) | 2:51 | 2023-02-03 | 2023-11-18 |
-| [Des Goblin](https://open.spotify.com/track/1k9Z2Jqlac9H71IBW67Xeg) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Des Goblin](https://open.spotify.com/album/1ln1r9VxOpYkRve5YWt2iB) | 4:16 | 2024-02-09 |  |
+| [Des Goblin](https://open.spotify.com/track/1k9Z2Jqlac9H71IBW67Xeg) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Des Goblin](https://open.spotify.com/album/1ln1r9VxOpYkRve5YWt2iB) | 4:16 | 2024-02-09 | 2024-05-03 |
 | [DESPERATE BREAKFAST](https://open.spotify.com/track/0dWxRisAsPcoN1DOWj4hRR) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [DESPERATE BREAKFAST](https://open.spotify.com/album/7aavLSvHUOAqXYr0jPSm7t) | 3:11 | 2023-09-21 | 2024-02-09 |
 | [Detrimental](https://open.spotify.com/track/2NzPodb1SiSHLK5ycVywb4) | [Suga Knuckle](https://open.spotify.com/artist/6q05UMnrAwdqUuKj5OWGDZ) | [Detrimental](https://open.spotify.com/album/4nNme6bRCBvRxyYy8Vl7UY) | 3:25 | 2023-02-10 | 2023-07-29 |
 | [Didn't Even Know What I Was Looking For](https://open.spotify.com/track/7hdk9RNXMsXmoASR7TktzG) | [Jaws the Shark](https://open.spotify.com/artist/4aroFthfrYQXH0QJdLUH3S) | [Jaws the Shark](https://open.spotify.com/album/5Qs7fZsUxaY5PqClldAPA5) | 3:09 | 2023-01-13 | 2023-03-11 |
@@ -125,6 +126,7 @@
 | [Gaslighter](https://open.spotify.com/track/0CvJWXoFSiPHYpLiQK1PBf) | [Skinner](https://open.spotify.com/artist/2Se7imfs8bxem8G6oVNABJ) | [Commander Trainwreck](https://open.spotify.com/album/3pgkvZHrpEawDd8GKrG1xu) | 3:44 | 2023-01-13 | 2023-03-25 |
 | [Gaunt](https://open.spotify.com/track/07WXShmsAvKUVK3QYUubJ9) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Gaunt](https://open.spotify.com/album/3hj2N8CIJ67hejzX5XcMRs) | 3:29 | 2023-09-21 | 2024-02-09 |
 | [Geisha](https://open.spotify.com/track/02wRK11rA8xRXBWAoI42iP) | [Egyptian Blue](https://open.spotify.com/artist/3IW8WBsi0vGrcdMNsXS6Bi) | [Geisha](https://open.spotify.com/album/3GunDz6ntvuNGQcFHPtMiW) | 3:17 | 2023-03-24 | 2023-07-29 |
+| [Girls!](https://open.spotify.com/track/6mzLKnoN7tFpSa2sZ1ypfx) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E), [Uninvited](https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn) | [ANTI\-FUN PROPAGANDA](https://open.spotify.com/album/56STnkZ21Pd3Wo6kJGlrKW) | 3:04 | 2024-05-02 |  |
 | [Glue](https://open.spotify.com/track/21rQgTvx0rD9kOdFMRGQjC) | [About Bunny](https://open.spotify.com/artist/5Ywb0MRsHQdzngYBTZyuf9) | [Glue](https://open.spotify.com/album/6W8AJFYRwG0vCbf3qC3Pfj) | 2:42 | 2024-02-16 |  |
 | [GO!](https://open.spotify.com/track/7AHYD0DNFagANAVo4mxFGC) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [GO!](https://open.spotify.com/album/6QxSkWL0OqrjfJFtlVX9Dx) | 3:00 | 2023-01-27 | 2023-06-09 |
 | [God Knows](https://open.spotify.com/track/15Lt8EYmFNXjrJOQr2DCzb) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [Ride Or Die](https://open.spotify.com/album/3HAOHVDqAh5CyxGVye4G15) | 2:36 | 2023-03-24 | 2023-10-13 |
@@ -172,7 +174,7 @@
 | [Impossible + Strange](https://open.spotify.com/track/3bYpAjZAzD1GWc9ucXKI92) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Impossible + Strange](https://open.spotify.com/album/7t0dcCAHAITzLv3BthyXdh) | 2:58 | 2024-01-26 |  |
 | [In My Egg](https://open.spotify.com/track/5NGZU0uyAHF24eCKUGisKj) | [Buzzard Buzzard Buzzard](https://open.spotify.com/artist/69ilUSFj31FA2iLHtegRwi) | [In My Egg](https://open.spotify.com/album/13xSNKbGHEFHWGACDIc4iA) | 3:08 | 2024-03-15 | 2024-04-13 |
 | [in my ways](https://open.spotify.com/track/5RpIFvmg1HYGF7VKLCQdSZ) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [in my ways](https://open.spotify.com/album/4jHrhCm1rbkI6xNMTCkFMU) | 2:23 | 2023-02-03 | 2023-09-22 |
-| [Jayne](https://open.spotify.com/track/5l8OTYkuZnPim46fTv1cwD) | [JAXN](https://open.spotify.com/artist/7DwbU77epeOXvBO9xfOmh7) | [Jayne](https://open.spotify.com/album/0vwds1IJmwx3iWRwlKqaMJ) | 2:27 | 2024-04-25 |  |
+| [Jayne](https://open.spotify.com/track/5l8OTYkuZnPim46fTv1cwD) | [JAXN](https://open.spotify.com/artist/7DwbU77epeOXvBO9xfOmh7) | [Jayne](https://open.spotify.com/album/0vwds1IJmwx3iWRwlKqaMJ) | 2:27 | 2024-04-25 | 2024-05-03 |
 | [Jellyfish](https://open.spotify.com/track/5QoAoPROnMerJZXHSdCA6U) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Jellyfish](https://open.spotify.com/album/6h0uAe4jR7ej8bFFl5JNhI) | 3:32 | 2023-01-13 | 2023-03-11 |
 | [Jellyfish](https://open.spotify.com/track/5miXWvZSKWYr4W3MR27z87) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Jellyfish](https://open.spotify.com/album/5lYRdMHU1chHG2AKzkO72o) | 3:32 | 2023-03-03 | 2023-04-22 |
 | [Join The Club](https://open.spotify.com/track/69GxHryDHLWjJGccowdFoJ) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Join The Club](https://open.spotify.com/album/45XFiYaalYoNTcM5Kb4IXW) | 3:03 | 2023-07-21 | 2024-02-09 |
@@ -239,7 +241,7 @@
 | [Norwegian Wood](https://open.spotify.com/track/0hqwO626QOUFYQjuKSkgOJ) | [Picture Parlour](https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV) | [Norwegian Wood](https://open.spotify.com/album/7awWgs9eg9Us5jQg4nm5Ck) | 3:34 | 2023-07-06 | 2023-08-10 |
 | [Norwegian Wood](https://open.spotify.com/track/50Wusuhe7GBuOr5xGZlyGe) | [Picture Parlour](https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV) | [Norwegian Wood](https://open.spotify.com/album/4vXzCKpcnI930OU3QNCOLW) | 3:34 | 2023-07-28 | 2024-02-09 |
 | [Nostalgia \(ft\. Patty Walters\)](https://open.spotify.com/track/7urqfz7paOyKHayDEa7uGC) | [Bleak Soul](https://open.spotify.com/artist/2iMxVnS6Ovd7R0C5kHdo6p), [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [Nostalgia](https://open.spotify.com/album/6K6oiAZS3oOlH9VEAIbL2U) | 3:18 | 2023-03-17 | 2023-04-22 |
-| [Not Like The Rest](https://open.spotify.com/track/4KwYHGWMQelyzc6a5RXP4a) | [GIRLBAND!](https://open.spotify.com/artist/3QSwq9CQMjqe01RtbKqz0F) | [Not Like The Rest](https://open.spotify.com/album/311IWRJeyNHUwqV3bk3Grb) | 3:14 | 2024-04-12 |  |
+| [Not Like The Rest](https://open.spotify.com/track/4KwYHGWMQelyzc6a5RXP4a) | [GIRLBAND!](https://open.spotify.com/artist/3QSwq9CQMjqe01RtbKqz0F) | [Not Like The Rest](https://open.spotify.com/album/311IWRJeyNHUwqV3bk3Grb) | 3:14 | 2024-04-12 | 2024-05-03 |
 | [Notre Dame Made Out of Flesh](https://open.spotify.com/track/3qiftvGuJKJhHB5Pjy1u9p) | [UNIVERSITY](https://open.spotify.com/artist/2TDMep1IfMAASZxbC5FAo5) | [Notre Dame Made Out of Flesh](https://open.spotify.com/album/0UFabPWPdCbnptLEJnu5LZ) | 5:05 | 2023-10-13 | 2023-11-18 |
 | [Now Here’s The Weather](https://open.spotify.com/track/35xhpjvv0SakWLpe05Jwkq) | [Whitelands](https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro) | [Night\-bound Eyes Are Blind To The Day](https://open.spotify.com/album/4ygfNjZCyPGrVcfuZ8WHx7) | 4:13 | 2024-02-23 |  |
 | [Our Love Is Growing \- Single Mix](https://open.spotify.com/track/1UpFjzn7zBmwtrZgyXL63p) | [LIFE](https://open.spotify.com/artist/2NWimAynlyqVUWD4YnJHlC) | [Our Love Is Growing](https://open.spotify.com/album/00TPwByRL8JEFa9aykOuW5) | 3:01 | 2023-01-13 | 2023-02-03 |
@@ -253,6 +255,7 @@
 | [Pieces](https://open.spotify.com/track/0VuKEwn7drlril79NoACPQ) | [Sarcoline](https://open.spotify.com/artist/1FEYwFbiNjMgiO4sbSE0rs) | [Pieces](https://open.spotify.com/album/4iliUdAPQoj5PCe9rmfGzC) | 4:00 | 2023-11-18 | 2024-04-13 |
 | [Piggie](https://open.spotify.com/track/1DVuD6ZWzdPf9PUeDAsOpS) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Piggie](https://open.spotify.com/album/47Nwndy2RaIR3JjvGr9LOm) | 2:58 | 2023-06-08 | 2023-08-11 |
 | [placebo dreams](https://open.spotify.com/track/3akppgRklUClRW0d08fh8D) | [tmdistant](https://open.spotify.com/artist/6BJvojHlWWAV9cbJouYPUi), [priestess](https://open.spotify.com/artist/3JDhZBUZGHTTc4Z6B1NzNj) | [placebo dreams](https://open.spotify.com/album/5IGoPEWBSxWZgQw1UmvOXK) | 2:24 | 2024-03-29 |  |
+| [Plant Pot Song](https://open.spotify.com/track/5GYlldi6Qa1Px83vRKCuDj) | [Indoor Foxes](https://open.spotify.com/artist/6wsisvgmHy85OWQWa4TeBo) | [Plant Pot Song](https://open.spotify.com/album/57Xwk8VAERpxv7fYtXoRT1) | 3:09 | 2024-05-02 |  |
 | [Points of View](https://open.spotify.com/track/3RnHVxYDzYHjAXIiSPrxUN) | [Hotel Lux](https://open.spotify.com/artist/6tdX8iW13i9uRwGzyfRFMR) | [Points of View](https://open.spotify.com/album/475DvjXowIrzPg0t6R7Ymk) | 3:37 | 2023-01-13 | 2023-03-11 |
 | [Prettier](https://open.spotify.com/track/5GS5Na3mniJLdcD92SFrQd) | [bexx](https://open.spotify.com/artist/6tXuCxJODkifV9zdPsA1G6) | [Prettier](https://open.spotify.com/album/2Evdn2clIwpJ3gj4oLyQI4) | 3:10 | 2023-01-13 | 2023-03-25 |
 | [Propaganda](https://open.spotify.com/track/7ySX1sgdBBCzw7WacxCYiS) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [Propaganda](https://open.spotify.com/album/4DypGkmzZGw3chFK6Zh3Pr) | 2:26 | 2023-01-13 | 2023-03-03 |
@@ -307,10 +310,11 @@
 | [Stones](https://open.spotify.com/track/6JfTPst2t6yiGpn65UxPG8) | [Anolah](https://open.spotify.com/artist/1DxdPWT4AD81ET3HtqPZOK) | [Stones](https://open.spotify.com/album/5d3mW19I4ltX082FItNAYu) | 2:06 | 2023-05-18 | 2023-07-29 |
 | [Stop Living & Don't Dream](https://open.spotify.com/track/6IoAdJtGzeZc4ulFe1MeUR) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [Stop Living & Don't Dream](https://open.spotify.com/album/2PWbNB64S8z7ntcCBgIJgy) | 2:22 | 2023-03-24 | 2023-09-22 |
 | [Strange Neighbour](https://open.spotify.com/track/6pHUXTAkA0oeZjUQNYkwWN) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [Strange Neighbour](https://open.spotify.com/album/1hygYn9jF3ZldHAhFacnza) | 3:21 | 2023-08-10 | 2024-02-09 |
+| [Streetwise](https://open.spotify.com/track/5SDW0aLSetWzFS1676VgXQ) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e), [xmal](https://open.spotify.com/artist/20DDNwdmrT61u9Wat7cv7H) | [Streetwise](https://open.spotify.com/album/62gfDniQmmdW6ttPGDukYv) | 2:06 | 2024-05-02 |  |
 | [Strut](https://open.spotify.com/track/3X1pxBnEv3yyD4XfAWYugU) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [Strut](https://open.spotify.com/album/3mIlv8SkFguyzBITrJs1zr) | 3:18 | 2024-04-12 |  |
 | [Suff City](https://open.spotify.com/track/1kKtsNYNR33jc4NXY9cc4S) | [Jaws the Shark](https://open.spotify.com/artist/4aroFthfrYQXH0QJdLUH3S) | [Suff City](https://open.spotify.com/album/2oqoYX8ocgX1HooEd9fEMU) | 3:09 | 2023-07-06 | 2023-08-11 |
 | [Sugar Sandwich](https://open.spotify.com/track/0YjWw115kqMWebWvXKC7is) | [Buzzard Buzzard Buzzard](https://open.spotify.com/artist/69ilUSFj31FA2iLHtegRwi) | [Skinwalker](https://open.spotify.com/album/0NrTb5PevrUBFnL3DXOyFG) | 2:25 | 2024-04-12 |  |
-| [Sunshine](https://open.spotify.com/track/7aiIXYnCNaXElgQJwvSx7m) | [PROJECTOR](https://open.spotify.com/artist/25loVbwSp0xXNu4Ds1lTa9) | [Sunshine](https://open.spotify.com/album/3pW5GoeE8FJ26p55jBrxFb) | 3:07 | 2024-02-09 |  |
+| [Sunshine](https://open.spotify.com/track/7aiIXYnCNaXElgQJwvSx7m) | [PROJECTOR](https://open.spotify.com/artist/25loVbwSp0xXNu4Ds1lTa9) | [Sunshine](https://open.spotify.com/album/3pW5GoeE8FJ26p55jBrxFb) | 3:07 | 2024-02-09 | 2024-05-03 |
 | [Survivor's Guilt](https://open.spotify.com/track/6jNN6oZaHZ7PiFsRgN8RFT) | [Uninvited](https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn) | [I Feel A Bit Weird](https://open.spotify.com/album/4KhsMrML9a4mIMwsHdXWXj) | 4:18 | 2023-10-13 | 2024-02-09 |
 | [Swallow](https://open.spotify.com/track/0bDFmPqNCXQcfAc3njZszA) | [Harpy](https://open.spotify.com/artist/0fLFfyc0914STFxEyQHZhX) | [Swallow](https://open.spotify.com/album/7hXMo6KNd71w3y7Zd4r134) | 3:09 | 2023-01-13 | 2023-11-18 |
 | [Sweet One](https://open.spotify.com/track/2keqxI0IrJUrdBbXpswQpI) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Perpetual States of Boredom](https://open.spotify.com/album/0d3mjWzH04Ggs8aS2dfZOl) | 2:13 | 2023-01-13 | 2023-06-09 |

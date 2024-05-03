@@ -1,12 +1,12 @@
 {
   "description": "This is Anti-Flag. The essential tracks, all in one playlist.",
-  "num_followers": 15931,
+  "num_followers": 15932,
   "original_name": "This Is Anti-Flag",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjA0gAAAAAAX/DmagL3iOVMCWG4bzKLC",
+  "snapshot_id": "ZjGGAAAAAACOAloE2WROiWhKk0fbaWXo",
   "tracks": [
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The General Strike",
-        "url": "https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 197973,
-      "name": "The Neoliberal Anthem",
-      "url": "https://open.spotify.com/track/1eFFX62lE73xMal8dGPMHU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Die for the Government",
         "url": "https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 140293,
       "name": "F**k Police Brutality",
       "url": "https://open.spotify.com/track/7znoroIV2dSMcjpv7ZxnLh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The General Strike",
+        "url": "https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 197973,
+      "name": "The Neoliberal Anthem",
+      "url": "https://open.spotify.com/track/1eFFX62lE73xMal8dGPMHU"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The People Or the Gun",
-        "url": "https://open.spotify.com/album/5PAiVz2v0z9FqOI7e9Ebvn"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 170400,
-      "name": "Sodom, Gomorrah, Washington D.C. (Sheep in Shepherds Clothing)",
-      "url": "https://open.spotify.com/track/6yYrpq7dyqQGxw5XB9nShv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Die for the Government",
         "url": "https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 141026,
       "name": "You'd Do the Same",
       "url": "https://open.spotify.com/track/6XmmqYxSC4faXhsrsXqUKs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The People Or the Gun",
+        "url": "https://open.spotify.com/album/5PAiVz2v0z9FqOI7e9Ebvn"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "Sodom, Gomorrah, Washington D.C. (Sheep in Shepherds Clothing)",
+      "url": "https://open.spotify.com/track/6yYrpq7dyqQGxw5XB9nShv"
     },
     {
       "added_at": null,
@@ -675,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "20/20 Vision",
+        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 181133,
+      "name": "You Make Me Sick",
+      "url": "https://open.spotify.com/track/0a65BKVhV9DF9hp8bZocJE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The People Or the Gun",
         "url": "https://open.spotify.com/album/5PAiVz2v0z9FqOI7e9Ebvn"
       },
@@ -691,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "20/20 Vision",
-        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
+        "name": "A New Kind of Army",
+        "url": "https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv"
       },
       "artists": [
         {
@@ -700,9 +716,9 @@
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 181133,
-      "name": "You Make Me Sick",
-      "url": "https://open.spotify.com/track/0a65BKVhV9DF9hp8bZocJE"
+      "duration_ms": 137482,
+      "name": "No Apology",
+      "url": "https://open.spotify.com/track/7yDhbySqtQtoCgrH3uI9FM"
     },
     {
       "added_at": null,
@@ -755,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A New Kind of Army",
-        "url": "https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv"
+        "name": "LIES THEY TELL OUR CHILDREN",
+        "url": "https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk"
       },
       "artists": [
         {
@@ -764,25 +780,9 @@
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 137482,
-      "name": "No Apology",
-      "url": "https://open.spotify.com/track/7yDhbySqtQtoCgrH3uI9FM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "American Spring",
-        "url": "https://open.spotify.com/album/6UtJ5648uGVbr0EGCJs6S7"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 88213,
-      "name": "The Great Divide",
-      "url": "https://open.spotify.com/track/6CVfaxrzx4U7yH0Ntq4M6l"
+      "duration_ms": 90773,
+      "name": "SOLD EVERYTHING",
+      "url": "https://open.spotify.com/track/7kzA7SqzbyU2ZhSBKGmyjC"
     },
     {
       "added_at": null,
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LIES THEY TELL OUR CHILDREN",
-        "url": "https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk"
+        "name": "American Spring",
+        "url": "https://open.spotify.com/album/6UtJ5648uGVbr0EGCJs6S7"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 90773,
-      "name": "SOLD EVERYTHING",
-      "url": "https://open.spotify.com/track/7kzA7SqzbyU2ZhSBKGmyjC"
+      "duration_ms": 88213,
+      "name": "The Great Divide",
+      "url": "https://open.spotify.com/track/6CVfaxrzx4U7yH0Ntq4M6l"
     },
     {
       "added_at": null,

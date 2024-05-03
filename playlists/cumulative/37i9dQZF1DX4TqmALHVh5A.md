@@ -2,9 +2,9 @@
 
 ### [Courant Alternatif](https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A)
 
-> La scène française branchée sur courant alternatif\. Photo : Akira & le Sabbat
+> La scène française branchée sur courant alternatif\. Photo : MDNS
 
-161 songs - 8 hr 40 min
+164 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,8 +39,9 @@
 | [Christiane F](https://open.spotify.com/track/20qFSAGLPpDxaQJYd1fB7G) | [Takeshi HRTBRK](https://open.spotify.com/artist/5UDVJ8zsudfutHD7DCLeuz) | [Christiane F](https://open.spotify.com/album/73RKng65JeReqOgTTLGspF) | 2:31 | 2023-09-28 | 2023-11-17 |
 | [Chromé total](https://open.spotify.com/track/732rPfESdrlQjJoeqtSOgm) | [Scuffles](https://open.spotify.com/artist/2FLeI069itvCLf9YBn6CpQ) | [Chromé total](https://open.spotify.com/album/1ZkKO0IVqwv6kO3M9d8yWK) | 3:12 | 2023-10-19 | 2024-04-05 |
 | [Cl0ckW0rk](https://open.spotify.com/track/5w8XK7wdcdsIp76zLtc3aR) | [Apple Jelly](https://open.spotify.com/artist/587AadegoSQQn1WdhSCnSZ) | [Cl0ckW0rk EP](https://open.spotify.com/album/2aMSVdnr1U8YJKdbjLqHfr) | 3:01 | 2023-10-05 | 2023-11-17 |
-| [CLAIRIÈRE](https://open.spotify.com/track/2oMkFzQlvWaJBYjJPcHiMU) | [VISCERAL](https://open.spotify.com/artist/5AwoTd09zcU8oUJ12Qt4Om) | [CLAIRIÈRE](https://open.spotify.com/album/089lVl2UqcXFCc6Xy87WCP) | 2:49 | 2024-03-28 |  |
+| [CLAIRIÈRE](https://open.spotify.com/track/2oMkFzQlvWaJBYjJPcHiMU) | [VISCERAL](https://open.spotify.com/artist/5AwoTd09zcU8oUJ12Qt4Om) | [CLAIRIÈRE](https://open.spotify.com/album/089lVl2UqcXFCc6Xy87WCP) | 2:49 | 2024-03-28 | 2024-05-03 |
 | [COLLÉ SERRÉ](https://open.spotify.com/track/0Oeym4SSUPJqNAH9sLUdvy) | [BRIQUE ARGENT](https://open.spotify.com/artist/6oEiRjlcIxYaZvnjlMiYLw) | [COLLÉ SERRÉ](https://open.spotify.com/album/1qRHnXgeDKChBP6iu16FQF) | 3:07 | 2023-09-28 | 2023-11-17 |
+| [Comme tout le monde](https://open.spotify.com/track/0ZsHm5JJImpADvArNIqvff) | [Hervé](https://open.spotify.com/artist/3mNXGOPYzxYiGxttEvJ9hx) | [Comme tout le monde](https://open.spotify.com/album/5NKUHRNWaQhzNvNIL7s3YS) | 2:39 | 2024-05-02 |  |
 | [Comme Un Animal](https://open.spotify.com/track/0rQ4QMF4nQ7j2lRMmiAyXL) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [Comme Un Animal](https://open.spotify.com/album/517FTIAufDAkVeTyoFeQRd) | 3:05 | 2024-04-18 |  |
 | [Comme un idiot](https://open.spotify.com/track/5MW2D3rttNR84ivORyMvTV) | [Le trottoir](https://open.spotify.com/artist/0z6rhcwWAD4Oi2J9bLKHbD) | [Comme un idiot](https://open.spotify.com/album/2e5EbSgc1Fy800rbR1SnGm) | 3:37 | 2023-09-28 | 2024-04-12 |
 | [Conspire](https://open.spotify.com/track/5Ps5Ca2F1O7QqIo88C9WAH) | [Gwendoline](https://open.spotify.com/artist/0KeEMBn34d4rKeACHxK9AF) | [Conspire](https://open.spotify.com/album/3kuN93pe0gnDpztgTlIvX1) | 5:53 | 2023-11-30 | 2024-01-13 |
@@ -51,6 +52,7 @@
 | [doudoune northface](https://open.spotify.com/track/4gnbtbry3isjhb75nBIwLA) | [L'enfant](https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso) | [doudoune northface](https://open.spotify.com/album/3itgcSwBsO6trR75ThZCwW) | 3:14 | 2023-12-08 | 2024-02-02 |
 | [Du Faux](https://open.spotify.com/track/5YA0jwcbbjL0bS4upsd5Kq) | [Simia](https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev) | [Du Faux](https://open.spotify.com/album/30PG6zM9Qmvarc75N7c3Vp) | 2:34 | 2023-09-28 | 2023-11-03 |
 | [dénudée](https://open.spotify.com/track/4dJo55UsW4gWpKkkRvRTy1) | [Lonepsi](https://open.spotify.com/artist/5iu7PzNW2d8xKOE8IsXgef) | [dénudée](https://open.spotify.com/album/3n2PoNjcnOX4QSTbZuitU2) | 2:11 | 2023-09-28 | 2023-11-03 |
+| [Dérive](https://open.spotify.com/track/3mQFiwcJVmj4NMkp17rHFX) | [Train Fantôme](https://open.spotify.com/artist/2mjW4mSSSH70mD4tH0Ijsg) | [Irréversible Part II](https://open.spotify.com/album/6VXjL1gPM0DVfHsr3lk5UN) | 3:41 | 2024-05-02 |  |
 | [Désolé, mon cœur](https://open.spotify.com/track/2E2sgLXYIFUAEtBtgv0KMT) | [TOMASI](https://open.spotify.com/artist/54Bq5KQLmswXsQyh6kDSJ5) | [Désolé, mon cœur](https://open.spotify.com/album/0P2z4rhMsoaNmOIFSbGuIl) | 3:01 | 2023-10-26 | 2023-11-24 |
 | [Encore](https://open.spotify.com/track/4unYRu63NeZhNtGo58BCCU) | [Shaga](https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR) | [Encore](https://open.spotify.com/album/2vVTXNxUtGmHacca457lb7) | 3:02 | 2023-11-02 | 2023-11-24 |
 | [fermer les yeux](https://open.spotify.com/track/71lrP6Unh3jKzRDyTPU6ov) | [L'enfant](https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso) | [fermer les yeux](https://open.spotify.com/album/3ROY9Wamd7k7dFoPYzp4I6) | 2:10 | 2024-02-01 | 2024-03-08 |
@@ -101,7 +103,7 @@
 | [Miami](https://open.spotify.com/track/3xlzqzAs4T4LK0bsE0FEvB) | [Charlotte Fever](https://open.spotify.com/artist/3j2UtVAHwuHZywdk4zU0vX) | [Paris cyclone](https://open.spotify.com/album/46CCI0ZcsEnvxwMHWkZFqw) | 3:31 | 2023-11-09 | 2023-12-22 |
 | [mignon](https://open.spotify.com/track/532whyQUywJsT8tL5Jgkyz) | [L'enfant](https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso) | [mignon](https://open.spotify.com/album/2LPAGoujHArNcmK94Gll3r) | 2:23 | 2023-10-12 | 2023-12-15 |
 | [Moins seul sans eux](https://open.spotify.com/track/1c56S0vX15OA4H8X64ziJl) | [Simia](https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev) | [Moins seul sans eux](https://open.spotify.com/album/02dlfpLJyHZ5uONzXyQcDp) | 2:11 | 2023-12-08 |  |
-| [Music on Hold 4 Ever](https://open.spotify.com/track/67aBiXoZS81OmkaQtxXpc5) | [Music On Hold](https://open.spotify.com/artist/4iGtVI2ToIjWlynR8WPzda) | [4 Ever](https://open.spotify.com/album/7bda4KpVL4TQDDJt4qRaZO) | 3:08 | 2023-12-14 |  |
+| [Music on Hold 4 Ever](https://open.spotify.com/track/67aBiXoZS81OmkaQtxXpc5) | [Music On Hold](https://open.spotify.com/artist/4iGtVI2ToIjWlynR8WPzda) | [4 Ever](https://open.spotify.com/album/7bda4KpVL4TQDDJt4qRaZO) | 3:08 | 2023-12-14 | 2024-05-03 |
 | [My Way \(with Creams\)](https://open.spotify.com/track/5WvApuKcoXZL1FinExKsRq) | [Moodoïd](https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC), [Creams](https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc) | [My Way \(with Creams\)](https://open.spotify.com/album/1oWzOh4biDkSnj0ZITjuYo) | 3:14 | 2024-01-18 | 2024-03-29 |
 | [MÉTA DEUIL](https://open.spotify.com/track/0NyCKpKgai5U3iU5MazIld) | [Joanna](https://open.spotify.com/artist/5k7czLtvpvADY4FkRnTS4p) | [MÉTA DEUIL](https://open.spotify.com/album/56HYXJHwbjFKk62U9CIZCv) | 2:54 | 2023-11-02 | 2024-03-29 |
 | [New Place in Town](https://open.spotify.com/track/6VMrf5OUtv67cUAcXyQ9ZE) | [VoX LoW](https://open.spotify.com/artist/7wdA5zANepbxnHVkUNQMg9) | [Keep on Falling](https://open.spotify.com/album/0FBzbc9TbvtCEXvgVsjQCe) | 4:38 | 2023-12-21 |  |
@@ -131,6 +133,7 @@
 | [Rock 2000](https://open.spotify.com/track/6yo0dEtbciUjB9X3l9xZpt) | [Gwendoline](https://open.spotify.com/artist/0KeEMBn34d4rKeACHxK9AF) | [Rock 2000](https://open.spotify.com/album/2d8zNgpsZsTPZ17rKM2NWV) | 3:43 | 2024-01-12 |  |
 | [Rôles](https://open.spotify.com/track/2RihAENLznkliKDPEWV5qJ) | [Moyà](https://open.spotify.com/artist/1Xvap7Au9MqLcUJUCPcJp1), [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Rôles](https://open.spotify.com/album/3Obub0X33yuxKfEVvSAjXi) | 2:44 | 2023-11-23 | 2024-04-26 |
 | [Sans Cesse](https://open.spotify.com/track/2DLzUlHC6TY0JIri9c3Nd0) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [Sans Cesse](https://open.spotify.com/album/5k9uPMU5VmYPDP3Zh5Iu1e) | 2:47 | 2023-09-28 | 2023-10-13 |
+| [SANS MOI](https://open.spotify.com/track/15Bl9bwkJvgUnz1yqHfxfh) | [VISCERAL](https://open.spotify.com/artist/5AwoTd09zcU8oUJ12Qt4Om) | [SANS MOI](https://open.spotify.com/album/5hkrqI7xXyTepwcJjh1cL3) | 2:22 | 2024-05-02 |  |
 | [Sans toi](https://open.spotify.com/track/1FNZ9bDeAOBDjgtAwoR2Nr) | [Ravage Club](https://open.spotify.com/artist/74RDJyFxXw9okuAnO6zXWm) | [Sans toi](https://open.spotify.com/album/71mDIX5mOHi5xoeJPvX255) | 2:46 | 2023-11-16 | 2024-03-01 |
 | [Serie A](https://open.spotify.com/track/0D3MTS7Ea2EgXy6O9Horqc) | [Th Da Freak](https://open.spotify.com/artist/21bdasKU3vHrH6tjuhBIjd) | [Serie A](https://open.spotify.com/album/6AQIcVtbI9gxFbRIKyr1i6) | 2:41 | 2023-09-28 | 2023-11-03 |
 | [Serpent Mental](https://open.spotify.com/track/7Mmfq4pv4eaQRqXPjOl3WJ) | [Walter Astral](https://open.spotify.com/artist/70OFPH4Nv3kFhCgUU9oGqC) | [Serpent Mental](https://open.spotify.com/album/4japQNj9fIt6eZo9673y1h) | 3:55 | 2023-10-26 | 2024-04-20 |
@@ -159,7 +162,7 @@
 | [Vert Colère](https://open.spotify.com/track/25rbcw7r1mKCMLME1yrA1R) | [Order89](https://open.spotify.com/artist/6ayzB6RMcaJM7POpMjRtTW) | [Brûle](https://open.spotify.com/album/3Rt5jXlFYs8MNa7TfEGTLD) | 3:22 | 2023-11-16 | 2024-01-12 |
 | [VHS](https://open.spotify.com/track/18L4W0H4hNw3KODrldn1iS) | [Akira & le Sabbat](https://open.spotify.com/artist/1beqcw5P0wds8IzLuuAxZp) | [Poudrière](https://open.spotify.com/album/0fPpc3P9BOMJNdrQXYeArA) | 2:43 | 2024-04-25 |  |
 | [Vivre soit 2](https://open.spotify.com/track/3HQUQjYxybimuqzIdebnr9) | [Astéréotypie](https://open.spotify.com/artist/1bPIphq90zexFcnUA7qILm) | [Aucun mec ne ressemble à Brad Pitt dans la Drôme](https://open.spotify.com/album/1POjEAquHo8mTJZDuanBeF) | 2:51 | 2023-09-28 | 2023-11-24 |
-| [We are many](https://open.spotify.com/track/2nkDgyJE1YvNczhHaW6vwt) | [Le Peuple de L'Herbe](https://open.spotify.com/artist/3TQ7yQyNz2JvOXqiO5Tpz2) | [10](https://open.spotify.com/album/2qUV7cyxVq9HCffujWykjU) | 4:10 | 2024-03-21 |  |
+| [We are many](https://open.spotify.com/track/2nkDgyJE1YvNczhHaW6vwt) | [Le Peuple de L'Herbe](https://open.spotify.com/artist/3TQ7yQyNz2JvOXqiO5Tpz2) | [10](https://open.spotify.com/album/2qUV7cyxVq9HCffujWykjU) | 4:10 | 2024-03-21 | 2024-05-03 |
 | [We Walk](https://open.spotify.com/track/3jQDg6gtXG5c0F6a8k1xDg) | [VoX LoW](https://open.spotify.com/artist/7wdA5zANepbxnHVkUNQMg9) | [We Walk](https://open.spotify.com/album/1YhST40WDQUfrTExNtOARC) | 5:01 | 2023-09-28 | 2023-11-24 |
 | [Witch Coast](https://open.spotify.com/track/0pdFoGBlpk7qH2GniQWFS6) | [Sad Madona](https://open.spotify.com/artist/4EvpdSBOFHv6LKFEJwr3hU) | [Witch Coast](https://open.spotify.com/album/5kvklGY25433Iw37zcQxvS) | 3:43 | 2024-02-01 |  |
 | [Worried](https://open.spotify.com/track/0Ssz96Q8DAEry7mDrBRbcN) | [SOvOX](https://open.spotify.com/artist/5lJYPsXHNHiTtMbkW42tXN) | [Worried](https://open.spotify.com/album/74mX36E0PkXXiGc6FYZQBE) | 2:23 | 2023-09-28 | 2023-10-27 |

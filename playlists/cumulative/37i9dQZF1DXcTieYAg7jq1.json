@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 232957,
       "name": "4321",
       "url": "https://open.spotify.com/track/22ZjKxmxtMXoAnJSN9gpq5"
@@ -3483,6 +3483,24 @@
     },
     {
       "album": {
+        "name": "It Was You",
+        "url": "https://open.spotify.com/album/5xo2Vvp1ceoc71Sz7YuvWh"
+      },
+      "artists": [
+        {
+          "name": "Stephen Day",
+          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196284,
+      "name": "It Was You",
+      "url": "https://open.spotify.com/track/6GGH6rgZEGAg0Afy6SOXb8"
+    },
+    {
+      "album": {
         "name": "It Will Come In Time",
         "url": "https://open.spotify.com/album/3kUX1L10eOj1lSuwrfk9PM"
       },
@@ -6031,6 +6049,24 @@
     },
     {
       "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/7JKGPSP7UIjxPWWo9KuqMK"
+      },
+      "artists": [
+        {
+          "name": "Lusaint",
+          "url": "https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162019,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/0MaRZUe5QjY56E1pfY3hFY"
+    },
+    {
+      "album": {
         "name": "Somebody",
         "url": "https://open.spotify.com/album/1DGXrB5U3Vyqs5UXirE7e8"
       },
@@ -6516,7 +6552,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 187324,
       "name": "Sweet Tooth",
       "url": "https://open.spotify.com/track/2q3WnVVXT4xh4GA4O7cHF3"

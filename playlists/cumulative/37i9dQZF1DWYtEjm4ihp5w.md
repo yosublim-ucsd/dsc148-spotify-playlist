@@ -2,9 +2,9 @@
 
 ### [ABAT∑RA](https://open.spotify.com/playlist/37i9dQZF1DWYtEjm4ihp5w)
 
-> Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Bo9al
+> Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: LFERDA
 
-230 songs - 12 hr 13 min
+232 songs - 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [3DABI](https://open.spotify.com/track/0e6eVGeec6asBnmE4gTYqA) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [3DABI](https://open.spotify.com/album/08ZFlBocogt3UFTyEN7Ob4) | 3:22 | 2023-07-20 |  |
 | [7bss Tmout](https://open.spotify.com/track/2ASaDtD5VRJBspXhAuXrjr) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [7bss Tmout](https://open.spotify.com/album/2QcczpbqmQvZI4lCCNyYv2) | 3:10 | 2023-06-01 | 2024-03-02 |
 | [A](https://open.spotify.com/track/3PXHRtEZ3UErU6ByaJhSnd) | [Nessyou](https://open.spotify.com/artist/36K2nrm363VIEONhc2D5Mo) | [ABCÈS](https://open.spotify.com/album/4zvlxTPmMfSguMeIpeyjbj) | 2:42 | 2022-12-24 | 2023-01-01 |
+| [ACH KHBARKOM](https://open.spotify.com/track/6tPMsNHDqitLURI5FMcNm6) | [Moro](https://open.spotify.com/artist/1akll7SRGZblDrbCF5eqYW) | [ACH KHBARKOM](https://open.spotify.com/album/0YVZWo3y2gsX6Dev7uGp71) | 3:33 | 2024-05-02 |  |
 | [AJI TCHOUF](https://open.spotify.com/track/75DWIaOCmyEP7licOYs9pl) | [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17), [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [AJI TCHOUF](https://open.spotify.com/album/3QcLNHlCktUOE2d2QknP8K) | 3:56 | 2023-09-21 | 2023-12-30 |
 | [Akhennouch](https://open.spotify.com/track/4ue8qeZznm4DJJFs7DXYCk) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Euphorie](https://open.spotify.com/album/2f1y0eNkIK9RQdwhWdNJ8a) | 2:43 | 2023-11-10 |  |
 | [Alatif](https://open.spotify.com/track/5EziL9bwKacAPWAQSkl8Wh) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Alatif](https://open.spotify.com/album/12PmJ95M7wML8ievJRi0zx) | 3:16 | 2023-02-18 | 2023-06-23 |
@@ -89,9 +90,10 @@
 | [Hiphop is dead](https://open.spotify.com/track/08FKkdkbm4FXA0fWLscjJh) | [Fat Mizzo](https://open.spotify.com/artist/4sGgnHfL5rjJqK5WxQl9bU) | [Hiphop is dead](https://open.spotify.com/album/2nPyvcEJof1Xg70FmEOYp2) | 2:47 | 2022-11-28 | 2023-05-19 |
 | [HKZ GANG V2](https://open.spotify.com/track/055mtpjA761fk09YyAXAoF) | [Clemando](https://open.spotify.com/artist/2DosD7ocz68w23IdxfmtL3) | [HKZ GANG V2](https://open.spotify.com/album/7zCD2W5LfZ1h68oM33gACn) | 3:02 | 2023-08-23 | 2023-09-10 |
 | [HKZ GANG V2](https://open.spotify.com/track/3E01bQIlZo3m22jgNjieEo) | [Clemando](https://open.spotify.com/artist/2DosD7ocz68w23IdxfmtL3) | [HKZ GANG V2](https://open.spotify.com/album/4jyuqrpAhEhuNR1RR6V8JD) | 3:02 | 2023-09-08 | 2023-10-11 |
+| [Hotel](https://open.spotify.com/track/1UKKa0dT81UdHFFiGq1Qtb) | [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8), [Skinny Flex](https://open.spotify.com/artist/4FhC69hLxEcpLUaC08ityW) | [Hotel](https://open.spotify.com/album/0ofD5pzUTbUDiumyojrMCN) | 3:02 | 2024-05-02 |  |
 | [IMPOLIS](https://open.spotify.com/track/2zJCocfV6VTMDQScL4XUVN) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF), [X7kira](https://open.spotify.com/artist/2DpWLjgk0DpATSJeWPWL3i), [Clemando](https://open.spotify.com/artist/2DosD7ocz68w23IdxfmtL3) | [IMPOLIS](https://open.spotify.com/album/1P3TKXMtmi3zKLPCYzNUYU) | 3:56 | 2023-06-22 | 2023-09-22 |
 | [INARA](https://open.spotify.com/track/5WDpxxOIYliyYQ4HSHwKvv) | [SCOOL BOY](https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV) | [INARA](https://open.spotify.com/album/5M63aDrFG28FQFYrAAcwEq) | 3:06 | 2022-11-14 | 2024-02-18 |
-| [INJAZAT](https://open.spotify.com/track/5bnwj4m2Wdzpe4vdTIN4OL) | [GELLO 4031](https://open.spotify.com/artist/04ffSHpIyY6Wv4nhiEhSwW) | [INJAZAT](https://open.spotify.com/album/36yX0CkuJ1pyD2E3nQkaXR) | 2:21 | 2024-04-01 |  |
+| [INJAZAT](https://open.spotify.com/track/5bnwj4m2Wdzpe4vdTIN4OL) | [GELLO 4031](https://open.spotify.com/artist/04ffSHpIyY6Wv4nhiEhSwW) | [INJAZAT](https://open.spotify.com/album/36yX0CkuJ1pyD2E3nQkaXR) | 2:21 | 2024-04-01 | 2024-05-03 |
 | [Interlude](https://open.spotify.com/track/1Q4NoELNdh14jm48P4HdsR) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Alam](https://open.spotify.com/album/0pioP7AB4b3Eb2SKZu90lX) | 1:44 | 2023-05-21 | 2023-06-23 |
 | [Iori 4](https://open.spotify.com/track/2947MtC8aKk9mwbw4bjC6A) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Iori 4](https://open.spotify.com/album/4ptNJwxaU4mzYHjzOtdjV0) | 4:14 | 2022-11-14 | 2022-12-13 |
 | [Iori 5](https://open.spotify.com/track/40jfMLYNI2KujchwoPwc0a) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Iori 5](https://open.spotify.com/album/4Bb3u06qDPeQ5zzj0X3HPb) | 3:10 | 2022-12-22 | 2024-03-01 |
@@ -184,7 +186,7 @@
 | [SLOWLY](https://open.spotify.com/track/65SmL7YPV13heKT147Fosp) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [SBITAR](https://open.spotify.com/album/0EbC0buOp9FhVK3iT9XmZp) | 2:49 | 2023-12-28 | 2024-01-11 |
 | [SME3NI](https://open.spotify.com/track/5ovEmtHmbmWmmN1jeoJAyP) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [SME3NI](https://open.spotify.com/album/1rkTH3xM85MYdRXI9FDRGb) | 3:02 | 2023-02-06 | 2023-09-30 |
 | [Sociopath](https://open.spotify.com/track/0UOGIvX0NKZKFwrvIAwdL9) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [Sociopath](https://open.spotify.com/album/7bHaIDfBfqYkEhy361w3yB) | 3:28 | 2022-11-25 | 2023-03-03 |
-| [SOMNIFERE](https://open.spotify.com/track/6tVgDhCCD1IVzsb7CH3FXv) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [I HATE SUMMER](https://open.spotify.com/album/61vBMIBQl18SkGSUz3zIqt) | 3:08 | 2023-08-17 |  |
+| [SOMNIFERE](https://open.spotify.com/track/6tVgDhCCD1IVzsb7CH3FXv) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [I HATE SUMMER](https://open.spotify.com/album/61vBMIBQl18SkGSUz3zIqt) | 3:08 | 2023-08-17 | 2024-05-03 |
 | [SOUVENIRS](https://open.spotify.com/track/0Jo0882WDrdrpjcKndHFqF) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [SOUVENIRS](https://open.spotify.com/album/79AqB9SWeuMusmNNWjbQyG) | 3:05 | 2024-03-02 | 2024-03-10 |
 | [SOUVENIRS](https://open.spotify.com/track/2RdFjBnr4vPvUDHoYhzeDs) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [SOUVENIRS](https://open.spotify.com/album/0OIv1dSO03mVAV7HasG78H) | 3:05 | 2023-12-11 |  |
 | [SOY MAROCCINO](https://open.spotify.com/track/51MSCZdV26sXAM2t5BG4iy) | [Rubio](https://open.spotify.com/artist/5LJX3D6BzDJkMGX7hFP1dl) | [SOY MAROCCINO](https://open.spotify.com/album/31V8d6Fw3eRsDUU6BpSCLI) | 2:18 | 2022-12-06 | 2022-12-25 |

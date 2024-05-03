@@ -4,7 +4,7 @@
 
 > Grooves so crispy you can snack on them\. Cover: Donny Benét
 
-151 songs - 9 hr 18 min
+152 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Dangerous](https://open.spotify.com/track/0aMn1LbfjyhZunY2K7oPLg) | [Umii](https://open.spotify.com/artist/63cNPy5lkcSkPmC1MrdRpc), [B\. Bravo](https://open.spotify.com/artist/7xc31aDpVtMW34JWjZvAG4), [Reva DeVito](https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz) | [This Time](https://open.spotify.com/album/0QiYLU8SrwXQAleQaOgTP2) | 3:51 | 2021-07-26 |  |
 | [Dangerous](https://open.spotify.com/track/0SCcYTx5we9EKTPvEXxld5) | [Umii](https://open.spotify.com/artist/63cNPy5lkcSkPmC1MrdRpc), [Reva DeVito](https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz), [B\. Bravo](https://open.spotify.com/artist/7xc31aDpVtMW34JWjZvAG4) | [Dangerous \(Touch Sensitive Remix\)](https://open.spotify.com/album/54UxhHBaQwRqvp7SWjrR4N) | 3:51 | 2021-07-26 | 2022-11-13 |
 | [Dangerous](https://open.spotify.com/track/3WOB7zFoez5ziVhUHtqqD9) | [Umii](https://open.spotify.com/artist/63cNPy5lkcSkPmC1MrdRpc), [Reva DeVito](https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz), [B\. Bravo](https://open.spotify.com/artist/7xc31aDpVtMW34JWjZvAG4) | [This Time](https://open.spotify.com/album/5d1GP0Dl62bgaOQ8euQJAn) | 3:51 | 2021-07-26 | 2024-04-19 |
-| [Day & Night](https://open.spotify.com/track/09iktHjNiTzCX6YT5XKScx) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [HolyBrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Intimate Fonk](https://open.spotify.com/album/2KMTKEk9FZccRGCWhehiKV) | 3:36 | 2021-07-26 |  |
+| [Day & Night](https://open.spotify.com/track/09iktHjNiTzCX6YT5XKScx) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [HolyBrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Intimate Fonk](https://open.spotify.com/album/2KMTKEk9FZccRGCWhehiKV) | 3:36 | 2021-07-26 | 2024-05-03 |
 | [Day Like This](https://open.spotify.com/track/2QZ0YOuXUtfLY3cilsD3qu) | [kristina alcordo](https://open.spotify.com/artist/3y6KP6ZPC8SskJTCNAkFNs) | [Day Like This](https://open.spotify.com/album/6XXha8DIiLzRXNIxFFLpV8) | 2:28 | 2022-08-19 |  |
 | [Daydreaming](https://open.spotify.com/track/2TqipIeqWRLNrTS7fEEJqB) | [XL Middleton](https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh), [Saucy Lady](https://open.spotify.com/artist/4KVxpSAJQPk8id0hHJIse2) | [Daydreaming](https://open.spotify.com/album/0NR5gdt1PUmx8yVSNpisVR) | 4:04 | 2022-08-12 |  |
 | [Deja Vu](https://open.spotify.com/track/3d1dmoGXXFhgL9OSQi0o9b) | [Sally Green](https://open.spotify.com/artist/5BHrTlWKFtM97PTs1Avpqs), [B\. Bravo](https://open.spotify.com/artist/7xc31aDpVtMW34JWjZvAG4) | [Deja Vu](https://open.spotify.com/album/24n3BIYvKzcZ3Z9gFvqMh3) | 3:37 | 2021-07-26 |  |
@@ -76,6 +76,7 @@
 | [Good as Gold](https://open.spotify.com/track/5IKDh0vnVhvzOgQltv1ACE) | [The Shindellas](https://open.spotify.com/artist/2ymLCgoeNHbhPDwMb3N3iQ) | [Shindo](https://open.spotify.com/album/2bh7Q8cwGnCleeC8UhRmAM) | 4:15 | 2023-10-20 |  |
 | [Good Fever](https://open.spotify.com/track/64dBx9RrZFa2abQePFWxUv) | [Johnny Burgos](https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe), [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Good Fever](https://open.spotify.com/album/4W97F7B5XosEJ64aUiYHo5) | 3:19 | 2022-02-18 |  |
 | [Guitar for Robots](https://open.spotify.com/track/0wVNSb7KCG02MiBK0Di0fN) | [Cool Aid](https://open.spotify.com/artist/5eouF3YpHk4ZcPXd2FkaKc) | [Guitar for Robots](https://open.spotify.com/album/10nJahT2mV6gRG1PYEcJgt) | 3:56 | 2023-06-16 |  |
+| [Higher](https://open.spotify.com/track/0S4jT8D0KyTjanYECFdoNn) | [Droid Bishop](https://open.spotify.com/artist/0HPVHsbV2yIYPp2Pk4kdHe) | [Higher](https://open.spotify.com/album/4PkC1rAy8OfyDLoCoSleY2) | 3:55 | 2024-05-03 |  |
 | [Holding Time](https://open.spotify.com/track/6kuVbHd5I1Wdvn3Er735AD) | [David Blazer](https://open.spotify.com/artist/6fI10k7bFVFS76bHXdBof6) | [Holding Time](https://open.spotify.com/album/23hOpd3AvUxjfHw6kj1ZMA) | 3:29 | 2022-10-28 | 2024-03-30 |
 | [Hotter \(feat\. Laura Jackson\) \[T\-Groove Remix\]](https://open.spotify.com/track/0WF0028K8mwsg2A4C1cm6p) | [The Doggett Brothers](https://open.spotify.com/artist/5JRS1wbye5NN8Pfgixxofg), [Laura Jackson](https://open.spotify.com/artist/4nNJsw5eLM1kBcGMMZJOAu), [T\-Groove](https://open.spotify.com/artist/2Ky7DbgmIlA47OpDx5KzNt) | [Hotter \(feat\. Laura Jackson\) \[T\-Groove Remix\]](https://open.spotify.com/album/21zO039GPjGBWUdzowcofq) | 5:36 | 2021-07-26 |  |
 | [HUH?](https://open.spotify.com/track/2hWOnCuZo2Js7o0UbDa8m4) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [HUH?](https://open.spotify.com/album/5deDzBsXuhqGnI4eT0z05t) | 2:43 | 2021-07-26 | 2022-09-03 |

@@ -2,9 +2,9 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. lozeak
+> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. house of protection
 
-798 songs - 1 day 14 hr 1 min
+801 songs - 1 day 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [God Is a Circle](https://open.spotify.com/track/4sbsJMnW6k7TuLhVmodlFx) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [God Is a Circle](https://open.spotify.com/album/3A290H1hI6mUv3uxGDrLlr) | 3:34 | 2022-11-04 | 2023-02-02 |
 | [god is dead](https://open.spotify.com/track/5oRnhpl1cQN0zxwsV4K2m5) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [a bit of a mad one](https://open.spotify.com/album/0SW2LQdzynFLJ05WzVYSJq) | 2:11 | 2024-02-23 |  |
 | [god sent me as karma](https://open.spotify.com/track/6Y3AYLsKkGaMYCRC0OGzy3) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [god sent me as karma](https://open.spotify.com/album/7jUoT7TNoh0SdI4yS5K6tp) | 3:06 | 2021-12-27 | 2022-06-10 |
+| [Going Down](https://open.spotify.com/track/79U3vQSqh7ONz2kunmB6Ri) | [Raven Numan](https://open.spotify.com/artist/5q0maXiCoZPaoULNxL8gDI) | [Going Down](https://open.spotify.com/album/6jjXS29r3Y0VbYMBhyDq0O) | 4:23 | 2024-05-02 |  |
 | [GOOD MOOD \(feat\. grandson\)](https://open.spotify.com/track/3XYmIJugK3ad2gBVBFXyjW) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [GOOD MOOD \(feat\. grandson\)](https://open.spotify.com/album/5zIeHlDj7AcQzKaTF2x1Ty) | 2:34 | 2022-08-27 | 2022-09-02 |
 | [good things](https://open.spotify.com/track/2QwZiXrFmyPjgGh9akgfid) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [good things](https://open.spotify.com/album/5mxrqF7BJ4vEKDBeG4iQS5) | 2:54 | 2023-09-14 | 2023-10-13 |
 | [gothgirl1](https://open.spotify.com/track/5oie4LMrwBeiIuOJRRP6wK) | [cumgirl8](https://open.spotify.com/artist/0Y0U54wBpoCl8KvkYc9Ej6) | [gothgirl1](https://open.spotify.com/album/0eRVnOBK3emNs2TAqaaK09) | 3:53 | 2023-06-08 | 2023-07-07 |
@@ -404,6 +405,7 @@
 | [iScream](https://open.spotify.com/track/1mGtSulwCCpDQoXHrrZ4Ur) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [iScream](https://open.spotify.com/album/1cB1LeV8nA8EZgxVUenuVV) | 3:23 | 2022-04-14 | 2022-04-20 |
 | [Issa Mad Ting](https://open.spotify.com/track/7suU2nEoOwFodNU9dLszhl) | [Crae Wolf](https://open.spotify.com/artist/0sLk8jQFM8gu9omVj2JGT9) | [Issa Mad Ting](https://open.spotify.com/album/4H3LhjyGYTN37Smxi5ksjb) | 2:34 | 2023-11-10 | 2024-01-19 |
 | [IT'S GONNA BE A LONG DAY](https://open.spotify.com/track/2AlXN2KTcdA6meQMrVluJu) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [IT'S GONNA BE A LONG DAY](https://open.spotify.com/album/6dMV4edUwlEBG6dP6XJ2SO) | 3:14 | 2022-08-18 | 2022-12-01 |
+| [It's Supposed To Hurt](https://open.spotify.com/track/0nPWNzcryh5oyJA5uZaepT) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [It's Supposed To Hurt](https://open.spotify.com/album/0dc1Zy69cvE8jnt1apdrLE) | 3:32 | 2024-05-02 |  |
 | [IVE OFFICIALLY LOST ViSiON!!!!](https://open.spotify.com/track/4PXuZYWhkyGXQzfSRy2PW1) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 5:22 | 2023-01-27 | 2023-03-03 |
 | [iwannabelikethat](https://open.spotify.com/track/70Fj7ub4JQN53fx31H4DMz) | [infinityghxst](https://open.spotify.com/artist/4ApE9Yxa0DapeSgil3EevH) | [iwannabelikethat](https://open.spotify.com/album/37RTZFpDOOZkU2hNK9SbxJ) | 2:17 | 2024-02-02 |  |
 | [Jazz Music](https://open.spotify.com/track/6FeygLA7IUp6ivUbt1nwVk) | [Tokky Horror](https://open.spotify.com/artist/2TJkCzhISn0eZv1cQ8eLSp) | [Jazz Music](https://open.spotify.com/album/3bE8szzTz6SrNJLjAo0En7) | 2:14 | 2022-09-01 | 2022-10-14 |
@@ -781,6 +783,7 @@
 | [WISH YOU WERE DEAD](https://open.spotify.com/track/7lcnOYhsy2RcLQGeIAN6a8) | [Lucy Deakin](https://open.spotify.com/artist/76vO0RjFam5iW8mbtVsc4h) | [WISH YOU WERE DEAD](https://open.spotify.com/album/23jnFwSYYOF49E94Nlg64M) | 2:28 | 2023-11-17 |  |
 | [WITCH](https://open.spotify.com/track/6L3L8S4nkmJl9nDE7bXnFL) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve), [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [WITCH](https://open.spotify.com/album/0zECxYD8vdnOWX6FJ7cPXJ) | 3:54 | 2023-10-13 | 2024-04-12 |
 | [Witch Hunt](https://open.spotify.com/track/4TFXmB2WOm1G5CnVcejVQb) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C), [DEZI](https://open.spotify.com/artist/3X9hlPTLBIZ9pEONCQnjTm) | [Witch Hunt](https://open.spotify.com/album/0lKuTAQI0YyQ7wUghrnX1z) | 2:39 | 2023-01-21 | 2023-08-25 |
+| [witches in the street](https://open.spotify.com/track/5kk5nQcXJdXyP2IeYSH3Kh) | [Leo IV](https://open.spotify.com/artist/0sL7q6u63eg3AuYPwImbhN) | [witches in the street](https://open.spotify.com/album/02lOUJsNVavV9729X3VzQw) | 1:47 | 2024-05-02 |  |
 | [Wokeup!](https://open.spotify.com/track/65pgKsJuP0bYuqy4hiRztY) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [Wokeup!](https://open.spotify.com/album/53OYdcHlqKCw1qvzDAWTZY) | 2:49 | 2022-04-19 | 2022-04-29 |
 | [Word Vomit](https://open.spotify.com/track/579Toef3RjBEXfFMXvwkqp) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Word Vomit](https://open.spotify.com/album/7dsAqFpnshTvViLP7PTzkd) | 2:26 | 2021-12-27 | 2022-07-15 |
 | [World Domination](https://open.spotify.com/track/0Cdb8ZXMRfzOfqhuUxuGLi) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [World Domination](https://open.spotify.com/album/0GurFlwi2sN6OeqnWCKsVa) | 3:51 | 2023-05-25 | 2023-07-07 |

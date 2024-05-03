@@ -2,15 +2,15 @@
 
 ### [Cloud Rap](https://open.spotify.com/playlist/37i9dQZF1DX5jNEiuvPyWr)
 
-> Le meilleur du rap français version cloud\. Photo : Wit.
+> Le meilleur du rap français version cloud\. Photo : Green Montana
 
-375 songs - 18 hr 29 min
+378 songs - 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [+80°](https://open.spotify.com/track/3Yu1cTbimH7Xxgw6cBixGQ) | [Rookie Magazine](https://open.spotify.com/artist/4qAeOrb5Lvgh2TSE4qwaRe), [A$tro Boi](https://open.spotify.com/artist/3z3ZlPSstN29UKnGUTbgVJ) | [Amplitude Thermique](https://open.spotify.com/album/6XQUfVJqDPy8wAmMmt2deZ) | 3:33 | 2023-09-21 | 2023-10-27 |
 | [.BOURBIER.](https://open.spotify.com/track/3D9nVQV2jg6hkXqCzVgtWT) | [Kobo](https://open.spotify.com/artist/5O5o8ORa6JnUInvOUmmvft) | [.BOURBIER.](https://open.spotify.com/album/1nOcwKfTHvZ3rbj3MsjHpr) | 2:38 | 2022-12-15 | 2023-02-24 |
-| [.Libre\. \(vide\)](https://open.spotify.com/track/6Mb2Xc7MFCI51Lc3aqTwIE) | [Furlax](https://open.spotify.com/artist/4bmXnAfcFe859ozMNFpFok), [Advm](https://open.spotify.com/artist/6BSFL5j2A7WVhwPGAuLEQV) | [.Libre\. \(vide\)](https://open.spotify.com/album/3TL8QvEJVBhtiGL9L3S3Io) | 3:53 | 2024-02-15 |  |
+| [.Libre\. \(vide\)](https://open.spotify.com/track/6Mb2Xc7MFCI51Lc3aqTwIE) | [Furlax](https://open.spotify.com/artist/4bmXnAfcFe859ozMNFpFok), [Advm](https://open.spotify.com/artist/6BSFL5j2A7WVhwPGAuLEQV) | [.Libre\. \(vide\)](https://open.spotify.com/album/3TL8QvEJVBhtiGL9L3S3Io) | 3:53 | 2024-02-15 | 2024-05-03 |
 | [.QUI.TU.VEUX.](https://open.spotify.com/track/04t1VtWunMLp3CvPFk0Axf) | [Kobo](https://open.spotify.com/artist/5O5o8ORa6JnUInvOUmmvft) | [.QUI.TU.VEUX.](https://open.spotify.com/album/4WKVTE8FvoBIfvI29lHRGF) | 3:32 | 2022-10-27 | 2022-12-09 |
 | [/ ASTRONAUTE](https://open.spotify.com/track/5q9H4LZVRv2zOJAWwBByLt) | [PEX](https://open.spotify.com/artist/7886qlyqkykNxzVdc1Kk9R) | [/ ASTRONAUTE](https://open.spotify.com/album/2mhWk7hFpwjlyI4lvoIMA2) | 2:52 | 2024-03-07 |  |
 | [0 Lucidité](https://open.spotify.com/track/0DYBFNc6mWge6UhpjRtMH0) | [Solal](https://open.spotify.com/artist/40hwssvpT91rZpFofKyKLz) | [0 Lucidité](https://open.spotify.com/album/60IIkHsD79aILJ4pnkOO25) | 3:29 | 2022-07-28 | 2022-08-26 |
@@ -64,7 +64,7 @@
 | [BORDEL](https://open.spotify.com/track/2zsHwRpE74couNe2TM97vl) | [Araujo](https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP) | [BORDEL](https://open.spotify.com/album/1OYNMkOWvo55wG2Pl39NLh) | 2:47 | 2023-04-27 | 2023-05-26 |
 | [BOTTEGA](https://open.spotify.com/track/4N3H6Pe1BHEKGMx2U3vIjB) | [Khali](https://open.spotify.com/artist/0rqQfmTWtmxzlrNmnruQXS) | [23 \-](https://open.spotify.com/album/5ncfRnCt3xSTJMnoAgplCI) | 3:07 | 2023-11-30 |  |
 | [Boulevard des Belges](https://open.spotify.com/track/7KFpc05eZ24c3DTDwY8ER4) | [Rifa](https://open.spotify.com/artist/7syrxKncMH592h3hwq0elv) | [Boulevard des Belges](https://open.spotify.com/album/4k6uAkPyFAcOAWIhRdgwUM) | 3:06 | 2023-03-02 | 2023-04-21 |
-| [Boulot dodo](https://open.spotify.com/track/6uZw5oZjjbef3fb1Nm3Frl) | [GS](https://open.spotify.com/artist/5rtvBFj4IeWDwKjf9cmeKv) | [Boulot dodo](https://open.spotify.com/album/6D1MCxFBPdeF74Swz2YHyE) | 2:44 | 2024-03-07 |  |
+| [Boulot dodo](https://open.spotify.com/track/6uZw5oZjjbef3fb1Nm3Frl) | [GS](https://open.spotify.com/artist/5rtvBFj4IeWDwKjf9cmeKv) | [Boulot dodo](https://open.spotify.com/album/6D1MCxFBPdeF74Swz2YHyE) | 2:44 | 2024-03-07 | 2024-05-03 |
 | [Boyka](https://open.spotify.com/track/5sEaPVHq9bCxFaz0W2poeC) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [Boyka](https://open.spotify.com/album/652TTQxvvWs3BIOUGY5q4d) | 3:41 | 2022-07-14 | 2022-09-23 |
 | [Brûle avec](https://open.spotify.com/track/5K1qIXNbh07XHaQbiZEZK3) | [Ekoms](https://open.spotify.com/artist/6bgeoMw6N8eRZWql5rWBql) | [Brûle avec](https://open.spotify.com/album/1DJxIkQJ4suush17TdX6Om) | 2:48 | 2022-11-03 | 2022-12-16 |
 | [BUGUER](https://open.spotify.com/track/7pJSEsKNRDdUolUPTBds49) | [Dehmo](https://open.spotify.com/artist/5oM4ylX9mgzyzDD6yYPUal) | [FLEGMATIQUE](https://open.spotify.com/album/5BNAAWsmUR6IVpeIkx2leL) | 3:25 | 2023-06-01 | 2023-08-25 |
@@ -168,6 +168,7 @@
 | [Ice](https://open.spotify.com/track/6voLrF6LT0p8ptDqAjaGKN) | [TRIPLEGO](https://open.spotify.com/artist/6cDxDe1MWGgUcNVVdxhCN2) | [Ice](https://open.spotify.com/album/3944ZTzAv3KanHuif2iIwc) | 3:58 | 2022-07-14 | 2022-08-12 |
 | [Ici\-bas](https://open.spotify.com/track/6AwuAiYCqeSWzbk4Vzcr3J) | [S\-Crew](https://open.spotify.com/artist/1HhXce8PpMmaKjBIWzAxWc), [FRAMAL](https://open.spotify.com/artist/392Bnlp5PrDQZgtr3OSG9T) | [SZR 2001](https://open.spotify.com/album/0rk3WWubPvymeQeb3R8n7s) | 2:47 | 2022-07-14 | 2022-10-28 |
 | [IDÉALEMENT](https://open.spotify.com/track/5fAfsSObe2skdyhzbX7hjJ) | [Araujo](https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP), [Smeels](https://open.spotify.com/artist/6FyY3mlFrDdKUX35GrzeOZ) | [EROSE](https://open.spotify.com/album/6KsyNUGlI8yH1u89W7XzKl) | 3:01 | 2022-07-14 | 2022-09-23 |
+| [Illusion](https://open.spotify.com/track/3wJtTBbphi50t75jKP64cW) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [Illusion](https://open.spotify.com/album/2qcZ3oMNQ54CmCyrckmyNh) | 3:25 | 2024-05-02 |  |
 | [ILY](https://open.spotify.com/track/2lIYPLyflIuOaES0DPb8QC) | [Chanceko](https://open.spotify.com/artist/0rIcS71BzqNgTQl8yjiprz), [Shabzbeatz](https://open.spotify.com/artist/1bFuPprBXHUij0aVMMCHn3) | [ILY](https://open.spotify.com/album/3JJ3JA8Wv6HnLfxAKOCxG7) | 1:53 | 2024-02-15 | 2024-04-26 |
 | [Infecté](https://open.spotify.com/track/07mCQ6sRZzT5XoSqnA2fOW) | [Seth Sad](https://open.spotify.com/artist/4yDo1iZ02sOpLsh1oGAAg9) | [Nephtys](https://open.spotify.com/album/2jplcSiO6721Ep6E9usYyq) | 2:30 | 2022-08-25 | 2023-05-05 |
 | [Inside](https://open.spotify.com/track/6w4TWairwhLKZoz72sfhwP) | [Thomas Goldberg](https://open.spotify.com/artist/3mJSQo9rHKT7rqI949eCBd) | [Inside](https://open.spotify.com/album/2DLmf3Sa2M7A7FjUrMOrok) | 3:08 | 2024-01-11 | 2024-03-08 |
@@ -186,11 +187,12 @@
 | [JET & SCOOTER](https://open.spotify.com/track/00oe1I3awDM2HjAF9Efz68) | [GEAVN](https://open.spotify.com/artist/1wRjJI80Z1xUT2aFdn7aru) | [JET & SCOOTER](https://open.spotify.com/album/1C4HIM7Szj2NOgyUIGVmOQ) | 3:20 | 2023-02-16 | 2023-04-07 |
 | [Jour de pluie](https://open.spotify.com/track/7Cuca28lbRnHCWlpgEwxCu) | [F430](https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG) | [Jour de pluie](https://open.spotify.com/album/55HrsnQR83ZjEiaSYnXdRO) | 3:17 | 2023-11-09 | 2024-02-02 |
 | [JOUR DE PLUIE](https://open.spotify.com/track/6nxLFvMeQySR4wKFPRh1tC) | [Golgoth](https://open.spotify.com/artist/6YPGhj88VOEmQ6e9qTotvA) | [JOUR DE PLUIE](https://open.spotify.com/album/2yWX4MlBDNXu3xtscHFi3O) | 2:47 | 2023-09-07 | 2023-10-20 |
+| [Juste un moment](https://open.spotify.com/track/4ysL8o0IjoUpby6XslUy4n) | [Donguti](https://open.spotify.com/artist/2PjvxxAh4KVmcfcUluYjcf) | [Désolé pour mes doutes](https://open.spotify.com/album/2DnYN2DMzgHVzAfV2OsSTu) | 3:03 | 2024-05-02 |  |
 | [kerosene](https://open.spotify.com/track/1DU4iqHjKYdPt4iXo1vAsp) | [Ayvee](https://open.spotify.com/artist/0abpwgWh43SsFPq3uVRAae) | [ICE](https://open.spotify.com/album/7M1WGdWsIKZLjQLW4U9erX) | 1:54 | 2023-12-21 | 2024-01-19 |
 | [L'APPEL](https://open.spotify.com/track/32vCnWdVuYCRhwGJglDMae) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ) | [ERRR](https://open.spotify.com/album/33YFTG260lyzS3THXtwyq7) | 2:11 | 2022-07-14 | 2022-12-02 |
 | [L'Audacieuse](https://open.spotify.com/track/0qoimFw2hfFPt7G9X3dpdg) | [Eline](https://open.spotify.com/artist/5bGFc6JdtR529TQfHSmMYF) | [L'Audacieuse](https://open.spotify.com/album/4I5drbQZp5uBSaMkzf6Ma6) | 2:34 | 2023-10-26 | 2023-12-01 |
 | [L'AVANCE](https://open.spotify.com/track/0Cq7juHDwt40uauRCLce5W) | [OSO](https://open.spotify.com/artist/7v8eES96R5p4lUkinWKY1g) | [L'AVANCE](https://open.spotify.com/album/7tQWxEGjCkipqMkNMQRJTd) | 2:05 | 2022-10-13 | 2022-12-09 |
-| [L'incendie](https://open.spotify.com/track/0YofBGEEMMQGidD3sQcqvp) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [Gardien du Labyrinthe](https://open.spotify.com/album/0qCijZ9tv7v38CxL4tO7zQ) | 3:12 | 2023-11-16 |  |
+| [L'incendie](https://open.spotify.com/track/0YofBGEEMMQGidD3sQcqvp) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [Gardien du Labyrinthe](https://open.spotify.com/album/0qCijZ9tv7v38CxL4tO7zQ) | 3:12 | 2023-11-16 | 2024-05-03 |
 | [L'âme du phoenix](https://open.spotify.com/track/4V1lFBt09vY2Jfx8jiVejx) | [Yuston XIII](https://open.spotify.com/artist/2ac0Lmf5nfZU6sq2t6MJLh) | [Origine](https://open.spotify.com/album/13mJHtPMDhomE59E0FmdWz) | 3:28 | 2023-04-06 | 2023-12-22 |
 | [L'étoile qui brille le plus](https://open.spotify.com/track/5Urdl8iZ5iAHeIxFjOHjr3) | [Noham](https://open.spotify.com/artist/1Q2NPkF71W70gFJmbdfZsm) | [L'étoile qui brille le plus](https://open.spotify.com/album/5osFSzc0wxRd9woC2OoXzY) | 2:14 | 2023-06-15 | 2023-08-04 |
 | [L.A](https://open.spotify.com/track/1N95r73FzRwmEp0Tay0q2y) | [OSO](https://open.spotify.com/artist/7v8eES96R5p4lUkinWKY1g) | [L.A](https://open.spotify.com/album/15M0JoyRtvRUoXga8dK5M5) | 1:53 | 2024-02-29 |  |
@@ -280,6 +282,7 @@
 | [Personally](https://open.spotify.com/track/2Tb1mxu6uMSRp0dEg4bRXq) | [Yams](https://open.spotify.com/artist/0wEDL8w6Yy6ti1IGW2Yy40) | [Personally](https://open.spotify.com/album/7mPSdLufQXnjcH3PjqYs47) | 3:13 | 2023-02-09 | 2023-02-24 |
 | [Perte de temps](https://open.spotify.com/track/0d43G0wDcCtUvvYOMOF7O9) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7), [Khali](https://open.spotify.com/artist/0rqQfmTWtmxzlrNmnruQXS) | [L'enfant de la pluie](https://open.spotify.com/album/7ppBSJ1F7MBfqRdHoPUipx) | 3:09 | 2024-03-07 | 2024-04-19 |
 | [Perte de temps](https://open.spotify.com/track/6OtC63b0k3p5PADayP1hkV) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7), [Khali](https://open.spotify.com/artist/0rqQfmTWtmxzlrNmnruQXS) | [L'enfant de la pluie](https://open.spotify.com/album/1rRzBrjF3ecUSEEeq9EhNU) | 3:09 | 2023-12-14 |  |
+| [phileas fogg](https://open.spotify.com/track/03ijxNalYn4V6467YMGMP3) | [Green Montana](https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2) | [phileas fogg](https://open.spotify.com/album/64y23hxA0OtaC66UscChre) | 1:53 | 2024-05-02 |  |
 | [Piano Black](https://open.spotify.com/track/0MRPmZVCxKAf5HSaglBoDV) | [sean](https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C) | [Restez Prince](https://open.spotify.com/album/0Vmsj0ANTL4CsFmXPHJadZ) | 4:04 | 2022-07-14 | 2022-07-29 |
 | [Piano Black](https://open.spotify.com/track/5HUjQGeA8sTTCmmWC3hAg7) | [sean](https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C) | [Restez Prince](https://open.spotify.com/album/1lrB7nEyiuHZ5H94GIIXPs) | 4:05 | 2022-07-28 | 2022-11-04 |
 | [Pièces manquantes](https://open.spotify.com/track/5qo6jFaycYDFdMxoSz5NWA) | [Caballero & JeanJass](https://open.spotify.com/artist/1mMUzAMrNqoTHgtxA0dZi6), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [High & Fines Herbes – Édition 420](https://open.spotify.com/album/6qu28HganG8uPu79hCSrle) | 3:15 | 2023-07-27 | 2023-10-06 |

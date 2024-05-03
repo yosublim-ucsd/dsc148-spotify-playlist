@@ -1,6 +1,6 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 182218,
+  "num_followers": 182325,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-03-20 11:30:32",
       "album": {
-        "name": "Nunca para de Llover",
-        "url": "https://open.spotify.com/album/6lkqhYy0U9U53vpPhjvpKk"
-      },
-      "artists": [
-        {
-          "name": "Estaci\u00f3n Cero",
-          "url": "https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI"
-        }
-      ],
-      "duration_ms": 222613,
-      "name": "Hasta el Final",
-      "url": "https://open.spotify.com/track/3ey3xjwqJ39M1foKnz4pbN"
-    },
-    {
-      "added_at": "2024-03-20 11:30:32",
-      "album": {
         "name": "Tu Amor",
         "url": "https://open.spotify.com/album/7up0mQ3oTyRGHGwa9YXVES"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 468529,
       "name": "Tu Amor",
       "url": "https://open.spotify.com/track/4A323YPkioQfDqhKmPhtaI"
+    },
+    {
+      "added_at": "2024-03-20 11:30:32",
+      "album": {
+        "name": "Nunca para de Llover",
+        "url": "https://open.spotify.com/album/6lkqhYy0U9U53vpPhjvpKk"
+      },
+      "artists": [
+        {
+          "name": "Estaci\u00f3n Cero",
+          "url": "https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI"
+        }
+      ],
+      "duration_ms": 222613,
+      "name": "Hasta el Final",
+      "url": "https://open.spotify.com/track/3ey3xjwqJ39M1foKnz4pbN"
     },
     {
       "added_at": "2024-03-20 11:30:32",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-03-20 11:30:32",
       "album": {
-        "name": "El Justo Vivir\u00e1 Por Fe",
-        "url": "https://open.spotify.com/album/434bFVfYutpT3PknlXQudX"
-      },
-      "artists": [
-        {
-          "name": "Adoraci\u00f3n La IBI",
-          "url": "https://open.spotify.com/artist/6qValgleME8pv861DLzupQ"
-        }
-      ],
-      "duration_ms": 309400,
-      "name": "El Justo Vivir\u00e1 Por Fe",
-      "url": "https://open.spotify.com/track/3sLzXACmqioXU47UjfL5c2"
-    },
-    {
-      "added_at": "2024-03-20 11:30:32",
-      "album": {
         "name": "Nada Guardaste",
         "url": "https://open.spotify.com/album/2ijSFbYgcekIrCJLcpsHrd"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 219320,
       "name": "Nada Guardaste",
       "url": "https://open.spotify.com/track/5tI6ogwTmRC4M9xR9PF8QS"
+    },
+    {
+      "added_at": "2024-03-20 11:30:32",
+      "album": {
+        "name": "El Justo Vivir\u00e1 Por Fe",
+        "url": "https://open.spotify.com/album/434bFVfYutpT3PknlXQudX"
+      },
+      "artists": [
+        {
+          "name": "Adoraci\u00f3n La IBI",
+          "url": "https://open.spotify.com/artist/6qValgleME8pv861DLzupQ"
+        }
+      ],
+      "duration_ms": 309400,
+      "name": "El Justo Vivir\u00e1 Por Fe",
+      "url": "https://open.spotify.com/track/3sLzXACmqioXU47UjfL5c2"
     },
     {
       "added_at": "2024-03-20 11:30:32",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-03-20 11:30:32",
       "album": {
-        "name": "Hasta Poder Ver",
-        "url": "https://open.spotify.com/album/38LDYEEGCyqAGzdrw8oqBz"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 269645,
-      "name": "El Gran Nombre del Se\u00f1or",
-      "url": "https://open.spotify.com/track/0KkApnj1iYzDEzloLovVOX"
-    },
-    {
-      "added_at": "2024-03-20 11:30:32",
-      "album": {
         "name": "Triduo",
         "url": "https://open.spotify.com/album/5waVLhuqTWfMtWJU46lmZv"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 159860,
       "name": "Santa Cruz",
       "url": "https://open.spotify.com/track/0BI34frslrnpV9sMiCXY7z"
+    },
+    {
+      "added_at": "2024-03-20 11:30:32",
+      "album": {
+        "name": "Hasta Poder Ver",
+        "url": "https://open.spotify.com/album/38LDYEEGCyqAGzdrw8oqBz"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 269645,
+      "name": "El Gran Nombre del Se\u00f1or",
+      "url": "https://open.spotify.com/track/0KkApnj1iYzDEzloLovVOX"
     },
     {
       "added_at": "2024-03-20 11:30:32",

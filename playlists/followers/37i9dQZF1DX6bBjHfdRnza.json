@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 174263,
+  "2024-05-03": 174382,
   "date_first_scraped": "2021-12-21",
   "description": "The best new dance & electronic by independent artists and labels. Cover: BRUX. Artwork by Rewina Beshue.",
   "name": "Fresh Finds Dance",
@@ -4525,7 +4525,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 246856,
       "name": "Break",
       "url": "https://open.spotify.com/track/21qh7wOW9qljk3A7tMAyLM"
@@ -8426,6 +8426,24 @@
     },
     {
       "album": {
+        "name": "Deep Eyes",
+        "url": "https://open.spotify.com/album/1Y6CiZf5ZPvfuIfqKV2t5A"
+      },
+      "artists": [
+        {
+          "name": "canary yellow",
+          "url": "https://open.spotify.com/artist/6dGWL8hxc3I833xMD6ycBv"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210461,
+      "name": "Deep Eyes",
+      "url": "https://open.spotify.com/track/4XTz4wAITZlLjOYtxYXv4Q"
+    },
+    {
+      "album": {
         "name": "Deep Friction",
         "url": "https://open.spotify.com/album/7BD2DmkDlqSRC8cZc3zKFy"
       },
@@ -10771,7 +10789,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 160000,
       "name": "Electric Lady",
       "url": "https://open.spotify.com/track/1DNcDsegUfObITkgEKe42C"
@@ -11039,6 +11057,24 @@
       "duration_ms": 167046,
       "name": "English Lad",
       "url": "https://open.spotify.com/track/4guuv4bFzNo8hV53fYlUpQ"
+    },
+    {
+      "album": {
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/0gQyJuBWFaessWNz0rvzvb"
+      },
+      "artists": [
+        {
+          "name": "Atura",
+          "url": "https://open.spotify.com/artist/5nn0cIrXfm1pZ7jKFFexei"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229444,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/2s1WrQ4gYF1sf6A532AiNn"
     },
     {
       "album": {
@@ -11537,6 +11573,24 @@
       "duration_ms": 236489,
       "name": "Everything You Want",
       "url": "https://open.spotify.com/track/2JZzU9Y1TbI2SYMZ4xvH6k"
+    },
+    {
+      "album": {
+        "name": "Everything's Gonna Be Fine",
+        "url": "https://open.spotify.com/album/7C6emRYpSMajc4kds3tLxJ"
+      },
+      "artists": [
+        {
+          "name": "Tsu Nami",
+          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "Everything's Gonna Be Fine",
+      "url": "https://open.spotify.com/track/0w2InymNC1tOdBOOYfGd63"
     },
     {
       "album": {
@@ -22894,6 +22948,24 @@
     },
     {
       "album": {
+        "name": "Journey LP",
+        "url": "https://open.spotify.com/album/3ZdMf6kjyZbRCZ5dZQyOWW"
+      },
+      "artists": [
+        {
+          "name": "Ruze",
+          "url": "https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195937,
+      "name": "Mister DJ",
+      "url": "https://open.spotify.com/track/3g7fzHY2ieDM7RaAYbItLK"
+    },
+    {
+      "album": {
         "name": "Mistery Lady",
         "url": "https://open.spotify.com/album/7pSNLI38T60BpQSq20ETle"
       },
@@ -23809,6 +23881,24 @@
       "duration_ms": 182073,
       "name": "My Love",
       "url": "https://open.spotify.com/track/6Nd0KJ9zMVHMH96RwoNqkM"
+    },
+    {
+      "album": {
+        "name": "MY LOVER'S MIND",
+        "url": "https://open.spotify.com/album/04bqoDJgId1vDqzPbgk5Is"
+      },
+      "artists": [
+        {
+          "name": "DRIIA",
+          "url": "https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203200,
+      "name": "MY LOVER'S MIND",
+      "url": "https://open.spotify.com/track/4RkLa4Nq85JWnDLtYHG9hq"
     },
     {
       "album": {
@@ -24751,6 +24841,24 @@
       "duration_ms": 292102,
       "name": "North East Abode",
       "url": "https://open.spotify.com/track/55MjPOd5XdbXt6z7Ra7Gcc"
+    },
+    {
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/0VjkSfmdNXZuDZvgFYVxsz"
+      },
+      "artists": [
+        {
+          "name": "Nicche",
+          "url": "https://open.spotify.com/artist/7FCu24EoM4fwOTxQ2I13h8"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247582,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/2PSHoaWofpoYYoNrXUSbeL"
     },
     {
       "album": {
@@ -27355,6 +27463,24 @@
       "duration_ms": 238546,
       "name": "pomelo",
       "url": "https://open.spotify.com/track/7wJaL46QEUIX3Eksc71DNG"
+    },
+    {
+      "album": {
+        "name": "Pompy EP",
+        "url": "https://open.spotify.com/album/0rcbFoSRNctFmjELqqMTcP"
+      },
+      "artists": [
+        {
+          "name": "Jamie Coins",
+          "url": "https://open.spotify.com/artist/3M8bulps82wsKgS3DBpx1m"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199038,
+      "name": "Pompy - Radio Mix",
+      "url": "https://open.spotify.com/track/3twnkPU1T4k0n3caKFBGTG"
     },
     {
       "album": {
@@ -34261,7 +34387,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 115963,
       "name": "That's My Shit",
       "url": "https://open.spotify.com/track/0V3mQisaCvNV2EOxn1N29C"
@@ -34593,7 +34719,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 281860,
       "name": "The Fourth",
       "url": "https://open.spotify.com/track/0c8M0FzN0V25GUSxtHR3Nh"
@@ -34611,7 +34737,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 189773,
       "name": "The Game",
       "url": "https://open.spotify.com/track/0Rm3QhTh5GZoXdg5wI6MB4"
@@ -37871,7 +37997,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 255926,
       "name": "want_from_me_",
       "url": "https://open.spotify.com/track/6MUxAavp7dckUYZq9njGcr"
@@ -39187,7 +39313,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 244761,
       "name": "WORK",
       "url": "https://open.spotify.com/track/6CbZAYh6bOfahHkptyvc59"

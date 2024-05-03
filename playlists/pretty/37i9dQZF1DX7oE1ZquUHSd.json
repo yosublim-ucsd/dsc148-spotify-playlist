@@ -1,6 +1,6 @@
 {
   "description": "El poder real del Hip Hop latinoamericano y espa\u00f1ol. La Banda Bast\u00f6n en portada. ",
-  "num_followers": 179957,
+  "num_followers": 180035,
   "original_name": "Cl\u00e1sicos del Hip Hop Latino",
   "owner": {
     "name": "Spotify",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
+        "name": "Nunca Vemos Nada",
+        "url": "https://open.spotify.com/album/4xXjsyeUxgEUJtRU9Ftpbv"
+      },
+      "artists": [
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "Sexo de Despedida",
+      "url": "https://open.spotify.com/track/5v5kX73l0sZwZ7XYuL3vGq"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
         "name": "Jamming Sin Fronteras",
         "url": "https://open.spotify.com/album/1Bt7lT0WFNHlvd1yGC8zlJ"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 250732,
       "name": "Jamming Sin Fronteras",
       "url": "https://open.spotify.com/track/5Ot6yfkeBUKllxb0ghQQij"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
-        "name": "Nunca Vemos Nada",
-        "url": "https://open.spotify.com/album/4xXjsyeUxgEUJtRU9Ftpbv"
-      },
-      "artists": [
-        {
-          "name": "Proof",
-          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Sexo de Despedida",
-      "url": "https://open.spotify.com/track/5v5kX73l0sZwZ7XYuL3vGq"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "C\u00edrculo Vicioso",
-        "url": "https://open.spotify.com/album/31HSq8pOXZCts7GqWXTRU1"
-      },
-      "artists": [
-        {
-          "name": "Granuja",
-          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
-        }
-      ],
-      "duration_ms": 263023,
-      "name": "De Pe a Pa",
-      "url": "https://open.spotify.com/track/77ozYKcoGc9Cc6M9wRZH9d"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
         "name": "Minotauro",
         "url": "https://open.spotify.com/album/2hAcA9mRxXHUvAJ5SIj1dg"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 245958,
       "name": "Minotauro",
       "url": "https://open.spotify.com/track/3EaQ8vn5i8TUyE5jmSAn2U"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "C\u00edrculo Vicioso",
+        "url": "https://open.spotify.com/album/31HSq8pOXZCts7GqWXTRU1"
+      },
+      "artists": [
+        {
+          "name": "Granuja",
+          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
+        }
+      ],
+      "duration_ms": 263023,
+      "name": "De Pe a Pa",
+      "url": "https://open.spotify.com/track/77ozYKcoGc9Cc6M9wRZH9d"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Hombre de Oro",
-        "url": "https://open.spotify.com/album/0eSm5UmzLKix0xXPVKkQLA"
-      },
-      "artists": [
-        {
-          "name": "ZPU",
-          "url": "https://open.spotify.com/artist/7F9Bd5X4sxdwWRJVpbfMtb"
-        },
-        {
-          "name": "Nach",
-          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
-        }
-      ],
-      "duration_ms": 262520,
-      "name": "Noches en BCN",
-      "url": "https://open.spotify.com/track/5if3JzeUPoXRd9eV2ajfkX"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
         "name": "Humo en la Trampa 2",
         "url": "https://open.spotify.com/album/48081X2ns6kHKFS84IowXl"
       },
@@ -1331,6 +1311,26 @@
       "duration_ms": 250052,
       "name": "Humo en la Trampa 2",
       "url": "https://open.spotify.com/track/065JTu6FDKNlE9g5sUt1sh"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "Hombre de Oro",
+        "url": "https://open.spotify.com/album/0eSm5UmzLKix0xXPVKkQLA"
+      },
+      "artists": [
+        {
+          "name": "ZPU",
+          "url": "https://open.spotify.com/artist/7F9Bd5X4sxdwWRJVpbfMtb"
+        },
+        {
+          "name": "Nach",
+          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
+        }
+      ],
+      "duration_ms": 262520,
+      "name": "Noches en BCN",
+      "url": "https://open.spotify.com/track/5if3JzeUPoXRd9eV2ajfkX"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
+        "name": "Tequila Sunrise",
+        "url": "https://open.spotify.com/album/03tKydztnZhkF2ZFVv4VYV"
+      },
+      "artists": [
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        }
+      ],
+      "duration_ms": 237333,
+      "name": "Tequila Sunrise - Spanish Version",
+      "url": "https://open.spotify.com/track/71irkRXv8MoAoJo6oZjjAe"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
         "name": "995",
         "url": "https://open.spotify.com/album/2Uxj0MZLjKgQQBrRzNtPM5"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 319920,
       "name": "Contra Todos",
       "url": "https://open.spotify.com/track/13FbVnmgiKZdKMHPly1ekQ"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
-        "name": "Tequila Sunrise",
-        "url": "https://open.spotify.com/album/03tKydztnZhkF2ZFVv4VYV"
-      },
-      "artists": [
-        {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
-        }
-      ],
-      "duration_ms": 237333,
-      "name": "Tequila Sunrise - Spanish Version",
-      "url": "https://open.spotify.com/track/71irkRXv8MoAoJo6oZjjAe"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1515,6 +1515,22 @@
       "duration_ms": 488470,
       "name": "Mis Disculpas",
       "url": "https://open.spotify.com/track/6g9pbZC0f40ZmHgq8xsAn6"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "Los Grandes \u00c9xitos En Espa\u00f1ol (Spanish Greatest Hits)",
+        "url": "https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ"
+      },
+      "artists": [
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        }
+      ],
+      "duration_ms": 178533,
+      "name": "Dr. Dedoverde (Dr. Greenthumb) - Spanish Version",
+      "url": "https://open.spotify.com/track/27ccZxdrx3VbCTUXI433OO"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1607,22 +1623,6 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Los Grandes \u00c9xitos En Espa\u00f1ol (Spanish Greatest Hits)",
-        "url": "https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ"
-      },
-      "artists": [
-        {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
-        }
-      ],
-      "duration_ms": 178533,
-      "name": "Dr. Dedoverde (Dr. Greenthumb) - Spanish Version",
-      "url": "https://open.spotify.com/track/27ccZxdrx3VbCTUXI433OO"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
         "name": "Pantone",
         "url": "https://open.spotify.com/album/4KIYSo2O5ZqH03VeHXsWNX"
       },
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Mi Vicio",
-        "url": "https://open.spotify.com/album/0DvsHsfnyP812KErsPuCdL"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 222066,
-      "name": "Mi Vicio",
-      "url": "https://open.spotify.com/track/0GJshwQMsHQv3wXn4kU2TP"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
         "name": "R\u00e9plica",
         "url": "https://open.spotify.com/album/7KedZwrAd3jMUVSaABZ8we"
       },
@@ -1715,18 +1699,18 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Soy el Pecador",
-        "url": "https://open.spotify.com/album/4ly5zyOJB6yOEdKNXYsLte"
+        "name": "Mi Vicio",
+        "url": "https://open.spotify.com/album/0DvsHsfnyP812KErsPuCdL"
       },
       "artists": [
         {
-          "name": "Sinful El Pecador",
-          "url": "https://open.spotify.com/artist/0CtBJEWIKkU8CzxJCBLmSi"
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         }
       ],
-      "duration_ms": 223027,
-      "name": "El Pecador",
-      "url": "https://open.spotify.com/track/0oIETWzqmaXiPzwJYGUvvT"
+      "duration_ms": 222066,
+      "name": "Mi Vicio",
+      "url": "https://open.spotify.com/track/0GJshwQMsHQv3wXn4kU2TP"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1747,6 +1731,22 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
+        "name": "Soy el Pecador",
+        "url": "https://open.spotify.com/album/4ly5zyOJB6yOEdKNXYsLte"
+      },
+      "artists": [
+        {
+          "name": "Sinful El Pecador",
+          "url": "https://open.spotify.com/artist/0CtBJEWIKkU8CzxJCBLmSi"
+        }
+      ],
+      "duration_ms": 223027,
+      "name": "El Pecador",
+      "url": "https://open.spotify.com/track/0oIETWzqmaXiPzwJYGUvvT"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
         "name": "2005",
         "url": "https://open.spotify.com/album/1Nux8B69WySS5XMMprdgL3"
       },
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Malamarismo",
-        "url": "https://open.spotify.com/album/1Ev82MNV0FUz9X4kN2ZTCa"
-      },
-      "artists": [
-        {
-          "name": "Mala Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ"
-        }
-      ],
-      "duration_ms": 223666,
-      "name": "Por La Noche",
-      "url": "https://open.spotify.com/track/29sEnpw1KVfOIyMI8sSTse"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
         "name": "Inksanidad",
         "url": "https://open.spotify.com/album/2amPdwaDwP9ftLGv0RNfIJ"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 219158,
       "name": "Suena",
       "url": "https://open.spotify.com/track/4HqvCLdcpiJtzxR82gH3qE"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "Malamarismo",
+        "url": "https://open.spotify.com/album/1Ev82MNV0FUz9X4kN2ZTCa"
+      },
+      "artists": [
+        {
+          "name": "Mala Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ"
+        }
+      ],
+      "duration_ms": 223666,
+      "name": "Por La Noche",
+      "url": "https://open.spotify.com/track/29sEnpw1KVfOIyMI8sSTse"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1843,6 +1843,22 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
+        "name": "Rolemos Otro",
+        "url": "https://open.spotify.com/album/01AooA3ywuIEk6EQaoWjh3"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 267207,
+      "name": "La Playa",
+      "url": "https://open.spotify.com/track/1aHpN6EYORlTwFSVDiJp6q"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
         "name": "En la brevedad de los dias",
         "url": "https://open.spotify.com/album/0hllL83xhHyw3bU8xIlQay"
       },
@@ -1859,18 +1875,22 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Rolemos Otro",
-        "url": "https://open.spotify.com/album/01AooA3ywuIEk6EQaoWjh3"
+        "name": "Dale Gas",
+        "url": "https://open.spotify.com/album/3IzttvD3sVv5xZOQWuxpl7"
       },
       "artists": [
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        },
         {
           "name": "Alem\u00e1n",
           "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
         }
       ],
-      "duration_ms": 267207,
-      "name": "La Playa",
-      "url": "https://open.spotify.com/track/1aHpN6EYORlTwFSVDiJp6q"
+      "duration_ms": 212495,
+      "name": "Dale Gas",
+      "url": "https://open.spotify.com/track/2f71lbjmfueEmrxPTHk11Z"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1895,26 +1915,6 @@
       "duration_ms": 514493,
       "name": "Javat y Kamel",
       "url": "https://open.spotify.com/track/3SgvnQco35HHgE75uMZ5C2"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
-        "name": "Dale Gas",
-        "url": "https://open.spotify.com/album/3IzttvD3sVv5xZOQWuxpl7"
-      },
-      "artists": [
-        {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
-        },
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 212495,
-      "name": "Dale Gas",
-      "url": "https://open.spotify.com/track/2f71lbjmfueEmrxPTHk11Z"
     }
   ],
   "unique_name": "Cl\u00e1sicos del Hip Hop Latino",

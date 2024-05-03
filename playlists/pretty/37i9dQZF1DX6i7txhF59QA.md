@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 
 > Let's party with cheerful Korean trot medley\. Cover: Son Tae Jin\(손태진\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,445 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,460 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,15 +55,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 | 45 | [Gimme Gimme](https://open.spotify.com/track/63mAJxQc6MHRJ5Zw9NGkMf) | [Second Aunt KimDaVi](https://open.spotify.com/artist/2XrCYhwuq6x15QFddD1gQv) | [Gimme Gimme](https://open.spotify.com/album/0UPav2rFyYj36nC9lxDZp3) | 2:55 |
 | 46 | [Instinctively](https://open.spotify.com/track/1cdl44ZK3z5TZ6UmV8hP6n) | [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k) | [Love call center PART11](https://open.spotify.com/album/04bfMKJM8TmBmuB4uhAaMW) | 3:06 |
 | 47 | [Last night's story](https://open.spotify.com/track/1XJ6zkQPsyAu1EQ4Uktgu9) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v), [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4), [KIM HOJOONG](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [Love call center PART4](https://open.spotify.com/album/4IT3qJP9Yqhyy3itCSmpUx) | 3:45 |
-| 48 | [Hwang Jini](https://open.spotify.com/track/6QSUInZc6D1r8bMQ1tzBFH) | [Park Sang\-Chul](https://open.spotify.com/artist/2hb8P5DKAdd65FRRbw8Ntt) | [Bang Bang](https://open.spotify.com/album/1MW5U54Vi6V3N7z7kppwrJ) | 3:34 |
+| 48 | [오라버니](https://open.spotify.com/track/3bEbIXHlznuoRjjH9PIV1t) | [이현아](https://open.spotify.com/artist/7zTcsgnRgfjuD09FMWZQR0) | [팔도관광 디스코 1,2](https://open.spotify.com/album/1TQNNydhTmdR1R1dkTw8rR) | 2:55 |
 | 49 | [Ring Ring](https://open.spotify.com/track/47SjnA9lQy5kPdAejHr9Cw) | [HONG JIN YOUNG](https://open.spotify.com/artist/5LwiBgLTllBUiqQGNiQ7jY) | [Ring Ring](https://open.spotify.com/album/2ChMOZqyHLYdPcgcXV4e4n) | 3:17 |
 | 50 | [태클을 걸지마](https://open.spotify.com/track/2ZE58r2vseLLeSr152ce7s) | [Jin Sung](https://open.spotify.com/artist/73Bihnu9ymiWuNTNtZLg9Z) | [트롯가왕](https://open.spotify.com/album/2GhSslxollNuNr8Q94sa4b) | 2:44 |
 | 51 | [Face off](https://open.spotify.com/track/6iJnWbreyP8SymfLDEX7AR) | [Na Hoon\-A](https://open.spotify.com/artist/6w4Xk1ziLyfweN6w3KdhxG) | [Seven light scents](https://open.spotify.com/album/2I4GRfDw9exxNFHNRciBho) | 3:18 |
 | 52 | [Amor Fati](https://open.spotify.com/track/6ZwgMqnRq8LmfKuyV6E0Go) | [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k) | [Love call center PART8](https://open.spotify.com/album/5foFjCTKaWf5je3HLOvx8C) | 3:37 |
-| 53 | [Taste of life](https://open.spotify.com/track/48F26fZUkzsKahAn97EviB) | [Yang Ji Eun](https://open.spotify.com/artist/5rLGnWPQ1yVg4skBZD8VEw) | [Taste of life](https://open.spotify.com/album/4IGv48d0xSWpKmO8Db0Srm) | 3:01 |
-| 54 | [오라버니](https://open.spotify.com/track/3bEbIXHlznuoRjjH9PIV1t) | [이현아](https://open.spotify.com/artist/7zTcsgnRgfjuD09FMWZQR0) | [팔도관광 디스코 1,2](https://open.spotify.com/album/1TQNNydhTmdR1R1dkTw8rR) | 2:55 |
-| 55 | [있을때 잘해](https://open.spotify.com/track/2wXilNx41uugI1OgRWI3SC) | [오승근](https://open.spotify.com/artist/1AklxrEk7i9wiWijLX9pjg) | [오승근 Special \`내 나이가 어때서\`](https://open.spotify.com/album/2n8pyK5h9IB3lmg5W6r6Be) | 3:38 |
-| 56 | [YOU & ME](https://open.spotify.com/track/2HVR58hpYOXJH7JSOWe4Sk) | [KIM SOO CHAN](https://open.spotify.com/artist/2lk4sQjFOSEwPD25NXuMbf) | [YOU & ME](https://open.spotify.com/album/0q4sYU8XM5uy9HYZlJ7k2G) | 3:12 |
+| 53 | [Hwang Jini](https://open.spotify.com/track/6QSUInZc6D1r8bMQ1tzBFH) | [Park Sang\-Chul](https://open.spotify.com/artist/2hb8P5DKAdd65FRRbw8Ntt) | [Bang Bang](https://open.spotify.com/album/1MW5U54Vi6V3N7z7kppwrJ) | 3:34 |
+| 54 | [Taste of life](https://open.spotify.com/track/48F26fZUkzsKahAn97EviB) | [Yang Ji Eun](https://open.spotify.com/artist/5rLGnWPQ1yVg4skBZD8VEw) | [Taste of life](https://open.spotify.com/album/4IGv48d0xSWpKmO8Db0Srm) | 3:01 |
+| 55 | [YOU & ME](https://open.spotify.com/track/2HVR58hpYOXJH7JSOWe4Sk) | [KIM SOO CHAN](https://open.spotify.com/artist/2lk4sQjFOSEwPD25NXuMbf) | [YOU & ME](https://open.spotify.com/album/0q4sYU8XM5uy9HYZlJ7k2G) | 3:12 |
+| 56 | [있을때 잘해](https://open.spotify.com/track/2wXilNx41uugI1OgRWI3SC) | [오승근](https://open.spotify.com/artist/1AklxrEk7i9wiWijLX9pjg) | [오승근 Special \`내 나이가 어때서\`](https://open.spotify.com/album/2n8pyK5h9IB3lmg5W6r6Be) | 3:38 |
 | 57 | [이 오빠 뭐야](https://open.spotify.com/track/2trWoBXnXzsovpZiemRdwD) | [YOYOMI](https://open.spotify.com/artist/0wsUMUOnEa7yYtdqo1WFOR) | [첫번째 이야기](https://open.spotify.com/album/0e0mopDBIDzNOBPJDEwmXo) | 3:38 |
 | 58 | [당당하게](https://open.spotify.com/track/4onP3z2jbIicpPXZtX2Nai) | [HONG JIN YOUNG](https://open.spotify.com/artist/5LwiBgLTllBUiqQGNiQ7jY) | [Gold Mask \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/1OoGU6Khex4etKePyIzPed) | 4:15 |
 | 59 | [Thank you](https://open.spotify.com/track/06GizNxrmgbwhIFq00Divq) | [KIM HOJOONG](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [Music source of Mr.Trot FINAL BEST](https://open.spotify.com/album/0QihgqNlbkIYFtUm0An8Ie) | 4:56 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 | 94 | [Brush](https://open.spotify.com/track/7v583zjQNYZnSBkl0VXa9E) | [Jieun Yang](https://open.spotify.com/artist/3RfRPUmzPijYom1BhlhLp4) | [MISS TROT2 FINAL Song of Life Mission](https://open.spotify.com/album/1pkej2qxqM2RGMyVPuopua) | 3:51 |
 | 95 | [Rainy Mt\. Geumgang](https://open.spotify.com/track/4c6V39usriyh0y9syFURjE) | [Song Ga In](https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd) | [THE SONG OF LOVE](https://open.spotify.com/album/66w0X6rK91G89JqroIZQoS) | 3:04 |
 | 96 | [주연배우](https://open.spotify.com/track/2WvMxYFta5a97cZvTTyATa) | [YOYOMI](https://open.spotify.com/artist/0wsUMUOnEa7yYtdqo1WFOR) | [주연배우](https://open.spotify.com/album/5Cy4zdWCMNjZAHw8PfREg3) | 4:02 |
-| 97 | [Crying and regretting](https://open.spotify.com/track/6zKqVHMRcewLI5wPS4SFA0) | [Maria](https://open.spotify.com/artist/3zX1qzXquYYO2AbRoBgHsa) | [MISS TROT2 PRELIMINARY BEST PART1](https://open.spotify.com/album/3WBSmNsFrRZSV1PsvOHbaU) | 2:35 |
-| 98 | [I am a fool](https://open.spotify.com/track/6rRGeZZrlXPaOJ4yvMdqqt) | [Hyeyeon Kang](https://open.spotify.com/artist/4hW9QstyUJL1ZcnxT248kN) | [MISS TROT2 PRELIMINARY BEST PART1](https://open.spotify.com/album/3WBSmNsFrRZSV1PsvOHbaU) | 2:23 |
+| 97 | [I am a fool](https://open.spotify.com/track/6rRGeZZrlXPaOJ4yvMdqqt) | [Hyeyeon Kang](https://open.spotify.com/artist/4hW9QstyUJL1ZcnxT248kN) | [MISS TROT2 PRELIMINARY BEST PART1](https://open.spotify.com/album/3WBSmNsFrRZSV1PsvOHbaU) | 2:23 |
+| 98 | [Crying and regretting](https://open.spotify.com/track/6zKqVHMRcewLI5wPS4SFA0) | [Maria](https://open.spotify.com/artist/3zX1qzXquYYO2AbRoBgHsa) | [MISS TROT2 PRELIMINARY BEST PART1](https://open.spotify.com/album/3WBSmNsFrRZSV1PsvOHbaU) | 2:35 |
 | 99 | [Man of harbor](https://open.spotify.com/track/6k2uEsC4enRSqgf3utAltW) | [Hong Jameon](https://open.spotify.com/artist/3YSBPOvl1LuFvA2BsuQkJP) | [Best of Mr\. Trot Preliminary](https://open.spotify.com/album/22SUPxLxO7DUsKnf0b4qAb) | 1:48 |
 | 100 | [The one who gives Happiness](https://open.spotify.com/track/1EulBXF3UkP9lmh6I5dM4o) | [KIM HOJOONG](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [Love call center PART12](https://open.spotify.com/album/7vdNO3BqQGSSFXkA9ryB9H) | 3:31 |
 

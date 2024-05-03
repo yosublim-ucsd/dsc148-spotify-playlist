@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Xdinary Heros\) \(핫한 국내 록 음악을 만나보세요!\)
 
-631 songs - 1 day 14 hr 32 min
+633 songs - 1 day 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,6 +354,7 @@
 | [No, Thanks \(Feat\. Zion.T\)](https://open.spotify.com/track/2puhFUzrx1DjRJN7guhQoe) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [No, Thanks \(Feat\. Zion.T\)](https://open.spotify.com/album/1vVPwJYmieA4IgrddBOCcQ) | 3:50 | 2022-04-22 | 2022-04-26 |
 | [NOBODY LIKE YOU](https://open.spotify.com/track/5FOSwCZ66T9mSUMASC5PLh) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T) | [BORN GENE](https://open.spotify.com/album/7EJ5ExGkZRhAtRCl9aAY4Z) | 3:00 | 2022-09-13 | 2022-10-01 |
 | [NOIZY](https://open.spotify.com/track/7Achen2ErZs7RQxd32oP20) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [FL1P](https://open.spotify.com/album/743UGdLJrUkteIeP1un8X2) | 3:23 | 2022-05-11 | 2022-05-17 |
+| [Normal Love](https://open.spotify.com/track/5S3kJyqUmYgF0sbD00Ao8K) | [wYte](https://open.spotify.com/artist/6ku0yqiBqUvtZ16Pi3soDC) | [Normal Love](https://open.spotify.com/album/1Y2OnLgXy5Pa7m0YHY5PGQ) | 3:24 | 2024-05-02 |  |
 | [not even close](https://open.spotify.com/track/1jITrOKQdU6LbaosTXCt0i) | [isnotequalto](https://open.spotify.com/artist/2wDEeSb27uMLqlT8Bx9TuF) | [not even close](https://open.spotify.com/album/6udZp5kz6Qs86hCjjRy1zN) | 2:53 | 2022-06-18 | 2022-06-21 |
 | [not gonna love](https://open.spotify.com/track/0scY0FycWIn2ut429xuMja) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Eternal](https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3) | 3:12 | 2022-06-23 | 2022-06-26 |
 | [not me not mine](https://open.spotify.com/track/0q7lWRi07OMLWSwm0vHIwJ) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [not me not mine](https://open.spotify.com/album/09VUrzSER2CE0geP6odR1y) | 5:16 | 2024-01-31 |  |
@@ -512,6 +513,7 @@
 | [Sweet Serenade \(Feat\. Park Jiyoon\)](https://open.spotify.com/track/0tQy8qtHKnlCWcHHtGCkar) | [DEVSISTERS](https://open.spotify.com/artist/7cf0ByqyHXCghj6gC5axcX), [Park Ji Yoon](https://open.spotify.com/artist/1iF0bgDBIthP30VjBK3KUO) | [Cookie Run: Kingdom OST Summer Soda Rock Festa](https://open.spotify.com/album/5YDDSItmnh83Y7bTKHCOpG) | 4:02 | 2023-07-12 | 2023-07-29 |
 | [Swimming](https://open.spotify.com/track/7hRxZMsZhyz2Azs4A4t2sz) | [Dan](https://open.spotify.com/artist/4BMnAOwN9giwY67owHDYYB) | [Swimming](https://open.spotify.com/album/6MFF00PGZQTQq3Gq4xgHTt) | 4:38 | 2022-04-22 | 2022-05-08 |
 | [SWIMMING](https://open.spotify.com/track/6y8BCw8EyaGOcjGpgqOnMx) | [Lim Hyunsik](https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po) | [Piece of BTOB Vol.4](https://open.spotify.com/album/0maS5rDN2WBQElPQVR9GZW) | 4:20 | 2022-04-22 | 2022-05-01 |
+| [System Error](https://open.spotify.com/track/3ugIDVprXVn0yoIeHjIgNm) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [System Error](https://open.spotify.com/album/1CszyO6eUiSOXJgQRwl8cf) | 3:22 | 2024-05-02 |  |
 | [T.B.H](https://open.spotify.com/track/39gaUtq2z4ejJbno7tWHbL) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [1st Mini Album 'MANITO'](https://open.spotify.com/album/58749dw7F011CU9lRmX0MO) | 2:55 | 2024-04-01 |  |
 | [Take me out, tonight \- 2022 Version](https://open.spotify.com/track/4G7gSxgKxFim71L7wlyHm0) | [The Vastards](https://open.spotify.com/artist/7lUtWxDBvmHPTBlcekHVjf) | [CARNIVAL](https://open.spotify.com/album/0bF5gUOVTNZZ4sHtrAPsB6) | 3:42 | 2022-06-18 | 2022-07-09 |
 | [Take off](https://open.spotify.com/track/3qCq7hnNm87XtsAIGyRAe9) | [D82](https://open.spotify.com/artist/6L71MuejIjNrtoiqb6sTJE) | [Take off](https://open.spotify.com/album/2dTVAj7BMO63ep3hqVkgOS) | 3:33 | 2024-04-22 |  |

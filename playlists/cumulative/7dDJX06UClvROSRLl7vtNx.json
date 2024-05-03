@@ -621,6 +621,32 @@
     },
     {
       "album": {
+        "name": "Boulevard of Broken Dreams",
+        "url": "https://open.spotify.com/album/2b5muXfNBzuAwMmBqv6PYp"
+      },
+      "artists": [
+        {
+          "name": "Sunday",
+          "url": "https://open.spotify.com/artist/5vFf9aCTZJfrRjuszHhxcd"
+        },
+        {
+          "name": "SITHEA",
+          "url": "https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu"
+        },
+        {
+          "name": "Velvety",
+          "url": "https://open.spotify.com/artist/5vj8jozcvNuHvgw68Lwvyh"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121200,
+      "name": "Boulevard of Broken Dreams",
+      "url": "https://open.spotify.com/track/2gBcHHTMTuh0BPgDl8WpAK"
+    },
+    {
+      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/2oONqv7gpHaweACmIxM75A"
       },

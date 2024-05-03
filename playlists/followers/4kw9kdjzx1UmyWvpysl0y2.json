@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 126008,
+  "2024-05-03": 126009,
   "date_first_scraped": "2022-01-22",
   "description": "Brand new music from Monstercat, all in one place.",
   "name": "New Music Weekly | Monstercat",
@@ -8763,6 +8763,32 @@
       "duration_ms": 178285,
       "name": "Nirvana - Tisoki Remix",
       "url": "https://open.spotify.com/track/3xxKLNhN0uADJtSF53kULp"
+    },
+    {
+      "album": {
+        "name": "Nite Mode",
+        "url": "https://open.spotify.com/album/40Vru2ZPCcWG3ajA1sXxgz"
+      },
+      "artists": [
+        {
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        },
+        {
+          "name": "Trip Trop",
+          "url": "https://open.spotify.com/artist/6LmNUSHJnlW7mtrLO4ovKX"
+        },
+        {
+          "name": "Britt Lari",
+          "url": "https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181300,
+      "name": "Nite Mode",
+      "url": "https://open.spotify.com/track/4VZM7lUyMpZOYs218ZmRii"
     },
     {
       "album": {

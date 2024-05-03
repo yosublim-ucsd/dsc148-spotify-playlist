@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 2755,
+  "2024-05-03": 2763,
   "date_first_scraped": "2022-08-13",
   "description": "Homegrown Ugandan hits in one playlist. Cover: Victor Ruz",
   "name": "Made In Uganda",
@@ -783,6 +783,28 @@
       "duration_ms": 193246,
       "name": "Bulamu",
       "url": "https://open.spotify.com/track/2Kg2NJPPa6gkrwP6Kn4YHR"
+    },
+    {
+      "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/0Ffs3G6AtmVdMarb5jZbwF"
+      },
+      "artists": [
+        {
+          "name": "Ratigan Era",
+          "url": "https://open.spotify.com/artist/6XmSsmTptfw1G2FtpQfXe0"
+        },
+        {
+          "name": "Pretty Banks",
+          "url": "https://open.spotify.com/artist/5NrH5piljK9ylmYO1EMrDr"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205400,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/7kq5akv1G7pBvCrxxROyd1"
     },
     {
       "album": {
@@ -4885,7 +4907,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 214073,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/6Ncvi8lNXro9qVQWNlcWtI"

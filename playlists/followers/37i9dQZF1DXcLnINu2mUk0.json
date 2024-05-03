@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 45338,
+  "2024-05-03": 45347,
   "date_first_scraped": "2022-07-17",
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Jo\u00e3o Maia Ferreira e Alex D'Alva.",
   "name": "Seda",
@@ -7242,6 +7242,24 @@
     },
     {
       "album": {
+        "name": "NIAGARA",
+        "url": "https://open.spotify.com/album/5DcpE1LAHLT7G9g1Fm1BG3"
+      },
+      "artists": [
+        {
+          "name": "Zalo",
+          "url": "https://open.spotify.com/artist/401NM4m2Jvdjk0jH0B9YgL"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153288,
+      "name": "NIAGARA",
+      "url": "https://open.spotify.com/track/0FF1VE2GNCkHQWVu4Yh98M"
+    },
+    {
+      "album": {
         "name": "NIKES",
         "url": "https://open.spotify.com/album/2eoUv4LT4XjeD7a6voLFZ5"
       },
@@ -8841,7 +8859,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 175200,
       "name": "Quero Ouvir",
       "url": "https://open.spotify.com/track/1VffI1MMgSsWDm1F6yEbzi"

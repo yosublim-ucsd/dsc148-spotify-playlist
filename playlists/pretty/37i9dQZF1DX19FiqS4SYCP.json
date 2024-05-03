@@ -1,6 +1,6 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Gary Hobbs",
-  "num_followers": 131046,
+  "num_followers": 131047,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,22 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
+        "name": "Anda Vuela Y Vete",
+        "url": "https://open.spotify.com/album/7MLTri6EzzNH2BduIXholw"
+      },
+      "artists": [
+        {
+          "name": "Kamryn Ramirez",
+          "url": "https://open.spotify.com/artist/5aymaxJUjnEDpKqnlZJ6Md"
+        }
+      ],
+      "duration_ms": 165866,
+      "name": "Anda Vuela Y Vete",
+      "url": "https://open.spotify.com/track/2MvbaM5Xr5WhIivUQ8ofWq"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
         "name": "Coleccion De Canciones",
         "url": "https://open.spotify.com/album/4relDr0ItEwUCjOO9gBJ5v"
       },
@@ -407,18 +423,18 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Anda Vuela Y Vete",
-        "url": "https://open.spotify.com/album/7MLTri6EzzNH2BduIXholw"
+        "name": "Porque T\u00fa",
+        "url": "https://open.spotify.com/album/0VizQMPXbj9M5ReEfpNIst"
       },
       "artists": [
         {
-          "name": "Kamryn Ramirez",
-          "url": "https://open.spotify.com/artist/5aymaxJUjnEDpKqnlZJ6Md"
+          "name": "Stevie D",
+          "url": "https://open.spotify.com/artist/5wwbWPiUZIgjYL2Al35scc"
         }
       ],
-      "duration_ms": 165866,
-      "name": "Anda Vuela Y Vete",
-      "url": "https://open.spotify.com/track/2MvbaM5Xr5WhIivUQ8ofWq"
+      "duration_ms": 234186,
+      "name": "Porque T\u00fa",
+      "url": "https://open.spotify.com/track/0TRDhKVSdmdGQLPUGTMlUH"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -451,22 +467,6 @@
       "duration_ms": 224256,
       "name": "Mi Necesidad",
       "url": "https://open.spotify.com/track/38Whv9YVvOOKmz59rRVATi"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
-        "name": "Porque T\u00fa",
-        "url": "https://open.spotify.com/album/0VizQMPXbj9M5ReEfpNIst"
-      },
-      "artists": [
-        {
-          "name": "Stevie D",
-          "url": "https://open.spotify.com/artist/5wwbWPiUZIgjYL2Al35scc"
-        }
-      ],
-      "duration_ms": 234186,
-      "name": "Porque T\u00fa",
-      "url": "https://open.spotify.com/track/0TRDhKVSdmdGQLPUGTMlUH"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Camino al Progreso",
-        "url": "https://open.spotify.com/album/2UarTzL0sMw8IpBXVJiUDn"
-      },
-      "artists": [
-        {
-          "name": "Grupo Alamo",
-          "url": "https://open.spotify.com/artist/61gPodc8cyGwCnO8Z8quDy"
-        }
-      ],
-      "duration_ms": 229950,
-      "name": "Otra Oportunidad",
-      "url": "https://open.spotify.com/track/2DNiXqfzhHi43i28uokiFT"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Los Peces En El Rio",
         "url": "https://open.spotify.com/album/1exTpPwJ4ZUqf6l37TKlMX"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 181846,
       "name": "Los Peces En El Rio",
       "url": "https://open.spotify.com/track/2hXxwyJm64VCEURkHq0le5"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Camino al Progreso",
+        "url": "https://open.spotify.com/album/2UarTzL0sMw8IpBXVJiUDn"
+      },
+      "artists": [
+        {
+          "name": "Grupo Alamo",
+          "url": "https://open.spotify.com/artist/61gPodc8cyGwCnO8Z8quDy"
+        }
+      ],
+      "duration_ms": 229950,
+      "name": "Otra Oportunidad",
+      "url": "https://open.spotify.com/track/2DNiXqfzhHi43i28uokiFT"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Porque Vivo Enamorado",
-        "url": "https://open.spotify.com/album/5GtBt9MN0FOppVuMy2vvWS"
-      },
-      "artists": [
-        {
-          "name": "Roel Martinez",
-          "url": "https://open.spotify.com/artist/4RikQLyFZfarbZVAapJ7fe"
-        }
-      ],
-      "duration_ms": 222466,
-      "name": "Porque Vivo Enamorado",
-      "url": "https://open.spotify.com/track/32ovEWIxJqBuOr5WGrPGGx"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Si Manana No Me Ves",
         "url": "https://open.spotify.com/album/3NqmmCyTpThcgwBSalVtH6"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 201045,
       "name": "Si Manana No Me Ves",
       "url": "https://open.spotify.com/track/4hkokOj67Cb9gzt6QV2nUd"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Porque Vivo Enamorado",
+        "url": "https://open.spotify.com/album/5GtBt9MN0FOppVuMy2vvWS"
+      },
+      "artists": [
+        {
+          "name": "Roel Martinez",
+          "url": "https://open.spotify.com/artist/4RikQLyFZfarbZVAapJ7fe"
+        }
+      ],
+      "duration_ms": 222466,
+      "name": "Porque Vivo Enamorado",
+      "url": "https://open.spotify.com/track/32ovEWIxJqBuOr5WGrPGGx"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Amor Condicional",
-        "url": "https://open.spotify.com/album/3FvlHuZ5cApjPitglJEdVK"
-      },
-      "artists": [
-        {
-          "name": "Hilda Lamas",
-          "url": "https://open.spotify.com/artist/1MnHZrj8MWzylwPK8gPJUG"
-        }
-      ],
-      "duration_ms": 257137,
-      "name": "Amor Condicional",
-      "url": "https://open.spotify.com/track/5vo00ry3fXxFLbMQdgnJDd"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Porque Te Amo",
         "url": "https://open.spotify.com/album/0drmVwgibymg1PiFUMnyhe"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 229536,
       "name": "Infraganti",
       "url": "https://open.spotify.com/track/5nXpvGtAZJfVtkeJgxhwbN"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Amor Condicional",
+        "url": "https://open.spotify.com/album/3FvlHuZ5cApjPitglJEdVK"
+      },
+      "artists": [
+        {
+          "name": "Hilda Lamas",
+          "url": "https://open.spotify.com/artist/1MnHZrj8MWzylwPK8gPJUG"
+        }
+      ],
+      "duration_ms": 257137,
+      "name": "Amor Condicional",
+      "url": "https://open.spotify.com/track/5vo00ry3fXxFLbMQdgnJDd"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Necesito Borrarte",
-        "url": "https://open.spotify.com/album/5aQ0e23H4UD9BrXFrUwnGe"
-      },
-      "artists": [
-        {
-          "name": "G5",
-          "url": "https://open.spotify.com/artist/2H8HtciXlTYidtcVuh7jpA"
-        }
-      ],
-      "duration_ms": 254586,
-      "name": "Necesito Borrarte",
-      "url": "https://open.spotify.com/track/4z9yJA8koT5fwoTma6E8K4"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Toda Una Vida",
         "url": "https://open.spotify.com/album/0hf4M1OfFfsgOhCRU6KcNf"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 180410,
       "name": "Toda Una Vida",
       "url": "https://open.spotify.com/track/5UmuGyqgMzhFJxML3ILvKV"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Necesito Borrarte",
+        "url": "https://open.spotify.com/album/5aQ0e23H4UD9BrXFrUwnGe"
+      },
+      "artists": [
+        {
+          "name": "G5",
+          "url": "https://open.spotify.com/artist/2H8HtciXlTYidtcVuh7jpA"
+        }
+      ],
+      "duration_ms": 254586,
+      "name": "Necesito Borrarte",
+      "url": "https://open.spotify.com/track/4z9yJA8koT5fwoTma6E8K4"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Te Quiero Mas",
-        "url": "https://open.spotify.com/album/0W08397Xa5q57fL4gOX4iK"
-      },
-      "artists": [
-        {
-          "name": "Rita Capuchina",
-          "url": "https://open.spotify.com/artist/6DJJ34LoaX8bf7tkOjCW3k"
-        }
-      ],
-      "duration_ms": 188506,
-      "name": "Te Quiero Mas",
-      "url": "https://open.spotify.com/track/3U6nRkzp8vX1OJgD3Nqrh5"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Dime Por Qu\u00e9",
         "url": "https://open.spotify.com/album/5DggVFW7Fcz3b3gsRkKUW8"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 191800,
       "name": "Dime Por Qu\u00e9",
       "url": "https://open.spotify.com/track/65aD4EiPVKUyEXLotKIMQs"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Te Quiero Mas",
+        "url": "https://open.spotify.com/album/0W08397Xa5q57fL4gOX4iK"
+      },
+      "artists": [
+        {
+          "name": "Rita Capuchina",
+          "url": "https://open.spotify.com/artist/6DJJ34LoaX8bf7tkOjCW3k"
+        }
+      ],
+      "duration_ms": 188506,
+      "name": "Te Quiero Mas",
+      "url": "https://open.spotify.com/track/3U6nRkzp8vX1OJgD3Nqrh5"
     },
     {
       "added_at": "2023-09-13 20:37:36",

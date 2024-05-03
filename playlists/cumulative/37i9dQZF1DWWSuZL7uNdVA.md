@@ -4,12 +4,12 @@
 
 > Shaka Ponk au top des meilleurs morceaux rock du moment.
 
-176 songs - 9 hr 57 min
+178 songs - 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [999](https://open.spotify.com/track/3X6kv6zO5IP2rSTYuUOFJi) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [999](https://open.spotify.com/album/0JcxakFKSDNIlNcqjEbPVj) | 3:21 | 2024-01-11 | 2024-01-19 |
-| [A Little Bit Happy](https://open.spotify.com/track/0QligzLNiKkIKW1Ea2MFHt) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [A Little Bit Happy](https://open.spotify.com/album/1sijQqTWjxFFCYg71WR0oh) | 3:15 | 2023-09-28 |  |
+| [A Little Bit Happy](https://open.spotify.com/track/0QligzLNiKkIKW1Ea2MFHt) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [A Little Bit Happy](https://open.spotify.com/album/1sijQqTWjxFFCYg71WR0oh) | 3:15 | 2023-09-28 | 2024-05-03 |
 | [Abyss \- from Kaiju No\. 8](https://open.spotify.com/track/2kLWSmKHhfUBepkIA9oNe5) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Abyss \(from Kaiju No\. 8\)](https://open.spotify.com/album/1KuM2MPT5uEYg1aY4KrnZ0) | 2:03 | 2024-04-03 | 2024-04-24 |
 | [Allo docteur](https://open.spotify.com/track/1VPvT71I6DUFlONOvPsOHn) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Allo docteur](https://open.spotify.com/album/3vGD4O0bt9YgtLZQ1R6JBk) | 2:44 | 2023-11-09 | 2023-12-08 |
 | [Already Over](https://open.spotify.com/track/4Akq61SpQYUE8IuE7hHNH8) | [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD) | [Already Over](https://open.spotify.com/album/3c2fbU1EH35iSMWlTRqLih) | 2:40 | 2023-10-19 | 2024-02-16 |
@@ -101,7 +101,7 @@
 | [Make It Out Alive](https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Make It Out Alive](https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo) | 3:29 | 2023-09-28 | 2024-04-04 |
 | [Man Of The Hour](https://open.spotify.com/track/40jXLuZysjEEqfAwXg6moM) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [Dark Rainbow](https://open.spotify.com/album/4pU6rQzlCfTrSxous1m7CK) | 3:01 | 2024-03-26 | 2024-04-30 |
 | [Meeting The Master](https://open.spotify.com/track/6jXwOrrBoutMICNxckeDNQ) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Starcatcher](https://open.spotify.com/album/7i1NJXQNNFZPyjE0W3GPgE) | 5:12 | 2023-09-28 | 2023-12-22 |
-| [Motel Way of Life](https://open.spotify.com/track/3hqNVh2HrQyX0j9FsjSQX9) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Motel Way of Life](https://open.spotify.com/album/4TqCIDinCXhpoDuDKI5ENg) | 2:51 | 2024-01-25 |  |
+| [Motel Way of Life](https://open.spotify.com/track/3hqNVh2HrQyX0j9FsjSQX9) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Motel Way of Life](https://open.spotify.com/album/4TqCIDinCXhpoDuDKI5ENg) | 2:51 | 2024-01-25 | 2024-05-03 |
 | [Mustang](https://open.spotify.com/track/5y1kheWw8d3DHl8bv5aEE8) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Mustang](https://open.spotify.com/album/00aKd415VlHgSv5uzQotNW) | 3:14 | 2024-02-22 | 2024-04-19 |
 | [My Condition](https://open.spotify.com/track/3dwG0z9bOORf9W1NWj2eFQ) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [My Condition](https://open.spotify.com/album/6HCfBgib3AXge1a1gDwcLH) | 3:27 | 2024-01-18 | 2024-04-04 |
 | [My House](https://open.spotify.com/track/7i1FxvxQeTkPzdFeXukZ0j) | [Royal Republic](https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS) | [My House](https://open.spotify.com/album/0L4RnqTg3JE7PtHVTkYQTT) | 3:14 | 2024-01-11 | 2024-03-22 |
@@ -126,6 +126,7 @@
 | [respawn.](https://open.spotify.com/track/6N54fTcYiQH3gSoFChO7NS) | [LATE 90s](https://open.spotify.com/artist/6nm6POBqf0Jt9TDorqIrAJ) | [respawn.](https://open.spotify.com/album/6HKEsegEdDUp45zIn3OPAr) | 2:55 | 2023-09-28 | 2023-10-27 |
 | [Rise Up](https://open.spotify.com/track/3wEKXWiYq3h4MCDJZiny0S) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Rise Up](https://open.spotify.com/album/6eDKKi7HgzlGQQM8F67og7) | 3:16 | 2023-12-21 | 2024-03-15 |
 | [RNR](https://open.spotify.com/track/1T4BtR7FhZL7e25ExyDq5L) | [Bilk](https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K) | [RNR](https://open.spotify.com/album/5FfxTLdhVl381bl3CNvAIB) | 4:24 | 2023-11-23 | 2024-03-27 |
+| [Rosie](https://open.spotify.com/track/7oq7adFTDnz7IYMjOCCaEI) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Rosie](https://open.spotify.com/album/6vthyj2qxtKwzuTSZZWJWD) | 2:58 | 2024-05-02 |  |
 | [S!CK](https://open.spotify.com/track/5ofXHXnmlZ4zqFWCo6oGOB) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [S!CK](https://open.spotify.com/album/2NFOsuWL7fH1UpFGTWeHcs) | 3:12 | 2024-02-08 |  |
 | [Sad White Reggae](https://open.spotify.com/track/79aKaP2BKL4N3zdc1imLr8) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Never Let Me Go](https://open.spotify.com/album/19upQOw6eZRsGUGqGe6zF1) | 3:25 | 2023-09-28 | 2023-10-20 |
 | [Screamin’ At The Sky](https://open.spotify.com/track/1imjOta3P3L3ZYZiT1cYMr) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Screamin’ At The Sky](https://open.spotify.com/album/3vO2TPaxrjoC6St9PUhvDs) | 3:24 | 2023-09-28 | 2023-10-06 |
@@ -165,6 +166,7 @@
 | [Taste The Sun](https://open.spotify.com/track/0pGmOeAeuQGsFcxP928ima) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [A New Breed](https://open.spotify.com/album/5wvYWow2IFdXSdXQty500e) | 4:03 | 2024-01-11 | 2024-02-02 |
 | [Taste The Sun](https://open.spotify.com/track/2DSMg1St3kwmv7uvrRBJZv) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [Taste The Sun](https://open.spotify.com/album/4GWmCsQY6CQnw5Xf3sbxl7) | 4:03 | 2023-10-05 | 2024-01-13 |
 | [The American Dream Is Killing Me](https://open.spotify.com/track/48SmjoT74xf4Zi07EHRt1s) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [The American Dream Is Killing Me](https://open.spotify.com/album/12VEQ6qRfhz9epkYVPE2nC) | 3:06 | 2023-10-26 | 2024-03-15 |
+| [The Butcher's Fantasy](https://open.spotify.com/track/2xAw4FgHs0lnmEpCXB8vWH) | [Down to the Wire](https://open.spotify.com/artist/2xP00Vrg8hwhdi121FCxbK) | [The Butcher's Fantasy](https://open.spotify.com/album/258BmnVI2s63E5IKM4iUUn) | 3:57 | 2024-05-02 |  |
 | [The Plan](https://open.spotify.com/track/6aXsqO4vskXScn6EuLAvCz) | [Droïd Fantôm](https://open.spotify.com/artist/7HrozFN6zYmxYBLejkkZuz) | [The Plan](https://open.spotify.com/album/5Yl97xpCRkjy25qhOtNq9V) | 3:26 | 2023-11-30 | 2023-12-16 |
 | [The Storm](https://open.spotify.com/track/7dK3KXph8IKzuMo89sh6Kg) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Storm](https://open.spotify.com/album/3JDUl3oKejH3cGOLBFlJgf) | 2:53 | 2023-09-28 | 2023-10-06 |
 | [thoughts i have while lying in bed](https://open.spotify.com/track/7t01uN0kyKMEK8Ow9hhEXa) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [thoughts i have while lying in bed \(with Beach Weather\)](https://open.spotify.com/album/57u0BXm756Oc5nKELfd6qR) | 3:39 | 2023-12-08 | 2023-12-22 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "M\u00e1s m\u00fasica, menos etiquetas. \u00a0\n\ud83d\udcf7 Dillom",
+  "description": "M\u00e1s m\u00fasica, menos etiquetas. \u00a0\n\ud83d\udcf7 Mi Amigo Invencible & Juliana Gattas.",
   "name": "piola",
   "tracks": [
     {
@@ -512,6 +512,28 @@
       "duration_ms": 213012,
       "name": "Beso a Beso",
       "url": "https://open.spotify.com/track/70l4rAWoSEdtir2jTs88Cd"
+    },
+    {
+      "album": {
+        "name": "Beso Rel\u00e1mpago",
+        "url": "https://open.spotify.com/album/3OG5Nf6ISd7y4mnsdUGKcC"
+      },
+      "artists": [
+        {
+          "name": "Mi Amigo Invencible",
+          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
+        },
+        {
+          "name": "Juliana Gattas",
+          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196428,
+      "name": "Beso Rel\u00e1mpago",
+      "url": "https://open.spotify.com/track/3ogQbEUfG2IMdDG8eygasG"
     },
     {
       "album": {
@@ -1887,6 +1909,24 @@
     },
     {
       "album": {
+        "name": "La Herencia",
+        "url": "https://open.spotify.com/album/59G7P0Q82nplbSoazFBZG8"
+      },
+      "artists": [
+        {
+          "name": "FLORIAN",
+          "url": "https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184626,
+      "name": "La Herencia",
+      "url": "https://open.spotify.com/track/6mS0cjqTQwo6Uc4SysXY7E"
+    },
+    {
+      "album": {
         "name": "CINEMA",
         "url": "https://open.spotify.com/album/0Hwtk1l10n5fHJZZNwoRtL"
       },
@@ -1990,7 +2030,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 174610,
       "name": "Lejos de Todo",
       "url": "https://open.spotify.com/track/6cdvRh5aYQdPdfr18T5Zmc"
@@ -2618,7 +2658,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 173119,
       "name": "Neverita",
       "url": "https://open.spotify.com/track/31i56LZnwE6uSu3exoHjtB"
@@ -3588,7 +3628,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 335111,
       "name": "Ron En El Piso",
       "url": "https://open.spotify.com/track/4NV0h97tYFnu3nlj8dyDqP"
@@ -3762,7 +3802,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 243338,
       "name": "Sole",
       "url": "https://open.spotify.com/track/5CZQ77K8uZ6N2uEIUVY8fx"
@@ -4327,6 +4367,24 @@
     },
     {
       "album": {
+        "name": "uno atr\u00e1s de otro",
+        "url": "https://open.spotify.com/album/4aCkfE1H6jAmgSHlSp0zwN"
+      },
+      "artists": [
+        {
+          "name": "lisandro skar",
+          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "uno atr\u00e1s de otro",
+      "url": "https://open.spotify.com/track/3ANyWzAhn7gcXjyqK2DjWv"
+    },
+    {
+      "album": {
         "name": "VALOR",
         "url": "https://open.spotify.com/album/7kOTGMgMDMkgIagREdKl9s"
       },
@@ -4382,6 +4440,24 @@
       "duration_ms": 232947,
       "name": "Velocidad Crucero",
       "url": "https://open.spotify.com/track/3r1cIjl8iCoLYNK2XBr9zU"
+    },
+    {
+      "album": {
+        "name": "Viaje de Ida",
+        "url": "https://open.spotify.com/album/5DdMn4yexdusfpW05ddQnR"
+      },
+      "artists": [
+        {
+          "name": "MACO",
+          "url": "https://open.spotify.com/artist/0XerM4yoGja0adi5ohB8Lm"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191016,
+      "name": "Viaje de Ida",
+      "url": "https://open.spotify.com/track/6NxIfPSFv9ZFTaptcnGEUU"
     },
     {
       "album": {

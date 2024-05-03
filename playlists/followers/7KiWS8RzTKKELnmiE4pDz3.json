@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 1,
+  "2024-05-03": 1,
   "date_first_scraped": "2023-02-09",
   "description": "",
   "name": "main ",
@@ -7398,6 +7398,24 @@
     },
     {
       "album": {
+        "name": "Midnight in Malibu",
+        "url": "https://open.spotify.com/album/4y8rrv9UMZGS9vBx0VVOFp"
+      },
+      "artists": [
+        {
+          "name": "K Suave",
+          "url": "https://open.spotify.com/artist/04a6mc5vUtj2pMzteToeH7"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189491,
+      "name": "Need for Speed",
+      "url": "https://open.spotify.com/track/7DHRqkAR1C6KWD08uKolQx"
+    },
+    {
+      "album": {
         "name": "Flex Musix (FLXTRA)",
         "url": "https://open.spotify.com/album/0KLk3N51EO7CG7d9MdQ2XE"
       },
@@ -9922,6 +9940,36 @@
     },
     {
       "album": {
+        "name": "MICHAEL",
+        "url": "https://open.spotify.com/album/2mBH7RhAS6vRKkSlA7IRIJ"
+      },
+      "artists": [
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "Andr\u00e9 3000",
+          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
+        },
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253663,
+      "name": "SCIENTISTS & ENGINEERS (feat. Future & Eryn Allen Kane)",
+      "url": "https://open.spotify.com/track/1UsPflAuWTNteFUPJAJe8E"
+    },
+    {
+      "album": {
         "name": "Second Day Out",
         "url": "https://open.spotify.com/album/0P02ahe5RNTDXEKXIbQmMv"
       },
@@ -10371,6 +10419,28 @@
       "duration_ms": 122958,
       "name": "So Messy",
       "url": "https://open.spotify.com/track/5xKWzb7qzaRvTQ8OSfmOWR"
+    },
+    {
+      "album": {
+        "name": "Two Piece Tour Pack",
+        "url": "https://open.spotify.com/album/7ACNmhUl7NLo0Gn4WPaE4A"
+      },
+      "artists": [
+        {
+          "name": "Pivot Gang",
+          "url": "https://open.spotify.com/artist/0kDgxQlVYVecF6MCNWJTYE"
+        },
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214050,
+      "name": "SoHo Freestyle",
+      "url": "https://open.spotify.com/track/4fs8ivWpMFLziD20LglPmZ"
     },
     {
       "album": {

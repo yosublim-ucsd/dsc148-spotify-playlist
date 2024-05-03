@@ -1,7 +1,7 @@
 {
-  "2024-05-02": 569,
+  "2024-05-03": 568,
   "date_first_scraped": "2023-05-06",
-  "description": "This is Germaine Franco. The essential tracks, all in one playlist.",
+  "description": "This Is Germaine Franco. Los temas esenciales, todos en una lista.",
   "name": "This Is Germaine Franco",
   "tracks": [
     {
@@ -57,7 +57,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 140655,
       "name": "A Real Cowboy",
       "url": "https://open.spotify.com/track/4WT4fA8R0oE5rtuPBGLRNF"
@@ -895,7 +895,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-01",
+      "date_removed": null,
       "duration_ms": 91782,
       "name": "Golf Cart Down",
       "url": "https://open.spotify.com/track/7kHxcxJiWkeBSsmDKvOjSl"
@@ -1329,7 +1329,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 76680,
       "name": "Mr. Stubbles",
       "url": "https://open.spotify.com/track/7ayPTn7VfMpZhB1WZEC86V"
@@ -1479,6 +1479,24 @@
       "duration_ms": 40973,
       "name": "Riding Into the Sunset",
       "url": "https://open.spotify.com/track/1E9wL6Fko0s380amDh51T0"
+    },
+    {
+      "album": {
+        "name": "Curious George: Royal Monkey (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70600,
+      "name": "Royal Barge Disaster",
+      "url": "https://open.spotify.com/track/6fmRBaYCK3bUKUgQozL9fw"
     },
     {
       "album": {
@@ -1749,7 +1767,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 93546,
       "name": "Ted's TV Realization",
       "url": "https://open.spotify.com/track/3Z3OztSmMX5Jda6VcevoQQ"
@@ -1915,7 +1933,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 47800,
       "name": "The Porcupine Song",
       "url": "https://open.spotify.com/track/55l2zVDdCDWGDg8oMBn3DH"
@@ -2059,7 +2077,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-23",
+      "date_removed": null,
       "duration_ms": 107680,
       "name": "Weather's Coming In",
       "url": "https://open.spotify.com/track/2OqWXV1kcS7rfPSH7FkEME"
@@ -2095,7 +2113,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 68800,
       "name": "Who's Your Birth Mother?",
       "url": "https://open.spotify.com/track/3FaAsdxaiJZVQy72trr8ka"

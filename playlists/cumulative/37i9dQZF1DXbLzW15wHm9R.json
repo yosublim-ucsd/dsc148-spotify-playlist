@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Original and synced songs that will stay with you long after the credits roll...Cover: Challengers Movie",
+  "description": "Original and synced songs that will stay with you long after the credits roll...Cover: The Idea of You",
   "name": "needle drop",
   "tracks": [
     {
@@ -191,6 +191,24 @@
     },
     {
       "album": {
+        "name": "Dirty Work (From Hacks Season 3)",
+        "url": "https://open.spotify.com/album/1a4ly9vEHKWV34UnBKOpbH"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192225,
+      "name": "Dirty Work (From Hacks Season 3)",
+      "url": "https://open.spotify.com/track/3nzR13bHUZQRNnWHuxEf2h"
+    },
+    {
+      "album": {
         "name": "The Idol Episode 2 (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/2SQvwkhFgWxdf2q0ZZvpQi"
       },
@@ -242,10 +260,28 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 297705,
       "name": "Greenback Boogie",
       "url": "https://open.spotify.com/track/2a6lmAMwH4RjNGDY01kytd"
+    },
+    {
+      "album": {
+        "name": "The Idea of You (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6AB0dNTacbKME51YeXwAuA"
+      },
+      "artists": [
+        {
+          "name": "August Moon",
+          "url": "https://open.spotify.com/artist/4INWJGqEB91KDU1xAwLRaA"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153002,
+      "name": "Guard Down",
+      "url": "https://open.spotify.com/track/3HpaV46FMvO52VbH0wuxpP"
     },
     {
       "album": {
@@ -282,6 +318,28 @@
       "duration_ms": 148485,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
+    },
+    {
+      "album": {
+        "name": "The Fall Guy (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1rUyvuK18HiuH5L2jJAtZH"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        },
+        {
+          "name": "Dominic Lewis",
+          "url": "https://open.spotify.com/artist/3L0d5AOt1pZZ2HxjJ15p2U"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287917,
+      "name": "I Was Made For Lovin\u2019 You (from The Fall Guy) [Orchestral Version]",
+      "url": "https://open.spotify.com/track/26oE6AJXIqCSBnyxd9pjwI"
     },
     {
       "album": {
@@ -629,6 +687,24 @@
     },
     {
       "album": {
+        "name": "Starburned and Unkissed",
+        "url": "https://open.spotify.com/album/3mj7Bt7kMctCQdC9pqgdFc"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220148,
+      "name": "Starburned and Unkissed",
+      "url": "https://open.spotify.com/track/12V0MwkaN60cghsLsglkIf"
+    },
+    {
+      "album": {
         "name": "Succession: Season 1 (HBO Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/7IONINkxycqA3eIKlVZ7Bj"
       },
@@ -706,6 +782,46 @@
       "duration_ms": 183945,
       "name": "Taste (From \u201cThe Idea of You\u201d)",
       "url": "https://open.spotify.com/track/54cMd5EQYz1Fq7NUUvSdUr"
+    },
+    {
+      "album": {
+        "name": "The Idea of You (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6AB0dNTacbKME51YeXwAuA"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Galitzine",
+          "url": "https://open.spotify.com/artist/6FupcSGek9Zs4EJGpkBllL"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186461,
+      "name": "The Idea of You",
+      "url": "https://open.spotify.com/track/3FUgM0EcTHjcZxbZgAYFMg"
+    },
+    {
+      "album": {
+        "name": "Then There Was You (From \"The Garfield Movie\")",
+        "url": "https://open.spotify.com/album/4sTlExwGlfYbBJ4zTZP78U"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162040,
+      "name": "Then There Was You - From \"The Garfield Movie\"",
+      "url": "https://open.spotify.com/track/40rCgFIq4lZUQcvoQR2j0t"
     },
     {
       "album": {
@@ -848,6 +964,24 @@
       "duration_ms": 199280,
       "name": "World Class Sinner / I\u2019m A Freak",
       "url": "https://open.spotify.com/track/7dnixpDdQlIOX1L7O0pdFM"
+    },
+    {
+      "album": {
+        "name": "Challengers (Original Score)",
+        "url": "https://open.spotify.com/album/2NHhf3qtcoVPDEb03G8RFv"
+      },
+      "artists": [
+        {
+          "name": "Trent Reznor and Atticus Ross",
+          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158394,
+      "name": "Yeah x10",
+      "url": "https://open.spotify.com/track/0kqLsYEktElJRKFprEiJsI"
     },
     {
       "album": {

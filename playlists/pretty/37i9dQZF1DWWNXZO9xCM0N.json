@@ -1,6 +1,6 @@
 {
   "description": "Para subir la temperatura. Foto: Lebr\u00f3n Brothers",
-  "num_followers": 80969,
+  "num_followers": 81019,
   "original_name": "Salsa Brava",
   "owner": {
     "name": "Spotify",
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-03-19 14:33:13",
       "album": {
+        "name": "Indestructible",
+        "url": "https://open.spotify.com/album/5ColFlrN4x7WcxDuxMrBsC"
+      },
+      "artists": [
+        {
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Indestructible",
+      "url": "https://open.spotify.com/track/4HNXRwx9e6PV7JriRiEtdq"
+    },
+    {
+      "added_at": "2024-03-19 14:33:13",
+      "album": {
         "name": "Velvet Salsa All Stars",
         "url": "https://open.spotify.com/album/0cFRprKvLnPrTJ7eWpG9ON"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 307146,
       "name": "Richie's Jala Jala",
       "url": "https://open.spotify.com/track/5168U0L9JW0QWszjyrBogt"
-    },
-    {
-      "added_at": "2024-03-19 14:33:13",
-      "album": {
-        "name": "Indestructible",
-        "url": "https://open.spotify.com/album/5ColFlrN4x7WcxDuxMrBsC"
-      },
-      "artists": [
-        {
-          "name": "Ray Barretto",
-          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Indestructible",
-      "url": "https://open.spotify.com/track/4HNXRwx9e6PV7JriRiEtdq"
     },
     {
       "added_at": "2024-03-19 14:33:13",
@@ -823,6 +823,26 @@
     {
       "added_at": "2024-03-19 14:33:13",
       "album": {
+        "name": "Barretto",
+        "url": "https://open.spotify.com/album/2Hb9sUYQEdaYTRMzu7YbzQ"
+      },
+      "artists": [
+        {
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+        },
+        {
+          "name": "Tito G\u00f3mez",
+          "url": "https://open.spotify.com/artist/6d5spDidb3nveGjwpybfdn"
+        }
+      ],
+      "duration_ms": 338520,
+      "name": "Guarar\u00e9",
+      "url": "https://open.spotify.com/track/56xsP0TSnlihp3s2jlbSgU"
+    },
+    {
+      "added_at": "2024-03-19 14:33:13",
+      "album": {
         "name": "Los Amigos",
         "url": "https://open.spotify.com/album/2ijH9wDqj60doCygkf1ieY"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 320466,
       "name": "Casi Te Envidio",
       "url": "https://open.spotify.com/track/14ZtWHRc05sX1qy4dL89ID"
-    },
-    {
-      "added_at": "2024-03-19 14:33:13",
-      "album": {
-        "name": "Barretto",
-        "url": "https://open.spotify.com/album/2Hb9sUYQEdaYTRMzu7YbzQ"
-      },
-      "artists": [
-        {
-          "name": "Ray Barretto",
-          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
-        },
-        {
-          "name": "Tito G\u00f3mez",
-          "url": "https://open.spotify.com/artist/6d5spDidb3nveGjwpybfdn"
-        }
-      ],
-      "duration_ms": 338520,
-      "name": "Guarar\u00e9",
-      "url": "https://open.spotify.com/track/56xsP0TSnlihp3s2jlbSgU"
     },
     {
       "added_at": "2024-03-19 14:33:13",

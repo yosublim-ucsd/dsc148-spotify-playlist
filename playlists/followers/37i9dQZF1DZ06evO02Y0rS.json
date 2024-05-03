@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 156475,
+  "2024-05-03": 156497,
   "date_first_scraped": "2022-01-15",
   "description": "This is Bonobo. The essential tracks, all in one playlist.",
   "name": "This Is Bonobo",
@@ -249,7 +249,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-01",
+      "date_removed": null,
       "duration_ms": 352246,
       "name": "Cirrus",
       "url": "https://open.spotify.com/track/2lJ4d8MCT6ZlDRHKJ1br14"
@@ -477,7 +477,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 278293,
       "name": "First Fires",
       "url": "https://open.spotify.com/track/2Yz2Z1ENB85nYrK3Rg2qxO"

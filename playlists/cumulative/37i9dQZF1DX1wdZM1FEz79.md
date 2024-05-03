@@ -2,7 +2,7 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover:10cm\) \(감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover:LAS\) \(감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
 498 songs - 1 day 5 hr 37 min
 

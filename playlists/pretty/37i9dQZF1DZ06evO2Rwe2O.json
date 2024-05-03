@@ -1,12 +1,12 @@
 {
-  "description": "This Is Big Daddy Weave. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
-  "num_followers": 11293,
+  "description": "This is Big Daddy Weave. The essential tracks, all in one playlist.",
+  "num_followers": 11297,
   "original_name": "This Is Big Daddy Weave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjA0gAAAAACmhoFmFXhSCGtcb3w2+3+Y",
+  "snapshot_id": "ZjGGAAAAAAB4kjzozYZ6dYP2IQeecAlr",
   "tracks": [
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Every Time I Breathe",
-        "url": "https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 273680,
-      "name": "Let It Rise",
-      "url": "https://open.spotify.com/track/3d7BD6z3dmOn0uyuyTzFnr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beautiful Offerings (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 214933,
       "name": "I Will Go",
       "url": "https://open.spotify.com/track/50ZvPCUJkoPNFPIOAV97Ni"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Every Time I Breathe",
+        "url": "https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 273680,
+      "name": "Let It Rise",
+      "url": "https://open.spotify.com/track/3d7BD6z3dmOn0uyuyTzFnr"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What Life Would Be Like",
-        "url": "https://open.spotify.com/album/2UAq8mcn9ivMJoSX9asGSw"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 258440,
-      "name": "Revive Us Again",
-      "url": "https://open.spotify.com/track/1gDz3147BMHrVz772aYTwn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beautiful Offerings (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 344760,
       "name": "Good Good Father - Live",
       "url": "https://open.spotify.com/track/4F6XmVjxpAVnAY9IuYou44"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What Life Would Be Like",
+        "url": "https://open.spotify.com/album/2UAq8mcn9ivMJoSX9asGSw"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 258440,
+      "name": "Revive Us Again",
+      "url": "https://open.spotify.com/track/1gDz3147BMHrVz772aYTwn"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Every Time I Breathe",
-        "url": "https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 197786,
-      "name": "The Only One",
-      "url": "https://open.spotify.com/track/1Dm66v7VLsHHNUzxaJQdC7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One and Only",
         "url": "https://open.spotify.com/album/34TxhWZkBsTUFJYhPnkvtN"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 339440,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/0pmi8Y9gF1QHtuEwQfuzsp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Every Time I Breathe",
+        "url": "https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 197786,
+      "name": "The Only One",
+      "url": "https://open.spotify.com/track/1Dm66v7VLsHHNUzxaJQdC7"
     },
     {
       "added_at": null,
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 339693,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/6llVaCTlf3qj0rBPTvGrk0"
+      "duration_ms": 226160,
+      "name": "Just The Way I Am",
+      "url": "https://open.spotify.com/track/5DWxGimczAZe7byauhrUba"
     },
     {
       "added_at": null,
@@ -735,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "What Life Would Be Like",
-        "url": "https://open.spotify.com/album/2UAq8mcn9ivMJoSX9asGSw"
+        "name": "Every Time I Breathe",
+        "url": "https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 247986,
-      "name": "Right With You",
-      "url": "https://open.spotify.com/track/2v4QOcKW0wXtG2o9vSrsSX"
+      "duration_ms": 226146,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/4Gqez49VUwAYdthySame7Y"
     },
     {
       "added_at": null,
@@ -776,15 +776,15 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 226160,
-      "name": "Just The Way I Am",
-      "url": "https://open.spotify.com/track/5DWxGimczAZe7byauhrUba"
+      "duration_ms": 339693,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/6llVaCTlf3qj0rBPTvGrk0"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Every Time I Breathe",
-        "url": "https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2"
+        "name": "What Life Would Be Like",
+        "url": "https://open.spotify.com/album/2UAq8mcn9ivMJoSX9asGSw"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 226146,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/4Gqez49VUwAYdthySame7Y"
+      "duration_ms": 247986,
+      "name": "Right With You",
+      "url": "https://open.spotify.com/track/2v4QOcKW0wXtG2o9vSrsSX"
     },
     {
       "added_at": null,

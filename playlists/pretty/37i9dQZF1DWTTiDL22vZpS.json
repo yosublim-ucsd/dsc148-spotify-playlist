@@ -1,6 +1,6 @@
 {
   "description": "Funk-inspired beats by latinos.",
-  "num_followers": 23953,
+  "num_followers": 23989,
   "original_name": "feels like latin funk",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "M\u00fasica para verse bien",
-        "url": "https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ"
-      },
-      "artists": [
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        }
-      ],
-      "duration_ms": 318058,
-      "name": "Esta canci\u00f3n",
-      "url": "https://open.spotify.com/track/4sKS8hXdU95mCgPUsdgi7f"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Dorama",
         "url": "https://open.spotify.com/album/1JL6GXkYqQC3tvreFoZXlm"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 290400,
       "name": "Lentes Negros",
       "url": "https://open.spotify.com/track/2IwXBRnOgAhIVQXjtt6KEK"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "M\u00fasica para verse bien",
+        "url": "https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ"
+      },
+      "artists": [
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        }
+      ],
+      "duration_ms": 318058,
+      "name": "Esta canci\u00f3n",
+      "url": "https://open.spotify.com/track/4sKS8hXdU95mCgPUsdgi7f"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -663,18 +663,22 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Fantasma",
-        "url": "https://open.spotify.com/album/4H6wjbOD9i7jdLRmofifmc"
+        "name": "Cool Love",
+        "url": "https://open.spotify.com/album/3u5uYLbUjSKqK9y3DDFwAe"
       },
       "artists": [
         {
-          "name": "YECTO",
-          "url": "https://open.spotify.com/artist/5of6MTLS3IZt5IQpQCLcw1"
+          "name": "Los Amigos Invisibles",
+          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
         }
       ],
-      "duration_ms": 228920,
-      "name": "Fantasma",
-      "url": "https://open.spotify.com/track/7bhokUDG4wzy0WPNqNr06P"
+      "duration_ms": 204172,
+      "name": "Tuyonama (feat. Charles Ans)",
+      "url": "https://open.spotify.com/track/74AMpBBqy0JOJaWHF0r7cR"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -695,22 +699,18 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Cool Love",
-        "url": "https://open.spotify.com/album/3u5uYLbUjSKqK9y3DDFwAe"
+        "name": "Fantasma",
+        "url": "https://open.spotify.com/album/4H6wjbOD9i7jdLRmofifmc"
       },
       "artists": [
         {
-          "name": "Los Amigos Invisibles",
-          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+          "name": "YECTO",
+          "url": "https://open.spotify.com/artist/5of6MTLS3IZt5IQpQCLcw1"
         }
       ],
-      "duration_ms": 204172,
-      "name": "Tuyonama (feat. Charles Ans)",
-      "url": "https://open.spotify.com/track/74AMpBBqy0JOJaWHF0r7cR"
+      "duration_ms": 228920,
+      "name": "Fantasma",
+      "url": "https://open.spotify.com/track/7bhokUDG4wzy0WPNqNr06P"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
+        "name": "Si Fui Yo",
+        "url": "https://open.spotify.com/album/3ystJXvxwN8aVGO3gSzzzs"
+      },
+      "artists": [
+        {
+          "name": "Dstance",
+          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
+        }
+      ],
+      "duration_ms": 146840,
+      "name": "Si Fui Yo",
+      "url": "https://open.spotify.com/track/3xVDIiVKzx815eNVkPKT1J"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
         "name": "JUAN PABLO VEGA",
         "url": "https://open.spotify.com/album/3EKzsn6lugXcs8C7qj7jpR"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 227658,
       "name": "Eso Que Me Das",
       "url": "https://open.spotify.com/track/3xOZWx6fJc65Z4R2Hrq06N"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Si Fui Yo",
-        "url": "https://open.spotify.com/album/3ystJXvxwN8aVGO3gSzzzs"
-      },
-      "artists": [
-        {
-          "name": "Dstance",
-          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
-        }
-      ],
-      "duration_ms": 146840,
-      "name": "Si Fui Yo",
-      "url": "https://open.spotify.com/track/3xVDIiVKzx815eNVkPKT1J"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
+        "name": "TTT",
+        "url": "https://open.spotify.com/album/7qOQ37eoRAF8YR1MehRim6"
+      },
+      "artists": [
+        {
+          "name": "We The Lion",
+          "url": "https://open.spotify.com/artist/0D8xIv7lt4m33tauA1HP0z"
+        }
+      ],
+      "duration_ms": 205452,
+      "name": "Time Flies",
+      "url": "https://open.spotify.com/track/0O6CZiLgMKYbBQ7qPM2enO"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/3ofWk0ZjZQNmhsjlVud2y9"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 253747,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/3t9HCHioZ2hmHhWQEjOjPA"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "TTT",
-        "url": "https://open.spotify.com/album/7qOQ37eoRAF8YR1MehRim6"
-      },
-      "artists": [
-        {
-          "name": "We The Lion",
-          "url": "https://open.spotify.com/artist/0D8xIv7lt4m33tauA1HP0z"
-        }
-      ],
-      "duration_ms": 205452,
-      "name": "Time Flies",
-      "url": "https://open.spotify.com/track/0O6CZiLgMKYbBQ7qPM2enO"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Latin Funk All-Stars",
-        "url": "https://open.spotify.com/album/1O5LoF8u5HvjPf54M9RS6A"
-      },
-      "artists": [
-        {
-          "name": "Los Tetas",
-          "url": "https://open.spotify.com/artist/4yjiCh3gayolGLTCVpHojS"
-        }
-      ],
-      "duration_ms": 350360,
-      "name": "Papi \u00bfD\u00f3nde Est\u00e1 El Funk?",
-      "url": "https://open.spotify.com/track/2xsAvvob9qFtBiEI1SK76p"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Big Night",
         "url": "https://open.spotify.com/album/0q3Esl723cq5Zu0kYEOl2w"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 195000,
       "name": "Big Night",
       "url": "https://open.spotify.com/track/6u2NxRdgR9pqJUTeigcopA"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Latin Funk All-Stars",
+        "url": "https://open.spotify.com/album/1O5LoF8u5HvjPf54M9RS6A"
+      },
+      "artists": [
+        {
+          "name": "Los Tetas",
+          "url": "https://open.spotify.com/artist/4yjiCh3gayolGLTCVpHojS"
+        }
+      ],
+      "duration_ms": 350360,
+      "name": "Papi \u00bfD\u00f3nde Est\u00e1 El Funk?",
+      "url": "https://open.spotify.com/track/2xsAvvob9qFtBiEI1SK76p"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Groovin' Bohemia",
-        "url": "https://open.spotify.com/album/22N6SuZAlDTlvgUGbM9UUI"
-      },
-      "artists": [
-        {
-          "name": "Groovin' Bohemia",
-          "url": "https://open.spotify.com/artist/2h61fAPumECGmmEmJPJkj1"
-        }
-      ],
-      "duration_ms": 155124,
-      "name": "Ki Flip",
-      "url": "https://open.spotify.com/track/1JMCvBGLY8DvM8nXKGjP7D"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Para\u00edso",
         "url": "https://open.spotify.com/album/4iLRZohe57Q4qq2EgMITFD"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 160612,
       "name": "Para\u00edso",
       "url": "https://open.spotify.com/track/0FnWZZTkUeenPGOxIF247f"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Groovin' Bohemia",
+        "url": "https://open.spotify.com/album/22N6SuZAlDTlvgUGbM9UUI"
+      },
+      "artists": [
+        {
+          "name": "Groovin' Bohemia",
+          "url": "https://open.spotify.com/artist/2h61fAPumECGmmEmJPJkj1"
+        }
+      ],
+      "duration_ms": 155124,
+      "name": "Ki Flip",
+      "url": "https://open.spotify.com/track/1JMCvBGLY8DvM8nXKGjP7D"
     },
     {
       "added_at": "2024-04-26 04:00:00",

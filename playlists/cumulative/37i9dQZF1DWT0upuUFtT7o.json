@@ -17877,6 +17877,24 @@
     },
     {
       "album": {
+        "name": "I HATE IT TOO",
+        "url": "https://open.spotify.com/album/4dAeoPXvxRL7vuoveshiPP"
+      },
+      "artists": [
+        {
+          "name": "Mitchy",
+          "url": "https://open.spotify.com/artist/4oAU4UeGuRJtYwpYSLEva5"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180040,
+      "name": "I HATE IT TOO",
+      "url": "https://open.spotify.com/track/6CCWKFDhQamC5rGxM97Erj"
+    },
+    {
+      "album": {
         "name": "i hate this city",
         "url": "https://open.spotify.com/album/4prQxI1y4XRu6Oq8XdQUhr"
       },

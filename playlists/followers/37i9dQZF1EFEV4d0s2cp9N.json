@@ -1,3 +1,947 @@
 {
-  "2024-05-02": 135
+  "2024-05-03": 136,
+  "date_first_scraped": "2024-05-02",
+  "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/56ZBiYuSM6W68EojT5WORo\">BLVSH</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
+  "name": "Written By BLVSH",
+  "tracks": [
+    {
+      "album": {
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/0qZnfUUOH8FkPZBNptfmKr"
+      },
+      "artists": [
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164946,
+      "name": "21 Candles",
+      "url": "https://open.spotify.com/track/5eFlBcW5apxIXqyfTzjBMp"
+    },
+    {
+      "album": {
+        "name": "All My Friends",
+        "url": "https://open.spotify.com/album/1QqOH1FEXP73RMHPS1gNTd"
+      },
+      "artists": [
+        {
+          "name": "Ruuth",
+          "url": "https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179368,
+      "name": "5am",
+      "url": "https://open.spotify.com/track/4clNXyiDVTEa0NFSaSnypF"
+    },
+    {
+      "album": {
+        "name": "a little bit bored (feat. ruuth)",
+        "url": "https://open.spotify.com/album/0VkZUsWOnskXe0wS5Toi2X"
+      },
+      "artists": [
+        {
+          "name": "Syence",
+          "url": "https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf"
+        },
+        {
+          "name": "Ruuth",
+          "url": "https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179719,
+      "name": "a little bit bored [Feat. ruuth]",
+      "url": "https://open.spotify.com/track/3BPDK5eBtT6BMYEXs5QzUV"
+    },
+    {
+      "album": {
+        "name": "Afterparties",
+        "url": "https://open.spotify.com/album/1Ix2PS3yt0KEfbKSzLYSf1"
+      },
+      "artists": [
+        {
+          "name": "Ruuth",
+          "url": "https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Afterparties",
+      "url": "https://open.spotify.com/track/4LpBxHHAGSFh3hFE5cNYWF"
+    },
+    {
+      "album": {
+        "name": "All About",
+        "url": "https://open.spotify.com/album/3nxJ6K2jlR1eYh1Gc4VsZ2"
+      },
+      "artists": [
+        {
+          "name": "Ruuth",
+          "url": "https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190551,
+      "name": "All About",
+      "url": "https://open.spotify.com/track/7fGJlTEISWp6IPxEAH0wVP"
+    },
+    {
+      "album": {
+        "name": "All My Friends",
+        "url": "https://open.spotify.com/album/4rZ78okqiuoeLyOTBZE23R"
+      },
+      "artists": [
+        {
+          "name": "Ruuth",
+          "url": "https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144666,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/4eT4pfmDVBLzW3x3jY6AMx"
+    },
+    {
+      "album": {
+        "name": "Angel Eyes",
+        "url": "https://open.spotify.com/album/0vHQE5yaLhJZmGc8lUnxCd"
+      },
+      "artists": [
+        {
+          "name": "\u00c1SD\u00cdS",
+          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170928,
+      "name": "Angel Eyes",
+      "url": "https://open.spotify.com/track/5NId2tRxupzFAOPsRDfCxY"
+    },
+    {
+      "album": {
+        "name": "BORN TO BREAK YOUR HEART",
+        "url": "https://open.spotify.com/album/4fKw1At9ArifrcL94AdsdS"
+      },
+      "artists": [
+        {
+          "name": "Kelvin Jones",
+          "url": "https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159344,
+      "name": "BORN TO BREAK YOUR HEART",
+      "url": "https://open.spotify.com/track/4wiaFodiDW7oug9P3Xz7Rc"
+    },
+    {
+      "album": {
+        "name": "Brooklyn",
+        "url": "https://open.spotify.com/album/5wZuxZwyDfLnpIFvX4g90B"
+      },
+      "artists": [
+        {
+          "name": "Glockenbach",
+          "url": "https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i"
+        },
+        {
+          "name": "ClockClock",
+          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182618,
+      "name": "Brooklyn",
+      "url": "https://open.spotify.com/track/6VcBDMF2ykm5HDcJMVLRZW"
+    },
+    {
+      "album": {
+        "name": "Welcome to 101",
+        "url": "https://open.spotify.com/album/2HAYtoHrVCzfyNi4XY7jW7"
+      },
+      "artists": [
+        {
+          "name": "Omar101",
+          "url": "https://open.spotify.com/artist/3OSeYeKlvOhNfcLVQNadmB"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98800,
+      "name": "Chasing Dreams",
+      "url": "https://open.spotify.com/track/7iUHBN3E2w2y3MIo8jqzPg"
+    },
+    {
+      "album": {
+        "name": "The Name Chapter: TEMPTATION",
+        "url": "https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186471,
+      "name": "Devil by the Window",
+      "url": "https://open.spotify.com/track/53H3sGmqiXWO4MwuZAJfyn"
+    },
+    {
+      "album": {
+        "name": "Dirty Dancing",
+        "url": "https://open.spotify.com/album/0nB12E14XrqbxtbteLPuEo"
+      },
+      "artists": [
+        {
+          "name": "Glockenbach",
+          "url": "https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i"
+        },
+        {
+          "name": "\u00c1SD\u00cdS",
+          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160842,
+      "name": "Dirty Dancing",
+      "url": "https://open.spotify.com/track/464F2a58LTaitVUFKvEm1J"
+    },
+    {
+      "album": {
+        "name": "Dolls",
+        "url": "https://open.spotify.com/album/6NgwO4JwL6tuwwQObi0HBe"
+      },
+      "artists": [
+        {
+          "name": "Bella Poarch",
+          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132793,
+      "name": "Dolls",
+      "url": "https://open.spotify.com/track/0tFUl3tPqBzUM2aV0gitdq"
+    },
+    {
+      "album": {
+        "name": "The Dream Chapter: ETERNITY",
+        "url": "https://open.spotify.com/album/2BV8tWJ9SXYa3qtdQaAr1L"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217413,
+      "name": "Eternally",
+      "url": "https://open.spotify.com/track/6GItaBY2ofuY12hFfCDfLG"
+    },
+    {
+      "album": {
+        "name": "UNFORGIVEN",
+        "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168437,
+      "name": "FEARLESS (2023 Ver.)",
+      "url": "https://open.spotify.com/track/4K8jDTlNhZWEdnzZVGRMtN"
+    },
+    {
+      "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/68YUOdsBc9jRCAidJjSmM5"
+      },
+      "artists": [
+        {
+          "name": "Matisse & Sadko",
+          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
+        },
+        {
+          "name": "Timofey",
+          "url": "https://open.spotify.com/artist/6MteslgsqpOUtewd6Pw1Uq"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/6FAlvEVVjghOb5WjWRuknl"
+    },
+    {
+      "album": {
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/6U4OhqiXPlHvnLwGtNkGlu"
+      },
+      "artists": [
+        {
+          "name": "S$DD",
+          "url": "https://open.spotify.com/artist/1WekWbvgbqnfThxOixlYHw"
+        },
+        {
+          "name": "Ruuth",
+          "url": "https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4"
+        },
+        {
+          "name": "TRAILS",
+          "url": "https://open.spotify.com/artist/4CSX0R9KLs9HkyqLfiraPQ"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249056,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/7FUA7YopOZWJ38Z4bvagWw"
+    },
+    {
+      "album": {
+        "name": "All My Friends",
+        "url": "https://open.spotify.com/album/1QqOH1FEXP73RMHPS1gNTd"
+      },
+      "artists": [
+        {
+          "name": "Ruuth",
+          "url": "https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75095,
+      "name": "Gasoline - Intro",
+      "url": "https://open.spotify.com/track/6T0jiuBv0IMS9ON1MxNIhv"
+    },
+    {
+      "album": {
+        "name": "minisode1 : Blue Hour",
+        "url": "https://open.spotify.com/album/4usjdWBMHtZyhdqcbTrLB2"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223491,
+      "name": "Ghosting",
+      "url": "https://open.spotify.com/track/4dhqV0dDD8CqPjfJohqTmj"
+    },
+    {
+      "album": {
+        "name": "minisode 2: Thursday's Child",
+        "url": "https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191038,
+      "name": "Good Boy Gone Bad",
+      "url": "https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3"
+    },
+    {
+      "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/5IrKSvEtO1UDizncw6i5R7"
+      },
+      "artists": [
+        {
+          "name": "Ruuth",
+          "url": "https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4"
+        },
+        {
+          "name": "bloody white",
+          "url": "https://open.spotify.com/artist/5wZF02QJCBqUNCgl1pxrFQ"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183409,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/0IHF1tsTEzsjbHwMtAytt1"
+    },
+    {
+      "album": {
+        "name": "UNFORGIVEN",
+        "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196365,
+      "name": "Impurities",
+      "url": "https://open.spotify.com/track/7mYwDmbbp8UPLlnRjTJ54X"
+    },
+    {
+      "album": {
+        "name": "All My Friends",
+        "url": "https://open.spotify.com/album/1QqOH1FEXP73RMHPS1gNTd"
+      },
+      "artists": [
+        {
+          "name": "Ruuth",
+          "url": "https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104444,
+      "name": "Lean In - Interlude",
+      "url": "https://open.spotify.com/track/3oMmlRcDyZjCedCuKqJGjC"
+    },
+    {
+      "album": {
+        "name": "Left & Right",
+        "url": "https://open.spotify.com/album/7EkoiVaPDOoEfWvSCKHWIS"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154838,
+      "name": "Left & Right",
+      "url": "https://open.spotify.com/track/0rxEsBxxil046ZqipaCXle"
+    },
+    {
+      "album": {
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/0qZnfUUOH8FkPZBNptfmKr"
+      },
+      "artists": [
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154586,
+      "name": "Less Of A Woman",
+      "url": "https://open.spotify.com/track/36ukbvDkk8gIu3CzvoCpH9"
+    },
+    {
+      "album": {
+        "name": "BE",
+        "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207481,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg"
+    },
+    {
+      "album": {
+        "name": "FACE",
+        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212241,
+      "name": "Like Crazy",
+      "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
+    },
+    {
+      "album": {
+        "name": "Music Collaboration-MAGIC",
+        "url": "https://open.spotify.com/album/6CR946phNnK0cI2Qnw4L1O"
+      },
+      "artists": [
+        {
+          "name": "Park kang hyun",
+          "url": "https://open.spotify.com/artist/6GuseRhHqcubzIgtBob2Pk"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190980,
+      "name": "MAGIC",
+      "url": "https://open.spotify.com/track/6OhYnnNVRvLRBy580Wit9k"
+    },
+    {
+      "album": {
+        "name": "Nine",
+        "url": "https://open.spotify.com/album/5CUQHXJ3gW7Dw30QlZPsN2"
+      },
+      "artists": [
+        {
+          "name": "Ruuth",
+          "url": "https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159155,
+      "name": "Nine",
+      "url": "https://open.spotify.com/track/4MBYWqDACegUtkazjtukJm"
+    },
+    {
+      "album": {
+        "name": "Nostalgic",
+        "url": "https://open.spotify.com/album/0ANAg2M3iPZtgDwzQ4sIqk"
+      },
+      "artists": [
+        {
+          "name": "Jordan Jay",
+          "url": "https://open.spotify.com/artist/3htJBdRyfwyCTKgpZAj6pY"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Nostalgic",
+      "url": "https://open.spotify.com/track/505idOF1JBk7WXlJ75BALj"
+    },
+    {
+      "album": {
+        "name": "Finding Home",
+        "url": "https://open.spotify.com/album/0XG9zBVuCGGnvCK5bD4222"
+      },
+      "artists": [
+        {
+          "name": "Christian Reindl",
+          "url": "https://open.spotify.com/artist/0brORfY1t5Qs2VrWVem9SB"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222890,
+      "name": "Now You're a Home (feat. Ruuth)",
+      "url": "https://open.spotify.com/track/5mKekqQb3G8OK23LVzqJHB"
+    },
+    {
+      "album": {
+        "name": "Over",
+        "url": "https://open.spotify.com/album/2VQy0vBC1uPz4HRncOjUV2"
+      },
+      "artists": [
+        {
+          "name": "ClockClock",
+          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169949,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/0OtftDTXLb5Ziq4Goq0nJS"
+    },
+    {
+      "album": {
+        "name": "Pillow",
+        "url": "https://open.spotify.com/album/0zb47cMO6JyLvOcwj3m0B7"
+      },
+      "artists": [
+        {
+          "name": "Ruuth",
+          "url": "https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183857,
+      "name": "Pillow",
+      "url": "https://open.spotify.com/track/5xwtVHKuo5IxdlXQzqL6gQ"
+    },
+    {
+      "album": {
+        "name": "Priority",
+        "url": "https://open.spotify.com/album/6SGPIdhRflWG0jvIp7ftGj"
+      },
+      "artists": [
+        {
+          "name": "Dillistone",
+          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196909,
+      "name": "Priority",
+      "url": "https://open.spotify.com/track/0jgIsq6BtybOp4R1udNuOP"
+    },
+    {
+      "album": {
+        "name": "Psycho",
+        "url": "https://open.spotify.com/album/4BXSik01jt4eJYnPl5oTTs"
+      },
+      "artists": [
+        {
+          "name": "Mia Rodriguez",
+          "url": "https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176160,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/5Zo98Wsbm7Y4MjSyuv9n9e"
+    },
+    {
+      "album": {
+        "name": "Finding Home",
+        "url": "https://open.spotify.com/album/0XG9zBVuCGGnvCK5bD4222"
+      },
+      "artists": [
+        {
+          "name": "Christian Reindl",
+          "url": "https://open.spotify.com/artist/0brORfY1t5Qs2VrWVem9SB"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Risk It All (feat. Ruuth)",
+      "url": "https://open.spotify.com/track/4ds7fLYjpDeDS1l7oe2sjd"
+    },
+    {
+      "album": {
+        "name": "Electus",
+        "url": "https://open.spotify.com/album/12BfPxoETgAfdrgRVu36jS"
+      },
+      "artists": [
+        {
+          "name": "Monet192",
+          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146573,
+      "name": "Samir",
+      "url": "https://open.spotify.com/track/27D8aQY0iyeg2Npq1QrFdd"
+    },
+    {
+      "album": {
+        "name": "Shivers",
+        "url": "https://open.spotify.com/album/6tvVNnJw3VaM1ybIqnTmxH"
+      },
+      "artists": [
+        {
+          "name": "Ruuth",
+          "url": "https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4"
+        },
+        {
+          "name": "VYEN",
+          "url": "https://open.spotify.com/artist/4MSnRuK0jNGdIFbtfJ9lNX"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/7kSozCxmI9awv3XoUPxZT4"
+    },
+    {
+      "album": {
+        "name": "simple little things",
+        "url": "https://open.spotify.com/album/6vtkf8YJZhxWpt7R7HUaPM"
+      },
+      "artists": [
+        {
+          "name": "B O K E H",
+          "url": "https://open.spotify.com/artist/2rQk5n2Rn4PSaBbbj3XgeO"
+        },
+        {
+          "name": "Lex Leosis",
+          "url": "https://open.spotify.com/artist/3l5iTPvfsSfyeaurhaAeh6"
+        },
+        {
+          "name": "Ruuth",
+          "url": "https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238538,
+      "name": "simple little things",
+      "url": "https://open.spotify.com/track/3LYfAWMaiT0QndkNYQxcLS"
+    },
+    {
+      "album": {
+        "name": "Skippin",
+        "url": "https://open.spotify.com/album/114HqXOv5hLDuk7SVP0XVB"
+      },
+      "artists": [
+        {
+          "name": "MAXAM",
+          "url": "https://open.spotify.com/artist/3dBS6HZxtKdJwcNyx9kThH"
+        },
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157446,
+      "name": "Skippin",
+      "url": "https://open.spotify.com/track/6UmkLiuqMDw88HKr9H4B2F"
+    },
+    {
+      "album": {
+        "name": "ORANGE BLOOD",
+        "url": "https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186119,
+      "name": "Still Monster",
+      "url": "https://open.spotify.com/track/6tuTpe37ljVcrJeZAAKBE1"
+    },
+    {
+      "album": {
+        "name": "Take Me To Eterna",
+        "url": "https://open.spotify.com/album/57Tirl2ZE5G9AgqpyFLD8P"
+      },
+      "artists": [
+        {
+          "name": "Sweater Beats",
+          "url": "https://open.spotify.com/artist/62Jfwxon19ZOT9eSL6bvtY"
+        },
+        {
+          "name": "Ruuth",
+          "url": "https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Take Me To Eterna",
+      "url": "https://open.spotify.com/track/02cTdRWbWorhJ7DFXRkFKK"
+    },
+    {
+      "album": {
+        "name": "The Silence",
+        "url": "https://open.spotify.com/album/7BMmVjURRpn9elnP1XrzCR"
+      },
+      "artists": [
+        {
+          "name": "Ellipso",
+          "url": "https://open.spotify.com/artist/6SSzF90X1iI3jZbaiQMaWs"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125625,
+      "name": "The Silence",
+      "url": "https://open.spotify.com/track/2GEZc2yWerMNPVTwwOI578"
+    },
+    {
+      "album": {
+        "name": "Electus",
+        "url": "https://open.spotify.com/album/12BfPxoETgAfdrgRVu36jS"
+      },
+      "artists": [
+        {
+          "name": "Monet192",
+          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160560,
+      "name": "Time Out",
+      "url": "https://open.spotify.com/track/0O1BPly9rZtkpwOkmbeZ9T"
+    },
+    {
+      "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/0Z1WX8Yg9HXmz6Qkl2nhgc"
+      },
+      "artists": [
+        {
+          "name": "Jerro",
+          "url": "https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240510,
+      "name": "Too Weak",
+      "url": "https://open.spotify.com/track/0IwnyVENCHeAnSPA8xcG14"
+    },
+    {
+      "album": {
+        "name": "Turn off the Lights",
+        "url": "https://open.spotify.com/album/2EsmUBEmNSpSPAUW65C6ng"
+      },
+      "artists": [
+        {
+          "name": "The Hitmen",
+          "url": "https://open.spotify.com/artist/44de5I8rbCwTAjBF1xYv75"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188500,
+      "name": "Turn off the Lights",
+      "url": "https://open.spotify.com/track/3TeieiG5zeormUCyJIcF5Z"
+    },
+    {
+      "album": {
+        "name": "Wake Up As You",
+        "url": "https://open.spotify.com/album/1lu63fAYGT2jj7PFH3Rlxs"
+      },
+      "artists": [
+        {
+          "name": "Ruuth",
+          "url": "https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158778,
+      "name": "Wake Up As You",
+      "url": "https://open.spotify.com/track/1d9vKkT7y3bhyEGstBJyXr"
+    },
+    {
+      "album": {
+        "name": "Weekend Lover",
+        "url": "https://open.spotify.com/album/6jeWoIDDJJ5zZXVvWbhnOh"
+      },
+      "artists": [
+        {
+          "name": "Ruuth",
+          "url": "https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187428,
+      "name": "Weekend Lover",
+      "url": "https://open.spotify.com/track/2tmtAG8HUAxAbEN9cJU3Kk"
+    },
+    {
+      "album": {
+        "name": "When It's Over",
+        "url": "https://open.spotify.com/album/2YaSQDrHQ3iIFRqDluoNo7"
+      },
+      "artists": [
+        {
+          "name": "Christian Reindl",
+          "url": "https://open.spotify.com/artist/0brORfY1t5Qs2VrWVem9SB"
+        },
+        {
+          "name": "Ruuth",
+          "url": "https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174351,
+      "name": "When It's Over",
+      "url": "https://open.spotify.com/track/2AgDrwMxljyyeMsJboEY6b"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1EFEV4d0s2cp9N"
 }

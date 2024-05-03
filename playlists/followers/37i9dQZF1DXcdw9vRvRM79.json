@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 32427,
+  "2024-05-03": 32583,
   "date_first_scraped": "2023-09-29",
   "description": "Gentle music and soft rain sounds to help calm you down and settle in for relaxing sleep. ",
   "name": "Sleepy Rain Music",
@@ -723,7 +723,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 324843,
       "name": "Emotional Landscapes",
       "url": "https://open.spotify.com/track/0stm2dEYmDFOKlkQNZWWGm"
@@ -964,6 +964,24 @@
     },
     {
       "album": {
+        "name": "Frida",
+        "url": "https://open.spotify.com/album/16eP9EuNbX5AvA1b5mNzq8"
+      },
+      "artists": [
+        {
+          "name": "The Peace Within",
+          "url": "https://open.spotify.com/artist/45aoymcKFqTUJ9w4zxfj8i"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Frida",
+      "url": "https://open.spotify.com/track/2v4YWZopPD9CnOAcOYYGYO"
+    },
+    {
+      "album": {
         "name": "Gentle Evening Rain",
         "url": "https://open.spotify.com/album/11ClOEWh75IghVOySc1dLJ"
       },
@@ -1054,6 +1072,24 @@
     },
     {
       "album": {
+        "name": "Hot Stone",
+        "url": "https://open.spotify.com/album/5Nfm0snj589dqcr4wLrl5V"
+      },
+      "artists": [
+        {
+          "name": "Dylan Charbeneau",
+          "url": "https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227142,
+      "name": "Hot Stone",
+      "url": "https://open.spotify.com/track/3sjVlWrUIrAi28mIyy95VN"
+    },
+    {
+      "album": {
         "name": "Ignis Nox",
         "url": "https://open.spotify.com/album/72P3SLXTlYn8Aye4W0S1re"
       },
@@ -1105,6 +1141,42 @@
       "duration_ms": 200360,
       "name": "Incubations",
       "url": "https://open.spotify.com/track/32l1QmHNSscsKZiGCpiZxX"
+    },
+    {
+      "album": {
+        "name": "Intersect",
+        "url": "https://open.spotify.com/album/7AkQ6TjDsjpWf1FT1LN7oN"
+      },
+      "artists": [
+        {
+          "name": "Fields Of Glory",
+          "url": "https://open.spotify.com/artist/6QxOhf5TjFWZH818Pn54mi"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145333,
+      "name": "Intersect",
+      "url": "https://open.spotify.com/track/6e3ZLv31wa4N5YC2IEiUBL"
+    },
+    {
+      "album": {
+        "name": "Relaxing Rain & Ocean Mixes",
+        "url": "https://open.spotify.com/album/7vXwanxZkwYlNvFvSjIA7w"
+      },
+      "artists": [
+        {
+          "name": "Liquid Mind",
+          "url": "https://open.spotify.com/artist/2mvZFsiQR3yWcHAroduCTF"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373304,
+      "name": "Journey to Peace - Rain Mix, Pt. 1",
+      "url": "https://open.spotify.com/track/64RJvySLY08IIaeyXMpLxh"
     },
     {
       "album": {
@@ -1396,6 +1468,24 @@
     },
     {
       "album": {
+        "name": "Natures Secrets",
+        "url": "https://open.spotify.com/album/1pOk1gkT6xZikyn3qqAxns"
+      },
+      "artists": [
+        {
+          "name": "moon echo",
+          "url": "https://open.spotify.com/artist/36RuEVYPpPQPNKGjmrp3hN"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145822,
+      "name": "Natures Secrets",
+      "url": "https://open.spotify.com/track/4ZfnRFSfNc3yIc8kBRzq3o"
+    },
+    {
+      "album": {
         "name": "Niijima Ame",
         "url": "https://open.spotify.com/album/2YWcbL8QZB36qrYzQz83CA"
       },
@@ -1609,6 +1699,24 @@
       "duration_ms": 208736,
       "name": "Raining Stars",
       "url": "https://open.spotify.com/track/6P0X2zwmhyEHDAOM1i36Zq"
+    },
+    {
+      "album": {
+        "name": "Reaching Beyond",
+        "url": "https://open.spotify.com/album/2yKjFEP2jW7T18RNefqFv5"
+      },
+      "artists": [
+        {
+          "name": "Fred Russ",
+          "url": "https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129041,
+      "name": "Reaching Beyond",
+      "url": "https://open.spotify.com/track/0WqWMpK8DVmCyXNzzA0d7R"
     },
     {
       "album": {
@@ -1934,6 +2042,24 @@
     },
     {
       "album": {
+        "name": "Taevas In Rain",
+        "url": "https://open.spotify.com/album/5SFe0FiBl64ep44PmWcwHE"
+      },
+      "artists": [
+        {
+          "name": "Mystisse",
+          "url": "https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Taevas In Rain",
+      "url": "https://open.spotify.com/track/1z5pbFxQdGCEkjK4Tmojl0"
+    },
+    {
+      "album": {
         "name": "Take a Breath",
         "url": "https://open.spotify.com/album/3PmFkrswUTdy2PzigC9CZu"
       },
@@ -2089,7 +2215,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 186490,
       "name": "Tiny Drops",
       "url": "https://open.spotify.com/track/2SS4t6ABtW8gtttkGEsVlg"

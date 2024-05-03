@@ -1,6 +1,6 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 228520,
+  "num_followers": 228831,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
@@ -903,6 +903,22 @@
     {
       "added_at": "2024-04-26 08:00:00",
       "album": {
+        "name": "bet",
+        "url": "https://open.spotify.com/album/6bJmksvW1u7i1mh78WeQB9"
+      },
+      "artists": [
+        {
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "bet",
+      "url": "https://open.spotify.com/track/4R96Fg25lU1Sfsvqf1XNLa"
+    },
+    {
+      "added_at": "2024-04-26 08:00:00",
+      "album": {
         "name": "I'm Blessed",
         "url": "https://open.spotify.com/album/5EWpB07ahlO57i3zRRaIsK"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 218500,
       "name": "I'm Blessed",
       "url": "https://open.spotify.com/track/0U8JJXyvA1ufQd1CJLTl1E"
-    },
-    {
-      "added_at": "2024-04-26 08:00:00",
-      "album": {
-        "name": "bet",
-        "url": "https://open.spotify.com/album/6bJmksvW1u7i1mh78WeQB9"
-      },
-      "artists": [
-        {
-          "name": "Denise Julia",
-          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "bet",
-      "url": "https://open.spotify.com/track/4R96Fg25lU1Sfsvqf1XNLa"
     },
     {
       "added_at": "2024-04-26 08:00:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-04-26 08:00:00",
       "album": {
-        "name": "to love in the 21st century",
-        "url": "https://open.spotify.com/album/18pzJc8GyrVQmunRXrY3ch"
-      },
-      "artists": [
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        }
-      ],
-      "duration_ms": 183693,
-      "name": "the alternative",
-      "url": "https://open.spotify.com/track/4ylj6KTRlC25nhizGTlFPA"
-    },
-    {
-      "added_at": "2024-04-26 08:00:00",
-      "album": {
         "name": "hand on my heart",
         "url": "https://open.spotify.com/album/76BS51UVvR4Dcc38FMzKhM"
       },
@@ -1635,6 +1619,22 @@
     {
       "added_at": "2024-04-26 08:00:00",
       "album": {
+        "name": "to love in the 21st century",
+        "url": "https://open.spotify.com/album/18pzJc8GyrVQmunRXrY3ch"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "duration_ms": 183693,
+      "name": "the alternative",
+      "url": "https://open.spotify.com/track/4ylj6KTRlC25nhizGTlFPA"
+    },
+    {
+      "added_at": "2024-04-26 08:00:00",
+      "album": {
         "name": "MAKING MY WAY",
         "url": "https://open.spotify.com/album/371NWHWKJxyUYwOywWpTal"
       },
@@ -1647,22 +1647,6 @@
       "duration_ms": 258006,
       "name": "MAKING MY WAY",
       "url": "https://open.spotify.com/track/6HGOxrNik4iPurqStawTFQ"
-    },
-    {
-      "added_at": "2024-04-26 08:00:00",
-      "album": {
-        "name": "Space Shuttle No.8",
-        "url": "https://open.spotify.com/album/7hnvRVtat4FvqC8HjHI14Y"
-      },
-      "artists": [
-        {
-          "name": "Jeff Satur",
-          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
-        }
-      ],
-      "duration_ms": 204555,
-      "name": "Almost over you",
-      "url": "https://open.spotify.com/track/2F6OiWpyqFAqRLmVoqGlkB"
     },
     {
       "added_at": "2024-04-26 08:00:00",
@@ -1699,22 +1683,38 @@
     {
       "added_at": "2024-04-26 08:00:00",
       "album": {
-        "name": "Steal The Show",
-        "url": "https://open.spotify.com/album/33wEkd2cvVdHa8dS3gusji"
+        "name": "Space Shuttle No.8",
+        "url": "https://open.spotify.com/album/7hnvRVtat4FvqC8HjHI14Y"
       },
       "artists": [
-        {
-          "name": "SHAUN",
-          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
-        },
         {
           "name": "Jeff Satur",
           "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
         }
       ],
-      "duration_ms": 180640,
-      "name": "Steal The Show",
-      "url": "https://open.spotify.com/track/2xGRrcajSvRlBbAXds2l7u"
+      "duration_ms": 204555,
+      "name": "Almost over you",
+      "url": "https://open.spotify.com/track/2F6OiWpyqFAqRLmVoqGlkB"
+    },
+    {
+      "added_at": "2024-04-26 08:00:00",
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/3aB1d4YjUoxiIAq6jDo9e9"
+      },
+      "artists": [
+        {
+          "name": "Jesse Barrera",
+          "url": "https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l"
+        },
+        {
+          "name": "Patrick Hizon",
+          "url": "https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X"
+        }
+      ],
+      "duration_ms": 162020,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/6yHZVOMyiHvTJDU700B5d3"
     }
   ],
   "unique_name": "tapioca",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,631 likes - 100 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,679 likes - 100 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 62 | [De No Olvidar \- En Vivo](https://open.spotify.com/track/4gbI9BleMGRBK9umkCWQr0) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [De No Olvidar \(En Vivo\)](https://open.spotify.com/album/5Za1fHcJlmlMZ6Y68qBWoE) | 2:39 |
 | 63 | [Se Fue al Cielo \- En Vivo Luna Park](https://open.spotify.com/track/20zqLQwGq2HArJgR9Osp3T) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Se Fue al Cielo \(En Vivo Luna Park\)](https://open.spotify.com/album/5a6i5OQTh7QTNh6bNJvwXK) | 3:50 |
 | 64 | [Yendo de la Cama al Living \- En Vivo Teatro Ópera](https://open.spotify.com/track/08qqssgwcz5zN5L9ev8BkZ) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt), [Alejandro Lerner](https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J), [Fabián Von Quintiero](https://open.spotify.com/artist/5GUNQozsGa2d0JupBb99hG) | [Yendo de la Cama al Living \(En Vivo Teatro Ópera\)](https://open.spotify.com/album/3luYZNG2a6Y2qaKtEbZEzc) | 4:58 |
-| 65 | [Solo Voy \- En Vivo](https://open.spotify.com/track/6iFOuRmcqjqOKiM8daR9P6) | [La 25](https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc) | [Vivo X la 25](https://open.spotify.com/album/3ALjIJVwq4AKqMaVPPSIM2) | 4:22 |
-| 66 | [Barek \- En Vivo Luna Park](https://open.spotify.com/track/3F6owj1sw7oPul8jedGkhT) | [Cielo Razzo](https://open.spotify.com/artist/7EgR8MOSpxSytMngVCVGEu) | [Barek \(En Vivo Luna Park\)](https://open.spotify.com/album/4qYSyuSs6ErU3W62tstxo5) | 4:03 |
+| 65 | [Barek \- En Vivo Luna Park](https://open.spotify.com/track/3F6owj1sw7oPul8jedGkhT) | [Cielo Razzo](https://open.spotify.com/artist/7EgR8MOSpxSytMngVCVGEu) | [Barek \(En Vivo Luna Park\)](https://open.spotify.com/album/4qYSyuSs6ErU3W62tstxo5) | 4:03 |
+| 66 | [Solo Voy \- En Vivo](https://open.spotify.com/track/6iFOuRmcqjqOKiM8daR9P6) | [La 25](https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc) | [Vivo X la 25](https://open.spotify.com/album/3ALjIJVwq4AKqMaVPPSIM2) | 4:22 |
 | 67 | [Carol \- Vivo](https://open.spotify.com/track/4V7EMmfiohP17t5ulxDCQF) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [Vivo Paranoico](https://open.spotify.com/album/5CHgzhgDsOlwS1jPjRxe07) | 3:25 |
 | 68 | [Magia Blanca \- En Vivo en el Teatro Ópera](https://open.spotify.com/track/1nYpwh84SyGAYDjOE5LNN0) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [En Vivo en el Teatro Ópera](https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6) | 5:04 |
 | 69 | [Fuego \- En Vivo Luna Park](https://open.spotify.com/track/6WtFW6voAmKo5QOf3KTj6K) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Fuego \(En Vivo Luna Park\)](https://open.spotify.com/album/1V8ku6WhML2Z15eiLqIoHA) | 4:46 |

@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-456 songs - 1 day 3 hr 16 min
+457 songs - 1 day 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [Les hyènes](https://open.spotify.com/track/2gh61qxVfhoNJP9OJhge5j) | [vice E roi](https://open.spotify.com/artist/6SmN2oQRKkyUlhqg3bOUcz) | [Les hyènes](https://open.spotify.com/album/5TUmOqdJH0FacyZceljNhe) | 3:19 | 2021-01-03\* | 2021-05-08 |
 | [Les joailliers \(piano, voix\)](https://open.spotify.com/track/2rtiiJyThyR4loAtz7ExSf) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Les joailliers \(piano, voix\)](https://open.spotify.com/album/53pkrZogQ17By0kgkf9D4o) | 3:17 | 2021-06-06 |  |
 | [Les longues migrations](https://open.spotify.com/track/6NB5YYtXAzfZOu2vTflAHA) | [Foisy](https://open.spotify.com/artist/6iESQOGvGZKWF6bRd3hlRt) | [Mémoires](https://open.spotify.com/album/6iiDJfzBCgLaQmJf8vHcfq) | 3:52 | 2021-01-03\* | 2022-07-27 |
+| [Les mots qui nous manquent](https://open.spotify.com/track/4MsRf1Ka0nVjJzk1HhUcaY) | [Jules](https://open.spotify.com/artist/067eVTSlIc2fqaaHyRrWmt) | [Les mots qui nous manquent](https://open.spotify.com/album/1eyswuwRnpxBj4nPBItxdg) | 4:14 | 2024-05-03 |  |
 | [Les nuits incandescentes](https://open.spotify.com/track/3Ahqt9mwrDj9hTvDQkz4AB) | [Vincent Alizé](https://open.spotify.com/artist/2lgS5ZE6g9BhF47APJPrTD) | [Nos royaumes interdits](https://open.spotify.com/album/2OaemYlWbshatH7gXnNxyz) | 4:08 | 2021-02-22 | 2022-07-19 |
 | [Les pieds dans le vide \- Radio Edit](https://open.spotify.com/track/3PVkLL0TmL2jbsBPgMtWiV) | [Alicia Deschênes](https://open.spotify.com/artist/6cIkGaF2x3ZAZIlxElMvFu) | [Les pieds dans le vide \(Radio Edit\) \- Single](https://open.spotify.com/album/3Rb2F9S6VoRGDzl8H5J4yN) | 2:47 | 2021-01-03\* | 2021-10-13 |
 | [Les pommiers envahis](https://open.spotify.com/track/0iYZ8hkEx9POpr0TlS87pl) | [Philémon Cimon](https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h) | [Pays](https://open.spotify.com/album/6qNk4o8WSwbaT95aJuoW1n) | 4:59 | 2022-07-08 | 2023-06-17 |
@@ -274,7 +275,7 @@
 | [main l’oiseau](https://open.spotify.com/track/1b00k9gcQ9SxLK0aLXlUpa) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [ET SI, DE/main l'oiseau](https://open.spotify.com/album/4NJy1ueaJ0uqJwNDsycSVa) | 3:26 | 2023-09-22 | 2023-12-15 |
 | [Maison ouverte](https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a) | [Maison ouverte](https://open.spotify.com/album/4CBp6ELEy0RCE6J2KjmVgD) | 3:59 | 2022-07-08 | 2024-04-08 |
 | [Maison ouverte](https://open.spotify.com/track/70IzGRRdLL511jD0GaK2hr) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a) | [Maison ouverte](https://open.spotify.com/album/7IKvXTDryqlnDBAV1vWaif) | 3:59 | 2021-01-15 | 2022-07-29 |
-| [Maison\-monde](https://open.spotify.com/track/5RBF1WP8lY0OtzVOoYnPFN) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [Maison\-monde](https://open.spotify.com/album/1gtEMwLBQYFoScnowHICsK) | 3:32 | 2023-12-01 |  |
+| [Maison\-monde](https://open.spotify.com/track/5RBF1WP8lY0OtzVOoYnPFN) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [Maison\-monde](https://open.spotify.com/album/1gtEMwLBQYFoScnowHICsK) | 3:32 | 2023-12-01 | 2024-05-03 |
 | [Mardi de pluie](https://open.spotify.com/track/60EuBCizMRhgud2wplAFCT) | [Véronique Bilodeau](https://open.spotify.com/artist/37VHbBeOGoDDc1MbHPiDPM) | [Mardi de pluie](https://open.spotify.com/album/1eYjA8gbd6h2CsMnYNPNwc) | 3:53 | 2021-01-03\* | 2021-10-08 |
 | [Marie](https://open.spotify.com/track/0qQiPk5BT3jBwucog23UXX) | [Jean\-Christophe Lessard](https://open.spotify.com/artist/6DXMQCirWG4JsfU3zlxDJ6) | [Les voix levées](https://open.spotify.com/album/0Yv8nEEStD392nKBLYPt36) | 3:21 | 2021-01-03\* | 2021-10-22 |
 | [Martine](https://open.spotify.com/track/0K4u23NQWXl8MWFzkal13R) | [Camaromance](https://open.spotify.com/artist/6MiaQkFU6CoconRyRYko7X) | [Martine](https://open.spotify.com/album/0SgdKJsbN49Uxxptds7axE) | 4:03 | 2021-01-03\* | 2022-07-14 |

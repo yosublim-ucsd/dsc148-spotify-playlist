@@ -4,7 +4,7 @@
 
 > Feeling dramatic? All eyes on you\. Cover: Jack Harris
 
-355 songs - 19 hr 3 min
+356 songs - 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Ain't No Crying](https://open.spotify.com/track/18wSH9W51fEBd9qrUAb9aW) | [Derivakat](https://open.spotify.com/artist/4T7KICeQg50AwFzauMCR9C) | [Songs of the SMP](https://open.spotify.com/album/6ks45W8ykLFRr1lgoUj9mW) | 2:36 | 2022-05-17 | 2022-12-10 |
 | [ALICE](https://open.spotify.com/track/1c4hrCYvdfJ6IQM0tf9bk1) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [ALICE](https://open.spotify.com/album/0978t07FucRDrjdMNEdG0Z) | 2:33 | 2023-10-27 |  |
 | [Alien Blues](https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Gawk](https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh) | 2:35 | 2023-05-26 |  |
+| [Alive](https://open.spotify.com/track/1DtQMNuEieMUYm2g4SoD8M) | [Spencer Sutherland](https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C) | [Alive](https://open.spotify.com/album/1LUxUwfGmcVMmT2K5Tn4ed) | 2:48 | 2024-05-03 |  |
 | [All Eyes On Me](https://open.spotify.com/track/2Q6RiCAKOrxRYtvl9pcpjY) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [INSIDE](https://open.spotify.com/album/35qVMfUfBN6q2xzm9rZn5a) | 5:02 | 2022-06-07 | 2022-08-06 |
 | [All Eyes On Me](https://open.spotify.com/track/3rV5y8rcQrwRt9fWGLmjOQ) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [Inside \(The Songs\)](https://open.spotify.com/album/1e5OlE0EY5fucq6GIU1xi3) | 5:02 | 2022-05-17 | 2022-07-29 |
 | [All for Nothing](https://open.spotify.com/track/4eOydYjbFRCfFZ8jxtwrQX) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [All for Nothing](https://open.spotify.com/album/0kWI8zbuMg3aNL7p6ceWJ7) | 3:23 | 2023-02-16 | 2023-08-19 |
@@ -316,7 +317,7 @@
 | [The Last Goodbye](https://open.spotify.com/track/4p6xj4kIpEfmgpYe3C90MW) | [The Gregory Brothers](https://open.spotify.com/artist/0V8tQXWkKPD5SxsB2moGew), [Markiplier](https://open.spotify.com/artist/65BxFegOKWTiwG3DGCckef) | [The Last Goodbye](https://open.spotify.com/album/1MZuMWFfaOJ2s2hvmreyIn) | 3:18 | 2022-06-08 | 2022-06-25 |
 | [The Long Breath](https://open.spotify.com/track/2jQWDgZhvkTREAXi7R0Vnf) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [The Long Breath / The Willows](https://open.spotify.com/album/0phsQExgJ5IKweBTgJNdp3) | 4:48 | 2023-11-17 | 2023-12-09 |
 | [The Masochism Tango \(Stereo Mix\)](https://open.spotify.com/track/0WVWNxudOyk0ncLpl1EsU1) | [Tom Lehrer](https://open.spotify.com/artist/5iNvbRVX9W8t1RpD2SHpAO) | [The Conducted Tom Lehrer](https://open.spotify.com/album/1zSJn05mfUconkdvLJ8uqq) | 2:49 | 2024-01-22 |  |
-| [The Mountain Song](https://open.spotify.com/track/2ileXC69Z7xb95s3ljUBqb) | [Tophouse](https://open.spotify.com/artist/5WvwaJTMkZ5jb06EwCt34K) | [The Mountain Song](https://open.spotify.com/album/2KADkXNDzS6Rz7bUt9UE1b) | 4:06 | 2024-04-05 |  |
+| [The Mountain Song](https://open.spotify.com/track/2ileXC69Z7xb95s3ljUBqb) | [Tophouse](https://open.spotify.com/artist/5WvwaJTMkZ5jb06EwCt34K) | [The Mountain Song](https://open.spotify.com/album/2KADkXNDzS6Rz7bUt9UE1b) | 4:06 | 2024-04-05 | 2024-05-03 |
 | [The Place To Be](https://open.spotify.com/track/2Y8D1aBfSngGN41XnOwydy) | [The Scarlet Opera](https://open.spotify.com/artist/331esE1oEqzbQQGZPJ4Yix) | [The Place To Be](https://open.spotify.com/album/6L31U4bZtscOccwZbnIvXm) | 3:28 | 2022-09-16 | 2022-12-10 |
 | [The Red Means I Love You](https://open.spotify.com/track/3FD23QWCO0aP7fzKXHCDE8) | [Madds Buckley](https://open.spotify.com/artist/4BLdbgVNetzII3ggCMsNtq) | [Sunset on Summerville](https://open.spotify.com/album/6IA6npG3aDtFpcVwNNBT9r) | 3:53 | 2022-09-16 | 2024-04-19 |
 | [The Red Means I Love You](https://open.spotify.com/track/5pLbM4PU1wZyMvoQyEAorp) | [Madds Buckley](https://open.spotify.com/artist/4BLdbgVNetzII3ggCMsNtq) | [The Red Means I Love You](https://open.spotify.com/album/0m4Okss4lEAUYKrrXxIy1E) | 3:53 | 2022-05-17 |  |

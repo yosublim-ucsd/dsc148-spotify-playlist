@@ -1,6 +1,6 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Escalandrum",
-  "num_followers": 31975,
+  "num_followers": 31980,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
@@ -151,22 +151,6 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "El Jard\u00edn de Ord\u00f3\u00f1ez",
-        "url": "https://open.spotify.com/album/7pa2jpIWS7mbAY2GBnuTDh"
-      },
-      "artists": [
-        {
-          "name": "Ramiro Flores",
-          "url": "https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t"
-        }
-      ],
-      "duration_ms": 114760,
-      "name": "Entrada al Jardi\u0301n de Ordo\u0301n\u0303ez",
-      "url": "https://open.spotify.com/track/41DLK2Kl0UCoP9YvRohQ74"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
         "name": "Encuentro",
         "url": "https://open.spotify.com/album/0b4HCbP13kNcvrPT4Wokxz"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 197196,
       "name": "Encuentro",
       "url": "https://open.spotify.com/track/5IDm7K9atPMJRl51HiCbsE"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "El Jard\u00edn de Ord\u00f3\u00f1ez",
+        "url": "https://open.spotify.com/album/7pa2jpIWS7mbAY2GBnuTDh"
+      },
+      "artists": [
+        {
+          "name": "Ramiro Flores",
+          "url": "https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t"
+        }
+      ],
+      "duration_ms": 114760,
+      "name": "Entrada al Jardi\u0301n de Ordo\u0301n\u0303ez",
+      "url": "https://open.spotify.com/track/41DLK2Kl0UCoP9YvRohQ74"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Jazz Argentino",
-        "url": "https://open.spotify.com/album/6t7ajkFism3z8iKREL1Keg"
-      },
-      "artists": [
-        {
-          "name": "Baby L\u00f3pez Furst",
-          "url": "https://open.spotify.com/artist/6gZQ1gJJ069kkcJogwx5l7"
-        }
-      ],
-      "duration_ms": 303186,
-      "name": "Una Abeja Durmiente",
-      "url": "https://open.spotify.com/track/6wCpCPfH7jPgwYv3srAfMn"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
         "name": "Acto 2",
         "url": "https://open.spotify.com/album/7xcvIRi7rTn5QSFqsR42HK"
       },
@@ -339,6 +323,22 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
+        "name": "Brilliant Corners",
+        "url": "https://open.spotify.com/album/1U7l8CHeLqBjDKVx4987C4"
+      },
+      "artists": [
+        {
+          "name": "Pipi Piazzolla Trio",
+          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
+        }
+      ],
+      "duration_ms": 104195,
+      "name": "Brilliant Corners",
+      "url": "https://open.spotify.com/track/2fFSR3ZclE7Tid8nk2iQUI"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
         "name": "B\u00e9same Mucho",
         "url": "https://open.spotify.com/album/0rqeGYuxdTWXiWekx5J1H5"
       },
@@ -355,18 +355,18 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Brilliant Corners",
-        "url": "https://open.spotify.com/album/1U7l8CHeLqBjDKVx4987C4"
+        "name": "Jazz Argentino",
+        "url": "https://open.spotify.com/album/6t7ajkFism3z8iKREL1Keg"
       },
       "artists": [
         {
-          "name": "Pipi Piazzolla Trio",
-          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
+          "name": "Baby L\u00f3pez Furst",
+          "url": "https://open.spotify.com/artist/6gZQ1gJJ069kkcJogwx5l7"
         }
       ],
-      "duration_ms": 104195,
-      "name": "Brilliant Corners",
-      "url": "https://open.spotify.com/track/2fFSR3ZclE7Tid8nk2iQUI"
+      "duration_ms": 303186,
+      "name": "Una Abeja Durmiente",
+      "url": "https://open.spotify.com/track/6wCpCPfH7jPgwYv3srAfMn"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "...Baby One More Time",
-        "url": "https://open.spotify.com/album/6WeqZRTUp9w2M6sNV0Hw6M"
-      },
-      "artists": [
-        {
-          "name": "Manto de Carne",
-          "url": "https://open.spotify.com/artist/0W9lb1sq8zlTUSFqctJMqy"
-        }
-      ],
-      "duration_ms": 201500,
-      "name": "...Baby One More Time",
-      "url": "https://open.spotify.com/track/4rPDxqdzrNVf5Kjj8AngtC"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
         "name": "Las Tardecitas de Miton's",
         "url": "https://open.spotify.com/album/7lWZcmElRhLDZrLVJqSSC4"
       },
@@ -903,18 +887,34 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "A Bajo y Pa'fuera",
-        "url": "https://open.spotify.com/album/5Tskwr5ZVRstjoh7tCGK4N"
+        "name": "...Baby One More Time",
+        "url": "https://open.spotify.com/album/6WeqZRTUp9w2M6sNV0Hw6M"
       },
       "artists": [
         {
-          "name": "Sebasti\u00e1n Tozzola",
-          "url": "https://open.spotify.com/artist/7jgPBkRiFn2bXumnpBWR1a"
+          "name": "Manto de Carne",
+          "url": "https://open.spotify.com/artist/0W9lb1sq8zlTUSFqctJMqy"
         }
       ],
-      "duration_ms": 146757,
-      "name": "A Bajo y Pa'fuera",
-      "url": "https://open.spotify.com/track/1uf0lcsMTfUhTRH26gRRkH"
+      "duration_ms": 201500,
+      "name": "...Baby One More Time",
+      "url": "https://open.spotify.com/track/4rPDxqdzrNVf5Kjj8AngtC"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "Bye Bye Blackbird",
+        "url": "https://open.spotify.com/album/0R1VFMXxny6V8HAull4Y2v"
+      },
+      "artists": [
+        {
+          "name": "Hugo Lobo",
+          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
+        }
+      ],
+      "duration_ms": 188345,
+      "name": "Bye Bye Blackbird",
+      "url": "https://open.spotify.com/track/6vgRuIXsJCOhmwHqtaQk1C"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -939,38 +939,6 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "ESCALECTRIC",
-        "url": "https://open.spotify.com/album/2zt51xYKMh7FFwORtkzq9x"
-      },
-      "artists": [
-        {
-          "name": "Escalandrum",
-          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
-        }
-      ],
-      "duration_ms": 286798,
-      "name": "Parque Chas",
-      "url": "https://open.spotify.com/track/0dnRzjlfB337Ay7nMcNsHS"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
-        "name": "Bye Bye Blackbird",
-        "url": "https://open.spotify.com/album/0R1VFMXxny6V8HAull4Y2v"
-      },
-      "artists": [
-        {
-          "name": "Hugo Lobo",
-          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
-        }
-      ],
-      "duration_ms": 188345,
-      "name": "Bye Bye Blackbird",
-      "url": "https://open.spotify.com/track/6vgRuIXsJCOhmwHqtaQk1C"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
         "name": "Grabaciones In\u00e9ditas Vol. 1",
         "url": "https://open.spotify.com/album/2EieDkdmv8W4ECnhEDX3vA"
       },
@@ -987,22 +955,34 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Mezcalero",
-        "url": "https://open.spotify.com/album/1vp5pXPedKpfRJL5THQYSj"
+        "name": "ESCALECTRIC",
+        "url": "https://open.spotify.com/album/2zt51xYKMh7FFwORtkzq9x"
       },
       "artists": [
         {
-          "name": "Manto de Carne",
-          "url": "https://open.spotify.com/artist/0W9lb1sq8zlTUSFqctJMqy"
-        },
-        {
-          "name": "Mart\u00edn Telechanski",
-          "url": "https://open.spotify.com/artist/15mKP2cwyHpXFFbYfir1A1"
+          "name": "Escalandrum",
+          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
         }
       ],
-      "duration_ms": 297000,
-      "name": "Mezcalero",
-      "url": "https://open.spotify.com/track/0rHGwlFislu1y0aSqugWWN"
+      "duration_ms": 286798,
+      "name": "Parque Chas",
+      "url": "https://open.spotify.com/track/0dnRzjlfB337Ay7nMcNsHS"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "A Bajo y Pa'fuera",
+        "url": "https://open.spotify.com/album/5Tskwr5ZVRstjoh7tCGK4N"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Tozzola",
+          "url": "https://open.spotify.com/artist/7jgPBkRiFn2bXumnpBWR1a"
+        }
+      ],
+      "duration_ms": 146757,
+      "name": "A Bajo y Pa'fuera",
+      "url": "https://open.spotify.com/track/1uf0lcsMTfUhTRH26gRRkH"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -1023,6 +1003,46 @@
       "duration_ms": 396160,
       "name": "Nueva Luna, Mundo Arjo (feat. Pedro Aznar)",
       "url": "https://open.spotify.com/track/3Ybi19qv29GlOHkKoCTZ3P"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "I Remember Clifford",
+        "url": "https://open.spotify.com/album/19YMIWrZTWuSDYzxlzRIqY"
+      },
+      "artists": [
+        {
+          "name": "Hugo Lobo",
+          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
+        },
+        {
+          "name": "Facundo Canosa",
+          "url": "https://open.spotify.com/artist/6MorVkOyr0Yc097YejqTiS"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "I Remember Clifford",
+      "url": "https://open.spotify.com/track/71xGulRFIDEs2gqk6fSSz2"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "Mezcalero",
+        "url": "https://open.spotify.com/album/1vp5pXPedKpfRJL5THQYSj"
+      },
+      "artists": [
+        {
+          "name": "Manto de Carne",
+          "url": "https://open.spotify.com/artist/0W9lb1sq8zlTUSFqctJMqy"
+        },
+        {
+          "name": "Mart\u00edn Telechanski",
+          "url": "https://open.spotify.com/artist/15mKP2cwyHpXFFbYfir1A1"
+        }
+      ],
+      "duration_ms": 297000,
+      "name": "Mezcalero",
+      "url": "https://open.spotify.com/track/0rHGwlFislu1y0aSqugWWN"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -1055,34 +1075,6 @@
       "duration_ms": 412693,
       "name": "Cero",
       "url": "https://open.spotify.com/track/1mMzrMwcexRJe5PNMTJISZ"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
-        "name": "Tr\u00edas",
-        "url": "https://open.spotify.com/album/3r9kmsMm2FztYolno45BT2"
-      },
-      "artists": [
-        {
-          "name": "Juan Cruz De Urquiza",
-          "url": "https://open.spotify.com/artist/0nRwYzrk9wrf5ZIsvPuxwl"
-        },
-        {
-          "name": "Hern\u00e1n Jacinto",
-          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
-        },
-        {
-          "name": "Carlos Alvarez",
-          "url": "https://open.spotify.com/artist/3n4bsQdUztlsnOwCfEYsSI"
-        },
-        {
-          "name": "Carto Brand\u00e1n",
-          "url": "https://open.spotify.com/artist/6V37ntXjzq4ozdp0SYKsmB"
-        }
-      ],
-      "duration_ms": 640853,
-      "name": "Trias",
-      "url": "https://open.spotify.com/track/7sTSysRFQYhAW6SqmCUaaw"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -1127,22 +1119,30 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "I Remember Clifford",
-        "url": "https://open.spotify.com/album/19YMIWrZTWuSDYzxlzRIqY"
+        "name": "Tr\u00edas",
+        "url": "https://open.spotify.com/album/3r9kmsMm2FztYolno45BT2"
       },
       "artists": [
         {
-          "name": "Hugo Lobo",
-          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
+          "name": "Juan Cruz De Urquiza",
+          "url": "https://open.spotify.com/artist/0nRwYzrk9wrf5ZIsvPuxwl"
         },
         {
-          "name": "Facundo Canosa",
-          "url": "https://open.spotify.com/artist/6MorVkOyr0Yc097YejqTiS"
+          "name": "Hern\u00e1n Jacinto",
+          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
+        },
+        {
+          "name": "Carlos Alvarez",
+          "url": "https://open.spotify.com/artist/3n4bsQdUztlsnOwCfEYsSI"
+        },
+        {
+          "name": "Carto Brand\u00e1n",
+          "url": "https://open.spotify.com/artist/6V37ntXjzq4ozdp0SYKsmB"
         }
       ],
-      "duration_ms": 192000,
-      "name": "I Remember Clifford",
-      "url": "https://open.spotify.com/track/71xGulRFIDEs2gqk6fSSz2"
+      "duration_ms": 640853,
+      "name": "Trias",
+      "url": "https://open.spotify.com/track/7sTSysRFQYhAW6SqmCUaaw"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "En el fondo del mar",
-        "url": "https://open.spotify.com/album/2le5rS0useInfiwUH6D0en"
+        "name": "Viva Jujuy",
+        "url": "https://open.spotify.com/album/7zqBQINQuhtMbgHk7sZ8fm"
       },
       "artists": [
         {
-          "name": "Pipi Piazzolla Trio",
-          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
+          "name": "Arturo Puertas",
+          "url": "https://open.spotify.com/artist/68VGzNdHAbP0eDDdmyvNCZ"
         }
       ],
-      "duration_ms": 367797,
-      "name": "En el fondo del mar",
-      "url": "https://open.spotify.com/track/3Fuh1jFj6vYFgAlNzCAT52"
+      "duration_ms": 403600,
+      "name": "Tour de Force",
+      "url": "https://open.spotify.com/track/2foU99quuAqqJTCn04P1cy"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
+        "name": "En el fondo del mar",
+        "url": "https://open.spotify.com/album/2le5rS0useInfiwUH6D0en"
+      },
+      "artists": [
+        {
+          "name": "Pipi Piazzolla Trio",
+          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
+        }
+      ],
+      "duration_ms": 367797,
+      "name": "En el fondo del mar",
+      "url": "https://open.spotify.com/track/3Fuh1jFj6vYFgAlNzCAT52"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
         "name": "El Drag\u00f3n Blanco",
         "url": "https://open.spotify.com/album/0F2TCMAdxijKLlbUWFbIzF"
       },
@@ -1211,6 +1227,30 @@
       "duration_ms": 286373,
       "name": "Titi",
       "url": "https://open.spotify.com/track/42asnYtW9jNdlDdMjZqCne"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "Querido Bill : Tributo a Bill Evans",
+        "url": "https://open.spotify.com/album/7hi7JxW5BDVbINzu79QVjQ"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Remus",
+          "url": "https://open.spotify.com/artist/61rgv0cssjbKKpkESSnup3"
+        },
+        {
+          "name": "Manuel Fraga",
+          "url": "https://open.spotify.com/artist/1AR4weKRSJg1NswV2HUjm8"
+        },
+        {
+          "name": "Oscar Giunta",
+          "url": "https://open.spotify.com/artist/26CnXYQlwCWtgIaYpiix6P"
+        }
+      ],
+      "duration_ms": 490280,
+      "name": "Billie's Bounce",
+      "url": "https://open.spotify.com/track/6DF9qquWlMN2bJGeXYOBDc"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -1239,46 +1279,6 @@
       "duration_ms": 232706,
       "name": "9 de Copas",
       "url": "https://open.spotify.com/track/5rWHeoqcCoWfJgvsjuoBDt"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
-        "name": "Viva Jujuy",
-        "url": "https://open.spotify.com/album/7zqBQINQuhtMbgHk7sZ8fm"
-      },
-      "artists": [
-        {
-          "name": "Arturo Puertas",
-          "url": "https://open.spotify.com/artist/68VGzNdHAbP0eDDdmyvNCZ"
-        }
-      ],
-      "duration_ms": 403600,
-      "name": "Tour de Force",
-      "url": "https://open.spotify.com/track/2foU99quuAqqJTCn04P1cy"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
-        "name": "Querido Bill : Tributo a Bill Evans",
-        "url": "https://open.spotify.com/album/7hi7JxW5BDVbINzu79QVjQ"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Remus",
-          "url": "https://open.spotify.com/artist/61rgv0cssjbKKpkESSnup3"
-        },
-        {
-          "name": "Manuel Fraga",
-          "url": "https://open.spotify.com/artist/1AR4weKRSJg1NswV2HUjm8"
-        },
-        {
-          "name": "Oscar Giunta",
-          "url": "https://open.spotify.com/artist/26CnXYQlwCWtgIaYpiix6P"
-        }
-      ],
-      "duration_ms": 490280,
-      "name": "Billie's Bounce",
-      "url": "https://open.spotify.com/track/6DF9qquWlMN2bJGeXYOBDc"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -1315,6 +1315,26 @@
       "duration_ms": 280801,
       "name": "Infinite Universe",
       "url": "https://open.spotify.com/track/3vJbdayj0bmi5x0CVEfBzN"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "Here\u00b4s That Rainy Day",
+        "url": "https://open.spotify.com/album/69zOrvALBeCvCfnjyHfdxb"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Musso",
+          "url": "https://open.spotify.com/artist/4OyrnRvPB0hgGlAE0LGr0i"
+        },
+        {
+          "name": "Jose Reinoso",
+          "url": "https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ"
+        }
+      ],
+      "duration_ms": 192615,
+      "name": "Here\u00b4s That Rainy Day",
+      "url": "https://open.spotify.com/track/3L9OGdoMZxnJuRiYHuNRRc"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1375,26 +1395,6 @@
       "duration_ms": 362066,
       "name": "Do\u00f1a Cha Cha",
       "url": "https://open.spotify.com/track/6Mee3B457bmUf93LIbhsNZ"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
-        "name": "Here\u00b4s That Rainy Day",
-        "url": "https://open.spotify.com/album/69zOrvALBeCvCfnjyHfdxb"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Musso",
-          "url": "https://open.spotify.com/artist/4OyrnRvPB0hgGlAE0LGr0i"
-        },
-        {
-          "name": "Jose Reinoso",
-          "url": "https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ"
-        }
-      ],
-      "duration_ms": 192615,
-      "name": "Here\u00b4s That Rainy Day",
-      "url": "https://open.spotify.com/track/3L9OGdoMZxnJuRiYHuNRRc"
     },
     {
       "added_at": "2023-12-08 00:22:41",

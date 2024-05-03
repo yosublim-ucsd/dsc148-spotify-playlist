@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 419245,
+  "2024-05-03": 419332,
   "date_first_scraped": "2024-01-30",
   "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e1f\u0e31\u0e07\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e19\u0e35\u0e49\u0e40\u0e25\u0e22! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Billkin",
   "name": "\u0e09\u0e31\u0e19\u0e1f\u0e31\u0e07\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22",
@@ -392,6 +392,24 @@
     },
     {
       "album": {
+        "name": "\u0e08\u0e32\u0e07\u0e2b\u0e32\u0e22",
+        "url": "https://open.spotify.com/album/1hYPmPnr57DaLd8M9bzRSQ"
+      },
+      "artists": [
+        {
+          "name": "Goy Arachaporn",
+          "url": "https://open.spotify.com/artist/08i92Xw2ejoxy4D1agyMPC"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212814,
+      "name": "\u0e08\u0e32\u0e07\u0e2b\u0e32\u0e22",
+      "url": "https://open.spotify.com/track/6pTSm2Sw6fEEO4iKfOJqTL"
+    },
+    {
+      "album": {
         "name": "\u0e08\u0e33\u0e19\u0e19 (White Flag)",
         "url": "https://open.spotify.com/album/7hxZ6ENhTfRAqYTAIO5DYH"
       },
@@ -719,7 +737,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 241470,
       "name": "\u0e1f\u0e49\u0e32\u0e23\u0e31\u0e01\u0e1e\u0e48\u0e2d (DILF)",
       "url": "https://open.spotify.com/track/45eQSbdATZGC5lowyWUbfH"

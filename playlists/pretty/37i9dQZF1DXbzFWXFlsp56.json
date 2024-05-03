@@ -1,13 +1,61 @@
 {
-  "description": "Descubre los nuevos talentos de Colombia, Ecuador, Venezuela y Per\u00fa. Foto: Loyal Lobos.",
-  "num_followers": 16565,
+  "description": "Descubre los nuevos talentos de Colombia, Ecuador, Venezuela y Per\u00fa. Foto: Joaquina.",
+  "num_followers": 16567,
   "original_name": "RADAR Andinos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZWCypAAAAAD1HDvaQo0s61aG49Lx1Am6",
+  "snapshot_id": "ZjOrHAAAAABDeljNe0Qxdfrgn/77aowH",
   "tracks": [
+    {
+      "added_at": "2024-05-02 15:02:52",
+      "album": {
+        "name": "escapar de m\u00ed",
+        "url": "https://open.spotify.com/album/69BRUrFVqghDTidsWugUL1"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 228533,
+      "name": "escapar de m\u00ed",
+      "url": "https://open.spotify.com/track/6OdGNXcMemuWdEJIuIoQQV"
+    },
+    {
+      "added_at": "2024-05-02 15:02:52",
+      "album": {
+        "name": "Triste (Arial 1)",
+        "url": "https://open.spotify.com/album/3RpmmLtJqDqlN9aj9eGHGu"
+      },
+      "artists": [
+        {
+          "name": "Susana Cala",
+          "url": "https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB"
+        }
+      ],
+      "duration_ms": 177727,
+      "name": "Triste (Arial 1)",
+      "url": "https://open.spotify.com/track/3o4dprEKDc6xoS7YZbycUu"
+    },
+    {
+      "added_at": "2024-05-02 15:02:52",
+      "album": {
+        "name": "21 de septiembre",
+        "url": "https://open.spotify.com/album/3a1GwfJPTWJjSwh4KwxTko"
+      },
+      "artists": [
+        {
+          "name": "Greccia",
+          "url": "https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K"
+        }
+      ],
+      "duration_ms": 127594,
+      "name": "21 de septiembre",
+      "url": "https://open.spotify.com/track/6oTDC7wBYS5pURSQEMEcBz"
+    },
     {
       "added_at": "2023-11-24 14:26:44",
       "album": {
@@ -763,22 +811,6 @@
     {
       "added_at": "2023-11-24 14:26:44",
       "album": {
-        "name": "ALMORZARTE",
-        "url": "https://open.spotify.com/album/1JmCEUqTUCKbQdpOCQZSXR"
-      },
-      "artists": [
-        {
-          "name": "Dawer X Damper",
-          "url": "https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY"
-        }
-      ],
-      "duration_ms": 161592,
-      "name": "ALMORZARTE",
-      "url": "https://open.spotify.com/track/5gQVkXuT4CerW7XxgtinC9"
-    },
-    {
-      "added_at": "2023-11-24 14:26:44",
-      "album": {
         "name": "A la Carta",
         "url": "https://open.spotify.com/album/7MOj5xWZV82U7TvBTW5kqH"
       },
@@ -883,26 +915,6 @@
     {
       "added_at": "2023-11-24 14:26:44",
       "album": {
-        "name": "Yo-Po-No-Po Prieto Riddiman Remixes",
-        "url": "https://open.spotify.com/album/0PwQraZWaO5BkmJ5SsRshr"
-      },
-      "artists": [
-        {
-          "name": "Semblanzas del Rio Guapi",
-          "url": "https://open.spotify.com/artist/5z2De8UDjNsituyyJOXh8H"
-        },
-        {
-          "name": "Prieto Riddiman",
-          "url": "https://open.spotify.com/artist/25y4BwAI7JVq6UFvMuYjrD"
-        }
-      ],
-      "duration_ms": 214738,
-      "name": "Yo-Po-No-Po, Versi\u00f3n 1 - Prieto Riddiman Remix",
-      "url": "https://open.spotify.com/track/1T4rUon9lBzvZWGzhlKP6t"
-    },
-    {
-      "added_at": "2023-11-24 14:26:44",
-      "album": {
         "name": "acts of rebellion",
         "url": "https://open.spotify.com/album/6PhhsnbohAEOXBdqsURBeh"
       },
@@ -935,26 +947,6 @@
       "duration_ms": 311554,
       "name": "Los Guasang\u00fa - (Cerrero Remix)",
       "url": "https://open.spotify.com/track/5Cc7P1f3WRSFFP6iBencng"
-    },
-    {
-      "added_at": "2023-11-24 14:26:44",
-      "album": {
-        "name": "Mirando al cielo",
-        "url": "https://open.spotify.com/album/4bKbHme7qn0tV1UW9MnRGn"
-      },
-      "artists": [
-        {
-          "name": "A.C.O",
-          "url": "https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO"
-        },
-        {
-          "name": "Matias Juarez",
-          "url": "https://open.spotify.com/artist/0DTBJHXaPCzSHR5aa0ezZf"
-        }
-      ],
-      "duration_ms": 210762,
-      "name": "Cada vez que",
-      "url": "https://open.spotify.com/track/7fSRmuhqJBkHL0DmjS13Ks"
     }
   ],
   "unique_name": "RADAR Andinos",

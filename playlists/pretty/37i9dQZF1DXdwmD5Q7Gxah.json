@@ -1,13 +1,61 @@
 {
-  "description": "guarantee you'll find a new song to listen to on repeat. cover: chappell roan",
-  "num_followers": 1144600,
+  "description": "songs that linger \ud83d\ude0e ft royel otis",
+  "num_followers": 1144989,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjJaaQAAAACVr+HjkppkO1i6YAmhmuak",
+  "snapshot_id": "ZjRhQAAAAAAWUhh4LzL22nRATVZAqL9/",
   "tracks": [
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "If Only + No One Noticed",
+        "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 236906,
+      "name": "No One Noticed",
+      "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "14 minutes",
+        "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 161608,
+      "name": "hi grace",
+      "url": "https://open.spotify.com/track/0zikWa6k06uycAkRB8CsXA"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "PRATTS & PAIN",
+        "url": "https://open.spotify.com/album/2cNAVNktNuv4fzSLJCuoDE"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 188133,
+      "name": "Merry Mary Marry Me",
+      "url": "https://open.spotify.com/track/46eFhc076SX9jsJZ23tMjN"
+    },
     {
       "added_at": "2024-04-16 17:45:28",
       "album": {
@@ -41,6 +89,58 @@
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "empathogen",
+        "url": "https://open.spotify.com/album/5jsfwcWxZIPtF5aaWx0mlL"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 188680,
+      "name": "run!",
+      "url": "https://open.spotify.com/track/7oqUxlU0mEv4fGt1CZ727y"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Romanticism",
+        "url": "https://open.spotify.com/album/6I7Al2K8HxKvyJcook1ZR8"
+      },
+      "artists": [
+        {
+          "name": "Hana Vu",
+          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
+        }
+      ],
+      "duration_ms": 163690,
+      "name": "Play",
+      "url": "https://open.spotify.com/track/73r6LsYOKVfRvbIJsnf284"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "BUG",
+        "url": "https://open.spotify.com/album/6pKthF8DGDBBhypcxAPGDo"
+      },
+      "artists": [
+        {
+          "name": "Kacy Hill",
+          "url": "https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK"
+        },
+        {
+          "name": "Nourished by Time",
+          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
+        }
+      ],
+      "duration_ms": 182426,
+      "name": "My Day Off",
+      "url": "https://open.spotify.com/track/6GUv3PAHoR1IVoonUmiSFi"
+    },
+    {
       "added_at": "2024-05-01 15:06:17",
       "album": {
         "name": "Bad Dream",
@@ -71,6 +171,22 @@
       "duration_ms": 155151,
       "name": "MILLION DOLLAR BABY",
       "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "14 minutes",
+        "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 116333,
+      "name": "bowie box",
+      "url": "https://open.spotify.com/track/449aAnrkYHyFP3vD8B5Pho"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -141,6 +257,22 @@
       "url": "https://open.spotify.com/track/6TeJroHNM4rXP4GluTvKXV"
     },
     {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Fuck",
+        "url": "https://open.spotify.com/album/02ylSbd0v7NbYrD2LqmXIE"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 164034,
+      "name": "Fuck",
+      "url": "https://open.spotify.com/track/1kFEvhWfwYP5Ct75HuETBv"
+    },
+    {
       "added_at": "2024-04-30 19:16:14",
       "album": {
         "name": "Within and Without",
@@ -173,20 +305,20 @@
       "url": "https://open.spotify.com/track/3y3JcY50HJob6QfkGz66ti"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Coyote, You're My Star",
-        "url": "https://open.spotify.com/album/61wuHnPthO5vApg52y9n30"
+        "name": "Can't Be Still",
+        "url": "https://open.spotify.com/album/1x8CYRugVpcyD4JEeJtRa0"
       },
       "artists": [
         {
-          "name": "Dana and Alden",
-          "url": "https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr"
+          "name": "illuminati hotties",
+          "url": "https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O"
         }
       ],
-      "duration_ms": 125867,
-      "name": "Coyote, You're My Star",
-      "url": "https://open.spotify.com/track/2tZ4GQajl2yetk2EA8SvMW"
+      "duration_ms": 178362,
+      "name": "Can't Be Still",
+      "url": "https://open.spotify.com/track/38aNl1TpX3wSrl0yqBhvOX"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -203,6 +335,22 @@
       "duration_ms": 338760,
       "name": "Skin Parade / Fade Into You - Live At Narcissus",
       "url": "https://open.spotify.com/track/2FsPY6AAXMDqU9EsN8Gs0t"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "girl with a problem",
+        "url": "https://open.spotify.com/album/47eQy5ZfIwvTxS7t5B9aFp"
+      },
+      "artists": [
+        {
+          "name": "Amy Allen",
+          "url": "https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x"
+        }
+      ],
+      "duration_ms": 171518,
+      "name": "girl with a problem",
+      "url": "https://open.spotify.com/track/3XftKOFKKZKMt36MKV7fH4"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -237,6 +385,54 @@
       "url": "https://open.spotify.com/track/3pf3hHjBJP6E4zAaSDrl8r"
     },
     {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "What A Devastating Turn of Events",
+        "url": "https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 224234,
+      "name": "Robbed",
+      "url": "https://open.spotify.com/track/6xft4ovLvZ3gqNJdSlq7AF"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Coyote, You're My Star",
+        "url": "https://open.spotify.com/album/61wuHnPthO5vApg52y9n30"
+      },
+      "artists": [
+        {
+          "name": "Dana and Alden",
+          "url": "https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr"
+        }
+      ],
+      "duration_ms": 125867,
+      "name": "Coyote, You're My Star",
+      "url": "https://open.spotify.com/track/2tZ4GQajl2yetk2EA8SvMW"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "projections",
+        "url": "https://open.spotify.com/album/4DNu93MzQ2528TXBVJ0zEt"
+      },
+      "artists": [
+        {
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+        }
+      ],
+      "duration_ms": 260484,
+      "name": "projections",
+      "url": "https://open.spotify.com/track/0ler9C55DJbLJsgJprlFis"
+    },
+    {
       "added_at": "2024-04-12 04:00:00",
       "album": {
         "name": "What You Won't Do for Love",
@@ -253,20 +449,36 @@
       "url": "https://open.spotify.com/track/5Nr2cbWCipKDW3zPe63g7h"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Hammer",
-        "url": "https://open.spotify.com/album/0PwrCiCW0SetmMMx1Uf1ap"
+        "name": "Somebody Else",
+        "url": "https://open.spotify.com/album/2f0EYXEOVj2PYJcWK6XmsS"
       },
       "artists": [
         {
-          "name": "Hana Vu",
-          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
+          "name": "Luby Sparks",
+          "url": "https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq"
         }
       ],
-      "duration_ms": 219498,
-      "name": "Hammer",
-      "url": "https://open.spotify.com/track/6Krb3n3QGEubvJjIEMs4Rq"
+      "duration_ms": 276077,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/6vo7lsIDO64i9a4wgh5TbC"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Virtual Hug",
+        "url": "https://open.spotify.com/album/67UEZte3h6JEZ6d4BmEgiT"
+      },
+      "artists": [
+        {
+          "name": "Bloomsday",
+          "url": "https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI"
+        }
+      ],
+      "duration_ms": 189829,
+      "name": "Virtual Hug",
+      "url": "https://open.spotify.com/track/4eSsPJbJQ5hLYjg90FiRCD"
     },
     {
       "added_at": "2024-04-30 19:25:28",
@@ -317,6 +529,38 @@
       "url": "https://open.spotify.com/track/6NgvAmrhjUENGdtVQnBHx8"
     },
     {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Psychic Chasms",
+        "url": "https://open.spotify.com/album/3dQDaXtGZdiCU8M0l85KZF"
+      },
+      "artists": [
+        {
+          "name": "Neon Indian",
+          "url": "https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er"
+        }
+      ],
+      "duration_ms": 242706,
+      "name": "Deadbeat Summer",
+      "url": "https://open.spotify.com/track/6wSLEvYkwVsVJqB9WkxYKs"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Happy World",
+        "url": "https://open.spotify.com/album/6fFP8CR3WRLZxwnrvBfGTh"
+      },
+      "artists": [
+        {
+          "name": "Debbii Dawson",
+          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
+        }
+      ],
+      "duration_ms": 179993,
+      "name": "Happy World",
+      "url": "https://open.spotify.com/track/0kY86R5mW1Js0jymCs8Wfp"
+    },
+    {
       "added_at": "2024-04-16 16:09:41",
       "album": {
         "name": "Hanging By A Moment",
@@ -349,6 +593,38 @@
       "url": "https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw"
     },
     {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "So My Darling (Acoustic)",
+        "url": "https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 228922,
+      "name": "So My Darling - Acoustic",
+      "url": "https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Hammer",
+        "url": "https://open.spotify.com/album/0PwrCiCW0SetmMMx1Uf1ap"
+      },
+      "artists": [
+        {
+          "name": "Hana Vu",
+          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
+        }
+      ],
+      "duration_ms": 219498,
+      "name": "Hammer",
+      "url": "https://open.spotify.com/track/6Krb3n3QGEubvJjIEMs4Rq"
+    },
+    {
       "added_at": "2024-04-26 04:00:00",
       "album": {
         "name": "Fortune Eyes",
@@ -379,22 +655,6 @@
       "duration_ms": 200624,
       "name": "Angel Blessings",
       "url": "https://open.spotify.com/track/2GMa39HCjyvuiYYFfipifp"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Happy World",
-        "url": "https://open.spotify.com/album/6fFP8CR3WRLZxwnrvBfGTh"
-      },
-      "artists": [
-        {
-          "name": "Debbii Dawson",
-          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
-        }
-      ],
-      "duration_ms": 179993,
-      "name": "Happy World",
-      "url": "https://open.spotify.com/track/0kY86R5mW1Js0jymCs8Wfp"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1109,22 +1369,6 @@
       "url": "https://open.spotify.com/track/7aX39T4YHNZ03NAmjc3DLr"
     },
     {
-      "added_at": "2024-02-27 16:13:53",
-      "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/1ZaigXPBR3ve70vpWaP1jB"
-      },
-      "artists": [
-        {
-          "name": "Freak Slug",
-          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
-        }
-      ],
-      "duration_ms": 191527,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/1gyIYA98zceKTnjISviYRz"
-    },
-    {
       "added_at": "2024-02-21 05:00:00",
       "album": {
         "name": "Me Before You",
@@ -1139,22 +1383,6 @@
       "duration_ms": 203519,
       "name": "Me Before You",
       "url": "https://open.spotify.com/track/0ap1L5LS0igd0zs4erqmT3"
-    },
-    {
-      "added_at": "2023-08-28 22:25:59",
-      "album": {
-        "name": "Weird",
-        "url": "https://open.spotify.com/album/7n95zSWEhljBwhZnbteffk"
-      },
-      "artists": [
-        {
-          "name": "Hana Eid",
-          "url": "https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr"
-        }
-      ],
-      "duration_ms": 216234,
-      "name": "Weird",
-      "url": "https://open.spotify.com/track/6fDLQn0vtJR94V55oBANZC"
     },
     {
       "added_at": "2024-03-05 14:46:52",
@@ -1271,22 +1499,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/5SuaQiCSKcNR2qcbDZyJem"
-      },
-      "artists": [
-        {
-          "name": "Yot Club",
-          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
-        }
-      ],
-      "duration_ms": 158666,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/3mYrfAIQK0DgyYutDVEFGS"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Underdressed at the Symphony",
         "url": "https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny"
       },
@@ -1385,22 +1597,6 @@
       "url": "https://open.spotify.com/track/0Coai3QxvjCXWMhVN1hpgE"
     },
     {
-      "added_at": "2024-02-28 18:28:25",
-      "album": {
-        "name": "gin and wine (ginuwine)",
-        "url": "https://open.spotify.com/album/3JwhKO0Pw10XKRlgFC9PL0"
-      },
-      "artists": [
-        {
-          "name": "tg.blk",
-          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
-        }
-      ],
-      "duration_ms": 129473,
-      "name": "gin and wine (ginuwine)",
-      "url": "https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI"
-    },
-    {
       "added_at": "2024-03-01 18:10:47",
       "album": {
         "name": "mud on my superstars",
@@ -1451,26 +1647,6 @@
       "duration_ms": 120314,
       "name": "i don't really feel it anymore",
       "url": "https://open.spotify.com/track/64BVFo2bwfmgrQOSH32Inl"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "SOLAR SONATAS VOL. 1",
-        "url": "https://open.spotify.com/album/6nDRwKGZzAd3uWI491uIWQ"
-      },
-      "artists": [
-        {
-          "name": "Dreamer Isioma",
-          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
-        },
-        {
-          "name": "The Celestials!",
-          "url": "https://open.spotify.com/artist/6vswLoimdBvn5uUap6Bmb9"
-        }
-      ],
-      "duration_ms": 273604,
-      "name": "Obsessed",
-      "url": "https://open.spotify.com/track/5bh6cGE3I3npgmQ835rcN9"
     },
     {
       "added_at": "2024-01-12 03:47:20",

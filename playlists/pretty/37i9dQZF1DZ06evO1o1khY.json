@@ -1,12 +1,12 @@
 {
-  "description": "This is GloRilla. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 14293,
+  "description": "This is GloRilla. The essential tracks, all in one playlist.",
+  "num_followers": 14327,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjA0gAAAAADzxLTBeSv+jOTQD9hx+EOf",
+  "snapshot_id": "ZjGGAAAAAAD5J1EV+/COmfDZZ6nWyero",
   "tracks": [
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 126315,
-      "name": "Opp Shit",
-      "url": "https://open.spotify.com/track/2lynIxLBNW2SrBeDOVpxyB"
+      "duration_ms": 179200,
+      "name": "No Bih",
+      "url": "https://open.spotify.com/track/3WnxnjGIwQ7rJ7igCOu93l"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 179200,
-      "name": "No Bih",
-      "url": "https://open.spotify.com/track/3WnxnjGIwQ7rJ7igCOu93l"
+      "duration_ms": 126315,
+      "name": "Opp Shit",
+      "url": "https://open.spotify.com/track/2lynIxLBNW2SrBeDOVpxyB"
     },
     {
       "added_at": null,
@@ -479,22 +479,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "CRUNKSTAR",
-        "url": "https://open.spotify.com/album/6DRGmsZ3SeLptqU9aFEUQV"
+        "name": "Anyways, Life\u2019s Great\u2026Bonus Edition",
+        "url": "https://open.spotify.com/album/2IzitJYy4iVenjF1odSFnf"
       },
       "artists": [
-        {
-          "name": "Duke Deuce",
-          "url": "https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW"
-        },
         {
           "name": "GloRilla",
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 215722,
-      "name": "JUST SAY THAT (feat. GLORILLA)",
-      "url": "https://open.spotify.com/track/1GumJnMqknYzRT9pyGOU7Z"
+      "duration_ms": 152759,
+      "name": "Don't Know (GloRidaz Bonus)",
+      "url": "https://open.spotify.com/track/0GBGLP9DxzTzbaeYzGjW48"
     },
     {
       "added_at": null,
@@ -515,18 +511,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anyways, Life\u2019s Great\u2026Bonus Edition",
-        "url": "https://open.spotify.com/album/2IzitJYy4iVenjF1odSFnf"
+        "name": "CRUNKSTAR",
+        "url": "https://open.spotify.com/album/6DRGmsZ3SeLptqU9aFEUQV"
       },
       "artists": [
+        {
+          "name": "Duke Deuce",
+          "url": "https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW"
+        },
         {
           "name": "GloRilla",
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 152759,
-      "name": "Don't Know (GloRidaz Bonus)",
-      "url": "https://open.spotify.com/track/0GBGLP9DxzTzbaeYzGjW48"
+      "duration_ms": 215722,
+      "name": "JUST SAY THAT (feat. GLORILLA)",
+      "url": "https://open.spotify.com/track/1GumJnMqknYzRT9pyGOU7Z"
     },
     {
       "added_at": null,

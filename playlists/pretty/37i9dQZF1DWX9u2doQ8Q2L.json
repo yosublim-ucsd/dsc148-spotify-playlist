@@ -1,6 +1,6 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 386793,
+  "num_followers": 386797,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-05-01 08:22:00",
       "album": {
-        "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
-        "url": "https://open.spotify.com/album/5sHVrMHdMBPBTkQtq3ka4V"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 272036,
-      "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
-      "url": "https://open.spotify.com/track/2ALfxGK9zPIkTvJbCjkSeI"
-    },
-    {
-      "added_at": "2024-05-01 08:22:00",
-      "album": {
         "name": "\u4eba\u9593\u3068\u3057\u3066",
         "url": "https://open.spotify.com/album/4MsdAUFUgoGUJIb6r2fY2V"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 194000,
       "name": "\u4eba\u9593\u3068\u3057\u3066",
       "url": "https://open.spotify.com/track/7y2hvKgupK5xKLBDJs4rIQ"
+    },
+    {
+      "added_at": "2024-05-01 08:22:00",
+      "album": {
+        "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
+        "url": "https://open.spotify.com/album/5sHVrMHdMBPBTkQtq3ka4V"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 272036,
+      "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
+      "url": "https://open.spotify.com/track/2ALfxGK9zPIkTvJbCjkSeI"
     },
     {
       "added_at": "2024-05-01 08:22:00",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2024-05-01 08:22:00",
       "album": {
-        "name": "EVERGREEN",
-        "url": "https://open.spotify.com/album/1FsSbVECGxs7ZYr5dA0Qa6"
-      },
-      "artists": [
-        {
-          "name": "Yojiro Noda",
-          "url": "https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY"
-        },
-        {
-          "name": "kZm",
-          "url": "https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4"
-        }
-      ],
-      "duration_ms": 228980,
-      "name": "EVERGREEN",
-      "url": "https://open.spotify.com/track/4tyrUfKPjXH7RZxAUH70uQ"
-    },
-    {
-      "added_at": "2024-05-01 08:22:00",
-      "album": {
         "name": "Osanpo (Remix)",
         "url": "https://open.spotify.com/album/25nRq5WP5RSRhGWs3LGaMC"
       },
@@ -1131,6 +1111,22 @@
     {
       "added_at": "2024-05-01 08:22:00",
       "album": {
+        "name": "L7 Blues",
+        "url": "https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "duration_ms": 141974,
+      "name": "L7 Blues",
+      "url": "https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR"
+    },
+    {
+      "added_at": "2024-05-01 08:22:00",
+      "album": {
         "name": "fake face dance music (night drive remix)",
         "url": "https://open.spotify.com/album/4z1ACaaeLSMwfQClzKW3YA"
       },
@@ -1151,18 +1147,22 @@
     {
       "added_at": "2024-05-01 08:22:00",
       "album": {
-        "name": "L7 Blues",
-        "url": "https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg"
+        "name": "EVERGREEN",
+        "url": "https://open.spotify.com/album/1FsSbVECGxs7ZYr5dA0Qa6"
       },
       "artists": [
         {
-          "name": "LANA",
-          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+          "name": "Yojiro Noda",
+          "url": "https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY"
+        },
+        {
+          "name": "kZm",
+          "url": "https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4"
         }
       ],
-      "duration_ms": 141974,
-      "name": "L7 Blues",
-      "url": "https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR"
+      "duration_ms": 228980,
+      "name": "EVERGREEN",
+      "url": "https://open.spotify.com/track/4tyrUfKPjXH7RZxAUH70uQ"
     },
     {
       "added_at": "2024-05-01 08:22:00",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2024-05-01 08:22:00",
       "album": {
+        "name": "Sesame",
+        "url": "https://open.spotify.com/album/0N9P2qMUSX7GxdNiPkIehH"
+      },
+      "artists": [
+        {
+          "name": "Kroi",
+          "url": "https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa"
+        }
+      ],
+      "duration_ms": 212306,
+      "name": "Sesame",
+      "url": "https://open.spotify.com/track/1DuTUxS7cBQf2ypQipYhfM"
+    },
+    {
+      "added_at": "2024-05-01 08:22:00",
+      "album": {
         "name": "JUNK TAPE",
         "url": "https://open.spotify.com/album/7nMD0ld7LG08JbYfUaZOqc"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 144230,
       "name": "Osanpo",
       "url": "https://open.spotify.com/track/17UmnvE8U4bOEgyP8ERpE0"
-    },
-    {
-      "added_at": "2024-05-01 08:22:00",
-      "album": {
-        "name": "Sesame",
-        "url": "https://open.spotify.com/album/0N9P2qMUSX7GxdNiPkIehH"
-      },
-      "artists": [
-        {
-          "name": "Kroi",
-          "url": "https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa"
-        }
-      ],
-      "duration_ms": 212306,
-      "name": "Sesame",
-      "url": "https://open.spotify.com/track/1DuTUxS7cBQf2ypQipYhfM"
     },
     {
       "added_at": "2024-05-01 08:22:00",
@@ -1515,22 +1515,18 @@
     {
       "added_at": "2024-05-01 08:22:00",
       "album": {
-        "name": "Kids Return",
-        "url": "https://open.spotify.com/album/3sG9iKn22dJKaTX2ZohHmf"
+        "name": "\u5e73\u5b89",
+        "url": "https://open.spotify.com/album/3uuNRFtMmxz5Z1yuKb2XZw"
       },
       "artists": [
         {
-          "name": "JJJ",
-          "url": "https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR"
-        },
-        {
-          "name": "DJ SCRATCH NICE",
-          "url": "https://open.spotify.com/artist/0MfeTyPtbuue9oZFIMD2wY"
+          "name": "go!go!vanillas",
+          "url": "https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm"
         }
       ],
-      "duration_ms": 193279,
-      "name": "Kids Return",
-      "url": "https://open.spotify.com/track/3JNBBQwg73CyGP1kbtkhZI"
+      "duration_ms": 189786,
+      "name": "\u5e73\u5b89",
+      "url": "https://open.spotify.com/track/4OpE0RXET72v9D2oLRDIbw"
     },
     {
       "added_at": "2024-05-01 08:22:00",
@@ -1555,50 +1551,22 @@
     {
       "added_at": "2024-05-01 08:22:00",
       "album": {
-        "name": "OKACHIMACHI FRIDAY NIGHT",
-        "url": "https://open.spotify.com/album/7oMz6bjlX6lPjG9iS5uV5y"
+        "name": "Kids Return",
+        "url": "https://open.spotify.com/album/3sG9iKn22dJKaTX2ZohHmf"
       },
       "artists": [
         {
-          "name": "First Love is Never Returned",
-          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
-        }
-      ],
-      "duration_ms": 198088,
-      "name": "OKACHIMACHI FRIDAY NIGHT",
-      "url": "https://open.spotify.com/track/2VQfT6y27CKMKl4ij5VoQH"
-    },
-    {
-      "added_at": "2024-05-01 08:22:00",
-      "album": {
-        "name": "\u5e73\u5b89",
-        "url": "https://open.spotify.com/album/3uuNRFtMmxz5Z1yuKb2XZw"
-      },
-      "artists": [
+          "name": "JJJ",
+          "url": "https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR"
+        },
         {
-          "name": "go!go!vanillas",
-          "url": "https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm"
+          "name": "DJ SCRATCH NICE",
+          "url": "https://open.spotify.com/artist/0MfeTyPtbuue9oZFIMD2wY"
         }
       ],
-      "duration_ms": 189786,
-      "name": "\u5e73\u5b89",
-      "url": "https://open.spotify.com/track/4OpE0RXET72v9D2oLRDIbw"
-    },
-    {
-      "added_at": "2024-05-01 08:22:00",
-      "album": {
-        "name": "\u30e9\u30f3\u30bf\u30f3",
-        "url": "https://open.spotify.com/album/0SW1ThYU7yZwF0FQi4u7qe"
-      },
-      "artists": [
-        {
-          "name": "jo0ji",
-          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
-        }
-      ],
-      "duration_ms": 206133,
-      "name": "\u30e9\u30f3\u30bf\u30f3",
-      "url": "https://open.spotify.com/track/4osMB4WygimYX7kKCx8OxU"
+      "duration_ms": 193279,
+      "name": "Kids Return",
+      "url": "https://open.spotify.com/track/3JNBBQwg73CyGP1kbtkhZI"
     },
     {
       "added_at": "2024-05-01 08:22:00",
@@ -1619,6 +1587,38 @@
       "duration_ms": 173506,
       "name": "\u3076\u304e\u30fb\u3070\u304f\u30fb\u3079\u3044\u3073\u30fc",
       "url": "https://open.spotify.com/track/3HVY8hWXikwYvPnNDxRE5z"
+    },
+    {
+      "added_at": "2024-05-01 08:22:00",
+      "album": {
+        "name": "OKACHIMACHI FRIDAY NIGHT",
+        "url": "https://open.spotify.com/album/7oMz6bjlX6lPjG9iS5uV5y"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "duration_ms": 198088,
+      "name": "OKACHIMACHI FRIDAY NIGHT",
+      "url": "https://open.spotify.com/track/2VQfT6y27CKMKl4ij5VoQH"
+    },
+    {
+      "added_at": "2024-05-01 08:22:00",
+      "album": {
+        "name": "\u30e9\u30f3\u30bf\u30f3",
+        "url": "https://open.spotify.com/album/0SW1ThYU7yZwF0FQi4u7qe"
+      },
+      "artists": [
+        {
+          "name": "jo0ji",
+          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
+        }
+      ],
+      "duration_ms": 206133,
+      "name": "\u30e9\u30f3\u30bf\u30f3",
+      "url": "https://open.spotify.com/track/4osMB4WygimYX7kKCx8OxU"
     },
     {
       "added_at": "2024-05-01 08:22:00",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2024-05-01 08:22:00",
       "album": {
-        "name": "475",
-        "url": "https://open.spotify.com/album/2wQuSgcO8nbUhdfXQpd6Rn"
-      },
-      "artists": [
-        {
-          "name": "jo0ji",
-          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
-        }
-      ],
-      "duration_ms": 197942,
-      "name": "\u4e0d\u5c48\u306b\u82b1",
-      "url": "https://open.spotify.com/track/0YN5Tb3ui1yon2qSqDR4VM"
-    },
-    {
-      "added_at": "2024-05-01 08:22:00",
-      "album": {
         "name": "bugs",
         "url": "https://open.spotify.com/album/4ARUfp2z7XyXChD9fUVdR7"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 239320,
       "name": "bugs",
       "url": "https://open.spotify.com/track/7dWR8gcf2kS2iQJB0NNV7v"
+    },
+    {
+      "added_at": "2024-05-01 08:22:00",
+      "album": {
+        "name": "475",
+        "url": "https://open.spotify.com/album/2wQuSgcO8nbUhdfXQpd6Rn"
+      },
+      "artists": [
+        {
+          "name": "jo0ji",
+          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
+        }
+      ],
+      "duration_ms": 197942,
+      "name": "\u4e0d\u5c48\u306b\u82b1",
+      "url": "https://open.spotify.com/track/0YN5Tb3ui1yon2qSqDR4VM"
     }
   ],
   "unique_name": "Tokyo Rising",

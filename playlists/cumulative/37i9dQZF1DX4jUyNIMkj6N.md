@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-282 songs - 17 hr 21 min
+284 songs - 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Here Comes The Sun](https://open.spotify.com/track/3qDlYd3hhaWo1xg6AgbzhQ) | [Hush Forever](https://open.spotify.com/artist/5MIIeE6xoDQNqwSMTweWlv) | [Here Comes The Sun](https://open.spotify.com/album/1Uqnmck9tbT6OSQMrW5Stw) | 3:12 | 2023-12-21 |  |
 | [Hindsight](https://open.spotify.com/track/1oNhUK7wYAITgmDiAFoKYZ) | [Hafdís Huld](https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5) | [Hindsight](https://open.spotify.com/album/60H5w2fXHEJX2gQjoCCjaQ) | 3:24 | 2024-01-18 | 2024-04-28 |
 | [Holding Hands](https://open.spotify.com/track/4SfqeRYu1yZmEMa0HW1nso) | [Morten Myklebust](https://open.spotify.com/artist/7zFc6IlzgDwyXojYH1GIkI) | [The Sparks Flew Up](https://open.spotify.com/album/5wYo12gI0ZvUSQPCLq2YCm) | 2:33 | 2021-12-02 | 2022-07-17 |
+| [homebound](https://open.spotify.com/track/2390QtVcsiBd50QbKd2s6x) | [SATRE](https://open.spotify.com/artist/0KMIpYnQZYg0rEYMgDd4Hm) | [homebound](https://open.spotify.com/album/2pwEWAxrNUJ9xWqVifLw4C) | 3:24 | 2024-05-02 |  |
 | [Homesick](https://open.spotify.com/track/0WeqauIUZSjsupDGXsXWsP) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Riot On An Empty Street](https://open.spotify.com/album/5QE8eXeN0q8M7atLb1fT6c) | 3:13 | 2021-12-02 | 2023-01-28 |
 | [Homesick](https://open.spotify.com/track/2MTZjX6nfGpXu0tR1AOVou) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Riot On An Empty Street](https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI) | 3:13 | 2023-01-26 | 2024-04-19 |
 | [Honey In The Waves](https://open.spotify.com/track/3tSxWyj3XlLqnMCfpzq8Df) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Honey In The Waves](https://open.spotify.com/album/4mg7SjpIbWdpdysGU1P8bA) | 4:16 | 2024-02-22 |  |
@@ -158,7 +159,7 @@
 | [Love is All](https://open.spotify.com/track/5u9NUat59IiQFVEzZ4r3Np) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [The Wild Hunt](https://open.spotify.com/album/2iZD3ggZbHlAg64cM9iQco) | 4:15 | 2022-07-14 | 2024-04-19 |
 | [Love Me One More Time](https://open.spotify.com/track/4bXsNJgYxshTRZHevGj18v) | [Jonas Wallin](https://open.spotify.com/artist/1nj8AqytomxmHbAtYweL0w) | [Love Me One More Time](https://open.spotify.com/album/2PY0w8l8TivHXSR6qc8LWA) | 3:09 | 2024-01-11 |  |
 | [Love Your Mother](https://open.spotify.com/track/3XKMY7tAFiepGRXI2PVAiA) | [Real Ones](https://open.spotify.com/artist/3GqqLI4qwyKvL4rOxM0Uym) | [Love Your Mother](https://open.spotify.com/album/6MsMR1tPUtwUG3COCAKKZW) | 3:29 | 2022-12-01 | 2023-02-06 |
-| [Magic Stone](https://open.spotify.com/track/1A8uTEGcDuZJDaPWoFb2yt) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Magic Stone](https://open.spotify.com/album/0Tjw2af2Rj2jUJSiAGMUdS) | 3:33 | 2023-06-08 |  |
+| [Magic Stone](https://open.spotify.com/track/1A8uTEGcDuZJDaPWoFb2yt) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Magic Stone](https://open.spotify.com/album/0Tjw2af2Rj2jUJSiAGMUdS) | 3:33 | 2023-06-08 | 2024-05-03 |
 | [Malory](https://open.spotify.com/track/4C5UxFQ0okYz2NGUGWtees) | [Martin Stahl](https://open.spotify.com/artist/7ylfdeeD5JK8el6XcP8z8l) | [Malory](https://open.spotify.com/album/139qxM4hgaUdqp8UuJS3E7) | 2:58 | 2023-07-13 |  |
 | [Meet Me In The Forest](https://open.spotify.com/track/2pV9JcmZBmBB1mSTYfBhac) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Songs From The Woods](https://open.spotify.com/album/3ijVpnglTn2BBI6DTDcHRV) | 6:06 | 2024-01-04 |  |
 | [Modern Drift](https://open.spotify.com/track/2BFL0kBinCKVMCwJolJnKj) | [Efterklang](https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU) | [Magic Chairs](https://open.spotify.com/album/5rHl0fZhid0XgWWwS9amnO) | 4:53 | 2021-12-02 | 2022-07-17 |
@@ -173,7 +174,7 @@
 | [Mycelium](https://open.spotify.com/track/34wOxhxMDdAVxyA1bBS4z6) | [Fia](https://open.spotify.com/artist/0MqfYdygGLnHjhmXc9yDeH) | [Mycelium/Let Her Teach You](https://open.spotify.com/album/6od8EDcM1mUiLrCV6ji0tQ) | 3:17 | 2023-08-24 | 2024-02-29 |
 | [Mørke Skoga \- \(Frøkedal cover\)](https://open.spotify.com/track/27SdYzKPXScjqaxYjjYfKI) | [Tønes](https://open.spotify.com/artist/5A4ovj9I91UgF79mLirtz6) | [Mørke Skoga \(Frøkedal cover\)](https://open.spotify.com/album/7I8jc3ElVRhgVfKFP8LuyE) | 4:11 | 2022-03-24 | 2022-07-29 |
 | [Never Gonna Last \- Radio Edit](https://open.spotify.com/track/3ANGMbmBfuw91UMgCPrrUT) | [Jesper Lindell](https://open.spotify.com/artist/3P9Fc9AmQyNFIu2WJdeWoN) | [Never Gonna Last](https://open.spotify.com/album/09kV21v80qDfWgNBSp92yL) | 3:54 | 2024-02-22 |  |
-| [Never Gonna Walk Away](https://open.spotify.com/track/2rhiLjBezGsTb5eZHlhVYM) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq) | [Never Gonna Walk Away](https://open.spotify.com/album/4K0icHEX4XQf9PAeP5fiXI) | 4:18 | 2024-02-01 |  |
+| [Never Gonna Walk Away](https://open.spotify.com/track/2rhiLjBezGsTb5eZHlhVYM) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq) | [Never Gonna Walk Away](https://open.spotify.com/album/4K0icHEX4XQf9PAeP5fiXI) | 4:18 | 2024-02-01 | 2024-05-03 |
 | [New Beginnings](https://open.spotify.com/track/1lc210kcOJxk4zuxNxkfrh) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Holy Hills](https://open.spotify.com/album/6GHoAg9I0Dbl3VWXYk36qm) | 3:38 | 2023-09-14 | 2023-12-10 |
 | [Norwegian Black Metal](https://open.spotify.com/track/4i7iWfR241IqLTpoHPDtLE) | [Simen Mitlid](https://open.spotify.com/artist/3AE2EXc8hnJxb0AoGf3i2A), [Ea Othilde](https://open.spotify.com/artist/1pwHSyOp1lppPxASOG0J99) | [Norwegian Black Metal](https://open.spotify.com/album/0hA4KCp77KhfgtQImMp9Rb) | 3:05 | 2023-09-28 | 2024-01-16 |
 | [Oak Tree](https://open.spotify.com/track/2RlEWLRTsXedPq1fzc6cO1) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/0dnVXgimdtGncdlHWU5mvS) | 3:00 | 2021-12-02 | 2022-07-27 |
@@ -232,6 +233,7 @@
 | [The Moon and I](https://open.spotify.com/track/0Yy3ZQjbLJh3KTiODERwQ6) | [Dag Erik Oksvold](https://open.spotify.com/artist/4MtZY6vubmc8vgp1JxlMcs) | [The Moon and I](https://open.spotify.com/album/6rimVXalcENj2nTFRcvPZa) | 3:44 | 2023-07-13 | 2023-08-16 |
 | [The Sky is Painted Gray Today](https://open.spotify.com/track/0WOz7oU6zfuUvDzWHmIdMK) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [The Sky is Painted Gray Today](https://open.spotify.com/album/4iEFEhFxzgr7VKpuo4rjUT) | 3:41 | 2022-07-14 | 2023-11-24 |
 | [The Sky Is Painted Gray Today](https://open.spotify.com/track/6IMK8QiJ4ehdOGNGmIXUgA) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [The Sky Is Painted Gray Today](https://open.spotify.com/album/5F89kdB5vCOgwLRydYFnIE) | 3:41 | 2021-12-02 | 2022-07-29 |
+| [The Speed of Life](https://open.spotify.com/track/42opmht9GJpxaxwMh79oQD) | [Malin Pettersen](https://open.spotify.com/artist/3kVhFap6wa2EN5yrMZIupm) | [The Speed of Life](https://open.spotify.com/album/67RgoyC2ZlmnPUUHVzMFly) | 3:21 | 2024-05-02 |  |
 | [The State of the World](https://open.spotify.com/track/4PLfvRsrfbVdMhu1vA8R4N) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [The State of the World](https://open.spotify.com/album/3ljKtIU7yeXyzKehTUsL39) | 4:18 | 2024-03-21 |  |
 | [The Sun of the Island](https://open.spotify.com/track/2FniJxOBwfJdOiTRaW9icP) | [Peter von Poehl](https://open.spotify.com/artist/5KhvKrmpVAYSZBbskHd00W), [Marie Modiano](https://open.spotify.com/artist/2znK4wNHFUwPKYyTJFOj2R) | [The Sun of the Island](https://open.spotify.com/album/7m7G39PZmDAeTAUPXffCdl) | 4:18 | 2024-04-18 |  |
 | [The Sweetest Tune](https://open.spotify.com/track/4vDxQKlCJVfsTdK4g9eA5x) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Vinyl and a Heartache](https://open.spotify.com/album/3ggLoeg7Vv2fx1OoR1Egte) | 3:39 | 2022-08-18 | 2023-05-20 |

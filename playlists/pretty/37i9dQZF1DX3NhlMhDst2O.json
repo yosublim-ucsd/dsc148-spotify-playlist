@@ -1,6 +1,6 @@
 {
   "description": "Porque el romance nunca pasar\u00e1 de moda. ",
-  "num_followers": 78638,
+  "num_followers": 78789,
   "original_name": "Sonidos del Ayer",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-11-06 20:37:56",
       "album": {
-        "name": "El Quinto Trago",
-        "url": "https://open.spotify.com/album/7rhSfLWEv7D9flp4uLF4Du"
-      },
-      "artists": [
-        {
-          "name": "Grupo Bryndis",
-          "url": "https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO"
-        }
-      ],
-      "duration_ms": 258733,
-      "name": "La \u00daltima Canci\u00f3n",
-      "url": "https://open.spotify.com/track/566q4HacJyTGxZefvWVy9t"
-    },
-    {
-      "added_at": "2023-11-06 20:37:56",
-      "album": {
         "name": "Salvaje y Tierno",
         "url": "https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 198040,
       "name": "Total Que M\u00e1s Da",
       "url": "https://open.spotify.com/track/11MzWUaZDnx9byUjJQraAy"
+    },
+    {
+      "added_at": "2023-11-06 20:37:56",
+      "album": {
+        "name": "El Quinto Trago",
+        "url": "https://open.spotify.com/album/7rhSfLWEv7D9flp4uLF4Du"
+      },
+      "artists": [
+        {
+          "name": "Grupo Bryndis",
+          "url": "https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO"
+        }
+      ],
+      "duration_ms": 258733,
+      "name": "La \u00daltima Canci\u00f3n",
+      "url": "https://open.spotify.com/track/566q4HacJyTGxZefvWVy9t"
     },
     {
       "added_at": "2023-11-06 20:37:56",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-11-06 20:37:56",
       "album": {
-        "name": "Serie 32: Yndio",
-        "url": "https://open.spotify.com/album/0O3HWF8wuFCxwci1hC5UhE"
-      },
-      "artists": [
-        {
-          "name": "Yndio",
-          "url": "https://open.spotify.com/artist/1yP1EbAX7oCvKI7j7PxzGg"
-        }
-      ],
-      "duration_ms": 207586,
-      "name": "Dame Un Beso Y Dime Adi\u00f3s",
-      "url": "https://open.spotify.com/track/6XktzSnvdfStmmHIvhjVei"
-    },
-    {
-      "added_at": "2023-11-06 20:37:56",
-      "album": {
         "name": "Recordando Monterrey",
         "url": "https://open.spotify.com/album/2n1CryXhnIVXisogTOd9JF"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 183026,
       "name": "Mi Amiga, Mi Esposa, Mi Amante",
       "url": "https://open.spotify.com/track/6AgSJsbx0DRnH0jIwDVOGF"
+    },
+    {
+      "added_at": "2023-11-06 20:37:56",
+      "album": {
+        "name": "Serie 32: Yndio",
+        "url": "https://open.spotify.com/album/0O3HWF8wuFCxwci1hC5UhE"
+      },
+      "artists": [
+        {
+          "name": "Yndio",
+          "url": "https://open.spotify.com/artist/1yP1EbAX7oCvKI7j7PxzGg"
+        }
+      ],
+      "duration_ms": 207586,
+      "name": "Dame Un Beso Y Dime Adi\u00f3s",
+      "url": "https://open.spotify.com/track/6XktzSnvdfStmmHIvhjVei"
     },
     {
       "added_at": "2023-11-06 20:37:56",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-11-06 20:37:56",
       "album": {
-        "name": "16 \u00c9xitos: Baladas",
-        "url": "https://open.spotify.com/album/16koZGZZYztvCEShPLndCv"
-      },
-      "artists": [
-        {
-          "name": "Alberto Vazquez",
-          "url": "https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc"
-        }
-      ],
-      "duration_ms": 200045,
-      "name": "El Pecador",
-      "url": "https://open.spotify.com/track/1lDx45n8dnAU1v9yct5bxU"
-    },
-    {
-      "added_at": "2023-11-06 20:37:56",
-      "album": {
         "name": "Antologia 40 Cl\u00e1sicos Remasterizados",
         "url": "https://open.spotify.com/album/3oRJSfyF6qD5CDB0OPTbWt"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 180426,
       "name": "Olvidarte Nunca - 2003 Digital Remaster",
       "url": "https://open.spotify.com/track/3mhVXE8fcgV330qYXNWok8"
+    },
+    {
+      "added_at": "2023-11-06 20:37:56",
+      "album": {
+        "name": "16 \u00c9xitos: Baladas",
+        "url": "https://open.spotify.com/album/16koZGZZYztvCEShPLndCv"
+      },
+      "artists": [
+        {
+          "name": "Alberto Vazquez",
+          "url": "https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc"
+        }
+      ],
+      "duration_ms": 200045,
+      "name": "El Pecador",
+      "url": "https://open.spotify.com/track/1lDx45n8dnAU1v9yct5bxU"
     },
     {
       "added_at": "2023-11-06 20:37:56",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-11-06 20:37:56",
       "album": {
-        "name": "Serie Doble: Los Brios y Los Angeles De Chile",
-        "url": "https://open.spotify.com/album/1zCU3S1HxqxOwOC5sj8Hj6"
-      },
-      "artists": [
-        {
-          "name": "Los Brios",
-          "url": "https://open.spotify.com/artist/7sTzOfwrd0viYUuUu26a2N"
-        }
-      ],
-      "duration_ms": 207480,
-      "name": "Yo Se Que Te Acordaras",
-      "url": "https://open.spotify.com/track/2X6e9lJJJMccGEAefCj85t"
-    },
-    {
-      "added_at": "2023-11-06 20:37:56",
-      "album": {
         "name": "\u00c9xitos De \u00c9poca (De Colecci\u00f3n)",
         "url": "https://open.spotify.com/album/1G7SdOH7XOFgNnzB9bgSAw"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 168960,
       "name": "Eres Mi Mundo",
       "url": "https://open.spotify.com/track/5hkA0x4asdvj5V3cR8V1Si"
+    },
+    {
+      "added_at": "2023-11-06 20:37:56",
+      "album": {
+        "name": "Serie Doble: Los Brios y Los Angeles De Chile",
+        "url": "https://open.spotify.com/album/1zCU3S1HxqxOwOC5sj8Hj6"
+      },
+      "artists": [
+        {
+          "name": "Los Brios",
+          "url": "https://open.spotify.com/artist/7sTzOfwrd0viYUuUu26a2N"
+        }
+      ],
+      "duration_ms": 207480,
+      "name": "Yo Se Que Te Acordaras",
+      "url": "https://open.spotify.com/track/2X6e9lJJJMccGEAefCj85t"
     },
     {
       "added_at": "2023-11-06 20:37:56",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2023-11-06 20:37:56",
       "album": {
-        "name": "El Ultimo Beso",
-        "url": "https://open.spotify.com/album/4gUAghEji9OTewhzSEUZBo"
+        "name": "S\u00f3lo para enamorados",
+        "url": "https://open.spotify.com/album/0aKX7SIu3MGX01ST8NANy8"
       },
       "artists": [
         {
-          "name": "Los Sleepers",
-          "url": "https://open.spotify.com/artist/2cCeAySrR6BOPhRJWeoZBN"
+          "name": "Los Baby's",
+          "url": "https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9"
         }
       ],
-      "duration_ms": 140146,
-      "name": "Al ritmo de la lluvia - Rhythm of the Rain",
-      "url": "https://open.spotify.com/track/52C4jG5kIhSZbAGErim8nr"
+      "duration_ms": 190840,
+      "name": "Tri\u00e1ngulo",
+      "url": "https://open.spotify.com/track/24VnFu3wCGaUYsR8LyBgIi"
     },
     {
       "added_at": "2023-11-06 20:37:56",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2023-11-06 20:37:56",
       "album": {
-        "name": "S\u00f3lo para enamorados",
-        "url": "https://open.spotify.com/album/0aKX7SIu3MGX01ST8NANy8"
+        "name": "El Ultimo Beso",
+        "url": "https://open.spotify.com/album/4gUAghEji9OTewhzSEUZBo"
       },
       "artists": [
         {
-          "name": "Los Baby's",
-          "url": "https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9"
+          "name": "Los Sleepers",
+          "url": "https://open.spotify.com/artist/2cCeAySrR6BOPhRJWeoZBN"
         }
       ],
-      "duration_ms": 190840,
-      "name": "Tri\u00e1ngulo",
-      "url": "https://open.spotify.com/track/24VnFu3wCGaUYsR8LyBgIi"
+      "duration_ms": 140146,
+      "name": "Al ritmo de la lluvia - Rhythm of the Rain",
+      "url": "https://open.spotify.com/track/52C4jG5kIhSZbAGErim8nr"
     },
     {
       "added_at": "2023-11-06 20:37:56",

@@ -814,7 +814,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 166874,
       "name": "Akhuya - \u0627\u062e\u0648\u064a\u0627",
       "url": "https://open.spotify.com/track/5Xei35cn3yZQG0YwnlVDt5"
@@ -998,7 +998,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 197077,
       "name": "Ala Fekra",
       "url": "https://open.spotify.com/track/0WeYHVHRImagDo5teUkDOw"
@@ -3969,6 +3969,24 @@
     },
     {
       "album": {
+        "name": "Habet Zekraiat",
+        "url": "https://open.spotify.com/album/6C407LUwJknjEg0sKQSeS3"
+      },
+      "artists": [
+        {
+          "name": "Mayada El Hennawy",
+          "url": "https://open.spotify.com/artist/4KEnL3MuGqQHnaIKdZ1pYz"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281501,
+      "name": "Habet Zekraiat",
+      "url": "https://open.spotify.com/track/2w4Js4gM2W559oPh68SDaI"
+    },
+    {
+      "album": {
         "name": "Hadouta",
         "url": "https://open.spotify.com/album/2kGYSWJdmsp0yN5hvCcEgK"
       },
@@ -4817,6 +4835,24 @@
     },
     {
       "album": {
+        "name": "Kaddab",
+        "url": "https://open.spotify.com/album/3zZWytljIJYMhLsoUBC2vO"
+      },
+      "artists": [
+        {
+          "name": "Samira Said",
+          "url": "https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160173,
+      "name": "Kaddab",
+      "url": "https://open.spotify.com/track/3DRUFimzVl5HqBmocY6cBy"
+    },
+    {
+      "album": {
         "name": "Kalam El Hob",
         "url": "https://open.spotify.com/album/6h3n3RjjTLFtcRzpppOUoO"
       },
@@ -4882,7 +4918,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 152368,
       "name": "KAN",
       "url": "https://open.spotify.com/track/0bG4e13MjolDszR22Qfub9"
@@ -5463,6 +5499,24 @@
     },
     {
       "album": {
+        "name": "Lazem Tekhtar",
+        "url": "https://open.spotify.com/album/6keu9VoYXQBagCiqWniJie"
+      },
+      "artists": [
+        {
+          "name": "Ghaliaa",
+          "url": "https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182011,
+      "name": "Lazem Tekhtar",
+      "url": "https://open.spotify.com/track/75QkLngxmCSHw5j9tGhtgC"
+    },
+    {
+      "album": {
         "name": "Lazemni Break",
         "url": "https://open.spotify.com/album/2YKxZXEbtRbB5fcCUhZpPT"
       },
@@ -5492,7 +5546,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 235836,
       "name": "Le'beh",
       "url": "https://open.spotify.com/track/2HGxHDTumlh0YEw0dl4FIW"
@@ -9274,6 +9328,24 @@
       "duration_ms": 156000,
       "name": "Ya Lali",
       "url": "https://open.spotify.com/track/0yTenAHL5lYER6mzMR00Wp"
+    },
+    {
+      "album": {
+        "name": "Ya Oyoun",
+        "url": "https://open.spotify.com/album/0VpRxOPyIEBPHxPyJSb5qr"
+      },
+      "artists": [
+        {
+          "name": "Rawan Bin Hussain",
+          "url": "https://open.spotify.com/artist/2EwH8s2tM7Oxp45dIW6oNQ"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186300,
+      "name": "Ya Oyoun",
+      "url": "https://open.spotify.com/track/3cTF8M0llKbdX9ajd04cQ3"
     },
     {
       "album": {

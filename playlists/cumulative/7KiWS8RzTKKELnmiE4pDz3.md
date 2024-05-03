@@ -4,7 +4,7 @@
 
 > 
 
-678 songs - 1 day 8 hr 21 min
+680 songs - 1 day 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [drugs\_over\_love](https://open.spotify.com/track/0Rp8IydDMk6iNIE3wV3ocb) | [user00xman](https://open.spotify.com/artist/4YkU1TtBH2NqSJC7QQzaQj) | [lost\_files\_3](https://open.spotify.com/album/5HGQR05KWcd2FQ5EoA7Ri9) | 2:59 | 2022-11-07 | 2023-04-24 |
 | [Dsco](https://open.spotify.com/track/1OKkG3vxEuBBwLw1gCqdNW) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [Velocity: Design: Comfort.](https://open.spotify.com/album/0eUUQ4rly8Q8PyJPWLgde2) | 3:11 | 2024-04-30 |  |
 | [Dëmon tied](https://open.spotify.com/track/00G8RCi9pouKt0K5vQQmzE) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 2:43 | 2023-03-12 |  |
+| [Eddie Cane](https://open.spotify.com/track/4ayIDD3cOVqsSLblJmmPP1) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Thinking Out Loud](https://open.spotify.com/album/3jNB3NFlcze1sc2BuK4Rlj) | 1:58 | 2024-05-02 |  |
 | [El Libro](https://open.spotify.com/track/0lHk3B6BOt43VTHJuODZr8) | [Los Tres Caballeros](https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F) | [Los Tres Caballeros](https://open.spotify.com/album/0g3tdBXHTP9VgftkbXnVPI) | 2:48 | 2024-02-14 |  |
 | [Enough Ammo \(Remix\) \[feat\. Young Nudy\]](https://open.spotify.com/track/3KhzBmmD2uvj46uU4GUZXx) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [After TTBR](https://open.spotify.com/album/6VyWxik4npLtHuYKJ66zsa) | 2:57 | 2024-03-04 | 2024-04-24 |
 | [Esham's Boomin](https://open.spotify.com/track/2m70KuxevOmwQhVbg2CHVk) | [Esham](https://open.spotify.com/artist/2eQPDhVoSa5aeWROa5wfxZ) | [Boomin' Words from Hell \(Classics Remastered\)](https://open.spotify.com/album/0b3VGaoEN6nVMg5iOTUnyh) | 4:12 | 2022-09-11 | 2023-04-12 |
@@ -362,6 +363,7 @@
 | [Mazel Tron](https://open.spotify.com/track/5Ex5aIXLQimPjhiRUZjtre) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Mazel Tron](https://open.spotify.com/album/1F841omtmck75byakwMGnx) | 3:28 | 2023-04-03 | 2023-12-14 |
 | [Me And My Bitch](https://open.spotify.com/track/1Kz0tgMRWsbLzEuzRaU1vP) | [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [No Idols](https://open.spotify.com/album/3GncI0ExXYyWnIzZe9oxRQ) | 3:05 | 2024-03-26 |  |
 | [Me N My Kup](https://open.spotify.com/track/0hhNTyH6RJJGItHeSMCof3) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 3:54 | 2023-10-14 |  |
+| [Metro Spider \(with Young Thug\)](https://open.spotify.com/track/2VtgzixdB967bHDNu5A1nh) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 2:54 | 2024-05-02 |  |
 | [Mic Line](https://open.spotify.com/track/0pu6JO1sPqW1TxE0nQC080) | [Monsta Island Czars](https://open.spotify.com/artist/6cN2ZI3Rsi0K6SXANDlZvc), [King Ghidra](https://open.spotify.com/artist/21IYa0bMpDZiSFY9x0y02q) | [Escape from Monsta Island](https://open.spotify.com/album/2DPjykMKiZZrL6mKPHM4hX) | 3:13 | 2023-10-03 | 2024-03-05 |
 | [Milk \- 2021 Remaster](https://open.spotify.com/track/7Jq4cV3F5puQfUAxL4sHL8) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [You Will Never Know Why \(2021 Remaster\)](https://open.spotify.com/album/0kmPn6M3cue7rec6Unw6BD) | 4:25 | 2024-04-30 |  |
 | [Millions](https://open.spotify.com/track/43YQDj1KOPMFAUcTEPKy4p) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [So Much Fun \(Deluxe\)](https://open.spotify.com/album/24jAbLMFzCTlIv3kQ94HwK) | 2:37 | 2023-11-29 |  |

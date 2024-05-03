@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-12",
-  "description": "This Is Bruce Springsteen. Los temas esenciales, todos en una lista.",
+  "description": "This is: Bruce Springsteen. Alle wichtigen Tracks in einer Playlist.",
   "name": "This Is Bruce Springsteen",
   "tracks": [
     {
@@ -182,7 +182,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 278680,
       "name": "Born in the U.S.A.",
       "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
@@ -442,7 +442,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-02",
+      "date_removed": null,
       "duration_ms": 215426,
       "name": "Downbound Train",
       "url": "https://open.spotify.com/track/4a0oZYU2ntSUof4lkm2PCl"
@@ -904,7 +904,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 245360,
       "name": "Lonesome Day",
       "url": "https://open.spotify.com/track/0R9q3imnid244T1ty47MGs"
@@ -1322,7 +1322,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 270266,
       "name": "She's the One",
       "url": "https://open.spotify.com/track/5St2IxnaIYOPflaomWB3Pz"

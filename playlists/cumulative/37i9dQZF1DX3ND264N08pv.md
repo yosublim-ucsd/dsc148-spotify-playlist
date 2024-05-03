@@ -4,7 +4,7 @@
 
 > Hardcore and uptempo to get you pumped
 
-248 songs - 13 hr 58 min
+249 songs - 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Bring It Hardcore](https://open.spotify.com/track/3s3TQQciJdZ6ZlKJoZjdHp) | [D\-Ceptor](https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L) | [Bring It Hardcore](https://open.spotify.com/album/6Rpr2axSXD0r9B66J6WOYc) | 4:44 | 2023-09-01 |  |
 | [Broken Inside](https://open.spotify.com/track/6LvC4nm62BQGESBPhwgpgg) | [Namara](https://open.spotify.com/artist/50PTSnRJgyVGs9O6Kj9Jd1) | [Broken Inside](https://open.spotify.com/album/07ibnMCRSY45wLqlWETuW8) | 3:25 | 2022-12-08 | 2023-09-02 |
 | [Buried Alive](https://open.spotify.com/track/6En1mnKQHujsveLdnkPRon) | [Cryex](https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b) | [Buried Alive](https://open.spotify.com/album/7kH4AAUjyQYDmmCeohXyxa) | 3:15 | 2022-12-08 | 2023-04-14 |
+| [Burn](https://open.spotify.com/track/1RZw5ReZ2prm5qYxia8ANN) | [Neophyte](https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p), [Karun](https://open.spotify.com/artist/7xJwFmwgqp0VKlLXt1cXjT) | [Burn](https://open.spotify.com/album/0MnAzPohStGYOnAODeo205) | 2:50 | 2024-05-02 |  |
 | [Burn MF](https://open.spotify.com/track/2r6w2d3ehFw7BZ5yDLcroq) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Burn MF](https://open.spotify.com/album/3xQTtEFddnUR8jjHR36RUh) | 3:03 | 2022-12-08 | 2023-10-26 |
 | [Cannibal \- Radical Redemption Remix](https://open.spotify.com/track/2DWwikXjYJpQe7sbdjgUQl) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC) | [Cannibal \(Radical Redemption Remix\)](https://open.spotify.com/album/0IkDRXg0wntX1zPOlaKDqq) | 3:07 | 2022-12-08 | 2023-10-26 |
 | [Choose Life](https://open.spotify.com/track/2EHSBfC2epl3BXYR2uYrFd) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE), [Hysta](https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O) | [Choose Life](https://open.spotify.com/album/78oFO3EBoHwZEyyzqMJu9n) | 3:08 | 2023-05-15 | 2024-03-23 |
@@ -114,7 +115,7 @@
 | [HIT THA CLUB](https://open.spotify.com/track/13vfyLZ1FsC73tOGTXHC1H) | [LunaKorpz](https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1) | [HIT THA CLUB](https://open.spotify.com/album/1YcHtxuo6mYQcLwxNd28H9) | 2:46 | 2023-01-26 | 2023-10-26 |
 | [HYPER](https://open.spotify.com/track/4GbecipoI4oyDE148vjkde) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [BOMBSQUAD](https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl), [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl) | [HYPER](https://open.spotify.com/album/5nONZdOuEns5bTt2y6Mbcg) | 3:26 | 2023-06-08 | 2024-02-09 |
 | [Hypnosis](https://open.spotify.com/track/77WTQNkAcCLStiMBWVySK9) | [Mutilator](https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN) | [Hypnosis](https://open.spotify.com/album/2NaIPARHXxQq8HFpPPThTX) | 2:24 | 2022-12-08 | 2023-03-07 |
-| [I AM](https://open.spotify.com/track/6GN7ZWNNqgVZl7t3dgH6ot) | [Elite Enemy](https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB) | [I AM](https://open.spotify.com/album/3vumUha7zafLsiFJAjQBuy) | 3:01 | 2023-11-02 |  |
+| [I AM](https://open.spotify.com/track/6GN7ZWNNqgVZl7t3dgH6ot) | [Elite Enemy](https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB) | [I AM](https://open.spotify.com/album/3vumUha7zafLsiFJAjQBuy) | 3:01 | 2023-11-02 | 2024-05-03 |
 | [I Need You](https://open.spotify.com/track/24MO8oHZsd7carleJjgDCC) | [Alpha Lion](https://open.spotify.com/artist/02vWERJ8STBgtOeBEBIMno), [Desolate One](https://open.spotify.com/artist/0iQCbp8TQLE4p6YBu8rBzm) | [I Need You](https://open.spotify.com/album/78r6uveupLLOKxFECcEtQC) | 2:40 | 2024-03-19 |  |
 | [I Will Find You](https://open.spotify.com/track/0qGuo8DnT17kMTbullZ1WV) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3) | [The Doc's Experiment \- Proof 1](https://open.spotify.com/album/0h8f0JYPzmSq8bqakq7oqy) | 4:00 | 2024-03-14 |  |
 | [I'm A Raver](https://open.spotify.com/track/1zdCuA3OezPXkK2raYt0BY) | [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6) | [I'm A Raver](https://open.spotify.com/album/6ZGaPeQGX4vnaSu5bOHzEu) | 3:25 | 2023-01-26 |  |

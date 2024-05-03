@@ -535,6 +535,28 @@
     },
     {
       "album": {
+        "name": "Cotton & Silk",
+        "url": "https://open.spotify.com/album/667kJuZEkDLZtV7j1K4gSS"
+      },
+      "artists": [
+        {
+          "name": "Tiger & Woods",
+          "url": "https://open.spotify.com/artist/0AEi1DK5ehyvkZzOUlqEVz"
+        },
+        {
+          "name": "Em",
+          "url": "https://open.spotify.com/artist/4ZVw63ejqta34L7Q3bRrpa"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223957,
+      "name": "Cotton & Silk",
+      "url": "https://open.spotify.com/track/6oFA9zdx6geUC6uCqQKhJc"
+    },
+    {
+      "album": {
         "name": "Autostrada Galattica",
         "url": "https://open.spotify.com/album/3SskDYQ8hL0tZQwZrhy1p9"
       },
@@ -3134,7 +3156,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 182160,
       "name": "Tutta sola (feat. Pino D'Angi\u00f2)",
       "url": "https://open.spotify.com/track/4hKObAIM0nMRqLOYaO15fm"

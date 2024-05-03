@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Wit.",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Green Montana",
   "name": "Cloud Rap",
   "tracks": [
     {
@@ -60,7 +60,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 233696,
       "name": ".Libre. (vide)",
       "url": "https://open.spotify.com/track/6Mb2Xc7MFCI51Lc3aqTwIE"
@@ -1112,7 +1112,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 164000,
       "name": "Boulot dodo",
       "url": "https://open.spotify.com/track/6uZw5oZjjbef3fb1Nm3Frl"
@@ -3077,6 +3077,24 @@
     },
     {
       "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/2qcZ3oMNQ54CmCyrckmyNh"
+      },
+      "artists": [
+        {
+          "name": "Yuzmv",
+          "url": "https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205680,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/3wJtTBbphi50t75jKP64cW"
+    },
+    {
+      "album": {
         "name": "ILY",
         "url": "https://open.spotify.com/album/3JJ3JA8Wv6HnLfxAKOCxG7"
       },
@@ -3413,6 +3431,24 @@
     },
     {
       "album": {
+        "name": "D\u00e9sol\u00e9 pour mes doutes",
+        "url": "https://open.spotify.com/album/2DnYN2DMzgHVzAfV2OsSTu"
+      },
+      "artists": [
+        {
+          "name": "Donguti",
+          "url": "https://open.spotify.com/artist/2PjvxxAh4KVmcfcUluYjcf"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183994,
+      "name": "Juste un moment",
+      "url": "https://open.spotify.com/track/4ysL8o0IjoUpby6XslUy4n"
+    },
+    {
+      "album": {
         "name": "ICE",
         "url": "https://open.spotify.com/album/7M1WGdWsIKZLjQLW4U9erX"
       },
@@ -3496,7 +3532,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 192000,
       "name": "L'incendie",
       "url": "https://open.spotify.com/track/0YofBGEEMMQGidD3sQcqvp"
@@ -5198,6 +5234,24 @@
       "duration_ms": 189973,
       "name": "Perte de temps",
       "url": "https://open.spotify.com/track/6OtC63b0k3p5PADayP1hkV"
+    },
+    {
+      "album": {
+        "name": "phileas fogg",
+        "url": "https://open.spotify.com/album/64y23hxA0OtaC66UscChre"
+      },
+      "artists": [
+        {
+          "name": "Green Montana",
+          "url": "https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113093,
+      "name": "phileas fogg",
+      "url": "https://open.spotify.com/track/03ijxNalYn4V6467YMGMP3"
     },
     {
       "album": {

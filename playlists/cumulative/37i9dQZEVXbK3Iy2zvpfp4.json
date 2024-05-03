@@ -4592,7 +4592,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 168000,
       "name": "BlockSuperstars",
       "url": "https://open.spotify.com/track/0PL98bBO5gSxfyMEotVAvz"
@@ -10496,7 +10496,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 116643,
       "name": "EYES ON ME",
       "url": "https://open.spotify.com/track/4keoRXcdwFkP8OzuJQ3ScK"
@@ -12092,6 +12092,24 @@
       "duration_ms": 150009,
       "name": "FUNK ESTRANHO - SUPER SLOWED",
       "url": "https://open.spotify.com/track/3pYW5o6hnnlKILYMpi3tx8"
+    },
+    {
+      "album": {
+        "name": "FUNK ESTRANHO - SUPER SLOWED",
+        "url": "https://open.spotify.com/album/7jGx3EgvTllCvIhKIJuXce"
+      },
+      "artists": [
+        {
+          "name": "ALXIKE",
+          "url": "https://open.spotify.com/artist/4SbtvEgtu7QsmFjjBzyV8F"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150009,
+      "name": "FUNK ESTRANHO - SUPER SLOWED",
+      "url": "https://open.spotify.com/track/4QdSkchEnVddhTy1PO9iv9"
     },
     {
       "album": {
@@ -20220,7 +20238,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-10",
+      "date_removed": null,
       "duration_ms": 274000,
       "name": "L\u00faka",
       "url": "https://open.spotify.com/track/4i0lECAdp7OkLqbBJkqkd9"
@@ -22002,7 +22020,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 172041,
       "name": "MMA - Gipsy Remix",
       "url": "https://open.spotify.com/track/3uIxUV37NSTY8sWyBQyjuz"
@@ -27195,6 +27213,24 @@
     },
     {
       "album": {
+        "name": "Perly",
+        "url": "https://open.spotify.com/album/73gZjJQG1LJQg6AfwnAEFp"
+      },
+      "artists": [
+        {
+          "name": "Peter Bic Project",
+          "url": "https://open.spotify.com/artist/2byrTaX8LV9LSZcC4tAyZP"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271586,
+      "name": "Perly",
+      "url": "https://open.spotify.com/track/6JYEp3O2EPh3ToDEeBo7XX"
+    },
+    {
+      "album": {
         "name": "V Radiu Hral Elan, Ked Umrel ...",
         "url": "https://open.spotify.com/album/65QC8PoyyOQWvVbubfktaf"
       },
@@ -31346,7 +31382,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 170356,
       "name": "SHEESH",
       "url": "https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR"
@@ -39584,6 +39620,24 @@
       "duration_ms": 230423,
       "name": "YAK",
       "url": "https://open.spotify.com/track/3ei0xhESHXFdWOd0avlo35"
+    },
+    {
+      "album": {
+        "name": "Ehhthang Ehhthang",
+        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142702,
+      "name": "Yeah Glo!",
+      "url": "https://open.spotify.com/track/5A8xI7PN4WDe9e61xEdt94"
     },
     {
       "album": {

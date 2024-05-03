@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 126008,
+  "num_followers": 126009,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAASTKXto0nXMMCWurjHEMA/RO5jZsfM",
+  "snapshot_id": "AAASTeNQBog2fwgOZVunO1P/dpkW1ZqM",
   "tracks": [
+    {
+      "added_at": "2024-05-02 15:13:12",
+      "album": {
+        "name": "So High",
+        "url": "https://open.spotify.com/album/77BLeJIkcNdUQB6u1hNXOZ"
+      },
+      "artists": [
+        {
+          "name": "Codeko",
+          "url": "https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp"
+        },
+        {
+          "name": "Bertie Scott",
+          "url": "https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro"
+        }
+      ],
+      "duration_ms": 207804,
+      "name": "So High",
+      "url": "https://open.spotify.com/track/3PdssIeO7774PbZquBoYMA"
+    },
     {
       "added_at": "2024-05-01 13:55:33",
       "album": {

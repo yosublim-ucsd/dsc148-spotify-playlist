@@ -1,12 +1,12 @@
 {
   "description": "This is Phoebe Bridgers. The essential tracks, all in one playlist.",
-  "num_followers": 123195,
+  "num_followers": 123217,
   "original_name": "This Is Phoebe Bridgers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjA0gAAAAAA/TklL7sc3Osk26k8T1BQZ",
+  "snapshot_id": "ZjGGAAAAAAAl/uTutvmZB1r/nYccxAu2",
   "tracks": [
     {
       "added_at": null,
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 247306,
-      "name": "Georgia",
-      "url": "https://open.spotify.com/track/5YTJXAM6j8jEQ5vC8Q67GL"
+      "duration_ms": 324773,
+      "name": "Smoke Signals",
+      "url": "https://open.spotify.com/track/5w52BJAqGkV1ewaCVLmjhi"
     },
     {
       "added_at": null,
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 324773,
-      "name": "Smoke Signals",
-      "url": "https://open.spotify.com/track/5w52BJAqGkV1ewaCVLmjhi"
+      "duration_ms": 247306,
+      "name": "Georgia",
+      "url": "https://open.spotify.com/track/5YTJXAM6j8jEQ5vC8Q67GL"
     },
     {
       "added_at": null,

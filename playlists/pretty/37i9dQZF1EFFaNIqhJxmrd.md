@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tl6tGvyHMK5cyDc38ZF7I">Fanny Hultman</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80 likes - 92 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 81 likes - 92 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,14 +55,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 45 | [Shy Love](https://open.spotify.com/track/7yDcZXs4Qy4IbaFkaGpWCv) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Shy Love](https://open.spotify.com/album/7IP4kvEtuYdpASEFsXHDr4) | 3:49 |
 | 46 | [Ex](https://open.spotify.com/track/1wRwr5JQIVSsUbLbjsokNd) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe), [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Till dig](https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1) | 3:06 |
 | 47 | [What Are You Scared Of?](https://open.spotify.com/track/12YqybH8qHtBQPAsB8T6Z2) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Mad Woman](https://open.spotify.com/album/1jG11sbwvgBovDtIvWMQlq) | 1:31 |
-| 48 | [Förlora mig](https://open.spotify.com/track/6jqfdx0A1KcpQ0jf88lxx3) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Mellan hägg och syrén](https://open.spotify.com/album/5LnC7V6eorCnMISq9JAXbs) | 4:36 |
-| 49 | [Pressure](https://open.spotify.com/track/4qDekoPFfXrRIH1PIsYWyE) | [Amanda Tenfjord](https://open.spotify.com/artist/187i912U6kpq0F0Z9uOVXr) | [Pressure](https://open.spotify.com/album/6ipET7sXel899YvB1PZHqZ) | 2:57 |
-| 50 | [Better](https://open.spotify.com/track/3L3zoAIlgI3G0mKbDjppf0) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Better](https://open.spotify.com/album/4QGeDA46o8dtZFbzytt0FE) | 3:24 |
-| 51 | [Come Back](https://open.spotify.com/track/6TUzJcKYHYiOrDeZJAzrhk) | [Heidi Musum](https://open.spotify.com/artist/1Qa6Sji9xtimBJOkZ2CgmL) | [Come Back](https://open.spotify.com/album/5rGM8WIGIYcJoqcGjVZ3LY) | 3:29 |
-| 52 | [grow old together](https://open.spotify.com/track/7nnVCVsEqxmctsnLdTCLZw) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui) | 2:13 |
-| 53 | [Now That I Found You](https://open.spotify.com/track/1HqlMQsDtVUUJnf24eZLRC) | [Mari Bølla](https://open.spotify.com/artist/74iYO8DekSJih2cEZoMrMl) | [Now That I Found You](https://open.spotify.com/album/5MJwGNYvUTFfCNkL2ZPEtb) | 3:09 |
-| 54 | [Thanks a lot now I can’t smile](https://open.spotify.com/track/03b4yd2Efg2bi8KvFNpMyz) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Thanks a lot now I can’t smile](https://open.spotify.com/album/57phmd4OriulBsRSCOWSrX) | 2:44 |
-| 55 | [RESET](https://open.spotify.com/track/2peKpF1i9muFKph6JtBTvN) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SWITCH](https://open.spotify.com/album/5IEMUcisVV23gFbC471rTy) | 2:41 |
+| 48 | [RESET](https://open.spotify.com/track/2peKpF1i9muFKph6JtBTvN) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SWITCH](https://open.spotify.com/album/5IEMUcisVV23gFbC471rTy) | 2:41 |
+| 49 | [Förlora mig](https://open.spotify.com/track/6jqfdx0A1KcpQ0jf88lxx3) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Mellan hägg och syrén](https://open.spotify.com/album/5LnC7V6eorCnMISq9JAXbs) | 4:36 |
+| 50 | [Pressure](https://open.spotify.com/track/4qDekoPFfXrRIH1PIsYWyE) | [Amanda Tenfjord](https://open.spotify.com/artist/187i912U6kpq0F0Z9uOVXr) | [Pressure](https://open.spotify.com/album/6ipET7sXel899YvB1PZHqZ) | 2:57 |
+| 51 | [Better](https://open.spotify.com/track/3L3zoAIlgI3G0mKbDjppf0) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Better](https://open.spotify.com/album/4QGeDA46o8dtZFbzytt0FE) | 3:24 |
+| 52 | [Come Back](https://open.spotify.com/track/6TUzJcKYHYiOrDeZJAzrhk) | [Heidi Musum](https://open.spotify.com/artist/1Qa6Sji9xtimBJOkZ2CgmL) | [Come Back](https://open.spotify.com/album/5rGM8WIGIYcJoqcGjVZ3LY) | 3:29 |
+| 53 | [grow old together](https://open.spotify.com/track/7nnVCVsEqxmctsnLdTCLZw) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui) | 2:13 |
+| 54 | [Now That I Found You](https://open.spotify.com/track/1HqlMQsDtVUUJnf24eZLRC) | [Mari Bølla](https://open.spotify.com/artist/74iYO8DekSJih2cEZoMrMl) | [Now That I Found You](https://open.spotify.com/album/5MJwGNYvUTFfCNkL2ZPEtb) | 3:09 |
+| 55 | [Thanks a lot now I can’t smile](https://open.spotify.com/track/03b4yd2Efg2bi8KvFNpMyz) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Thanks a lot now I can’t smile](https://open.spotify.com/album/57phmd4OriulBsRSCOWSrX) | 2:44 |
 | 56 | [VA?!](https://open.spotify.com/track/6Lvbm39dOUSuSBsPieuYMq) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Till dig](https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1) | 1:51 |
 | 57 | [Like You](https://open.spotify.com/track/60B6GgDJmbHH9OCEb4Ltdq) | [Future Chess Club](https://open.spotify.com/artist/3qhz6nnUi7DZZAEwcGKtGW) | [Like You](https://open.spotify.com/album/4VQuG8kX3s0Oo1VSGdtXQs) | 3:24 |
 | 58 | [Glömd&Begraven](https://open.spotify.com/track/0yNXh5Js8rYPKzczlUmTyd) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [+3 bpm](https://open.spotify.com/album/7fZMtaTLaGtmxTr92ELKbq) | 3:19 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 91 | [Forever Yours](https://open.spotify.com/track/6O7cIKJCZc3qHcbdyQ7tRp) | [Tvilling](https://open.spotify.com/artist/2AX5R5SIikV7NGMOZupAGm), [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI) | [EiGHTYF!VE](https://open.spotify.com/album/6oClhRDiDoUEfrmVfYCIMr) | 2:52 |
 | 92 | [Kollektivtrafikens Julnatt \(Midnatt Råder\)](https://open.spotify.com/track/47bzV0ETyGsu3srq4OllwQ) | [Tomtekollektivet](https://open.spotify.com/artist/5azVZddL5SFQ9lZn3zx7ih) | [Kollektivtrafikens julnatt \(Midnatt råder\)](https://open.spotify.com/album/4jvFXKwbay8D5ti6D0yTgQ) | 1:24 |
 
-Snapshot ID: `AbQM2gAAAAAc823t59RDwMWmcsnPpEVx`
+Snapshot ID: `AbQS7AAAAABCW5Dps4frx4PGIDchzNXz`

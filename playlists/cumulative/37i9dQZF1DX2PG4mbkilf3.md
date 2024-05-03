@@ -2,9 +2,9 @@
 
 ### [Mood Ring ](https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3)
 
-> This is r&b in Canada, elevate your aura with PARTYNEXTDOOR.
+> This is r&b in Canada, elevate your aura with Charlotte Day Wilson.
 
-1,022 songs - 2 day 5 hr 54 min
+1,026 songs - 2 day 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Afrobeats & Affirmations](https://open.spotify.com/track/56UEaQ3glFdwv2KKyw1LMg) | [Kayo](https://open.spotify.com/artist/6OOvjtNBVM1FYpNAaOzm9s), [aRENYE](https://open.spotify.com/artist/5d48XfG2GI2nt47HRRwVh1), [Million Vibes](https://open.spotify.com/artist/4ksuJuYo6ChsroMiEqfOvI) | [Afrobeats & Affirmations](https://open.spotify.com/album/6RolbA89sdtcMljCCxgim8) | 3:15 | 2023-04-28 | 2023-07-22 |
 | [AFTER HOURS](https://open.spotify.com/track/2ss03wfWSV9g3DdvDklHH2) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [AFTER HOURS](https://open.spotify.com/album/0C4vpjaKHhAAcd0fo9hWaT) | 2:53 | 2023-10-27 | 2023-12-09 |
 | [Again](https://open.spotify.com/track/22suMDhP7SweqGcCmbBOmK) | [CUBE](https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r) | [Again](https://open.spotify.com/album/7fM8bSojWxNGXQFfFqsqmZ) | 3:48 | 2022-10-07 | 2023-02-04 |
+| [AIN'T I](https://open.spotify.com/track/3XsetgxNJhAbpA0LgFUqX3) | [Francesca Wexler](https://open.spotify.com/artist/3Lc7WiR6p26xEQsoV8QZDa) | [AIN'T I](https://open.spotify.com/album/2UGnAvXO6P1som2VnTqt9q) | 3:33 | 2024-05-03 |  |
 | [Ain't Love \(feat\. Cam Griff\)](https://open.spotify.com/track/5TU32ghk2CPY2DHXxt3v5k) | [Majo](https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf), [Cam Griff](https://open.spotify.com/artist/08VOhx07DNsS86zMNvXdPL) | [Ain't Love \(feat\. Cam Griff\)](https://open.spotify.com/album/1rSFyEed1CCMn1JAEIimdw) | 2:27 | 2024-04-05 | 2024-04-27 |
 | [Ain't You](https://open.spotify.com/track/7yTVwl7gjKjiZJcyrcK6GE) | [GOODBADUGLY](https://open.spotify.com/artist/1lhpezG9iqq6YgLFcKlIA9), [Amari](https://open.spotify.com/artist/6833GgqHOy9y9Dqnsxko1u) | [Ain't You](https://open.spotify.com/album/5ajGSLZVzKx3NmKMPGiFhw) | 2:36 | 2023-11-17 |  |
 | [Airplane Mode](https://open.spotify.com/track/1u5IMenRvdZOsqSfEN2stL) | [Astrokidjay](https://open.spotify.com/artist/4EqrcmIvzNaisM7z775lyE) | [Airplane Mode](https://open.spotify.com/album/5n2BO8pOPn8K4mLPFz7c2y) | 2:24 | 2022-02-18 | 2022-03-18 |
@@ -157,6 +158,7 @@
 | [Celestial](https://open.spotify.com/track/5NPOyiXE1gn147zLE2XvPu) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Another Life](https://open.spotify.com/album/5CiIjIsYsYSpqPCUbfLYgo) | 2:53 | 2023-01-20 | 2023-01-28 |
 | [Certainty Of Life](https://open.spotify.com/track/0Gnz3IUlxu1JC0RRfKlXLL) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Certainty Of Life](https://open.spotify.com/album/0B1fNP1D29XkjFIyr5c1xB) | 2:39 | 2024-03-08 | 2024-04-19 |
 | [Change My Mind](https://open.spotify.com/track/3T4g0Q0C4lvr1WNUW93eGg) | [Primo Green](https://open.spotify.com/artist/0I9fEdZc7BcXXrns0pLKEB) | [Change My Mind](https://open.spotify.com/album/4lXAvOmqJFRa4b2ibI8xoh) | 2:22 | 2022-09-02 | 2022-10-22 |
+| [Change Your Mind](https://open.spotify.com/track/0v49IQxhKOEw2eWv7hYiCn) | [The Free Label](https://open.spotify.com/artist/4YOL2g6AwphwsB1dOZZSOr) | [Change Your Mind](https://open.spotify.com/album/3BTH2AziFRHfvTEEruGyWp) | 3:50 | 2024-05-03 |  |
 | [CHANTE'S GROOVE](https://open.spotify.com/track/2qMKGSiQvgJAT7J94kloTB) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt), [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [CHANTE'S GROOVE](https://open.spotify.com/album/1TV2Jx7E5y7Yg9jul0CP3X) | 3:15 | 2024-01-12 | 2024-03-23 |
 | [CHERRY SWEET](https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [CHERRY SWEET](https://open.spotify.com/album/1iu9wqIVEQ2cm20mO6DmvG) | 2:10 | 2022-07-29 | 2022-10-22 |
 | [Children Of Israel](https://open.spotify.com/track/6NLUd3nuvhf2LxHoOgG2dk) | [Ahki](https://open.spotify.com/artist/5875m9R9PmEl5MLJv8Bm56) | [GRIOT](https://open.spotify.com/album/0DVTccxibAf6m5bCnVN2Nt) | 2:16 | 2023-01-06 | 2023-02-11 |
@@ -334,6 +336,7 @@
 | [GANAS](https://open.spotify.com/track/7j8WiRODf8Gqea0MAdJDvr) | [Polina Grace](https://open.spotify.com/artist/1NHTQwuk3e6uBGMd4V74ug) | [GANAS](https://open.spotify.com/album/2GijBknx1Wz6PajM7iUrWK) | 2:39 | 2024-01-12 | 2024-03-30 |
 | [Garden](https://open.spotify.com/track/7tqncrBGsGJQqc24e5Ffiv) | [Jay Isaiah](https://open.spotify.com/artist/0oMty0VPLJbB8WAQ8otDAs) | [Garden](https://open.spotify.com/album/2AZjeSF9UHQkPhyjMXP9aa) | 2:28 | 2022-05-27 | 2022-08-27 |
 | [Gemini Season \(You Don't Know Me\)](https://open.spotify.com/track/6NIvS0dnPIL4gK259AW7ut) | [Gracie Ella](https://open.spotify.com/artist/3HjHBNeLc1IOdv8BMgFrXj), [polun](https://open.spotify.com/artist/64bB4K2Z0AohDMCrnTtypq) | [Gemini Season \(You Don't Know Me\)](https://open.spotify.com/album/5mEUou1YIVRufhBXxkV06R) | 3:03 | 2023-12-08 |  |
+| [Get to You](https://open.spotify.com/track/2Ka7ipcvtIMb5TsvDm4rzc) | [Begonia](https://open.spotify.com/artist/4imuw38jkxPpTDqeMZDZD6) | [Get to You](https://open.spotify.com/album/5KgFFgn5C4IeL2CItwMCuZ) | 3:40 | 2024-05-03 |  |
 | [GETAWAY \(feat\. Kimmortal\)](https://open.spotify.com/track/2y9kErdcvZQ8vbRjVzrUo1) | [DACEY](https://open.spotify.com/artist/76y8Or7IQGZcKZZ4B8ypw0), [Kimmortal](https://open.spotify.com/artist/0ioYxkShKhYOKpQh0ERVFS) | [GETAWAY \(feat\. Kimmortal\)](https://open.spotify.com/album/2bHNrkYxX9tCjDFzOl7152) | 3:42 | 2023-06-09 | 2023-07-08 |
 | [Ghosted](https://open.spotify.com/track/1t3WDyT8y7jGdYrqjRTrFe) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol) | [Ghosted](https://open.spotify.com/album/6Q8uj6O7efdVIOr7TEzlPM) | 3:47 | 2022-03-04 | 2022-04-23 |
 | [Girls From Sauga](https://open.spotify.com/track/1wXGlpeIDBo4EHPHED78rN) | [Apartment205](https://open.spotify.com/artist/1QK0ynReqlRx2S4xqGZnb0) | [Girls From Sauga](https://open.spotify.com/album/0sR9OqB7MT9gtd86m0nJWE) | 2:20 | 2022-07-15 | 2022-07-30 |
@@ -638,8 +641,8 @@
 | [Old Friends](https://open.spotify.com/track/2xtNa5QipVpoe51f8dQ7a7) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Old Friends](https://open.spotify.com/album/0X38etkH1hOgsOXyvfAGQT) | 2:52 | 2023-08-04 | 2023-08-13 |
 | [Old Friends](https://open.spotify.com/track/4oQUx07Df5uoJytAg1fbm1) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Old Friends](https://open.spotify.com/album/0luE5bUcI2FzlBEyJh7Cd0) | 2:52 | 2023-08-11 | 2023-10-28 |
 | [On Me](https://open.spotify.com/track/2hbHVkOLOKd8t9hDtaDYB7) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [On Me](https://open.spotify.com/album/5FLVEOXmhNSu4Fn3tiiVFg) | 3:51 | 2022-04-15 | 2022-05-20 |
-| [ON MY WAY](https://open.spotify.com/track/3yTFX1HE96ChTBh3zSTpbj) | [Skip Waiters](https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav), [Faiza](https://open.spotify.com/artist/1rnl1q5bktJv9GiZTH91mD) | [ON MY WAY](https://open.spotify.com/album/1pq94oLoPufKtOpJ3SKGMF) | 2:25 | 2024-01-19 |  |
 | [On My Way](https://open.spotify.com/track/284dZP2uHiNlX2NitwREww) | [The Kount](https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ) | [On My Way](https://open.spotify.com/album/62ei8HXiUIMF8QNG0AbZiT) | 2:41 | 2022-02-18 | 2022-04-29 |
+| [ON MY WAY \(feat\. Faiza\)](https://open.spotify.com/track/3yTFX1HE96ChTBh3zSTpbj) | [Skip Waiters](https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav), [Faiza](https://open.spotify.com/artist/1rnl1q5bktJv9GiZTH91mD) | [ON MY WAY \(feat\. Faiza\)](https://open.spotify.com/album/1pq94oLoPufKtOpJ3SKGMF) | 2:25 | 2024-01-19 |  |
 | [On the Loose](https://open.spotify.com/track/5pzrKZK6GeF7yG9si4fw9E) | [Jayy Brown](https://open.spotify.com/artist/2fxgXM6gZJD4XlRl2Dg4hE), [Angelina](https://open.spotify.com/artist/0wLwZxokRA4z8mGngLVKUp) | [On the Loose](https://open.spotify.com/album/6mvjCZd2xuAlNneoJKBN3w) | 2:18 | 2022-05-20 | 2022-06-11 |
 | [ON THE LOW](https://open.spotify.com/track/1EAYfaIcNMICqXBkpaEdJ5) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [ON THE LOW](https://open.spotify.com/album/0Jdg9AhorPRvu4W5lHyz7A) | 2:37 | 2023-09-15 | 2023-10-21 |
 | [ON VENUS](https://open.spotify.com/track/3y5DngFE3QJEc6TSuW0hSv) | [NADUH](https://open.spotify.com/artist/5voTUw1S7gRACJXVp3slwh) | [ON VENUS](https://open.spotify.com/album/5PI4hnyqYDTyTTlwDLqvVA) | 3:39 | 2022-06-03 | 2022-07-09 |
@@ -892,6 +895,7 @@
 | [Test What I Know](https://open.spotify.com/track/1bThsxS53qUOGqj7nj3tck) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Mixed Emotions](https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ) | 2:34 | 2023-09-22 | 2023-11-18 |
 | [Test What I Know](https://open.spotify.com/track/1x6bosUmFK9cwrEV6O6mtt) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Test What I Know](https://open.spotify.com/album/7cvxZYlw5goVjvfwea3mb3) | 2:34 | 2023-07-21 | 2023-07-29 |
 | [Texts Go Green](https://open.spotify.com/track/4FIgHqXd4KkOwxrGeLDYM2) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 5:08 | 2022-06-24 | 2022-07-09 |
+| [That Girl](https://open.spotify.com/track/5ZkVidLQ7NcDlPaemrTbtD) | [Jhyve](https://open.spotify.com/artist/0HmsavbsOIIyKWdQOyFh2f) | [That Girl](https://open.spotify.com/album/0GXk9EgSCK9uqaboNWZSdF) | 2:46 | 2024-05-03 |  |
 | [That Thang \(feat\. Jada Kingdom\)](https://open.spotify.com/track/4o74PvFcj51SGKRTZtzPXT) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Mixed Emotions](https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ) | 3:16 | 2023-07-28 | 2023-09-23 |
 | [That's Alright](https://open.spotify.com/track/2mJ1Ll9RgQt6k51gg4Ed0k) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [That's Alright](https://open.spotify.com/album/3qCmnvvPTCS7YjQ8c21BhJ) | 3:52 | 2022-07-29 | 2022-10-29 |
 | [that's how it goes](https://open.spotify.com/track/5qtk6yMO0JXqtEzwEAsREF) | [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [that's how it goes](https://open.spotify.com/album/70M43ZOMnWArjX8dsVx5Ap) | 3:59 | 2024-03-15 |  |

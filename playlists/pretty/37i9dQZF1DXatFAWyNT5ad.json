@@ -1,6 +1,6 @@
 {
   "description": "Let's mix it. Cover: Imagine Dragons",
-  "num_followers": 138492,
+  "num_followers": 138569,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
-        "name": "hell of a good time",
-        "url": "https://open.spotify.com/album/0VKgOKH0D2HDwZlqfKH3HT"
-      },
-      "artists": [
-        {
-          "name": "Haiden Henderson",
-          "url": "https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p"
-        }
-      ],
-      "duration_ms": 161475,
-      "name": "hell of a good time",
-      "url": "https://open.spotify.com/track/7132EFlbWFNX4mLDY23OR5"
-    },
-    {
-      "added_at": "2024-04-19 14:19:15",
-      "album": {
         "name": "Seventeen Going Under",
         "url": "https://open.spotify.com/album/4RS1iWb2MC9o21z3t8zxl4"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 302360,
       "name": "Seventeen Going Under",
       "url": "https://open.spotify.com/track/1Dp7ASSZVVOPJ85VdLpjOX"
+    },
+    {
+      "added_at": "2024-04-19 14:19:15",
+      "album": {
+        "name": "hell of a good time",
+        "url": "https://open.spotify.com/album/0VKgOKH0D2HDwZlqfKH3HT"
+      },
+      "artists": [
+        {
+          "name": "Haiden Henderson",
+          "url": "https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p"
+        }
+      ],
+      "duration_ms": 161475,
+      "name": "hell of a good time",
+      "url": "https://open.spotify.com/track/7132EFlbWFNX4mLDY23OR5"
     },
     {
       "added_at": "2024-04-19 14:19:15",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
-        "name": "petals",
-        "url": "https://open.spotify.com/album/0nCriAFnpCNUPgF9VtWhFb"
-      },
-      "artists": [
-        {
-          "name": "Jessica Baio",
-          "url": "https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95"
-        }
-      ],
-      "duration_ms": 157598,
-      "name": "he loves me, he loves me not",
-      "url": "https://open.spotify.com/track/5ftDdWVTk330Wbnm2eRf89"
-    },
-    {
-      "added_at": "2024-04-19 14:19:15",
-      "album": {
         "name": "Punching Bag",
         "url": "https://open.spotify.com/album/4KmzB82Fr509bPq87gG1QS"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 179482,
       "name": "Punching Bag",
       "url": "https://open.spotify.com/track/7fudux10sVIxILOocZaHrW"
+    },
+    {
+      "added_at": "2024-04-19 14:19:15",
+      "album": {
+        "name": "petals",
+        "url": "https://open.spotify.com/album/0nCriAFnpCNUPgF9VtWhFb"
+      },
+      "artists": [
+        {
+          "name": "Jessica Baio",
+          "url": "https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95"
+        }
+      ],
+      "duration_ms": 157598,
+      "name": "he loves me, he loves me not",
+      "url": "https://open.spotify.com/track/5ftDdWVTk330Wbnm2eRf89"
     },
     {
       "added_at": "2024-04-19 14:19:15",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
+        "name": "savior",
+        "url": "https://open.spotify.com/album/79VhbqI5lGEoOPosTHHghp"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 180626,
+      "name": "savior",
+      "url": "https://open.spotify.com/track/2cPgl2d9IPeNB8794NftZT"
+    },
+    {
+      "added_at": "2024-04-19 14:19:15",
+      "album": {
         "name": "Cobra (Rock Remix) [feat. Spiritbox]",
         "url": "https://open.spotify.com/album/30DntygbtMJmhmSFr8ZY5Y"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 186521,
       "name": "Cobra (Rock Remix) [feat. Spiritbox]",
       "url": "https://open.spotify.com/track/6HNWDjbome8TQp0rYRZTQS"
-    },
-    {
-      "added_at": "2024-04-19 14:19:15",
-      "album": {
-        "name": "savior",
-        "url": "https://open.spotify.com/album/79VhbqI5lGEoOPosTHHghp"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 180626,
-      "name": "savior",
-      "url": "https://open.spotify.com/track/2cPgl2d9IPeNB8794NftZT"
     },
     {
       "added_at": "2024-04-19 14:19:15",
@@ -823,18 +823,18 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
-        "name": "How Do You Love Somebody",
-        "url": "https://open.spotify.com/album/2Dc1wn06E8wwYLivi87Brc"
+        "name": "Change Your Mind",
+        "url": "https://open.spotify.com/album/4CnceuWVsiNQmneTfgc3nc"
       },
       "artists": [
         {
-          "name": "Why Don't We",
-          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
         }
       ],
-      "duration_ms": 180065,
-      "name": "How Do You Love Somebody",
-      "url": "https://open.spotify.com/track/4j5gXarJqoiwh4ZIAqZcmh"
+      "duration_ms": 199800,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/7rOk84mV0kJ0H9wsBDDDUY"
     },
     {
       "added_at": "2024-04-19 14:19:15",
@@ -855,6 +855,22 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
+        "name": "How Do You Love Somebody",
+        "url": "https://open.spotify.com/album/2Dc1wn06E8wwYLivi87Brc"
+      },
+      "artists": [
+        {
+          "name": "Why Don't We",
+          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
+        }
+      ],
+      "duration_ms": 180065,
+      "name": "How Do You Love Somebody",
+      "url": "https://open.spotify.com/track/4j5gXarJqoiwh4ZIAqZcmh"
+    },
+    {
+      "added_at": "2024-04-19 14:19:15",
+      "album": {
         "name": "boy",
         "url": "https://open.spotify.com/album/7ddxzwtg0QQj9kXYK29rpG"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 198480,
       "name": "boy",
       "url": "https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy"
-    },
-    {
-      "added_at": "2024-04-19 14:19:15",
-      "album": {
-        "name": "Change Your Mind",
-        "url": "https://open.spotify.com/album/4CnceuWVsiNQmneTfgc3nc"
-      },
-      "artists": [
-        {
-          "name": "Knox",
-          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
-        }
-      ],
-      "duration_ms": 199800,
-      "name": "Change Your Mind",
-      "url": "https://open.spotify.com/track/7rOk84mV0kJ0H9wsBDDDUY"
     },
     {
       "added_at": "2024-04-19 14:19:15",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
-        "name": "First To Go",
-        "url": "https://open.spotify.com/album/3PLVbHQDtLfU70Nji5erZl"
-      },
-      "artists": [
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        }
-      ],
-      "duration_ms": 173066,
-      "name": "First To Go",
-      "url": "https://open.spotify.com/track/3RGTkawjlaqoIsgWSPM47w"
-    },
-    {
-      "added_at": "2024-04-19 14:19:15",
-      "album": {
         "name": "WHEN THE MUSIC STOPS",
         "url": "https://open.spotify.com/album/2PFcE83bDCmLKylmIRB90J"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 193250,
       "name": "WHEN THE MUSIC STOPS",
       "url": "https://open.spotify.com/track/49T4ZaBd8G932neUPU9AWB"
+    },
+    {
+      "added_at": "2024-04-19 14:19:15",
+      "album": {
+        "name": "First To Go",
+        "url": "https://open.spotify.com/album/3PLVbHQDtLfU70Nji5erZl"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "duration_ms": 173066,
+      "name": "First To Go",
+      "url": "https://open.spotify.com/track/3RGTkawjlaqoIsgWSPM47w"
     },
     {
       "added_at": "2024-04-19 14:19:15",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
+        "name": "DO YOU LIKE ME?",
+        "url": "https://open.spotify.com/album/0YdAuUnjZSdfJeL377Q0aS"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 177808,
+      "name": "DO YOU LIKE ME?",
+      "url": "https://open.spotify.com/track/1HG9BNyz9ZpesqRqHYausY"
+    },
+    {
+      "added_at": "2024-04-19 14:19:15",
+      "album": {
         "name": "KULT (feat. Jasiah)",
         "url": "https://open.spotify.com/album/0OxOw42tYvwBMV2MVCWLKl"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 177149,
       "name": "KULT (feat. Jasiah)",
       "url": "https://open.spotify.com/track/22ya9ZSp7FxhcgFLALm0eS"
-    },
-    {
-      "added_at": "2024-04-19 14:19:15",
-      "album": {
-        "name": "DO YOU LIKE ME?",
-        "url": "https://open.spotify.com/album/0YdAuUnjZSdfJeL377Q0aS"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 177808,
-      "name": "DO YOU LIKE ME?",
-      "url": "https://open.spotify.com/track/1HG9BNyz9ZpesqRqHYausY"
     },
     {
       "added_at": "2024-04-19 14:19:15",
@@ -1603,38 +1603,6 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
-        "name": "Loud",
-        "url": "https://open.spotify.com/album/5DqyMoEDgQ3Npv2Rp7wTxc"
-      },
-      "artists": [
-        {
-          "name": "The Home Team",
-          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
-        }
-      ],
-      "duration_ms": 187838,
-      "name": "Loud",
-      "url": "https://open.spotify.com/track/3MmAHvXormpk5x55Ttb72F"
-    },
-    {
-      "added_at": "2024-04-19 14:19:15",
-      "album": {
-        "name": "Crazy Again",
-        "url": "https://open.spotify.com/album/50FmJw1eIHCs4vwzyI5OOK"
-      },
-      "artists": [
-        {
-          "name": "Gossip",
-          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
-        }
-      ],
-      "duration_ms": 197877,
-      "name": "Crazy Again",
-      "url": "https://open.spotify.com/track/1zEwPwgdkD5bKuiovSKi23"
-    },
-    {
-      "added_at": "2024-04-19 14:19:15",
-      "album": {
         "name": "YOU NEEDED A HIT//",
         "url": "https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C"
       },
@@ -1663,6 +1631,38 @@
       "duration_ms": 149106,
       "name": "Spiral City",
       "url": "https://open.spotify.com/track/6LjmIxsNRNrAb8uvJktOeL"
+    },
+    {
+      "added_at": "2024-04-19 14:19:15",
+      "album": {
+        "name": "Crazy Again",
+        "url": "https://open.spotify.com/album/50FmJw1eIHCs4vwzyI5OOK"
+      },
+      "artists": [
+        {
+          "name": "Gossip",
+          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
+        }
+      ],
+      "duration_ms": 197877,
+      "name": "Crazy Again",
+      "url": "https://open.spotify.com/track/1zEwPwgdkD5bKuiovSKi23"
+    },
+    {
+      "added_at": "2024-04-19 14:19:15",
+      "album": {
+        "name": "Loud",
+        "url": "https://open.spotify.com/album/5DqyMoEDgQ3Npv2Rp7wTxc"
+      },
+      "artists": [
+        {
+          "name": "The Home Team",
+          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
+        }
+      ],
+      "duration_ms": 187838,
+      "name": "Loud",
+      "url": "https://open.spotify.com/track/3MmAHvXormpk5x55Ttb72F"
     },
     {
       "added_at": "2024-04-19 14:19:15",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/7IqIVuASgCnZ4q5e39KUDQ"
-      },
-      "artists": [
-        {
-          "name": "Alexander 23",
-          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
-        }
-      ],
-      "duration_ms": 237306,
-      "name": "Yours",
-      "url": "https://open.spotify.com/track/6ZArwNtFh1a4204U7QexUa"
-    },
-    {
-      "added_at": "2024-04-19 14:19:15",
-      "album": {
         "name": "Only Wanna Be With You",
         "url": "https://open.spotify.com/album/3NrrgM6KcTN5J8dyamGleZ"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 190651,
       "name": "Only Wanna Be With You",
       "url": "https://open.spotify.com/track/5i8v4dQ9Lfo0CmG7PU64Z2"
+    },
+    {
+      "added_at": "2024-04-19 14:19:15",
+      "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/7IqIVuASgCnZ4q5e39KUDQ"
+      },
+      "artists": [
+        {
+          "name": "Alexander 23",
+          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
+        }
+      ],
+      "duration_ms": 237306,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/6ZArwNtFh1a4204U7QexUa"
     },
     {
       "added_at": "2024-04-19 14:19:15",
@@ -1887,22 +1887,18 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
-        "name": "cheerleader (ft. Waterparks)",
-        "url": "https://open.spotify.com/album/2tWR94g7epMrZx7UAWeIsw"
+        "name": "Head in The Clouds",
+        "url": "https://open.spotify.com/album/7w0jejpTAtTzkl4IDUcqPH"
       },
       "artists": [
         {
-          "name": "phem",
-          "url": "https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr"
-        },
-        {
-          "name": "Waterparks",
-          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+          "name": "Arrows in Action",
+          "url": "https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ"
         }
       ],
-      "duration_ms": 159863,
-      "name": "cheerleader (ft. Waterparks)",
-      "url": "https://open.spotify.com/track/2malYWL8GiAyoAqvLOeSrX"
+      "duration_ms": 175937,
+      "name": "Head in the Clouds",
+      "url": "https://open.spotify.com/track/3HgDqQCtrw0k5MZR86r7Uq"
     },
     {
       "added_at": "2024-04-19 14:19:15",
@@ -1923,18 +1919,22 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
-        "name": "Head in The Clouds",
-        "url": "https://open.spotify.com/album/7w0jejpTAtTzkl4IDUcqPH"
+        "name": "cheerleader (ft. Waterparks)",
+        "url": "https://open.spotify.com/album/2tWR94g7epMrZx7UAWeIsw"
       },
       "artists": [
         {
-          "name": "Arrows in Action",
-          "url": "https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ"
+          "name": "phem",
+          "url": "https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr"
+        },
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
         }
       ],
-      "duration_ms": 175937,
-      "name": "Head in the Clouds",
-      "url": "https://open.spotify.com/track/3HgDqQCtrw0k5MZR86r7Uq"
+      "duration_ms": 159863,
+      "name": "cheerleader (ft. Waterparks)",
+      "url": "https://open.spotify.com/track/2malYWL8GiAyoAqvLOeSrX"
     },
     {
       "added_at": "2024-04-19 14:19:15",
@@ -2387,22 +2387,6 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
-        "name": "Detox",
-        "url": "https://open.spotify.com/album/3OOmT2BtFmAYRpQkkjeYnM"
-      },
-      "artists": [
-        {
-          "name": "The Veronicas",
-          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
-        }
-      ],
-      "duration_ms": 180237,
-      "name": "Detox",
-      "url": "https://open.spotify.com/track/4hlZuSzSc1amD2v3FbZG1K"
-    },
-    {
-      "added_at": "2024-04-19 14:19:15",
-      "album": {
         "name": "Wisconsin",
         "url": "https://open.spotify.com/album/31RR4pZy65rFv65pX37zyG"
       },
@@ -2415,6 +2399,22 @@
       "duration_ms": 128906,
       "name": "Pretender",
       "url": "https://open.spotify.com/track/209ANSkGIsfA5M5GewdMGi"
+    },
+    {
+      "added_at": "2024-04-19 14:19:15",
+      "album": {
+        "name": "Detox",
+        "url": "https://open.spotify.com/album/3OOmT2BtFmAYRpQkkjeYnM"
+      },
+      "artists": [
+        {
+          "name": "The Veronicas",
+          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
+        }
+      ],
+      "duration_ms": 180237,
+      "name": "Detox",
+      "url": "https://open.spotify.com/track/4hlZuSzSc1amD2v3FbZG1K"
     },
     {
       "added_at": "2024-04-19 14:19:15",

@@ -1,12 +1,12 @@
 {
   "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 30477,
+  "num_followers": 30533,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjA0gAAAAABzBZJ3/7gg7rbVNO/EY+qj",
+  "snapshot_id": "ZjGGAAAAAABjRdV18j4eDrXWv8ALhUaL",
   "tracks": [
     {
       "added_at": null,
@@ -343,26 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Botecitos",
-        "url": "https://open.spotify.com/album/38L08sUpbs7QhNtmb6K1xk"
-      },
-      "artists": [
-        {
-          "name": "Los Pescadores Del Rio Conchos",
-          "url": "https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 188138,
-      "name": "Botecitos",
-      "url": "https://open.spotify.com/track/4Ltzmv1TvehQUomNWwgm7Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Humo De Mi Gallo",
         "url": "https://open.spotify.com/album/6EzDCDQdRd7si00U61tjlN"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 144080,
       "name": "El Humo De Mi Gallo",
       "url": "https://open.spotify.com/track/4peahmVQMLGlWwJLNodzcD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Botecitos",
+        "url": "https://open.spotify.com/album/38L08sUpbs7QhNtmb6K1xk"
+      },
+      "artists": [
+        {
+          "name": "Los Pescadores Del Rio Conchos",
+          "url": "https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 188138,
+      "name": "Botecitos",
+      "url": "https://open.spotify.com/track/4Ltzmv1TvehQUomNWwgm7Y"
     },
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ya No Llores BB",
+        "url": "https://open.spotify.com/album/3Aex8IQQTjNn0FXPVc173W"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 158090,
+      "name": "Ya No Llores BB",
+      "url": "https://open.spotify.com/track/3nhRj5PwAgCViXn9qNjnkx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Ando Solo",
         "url": "https://open.spotify.com/album/4r2CQPM8TknOs9XI2iMYx0"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 156130,
       "name": "Pensaron Que No Podia",
       "url": "https://open.spotify.com/track/0iGc4BWHQdN7iv1IN7Fx3X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ya No Llores BB",
-        "url": "https://open.spotify.com/album/3Aex8IQQTjNn0FXPVc173W"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 158090,
-      "name": "Ya No Llores BB",
-      "url": "https://open.spotify.com/track/3nhRj5PwAgCViXn9qNjnkx"
     },
     {
       "added_at": null,
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 142357,
-      "name": "En Los Puritos Huesos - En Vivo",
-      "url": "https://open.spotify.com/track/1d3J01sINV8BsC38QtWMjL"
+      "duration_ms": 126591,
+      "name": "Andamos Enclicados - En Vivo",
+      "url": "https://open.spotify.com/track/2W7tzc89J9aWW99jHj4UwE"
     },
     {
       "added_at": null,
@@ -912,9 +912,9 @@
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 126591,
-      "name": "Andamos Enclicados - En Vivo",
-      "url": "https://open.spotify.com/track/2W7tzc89J9aWW99jHj4UwE"
+      "duration_ms": 142357,
+      "name": "En Los Puritos Huesos - En Vivo",
+      "url": "https://open.spotify.com/track/1d3J01sINV8BsC38QtWMjL"
     },
     {
       "added_at": null,

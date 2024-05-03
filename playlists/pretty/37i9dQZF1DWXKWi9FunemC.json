@@ -1,6 +1,6 @@
 {
   "description": "Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.",
-  "num_followers": 274696,
+  "num_followers": 274856,
   "original_name": "Love Coffee, Love Jesus",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Love Unending",
+        "url": "https://open.spotify.com/album/2ZIucC5ZWuMUM4Y8cVZFpb"
+      },
+      "artists": [
+        {
+          "name": "Ry Cox",
+          "url": "https://open.spotify.com/artist/16gW6AKnwvZj4t09Jfv4ap"
+        }
+      ],
+      "duration_ms": 270467,
+      "name": "Deeper Water",
+      "url": "https://open.spotify.com/track/1sPYj7Rd00yeMRGefniYuT"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "There Is More (Live)",
         "url": "https://open.spotify.com/album/69o0gRM65PIT2vgZ72XTZm"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 191920,
       "name": "Who You Say I Am - Live/Acoustic",
       "url": "https://open.spotify.com/track/51Q6EroQAuMerQf0Nvfrdh"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Love Unending",
-        "url": "https://open.spotify.com/album/2ZIucC5ZWuMUM4Y8cVZFpb"
-      },
-      "artists": [
-        {
-          "name": "Ry Cox",
-          "url": "https://open.spotify.com/artist/16gW6AKnwvZj4t09Jfv4ap"
-        }
-      ],
-      "duration_ms": 270467,
-      "name": "Deeper Water",
-      "url": "https://open.spotify.com/track/1sPYj7Rd00yeMRGefniYuT"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -591,6 +591,30 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "TOGETHER (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2bxW2yfuNRzAYao44imd3E"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        },
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        },
+        {
+          "name": "Rebecca St. James",
+          "url": "https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9"
+        }
+      ],
+      "duration_ms": 216681,
+      "name": "TOGETHER (Acoustic Version)",
+      "url": "https://open.spotify.com/track/3TX44ZXlkDzGkk8QmlxuYr"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "I can always find You",
         "url": "https://open.spotify.com/album/3xuqtlVGECSJnRvvo94pge"
       },
@@ -619,30 +643,6 @@
       "duration_ms": 272600,
       "name": "Come As You Are",
       "url": "https://open.spotify.com/track/2eYm67Yrt9RGuvSXTbPUd2"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "TOGETHER (Acoustic Version)",
-        "url": "https://open.spotify.com/album/2bxW2yfuNRzAYao44imd3E"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        },
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        },
-        {
-          "name": "Rebecca St. James",
-          "url": "https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9"
-        }
-      ],
-      "duration_ms": 216681,
-      "name": "TOGETHER (Acoustic Version)",
-      "url": "https://open.spotify.com/track/3TX44ZXlkDzGkk8QmlxuYr"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Peopled with Dreams",
-        "url": "https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv"
-      },
-      "artists": [
-        {
-          "name": "John Mark McMillan",
-          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
-        }
-      ],
-      "duration_ms": 237113,
-      "name": "Pilgrim",
-      "url": "https://open.spotify.com/track/1o5n9x03Na2DzkUuGB0TMo"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Secret Place",
         "url": "https://open.spotify.com/album/29pydTpePrgdD4rHOMohlz"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 181011,
       "name": "Secret Place",
       "url": "https://open.spotify.com/track/1ALad9pAC3JSK7SvqGAwKa"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Peopled with Dreams",
+        "url": "https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv"
+      },
+      "artists": [
+        {
+          "name": "John Mark McMillan",
+          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
+        }
+      ],
+      "duration_ms": 237113,
+      "name": "Pilgrim",
+      "url": "https://open.spotify.com/track/1o5n9x03Na2DzkUuGB0TMo"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Keeper of Days",
+        "url": "https://open.spotify.com/album/0flP7iXzaUHPPyOeizocTn"
+      },
+      "artists": [
+        {
+          "name": "Jon Guerra",
+          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
+        }
+      ],
+      "duration_ms": 354223,
+      "name": "Teach Us That One Song",
+      "url": "https://open.spotify.com/track/3hImGfeJiJpKI8o3C3mTzY"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Psalm 136 [Your Mercy Endures] [Thomas Merton Mix] (feat. Leslie Jordan] [Thomas Merton Mix)",
         "url": "https://open.spotify.com/album/0pNvG1RHm2oONef2kFbGkw"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 300746,
       "name": "Psalm 136 [Your Mercy Endures] [Thomas Merton Mix] - feat. Leslie Jordan] [Thomas Merton Mix",
       "url": "https://open.spotify.com/track/685qjYgfMFp0UKvPbDNYoz"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Keeper of Days",
-        "url": "https://open.spotify.com/album/0flP7iXzaUHPPyOeizocTn"
-      },
-      "artists": [
-        {
-          "name": "Jon Guerra",
-          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
-        }
-      ],
-      "duration_ms": 354223,
-      "name": "Teach Us That One Song",
-      "url": "https://open.spotify.com/track/3hImGfeJiJpKI8o3C3mTzY"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -951,6 +951,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "All In",
+        "url": "https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "duration_ms": 188563,
+      "name": "Broken Things - Acoustic",
+      "url": "https://open.spotify.com/track/3WNw8qXIN8PnOqoVgYXCEl"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Valley (CalledOut Music Remix)",
         "url": "https://open.spotify.com/album/6K8MrDCAJxTbGdBNKgXiLp"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 274546,
       "name": "Ashes to Skies",
       "url": "https://open.spotify.com/track/4aJF4yZ2bTfeHjuDiDD1ix"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "All In",
-        "url": "https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g"
-      },
-      "artists": [
-        {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
-        }
-      ],
-      "duration_ms": 188563,
-      "name": "Broken Things - Acoustic",
-      "url": "https://open.spotify.com/track/3WNw8qXIN8PnOqoVgYXCEl"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1284,10 +1284,6 @@
       },
       "artists": [
         {
-          "name": "the quiet hours",
-          "url": "https://open.spotify.com/artist/3yQPMxOkCUCB78X2Gcj7aT"
-        },
-        {
           "name": "Andrew Osenga",
           "url": "https://open.spotify.com/artist/1lJC5MbTUW5ld4yXzNB0H4"
         }
@@ -1511,38 +1507,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "The Longing",
-        "url": "https://open.spotify.com/album/6IpXfQ3ZV5OPxtfIUqvgMj"
-      },
-      "artists": [
-        {
-          "name": "Ben Ford",
-          "url": "https://open.spotify.com/artist/10WbhRSfvwdGvzcOx0Ezgi"
-        }
-      ],
-      "duration_ms": 289048,
-      "name": "I Never Knew",
-      "url": "https://open.spotify.com/track/3nEEv82nVunaz0kGgyFWV8"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Letting Go (Alternate Version)",
-        "url": "https://open.spotify.com/album/4OnW0Q4uEWqOFxz10S7fQJ"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
-        }
-      ],
-      "duration_ms": 212739,
-      "name": "Letting Go - Alternate Version",
-      "url": "https://open.spotify.com/track/2hrpfntURuJcSPYJy7nIr8"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Still There's Something",
         "url": "https://open.spotify.com/album/4d4EkrXfLUpuQMviLTdNXV"
       },
@@ -1563,6 +1527,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "The Longing",
+        "url": "https://open.spotify.com/album/6IpXfQ3ZV5OPxtfIUqvgMj"
+      },
+      "artists": [
+        {
+          "name": "Ben Ford",
+          "url": "https://open.spotify.com/artist/10WbhRSfvwdGvzcOx0Ezgi"
+        }
+      ],
+      "duration_ms": 289048,
+      "name": "I Never Knew",
+      "url": "https://open.spotify.com/track/3nEEv82nVunaz0kGgyFWV8"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Bridges",
         "url": "https://open.spotify.com/album/5lx5uNnvFxSiruId2vTS1a"
       },
@@ -1575,6 +1555,22 @@
       "duration_ms": 216436,
       "name": "Bridges",
       "url": "https://open.spotify.com/track/7nkKHByyonJIPEx8OxgoZR"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Letting Go (Alternate Version)",
+        "url": "https://open.spotify.com/album/4OnW0Q4uEWqOFxz10S7fQJ"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        }
+      ],
+      "duration_ms": 212739,
+      "name": "Letting Go - Alternate Version",
+      "url": "https://open.spotify.com/track/2hrpfntURuJcSPYJy7nIr8"
     },
     {
       "added_at": "2023-07-28 04:01:00",

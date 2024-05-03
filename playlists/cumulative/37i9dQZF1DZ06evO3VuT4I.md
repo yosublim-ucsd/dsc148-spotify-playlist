@@ -2,7 +2,7 @@
 
 ### [This Is Suzanne Ciani](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3VuT4I)
 
-> This is Suzanne Ciani\. Todos os maiores hits em uma só playlist.
+> This is Suzanne Ciani\. The essential tracks, all in one playlist.
 
 112 songs - 9 hr 21 min
 
@@ -29,7 +29,7 @@
 | [Butterflies](https://open.spotify.com/track/4yUwQRabaQZMbVOkPxxdap) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo III](https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW) | 4:45 | 2022-05-29 |  |
 | [Capri](https://open.spotify.com/track/2M5QxNMs83xjGeKba51o4w) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Silver Ship](https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK) | 3:33 | 2022-05-30 | 2023-05-23 |
 | [Celtic Nights](https://open.spotify.com/track/2xMUE2MRptR7uc8r8i2brq) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo III](https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW) | 4:33 | 2022-05-29 |  |
-| [Closed Circuit](https://open.spotify.com/track/3boYC8PtVEiSCBsAfw7hah) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Closed Circuit](https://open.spotify.com/album/3KTOLx2jl7FYJG93VGvs6F) | 5:24 | 2022-05-29 | 2024-05-02 |
+| [Closed Circuit](https://open.spotify.com/track/3boYC8PtVEiSCBsAfw7hah) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Closed Circuit](https://open.spotify.com/album/3KTOLx2jl7FYJG93VGvs6F) | 5:24 | 2022-05-29 |  |
 | [Concert at Phil Niblock's Loft](https://open.spotify.com/track/0t7H4g6R10lDoGMvM9Vt5n) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Buchla Concerts 1975](https://open.spotify.com/album/2eRdpXgHPeltZL4nMr3Qxr) | 20:00 | 2022-05-29 | 2022-10-13 |
 | [Concert at Wbai Free Music Store](https://open.spotify.com/track/1SrKUJ1r6wNGSqaF7aKvzv) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Buchla Concerts 1975](https://open.spotify.com/album/2eRdpXgHPeltZL4nMr3Qxr) | 19:49 | 2022-05-29 | 2023-02-14 |
 | [Coral Reef](https://open.spotify.com/track/2rjMOz1O2RRmVZyQoXHgzv) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr), [Jonathan Fitoussi](https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b) | [Coral Reef](https://open.spotify.com/album/6Wm6Kek2O1stXbYi75wWKJ) | 4:46 | 2023-09-15 | 2023-11-11 |
@@ -39,7 +39,7 @@
 | [Dentecane](https://open.spotify.com/track/0XJWHhigCRsq1JPmULi1ws) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Silver Ship](https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK) | 3:11 | 2022-05-29 |  |
 | [Dream of the Pink Zebra](https://open.spotify.com/track/5soT0vJ6kTN1pRDYtVeRev) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Dream Suite](https://open.spotify.com/album/12w6StuJjgjQgaGuiLMvUo) | 3:38 | 2022-06-27 | 2022-09-09 |
 | [Drifting](https://open.spotify.com/track/44oGOmVIujTmRF3rLP1A4Y) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo](https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh) | 4:15 | 2022-06-25 | 2024-01-11 |
-| [Eagle](https://open.spotify.com/track/5qSxp12DHTXYyqeDlOnMr9) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 4:07 | 2022-05-29 |  |
+| [Eagle](https://open.spotify.com/track/5qSxp12DHTXYyqeDlOnMr9) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 4:07 | 2022-05-29 | 2024-05-03 |
 | [Eclipse](https://open.spotify.com/track/4loFAwDRPaSB1QMJyO7jdZ) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Silver Ship](https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK) | 3:52 | 2022-05-29 |  |
 | [Etude](https://open.spotify.com/track/4mOCUgov9WwOt40RAbD3xX) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 3:27 | 2022-06-08 | 2024-02-19 |
 | [Flowers Of Evil](https://open.spotify.com/track/39yNHxks286iIcWLmQCg2m) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Flowers Of Evil](https://open.spotify.com/album/0XB4eado6AWXas8Z98FmG6) | 14:08 | 2022-05-29 | 2024-01-19 |
@@ -49,7 +49,7 @@
 | [Golden Apples Of The Sun](https://open.spotify.com/track/08f0QMRnzTRdH7XdMamzGT) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr), [Jonathan Fitoussi](https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b) | [Golden Apples of the Sun](https://open.spotify.com/album/7uyjAWuLd40b8qvYJe2t1K) | 4:33 | 2023-11-10 |  |
 | [Golden Apples Of The Sun](https://open.spotify.com/track/099oDIAistqagX3RuQsUzJ) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr), [Jonathan Fitoussi](https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b) | [Golden Apples of the Sun](https://open.spotify.com/album/0ebjgkPTgQG8dhY4qOewiy) | 4:33 | 2023-06-18 | 2023-11-11 |
 | [History Of My Heart](https://open.spotify.com/track/7HywLdWwU2nkyTwIsnI5Qs) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [The Velocity Of Love](https://open.spotify.com/album/0j07ux1zZw12yRPXycIjgp) | 9:46 | 2022-05-29 | 2023-03-25 |
-| [Hotel Luna](https://open.spotify.com/track/225CpNDvmJKuJZdCIlaSjh) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 2:54 | 2022-05-29 | 2024-05-02 |
+| [Hotel Luna](https://open.spotify.com/track/225CpNDvmJKuJZdCIlaSjh) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 2:54 | 2022-05-29 |  |
 | [I Believe in Love](https://open.spotify.com/track/6DJr81XitsgZRIs7lrufav) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo III](https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW) | 3:52 | 2024-01-08 | 2024-01-21 |
 | [I Believe In Love](https://open.spotify.com/track/2a7jVjRzqSSWG3HbylzHrY) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Turning](https://open.spotify.com/album/3069ogaIdXqfzkhbkGNxaK) | 4:03 | 2022-06-01 | 2023-09-16 |
 | [If I Could](https://open.spotify.com/track/6ZeJG2I9SmUzTtE0zY5Iwx) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo III](https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW) | 4:14 | 2022-05-31 | 2024-04-28 |
@@ -76,7 +76,7 @@
 | [Ocean Avenue](https://open.spotify.com/track/3bqA2pghklVzvAn4U04qLO) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Turning](https://open.spotify.com/album/3069ogaIdXqfzkhbkGNxaK) | 4:14 | 2022-05-29 | 2022-11-26 |
 | [Oceanium](https://open.spotify.com/track/0sEjFNddVHkq8Wf7fWsMSh) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr), [Jonathan Fitoussi](https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b) | [Golden Apples of the Sun](https://open.spotify.com/album/7uyjAWuLd40b8qvYJe2t1K) | 7:58 | 2023-10-10 |  |
 | [Ondine \(From Hotel Luna\)](https://open.spotify.com/track/3miJRnWeoyvaQTwo5UTGWe) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [The Private Music Of Suzanne Ciani](https://open.spotify.com/album/2nmaIXpBrniXN49g4morGy) | 3:52 | 2022-05-29 |  |
-| [Open Seas](https://open.spotify.com/track/51PQWtxQ9doTVToh33gi94) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Silver Ship](https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK) | 3:36 | 2022-05-30 |  |
+| [Open Seas](https://open.spotify.com/track/51PQWtxQ9doTVToh33gi94) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Silver Ship](https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK) | 3:36 | 2022-05-30 | 2024-05-03 |
 | [Part Eight](https://open.spotify.com/track/4Ug32kdtEa1Jy8gJmFK8JU) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [LIVE Quadraphonic](https://open.spotify.com/album/1WWOmrEQHpvibV3bQBvcIN) | 1:19 | 2022-05-29 | 2023-12-19 |
 | [Part Four](https://open.spotify.com/track/2N4S5fkh6rzNphvt9EqdVh) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [LIVE Quadraphonic](https://open.spotify.com/album/1WWOmrEQHpvibV3bQBvcIN) | 2:51 | 2022-05-30 | 2022-06-01 |
 | [Part Two](https://open.spotify.com/track/3ipLNSWCkDMjiRyplhkps8) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [LIVE Quadraphonic](https://open.spotify.com/album/1WWOmrEQHpvibV3bQBvcIN) | 5:13 | 2022-06-27 | 2022-10-02 |

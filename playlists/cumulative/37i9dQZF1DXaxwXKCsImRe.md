@@ -2,9 +2,9 @@
 
 ### [RADAR BNLX](https://open.spotify.com/playlist/37i9dQZF1DXaxwXKCsImRe)
 
-> A Spotify program to promote exciting artists! RADAR BNLX: <a href="spotify:artist:1hqxH66i1ZwEBAkzORVRPW">Berre</a> \(cover\), The Indien, Roxy Dekker,  Siggy & D1ns en Kids With Buns.
+> A Spotify program to promote exciting artists! RADAR BNLX: <a href="spotify:artist:7Hr9muVs27WNIcEqGVQGcm">Siggy & D1ns</a> \(cover\), The Indien, Berre en Roxy Dekker
 
-174 songs - 9 hr 10 min
+175 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Can't Let Go](https://open.spotify.com/track/3BOPpN9AKSP7bMB1C5IPI2) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [The Godfather](https://open.spotify.com/artist/4cwes8iJ00ShgVaEX7yKZb), [Tony Sherman](https://open.spotify.com/artist/5PGrx2urmHR1xmOvSMAK3l) | [Can't Let Go](https://open.spotify.com/album/7GkzL6dZQiXLuveDeOKY7h) | 3:14 | 2023-04-06 | 2023-09-15 |
 | [chameleons](https://open.spotify.com/track/344QBfyJrOAKfDgZ8JkRvs) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [chameleons](https://open.spotify.com/album/0qVtwRqe3IYlKAVKf9TO6T) | 2:45 | 2022-05-20 | 2022-08-26 |
 | [Cherry](https://open.spotify.com/track/36RGU7buus2UUtrPZ78hkR) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Cherry](https://open.spotify.com/album/07wf8AuTUtfUR9MlopkRBM) | 3:25 | 2021-12-10 | 2022-10-18 |
-| [ChouChou](https://open.spotify.com/track/4CPWhSxDp6N4p8YWj43mpy) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [ChouChou](https://open.spotify.com/album/1RGI0NzcvbOEAvkuHqVXv6) | 2:03 | 2023-11-23 |  |
+| [ChouChou](https://open.spotify.com/track/4CPWhSxDp6N4p8YWj43mpy) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [ChouChou](https://open.spotify.com/album/1RGI0NzcvbOEAvkuHqVXv6) | 2:03 | 2023-11-23 | 2024-05-03 |
 | [clutter](https://open.spotify.com/track/7aqLykWVESt4fuwX05tzmE) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [clutter](https://open.spotify.com/album/4YCV5lQcuCZGVaJUqm6Uk6) | 2:47 | 2023-08-14 | 2024-04-05 |
 | [Coco Loco](https://open.spotify.com/track/2n4Ul3ywASFI46NKxWrGtL) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [KUENTA](https://open.spotify.com/artist/3pr6mWxBNnh2OHul3o0A0p), [Cheryl Lispier](https://open.spotify.com/artist/57DvbdvXfkpcMOgSlo8rnt) | [Roots EP, Pt\. 1](https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2) | 3:52 | 2023-09-14 | 2024-01-19 |
 | [Control](https://open.spotify.com/track/50Td3qilgs8BLtv8mHyT1t) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Control](https://open.spotify.com/album/4w177LbRYa3z07NifGptFp) | 3:50 | 2021-12-10 | 2022-06-17 |
@@ -118,6 +118,7 @@
 | [Olivia](https://open.spotify.com/track/14dDvp4EA4E3QLruknbMin) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Olivia](https://open.spotify.com/album/5q1CBu4yM0QZqv3PAHpblw) | 2:27 | 2022-07-12 | 2022-10-18 |
 | [Olivia](https://open.spotify.com/track/5Hit62TgQpCUwIdsU3KV14) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Olivia](https://open.spotify.com/album/7KRMWbRSpFfyBqvkrHegWw) | 2:27 | 2022-06-06 | 2022-07-29 |
 | [Olé](https://open.spotify.com/track/6cTSInCxBcwkxzPkPWgeZa) | [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO) | [Olé](https://open.spotify.com/album/3Hb5IQlGre1L2S6VJf3ier) | 3:12 | 2021-12-10 | 2022-08-26 |
+| [Op De Zeeweg](https://open.spotify.com/track/4JOblmRHWzKGEhbyUybJjs) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [Op De Zeeweg](https://open.spotify.com/album/73Znb9DymBPQLBEKFDf1M7) | 2:21 | 2024-05-02 |  |
 | [Out Of My Way](https://open.spotify.com/track/62tz6SFL395514c4ZXCnQa) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm) | [Out Of My Way](https://open.spotify.com/album/4jz1nR0RuhDXZQJztdPDa9) | 3:28 | 2023-09-14 |  |
 | [Outside](https://open.spotify.com/track/70VDwHuba0z6HMHG6UifIG) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Outside](https://open.spotify.com/album/3r1dWitPtJXSO5BQbWDoPr) | 2:47 | 2023-05-17 | 2023-09-15 |
 | [Paradis](https://open.spotify.com/track/53CZ1AmFTNPQnLrzGAlw2j) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Paradis](https://open.spotify.com/album/3H70ykleQyOBLTyXlU4Gy9) | 2:21 | 2023-05-09 | 2023-09-15 |
@@ -173,7 +174,7 @@
 | [What Goes, Let Go](https://open.spotify.com/track/21jath1y9BcbV3tZKUXFw4) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [What Goes, Let Go](https://open.spotify.com/album/1YqDdcokv3cDe2819uRPrw) | 4:34 | 2022-07-12 | 2023-01-28 |
 | [What Goes, Let Go](https://open.spotify.com/track/4iFIEGT8UYsRYDYwK8HSTS) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [blue](https://open.spotify.com/album/50wSrf8RWs8yiJyHJY2KhA) | 4:34 | 2022-11-03 | 2022-11-13 |
 | [Who’s Gonna Be The GOAT?](https://open.spotify.com/track/43lovrb0yCRgUzM3CA2KNz) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [\(yellow\)](https://open.spotify.com/album/4OwS1arhD7iCSSDRjF28tu) | 2:44 | 2022-02-10 | 2023-01-28 |
-| [Wil Je Dat Ik Blijf](https://open.spotify.com/track/1OHmMT2JfYPqKJs6NAq8PY) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [Wil Je Dat Ik Blijf](https://open.spotify.com/album/7l16ZGPtMRoVMwAJPxFI1o) | 2:58 | 2024-01-18 |  |
+| [Wil Je Dat Ik Blijf](https://open.spotify.com/track/1OHmMT2JfYPqKJs6NAq8PY) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [Wil Je Dat Ik Blijf](https://open.spotify.com/album/7l16ZGPtMRoVMwAJPxFI1o) | 2:58 | 2024-01-18 | 2024-05-03 |
 | [Wilde Rozen](https://open.spotify.com/track/62B4ceP9bpaBYV7h443aMp) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Wilde Rozen](https://open.spotify.com/album/7Eea9Jvh1okLitSUSQIF1W) | 3:02 | 2022-06-16 | 2022-08-26 |
 | [WITHOUT YOU](https://open.spotify.com/track/27OeeYzk6klgBh83TSvGMA) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [F\*CK LOVE \(SAVAGE\)](https://open.spotify.com/album/3YjfdLdpQcVI72uKhooZst) | 2:41 | 2021-12-10 | 2022-10-18 |
 | [You Were in My Dream Last Night](https://open.spotify.com/track/2ibQdYbPWdKbGq1Q0QrIXB) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [You Were In My Dream Last Night](https://open.spotify.com/album/1lELKw9fX8yRiDNEAI7hTE) | 4:01 | 2022-10-05 | 2023-04-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 
 > Songs of love, hope and positivity for the world\.   Listen with Spirit!  Cover: Hannah Kerr
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,617 likes - 65 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,640 likes - 65 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 | 41 | [Feel The Waters \(RUSLAN Remix\)](https://open.spotify.com/track/4dw5THeXY6ybMblZBzre9D) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL), [RUSLAN](https://open.spotify.com/artist/0Xdvr42oMLOrVWFhgM253P) | [Feel The Waters \(RUSLAN Remix\)](https://open.spotify.com/album/1sJdXcBBxSql0JxCX97bX3) | 3:08 |
 | 42 | [You Are Good](https://open.spotify.com/track/4n5opjW4KMNUr3NhOgCgwp) | [Shanny Jeann](https://open.spotify.com/artist/3QFEQDqiDb6FQhA5XA4fnI) | [You Are Good](https://open.spotify.com/album/1j9s8mN2uXbo9RGYLFrmT8) | 2:53 |
 | 43 | [Battle](https://open.spotify.com/track/6IXJtvISqPxhe3wmm9iCWN) | [Miqueas Lopez](https://open.spotify.com/artist/3CtCrWU7itUfsXGE9cPwMn) | [Battle](https://open.spotify.com/album/3iIZE417H5P3jUhpS87rFp) | 3:07 |
-| 44 | [Lead the Way](https://open.spotify.com/track/4kOe0ZUSIlIjXsZSx4zFBz) | [Caleb Crino](https://open.spotify.com/artist/2H6txjI4kswHScMO8VYtkG) | [Caleb Crino](https://open.spotify.com/album/4uW1eDXAs4KollydvzHLJa) | 3:15 |
-| 45 | [Paranoia](https://open.spotify.com/track/7qN4u1nehLLf702kG6j1QJ) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [Paranoia](https://open.spotify.com/album/5p4J0GlaNKf5Ti8P3YjNYw) | 2:58 |
+| 44 | [Paranoia](https://open.spotify.com/track/7qN4u1nehLLf702kG6j1QJ) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [Paranoia](https://open.spotify.com/album/5p4J0GlaNKf5Ti8P3YjNYw) | 2:58 |
+| 45 | [Lead the Way](https://open.spotify.com/track/4kOe0ZUSIlIjXsZSx4zFBz) | [Caleb Crino](https://open.spotify.com/artist/2H6txjI4kswHScMO8VYtkG) | [Caleb Crino](https://open.spotify.com/album/4uW1eDXAs4KollydvzHLJa) | 3:15 |
 | 46 | [The Great Migration](https://open.spotify.com/track/64GSNWih2teT6tLgKOv0DR) | [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [The Great Migration](https://open.spotify.com/album/3f2KvqW6BlbFsE4sAC4Az0) | 4:57 |
 | 47 | [Currency](https://open.spotify.com/track/4OzUSLeplKwTm2iSbrkF8g) | [Ben Ford](https://open.spotify.com/artist/10WbhRSfvwdGvzcOx0Ezgi) | [Currency](https://open.spotify.com/album/0iE9w3HQScgdOPXoFEwGWh) | 4:19 |
 | 48 | [In Rhythm](https://open.spotify.com/track/1V4M9hcOewZm6xydaxsWl0) | [Mirours](https://open.spotify.com/artist/75LCOigw8mFKzvhjpHv2jT) | [In Rhythm](https://open.spotify.com/album/3g2ucyCUURbjVNo8ec6rO0) | 4:52 |

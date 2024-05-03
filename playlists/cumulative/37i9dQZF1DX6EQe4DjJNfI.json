@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: HODARI, Urias",
+  "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Beb\u00e9",
   "name": "R&B Brasil",
   "tracks": [
     {
@@ -335,6 +335,24 @@
     },
     {
       "album": {
+        "name": "Assome",
+        "url": "https://open.spotify.com/album/7DZArTAJwtOqfchatOZR5c"
+      },
+      "artists": [
+        {
+          "name": "Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179498,
+      "name": "Assome",
+      "url": "https://open.spotify.com/track/5JjtvbvHPUWKju4nStjFcO"
+    },
+    {
+      "album": {
         "name": "Auge",
         "url": "https://open.spotify.com/album/3VeBQmFmne7gU4xU6jqlGu"
       },
@@ -376,6 +394,28 @@
       "duration_ms": 183999,
       "name": "Azul - Ao Vivo",
       "url": "https://open.spotify.com/track/2JmhvM1syXJaFfvgZJk2Nw"
+    },
+    {
+      "album": {
+        "name": "A\u00e7a\u00ed e Amendo\u00edm",
+        "url": "https://open.spotify.com/album/36yIeO6OMUs4aa1GxdbCsJ"
+      },
+      "artists": [
+        {
+          "name": "Nevess",
+          "url": "https://open.spotify.com/artist/3Cmd7iDVwnt0rgVdveqNVy"
+        },
+        {
+          "name": "Caslu",
+          "url": "https://open.spotify.com/artist/0j5Ei0F504PNqn0DSzIodP"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193414,
+      "name": "A\u00e7a\u00ed e Amendo\u00edm",
+      "url": "https://open.spotify.com/track/3rSrYhRAqFVTg1Lva2uCvw"
     },
     {
       "album": {
@@ -574,7 +614,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 147130,
       "name": "Bunda Irada",
       "url": "https://open.spotify.com/track/2gV1NayptOesaBhCGm1rzT"
@@ -1076,7 +1116,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 227234,
       "name": "Del\u00edrio",
       "url": "https://open.spotify.com/track/3XzYdM3XYfrdWInWct8moG"
@@ -1270,6 +1310,24 @@
       "duration_ms": 241371,
       "name": "ele diz que me ama s2",
       "url": "https://open.spotify.com/track/0qBp10DuUxfu3VPVxeohwJ"
+    },
+    {
+      "album": {
+        "name": "Endless",
+        "url": "https://open.spotify.com/album/0ctk99YFo7JDcwBkISKIOC"
+      },
+      "artists": [
+        {
+          "name": "Juniper",
+          "url": "https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167088,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/4egPWmPxPbamKFF71SikGk"
     },
     {
       "album": {
@@ -2490,7 +2548,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 176640,
       "name": "Nem Sei Fingir",
       "url": "https://open.spotify.com/track/4G9gWLcVflZjv56Fp8SKnP"

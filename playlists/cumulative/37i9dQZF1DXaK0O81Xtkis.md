@@ -2,9 +2,9 @@
 
 ### [soda](https://open.spotify.com/playlist/37i9dQZF1DXaK0O81Xtkis)
 
-> make it pop! cover: Haiden Henderson
+> make it pop! cover: LAUREL
 
-973 songs - 2 day 0 hr 18 min
+978 songs - 2 day 0 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [3am in nyc](https://open.spotify.com/track/6gyTRWKIQ9XFjZrxrslFsg) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [3am in nyc](https://open.spotify.com/album/24eFlf4LVYWjP2ytw8CC8M) | 3:09 | 2022-08-19 | 2022-08-27 |
 | [3D Feelings](https://open.spotify.com/track/1OkW0tv1k3kNB0IXDN2oPL) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [3D Feelings](https://open.spotify.com/album/0ZY2Lg0utycFyUQSDlK3MZ) | 3:17 | 2021-11-05 | 2022-02-26 |
 | [4321](https://open.spotify.com/track/22ZjKxmxtMXoAnJSN9gpq5) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [4321](https://open.spotify.com/album/5cqnDDzRKXFsjpax8cY2yo) | 3:52 | 2023-11-17 | 2024-01-05 |
+| [45 Degrees](https://open.spotify.com/track/1UGDTESOgdxI0mMC58c0Lk) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [45 Degrees](https://open.spotify.com/album/6taRejX26UcIVgkBjxKzry) | 3:12 | 2024-05-03 |  |
 | [6AM](https://open.spotify.com/track/5AJ9oWWYzHvSJYX6IBEvMK) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [6AM](https://open.spotify.com/album/0rRFHYaPCKGwQ7pWB3H2JG) | 3:10 | 2021-10-29 | 2022-02-05 |
 | [6am in amsterdam.](https://open.spotify.com/track/4SRmLLMhqGvYc4QuvVhFsO) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn) | [as the world is passing by.](https://open.spotify.com/album/4D98wniyXPAR0xBjmJvpge) | 3:27 | 2022-12-02 | 2023-01-21 |
 | [a girl like me](https://open.spotify.com/track/2KzkWP9RYW1xz4gqDRArQd) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [a girl like me](https://open.spotify.com/album/51gIsdlU8UIgzSgDJrEr9Z) | 2:42 | 2023-11-10 | 2024-02-17 |
@@ -161,6 +162,7 @@
 | [Cinnamon](https://open.spotify.com/track/1gRWoklE6IT3eVP7mSlFwd) | [Emarosa](https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek) | [Sting](https://open.spotify.com/album/0BBW1lCE63dBs7u79aFIet) | 3:06 | 2023-01-27 | 2023-03-25 |
 | [Clarity](https://open.spotify.com/track/54fIT6FB4H6z3BJXQai1hm) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Clarity](https://open.spotify.com/album/49WXECyPBx84Kw0E33sjCY) | 2:17 | 2024-02-02 | 2024-04-06 |
 | [Clarity](https://open.spotify.com/track/6FXQ9ghvyzV2zYlUEie5BH) | [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu) | [Clarity](https://open.spotify.com/album/5NJxsb5bQl5s4JqWRc8uu9) | 3:16 | 2022-01-21 | 2022-02-26 |
+| [Close Calls](https://open.spotify.com/track/2JO7CpZKggHArL31IKRpZx) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Breakfast EP](https://open.spotify.com/album/2onCLWv34wdqijf6bJDIr9) | 2:41 | 2024-05-03 |  |
 | [Close My Eyes](https://open.spotify.com/track/0CQ4LqiyejeeXRDCce1Mp4) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [Close My Eyes](https://open.spotify.com/album/1dsCW9E6mNZxcxfp0zgTH4) | 2:49 | 2024-04-05 |  |
 | [closer \(feat\. salem ilese\)](https://open.spotify.com/track/0woZCazDDjtcbfbb1ouPnM) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [closer \(feat\. salem ilese\)](https://open.spotify.com/album/0uw76tQa9eYOLkJhtqYcwD) | 2:54 | 2024-03-15 | 2024-04-27 |
 | [Closure \(feat\. Calica\)](https://open.spotify.com/track/4sE5BzWDrAVNZzuslCi6K5) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66), [Calica](https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG) | [Closure feat\. Calica](https://open.spotify.com/album/1JoKaXrvdh5FbP2nB6VB5R) | 3:36 | 2021-11-05 | 2022-02-26 |
@@ -182,6 +184,7 @@
 | [Coping on Unemployment](https://open.spotify.com/track/1ckD1kD5dXuV0LlbWyYcRU) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Coping on Unemployment](https://open.spotify.com/album/5lh7UQoL2Sd9HJv6kFEsTw) | 3:48 | 2023-07-28 | 2023-09-30 |
 | [Cowboys Don’t Cry](https://open.spotify.com/track/13plTOJUDmgBrTEd7yzTgq) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboys Don’t Cry](https://open.spotify.com/album/3vAAKKBTjbIAKcJDprhhEQ) | 3:09 | 2022-01-14 | 2022-02-26 |
 | [Crash](https://open.spotify.com/track/5cdJiIDHw2FwVblQYT7fN0) | [Faime](https://open.spotify.com/artist/6bNCZ9mUA7Qpg8Vu6WGox4) | [Crash](https://open.spotify.com/album/5MYFBgOf8RoVql9hXoVHfa) | 2:38 | 2022-07-22 | 2022-08-27 |
+| [Crash Test Dummy](https://open.spotify.com/track/4yLQiDZk5bd51r99U1HRcX) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Breaking the Fourth Wall](https://open.spotify.com/album/2aE5o9vthBfZ7wsqNk7mxR) | 3:49 | 2024-05-03 |  |
 | [crashing down](https://open.spotify.com/track/120gZpbcyjQZ7KNKJxZXnx) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [crashing down](https://open.spotify.com/album/4JHJFHkQfDDimJ8TJamEXf) | 2:19 | 2021-12-17 | 2022-02-26 |
 | [Creatures in Heaven](https://open.spotify.com/track/1e7EdcxkUPFZWfuY4VI3rh) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Creatures In Heaven](https://open.spotify.com/album/6l3Qxnvv49CGolilrSvsd3) | 3:41 | 2024-04-05 |  |
 | [Cross Bridges](https://open.spotify.com/track/1lPZNd1xq4kSClrag6Q8Nx) | [june](https://open.spotify.com/artist/4HPbe1kKBultculBbxH66X) | [Cross Bridges](https://open.spotify.com/album/5hgKC38tzWh22EV98HN3Nc) | 2:57 | 2024-01-26 | 2024-02-17 |
@@ -254,6 +257,7 @@
 | [Essence \(feat\. Super Computer\)](https://open.spotify.com/track/3YQHgTo0898GHXRC2byH52) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Super Computer](https://open.spotify.com/artist/0TcrI5Iv3yrdN36EhOhh3N) | [Alone In A Crowd](https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9) | 2:48 | 2023-10-06 | 2024-02-17 |
 | [Essence \(feat\. Super Computer\)](https://open.spotify.com/track/54Rx1BkEvkkJuNQZHIPw4n) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Super Computer](https://open.spotify.com/artist/0TcrI5Iv3yrdN36EhOhh3N) | [Essence \(feat\. Super Computer\)](https://open.spotify.com/album/38PJKHJDWKR0h9ITcnyeHm) | 2:48 | 2023-09-01 | 2023-10-12 |
 | [evergreen](https://open.spotify.com/track/4XxUka4jIa0girDclOY4iA) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [evergreen](https://open.spotify.com/album/56dV2v5Rd5QVg3A2JPkVnM) | 3:08 | 2022-09-23 | 2022-12-03 |
+| [Every Little Thing I Say I Do](https://open.spotify.com/track/3ngjq0C1z1kVYAdBH5114w) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Every Little Thing I Say I Do](https://open.spotify.com/album/6aYHsDzCmD030bmUaVaKq8) | 3:00 | 2024-05-03 |  |
 | [everything hits me at once](https://open.spotify.com/track/77hDNIRbK41SsEthQ04Nwb) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [everything hits me at once](https://open.spotify.com/album/1KEfhUPBUnf56x7Rh8KoG0) | 2:32 | 2023-09-29 | 2024-02-10 |
 | [Expiration Date](https://open.spotify.com/track/4gSeTIoKhkvGoebMtohlNC) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Expiration Date](https://open.spotify.com/album/0qQxB4grsHTtUYCYlpUCFp) | 3:18 | 2022-09-16 | 2023-02-11 |
 | [Eyes On You](https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Eyes On You](https://open.spotify.com/album/2vwW8EzZGZaAFfZ2HYL1hE) | 2:57 | 2022-11-18 | 2023-03-25 |
@@ -475,6 +479,7 @@
 | [kassidy](https://open.spotify.com/track/5jrwsc97zyaJrO3I7C2bHQ) | [dempsey hope](https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7) | [kassidy](https://open.spotify.com/album/70dj45RyTwssfdSSg9qAUL) | 2:21 | 2022-09-02 | 2022-09-24 |
 | [Keep It Up](https://open.spotify.com/track/3B7cm8w1IAfOfgQHFvAsft) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Keep It Up](https://open.spotify.com/album/2BfzJ8ozCGDPTD9TXNPGrL) | 2:36 | 2024-04-05 |  |
 | [Kick in the Teeth](https://open.spotify.com/track/09IAjxegM08998hgb6ZScZ) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Kick in the Teeth](https://open.spotify.com/album/7zeuAUF8ieCxZ5P9wUxOBB) | 2:47 | 2023-02-24 | 2023-04-22 |
+| [Kids](https://open.spotify.com/track/6EmYpFjAcFMF5dt2krHSSt) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Kids](https://open.spotify.com/album/3A7lw3LCydkMHdvFS7nv1K) | 2:58 | 2024-05-03 |  |
 | [Kids in America \(From the Netflix Film "Do Revenge"\)](https://open.spotify.com/track/1JN2dN2AVW0EfJMhXniTLi) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Kids in America \(From the Netflix Film "Do Revenge"\)](https://open.spotify.com/album/1EBYX0KRDEmZLFjoSQabzT) | 3:14 | 2022-09-16 | 2022-12-03 |
 | [Killing Me](https://open.spotify.com/track/4NLrzQOSepUIR0MvqLxLZN) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/1XiXoTQLk4xjyZ4Dz4B4ob) | 2:45 | 2022-03-25 | 2022-07-16 |
 | [Killing Me](https://open.spotify.com/track/1E9OxtPYXVqFGKm8Q4eeVY) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Hastings](https://open.spotify.com/artist/0cMrisD7Y14WMODerxofNO) | [Killing Me](https://open.spotify.com/album/4cj0lhzyzTnshmDz6SFbHm) | 2:55 | 2022-09-02 | 2022-09-13 |

@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume. Cover: Esther Graf",
-  "num_followers": 33944,
+  "num_followers": 33973,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-05-01 07:25:52",
       "album": {
-        "name": "Okay",
-        "url": "https://open.spotify.com/album/2Xq0W6DDHiTLhDvbwTVgy1"
-      },
-      "artists": [
-        {
-          "name": "LUANA",
-          "url": "https://open.spotify.com/artist/1n5afsM6tuJMrJJbkH5xob"
-        }
-      ],
-      "duration_ms": 169746,
-      "name": "Okay",
-      "url": "https://open.spotify.com/track/0UPFZwrNWHwzqVHv5E7nVX"
-    },
-    {
-      "added_at": "2024-05-01 07:25:52",
-      "album": {
         "name": "Frag f\u00fcr ne Freundin",
         "url": "https://open.spotify.com/album/0aAnxAv2lfiALp1hLeXrRh"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 150819,
       "name": "Frag f\u00fcr ne Freundin",
       "url": "https://open.spotify.com/track/4XcC60aHv6XrbcXIH6a9mz"
+    },
+    {
+      "added_at": "2024-05-01 07:25:52",
+      "album": {
+        "name": "Okay",
+        "url": "https://open.spotify.com/album/2Xq0W6DDHiTLhDvbwTVgy1"
+      },
+      "artists": [
+        {
+          "name": "LUANA",
+          "url": "https://open.spotify.com/artist/1n5afsM6tuJMrJJbkH5xob"
+        }
+      ],
+      "duration_ms": 169746,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/0UPFZwrNWHwzqVHv5E7nVX"
     },
     {
       "added_at": "2024-05-01 07:25:52",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-05-01 07:25:52",
       "album": {
-        "name": "schwimmen",
-        "url": "https://open.spotify.com/album/6HsjhilXJoDkVLBRpmo1hy"
-      },
-      "artists": [
-        {
-          "name": "LUNA",
-          "url": "https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7"
-        }
-      ],
-      "duration_ms": 127025,
-      "name": "schwimmen",
-      "url": "https://open.spotify.com/track/31RHwrytSvMUs7OHsyLKof"
-    },
-    {
-      "added_at": "2024-05-01 07:25:52",
-      "album": {
         "name": "Zur Party",
         "url": "https://open.spotify.com/album/0E3q5uvaRE1i7tEAntDwk4"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 136857,
       "name": "Zur Party",
       "url": "https://open.spotify.com/track/6HvHh0njau7LPTrBbzEpYX"
+    },
+    {
+      "added_at": "2024-05-01 07:25:52",
+      "album": {
+        "name": "schwimmen",
+        "url": "https://open.spotify.com/album/6HsjhilXJoDkVLBRpmo1hy"
+      },
+      "artists": [
+        {
+          "name": "LUNA",
+          "url": "https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7"
+        }
+      ],
+      "duration_ms": 127025,
+      "name": "schwimmen",
+      "url": "https://open.spotify.com/track/31RHwrytSvMUs7OHsyLKof"
     },
     {
       "added_at": "2024-05-01 07:25:52",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-05-01 07:25:52",
       "album": {
-        "name": "entschuldigung",
-        "url": "https://open.spotify.com/album/4Frt3EaNVUBWCX8euwR2nt"
-      },
-      "artists": [
-        {
-          "name": "LEEPA",
-          "url": "https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD"
-        }
-      ],
-      "duration_ms": 151108,
-      "name": "entschuldigung",
-      "url": "https://open.spotify.com/track/17J1yTfrglZcsfs0G5rppK"
-    },
-    {
-      "added_at": "2024-05-01 07:25:52",
-      "album": {
         "name": "Kreislauf",
         "url": "https://open.spotify.com/album/16ep6MA5PAcoJYeA6TFq07"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 207706,
       "name": "Kreislauf",
       "url": "https://open.spotify.com/track/7lswBD5MqA6skQ8GqF5NIE"
+    },
+    {
+      "added_at": "2024-05-01 07:25:52",
+      "album": {
+        "name": "entschuldigung",
+        "url": "https://open.spotify.com/album/4Frt3EaNVUBWCX8euwR2nt"
+      },
+      "artists": [
+        {
+          "name": "LEEPA",
+          "url": "https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD"
+        }
+      ],
+      "duration_ms": 151108,
+      "name": "entschuldigung",
+      "url": "https://open.spotify.com/track/17J1yTfrglZcsfs0G5rppK"
     },
     {
       "added_at": "2024-05-01 07:25:52",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-05-01 07:25:52",
       "album": {
-        "name": "boy with a view",
-        "url": "https://open.spotify.com/album/2180izgqQiuEGUHEKTZXFN"
-      },
-      "artists": [
-        {
-          "name": "PENNY X",
-          "url": "https://open.spotify.com/artist/1mZDFbH4t9JsKKvbBXf4fi"
-        }
-      ],
-      "duration_ms": 187814,
-      "name": "boy with a view",
-      "url": "https://open.spotify.com/track/0bZzFF42ekiHt6RiEtg7bN"
-    },
-    {
-      "added_at": "2024-05-01 07:25:52",
-      "album": {
         "name": "Four Days",
         "url": "https://open.spotify.com/album/7kj53vSUBllGgQE0uuixLd"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 219972,
       "name": "Four Days",
       "url": "https://open.spotify.com/track/7kK7MqlnMM4CZC2mUoKZm5"
+    },
+    {
+      "added_at": "2024-05-01 07:25:52",
+      "album": {
+        "name": "boy with a view",
+        "url": "https://open.spotify.com/album/2180izgqQiuEGUHEKTZXFN"
+      },
+      "artists": [
+        {
+          "name": "PENNY X",
+          "url": "https://open.spotify.com/artist/1mZDFbH4t9JsKKvbBXf4fi"
+        }
+      ],
+      "duration_ms": 187814,
+      "name": "boy with a view",
+      "url": "https://open.spotify.com/track/0bZzFF42ekiHt6RiEtg7bN"
     },
     {
       "added_at": "2024-05-01 07:25:52",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-05-01 07:25:52",
       "album": {
-        "name": "MOMENT",
-        "url": "https://open.spotify.com/album/4Ufp8bp3X5MZpqmrZ7YSkP"
-      },
-      "artists": [
-        {
-          "name": "JOPLYN",
-          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
-        }
-      ],
-      "duration_ms": 248760,
-      "name": "MOMENT",
-      "url": "https://open.spotify.com/track/343aNgdgt5aAPa2cfaZt4C"
-    },
-    {
-      "added_at": "2024-05-01 07:25:52",
-      "album": {
         "name": "Nicht Ich",
         "url": "https://open.spotify.com/album/7watQnItLt86vUTFSf7259"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 221800,
       "name": "Nicht Ich",
       "url": "https://open.spotify.com/track/6yYsu5AdhasHKhjP4u7V7n"
+    },
+    {
+      "added_at": "2024-05-01 07:25:52",
+      "album": {
+        "name": "MOMENT",
+        "url": "https://open.spotify.com/album/4Ufp8bp3X5MZpqmrZ7YSkP"
+      },
+      "artists": [
+        {
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        }
+      ],
+      "duration_ms": 248760,
+      "name": "MOMENT",
+      "url": "https://open.spotify.com/track/343aNgdgt5aAPa2cfaZt4C"
     },
     {
       "added_at": "2024-05-01 07:25:52",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-05-01 07:25:52",
       "album": {
-        "name": "wallflower seat",
-        "url": "https://open.spotify.com/album/3fV9Xejgo5j5fLENobtaxW"
-      },
-      "artists": [
-        {
-          "name": "Philippa Kinsky",
-          "url": "https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0"
-        }
-      ],
-      "duration_ms": 173307,
-      "name": "wallflower seat",
-      "url": "https://open.spotify.com/track/0lKbAgyN01m8bSyLOF6MzX"
-    },
-    {
-      "added_at": "2024-05-01 07:25:52",
-      "album": {
         "name": "Poetry (for the scorned and lonely)",
         "url": "https://open.spotify.com/album/3vPT3TO7w9bo1b8ohw4ODL"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 167583,
       "name": "Poetry",
       "url": "https://open.spotify.com/track/5fgS2U9sQPGyATAf2f9tHg"
+    },
+    {
+      "added_at": "2024-05-01 07:25:52",
+      "album": {
+        "name": "wallflower seat",
+        "url": "https://open.spotify.com/album/3fV9Xejgo5j5fLENobtaxW"
+      },
+      "artists": [
+        {
+          "name": "Philippa Kinsky",
+          "url": "https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0"
+        }
+      ],
+      "duration_ms": 173307,
+      "name": "wallflower seat",
+      "url": "https://open.spotify.com/track/0lKbAgyN01m8bSyLOF6MzX"
     },
     {
       "added_at": "2024-05-01 07:25:52",
@@ -791,6 +791,42 @@
       "duration_ms": 165471,
       "name": "Intuition",
       "url": "https://open.spotify.com/track/49XXncwWflTuvpSh4fcUjt"
+    },
+    {
+      "added_at": "2024-05-01 07:25:52",
+      "album": {
+        "name": "GOLDEN DAYS",
+        "url": "https://open.spotify.com/album/2ki5n6obbcJSlGr7DpZkWB"
+      },
+      "artists": [
+        {
+          "name": "UCHE YARA",
+          "url": "https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj"
+        }
+      ],
+      "duration_ms": 193900,
+      "name": "GOLDEN DAYS",
+      "url": "https://open.spotify.com/track/4ILpHcE56e3JDNpNp0MpRN"
+    },
+    {
+      "added_at": "2024-05-01 07:25:52",
+      "album": {
+        "name": "Meere",
+        "url": "https://open.spotify.com/album/25G3mIHCrSMheIv5qkPCRF"
+      },
+      "artists": [
+        {
+          "name": "Wilhelmine",
+          "url": "https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG"
+        },
+        {
+          "name": "MELE",
+          "url": "https://open.spotify.com/artist/6Lk699bosWcOqCMFLJFrPp"
+        }
+      ],
+      "duration_ms": 173359,
+      "name": "Vergleiche",
+      "url": "https://open.spotify.com/track/0HsuCKvms8l9GxRABl6S13"
     }
   ],
   "unique_name": "EQUAL GSA",

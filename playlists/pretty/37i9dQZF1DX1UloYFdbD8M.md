@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 
 ### [Malayalam Indie](https://open.spotify.com/playlist/37i9dQZF1DX1UloYFdbD8M)
 
-> Super Cool Indie Tracks from Gods Own Country<br/>Cover: Pina Colada Blues
+> Super Cool Indie Tracks from Gods Own Country<br/>Cover: Benny Dayal
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,141 likes - 76 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,155 likes - 76 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 | 11 | [Vaanil Nila](https://open.spotify.com/track/2RaJo1HIKjyMjxZYJ2HdME) | [Anusree Deepak](https://open.spotify.com/artist/25iCaIN4jpNT7K37yeSTPa) | [Vaanil Nila](https://open.spotify.com/album/1dnXlWoQzKtze8d9Uj6zcJ) | 3:56 |
 | 12 | [The Bacardi Song](https://open.spotify.com/track/6V6Gp9FBvuge8f7IwijFUX) | [Rinosh George](https://open.spotify.com/artist/3sMWWB27n75DQtRwIAo0Ru) | [The Bacardi Song](https://open.spotify.com/album/7moZLvp3D9nj5xjL83fjCr) | 3:54 |
 | 13 | [Castle In The Sky](https://open.spotify.com/track/7IXkNPrfMWjigapPfs1BoL) | [Niranjan Menon](https://open.spotify.com/artist/3U14e8ytLENdFrJLKArp7d), [Artemis Fall](https://open.spotify.com/artist/2MTUquJfZa080O7BQoDBgu), [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Castle In The Sky](https://open.spotify.com/album/4JYNyfvDS7So6b0HmnAZ2i) | 4:48 |
-| 14 | [Roses](https://open.spotify.com/track/12ungtim2fPt6ebI8RyFtd) | [AshaJeevan](https://open.spotify.com/artist/2NWmz0T0DY65DUDEF3aERn), [Neha S\. Nair](https://open.spotify.com/artist/1Ixc8hKrbw01MHtuP6SNUH) | [Roses](https://open.spotify.com/album/6X7ET7nPqOy9Yhsnm5Trqu) | 3:26 |
+| 14 | [Roses](https://open.spotify.com/track/12ungtim2fPt6ebI8RyFtd) | [AshaJeevan](https://open.spotify.com/artist/2NWmz0T0DY65DUDEF3aERn), [Neha S\. Nair](https://open.spotify.com/artist/1Ixc8hKrbw01MHtuP6SNUH), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Roses](https://open.spotify.com/album/6X7ET7nPqOy9Yhsnm5Trqu) | 3:26 |
 | 15 | [Thedi Ninne](https://open.spotify.com/track/77S4AzWeaNvBYEhZOKuvJp) | [P S Ajmal Shah](https://open.spotify.com/artist/6UfrHGnTCdPQQvvB8XHPtR) | [Thedi Ninne](https://open.spotify.com/album/7if2HqVWnVJmCZC1lhrDlJ) | 3:06 |
 | 16 | [Duniyaav](https://open.spotify.com/track/3MS0WFDWxwJ3DNG4NUewEN) | [MUSLI](https://open.spotify.com/artist/05XtLThhzw83Gcv3kFV9BO), [Vocal Dude](https://open.spotify.com/artist/6e7toXPTMHFuuQpnQgoHqI), [BSM](https://open.spotify.com/artist/2KTMQdrxtZNOFAz2jxxth3) | [Duniyaav](https://open.spotify.com/album/0FZItbmrkQxcQ2buwitxE0) | 2:17 |
 | 17 | [BHAAVAM](https://open.spotify.com/track/0tbRl9AXpgaT8EQLmAEWdh) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [BHAAVAM](https://open.spotify.com/album/5Le5NUhFAZ65gKlxOSWe55) | 5:23 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 | 75 | [Veyil](https://open.spotify.com/track/2JgpqEHj0uO7s45Fg7womt) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Veyil](https://open.spotify.com/album/5WyjHb4OPKvSBJje60DtZU) | 3:05 |
 | 76 | [Thaaraattu \- Live](https://open.spotify.com/track/2fe5loAluoPJsHT1nCpgDc) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Thaaraattu \(Live\)](https://open.spotify.com/album/5kqLzeSaEAv5Shc5wAnvud) | 3:02 |
 
-Snapshot ID: `ZjDcYAAAAABHnwGfRmtCcktzCaMgiTvo`
+Snapshot ID: `ZjNr7gAAAAC28Gcsi+ThMLfsogcDIFy/`

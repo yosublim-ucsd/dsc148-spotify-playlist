@@ -1,12 +1,12 @@
 {
   "description": "This is NAV. The essential tracks, all in one playlist.",
-  "num_followers": 94565,
+  "num_followers": 94572,
   "original_name": "This Is NAV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjA0gAAAAADHXW/uqk68lKyX7wXOPfxM",
+  "snapshot_id": "ZjGGAAAAAABkd++RYeFU5OdXjvvNMTgy",
   "tracks": [
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emergency Tsunami",
-        "url": "https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 155086,
-      "name": "Vetement Socks",
-      "url": "https://open.spotify.com/track/4SHKs8ugjoATC3MgVym7Gs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NAV",
         "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 215293,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/11HOTp4KdeOwmn7Ew0GSIs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emergency Tsunami",
+        "url": "https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 155086,
+      "name": "Vetement Socks",
+      "url": "https://open.spotify.com/track/4SHKs8ugjoATC3MgVym7Gs"
     },
     {
       "added_at": null,
@@ -919,26 +919,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Painless 2 (with NAV feat. Lil Durk)",
-        "url": "https://open.spotify.com/album/7rKi5SdKXxVSLIc0B9z0wK"
+        "name": "Bad Habits (Deluxe)",
+        "url": "https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO"
       },
       "artists": [
         {
-          "name": "J.I the Prince of N.Y",
-          "url": "https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h"
-        },
-        {
           "name": "NAV",
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 242368,
-      "name": "Painless 2 (with NAV feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/71Ih7wOeWd2EJxKi77Yiqi"
+      "duration_ms": 186680,
+      "name": "Taking Chances",
+      "url": "https://open.spotify.com/track/0iVWDZhL04DiKgbI1mbC40"
     },
     {
       "added_at": null,
@@ -959,18 +951,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Habits (Deluxe)",
-        "url": "https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO"
+        "name": "Painless 2 (with NAV feat. Lil Durk)",
+        "url": "https://open.spotify.com/album/7rKi5SdKXxVSLIc0B9z0wK"
       },
       "artists": [
         {
+          "name": "J.I the Prince of N.Y",
+          "url": "https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h"
+        },
+        {
           "name": "NAV",
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 186680,
-      "name": "Taking Chances",
-      "url": "https://open.spotify.com/track/0iVWDZhL04DiKgbI1mbC40"
+      "duration_ms": 242368,
+      "name": "Painless 2 (with NAV feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/71Ih7wOeWd2EJxKi77Yiqi"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
-  "description": "This is Mc Poze do Rodo. The essential tracks, all in one playlist.",
-  "num_followers": 110578,
+  "description": "This is Mc Poze do Rodo. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 110609,
   "original_name": "This Is Mc Poze do Rodo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjA0gAAAAAD+Y0sdNHGFXEP+/c2Qe+zI",
+  "snapshot_id": "ZjGGAAAAAAA8U3PsiALC162qU6xrZagC",
   "tracks": [
     {
       "added_at": null,
@@ -419,38 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Assault (Joias no Pulso)",
-        "url": "https://open.spotify.com/album/1q9DqRFJxfluFR3iX9rIRs"
-      },
-      "artists": [
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
-        }
-      ],
-      "duration_ms": 274015,
-      "name": "Assault (Joias no Pulso)",
-      "url": "https://open.spotify.com/track/0x4Hiy4evh6K0fkhIsEE9s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poesia Ac\u00fastica 11: Nada Mudou",
         "url": "https://open.spotify.com/album/3716y3qiVChUSJv24nvCUB"
       },
@@ -499,6 +467,38 @@
       "duration_ms": 600000,
       "name": "Poesia Ac\u00fastica 11: Nada Mudou",
       "url": "https://open.spotify.com/track/6giaOyDFbE4J8iclhCdW7E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Assault (Joias no Pulso)",
+        "url": "https://open.spotify.com/album/1q9DqRFJxfluFR3iX9rIRs"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        }
+      ],
+      "duration_ms": 274015,
+      "name": "Assault (Joias no Pulso)",
+      "url": "https://open.spotify.com/track/0x4Hiy4evh6K0fkhIsEE9s"
     },
     {
       "added_at": null,
@@ -879,30 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Chamado",
-        "url": "https://open.spotify.com/album/0GIsAsZO8aiEK5ZfqIzW08"
-      },
-      "artists": [
-        {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        }
-      ],
-      "duration_ms": 206557,
-      "name": "O Chamado",
-      "url": "https://open.spotify.com/track/56xYjxmkJxnpBVQi6pLSiL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sigo na F\u00e9 do Pai",
         "url": "https://open.spotify.com/album/7iC162RW3i4GYeyEcuFUUJ"
       },
@@ -927,6 +903,30 @@
       "duration_ms": 264827,
       "name": "Sigo na F\u00e9 do Pai",
       "url": "https://open.spotify.com/track/4KxjRjzK24EQXbM4qoOz4X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Chamado",
+        "url": "https://open.spotify.com/album/0GIsAsZO8aiEK5ZfqIzW08"
+      },
+      "artists": [
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        }
+      ],
+      "duration_ms": 206557,
+      "name": "O Chamado",
+      "url": "https://open.spotify.com/track/56xYjxmkJxnpBVQi6pLSiL"
     },
     {
       "added_at": null,

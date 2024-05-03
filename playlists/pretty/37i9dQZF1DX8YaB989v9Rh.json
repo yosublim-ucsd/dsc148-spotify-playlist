@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/blaircaldwell/\">Blair Caldwell</a>",
-  "num_followers": 20034,
+  "num_followers": 20054,
   "original_name": "Blair Caldwell's Taste",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2022-10-01 16:13:28",
       "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 210506,
-      "name": "Chasing Pavements",
-      "url": "https://open.spotify.com/track/56pHllZT7QOacB0bP56ofx"
-    },
-    {
-      "added_at": "2022-10-01 16:13:28",
-      "album": {
         "name": "I Care 4 U",
         "url": "https://open.spotify.com/album/50GHwAog5gmnqkypVkDso8"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 265666,
       "name": "Are You That Somebody",
       "url": "https://open.spotify.com/track/3PqAnW2bB5TQnMoBivyFOb"
+    },
+    {
+      "added_at": "2022-10-01 16:13:28",
+      "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 210506,
+      "name": "Chasing Pavements",
+      "url": "https://open.spotify.com/track/56pHllZT7QOacB0bP56ofx"
     },
     {
       "added_at": "2022-10-01 16:13:28",
@@ -503,26 +503,6 @@
     {
       "added_at": "2022-10-01 16:13:28",
       "album": {
-        "name": "Juve The Great",
-        "url": "https://open.spotify.com/album/1JfdhweOku5xDD78eiid4A"
-      },
-      "artists": [
-        {
-          "name": "JUVENILE",
-          "url": "https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI"
-        },
-        {
-          "name": "Soulja Slim",
-          "url": "https://open.spotify.com/artist/6tBnRI3ubWYclKSbGvGtKd"
-        }
-      ],
-      "duration_ms": 248200,
-      "name": "Slow Motion",
-      "url": "https://open.spotify.com/track/6ihObRBTB8xdSH2mlERtOX"
-    },
-    {
-      "added_at": "2022-10-01 16:13:28",
-      "album": {
         "name": "What's Luv? (feat. Ashanti)",
         "url": "https://open.spotify.com/album/5gpXJRhfDU4rl7MIL1MyC0"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 230400,
       "name": "What's Luv? (feat. Ashanti)",
       "url": "https://open.spotify.com/track/2eSJflipjhSKLExuSwuFrO"
+    },
+    {
+      "added_at": "2022-10-01 16:13:28",
+      "album": {
+        "name": "Juve The Great",
+        "url": "https://open.spotify.com/album/1JfdhweOku5xDD78eiid4A"
+      },
+      "artists": [
+        {
+          "name": "JUVENILE",
+          "url": "https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI"
+        },
+        {
+          "name": "Soulja Slim",
+          "url": "https://open.spotify.com/artist/6tBnRI3ubWYclKSbGvGtKd"
+        }
+      ],
+      "duration_ms": 248200,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/6ihObRBTB8xdSH2mlERtOX"
     },
     {
       "added_at": "2022-10-01 16:13:28",
@@ -815,6 +815,22 @@
     {
       "added_at": "2022-10-01 16:13:28",
       "album": {
+        "name": "The Best of Donell Jones",
+        "url": "https://open.spotify.com/album/5L5nD7OgxeVH86DQMQb0Pf"
+      },
+      "artists": [
+        {
+          "name": "Donell Jones",
+          "url": "https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B"
+        }
+      ],
+      "duration_ms": 240813,
+      "name": "U Know What's Up",
+      "url": "https://open.spotify.com/track/3seflYvRN3gmh50Iih5yMd"
+    },
+    {
+      "added_at": "2022-10-01 16:13:28",
+      "album": {
         "name": "Get Lifted",
         "url": "https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 198000,
       "name": "Number One (feat. Kanye West)",
       "url": "https://open.spotify.com/track/3zQGmJ4k3JeqwAjfrEcwHp"
-    },
-    {
-      "added_at": "2022-10-01 16:13:28",
-      "album": {
-        "name": "The Best of Donell Jones",
-        "url": "https://open.spotify.com/album/5L5nD7OgxeVH86DQMQb0Pf"
-      },
-      "artists": [
-        {
-          "name": "Donell Jones",
-          "url": "https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B"
-        }
-      ],
-      "duration_ms": 240813,
-      "name": "U Know What's Up",
-      "url": "https://open.spotify.com/track/3seflYvRN3gmh50Iih5yMd"
     },
     {
       "added_at": "2022-10-01 16:13:28",

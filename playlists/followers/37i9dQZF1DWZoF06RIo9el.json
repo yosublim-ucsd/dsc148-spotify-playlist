@@ -1,7 +1,7 @@
 {
-  "2024-05-02": 1505348,
+  "2024-05-03": 1505389,
   "date_first_scraped": "2021-12-28",
-  "description": "Lo mejor de abril 2024",
+  "description": "Lo mejor de mayo 2024",
   "name": "Lo mejor del mes",
   "tracks": [
     {
@@ -523,6 +523,28 @@
       "duration_ms": 170228,
       "name": "Adicta al Perreo",
       "url": "https://open.spotify.com/track/7xj6vIyvd8qh9JjPzQhvHa"
+    },
+    {
+      "album": {
+        "name": "ADIVINO",
+        "url": "https://open.spotify.com/album/3sRyLQf04m9vm40JNRFiCl"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278644,
+      "name": "ADIVINO",
+      "url": "https://open.spotify.com/track/0LZy30mVmxqUpdQmaXKXBd"
     },
     {
       "album": {
@@ -1949,7 +1971,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 148650,
       "name": "BLU",
       "url": "https://open.spotify.com/track/1SBcduWy2JPFRDKqxBjowZ"
@@ -2033,6 +2055,28 @@
       "duration_ms": 176991,
       "name": "Booty Puty",
       "url": "https://open.spotify.com/track/1cBUPbKhU9ZZWhyJ7kCAFD"
+    },
+    {
+      "album": {
+        "name": "SAKURA",
+        "url": "https://open.spotify.com/album/5z4aZJ5U7LqwRc2tXk98cc"
+      },
+      "artists": [
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Sky Rompiendo",
+          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165210,
+      "name": "BOREAL",
+      "url": "https://open.spotify.com/track/1S0RpP58fYuXGmnEzVNYvS"
     },
     {
       "album": {
@@ -3149,7 +3193,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 192786,
       "name": "CONTIGO (with Ti\u00ebsto)",
       "url": "https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh"
@@ -3377,7 +3421,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 122017,
       "name": "Cowboy In An Escalade (Spotify OUTSIDE Version) - Live From West Columbia, TX",
       "url": "https://open.spotify.com/track/1w35Va648auSiXaTgimWj0"
@@ -3677,6 +3721,28 @@
       "duration_ms": 214560,
       "name": "C\u00f3mo Le Haces",
       "url": "https://open.spotify.com/track/0Vou3YugmY9I6pu52uxaYT"
+    },
+    {
+      "album": {
+        "name": "DAIKIRI CON FRESA",
+        "url": "https://open.spotify.com/album/2pJHyWYo2H2sCbo8WuF3VH"
+      },
+      "artists": [
+        {
+          "name": "legallyrxx",
+          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
+        },
+        {
+          "name": "Abrildefresa",
+          "url": "https://open.spotify.com/artist/1LcrE5dBGGhQpJszNw75xk"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199913,
+      "name": "DAIKIRI CON FRESA",
+      "url": "https://open.spotify.com/track/6eNRxXpnpXqvhKHUaCUng9"
     },
     {
       "album": {
@@ -6157,7 +6223,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 164771,
       "name": "Gigante",
       "url": "https://open.spotify.com/track/0wGjhr72nOAN4UHTTtEEVA"
@@ -6295,6 +6361,28 @@
       "duration_ms": 123658,
       "name": "Gracias por Nada",
       "url": "https://open.spotify.com/track/1cNKHvYhFbaRfvcRuKLTeI"
+    },
+    {
+      "album": {
+        "name": "Gran D\u00eda",
+        "url": "https://open.spotify.com/album/7zDXEU4nyXHA193wcfXjfZ"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193840,
+      "name": "Gran D\u00eda",
+      "url": "https://open.spotify.com/track/31zvQazbahCmdyPanbUWse"
     },
     {
       "album": {
@@ -9068,6 +9156,24 @@
     },
     {
       "album": {
+        "name": "Luz",
+        "url": "https://open.spotify.com/album/54iXGKn6LPMXZVeIs9uqQo"
+      },
+      "artists": [
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186186,
+      "name": "Luz",
+      "url": "https://open.spotify.com/track/6v5J4UE21xOjnQ4N9H5jur"
+    },
+    {
+      "album": {
         "name": "Madrid",
         "url": "https://open.spotify.com/album/7fxoiLhdWnKxOniIaN1IPn"
       },
@@ -9351,6 +9457,24 @@
       "duration_ms": 218800,
       "name": "Marte",
       "url": "https://open.spotify.com/track/1uK5rDY3BnikyG0sl3tPpc"
+    },
+    {
+      "album": {
+        "name": "Martini",
+        "url": "https://open.spotify.com/album/2e8SXv09hUT9mpkNPBRLhZ"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164365,
+      "name": "Martini",
+      "url": "https://open.spotify.com/track/5tikPg9QkVfGtstjTUb5dB"
     },
     {
       "album": {
@@ -10491,7 +10615,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 200760,
       "name": "Nada Me Falta",
       "url": "https://open.spotify.com/track/33hXUiCSd9O3fEqVMqPLND"
@@ -12117,7 +12241,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 186341,
       "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE - Rework",
       "url": "https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg"
@@ -13048,6 +13172,24 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9 Agusticidad",
+        "url": "https://open.spotify.com/album/3vNil6NgFu48XzULEcIWBs"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260571,
+      "name": "Qu\u00e9 Agusticidad",
+      "url": "https://open.spotify.com/track/6YQL3rt9kcyCsOTwzFPPRN"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9 Bonito",
         "url": "https://open.spotify.com/album/4Fom80eSwOFjauHyvEFH2G"
       },
@@ -13263,7 +13405,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 219526,
       "name": "REM",
       "url": "https://open.spotify.com/track/2rLHjGObK4sfhIatgR6l6h"
@@ -14812,6 +14954,24 @@
     },
     {
       "album": {
+        "name": "Taco De Cristal",
+        "url": "https://open.spotify.com/album/7C8vX741jXeWpnJC3t1AjQ"
+      },
+      "artists": [
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206748,
+      "name": "Taco De Cristal",
+      "url": "https://open.spotify.com/track/17h5eSO0wMHAHPpBthPb1W"
+    },
+    {
+      "album": {
         "name": "Tacones Rojos",
         "url": "https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S"
       },
@@ -15403,7 +15563,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 277581,
       "name": "Todo me recuerda a vos",
       "url": "https://open.spotify.com/track/38tLYpnaB4GrTm2brEmqeP"
@@ -15555,7 +15715,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 161736,
       "name": "tranqui :)",
       "url": "https://open.spotify.com/track/2GtWJcQzvEHzCCDCEZvBNU"
@@ -16283,6 +16443,24 @@
       "duration_ms": 196727,
       "name": "Unfollow",
       "url": "https://open.spotify.com/track/6GsD646HrIDJJpzoY9T1Rt"
+    },
+    {
+      "album": {
+        "name": "Uno De Esos D\u00edas",
+        "url": "https://open.spotify.com/album/6tvLmBE2oeUOUvI0DrEDxt"
+      },
+      "artists": [
+        {
+          "name": "Reyno",
+          "url": "https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193400,
+      "name": "Uno De Esos D\u00edas",
+      "url": "https://open.spotify.com/track/2SlovZRjNdnK0t6rAbOPN8"
     },
     {
       "album": {

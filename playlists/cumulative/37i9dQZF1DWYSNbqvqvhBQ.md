@@ -2,9 +2,9 @@
 
 ### [Stay Tuned!](https://open.spotify.com/playlist/37i9dQZF1DWYSNbqvqvhBQ)
 
-> Luister naar nieuwe songs en hits van dit moment! Cover: Lenny Monsou
+> Luister naar nieuwe songs en hits van dit moment! Cover: Ilse DeLange
 
-399 songs - 23 hr 7 min
+405 songs - 23 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Good People](https://open.spotify.com/track/42YrtW7V1OyF3BXi0ftYQj) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Good People](https://open.spotify.com/album/61hQL89ZMJXqfNXoMmcjG3) | 3:06 | 2024-01-25 | 2024-04-19 |
 | [Good People](https://open.spotify.com/track/4Ybpltno0jRxFI4wH2yXOK) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Good People](https://open.spotify.com/album/7D1a13Dz2xlg4LY0avlTni) | 3:06 | 2024-04-18 |  |
 | [Good Time](https://open.spotify.com/track/5XUirzoMLaO0qsiHZTY3Mo) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [Good Time](https://open.spotify.com/album/6dJO0DBV6QxLIHjYytOmzO) | 2:52 | 2023-03-17 | 2023-08-25 |
+| [Good To You](https://open.spotify.com/track/0c8lSIQejPTJPKJ8fgA7eW) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Good To You](https://open.spotify.com/album/3tObTrR6FqKbPYJUHRKcbg) | 3:44 | 2024-05-02 |  |
 | [Goodbye Never Felt So Bad](https://open.spotify.com/track/0yLNWToE0zigyg3aqYrwdL) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Goodbye Never Felt So Bad](https://open.spotify.com/album/1oxbrgjKFu46YXY6zVZf9G) | 4:10 | 2023-08-11 | 2023-12-01 |
 | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8) | 2:48 | 2023-02-23 | 2023-05-12 |
 | [Hammer to the Heart](https://open.spotify.com/track/0IdwfnHFfyb7zc7GFs75QQ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 3:12 | 2024-04-25 |  |
@@ -202,7 +203,7 @@
 | [Let Me Go](https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Let Me Go](https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D) | 3:36 | 2023-02-23 | 2023-06-23 |
 | [Let Me Go Home](https://open.spotify.com/track/2ys5m1ZI9QkhFJlTjMc9Nw) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [Let Me Go Home](https://open.spotify.com/album/5f9iou0KDX2cX3CzLzBwbl) | 2:56 | 2023-02-23 | 2023-04-14 |
 | [Let U Go](https://open.spotify.com/track/0wbmr3CTPwoh8LPm9c7lhM) | [Mitch Rivers](https://open.spotify.com/artist/60MGr6u8AF2SYwh7zRBV3K) | [Let U Go](https://open.spotify.com/album/6IG6Mr0iTUnnYxnQx3PALc) | 2:55 | 2023-05-25 | 2023-09-22 |
-| [Lifeline \- From the Original Motion Picture “The Color Purple”](https://open.spotify.com/track/66Z7xWbRpjO7mZJ8U8scrw) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Lifeline \(From the Original Motion Picture “The Color Purple”\)](https://open.spotify.com/album/2ShbtQZa3nadKapi4DCIkV) | 3:47 | 2023-12-08 |  |
+| [Lifeline \- From the Original Motion Picture “The Color Purple”](https://open.spotify.com/track/66Z7xWbRpjO7mZJ8U8scrw) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Lifeline \(From the Original Motion Picture “The Color Purple”\)](https://open.spotify.com/album/2ShbtQZa3nadKapi4DCIkV) | 3:47 | 2023-12-08 | 2024-05-03 |
 | [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 | 2023-02-23 | 2023-03-25 |
 | [Lights Light Up](https://open.spotify.com/track/3Yf7XyzrjGEmFRL6qVAKj8) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Lights Light Up](https://open.spotify.com/album/5uVxtDT8TaaZracxN1mGTk) | 4:12 | 2023-02-23 | 2023-04-14 |
 | [Like It Always Was](https://open.spotify.com/track/5aniJiKNuKy75LfedJ5dTt) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Like It Always Was](https://open.spotify.com/album/1MbDgDFNVspz3stTWb1vDI) | 3:20 | 2023-06-22 | 2024-02-03 |
@@ -240,6 +241,7 @@
 | [Never Look Back](https://open.spotify.com/track/3K3bZDkHev8R7Clcqs2u8M) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Never Look Back](https://open.spotify.com/album/4GVxVTIaQg7zEEQ2Fqsu0q) | 2:42 | 2023-04-21 | 2023-10-13 |
 | [Nickel For Goodbye](https://open.spotify.com/track/0mozpacigd082TTRqi5IZc) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Nickel For Goodbye](https://open.spotify.com/album/4xROG3RcoNOVF8A7IycHEI) | 3:51 | 2023-09-11 |  |
 | [Night Moves](https://open.spotify.com/track/6HOqWQFDKYvZp28ujtEuVu) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Carving Canyons](https://open.spotify.com/album/0keDX0kFNMMZtGWK3YP5GO) | 3:08 | 2023-02-23 | 2023-03-18 |
+| [Nine Lives](https://open.spotify.com/track/3fJ4cLwaHlv9CSnKMf6FsO) | [Jon Allen](https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa) | [Nine Lives](https://open.spotify.com/album/5Ct1RQG2vHREzV3Jjpjxfm) | 3:26 | 2024-05-02 |  |
 | [No Angels](https://open.spotify.com/track/7dBT63cDF9a76fAJyvRXCT) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Everything I Thought It Was](https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7) | 3:28 | 2024-03-21 |  |
 | [No Way To Live](https://open.spotify.com/track/40sY5Tx27mNTyrOytXuPp7) | [Lumi](https://open.spotify.com/artist/4a27RJTzPnKgoQpVlLONZf) | [No Way To Live](https://open.spotify.com/album/3fHdS5pUbXVsjlcwU7VKUs) | 4:06 | 2023-07-14 | 2023-10-06 |
 | [Nothing Left To Lose](https://open.spotify.com/track/02zPsXmSUP6Rr1Z2w5KMpf) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Nothing Left To Lose](https://open.spotify.com/album/2NQLpA0EfQtDIMViTywa69) | 3:44 | 2023-02-23 | 2023-05-26 |
@@ -294,6 +296,7 @@
 | [So It Goes](https://open.spotify.com/track/67rg1GtrwUAQe8ish0bQxI) | [JOHAN](https://open.spotify.com/artist/0RBuJpjFEGVDZ7CWq3UcdQ) | [So It Goes](https://open.spotify.com/album/5WZfvSI6OWzpeRaI2QXCOJ) | 2:50 | 2023-11-07 | 2024-04-05 |
 | [Some Things I'll Never Know](https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 4:02 | 2023-09-15 | 2024-01-05 |
 | [Somebody](https://open.spotify.com/track/3Q2Sh0puZOeJvTjPPq4xnn) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Somebody](https://open.spotify.com/album/3jt8M4vaXSkrhi34KuFLuT) | 3:55 | 2023-09-21 | 2024-02-03 |
+| [Somebody New](https://open.spotify.com/track/1u4RBJArUMeEXHic7VqWjv) | [Jana Mila](https://open.spotify.com/artist/1roi4E4kE3vXaKxQ2n5aKB) | [Somebody New](https://open.spotify.com/album/1esmSMTOShTTI0OqG3rsnO) | 2:52 | 2024-05-02 |  |
 | [somebody's daughter](https://open.spotify.com/track/2YJ7BCPxTh56f4jSeXwlvK) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [somebody's daughter](https://open.spotify.com/album/04IWjF3yuXKw8kN8SiIiwk) | 2:54 | 2024-01-12 |  |
 | [Something About It](https://open.spotify.com/track/15gETsZNlhC57aGr8v9bWL) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [Something About It](https://open.spotify.com/album/2Mo9JLQoIwowlNdx171AUH) | 3:20 | 2024-02-08 | 2024-04-19 |
 | [Something About It](https://open.spotify.com/track/6YNCKtSjrRBmeJglRNK6Yn) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [Something About It](https://open.spotify.com/album/3J89YUZ9n0PZKs0wcVvwqd) | 3:20 | 2024-01-25 |  |
@@ -371,6 +374,7 @@
 | [Undecided](https://open.spotify.com/track/67HfJMTt2jley2uzWzocKe) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [Undecided](https://open.spotify.com/album/4rOBvkbMvjHEtQByHEUx4V) | 2:40 | 2024-02-08 |  |
 | [Until I Found You \(with Em Beihold\) \- Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Until I Found You \(Em Beihold Version\)](https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs) | 2:56 | 2023-02-23 | 2023-08-18 |
 | [Used To Be Young](https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:11 | 2023-08-31 | 2024-02-03 |
+| [Vitamins](https://open.spotify.com/track/2fLDKaSvow0ciPW60ibLil) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Vitamins](https://open.spotify.com/album/7i9RLUQeVGAyonCjKDrP12) | 2:32 | 2024-05-02 |  |
 | [Voor Mijn Hart](https://open.spotify.com/track/7ikORk2VQ1J3uD7JhzJnxs) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Voor Mijn Hart](https://open.spotify.com/album/3GIvLv9vHbiWk96h7zWGkL) | 3:04 | 2023-03-30 | 2023-08-25 |
 | [Wait For The Summer](https://open.spotify.com/track/6ZV4dfKmO4oJEi1uSkNFOD) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Wait For The Summer](https://open.spotify.com/album/6gIbXS0BOPX00WE5LLfQBs) | 3:00 | 2023-08-11 | 2023-09-09 |
 | [Wait For The Summer \(Bonus Track\)](https://open.spotify.com/track/6dZIvN4IlyzQX0UD9PLsqF) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Young Hearts](https://open.spotify.com/album/7qNttLERG60jtBqhMsLA7J) | 3:00 | 2023-08-31 | 2023-12-01 |
@@ -387,6 +391,7 @@
 | [Weightless](https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Weightless](https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp) | 4:02 | 2023-02-23 | 2023-06-09 |
 | [What Am I Gonna Do](https://open.spotify.com/track/4DYVmGdpglpFoq1YyawFCl) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Higher](https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW) | 3:01 | 2023-11-09 |  |
 | [What Are You Waiting For?](https://open.spotify.com/track/3hnFEjPOnP7d3eTxPGpNkX) | [KANE](https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6) | [What Are You Waiting For?](https://open.spotify.com/album/1BTeZsZoB5PK480kmZew8t) | 3:59 | 2023-09-28 | 2024-04-05 |
+| [What If I Want You Now](https://open.spotify.com/track/6yYFUkI1RitIRxGlXadb4d) | [KANE](https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6) | [What If I Want You Now](https://open.spotify.com/album/43fvwvfFC0F8XVLhzeXKaq) | 3:10 | 2024-05-02 |  |
 | [What You Gonna Do](https://open.spotify.com/track/3g1kcKJuFOQNpmLVi4i0vI) | [Slow Pilot](https://open.spotify.com/artist/4MPMLOWHQQwcfg3CNE4fya) | [What You Gonna Do](https://open.spotify.com/album/7ndrgvQs1wROQByST5SZ3u) | 3:17 | 2024-01-25 |  |
 | [whatstheuse](https://open.spotify.com/track/73scvnGUKmJGkJmOGf5ZVE) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [whatstheuse](https://open.spotify.com/album/0MV6aHAYFTdLVYIw5Qv0FW) | 3:08 | 2023-07-31 | 2023-11-08 |
 | [When It All Falls Down](https://open.spotify.com/track/3lvj20MikepdxKpadT7mBF) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [Persona \(Deluxe\)](https://open.spotify.com/album/6DBFehDJdkqSMBdoIl9YaB) | 2:27 | 2023-05-09 | 2023-11-03 |
@@ -407,5 +412,6 @@
 | [You Should Get To Know You Like I Do](https://open.spotify.com/track/32rLAxdxbfPSOu7D1xUhen) | [M\. Lucky](https://open.spotify.com/artist/78t0BT9DeKdbggUw16Ghvt) | [You Should Get To Know You Like I Do](https://open.spotify.com/album/6gU0MSq6gokEb6atfPWNlj) | 3:34 | 2024-04-18 |  |
 | [You're Still The One](https://open.spotify.com/track/3UwsdMZnmrLB7Tms4mJSs3) | [Sofie Winterson](https://open.spotify.com/artist/5pKrorYHoVt088MOxEhNLg) | [You're Still The One](https://open.spotify.com/album/07bYmAUqno1xlFrQFJGIte) | 3:18 | 2024-01-25 |  |
 | [Young Hearts](https://open.spotify.com/track/6EvN0yVTeZDOp7Ltuea2uo) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Young Hearts](https://open.spotify.com/album/3CyqH3gtPaREjTbtLnPDAk) | 2:39 | 2023-02-23 | 2023-04-14 |
+| [Young, Awkward & Lonely](https://open.spotify.com/track/629SW217MA8o1wPi9akIcI) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Young, Awkward & Lonely](https://open.spotify.com/album/6doZm0DD2GBR2gVq7Xyjz3) | 3:51 | 2024-05-02 |  |
 
 \*This playlist was first scraped on 2023-02-25. Prior content cannot be recovered.

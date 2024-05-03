@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "From the trenches. Through the streets.\nCover: Bella Shmurda ",
+  "description": "From the trenches. Through the streets.\nCover: Vibes Inc",
   "name": "Street Energy ",
   "tracks": [
     {
@@ -2278,6 +2278,32 @@
       "duration_ms": 188000,
       "name": "Instagram",
       "url": "https://open.spotify.com/track/12eQ5caMTUuzU7JIYB272D"
+    },
+    {
+      "album": {
+        "name": "Instagram",
+        "url": "https://open.spotify.com/album/0GyUBLiSgnRIMnV0H6bP8S"
+      },
+      "artists": [
+        {
+          "name": "Vibez Inc",
+          "url": "https://open.spotify.com/artist/2pWvZYqXNfLNIsCkr9Llgy"
+        },
+        {
+          "name": "Muyeez",
+          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140606,
+      "name": "Instagram",
+      "url": "https://open.spotify.com/track/1Ss5QjczHsdYkvNsiBmoqS"
     },
     {
       "album": {

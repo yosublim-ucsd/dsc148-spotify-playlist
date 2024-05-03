@@ -2,7 +2,7 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 2024 RADAR登場！持續發掘世一超新聲！Cover: Almond Milk
+> 2024 RADAR登場！持續發掘世一超新聲！Cover:  OJ Reambillo
 
 196 songs - 11 hr 17 min
 

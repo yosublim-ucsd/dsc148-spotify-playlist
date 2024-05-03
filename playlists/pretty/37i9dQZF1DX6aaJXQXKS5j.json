@@ -1,6 +1,6 @@
 {
   "description": "In the trap with Bad Bunny \ud83d\udc30 \ud83d\udd25",
-  "num_followers": 31115,
+  "num_followers": 31124,
   "original_name": "Trap Bunny",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,26 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
+        "name": "Sexto Sentido",
+        "url": "https://open.spotify.com/album/75Drq7ZmC1mNfOYflq6zsY"
+      },
+      "artists": [
+        {
+          "name": "Gigolo Y La Exce",
+          "url": "https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 227220,
+      "name": "Sexto Sentido (feat. Bad Bunny)",
+      "url": "https://open.spotify.com/track/3iDPALl8BoUbuXZgy6EOWY"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
         "name": "Caile",
         "url": "https://open.spotify.com/album/1cPsN0zKo8jRP7eM81uvC8"
       },
@@ -443,26 +463,6 @@
       "duration_ms": 299194,
       "name": "Caile",
       "url": "https://open.spotify.com/track/6l4qSMR0iVGnZibf5piyJ8"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Sexto Sentido",
-        "url": "https://open.spotify.com/album/75Drq7ZmC1mNfOYflq6zsY"
-      },
-      "artists": [
-        {
-          "name": "Gigolo Y La Exce",
-          "url": "https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 227220,
-      "name": "Sexto Sentido (feat. Bad Bunny)",
-      "url": "https://open.spotify.com/track/3iDPALl8BoUbuXZgy6EOWY"
     },
     {
       "added_at": "2023-10-13 04:01:00",

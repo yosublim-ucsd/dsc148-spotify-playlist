@@ -191,6 +191,28 @@
     },
     {
       "album": {
+        "name": "Adenuga x Concerning",
+        "url": "https://open.spotify.com/album/1O3r2Q1sb3XUuUFwbJQKo2"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Adenuga (feat. Qing Madi)",
+      "url": "https://open.spotify.com/track/74CA9T8IpFzrLNFV6EoY3a"
+    },
+    {
+      "album": {
         "name": "Advice",
         "url": "https://open.spotify.com/album/3eAG4eWO35O6G1I8qkwPKM"
       },
@@ -260,6 +282,28 @@
       "duration_ms": 183349,
       "name": "All Of Us (Ashawo)",
       "url": "https://open.spotify.com/track/6459gZKddpOoPIH8PAcCwS"
+    },
+    {
+      "album": {
+        "name": "Allo",
+        "url": "https://open.spotify.com/album/15LSZk7N06PAFrrqkjprrD"
+      },
+      "artists": [
+        {
+          "name": "Youka",
+          "url": "https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6"
+        },
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136788,
+      "name": "Allo",
+      "url": "https://open.spotify.com/track/1dxl7CSBstnOcLzWrQiBLj"
     },
     {
       "album": {
@@ -6368,7 +6412,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 231213,
       "name": "Le contrat",
       "url": "https://open.spotify.com/track/3WJ8cQFEBFBUbU1yl3lVMA"
@@ -6672,6 +6716,28 @@
       "duration_ms": 157714,
       "name": "Lonely At The Top - Remix",
       "url": "https://open.spotify.com/track/04caQq1IeChrnBnvch1FQf"
+    },
+    {
+      "album": {
+        "name": "Longue Vie",
+        "url": "https://open.spotify.com/album/7dU2wGGbOoazZyCHYa8KQW"
+      },
+      "artists": [
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120973,
+      "name": "Longue Vie",
+      "url": "https://open.spotify.com/track/4YJsPEuHqSk7UVG4uOpbYg"
     },
     {
       "album": {
@@ -8394,7 +8460,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 156756,
       "name": "Osadebe",
       "url": "https://open.spotify.com/track/4vcNkaBM2R70xWEUQDLLh5"
@@ -9554,7 +9620,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 175410,
       "name": "Rien \u00e0 dire",
       "url": "https://open.spotify.com/track/01qwxKwItx2m5AzjvRYret"

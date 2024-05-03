@@ -1,12 +1,12 @@
 {
   "description": "This is Christina Aguilera. The essential tracks, all in one playlist.",
-  "num_followers": 260159,
+  "num_followers": 260214,
   "original_name": "This Is Christina Aguilera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjA0gAAAAACOGoA4UZusVg5O9rv3YqSH",
+  "snapshot_id": "ZjGGAAAAAACFj3A8GJT12JktC/hfwjPx",
   "tracks": [
     {
       "added_at": null,
@@ -47,6 +47,22 @@
       "duration_ms": 229506,
       "name": "Feel This Moment (feat. Christina Aguilera)",
       "url": "https://open.spotify.com/track/0Hf4aIJpsN4Os2f0y0VqWl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Christina Aguilera (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 217573,
+      "name": "Genie In a Bottle",
+      "url": "https://open.spotify.com/track/11mwFrKvLXCbcVGNxffGyP"
     },
     {
       "added_at": null,
@@ -943,22 +959,6 @@
       "duration_ms": 166974,
       "name": "Haunted Heart",
       "url": "https://open.spotify.com/track/7qcanNUZ2M1kfBPuzHHVgj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Liberation",
-        "url": "https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 36880,
-      "name": "Dreamers",
-      "url": "https://open.spotify.com/track/4QDcjz0V5zwkkQm2TUPE8A"
     },
     {
       "added_at": null,

@@ -2,14 +2,14 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> Exceptionally vivid Swahili love stories for you and yours\.  Cover: Jay Melody
+> Exceptionally vivid Swahili love stories for you and yours\.  Cover: Barnaba & Yammi
 
-188 songs - 10 hr 46 min
+190 songs - 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Abee](https://open.spotify.com/track/3Io6cTgNdEkXF4PFo8VqxP) | [Anjella](https://open.spotify.com/artist/1lcK1UQbscJsiUpPC69kls) | [Abee](https://open.spotify.com/album/18OAT8jNZdz7nSru10QwSn) | 3:09 | 2023-11-30 | 2024-04-05 |
-| [African Girl](https://open.spotify.com/track/43jov3soAgRlQtC8mfKM58) | [Bruce africa](https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3), [Joh Marley](https://open.spotify.com/artist/6IVRhkrCpt2PQxqY5Y39yz) | [African Girl](https://open.spotify.com/album/2NvEWfNVQnbq3eX3td3z1k) | 3:35 | 2024-01-25 |  |
+| [African Girl](https://open.spotify.com/track/43jov3soAgRlQtC8mfKM58) | [Bruce africa](https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3), [Joh Marley](https://open.spotify.com/artist/6IVRhkrCpt2PQxqY5Y39yz) | [African Girl](https://open.spotify.com/album/2NvEWfNVQnbq3eX3td3z1k) | 3:35 | 2024-01-25 | 2024-05-03 |
 | [Aki Wewe](https://open.spotify.com/track/2ee6ViIobYyu2rLwiVmNIA) | [Kwame Rígíi](https://open.spotify.com/artist/2YBmXbjqDbsGjTB9vMbuNf) | [Aki Wewe](https://open.spotify.com/album/3zW32TzDG8V20HM7A8NdOO) | 4:27 | 2022-05-26 | 2022-10-28 |
 | [All I Need](https://open.spotify.com/track/7wsTFtax8COrbO5BYRD3Dh) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [All I Need](https://open.spotify.com/album/0FkKqxcA1miGb9IkW2Vbgp) | 3:07 | 2023-10-26 | 2024-02-23 |
 | [Aló](https://open.spotify.com/track/1PCqgmYwQQfZtDXSYvcAXy) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Aló](https://open.spotify.com/album/0556miRSxmC7vGyTZuZ5Ex) | 2:56 | 2023-12-22 | 2024-04-19 |
@@ -57,6 +57,7 @@
 | [Hapa](https://open.spotify.com/track/45ON4DKNqj7ZgHlCUZNjkY) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Hapa](https://open.spotify.com/album/6wSJ80vqdxaD1x0441FO9n) | 3:17 | 2024-02-22 | 2024-03-08 |
 | [Hawataweza](https://open.spotify.com/track/4P94MmzUvIwY3Jc6X4mzN0) | [Wanavokali](https://open.spotify.com/artist/0JeZtZ5PnJVYLsXDZsKKMP) | [Hawataweza](https://open.spotify.com/album/5DS0VEV7sltoi329nDx1I0) | 3:54 | 2023-07-20 |  |
 | [Hello](https://open.spotify.com/track/7umhIhajaZPJumJCR6u5Nt) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Hello](https://open.spotify.com/album/6gOMG3WCRF3mZIum5TwMft) | 3:21 | 2024-02-01 |  |
+| [Hello](https://open.spotify.com/track/2OCyd1dnuOexd1A1cxLZjq) | [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL), [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h) | [Beyond Gifted](https://open.spotify.com/album/68JaW0nh8cz1yd6X2Uv55b) | 2:54 | 2024-05-02 |  |
 | [Hoi](https://open.spotify.com/track/5zhCjE9KiUCqZeKBwnsgIv) | [Hussein Machozi](https://open.spotify.com/artist/20okzd1cjkWwWOq4KvBszc), [Mr Blue](https://open.spotify.com/artist/1JPiOesbMiBVxVwjDYzOu2) | [Hoi](https://open.spotify.com/album/2bzN3eovanDiVHhnW9afer) | 3:06 | 2023-01-19 | 2023-06-16 |
 | [Honey](https://open.spotify.com/track/060Sdqj379wZ7kWho2kDd0) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Honey](https://open.spotify.com/album/5Ej7ISZLQkj3UUpTnN2ONM) | 2:19 | 2024-03-14 | 2024-03-22 |
 | [Huyu Hapa](https://open.spotify.com/track/20eKkFZ3C7N7saVxn7BfDR) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Khan](https://open.spotify.com/album/3U9b6VslZuWzVmpxMLcPYO) | 2:57 | 2022-11-17 |  |
@@ -96,7 +97,7 @@
 | [Marry Me \(feat\. Marioo\)](https://open.spotify.com/track/0TS6oda4nNVHwn8k9V7SJu) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Love Sounds Different](https://open.spotify.com/album/7uUGjipQKNBau0C3KASL56) | 3:45 | 2022-08-25 | 2023-07-28 |
 | [Matozo](https://open.spotify.com/track/2WPvGjnBdOcXGPW9qrNGY7) | [Lady Jaydee](https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS), [Rama Dee](https://open.spotify.com/artist/27hjsspOc6tklAwGEEciks) | [Love Sentence](https://open.spotify.com/album/6CdOVTHzrYXLoi501ZvreF) | 2:21 | 2023-05-11 | 2023-07-21 |
 | [Matozo](https://open.spotify.com/track/3JlUHb2FaiDc7eDBkzTjcZ) | [Lady Jaydee](https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS), [Rama Dee](https://open.spotify.com/artist/27hjsspOc6tklAwGEEciks) | [Matozo](https://open.spotify.com/album/42JVY8b8306tmGSbdOwrog) | 2:21 | 2022-12-16 | 2023-05-14 |
-| [Mawenge](https://open.spotify.com/track/4NF3tGNQ7Gi9A0sHnFxPCE) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks), [Mullaobo](https://open.spotify.com/artist/3dIcJY4xlDBBnRe8bMDZ6o) | [Mawenge](https://open.spotify.com/album/4P4Y78uV52GBdtOYhuv1un) | 4:02 | 2023-12-22 |  |
+| [Mawenge](https://open.spotify.com/track/4NF3tGNQ7Gi9A0sHnFxPCE) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks), [Mullaobo](https://open.spotify.com/artist/3dIcJY4xlDBBnRe8bMDZ6o) | [Mawenge](https://open.spotify.com/album/4P4Y78uV52GBdtOYhuv1un) | 4:02 | 2023-12-22 | 2024-05-03 |
 | [Mfalme Wa Mapenzi Album](https://open.spotify.com/track/2EL25q2ehIM0Xi0UKvOBoc) | [Sanaipei Tande](https://open.spotify.com/artist/3ZuB8qlh0K034nr5WH5EzB) | [MAHABA \- Swahili Love Story \- Vol 1](https://open.spotify.com/album/74VRwFLnAeHYqV40X3AwxI) | 4:44 | 2022-05-26 | 2022-10-28 |
 | [Mi Amor](https://open.spotify.com/track/0bk32GtgvGAgaShB0Hj5oV) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Jovial](https://open.spotify.com/artist/0byBbjjMnPnPDMosIzKHO4) | [Mi Amor](https://open.spotify.com/album/5XWqrMOMNhND3bpeSHxjYm) | 3:05 | 2022-05-26 | 2024-02-02 |
 | [Mi Nawe](https://open.spotify.com/track/6pWRJyR4x0undU6dIR2mpP) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Mi Nawe](https://open.spotify.com/album/0jvLmR2XD7mM8zXNfuvPJ2) | 2:45 | 2023-10-19 |  |
@@ -131,6 +132,7 @@
 | [Nenda Lote](https://open.spotify.com/track/66UNdqwxnjpfQdu3cD0lk5) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Midnight Train](https://open.spotify.com/album/2R0nfEjaMFMb8qyPnQmDzK) | 4:24 | 2022-05-26 | 2024-02-02 |
 | [Never Let Go](https://open.spotify.com/track/0oo32fZjl0rwWqNTtwSFak) | [Wyre](https://open.spotify.com/artist/4wnZwHdj9Axyr8ND1Vu8EH), [Kaa La Moto](https://open.spotify.com/artist/7jvdp7S94qyfvChivF4ua9) | [NEVER LET GO](https://open.spotify.com/album/6bx36cCR1kDtorGigHyASc) | 2:54 | 2023-11-23 | 2023-12-23 |
 | [Ni We](https://open.spotify.com/track/1xTb97ajiL7Rq3dMBk2UJu) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Heart to Hurt](https://open.spotify.com/album/4QEJSaRYujs6FtiF7gpctX) | 2:54 | 2022-05-26 | 2023-03-25 |
+| [Nibusu \(feat\. Yammi\)](https://open.spotify.com/track/4dVzMCH149RdkaqROrsATS) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks), [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK) | [Nibusu \(feat\. Yammi\)](https://open.spotify.com/album/1F3HikuQyKXhIFfrPQ9SyV) | 3:37 | 2024-05-02 |  |
 | [Nikilala](https://open.spotify.com/track/6RFGm7BDBsbGM2A4Q332n4) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Nikilala](https://open.spotify.com/album/1cUWkCUttv5J9EyGJutwWL) | 2:30 | 2023-03-10 | 2023-07-07 |
 | [Nikupende](https://open.spotify.com/track/4Nmk8cdKR6XZadYTGVRoIa) | [Elani](https://open.spotify.com/artist/7v4v8ZiBQC6HHeCuA2lQ26) | [Barua ya Dunia](https://open.spotify.com/album/7fLPbISe7JY8c0O0huAL0Z) | 4:24 | 2022-05-26 | 2022-09-23 |
 | [Nimepona](https://open.spotify.com/track/5QBOkEw7DDaZ8PQ2TuGxrY) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Nimepona](https://open.spotify.com/album/2rxqrKuaUCUkV4kej5LlJQ) | 3:23 | 2023-03-02 | 2023-09-22 |

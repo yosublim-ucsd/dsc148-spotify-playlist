@@ -2,7 +2,7 @@
 
 ### [This Is BIA](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Q9uUx)
 
-> This is BIA\. Todos os maiores hits em uma só playlist.
+> This Is BIA\. Los temas esenciales, todos en una lista.
 
 96 songs - 4 hr 28 min
 

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Am\u00e9n. Los temas esenciales, todos en una lista.",
-  "num_followers": 6087,
+  "description": "This is Am\u00e9n. The essential tracks, all in one playlist.",
+  "num_followers": 6091,
   "original_name": "This Is Am\u00e9n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjA0gAAAAAAKTF3aR4W/18dx5QJ2NkjI",
+  "snapshot_id": "ZjGGAAAAAADdLCT9dOheGq3uwGKf+AzD",
   "tracks": [
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos la Gente (Somos Uno)",
-        "url": "https://open.spotify.com/album/165JYqcw1Eu4iCMddeGzrv"
+        "name": "Infectado",
+        "url": "https://open.spotify.com/album/2zAl9NEyqqhmupC1MFtlHK"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 160306,
-      "name": "El D\u00eda",
-      "url": "https://open.spotify.com/track/0OMJ0zX9Zyc6g15nF7Haf2"
+      "duration_ms": 179000,
+      "name": "Ahora Volar\u00e9",
+      "url": "https://open.spotify.com/track/3BxvhQtYIJSpIa3TNF34ZZ"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infectado",
-        "url": "https://open.spotify.com/album/2zAl9NEyqqhmupC1MFtlHK"
+        "name": "Somos la Gente (Somos Uno)",
+        "url": "https://open.spotify.com/album/165JYqcw1Eu4iCMddeGzrv"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 179000,
-      "name": "Ahora Volar\u00e9",
-      "url": "https://open.spotify.com/track/3BxvhQtYIJSpIa3TNF34ZZ"
+      "duration_ms": 160306,
+      "name": "El D\u00eda",
+      "url": "https://open.spotify.com/track/0OMJ0zX9Zyc6g15nF7Haf2"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos la Gente (Somos Uno)",
-        "url": "https://open.spotify.com/album/165JYqcw1Eu4iCMddeGzrv"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 219840,
-      "name": "Blues Ciego",
-      "url": "https://open.spotify.com/track/2STvoBqpEHcPqnMnVvRsG5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Entre Cuatro Paredes",
         "url": "https://open.spotify.com/album/1tRPMMuI2unJBg6v8ZknOw"
       },
@@ -475,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "2020",
-        "url": "https://open.spotify.com/album/25wwomOyVO7rJvF28zwrpA"
+        "name": "Somos la Gente (Somos Uno)",
+        "url": "https://open.spotify.com/album/165JYqcw1Eu4iCMddeGzrv"
       },
       "artists": [
         {
@@ -484,25 +468,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 283374,
-      "name": "2020",
-      "url": "https://open.spotify.com/track/3SJaiCgPfI6L9WymQkjivV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tiempos de Resurrecci\u00f3n",
-        "url": "https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 216500,
-      "name": "Love N' Shit",
-      "url": "https://open.spotify.com/track/0kZKUPXsNPNIBd7LtVGif5"
+      "duration_ms": 219840,
+      "name": "Blues Ciego",
+      "url": "https://open.spotify.com/track/2STvoBqpEHcPqnMnVvRsG5"
     },
     {
       "added_at": null,
@@ -523,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tiempos de Resurrecci\u00f3n",
+        "url": "https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 216500,
+      "name": "Love N' Shit",
+      "url": "https://open.spotify.com/track/0kZKUPXsNPNIBd7LtVGif5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Vida",
         "url": "https://open.spotify.com/album/79hgjBwG8Vh3r7x8FGdA9h"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 138337,
       "name": "La Vida",
       "url": "https://open.spotify.com/track/1Q69O1mL0bDyC2aA4OPDsh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2020",
+        "url": "https://open.spotify.com/album/25wwomOyVO7rJvF28zwrpA"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 283374,
+      "name": "2020",
+      "url": "https://open.spotify.com/track/3SJaiCgPfI6L9WymQkjivV"
     },
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Si Solo Estas Ah\u00ed",
+      "url": "https://open.spotify.com/track/0pJRIgIzSZq1xFEtGnACG2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ella Es",
         "url": "https://open.spotify.com/album/6P0eRSeMkYkulYGS2zzdFF"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 195758,
       "name": "Ella Es",
       "url": "https://open.spotify.com/track/7bpOAW9LnQAsAbFbyImhwS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Libre",
-        "url": "https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 192640,
-      "name": "\u00c9chale la Culpa al Rock N' Roll",
-      "url": "https://open.spotify.com/track/6DAVWzv0jbqZy7M2LypsqJ"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Despierten",
-        "url": "https://open.spotify.com/album/1qWSjGC7gRdMMcJoowJTK7"
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 374797,
-      "name": "Despierten",
-      "url": "https://open.spotify.com/track/4bnaFMP9HTgIFVTBXJM0ju"
+      "duration_ms": 192640,
+      "name": "\u00c9chale la Culpa al Rock N' Roll",
+      "url": "https://open.spotify.com/track/6DAVWzv0jbqZy7M2LypsqJ"
     },
     {
       "added_at": null,
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Despierten",
+        "url": "https://open.spotify.com/album/1qWSjGC7gRdMMcJoowJTK7"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 374797,
+      "name": "Despierten",
+      "url": "https://open.spotify.com/track/4bnaFMP9HTgIFVTBXJM0ju"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Feliz",
         "url": "https://open.spotify.com/album/2RygylLconytLpI3VPQ1VX"
       },
@@ -708,9 +724,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 253733,
-      "name": "No Me Estoy Quemando",
-      "url": "https://open.spotify.com/track/3z7Rh2GBx6ktNjh0GrumNJ"
+      "duration_ms": 57573,
+      "name": "Jam Session",
+      "url": "https://open.spotify.com/track/6qmz2Q6Nvg2Q7e2VlphVEM"
     },
     {
       "added_at": null,

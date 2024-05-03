@@ -395,6 +395,24 @@
     },
     {
       "album": {
+        "name": "Minha F\u00e9",
+        "url": "https://open.spotify.com/album/2WBGK3UQnyS0WsPTrBbDFV"
+      },
+      "artists": [
+        {
+          "name": "Vitor Limma",
+          "url": "https://open.spotify.com/artist/2EQphX0SGBPXvRWS7DUyu1"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247361,
+      "name": "Cigana / Modo Avi\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/4PpCSPtW0NK1ytggyAwNLN"
+    },
+    {
+      "album": {
         "name": "Pra Quem N\u00e3o Conhece, Ep. 01 (Ao Vivo)",
         "url": "https://open.spotify.com/album/4NGOlC5CIiLYoLEGI12TEr"
       },
@@ -530,7 +548,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 198197,
       "name": "Deixa Eu Ir \u00c0 Luta / Um Brasileiro - Ao Vivo",
       "url": "https://open.spotify.com/track/6IaTjjL679i8095Sb7C47o"
@@ -872,7 +890,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 193500,
       "name": "Fica Combinado Assim / O Amor N\u00e3o Tem Culpa - Ao Vivo",
       "url": "https://open.spotify.com/track/1262PSbMeANuKnznYffZZN"
@@ -1000,6 +1018,28 @@
       "duration_ms": 286396,
       "name": "Inigual\u00e1vel Paix\u00e3o / Pra Ser Minha Musa - Ao Vivo",
       "url": "https://open.spotify.com/track/7rIzAG8RsiGHt6W0t1qRU6"
+    },
+    {
+      "album": {
+        "name": "Ive Brussel / Os Alquimistas Est\u00e3o Chegando / Cad\u00ea Tereza / Do Lado Direito da Rua Direita / Al\u00e9m do Horizonte (Cover)",
+        "url": "https://open.spotify.com/album/3zD67OFgL5cEIBBUX8KwdT"
+      },
+      "artists": [
+        {
+          "name": "Quarpreto",
+          "url": "https://open.spotify.com/artist/6npMHquVxYZKX3cFlPoOP7"
+        },
+        {
+          "name": "Os Originais Do Samba",
+          "url": "https://open.spotify.com/artist/4gKqxjR0MkEKjqvO3Ctvpg"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 542148,
+      "name": "Ive Brussel / Os Alquimistas Est\u00e3o Chegando / Cad\u00ea Tereza / Do Lado Direito da Rua Direita / Al\u00e9m do Horizonte - Cover",
+      "url": "https://open.spotify.com/track/1powr0z9zbzKiaBk0Pt5eT"
     },
     {
       "album": {

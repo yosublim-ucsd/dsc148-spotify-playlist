@@ -2,7 +2,7 @@
 
 ### [This Is SPYAIR](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4iOisK)
 
-> This Is SPYAIR\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is SPYAIR\. The essential tracks, all in one playlist.
 
 74 songs - 4 hr 35 min
 

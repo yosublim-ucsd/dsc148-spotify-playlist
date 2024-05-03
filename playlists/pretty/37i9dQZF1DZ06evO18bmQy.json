@@ -1,12 +1,12 @@
 {
-  "description": "This is Djonga. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 195760,
+  "description": "This is Djonga. The essential tracks, all in one playlist.",
+  "num_followers": 195793,
   "original_name": "This Is Djonga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjA0gAAAAAD2xRCkIrVolVo8o5yVa/jl",
+  "snapshot_id": "ZjGGAAAAAACdS4z/heyO7JtxlYSYTnFl",
   "tracks": [
     {
       "added_at": null,
@@ -107,30 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inocente \"Demotape\"",
-        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "LISBOA",
-          "url": "https://open.spotify.com/artist/5QsFQx8phlzqvnNkTFCVfP"
-        }
-      ],
-      "duration_ms": 209141,
-      "name": "da lua",
-      "url": "https://open.spotify.com/track/0F1FsfYvx7eyAC64EPzD7S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Funktroit",
         "url": "https://open.spotify.com/album/7LFxfEV4nuomiNyOATUHsU"
       },
@@ -151,6 +127,30 @@
       "duration_ms": 140134,
       "name": "\u00c9 o Rei do Sexo",
       "url": "https://open.spotify.com/track/5MGhz9NF41oppyU31Z0dpj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inocente \"Demotape\"",
+        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "LISBOA",
+          "url": "https://open.spotify.com/artist/5QsFQx8phlzqvnNkTFCVfP"
+        }
+      ],
+      "duration_ms": 209141,
+      "name": "da lua",
+      "url": "https://open.spotify.com/track/0F1FsfYvx7eyAC64EPzD7S"
     },
     {
       "added_at": null,
@@ -498,11 +498,15 @@
         {
           "name": "Djonga",
           "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         }
       ],
-      "duration_ms": 138321,
-      "name": "das amantes freestyle",
-      "url": "https://open.spotify.com/track/2CRnqV3kVYuqZ9iTWPvCy8"
+      "duration_ms": 170432,
+      "name": "depois da meia noite",
+      "url": "https://open.spotify.com/track/3bnwUi3XFEDSSePQXUTPJI"
     },
     {
       "added_at": null,
@@ -602,15 +606,11 @@
         {
           "name": "Djonga",
           "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         }
       ],
-      "duration_ms": 170432,
-      "name": "depois da meia noite",
-      "url": "https://open.spotify.com/track/3bnwUi3XFEDSSePQXUTPJI"
+      "duration_ms": 138321,
+      "name": "das amantes freestyle",
+      "url": "https://open.spotify.com/track/2CRnqV3kVYuqZ9iTWPvCy8"
     },
     {
       "added_at": null,
@@ -663,6 +663,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heresia",
+        "url": "https://open.spotify.com/album/2Mlk1lNZ2pzDxvLhLDVUw2"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        }
+      ],
+      "duration_ms": 175317,
+      "name": "Geminiano",
+      "url": "https://open.spotify.com/track/543HV83fPC5akWEtYsMzq8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inocente \"Demotape\"",
+        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        }
+      ],
+      "duration_ms": 173600,
+      "name": "5 da manh\u00e3",
+      "url": "https://open.spotify.com/track/2fdfXYtk4zUgTxv3jwSqTp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "IRRASTRE\u00c1VEL",
         "url": "https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG"
       },
@@ -691,42 +727,6 @@
       "duration_ms": 212000,
       "name": "Tipo Assim",
       "url": "https://open.spotify.com/track/2zoUL0ATng6BTL66g2dRpt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Inocente \"Demotape\"",
-        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        }
-      ],
-      "duration_ms": 173600,
-      "name": "5 da manh\u00e3",
-      "url": "https://open.spotify.com/track/2fdfXYtk4zUgTxv3jwSqTp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heresia",
-        "url": "https://open.spotify.com/album/2Mlk1lNZ2pzDxvLhLDVUw2"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        }
-      ],
-      "duration_ms": 175317,
-      "name": "Geminiano",
-      "url": "https://open.spotify.com/track/543HV83fPC5akWEtYsMzq8"
     },
     {
       "added_at": null,
@@ -1047,74 +1047,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "P\u00f3dio",
-        "url": "https://open.spotify.com/album/7APauEMJTjJ92yVrCoa16T"
-      },
-      "artists": [
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        }
-      ],
-      "duration_ms": 292881,
-      "name": "P\u00f3dio",
-      "url": "https://open.spotify.com/track/3HbwiEXq3qP1fxF34knmnV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AFRODHIT",
-        "url": "https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5"
-      },
-      "artists": [
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        }
-      ],
-      "duration_ms": 178173,
-      "name": "Sintoniza",
-      "url": "https://open.spotify.com/track/52aonA32y0YYt1NfnZNvWv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ladr\u00e3o",
-        "url": "https://open.spotify.com/album/4bVYzv8uj0wanD6BdwmdwM"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        }
-      ],
-      "duration_ms": 222128,
-      "name": "FALC\u00c3O",
-      "url": "https://open.spotify.com/track/2YSH4CHnZIyAEG7hXxMV1l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mtg Faz o Cu de Xota X Comedores de Xereca",
         "url": "https://open.spotify.com/album/5WwCBLbEXcRhpZSRQbGzTH"
       },
@@ -1147,6 +1079,74 @@
       "duration_ms": 184615,
       "name": "Mtg Faz o Cu de Xota X Comedores de Xereca",
       "url": "https://open.spotify.com/track/4sisPEgb5dv5Jx0ljBAY7n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "P\u00f3dio",
+        "url": "https://open.spotify.com/album/7APauEMJTjJ92yVrCoa16T"
+      },
+      "artists": [
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        }
+      ],
+      "duration_ms": 292881,
+      "name": "P\u00f3dio",
+      "url": "https://open.spotify.com/track/3HbwiEXq3qP1fxF34knmnV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ladr\u00e3o",
+        "url": "https://open.spotify.com/album/4bVYzv8uj0wanD6BdwmdwM"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        }
+      ],
+      "duration_ms": 222128,
+      "name": "FALC\u00c3O",
+      "url": "https://open.spotify.com/track/2YSH4CHnZIyAEG7hXxMV1l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AFRODHIT",
+        "url": "https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        }
+      ],
+      "duration_ms": 178173,
+      "name": "Sintoniza",
+      "url": "https://open.spotify.com/track/52aonA32y0YYt1NfnZNvWv"
     },
     {
       "added_at": null,

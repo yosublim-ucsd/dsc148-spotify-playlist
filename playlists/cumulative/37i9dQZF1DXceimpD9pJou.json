@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las mejores nuevas canciones Cristianas.  Foto: <a href=\"spotify:artist:2gaFnEQydJdWNkT17NLZm3\">Su Presencia</a>.",
+  "description": "Las mejores nuevas canciones Cristianas.  Foto: <a href=\"spotify:artist:6slyJwua5e5GuhuP82sTHR\">Alex Campos</a>.",
   "name": "Novedades Cristianas",
   "tracks": [
     {
@@ -2188,7 +2188,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 213638,
       "name": "Andamos Con Dios",
       "url": "https://open.spotify.com/track/222L9EIrHvCTHVF8lgPGfJ"
@@ -2326,7 +2326,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 175589,
       "name": "Ansioso",
       "url": "https://open.spotify.com/track/4JQjJncJ0u7aXKX6eEgwmt"
@@ -2528,7 +2528,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 187570,
       "name": "Ara\u00f1a En Sus Redes",
       "url": "https://open.spotify.com/track/4gSyHPm598ejdypDpP2luc"
@@ -6554,7 +6554,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 191020,
       "name": "CUENTA SALDA",
       "url": "https://open.spotify.com/track/2x4ibHr7WAWcIs9kLuhgBd"
@@ -7239,6 +7239,28 @@
     },
     {
       "album": {
+        "name": "Del Salmo 23",
+        "url": "https://open.spotify.com/album/5hK6POzhrSwOjmL45i0iVk"
+      },
+      "artists": [
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        },
+        {
+          "name": "Distrito Royal",
+          "url": "https://open.spotify.com/artist/4oMlE314cSHFQYWjIstdK5"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228320,
+      "name": "Del Salmo 23",
+      "url": "https://open.spotify.com/track/0pu2dU13lq6MVr5MYECGRV"
+    },
+    {
+      "album": {
         "name": "Dembow Pentecostal",
         "url": "https://open.spotify.com/album/294ngxDtO2aW4gvZt42Imc"
       },
@@ -7759,6 +7781,46 @@
     },
     {
       "album": {
+        "name": "Dime c\u00f3mo hacerlo (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/600glZhY6fkvXrURcrIqJr"
+      },
+      "artists": [
+        {
+          "name": "Laraland",
+          "url": "https://open.spotify.com/artist/5xeAPTFWqmn98MCgy1m6IM"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232321,
+      "name": "Dime c\u00f3mo hacerlo - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/0hqipi7wOGMkkS2xzB1imb"
+    },
+    {
+      "album": {
+        "name": "DIME QUE HACER",
+        "url": "https://open.spotify.com/album/7K08AIRvdSOdXXyN7NOsjN"
+      },
+      "artists": [
+        {
+          "name": "Lexander",
+          "url": "https://open.spotify.com/artist/330lBZpfC25aQtcN90n9Hy"
+        },
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209032,
+      "name": "DIME QUE HACER",
+      "url": "https://open.spotify.com/track/1bSdt2DIxY71Z4M6ubRJ2P"
+    },
+    {
+      "album": {
         "name": "Dinero",
         "url": "https://open.spotify.com/album/5i4rUuV3HlivEuXKQrNGIo"
       },
@@ -8100,6 +8162,24 @@
       "duration_ms": 174757,
       "name": "DIOS HA SIDO BUENO",
       "url": "https://open.spotify.com/track/7sEy4iTAuRNq3aPxWlDwFT"
+    },
+    {
+      "album": {
+        "name": "DIOS HA SIDO BUENO (Piano Version)",
+        "url": "https://open.spotify.com/album/251c0mxhMW12wd0Q6ql1Em"
+      },
+      "artists": [
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "DIOS HA SIDO BUENO - Piano Version",
+      "url": "https://open.spotify.com/track/22kD3KXAobzamNZ62v1c1T"
     },
     {
       "album": {
@@ -8452,7 +8532,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 258660,
       "name": "Donde Llegamos",
       "url": "https://open.spotify.com/track/106Q2GallyGpWbn4aMDCGX"
@@ -9782,6 +9862,24 @@
       "duration_ms": 306920,
       "name": "El Volver\u00e1",
       "url": "https://open.spotify.com/track/6A7BlVhNk5wQNxNL8yuiVy"
+    },
+    {
+      "album": {
+        "name": "Eleva Tu Alma",
+        "url": "https://open.spotify.com/album/341uNJDUClwb5EOHWOjkW5"
+      },
+      "artists": [
+        {
+          "name": "El Philippe",
+          "url": "https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211600,
+      "name": "Eleva Tu Alma",
+      "url": "https://open.spotify.com/track/5pZuCKXUjx3u3dP1c2eJH8"
     },
     {
       "album": {
@@ -13309,6 +13407,24 @@
     },
     {
       "album": {
+        "name": "Gracias Cristo",
+        "url": "https://open.spotify.com/album/2PbZe5HLmeHPDlIZDMmoZB"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241816,
+      "name": "Gracias Cristo",
+      "url": "https://open.spotify.com/track/6Ax2zkP5VWm0Tgg787SJn3"
+    },
+    {
+      "album": {
         "name": "No yo, sino Cristo",
         "url": "https://open.spotify.com/album/0WoCSRk8Zij8Q1k5bWNuWe"
       },
@@ -13684,6 +13800,24 @@
       "duration_ms": 203790,
       "name": "Gu\u00edame",
       "url": "https://open.spotify.com/track/11iSxK5GHFhq2mgKMJStGs"
+    },
+    {
+      "album": {
+        "name": "Ha Llegado El Momento",
+        "url": "https://open.spotify.com/album/03JWHmutmunUwUSRMY1zTx"
+      },
+      "artists": [
+        {
+          "name": "NewSpring Worship",
+          "url": "https://open.spotify.com/artist/1wUcqswHv80fp5nMF2hVwM"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263721,
+      "name": "Ha Llegado El Momento",
+      "url": "https://open.spotify.com/track/4mLr6ZAjbqWvtgGJ8PjShD"
     },
     {
       "album": {
@@ -15358,7 +15492,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 201000,
       "name": "Jehov\u00e1",
       "url": "https://open.spotify.com/track/5gHz5YGGu4huwnZjDcOrgQ"
@@ -16252,7 +16386,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 187711,
       "name": "La Llamada",
       "url": "https://open.spotify.com/track/1KCquWNBrjjLOJ1LU8OHDE"
@@ -17824,6 +17958,24 @@
       "duration_ms": 152467,
       "name": "Los Haters",
       "url": "https://open.spotify.com/track/63WZuf7UX6NS0OEqQTrbFS"
+    },
+    {
+      "album": {
+        "name": "LOVEO",
+        "url": "https://open.spotify.com/album/00lZ4WPWOw5BdLJAPMtvrr"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173868,
+      "name": "LOVEO",
+      "url": "https://open.spotify.com/track/0rBVM75Fqi5U6rCm2m5iTK"
     },
     {
       "album": {
@@ -19502,7 +19654,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 191750,
       "name": "Mi Carne y Yo",
       "url": "https://open.spotify.com/track/4JNuaSFamhWbKaiFiYKJWe"
@@ -21124,7 +21276,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 200760,
       "name": "Nada Me Falta",
       "url": "https://open.spotify.com/track/5cPNz2RrxEjftzZq20f5uY"
@@ -22967,6 +23119,24 @@
     },
     {
       "album": {
+        "name": "Olas del Mar",
+        "url": "https://open.spotify.com/album/0HadtndfLBRSAoV6k8bvPG"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Daza",
+          "url": "https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176334,
+      "name": "Olas del Mar",
+      "url": "https://open.spotify.com/track/2UOAZ6k8pJig7aSdp4unkL"
+    },
+    {
+      "album": {
         "name": "Orando por Ti",
         "url": "https://open.spotify.com/album/6KouXfy8BfOcJBMi4r5VDo"
       },
@@ -24754,7 +24924,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 172524,
       "name": "PRODIGO",
       "url": "https://open.spotify.com/track/5EjWarHDHjUPFrKhlwlxnw"
@@ -24812,6 +24982,24 @@
       "duration_ms": 259674,
       "name": "Profundamente Te Amo",
       "url": "https://open.spotify.com/track/6khbvjPfp0QkviDsoMzu6D"
+    },
+    {
+      "album": {
+        "name": "Profundamente Te Amo (En Vivo)",
+        "url": "https://open.spotify.com/album/6Rlee6Z1RaG7RG53GQhMfY"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Profundamente Te Amo - En Vivo",
+      "url": "https://open.spotify.com/track/0BhWlXmzjr35pmuScdSJuB"
     },
     {
       "album": {
@@ -29835,6 +30023,28 @@
     },
     {
       "album": {
+        "name": "Te Anhelo (Live)",
+        "url": "https://open.spotify.com/album/49Hk7qeULzlR0BC6TjnPzL"
+      },
+      "artists": [
+        {
+          "name": "Jose Luis Reyes",
+          "url": "https://open.spotify.com/artist/77Zo41CMTIsSUP47AkNhie"
+        },
+        {
+          "name": "Daniella Reyes",
+          "url": "https://open.spotify.com/artist/3FuVkjv92G8MncC4A1hGu1"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352203,
+      "name": "Te Anhelo - Live",
+      "url": "https://open.spotify.com/track/2JsUPNiIWssxvxcOUybNdR"
+    },
+    {
+      "album": {
         "name": "\u00bfC\u00f3mo Me Ves?",
         "url": "https://open.spotify.com/album/1kE9qUu5Etm1bhdp86rwI3"
       },
@@ -34122,7 +34332,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 183653,
       "name": "Who Who",
       "url": "https://open.spotify.com/track/5chbw52W6N0FMq7hFsdQyU"

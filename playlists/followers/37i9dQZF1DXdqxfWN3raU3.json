@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 253324,
+  "2024-05-03": 253335,
   "date_first_scraped": "2022-01-02",
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. Rels B en portada.",
   "name": "R&B Latino",
@@ -3677,7 +3677,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 172235,
       "name": "Los Dos",
       "url": "https://open.spotify.com/track/6kn5oUW8uoVIcGjpjbnBlw"
@@ -5765,7 +5765,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 140000,
       "name": "Reflejos",
       "url": "https://open.spotify.com/track/5oqDCwIzUNosjxCoIvkihd"

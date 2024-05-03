@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 240057,
+  "2024-05-03": 240307,
   "date_first_scraped": "2023-03-14",
   "description": "love peace techno",
   "name": "rave",
@@ -2037,7 +2037,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 377419,
       "name": "I Am Machine",
       "url": "https://open.spotify.com/track/7A8ec8nBw1BEwGgdSL5H90"
@@ -3949,6 +3949,36 @@
       "duration_ms": 205994,
       "name": "Restless - Radio Edit",
       "url": "https://open.spotify.com/track/0DjCwxpgho4eGcoDKhVxG7"
+    },
+    {
+      "album": {
+        "name": "Revenge (feat. Julia Hallasen)",
+        "url": "https://open.spotify.com/album/5WYGpvTgoQz4fiASspXOOR"
+      },
+      "artists": [
+        {
+          "name": "Danny Ores",
+          "url": "https://open.spotify.com/artist/1ngKYk9gnZpMAoaayD6BGY"
+        },
+        {
+          "name": "Amero",
+          "url": "https://open.spotify.com/artist/6y98wK2RN9CyNuuN1l2icf"
+        },
+        {
+          "name": "GYMBRO",
+          "url": "https://open.spotify.com/artist/1dVQrgVgad6dhS9ATZGy9D"
+        },
+        {
+          "name": "Julia Hallasen",
+          "url": "https://open.spotify.com/artist/31Izzl2gwnqQ3G4LKCyEup"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136087,
+      "name": "Revenge",
+      "url": "https://open.spotify.com/track/4h3vVQAxnggiVDhldGcUHN"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78yU2od6grb.md) - [plain]
 
 > Quer fazer aquele exercício empolgante e sem estresse? Fizemos uma playlist com o som certo para você alcançar novas metas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 555,851 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 555,842 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78yU2od6grb.md) - [plain]
 | 73 | [Running](https://open.spotify.com/track/37WjD4t8hZ5xXEjrhIAmKF) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Gabriel Boni](https://open.spotify.com/artist/0bm790gMtTnJ9RWUijkC24), [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j), [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [Running](https://open.spotify.com/album/20qhDMcpbzJCBNBks5scjY) | 3:58 |
 | 74 | [Be Okay \(with HRVY\)](https://open.spotify.com/track/4ztw0mBC6VBiLV79yRHDQW) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Be Okay \(with HRVY\)](https://open.spotify.com/album/7IWsyF6IuJ4jLdRTLxVw3v) | 2:21 |
 | 75 | [How Beautiful \(she is\)](https://open.spotify.com/track/53TbfWFcp3COCSs3zkVfSR) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP), [duendita](https://open.spotify.com/artist/4vZBqD3QXrKiE3mZ6zHr22), [MC Bin Laden](https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0) | [How Beautiful \(she is\)](https://open.spotify.com/album/0BzSvuNSqq9DRtme4i2Pys) | 3:27 |
-| 76 | [Call You Mine \(feat\. Bebe Rexha\)](https://open.spotify.com/track/05CwHjIk71RXVU40boRMnR) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [World War Joy](https://open.spotify.com/album/1ONuDpN0a3zhCUyKCgtuzK) | 3:37 |
-| 77 | [Waterfall](https://open.spotify.com/track/72EaWichAXl7tTulGwxCKO) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Waterfall](https://open.spotify.com/album/5lLpdj3vBItlhNW9BxY2TK) | 3:52 |
+| 76 | [Waterfall](https://open.spotify.com/track/72EaWichAXl7tTulGwxCKO) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Waterfall](https://open.spotify.com/album/5lLpdj3vBItlhNW9BxY2TK) | 3:52 |
+| 77 | [Call You Mine \(feat\. Bebe Rexha\)](https://open.spotify.com/track/05CwHjIk71RXVU40boRMnR) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [World War Joy](https://open.spotify.com/album/1ONuDpN0a3zhCUyKCgtuzK) | 3:37 |
 | 78 | [Piece Of Your Heart](https://open.spotify.com/track/5p1ex0pXv6jSPJ6QbumQpD) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Piece Of Your Heart](https://open.spotify.com/album/0agqVZjOqVtqHkq3pTFPXb) | 2:32 |
 | 79 | [Afrofuturista](https://open.spotify.com/track/35d6akAv0HQFb21Ooifwvi) | [Carlos do Complexo](https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2) | [Afrofuturista](https://open.spotify.com/album/1BWtvpZIQkHY9CwG49QcWs) | 2:04 |
 | 80 | [Waiting for the Summer](https://open.spotify.com/track/6yDVzSw6ADBAQNgBSkkdw6) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Graham Candy](https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou) | [Waiting for the Summer](https://open.spotify.com/album/4mVZbOPDbTF6alY0EhdAE7) | 2:48 |

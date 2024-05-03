@@ -1,6 +1,6 @@
 {
   "description": "pop woke up and chose chaos. cover: EMELINE",
-  "num_followers": 84301,
+  "num_followers": 84299,
   "original_name": "POP EDGE",
   "owner": {
     "name": "Spotify",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-01-16 01:21:41",
       "album": {
+        "name": "please put me in a medically induced coma",
+        "url": "https://open.spotify.com/album/2pPYJUCaxJTApLpglmBpaL"
+      },
+      "artists": [
+        {
+          "name": "carolesdaughter",
+          "url": "https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB"
+        }
+      ],
+      "duration_ms": 186902,
+      "name": "please put me in a medically induced coma",
+      "url": "https://open.spotify.com/track/4MY8pe89WnW7xVOxUN4hmg"
+    },
+    {
+      "added_at": "2024-01-16 01:21:41",
+      "album": {
         "name": "SALT (feat. Oli Sykes)",
         "url": "https://open.spotify.com/album/7ByUUXiK8wox0Z76Ggj4Mz"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 222375,
       "name": "SALT (feat. Oli Sykes)",
       "url": "https://open.spotify.com/track/0cZ32X4hK23v585O8Wz6Yr"
-    },
-    {
-      "added_at": "2024-01-16 01:21:41",
-      "album": {
-        "name": "please put me in a medically induced coma",
-        "url": "https://open.spotify.com/album/2pPYJUCaxJTApLpglmBpaL"
-      },
-      "artists": [
-        {
-          "name": "carolesdaughter",
-          "url": "https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB"
-        }
-      ],
-      "duration_ms": 186902,
-      "name": "please put me in a medically induced coma",
-      "url": "https://open.spotify.com/track/4MY8pe89WnW7xVOxUN4hmg"
     },
     {
       "added_at": "2024-01-16 01:21:41",
@@ -987,8 +987,8 @@
     {
       "added_at": "2024-01-16 01:21:41",
       "album": {
-        "name": "Lunatic",
-        "url": "https://open.spotify.com/album/5YSnsjuEl52GiHFj0vRzDR"
+        "name": "Time of my Life",
+        "url": "https://open.spotify.com/album/5ohnsSxGEfREu3adgPHIGd"
       },
       "artists": [
         {
@@ -996,9 +996,9 @@
           "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
         }
       ],
-      "duration_ms": 141226,
-      "name": "Lunatic",
-      "url": "https://open.spotify.com/track/3JRoUjaIQB7Ge6ceiGnmc2"
+      "duration_ms": 136066,
+      "name": "Time of my Life",
+      "url": "https://open.spotify.com/track/1K0lYhdaq84V90aOneQjIW"
     },
     {
       "added_at": "2024-01-16 01:21:41",
@@ -1115,8 +1115,8 @@
     {
       "added_at": "2024-01-16 01:21:41",
       "album": {
-        "name": "Time of my Life",
-        "url": "https://open.spotify.com/album/5ohnsSxGEfREu3adgPHIGd"
+        "name": "Lunatic",
+        "url": "https://open.spotify.com/album/5YSnsjuEl52GiHFj0vRzDR"
       },
       "artists": [
         {
@@ -1124,9 +1124,9 @@
           "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
         }
       ],
-      "duration_ms": 136066,
-      "name": "Time of my Life",
-      "url": "https://open.spotify.com/track/1K0lYhdaq84V90aOneQjIW"
+      "duration_ms": 141226,
+      "name": "Lunatic",
+      "url": "https://open.spotify.com/track/3JRoUjaIQB7Ge6ceiGnmc2"
     },
     {
       "added_at": "2024-01-16 01:21:41",

@@ -4,7 +4,7 @@
 
 > Fresh gospel music from Ghana\. Cover: MOGMusic
 
-93 songs - 8 hr 21 min
+95 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,8 +17,9 @@
 | [Amenuveve \(Grace\)](https://open.spotify.com/track/7JQjnwndY82ga5gWjTzTMC) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc), [Bethel Revival Choir](https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz) | [Amenuveve \(Grace\)](https://open.spotify.com/album/2YVcZs92qwPnKFo0duGv6f) | 6:48 | 2023-04-06 | 2023-09-04 |
 | [Amenuveve \(Grace\) \- Live](https://open.spotify.com/track/2mumNKA39z1o0nJ4HhCZgK) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [Final Say \(Live\)](https://open.spotify.com/album/5eHLuC2Ey4ToQkC2dCeVFY) | 6:48 | 2023-04-06 | 2023-08-07 |
 | [Aseda](https://open.spotify.com/track/2SvJR52RLovnc4XRkpa5rn) | [KobbySalm](https://open.spotify.com/artist/0O4MEIc9HB5MiTfQX5eKNB), [PO Godson](https://open.spotify.com/artist/1TbwnRRabR2ZOYj4u3C6Vl), [Joe Kay](https://open.spotify.com/artist/53ZQc2LGjVFkhzbC6zBggA), [Belac 360](https://open.spotify.com/artist/68McF3BHKgTCfkHlUpy7Ah) | [This Is Us](https://open.spotify.com/album/06C51VglvEDVHgbI25OCty) | 3:27 | 2023-04-06 | 2023-06-10 |
+| [Aseda](https://open.spotify.com/track/7AIplY4MAG0TBQMTeQkHuH) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB) | [Keteke](https://open.spotify.com/album/7997TGx8F6QVwHdpYcV8hO) | 3:47 | 2024-05-03 |  |
 | [Aseda](https://open.spotify.com/track/5r8OPDPYNHojAhVsLnXuE1) | [Nacee](https://open.spotify.com/artist/78yZ1ji9uBJVuMp8pXKoBK) | [Aseda](https://open.spotify.com/album/7M7BxTDWlHdM85VKItKein) | 4:16 | 2023-04-06 |  |
-| [Awake](https://open.spotify.com/track/4ppSvQRAPYr3sRP9KQPBaD) | [Akesse Brempong](https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb) | [The Awakening \(Alpha Edition\)](https://open.spotify.com/album/4LLnxDNz2HsBKM0GhXfXaC) | 8:06 | 2024-01-15 |  |
+| [Awake](https://open.spotify.com/track/4ppSvQRAPYr3sRP9KQPBaD) | [Akesse Brempong](https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb) | [The Awakening \(Alpha Edition\)](https://open.spotify.com/album/4LLnxDNz2HsBKM0GhXfXaC) | 8:06 | 2024-01-15 | 2024-05-03 |
 | [Awurade Ye](https://open.spotify.com/track/6Wmjp0UJ8KSKus3flNInST) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Grace](https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC) | 4:24 | 2023-04-06 |  |
 | [Baba](https://open.spotify.com/track/0YMnqOrQWPwXWMMY1L0WBL) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [Baba](https://open.spotify.com/album/6gVypj6pUdBwercL6Jxtlp) | 3:31 | 2024-04-05 |  |
 | [Blessed](https://open.spotify.com/track/2ldQgqEsS4yhMWaxhmu3cE) | [Akesse Brempong](https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Blessed](https://open.spotify.com/album/79NSowDwIZktvvE09CjnrP) | 3:38 | 2023-04-06 |  |
@@ -68,7 +69,7 @@
 | [Nyame Ye](https://open.spotify.com/track/75mE5CO8KerkTVdZMfVSi3) | [Solomon King](https://open.spotify.com/artist/2iuZufX5th90MKHNrJI6jT) | [Nyame Ye](https://open.spotify.com/album/64uZTak252YtY8M7VqXs8a) | 3:04 | 2023-04-06 | 2023-06-10 |
 | [Nyansabuakwa Nyame](https://open.spotify.com/track/0JDNNVdxIvbnHMQiJGAdFD) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Nyansabuakwa Nyame](https://open.spotify.com/album/2OzSHOEEUiFwjywLFwwrnq) | 5:56 | 2023-04-06 |  |
 | [Nyansabuakwa Nyame \- Live](https://open.spotify.com/track/0H3HSGq80oC8QauLnyrjQl) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Grace](https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC) | 5:56 | 2023-09-14 | 2023-11-20 |
-| [Odo](https://open.spotify.com/track/7JtwmAKntQQBWVEc6EGGmj) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc), [Nacee](https://open.spotify.com/artist/78yZ1ji9uBJVuMp8pXKoBK) | [Odo](https://open.spotify.com/album/6bex6nqZVD6iUh5bX1jJXG) | 4:13 | 2024-03-29 |  |
+| [Odo](https://open.spotify.com/track/7JtwmAKntQQBWVEc6EGGmj) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc), [Nacee](https://open.spotify.com/artist/78yZ1ji9uBJVuMp8pXKoBK) | [Odo](https://open.spotify.com/album/6bex6nqZVD6iUh5bX1jJXG) | 4:13 | 2024-03-29 | 2024-05-03 |
 | [Okasa](https://open.spotify.com/track/6TYPPXh9VhmqP3o47FMOdc) | [Eugene Zuta](https://open.spotify.com/artist/1KmG9OvZmiOv0ntWc7mYcP) | [Okasa](https://open.spotify.com/album/3PSX2qgryboF6ibNTYOfkP) | 4:27 | 2023-04-06 |  |
 | [Okrokrohene](https://open.spotify.com/track/1hwfnRVEec9Ho2mgqimW5q) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [Okrokrohene](https://open.spotify.com/album/0eIX56hYf6WJBgNweasILX) | 6:06 | 2023-04-06 |  |
 | [Only You\(Solo Version\)](https://open.spotify.com/track/591apkzyJMsuqxmtPsUd4R) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [Only You\(Solo Version\)](https://open.spotify.com/album/7bBJxUA0uu7CYwcZibH8Hy) | 6:25 | 2024-02-08 | 2024-03-22 |
@@ -76,6 +77,7 @@
 | [Onyame Tumfo \(The Prayer Song\)](https://open.spotify.com/track/2vPxKFymTxOgHhYszvBtJ8) | [Siisi Baidoo](https://open.spotify.com/artist/1x9IbDcuMszbQzU8tposjZ) | [Onyame Tumfo \(The Prayer Song\)](https://open.spotify.com/album/1dFyQ59czNRy78NVZnXcN4) | 9:44 | 2023-04-06 |  |
 | [ONYE NWERE](https://open.spotify.com/track/46FjDse0BOSh8BgO4IhIMl) | [GEMS](https://open.spotify.com/artist/5VwQwtATk6Op8e9NcdSHPF) | [ONYE NWERE](https://open.spotify.com/album/3oWcoM13WK313nUCGdNHnI) | 3:38 | 2023-04-06 | 2023-06-10 |
 | [Ote Me Mu](https://open.spotify.com/track/1AKRHTiYjgX3hyXFSQYXvf) | [Ohemaa Mercy](https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s), [MOG](https://open.spotify.com/artist/4DgItVDLDv8tnIxB0pnsVf) | [Ote Me Mu](https://open.spotify.com/album/3MJ0HeDAjRJrQtlUVV308N) | 4:35 | 2023-04-06 |  |
+| [Owawani](https://open.spotify.com/track/0Tqoobs4tDE4MylAjg34yd) | [Nana Yaw Ofori\-Atta](https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL) | [Owawani](https://open.spotify.com/album/74ZFgjpDnKg8sF6kmIH4yq) | 2:38 | 2024-05-03 |  |
 | [Perfect Love \(Romans 8:38\-39\)](https://open.spotify.com/track/45Jaa9BfSzCWck93WKD9EA) | [De.ViZION](https://open.spotify.com/artist/73WpLtkNbaWoFvefZcOdtB) | [Perfect Love \(Romans 8:38\-39\)](https://open.spotify.com/album/4jYS7PnRh5Pv2ym6pmmmOe) | 2:56 | 2023-06-09 | 2023-11-02 |
 | [Prayer for deliverance](https://open.spotify.com/track/2jhwlIEH1BxJRkaSZ5fIo9) | [Broda Harrison](https://open.spotify.com/artist/1Jcdhjzaz05RRGus6usY5t) | [Prayer for deliverance](https://open.spotify.com/album/34jI0eSmUWkeqnZe8xKCth) | 1:34 | 2023-04-20 | 2024-01-23 |
 | [Ruach Hakodesh](https://open.spotify.com/track/31ZLMtDzOg7pyMYhlVAesz) | [KOFI OWUSU PEPRAH](https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1) | [Ruach Hakodesh](https://open.spotify.com/album/7lAGemOFalu3XI1Cy8DDMm) | 9:12 | 2023-09-14 |  |

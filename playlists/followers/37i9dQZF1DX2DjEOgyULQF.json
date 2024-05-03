@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 89258,
+  "2024-05-03": 89535,
   "date_first_scraped": "2023-05-02",
   "description": "Ambient with the soothing sounds of water, rain and birds. ",
   "name": "Nature Relaxation",
@@ -903,6 +903,24 @@
       "duration_ms": 134369,
       "name": "Eternals",
       "url": "https://open.spotify.com/track/1LZrsDo4MJaDPlOUvqp61c"
+    },
+    {
+      "album": {
+        "name": "Eutony",
+        "url": "https://open.spotify.com/album/07AlM5Zxu1B4WYKLUtoZlP"
+      },
+      "artists": [
+        {
+          "name": "Montbretia",
+          "url": "https://open.spotify.com/artist/7A9r37hE6RLqltWm7fgZOA"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158294,
+      "name": "Eutony",
+      "url": "https://open.spotify.com/track/5HAdowEFhhgJw4q82GFDjt"
     },
     {
       "album": {
@@ -1937,6 +1955,24 @@
       "duration_ms": 159276,
       "name": "Organesque",
       "url": "https://open.spotify.com/track/4W6xwzBgkkUiTHsFjXNipf"
+    },
+    {
+      "album": {
+        "name": "Overflow",
+        "url": "https://open.spotify.com/album/5G6pitaST2lwtrcmYxXrst"
+      },
+      "artists": [
+        {
+          "name": "Gleework",
+          "url": "https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156162,
+      "name": "Overflow",
+      "url": "https://open.spotify.com/track/6uAzGHQ0CTL0ZmUcACijLc"
     },
     {
       "album": {

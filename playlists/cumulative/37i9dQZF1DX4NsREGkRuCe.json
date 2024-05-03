@@ -1731,6 +1731,24 @@
     },
     {
       "album": {
+        "name": "Big Fish",
+        "url": "https://open.spotify.com/album/7nH8tRwm0FDUZnIFIS9q26"
+      },
+      "artists": [
+        {
+          "name": "KCee",
+          "url": "https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186067,
+      "name": "Big Fish",
+      "url": "https://open.spotify.com/track/1eFC4tzMRg8v2nNw6qHVPM"
+    },
+    {
+      "album": {
         "name": "Big FU",
         "url": "https://open.spotify.com/album/6fmQcEPiGQlBlA8LGClYVU"
       },
@@ -4029,6 +4047,24 @@
     },
     {
       "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166350,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/2yskKhqtDAHJ73obmJh8tf"
+    },
+    {
+      "album": {
         "name": "TOP BOY",
         "url": "https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq"
       },
@@ -4562,7 +4598,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 155454,
       "name": "Folake",
       "url": "https://open.spotify.com/track/611y0fYELYaLtjiMKbxO4N"
@@ -4752,6 +4788,28 @@
       "duration_ms": 160000,
       "name": "Gbadun",
       "url": "https://open.spotify.com/track/3MslJj39APOMPzF0ShKa9F"
+    },
+    {
+      "album": {
+        "name": "Gbera",
+        "url": "https://open.spotify.com/album/1hdcBkpvXUrsHaFFnbjEXh"
+      },
+      "artists": [
+        {
+          "name": "Pryme",
+          "url": "https://open.spotify.com/artist/2BfAlovyHR2zzxNVhFo1VK"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166158,
+      "name": "Gbera",
+      "url": "https://open.spotify.com/track/38jJ418fF4oKxZ4vTvZdvU"
     },
     {
       "album": {
@@ -5038,7 +5096,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 233588,
       "name": "Government (Edit) (feat. LeeMcKrazy, DJ Maphorisa, Ceeka RSA, Tiiger, Tyrone Dee, Al Xapo & JaySax)",
       "url": "https://open.spotify.com/track/0KaBrqouif37urZ3hYAfpX"
@@ -10108,7 +10166,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 156447,
       "name": "Problem Choke (feat. Qing Madi)",
       "url": "https://open.spotify.com/track/10iusab53B2DZKevX5s4XB"
@@ -11704,7 +11762,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 185739,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/3Yr0vIcfXq5MWdSDmZzKgk"
@@ -13258,6 +13316,24 @@
       "duration_ms": 175504,
       "name": "you",
       "url": "https://open.spotify.com/track/4yEBIww3wVoiT7A5v9kQj1"
+    },
+    {
+      "album": {
+        "name": "You (Rum & Schnapp)",
+        "url": "https://open.spotify.com/album/0LMjfmmG1XQIigfU9EewmJ"
+      },
+      "artists": [
+        {
+          "name": "Boy Spyce",
+          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "You (Rum & Schnapp)",
+      "url": "https://open.spotify.com/track/6yfTq51uOS74YlSEErCE1P"
     },
     {
       "album": {

@@ -1,7 +1,7 @@
 {
-  "2024-05-02": 209469,
+  "2024-05-03": 209502,
   "date_first_scraped": "2020-10-13",
-  "description": "The best new pop music by independent artists and labels. Cover: Mercer Henderson. Artwork by Paola Saliby",
+  "description": "The best new pop music by independent artists and labels. Cover: Sophia Fracassi Artwork by Paola Saliby",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -393,6 +393,24 @@
       "duration_ms": 165454,
       "name": "20",
       "url": "https://open.spotify.com/track/1JCzXAduxKRuqT1e0lLCqM"
+    },
+    {
+      "album": {
+        "name": "20 BPM",
+        "url": "https://open.spotify.com/album/7BTUJzOaV7h3GCltS4CW1w"
+      },
+      "artists": [
+        {
+          "name": "CEVIL",
+          "url": "https://open.spotify.com/artist/0E2roCDpvKNhh4ym05PfhP"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183859,
+      "name": "20 BPM",
+      "url": "https://open.spotify.com/track/2vC3G5OVfO8BGSbMkVYcV7"
     },
     {
       "album": {
@@ -1171,7 +1189,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 195914,
       "name": "A Cool Car And A Good Smile",
       "url": "https://open.spotify.com/track/1kbwRwjFRyAHfrHV82hCDF"
@@ -2431,6 +2449,24 @@
       "duration_ms": 166046,
       "name": "All the Things You'd Ruin",
       "url": "https://open.spotify.com/track/6vK9lXoSYSSeorpAtpXMPW"
+    },
+    {
+      "album": {
+        "name": "All The Time",
+        "url": "https://open.spotify.com/album/4vOAXgADY2UDmrX7o3Qa2E"
+      },
+      "artists": [
+        {
+          "name": "Natalie Shay",
+          "url": "https://open.spotify.com/artist/6pDapjUwN36LXMdYk0WKuQ"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178021,
+      "name": "All The Time",
+      "url": "https://open.spotify.com/track/15kh7Rja9cOZZ2yI5bZlvX"
     },
     {
       "album": {
@@ -16484,6 +16520,24 @@
     },
     {
       "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/55wZS60svlwUEN4t1yxaz7"
+      },
+      "artists": [
+        {
+          "name": "Jess Meilman",
+          "url": "https://open.spotify.com/artist/1kmlGybezNBp0fGM8PNBw9"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164467,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/6WUjd7Rs52cnRFC8k4ERBs"
+    },
+    {
+      "album": {
         "name": "Eulogy",
         "url": "https://open.spotify.com/album/00jDeAf7t2dmbMKtxEniMA"
       },
@@ -20987,7 +21041,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 167760,
       "name": "Glad You Hate Me",
       "url": "https://open.spotify.com/track/4ddCcM5A7G0p8dxs7mWo0k"
@@ -22193,7 +22247,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 150000,
       "name": "Gum",
       "url": "https://open.spotify.com/track/51BFG5O2CPUNxE9WIXoZcv"
@@ -25167,7 +25221,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 211283,
       "name": "Hot Mess",
       "url": "https://open.spotify.com/track/5tewOYXM6gHZ1Lux0JkIjm"
@@ -26311,6 +26365,24 @@
       "duration_ms": 162650,
       "name": "i don't mind winter coming",
       "url": "https://open.spotify.com/track/0oE2VxwMlovqGKTGyBnb2R"
+    },
+    {
+      "album": {
+        "name": "I Don't Miss You",
+        "url": "https://open.spotify.com/album/3kpMwx0xTK3gpjoqW8MGWS"
+      },
+      "artists": [
+        {
+          "name": "Sophia Fracassi",
+          "url": "https://open.spotify.com/artist/7MPa3OSyGyLNq9CedDr2LT"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157680,
+      "name": "I Don't Miss You",
+      "url": "https://open.spotify.com/track/24infhEthjRFtRysglZ1vj"
     },
     {
       "album": {
@@ -31116,6 +31188,28 @@
     },
     {
       "album": {
+        "name": "Leave Tonight",
+        "url": "https://open.spotify.com/album/1IYBvgDWiy04zCbJXvUyoJ"
+      },
+      "artists": [
+        {
+          "name": "Niah Steiner",
+          "url": "https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7"
+        },
+        {
+          "name": "AcjnN",
+          "url": "https://open.spotify.com/artist/1tzPTUM1XKUck2s6TUh2o1"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153495,
+      "name": "Leave Tonight",
+      "url": "https://open.spotify.com/track/00CxTPBETcBko91D5mkIDh"
+    },
+    {
+      "album": {
         "name": "leaves blow over",
         "url": "https://open.spotify.com/album/724NKGehK9Aqk77HwAgQeo"
       },
@@ -32087,7 +32181,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 169021,
       "name": "Like You Boy",
       "url": "https://open.spotify.com/track/6cHV4imunCJXCd3iT40Tm5"
@@ -41950,6 +42044,24 @@
     },
     {
       "album": {
+        "name": "Passenger Seat",
+        "url": "https://open.spotify.com/album/3NFGSk4DZw8ne96ApAJyqY"
+      },
+      "artists": [
+        {
+          "name": "Aim\u00e9e",
+          "url": "https://open.spotify.com/artist/6kiGJNxa3SvcQWfCrqL1sb"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224132,
+      "name": "Passenger Seat",
+      "url": "https://open.spotify.com/track/1d0fuygCq7natWK8kelMoY"
+    },
+    {
+      "album": {
         "name": "Pastlife",
         "url": "https://open.spotify.com/album/74gjQ95NQgvW8i4hNkjVRd"
       },
@@ -46517,7 +46629,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 174750,
       "name": "Safe & Sound",
       "url": "https://open.spotify.com/track/1DRYQw4p4ZFWAqeR0zUfqA"
@@ -55713,7 +55825,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 177465,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/5KReVU2epbujmOdT3pjVE9"
@@ -57535,6 +57647,24 @@
       "duration_ms": 151868,
       "name": "Understatement",
       "url": "https://open.spotify.com/track/57jENaZ0ZEqxIRwEDCm63R"
+    },
+    {
+      "album": {
+        "name": "Underwater Bubble Pop",
+        "url": "https://open.spotify.com/album/3wpZjWD9ILPNPyaN2A4gKK"
+      },
+      "artists": [
+        {
+          "name": "Lagoona Bloo",
+          "url": "https://open.spotify.com/artist/3XoIXXjhnjGVs1SqBsMrjp"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160907,
+      "name": "Underwater Bubble Pop",
+      "url": "https://open.spotify.com/track/69K7bXXTJA9RsoixlNEaky"
     },
     {
       "album": {

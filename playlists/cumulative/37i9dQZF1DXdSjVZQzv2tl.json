@@ -1060,7 +1060,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 143372,
       "name": "Desandei - Ao Vivo",
       "url": "https://open.spotify.com/track/6dtQM0CXRFJgD7ifUNosZj"
@@ -3550,6 +3550,28 @@
       "duration_ms": 170106,
       "name": "Se Ele Soubesse - Ao Vivo Em Goi\u00e2nia",
       "url": "https://open.spotify.com/track/2zDwJnP9n9yCUyfiLIwkDM"
+    },
+    {
+      "album": {
+        "name": "Se Eu Beber Uma Lata (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1jUSw7tkrI7ntaeqEHdjIx"
+      },
+      "artists": [
+        {
+          "name": "Pedro Paulo & Alex",
+          "url": "https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN"
+        },
+        {
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144670,
+      "name": "Se Eu Beber Uma Lata - Ao Vivo",
+      "url": "https://open.spotify.com/track/4OOoK6nkSn6OSVWBdrEKB0"
     },
     {
       "album": {

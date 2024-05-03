@@ -1,6 +1,6 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: CHANHYUN(\ucc2c\ud604)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
-  "num_followers": 214331,
+  "num_followers": 214355,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -683,30 +683,6 @@
     {
       "added_at": "2024-04-30 05:17:41",
       "album": {
-        "name": "TOTO",
-        "url": "https://open.spotify.com/album/6uSzRAcTm7VIF9kXmEW1YK"
-      },
-      "artists": [
-        {
-          "name": "TOIL",
-          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
-        },
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        }
-      ],
-      "duration_ms": 173386,
-      "name": "I Wish (Feat. Leellamarz, B.I)",
-      "url": "https://open.spotify.com/track/3nh8M3jWQr1DHfZ5RhTlic"
-    },
-    {
-      "added_at": "2024-04-30 05:17:41",
-      "album": {
         "name": "Garden",
         "url": "https://open.spotify.com/album/19HqbZL9Y69UssY9DDyBXR"
       },
@@ -743,6 +719,30 @@
       "duration_ms": 219093,
       "name": "Lovey Dovey (Feat. meenoi)",
       "url": "https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6"
+    },
+    {
+      "added_at": "2024-04-30 05:17:41",
+      "album": {
+        "name": "TOTO",
+        "url": "https://open.spotify.com/album/6uSzRAcTm7VIF9kXmEW1YK"
+      },
+      "artists": [
+        {
+          "name": "TOIL",
+          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
+        },
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        }
+      ],
+      "duration_ms": 173386,
+      "name": "I Wish (Feat. Leellamarz, B.I)",
+      "url": "https://open.spotify.com/track/3nh8M3jWQr1DHfZ5RhTlic"
     },
     {
       "added_at": "2024-04-30 05:17:41",
@@ -863,26 +863,6 @@
     {
       "added_at": "2024-04-30 05:17:41",
       "album": {
-        "name": "Fragile",
-        "url": "https://open.spotify.com/album/0sb0tegIC42FpaodGVDVNe"
-      },
-      "artists": [
-        {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
-        },
-        {
-          "name": "\ucfe0\uae30 (Coogie)",
-          "url": "https://open.spotify.com/artist/5Wz7bYvDiqOfcQnE66pGBB"
-        }
-      ],
-      "duration_ms": 168640,
-      "name": "Shawty (feat. Coogie)",
-      "url": "https://open.spotify.com/track/020gy3mTtwOCI4MHkZXlBe"
-    },
-    {
-      "added_at": "2024-04-30 05:17:41",
-      "album": {
         "name": "Between Sat & Sun",
         "url": "https://open.spotify.com/album/6YcwCU0b6fXZ003KIU8Jio"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 235893,
       "name": "Black Heart (feat. Leellamarz, BE'O)",
       "url": "https://open.spotify.com/track/2odm919sRfQIhH2na8YSKK"
+    },
+    {
+      "added_at": "2024-04-30 05:17:41",
+      "album": {
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/0sb0tegIC42FpaodGVDVNe"
+      },
+      "artists": [
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        },
+        {
+          "name": "\ucfe0\uae30 (Coogie)",
+          "url": "https://open.spotify.com/artist/5Wz7bYvDiqOfcQnE66pGBB"
+        }
+      ],
+      "duration_ms": 168640,
+      "name": "Shawty (feat. Coogie)",
+      "url": "https://open.spotify.com/track/020gy3mTtwOCI4MHkZXlBe"
     },
     {
       "added_at": "2024-04-30 05:17:41",
@@ -999,6 +999,30 @@
     {
       "added_at": "2024-04-30 05:17:41",
       "album": {
+        "name": "Show Me The Money 9 Episode 3",
+        "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
+      },
+      "artists": [
+        {
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+        },
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 276152,
+      "name": "Tomorrow (Feat. GIRIBOY, BIG Naughty)",
+      "url": "https://open.spotify.com/track/7K31QxS2DmTBxdYldd8yqf"
+    },
+    {
+      "added_at": "2024-04-30 05:17:41",
+      "album": {
         "name": "BM 3rd Digital Single 'LOWKEY'",
         "url": "https://open.spotify.com/album/72WefbbOeBJl4rsDAh2ZAe"
       },
@@ -1055,30 +1079,6 @@
     {
       "added_at": "2024-04-30 05:17:41",
       "album": {
-        "name": "Show Me The Money 9 Episode 3",
-        "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
-      },
-      "artists": [
-        {
-          "name": "lIlBOI",
-          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
-        },
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 276152,
-      "name": "Tomorrow (Feat. GIRIBOY, BIG Naughty)",
-      "url": "https://open.spotify.com/track/7K31QxS2DmTBxdYldd8yqf"
-    },
-    {
-      "added_at": "2024-04-30 05:17:41",
-      "album": {
         "name": "COCO BOTTLE",
         "url": "https://open.spotify.com/album/18T01XcLc1WzIZ3bCzwOsg"
       },
@@ -1111,6 +1111,38 @@
     {
       "added_at": "2024-04-30 05:17:41",
       "album": {
+        "name": "Pressure Makes Diamonds",
+        "url": "https://open.spotify.com/album/0eT8WtiDIRVOzHuYWVpEnc"
+      },
+      "artists": [
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        }
+      ],
+      "duration_ms": 137413,
+      "name": "Six Weeks",
+      "url": "https://open.spotify.com/track/12F3kZjxE4LT6XjOvrzbqO"
+    },
+    {
+      "added_at": "2024-04-30 05:17:41",
+      "album": {
+        "name": "VIOLINIST2",
+        "url": "https://open.spotify.com/album/05cEu4COQP7cF3Otz7aDBT"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        }
+      ],
+      "duration_ms": 206680,
+      "name": "OUT OF MY SIGHT",
+      "url": "https://open.spotify.com/track/0hUH6MXHQn9coBKHMXWpD8"
+    },
+    {
+      "added_at": "2024-04-30 05:17:41",
+      "album": {
         "name": "ISLAND",
         "url": "https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO"
       },
@@ -1131,58 +1163,22 @@
     {
       "added_at": "2024-04-30 05:17:41",
       "album": {
-        "name": "Pressure Makes Diamonds",
-        "url": "https://open.spotify.com/album/0eT8WtiDIRVOzHuYWVpEnc"
+        "name": "FRIENDS",
+        "url": "https://open.spotify.com/album/15qT5zhGXLx7Oz725k8aZV"
       },
       "artists": [
         {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
-        }
-      ],
-      "duration_ms": 137413,
-      "name": "Six Weeks",
-      "url": "https://open.spotify.com/track/12F3kZjxE4LT6XjOvrzbqO"
-    },
-    {
-      "added_at": "2024-04-30 05:17:41",
-      "album": {
-        "name": "TOTO",
-        "url": "https://open.spotify.com/album/6uSzRAcTm7VIF9kXmEW1YK"
-      },
-      "artists": [
-        {
-          "name": "TOIL",
-          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
         },
         {
-          "name": "h3hyeon",
-          "url": "https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz"
-        },
-        {
-          "name": "BE'O",
-          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
         }
       ],
-      "duration_ms": 153173,
-      "name": "On The Rocks (Feat. h3hyeon, BE\u2032O)",
-      "url": "https://open.spotify.com/track/0jIU2p3kJTeLa2figH0KBj"
-    },
-    {
-      "added_at": "2024-04-30 05:17:41",
-      "album": {
-        "name": "VIOLINIST2",
-        "url": "https://open.spotify.com/album/05cEu4COQP7cF3Otz7aDBT"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        }
-      ],
-      "duration_ms": 206680,
-      "name": "OUT OF MY SIGHT",
-      "url": "https://open.spotify.com/track/0hUH6MXHQn9coBKHMXWpD8"
+      "duration_ms": 190690,
+      "name": "FRIENDS",
+      "url": "https://open.spotify.com/track/1Y8tCOCqwav6RBvfNjYphx"
     },
     {
       "added_at": "2024-04-30 05:17:41",
@@ -1247,22 +1243,26 @@
     {
       "added_at": "2024-04-30 05:17:41",
       "album": {
-        "name": "FRIENDS",
-        "url": "https://open.spotify.com/album/15qT5zhGXLx7Oz725k8aZV"
+        "name": "TOTO",
+        "url": "https://open.spotify.com/album/6uSzRAcTm7VIF9kXmEW1YK"
       },
       "artists": [
         {
-          "name": "lIlBOI",
-          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+          "name": "TOIL",
+          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
         },
         {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+          "name": "h3hyeon",
+          "url": "https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz"
+        },
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
         }
       ],
-      "duration_ms": 190690,
-      "name": "FRIENDS",
-      "url": "https://open.spotify.com/track/1Y8tCOCqwav6RBvfNjYphx"
+      "duration_ms": 153173,
+      "name": "On The Rocks (Feat. h3hyeon, BE\u2032O)",
+      "url": "https://open.spotify.com/track/0jIU2p3kJTeLa2figH0KBj"
     },
     {
       "added_at": "2024-04-30 05:17:41",
@@ -1327,30 +1327,6 @@
     {
       "added_at": "2024-04-30 05:17:41",
       "album": {
-        "name": "TOTO",
-        "url": "https://open.spotify.com/album/6uSzRAcTm7VIF9kXmEW1YK"
-      },
-      "artists": [
-        {
-          "name": "TOIL",
-          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
-        },
-        {
-          "name": "Skinny Brown",
-          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
-        },
-        {
-          "name": "CHANGMO",
-          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
-        }
-      ],
-      "duration_ms": 173373,
-      "name": "I Don\u2032t Care (Feat. Skinny Brown, CHANGMO)",
-      "url": "https://open.spotify.com/track/0nqgT7ndih2023zjYTFe39"
-    },
-    {
-      "added_at": "2024-04-30 05:17:41",
-      "album": {
         "name": "Epik High Is Here \u4e0b (Part 2)",
         "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
       },
@@ -1407,6 +1383,30 @@
       "duration_ms": 189157,
       "name": "HATE ME (feat. youra) (prod. WOOGIE)",
       "url": "https://open.spotify.com/track/5L2dd0GWhy2rXeGp0g5pnT"
+    },
+    {
+      "added_at": "2024-04-30 05:17:41",
+      "album": {
+        "name": "TOTO",
+        "url": "https://open.spotify.com/album/6uSzRAcTm7VIF9kXmEW1YK"
+      },
+      "artists": [
+        {
+          "name": "TOIL",
+          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
+        },
+        {
+          "name": "Skinny Brown",
+          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
+        },
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        }
+      ],
+      "duration_ms": 173373,
+      "name": "I Don\u2032t Care (Feat. Skinny Brown, CHANGMO)",
+      "url": "https://open.spotify.com/track/0nqgT7ndih2023zjYTFe39"
     },
     {
       "added_at": "2024-04-30 05:17:41",
@@ -1487,6 +1487,26 @@
     {
       "added_at": "2024-04-30 05:17:41",
       "album": {
+        "name": "Epik High Is Here \u4e0b (Part 2)",
+        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 217773,
+      "name": "Rich Kids Anthem (Feat. Lee Hi)",
+      "url": "https://open.spotify.com/track/4nF3APHarLJHV3igGVgTUJ"
+    },
+    {
+      "added_at": "2024-04-30 05:17:41",
+      "album": {
         "name": "NANGMAN",
         "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
       },
@@ -1519,46 +1539,6 @@
       "duration_ms": 154173,
       "name": "Make Love (Feat. Zion.T)",
       "url": "https://open.spotify.com/track/36eQx4sQik7l18vOUoJemG"
-    },
-    {
-      "added_at": "2024-04-30 05:17:41",
-      "album": {
-        "name": "Epik High Is Here \u4e0b (Part 2)",
-        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
-      },
-      "artists": [
-        {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        },
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 217773,
-      "name": "Rich Kids Anthem (Feat. Lee Hi)",
-      "url": "https://open.spotify.com/track/4nF3APHarLJHV3igGVgTUJ"
-    },
-    {
-      "added_at": "2024-04-30 05:17:41",
-      "album": {
-        "name": "JAMI (feat. THAMA)",
-        "url": "https://open.spotify.com/album/24Mz6ldfMoP8TAnVcJ7D4k"
-      },
-      "artists": [
-        {
-          "name": "Otis Lim",
-          "url": "https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3"
-        },
-        {
-          "name": "THAMA",
-          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
-        }
-      ],
-      "duration_ms": 184277,
-      "name": "JAMI (feat. THAMA)",
-      "url": "https://open.spotify.com/track/1ScFrFA0uUsy9rTuSSsGNr"
     },
     {
       "added_at": "2024-04-30 05:17:41",
@@ -1619,6 +1599,26 @@
       "duration_ms": 196333,
       "name": "Because",
       "url": "https://open.spotify.com/track/08xMOoUaMWWlNStVUdBTBC"
+    },
+    {
+      "added_at": "2024-04-30 05:17:41",
+      "album": {
+        "name": "JAMI (feat. THAMA)",
+        "url": "https://open.spotify.com/album/24Mz6ldfMoP8TAnVcJ7D4k"
+      },
+      "artists": [
+        {
+          "name": "Otis Lim",
+          "url": "https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3"
+        },
+        {
+          "name": "THAMA",
+          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
+        }
+      ],
+      "duration_ms": 184277,
+      "name": "JAMI (feat. THAMA)",
+      "url": "https://open.spotify.com/track/1ScFrFA0uUsy9rTuSSsGNr"
     },
     {
       "added_at": "2024-04-30 05:17:41",
@@ -1791,6 +1791,26 @@
     {
       "added_at": "2024-04-30 05:17:41",
       "album": {
+        "name": "ISLAND",
+        "url": "https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO"
+      },
+      "artists": [
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        },
+        {
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+        }
+      ],
+      "duration_ms": 195459,
+      "name": "One More Night (Feat. lIlBOI)",
+      "url": "https://open.spotify.com/track/1kZwWtijucTV6LRUrGn51f"
+    },
+    {
+      "added_at": "2024-04-30 05:17:41",
+      "album": {
         "name": "Berry Loves My Mood",
         "url": "https://open.spotify.com/album/53pwI1jsG0ZYrVEa40sRws"
       },
@@ -1811,26 +1831,6 @@
       "duration_ms": 210641,
       "name": "Misfits (Feat. MELOH, Kid Wine)",
       "url": "https://open.spotify.com/track/6W8HwARrdbtCNU8lupQD3J"
-    },
-    {
-      "added_at": "2024-04-30 05:17:41",
-      "album": {
-        "name": "ISLAND",
-        "url": "https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO"
-      },
-      "artists": [
-        {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
-        },
-        {
-          "name": "lIlBOI",
-          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
-        }
-      ],
-      "duration_ms": 195459,
-      "name": "One More Night (Feat. lIlBOI)",
-      "url": "https://open.spotify.com/track/1kZwWtijucTV6LRUrGn51f"
     },
     {
       "added_at": "2024-04-30 05:17:41",
@@ -1983,22 +1983,26 @@
     {
       "added_at": "2024-04-30 05:17:41",
       "album": {
-        "name": "Life is Once",
-        "url": "https://open.spotify.com/album/0P9J5KQksLJqjdwBlqVUP6"
+        "name": "SHOW ME THE MONEY 11 Episode 3",
+        "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
       },
       "artists": [
         {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+          "name": "DON MALIK",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
         },
         {
-          "name": "CHANGMO",
-          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "JUSTHIS",
+          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
         }
       ],
-      "duration_ms": 202653,
-      "name": "B**ch (Feat. CHANGMO)",
-      "url": "https://open.spotify.com/track/2ueLsqwiIflzdH8STALWRV"
+      "duration_ms": 234839,
+      "name": "EYE (Feat. BIG Naughty, JUSTHIS) (Prod. R.Tee)",
+      "url": "https://open.spotify.com/track/20JkEhlKCrKtzORT5qDdWE"
     }
   ],
   "unique_name": "TrenChill K-Hip Hop",

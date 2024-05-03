@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Tous vos Hits Disney pr\u00e9f\u00e9r\u00e9s, y compris les chansons de \"Wish: Asha et la bonne \u00e9toile\".",
+  "description": "Chantez sur tous vos titres Disney pr\u00e9f\u00e9r\u00e9s tels que La Reine des neiges, Encanto: la fantastique famille Madrigal, Wish: Asha et la bonne \u00e9toile, Vaiana: la l\u00e9gende du bout du monde, Tarzan, Aladdin, \u00c9l\u00e9mentaire, Mulan, Le Roi lion et bien d'autres encore!",
   "name": "Disney Hits France",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 242956,
       "name": "A Whole New World (End Title)",
       "url": "https://open.spotify.com/track/4U9CF27YlwHRtUGKUzhUTT"
@@ -46,6 +46,24 @@
       "duration_ms": 177322,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/1v6svH1Fyx9C1nIt1mA2DT"
+    },
+    {
+      "album": {
+        "name": "The Princess and the Frog (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0CcL28OkH89kjgKpNZC8sW"
+      },
+      "artists": [
+        {
+          "name": "Anika Noni Rose",
+          "url": "https://open.spotify.com/artist/4fqk0Vw0VrIY8O2eWtmQO2"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144426,
+      "name": "Almost There",
+      "url": "https://open.spotify.com/track/2GLyruWagsv8o7aGNXboH1"
     },
     {
       "album": {
@@ -85,6 +103,28 @@
     },
     {
       "album": {
+        "name": "Wish: Asha et la bonne \u00e9toile (Bande Originale Fran\u00e7aise du Film/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5Jh6GjWGi7OS3nWb7x8Rmb"
+      },
+      "artists": [
+        {
+          "name": "Oc\u00e9ane Demontis",
+          "url": "https://open.spotify.com/artist/5hq8TtVzFt7DOL4j5zWrHs"
+        },
+        {
+          "name": "Wish - Cast",
+          "url": "https://open.spotify.com/artist/5OLl3QAQOcnab5ofRR05jM"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147946,
+      "name": "Bienvenue \u00e0 Rosas",
+      "url": "https://open.spotify.com/track/0CwGlaXuoqz1fgYJfr67sR"
+    },
+    {
+      "album": {
         "name": "La Belle et La B\u00eate (Bande Originale Fran\u00e7aise du Film)",
         "url": "https://open.spotify.com/album/7lL7qRxy4DCYBSdF9bqvzI"
       },
@@ -108,7 +148,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 288760,
       "name": "C'est la F\u00eate",
       "url": "https://open.spotify.com/track/0032NxFAEmW9e1mF9cyJ7y"
@@ -126,7 +166,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 127413,
       "name": "Call me Cruella",
       "url": "https://open.spotify.com/track/7lGfhlbpUkI1DOE51Vb2Mt"
@@ -164,6 +204,32 @@
       "duration_ms": 177786,
       "name": "Can You Feel the Love Tonight",
       "url": "https://open.spotify.com/track/5E8yddtSG3sH4hw2SfwcgW"
+    },
+    {
+      "album": {
+        "name": "Wish: Asha et la bonne \u00e9toile (Bande Originale Fran\u00e7aise du Film/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5Jh6GjWGi7OS3nWb7x8Rmb"
+      },
+      "artists": [
+        {
+          "name": "Oc\u00e9ane Demontis",
+          "url": "https://open.spotify.com/artist/5hq8TtVzFt7DOL4j5zWrHs"
+        },
+        {
+          "name": "Isabelle Adjani",
+          "url": "https://open.spotify.com/artist/5MuxhSyL8BYuuWHeKmWSEx"
+        },
+        {
+          "name": "Wish - Cast",
+          "url": "https://open.spotify.com/artist/5OLl3QAQOcnab5ofRR05jM"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200586,
+      "name": "Ce n'est plus mon roi",
+      "url": "https://open.spotify.com/track/3SC2eQEmBS9ncxTPazieXK"
     },
     {
       "album": {
@@ -289,6 +355,28 @@
     },
     {
       "album": {
+        "name": "The Princess and the Frog (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0CcL28OkH89kjgKpNZC8sW"
+      },
+      "artists": [
+        {
+          "name": "Jenifer Lewis",
+          "url": "https://open.spotify.com/artist/6e28WiPlKSu1ukkhHCZEnF"
+        },
+        {
+          "name": "The Pinnacle Gospel Choir",
+          "url": "https://open.spotify.com/artist/4R1dpQ2VCZsEutiXZKeIzk"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167933,
+      "name": "Dig a Little Deeper",
+      "url": "https://open.spotify.com/track/7kh64k3P9Fk4EsA6vOdwmj"
+    },
+    {
+      "album": {
         "name": "Encanto: La fantastique famille Madrigal (Bande Originale Fran\u00e7aise du Film)",
         "url": "https://open.spotify.com/album/5ZwcQ8o0pOW31M28QAJai8"
       },
@@ -356,7 +444,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 107752,
       "name": "Even When/The Best Part - From \"High School Musical: The Musical: The Series (Season 2)\"",
       "url": "https://open.spotify.com/track/4lz6AGwkiXEQy5FIbYf84f"
@@ -558,10 +646,32 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 241386,
       "name": "I2I",
       "url": "https://open.spotify.com/track/7lPxGs556PD8H3bUd9LzHp"
+    },
+    {
+      "album": {
+        "name": "Descendants (Original TV Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/6notdj85QIGeqR1zKqT3Oh"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229813,
+      "name": "If Only",
+      "url": "https://open.spotify.com/track/1mRBJdpIgc3jZH8C3cN2WV"
     },
     {
       "album": {
@@ -616,7 +726,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 201342,
       "name": "In This Place",
       "url": "https://open.spotify.com/track/2cOE7d35PyfAh9M7DglPk0"
@@ -660,7 +770,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 169306,
       "name": "It's All Right - From \"Soul\"/Duet Version",
       "url": "https://open.spotify.com/track/5aEJj3gYSSp82NUy2yaIpe"
@@ -678,10 +788,28 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 177573,
       "name": "J'en ai r\u00eav\u00e9",
       "url": "https://open.spotify.com/track/75yUhJ5RQVY3NrWarzaoB9"
+    },
+    {
+      "album": {
+        "name": "Cerise chante Disney",
+        "url": "https://open.spotify.com/album/4FnIWttm1PSxROpp2daoLs"
+      },
+      "artists": [
+        {
+          "name": "Cerise Calixte",
+          "url": "https://open.spotify.com/artist/67cye4zHhIJs2LVGpsbmTP"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140826,
+      "name": "Jamais je n'avouerai - Extrait de \"Hercule\"",
+      "url": "https://open.spotify.com/track/2cmRsi0TYFfmBR7MlJ6C0L"
     },
     {
       "album": {
@@ -779,6 +907,24 @@
     },
     {
       "album": {
+        "name": "Aladdin (Bande Originale Fran\u00e7aise du Film)",
+        "url": "https://open.spotify.com/album/0aXJTAUDB8LCa6xx6yjerB"
+      },
+      "artists": [
+        {
+          "name": "Richard Darbois",
+          "url": "https://open.spotify.com/artist/2yKV4NC2QGvQEPdSAkVfkY"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147120,
+      "name": "Je suis ton meilleur ami",
+      "url": "https://open.spotify.com/track/4HPGEIll5M2eZVnEpqPkvL"
+    },
+    {
+      "album": {
         "name": "La Reine des Neiges 2 (Bande Originale Fran\u00e7aise du Film/Deluxe Edition)",
         "url": "https://open.spotify.com/album/4TjH6kPf6mpsrvVALdPFwT"
       },
@@ -798,6 +944,46 @@
       "duration_ms": 261026,
       "name": "Je te cherche",
       "url": "https://open.spotify.com/track/61UKFFulJ7bwozNc9YC9Mv"
+    },
+    {
+      "album": {
+        "name": "Raiponce",
+        "url": "https://open.spotify.com/album/4DnfniyyQUthE8K0BM3Pr4"
+      },
+      "artists": [
+        {
+          "name": "Ma\u00e9va M\u00e9line",
+          "url": "https://open.spotify.com/artist/6TPwj6mbraHlQOP5ZY1Uq6"
+        },
+        {
+          "name": "Emmanuel Dahl",
+          "url": "https://open.spotify.com/artist/0vGu3b54k5nbqjKyAr8QGE"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224026,
+      "name": "Je veux y croire - De \"Raiponce\"/Bande Originale Fran\u00e7aise du Film",
+      "url": "https://open.spotify.com/track/15zRawiHuShnHIJIEwPLXi"
+    },
+    {
+      "album": {
+        "name": "Raiponce",
+        "url": "https://open.spotify.com/album/4DnfniyyQUthE8K0BM3Pr4"
+      },
+      "artists": [
+        {
+          "name": "Sa-Ra",
+          "url": "https://open.spotify.com/artist/4CqnJRAAZRmR0YCv47wIKU"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163266,
+      "name": "Je voudrais",
+      "url": "https://open.spotify.com/track/1H4mV921qT4S5hek4zxKp5"
     },
     {
       "album": {
@@ -950,7 +1136,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 142320,
       "name": "L'explorateur",
       "url": "https://open.spotify.com/track/25HnNzqftrRCdDTkG44o6p"
@@ -972,7 +1158,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 142320,
       "name": "L'explorateur - De \"Vaiana - La L\u00e9gende du Bout du Monde\"",
       "url": "https://open.spotify.com/track/3PtksjFaELc5vi6BAiSrcO"
@@ -1081,6 +1267,28 @@
     },
     {
       "album": {
+        "name": "La Reine des Neiges (Bande Originale Fran\u00e7aise du Film / Edition Deluxe)",
+        "url": "https://open.spotify.com/album/4pSRa5AfIj6QhNKEBFhGmA"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Homs",
+          "url": "https://open.spotify.com/artist/23F7OWAypXryFVHyN0DJys"
+        },
+        {
+          "name": "Ana\u00efs Delva",
+          "url": "https://open.spotify.com/artist/2Bgww7ckP3Xo1L7hsAGPUN"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224533,
+      "name": "Le Renouveau - De \"La Reine des Neiges\"/Bande Originale Fran\u00e7aise",
+      "url": "https://open.spotify.com/track/6JeYEihWIUMPtvjIOVZkml"
+    },
+    {
+      "album": {
         "name": "Raya and the Last Dragon (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3JqX5g07TbeiF0NEK7eYl0"
       },
@@ -1172,6 +1380,46 @@
       "duration_ms": 124600,
       "name": "L\u2019Amour Est un Cadeau",
       "url": "https://open.spotify.com/track/1wxAtzGl4qZiJQjXmenEp1"
+    },
+    {
+      "album": {
+        "name": "Wish: Asha et la bonne \u00e9toile (Bande Originale Fran\u00e7aise du Film/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5Jh6GjWGi7OS3nWb7x8Rmb"
+      },
+      "artists": [
+        {
+          "name": "Lambert Wilson",
+          "url": "https://open.spotify.com/artist/1oolJ3Y3tlf3Qxky7dGl2I"
+        },
+        {
+          "name": "Oc\u00e9ane Demontis",
+          "url": "https://open.spotify.com/artist/5hq8TtVzFt7DOL4j5zWrHs"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198920,
+      "name": "Ma promesse",
+      "url": "https://open.spotify.com/track/3ZTfhjrWVz8MmQZNXXLf8z"
+    },
+    {
+      "album": {
+        "name": "Wish: Asha et la bonne \u00e9toile (Bande Originale Fran\u00e7aise du Film/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5Jh6GjWGi7OS3nWb7x8Rmb"
+      },
+      "artists": [
+        {
+          "name": "Lambert Wilson",
+          "url": "https://open.spotify.com/artist/1oolJ3Y3tlf3Qxky7dGl2I"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194160,
+      "name": "Ma r\u00e9compense",
+      "url": "https://open.spotify.com/track/7Av31tEE05SoashZTiRS8n"
     },
     {
       "album": {
@@ -1320,7 +1568,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 267504,
       "name": "Nothing Is Lost (You Give Me Strength)",
       "url": "https://open.spotify.com/track/1DzJbVkBELu6jDu6q0T0tk"
@@ -1376,7 +1624,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 287973,
       "name": "O\u00f9 Ais-je Mis Cette Chose?/Chanson Magique",
       "url": "https://open.spotify.com/track/1uuem0lLhMYyMFJvrEi6bO"
@@ -1455,6 +1703,24 @@
     },
     {
       "album": {
+        "name": "La Petite Sir\u00e8ne (Bande originale fran\u00e7aise du Film)",
+        "url": "https://open.spotify.com/album/5r4QvoXhTwP0ptdYBPbJ1m"
+      },
+      "artists": [
+        {
+          "name": "Claire Guyot",
+          "url": "https://open.spotify.com/artist/09YYa9yZaIn3rT2ZTdi3Mo"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193960,
+      "name": "Partir l\u00e0-bas - De \"La Petite Sir\u00e8ne\"/Bande Originale Fran\u00e7aise du Film",
+      "url": "https://open.spotify.com/track/2egCuBHjxt1JSWEh2MExPD"
+    },
+    {
+      "album": {
         "name": "La Petite Sir\u00e8ne (Bande Originale Fran\u00e7aise du Film)",
         "url": "https://open.spotify.com/album/1vPCuZgANIeMLK5RZdxifT"
       },
@@ -1466,7 +1732,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 282013,
       "name": "Pauvres \u00e2mes en perdition",
       "url": "https://open.spotify.com/track/6x9Q6pwY8WEV9jB0YTDlth"
@@ -1502,7 +1768,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 165280,
       "name": "Pour les hommes",
       "url": "https://open.spotify.com/track/2prGqIMiwCf8nR6JLoZIoB"
@@ -1520,7 +1786,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 165280,
       "name": "Pour les hommes - De \"Vaiana - La L\u00e9gende du Bout du Monde\"",
       "url": "https://open.spotify.com/track/3EzQ2w7MiG5VELHpOYo4W1"
@@ -1556,7 +1822,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 123703,
       "name": "Proud Coraz\u00f3n",
       "url": "https://open.spotify.com/track/4J7SCXbz18duODAQYjtzI2"
@@ -1585,6 +1851,28 @@
     },
     {
       "album": {
+        "name": "Encanto: La fantastique famille Madrigal (Bande Originale Fran\u00e7aise du Film)",
+        "url": "https://open.spotify.com/album/5ZwcQ8o0pOW31M28QAJai8"
+      },
+      "artists": [
+        {
+          "name": "Kaycie Chase",
+          "url": "https://open.spotify.com/artist/1kwgiO6NJzSzbCCjaRnfOp"
+        },
+        {
+          "name": "Camille Timmerman",
+          "url": "https://open.spotify.com/artist/47525Du6kUmhbnZXGGkM9V"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179443,
+      "name": "Que sais-je faire d'autre?",
+      "url": "https://open.spotify.com/track/2KBQe6bDkixnyLu3MA0z2d"
+    },
+    {
+      "album": {
         "name": "Cendrillon (Bande Originale Fran\u00e7aise du Film)",
         "url": "https://open.spotify.com/album/2jJEY0LjD4Pj9qp25ncN3d"
       },
@@ -1596,7 +1884,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 344960,
       "name": "Reception Au Palais/Bonjour L\u2019amour",
       "url": "https://open.spotify.com/track/0M05jNzoUmRRmD5nw7zLZI"
@@ -1632,7 +1920,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 185466,
       "name": "Shiny",
       "url": "https://open.spotify.com/track/1IZwCzAmaFmmdJj0cmhaax"
@@ -1650,7 +1938,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 207866,
       "name": "Sifflez en travaillant - De \"Blanche Neige et les Septs Nains\"/Bande Originale Fran\u00e7aise du Film",
       "url": "https://open.spotify.com/track/4Vaf5IFY6K71FK7bkWbD74"
@@ -1675,6 +1963,24 @@
     },
     {
       "album": {
+        "name": "Tarzan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1zszC1x9HYKxUCKVa62p7C"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163533,
+      "name": "Son of Man",
+      "url": "https://open.spotify.com/track/1LhFadk0aWYczltTjIbFlI"
+    },
+    {
+      "album": {
         "name": "La Petite Sir\u00e8ne (Bande originale fran\u00e7aise du Film)",
         "url": "https://open.spotify.com/album/5r4QvoXhTwP0ptdYBPbJ1m"
       },
@@ -1690,6 +1996,50 @@
       "duration_ms": 194293,
       "name": "Sous l'oc\u00e9an - De \"La Petite Sir\u00e8ne\"/Bande Originale Fran\u00e7aise du Film",
       "url": "https://open.spotify.com/track/3vkDL2UEbdUqvcFbKI2Ono"
+    },
+    {
+      "album": {
+        "name": "Encanto: La fantastique famille Madrigal (Bande Originale Fran\u00e7aise du Film)",
+        "url": "https://open.spotify.com/album/5ZwcQ8o0pOW31M28QAJai8"
+      },
+      "artists": [
+        {
+          "name": "Ana Ka",
+          "url": "https://open.spotify.com/artist/1amw8WDD1y1EYplXVX4M6b"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202226,
+      "name": "Sous les apparences",
+      "url": "https://open.spotify.com/track/3GZTxNYUu7PpXv47oCMa4G"
+    },
+    {
+      "album": {
+        "name": "The Lion King: Special Edition Original Soundtrack (French Version)",
+        "url": "https://open.spotify.com/album/2MO7y7tTFoEtDPI7sdf2vK"
+      },
+      "artists": [
+        {
+          "name": "Jean Piat",
+          "url": "https://open.spotify.com/artist/1aqvqpZqki9B5L4AhAuLFZ"
+        },
+        {
+          "name": "Marie-Christine Darah",
+          "url": "https://open.spotify.com/artist/13ewJgYtG8KBBzfCwU0LH7"
+        },
+        {
+          "name": "Michel Mella",
+          "url": "https://open.spotify.com/artist/35fkmjrcGuYbA7sKavl0Kr"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219946,
+      "name": "Soyez Pr\u00eates",
+      "url": "https://open.spotify.com/track/0SaLO4BBaUdf4URMOrGeG6"
     },
     {
       "album": {
@@ -1722,7 +2072,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 204173,
       "name": "Starting Now",
       "url": "https://open.spotify.com/track/6N6Y1AdoGqw5H3lzli5DgL"
@@ -1816,7 +2166,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 174380,
       "name": "The Rose Song - From \"High School Musical: The Musical: The Series (Season 2)\"",
       "url": "https://open.spotify.com/track/3qxzozdGFaBxQ0X4HkrMr0"
@@ -1882,6 +2232,24 @@
       "duration_ms": 187746,
       "name": "This Is Me - From \"Camp Rock\"",
       "url": "https://open.spotify.com/track/1570rO6Ld2CQtylj79nZuI"
+    },
+    {
+      "album": {
+        "name": "Wish: Asha et la bonne \u00e9toile (Bande Originale Fran\u00e7aise du Film/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5Jh6GjWGi7OS3nWb7x8Rmb"
+      },
+      "artists": [
+        {
+          "name": "Wish - Cast",
+          "url": "https://open.spotify.com/artist/5OLl3QAQOcnab5ofRR05jM"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174786,
+      "name": "Tous des \u00e9toiles",
+      "url": "https://open.spotify.com/track/76BzMTISP8cuj7NTECOvPx"
     },
     {
       "album": {
@@ -1958,7 +2326,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 112205,
       "name": "Un Poco Loco",
       "url": "https://open.spotify.com/track/0OFknyqxmSQ42SoKxWVTok"
@@ -1984,7 +2352,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 184946,
       "name": "Under the Sea",
       "url": "https://open.spotify.com/track/7Cux0Rc1hY5Pt5T28apnzv"
@@ -2002,7 +2370,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 63586,
       "name": "Vanessa's Trick",
       "url": "https://open.spotify.com/track/3tMQKPLplBCDdOgdsZn0SZ"
@@ -2078,7 +2446,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 234004,
       "name": "When You Wish Upon a Star - From \"Disney 100\"",
       "url": "https://open.spotify.com/track/2xdvhChCtpYxyNApVJEUG1"
@@ -2119,6 +2487,24 @@
     },
     {
       "album": {
+        "name": "Tarzan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1zszC1x9HYKxUCKVa62p7C"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256733,
+      "name": "You'll Be In My Heart",
+      "url": "https://open.spotify.com/track/4Y8vb1uy9IjM2V1hqvrAid"
+    },
+    {
+      "album": {
         "name": "Disney Summer Songs",
         "url": "https://open.spotify.com/album/6qykGE5x584duyLVYcnojE"
       },
@@ -2130,7 +2516,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 258133,
       "name": "You'll Be In My Heart - From \"Tarzan\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/1fTDYdx5zYfWJSX0JlKO8o"

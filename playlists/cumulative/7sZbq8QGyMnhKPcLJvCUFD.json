@@ -10533,6 +10533,28 @@
     },
     {
       "album": {
+        "name": "Want It All",
+        "url": "https://open.spotify.com/album/16UUTrnENXTTwnRqIuLEKf"
+      },
+      "artists": [
+        {
+          "name": "MVSTAFA",
+          "url": "https://open.spotify.com/artist/6Z7B1Ns8xEu05hFDCCwE1f"
+        },
+        {
+          "name": "Mqx",
+          "url": "https://open.spotify.com/artist/59o1kyNFOv04hcGRuWhWs9"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152995,
+      "name": "Want It All",
+      "url": "https://open.spotify.com/track/6W3aytvSWp6RfbSGtTSbjY"
+    },
+    {
+      "album": {
         "name": "War Machine",
         "url": "https://open.spotify.com/album/2NIiZjKbDekTfPAtQSwujY"
       },

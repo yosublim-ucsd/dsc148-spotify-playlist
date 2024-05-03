@@ -4,7 +4,7 @@
 
 > كل شي خليجي جديد\. الغلاف:سلطان خليفة
 
-331 songs - 22 hr 48 min
+332 songs - 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Ashan Al Eshrah \(6\)](https://open.spotify.com/track/7m2zZPpGToPPLWv41LTo2U) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Ashan Al Eshrah \(6\)](https://open.spotify.com/album/2w79joKuAlb8yptMEMMJNQ) | 4:37 | 2022-09-05 | 2022-09-30 |
 | [Asheqat Alworod](https://open.spotify.com/track/7fzlfxPGNg6TAnsagF3xWA) | [Fares Mahdi](https://open.spotify.com/artist/1YsTqzEdaUDfTm05Rx9bHD) | [Asheqat Alworod](https://open.spotify.com/album/7wLFnsKYJiUTyIsfc3juIR) | 5:59 | 2021-12-23 | 2022-04-06 |
 | [Asher Safha](https://open.spotify.com/track/6LS75pBeHxcJ9rUYecFz33) | [Ibrahim Al Hakmi](https://open.spotify.com/artist/5tW4IIHdo0QDx1KvTu03yc) | [Asher Safha](https://open.spotify.com/album/5jjwXhLhOAbqXFGkibas73) | 4:51 | 2022-06-02 | 2023-01-10 |
+| [Ashoof AL Afyiah](https://open.spotify.com/track/04RQf3c5aAqLmd07WHaCFN) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Ashoof AL Afyiah](https://open.spotify.com/album/6zi460Vd6Xflq0YRgxrUpX) | 3:35 | 2024-05-02 |  |
 | [Ashya Ma Tngaal](https://open.spotify.com/track/29lT2uvcPdWila0RrgXO8h) | [Hind](https://open.spotify.com/artist/1fkTlg87igh6cosmAa3TYE) | [Hind 2024](https://open.spotify.com/album/3OWdp5V4FDqWQwfl6Z8JGi) | 4:29 | 2024-01-18 |  |
 | [Baadh Al Ghala](https://open.spotify.com/track/3Sf476zAelNnGLOS9dSUWX) | [Nour Ireksousi](https://open.spotify.com/artist/3ERqXjQ9LH6lItvNMwSftG) | [Baadh Al Ghala](https://open.spotify.com/album/6Nw5PNaAjR8blhDzsmuulu) | 3:49 | 2021-12-23 | 2022-03-12 |
 | [Bab Galbi](https://open.spotify.com/track/0a0lQdJ6d1zdsSIZY5f6yl) | [Ahlam](https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd) | [Bab Galbi](https://open.spotify.com/album/2u55oUjufLaPJ90QnBT7a4) | 2:58 | 2022-08-25 | 2023-03-15 |
@@ -233,7 +234,7 @@
 | [Tedrin](https://open.spotify.com/track/3vD3gUwNGUOixb6Cg712sH) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Tedrin](https://open.spotify.com/album/4JNuLecl8rCEeeR3gMznCr) | 4:47 | 2022-05-25 | 2022-09-15 |
 | [Tekfa La Tezaal](https://open.spotify.com/track/1PQUoFUEup1srdXYs589eX) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Tekfa La Tezaal](https://open.spotify.com/album/1pqCeLwE1qJMFaM06F5umO) | 4:10 | 2024-02-09 |  |
 | [Temadeena](https://open.spotify.com/track/4kKbqhmWLX0wn3ZXk63EFB) | [Ibrahim Dashti](https://open.spotify.com/artist/7fVr9abExkyr5UQwtlWvpD) | [Temadeena](https://open.spotify.com/album/7cfR9cEVz8tfUDS7pvZPi5) | 4:24 | 2021-12-23 | 2021-12-31 |
-| [Tezzakar Al Nesyan](https://open.spotify.com/track/3bCkRa7J8CxY8yUj6cifXQ) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Tezzakar Al Nesyan](https://open.spotify.com/album/2ebAtYzo58lYiSG3JFyd8W) | 4:50 | 2023-09-22 |  |
+| [Tezzakar Al Nesyan](https://open.spotify.com/track/3bCkRa7J8CxY8yUj6cifXQ) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Tezzakar Al Nesyan](https://open.spotify.com/album/2ebAtYzo58lYiSG3JFyd8W) | 4:50 | 2023-09-22 | 2024-05-03 |
 | [Thaag El Ghamaam](https://open.spotify.com/track/7CJTam1agxsYHmlByF1sa0) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Fouad Abdulwahed 2024](https://open.spotify.com/album/5rh03DFJueGrJqjQHPJXSK) | 4:23 | 2024-04-18 |  |
 | [Thekrak \(16\)](https://open.spotify.com/track/4rLXGSQ0IwvAb5Hye9Rixj) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Thekrak \(16\)](https://open.spotify.com/album/7gT2MAtewnaohs143iyPjK) | 4:39 | 2022-09-14 | 2022-09-30 |
 | [Thekrak \(16\)](https://open.spotify.com/track/7DPK6KDwhYUiPPGgXuq1st) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Kol El Khata](https://open.spotify.com/album/4nKtbyAZFU6hu8lZAztO7c) | 4:39 | 2022-09-28 | 2023-01-21 |

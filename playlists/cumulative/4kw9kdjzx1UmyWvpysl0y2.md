@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-716 songs - 1 day 17 hr 19 min
+717 songs - 1 day 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -571,6 +571,7 @@
 | [Snakes & Ladders](https://open.spotify.com/track/5pTSuqFgMdCYszgtpqo5NW) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q), [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Snakes & Ladders](https://open.spotify.com/album/75SOx68GKRsHhu4ErYOe3A) | 3:02 | 2023-07-04 | 2023-12-14 |
 | [SO ABSURD](https://open.spotify.com/track/4jzBFkBWHnMovc9fnND3Tm) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [SO ABSURD](https://open.spotify.com/album/5OkjBm4prdIorIAYptLT81) | 2:32 | 2023-10-04 | 2024-01-19 |
 | [So Far Away](https://open.spotify.com/track/2tKElQZfUyUQjDZwP2tOWF) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [LOST](https://open.spotify.com/album/2IKVthOoA0M9xgN4PL8Otj) | 3:39 | 2022-06-20 | 2022-09-02 |
+| [So High](https://open.spotify.com/track/3PdssIeO7774PbZquBoYMA) | [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro) | [So High](https://open.spotify.com/album/77BLeJIkcNdUQB6u1hNXOZ) | 3:27 | 2024-05-02 |  |
 | [Someday](https://open.spotify.com/track/1GiPvfJ558pRE7kP3X7vxd) | [Cressida](https://open.spotify.com/artist/3TarSQLteG4x5prong6iPz), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Someday](https://open.spotify.com/album/2wlgrRRWuzfOQAJ9qc7YKo) | 3:36 | 2022-11-23 | 2023-02-18 |
 | [Someone Else \- Blanke Remix](https://open.spotify.com/track/4ht1wtZBmlyLAVDivgVYok) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Overthrown \(The Thrones of Blood Remix Album\)](https://open.spotify.com/album/0uX6vlfx2rgxUX5cCZ1eXE) | 4:26 | 2023-12-01 | 2024-03-15 |
 | [Someone To Forget](https://open.spotify.com/track/6ieSmmi7H6BdBowVhMOZ6F) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Someone To Forget](https://open.spotify.com/album/193cXUcTyX1JDg1VF3mgXO) | 4:01 | 2023-05-12 | 2023-08-04 |

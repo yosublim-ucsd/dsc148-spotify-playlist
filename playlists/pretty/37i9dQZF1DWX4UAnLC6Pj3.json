@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Chiquis en portada.",
-  "num_followers": 1213493,
+  "num_followers": 1213521,
   "original_name": "Banda 2024",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-04-12 05:33:15",
       "album": {
-        "name": "Historias de Mi Vida",
-        "url": "https://open.spotify.com/album/6rXIKiwGq6YDhNyEUnlabe"
-      },
-      "artists": [
-        {
-          "name": "Giovanny Ayala",
-          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
-        }
-      ],
-      "duration_ms": 201857,
-      "name": "A Cu\u00e1nto Me Qued\u00e9",
-      "url": "https://open.spotify.com/track/4HgB85fVdWG83EZOHj5paV"
-    },
-    {
-      "added_at": "2024-04-12 05:33:15",
-      "album": {
         "name": "Una Noche Cualquiera",
         "url": "https://open.spotify.com/album/6uhcErVRHBbBaslDcvzDlD"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 215106,
       "name": "Una Noche Cualquiera",
       "url": "https://open.spotify.com/track/1d2ziGaMKHlNjuFY1oL8If"
+    },
+    {
+      "added_at": "2024-04-12 05:33:15",
+      "album": {
+        "name": "Historias de Mi Vida",
+        "url": "https://open.spotify.com/album/6rXIKiwGq6YDhNyEUnlabe"
+      },
+      "artists": [
+        {
+          "name": "Giovanny Ayala",
+          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
+        }
+      ],
+      "duration_ms": 201857,
+      "name": "A Cu\u00e1nto Me Qued\u00e9",
+      "url": "https://open.spotify.com/track/4HgB85fVdWG83EZOHj5paV"
     },
     {
       "added_at": "2024-04-12 05:33:15",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-04-12 05:33:15",
       "album": {
-        "name": "Un Tabaco (En Vivo)",
-        "url": "https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p"
-      },
-      "artists": [
-        {
-          "name": "Juanpa Salazar",
-          "url": "https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx"
-        }
-      ],
-      "duration_ms": 207625,
-      "name": "Un Tabaco (En Vivo)",
-      "url": "https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W"
-    },
-    {
-      "added_at": "2024-04-12 05:33:15",
-      "album": {
         "name": "Gente Corriente",
         "url": "https://open.spotify.com/album/6pzjO8qClKr8iQ5eDqNZ84"
       },
@@ -1167,18 +1151,18 @@
     {
       "added_at": "2024-04-12 05:33:15",
       "album": {
-        "name": "Puras Pa' Pistear (En Vivo)",
-        "url": "https://open.spotify.com/album/4h7bSgipyXsQLnNgrSyR6N"
+        "name": "Un Tabaco (En Vivo)",
+        "url": "https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p"
       },
       "artists": [
         {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+          "name": "Juanpa Salazar",
+          "url": "https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx"
         }
       ],
-      "duration_ms": 229333,
-      "name": "Aqu\u00ed No Es (En Vivo)",
-      "url": "https://open.spotify.com/track/0gZfDl5FgtHVhwDSjhJxB5"
+      "duration_ms": 207625,
+      "name": "Un Tabaco (En Vivo)",
+      "url": "https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W"
     },
     {
       "added_at": "2024-04-12 05:33:15",
@@ -1195,6 +1179,22 @@
       "duration_ms": 173500,
       "name": "12 Rifles",
       "url": "https://open.spotify.com/track/6bKPmj3k2zoTzoEOiFnmM0"
+    },
+    {
+      "added_at": "2024-04-12 05:33:15",
+      "album": {
+        "name": "Puras Pa' Pistear (En Vivo)",
+        "url": "https://open.spotify.com/album/4h7bSgipyXsQLnNgrSyR6N"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "Aqu\u00ed No Es (En Vivo)",
+      "url": "https://open.spotify.com/track/0gZfDl5FgtHVhwDSjhJxB5"
     },
     {
       "added_at": "2024-04-12 05:33:15",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2024-04-12 05:33:15",
       "album": {
-        "name": "Ya No Estoy Solo",
-        "url": "https://open.spotify.com/album/2tPJAEl2nKqaJEd8Kgzhji"
+        "name": "La Propina",
+        "url": "https://open.spotify.com/album/5Fe9UKkyuhIZQLkx0MnrqL"
       },
       "artists": [
         {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 178280,
-      "name": "Ya No Estoy Solo",
-      "url": "https://open.spotify.com/track/4B4G7qd9HLGGbXc4odeuE6"
+      "duration_ms": 142013,
+      "name": "La Propina",
+      "url": "https://open.spotify.com/track/3MNizqH3Vgli5czbnBDCie"
     },
     {
       "added_at": "2024-04-12 05:33:15",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2024-04-12 05:33:15",
       "album": {
-        "name": "La Propina",
-        "url": "https://open.spotify.com/album/5Fe9UKkyuhIZQLkx0MnrqL"
+        "name": "Ya No Estoy Solo",
+        "url": "https://open.spotify.com/album/2tPJAEl2nKqaJEd8Kgzhji"
       },
       "artists": [
         {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
         }
       ],
-      "duration_ms": 142013,
-      "name": "La Propina",
-      "url": "https://open.spotify.com/track/3MNizqH3Vgli5czbnBDCie"
+      "duration_ms": 178280,
+      "name": "Ya No Estoy Solo",
+      "url": "https://open.spotify.com/track/4B4G7qd9HLGGbXc4odeuE6"
     },
     {
       "added_at": "2024-04-12 05:33:15",
@@ -1431,8 +1431,8 @@
     {
       "added_at": "2024-04-12 05:33:15",
       "album": {
-        "name": "Vamos A Vernos",
-        "url": "https://open.spotify.com/album/015jWFyaGM4BLxtLlI4hjZ"
+        "name": "Que Te Trague La Tierra",
+        "url": "https://open.spotify.com/album/0K58rVn5sbwOxIvEBECmIv"
       },
       "artists": [
         {
@@ -1440,9 +1440,25 @@
           "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
         }
       ],
-      "duration_ms": 217186,
-      "name": "Vamos A Vernos",
-      "url": "https://open.spotify.com/track/397f40lelcxJlZkrwNNV3w"
+      "duration_ms": 188266,
+      "name": "Que Te Trague La Tierra",
+      "url": "https://open.spotify.com/track/1NW4Mnhvl5NX7yxEgylV1x"
+    },
+    {
+      "added_at": "2024-04-12 05:33:15",
+      "album": {
+        "name": "M\u00e1gicos Besitos",
+        "url": "https://open.spotify.com/album/1cxtWjjkrXYCe75KFUl4yT"
+      },
+      "artists": [
+        {
+          "name": "Saul El Jaguar Alarc\u00f3n",
+          "url": "https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro"
+        }
+      ],
+      "duration_ms": 177682,
+      "name": "M\u00e1gicos Besitos",
+      "url": "https://open.spotify.com/track/2tRMOlLNKzFBhiEUQhevIW"
     },
     {
       "added_at": "2024-04-12 05:33:15",
@@ -1463,22 +1479,6 @@
     {
       "added_at": "2024-04-12 05:33:15",
       "album": {
-        "name": "Tan viendo como estoy",
-        "url": "https://open.spotify.com/album/3Hz3i7i7yOPnRF1wgSUCKw"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 177048,
-      "name": "Tan viendo como estoy",
-      "url": "https://open.spotify.com/track/5YrvUJVKxilCbBpWKDUJ4o"
-    },
-    {
-      "added_at": "2024-04-12 05:33:15",
-      "album": {
         "name": "El Precio De La Soledad",
         "url": "https://open.spotify.com/album/2eJw7c1smx7ycjTqcBgI5I"
       },
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2024-04-12 05:33:15",
       "album": {
-        "name": "M\u00e1gicos Besitos",
-        "url": "https://open.spotify.com/album/1cxtWjjkrXYCe75KFUl4yT"
+        "name": "Tan viendo como estoy",
+        "url": "https://open.spotify.com/album/3Hz3i7i7yOPnRF1wgSUCKw"
       },
       "artists": [
         {
-          "name": "Saul El Jaguar Alarc\u00f3n",
-          "url": "https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro"
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
         }
       ],
-      "duration_ms": 177682,
-      "name": "M\u00e1gicos Besitos",
-      "url": "https://open.spotify.com/track/2tRMOlLNKzFBhiEUQhevIW"
+      "duration_ms": 177048,
+      "name": "Tan viendo como estoy",
+      "url": "https://open.spotify.com/track/5YrvUJVKxilCbBpWKDUJ4o"
     },
     {
       "added_at": "2024-04-12 05:33:15",
@@ -1599,8 +1599,8 @@
     {
       "added_at": "2024-04-12 05:33:15",
       "album": {
-        "name": "Que Te Trague La Tierra",
-        "url": "https://open.spotify.com/album/0K58rVn5sbwOxIvEBECmIv"
+        "name": "Vamos A Vernos",
+        "url": "https://open.spotify.com/album/015jWFyaGM4BLxtLlI4hjZ"
       },
       "artists": [
         {
@@ -1608,9 +1608,9 @@
           "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
         }
       ],
-      "duration_ms": 188266,
-      "name": "Que Te Trague La Tierra",
-      "url": "https://open.spotify.com/track/1NW4Mnhvl5NX7yxEgylV1x"
+      "duration_ms": 217186,
+      "name": "Vamos A Vernos",
+      "url": "https://open.spotify.com/track/397f40lelcxJlZkrwNNV3w"
     },
     {
       "added_at": "2024-04-12 05:33:15",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-04-12 05:33:15",
       "album": {
-        "name": "Las Preferidas, Vol. 5 (En vivo)",
-        "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 245183,
-      "name": "Due\u00f1o De Ti - En vivo",
-      "url": "https://open.spotify.com/track/0QAxYBIRvhno4Fiv47pKDU"
-    },
-    {
-      "added_at": "2024-04-12 05:33:15",
-      "album": {
         "name": "El 30 de Febrero",
         "url": "https://open.spotify.com/album/0x2OATUtYiydLtsW3eOg4p"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 181204,
       "name": "El 30 de Febrero",
       "url": "https://open.spotify.com/track/4ZbDbGo6hubDCXsVMEx1jv"
+    },
+    {
+      "added_at": "2024-04-12 05:33:15",
+      "album": {
+        "name": "Las Preferidas, Vol. 5 (En vivo)",
+        "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 245183,
+      "name": "Due\u00f1o De Ti - En vivo",
+      "url": "https://open.spotify.com/track/0QAxYBIRvhno4Fiv47pKDU"
     },
     {
       "added_at": "2024-04-12 05:33:15",
@@ -1715,26 +1715,18 @@
     {
       "added_at": "2024-04-12 05:33:15",
       "album": {
-        "name": "El Prieto Bereta",
-        "url": "https://open.spotify.com/album/6ltDtyvsiOU4AF6XZZr5o9"
+        "name": "Aqui",
+        "url": "https://open.spotify.com/album/6acAPwFF5O4Ia6H67Qz5lm"
       },
       "artists": [
         {
-          "name": "Aldo Trujillo",
-          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
-        },
-        {
-          "name": "Jaziel Avilez",
-          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
-        },
-        {
-          "name": "La Decima Banda",
-          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
+          "name": "Hermanos Vega Jr.",
+          "url": "https://open.spotify.com/artist/5AI8Ps93kygPilymCY7Tnm"
         }
       ],
-      "duration_ms": 215041,
-      "name": "El Prieto Bereta",
-      "url": "https://open.spotify.com/track/4ou6FcWqtjorBer6znaAuU"
+      "duration_ms": 148212,
+      "name": "Aqui",
+      "url": "https://open.spotify.com/track/6KujS6JWvxGDmG4tGIoxCB"
     },
     {
       "added_at": "2024-04-12 05:33:15",
@@ -1759,18 +1751,26 @@
     {
       "added_at": "2024-04-12 05:33:15",
       "album": {
-        "name": "Aqui",
-        "url": "https://open.spotify.com/album/6acAPwFF5O4Ia6H67Qz5lm"
+        "name": "El Prieto Bereta",
+        "url": "https://open.spotify.com/album/6ltDtyvsiOU4AF6XZZr5o9"
       },
       "artists": [
         {
-          "name": "Hermanos Vega Jr.",
-          "url": "https://open.spotify.com/artist/5AI8Ps93kygPilymCY7Tnm"
+          "name": "Aldo Trujillo",
+          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
+        },
+        {
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+        },
+        {
+          "name": "La Decima Banda",
+          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
         }
       ],
-      "duration_ms": 148212,
-      "name": "Aqui",
-      "url": "https://open.spotify.com/track/6KujS6JWvxGDmG4tGIoxCB"
+      "duration_ms": 215041,
+      "name": "El Prieto Bereta",
+      "url": "https://open.spotify.com/track/4ou6FcWqtjorBer6znaAuU"
     },
     {
       "added_at": "2024-04-12 05:33:15",

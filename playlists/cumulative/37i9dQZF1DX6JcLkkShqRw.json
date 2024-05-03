@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Flow sudamericano con Lara91k.",
+  "description": "Flow sudamericano con Dani Ribba & Jesse Baez.",
   "name": "Flow al Sur",
   "tracks": [
     {
@@ -104,6 +104,28 @@
       "duration_ms": 137100,
       "name": "+ SINCERO",
       "url": "https://open.spotify.com/track/2wRoKIerlhzPSbeIVvSB2J"
+    },
+    {
+      "album": {
+        "name": "+Q1 Jenner",
+        "url": "https://open.spotify.com/album/1Mt0EJwCMaB5MtziKTikg1"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Dysbit",
+          "url": "https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154794,
+      "name": "+Q1 Jenner",
+      "url": "https://open.spotify.com/track/3aXtPQQ4xp8MSWPcHSRo6r"
     },
     {
       "album": {
@@ -878,6 +900,28 @@
       "duration_ms": 176006,
       "name": "A SOLAS",
       "url": "https://open.spotify.com/track/4GoZNydgoPf8SOtRz9T5oP"
+    },
+    {
+      "album": {
+        "name": "A Toda Hora",
+        "url": "https://open.spotify.com/album/003hJuxeqS9V6z807tXdov"
+      },
+      "artists": [
+        {
+          "name": "frankotirador",
+          "url": "https://open.spotify.com/artist/3mkgLtC3wZ9xFKM7C6bA4w"
+        },
+        {
+          "name": "OKY",
+          "url": "https://open.spotify.com/artist/6MLsGkmMLs3wFwNRleDyeU"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184760,
+      "name": "A Toda Hora",
+      "url": "https://open.spotify.com/track/5sU4baPrB44oGLqyzZvLw4"
     },
     {
       "album": {
@@ -2782,7 +2826,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 133475,
       "name": "Barrio De La Ca\u00f1a",
       "url": "https://open.spotify.com/track/1Cqta1TEi91tIWpFHU0pe7"
@@ -3893,6 +3937,28 @@
     },
     {
       "album": {
+        "name": "CALIFORNIA",
+        "url": "https://open.spotify.com/album/7g0T3PwMkEhyyvJVqEnRzW"
+      },
+      "artists": [
+        {
+          "name": "Dani Ribba",
+          "url": "https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN"
+        },
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205241,
+      "name": "CALIFORNIA",
+      "url": "https://open.spotify.com/track/4FxYtP90N7QUPZ01sk4jBc"
+    },
+    {
+      "album": {
         "name": "California",
         "url": "https://open.spotify.com/album/4s0xbHR2BZ0puy2H7eol9b"
       },
@@ -4040,7 +4106,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 276315,
       "name": "CAMIONETOTA",
       "url": "https://open.spotify.com/track/2KknVfA6jr8kAb2QdmAJPs"
@@ -4368,6 +4434,24 @@
       "duration_ms": 122307,
       "name": "Cheto Mal",
       "url": "https://open.spotify.com/track/32299N6IyNvtw1O3eTmWbv"
+    },
+    {
+      "album": {
+        "name": "Chica de Museo",
+        "url": "https://open.spotify.com/album/3nDJR1NZm0Knbunmv86NSo"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158350,
+      "name": "Chica de Museo",
+      "url": "https://open.spotify.com/track/3OXUoMGGvJhbKXZOMWUX3C"
     },
     {
       "album": {
@@ -5886,7 +5970,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 144514,
       "name": "DAILY",
       "url": "https://open.spotify.com/track/3FalT15qUp8ONFqLt0Sz9D"
@@ -7430,7 +7514,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 197831,
       "name": "El Amanecer",
       "url": "https://open.spotify.com/track/48H3BsuIXKMYRTuFtxkRhh"
@@ -8562,6 +8646,28 @@
       "duration_ms": 185600,
       "name": "Extra\u00f1\u00e1ndote",
       "url": "https://open.spotify.com/track/4HDL7W0SdqvQKpGc6cwbOW"
+    },
+    {
+      "album": {
+        "name": "Factos",
+        "url": "https://open.spotify.com/album/4GAfjkvxRN1ZvGvUnOEavK"
+      },
+      "artists": [
+        {
+          "name": "Nissa",
+          "url": "https://open.spotify.com/artist/2bqyNDhVFDuK4wZUrZh6xy"
+        },
+        {
+          "name": "ENEZ 4R",
+          "url": "https://open.spotify.com/artist/3OHwlQfXYEFe5ynRosykmE"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122040,
+      "name": "Factos",
+      "url": "https://open.spotify.com/track/031uMsGKA6CFboZDCX3xSu"
     },
     {
       "album": {
@@ -11739,6 +11845,28 @@
     },
     {
       "album": {
+        "name": "L0JI",
+        "url": "https://open.spotify.com/album/7uHP8GP7cWkmour80PaxiG"
+      },
+      "artists": [
+        {
+          "name": "Pablito Pesadilla",
+          "url": "https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox"
+        },
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180280,
+      "name": "L0JI",
+      "url": "https://open.spotify.com/track/71ZRd9N8f5p1Z4u1vXwdxI"
+    },
+    {
+      "album": {
         "name": "Sol Mar\u00eda",
         "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
       },
@@ -11852,7 +11980,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 134579,
       "name": "La Favorita de Dios",
       "url": "https://open.spotify.com/track/7zukEo2aDcfeLnmQl6uR65"
@@ -13574,7 +13702,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 250303,
       "name": "MADISON",
       "url": "https://open.spotify.com/track/4nW5qMepEJOkZONWTsrc7w"
@@ -15622,7 +15750,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 199707,
       "name": "Mir Nicol\u00e1s - Taiu Desk",
       "url": "https://open.spotify.com/track/2B7wW8RZrJLrvLjWp5Oorn"
@@ -15836,6 +15964,32 @@
       "duration_ms": 300000,
       "name": "Modo Bellakeo - Remix",
       "url": "https://open.spotify.com/track/0SaXDaVenmZynBYRD3eJG6"
+    },
+    {
+      "album": {
+        "name": "MOET",
+        "url": "https://open.spotify.com/album/0PhXjOpckb6MxLfwvEhbpW"
+      },
+      "artists": [
+        {
+          "name": "SAIBU",
+          "url": "https://open.spotify.com/artist/5mSb56qJRcHVRRDveOmcfO"
+        },
+        {
+          "name": "Cacha",
+          "url": "https://open.spotify.com/artist/2612FpziZcGHTU77hgmdv8"
+        },
+        {
+          "name": "Kodigo",
+          "url": "https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201325,
+      "name": "MOET",
+      "url": "https://open.spotify.com/track/5vYX5KKeG6jKIHY5NZDtDw"
     },
     {
       "album": {
@@ -19494,7 +19648,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 162769,
       "name": "peli de terror",
       "url": "https://open.spotify.com/track/5DgwlfQMBEpJQ1Hz5jPFJ1"
@@ -23260,7 +23414,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 181463,
       "name": "sol & prada",
       "url": "https://open.spotify.com/track/7wfMTV2iORe3n6JLgA9daD"
@@ -27516,7 +27670,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 130409,
       "name": "YA NI YO ME ENTIENDO",
       "url": "https://open.spotify.com/track/3lqs3nTdYAbX4iQV6JBehz"

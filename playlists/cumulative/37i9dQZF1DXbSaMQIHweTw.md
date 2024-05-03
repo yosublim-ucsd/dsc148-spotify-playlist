@@ -2,7 +2,7 @@
 
 ### [Bambai Bantai](https://open.spotify.com/playlist/37i9dQZF1DXbSaMQIHweTw)
 
-> Rapping into your hearts from the alleys of Mumbai\. Cover\- Naezy
+> Rapping into your hearts from the alleys of Mumbai\. Cover\- The Siege
 
 136 songs - 7 hr 17 min
 

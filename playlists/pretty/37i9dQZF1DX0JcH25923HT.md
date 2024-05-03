@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 
 > Palos de ayer, clásicos para siempre\. Foto: Bad Bunny.
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,923 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,186 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 | 94 | [Bufón](https://open.spotify.com/track/6ovp1nCwIAOSMotiCF7pjk) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Bufón](https://open.spotify.com/album/5RpGiCddWLzGrrAsB6EcgI) | 4:02 |
 | 95 | [Yelo](https://open.spotify.com/track/3OUPJPD1OmFd8gL7ztY9v8) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Yelo](https://open.spotify.com/album/0l96KLiB5dthOyDYmNEwfi) | 3:09 |
 | 96 | [PARA SACARMELO \(prod\. OMAR VARELA\)](https://open.spotify.com/track/7vVBHIVPewg2rCkiSMFquc) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [HECHO A MANO](https://open.spotify.com/album/7vpRavovNYZYzEOieN5pvU) | 2:36 |
-| 97 | [Mente Gitana](https://open.spotify.com/track/074rCBnmb4MlfA7OoQrAcx) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [Mente Gitana](https://open.spotify.com/album/3r4ZGro2e0Vb4x3JyNFViY) | 3:33 |
-| 98 | [Sigo Fresh](https://open.spotify.com/track/50KdtoOHAI2Bp15YifdP02) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [You're Welcome](https://open.spotify.com/album/1hhtQL6iADIa5DoH7qZlIJ) | 3:09 |
-| 99 | [Viernes 13](https://open.spotify.com/track/1WRIN4Liz3nmoE5njV8aNO) | [KAKTOV](https://open.spotify.com/artist/4G8DaRnN7oPFkEJXwX2i94), [Fat Nick](https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Viernes 13](https://open.spotify.com/album/40dw575mb3ge8Rz84fJlAs) | 3:04 |
-| 100 | [Haters \- Remix](https://open.spotify.com/track/1XuH3RXp7sCFPNof6xvFlm) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [Haters \(Remix\)](https://open.spotify.com/album/7eh4EPAHsOFpon6iG7q75Q) | 5:28 |
+| 97 | [Viernes 13](https://open.spotify.com/track/1WRIN4Liz3nmoE5njV8aNO) | [KAKTOV](https://open.spotify.com/artist/4G8DaRnN7oPFkEJXwX2i94), [Fat Nick](https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Viernes 13](https://open.spotify.com/album/40dw575mb3ge8Rz84fJlAs) | 3:04 |
+| 98 | [Mente Gitana](https://open.spotify.com/track/074rCBnmb4MlfA7OoQrAcx) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [Mente Gitana](https://open.spotify.com/album/3r4ZGro2e0Vb4x3JyNFViY) | 3:33 |
+| 99 | [Sigo Fresh](https://open.spotify.com/track/50KdtoOHAI2Bp15YifdP02) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [You're Welcome](https://open.spotify.com/album/1hhtQL6iADIa5DoH7qZlIJ) | 3:09 |
+| 100 | [Como Soy](https://open.spotify.com/track/6l2UmWFHtPqgWq0hnqlfJT) | [Pacho El Antifeka](https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Como Soy](https://open.spotify.com/album/6aDcL8v3iXacgkHL7DGu0G) | 5:12 |
 
 Snapshot ID: `Zes5ZgAAAAB4jE2BJsxb3hNsg5knePgD`

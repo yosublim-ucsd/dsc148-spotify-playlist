@@ -1,12 +1,12 @@
 {
   "description": "This Is Banda Maguey. Los temas esenciales, todos en una lista.",
-  "num_followers": 24610,
+  "num_followers": 24639,
   "original_name": "This Is Banda Maguey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjA0gAAAAABF6zuP7wFGkimlN33Dk3RH",
+  "snapshot_id": "ZjGGAAAAAAAVIuwye3yqiRgMI4aoynJL",
   "tracks": [
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Estrella De Los Bailes - Los \u00c9xitos",
+        "url": "https://open.spotify.com/album/5T9zkm1BMSNqlPvu911c0n"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 153861,
+      "name": "Bikini Azul",
+      "url": "https://open.spotify.com/track/1YvqhFsIxpy9yEzn9sWb0X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pa Que Veas Lo Que Se Siente",
         "url": "https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 216373,
       "name": "Evidencias",
       "url": "https://open.spotify.com/track/1v24D8YVZIWfV9c8A3VkXU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00c9xitos de Oro",
-        "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 222820,
-      "name": "Dulce Veneno",
-      "url": "https://open.spotify.com/track/1rBVDXcKRhbk6LF1ymr9bE"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Estrella De Los Bailes - Los \u00c9xitos",
-        "url": "https://open.spotify.com/album/5T9zkm1BMSNqlPvu911c0n"
+        "name": "\u00c9xitos de Oro",
+        "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 153861,
-      "name": "Bikini Azul",
-      "url": "https://open.spotify.com/track/1YvqhFsIxpy9yEzn9sWb0X"
+      "duration_ms": 222820,
+      "name": "Dulce Veneno",
+      "url": "https://open.spotify.com/track/1rBVDXcKRhbk6LF1ymr9bE"
     },
     {
       "added_at": null,
@@ -683,70 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9xitos de Oro",
-        "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 158157,
-      "name": "Por una L\u00e1grima",
-      "url": "https://open.spotify.com/track/5lMi9SktHdwfast6BALpAQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/1ikqe2XWpl3nNHzSwXgPFi"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 153093,
-      "name": "El Avestruz",
-      "url": "https://open.spotify.com/track/2BY17snH63VMOiliE0wKdb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pa Que Veas Lo Que Se Siente",
-        "url": "https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 149920,
-      "name": "La Ranchera Pajona",
-      "url": "https://open.spotify.com/track/0ZvZGvz5fUAgRmq5KuTgqm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Para Que No Me Olvides",
-        "url": "https://open.spotify.com/album/4HhljolOfX1qrERyoqog91"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 156493,
-      "name": "El Jalisciense",
-      "url": "https://open.spotify.com/track/57SmAa0MAjSRxJOqKgKxZV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tumbando Ca\u00f1a (Serie Cl\u00e1sica)",
         "url": "https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt"
       },
@@ -772,9 +708,89 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
+      "duration_ms": 158157,
+      "name": "Por una L\u00e1grima",
+      "url": "https://open.spotify.com/track/5lMi9SktHdwfast6BALpAQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa Que Veas Lo Que Se Siente",
+        "url": "https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 149920,
+      "name": "La Ranchera Pajona",
+      "url": "https://open.spotify.com/track/0ZvZGvz5fUAgRmq5KuTgqm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/1ikqe2XWpl3nNHzSwXgPFi"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 153093,
+      "name": "El Avestruz",
+      "url": "https://open.spotify.com/track/2BY17snH63VMOiliE0wKdb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para Que No Me Olvides",
+        "url": "https://open.spotify.com/album/4HhljolOfX1qrERyoqog91"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 156493,
+      "name": "El Jalisciense",
+      "url": "https://open.spotify.com/track/57SmAa0MAjSRxJOqKgKxZV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00c9xitos de Oro",
+        "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
       "duration_ms": 176093,
       "name": "La Culpable",
       "url": "https://open.spotify.com/track/1jThuw8Kx5lbEYEkZqsD1x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tumbando Ca\u00f1a (Serie Cl\u00e1sica)",
+        "url": "https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 172133,
+      "name": "Tu Precio",
+      "url": "https://open.spotify.com/track/61imLjMVNbHMaHYyR43f6l"
     },
     {
       "added_at": null,
@@ -791,22 +807,6 @@
       "duration_ms": 143906,
       "name": "Alma de Acero",
       "url": "https://open.spotify.com/track/4t6sb6BrGJXzjit9bdFrBO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lagrimas De Sangre",
-        "url": "https://open.spotify.com/album/5uxBBlqqir0VvbT72133WG"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 135893,
-      "name": "La Traicionera",
-      "url": "https://open.spotify.com/track/1cHG4Z9p9qSwKVs8AetKAz"
     }
   ],
   "unique_name": "This Is Banda Maguey",

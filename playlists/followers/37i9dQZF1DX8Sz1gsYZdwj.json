@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 601088,
+  "2024-05-03": 601212,
   "date_first_scraped": "2021-12-21",
   "description": "Drift off to these peaceful classical melodies.",
   "name": "Classical Sleep",
@@ -945,6 +945,24 @@
       "duration_ms": 167063,
       "name": "Finding The Heavens",
       "url": "https://open.spotify.com/track/5iVgHr0hrCFOvem4Yc75Gc"
+    },
+    {
+      "album": {
+        "name": "Fire Lily",
+        "url": "https://open.spotify.com/album/7vwV0V7Xn0c9f5WGNTJhZ8"
+      },
+      "artists": [
+        {
+          "name": "A Whisper",
+          "url": "https://open.spotify.com/artist/0Bkqn0CjFIb96nVfStI6dy"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148478,
+      "name": "Fire Lily",
+      "url": "https://open.spotify.com/track/2uSAha9mpw97lxp4Gpp2HK"
     },
     {
       "album": {
@@ -1944,6 +1962,24 @@
     },
     {
       "album": {
+        "name": "Mystic Rivers",
+        "url": "https://open.spotify.com/album/2J5LFFXdwIVXxLSmm3wxej"
+      },
+      "artists": [
+        {
+          "name": "Malmkvist",
+          "url": "https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191250,
+      "name": "Mystic Rivers",
+      "url": "https://open.spotify.com/track/24qUwzHcqj4x9JIJ5FP5JO"
+    },
+    {
+      "album": {
         "name": "Near (Piano Rework)",
         "url": "https://open.spotify.com/album/4u37FT4IaZyWhzDNnnpzvn"
       },
@@ -2117,7 +2153,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 156126,
       "name": "Not Alone",
       "url": "https://open.spotify.com/track/51zxgx075eEXbFvg6xA2YM"
@@ -2667,7 +2703,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 146535,
       "name": "Saga",
       "url": "https://open.spotify.com/track/0JM4ig0fH4lvYWlNhGqlBf"

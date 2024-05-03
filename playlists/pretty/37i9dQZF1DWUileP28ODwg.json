@@ -1,6 +1,6 @@
 {
   "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: <a href=\"spotify:artist:61SFRZAmfyJhcffwR2Ijuq\">Jason Crabb</a>",
-  "num_followers": 348202,
+  "num_followers": 348396,
   "original_name": "Top Christian Contemporary",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "I Speak Jesus",
-        "url": "https://open.spotify.com/album/1lsIg61cq8FAgmkY1tPgDo"
-      },
-      "artists": [
-        {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
-        }
-      ],
-      "duration_ms": 233301,
-      "name": "I Speak Jesus",
-      "url": "https://open.spotify.com/track/4eniDccFw5yQ1eckEM32Ex"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "CAVES",
         "url": "https://open.spotify.com/album/1Rtopf52bLtF0kdxQsL8TL"
       },
@@ -543,18 +527,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "A Thousand Times",
-        "url": "https://open.spotify.com/album/6lYqMjNaEjClreJ71eWDHr"
+        "name": "I Speak Jesus",
+        "url": "https://open.spotify.com/album/1lsIg61cq8FAgmkY1tPgDo"
       },
       "artists": [
         {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
         }
       ],
-      "duration_ms": 219879,
-      "name": "A Thousand Times",
-      "url": "https://open.spotify.com/track/7EcOG0mQeO0gzyKkHByONE"
+      "duration_ms": 233301,
+      "name": "I Speak Jesus",
+      "url": "https://open.spotify.com/track/4eniDccFw5yQ1eckEM32Ex"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -575,6 +559,22 @@
       "duration_ms": 221400,
       "name": "You Will Be Found",
       "url": "https://open.spotify.com/track/37JSM2sf79iQfvpBQx1W3L"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "A Thousand Times",
+        "url": "https://open.spotify.com/album/6lYqMjNaEjClreJ71eWDHr"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        }
+      ],
+      "duration_ms": 219879,
+      "name": "A Thousand Times",
+      "url": "https://open.spotify.com/track/7EcOG0mQeO0gzyKkHByONE"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -627,22 +627,6 @@
       "duration_ms": 273554,
       "name": "Praise You In This Storm (feat. Phil Wickham)",
       "url": "https://open.spotify.com/track/6FW1HQDSZViaX37fyOFL57"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Heaven On Earth",
-        "url": "https://open.spotify.com/album/274mYhGCC5uGfFWUkkUic5"
-      },
-      "artists": [
-        {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
-        }
-      ],
-      "duration_ms": 199236,
-      "name": "Heaven On Earth",
-      "url": "https://open.spotify.com/track/3eJMUVFDLOG490UgWrbXf3"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -711,6 +695,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Heaven On Earth",
+        "url": "https://open.spotify.com/album/274mYhGCC5uGfFWUkkUic5"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "duration_ms": 199236,
+      "name": "Heaven On Earth",
+      "url": "https://open.spotify.com/track/3eJMUVFDLOG490UgWrbXf3"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Sound Mind (Studio Version)",
         "url": "https://open.spotify.com/album/4RwDacWJD03qZP7q8glBGD"
       },
@@ -739,26 +739,6 @@
       "duration_ms": 213967,
       "name": "Ain't Nobody - Radio Version",
       "url": "https://open.spotify.com/track/2iNzuYDmmD8dgEMLEaEpTx"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "I'm So Blessed (Aaron Cole Mix)",
-        "url": "https://open.spotify.com/album/7itmb3rK26AZtLbdzy8QNQ"
-      },
-      "artists": [
-        {
-          "name": "CAIN",
-          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
-        },
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 175090,
-      "name": "I'm So Blessed - Aaron Cole Mix",
-      "url": "https://open.spotify.com/track/5OjLmBBHKM9bt99wYGpmTe"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -795,6 +775,26 @@
       "duration_ms": 223815,
       "name": "Invited",
       "url": "https://open.spotify.com/track/7y5x9ZsfnVZKd5nyL7ekqp"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "I'm So Blessed (Aaron Cole Mix)",
+        "url": "https://open.spotify.com/album/7itmb3rK26AZtLbdzy8QNQ"
+      },
+      "artists": [
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        },
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 175090,
+      "name": "I'm So Blessed - Aaron Cole Mix",
+      "url": "https://open.spotify.com/track/5OjLmBBHKM9bt99wYGpmTe"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -883,26 +883,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "The Commission (Go Tell The World)",
-        "url": "https://open.spotify.com/album/0vXN44A8CS4pnk3yv1hvPy"
-      },
-      "artists": [
-        {
-          "name": "CAIN",
-          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
-        },
-        {
-          "name": "Isaiah Templeton",
-          "url": "https://open.spotify.com/artist/4atJuIvhr9uWLmxl1ixfG5"
-        }
-      ],
-      "duration_ms": 245475,
-      "name": "The Commission (Go Tell The World) (feat. Isaiah Templeton)",
-      "url": "https://open.spotify.com/track/3yGHfPi206znPB31iyOSbV"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "The Stonebrook Project",
         "url": "https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 223586,
       "name": "Then Christ Came",
       "url": "https://open.spotify.com/track/3NRIwbb9GycU284G6MCZkM"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "The Commission (Go Tell The World)",
+        "url": "https://open.spotify.com/album/0vXN44A8CS4pnk3yv1hvPy"
+      },
+      "artists": [
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        },
+        {
+          "name": "Isaiah Templeton",
+          "url": "https://open.spotify.com/artist/4atJuIvhr9uWLmxl1ixfG5"
+        }
+      ],
+      "duration_ms": 245475,
+      "name": "The Commission (Go Tell The World) (feat. Isaiah Templeton)",
+      "url": "https://open.spotify.com/track/3yGHfPi206znPB31iyOSbV"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "While I Can",
-        "url": "https://open.spotify.com/album/6CA3wQ1FPOU52vhvWYgJGV"
-      },
-      "artists": [
-        {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
-        }
-      ],
-      "duration_ms": 186029,
-      "name": "While I Can",
-      "url": "https://open.spotify.com/track/6o3KtG52dLuCm6MYPqVU1C"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Friend In Jesus (Live)",
         "url": "https://open.spotify.com/album/2h2Lt5nJbH7muL3lIS7mch"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 348141,
       "name": "Friend In Jesus - Live",
       "url": "https://open.spotify.com/track/5mg7ppgQFoJAjq0fzfKRLX"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "While I Can",
+        "url": "https://open.spotify.com/album/6CA3wQ1FPOU52vhvWYgJGV"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "duration_ms": 186029,
+      "name": "While I Can",
+      "url": "https://open.spotify.com/track/6o3KtG52dLuCm6MYPqVU1C"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "My Tribute (To God Be The Glory)",
-        "url": "https://open.spotify.com/album/1qaeNHwNFPFbOviqzzhEVt"
-      },
-      "artists": [
-        {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
-        },
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 341986,
-      "name": "My Tribute (To God Be The Glory)",
-      "url": "https://open.spotify.com/track/6SlbC6p7ZZD73bhjARDV86"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "New Creation",
         "url": "https://open.spotify.com/album/2Z7wHh6bogC6Lc5qqsHWV8"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 192907,
       "name": "New Creation",
       "url": "https://open.spotify.com/track/2qlmkLwJ5ateyMMH3gXka9"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "My Tribute (To God Be The Glory)",
+        "url": "https://open.spotify.com/album/1qaeNHwNFPFbOviqzzhEVt"
+      },
+      "artists": [
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        },
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 341986,
+      "name": "My Tribute (To God Be The Glory)",
+      "url": "https://open.spotify.com/track/6SlbC6p7ZZD73bhjARDV86"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1167,22 +1167,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "You Changed My Name (Jon Reddick Collab Version)",
-        "url": "https://open.spotify.com/album/1hGZNecvgaMDhRHpdB9y9C"
+        "name": "Jesus Music",
+        "url": "https://open.spotify.com/album/3kjQ9mZ8SWjp7q5USnlmG0"
       },
       "artists": [
         {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
-        },
-        {
-          "name": "Jon Reddick",
-          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
         }
       ],
-      "duration_ms": 236261,
-      "name": "You Changed My Name - Jon Reddick Collab Version",
-      "url": "https://open.spotify.com/track/5EQSJElOqQQwiVFvgIqkKh"
+      "duration_ms": 250840,
+      "name": "Jesus Music",
+      "url": "https://open.spotify.com/track/2XaoDKLrO6WjtsAImXM6dz"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1211,18 +1207,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Jesus Music",
-        "url": "https://open.spotify.com/album/3kjQ9mZ8SWjp7q5USnlmG0"
+        "name": "You Changed My Name (Jon Reddick Collab Version)",
+        "url": "https://open.spotify.com/album/1hGZNecvgaMDhRHpdB9y9C"
       },
       "artists": [
         {
-          "name": "CAIN",
-          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        },
+        {
+          "name": "Jon Reddick",
+          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
         }
       ],
-      "duration_ms": 250840,
-      "name": "Jesus Music",
-      "url": "https://open.spotify.com/track/2XaoDKLrO6WjtsAImXM6dz"
+      "duration_ms": 236261,
+      "name": "You Changed My Name - Jon Reddick Collab Version",
+      "url": "https://open.spotify.com/track/5EQSJElOqQQwiVFvgIqkKh"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Miracle Time",
-        "url": "https://open.spotify.com/album/2To3QHpsCIJqR11q4W7R3k"
-      },
-      "artists": [
-        {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
-        }
-      ],
-      "duration_ms": 260133,
-      "name": "Miracle Time",
-      "url": "https://open.spotify.com/track/6HXFMfXNHaJGIBzQ9glsMX"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Hills Of Tyrone",
         "url": "https://open.spotify.com/album/7jiDpHKjW1ZitkptGTpp2v"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 209390,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/4BN0k321aIFLpaxxtwO23x"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Miracle Time",
+        "url": "https://open.spotify.com/album/2To3QHpsCIJqR11q4W7R3k"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "duration_ms": 260133,
+      "name": "Miracle Time",
+      "url": "https://open.spotify.com/track/6HXFMfXNHaJGIBzQ9glsMX"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1351,18 +1351,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "SUNDAY IS COMING \u2022 HOMETOWN VERSION",
-        "url": "https://open.spotify.com/album/5M8QVTJtlTKM71Ra9XpfC4"
+        "name": "Good Lord",
+        "url": "https://open.spotify.com/album/6m0JzlLDkr7eDuzB8SOXBt"
       },
       "artists": [
         {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        },
+        {
+          "name": "Katy Nichole",
+          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
         }
       ],
-      "duration_ms": 323384,
-      "name": "SUNDAY IS COMING \u2022 HOMETOWN VERSION",
-      "url": "https://open.spotify.com/track/5qL4YNkSHPLiwHZQaPuZl8"
+      "duration_ms": 202708,
+      "name": "Good Lord (feat. Katy Nichole)",
+      "url": "https://open.spotify.com/track/63lYvDRx5ySVsjwVzQF9YJ"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1383,22 +1387,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Good Lord",
-        "url": "https://open.spotify.com/album/6m0JzlLDkr7eDuzB8SOXBt"
+        "name": "SUNDAY IS COMING \u2022 HOMETOWN VERSION",
+        "url": "https://open.spotify.com/album/5M8QVTJtlTKM71Ra9XpfC4"
       },
       "artists": [
         {
-          "name": "David Leonard",
-          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
-        },
-        {
-          "name": "Katy Nichole",
-          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 202708,
-      "name": "Good Lord (feat. Katy Nichole)",
-      "url": "https://open.spotify.com/track/63lYvDRx5ySVsjwVzQF9YJ"
+      "duration_ms": 323384,
+      "name": "SUNDAY IS COMING \u2022 HOMETOWN VERSION",
+      "url": "https://open.spotify.com/track/5qL4YNkSHPLiwHZQaPuZl8"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Caedmon's Call",
-        "url": "https://open.spotify.com/album/6ptgSZ2JdSNK5TfU8s4B7A"
-      },
-      "artists": [
-        {
-          "name": "Caedmon's Call",
-          "url": "https://open.spotify.com/artist/0K1BPXwAU1CTd8DNZohopA"
-        }
-      ],
-      "duration_ms": 241893,
-      "name": "Lead of Love",
-      "url": "https://open.spotify.com/track/0o8tEsgdKFeCy1ScEi4tiM"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "My Life Is Proof (Studio Sessions)",
         "url": "https://open.spotify.com/album/0TDuvrKYKSZhld2IW3cfiA"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 251450,
       "name": "My Life Is Proof - Studio Sessions",
       "url": "https://open.spotify.com/track/49WRG6DxWFrvHpYZsXNbuN"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Caedmon's Call",
+        "url": "https://open.spotify.com/album/6ptgSZ2JdSNK5TfU8s4B7A"
+      },
+      "artists": [
+        {
+          "name": "Caedmon's Call",
+          "url": "https://open.spotify.com/artist/0K1BPXwAU1CTd8DNZohopA"
+        }
+      ],
+      "duration_ms": 241893,
+      "name": "Lead of Love",
+      "url": "https://open.spotify.com/track/0o8tEsgdKFeCy1ScEi4tiM"
     },
     {
       "added_at": "2024-03-29 04:00:00",

@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 581964,
+  "2024-05-03": 582920,
   "date_first_scraped": "2021-12-21",
   "description": "Dip your feet in the pool and enjoy this perfect summer house mix \u2600\ufe0f\u200a",
   "name": "Summer House 2024",
@@ -4245,7 +4245,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 182750,
       "name": "Now or Never",
       "url": "https://open.spotify.com/track/6nNXTSvVO6ue9Ywshh4PZ4"
@@ -5285,6 +5285,32 @@
       "duration_ms": 157142,
       "name": "Summer Breeze",
       "url": "https://open.spotify.com/track/0vWU8AomBJnPyOkETik1L0"
+    },
+    {
+      "album": {
+        "name": "Summertime Blues (feat. Nathan Nicholson)",
+        "url": "https://open.spotify.com/album/7ddG8bsJLWEgVNONjhnT8z"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251201,
+      "name": "Summertime Blues (feat. Nathan Nicholson)",
+      "url": "https://open.spotify.com/track/6q36Cqt2d3O5jqrQR9uXCp"
     },
     {
       "album": {

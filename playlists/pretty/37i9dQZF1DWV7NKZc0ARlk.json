@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos del pop suenan mejor en vivo. Foto: Thalia ",
-  "num_followers": 174796,
+  "num_followers": 175091,
   "original_name": "Vivo de Pop",
   "owner": {
     "name": "Spotify",
@@ -735,26 +735,6 @@
     {
       "added_at": "2024-03-12 17:53:16",
       "album": {
-        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara [En Vivo]",
-        "url": "https://open.spotify.com/album/2pYAi581eUrOxSGWMuN5dH"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 271000,
-      "name": "Amor, Amor de Mis Amores (with Ximena Sari\u00f1ana) - En Vivo [Sala Telef\u00f3nica del Centro Cultural Roberto Cantoral]",
-      "url": "https://open.spotify.com/track/1xUUwulH27eH1TPa1faebX"
-    },
-    {
-      "added_at": "2024-03-12 17:53:16",
-      "album": {
         "name": "Tour Terral (Tres noches en Las Ventas)",
         "url": "https://open.spotify.com/album/3b2X7VxxfTCFRJQkShaJhc"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 297205,
       "name": "Qui\u00e9n (feat. Alejandro Sanz) - En directo",
       "url": "https://open.spotify.com/track/6a46HjzJUcpUGEsbwvEh9E"
+    },
+    {
+      "added_at": "2024-03-12 17:53:16",
+      "album": {
+        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara [En Vivo]",
+        "url": "https://open.spotify.com/album/2pYAi581eUrOxSGWMuN5dH"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "Amor, Amor de Mis Amores (with Ximena Sari\u00f1ana) - En Vivo [Sala Telef\u00f3nica del Centro Cultural Roberto Cantoral]",
+      "url": "https://open.spotify.com/track/1xUUwulH27eH1TPa1faebX"
     },
     {
       "added_at": "2024-03-12 17:53:16",

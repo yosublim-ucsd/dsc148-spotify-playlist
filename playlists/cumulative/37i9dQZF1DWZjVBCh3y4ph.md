@@ -2,9 +2,9 @@
 
 ### [Zouk Station](https://open.spotify.com/playlist/37i9dQZF1DWZjVBCh3y4ph)
 
-> Les hits zouk du moment\. Photo : Senyss x Lucas Seb
+> Les hits zouk du moment\. Photo : Mik L x Nesly
 
-111 songs - 5 hr 57 min
+112 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Dimension \- Radio edit](https://open.spotify.com/track/7FR3FUSLOLHtN8RjFs6kQY) | [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ) | [Dimension](https://open.spotify.com/album/67C9O2mvhwm5IzinjXT3ns) | 3:38 | 2023-09-28 | 2023-12-08 |
 | [Dis\-moi](https://open.spotify.com/track/4NxvcmdBmR04g4nsfrhMsO) | [Kueena](https://open.spotify.com/artist/2N8ozOg61bquXNTapBfdm7), [Nayane](https://open.spotify.com/artist/2fphOBIhmkJp2O5Gqxlj4t) | [Dis\-moi](https://open.spotify.com/album/77QQGSVPna5U1nwnARigxr) | 3:28 | 2024-01-25 | 2024-04-12 |
 | [Distance](https://open.spotify.com/track/7nsSPDkAfMev9eH1vjcknr) | [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6), [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF) | [Oniro](https://open.spotify.com/album/4aUmWbfmvQRvY5dq7Kwol8) | 3:13 | 2023-09-28 | 2023-10-20 |
-| [Doucement](https://open.spotify.com/track/2488TlZqyBhCGguo7Vuufm) | [Kailyn](https://open.spotify.com/artist/4xErERAoqrxnCgLiSz4uV4), [Rohane](https://open.spotify.com/artist/4sOYdAl0sCehEnO9T1BqS4) | [Doucement](https://open.spotify.com/album/4COlUkMnr9hAg2AoveGDId) | 4:01 | 2024-01-25 |  |
+| [Doucement](https://open.spotify.com/track/2488TlZqyBhCGguo7Vuufm) | [Kailyn](https://open.spotify.com/artist/4xErERAoqrxnCgLiSz4uV4), [Rohane](https://open.spotify.com/artist/4sOYdAl0sCehEnO9T1BqS4) | [Doucement](https://open.spotify.com/album/4COlUkMnr9hAg2AoveGDId) | 4:01 | 2024-01-25 | 2024-05-03 |
 | [Doudou](https://open.spotify.com/track/4jxoCg2Jl4GLqafbR57DOe) | [Manise](https://open.spotify.com/artist/7lmDLnNHkUvxWJCpqDtdf9) | [Doudou](https://open.spotify.com/album/2ZoUm0yBjaLMlmBCD3VDGc) | 2:42 | 2023-10-05 | 2023-12-22 |
 | [Doudou](https://open.spotify.com/track/07MUZzeKyEIw5iTRJYK4YQ) | [Priscillia](https://open.spotify.com/artist/08BtABqyRZTgHfc97fVZrK), [Blicassty](https://open.spotify.com/artist/1MbUL0JryiwgLoPNX8esk6) | [Doudou](https://open.spotify.com/album/4ptvCJd4nK0GDF7EPB7XC3) | 3:30 | 2023-09-28 | 2024-01-26 |
 | [DOUX](https://open.spotify.com/track/2kxYhc00snAqzYVhQMOmFn) | [LOANA](https://open.spotify.com/artist/7v79OklJLpETja35YteNgT) | [DOUX](https://open.spotify.com/album/27haWl4XrngKEoMiDP8yAY) | 3:31 | 2024-02-08 | 2024-03-29 |
@@ -81,6 +81,7 @@
 | [OXYGEN](https://open.spotify.com/track/4ZZZqHNebHX4LxhF2kvMPZ) | [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ) | [OXYGEN](https://open.spotify.com/album/5a844k8EwfScZh7aLUGEPv) | 3:35 | 2024-02-15 |  |
 | [Pa Nowmal](https://open.spotify.com/track/3aAaM7HdWoXHjB2RHLoteu) | [Matieu White](https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9) | [Pa Nowmal](https://open.spotify.com/album/6H26y2puPTgrK0xxyFB9kJ) | 3:47 | 2024-02-08 |  |
 | [Piment](https://open.spotify.com/track/1f6EwfjaBu3O5uzJ0p5IQr) | [Romy Rose](https://open.spotify.com/artist/0McCULnP8KpnUqIPSttJ2a) | [Piment](https://open.spotify.com/album/44VUYrsApFS6oxUNy1Hk9E) | 2:29 | 2023-10-19 | 2023-11-17 |
+| [PLAN B](https://open.spotify.com/track/7azy3NmFHCyQt8VdJTP2LH) | [Dof'](https://open.spotify.com/artist/6AnXu050pLMVM8MTNZstJr), [Nesly](https://open.spotify.com/artist/7mlT0u4rarQ2SkRMEWme8L) | [PLAN B](https://open.spotify.com/album/0uoTpwgUk6TLiXLivtmpXG) | 3:21 | 2024-05-02 |  |
 | [Pleine Lune](https://open.spotify.com/track/60RHfwL5e8P00ayxuZudbd) | [Lycinaïs Jean](https://open.spotify.com/artist/5ShHE0kTc87fQ2Bt5Q1knN) | [Pleine Lune](https://open.spotify.com/album/30hnVckTGUxSXAxujoickw) | 2:30 | 2023-09-28 | 2023-11-24 |
 | [Plus jamais](https://open.spotify.com/track/6YFfWqhOFJLGFoFnVh9cD8) | [Dieson Samba](https://open.spotify.com/artist/4IJNkk3UY2TjVpL4T2z1ki) | [Plus jamais](https://open.spotify.com/album/7Ci1bhLCiQxurTW9S0JiKT) | 2:29 | 2024-02-29 | 2024-04-19 |
 | [Poko](https://open.spotify.com/track/3qkpKchbHLmzSufzbC0hJF) | [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E), [Richard Cavé](https://open.spotify.com/artist/0FaUMI5rw8I5C7T77ZCNvm) | [Boss](https://open.spotify.com/album/4Jpxj0EZTxnagZyALYPXov) | 3:35 | 2023-11-23 | 2024-01-26 |

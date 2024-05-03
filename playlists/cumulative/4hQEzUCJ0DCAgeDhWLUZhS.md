@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-424 songs - 1 day 0 hr 58 min
+426 songs - 1 day 1 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Burn the Empire](https://open.spotify.com/track/48DUNYVEDqSI2hrJtpRnmO) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Burn The Empire](https://open.spotify.com/album/6BgkyzQB8gTalZfDJrxluD) | 3:07 | 2021-11-25 |  |
 | [Calm Down \(A Little Bit Louder Now\)](https://open.spotify.com/track/0mtGnMCDl70UkOi3VRnzY2) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Calm Down \(A Little Bit Louder Now\)](https://open.spotify.com/album/69u1Q1ds3YWF8VDM8rhJu6) | 2:42 | 2023-08-11 |  |
 | [Canals](https://open.spotify.com/track/6ubLURl6xHWIYPZ7nz0rTF) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Canals](https://open.spotify.com/album/5312yUhAkaR0kRV7I5I0Dk) | 4:33 | 2020-10-10\* | 2021-02-25 |
+| [Centrefold](https://open.spotify.com/track/39CUQzr2y8rluRE3ynYz6y) | [Muzzle](https://open.spotify.com/artist/5VgVGiD89IFKNsQ1n8d9Zd) | [Centrefold](https://open.spotify.com/album/0pFEJBM6VB29KM1E3W5hEi) | 2:29 | 2024-05-03 |  |
 | [Ceremony](https://open.spotify.com/track/2X5SHv5ubRTNIgMxxCPYdo) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Ohms](https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd) | 3:27 | 2020-10-15 | 2022-03-18 |
 | [Chances Are](https://open.spotify.com/track/73vlVDlp4rSd8SaiccnbtN) | [Forenzics](https://open.spotify.com/artist/2h7NTTkRJls7myYtPUZcG3), [Split Enz](https://open.spotify.com/artist/0Upmz8QvuLAkKAfRlJYWTL), [Tim Finn](https://open.spotify.com/artist/6OIoPLnbAe0U4k1NFjqIyN) | [Chances Are](https://open.spotify.com/album/6YegMkVMKI8lJIOk7ynY6h) | 3:19 | 2021-11-12 |  |
 | [Change](https://open.spotify.com/track/3EPSnqfDkva43w9NdrfFmU) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [I Don’t Live Here Anymore](https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB) | 6:04 | 2021-10-29 |  |
@@ -293,6 +294,7 @@
 | [Rat Child](https://open.spotify.com/track/66CEx5RXkj0REpMhl0CmQ5) | [Crobot](https://open.spotify.com/artist/4ygqEKxbe61knnDaodGFmi) | [Rat Child](https://open.spotify.com/album/1tYVq6PBS2N0lEiZ8Hq4KE) | 5:01 | 2021-06-19 | 2022-03-18 |
 | [Re\-Entry \(feat\. Mark Hoppus\)](https://open.spotify.com/track/2f2WCKwB1r2SH7AvJc0P8W) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN), [Mark Hoppus](https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g) | [Re\-Entry \(feat\. Mark Hoppus\)](https://open.spotify.com/album/1HVOuAKPRBI8oBT76slmdv) | 2:52 | 2022-01-21 |  |
 | [Ready For the High](https://open.spotify.com/track/4Md0lS45w5oNNmWL8OS3AV) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Ready For The High](https://open.spotify.com/album/7BAyGMOoV9VObrZfb3tfWJ) | 4:05 | 2021-10-14 |  |
+| [REAL LIFE LOVE](https://open.spotify.com/track/49yU18gEsAQOdG0DOniBAJ) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [REAL LIFE LOVE](https://open.spotify.com/album/4K0wN1Zxq586UNyMt4z5C5) | 3:02 | 2024-05-03 |  |
 | [Rebellion](https://open.spotify.com/track/2vAHaeRao9MnplV6iMgDoP) | [Tumbleweed](https://open.spotify.com/artist/2w4WMdg6Y7KE43OebGxO1r) | [Rebellion](https://open.spotify.com/album/6fnVdLPeorhz9lT5Za4gzb) | 3:47 | 2020-11-20 | 2022-03-18 |
 | [Reckless Paradise](https://open.spotify.com/track/3hjCqnOScnTmhv2Xvvv8Mq) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Reckless Paradise](https://open.spotify.com/album/1zYdvy9dnTxx75KLhqZ9xD) | 3:24 | 2020-10-10\* | 2021-05-13 |
 | [Regret Me](https://open.spotify.com/track/3l5qEpePfGDv6ZFYWRNNtq) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [AURORA](https://open.spotify.com/album/4ouqACcnzsOvtUlnj5abyo) | 3:16 | 2023-03-08 |  |

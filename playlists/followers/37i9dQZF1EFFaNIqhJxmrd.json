@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 80,
+  "2024-05-03": 81,
   "date_first_scraped": "2024-01-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/2tl6tGvyHMK5cyDc38ZF7I\">Fanny Hultman</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Fanny Hultman",
@@ -1399,6 +1399,24 @@
       "duration_ms": 220414,
       "name": "Rathana",
       "url": "https://open.spotify.com/track/4sdQxjTvfxY9KkvQDAcDYt"
+    },
+    {
+      "album": {
+        "name": "IVE SWITCH",
+        "url": "https://open.spotify.com/album/5IEMUcisVV23gFbC471rTy"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161280,
+      "name": "RESET",
+      "url": "https://open.spotify.com/track/2peKpF1i9muFKph6JtBTvN"
     },
     {
       "album": {

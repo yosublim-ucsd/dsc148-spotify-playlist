@@ -1671,6 +1671,24 @@
     },
     {
       "album": {
+        "name": "No Biggie",
+        "url": "https://open.spotify.com/album/1urYBW5vhEnfX0zzdKvpoX"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181466,
+      "name": "No Biggie",
+      "url": "https://open.spotify.com/track/3o4FOm8UEvjbTignWbKxYr"
+    },
+    {
+      "album": {
         "name": "IT'z ME",
         "url": "https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U"
       },

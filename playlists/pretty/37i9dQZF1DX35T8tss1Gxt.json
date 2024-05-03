@@ -1,6 +1,6 @@
 {
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover:  <a href=\"spotify:artist:7z7byOJ4AJnMY2NHE66ZpW\">DOE</a>",
-  "num_followers": 238494,
+  "num_followers": 238584,
   "original_name": "Rhythm & Praise",
   "owner": {
     "name": "Spotify",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Wilder Wonderland",
-        "url": "https://open.spotify.com/album/5SrfybzLy0wP66xzsUyLDF"
-      },
-      "artists": [
-        {
-          "name": "V. Rose",
-          "url": "https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom"
-        }
-      ],
-      "duration_ms": 220684,
-      "name": "Just Wondering",
-      "url": "https://open.spotify.com/track/18llnkPVNrqx3XRfsU9IVy"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "Lover of My Soul",
         "url": "https://open.spotify.com/album/2S3qRBiuvL9pD5oHPvobHd"
       },
@@ -1107,22 +1091,18 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Simple Ways",
-        "url": "https://open.spotify.com/album/7vs8N6AbGXg8i0K4y6aEpc"
+        "name": "Wilder Wonderland",
+        "url": "https://open.spotify.com/album/5SrfybzLy0wP66xzsUyLDF"
       },
       "artists": [
         {
-          "name": "Zahriya Zachary",
-          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
-        },
-        {
-          "name": "Bethany Wohrle",
-          "url": "https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e"
+          "name": "V. Rose",
+          "url": "https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom"
         }
       ],
-      "duration_ms": 177214,
-      "name": "Simple Ways",
-      "url": "https://open.spotify.com/track/4pRmJstStQ4d23TUhjDj6a"
+      "duration_ms": 220684,
+      "name": "Just Wondering",
+      "url": "https://open.spotify.com/track/18llnkPVNrqx3XRfsU9IVy"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1139,6 +1119,26 @@
       "duration_ms": 174409,
       "name": "SURREAL",
       "url": "https://open.spotify.com/track/2aWCddpZS2rHZyXlqpHt4H"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Simple Ways",
+        "url": "https://open.spotify.com/album/7vs8N6AbGXg8i0K4y6aEpc"
+      },
+      "artists": [
+        {
+          "name": "Zahriya Zachary",
+          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
+        },
+        {
+          "name": "Bethany Wohrle",
+          "url": "https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e"
+        }
+      ],
+      "duration_ms": 177214,
+      "name": "Simple Ways",
+      "url": "https://open.spotify.com/track/4pRmJstStQ4d23TUhjDj6a"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Mr. McClure",
-        "url": "https://open.spotify.com/album/0q9anux1BAeqdaulGxibU7"
-      },
-      "artists": [
-        {
-          "name": "Pastor Mike Jr.",
-          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
-        }
-      ],
-      "duration_ms": 197254,
-      "name": "Mr. McClure",
-      "url": "https://open.spotify.com/track/32FopMR4tx27RZMkXmkyvV"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "True Love",
         "url": "https://open.spotify.com/album/7nzPtsAF728Ku6zUeWrzpf"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 222918,
       "name": "True Love",
       "url": "https://open.spotify.com/track/1d243Cx7wTKXSixtGsDINB"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Mr. McClure",
+        "url": "https://open.spotify.com/album/0q9anux1BAeqdaulGxibU7"
+      },
+      "artists": [
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+        }
+      ],
+      "duration_ms": 197254,
+      "name": "Mr. McClure",
+      "url": "https://open.spotify.com/track/32FopMR4tx27RZMkXmkyvV"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "More In Seconds",
-        "url": "https://open.spotify.com/album/6D8jfseyzo6aID0WbA5pgj"
-      },
-      "artists": [
-        {
-          "name": "Darla Baltazar",
-          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
-        }
-      ],
-      "duration_ms": 244493,
-      "name": "More In Seconds",
-      "url": "https://open.spotify.com/track/6Jiyh1uhwo7q2I8Yx9vgsT"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "SO MUCH",
         "url": "https://open.spotify.com/album/1LHx6JeLDqE2reKEZFNUbY"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 186888,
       "name": "SO MUCH",
       "url": "https://open.spotify.com/track/1dtlsS6d2HWcc6dn2CmRIR"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "More In Seconds",
+        "url": "https://open.spotify.com/album/6D8jfseyzo6aID0WbA5pgj"
+      },
+      "artists": [
+        {
+          "name": "Darla Baltazar",
+          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
+        }
+      ],
+      "duration_ms": 244493,
+      "name": "More In Seconds",
+      "url": "https://open.spotify.com/track/6Jiyh1uhwo7q2I8Yx9vgsT"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Let It Be Your Will",
-        "url": "https://open.spotify.com/album/0MK1wRUYjX4kp0MwDOnFJs"
-      },
-      "artists": [
-        {
-          "name": "Dwan Hill",
-          "url": "https://open.spotify.com/artist/3JviNpSnB2gu3sUo8qdEOQ"
-        }
-      ],
-      "duration_ms": 250295,
-      "name": "Let It Be Your Will",
-      "url": "https://open.spotify.com/track/4c6cmc4E57dKujV20KAa4I"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "True (Live)",
         "url": "https://open.spotify.com/album/0p2NpAQkfSq3o1aZWx883k"
       },
@@ -1527,22 +1511,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Armor",
-        "url": "https://open.spotify.com/album/5gxV2jkgNgFpKKOmG65jk5"
-      },
-      "artists": [
-        {
-          "name": "Seth & Nirva",
-          "url": "https://open.spotify.com/artist/4Om5bNcFn2zgwJPWXbTDJL"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Armor",
-      "url": "https://open.spotify.com/track/4FE0pyeci5eZpJuTVE6s9C"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "LESS OF ME",
         "url": "https://open.spotify.com/album/0U34KFIWHZpyHAGOgULglF"
       },
@@ -1555,6 +1523,38 @@
       "duration_ms": 238545,
       "name": "LESS OF ME",
       "url": "https://open.spotify.com/track/7hTsieYGUm5VxZJlfLvVe1"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Let It Be Your Will",
+        "url": "https://open.spotify.com/album/0MK1wRUYjX4kp0MwDOnFJs"
+      },
+      "artists": [
+        {
+          "name": "Dwan Hill",
+          "url": "https://open.spotify.com/artist/3JviNpSnB2gu3sUo8qdEOQ"
+        }
+      ],
+      "duration_ms": 250295,
+      "name": "Let It Be Your Will",
+      "url": "https://open.spotify.com/track/4c6cmc4E57dKujV20KAa4I"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Armor",
+        "url": "https://open.spotify.com/album/5gxV2jkgNgFpKKOmG65jk5"
+      },
+      "artists": [
+        {
+          "name": "Seth & Nirva",
+          "url": "https://open.spotify.com/artist/4Om5bNcFn2zgwJPWXbTDJL"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Armor",
+      "url": "https://open.spotify.com/track/4FE0pyeci5eZpJuTVE6s9C"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "distracted",
-        "url": "https://open.spotify.com/album/1VY8DtPk4yIBMfUQAjW9Hq"
-      },
-      "artists": [
-        {
-          "name": "Paul the Messenger",
-          "url": "https://open.spotify.com/artist/2UbUpUm5AVacCH9eYrIkPD"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "distracted",
-      "url": "https://open.spotify.com/track/0NC76K7AdwvZC4gm7dYjWI"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "Authenticity",
         "url": "https://open.spotify.com/album/4xfYvwxhrCFNXfWdupmeHv"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 171806,
       "name": "Authenticity",
       "url": "https://open.spotify.com/track/0OTpRTiPww0PGHtXila6tx"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "distracted",
+        "url": "https://open.spotify.com/album/1VY8DtPk4yIBMfUQAjW9Hq"
+      },
+      "artists": [
+        {
+          "name": "Paul the Messenger",
+          "url": "https://open.spotify.com/artist/2UbUpUm5AVacCH9eYrIkPD"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "distracted",
+      "url": "https://open.spotify.com/track/0NC76K7AdwvZC4gm7dYjWI"
     },
     {
       "added_at": "2024-01-12 07:49:20",

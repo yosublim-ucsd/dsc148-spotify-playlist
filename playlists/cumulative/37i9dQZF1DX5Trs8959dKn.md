@@ -4,13 +4,13 @@
 
 > Knees go down and the prayers go up
 
-93 songs - 11 hr 0 min
+94 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aileyipada](https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Aileyipada](https://open.spotify.com/album/2srl7GFgmEg0w9BleWvGOJ) | 6:35 | 2024-03-21 |  |
 | [All I Have Is You](https://open.spotify.com/track/6SSydoQ1h6OPTJ4JxoSRAS) | [Mr Mekoyo](https://open.spotify.com/artist/5atQbVe5DeUlSlDCamrC3n) | [All I Have Is You](https://open.spotify.com/album/6Rhao26zetb6OYBlMM7hqf) | 5:40 | 2023-04-06 | 2023-04-30 |
-| [All the Glory](https://open.spotify.com/track/21TNIJLjRY22md0LWvtGtc) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [Nations Will Rise and Sing](https://open.spotify.com/album/1M6f4SoC0VXNZoo9yMPOhV) | 5:17 | 2023-04-06 |  |
+| [All the Glory](https://open.spotify.com/track/21TNIJLjRY22md0LWvtGtc) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [Nations Will Rise and Sing](https://open.spotify.com/album/1M6f4SoC0VXNZoo9yMPOhV) | 5:17 | 2023-04-06 | 2024-05-03 |
 | [Amazing God](https://open.spotify.com/track/0NtWw4mWMpScT8b9m6unIu) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Suddenly + Amazing God \(Double Single\)](https://open.spotify.com/album/79mjv5qhSTzJ3gMM8k7lMS) | 4:56 | 2023-04-06 | 2024-03-21 |
 | [Amazing God](https://open.spotify.com/track/5k5659U0Gb6p0w3koQaNJu) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Suddenly + Amazing God \(Double Single\)](https://open.spotify.com/album/1kBd76gF9G6AAFS3Ss1DMR) | 4:56 | 2024-02-23 | 2024-04-19 |
 | [Awesome God](https://open.spotify.com/track/5EZB6od9Xce4q2WinCfhIM) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Chapter One](https://open.spotify.com/album/7JssBmu17Xn85hGOFZWvZZ) | 5:17 | 2023-04-06 | 2023-08-24 |
@@ -100,6 +100,7 @@
 | [Yeshua \(Worship Rendition\)](https://open.spotify.com/track/6KxgjgVDbiAnRB2SZhcu0h) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Yeshua \(Worship Rendition\)](https://open.spotify.com/album/0KTOUGmGuoO81AVc4ro4EO) | 3:36 | 2024-04-05 |  |
 | [You Always Win](https://open.spotify.com/track/7IXDG5wWAC7TqoWAddT5rx) | [Wura Mercé](https://open.spotify.com/artist/0cgOd3FsFScsYB7dN5jRfN), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [You Always Win](https://open.spotify.com/album/3bNnM2VEM979HyZF40JxKh) | 4:13 | 2024-04-05 |  |
 | [You are Yahweh](https://open.spotify.com/track/1FubXlwFRsFyyeqH5KodDG) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [Faith is Rising](https://open.spotify.com/album/18nzvmXhBvp2i4Rj5kgkQs) | 4:39 | 2023-04-06 |  |
+| [You Have Done Me Well](https://open.spotify.com/track/4j9hSEJPFCUHFIF6qkpzEl) | [Olivertherain](https://open.spotify.com/artist/64E0RwV7Qxl8GSiaHHNbmh), [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [You Have Done Me Well](https://open.spotify.com/album/2wvMaXM7YTDCE3dE1Aohxt) | 4:56 | 2024-05-03 |  |
 | [You I Live For](https://open.spotify.com/track/7mMwtNX7X3X6NLtkOQextq) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Too Faithful](https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN) | 5:18 | 2023-04-06 |  |
 
 \*This playlist was first scraped on 2023-04-07. Prior content cannot be recovered.

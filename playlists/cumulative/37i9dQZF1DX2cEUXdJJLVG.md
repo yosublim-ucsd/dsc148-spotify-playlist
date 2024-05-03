@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-341 songs - 20 hr 21 min
+343 songs - 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,6 +312,7 @@
 | [The Baddest](https://open.spotify.com/track/6rcITsBAtOZV2m7p7faldT) | [DiRTY RADiO](https://open.spotify.com/artist/7bhcf6U7Lu1Ra9u0oWLM5x), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [The Baddest](https://open.spotify.com/album/6FDTsaviz1llJDeaAT58Ys) | 3:15 | 2022-09-09 | 2022-09-16 |
 | [The Break Up \- Emma\-Jean Thackray Remix \- Edit](https://open.spotify.com/track/1n1786JvfDmDCQYF47PZS0) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [The Break Up \(Emma\-Jean Thackray Remix \- Edit\)](https://open.spotify.com/album/69I5CLWR6RiXC6amjakPWt) | 4:47 | 2023-03-07 | 2023-10-05 |
 | [The Break Up \- Emma\-Jean Thackray Remix \- Edit](https://open.spotify.com/track/1nOq8ccv98cYy9lKigOvDq) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [The Break Up \(Emma\-Jean Thackray Remix \- Edit\)](https://open.spotify.com/album/7bbu5LxDVqPZh45KdRuR0R) | 4:47 | 2022-09-09 | 2023-03-09 |
+| [The Light](https://open.spotify.com/track/1BvbFjLtesDFeA2fjT1jt8) | [Rachel Robinson](https://open.spotify.com/artist/6X0YXY6bwynFIPUu7Qc97g), [Rich](https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ), [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi) | [The Light](https://open.spotify.com/album/0IKOdP4WsG2FIVUPHqxzUR) | 2:34 | 2024-05-02 |  |
 | [The Light \(feat\. Darren Fewins\)](https://open.spotify.com/track/3p16tfsbEW5JVwoVHlbWuD) | [The Groove Supplier](https://open.spotify.com/artist/2DFdxWIx41TkkNuFIjhVbE), [Darren Fewins](https://open.spotify.com/artist/5CLtyznkyb4Eh3dcKokAiD) | [The Light \(feat\. Darren Fewins\)](https://open.spotify.com/album/3sCbtWFjWgxiBo4IjmjR3e) | 4:01 | 2022-09-09 |  |
 | [The Recipe](https://open.spotify.com/track/2WyedZ7owuPdgT4tcHhdo5) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Renaissance](https://open.spotify.com/album/0cFJfTwmx4KOM9zEy9i2nB) | 3:22 | 2022-09-09 | 2022-10-15 |
 | [Therapy](https://open.spotify.com/track/7rO5L6Eo85xO0fBJ6YKK27) | [Myele Manzanza](https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd), [Omar](https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z) | [Therapy](https://open.spotify.com/album/0Rbs0JsOZzn5cbVVePLNpJ) | 4:36 | 2022-09-29 | 2024-03-21 |
@@ -332,6 +333,7 @@
 | [Vibe of Summer](https://open.spotify.com/track/2Vbop7qUGV7sLfJst1aUXe) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [NEON](https://open.spotify.com/album/1vZo2FBorjIp6TuYdjV3GA) | 3:27 | 2022-10-14 | 2023-07-11 |
 | [Vibe of Summer](https://open.spotify.com/track/3bNTws4fs7hgliXbfBmN3d) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [NEON](https://open.spotify.com/album/1TgpfmHtQM4sUrGowYTtn2) | 3:27 | 2022-09-09 | 2022-10-15 |
 | [Vida Delicia \- Edit](https://open.spotify.com/track/1LI47sRJcBDz1s91wpbAsf) | [Menesix](https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ), [Iara \(BR\)](https://open.spotify.com/artist/1nbBC07aGOuB6e6jlhqWSv) | [Jungle Trip \(Edit Versions\)](https://open.spotify.com/album/1MJMWMX98kLbXSoIZKxrCg) | 3:31 | 2022-09-09 | 2023-04-21 |
+| [Virtual Cool](https://open.spotify.com/track/56syPQlAsZZukc0qeqvEZJ) | [Michael Gray](https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz), [LaMay](https://open.spotify.com/artist/5grXpHDL1GkY7eWz2YjOkz) | [Optimism](https://open.spotify.com/album/1JDlPKa7aBeOTxmKWC3YH1) | 3:46 | 2024-05-02 |  |
 | [Vlinders](https://open.spotify.com/track/3WpfdqGPPhII9v111aGYH9) | [KOFFIE](https://open.spotify.com/artist/1RVrNwHf4vDvBALBS2W5xA) | [Vlinders](https://open.spotify.com/album/3Vb3NvCS3zAw3blthDYl57) | 2:43 | 2023-03-07 | 2024-03-21 |
 | [Wait Till The Morning](https://open.spotify.com/track/1MLF2YamXA1ELOgbQ6Ivtf) | [Muylike](https://open.spotify.com/artist/4HL9htdNiAsJHadqEBvb7T), [New Body Electric](https://open.spotify.com/artist/3h0OzibApOQzdvIGPEVavo), [Efraïm Trujillo](https://open.spotify.com/artist/6QMEYX8YSAruSN9r8EHgv5) | [I Wanna Go Home](https://open.spotify.com/album/15W0lTLQPOJWHnjR5c3RYS) | 2:45 | 2023-02-16 |  |
 | [Warrior](https://open.spotify.com/track/5CBCtk5EZfdz7X1Eb6xK1u) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Renaissance](https://open.spotify.com/album/0cFJfTwmx4KOM9zEy9i2nB) | 2:47 | 2022-09-09 | 2023-05-20 |

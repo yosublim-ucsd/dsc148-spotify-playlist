@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 33028,
+  "2024-05-03": 33037,
   "date_first_scraped": "2022-09-15",
   "description": "This is Tasha Cobbs Leonard. The essential tracks, all in one playlist.",
   "name": "This Is Tasha Cobbs Leonard",
@@ -359,6 +359,24 @@
       "duration_ms": 358840,
       "name": "God\u2019s Been Good - Live",
       "url": "https://open.spotify.com/track/2NvFKpZ6ECBe3wkSfvNS9K"
+    },
+    {
+      "album": {
+        "name": "10 Years of Tasha",
+        "url": "https://open.spotify.com/album/1NNOae3g7uXGyiBaxGuwUR"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170843,
+      "name": "Gotta Believe",
+      "url": "https://open.spotify.com/track/0N4upknEA6H03wbFoumjh8"
     },
     {
       "album": {
@@ -791,7 +809,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 426733,
       "name": "It Is Well - Live",
       "url": "https://open.spotify.com/track/09ZvDOJkKi76sig28txpQn"

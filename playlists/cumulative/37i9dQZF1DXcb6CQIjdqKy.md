@@ -2,9 +2,9 @@
 
 ### [Top Christian & Gospel](https://open.spotify.com/playlist/37i9dQZF1DXcb6CQIjdqKy)
 
-> The best mix of today's Christian music, all genres, worldwide\. Cover:  <a href="spotify:artist:3sDbKMebVH2VYcRSl7u1VC">for KING & COUNTRY</a>
+> The best mix of today's Christian music, all genres, worldwide\. Cover: <a href="spotify:artist:0qZ8aSF0iMCQI99AAXikF8">Elevation Rhythm</a>
 
-788 songs - 2 day 6 hr 55 min
+789 songs - 2 day 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [Good Plans](https://open.spotify.com/track/3K89A6tH60vfgeRRtAGiGn) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Good Plans](https://open.spotify.com/album/2cihnWnZpAOZFcGPBsZSWa) | 5:46 | 2023-03-31 | 2023-07-15 |
 | [Good Things](https://open.spotify.com/track/1CSSjxVMn8S51x1kC2yJ4z) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Kenzie Walker](https://open.spotify.com/artist/4VJFpqwAvZKRah8klcHmFy), [Luis Vicens](https://open.spotify.com/artist/3rCr2BPIbxiC5aikVFhPlk) | [Walk with You](https://open.spotify.com/album/0qFxivCbnRrBlXwhvQlrYV) | 6:14 | 2022-02-04 | 2022-05-07 |
 | [Good To Be Loved By You \(with Tyler Hubbard\)](https://open.spotify.com/track/62q03kZpF2r4d8rfLcExsu) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Chris Tomlin & Friends: Summer EP](https://open.spotify.com/album/7pfDAfc2EmNkl5TTVdVx5z) | 3:21 | 2021-12-17 | 2022-02-26 |
+| [GOODBYE YESTERDAY](https://open.spotify.com/track/2Ek6vXzVHY9qWvkAy4OUQR) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Gracie Binion](https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n) | [GOODBYE YESTERDAY](https://open.spotify.com/album/1J0DrdF8UCZGZo8YYAKiNE) | 4:58 | 2024-05-03 |  |
 | [Gospel Truth](https://open.spotify.com/track/0fJMJY3b4WSHNaVukYYLeL) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [Gospel Truth](https://open.spotify.com/album/208vHnVcqL3UN9lMT7VldF) | 2:55 | 2024-02-16 |  |
 | [Got What You Need](https://open.spotify.com/track/3OcUVWhubdvvmQ6YFH0ySA) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Everyone Loves A Comeback Story](https://open.spotify.com/album/5RjwtLy4rECKCcqF5Cbs20) | 3:11 | 2022-09-30 | 2023-07-15 |
 | [Grace](https://open.spotify.com/track/2G2lCdWkwgXvHVNMWZqWcJ) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w), [Kierra Sheard\-Kelly](https://open.spotify.com/artist/7k9QU2u4MTwjc6pHZoo9po) | [Affirmations](https://open.spotify.com/album/6Tqy5qKGeNHyt0kRG0xmpt) | 5:37 | 2024-04-19 |  |
@@ -722,7 +723,7 @@
 | [Twenty\-Four \(Tyler Joseph from Twenty One Pilots Version\)](https://open.spotify.com/track/3KhUUinfojt0DbzvXwfxW8) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Beautiful Letdown \(Our Version\) \[Deluxe Edition\]](https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT) | 4:42 | 2023-09-15 | 2024-03-23 |
 | [Undeniably You](https://open.spotify.com/track/2YQ1tJubfD2HuBsIjF4wT0) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Hello Human](https://open.spotify.com/album/2fnesitdAJXRxbsv9fCThx) | 4:02 | 2024-04-19 |  |
 | [Unsung Hero \(Single Edit\)](https://open.spotify.com/track/4OBde8XPU9m6w80J4umSR9) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Crazy \(Theatrical Version\) \[From the Inspired By Soundtrack "Unsung Hero"\]](https://open.spotify.com/album/2ilQHHZNq67GXNVhaOS8up) | 3:14 | 2024-03-15 | 2024-04-27 |
-| [Unsung Hero \(Single Edit\)](https://open.spotify.com/track/4nl4VNUEN8ZaEq8v8o89tl) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Unsung Hero \(The Inspired By Soundtrack\)](https://open.spotify.com/album/3pldpOkIoJqYnkuOTWTipi) | 3:14 | 2024-04-26 |  |
+| [Unsung Hero \- Single Edit](https://open.spotify.com/track/4nl4VNUEN8ZaEq8v8o89tl) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Unsung Hero \(The Inspired By Soundtrack\)](https://open.spotify.com/album/3pldpOkIoJqYnkuOTWTipi) | 3:14 | 2024-04-26 |  |
 | [Until Grace](https://open.spotify.com/track/4VCYUKDRGQ0oemnXamGvyB) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Until Grace](https://open.spotify.com/album/11oNoEjmU40Bmt90r9mG0d) | 3:36 | 2021-12-17 | 2022-01-22 |
 | [Up](https://open.spotify.com/track/1WWRakZzeLuWPlfymWPSYf) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Up](https://open.spotify.com/album/0xwpeyyjply5M7AHR2ksx3) | 2:57 | 2022-10-28 | 2023-01-21 |
 | [Voyage](https://open.spotify.com/track/5y2rF11oOl6bq8SYyxtGpc) | [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH), [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) | [Voyage](https://open.spotify.com/album/44Z1Qd5eYTHJd8HVd9BfUi) | 3:28 | 2023-05-26 | 2023-07-22 |

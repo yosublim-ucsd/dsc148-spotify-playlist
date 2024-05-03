@@ -4,7 +4,7 @@
 
 > everybody at the bar getting tipsy 🤠🍻🍸🥃
 
-1,469 songs - 3 day 5 hr 34 min
+1,470 songs - 3 day 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -843,6 +843,7 @@
 | [Midnight Rain](https://open.spotify.com/track/6Nl7KyvjkFncGsjB49SxLl) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq) | 2:54 | 2022-10-24 |  |
 | [Midsummer Madness](https://open.spotify.com/track/6TodWdTSDfzwgYynTZSvJn) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [Head In The Clouds](https://open.spotify.com/album/6YFBWwUDdot8IjBZSYOacB) | 4:40 | 2022-06-21 |  |
 | [Midsummer Madness](https://open.spotify.com/track/0qiMB9VYpBOhTcvi47h4nX) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [Higher Brothers](https://open.spotify.com/artist/07ZhipyrvoyNoJejeyM0PQ), [AUGUST 08](https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi) | [Head In The Clouds](https://open.spotify.com/album/0mSQUlyUIJixplxMPE1HX0) | 4:40 | 2024-01-11 | 2024-04-19 |
+| [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-05-02 |  |
 | [Miracle \(with Ellie Goulding\) \- Church Version](https://open.spotify.com/track/5ZPNgsEfH0yiwYSQUe6D8n) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Miracle \(with Ellie Goulding\) \[Church Version\]](https://open.spotify.com/album/2ycuxjdkG7kzJBVF3ejnmr) | 2:44 | 2023-03-30 |  |
 | [Miserable Man](https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Miserable Man](https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4) | 3:52 | 2022-05-19 |  |
 | [Misery](https://open.spotify.com/track/0RZyUsKfiC7MtiGKatCtGc) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Hands All Over \(Revised International Standard version\)](https://open.spotify.com/album/1snrPQMoTrBsKl73wzSxbn) | 3:36 | 2022-05-19 |  |

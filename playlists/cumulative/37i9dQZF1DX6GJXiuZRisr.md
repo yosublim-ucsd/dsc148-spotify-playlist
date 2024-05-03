@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-481 songs - 1 day 10 hr 9 min
+482 songs - 1 day 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,6 +288,7 @@
 | [Not Over Yet \(feat\. Grace Grundy\)](https://open.spotify.com/track/6IefsGUYN0q8BBrDq1EhiC) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [Grace Grundy](https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD) | [Not Over Yet \(feat\. Grace Grundy\)](https://open.spotify.com/album/0djeuaziYXiPeHRNN9Vqh6) | 2:41 | 2023-05-05 |  |
 | [Nothing Else Matters](https://open.spotify.com/track/2J2CcT3UwIq79wQvCCGtqR) | [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi), [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv), [HEREON](https://open.spotify.com/artist/7mFinREzAQwsneN5JaboIr) | [HEREON](https://open.spotify.com/album/5jSrvGNnDa6PDi7vlRFMLV) | 3:31 | 2024-02-16 |  |
 | [Nothing Ever Changes](https://open.spotify.com/track/1oytqQdZTKnICWgqCW9SrI) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Nothing Ever Changes](https://open.spotify.com/album/0HlphAJZzZbQ9xcqaD2yX4) | 3:46 | 2024-04-05 |  |
+| [Nowhere To Go \(feat\. Brian Molko\) \- Single Edit](https://open.spotify.com/track/0GSRV5gMw6ocfFT0kR0Sxj) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Brian Molko](https://open.spotify.com/artist/6stFJpRU2haAAmJjSZEuVW) | [Nowhere To Go \(feat\. Brian Molko\)](https://open.spotify.com/album/2u9e2yJTlVb6CAOq2yz64v) | 3:42 | 2024-05-03 |  |
 | [Numb \- Joris Voorn Remix, Edit](https://open.spotify.com/track/4WuxGJdcbN9SPrNn3UFLFy) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Numb \(Joris Voorn Remix\)](https://open.spotify.com/album/0vTR69DaeGYKkf4DNioMfF) | 3:57 | 2021-05-07 |  |
 | [Oblivion](https://open.spotify.com/track/2eIyg8yc98jIX7g3tsbRcI) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Oblivion](https://open.spotify.com/album/1Uzmw6EppTymkjxp4toRza) | 3:14 | 2023-03-31 |  |
 | [Oblivion](https://open.spotify.com/track/49KOIOQPegsRJM9gYhfCw3) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Thermal / Oblivion](https://open.spotify.com/album/02tXBr9D8rhPT9lR3KY3Zl) | 3:49 | 2021-05-07 | 2023-10-04 |
@@ -455,7 +456,7 @@
 | [Unlovable](https://open.spotify.com/track/4IEt7Mdm42jKkRTaAzNNrH) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Unlovable](https://open.spotify.com/album/24CHipaCl8pzPFDe3oWOm1) | 4:02 | 2023-01-27 | 2023-04-25 |
 | [Vallut Bass](https://open.spotify.com/track/6etAsc19pzAmugWALZjpDo) | [AKA AKA](https://open.spotify.com/artist/64fjAjykuM8Oc3Bqup4g72), [Junge Junge](https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD) | [Vallut Bass](https://open.spotify.com/album/2u0mZypCSZa9vMm32FYyEN) | 3:31 | 2021-05-07 | 2022-06-23 |
 | [Vertigo](https://open.spotify.com/track/5rWcCmqVjQpmmhbOpZ65aN) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [Burko](https://open.spotify.com/artist/7emuTCeEe2djrY4K1fcKAZ) | [Vertigo](https://open.spotify.com/album/0w9o19xIAioxJ94ikjpB7j) | 3:09 | 2022-11-18 |  |
-| [Vertigo](https://open.spotify.com/track/1p6IvCBlHrWIi6AmXiMtdw) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Vertigo](https://open.spotify.com/album/1EJeNKVDB6XJsyAMxVZaAU) | 3:36 | 2023-06-23 |  |
+| [Vertigo](https://open.spotify.com/track/1p6IvCBlHrWIi6AmXiMtdw) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Vertigo](https://open.spotify.com/album/1EJeNKVDB6XJsyAMxVZaAU) | 3:36 | 2023-06-23 | 2024-05-03 |
 | [Violet Sea](https://open.spotify.com/track/1f33u4p19t1nWX6t4vtps9) | [Pavel Khvaleev](https://open.spotify.com/artist/04mfb9WF2sttD7r6SWMYRk) | [Violet Sea + Aura](https://open.spotify.com/album/4LeAQhY0P24q2mvynao92G) | 3:48 | 2021-05-07 | 2022-04-20 |
 | [VLEKNO](https://open.spotify.com/track/0C1BD8MccXokM9YIUDcjWm) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Tranquility Base Vol\. 1](https://open.spotify.com/album/5fC0IDTURADF9bMs3FqomK) | 2:41 | 2023-05-26 | 2023-06-24 |
 | [Void](https://open.spotify.com/track/5uVR4B3m24uI0zyNfjmLfu) | [ArtLec](https://open.spotify.com/artist/2aqJXiggBZaS7nbLUMTMKo) | [Void \- Crow](https://open.spotify.com/album/6wRh1QsfpcavIawneQZGUd) | 3:29 | 2021-05-07 | 2022-04-18 |

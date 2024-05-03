@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 4049,
+  "2024-05-03": 4082,
   "date_first_scraped": "2024-01-11",
   "description": "Our editors' picks of best tracks of 2023 by independent, developing artists from around the world. Cover: Searows\n",
   "name": "Fresh Finds: Class of 2023",
@@ -1291,7 +1291,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 172137,
       "name": "Meet you at the Graveyard",
       "url": "https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L"
@@ -1671,6 +1671,24 @@
       "duration_ms": 187487,
       "name": "Salt",
       "url": "https://open.spotify.com/track/2kLb29wxlXPLYFVSfcg69D"
+    },
+    {
+      "album": {
+        "name": "setar rock",
+        "url": "https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb"
+      },
+      "artists": [
+        {
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240250,
+      "name": "setar rock",
+      "url": "https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb"
     },
     {
       "album": {

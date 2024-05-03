@@ -1,12 +1,12 @@
 {
-  "description": "This is BIA. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 14121,
+  "description": "This Is BIA. Los temas esenciales, todos en una lista.",
+  "num_followers": 14126,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjA0gAAAAAAb1dm6kFrPk/3xd4p7wCMQ",
+  "snapshot_id": "ZjGGAAAAAADUexS9je+w4qeRcG1pP5Xo",
   "tracks": [
     {
       "added_at": null,
@@ -171,26 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seductive",
-        "url": "https://open.spotify.com/album/75bi4SlFkQJ2zogYEjlHK5"
-      },
-      "artists": [
-        {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 178546,
-      "name": "Mami (feat. BIA)",
-      "url": "https://open.spotify.com/track/0fu8IDTHrJgnUMgJmhrWRa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GEEZYWORLD 2",
         "url": "https://open.spotify.com/album/5zs9qUyhrUbvhGicNAzJWV"
       },
@@ -207,6 +187,26 @@
       "duration_ms": 128000,
       "name": "GEEKALEEK (feat. BIA)",
       "url": "https://open.spotify.com/track/4CvTytBa0rfmQKii8JHCXa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seductive",
+        "url": "https://open.spotify.com/album/75bi4SlFkQJ2zogYEjlHK5"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 178546,
+      "name": "Mami (feat. BIA)",
+      "url": "https://open.spotify.com/track/0fu8IDTHrJgnUMgJmhrWRa"
     },
     {
       "added_at": null,
@@ -559,26 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "808",
-        "url": "https://open.spotify.com/album/0TMLxS4EwK3d1qgjXZ6AOI"
-      },
-      "artists": [
-        {
-          "name": "DJ Bliss",
-          "url": "https://open.spotify.com/artist/4SePAG9OlC4tupADxTPs9s"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 141533,
-      "name": "808",
-      "url": "https://open.spotify.com/track/6q2MPZVa5Mb5PjJEVUWvYK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'M THAT BITCH",
         "url": "https://open.spotify.com/album/3XZmrh1D5RI5kvz5N6i6Lp"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 152043,
       "name": "I'M THAT BITCH",
       "url": "https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "808",
+        "url": "https://open.spotify.com/album/0TMLxS4EwK3d1qgjXZ6AOI"
+      },
+      "artists": [
+        {
+          "name": "DJ Bliss",
+          "url": "https://open.spotify.com/artist/4SePAG9OlC4tupADxTPs9s"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 141533,
+      "name": "808",
+      "url": "https://open.spotify.com/track/6q2MPZVa5Mb5PjJEVUWvYK"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Minute Warning",
-        "url": "https://open.spotify.com/album/2WJNKgf3ojXKrQXzzJQWvR"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 61916,
-      "name": "One Minute Warning",
-      "url": "https://open.spotify.com/track/0IVrI7SYvqq18xYu1N2GiD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trampoline (feat. Missy Elliott, BIA and Doechii)",
         "url": "https://open.spotify.com/album/2Pr2gqGNGdyyqUMCkQ0V2V"
       },
@@ -851,6 +835,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "One Minute Warning",
+        "url": "https://open.spotify.com/album/2WJNKgf3ojXKrQXzzJQWvR"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 61916,
+      "name": "One Minute Warning",
+      "url": "https://open.spotify.com/track/0IVrI7SYvqq18xYu1N2GiD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FOR CERTAIN",
         "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
       },
@@ -867,22 +867,6 @@
       "duration_ms": 206400,
       "name": "SAME HANDS (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/5AE9DzJr8jhTFgcbkCvrPq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "REALLY HER (INTL DELUXE)",
-        "url": "https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 143999,
-      "name": "RAISE THE STAKES",
-      "url": "https://open.spotify.com/track/0fA3Ec33j9N38YKaRCl2r8"
     },
     {
       "added_at": null,
@@ -907,6 +891,22 @@
       "duration_ms": 172078,
       "name": "Vamos",
       "url": "https://open.spotify.com/track/4gbRykMoB7dM0okw4DHj5J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "REALLY HER (INTL DELUXE)",
+        "url": "https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 143999,
+      "name": "RAISE THE STAKES",
+      "url": "https://open.spotify.com/track/0fA3Ec33j9N38YKaRCl2r8"
     },
     {
       "added_at": null,
@@ -955,22 +955,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "REALLY HER (INTL DELUXE)",
-        "url": "https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 101944,
-      "name": "BIG BUSINESS",
-      "url": "https://open.spotify.com/track/3x0AuSjITqCy6pA3tDqCpE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FOR CERTAIN",
         "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 156519,
       "name": "PLATE",
       "url": "https://open.spotify.com/track/7qkmotkXzezx5iJmU7xxfB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "REALLY HER (INTL DELUXE)",
+        "url": "https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 101944,
+      "name": "BIG BUSINESS",
+      "url": "https://open.spotify.com/track/3x0AuSjITqCy6pA3tDqCpE"
     },
     {
       "added_at": null,
@@ -1027,6 +1027,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SIXTEEN",
+        "url": "https://open.spotify.com/album/24H345wgzm6udXQ6Es10VN"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 152948,
+      "name": "SIXTEEN",
+      "url": "https://open.spotify.com/track/1RswhD0IRNMRqo1WDpNhtl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "REALLY HER (INTL DELUXE)",
         "url": "https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 161555,
       "name": "CHATTY",
       "url": "https://open.spotify.com/track/6u2LaYlmDbDLsEtCFMHcIO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SIXTEEN",
-        "url": "https://open.spotify.com/album/24H345wgzm6udXQ6Es10VN"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 152948,
-      "name": "SIXTEEN",
-      "url": "https://open.spotify.com/track/1RswhD0IRNMRqo1WDpNhtl"
     },
     {
       "added_at": null,

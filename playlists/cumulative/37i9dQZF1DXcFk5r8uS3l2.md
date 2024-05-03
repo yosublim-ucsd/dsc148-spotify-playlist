@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Amythyst Kiah
 
-369 songs - 23 hr 11 min
+371 songs - 23 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Ain't Gotta Worry Child](https://open.spotify.com/track/112GY487AYZ0Q0zB9KYv3x) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Ain't Gotta Worry Child](https://open.spotify.com/album/5z25YPZkf3WB9Eh94EEwFw) | 3:05 | 2021-12-17 | 2022-07-27 |
 | [Ain't Gotta Worry Child](https://open.spotify.com/track/5Oqrsrt3oEWvDibRQLbyYD) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Lonesome as a Shadow](https://open.spotify.com/album/308oGhQCGxttKUQkkkrHiE) | 3:05 | 2022-05-27 | 2023-02-25 |
 | [Ain't No Harmin' Me](https://open.spotify.com/track/1LnTC50m1LHC36jtKo0UJk) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Ain't No Harmin' Me](https://open.spotify.com/album/0tk6hm3xKUefjBLDt4xkS9) | 3:50 | 2023-02-10 | 2024-03-23 |
-| [All About the Bones](https://open.spotify.com/track/49O8sIbwsZqrm4XTYNjns6) | [Chris Smither](https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22) | [All About the Bones](https://open.spotify.com/album/5ps4di2LHRX32ZMObGMb2n) | 3:16 | 2024-03-22 |  |
+| [All About the Bones](https://open.spotify.com/track/49O8sIbwsZqrm4XTYNjns6) | [Chris Smither](https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22) | [All About the Bones](https://open.spotify.com/album/5ps4di2LHRX32ZMObGMb2n) | 3:16 | 2024-03-22 | 2024-05-03 |
 | [All Night](https://open.spotify.com/track/0wTcP4O2Uz0fuGYn9A0q7S) | [Ash Radford](https://open.spotify.com/artist/5xbTNkvW7vgjRXPKjwBEyw) | [All Night](https://open.spotify.com/album/79fPJMto74aSvaI82TJP02) | 3:56 | 2022-07-15 | 2022-07-23 |
 | [All on Me](https://open.spotify.com/track/01AQQxjgUOsRJGiif0rzNj) | [Satsang](https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc) | [All on Me](https://open.spotify.com/album/2UzbI0MwhBpd9DyIC62qk2) | 3:49 | 2022-07-22 | 2022-08-31 |
 | [All Our Love](https://open.spotify.com/track/4sImthKyvzr2Rhp0vaB9SJ) | [Supersonic Blues Machine](https://open.spotify.com/artist/4Q4I3c5ixM1EqJ9svcleRD), [Charlie Starr](https://open.spotify.com/artist/2Oeaf5Pn9WzmxUIIsjs939) | [All Our Love](https://open.spotify.com/album/6bH8vw3t4PRGqq9PdXLvJR) | 4:29 | 2022-05-20 | 2022-06-11 |
@@ -83,6 +83,7 @@
 | [Daughter, Daughter](https://open.spotify.com/track/1GLsKI9ZvoahRB8UTsKBxC) | [Cris Jacobs](https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [Daughter, Daughter](https://open.spotify.com/album/0OaUiE3t8fSKBr0yJva0vw) | 3:25 | 2024-02-16 |  |
 | [Devil and the Deep Blue](https://open.spotify.com/track/6Fpnv2wogd48SlWGjTQ94N) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Devil and the Deep Blue](https://open.spotify.com/album/1xvHBAe6ThcdFQc82IElN1) | 3:07 | 2023-01-06 | 2023-04-01 |
 | [Devil Claims His Prize](https://open.spotify.com/track/0TUjdjNNsFG7z4EXpQz17o) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Devil Claims His Prize](https://open.spotify.com/album/0gNnjuMyQ6pbFDoartJbUI) | 2:42 | 2023-07-14 | 2024-02-10 |
+| [Digging the Hole](https://open.spotify.com/track/2j3LYpiK18HPUXK4MqTq0e) | [Chris Smither](https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22) | [Digging the Hole](https://open.spotify.com/album/2NlTw9xQM5HIjCgk1rMxBx) | 2:34 | 2024-05-03 |  |
 | [Diving Duck Blues](https://open.spotify.com/track/0hK8IwYBQwGbTgd7C5XyRZ) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [TajMo](https://open.spotify.com/album/3NF642glRZZKf3Ng96eMfX) | 4:28 | 2021-12-17 | 2023-02-25 |
 | [Don't Leave Me](https://open.spotify.com/track/0AgUASgDyd1kZ2wFTMc9UC) | [Alex Lambert](https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN), [Dylan Chambers](https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9) | [Don't Leave Me](https://open.spotify.com/album/1zi38GN7sht32SQbjiuM65) | 3:30 | 2023-07-21 |  |
 | [Don't Let the Devil Ride](https://open.spotify.com/track/5RUJ4EFMAaWdtvso1j8kLT) | [Leo "Bud" Welch](https://open.spotify.com/artist/5UWSCmjMiTImIru9iAvNFd) | [The Angels in Heaven Done Signed My Name](https://open.spotify.com/album/5qiokBP05cRxwpCLqocWn7) | 2:45 | 2021-12-17 | 2022-07-29 |
@@ -91,7 +92,7 @@
 | [Eastham Prison Farm Blues \- Stripped Back](https://open.spotify.com/track/749IyqWQSErX4dT4pmcDOH) | [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [stripped back](https://open.spotify.com/album/2SJZOQy7R0fEgMRtexjZL3) | 3:00 | 2022-06-17 | 2023-02-25 |
 | [Empire State Express](https://open.spotify.com/track/3eT162kkfyBYC5EjmupvSG) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Empire State Express](https://open.spotify.com/album/2DMWrcLl3inqFygxUFnpkh) | 4:30 | 2022-01-28 | 2023-03-11 |
 | [Empty Me Out](https://open.spotify.com/track/3xEx3xxA06MuO4SGZ4jrkV) | [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [There's a Light](https://open.spotify.com/album/7kOkk55lZ5AHyiv58OaCJ6) | 4:37 | 2021-12-17 | 2023-09-16 |
-| [Enjoy the Ride](https://open.spotify.com/track/6dqhw83H9eKMb0qTCv17k3) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Enjoy the Ride](https://open.spotify.com/album/67A2C0Zy9gvtUPdh6BtJNE) | 3:39 | 2024-04-05 |  |
+| [Enjoy the Ride](https://open.spotify.com/track/6dqhw83H9eKMb0qTCv17k3) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Enjoy the Ride](https://open.spotify.com/album/67A2C0Zy9gvtUPdh6BtJNE) | 3:39 | 2024-04-05 | 2024-05-03 |
 | [Everybody Wants To Be My Friend](https://open.spotify.com/track/2dHohxPASrUNxY5NDKWZ1e) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT) | [Everybody Wants To Be My Friend](https://open.spotify.com/album/1YTz5RAgMEKkSavrQAg3yN) | 3:37 | 2022-04-15 | 2022-06-12 |
 | [F\*ck My Life Up Again](https://open.spotify.com/track/4L9VTwdne2g1k8aBsgT9Zv) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [F\*ck My Life Up Again](https://open.spotify.com/album/5NRQZLhu0vIxZqSI5pUh1g) | 4:18 | 2024-01-19 | 2024-02-10 |
 | [Fast](https://open.spotify.com/track/4lldt4nIrEzASVTCgQHAmC) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Fast](https://open.spotify.com/album/2pDvPsNV0z3QTxXO1A7qxL) | 3:29 | 2024-02-16 | 2024-04-13 |
@@ -174,6 +175,7 @@
 | [King Bee](https://open.spotify.com/track/6efvpN45pRby2dC0ayfSU7) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1) | [I Hear You Knocking](https://open.spotify.com/album/7oo5eTB3LyjpbPzxINbvBK) | 3:50 | 2021-12-17 | 2022-06-11 |
 | [Knew The Day Was Comin'](https://open.spotify.com/track/2ozeYfDCDYipVRTENpgCnT) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Bloodline Maintenance](https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth) | 2:10 | 2022-07-26 | 2022-09-26 |
 | [L'hotel Serein](https://open.spotify.com/track/2VO0kA8zIwG14cTDfPOGIH) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [L'hotel Serein](https://open.spotify.com/album/7pMl0sRjNchXQX7fb6HUQL) | 4:12 | 2022-06-24 |  |
+| [Leave the Light On](https://open.spotify.com/track/4smQ0i6j6gH4Yly2qUcuqZ) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Leave The Light On](https://open.spotify.com/album/0XzophZTU9CMVqTudEZVWo) | 3:19 | 2024-05-03 |  |
 | [Let It Slide](https://open.spotify.com/track/7Hs5OmNf7BqPEnwVA9tRFr) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [The Big Bottle of Joy](https://open.spotify.com/album/22OpQW9aiVdxXlzYm4wZE4) | 3:34 | 2023-03-10 |  |
 | [Let's Spend the Night Together](https://open.spotify.com/track/3W8Nl4u2OXTdakJQHVPSao) | [Boneshakers](https://open.spotify.com/artist/24riNM88j6XOrjc8c8D55m) | [Let's Spend the Night Together](https://open.spotify.com/album/6YFUBCGsXiXQuRwTNLw6wQ) | 4:25 | 2022-08-12 |  |
 | [Lethal Love](https://open.spotify.com/track/2XaI8f23CJfJRn4L6xuA0o) | [Eilen Jewell](https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M) | [Lethal Love](https://open.spotify.com/album/0rWfwWI4AQrmwQ2RcrDxy4) | 3:06 | 2023-03-24 | 2023-05-08 |

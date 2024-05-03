@@ -1,5 +1,5 @@
 {
-  "2024-05-02": 142251,
+  "2024-05-03": 142415,
   "date_first_scraped": "2022-02-17",
   "description": "Crystal singing bowls, frequencies and gongs to lift you up and transcend. ",
   "name": "Sound Bath",
@@ -165,6 +165,24 @@
       "duration_ms": 596062,
       "name": "Balance",
       "url": "https://open.spotify.com/track/4ssTYVGgSfy3Ri0ZZDfQVY"
+    },
+    {
+      "album": {
+        "name": "Bathing in Sound Bowls",
+        "url": "https://open.spotify.com/album/3jF4K2BvsF0JNtcDqK5H1O"
+      },
+      "artists": [
+        {
+          "name": "Larrek",
+          "url": "https://open.spotify.com/artist/6VFekblOut967g4jD8w46E"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192185,
+      "name": "Bathing in Sound Bowls",
+      "url": "https://open.spotify.com/track/3nAaKu83XNXyd3QzZmIIJ5"
     },
     {
       "album": {
@@ -1689,6 +1707,28 @@
       "duration_ms": 169013,
       "name": "Sonic Massage - Singing Bowl Only",
       "url": "https://open.spotify.com/track/6MBi5eimnlk2NWOqlfJuUC"
+    },
+    {
+      "album": {
+        "name": "Hang Drum Meditation",
+        "url": "https://open.spotify.com/album/3cxLTdp6xaC6OG3iC16rZn"
+      },
+      "artists": [
+        {
+          "name": "Natura Relax",
+          "url": "https://open.spotify.com/artist/084iu69ZxshixVfB7rcRg7"
+        },
+        {
+          "name": "Enchanted Sounds",
+          "url": "https://open.spotify.com/artist/2c6l8ejTfqwvp2G2YAzq9M"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75463,
+      "name": "Soul Elevation",
+      "url": "https://open.spotify.com/track/5Pfn4dkyAIJoFz9ulqAkc5"
     },
     {
       "album": {

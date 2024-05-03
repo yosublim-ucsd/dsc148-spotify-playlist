@@ -1,6 +1,6 @@
 {
   "description": "Punjabi superstar\u2019s biggest hits.",
-  "num_followers": 138917,
+  "num_followers": 139226,
   "original_name": "This Is Diljit Dosanjh",
   "owner": {
     "name": "Spotify",
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
         }
       ],
-      "duration_ms": 190005,
-      "name": "Hoops",
-      "url": "https://open.spotify.com/track/6yAwGkkTU4q4vkgufzOVXH"
+      "duration_ms": 186000,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/1Hy2ZRkFGC3P47r6lDX2sy"
     },
     {
       "added_at": "2024-04-12 04:43:33",
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/1Hy2ZRkFGC3P47r6lDX2sy"
+      "duration_ms": 190005,
+      "name": "Hoops",
+      "url": "https://open.spotify.com/track/6yAwGkkTU4q4vkgufzOVXH"
     },
     {
       "added_at": "2024-04-12 04:43:33",
@@ -787,30 +787,6 @@
     {
       "added_at": "2024-04-12 04:43:33",
       "album": {
-        "name": "Con.Fi.Den.Tial",
-        "url": "https://open.spotify.com/album/5XrmpQEvCaqW8jRA1pwtwD"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Snappy",
-          "url": "https://open.spotify.com/artist/4HYqQGd6sHdPhq6qwikEix"
-        },
-        {
-          "name": "Rav Hanjra",
-          "url": "https://open.spotify.com/artist/2iWspbujhMADVaxwZAwrmd"
-        }
-      ],
-      "duration_ms": 207300,
-      "name": "Big Scene",
-      "url": "https://open.spotify.com/track/0yYikBy6sQAI3n6QbQPYw5"
-    },
-    {
-      "added_at": "2024-04-12 04:43:33",
-      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
       },
@@ -847,6 +823,30 @@
       "duration_ms": 188000,
       "name": "What Ve",
       "url": "https://open.spotify.com/track/6Pxq8WosWicxmEqp9BFZ2s"
+    },
+    {
+      "added_at": "2024-04-12 04:43:33",
+      "album": {
+        "name": "Con.Fi.Den.Tial",
+        "url": "https://open.spotify.com/album/5XrmpQEvCaqW8jRA1pwtwD"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Snappy",
+          "url": "https://open.spotify.com/artist/4HYqQGd6sHdPhq6qwikEix"
+        },
+        {
+          "name": "Rav Hanjra",
+          "url": "https://open.spotify.com/artist/2iWspbujhMADVaxwZAwrmd"
+        }
+      ],
+      "duration_ms": 207300,
+      "name": "Big Scene",
+      "url": "https://open.spotify.com/track/0yYikBy6sQAI3n6QbQPYw5"
     },
     {
       "added_at": "2024-04-12 04:43:33",

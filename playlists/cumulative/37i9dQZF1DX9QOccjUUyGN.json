@@ -535,6 +535,32 @@
     },
     {
       "album": {
+        "name": "A Noite \u00c9 Nossa",
+        "url": "https://open.spotify.com/album/5uPbALHiZODtl6wSZkAbUW"
+      },
+      "artists": [
+        {
+          "name": "LinoMC",
+          "url": "https://open.spotify.com/artist/35axXY086AdebmHJ8qT8I0"
+        },
+        {
+          "name": "VMZ",
+          "url": "https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg"
+        },
+        {
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173571,
+      "name": "A Noite \u00c9 Nossa",
+      "url": "https://open.spotify.com/track/5psDcRC8PvznC9TehMzFKg"
+    },
+    {
+      "album": {
         "name": "Acompanhado dos Melhores",
         "url": "https://open.spotify.com/album/0ALJzmi0xzdSFErPQV9i2Q"
       },
@@ -2313,6 +2339,28 @@
     },
     {
       "album": {
+        "name": "Brejal 2",
+        "url": "https://open.spotify.com/album/3ExLr9x7QJG1ZZsg89nbMU"
+      },
+      "artists": [
+        {
+          "name": "A\u00e7\u00faK",
+          "url": "https://open.spotify.com/artist/7371NJait6rRIpctnfbuWM"
+        },
+        {
+          "name": "DJ Wkilla",
+          "url": "https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131485,
+      "name": "Brejal 2",
+      "url": "https://open.spotify.com/track/0sDW35QnePlh2qwGGX1sBl"
+    },
+    {
+      "album": {
         "name": "Brinquedo Usado",
         "url": "https://open.spotify.com/album/1pv9JcELtHI9OWG1pIfRaR"
       },
@@ -3535,6 +3583,28 @@
     },
     {
       "album": {
+        "name": "Corri Dobrado",
+        "url": "https://open.spotify.com/album/1jwBo49g7GSbq87E891L88"
+      },
+      "artists": [
+        {
+          "name": "Jay Kay",
+          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
+        },
+        {
+          "name": "Fontes",
+          "url": "https://open.spotify.com/artist/0TcujpNyXBNScchl8oh06P"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111500,
+      "name": "Corri Dobrado",
+      "url": "https://open.spotify.com/track/6XzWOcbEb7LKtxjq5KTiDQ"
+    },
+    {
+      "album": {
         "name": "Corte Marroquino",
         "url": "https://open.spotify.com/album/30WYpfWrWhanmzjjxnNpRd"
       },
@@ -3554,6 +3624,28 @@
       "duration_ms": 191538,
       "name": "Corte Marroquino",
       "url": "https://open.spotify.com/track/4MJy1X17wbDGV6orRxBV4s"
+    },
+    {
+      "album": {
+        "name": "Corte Novo",
+        "url": "https://open.spotify.com/album/2O8jL9czSWCgMH6MQdI3yK"
+      },
+      "artists": [
+        {
+          "name": "Chase",
+          "url": "https://open.spotify.com/artist/7oOpwEg9o9LWn0xWdCwMXo"
+        },
+        {
+          "name": "Celo1st",
+          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158225,
+      "name": "Corte Novo",
+      "url": "https://open.spotify.com/track/4I1XRDq2TLhGftE6xV7zKg"
     },
     {
       "album": {
@@ -11173,6 +11265,32 @@
     },
     {
       "album": {
+        "name": "Perfil #94 - Fases",
+        "url": "https://open.spotify.com/album/6Hg2LrIcgSxUWFlpqUfG2m"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Gabe O.",
+          "url": "https://open.spotify.com/artist/2MHy3p4PeBgsb7WMIftgpM"
+        },
+        {
+          "name": "Neckklace",
+          "url": "https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154533,
+      "name": "Perfil #94 - Fases",
+      "url": "https://open.spotify.com/track/5FTMn4GVhkENcRn6xc86KM"
+    },
+    {
+      "album": {
         "name": "Perfume Mais Caro",
         "url": "https://open.spotify.com/album/55zZHtvKCpn7OchaEl4Hp6"
       },
@@ -15514,6 +15632,32 @@
       "duration_ms": 171789,
       "name": "Xeque-Mate (feat. Paiva Prod)",
       "url": "https://open.spotify.com/track/2Se6ItuMZiqQ2jZkwXzOO6"
+    },
+    {
+      "album": {
+        "name": "Sistema & Danos {S.Da.S}",
+        "url": "https://open.spotify.com/album/40xut9zj9VBfIEVWv7bCP6"
+      },
+      "artists": [
+        {
+          "name": "Dartha",
+          "url": "https://open.spotify.com/artist/4Sp3httovgJxy9MBsDfkKq"
+        },
+        {
+          "name": "apollo 808",
+          "url": "https://open.spotify.com/artist/0eSxx4gPk9xY0Pk9CjaPDG"
+        },
+        {
+          "name": "Avicena",
+          "url": "https://open.spotify.com/artist/2Jul2euPzSkf1UkWpTndfo"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160009,
+      "name": "\u00cdndigo",
+      "url": "https://open.spotify.com/track/4UrUNmJrMHPw7gaM7kJcuu"
     },
     {
       "album": {

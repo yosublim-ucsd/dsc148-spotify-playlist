@@ -1,12 +1,12 @@
 {
-  "description": "This Is TOKiMONSTA. Los temas esenciales, todos en una lista.",
+  "description": "This is TOKiMONSTA. The essential tracks, all in one playlist.",
   "num_followers": 7968,
   "original_name": "This Is TOKiMONSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjA0gAAAAAAalcrdwcHDJj9GSlWPGvYd",
+  "snapshot_id": "ZjGGAAAAAABwBf/sRoiYj62Yng1bV1Gh",
   "tracks": [
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Young Art Sound II",
-        "url": "https://open.spotify.com/album/56Sabgy81YsOgHAURQY3uH"
+        "name": "Creature Dreams",
+        "url": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
       },
       "artists": [
         {
@@ -340,13 +340,13 @@
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         },
         {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+          "name": "Gavin Turek",
+          "url": "https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG"
         }
       ],
-      "duration_ms": 153297,
-      "name": "Strange Froot",
-      "url": "https://open.spotify.com/track/3LCIxTgrIysK7KVbtUrWED"
+      "duration_ms": 241753,
+      "name": "Little Pleasures",
+      "url": "https://open.spotify.com/track/0rX9TS7ru452E29D7uekAY"
     },
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Creature Dreams",
-        "url": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
+        "name": "Young Art Sound II",
+        "url": "https://open.spotify.com/album/56Sabgy81YsOgHAURQY3uH"
       },
       "artists": [
         {
@@ -380,13 +380,13 @@
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         },
         {
-          "name": "Gavin Turek",
-          "url": "https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG"
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
         }
       ],
-      "duration_ms": 241753,
-      "name": "Little Pleasures",
-      "url": "https://open.spotify.com/track/0rX9TS7ru452E29D7uekAY"
+      "duration_ms": 153297,
+      "name": "Strange Froot",
+      "url": "https://open.spotify.com/track/3LCIxTgrIysK7KVbtUrWED"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lune Rouge",
-        "url": "https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 182467,
-      "name": "Lune",
-      "url": "https://open.spotify.com/track/3uDOm0SzcByFzD6LIipJLL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Say Tell Me",
         "url": "https://open.spotify.com/album/1OvNqF9M9XKSpVEL8THanQ"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 241750,
       "name": "Say Tell Me",
       "url": "https://open.spotify.com/track/31ojb5Lqb88oqAr4bR7dQd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lune Rouge",
+        "url": "https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 182467,
+      "name": "Lune",
+      "url": "https://open.spotify.com/track/3uDOm0SzcByFzD6LIipJLL"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Creature Dreams",
-        "url": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 195607,
-      "name": "Fallen Arches",
-      "url": "https://open.spotify.com/track/1E2qjmmP6gkptMPFmGfHav"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Midnight Menu",
         "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 237357,
       "name": "Death by Disco",
       "url": "https://open.spotify.com/track/2pHP1dKdtCEErOLtxwTYcy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Creature Dreams",
+        "url": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 195607,
+      "name": "Fallen Arches",
+      "url": "https://open.spotify.com/track/1E2qjmmP6gkptMPFmGfHav"
     },
     {
       "added_at": null,
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Midnight Menu",
+        "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 220032,
+      "name": "Lovely Soul",
+      "url": "https://open.spotify.com/track/01wmlBhq22bHYCCvmySnzC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Oasis Nocturno",
         "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 191233,
       "name": "Fried for the Night",
       "url": "https://open.spotify.com/track/2d5QxR4sH361DVFCyl97X9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Midnight Menu",
-        "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 220032,
-      "name": "Lovely Soul",
-      "url": "https://open.spotify.com/track/01wmlBhq22bHYCCvmySnzC"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oasis Nocturno",
-        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 238277,
-      "name": "Renter's Anthem",
-      "url": "https://open.spotify.com/track/3CAidIUvlJImwndbzlYYhG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Midnight Menu",
         "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 216726,
       "name": "Sweet Day",
       "url": "https://open.spotify.com/track/5WSdubzrIpADdcmacJFjCR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oasis Nocturno",
+        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 238277,
+      "name": "Renter's Anthem",
+      "url": "https://open.spotify.com/track/3CAidIUvlJImwndbzlYYhG"
     },
     {
       "added_at": null,
@@ -867,22 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desiderium",
-        "url": "https://open.spotify.com/album/5F5I5bpS03YzEwBRH3vrGh"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 196799,
-      "name": "Sakamoto's Spring",
-      "url": "https://open.spotify.com/track/38Rny0AdKS82PbV6lNHQAr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Creature Dreams",
         "url": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 195529,
       "name": "Starlight Lace",
       "url": "https://open.spotify.com/track/7rMbCJMPExhYBcmVqvZcLl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desiderium",
+        "url": "https://open.spotify.com/album/5F5I5bpS03YzEwBRH3vrGh"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 196799,
+      "name": "Sakamoto's Spring",
+      "url": "https://open.spotify.com/track/38Rny0AdKS82PbV6lNHQAr"
     },
     {
       "added_at": null,
@@ -955,18 +955,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desiderium",
-        "url": "https://open.spotify.com/album/5F5I5bpS03YzEwBRH3vrGh"
+        "name": "FOVERE",
+        "url": "https://open.spotify.com/album/1RP9ycGSR3PgUffaLibvh7"
       },
       "artists": [
         {
           "name": "TOKiMONSTA",
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Kiya Lacey",
+          "url": "https://open.spotify.com/artist/1Htc0eOZHfYwFGbydWI5Wb"
         }
       ],
-      "duration_ms": 191304,
-      "name": "Dusty Stars",
-      "url": "https://open.spotify.com/track/2U7fSkKJoGtlghujmYqC72"
+      "duration_ms": 211764,
+      "name": "Heart on the Ground",
+      "url": "https://open.spotify.com/track/3GBpgtfVFfT2mX9sRNOlr7"
     }
   ],
   "unique_name": "This Is TOKiMONSTA",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-06",
-  "description": "This is Eric Clapton. The essential tracks, all in one playlist.",
+  "description": "This is Eric Clapton. Track-track unggulan, semuanya dalam satu playlist.",
   "name": "This Is Eric Clapton",
   "tracks": [
     {
@@ -612,7 +612,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-02",
+      "date_removed": null,
       "duration_ms": 150626,
       "name": "For Your Love - 2015 Remaster",
       "url": "https://open.spotify.com/track/6o21UfW2RHkzzleZGLfFpK"
@@ -1556,7 +1556,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 298280,
       "name": "Let It Grow",
       "url": "https://open.spotify.com/track/2sXBdtNvV7fn1wbTzFrKrf"

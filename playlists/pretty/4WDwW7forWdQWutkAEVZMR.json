@@ -1,13 +1,61 @@
 {
-  "description": "Your go-to playlist for this week's hottest music featuring The Chainsmokers, Beyonc\u00e9, Miley Cyrus &amp; more! Cover: The Chainsmokers &amp; Fridayy",
-  "num_followers": 8025,
+  "description": "Your go-to playlist for this week's hottest music featuring Megan Moroney, Beyonc\u00e9, Miley Cyrus &amp; more! Cover: Megan Moroney",
+  "num_followers": 8024,
   "original_name": "Columbia Records: Weekly Mix",
   "owner": {
     "name": "Columbia Records",
     "url": "https://open.spotify.com/user/columbiarecords_us"
   },
-  "snapshot_id": "AAAbDnZMF2tyYqtdswuu64h6h+/kKx1L",
+  "snapshot_id": "AAAbJbujgMdKvCP845hS+L0bInhfuJEQ",
   "tracks": [
+    {
+      "added_at": "2024-05-03 04:01:42",
+      "album": {
+        "name": "Indifferent",
+        "url": "https://open.spotify.com/album/7nKCQbT5TOu7AAug3vlRLM"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 176022,
+      "name": "Indifferent",
+      "url": "https://open.spotify.com/track/4WtllVoPahHbtOGnLvS8Wk"
+    },
+    {
+      "added_at": "2024-05-03 04:02:00",
+      "album": {
+        "name": "IVE SWITCH",
+        "url": "https://open.spotify.com/album/7z61DsZtWO2S4nC5xd0b9p"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 189680,
+      "name": "\ud574\uc57c (HEYA)",
+      "url": "https://open.spotify.com/track/4gOwpU4kMZZNDWkoHYUj1Z"
+    },
+    {
+      "added_at": "2024-05-03 04:02:17",
+      "album": {
+        "name": "GOOD AS YOU",
+        "url": "https://open.spotify.com/album/4yfCVv9SfcDILYDYwEVirh"
+      },
+      "artists": [
+        {
+          "name": "Johnny Huynh",
+          "url": "https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju"
+        }
+      ],
+      "duration_ms": 162022,
+      "name": "GOOD AS YOU",
+      "url": "https://open.spotify.com/track/1nic0oEInWjHWGS8OGHhpr"
+    },
     {
       "added_at": "2024-04-26 04:33:12",
       "album": {
@@ -27,6 +75,90 @@
       "duration_ms": 208521,
       "name": "II MOST WANTED",
       "url": "https://open.spotify.com/track/1p9V6jkWIBTc4ZQXssxyhc"
+    },
+    {
+      "added_at": "2024-05-03 04:02:35",
+      "album": {
+        "name": "Queen of the Night",
+        "url": "https://open.spotify.com/album/0pBlyqs6SclbNhsqn42CEh"
+      },
+      "artists": [
+        {
+          "name": "Aden Foyer",
+          "url": "https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu"
+        }
+      ],
+      "duration_ms": 211890,
+      "name": "Queen of the Night",
+      "url": "https://open.spotify.com/track/7LJmjOVuQWui5qdrVWeKDx"
+    },
+    {
+      "added_at": "2024-05-03 04:02:50",
+      "album": {
+        "name": "Vision (Remix)",
+        "url": "https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        },
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Vision - Remix",
+      "url": "https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW"
+    },
+    {
+      "added_at": "2024-05-03 04:03:06",
+      "album": {
+        "name": "Tu Orgullo",
+        "url": "https://open.spotify.com/album/267SO0IVvJF735vzJNB5zV"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "duration_ms": 212757,
+      "name": "Tu Orgullo",
+      "url": "https://open.spotify.com/track/0dUoMXtgCcfZt2py8iXROK"
+    },
+    {
+      "added_at": "2024-05-03 04:03:34",
+      "album": {
+        "name": "Luv No Slutz",
+        "url": "https://open.spotify.com/album/4SQlSxWoi8hnK6YKpiAQm3"
+      },
+      "artists": [
+        {
+          "name": "Glokk40Spaz",
+          "url": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
+        }
+      ],
+      "duration_ms": 159524,
+      "name": "Luv No Slutz",
+      "url": "https://open.spotify.com/track/2c0AAba3JQmFCrh2fvpNqK"
+    },
+    {
+      "added_at": "2024-05-03 04:04:03",
+      "album": {
+        "name": "Not Myself",
+        "url": "https://open.spotify.com/album/269mxCeekCc4V2og796x6h"
+      },
+      "artists": [
+        {
+          "name": "Zai",
+          "url": "https://open.spotify.com/artist/2ORU5xiGsr9qfRKNvZ3UII"
+        }
+      ],
+      "duration_ms": 152433,
+      "name": "Not Myself",
+      "url": "https://open.spotify.com/track/6pHbXMhMezNDZ5GeOKmInE"
     },
     {
       "added_at": "2024-04-26 04:26:22",
@@ -89,22 +221,6 @@
       "url": "https://open.spotify.com/track/1ZZaOAx86pHrZR7Kb0RbKM"
     },
     {
-      "added_at": "2024-04-26 04:27:00",
-      "album": {
-        "name": "Love Will Survive (from The Tattooist of Auschwitz)",
-        "url": "https://open.spotify.com/album/64HT3QlCXtJuW5y6D33mqv"
-      },
-      "artists": [
-        {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
-        }
-      ],
-      "duration_ms": 206038,
-      "name": "Love Will Survive (from The Tattooist of Auschwitz)",
-      "url": "https://open.spotify.com/track/2kg2umf0E4toQ29Wrobrjz"
-    },
-    {
       "added_at": "2024-04-26 04:27:09",
       "album": {
         "name": "Long Yellow Dress",
@@ -159,86 +275,6 @@
       "duration_ms": 166035,
       "name": "Evergreen (feat. Ilsey)",
       "url": "https://open.spotify.com/track/05CX3lk010anf94Wq3NBIa"
-    },
-    {
-      "added_at": "2024-04-26 04:27:40",
-      "album": {
-        "name": "amnesia",
-        "url": "https://open.spotify.com/album/0lfMZ2765QFUYfXVTiBPQB"
-      },
-      "artists": [
-        {
-          "name": "Zevia",
-          "url": "https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu"
-        }
-      ],
-      "duration_ms": 154148,
-      "name": "amnesia",
-      "url": "https://open.spotify.com/track/7AM9CwnKYeZP5BLjR4kr9l"
-    },
-    {
-      "added_at": "2024-04-26 04:27:52",
-      "album": {
-        "name": "Creek",
-        "url": "https://open.spotify.com/album/5uDxte1Z20hUZysKWNh6In"
-      },
-      "artists": [
-        {
-          "name": "Alli Walker",
-          "url": "https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj"
-        }
-      ],
-      "duration_ms": 181733,
-      "name": "Creek",
-      "url": "https://open.spotify.com/track/1nMW484bimvAkYWX1NSWnR"
-    },
-    {
-      "added_at": "2024-04-26 04:28:06",
-      "album": {
-        "name": "2024 (feat. Jah Savv & Jay6ixx)",
-        "url": "https://open.spotify.com/album/408DHg60IqyHnlqvPuCRuF"
-      },
-      "artists": [
-        {
-          "name": "Troopers",
-          "url": "https://open.spotify.com/artist/4Sl71ipYlZAgmo40BypFu1"
-        },
-        {
-          "name": "Kay Glizz",
-          "url": "https://open.spotify.com/artist/4NZ50ovXky3H8JAPQFvwtQ"
-        },
-        {
-          "name": "Nunnie Da III",
-          "url": "https://open.spotify.com/artist/6hCwzK9Gbz4TnW9SVN1flV"
-        },
-        {
-          "name": "Jah Savv",
-          "url": "https://open.spotify.com/artist/4upXJNjerN25gA0VyKtD3q"
-        },
-        {
-          "name": "Jay6ixx",
-          "url": "https://open.spotify.com/artist/2fkZgMXtjdS2aCD2TCG7FN"
-        }
-      ],
-      "duration_ms": 153019,
-      "name": "2024 (feat. Jah Savv & Jay6ixx)",
-      "url": "https://open.spotify.com/track/7xBS6rPmugoTPDaAQbRPCA"
-    },
-    {
-      "added_at": "2024-04-26 04:28:16",
-      "album": {
-        "name": "Realest $hit I Ever Wrote Pt.2",
-        "url": "https://open.spotify.com/album/7bxSbXEQ8FHyFQv64Xk0hA"
-      },
-      "artists": [
-        {
-          "name": "TopOppGen",
-          "url": "https://open.spotify.com/artist/0TZD5e7AMfl6KIOoBrAoye"
-        }
-      ],
-      "duration_ms": 144846,
-      "name": "Realest $hit I Ever Wrote Pt.2",
-      "url": "https://open.spotify.com/track/09YeA1eiwNMK8GNg9uEDJk"
     },
     {
       "added_at": "2024-04-19 04:09:28",
@@ -443,22 +479,6 @@
       "duration_ms": 176227,
       "name": "I Ain't Crazy",
       "url": "https://open.spotify.com/track/1ADMQ848Up4JEBdgz6uJVd"
-    },
-    {
-      "added_at": "2024-04-12 04:04:56",
-      "album": {
-        "name": "chasing feelings",
-        "url": "https://open.spotify.com/album/0kpvZ2QAv7Xqd0kgMvDz3J"
-      },
-      "artists": [
-        {
-          "name": "Chase Elliott",
-          "url": "https://open.spotify.com/artist/7CmLWWnzB2PQoGLpJ4zDHR"
-        }
-      ],
-      "duration_ms": 144130,
-      "name": "alone tonight",
-      "url": "https://open.spotify.com/track/0VYijzRRgagt6yAb3K96BN"
     },
     {
       "added_at": "2024-04-12 04:05:07",
@@ -675,42 +695,6 @@
     {
       "added_at": "2024-04-08 19:34:37",
       "album": {
-        "name": "one more night",
-        "url": "https://open.spotify.com/album/1bCBw01bSi46xYzhpp0hRG"
-      },
-      "artists": [
-        {
-          "name": "Elle Darlington",
-          "url": "https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x"
-        }
-      ],
-      "duration_ms": 162863,
-      "name": "one more night",
-      "url": "https://open.spotify.com/track/6c8gf4UJ2Od8uKUiCYdf5a"
-    },
-    {
-      "added_at": "2024-04-08 19:34:37",
-      "album": {
-        "name": "COWBOY CARTER",
-        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 296185,
-      "name": "SWEET \u2605 HONEY \u2605 BUCKIIN'",
-      "url": "https://open.spotify.com/track/7CA0mEKqEZ0WFAIlTS4uEl"
-    },
-    {
-      "added_at": "2024-04-08 19:34:37",
-      "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
@@ -843,70 +827,6 @@
     {
       "added_at": "2024-04-08 19:34:37",
       "album": {
-        "name": "Ten Total",
-        "url": "https://open.spotify.com/album/1EQ4JquFxRPX36J3MmxOIg"
-      },
-      "artists": [
-        {
-          "name": "1010benja",
-          "url": "https://open.spotify.com/artist/7xBrMNV9UKo2THKIk9xpBK"
-        }
-      ],
-      "duration_ms": 183225,
-      "name": "Twin",
-      "url": "https://open.spotify.com/track/1Baclns5t6diyC7UfWsGJp"
-    },
-    {
-      "added_at": "2024-04-08 19:34:37",
-      "album": {
-        "name": "Tu C\u00e1rcel",
-        "url": "https://open.spotify.com/album/7y91LphJdXnffzem6Gh6Wk"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 226986,
-      "name": "Tu C\u00e1rcel",
-      "url": "https://open.spotify.com/track/6nGFs4LS1OAFisgl8TnoRP"
-    },
-    {
-      "added_at": "2024-04-08 19:34:37",
-      "album": {
-        "name": "It Ain't Austin",
-        "url": "https://open.spotify.com/album/6G5V9cVY38NOL9JwcMdNaY"
-      },
-      "artists": [
-        {
-          "name": "George Birge",
-          "url": "https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp"
-        }
-      ],
-      "duration_ms": 194160,
-      "name": "It Ain't Austin",
-      "url": "https://open.spotify.com/track/3lSS8lGZEXH8zd2p6wUUil"
-    },
-    {
-      "added_at": "2024-04-08 19:34:37",
-      "album": {
-        "name": "Ni\u00f1a Bonita",
-        "url": "https://open.spotify.com/album/0L7eKbKPmzFTUQeTrqXsBR"
-      },
-      "artists": [
-        {
-          "name": "Angel Arevalo",
-          "url": "https://open.spotify.com/artist/5M89S2BaLeDuU8URGIdDWV"
-        }
-      ],
-      "duration_ms": 205055,
-      "name": "Ni\u00f1a Bonita",
-      "url": "https://open.spotify.com/track/4Cw14ICQ0gkTVm3nZYiBaS"
-    },
-    {
-      "added_at": "2024-04-08 19:34:37",
-      "album": {
         "name": "Classical",
         "url": "https://open.spotify.com/album/5feyAYllLDkJZtc0ZOkBnJ"
       },
@@ -955,38 +875,6 @@
       "duration_ms": 149333,
       "name": "TEETH (feat. Diggy Graves)",
       "url": "https://open.spotify.com/track/1IsOdvUcz8eoN1qgoNP1sC"
-    },
-    {
-      "added_at": "2024-04-08 19:34:37",
-      "album": {
-        "name": "SHIMMY",
-        "url": "https://open.spotify.com/album/2PzdORjmPgsqEX0waPcV8Z"
-      },
-      "artists": [
-        {
-          "name": "yvngxchris",
-          "url": "https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr"
-        }
-      ],
-      "duration_ms": 104398,
-      "name": "SHIMMY",
-      "url": "https://open.spotify.com/track/0zRtPy5QKgiNjj9SJ3mNsW"
-    },
-    {
-      "added_at": "2024-04-08 19:34:37",
-      "album": {
-        "name": "Growing Pains",
-        "url": "https://open.spotify.com/album/3VJPWZfdKv6BALZ0b9TxRr"
-      },
-      "artists": [
-        {
-          "name": "24kGoldn",
-          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
-        }
-      ],
-      "duration_ms": 212540,
-      "name": "Dog House",
-      "url": "https://open.spotify.com/track/6IkdHPacNBeOdGkePazW1D"
     },
     {
       "added_at": "2024-04-08 19:34:37",
@@ -1087,22 +975,6 @@
     {
       "added_at": "2024-04-08 19:34:37",
       "album": {
-        "name": "I Like Big Trucks",
-        "url": "https://open.spotify.com/album/1hMaCa5rG67ztGrn5VsdyF"
-      },
-      "artists": [
-        {
-          "name": "Alli Walker",
-          "url": "https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj"
-        }
-      ],
-      "duration_ms": 169826,
-      "name": "I Like Big Trucks",
-      "url": "https://open.spotify.com/track/4Br1OPEqim9i6HQXMZMgEI"
-    },
-    {
-      "added_at": "2024-04-08 19:34:37",
-      "album": {
         "name": "Doctor (Work It Out) [feat. Miley Cyrus]",
         "url": "https://open.spotify.com/album/2kJunH6dfHcjJa0lxZbRKr"
       },
@@ -1175,38 +1047,6 @@
     {
       "added_at": "2024-04-08 19:34:37",
       "album": {
-        "name": "Peacekeeper",
-        "url": "https://open.spotify.com/album/0aYKvIl8cM2hYe5Ixbzocg"
-      },
-      "artists": [
-        {
-          "name": "1010benja",
-          "url": "https://open.spotify.com/artist/7xBrMNV9UKo2THKIk9xpBK"
-        }
-      ],
-      "duration_ms": 114545,
-      "name": "Peacekeeper",
-      "url": "https://open.spotify.com/track/2zxqgswn6Swwzi7GNi8ZbP"
-    },
-    {
-      "added_at": "2024-04-08 19:34:37",
-      "album": {
-        "name": "good intentions",
-        "url": "https://open.spotify.com/album/1BstsiYcJJ1YMetykBA1So"
-      },
-      "artists": [
-        {
-          "name": "Chase Elliott",
-          "url": "https://open.spotify.com/artist/7CmLWWnzB2PQoGLpJ4zDHR"
-        }
-      ],
-      "duration_ms": 175238,
-      "name": "good intentions",
-      "url": "https://open.spotify.com/track/505JdlYcBOwaATh7iT3WWV"
-    },
-    {
-      "added_at": "2024-04-08 19:34:37",
-      "album": {
         "name": "Avana (Deluxe)",
         "url": "https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV"
       },
@@ -1271,22 +1111,6 @@
       "duration_ms": 130434,
       "name": "New Friends (feat. Eem Triplin)",
       "url": "https://open.spotify.com/track/0shO1fRNWJusvfEId0OfsR"
-    },
-    {
-      "added_at": "2024-04-08 19:34:37",
-      "album": {
-        "name": "Cowboy Songs",
-        "url": "https://open.spotify.com/album/6oYFjTGEuRoK7oeJisREF5"
-      },
-      "artists": [
-        {
-          "name": "George Birge",
-          "url": "https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp"
-        }
-      ],
-      "duration_ms": 187186,
-      "name": "Cowboy Songs",
-      "url": "https://open.spotify.com/track/7LV9OX6WfOTndB4BqoXDEE"
     },
     {
       "added_at": "2024-04-08 19:34:37",
@@ -1391,38 +1215,6 @@
     {
       "added_at": "2024-04-08 19:34:37",
       "album": {
-        "name": "YOSHIMITSU",
-        "url": "https://open.spotify.com/album/4slW380gBywM6GpFwXzYWi"
-      },
-      "artists": [
-        {
-          "name": "Cochise",
-          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
-        }
-      ],
-      "duration_ms": 172934,
-      "name": "YOSHIMITSU",
-      "url": "https://open.spotify.com/track/5X5Aw2yaaCXncoiQh3gWRc"
-    },
-    {
-      "added_at": "2024-04-08 19:34:37",
-      "album": {
-        "name": "hiatus",
-        "url": "https://open.spotify.com/album/1xpdm7VyOyj3QlfyyfASyP"
-      },
-      "artists": [
-        {
-          "name": "Elle Darlington",
-          "url": "https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x"
-        }
-      ],
-      "duration_ms": 142225,
-      "name": "hiatus",
-      "url": "https://open.spotify.com/track/7cbvHeOb1SjNxkbqDuilw2"
-    },
-    {
-      "added_at": "2024-04-08 19:34:37",
-      "album": {
         "name": "Colder",
         "url": "https://open.spotify.com/album/1P51mkzIVBK6pUaHAEPXun"
       },
@@ -1467,26 +1259,6 @@
       "duration_ms": 183473,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr"
-    },
-    {
-      "added_at": "2024-04-08 19:34:37",
-      "album": {
-        "name": "Pain & Love 2",
-        "url": "https://open.spotify.com/album/1M1i7i0G5g0bhQIoyXeqJN"
-      },
-      "artists": [
-        {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
-        },
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Trauma (feat. Lil Tjay)",
-      "url": "https://open.spotify.com/track/5jXKeWgIopSbVWyVIOe6W9"
     },
     {
       "added_at": "2024-04-08 19:34:37",

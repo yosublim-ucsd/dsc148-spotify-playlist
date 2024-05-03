@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock, neo\-psychedelic, and psychedelic indie\. Cover: Suki Waterhouse
 
-966 songs - 2 day 15 hr 2 min
+967 songs - 2 day 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [20200820 Turn My TV On](https://open.spotify.com/track/7ab0dshQmFwArA3EKBOcs5) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [One Wayne G](https://open.spotify.com/album/70hX7IYqmUGV97OXs2v848) | 3:00 | 2023-04-21 | 2023-06-24 |
 | [4\-U](https://open.spotify.com/track/3rOzx4VaqWIUmeod4k6Nc9) | [Lucys](https://open.spotify.com/artist/3zfHIfmPkBRTy2EPGuTUxI) | [Talk to Me When I'm Sober](https://open.spotify.com/album/4yKXpjNgwKMszBOUXYEFiv) | 3:45 | 2021-04-02 | 2022-04-21 |
 | [49 Years](https://open.spotify.com/track/0D0qXcu6qTrrVls156VipG) | [Club Kuru](https://open.spotify.com/artist/1AdQnmF6taa106PwtUBK6O) | [49 Years](https://open.spotify.com/album/2iuyzz6hPfbEBJEgikgoi6) | 3:56 | 2021-04-02 | 2022-04-21 |
-| [5 to 8 Hours a Day \(WWwaG\)](https://open.spotify.com/track/0SoEbU9NN28HxNAhkLDuEe) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [I Killed Your Dog](https://open.spotify.com/album/2O01P3dwp47dyImCnTdfyo) | 4:30 | 2024-01-02 |  |
+| [5 to 8 Hours a Day \(WWwaG\)](https://open.spotify.com/track/0SoEbU9NN28HxNAhkLDuEe) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [I Killed Your Dog](https://open.spotify.com/album/2O01P3dwp47dyImCnTdfyo) | 4:30 | 2024-01-02 | 2024-05-03 |
 | [a brief dream of sun](https://open.spotify.com/track/4NnhwPaaRAxYQNjf63jixW) | [dayaway](https://open.spotify.com/artist/6doiARNekKDdYtgBXIE5tX) | [a brief dream of sun](https://open.spotify.com/album/5m0OjAErvHNcREsNbY1SHG) | 3:26 | 2023-06-23 |  |
 | [A Heavy Drug](https://open.spotify.com/track/0ZrT7h8W04PDhxTSBgsdrU) | [Ben Stevenson](https://open.spotify.com/artist/06ZVnBRVWngP7hMjnJsWRq) | [Whatever & Ever](https://open.spotify.com/album/4EX14bfjBceEPyq5a3LAKI) | 5:26 | 2021-06-04 | 2022-04-18 |
 | [A Man Will Do Wrong](https://open.spotify.com/track/1vAI1IqOPMyMB0y6dzK4KB) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Electrophonic Chronic](https://open.spotify.com/album/3eU8EWUvHf0uls7ucn2aDJ) | 4:17 | 2023-01-27 | 2023-04-22 |
@@ -397,6 +397,7 @@
 | [I Want Troll With You \- Gentle Dom Remix](https://open.spotify.com/track/7HkEcOI0XrGj7gPrFd5O95) | [Connan Mockasin](https://open.spotify.com/artist/247AfC9pLuqwgpH8Mo96oA), [Andrew VanWyngarden](https://open.spotify.com/artist/0SZWZaoD3G4jMjGPEB1IiG), [Gentle Dom](https://open.spotify.com/artist/7pCyWyDRP3yk3MJ7mYFmvc) | [I Want Troll with You](https://open.spotify.com/album/3Xm8Y3BzHjH9zaoCuEEycn) | 4:42 | 2021-04-02 | 2022-07-29 |
 | [I'll Be Here A While](https://open.spotify.com/track/3XKGFDN39V5rTxSqUkgIC2) | [Pink Skies](https://open.spotify.com/artist/52hSI2C4N5tiTqSRIvWfyV) | [SPECTRA](https://open.spotify.com/album/67DQWctOBzNSctLIyGbPmQ) | 3:57 | 2021-04-02 | 2023-01-11 |
 | [i'll drink from your cup](https://open.spotify.com/track/4vNCcNYmv7E4bpJiYyM5jv) | [tigerstate](https://open.spotify.com/artist/5IASPTbco70KYmxQwSg8E1) | [i'll drink from your cup](https://open.spotify.com/album/6oQ7b7kIsrTakFViY3YCjb) | 3:01 | 2021-08-20 | 2022-07-29 |
+| [I'll Go With You](https://open.spotify.com/track/0N3N1q600sON74ul6aF9O0) | [La Luz](https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3) | [I’ll Go With You](https://open.spotify.com/album/2gBBIlzOC8FIjjskZNniQL) | 3:04 | 2024-05-03 |  |
 | [I've Never Been To LA \(Edit\)](https://open.spotify.com/track/5f20q1GsH6sr5tD91jgbyP) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn), [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [I've Never Been To LA](https://open.spotify.com/album/3Ct1O772WdBCY6Cv7q9JAd) | 2:39 | 2022-07-11 | 2023-03-07 |
 | [Ice V](https://open.spotify.com/track/3B5G4Twkzamy4ZuOWJbbGk) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Ice V](https://open.spotify.com/album/5Al5fmTyzQNHel55Hc5O7q) | 10:15 | 2022-09-23 | 2022-11-17 |
 | [Ideas](https://open.spotify.com/track/1ujR3cGRlQJjGqEI7UQHsB) | [Tibetan Miracle Seeds](https://open.spotify.com/artist/71W1vz4yilHIyFTQaoeBZI) | [Inca Missiles](https://open.spotify.com/album/4nc3ugTyC8Mxpcr6zGndGA) | 5:48 | 2022-04-20 | 2022-07-28 |
@@ -655,7 +656,7 @@
 | [Planet Express](https://open.spotify.com/track/7HY0lAbWyJr6JqvKgRQDEL) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Hitchhiker](https://open.spotify.com/album/32Srim9ACKmJsJvszNNlTe) | 4:20 | 2024-01-02 | 2024-04-13 |
 | [Poisoned](https://open.spotify.com/track/4QsDdmKODqrc9vr6Yb3jlZ) | [Cousin Kula](https://open.spotify.com/artist/1TuDUmw1jUuY1V5s78TNHd) | [Poisoned](https://open.spotify.com/album/4GV7zlEZ8pxZ4uQEz9alvz) | 4:05 | 2023-12-01 |  |
 | [Polvo de diamantes](https://open.spotify.com/track/1nin943ESpUGkceZE0hueD) | [Rufus T\. Firefly](https://open.spotify.com/artist/51Hx65ymA6pNWu8cTTXET1) | [Polvo de diamantes](https://open.spotify.com/album/2rJcykZe2isoW44xBKjynM) | 5:16 | 2021-09-10 | 2022-04-18 |
-| [Poppies](https://open.spotify.com/track/09mdfY9whnrcj5bkPJSoj2) | [La Luz](https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3) | [Poppies](https://open.spotify.com/album/3CaDI5YJRgCA2gaogiOXkF) | 3:32 | 2024-04-05 |  |
+| [Poppies](https://open.spotify.com/track/09mdfY9whnrcj5bkPJSoj2) | [La Luz](https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3) | [Poppies](https://open.spotify.com/album/3CaDI5YJRgCA2gaogiOXkF) | 3:32 | 2024-04-05 | 2024-05-03 |
 | [Portia](https://open.spotify.com/track/5BudjBzFyPFpHfgLkKqja1) | [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [Portia](https://open.spotify.com/album/6L2ktalG95PWiI7BpB9YcV) | 3:20 | 2023-05-05 | 2023-09-30 |
 | [Possibilities](https://open.spotify.com/track/02sCcp0dfMOZ644LDcDUZF) | [The Great Escape](https://open.spotify.com/artist/1kPPXyGPHwbZGsnuxFtjYg) | [Possibilities](https://open.spotify.com/album/3AvsHikvd4mLWgLkchQv8n) | 4:12 | 2023-07-13 |  |
 | [Post Mortem Debugging](https://open.spotify.com/track/6QjieXJmF0K9GdpREPxUl9) | [Cactus?](https://open.spotify.com/artist/5Hi8a6gHwKemLmHVXMkCif) | [Post Mortem Debugging](https://open.spotify.com/album/7Bb8M9dPhPr4mjINqs0fm4) | 2:49 | 2021-04-02 | 2022-04-20 |

@@ -1,28 +1,28 @@
 {
   "description": "Featuring that new vintage. Cover: Lake Street Dive",
-  "num_followers": 413206,
+  "num_followers": 413219,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zism/AAAAAB1wBV/oxsALpexU8hPQWeD",
+  "snapshot_id": "ZjRhfAAAAADTI9CV36FkJimWhbGWhA+U",
   "tracks": [
     {
-      "added_at": "2024-04-26 04:01:00",
+      "added_at": "2024-05-03 04:01:00",
       "album": {
-        "name": "Bewitched: The Goddess Edition",
-        "url": "https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb"
+        "name": "It Was You",
+        "url": "https://open.spotify.com/album/5xo2Vvp1ceoc71Sz7YuvWh"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+          "name": "Stephen Day",
+          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
         }
       ],
-      "duration_ms": 213213,
-      "name": "Bored",
-      "url": "https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5"
+      "duration_ms": 196284,
+      "name": "It Was You",
+      "url": "https://open.spotify.com/track/6GGH6rgZEGAg0Afy6SOXb8"
     },
     {
       "added_at": "2024-04-26 04:01:00",
@@ -39,6 +39,38 @@
       "duration_ms": 192317,
       "name": "Hammer to the Heart",
       "url": "https://open.spotify.com/track/0IdwfnHFfyb7zc7GFs75QQ"
+    },
+    {
+      "added_at": "2024-05-03 04:01:00",
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/7JKGPSP7UIjxPWWo9KuqMK"
+      },
+      "artists": [
+        {
+          "name": "Lusaint",
+          "url": "https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7"
+        }
+      ],
+      "duration_ms": 162019,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/0MaRZUe5QjY56E1pfY3hFY"
+    },
+    {
+      "added_at": "2024-04-26 04:01:00",
+      "album": {
+        "name": "Bewitched: The Goddess Edition",
+        "url": "https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 213213,
+      "name": "Bored",
+      "url": "https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5"
     },
     {
       "added_at": "2024-04-26 04:01:00",
@@ -273,22 +305,6 @@
       "url": "https://open.spotify.com/track/2h3slSQMBstt11fys4CFYb"
     },
     {
-      "added_at": "2024-02-02 05:01:00",
-      "album": {
-        "name": "Sweet Tooth",
-        "url": "https://open.spotify.com/album/0m7jHaP0wjBEqrRncFTLic"
-      },
-      "artists": [
-        {
-          "name": "Lusaint",
-          "url": "https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7"
-        }
-      ],
-      "duration_ms": 187324,
-      "name": "Sweet Tooth",
-      "url": "https://open.spotify.com/track/2q3WnVVXT4xh4GA4O7cHF3"
-    },
-    {
       "added_at": "2024-02-23 05:01:00",
       "album": {
         "name": "Lane Brothers",
@@ -439,22 +455,6 @@
       "duration_ms": 204376,
       "name": "Dream Boy",
       "url": "https://open.spotify.com/track/45dJrdg8O7Rz1XAlffMc9N"
-    },
-    {
-      "added_at": "2023-11-17 05:01:00",
-      "album": {
-        "name": "4321",
-        "url": "https://open.spotify.com/album/5cqnDDzRKXFsjpax8cY2yo"
-      },
-      "artists": [
-        {
-          "name": "Stephen Day",
-          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
-        }
-      ],
-      "duration_ms": 232957,
-      "name": "4321",
-      "url": "https://open.spotify.com/track/22ZjKxmxtMXoAnJSN9gpq5"
     },
     {
       "added_at": "2023-10-27 04:01:00",

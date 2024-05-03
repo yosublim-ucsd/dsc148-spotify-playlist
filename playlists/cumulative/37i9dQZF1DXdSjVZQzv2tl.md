@@ -4,7 +4,7 @@
 
 > O melhor do sertanejo em uma só playlist! Foto: Zé Neto & Cristiano
 
-214 songs - 10 hr 9 min
+215 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Dedo do Meio \- Ao Vivo](https://open.spotify.com/track/2ORC76autQ7QTfBCkZl4Wo) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Fortaleza, Vol.2 \(Ao Vivo\)](https://open.spotify.com/album/6t2JyS8CJ0pgBMabJhXWGK) | 2:47 | 2024-04-12 |  |
 | [Deixa Eu Amar Você](https://open.spotify.com/track/2DyuHPs5w0HXuzzusnoMYa) | [Fernando & Sorocaba](https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8) | [On Fire](https://open.spotify.com/album/2EgIkuV76R6XfAefSNOkWX) | 3:11 | 2023-11-17 | 2023-12-19 |
 | [DEJA VU](https://open.spotify.com/track/2IDf0IZ9dfw0uDYV2n1bJc) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [DEJA VU](https://open.spotify.com/album/0aN9m8iDUE1Khh5qL6Aj4q) | 3:19 | 2023-12-18 | 2024-02-10 |
-| [Desandei \- Ao Vivo](https://open.spotify.com/track/6dtQM0CXRFJgD7ifUNosZj) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Desandei \(Ao Vivo\)](https://open.spotify.com/album/4WbP3dFudueQsKivG5QUI3) | 2:23 | 2023-05-15 |  |
+| [Desandei \- Ao Vivo](https://open.spotify.com/track/6dtQM0CXRFJgD7ifUNosZj) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Desandei \(Ao Vivo\)](https://open.spotify.com/album/4WbP3dFudueQsKivG5QUI3) | 2:23 | 2023-05-15 | 2024-05-03 |
 | [Desbloqueado \- Ao Vivo](https://open.spotify.com/track/66HWIQEq6xO0IZ47AHrybG) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Desbloqueado \(Ao Vivo\)](https://open.spotify.com/album/3RwNnn4Uy7gJlmy0TTWD1m) | 3:08 | 2021-12-31 | 2022-04-29 |
 | [Desejo Imortal \(It Must Have Been Love\)](https://open.spotify.com/track/1L7hWEc3tVjvmbw48ShktM) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Desejo Imortal \(It Must Have Been Love\)](https://open.spotify.com/album/5dJzuxTgkvdhSlgInkqMqC) | 3:04 | 2023-04-21 | 2023-07-08 |
 | [Deu Moral \- Ao Vivo](https://open.spotify.com/track/0WiJIa3V9GdcJfcy1FhLjp) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Deu Moral \(Ao Vivo\)](https://open.spotify.com/album/15pXNSKEOHeM0sN1NMtPzy) | 2:02 | 2024-04-19 |  |
@@ -186,6 +186,7 @@
 | [Rasteira \- Ao Vivo](https://open.spotify.com/track/685gjMmRjwLFrtCWtF2sXo) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical \(Ao Vivo / Vol\. 1\)](https://open.spotify.com/album/34C5pWtJWvLUfKoIZTNrug) | 3:09 | 2021-12-31 | 2022-12-10 |
 | [Saudade da Minha Vida \- Ao Vivo](https://open.spotify.com/track/51FFbyL0PjkYtjXJQP0JoP) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Saudade da Minha Vida \(Ao Vivo\)](https://open.spotify.com/album/12cggEPGtw4AamOwbk6Got) | 3:14 | 2023-02-16 | 2023-09-16 |
 | [Se Ele Soubesse \- Ao Vivo Em Goiânia](https://open.spotify.com/track/2zDwJnP9n9yCUyfiLIwkDM) | [Guilherme & Santiago](https://open.spotify.com/artist/61rqgwKmF0QwycnC8O82rn), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Se Ele Soubesse \(Ao Vivo Em Goiânia\)](https://open.spotify.com/album/3IzxCfPuWv3r8fQ1IpDY5a) | 2:50 | 2023-02-15 | 2023-07-22 |
+| [Se Eu Beber Uma Lata \- Ao Vivo](https://open.spotify.com/track/4OOoK6nkSn6OSVWBdrEKB0) | [Pedro Paulo & Alex](https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN), [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Se Eu Beber Uma Lata \(Ao Vivo\)](https://open.spotify.com/album/1jUSw7tkrI7ntaeqEHdjIx) | 2:24 | 2024-05-03 |  |
 | [Seu Brilho Sumiu \- Ao Vivo](https://open.spotify.com/track/3PH1nUysW7ybo3Yu8sqlPN) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Let's Bora, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/1jd2UnD7KAYtlTxmfmn59t) | 2:48 | 2023-03-09 | 2023-12-11 |
 | [Seu Erro \- Ao Vivo Em Nova Iorque / 2022](https://open.spotify.com/track/6tGlPVCrjerAAbKJs85m5g) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [To Be \(Ao Vivo Em Nova Iorque EP2\)](https://open.spotify.com/album/7KSFvKdpluzuqP1P5Y2g5c) | 3:12 | 2023-11-10 |  |
 | [Sofrimento Líquido \- Ao Vivo](https://open.spotify.com/track/4lFhk7Z4wzNqjhJ3ln6AbN) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Cristinas](https://open.spotify.com/artist/7DmKgIhj9hUClv6a1iF4Q3) | [Raiz Goiânia \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/25jNsrO9DHmCnQ6vQ4vVTL) | 2:29 | 2024-02-23 |  |

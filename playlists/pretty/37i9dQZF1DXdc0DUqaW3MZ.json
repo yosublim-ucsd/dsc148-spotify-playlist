@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 336782,
+  "num_followers": 336919,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -907,18 +907,26 @@
     {
       "added_at": "2024-04-04 15:22:42",
       "album": {
-        "name": "Ma Jo Lo",
-        "url": "https://open.spotify.com/album/6dHnQB6ZDqgGe8PWtu7adk"
+        "name": "Sounds of My World",
+        "url": "https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH"
       },
       "artists": [
         {
-          "name": "Midas the Jagaban",
-          "url": "https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd"
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        },
+        {
+          "name": "George The Poet",
+          "url": "https://open.spotify.com/artist/7v8N36cC4msGrIM2YT4LNC"
         }
       ],
-      "duration_ms": 147169,
-      "name": "Ma Jo Lo",
-      "url": "https://open.spotify.com/track/761bu7T8dZY8GPQEaEmf87"
+      "duration_ms": 287037,
+      "name": "Summer In The Ends",
+      "url": "https://open.spotify.com/track/3ttIBQv2qjIWXbHeoCnoVm"
     },
     {
       "added_at": "2024-04-04 15:22:42",
@@ -943,26 +951,18 @@
     {
       "added_at": "2024-04-04 15:22:42",
       "album": {
-        "name": "Sounds of My World",
-        "url": "https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH"
+        "name": "Ma Jo Lo",
+        "url": "https://open.spotify.com/album/6dHnQB6ZDqgGe8PWtu7adk"
       },
       "artists": [
         {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        },
-        {
-          "name": "George The Poet",
-          "url": "https://open.spotify.com/artist/7v8N36cC4msGrIM2YT4LNC"
+          "name": "Midas the Jagaban",
+          "url": "https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd"
         }
       ],
-      "duration_ms": 287037,
-      "name": "Summer In The Ends",
-      "url": "https://open.spotify.com/track/3ttIBQv2qjIWXbHeoCnoVm"
+      "duration_ms": 147169,
+      "name": "Ma Jo Lo",
+      "url": "https://open.spotify.com/track/761bu7T8dZY8GPQEaEmf87"
     },
     {
       "added_at": "2024-04-04 15:22:42",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2024-04-04 15:22:42",
       "album": {
-        "name": "What Kinda Music (Bonus Tracks)",
-        "url": "https://open.spotify.com/album/5ciBtE0wpwlIew7zvUKmd2"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        },
-        {
-          "name": "Yussef Dayes",
-          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
-        }
-      ],
-      "duration_ms": 189683,
-      "name": "Can You Feel It",
-      "url": "https://open.spotify.com/track/4jbzmPDdZMp4JFcif3OPnH"
-    },
-    {
-      "added_at": "2024-04-04 15:22:42",
-      "album": {
         "name": "You Could Be",
         "url": "https://open.spotify.com/album/32bdwKmh9xPoBmYlCjNNZI"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 218024,
       "name": "You Could Be",
       "url": "https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH"
+    },
+    {
+      "added_at": "2024-04-04 15:22:42",
+      "album": {
+        "name": "What Kinda Music (Bonus Tracks)",
+        "url": "https://open.spotify.com/album/5ciBtE0wpwlIew7zvUKmd2"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        }
+      ],
+      "duration_ms": 189683,
+      "name": "Can You Feel It",
+      "url": "https://open.spotify.com/track/4jbzmPDdZMp4JFcif3OPnH"
     },
     {
       "added_at": "2024-04-04 15:22:42",
@@ -1247,6 +1247,26 @@
     {
       "added_at": "2024-04-04 15:22:42",
       "album": {
+        "name": "Big Bad Mood (feat. Miraa May)",
+        "url": "https://open.spotify.com/album/4kpdV2LSaUGLSPLZWz7cEJ"
+      },
+      "artists": [
+        {
+          "name": "Jordan Stephens",
+          "url": "https://open.spotify.com/artist/0SVz62vUjHKkbVOgoTK4Ze"
+        },
+        {
+          "name": "Miraa May",
+          "url": "https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM"
+        }
+      ],
+      "duration_ms": 229090,
+      "name": "Big Bad Mood (feat. Miraa May)",
+      "url": "https://open.spotify.com/track/3GdWGAtxFU9184mRdqfB0T"
+    },
+    {
+      "added_at": "2024-04-04 15:22:42",
+      "album": {
         "name": "Holier (JD. REID Remix feat. Shygirl)",
         "url": "https://open.spotify.com/album/42At6bfdhnCcDuX2d3zhxh"
       },
@@ -1267,26 +1287,6 @@
       "duration_ms": 215063,
       "name": "Holier - JD. REID Remix feat. Shygirl",
       "url": "https://open.spotify.com/track/3SAGwjKKitPBNpgdi80ScD"
-    },
-    {
-      "added_at": "2024-04-04 15:22:42",
-      "album": {
-        "name": "Big Bad Mood (feat. Miraa May)",
-        "url": "https://open.spotify.com/album/4kpdV2LSaUGLSPLZWz7cEJ"
-      },
-      "artists": [
-        {
-          "name": "Jordan Stephens",
-          "url": "https://open.spotify.com/artist/0SVz62vUjHKkbVOgoTK4Ze"
-        },
-        {
-          "name": "Miraa May",
-          "url": "https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM"
-        }
-      ],
-      "duration_ms": 229090,
-      "name": "Big Bad Mood (feat. Miraa May)",
-      "url": "https://open.spotify.com/track/3GdWGAtxFU9184mRdqfB0T"
     },
     {
       "added_at": "2024-04-04 15:22:42",

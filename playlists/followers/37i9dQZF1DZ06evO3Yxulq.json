@@ -1,7 +1,7 @@
 {
-  "2024-05-02": 38468,
+  "2024-05-03": 38480,
   "date_first_scraped": "2022-09-15",
-  "description": "This is Christine D'Clario. The essential tracks, all in one playlist.",
+  "description": "This Is Christine D'Clario. Los temas esenciales, todos en una lista.",
   "name": "This Is Christine D'Clario",
   "tracks": [
     {
@@ -481,6 +481,24 @@
     {
       "album": {
         "name": "Emanuel",
+        "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 513870,
+      "name": "Dios de Maravillas",
+      "url": "https://open.spotify.com/track/5QO9bWvJS6lHbITqUzf0jO"
+    },
+    {
+      "album": {
+        "name": "Emanuel",
         "url": "https://open.spotify.com/album/6mNXg7SEzc56gbSEwmoK0Q"
       },
       "artists": [
@@ -491,7 +509,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-02",
       "duration_ms": 513870,
       "name": "Dios De Maravillas",
       "url": "https://open.spotify.com/track/6JP6aiZrbthavbl8pd9oI7"

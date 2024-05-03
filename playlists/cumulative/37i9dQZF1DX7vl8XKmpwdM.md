@@ -4,7 +4,7 @@
 
 > Dance Machi Dance<br/>Cover : Jigarthanda DoubleX
 
-134 songs - 8 hr 2 min
+135 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Polladha Ulagam \(From "Maaran"\)](https://open.spotify.com/track/0CI3up9Rf5tZq5MxfJG2oB) | [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Polladha Ulagam \(From "Maaran"\)](https://open.spotify.com/album/26fNiuVtumk1NGsmxMZe0T) | 3:55 | 2022-01-26 | 2022-11-15 |
 | [Private Party \(From "Don"\)](https://open.spotify.com/track/6eYsOcDdB5b6rTO5ubMxeV) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Private Party \(From "Don"\)](https://open.spotify.com/album/1JOGTaUwTOfeW70ed3rRr2) | 3:36 | 2022-04-30 |  |
 | [Puli Manga Pulip \- From "Parris Jeyaraj"](https://open.spotify.com/track/5KbGHaITw0wFsuwWBsfY5C) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Gana Muthu](https://open.spotify.com/artist/2oyLpdrvnRrkgwc48UZFSx) | [Puli Manga Pulip \(From "Parris Jeyaraj"\)](https://open.spotify.com/album/1DzuQPgTb4jD5WO9advtbV) | 2:58 | 2021-12-01 | 2023-04-01 |
+| [Pushpa Pushpa \(From "Pushpa 2 The Rule"\) \[TAMIL\]](https://open.spotify.com/track/7tPvUREcqTO5O12t7vwhev) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Deepak Blue](https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf), [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Viveka](https://open.spotify.com/artist/5r80gH9ibGjUVSQrXD8W7Z) | [Pushpa Pushpa \(From "Pushpa 2 The Rule"\) \[TAMIL\]](https://open.spotify.com/album/3bEslG5qU52zC2MSWtKUAo) | 4:16 | 2024-05-02 |  |
 | [Ra Ra Rakkamma \(From "Vikrant Rona"\)](https://open.spotify.com/track/2kcizR0QjZNKchPQNGL2bK) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5) | [Ra Ra Rakkamma \(From "Vikrant Rona"\)](https://open.spotify.com/album/3uoKayBMRY0SctDyAa6PcL) | 3:38 | 2022-05-26 | 2023-11-25 |
 | [Raavana Kottathula](https://open.spotify.com/track/5NlrcQ395izF94hWVHVID9) | [Diwakar](https://open.spotify.com/artist/5BdXSKDC9KQQpdQ7V3cZxD), [K Ekadesi](https://open.spotify.com/artist/1Qxk3WSwHhmyB9YF87HpkP) | [Raavana Kottam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4f4mHDmV6ZYRKmGLmbQY0e) | 4:03 | 2023-04-28 | 2023-06-27 |
 | [Raavana Kottathula](https://open.spotify.com/track/7bCo86nA52IUWcJsuNu81F) | [Justin Prabhakaran](https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr), [Diwakar](https://open.spotify.com/artist/5BdXSKDC9KQQpdQ7V3cZxD) | [Raavana Kottam](https://open.spotify.com/album/13GOZsEZb3fB4Ho3lGStbv) | 4:03 | 2023-04-28 | 2023-04-30 |

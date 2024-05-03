@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "RELAXER",
+        "url": "https://open.spotify.com/album/7AVKwlAGKaLBii6gsl1Hje"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300106,
+      "name": "3WW",
+      "url": "https://open.spotify.com/track/5ong0qV1LTNeE4hAmRJM1b"
+    },
+    {
+      "album": {
         "name": "Holo",
         "url": "https://open.spotify.com/album/0ygukMYaVzLgjcVM4d7oWk"
       },
@@ -1632,7 +1650,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 155720,
       "name": "Loving Is Easy (feat. Benny Sings)",
       "url": "https://open.spotify.com/track/5EYi2rH4LYs6M21ZLOyQTx"
@@ -2054,7 +2072,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 316187,
       "name": "Plastic 100\u00b0C",
       "url": "https://open.spotify.com/track/0P5bg4JX1fUplClPC0nkUS"
@@ -2736,7 +2754,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 262600,
       "name": "Television / So Far So Good",
       "url": "https://open.spotify.com/track/5OUTFH5acycdnf8OVo21Gv"

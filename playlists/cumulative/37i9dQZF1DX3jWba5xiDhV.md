@@ -4,7 +4,7 @@
 
 > When the dance floor calls your name, that's amore.
 
-178 songs - 15 hr 10 min
+179 songs - 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Color My Love](https://open.spotify.com/track/7F1FamJw5Vy5cAYzkDAtJx) | [Fun Fun](https://open.spotify.com/artist/44NpcgfV0tBVBVNzmtUBhZ) | [Color My Love](https://open.spotify.com/album/5PMIGV61YVeA6mJim1LqJg) | 4:06 | 2022-02-11 | 2022-07-17 |
 | [Comanchero \- Vocal Radio](https://open.spotify.com/track/1Oqt89VF7VM172bY8DCuB9) | [Moon Ray](https://open.spotify.com/artist/0ipBu57ONv2AW0Pxpc2etO), [Gatto](https://open.spotify.com/artist/7Fe0ln6Y2R1l05ZeIpV2Aa), [Martinelli](https://open.spotify.com/artist/3iSJjv1yv9EwpaTIfiuJ4L) | [Comanchero](https://open.spotify.com/album/3faEyz0PVK8IWWXSlDtxij) | 3:57 | 2022-02-11 | 2022-03-22 |
 | [Come On Closer \- \(Dub Version\) Prod\. by Roberto Ferrante \- 2020 Remaster](https://open.spotify.com/track/6kuJUlAVljF251MvyvdcPP) | [Pineapples](https://open.spotify.com/artist/2XT4eexHFaKdv4Jm1NT9r0), [Roberto Ferrante](https://open.spotify.com/artist/3YRXdJknlUSmpFCgaRvyoL), [Douglas Roop](https://open.spotify.com/artist/37nfoS8kfCxK8tzAsbq5vY) | [Come On Closer \(2020 Remaster\)](https://open.spotify.com/album/1bdDfDXBhrMZQZqLDbmGdL) | 6:30 | 2023-04-19 | 2023-06-23 |
+| [Cotton & Silk](https://open.spotify.com/track/6oFA9zdx6geUC6uCqQKhJc) | [Tiger & Woods](https://open.spotify.com/artist/0AEi1DK5ehyvkZzOUlqEVz), [Em](https://open.spotify.com/artist/4ZVw63ejqta34L7Q3bRrpa) | [Cotton & Silk](https://open.spotify.com/album/667kJuZEkDLZtV7j1K4gSS) | 3:43 | 2024-05-03 |  |
 | [Curiosa Scoperta](https://open.spotify.com/track/6jwovHRnlHpGDjEChm57Os) | [Modula](https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7) | [Autostrada Galattica](https://open.spotify.com/album/3SskDYQ8hL0tZQwZrhy1p9) | 5:00 | 2022-02-11 | 2022-08-05 |
 | [Dammi un'idea](https://open.spotify.com/track/7DrO38olLryjXBoxqKPqHN) | [Bruno Belissimo](https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI), [Whitemary](https://open.spotify.com/artist/5bfb49rPCcTFUqn6SVX8nt) | [Dammi un'idea](https://open.spotify.com/album/1Y6CC1upQq0zT8hsuhTHKj) | 3:21 | 2024-03-07 |  |
 | [Dancer](https://open.spotify.com/track/4lteGaLzU5veJOe6wnOvz4) | [Gino Soccio](https://open.spotify.com/artist/3q2AjYY7FmiMh29bKki4EE) | [Outline](https://open.spotify.com/album/71NzsQgmjQ5rIm33Hpjv2V) | 8:28 | 2022-02-11 |  |
@@ -169,7 +170,7 @@
 | [True Love \- Sexual Version](https://open.spotify.com/track/1lee8GIIzxgugsCrkyMsYt) | [N.O.I.A.](https://open.spotify.com/artist/5n1oZahUtUcODMxsH0kwMa) | [Confuzed Disco Cd 1](https://open.spotify.com/album/1dJsPTjiJtFUhVvpE4tnvw) | 5:40 | 2022-02-11 | 2022-07-29 |
 | [Turbo Diesel](https://open.spotify.com/track/3JUW3DtozkLgWkf5F49KIP) | [Albert One](https://open.spotify.com/artist/5b0o4XqUBsGxcJyHLUZEHB) | [Turbo Diesel](https://open.spotify.com/album/2eQblxdwiOIhJBosMwyNRD) | 5:26 | 2022-02-11 | 2022-03-22 |
 | [Tutta sola \(feat\. Pino D'Angiò\)](https://open.spotify.com/track/1b0TK4bq3WCqrw9WLTArF5) | [Corine](https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ), [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [R](https://open.spotify.com/album/6ZqQ9hv1XAhLr8iQBeoWTD) | 3:02 | 2023-10-06 | 2024-04-19 |
-| [Tutta sola \(feat\. Pino D'Angiò\)](https://open.spotify.com/track/4hKObAIM0nMRqLOYaO15fm) | [Corine](https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ), [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [R](https://open.spotify.com/album/6fCdtGCowSifh43OPqO9t3) | 3:02 | 2023-04-03 |  |
+| [Tutta sola \(feat\. Pino D'Angiò\)](https://open.spotify.com/track/4hKObAIM0nMRqLOYaO15fm) | [Corine](https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ), [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [R](https://open.spotify.com/album/6fCdtGCowSifh43OPqO9t3) | 3:02 | 2023-04-03 | 2024-05-03 |
 | [Tutto va bene quando facciamo l'amore](https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA) | [Alex Rossi](https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU), [Jo Wedin](https://open.spotify.com/artist/1uxYQkewWEjKxKtmTukyKB) | [Tutto va bene quando facciamo l'amore \(Remixes\)](https://open.spotify.com/album/4jnSxvi6GEjXFPGXUly9vj) | 3:25 | 2022-02-11 |  |
 | [Two of Hearts](https://open.spotify.com/track/2dURQIBrw3XcHyVZlfdpC1) | [Stacey Q](https://open.spotify.com/artist/3q8tRS0hCMVCylgKAoA0ya) | [Better Than Heaven](https://open.spotify.com/album/71st36nPTXAgWnEaNg9AZa) | 3:59 | 2022-07-01 |  |
 | [Under the Ice \- Original 12 Inch Version](https://open.spotify.com/track/2ue8ttSzbhnvhO7zc52NjC) | [Topo](https://open.spotify.com/artist/3atWGSgG787Lwz2HRvOsc3), [Roby](https://open.spotify.com/artist/6GuBfLWCyZnUatyVaOQLX2) | [Under the Ice \- Single](https://open.spotify.com/album/3vMFalOaP1bCRm8HVFQOAk) | 7:12 | 2022-02-11 |  |

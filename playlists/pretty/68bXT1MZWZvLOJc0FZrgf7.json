@@ -1,13 +1,33 @@
 {
-  "description": "Dance to your favorite electronic hits \ud83e\udea9 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave \ud83d\udd7a Cover: The Chainsmokers",
-  "num_followers": 99489,
+  "description": "Dance to your favorite electronic hits \ud83e\udea9 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave \ud83d\udd7a Cover: Kane Brown &amp; Marsmello",
+  "num_followers": 99488,
   "original_name": "Dance For Days \ud83e\udea9\ud83d\udd7a 2024 EDM",
   "owner": {
     "name": "Filtr US",
     "url": "https://open.spotify.com/user/myplay.com"
   },
-  "snapshot_id": "AAAQKx42Yqmp4hRxwMXAyt7dwdzK7MJq",
+  "snapshot_id": "AAAQMP/ISXSt4D09fKDKCethGwFcF/P4",
   "tracks": [
+    {
+      "added_at": "2024-05-03 04:05:11",
+      "album": {
+        "name": "Miles on It",
+        "url": "https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        }
+      ],
+      "duration_ms": 168355,
+      "name": "Miles on It",
+      "url": "https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"
+    },
     {
       "added_at": "2024-04-26 13:31:25",
       "album": {

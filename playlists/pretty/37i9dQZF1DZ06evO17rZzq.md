@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 
 ### [This Is Kaliii](https://open.spotify.com/playlist/37i9dQZF1DZ06evO17rZzq)
 
-> This is Kaliii\. Todos os maiores hits em uma só playlist.
+> This is Kaliii\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,289 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,295 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 | 42 | [Spend Dat](https://open.spotify.com/track/3BketpGVPLcisLVw9ttWc5) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [This Why They Mad Now](https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH) | 2:18 |
 | 43 | [05\. Let 175](https://open.spotify.com/track/0NCuOXs7lRUE9hnKF9agg2) | [Jantar](https://open.spotify.com/artist/7hBmMi4z3lvc6zVdrueRxt), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Jedna Ljubav A Kurva](https://open.spotify.com/album/23gGGCdVQH4ImEsZYaaz0t) | 3:26 |
 | 44 | [12](https://open.spotify.com/track/4SDvrRS2dKUfvpkYWay8rM) | [Foe](https://open.spotify.com/artist/7j826TUXPEos01kKSeddi3), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [12](https://open.spotify.com/album/1sYUOWAoRUKPvlilrrt9m1) | 3:11 |
-| 45 | [Poézia Ulice](https://open.spotify.com/track/3WDmH57riK5YqsR4YUlxeb) | [Bacil](https://open.spotify.com/artist/4uviJhX649yLp6C4fPL4Ry), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [StreetTape](https://open.spotify.com/album/3AeDIwMGQSxOZq0yxanTRJ) | 5:01 |
-| 46 | [Andělé A Démoni](https://open.spotify.com/track/1rOGlKL0GNiNbKqNfQq6H4) | [DeFuckTo](https://open.spotify.com/artist/5ePLZV8qgXvEewuJCWkwTU), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Andělé A Démoni](https://open.spotify.com/album/3GHb3nGINrgVc4Ixq37Sj1) | 3:39 |
-| 47 | [Story Teller \- Original Mix](https://open.spotify.com/track/7grj3JBO3DGa4znViKeIki) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Bridging the Gap, Vol\. 2 Compiled by Dynamic Range](https://open.spotify.com/album/1O9q3Fui5u2yLSiW6PaLPd) | 7:19 |
+| 45 | [Andělé A Démoni](https://open.spotify.com/track/1rOGlKL0GNiNbKqNfQq6H4) | [DeFuckTo](https://open.spotify.com/artist/5ePLZV8qgXvEewuJCWkwTU), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Andělé A Démoni](https://open.spotify.com/album/3GHb3nGINrgVc4Ixq37Sj1) | 3:39 |
+| 46 | [Story Teller \- Original Mix](https://open.spotify.com/track/7grj3JBO3DGa4znViKeIki) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Bridging the Gap, Vol\. 2 Compiled by Dynamic Range](https://open.spotify.com/album/1O9q3Fui5u2yLSiW6PaLPd) | 7:19 |
+| 47 | [Poézia Ulice](https://open.spotify.com/track/3WDmH57riK5YqsR4YUlxeb) | [Bacil](https://open.spotify.com/artist/4uviJhX649yLp6C4fPL4Ry), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [StreetTape](https://open.spotify.com/album/3AeDIwMGQSxOZq0yxanTRJ) | 5:01 |
 | 48 | [Rockers Step Like Kelly](https://open.spotify.com/track/2d18QIOZ9d90BzbndmW01N) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Rockers Dubstep Like Kelly](https://open.spotify.com/album/1zCLe4oFbmkKBNCKVevp6E) | 2:58 |
-| 49 | [Peakin'](https://open.spotify.com/track/6d9SCBxeBhVaZSBs3AVsb2) | [Dr\. Ink](https://open.spotify.com/artist/6pwXKrHAmcTYG3t9utQko4), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Earth Vs Aliens](https://open.spotify.com/album/77wY2XzNiKp6qV11p6vh8i) | 3:46 |
+| 49 | [Jeminn eini](https://open.spotify.com/track/4fXq4gLPLhMdtBoqRnD0wx) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Smekkleysa í hálfa öld](https://open.spotify.com/album/5DnUUQ8gdNflTyqwDCG0ts) | 4:26 |
 | 50 | [Pakkman](https://open.spotify.com/track/2bW876RUtpQOOwz3aocCRT) | [SbMigo](https://open.spotify.com/artist/5zUCkBQ1toNwvXlPSQpL2A), [Durt J](https://open.spotify.com/artist/3y4KE35PrBDq2isu5GHCxO), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [That Rabbit All Star Compilation, Vol\. 1](https://open.spotify.com/album/36qRi5qPrdRBeGQlg1oDIQ) | 3:56 |
 
-Snapshot ID: `ZjA0gAAAAAC+go5KIQzv4q9a+eiLMMMe`
+Snapshot ID: `ZjGGAAAAAAD9qx7cIHQPHHkLFF9WHnWj`

@@ -1,28 +1,32 @@
 {
-  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/35nSKL5p684i0vXrFvcgGz?si=QaAEx61qTWuO11dwsmougw\">Dirk Van Der Westhuizen</a>  ",
-  "num_followers": 100484,
+  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t?si=qckMkXE4Rnml01O2dS1E8w\">Gerhard Steyn</a> & <a href=\"https://open.spotify.com/artist/3Wk4aDwlH1CsErepTTZVe4?si=Z6-ff9tIShiv7deQTozkSg\">Liezel Pieters</a>  ",
+  "num_followers": 100539,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZiuG3wAAAADlVtO1XwiHI93qGFTXIRPv",
+  "snapshot_id": "ZjQM4AAAAAB2xUheDTV26h5AOB+oaiur",
   "tracks": [
     {
       "added_at": "2024-04-26 10:50:07",
       "album": {
-        "name": "Komeet",
-        "url": "https://open.spotify.com/album/06ih95tsmk1zXeVKMLUWo5"
+        "name": "Sterre",
+        "url": "https://open.spotify.com/album/6bNPqe6llpwr7vrLc7vJ1D"
       },
       "artists": [
         {
-          "name": "Dirk Van Der Westhuizen",
-          "url": "https://open.spotify.com/artist/35nSKL5p684i0vXrFvcgGz"
+          "name": "Gerhard Steyn",
+          "url": "https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t"
+        },
+        {
+          "name": "Liezel Pieters",
+          "url": "https://open.spotify.com/artist/3Wk4aDwlH1CsErepTTZVe4"
         }
       ],
-      "duration_ms": 205653,
-      "name": "Komeet",
-      "url": "https://open.spotify.com/track/69vbzbwI2vPXguduchibPl"
+      "duration_ms": 213461,
+      "name": "Sterre",
+      "url": "https://open.spotify.com/track/388hZyeYDEtgKB0j65TIv0"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -153,26 +157,6 @@
       "url": "https://open.spotify.com/track/4yCS6Pqvpg9EaLQcvOPz40"
     },
     {
-      "added_at": "2024-04-26 10:50:07",
-      "album": {
-        "name": "Sterre",
-        "url": "https://open.spotify.com/album/6bNPqe6llpwr7vrLc7vJ1D"
-      },
-      "artists": [
-        {
-          "name": "Gerhard Steyn",
-          "url": "https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t"
-        },
-        {
-          "name": "Liezel Pieters",
-          "url": "https://open.spotify.com/artist/3Wk4aDwlH1CsErepTTZVe4"
-        }
-      ],
-      "duration_ms": 213461,
-      "name": "Sterre",
-      "url": "https://open.spotify.com/track/388hZyeYDEtgKB0j65TIv0"
-    },
-    {
       "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Boksemdais",
@@ -187,6 +171,22 @@
       "duration_ms": 188553,
       "name": "Boksemdais",
       "url": "https://open.spotify.com/track/5UqFcsRHW5It2HD3f2yoJD"
+    },
+    {
+      "added_at": "2024-04-26 10:50:07",
+      "album": {
+        "name": "Komeet",
+        "url": "https://open.spotify.com/album/06ih95tsmk1zXeVKMLUWo5"
+      },
+      "artists": [
+        {
+          "name": "Dirk Van Der Westhuizen",
+          "url": "https://open.spotify.com/artist/35nSKL5p684i0vXrFvcgGz"
+        }
+      ],
+      "duration_ms": 205653,
+      "name": "Komeet",
+      "url": "https://open.spotify.com/track/69vbzbwI2vPXguduchibPl"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -321,6 +321,22 @@
       "url": "https://open.spotify.com/track/4lXuqZUIkJ66ViPHOFN86v"
     },
     {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
+        "name": "Dans Kwagga",
+        "url": "https://open.spotify.com/album/6EUKAwUr11udwqsy8Fxvd7"
+      },
+      "artists": [
+        {
+          "name": "JAN JAN JAN",
+          "url": "https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ"
+        }
+      ],
+      "duration_ms": 228874,
+      "name": "Dans Kwagga",
+      "url": "https://open.spotify.com/track/5rqe4RmTztq10pipi4b0DA"
+    },
+    {
       "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Koue Kole",
@@ -417,22 +433,6 @@
       "url": "https://open.spotify.com/track/7fQLFDmSuqTnMX0IwjESNg"
     },
     {
-      "added_at": "2024-04-26 10:50:07",
-      "album": {
-        "name": "Deur die re\u00ebn",
-        "url": "https://open.spotify.com/album/09wqRyWhW27Jt9g58PfCpw"
-      },
-      "artists": [
-        {
-          "name": "Franja Du Plessis",
-          "url": "https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41"
-        }
-      ],
-      "duration_ms": 211680,
-      "name": "Deur die Re\u00ebn",
-      "url": "https://open.spotify.com/track/3vhX5qgaDsAcSJ90wddxYS"
-    },
-    {
       "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Khaki",
@@ -497,20 +497,24 @@
       "url": "https://open.spotify.com/track/4u8jDrfDVUIiO5ZHPWC95z"
     },
     {
-      "added_at": "2024-04-26 10:50:07",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "Teiken",
-        "url": "https://open.spotify.com/album/5iMH0jDldXRETC2gJJYHag"
+        "name": "Weer",
+        "url": "https://open.spotify.com/album/4YPFlgvGCWtK0bKrN6qIkz"
       },
       "artists": [
         {
-          "name": "Marno van der Merwe",
-          "url": "https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR"
+          "name": "Re\u00ebn",
+          "url": "https://open.spotify.com/artist/7tIsf2CtmTtj0UGJshHIyB"
+        },
+        {
+          "name": "Refentse",
+          "url": "https://open.spotify.com/artist/5yACoSSz99q9C7n8bKNFxl"
         }
       ],
-      "duration_ms": 185276,
-      "name": "Teiken",
-      "url": "https://open.spotify.com/track/4L4BUQvSfWorVJApet8mYa"
+      "duration_ms": 212533,
+      "name": "Skobbejak",
+      "url": "https://open.spotify.com/track/1PoFAgfEa11NdWylrd8sCc"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -529,20 +533,24 @@
       "url": "https://open.spotify.com/track/7AAWlTqYg7pCkE4Y8lvwVB"
     },
     {
-      "added_at": "2024-04-18 22:00:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "Hart se Taal",
-        "url": "https://open.spotify.com/album/6enxtnG3uRmtW2gyCoONB1"
+        "name": "Neem My Op Vlerke (SENSASIE Remix)",
+        "url": "https://open.spotify.com/album/0FFaZbNOjCRU9oJLWfcAPW"
       },
       "artists": [
         {
-          "name": "Werner Van Der Hoven",
-          "url": "https://open.spotify.com/artist/1z3Cykt3bMtNbrY9SPGSI2"
+          "name": "Anneli Van Rooyen",
+          "url": "https://open.spotify.com/artist/6a7yFEdaUPfs8WpUQI4zfK"
+        },
+        {
+          "name": "SENSASIE",
+          "url": "https://open.spotify.com/artist/10HlHRiu2de76RWUBTbg14"
         }
       ],
-      "duration_ms": 204304,
-      "name": "Vuur Wat Brand",
-      "url": "https://open.spotify.com/track/1c9QUvWJm52Qi0p7i5CKrB"
+      "duration_ms": 202648,
+      "name": "Neem My Op Vlerke - SENSASIE Remix",
+      "url": "https://open.spotify.com/track/5d759QCP2C5N2jsFYb79HO"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -563,6 +571,38 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
+        "name": "Tekkies Brand",
+        "url": "https://open.spotify.com/album/5OS8Fu5s3oOGv58FO7kE2c"
+      },
+      "artists": [
+        {
+          "name": "Irene-Louise Van Wyk",
+          "url": "https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma"
+        }
+      ],
+      "duration_ms": 208519,
+      "name": "Tekkies Brand",
+      "url": "https://open.spotify.com/track/6iMPMrSlrIi272VQgvqCCF"
+    },
+    {
+      "added_at": "2024-04-26 10:50:07",
+      "album": {
+        "name": "Deur die re\u00ebn",
+        "url": "https://open.spotify.com/album/09wqRyWhW27Jt9g58PfCpw"
+      },
+      "artists": [
+        {
+          "name": "Franja Du Plessis",
+          "url": "https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41"
+        }
+      ],
+      "duration_ms": 211680,
+      "name": "Deur die Re\u00ebn",
+      "url": "https://open.spotify.com/track/3vhX5qgaDsAcSJ90wddxYS"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
         "name": "Haar Naam Was Somer",
         "url": "https://open.spotify.com/album/1keEU7iuzECezDFw8Z1CVE"
       },
@@ -575,6 +615,22 @@
       "duration_ms": 194277,
       "name": "Haar Naam Was Somer",
       "url": "https://open.spotify.com/track/6EoilsUTHrNfdslcBOBekC"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "Hittegolf",
+        "url": "https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH"
+      },
+      "artists": [
+        {
+          "name": "Eloff",
+          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
+        }
+      ],
+      "duration_ms": 184026,
+      "name": "ATKV",
+      "url": "https://open.spotify.com/track/5pctBxFOGMxzrR7BfVWMoL"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -627,22 +683,6 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "Hittegolf",
-        "url": "https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH"
-      },
-      "artists": [
-        {
-          "name": "Eloff",
-          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
-        }
-      ],
-      "duration_ms": 220831,
-      "name": "Swipe Regs",
-      "url": "https://open.spotify.com/track/4afGZxLJkHpnTyxOpuQCzc"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
         "name": "Spontaan",
         "url": "https://open.spotify.com/album/03ZN1Le5d94yg39ijW9cBO"
       },
@@ -675,46 +715,6 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "Neem My Op Vlerke (SENSASIE Remix)",
-        "url": "https://open.spotify.com/album/0FFaZbNOjCRU9oJLWfcAPW"
-      },
-      "artists": [
-        {
-          "name": "Anneli Van Rooyen",
-          "url": "https://open.spotify.com/artist/6a7yFEdaUPfs8WpUQI4zfK"
-        },
-        {
-          "name": "SENSASIE",
-          "url": "https://open.spotify.com/artist/10HlHRiu2de76RWUBTbg14"
-        }
-      ],
-      "duration_ms": 202648,
-      "name": "Neem My Op Vlerke - SENSASIE Remix",
-      "url": "https://open.spotify.com/track/5d759QCP2C5N2jsFYb79HO"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
-        "name": "Weer",
-        "url": "https://open.spotify.com/album/4YPFlgvGCWtK0bKrN6qIkz"
-      },
-      "artists": [
-        {
-          "name": "Re\u00ebn",
-          "url": "https://open.spotify.com/artist/7tIsf2CtmTtj0UGJshHIyB"
-        },
-        {
-          "name": "Refentse",
-          "url": "https://open.spotify.com/artist/5yACoSSz99q9C7n8bKNFxl"
-        }
-      ],
-      "duration_ms": 212533,
-      "name": "Skobbejak",
-      "url": "https://open.spotify.com/track/1PoFAgfEa11NdWylrd8sCc"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
         "name": "Hittegolf",
         "url": "https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH"
       },
@@ -724,9 +724,25 @@
           "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
         }
       ],
-      "duration_ms": 184026,
-      "name": "ATKV",
-      "url": "https://open.spotify.com/track/5pctBxFOGMxzrR7BfVWMoL"
+      "duration_ms": 220831,
+      "name": "Swipe Regs",
+      "url": "https://open.spotify.com/track/4afGZxLJkHpnTyxOpuQCzc"
+    },
+    {
+      "added_at": "2024-04-26 10:50:07",
+      "album": {
+        "name": "Teiken",
+        "url": "https://open.spotify.com/album/5iMH0jDldXRETC2gJJYHag"
+      },
+      "artists": [
+        {
+          "name": "Marno van der Merwe",
+          "url": "https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR"
+        }
+      ],
+      "duration_ms": 185276,
+      "name": "Teiken",
+      "url": "https://open.spotify.com/track/4L4BUQvSfWorVJApet8mYa"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -743,22 +759,6 @@
       "duration_ms": 202348,
       "name": "Kalahari Ferrari",
       "url": "https://open.spotify.com/track/5M4Vqy5cw969eZ0MF1J8Je"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
-        "name": "Tekkies Brand",
-        "url": "https://open.spotify.com/album/5OS8Fu5s3oOGv58FO7kE2c"
-      },
-      "artists": [
-        {
-          "name": "Irene-Louise Van Wyk",
-          "url": "https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma"
-        }
-      ],
-      "duration_ms": 208519,
-      "name": "Tekkies Brand",
-      "url": "https://open.spotify.com/track/6iMPMrSlrIi272VQgvqCCF"
     },
     {
       "added_at": "2024-02-15 22:00:00",

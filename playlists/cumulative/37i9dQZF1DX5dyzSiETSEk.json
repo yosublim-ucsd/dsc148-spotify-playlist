@@ -756,7 +756,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-20",
+      "date_removed": null,
       "duration_ms": 241386,
       "name": "Don't You Worry 'Bout A Thing",
       "url": "https://open.spotify.com/track/3PLyl3Ir75VkGgX0KEehqh"
@@ -846,7 +846,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 184212,
       "name": "Feather",
       "url": "https://open.spotify.com/track/0xjD3CLCEyeZKucRLNMsPm"
@@ -1408,7 +1408,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 163640,
       "name": "Let It Roll - From \"The Garfield Movie\"",
       "url": "https://open.spotify.com/track/2sEY3b8G71YuHxlu5XWJMN"
@@ -2870,6 +2870,24 @@
       "duration_ms": 220196,
       "name": "Take My Breath - Single Version",
       "url": "https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF"
+    },
+    {
+      "album": {
+        "name": "TEXAS HOLD 'EM",
+        "url": "https://open.spotify.com/album/7FsXesEv0qrJEcs7FWlrFF"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215025,
+      "name": "TEXAS HOLD 'EM",
+      "url": "https://open.spotify.com/track/0KhNXkYL4RMRKzsr51Hcnc"
     },
     {
       "album": {
